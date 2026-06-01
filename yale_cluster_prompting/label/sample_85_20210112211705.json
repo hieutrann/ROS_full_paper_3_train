@@ -1,0 +1,416 @@
+[
+  {
+    "entity": "Bradycardia",
+    "label": "PROBLEM",
+    "start": 100,
+    "end": 111
+  },
+  {
+    "entity": "dizziness",
+    "label": "PROBLEM",
+    "start": 113,
+    "end": 122
+  },
+  {
+    "entity": "diabetes",
+    "label": "PROBLEM",
+    "start": 124,
+    "end": 132
+  },
+  {
+    "entity": "hypertension",
+    "label": "PROBLEM",
+    "start": 134,
+    "end": 146
+  },
+  {
+    "entity": "abdominal pain",
+    "label": "PROBLEM",
+    "start": 148,
+    "end": 162
+  },
+  {
+    "entity": "sick sinus syndrome",
+    "label": "PROBLEM",
+    "start": 168,
+    "end": 187
+  },
+  {
+    "entity": "Bradycardia",
+    "label": "PROBLEM",
+    "start": 251,
+    "end": 262
+  },
+  {
+    "entity": "Dizziness",
+    "label": "PROBLEM",
+    "start": 267,
+    "end": 276
+  },
+  {
+    "entity": "Diabetes",
+    "label": "PROBLEM",
+    "start": 281,
+    "end": 289
+  },
+  {
+    "entity": "Hypertension",
+    "label": "PROBLEM",
+    "start": 294,
+    "end": 306
+  },
+  {
+    "entity": "Abdominal pain",
+    "label": "PROBLEM",
+    "start": 311,
+    "end": 325
+  },
+  {
+    "entity": "Sick sinus syndrome",
+    "label": "PROBLEM",
+    "start": 348,
+    "end": 367
+  },
+  {
+    "entity": "Permanent pacemaker placement",
+    "label": "TREATMENT",
+    "start": 442,
+    "end": 471
+  },
+  {
+    "entity": "temporary internal pacemaker",
+    "label": "TREATMENT",
+    "start": 478,
+    "end": 506
+  },
+  {
+    "entity": "temporary intracardiac pacemaker",
+    "label": "TREATMENT",
+    "start": 601,
+    "end": 633
+  },
+  {
+    "entity": "a permanent pacemaker",
+    "label": "TREATMENT",
+    "start": 714,
+    "end": 735
+  },
+  {
+    "entity": "electrocardiograms",
+    "label": "TEST",
+    "start": 752,
+    "end": 770
+  },
+  {
+    "entity": "telemetry readings",
+    "label": "TEST",
+    "start": 775,
+    "end": 793
+  },
+  {
+    "entity": "severe bradycardias",
+    "label": "PROBLEM",
+    "start": 837,
+    "end": 856
+  },
+  {
+    "entity": "a sick sinus syndrome",
+    "label": "PROBLEM",
+    "start": 925,
+    "end": 946
+  },
+  {
+    "entity": "Permanent pacemaker",
+    "label": "TREATMENT",
+    "start": 948,
+    "end": 967
+  },
+  {
+    "entity": "right atrium appendage",
+    "label": "TREATMENT",
+    "start": 998,
+    "end": 1020
+  },
+  {
+    "entity": "right ventricular apex electrode placement",
+    "label": "TREATMENT",
+    "start": 1025,
+    "end": 1067
+  },
+  {
+    "entity": "Medtronic pacemaker",
+    "label": "TREATMENT",
+    "start": 1079,
+    "end": 1098
+  },
+  {
+    "entity": "pain in the left side of the chest in the upper area",
+    "label": "PROBLEM",
+    "start": 1138,
+    "end": 1190
+  },
+  {
+    "entity": "Right femoral artery catheter",
+    "label": "TREATMENT",
+    "start": 1225,
+    "end": 1254
+  },
+  {
+    "entity": "hematoma",
+    "label": "PROBLEM",
+    "start": 1343,
+    "end": 1351
+  },
+  {
+    "entity": "blood pressure",
+    "label": "TEST",
+    "start": 1385,
+    "end": 1399
+  },
+  {
+    "entity": "Medication",
+    "label": "DRUG",
+    "start": 1442,
+    "end": 1452
+  },
+  {
+    "entity": "benazepril",
+    "label": "DRUG",
+    "start": 1469,
+    "end": 1479
+  },
+  {
+    "entity": "Norvasc",
+    "label": "DRUG",
+    "start": 1493,
+    "end": 1500
+  },
+  {
+    "entity": "Her blood pressure",
+    "label": "TEST",
+    "start": 1525,
+    "end": 1543
+  },
+  {
+    "entity": "Sick sinus syndrome",
+    "label": "PROBLEM",
+    "start": 1613,
+    "end": 1632
+  },
+  {
+    "entity": "Diabetes mellitus",
+    "label": "PROBLEM",
+    "start": 1710,
+    "end": 1727
+  },
+  {
+    "entity": "peptic ulcer disease",
+    "label": "PROBLEM",
+    "start": 1743,
+    "end": 1763
+  },
+  {
+    "entity": "Hypertension",
+    "label": "PROBLEM",
+    "start": 1768,
+    "end": 1780
+  },
+  {
+    "entity": "Insomnia",
+    "label": "PROBLEM",
+    "start": 1785,
+    "end": 1793
+  },
+  {
+    "entity": "Osteoarthritis",
+    "label": "PROBLEM",
+    "start": 1798,
+    "end": 1812
+  },
+  {
+    "entity": "home medications",
+    "label": "DRUG",
+    "start": 1876,
+    "end": 1892
+  },
+  {
+    "entity": "Actos",
+    "label": "DRUG",
+    "start": 1908,
+    "end": 1913
+  },
+  {
+    "entity": "Bisacodyl",
+    "label": "DRUG",
+    "start": 1930,
+    "end": 1939
+  },
+  {
+    "entity": "constipation",
+    "label": "PROBLEM",
+    "start": 1964,
+    "end": 1976
+  },
+  {
+    "entity": "Cosopt",
+    "label": "DRUG",
+    "start": 1981,
+    "end": 1987
+  },
+  {
+    "entity": "Famotidine",
+    "label": "DRUG",
+    "start": 2036,
+    "end": 2046
+  },
+  {
+    "entity": "Lotemax",
+    "label": "DRUG",
+    "start": 2077,
+    "end": 2084
+  },
+  {
+    "entity": "Lotensin",
+    "label": "DRUG",
+    "start": 2138,
+    "end": 2146
+  },
+  {
+    "entity": "(benazepril)",
+    "label": "DRUG",
+    "start": 2147,
+    "end": 2159
+  },
+  {
+    "entity": "Triazolam",
+    "label": "DRUG",
+    "start": 2189,
+    "end": 2198
+  },
+  {
+    "entity": "Milk of Magnesia",
+    "label": "DRUG",
+    "start": 2228,
+    "end": 2244
+  },
+  {
+    "entity": "constipation",
+    "label": "PROBLEM",
+    "start": 2272,
+    "end": 2284
+  },
+  {
+    "entity": "Tylenol",
+    "label": "DRUG",
+    "start": 2289,
+    "end": 2296
+  },
+  {
+    "entity": "pain",
+    "label": "PROBLEM",
+    "start": 2344,
+    "end": 2348
+  },
+  {
+    "entity": "Promethazine",
+    "label": "DRUG",
+    "start": 2354,
+    "end": 2366
+  },
+  {
+    "entity": "nausea",
+    "label": "PROBLEM",
+    "start": 2397,
+    "end": 2403
+  },
+  {
+    "entity": "vomiting",
+    "label": "PROBLEM",
+    "start": 2407,
+    "end": 2415
+  },
+  {
+    "entity": "Tylenol",
+    "label": "DRUG",
+    "start": 2421,
+    "end": 2428
+  },
+  {
+    "entity": "pain",
+    "label": "PROBLEM",
+    "start": 2477,
+    "end": 2481
+  },
+  {
+    "entity": "cefazolin",
+    "label": "DRUG",
+    "start": 2511,
+    "end": 2520
+  },
+  {
+    "entity": "pacemaker placement",
+    "label": "TREATMENT",
+    "start": 2565,
+    "end": 2584
+  },
+  {
+    "entity": "staple removal",
+    "label": "TREATMENT",
+    "start": 2649,
+    "end": 2663
+  },
+  {
+    "entity": "bradycardia",
+    "label": "PROBLEM",
+    "start": 2763,
+    "end": 2774
+  },
+  {
+    "entity": "abdominal pain",
+    "label": "PROBLEM",
+    "start": 2776,
+    "end": 2790
+  },
+  {
+    "entity": "diabetes",
+    "label": "PROBLEM",
+    "start": 2792,
+    "end": 2800
+  },
+  {
+    "entity": "dizziness",
+    "label": "PROBLEM",
+    "start": 2802,
+    "end": 2811
+  },
+  {
+    "entity": "hypertension",
+    "label": "PROBLEM",
+    "start": 2813,
+    "end": 2825
+  },
+  {
+    "entity": "sick sinus syndrome",
+    "label": "PROBLEM",
+    "start": 2827,
+    "end": 2846
+  },
+  {
+    "entity": "permanent pacemaker",
+    "label": "PROBLEM",
+    "start": 2848,
+    "end": 2867
+  },
+  {
+    "entity": "syndrome",
+    "label": "PROBLEM",
+    "start": 2880,
+    "end": 2888
+  },
+  {
+    "entity": "pacemaker",
+    "label": "TREATMENT",
+    "start": 2897,
+    "end": 2906
+  }
+]

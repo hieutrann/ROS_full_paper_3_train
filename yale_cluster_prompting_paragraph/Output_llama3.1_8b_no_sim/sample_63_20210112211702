@@ -1,0 +1,110 @@
+[
+  {
+    "multiple trauma": "PROBLEM"
+  },
+  {
+    "decubitus ulcer": "PROBLEM"
+  },
+  {
+    "Alcohol induced persisting dementia": "PROBLEM"
+  },
+  {
+    "Anemia": "PROBLEM"
+  },
+  {
+    "Hypokalemia": "PROBLEM"
+  },
+  {
+    "traumatic fracture of the lower arm": "PROBLEM"
+  },
+  {
+    "Alcohol abuse": "PROBLEM"
+  },
+  {
+    "Open wound of the scalp": "PROBLEM"
+  },
+  {
+    "Cervical disk displacement with myelopathy": "PROBLEM"
+  },
+  {
+    "Episodic mood disorder": "PROBLEM"
+  },
+  {
+    "Anxiety disorder": "PROBLEM"
+  },
+  {
+    "Nervousness": "PROBLEM"
+  },
+  {
+    "Psychosis": "PROBLEM"
+  },
+  {
+    "Generalized pain": "PROBLEM"
+  },
+  {
+    "Insomnia": "PROBLEM"
+  },
+  {
+    "Pain in joint pelvic region/thigh": "PROBLEM"
+  },
+  {
+    "Motor vehicle traffic accident": "PROBLEM"
+  },
+  {
+    "Calcium with vitamin D": "DRUG"
+  },
+  {
+    "Ferrous sulfate": "DRUG"
+  },
+  {
+    "Multivitamin": "DRUG"
+  },
+  {
+    "Nicotine patch": "DRUG"
+  },
+  {
+    "Seroquel": "DRUG"
+  },
+  {
+    "Xenaderm": "DRUG"
+  },
+  {
+    "Vicodin": "DRUG"
+  },
+  {
+    "Ativan": "DRUG"
+  },
+  {
+    "ORIF": "TREATMENT"
+  },
+  {
+    "wound care": "TREATMENT"
+  },
+  {
+    "iron treatment": "TREATMENT"
+  },
+  {
+    "therapy": "TREATMENT"
+  },
+  {
+    "Seroquel": "TREATMENT"
+  },
+  {
+    "Ativan": "TREATMENT"
+  },
+  {
+    "chronic pain medications": "TREATMENT"
+  },
+  {
+    "orthopedic followup": "TREATMENT"
+  },
+  {
+    "case management": "TREATMENT"
+  },
+  {
+    "outpatient therapy": "TREATMENT"
+  },
+  {
+    "follow up with primary care physician": "TREATMENT"
+  }
+]

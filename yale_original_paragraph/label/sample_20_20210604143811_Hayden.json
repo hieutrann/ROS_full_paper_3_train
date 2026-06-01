@@ -1,0 +1,212 @@
+[
+  {
+    "entity": "Laryngitis",
+    "label": "PROBLEM",
+    "start": 64,
+    "end": 74
+  },
+  {
+    "entity": "Chronic laryngitis",
+    "label": "PROBLEM",
+    "start": 100,
+    "end": 118
+  },
+  {
+    "entity": "hoarseness",
+    "label": "PROBLEM",
+    "start": 120,
+    "end": 130
+  },
+  {
+    "entity": "skilled speech therapy",
+    "label": "TREATMENT",
+    "start": 218,
+    "end": 240
+  },
+  {
+    "entity": "voicing difficulties",
+    "label": "PROBLEM",
+    "start": 254,
+    "end": 274
+  },
+  {
+    "entity": "Chronic laryngitis",
+    "label": "PROBLEM",
+    "start": 325,
+    "end": 343
+  },
+  {
+    "entity": "hoarseness",
+    "label": "PROBLEM",
+    "start": 345,
+    "end": 355
+  },
+  {
+    "entity": "skilled speech therapy",
+    "label": "TREATMENT",
+    "start": 475,
+    "end": 497
+  },
+  {
+    "entity": "voicing difficulties",
+    "label": "PROBLEM",
+    "start": 511,
+    "end": 531
+  },
+  {
+    "entity": "initial evaluation",
+    "label": "TEST",
+    "start": 554,
+    "end": 572
+  },
+  {
+    "entity": "speech therapy sessions",
+    "label": "TREATMENT",
+    "start": 591,
+    "end": 614
+  },
+  {
+    "entity": "resonant voice activities",
+    "label": "TREATMENT",
+    "start": 666,
+    "end": 691
+  },
+  {
+    "entity": "therapy",
+    "label": "TREATMENT",
+    "start": 747,
+    "end": 754
+  },
+  {
+    "entity": "home activities",
+    "label": "TREATMENT",
+    "start": 794,
+    "end": 809
+  },
+  {
+    "entity": "therapy sessions",
+    "label": "TREATMENT",
+    "start": 827,
+    "end": 843
+  },
+  {
+    "entity": "relaxation",
+    "label": "TREATMENT",
+    "start": 1046,
+    "end": 1056
+  },
+  {
+    "entity": "stretching exercises",
+    "label": "TREATMENT",
+    "start": 1061,
+    "end": 1081
+  },
+  {
+    "entity": "Lessac-Madsen Resonant Voice Therapy Protocol",
+    "label": "TREATMENT",
+    "start": 1086,
+    "end": 1131
+  },
+  {
+    "entity": "therapy",
+    "label": "TREATMENT",
+    "start": 1164,
+    "end": 1171
+  },
+  {
+    "entity": "resonant voice therapy tasks",
+    "label": "TREATMENT",
+    "start": 1201,
+    "end": 1229
+  },
+  {
+    "entity": "a videostroboscopy",
+    "label": "TEST",
+    "start": 1382,
+    "end": 1400
+  },
+  {
+    "entity": "this evaluation",
+    "label": "TEST",
+    "start": 1450,
+    "end": 1465
+  },
+  {
+    "entity": "hoarseness",
+    "label": "PROBLEM",
+    "start": 1493,
+    "end": 1503
+  },
+  {
+    "entity": "a videostroboscopy",
+    "label": "TEST",
+    "start": 1564,
+    "end": 1582
+  },
+  {
+    "entity": "additional outpatient therapy",
+    "label": "TREATMENT",
+    "start": 1605,
+    "end": 1634
+  },
+  {
+    "entity": "vocal hoarseness",
+    "label": "PROBLEM",
+    "start": 1809,
+    "end": 1825
+  },
+  {
+    "entity": "difficulty",
+    "label": "PROBLEM",
+    "start": 1829,
+    "end": 1839
+  },
+  {
+    "entity": "skilled speech therapy",
+    "label": "TREATMENT",
+    "start": 1958,
+    "end": 1980
+  },
+  {
+    "entity": "a home program",
+    "label": "TREATMENT",
+    "start": 2043,
+    "end": 2057
+  },
+  {
+    "entity": "hoarseness",
+    "label": "PROBLEM",
+    "start": 2159,
+    "end": 2169
+  },
+  {
+    "entity": "skilled speech therapy",
+    "label": "TREATMENT",
+    "start": 2171,
+    "end": 2193
+  },
+  {
+    "entity": "chronic laryngitis",
+    "label": "PROBLEM",
+    "start": 2195,
+    "end": 2213
+  },
+  {
+    "entity": "voice therapy",
+    "label": "TREATMENT",
+    "start": 2215,
+    "end": 2228
+  },
+  {
+    "entity": "videostroboscopy",
+    "label": "TEST",
+    "start": 2246,
+    "end": 2262
+  },
+  {
+    "entity": "laryngitis",
+    "label": "PROBLEM",
+    "start": 2264,
+    "end": 2274
+  }
+]

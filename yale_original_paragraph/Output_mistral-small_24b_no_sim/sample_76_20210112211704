@@ -1,0 +1,95 @@
+[
+  {
+    "Sepsis": "PROBLEM"
+  },
+  {
+    "urinary tract infection": "PROBLEM"
+  },
+  {
+    "urinary tract infection": "PROBLEM"
+  },
+  {
+    "urinary": "PROBLEM"
+  },
+  {
+    "infection": "PROBLEM"
+  },
+  {
+    "urine culture": "TEST"
+  },
+  {
+    "Escherichia coli": "PROBLEM"
+  },
+  {
+    "Levaquin": "DRUG"
+  },
+  {
+    "doripenem": "DRUG"
+  },
+  {
+    "doripenem": "DRUG"
+  },
+  {
+    "urinary tract infection": "PROBLEM"
+  },
+  {
+    "Foley catheter": "TREATMENT"
+  },
+  {
+    "Hypotension": "PROBLEM"
+  },
+  {
+    "intravenous fluids": "TREATMENT"
+  },
+  {
+    "Ischemic cardiomyopathy": "PROBLEM"
+  },
+  {
+    "Diabetes type 2": "PROBLEM"
+  },
+  {
+    "insulin sliding scale": "DRUG"
+  },
+  {
+    "pulmonary embolism": "PROBLEM"
+  },
+  {
+    "INR": "TEST"
+  },
+  {
+    "Coumadin": "DRUG"
+  },
+  {
+    "coronary artery disease": "PROBLEM"
+  },
+  {
+    "troponin": "TEST"
+  },
+  {
+    "troponin": "PROBLEM"
+  },
+  {
+    "general medicine": "PROBLEM"
+  },
+  {
+    "sepsis": "PROBLEM"
+  },
+  {
+    "escherichia coli": "PROBLEM"
+  },
+  {
+    "urinary tract infection": "PROBLEM"
+  },
+  {
+    "doripenem": "DRUG"
+  },
+  {
+    "troponin": "TEST"
+  },
+  {
+    "urinary": "PROBLEM"
+  },
+  {
+    "infection": "PROBLEM"
+  }
+]

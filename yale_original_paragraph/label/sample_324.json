@@ -1,0 +1,698 @@
+[
+  {
+    "entity": "Female Physical Exam",
+    "label": "TEST",
+    "start": 63,
+    "end": 83
+  },
+  {
+    "entity": "female physical exam",
+    "label": "TEST",
+    "start": 108,
+    "end": 128
+  },
+  {
+    "entity": "edema",
+    "label": "PROBLEM",
+    "start": 225,
+    "end": 230
+  },
+  {
+    "entity": "erythema",
+    "label": "PROBLEM",
+    "start": 253,
+    "end": 261
+  },
+  {
+    "entity": "foreign body",
+    "label": "PROBLEM",
+    "start": 263,
+    "end": 275
+  },
+  {
+    "entity": "lacerations",
+    "label": "PROBLEM",
+    "start": 280,
+    "end": 291
+  },
+  {
+    "entity": "jaundice",
+    "label": "PROBLEM",
+    "start": 324,
+    "end": 332
+  },
+  {
+    "entity": "lesions",
+    "label": "PROBLEM",
+    "start": 355,
+    "end": 362
+  },
+  {
+    "entity": "lesions",
+    "label": "PROBLEM",
+    "start": 422,
+    "end": 429
+  },
+  {
+    "entity": "erythema",
+    "label": "PROBLEM",
+    "start": 516,
+    "end": 524
+  },
+  {
+    "entity": "edema",
+    "label": "PROBLEM",
+    "start": 526,
+    "end": 531
+  },
+  {
+    "entity": "lesions",
+    "label": "PROBLEM",
+    "start": 536,
+    "end": 543
+  },
+  {
+    "entity": "edema",
+    "label": "PROBLEM",
+    "start": 576,
+    "end": 581
+  },
+  {
+    "entity": "discharge",
+    "label": "PROBLEM",
+    "start": 583,
+    "end": 592
+  },
+  {
+    "entity": "lesions",
+    "label": "PROBLEM",
+    "start": 597,
+    "end": 604
+  },
+  {
+    "entity": "light reflex",
+    "label": "TEST",
+    "start": 643,
+    "end": 655
+  },
+  {
+    "entity": "middle ear effusions",
+    "label": "PROBLEM",
+    "start": 660,
+    "end": 680
+  },
+  {
+    "entity": "skin lesions",
+    "label": "PROBLEM",
+    "start": 718,
+    "end": 730
+  },
+  {
+    "entity": "lesions",
+    "label": "PROBLEM",
+    "start": 755,
+    "end": 762
+  },
+  {
+    "entity": "internal lesions",
+    "label": "PROBLEM",
+    "start": 821,
+    "end": 837
+  },
+  {
+    "entity": "erythema",
+    "label": "PROBLEM",
+    "start": 850,
+    "end": 858
+  },
+  {
+    "entity": "exudates",
+    "label": "PROBLEM",
+    "start": 862,
+    "end": 870
+  },
+  {
+    "entity": "lesions",
+    "label": "PROBLEM",
+    "start": 919,
+    "end": 926
+  },
+  {
+    "entity": "lesion",
+    "label": "PROBLEM",
+    "start": 966,
+    "end": 972
+  },
+  {
+    "entity": "lesions",
+    "label": "PROBLEM",
+    "start": 1016,
+    "end": 1023
+  },
+  {
+    "entity": "adenopathy",
+    "label": "PROBLEM",
+    "start": 1063,
+    "end": 1073
+  },
+  {
+    "entity": "lesions",
+    "label": "PROBLEM",
+    "start": 1154,
+    "end": 1161
+  },
+  {
+    "entity": "adenopathy",
+    "label": "PROBLEM",
+    "start": 1184,
+    "end": 1194
+  },
+  {
+    "entity": "thyromegaly",
+    "label": "PROBLEM",
+    "start": 1196,
+    "end": 1207
+  },
+  {
+    "entity": "masses",
+    "label": "PROBLEM",
+    "start": 1212,
+    "end": 1218
+  },
+  {
+    "entity": "range of motion",
+    "label": "TEST",
+    "start": 1227,
+    "end": 1242
+  },
+  {
+    "entity": "auscultation",
+    "label": "TEST",
+    "start": 1301,
+    "end": 1313
+  },
+  {
+    "entity": "wheezing",
+    "label": "PROBLEM",
+    "start": 1330,
+    "end": 1338
+  },
+  {
+    "entity": "rales",
+    "label": "PROBLEM",
+    "start": 1340,
+    "end": 1345
+  },
+  {
+    "entity": "rhonchi",
+    "label": "PROBLEM",
+    "start": 1349,
+    "end": 1356
+  },
+  {
+    "entity": "accessory muscle use",
+    "label": "PROBLEM",
+    "start": 1401,
+    "end": 1421
+  },
+  {
+    "entity": "rate",
+    "label": "TEST",
+    "start": 1457,
+    "end": 1461
+  },
+  {
+    "entity": "rhythm",
+    "label": "TEST",
+    "start": 1466,
+    "end": 1472
+  },
+  {
+    "entity": "S3",
+    "label": "PROBLEM",
+    "start": 1481,
+    "end": 1483
+  },
+  {
+    "entity": "S4",
+    "label": "PROBLEM",
+    "start": 1487,
+    "end": 1489
+  },
+  {
+    "entity": "Heart rate",
+    "label": "TEST",
+    "start": 1491,
+    "end": 1501
+  },
+  {
+    "entity": "bowel sounds",
+    "label": "TEST",
+    "start": 1555,
+    "end": 1567
+  },
+  {
+    "entity": "hepatomegaly",
+    "label": "PROBLEM",
+    "start": 1580,
+    "end": 1592
+  },
+  {
+    "entity": "splenomegaly",
+    "label": "PROBLEM",
+    "start": 1594,
+    "end": 1606
+  },
+  {
+    "entity": "masses",
+    "label": "PROBLEM",
+    "start": 1608,
+    "end": 1614
+  },
+  {
+    "entity": "bruits",
+    "label": "PROBLEM",
+    "start": 1619,
+    "end": 1625
+  },
+  {
+    "entity": "erythema",
+    "label": "PROBLEM",
+    "start": 1670,
+    "end": 1678
+  },
+  {
+    "entity": "lesions",
+    "label": "PROBLEM",
+    "start": 1682,
+    "end": 1689
+  },
+  {
+    "entity": "erythema",
+    "label": "PROBLEM",
+    "start": 1725,
+    "end": 1733
+  },
+  {
+    "entity": "lesions",
+    "label": "PROBLEM",
+    "start": 1737,
+    "end": 1744
+  },
+  {
+    "entity": "lesions",
+    "label": "PROBLEM",
+    "start": 1817,
+    "end": 1824
+  },
+  {
+    "entity": "significant discharge",
+    "label": "PROBLEM",
+    "start": 1829,
+    "end": 1850
+  },
+  {
+    "entity": "lesions",
+    "label": "PROBLEM",
+    "start": 1891,
+    "end": 1898
+  },
+  {
+    "entity": "pelvic masses",
+    "label": "PROBLEM",
+    "start": 1937,
+    "end": 1950
+  },
+  {
+    "entity": "external hemorrhoids",
+    "label": "PROBLEM",
+    "start": 1988,
+    "end": 2008
+  },
+  {
+    "entity": "strength",
+    "label": "TEST",
+    "start": 2034,
+    "end": 2042
+  },
+  {
+    "entity": "range of motion",
+    "label": "TEST",
+    "start": 2069,
+    "end": 2084
+  },
+  {
+    "entity": "joint effusions",
+    "label": "PROBLEM",
+    "start": 2100,
+    "end": 2115
+  },
+  {
+    "entity": "muscle masses",
+    "label": "PROBLEM",
+    "start": 2153,
+    "end": 2166
+  },
+  {
+    "entity": "erythema",
+    "label": "PROBLEM",
+    "start": 2177,
+    "end": 2185
+  },
+  {
+    "entity": "edema",
+    "label": "PROBLEM",
+    "start": 2190,
+    "end": 2195
+  },
+  {
+    "entity": "range of motion",
+    "label": "TEST",
+    "start": 2204,
+    "end": 2219
+  },
+  {
+    "entity": "pain with inversion, eversion, plantar or dorsiflexion",
+    "label": "PROBLEM",
+    "start": 2258,
+    "end": 2312
+  },
+  {
+    "entity": "Anterior and posterior drawer test",
+    "label": "TEST",
+    "start": 2321,
+    "end": 2355
+  },
+  {
+    "entity": "pain with inversion, eversion, dorsiflexion, or plantar flexion",
+    "label": "PROBLEM",
+    "start": 2369,
+    "end": 2432
+  },
+  {
+    "entity": "joint effusion",
+    "label": "PROBLEM",
+    "start": 2466,
+    "end": 2480
+  },
+  {
+    "entity": "erythema",
+    "label": "PROBLEM",
+    "start": 2482,
+    "end": 2490
+  },
+  {
+    "entity": "edema",
+    "label": "PROBLEM",
+    "start": 2492,
+    "end": 2497
+  },
+  {
+    "entity": "crepitus",
+    "label": "PROBLEM",
+    "start": 2499,
+    "end": 2507
+  },
+  {
+    "entity": "ecchymosis",
+    "label": "PROBLEM",
+    "start": 2509,
+    "end": 2519
+  },
+  {
+    "entity": "tenderness",
+    "label": "PROBLEM",
+    "start": 2524,
+    "end": 2534
+  },
+  {
+    "entity": "range of motion",
+    "label": "TEST",
+    "start": 2549,
+    "end": 2564
+  },
+  {
+    "entity": "joint effusion",
+    "label": "PROBLEM",
+    "start": 2569,
+    "end": 2583
+  },
+  {
+    "entity": "erythema",
+    "label": "PROBLEM",
+    "start": 2585,
+    "end": 2593
+  },
+  {
+    "entity": "Anterior and posterior drawer tests",
+    "label": "TEST",
+    "start": 2606,
+    "end": 2641
+  },
+  {
+    "entity": "Lachman's test",
+    "label": "TEST",
+    "start": 2652,
+    "end": 2666
+  },
+  {
+    "entity": "edema",
+    "label": "PROBLEM",
+    "start": 2731,
+    "end": 2736
+  },
+  {
+    "entity": "range of motion",
+    "label": "TEST",
+    "start": 2752,
+    "end": 2767
+  },
+  {
+    "entity": "edema",
+    "label": "PROBLEM",
+    "start": 2772,
+    "end": 2777
+  },
+  {
+    "entity": "effusion",
+    "label": "PROBLEM",
+    "start": 2781,
+    "end": 2789
+  },
+  {
+    "entity": "Tinel",
+    "label": "TEST",
+    "start": 2811,
+    "end": 2816
+  },
+  {
+    "entity": "Phalen tests",
+    "label": "TEST",
+    "start": 2821,
+    "end": 2833
+  },
+  {
+    "entity": "strength",
+    "label": "TEST",
+    "start": 2842,
+    "end": 2850
+  },
+  {
+    "entity": "range of motion",
+    "label": "TEST",
+    "start": 2884,
+    "end": 2899
+  },
+  {
+    "entity": "joint effusion",
+    "label": "PROBLEM",
+    "start": 2904,
+    "end": 2918
+  },
+  {
+    "entity": "erythema",
+    "label": "PROBLEM",
+    "start": 2922,
+    "end": 2930
+  },
+  {
+    "entity": "strength",
+    "label": "TEST",
+    "start": 2939,
+    "end": 2947
+  },
+  {
+    "entity": "edema",
+    "label": "PROBLEM",
+    "start": 3017,
+    "end": 3022
+  },
+  {
+    "entity": "supination and pronation of forearm",
+    "label": "TEST",
+    "start": 3031,
+    "end": 3066
+  },
+  {
+    "entity": "crepitus",
+    "label": "PROBLEM",
+    "start": 3071,
+    "end": 3079
+  },
+  {
+    "entity": "swinging test",
+    "label": "TEST",
+    "start": 3095,
+    "end": 3108
+  },
+  {
+    "entity": "range of motion",
+    "label": "TEST",
+    "start": 3147,
+    "end": 3162
+  },
+  {
+    "entity": "strength",
+    "label": "TEST",
+    "start": 3171,
+    "end": 3179
+  },
+  {
+    "entity": "pain",
+    "label": "PROBLEM",
+    "start": 3202,
+    "end": 3206
+  },
+  {
+    "entity": "eversion",
+    "label": "TEST",
+    "start": 3212,
+    "end": 3220
+  },
+  {
+    "entity": "inversion",
+    "label": "TEST",
+    "start": 3225,
+    "end": 3234
+  },
+  {
+    "entity": "crepitus",
+    "label": "PROBLEM",
+    "start": 3239,
+    "end": 3247
+  },
+  {
+    "entity": "delusions",
+    "label": "PROBLEM",
+    "start": 3309,
+    "end": 3318
+  },
+  {
+    "entity": "hallucinations",
+    "label": "PROBLEM",
+    "start": 3322,
+    "end": 3336
+  },
+  {
+    "entity": "loose associations",
+    "label": "PROBLEM",
+    "start": 3341,
+    "end": 3359
+  },
+  {
+    "entity": "flight of ideas",
+    "label": "PROBLEM",
+    "start": 3364,
+    "end": 3379
+  },
+  {
+    "entity": "tangentiality",
+    "label": "PROBLEM",
+    "start": 3384,
+    "end": 3397
+  },
+  {
+    "entity": "psychomotor slowing",
+    "label": "PROBLEM",
+    "start": 3425,
+    "end": 3444
+  },
+  {
+    "entity": "agitation",
+    "label": "PROBLEM",
+    "start": 3448,
+    "end": 3457
+  },
+  {
+    "entity": "physical examination",
+    "label": "TEST",
+    "start": 3515,
+    "end": 3535
+  },
+  {
+    "entity": "female physical examination",
+    "label": "TEST",
+    "start": 3627,
+    "end": 3654
+  },
+  {
+    "entity": "crepitus",
+    "label": "PROBLEM",
+    "start": 3725,
+    "end": 3733
+  },
+  {
+    "entity": "ecchymosis",
+    "label": "PROBLEM",
+    "start": 3735,
+    "end": 3745
+  },
+  {
+    "entity": "edema",
+    "label": "PROBLEM",
+    "start": 3747,
+    "end": 3752
+  },
+  {
+    "entity": "erythema",
+    "label": "PROBLEM",
+    "start": 3754,
+    "end": 3762
+  },
+  {
+    "entity": "joint effusion",
+    "label": "PROBLEM",
+    "start": 3764,
+    "end": 3778
+  },
+  {
+    "entity": "range of motion",
+    "label": "TEST",
+    "start": 3787,
+    "end": 3802
+  },
+  {
+    "entity": "strength",
+    "label": "TEST",
+    "start": 3830,
+    "end": 3838
+  },
+  {
+    "entity": "joint effusions",
+    "label": "PROBLEM",
+    "start": 3840,
+    "end": 3855
+  },
+  {
+    "entity": "lesions",
+    "label": "PROBLEM",
+    "start": 3882,
+    "end": 3889
+  },
+  {
+    "entity": "effusions",
+    "label": "PROBLEM",
+    "start": 3891,
+    "end": 3900
+  }
+]

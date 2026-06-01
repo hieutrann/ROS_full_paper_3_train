@@ -1,0 +1,746 @@
+[
+  {
+    "entity": "Female Exam",
+    "label": "TEST",
+    "start": 70,
+    "end": 81
+  },
+  {
+    "entity": "female physical exam",
+    "label": "TEST",
+    "start": 149,
+    "end": 169
+  },
+  {
+    "entity": "apparent distress",
+    "label": "PROBLEM",
+    "start": 277,
+    "end": 294
+  },
+  {
+    "entity": "dysarthria",
+    "label": "PROBLEM",
+    "start": 338,
+    "end": 348
+  },
+  {
+    "entity": "discomfort",
+    "label": "PROBLEM",
+    "start": 362,
+    "end": 372
+  },
+  {
+    "entity": "injection",
+    "label": "PROBLEM",
+    "start": 537,
+    "end": 546
+  },
+  {
+    "entity": "icterus",
+    "label": "PROBLEM",
+    "start": 550,
+    "end": 557
+  },
+  {
+    "entity": "papilledema",
+    "label": "PROBLEM",
+    "start": 577,
+    "end": 588
+  },
+  {
+    "entity": "hemorrhages",
+    "label": "PROBLEM",
+    "start": 590,
+    "end": 601
+  },
+  {
+    "entity": "exudates",
+    "label": "PROBLEM",
+    "start": 605,
+    "end": 613
+  },
+  {
+    "entity": "edema",
+    "label": "PROBLEM",
+    "start": 675,
+    "end": 680
+  },
+  {
+    "entity": "exudate",
+    "label": "PROBLEM",
+    "start": 682,
+    "end": 689
+  },
+  {
+    "entity": "drainage",
+    "label": "PROBLEM",
+    "start": 693,
+    "end": 701
+  },
+  {
+    "entity": "bulging",
+    "label": "PROBLEM",
+    "start": 765,
+    "end": 772
+  },
+  {
+    "entity": "erythema",
+    "label": "PROBLEM",
+    "start": 776,
+    "end": 784
+  },
+  {
+    "entity": "infection",
+    "label": "PROBLEM",
+    "start": 797,
+    "end": 806
+  },
+  {
+    "entity": "hemotympanum",
+    "label": "PROBLEM",
+    "start": 831,
+    "end": 843
+  },
+  {
+    "entity": "deformity",
+    "label": "PROBLEM",
+    "start": 886,
+    "end": 895
+  },
+  {
+    "entity": "bleeding",
+    "label": "PROBLEM",
+    "start": 897,
+    "end": 905
+  },
+  {
+    "entity": "discharge",
+    "label": "PROBLEM",
+    "start": 909,
+    "end": 918
+  },
+  {
+    "entity": "septal hematoma",
+    "label": "PROBLEM",
+    "start": 923,
+    "end": 938
+  },
+  {
+    "entity": "swelling",
+    "label": "PROBLEM",
+    "start": 965,
+    "end": 973
+  },
+  {
+    "entity": "abnormality to the lip or teeth",
+    "label": "PROBLEM",
+    "start": 977,
+    "end": 1008
+  },
+  {
+    "entity": "swelling to the palate or pharynx",
+    "label": "PROBLEM",
+    "start": 1044,
+    "end": 1077
+  },
+  {
+    "entity": "exudate",
+    "label": "PROBLEM",
+    "start": 1120,
+    "end": 1127
+  },
+  {
+    "entity": "erythema",
+    "label": "PROBLEM",
+    "start": 1131,
+    "end": 1139
+  },
+  {
+    "entity": "edema",
+    "label": "PROBLEM",
+    "start": 1144,
+    "end": 1149
+  },
+  {
+    "entity": "stridor",
+    "label": "PROBLEM",
+    "start": 1231,
+    "end": 1238
+  },
+  {
+    "entity": "meningismus",
+    "label": "PROBLEM",
+    "start": 1267,
+    "end": 1278
+  },
+  {
+    "entity": "Brudzinski",
+    "label": "TEST",
+    "start": 1283,
+    "end": 1293
+  },
+  {
+    "entity": "Kernig sign",
+    "label": "TEST",
+    "start": 1297,
+    "end": 1308
+  },
+  {
+    "entity": "adenopathy",
+    "label": "PROBLEM",
+    "start": 1324,
+    "end": 1334
+  },
+  {
+    "entity": "JVD",
+    "label": "PROBLEM",
+    "start": 1348,
+    "end": 1351
+  },
+  {
+    "entity": "bruits",
+    "label": "PROBLEM",
+    "start": 1364,
+    "end": 1370
+  },
+  {
+    "entity": "hyperresonance",
+    "label": "PROBLEM",
+    "start": 1473,
+    "end": 1487
+  },
+  {
+    "entity": "dullness",
+    "label": "PROBLEM",
+    "start": 1491,
+    "end": 1499
+  },
+  {
+    "entity": "percussion",
+    "label": "TEST",
+    "start": 1503,
+    "end": 1513
+  },
+  {
+    "entity": "tenderness",
+    "label": "PROBLEM",
+    "start": 1536,
+    "end": 1546
+  },
+  {
+    "entity": "palpation of the chest",
+    "label": "TEST",
+    "start": 1550,
+    "end": 1572
+  },
+  {
+    "entity": "auscultation bilaterally",
+    "label": "TEST",
+    "start": 1590,
+    "end": 1614
+  },
+  {
+    "entity": "rales",
+    "label": "PROBLEM",
+    "start": 1619,
+    "end": 1624
+  },
+  {
+    "entity": "rhonchi",
+    "label": "PROBLEM",
+    "start": 1626,
+    "end": 1633
+  },
+  {
+    "entity": "wheezes",
+    "label": "PROBLEM",
+    "start": 1637,
+    "end": 1644
+  },
+  {
+    "entity": "rate",
+    "label": "TEST",
+    "start": 1732,
+    "end": 1736
+  },
+  {
+    "entity": "rhythm",
+    "label": "TEST",
+    "start": 1741,
+    "end": 1747
+  },
+  {
+    "entity": "murmur",
+    "label": "PROBLEM",
+    "start": 1752,
+    "end": 1758
+  },
+  {
+    "entity": "S3",
+    "label": "TEST",
+    "start": 1763,
+    "end": 1765
+  },
+  {
+    "entity": "S4",
+    "label": "TEST",
+    "start": 1767,
+    "end": 1769
+  },
+  {
+    "entity": "rub",
+    "label": "PROBLEM",
+    "start": 1773,
+    "end": 1776
+  },
+  {
+    "entity": "Point of maximal impulse",
+    "label": "TEST",
+    "start": 1793,
+    "end": 1817
+  },
+  {
+    "entity": "carotid upstroke",
+    "label": "TEST",
+    "start": 1889,
+    "end": 1905
+  },
+  {
+    "entity": "organomegaly",
+    "label": "PROBLEM",
+    "start": 2000,
+    "end": 2012
+  },
+  {
+    "entity": "masses",
+    "label": "PROBLEM",
+    "start": 2032,
+    "end": 2038
+  },
+  {
+    "entity": "tympany",
+    "label": "PROBLEM",
+    "start": 2056,
+    "end": 2063
+  },
+  {
+    "entity": "percussion",
+    "label": "TEST",
+    "start": 2076,
+    "end": 2086
+  },
+  {
+    "entity": "guarding",
+    "label": "PROBLEM",
+    "start": 2091,
+    "end": 2099
+  },
+  {
+    "entity": "rigidity",
+    "label": "PROBLEM",
+    "start": 2101,
+    "end": 2109
+  },
+  {
+    "entity": "rebound tenderness",
+    "label": "PROBLEM",
+    "start": 2113,
+    "end": 2131
+  },
+  {
+    "entity": "exam",
+    "label": "TEST",
+    "start": 2143,
+    "end": 2147
+  },
+  {
+    "entity": "Murphy",
+    "label": "TEST",
+    "start": 2149,
+    "end": 2155
+  },
+  {
+    "entity": "McBurney",
+    "label": "TEST",
+    "start": 2160,
+    "end": 2168
+  },
+  {
+    "entity": "Rovsing",
+    "label": "TEST",
+    "start": 2199,
+    "end": 2206
+  },
+  {
+    "entity": "obturator",
+    "label": "TEST",
+    "start": 2208,
+    "end": 2217
+  },
+  {
+    "entity": "psoas sign",
+    "label": "TEST",
+    "start": 2221,
+    "end": 2231
+  },
+  {
+    "entity": "hepatosplenomegaly",
+    "label": "PROBLEM",
+    "start": 2244,
+    "end": 2262
+  },
+  {
+    "entity": "hernias",
+    "label": "PROBLEM",
+    "start": 2270,
+    "end": 2277
+  },
+  {
+    "entity": "tone",
+    "label": "TEST",
+    "start": 2304,
+    "end": 2308
+  },
+  {
+    "entity": "masses",
+    "label": "PROBLEM",
+    "start": 2313,
+    "end": 2319
+  },
+  {
+    "entity": "Guaiac",
+    "label": "TEST",
+    "start": 2353,
+    "end": 2359
+  },
+  {
+    "entity": "erythema",
+    "label": "PROBLEM",
+    "start": 2412,
+    "end": 2420
+  },
+  {
+    "entity": "exudate",
+    "label": "PROBLEM",
+    "start": 2422,
+    "end": 2429
+  },
+  {
+    "entity": "discharge",
+    "label": "PROBLEM",
+    "start": 2433,
+    "end": 2442
+  },
+  {
+    "entity": "discharge",
+    "label": "PROBLEM",
+    "start": 2469,
+    "end": 2478
+  },
+  {
+    "entity": "lesion",
+    "label": "PROBLEM",
+    "start": 2514,
+    "end": 2520
+  },
+  {
+    "entity": "bleeding",
+    "label": "PROBLEM",
+    "start": 2552,
+    "end": 2560
+  },
+  {
+    "entity": "cervical motion tenderness",
+    "label": "PROBLEM",
+    "start": 2623,
+    "end": 2649
+  },
+  {
+    "entity": "masses",
+    "label": "PROBLEM",
+    "start": 2662,
+    "end": 2668
+  },
+  {
+    "entity": "masses",
+    "label": "PROBLEM",
+    "start": 2706,
+    "end": 2712
+  },
+  {
+    "entity": "tenderness",
+    "label": "PROBLEM",
+    "start": 2716,
+    "end": 2726
+  },
+  {
+    "entity": "clubbing",
+    "label": "PROBLEM",
+    "start": 2744,
+    "end": 2752
+  },
+  {
+    "entity": "cyanosis",
+    "label": "PROBLEM",
+    "start": 2754,
+    "end": 2762
+  },
+  {
+    "entity": "edema",
+    "label": "PROBLEM",
+    "start": 2766,
+    "end": 2771
+  },
+  {
+    "entity": "Pulses",
+    "label": "TEST",
+    "start": 2773,
+    "end": 2779
+  },
+  {
+    "entity": "deformity",
+    "label": "PROBLEM",
+    "start": 2868,
+    "end": 2877
+  },
+  {
+    "entity": "trauma",
+    "label": "PROBLEM",
+    "start": 2890,
+    "end": 2896
+  },
+  {
+    "entity": "laxity",
+    "label": "PROBLEM",
+    "start": 2928,
+    "end": 2934
+  },
+  {
+    "entity": "tenderness",
+    "label": "PROBLEM",
+    "start": 2988,
+    "end": 2998
+  },
+  {
+    "entity": "discomfort",
+    "label": "PROBLEM",
+    "start": 3002,
+    "end": 3012
+  },
+  {
+    "entity": "Homan sign",
+    "label": "TEST",
+    "start": 3014,
+    "end": 3024
+  },
+  {
+    "entity": "atrophy",
+    "label": "PROBLEM",
+    "start": 3041,
+    "end": 3048
+  },
+  {
+    "entity": "contractures",
+    "label": "PROBLEM",
+    "start": 3052,
+    "end": 3064
+  },
+  {
+    "entity": "rashes",
+    "label": "PROBLEM",
+    "start": 3085,
+    "end": 3091
+  },
+  {
+    "entity": "jaundice",
+    "label": "PROBLEM",
+    "start": 3096,
+    "end": 3104
+  },
+  {
+    "entity": "erythema",
+    "label": "PROBLEM",
+    "start": 3153,
+    "end": 3161
+  },
+  {
+    "entity": "nodules",
+    "label": "PROBLEM",
+    "start": 3165,
+    "end": 3172
+  },
+  {
+    "entity": "petechia",
+    "label": "PROBLEM",
+    "start": 3183,
+    "end": 3191
+  },
+  {
+    "entity": "bulla",
+    "label": "PROBLEM",
+    "start": 3193,
+    "end": 3198
+  },
+  {
+    "entity": "ecchymosis",
+    "label": "PROBLEM",
+    "start": 3202,
+    "end": 3212
+  },
+  {
+    "entity": "Muscle strength",
+    "label": "TEST",
+    "start": 3276,
+    "end": 3291
+  },
+  {
+    "entity": "Deep tendon reflexes",
+    "label": "TEST",
+    "start": 3354,
+    "end": 3374
+  },
+  {
+    "entity": "Babinski",
+    "label": "TEST",
+    "start": 3439,
+    "end": 3447
+  },
+  {
+    "entity": "Sensation",
+    "label": "TEST",
+    "start": 3474,
+    "end": 3483
+  },
+  {
+    "entity": "Gait",
+    "label": "TEST",
+    "start": 3524,
+    "end": 3528
+  },
+  {
+    "entity": "Romberg",
+    "label": "TEST",
+    "start": 3540,
+    "end": 3547
+  },
+  {
+    "entity": "finger-to-nose",
+    "label": "TEST",
+    "start": 3549,
+    "end": 3563
+  },
+  {
+    "entity": "rapid alternating movements",
+    "label": "TEST",
+    "start": 3565,
+    "end": 3592
+  },
+  {
+    "entity": "heel-to-shin",
+    "label": "TEST",
+    "start": 3597,
+    "end": 3609
+  },
+  {
+    "entity": "ataxia",
+    "label": "PROBLEM",
+    "start": 3638,
+    "end": 3644
+  },
+  {
+    "entity": "gait testing",
+    "label": "TEST",
+    "start": 3653,
+    "end": 3665
+  },
+  {
+    "entity": "Tone",
+    "label": "TEST",
+    "start": 3667,
+    "end": 3671
+  },
+  {
+    "entity": "pronator drift",
+    "label": "PROBLEM",
+    "start": 3686,
+    "end": 3700
+  },
+  {
+    "entity": "oriented x4",
+    "label": "TEST",
+    "start": 3738,
+    "end": 3749
+  },
+  {
+    "entity": "Mood and affect",
+    "label": "TEST",
+    "start": 3751,
+    "end": 3766
+  },
+  {
+    "entity": "Memory",
+    "label": "TEST",
+    "start": 3784,
+    "end": 3790
+  },
+  {
+    "entity": "dysarthria",
+    "label": "PROBLEM",
+    "start": 3850,
+    "end": 3860
+  },
+  {
+    "entity": "Remote memory",
+    "label": "TEST",
+    "start": 3871,
+    "end": 3884
+  },
+  {
+    "entity": "Judgment and insight",
+    "label": "TEST",
+    "start": 3896,
+    "end": 3916
+  },
+  {
+    "entity": "percussion",
+    "label": "TEST",
+    "start": 4010,
+    "end": 4020
+  },
+  {
+    "entity": "gait",
+    "label": "TEST",
+    "start": 4039,
+    "end": 4043
+  },
+  {
+    "entity": "edema",
+    "label": "PROBLEM",
+    "start": 4054,
+    "end": 4059
+  },
+  {
+    "entity": "discharge",
+    "label": "PROBLEM",
+    "start": 4061,
+    "end": 4070
+  },
+  {
+    "entity": "exudates",
+    "label": "PROBLEM",
+    "start": 4093,
+    "end": 4101
+  },
+  {
+    "entity": "erythema",
+    "label": "PROBLEM",
+    "start": 4103,
+    "end": 4111
+  },
+  {
+    "entity": "tenderness",
+    "label": "PROBLEM",
+    "start": 4126,
+    "end": 4136
+  }
+]

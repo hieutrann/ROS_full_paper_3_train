@@ -1,0 +1,257 @@
+[
+  {
+    "Falls": "PROBLEM"
+  },
+  {
+    "Anxiety": "PROBLEM"
+  },
+  {
+    "depression": "PROBLEM"
+  },
+  {
+    "depressed": "PROBLEM"
+  },
+  {
+    "Falls": "PROBLEM"
+  },
+  {
+    "anxiety": "PROBLEM"
+  },
+  {
+    "depressed": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "loss of consciousness": "PROBLEM"
+  },
+  {
+    "incontinence": "PROBLEM"
+  },
+  {
+    "seizure activity": "PROBLEM"
+  },
+  {
+    "tripped": "PROBLEM"
+  },
+  {
+    "Darvocet": "DRUG"
+  },
+  {
+    "medications": "DRUG"
+  },
+  {
+    "depression": "PROBLEM"
+  },
+  {
+    "SI": "PROBLEM"
+  },
+  {
+    "HI": "PROBLEM"
+  },
+  {
+    "patient": "PROBLEM"
+  },
+  {
+    "VITAL SIGNS": "TEST"
+  },
+  {
+    "HEENT": "TEST"
+  },
+  {
+    "Supple": "TEST"
+  },
+  {
+    "Carotid upstrokes": "TEST"
+  },
+  {
+    "LUNGS": "PROBLEM"
+  },
+  {
+    "S1": "TEST"
+  },
+  {
+    "S2": "TEST"
+  },
+  {
+    "gallops": "PROBLEM"
+  },
+  {
+    "Rate": "TEST"
+  },
+  {
+    "ABDOMEN": "PROBLEM"
+  },
+  {
+    "bowel sounds": "TEST"
+  },
+  {
+    "Nontender": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "ecchymosis": "PROBLEM"
+  },
+  {
+    "metatarsal": "PROBLEM"
+  },
+  {
+    "nonfocal": "PROBLEM"
+  },
+  {
+    "depression": "PROBLEM"
+  },
+  {
+    "anxiety": "PROBLEM"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "falls": "PROBLEM"
+  },
+  {
+    "DISCHARGE DIAGNOSES": "PROBLEM"
+  },
+  {
+    "Falls": "PROBLEM"
+  },
+  {
+    "Anxiety": "PROBLEM"
+  },
+  {
+    "depression": "PROBLEM"
+  },
+  {
+    "3": "PROBLEM"
+  },
+  {
+    "Hypertension": "PROBLEM"
+  },
+  {
+    "4": "TEST"
+  },
+  {
+    "Hypercholesterolemia": "PROBLEM"
+  },
+  {
+    "5": "PROBLEM"
+  },
+  {
+    "Coronary artery disease": "PROBLEM"
+  },
+  {
+    "6": "PROBLEM"
+  },
+  {
+    "Osteoarthritis": "PROBLEM"
+  },
+  {
+    "7": "PROBLEM"
+  },
+  {
+    "Chronic obstructive pulmonary disease": "PROBLEM"
+  },
+  {
+    "8": "TEST"
+  },
+  {
+    "Hypothyroidism": "PROBLEM"
+  },
+  {
+    "CONDITION UPON DISCHARGE": "PROBLEM"
+  },
+  {
+    "Tylenol": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Lasix": "DRUG"
+  },
+  {
+    "Isordil": "DRUG"
+  },
+  {
+    "KCl": "DRUG"
+  },
+  {
+    "lactulose": "DRUG"
+  },
+  {
+    "Cozaar": "DRUG"
+  },
+  {
+    "Synthroid": "DRUG"
+  },
+  {
+    "Singulair": "DRUG"
+  },
+  {
+    "Lumigan": "DRUG"
+  },
+  {
+    "NitroQuick": "DRUG"
+  },
+  {
+    "Pravachol": "DRUG"
+  },
+  {
+    "Feldene": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Minipress": "DRUG"
+  },
+  {
+    "Provera": "DRUG"
+  },
+  {
+    "Advair": "DRUG"
+  },
+  {
+    "Senokot": "DRUG"
+  },
+  {
+    "Timoptic": "DRUG"
+  },
+  {
+    "verapamil": "DRUG"
+  },
+  {
+    "ALLERGIES": "PROBLEM"
+  },
+  {
+    "ACTIVITY": "TREATMENT"
+  },
+  {
+    "patient": "PROBLEM"
+  },
+  {
+    "loss of consciousness": "PROBLEM"
+  },
+  {
+    "depression": "PROBLEM"
+  },
+  {
+    "anxiety": "PROBLEM"
+  },
+  {
+    "falls": "PROBLEM"
+  },
+  {
+    "anxious": "PROBLEM"
+  },
+  {
+    "depressed": "PROBLEM"
+  }
+]

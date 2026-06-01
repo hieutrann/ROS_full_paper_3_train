@@ -1,0 +1,344 @@
+[
+  {
+    "Jaw Pain": "PROBLEM"
+  },
+  {
+    "toothache": "PROBLEM"
+  },
+  {
+    "left ear": "PROBLEM"
+  },
+  {
+    "Ellis type II dental fracture": "PROBLEM"
+  },
+  {
+    "Jaw pain": "PROBLEM"
+  },
+  {
+    "toothache": "PROBLEM"
+  },
+  {
+    "jaw": "PROBLEM"
+  },
+  {
+    "left ear": "PROBLEM"
+  },
+  {
+    "toothache": "PROBLEM"
+  },
+  {
+    "facial swelling": "PROBLEM"
+  },
+  {
+    "headache": "PROBLEM"
+  },
+  {
+    "swelling": "PROBLEM"
+  },
+  {
+    "throat": "PROBLEM"
+  },
+  {
+    "sore throat": "PROBLEM"
+  },
+  {
+    "difficulty swallowing liquids or solids": "PROBLEM"
+  },
+  {
+    "neck pain": "PROBLEM"
+  },
+  {
+    "lymph node swelling": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "chills": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "chills": "PROBLEM"
+  },
+  {
+    "fatigue": "PROBLEM"
+  },
+  {
+    "weakness": "PROBLEM"
+  },
+  {
+    "headache": "PROBLEM"
+  },
+  {
+    "neck pain": "PROBLEM"
+  },
+  {
+    "eye pain": "PROBLEM"
+  },
+  {
+    "vision change": "PROBLEM"
+  },
+  {
+    "rhinorrhea": "PROBLEM"
+  },
+  {
+    "sinus congestion": "PROBLEM"
+  },
+  {
+    "pressure": "PROBLEM"
+  },
+  {
+    "pain": "PROBLEM"
+  },
+  {
+    "sore throat": "PROBLEM"
+  },
+  {
+    "throat swelling": "PROBLEM"
+  },
+  {
+    "toothache": "PROBLEM"
+  },
+  {
+    "left ear": "PROBLEM"
+  },
+  {
+    "ear pain": "PROBLEM"
+  },
+  {
+    "hearing change": "PROBLEM"
+  },
+  {
+    "pressure in the ear": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "RESPIRATIONS": "TEST"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "back pain": "PROBLEM"
+  },
+  {
+    "rashes": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "vision change": "PROBLEM"
+  },
+  {
+    "hearing change": "PROBLEM"
+  },
+  {
+    "lymph node swelling": "PROBLEM"
+  },
+  {
+    "marijuana": "DRUG"
+  },
+  {
+    "VITAL SIGNS": "TEST"
+  },
+  {
+    "Temperature": "TEST"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "pulse": "TEST"
+  },
+  {
+    "respirations": "TEST"
+  },
+  {
+    "oxygen saturation": "TEST"
+  },
+  {
+    "rhinorrhea": "PROBLEM"
+  },
+  {
+    "congestion": "PROBLEM"
+  },
+  {
+    "tenderness": "PROBLEM"
+  },
+  {
+    "sinuses": "PROBLEM"
+  },
+  {
+    "infection": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "swelling": "PROBLEM"
+  },
+  {
+    "dental fracture": "PROBLEM"
+  },
+  {
+    "fracture": "PROBLEM"
+  },
+  {
+    "dental caries": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "swelling": "PROBLEM"
+  },
+  {
+    "infection": "PROBLEM"
+  },
+  {
+    "abscess": "PROBLEM"
+  },
+  {
+    "tenderness": "PROBLEM"
+  },
+  {
+    "infection": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "exudate": "PROBLEM"
+  },
+  {
+    "lesion": "PROBLEM"
+  },
+  {
+    "swelling": "PROBLEM"
+  },
+  {
+    "tenderness": "PROBLEM"
+  },
+  {
+    "swelling": "PROBLEM"
+  },
+  {
+    "abscess": "PROBLEM"
+  },
+  {
+    "pre or post auricular lymphadenopathy": "PROBLEM"
+  },
+  {
+    "meningismus": "PROBLEM"
+  },
+  {
+    "cervical lymphadenopathy": "PROBLEM"
+  },
+  {
+    "JVD": "PROBLEM"
+  },
+  {
+    "carotid artery or vertebral artery bruits": "PROBLEM"
+  },
+  {
+    "murmur": "PROBLEM"
+  },
+  {
+    "rub": "PROBLEM"
+  },
+  {
+    "gallop": "PROBLEM"
+  },
+  {
+    "RESPIRATIONS": "TEST"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "rashes": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "Cranial nerves II through XII": "TEST"
+  },
+  {
+    "speech": "PROBLEM"
+  },
+  {
+    "ambulation": "PROBLEM"
+  },
+  {
+    "lymphadenitis": "PROBLEM"
+  },
+  {
+    "ACUTE LEFT JAW PAIN": "PROBLEM"
+  },
+  {
+    "DENTAL FRACTURE": "PROBLEM"
+  },
+  {
+    "ELLIS TYPE II FRACTURE": "PROBLEM"
+  },
+  {
+    "ELEVATED BLOOD PRESSURE": "PROBLEM"
+  },
+  {
+    "Motrin": "DRUG"
+  },
+  {
+    "pain": "PROBLEM"
+  },
+  {
+    "Vicodin": "DRUG"
+  },
+  {
+    "pain": "PROBLEM"
+  },
+  {
+    "drowsiness": "PROBLEM"
+  },
+  {
+    "medication": "DRUG"
+  },
+  {
+    "pen V": "DRUG"
+  },
+  {
+    "toothache": "PROBLEM"
+  },
+  {
+    "jaw pain": "PROBLEM"
+  },
+  {
+    "ellis type ii fracture": "PROBLEM"
+  },
+  {
+    "dental fracture": "PROBLEM"
+  },
+  {
+    "toothache": "PROBLEM"
+  },
+  {
+    "tenderness": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  }
+]

@@ -1,0 +1,374 @@
+[
+  {
+    "entity": "Refractory Hypertension",
+    "label": "PROBLEM",
+    "start": 63,
+    "end": 86
+  },
+  {
+    "entity": "Refractory hypertension",
+    "label": "PROBLEM",
+    "start": 111,
+    "end": 134
+  },
+  {
+    "entity": "cardiac arrhythmia",
+    "label": "PROBLEM",
+    "start": 162,
+    "end": 180
+  },
+  {
+    "entity": "pacemaker",
+    "label": "TREATMENT",
+    "start": 196,
+    "end": 205
+  },
+  {
+    "entity": "AV block",
+    "label": "PROBLEM",
+    "start": 219,
+    "end": 227
+  },
+  {
+    "entity": "GI bleed",
+    "label": "PROBLEM",
+    "start": 240,
+    "end": 248
+  },
+  {
+    "entity": "depression",
+    "label": "PROBLEM",
+    "start": 265,
+    "end": 275
+  },
+  {
+    "entity": "Refractory hypertension",
+    "label": "PROBLEM",
+    "start": 332,
+    "end": 355
+  },
+  {
+    "entity": "cardiac arrhythmia",
+    "label": "PROBLEM",
+    "start": 386,
+    "end": 404
+  },
+  {
+    "entity": "pacemaker",
+    "label": "TREATMENT",
+    "start": 420,
+    "end": 429
+  },
+  {
+    "entity": "AV block",
+    "label": "PROBLEM",
+    "start": 443,
+    "end": 451
+  },
+  {
+    "entity": "GI bleed",
+    "label": "PROBLEM",
+    "start": 467,
+    "end": 475
+  },
+  {
+    "entity": "depression",
+    "label": "PROBLEM",
+    "start": 499,
+    "end": 509
+  },
+  {
+    "entity": "her antihypertensive medications",
+    "label": "DRUG",
+    "start": 778,
+    "end": 810
+  },
+  {
+    "entity": "blood pressure reading",
+    "label": "TEST",
+    "start": 837,
+    "end": 859
+  },
+  {
+    "entity": "any untoward side effect",
+    "label": "PROBLEM",
+    "start": 932,
+    "end": 956
+  },
+  {
+    "entity": "weakness",
+    "label": "PROBLEM",
+    "start": 976,
+    "end": 984
+  },
+  {
+    "entity": "dizziness",
+    "label": "PROBLEM",
+    "start": 986,
+    "end": 995
+  },
+  {
+    "entity": "lightheadedness",
+    "label": "PROBLEM",
+    "start": 997,
+    "end": 1012
+  },
+  {
+    "entity": "nausea",
+    "label": "PROBLEM",
+    "start": 1014,
+    "end": 1020
+  },
+  {
+    "entity": "vomiting",
+    "label": "PROBLEM",
+    "start": 1022,
+    "end": 1030
+  },
+  {
+    "entity": "constipation",
+    "label": "PROBLEM",
+    "start": 1032,
+    "end": 1044
+  },
+  {
+    "entity": "diarrhea",
+    "label": "PROBLEM",
+    "start": 1046,
+    "end": 1054
+  },
+  {
+    "entity": "abdominal pain",
+    "label": "PROBLEM",
+    "start": 1056,
+    "end": 1070
+  },
+  {
+    "entity": "chest pain",
+    "label": "PROBLEM",
+    "start": 1072,
+    "end": 1082
+  },
+  {
+    "entity": "shortness of breath",
+    "label": "PROBLEM",
+    "start": 1084,
+    "end": 1103
+  },
+  {
+    "entity": "difficulty breathing",
+    "label": "PROBLEM",
+    "start": 1107,
+    "end": 1127
+  },
+  {
+    "entity": "orthopnea",
+    "label": "PROBLEM",
+    "start": 1140,
+    "end": 1149
+  },
+  {
+    "entity": "musculoskeletal and that pain in the right buttock",
+    "label": "PROBLEM",
+    "start": 1220,
+    "end": 1270
+  },
+  {
+    "entity": "extremity pain",
+    "label": "PROBLEM",
+    "start": 1325,
+    "end": 1339
+  },
+  {
+    "entity": "Triamterene/hydrochlorothiazide",
+    "label": "DRUG",
+    "start": 1365,
+    "end": 1396
+  },
+  {
+    "entity": "Norvasc",
+    "label": "DRUG",
+    "start": 1412,
+    "end": 1419
+  },
+  {
+    "entity": "Atenolol",
+    "label": "DRUG",
+    "start": 1436,
+    "end": 1444
+  },
+  {
+    "entity": "Atacand",
+    "label": "DRUG",
+    "start": 1461,
+    "end": 1468
+  },
+  {
+    "entity": "Cardura",
+    "label": "DRUG",
+    "start": 1485,
+    "end": 1492
+  },
+  {
+    "entity": "VITAL SIGNS",
+    "label": "TEST",
+    "start": 1527,
+    "end": 1538
+  },
+  {
+    "entity": "Temperature",
+    "label": "TEST",
+    "start": 1540,
+    "end": 1551
+  },
+  {
+    "entity": "pulse",
+    "label": "TEST",
+    "start": 1558,
+    "end": 1563
+  },
+  {
+    "entity": "respirations",
+    "label": "TEST",
+    "start": 1568,
+    "end": 1580
+  },
+  {
+    "entity": "blood pressure",
+    "label": "TEST",
+    "start": 1589,
+    "end": 1603
+  },
+  {
+    "entity": "PA",
+    "label": "TEST",
+    "start": 1651,
+    "end": 1653
+  },
+  {
+    "entity": "lateral",
+    "label": "TEST",
+    "start": 1658,
+    "end": 1665
+  },
+  {
+    "entity": "adventitious sounds",
+    "label": "PROBLEM",
+    "start": 1674,
+    "end": 1693
+  },
+  {
+    "entity": "rate",
+    "label": "TEST",
+    "start": 1732,
+    "end": 1736
+  },
+  {
+    "entity": "rhythm",
+    "label": "TEST",
+    "start": 1741,
+    "end": 1747
+  },
+  {
+    "entity": "S1",
+    "label": "TEST",
+    "start": 1749,
+    "end": 1751
+  },
+  {
+    "entity": "S2",
+    "label": "TEST",
+    "start": 1756,
+    "end": 1758
+  },
+  {
+    "entity": "murmur",
+    "label": "PROBLEM",
+    "start": 1767,
+    "end": 1773
+  },
+  {
+    "entity": "S3",
+    "label": "PROBLEM",
+    "start": 1778,
+    "end": 1780
+  },
+  {
+    "entity": "murmur",
+    "label": "PROBLEM",
+    "start": 1799,
+    "end": 1805
+  },
+  {
+    "entity": "edema",
+    "label": "PROBLEM",
+    "start": 1875,
+    "end": 1880
+  },
+  {
+    "entity": "refractory hypertension",
+    "label": "PROBLEM",
+    "start": 1942,
+    "end": 1965
+  },
+  {
+    "entity": "her current blood pressure reading",
+    "label": "TEST",
+    "start": 2006,
+    "end": 2040
+  },
+  {
+    "entity": "GFR",
+    "label": "TEST",
+    "start": 2370,
+    "end": 2373
+  },
+  {
+    "entity": "blood pressure",
+    "label": "TEST",
+    "start": 2546,
+    "end": 2560
+  },
+  {
+    "entity": "cardiac arrhythmia",
+    "label": "PROBLEM",
+    "start": 2780,
+    "end": 2798
+  },
+  {
+    "entity": "av block",
+    "label": "PROBLEM",
+    "start": 2800,
+    "end": 2808
+  },
+  {
+    "entity": "refractory hypertension",
+    "label": "PROBLEM",
+    "start": 2810,
+    "end": 2833
+  },
+  {
+    "entity": "blood pressure",
+    "label": "TEST",
+    "start": 2835,
+    "end": 2849
+  },
+  {
+    "entity": "pacemaker",
+    "label": "TREATMENT",
+    "start": 2851,
+    "end": 2860
+  },
+  {
+    "entity": "atenolol",
+    "label": "DRUG",
+    "start": 2862,
+    "end": 2870
+  },
+  {
+    "entity": "arrhythmia",
+    "label": "PROBLEM",
+    "start": 2872,
+    "end": 2882
+  }
+]

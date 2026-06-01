@@ -1,0 +1,221 @@
+[
+  {
+    "Right-sided facial droop": "PROBLEM"
+  },
+  {
+    "Right-sided weakness": "PROBLEM"
+  },
+  {
+    "cerebrovascular accident": "PROBLEM"
+  },
+  {
+    "CT scan": "TEST"
+  },
+  {
+    "stroke": "PROBLEM"
+  },
+  {
+    "dementia": "PROBLEM"
+  },
+  {
+    "expressive aphasia": "PROBLEM"
+  },
+  {
+    "urinary tract infection": "PROBLEM"
+  },
+  {
+    "PENICILLIN": "DRUG"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "Chronic obstructive pulmonary disease": "PROBLEM"
+  },
+  {
+    "anxiety disorder": "PROBLEM"
+  },
+  {
+    "breast cancer": "PROBLEM"
+  },
+  {
+    "osteoarthritis": "PROBLEM"
+  },
+  {
+    "urine incontinence": "PROBLEM"
+  },
+  {
+    "stool incontinence": "PROBLEM"
+  },
+  {
+    "facial droop": "PROBLEM"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "systolic murmur": "PROBLEM"
+  },
+  {
+    "pressure ulcer": "PROBLEM"
+  },
+  {
+    "CT scan": "TEST"
+  },
+  {
+    "sodium": "TEST"
+  },
+  {
+    "potassium": "TEST"
+  },
+  {
+    "chloride": "TEST"
+  },
+  {
+    "bicarbonate": "TEST"
+  },
+  {
+    "BUN": "TEST"
+  },
+  {
+    "creatinine": "TEST"
+  },
+  {
+    "glucose": "TEST"
+  },
+  {
+    "white blood cell count": "TEST"
+  },
+  {
+    "hemoglobin": "TEST"
+  },
+  {
+    "hematocrit": "TEST"
+  },
+  {
+    "platelet count": "TEST"
+  },
+  {
+    "urinalysis": "TEST"
+  },
+  {
+    "E. coli": "PROBLEM"
+  },
+  {
+    "amikacin": "DRUG"
+  },
+  {
+    "nitrofurantoin": "DRUG"
+  },
+  {
+    "imipenem": "DRUG"
+  },
+  {
+    "meropenem": "DRUG"
+  },
+  {
+    "Vasotec": "DRUG"
+  },
+  {
+    "Lovenox": "DRUG"
+  },
+  {
+    "Ecotrin": "DRUG"
+  },
+  {
+    "Aricept": "DRUG"
+  },
+  {
+    "Diovan": "DRUG"
+  },
+  {
+    "multivitamin": "DRUG"
+  },
+  {
+    "calcium": "DRUG"
+  },
+  {
+    "vitamin D": "DRUG"
+  },
+  {
+    "Tylenol": "DRUG"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "D5 normal saline": "TREATMENT"
+  },
+  {
+    "potassium": "DRUG"
+  },
+  {
+    "cerebrovascular accident": "PROBLEM"
+  },
+  {
+    "weakness": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "dementia": "PROBLEM"
+  },
+  {
+    "anxiety": "PROBLEM"
+  },
+  {
+    "urinary tract infection": "PROBLEM"
+  },
+  {
+    "abnormality of gait": "PROBLEM"
+  },
+  {
+    "lower extremity weakness": "PROBLEM"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV": "TREATMENT"
+  },
+  {
+    "neuro check": "TEST"
+  },
+  {
+    "amikacin": "DRUG"
+  },
+  {
+    "Lovenox": "DRUG"
+  },
+  {
+    "Ecotrin": "DRUG"
+  },
+  {
+    "Aricept": "DRUG"
+  },
+  {
+    "Diovan": "DRUG"
+  },
+  {
+    "multivitamin": "DRUG"
+  },
+  {
+    "calcium": "DRUG"
+  },
+  {
+    "vitamin D": "DRUG"
+  },
+  {
+    "Tylenol": "DRUG"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "D5 normal saline": "TREATMENT"
+  },
+  {
+    "potassium": "DRUG"
+  }
+]

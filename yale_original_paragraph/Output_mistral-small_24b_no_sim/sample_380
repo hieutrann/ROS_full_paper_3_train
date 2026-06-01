@@ -1,0 +1,191 @@
+[
+  {
+    "Hypertension": "PROBLEM"
+  },
+  {
+    "CVA": "PROBLEM"
+  },
+  {
+    "Compression fracture": "PROBLEM"
+  },
+  {
+    "osteoarthritis": "PROBLEM"
+  },
+  {
+    "knee": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "lightheadedness": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "diarrhea": "PROBLEM"
+  },
+  {
+    "coronary disease": "PROBLEM"
+  },
+  {
+    "stroke": "PROBLEM"
+  },
+  {
+    "cardiac disease": "PROBLEM"
+  },
+  {
+    "lipid panel": "TEST"
+  },
+  {
+    "cholesterol": "TEST"
+  },
+  {
+    "triglycerides": "TEST"
+  },
+  {
+    "HDL": "TEST"
+  },
+  {
+    "LDL": "TEST"
+  },
+  {
+    "fasting glucose": "TEST"
+  },
+  {
+    "fasting insulin level": "TEST"
+  },
+  {
+    "diabetes": "PROBLEM"
+  },
+  {
+    "DEXA scan": "TEST"
+  },
+  {
+    "bone density": "TEST"
+  },
+  {
+    "arthritis": "PROBLEM"
+  },
+  {
+    "low back pain": "PROBLEM"
+  },
+  {
+    "falls": "PROBLEM"
+  },
+  {
+    "compression fracture": "PROBLEM"
+  },
+  {
+    "osteoporosis": "PROBLEM"
+  },
+  {
+    "Hydrochlorothiazide": "DRUG"
+  },
+  {
+    "Prozac": "DRUG"
+  },
+  {
+    "Vioxx": "DRUG"
+  },
+  {
+    "vitamin C": "DRUG"
+  },
+  {
+    "vitamin E": "DRUG"
+  },
+  {
+    "calcium": "DRUG"
+  },
+  {
+    "multivitamin": "DRUG"
+  },
+  {
+    "aspirin": "DRUG"
+  },
+  {
+    "Monopril": "DRUG"
+  },
+  {
+    "Celexa": "DRUG"
+  },
+  {
+    "Bactrim": "DRUG"
+  },
+  {
+    "adhesive tape": "DRUG"
+  },
+  {
+    "myofascitis": "PROBLEM"
+  },
+  {
+    "melanoma": "PROBLEM"
+  },
+  {
+    "breast biopsy": "TEST"
+  },
+  {
+    "Holter monitor": "TEST"
+  },
+  {
+    "echocardiogram": "TEST"
+  },
+  {
+    "ectopic beat": "PROBLEM"
+  },
+  {
+    "Pulse": "TEST"
+  },
+  {
+    "Respirations": "TEST"
+  },
+  {
+    "Temperature": "TEST"
+  },
+  {
+    "EKG": "TEST"
+  },
+  {
+    "sinus rhythm": "TEST"
+  },
+  {
+    "AV block": "PROBLEM"
+  },
+  {
+    "R-wave progression": "TEST"
+  },
+  {
+    "C-reactive protein": "TEST"
+  },
+  {
+    "Weight Watchers": "TREATMENT"
+  },
+  {
+    "dietician": "TREATMENT"
+  },
+  {
+    "screening colonoscopy": "TEST"
+  },
+  {
+    "Fosamax": "DRUG"
+  },
+  {
+    "cardiologist": "TREATMENT"
+  },
+  {
+    "preoperative cardiac testing": "TEST"
+  },
+  {
+    "beta-blocker": "DRUG"
+  },
+  {
+    "cardiac protection": "TREATMENT"
+  }
+]

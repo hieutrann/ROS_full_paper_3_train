@@ -1,0 +1,179 @@
+[
+  {
+    "Blood pressure": "TEST"
+  },
+  {
+    "pulse": "TEST"
+  },
+  {
+    "respirations": "TEST"
+  },
+  {
+    "temperature": "TEST"
+  },
+  {
+    "EOMI": "TEST"
+  },
+  {
+    "PERRLA": "TEST"
+  },
+  {
+    "Funduscopic examination": "TEST"
+  },
+  {
+    "TMs": "TEST"
+  },
+  {
+    "canals": "TEST"
+  },
+  {
+    "hearing": "TEST"
+  },
+  {
+    "Nose and Sinuses": "TEST"
+  },
+  {
+    "Mouth, Tongue, Teeth, and Throat": "TEST"
+  },
+  {
+    "dental work": "TREATMENT"
+  },
+  {
+    "Supple and pain free": "TEST"
+  },
+  {
+    "JVD": "PROBLEM"
+  },
+  {
+    "adenopathy": "PROBLEM"
+  },
+  {
+    "thyroid abnormality": "PROBLEM"
+  },
+  {
+    "Lungs are bilaterally clear": "TEST"
+  },
+  {
+    "auscultation": "TEST"
+  },
+  {
+    "percussion": "TEST"
+  },
+  {
+    "S1 and S2": "TEST"
+  },
+  {
+    "Regular rate and rhythm": "TEST"
+  },
+  {
+    "PMI nondisplaced": "TEST"
+  },
+  {
+    "Chest wall unremarkable": "TEST"
+  },
+  {
+    "axillary or supraclavicular adenopathy": "PROBLEM"
+  },
+  {
+    "BREASTS": "TEST"
+  },
+  {
+    "ABDOMEN": "TEST"
+  },
+  {
+    "hepatosplenomegaly": "PROBLEM"
+  },
+  {
+    "mass": "PROBLEM"
+  },
+  {
+    "tenderness": "PROBLEM"
+  },
+  {
+    "rebound": "PROBLEM"
+  },
+  {
+    "rigidity": "PROBLEM"
+  },
+  {
+    "guarding": "PROBLEM"
+  },
+  {
+    "EXTREMITIES": "TEST"
+  },
+  {
+    "distal pulse": "TEST"
+  },
+  {
+    "perfusion": "TEST"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "cyanosis": "PROBLEM"
+  },
+  {
+    "clubbing": "PROBLEM"
+  },
+  {
+    "deep venous thrombosis": "PROBLEM"
+  },
+  {
+    "Nails of the hands and feet": "TEST"
+  },
+  {
+    "creases of the palms and soles": "TEST"
+  },
+  {
+    "BACK": "TEST"
+  },
+  {
+    "spinous process tenderness": "PROBLEM"
+  },
+  {
+    "CVA tenderness": "PROBLEM"
+  },
+  {
+    "straight-leg raising": "TEST"
+  },
+  {
+    "Kernig": "TEST"
+  },
+  {
+    "Brudzinski": "TEST"
+  },
+  {
+    "NEUROLOGIC": "TEST"
+  },
+  {
+    "cranial and peripheral nervous systems": "TEST"
+  },
+  {
+    "strength": "TEST"
+  },
+  {
+    "sensation": "TEST"
+  },
+  {
+    "cerebellar function": "TEST"
+  },
+  {
+    "Affect is normal": "TEST"
+  },
+  {
+    "Speech is clear and fluent": "TEST"
+  },
+  {
+    "Thought process is lucid and rational": "TEST"
+  },
+  {
+    "Gait and station are unremarkable": "TEST"
+  },
+  {
+    "SKIN": "TEST"
+  },
+  {
+    "premalignant or malignant condition": "PROBLEM"
+  }
+]

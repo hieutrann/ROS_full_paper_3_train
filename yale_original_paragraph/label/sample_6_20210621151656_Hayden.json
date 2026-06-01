@@ -1,0 +1,446 @@
+[
+  {
+    "entity": "hypertension",
+    "label": "PROBLEM",
+    "start": 114,
+    "end": 126
+  },
+  {
+    "entity": "dementia",
+    "label": "PROBLEM",
+    "start": 129,
+    "end": 137
+  },
+  {
+    "entity": "depression",
+    "label": "PROBLEM",
+    "start": 144,
+    "end": 154
+  },
+  {
+    "entity": "multiple cerebrovascular accidents",
+    "label": "PROBLEM",
+    "start": 238,
+    "end": 272
+  },
+  {
+    "entity": "significant left-sided upper extremity paresis",
+    "label": "PROBLEM",
+    "start": 277,
+    "end": 323
+  },
+  {
+    "entity": "Dementia",
+    "label": "PROBLEM",
+    "start": 339,
+    "end": 347
+  },
+  {
+    "entity": "depression",
+    "label": "PROBLEM",
+    "start": 352,
+    "end": 362
+  },
+  {
+    "entity": "Hypertension",
+    "label": "PROBLEM",
+    "start": 370,
+    "end": 382
+  },
+  {
+    "entity": "atrial fibrillation",
+    "label": "PROBLEM",
+    "start": 400,
+    "end": 419
+  },
+  {
+    "entity": "fall risk",
+    "label": "PROBLEM",
+    "start": 513,
+    "end": 522
+  },
+  {
+    "entity": "Glaucoma",
+    "label": "PROBLEM",
+    "start": 530,
+    "end": 538
+  },
+  {
+    "entity": "Degenerative arthritis of her spine",
+    "label": "PROBLEM",
+    "start": 546,
+    "end": 581
+  },
+  {
+    "entity": "GERD",
+    "label": "PROBLEM",
+    "start": 589,
+    "end": 593
+  },
+  {
+    "entity": "Hypothyroidism",
+    "label": "PROBLEM",
+    "start": 601,
+    "end": 615
+  },
+  {
+    "entity": "Chronic rhinitis",
+    "label": "PROBLEM",
+    "start": 623,
+    "end": 639
+  },
+  {
+    "entity": "steroids",
+    "label": "DRUG",
+    "start": 669,
+    "end": 677
+  },
+  {
+    "entity": "Urinary urge incontinence",
+    "label": "PROBLEM",
+    "start": 688,
+    "end": 713
+  },
+  {
+    "entity": "Chronic constipation",
+    "label": "PROBLEM",
+    "start": 722,
+    "end": 742
+  },
+  {
+    "entity": "Diabetes type II",
+    "label": "PROBLEM",
+    "start": 751,
+    "end": 767
+  },
+  {
+    "entity": "Painful bunions on feet bilaterally",
+    "label": "PROBLEM",
+    "start": 783,
+    "end": 818
+  },
+  {
+    "entity": "Aspirin",
+    "label": "DRUG",
+    "start": 842,
+    "end": 849
+  },
+  {
+    "entity": "Cymbalta",
+    "label": "DRUG",
+    "start": 869,
+    "end": 877
+  },
+  {
+    "entity": "Diovan",
+    "label": "DRUG",
+    "start": 897,
+    "end": 903
+  },
+  {
+    "entity": "felodipine",
+    "label": "DRUG",
+    "start": 923,
+    "end": 933
+  },
+  {
+    "entity": "omeprazole",
+    "label": "DRUG",
+    "start": 952,
+    "end": 962
+  },
+  {
+    "entity": "Toprol-XL",
+    "label": "DRUG",
+    "start": 977,
+    "end": 986
+  },
+  {
+    "entity": "Levoxyl",
+    "label": "DRUG",
+    "start": 1002,
+    "end": 1009
+  },
+  {
+    "entity": "Lantus insulin",
+    "label": "DRUG",
+    "start": 1025,
+    "end": 1039
+  },
+  {
+    "entity": "simvastatin",
+    "label": "DRUG",
+    "start": 1072,
+    "end": 1083
+  },
+  {
+    "entity": "AyrGel",
+    "label": "DRUG",
+    "start": 1103,
+    "end": 1109
+  },
+  {
+    "entity": "Senna",
+    "label": "DRUG",
+    "start": 1141,
+    "end": 1146
+  },
+  {
+    "entity": "Timoptic",
+    "label": "DRUG",
+    "start": 1173,
+    "end": 1181
+  },
+  {
+    "entity": "Tylenol",
+    "label": "DRUG",
+    "start": 1213,
+    "end": 1220
+  },
+  {
+    "entity": "Xalatan",
+    "label": "DRUG",
+    "start": 1245,
+    "end": 1252
+  },
+  {
+    "entity": "Tucks",
+    "label": "DRUG",
+    "start": 1300,
+    "end": 1305
+  },
+  {
+    "entity": "ALLERGIES",
+    "label": "PROBLEM",
+    "start": 1328,
+    "end": 1337
+  },
+  {
+    "entity": "KNOWN DRUG ALLERGIES",
+    "label": "PROBLEM",
+    "start": 1343,
+    "end": 1363
+  },
+  {
+    "entity": "ACE INHIBITOR",
+    "label": "DRUG",
+    "start": 1367,
+    "end": 1380
+  },
+  {
+    "entity": "A COUGH",
+    "label": "PROBLEM",
+    "start": 1397,
+    "end": 1404
+  },
+  {
+    "entity": "some hemorrhoids",
+    "label": "PROBLEM",
+    "start": 1741,
+    "end": 1757
+  },
+  {
+    "entity": "painful",
+    "label": "PROBLEM",
+    "start": 1774,
+    "end": 1781
+  },
+  {
+    "entity": "constipated",
+    "label": "PROBLEM",
+    "start": 1826,
+    "end": 1837
+  },
+  {
+    "entity": "Her blood glucoses",
+    "label": "TEST",
+    "start": 1840,
+    "end": 1858
+  },
+  {
+    "entity": "cough",
+    "label": "PROBLEM",
+    "start": 2102,
+    "end": 2107
+  },
+  {
+    "entity": "rib pain",
+    "label": "PROBLEM",
+    "start": 2111,
+    "end": 2119
+  },
+  {
+    "entity": "Depression",
+    "label": "PROBLEM",
+    "start": 2229,
+    "end": 2239
+  },
+  {
+    "entity": "Cymbalta",
+    "label": "DRUG",
+    "start": 2263,
+    "end": 2271
+  },
+  {
+    "entity": "problems with breathing",
+    "label": "PROBLEM",
+    "start": 2358,
+    "end": 2381
+  },
+  {
+    "entity": "neurologic complaints",
+    "label": "PROBLEM",
+    "start": 2387,
+    "end": 2408
+  },
+  {
+    "entity": "Pain",
+    "label": "PROBLEM",
+    "start": 2423,
+    "end": 2427
+  },
+  {
+    "entity": "Tylenol",
+    "label": "DRUG",
+    "start": 2464,
+    "end": 2471
+  },
+  {
+    "entity": "Vitals",
+    "label": "TEST",
+    "start": 2499,
+    "end": 2505
+  },
+  {
+    "entity": "apparent distress",
+    "label": "PROBLEM",
+    "start": 2577,
+    "end": 2594
+  },
+  {
+    "entity": "auscultation",
+    "label": "TEST",
+    "start": 2620,
+    "end": 2632
+  },
+  {
+    "entity": "percussion",
+    "label": "TEST",
+    "start": 2637,
+    "end": 2647
+  },
+  {
+    "entity": "Heart sounds",
+    "label": "TEST",
+    "start": 2650,
+    "end": 2662
+  },
+  {
+    "entity": "any edema",
+    "label": "PROBLEM",
+    "start": 2716,
+    "end": 2725
+  },
+  {
+    "entity": "a couple of large hemorrhoids",
+    "label": "PROBLEM",
+    "start": 2752,
+    "end": 2781
+  },
+  {
+    "entity": "tender",
+    "label": "PROBLEM",
+    "start": 2821,
+    "end": 2827
+  },
+  {
+    "entity": "Hypertension",
+    "label": "PROBLEM",
+    "start": 2858,
+    "end": 2870
+  },
+  {
+    "entity": "Depression",
+    "label": "PROBLEM",
+    "start": 2912,
+    "end": 2922
+  },
+  {
+    "entity": "Cymbalta",
+    "label": "DRUG",
+    "start": 2941,
+    "end": 2949
+  },
+  {
+    "entity": "blood pressure",
+    "label": "TEST",
+    "start": 3026,
+    "end": 3040
+  },
+  {
+    "entity": "the medicines",
+    "label": "DRUG",
+    "start": 3087,
+    "end": 3100
+  },
+  {
+    "entity": "clinically euthyroid",
+    "label": "PROBLEM",
+    "start": 3110,
+    "end": 3130
+  },
+  {
+    "entity": "Tylenol",
+    "label": "DRUG",
+    "start": 3171,
+    "end": 3178
+  },
+  {
+    "entity": "FiberCon",
+    "label": "DRUG",
+    "start": 3303,
+    "end": 3311
+  },
+  {
+    "entity": "Metamucil",
+    "label": "DRUG",
+    "start": 3323,
+    "end": 3332
+  },
+  {
+    "entity": "annulose",
+    "label": "TREATMENT",
+    "start": 3371,
+    "end": 3379
+  },
+  {
+    "entity": "atrial fibrillation",
+    "label": "PROBLEM",
+    "start": 3462,
+    "end": 3481
+  },
+  {
+    "entity": "chronic rhinitis",
+    "label": "PROBLEM",
+    "start": 3484,
+    "end": 3500
+  },
+  {
+    "entity": "depression",
+    "label": "PROBLEM",
+    "start": 3503,
+    "end": 3513
+  },
+  {
+    "entity": "hypertension",
+    "label": "PROBLEM",
+    "start": 3516,
+    "end": 3528
+  },
+  {
+    "entity": "hemorrhoids",
+    "label": "PROBLEM",
+    "start": 3531,
+    "end": 3542
+  }
+]

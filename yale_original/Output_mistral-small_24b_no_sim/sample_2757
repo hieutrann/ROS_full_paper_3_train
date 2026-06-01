@@ -1,0 +1,53 @@
+[
+  {
+    "General Medicine": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "ant bait": "DRUG"
+  },
+  {
+    "ant bait": "DRUG"
+  },
+  {
+    "Borax": "DRUG"
+  },
+  {
+    "coughing": "PROBLEM"
+  },
+  {
+    "gagging": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "symptoms": "PROBLEM"
+  },
+  {
+    "afebrile": "TEST"
+  },
+  {
+    "vital signs": "TEST"
+  },
+  {
+    "pulse oximetry": "TEST"
+  },
+  {
+    "ant bait": "DRUG"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "borax": "DRUG"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "exposure": "PROBLEM"
+  }
+]

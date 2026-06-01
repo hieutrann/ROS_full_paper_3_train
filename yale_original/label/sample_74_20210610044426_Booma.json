@@ -1,0 +1,578 @@
+[
+  {
+    "entity": "MS",
+    "label": "PROBLEM",
+    "start": 88,
+    "end": 90
+  },
+  {
+    "entity": "difficulties with cognition and ambulation",
+    "label": "PROBLEM",
+    "start": 100,
+    "end": 142
+  },
+  {
+    "entity": "MRI changes",
+    "label": "PROBLEM",
+    "start": 144,
+    "end": 155
+  },
+  {
+    "entity": "CSF",
+    "label": "TEST",
+    "start": 161,
+    "end": 164
+  },
+  {
+    "entity": "interferon",
+    "label": "DRUG",
+    "start": 257,
+    "end": 267
+  },
+  {
+    "entity": "Her symptoms",
+    "label": "PROBLEM",
+    "start": 273,
+    "end": 285
+  },
+  {
+    "entity": "R leg drags at the end of the day",
+    "label": "PROBLEM",
+    "start": 332,
+    "end": 365
+  },
+  {
+    "entity": "falls",
+    "label": "PROBLEM",
+    "start": 433,
+    "end": 438
+  },
+  {
+    "entity": "heat sensitivity",
+    "label": "PROBLEM",
+    "start": 504,
+    "end": 520
+  },
+  {
+    "entity": "betaseron",
+    "label": "DRUG",
+    "start": 543,
+    "end": 552
+  },
+  {
+    "entity": "the medication",
+    "label": "DRUG",
+    "start": 574,
+    "end": 588
+  },
+  {
+    "entity": "thyroid replacement",
+    "label": "DRUG",
+    "start": 610,
+    "end": 629
+  },
+  {
+    "entity": "Her urinary frequency/urgency",
+    "label": "PROBLEM",
+    "start": 766,
+    "end": 795
+  },
+  {
+    "entity": "minor accidents",
+    "label": "PROBLEM",
+    "start": 835,
+    "end": 850
+  },
+  {
+    "entity": "oxybutynin",
+    "label": "DRUG",
+    "start": 923,
+    "end": 933
+  },
+  {
+    "entity": "Her symptoms",
+    "label": "PROBLEM",
+    "start": 935,
+    "end": 947
+  },
+  {
+    "entity": "right leg weakness",
+    "label": "PROBLEM",
+    "start": 973,
+    "end": 991
+  },
+  {
+    "entity": "numbness effecting the left axilla, arm, and leg",
+    "label": "PROBLEM",
+    "start": 1063,
+    "end": 1111
+  },
+  {
+    "entity": "MRI",
+    "label": "TEST",
+    "start": 1113,
+    "end": 1116
+  },
+  {
+    "entity": "lesions",
+    "label": "PROBLEM",
+    "start": 1123,
+    "end": 1130
+  },
+  {
+    "entity": "MS",
+    "label": "PROBLEM",
+    "start": 1143,
+    "end": 1145
+  },
+  {
+    "entity": "blood studies",
+    "label": "TEST",
+    "start": 1151,
+    "end": 1164
+  },
+  {
+    "entity": "Allergies",
+    "label": "PROBLEM",
+    "start": 1207,
+    "end": 1216
+  },
+  {
+    "entity": "Penicillins",
+    "label": "DRUG",
+    "start": 1221,
+    "end": 1232
+  },
+  {
+    "entity": "Flovent HFA",
+    "label": "DRUG",
+    "start": 1251,
+    "end": 1262
+  },
+  {
+    "entity": "Levoxyl",
+    "label": "DRUG",
+    "start": 1417,
+    "end": 1424
+  },
+  {
+    "entity": "ProAir HFA",
+    "label": "DRUG",
+    "start": 1561,
+    "end": 1571
+  },
+  {
+    "entity": "COUGH",
+    "label": "PROBLEM",
+    "start": 1666,
+    "end": 1671
+  },
+  {
+    "entity": "WHEEZE",
+    "label": "PROBLEM",
+    "start": 1676,
+    "end": 1682
+  },
+  {
+    "entity": "Accu-Chek Softclix Lancets",
+    "label": "TREATMENT",
+    "start": 1778,
+    "end": 1804
+  },
+  {
+    "entity": "Pantoprazole Sodium",
+    "label": "DRUG",
+    "start": 1909,
+    "end": 1928
+  },
+  {
+    "entity": "Rebif",
+    "label": "DRUG",
+    "start": 2092,
+    "end": 2097
+  },
+  {
+    "entity": "primary syphilis",
+    "label": "PROBLEM",
+    "start": 2222,
+    "end": 2238
+  },
+  {
+    "entity": "Asthma",
+    "label": "PROBLEM",
+    "start": 2299,
+    "end": 2305
+  },
+  {
+    "entity": "Hypertension",
+    "label": "PROBLEM",
+    "start": 2336,
+    "end": 2348
+  },
+  {
+    "entity": "Vitals",
+    "label": "TEST",
+    "start": 2821,
+    "end": 2827
+  },
+  {
+    "entity": "Vital Signs",
+    "label": "TEST",
+    "start": 2838,
+    "end": 2849
+  },
+  {
+    "entity": "BMI",
+    "label": "TEST",
+    "start": 2906,
+    "end": 2909
+  },
+  {
+    "entity": "BSA",
+    "label": "TEST",
+    "start": 2929,
+    "end": 2932
+  },
+  {
+    "entity": "Height",
+    "label": "TEST",
+    "start": 2951,
+    "end": 2957
+  },
+  {
+    "entity": "Weight",
+    "label": "TEST",
+    "start": 2970,
+    "end": 2976
+  },
+  {
+    "entity": "Systolic",
+    "label": "TEST",
+    "start": 2991,
+    "end": 2999
+  },
+  {
+    "entity": "Diastolic",
+    "label": "TEST",
+    "start": 3006,
+    "end": 3015
+  },
+  {
+    "entity": "Heart Rate",
+    "label": "TEST",
+    "start": 3021,
+    "end": 3031
+  },
+  {
+    "entity": "Physical Exam",
+    "label": "TEST",
+    "start": 3037,
+    "end": 3050
+  },
+  {
+    "entity": "obese",
+    "label": "PROBLEM",
+    "start": 3128,
+    "end": 3133
+  },
+  {
+    "entity": "Auscultation of lungs",
+    "label": "TEST",
+    "start": 3206,
+    "end": 3227
+  },
+  {
+    "entity": "Auscultation of heart",
+    "label": "TEST",
+    "start": 3254,
+    "end": 3275
+  },
+  {
+    "entity": "A mental status exam",
+    "label": "TEST",
+    "start": 3301,
+    "end": 3321
+  },
+  {
+    "entity": "dysphasia",
+    "label": "PROBLEM",
+    "start": 3366,
+    "end": 3375
+  },
+  {
+    "entity": "aphasia",
+    "label": "PROBLEM",
+    "start": 3376,
+    "end": 3383
+  },
+  {
+    "entity": "visual acuity",
+    "label": "TEST",
+    "start": 3435,
+    "end": 3448
+  },
+  {
+    "entity": "visual fields",
+    "label": "TEST",
+    "start": 3453,
+    "end": 3466
+  },
+  {
+    "entity": "the extraocular motions",
+    "label": "TEST",
+    "start": 3513,
+    "end": 3536
+  },
+  {
+    "entity": "sensation to the face",
+    "label": "TEST",
+    "start": 3569,
+    "end": 3590
+  },
+  {
+    "entity": "masseter strength",
+    "label": "TEST",
+    "start": 3595,
+    "end": 3612
+  },
+  {
+    "entity": "facial strength",
+    "label": "TEST",
+    "start": 3647,
+    "end": 3662
+  },
+  {
+    "entity": "hearing",
+    "label": "TEST",
+    "start": 3709,
+    "end": 3716
+  },
+  {
+    "entity": "movement of the soft palate",
+    "label": "TEST",
+    "start": 3772,
+    "end": 3799
+  },
+  {
+    "entity": "gag",
+    "label": "TEST",
+    "start": 3811,
+    "end": 3814
+  },
+  {
+    "entity": "shoulder shrug",
+    "label": "TEST",
+    "start": 3835,
+    "end": 3849
+  },
+  {
+    "entity": "tongue deviation",
+    "label": "PROBLEM",
+    "start": 3908,
+    "end": 3924
+  },
+  {
+    "entity": "protrusion",
+    "label": "PROBLEM",
+    "start": 3930,
+    "end": 3940
+  },
+  {
+    "entity": "Motor Strength",
+    "label": "TEST",
+    "start": 3943,
+    "end": 3957
+  },
+  {
+    "entity": "Lower Extremities: (4 to 5-, weaker on R)",
+    "label": "PROBLEM",
+    "start": 3985,
+    "end": 4026
+  },
+  {
+    "entity": "Motor Survey",
+    "label": "TEST",
+    "start": 4029,
+    "end": 4041
+  },
+  {
+    "entity": "hypertonic",
+    "label": "PROBLEM",
+    "start": 4058,
+    "end": 4068
+  },
+  {
+    "entity": "Reflexes",
+    "label": "TEST",
+    "start": 4079,
+    "end": 4087
+  },
+  {
+    "entity": "the deep tendon reflexes",
+    "label": "TEST",
+    "start": 4089,
+    "end": 4113
+  },
+  {
+    "entity": "abnormal",
+    "label": "PROBLEM",
+    "start": 4119,
+    "end": 4127
+  },
+  {
+    "entity": "Babinski reflex",
+    "label": "TEST",
+    "start": 4292,
+    "end": 4307
+  },
+  {
+    "entity": "Ankle Clonus",
+    "label": "PROBLEM",
+    "start": 4351,
+    "end": 4363
+  },
+  {
+    "entity": "Gait",
+    "label": "TEST",
+    "start": 4431,
+    "end": 4435
+  },
+  {
+    "entity": "spastic",
+    "label": "PROBLEM",
+    "start": 4437,
+    "end": 4444
+  },
+  {
+    "entity": "Decreased response",
+    "label": "PROBLEM",
+    "start": 4458,
+    "end": 4476
+  },
+  {
+    "entity": "touch stimulation",
+    "label": "TEST",
+    "start": 4480,
+    "end": 4497
+  },
+  {
+    "entity": "Decreased response",
+    "label": "PROBLEM",
+    "start": 4498,
+    "end": 4516
+  },
+  {
+    "entity": "stimulation by vibration",
+    "label": "TEST",
+    "start": 4520,
+    "end": 4544
+  },
+  {
+    "entity": "Decreased response",
+    "label": "PROBLEM",
+    "start": 4560,
+    "end": 4578
+  },
+  {
+    "entity": "pain and temperature stimulation",
+    "label": "TEST",
+    "start": 4582,
+    "end": 4614
+  },
+  {
+    "entity": "CBC",
+    "label": "TEST",
+    "start": 4664,
+    "end": 4667
+  },
+  {
+    "entity": "LFT",
+    "label": "TEST",
+    "start": 4669,
+    "end": 4672
+  },
+  {
+    "entity": "Fe",
+    "label": "TEST",
+    "start": 4674,
+    "end": 4676
+  },
+  {
+    "entity": "TIBC",
+    "label": "TEST",
+    "start": 4682,
+    "end": 4686
+  },
+  {
+    "entity": "Assessment",
+    "label": "TEST",
+    "start": 4709,
+    "end": 4719
+  },
+  {
+    "entity": "Multiple Sclerosis",
+    "label": "PROBLEM",
+    "start": 4724,
+    "end": 4742
+  },
+  {
+    "entity": "Dyspepsia",
+    "label": "PROBLEM",
+    "start": 4751,
+    "end": 4760
+  },
+  {
+    "entity": "Pantoprazole Sodium",
+    "label": "DRUG",
+    "start": 4777,
+    "end": 4796
+  },
+  {
+    "entity": "relapsing-remitting MS",
+    "label": "PROBLEM",
+    "start": 4935,
+    "end": 4957
+  },
+  {
+    "entity": "rebif",
+    "label": "DRUG",
+    "start": 4985,
+    "end": 4990
+  },
+  {
+    "entity": "her too tired",
+    "label": "PROBLEM",
+    "start": 5054,
+    "end": 5067
+  },
+  {
+    "entity": "the medication",
+    "label": "DRUG",
+    "start": 5103,
+    "end": 5117
+  },
+  {
+    "entity": "rebif",
+    "label": "DRUG",
+    "start": 5130,
+    "end": 5135
+  },
+  {
+    "entity": "- CBC",
+    "label": "TEST",
+    "start": 5139,
+    "end": 5144
+  },
+  {
+    "entity": "LFT",
+    "label": "TEST",
+    "start": 5146,
+    "end": 5149
+  },
+  {
+    "entity": "short term disability",
+    "label": "PROBLEM",
+    "start": 5184,
+    "end": 5205
+  }
+]

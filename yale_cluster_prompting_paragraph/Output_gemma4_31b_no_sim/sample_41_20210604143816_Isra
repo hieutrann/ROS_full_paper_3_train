@@ -1,0 +1,107 @@
+[
+  {
+    "severe nausea": "PROBLEM"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "severe pain": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "incarcerated umbilical hernia": "PROBLEM"
+  },
+  {
+    "hemorrhoidectomy": "TREATMENT"
+  },
+  {
+    "depression": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "Ziac": "DRUG"
+  },
+  {
+    "Remeron": "DRUG"
+  },
+  {
+    "cancer": "PROBLEM"
+  },
+  {
+    "hepatitis": "PROBLEM"
+  },
+  {
+    "blood transfusions": "TREATMENT"
+  },
+  {
+    "obese": "PROBLEM"
+  },
+  {
+    "mild distress": "PROBLEM"
+  },
+  {
+    "scleral icterus": "PROBLEM"
+  },
+  {
+    "cervical, supraclavicular, or axillary adenopathy": "PROBLEM"
+  },
+  {
+    "murmurs": "PROBLEM"
+  },
+  {
+    "gallops": "PROBLEM"
+  },
+  {
+    "bulging in the umbilicus": "PROBLEM"
+  },
+  {
+    "herniated contents": "PROBLEM"
+  },
+  {
+    "palpable defect in the umbilicus": "PROBLEM"
+  },
+  {
+    "EKG": "TEST"
+  },
+  {
+    "Normal sinus rhythm": "PROBLEM"
+  },
+  {
+    "prolonged QT": "PROBLEM"
+  },
+  {
+    "Chest x-ray": "TEST"
+  },
+  {
+    "abdominal x-rays": "TEST"
+  },
+  {
+    "electrolytes": "TEST"
+  },
+  {
+    "Creatinine": "TEST"
+  },
+  {
+    "White count": "TEST"
+  },
+  {
+    "hematocrit": "TEST"
+  },
+  {
+    "platelet count": "TEST"
+  },
+  {
+    "incarcerated umbilical hernia": "PROBLEM"
+  },
+  {
+    "repair with mesh": "TREATMENT"
+  }
+]

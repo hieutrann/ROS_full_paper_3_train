@@ -1,0 +1,632 @@
+[
+  {
+    "entity": "Anemia",
+    "label": "PROBLEM",
+    "start": 63,
+    "end": 69
+  },
+  {
+    "entity": "Refractory anemia",
+    "label": "PROBLEM",
+    "start": 93,
+    "end": 110
+  },
+  {
+    "entity": "transfusion dependent",
+    "label": "PROBLEM",
+    "start": 119,
+    "end": 140
+  },
+  {
+    "entity": "anemia",
+    "label": "PROBLEM",
+    "start": 181,
+    "end": 187
+  },
+  {
+    "entity": "hemoglobin",
+    "label": "TEST",
+    "start": 193,
+    "end": 203
+  },
+  {
+    "entity": "transfusion",
+    "label": "TREATMENT",
+    "start": 225,
+    "end": 236
+  },
+  {
+    "entity": "Refractory anemia",
+    "label": "PROBLEM",
+    "start": 287,
+    "end": 304
+  },
+  {
+    "entity": "transfusion dependent",
+    "label": "PROBLEM",
+    "start": 313,
+    "end": 334
+  },
+  {
+    "entity": "a blood transfusion",
+    "label": "TREATMENT",
+    "start": 362,
+    "end": 381
+  },
+  {
+    "entity": "diabetes",
+    "label": "PROBLEM",
+    "start": 483,
+    "end": 491
+  },
+  {
+    "entity": "any comorbid complications",
+    "label": "PROBLEM",
+    "start": 503,
+    "end": 529
+  },
+  {
+    "entity": "the diabetes",
+    "label": "PROBLEM",
+    "start": 533,
+    "end": 545
+  },
+  {
+    "entity": "kidney disease",
+    "label": "PROBLEM",
+    "start": 556,
+    "end": 570
+  },
+  {
+    "entity": "heart disease",
+    "label": "PROBLEM",
+    "start": 572,
+    "end": 585
+  },
+  {
+    "entity": "stroke",
+    "label": "PROBLEM",
+    "start": 587,
+    "end": 593
+  },
+  {
+    "entity": "vision loss",
+    "label": "PROBLEM",
+    "start": 595,
+    "end": 606
+  },
+  {
+    "entity": "neuropathy",
+    "label": "PROBLEM",
+    "start": 611,
+    "end": 621
+  },
+  {
+    "entity": "anemia",
+    "label": "PROBLEM",
+    "start": 662,
+    "end": 668
+  },
+  {
+    "entity": "hemoglobin",
+    "label": "TEST",
+    "start": 674,
+    "end": 684
+  },
+  {
+    "entity": "transfusion",
+    "label": "TREATMENT",
+    "start": 706,
+    "end": 717
+  },
+  {
+    "entity": "bleeding",
+    "label": "PROBLEM",
+    "start": 765,
+    "end": 773
+  },
+  {
+    "entity": "a blood transfusion",
+    "label": "TREATMENT",
+    "start": 782,
+    "end": 801
+  },
+  {
+    "entity": "that blood transfusion",
+    "label": "TREATMENT",
+    "start": 865,
+    "end": 887
+  },
+  {
+    "entity": "a transfusion",
+    "label": "TREATMENT",
+    "start": 896,
+    "end": 909
+  },
+  {
+    "entity": "anemia",
+    "label": "PROBLEM",
+    "start": 914,
+    "end": 920
+  },
+  {
+    "entity": "B12",
+    "label": "DRUG",
+    "start": 944,
+    "end": 947
+  },
+  {
+    "entity": "iron",
+    "label": "DRUG",
+    "start": 954,
+    "end": 958
+  },
+  {
+    "entity": "Procrit",
+    "label": "DRUG",
+    "start": 964,
+    "end": 971
+  },
+  {
+    "entity": "his anemia",
+    "label": "PROBLEM",
+    "start": 1053,
+    "end": 1063
+  },
+  {
+    "entity": "any constitutional complaints",
+    "label": "PROBLEM",
+    "start": 1075,
+    "end": 1104
+  },
+  {
+    "entity": "fatigue",
+    "label": "PROBLEM",
+    "start": 1116,
+    "end": 1123
+  },
+  {
+    "entity": "malaise",
+    "label": "PROBLEM",
+    "start": 1125,
+    "end": 1132
+  },
+  {
+    "entity": "some dyspnea",
+    "label": "PROBLEM",
+    "start": 1138,
+    "end": 1150
+  },
+  {
+    "entity": "adenopathy",
+    "label": "PROBLEM",
+    "start": 1162,
+    "end": 1172
+  },
+  {
+    "entity": "fevers",
+    "label": "PROBLEM",
+    "start": 1193,
+    "end": 1199
+  },
+  {
+    "entity": "night sweats",
+    "label": "PROBLEM",
+    "start": 1201,
+    "end": 1213
+  },
+  {
+    "entity": "bone pain",
+    "label": "PROBLEM",
+    "start": 1215,
+    "end": 1224
+  },
+  {
+    "entity": "rash",
+    "label": "PROBLEM",
+    "start": 1226,
+    "end": 1230
+  },
+  {
+    "entity": "arthralgias",
+    "label": "PROBLEM",
+    "start": 1232,
+    "end": 1243
+  },
+  {
+    "entity": "myalgias",
+    "label": "PROBLEM",
+    "start": 1248,
+    "end": 1256
+  },
+  {
+    "entity": "Diabetes",
+    "label": "PROBLEM",
+    "start": 1280,
+    "end": 1288
+  },
+  {
+    "entity": "Hernia repair",
+    "label": "TREATMENT",
+    "start": 1313,
+    "end": 1326
+  },
+  {
+    "entity": "allergies",
+    "label": "PROBLEM",
+    "start": 1349,
+    "end": 1358
+  },
+  {
+    "entity": "Coumadin",
+    "label": "DRUG",
+    "start": 1405,
+    "end": 1413
+  },
+  {
+    "entity": "Lasix",
+    "label": "DRUG",
+    "start": 1415,
+    "end": 1420
+  },
+  {
+    "entity": "metformin",
+    "label": "DRUG",
+    "start": 1422,
+    "end": 1431
+  },
+  {
+    "entity": "folic acid",
+    "label": "DRUG",
+    "start": 1433,
+    "end": 1443
+  },
+  {
+    "entity": "diltiazem",
+    "label": "DRUG",
+    "start": 1445,
+    "end": 1454
+  },
+  {
+    "entity": "B12",
+    "label": "DRUG",
+    "start": 1456,
+    "end": 1459
+  },
+  {
+    "entity": "Prevacid",
+    "label": "DRUG",
+    "start": 1461,
+    "end": 1469
+  },
+  {
+    "entity": "Feosol",
+    "label": "DRUG",
+    "start": 1475,
+    "end": 1481
+  },
+  {
+    "entity": "blood or cancer disorders",
+    "label": "PROBLEM",
+    "start": 1635,
+    "end": 1660
+  },
+  {
+    "entity": "acute distress",
+    "label": "PROBLEM",
+    "start": 1751,
+    "end": 1765
+  },
+  {
+    "entity": "Blood pressure",
+    "label": "TEST",
+    "start": 1890,
+    "end": 1904
+  },
+  {
+    "entity": "pulse",
+    "label": "TEST",
+    "start": 1916,
+    "end": 1921
+  },
+  {
+    "entity": "respiratory rate",
+    "label": "TEST",
+    "start": 1929,
+    "end": 1945
+  },
+  {
+    "entity": "temperature",
+    "label": "TEST",
+    "start": 1957,
+    "end": 1968
+  },
+  {
+    "entity": "mild arcus senilis in the right",
+    "label": "PROBLEM",
+    "start": 2042,
+    "end": 2073
+  },
+  {
+    "entity": "jugular venous pressure distention",
+    "label": "PROBLEM",
+    "start": 2230,
+    "end": 2264
+  },
+  {
+    "entity": "adenopathy in the cervical, supraclavicular, or axillary areas",
+    "label": "PROBLEM",
+    "start": 2278,
+    "end": 2340
+  },
+  {
+    "entity": "rate",
+    "label": "TEST",
+    "start": 2371,
+    "end": 2375
+  },
+  {
+    "entity": "rhythm",
+    "label": "TEST",
+    "start": 2380,
+    "end": 2386
+  },
+  {
+    "entity": "some fullness in the left upper quadrant",
+    "label": "PROBLEM",
+    "start": 2430,
+    "end": 2470
+  },
+  {
+    "entity": "clubbing",
+    "label": "PROBLEM",
+    "start": 2549,
+    "end": 2557
+  },
+  {
+    "entity": "some edema",
+    "label": "PROBLEM",
+    "start": 2572,
+    "end": 2582
+  },
+  {
+    "entity": "cyanosis",
+    "label": "PROBLEM",
+    "start": 2591,
+    "end": 2599
+  },
+  {
+    "entity": "refractory anemia",
+    "label": "PROBLEM",
+    "start": 2722,
+    "end": 2739
+  },
+  {
+    "entity": "transfusion dependent",
+    "label": "PROBLEM",
+    "start": 2750,
+    "end": 2771
+  },
+  {
+    "entity": "B12",
+    "label": "DRUG",
+    "start": 2782,
+    "end": 2785
+  },
+  {
+    "entity": "iron",
+    "label": "DRUG",
+    "start": 2787,
+    "end": 2791
+  },
+  {
+    "entity": "folic acid",
+    "label": "DRUG",
+    "start": 2793,
+    "end": 2803
+  },
+  {
+    "entity": "Procrit",
+    "label": "DRUG",
+    "start": 2809,
+    "end": 2816
+  },
+  {
+    "entity": "blood loss",
+    "label": "PROBLEM",
+    "start": 2850,
+    "end": 2860
+  },
+  {
+    "entity": "esophagogastroduodenoscopy",
+    "label": "TEST",
+    "start": 2874,
+    "end": 2900
+  },
+  {
+    "entity": "His creatinine",
+    "label": "TEST",
+    "start": 2922,
+    "end": 2936
+  },
+  {
+    "entity": "an underlying myelodysplastic syndrome",
+    "label": "PROBLEM",
+    "start": 2995,
+    "end": 3033
+  },
+  {
+    "entity": "bone marrow failure",
+    "label": "PROBLEM",
+    "start": 3037,
+    "end": 3056
+  },
+  {
+    "entity": "His creatinine",
+    "label": "TEST",
+    "start": 3058,
+    "end": 3072
+  },
+  {
+    "entity": "his anemia",
+    "label": "PROBLEM",
+    "start": 3147,
+    "end": 3157
+  },
+  {
+    "entity": "further serologic evaluation",
+    "label": "TEST",
+    "start": 3245,
+    "end": 3273
+  },
+  {
+    "entity": "reticulocyte count",
+    "label": "TEST",
+    "start": 3279,
+    "end": 3297
+  },
+  {
+    "entity": "serum protein",
+    "label": "TEST",
+    "start": 3299,
+    "end": 3312
+  },
+  {
+    "entity": "electrophoresis",
+    "label": "TEST",
+    "start": 3318,
+    "end": 3333
+  },
+  {
+    "entity": "LDH,",
+    "label": "TEST",
+    "start": 3335,
+    "end": 3339
+  },
+  {
+    "entity": "B12,",
+    "label": "TEST",
+    "start": 3340,
+    "end": 3344
+  },
+  {
+    "entity": "folate,",
+    "label": "TEST",
+    "start": 3345,
+    "end": 3352
+  },
+  {
+    "entity": "erythropoietin level,",
+    "label": "TEST",
+    "start": 3353,
+    "end": 3374
+  },
+  {
+    "entity": "a bone marrow aspiration",
+    "label": "TEST",
+    "start": 3397,
+    "end": 3421
+  },
+  {
+    "entity": "biopsy",
+    "label": "TEST",
+    "start": 3426,
+    "end": 3432
+  },
+  {
+    "entity": "refractory anemia",
+    "label": "PROBLEM",
+    "start": 3626,
+    "end": 3643
+  },
+  {
+    "entity": "further therapeutic interventions",
+    "label": "TREATMENT",
+    "start": 3648,
+    "end": 3681
+  },
+  {
+    "entity": "the studies",
+    "label": "TEST",
+    "start": 3747,
+    "end": 3758
+  },
+  {
+    "entity": "an ultrasound of his abdomen",
+    "label": "TEST",
+    "start": 3798,
+    "end": 3826
+  },
+  {
+    "entity": "fullness of the spleen",
+    "label": "PROBLEM",
+    "start": 3851,
+    "end": 3873
+  },
+  {
+    "entity": "electrophoresis",
+    "label": "TEST",
+    "start": 4107,
+    "end": 4122
+  },
+  {
+    "entity": "ldh,",
+    "label": "TEST",
+    "start": 4124,
+    "end": 4128
+  },
+  {
+    "entity": "b12,",
+    "label": "TEST",
+    "start": 4129,
+    "end": 4133
+  },
+  {
+    "entity": "folate,",
+    "label": "TEST",
+    "start": 4134,
+    "end": 4141
+  },
+  {
+    "entity": "erythropoietin level,",
+    "label": "TEST",
+    "start": 4142,
+    "end": 4163
+  },
+  {
+    "entity": "reticulocyte count",
+    "label": "TEST",
+    "start": 4164,
+    "end": 4182
+  },
+  {
+    "entity": "serum protein",
+    "label": "TEST",
+    "start": 4184,
+    "end": 4197
+  },
+  {
+    "entity": "blood transfusion",
+    "label": "TREATMENT",
+    "start": 4199,
+    "end": 4216
+  },
+  {
+    "entity": "refractory anemia",
+    "label": "PROBLEM",
+    "start": 4231,
+    "end": 4248
+  },
+  {
+    "entity": "anemia",
+    "label": "PROBLEM",
+    "start": 4250,
+    "end": 4256
+  },
+  {
+    "entity": "myalgias",
+    "label": "PROBLEM",
+    "start": 4258,
+    "end": 4266
+  }
+]

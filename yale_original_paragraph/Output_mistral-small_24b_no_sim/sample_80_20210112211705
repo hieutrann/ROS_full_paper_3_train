@@ -1,0 +1,50 @@
+[
+  {
+    "Menorrhagia": "PROBLEM"
+  },
+  {
+    "Uterus enlargement": "PROBLEM"
+  },
+  {
+    "Pelvic pain": "PROBLEM"
+  },
+  {
+    "back pain": "PROBLEM"
+  },
+  {
+    "dysmenorrhea": "PROBLEM"
+  },
+  {
+    "dysuria": "PROBLEM"
+  },
+  {
+    "total vaginal hysterectomy": "TREATMENT"
+  },
+  {
+    "vaginal hysterectomy": "TREATMENT"
+  },
+  {
+    "uterus": "PROBLEM"
+  },
+  {
+    "vaginal": "PROBLEM"
+  },
+  {
+    "hysterectomy": "TREATMENT"
+  },
+  {
+    "Pulse": "TEST"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "hemoglobin": "TEST"
+  },
+  {
+    "hematocrit": "TEST"
+  },
+  {
+    "H&H": "TEST"
+  }
+]

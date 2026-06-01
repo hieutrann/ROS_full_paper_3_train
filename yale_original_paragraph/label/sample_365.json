@@ -1,0 +1,908 @@
+[
+  {
+    "entity": "several medical problems",
+    "label": "PROBLEM",
+    "start": 109,
+    "end": 133
+  },
+  {
+    "entity": "numbness",
+    "label": "PROBLEM",
+    "start": 136,
+    "end": 144
+  },
+  {
+    "entity": "tingling",
+    "label": "PROBLEM",
+    "start": 146,
+    "end": 154
+  },
+  {
+    "entity": "a pain in the toes",
+    "label": "PROBLEM",
+    "start": 160,
+    "end": 178
+  },
+  {
+    "entity": "several medical problems",
+    "label": "PROBLEM",
+    "start": 253,
+    "end": 277
+  },
+  {
+    "entity": "numbness",
+    "label": "PROBLEM",
+    "start": 296,
+    "end": 304
+  },
+  {
+    "entity": "tingling",
+    "label": "PROBLEM",
+    "start": 306,
+    "end": 314
+  },
+  {
+    "entity": "a pain in the toes",
+    "label": "PROBLEM",
+    "start": 320,
+    "end": 338
+  },
+  {
+    "entity": "a moderate pain",
+    "label": "PROBLEM",
+    "start": 380,
+    "end": 395
+  },
+  {
+    "entity": "a sharp quality pain",
+    "label": "PROBLEM",
+    "start": 427,
+    "end": 447
+  },
+  {
+    "entity": "paraesthesias in the left toe",
+    "label": "PROBLEM",
+    "start": 576,
+    "end": 605
+  },
+  {
+    "entity": "pain",
+    "label": "PROBLEM",
+    "start": 771,
+    "end": 775
+  },
+  {
+    "entity": "bilateral shoulder pains",
+    "label": "PROBLEM",
+    "start": 815,
+    "end": 839
+  },
+  {
+    "entity": "sinus allergies",
+    "label": "PROBLEM",
+    "start": 848,
+    "end": 863
+  },
+  {
+    "entity": "hypothyroidism",
+    "label": "PROBLEM",
+    "start": 873,
+    "end": 887
+  },
+  {
+    "entity": "thrombocythemia",
+    "label": "PROBLEM",
+    "start": 897,
+    "end": 912
+  },
+  {
+    "entity": "insomnia",
+    "label": "PROBLEM",
+    "start": 914,
+    "end": 922
+  },
+  {
+    "entity": "hypertension",
+    "label": "PROBLEM",
+    "start": 928,
+    "end": 940
+  },
+  {
+    "entity": "Surgeries",
+    "label": "TREATMENT",
+    "start": 964,
+    "end": 973
+  },
+  {
+    "entity": "appendectomy",
+    "label": "TREATMENT",
+    "start": 982,
+    "end": 994
+  },
+  {
+    "entity": "bladder obstruction surgery",
+    "label": "TREATMENT",
+    "start": 1004,
+    "end": 1031
+  },
+  {
+    "entity": "gallbladder surgery",
+    "label": "TREATMENT",
+    "start": 1041,
+    "end": 1060
+  },
+  {
+    "entity": "another gallbladder surgery",
+    "label": "TREATMENT",
+    "start": 1070,
+    "end": 1097
+  },
+  {
+    "entity": "C-section",
+    "label": "TREATMENT",
+    "start": 1107,
+    "end": 1116
+  },
+  {
+    "entity": "varicose vein surgery",
+    "label": "TREATMENT",
+    "start": 1126,
+    "end": 1147
+  },
+  {
+    "entity": "thyroid gland surgery",
+    "label": "TREATMENT",
+    "start": 1175,
+    "end": 1196
+  },
+  {
+    "entity": "hernia surgery",
+    "label": "TREATMENT",
+    "start": 1206,
+    "end": 1220
+  },
+  {
+    "entity": "bilateral mastectomies",
+    "label": "TREATMENT",
+    "start": 1230,
+    "end": 1252
+  },
+  {
+    "entity": "benign disease",
+    "label": "PROBLEM",
+    "start": 1265,
+    "end": 1279
+  },
+  {
+    "entity": "hysterectomy",
+    "label": "TREATMENT",
+    "start": 1281,
+    "end": 1293
+  },
+  {
+    "entity": "right shoulder surgery",
+    "label": "TREATMENT",
+    "start": 1330,
+    "end": 1352
+  },
+  {
+    "entity": "left shoulder surgery",
+    "label": "TREATMENT",
+    "start": 1361,
+    "end": 1382
+  },
+  {
+    "entity": "laparoscopic bowel adhesion removal",
+    "label": "TREATMENT",
+    "start": 1414,
+    "end": 1449
+  },
+  {
+    "entity": "Port-A-Cath",
+    "label": "TREATMENT",
+    "start": 1477,
+    "end": 1488
+  },
+  {
+    "entity": "left total knee arthroplasty",
+    "label": "TREATMENT",
+    "start": 1510,
+    "end": 1538
+  },
+  {
+    "entity": "left hip pinning",
+    "label": "TREATMENT",
+    "start": 1557,
+    "end": 1573
+  },
+  {
+    "entity": "fracture",
+    "label": "PROBLEM",
+    "start": 1581,
+    "end": 1589
+  },
+  {
+    "entity": "colonoscopies",
+    "label": "TREATMENT",
+    "start": 1662,
+    "end": 1675
+  },
+  {
+    "entity": "a right total knee arthroplasty",
+    "label": "TREATMENT",
+    "start": 1744,
+    "end": 1775
+  },
+  {
+    "entity": "synovitis of the left knee",
+    "label": "PROBLEM",
+    "start": 1810,
+    "end": 1836
+  },
+  {
+    "entity": "zoster",
+    "label": "PROBLEM",
+    "start": 1856,
+    "end": 1862
+  },
+  {
+    "entity": "infection of the left knee",
+    "label": "PROBLEM",
+    "start": 1867,
+    "end": 1893
+  },
+  {
+    "entity": "labyrinthitis",
+    "label": "PROBLEM",
+    "start": 1915,
+    "end": 1928
+  },
+  {
+    "entity": "Sulfa",
+    "label": "DRUG",
+    "start": 1954,
+    "end": 1959
+  },
+  {
+    "entity": "aspirin",
+    "label": "DRUG",
+    "start": 1961,
+    "end": 1968
+  },
+  {
+    "entity": "Darvon",
+    "label": "DRUG",
+    "start": 1970,
+    "end": 1976
+  },
+  {
+    "entity": "codeine",
+    "label": "DRUG",
+    "start": 1978,
+    "end": 1985
+  },
+  {
+    "entity": "NSAID",
+    "label": "DRUG",
+    "start": 1987,
+    "end": 1992
+  },
+  {
+    "entity": "amoxicillin",
+    "label": "DRUG",
+    "start": 1994,
+    "end": 2005
+  },
+  {
+    "entity": "quinine",
+    "label": "DRUG",
+    "start": 2011,
+    "end": 2018
+  },
+  {
+    "entity": "Hydroxyurea",
+    "label": "DRUG",
+    "start": 2041,
+    "end": 2052
+  },
+  {
+    "entity": "Metamucil",
+    "label": "DRUG",
+    "start": 2067,
+    "end": 2076
+  },
+  {
+    "entity": "amitriptyline",
+    "label": "DRUG",
+    "start": 2100,
+    "end": 2113
+  },
+  {
+    "entity": "Synthroid",
+    "label": "DRUG",
+    "start": 2129,
+    "end": 2138
+  },
+  {
+    "entity": "Ambien",
+    "label": "DRUG",
+    "start": 2153,
+    "end": 2159
+  },
+  {
+    "entity": "triamterene/hydrochlorothiazide",
+    "label": "DRUG",
+    "start": 2174,
+    "end": 2205
+  },
+  {
+    "entity": "Lortab",
+    "label": "DRUG",
+    "start": 2223,
+    "end": 2229
+  },
+  {
+    "entity": "a stroke",
+    "label": "PROBLEM",
+    "start": 2445,
+    "end": 2453
+  },
+  {
+    "entity": "prostate cancer",
+    "label": "PROBLEM",
+    "start": 2505,
+    "end": 2520
+  },
+  {
+    "entity": "heart disease",
+    "label": "PROBLEM",
+    "start": 2571,
+    "end": 2584
+  },
+  {
+    "entity": "diabetes",
+    "label": "PROBLEM",
+    "start": 2588,
+    "end": 2596
+  },
+  {
+    "entity": "some allergies",
+    "label": "PROBLEM",
+    "start": 2664,
+    "end": 2678
+  },
+  {
+    "entity": "sneezing",
+    "label": "PROBLEM",
+    "start": 2680,
+    "end": 2688
+  },
+  {
+    "entity": "sore throat",
+    "label": "PROBLEM",
+    "start": 2694,
+    "end": 2705
+  },
+  {
+    "entity": "glasses",
+    "label": "TREATMENT",
+    "start": 2717,
+    "end": 2724
+  },
+  {
+    "entity": "a cough",
+    "label": "PROBLEM",
+    "start": 2760,
+    "end": 2767
+  },
+  {
+    "entity": "her allergies",
+    "label": "PROBLEM",
+    "start": 2773,
+    "end": 2786
+  },
+  {
+    "entity": "chest pain",
+    "label": "PROBLEM",
+    "start": 2825,
+    "end": 2835
+  },
+  {
+    "entity": "palpitations",
+    "label": "PROBLEM",
+    "start": 2839,
+    "end": 2851
+  },
+  {
+    "entity": "hypertension",
+    "label": "PROBLEM",
+    "start": 2867,
+    "end": 2879
+  },
+  {
+    "entity": "abdominal pain",
+    "label": "PROBLEM",
+    "start": 2906,
+    "end": 2920
+  },
+  {
+    "entity": "blood in the stool",
+    "label": "PROBLEM",
+    "start": 2924,
+    "end": 2942
+  },
+  {
+    "entity": "dysuria",
+    "label": "PROBLEM",
+    "start": 2969,
+    "end": 2976
+  },
+  {
+    "entity": "paresthesias to the toes of both feet",
+    "label": "PROBLEM",
+    "start": 3042,
+    "end": 3079
+  },
+  {
+    "entity": "shoulder pain",
+    "label": "PROBLEM",
+    "start": 3139,
+    "end": 3152
+  },
+  {
+    "entity": "insomnia",
+    "label": "PROBLEM",
+    "start": 3188,
+    "end": 3196
+  },
+  {
+    "entity": "a spot on her right cheek",
+    "label": "PROBLEM",
+    "start": 3233,
+    "end": 3258
+  },
+  {
+    "entity": "a precancerous condition",
+    "label": "PROBLEM",
+    "start": 3285,
+    "end": 3309
+  },
+  {
+    "entity": "hypothyroidism",
+    "label": "PROBLEM",
+    "start": 3338,
+    "end": 3352
+  },
+  {
+    "entity": "essential thrombocythemia",
+    "label": "PROBLEM",
+    "start": 3388,
+    "end": 3413
+  },
+  {
+    "entity": "anemia",
+    "label": "PROBLEM",
+    "start": 3418,
+    "end": 3424
+  },
+  {
+    "entity": "acute distress",
+    "label": "PROBLEM",
+    "start": 3508,
+    "end": 3522
+  },
+  {
+    "entity": "Vital Signs",
+    "label": "TEST",
+    "start": 3524,
+    "end": 3535
+  },
+  {
+    "entity": "Temperature",
+    "label": "TEST",
+    "start": 3552,
+    "end": 3563
+  },
+  {
+    "entity": "Blood pressure",
+    "label": "TEST",
+    "start": 3571,
+    "end": 3585
+  },
+  {
+    "entity": "Pulse",
+    "label": "TEST",
+    "start": 3595,
+    "end": 3600
+  },
+  {
+    "entity": "Weight",
+    "label": "TEST",
+    "start": 3606,
+    "end": 3612
+  },
+  {
+    "entity": "Extraocular movements",
+    "label": "TEST",
+    "start": 3694,
+    "end": 3715
+  },
+  {
+    "entity": "adenopathy",
+    "label": "PROBLEM",
+    "start": 3802,
+    "end": 3812
+  },
+  {
+    "entity": "thyromegaly",
+    "label": "PROBLEM",
+    "start": 3816,
+    "end": 3827
+  },
+  {
+    "entity": "rate",
+    "label": "TEST",
+    "start": 3858,
+    "end": 3862
+  },
+  {
+    "entity": "rhythm",
+    "label": "TEST",
+    "start": 3867,
+    "end": 3873
+  },
+  {
+    "entity": "murmur",
+    "label": "PROBLEM",
+    "start": 3882,
+    "end": 3888
+  },
+  {
+    "entity": "click",
+    "label": "PROBLEM",
+    "start": 3890,
+    "end": 3895
+  },
+  {
+    "entity": "rub",
+    "label": "PROBLEM",
+    "start": 3900,
+    "end": 3903
+  },
+  {
+    "entity": "carotid bruits",
+    "label": "PROBLEM",
+    "start": 3908,
+    "end": 3922
+  },
+  {
+    "entity": "bowel sounds",
+    "label": "TEST",
+    "start": 3950,
+    "end": 3962
+  },
+  {
+    "entity": "hepatosplenomegaly",
+    "label": "PROBLEM",
+    "start": 3997,
+    "end": 4015
+  },
+  {
+    "entity": "mass",
+    "label": "PROBLEM",
+    "start": 4019,
+    "end": 4023
+  },
+  {
+    "entity": "chest wall mass",
+    "label": "PROBLEM",
+    "start": 4056,
+    "end": 4071
+  },
+  {
+    "entity": "the Port-A-Cath",
+    "label": "TREATMENT",
+    "start": 4094,
+    "end": 4109
+  },
+  {
+    "entity": "axillary adenopathy",
+    "label": "PROBLEM",
+    "start": 4132,
+    "end": 4151
+  },
+  {
+    "entity": "Examination of the extremities",
+    "label": "TEST",
+    "start": 4175,
+    "end": 4205
+  },
+  {
+    "entity": "ankle edema",
+    "label": "PROBLEM",
+    "start": 4217,
+    "end": 4228
+  },
+  {
+    "entity": "calf tenderness",
+    "label": "PROBLEM",
+    "start": 4232,
+    "end": 4247
+  },
+  {
+    "entity": "a cyst",
+    "label": "PROBLEM",
+    "start": 4283,
+    "end": 4289
+  },
+  {
+    "entity": "Pedal pulses",
+    "label": "TEST",
+    "start": 4334,
+    "end": 4346
+  },
+  {
+    "entity": "Deep tendon reflexes",
+    "label": "TEST",
+    "start": 4425,
+    "end": 4445
+  },
+  {
+    "entity": "focal neurologic deficits",
+    "label": "PROBLEM",
+    "start": 4488,
+    "end": 4513
+  },
+  {
+    "entity": "Bimanual exam",
+    "label": "TEST",
+    "start": 4638,
+    "end": 4651
+  },
+  {
+    "entity": "the absence of uterus and cervix",
+    "label": "PROBLEM",
+    "start": 4662,
+    "end": 4694
+  },
+  {
+    "entity": "Exam",
+    "label": "TEST",
+    "start": 4740,
+    "end": 4744
+  },
+  {
+    "entity": "actinic keratosis on the right cheek",
+    "label": "PROBLEM",
+    "start": 4828,
+    "end": 4864
+  },
+  {
+    "entity": "Peripheral neuropathy primarily of the right foot",
+    "label": "PROBLEM",
+    "start": 4912,
+    "end": 4961
+  },
+  {
+    "entity": "Hypertension",
+    "label": "PROBLEM",
+    "start": 4966,
+    "end": 4978
+  },
+  {
+    "entity": "Hypothyroidism",
+    "label": "PROBLEM",
+    "start": 4983,
+    "end": 4997
+  },
+  {
+    "entity": "Essential thrombocythemia",
+    "label": "PROBLEM",
+    "start": 5002,
+    "end": 5027
+  },
+  {
+    "entity": "Allergic rhinitis",
+    "label": "PROBLEM",
+    "start": 5032,
+    "end": 5049
+  },
+  {
+    "entity": "Insomnia",
+    "label": "PROBLEM",
+    "start": 5054,
+    "end": 5062
+  },
+  {
+    "entity": "Neurontin",
+    "label": "DRUG",
+    "start": 5083,
+    "end": 5092
+  },
+  {
+    "entity": "peripheral neuropathy",
+    "label": "PROBLEM",
+    "start": 5161,
+    "end": 5182
+  },
+  {
+    "entity": "Anodyne physical therapy",
+    "label": "TREATMENT",
+    "start": 5194,
+    "end": 5218
+  },
+  {
+    "entity": "her peripheral neuropathy",
+    "label": "PROBLEM",
+    "start": 5281,
+    "end": 5306
+  },
+  {
+    "entity": "her essential thrombocythemia",
+    "label": "PROBLEM",
+    "start": 5321,
+    "end": 5350
+  },
+  {
+    "entity": "lab",
+    "label": "TEST",
+    "start": 5371,
+    "end": 5374
+  },
+  {
+    "entity": "a CBC",
+    "label": "TEST",
+    "start": 5379,
+    "end": 5384
+  },
+  {
+    "entity": "her anemia",
+    "label": "PROBLEM",
+    "start": 5392,
+    "end": 5402
+  },
+  {
+    "entity": "essential thrombocythemia",
+    "label": "PROBLEM",
+    "start": 5407,
+    "end": 5432
+  },
+  {
+    "entity": "sed rate",
+    "label": "TEST",
+    "start": 5447,
+    "end": 5455
+  },
+  {
+    "entity": "her peripheral neuropathy",
+    "label": "PROBLEM",
+    "start": 5463,
+    "end": 5488
+  },
+  {
+    "entity": "ferritin",
+    "label": "TEST",
+    "start": 5490,
+    "end": 5498
+  },
+  {
+    "entity": "her anemia",
+    "label": "PROBLEM",
+    "start": 5506,
+    "end": 5516
+  },
+  {
+    "entity": "Hemoccult cards",
+    "label": "TEST",
+    "start": 5522,
+    "end": 5537
+  },
+  {
+    "entity": "anemia",
+    "label": "PROBLEM",
+    "start": 5549,
+    "end": 5555
+  },
+  {
+    "entity": "a DT immunization",
+    "label": "TREATMENT",
+    "start": 5567,
+    "end": 5584
+  },
+  {
+    "entity": "her Ambien",
+    "label": "DRUG",
+    "start": 5636,
+    "end": 5646
+  },
+  {
+    "entity": "a flu shot",
+    "label": "TREATMENT",
+    "start": 5686,
+    "end": 5696
+  },
+  {
+    "entity": "numbness",
+    "label": "PROBLEM",
+    "start": 5737,
+    "end": 5745
+  },
+  {
+    "entity": "allergic rhinitis",
+    "label": "PROBLEM",
+    "start": 5747,
+    "end": 5764
+  },
+  {
+    "entity": "anodyne physical therapy",
+    "label": "TREATMENT",
+    "start": 5766,
+    "end": 5790
+  },
+  {
+    "entity": "hemoccult cards",
+    "label": "TEST",
+    "start": 5792,
+    "end": 5807
+  },
+  {
+    "entity": "hypertension",
+    "label": "PROBLEM",
+    "start": 5809,
+    "end": 5821
+  },
+  {
+    "entity": "hypothyroidism",
+    "label": "PROBLEM",
+    "start": 5823,
+    "end": 5837
+  },
+  {
+    "entity": "insomnia",
+    "label": "PROBLEM",
+    "start": 5839,
+    "end": 5847
+  },
+  {
+    "entity": "peripheral neuropathy",
+    "label": "PROBLEM",
+    "start": 5849,
+    "end": 5870
+  },
+  {
+    "entity": "thrombocythemia",
+    "label": "PROBLEM",
+    "start": 5872,
+    "end": 5887
+  },
+  {
+    "entity": "tingling",
+    "label": "PROBLEM",
+    "start": 5889,
+    "end": 5897
+  },
+  {
+    "entity": "port a cath",
+    "label": "TREATMENT",
+    "start": 5899,
+    "end": 5910
+  },
+  {
+    "entity": "total knee arthroplasty",
+    "label": "TREATMENT",
+    "start": 5912,
+    "end": 5935
+  },
+  {
+    "entity": "essential thrombocythemia",
+    "label": "PROBLEM",
+    "start": 5937,
+    "end": 5962
+  },
+  {
+    "entity": "anemia",
+    "label": "PROBLEM",
+    "start": 5970,
+    "end": 5976
+  }
+]

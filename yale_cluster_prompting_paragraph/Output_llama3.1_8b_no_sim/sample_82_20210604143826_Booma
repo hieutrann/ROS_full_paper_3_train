@@ -1,0 +1,140 @@
+[
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "severe tricuspid regurgitation": "PROBLEM"
+  },
+  {
+    "mild pulmonary hypertension": "PROBLEM"
+  },
+  {
+    "mild aortic stenosis": "PROBLEM"
+  },
+  {
+    "mitral regurgitation": "PROBLEM"
+  },
+  {
+    "atrial fibrillation": "PROBLEM"
+  },
+  {
+    "multifocal atrial tachycardia": "PROBLEM"
+  },
+  {
+    "wandering atrial pacemaker": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "palpitations": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "dizzy spells": "PROBLEM"
+  },
+  {
+    "syncope": "PROBLEM"
+  },
+  {
+    "bradycardia": "PROBLEM"
+  },
+  {
+    "hypokalemia": "PROBLEM"
+  },
+  {
+    "atrial tachycardia": "PROBLEM"
+  },
+  {
+    "sinus rhythm": "PROBLEM"
+  },
+  {
+    "hip fracture": "PROBLEM"
+  },
+  {
+    "atrial": "PROBLEM"
+  },
+  {
+    "tachycardia": "PROBLEM"
+  },
+  {
+    "rhythm": "PROBLEM"
+  },
+  {
+    "apcs": "PROBLEM"
+  },
+  {
+    "cardiac": "PROBLEM"
+  },
+  {
+    "regurgitation": "PROBLEM"
+  },
+  {
+    "aortic": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "pulmonary": "PROBLEM"
+  },
+  {
+    "Multivitamin": "DRUG"
+  },
+  {
+    "Aspirin": "DRUG"
+  },
+  {
+    "Lisinopril": "DRUG"
+  },
+  {
+    "Felodipine": "DRUG"
+  },
+  {
+    "Klor-Con": "DRUG"
+  },
+  {
+    "Omeprazole": "DRUG"
+  },
+  {
+    "MiraLax": "DRUG"
+  },
+  {
+    "Lasix": "DRUG"
+  },
+  {
+    "Cardizem": "DRUG"
+  },
+  {
+    "Verapamil": "DRUG"
+  },
+  {
+    "Toprol": "DRUG"
+  },
+  {
+    "Persantine": "DRUG"
+  },
+  {
+    "Myoview": "DRUG"
+  },
+  {
+    "ECG": "TEST"
+  },
+  {
+    "EKG": "TEST"
+  },
+  {
+    "chest x-ray": "TEST"
+  },
+  {
+    "telemetry": "TEST"
+  },
+  {
+    "surgery": "TREATMENT"
+  },
+  {
+    "left hip surgery": "TREATMENT"
+  }
+]

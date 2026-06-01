@@ -1,0 +1,155 @@
+[
+  {
+    "Hypertension": "PROBLEM"
+  },
+  {
+    "Cardiomyopathy": "PROBLEM"
+  },
+  {
+    "Nonischemic cardiomyopathy": "PROBLEM"
+  },
+  {
+    "branch vessel coronary artery disease": "PROBLEM"
+  },
+  {
+    "congestive heart failure": "PROBLEM"
+  },
+  {
+    "NYHA Class III": "PROBLEM"
+  },
+  {
+    "nonsustained ventricular tachycardia": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "hepatitis C": "PROBLEM"
+  },
+  {
+    "CHF exacerbation": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "orthopnea": "PROBLEM"
+  },
+  {
+    "PND": "PROBLEM"
+  },
+  {
+    "palpitation": "PROBLEM"
+  },
+  {
+    "presyncope": "PROBLEM"
+  },
+  {
+    "syncope": "PROBLEM"
+  },
+  {
+    "right upper quadrant pain": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "joint pain": "PROBLEM"
+  },
+  {
+    "TIA": "PROBLEM"
+  },
+  {
+    "seizure": "PROBLEM"
+  },
+  {
+    "cocaine": "PROBLEM"
+  },
+  {
+    "Pulse": "TEST"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "weight": "TEST"
+  },
+  {
+    "pallor": "PROBLEM"
+  },
+  {
+    "icterus": "PROBLEM"
+  },
+  {
+    "cyanosis": "PROBLEM"
+  },
+  {
+    "Jugular venous distention": "PROBLEM"
+  },
+  {
+    "rales": "PROBLEM"
+  },
+  {
+    "rhonchi": "PROBLEM"
+  },
+  {
+    "Pulse ox": "TEST"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "volume overload": "PROBLEM"
+  },
+  {
+    "Lasix": "DRUG"
+  },
+  {
+    "hydralazine": "DRUG"
+  },
+  {
+    "Toprol": "DRUG"
+  },
+  {
+    "lisinopril": "DRUG"
+  },
+  {
+    "Aldactone": "DRUG"
+  },
+  {
+    "BMP": "TEST"
+  },
+  {
+    "fasting lipid profile": "TEST"
+  },
+  {
+    "AST": "TEST"
+  },
+  {
+    "ALT": "TEST"
+  },
+  {
+    "congestive heart failure": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "cardiomyopathy": "PROBLEM"
+  },
+  {
+    "coronary artery disease": "PROBLEM"
+  },
+  {
+    "ventricular tachycardia": "PROBLEM"
+  },
+  {
+    "nonischemic cardiomyopathy": "PROBLEM"
+  },
+  {
+    "orthopnea": "PROBLEM"
+  }
+]

@@ -1,0 +1,188 @@
+[
+  {
+    "entity": "Airway Compromise",
+    "label": "PROBLEM",
+    "start": 63,
+    "end": 80
+  },
+  {
+    "entity": "Foreign Body",
+    "label": "PROBLEM",
+    "start": 83,
+    "end": 95
+  },
+  {
+    "entity": "foreign body",
+    "label": "PROBLEM",
+    "start": 197,
+    "end": 209
+  },
+  {
+    "entity": "airway compromise",
+    "label": "PROBLEM",
+    "start": 214,
+    "end": 231
+  },
+  {
+    "entity": "intubated",
+    "label": "TREATMENT",
+    "start": 277,
+    "end": 286
+  },
+  {
+    "entity": "foreign body",
+    "label": "PROBLEM",
+    "start": 444,
+    "end": 456
+  },
+  {
+    "entity": "airway compromise",
+    "label": "PROBLEM",
+    "start": 461,
+    "end": 478
+  },
+  {
+    "entity": "intubated",
+    "label": "TREATMENT",
+    "start": 524,
+    "end": 533
+  },
+  {
+    "entity": "diabetes",
+    "label": "PROBLEM",
+    "start": 586,
+    "end": 594
+  },
+  {
+    "entity": "hypertension",
+    "label": "PROBLEM",
+    "start": 596,
+    "end": 608
+  },
+  {
+    "entity": "asthma",
+    "label": "PROBLEM",
+    "start": 610,
+    "end": 616
+  },
+  {
+    "entity": "cholecystectomy",
+    "label": "PROBLEM",
+    "start": 618,
+    "end": 633
+  },
+  {
+    "entity": "total hysterectomy",
+    "label": "PROBLEM",
+    "start": 639,
+    "end": 657
+  },
+  {
+    "entity": "cataract",
+    "label": "PROBLEM",
+    "start": 662,
+    "end": 670
+  },
+  {
+    "entity": "ALLERGIES",
+    "label": "PROBLEM",
+    "start": 672,
+    "end": 681
+  },
+  {
+    "entity": "known drug allergies",
+    "label": "PROBLEM",
+    "start": 686,
+    "end": 706
+  },
+  {
+    "entity": "Prevacid",
+    "label": "DRUG",
+    "start": 729,
+    "end": 737
+  },
+  {
+    "entity": "Humulin",
+    "label": "DRUG",
+    "start": 739,
+    "end": 746
+  },
+  {
+    "entity": "Diprivan",
+    "label": "DRUG",
+    "start": 748,
+    "end": 756
+  },
+  {
+    "entity": "Proventil",
+    "label": "DRUG",
+    "start": 758,
+    "end": 767
+  },
+  {
+    "entity": "Unasyn",
+    "label": "DRUG",
+    "start": 769,
+    "end": 775
+  },
+  {
+    "entity": "Solu-Medrol",
+    "label": "DRUG",
+    "start": 781,
+    "end": 792
+  },
+  {
+    "entity": "tracheostomy",
+    "label": "TREATMENT",
+    "start": 1350,
+    "end": 1362
+  },
+  {
+    "entity": "antibiotics",
+    "label": "DRUG",
+    "start": 1396,
+    "end": 1407
+  },
+  {
+    "entity": "ventilatory support",
+    "label": "TREATMENT",
+    "start": 1412,
+    "end": 1431
+  },
+  {
+    "entity": "diabetes",
+    "label": "PROBLEM",
+    "start": 1972,
+    "end": 1980
+  },
+  {
+    "entity": "hypertension",
+    "label": "PROBLEM",
+    "start": 1982,
+    "end": 1994
+  },
+  {
+    "entity": "asthma",
+    "label": "PROBLEM",
+    "start": 1996,
+    "end": 2002
+  },
+  {
+    "entity": "cholecystectomy",
+    "label": "PROBLEM",
+    "start": 2004,
+    "end": 2019
+  },
+  {
+    "entity": "foreign body",
+    "label": "PROBLEM",
+    "start": 2031,
+    "end": 2043
+  },
+  {
+    "entity": "airway compromise",
+    "label": "PROBLEM",
+    "start": 2045,
+    "end": 2062
+  }
+]

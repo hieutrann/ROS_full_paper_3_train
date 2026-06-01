@@ -1,0 +1,38 @@
+[
+  {
+    "Full-Field Digital Mammogram (FFDM) - 1": "TEST"
+  },
+  {
+    "Bilateral Screening Mammogram Full-Field Digital Mammography (FFDM)": "TEST"
+  },
+  {
+    "Digital screening mammogram": "TEST"
+  },
+  {
+    "breast cancer": "PROBLEM"
+  },
+  {
+    "Craniocaudal and mediolateral oblique projections": "TEST"
+  },
+  {
+    "benign-appearing calcifications": "PROBLEM"
+  },
+  {
+    "mass": "PROBLEM"
+  },
+  {
+    "architecture distortion": "PROBLEM"
+  },
+  {
+    "malignant-type calcifications": "PROBLEM"
+  },
+  {
+    "bilateral screening mammogram": "TEST"
+  },
+  {
+    "screening mammogram": "TEST"
+  },
+  {
+    "mammography": "TEST"
+  }
+]

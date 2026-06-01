@@ -1,0 +1,1052 @@
+[
+  {
+    "entity": "Hypertension",
+    "label": "PROBLEM",
+    "start": 126,
+    "end": 138
+  },
+  {
+    "entity": "atrial fibrillation",
+    "label": "PROBLEM",
+    "start": 140,
+    "end": 159
+  },
+  {
+    "entity": "large cardioembolic stroke",
+    "label": "PROBLEM",
+    "start": 161,
+    "end": 187
+  },
+  {
+    "entity": "medical management",
+    "label": "TREATMENT",
+    "start": 228,
+    "end": 246
+  },
+  {
+    "entity": "Medical management",
+    "label": "TREATMENT",
+    "start": 306,
+    "end": 324
+  },
+  {
+    "entity": "special procedures",
+    "label": "TREATMENT",
+    "start": 350,
+    "end": 368
+  },
+  {
+    "entity": "a large stroke to the right brain",
+    "label": "PROBLEM",
+    "start": 539,
+    "end": 572
+  },
+  {
+    "entity": "emergent treatment",
+    "label": "TREATMENT",
+    "start": 662,
+    "end": 680
+  },
+  {
+    "entity": "CT scan of the head",
+    "label": "TEST",
+    "start": 700,
+    "end": 719
+  },
+  {
+    "entity": "protocol medication",
+    "label": "DRUG",
+    "start": 736,
+    "end": 755
+  },
+  {
+    "entity": "TPA",
+    "label": "DRUG",
+    "start": 779,
+    "end": 782
+  },
+  {
+    "entity": "an investigational study",
+    "label": "TEST",
+    "start": 793,
+    "end": 817
+  },
+  {
+    "entity": "the evaluation",
+    "label": "TEST",
+    "start": 826,
+    "end": 840
+  },
+  {
+    "entity": "atrial fibrillation",
+    "label": "PROBLEM",
+    "start": 864,
+    "end": 883
+  },
+  {
+    "entity": "hypertension",
+    "label": "PROBLEM",
+    "start": 902,
+    "end": 914
+  },
+  {
+    "entity": "labetalol",
+    "label": "DRUG",
+    "start": 937,
+    "end": 946
+  },
+  {
+    "entity": "Her heart rate",
+    "label": "TEST",
+    "start": 957,
+    "end": 971
+  },
+  {
+    "entity": "Cardizem",
+    "label": "DRUG",
+    "start": 1007,
+    "end": 1015
+  },
+  {
+    "entity": "the study drug",
+    "label": "TREATMENT",
+    "start": 1030,
+    "end": 1044
+  },
+  {
+    "entity": "another large stroke",
+    "label": "PROBLEM",
+    "start": 1098,
+    "end": 1118
+  },
+  {
+    "entity": "cardioembolic",
+    "label": "PROBLEM",
+    "start": 1208,
+    "end": 1221
+  },
+  {
+    "entity": "the study drug",
+    "label": "TREATMENT",
+    "start": 1241,
+    "end": 1255
+  },
+  {
+    "entity": "TPA",
+    "label": "DRUG",
+    "start": 1260,
+    "end": 1263
+  },
+  {
+    "entity": "comatose",
+    "label": "PROBLEM",
+    "start": 1340,
+    "end": 1348
+  },
+  {
+    "entity": "emergent intubation",
+    "label": "TREATMENT",
+    "start": 1362,
+    "end": 1381
+  },
+  {
+    "entity": "paralyzation",
+    "label": "PROBLEM",
+    "start": 1386,
+    "end": 1398
+  },
+  {
+    "entity": "Her diastolic",
+    "label": "TEST",
+    "start": 1400,
+    "end": 1413
+  },
+  {
+    "entity": "the acute second stroke",
+    "label": "PROBLEM",
+    "start": 1464,
+    "end": 1487
+  },
+  {
+    "entity": "arteriogram",
+    "label": "TEST",
+    "start": 1509,
+    "end": 1520
+  },
+  {
+    "entity": "a clot",
+    "label": "PROBLEM",
+    "start": 1525,
+    "end": 1531
+  },
+  {
+    "entity": "distal clot",
+    "label": "PROBLEM",
+    "start": 1602,
+    "end": 1613
+  },
+  {
+    "entity": "the STAT echocardiogram",
+    "label": "TEST",
+    "start": 1766,
+    "end": 1789
+  },
+  {
+    "entity": "a large clot in the heart",
+    "label": "PROBLEM",
+    "start": 1802,
+    "end": 1827
+  },
+  {
+    "entity": "a patent foramen ovale clot in the legs",
+    "label": "PROBLEM",
+    "start": 1849,
+    "end": 1888
+  },
+  {
+    "entity": "Echo",
+    "label": "TEST",
+    "start": 1924,
+    "end": 1928
+  },
+  {
+    "entity": "arteriogram",
+    "label": "TEST",
+    "start": 1992,
+    "end": 2003
+  },
+  {
+    "entity": "her lifesaving procedure",
+    "label": "TREATMENT",
+    "start": 2014,
+    "end": 2038
+  },
+  {
+    "entity": "an upcoming bladder distension surgery",
+    "label": "TREATMENT",
+    "start": 2175,
+    "end": 2213
+  },
+  {
+    "entity": "Coumadin",
+    "label": "DRUG",
+    "start": 2258,
+    "end": 2266
+  },
+  {
+    "entity": "chronic AFib",
+    "label": "PROBLEM",
+    "start": 2271,
+    "end": 2283
+  },
+  {
+    "entity": "Tremor",
+    "label": "PROBLEM",
+    "start": 2308,
+    "end": 2314
+  },
+  {
+    "entity": "early Parkinson's",
+    "label": "PROBLEM",
+    "start": 2343,
+    "end": 2360
+  },
+  {
+    "entity": "GERD",
+    "label": "PROBLEM",
+    "start": 2384,
+    "end": 2388
+  },
+  {
+    "entity": "hypertension",
+    "label": "PROBLEM",
+    "start": 2390,
+    "end": 2402
+  },
+  {
+    "entity": "arthritis",
+    "label": "PROBLEM",
+    "start": 2419,
+    "end": 2428
+  },
+  {
+    "entity": "Parkinson's",
+    "label": "PROBLEM",
+    "start": 2430,
+    "end": 2441
+  },
+  {
+    "entity": "TIA",
+    "label": "PROBLEM",
+    "start": 2443,
+    "end": 2446
+  },
+  {
+    "entity": "chronic atrial fibrillation",
+    "label": "PROBLEM",
+    "start": 2448,
+    "end": 2475
+  },
+  {
+    "entity": "Coumadin",
+    "label": "DRUG",
+    "start": 2480,
+    "end": 2488
+  },
+  {
+    "entity": "Cholecystectomy",
+    "label": "TREATMENT",
+    "start": 2525,
+    "end": 2540
+  },
+  {
+    "entity": "TAH",
+    "label": "TREATMENT",
+    "start": 2542,
+    "end": 2545
+  },
+  {
+    "entity": "gallstones",
+    "label": "PROBLEM",
+    "start": 2550,
+    "end": 2560
+  },
+  {
+    "entity": "back surgery",
+    "label": "TREATMENT",
+    "start": 2562,
+    "end": 2574
+  },
+  {
+    "entity": "thoracotomy",
+    "label": "TREATMENT",
+    "start": 2581,
+    "end": 2592
+  },
+  {
+    "entity": "MORPHINE",
+    "label": "DRUG",
+    "start": 2635,
+    "end": 2643
+  },
+  {
+    "entity": "SULFAS",
+    "label": "DRUG",
+    "start": 2645,
+    "end": 2651
+  },
+  {
+    "entity": "RASH",
+    "label": "PROBLEM",
+    "start": 2653,
+    "end": 2657
+  },
+  {
+    "entity": "PROZAC",
+    "label": "DRUG",
+    "start": 2660,
+    "end": 2666
+  },
+  {
+    "entity": "Lanoxin",
+    "label": "DRUG",
+    "start": 2689,
+    "end": 2696
+  },
+  {
+    "entity": "Inderal LA",
+    "label": "DRUG",
+    "start": 2709,
+    "end": 2719
+  },
+  {
+    "entity": "MOBIC",
+    "label": "DRUG",
+    "start": 2730,
+    "end": 2735
+  },
+  {
+    "entity": "Robaxin",
+    "label": "DRUG",
+    "start": 2747,
+    "end": 2754
+  },
+  {
+    "entity": "aspirin",
+    "label": "DRUG",
+    "start": 2764,
+    "end": 2771
+  },
+  {
+    "entity": "acyclovir",
+    "label": "DRUG",
+    "start": 2786,
+    "end": 2795
+  },
+  {
+    "entity": "potassium",
+    "label": "DRUG",
+    "start": 2816,
+    "end": 2825
+  },
+  {
+    "entity": "oxazepam",
+    "label": "DRUG",
+    "start": 2841,
+    "end": 2849
+  },
+  {
+    "entity": "aspirin",
+    "label": "DRUG",
+    "start": 2863,
+    "end": 2870
+  },
+  {
+    "entity": "ibuprofen",
+    "label": "DRUG",
+    "start": 2885,
+    "end": 2894
+  },
+  {
+    "entity": "Darvocet-N",
+    "label": "DRUG",
+    "start": 2900,
+    "end": 2910
+  },
+  {
+    "entity": "cancer",
+    "label": "PROBLEM",
+    "start": 3030,
+    "end": 3036
+  },
+  {
+    "entity": "an MI",
+    "label": "PROBLEM",
+    "start": 3064,
+    "end": 3069
+  },
+  {
+    "entity": "temperature",
+    "label": "TEST",
+    "start": 3151,
+    "end": 3162
+  },
+  {
+    "entity": "blood pressure",
+    "label": "TEST",
+    "start": 3169,
+    "end": 3183
+  },
+  {
+    "entity": "heart rate",
+    "label": "TEST",
+    "start": 3193,
+    "end": 3203
+  },
+  {
+    "entity": "respirations",
+    "label": "TEST",
+    "start": 3214,
+    "end": 3226
+  },
+  {
+    "entity": "vital signs",
+    "label": "TEST",
+    "start": 3338,
+    "end": 3349
+  },
+  {
+    "entity": "physical exam",
+    "label": "TEST",
+    "start": 3353,
+    "end": 3366
+  },
+  {
+    "entity": "white count",
+    "label": "TEST",
+    "start": 3444,
+    "end": 3455
+  },
+  {
+    "entity": "neutrophils",
+    "label": "TEST",
+    "start": 3470,
+    "end": 3481
+  },
+  {
+    "entity": "BMP",
+    "label": "TEST",
+    "start": 3483,
+    "end": 3486
+  },
+  {
+    "entity": "a blood sugar",
+    "label": "TEST",
+    "start": 3509,
+    "end": 3522
+  },
+  {
+    "entity": "hemoglobin A1c",
+    "label": "TEST",
+    "start": 3531,
+    "end": 3545
+  },
+  {
+    "entity": "TSH",
+    "label": "TEST",
+    "start": 3558,
+    "end": 3561
+  },
+  {
+    "entity": "cholesterol",
+    "label": "TEST",
+    "start": 3567,
+    "end": 3578
+  },
+  {
+    "entity": "Digoxin",
+    "label": "TEST",
+    "start": 3584,
+    "end": 3591
+  },
+  {
+    "entity": "CPK",
+    "label": "TEST",
+    "start": 3598,
+    "end": 3601
+  },
+  {
+    "entity": "ABG",
+    "label": "TEST",
+    "start": 3606,
+    "end": 3609
+  },
+  {
+    "entity": "Magnesium",
+    "label": "TEST",
+    "start": 3631,
+    "end": 3640
+  },
+  {
+    "entity": "ESR",
+    "label": "TEST",
+    "start": 3646,
+    "end": 3649
+  },
+  {
+    "entity": "coags",
+    "label": "TEST",
+    "start": 3653,
+    "end": 3658
+  },
+  {
+    "entity": "EKG",
+    "label": "TEST",
+    "start": 3667,
+    "end": 3670
+  },
+  {
+    "entity": "Chest x-ray",
+    "label": "TEST",
+    "start": 3693,
+    "end": 3704
+  },
+  {
+    "entity": "mild cardiomegaly",
+    "label": "PROBLEM",
+    "start": 3716,
+    "end": 3733
+  },
+  {
+    "entity": "atherosclerotic aorta",
+    "label": "PROBLEM",
+    "start": 3738,
+    "end": 3759
+  },
+  {
+    "entity": "Chest x-ray",
+    "label": "TEST",
+    "start": 3761,
+    "end": 3772
+  },
+  {
+    "entity": "shoulder films",
+    "label": "TEST",
+    "start": 3774,
+    "end": 3788
+  },
+  {
+    "entity": "CT scan of the head",
+    "label": "TEST",
+    "start": 3793,
+    "end": 3812
+  },
+  {
+    "entity": "Chest x-ray",
+    "label": "TEST",
+    "start": 3831,
+    "end": 3842
+  },
+  {
+    "entity": "ET tube placement",
+    "label": "TREATMENT",
+    "start": 3852,
+    "end": 3869
+  },
+  {
+    "entity": "mild cardiomegaly",
+    "label": "PROBLEM",
+    "start": 3879,
+    "end": 3896
+  },
+  {
+    "entity": "Some mild interstitial opacities",
+    "label": "PROBLEM",
+    "start": 3898,
+    "end": 3930
+  },
+  {
+    "entity": "OGD",
+    "label": "PROBLEM",
+    "start": 3947,
+    "end": 3950
+  },
+  {
+    "entity": "atherosclerosis of the aorta",
+    "label": "PROBLEM",
+    "start": 3973,
+    "end": 4001
+  },
+  {
+    "entity": "CT scan of the head",
+    "label": "TEST",
+    "start": 4003,
+    "end": 4022
+  },
+  {
+    "entity": "any active bleeding",
+    "label": "PROBLEM",
+    "start": 4037,
+    "end": 4056
+  },
+  {
+    "entity": "X-rays of the shoulders",
+    "label": "TEST",
+    "start": 4058,
+    "end": 4081
+  },
+  {
+    "entity": "Large cardioembolic stroke",
+    "label": "PROBLEM",
+    "start": 4188,
+    "end": 4214
+  },
+  {
+    "entity": "devastating effects",
+    "label": "PROBLEM",
+    "start": 4250,
+    "end": 4269
+  },
+  {
+    "entity": "stroke into the left brain",
+    "label": "PROBLEM",
+    "start": 4279,
+    "end": 4305
+  },
+  {
+    "entity": "fluctuating mental status",
+    "label": "PROBLEM",
+    "start": 4320,
+    "end": 4345
+  },
+  {
+    "entity": "multiple strokes",
+    "label": "PROBLEM",
+    "start": 4402,
+    "end": 4418
+  },
+  {
+    "entity": "a large clot burden below the heart",
+    "label": "PROBLEM",
+    "start": 4459,
+    "end": 4494
+  },
+  {
+    "entity": "patent foramen ovale",
+    "label": "PROBLEM",
+    "start": 4499,
+    "end": 4519
+  },
+  {
+    "entity": "echocardiogram",
+    "label": "TEST",
+    "start": 4585,
+    "end": 4599
+  },
+  {
+    "entity": "a STAT echo",
+    "label": "TEST",
+    "start": 4659,
+    "end": 4670
+  },
+  {
+    "entity": "a large clot burdened in the heart",
+    "label": "PROBLEM",
+    "start": 4731,
+    "end": 4765
+  },
+  {
+    "entity": "distal clot",
+    "label": "PROBLEM",
+    "start": 4773,
+    "end": 4784
+  },
+  {
+    "entity": "a PFO",
+    "label": "PROBLEM",
+    "start": 4790,
+    "end": 4795
+  },
+  {
+    "entity": "any anticoagulants",
+    "label": "TREATMENT",
+    "start": 4877,
+    "end": 4895
+  },
+  {
+    "entity": "the study drug",
+    "label": "TREATMENT",
+    "start": 4908,
+    "end": 4922
+  },
+  {
+    "entity": "the clot",
+    "label": "PROBLEM",
+    "start": 5013,
+    "end": 5021
+  },
+  {
+    "entity": "emergency retrieval device",
+    "label": "TREATMENT",
+    "start": 5027,
+    "end": 5053
+  },
+  {
+    "entity": "Hypertension",
+    "label": "PROBLEM",
+    "start": 5121,
+    "end": 5133
+  },
+  {
+    "entity": "atrial fibrillation",
+    "label": "PROBLEM",
+    "start": 5134,
+    "end": 5153
+  },
+  {
+    "entity": "a beta-blocker",
+    "label": "DRUG",
+    "start": 5225,
+    "end": 5239
+  },
+  {
+    "entity": "Parkinson's",
+    "label": "PROBLEM",
+    "start": 5244,
+    "end": 5255
+  },
+  {
+    "entity": "the beta-blockers",
+    "label": "DRUG",
+    "start": 5284,
+    "end": 5301
+  },
+  {
+    "entity": "her atrial fibrillation",
+    "label": "PROBLEM",
+    "start": 5327,
+    "end": 5350
+  },
+  {
+    "entity": "Cardizem",
+    "label": "DRUG",
+    "start": 5402,
+    "end": 5410
+  },
+  {
+    "entity": "systolic",
+    "label": "TEST",
+    "start": 5447,
+    "end": 5455
+  },
+  {
+    "entity": "diastolics",
+    "label": "TEST",
+    "start": 5484,
+    "end": 5494
+  },
+  {
+    "entity": "the atrial fibrillation",
+    "label": "PROBLEM",
+    "start": 5549,
+    "end": 5572
+  },
+  {
+    "entity": "heart block",
+    "label": "PROBLEM",
+    "start": 5628,
+    "end": 5639
+  },
+  {
+    "entity": "the Digoxin",
+    "label": "DRUG",
+    "start": 5645,
+    "end": 5656
+  },
+  {
+    "entity": "the beta-blocker",
+    "label": "DRUG",
+    "start": 5661,
+    "end": 5677
+  },
+  {
+    "entity": "a beta-blocker",
+    "label": "DRUG",
+    "start": 5762,
+    "end": 5776
+  },
+  {
+    "entity": "Digoxin",
+    "label": "DRUG",
+    "start": 5790,
+    "end": 5797
+  },
+  {
+    "entity": "the beta-blocker",
+    "label": "DRUG",
+    "start": 5822,
+    "end": 5838
+  },
+  {
+    "entity": "vasospasm protection",
+    "label": "TREATMENT",
+    "start": 5843,
+    "end": 5863
+  },
+  {
+    "entity": "calcium channel blocker",
+    "label": "DRUG",
+    "start": 5885,
+    "end": 5908
+  },
+  {
+    "entity": "Brevibloc",
+    "label": "DRUG",
+    "start": 5994,
+    "end": 6003
+  },
+  {
+    "entity": "an Esmolol",
+    "label": "DRUG",
+    "start": 6007,
+    "end": 6017
+  },
+  {
+    "entity": "the beta-blocker",
+    "label": "DRUG",
+    "start": 6070,
+    "end": 6086
+  },
+  {
+    "entity": "the hypertension",
+    "label": "PROBLEM",
+    "start": 6133,
+    "end": 6149
+  },
+  {
+    "entity": "Her Digoxin level",
+    "label": "TEST",
+    "start": 6280,
+    "end": 6297
+  },
+  {
+    "entity": "a TSH",
+    "label": "TEST",
+    "start": 6325,
+    "end": 6330
+  },
+  {
+    "entity": "the STAT echo",
+    "label": "TEST",
+    "start": 6395,
+    "end": 6408
+  },
+  {
+    "entity": "ultrasound of the leg",
+    "label": "TEST",
+    "start": 6413,
+    "end": 6434
+  },
+  {
+    "entity": "Respiratory failure",
+    "label": "PROBLEM",
+    "start": 6439,
+    "end": 6458
+  },
+  {
+    "entity": "ventilator",
+    "label": "TREATMENT",
+    "start": 6469,
+    "end": 6479
+  },
+  {
+    "entity": "the breathing machine",
+    "label": "TREATMENT",
+    "start": 6610,
+    "end": 6631
+  },
+  {
+    "entity": "her pH",
+    "label": "TEST",
+    "start": 6648,
+    "end": 6654
+  },
+  {
+    "entity": "her CO2",
+    "label": "TEST",
+    "start": 6690,
+    "end": 6697
+  },
+  {
+    "entity": "brain swelling",
+    "label": "PROBLEM",
+    "start": 6732,
+    "end": 6746
+  },
+  {
+    "entity": "a pCO2",
+    "label": "TEST",
+    "start": 6786,
+    "end": 6792
+  },
+  {
+    "entity": "a pH",
+    "label": "TEST",
+    "start": 6803,
+    "end": 6807
+  },
+  {
+    "entity": "the cardiac arrhythmia",
+    "label": "PROBLEM",
+    "start": 6828,
+    "end": 6850
+  },
+  {
+    "entity": "alkalosis",
+    "label": "PROBLEM",
+    "start": 6864,
+    "end": 6873
+  },
+  {
+    "entity": "brain swelling",
+    "label": "PROBLEM",
+    "start": 6902,
+    "end": 6916
+  },
+  {
+    "entity": "electrolytes",
+    "label": "TEST",
+    "start": 6930,
+    "end": 6942
+  },
+  {
+    "entity": "Deep vein thrombosis prophylaxis",
+    "label": "TREATMENT",
+    "start": 6958,
+    "end": 6990
+  },
+  {
+    "entity": "thigh-high TED hose",
+    "label": "TREATMENT",
+    "start": 7005,
+    "end": 7024
+  },
+  {
+    "entity": "SCDs",
+    "label": "PROBLEM",
+    "start": 7035,
+    "end": 7039
+  },
+  {
+    "entity": "DIC",
+    "label": "PROBLEM",
+    "start": 7132,
+    "end": 7135
+  },
+  {
+    "entity": "the SCDs",
+    "label": "PROBLEM",
+    "start": 7142,
+    "end": 7150
+  },
+  {
+    "entity": "CBCs",
+    "label": "TEST",
+    "start": 7181,
+    "end": 7185
+  },
+  {
+    "entity": "tube feeds",
+    "label": "TREATMENT",
+    "start": 7248,
+    "end": 7258
+  },
+  {
+    "entity": "all medication treatment",
+    "label": "TREATMENT",
+    "start": 7526,
+    "end": 7550
+  },
+  {
+    "entity": "medical management",
+    "label": "TREATMENT",
+    "start": 7741,
+    "end": 7759
+  },
+  {
+    "entity": "medical management",
+    "label": "TREATMENT",
+    "start": 7777,
+    "end": 7795
+  },
+  {
+    "entity": "chest x ray",
+    "label": "TEST",
+    "start": 7852,
+    "end": 7863
+  },
+  {
+    "entity": "ct scan",
+    "label": "TEST",
+    "start": 7917,
+    "end": 7924
+  },
+  {
+    "entity": "echocardiogram",
+    "label": "TEST",
+    "start": 7934,
+    "end": 7948
+  },
+  {
+    "entity": "fibrillation",
+    "label": "PROBLEM",
+    "start": 7950,
+    "end": 7962
+  },
+  {
+    "entity": "clot",
+    "label": "PROBLEM",
+    "start": 7971,
+    "end": 7975
+  }
+]

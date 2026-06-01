@@ -1,0 +1,83 @@
+[
+  {
+    "Diabetes Mellitus": "PROBLEM"
+  },
+  {
+    "Diabetic Neuropathy": "PROBLEM"
+  },
+  {
+    "Scalp Laceration": "PROBLEM"
+  },
+  {
+    "Elevated Alk Phos": "PROBLEM"
+  },
+  {
+    "SGGT": "TEST"
+  },
+  {
+    "Hepatic Panel": "TEST"
+  },
+  {
+    "Ace Inhibitor": "DRUG"
+  },
+  {
+    "Lantus": "DRUG"
+  },
+  {
+    "Prilosec OTC": "DRUG"
+  },
+  {
+    "NPH": "DRUG"
+  },
+  {
+    "Regular Insulin": "DRUG"
+  },
+  {
+    "Nexium": "DRUG"
+  },
+  {
+    "Viagra": "DRUG"
+  },
+  {
+    "Microalbumin": "TEST"
+  },
+  {
+    "Glucometer": "TEST"
+  },
+  {
+    "Low Dose Ace Inhibitor": "TREATMENT"
+  },
+  {
+    "Prior Authorization for Lantus": "TREATMENT"
+  },
+  {
+    "Incision and Drainage": "TREATMENT"
+  },
+  {
+    "Incision": "TREATMENT"
+  },
+  {
+    "Drainage": "TREATMENT"
+  },
+  {
+    "Scooter Accident": "PROBLEM"
+  },
+  {
+    "Headache": "PROBLEM"
+  },
+  {
+    "Dizziness": "PROBLEM"
+  },
+  {
+    "Nausea": "PROBLEM"
+  },
+  {
+    "Vomiting": "PROBLEM"
+  },
+  {
+    "Neurological": "PROBLEM"
+  },
+  {
+    "GERD Symptoms": "PROBLEM"
+  }
+]

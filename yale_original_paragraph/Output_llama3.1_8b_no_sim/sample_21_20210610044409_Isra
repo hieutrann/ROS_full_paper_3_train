@@ -1,0 +1,53 @@
+[
+  {
+    "Nausea & Vomiting": "PROBLEM"
+  },
+  {
+    "hyperemesis gravidarum": "PROBLEM"
+  },
+  {
+    "elevated ALT": "PROBLEM"
+  },
+  {
+    "slight low sodium": "PROBLEM"
+  },
+  {
+    "potassium slightly elevated": "PROBLEM"
+  },
+  {
+    "AST of 93": "TEST"
+  },
+  {
+    "total bilirubin is 1.2": "TEST"
+  },
+  {
+    "3+ ketones": "TEST"
+  },
+  {
+    "2+ protein": "TEST"
+  },
+  {
+    "1+ esterase": "TEST"
+  },
+  {
+    "rbc too numerous to count": "TEST"
+  },
+  {
+    "Phenergan": "DRUG"
+  },
+  {
+    "Zofran": "DRUG"
+  },
+  {
+    "Rocephin": "DRUG"
+  },
+  {
+    "Maalox": "DRUG"
+  },
+  {
+    "IV hydration": "TREATMENT"
+  },
+  {
+    "incision": "TREATMENT"
+  }
+]

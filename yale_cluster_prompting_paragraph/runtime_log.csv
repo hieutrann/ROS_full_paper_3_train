@@ -1,0 +1,9 @@
+model,running_time_seconds
+llama3.1:8b,{2888.81}
+gemma4:26b,{774.31}
+gemma4:31b,{3333.85}
+mistral-small:24b,{43948.86}
+llama3.1:8b,{1227.41}
+gemma4:26b,{773.76}
+gemma4:31b,{3136.6}
+mistral-small:24b,{45869.2}

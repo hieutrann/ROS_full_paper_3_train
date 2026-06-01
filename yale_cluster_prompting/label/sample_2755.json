@@ -1,0 +1,398 @@
+[
+  {
+    "entity": "Itchy Rash",
+    "label": "PROBLEM",
+    "start": 63,
+    "end": 73
+  },
+  {
+    "entity": "some itchiness to his back",
+    "label": "PROBLEM",
+    "start": 151,
+    "end": 177
+  },
+  {
+    "entity": "an itchy rash all over his torso and arms",
+    "label": "PROBLEM",
+    "start": 243,
+    "end": 284
+  },
+  {
+    "entity": "Itchy rash",
+    "label": "PROBLEM",
+    "start": 341,
+    "end": 351
+  },
+  {
+    "entity": "some itchiness to his back",
+    "label": "PROBLEM",
+    "start": 434,
+    "end": 460
+  },
+  {
+    "entity": "an itchy rash all over his torso and arms",
+    "label": "PROBLEM",
+    "start": 526,
+    "end": 567
+  },
+  {
+    "entity": "facial swelling",
+    "label": "PROBLEM",
+    "start": 572,
+    "end": 587
+  },
+  {
+    "entity": "tongue or lip swelling",
+    "label": "PROBLEM",
+    "start": 592,
+    "end": 614
+  },
+  {
+    "entity": "shortness of breath",
+    "label": "PROBLEM",
+    "start": 619,
+    "end": 638
+  },
+  {
+    "entity": "wheezing",
+    "label": "PROBLEM",
+    "start": 640,
+    "end": 648
+  },
+  {
+    "entity": "other associated symptoms",
+    "label": "PROBLEM",
+    "start": 653,
+    "end": 678
+  },
+  {
+    "entity": "medications",
+    "label": "DRUG",
+    "start": 785,
+    "end": 796
+  },
+  {
+    "entity": "feeling itchy",
+    "label": "PROBLEM",
+    "start": 935,
+    "end": 948
+  },
+  {
+    "entity": "chronic medical problems",
+    "label": "PROBLEM",
+    "start": 994,
+    "end": 1018
+  },
+  {
+    "entity": "previous back surgery",
+    "label": "TREATMENT",
+    "start": 1048,
+    "end": 1069
+  },
+  {
+    "entity": "appendectomy",
+    "label": "TREATMENT",
+    "start": 1074,
+    "end": 1086
+  },
+  {
+    "entity": "any oropharyngeal swelling",
+    "label": "PROBLEM",
+    "start": 1156,
+    "end": 1182
+  },
+  {
+    "entity": "lip or tongue swelling",
+    "label": "PROBLEM",
+    "start": 1187,
+    "end": 1209
+  },
+  {
+    "entity": "wheezing",
+    "label": "PROBLEM",
+    "start": 1214,
+    "end": 1222
+  },
+  {
+    "entity": "shortness of breath",
+    "label": "PROBLEM",
+    "start": 1226,
+    "end": 1245
+  },
+  {
+    "entity": "headache",
+    "label": "PROBLEM",
+    "start": 1250,
+    "end": 1258
+  },
+  {
+    "entity": "nausea",
+    "label": "PROBLEM",
+    "start": 1263,
+    "end": 1269
+  },
+  {
+    "entity": "itchy rash",
+    "label": "PROBLEM",
+    "start": 1277,
+    "end": 1287
+  },
+  {
+    "entity": "ALLERGIES",
+    "label": "PROBLEM",
+    "start": 1432,
+    "end": 1441
+  },
+  {
+    "entity": "TORADOL",
+    "label": "DRUG",
+    "start": 1443,
+    "end": 1450
+  },
+  {
+    "entity": "MORPHINE",
+    "label": "DRUG",
+    "start": 1452,
+    "end": 1460
+  },
+  {
+    "entity": "PENICILLIN",
+    "label": "DRUG",
+    "start": 1462,
+    "end": 1472
+  },
+  {
+    "entity": "AMPICILLIN",
+    "label": "DRUG",
+    "start": 1478,
+    "end": 1488
+  },
+  {
+    "entity": "VITAL SIGNS",
+    "label": "TEST",
+    "start": 1512,
+    "end": 1523
+  },
+  {
+    "entity": "slightly tachycardic",
+    "label": "PROBLEM",
+    "start": 1557,
+    "end": 1577
+  },
+  {
+    "entity": "blood pressure",
+    "label": "TEST",
+    "start": 1595,
+    "end": 1609
+  },
+  {
+    "entity": "respiratory rate",
+    "label": "TEST",
+    "start": 1614,
+    "end": 1630
+  },
+  {
+    "entity": "distress",
+    "label": "PROBLEM",
+    "start": 1662,
+    "end": 1670
+  },
+  {
+    "entity": "Lips and tongue",
+    "label": "TEST",
+    "start": 1768,
+    "end": 1783
+  },
+  {
+    "entity": "stridor",
+    "label": "PROBLEM",
+    "start": 1875,
+    "end": 1882
+  },
+  {
+    "entity": "breath sounds",
+    "label": "TEST",
+    "start": 1912,
+    "end": 1925
+  },
+  {
+    "entity": "wheezing",
+    "label": "PROBLEM",
+    "start": 1953,
+    "end": 1961
+  },
+  {
+    "entity": "murmur",
+    "label": "PROBLEM",
+    "start": 2018,
+    "end": 2024
+  },
+  {
+    "entity": "Slight tachycardia",
+    "label": "PROBLEM",
+    "start": 2026,
+    "end": 2044
+  },
+  {
+    "entity": "a confluence erythematous, blanching rash on the torso",
+    "label": "PROBLEM",
+    "start": 2090,
+    "end": 2144
+  },
+  {
+    "entity": "a blotchy papular, macular rash on the upper arms.",
+    "label": "PROBLEM",
+    "start": 2164,
+    "end": 2214
+  },
+  {
+    "entity": "the exam",
+    "label": "TEST",
+    "start": 2267,
+    "end": 2275
+  },
+  {
+    "entity": "epinephrine",
+    "label": "DRUG",
+    "start": 2333,
+    "end": 2344
+  },
+  {
+    "entity": "Benadryl",
+    "label": "DRUG",
+    "start": 2395,
+    "end": 2403
+  },
+  {
+    "entity": "itching",
+    "label": "PROBLEM",
+    "start": 2462,
+    "end": 2469
+  },
+  {
+    "entity": "The rash",
+    "label": "PROBLEM",
+    "start": 2494,
+    "end": 2502
+  },
+  {
+    "entity": "ACUTE ALLERGIC REACTION",
+    "label": "PROBLEM",
+    "start": 2584,
+    "end": 2607
+  },
+  {
+    "entity": "URTICARIA",
+    "label": "PROBLEM",
+    "start": 2613,
+    "end": 2622
+  },
+  {
+    "entity": "PRURITUS",
+    "label": "PROBLEM",
+    "start": 2627,
+    "end": 2635
+  },
+  {
+    "entity": "allergic reaction",
+    "label": "PROBLEM",
+    "start": 2704,
+    "end": 2721
+  },
+  {
+    "entity": "some antihistamine",
+    "label": "DRUG",
+    "start": 2965,
+    "end": 2983
+  },
+  {
+    "entity": "Benadryl",
+    "label": "DRUG",
+    "start": 3030,
+    "end": 3038
+  },
+  {
+    "entity": "the epinephrine",
+    "label": "DRUG",
+    "start": 3043,
+    "end": 3058
+  },
+  {
+    "entity": "any respiratory complaints",
+    "label": "PROBLEM",
+    "start": 3113,
+    "end": 3139
+  },
+  {
+    "entity": "shortness of breath",
+    "label": "PROBLEM",
+    "start": 3141,
+    "end": 3160
+  },
+  {
+    "entity": "wheezing",
+    "label": "PROBLEM",
+    "start": 3162,
+    "end": 3170
+  },
+  {
+    "entity": "tongue or lip swelling",
+    "label": "PROBLEM",
+    "start": 3175,
+    "end": 3197
+  },
+  {
+    "entity": "evaluation",
+    "label": "TEST",
+    "start": 3229,
+    "end": 3239
+  },
+  {
+    "entity": "urticaria",
+    "label": "PROBLEM",
+    "start": 3307,
+    "end": 3316
+  },
+  {
+    "entity": "pruritus",
+    "label": "PROBLEM",
+    "start": 3318,
+    "end": 3326
+  },
+  {
+    "entity": "lip swelling",
+    "label": "PROBLEM",
+    "start": 3328,
+    "end": 3340
+  },
+  {
+    "entity": "allergic reaction",
+    "label": "PROBLEM",
+    "start": 3342,
+    "end": 3359
+  },
+  {
+    "entity": "itchy rash",
+    "label": "PROBLEM",
+    "start": 3361,
+    "end": 3371
+  },
+  {
+    "entity": "swelling",
+    "label": "PROBLEM",
+    "start": 3380,
+    "end": 3388
+  },
+  {
+    "entity": "itchy",
+    "label": "PROBLEM",
+    "start": 3390,
+    "end": 3395
+  },
+  {
+    "entity": "rash",
+    "label": "PROBLEM",
+    "start": 3397,
+    "end": 3401
+  }
+]

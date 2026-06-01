@@ -1,0 +1,362 @@
+[
+  {
+    "entity": "Congestion",
+    "label": "PROBLEM",
+    "start": 63,
+    "end": 73
+  },
+  {
+    "entity": "Cough",
+    "label": "PROBLEM",
+    "start": 76,
+    "end": 81
+  },
+  {
+    "entity": "cold",
+    "label": "PROBLEM",
+    "start": 135,
+    "end": 139
+  },
+  {
+    "entity": "cough",
+    "label": "PROBLEM",
+    "start": 141,
+    "end": 146
+  },
+  {
+    "entity": "runny nose",
+    "label": "PROBLEM",
+    "start": 152,
+    "end": 162
+  },
+  {
+    "entity": "fever",
+    "label": "PROBLEM",
+    "start": 197,
+    "end": 202
+  },
+  {
+    "entity": "cough",
+    "label": "PROBLEM",
+    "start": 327,
+    "end": 332
+  },
+  {
+    "entity": "cold",
+    "label": "PROBLEM",
+    "start": 439,
+    "end": 443
+  },
+  {
+    "entity": "cough",
+    "label": "PROBLEM",
+    "start": 445,
+    "end": 450
+  },
+  {
+    "entity": "runny nose",
+    "label": "PROBLEM",
+    "start": 456,
+    "end": 466
+  },
+  {
+    "entity": "fever",
+    "label": "PROBLEM",
+    "start": 501,
+    "end": 506
+  },
+  {
+    "entity": "difficulty breathing",
+    "label": "PROBLEM",
+    "start": 572,
+    "end": 592
+  },
+  {
+    "entity": "her cough",
+    "label": "PROBLEM",
+    "start": 597,
+    "end": 606
+  },
+  {
+    "entity": "physical exam",
+    "label": "TEST",
+    "start": 653,
+    "end": 666
+  },
+  {
+    "entity": "red",
+    "label": "PROBLEM",
+    "start": 696,
+    "end": 699
+  },
+  {
+    "entity": "fairly congested",
+    "label": "PROBLEM",
+    "start": 727,
+    "end": 743
+  },
+  {
+    "entity": "Amoxil",
+    "label": "DRUG",
+    "start": 793,
+    "end": 799
+  },
+  {
+    "entity": "Aldex",
+    "label": "DRUG",
+    "start": 804,
+    "end": 809
+  },
+  {
+    "entity": "much worse",
+    "label": "PROBLEM",
+    "start": 915,
+    "end": 925
+  },
+  {
+    "entity": "difficulty breathing",
+    "label": "PROBLEM",
+    "start": 952,
+    "end": 972
+  },
+  {
+    "entity": "much more congested",
+    "label": "PROBLEM",
+    "start": 982,
+    "end": 1001
+  },
+  {
+    "entity": "a temperature",
+    "label": "TEST",
+    "start": 1070,
+    "end": 1083
+  },
+  {
+    "entity": "trouble sleeping",
+    "label": "PROBLEM",
+    "start": 1121,
+    "end": 1137
+  },
+  {
+    "entity": "congestion",
+    "label": "PROBLEM",
+    "start": 1151,
+    "end": 1161
+  },
+  {
+    "entity": "known drug allergies",
+    "label": "PROBLEM",
+    "start": 1185,
+    "end": 1205
+  },
+  {
+    "entity": "Amoxil",
+    "label": "DRUG",
+    "start": 1236,
+    "end": 1242
+  },
+  {
+    "entity": "Aldex",
+    "label": "DRUG",
+    "start": 1247,
+    "end": 1252
+  },
+  {
+    "entity": "complications",
+    "label": "PROBLEM",
+    "start": 1476,
+    "end": 1489
+  },
+  {
+    "entity": "her hearing screen",
+    "label": "TEST",
+    "start": 1513,
+    "end": 1531
+  },
+  {
+    "entity": "Her respiratory rate",
+    "label": "TEST",
+    "start": 1675,
+    "end": 1695
+  },
+  {
+    "entity": "very congested",
+    "label": "PROBLEM",
+    "start": 1741,
+    "end": 1755
+  },
+  {
+    "entity": "miserable",
+    "label": "PROBLEM",
+    "start": 1771,
+    "end": 1780
+  },
+  {
+    "entity": "retractions",
+    "label": "PROBLEM",
+    "start": 1793,
+    "end": 1804
+  },
+  {
+    "entity": "red",
+    "label": "PROBLEM",
+    "start": 1849,
+    "end": 1852
+  },
+  {
+    "entity": "irritated",
+    "label": "PROBLEM",
+    "start": 1857,
+    "end": 1866
+  },
+  {
+    "entity": "Her nasal discharge",
+    "label": "PROBLEM",
+    "start": 1889,
+    "end": 1908
+  },
+  {
+    "entity": "tachycardic",
+    "label": "PROBLEM",
+    "start": 2063,
+    "end": 2074
+  },
+  {
+    "entity": "murmur",
+    "label": "PROBLEM",
+    "start": 2083,
+    "end": 2089
+  },
+  {
+    "entity": "diffuse expiratory wheezing",
+    "label": "PROBLEM",
+    "start": 2107,
+    "end": 2134
+  },
+  {
+    "entity": "clubbing",
+    "label": "PROBLEM",
+    "start": 2203,
+    "end": 2211
+  },
+  {
+    "entity": "cyanosis",
+    "label": "PROBLEM",
+    "start": 2213,
+    "end": 2221
+  },
+  {
+    "entity": "edema",
+    "label": "PROBLEM",
+    "start": 2225,
+    "end": 2230
+  },
+  {
+    "entity": "Her chem panel",
+    "label": "TEST",
+    "start": 2249,
+    "end": 2263
+  },
+  {
+    "entity": "RSV screen",
+    "label": "TEST",
+    "start": 2276,
+    "end": 2286
+  },
+  {
+    "entity": "Chest x-ray",
+    "label": "TEST",
+    "start": 2300,
+    "end": 2311
+  },
+  {
+    "entity": "CBC",
+    "label": "TEST",
+    "start": 2316,
+    "end": 2319
+  },
+  {
+    "entity": "RSV bronchiolitis",
+    "label": "PROBLEM",
+    "start": 2364,
+    "end": 2381
+  },
+  {
+    "entity": "otitis media",
+    "label": "PROBLEM",
+    "start": 2387,
+    "end": 2399
+  },
+  {
+    "entity": "Orapred",
+    "label": "DRUG",
+    "start": 2416,
+    "end": 2423
+  },
+  {
+    "entity": "Rocephin",
+    "label": "DRUG",
+    "start": 2428,
+    "end": 2436
+  },
+  {
+    "entity": "nebulizer treatments",
+    "label": "TREATMENT",
+    "start": 2438,
+    "end": 2458
+  },
+  {
+    "entity": "oxygen",
+    "label": "DRUG",
+    "start": 2463,
+    "end": 2469
+  },
+  {
+    "entity": "rsv",
+    "label": "PROBLEM",
+    "start": 2509,
+    "end": 2512
+  },
+  {
+    "entity": "bronchiolitis",
+    "label": "PROBLEM",
+    "start": 2514,
+    "end": 2527
+  },
+  {
+    "entity": "otitis media",
+    "label": "PROBLEM",
+    "start": 2529,
+    "end": 2541
+  },
+  {
+    "entity": "runny nose",
+    "label": "PROBLEM",
+    "start": 2543,
+    "end": 2553
+  },
+  {
+    "entity": "difficulty breathing",
+    "label": "PROBLEM",
+    "start": 2555,
+    "end": 2575
+  },
+  {
+    "entity": "congestion",
+    "label": "PROBLEM",
+    "start": 2583,
+    "end": 2593
+  },
+  {
+    "entity": "congested",
+    "label": "PROBLEM",
+    "start": 2603,
+    "end": 2612
+  },
+  {
+    "entity": "cough",
+    "label": "PROBLEM",
+    "start": 2614,
+    "end": 2619
+  }
+]

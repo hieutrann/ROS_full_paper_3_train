@@ -1,0 +1,368 @@
+[
+  {
+    "entity": "consciousness",
+    "label": "PROBLEM",
+    "start": 168,
+    "end": 181
+  },
+  {
+    "entity": "consciousness",
+    "label": "PROBLEM",
+    "start": 351,
+    "end": 364
+  },
+  {
+    "entity": "status",
+    "label": "PROBLEM",
+    "start": 443,
+    "end": 449
+  },
+  {
+    "entity": "injuries of the face",
+    "label": "PROBLEM",
+    "start": 547,
+    "end": 567
+  },
+  {
+    "entity": "elderly abuse",
+    "label": "PROBLEM",
+    "start": 585,
+    "end": 598
+  },
+  {
+    "entity": "consciousness",
+    "label": "PROBLEM",
+    "start": 709,
+    "end": 722
+  },
+  {
+    "entity": "lacerations on the face",
+    "label": "PROBLEM",
+    "start": 814,
+    "end": 837
+  },
+  {
+    "entity": "Xanax",
+    "label": "DRUG",
+    "start": 910,
+    "end": 915
+  },
+  {
+    "entity": "Xanax",
+    "label": "DRUG",
+    "start": 940,
+    "end": 945
+  },
+  {
+    "entity": "mental status",
+    "label": "PROBLEM",
+    "start": 984,
+    "end": 997
+  },
+  {
+    "entity": "Sinemet",
+    "label": "DRUG",
+    "start": 1093,
+    "end": 1100
+  },
+  {
+    "entity": "his other home medications",
+    "label": "TREATMENT",
+    "start": 1105,
+    "end": 1131
+  },
+  {
+    "entity": "Parkinson disease",
+    "label": "TREATMENT",
+    "start": 1174,
+    "end": 1191
+  },
+  {
+    "entity": "MEDICATIONS",
+    "label": "DRUG",
+    "start": 1193,
+    "end": 1204
+  },
+  {
+    "entity": "Requip",
+    "label": "DRUG",
+    "start": 1206,
+    "end": 1212
+  },
+  {
+    "entity": "Neurontin",
+    "label": "DRUG",
+    "start": 1214,
+    "end": 1223
+  },
+  {
+    "entity": "Sinemet",
+    "label": "DRUG",
+    "start": 1225,
+    "end": 1232
+  },
+  {
+    "entity": "Ambien",
+    "label": "DRUG",
+    "start": 1234,
+    "end": 1240
+  },
+  {
+    "entity": "Xanax",
+    "label": "DRUG",
+    "start": 1246,
+    "end": 1251
+  },
+  {
+    "entity": "ALLERGIES",
+    "label": "PROBLEM",
+    "start": 1253,
+    "end": 1262
+  },
+  {
+    "entity": "drug allergies",
+    "label": "PROBLEM",
+    "start": 1273,
+    "end": 1287
+  },
+  {
+    "entity": "cachectic",
+    "label": "PROBLEM",
+    "start": 1384,
+    "end": 1393
+  },
+  {
+    "entity": "dehydrated",
+    "label": "PROBLEM",
+    "start": 1398,
+    "end": 1408
+  },
+  {
+    "entity": "lethargic",
+    "label": "PROBLEM",
+    "start": 1425,
+    "end": 1434
+  },
+  {
+    "entity": "lacerations on the face",
+    "label": "PROBLEM",
+    "start": 1559,
+    "end": 1582
+  },
+  {
+    "entity": "a lip laceration on his upper lip",
+    "label": "PROBLEM",
+    "start": 1673,
+    "end": 1706
+  },
+  {
+    "entity": "dry",
+    "label": "PROBLEM",
+    "start": 1793,
+    "end": 1796
+  },
+  {
+    "entity": "thyromegaly",
+    "label": "PROBLEM",
+    "start": 1815,
+    "end": 1826
+  },
+  {
+    "entity": "lymphadenopathy",
+    "label": "PROBLEM",
+    "start": 1831,
+    "end": 1846
+  },
+  {
+    "entity": "S1",
+    "label": "TEST",
+    "start": 1855,
+    "end": 1857
+  },
+  {
+    "entity": "S2",
+    "label": "TEST",
+    "start": 1859,
+    "end": 1861
+  },
+  {
+    "entity": "murmurs",
+    "label": "PROBLEM",
+    "start": 1872,
+    "end": 1879
+  },
+  {
+    "entity": "edema",
+    "label": "PROBLEM",
+    "start": 1988,
+    "end": 1993
+  },
+  {
+    "entity": "An EKG",
+    "label": "TEST",
+    "start": 2057,
+    "end": 2063
+  },
+  {
+    "entity": "a drug screen",
+    "label": "TEST",
+    "start": 2153,
+    "end": 2166
+  },
+  {
+    "entity": "His UA",
+    "label": "TEST",
+    "start": 2168,
+    "end": 2174
+  },
+  {
+    "entity": "WBCs",
+    "label": "TEST",
+    "start": 2185,
+    "end": 2189
+  },
+  {
+    "entity": "some RBCs",
+    "label": "TEST",
+    "start": 2194,
+    "end": 2203
+  },
+  {
+    "entity": "Specific gravity",
+    "label": "TEST",
+    "start": 2205,
+    "end": 2221
+  },
+  {
+    "entity": "A comprehensive panel",
+    "label": "TEST",
+    "start": 2255,
+    "end": 2276
+  },
+  {
+    "entity": "a potassium",
+    "label": "TEST",
+    "start": 2301,
+    "end": 2312
+  },
+  {
+    "entity": "A CBC",
+    "label": "TEST",
+    "start": 2321,
+    "end": 2326
+  },
+  {
+    "entity": "the white count",
+    "label": "TEST",
+    "start": 2362,
+    "end": 2377
+  },
+  {
+    "entity": "neutrophils",
+    "label": "TEST",
+    "start": 2390,
+    "end": 2401
+  },
+  {
+    "entity": "fall",
+    "label": "PROBLEM",
+    "start": 2429,
+    "end": 2433
+  },
+  {
+    "entity": "mental status",
+    "label": "PROBLEM",
+    "start": 2446,
+    "end": 2459
+  },
+  {
+    "entity": "Parkinson",
+    "label": "PROBLEM",
+    "start": 2486,
+    "end": 2495
+  },
+  {
+    "entity": "Dehydration",
+    "label": "PROBLEM",
+    "start": 2500,
+    "end": 2511
+  },
+  {
+    "entity": "poor p.o. intake",
+    "label": "PROBLEM",
+    "start": 2513,
+    "end": 2529
+  },
+  {
+    "entity": "elderly abuse",
+    "label": "PROBLEM",
+    "start": 2542,
+    "end": 2555
+  },
+  {
+    "entity": "IV fluids",
+    "label": "TREATMENT",
+    "start": 2636,
+    "end": 2645
+  },
+  {
+    "entity": "Sinemet",
+    "label": "DRUG",
+    "start": 2667,
+    "end": 2674
+  },
+  {
+    "entity": "level of consciousness",
+    "label": "TEST",
+    "start": 2704,
+    "end": 2726
+  },
+  {
+    "entity": "parkinson disease",
+    "label": "PROBLEM",
+    "start": 2728,
+    "end": 2745
+  },
+  {
+    "entity": "mental status",
+    "label": "PROBLEM",
+    "start": 2755,
+    "end": 2768
+  },
+  {
+    "entity": "dehydration",
+    "label": "PROBLEM",
+    "start": 2770,
+    "end": 2781
+  },
+  {
+    "entity": "elderly abuse",
+    "label": "PROBLEM",
+    "start": 2783,
+    "end": 2796
+  },
+  {
+    "entity": "consciousness",
+    "label": "PROBLEM",
+    "start": 2817,
+    "end": 2830
+  },
+  {
+    "entity": "parkinson",
+    "label": "PROBLEM",
+    "start": 2837,
+    "end": 2846
+  },
+  {
+    "entity": "xanax",
+    "label": "DRUG",
+    "start": 2863,
+    "end": 2868
+  },
+  {
+    "entity": "sinemet",
+    "label": "DRUG",
+    "start": 2870,
+    "end": 2877
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "Crohn disease": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "cellulitis": "PROBLEM"
+  },
+  {
+    "venous ulcers": "PROBLEM"
+  },
+  {
+    "stasis ulcer": "PROBLEM"
+  },
+  {
+    "fevers": "PROBLEM"
+  },
+  {
+    "Primaxin": "DRUG"
+  },
+  {
+    "daptomycin": "DRUG"
+  },
+  {
+    "clonidine": "DRUG"
+  },
+  {
+    "furosemide": "DRUG"
+  },
+  {
+    "potassium chloride": "DRUG"
+  },
+  {
+    "lisinopril": "DRUG"
+  },
+  {
+    "metoprolol": "DRUG"
+  },
+  {
+    "ranitidine": "DRUG"
+  },
+  {
+    "Colace": "DRUG"
+  },
+  {
+    "amlodipine": "DRUG"
+  },
+  {
+    "zinc sulfate": "DRUG"
+  },
+  {
+    "Lortab": "DRUG"
+  },
+  {
+    "multivitamins with minerals": "DRUG"
+  },
+  {
+    "chest x-ray": "TEST"
+  },
+  {
+    "MRI": "TEST"
+  },
+  {
+    "wound cultures": "TEST"
+  },
+  {
+    "blood cultures": "TEST"
+  },
+  {
+    "incision and drainage": "TREATMENT"
+  },
+  {
+    "vascular surgery": "TREATMENT"
+  }
+]

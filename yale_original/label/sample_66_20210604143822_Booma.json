@@ -1,0 +1,464 @@
+[
+  {
+    "entity": "an extensive workup",
+    "label": "TEST",
+    "start": 121,
+    "end": 140
+  },
+  {
+    "entity": "peritoneal carcinomatosis",
+    "label": "PROBLEM",
+    "start": 145,
+    "end": 170
+  },
+  {
+    "entity": "Peritoneal carcinomatosis",
+    "label": "PROBLEM",
+    "start": 318,
+    "end": 343
+  },
+  {
+    "entity": "Peritoneal carcinomatosis",
+    "label": "PROBLEM",
+    "start": 391,
+    "end": 416
+  },
+  {
+    "entity": "Diarrhea",
+    "label": "PROBLEM",
+    "start": 464,
+    "end": 472
+  },
+  {
+    "entity": "Cystoscopy",
+    "label": "TEST",
+    "start": 641,
+    "end": 651
+  },
+  {
+    "entity": "bilaterally retrograde pyelograms",
+    "label": "TEST",
+    "start": 653,
+    "end": 686
+  },
+  {
+    "entity": "insertion",
+    "label": "TREATMENT",
+    "start": 688,
+    "end": 697
+  },
+  {
+    "entity": "bilateral externalized ureteral stents",
+    "label": "TREATMENT",
+    "start": 701,
+    "end": 739
+  },
+  {
+    "entity": "Exploratory laparotomy",
+    "label": "TREATMENT",
+    "start": 744,
+    "end": 766
+  },
+  {
+    "entity": "right hemicolectomy",
+    "label": "TREATMENT",
+    "start": 768,
+    "end": 787
+  },
+  {
+    "entity": "cholecystectomy",
+    "label": "TREATMENT",
+    "start": 789,
+    "end": 804
+  },
+  {
+    "entity": "splenectomy",
+    "label": "TREATMENT",
+    "start": 806,
+    "end": 817
+  },
+  {
+    "entity": "omentectomy",
+    "label": "TREATMENT",
+    "start": 819,
+    "end": 830
+  },
+  {
+    "entity": "IPHC",
+    "label": "TREATMENT",
+    "start": 832,
+    "end": 836
+  },
+  {
+    "entity": "mitomycin-C",
+    "label": "DRUG",
+    "start": 842,
+    "end": 853
+  },
+  {
+    "entity": "an extensive workup",
+    "label": "TEST",
+    "start": 971,
+    "end": 990
+  },
+  {
+    "entity": "peritoneal carcinomatosis",
+    "label": "PROBLEM",
+    "start": 995,
+    "end": 1020
+  },
+  {
+    "entity": "a routine preoperative evaluation",
+    "label": "TEST",
+    "start": 1123,
+    "end": 1156
+  },
+  {
+    "entity": "baseline labs",
+    "label": "TEST",
+    "start": 1167,
+    "end": 1180
+  },
+  {
+    "entity": "bowel prep",
+    "label": "TREATMENT",
+    "start": 1182,
+    "end": 1192
+  },
+  {
+    "entity": "ureteral stent placement",
+    "label": "TREATMENT",
+    "start": 1214,
+    "end": 1238
+  },
+  {
+    "entity": "a cystoscopy",
+    "label": "TEST",
+    "start": 1333,
+    "end": 1345
+  },
+  {
+    "entity": "bilateral ureteral stent placement",
+    "label": "TREATMENT",
+    "start": 1351,
+    "end": 1385
+  },
+  {
+    "entity": "an exploratory laparotomy",
+    "label": "TREATMENT",
+    "start": 1405,
+    "end": 1430
+  },
+  {
+    "entity": "right hemicolectomy",
+    "label": "TREATMENT",
+    "start": 1432,
+    "end": 1451
+  },
+  {
+    "entity": "cholecystectomy",
+    "label": "TREATMENT",
+    "start": 1453,
+    "end": 1468
+  },
+  {
+    "entity": "splenectomy",
+    "label": "TREATMENT",
+    "start": 1470,
+    "end": 1481
+  },
+  {
+    "entity": "omentectomy",
+    "label": "TREATMENT",
+    "start": 1483,
+    "end": 1494
+  },
+  {
+    "entity": "IPHC",
+    "label": "TREATMENT",
+    "start": 1500,
+    "end": 1504
+  },
+  {
+    "entity": "mitomycin-C",
+    "label": "DRUG",
+    "start": 1510,
+    "end": 1521
+  },
+  {
+    "entity": "complications",
+    "label": "PROBLEM",
+    "start": 1549,
+    "end": 1562
+  },
+  {
+    "entity": "persistent tachycardia",
+    "label": "PROBLEM",
+    "start": 1640,
+    "end": 1662
+  },
+  {
+    "entity": "extubation",
+    "label": "TREATMENT",
+    "start": 1669,
+    "end": 1679
+  },
+  {
+    "entity": "His pain",
+    "label": "PROBLEM",
+    "start": 1940,
+    "end": 1948
+  },
+  {
+    "entity": "a PCA pump",
+    "label": "TREATMENT",
+    "start": 2017,
+    "end": 2027
+  },
+  {
+    "entity": "pain medicines",
+    "label": "DRUG",
+    "start": 2092,
+    "end": 2106
+  },
+  {
+    "entity": "some mild diarrhea",
+    "label": "PROBLEM",
+    "start": 2289,
+    "end": 2307
+  },
+  {
+    "entity": "his right hemicolectomy",
+    "label": "TREATMENT",
+    "start": 2375,
+    "end": 2398
+  },
+  {
+    "entity": "A C. diff toxin",
+    "label": "TEST",
+    "start": 2400,
+    "end": 2415
+  },
+  {
+    "entity": "Imodium",
+    "label": "DRUG",
+    "start": 2470,
+    "end": 2477
+  },
+  {
+    "entity": "his diarrhea",
+    "label": "PROBLEM",
+    "start": 2488,
+    "end": 2500
+  },
+  {
+    "entity": "His post-splenectomy vaccines",
+    "label": "DRUG",
+    "start": 2502,
+    "end": 2531
+  },
+  {
+    "entity": "pneumococcal, HiB, and meningococcal vaccines",
+    "label": "DRUG",
+    "start": 2542,
+    "end": 2587
+  },
+  {
+    "entity": "complaints",
+    "label": "PROBLEM",
+    "start": 2714,
+    "end": 2724
+  },
+  {
+    "entity": "his vital signs",
+    "label": "TEST",
+    "start": 2782,
+    "end": 2797
+  },
+  {
+    "entity": "Pertinent physical exam findings",
+    "label": "TEST",
+    "start": 2811,
+    "end": 2843
+  },
+  {
+    "entity": "bowel sounds",
+    "label": "TEST",
+    "start": 2911,
+    "end": 2923
+  },
+  {
+    "entity": "His midline incision",
+    "label": "TREATMENT",
+    "start": 2944,
+    "end": 2964
+  },
+  {
+    "entity": "staples",
+    "label": "TREATMENT",
+    "start": 2995,
+    "end": 3002
+  },
+  {
+    "entity": "his staples",
+    "label": "TREATMENT",
+    "start": 3066,
+    "end": 3077
+  },
+  {
+    "entity": "Multivitamins",
+    "label": "DRUG",
+    "start": 3249,
+    "end": 3262
+  },
+  {
+    "entity": "Lovenox",
+    "label": "DRUG",
+    "start": 3273,
+    "end": 3280
+  },
+  {
+    "entity": "Vicodin",
+    "label": "DRUG",
+    "start": 3355,
+    "end": 3362
+  },
+  {
+    "entity": "pain",
+    "label": "PROBLEM",
+    "start": 3432,
+    "end": 3436
+  },
+  {
+    "entity": "Phenergan",
+    "label": "DRUG",
+    "start": 3441,
+    "end": 3450
+  },
+  {
+    "entity": "nausea",
+    "label": "PROBLEM",
+    "start": 3520,
+    "end": 3526
+  },
+  {
+    "entity": "Imodium A-D",
+    "label": "DRUG",
+    "start": 3531,
+    "end": 3542
+  },
+  {
+    "entity": "diarrhea",
+    "label": "PROBLEM",
+    "start": 3597,
+    "end": 3605
+  },
+  {
+    "entity": "fevers greater than 101.4",
+    "label": "PROBLEM",
+    "start": 3782,
+    "end": 3807
+  },
+  {
+    "entity": "chills",
+    "label": "PROBLEM",
+    "start": 3809,
+    "end": 3815
+  },
+  {
+    "entity": "nausea",
+    "label": "PROBLEM",
+    "start": 3817,
+    "end": 3823
+  },
+  {
+    "entity": "vomitting",
+    "label": "PROBLEM",
+    "start": 3827,
+    "end": 3836
+  },
+  {
+    "entity": "continuing diarrhea",
+    "label": "PROBLEM",
+    "start": 3838,
+    "end": 3857
+  },
+  {
+    "entity": "redness",
+    "label": "PROBLEM",
+    "start": 3859,
+    "end": 3866
+  },
+  {
+    "entity": "drainage",
+    "label": "PROBLEM",
+    "start": 3868,
+    "end": 3876
+  },
+  {
+    "entity": "warmth",
+    "label": "PROBLEM",
+    "start": 3881,
+    "end": 3887
+  },
+  {
+    "entity": "his incision site",
+    "label": "TREATMENT",
+    "start": 3895,
+    "end": 3912
+  },
+  {
+    "entity": "his staples",
+    "label": "TREATMENT",
+    "start": 3979,
+    "end": 3990
+  },
+  {
+    "entity": "carcinomatosis",
+    "label": "PROBLEM",
+    "start": 4138,
+    "end": 4152
+  },
+  {
+    "entity": "stent placement",
+    "label": "TREATMENT",
+    "start": 4196,
+    "end": 4211
+  },
+  {
+    "entity": "ureteral stents",
+    "label": "TREATMENT",
+    "start": 4232,
+    "end": 4247
+  },
+  {
+    "entity": "peritoneal carcinomatosis",
+    "label": "PROBLEM",
+    "start": 4249,
+    "end": 4274
+  },
+  {
+    "entity": "insertion",
+    "label": "TREATMENT",
+    "start": 4318,
+    "end": 4327
+  },
+  {
+    "entity": "hemicolectomy",
+    "label": "TREATMENT",
+    "start": 4329,
+    "end": 4342
+  },
+  {
+    "entity": "splenectomy",
+    "label": "TREATMENT",
+    "start": 4344,
+    "end": 4355
+  },
+  {
+    "entity": "carcinomatosis",
+    "label": "PROBLEM",
+    "start": 4399,
+    "end": 4413
+  }
+]

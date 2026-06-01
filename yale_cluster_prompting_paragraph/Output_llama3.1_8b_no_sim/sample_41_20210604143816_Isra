@@ -1,0 +1,53 @@
+[
+  {
+    "severe nausea": "PROBLEM"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "incarcerated umbilical hernia": "PROBLEM"
+  },
+  {
+    "hemorrhoidectomy": "TREATMENT"
+  },
+  {
+    "Ziac": "DRUG"
+  },
+  {
+    "Remeron": "DRUG"
+  },
+  {
+    "EKG": "TEST"
+  },
+  {
+    "chest x-ray": "TEST"
+  },
+  {
+    "abdominal x-rays": "TEST"
+  },
+  {
+    "electrolytes": "TEST"
+  },
+  {
+    "creatinine": "TEST"
+  },
+  {
+    "white count": "TEST"
+  },
+  {
+    "hematocrit": "TEST"
+  },
+  {
+    "platelet count": "TEST"
+  },
+  {
+    "sinus rhythm": "TEST"
+  },
+  {
+    "prolonged QT": "TEST"
+  },
+  {
+    "umbilical hernia repair": "TREATMENT"
+  }
+]

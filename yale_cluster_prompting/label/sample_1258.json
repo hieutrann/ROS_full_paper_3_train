@@ -1,0 +1,908 @@
+[
+  {
+    "entity": "Motor Vehicle Accident",
+    "label": "PROBLEM",
+    "start": 64,
+    "end": 86
+  },
+  {
+    "entity": "Multiple contusions",
+    "label": "PROBLEM",
+    "start": 101,
+    "end": 120
+  },
+  {
+    "entity": "abdominal pain",
+    "label": "PROBLEM",
+    "start": 125,
+    "end": 139
+  },
+  {
+    "entity": "motor vehicle collision",
+    "label": "PROBLEM",
+    "start": 153,
+    "end": 176
+  },
+  {
+    "entity": "Motor vehicle accident",
+    "label": "PROBLEM",
+    "start": 234,
+    "end": 256
+  },
+  {
+    "entity": "a motor vehicle collision",
+    "label": "PROBLEM",
+    "start": 435,
+    "end": 460
+  },
+  {
+    "entity": "some mild pain on the left aspect of her neck",
+    "label": "PROBLEM",
+    "start": 1006,
+    "end": 1051
+  },
+  {
+    "entity": "passed out",
+    "label": "PROBLEM",
+    "start": 1104,
+    "end": 1114
+  },
+  {
+    "entity": "the accident",
+    "label": "PROBLEM",
+    "start": 1129,
+    "end": 1141
+  },
+  {
+    "entity": "some pain low in her abdomen",
+    "label": "PROBLEM",
+    "start": 1181,
+    "end": 1209
+  },
+  {
+    "entity": "any pain in her knees",
+    "label": "PROBLEM",
+    "start": 1313,
+    "end": 1334
+  },
+  {
+    "entity": "any pain in her shoulders",
+    "label": "PROBLEM",
+    "start": 1365,
+    "end": 1390
+  },
+  {
+    "entity": "somewhat painful",
+    "label": "PROBLEM",
+    "start": 1448,
+    "end": 1464
+  },
+  {
+    "entity": "any chest pain",
+    "label": "PROBLEM",
+    "start": 1649,
+    "end": 1663
+  },
+  {
+    "entity": "difficulty breathing",
+    "label": "PROBLEM",
+    "start": 1667,
+    "end": 1687
+  },
+  {
+    "entity": "any open lacerations",
+    "label": "PROBLEM",
+    "start": 1701,
+    "end": 1721
+  },
+  {
+    "entity": "abrasions",
+    "label": "PROBLEM",
+    "start": 1725,
+    "end": 1734
+  },
+  {
+    "entity": "any headache",
+    "label": "PROBLEM",
+    "start": 1761,
+    "end": 1773
+  },
+  {
+    "entity": "nausea",
+    "label": "PROBLEM",
+    "start": 1775,
+    "end": 1781
+  },
+  {
+    "entity": "vomiting",
+    "label": "PROBLEM",
+    "start": 1785,
+    "end": 1793
+  },
+  {
+    "entity": "feverish",
+    "label": "PROBLEM",
+    "start": 1813,
+    "end": 1821
+  },
+  {
+    "entity": "chilled",
+    "label": "PROBLEM",
+    "start": 1825,
+    "end": 1832
+  },
+  {
+    "entity": "significant deformity",
+    "label": "PROBLEM",
+    "start": 1873,
+    "end": 1894
+  },
+  {
+    "entity": "oblique vectors",
+    "label": "PROBLEM",
+    "start": 1987,
+    "end": 2002
+  },
+  {
+    "entity": "The pain in her abdomen",
+    "label": "PROBLEM",
+    "start": 2108,
+    "end": 2131
+  },
+  {
+    "entity": "most significant pain",
+    "label": "PROBLEM",
+    "start": 2135,
+    "end": 2156
+  },
+  {
+    "entity": "oral birth control medications",
+    "label": "DRUG",
+    "start": 2338,
+    "end": 2368
+  },
+  {
+    "entity": "an intrauterine device",
+    "label": "TREATMENT",
+    "start": 2382,
+    "end": 2404
+  },
+  {
+    "entity": "Accutane",
+    "label": "DRUG",
+    "start": 2447,
+    "end": 2455
+  },
+  {
+    "entity": "acne",
+    "label": "PROBLEM",
+    "start": 2522,
+    "end": 2526
+  },
+  {
+    "entity": "Accutane",
+    "label": "DRUG",
+    "start": 2648,
+    "end": 2656
+  },
+  {
+    "entity": "known medical allergies",
+    "label": "PROBLEM",
+    "start": 2673,
+    "end": 2696
+  },
+  {
+    "entity": "acute distress",
+    "label": "PROBLEM",
+    "start": 2876,
+    "end": 2890
+  },
+  {
+    "entity": "a collar",
+    "label": "TREATMENT",
+    "start": 3007,
+    "end": 3015
+  },
+  {
+    "entity": "capsular retractions",
+    "label": "PROBLEM",
+    "start": 3041,
+    "end": 3061
+  },
+  {
+    "entity": "labored respirations",
+    "label": "PROBLEM",
+    "start": 3063,
+    "end": 3083
+  },
+  {
+    "entity": "accessory muscle usage",
+    "label": "PROBLEM",
+    "start": 3087,
+    "end": 3109
+  },
+  {
+    "entity": "Temperature",
+    "label": "TEST",
+    "start": 3163,
+    "end": 3174
+  },
+  {
+    "entity": "blood pressure",
+    "label": "TEST",
+    "start": 3200,
+    "end": 3214
+  },
+  {
+    "entity": "pulse",
+    "label": "TEST",
+    "start": 3223,
+    "end": 3228
+  },
+  {
+    "entity": "respiratory rate",
+    "label": "TEST",
+    "start": 3233,
+    "end": 3249
+  },
+  {
+    "entity": "pulse oximetry",
+    "label": "TEST",
+    "start": 3258,
+    "end": 3272
+  },
+  {
+    "entity": "crepitus",
+    "label": "PROBLEM",
+    "start": 3334,
+    "end": 3342
+  },
+  {
+    "entity": "bony step-offs",
+    "label": "PROBLEM",
+    "start": 3348,
+    "end": 3362
+  },
+  {
+    "entity": "lacerations on the scalp",
+    "label": "PROBLEM",
+    "start": 3378,
+    "end": 3402
+  },
+  {
+    "entity": "Fundoscopic exam",
+    "label": "TEST",
+    "start": 3445,
+    "end": 3461
+  },
+  {
+    "entity": "papilledema",
+    "label": "PROBLEM",
+    "start": 3485,
+    "end": 3496
+  },
+  {
+    "entity": "External ocular movements",
+    "label": "TEST",
+    "start": 3499,
+    "end": 3524
+  },
+  {
+    "entity": "nystagmus",
+    "label": "PROBLEM",
+    "start": 3556,
+    "end": 3565
+  },
+  {
+    "entity": "entrapment",
+    "label": "PROBLEM",
+    "start": 3569,
+    "end": 3579
+  },
+  {
+    "entity": "mucoid discharge",
+    "label": "PROBLEM",
+    "start": 3611,
+    "end": 3627
+  },
+  {
+    "entity": "exudate",
+    "label": "PROBLEM",
+    "start": 3669,
+    "end": 3676
+  },
+  {
+    "entity": "lesions",
+    "label": "PROBLEM",
+    "start": 3680,
+    "end": 3687
+  },
+  {
+    "entity": "thyromegaly",
+    "label": "PROBLEM",
+    "start": 3708,
+    "end": 3719
+  },
+  {
+    "entity": "JVD",
+    "label": "PROBLEM",
+    "start": 3725,
+    "end": 3728
+  },
+  {
+    "entity": "carotid bruits",
+    "label": "PROBLEM",
+    "start": 3734,
+    "end": 3748
+  },
+  {
+    "entity": "stridor",
+    "label": "PROBLEM",
+    "start": 3784,
+    "end": 3791
+  },
+  {
+    "entity": "rate",
+    "label": "TEST",
+    "start": 3809,
+    "end": 3813
+  },
+  {
+    "entity": "rhythm",
+    "label": "TEST",
+    "start": 3818,
+    "end": 3824
+  },
+  {
+    "entity": "S1",
+    "label": "TEST",
+    "start": 3833,
+    "end": 3835
+  },
+  {
+    "entity": "S2",
+    "label": "TEST",
+    "start": 3840,
+    "end": 3842
+  },
+  {
+    "entity": "murmur",
+    "label": "PROBLEM",
+    "start": 3848,
+    "end": 3854
+  },
+  {
+    "entity": "rub",
+    "label": "PROBLEM",
+    "start": 3856,
+    "end": 3859
+  },
+  {
+    "entity": "gallop",
+    "label": "PROBLEM",
+    "start": 3863,
+    "end": 3869
+  },
+  {
+    "entity": "auscultation",
+    "label": "TEST",
+    "start": 3903,
+    "end": 3915
+  },
+  {
+    "entity": "wheezes",
+    "label": "PROBLEM",
+    "start": 3933,
+    "end": 3940
+  },
+  {
+    "entity": "rales",
+    "label": "PROBLEM",
+    "start": 3942,
+    "end": 3947
+  },
+  {
+    "entity": "rhonchi",
+    "label": "PROBLEM",
+    "start": 3952,
+    "end": 3959
+  },
+  {
+    "entity": "mild-to-moderate tenderness in the bilateral lower pelvic quadrants",
+    "label": "PROBLEM",
+    "start": 4009,
+    "end": 4076
+  },
+  {
+    "entity": "organomegaly",
+    "label": "PROBLEM",
+    "start": 4091,
+    "end": 4103
+  },
+  {
+    "entity": "bowel sounds",
+    "label": "TEST",
+    "start": 4120,
+    "end": 4132
+  },
+  {
+    "entity": "rigidity",
+    "label": "PROBLEM",
+    "start": 4174,
+    "end": 4182
+  },
+  {
+    "entity": "guarding",
+    "label": "PROBLEM",
+    "start": 4186,
+    "end": 4194
+  },
+  {
+    "entity": "CVA tenderness",
+    "label": "PROBLEM",
+    "start": 4206,
+    "end": 4220
+  },
+  {
+    "entity": "edema",
+    "label": "PROBLEM",
+    "start": 4251,
+    "end": 4256
+  },
+  {
+    "entity": "bony abnormalities",
+    "label": "PROBLEM",
+    "start": 4272,
+    "end": 4290
+  },
+  {
+    "entity": "deformities",
+    "label": "PROBLEM",
+    "start": 4294,
+    "end": 4305
+  },
+  {
+    "entity": "Capillary refill",
+    "label": "TEST",
+    "start": 4329,
+    "end": 4345
+  },
+  {
+    "entity": "dorsalis pedis and radial pulses",
+    "label": "TEST",
+    "start": 4421,
+    "end": 4453
+  },
+  {
+    "entity": "the accident",
+    "label": "PROBLEM",
+    "start": 4570,
+    "end": 4582
+  },
+  {
+    "entity": "focal deficits",
+    "label": "PROBLEM",
+    "start": 4661,
+    "end": 4675
+  },
+  {
+    "entity": "distal and proximal muscle group strength",
+    "label": "TEST",
+    "start": 4727,
+    "end": 4768
+  },
+  {
+    "entity": "Romberg",
+    "label": "TEST",
+    "start": 4820,
+    "end": 4827
+  },
+  {
+    "entity": "pronator drift",
+    "label": "TEST",
+    "start": 4841,
+    "end": 4855
+  },
+  {
+    "entity": "appreciable adenopathy",
+    "label": "PROBLEM",
+    "start": 4873,
+    "end": 4895
+  },
+  {
+    "entity": "pain",
+    "label": "PROBLEM",
+    "start": 4937,
+    "end": 4941
+  },
+  {
+    "entity": "range of motion",
+    "label": "TEST",
+    "start": 4947,
+    "end": 4962
+  },
+  {
+    "entity": "bony abnormalities",
+    "label": "PROBLEM",
+    "start": 5096,
+    "end": 5114
+  },
+  {
+    "entity": "some mild tenderness over palpation of the bilateral iliac crests",
+    "label": "PROBLEM",
+    "start": 5150,
+    "end": 5215
+  },
+  {
+    "entity": "lacerations",
+    "label": "PROBLEM",
+    "start": 5251,
+    "end": 5262
+  },
+  {
+    "entity": "abrasions",
+    "label": "PROBLEM",
+    "start": 5278,
+    "end": 5287
+  },
+  {
+    "entity": "a small abrasion",
+    "label": "PROBLEM",
+    "start": 5299,
+    "end": 5315
+  },
+  {
+    "entity": "lacerations",
+    "label": "PROBLEM",
+    "start": 5377,
+    "end": 5388
+  },
+  {
+    "entity": "trauma",
+    "label": "PROBLEM",
+    "start": 5405,
+    "end": 5411
+  },
+  {
+    "entity": "bleeding",
+    "label": "PROBLEM",
+    "start": 5415,
+    "end": 5423
+  },
+  {
+    "entity": "multiple x-rays",
+    "label": "TEST",
+    "start": 5483,
+    "end": 5498
+  },
+  {
+    "entity": "an x-ray of the pelvis",
+    "label": "TEST",
+    "start": 5515,
+    "end": 5537
+  },
+  {
+    "entity": "a CT scan of the cervical spine",
+    "label": "TEST",
+    "start": 5595,
+    "end": 5626
+  },
+  {
+    "entity": "acute traumatic bony injury of the cervical spine",
+    "label": "PROBLEM",
+    "start": 5653,
+    "end": 5702
+  },
+  {
+    "entity": "some prevertibral soft tissue swelling",
+    "label": "PROBLEM",
+    "start": 5714,
+    "end": 5752
+  },
+  {
+    "entity": "prominence of upper esophageal sphincter",
+    "label": "PROBLEM",
+    "start": 5814,
+    "end": 5854
+  },
+  {
+    "entity": "The CT scan of the brain without contrast",
+    "label": "TEST",
+    "start": 5857,
+    "end": 5898
+  },
+  {
+    "entity": "acute intracranial injury",
+    "label": "PROBLEM",
+    "start": 5920,
+    "end": 5945
+  },
+  {
+    "entity": "some mucus in the left sphenoid sinus",
+    "label": "PROBLEM",
+    "start": 5957,
+    "end": 5994
+  },
+  {
+    "entity": "emergent CT scan without contrast of the abdomen",
+    "label": "TEST",
+    "start": 6018,
+    "end": 6066
+  },
+  {
+    "entity": "The initial studies",
+    "label": "TEST",
+    "start": 6069,
+    "end": 6088
+  },
+  {
+    "entity": "some dependent atelectasis in both lungs",
+    "label": "PROBLEM",
+    "start": 6094,
+    "end": 6134
+  },
+  {
+    "entity": "some low density in the liver",
+    "label": "PROBLEM",
+    "start": 6151,
+    "end": 6180
+  },
+  {
+    "entity": "a CT scan with contrast",
+    "label": "TEST",
+    "start": 6239,
+    "end": 6262
+  },
+  {
+    "entity": "A CT scan with contrast",
+    "label": "TEST",
+    "start": 6278,
+    "end": 6301
+  },
+  {
+    "entity": "bleeding",
+    "label": "PROBLEM",
+    "start": 6353,
+    "end": 6361
+  },
+  {
+    "entity": "intraabdominal or pelvic abnormalities",
+    "label": "PROBLEM",
+    "start": 6365,
+    "end": 6403
+  },
+  {
+    "entity": "laboratory studies",
+    "label": "TEST",
+    "start": 6422,
+    "end": 6440
+  },
+  {
+    "entity": "CBC",
+    "label": "TEST",
+    "start": 6456,
+    "end": 6459
+  },
+  {
+    "entity": "anemia",
+    "label": "PROBLEM",
+    "start": 6492,
+    "end": 6498
+  },
+  {
+    "entity": "thrombocytopenia",
+    "label": "PROBLEM",
+    "start": 6500,
+    "end": 6516
+  },
+  {
+    "entity": "leukocytosis",
+    "label": "PROBLEM",
+    "start": 6520,
+    "end": 6532
+  },
+  {
+    "entity": "a urine pregnancy test",
+    "label": "TEST",
+    "start": 6551,
+    "end": 6573
+  },
+  {
+    "entity": "urinalysis",
+    "label": "TEST",
+    "start": 6597,
+    "end": 6607
+  },
+  {
+    "entity": "significant bony deformities",
+    "label": "PROBLEM",
+    "start": 6792,
+    "end": 6820
+  },
+  {
+    "entity": "abnormalities",
+    "label": "PROBLEM",
+    "start": 6824,
+    "end": 6837
+  },
+  {
+    "entity": "Tylenol",
+    "label": "DRUG",
+    "start": 6871,
+    "end": 6878
+  },
+  {
+    "entity": "treatment",
+    "label": "TREATMENT",
+    "start": 6916,
+    "end": 6925
+  },
+  {
+    "entity": "her pain",
+    "label": "PROBLEM",
+    "start": 6929,
+    "end": 6937
+  },
+  {
+    "entity": "Her pain",
+    "label": "PROBLEM",
+    "start": 6940,
+    "end": 6948
+  },
+  {
+    "entity": "medication",
+    "label": "DRUG",
+    "start": 6968,
+    "end": 6978
+  },
+  {
+    "entity": "The patient's CT scans of the abdomen",
+    "label": "TEST",
+    "start": 7048,
+    "end": 7085
+  },
+  {
+    "entity": "bleeding",
+    "label": "PROBLEM",
+    "start": 7124,
+    "end": 7132
+  },
+  {
+    "entity": "a contusion",
+    "label": "PROBLEM",
+    "start": 7159,
+    "end": 7170
+  },
+  {
+    "entity": "abrasion to her abdomen",
+    "label": "PROBLEM",
+    "start": 7175,
+    "end": 7198
+  },
+  {
+    "entity": "difficulty",
+    "label": "PROBLEM",
+    "start": 7333,
+    "end": 7343
+  },
+  {
+    "entity": "abrasions",
+    "label": "PROBLEM",
+    "start": 7357,
+    "end": 7366
+  },
+  {
+    "entity": "lacerations",
+    "label": "PROBLEM",
+    "start": 7370,
+    "end": 7381
+  },
+  {
+    "entity": "Multiple contusions",
+    "label": "PROBLEM",
+    "start": 7405,
+    "end": 7424
+  },
+  {
+    "entity": "abdominal pain",
+    "label": "PROBLEM",
+    "start": 7429,
+    "end": 7443
+  },
+  {
+    "entity": "any intraabdominal or pelvic abnormities",
+    "label": "PROBLEM",
+    "start": 7527,
+    "end": 7567
+  },
+  {
+    "entity": "her CT scans",
+    "label": "TEST",
+    "start": 7578,
+    "end": 7590
+  },
+  {
+    "entity": "scans of the brain and her C-spine",
+    "label": "TEST",
+    "start": 7608,
+    "end": 7642
+  },
+  {
+    "entity": "her pain",
+    "label": "PROBLEM",
+    "start": 7772,
+    "end": 7780
+  },
+  {
+    "entity": "increasing abdominal pain",
+    "label": "PROBLEM",
+    "start": 7805,
+    "end": 7830
+  },
+  {
+    "entity": "nausea",
+    "label": "PROBLEM",
+    "start": 7832,
+    "end": 7838
+  },
+  {
+    "entity": "vomiting",
+    "label": "PROBLEM",
+    "start": 7842,
+    "end": 7850
+  },
+  {
+    "entity": "Vicodin",
+    "label": "DRUG",
+    "start": 7893,
+    "end": 7900
+  },
+  {
+    "entity": "Flexeril",
+    "label": "DRUG",
+    "start": 7905,
+    "end": 7913
+  },
+  {
+    "entity": "her muscular pain",
+    "label": "PROBLEM",
+    "start": 7936,
+    "end": 7953
+  },
+  {
+    "entity": "accutane",
+    "label": "DRUG",
+    "start": 7983,
+    "end": 7991
+  },
+  {
+    "entity": "contusions",
+    "label": "PROBLEM",
+    "start": 7993,
+    "end": 8003
+  },
+  {
+    "entity": "motor vehicle accident",
+    "label": "PROBLEM",
+    "start": 8034,
+    "end": 8056
+  },
+  {
+    "entity": "motor vehicle collision",
+    "label": "PROBLEM",
+    "start": 8058,
+    "end": 8081
+  },
+  {
+    "entity": "ct scan",
+    "label": "TEST",
+    "start": 8083,
+    "end": 8090
+  },
+  {
+    "entity": "accident",
+    "label": "PROBLEM",
+    "start": 8114,
+    "end": 8122
+  }
+]

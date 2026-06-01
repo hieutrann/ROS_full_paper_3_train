@@ -1,0 +1,347 @@
+[
+  {
+    "numbness": "PROBLEM"
+  },
+  {
+    "tingling": "PROBLEM"
+  },
+  {
+    "pain": "PROBLEM"
+  },
+  {
+    "paraesthesias": "PROBLEM"
+  },
+  {
+    "shoulder pains": "PROBLEM"
+  },
+  {
+    "hypothyroidism": "PROBLEM"
+  },
+  {
+    "thrombocythemia": "PROBLEM"
+  },
+  {
+    "insomnia": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "appendectomy": "TREATMENT"
+  },
+  {
+    "bladder obstruction surgery": "TREATMENT"
+  },
+  {
+    "gallbladder surgery": "TREATMENT"
+  },
+  {
+    "C-section": "TREATMENT"
+  },
+  {
+    "varicose vein surgery": "TREATMENT"
+  },
+  {
+    "thyroid gland surgery": "TREATMENT"
+  },
+  {
+    "hernia surgery": "TREATMENT"
+  },
+  {
+    "bilateral mastectomies": "TREATMENT"
+  },
+  {
+    "hysterectomy": "TREATMENT"
+  },
+  {
+    "shoulder surgery": "TREATMENT"
+  },
+  {
+    "laparoscopic bowel adhesion removal": "TREATMENT"
+  },
+  {
+    "Port-A-Cath": "TREATMENT"
+  },
+  {
+    "total knee arthroplasty": "TREATMENT"
+  },
+  {
+    "hip pinning": "TREATMENT"
+  },
+  {
+    "colonoscopies": "TEST"
+  },
+  {
+    "synovitis": "PROBLEM"
+  },
+  {
+    "zoster": "PROBLEM"
+  },
+  {
+    "infection": "PROBLEM"
+  },
+  {
+    "labyrinthitis": "PROBLEM"
+  },
+  {
+    "Sulfa": "DRUG"
+  },
+  {
+    "aspirin": "DRUG"
+  },
+  {
+    "Darvon": "DRUG"
+  },
+  {
+    "codeine": "DRUG"
+  },
+  {
+    "NSAID": "DRUG"
+  },
+  {
+    "amoxicillin": "DRUG"
+  },
+  {
+    "quinine": "DRUG"
+  },
+  {
+    "Hydroxyurea": "DRUG"
+  },
+  {
+    "Metamucil": "DRUG"
+  },
+  {
+    "amitriptyline": "DRUG"
+  },
+  {
+    "Synthroid": "DRUG"
+  },
+  {
+    "Ambien": "DRUG"
+  },
+  {
+    "triamterene/hydrochlorothiazide": "DRUG"
+  },
+  {
+    "Lortab": "DRUG"
+  },
+  {
+    "allergies": "PROBLEM"
+  },
+  {
+    "sneezing": "PROBLEM"
+  },
+  {
+    "sore throat": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "palpitations": "PROBLEM"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "blood in the stool": "PROBLEM"
+  },
+  {
+    "dysuria": "PROBLEM"
+  },
+  {
+    "frequency": "PROBLEM"
+  },
+  {
+    "paresthesias": "PROBLEM"
+  },
+  {
+    "shoulder pain": "PROBLEM"
+  },
+  {
+    "insomnia": "PROBLEM"
+  },
+  {
+    "spot": "PROBLEM"
+  },
+  {
+    "precancerous condition": "PROBLEM"
+  },
+  {
+    "hypothyroidism": "PROBLEM"
+  },
+  {
+    "essential thrombocythemia": "PROBLEM"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "peripheral neuropathy": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "allergic rhinitis": "PROBLEM"
+  },
+  {
+    "insomnia": "PROBLEM"
+  },
+  {
+    "Neurontin": "DRUG"
+  },
+  {
+    "Anodyne physical therapy": "TREATMENT"
+  },
+  {
+    "CBC": "TEST"
+  },
+  {
+    "sed rate": "TEST"
+  },
+  {
+    "ferritin": "TEST"
+  },
+  {
+    "Hemoccult cards": "TEST"
+  },
+  {
+    "DT immunization": "TREATMENT"
+  },
+  {
+    "flu shot": "TREATMENT"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "pulse": "TEST"
+  },
+  {
+    "weight": "TEST"
+  },
+  {
+    "temperature": "TEST"
+  },
+  {
+    "pupils": "TEST"
+  },
+  {
+    "extraocular movements": "TEST"
+  },
+  {
+    "fundi": "TEST"
+  },
+  {
+    "TMs": "TEST"
+  },
+  {
+    "nares": "TEST"
+  },
+  {
+    "throat": "TEST"
+  },
+  {
+    "neck": "TEST"
+  },
+  {
+    "lungs": "TEST"
+  },
+  {
+    "heart": "TEST"
+  },
+  {
+    "carotid bruits": "TEST"
+  },
+  {
+    "abdomen": "TEST"
+  },
+  {
+    "bowel sounds": "TEST"
+  },
+  {
+    "hepatosplenomegaly": "TEST"
+  },
+  {
+    "mass": "TEST"
+  },
+  {
+    "breasts": "TEST"
+  },
+  {
+    "chest wall mass": "TEST"
+  },
+  {
+    "Port-A-Cath": "TEST"
+  },
+  {
+    "axillary adenopathy": "TEST"
+  },
+  {
+    "ankle edema": "TEST"
+  },
+  {
+    "calf tenderness": "TEST"
+  },
+  {
+    "pedal pulses": "TEST"
+  },
+  {
+    "cranial nerves": "TEST"
+  },
+  {
+    "deep tendon reflexes": "TEST"
+  },
+  {
+    "focal neurologic deficits": "TEST"
+  },
+  {
+    "BUS": "TEST"
+  },
+  {
+    "external genitalia": "TEST"
+  },
+  {
+    "vaginal rugae": "TEST"
+  },
+  {
+    "cervix": "TEST"
+  },
+  {
+    "bimanual exam": "TEST"
+  },
+  {
+    "ovaries": "TEST"
+  },
+  {
+    "rectal": "TEST"
+  },
+  {
+    "brown stool": "TEST"
+  },
+  {
+    "rectal vault": "TEST"
+  },
+  {
+    "actinic keratosis": "PROBLEM"
+  },
+  {
+    "affect": "TEST"
+  },
+  {
+    "stroke": "PROBLEM"
+  },
+  {
+    "prostate cancer": "PROBLEM"
+  },
+  {
+    "heart disease": "PROBLEM"
+  },
+  {
+    "diabetes": "PROBLEM"
+  }
+]

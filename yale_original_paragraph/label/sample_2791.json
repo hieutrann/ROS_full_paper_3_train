@@ -1,0 +1,422 @@
+[
+  {
+    "entity": "GI Bleed",
+    "label": "PROBLEM",
+    "start": 64,
+    "end": 72
+  },
+  {
+    "entity": "GI bleed",
+    "label": "PROBLEM",
+    "start": 106,
+    "end": 114
+  },
+  {
+    "entity": "Upper gastrointestinal bleed",
+    "label": "PROBLEM",
+    "start": 116,
+    "end": 144
+  },
+  {
+    "entity": "CBC",
+    "label": "TEST",
+    "start": 146,
+    "end": 149
+  },
+  {
+    "entity": "microcytic anemia",
+    "label": "PROBLEM",
+    "start": 159,
+    "end": 176
+  },
+  {
+    "entity": "GI bleed",
+    "label": "PROBLEM",
+    "start": 233,
+    "end": 241
+  },
+  {
+    "entity": "atrial fibrillation",
+    "label": "PROBLEM",
+    "start": 330,
+    "end": 349
+  },
+  {
+    "entity": "Coumadin",
+    "label": "DRUG",
+    "start": 354,
+    "end": 362
+  },
+  {
+    "entity": "increasing fatigue",
+    "label": "PROBLEM",
+    "start": 408,
+    "end": 426
+  },
+  {
+    "entity": "CBC",
+    "label": "TEST",
+    "start": 428,
+    "end": 431
+  },
+  {
+    "entity": "microcytic anemia",
+    "label": "PROBLEM",
+    "start": 441,
+    "end": 458
+  },
+  {
+    "entity": "hemoglobin",
+    "label": "TEST",
+    "start": 464,
+    "end": 474
+  },
+  {
+    "entity": "Stool dark brown",
+    "label": "PROBLEM",
+    "start": 483,
+    "end": 499
+  },
+  {
+    "entity": "OB positive",
+    "label": "PROBLEM",
+    "start": 510,
+    "end": 521
+  },
+  {
+    "entity": "any shortness of breath",
+    "label": "PROBLEM",
+    "start": 542,
+    "end": 565
+  },
+  {
+    "entity": "chest pain",
+    "label": "PROBLEM",
+    "start": 570,
+    "end": 580
+  },
+  {
+    "entity": "GI complaints",
+    "label": "PROBLEM",
+    "start": 585,
+    "end": 598
+  },
+  {
+    "entity": "further evaluation",
+    "label": "TEST",
+    "start": 637,
+    "end": 655
+  },
+  {
+    "entity": "atrial fibrillation",
+    "label": "PROBLEM",
+    "start": 695,
+    "end": 714
+  },
+  {
+    "entity": "hypertension",
+    "label": "PROBLEM",
+    "start": 716,
+    "end": 728
+  },
+  {
+    "entity": "osteoarthritis of the knees",
+    "label": "PROBLEM",
+    "start": 730,
+    "end": 757
+  },
+  {
+    "entity": "hypercholesterolemia",
+    "label": "PROBLEM",
+    "start": 759,
+    "end": 779
+  },
+  {
+    "entity": "non-insulin-dependent diabetes mellitus",
+    "label": "PROBLEM",
+    "start": 781,
+    "end": 820
+  },
+  {
+    "entity": "asthma",
+    "label": "PROBLEM",
+    "start": 822,
+    "end": 828
+  },
+  {
+    "entity": "hypothyroidism",
+    "label": "PROBLEM",
+    "start": 834,
+    "end": 848
+  },
+  {
+    "entity": "acute distress",
+    "label": "PROBLEM",
+    "start": 902,
+    "end": 916
+  },
+  {
+    "entity": "adenopathy",
+    "label": "PROBLEM",
+    "start": 971,
+    "end": 981
+  },
+  {
+    "entity": "Irregularly regular",
+    "label": "PROBLEM",
+    "start": 1027,
+    "end": 1046
+  },
+  {
+    "entity": "gallops",
+    "label": "PROBLEM",
+    "start": 1051,
+    "end": 1058
+  },
+  {
+    "entity": "bowel sounds",
+    "label": "TEST",
+    "start": 1078,
+    "end": 1090
+  },
+  {
+    "entity": "masses",
+    "label": "PROBLEM",
+    "start": 1116,
+    "end": 1122
+  },
+  {
+    "entity": "organomegaly",
+    "label": "PROBLEM",
+    "start": 1126,
+    "end": 1138
+  },
+  {
+    "entity": "1+ lower extremity edema bilaterally",
+    "label": "PROBLEM",
+    "start": 1153,
+    "end": 1189
+  },
+  {
+    "entity": "upper endoscopy",
+    "label": "TEST",
+    "start": 1230,
+    "end": 1245
+  },
+  {
+    "entity": "erosive gastritis",
+    "label": "PROBLEM",
+    "start": 1281,
+    "end": 1298
+  },
+  {
+    "entity": "Colonoscopy",
+    "label": "TEST",
+    "start": 1300,
+    "end": 1311
+  },
+  {
+    "entity": "diverticulosis",
+    "label": "PROBLEM",
+    "start": 1323,
+    "end": 1337
+  },
+  {
+    "entity": "polyp",
+    "label": "PROBLEM",
+    "start": 1349,
+    "end": 1354
+  },
+  {
+    "entity": "the procedure",
+    "label": "TREATMENT",
+    "start": 1398,
+    "end": 1411
+  },
+  {
+    "entity": "hemoglobin",
+    "label": "TEST",
+    "start": 1461,
+    "end": 1471
+  },
+  {
+    "entity": "further GI complaints",
+    "label": "PROBLEM",
+    "start": 1516,
+    "end": 1537
+  },
+  {
+    "entity": "Coumadin",
+    "label": "DRUG",
+    "start": 1539,
+    "end": 1547
+  },
+  {
+    "entity": "Coumadin",
+    "label": "DRUG",
+    "start": 1623,
+    "end": 1631
+  },
+  {
+    "entity": "Upper gastrointestinal bleed",
+    "label": "PROBLEM",
+    "start": 1791,
+    "end": 1819
+  },
+  {
+    "entity": "Anemia",
+    "label": "PROBLEM",
+    "start": 1824,
+    "end": 1830
+  },
+  {
+    "entity": "Atrial fibrillation",
+    "label": "PROBLEM",
+    "start": 1835,
+    "end": 1854
+  },
+  {
+    "entity": "Non-insulin-dependent diabetes mellitus",
+    "label": "PROBLEM",
+    "start": 1859,
+    "end": 1898
+  },
+  {
+    "entity": "Hypertension",
+    "label": "PROBLEM",
+    "start": 1903,
+    "end": 1915
+  },
+  {
+    "entity": "Hypothyroidism",
+    "label": "PROBLEM",
+    "start": 1920,
+    "end": 1934
+  },
+  {
+    "entity": "Asthma",
+    "label": "PROBLEM",
+    "start": 1939,
+    "end": 1945
+  },
+  {
+    "entity": "Feosol",
+    "label": "DRUG",
+    "start": 1994,
+    "end": 2000
+  },
+  {
+    "entity": "multivitamins",
+    "label": "DRUG",
+    "start": 2015,
+    "end": 2028
+  },
+  {
+    "entity": "Protonix",
+    "label": "DRUG",
+    "start": 2040,
+    "end": 2048
+  },
+  {
+    "entity": "KCl",
+    "label": "DRUG",
+    "start": 2063,
+    "end": 2066
+  },
+  {
+    "entity": "Lasix",
+    "label": "DRUG",
+    "start": 2081,
+    "end": 2086
+  },
+  {
+    "entity": "atenolol",
+    "label": "DRUG",
+    "start": 2101,
+    "end": 2109
+  },
+  {
+    "entity": "Synthroid",
+    "label": "DRUG",
+    "start": 2123,
+    "end": 2132
+  },
+  {
+    "entity": "Actos",
+    "label": "DRUG",
+    "start": 2147,
+    "end": 2152
+  },
+  {
+    "entity": "Mevacor",
+    "label": "DRUG",
+    "start": 2166,
+    "end": 2173
+  },
+  {
+    "entity": "lisinopril",
+    "label": "DRUG",
+    "start": 2191,
+    "end": 2201
+  },
+  {
+    "entity": "ALLERGIES",
+    "label": "PROBLEM",
+    "start": 2215,
+    "end": 2224
+  },
+  {
+    "entity": "Coumadin",
+    "label": "DRUG",
+    "start": 2310,
+    "end": 2318
+  },
+  {
+    "entity": "CBC",
+    "label": "TEST",
+    "start": 2345,
+    "end": 2348
+  },
+  {
+    "entity": "INR",
+    "label": "TEST",
+    "start": 2353,
+    "end": 2356
+  },
+  {
+    "entity": "gi bleed",
+    "label": "PROBLEM",
+    "start": 2433,
+    "end": 2441
+  },
+  {
+    "entity": "microcytic anemia",
+    "label": "PROBLEM",
+    "start": 2443,
+    "end": 2460
+  },
+  {
+    "entity": "cbc",
+    "label": "TEST",
+    "start": 2462,
+    "end": 2465
+  },
+  {
+    "entity": "endoscopy",
+    "label": "TEST",
+    "start": 2485,
+    "end": 2494
+  },
+  {
+    "entity": "gi complaints",
+    "label": "PROBLEM",
+    "start": 2496,
+    "end": 2509
+  },
+  {
+    "entity": "colonoscopy",
+    "label": "TEST",
+    "start": 2511,
+    "end": 2522
+  }
+]

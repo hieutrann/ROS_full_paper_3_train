@@ -1,0 +1,62 @@
+[
+  {
+    "teeth": "PROBLEM"
+  },
+  {
+    "dental disease": "PROBLEM"
+  },
+  {
+    "teeth pulled": "TREATMENT"
+  },
+  {
+    "tooth pain": "PROBLEM"
+  },
+  {
+    "toothache": "PROBLEM"
+  },
+  {
+    "OxyContin": "DRUG"
+  },
+  {
+    "Vicodin": "DRUG"
+  },
+  {
+    "knee pain": "PROBLEM"
+  },
+  {
+    "PENICILLIN": "DRUG"
+  },
+  {
+    "CODEINE": "DRUG"
+  },
+  {
+    "temperature": "TEST"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "pulse": "TEST"
+  },
+  {
+    "respirations": "TEST"
+  },
+  {
+    "oxygen saturation": "TEST"
+  },
+  {
+    "Dilaudid": "DRUG"
+  },
+  {
+    "ODONTALGIA": "PROBLEM"
+  },
+  {
+    "MULTIPLE DENTAL CARIES": "PROBLEM"
+  },
+  {
+    "Percocet": "DRUG"
+  },
+  {
+    "clindamycin": "DRUG"
+  }
+]

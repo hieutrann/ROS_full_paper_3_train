@@ -1,0 +1,422 @@
+[
+  {
+    "entity": "Abdominal Pain",
+    "label": "PROBLEM",
+    "start": 63,
+    "end": 77
+  },
+  {
+    "entity": "abdominal pain",
+    "label": "PROBLEM",
+    "start": 200,
+    "end": 214
+  },
+  {
+    "entity": "Abdominal pain",
+    "label": "PROBLEM",
+    "start": 297,
+    "end": 311
+  },
+  {
+    "entity": "abdominal pain",
+    "label": "PROBLEM",
+    "start": 494,
+    "end": 508
+  },
+  {
+    "entity": "evaluation",
+    "label": "TEST",
+    "start": 589,
+    "end": 599
+  },
+  {
+    "entity": "a CT scan",
+    "label": "TEST",
+    "start": 623,
+    "end": 632
+  },
+  {
+    "entity": "antibiotics",
+    "label": "DRUG",
+    "start": 709,
+    "end": 720
+  },
+  {
+    "entity": "Cipro",
+    "label": "DRUG",
+    "start": 724,
+    "end": 729
+  },
+  {
+    "entity": "Flagyl",
+    "label": "DRUG",
+    "start": 734,
+    "end": 740
+  },
+  {
+    "entity": "nausea",
+    "label": "PROBLEM",
+    "start": 757,
+    "end": 763
+  },
+  {
+    "entity": "vomiting",
+    "label": "PROBLEM",
+    "start": 768,
+    "end": 776
+  },
+  {
+    "entity": "persistent associated anorexia",
+    "label": "PROBLEM",
+    "start": 790,
+    "end": 820
+  },
+  {
+    "entity": "flatus",
+    "label": "PROBLEM",
+    "start": 837,
+    "end": 843
+  },
+  {
+    "entity": "some obstipation symptoms",
+    "label": "PROBLEM",
+    "start": 853,
+    "end": 878
+  },
+  {
+    "entity": "any bright red blood per rectum",
+    "label": "PROBLEM",
+    "start": 933,
+    "end": 964
+  },
+  {
+    "entity": "melena",
+    "label": "PROBLEM",
+    "start": 990,
+    "end": 996
+  },
+  {
+    "entity": "Her last colonoscopy",
+    "label": "TEST",
+    "start": 998,
+    "end": 1018
+  },
+  {
+    "entity": "definite fevers",
+    "label": "PROBLEM",
+    "start": 1076,
+    "end": 1091
+  },
+  {
+    "entity": "chills",
+    "label": "PROBLEM",
+    "start": 1095,
+    "end": 1101
+  },
+  {
+    "entity": "jaundice",
+    "label": "PROBLEM",
+    "start": 1120,
+    "end": 1128
+  },
+  {
+    "entity": "any significant recent weight loss",
+    "label": "PROBLEM",
+    "start": 1149,
+    "end": 1183
+  },
+  {
+    "entity": "atrial fibrillation",
+    "label": "PROBLEM",
+    "start": 1234,
+    "end": 1253
+  },
+  {
+    "entity": "metoprolol",
+    "label": "DRUG",
+    "start": 1312,
+    "end": 1322
+  },
+  {
+    "entity": "Premarin hormone replacement",
+    "label": "DRUG",
+    "start": 1335,
+    "end": 1363
+  },
+  {
+    "entity": "cholecystectomy",
+    "label": "TREATMENT",
+    "start": 1404,
+    "end": 1419
+  },
+  {
+    "entity": "appendectomy",
+    "label": "TREATMENT",
+    "start": 1421,
+    "end": 1433
+  },
+  {
+    "entity": "hysterectomy",
+    "label": "TREATMENT",
+    "start": 1439,
+    "end": 1451
+  },
+  {
+    "entity": "grade 4 bladder prolapse",
+    "label": "PROBLEM",
+    "start": 1485,
+    "end": 1509
+  },
+  {
+    "entity": "ALLERGIC",
+    "label": "PROBLEM",
+    "start": 1627,
+    "end": 1635
+  },
+  {
+    "entity": "SENSITIVE",
+    "label": "PROBLEM",
+    "start": 1639,
+    "end": 1648
+  },
+  {
+    "entity": "MACRODANTIN",
+    "label": "DRUG",
+    "start": 1652,
+    "end": 1663
+  },
+  {
+    "entity": "any recent febrile illnesses",
+    "label": "PROBLEM",
+    "start": 1752,
+    "end": 1780
+  },
+  {
+    "entity": "chest pains",
+    "label": "PROBLEM",
+    "start": 1782,
+    "end": 1793
+  },
+  {
+    "entity": "shortness of breath",
+    "label": "PROBLEM",
+    "start": 1797,
+    "end": 1816
+  },
+  {
+    "entity": "acute distress",
+    "label": "PROBLEM",
+    "start": 1915,
+    "end": 1929
+  },
+  {
+    "entity": "Her temperature",
+    "label": "TEST",
+    "start": 1944,
+    "end": 1959
+  },
+  {
+    "entity": "vital signs",
+    "label": "TEST",
+    "start": 1972,
+    "end": 1983
+  },
+  {
+    "entity": "rate",
+    "label": "TEST",
+    "start": 2176,
+    "end": 2180
+  },
+  {
+    "entity": "rhythm",
+    "label": "TEST",
+    "start": 2185,
+    "end": 2191
+  },
+  {
+    "entity": "focally tender in the left lower quadrant",
+    "label": "PROBLEM",
+    "start": 2242,
+    "end": 2283
+  },
+  {
+    "entity": "deep palpation",
+    "label": "TEST",
+    "start": 2287,
+    "end": 2301
+  },
+  {
+    "entity": "a palpable fullness",
+    "label": "PROBLEM",
+    "start": 2307,
+    "end": 2326
+  },
+  {
+    "entity": "mass",
+    "label": "PROBLEM",
+    "start": 2330,
+    "end": 2334
+  },
+  {
+    "entity": "focally tender",
+    "label": "PROBLEM",
+    "start": 2339,
+    "end": 2353
+  },
+  {
+    "entity": "rebound tenderness",
+    "label": "PROBLEM",
+    "start": 2362,
+    "end": 2380
+  },
+  {
+    "entity": "CVA",
+    "label": "PROBLEM",
+    "start": 2394,
+    "end": 2397
+  },
+  {
+    "entity": "flank tenderness",
+    "label": "PROBLEM",
+    "start": 2401,
+    "end": 2417
+  },
+  {
+    "entity": "some very minimal left flank tenderness",
+    "label": "PROBLEM",
+    "start": 2428,
+    "end": 2467
+  },
+  {
+    "entity": "grade 4 urinary bladder prolapse",
+    "label": "PROBLEM",
+    "start": 2516,
+    "end": 2548
+  },
+  {
+    "entity": "White blood cell count",
+    "label": "TEST",
+    "start": 2618,
+    "end": 2640
+  },
+  {
+    "entity": "hemoglobin",
+    "label": "TEST",
+    "start": 2649,
+    "end": 2659
+  },
+  {
+    "entity": "platelet count",
+    "label": "TEST",
+    "start": 2670,
+    "end": 2684
+  },
+  {
+    "entity": "Alkaline phosphatase",
+    "label": "TEST",
+    "start": 2693,
+    "end": 2713
+  },
+  {
+    "entity": "Liver function tests",
+    "label": "TEST",
+    "start": 2731,
+    "end": 2751
+  },
+  {
+    "entity": "Glucose",
+    "label": "TEST",
+    "start": 2791,
+    "end": 2798
+  },
+  {
+    "entity": "BUN",
+    "label": "TEST",
+    "start": 2804,
+    "end": 2807
+  },
+  {
+    "entity": "creatinine",
+    "label": "TEST",
+    "start": 2815,
+    "end": 2825
+  },
+  {
+    "entity": "EKG",
+    "label": "TEST",
+    "start": 2851,
+    "end": 2854
+  },
+  {
+    "entity": "abdominal pain",
+    "label": "PROBLEM",
+    "start": 2962,
+    "end": 2976
+  },
+  {
+    "entity": "sigmoid diverticulitis",
+    "label": "PROBLEM",
+    "start": 3088,
+    "end": 3110
+  },
+  {
+    "entity": "sigmoid diverticulitis",
+    "label": "PROBLEM",
+    "start": 3159,
+    "end": 3181
+  },
+  {
+    "entity": "a repeat stat CT scan of the abdomen and pelvis",
+    "label": "TEST",
+    "start": 3201,
+    "end": 3248
+  },
+  {
+    "entity": "evaluation",
+    "label": "TEST",
+    "start": 3382,
+    "end": 3392
+  },
+  {
+    "entity": "repeat colonoscopy",
+    "label": "PROBLEM",
+    "start": 3416,
+    "end": 3434
+  },
+  {
+    "entity": "acute surgical intervention",
+    "label": "TREATMENT",
+    "start": 3617,
+    "end": 3644
+  },
+  {
+    "entity": "further diagnostic workup",
+    "label": "TEST",
+    "start": 3715,
+    "end": 3740
+  },
+  {
+    "entity": "abdominal pain",
+    "label": "PROBLEM",
+    "start": 3770,
+    "end": 3784
+  },
+  {
+    "entity": "lower quadrant",
+    "label": "PROBLEM",
+    "start": 3786,
+    "end": 3800
+  },
+  {
+    "entity": "diverticulitis",
+    "label": "PROBLEM",
+    "start": 3822,
+    "end": 3836
+  },
+  {
+    "entity": "tenderness",
+    "label": "PROBLEM",
+    "start": 3838,
+    "end": 3848
+  }
+]

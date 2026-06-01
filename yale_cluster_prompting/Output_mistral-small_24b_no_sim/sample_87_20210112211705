@@ -1,0 +1,128 @@
+[
+  {
+    "pneumonia": "PROBLEM"
+  },
+  {
+    "blood count": "TEST"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "seizure": "PROBLEM"
+  },
+  {
+    "pneumonia": "PROBLEM"
+  },
+  {
+    "blood count": "TEST"
+  },
+  {
+    "IV": "DRUG"
+  },
+  {
+    "antibiotics": "DRUG"
+  },
+  {
+    "p.o.": "DRUG"
+  },
+  {
+    "antibiotics": "DRUG"
+  },
+  {
+    "temperature": "TEST"
+  },
+  {
+    "strep": "PROBLEM"
+  },
+  {
+    "penicillin": "DRUG"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "seizure": "PROBLEM"
+  },
+  {
+    "Temperature": "TEST"
+  },
+  {
+    "104.5": "TEST"
+  },
+  {
+    "lethargic": "PROBLEM"
+  },
+  {
+    "LP": "TEST"
+  },
+  {
+    "blood cultures": "TEST"
+  },
+  {
+    "CSF": "TEST"
+  },
+  {
+    "PHYSICAL EXAMINATION": "TEST"
+  },
+  {
+    "anesthesia": "DRUG"
+  },
+  {
+    "auscultation": "TEST"
+  },
+  {
+    "percussion": "TEST"
+  },
+  {
+    "Abdomen": "PROBLEM"
+  },
+  {
+    "White count": "TEST"
+  },
+  {
+    "emergency room": "TEST"
+  },
+  {
+    "CSF glucose": "TEST"
+  },
+  {
+    "protein": "TEST"
+  },
+  {
+    "cells": "TEST"
+  },
+  {
+    "Gram-stain": "TEST"
+  },
+  {
+    "febrile seizure": "PROBLEM"
+  },
+  {
+    "temperature": "PROBLEM"
+  },
+  {
+    "white count": "TEST"
+  },
+  {
+    "antibiotics": "DRUG"
+  },
+  {
+    "febrile seizure": "PROBLEM"
+  },
+  {
+    "temperature": "TEST"
+  },
+  {
+    "blood count": "TEST"
+  },
+  {
+    "white count": "TEST"
+  },
+  {
+    "pneumonia": "PROBLEM"
+  },
+  {
+    "seizure": "PROBLEM"
+  }
+]

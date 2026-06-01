@@ -1,0 +1,227 @@
+[
+  {
+    "extreme fatigue": "PROBLEM"
+  },
+  {
+    "discomfort in the chest": "PROBLEM"
+  },
+  {
+    "discomfort in the back": "PROBLEM"
+  },
+  {
+    "Stomach gets upset": "PROBLEM"
+  },
+  {
+    "pain": "PROBLEM"
+  },
+  {
+    "loose bowel movements": "PROBLEM"
+  },
+  {
+    "no bladder control": "PROBLEM"
+  },
+  {
+    "pain in her hips": "PROBLEM"
+  },
+  {
+    "Peripheral neuropathy": "PROBLEM"
+  },
+  {
+    "swelling": "PROBLEM"
+  },
+  {
+    "headaches": "PROBLEM"
+  },
+  {
+    "Type II diabetes mellitus": "PROBLEM"
+  },
+  {
+    "Generalized fatigue": "PROBLEM"
+  },
+  {
+    "weakness": "PROBLEM"
+  },
+  {
+    "Hypertension": "PROBLEM"
+  },
+  {
+    "Hypothyroidism": "PROBLEM"
+  },
+  {
+    "Depression": "PROBLEM"
+  },
+  {
+    "Abdominal pain": "PROBLEM"
+  },
+  {
+    "irritable bowel type symptoms": "PROBLEM"
+  },
+  {
+    "intermittent diarrhea": "PROBLEM"
+  },
+  {
+    "MI": "PROBLEM"
+  },
+  {
+    "stroke": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "sweats": "PROBLEM"
+  },
+  {
+    "chills": "PROBLEM"
+  },
+  {
+    "epistaxis": "PROBLEM"
+  },
+  {
+    "sore throat": "PROBLEM"
+  },
+  {
+    "hoarseness": "PROBLEM"
+  },
+  {
+    "palpitations": "PROBLEM"
+  },
+  {
+    "PND": "PROBLEM"
+  },
+  {
+    "orthopnea": "PROBLEM"
+  },
+  {
+    "chest pains": "PROBLEM"
+  },
+  {
+    "wheezing": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "Thromboembolic disease": "PROBLEM"
+  },
+  {
+    "stomach pain": "PROBLEM"
+  },
+  {
+    "Nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "Diarrhea": "PROBLEM"
+  },
+  {
+    "dysuria": "PROBLEM"
+  },
+  {
+    "hematuria": "PROBLEM"
+  },
+  {
+    "stones": "PROBLEM"
+  },
+  {
+    "muscle pain": "PROBLEM"
+  },
+  {
+    "joint pain": "PROBLEM"
+  },
+  {
+    "paralysis": "PROBLEM"
+  },
+  {
+    "paresis": "PROBLEM"
+  },
+  {
+    "paresthesias": "PROBLEM"
+  },
+  {
+    "Rashes": "PROBLEM"
+  },
+  {
+    "itching": "PROBLEM"
+  },
+  {
+    "lumps": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "bruising": "PROBLEM"
+  },
+  {
+    "bleeding-type symptoms": "PROBLEM"
+  },
+  {
+    "thyromegaly": "PROBLEM"
+  },
+  {
+    "adenopathy": "PROBLEM"
+  },
+  {
+    "murmur": "PROBLEM"
+  },
+  {
+    "gallop": "PROBLEM"
+  },
+  {
+    "guarding": "PROBLEM"
+  },
+  {
+    "rigidity": "PROBLEM"
+  },
+  {
+    "tenderness": "PROBLEM"
+  },
+  {
+    "flank pain": "PROBLEM"
+  },
+  {
+    "cyanosis": "PROBLEM"
+  },
+  {
+    "clubbing": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "metformin": "DRUG"
+  },
+  {
+    "diuretics": "DRUG"
+  },
+  {
+    "CBC": "TEST"
+  },
+  {
+    "CMP": "TEST"
+  },
+  {
+    "A1c": "TEST"
+  },
+  {
+    "microalbumin": "TEST"
+  },
+  {
+    "UA": "TEST"
+  },
+  {
+    "Stool for C&S": "TEST"
+  },
+  {
+    "Gram stain": "TEST"
+  },
+  {
+    "ova and parasites": "TEST"
+  },
+  {
+    "CT of the abdomen and pelvis": "TEST"
+  }
+]

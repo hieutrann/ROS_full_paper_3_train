@@ -1,0 +1,752 @@
+[
+  {
+    "entity": "antibiotic therapy",
+    "label": "DRUG",
+    "start": 125,
+    "end": 143
+  },
+  {
+    "entity": "lower extremity cellulitis",
+    "label": "PROBLEM",
+    "start": 157,
+    "end": 183
+  },
+  {
+    "entity": "antibiotic therapy",
+    "label": "DRUG",
+    "start": 270,
+    "end": 288
+  },
+  {
+    "entity": "lower extremity cellulitis",
+    "label": "PROBLEM",
+    "start": 302,
+    "end": 328
+  },
+  {
+    "entity": "morbid obesity",
+    "label": "PROBLEM",
+    "start": 433,
+    "end": 447
+  },
+  {
+    "entity": "chronic lower extremity lymphedema",
+    "label": "PROBLEM",
+    "start": 452,
+    "end": 486
+  },
+  {
+    "entity": "Her lower extremity edema",
+    "label": "PROBLEM",
+    "start": 541,
+    "end": 566
+  },
+  {
+    "entity": "cellulitis of the lower extremities",
+    "label": "PROBLEM",
+    "start": 624,
+    "end": 659
+  },
+  {
+    "entity": "Bactrim",
+    "label": "DRUG",
+    "start": 707,
+    "end": 714
+  },
+  {
+    "entity": "ciprofloxacin",
+    "label": "DRUG",
+    "start": 719,
+    "end": 732
+  },
+  {
+    "entity": "her lymphedema",
+    "label": "PROBLEM",
+    "start": 766,
+    "end": 780
+  },
+  {
+    "entity": "therapy",
+    "label": "TREATMENT",
+    "start": 802,
+    "end": 809
+  },
+  {
+    "entity": "a stage II ulcer on the lower part",
+    "label": "PROBLEM",
+    "start": 938,
+    "end": 972
+  },
+  {
+    "entity": "any drainage",
+    "label": "PROBLEM",
+    "start": 1014,
+    "end": 1026
+  },
+  {
+    "entity": "slight erythema of bilateral lower calf and shin areas",
+    "label": "PROBLEM",
+    "start": 1035,
+    "end": 1089
+  },
+  {
+    "entity": "lymphedema wraps",
+    "label": "TREATMENT",
+    "start": 1112,
+    "end": 1128
+  },
+  {
+    "entity": "lower extremity cellulitis",
+    "label": "PROBLEM",
+    "start": 1260,
+    "end": 1286
+  },
+  {
+    "entity": "antibiotic therapy",
+    "label": "DRUG",
+    "start": 1304,
+    "end": 1322
+  },
+  {
+    "entity": "morbid obesity",
+    "label": "PROBLEM",
+    "start": 1359,
+    "end": 1373
+  },
+  {
+    "entity": "chronic lymphedema of the lower extremities",
+    "label": "PROBLEM",
+    "start": 1375,
+    "end": 1418
+  },
+  {
+    "entity": "spastic colon",
+    "label": "PROBLEM",
+    "start": 1455,
+    "end": 1468
+  },
+  {
+    "entity": "knee arthritis",
+    "label": "PROBLEM",
+    "start": 1470,
+    "end": 1484
+  },
+  {
+    "entity": "recurrent cellulitis of the lower extremities",
+    "label": "PROBLEM",
+    "start": 1486,
+    "end": 1531
+  },
+  {
+    "entity": "a hysterectomy",
+    "label": "TREATMENT",
+    "start": 1545,
+    "end": 1559
+  },
+  {
+    "entity": "a cholecystectomy",
+    "label": "TREATMENT",
+    "start": 1564,
+    "end": 1581
+  },
+  {
+    "entity": "heart problems",
+    "label": "PROBLEM",
+    "start": 1981,
+    "end": 1995
+  },
+  {
+    "entity": "alcoholism",
+    "label": "PROBLEM",
+    "start": 2000,
+    "end": 2010
+  },
+  {
+    "entity": "leukemia",
+    "label": "PROBLEM",
+    "start": 2050,
+    "end": 2058
+  },
+  {
+    "entity": "leukemia",
+    "label": "PROBLEM",
+    "start": 2097,
+    "end": 2105
+  },
+  {
+    "entity": "ALLERGIES",
+    "label": "PROBLEM",
+    "start": 2107,
+    "end": 2116
+  },
+  {
+    "entity": "ADHESIVE TAPE ALLERGIES",
+    "label": "PROBLEM",
+    "start": 2118,
+    "end": 2141
+  },
+  {
+    "entity": "a nonresolving bilateral lower extremity lymphedema",
+    "label": "PROBLEM",
+    "start": 2203,
+    "end": 2254
+  },
+  {
+    "entity": "any nausea",
+    "label": "PROBLEM",
+    "start": 2352,
+    "end": 2362
+  },
+  {
+    "entity": "vomiting",
+    "label": "PROBLEM",
+    "start": 2364,
+    "end": 2372
+  },
+  {
+    "entity": "diarrhea",
+    "label": "PROBLEM",
+    "start": 2376,
+    "end": 2384
+  },
+  {
+    "entity": "any pain",
+    "label": "PROBLEM",
+    "start": 2397,
+    "end": 2405
+  },
+  {
+    "entity": "tenderness",
+    "label": "PROBLEM",
+    "start": 2407,
+    "end": 2417
+  },
+  {
+    "entity": "increased warmth",
+    "label": "PROBLEM",
+    "start": 2419,
+    "end": 2435
+  },
+  {
+    "entity": "drainage from the lower extremities",
+    "label": "PROBLEM",
+    "start": 2439,
+    "end": 2474
+  },
+  {
+    "entity": "chest pain",
+    "label": "PROBLEM",
+    "start": 2483,
+    "end": 2493
+  },
+  {
+    "entity": "cough",
+    "label": "PROBLEM",
+    "start": 2495,
+    "end": 2500
+  },
+  {
+    "entity": "phlegm production",
+    "label": "PROBLEM",
+    "start": 2504,
+    "end": 2521
+  },
+  {
+    "entity": "any acute hemodynamic distress",
+    "label": "PROBLEM",
+    "start": 2656,
+    "end": 2686
+  },
+  {
+    "entity": "Vital signs",
+    "label": "TEST",
+    "start": 2699,
+    "end": 2710
+  },
+  {
+    "entity": "Her maximum recorded temperature",
+    "label": "TEST",
+    "start": 2712,
+    "end": 2744
+  },
+  {
+    "entity": "pulse",
+    "label": "TEST",
+    "start": 2776,
+    "end": 2781
+  },
+  {
+    "entity": "respiratory rate",
+    "label": "TEST",
+    "start": 2800,
+    "end": 2816
+  },
+  {
+    "entity": "blood pressure",
+    "label": "TEST",
+    "start": 2841,
+    "end": 2855
+  },
+  {
+    "entity": "a recorded weight",
+    "label": "TEST",
+    "start": 2880,
+    "end": 2897
+  },
+  {
+    "entity": "palpable lymphadenopathy",
+    "label": "PROBLEM",
+    "start": 3076,
+    "end": 3100
+  },
+  {
+    "entity": "rate",
+    "label": "TEST",
+    "start": 3133,
+    "end": 3137
+  },
+  {
+    "entity": "rhythm",
+    "label": "TEST",
+    "start": 3142,
+    "end": 3148
+  },
+  {
+    "entity": "any appreciable murmur",
+    "label": "PROBLEM",
+    "start": 3170,
+    "end": 3192
+  },
+  {
+    "entity": "rub",
+    "label": "PROBLEM",
+    "start": 3194,
+    "end": 3197
+  },
+  {
+    "entity": "gallop",
+    "label": "PROBLEM",
+    "start": 3201,
+    "end": 3207
+  },
+  {
+    "entity": "Heart sounds",
+    "label": "TEST",
+    "start": 3209,
+    "end": 3221
+  },
+  {
+    "entity": "auscultation",
+    "label": "TEST",
+    "start": 3288,
+    "end": 3300
+  },
+  {
+    "entity": "percussion",
+    "label": "TEST",
+    "start": 3305,
+    "end": 3315
+  },
+  {
+    "entity": "Morbidly obese",
+    "label": "PROBLEM",
+    "start": 3338,
+    "end": 3352
+  },
+  {
+    "entity": "percussible organomegaly",
+    "label": "PROBLEM",
+    "start": 3397,
+    "end": 3421
+  },
+  {
+    "entity": "lymphedema on the abdominal pannus",
+    "label": "PROBLEM",
+    "start": 3447,
+    "end": 3481
+  },
+  {
+    "entity": "cutaneous candidiasis in the inguinal folds",
+    "label": "PROBLEM",
+    "start": 3507,
+    "end": 3550
+  },
+  {
+    "entity": "palpable lymphadenopathy in the inguinal and femoral areas",
+    "label": "PROBLEM",
+    "start": 3564,
+    "end": 3622
+  },
+  {
+    "entity": "extensive lymphedema",
+    "label": "PROBLEM",
+    "start": 3682,
+    "end": 3702
+  },
+  {
+    "entity": "slight pinkish discoloration of the lower part",
+    "label": "PROBLEM",
+    "start": 3713,
+    "end": 3759
+  },
+  {
+    "entity": "stasis dermatosis",
+    "label": "PROBLEM",
+    "start": 3809,
+    "end": 3826
+  },
+  {
+    "entity": "increased warmth",
+    "label": "PROBLEM",
+    "start": 3840,
+    "end": 3856
+  },
+  {
+    "entity": "tenderness",
+    "label": "PROBLEM",
+    "start": 3860,
+    "end": 3870
+  },
+  {
+    "entity": "skin breakdown",
+    "label": "PROBLEM",
+    "start": 3884,
+    "end": 3898
+  },
+  {
+    "entity": "a stage II chronic ulcer on the lower medial aspect",
+    "label": "PROBLEM",
+    "start": 3906,
+    "end": 3957
+  },
+  {
+    "entity": "minimal serosanguineous drainage",
+    "label": "PROBLEM",
+    "start": 3989,
+    "end": 4021
+  },
+  {
+    "entity": "surrounding erythema",
+    "label": "PROBLEM",
+    "start": 4038,
+    "end": 4058
+  },
+  {
+    "entity": "cellulitis",
+    "label": "PROBLEM",
+    "start": 4118,
+    "end": 4128
+  },
+  {
+    "entity": "wound infection",
+    "label": "PROBLEM",
+    "start": 4132,
+    "end": 4147
+  },
+  {
+    "entity": "cyanosis",
+    "label": "PROBLEM",
+    "start": 4161,
+    "end": 4169
+  },
+  {
+    "entity": "clubbing",
+    "label": "PROBLEM",
+    "start": 4173,
+    "end": 4181
+  },
+  {
+    "entity": "peripheral stigmata",
+    "label": "PROBLEM",
+    "start": 4195,
+    "end": 4214
+  },
+  {
+    "entity": "endocarditis",
+    "label": "PROBLEM",
+    "start": 4218,
+    "end": 4230
+  },
+  {
+    "entity": "focal deficit",
+    "label": "PROBLEM",
+    "start": 4352,
+    "end": 4365
+  },
+  {
+    "entity": "White cell count",
+    "label": "TEST",
+    "start": 4396,
+    "end": 4412
+  },
+  {
+    "entity": "hemoglobin",
+    "label": "TEST",
+    "start": 4421,
+    "end": 4431
+  },
+  {
+    "entity": "hematocrit",
+    "label": "TEST",
+    "start": 4438,
+    "end": 4448
+  },
+  {
+    "entity": "platelet count",
+    "label": "TEST",
+    "start": 4453,
+    "end": 4467
+  },
+  {
+    "entity": "neutrophils",
+    "label": "TEST",
+    "start": 4512,
+    "end": 4523
+  },
+  {
+    "entity": "lymphocytes",
+    "label": "TEST",
+    "start": 4529,
+    "end": 4540
+  },
+  {
+    "entity": "monocytes",
+    "label": "TEST",
+    "start": 4545,
+    "end": 4554
+  },
+  {
+    "entity": "eosinophils",
+    "label": "TEST",
+    "start": 4562,
+    "end": 4573
+  },
+  {
+    "entity": "The basic electrolyte panel",
+    "label": "TEST",
+    "start": 4575,
+    "end": 4602
+  },
+  {
+    "entity": "the renal function",
+    "label": "TEST",
+    "start": 4631,
+    "end": 4649
+  },
+  {
+    "entity": "BUN",
+    "label": "TEST",
+    "start": 4665,
+    "end": 4668
+  },
+  {
+    "entity": "creatinine",
+    "label": "TEST",
+    "start": 4679,
+    "end": 4689
+  },
+  {
+    "entity": "Liver function tests",
+    "label": "TEST",
+    "start": 4698,
+    "end": 4718
+  },
+  {
+    "entity": "The nasal screen",
+    "label": "TEST",
+    "start": 4750,
+    "end": 4766
+  },
+  {
+    "entity": "MRSA",
+    "label": "PROBLEM",
+    "start": 4771,
+    "end": 4775
+  },
+  {
+    "entity": "Urine culture",
+    "label": "TEST",
+    "start": 4789,
+    "end": 4802
+  },
+  {
+    "entity": "Urinalysis",
+    "label": "TEST",
+    "start": 4838,
+    "end": 4848
+  },
+  {
+    "entity": "pyuria",
+    "label": "PROBLEM",
+    "start": 4866,
+    "end": 4872
+  },
+  {
+    "entity": "leucocyte esterase",
+    "label": "PROBLEM",
+    "start": 4874,
+    "end": 4892
+  },
+  {
+    "entity": "nitrites",
+    "label": "PROBLEM",
+    "start": 4898,
+    "end": 4906
+  },
+  {
+    "entity": "multiple medical problems",
+    "label": "PROBLEM",
+    "start": 4965,
+    "end": 4990
+  },
+  {
+    "entity": "morbid obesity",
+    "label": "PROBLEM",
+    "start": 5028,
+    "end": 5042
+  },
+  {
+    "entity": "chronic lower extremity lymphedema",
+    "label": "PROBLEM",
+    "start": 5047,
+    "end": 5081
+  },
+  {
+    "entity": "bilateral lower extremity lymphedema",
+    "label": "PROBLEM",
+    "start": 5120,
+    "end": 5156
+  },
+  {
+    "entity": "active cellulitis",
+    "label": "PROBLEM",
+    "start": 5207,
+    "end": 5224
+  },
+  {
+    "entity": "wound infection",
+    "label": "PROBLEM",
+    "start": 5229,
+    "end": 5244
+  },
+  {
+    "entity": "active cellulitis",
+    "label": "PROBLEM",
+    "start": 5284,
+    "end": 5301
+  },
+  {
+    "entity": "antibiotic therapy",
+    "label": "DRUG",
+    "start": 5313,
+    "end": 5331
+  },
+  {
+    "entity": "lymphedema wraps",
+    "label": "TREATMENT",
+    "start": 5348,
+    "end": 5364
+  },
+  {
+    "entity": "lymphedema wraps",
+    "label": "TREATMENT",
+    "start": 5427,
+    "end": 5443
+  },
+  {
+    "entity": "any cellulitis",
+    "label": "PROBLEM",
+    "start": 5489,
+    "end": 5503
+  },
+  {
+    "entity": "antibiotic therapy",
+    "label": "DRUG",
+    "start": 5522,
+    "end": 5540
+  },
+  {
+    "entity": "Her stage II ulcer on the right leg",
+    "label": "PROBLEM",
+    "start": 5560,
+    "end": 5595
+  },
+  {
+    "entity": "wound care",
+    "label": "TREATMENT",
+    "start": 5654,
+    "end": 5664
+  },
+  {
+    "entity": "lymphedema wraps",
+    "label": "TREATMENT",
+    "start": 5676,
+    "end": 5692
+  },
+  {
+    "entity": "Other medical problems",
+    "label": "PROBLEM",
+    "start": 5694,
+    "end": 5716
+  },
+  {
+    "entity": "lower extremity cellulitis",
+    "label": "PROBLEM",
+    "start": 6209,
+    "end": 6235
+  },
+  {
+    "entity": "lower extremity lymphedema",
+    "label": "PROBLEM",
+    "start": 6237,
+    "end": 6263
+  },
+  {
+    "entity": "active cellulitis",
+    "label": "PROBLEM",
+    "start": 6265,
+    "end": 6282
+  },
+  {
+    "entity": "morbid obesity",
+    "label": "PROBLEM",
+    "start": 6284,
+    "end": 6298
+  },
+  {
+    "entity": "lymphedema wraps",
+    "label": "TREATMENT",
+    "start": 6300,
+    "end": 6316
+  },
+  {
+    "entity": "antibiotic therapy",
+    "label": "DRUG",
+    "start": 6318,
+    "end": 6336
+  },
+  {
+    "entity": "cellulitis",
+    "label": "PROBLEM",
+    "start": 6355,
+    "end": 6365
+  },
+  {
+    "entity": "lymphedema",
+    "label": "PROBLEM",
+    "start": 6367,
+    "end": 6377
+  },
+  {
+    "entity": "antibiotic",
+    "label": "DRUG",
+    "start": 6379,
+    "end": 6389
+  },
+  {
+    "entity": "therapy",
+    "label": "TREATMENT",
+    "start": 6391,
+    "end": 6398
+  }
+]

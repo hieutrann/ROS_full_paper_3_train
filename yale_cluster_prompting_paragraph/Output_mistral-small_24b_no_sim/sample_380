@@ -1,0 +1,230 @@
+[
+  {
+    "Hypertension": "PROBLEM"
+  },
+  {
+    "CVA": "PROBLEM"
+  },
+  {
+    "Compression fracture": "PROBLEM"
+  },
+  {
+    "osteoarthritis": "PROBLEM"
+  },
+  {
+    "knee": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "lightheadedness": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "diarrhea": "PROBLEM"
+  },
+  {
+    "total knee replacement": "TREATMENT"
+  },
+  {
+    "coronary disease": "PROBLEM"
+  },
+  {
+    "stroke risk": "PROBLEM"
+  },
+  {
+    "cardiac disease": "PROBLEM"
+  },
+  {
+    "lipid panel": "TEST"
+  },
+  {
+    "cholesterol": "TEST"
+  },
+  {
+    "triglycerides": "TEST"
+  },
+  {
+    "HDL": "TEST"
+  },
+  {
+    "LDL": "TEST"
+  },
+  {
+    "fasting glucose": "TEST"
+  },
+  {
+    "fasting insulin level": "TEST"
+  },
+  {
+    "diabetes": "PROBLEM"
+  },
+  {
+    "low back pain": "PROBLEM"
+  },
+  {
+    "DEXA scan": "TEST"
+  },
+  {
+    "compression fracture": "PROBLEM"
+  },
+  {
+    "osteoporosis": "PROBLEM"
+  },
+  {
+    "Hydrochlorothiazide": "DRUG"
+  },
+  {
+    "Prozac": "DRUG"
+  },
+  {
+    "Vioxx": "DRUG"
+  },
+  {
+    "vitamin C": "DRUG"
+  },
+  {
+    "vitamin E": "DRUG"
+  },
+  {
+    "calcium": "DRUG"
+  },
+  {
+    "multivitamin": "DRUG"
+  },
+  {
+    "aspirin": "DRUG"
+  },
+  {
+    "Monopril": "DRUG"
+  },
+  {
+    "Celexa": "DRUG"
+  },
+  {
+    "Bactrim": "DRUG"
+  },
+  {
+    "adhesive tape": "DRUG"
+  },
+  {
+    "myofascitis": "PROBLEM"
+  },
+  {
+    "melanoma": "PROBLEM"
+  },
+  {
+    "breast biopsy": "TEST"
+  },
+  {
+    "Holter monitor": "TEST"
+  },
+  {
+    "echocardiogram": "TEST"
+  },
+  {
+    "Vital signs": "TEST"
+  },
+  {
+    "weight": "TEST"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "pulse": "TEST"
+  },
+  {
+    "respirations": "TEST"
+  },
+  {
+    "temperature": "TEST"
+  },
+  {
+    "carotids": "TEST"
+  },
+  {
+    "chest": "TEST"
+  },
+  {
+    "cardiovascular": "TEST"
+  },
+  {
+    "extremities": "TEST"
+  },
+  {
+    "neurologic": "TEST"
+  },
+  {
+    "EKG": "TEST"
+  },
+  {
+    "sinus rhythm": "TEST"
+  },
+  {
+    "AV block": "TEST"
+  },
+  {
+    "R-wave progression": "TEST"
+  },
+  {
+    "C-reactive protein": "TEST"
+  },
+  {
+    "Weight Watchers": "TREATMENT"
+  },
+  {
+    "dietician": "TREATMENT"
+  },
+  {
+    "screening colonoscopy": "TEST"
+  },
+  {
+    "Fosamax": "DRUG"
+  },
+  {
+    "preoperative evaluation": "TREATMENT"
+  },
+  {
+    "cardiologist": "TREATMENT"
+  },
+  {
+    "preoperative cardiac testing": "TEST"
+  },
+  {
+    "preoperative beta-blocker": "DRUG"
+  },
+  {
+    "cardiac protection": "TREATMENT"
+  },
+  {
+    "general medicine": "PROBLEM"
+  },
+  {
+    "progress note": "PROBLEM"
+  },
+  {
+    "followup": "PROBLEM"
+  },
+  {
+    "osteoarthritis of the knee": "PROBLEM"
+  },
+  {
+    "DEXA": "TEST"
+  },
+  {
+    "compression": "PROBLEM"
+  },
+  {
+    "knee": "PROBLEM"
+  }
+]

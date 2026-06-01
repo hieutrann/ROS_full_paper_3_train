@@ -1,0 +1,215 @@
+[
+  {
+    "Laparoscopic cholecystectomy": "TREATMENT"
+  },
+  {
+    "Acute cholecystitis": "PROBLEM"
+  },
+  {
+    "laparoscopic cholecystectomy": "TREATMENT"
+  },
+  {
+    "end-stage renal disease": "PROBLEM"
+  },
+  {
+    "hemodialysis": "TREATMENT"
+  },
+  {
+    "hyperlipidemia": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "congestive heart failure": "PROBLEM"
+  },
+  {
+    "skin lymphoma": "PROBLEM"
+  },
+  {
+    "hypothyroidism": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "end-stage renal disease": "PROBLEM"
+  },
+  {
+    "hyperlipidemia": "PROBLEM"
+  },
+  {
+    "hypothyroidism": "PROBLEM"
+  },
+  {
+    "skin lymphoma": "PROBLEM"
+  },
+  {
+    "epigastric pain": "PROBLEM"
+  },
+  {
+    "right upper quadrant pain": "PROBLEM"
+  },
+  {
+    "mid abdominal pain": "PROBLEM"
+  },
+  {
+    "nauseated feeling": "PROBLEM"
+  },
+  {
+    "temperature": "TEST"
+  },
+  {
+    "pulse": "TEST"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "EKG": "TEST"
+  },
+  {
+    "ultrasound": "TEST"
+  },
+  {
+    "renal cyst": "PROBLEM"
+  },
+  {
+    "gallbladder wall": "PROBLEM"
+  },
+  {
+    "Murphy sign": "TEST"
+  },
+  {
+    "cholecystitis": "PROBLEM"
+  },
+  {
+    "urine": "TEST"
+  },
+  {
+    "glucose": "TEST"
+  },
+  {
+    "nitrite": "TEST"
+  },
+  {
+    "creatinine": "TEST"
+  },
+  {
+    "sodium": "TEST"
+  },
+  {
+    "potassium": "TEST"
+  },
+  {
+    "lipase": "TEST"
+  },
+  {
+    "amylase": "TEST"
+  },
+  {
+    "IV fluid": "TREATMENT"
+  },
+  {
+    "IV antibiotic": "DRUG"
+  },
+  {
+    "2-D echocardiogram": "TEST"
+  },
+  {
+    "EKG": "TEST"
+  },
+  {
+    "CHF": "PROBLEM"
+  },
+  {
+    "blood culture": "TEST"
+  },
+  {
+    "urine culture": "TEST"
+  },
+  {
+    "cholecystectomy": "TREATMENT"
+  },
+  {
+    "dialysis": "TREATMENT"
+  },
+  {
+    "white count": "TEST"
+  },
+  {
+    "afebrile": "TEST"
+  },
+  {
+    "chronic bronchitis": "PROBLEM"
+  },
+  {
+    "Synthroid": "DRUG"
+  },
+  {
+    "Plavix": "DRUG"
+  },
+  {
+    "folic acid": "DRUG"
+  },
+  {
+    "Diovan": "DRUG"
+  },
+  {
+    "Renagel": "DRUG"
+  },
+  {
+    "Lasix": "DRUG"
+  },
+  {
+    "lovastatin": "DRUG"
+  },
+  {
+    "Coreg": "DRUG"
+  },
+  {
+    "nebulizer therapy": "TREATMENT"
+  },
+  {
+    "Phenergan": "DRUG"
+  },
+  {
+    "Pepcid": "DRUG"
+  },
+  {
+    "Vicodin": "DRUG"
+  },
+  {
+    "Levaquin": "DRUG"
+  },
+  {
+    "Premarin": "DRUG"
+  },
+  {
+    "heart disease": "PROBLEM"
+  },
+  {
+    "stroke": "PROBLEM"
+  },
+  {
+    "end-stage renal disease": "PROBLEM"
+  },
+  {
+    "lymphoma": "PROBLEM"
+  },
+  {
+    "cholecystitis": "PROBLEM"
+  },
+  {
+    "congestive heart failure": "PROBLEM"
+  },
+  {
+    "skin lymphoma": "PROBLEM"
+  },
+  {
+    "gallbladder wall": "PROBLEM"
+  },
+  {
+    "laparoscopic cholecystectomy": "TREATMENT"
+  }
+]

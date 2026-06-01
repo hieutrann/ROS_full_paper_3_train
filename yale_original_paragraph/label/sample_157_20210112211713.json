@@ -1,0 +1,842 @@
+[
+  {
+    "entity": "persistent abdominal pain",
+    "label": "PROBLEM",
+    "start": 124,
+    "end": 149
+  },
+  {
+    "entity": "nausea",
+    "label": "PROBLEM",
+    "start": 151,
+    "end": 157
+  },
+  {
+    "entity": "vomiting",
+    "label": "PROBLEM",
+    "start": 162,
+    "end": 170
+  },
+  {
+    "entity": "evaluation",
+    "label": "TEST",
+    "start": 179,
+    "end": 189
+  },
+  {
+    "entity": "a high amylase",
+    "label": "PROBLEM",
+    "start": 231,
+    "end": 245
+  },
+  {
+    "entity": "lipase count",
+    "label": "TEST",
+    "start": 258,
+    "end": 270
+  },
+  {
+    "entity": "acute pancreatitis",
+    "label": "PROBLEM",
+    "start": 315,
+    "end": 333
+  },
+  {
+    "entity": "Abdominal pain",
+    "label": "PROBLEM",
+    "start": 390,
+    "end": 404
+  },
+  {
+    "entity": "persistent abdominal pain",
+    "label": "PROBLEM",
+    "start": 533,
+    "end": 558
+  },
+  {
+    "entity": "nausea",
+    "label": "PROBLEM",
+    "start": 560,
+    "end": 566
+  },
+  {
+    "entity": "vomiting",
+    "label": "PROBLEM",
+    "start": 571,
+    "end": 579
+  },
+  {
+    "entity": "evaluation",
+    "label": "TEST",
+    "start": 631,
+    "end": 641
+  },
+  {
+    "entity": "a high amylase",
+    "label": "PROBLEM",
+    "start": 695,
+    "end": 709
+  },
+  {
+    "entity": "lipase count",
+    "label": "TEST",
+    "start": 721,
+    "end": 733
+  },
+  {
+    "entity": "acute pancreatitis",
+    "label": "PROBLEM",
+    "start": 778,
+    "end": 796
+  },
+  {
+    "entity": "dementia",
+    "label": "PROBLEM",
+    "start": 836,
+    "end": 844
+  },
+  {
+    "entity": "Alzheimer type",
+    "label": "PROBLEM",
+    "start": 848,
+    "end": 862
+  },
+  {
+    "entity": "anxiety",
+    "label": "PROBLEM",
+    "start": 864,
+    "end": 871
+  },
+  {
+    "entity": "osteoarthritis",
+    "label": "PROBLEM",
+    "start": 873,
+    "end": 887
+  },
+  {
+    "entity": "hypertension",
+    "label": "PROBLEM",
+    "start": 893,
+    "end": 905
+  },
+  {
+    "entity": "alprazolam",
+    "label": "DRUG",
+    "start": 975,
+    "end": 985
+  },
+  {
+    "entity": "mirtazapine",
+    "label": "DRUG",
+    "start": 1008,
+    "end": 1019
+  },
+  {
+    "entity": "Aricept",
+    "label": "DRUG",
+    "start": 1038,
+    "end": 1045
+  },
+  {
+    "entity": "Namenda",
+    "label": "DRUG",
+    "start": 1066,
+    "end": 1073
+  },
+  {
+    "entity": "Benicar",
+    "label": "DRUG",
+    "start": 1093,
+    "end": 1100
+  },
+  {
+    "entity": "Claritin",
+    "label": "DRUG",
+    "start": 1123,
+    "end": 1131
+  },
+  {
+    "entity": "moderate-to-severe dementia",
+    "label": "PROBLEM",
+    "start": 1322,
+    "end": 1349
+  },
+  {
+    "entity": "review of systems",
+    "label": "TEST",
+    "start": 1405,
+    "end": 1422
+  },
+  {
+    "entity": "any acute distress",
+    "label": "PROBLEM",
+    "start": 1561,
+    "end": 1579
+  },
+  {
+    "entity": "Temperature",
+    "label": "TEST",
+    "start": 1594,
+    "end": 1605
+  },
+  {
+    "entity": "pulse",
+    "label": "TEST",
+    "start": 1615,
+    "end": 1620
+  },
+  {
+    "entity": "respirations",
+    "label": "TEST",
+    "start": 1625,
+    "end": 1637
+  },
+  {
+    "entity": "blood pressure",
+    "label": "TEST",
+    "start": 1642,
+    "end": 1656
+  },
+  {
+    "entity": "pulse ox",
+    "label": "TEST",
+    "start": 1672,
+    "end": 1680
+  },
+  {
+    "entity": "any pharyngeal inflammation",
+    "label": "PROBLEM",
+    "start": 1812,
+    "end": 1839
+  },
+  {
+    "entity": "exudate",
+    "label": "PROBLEM",
+    "start": 1843,
+    "end": 1850
+  },
+  {
+    "entity": "jugular venous distention",
+    "label": "PROBLEM",
+    "start": 1884,
+    "end": 1909
+  },
+  {
+    "entity": "bruit",
+    "label": "PROBLEM",
+    "start": 1942,
+    "end": 1947
+  },
+  {
+    "entity": "palpable lymph nodes in the neck or the supraclavicular region",
+    "label": "PROBLEM",
+    "start": 2005,
+    "end": 2067
+  },
+  {
+    "entity": "S1",
+    "label": "TEST",
+    "start": 2076,
+    "end": 2078
+  },
+  {
+    "entity": "S2",
+    "label": "TEST",
+    "start": 2083,
+    "end": 2085
+  },
+  {
+    "entity": "murmur",
+    "label": "PROBLEM",
+    "start": 2109,
+    "end": 2115
+  },
+  {
+    "entity": "auscultation",
+    "label": "TEST",
+    "start": 2145,
+    "end": 2157
+  },
+  {
+    "entity": "rebound",
+    "label": "PROBLEM",
+    "start": 2195,
+    "end": 2202
+  },
+  {
+    "entity": "rigidity",
+    "label": "PROBLEM",
+    "start": 2206,
+    "end": 2214
+  },
+  {
+    "entity": "Bowel sounds",
+    "label": "TEST",
+    "start": 2216,
+    "end": 2228
+  },
+  {
+    "entity": "tenderness",
+    "label": "PROBLEM",
+    "start": 2252,
+    "end": 2262
+  },
+  {
+    "entity": "any pedal edema",
+    "label": "PROBLEM",
+    "start": 2321,
+    "end": 2336
+  },
+  {
+    "entity": "dorsalis pedis pulsations",
+    "label": "TEST",
+    "start": 2345,
+    "end": 2370
+  },
+  {
+    "entity": "any decubitus",
+    "label": "PROBLEM",
+    "start": 2433,
+    "end": 2446
+  },
+  {
+    "entity": "skin changes on her back",
+    "label": "PROBLEM",
+    "start": 2450,
+    "end": 2474
+  },
+  {
+    "entity": "WBC",
+    "label": "TEST",
+    "start": 2512,
+    "end": 2515
+  },
+  {
+    "entity": "hemoglobin",
+    "label": "TEST",
+    "start": 2525,
+    "end": 2535
+  },
+  {
+    "entity": "hematocrit",
+    "label": "TEST",
+    "start": 2540,
+    "end": 2550
+  },
+  {
+    "entity": "MCV",
+    "label": "TEST",
+    "start": 2566,
+    "end": 2569
+  },
+  {
+    "entity": "platelet count",
+    "label": "TEST",
+    "start": 2580,
+    "end": 2594
+  },
+  {
+    "entity": "PT",
+    "label": "TEST",
+    "start": 2607,
+    "end": 2609
+  },
+  {
+    "entity": "INR",
+    "label": "TEST",
+    "start": 2616,
+    "end": 2619
+  },
+  {
+    "entity": "PTT",
+    "label": "TEST",
+    "start": 2625,
+    "end": 2628
+  },
+  {
+    "entity": "Urinalysis",
+    "label": "TEST",
+    "start": 2636,
+    "end": 2646
+  },
+  {
+    "entity": "nitrite",
+    "label": "TEST",
+    "start": 2661,
+    "end": 2668
+  },
+  {
+    "entity": "wbc's",
+    "label": "TEST",
+    "start": 2678,
+    "end": 2683
+  },
+  {
+    "entity": "bacteria",
+    "label": "TEST",
+    "start": 2692,
+    "end": 2700
+  },
+  {
+    "entity": "Sodium",
+    "label": "TEST",
+    "start": 2702,
+    "end": 2708
+  },
+  {
+    "entity": "potassium",
+    "label": "TEST",
+    "start": 2714,
+    "end": 2723
+  },
+  {
+    "entity": "chloride",
+    "label": "TEST",
+    "start": 2729,
+    "end": 2737
+  },
+  {
+    "entity": "bicarbonate",
+    "label": "TEST",
+    "start": 2742,
+    "end": 2753
+  },
+  {
+    "entity": "calcium",
+    "label": "TEST",
+    "start": 2758,
+    "end": 2765
+  },
+  {
+    "entity": "BUN",
+    "label": "TEST",
+    "start": 2771,
+    "end": 2774
+  },
+  {
+    "entity": "creatinine",
+    "label": "TEST",
+    "start": 2779,
+    "end": 2789
+  },
+  {
+    "entity": "albumin",
+    "label": "TEST",
+    "start": 2795,
+    "end": 2802
+  },
+  {
+    "entity": "alkaline phosphatase",
+    "label": "TEST",
+    "start": 2811,
+    "end": 2831
+  },
+  {
+    "entity": "ALT",
+    "label": "TEST",
+    "start": 2837,
+    "end": 2840
+  },
+  {
+    "entity": "AST",
+    "label": "TEST",
+    "start": 2846,
+    "end": 2849
+  },
+  {
+    "entity": "amylase",
+    "label": "TEST",
+    "start": 2855,
+    "end": 2862
+  },
+  {
+    "entity": "lipase",
+    "label": "TEST",
+    "start": 2873,
+    "end": 2879
+  },
+  {
+    "entity": "X-ray of abdomen",
+    "label": "TEST",
+    "start": 2891,
+    "end": 2907
+  },
+  {
+    "entity": "splenic granulomas",
+    "label": "PROBLEM",
+    "start": 2955,
+    "end": 2973
+  },
+  {
+    "entity": "degenerative spine",
+    "label": "PROBLEM",
+    "start": 2978,
+    "end": 2996
+  },
+  {
+    "entity": "CT of the abdomen",
+    "label": "TEST",
+    "start": 3006,
+    "end": 3023
+  },
+  {
+    "entity": "acute pancreatitis",
+    "label": "PROBLEM",
+    "start": 3033,
+    "end": 3051
+  },
+  {
+    "entity": "cardiomegaly",
+    "label": "PROBLEM",
+    "start": 3053,
+    "end": 3065
+  },
+  {
+    "entity": "right lung base atelectasis",
+    "label": "PROBLEM",
+    "start": 3071,
+    "end": 3098
+  },
+  {
+    "entity": "Ultrasound of the abdomen",
+    "label": "TEST",
+    "start": 3100,
+    "end": 3125
+  },
+  {
+    "entity": "echogenic liver",
+    "label": "PROBLEM",
+    "start": 3135,
+    "end": 3150
+  },
+  {
+    "entity": "fatty infiltration",
+    "label": "PROBLEM",
+    "start": 3156,
+    "end": 3174
+  },
+  {
+    "entity": "Repeat CBC",
+    "label": "TEST",
+    "start": 3176,
+    "end": 3186
+  },
+  {
+    "entity": "white count",
+    "label": "TEST",
+    "start": 3205,
+    "end": 3216
+  },
+  {
+    "entity": "hemoglobin",
+    "label": "TEST",
+    "start": 3229,
+    "end": 3239
+  },
+  {
+    "entity": "hematocrit",
+    "label": "TEST",
+    "start": 3244,
+    "end": 3254
+  },
+  {
+    "entity": "platelet count",
+    "label": "TEST",
+    "start": 3270,
+    "end": 3284
+  },
+  {
+    "entity": "segments",
+    "label": "TEST",
+    "start": 3300,
+    "end": 3308
+  },
+  {
+    "entity": "bands",
+    "label": "TEST",
+    "start": 3316,
+    "end": 3321
+  },
+  {
+    "entity": "Sodium",
+    "label": "TEST",
+    "start": 3323,
+    "end": 3329
+  },
+  {
+    "entity": "potassium",
+    "label": "TEST",
+    "start": 3335,
+    "end": 3344
+  },
+  {
+    "entity": "chloride",
+    "label": "TEST",
+    "start": 3350,
+    "end": 3358
+  },
+  {
+    "entity": "bicarbonate",
+    "label": "TEST",
+    "start": 3363,
+    "end": 3374
+  },
+  {
+    "entity": "glucose",
+    "label": "TEST",
+    "start": 3379,
+    "end": 3386
+  },
+  {
+    "entity": "ALT",
+    "label": "TEST",
+    "start": 3392,
+    "end": 3395
+  },
+  {
+    "entity": "AST",
+    "label": "TEST",
+    "start": 3401,
+    "end": 3404
+  },
+  {
+    "entity": "amylase",
+    "label": "TEST",
+    "start": 3410,
+    "end": 3417
+  },
+  {
+    "entity": "lipase",
+    "label": "TEST",
+    "start": 3427,
+    "end": 3433
+  },
+  {
+    "entity": "The cultures",
+    "label": "TEST",
+    "start": 3440,
+    "end": 3452
+  },
+  {
+    "entity": "EKG",
+    "label": "TEST",
+    "start": 3479,
+    "end": 3482
+  },
+  {
+    "entity": "sinus rhythm",
+    "label": "PROBLEM",
+    "start": 3489,
+    "end": 3501
+  },
+  {
+    "entity": "rate",
+    "label": "TEST",
+    "start": 3503,
+    "end": 3507
+  },
+  {
+    "entity": "90 per minute",
+    "label": "PROBLEM",
+    "start": 3514,
+    "end": 3527
+  },
+  {
+    "entity": "multiple ventricular premature complexes",
+    "label": "PROBLEM",
+    "start": 3529,
+    "end": 3569
+  },
+  {
+    "entity": "Troponin",
+    "label": "TEST",
+    "start": 3581,
+    "end": 3589
+  },
+  {
+    "entity": "myoglobin",
+    "label": "TEST",
+    "start": 3600,
+    "end": 3609
+  },
+  {
+    "entity": "Acute pancreatitis",
+    "label": "PROBLEM",
+    "start": 3634,
+    "end": 3652
+  },
+  {
+    "entity": "Leukocytosis",
+    "label": "PROBLEM",
+    "start": 3657,
+    "end": 3669
+  },
+  {
+    "entity": "Urinary tract infection",
+    "label": "PROBLEM",
+    "start": 3674,
+    "end": 3697
+  },
+  {
+    "entity": "Hyponatremia",
+    "label": "PROBLEM",
+    "start": 3702,
+    "end": 3714
+  },
+  {
+    "entity": "Dementia",
+    "label": "PROBLEM",
+    "start": 3719,
+    "end": 3727
+  },
+  {
+    "entity": "Anxiety",
+    "label": "PROBLEM",
+    "start": 3732,
+    "end": 3739
+  },
+  {
+    "entity": "hypertension",
+    "label": "PROBLEM",
+    "start": 3755,
+    "end": 3767
+  },
+  {
+    "entity": "Abnormal electrocardiogram",
+    "label": "PROBLEM",
+    "start": 3772,
+    "end": 3798
+  },
+  {
+    "entity": "Osteoarthrosis",
+    "label": "PROBLEM",
+    "start": 3803,
+    "end": 3817
+  },
+  {
+    "entity": "antibiotics",
+    "label": "DRUG",
+    "start": 3869,
+    "end": 3880
+  },
+  {
+    "entity": "IV fluids",
+    "label": "TREATMENT",
+    "start": 3882,
+    "end": 3891
+  },
+  {
+    "entity": "medications",
+    "label": "DRUG",
+    "start": 3903,
+    "end": 3914
+  },
+  {
+    "entity": "GI consult",
+    "label": "TREATMENT",
+    "start": 3916,
+    "end": 3926
+  },
+  {
+    "entity": "pain control",
+    "label": "TREATMENT",
+    "start": 3928,
+    "end": 3940
+  },
+  {
+    "entity": "Zofran",
+    "label": "DRUG",
+    "start": 3942,
+    "end": 3948
+  },
+  {
+    "entity": "bedrest",
+    "label": "TREATMENT",
+    "start": 3960,
+    "end": 3967
+  },
+  {
+    "entity": "DVT prophylaxis",
+    "label": "TREATMENT",
+    "start": 3969,
+    "end": 3984
+  },
+  {
+    "entity": "blood and urine cultures",
+    "label": "TEST",
+    "start": 3992,
+    "end": 4016
+  },
+  {
+    "entity": "leukocytosis",
+    "label": "PROBLEM",
+    "start": 4107,
+    "end": 4119
+  },
+  {
+    "entity": "abdominal pain",
+    "label": "PROBLEM",
+    "start": 4121,
+    "end": 4135
+  },
+  {
+    "entity": "lipase count",
+    "label": "TEST",
+    "start": 4137,
+    "end": 4149
+  },
+  {
+    "entity": "platelet count",
+    "label": "TEST",
+    "start": 4151,
+    "end": 4165
+  },
+  {
+    "entity": "potassium chloride",
+    "label": "TEST",
+    "start": 4167,
+    "end": 4185
+  },
+  {
+    "entity": "acute pancreatitis",
+    "label": "PROBLEM",
+    "start": 4187,
+    "end": 4205
+  },
+  {
+    "entity": "vomiting",
+    "label": "PROBLEM",
+    "start": 4207,
+    "end": 4215
+  },
+  {
+    "entity": "dementia",
+    "label": "PROBLEM",
+    "start": 4228,
+    "end": 4236
+  },
+  {
+    "entity": "amylase",
+    "label": "TEST",
+    "start": 4238,
+    "end": 4245
+  },
+  {
+    "entity": "lipase",
+    "label": "TEST",
+    "start": 4247,
+    "end": 4253
+  },
+  {
+    "entity": "pancreatitis",
+    "label": "PROBLEM",
+    "start": 4255,
+    "end": 4267
+  },
+  {
+    "entity": "nausea",
+    "label": "PROBLEM",
+    "start": 4269,
+    "end": 4275
+  }
+]

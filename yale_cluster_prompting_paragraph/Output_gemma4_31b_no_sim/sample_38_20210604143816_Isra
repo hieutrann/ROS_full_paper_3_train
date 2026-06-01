@@ -1,0 +1,200 @@
+[
+  {
+    "Gastroenteritis": "PROBLEM"
+  },
+  {
+    "autism": "PROBLEM"
+  },
+  {
+    "constipation": "PROBLEM"
+  },
+  {
+    "MiraLax": "DRUG"
+  },
+  {
+    "constipation": "PROBLEM"
+  },
+  {
+    "Gastroenteritis": "PROBLEM"
+  },
+  {
+    "Autism": "PROBLEM"
+  },
+  {
+    "Adderall": "DRUG"
+  },
+  {
+    "clonidine": "DRUG"
+  },
+  {
+    "attention deficit hyperactivity disorder": "PROBLEM"
+  },
+  {
+    "autism": "PROBLEM"
+  },
+  {
+    "Adderall": "DRUG"
+  },
+  {
+    "clonidine": "DRUG"
+  },
+  {
+    "hyperactivity": "PROBLEM"
+  },
+  {
+    "constipation": "PROBLEM"
+  },
+  {
+    "MiraLax": "DRUG"
+  },
+  {
+    "constipation": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "diarrhea": "PROBLEM"
+  },
+  {
+    "persistent vomiting": "PROBLEM"
+  },
+  {
+    "weight loss": "PROBLEM"
+  },
+  {
+    "autistic spectrum disorder": "PROBLEM"
+  },
+  {
+    "sedimentation rate": "TEST"
+  },
+  {
+    "magnesium level": "TEST"
+  },
+  {
+    "TSH": "TEST"
+  },
+  {
+    "free T4": "TEST"
+  },
+  {
+    "Chest x-ray": "TEST"
+  },
+  {
+    "abdominal films": "TEST"
+  },
+  {
+    "Hemoglobin": "TEST"
+  },
+  {
+    "hematocrit": "TEST"
+  },
+  {
+    "platelet count": "TEST"
+  },
+  {
+    "white blood count": "TEST"
+  },
+  {
+    "Urinalysis": "TEST"
+  },
+  {
+    "ketones": "TEST"
+  },
+  {
+    "Specific gravity": "TEST"
+  },
+  {
+    "protein": "TEST"
+  },
+  {
+    "Sodium": "TEST"
+  },
+  {
+    "potassium": "TEST"
+  },
+  {
+    "chloride": "TEST"
+  },
+  {
+    "CO2": "TEST"
+  },
+  {
+    "BUN": "TEST"
+  },
+  {
+    "creatinine": "TEST"
+  },
+  {
+    "anion gap": "TEST"
+  },
+  {
+    "glucose": "TEST"
+  },
+  {
+    "total protein": "TEST"
+  },
+  {
+    "albumin": "TEST"
+  },
+  {
+    "calcium": "TEST"
+  },
+  {
+    "bilirubin": "TEST"
+  },
+  {
+    "AST": "TEST"
+  },
+  {
+    "ALT": "TEST"
+  },
+  {
+    "alkaline phosphatase": "TEST"
+  },
+  {
+    "Thyroid peroxidase antibody studies": "TEST"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "Adderall": "DRUG"
+  },
+  {
+    "weight loss": "PROBLEM"
+  },
+  {
+    "free T4": "TEST"
+  },
+  {
+    "Graves disease": "PROBLEM"
+  },
+  {
+    "gastroenteritis": "PROBLEM"
+  },
+  {
+    "autism": "PROBLEM"
+  },
+  {
+    "constipation": "PROBLEM"
+  },
+  {
+    "hyperactivity": "PROBLEM"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "weight loss": "PROBLEM"
+  },
+  {
+    "adderall": "DRUG"
+  }
+]

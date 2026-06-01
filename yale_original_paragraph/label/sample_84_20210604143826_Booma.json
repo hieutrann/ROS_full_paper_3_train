@@ -1,0 +1,272 @@
+[
+  {
+    "entity": "vaginal delivery",
+    "label": "TREATMENT",
+    "start": 146,
+    "end": 162
+  },
+  {
+    "entity": "C-sections",
+    "label": "TREATMENT",
+    "start": 248,
+    "end": 258
+  },
+  {
+    "entity": "vaginal delivery",
+    "label": "TREATMENT",
+    "start": 357,
+    "end": 373
+  },
+  {
+    "entity": "C-sections",
+    "label": "TREATMENT",
+    "start": 459,
+    "end": 469
+  },
+  {
+    "entity": "ampicillin",
+    "label": "DRUG",
+    "start": 524,
+    "end": 534
+  },
+  {
+    "entity": "preterm contractions",
+    "label": "PROBLEM",
+    "start": 583,
+    "end": 603
+  },
+  {
+    "entity": "progressive active labor",
+    "label": "PROBLEM",
+    "start": 610,
+    "end": 634
+  },
+  {
+    "entity": "terbutaline",
+    "label": "DRUG",
+    "start": 651,
+    "end": 662
+  },
+  {
+    "entity": "magnesium sulfate",
+    "label": "DRUG",
+    "start": 667,
+    "end": 684
+  },
+  {
+    "entity": "Apgar scores",
+    "label": "TEST",
+    "start": 705,
+    "end": 717
+  },
+  {
+    "entity": "Nuchal cord",
+    "label": "PROBLEM",
+    "start": 761,
+    "end": 772
+  },
+  {
+    "entity": "Prenatal labs",
+    "label": "TEST",
+    "start": 805,
+    "end": 818
+  },
+  {
+    "entity": "antibody",
+    "label": "TEST",
+    "start": 836,
+    "end": 844
+  },
+  {
+    "entity": "rubella",
+    "label": "PROBLEM",
+    "start": 855,
+    "end": 862
+  },
+  {
+    "entity": "RPR",
+    "label": "TEST",
+    "start": 871,
+    "end": 874
+  },
+  {
+    "entity": "prematurity",
+    "label": "PROBLEM",
+    "start": 976,
+    "end": 987
+  },
+  {
+    "entity": "sepsis",
+    "label": "PROBLEM",
+    "start": 1004,
+    "end": 1010
+  },
+  {
+    "entity": "mild retractions",
+    "label": "PROBLEM",
+    "start": 1061,
+    "end": 1077
+  },
+  {
+    "entity": "CBC",
+    "label": "TEST",
+    "start": 1079,
+    "end": 1082
+  },
+  {
+    "entity": "CRP",
+    "label": "TEST",
+    "start": 1084,
+    "end": 1087
+  },
+  {
+    "entity": "blood cultures",
+    "label": "TEST",
+    "start": 1089,
+    "end": 1103
+  },
+  {
+    "entity": "IV fluids",
+    "label": "TREATMENT",
+    "start": 1115,
+    "end": 1124
+  },
+  {
+    "entity": "D10",
+    "label": "DRUG",
+    "start": 1128,
+    "end": 1131
+  },
+  {
+    "entity": "Ampicillin",
+    "label": "DRUG",
+    "start": 1159,
+    "end": 1169
+  },
+  {
+    "entity": "gentamicin",
+    "label": "DRUG",
+    "start": 1174,
+    "end": 1184
+  },
+  {
+    "entity": "feeding issues",
+    "label": "PROBLEM",
+    "start": 1281,
+    "end": 1295
+  },
+  {
+    "entity": "EBM 22",
+    "label": "TREATMENT",
+    "start": 1310,
+    "end": 1316
+  },
+  {
+    "entity": "NeoSure",
+    "label": "TREATMENT",
+    "start": 1321,
+    "end": 1328
+  },
+  {
+    "entity": "Ampicillin",
+    "label": "DRUG",
+    "start": 1337,
+    "end": 1347
+  },
+  {
+    "entity": "gentamicin",
+    "label": "DRUG",
+    "start": 1352,
+    "end": 1362
+  },
+  {
+    "entity": "blood cultures",
+    "label": "TEST",
+    "start": 1415,
+    "end": 1429
+  },
+  {
+    "entity": "feeding issues",
+    "label": "PROBLEM",
+    "start": 1489,
+    "end": 1503
+  },
+  {
+    "entity": "not suck properly",
+    "label": "PROBLEM",
+    "start": 1510,
+    "end": 1527
+  },
+  {
+    "entity": "OG tube",
+    "label": "TREATMENT",
+    "start": 1562,
+    "end": 1569
+  },
+  {
+    "entity": "EBM 22",
+    "label": "TREATMENT",
+    "start": 1713,
+    "end": 1719
+  },
+  {
+    "entity": "NeoSure",
+    "label": "TREATMENT",
+    "start": 1724,
+    "end": 1731
+  },
+  {
+    "entity": "ad lib feeds",
+    "label": "TREATMENT",
+    "start": 1888,
+    "end": 1900
+  },
+  {
+    "entity": "Respiratory distress",
+    "label": "PROBLEM",
+    "start": 1942,
+    "end": 1962
+  },
+  {
+    "entity": "sepsis",
+    "label": "PROBLEM",
+    "start": 1973,
+    "end": 1979
+  },
+  {
+    "entity": "prematurity",
+    "label": "PROBLEM",
+    "start": 1984,
+    "end": 1995
+  },
+  {
+    "entity": "NeoSure",
+    "label": "TREATMENT",
+    "start": 2288,
+    "end": 2295
+  },
+  {
+    "entity": "Ad lib feeding",
+    "label": "TREATMENT",
+    "start": 2320,
+    "end": 2334
+  },
+  {
+    "entity": "prematurity",
+    "label": "PROBLEM",
+    "start": 2395,
+    "end": 2406
+  },
+  {
+    "entity": "sepsis",
+    "label": "PROBLEM",
+    "start": 2408,
+    "end": 2414
+  },
+  {
+    "entity": "neosure",
+    "label": "TREATMENT",
+    "start": 2416,
+    "end": 2423
+  }
+]

@@ -1,0 +1,446 @@
+[
+  {
+    "entity": "Multiple Trauma",
+    "label": "PROBLEM",
+    "start": 84,
+    "end": 99
+  },
+  {
+    "entity": "multiple trauma",
+    "label": "PROBLEM",
+    "start": 126,
+    "end": 141
+  },
+  {
+    "entity": "an motor vehicle accident",
+    "label": "PROBLEM",
+    "start": 147,
+    "end": 172
+  },
+  {
+    "entity": "multiple trauma",
+    "label": "PROBLEM",
+    "start": 246,
+    "end": 261
+  },
+  {
+    "entity": "an motor vehicle accident",
+    "label": "PROBLEM",
+    "start": 267,
+    "end": 292
+  },
+  {
+    "entity": "surgery",
+    "label": "TREATMENT",
+    "start": 338,
+    "end": 345
+  },
+  {
+    "entity": "injury",
+    "label": "PROBLEM",
+    "start": 350,
+    "end": 356
+  },
+  {
+    "entity": "trauma",
+    "label": "PROBLEM",
+    "start": 361,
+    "end": 367
+  },
+  {
+    "entity": "Decubitus ulcer",
+    "label": "PROBLEM",
+    "start": 372,
+    "end": 387
+  },
+  {
+    "entity": "Alcohol induced persisting dementia",
+    "label": "PROBLEM",
+    "start": 404,
+    "end": 439
+  },
+  {
+    "entity": "Anemia",
+    "label": "PROBLEM",
+    "start": 444,
+    "end": 450
+  },
+  {
+    "entity": "Hypokalemia",
+    "label": "PROBLEM",
+    "start": 455,
+    "end": 466
+  },
+  {
+    "entity": "traumatic fracture",
+    "label": "PROBLEM",
+    "start": 489,
+    "end": 507
+  },
+  {
+    "entity": "Alcohol abuse",
+    "label": "PROBLEM",
+    "start": 529,
+    "end": 542
+  },
+  {
+    "entity": "traumatic lower leg fracture",
+    "label": "PROBLEM",
+    "start": 590,
+    "end": 618
+  },
+  {
+    "entity": "Open wound",
+    "label": "PROBLEM",
+    "start": 623,
+    "end": 633
+  },
+  {
+    "entity": "Cervical disk displacement",
+    "label": "PROBLEM",
+    "start": 652,
+    "end": 678
+  },
+  {
+    "entity": "myelopathy",
+    "label": "PROBLEM",
+    "start": 684,
+    "end": 694
+  },
+  {
+    "entity": "Episodic mood disorder",
+    "label": "PROBLEM",
+    "start": 700,
+    "end": 722
+  },
+  {
+    "entity": "Anxiety disorder",
+    "label": "PROBLEM",
+    "start": 728,
+    "end": 744
+  },
+  {
+    "entity": "Nervousness",
+    "label": "PROBLEM",
+    "start": 750,
+    "end": 761
+  },
+  {
+    "entity": "Psychosis",
+    "label": "PROBLEM",
+    "start": 767,
+    "end": 776
+  },
+  {
+    "entity": "Generalized pain",
+    "label": "PROBLEM",
+    "start": 782,
+    "end": 798
+  },
+  {
+    "entity": "Insomnia",
+    "label": "PROBLEM",
+    "start": 804,
+    "end": 812
+  },
+  {
+    "entity": "Pain in joint pelvic region/thigh",
+    "label": "PROBLEM",
+    "start": 818,
+    "end": 851
+  },
+  {
+    "entity": "Motor vehicle traffic accident",
+    "label": "PROBLEM",
+    "start": 857,
+    "end": 887
+  },
+  {
+    "entity": "multiple fractures",
+    "label": "PROBLEM",
+    "start": 1133,
+    "end": 1151
+  },
+  {
+    "entity": "motor vehicle accident",
+    "label": "PROBLEM",
+    "start": 1160,
+    "end": 1182
+  },
+  {
+    "entity": "a left tibial plateau fracture",
+    "label": "PROBLEM",
+    "start": 1191,
+    "end": 1221
+  },
+  {
+    "entity": "right forearm fracture",
+    "label": "PROBLEM",
+    "start": 1223,
+    "end": 1245
+  },
+  {
+    "entity": "ORIF",
+    "label": "TREATMENT",
+    "start": 1251,
+    "end": 1255
+  },
+  {
+    "entity": "head laceration",
+    "label": "PROBLEM",
+    "start": 1257,
+    "end": 1272
+  },
+  {
+    "entity": "head injury",
+    "label": "PROBLEM",
+    "start": 1305,
+    "end": 1316
+  },
+  {
+    "entity": "ORIF",
+    "label": "TREATMENT",
+    "start": 1387,
+    "end": 1391
+  },
+  {
+    "entity": "a brace",
+    "label": "TREATMENT",
+    "start": 1422,
+    "end": 1429
+  },
+  {
+    "entity": "his left tibial plateau fracture",
+    "label": "PROBLEM",
+    "start": 1457,
+    "end": 1489
+  },
+  {
+    "entity": "rehab",
+    "label": "TREATMENT",
+    "start": 1542,
+    "end": 1547
+  },
+  {
+    "entity": "some acute psychosis",
+    "label": "PROBLEM",
+    "start": 1571,
+    "end": 1591
+  },
+  {
+    "entity": "thought problems",
+    "label": "PROBLEM",
+    "start": 1596,
+    "end": 1612
+  },
+  {
+    "entity": "a small sacral decubitus ulcer",
+    "label": "PROBLEM",
+    "start": 1710,
+    "end": 1740
+  },
+  {
+    "entity": "some anemia",
+    "label": "PROBLEM",
+    "start": 1830,
+    "end": 1841
+  },
+  {
+    "entity": "iron treatment",
+    "label": "DRUG",
+    "start": 1967,
+    "end": 1981
+  },
+  {
+    "entity": "therapy",
+    "label": "TREATMENT",
+    "start": 2061,
+    "end": 2068
+  },
+  {
+    "entity": "His confusion",
+    "label": "PROBLEM",
+    "start": 2070,
+    "end": 2083
+  },
+  {
+    "entity": "insomnia",
+    "label": "PROBLEM",
+    "start": 2134,
+    "end": 2142
+  },
+  {
+    "entity": "Seroquel",
+    "label": "DRUG",
+    "start": 2161,
+    "end": 2169
+  },
+  {
+    "entity": "Ativan",
+    "label": "DRUG",
+    "start": 2271,
+    "end": 2277
+  },
+  {
+    "entity": "agitation",
+    "label": "PROBLEM",
+    "start": 2282,
+    "end": 2291
+  },
+  {
+    "entity": "pain medications",
+    "label": "DRUG",
+    "start": 2311,
+    "end": 2327
+  },
+  {
+    "entity": "His medications",
+    "label": "DRUG",
+    "start": 2346,
+    "end": 2361
+  },
+  {
+    "entity": "his right leg brace",
+    "label": "TREATMENT",
+    "start": 2733,
+    "end": 2752
+  },
+  {
+    "entity": "therapy",
+    "label": "TREATMENT",
+    "start": 2794,
+    "end": 2801
+  },
+  {
+    "entity": "therapy",
+    "label": "TREATMENT",
+    "start": 2874,
+    "end": 2881
+  },
+  {
+    "entity": "outpatient therapy",
+    "label": "TREATMENT",
+    "start": 2948,
+    "end": 2966
+  },
+  {
+    "entity": "any signs of agitation",
+    "label": "PROBLEM",
+    "start": 3371,
+    "end": 3393
+  },
+  {
+    "entity": "confusion",
+    "label": "PROBLEM",
+    "start": 3397,
+    "end": 3406
+  },
+  {
+    "entity": "His anemia",
+    "label": "PROBLEM",
+    "start": 3449,
+    "end": 3459
+  },
+  {
+    "entity": "Calcium with vitamin D",
+    "label": "DRUG",
+    "start": 3559,
+    "end": 3581
+  },
+  {
+    "entity": "Ferrous sulfate",
+    "label": "DRUG",
+    "start": 3607,
+    "end": 3622
+  },
+  {
+    "entity": "Multivitamin",
+    "label": "DRUG",
+    "start": 3640,
+    "end": 3652
+  },
+  {
+    "entity": "nicotine",
+    "label": "DRUG",
+    "start": 3675,
+    "end": 3683
+  },
+  {
+    "entity": "Seroquel",
+    "label": "DRUG",
+    "start": 3722,
+    "end": 3730
+  },
+  {
+    "entity": "Xenaderm",
+    "label": "DRUG",
+    "start": 3762,
+    "end": 3770
+  },
+  {
+    "entity": "his sacral pressure ulcer",
+    "label": "PROBLEM",
+    "start": 3775,
+    "end": 3800
+  },
+  {
+    "entity": "Vicodin",
+    "label": "DRUG",
+    "start": 3815,
+    "end": 3822
+  },
+  {
+    "entity": "pain",
+    "label": "PROBLEM",
+    "start": 3834,
+    "end": 3838
+  },
+  {
+    "entity": "Ativan",
+    "label": "DRUG",
+    "start": 3843,
+    "end": 3849
+  },
+  {
+    "entity": "anxiety",
+    "label": "PROBLEM",
+    "start": 3866,
+    "end": 3873
+  },
+  {
+    "entity": "injury",
+    "label": "PROBLEM",
+    "start": 4059,
+    "end": 4065
+  },
+  {
+    "entity": "trauma",
+    "label": "PROBLEM",
+    "start": 4067,
+    "end": 4073
+  },
+  {
+    "entity": "multiple trauma",
+    "label": "PROBLEM",
+    "start": 4075,
+    "end": 4090
+  },
+  {
+    "entity": "motor vehicle accident",
+    "label": "PROBLEM",
+    "start": 4092,
+    "end": 4114
+  },
+  {
+    "entity": "decubitus ulcer",
+    "label": "PROBLEM",
+    "start": 4116,
+    "end": 4131
+  },
+  {
+    "entity": "vehicle accident",
+    "label": "PROBLEM",
+    "start": 4133,
+    "end": 4149
+  }
+]

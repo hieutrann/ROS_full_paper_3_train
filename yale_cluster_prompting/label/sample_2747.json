@@ -1,0 +1,398 @@
+[
+  {
+    "entity": "Cut on Foot",
+    "label": "PROBLEM",
+    "start": 63,
+    "end": 74
+  },
+  {
+    "entity": "a piece of glass fall on to his right foot",
+    "label": "PROBLEM",
+    "start": 111,
+    "end": 153
+  },
+  {
+    "entity": "A 4-mm laceration",
+    "label": "PROBLEM",
+    "start": 155,
+    "end": 172
+  },
+  {
+    "entity": "Acute foot pain",
+    "label": "PROBLEM",
+    "start": 174,
+    "end": 189
+  },
+  {
+    "entity": "wound care",
+    "label": "TREATMENT",
+    "start": 253,
+    "end": 263
+  },
+  {
+    "entity": "Cut on foot",
+    "label": "PROBLEM",
+    "start": 320,
+    "end": 331
+  },
+  {
+    "entity": "a piece of glass fall on to his right foot",
+    "label": "PROBLEM",
+    "start": 396,
+    "end": 438
+  },
+  {
+    "entity": "the amount of bleeding",
+    "label": "PROBLEM",
+    "start": 483,
+    "end": 505
+  },
+  {
+    "entity": "The bleeding",
+    "label": "PROBLEM",
+    "start": 529,
+    "end": 541
+  },
+  {
+    "entity": "any pain",
+    "label": "PROBLEM",
+    "start": 589,
+    "end": 597
+  },
+  {
+    "entity": "numbness",
+    "label": "PROBLEM",
+    "start": 651,
+    "end": 659
+  },
+  {
+    "entity": "weakness",
+    "label": "PROBLEM",
+    "start": 663,
+    "end": 671
+  },
+  {
+    "entity": "any discomfort",
+    "label": "PROBLEM",
+    "start": 718,
+    "end": 732
+  },
+  {
+    "entity": "any injuries to any other portion of his body",
+    "label": "PROBLEM",
+    "start": 753,
+    "end": 798
+  },
+  {
+    "entity": "any recent illness",
+    "label": "PROBLEM",
+    "start": 815,
+    "end": 833
+  },
+  {
+    "entity": "other problems",
+    "label": "PROBLEM",
+    "start": 854,
+    "end": 868
+  },
+  {
+    "entity": "complaints",
+    "label": "PROBLEM",
+    "start": 872,
+    "end": 882
+  },
+  {
+    "entity": "Asthma",
+    "label": "PROBLEM",
+    "start": 906,
+    "end": 912
+  },
+  {
+    "entity": "CURRENT MEDICATION",
+    "label": "DRUG",
+    "start": 914,
+    "end": 932
+  },
+  {
+    "entity": "Albuterol",
+    "label": "DRUG",
+    "start": 934,
+    "end": 943
+  },
+  {
+    "entity": "ALLERGIES",
+    "label": "PROBLEM",
+    "start": 945,
+    "end": 954
+  },
+  {
+    "entity": "KNOWN DRUG ALLERGIES",
+    "label": "PROBLEM",
+    "start": 959,
+    "end": 979
+  },
+  {
+    "entity": "VITAL SIGNS",
+    "label": "TEST",
+    "start": 1044,
+    "end": 1055
+  },
+  {
+    "entity": "Temperature",
+    "label": "TEST",
+    "start": 1057,
+    "end": 1068
+  },
+  {
+    "entity": "blood pressure",
+    "label": "TEST",
+    "start": 1080,
+    "end": 1094
+  },
+  {
+    "entity": "pulse",
+    "label": "TEST",
+    "start": 1103,
+    "end": 1108
+  },
+  {
+    "entity": "respirations",
+    "label": "TEST",
+    "start": 1120,
+    "end": 1132
+  },
+  {
+    "entity": "Oxygen saturation",
+    "label": "TEST",
+    "start": 1137,
+    "end": 1154
+  },
+  {
+    "entity": "acute distress",
+    "label": "PROBLEM",
+    "start": 1342,
+    "end": 1356
+  },
+  {
+    "entity": "range of motion",
+    "label": "TEST",
+    "start": 1557,
+    "end": 1572
+  },
+  {
+    "entity": "Peripheral pulse",
+    "label": "TEST",
+    "start": 1590,
+    "end": 1606
+  },
+  {
+    "entity": "Capillary refills",
+    "label": "TEST",
+    "start": 1632,
+    "end": 1649
+  },
+  {
+    "entity": "shortness of breath",
+    "label": "PROBLEM",
+    "start": 1726,
+    "end": 1745
+  },
+  {
+    "entity": "a 4-mm partial thickness laceration to the top of the right foot",
+    "label": "PROBLEM",
+    "start": 1780,
+    "end": 1844
+  },
+  {
+    "entity": "palpable foreign body",
+    "label": "PROBLEM",
+    "start": 1893,
+    "end": 1914
+  },
+  {
+    "entity": "foreign body",
+    "label": "PROBLEM",
+    "start": 1919,
+    "end": 1931
+  },
+  {
+    "entity": "active bleeding",
+    "label": "PROBLEM",
+    "start": 1959,
+    "end": 1974
+  },
+  {
+    "entity": "exposed deeper tissues",
+    "label": "PROBLEM",
+    "start": 1988,
+    "end": 2010
+  },
+  {
+    "entity": "exposed tendons, bone, muscle, nerves, or vessels",
+    "label": "PROBLEM",
+    "start": 2028,
+    "end": 2077
+  },
+  {
+    "entity": "the laceration",
+    "label": "PROBLEM",
+    "start": 2095,
+    "end": 2109
+  },
+  {
+    "entity": "a small varicose vein",
+    "label": "PROBLEM",
+    "start": 2126,
+    "end": 2147
+  },
+  {
+    "entity": "the heavier than usual bleeding",
+    "label": "PROBLEM",
+    "start": 2180,
+    "end": 2211
+  },
+  {
+    "entity": "any tenderness to the foot",
+    "label": "PROBLEM",
+    "start": 2271,
+    "end": 2297
+  },
+  {
+    "entity": "any difficulty",
+    "label": "PROBLEM",
+    "start": 2427,
+    "end": 2441
+  },
+  {
+    "entity": "discomfort",
+    "label": "PROBLEM",
+    "start": 2445,
+    "end": 2455
+  },
+  {
+    "entity": "other injuries",
+    "label": "PROBLEM",
+    "start": 2470,
+    "end": 2484
+  },
+  {
+    "entity": "The 4-mm partial thickness laceration",
+    "label": "PROBLEM",
+    "start": 2522,
+    "end": 2559
+  },
+  {
+    "entity": "other injuries",
+    "label": "PROBLEM",
+    "start": 2606,
+    "end": 2620
+  },
+  {
+    "entity": "Motor",
+    "label": "TEST",
+    "start": 2644,
+    "end": 2649
+  },
+  {
+    "entity": "Sensory",
+    "label": "TEST",
+    "start": 2712,
+    "end": 2719
+  },
+  {
+    "entity": "active bleeding",
+    "label": "PROBLEM",
+    "start": 2940,
+    "end": 2955
+  },
+  {
+    "entity": "bruising",
+    "label": "PROBLEM",
+    "start": 2998,
+    "end": 3006
+  },
+  {
+    "entity": "antibiotic ointment",
+    "label": "DRUG",
+    "start": 3074,
+    "end": 3093
+  },
+  {
+    "entity": "a bandage",
+    "label": "TREATMENT",
+    "start": 3098,
+    "end": 3107
+  },
+  {
+    "entity": "A 4-MM LACERATION TO THE RIGHT FOOT",
+    "label": "PROBLEM",
+    "start": 3143,
+    "end": 3178
+  },
+  {
+    "entity": "ACUTE RIGHT FOOT PAIN",
+    "label": "PROBLEM",
+    "start": 3183,
+    "end": 3204
+  },
+  {
+    "entity": "wound care",
+    "label": "TREATMENT",
+    "start": 3326,
+    "end": 3336
+  },
+  {
+    "entity": "infection",
+    "label": "PROBLEM",
+    "start": 3428,
+    "end": 3437
+  },
+  {
+    "entity": "infection",
+    "label": "PROBLEM",
+    "start": 3571,
+    "end": 3580
+  },
+  {
+    "entity": "foot pain",
+    "label": "PROBLEM",
+    "start": 3662,
+    "end": 3671
+  },
+  {
+    "entity": "cut on foot",
+    "label": "PROBLEM",
+    "start": 3673,
+    "end": 3684
+  },
+  {
+    "entity": "foreign body",
+    "label": "PROBLEM",
+    "start": 3702,
+    "end": 3714
+  },
+  {
+    "entity": "active bleeding",
+    "label": "PROBLEM",
+    "start": 3716,
+    "end": 3731
+  },
+  {
+    "entity": "injuries",
+    "label": "PROBLEM",
+    "start": 3739,
+    "end": 3747
+  },
+  {
+    "entity": "laceration",
+    "label": "PROBLEM",
+    "start": 3761,
+    "end": 3771
+  },
+  {
+    "entity": "bleeding",
+    "label": "PROBLEM",
+    "start": 3773,
+    "end": 3781
+  }
+]

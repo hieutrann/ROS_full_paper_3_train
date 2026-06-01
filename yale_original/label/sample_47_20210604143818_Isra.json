@@ -1,0 +1,746 @@
+[
+  {
+    "entity": "extreme fatigue",
+    "label": "PROBLEM",
+    "start": 157,
+    "end": 172
+  },
+  {
+    "entity": "discomfort in the chest and the back",
+    "label": "PROBLEM",
+    "start": 174,
+    "end": 210
+  },
+  {
+    "entity": "upset",
+    "label": "PROBLEM",
+    "start": 270,
+    "end": 275
+  },
+  {
+    "entity": "pain",
+    "label": "PROBLEM",
+    "start": 281,
+    "end": 285
+  },
+  {
+    "entity": "extreme fatigue",
+    "label": "PROBLEM",
+    "start": 445,
+    "end": 460
+  },
+  {
+    "entity": "discomfort in the chest and the back",
+    "label": "PROBLEM",
+    "start": 462,
+    "end": 498
+  },
+  {
+    "entity": "upset",
+    "label": "PROBLEM",
+    "start": 558,
+    "end": 563
+  },
+  {
+    "entity": "pain",
+    "label": "PROBLEM",
+    "start": 569,
+    "end": 573
+  },
+  {
+    "entity": "her supplements",
+    "label": "DRUG",
+    "start": 592,
+    "end": 607
+  },
+  {
+    "entity": "pain in her hips",
+    "label": "PROBLEM",
+    "start": 722,
+    "end": 738
+  },
+  {
+    "entity": "The peripheral neuropathy",
+    "label": "PROBLEM",
+    "start": 740,
+    "end": 765
+  },
+  {
+    "entity": "her swelling",
+    "label": "PROBLEM",
+    "start": 783,
+    "end": 795
+  },
+  {
+    "entity": "headaches in the back of her head",
+    "label": "PROBLEM",
+    "start": 814,
+    "end": 847
+  },
+  {
+    "entity": "Type II diabetes mellitus",
+    "label": "PROBLEM",
+    "start": 863,
+    "end": 888
+  },
+  {
+    "entity": "Generalized fatigue",
+    "label": "PROBLEM",
+    "start": 893,
+    "end": 912
+  },
+  {
+    "entity": "weakness",
+    "label": "PROBLEM",
+    "start": 917,
+    "end": 925
+  },
+  {
+    "entity": "Hypertension",
+    "label": "PROBLEM",
+    "start": 930,
+    "end": 942
+  },
+  {
+    "entity": "Peripheral neuropathy",
+    "label": "PROBLEM",
+    "start": 947,
+    "end": 968
+  },
+  {
+    "entity": "atypical symptoms",
+    "label": "PROBLEM",
+    "start": 974,
+    "end": 991
+  },
+  {
+    "entity": "Hypothyroidism",
+    "label": "PROBLEM",
+    "start": 996,
+    "end": 1010
+  },
+  {
+    "entity": "Depression",
+    "label": "PROBLEM",
+    "start": 1015,
+    "end": 1025
+  },
+  {
+    "entity": "Postmenopausal age-related symptoms",
+    "label": "PROBLEM",
+    "start": 1073,
+    "end": 1108
+  },
+  {
+    "entity": "Abdominal pain",
+    "label": "PROBLEM",
+    "start": 1113,
+    "end": 1127
+  },
+  {
+    "entity": "nonspecific irritable bowel type symptoms",
+    "label": "PROBLEM",
+    "start": 1133,
+    "end": 1174
+  },
+  {
+    "entity": "intermittent diarrhea",
+    "label": "PROBLEM",
+    "start": 1176,
+    "end": 1197
+  },
+  {
+    "entity": "medicines",
+    "label": "DRUG",
+    "start": 1232,
+    "end": 1241
+  },
+  {
+    "entity": "allergies",
+    "label": "PROBLEM",
+    "start": 1360,
+    "end": 1369
+  },
+  {
+    "entity": "an MI",
+    "label": "PROBLEM",
+    "start": 1436,
+    "end": 1441
+  },
+  {
+    "entity": "a stroke",
+    "label": "PROBLEM",
+    "start": 1464,
+    "end": 1472
+  },
+  {
+    "entity": "general exam",
+    "label": "TEST",
+    "start": 1704,
+    "end": 1716
+  },
+  {
+    "entity": "fever",
+    "label": "PROBLEM",
+    "start": 1720,
+    "end": 1725
+  },
+  {
+    "entity": "sweats",
+    "label": "PROBLEM",
+    "start": 1727,
+    "end": 1733
+  },
+  {
+    "entity": "chills",
+    "label": "PROBLEM",
+    "start": 1737,
+    "end": 1743
+  },
+  {
+    "entity": "significant weight change",
+    "label": "PROBLEM",
+    "start": 1751,
+    "end": 1776
+  },
+  {
+    "entity": "decrease in visual or auditory function",
+    "label": "PROBLEM",
+    "start": 1874,
+    "end": 1913
+  },
+  {
+    "entity": "change in hearing",
+    "label": "PROBLEM",
+    "start": 1932,
+    "end": 1949
+  },
+  {
+    "entity": "epistaxis",
+    "label": "PROBLEM",
+    "start": 1953,
+    "end": 1962
+  },
+  {
+    "entity": "sore throat",
+    "label": "PROBLEM",
+    "start": 1964,
+    "end": 1975
+  },
+  {
+    "entity": "hoarseness",
+    "label": "PROBLEM",
+    "start": 1979,
+    "end": 1989
+  },
+  {
+    "entity": "palpitations",
+    "label": "PROBLEM",
+    "start": 2034,
+    "end": 2046
+  },
+  {
+    "entity": "PND",
+    "label": "PROBLEM",
+    "start": 2048,
+    "end": 2051
+  },
+  {
+    "entity": "orthopnea",
+    "label": "PROBLEM",
+    "start": 2055,
+    "end": 2064
+  },
+  {
+    "entity": "The chest pains",
+    "label": "PROBLEM",
+    "start": 2066,
+    "end": 2081
+  },
+  {
+    "entity": "tenderness",
+    "label": "PROBLEM",
+    "start": 2099,
+    "end": 2109
+  },
+  {
+    "entity": "palpation",
+    "label": "PROBLEM",
+    "start": 2113,
+    "end": 2122
+  },
+  {
+    "entity": "wheezing",
+    "label": "PROBLEM",
+    "start": 2154,
+    "end": 2162
+  },
+  {
+    "entity": "cough",
+    "label": "PROBLEM",
+    "start": 2166,
+    "end": 2171
+  },
+  {
+    "entity": "PND",
+    "label": "PROBLEM",
+    "start": 2201,
+    "end": 2204
+  },
+  {
+    "entity": "orthopnea",
+    "label": "PROBLEM",
+    "start": 2208,
+    "end": 2217
+  },
+  {
+    "entity": "Thromboembolic disease history",
+    "label": "PROBLEM",
+    "start": 2219,
+    "end": 2249
+  },
+  {
+    "entity": "Intermittent symptoms",
+    "label": "PROBLEM",
+    "start": 2269,
+    "end": 2290
+  },
+  {
+    "entity": "stomach pain",
+    "label": "PROBLEM",
+    "start": 2294,
+    "end": 2306
+  },
+  {
+    "entity": "nausea",
+    "label": "PROBLEM",
+    "start": 2333,
+    "end": 2339
+  },
+  {
+    "entity": "vomiting",
+    "label": "PROBLEM",
+    "start": 2343,
+    "end": 2351
+  },
+  {
+    "entity": "Diarrhea",
+    "label": "PROBLEM",
+    "start": 2359,
+    "end": 2367
+  },
+  {
+    "entity": "poor bladder control",
+    "label": "PROBLEM",
+    "start": 2454,
+    "end": 2474
+  },
+  {
+    "entity": "marked dysuria",
+    "label": "PROBLEM",
+    "start": 2479,
+    "end": 2493
+  },
+  {
+    "entity": "hematuria",
+    "label": "PROBLEM",
+    "start": 2495,
+    "end": 2504
+  },
+  {
+    "entity": "stones",
+    "label": "PROBLEM",
+    "start": 2519,
+    "end": 2525
+  },
+  {
+    "entity": "Peripheral neuropathy",
+    "label": "PROBLEM",
+    "start": 2544,
+    "end": 2565
+  },
+  {
+    "entity": "generalized muscle pain",
+    "label": "PROBLEM",
+    "start": 2570,
+    "end": 2593
+  },
+  {
+    "entity": "joint pain",
+    "label": "PROBLEM",
+    "start": 2595,
+    "end": 2605
+  },
+  {
+    "entity": "paralysis",
+    "label": "PROBLEM",
+    "start": 2649,
+    "end": 2658
+  },
+  {
+    "entity": "paresis",
+    "label": "PROBLEM",
+    "start": 2660,
+    "end": 2667
+  },
+  {
+    "entity": "paresthesias",
+    "label": "PROBLEM",
+    "start": 2671,
+    "end": 2683
+  },
+  {
+    "entity": "rashes",
+    "label": "PROBLEM",
+    "start": 2694,
+    "end": 2700
+  },
+  {
+    "entity": "itching",
+    "label": "PROBLEM",
+    "start": 2702,
+    "end": 2709
+  },
+  {
+    "entity": "changes in the nails",
+    "label": "PROBLEM",
+    "start": 2713,
+    "end": 2733
+  },
+  {
+    "entity": "any lumps",
+    "label": "PROBLEM",
+    "start": 2757,
+    "end": 2766
+  },
+  {
+    "entity": "masses",
+    "label": "PROBLEM",
+    "start": 2770,
+    "end": 2776
+  },
+  {
+    "entity": "bruising",
+    "label": "PROBLEM",
+    "start": 2804,
+    "end": 2812
+  },
+  {
+    "entity": "bleeding-type symptoms",
+    "label": "PROBLEM",
+    "start": 2816,
+    "end": 2838
+  },
+  {
+    "entity": "WEIGHT",
+    "label": "TEST",
+    "start": 2862,
+    "end": 2868
+  },
+  {
+    "entity": "BP",
+    "label": "TEST",
+    "start": 2882,
+    "end": 2884
+  },
+  {
+    "entity": "PULSE",
+    "label": "TEST",
+    "start": 2894,
+    "end": 2899
+  },
+  {
+    "entity": "RESPIRATIONS",
+    "label": "TEST",
+    "start": 2905,
+    "end": 2917
+  },
+  {
+    "entity": "acute distress",
+    "label": "PROBLEM",
+    "start": 2978,
+    "end": 2992
+  },
+  {
+    "entity": "tonsillar lesions",
+    "label": "PROBLEM",
+    "start": 3205,
+    "end": 3222
+  },
+  {
+    "entity": "exudate",
+    "label": "PROBLEM",
+    "start": 3224,
+    "end": 3231
+  },
+  {
+    "entity": "asymmetry",
+    "label": "PROBLEM",
+    "start": 3235,
+    "end": 3244
+  },
+  {
+    "entity": "thyromegaly",
+    "label": "PROBLEM",
+    "start": 3281,
+    "end": 3292
+  },
+  {
+    "entity": "adenopathy",
+    "label": "PROBLEM",
+    "start": 3296,
+    "end": 3306
+  },
+  {
+    "entity": "auscultation",
+    "label": "TEST",
+    "start": 3351,
+    "end": 3363
+  },
+  {
+    "entity": "percussion",
+    "label": "TEST",
+    "start": 3368,
+    "end": 3378
+  },
+  {
+    "entity": "Rate",
+    "label": "TEST",
+    "start": 3387,
+    "end": 3391
+  },
+  {
+    "entity": "rhythm",
+    "label": "TEST",
+    "start": 3396,
+    "end": 3402
+  },
+  {
+    "entity": "S1",
+    "label": "TEST",
+    "start": 3415,
+    "end": 3417
+  },
+  {
+    "entity": "S2",
+    "label": "TEST",
+    "start": 3422,
+    "end": 3424
+  },
+  {
+    "entity": "appreciable murmur",
+    "label": "PROBLEM",
+    "start": 3437,
+    "end": 3455
+  },
+  {
+    "entity": "gallop",
+    "label": "PROBLEM",
+    "start": 3459,
+    "end": 3465
+  },
+  {
+    "entity": "masses",
+    "label": "PROBLEM",
+    "start": 3485,
+    "end": 3491
+  },
+  {
+    "entity": "guarding",
+    "label": "PROBLEM",
+    "start": 3493,
+    "end": 3501
+  },
+  {
+    "entity": "rigidity",
+    "label": "PROBLEM",
+    "start": 3503,
+    "end": 3511
+  },
+  {
+    "entity": "tenderness",
+    "label": "PROBLEM",
+    "start": 3513,
+    "end": 3523
+  },
+  {
+    "entity": "flank pain",
+    "label": "PROBLEM",
+    "start": 3527,
+    "end": 3537
+  },
+  {
+    "entity": "cyanosis",
+    "label": "PROBLEM",
+    "start": 3572,
+    "end": 3580
+  },
+  {
+    "entity": "clubbing",
+    "label": "PROBLEM",
+    "start": 3582,
+    "end": 3590
+  },
+  {
+    "entity": "edema",
+    "label": "PROBLEM",
+    "start": 3594,
+    "end": 3599
+  },
+  {
+    "entity": "lesions",
+    "label": "PROBLEM",
+    "start": 3644,
+    "end": 3651
+  },
+  {
+    "entity": "rashes",
+    "label": "PROBLEM",
+    "start": 3655,
+    "end": 3661
+  },
+  {
+    "entity": "gait",
+    "label": "TEST",
+    "start": 3741,
+    "end": 3745
+  },
+  {
+    "entity": "metformin",
+    "label": "DRUG",
+    "start": 3814,
+    "end": 3823
+  },
+  {
+    "entity": "Labs",
+    "label": "TEST",
+    "start": 3915,
+    "end": 3919
+  },
+  {
+    "entity": "CBC",
+    "label": "TEST",
+    "start": 3924,
+    "end": 3927
+  },
+  {
+    "entity": "CMP",
+    "label": "TEST",
+    "start": 3929,
+    "end": 3932
+  },
+  {
+    "entity": "A1c",
+    "label": "TEST",
+    "start": 3934,
+    "end": 3937
+  },
+  {
+    "entity": "microalbumin",
+    "label": "TEST",
+    "start": 3939,
+    "end": 3951
+  },
+  {
+    "entity": "UA",
+    "label": "TEST",
+    "start": 3956,
+    "end": 3958
+  },
+  {
+    "entity": "C&S",
+    "label": "TEST",
+    "start": 3970,
+    "end": 3973
+  },
+  {
+    "entity": "Gram stain",
+    "label": "TEST",
+    "start": 3975,
+    "end": 3985
+  },
+  {
+    "entity": "ova",
+    "label": "PROBLEM",
+    "start": 3987,
+    "end": 3990
+  },
+  {
+    "entity": "parasites",
+    "label": "PROBLEM",
+    "start": 3995,
+    "end": 4004
+  },
+  {
+    "entity": "intermittent diarrhea",
+    "label": "PROBLEM",
+    "start": 4010,
+    "end": 4031
+  },
+  {
+    "entity": "CT of the abdomen and pelvis",
+    "label": "TEST",
+    "start": 4049,
+    "end": 4077
+  },
+  {
+    "entity": "the current medications",
+    "label": "DRUG",
+    "start": 4122,
+    "end": 4145
+  },
+  {
+    "entity": "diuretics",
+    "label": "DRUG",
+    "start": 4160,
+    "end": 4169
+  },
+  {
+    "entity": "fatigue",
+    "label": "PROBLEM",
+    "start": 4287,
+    "end": 4294
+  },
+  {
+    "entity": "discomfort",
+    "label": "PROBLEM",
+    "start": 4296,
+    "end": 4306
+  },
+  {
+    "entity": "loose bowel movements",
+    "label": "PROBLEM",
+    "start": 4308,
+    "end": 4329
+  },
+  {
+    "entity": "diabetes mellitus",
+    "label": "PROBLEM",
+    "start": 4331,
+    "end": 4348
+  },
+  {
+    "entity": "weakness",
+    "label": "PROBLEM",
+    "start": 4350,
+    "end": 4358
+  },
+  {
+    "entity": "hypertension",
+    "label": "PROBLEM",
+    "start": 4360,
+    "end": 4372
+  },
+  {
+    "entity": "peripheral neuropathy",
+    "label": "PROBLEM",
+    "start": 4374,
+    "end": 4395
+  },
+  {
+    "entity": "intermittent diarrhea",
+    "label": "PROBLEM",
+    "start": 4397,
+    "end": 4418
+  }
+]

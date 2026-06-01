@@ -1,0 +1,287 @@
+[
+  {
+    "jaw pain": "PROBLEM"
+  },
+  {
+    "toothache": "PROBLEM"
+  },
+  {
+    "jaw": "PROBLEM"
+  },
+  {
+    "ear": "PROBLEM"
+  },
+  {
+    "facial swelling": "PROBLEM"
+  },
+  {
+    "headache": "PROBLEM"
+  },
+  {
+    "swelling": "PROBLEM"
+  },
+  {
+    "sore throat": "PROBLEM"
+  },
+  {
+    "difficulty swallowing": "PROBLEM"
+  },
+  {
+    "neck pain": "PROBLEM"
+  },
+  {
+    "lymph node swelling": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "chills": "PROBLEM"
+  },
+  {
+    "fatigue": "PROBLEM"
+  },
+  {
+    "weakness": "PROBLEM"
+  },
+  {
+    "eye pain": "PROBLEM"
+  },
+  {
+    "vision change": "PROBLEM"
+  },
+  {
+    "rhinorrhea": "PROBLEM"
+  },
+  {
+    "sinus congestion": "PROBLEM"
+  },
+  {
+    "sinus pressure": "PROBLEM"
+  },
+  {
+    "sinus pain": "PROBLEM"
+  },
+  {
+    "ear pain": "PROBLEM"
+  },
+  {
+    "hearing change": "PROBLEM"
+  },
+  {
+    "pressure": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "back pain": "PROBLEM"
+  },
+  {
+    "rashes": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "vision": "PROBLEM"
+  },
+  {
+    "hearing": "PROBLEM"
+  },
+  {
+    "speech change": "PROBLEM"
+  },
+  {
+    "lymph node": "PROBLEM"
+  },
+  {
+    "dental fracture": "PROBLEM"
+  },
+  {
+    "dental caries": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "swelling": "PROBLEM"
+  },
+  {
+    "infection": "PROBLEM"
+  },
+  {
+    "abscess": "PROBLEM"
+  },
+  {
+    "tenderness": "PROBLEM"
+  },
+  {
+    "exudate": "PROBLEM"
+  },
+  {
+    "lesion": "PROBLEM"
+  },
+  {
+    "meningismus": "PROBLEM"
+  },
+  {
+    "JVD": "PROBLEM"
+  },
+  {
+    "carotid artery": "PROBLEM"
+  },
+  {
+    "vertebral artery": "PROBLEM"
+  },
+  {
+    "bruits": "PROBLEM"
+  },
+  {
+    "murmur": "PROBLEM"
+  },
+  {
+    "rub": "PROBLEM"
+  },
+  {
+    "gallop": "PROBLEM"
+  },
+  {
+    "abdomen": "PROBLEM"
+  },
+  {
+    "abnormalities": "PROBLEM"
+  },
+  {
+    "extremities": "PROBLEM"
+  },
+  {
+    "cranial nerves": "TEST"
+  },
+  {
+    "speech": "TEST"
+  },
+  {
+    "ambulation": "TEST"
+  },
+  {
+    "mood": "TEST"
+  },
+  {
+    "affect": "TEST"
+  },
+  {
+    "intoxification": "PROBLEM"
+  },
+  {
+    "lymphadenitis": "PROBLEM"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "temperature": "TEST"
+  },
+  {
+    "pulse": "TEST"
+  },
+  {
+    "respirations": "TEST"
+  },
+  {
+    "oxygen saturation": "TEST"
+  },
+  {
+    "dental appointment": "TEST"
+  },
+  {
+    "dental fracture": "PROBLEM"
+  },
+  {
+    "Ellis type II fracture": "PROBLEM"
+  },
+  {
+    "Motrin": "DRUG"
+  },
+  {
+    "Vicodin": "DRUG"
+  },
+  {
+    "pen V": "DRUG"
+  },
+  {
+    "dental": "PROBLEM"
+  },
+  {
+    "dentist": "PROBLEM"
+  },
+  {
+    "discharge instructions": "TREATMENT"
+  },
+  {
+    "toothache": "PROBLEM"
+  },
+  {
+    "drowsiness": "PROBLEM"
+  },
+  {
+    "driving": "PROBLEM"
+  },
+  {
+    "condition": "PROBLEM"
+  },
+  {
+    "worsening": "PROBLEM"
+  },
+  {
+    "problems": "PROBLEM"
+  },
+  {
+    "symptoms": "PROBLEM"
+  },
+  {
+    "concern": "PROBLEM"
+  },
+  {
+    "general medicine": "PROBLEM"
+  },
+  {
+    "jaw pain": "PROBLEM"
+  },
+  {
+    "dental appointment": "PROBLEM"
+  },
+  {
+    "Ellis type II fracture": "PROBLEM"
+  },
+  {
+    "Ellis type": "PROBLEM"
+  },
+  {
+    "dental fracture": "PROBLEM"
+  },
+  {
+    "toothache": "PROBLEM"
+  },
+  {
+    "tenderness": "PROBLEM"
+  },
+  {
+    "pressure": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  }
+]

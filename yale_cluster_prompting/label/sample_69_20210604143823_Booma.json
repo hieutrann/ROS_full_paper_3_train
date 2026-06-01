@@ -1,0 +1,182 @@
+[
+  {
+    "entity": "male multisystem exam",
+    "label": "TEST",
+    "start": 131,
+    "end": 152
+  },
+  {
+    "entity": "The vital signs",
+    "label": "TEST",
+    "start": 225,
+    "end": 240
+  },
+  {
+    "entity": "blood pressure",
+    "label": "TEST",
+    "start": 279,
+    "end": 293
+  },
+  {
+    "entity": "heart rate",
+    "label": "TEST",
+    "start": 298,
+    "end": 308
+  },
+  {
+    "entity": "ptosis",
+    "label": "PROBLEM",
+    "start": 444,
+    "end": 450
+  },
+  {
+    "entity": "lesion",
+    "label": "PROBLEM",
+    "start": 646,
+    "end": 652
+  },
+  {
+    "entity": "enlarged",
+    "label": "PROBLEM",
+    "start": 775,
+    "end": 783
+  },
+  {
+    "entity": "palpation",
+    "label": "TEST",
+    "start": 787,
+    "end": 796
+  },
+  {
+    "entity": "Auscultation",
+    "label": "TEST",
+    "start": 856,
+    "end": 868
+  },
+  {
+    "entity": "Auscultation of the heart",
+    "label": "TEST",
+    "start": 943,
+    "end": 968
+  },
+  {
+    "entity": "S1",
+    "label": "TEST",
+    "start": 978,
+    "end": 980
+  },
+  {
+    "entity": "S2",
+    "label": "TEST",
+    "start": 985,
+    "end": 987
+  },
+  {
+    "entity": "murmur",
+    "label": "PROBLEM",
+    "start": 1014,
+    "end": 1020
+  },
+  {
+    "entity": "edema",
+    "label": "PROBLEM",
+    "start": 1054,
+    "end": 1059
+  },
+  {
+    "entity": "rebound",
+    "label": "TEST",
+    "start": 1119,
+    "end": 1126
+  },
+  {
+    "entity": "guarding",
+    "label": "PROBLEM",
+    "start": 1131,
+    "end": 1139
+  },
+  {
+    "entity": "enlarged liver or spleen",
+    "label": "PROBLEM",
+    "start": 1144,
+    "end": 1168
+  },
+  {
+    "entity": "discrete mass",
+    "label": "PROBLEM",
+    "start": 1259,
+    "end": 1272
+  },
+  {
+    "entity": "lesion",
+    "label": "PROBLEM",
+    "start": 1294,
+    "end": 1300
+  },
+  {
+    "entity": "discharge",
+    "label": "PROBLEM",
+    "start": 1305,
+    "end": 1314
+  },
+  {
+    "entity": "appreciated node",
+    "label": "PROBLEM",
+    "start": 1340,
+    "end": 1356
+  },
+  {
+    "entity": "inspection",
+    "label": "TEST",
+    "start": 1440,
+    "end": 1450
+  },
+  {
+    "entity": "obvious deformity",
+    "label": "PROBLEM",
+    "start": 1461,
+    "end": 1478
+  },
+  {
+    "entity": "obvious deformity",
+    "label": "PROBLEM",
+    "start": 1513,
+    "end": 1530
+  },
+  {
+    "entity": "Range of motion",
+    "label": "TEST",
+    "start": 1532,
+    "end": 1547
+  },
+  {
+    "entity": "Inspection of the skin and subcutaneous tissues",
+    "label": "TEST",
+    "start": 1613,
+    "end": 1660
+  },
+  {
+    "entity": "Deep tendon reflexes",
+    "label": "TEST",
+    "start": 1738,
+    "end": 1758
+  },
+  {
+    "entity": "Sensation",
+    "label": "TEST",
+    "start": 1798,
+    "end": 1807
+  },
+  {
+    "entity": "judgment and insight",
+    "label": "TEST",
+    "start": 1916,
+    "end": 1936
+  },
+  {
+    "entity": "auscultation",
+    "label": "TEST",
+    "start": 2088,
+    "end": 2100
+  }
+]

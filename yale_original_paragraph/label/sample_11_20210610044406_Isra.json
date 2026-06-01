@@ -1,0 +1,668 @@
+[
+  {
+    "entity": "fever",
+    "label": "PROBLEM",
+    "start": 166,
+    "end": 171
+  },
+  {
+    "entity": "weight change",
+    "label": "PROBLEM",
+    "start": 174,
+    "end": 187
+  },
+  {
+    "entity": "fatigue",
+    "label": "PROBLEM",
+    "start": 190,
+    "end": 197
+  },
+  {
+    "entity": "aching",
+    "label": "PROBLEM",
+    "start": 203,
+    "end": 209
+  },
+  {
+    "entity": "fever",
+    "label": "PROBLEM",
+    "start": 293,
+    "end": 298
+  },
+  {
+    "entity": "weight change",
+    "label": "PROBLEM",
+    "start": 301,
+    "end": 314
+  },
+  {
+    "entity": "fatigue",
+    "label": "PROBLEM",
+    "start": 317,
+    "end": 324
+  },
+  {
+    "entity": "aching",
+    "label": "PROBLEM",
+    "start": 330,
+    "end": 336
+  },
+  {
+    "entity": "glasses",
+    "label": "TREATMENT",
+    "start": 375,
+    "end": 382
+  },
+  {
+    "entity": "cataracts",
+    "label": "PROBLEM",
+    "start": 385,
+    "end": 394
+  },
+  {
+    "entity": "glaucoma",
+    "label": "PROBLEM",
+    "start": 397,
+    "end": 405
+  },
+  {
+    "entity": "retinopathy",
+    "label": "PROBLEM",
+    "start": 408,
+    "end": 419
+  },
+  {
+    "entity": "irritation",
+    "label": "PROBLEM",
+    "start": 422,
+    "end": 432
+  },
+  {
+    "entity": "visual field defects",
+    "label": "PROBLEM",
+    "start": 438,
+    "end": 458
+  },
+  {
+    "entity": "hearing or balance problems",
+    "label": "PROBLEM",
+    "start": 488,
+    "end": 515
+  },
+  {
+    "entity": "runny nose",
+    "label": "PROBLEM",
+    "start": 545,
+    "end": 555
+  },
+  {
+    "entity": "sinus problems",
+    "label": "PROBLEM",
+    "start": 558,
+    "end": 572
+  },
+  {
+    "entity": "nosebleeds",
+    "label": "PROBLEM",
+    "start": 578,
+    "end": 588
+  },
+  {
+    "entity": "dental problems",
+    "label": "PROBLEM",
+    "start": 619,
+    "end": 634
+  },
+  {
+    "entity": "dentures",
+    "label": "TREATMENT",
+    "start": 637,
+    "end": 645
+  },
+  {
+    "entity": "bleeding gums",
+    "label": "PROBLEM",
+    "start": 651,
+    "end": 664
+  },
+  {
+    "entity": "hoarseness",
+    "label": "PROBLEM",
+    "start": 696,
+    "end": 706
+  },
+  {
+    "entity": "difficulty swallowing",
+    "label": "PROBLEM",
+    "start": 709,
+    "end": 730
+  },
+  {
+    "entity": "sore throat",
+    "label": "PROBLEM",
+    "start": 736,
+    "end": 747
+  },
+  {
+    "entity": "angina",
+    "label": "PROBLEM",
+    "start": 790,
+    "end": 796
+  },
+  {
+    "entity": "previous MI",
+    "label": "PROBLEM",
+    "start": 799,
+    "end": 810
+  },
+  {
+    "entity": "irregular heartbeat",
+    "label": "PROBLEM",
+    "start": 813,
+    "end": 832
+  },
+  {
+    "entity": "heart murmurs",
+    "label": "PROBLEM",
+    "start": 835,
+    "end": 848
+  },
+  {
+    "entity": "bad heart valves",
+    "label": "PROBLEM",
+    "start": 851,
+    "end": 867
+  },
+  {
+    "entity": "palpitations",
+    "label": "PROBLEM",
+    "start": 870,
+    "end": 882
+  },
+  {
+    "entity": "swelling of feet",
+    "label": "PROBLEM",
+    "start": 885,
+    "end": 901
+  },
+  {
+    "entity": "high blood pressure",
+    "label": "PROBLEM",
+    "start": 904,
+    "end": 923
+  },
+  {
+    "entity": "orthopnea",
+    "label": "PROBLEM",
+    "start": 926,
+    "end": 935
+  },
+  {
+    "entity": "paroxysmal nocturnal dyspnea",
+    "label": "PROBLEM",
+    "start": 938,
+    "end": 966
+  },
+  {
+    "entity": "stress test",
+    "label": "TEST",
+    "start": 983,
+    "end": 994
+  },
+  {
+    "entity": "arteriogram",
+    "label": "TEST",
+    "start": 997,
+    "end": 1008
+  },
+  {
+    "entity": "pacemaker implantation",
+    "label": "TREATMENT",
+    "start": 1014,
+    "end": 1036
+  },
+  {
+    "entity": "cough",
+    "label": "PROBLEM",
+    "start": 1074,
+    "end": 1079
+  },
+  {
+    "entity": "sputum",
+    "label": "PROBLEM",
+    "start": 1082,
+    "end": 1088
+  },
+  {
+    "entity": "shortness of breath",
+    "label": "PROBLEM",
+    "start": 1091,
+    "end": 1110
+  },
+  {
+    "entity": "wheezing",
+    "label": "PROBLEM",
+    "start": 1113,
+    "end": 1121
+  },
+  {
+    "entity": "asthma",
+    "label": "PROBLEM",
+    "start": 1124,
+    "end": 1130
+  },
+  {
+    "entity": "emphysema",
+    "label": "PROBLEM",
+    "start": 1136,
+    "end": 1145
+  },
+  {
+    "entity": "pain",
+    "label": "PROBLEM",
+    "start": 1190,
+    "end": 1194
+  },
+  {
+    "entity": "vomiting",
+    "label": "PROBLEM",
+    "start": 1197,
+    "end": 1205
+  },
+  {
+    "entity": "heartburn",
+    "label": "PROBLEM",
+    "start": 1208,
+    "end": 1217
+  },
+  {
+    "entity": "peptic ulcer disease",
+    "label": "PROBLEM",
+    "start": 1220,
+    "end": 1240
+  },
+  {
+    "entity": "rectal pain",
+    "label": "PROBLEM",
+    "start": 1261,
+    "end": 1272
+  },
+  {
+    "entity": "hernia",
+    "label": "PROBLEM",
+    "start": 1275,
+    "end": 1281
+  },
+  {
+    "entity": "hepatitis",
+    "label": "PROBLEM",
+    "start": 1284,
+    "end": 1293
+  },
+  {
+    "entity": "gallbladder disease",
+    "label": "PROBLEM",
+    "start": 1296,
+    "end": 1315
+  },
+  {
+    "entity": "hemorrhoids",
+    "label": "PROBLEM",
+    "start": 1318,
+    "end": 1329
+  },
+  {
+    "entity": "bleeding",
+    "label": "PROBLEM",
+    "start": 1335,
+    "end": 1343
+  },
+  {
+    "entity": "incontinence",
+    "label": "PROBLEM",
+    "start": 1400,
+    "end": 1412
+  },
+  {
+    "entity": "UTI",
+    "label": "PROBLEM",
+    "start": 1415,
+    "end": 1418
+  },
+  {
+    "entity": "dysuria",
+    "label": "PROBLEM",
+    "start": 1421,
+    "end": 1428
+  },
+  {
+    "entity": "hematuria",
+    "label": "PROBLEM",
+    "start": 1431,
+    "end": 1440
+  },
+  {
+    "entity": "vaginal discharge",
+    "label": "PROBLEM",
+    "start": 1443,
+    "end": 1460
+  },
+  {
+    "entity": "abnormal bleeding",
+    "label": "PROBLEM",
+    "start": 1463,
+    "end": 1480
+  },
+  {
+    "entity": "breast lumps",
+    "label": "PROBLEM",
+    "start": 1483,
+    "end": 1495
+  },
+  {
+    "entity": "nipple discharge",
+    "label": "PROBLEM",
+    "start": 1498,
+    "end": 1514
+  },
+  {
+    "entity": "sexually transmitted diseases",
+    "label": "PROBLEM",
+    "start": 1542,
+    "end": 1571
+  },
+  {
+    "entity": "incontinence",
+    "label": "PROBLEM",
+    "start": 1574,
+    "end": 1586
+  },
+  {
+    "entity": "yeast infections",
+    "label": "PROBLEM",
+    "start": 1589,
+    "end": 1605
+  },
+  {
+    "entity": "itching",
+    "label": "PROBLEM",
+    "start": 1611,
+    "end": 1618
+  },
+  {
+    "entity": "rashes",
+    "label": "PROBLEM",
+    "start": 1651,
+    "end": 1657
+  },
+  {
+    "entity": "keratoses",
+    "label": "PROBLEM",
+    "start": 1660,
+    "end": 1669
+  },
+  {
+    "entity": "skin cancers",
+    "label": "PROBLEM",
+    "start": 1672,
+    "end": 1684
+  },
+  {
+    "entity": "acne",
+    "label": "PROBLEM",
+    "start": 1690,
+    "end": 1694
+  },
+  {
+    "entity": "back pain",
+    "label": "PROBLEM",
+    "start": 1738,
+    "end": 1747
+  },
+  {
+    "entity": "joint pain",
+    "label": "PROBLEM",
+    "start": 1750,
+    "end": 1760
+  },
+  {
+    "entity": "joint swelling",
+    "label": "PROBLEM",
+    "start": 1763,
+    "end": 1777
+  },
+  {
+    "entity": "arthritis",
+    "label": "PROBLEM",
+    "start": 1780,
+    "end": 1789
+  },
+  {
+    "entity": "joint deformity",
+    "label": "PROBLEM",
+    "start": 1792,
+    "end": 1807
+  },
+  {
+    "entity": "problems with ambulation",
+    "label": "PROBLEM",
+    "start": 1810,
+    "end": 1834
+  },
+  {
+    "entity": "stiffness",
+    "label": "PROBLEM",
+    "start": 1837,
+    "end": 1846
+  },
+  {
+    "entity": "osteoporosis",
+    "label": "PROBLEM",
+    "start": 1849,
+    "end": 1861
+  },
+  {
+    "entity": "injuries",
+    "label": "PROBLEM",
+    "start": 1867,
+    "end": 1875
+  },
+  {
+    "entity": "blackouts",
+    "label": "PROBLEM",
+    "start": 1914,
+    "end": 1923
+  },
+  {
+    "entity": "headaches",
+    "label": "PROBLEM",
+    "start": 1926,
+    "end": 1935
+  },
+  {
+    "entity": "seizures",
+    "label": "PROBLEM",
+    "start": 1938,
+    "end": 1946
+  },
+  {
+    "entity": "stroke",
+    "label": "PROBLEM",
+    "start": 1949,
+    "end": 1955
+  },
+  {
+    "entity": "dizziness",
+    "label": "PROBLEM",
+    "start": 1961,
+    "end": 1970
+  },
+  {
+    "entity": "anxiety",
+    "label": "PROBLEM",
+    "start": 2010,
+    "end": 2017
+  },
+  {
+    "entity": "depression",
+    "label": "PROBLEM",
+    "start": 2020,
+    "end": 2030
+  },
+  {
+    "entity": "phobias",
+    "label": "PROBLEM",
+    "start": 2036,
+    "end": 2043
+  },
+  {
+    "entity": "diabetes",
+    "label": "PROBLEM",
+    "start": 2081,
+    "end": 2089
+  },
+  {
+    "entity": "thyroid",
+    "label": "PROBLEM",
+    "start": 2092,
+    "end": 2099
+  },
+  {
+    "entity": "problems with cholesterol or hormones",
+    "label": "PROBLEM",
+    "start": 2105,
+    "end": 2142
+  },
+  {
+    "entity": "anemia",
+    "label": "PROBLEM",
+    "start": 2192,
+    "end": 2198
+  },
+  {
+    "entity": "swollen glands",
+    "label": "PROBLEM",
+    "start": 2201,
+    "end": 2215
+  },
+  {
+    "entity": "blood disorders",
+    "label": "PROBLEM",
+    "start": 2221,
+    "end": 2236
+  },
+  {
+    "entity": "steroids",
+    "label": "DRUG",
+    "start": 2278,
+    "end": 2286
+  },
+  {
+    "entity": "chemotherapy",
+    "label": "DRUG",
+    "start": 2289,
+    "end": 2301
+  },
+  {
+    "entity": "cancer",
+    "label": "PROBLEM",
+    "start": 2307,
+    "end": 2313
+  },
+  {
+    "entity": "varicose veins",
+    "label": "PROBLEM",
+    "start": 2350,
+    "end": 2364
+  },
+  {
+    "entity": "blood clots",
+    "label": "PROBLEM",
+    "start": 2367,
+    "end": 2378
+  },
+  {
+    "entity": "atherosclerosis",
+    "label": "PROBLEM",
+    "start": 2381,
+    "end": 2396
+  },
+  {
+    "entity": "leg ulcers",
+    "label": "PROBLEM",
+    "start": 2402,
+    "end": 2412
+  },
+  {
+    "entity": "cough",
+    "label": "PROBLEM",
+    "start": 2446,
+    "end": 2451
+  },
+  {
+    "entity": "sputum",
+    "label": "PROBLEM",
+    "start": 2454,
+    "end": 2460
+  },
+  {
+    "entity": "shortness of breath",
+    "label": "PROBLEM",
+    "start": 2463,
+    "end": 2482
+  },
+  {
+    "entity": "fever",
+    "label": "PROBLEM",
+    "start": 2485,
+    "end": 2490
+  },
+  {
+    "entity": "weight",
+    "label": "TEST",
+    "start": 2493,
+    "end": 2499
+  },
+  {
+    "entity": "fatigue",
+    "label": "PROBLEM",
+    "start": 2502,
+    "end": 2509
+  },
+  {
+    "entity": "aching",
+    "label": "PROBLEM",
+    "start": 2512,
+    "end": 2518
+  },
+  {
+    "entity": "swelling",
+    "label": "PROBLEM",
+    "start": 2537,
+    "end": 2545
+  },
+  {
+    "entity": "disease",
+    "label": "PROBLEM",
+    "start": 2548,
+    "end": 2555
+  },
+  {
+    "entity": "incontinence",
+    "label": "PROBLEM",
+    "start": 2558,
+    "end": 2570
+  },
+  {
+    "entity": "bleeding",
+    "label": "PROBLEM",
+    "start": 2573,
+    "end": 2581
+  },
+  {
+    "entity": "heartbeat",
+    "label": "TEST",
+    "start": 2584,
+    "end": 2593
+  }
+]

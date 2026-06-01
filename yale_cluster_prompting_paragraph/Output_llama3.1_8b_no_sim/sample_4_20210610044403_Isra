@@ -1,0 +1,122 @@
+[
+  {
+    "cerebrovascular accident": "PROBLEM"
+  },
+  {
+    "recurrent urinary tract infection": "PROBLEM"
+  },
+  {
+    "diabetes": "PROBLEM"
+  },
+  {
+    "hypoglycemia": "PROBLEM"
+  },
+  {
+    "neuropathy": "PROBLEM"
+  },
+  {
+    "hypothyroidism": "PROBLEM"
+  },
+  {
+    "hyperlipidemia": "PROBLEM"
+  },
+  {
+    "altered mental status": "PROBLEM"
+  },
+  {
+    "aphasia": "PROBLEM"
+  },
+  {
+    "decreased level of consciousness": "PROBLEM"
+  },
+  {
+    "urinary tract infection": "PROBLEM"
+  },
+  {
+    "garbled speech": "PROBLEM"
+  },
+  {
+    "mental status": "PROBLEM"
+  },
+  {
+    "Coumadin": "DRUG"
+  },
+  {
+    "Cipro": "DRUG"
+  },
+  {
+    "Humulin N": "DRUG"
+  },
+  {
+    "Avandia": "DRUG"
+  },
+  {
+    "Percocet": "DRUG"
+  },
+  {
+    "Neurontin": "DRUG"
+  },
+  {
+    "Synthroid": "DRUG"
+  },
+  {
+    "Lipitor": "DRUG"
+  },
+  {
+    "Reglan": "DRUG"
+  },
+  {
+    "Nystatin": "DRUG"
+  },
+  {
+    "Lasix": "DRUG"
+  },
+  {
+    "Ibuprofen": "DRUG"
+  },
+  {
+    "Oxygen": "DRUG"
+  },
+  {
+    "Foley catheter": "TREATMENT"
+  },
+  {
+    "Pacemaker": "TREATMENT"
+  },
+  {
+    "Cholecystectomy": "TREATMENT"
+  },
+  {
+    "Colon cancer surgery": "TREATMENT"
+  },
+  {
+    "Ankle Surgery": "TREATMENT"
+  },
+  {
+    "BUN": "TEST"
+  },
+  {
+    "Creatinine": "TEST"
+  },
+  {
+    "LFTs": "TEST"
+  },
+  {
+    "Hemoglobin": "TEST"
+  },
+  {
+    "Hematocrit": "TEST"
+  },
+  {
+    "INR": "TEST"
+  },
+  {
+    "Pro time": "TEST"
+  },
+  {
+    "Urine": "TEST"
+  },
+  {
+    "Cultures": "TEST"
+  }
+]

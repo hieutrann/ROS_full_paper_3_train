@@ -1,0 +1,272 @@
+[
+  {
+    "entity": "Liver Biopsy",
+    "label": "TEST",
+    "start": 55,
+    "end": 67
+  },
+  {
+    "entity": "Percutaneous liver biopsy",
+    "label": "TEST",
+    "start": 82,
+    "end": 107
+  },
+  {
+    "entity": "maximal dullness",
+    "label": "PROBLEM",
+    "start": 208,
+    "end": 224
+  },
+  {
+    "entity": "percussion",
+    "label": "TEST",
+    "start": 272,
+    "end": 282
+  },
+  {
+    "entity": "Percutaneous liver biopsy",
+    "label": "TEST",
+    "start": 343,
+    "end": 368
+  },
+  {
+    "entity": "ANALGESIA",
+    "label": "TREATMENT",
+    "start": 370,
+    "end": 379
+  },
+  {
+    "entity": "Lidocaine",
+    "label": "DRUG",
+    "start": 385,
+    "end": 394
+  },
+  {
+    "entity": "any allergy",
+    "label": "PROBLEM",
+    "start": 427,
+    "end": 438
+  },
+  {
+    "entity": "iodine",
+    "label": "DRUG",
+    "start": 442,
+    "end": 448
+  },
+  {
+    "entity": "lidocaine",
+    "label": "DRUG",
+    "start": 450,
+    "end": 459
+  },
+  {
+    "entity": "codeine",
+    "label": "DRUG",
+    "start": 463,
+    "end": 470
+  },
+  {
+    "entity": "The procedure",
+    "label": "TREATMENT",
+    "start": 494,
+    "end": 507
+  },
+  {
+    "entity": "complications",
+    "label": "PROBLEM",
+    "start": 631,
+    "end": 644
+  },
+  {
+    "entity": "bleeding",
+    "label": "PROBLEM",
+    "start": 677,
+    "end": 685
+  },
+  {
+    "entity": "bile peritonitis",
+    "label": "PROBLEM",
+    "start": 687,
+    "end": 703
+  },
+  {
+    "entity": "bowel perforation",
+    "label": "PROBLEM",
+    "start": 705,
+    "end": 722
+  },
+  {
+    "entity": "pneumothorax",
+    "label": "PROBLEM",
+    "start": 724,
+    "end": 736
+  },
+  {
+    "entity": "death",
+    "label": "PROBLEM",
+    "start": 741,
+    "end": 746
+  },
+  {
+    "entity": "the procedure",
+    "label": "TREATMENT",
+    "start": 775,
+    "end": 788
+  },
+  {
+    "entity": "maximal dullness",
+    "label": "PROBLEM",
+    "start": 951,
+    "end": 967
+  },
+  {
+    "entity": "percussion",
+    "label": "TEST",
+    "start": 1015,
+    "end": 1025
+  },
+  {
+    "entity": "povidone iodine",
+    "label": "DRUG",
+    "start": 1066,
+    "end": 1081
+  },
+  {
+    "entity": "lidocaine",
+    "label": "DRUG",
+    "start": 1175,
+    "end": 1184
+  },
+  {
+    "entity": "a small incision",
+    "label": "PROBLEM",
+    "start": 1226,
+    "end": 1242
+  },
+  {
+    "entity": "A 16-gauge modified Klatskin needle",
+    "label": "TREATMENT",
+    "start": 1285,
+    "end": 1320
+  },
+  {
+    "entity": "the incision",
+    "label": "PROBLEM",
+    "start": 1342,
+    "end": 1354
+  },
+  {
+    "entity": "Liver cores",
+    "label": "TEST",
+    "start": 1428,
+    "end": 1439
+  },
+  {
+    "entity": "routine histologic study",
+    "label": "TEST",
+    "start": 1505,
+    "end": 1529
+  },
+  {
+    "entity": "medication",
+    "label": "DRUG",
+    "start": 1707,
+    "end": 1717
+  },
+  {
+    "entity": "severe abdominal or chest pain",
+    "label": "PROBLEM",
+    "start": 1796,
+    "end": 1826
+  },
+  {
+    "entity": "fever",
+    "label": "PROBLEM",
+    "start": 1828,
+    "end": 1833
+  },
+  {
+    "entity": "melena",
+    "label": "PROBLEM",
+    "start": 1835,
+    "end": 1841
+  },
+  {
+    "entity": "light-headedness",
+    "label": "PROBLEM",
+    "start": 1843,
+    "end": 1859
+  },
+  {
+    "entity": "any unusual symptoms",
+    "label": "PROBLEM",
+    "start": 1863,
+    "end": 1883
+  },
+  {
+    "entity": "the liver biopsy",
+    "label": "TEST",
+    "start": 2010,
+    "end": 2026
+  },
+  {
+    "entity": "hepatitis A and B vaccines",
+    "label": "DRUG",
+    "start": 2129,
+    "end": 2155
+  },
+  {
+    "entity": "vaccination",
+    "label": "TREATMENT",
+    "start": 2201,
+    "end": 2212
+  },
+  {
+    "entity": "surgery",
+    "label": "TREATMENT",
+    "start": 2286,
+    "end": 2293
+  },
+  {
+    "entity": "bile peritonitis",
+    "label": "PROBLEM",
+    "start": 2295,
+    "end": 2311
+  },
+  {
+    "entity": "bowel perforation",
+    "label": "PROBLEM",
+    "start": 2313,
+    "end": 2330
+  },
+  {
+    "entity": "pneumothorax",
+    "label": "PROBLEM",
+    "start": 2332,
+    "end": 2344
+  },
+  {
+    "entity": "klatskin needle",
+    "label": "TREATMENT",
+    "start": 2346,
+    "end": 2361
+  },
+  {
+    "entity": "liver biopsy",
+    "label": "TEST",
+    "start": 2377,
+    "end": 2389
+  },
+  {
+    "entity": "lidocaine",
+    "label": "DRUG",
+    "start": 2405,
+    "end": 2414
+  },
+  {
+    "entity": "biopsy",
+    "label": "TEST",
+    "start": 2416,
+    "end": 2422
+  }
+]

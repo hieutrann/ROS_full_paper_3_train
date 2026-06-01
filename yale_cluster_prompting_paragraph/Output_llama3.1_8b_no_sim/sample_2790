@@ -1,0 +1,110 @@
+[
+  {
+    "back pain": "PROBLEM"
+  },
+  {
+    "chronic back pain": "PROBLEM"
+  },
+  {
+    "acute back pain": "PROBLEM"
+  },
+  {
+    "bulging disk": "PROBLEM"
+  },
+  {
+    "intravertebral lumbar disk disease": "PROBLEM"
+  },
+  {
+    "degenerative changes": "PROBLEM"
+  },
+  {
+    "testicular cancer": "PROBLEM"
+  },
+  {
+    "GERD": "PROBLEM"
+  },
+  {
+    "irritable bowel syndrome": "PROBLEM"
+  },
+  {
+    "seasonal asthma": "PROBLEM"
+  },
+  {
+    "bilateral carpal tunnel syndrome": "PROBLEM"
+  },
+  {
+    "status post excision of abdominal teratoma": "PROBLEM"
+  },
+  {
+    "incisional hernia": "PROBLEM"
+  },
+  {
+    "numbness and tingling": "PROBLEM"
+  },
+  {
+    "HIVES": "PROBLEM"
+  },
+  {
+    "SAP FROM THE MANGO TREE": "PROBLEM"
+  },
+  {
+    "Decadron": "DRUG"
+  },
+  {
+    "Percocet": "DRUG"
+  },
+  {
+    "Colace": "DRUG"
+  },
+  {
+    "lactulose": "DRUG"
+  },
+  {
+    "Protonix": "DRUG"
+  },
+  {
+    "IV analgesics": "TREATMENT"
+  },
+  {
+    "physical therapy": "TREATMENT"
+  },
+  {
+    "bone scan": "TEST"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "pulse": "TEST"
+  },
+  {
+    "respirations": "TEST"
+  },
+  {
+    "O2 saturation": "TEST"
+  },
+  {
+    "temperature": "TEST"
+  },
+  {
+    "weight": "TEST"
+  },
+  {
+    "height": "TEST"
+  },
+  {
+    "BMI": "TEST"
+  },
+  {
+    "BSA": "TEST"
+  },
+  {
+    "Heart Rate": "TEST"
+  },
+  {
+    "Systolic": "TEST"
+  },
+  {
+    "Diastolic": "TEST"
+  }
+]

@@ -1,0 +1,266 @@
+[
+  {
+    "entity": "duty evaluation",
+    "label": "TEST",
+    "start": 121,
+    "end": 136
+  },
+  {
+    "entity": "new onset of right shoulder pain",
+    "label": "PROBLEM",
+    "start": 275,
+    "end": 307
+  },
+  {
+    "entity": "a popping sensation",
+    "label": "PROBLEM",
+    "start": 646,
+    "end": 665
+  },
+  {
+    "entity": "persistent shoulder pain",
+    "label": "PROBLEM",
+    "start": 707,
+    "end": 731
+  },
+  {
+    "entity": "the pain",
+    "label": "PROBLEM",
+    "start": 770,
+    "end": 778
+  },
+  {
+    "entity": "Focal lateral and posterior shoulder pain",
+    "label": "PROBLEM",
+    "start": 902,
+    "end": 943
+  },
+  {
+    "entity": "any cervical radiculopathies",
+    "label": "PROBLEM",
+    "start": 968,
+    "end": 996
+  },
+  {
+    "entity": "any chronic cardiac, pulmonary, GI, GU, neurologic, musculoskeletal, endocrine abnormalities",
+    "label": "PROBLEM",
+    "start": 1008,
+    "end": 1100
+  },
+  {
+    "entity": "Claritin",
+    "label": "DRUG",
+    "start": 1115,
+    "end": 1123
+  },
+  {
+    "entity": "allergic rhinitis",
+    "label": "PROBLEM",
+    "start": 1128,
+    "end": 1145
+  },
+  {
+    "entity": "ALLERGIES",
+    "label": "PROBLEM",
+    "start": 1147,
+    "end": 1156
+  },
+  {
+    "entity": "Blood pressure",
+    "label": "TEST",
+    "start": 1186,
+    "end": 1200
+  },
+  {
+    "entity": "respirations",
+    "label": "TEST",
+    "start": 1209,
+    "end": 1221
+  },
+  {
+    "entity": "pulse",
+    "label": "TEST",
+    "start": 1226,
+    "end": 1231
+  },
+  {
+    "entity": "temperature",
+    "label": "TEST",
+    "start": 1236,
+    "end": 1247
+  },
+  {
+    "entity": "acute distress",
+    "label": "PROBLEM",
+    "start": 1307,
+    "end": 1321
+  },
+  {
+    "entity": "Gross neurologic examination",
+    "label": "TEST",
+    "start": 1345,
+    "end": 1373
+  },
+  {
+    "entity": "ENT examination",
+    "label": "TEST",
+    "start": 1385,
+    "end": 1400
+  },
+  {
+    "entity": "range of motion",
+    "label": "TEST",
+    "start": 1476,
+    "end": 1491
+  },
+  {
+    "entity": "adenopathy",
+    "label": "PROBLEM",
+    "start": 1500,
+    "end": 1510
+  },
+  {
+    "entity": "thyromegaly",
+    "label": "PROBLEM",
+    "start": 1514,
+    "end": 1525
+  },
+  {
+    "entity": "rate",
+    "label": "TEST",
+    "start": 1551,
+    "end": 1555
+  },
+  {
+    "entity": "rhythm",
+    "label": "TEST",
+    "start": 1560,
+    "end": 1566
+  },
+  {
+    "entity": "examination of the shoulder",
+    "label": "TEST",
+    "start": 1600,
+    "end": 1627
+  },
+  {
+    "entity": "mild to moderately tender",
+    "label": "PROBLEM",
+    "start": 1635,
+    "end": 1660
+  },
+  {
+    "entity": "His range of motion",
+    "label": "TEST",
+    "start": 1716,
+    "end": 1735
+  },
+  {
+    "entity": "pain",
+    "label": "PROBLEM",
+    "start": 1784,
+    "end": 1788
+  },
+  {
+    "entity": "Neer's and Hawkins impingement testing",
+    "label": "TEST",
+    "start": 1933,
+    "end": 1971
+  },
+  {
+    "entity": "sulcus, apprehension, Speed's and Yergason's testing",
+    "label": "TEST",
+    "start": 1989,
+    "end": 2041
+  },
+  {
+    "entity": "Two view x-rays",
+    "label": "TEST",
+    "start": 2063,
+    "end": 2078
+  },
+  {
+    "entity": "osseous abnormalities",
+    "label": "PROBLEM",
+    "start": 2120,
+    "end": 2141
+  },
+  {
+    "entity": "significant degenerative changes",
+    "label": "PROBLEM",
+    "start": 2145,
+    "end": 2177
+  },
+  {
+    "entity": "Right shoulder pain",
+    "label": "PROBLEM",
+    "start": 2191,
+    "end": 2210
+  },
+  {
+    "entity": "muscular strain",
+    "label": "PROBLEM",
+    "start": 2237,
+    "end": 2252
+  },
+  {
+    "entity": "impingement",
+    "label": "PROBLEM",
+    "start": 2291,
+    "end": 2302
+  },
+  {
+    "entity": "any persistent pain",
+    "label": "PROBLEM",
+    "start": 2414,
+    "end": 2433
+  },
+  {
+    "entity": "an MRI",
+    "label": "TEST",
+    "start": 2475,
+    "end": 2481
+  },
+  {
+    "entity": "paresthesias",
+    "label": "PROBLEM",
+    "start": 2578,
+    "end": 2590
+  },
+  {
+    "entity": "shoulder pain",
+    "label": "PROBLEM",
+    "start": 2602,
+    "end": 2615
+  },
+  {
+    "entity": "strain",
+    "label": "PROBLEM",
+    "start": 2617,
+    "end": 2623
+  },
+  {
+    "entity": "x-rays",
+    "label": "TEST",
+    "start": 2632,
+    "end": 2638
+  },
+  {
+    "entity": "abnormalities",
+    "label": "PROBLEM",
+    "start": 2665,
+    "end": 2678
+  },
+  {
+    "entity": "impingement",
+    "label": "PROBLEM",
+    "start": 2680,
+    "end": 2691
+  },
+  {
+    "entity": "examination",
+    "label": "TEST",
+    "start": 2693,
+    "end": 2704
+  }
+]

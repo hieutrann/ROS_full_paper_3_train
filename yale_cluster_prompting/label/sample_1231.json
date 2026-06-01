@@ -1,0 +1,158 @@
+[
+  {
+    "entity": "Mesothelioma",
+    "label": "PROBLEM",
+    "start": 77,
+    "end": 89
+  },
+  {
+    "entity": "end-stage peritoneal mesothelioma",
+    "label": "PROBLEM",
+    "start": 130,
+    "end": 163
+  },
+  {
+    "entity": "multiple bowel perforations",
+    "label": "PROBLEM",
+    "start": 169,
+    "end": 196
+  },
+  {
+    "entity": "end-stage peritoneal mesothelioma",
+    "label": "PROBLEM",
+    "start": 309,
+    "end": 342
+  },
+  {
+    "entity": "multiple bowel perforations",
+    "label": "PROBLEM",
+    "start": 348,
+    "end": 375
+  },
+  {
+    "entity": "pleurodesis",
+    "label": "TREATMENT",
+    "start": 411,
+    "end": 422
+  },
+  {
+    "entity": "persistent abdominal pain",
+    "label": "PROBLEM",
+    "start": 428,
+    "end": 453
+  },
+  {
+    "entity": "Duragesic",
+    "label": "DRUG",
+    "start": 491,
+    "end": 500
+  },
+  {
+    "entity": "Dilaudid",
+    "label": "DRUG",
+    "start": 555,
+    "end": 563
+  },
+  {
+    "entity": "Dilaudid",
+    "label": "DRUG",
+    "start": 602,
+    "end": 610
+  },
+  {
+    "entity": "Ativan",
+    "label": "DRUG",
+    "start": 639,
+    "end": 645
+  },
+  {
+    "entity": "Tylenol",
+    "label": "DRUG",
+    "start": 659,
+    "end": 666
+  },
+  {
+    "entity": "multiple procedures",
+    "label": "TREATMENT",
+    "start": 704,
+    "end": 723
+  },
+  {
+    "entity": "her abdominal pain",
+    "label": "PROBLEM",
+    "start": 737,
+    "end": 755
+  },
+  {
+    "entity": "a thoracic epidural placement",
+    "label": "TREATMENT",
+    "start": 766,
+    "end": 795
+  },
+  {
+    "entity": "sympathetic block",
+    "label": "TREATMENT",
+    "start": 800,
+    "end": 817
+  },
+  {
+    "entity": "pain control",
+    "label": "TREATMENT",
+    "start": 822,
+    "end": 834
+  },
+  {
+    "entity": "a celiac plexuses/neurolytic block",
+    "label": "TREATMENT",
+    "start": 839,
+    "end": 873
+  },
+  {
+    "entity": "these pain procedures",
+    "label": "TREATMENT",
+    "start": 934,
+    "end": 955
+  },
+  {
+    "entity": "medical management",
+    "label": "DRUG",
+    "start": 1083,
+    "end": 1101
+  },
+  {
+    "entity": "anxiety",
+    "label": "PROBLEM",
+    "start": 1197,
+    "end": 1204
+  },
+  {
+    "entity": "pleurodesis",
+    "label": "TREATMENT",
+    "start": 1298,
+    "end": 1309
+  },
+  {
+    "entity": "abdominal pain",
+    "label": "PROBLEM",
+    "start": 1311,
+    "end": 1325
+  },
+  {
+    "entity": "multiple bowel perforations",
+    "label": "PROBLEM",
+    "start": 1327,
+    "end": 1354
+  },
+  {
+    "entity": "peritoneal mesothelioma",
+    "label": "PROBLEM",
+    "start": 1356,
+    "end": 1379
+  },
+  {
+    "entity": "mesothelioma",
+    "label": "PROBLEM",
+    "start": 1381,
+    "end": 1393
+  }
+]

@@ -1,0 +1,545 @@
+[
+  {
+    "extensive dental disease": "PROBLEM"
+  },
+  {
+    "toothache": "PROBLEM"
+  },
+  {
+    "tooth pain": "PROBLEM"
+  },
+  {
+    "dental disease": "PROBLEM"
+  },
+  {
+    "CHIEF COMPLAINT": "TEST"
+  },
+  {
+    "extensive dental disease": "PROBLEM"
+  },
+  {
+    "teeth": "PROBLEM"
+  },
+  {
+    "dental disease": "PROBLEM"
+  },
+  {
+    "tooth pain": "PROBLEM"
+  },
+  {
+    "dentist": "PROBLEM"
+  },
+  {
+    "appointments": "PROBLEM"
+  },
+  {
+    "problems": "PROBLEM"
+  },
+  {
+    "recent illness": "PROBLEM"
+  },
+  {
+    "injuries": "PROBLEM"
+  },
+  {
+    "OxyContin": "DRUG"
+  },
+  {
+    "Vicodin": "DRUG"
+  },
+  {
+    "knee pain": "PROBLEM"
+  },
+  {
+    "toothache": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "chills": "PROBLEM"
+  },
+  {
+    "fatigue": "PROBLEM"
+  },
+  {
+    "weakness": "PROBLEM"
+  },
+  {
+    "weight change": "PROBLEM"
+  },
+  {
+    "toothache pain": "PROBLEM"
+  },
+  {
+    "headache": "PROBLEM"
+  },
+  {
+    "neck pain": "PROBLEM"
+  },
+  {
+    "throat swelling": "PROBLEM"
+  },
+  {
+    "sore throat": "PROBLEM"
+  },
+  {
+    "difficulty swallowing solids": "PROBLEM"
+  },
+  {
+    "difficulty swallowing solids or liquids": "PROBLEM"
+  },
+  {
+    "rhinorrhea": "PROBLEM"
+  },
+  {
+    "sinus congestion": "PROBLEM"
+  },
+  {
+    "pressure": "PROBLEM"
+  },
+  {
+    "pain": "PROBLEM"
+  },
+  {
+    "ear pain": "PROBLEM"
+  },
+  {
+    "hearing change": "PROBLEM"
+  },
+  {
+    "eye pain": "PROBLEM"
+  },
+  {
+    "vision change": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "dysuria": "PROBLEM"
+  },
+  {
+    "back pain": "PROBLEM"
+  },
+  {
+    "muscle or joint aches": "PROBLEM"
+  },
+  {
+    "joint aches": "PROBLEM"
+  },
+  {
+    "rashes": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "vision change": "PROBLEM"
+  },
+  {
+    "hearing change": "PROBLEM"
+  },
+  {
+    "focal weakness": "PROBLEM"
+  },
+  {
+    "numbness": "PROBLEM"
+  },
+  {
+    "speech": "PROBLEM"
+  },
+  {
+    "lymph node swelling": "PROBLEM"
+  },
+  {
+    "knee pain": "PROBLEM"
+  },
+  {
+    "OxyContin": "DRUG"
+  },
+  {
+    "Vicodin": "DRUG"
+  },
+  {
+    "PENICILLIN": "DRUG"
+  },
+  {
+    "CODEINE": "DRUG"
+  },
+  {
+    "smoker": "PROBLEM"
+  },
+  {
+    "VITAL SIGNS": "TEST"
+  },
+  {
+    "Temperature 97.9 oral": "TEST"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "146/83": "TEST"
+  },
+  {
+    "pulse": "TEST"
+  },
+  {
+    "74": "TEST"
+  },
+  {
+    "respirations": "TEST"
+  },
+  {
+    "16": "TEST"
+  },
+  {
+    "oxygen saturation": "TEST"
+  },
+  {
+    "98%": "TEST"
+  },
+  {
+    "room air": "TEST"
+  },
+  {
+    "normal": "TEST"
+  },
+  {
+    "well nourished": "PROBLEM"
+  },
+  {
+    "well developed": "PROBLEM"
+  },
+  {
+    "overweight": "PROBLEM"
+  },
+  {
+    "acute distress": "PROBLEM"
+  },
+  {
+    "Eyes": "TEST"
+  },
+  {
+    "conjunctiva": "TEST"
+  },
+  {
+    "cornea": "TEST"
+  },
+  {
+    "icterus": "PROBLEM"
+  },
+  {
+    "injection": "PROBLEM"
+  },
+  {
+    "discharge": "PROBLEM"
+  },
+  {
+    "pupils": "TEST"
+  },
+  {
+    "light sensitivity": "PROBLEM"
+  },
+  {
+    "photophobia": "PROBLEM"
+  },
+  {
+    "Extraocular motions": "TEST"
+  },
+  {
+    "infection": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "swelling": "PROBLEM"
+  },
+  {
+    "canals": "PROBLEM"
+  },
+  {
+    "Tympanic membranes": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "bulging": "PROBLEM"
+  },
+  {
+    "fluid levels": "PROBLEM"
+  },
+  {
+    "bubbles": "PROBLEM"
+  },
+  {
+    "rhinorrhea": "PROBLEM"
+  },
+  {
+    "audible congestion": "PROBLEM"
+  },
+  {
+    "sinuses": "PROBLEM"
+  },
+  {
+    "Supple": "PROBLEM"
+  },
+  {
+    "nontender": "PROBLEM"
+  },
+  {
+    "full range of motion": "PROBLEM"
+  },
+  {
+    "meningismus": "PROBLEM"
+  },
+  {
+    "cervical lymphadenopathy": "PROBLEM"
+  },
+  {
+    "JVD": "PROBLEM"
+  },
+  {
+    "Mouth": "PROBLEM"
+  },
+  {
+    "dental caries": "PROBLEM"
+  },
+  {
+    "tenderness": "PROBLEM"
+  },
+  {
+    "tooth #12": "PROBLEM"
+  },
+  {
+    "tooth #21": "PROBLEM"
+  },
+  {
+    "gums": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "swelling": "PROBLEM"
+  },
+  {
+    "purulent or other discharge": "PROBLEM"
+  },
+  {
+    "discharge": "PROBLEM"
+  },
+  {
+    "abscess": "PROBLEM"
+  },
+  {
+    "dental fractures": "PROBLEM"
+  },
+  {
+    "infection": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "exudate": "PROBLEM"
+  },
+  {
+    "lesion": "PROBLEM"
+  },
+  {
+    "swelling": "PROBLEM"
+  },
+  {
+    "buccal membranes": "TEST"
+  },
+  {
+    "mucous membranes": "PROBLEM"
+  },
+  {
+    "abscess": "PROBLEM"
+  },
+  {
+    "Ludwig's syndrome": "PROBLEM"
+  },
+  {
+    "Heart is regular rate and rhythm without murmur": "TEST"
+  },
+  {
+    "murmur": "TEST"
+  },
+  {
+    "rub": "TEST"
+  },
+  {
+    "gallop": "TEST"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "auscultation": "TEST"
+  },
+  {
+    "RESPIRATIONS": "TEST"
+  },
+  {
+    "Abdomen": "PROBLEM"
+  },
+  {
+    "back": "PROBLEM"
+  },
+  {
+    "arms": "PROBLEM"
+  },
+  {
+    "legs": "PROBLEM"
+  },
+  {
+    "normal use of his extremities": "PROBLEM"
+  },
+  {
+    "rashes": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "Cranial nerves II through XII": "TEST"
+  },
+  {
+    "extremities": "PROBLEM"
+  },
+  {
+    "speech": "PROBLEM"
+  },
+  {
+    "ambulation": "PROBLEM"
+  },
+  {
+    "alert and oriented": "PROBLEM"
+  },
+  {
+    "mood": "PROBLEM"
+  },
+  {
+    "affect": "PROBLEM"
+  },
+  {
+    "cervical lymphadenopathy": "PROBLEM"
+  },
+  {
+    "pain shot": "TREATMENT"
+  },
+  {
+    "Dilaudid": "DRUG"
+  },
+  {
+    "DIAGNOSES": "TEST"
+  },
+  {
+    "ODONTALGIA": "PROBLEM"
+  },
+  {
+    "2": "TEST"
+  },
+  {
+    "DENTAL CARIES": "PROBLEM"
+  },
+  {
+    "CONDITION UPON DISPOSITION": "PROBLEM"
+  },
+  {
+    "home": "TREATMENT"
+  },
+  {
+    "dental clinics": "TREATMENT"
+  },
+  {
+    "dentist": "TREATMENT"
+  },
+  {
+    "reevaluation": "TEST"
+  },
+  {
+    "Percocet": "DRUG"
+  },
+  {
+    "clindamycin": "DRUG"
+  },
+  {
+    "drug precautions": "TREATMENT"
+  },
+  {
+    "medicines": "DRUG"
+  },
+  {
+    "toothache": "PROBLEM"
+  },
+  {
+    "instructions": "TREATMENT"
+  },
+  {
+    "worsening of his condition": "PROBLEM"
+  },
+  {
+    "problems": "PROBLEM"
+  },
+  {
+    "symptoms of concern": "PROBLEM"
+  },
+  {
+    "odontalgi": "PROBLEM"
+  },
+  {
+    "multiple dental caries": "PROBLEM"
+  },
+  {
+    "dental disease": "PROBLEM"
+  },
+  {
+    "extensive dental disease": "PROBLEM"
+  },
+  {
+    "cervical lymphadenopathy": "PROBLEM"
+  },
+  {
+    "toothache": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "swelling": "PROBLEM"
+  },
+  {
+    "teeth pulled": "TREATMENT"
+  },
+  {
+    "dental caries": "PROBLEM"
+  },
+  {
+    "dental": "PROBLEM"
+  },
+  {
+    "general medicine": "TEST"
+  }
+]

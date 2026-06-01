@@ -1,0 +1,173 @@
+[
+  {
+    "Refractory Hypertension": "PROBLEM"
+  },
+  {
+    "Refractory hypertension": "PROBLEM"
+  },
+  {
+    "cardiac arrhythmia": "PROBLEM"
+  },
+  {
+    "pacemaker": "TREATMENT"
+  },
+  {
+    "AV block": "PROBLEM"
+  },
+  {
+    "GI bleed": "PROBLEM"
+  },
+  {
+    "depression": "PROBLEM"
+  },
+  {
+    "Refractory hypertension": "PROBLEM"
+  },
+  {
+    "cardiac arrhythmia": "PROBLEM"
+  },
+  {
+    "pacemaker": "TREATMENT"
+  },
+  {
+    "AV block": "PROBLEM"
+  },
+  {
+    "GI bleed": "PROBLEM"
+  },
+  {
+    "depression": "PROBLEM"
+  },
+  {
+    "antihypertensive medications": "DRUG"
+  },
+  {
+    "blood pressure reading": "TEST"
+  },
+  {
+    "weakness": "PROBLEM"
+  },
+  {
+    "dizziness": "PROBLEM"
+  },
+  {
+    "lightheadedness": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "constipation": "PROBLEM"
+  },
+  {
+    "diarrhea": "PROBLEM"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "difficulty breathing": "PROBLEM"
+  },
+  {
+    "orthopnea": "PROBLEM"
+  },
+  {
+    "musculoskeletal": "PROBLEM"
+  },
+  {
+    "pain in the right buttock": "PROBLEM"
+  },
+  {
+    "spine": "PROBLEM"
+  },
+  {
+    "extremity pain": "PROBLEM"
+  },
+  {
+    "Triamterene/hydrochlorothiazide": "DRUG"
+  },
+  {
+    "Norvasc": "DRUG"
+  },
+  {
+    "Atenolol": "DRUG"
+  },
+  {
+    "Atacand": "DRUG"
+  },
+  {
+    "Cardura": "DRUG"
+  },
+  {
+    "PHYSICAL EXAMINATION": "TEST"
+  },
+  {
+    "VITAL SIGNS": "TEST"
+  },
+  {
+    "THORAX": "TEST"
+  },
+  {
+    "CARDIOVASCULAR": "TEST"
+  },
+  {
+    "murmur": "PROBLEM"
+  },
+  {
+    "S3": "PROBLEM"
+  },
+  {
+    "murmur": "PROBLEM"
+  },
+  {
+    "nontender": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "refractory hypertension": "PROBLEM"
+  },
+  {
+    "blood pressure reading": "TEST"
+  },
+  {
+    "GFR": "TEST"
+  },
+  {
+    "blood pressure": "PROBLEM"
+  },
+  {
+    "confusion": "PROBLEM"
+  },
+  {
+    "cardiac arrhythmia": "PROBLEM"
+  },
+  {
+    "av block": "PROBLEM"
+  },
+  {
+    "refractory hypertension": "PROBLEM"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "pacemaker": "TREATMENT"
+  },
+  {
+    "atenolol": "DRUG"
+  },
+  {
+    "arrhythmia": "PROBLEM"
+  }
+]

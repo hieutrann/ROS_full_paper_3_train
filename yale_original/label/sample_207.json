@@ -1,0 +1,188 @@
+[
+  {
+    "entity": "some very mild prematurity",
+    "label": "PROBLEM",
+    "start": 162,
+    "end": 188
+  },
+  {
+    "entity": "wheezing",
+    "label": "PROBLEM",
+    "start": 210,
+    "end": 218
+  },
+  {
+    "entity": "cough",
+    "label": "PROBLEM",
+    "start": 220,
+    "end": 225
+  },
+  {
+    "entity": "shortness of breath",
+    "label": "PROBLEM",
+    "start": 230,
+    "end": 249
+  },
+  {
+    "entity": "some very mild prematurity",
+    "label": "PROBLEM",
+    "start": 552,
+    "end": 578
+  },
+  {
+    "entity": "problems",
+    "label": "PROBLEM",
+    "start": 600,
+    "end": 608
+  },
+  {
+    "entity": "wheezing",
+    "label": "PROBLEM",
+    "start": 614,
+    "end": 622
+  },
+  {
+    "entity": "cough",
+    "label": "PROBLEM",
+    "start": 624,
+    "end": 629
+  },
+  {
+    "entity": "shortness of breath",
+    "label": "PROBLEM",
+    "start": 634,
+    "end": 653
+  },
+  {
+    "entity": "steroids",
+    "label": "DRUG",
+    "start": 750,
+    "end": 758
+  },
+  {
+    "entity": "bronchodilator",
+    "label": "DRUG",
+    "start": 763,
+    "end": 777
+  },
+  {
+    "entity": "persistent problems",
+    "label": "PROBLEM",
+    "start": 814,
+    "end": 833
+  },
+  {
+    "entity": "a cough",
+    "label": "PROBLEM",
+    "start": 839,
+    "end": 846
+  },
+  {
+    "entity": "prednisolone",
+    "label": "DRUG",
+    "start": 907,
+    "end": 919
+  },
+  {
+    "entity": "asthma",
+    "label": "PROBLEM",
+    "start": 1100,
+    "end": 1106
+  },
+  {
+    "entity": "exam",
+    "label": "TEST",
+    "start": 1293,
+    "end": 1297
+  },
+  {
+    "entity": "some scattered rhonchi",
+    "label": "PROBLEM",
+    "start": 1313,
+    "end": 1335
+  },
+  {
+    "entity": "coughing",
+    "label": "PROBLEM",
+    "start": 1355,
+    "end": 1363
+  },
+  {
+    "entity": "asthma management",
+    "label": "TREATMENT",
+    "start": 1465,
+    "end": 1482
+  },
+  {
+    "entity": "fairly severe childhood asthma",
+    "label": "PROBLEM",
+    "start": 1622,
+    "end": 1652
+  },
+  {
+    "entity": "his alternate day steroids",
+    "label": "DRUG",
+    "start": 1738,
+    "end": 1764
+  },
+  {
+    "entity": "symptom",
+    "label": "PROBLEM",
+    "start": 1788,
+    "end": 1795
+  },
+  {
+    "entity": "steroids",
+    "label": "DRUG",
+    "start": 1817,
+    "end": 1825
+  },
+  {
+    "entity": "bronchodilator",
+    "label": "DRUG",
+    "start": 2168,
+    "end": 2182
+  },
+  {
+    "entity": "childhood asthma",
+    "label": "PROBLEM",
+    "start": 2195,
+    "end": 2211
+  },
+  {
+    "entity": "cough",
+    "label": "PROBLEM",
+    "start": 2213,
+    "end": 2218
+  },
+  {
+    "entity": "prematurity",
+    "label": "PROBLEM",
+    "start": 2264,
+    "end": 2275
+  },
+  {
+    "entity": "shortness of breath",
+    "label": "PROBLEM",
+    "start": 2277,
+    "end": 2296
+  },
+  {
+    "entity": "wheezing",
+    "label": "PROBLEM",
+    "start": 2306,
+    "end": 2314
+  },
+  {
+    "entity": "wheezing cough",
+    "label": "PROBLEM",
+    "start": 2316,
+    "end": 2330
+  },
+  {
+    "entity": "asthma",
+    "label": "PROBLEM",
+    "start": 2332,
+    "end": 2338
+  }
+]

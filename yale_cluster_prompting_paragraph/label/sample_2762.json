@@ -1,0 +1,830 @@
+[
+  {
+    "entity": "Seizure",
+    "label": "PROBLEM",
+    "start": 123,
+    "end": 130
+  },
+  {
+    "entity": "hypoglycemia",
+    "label": "PROBLEM",
+    "start": 132,
+    "end": 144
+  },
+  {
+    "entity": "anemia",
+    "label": "PROBLEM",
+    "start": 146,
+    "end": 152
+  },
+  {
+    "entity": "dyspnea",
+    "label": "PROBLEM",
+    "start": 154,
+    "end": 161
+  },
+  {
+    "entity": "edema",
+    "label": "PROBLEM",
+    "start": 163,
+    "end": 168
+  },
+  {
+    "entity": "colon cancer",
+    "label": "PROBLEM",
+    "start": 170,
+    "end": 182
+  },
+  {
+    "entity": "post right hemicolectomy",
+    "label": "TREATMENT",
+    "start": 190,
+    "end": 214
+  },
+  {
+    "entity": "hospital-acquired pneumonia",
+    "label": "PROBLEM",
+    "start": 216,
+    "end": 243
+  },
+  {
+    "entity": "congestive heart failure",
+    "label": "PROBLEM",
+    "start": 249,
+    "end": 273
+  },
+  {
+    "entity": "Seizure",
+    "label": "PROBLEM",
+    "start": 337,
+    "end": 344
+  },
+  {
+    "entity": "Hypoglycemia",
+    "label": "PROBLEM",
+    "start": 349,
+    "end": 361
+  },
+  {
+    "entity": "Anemia",
+    "label": "PROBLEM",
+    "start": 366,
+    "end": 372
+  },
+  {
+    "entity": "Hypotension",
+    "label": "PROBLEM",
+    "start": 377,
+    "end": 388
+  },
+  {
+    "entity": "Dyspnea",
+    "label": "PROBLEM",
+    "start": 393,
+    "end": 400
+  },
+  {
+    "entity": "Edema",
+    "label": "PROBLEM",
+    "start": 405,
+    "end": 410
+  },
+  {
+    "entity": "Colon cancer",
+    "label": "PROBLEM",
+    "start": 436,
+    "end": 448
+  },
+  {
+    "entity": "post right hemicolectomy",
+    "label": "TREATMENT",
+    "start": 457,
+    "end": 481
+  },
+  {
+    "entity": "Anemia",
+    "label": "PROBLEM",
+    "start": 486,
+    "end": 492
+  },
+  {
+    "entity": "Hospital-acquired pneumonia",
+    "label": "PROBLEM",
+    "start": 497,
+    "end": 524
+  },
+  {
+    "entity": "Hypertension",
+    "label": "PROBLEM",
+    "start": 529,
+    "end": 541
+  },
+  {
+    "entity": "Congestive heart failure",
+    "label": "PROBLEM",
+    "start": 546,
+    "end": 570
+  },
+  {
+    "entity": "Seizure disorder",
+    "label": "PROBLEM",
+    "start": 575,
+    "end": 591
+  },
+  {
+    "entity": "Colonoscopy",
+    "label": "TEST",
+    "start": 618,
+    "end": 629
+  },
+  {
+    "entity": "Right hemicolectomy",
+    "label": "TREATMENT",
+    "start": 634,
+    "end": 653
+  },
+  {
+    "entity": "multiple medical problems",
+    "label": "PROBLEM",
+    "start": 713,
+    "end": 738
+  },
+  {
+    "entity": "diabetes mellitus",
+    "label": "PROBLEM",
+    "start": 749,
+    "end": 766
+  },
+  {
+    "entity": "insulin",
+    "label": "DRUG",
+    "start": 777,
+    "end": 784
+  },
+  {
+    "entity": "previous MI",
+    "label": "PROBLEM",
+    "start": 799,
+    "end": 810
+  },
+  {
+    "entity": "coronary artery disease",
+    "label": "PROBLEM",
+    "start": 815,
+    "end": 838
+  },
+  {
+    "entity": "seizure disorder",
+    "label": "PROBLEM",
+    "start": 851,
+    "end": 867
+  },
+  {
+    "entity": "GERD",
+    "label": "PROBLEM",
+    "start": 869,
+    "end": 873
+  },
+  {
+    "entity": "bipolar disorder",
+    "label": "PROBLEM",
+    "start": 875,
+    "end": 891
+  },
+  {
+    "entity": "anemia",
+    "label": "PROBLEM",
+    "start": 897,
+    "end": 903
+  },
+  {
+    "entity": "a seizure",
+    "label": "PROBLEM",
+    "start": 929,
+    "end": 938
+  },
+  {
+    "entity": "myoclonic",
+    "label": "PROBLEM",
+    "start": 943,
+    "end": 952
+  },
+  {
+    "entity": "hypoglycemia",
+    "label": "PROBLEM",
+    "start": 970,
+    "end": 982
+  },
+  {
+    "entity": "anemia",
+    "label": "PROBLEM",
+    "start": 987,
+    "end": 993
+  },
+  {
+    "entity": "seizure disorder",
+    "label": "PROBLEM",
+    "start": 1009,
+    "end": 1025
+  },
+  {
+    "entity": "Noncontrast CT of the head",
+    "label": "TEST",
+    "start": 1052,
+    "end": 1078
+  },
+  {
+    "entity": "her Lamictal",
+    "label": "DRUG",
+    "start": 1179,
+    "end": 1191
+  },
+  {
+    "entity": "the hypoglycemia",
+    "label": "PROBLEM",
+    "start": 1320,
+    "end": 1336
+  },
+  {
+    "entity": "diabetic gastroparesis",
+    "label": "PROBLEM",
+    "start": 1354,
+    "end": 1376
+  },
+  {
+    "entity": "J-tube intermittent feedings",
+    "label": "TREATMENT",
+    "start": 1398,
+    "end": 1426
+  },
+  {
+    "entity": "the rate",
+    "label": "TEST",
+    "start": 1451,
+    "end": 1459
+  },
+  {
+    "entity": "Her insulin pump",
+    "label": "DRUG",
+    "start": 1476,
+    "end": 1492
+  },
+  {
+    "entity": "the feedings",
+    "label": "TREATMENT",
+    "start": 1543,
+    "end": 1555
+  },
+  {
+    "entity": "the insulin pump",
+    "label": "DRUG",
+    "start": 1580,
+    "end": 1596
+  },
+  {
+    "entity": "the insulin",
+    "label": "DRUG",
+    "start": 1699,
+    "end": 1710
+  },
+  {
+    "entity": "a few episodes of hypoglycemia",
+    "label": "PROBLEM",
+    "start": 1769,
+    "end": 1799
+  },
+  {
+    "entity": "hyperglycemia",
+    "label": "PROBLEM",
+    "start": 1811,
+    "end": 1824
+  },
+  {
+    "entity": "tube feedings",
+    "label": "TREATMENT",
+    "start": 1918,
+    "end": 1931
+  },
+  {
+    "entity": "her insulin",
+    "label": "DRUG",
+    "start": 2038,
+    "end": 2049
+  },
+  {
+    "entity": "The insulin",
+    "label": "DRUG",
+    "start": 2213,
+    "end": 2224
+  },
+  {
+    "entity": "NovoLog",
+    "label": "DRUG",
+    "start": 2235,
+    "end": 2242
+  },
+  {
+    "entity": "the anemia",
+    "label": "PROBLEM",
+    "start": 2254,
+    "end": 2264
+  },
+  {
+    "entity": "her positive Hemoccult stools",
+    "label": "PROBLEM",
+    "start": 2315,
+    "end": 2344
+  },
+  {
+    "entity": "A colonoscopy",
+    "label": "TEST",
+    "start": 2346,
+    "end": 2359
+  },
+  {
+    "entity": "a mass at the right hepatic flexure",
+    "label": "PROBLEM",
+    "start": 2387,
+    "end": 2422
+  },
+  {
+    "entity": "a right hemicolectomy",
+    "label": "TREATMENT",
+    "start": 2463,
+    "end": 2484
+  },
+  {
+    "entity": "the procedure",
+    "label": "TREATMENT",
+    "start": 2537,
+    "end": 2550
+  },
+  {
+    "entity": "tube feeds",
+    "label": "TREATMENT",
+    "start": 2560,
+    "end": 2570
+  },
+  {
+    "entity": "the procedure",
+    "label": "TREATMENT",
+    "start": 2603,
+    "end": 2616
+  },
+  {
+    "entity": "the cancer",
+    "label": "PROBLEM",
+    "start": 2704,
+    "end": 2714
+  },
+  {
+    "entity": "cancer",
+    "label": "PROBLEM",
+    "start": 2777,
+    "end": 2783
+  },
+  {
+    "entity": "CT of the abdomen and pelvis",
+    "label": "TEST",
+    "start": 2785,
+    "end": 2813
+  },
+  {
+    "entity": "metastasis",
+    "label": "PROBLEM",
+    "start": 2826,
+    "end": 2836
+  },
+  {
+    "entity": "a CT of the chest",
+    "label": "TEST",
+    "start": 2838,
+    "end": 2855
+  },
+  {
+    "entity": "lung metastasis",
+    "label": "PROBLEM",
+    "start": 2874,
+    "end": 2889
+  },
+  {
+    "entity": "a septic-like picture",
+    "label": "PROBLEM",
+    "start": 2939,
+    "end": 2960
+  },
+  {
+    "entity": "hospital-acquired pneumonia",
+    "label": "PROBLEM",
+    "start": 2981,
+    "end": 3008
+  },
+  {
+    "entity": "Zosyn",
+    "label": "DRUG",
+    "start": 3031,
+    "end": 3036
+  },
+  {
+    "entity": "Levaquin",
+    "label": "DRUG",
+    "start": 3038,
+    "end": 3046
+  },
+  {
+    "entity": "vancomycin",
+    "label": "DRUG",
+    "start": 3052,
+    "end": 3062
+  },
+  {
+    "entity": "the medications",
+    "label": "DRUG",
+    "start": 3078,
+    "end": 3093
+  },
+  {
+    "entity": "Her symptoms",
+    "label": "PROBLEM",
+    "start": 3100,
+    "end": 3112
+  },
+  {
+    "entity": "serial chest x-rays",
+    "label": "TEST",
+    "start": 3127,
+    "end": 3146
+  },
+  {
+    "entity": "the illness",
+    "label": "PROBLEM",
+    "start": 3194,
+    "end": 3205
+  },
+  {
+    "entity": "vancomycin",
+    "label": "DRUG",
+    "start": 3312,
+    "end": 3322
+  },
+  {
+    "entity": "MRSA bacteria",
+    "label": "PROBLEM",
+    "start": 3332,
+    "end": 3345
+  },
+  {
+    "entity": "the J-tube site",
+    "label": "TREATMENT",
+    "start": 3366,
+    "end": 3381
+  },
+  {
+    "entity": "Levaquin",
+    "label": "DRUG",
+    "start": 3449,
+    "end": 3457
+  },
+  {
+    "entity": "Bactrim DS",
+    "label": "DRUG",
+    "start": 3501,
+    "end": 3511
+  },
+  {
+    "entity": "The Bactrim",
+    "label": "DRUG",
+    "start": 3528,
+    "end": 3539
+  },
+  {
+    "entity": "the MRSA",
+    "label": "PROBLEM",
+    "start": 3558,
+    "end": 3566
+  },
+  {
+    "entity": "the J-tube site",
+    "label": "TREATMENT",
+    "start": 3570,
+    "end": 3585
+  },
+  {
+    "entity": "MRSA",
+    "label": "PROBLEM",
+    "start": 3605,
+    "end": 3609
+  },
+  {
+    "entity": "Bactrim",
+    "label": "DRUG",
+    "start": 3627,
+    "end": 3634
+  },
+  {
+    "entity": "Coreg",
+    "label": "DRUG",
+    "start": 3701,
+    "end": 3706
+  },
+  {
+    "entity": "Lasix",
+    "label": "DRUG",
+    "start": 3725,
+    "end": 3730
+  },
+  {
+    "entity": "her congestive heart failure",
+    "label": "PROBLEM",
+    "start": 3753,
+    "end": 3781
+  },
+  {
+    "entity": "Lipitor",
+    "label": "DRUG",
+    "start": 3823,
+    "end": 3830
+  },
+  {
+    "entity": "her high cholesterol",
+    "label": "PROBLEM",
+    "start": 3835,
+    "end": 3855
+  },
+  {
+    "entity": "Her seizure disorder",
+    "label": "PROBLEM",
+    "start": 3857,
+    "end": 3877
+  },
+  {
+    "entity": "isotonic fiber feeding",
+    "label": "TREATMENT",
+    "start": 4197,
+    "end": 4219
+  },
+  {
+    "entity": "the J-tube",
+    "label": "TREATMENT",
+    "start": 4228,
+    "end": 4238
+  },
+  {
+    "entity": "The discharge medications",
+    "label": "DRUG",
+    "start": 4287,
+    "end": 4312
+  },
+  {
+    "entity": "Coreg",
+    "label": "DRUG",
+    "start": 4333,
+    "end": 4338
+  },
+  {
+    "entity": "Lipitor",
+    "label": "DRUG",
+    "start": 4362,
+    "end": 4369
+  },
+  {
+    "entity": "Nitro-Dur",
+    "label": "DRUG",
+    "start": 4396,
+    "end": 4405
+  },
+  {
+    "entity": "Phenergan",
+    "label": "DRUG",
+    "start": 4448,
+    "end": 4457
+  },
+  {
+    "entity": "Synthroid",
+    "label": "DRUG",
+    "start": 4493,
+    "end": 4502
+  },
+  {
+    "entity": "Zyrtec",
+    "label": "DRUG",
+    "start": 4527,
+    "end": 4533
+  },
+  {
+    "entity": "Lamictal",
+    "label": "DRUG",
+    "start": 4555,
+    "end": 4563
+  },
+  {
+    "entity": "Lamictal",
+    "label": "DRUG",
+    "start": 4586,
+    "end": 4594
+  },
+  {
+    "entity": "Ferrous sulfate",
+    "label": "DRUG",
+    "start": 4622,
+    "end": 4637
+  },
+  {
+    "entity": "PEG tube",
+    "label": "TREATMENT",
+    "start": 4652,
+    "end": 4660
+  },
+  {
+    "entity": "Nexium",
+    "label": "DRUG",
+    "start": 4672,
+    "end": 4678
+  },
+  {
+    "entity": "Neurontin",
+    "label": "DRUG",
+    "start": 4708,
+    "end": 4717
+  },
+  {
+    "entity": "Lasix",
+    "label": "DRUG",
+    "start": 4741,
+    "end": 4746
+  },
+  {
+    "entity": "Fentanyl",
+    "label": "DRUG",
+    "start": 4769,
+    "end": 4777
+  },
+  {
+    "entity": "Calcium and vitamin D combination",
+    "label": "DRUG",
+    "start": 4814,
+    "end": 4847
+  },
+  {
+    "entity": "calcium carbonate",
+    "label": "DRUG",
+    "start": 4849,
+    "end": 4866
+  },
+  {
+    "entity": "vitamin D",
+    "label": "DRUG",
+    "start": 4874,
+    "end": 4883
+  },
+  {
+    "entity": "Bactrim DS",
+    "label": "DRUG",
+    "start": 4918,
+    "end": 4928
+  },
+  {
+    "entity": "Levaquin",
+    "label": "DRUG",
+    "start": 4980,
+    "end": 4988
+  },
+  {
+    "entity": "The medications",
+    "label": "DRUG",
+    "start": 5021,
+    "end": 5036
+  },
+  {
+    "entity": "the J-tube",
+    "label": "TREATMENT",
+    "start": 5097,
+    "end": 5107
+  },
+  {
+    "entity": "a CBC with diff",
+    "label": "TEST",
+    "start": 5230,
+    "end": 5245
+  },
+  {
+    "entity": "a CMP",
+    "label": "TEST",
+    "start": 5257,
+    "end": 5262
+  },
+  {
+    "entity": "her colon cancer",
+    "label": "PROBLEM",
+    "start": 5389,
+    "end": 5405
+  },
+  {
+    "entity": "the positive lymph nodes",
+    "label": "PROBLEM",
+    "start": 5477,
+    "end": 5501
+  },
+  {
+    "entity": "any insulin pump",
+    "label": "DRUG",
+    "start": 5721,
+    "end": 5737
+  },
+  {
+    "entity": "any issues",
+    "label": "PROBLEM",
+    "start": 5859,
+    "end": 5869
+  },
+  {
+    "entity": "her J-tube",
+    "label": "TREATMENT",
+    "start": 5875,
+    "end": 5885
+  },
+  {
+    "entity": "seizure",
+    "label": "PROBLEM",
+    "start": 5948,
+    "end": 5955
+  },
+  {
+    "entity": "hypoglycemia",
+    "label": "PROBLEM",
+    "start": 5957,
+    "end": 5969
+  },
+  {
+    "entity": "anemia",
+    "label": "PROBLEM",
+    "start": 5971,
+    "end": 5977
+  },
+  {
+    "entity": "dyspnea",
+    "label": "PROBLEM",
+    "start": 5979,
+    "end": 5986
+  },
+  {
+    "entity": "edema",
+    "label": "PROBLEM",
+    "start": 5988,
+    "end": 5993
+  },
+  {
+    "entity": "colon cancer",
+    "label": "PROBLEM",
+    "start": 5995,
+    "end": 6007
+  },
+  {
+    "entity": "post right hemicolectomy",
+    "label": "TREATMENT",
+    "start": 6015,
+    "end": 6039
+  },
+  {
+    "entity": "pneumonia",
+    "label": "PROBLEM",
+    "start": 6059,
+    "end": 6068
+  },
+  {
+    "entity": "pneumonia",
+    "label": "PROBLEM",
+    "start": 6088,
+    "end": 6097
+  },
+  {
+    "entity": "congestive heart failure",
+    "label": "PROBLEM",
+    "start": 6099,
+    "end": 6123
+  },
+  {
+    "entity": "seizure disorder",
+    "label": "PROBLEM",
+    "start": 6125,
+    "end": 6141
+  },
+  {
+    "entity": "insulin pump",
+    "label": "DRUG",
+    "start": 6143,
+    "end": 6155
+  },
+  {
+    "entity": "hemicolectomy",
+    "label": "TREATMENT",
+    "start": 6157,
+    "end": 6170
+  },
+  {
+    "entity": "disorder",
+    "label": "PROBLEM",
+    "start": 6183,
+    "end": 6191
+  }
+]

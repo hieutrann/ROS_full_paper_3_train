@@ -1,0 +1,446 @@
+[
+  {
+    "entity": "Cholecystitis",
+    "label": "PROBLEM",
+    "start": 64,
+    "end": 77
+  },
+  {
+    "entity": "Cholecystitis",
+    "label": "PROBLEM",
+    "start": 111,
+    "end": 124
+  },
+  {
+    "entity": "choledocholithiasis",
+    "label": "PROBLEM",
+    "start": 130,
+    "end": 149
+  },
+  {
+    "entity": "Laparoscopic cholecystectomy",
+    "label": "TREATMENT",
+    "start": 151,
+    "end": 179
+  },
+  {
+    "entity": "laparoscopy",
+    "label": "TEST",
+    "start": 185,
+    "end": 196
+  },
+  {
+    "entity": "common bile duct exploration",
+    "label": "TEST",
+    "start": 215,
+    "end": 243
+  },
+  {
+    "entity": "stone extraction",
+    "label": "TREATMENT",
+    "start": 248,
+    "end": 264
+  },
+  {
+    "entity": "Cholecystitis",
+    "label": "PROBLEM",
+    "start": 326,
+    "end": 339
+  },
+  {
+    "entity": "choledocholithiasis",
+    "label": "PROBLEM",
+    "start": 345,
+    "end": 364
+  },
+  {
+    "entity": "Cholecystitis",
+    "label": "PROBLEM",
+    "start": 387,
+    "end": 400
+  },
+  {
+    "entity": "choledocholithiasis",
+    "label": "PROBLEM",
+    "start": 402,
+    "end": 421
+  },
+  {
+    "entity": "roux-en-y gastric bypass",
+    "label": "TREATMENT",
+    "start": 459,
+    "end": 483
+  },
+  {
+    "entity": "an open procedure",
+    "label": "TREATMENT",
+    "start": 497,
+    "end": 514
+  },
+  {
+    "entity": "Laparoscopic paraventral hernia",
+    "label": "PROBLEM",
+    "start": 528,
+    "end": 559
+  },
+  {
+    "entity": "sleep apnea",
+    "label": "PROBLEM",
+    "start": 584,
+    "end": 595
+  },
+  {
+    "entity": "100-pound weight loss",
+    "label": "PROBLEM",
+    "start": 616,
+    "end": 637
+  },
+  {
+    "entity": "Morbid obesity",
+    "label": "PROBLEM",
+    "start": 642,
+    "end": 656
+  },
+  {
+    "entity": "bmi",
+    "label": "TEST",
+    "start": 662,
+    "end": 665
+  },
+  {
+    "entity": "Laparoscopic cholecystectomy",
+    "label": "TREATMENT",
+    "start": 696,
+    "end": 724
+  },
+  {
+    "entity": "laparoscopy",
+    "label": "TEST",
+    "start": 730,
+    "end": 741
+  },
+  {
+    "entity": "common bile duct exploration",
+    "label": "TEST",
+    "start": 760,
+    "end": 788
+  },
+  {
+    "entity": "stone extraction",
+    "label": "TREATMENT",
+    "start": 793,
+    "end": 809
+  },
+  {
+    "entity": "elevated bilirubin",
+    "label": "PROBLEM",
+    "start": 878,
+    "end": 896
+  },
+  {
+    "entity": "common bile duct stone",
+    "label": "PROBLEM",
+    "start": 910,
+    "end": 932
+  },
+  {
+    "entity": "abdominal pain",
+    "label": "PROBLEM",
+    "start": 983,
+    "end": 997
+  },
+  {
+    "entity": "elevated bilirubin",
+    "label": "PROBLEM",
+    "start": 999,
+    "end": 1017
+  },
+  {
+    "entity": "gallstones",
+    "label": "PROBLEM",
+    "start": 1023,
+    "end": 1033
+  },
+  {
+    "entity": "ultrasound",
+    "label": "TEST",
+    "start": 1037,
+    "end": 1047
+  },
+  {
+    "entity": "dilated common bile duct",
+    "label": "PROBLEM",
+    "start": 1055,
+    "end": 1079
+  },
+  {
+    "entity": "a HIDA scan",
+    "label": "TEST",
+    "start": 1107,
+    "end": 1118
+  },
+  {
+    "entity": "cholecystitis",
+    "label": "PROBLEM",
+    "start": 1131,
+    "end": 1144
+  },
+  {
+    "entity": "unable to empty",
+    "label": "PROBLEM",
+    "start": 1177,
+    "end": 1192
+  },
+  {
+    "entity": "the common bile duct blockage",
+    "label": "PROBLEM",
+    "start": 1230,
+    "end": 1259
+  },
+  {
+    "entity": "laparoscopic cholecystectomy",
+    "label": "TREATMENT",
+    "start": 1312,
+    "end": 1340
+  },
+  {
+    "entity": "laparoscopic cholecystectomy",
+    "label": "TREATMENT",
+    "start": 1360,
+    "end": 1388
+  },
+  {
+    "entity": "cholangiogram",
+    "label": "TEST",
+    "start": 1404,
+    "end": 1417
+  },
+  {
+    "entity": "the filling defect",
+    "label": "PROBLEM",
+    "start": 1495,
+    "end": 1513
+  },
+  {
+    "entity": "the distal common bile duct stone",
+    "label": "PROBLEM",
+    "start": 1530,
+    "end": 1563
+  },
+  {
+    "entity": "a Roux-en-Y gastric bypass",
+    "label": "TREATMENT",
+    "start": 1591,
+    "end": 1617
+  },
+  {
+    "entity": "an ERCP",
+    "label": "TREATMENT",
+    "start": 1640,
+    "end": 1647
+  },
+  {
+    "entity": "stone extraction",
+    "label": "TREATMENT",
+    "start": 1652,
+    "end": 1668
+  },
+  {
+    "entity": "common bile duct exploration",
+    "label": "TEST",
+    "start": 1681,
+    "end": 1709
+  },
+  {
+    "entity": "a stone",
+    "label": "PROBLEM",
+    "start": 1728,
+    "end": 1735
+  },
+  {
+    "entity": "an open operation",
+    "label": "TREATMENT",
+    "start": 1783,
+    "end": 1800
+  },
+  {
+    "entity": "incisional pain",
+    "label": "PROBLEM",
+    "start": 1900,
+    "end": 1915
+  },
+  {
+    "entity": "nausea",
+    "label": "PROBLEM",
+    "start": 1942,
+    "end": 1948
+  },
+  {
+    "entity": "A Jackson-Pratt drain",
+    "label": "TREATMENT",
+    "start": 1950,
+    "end": 1971
+  },
+  {
+    "entity": "serosanguineous fluid",
+    "label": "PROBLEM",
+    "start": 2018,
+    "end": 2039
+  },
+  {
+    "entity": "White blood cell count",
+    "label": "TEST",
+    "start": 2041,
+    "end": 2063
+  },
+  {
+    "entity": "bilirubin",
+    "label": "TEST",
+    "start": 2085,
+    "end": 2094
+  },
+  {
+    "entity": "Foley catheter",
+    "label": "TREATMENT",
+    "start": 2160,
+    "end": 2174
+  },
+  {
+    "entity": "bile leak",
+    "label": "PROBLEM",
+    "start": 2218,
+    "end": 2227
+  },
+  {
+    "entity": "pain medications",
+    "label": "DRUG",
+    "start": 2467,
+    "end": 2483
+  },
+  {
+    "entity": "Jackson-Pratt drain",
+    "label": "TREATMENT",
+    "start": 2485,
+    "end": 2504
+  },
+  {
+    "entity": "the wound",
+    "label": "PROBLEM",
+    "start": 2527,
+    "end": 2536
+  },
+  {
+    "entity": "The remaining Jackson-Pratt drain",
+    "label": "TREATMENT",
+    "start": 2538,
+    "end": 2571
+  },
+  {
+    "entity": "cystic duct",
+    "label": "PROBLEM",
+    "start": 2597,
+    "end": 2608
+  },
+  {
+    "entity": "her laboratory studies",
+    "label": "TEST",
+    "start": 2629,
+    "end": 2651
+  },
+  {
+    "entity": "Her bilirubin",
+    "label": "TEST",
+    "start": 2665,
+    "end": 2678
+  },
+  {
+    "entity": "white blood cell count",
+    "label": "TEST",
+    "start": 2702,
+    "end": 2724
+  },
+  {
+    "entity": "an H&H",
+    "label": "TEST",
+    "start": 2741,
+    "end": 2747
+  },
+  {
+    "entity": "Jackson-Pratt drain",
+    "label": "TREATMENT",
+    "start": 2763,
+    "end": 2782
+  },
+  {
+    "entity": "staple removal",
+    "label": "TREATMENT",
+    "start": 2857,
+    "end": 2871
+  },
+  {
+    "entity": "iron",
+    "label": "DRUG",
+    "start": 2887,
+    "end": 2891
+  },
+  {
+    "entity": "Lortab elixir",
+    "label": "DRUG",
+    "start": 2915,
+    "end": 2928
+  },
+  {
+    "entity": "pain",
+    "label": "PROBLEM",
+    "start": 2958,
+    "end": 2962
+  },
+  {
+    "entity": "laparoscopy",
+    "label": "TEST",
+    "start": 2993,
+    "end": 3004
+  },
+  {
+    "entity": "common bile duct exploration",
+    "label": "TEST",
+    "start": 3006,
+    "end": 3034
+  },
+  {
+    "entity": "laparoscopic cholecystectomy",
+    "label": "TREATMENT",
+    "start": 3036,
+    "end": 3064
+  },
+  {
+    "entity": "choledocholithiasis",
+    "label": "PROBLEM",
+    "start": 3077,
+    "end": 3096
+  },
+  {
+    "entity": "cholecystectomy",
+    "label": "TREATMENT",
+    "start": 3098,
+    "end": 3113
+  },
+  {
+    "entity": "cholecystitis",
+    "label": "PROBLEM",
+    "start": 3115,
+    "end": 3128
+  },
+  {
+    "entity": "laparoscopic",
+    "label": "TREATMENT",
+    "start": 3130,
+    "end": 3142
+  },
+  {
+    "entity": "hernia",
+    "label": "PROBLEM",
+    "start": 3144,
+    "end": 3150
+  }
+]

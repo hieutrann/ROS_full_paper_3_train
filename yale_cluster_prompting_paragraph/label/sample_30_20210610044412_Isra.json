@@ -1,0 +1,392 @@
+[
+  {
+    "entity": "acute distress",
+    "label": "PROBLEM",
+    "start": 193,
+    "end": 207
+  },
+  {
+    "entity": "acute distress",
+    "label": "PROBLEM",
+    "start": 308,
+    "end": 322
+  },
+  {
+    "entity": "GCS",
+    "label": "TEST",
+    "start": 325,
+    "end": 328
+  },
+  {
+    "entity": "Blood pressure",
+    "label": "TEST",
+    "start": 361,
+    "end": 375
+  },
+  {
+    "entity": "pulse",
+    "label": "TEST",
+    "start": 380,
+    "end": 385
+  },
+  {
+    "entity": "respirations",
+    "label": "TEST",
+    "start": 390,
+    "end": 402
+  },
+  {
+    "entity": "temperature",
+    "label": "TEST",
+    "start": 407,
+    "end": 418
+  },
+  {
+    "entity": "Pulse oximetry",
+    "label": "TEST",
+    "start": 433,
+    "end": 447
+  },
+  {
+    "entity": "lesions",
+    "label": "PROBLEM",
+    "start": 495,
+    "end": 502
+  },
+  {
+    "entity": "Funduscopic exam",
+    "label": "TEST",
+    "start": 599,
+    "end": 615
+  },
+  {
+    "entity": "hemorrhages",
+    "label": "PROBLEM",
+    "start": 627,
+    "end": 638
+  },
+  {
+    "entity": "discopathy",
+    "label": "PROBLEM",
+    "start": 642,
+    "end": 652
+  },
+  {
+    "entity": "lesions",
+    "label": "PROBLEM",
+    "start": 713,
+    "end": 720
+  },
+  {
+    "entity": "erythema",
+    "label": "PROBLEM",
+    "start": 782,
+    "end": 790
+  },
+  {
+    "entity": "bulging",
+    "label": "PROBLEM",
+    "start": 793,
+    "end": 800
+  },
+  {
+    "entity": "retraction",
+    "label": "PROBLEM",
+    "start": 804,
+    "end": 814
+  },
+  {
+    "entity": "lesion",
+    "label": "PROBLEM",
+    "start": 832,
+    "end": 838
+  },
+  {
+    "entity": "lesion",
+    "label": "PROBLEM",
+    "start": 906,
+    "end": 912
+  },
+  {
+    "entity": "erythema",
+    "label": "PROBLEM",
+    "start": 941,
+    "end": 949
+  },
+  {
+    "entity": "tonsillar enlargement",
+    "label": "PROBLEM",
+    "start": 955,
+    "end": 976
+  },
+  {
+    "entity": "crypt formation",
+    "label": "PROBLEM",
+    "start": 979,
+    "end": 994
+  },
+  {
+    "entity": "abscess",
+    "label": "PROBLEM",
+    "start": 998,
+    "end": 1005
+  },
+  {
+    "entity": "masses",
+    "label": "PROBLEM",
+    "start": 1042,
+    "end": 1048
+  },
+  {
+    "entity": "enlarged",
+    "label": "PROBLEM",
+    "start": 1073,
+    "end": 1081
+  },
+  {
+    "entity": "JVD",
+    "label": "PROBLEM",
+    "start": 1087,
+    "end": 1090
+  },
+  {
+    "entity": "pain",
+    "label": "PROBLEM",
+    "start": 1142,
+    "end": 1146
+  },
+  {
+    "entity": "auscultation",
+    "label": "TEST",
+    "start": 1199,
+    "end": 1211
+  },
+  {
+    "entity": "percussion",
+    "label": "TEST",
+    "start": 1223,
+    "end": 1233
+  },
+  {
+    "entity": "egophony",
+    "label": "PROBLEM",
+    "start": 1299,
+    "end": 1307
+  },
+  {
+    "entity": "tactile fremitus",
+    "label": "PROBLEM",
+    "start": 1311,
+    "end": 1327
+  },
+  {
+    "entity": "rate",
+    "label": "TEST",
+    "start": 1356,
+    "end": 1360
+  },
+  {
+    "entity": "rhythm",
+    "label": "TEST",
+    "start": 1365,
+    "end": 1371
+  },
+  {
+    "entity": "murmur",
+    "label": "PROBLEM",
+    "start": 1377,
+    "end": 1383
+  },
+  {
+    "entity": "gallops",
+    "label": "PROBLEM",
+    "start": 1386,
+    "end": 1393
+  },
+  {
+    "entity": "clicks",
+    "label": "PROBLEM",
+    "start": 1396,
+    "end": 1402
+  },
+  {
+    "entity": "heaves",
+    "label": "PROBLEM",
+    "start": 1405,
+    "end": 1411
+  },
+  {
+    "entity": "rub",
+    "label": "PROBLEM",
+    "start": 1415,
+    "end": 1418
+  },
+  {
+    "entity": "Cardiac palpation",
+    "label": "TEST",
+    "start": 1421,
+    "end": 1438
+  },
+  {
+    "entity": "Pulses",
+    "label": "TEST",
+    "start": 1462,
+    "end": 1468
+  },
+  {
+    "entity": "Femoral and pedal pulses",
+    "label": "TEST",
+    "start": 1488,
+    "end": 1512
+  },
+  {
+    "entity": "peripheral edema",
+    "label": "PROBLEM",
+    "start": 1518,
+    "end": 1534
+  },
+  {
+    "entity": "tenderness",
+    "label": "PROBLEM",
+    "start": 1560,
+    "end": 1570
+  },
+  {
+    "entity": "mass",
+    "label": "PROBLEM",
+    "start": 1574,
+    "end": 1578
+  },
+  {
+    "entity": "hepatosplenomegaly",
+    "label": "PROBLEM",
+    "start": 1584,
+    "end": 1602
+  },
+  {
+    "entity": "hernia",
+    "label": "PROBLEM",
+    "start": 1608,
+    "end": 1614
+  },
+  {
+    "entity": "rebound",
+    "label": "PROBLEM",
+    "start": 1688,
+    "end": 1695
+  },
+  {
+    "entity": "guarding",
+    "label": "PROBLEM",
+    "start": 1698,
+    "end": 1706
+  },
+  {
+    "entity": "rigidity",
+    "label": "PROBLEM",
+    "start": 1709,
+    "end": 1717
+  },
+  {
+    "entity": "ecchymosis",
+    "label": "PROBLEM",
+    "start": 1721,
+    "end": 1731
+  },
+  {
+    "entity": "gait",
+    "label": "TEST",
+    "start": 1760,
+    "end": 1764
+  },
+  {
+    "entity": "pathology",
+    "label": "PROBLEM",
+    "start": 1782,
+    "end": 1791
+  },
+  {
+    "entity": "tenderness",
+    "label": "PROBLEM",
+    "start": 1846,
+    "end": 1856
+  },
+  {
+    "entity": "effusion",
+    "label": "PROBLEM",
+    "start": 1860,
+    "end": 1868
+  },
+  {
+    "entity": "Inspection",
+    "label": "TEST",
+    "start": 2048,
+    "end": 2058
+  },
+  {
+    "entity": "diaphoresis",
+    "label": "PROBLEM",
+    "start": 2101,
+    "end": 2112
+  },
+  {
+    "entity": "obvious wound",
+    "label": "PROBLEM",
+    "start": 2118,
+    "end": 2131
+  },
+  {
+    "entity": "Cervical lymph nodes",
+    "label": "PROBLEM",
+    "start": 2142,
+    "end": 2162
+  },
+  {
+    "entity": "lymphadenopathy",
+    "label": "PROBLEM",
+    "start": 2168,
+    "end": 2183
+  },
+  {
+    "entity": "Straight leg raise",
+    "label": "TEST",
+    "start": 2393,
+    "end": 2411
+  },
+  {
+    "entity": "delusions",
+    "label": "PROBLEM",
+    "start": 2560,
+    "end": 2569
+  },
+  {
+    "entity": "hallucinations",
+    "label": "PROBLEM",
+    "start": 2572,
+    "end": 2586
+  },
+  {
+    "entity": "suicidal or homicidal ideation",
+    "label": "PROBLEM",
+    "start": 2592,
+    "end": 2622
+  },
+  {
+    "entity": "physical exam",
+    "label": "TEST",
+    "start": 2687,
+    "end": 2700
+  },
+  {
+    "entity": "tenderness",
+    "label": "PROBLEM",
+    "start": 2712,
+    "end": 2722
+  },
+  {
+    "entity": "lesions",
+    "label": "PROBLEM",
+    "start": 2783,
+    "end": 2790
+  }
+]

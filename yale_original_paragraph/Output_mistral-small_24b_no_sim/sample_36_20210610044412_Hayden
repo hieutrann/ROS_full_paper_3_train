@@ -1,0 +1,56 @@
+[
+  {
+    "shoulder bursitis": "PROBLEM"
+  },
+  {
+    "pharyngitis": "PROBLEM"
+  },
+  {
+    "attention deficit disorder": "PROBLEM"
+  },
+  {
+    "shoulder": "PROBLEM"
+  },
+  {
+    "numbness": "PROBLEM"
+  },
+  {
+    "sore throat": "PROBLEM"
+  },
+  {
+    "strep throat": "PROBLEM"
+  },
+  {
+    "ADHD": "PROBLEM"
+  },
+  {
+    "anger control": "PROBLEM"
+  },
+  {
+    "anti-inflammatories": "DRUG"
+  },
+  {
+    "pain relievers": "DRUG"
+  },
+  {
+    "Adderall": "DRUG"
+  },
+  {
+    "Zoloft": "DRUG"
+  },
+  {
+    "x-ray": "TEST"
+  },
+  {
+    "tonsillectomy": "TREATMENT"
+  },
+  {
+    "joint injections": "TREATMENT"
+  },
+  {
+    "physical therapy": "TREATMENT"
+  },
+  {
+    "counseling": "TREATMENT"
+  }
+]

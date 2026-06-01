@@ -1,0 +1,341 @@
+[
+  {
+    "Breast Calcifications": "PROBLEM"
+  },
+  {
+    "Left breast excisional biopsy": "TREATMENT"
+  },
+  {
+    "preoperative guidewire localization": "TREATMENT"
+  },
+  {
+    "intraoperative specimen radiography": "TEST"
+  },
+  {
+    "Suspicious calcifications upper outer quadrant, left breast": "PROBLEM"
+  },
+  {
+    "screening mammography": "TEST"
+  },
+  {
+    "punctate calcifications": "PROBLEM"
+  },
+  {
+    "calcifications": "PROBLEM"
+  },
+  {
+    "stereotactic core needle biopsy": "TEST"
+  },
+  {
+    "focal fibrosis": "PROBLEM"
+  },
+  {
+    "calcifications": "PROBLEM"
+  },
+  {
+    "biopsy": "TEST"
+  },
+  {
+    "radiograph": "TEST"
+  },
+  {
+    "stereotactic core needle biopsy": "TEST"
+  },
+  {
+    "severe swelling": "PROBLEM"
+  },
+  {
+    "pain": "PROBLEM"
+  },
+  {
+    "mass": "PROBLEM"
+  },
+  {
+    "left breast": "PROBLEM"
+  },
+  {
+    "sonographic evaluation": "TEST"
+  },
+  {
+    "false aneurysm formation": "PROBLEM"
+  },
+  {
+    "stereotactic core needle biopsy": "TREATMENT"
+  },
+  {
+    "false aneurysm": "PROBLEM"
+  },
+  {
+    "ultrasound guidance": "TEST"
+  },
+  {
+    "thrombin": "DRUG"
+  },
+  {
+    "false aneurysm": "PROBLEM"
+  },
+  {
+    "large hematoma": "PROBLEM"
+  },
+  {
+    "extensive ecchymosis": "PROBLEM"
+  },
+  {
+    "stereotactic core needle biopsy": "TEST"
+  },
+  {
+    "false aneurysm": "PROBLEM"
+  },
+  {
+    "pulsatile mass": "PROBLEM"
+  },
+  {
+    "suspicious calcifications": "PROBLEM"
+  },
+  {
+    "mammography": "TEST"
+  },
+  {
+    "stereotactic core needle biopsy": "TEST"
+  },
+  {
+    "histologic diagnosis": "TEST"
+  },
+  {
+    "excisional biopsy": "TREATMENT"
+  },
+  {
+    "guidewire localization": "TREATMENT"
+  },
+  {
+    "stereotactic core needle biopsy": "TEST"
+  },
+  {
+    "excision of the left breast tissue": "TREATMENT"
+  },
+  {
+    "preoperative guidewire localization": "TEST"
+  },
+  {
+    "suspicious calcifications": "PROBLEM"
+  },
+  {
+    "stereotactic core needle biopsy": "TEST"
+  },
+  {
+    "benign histologic findings": "PROBLEM"
+  },
+  {
+    "breast cancer": "PROBLEM"
+  },
+  {
+    "breast cancer": "PROBLEM"
+  },
+  {
+    "hormone replacement therapy": "TREATMENT"
+  },
+  {
+    "breast cancer": "PROBLEM"
+  },
+  {
+    "ovarian cancer": "PROBLEM"
+  },
+  {
+    "asthma": "PROBLEM"
+  },
+  {
+    "pneumonia": "PROBLEM"
+  },
+  {
+    "Colon resection": "TREATMENT"
+  },
+  {
+    "sinus surgeries": "TREATMENT"
+  },
+  {
+    "Plavix": "DRUG"
+  },
+  {
+    "Nexium": "DRUG"
+  },
+  {
+    "Fosamax": "DRUG"
+  },
+  {
+    "Advair": "DRUG"
+  },
+  {
+    "Singulair": "DRUG"
+  },
+  {
+    "Spiriva": "DRUG"
+  },
+  {
+    "Lexapro": "DRUG"
+  },
+  {
+    "ASPIRIN": "DRUG"
+  },
+  {
+    "PENICILLIN": "DRUG"
+  },
+  {
+    "IODINE": "DRUG"
+  },
+  {
+    "CODEINE": "DRUG"
+  },
+  {
+    "heart disease": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "cerebrovascular accidents": "PROBLEM"
+  },
+  {
+    "colon cancer": "PROBLEM"
+  },
+  {
+    "breast cancer": "PROBLEM"
+  },
+  {
+    "chronic obstructive lung disease": "PROBLEM"
+  },
+  {
+    "gastroesophageal reflux disease": "PROBLEM"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "sciatica": "PROBLEM"
+  },
+  {
+    "arthritis": "PROBLEM"
+  },
+  {
+    "skin cancers": "PROBLEM"
+  },
+  {
+    "local excision": "TREATMENT"
+  },
+  {
+    "Eyes, PERRL.": "TEST"
+  },
+  {
+    "oral lesions": "PROBLEM"
+  },
+  {
+    "adenopathy": "PROBLEM"
+  },
+  {
+    "Regular sinus rhythm": "TEST"
+  },
+  {
+    "air entry": "TEST"
+  },
+  {
+    "wheezes": "PROBLEM"
+  },
+  {
+    "tissue changes": "PROBLEM"
+  },
+  {
+    "stereotactic core needle biopsy": "TEST"
+  },
+  {
+    "Axillary examination": "TEST"
+  },
+  {
+    "lymphadenopathy": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "Obese": "PROBLEM"
+  },
+  {
+    "bowel sounds": "TEST"
+  },
+  {
+    "CVA tenderness": "PROBLEM"
+  },
+  {
+    "clubbing": "PROBLEM"
+  },
+  {
+    "cyanosis": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "Left breast mound clustered calcifications": "PROBLEM"
+  },
+  {
+    "imaging": "TEST"
+  },
+  {
+    "stereotactic core needle biopsy": "TEST"
+  },
+  {
+    "left breast": "PROBLEM"
+  },
+  {
+    "calcifications": "PROBLEM"
+  },
+  {
+    "excision": "TREATMENT"
+  },
+  {
+    "preoperative guidewire localization": "TREATMENT"
+  },
+  {
+    "chronic obstructive lung disease": "PROBLEM"
+  },
+  {
+    "asthma": "PROBLEM"
+  },
+  {
+    "gastroesophageal reflux disease": "PROBLEM"
+  },
+  {
+    "transient ischemic attack": "PROBLEM"
+  },
+  {
+    "osteopenia": "PROBLEM"
+  },
+  {
+    "osteoporosis": "PROBLEM"
+  },
+  {
+    "anxiety": "PROBLEM"
+  },
+  {
+    "Left breast excisional biopsy": "TREATMENT"
+  },
+  {
+    "preoperative guidewire localization": "TREATMENT"
+  },
+  {
+    "intraoperative specimen radiography": "TEST"
+  },
+  {
+    "stereotactic core needle biopsy": "TEST"
+  },
+  {
+    "gastroesophageal reflux": "PROBLEM"
+  },
+  {
+    "needle biopsy": "TEST"
+  },
+  {
+    "calcifications": "PROBLEM"
+  },
+  {
+    "biopsy": "TEST"
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "Sepsis": "PROBLEM"
+  },
+  {
+    "SBP": "PROBLEM"
+  },
+  {
+    "Hepatitis C": "PROBLEM"
+  },
+  {
+    "Cirrhosis": "PROBLEM"
+  },
+  {
+    "Coronary artery disease": "PROBLEM"
+  },
+  {
+    "Hyperlipidemia": "PROBLEM"
+  },
+  {
+    "Chronic venous stasis": "PROBLEM"
+  },
+  {
+    "Gastroesophageal reflux disease": "PROBLEM"
+  },
+  {
+    "Hepatic encephalopathy": "PROBLEM"
+  },
+  {
+    "Septic shock": "PROBLEM"
+  },
+  {
+    "Urinary tract infection": "PROBLEM"
+  },
+  {
+    "Ascites": "PROBLEM"
+  },
+  {
+    "Hyperbilirubinemia": "PROBLEM"
+  },
+  {
+    "Alcoholic liver disease": "PROBLEM"
+  },
+  {
+    "Thrombocytopenia": "PROBLEM"
+  },
+  {
+    "Cryoglobulinemia": "PROBLEM"
+  },
+  {
+    "Vancomycin": "DRUG"
+  },
+  {
+    "Doripenem": "DRUG"
+  },
+  {
+    "Levofloxacin": "DRUG"
+  },
+  {
+    "Flagyl": "DRUG"
+  },
+  {
+    "Zosyn": "DRUG"
+  },
+  {
+    "Thiamine": "DRUG"
+  },
+  {
+    "Protonix": "DRUG"
+  },
+  {
+    "Potassium chloride": "DRUG"
+  },
+  {
+    "Magnesium": "DRUG"
+  },
+  {
+    "Zofran": "DRUG"
+  },
+  {
+    "Norepinephrine": "DRUG"
+  },
+  {
+    "Vitamin K": "DRUG"
+  },
+  {
+    "White blood cell count": "TEST"
+  },
+  {
+    "Platelet count": "TEST"
+  },
+  {
+    "Abdominal ultrasound": "TEST"
+  },
+  {
+    "Chest x-ray": "TEST"
+  },
+  {
+    "Left knee x-rays": "TEST"
+  },
+  {
+    "CAT scan of the abdomen": "TEST"
+  },
+  {
+    "Paracentesis": "TREATMENT"
+  },
+  {
+    "Ascitic fluid for cell count, differential and cultures": "TREATMENT"
+  },
+  {
+    "Blood cultures": "TREATMENT"
+  },
+  {
+    "Urine culture": "TREATMENT"
+  },
+  {
+    "Hepatitis A vaccination": "TREATMENT"
+  }
+]

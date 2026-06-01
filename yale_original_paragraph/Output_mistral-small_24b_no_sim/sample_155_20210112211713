@@ -1,0 +1,350 @@
+[
+  {
+    "Sepsis": "PROBLEM"
+  },
+  {
+    "CT scan": "TEST"
+  },
+  {
+    "dilated bladder": "PROBLEM"
+  },
+  {
+    "outlet obstruction": "PROBLEM"
+  },
+  {
+    "bilateral hydronephrosis": "PROBLEM"
+  },
+  {
+    "hydroureter": "PROBLEM"
+  },
+  {
+    "Sepsis": "PROBLEM"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "CT scan": "TEST"
+  },
+  {
+    "dilated bladder": "PROBLEM"
+  },
+  {
+    "outlet obstruction": "PROBLEM"
+  },
+  {
+    "bilateral hydronephrosis": "PROBLEM"
+  },
+  {
+    "hydroureter": "PROBLEM"
+  },
+  {
+    "IV antibiotics": "DRUG"
+  },
+  {
+    "hydration": "TREATMENT"
+  },
+  {
+    "CAD": "PROBLEM"
+  },
+  {
+    "dementia": "PROBLEM"
+  },
+  {
+    "CVA": "PROBLEM"
+  },
+  {
+    "nephrolithiasis": "PROBLEM"
+  },
+  {
+    "Ambien": "DRUG"
+  },
+  {
+    "Milk of magnesia": "DRUG"
+  },
+  {
+    "Tylenol": "DRUG"
+  },
+  {
+    "Tramadol": "DRUG"
+  },
+  {
+    "Soma": "DRUG"
+  },
+  {
+    "Coumadin": "DRUG"
+  },
+  {
+    "Zoloft": "DRUG"
+  },
+  {
+    "Allopurinol": "DRUG"
+  },
+  {
+    "Digoxin": "DRUG"
+  },
+  {
+    "Namenda": "DRUG"
+  },
+  {
+    "Zocor": "DRUG"
+  },
+  {
+    "BuSpar": "DRUG"
+  },
+  {
+    "Detrol": "DRUG"
+  },
+  {
+    "Coreg": "DRUG"
+  },
+  {
+    "Colace": "DRUG"
+  },
+  {
+    "Calcium": "DRUG"
+  },
+  {
+    "Zantac": "DRUG"
+  },
+  {
+    "Lasix": "DRUG"
+  },
+  {
+    "Seroquel": "DRUG"
+  },
+  {
+    "Aldactone": "DRUG"
+  },
+  {
+    "Amoxicillin": "DRUG"
+  },
+  {
+    "Pulse": "TEST"
+  },
+  {
+    "respirations": "TEST"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "saturating": "TEST"
+  },
+  {
+    "HEENT": "TEST"
+  },
+  {
+    "pupils": "TEST"
+  },
+  {
+    "mucous membranes": "TEST"
+  },
+  {
+    "NECK": "TEST"
+  },
+  {
+    "thyromegaly": "PROBLEM"
+  },
+  {
+    "jugular venous distention": "PROBLEM"
+  },
+  {
+    "HEART": "TEST"
+  },
+  {
+    "LUNGS": "TEST"
+  },
+  {
+    "ABDOMEN": "TEST"
+  },
+  {
+    "bowel sounds": "TEST"
+  },
+  {
+    "EXTREMITIES": "TEST"
+  },
+  {
+    "clubbing": "PROBLEM"
+  },
+  {
+    "cyanosis": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "NEUROLOGIC": "TEST"
+  },
+  {
+    "focality": "PROBLEM"
+  },
+  {
+    "CT": "TEST"
+  },
+  {
+    "abdomen": "TEST"
+  },
+  {
+    "inguinal hernia": "PROBLEM"
+  },
+  {
+    "SBO": "PROBLEM"
+  },
+  {
+    "dilated bladder": "PROBLEM"
+  },
+  {
+    "outlet obstruction": "PROBLEM"
+  },
+  {
+    "bilateral hydronephrosis": "PROBLEM"
+  },
+  {
+    "hydroureter": "PROBLEM"
+  },
+  {
+    "adrenal gland mass": "PROBLEM"
+  },
+  {
+    "White count": "TEST"
+  },
+  {
+    "hemoglobin": "TEST"
+  },
+  {
+    "platelet count": "TEST"
+  },
+  {
+    "UA": "TEST"
+  },
+  {
+    "WBCs": "TEST"
+  },
+  {
+    "RBCs": "TEST"
+  },
+  {
+    "leukocyte esterase": "TEST"
+  },
+  {
+    "Sodium": "TEST"
+  },
+  {
+    "potassium": "TEST"
+  },
+  {
+    "chloride": "TEST"
+  },
+  {
+    "CO2": "TEST"
+  },
+  {
+    "BUN": "TEST"
+  },
+  {
+    "creatinine": "TEST"
+  },
+  {
+    "EKG": "TEST"
+  },
+  {
+    "atrial fibrillation": "PROBLEM"
+  },
+  {
+    "urinary tract infection with sepsis": "PROBLEM"
+  },
+  {
+    "obstructive uropathy": "PROBLEM"
+  },
+  {
+    "dementia": "PROBLEM"
+  },
+  {
+    "atrial fibrillation": "PROBLEM"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "adrenal gland mass": "PROBLEM"
+  },
+  {
+    "urology consult": "TREATMENT"
+  },
+  {
+    "renal consult": "TREATMENT"
+  },
+  {
+    "Levaquin": "DRUG"
+  },
+  {
+    "gentamicin": "DRUG"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "hypertonic-hypotonic": "DRUG"
+  },
+  {
+    "anticoagulation": "DRUG"
+  },
+  {
+    "SCD": "DRUG"
+  },
+  {
+    "TED hose": "DRUG"
+  },
+  {
+    "digoxin level": "TEST"
+  },
+  {
+    "dementia medications": "DRUG"
+  },
+  {
+    "PPI": "DRUG"
+  },
+  {
+    "PUD": "PROBLEM"
+  },
+  {
+    "prophylaxis": "TREATMENT"
+  },
+  {
+    "general medicine": "TEST"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "hydronephrosis": "PROBLEM"
+  },
+  {
+    "hydroureter": "PROBLEM"
+  },
+  {
+    "urology": "TEST"
+  },
+  {
+    "urinary tract infection with sepsis": "PROBLEM"
+  },
+  {
+    "ct scan": "TEST"
+  },
+  {
+    "adrenal gland": "PROBLEM"
+  },
+  {
+    "dilated bladder": "PROBLEM"
+  },
+  {
+    "bilateral hydronephrosis": "PROBLEM"
+  },
+  {
+    "atrial fibrillation": "PROBLEM"
+  },
+  {
+    "sepsis": "PROBLEM"
+  }
+]

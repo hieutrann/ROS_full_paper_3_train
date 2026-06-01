@@ -1,0 +1,44 @@
+[
+  {
+    "preeclampsia": "PROBLEM"
+  },
+  {
+    "cesarean section": "TREATMENT"
+  },
+  {
+    "blood pressure": "PROBLEM"
+  },
+  {
+    "uncontrolled blood pressure": "PROBLEM"
+  },
+  {
+    "gestational diabetes mellitus": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "cardizem": "DRUG"
+  },
+  {
+    "metoprolol": "DRUG"
+  },
+  {
+    "hydralazine": "DRUG"
+  },
+  {
+    "labetalol": "DRUG"
+  },
+  {
+    "hydrochlorothiazide": "DRUG"
+  },
+  {
+    "insulin supplementation": "DRUG"
+  },
+  {
+    "echocardiogram": "TEST"
+  },
+  {
+    "left ventricular function": "TEST"
+  }
+]

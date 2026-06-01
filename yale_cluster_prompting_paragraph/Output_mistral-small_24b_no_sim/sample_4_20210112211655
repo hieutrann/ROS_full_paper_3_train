@@ -1,0 +1,200 @@
+[
+  {
+    "fever of unknown origin": "PROBLEM"
+  },
+  {
+    "polymyositis/dermatomyositis": "PROBLEM"
+  },
+  {
+    "methotrexate": "DRUG"
+  },
+  {
+    "high-dose prednisone": "DRUG"
+  },
+  {
+    "urticarial rash": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "chest x-ray": "TEST"
+  },
+  {
+    "blood cultures": "TEST"
+  },
+  {
+    "transthoracic echocardiogram": "TEST"
+  },
+  {
+    "CT scan": "TEST"
+  },
+  {
+    "CT chest": "TEST"
+  },
+  {
+    "CT abdomen": "TEST"
+  },
+  {
+    "CT pelvis": "TEST"
+  },
+  {
+    "serologies": "TEST"
+  },
+  {
+    "CMV": "PROBLEM"
+  },
+  {
+    "CMV blood PCR": "TEST"
+  },
+  {
+    "EBV": "PROBLEM"
+  },
+  {
+    "Legionella": "PROBLEM"
+  },
+  {
+    "Chlamydia": "PROBLEM"
+  },
+  {
+    "Mycoplasma": "PROBLEM"
+  },
+  {
+    "Coccidioides": "PROBLEM"
+  },
+  {
+    "cryptococcal antigen": "TEST"
+  },
+  {
+    "PPD": "TEST"
+  },
+  {
+    "bronchoscopy": "TREATMENT"
+  },
+  {
+    "BAL": "TEST"
+  },
+  {
+    "transbronchial biopsies": "TEST"
+  },
+  {
+    "pneumocystis": "PROBLEM"
+  },
+  {
+    "fungal infection": "PROBLEM"
+  },
+  {
+    "AFB": "PROBLEM"
+  },
+  {
+    "interstitial fibrosis": "PROBLEM"
+  },
+  {
+    "immunopathology": "TEST"
+  },
+  {
+    "ganciclovir": "DRUG"
+  },
+  {
+    "methotrexate": "DRUG"
+  },
+  {
+    "chest x-ray": "TEST"
+  },
+  {
+    "ibuprofen": "DRUG"
+  },
+  {
+    "acetaminophen": "DRUG"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "WBCs": "TEST"
+  },
+  {
+    "RBCs": "TEST"
+  },
+  {
+    "neutrophils": "TEST"
+  },
+  {
+    "lymphocytes": "TEST"
+  },
+  {
+    "Disseminated CMV infection": "PROBLEM"
+  },
+  {
+    "CMV pneumonitis": "PROBLEM"
+  },
+  {
+    "polymyositis": "PROBLEM"
+  },
+  {
+    "immunosuppressive therapy": "TREATMENT"
+  },
+  {
+    "ganciclovir": "DRUG"
+  },
+  {
+    "Advair": "DRUG"
+  },
+  {
+    "ibuprofen": "DRUG"
+  },
+  {
+    "Tylenol": "DRUG"
+  },
+  {
+    "folic acid": "DRUG"
+  },
+  {
+    "methotrexate": "DRUG"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "general medicine": "TEST"
+  },
+  {
+    "fever of unknown origin": "PROBLEM"
+  },
+  {
+    "blood cultures": "TEST"
+  },
+  {
+    "transbronchial biopsies": "TEST"
+  },
+  {
+    "infection": "PROBLEM"
+  },
+  {
+    "cmv": "PROBLEM"
+  },
+  {
+    "admission": "TREATMENT"
+  },
+  {
+    "illness": "PROBLEM"
+  },
+  {
+    "interstitial": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "serologies": "TEST"
+  },
+  {
+    "chest": "TEST"
+  },
+  {
+    "nondiagnostic": "TEST"
+  },
+  {
+    "methotrexate": "DRUG"
+  }
+]

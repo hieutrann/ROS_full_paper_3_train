@@ -1,0 +1,83 @@
+[
+  {
+    "peritoneal carcinomatosis": "PROBLEM"
+  },
+  {
+    "appendiceal primary": "PROBLEM"
+  },
+  {
+    "diarrhea": "PROBLEM"
+  },
+  {
+    "C. diff toxin": "TEST"
+  },
+  {
+    "Imodium": "DRUG"
+  },
+  {
+    "Lovenox": "DRUG"
+  },
+  {
+    "Vicodin": "DRUG"
+  },
+  {
+    "Phenergan": "DRUG"
+  },
+  {
+    "Imodium A-D": "DRUG"
+  },
+  {
+    "exploratory laparotomy": "TREATMENT"
+  },
+  {
+    "right hemicolectomy": "TREATMENT"
+  },
+  {
+    "cholecystectomy": "TREATMENT"
+  },
+  {
+    "splenectomy": "TREATMENT"
+  },
+  {
+    "omentectomy": "TREATMENT"
+  },
+  {
+    "IPHC with mitomycin-C": "TREATMENT"
+  },
+  {
+    "cystoscopy": "TREATMENT"
+  },
+  {
+    "bilateral externalized ureteral stents": "TREATMENT"
+  },
+  {
+    "ureteral stent placement": "TREATMENT"
+  },
+  {
+    "postoperative day": "TEST"
+  },
+  {
+    "postoperative": "TEST"
+  },
+  {
+    "vaccines": "TREATMENT"
+  },
+  {
+    "pneumococcal": "TREATMENT"
+  },
+  {
+    "HiB": "TREATMENT"
+  },
+  {
+    "meningococcal": "TREATMENT"
+  },
+  {
+    "multivitamins": "TREATMENT"
+  },
+  {
+    "staples": "TREATMENT"
+  },
+  {
+    "follow-up appointment": "TEST"
+  }
+]

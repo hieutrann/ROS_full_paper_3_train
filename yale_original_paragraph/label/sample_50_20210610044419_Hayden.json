@@ -1,0 +1,518 @@
+[
+  {
+    "entity": "Leiomyosarcoma",
+    "label": "PROBLEM",
+    "start": 64,
+    "end": 78
+  },
+  {
+    "entity": "leiomyosarcoma",
+    "label": "PROBLEM",
+    "start": 127,
+    "end": 141
+  },
+  {
+    "entity": "pulmonary embolism",
+    "label": "PROBLEM",
+    "start": 157,
+    "end": 175
+  },
+  {
+    "entity": "subdural hematoma",
+    "label": "PROBLEM",
+    "start": 177,
+    "end": 194
+  },
+  {
+    "entity": "pancytopenia",
+    "label": "PROBLEM",
+    "start": 196,
+    "end": 208
+  },
+  {
+    "entity": "pneumonia",
+    "label": "PROBLEM",
+    "start": 214,
+    "end": 223
+  },
+  {
+    "entity": "Leiomyosarcoma",
+    "label": "PROBLEM",
+    "start": 291,
+    "end": 305
+  },
+  {
+    "entity": "pulmonary embolism",
+    "label": "PROBLEM",
+    "start": 322,
+    "end": 340
+  },
+  {
+    "entity": "subdural hematoma",
+    "label": "PROBLEM",
+    "start": 357,
+    "end": 374
+  },
+  {
+    "entity": "Pancytopenia",
+    "label": "PROBLEM",
+    "start": 380,
+    "end": 392
+  },
+  {
+    "entity": "pneumonia",
+    "label": "PROBLEM",
+    "start": 409,
+    "end": 418
+  },
+  {
+    "entity": "CIVI-CAD",
+    "label": "DRUG",
+    "start": 473,
+    "end": 481
+  },
+  {
+    "entity": "Cytoxan",
+    "label": "DRUG",
+    "start": 483,
+    "end": 490
+  },
+  {
+    "entity": "Adriamycin",
+    "label": "DRUG",
+    "start": 492,
+    "end": 502
+  },
+  {
+    "entity": "DTIC",
+    "label": "DRUG",
+    "start": 508,
+    "end": 512
+  },
+  {
+    "entity": "CTA",
+    "label": "TEST",
+    "start": 549,
+    "end": 552
+  },
+  {
+    "entity": "chest PE",
+    "label": "TEST",
+    "start": 554,
+    "end": 562
+  },
+  {
+    "entity": "pulmonary embolism",
+    "label": "PROBLEM",
+    "start": 593,
+    "end": 611
+  },
+  {
+    "entity": "Head CT",
+    "label": "TEST",
+    "start": 617,
+    "end": 624
+  },
+  {
+    "entity": "acute intracranial abnormalities",
+    "label": "PROBLEM",
+    "start": 648,
+    "end": 680
+  },
+  {
+    "entity": "Sinus CT",
+    "label": "TEST",
+    "start": 686,
+    "end": 694
+  },
+  {
+    "entity": "a mass in the left posterior arm",
+    "label": "PROBLEM",
+    "start": 837,
+    "end": 869
+  },
+  {
+    "entity": "The mass",
+    "label": "PROBLEM",
+    "start": 889,
+    "end": 897
+  },
+  {
+    "entity": "MRI",
+    "label": "TEST",
+    "start": 999,
+    "end": 1002
+  },
+  {
+    "entity": "inflammation",
+    "label": "PROBLEM",
+    "start": 1010,
+    "end": 1022
+  },
+  {
+    "entity": "rheumatoid arthritis",
+    "label": "PROBLEM",
+    "start": 1058,
+    "end": 1078
+  },
+  {
+    "entity": "mass",
+    "label": "PROBLEM",
+    "start": 1084,
+    "end": 1088
+  },
+  {
+    "entity": "partial resection",
+    "label": "TREATMENT",
+    "start": 1135,
+    "end": 1152
+  },
+  {
+    "entity": "pathologic grade 2 leiomyosarcoma",
+    "label": "PROBLEM",
+    "start": 1167,
+    "end": 1200
+  },
+  {
+    "entity": "chemotherapy",
+    "label": "DRUG",
+    "start": 1353,
+    "end": 1365
+  },
+  {
+    "entity": "CIVI-CAD",
+    "label": "DRUG",
+    "start": 1392,
+    "end": 1400
+  },
+  {
+    "entity": "pulmonary embolus",
+    "label": "PROBLEM",
+    "start": 1449,
+    "end": 1466
+  },
+  {
+    "entity": "pneumonia",
+    "label": "PROBLEM",
+    "start": 1468,
+    "end": 1477
+  },
+  {
+    "entity": "subdural hematoma",
+    "label": "PROBLEM",
+    "start": 1483,
+    "end": 1500
+  },
+  {
+    "entity": "anticoagulation",
+    "label": "TREATMENT",
+    "start": 1510,
+    "end": 1525
+  },
+  {
+    "entity": "surgical resection",
+    "label": "TREATMENT",
+    "start": 1552,
+    "end": 1570
+  },
+  {
+    "entity": "residual disease",
+    "label": "PROBLEM",
+    "start": 1605,
+    "end": 1621
+  },
+  {
+    "entity": "Leiomyosarcoma",
+    "label": "PROBLEM",
+    "start": 1674,
+    "end": 1688
+  },
+  {
+    "entity": "Cytoxan",
+    "label": "DRUG",
+    "start": 1801,
+    "end": 1808
+  },
+  {
+    "entity": "Adriamycin",
+    "label": "DRUG",
+    "start": 1810,
+    "end": 1820
+  },
+  {
+    "entity": "DTIC",
+    "label": "DRUG",
+    "start": 1826,
+    "end": 1830
+  },
+  {
+    "entity": "pulmonary embolism",
+    "label": "PROBLEM",
+    "start": 1873,
+    "end": 1891
+  },
+  {
+    "entity": "dyspnea",
+    "label": "PROBLEM",
+    "start": 1965,
+    "end": 1972
+  },
+  {
+    "entity": "some mild chest pain",
+    "label": "PROBLEM",
+    "start": 1989,
+    "end": 2009
+  },
+  {
+    "entity": "CTA",
+    "label": "TEST",
+    "start": 2027,
+    "end": 2030
+  },
+  {
+    "entity": "pulmonary embolism",
+    "label": "PROBLEM",
+    "start": 2060,
+    "end": 2078
+  },
+  {
+    "entity": "Lovenox",
+    "label": "DRUG",
+    "start": 2132,
+    "end": 2139
+  },
+  {
+    "entity": "shortness of breath",
+    "label": "PROBLEM",
+    "start": 2226,
+    "end": 2245
+  },
+  {
+    "entity": "chest pain",
+    "label": "PROBLEM",
+    "start": 2249,
+    "end": 2259
+  },
+  {
+    "entity": "subdural hematoma",
+    "label": "PROBLEM",
+    "start": 2276,
+    "end": 2293
+  },
+  {
+    "entity": "mild intermittent headaches",
+    "label": "PROBLEM",
+    "start": 2336,
+    "end": 2363
+  },
+  {
+    "entity": "headaches",
+    "label": "PROBLEM",
+    "start": 2445,
+    "end": 2454
+  },
+  {
+    "entity": "pain medication",
+    "label": "DRUG",
+    "start": 2478,
+    "end": 2493
+  },
+  {
+    "entity": "head CT",
+    "label": "TEST",
+    "start": 2530,
+    "end": 2537
+  },
+  {
+    "entity": "acute intracranial abnormalities",
+    "label": "PROBLEM",
+    "start": 2565,
+    "end": 2597
+  },
+  {
+    "entity": "sinusitis",
+    "label": "PROBLEM",
+    "start": 2633,
+    "end": 2642
+  },
+  {
+    "entity": "sinus CT",
+    "label": "TEST",
+    "start": 2652,
+    "end": 2660
+  },
+  {
+    "entity": "Pancytopenia",
+    "label": "PROBLEM",
+    "start": 2702,
+    "end": 2714
+  },
+  {
+    "entity": "white blood count",
+    "label": "TEST",
+    "start": 2744,
+    "end": 2761
+  },
+  {
+    "entity": "hemoglobin",
+    "label": "TEST",
+    "start": 2771,
+    "end": 2781
+  },
+  {
+    "entity": "platelet count",
+    "label": "TEST",
+    "start": 2788,
+    "end": 2802
+  },
+  {
+    "entity": "ANC",
+    "label": "TEST",
+    "start": 2811,
+    "end": 2814
+  },
+  {
+    "entity": "transfusion of red blood cells or platelets",
+    "label": "TREATMENT",
+    "start": 2901,
+    "end": 2944
+  },
+  {
+    "entity": "ANC",
+    "label": "TEST",
+    "start": 2973,
+    "end": 2976
+  },
+  {
+    "entity": "neutropenic diet",
+    "label": "TREATMENT",
+    "start": 3014,
+    "end": 3030
+  },
+  {
+    "entity": "ANC",
+    "label": "TEST",
+    "start": 3049,
+    "end": 3052
+  },
+  {
+    "entity": "neutropenic diet",
+    "label": "TREATMENT",
+    "start": 3093,
+    "end": 3109
+  },
+  {
+    "entity": "Her white blood cell count",
+    "label": "TEST",
+    "start": 3111,
+    "end": 3137
+  },
+  {
+    "entity": "her hemoglobin",
+    "label": "TEST",
+    "start": 3163,
+    "end": 3177
+  },
+  {
+    "entity": "a platelet count",
+    "label": "TEST",
+    "start": 3192,
+    "end": 3208
+  },
+  {
+    "entity": "pneumonia",
+    "label": "PROBLEM",
+    "start": 3232,
+    "end": 3241
+  },
+  {
+    "entity": "pneumonia",
+    "label": "PROBLEM",
+    "start": 3314,
+    "end": 3323
+  },
+  {
+    "entity": "lab work",
+    "label": "TEST",
+    "start": 3469,
+    "end": 3477
+  },
+  {
+    "entity": "fevers",
+    "label": "PROBLEM",
+    "start": 3624,
+    "end": 3630
+  },
+  {
+    "entity": "leiomyosarcoma",
+    "label": "PROBLEM",
+    "start": 3774,
+    "end": 3788
+  },
+  {
+    "entity": "embolism",
+    "label": "PROBLEM",
+    "start": 3790,
+    "end": 3798
+  },
+  {
+    "entity": "hematoma",
+    "label": "PROBLEM",
+    "start": 3800,
+    "end": 3808
+  },
+  {
+    "entity": "pneumonia",
+    "label": "PROBLEM",
+    "start": 3810,
+    "end": 3819
+  },
+  {
+    "entity": "acute intracranial abnormalities",
+    "label": "PROBLEM",
+    "start": 3821,
+    "end": 3853
+  },
+  {
+    "entity": "white blood",
+    "label": "TEST",
+    "start": 3855,
+    "end": 3866
+  },
+  {
+    "entity": "platelet count",
+    "label": "TEST",
+    "start": 3868,
+    "end": 3882
+  },
+  {
+    "entity": "blood cells",
+    "label": "TEST",
+    "start": 3884,
+    "end": 3895
+  },
+  {
+    "entity": "neutropenic diet",
+    "label": "TREATMENT",
+    "start": 3897,
+    "end": 3913
+  },
+  {
+    "entity": "subdural hematoma",
+    "label": "PROBLEM",
+    "start": 3915,
+    "end": 3932
+  },
+  {
+    "entity": "pulmonary embolism",
+    "label": "PROBLEM",
+    "start": 3934,
+    "end": 3952
+  },
+  {
+    "entity": "pancytopenia",
+    "label": "PROBLEM",
+    "start": 3968,
+    "end": 3980
+  }
+]

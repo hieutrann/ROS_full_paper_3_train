@@ -1,0 +1,230 @@
+[
+  {
+    "entity": "Speech Therapy",
+    "label": "TREATMENT",
+    "start": 64,
+    "end": 78
+  },
+  {
+    "entity": "skilled speech therapy",
+    "label": "TREATMENT",
+    "start": 202,
+    "end": 224
+  },
+  {
+    "entity": "skilled speech therapy",
+    "label": "TREATMENT",
+    "start": 466,
+    "end": 488
+  },
+  {
+    "entity": "therapy",
+    "label": "TREATMENT",
+    "start": 588,
+    "end": 595
+  },
+  {
+    "entity": "NPO",
+    "label": "TREATMENT",
+    "start": 626,
+    "end": 629
+  },
+  {
+    "entity": "a G-tube",
+    "label": "TREATMENT",
+    "start": 635,
+    "end": 643
+  },
+  {
+    "entity": "initial speech and language evaluation",
+    "label": "TEST",
+    "start": 652,
+    "end": 690
+  },
+  {
+    "entity": "global aphasia",
+    "label": "PROBLEM",
+    "start": 700,
+    "end": 714
+  },
+  {
+    "entity": "an aphasia quotient",
+    "label": "TEST",
+    "start": 720,
+    "end": 739
+  },
+  {
+    "entity": "the Western Aphasia Battery",
+    "label": "TEST",
+    "start": 760,
+    "end": 787
+  },
+  {
+    "entity": "the initial evaluation",
+    "label": "TEST",
+    "start": 795,
+    "end": 817
+  },
+  {
+    "entity": "outpatient speech therapy sessions",
+    "label": "TREATMENT",
+    "start": 847,
+    "end": 881
+  },
+  {
+    "entity": "a modified barium swallow study",
+    "label": "TEST",
+    "start": 1134,
+    "end": 1165
+  },
+  {
+    "entity": "aspiration",
+    "label": "PROBLEM",
+    "start": 1206,
+    "end": 1216
+  },
+  {
+    "entity": "all medications",
+    "label": "DRUG",
+    "start": 1278,
+    "end": 1293
+  },
+  {
+    "entity": "her G-tube",
+    "label": "TREATMENT",
+    "start": 1313,
+    "end": 1323
+  },
+  {
+    "entity": "her feeding tube",
+    "label": "TREATMENT",
+    "start": 1424,
+    "end": 1440
+  },
+  {
+    "entity": "accuracy of yes-no responses",
+    "label": "TEST",
+    "start": 1471,
+    "end": 1499
+  },
+  {
+    "entity": "reevaluation",
+    "label": "TEST",
+    "start": 1746,
+    "end": 1758
+  },
+  {
+    "entity": "difficulty stating verbally",
+    "label": "PROBLEM",
+    "start": 2061,
+    "end": 2088
+  },
+  {
+    "entity": "difficulty with her expressive language abilities.",
+    "label": "PROBLEM",
+    "start": 2229,
+    "end": 2279
+  },
+  {
+    "entity": "A reevaluation",
+    "label": "TEST",
+    "start": 2570,
+    "end": 2584
+  },
+  {
+    "entity": "an aphasia quotient",
+    "label": "TEST",
+    "start": 2617,
+    "end": 2636
+  },
+  {
+    "entity": "unintelligible speech",
+    "label": "PROBLEM",
+    "start": 2732,
+    "end": 2753
+  },
+  {
+    "entity": "An alternative communication device",
+    "label": "TREATMENT",
+    "start": 2755,
+    "end": 2790
+  },
+  {
+    "entity": "a communication device",
+    "label": "TREATMENT",
+    "start": 2894,
+    "end": 2916
+  },
+  {
+    "entity": "an alternative augmented communication device",
+    "label": "TREATMENT",
+    "start": 3006,
+    "end": 3051
+  },
+  {
+    "entity": "a speech generating device",
+    "label": "TREATMENT",
+    "start": 3149,
+    "end": 3175
+  },
+  {
+    "entity": "home activities",
+    "label": "TREATMENT",
+    "start": 3276,
+    "end": 3291
+  },
+  {
+    "entity": "g-tube",
+    "label": "TREATMENT",
+    "start": 3411,
+    "end": 3417
+  },
+  {
+    "entity": "aphasia",
+    "label": "PROBLEM",
+    "start": 3419,
+    "end": 3426
+  },
+  {
+    "entity": "language evaluation",
+    "label": "TEST",
+    "start": 3428,
+    "end": 3447
+  },
+  {
+    "entity": "western aphasia battery",
+    "label": "TEST",
+    "start": 3449,
+    "end": 3472
+  },
+  {
+    "entity": "skilled speech therapy",
+    "label": "TREATMENT",
+    "start": 3474,
+    "end": 3496
+  },
+  {
+    "entity": "swallowing function",
+    "label": "TEST",
+    "start": 3498,
+    "end": 3517
+  },
+  {
+    "entity": "speech therapy",
+    "label": "TREATMENT",
+    "start": 3519,
+    "end": 3533
+  },
+  {
+    "entity": "therapy",
+    "label": "TREATMENT",
+    "start": 3535,
+    "end": 3542
+  },
+  {
+    "entity": "aspiration",
+    "label": "PROBLEM",
+    "start": 3556,
+    "end": 3566
+  }
+]

@@ -1,0 +1,245 @@
+[
+  {
+    "cold": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "runny nose": "PROBLEM"
+  },
+  {
+    "infant": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "spitting up": "PROBLEM"
+  },
+  {
+    "Congestion": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "cold": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "runny nose": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "spitting up": "PROBLEM"
+  },
+  {
+    "difficulty breathing": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "right TM": "PROBLEM"
+  },
+  {
+    "physical exam": "TEST"
+  },
+  {
+    "TM": "PROBLEM"
+  },
+  {
+    "congested": "PROBLEM"
+  },
+  {
+    "Amoxil": "DRUG"
+  },
+  {
+    "Aldex": "DRUG"
+  },
+  {
+    "ear": "PROBLEM"
+  },
+  {
+    "worse": "PROBLEM"
+  },
+  {
+    "difficulty breathing": "PROBLEM"
+  },
+  {
+    "congested": "PROBLEM"
+  },
+  {
+    "appetite": "PROBLEM"
+  },
+  {
+    "temperature": "TEST"
+  },
+  {
+    "102.6": "TEST"
+  },
+  {
+    "trouble sleeping": "PROBLEM"
+  },
+  {
+    "congestion": "PROBLEM"
+  },
+  {
+    "drug allergies": "PROBLEM"
+  },
+  {
+    "Amoxil": "DRUG"
+  },
+  {
+    "Aldex": "DRUG"
+  },
+  {
+    "Negative": "PROBLEM"
+  },
+  {
+    "mom": "PROBLEM"
+  },
+  {
+    "sister": "PROBLEM"
+  },
+  {
+    "grandparent": "PROBLEM"
+  },
+  {
+    "Woman's": "TEST"
+  },
+  {
+    "complications": "PROBLEM"
+  },
+  {
+    "hearing screen": "TEST"
+  },
+  {
+    "IMMUNIZATIONS": "TEST"
+  },
+  {
+    "surgical history": "TEST"
+  },
+  {
+    "FAMILY HISTORY": "TEST"
+  },
+  {
+    "VITAL SIGNS": "TEST"
+  },
+  {
+    "respiratory rate": "TEST"
+  },
+  {
+    "congested": "PROBLEM"
+  },
+  {
+    "miserable": "PROBLEM"
+  },
+  {
+    "retractions": "PROBLEM"
+  },
+  {
+    "red and irritated": "PROBLEM"
+  },
+  {
+    "light reflex": "TEST"
+  },
+  {
+    "nasal discharge": "PROBLEM"
+  },
+  {
+    "throat": "PROBLEM"
+  },
+  {
+    "extraocular muscles": "PROBLEM"
+  },
+  {
+    "NECK": "TEST"
+  },
+  {
+    "range of motion": "TEST"
+  },
+  {
+    "tachycardic": "PROBLEM"
+  },
+  {
+    "murmur": "PROBLEM"
+  },
+  {
+    "diffuse expiratory wheezing": "PROBLEM"
+  },
+  {
+    "ABDOMEN": "TEST"
+  },
+  {
+    "clubbing": "PROBLEM"
+  },
+  {
+    "cyanosis": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "chem panel": "TEST"
+  },
+  {
+    "RSV screen": "TEST"
+  },
+  {
+    "Chest x-ray": "TEST"
+  },
+  {
+    "CBC": "TEST"
+  },
+  {
+    "RSV bronchiolitis": "PROBLEM"
+  },
+  {
+    "otitis media": "PROBLEM"
+  },
+  {
+    "Orapred": "DRUG"
+  },
+  {
+    "Rocephin": "DRUG"
+  },
+  {
+    "nebulizer treatments": "TREATMENT"
+  },
+  {
+    "oxygen": "TREATMENT"
+  },
+  {
+    "rsv": "PROBLEM"
+  },
+  {
+    "bronchiolitis": "PROBLEM"
+  },
+  {
+    "otitis media": "PROBLEM"
+  },
+  {
+    "runny nose": "PROBLEM"
+  },
+  {
+    "difficulty breathing": "PROBLEM"
+  },
+  {
+    "nose": "PROBLEM"
+  },
+  {
+    "congestion": "PROBLEM"
+  },
+  {
+    "infant": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  }
+]

@@ -1,0 +1,494 @@
+[
+  {
+    "entity": "several medical problems",
+    "label": "PROBLEM",
+    "start": 106,
+    "end": 130
+  },
+  {
+    "entity": "mouth being sore",
+    "label": "PROBLEM",
+    "start": 133,
+    "end": 149
+  },
+  {
+    "entity": "cough",
+    "label": "PROBLEM",
+    "start": 151,
+    "end": 156
+  },
+  {
+    "entity": "right shoulder pain",
+    "label": "PROBLEM",
+    "start": 158,
+    "end": 177
+  },
+  {
+    "entity": "neck pain",
+    "label": "PROBLEM",
+    "start": 183,
+    "end": 192
+  },
+  {
+    "entity": "several medical problems",
+    "label": "PROBLEM",
+    "start": 266,
+    "end": 290
+  },
+  {
+    "entity": "his mouth being sore",
+    "label": "PROBLEM",
+    "start": 305,
+    "end": 325
+  },
+  {
+    "entity": "trouble with my eyes",
+    "label": "PROBLEM",
+    "start": 362,
+    "end": 382
+  },
+  {
+    "entity": "diarrhea",
+    "label": "PROBLEM",
+    "start": 475,
+    "end": 483
+  },
+  {
+    "entity": "abdominal pain",
+    "label": "PROBLEM",
+    "start": 487,
+    "end": 501
+  },
+  {
+    "entity": "nausea",
+    "label": "PROBLEM",
+    "start": 538,
+    "end": 544
+  },
+  {
+    "entity": "diarrhea",
+    "label": "PROBLEM",
+    "start": 548,
+    "end": 556
+  },
+  {
+    "entity": "dysuria",
+    "label": "PROBLEM",
+    "start": 617,
+    "end": 624
+  },
+  {
+    "entity": "back is hurting",
+    "label": "PROBLEM",
+    "start": 630,
+    "end": 645
+  },
+  {
+    "entity": "right shoulder pain",
+    "label": "PROBLEM",
+    "start": 669,
+    "end": 688
+  },
+  {
+    "entity": "neck pain",
+    "label": "PROBLEM",
+    "start": 693,
+    "end": 702
+  },
+  {
+    "entity": "any injury",
+    "label": "PROBLEM",
+    "start": 733,
+    "end": 743
+  },
+  {
+    "entity": "his cough",
+    "label": "PROBLEM",
+    "start": 761,
+    "end": 770
+  },
+  {
+    "entity": "Metronidazole",
+    "label": "DRUG",
+    "start": 811,
+    "end": 824
+  },
+  {
+    "entity": "Lortab",
+    "label": "DRUG",
+    "start": 840,
+    "end": 846
+  },
+  {
+    "entity": "Allegra",
+    "label": "DRUG",
+    "start": 861,
+    "end": 868
+  },
+  {
+    "entity": "Levothroid",
+    "label": "DRUG",
+    "start": 883,
+    "end": 893
+  },
+  {
+    "entity": "Lasix",
+    "label": "DRUG",
+    "start": 909,
+    "end": 914
+  },
+  {
+    "entity": "Flomax",
+    "label": "DRUG",
+    "start": 928,
+    "end": 934
+  },
+  {
+    "entity": "aspirin",
+    "label": "DRUG",
+    "start": 951,
+    "end": 958
+  },
+  {
+    "entity": "Celexa",
+    "label": "DRUG",
+    "start": 972,
+    "end": 978
+  },
+  {
+    "entity": "verapamil SR",
+    "label": "DRUG",
+    "start": 992,
+    "end": 1004
+  },
+  {
+    "entity": "Zetia",
+    "label": "DRUG",
+    "start": 1041,
+    "end": 1046
+  },
+  {
+    "entity": "Feosol",
+    "label": "DRUG",
+    "start": 1060,
+    "end": 1066
+  },
+  {
+    "entity": "ALLERGIES",
+    "label": "PROBLEM",
+    "start": 1074,
+    "end": 1083
+  },
+  {
+    "entity": "Lamisil",
+    "label": "DRUG",
+    "start": 1085,
+    "end": 1092
+  },
+  {
+    "entity": "Equagesic",
+    "label": "DRUG",
+    "start": 1094,
+    "end": 1103
+  },
+  {
+    "entity": "Bactrim",
+    "label": "DRUG",
+    "start": 1105,
+    "end": 1112
+  },
+  {
+    "entity": "Dilatrate",
+    "label": "DRUG",
+    "start": 1114,
+    "end": 1123
+  },
+  {
+    "entity": "cyclobenzaprine",
+    "label": "DRUG",
+    "start": 1125,
+    "end": 1140
+  },
+  {
+    "entity": "acute distress",
+    "label": "PROBLEM",
+    "start": 1221,
+    "end": 1235
+  },
+  {
+    "entity": "Temperature",
+    "label": "TEST",
+    "start": 1265,
+    "end": 1276
+  },
+  {
+    "entity": "Blood pressure",
+    "label": "TEST",
+    "start": 1284,
+    "end": 1298
+  },
+  {
+    "entity": "Pulse",
+    "label": "TEST",
+    "start": 1308,
+    "end": 1313
+  },
+  {
+    "entity": "Weight",
+    "label": "TEST",
+    "start": 1319,
+    "end": 1325
+  },
+  {
+    "entity": "Examination of the throat",
+    "label": "TEST",
+    "start": 1370,
+    "end": 1395
+  },
+  {
+    "entity": "a few slight red patches on his upper inner lip",
+    "label": "PROBLEM",
+    "start": 1433,
+    "end": 1480
+  },
+  {
+    "entity": "yeast dermatitis",
+    "label": "PROBLEM",
+    "start": 1497,
+    "end": 1513
+  },
+  {
+    "entity": "adenopathy",
+    "label": "PROBLEM",
+    "start": 1536,
+    "end": 1546
+  },
+  {
+    "entity": "thyromegaly",
+    "label": "PROBLEM",
+    "start": 1550,
+    "end": 1561
+  },
+  {
+    "entity": "rate",
+    "label": "TEST",
+    "start": 1592,
+    "end": 1596
+  },
+  {
+    "entity": "rhythm",
+    "label": "TEST",
+    "start": 1601,
+    "end": 1607
+  },
+  {
+    "entity": "range of motion of his shoulders",
+    "label": "TEST",
+    "start": 1634,
+    "end": 1666
+  },
+  {
+    "entity": "some tenderness",
+    "label": "PROBLEM",
+    "start": 1671,
+    "end": 1686
+  },
+  {
+    "entity": "range of motion",
+    "label": "TEST",
+    "start": 1746,
+    "end": 1761
+  },
+  {
+    "entity": "Deep tendon reflexes",
+    "label": "TEST",
+    "start": 1792,
+    "end": 1812
+  },
+  {
+    "entity": "Straight leg raising",
+    "label": "TEST",
+    "start": 1854,
+    "end": 1874
+  },
+  {
+    "entity": "back pain",
+    "label": "PROBLEM",
+    "start": 1891,
+    "end": 1900
+  },
+  {
+    "entity": "hepatosplenomegaly",
+    "label": "PROBLEM",
+    "start": 1967,
+    "end": 1985
+  },
+  {
+    "entity": "mass",
+    "label": "PROBLEM",
+    "start": 1989,
+    "end": 1993
+  },
+  {
+    "entity": "bowel sounds",
+    "label": "TEST",
+    "start": 2009,
+    "end": 2021
+  },
+  {
+    "entity": "Clostridium difficile enteritis",
+    "label": "PROBLEM",
+    "start": 2038,
+    "end": 2069
+  },
+  {
+    "entity": "Right shoulder pain",
+    "label": "PROBLEM",
+    "start": 2084,
+    "end": 2103
+  },
+  {
+    "entity": "Chronic low back pain",
+    "label": "PROBLEM",
+    "start": 2108,
+    "end": 2129
+  },
+  {
+    "entity": "Yeast thrush",
+    "label": "PROBLEM",
+    "start": 2134,
+    "end": 2146
+  },
+  {
+    "entity": "Coronary artery disease",
+    "label": "PROBLEM",
+    "start": 2151,
+    "end": 2174
+  },
+  {
+    "entity": "Urinary retention",
+    "label": "PROBLEM",
+    "start": 2179,
+    "end": 2196
+  },
+  {
+    "entity": "Diflucan",
+    "label": "DRUG",
+    "start": 2240,
+    "end": 2248
+  },
+  {
+    "entity": "his metronidazole",
+    "label": "DRUG",
+    "start": 2300,
+    "end": 2317
+  },
+  {
+    "entity": "metronidazole",
+    "label": "DRUG",
+    "start": 2452,
+    "end": 2465
+  },
+  {
+    "entity": "physical therapy",
+    "label": "TREATMENT",
+    "start": 2520,
+    "end": 2536
+  },
+  {
+    "entity": "evaluate",
+    "label": "TEST",
+    "start": 2540,
+    "end": 2548
+  },
+  {
+    "entity": "his eye discomfort",
+    "label": "PROBLEM",
+    "start": 2645,
+    "end": 2663
+  },
+  {
+    "entity": "his left eye pterygium",
+    "label": "PROBLEM",
+    "start": 2668,
+    "end": 2690
+  },
+  {
+    "entity": "exam",
+    "label": "TEST",
+    "start": 2709,
+    "end": 2713
+  },
+  {
+    "entity": "minimal redness",
+    "label": "PROBLEM",
+    "start": 2715,
+    "end": 2730
+  },
+  {
+    "entity": "mattering",
+    "label": "PROBLEM",
+    "start": 2783,
+    "end": 2792
+  },
+  {
+    "entity": "clostridium difficile enteritis",
+    "label": "PROBLEM",
+    "start": 2871,
+    "end": 2902
+  },
+  {
+    "entity": "coronary artery disease",
+    "label": "PROBLEM",
+    "start": 2904,
+    "end": 2927
+  },
+  {
+    "entity": "urinary retention",
+    "label": "PROBLEM",
+    "start": 2929,
+    "end": 2946
+  },
+  {
+    "entity": "yeast thrush",
+    "label": "PROBLEM",
+    "start": 2948,
+    "end": 2960
+  },
+  {
+    "entity": "cough",
+    "label": "PROBLEM",
+    "start": 2962,
+    "end": 2967
+  },
+  {
+    "entity": "neck pain",
+    "label": "PROBLEM",
+    "start": 2969,
+    "end": 2978
+  },
+  {
+    "entity": "several medical problems",
+    "label": "PROBLEM",
+    "start": 2980,
+    "end": 3004
+  },
+  {
+    "entity": "shoulder pain",
+    "label": "PROBLEM",
+    "start": 3006,
+    "end": 3019
+  },
+  {
+    "entity": "range of motion",
+    "label": "TEST",
+    "start": 3021,
+    "end": 3036
+  },
+  {
+    "entity": "metronidazole",
+    "label": "DRUG",
+    "start": 3044,
+    "end": 3057
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "Gastroenteritis": "PROBLEM"
+  },
+  {
+    "autism": "PROBLEM"
+  },
+  {
+    "constipation": "PROBLEM"
+  },
+  {
+    "MiraLax": "DRUG"
+  },
+  {
+    "Adderall": "DRUG"
+  },
+  {
+    "clonidine": "DRUG"
+  },
+  {
+    "attention deficit hyperactivity disorder": "PROBLEM"
+  },
+  {
+    "hyperactivity": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "weight": "TEST"
+  },
+  {
+    "autistic spectrum disorder": "PROBLEM"
+  },
+  {
+    "sedimentation rate": "TEST"
+  },
+  {
+    "magnesium level": "TEST"
+  },
+  {
+    "TSH": "TEST"
+  },
+  {
+    "free T4": "TEST"
+  },
+  {
+    "Chest x-ray": "TEST"
+  },
+  {
+    "abdominal films": "TEST"
+  },
+  {
+    "Hemoglobin": "TEST"
+  },
+  {
+    "hematocrit": "TEST"
+  },
+  {
+    "platelet count": "TEST"
+  },
+  {
+    "white blood count": "TEST"
+  },
+  {
+    "Urinalysis": "TEST"
+  },
+  {
+    "sodium": "TEST"
+  },
+  {
+    "potassium": "TEST"
+  },
+  {
+    "chloride": "TEST"
+  },
+  {
+    "CO2": "TEST"
+  },
+  {
+    "BUN": "TEST"
+  },
+  {
+    "creatinine": "TEST"
+  },
+  {
+    "anion gap": "TEST"
+  },
+  {
+    "glucose": "TEST"
+  },
+  {
+    "total protein": "TEST"
+  },
+  {
+    "albumin": "TEST"
+  },
+  {
+    "calcium": "TEST"
+  },
+  {
+    "bilirubin": "TEST"
+  },
+  {
+    "AST": "TEST"
+  },
+  {
+    "ALT": "TEST"
+  },
+  {
+    "alkaline phosphatase": "TEST"
+  },
+  {
+    "Thyroid peroxidase antibody studies": "TEST"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "clear liquids": "TREATMENT"
+  },
+  {
+    "regular diet": "TREATMENT"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "Graves disease": "PROBLEM"
+  }
+]

@@ -1,0 +1,164 @@
+[
+  {
+    "Pyelonephritis": "PROBLEM"
+  },
+  {
+    "mucous plugging": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "renal insufficiency": "PROBLEM"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "Foley": "DRUG"
+  },
+  {
+    "ileal conduit": "TEST"
+  },
+  {
+    "indwelling Foley": "TEST"
+  },
+  {
+    "ADMISSION DIAGNOSES": "PROBLEM"
+  },
+  {
+    "Pyelonephritis": "PROBLEM"
+  },
+  {
+    "2": "TREATMENT"
+  },
+  {
+    "uterine cancer": "PROBLEM"
+  },
+  {
+    "ileal conduit urinary diversion": "TREATMENT"
+  },
+  {
+    "3": "PROBLEM"
+  },
+  {
+    "Hypertension": "PROBLEM"
+  },
+  {
+    "4": "PROBLEM"
+  },
+  {
+    "Renal insufficiency": "PROBLEM"
+  },
+  {
+    "5": "PROBLEM"
+  },
+  {
+    "Anemia": "PROBLEM"
+  },
+  {
+    "DISCHARGE DIAGNOSES": "TEST"
+  },
+  {
+    "Pyelonephritis": "PROBLEM"
+  },
+  {
+    "mucous plugging": "PROBLEM"
+  },
+  {
+    "Foley": "DRUG"
+  },
+  {
+    "ileal conduit": "TEST"
+  },
+  {
+    "2": "TREATMENT"
+  },
+  {
+    "Hypertension": "PROBLEM"
+  },
+  {
+    "3": "PROBLEM"
+  },
+  {
+    "renal insufficiency": "PROBLEM"
+  },
+  {
+    "4": "PROBLEM"
+  },
+  {
+    "Anemia": "PROBLEM"
+  },
+  {
+    "pyelonephritis": "PROBLEM"
+  },
+  {
+    "Renal": "TREATMENT"
+  },
+  {
+    "Foley": "TEST"
+  },
+  {
+    "ileal conduit": "TEST"
+  },
+  {
+    "mucous plug": "PROBLEM"
+  },
+  {
+    "IV antibiotics": "DRUG"
+  },
+  {
+    "clinically stable": "PROBLEM"
+  },
+  {
+    "Klebsiella": "PROBLEM"
+  },
+  {
+    "Bactrim": "DRUG"
+  },
+  {
+    "p.o.": "TREATMENT"
+  },
+  {
+    "Bactrim": "DRUG"
+  },
+  {
+    "surgery": "TREATMENT"
+  },
+  {
+    "Dr": "TREATMENT"
+  },
+  {
+    "Y in 7-10 days": "PROBLEM"
+  },
+  {
+    "knee pain": "PROBLEM"
+  },
+  {
+    "effusion": "PROBLEM"
+  },
+  {
+    "patellar tendon": "PROBLEM"
+  },
+  {
+    "intraarticular process": "PROBLEM"
+  },
+  {
+    "ibuprofen": "DRUG"
+  },
+  {
+    "renal insufficiency": "PROBLEM"
+  },
+  {
+    "pyelonephritis": "PROBLEM"
+  },
+  {
+    "mucous plugging": "PROBLEM"
+  },
+  {
+    "ileal conduit": "TREATMENT"
+  },
+  {
+    "uterine cancer": "PROBLEM"
+  }
+]

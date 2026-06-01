@@ -1,0 +1,728 @@
+[
+  {
+    "entity": "Right-sided facial droop",
+    "label": "PROBLEM",
+    "start": 96,
+    "end": 120
+  },
+  {
+    "entity": "right-sided weakness",
+    "label": "PROBLEM",
+    "start": 125,
+    "end": 145
+  },
+  {
+    "entity": "cerebrovascular accident",
+    "label": "PROBLEM",
+    "start": 154,
+    "end": 178
+  },
+  {
+    "entity": "he CT scan of the head",
+    "label": "TEST",
+    "start": 180,
+    "end": 202
+  },
+  {
+    "entity": "acute events",
+    "label": "PROBLEM",
+    "start": 220,
+    "end": 232
+  },
+  {
+    "entity": "a new-onset cerebrovascular accident",
+    "label": "PROBLEM",
+    "start": 256,
+    "end": 292
+  },
+  {
+    "entity": "Right-sided facial droop",
+    "label": "PROBLEM",
+    "start": 349,
+    "end": 373
+  },
+  {
+    "entity": "right-sided weakness",
+    "label": "PROBLEM",
+    "start": 378,
+    "end": 398
+  },
+  {
+    "entity": "a stroke",
+    "label": "PROBLEM",
+    "start": 535,
+    "end": 543
+  },
+  {
+    "entity": "dementia",
+    "label": "PROBLEM",
+    "start": 548,
+    "end": 556
+  },
+  {
+    "entity": "expressive aphasia",
+    "label": "PROBLEM",
+    "start": 562,
+    "end": 580
+  },
+  {
+    "entity": "a right-sided facial droop",
+    "label": "PROBLEM",
+    "start": 603,
+    "end": 629
+  },
+  {
+    "entity": "further evaluation",
+    "label": "TEST",
+    "start": 677,
+    "end": 695
+  },
+  {
+    "entity": "the right-sided upper extremity weakness",
+    "label": "PROBLEM",
+    "start": 750,
+    "end": 790
+  },
+  {
+    "entity": "right-sided facial droop",
+    "label": "PROBLEM",
+    "start": 795,
+    "end": 819
+  },
+  {
+    "entity": "The CT scan of the head",
+    "label": "TEST",
+    "start": 821,
+    "end": 844
+  },
+  {
+    "entity": "acute events",
+    "label": "PROBLEM",
+    "start": 862,
+    "end": 874
+  },
+  {
+    "entity": "a new-onset cerebrovascular accident",
+    "label": "PROBLEM",
+    "start": 898,
+    "end": 934
+  },
+  {
+    "entity": "urinary tract infection",
+    "label": "PROBLEM",
+    "start": 1039,
+    "end": 1062
+  },
+  {
+    "entity": "resistant",
+    "label": "PROBLEM",
+    "start": 1074,
+    "end": 1083
+  },
+  {
+    "entity": "all oral medications",
+    "label": "DRUG",
+    "start": 1087,
+    "end": 1107
+  },
+  {
+    "entity": "ALLERGIES",
+    "label": "PROBLEM",
+    "start": 1109,
+    "end": 1118
+  },
+  {
+    "entity": "ALLERGIC",
+    "label": "PROBLEM",
+    "start": 1127,
+    "end": 1135
+  },
+  {
+    "entity": "PENICILLIN",
+    "label": "DRUG",
+    "start": 1139,
+    "end": 1149
+  },
+  {
+    "entity": "Cerebrovascular accident",
+    "label": "PROBLEM",
+    "start": 1312,
+    "end": 1336
+  },
+  {
+    "entity": "expressive aphasia",
+    "label": "PROBLEM",
+    "start": 1342,
+    "end": 1360
+  },
+  {
+    "entity": "lower extremity weakness",
+    "label": "PROBLEM",
+    "start": 1365,
+    "end": 1389
+  },
+  {
+    "entity": "Abnormality of gait",
+    "label": "PROBLEM",
+    "start": 1394,
+    "end": 1413
+  },
+  {
+    "entity": "wheelchair bound",
+    "label": "PROBLEM",
+    "start": 1418,
+    "end": 1434
+  },
+  {
+    "entity": "Hypertension",
+    "label": "PROBLEM",
+    "start": 1455,
+    "end": 1467
+  },
+  {
+    "entity": "Chronic obstructive pulmonary disease",
+    "label": "PROBLEM",
+    "start": 1472,
+    "end": 1509
+  },
+  {
+    "entity": "nasal oxygen",
+    "label": "TREATMENT",
+    "start": 1514,
+    "end": 1526
+  },
+  {
+    "entity": "Anxiety disorder",
+    "label": "PROBLEM",
+    "start": 1531,
+    "end": 1547
+  },
+  {
+    "entity": "Dementia",
+    "label": "PROBLEM",
+    "start": 1552,
+    "end": 1560
+  },
+  {
+    "entity": "left mastectomy",
+    "label": "TREATMENT",
+    "start": 1597,
+    "end": 1612
+  },
+  {
+    "entity": "breast cancer",
+    "label": "PROBLEM",
+    "start": 1626,
+    "end": 1639
+  },
+  {
+    "entity": "right knee replacement",
+    "label": "TREATMENT",
+    "start": 1656,
+    "end": 1678
+  },
+  {
+    "entity": "osteoarthritis",
+    "label": "PROBLEM",
+    "start": 1692,
+    "end": 1706
+  },
+  {
+    "entity": "the patient's inability to communicate",
+    "label": "PROBLEM",
+    "start": 1738,
+    "end": 1776
+  },
+  {
+    "entity": "urine incontinence",
+    "label": "PROBLEM",
+    "start": 1821,
+    "end": 1839
+  },
+  {
+    "entity": "stool incontinence",
+    "label": "PROBLEM",
+    "start": 1849,
+    "end": 1867
+  },
+  {
+    "entity": "VITAL SIGNS",
+    "label": "TEST",
+    "start": 2058,
+    "end": 2069
+  },
+  {
+    "entity": "Temperature",
+    "label": "TEST",
+    "start": 2071,
+    "end": 2082
+  },
+  {
+    "entity": "pulse",
+    "label": "TEST",
+    "start": 2092,
+    "end": 2097
+  },
+  {
+    "entity": "respirations",
+    "label": "TEST",
+    "start": 2106,
+    "end": 2118
+  },
+  {
+    "entity": "blood pressure",
+    "label": "TEST",
+    "start": 2127,
+    "end": 2141
+  },
+  {
+    "entity": "a slight right-sided facial droop",
+    "label": "PROBLEM",
+    "start": 2284,
+    "end": 2317
+  },
+  {
+    "entity": "the missing teeth on the upper and the lower part",
+    "label": "PROBLEM",
+    "start": 2344,
+    "end": 2393
+  },
+  {
+    "entity": "carotid bruit",
+    "label": "PROBLEM",
+    "start": 2451,
+    "end": 2464
+  },
+  {
+    "entity": "cervical adenopathy",
+    "label": "PROBLEM",
+    "start": 2469,
+    "end": 2488
+  },
+  {
+    "entity": "rate",
+    "label": "TEST",
+    "start": 2507,
+    "end": 2511
+  },
+  {
+    "entity": "rhythm",
+    "label": "TEST",
+    "start": 2516,
+    "end": 2522
+  },
+  {
+    "entity": "2/6 systolic murmur",
+    "label": "PROBLEM",
+    "start": 2528,
+    "end": 2547
+  },
+  {
+    "entity": "auscultation",
+    "label": "TEST",
+    "start": 2583,
+    "end": 2595
+  },
+  {
+    "entity": "tenderness",
+    "label": "PROBLEM",
+    "start": 2618,
+    "end": 2628
+  },
+  {
+    "entity": "Bowel sound",
+    "label": "TEST",
+    "start": 2630,
+    "end": 2641
+  },
+  {
+    "entity": "pedal edema",
+    "label": "PROBLEM",
+    "start": 2679,
+    "end": 2690
+  },
+  {
+    "entity": "fixed flexion deformity on both sides",
+    "label": "PROBLEM",
+    "start": 2756,
+    "end": 2793
+  },
+  {
+    "entity": "right-sided slight facial droop",
+    "label": "PROBLEM",
+    "start": 2816,
+    "end": 2847
+  },
+  {
+    "entity": "withdrawal of both lower extremities",
+    "label": "PROBLEM",
+    "start": 2899,
+    "end": 2935
+  },
+  {
+    "entity": "touching her sole of the feet",
+    "label": "TEST",
+    "start": 2939,
+    "end": 2968
+  },
+  {
+    "entity": "about 2 cm first turning to second-degree pressure ulcer on the right buttocks",
+    "label": "PROBLEM",
+    "start": 2985,
+    "end": 3063
+  },
+  {
+    "entity": "The CT scan of the head",
+    "label": "TEST",
+    "start": 3082,
+    "end": 3105
+  },
+  {
+    "entity": "brain atrophy",
+    "label": "PROBLEM",
+    "start": 3112,
+    "end": 3125
+  },
+  {
+    "entity": "acute events",
+    "label": "PROBLEM",
+    "start": 3134,
+    "end": 3146
+  },
+  {
+    "entity": "Sodium",
+    "label": "TEST",
+    "start": 3148,
+    "end": 3154
+  },
+  {
+    "entity": "potassium",
+    "label": "TEST",
+    "start": 3163,
+    "end": 3172
+  },
+  {
+    "entity": "chloride",
+    "label": "TEST",
+    "start": 3178,
+    "end": 3186
+  },
+  {
+    "entity": "bicarbonate",
+    "label": "TEST",
+    "start": 3192,
+    "end": 3203
+  },
+  {
+    "entity": "BUN",
+    "label": "TEST",
+    "start": 3208,
+    "end": 3211
+  },
+  {
+    "entity": "creatinine",
+    "label": "TEST",
+    "start": 3219,
+    "end": 3229
+  },
+  {
+    "entity": "glucose",
+    "label": "TEST",
+    "start": 3239,
+    "end": 3246
+  },
+  {
+    "entity": "Total white blood cell count",
+    "label": "TEST",
+    "start": 3254,
+    "end": 3282
+  },
+  {
+    "entity": "hemoglobin",
+    "label": "TEST",
+    "start": 3294,
+    "end": 3304
+  },
+  {
+    "entity": "hematocrit",
+    "label": "TEST",
+    "start": 3311,
+    "end": 3321
+  },
+  {
+    "entity": "the platelet count",
+    "label": "TEST",
+    "start": 3332,
+    "end": 3350
+  },
+  {
+    "entity": "The urinalysis",
+    "label": "TEST",
+    "start": 3363,
+    "end": 3377
+  },
+  {
+    "entity": "white blood cells",
+    "label": "TEST",
+    "start": 3396,
+    "end": 3413
+  },
+  {
+    "entity": "red blood cells",
+    "label": "TEST",
+    "start": 3424,
+    "end": 3439
+  },
+  {
+    "entity": "culture",
+    "label": "TEST",
+    "start": 3448,
+    "end": 3455
+  },
+  {
+    "entity": "more than 100,000 colonies of E. coli",
+    "label": "PROBLEM",
+    "start": 3463,
+    "end": 3500
+  },
+  {
+    "entity": "resistant",
+    "label": "PROBLEM",
+    "start": 3502,
+    "end": 3511
+  },
+  {
+    "entity": "most of the tested medications",
+    "label": "DRUG",
+    "start": 3515,
+    "end": 3545
+  },
+  {
+    "entity": "amikacin",
+    "label": "DRUG",
+    "start": 3553,
+    "end": 3561
+  },
+  {
+    "entity": "nitrofurantoin",
+    "label": "DRUG",
+    "start": 3563,
+    "end": 3577
+  },
+  {
+    "entity": "imipenem",
+    "label": "DRUG",
+    "start": 3579,
+    "end": 3587
+  },
+  {
+    "entity": "meropenem",
+    "label": "DRUG",
+    "start": 3593,
+    "end": 3602
+  },
+  {
+    "entity": "cerebrovascular accident",
+    "label": "PROBLEM",
+    "start": 3626,
+    "end": 3650
+  },
+  {
+    "entity": "right-sided weakness",
+    "label": "PROBLEM",
+    "start": 3656,
+    "end": 3676
+  },
+  {
+    "entity": "Hypertension",
+    "label": "PROBLEM",
+    "start": 3681,
+    "end": 3693
+  },
+  {
+    "entity": "Dementia",
+    "label": "PROBLEM",
+    "start": 3698,
+    "end": 3706
+  },
+  {
+    "entity": "Anxiety",
+    "label": "PROBLEM",
+    "start": 3711,
+    "end": 3718
+  },
+  {
+    "entity": "Urinary tract infection",
+    "label": "PROBLEM",
+    "start": 3723,
+    "end": 3746
+  },
+  {
+    "entity": "Abnormality of gait",
+    "label": "PROBLEM",
+    "start": 3751,
+    "end": 3770
+  },
+  {
+    "entity": "lower extremity weakness",
+    "label": "PROBLEM",
+    "start": 3784,
+    "end": 3808
+  },
+  {
+    "entity": "a swallowing evaluation",
+    "label": "TEST",
+    "start": 3851,
+    "end": 3874
+  },
+  {
+    "entity": "Vasotec",
+    "label": "DRUG",
+    "start": 3909,
+    "end": 3916
+  },
+  {
+    "entity": "systolic blood pressure",
+    "label": "TEST",
+    "start": 3938,
+    "end": 3961
+  },
+  {
+    "entity": "Neuro check",
+    "label": "TEST",
+    "start": 3977,
+    "end": 3988
+  },
+  {
+    "entity": "amikacin",
+    "label": "DRUG",
+    "start": 4038,
+    "end": 4046
+  },
+  {
+    "entity": "Lovenox",
+    "label": "DRUG",
+    "start": 4085,
+    "end": 4092
+  },
+  {
+    "entity": "Ecotrin",
+    "label": "DRUG",
+    "start": 4154,
+    "end": 4161
+  },
+  {
+    "entity": "swallowing evaluation",
+    "label": "TEST",
+    "start": 4165,
+    "end": 4186
+  },
+  {
+    "entity": "home medications",
+    "label": "DRUG",
+    "start": 4204,
+    "end": 4220
+  },
+  {
+    "entity": "Aricept",
+    "label": "DRUG",
+    "start": 4246,
+    "end": 4253
+  },
+  {
+    "entity": "Diovan",
+    "label": "DRUG",
+    "start": 4272,
+    "end": 4278
+  },
+  {
+    "entity": "multivitamin",
+    "label": "DRUG",
+    "start": 4298,
+    "end": 4310
+  },
+  {
+    "entity": "calcium with vitamin D",
+    "label": "DRUG",
+    "start": 4312,
+    "end": 4334
+  },
+  {
+    "entity": "Ecotrin",
+    "label": "DRUG",
+    "start": 4336,
+    "end": 4343
+  },
+  {
+    "entity": "Tylenol",
+    "label": "DRUG",
+    "start": 4349,
+    "end": 4356
+  },
+  {
+    "entity": "IV fluids",
+    "label": "TREATMENT",
+    "start": 4389,
+    "end": 4398
+  },
+  {
+    "entity": "a D5 normal saline",
+    "label": "DRUG",
+    "start": 4421,
+    "end": 4439
+  },
+  {
+    "entity": "potassium",
+    "label": "DRUG",
+    "start": 4481,
+    "end": 4490
+  },
+  {
+    "entity": "hypertension",
+    "label": "PROBLEM",
+    "start": 4585,
+    "end": 4597
+  },
+  {
+    "entity": "right-sided weakness",
+    "label": "PROBLEM",
+    "start": 4599,
+    "end": 4619
+  },
+  {
+    "entity": "facial droop",
+    "label": "PROBLEM",
+    "start": 4621,
+    "end": 4633
+  },
+  {
+    "entity": "wheelchair bound",
+    "label": "PROBLEM",
+    "start": 4635,
+    "end": 4651
+  },
+  {
+    "entity": "blood pressure",
+    "label": "TEST",
+    "start": 4653,
+    "end": 4667
+  },
+  {
+    "entity": "swallowing evaluation",
+    "label": "TEST",
+    "start": 4669,
+    "end": 4690
+  },
+  {
+    "entity": "cerebrovascular accident",
+    "label": "PROBLEM",
+    "start": 4692,
+    "end": 4716
+  },
+  {
+    "entity": "weakness",
+    "label": "PROBLEM",
+    "start": 4718,
+    "end": 4726
+  }
+]

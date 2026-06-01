@@ -1,0 +1,326 @@
+[
+  {
+    "fever of unknown origin": "PROBLEM"
+  },
+  {
+    "Fever of unknown origin": "PROBLEM"
+  },
+  {
+    "polymyositis/dermatomyositis": "PROBLEM"
+  },
+  {
+    "methotrexate": "DRUG"
+  },
+  {
+    "prednisone": "DRUG"
+  },
+  {
+    "urticarial rash": "PROBLEM"
+  },
+  {
+    "fevers": "PROBLEM"
+  },
+  {
+    "infection": "PROBLEM"
+  },
+  {
+    "temperatures": "TEST"
+  },
+  {
+    "103": "TEST"
+  },
+  {
+    "Alta View Emergency Department": "TEST"
+  },
+  {
+    "chest x-ray": "TEST"
+  },
+  {
+    "blood cultures": "TEST"
+  },
+  {
+    "transthoracic echocardiogram": "TEST"
+  },
+  {
+    "chest x-ray": "TEST"
+  },
+  {
+    "fevers": "PROBLEM"
+  },
+  {
+    "Cottonwood Hospital": "TEST"
+  },
+  {
+    "CT scan of the chest, abdomen, and pelvis": "TEST"
+  },
+  {
+    "CT chest": "TEST"
+  },
+  {
+    "pleural-based interstitial changes": "PROBLEM"
+  },
+  {
+    "lung zones": "PROBLEM"
+  },
+  {
+    "diffuse": "PROBLEM"
+  },
+  {
+    "ground glass change": "PROBLEM"
+  },
+  {
+    "CT abdomen and pelvis": "TEST"
+  },
+  {
+    "Infectious disease consultation": "TEST"
+  },
+  {
+    "Dr.": "TREATMENT"
+  },
+  {
+    "XYZ": "DRUG"
+  },
+  {
+    "serologies": "TEST"
+  },
+  {
+    "CMV": "PROBLEM"
+  },
+  {
+    "CMV blood PCR": "TEST"
+  },
+  {
+    "EBV": "PROBLEM"
+  },
+  {
+    "Legionella": "PROBLEM"
+  },
+  {
+    "Chlamydia": "PROBLEM"
+  },
+  {
+    "Mycoplasma": "PROBLEM"
+  },
+  {
+    "Coccidioides": "PROBLEM"
+  },
+  {
+    "cryptococcal antigen": "TEST"
+  },
+  {
+    "PPD": "TEST"
+  },
+  {
+    "CMV serology": "TEST"
+  },
+  {
+    "IgM": "TEST"
+  },
+  {
+    "IgG": "TEST"
+  },
+  {
+    "CMV blood PCR": "TEST"
+  },
+  {
+    "serologies": "TEST"
+  },
+  {
+    "PPD": "TEST"
+  },
+  {
+    "Blood cultures": "TEST"
+  },
+  {
+    "CMV": "PROBLEM"
+  },
+  {
+    "PCR": "TEST"
+  },
+  {
+    "CAT scan": "TEST"
+  },
+  {
+    "bronchoscopy": "TREATMENT"
+  },
+  {
+    "BAL": "TEST"
+  },
+  {
+    "transbronchial biopsies": "TEST"
+  },
+  {
+    "pneumocystis": "PROBLEM"
+  },
+  {
+    "fungal infection": "PROBLEM"
+  },
+  {
+    "AFB": "TEST"
+  },
+  {
+    "nonspecific interstitial fibrosis": "PROBLEM"
+  },
+  {
+    "pathologist": "PROBLEM"
+  },
+  {
+    "CMV": "PROBLEM"
+  },
+  {
+    "immunopathology": "TEST"
+  },
+  {
+    "CMV": "PROBLEM"
+  },
+  {
+    "CMV infection": "PROBLEM"
+  },
+  {
+    "nucleoli": "TEST"
+  },
+  {
+    "biopsy specimens": "TEST"
+  },
+  {
+    "ganciclovir": "DRUG"
+  },
+  {
+    "CMV": "PROBLEM"
+  },
+  {
+    "antibiotic therapy": "DRUG"
+  },
+  {
+    "methotrexate": "DRUG"
+  },
+  {
+    "chest x-ray": "TEST"
+  },
+  {
+    "bibasilar disease": "PROBLEM"
+  },
+  {
+    "interstitial infiltrates": "PROBLEM"
+  },
+  {
+    "ibuprofen": "DRUG"
+  },
+  {
+    "acetaminophen": "DRUG"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "BAL fluid cell count": "TEST"
+  },
+  {
+    "WBCs": "TEST"
+  },
+  {
+    "RBCs": "TEST"
+  },
+  {
+    "neutrophils": "TEST"
+  },
+  {
+    "lymphocytes": "TEST"
+  },
+  {
+    "XYZ": "DRUG"
+  },
+  {
+    "rheumatologist": "DRUG"
+  },
+  {
+    "DISCHARGE DIAGNOSES": "TEST"
+  },
+  {
+    "CMV infection": "PROBLEM"
+  },
+  {
+    "CMV pneumonitis": "PROBLEM"
+  },
+  {
+    "2": "TEST"
+  },
+  {
+    "Polymyositis": "PROBLEM"
+  },
+  {
+    "methotrexate": "DRUG"
+  },
+  {
+    "prednisone": "DRUG"
+  },
+  {
+    "DISCHARGE MEDICATIONS": "TREATMENT"
+  },
+  {
+    "ganciclovir": "DRUG"
+  },
+  {
+    "2": "TEST"
+  },
+  {
+    "Advair 100/50": "DRUG"
+  },
+  {
+    "3": "TEST"
+  },
+  {
+    "Ibuprofen": "DRUG"
+  },
+  {
+    "Tylenol": "DRUG"
+  },
+  {
+    "folic acid": "DRUG"
+  },
+  {
+    "4": "TEST"
+  },
+  {
+    "methotrexate": "DRUG"
+  },
+  {
+    "August 22, 2007": "TEST"
+  },
+  {
+    "1:45 p.m.": "TEST"
+  },
+  {
+    "Dr.": "TREATMENT"
+  },
+  {
+    "XYZ": "TREATMENT"
+  },
+  {
+    "XYZ": "TREATMENT"
+  },
+  {
+    "ophthalmologist": "PROBLEM"
+  },
+  {
+    "discharge": "TREATMENT"
+  },
+  {
+    "fever of unknown origin": "PROBLEM"
+  },
+  {
+    "blood cultures": "TEST"
+  },
+  {
+    "transbronchial biopsies": "TEST"
+  },
+  {
+    "infection": "PROBLEM"
+  },
+  {
+    "cmv": "PROBLEM"
+  },
+  {
+    "methotrexate": "DRUG"
+  }
+]

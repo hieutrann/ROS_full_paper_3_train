@@ -1,0 +1,344 @@
+[
+  {
+    "entity": "Respiratory Distress",
+    "label": "PROBLEM",
+    "start": 84,
+    "end": 104
+  },
+  {
+    "entity": "cough",
+    "label": "PROBLEM",
+    "start": 147,
+    "end": 152
+  },
+  {
+    "entity": "increased work of breathing",
+    "label": "PROBLEM",
+    "start": 157,
+    "end": 184
+  },
+  {
+    "entity": "Respiratory distress",
+    "label": "PROBLEM",
+    "start": 248,
+    "end": 268
+  },
+  {
+    "entity": "Reactive airways disease",
+    "label": "PROBLEM",
+    "start": 273,
+    "end": 297
+  },
+  {
+    "entity": "Respiratory distress",
+    "label": "PROBLEM",
+    "start": 323,
+    "end": 343
+  },
+  {
+    "entity": "Reactive airways disease",
+    "label": "PROBLEM",
+    "start": 348,
+    "end": 372
+  },
+  {
+    "entity": "Pneumonia",
+    "label": "PROBLEM",
+    "start": 377,
+    "end": 386
+  },
+  {
+    "entity": "asthma",
+    "label": "PROBLEM",
+    "start": 498,
+    "end": 504
+  },
+  {
+    "entity": "reactive airways disease",
+    "label": "PROBLEM",
+    "start": 508,
+    "end": 532
+  },
+  {
+    "entity": "URI symptoms",
+    "label": "PROBLEM",
+    "start": 578,
+    "end": 590
+  },
+  {
+    "entity": "cough",
+    "label": "PROBLEM",
+    "start": 620,
+    "end": 625
+  },
+  {
+    "entity": "increased work of breathing",
+    "label": "PROBLEM",
+    "start": 630,
+    "end": 657
+  },
+  {
+    "entity": "nebulized treatments",
+    "label": "TREATMENT",
+    "start": 713,
+    "end": 733
+  },
+  {
+    "entity": "albuterol",
+    "label": "DRUG",
+    "start": 949,
+    "end": 958
+  },
+  {
+    "entity": "his respiratory distress",
+    "label": "PROBLEM",
+    "start": 972,
+    "end": 996
+  },
+  {
+    "entity": "corticosteroids",
+    "label": "DRUG",
+    "start": 1043,
+    "end": 1058
+  },
+  {
+    "entity": "An x-ray",
+    "label": "TEST",
+    "start": 1060,
+    "end": 1068
+  },
+  {
+    "entity": "infiltrate",
+    "label": "PROBLEM",
+    "start": 1081,
+    "end": 1091
+  },
+  {
+    "entity": "a right upper lobe infiltrate",
+    "label": "PROBLEM",
+    "start": 1144,
+    "end": 1173
+  },
+  {
+    "entity": "atelectasis",
+    "label": "PROBLEM",
+    "start": 1181,
+    "end": 1192
+  },
+  {
+    "entity": "any antibiotics",
+    "label": "DRUG",
+    "start": 1260,
+    "end": 1275
+  },
+  {
+    "entity": "his fever",
+    "label": "PROBLEM",
+    "start": 1280,
+    "end": 1289
+  },
+  {
+    "entity": "the CRP",
+    "label": "TEST",
+    "start": 1309,
+    "end": 1316
+  },
+  {
+    "entity": "The CBC",
+    "label": "TEST",
+    "start": 1349,
+    "end": 1356
+  },
+  {
+    "entity": "a white count",
+    "label": "TEST",
+    "start": 1373,
+    "end": 1386
+  },
+  {
+    "entity": "the bands",
+    "label": "TEST",
+    "start": 1404,
+    "end": 1413
+  },
+  {
+    "entity": "the pneumonia",
+    "label": "PROBLEM",
+    "start": 1467,
+    "end": 1480
+  },
+  {
+    "entity": "bacterial",
+    "label": "PROBLEM",
+    "start": 1484,
+    "end": 1493
+  },
+  {
+    "entity": "amoxicillin",
+    "label": "DRUG",
+    "start": 1523,
+    "end": 1534
+  },
+  {
+    "entity": "Zithromax",
+    "label": "DRUG",
+    "start": 1539,
+    "end": 1548
+  },
+  {
+    "entity": "some bilateral wheezing",
+    "label": "PROBLEM",
+    "start": 1648,
+    "end": 1671
+  },
+  {
+    "entity": "tachypnea",
+    "label": "PROBLEM",
+    "start": 1680,
+    "end": 1689
+  },
+  {
+    "entity": "acute distress",
+    "label": "PROBLEM",
+    "start": 1735,
+    "end": 1749
+  },
+  {
+    "entity": "lymphadenopathy",
+    "label": "PROBLEM",
+    "start": 1832,
+    "end": 1847
+  },
+  {
+    "entity": "thyromegaly",
+    "label": "PROBLEM",
+    "start": 1849,
+    "end": 1860
+  },
+  {
+    "entity": "masses",
+    "label": "PROBLEM",
+    "start": 1864,
+    "end": 1870
+  },
+  {
+    "entity": "Bilateral basilar wheezing",
+    "label": "PROBLEM",
+    "start": 1879,
+    "end": 1905
+  },
+  {
+    "entity": "distress",
+    "label": "PROBLEM",
+    "start": 1910,
+    "end": 1918
+  },
+  {
+    "entity": "rate",
+    "label": "TEST",
+    "start": 1944,
+    "end": 1948
+  },
+  {
+    "entity": "rhythm",
+    "label": "TEST",
+    "start": 1953,
+    "end": 1959
+  },
+  {
+    "entity": "murmurs",
+    "label": "PROBLEM",
+    "start": 1964,
+    "end": 1971
+  },
+  {
+    "entity": "Bowel sounds",
+    "label": "TEST",
+    "start": 2016,
+    "end": 2028
+  },
+  {
+    "entity": "hepatosplenomegaly",
+    "label": "PROBLEM",
+    "start": 2071,
+    "end": 2089
+  },
+  {
+    "entity": "masses",
+    "label": "PROBLEM",
+    "start": 2094,
+    "end": 2100
+  },
+  {
+    "entity": "palpation",
+    "label": "TEST",
+    "start": 2115,
+    "end": 2124
+  },
+  {
+    "entity": "Xopenex",
+    "label": "DRUG",
+    "start": 2327,
+    "end": 2334
+  },
+  {
+    "entity": "cough",
+    "label": "PROBLEM",
+    "start": 2395,
+    "end": 2400
+  },
+  {
+    "entity": "wheeze",
+    "label": "PROBLEM",
+    "start": 2404,
+    "end": 2410
+  },
+  {
+    "entity": "QVAR",
+    "label": "DRUG",
+    "start": 2415,
+    "end": 2419
+  },
+  {
+    "entity": "Amoxicillin",
+    "label": "DRUG",
+    "start": 2504,
+    "end": 2515
+  },
+  {
+    "entity": "Zithromax",
+    "label": "DRUG",
+    "start": 2556,
+    "end": 2565
+  },
+  {
+    "entity": "pneumonia",
+    "label": "PROBLEM",
+    "start": 2698,
+    "end": 2707
+  },
+  {
+    "entity": "cough",
+    "label": "PROBLEM",
+    "start": 2718,
+    "end": 2723
+  },
+  {
+    "entity": "reactive airways disease",
+    "label": "PROBLEM",
+    "start": 2725,
+    "end": 2749
+  },
+  {
+    "entity": "respiratory distress",
+    "label": "PROBLEM",
+    "start": 2765,
+    "end": 2785
+  },
+  {
+    "entity": "asthma",
+    "label": "PROBLEM",
+    "start": 2800,
+    "end": 2806
+  }
+]

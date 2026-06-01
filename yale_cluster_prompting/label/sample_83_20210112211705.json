@@ -1,0 +1,248 @@
+[
+  {
+    "entity": "Ectopic Pregnancy",
+    "label": "PROBLEM",
+    "start": 64,
+    "end": 81
+  },
+  {
+    "entity": "pelvic pain",
+    "label": "PROBLEM",
+    "start": 172,
+    "end": 183
+  },
+  {
+    "entity": "vaginal bleeding",
+    "label": "PROBLEM",
+    "start": 188,
+    "end": 204
+  },
+  {
+    "entity": "Right ruptured ectopic pregnancy",
+    "label": "PROBLEM",
+    "start": 206,
+    "end": 238
+  },
+  {
+    "entity": "hemoperitoneum",
+    "label": "PROBLEM",
+    "start": 244,
+    "end": 258
+  },
+  {
+    "entity": "Anemia",
+    "label": "PROBLEM",
+    "start": 260,
+    "end": 266
+  },
+  {
+    "entity": "blood loss",
+    "label": "PROBLEM",
+    "start": 280,
+    "end": 290
+  },
+  {
+    "entity": "pelvic pain",
+    "label": "PROBLEM",
+    "start": 435,
+    "end": 446
+  },
+  {
+    "entity": "vaginal bleeding",
+    "label": "PROBLEM",
+    "start": 451,
+    "end": 467
+  },
+  {
+    "entity": "hCG",
+    "label": "TEST",
+    "start": 496,
+    "end": 499
+  },
+  {
+    "entity": "sonogram",
+    "label": "TEST",
+    "start": 516,
+    "end": 524
+  },
+  {
+    "entity": "hCG titer",
+    "label": "TEST",
+    "start": 529,
+    "end": 538
+  },
+  {
+    "entity": "incomplete abortion",
+    "label": "PROBLEM",
+    "start": 647,
+    "end": 666
+  },
+  {
+    "entity": "ectopic pregnancy",
+    "label": "PROBLEM",
+    "start": 680,
+    "end": 697
+  },
+  {
+    "entity": "rupture of corpus luteal cyst",
+    "label": "PROBLEM",
+    "start": 701,
+    "end": 730
+  },
+  {
+    "entity": "a small mass within the uterus",
+    "label": "PROBLEM",
+    "start": 846,
+    "end": 876
+  },
+  {
+    "entity": "A repeat hCG titer",
+    "label": "TEST",
+    "start": 959,
+    "end": 977
+  },
+  {
+    "entity": "ruptured ectopic pregnancy",
+    "label": "PROBLEM",
+    "start": 1100,
+    "end": 1126
+  },
+  {
+    "entity": "surgery",
+    "label": "TREATMENT",
+    "start": 1169,
+    "end": 1176
+  },
+  {
+    "entity": "laparotomy",
+    "label": "TREATMENT",
+    "start": 1183,
+    "end": 1193
+  },
+  {
+    "entity": "a right ruptured ectopic pregnancy",
+    "label": "PROBLEM",
+    "start": 1225,
+    "end": 1259
+  },
+  {
+    "entity": "The right salpingectomy",
+    "label": "TREATMENT",
+    "start": 1261,
+    "end": 1284
+  },
+  {
+    "entity": "complications",
+    "label": "PROBLEM",
+    "start": 1307,
+    "end": 1320
+  },
+  {
+    "entity": "2 units of red packed cells",
+    "label": "TREATMENT",
+    "start": 1343,
+    "end": 1370
+  },
+  {
+    "entity": "her hemoglobin",
+    "label": "TEST",
+    "start": 1386,
+    "end": 1400
+  },
+  {
+    "entity": "the severe abdominal pain",
+    "label": "PROBLEM",
+    "start": 1523,
+    "end": 1548
+  },
+  {
+    "entity": "ectopic",
+    "label": "PROBLEM",
+    "start": 1575,
+    "end": 1582
+  },
+  {
+    "entity": "surgery",
+    "label": "TREATMENT",
+    "start": 1617,
+    "end": 1624
+  },
+  {
+    "entity": "fever",
+    "label": "PROBLEM",
+    "start": 1675,
+    "end": 1680
+  },
+  {
+    "entity": "Right ruptured ectopic pregnancy",
+    "label": "PROBLEM",
+    "start": 1845,
+    "end": 1877
+  },
+  {
+    "entity": "hemoperitoneum",
+    "label": "PROBLEM",
+    "start": 1883,
+    "end": 1897
+  },
+  {
+    "entity": "Anemia",
+    "label": "PROBLEM",
+    "start": 1902,
+    "end": 1908
+  },
+  {
+    "entity": "blood loss",
+    "label": "PROBLEM",
+    "start": 1922,
+    "end": 1932
+  },
+  {
+    "entity": "pain medication",
+    "label": "DRUG",
+    "start": 1973,
+    "end": 1988
+  },
+  {
+    "entity": "iron therapy",
+    "label": "DRUG",
+    "start": 1993,
+    "end": 2005
+  },
+  {
+    "entity": "anemia",
+    "label": "PROBLEM",
+    "start": 2036,
+    "end": 2042
+  },
+  {
+    "entity": "blood loss",
+    "label": "PROBLEM",
+    "start": 2044,
+    "end": 2054
+  },
+  {
+    "entity": "ruptured ectopic pregnancy",
+    "label": "PROBLEM",
+    "start": 2056,
+    "end": 2082
+  },
+  {
+    "entity": "ectopic pregnancy",
+    "label": "PROBLEM",
+    "start": 2101,
+    "end": 2118
+  },
+  {
+    "entity": "hemoperitoneum",
+    "label": "PROBLEM",
+    "start": 2120,
+    "end": 2134
+  },
+  {
+    "entity": "ruptured",
+    "label": "PROBLEM",
+    "start": 2149,
+    "end": 2157
+  }
+]

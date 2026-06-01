@@ -1,0 +1,302 @@
+[
+  {
+    "Refractory anemia": "PROBLEM"
+  },
+  {
+    "transfusion": "TREATMENT"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "hemoglobin": "TEST"
+  },
+  {
+    "transfusion": "TREATMENT"
+  },
+  {
+    "Refractory anemia": "PROBLEM"
+  },
+  {
+    "transfusion": "TREATMENT"
+  },
+  {
+    "blood transfusion": "TREATMENT"
+  },
+  {
+    "diabetes": "PROBLEM"
+  },
+  {
+    "diabetes": "PROBLEM"
+  },
+  {
+    "kidney disease": "PROBLEM"
+  },
+  {
+    "heart disease": "PROBLEM"
+  },
+  {
+    "stroke": "PROBLEM"
+  },
+  {
+    "vision loss": "PROBLEM"
+  },
+  {
+    "neuropathy": "PROBLEM"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "hemoglobin": "TEST"
+  },
+  {
+    "transfusion": "TREATMENT"
+  },
+  {
+    "bleeding": "PROBLEM"
+  },
+  {
+    "blood transfusion": "TREATMENT"
+  },
+  {
+    "blood transfusion": "TREATMENT"
+  },
+  {
+    "transfusion": "TREATMENT"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "B12": "DRUG"
+  },
+  {
+    "oral iron": "DRUG"
+  },
+  {
+    "Procrit": "DRUG"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "fatigue": "PROBLEM"
+  },
+  {
+    "malaise": "PROBLEM"
+  },
+  {
+    "dyspnea": "PROBLEM"
+  },
+  {
+    "adenopathy": "PROBLEM"
+  },
+  {
+    "fevers": "PROBLEM"
+  },
+  {
+    "night sweats": "PROBLEM"
+  },
+  {
+    "bone pain": "PROBLEM"
+  },
+  {
+    "rash": "PROBLEM"
+  },
+  {
+    "arthralgias": "PROBLEM"
+  },
+  {
+    "myalgias": "PROBLEM"
+  },
+  {
+    "Diabetes": "PROBLEM"
+  },
+  {
+    "Hernia repair": "TREATMENT"
+  },
+  {
+    "Coumadin": "DRUG"
+  },
+  {
+    "Lasix": "DRUG"
+  },
+  {
+    "metformin": "DRUG"
+  },
+  {
+    "folic acid": "DRUG"
+  },
+  {
+    "diltiazem": "DRUG"
+  },
+  {
+    "B12": "DRUG"
+  },
+  {
+    "Prevacid": "DRUG"
+  },
+  {
+    "Feosol": "DRUG"
+  },
+  {
+    "tobacco user": "PROBLEM"
+  },
+  {
+    "blood or cancer disorders": "PROBLEM"
+  },
+  {
+    "PHYSICAL EXAMINATION": "TEST"
+  },
+  {
+    "acute distress": "PROBLEM"
+  },
+  {
+    "VITAL SIGNS": "TEST"
+  },
+  {
+    "arcus senilis": "PROBLEM"
+  },
+  {
+    "Extraocular movements": "TEST"
+  },
+  {
+    "jugular venous pressure distention": "PROBLEM"
+  },
+  {
+    "adenopathy": "PROBLEM"
+  },
+  {
+    "CHEST": "TEST"
+  },
+  {
+    "fullness in the left upper quadrant": "PROBLEM"
+  },
+  {
+    "clubbing": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "cyanosis": "PROBLEM"
+  },
+  {
+    "refractory anemia": "PROBLEM"
+  },
+  {
+    "B12": "DRUG"
+  },
+  {
+    "iron": "DRUG"
+  },
+  {
+    "folic acid": "DRUG"
+  },
+  {
+    "Procrit": "DRUG"
+  },
+  {
+    "blood loss": "PROBLEM"
+  },
+  {
+    "esophagogastroduodenoscopy": "TEST"
+  },
+  {
+    "creatinine": "TEST"
+  },
+  {
+    "myelodysplastic syndrome": "PROBLEM"
+  },
+  {
+    "bone marrow failure": "PROBLEM"
+  },
+  {
+    "creatinine": "TEST"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "serologic evaluation": "TEST"
+  },
+  {
+    "reticulocyte count": "TEST"
+  },
+  {
+    "serum protein": "TEST"
+  },
+  {
+    "electrophoresis": "TEST"
+  },
+  {
+    "LDH": "TEST"
+  },
+  {
+    "B12": "TEST"
+  },
+  {
+    "folate": "TEST"
+  },
+  {
+    "erythropoietin level": "TEST"
+  },
+  {
+    "bone marrow aspiration and biopsy": "TEST"
+  },
+  {
+    "procedure": "TREATMENT"
+  },
+  {
+    "bone marrow": "TEST"
+  },
+  {
+    "refractory anemia": "PROBLEM"
+  },
+  {
+    "therapeutic interventions": "TREATMENT"
+  },
+  {
+    "ultrasound of his abdomen": "TEST"
+  },
+  {
+    "fullness of the spleen": "PROBLEM"
+  },
+  {
+    "electrophoresis": "TEST"
+  },
+  {
+    "ldh": "TEST"
+  },
+  {
+    "b12": "TEST"
+  },
+  {
+    "folate": "TEST"
+  },
+  {
+    "erythropoietin level": "TEST"
+  },
+  {
+    "reticulocyte count": "TEST"
+  },
+  {
+    "serum protein": "TEST"
+  },
+  {
+    "blood transfusion": "TREATMENT"
+  },
+  {
+    "bone marrow": "TEST"
+  },
+  {
+    "refractory anemia": "PROBLEM"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "myalgias": "PROBLEM"
+  }
+]

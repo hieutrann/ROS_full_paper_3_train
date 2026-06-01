@@ -1,0 +1,38 @@
+[
+  {
+    "ectopic pregnancy": "PROBLEM"
+  },
+  {
+    "hemoperitoneum": "PROBLEM"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "blood loss": "PROBLEM"
+  },
+  {
+    "hCG": "TEST"
+  },
+  {
+    "sonogram": "TEST"
+  },
+  {
+    "hCG titer": "TEST"
+  },
+  {
+    "laparotomy": "TREATMENT"
+  },
+  {
+    "salpingectomy": "TREATMENT"
+  },
+  {
+    "red packed cells": "DRUG"
+  },
+  {
+    "pain medication": "DRUG"
+  },
+  {
+    "iron therapy": "DRUG"
+  }
+]

@@ -1,0 +1,644 @@
+[
+  {
+    "entity": "Back Pain",
+    "label": "PROBLEM",
+    "start": 64,
+    "end": 73
+  },
+  {
+    "entity": "Decreased ability",
+    "label": "PROBLEM",
+    "start": 107,
+    "end": 124
+  },
+  {
+    "entity": "exacerbation of chronic back pain",
+    "label": "PROBLEM",
+    "start": 173,
+    "end": 206
+  },
+  {
+    "entity": "Decreased ability",
+    "label": "PROBLEM",
+    "start": 263,
+    "end": 280
+  },
+  {
+    "entity": "exacerbation of chronic back pain",
+    "label": "PROBLEM",
+    "start": 329,
+    "end": 362
+  },
+  {
+    "entity": "acute back pain",
+    "label": "PROBLEM",
+    "start": 454,
+    "end": 469
+  },
+  {
+    "entity": "chronic problem",
+    "label": "PROBLEM",
+    "start": 503,
+    "end": 518
+  },
+  {
+    "entity": "back pain",
+    "label": "PROBLEM",
+    "start": 524,
+    "end": 533
+  },
+  {
+    "entity": "severe back pain",
+    "label": "PROBLEM",
+    "start": 745,
+    "end": 761
+  },
+  {
+    "entity": "analgesics",
+    "label": "DRUG",
+    "start": 902,
+    "end": 912
+  },
+  {
+    "entity": "Decadron",
+    "label": "DRUG",
+    "start": 924,
+    "end": 932
+  },
+  {
+    "entity": "physical therapy",
+    "label": "TREATMENT",
+    "start": 1017,
+    "end": 1033
+  },
+  {
+    "entity": "a back pain",
+    "label": "PROBLEM",
+    "start": 1186,
+    "end": 1197
+  },
+  {
+    "entity": "intravertebral lumbar disk disease",
+    "label": "PROBLEM",
+    "start": 1211,
+    "end": 1245
+  },
+  {
+    "entity": "degenerative changes",
+    "label": "PROBLEM",
+    "start": 1260,
+    "end": 1280
+  },
+  {
+    "entity": "bulging disk",
+    "label": "PROBLEM",
+    "start": 1327,
+    "end": 1339
+  },
+  {
+    "entity": "testicular cancer",
+    "label": "PROBLEM",
+    "start": 1406,
+    "end": 1423
+  },
+  {
+    "entity": "the most recent bone scan",
+    "label": "TEST",
+    "start": 1448,
+    "end": 1473
+  },
+  {
+    "entity": "The bone scan",
+    "label": "TEST",
+    "start": 1488,
+    "end": 1501
+  },
+  {
+    "entity": "ALLERGIES",
+    "label": "PROBLEM",
+    "start": 1572,
+    "end": 1581
+  },
+  {
+    "entity": "PENICILLIN",
+    "label": "DRUG",
+    "start": 1583,
+    "end": 1593
+  },
+  {
+    "entity": "AMOXICILLIN",
+    "label": "DRUG",
+    "start": 1595,
+    "end": 1606
+  },
+  {
+    "entity": "CEPHALOSPORIN",
+    "label": "DRUG",
+    "start": 1608,
+    "end": 1621
+  },
+  {
+    "entity": "DOXYCYCLINE",
+    "label": "DRUG",
+    "start": 1623,
+    "end": 1634
+  },
+  {
+    "entity": "IVP DYE",
+    "label": "DRUG",
+    "start": 1636,
+    "end": 1643
+  },
+  {
+    "entity": "IODINE",
+    "label": "DRUG",
+    "start": 1645,
+    "end": 1651
+  },
+  {
+    "entity": "SULFA",
+    "label": "DRUG",
+    "start": 1657,
+    "end": 1662
+  },
+  {
+    "entity": "HIVES",
+    "label": "PROBLEM",
+    "start": 1674,
+    "end": 1679
+  },
+  {
+    "entity": "HIVES",
+    "label": "PROBLEM",
+    "start": 1727,
+    "end": 1732
+  },
+  {
+    "entity": "right orchiectomy",
+    "label": "TREATMENT",
+    "start": 1873,
+    "end": 1890
+  },
+  {
+    "entity": "his testicular cancer",
+    "label": "PROBLEM",
+    "start": 1904,
+    "end": 1925
+  },
+  {
+    "entity": "GERD",
+    "label": "PROBLEM",
+    "start": 1959,
+    "end": 1963
+  },
+  {
+    "entity": "irritable bowel syndrome",
+    "label": "PROBLEM",
+    "start": 1965,
+    "end": 1989
+  },
+  {
+    "entity": "seasonal asthma",
+    "label": "PROBLEM",
+    "start": 1991,
+    "end": 2006
+  },
+  {
+    "entity": "postnasal drip",
+    "label": "TREATMENT",
+    "start": 2038,
+    "end": 2052
+  },
+  {
+    "entity": "bilateral carpal tunnel syndrome",
+    "label": "PROBLEM",
+    "start": 2065,
+    "end": 2097
+  },
+  {
+    "entity": "excision",
+    "label": "TREATMENT",
+    "start": 2115,
+    "end": 2123
+  },
+  {
+    "entity": "abdominal teratoma",
+    "label": "PROBLEM",
+    "start": 2127,
+    "end": 2145
+  },
+  {
+    "entity": "incisional hernia",
+    "label": "PROBLEM",
+    "start": 2150,
+    "end": 2167
+  },
+  {
+    "entity": "any IV drug use or abuse.",
+    "label": "PROBLEM",
+    "start": 2400,
+    "end": 2425
+  },
+  {
+    "entity": "chills",
+    "label": "PROBLEM",
+    "start": 2448,
+    "end": 2454
+  },
+  {
+    "entity": "fever",
+    "label": "PROBLEM",
+    "start": 2456,
+    "end": 2461
+  },
+  {
+    "entity": "shakes",
+    "label": "PROBLEM",
+    "start": 2463,
+    "end": 2469
+  },
+  {
+    "entity": "tremors",
+    "label": "PROBLEM",
+    "start": 2473,
+    "end": 2480
+  },
+  {
+    "entity": "chest pain",
+    "label": "PROBLEM",
+    "start": 2489,
+    "end": 2499
+  },
+  {
+    "entity": "palpitations",
+    "label": "PROBLEM",
+    "start": 2500,
+    "end": 2512
+  },
+  {
+    "entity": "hemoptysis",
+    "label": "PROBLEM",
+    "start": 2514,
+    "end": 2524
+  },
+  {
+    "entity": "shortness of breath",
+    "label": "PROBLEM",
+    "start": 2526,
+    "end": 2545
+  },
+  {
+    "entity": "nausea",
+    "label": "PROBLEM",
+    "start": 2547,
+    "end": 2553
+  },
+  {
+    "entity": "vomiting",
+    "label": "PROBLEM",
+    "start": 2555,
+    "end": 2563
+  },
+  {
+    "entity": "diarrhea",
+    "label": "PROBLEM",
+    "start": 2565,
+    "end": 2573
+  },
+  {
+    "entity": "constipation",
+    "label": "PROBLEM",
+    "start": 2575,
+    "end": 2587
+  },
+  {
+    "entity": "hematemesis",
+    "label": "PROBLEM",
+    "start": 2591,
+    "end": 2602
+  },
+  {
+    "entity": "urological symptoms",
+    "label": "PROBLEM",
+    "start": 2675,
+    "end": 2694
+  },
+  {
+    "entity": "dysuria",
+    "label": "PROBLEM",
+    "start": 2703,
+    "end": 2710
+  },
+  {
+    "entity": "frequency",
+    "label": "PROBLEM",
+    "start": 2712,
+    "end": 2721
+  },
+  {
+    "entity": "incomplete bladder emptying",
+    "label": "PROBLEM",
+    "start": 2723,
+    "end": 2750
+  },
+  {
+    "entity": "voiding difficulties",
+    "label": "PROBLEM",
+    "start": 2754,
+    "end": 2774
+  },
+  {
+    "entity": "numbness and tingling&quot",
+    "label": "PROBLEM",
+    "start": 2842,
+    "end": 2868
+  },
+  {
+    "entity": "bilateral carpal tunnel syndrome",
+    "label": "PROBLEM",
+    "start": 2918,
+    "end": 2950
+  },
+  {
+    "entity": "seizure disorders",
+    "label": "PROBLEM",
+    "start": 2977,
+    "end": 2994
+  },
+  {
+    "entity": "some momentary dizziness",
+    "label": "PROBLEM",
+    "start": 3026,
+    "end": 3050
+  },
+  {
+    "entity": "temperature",
+    "label": "TEST",
+    "start": 3150,
+    "end": 3161
+  },
+  {
+    "entity": "blood pressure",
+    "label": "TEST",
+    "start": 3166,
+    "end": 3180
+  },
+  {
+    "entity": "pulse",
+    "label": "TEST",
+    "start": 3189,
+    "end": 3194
+  },
+  {
+    "entity": "respirations",
+    "label": "TEST",
+    "start": 3199,
+    "end": 3211
+  },
+  {
+    "entity": "O2 saturation",
+    "label": "TEST",
+    "start": 3224,
+    "end": 3237
+  },
+  {
+    "entity": "The patient weighs",
+    "label": "TEST",
+    "start": 3251,
+    "end": 3269
+  },
+  {
+    "entity": "tall",
+    "label": "TEST",
+    "start": 3309,
+    "end": 3313
+  },
+  {
+    "entity": "acute distress",
+    "label": "PROBLEM",
+    "start": 3383,
+    "end": 3397
+  },
+  {
+    "entity": "thrush",
+    "label": "PROBLEM",
+    "start": 3491,
+    "end": 3497
+  },
+  {
+    "entity": "auscultation",
+    "label": "TEST",
+    "start": 3600,
+    "end": 3612
+  },
+  {
+    "entity": "rate",
+    "label": "TEST",
+    "start": 3641,
+    "end": 3645
+  },
+  {
+    "entity": "rhythm",
+    "label": "TEST",
+    "start": 3650,
+    "end": 3656
+  },
+  {
+    "entity": "S1",
+    "label": "TEST",
+    "start": 3665,
+    "end": 3667
+  },
+  {
+    "entity": "S2",
+    "label": "TEST",
+    "start": 3672,
+    "end": 3674
+  },
+  {
+    "entity": "Obese",
+    "label": "PROBLEM",
+    "start": 3685,
+    "end": 3690
+  },
+  {
+    "entity": "softly protuberant",
+    "label": "PROBLEM",
+    "start": 3692,
+    "end": 3710
+  },
+  {
+    "entity": "clubbing",
+    "label": "PROBLEM",
+    "start": 3752,
+    "end": 3760
+  },
+  {
+    "entity": "cyanosis",
+    "label": "PROBLEM",
+    "start": 3762,
+    "end": 3770
+  },
+  {
+    "entity": "edema",
+    "label": "PROBLEM",
+    "start": 3774,
+    "end": 3779
+  },
+  {
+    "entity": "calf tenderness",
+    "label": "PROBLEM",
+    "start": 3793,
+    "end": 3808
+  },
+  {
+    "entity": "Bilateral strength",
+    "label": "TEST",
+    "start": 3822,
+    "end": 3840
+  },
+  {
+    "entity": "the examination",
+    "label": "TEST",
+    "start": 4042,
+    "end": 4057
+  },
+  {
+    "entity": "chronic back pain",
+    "label": "PROBLEM",
+    "start": 4083,
+    "end": 4100
+  },
+  {
+    "entity": "rehabilitation therapy",
+    "label": "TREATMENT",
+    "start": 4171,
+    "end": 4193
+  },
+  {
+    "entity": "Decadron",
+    "label": "DRUG",
+    "start": 4309,
+    "end": 4317
+  },
+  {
+    "entity": "Percocet",
+    "label": "DRUG",
+    "start": 4394,
+    "end": 4402
+  },
+  {
+    "entity": "pain",
+    "label": "PROBLEM",
+    "start": 4445,
+    "end": 4449
+  },
+  {
+    "entity": "right orchiectomy",
+    "label": "TREATMENT",
+    "start": 4466,
+    "end": 4483
+  },
+  {
+    "entity": "testicular cancer",
+    "label": "PROBLEM",
+    "start": 4497,
+    "end": 4514
+  },
+  {
+    "entity": "the most recent bone scan",
+    "label": "TEST",
+    "start": 4571,
+    "end": 4596
+  },
+  {
+    "entity": "Gastroesophageal reflux disease",
+    "label": "PROBLEM",
+    "start": 4644,
+    "end": 4675
+  },
+  {
+    "entity": "irritable bowel syndrome",
+    "label": "PROBLEM",
+    "start": 4677,
+    "end": 4701
+  },
+  {
+    "entity": "gastrointestinal prophylaxis",
+    "label": "TREATMENT",
+    "start": 4707,
+    "end": 4735
+  },
+  {
+    "entity": "Colace",
+    "label": "DRUG",
+    "start": 4737,
+    "end": 4743
+  },
+  {
+    "entity": "lactulose",
+    "label": "DRUG",
+    "start": 4759,
+    "end": 4768
+  },
+  {
+    "entity": "Protonix",
+    "label": "DRUG",
+    "start": 4805,
+    "end": 4813
+  },
+  {
+    "entity": "Deep vein thrombosis prophylaxis",
+    "label": "TREATMENT",
+    "start": 4830,
+    "end": 4862
+  },
+  {
+    "entity": "his therapies",
+    "label": "TREATMENT",
+    "start": 4920,
+    "end": 4933
+  },
+  {
+    "entity": "leg exercises",
+    "label": "TREATMENT",
+    "start": 4978,
+    "end": 4991
+  },
+  {
+    "entity": "Obesity",
+    "label": "PROBLEM",
+    "start": 5004,
+    "end": 5011
+  },
+  {
+    "entity": "the patient's weighs",
+    "label": "TEST",
+    "start": 5033,
+    "end": 5053
+  },
+  {
+    "entity": "a height",
+    "label": "TEST",
+    "start": 5070,
+    "end": 5078
+  },
+  {
+    "entity": "decreased ability",
+    "label": "PROBLEM",
+    "start": 5258,
+    "end": 5275
+  },
+  {
+    "entity": "exacerbation",
+    "label": "PROBLEM",
+    "start": 5302,
+    "end": 5314
+  },
+  {
+    "entity": "back pain",
+    "label": "PROBLEM",
+    "start": 5316,
+    "end": 5325
+  }
+]

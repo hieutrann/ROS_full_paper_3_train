@@ -1,0 +1,200 @@
+[
+  {
+    "Atypical pneumonia": "PROBLEM"
+  },
+  {
+    "hypoxia": "PROBLEM"
+  },
+  {
+    "rheumatoid arthritis": "PROBLEM"
+  },
+  {
+    "adrenal insufficiency": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "fevers": "PROBLEM"
+  },
+  {
+    "weakness": "PROBLEM"
+  },
+  {
+    "chills": "PROBLEM"
+  },
+  {
+    "Pneumonia": "PROBLEM"
+  },
+  {
+    "outpatient treatment": "TREATMENT"
+  },
+  {
+    "Hypoxia": "PROBLEM"
+  },
+  {
+    "Rheumatoid arthritis": "PROBLEM"
+  },
+  {
+    "Atypical pneumonia": "PROBLEM"
+  },
+  {
+    "viral": "PROBLEM"
+  },
+  {
+    "Hypoxia": "PROBLEM"
+  },
+  {
+    "Rheumatoid arthritis": "PROBLEM"
+  },
+  {
+    "adrenal insufficiency": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "fevers": "PROBLEM"
+  },
+  {
+    "weakness": "PROBLEM"
+  },
+  {
+    "chills": "PROBLEM"
+  },
+  {
+    "x-ray": "TEST"
+  },
+  {
+    "mild diffuse patchy infiltrates": "PROBLEM"
+  },
+  {
+    "Avelox": "DRUG"
+  },
+  {
+    "Augmentin": "DRUG"
+  },
+  {
+    "loose stools": "PROBLEM"
+  },
+  {
+    "Rocephin": "DRUG"
+  },
+  {
+    "azithromycin": "DRUG"
+  },
+  {
+    "O2 saturations": "TEST"
+  },
+  {
+    "pneumonia": "PROBLEM"
+  },
+  {
+    "rheumatoid arthritis": "PROBLEM"
+  },
+  {
+    "methotrexate": "DRUG"
+  },
+  {
+    "Remicade": "DRUG"
+  },
+  {
+    "Remicade": "DRUG"
+  },
+  {
+    "CT scan": "TEST"
+  },
+  {
+    "X": "PROBLEM"
+  },
+  {
+    "viral etiology": "PROBLEM"
+  },
+  {
+    "loose stools": "PROBLEM"
+  },
+  {
+    "C. difficile toxin": "TEST"
+  },
+  {
+    "Rocephin": "DRUG"
+  },
+  {
+    "azithromycin": "DRUG"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "O2 saturations": "TEST"
+  },
+  {
+    "strength": "PROBLEM"
+  },
+  {
+    "clinical status": "PROBLEM"
+  },
+  {
+    "azithromycin": "DRUG"
+  },
+  {
+    "prednisone": "DRUG"
+  },
+  {
+    "adrenal insufficient": "PROBLEM"
+  },
+  {
+    "pneumonia": "PROBLEM"
+  },
+  {
+    "prednisone": "DRUG"
+  },
+  {
+    "rheumatologist": "PROBLEM"
+  },
+  {
+    "methotrexate": "DRUG"
+  },
+  {
+    "Methotrexate": "DRUG"
+  },
+  {
+    "pneumonitis": "PROBLEM"
+  },
+  {
+    "adrenal insufficiency": "PROBLEM"
+  },
+  {
+    "hypoxia": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "fevers": "PROBLEM"
+  },
+  {
+    "weakness": "PROBLEM"
+  },
+  {
+    "chills": "PROBLEM"
+  },
+  {
+    "atypical pneumonia": "PROBLEM"
+  },
+  {
+    "loose stools": "PROBLEM"
+  },
+  {
+    "rheumatoid arthritis": "PROBLEM"
+  },
+  {
+    "arthritis": "PROBLEM"
+  },
+  {
+    "pneumonia": "PROBLEM"
+  },
+  {
+    "azithromycin": "DRUG"
+  }
+]

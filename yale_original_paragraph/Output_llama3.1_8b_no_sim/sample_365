@@ -1,0 +1,137 @@
+[
+  {
+    "numbness": "PROBLEM"
+  },
+  {
+    "tingling": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "hypothyroidism": "PROBLEM"
+  },
+  {
+    "essential thrombocythemia": "PROBLEM"
+  },
+  {
+    "allergic rhinitis": "PROBLEM"
+  },
+  {
+    "insomnia": "PROBLEM"
+  },
+  {
+    "peripheral neuropathy": "PROBLEM"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "port a cath": "TEST"
+  },
+  {
+    "total knee arthroplasty": "TEST"
+  },
+  {
+    "CBC": "TEST"
+  },
+  {
+    "sed rate": "TEST"
+  },
+  {
+    "ferritin": "TEST"
+  },
+  {
+    "Hemoccult cards": "TEST"
+  },
+  {
+    "DT immunization": "TEST"
+  },
+  {
+    "Neurontin": "DRUG"
+  },
+  {
+    "Anodyne physical therapy": "TREATMENT"
+  },
+  {
+    "flu shot": "TREATMENT"
+  },
+  {
+    "Ambien": "DRUG"
+  },
+  {
+    "hydroxyurea": "DRUG"
+  },
+  {
+    "Metamucil": "DRUG"
+  },
+  {
+    "amitriptyline": "DRUG"
+  },
+  {
+    "Synthroid": "DRUG"
+  },
+  {
+    "triamterene/hydrochlorothiazide": "DRUG"
+  },
+  {
+    "Lortab": "DRUG"
+  },
+  {
+    "incision and drainage": "TREATMENT"
+  },
+  {
+    "laparoscopic bowel adhesion removal": "TREATMENT"
+  },
+  {
+    "thyroid gland surgery": "TREATMENT"
+  },
+  {
+    "hysterectomy": "TREATMENT"
+  },
+  {
+    "bilateral mastectomies": "TREATMENT"
+  },
+  {
+    "hernia surgery": "TREATMENT"
+  },
+  {
+    "appendectomy": "TREATMENT"
+  },
+  {
+    "bladder obstruction surgery": "TREATMENT"
+  },
+  {
+    "gallbladder surgery": "TREATMENT"
+  },
+  {
+    "C-section": "TREATMENT"
+  },
+  {
+    "varicose vein surgery": "TREATMENT"
+  },
+  {
+    "right shoulder surgery": "TREATMENT"
+  },
+  {
+    "left shoulder surgery": "TREATMENT"
+  },
+  {
+    "left total knee arthroplasty": "TREATMENT"
+  },
+  {
+    "left hip pinning": "TREATMENT"
+  },
+  {
+    "colonoscopies": "TREATMENT"
+  },
+  {
+    "synovitis of the left knee": "PROBLEM"
+  },
+  {
+    "zoster and infection of the left knee": "PROBLEM"
+  },
+  {
+    "labyrinthitis": "PROBLEM"
+  }
+]

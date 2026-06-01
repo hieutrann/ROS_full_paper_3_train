@@ -1,0 +1,227 @@
+[
+  {
+    "extreme fatigue": "PROBLEM"
+  },
+  {
+    "discomfort": "PROBLEM"
+  },
+  {
+    "chest": "PROBLEM"
+  },
+  {
+    "back": "PROBLEM"
+  },
+  {
+    "stomach": "PROBLEM"
+  },
+  {
+    "pain": "PROBLEM"
+  },
+  {
+    "loose bowel movements": "PROBLEM"
+  },
+  {
+    "bladder control": "PROBLEM"
+  },
+  {
+    "pain": "PROBLEM"
+  },
+  {
+    "hips": "PROBLEM"
+  },
+  {
+    "peripheral neuropathy": "PROBLEM"
+  },
+  {
+    "swelling": "PROBLEM"
+  },
+  {
+    "headaches": "PROBLEM"
+  },
+  {
+    "Type II diabetes mellitus": "PROBLEM"
+  },
+  {
+    "Generalized fatigue and weakness": "PROBLEM"
+  },
+  {
+    "Hypertension": "PROBLEM"
+  },
+  {
+    "Peripheral neuropathy with atypical symptoms": "PROBLEM"
+  },
+  {
+    "Hypothyroidism": "PROBLEM"
+  },
+  {
+    "Depression": "PROBLEM"
+  },
+  {
+    "Long-term use of high-risk medications": "PROBLEM"
+  },
+  {
+    "Postmenopausal age-related symptoms": "PROBLEM"
+  },
+  {
+    "Abdominal pain with nonspecific irritable bowel type symptoms": "PROBLEM"
+  },
+  {
+    "intermittent diarrhea": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "sweats": "PROBLEM"
+  },
+  {
+    "chills": "PROBLEM"
+  },
+  {
+    "weight change": "PROBLEM"
+  },
+  {
+    "visual": "TEST"
+  },
+  {
+    "auditory function": "TEST"
+  },
+  {
+    "hearing": "TEST"
+  },
+  {
+    "epistaxis": "TEST"
+  },
+  {
+    "sore throat": "TEST"
+  },
+  {
+    "hoarseness": "TEST"
+  },
+  {
+    "palpitations": "TEST"
+  },
+  {
+    "PND": "TEST"
+  },
+  {
+    "orthopnea": "TEST"
+  },
+  {
+    "tenderness": "TEST"
+  },
+  {
+    "wheezing": "TEST"
+  },
+  {
+    "cough": "TEST"
+  },
+  {
+    "PND": "TEST"
+  },
+  {
+    "orthopnea": "TEST"
+  },
+  {
+    "Thromboembolic disease": "PROBLEM"
+  },
+  {
+    "stomach pain": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "diarrhea": "PROBLEM"
+  },
+  {
+    "bladder control": "PROBLEM"
+  },
+  {
+    "dysuria": "PROBLEM"
+  },
+  {
+    "hematuria": "PROBLEM"
+  },
+  {
+    "stones": "PROBLEM"
+  },
+  {
+    "peripheral neuropathy": "PROBLEM"
+  },
+  {
+    "muscle pain": "PROBLEM"
+  },
+  {
+    "joint pain": "PROBLEM"
+  },
+  {
+    "paralysis": "PROBLEM"
+  },
+  {
+    "paresis": "PROBLEM"
+  },
+  {
+    "paresthesias": "PROBLEM"
+  },
+  {
+    "bruising": "PROBLEM"
+  },
+  {
+    "bleeding": "PROBLEM"
+  },
+  {
+    "lumps": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "CBC": "TEST"
+  },
+  {
+    "CMP": "TEST"
+  },
+  {
+    "A1c": "TEST"
+  },
+  {
+    "microalbumin": "TEST"
+  },
+  {
+    "UA": "TEST"
+  },
+  {
+    "Stool": "TEST"
+  },
+  {
+    "C&S": "TEST"
+  },
+  {
+    "Gram stain": "TEST"
+  },
+  {
+    "ova": "TEST"
+  },
+  {
+    "parasites": "TEST"
+  },
+  {
+    "CT": "TEST"
+  },
+  {
+    "abdomen": "TEST"
+  },
+  {
+    "pelvis": "TEST"
+  },
+  {
+    "metformin": "DRUG"
+  },
+  {
+    "diuretics": "DRUG"
+  }
+]

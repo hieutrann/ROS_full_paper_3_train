@@ -1,0 +1,164 @@
+[
+  {
+    "Breast Calcifications": "PROBLEM"
+  },
+  {
+    "suspicious calcifications": "PROBLEM"
+  },
+  {
+    "excisional biopsy": "TREATMENT"
+  },
+  {
+    "guidewire localization": "TREATMENT"
+  },
+  {
+    "specimen radiography": "TEST"
+  },
+  {
+    "mammography": "TEST"
+  },
+  {
+    "punctate calcifications": "PROBLEM"
+  },
+  {
+    "stereotactic core needle biopsy": "TREATMENT"
+  },
+  {
+    "focal fibrosis": "PROBLEM"
+  },
+  {
+    "swelling": "PROBLEM"
+  },
+  {
+    "pain": "PROBLEM"
+  },
+  {
+    "mass": "PROBLEM"
+  },
+  {
+    "sonographic evaluation": "TEST"
+  },
+  {
+    "false aneurysm formation": "PROBLEM"
+  },
+  {
+    "thrombin": "DRUG"
+  },
+  {
+    "hematoma": "PROBLEM"
+  },
+  {
+    "ecchymosis": "PROBLEM"
+  },
+  {
+    "breast cancer": "PROBLEM"
+  },
+  {
+    "ovarian cancer": "PROBLEM"
+  },
+  {
+    "asthma": "PROBLEM"
+  },
+  {
+    "pneumonia": "PROBLEM"
+  },
+  {
+    "Colon resection": "TREATMENT"
+  },
+  {
+    "Plavix": "DRUG"
+  },
+  {
+    "Arava": "DRUG"
+  },
+  {
+    "Nexium": "DRUG"
+  },
+  {
+    "Fosamax": "DRUG"
+  },
+  {
+    "Advair": "DRUG"
+  },
+  {
+    "Singulair": "DRUG"
+  },
+  {
+    "Spiriva": "DRUG"
+  },
+  {
+    "Lexapro": "DRUG"
+  },
+  {
+    "ASPIRIN": "DRUG"
+  },
+  {
+    "PENICILLIN": "DRUG"
+  },
+  {
+    "IODINE": "DRUG"
+  },
+  {
+    "CODEINE": "DRUG"
+  },
+  {
+    "heart disease": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "cerebrovascular accidents": "PROBLEM"
+  },
+  {
+    "colon cancer": "PROBLEM"
+  },
+  {
+    "chronic obstructive lung disease": "PROBLEM"
+  },
+  {
+    "gastroesophageal reflux disease": "PROBLEM"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "sciatica": "PROBLEM"
+  },
+  {
+    "arthritis": "PROBLEM"
+  },
+  {
+    "skin cancers": "PROBLEM"
+  },
+  {
+    "local excision": "TREATMENT"
+  },
+  {
+    "adenopathy": "PROBLEM"
+  },
+  {
+    "wheezes": "PROBLEM"
+  },
+  {
+    "lymphadenopathy": "PROBLEM"
+  },
+  {
+    "cyanosis": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "transient ischemic attack": "PROBLEM"
+  },
+  {
+    "osteopenia": "PROBLEM"
+  },
+  {
+    "osteoporosis": "PROBLEM"
+  },
+  {
+    "anxiety": "PROBLEM"
+  }
+]

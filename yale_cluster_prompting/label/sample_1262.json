@@ -1,0 +1,848 @@
+[
+  {
+    "entity": "Mesothelioma",
+    "label": "PROBLEM",
+    "start": 84,
+    "end": 96
+  },
+  {
+    "entity": "Mesothelioma",
+    "label": "PROBLEM",
+    "start": 114,
+    "end": 126
+  },
+  {
+    "entity": "pleural effusion",
+    "label": "PROBLEM",
+    "start": 128,
+    "end": 144
+  },
+  {
+    "entity": "atrial fibrillation",
+    "label": "PROBLEM",
+    "start": 146,
+    "end": 165
+  },
+  {
+    "entity": "anemia",
+    "label": "PROBLEM",
+    "start": 167,
+    "end": 173
+  },
+  {
+    "entity": "ascites",
+    "label": "PROBLEM",
+    "start": 175,
+    "end": 182
+  },
+  {
+    "entity": "esophageal reflux",
+    "label": "PROBLEM",
+    "start": 184,
+    "end": 201
+  },
+  {
+    "entity": "deep venous thrombosis",
+    "label": "PROBLEM",
+    "start": 218,
+    "end": 240
+  },
+  {
+    "entity": "Mesothelioma",
+    "label": "PROBLEM",
+    "start": 301,
+    "end": 313
+  },
+  {
+    "entity": "Pleural effusion",
+    "label": "PROBLEM",
+    "start": 336,
+    "end": 352
+  },
+  {
+    "entity": "atrial fibrillation",
+    "label": "PROBLEM",
+    "start": 354,
+    "end": 373
+  },
+  {
+    "entity": "anemia",
+    "label": "PROBLEM",
+    "start": 375,
+    "end": 381
+  },
+  {
+    "entity": "ascites",
+    "label": "PROBLEM",
+    "start": 383,
+    "end": 390
+  },
+  {
+    "entity": "esophageal reflux",
+    "label": "PROBLEM",
+    "start": 392,
+    "end": 409
+  },
+  {
+    "entity": "deep venous thrombosis",
+    "label": "PROBLEM",
+    "start": 426,
+    "end": 448
+  },
+  {
+    "entity": "decortication of the lung",
+    "label": "TREATMENT",
+    "start": 484,
+    "end": 509
+  },
+  {
+    "entity": "pleural biopsy",
+    "label": "TEST",
+    "start": 515,
+    "end": 529
+  },
+  {
+    "entity": "transpleural fluoroscopy",
+    "label": "TEST",
+    "start": 534,
+    "end": 558
+  },
+  {
+    "entity": "thoracentesis",
+    "label": "TREATMENT",
+    "start": 583,
+    "end": 596
+  },
+  {
+    "entity": "Port-A-Cath placement",
+    "label": "TREATMENT",
+    "start": 621,
+    "end": 642
+  },
+  {
+    "entity": "a nonproductive cough",
+    "label": "PROBLEM",
+    "start": 718,
+    "end": 739
+  },
+  {
+    "entity": "right-sided chest pain",
+    "label": "PROBLEM",
+    "start": 776,
+    "end": 798
+  },
+  {
+    "entity": "fever",
+    "label": "PROBLEM",
+    "start": 826,
+    "end": 831
+  },
+  {
+    "entity": "pericarditis",
+    "label": "PROBLEM",
+    "start": 873,
+    "end": 885
+  },
+  {
+    "entity": "pericardectomy",
+    "label": "TREATMENT",
+    "start": 890,
+    "end": 904
+  },
+  {
+    "entity": "cough",
+    "label": "PROBLEM",
+    "start": 931,
+    "end": 936
+  },
+  {
+    "entity": "right-sided chest pain",
+    "label": "PROBLEM",
+    "start": 942,
+    "end": 964
+  },
+  {
+    "entity": "Chest x-ray",
+    "label": "TEST",
+    "start": 1001,
+    "end": 1012
+  },
+  {
+    "entity": "right-sided pleural effusion",
+    "label": "PROBLEM",
+    "start": 1022,
+    "end": 1050
+  },
+  {
+    "entity": "Pericardectomy",
+    "label": "TREATMENT",
+    "start": 1076,
+    "end": 1090
+  },
+  {
+    "entity": "Pericarditis",
+    "label": "PROBLEM",
+    "start": 1095,
+    "end": 1107
+  },
+  {
+    "entity": "Atrial fibrillation",
+    "label": "PROBLEM",
+    "start": 1112,
+    "end": 1131
+  },
+  {
+    "entity": "RNCA",
+    "label": "TREATMENT",
+    "start": 1136,
+    "end": 1140
+  },
+  {
+    "entity": "intracranial thrombolytic treatment",
+    "label": "TREATMENT",
+    "start": 1146,
+    "end": 1181
+  },
+  {
+    "entity": "PTA",
+    "label": "PROBLEM",
+    "start": 1185,
+    "end": 1188
+  },
+  {
+    "entity": "MCA",
+    "label": "PROBLEM",
+    "start": 1192,
+    "end": 1195
+  },
+  {
+    "entity": "Mesenteric venous thrombosis",
+    "label": "PROBLEM",
+    "start": 1200,
+    "end": 1228
+  },
+  {
+    "entity": "Pericardial window",
+    "label": "TREATMENT",
+    "start": 1233,
+    "end": 1251
+  },
+  {
+    "entity": "Cholecystectomy",
+    "label": "TREATMENT",
+    "start": 1256,
+    "end": 1271
+  },
+  {
+    "entity": "Left thoracentesis",
+    "label": "TREATMENT",
+    "start": 1276,
+    "end": 1294
+  },
+  {
+    "entity": "coronary artery disease",
+    "label": "PROBLEM",
+    "start": 1333,
+    "end": 1356
+  },
+  {
+    "entity": "CVA",
+    "label": "PROBLEM",
+    "start": 1358,
+    "end": 1361
+  },
+  {
+    "entity": "diabetes",
+    "label": "PROBLEM",
+    "start": 1363,
+    "end": 1371
+  },
+  {
+    "entity": "CHF",
+    "label": "PROBLEM",
+    "start": 1373,
+    "end": 1376
+  },
+  {
+    "entity": "MI",
+    "label": "PROBLEM",
+    "start": 1380,
+    "end": 1382
+  },
+  {
+    "entity": "cancer",
+    "label": "PROBLEM",
+    "start": 1445,
+    "end": 1451
+  },
+  {
+    "entity": "Coumadin",
+    "label": "DRUG",
+    "start": 1605,
+    "end": 1613
+  },
+  {
+    "entity": "Last INR",
+    "label": "TEST",
+    "start": 1626,
+    "end": 1634
+  },
+  {
+    "entity": "her INR",
+    "label": "TEST",
+    "start": 1672,
+    "end": 1679
+  },
+  {
+    "entity": "Amiodarone",
+    "label": "DRUG",
+    "start": 1692,
+    "end": 1702
+  },
+  {
+    "entity": "occasional numbness",
+    "label": "PROBLEM",
+    "start": 1841,
+    "end": 1860
+  },
+  {
+    "entity": "tingling of her left arm",
+    "label": "PROBLEM",
+    "start": 1865,
+    "end": 1889
+  },
+  {
+    "entity": "Blood pressure",
+    "label": "TEST",
+    "start": 1925,
+    "end": 1939
+  },
+  {
+    "entity": "heart rate",
+    "label": "TEST",
+    "start": 1948,
+    "end": 1958
+  },
+  {
+    "entity": "respirations",
+    "label": "TEST",
+    "start": 1963,
+    "end": 1975
+  },
+  {
+    "entity": "temperature",
+    "label": "TEST",
+    "start": 1980,
+    "end": 1991
+  },
+  {
+    "entity": "oxygen saturation",
+    "label": "TEST",
+    "start": 2000,
+    "end": 2017
+  },
+  {
+    "entity": "nonproductive cough",
+    "label": "PROBLEM",
+    "start": 2041,
+    "end": 2060
+  },
+  {
+    "entity": "pain",
+    "label": "PROBLEM",
+    "start": 2065,
+    "end": 2069
+  },
+  {
+    "entity": "coughing",
+    "label": "PROBLEM",
+    "start": 2075,
+    "end": 2083
+  },
+  {
+    "entity": "lymphadenopathy",
+    "label": "PROBLEM",
+    "start": 2197,
+    "end": 2212
+  },
+  {
+    "entity": "masses",
+    "label": "PROBLEM",
+    "start": 2217,
+    "end": 2223
+  },
+  {
+    "entity": "Pleural friction rub",
+    "label": "PROBLEM",
+    "start": 2238,
+    "end": 2258
+  },
+  {
+    "entity": "bowel sounds",
+    "label": "TEST",
+    "start": 2317,
+    "end": 2329
+  },
+  {
+    "entity": "organomegaly",
+    "label": "PROBLEM",
+    "start": 2334,
+    "end": 2346
+  },
+  {
+    "entity": "edema",
+    "label": "PROBLEM",
+    "start": 2364,
+    "end": 2369
+  },
+  {
+    "entity": "clubbing",
+    "label": "PROBLEM",
+    "start": 2374,
+    "end": 2382
+  },
+  {
+    "entity": "cyanosis",
+    "label": "PROBLEM",
+    "start": 2387,
+    "end": 2395
+  },
+  {
+    "entity": "tenderness",
+    "label": "PROBLEM",
+    "start": 2400,
+    "end": 2410
+  },
+  {
+    "entity": "breakdown",
+    "label": "PROBLEM",
+    "start": 2477,
+    "end": 2486
+  },
+  {
+    "entity": "lesions",
+    "label": "PROBLEM",
+    "start": 2490,
+    "end": 2497
+  },
+  {
+    "entity": "ulcers",
+    "label": "PROBLEM",
+    "start": 2502,
+    "end": 2508
+  },
+  {
+    "entity": "focal deficits",
+    "label": "PROBLEM",
+    "start": 2541,
+    "end": 2555
+  },
+  {
+    "entity": "Labs",
+    "label": "TEST",
+    "start": 2629,
+    "end": 2633
+  },
+  {
+    "entity": "a right-sided pleural effusion",
+    "label": "PROBLEM",
+    "start": 2693,
+    "end": 2723
+  },
+  {
+    "entity": "thoracentesis",
+    "label": "TREATMENT",
+    "start": 2728,
+    "end": 2741
+  },
+  {
+    "entity": "Her Coumadin",
+    "label": "DRUG",
+    "start": 2762,
+    "end": 2774
+  },
+  {
+    "entity": "A repeat echocardiogram",
+    "label": "TEST",
+    "start": 2795,
+    "end": 2818
+  },
+  {
+    "entity": "prophylaxis",
+    "label": "TREATMENT",
+    "start": 2851,
+    "end": 2862
+  },
+  {
+    "entity": "DVT",
+    "label": "PROBLEM",
+    "start": 2867,
+    "end": 2870
+  },
+  {
+    "entity": "Lovenox",
+    "label": "DRUG",
+    "start": 2876,
+    "end": 2883
+  },
+  {
+    "entity": "pericarditis",
+    "label": "PROBLEM",
+    "start": 2999,
+    "end": 3011
+  },
+  {
+    "entity": "pericardial window",
+    "label": "TREATMENT",
+    "start": 3036,
+    "end": 3054
+  },
+  {
+    "entity": "mesenteric pain",
+    "label": "PROBLEM",
+    "start": 3119,
+    "end": 3134
+  },
+  {
+    "entity": "thrombosis",
+    "label": "PROBLEM",
+    "start": 3139,
+    "end": 3149
+  },
+  {
+    "entity": "anticoagulated",
+    "label": "TREATMENT",
+    "start": 3158,
+    "end": 3172
+  },
+  {
+    "entity": "Her pericardial fluid",
+    "label": "PROBLEM",
+    "start": 3174,
+    "end": 3195
+  },
+  {
+    "entity": "pericardectomy",
+    "label": "TREATMENT",
+    "start": 3277,
+    "end": 3291
+  },
+  {
+    "entity": "her CT scan",
+    "label": "TEST",
+    "start": 3333,
+    "end": 3344
+  },
+  {
+    "entity": "her pericardectomy",
+    "label": "TREATMENT",
+    "start": 3370,
+    "end": 3388
+  },
+  {
+    "entity": "bilateral plural effusions",
+    "label": "PROBLEM",
+    "start": 3404,
+    "end": 3430
+  },
+  {
+    "entity": "the pericardectomy",
+    "label": "TREATMENT",
+    "start": 3470,
+    "end": 3488
+  },
+  {
+    "entity": "her symptoms",
+    "label": "PROBLEM",
+    "start": 3508,
+    "end": 3520
+  },
+  {
+    "entity": "chest pain",
+    "label": "PROBLEM",
+    "start": 3572,
+    "end": 3582
+  },
+  {
+    "entity": "bilateral pleural effusion",
+    "label": "PROBLEM",
+    "start": 3601,
+    "end": 3627
+  },
+  {
+    "entity": "CT of the chest",
+    "label": "TEST",
+    "start": 3662,
+    "end": 3677
+  },
+  {
+    "entity": "a large mediastinal lymph node",
+    "label": "PROBLEM",
+    "start": 3692,
+    "end": 3722
+  },
+  {
+    "entity": "the pathology",
+    "label": "TEST",
+    "start": 3736,
+    "end": 3749
+  },
+  {
+    "entity": "the pericardectomy",
+    "label": "TREATMENT",
+    "start": 3764,
+    "end": 3782
+  },
+  {
+    "entity": "mesothelioma",
+    "label": "PROBLEM",
+    "start": 3822,
+    "end": 3834
+  },
+  {
+    "entity": "chest tube placement",
+    "label": "TREATMENT",
+    "start": 3850,
+    "end": 3870
+  },
+  {
+    "entity": "drainage of the fluid",
+    "label": "PROBLEM",
+    "start": 3875,
+    "end": 3896
+  },
+  {
+    "entity": "thoracoscopy",
+    "label": "TREATMENT",
+    "start": 3910,
+    "end": 3922
+  },
+  {
+    "entity": "fluid biopsies",
+    "label": "TEST",
+    "start": 3928,
+    "end": 3942
+  },
+  {
+    "entity": "epithelioid malignant mesothelioma",
+    "label": "PROBLEM",
+    "start": 3981,
+    "end": 4015
+  },
+  {
+    "entity": "a PET CT",
+    "label": "TEST",
+    "start": 4051,
+    "end": 4059
+  },
+  {
+    "entity": "extensive uptake in the chest",
+    "label": "PROBLEM",
+    "start": 4074,
+    "end": 4103
+  },
+  {
+    "entity": "bilateral pleural pericardial effusions",
+    "label": "PROBLEM",
+    "start": 4105,
+    "end": 4144
+  },
+  {
+    "entity": "lymphadenopathy",
+    "label": "PROBLEM",
+    "start": 4150,
+    "end": 4165
+  },
+  {
+    "entity": "acidic fluid",
+    "label": "PROBLEM",
+    "start": 4180,
+    "end": 4192
+  },
+  {
+    "entity": "pectoral and intramammary lymph nodes",
+    "label": "PROBLEM",
+    "start": 4194,
+    "end": 4231
+  },
+  {
+    "entity": "SUV",
+    "label": "TEST",
+    "start": 4254,
+    "end": 4257
+  },
+  {
+    "entity": "stage III disease",
+    "label": "PROBLEM",
+    "start": 4289,
+    "end": 4306
+  },
+  {
+    "entity": "Her repeat echocardiogram",
+    "label": "TEST",
+    "start": 4308,
+    "end": 4333
+  },
+  {
+    "entity": "an ejection fraction",
+    "label": "TEST",
+    "start": 4341,
+    "end": 4361
+  },
+  {
+    "entity": "chemotherapy",
+    "label": "TREATMENT",
+    "start": 4432,
+    "end": 4444
+  },
+  {
+    "entity": "cisplatin",
+    "label": "DRUG",
+    "start": 4471,
+    "end": 4480
+  },
+  {
+    "entity": "Alimta",
+    "label": "DRUG",
+    "start": 4570,
+    "end": 4576
+  },
+  {
+    "entity": "a Port-A-Cath",
+    "label": "TREATMENT",
+    "start": 4679,
+    "end": 4692
+  },
+  {
+    "entity": "The chemotherapy",
+    "label": "TREATMENT",
+    "start": 4705,
+    "end": 4721
+  },
+  {
+    "entity": "IV fluid",
+    "label": "TREATMENT",
+    "start": 4810,
+    "end": 4818
+  },
+  {
+    "entity": "Her Port-A-Cath",
+    "label": "TREATMENT",
+    "start": 4827,
+    "end": 4842
+  },
+  {
+    "entity": "heparin",
+    "label": "DRUG",
+    "start": 4859,
+    "end": 4866
+  },
+  {
+    "entity": "Zofran",
+    "label": "DRUG",
+    "start": 4913,
+    "end": 4919
+  },
+  {
+    "entity": "Phenergan",
+    "label": "DRUG",
+    "start": 4921,
+    "end": 4930
+  },
+  {
+    "entity": "Coumadin",
+    "label": "DRUG",
+    "start": 4932,
+    "end": 4940
+  },
+  {
+    "entity": "Lovenox",
+    "label": "DRUG",
+    "start": 4946,
+    "end": 4953
+  },
+  {
+    "entity": "Vicodin",
+    "label": "DRUG",
+    "start": 4959,
+    "end": 4966
+  },
+  {
+    "entity": "her INR",
+    "label": "TEST",
+    "start": 5058,
+    "end": 5065
+  },
+  {
+    "entity": "mesothelioma",
+    "label": "PROBLEM",
+    "start": 5193,
+    "end": 5205
+  },
+  {
+    "entity": "pleural effusion",
+    "label": "PROBLEM",
+    "start": 5207,
+    "end": 5223
+  },
+  {
+    "entity": "atrial fibrillation",
+    "label": "PROBLEM",
+    "start": 5225,
+    "end": 5244
+  },
+  {
+    "entity": "anemia",
+    "label": "PROBLEM",
+    "start": 5246,
+    "end": 5252
+  },
+  {
+    "entity": "ascites",
+    "label": "PROBLEM",
+    "start": 5254,
+    "end": 5261
+  },
+  {
+    "entity": "esophageal reflux",
+    "label": "PROBLEM",
+    "start": 5263,
+    "end": 5280
+  },
+  {
+    "entity": "deep venous thrombosis",
+    "label": "PROBLEM",
+    "start": 5282,
+    "end": 5304
+  },
+  {
+    "entity": "port-a-cath placement",
+    "label": "TREATMENT",
+    "start": 5306,
+    "end": 5327
+  },
+  {
+    "entity": "venous thrombosis",
+    "label": "PROBLEM",
+    "start": 5356,
+    "end": 5373
+  },
+  {
+    "entity": "thrombosis",
+    "label": "PROBLEM",
+    "start": 5383,
+    "end": 5393
+  },
+  {
+    "entity": "lymphadenopathy",
+    "label": "PROBLEM",
+    "start": 5408,
+    "end": 5423
+  },
+  {
+    "entity": "pericardectomy",
+    "label": "TREATMENT",
+    "start": 5432,
+    "end": 5446
+  }
+]

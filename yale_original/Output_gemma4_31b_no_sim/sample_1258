@@ -1,0 +1,434 @@
+[
+  {
+    "contusions": "PROBLEM"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "Motor vehicle accident": "PROBLEM"
+  },
+  {
+    "mild pain": "PROBLEM"
+  },
+  {
+    "passed out": "PROBLEM"
+  },
+  {
+    "pain low in her abdomen": "PROBLEM"
+  },
+  {
+    "pain": "PROBLEM"
+  },
+  {
+    "pain": "PROBLEM"
+  },
+  {
+    "painful throughout the bones of her pelvis": "PROBLEM"
+  },
+  {
+    "backboard": "TREATMENT"
+  },
+  {
+    "immobilized": "TREATMENT"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "difficulty breathing": "PROBLEM"
+  },
+  {
+    "open lacerations": "PROBLEM"
+  },
+  {
+    "abrasions": "PROBLEM"
+  },
+  {
+    "headache": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "feverish": "PROBLEM"
+  },
+  {
+    "chilled": "PROBLEM"
+  },
+  {
+    "pain in her abdomen": "PROBLEM"
+  },
+  {
+    "pain": "PROBLEM"
+  },
+  {
+    "menstrual cycle": "TEST"
+  },
+  {
+    "pregnant": "PROBLEM"
+  },
+  {
+    "oral birth control medications": "DRUG"
+  },
+  {
+    "intrauterine device": "TREATMENT"
+  },
+  {
+    "Accutane": "DRUG"
+  },
+  {
+    "acne": "PROBLEM"
+  },
+  {
+    "Accutane": "DRUG"
+  },
+  {
+    "acute distress": "PROBLEM"
+  },
+  {
+    "backboard": "TREATMENT"
+  },
+  {
+    "collar": "TREATMENT"
+  },
+  {
+    "capsular retractions": "PROBLEM"
+  },
+  {
+    "labored respirations": "PROBLEM"
+  },
+  {
+    "accessory muscle usage": "PROBLEM"
+  },
+  {
+    "Temperature": "TEST"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "pulse": "TEST"
+  },
+  {
+    "respiratory rate": "TEST"
+  },
+  {
+    "pulse oximetry": "TEST"
+  },
+  {
+    "crepitus": "PROBLEM"
+  },
+  {
+    "bony step-offs": "PROBLEM"
+  },
+  {
+    "lacerations": "PROBLEM"
+  },
+  {
+    "Fundoscopic exam": "TEST"
+  },
+  {
+    "papilledema": "PROBLEM"
+  },
+  {
+    "External ocular movements": "TEST"
+  },
+  {
+    "nystagmus": "PROBLEM"
+  },
+  {
+    "entrapment": "PROBLEM"
+  },
+  {
+    "mucoid discharge": "PROBLEM"
+  },
+  {
+    "exudate": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "thyromegaly": "PROBLEM"
+  },
+  {
+    "JVD": "PROBLEM"
+  },
+  {
+    "carotid bruits": "PROBLEM"
+  },
+  {
+    "Trachea": "TEST"
+  },
+  {
+    "stridor": "PROBLEM"
+  },
+  {
+    "HEART": "TEST"
+  },
+  {
+    "S1": "TEST"
+  },
+  {
+    "S2": "TEST"
+  },
+  {
+    "murmur": "PROBLEM"
+  },
+  {
+    "rub": "PROBLEM"
+  },
+  {
+    "gallop": "PROBLEM"
+  },
+  {
+    "LUNGS": "TEST"
+  },
+  {
+    "wheezes": "PROBLEM"
+  },
+  {
+    "rales": "PROBLEM"
+  },
+  {
+    "rhonchi": "PROBLEM"
+  },
+  {
+    "mild-to-moderate tenderness": "PROBLEM"
+  },
+  {
+    "organomegaly": "PROBLEM"
+  },
+  {
+    "bowel sounds": "TEST"
+  },
+  {
+    "rigidity": "PROBLEM"
+  },
+  {
+    "guarding": "PROBLEM"
+  },
+  {
+    "CVA tenderness": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "bony abnormalities": "PROBLEM"
+  },
+  {
+    "deformities": "PROBLEM"
+  },
+  {
+    "Capillary refill": "TEST"
+  },
+  {
+    "dorsalis pedis and radial pulses": "TEST"
+  },
+  {
+    "Cranial nerves II through XII": "TEST"
+  },
+  {
+    "focal deficits": "PROBLEM"
+  },
+  {
+    "muscle group strength": "TEST"
+  },
+  {
+    "Romberg": "TEST"
+  },
+  {
+    "pronator drift": "TEST"
+  },
+  {
+    "adenopathy": "PROBLEM"
+  },
+  {
+    "pain free range of motion": "TEST"
+  },
+  {
+    "bony abnormalities": "PROBLEM"
+  },
+  {
+    "mild tenderness": "PROBLEM"
+  },
+  {
+    "lacerations": "PROBLEM"
+  },
+  {
+    "abrasions": "PROBLEM"
+  },
+  {
+    "small abrasion": "PROBLEM"
+  },
+  {
+    "lacerations": "PROBLEM"
+  },
+  {
+    "trauma": "PROBLEM"
+  },
+  {
+    "bleeding": "PROBLEM"
+  },
+  {
+    "x-rays": "TEST"
+  },
+  {
+    "x-ray of the pelvis": "TEST"
+  },
+  {
+    "CT scan of the cervical spine": "TEST"
+  },
+  {
+    "acute traumatic bony injury of the cervical spine": "PROBLEM"
+  },
+  {
+    "prevertibral soft tissue swelling": "PROBLEM"
+  },
+  {
+    "prominence of upper esophageal sphincter": "PROBLEM"
+  },
+  {
+    "CT scan of the brain without contrast": "TEST"
+  },
+  {
+    "acute intracranial injury": "PROBLEM"
+  },
+  {
+    "mucus in the left sphenoid sinus": "PROBLEM"
+  },
+  {
+    "CT scan without contrast of the abdomen": "TEST"
+  },
+  {
+    "dependent atelectasis": "PROBLEM"
+  },
+  {
+    "low density in the liver": "PROBLEM"
+  },
+  {
+    "CT scan with contrast": "TEST"
+  },
+  {
+    "CT scan with contrast": "TEST"
+  },
+  {
+    "bleeding": "PROBLEM"
+  },
+  {
+    "intraabdominal or pelvic abnormalities": "PROBLEM"
+  },
+  {
+    "laboratory studies": "TEST"
+  },
+  {
+    "CBC": "TEST"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "thrombocytopenia": "PROBLEM"
+  },
+  {
+    "leukocytosis": "PROBLEM"
+  },
+  {
+    "urine pregnancy test": "TEST"
+  },
+  {
+    "urinalysis": "TEST"
+  },
+  {
+    "blood": "PROBLEM"
+  },
+  {
+    "backboard": "TREATMENT"
+  },
+  {
+    "bony deformities": "PROBLEM"
+  },
+  {
+    "abnormalities": "PROBLEM"
+  },
+  {
+    "Tylenol": "DRUG"
+  },
+  {
+    "pain": "PROBLEM"
+  },
+  {
+    "pain": "PROBLEM"
+  },
+  {
+    "CT scans of the abdomen": "TEST"
+  },
+  {
+    "bleeding": "PROBLEM"
+  },
+  {
+    "contusion": "PROBLEM"
+  },
+  {
+    "abrasion": "PROBLEM"
+  },
+  {
+    "abrasions": "PROBLEM"
+  },
+  {
+    "lacerations": "PROBLEM"
+  },
+  {
+    "Multiple contusions": "PROBLEM"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "intraabdominal or pelvic abnormities": "PROBLEM"
+  },
+  {
+    "CT scans": "TEST"
+  },
+  {
+    "scans of the brain": "TEST"
+  },
+  {
+    "C-spine": "TEST"
+  },
+  {
+    "pain": "PROBLEM"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "Vicodin": "DRUG"
+  },
+  {
+    "Flexeril": "DRUG"
+  },
+  {
+    "muscular pain": "PROBLEM"
+  },
+  {
+    "accutane": "DRUG"
+  },
+  {
+    "contusions": "PROBLEM"
+  },
+  {
+    "ct scan": "TEST"
+  }
+]

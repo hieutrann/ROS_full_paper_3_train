@@ -1,0 +1,143 @@
+[
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "temperature": "TEST"
+  },
+  {
+    "respirations": "TEST"
+  },
+  {
+    "pulse": "TEST"
+  },
+  {
+    "pupils": "TEST"
+  },
+  {
+    "Funduscopic examination": "TEST"
+  },
+  {
+    "Tympanic membranes": "TEST"
+  },
+  {
+    "Trachea": "TEST"
+  },
+  {
+    "Thyroid": "TEST"
+  },
+  {
+    "Negative nodes": "PROBLEM"
+  },
+  {
+    "Lungs": "TEST"
+  },
+  {
+    "respiratory rate": "TEST"
+  },
+  {
+    "consolidation": "PROBLEM"
+  },
+  {
+    "egophony": "PROBLEM"
+  },
+  {
+    "retractions": "PROBLEM"
+  },
+  {
+    "secondary muscle use": "PROBLEM"
+  },
+  {
+    "breath sounds": "TEST"
+  },
+  {
+    "jugular venous distention": "PROBLEM"
+  },
+  {
+    "carotid bruits": "PROBLEM"
+  },
+  {
+    "heart size": "TEST"
+  },
+  {
+    "murmur": "PROBLEM"
+  },
+  {
+    "S1 and S2 sounds": "TEST"
+  },
+  {
+    "gallop": "PROBLEM"
+  },
+  {
+    "organomegaly": "PROBLEM"
+  },
+  {
+    "rebound tenderness": "PROBLEM"
+  },
+  {
+    "Bowel sounds": "TEST"
+  },
+  {
+    "Obturator and psoas signs": "TEST"
+  },
+  {
+    "bladder tenderness": "PROBLEM"
+  },
+  {
+    "flank pain": "PROBLEM"
+  },
+  {
+    "motor tone": "TEST"
+  },
+  {
+    "strength": "TEST"
+  },
+  {
+    "reflexes": "TEST"
+  },
+  {
+    "joint strength": "TEST"
+  },
+  {
+    "sensation": "TEST"
+  },
+  {
+    "Glasgow Coma Scale": "TEST"
+  },
+  {
+    "Cranial nerves II through XII": "TEST"
+  },
+  {
+    "motor and cerebellar tests": "TEST"
+  },
+  {
+    "Reflexes": "TEST"
+  },
+  {
+    "abnormal lymph nodes": "PROBLEM"
+  },
+  {
+    "bleeding": "PROBLEM"
+  },
+  {
+    "skin purpura": "PROBLEM"
+  },
+  {
+    "petechiae": "PROBLEM"
+  },
+  {
+    "hemorrhage": "PROBLEM"
+  },
+  {
+    "depression": "PROBLEM"
+  },
+  {
+    "suicidal ideations": "PROBLEM"
+  },
+  {
+    "jugular venous distention": "PROBLEM"
+  },
+  {
+    "tenderness": "PROBLEM"
+  }
+]

@@ -1,0 +1,308 @@
+[
+  {
+    "Sepsis": "PROBLEM"
+  },
+  {
+    "CT scan": "TEST"
+  },
+  {
+    "dilated bladder": "PROBLEM"
+  },
+  {
+    "thick wall": "PROBLEM"
+  },
+  {
+    "outlet obstruction": "PROBLEM"
+  },
+  {
+    "bilateral hydronephrosis": "PROBLEM"
+  },
+  {
+    "hydroureter": "PROBLEM"
+  },
+  {
+    "Sepsis": "PROBLEM"
+  },
+  {
+    "demented": "PROBLEM"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "CT scan": "TEST"
+  },
+  {
+    "dilated bladder": "PROBLEM"
+  },
+  {
+    "thick wall": "PROBLEM"
+  },
+  {
+    "outlet obstruction": "PROBLEM"
+  },
+  {
+    "bilateral hydronephrosis": "PROBLEM"
+  },
+  {
+    "hydroureter": "PROBLEM"
+  },
+  {
+    "IV antibiotics": "DRUG"
+  },
+  {
+    "hydration": "TREATMENT"
+  },
+  {
+    "CAD": "PROBLEM"
+  },
+  {
+    "dementia": "PROBLEM"
+  },
+  {
+    "CVA": "PROBLEM"
+  },
+  {
+    "nephrolithiasis": "PROBLEM"
+  },
+  {
+    "Ambien": "DRUG"
+  },
+  {
+    "Milk of magnesia": "DRUG"
+  },
+  {
+    "Tylenol": "DRUG"
+  },
+  {
+    "Tramadol": "DRUG"
+  },
+  {
+    "Soma": "DRUG"
+  },
+  {
+    "Coumadin": "DRUG"
+  },
+  {
+    "Zoloft": "DRUG"
+  },
+  {
+    "Allopurinol": "DRUG"
+  },
+  {
+    "Digoxin": "DRUG"
+  },
+  {
+    "Namenda": "DRUG"
+  },
+  {
+    "Zocor": "DRUG"
+  },
+  {
+    "BuSpar": "DRUG"
+  },
+  {
+    "Detrol": "DRUG"
+  },
+  {
+    "Coreg": "DRUG"
+  },
+  {
+    "Colace": "DRUG"
+  },
+  {
+    "Calcium": "DRUG"
+  },
+  {
+    "Zantac": "DRUG"
+  },
+  {
+    "Lasix": "DRUG"
+  },
+  {
+    "Seroquel": "DRUG"
+  },
+  {
+    "Aldactone": "DRUG"
+  },
+  {
+    "Amoxicillin": "DRUG"
+  },
+  {
+    "VITAL SIGNS": "TEST"
+  },
+  {
+    "dry": "PROBLEM"
+  },
+  {
+    "Irregularly irregular": "PROBLEM"
+  },
+  {
+    "brady": "PROBLEM"
+  },
+  {
+    "Tenderness in the suprapubic region": "PROBLEM"
+  },
+  {
+    "clubbing": "PROBLEM"
+  },
+  {
+    "cyanosis": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "LABORATORY STUDIES": "TEST"
+  },
+  {
+    "CT of the abdomen": "TEST"
+  },
+  {
+    "left inguinal hernia": "PROBLEM"
+  },
+  {
+    "SBO": "PROBLEM"
+  },
+  {
+    "dilated bladder": "PROBLEM"
+  },
+  {
+    "thick wall": "PROBLEM"
+  },
+  {
+    "outlet obstruction": "PROBLEM"
+  },
+  {
+    "bilateral hydronephrosis": "PROBLEM"
+  },
+  {
+    "hydroureter": "PROBLEM"
+  },
+  {
+    "right adrenal gland mass": "PROBLEM"
+  },
+  {
+    "White count": "TEST"
+  },
+  {
+    "hemoglobin": "TEST"
+  },
+  {
+    "platelet count": "TEST"
+  },
+  {
+    "UA": "TEST"
+  },
+  {
+    "WBCs": "TEST"
+  },
+  {
+    "RBCs": "TEST"
+  },
+  {
+    "leukocyte esterase": "TEST"
+  },
+  {
+    "Sodium": "TEST"
+  },
+  {
+    "potassium": "TEST"
+  },
+  {
+    "chloride": "TEST"
+  },
+  {
+    "CO2": "TEST"
+  },
+  {
+    "BUN": "TEST"
+  },
+  {
+    "creatinine": "TEST"
+  },
+  {
+    "EKG": "TEST"
+  },
+  {
+    "atrial fibrillation": "PROBLEM"
+  },
+  {
+    "Urinary tract infection with sepsis": "PROBLEM"
+  },
+  {
+    "Obstructive uropathy": "PROBLEM"
+  },
+  {
+    "Dementia": "PROBLEM"
+  },
+  {
+    "Atrial fibrillation": "PROBLEM"
+  },
+  {
+    "Anemia": "PROBLEM"
+  },
+  {
+    "Adrenal gland mass": "PROBLEM"
+  },
+  {
+    "Levaquin": "DRUG"
+  },
+  {
+    "gentamicin": "DRUG"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "anticoagulation": "TREATMENT"
+  },
+  {
+    "SCD": "TREATMENT"
+  },
+  {
+    "TED hose": "TREATMENT"
+  },
+  {
+    "slow atrial fibrillation": "PROBLEM"
+  },
+  {
+    "rate control medications": "DRUG"
+  },
+  {
+    "digoxin level": "TEST"
+  },
+  {
+    "dementia medications": "DRUG"
+  },
+  {
+    "PPI": "DRUG"
+  },
+  {
+    "PUD prophylaxis": "TREATMENT"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "hydronephrosis": "PROBLEM"
+  },
+  {
+    "urinary tract infection with sepsis": "PROBLEM"
+  },
+  {
+    "ct scan": "TEST"
+  },
+  {
+    "dilated bladder": "PROBLEM"
+  },
+  {
+    "bilateral hydronephrosis": "PROBLEM"
+  },
+  {
+    "atrial fibrillation": "PROBLEM"
+  },
+  {
+    "sepsis": "PROBLEM"
+  }
+]

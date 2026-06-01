@@ -1,0 +1,338 @@
+[
+  {
+    "entity": "evaluation",
+    "label": "TEST",
+    "start": 101,
+    "end": 111
+  },
+  {
+    "entity": "left-sided chest pain",
+    "label": "PROBLEM",
+    "start": 115,
+    "end": 136
+  },
+  {
+    "entity": "abdominal surgery",
+    "label": "TREATMENT",
+    "start": 150,
+    "end": 167
+  },
+  {
+    "entity": "evaluation",
+    "label": "TEST",
+    "start": 231,
+    "end": 241
+  },
+  {
+    "entity": "left-sided chest pain",
+    "label": "PROBLEM",
+    "start": 245,
+    "end": 266
+  },
+  {
+    "entity": "abdominal surgery",
+    "label": "TREATMENT",
+    "start": 280,
+    "end": 297
+  },
+  {
+    "entity": "laparoscopic appendicectomy",
+    "label": "TREATMENT",
+    "start": 452,
+    "end": 479
+  },
+  {
+    "entity": "postoperative paralytic ileus",
+    "label": "PROBLEM",
+    "start": 506,
+    "end": 535
+  },
+  {
+    "entity": "left-sided chest pain",
+    "label": "PROBLEM",
+    "start": 583,
+    "end": 604
+  },
+  {
+    "entity": "fluid retention",
+    "label": "PROBLEM",
+    "start": 665,
+    "end": 680
+  },
+  {
+    "entity": "swelling of the lower extremities",
+    "label": "PROBLEM",
+    "start": 719,
+    "end": 752
+  },
+  {
+    "entity": "fever",
+    "label": "PROBLEM",
+    "start": 808,
+    "end": 813
+  },
+  {
+    "entity": "cough",
+    "label": "PROBLEM",
+    "start": 857,
+    "end": 862
+  },
+  {
+    "entity": "this left-sided chest pain",
+    "label": "PROBLEM",
+    "start": 875,
+    "end": 901
+  },
+  {
+    "entity": "pain",
+    "label": "PROBLEM",
+    "start": 945,
+    "end": 949
+  },
+  {
+    "entity": "known heart problems",
+    "label": "PROBLEM",
+    "start": 1051,
+    "end": 1071
+  },
+  {
+    "entity": "nausea",
+    "label": "PROBLEM",
+    "start": 1110,
+    "end": 1116
+  },
+  {
+    "entity": "vomiting",
+    "label": "PROBLEM",
+    "start": 1120,
+    "end": 1128
+  },
+  {
+    "entity": "laparoscopic appendicectomy",
+    "label": "TREATMENT",
+    "start": 1148,
+    "end": 1175
+  },
+  {
+    "entity": "dysuria",
+    "label": "PROBLEM",
+    "start": 1227,
+    "end": 1234
+  },
+  {
+    "entity": "hematuria",
+    "label": "PROBLEM",
+    "start": 1239,
+    "end": 1248
+  },
+  {
+    "entity": "diabetes",
+    "label": "PROBLEM",
+    "start": 1274,
+    "end": 1282
+  },
+  {
+    "entity": "thyroid problems",
+    "label": "PROBLEM",
+    "start": 1286,
+    "end": 1302
+  },
+  {
+    "entity": "CVA",
+    "label": "PROBLEM",
+    "start": 1330,
+    "end": 1333
+  },
+  {
+    "entity": "TIA",
+    "label": "PROBLEM",
+    "start": 1337,
+    "end": 1340
+  },
+  {
+    "entity": "auscultation",
+    "label": "TEST",
+    "start": 1614,
+    "end": 1626
+  },
+  {
+    "entity": "wheezing",
+    "label": "PROBLEM",
+    "start": 1631,
+    "end": 1639
+  },
+  {
+    "entity": "crepitations",
+    "label": "PROBLEM",
+    "start": 1644,
+    "end": 1656
+  },
+  {
+    "entity": "reproducible tenderness over the left posterior-lateral axis",
+    "label": "PROBLEM",
+    "start": 1667,
+    "end": 1727
+  },
+  {
+    "entity": "murmurs",
+    "label": "PROBLEM",
+    "start": 1790,
+    "end": 1797
+  },
+  {
+    "entity": "2+ to 3+ pedal swelling",
+    "label": "PROBLEM",
+    "start": 1887,
+    "end": 1910
+  },
+  {
+    "entity": "Examination",
+    "label": "TEST",
+    "start": 1962,
+    "end": 1973
+  },
+  {
+    "entity": "White count",
+    "label": "TEST",
+    "start": 2004,
+    "end": 2015
+  },
+  {
+    "entity": "hemoglobin",
+    "label": "TEST",
+    "start": 2027,
+    "end": 2037
+  },
+  {
+    "entity": "hematocrit",
+    "label": "TEST",
+    "start": 2045,
+    "end": 2055
+  },
+  {
+    "entity": "platelets",
+    "label": "TEST",
+    "start": 2067,
+    "end": 2076
+  },
+  {
+    "entity": "Glucose",
+    "label": "TEST",
+    "start": 2086,
+    "end": 2093
+  },
+  {
+    "entity": "total protein",
+    "label": "TEST",
+    "start": 2102,
+    "end": 2115
+  },
+  {
+    "entity": "albumin",
+    "label": "TEST",
+    "start": 2126,
+    "end": 2133
+  },
+  {
+    "entity": "Ruptured appendicitis",
+    "label": "PROBLEM",
+    "start": 2166,
+    "end": 2187
+  },
+  {
+    "entity": "Left-sided chest pain",
+    "label": "PROBLEM",
+    "start": 2276,
+    "end": 2297
+  },
+  {
+    "entity": "PE",
+    "label": "PROBLEM",
+    "start": 2316,
+    "end": 2318
+  },
+  {
+    "entity": "low-oxygen saturation",
+    "label": "PROBLEM",
+    "start": 2384,
+    "end": 2405
+  },
+  {
+    "entity": "ultrasound of the lower extremity",
+    "label": "TEST",
+    "start": 2418,
+    "end": 2451
+  },
+  {
+    "entity": "the CT angiogram",
+    "label": "TEST",
+    "start": 2498,
+    "end": 2514
+  },
+  {
+    "entity": "Fluid retention",
+    "label": "PROBLEM",
+    "start": 2519,
+    "end": 2534
+  },
+  {
+    "entity": "Paralytic ileus",
+    "label": "PROBLEM",
+    "start": 2562,
+    "end": 2577
+  },
+  {
+    "entity": "Leukocytosis",
+    "label": "PROBLEM",
+    "start": 2593,
+    "end": 2605
+  },
+  {
+    "entity": "ruptured appendicitis",
+    "label": "PROBLEM",
+    "start": 2652,
+    "end": 2673
+  },
+  {
+    "entity": "chest pain",
+    "label": "PROBLEM",
+    "start": 2675,
+    "end": 2685
+  },
+  {
+    "entity": "fluid retention",
+    "label": "PROBLEM",
+    "start": 2687,
+    "end": 2702
+  },
+  {
+    "entity": "paralytic ileus",
+    "label": "PROBLEM",
+    "start": 2704,
+    "end": 2719
+  },
+  {
+    "entity": "leukocytosis",
+    "label": "PROBLEM",
+    "start": 2721,
+    "end": 2733
+  },
+  {
+    "entity": "abdominal surgery",
+    "label": "TREATMENT",
+    "start": 2735,
+    "end": 2752
+  },
+  {
+    "entity": "laparoscopic appendicectomy",
+    "label": "TREATMENT",
+    "start": 2754,
+    "end": 2781
+  },
+  {
+    "entity": "surgery",
+    "label": "TREATMENT",
+    "start": 2794,
+    "end": 2801
+  }
+]

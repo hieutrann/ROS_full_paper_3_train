@@ -1,0 +1,77 @@
+[
+  {
+    "Atypical pneumonia": "PROBLEM"
+  },
+  {
+    "Hypoxia": "PROBLEM"
+  },
+  {
+    "Rheumatoid arthritis": "PROBLEM"
+  },
+  {
+    "Suspected mild stress-induced adrenal insufficiency": "PROBLEM"
+  },
+  {
+    "Pneumonia": "PROBLEM"
+  },
+  {
+    "Failed outpatient treatment": "PROBLEM"
+  },
+  {
+    "Loose stools": "PROBLEM"
+  },
+  {
+    "C. difficile toxin": "TEST"
+  },
+  {
+    "CT scan": "TEST"
+  },
+  {
+    "O2 saturations": "TEST"
+  },
+  {
+    "Avelox": "DRUG"
+  },
+  {
+    "Augmentin": "DRUG"
+  },
+  {
+    "Rocephin": "DRUG"
+  },
+  {
+    "Azithromycin": "DRUG"
+  },
+  {
+    "Methotrexate": "DRUG"
+  },
+  {
+    "Remicade": "DRUG"
+  },
+  {
+    "Prednisone": "DRUG"
+  },
+  {
+    "Cough": "PROBLEM"
+  },
+  {
+    "Fever": "PROBLEM"
+  },
+  {
+    "Weakness": "PROBLEM"
+  },
+  {
+    "Chills": "PROBLEM"
+  },
+  {
+    "Admission": "TREATMENT"
+  },
+  {
+    "Discharge": "TREATMENT"
+  },
+  {
+    "Azithromycin": "TREATMENT"
+  },
+  {
+    "Rocephin IV": "TREATMENT"
+  }
+]

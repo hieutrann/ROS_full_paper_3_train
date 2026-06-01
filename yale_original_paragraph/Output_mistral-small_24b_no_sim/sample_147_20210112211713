@@ -1,0 +1,110 @@
+[
+  {
+    "free air": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "diaphragm": "PROBLEM"
+  },
+  {
+    "right diaphragm": "PROBLEM"
+  },
+  {
+    "Ativan": "DRUG"
+  },
+  {
+    "chest x-ray": "TEST"
+  },
+  {
+    "alcohol abuse": "PROBLEM"
+  },
+  {
+    "appendectomy": "TREATMENT"
+  },
+  {
+    "right hip fracture": "PROBLEM"
+  },
+  {
+    "TAH/BSO": "TREATMENT"
+  },
+  {
+    "Temp": "TEST"
+  },
+  {
+    "heart rate": "TEST"
+  },
+  {
+    "respiratory rate": "TEST"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "HEENT": "TEST"
+  },
+  {
+    "NECK": "TEST"
+  },
+  {
+    "LUNGS": "TEST"
+  },
+  {
+    "HEART": "TEST"
+  },
+  {
+    "ABDOMEN": "TEST"
+  },
+  {
+    "white blood cell count": "TEST"
+  },
+  {
+    "AST": "TEST"
+  },
+  {
+    "ALT": "TEST"
+  },
+  {
+    "Alkaline phosphatase": "TEST"
+  },
+  {
+    "bilirubin": "TEST"
+  },
+  {
+    "Sodium": "TEST"
+  },
+  {
+    "chloride": "TEST"
+  },
+  {
+    "potassium": "TEST"
+  },
+  {
+    "chest": "TEST"
+  },
+  {
+    "CT scan": "TEST"
+  },
+  {
+    "hyponatremia": "PROBLEM"
+  },
+  {
+    "air under the diaphragm": "PROBLEM"
+  },
+  {
+    "intra-abdominal pathology": "PROBLEM"
+  },
+  {
+    "abdominal": "PROBLEM"
+  },
+  {
+    "pathology": "PROBLEM"
+  },
+  {
+    "obtunded": "PROBLEM"
+  },
+  {
+    "diaphragm": "PROBLEM"
+  }
+]

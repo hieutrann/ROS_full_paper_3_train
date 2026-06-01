@@ -1,0 +1,377 @@
+[
+  {
+    "Leiomyosarcoma": "PROBLEM"
+  },
+  {
+    "pulmonary embolism": "PROBLEM"
+  },
+  {
+    "subdural hematoma": "PROBLEM"
+  },
+  {
+    "pancytopenia": "PROBLEM"
+  },
+  {
+    "pneumonia": "PROBLEM"
+  },
+  {
+    "ADMITTING DIAGNOSES": "TEST"
+  },
+  {
+    "Leiomyosarcoma": "PROBLEM"
+  },
+  {
+    "2": "TEST"
+  },
+  {
+    "pulmonary embolism": "PROBLEM"
+  },
+  {
+    "3": "PROBLEM"
+  },
+  {
+    "subdural hematoma": "PROBLEM"
+  },
+  {
+    "4": "TEST"
+  },
+  {
+    "Pancytopenia": "PROBLEM"
+  },
+  {
+    "5": "TEST"
+  },
+  {
+    "pneumonia": "PROBLEM"
+  },
+  {
+    "PROCEDURES DURING HOSPITALIZATION": "TREATMENT"
+  },
+  {
+    "CIVI-CAD": "TREATMENT"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "2": "TEST"
+  },
+  {
+    "CTA": "TEST"
+  },
+  {
+    "chest PE study": "TEST"
+  },
+  {
+    "pulmonary embolism": "PROBLEM"
+  },
+  {
+    "3": "PROBLEM"
+  },
+  {
+    "Head CT": "TEST"
+  },
+  {
+    "acute intracranial abnormalities": "PROBLEM"
+  },
+  {
+    "4": "TEST"
+  },
+  {
+    "Sinus CT": "TEST"
+  },
+  {
+    "mini-CT": "TEST"
+  },
+  {
+    "paranasal sinuses": "PROBLEM"
+  },
+  {
+    "mass": "PROBLEM"
+  },
+  {
+    "palpated": "TREATMENT"
+  },
+  {
+    "arm": "PROBLEM"
+  },
+  {
+    "mass": "PROBLEM"
+  },
+  {
+    "primary care physician": "TREATMENT"
+  },
+  {
+    "orthopedic surgeon": "TREATMENT"
+  },
+  {
+    "rheumatoid arthritis": "PROBLEM"
+  },
+  {
+    "MRI": "TEST"
+  },
+  {
+    "mass": "PROBLEM"
+  },
+  {
+    "leiomyosarcoma": "PROBLEM"
+  },
+  {
+    "resection": "TREATMENT"
+  },
+  {
+    "pathologic grade 2": "TEST"
+  },
+  {
+    "margins": "TEST"
+  },
+  {
+    "partial": "TREATMENT"
+  },
+  {
+    "Dr.": "TREATMENT"
+  },
+  {
+    "X": "PROBLEM"
+  },
+  {
+    "preoperative chemotherapy": "TREATMENT"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "pulmonary embolus": "PROBLEM"
+  },
+  {
+    "pneumonia": "PROBLEM"
+  },
+  {
+    "subdural hematoma": "PROBLEM"
+  },
+  {
+    "anticoagulation": "DRUG"
+  },
+  {
+    "surgical resection": "TREATMENT"
+  },
+  {
+    "disease": "PROBLEM"
+  },
+  {
+    "HOSPITAL COURSE": "TEST"
+  },
+  {
+    "Leiomyosarcoma": "PROBLEM"
+  },
+  {
+    "Hem/Onco B Service": "TEST"
+  },
+  {
+    "Dr": "TREATMENT"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "2": "TEST"
+  },
+  {
+    "pulmonary embolism": "PROBLEM"
+  },
+  {
+    "dyspnea on exertion": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "CTA": "TEST"
+  },
+  {
+    "pulmonary embolism": "PROBLEM"
+  },
+  {
+    "Lovenox": "DRUG"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "3": "PROBLEM"
+  },
+  {
+    "subdural hematoma": "PROBLEM"
+  },
+  {
+    "headaches": "PROBLEM"
+  },
+  {
+    "headaches": "PROBLEM"
+  },
+  {
+    "pain medication": "DRUG"
+  },
+  {
+    "head CT": "TEST"
+  },
+  {
+    "acute intracranial abnormalities": "PROBLEM"
+  },
+  {
+    "sinusitis": "PROBLEM"
+  },
+  {
+    "sinus CT scan": "TEST"
+  },
+  {
+    "CT scan": "TEST"
+  },
+  {
+    "4": "TEST"
+  },
+  {
+    "Pancytopenia": "PROBLEM"
+  },
+  {
+    "white blood count": "TEST"
+  },
+  {
+    "hemoglobin": "TEST"
+  },
+  {
+    "platelet count": "TEST"
+  },
+  {
+    "ANC": "TEST"
+  },
+  {
+    "counts": "TEST"
+  },
+  {
+    "transfusion of red blood cells": "TREATMENT"
+  },
+  {
+    "transfusion of platelets": "TREATMENT"
+  },
+  {
+    "neutropenic diet": "TREATMENT"
+  },
+  {
+    "ANC": "TEST"
+  },
+  {
+    "ANC 900": "TEST"
+  },
+  {
+    "ANC": "TEST"
+  },
+  {
+    "neutropenic diet": "TREATMENT"
+  },
+  {
+    "white blood cell count": "TEST"
+  },
+  {
+    "hemoglobin": "TEST"
+  },
+  {
+    "platelet count": "TEST"
+  },
+  {
+    "5": "TEST"
+  },
+  {
+    "pneumonia": "PROBLEM"
+  },
+  {
+    "pneumonia": "PROBLEM"
+  },
+  {
+    "Home": "TREATMENT"
+  },
+  {
+    "neutropenic": "PROBLEM"
+  },
+  {
+    "ACTIVITY": "TREATMENT"
+  },
+  {
+    "lab work": "TEST"
+  },
+  {
+    "Dr": "TREATMENT"
+  },
+  {
+    "cancer center": "TREATMENT"
+  },
+  {
+    "fevers": "PROBLEM"
+  },
+  {
+    "surgery": "TREATMENT"
+  },
+  {
+    "leiomyosarcoma": "PROBLEM"
+  },
+  {
+    "embolism": "PROBLEM"
+  },
+  {
+    "hematoma": "PROBLEM"
+  },
+  {
+    "pneumonia": "PROBLEM"
+  },
+  {
+    "acute intracranial abnormalities": "PROBLEM"
+  },
+  {
+    "white blood": "TEST"
+  },
+  {
+    "platelet count": "TEST"
+  },
+  {
+    "blood cells": "TEST"
+  },
+  {
+    "neutropenic diet": "TREATMENT"
+  },
+  {
+    "subdural hematoma": "PROBLEM"
+  },
+  {
+    "pulmonary embolism": "PROBLEM"
+  },
+  {
+    "intracranial": "TEST"
+  },
+  {
+    "pancytopenia": "PROBLEM"
+  },
+  {
+    "neutropenic": "TEST"
+  },
+  {
+    "subdural": "TEST"
+  },
+  {
+    "pulmonary": "TEST"
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "contusions": "PROBLEM"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "mild pain on the left aspect of her neck": "PROBLEM"
+  },
+  {
+    "pain low in her abdomen": "PROBLEM"
+  },
+  {
+    "pain throughout the bones of her pelvis": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "difficulty breathing": "PROBLEM"
+  },
+  {
+    "open lacerations": "PROBLEM"
+  },
+  {
+    "abrasions": "PROBLEM"
+  },
+  {
+    "headache": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "feverish": "PROBLEM"
+  },
+  {
+    "chilled": "PROBLEM"
+  },
+  {
+    "oral birth control medications": "DRUG"
+  },
+  {
+    "intrauterine device": "TREATMENT"
+  },
+  {
+    "Accutane": "DRUG"
+  },
+  {
+    "acne": "PROBLEM"
+  },
+  {
+    "Accutane": "DRUG"
+  },
+  {
+    "capsular retractions": "PROBLEM"
+  },
+  {
+    "labored respirations": "PROBLEM"
+  },
+  {
+    "accessory muscle usage": "PROBLEM"
+  },
+  {
+    "Temperature": "TEST"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "pulse": "TEST"
+  },
+  {
+    "respiratory rate": "TEST"
+  },
+  {
+    "pulse oximetry": "TEST"
+  },
+  {
+    "crepitus": "PROBLEM"
+  },
+  {
+    "bony step-offs": "PROBLEM"
+  },
+  {
+    "lacerations": "PROBLEM"
+  },
+  {
+    "papilledema": "PROBLEM"
+  },
+  {
+    "nystagmus": "PROBLEM"
+  },
+  {
+    "entrapment": "PROBLEM"
+  },
+  {
+    "mucoid discharge": "PROBLEM"
+  },
+  {
+    "exudate": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "thyromegaly": "PROBLEM"
+  },
+  {
+    "JVD": "PROBLEM"
+  },
+  {
+    "carotid bruits": "PROBLEM"
+  },
+  {
+    "stridor": "PROBLEM"
+  },
+  {
+    "murmur": "PROBLEM"
+  },
+  {
+    "rub": "PROBLEM"
+  },
+  {
+    "gallop": "PROBLEM"
+  },
+  {
+    "wheezes": "PROBLEM"
+  },
+  {
+    "rales": "PROBLEM"
+  },
+  {
+    "rhonchi": "PROBLEM"
+  },
+  {
+    "tenderness in the bilateral lower pelvic quadrants": "PROBLEM"
+  },
+  {
+    "organomegaly": "PROBLEM"
+  },
+  {
+    "rigidity": "PROBLEM"
+  },
+  {
+    "guarding": "PROBLEM"
+  },
+  {
+    "CVA tenderness": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "bony abnormalities": "PROBLEM"
+  },
+  {
+    "deformities": "PROBLEM"
+  },
+  {
+    "focal deficits": "PROBLEM"
+  },
+  {
+    "Romberg": "TEST"
+  },
+  {
+    "pronator drift": "TEST"
+  },
+  {
+    "adenopathy": "PROBLEM"
+  },
+  {
+    "mild tenderness over palpation of the bilateral iliac crests": "PROBLEM"
+  },
+  {
+    "lacerations": "PROBLEM"
+  },
+  {
+    "abrasions": "PROBLEM"
+  },
+  {
+    "abrasion on the patient's abdomen": "PROBLEM"
+  },
+  {
+    "x-rays": "TEST"
+  },
+  {
+    "x-ray of the pelvis": "TEST"
+  },
+  {
+    "CT scan of the cervical spine": "TEST"
+  },
+  {
+    "acute traumatic bony injury of the cervical spine": "PROBLEM"
+  },
+  {
+    "prevertibral soft tissue swelling": "PROBLEM"
+  },
+  {
+    "CT scan of the brain": "TEST"
+  },
+  {
+    "acute intracranial injury": "PROBLEM"
+  },
+  {
+    "mucus in the left sphenoid sinus": "PROBLEM"
+  },
+  {
+    "CT scan without contrast of the abdomen": "TEST"
+  },
+  {
+    "dependent atelectasis": "PROBLEM"
+  },
+  {
+    "low density in the liver": "PROBLEM"
+  },
+  {
+    "CT scan with contrast": "TEST"
+  },
+  {
+    "laboratory studies": "TEST"
+  },
+  {
+    "CBC": "TEST"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "thrombocytopenia": "PROBLEM"
+  },
+  {
+    "leukocytosis": "PROBLEM"
+  },
+  {
+    "urine pregnancy test": "TEST"
+  },
+  {
+    "urinalysis": "TEST"
+  },
+  {
+    "Tylenol": "DRUG"
+  },
+  {
+    "pain": "PROBLEM"
+  },
+  {
+    "contusion": "PROBLEM"
+  },
+  {
+    "abrasion": "PROBLEM"
+  },
+  {
+    "contusions": "PROBLEM"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "Vicodin": "DRUG"
+  },
+  {
+    "Flexeril": "DRUG"
+  },
+  {
+    "muscular pain": "PROBLEM"
+  }
+]

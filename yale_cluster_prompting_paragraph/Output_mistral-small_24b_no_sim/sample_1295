@@ -1,0 +1,101 @@
+[
+  {
+    "Bronchiolitis": "PROBLEM"
+  },
+  {
+    "respiratory syncytial virus": "PROBLEM"
+  },
+  {
+    "Innocent heart murmur": "PROBLEM"
+  },
+  {
+    "RSV": "PROBLEM"
+  },
+  {
+    "bronchiolitis": "PROBLEM"
+  },
+  {
+    "congestion": "PROBLEM"
+  },
+  {
+    "heart murmur": "PROBLEM"
+  },
+  {
+    "chest x-ray": "TEST"
+  },
+  {
+    "perihilar infiltrate": "PROBLEM"
+  },
+  {
+    "tachypnea": "PROBLEM"
+  },
+  {
+    "increased retractions": "PROBLEM"
+  },
+  {
+    "grunting": "PROBLEM"
+  },
+  {
+    "nasal flaring": "PROBLEM"
+  },
+  {
+    "albuterol MDI": "DRUG"
+  },
+  {
+    "VITAL SIGNS": "TEST"
+  },
+  {
+    "HEENT": "TEST"
+  },
+  {
+    "CARDIOVASCULAR": "TEST"
+  },
+  {
+    "EXTREMITIES": "TEST"
+  },
+  {
+    "LUNGS": "TEST"
+  },
+  {
+    "ABDOMEN": "TEST"
+  },
+  {
+    "GENITOURINARY": "TEST"
+  },
+  {
+    "DISCHARGE WEIGHT": "TEST"
+  },
+  {
+    "albuterol MDI": "DRUG"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "wheezes": "PROBLEM"
+  },
+  {
+    "dyspnea": "PROBLEM"
+  },
+  {
+    "bulb suctioning": "TREATMENT"
+  },
+  {
+    "discharge summary": "TEST"
+  },
+  {
+    "bronchiolitis": "PROBLEM"
+  },
+  {
+    "syncytial virus": "PROBLEM"
+  },
+  {
+    "heart murmur": "PROBLEM"
+  },
+  {
+    "respiratory distress": "PROBLEM"
+  },
+  {
+    "lungs": "PROBLEM"
+  }
+]

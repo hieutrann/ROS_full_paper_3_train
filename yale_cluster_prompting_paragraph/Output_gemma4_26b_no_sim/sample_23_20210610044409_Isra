@@ -1,0 +1,92 @@
+[
+  {
+    "VITAL SIGNS": "TEST"
+  },
+  {
+    "Blood pressure": "TEST"
+  },
+  {
+    "pulse": "TEST"
+  },
+  {
+    "respirations": "TEST"
+  },
+  {
+    "temperature": "TEST"
+  },
+  {
+    "Funduscopic examination": "TEST"
+  },
+  {
+    "thyroid abnormality": "PROBLEM"
+  },
+  {
+    "hepatosplenomegaly": "PROBLEM"
+  },
+  {
+    "mass": "PROBLEM"
+  },
+  {
+    "tenderness": "PROBLEM"
+  },
+  {
+    "rebound": "PROBLEM"
+  },
+  {
+    "rigidity": "PROBLEM"
+  },
+  {
+    "guarding": "PROBLEM"
+  },
+  {
+    "Hemoccult": "TEST"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "cyanosis": "PROBLEM"
+  },
+  {
+    "clubbing": "PROBLEM"
+  },
+  {
+    "deep venous thrombosis": "PROBLEM"
+  },
+  {
+    "spinous process tenderness": "PROBLEM"
+  },
+  {
+    "CVA tenderness": "PROBLEM"
+  },
+  {
+    "Kernig sign": "TEST"
+  },
+  {
+    "Brudzinski sign": "TEST"
+  },
+  {
+    "premalignant condition": "PROBLEM"
+  },
+  {
+    "malignant condition": "PROBLEM"
+  },
+  {
+    "hepatosplenomegaly": "PROBLEM"
+  },
+  {
+    "mass": "PROBLEM"
+  },
+  {
+    "tenderness": "PROBLEM"
+  },
+  {
+    "rebound": "PROBLEM"
+  },
+  {
+    "rigidity": "PROBLEM"
+  },
+  {
+    "pulse": "TEST"
+  }
+]

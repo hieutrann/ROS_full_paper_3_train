@@ -1,0 +1,332 @@
+[
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "acute COPD exacerbation": "PROBLEM"
+  },
+  {
+    "ADMISSION DIAGNOSIS (ES)": "PROBLEM"
+  },
+  {
+    "Chronic obstructive pulmonary disease": "PROBLEM"
+  },
+  {
+    "2": "TREATMENT"
+  },
+  {
+    "Pneumonia": "PROBLEM"
+  },
+  {
+    "3": "PROBLEM"
+  },
+  {
+    "heart failure": "PROBLEM"
+  },
+  {
+    "4": "TEST"
+  },
+  {
+    "Diabetes mellitus": "PROBLEM"
+  },
+  {
+    "5": "TEST"
+  },
+  {
+    "Neuropathy": "PROBLEM"
+  },
+  {
+    "6": "PROBLEM"
+  },
+  {
+    "Anxiety": "PROBLEM"
+  },
+  {
+    "7": "PROBLEM"
+  },
+  {
+    "Hypothyroidism": "PROBLEM"
+  },
+  {
+    "8": "PROBLEM"
+  },
+  {
+    "Depression": "PROBLEM"
+  },
+  {
+    "9": "TEST"
+  },
+  {
+    "Hypertension": "PROBLEM"
+  },
+  {
+    "DISCHARGE DIAGNOSIS (ES)": "PROBLEM"
+  },
+  {
+    "chronic obstructive pulmonary disease": "PROBLEM"
+  },
+  {
+    "2": "TREATMENT"
+  },
+  {
+    "Diabetes mellitus": "PROBLEM"
+  },
+  {
+    "3": "PROBLEM"
+  },
+  {
+    "Hypothyroidism": "PROBLEM"
+  },
+  {
+    "4": "TEST"
+  },
+  {
+    "medications": "DRUG"
+  },
+  {
+    "altered mental status": "PROBLEM"
+  },
+  {
+    "somnolent": "PROBLEM"
+  },
+  {
+    "5": "TEST"
+  },
+  {
+    "Lower gastrointestinal bleed": "PROBLEM"
+  },
+  {
+    "6": "PROBLEM"
+  },
+  {
+    "atrial fibrillation": "PROBLEM"
+  },
+  {
+    "7": "PROBLEM"
+  },
+  {
+    "diverticular bleed": "PROBLEM"
+  },
+  {
+    "DISCHARGE MEDICATIONS": "TREATMENT"
+  },
+  {
+    "Albuterol": "DRUG"
+  },
+  {
+    "2": "TREATMENT"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "3": "PROBLEM"
+  },
+  {
+    "Cardizem CD": "DRUG"
+  },
+  {
+    "4": "TEST"
+  },
+  {
+    "Colace": "DRUG"
+  },
+  {
+    "5": "TEST"
+  },
+  {
+    "Iron sulfate": "DRUG"
+  },
+  {
+    "6": "PROBLEM"
+  },
+  {
+    "NPH 10 units": "DRUG"
+  },
+  {
+    "subcutaneous": "TREATMENT"
+  },
+  {
+    "b.i.d.": "TREATMENT"
+  },
+  {
+    "7": "PROBLEM"
+  },
+  {
+    "Atrovent": "DRUG"
+  },
+  {
+    "8": "PROBLEM"
+  },
+  {
+    "Statin": "DRUG"
+  },
+  {
+    "q.i.d., swish and spit": "TREATMENT"
+  },
+  {
+    "9": "TEST"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "10": "PROBLEM"
+  },
+  {
+    "Prednisone": "DRUG"
+  },
+  {
+    "11": "PROBLEM"
+  },
+  {
+    "Darvocet": "DRUG"
+  },
+  {
+    "Darvocet-N": "DRUG"
+  },
+  {
+    "pain": "PROBLEM"
+  },
+  {
+    "12": "PROBLEM"
+  },
+  {
+    "Metamucil": "DRUG"
+  },
+  {
+    "13": "PROBLEM"
+  },
+  {
+    "Synthroid": "DRUG"
+  },
+  {
+    "14": "PROBLEM"
+  },
+  {
+    "Nexium": "DRUG"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "acute COPD exacerbation": "PROBLEM"
+  },
+  {
+    "BiPAP": "TREATMENT"
+  },
+  {
+    "COPD": "PROBLEM"
+  },
+  {
+    "BiPAP": "TREATMENT"
+  },
+  {
+    "bronchitis": "PROBLEM"
+  },
+  {
+    "antibiotics": "DRUG"
+  },
+  {
+    "acute lower GI bleed": "PROBLEM"
+  },
+  {
+    "intensive care unit": "TEST"
+  },
+  {
+    "packed red blood cells": "DRUG"
+  },
+  {
+    "diverticular disease": "PROBLEM"
+  },
+  {
+    "sigmoid colon": "PROBLEM"
+  },
+  {
+    "hemorrhage": "PROBLEM"
+  },
+  {
+    "endoscopy": "TEST"
+  },
+  {
+    "GI": "TREATMENT"
+  },
+  {
+    "Plavix": "DRUG"
+  },
+  {
+    "Lovenox": "DRUG"
+  },
+  {
+    "bleeding": "PROBLEM"
+  },
+  {
+    "respiratory status": "PROBLEM"
+  },
+  {
+    "medications": "DRUG"
+  },
+  {
+    "Dr.": "TREATMENT"
+  },
+  {
+    "diagnostic pulmonary": "TEST"
+  },
+  {
+    "Dr.": "TREATMENT"
+  },
+  {
+    "chronic obstructive pulmonary disease": "PROBLEM"
+  },
+  {
+    "pneumonia": "PROBLEM"
+  },
+  {
+    "congestive heart failure": "PROBLEM"
+  },
+  {
+    "diabetes mellitus": "PROBLEM"
+  },
+  {
+    "neuropathy": "PROBLEM"
+  },
+  {
+    "anxiety": "PROBLEM"
+  },
+  {
+    "hypothyroidism": "PROBLEM"
+  },
+  {
+    "depression": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "obstructive pulmonary disease": "PROBLEM"
+  },
+  {
+    "pulmonary disease": "PROBLEM"
+  },
+  {
+    "discharge": "TREATMENT"
+  },
+  {
+    "inhaler": "DRUG"
+  },
+  {
+    "copd": "PROBLEM"
+  },
+  {
+    "exacerbation": "PROBLEM"
+  },
+  {
+    "pulmonary": "PROBLEM"
+  },
+  {
+    "breath": "PROBLEM"
+  }
+]

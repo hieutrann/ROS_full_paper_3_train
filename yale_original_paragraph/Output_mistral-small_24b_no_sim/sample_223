@@ -1,0 +1,137 @@
+[
+  {
+    "shoulder pain": "PROBLEM"
+  },
+  {
+    "shoulder": "PROBLEM"
+  },
+  {
+    "pain": "PROBLEM"
+  },
+  {
+    "cervical radiculopathies": "PROBLEM"
+  },
+  {
+    "cardiac": "PROBLEM"
+  },
+  {
+    "pulmonary": "PROBLEM"
+  },
+  {
+    "GI": "PROBLEM"
+  },
+  {
+    "GU": "PROBLEM"
+  },
+  {
+    "neurologic": "PROBLEM"
+  },
+  {
+    "musculoskeletal": "PROBLEM"
+  },
+  {
+    "endocrine": "PROBLEM"
+  },
+  {
+    "abnormalities": "PROBLEM"
+  },
+  {
+    "Claritin": "DRUG"
+  },
+  {
+    "allergic rhinitis": "PROBLEM"
+  },
+  {
+    "Blood pressure": "TEST"
+  },
+  {
+    "respirations": "TEST"
+  },
+  {
+    "pulse": "TEST"
+  },
+  {
+    "temperature": "TEST"
+  },
+  {
+    "neurologic examination": "TEST"
+  },
+  {
+    "ENT examination": "TEST"
+  },
+  {
+    "oropharynx": "TEST"
+  },
+  {
+    "nasopharynx": "TEST"
+  },
+  {
+    "tympanic membranes": "TEST"
+  },
+  {
+    "Neck": "TEST"
+  },
+  {
+    "adenopathy": "PROBLEM"
+  },
+  {
+    "thyromegaly": "PROBLEM"
+  },
+  {
+    "Cardiovascular": "TEST"
+  },
+  {
+    "Lungs": "TEST"
+  },
+  {
+    "Abdomen": "TEST"
+  },
+  {
+    "shoulder": "PROBLEM"
+  },
+  {
+    "subacromial space": "PROBLEM"
+  },
+  {
+    "abduction": "TEST"
+  },
+  {
+    "flexion": "TEST"
+  },
+  {
+    "Neer's": "TEST"
+  },
+  {
+    "Hawkins": "TEST"
+  },
+  {
+    "sulcus": "TEST"
+  },
+  {
+    "apprehension": "TEST"
+  },
+  {
+    "Speed's": "TEST"
+  },
+  {
+    "Yergason's": "TEST"
+  },
+  {
+    "x-rays": "TEST"
+  },
+  {
+    "MRI": "TEST"
+  },
+  {
+    "muscular": "PROBLEM"
+  },
+  {
+    "strain": "PROBLEM"
+  },
+  {
+    "impingement": "PROBLEM"
+  },
+  {
+    "examination": "TEST"
+  }
+]

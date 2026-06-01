@@ -1,0 +1,116 @@
+[
+  {
+    "right shoulder pain": "PROBLEM"
+  },
+  {
+    "popping sensation": "PROBLEM"
+  },
+  {
+    "shoulder pain": "PROBLEM"
+  },
+  {
+    "cervical radiculopathies": "PROBLEM"
+  },
+  {
+    "cardiac": "PROBLEM"
+  },
+  {
+    "pulmonary": "PROBLEM"
+  },
+  {
+    "GI": "PROBLEM"
+  },
+  {
+    "GU": "PROBLEM"
+  },
+  {
+    "neurologic": "PROBLEM"
+  },
+  {
+    "musculoskeletal": "PROBLEM"
+  },
+  {
+    "endocrine abnormalities": "PROBLEM"
+  },
+  {
+    "Claritin": "DRUG"
+  },
+  {
+    "allergic rhinitis": "PROBLEM"
+  },
+  {
+    "Blood pressure": "TEST"
+  },
+  {
+    "respirations": "TEST"
+  },
+  {
+    "pulse": "TEST"
+  },
+  {
+    "temperature": "TEST"
+  },
+  {
+    "neurologic examination": "TEST"
+  },
+  {
+    "ENT examination": "TEST"
+  },
+  {
+    "oropharynx": "TEST"
+  },
+  {
+    "nasopharynx": "TEST"
+  },
+  {
+    "tympanic membranes": "TEST"
+  },
+  {
+    "adenopathy": "PROBLEM"
+  },
+  {
+    "thyromegaly": "PROBLEM"
+  },
+  {
+    "tender": "PROBLEM"
+  },
+  {
+    "Neer's": "TEST"
+  },
+  {
+    "Hawkins impingement testing": "TEST"
+  },
+  {
+    "sulcus": "TEST"
+  },
+  {
+    "apprehension": "TEST"
+  },
+  {
+    "Speed's": "TEST"
+  },
+  {
+    "Yergason's testing": "TEST"
+  },
+  {
+    "x-rays": "TEST"
+  },
+  {
+    "osseous abnormalities": "PROBLEM"
+  },
+  {
+    "degenerative changes": "PROBLEM"
+  },
+  {
+    "Right shoulder pain": "PROBLEM"
+  },
+  {
+    "muscular strain": "PROBLEM"
+  },
+  {
+    "impingement": "PROBLEM"
+  },
+  {
+    "MRI": "TEST"
+  }
+]

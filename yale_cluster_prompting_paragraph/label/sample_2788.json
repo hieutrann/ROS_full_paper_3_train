@@ -1,0 +1,974 @@
+[
+  {
+    "entity": "Knee Surgery",
+    "label": "TREATMENT",
+    "start": 64,
+    "end": 76
+  },
+  {
+    "entity": "Decreased ability",
+    "label": "PROBLEM",
+    "start": 110,
+    "end": 127
+  },
+  {
+    "entity": "right knee surgery",
+    "label": "TREATMENT",
+    "start": 176,
+    "end": 194
+  },
+  {
+    "entity": "Decreased ability",
+    "label": "PROBLEM",
+    "start": 251,
+    "end": 268
+  },
+  {
+    "entity": "right knee surgery",
+    "label": "TREATMENT",
+    "start": 317,
+    "end": 335
+  },
+  {
+    "entity": "right total knee replacement",
+    "label": "TREATMENT",
+    "start": 419,
+    "end": 447
+  },
+  {
+    "entity": "degenerative joint disease",
+    "label": "PROBLEM",
+    "start": 461,
+    "end": 487
+  },
+  {
+    "entity": "2 units of autologous blood",
+    "label": "TREATMENT",
+    "start": 571,
+    "end": 598
+  },
+  {
+    "entity": "DVT prophylaxis",
+    "label": "TREATMENT",
+    "start": 629,
+    "end": 644
+  },
+  {
+    "entity": "Coumadin",
+    "label": "DRUG",
+    "start": 667,
+    "end": 675
+  },
+  {
+    "entity": "Lovenox",
+    "label": "DRUG",
+    "start": 677,
+    "end": 684
+  },
+  {
+    "entity": "SCD boots",
+    "label": "TREATMENT",
+    "start": 686,
+    "end": 695
+  },
+  {
+    "entity": "TED stockings",
+    "label": "TREATMENT",
+    "start": 701,
+    "end": 714
+  },
+  {
+    "entity": "evaluation",
+    "label": "TEST",
+    "start": 889,
+    "end": 899
+  },
+  {
+    "entity": "rehabilitation",
+    "label": "TREATMENT",
+    "start": 904,
+    "end": 918
+  },
+  {
+    "entity": "her last bowel movement",
+    "label": "TEST",
+    "start": 945,
+    "end": 968
+  },
+  {
+    "entity": "urological symptoms",
+    "label": "PROBLEM",
+    "start": 1050,
+    "end": 1069
+  },
+  {
+    "entity": "dysuria",
+    "label": "PROBLEM",
+    "start": 1078,
+    "end": 1085
+  },
+  {
+    "entity": "incomplete bladder emptying",
+    "label": "PROBLEM",
+    "start": 1087,
+    "end": 1114
+  },
+  {
+    "entity": "other voiding difficulties",
+    "label": "PROBLEM",
+    "start": 1118,
+    "end": 1144
+  },
+  {
+    "entity": "some right knee pain",
+    "label": "PROBLEM",
+    "start": 1165,
+    "end": 1185
+  },
+  {
+    "entity": "the most discomfort",
+    "label": "PROBLEM",
+    "start": 1328,
+    "end": 1347
+  },
+  {
+    "entity": "ALLERGIES",
+    "label": "PROBLEM",
+    "start": 1349,
+    "end": 1358
+  },
+  {
+    "entity": "Hypertension",
+    "label": "PROBLEM",
+    "start": 1388,
+    "end": 1400
+  },
+  {
+    "entity": "hypothyroidism",
+    "label": "PROBLEM",
+    "start": 1402,
+    "end": 1416
+  },
+  {
+    "entity": "degenerative joint disease",
+    "label": "PROBLEM",
+    "start": 1418,
+    "end": 1444
+  },
+  {
+    "entity": "GERD",
+    "label": "PROBLEM",
+    "start": 1446,
+    "end": 1450
+  },
+  {
+    "entity": "anxiety disorder",
+    "label": "PROBLEM",
+    "start": 1452,
+    "end": 1468
+  },
+  {
+    "entity": "Morton neuroma of her feet bilaterally",
+    "label": "PROBLEM",
+    "start": 1470,
+    "end": 1508
+  },
+  {
+    "entity": "migraine headaches",
+    "label": "PROBLEM",
+    "start": 1533,
+    "end": 1551
+  },
+  {
+    "entity": "Celebrex",
+    "label": "DRUG",
+    "start": 1597,
+    "end": 1605
+  },
+  {
+    "entity": "Coumadin",
+    "label": "DRUG",
+    "start": 1607,
+    "end": 1615
+  },
+  {
+    "entity": "Colace",
+    "label": "DRUG",
+    "start": 1617,
+    "end": 1623
+  },
+  {
+    "entity": "Synthroid",
+    "label": "DRUG",
+    "start": 1625,
+    "end": 1634
+  },
+  {
+    "entity": "Lovenox",
+    "label": "DRUG",
+    "start": 1636,
+    "end": 1643
+  },
+  {
+    "entity": "Percocet",
+    "label": "DRUG",
+    "start": 1645,
+    "end": 1653
+  },
+  {
+    "entity": "Toprol XL",
+    "label": "DRUG",
+    "start": 1655,
+    "end": 1664
+  },
+  {
+    "entity": "niacin",
+    "label": "DRUG",
+    "start": 1666,
+    "end": 1672
+  },
+  {
+    "entity": "trazodone",
+    "label": "DRUG",
+    "start": 1678,
+    "end": 1687
+  },
+  {
+    "entity": "VITAL SIGNS",
+    "label": "TEST",
+    "start": 1711,
+    "end": 1722
+  },
+  {
+    "entity": "Temperature",
+    "label": "TEST",
+    "start": 1724,
+    "end": 1735
+  },
+  {
+    "entity": "blood pressure",
+    "label": "TEST",
+    "start": 1742,
+    "end": 1756
+  },
+  {
+    "entity": "pulse",
+    "label": "TEST",
+    "start": 1765,
+    "end": 1770
+  },
+  {
+    "entity": "respiratory rate",
+    "label": "TEST",
+    "start": 1775,
+    "end": 1791
+  },
+  {
+    "entity": "O2 saturation",
+    "label": "TEST",
+    "start": 1800,
+    "end": 1813
+  },
+  {
+    "entity": "acute distress",
+    "label": "PROBLEM",
+    "start": 1839,
+    "end": 1853
+  },
+  {
+    "entity": "the exam",
+    "label": "TEST",
+    "start": 1869,
+    "end": 1877
+  },
+  {
+    "entity": "right knee pain",
+    "label": "PROBLEM",
+    "start": 1917,
+    "end": 1932
+  },
+  {
+    "entity": "EOMI",
+    "label": "TEST",
+    "start": 2008,
+    "end": 2012
+  },
+  {
+    "entity": "thrush",
+    "label": "PROBLEM",
+    "start": 2081,
+    "end": 2087
+  },
+  {
+    "entity": "thyroid enlargement",
+    "label": "PROBLEM",
+    "start": 2098,
+    "end": 2117
+  },
+  {
+    "entity": "auscultation",
+    "label": "TEST",
+    "start": 2155,
+    "end": 2167
+  },
+  {
+    "entity": "rate",
+    "label": "TEST",
+    "start": 2184,
+    "end": 2188
+  },
+  {
+    "entity": "rhythm",
+    "label": "TEST",
+    "start": 2193,
+    "end": 2199
+  },
+  {
+    "entity": "S1",
+    "label": "TEST",
+    "start": 2208,
+    "end": 2210
+  },
+  {
+    "entity": "S2",
+    "label": "TEST",
+    "start": 2215,
+    "end": 2217
+  },
+  {
+    "entity": "organomegaly",
+    "label": "PROBLEM",
+    "start": 2266,
+    "end": 2278
+  },
+  {
+    "entity": "The right knee incision",
+    "label": "TREATMENT",
+    "start": 2293,
+    "end": 2316
+  },
+  {
+    "entity": "Steri-Strips",
+    "label": "TREATMENT",
+    "start": 2328,
+    "end": 2340
+  },
+  {
+    "entity": "some diffuse right knee edema",
+    "label": "PROBLEM",
+    "start": 2364,
+    "end": 2393
+  },
+  {
+    "entity": "some limited ecchymosis",
+    "label": "PROBLEM",
+    "start": 2398,
+    "end": 2421
+  },
+  {
+    "entity": "calf tenderness",
+    "label": "PROBLEM",
+    "start": 2434,
+    "end": 2449
+  },
+  {
+    "entity": "Pedal pulses",
+    "label": "TEST",
+    "start": 2463,
+    "end": 2475
+  },
+  {
+    "entity": "slightly anxious",
+    "label": "PROBLEM",
+    "start": 2537,
+    "end": 2553
+  },
+  {
+    "entity": "exam",
+    "label": "TEST",
+    "start": 2579,
+    "end": 2583
+  },
+  {
+    "entity": "evaluation",
+    "label": "TEST",
+    "start": 2743,
+    "end": 2753
+  },
+  {
+    "entity": "rehabilitation",
+    "label": "TREATMENT",
+    "start": 2758,
+    "end": 2772
+  },
+  {
+    "entity": "her rehabilitation",
+    "label": "TREATMENT",
+    "start": 2862,
+    "end": 2880
+  },
+  {
+    "entity": "the CPM machine",
+    "label": "TREATMENT",
+    "start": 2953,
+    "end": 2968
+  },
+  {
+    "entity": "each CPM session",
+    "label": "TREATMENT",
+    "start": 3014,
+    "end": 3030
+  },
+  {
+    "entity": "the CPM",
+    "label": "TREATMENT",
+    "start": 3114,
+    "end": 3121
+  },
+  {
+    "entity": "increased right knee pain",
+    "label": "PROBLEM",
+    "start": 3170,
+    "end": 3195
+  },
+  {
+    "entity": "pain management",
+    "label": "TREATMENT",
+    "start": 3296,
+    "end": 3311
+  },
+  {
+    "entity": "Ativan",
+    "label": "DRUG",
+    "start": 3340,
+    "end": 3346
+  },
+  {
+    "entity": "Ativan",
+    "label": "DRUG",
+    "start": 3387,
+    "end": 3393
+  },
+  {
+    "entity": "anxiety disorder",
+    "label": "PROBLEM",
+    "start": 3424,
+    "end": 3440
+  },
+  {
+    "entity": "some rashes",
+    "label": "PROBLEM",
+    "start": 3492,
+    "end": 3503
+  },
+  {
+    "entity": "this rash",
+    "label": "PROBLEM",
+    "start": 3593,
+    "end": 3602
+  },
+  {
+    "entity": "itchy",
+    "label": "PROBLEM",
+    "start": 3607,
+    "end": 3612
+  },
+  {
+    "entity": "surgery",
+    "label": "TREATMENT",
+    "start": 3689,
+    "end": 3696
+  },
+  {
+    "entity": "contact dermatitis",
+    "label": "PROBLEM",
+    "start": 3722,
+    "end": 3740
+  },
+  {
+    "entity": "betamethasone",
+    "label": "DRUG",
+    "start": 3823,
+    "end": 3836
+  },
+  {
+    "entity": "the rash",
+    "label": "PROBLEM",
+    "start": 3854,
+    "end": 3862
+  },
+  {
+    "entity": "The patient's therapy",
+    "label": "TREATMENT",
+    "start": 3870,
+    "end": 3891
+  },
+  {
+    "entity": "some insomnia",
+    "label": "PROBLEM",
+    "start": 3985,
+    "end": 3998
+  },
+  {
+    "entity": "right knee pain",
+    "label": "PROBLEM",
+    "start": 4006,
+    "end": 4021
+  },
+  {
+    "entity": "Percocet",
+    "label": "DRUG",
+    "start": 4045,
+    "end": 4053
+  },
+  {
+    "entity": "oxycodone SR",
+    "label": "DRUG",
+    "start": 4057,
+    "end": 4069
+  },
+  {
+    "entity": "pain control",
+    "label": "TREATMENT",
+    "start": 4100,
+    "end": 4112
+  },
+  {
+    "entity": "the Percocet",
+    "label": "DRUG",
+    "start": 4129,
+    "end": 4141
+  },
+  {
+    "entity": "breakthrough pain",
+    "label": "PROBLEM",
+    "start": 4151,
+    "end": 4168
+  },
+  {
+    "entity": "The DVT prophylaxis",
+    "label": "TREATMENT",
+    "start": 4170,
+    "end": 4189
+  },
+  {
+    "entity": "Lovenox",
+    "label": "DRUG",
+    "start": 4210,
+    "end": 4217
+  },
+  {
+    "entity": "the INR",
+    "label": "TEST",
+    "start": 4242,
+    "end": 4249
+  },
+  {
+    "entity": "the INR",
+    "label": "TEST",
+    "start": 4314,
+    "end": 4321
+  },
+  {
+    "entity": "The Coumadin",
+    "label": "DRUG",
+    "start": 4357,
+    "end": 4369
+  },
+  {
+    "entity": "the INRs",
+    "label": "TEST",
+    "start": 4408,
+    "end": 4416
+  },
+  {
+    "entity": "right calf tenderness",
+    "label": "PROBLEM",
+    "start": 4500,
+    "end": 4521
+  },
+  {
+    "entity": "venous Doppler study",
+    "label": "TEST",
+    "start": 4528,
+    "end": 4548
+  },
+  {
+    "entity": "DVT",
+    "label": "PROBLEM",
+    "start": 4582,
+    "end": 4585
+  },
+  {
+    "entity": "Initial laboratory data",
+    "label": "TEST",
+    "start": 4599,
+    "end": 4622
+  },
+  {
+    "entity": "a UA",
+    "label": "TEST",
+    "start": 4632,
+    "end": 4636
+  },
+  {
+    "entity": "CBC",
+    "label": "TEST",
+    "start": 4686,
+    "end": 4689
+  },
+  {
+    "entity": "a white count",
+    "label": "TEST",
+    "start": 4697,
+    "end": 4710
+  },
+  {
+    "entity": "hemoglobin",
+    "label": "TEST",
+    "start": 4719,
+    "end": 4729
+  },
+  {
+    "entity": "hematocrit",
+    "label": "TEST",
+    "start": 4740,
+    "end": 4750
+  },
+  {
+    "entity": "platelets",
+    "label": "TEST",
+    "start": 4765,
+    "end": 4774
+  },
+  {
+    "entity": "Chemistries",
+    "label": "TEST",
+    "start": 4789,
+    "end": 4800
+  },
+  {
+    "entity": "Creatinine",
+    "label": "TEST",
+    "start": 4828,
+    "end": 4838
+  },
+  {
+    "entity": "BUN",
+    "label": "TEST",
+    "start": 4848,
+    "end": 4851
+  },
+  {
+    "entity": "anion gap",
+    "label": "TEST",
+    "start": 4859,
+    "end": 4868
+  },
+  {
+    "entity": "fasting glucose",
+    "label": "TEST",
+    "start": 4898,
+    "end": 4913
+  },
+  {
+    "entity": "chemistries",
+    "label": "TEST",
+    "start": 4940,
+    "end": 4951
+  },
+  {
+    "entity": "her therapies",
+    "label": "TREATMENT",
+    "start": 5020,
+    "end": 5033
+  },
+  {
+    "entity": "right total knee replacement",
+    "label": "TREATMENT",
+    "start": 5143,
+    "end": 5171
+  },
+  {
+    "entity": "degenerative joint disease",
+    "label": "PROBLEM",
+    "start": 5185,
+    "end": 5211
+  },
+  {
+    "entity": "Anxiety disorder",
+    "label": "PROBLEM",
+    "start": 5240,
+    "end": 5256
+  },
+  {
+    "entity": "Insomnia",
+    "label": "PROBLEM",
+    "start": 5261,
+    "end": 5269
+  },
+  {
+    "entity": "pain",
+    "label": "PROBLEM",
+    "start": 5283,
+    "end": 5287
+  },
+  {
+    "entity": "anxiety",
+    "label": "PROBLEM",
+    "start": 5292,
+    "end": 5299
+  },
+  {
+    "entity": "Postoperative constipation",
+    "label": "PROBLEM",
+    "start": 5320,
+    "end": 5346
+  },
+  {
+    "entity": "Contact dermatitis",
+    "label": "PROBLEM",
+    "start": 5351,
+    "end": 5369
+  },
+  {
+    "entity": "Hypertension",
+    "label": "PROBLEM",
+    "start": 5421,
+    "end": 5433
+  },
+  {
+    "entity": "Hypothyroidism",
+    "label": "PROBLEM",
+    "start": 5438,
+    "end": 5452
+  },
+  {
+    "entity": "Gastroesophageal reflux disease",
+    "label": "PROBLEM",
+    "start": 5457,
+    "end": 5488
+  },
+  {
+    "entity": "Morton neuroma of the feet bilaterally",
+    "label": "PROBLEM",
+    "start": 5493,
+    "end": 5531
+  },
+  {
+    "entity": "migraine headaches",
+    "label": "PROBLEM",
+    "start": 5556,
+    "end": 5574
+  },
+  {
+    "entity": "the following medications",
+    "label": "DRUG",
+    "start": 5678,
+    "end": 5703
+  },
+  {
+    "entity": "Celebrex",
+    "label": "DRUG",
+    "start": 5705,
+    "end": 5713
+  },
+  {
+    "entity": "Colace",
+    "label": "DRUG",
+    "start": 5743,
+    "end": 5749
+  },
+  {
+    "entity": "Protonix",
+    "label": "DRUG",
+    "start": 5779,
+    "end": 5787
+  },
+  {
+    "entity": "Synthroid",
+    "label": "DRUG",
+    "start": 5816,
+    "end": 5825
+  },
+  {
+    "entity": "Diprosone",
+    "label": "DRUG",
+    "start": 5841,
+    "end": 5850
+  },
+  {
+    "entity": "oxycodone SR",
+    "label": "DRUG",
+    "start": 5912,
+    "end": 5924
+  },
+  {
+    "entity": "oxycodone SR",
+    "label": "DRUG",
+    "start": 5975,
+    "end": 5987
+  },
+  {
+    "entity": "Percocet",
+    "label": "DRUG",
+    "start": 6021,
+    "end": 6029
+  },
+  {
+    "entity": "breakthrough pain",
+    "label": "PROBLEM",
+    "start": 6086,
+    "end": 6103
+  },
+  {
+    "entity": "trazodone",
+    "label": "DRUG",
+    "start": 6105,
+    "end": 6114
+  },
+  {
+    "entity": "Ativan",
+    "label": "DRUG",
+    "start": 6159,
+    "end": 6165
+  },
+  {
+    "entity": "Toprol-XL",
+    "label": "DRUG",
+    "start": 6200,
+    "end": 6209
+  },
+  {
+    "entity": "Coumadin",
+    "label": "DRUG",
+    "start": 6250,
+    "end": 6258
+  },
+  {
+    "entity": "the INRs",
+    "label": "TEST",
+    "start": 6302,
+    "end": 6310
+  },
+  {
+    "entity": "Coumadin",
+    "label": "DRUG",
+    "start": 6469,
+    "end": 6477
+  },
+  {
+    "entity": "Coumadin",
+    "label": "DRUG",
+    "start": 6509,
+    "end": 6517
+  },
+  {
+    "entity": "An INR",
+    "label": "TEST",
+    "start": 6531,
+    "end": 6537
+  },
+  {
+    "entity": "the Coumadin",
+    "label": "DRUG",
+    "start": 6581,
+    "end": 6593
+  },
+  {
+    "entity": "right total knee replacement",
+    "label": "TREATMENT",
+    "start": 6975,
+    "end": 7003
+  },
+  {
+    "entity": "her therapies",
+    "label": "TREATMENT",
+    "start": 7036,
+    "end": 7049
+  },
+  {
+    "entity": "rehabilitation",
+    "label": "TREATMENT",
+    "start": 7054,
+    "end": 7068
+  },
+  {
+    "entity": "decreased ability",
+    "label": "PROBLEM",
+    "start": 7099,
+    "end": 7116
+  },
+  {
+    "entity": "knee surgery",
+    "label": "TREATMENT",
+    "start": 7143,
+    "end": 7155
+  },
+  {
+    "entity": "total knee replacement",
+    "label": "TREATMENT",
+    "start": 7157,
+    "end": 7179
+  },
+  {
+    "entity": "coumadin",
+    "label": "DRUG",
+    "start": 7181,
+    "end": 7189
+  },
+  {
+    "entity": "lovenox",
+    "label": "DRUG",
+    "start": 7191,
+    "end": 7198
+  },
+  {
+    "entity": "scd boots",
+    "label": "TREATMENT",
+    "start": 7200,
+    "end": 7209
+  },
+  {
+    "entity": "ted stockings",
+    "label": "TREATMENT",
+    "start": 7211,
+    "end": 7224
+  },
+  {
+    "entity": "hypertension",
+    "label": "PROBLEM",
+    "start": 7226,
+    "end": 7238
+  },
+  {
+    "entity": "hypothyroidism",
+    "label": "PROBLEM",
+    "start": 7240,
+    "end": 7254
+  },
+  {
+    "entity": "degenerative joint disease",
+    "label": "PROBLEM",
+    "start": 7256,
+    "end": 7282
+  },
+  {
+    "entity": "gerd",
+    "label": "PROBLEM",
+    "start": 7284,
+    "end": 7288
+  },
+  {
+    "entity": "anxiety disorder",
+    "label": "PROBLEM",
+    "start": 7290,
+    "end": 7306
+  },
+  {
+    "entity": "morton neuroma",
+    "label": "PROBLEM",
+    "start": 7308,
+    "end": 7322
+  }
+]

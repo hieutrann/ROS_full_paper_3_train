@@ -1,0 +1,302 @@
+[
+  {
+    "entity": "Sepsis",
+    "label": "PROBLEM",
+    "start": 103,
+    "end": 109
+  },
+  {
+    "entity": "urinary tract infection",
+    "label": "PROBLEM",
+    "start": 117,
+    "end": 140
+  },
+  {
+    "entity": "VITAL SIGNS",
+    "label": "TEST",
+    "start": 251,
+    "end": 262
+  },
+  {
+    "entity": "Temperature",
+    "label": "TEST",
+    "start": 264,
+    "end": 275
+  },
+  {
+    "entity": "Highest temperature",
+    "label": "TEST",
+    "start": 285,
+    "end": 304
+  },
+  {
+    "entity": "Examination of the chest",
+    "label": "TEST",
+    "start": 354,
+    "end": 378
+  },
+  {
+    "entity": "auscultation",
+    "label": "TEST",
+    "start": 391,
+    "end": 403
+  },
+  {
+    "entity": "First and second heart sounds",
+    "label": "TEST",
+    "start": 421,
+    "end": 450
+  },
+  {
+    "entity": "murmurs",
+    "label": "PROBLEM",
+    "start": 466,
+    "end": 473
+  },
+  {
+    "entity": "Bowel sounds",
+    "label": "TEST",
+    "start": 533,
+    "end": 545
+  },
+  {
+    "entity": "swelling",
+    "label": "PROBLEM",
+    "start": 585,
+    "end": 593
+  },
+  {
+    "entity": "alert and oriented x3",
+    "label": "TEST",
+    "start": 622,
+    "end": 643
+  },
+  {
+    "entity": "Examination",
+    "label": "TEST",
+    "start": 645,
+    "end": 656
+  },
+  {
+    "entity": "White count",
+    "label": "TEST",
+    "start": 687,
+    "end": 698
+  },
+  {
+    "entity": "Hemoglobin",
+    "label": "TEST",
+    "start": 728,
+    "end": 738
+  },
+  {
+    "entity": "hematocrit",
+    "label": "TEST",
+    "start": 747,
+    "end": 757
+  },
+  {
+    "entity": "platelets",
+    "label": "TEST",
+    "start": 769,
+    "end": 778
+  },
+  {
+    "entity": "BUN",
+    "label": "TEST",
+    "start": 792,
+    "end": 795
+  },
+  {
+    "entity": "creatinine",
+    "label": "TEST",
+    "start": 811,
+    "end": 821
+  },
+  {
+    "entity": "Sepsis",
+    "label": "PROBLEM",
+    "start": 871,
+    "end": 877
+  },
+  {
+    "entity": "urinary tract infection",
+    "label": "PROBLEM",
+    "start": 885,
+    "end": 908
+  },
+  {
+    "entity": "Urine culture",
+    "label": "TEST",
+    "start": 910,
+    "end": 923
+  },
+  {
+    "entity": "Escherichia coli",
+    "label": "PROBLEM",
+    "start": 930,
+    "end": 946
+  },
+  {
+    "entity": "resistant",
+    "label": "PROBLEM",
+    "start": 948,
+    "end": 957
+  },
+  {
+    "entity": "Levaquin",
+    "label": "DRUG",
+    "start": 961,
+    "end": 969
+  },
+  {
+    "entity": "doripenem",
+    "label": "DRUG",
+    "start": 985,
+    "end": 994
+  },
+  {
+    "entity": "Urinary tract infection",
+    "label": "PROBLEM",
+    "start": 999,
+    "end": 1022
+  },
+  {
+    "entity": "doripenem",
+    "label": "DRUG",
+    "start": 1043,
+    "end": 1052
+  },
+  {
+    "entity": "Foley catheter",
+    "label": "TREATMENT",
+    "start": 1061,
+    "end": 1075
+  },
+  {
+    "entity": "Hypotension",
+    "label": "PROBLEM",
+    "start": 1079,
+    "end": 1090
+  },
+  {
+    "entity": "intravenous fluids",
+    "label": "TREATMENT",
+    "start": 1111,
+    "end": 1129
+  },
+  {
+    "entity": "Ischemic cardiomyopathy",
+    "label": "PROBLEM",
+    "start": 1134,
+    "end": 1157
+  },
+  {
+    "entity": "decompensation",
+    "label": "PROBLEM",
+    "start": 1174,
+    "end": 1188
+  },
+  {
+    "entity": "Diabetes type 2",
+    "label": "PROBLEM",
+    "start": 1210,
+    "end": 1225
+  },
+  {
+    "entity": "insulin",
+    "label": "DRUG",
+    "start": 1250,
+    "end": 1257
+  },
+  {
+    "entity": "pulmonary embolism",
+    "label": "PROBLEM",
+    "start": 1283,
+    "end": 1301
+  },
+  {
+    "entity": "INR",
+    "label": "TEST",
+    "start": 1303,
+    "end": 1306
+  },
+  {
+    "entity": "Coumadin",
+    "label": "DRUG",
+    "start": 1335,
+    "end": 1343
+  },
+  {
+    "entity": "coronary artery disease",
+    "label": "PROBLEM",
+    "start": 1387,
+    "end": 1410
+  },
+  {
+    "entity": "Troponin",
+    "label": "DRUG",
+    "start": 1412,
+    "end": 1420
+  },
+  {
+    "entity": "further workup",
+    "label": "TEST",
+    "start": 1460,
+    "end": 1474
+  },
+  {
+    "entity": "medical treatment",
+    "label": "DRUG",
+    "start": 1485,
+    "end": 1502
+  },
+  {
+    "entity": "troponin",
+    "label": "DRUG",
+    "start": 1516,
+    "end": 1524
+  },
+  {
+    "entity": "impaired clearance",
+    "label": "PROBLEM",
+    "start": 1541,
+    "end": 1559
+  },
+  {
+    "entity": "sepsis",
+    "label": "PROBLEM",
+    "start": 1589,
+    "end": 1595
+  },
+  {
+    "entity": "escherichia coli",
+    "label": "PROBLEM",
+    "start": 1597,
+    "end": 1613
+  },
+  {
+    "entity": "urinary tract infection",
+    "label": "PROBLEM",
+    "start": 1615,
+    "end": 1638
+  },
+  {
+    "entity": "doripenem",
+    "label": "DRUG",
+    "start": 1640,
+    "end": 1649
+  },
+  {
+    "entity": "troponin",
+    "label": "DRUG",
+    "start": 1651,
+    "end": 1659
+  },
+  {
+    "entity": "infection",
+    "label": "PROBLEM",
+    "start": 1670,
+    "end": 1679
+  }
+]

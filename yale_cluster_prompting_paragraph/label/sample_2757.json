@@ -1,0 +1,164 @@
+[
+  {
+    "entity": "Ant Bait Exposure",
+    "label": "PROBLEM",
+    "start": 63,
+    "end": 80
+  },
+  {
+    "entity": "exposure to ant bait",
+    "label": "PROBLEM",
+    "start": 114,
+    "end": 134
+  },
+  {
+    "entity": "any symptoms",
+    "label": "PROBLEM",
+    "start": 158,
+    "end": 170
+  },
+  {
+    "entity": "any vomiting",
+    "label": "PROBLEM",
+    "start": 219,
+    "end": 231
+  },
+  {
+    "entity": "reevaluation",
+    "label": "TEST",
+    "start": 264,
+    "end": 276
+  },
+  {
+    "entity": "exposure to ant bait",
+    "label": "PROBLEM",
+    "start": 342,
+    "end": 362
+  },
+  {
+    "entity": "ant bait",
+    "label": "PROBLEM",
+    "start": 502,
+    "end": 510
+  },
+  {
+    "entity": "evaluation",
+    "label": "TEST",
+    "start": 693,
+    "end": 703
+  },
+  {
+    "entity": "any symptoms",
+    "label": "PROBLEM",
+    "start": 723,
+    "end": 735
+  },
+  {
+    "entity": "any coughing",
+    "label": "PROBLEM",
+    "start": 854,
+    "end": 866
+  },
+  {
+    "entity": "gagging",
+    "label": "PROBLEM",
+    "start": 868,
+    "end": 875
+  },
+  {
+    "entity": "vomiting",
+    "label": "PROBLEM",
+    "start": 877,
+    "end": 885
+  },
+  {
+    "entity": "other symptoms",
+    "label": "PROBLEM",
+    "start": 890,
+    "end": 904
+  },
+  {
+    "entity": "ALLERGIES",
+    "label": "PROBLEM",
+    "start": 1141,
+    "end": 1150
+  },
+  {
+    "entity": "VITAL SIGNS",
+    "label": "TEST",
+    "start": 1180,
+    "end": 1191
+  },
+  {
+    "entity": "vital signs",
+    "label": "TEST",
+    "start": 1226,
+    "end": 1237
+  },
+  {
+    "entity": "pulse oximetry",
+    "label": "TEST",
+    "start": 1249,
+    "end": 1263
+  },
+  {
+    "entity": "distress",
+    "label": "PROBLEM",
+    "start": 1326,
+    "end": 1334
+  },
+  {
+    "entity": "ant bait",
+    "label": "PROBLEM",
+    "start": 1919,
+    "end": 1927
+  },
+  {
+    "entity": "any symptoms",
+    "label": "PROBLEM",
+    "start": 2076,
+    "end": 2088
+  },
+  {
+    "entity": "any vomiting",
+    "label": "PROBLEM",
+    "start": 2141,
+    "end": 2153
+  },
+  {
+    "entity": "reevaluation",
+    "label": "TEST",
+    "start": 2186,
+    "end": 2198
+  },
+  {
+    "entity": "borax",
+    "label": "DRUG",
+    "start": 2279,
+    "end": 2284
+  },
+  {
+    "entity": "vomiting",
+    "label": "PROBLEM",
+    "start": 2286,
+    "end": 2294
+  },
+  {
+    "entity": "exposure to ant bait",
+    "label": "PROBLEM",
+    "start": 2296,
+    "end": 2316
+  },
+  {
+    "entity": "ant bait",
+    "label": "PROBLEM",
+    "start": 2318,
+    "end": 2326
+  },
+  {
+    "entity": "symptoms",
+    "label": "PROBLEM",
+    "start": 2338,
+    "end": 2346
+  }
+]

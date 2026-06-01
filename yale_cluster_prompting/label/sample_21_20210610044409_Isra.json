@@ -1,0 +1,266 @@
+[
+  {
+    "entity": "Nausea",
+    "label": "PROBLEM",
+    "start": 64,
+    "end": 70
+  },
+  {
+    "entity": "Vomiting",
+    "label": "PROBLEM",
+    "start": 73,
+    "end": 81
+  },
+  {
+    "entity": "intractable nausea",
+    "label": "PROBLEM",
+    "start": 179,
+    "end": 197
+  },
+  {
+    "entity": "vomiting",
+    "label": "PROBLEM",
+    "start": 202,
+    "end": 210
+  },
+  {
+    "entity": "blood-tinged vomit",
+    "label": "PROBLEM",
+    "start": 216,
+    "end": 234
+  },
+  {
+    "entity": "approximately worse",
+    "label": "PROBLEM",
+    "start": 244,
+    "end": 263
+  },
+  {
+    "entity": "intractable nausea",
+    "label": "PROBLEM",
+    "start": 520,
+    "end": 538
+  },
+  {
+    "entity": "vomiting",
+    "label": "PROBLEM",
+    "start": 543,
+    "end": 551
+  },
+  {
+    "entity": "blood-tinged vomit",
+    "label": "PROBLEM",
+    "start": 557,
+    "end": 575
+  },
+  {
+    "entity": "approximately worse",
+    "label": "PROBLEM",
+    "start": 585,
+    "end": 604
+  },
+  {
+    "entity": "slight low sodium",
+    "label": "PROBLEM",
+    "start": 1009,
+    "end": 1026
+  },
+  {
+    "entity": "potassium",
+    "label": "TEST",
+    "start": 1029,
+    "end": 1038
+  },
+  {
+    "entity": "her ALT",
+    "label": "TEST",
+    "start": 1061,
+    "end": 1068
+  },
+  {
+    "entity": "AST",
+    "label": "TEST",
+    "start": 1077,
+    "end": 1080
+  },
+  {
+    "entity": "total bilirubin",
+    "label": "TEST",
+    "start": 1089,
+    "end": 1104
+  },
+  {
+    "entity": "ketones",
+    "label": "TEST",
+    "start": 1131,
+    "end": 1138
+  },
+  {
+    "entity": "protein",
+    "label": "TEST",
+    "start": 1144,
+    "end": 1151
+  },
+  {
+    "entity": "esterase",
+    "label": "TEST",
+    "start": 1161,
+    "end": 1169
+  },
+  {
+    "entity": "rbc",
+    "label": "TEST",
+    "start": 1176,
+    "end": 1179
+  },
+  {
+    "entity": "bacteria",
+    "label": "PROBLEM",
+    "start": 1226,
+    "end": 1234
+  },
+  {
+    "entity": "H and H",
+    "label": "TEST",
+    "start": 1237,
+    "end": 1244
+  },
+  {
+    "entity": "Phenergan",
+    "label": "DRUG",
+    "start": 1311,
+    "end": 1320
+  },
+  {
+    "entity": "Zofran",
+    "label": "DRUG",
+    "start": 1325,
+    "end": 1331
+  },
+  {
+    "entity": "hydration",
+    "label": "DRUG",
+    "start": 1362,
+    "end": 1371
+  },
+  {
+    "entity": "Rocephin",
+    "label": "DRUG",
+    "start": 1399,
+    "end": 1407
+  },
+  {
+    "entity": "bladder infection",
+    "label": "PROBLEM",
+    "start": 1417,
+    "end": 1434
+  },
+  {
+    "entity": "nausea",
+    "label": "PROBLEM",
+    "start": 1466,
+    "end": 1472
+  },
+  {
+    "entity": "vomiting",
+    "label": "PROBLEM",
+    "start": 1477,
+    "end": 1485
+  },
+  {
+    "entity": "only one episode of vomiting",
+    "label": "PROBLEM",
+    "start": 1498,
+    "end": 1526
+  },
+  {
+    "entity": "Maalox",
+    "label": "DRUG",
+    "start": 1543,
+    "end": 1549
+  },
+  {
+    "entity": "fluids",
+    "label": "TREATMENT",
+    "start": 1562,
+    "end": 1568
+  },
+  {
+    "entity": "Followup chemistry",
+    "label": "TEST",
+    "start": 1593,
+    "end": 1611
+  },
+  {
+    "entity": "AST",
+    "label": "TEST",
+    "start": 1629,
+    "end": 1632
+  },
+  {
+    "entity": "ALT",
+    "label": "TEST",
+    "start": 1635,
+    "end": 1638
+  },
+  {
+    "entity": "lab variables",
+    "label": "TEST",
+    "start": 1673,
+    "end": 1686
+  },
+  {
+    "entity": "one hyperemesis gravidarum",
+    "label": "PROBLEM",
+    "start": 1799,
+    "end": 1825
+  },
+  {
+    "entity": "hydration",
+    "label": "DRUG",
+    "start": 1839,
+    "end": 1848
+  },
+  {
+    "entity": "Slightly elevated ALT",
+    "label": "PROBLEM",
+    "start": 1869,
+    "end": 1890
+  },
+  {
+    "entity": "nausea",
+    "label": "PROBLEM",
+    "start": 1926,
+    "end": 1932
+  },
+  {
+    "entity": "vomiting",
+    "label": "PROBLEM",
+    "start": 1937,
+    "end": 1945
+  },
+  {
+    "entity": "hydration",
+    "label": "DRUG",
+    "start": 2013,
+    "end": 2022
+  },
+  {
+    "entity": "elevated alt",
+    "label": "PROBLEM",
+    "start": 2025,
+    "end": 2037
+  },
+  {
+    "entity": "nausea",
+    "label": "PROBLEM",
+    "start": 2052,
+    "end": 2058
+  },
+  {
+    "entity": "vomiting",
+    "label": "PROBLEM",
+    "start": 2061,
+    "end": 2069
+  }
+]

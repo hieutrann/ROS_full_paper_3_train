@@ -1,0 +1,344 @@
+[
+  {
+    "Lesions": "PROBLEM"
+  },
+  {
+    "Adrenal": "PROBLEM"
+  },
+  {
+    "Pancreatic": "PROBLEM"
+  },
+  {
+    "adrenal lesion": "PROBLEM"
+  },
+  {
+    "adenoma": "PROBLEM"
+  },
+  {
+    "pancreatic lesion": "PROBLEM"
+  },
+  {
+    "cystic lesion": "PROBLEM"
+  },
+  {
+    "neoplasm": "PROBLEM"
+  },
+  {
+    "pancreatic lesions": "PROBLEM"
+  },
+  {
+    "left adrenal lesions": "PROBLEM"
+  },
+  {
+    "pancreatic lesion": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "left adrenal gland": "PROBLEM"
+  },
+  {
+    "difficulty": "PROBLEM"
+  },
+  {
+    "suffocating feeling": "PROBLEM"
+  },
+  {
+    "feeling": "PROBLEM"
+  },
+  {
+    "sleeping in an upright position": "TEST"
+  },
+  {
+    "CAT scan": "TEST"
+  },
+  {
+    "pneumonitis": "PROBLEM"
+  },
+  {
+    "adrenal nodule": "PROBLEM"
+  },
+  {
+    "pancreatic lesion": "PROBLEM"
+  },
+  {
+    "CAT scan": "TEST"
+  },
+  {
+    "MRI": "TEST"
+  },
+  {
+    "CAT scan": "TEST"
+  },
+  {
+    "lesion": "PROBLEM"
+  },
+  {
+    "adenoma": "PROBLEM"
+  },
+  {
+    "adrenal gland": "PROBLEM"
+  },
+  {
+    "pancreatic lesion": "PROBLEM"
+  },
+  {
+    "pancreas": "PROBLEM"
+  },
+  {
+    "pancreatic lesion": "PROBLEM"
+  },
+  {
+    "Neoplasm": "PROBLEM"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "appetite": "PROBLEM"
+  },
+  {
+    "melena": "PROBLEM"
+  },
+  {
+    "adenomatous polyps": "PROBLEM"
+  },
+  {
+    "frequent urination": "PROBLEM"
+  },
+  {
+    "urologist": "PROBLEM"
+  },
+  {
+    "pancreatic cancer": "PROBLEM"
+  },
+  {
+    "gallstone pancreatitis": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "type 2 diabetes mellitus": "PROBLEM"
+  },
+  {
+    "asthma": "PROBLEM"
+  },
+  {
+    "high cholesterol": "PROBLEM"
+  },
+  {
+    "ENVIRONMENTAL": "PROBLEM"
+  },
+  {
+    "glipizide": "DRUG"
+  },
+  {
+    "metformin": "DRUG"
+  },
+  {
+    "Atacand": "DRUG"
+  },
+  {
+    "metoprolol": "DRUG"
+  },
+  {
+    "Lipitor": "DRUG"
+  },
+  {
+    "pantoprazole": "DRUG"
+  },
+  {
+    "Flomax": "DRUG"
+  },
+  {
+    "Detrol": "DRUG"
+  },
+  {
+    "Zyrtec": "DRUG"
+  },
+  {
+    "Advair Diskus": "DRUG"
+  },
+  {
+    "fluticasone": "DRUG"
+  },
+  {
+    "surgery": "PROBLEM"
+  },
+  {
+    "prostate cancer": "PROBLEM"
+  },
+  {
+    "brain cancer": "PROBLEM"
+  },
+  {
+    "Heart disease": "PROBLEM"
+  },
+  {
+    "diabetes": "PROBLEM"
+  },
+  {
+    "non-cigarette smoker": "PROBLEM"
+  },
+  {
+    "non-ETOH user": "PROBLEM"
+  },
+  {
+    "chemical": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "exertional shortness of breath": "PROBLEM"
+  },
+  {
+    "GI problems": "PROBLEM"
+  },
+  {
+    "frequent urination": "PROBLEM"
+  },
+  {
+    "bleeding disorders": "PROBLEM"
+  },
+  {
+    "obese": "PROBLEM"
+  },
+  {
+    "60-year-old": "PROBLEM"
+  },
+  {
+    "white male": "PROBLEM"
+  },
+  {
+    "HEENT": "TEST"
+  },
+  {
+    "Supple": "TEST"
+  },
+  {
+    "adenopathy": "PROBLEM"
+  },
+  {
+    "bruit": "PROBLEM"
+  },
+  {
+    "CHEST": "TEST"
+  },
+  {
+    "LUNGS": "PROBLEM"
+  },
+  {
+    "COR": "PROBLEM"
+  },
+  {
+    "S3 or S4 gallop": "PROBLEM"
+  },
+  {
+    "murmur": "PROBLEM"
+  },
+  {
+    "HEART": "PROBLEM"
+  },
+  {
+    "Obese": "PROBLEM"
+  },
+  {
+    "It is soft": "PROBLEM"
+  },
+  {
+    "nontender": "PROBLEM"
+  },
+  {
+    "patient": "PROBLEM"
+  },
+  {
+    "Bowel sounds": "TEST"
+  },
+  {
+    "mass": "PROBLEM"
+  },
+  {
+    "organomegaly": "PROBLEM"
+  },
+  {
+    "GENITALIA": "PROBLEM"
+  },
+  {
+    "RECTAL": "TEST"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "peripheral pulses": "TEST"
+  },
+  {
+    "focal deficits": "PROBLEM"
+  },
+  {
+    "alert and oriented": "TEST"
+  },
+  {
+    "adrenal": "PROBLEM"
+  },
+  {
+    "pancreatic": "PROBLEM"
+  },
+  {
+    "adrenal lesion": "PROBLEM"
+  },
+  {
+    "adenoma": "PROBLEM"
+  },
+  {
+    "pancreatic lesion": "PROBLEM"
+  },
+  {
+    "cystic lesion": "PROBLEM"
+  },
+  {
+    "neoplasm": "PROBLEM"
+  },
+  {
+    "pancreatic lesions": "PROBLEM"
+  },
+  {
+    "ERCP": "TEST"
+  },
+  {
+    "biopsy": "TREATMENT"
+  },
+  {
+    "x-rays": "TEST"
+  },
+  {
+    "operative intervention": "TREATMENT"
+  },
+  {
+    "esophagogastroduodenoscopy": "TEST"
+  },
+  {
+    "pancreatic": "PROBLEM"
+  },
+  {
+    "adrenal": "PROBLEM"
+  },
+  {
+    "lesion": "PROBLEM"
+  },
+  {
+    "ercp": "TEST"
+  },
+  {
+    "esophagogastroduodenoscopy": "TEST"
+  }
+]

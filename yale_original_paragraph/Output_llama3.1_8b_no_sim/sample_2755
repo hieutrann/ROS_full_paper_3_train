@@ -1,0 +1,92 @@
+[
+  {
+    "itchy rash": "PROBLEM"
+  },
+  {
+    "urticaria": "PROBLEM"
+  },
+  {
+    "pruritus": "PROBLEM"
+  },
+  {
+    "lip swelling": "PROBLEM"
+  },
+  {
+    "allergic reaction": "PROBLEM"
+  },
+  {
+    "epinephrine": "DRUG"
+  },
+  {
+    "Benadryl": "DRUG"
+  },
+  {
+    "antihistamine": "DRUG"
+  },
+  {
+    "torso": "TEST"
+  },
+  {
+    "rash": "TEST"
+  },
+  {
+    "itchy": "TEST"
+  },
+  {
+    "urine": "TEST"
+  },
+  {
+    "throat": "TEST"
+  },
+  {
+    "lungs": "TEST"
+  },
+  {
+    "cardiac": "TEST"
+  },
+  {
+    "abdomen": "TEST"
+  },
+  {
+    "skin": "TEST"
+  },
+  {
+    "throat": "TEST"
+  },
+  {
+    "lungs": "TEST"
+  },
+  {
+    "cardiac": "TEST"
+  },
+  {
+    "abdomen": "TEST"
+  },
+  {
+    "skin": "TEST"
+  },
+  {
+    "torso": "TEST"
+  },
+  {
+    "rash": "TEST"
+  },
+  {
+    "itchy": "TEST"
+  },
+  {
+    "epinephrine": "TREATMENT"
+  },
+  {
+    "Benadryl": "TREATMENT"
+  },
+  {
+    "antihistamine": "TREATMENT"
+  },
+  {
+    "incision": "TREATMENT"
+  },
+  {
+    "drainage": "TREATMENT"
+  }
+]

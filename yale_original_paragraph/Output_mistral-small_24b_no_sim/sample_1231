@@ -1,0 +1,47 @@
+[
+  {
+    "mesothelioma": "PROBLEM"
+  },
+  {
+    "peritoneal mesothelioma": "PROBLEM"
+  },
+  {
+    "bowel perforations": "PROBLEM"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "pain": "PROBLEM"
+  },
+  {
+    "anxiety": "PROBLEM"
+  },
+  {
+    "Duragesic": "DRUG"
+  },
+  {
+    "Dilaudid": "DRUG"
+  },
+  {
+    "Ativan": "DRUG"
+  },
+  {
+    "Tylenol": "DRUG"
+  },
+  {
+    "pleurodesis": "TREATMENT"
+  },
+  {
+    "thoracic epidural placement": "TREATMENT"
+  },
+  {
+    "sympathetic block": "TREATMENT"
+  },
+  {
+    "celiac plexuses/neurolytic block": "TREATMENT"
+  },
+  {
+    "pain procedures": "TREATMENT"
+  }
+]

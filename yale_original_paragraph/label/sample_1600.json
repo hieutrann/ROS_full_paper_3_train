@@ -1,0 +1,578 @@
+[
+  {
+    "entity": "Preeclampsia",
+    "label": "PROBLEM",
+    "start": 71,
+    "end": 83
+  },
+  {
+    "entity": "Preeclampsia",
+    "label": "PROBLEM",
+    "start": 98,
+    "end": 110
+  },
+  {
+    "entity": "delivery",
+    "label": "TREATMENT",
+    "start": 124,
+    "end": 132
+  },
+  {
+    "entity": "Cesarean section",
+    "label": "TREATMENT",
+    "start": 138,
+    "end": 154
+  },
+  {
+    "entity": "uncontrolled blood pressure",
+    "label": "PROBLEM",
+    "start": 160,
+    "end": 187
+  },
+  {
+    "entity": "a delivery",
+    "label": "TREATMENT",
+    "start": 245,
+    "end": 255
+  },
+  {
+    "entity": "a cesarean section",
+    "label": "TREATMENT",
+    "start": 274,
+    "end": 292
+  },
+  {
+    "entity": "her blood pressure",
+    "label": "TEST",
+    "start": 339,
+    "end": 357
+  },
+  {
+    "entity": "uncontrolled blood pressure",
+    "label": "PROBLEM",
+    "start": 418,
+    "end": 445
+  },
+  {
+    "entity": "blood pressure",
+    "label": "TEST",
+    "start": 525,
+    "end": 539
+  },
+  {
+    "entity": "a delivery",
+    "label": "TREATMENT",
+    "start": 625,
+    "end": 635
+  },
+  {
+    "entity": "a cesarean section",
+    "label": "TREATMENT",
+    "start": 654,
+    "end": 672
+  },
+  {
+    "entity": "her blood pressure",
+    "label": "TEST",
+    "start": 719,
+    "end": 737
+  },
+  {
+    "entity": "uncontrolled blood pressure",
+    "label": "PROBLEM",
+    "start": 798,
+    "end": 825
+  },
+  {
+    "entity": "multiple medications",
+    "label": "TREATMENT",
+    "start": 838,
+    "end": 858
+  },
+  {
+    "entity": "the blood pressure",
+    "label": "TEST",
+    "start": 878,
+    "end": 896
+  },
+  {
+    "entity": "chest pain",
+    "label": "PROBLEM",
+    "start": 959,
+    "end": 969
+  },
+  {
+    "entity": "shortness of breath",
+    "label": "PROBLEM",
+    "start": 974,
+    "end": 993
+  },
+  {
+    "entity": "fatigue",
+    "label": "PROBLEM",
+    "start": 1013,
+    "end": 1020
+  },
+  {
+    "entity": "tiredness",
+    "label": "PROBLEM",
+    "start": 1025,
+    "end": 1034
+  },
+  {
+    "entity": "some congenital anomaly",
+    "label": "PROBLEM",
+    "start": 1051,
+    "end": 1074
+  },
+  {
+    "entity": "surgery",
+    "label": "TREATMENT",
+    "start": 1129,
+    "end": 1136
+  },
+  {
+    "entity": "hypertension",
+    "label": "PROBLEM",
+    "start": 1213,
+    "end": 1225
+  },
+  {
+    "entity": "gestational diabetes mellitus",
+    "label": "PROBLEM",
+    "start": 1238,
+    "end": 1267
+  },
+  {
+    "entity": "cholesterol",
+    "label": "TEST",
+    "start": 1284,
+    "end": 1295
+  },
+  {
+    "entity": "established coronary artery disease",
+    "label": "PROBLEM",
+    "start": 1322,
+    "end": 1357
+  },
+  {
+    "entity": "coronary disease",
+    "label": "PROBLEM",
+    "start": 1397,
+    "end": 1413
+  },
+  {
+    "entity": "major surgery",
+    "label": "TREATMENT",
+    "start": 1470,
+    "end": 1483
+  },
+  {
+    "entity": "C-section",
+    "label": "TREATMENT",
+    "start": 1495,
+    "end": 1504
+  },
+  {
+    "entity": "Cardizem",
+    "label": "DRUG",
+    "start": 1533,
+    "end": 1541
+  },
+  {
+    "entity": "metoprolol",
+    "label": "DRUG",
+    "start": 1546,
+    "end": 1556
+  },
+  {
+    "entity": "hydralazine",
+    "label": "DRUG",
+    "start": 1588,
+    "end": 1599
+  },
+  {
+    "entity": "labetalol",
+    "label": "DRUG",
+    "start": 1618,
+    "end": 1627
+  },
+  {
+    "entity": "hydrochlorothiazide",
+    "label": "DRUG",
+    "start": 1643,
+    "end": 1662
+  },
+  {
+    "entity": "insulin supplementation",
+    "label": "DRUG",
+    "start": 1668,
+    "end": 1691
+  },
+  {
+    "entity": "Hypertension",
+    "label": "PROBLEM",
+    "start": 1829,
+    "end": 1841
+  },
+  {
+    "entity": "gestational diabetes mellitus",
+    "label": "PROBLEM",
+    "start": 1843,
+    "end": 1872
+  },
+  {
+    "entity": "pre-eclampsia",
+    "label": "PROBLEM",
+    "start": 1874,
+    "end": 1887
+  },
+  {
+    "entity": "miscarriage",
+    "label": "PROBLEM",
+    "start": 1922,
+    "end": 1933
+  },
+  {
+    "entity": "fever",
+    "label": "PROBLEM",
+    "start": 1985,
+    "end": 1990
+  },
+  {
+    "entity": "rigors",
+    "label": "PROBLEM",
+    "start": 1992,
+    "end": 1998
+  },
+  {
+    "entity": "chills",
+    "label": "PROBLEM",
+    "start": 2003,
+    "end": 2009
+  },
+  {
+    "entity": "cataract",
+    "label": "PROBLEM",
+    "start": 2033,
+    "end": 2041
+  },
+  {
+    "entity": "blurry vision",
+    "label": "PROBLEM",
+    "start": 2043,
+    "end": 2056
+  },
+  {
+    "entity": "glaucoma",
+    "label": "PROBLEM",
+    "start": 2061,
+    "end": 2069
+  },
+  {
+    "entity": "congestive heart",
+    "label": "PROBLEM",
+    "start": 2091,
+    "end": 2107
+  },
+  {
+    "entity": "arrhythmia",
+    "label": "PROBLEM",
+    "start": 2113,
+    "end": 2123
+  },
+  {
+    "entity": "pneumonia",
+    "label": "PROBLEM",
+    "start": 2153,
+    "end": 2162
+  },
+  {
+    "entity": "valley fever",
+    "label": "PROBLEM",
+    "start": 2166,
+    "end": 2178
+  },
+  {
+    "entity": "epigastric discomfort",
+    "label": "PROBLEM",
+    "start": 2202,
+    "end": 2223
+  },
+  {
+    "entity": "hematemesis",
+    "label": "PROBLEM",
+    "start": 2225,
+    "end": 2236
+  },
+  {
+    "entity": "melena",
+    "label": "PROBLEM",
+    "start": 2241,
+    "end": 2247
+  },
+  {
+    "entity": "frequency",
+    "label": "PROBLEM",
+    "start": 2263,
+    "end": 2272
+  },
+  {
+    "entity": "urgency",
+    "label": "PROBLEM",
+    "start": 2276,
+    "end": 2283
+  },
+  {
+    "entity": "arthritis",
+    "label": "PROBLEM",
+    "start": 2306,
+    "end": 2315
+  },
+  {
+    "entity": "muscle weakness",
+    "label": "PROBLEM",
+    "start": 2319,
+    "end": 2334
+  },
+  {
+    "entity": "TIA",
+    "label": "PROBLEM",
+    "start": 2377,
+    "end": 2380
+  },
+  {
+    "entity": "CVA",
+    "label": "PROBLEM",
+    "start": 2386,
+    "end": 2389
+  },
+  {
+    "entity": "seizure disorder",
+    "label": "PROBLEM",
+    "start": 2395,
+    "end": 2411
+  },
+  {
+    "entity": "Pulse",
+    "label": "TEST",
+    "start": 2449,
+    "end": 2454
+  },
+  {
+    "entity": "blood pressure",
+    "label": "TEST",
+    "start": 2462,
+    "end": 2476
+  },
+  {
+    "entity": "respiratory rate",
+    "label": "TEST",
+    "start": 2499,
+    "end": 2515
+  },
+  {
+    "entity": "S1",
+    "label": "TEST",
+    "start": 2620,
+    "end": 2622
+  },
+  {
+    "entity": "S2",
+    "label": "TEST",
+    "start": 2627,
+    "end": 2629
+  },
+  {
+    "entity": "edema",
+    "label": "PROBLEM",
+    "start": 2686,
+    "end": 2691
+  },
+  {
+    "entity": "Pulses",
+    "label": "TEST",
+    "start": 2694,
+    "end": 2700
+  },
+  {
+    "entity": "EKG",
+    "label": "TEST",
+    "start": 2729,
+    "end": 2732
+  },
+  {
+    "entity": "sinus tachycardia",
+    "label": "PROBLEM",
+    "start": 2739,
+    "end": 2756
+  },
+  {
+    "entity": "nonspecific ST-T changes",
+    "label": "PROBLEM",
+    "start": 2762,
+    "end": 2786
+  },
+  {
+    "entity": "Labs",
+    "label": "TEST",
+    "start": 2789,
+    "end": 2793
+  },
+  {
+    "entity": "BUN",
+    "label": "TEST",
+    "start": 2807,
+    "end": 2810
+  },
+  {
+    "entity": "creatinine",
+    "label": "TEST",
+    "start": 2815,
+    "end": 2825
+  },
+  {
+    "entity": "Preeclampsia",
+    "label": "PROBLEM",
+    "start": 2864,
+    "end": 2876
+  },
+  {
+    "entity": "delivery",
+    "label": "TREATMENT",
+    "start": 2890,
+    "end": 2898
+  },
+  {
+    "entity": "Cesarean section",
+    "label": "TREATMENT",
+    "start": 2904,
+    "end": 2920
+  },
+  {
+    "entity": "uncontrolled blood pressure",
+    "label": "PROBLEM",
+    "start": 2926,
+    "end": 2953
+  },
+  {
+    "entity": "cardiac disease",
+    "label": "PROBLEM",
+    "start": 2979,
+    "end": 2994
+  },
+  {
+    "entity": "borderline gestational diabetes mellitus",
+    "label": "PROBLEM",
+    "start": 3006,
+    "end": 3046
+  },
+  {
+    "entity": "an echocardiogram",
+    "label": "TEST",
+    "start": 3081,
+    "end": 3098
+  },
+  {
+    "entity": "assessment left ventricular function",
+    "label": "TEST",
+    "start": 3103,
+    "end": 3139
+  },
+  {
+    "entity": "labetalol",
+    "label": "DRUG",
+    "start": 3171,
+    "end": 3180
+  },
+  {
+    "entity": "hydralazine",
+    "label": "DRUG",
+    "start": 3185,
+    "end": 3196
+  },
+  {
+    "entity": "medication",
+    "label": "DRUG",
+    "start": 3244,
+    "end": 3254
+  },
+  {
+    "entity": "cardizem",
+    "label": "DRUG",
+    "start": 3461,
+    "end": 3469
+  },
+  {
+    "entity": "metoprolol",
+    "label": "DRUG",
+    "start": 3471,
+    "end": 3481
+  },
+  {
+    "entity": "hypertension",
+    "label": "PROBLEM",
+    "start": 3483,
+    "end": 3495
+  },
+  {
+    "entity": "gestational diabetes mellitus",
+    "label": "PROBLEM",
+    "start": 3497,
+    "end": 3526
+  },
+  {
+    "entity": "pre-eclampsia",
+    "label": "PROBLEM",
+    "start": 3528,
+    "end": 3541
+  },
+  {
+    "entity": "blood pressure",
+    "label": "TEST",
+    "start": 3543,
+    "end": 3557
+  },
+  {
+    "entity": "uncontrolled blood pressure",
+    "label": "PROBLEM",
+    "start": 3559,
+    "end": 3586
+  },
+  {
+    "entity": "gestational diabetes",
+    "label": "PROBLEM",
+    "start": 3588,
+    "end": 3608
+  },
+  {
+    "entity": "cesarean section",
+    "label": "TREATMENT",
+    "start": 3610,
+    "end": 3626
+  },
+  {
+    "entity": "preeclampsia",
+    "label": "PROBLEM",
+    "start": 3659,
+    "end": 3671
+  },
+  {
+    "entity": "cesarean",
+    "label": "TREATMENT",
+    "start": 3673,
+    "end": 3681
+  },
+  {
+    "entity": "section",
+    "label": "TREATMENT",
+    "start": 3683,
+    "end": 3690
+  },
+  {
+    "entity": "delivery",
+    "label": "TREATMENT",
+    "start": 3692,
+    "end": 3700
+  }
+]

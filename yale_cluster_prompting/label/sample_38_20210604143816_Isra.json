@@ -1,0 +1,488 @@
+[
+  {
+    "entity": "Gastroenteritis",
+    "label": "PROBLEM",
+    "start": 100,
+    "end": 115
+  },
+  {
+    "entity": "autism",
+    "label": "PROBLEM",
+    "start": 120,
+    "end": 126
+  },
+  {
+    "entity": "constipation",
+    "label": "PROBLEM",
+    "start": 142,
+    "end": 154
+  },
+  {
+    "entity": "MiraLax",
+    "label": "DRUG",
+    "start": 203,
+    "end": 210
+  },
+  {
+    "entity": "her constipation",
+    "label": "PROBLEM",
+    "start": 215,
+    "end": 231
+  },
+  {
+    "entity": "Gastroenteritis",
+    "label": "PROBLEM",
+    "start": 300,
+    "end": 315
+  },
+  {
+    "entity": "Autism",
+    "label": "PROBLEM",
+    "start": 320,
+    "end": 326
+  },
+  {
+    "entity": "Adderall",
+    "label": "DRUG",
+    "start": 390,
+    "end": 398
+  },
+  {
+    "entity": "clonidine",
+    "label": "DRUG",
+    "start": 403,
+    "end": 412
+  },
+  {
+    "entity": "attention deficit hyperactivity disorder",
+    "label": "PROBLEM",
+    "start": 417,
+    "end": 457
+  },
+  {
+    "entity": "autism",
+    "label": "PROBLEM",
+    "start": 649,
+    "end": 655
+  },
+  {
+    "entity": "Adderall",
+    "label": "DRUG",
+    "start": 701,
+    "end": 709
+  },
+  {
+    "entity": "clonidine",
+    "label": "DRUG",
+    "start": 714,
+    "end": 723
+  },
+  {
+    "entity": "her hyperactivity",
+    "label": "PROBLEM",
+    "start": 728,
+    "end": 745
+  },
+  {
+    "entity": "constipation",
+    "label": "PROBLEM",
+    "start": 761,
+    "end": 773
+  },
+  {
+    "entity": "MiraLax",
+    "label": "DRUG",
+    "start": 822,
+    "end": 829
+  },
+  {
+    "entity": "her constipation",
+    "label": "PROBLEM",
+    "start": 834,
+    "end": 850
+  },
+  {
+    "entity": "vomiting",
+    "label": "PROBLEM",
+    "start": 875,
+    "end": 883
+  },
+  {
+    "entity": "diarrhea",
+    "label": "PROBLEM",
+    "start": 928,
+    "end": 936
+  },
+  {
+    "entity": "her weight",
+    "label": "TEST",
+    "start": 1008,
+    "end": 1018
+  },
+  {
+    "entity": "a weight",
+    "label": "TEST",
+    "start": 1105,
+    "end": 1113
+  },
+  {
+    "entity": "weight",
+    "label": "TEST",
+    "start": 1146,
+    "end": 1152
+  },
+  {
+    "entity": "this weight",
+    "label": "TEST",
+    "start": 1247,
+    "end": 1258
+  },
+  {
+    "entity": "persistent vomiting",
+    "label": "PROBLEM",
+    "start": 1292,
+    "end": 1311
+  },
+  {
+    "entity": "the weight loss",
+    "label": "PROBLEM",
+    "start": 1341,
+    "end": 1356
+  },
+  {
+    "entity": "Physical examination",
+    "label": "TEST",
+    "start": 1358,
+    "end": 1378
+  },
+  {
+    "entity": "autistic spectrum disorder",
+    "label": "PROBLEM",
+    "start": 1438,
+    "end": 1464
+  },
+  {
+    "entity": "Laboratory data",
+    "label": "TEST",
+    "start": 1483,
+    "end": 1498
+  },
+  {
+    "entity": "sedimentation rate",
+    "label": "TEST",
+    "start": 1508,
+    "end": 1526
+  },
+  {
+    "entity": "magnesium level",
+    "label": "TEST",
+    "start": 1534,
+    "end": 1549
+  },
+  {
+    "entity": "TSH",
+    "label": "TEST",
+    "start": 1558,
+    "end": 1561
+  },
+  {
+    "entity": "free T4",
+    "label": "TEST",
+    "start": 1602,
+    "end": 1609
+  },
+  {
+    "entity": "Chest x-ray",
+    "label": "TEST",
+    "start": 1650,
+    "end": 1661
+  },
+  {
+    "entity": "abdominal films",
+    "label": "TEST",
+    "start": 1666,
+    "end": 1681
+  },
+  {
+    "entity": "Hemoglobin",
+    "label": "TEST",
+    "start": 1701,
+    "end": 1711
+  },
+  {
+    "entity": "hematocrit",
+    "label": "TEST",
+    "start": 1718,
+    "end": 1728
+  },
+  {
+    "entity": "platelet count",
+    "label": "TEST",
+    "start": 1735,
+    "end": 1749
+  },
+  {
+    "entity": "white blood count",
+    "label": "TEST",
+    "start": 1759,
+    "end": 1776
+  },
+  {
+    "entity": "Urinalysis",
+    "label": "TEST",
+    "start": 1785,
+    "end": 1795
+  },
+  {
+    "entity": "Specific gravity",
+    "label": "TEST",
+    "start": 1822,
+    "end": 1838
+  },
+  {
+    "entity": "Sodium",
+    "label": "TEST",
+    "start": 1872,
+    "end": 1878
+  },
+  {
+    "entity": "potassium",
+    "label": "TEST",
+    "start": 1884,
+    "end": 1893
+  },
+  {
+    "entity": "chloride",
+    "label": "TEST",
+    "start": 1899,
+    "end": 1907
+  },
+  {
+    "entity": "CO2",
+    "label": "TEST",
+    "start": 1913,
+    "end": 1916
+  },
+  {
+    "entity": "BUN",
+    "label": "TEST",
+    "start": 1921,
+    "end": 1924
+  },
+  {
+    "entity": "creatinine",
+    "label": "TEST",
+    "start": 1929,
+    "end": 1939
+  },
+  {
+    "entity": "anion gap",
+    "label": "TEST",
+    "start": 1949,
+    "end": 1958
+  },
+  {
+    "entity": "glucose",
+    "label": "TEST",
+    "start": 1963,
+    "end": 1970
+  },
+  {
+    "entity": "total protein",
+    "label": "TEST",
+    "start": 1975,
+    "end": 1988
+  },
+  {
+    "entity": "albumin",
+    "label": "TEST",
+    "start": 1994,
+    "end": 2001
+  },
+  {
+    "entity": "calcium",
+    "label": "TEST",
+    "start": 2007,
+    "end": 2014
+  },
+  {
+    "entity": "bilirubin",
+    "label": "TEST",
+    "start": 2020,
+    "end": 2029
+  },
+  {
+    "entity": "AST",
+    "label": "TEST",
+    "start": 2035,
+    "end": 2038
+  },
+  {
+    "entity": "ALT",
+    "label": "TEST",
+    "start": 2043,
+    "end": 2046
+  },
+  {
+    "entity": "alkaline phosphatase",
+    "label": "TEST",
+    "start": 2051,
+    "end": 2071
+  },
+  {
+    "entity": "Thyroid peroxidase antibody studies",
+    "label": "TEST",
+    "start": 2077,
+    "end": 2112
+  },
+  {
+    "entity": "IV fluids",
+    "label": "TREATMENT",
+    "start": 2169,
+    "end": 2178
+  },
+  {
+    "entity": "the weight loss",
+    "label": "PROBLEM",
+    "start": 2359,
+    "end": 2374
+  },
+  {
+    "entity": "her weight",
+    "label": "TEST",
+    "start": 2393,
+    "end": 2403
+  },
+  {
+    "entity": "her height",
+    "label": "TEST",
+    "start": 2420,
+    "end": 2430
+  },
+  {
+    "entity": "temperature",
+    "label": "TEST",
+    "start": 2442,
+    "end": 2453
+  },
+  {
+    "entity": "pulse",
+    "label": "TEST",
+    "start": 2470,
+    "end": 2475
+  },
+  {
+    "entity": "respirations",
+    "label": "TEST",
+    "start": 2481,
+    "end": 2493
+  },
+  {
+    "entity": "blood pressure",
+    "label": "TEST",
+    "start": 2498,
+    "end": 2512
+  },
+  {
+    "entity": "Follow up blood pressure",
+    "label": "TEST",
+    "start": 2521,
+    "end": 2545
+  },
+  {
+    "entity": "her hypertension",
+    "label": "PROBLEM",
+    "start": 2608,
+    "end": 2624
+  },
+  {
+    "entity": "distress",
+    "label": "PROBLEM",
+    "start": 2722,
+    "end": 2730
+  },
+  {
+    "entity": "the unexplained weight loss",
+    "label": "PROBLEM",
+    "start": 2825,
+    "end": 2852
+  },
+  {
+    "entity": "Adderall",
+    "label": "DRUG",
+    "start": 2878,
+    "end": 2886
+  },
+  {
+    "entity": "Adderall",
+    "label": "DRUG",
+    "start": 2942,
+    "end": 2950
+  },
+  {
+    "entity": "the weight loss",
+    "label": "PROBLEM",
+    "start": 2967,
+    "end": 2982
+  },
+  {
+    "entity": "The free T4",
+    "label": "TEST",
+    "start": 2984,
+    "end": 2995
+  },
+  {
+    "entity": "further studies",
+    "label": "TEST",
+    "start": 3055,
+    "end": 3070
+  },
+  {
+    "entity": "Graves disease",
+    "label": "PROBLEM",
+    "start": 3075,
+    "end": 3089
+  },
+  {
+    "entity": "gastroenteritis",
+    "label": "PROBLEM",
+    "start": 3137,
+    "end": 3152
+  },
+  {
+    "entity": "autism",
+    "label": "PROBLEM",
+    "start": 3154,
+    "end": 3160
+  },
+  {
+    "entity": "constipation",
+    "label": "PROBLEM",
+    "start": 3162,
+    "end": 3174
+  },
+  {
+    "entity": "hyperactivity",
+    "label": "PROBLEM",
+    "start": 3176,
+    "end": 3189
+  },
+  {
+    "entity": "blood pressure",
+    "label": "TEST",
+    "start": 3191,
+    "end": 3205
+  },
+  {
+    "entity": "weight loss",
+    "label": "PROBLEM",
+    "start": 3207,
+    "end": 3218
+  },
+  {
+    "entity": "adderall",
+    "label": "DRUG",
+    "start": 3220,
+    "end": 3228
+  }
+]

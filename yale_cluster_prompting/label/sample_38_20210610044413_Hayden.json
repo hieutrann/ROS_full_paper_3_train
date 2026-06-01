@@ -1,0 +1,446 @@
+[
+  {
+    "entity": "Pancreatic Mass",
+    "label": "PROBLEM",
+    "start": 65,
+    "end": 80
+  },
+  {
+    "entity": "abdominal pain",
+    "label": "PROBLEM",
+    "start": 137,
+    "end": 151
+  },
+  {
+    "entity": "weight loss",
+    "label": "PROBLEM",
+    "start": 179,
+    "end": 190
+  },
+  {
+    "entity": "jaundice",
+    "label": "PROBLEM",
+    "start": 210,
+    "end": 218
+  },
+  {
+    "entity": "epigastric pain",
+    "label": "PROBLEM",
+    "start": 227,
+    "end": 242
+  },
+  {
+    "entity": "A thin-slice CT scan",
+    "label": "TEST",
+    "start": 277,
+    "end": 297
+  },
+  {
+    "entity": "a pancreatic mass",
+    "label": "PROBLEM",
+    "start": 328,
+    "end": 345
+  },
+  {
+    "entity": "ring enhancing lesions",
+    "label": "PROBLEM",
+    "start": 376,
+    "end": 398
+  },
+  {
+    "entity": "liver metastases",
+    "label": "PROBLEM",
+    "start": 415,
+    "end": 431
+  },
+  {
+    "entity": "abdominal pain",
+    "label": "PROBLEM",
+    "start": 548,
+    "end": 562
+  },
+  {
+    "entity": "weight loss",
+    "label": "PROBLEM",
+    "start": 619,
+    "end": 630
+  },
+  {
+    "entity": "jaundice",
+    "label": "PROBLEM",
+    "start": 650,
+    "end": 658
+  },
+  {
+    "entity": "epigastric pain",
+    "label": "PROBLEM",
+    "start": 667,
+    "end": 682
+  },
+  {
+    "entity": "A thin - slice CT scan",
+    "label": "TEST",
+    "start": 717,
+    "end": 739
+  },
+  {
+    "entity": "a 4x3x2 cm pancreatic mass",
+    "label": "PROBLEM",
+    "start": 770,
+    "end": 796
+  },
+  {
+    "entity": "ring enhancing lesions",
+    "label": "PROBLEM",
+    "start": 827,
+    "end": 849
+  },
+  {
+    "entity": "liver metastases",
+    "label": "PROBLEM",
+    "start": 866,
+    "end": 882
+  },
+  {
+    "entity": "pseudocyst",
+    "label": "PROBLEM",
+    "start": 930,
+    "end": 940
+  },
+  {
+    "entity": "ERCP",
+    "label": "TEST",
+    "start": 992,
+    "end": 996
+  },
+  {
+    "entity": "a stent",
+    "label": "TREATMENT",
+    "start": 1029,
+    "end": 1036
+  },
+  {
+    "entity": "a strictured pancreatic duct",
+    "label": "PROBLEM",
+    "start": 1052,
+    "end": 1080
+  },
+  {
+    "entity": "strictured bile duct",
+    "label": "PROBLEM",
+    "start": 1093,
+    "end": 1113
+  },
+  {
+    "entity": "A 10-frenchx9 cm stent",
+    "label": "TREATMENT",
+    "start": 1115,
+    "end": 1137
+  },
+  {
+    "entity": "his bilirubin",
+    "label": "TEST",
+    "start": 1271,
+    "end": 1284
+  },
+  {
+    "entity": "liver tests",
+    "label": "TEST",
+    "start": 1295,
+    "end": 1306
+  },
+  {
+    "entity": "nausea",
+    "label": "PROBLEM",
+    "start": 1360,
+    "end": 1366
+  },
+  {
+    "entity": "Zofran",
+    "label": "DRUG",
+    "start": 1407,
+    "end": 1413
+  },
+  {
+    "entity": "Phenergan",
+    "label": "DRUG",
+    "start": 1454,
+    "end": 1463
+  },
+  {
+    "entity": "stent placement",
+    "label": "TREATMENT",
+    "start": 1478,
+    "end": 1493
+  },
+  {
+    "entity": "less nausea",
+    "label": "PROBLEM",
+    "start": 1541,
+    "end": 1552
+  },
+  {
+    "entity": "Phenergan",
+    "label": "DRUG",
+    "start": 1594,
+    "end": 1603
+  },
+  {
+    "entity": "the patient's white count",
+    "label": "TEST",
+    "start": 1639,
+    "end": 1664
+  },
+  {
+    "entity": "hemoglobin",
+    "label": "TEST",
+    "start": 1674,
+    "end": 1684
+  },
+  {
+    "entity": "hematocrit",
+    "label": "TEST",
+    "start": 1691,
+    "end": 1701
+  },
+  {
+    "entity": "a MCV",
+    "label": "TEST",
+    "start": 1710,
+    "end": 1715
+  },
+  {
+    "entity": "platelet count",
+    "label": "TEST",
+    "start": 1723,
+    "end": 1737
+  },
+  {
+    "entity": "His sodium",
+    "label": "TEST",
+    "start": 1750,
+    "end": 1760
+  },
+  {
+    "entity": "potassium",
+    "label": "TEST",
+    "start": 1770,
+    "end": 1779
+  },
+  {
+    "entity": "chloride",
+    "label": "TEST",
+    "start": 1785,
+    "end": 1793
+  },
+  {
+    "entity": "CO2",
+    "label": "TEST",
+    "start": 1798,
+    "end": 1801
+  },
+  {
+    "entity": "BUN",
+    "label": "TEST",
+    "start": 1806,
+    "end": 1809
+  },
+  {
+    "entity": "a creatinine",
+    "label": "TEST",
+    "start": 1820,
+    "end": 1832
+  },
+  {
+    "entity": "His bilirubin",
+    "label": "TEST",
+    "start": 1841,
+    "end": 1854
+  },
+  {
+    "entity": "alk phos",
+    "label": "TEST",
+    "start": 1865,
+    "end": 1873
+  },
+  {
+    "entity": "AST",
+    "label": "TEST",
+    "start": 1879,
+    "end": 1882
+  },
+  {
+    "entity": "ALT",
+    "label": "TEST",
+    "start": 1888,
+    "end": 1891
+  },
+  {
+    "entity": "total protein",
+    "label": "TEST",
+    "start": 1897,
+    "end": 1910
+  },
+  {
+    "entity": "albumin",
+    "label": "TEST",
+    "start": 1919,
+    "end": 1926
+  },
+  {
+    "entity": "hypoglycemics",
+    "label": "DRUG",
+    "start": 1998,
+    "end": 2011
+  },
+  {
+    "entity": "insulin",
+    "label": "DRUG",
+    "start": 2077,
+    "end": 2084
+  },
+  {
+    "entity": "his diabetes",
+    "label": "PROBLEM",
+    "start": 2226,
+    "end": 2238
+  },
+  {
+    "entity": "chemotherapy",
+    "label": "DRUG",
+    "start": 2346,
+    "end": 2358
+  },
+  {
+    "entity": "chemotherapy",
+    "label": "DRUG",
+    "start": 2438,
+    "end": 2450
+  },
+  {
+    "entity": "metastatic pancreatic cancer",
+    "label": "PROBLEM",
+    "start": 2454,
+    "end": 2482
+  },
+  {
+    "entity": "morbidity",
+    "label": "PROBLEM",
+    "start": 2509,
+    "end": 2518
+  },
+  {
+    "entity": "Phenergan",
+    "label": "DRUG",
+    "start": 2621,
+    "end": 2630
+  },
+  {
+    "entity": "Duragesic",
+    "label": "DRUG",
+    "start": 2653,
+    "end": 2662
+  },
+  {
+    "entity": "Benadryl",
+    "label": "DRUG",
+    "start": 2688,
+    "end": 2696
+  },
+  {
+    "entity": "pruritus",
+    "label": "PROBLEM",
+    "start": 2722,
+    "end": 2730
+  },
+  {
+    "entity": "enalapril",
+    "label": "DRUG",
+    "start": 2896,
+    "end": 2905
+  },
+  {
+    "entity": "His hypertension",
+    "label": "PROBLEM",
+    "start": 2912,
+    "end": 2928
+  },
+  {
+    "entity": "repeat ERCP",
+    "label": "TEST",
+    "start": 3002,
+    "end": 3013
+  },
+  {
+    "entity": "stent occlusion",
+    "label": "PROBLEM",
+    "start": 3036,
+    "end": 3051
+  },
+  {
+    "entity": "fever",
+    "label": "PROBLEM",
+    "start": 3060,
+    "end": 3065
+  },
+  {
+    "entity": "increased bilirubin",
+    "label": "PROBLEM",
+    "start": 3067,
+    "end": 3086
+  },
+  {
+    "entity": "pain",
+    "label": "PROBLEM",
+    "start": 3098,
+    "end": 3102
+  },
+  {
+    "entity": "abdominal pain",
+    "label": "PROBLEM",
+    "start": 3210,
+    "end": 3224
+  },
+  {
+    "entity": "weight loss",
+    "label": "PROBLEM",
+    "start": 3239,
+    "end": 3250
+  },
+  {
+    "entity": "pancreatic mass",
+    "label": "PROBLEM",
+    "start": 3252,
+    "end": 3267
+  },
+  {
+    "entity": "chemotherapy",
+    "label": "DRUG",
+    "start": 3269,
+    "end": 3281
+  },
+  {
+    "entity": "bilirubin",
+    "label": "TEST",
+    "start": 3294,
+    "end": 3303
+  },
+  {
+    "entity": "phenergan",
+    "label": "DRUG",
+    "start": 3305,
+    "end": 3314
+  },
+  {
+    "entity": "stent",
+    "label": "TREATMENT",
+    "start": 3316,
+    "end": 3321
+  },
+  {
+    "entity": "drainage",
+    "label": "PROBLEM",
+    "start": 3323,
+    "end": 3331
+  }
+]

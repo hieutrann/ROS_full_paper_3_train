@@ -1,0 +1,92 @@
+[
+  {
+    "entity": "Speech Therapy",
+    "label": "TREATMENT",
+    "start": 64,
+    "end": 78
+  },
+  {
+    "entity": "Speech therapy",
+    "label": "TREATMENT",
+    "start": 112,
+    "end": 126
+  },
+  {
+    "entity": "speech therapy",
+    "label": "TREATMENT",
+    "start": 183,
+    "end": 197
+  },
+  {
+    "entity": "cognitive-linguistic deficits",
+    "label": "PROBLEM",
+    "start": 211,
+    "end": 240
+  },
+  {
+    "entity": "speech therapy",
+    "label": "TREATMENT",
+    "start": 403,
+    "end": 417
+  },
+  {
+    "entity": "cognitive-linguistic deficits",
+    "label": "PROBLEM",
+    "start": 431,
+    "end": 460
+  },
+  {
+    "entity": "speech therapy",
+    "label": "TREATMENT",
+    "start": 481,
+    "end": 495
+  },
+  {
+    "entity": "therapy",
+    "label": "TREATMENT",
+    "start": 667,
+    "end": 674
+  },
+  {
+    "entity": "visual scanning",
+    "label": "TEST",
+    "start": 994,
+    "end": 1009
+  },
+  {
+    "entity": "reevaluation",
+    "label": "TEST",
+    "start": 1494,
+    "end": 1506
+  },
+  {
+    "entity": "mild cognitive-linguistic deficit",
+    "label": "PROBLEM",
+    "start": 1701,
+    "end": 1734
+  },
+  {
+    "entity": "her initial evaluation",
+    "label": "TEST",
+    "start": 1776,
+    "end": 1798
+  },
+  {
+    "entity": "severe impairment",
+    "label": "PROBLEM",
+    "start": 1813,
+    "end": 1830
+  },
+  {
+    "entity": "speech therapy",
+    "label": "TREATMENT",
+    "start": 1874,
+    "end": 1888
+  },
+  {
+    "entity": "speech therapy",
+    "label": "TREATMENT",
+    "start": 2116,
+    "end": 2130
+  }
+]

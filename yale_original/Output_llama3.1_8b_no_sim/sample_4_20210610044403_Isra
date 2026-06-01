@@ -1,0 +1,422 @@
+[
+  {
+    "confused": "PROBLEM"
+  },
+  {
+    "garbled speech": "PROBLEM"
+  },
+  {
+    "decreased level of consciousness": "PROBLEM"
+  },
+  {
+    "altered mental status": "PROBLEM"
+  },
+  {
+    "poorly": "PROBLEM"
+  },
+  {
+    "confused": "PROBLEM"
+  },
+  {
+    "garbled speech": "PROBLEM"
+  },
+  {
+    "decreased level of consciousness": "PROBLEM"
+  },
+  {
+    "aphasia": "PROBLEM"
+  },
+  {
+    "unresponsive": "PROBLEM"
+  },
+  {
+    "blood sugar": "PROBLEM"
+  },
+  {
+    "intake": "PROBLEM"
+  },
+  {
+    "D50": "DRUG"
+  },
+  {
+    "garbled speech": "PROBLEM"
+  },
+  {
+    "somnolent": "PROBLEM"
+  },
+  {
+    "UTIs": "PROBLEM"
+  },
+  {
+    "urinary tract infection": "PROBLEM"
+  },
+  {
+    "chronic incontinence": "PROBLEM"
+  },
+  {
+    "bladder atony": "PROBLEM"
+  },
+  {
+    "Foley catheter": "TREATMENT"
+  },
+  {
+    "CVA": "PROBLEM"
+  },
+  {
+    "atrial fibrillation": "PROBLEM"
+  },
+  {
+    "pacemaker": "TREATMENT"
+  },
+  {
+    "type 2 diabetic": "PROBLEM"
+  },
+  {
+    "neuropathy": "PROBLEM"
+  },
+  {
+    "stroke": "PROBLEM"
+  },
+  {
+    "hypothyroidism": "PROBLEM"
+  },
+  {
+    "cholecystectomy": "TREATMENT"
+  },
+  {
+    "colon cancer surgery": "TREATMENT"
+  },
+  {
+    "pacemaker placement": "TREATMENT"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "chills": "PROBLEM"
+  },
+  {
+    "weight loss": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "chest congestion": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "constipation": "PROBLEM"
+  },
+  {
+    "bleeding per rectum": "PROBLEM"
+  },
+  {
+    "melena": "PROBLEM"
+  },
+  {
+    "urinary tract infection": "PROBLEM"
+  },
+  {
+    "urinary tract infection": "PROBLEM"
+  },
+  {
+    "ENDOCRINE": "PROBLEM"
+  },
+  {
+    "Percocet": "DRUG"
+  },
+  {
+    "Neurontin": "DRUG"
+  },
+  {
+    "Cipro": "DRUG"
+  },
+  {
+    "Humulin N": "DRUG"
+  },
+  {
+    "units": "TEST"
+  },
+  {
+    "MiraLax": "DRUG"
+  },
+  {
+    "Avandia": "DRUG"
+  },
+  {
+    "Flexeril": "DRUG"
+  },
+  {
+    "Synthroid": "DRUG"
+  },
+  {
+    "Coumadin": "DRUG"
+  },
+  {
+    "ibuprofen": "DRUG"
+  },
+  {
+    "Lasix": "DRUG"
+  },
+  {
+    "Lipitor": "DRUG"
+  },
+  {
+    "Reglan": "DRUG"
+  },
+  {
+    "Nystatin": "DRUG"
+  },
+  {
+    "oxygen": "DRUG"
+  },
+  {
+    "children": "PROBLEM"
+  },
+  {
+    "tobacco use": "PROBLEM"
+  },
+  {
+    "alcohol use": "PROBLEM"
+  },
+  {
+    "Family history": "PROBLEM"
+  },
+  {
+    "alert": "TEST"
+  },
+  {
+    "comfortable": "TEST"
+  },
+  {
+    "Blood pressure": "TEST"
+  },
+  {
+    "pulse": "TEST"
+  },
+  {
+    "temperature": "TEST"
+  },
+  {
+    "Weight": "TEST"
+  },
+  {
+    "Urine output": "TEST"
+  },
+  {
+    "Blood sugars": "TEST"
+  },
+  {
+    "HEENT": "TEST"
+  },
+  {
+    "pallor": "PROBLEM"
+  },
+  {
+    "rash": "PROBLEM"
+  },
+  {
+    "pacemaker": "TREATMENT"
+  },
+  {
+    "auscultation": "TEST"
+  },
+  {
+    "ABDOMEN": "PROBLEM"
+  },
+  {
+    "Bilateral lower extremities edema": "PROBLEM"
+  },
+  {
+    "left side": "PROBLEM"
+  },
+  {
+    "power": "TEST"
+  },
+  {
+    "aphasia": "PROBLEM"
+  },
+  {
+    "BUN": "TEST"
+  },
+  {
+    "creatinine": "TEST"
+  },
+  {
+    "LFTs": "TEST"
+  },
+  {
+    "anemic": "PROBLEM"
+  },
+  {
+    "hemoglobin": "TEST"
+  },
+  {
+    "hematocrit": "TEST"
+  },
+  {
+    "INR": "TEST"
+  },
+  {
+    "pro time": "TEST"
+  },
+  {
+    "Urine": "TEST"
+  },
+  {
+    "white cells": "PROBLEM"
+  },
+  {
+    "cultures": "TEST"
+  },
+  {
+    "culture": "TEST"
+  },
+  {
+    "guaiac": "TEST"
+  },
+  {
+    "mixed cultures": "PROBLEM"
+  },
+  {
+    "Septra": "DRUG"
+  },
+  {
+    "UTI": "PROBLEM"
+  },
+  {
+    "IMPRESSION/PLAN": "PROBLEM"
+  },
+  {
+    "Cerebrovascular accident": "PROBLEM"
+  },
+  {
+    "mental status": "PROBLEM"
+  },
+  {
+    "speech": "PROBLEM"
+  },
+  {
+    "Coumadin": "DRUG"
+  },
+  {
+    "Coumadin": "DRUG"
+  },
+  {
+    "2": "TEST"
+  },
+  {
+    "Recurrent urinary tract infection": "PROBLEM"
+  },
+  {
+    "Cipro": "DRUG"
+  },
+  {
+    "Diabetes": "PROBLEM"
+  },
+  {
+    "hypoglycemia": "PROBLEM"
+  },
+  {
+    "Humulin N": "DRUG"
+  },
+  {
+    "Avandia": "DRUG"
+  },
+  {
+    "Neuropathy": "PROBLEM"
+  },
+  {
+    "Neurontin": "DRUG"
+  },
+  {
+    "Percocet": "DRUG"
+  },
+  {
+    "5": "TEST"
+  },
+  {
+    "Hypothyroidism": "PROBLEM"
+  },
+  {
+    "Synthroid": "DRUG"
+  },
+  {
+    "Hyperlipidemia": "PROBLEM"
+  },
+  {
+    "Lipitor": "DRUG"
+  },
+  {
+    "resuscitation": "PROBLEM"
+  },
+  {
+    "cerebrovascular accident": "PROBLEM"
+  },
+  {
+    "urinary tract infection": "PROBLEM"
+  },
+  {
+    "diabetes": "PROBLEM"
+  },
+  {
+    "hypoglycemia": "PROBLEM"
+  },
+  {
+    "neuropathy": "PROBLEM"
+  },
+  {
+    "hypothyroidism": "PROBLEM"
+  },
+  {
+    "hyperlipidemia": "PROBLEM"
+  },
+  {
+    "decreased level of consciousness": "PROBLEM"
+  },
+  {
+    "urinary tract infection": "PROBLEM"
+  },
+  {
+    "decreased level": "PROBLEM"
+  },
+  {
+    "blood sugar": "PROBLEM"
+  },
+  {
+    "garbled speech": "PROBLEM"
+  },
+  {
+    "mental status": "PROBLEM"
+  },
+  {
+    "urinary tract": "PROBLEM"
+  },
+  {
+    "coumadin": "DRUG"
+  },
+  {
+    "blood": "TEST"
+  },
+  {
+    "cultures": "TEST"
+  },
+  {
+    "intake": "TEST"
+  }
+]

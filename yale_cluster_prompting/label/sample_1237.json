@@ -1,0 +1,290 @@
+[
+  {
+    "entity": "Gastric Bypass",
+    "label": "TREATMENT",
+    "start": 84,
+    "end": 98
+  },
+  {
+    "entity": "morbid obesity",
+    "label": "PROBLEM",
+    "start": 134,
+    "end": 148
+  },
+  {
+    "entity": "Morbid obesity",
+    "label": "PROBLEM",
+    "start": 294,
+    "end": 308
+  },
+  {
+    "entity": "BMI",
+    "label": "TEST",
+    "start": 310,
+    "end": 313
+  },
+  {
+    "entity": "Morbid obesity",
+    "label": "PROBLEM",
+    "start": 342,
+    "end": 356
+  },
+  {
+    "entity": "BMI",
+    "label": "TEST",
+    "start": 358,
+    "end": 361
+  },
+  {
+    "entity": "Laparoscopic gastric bypass",
+    "label": "TREATMENT",
+    "start": 380,
+    "end": 407
+  },
+  {
+    "entity": "Anesthesia",
+    "label": "TREATMENT",
+    "start": 436,
+    "end": 446
+  },
+  {
+    "entity": "pain",
+    "label": "PROBLEM",
+    "start": 451,
+    "end": 455
+  },
+  {
+    "entity": "morbid obesity",
+    "label": "PROBLEM",
+    "start": 533,
+    "end": 547
+  },
+  {
+    "entity": "a preoperative workup",
+    "label": "TEST",
+    "start": 653,
+    "end": 674
+  },
+  {
+    "entity": "gastric bypass",
+    "label": "TREATMENT",
+    "start": 693,
+    "end": 707
+  },
+  {
+    "entity": "her procedure",
+    "label": "TREATMENT",
+    "start": 768,
+    "end": 781
+  },
+  {
+    "entity": "her procedure",
+    "label": "TREATMENT",
+    "start": 816,
+    "end": 829
+  },
+  {
+    "entity": "procedure",
+    "label": "TREATMENT",
+    "start": 900,
+    "end": 909
+  },
+  {
+    "entity": "labs",
+    "label": "TEST",
+    "start": 1032,
+    "end": 1036
+  },
+  {
+    "entity": "a clear liquid diet",
+    "label": "TREATMENT",
+    "start": 1061,
+    "end": 1080
+  },
+  {
+    "entity": "Pain",
+    "label": "PROBLEM",
+    "start": 1232,
+    "end": 1236
+  },
+  {
+    "entity": "pain medicine",
+    "label": "DRUG",
+    "start": 1258,
+    "end": 1271
+  },
+  {
+    "entity": "a liquid diet",
+    "label": "TREATMENT",
+    "start": 1315,
+    "end": 1328
+  },
+  {
+    "entity": "Her drain",
+    "label": "TREATMENT",
+    "start": 1390,
+    "end": 1399
+  },
+  {
+    "entity": "Liquid diet",
+    "label": "TREATMENT",
+    "start": 1442,
+    "end": 1453
+  },
+  {
+    "entity": "No heavy lifting",
+    "label": "TREATMENT",
+    "start": 1509,
+    "end": 1525
+  },
+  {
+    "entity": "maintain mobility",
+    "label": "TREATMENT",
+    "start": 1631,
+    "end": 1648
+  },
+  {
+    "entity": "No driving",
+    "label": "TREATMENT",
+    "start": 1650,
+    "end": 1660
+  },
+  {
+    "entity": "narcotic pain medicine",
+    "label": "DRUG",
+    "start": 1731,
+    "end": 1753
+  },
+  {
+    "entity": "her wounds",
+    "label": "PROBLEM",
+    "start": 1789,
+    "end": 1799
+  },
+  {
+    "entity": "postoperative evaluation",
+    "label": "TEST",
+    "start": 1865,
+    "end": 1889
+  },
+  {
+    "entity": "shortness of breath",
+    "label": "PROBLEM",
+    "start": 1937,
+    "end": 1956
+  },
+  {
+    "entity": "chest pain",
+    "label": "PROBLEM",
+    "start": 1958,
+    "end": 1968
+  },
+  {
+    "entity": "calf pain",
+    "label": "PROBLEM",
+    "start": 1970,
+    "end": 1979
+  },
+  {
+    "entity": "temperature",
+    "label": "TEST",
+    "start": 1981,
+    "end": 1992
+  },
+  {
+    "entity": "any redness",
+    "label": "PROBLEM",
+    "start": 2013,
+    "end": 2024
+  },
+  {
+    "entity": "swelling",
+    "label": "PROBLEM",
+    "start": 2026,
+    "end": 2034
+  },
+  {
+    "entity": "foul smelling drainage from her wounds",
+    "label": "PROBLEM",
+    "start": 2039,
+    "end": 2077
+  },
+  {
+    "entity": "intractable nausea",
+    "label": "PROBLEM",
+    "start": 2079,
+    "end": 2097
+  },
+  {
+    "entity": "vomiting",
+    "label": "PROBLEM",
+    "start": 2099,
+    "end": 2107
+  },
+  {
+    "entity": "abdominal pain",
+    "label": "PROBLEM",
+    "start": 2113,
+    "end": 2127
+  },
+  {
+    "entity": "her discharge medications",
+    "label": "DRUG",
+    "start": 2162,
+    "end": 2187
+  },
+  {
+    "entity": "Lortab Elixir",
+    "label": "DRUG",
+    "start": 2240,
+    "end": 2253
+  },
+  {
+    "entity": "Flexeril",
+    "label": "DRUG",
+    "start": 2255,
+    "end": 2263
+  },
+  {
+    "entity": "ursodiol",
+    "label": "DRUG",
+    "start": 2265,
+    "end": 2273
+  },
+  {
+    "entity": "Colace",
+    "label": "DRUG",
+    "start": 2279,
+    "end": 2285
+  },
+  {
+    "entity": "laparoscopic gastric bypass",
+    "label": "TREATMENT",
+    "start": 2316,
+    "end": 2343
+  },
+  {
+    "entity": "gastric bypass",
+    "label": "TREATMENT",
+    "start": 2345,
+    "end": 2359
+  },
+  {
+    "entity": "morbid obesity",
+    "label": "PROBLEM",
+    "start": 2361,
+    "end": 2375
+  },
+  {
+    "entity": "liquid diet",
+    "label": "TREATMENT",
+    "start": 2377,
+    "end": 2388
+  },
+  {
+    "entity": "bmi",
+    "label": "TEST",
+    "start": 2390,
+    "end": 2393
+  }
+]

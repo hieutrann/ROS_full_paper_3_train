@@ -1,0 +1,92 @@
+[
+  {
+    "Cut on Foot": "PROBLEM"
+  },
+  {
+    "4-mm laceration": "PROBLEM"
+  },
+  {
+    "Acute foot pain": "PROBLEM"
+  },
+  {
+    "Cut on foot": "PROBLEM"
+  },
+  {
+    "bleeding": "PROBLEM"
+  },
+  {
+    "numbness": "PROBLEM"
+  },
+  {
+    "weakness": "PROBLEM"
+  },
+  {
+    "Asthma": "PROBLEM"
+  },
+  {
+    "Albuterol": "DRUG"
+  },
+  {
+    "Temperature": "TEST"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "pulse": "TEST"
+  },
+  {
+    "respirations": "TEST"
+  },
+  {
+    "Oxygen saturation": "TEST"
+  },
+  {
+    "Peripheral pulse": "TEST"
+  },
+  {
+    "Capillary refills": "TEST"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "4-mm partial thickness laceration": "PROBLEM"
+  },
+  {
+    "foreign body": "PROBLEM"
+  },
+  {
+    "active bleeding": "PROBLEM"
+  },
+  {
+    "varicose vein": "PROBLEM"
+  },
+  {
+    "antibiotic ointment": "TREATMENT"
+  },
+  {
+    "bandage": "TREATMENT"
+  },
+  {
+    "A 4-MM LACERATION TO THE RIGHT FOOT": "PROBLEM"
+  },
+  {
+    "ACUTE RIGHT FOOT PAIN": "PROBLEM"
+  },
+  {
+    "infection": "PROBLEM"
+  },
+  {
+    "foot pain": "PROBLEM"
+  },
+  {
+    "cut on foot": "PROBLEM"
+  },
+  {
+    "piece of glass": "PROBLEM"
+  },
+  {
+    "laceration": "PROBLEM"
+  }
+]

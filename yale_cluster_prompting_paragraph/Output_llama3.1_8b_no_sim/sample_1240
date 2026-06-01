@@ -1,0 +1,38 @@
+[
+  {
+    "Hyperglycemia": "PROBLEM"
+  },
+  {
+    "cholelithiasis": "PROBLEM"
+  },
+  {
+    "obstructive sleep apnea": "PROBLEM"
+  },
+  {
+    "diabetes mellitus": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "cholecystitis": "PROBLEM"
+  },
+  {
+    "Laparoscopic cholecystectomy": "TREATMENT"
+  },
+  {
+    "insulin drip": "TREATMENT"
+  },
+  {
+    "lap band": "TREATMENT"
+  },
+  {
+    "CPAP machine": "TREATMENT"
+  },
+  {
+    "sliding scale insulin": "TREATMENT"
+  },
+  {
+    "narcotic pain medicines": "DRUG"
+  }
+]

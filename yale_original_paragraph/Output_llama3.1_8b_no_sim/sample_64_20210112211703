@@ -1,0 +1,50 @@
+[
+  {
+    "diabetes mellitus": "PROBLEM"
+  },
+  {
+    "osteomyelitis": "PROBLEM"
+  },
+  {
+    "methicillin-sensitive Staphylococcus aureus": "PROBLEM"
+  },
+  {
+    "Levaquin": "DRUG"
+  },
+  {
+    "Zyvox": "DRUG"
+  },
+  {
+    "Zosyn": "DRUG"
+  },
+  {
+    "Ancef": "DRUG"
+  },
+  {
+    "wound VAC placement": "TREATMENT"
+  },
+  {
+    "debridement": "TREATMENT"
+  },
+  {
+    "MRI": "TEST"
+  },
+  {
+    "bone scan": "TEST"
+  },
+  {
+    "CBC with differential": "TEST"
+  },
+  {
+    "chemistry 7 panel": "TEST"
+  },
+  {
+    "LFTs": "TEST"
+  },
+  {
+    "ESR": "TEST"
+  },
+  {
+    "C-reactive protein levels": "TEST"
+  }
+]

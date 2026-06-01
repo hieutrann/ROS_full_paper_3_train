@@ -1,0 +1,59 @@
+[
+  {
+    "Motor Vehicle Accident": "PROBLEM"
+  },
+  {
+    "contusions": "PROBLEM"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "motor vehicle collision": "PROBLEM"
+  },
+  {
+    "neck": "PROBLEM"
+  },
+  {
+    "pelvis": "PROBLEM"
+  },
+  {
+    "Pulse": "TEST"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "respiratory rate": "TEST"
+  },
+  {
+    "pulse oximetry": "TEST"
+  },
+  {
+    "x-rays": "TEST"
+  },
+  {
+    "CT scan": "TEST"
+  },
+  {
+    "CBC": "TEST"
+  },
+  {
+    "urine pregnancy test": "TEST"
+  },
+  {
+    "urinalysis": "TEST"
+  },
+  {
+    "Accutane": "DRUG"
+  },
+  {
+    "Tylenol": "DRUG"
+  },
+  {
+    "Vicodin": "DRUG"
+  },
+  {
+    "Flexeril": "DRUG"
+  }
+]

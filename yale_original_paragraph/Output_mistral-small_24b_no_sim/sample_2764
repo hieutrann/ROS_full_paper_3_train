@@ -1,0 +1,65 @@
+[
+  {
+    "Pneumonia": "PROBLEM"
+  },
+  {
+    "hypoxia": "PROBLEM"
+  },
+  {
+    "rheumatoid arthritis": "PROBLEM"
+  },
+  {
+    "adrenal insufficiency": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "fevers": "PROBLEM"
+  },
+  {
+    "weakness": "PROBLEM"
+  },
+  {
+    "chills": "PROBLEM"
+  },
+  {
+    "Atypical pneumonia": "PROBLEM"
+  },
+  {
+    "loose stools": "PROBLEM"
+  },
+  {
+    "x-ray": "TEST"
+  },
+  {
+    "Avelox": "DRUG"
+  },
+  {
+    "Augmentin": "DRUG"
+  },
+  {
+    "Rocephin": "DRUG"
+  },
+  {
+    "azithromycin": "DRUG"
+  },
+  {
+    "O2 saturations": "TEST"
+  },
+  {
+    "CT scan": "TEST"
+  },
+  {
+    "C. difficile toxin": "TEST"
+  },
+  {
+    "methotrexate": "DRUG"
+  },
+  {
+    "Remicade": "DRUG"
+  },
+  {
+    "prednisone": "DRUG"
+  }
+]

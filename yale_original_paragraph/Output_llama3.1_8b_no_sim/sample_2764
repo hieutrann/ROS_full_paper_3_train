@@ -1,0 +1,53 @@
+[
+  {
+    "Pneumonia": "PROBLEM"
+  },
+  {
+    "Hypoxia": "PROBLEM"
+  },
+  {
+    "Rheumatoid arthritis": "PROBLEM"
+  },
+  {
+    "Adrenal insufficiency": "PROBLEM"
+  },
+  {
+    "C. difficile toxin": "TEST"
+  },
+  {
+    "CT scan": "TEST"
+  },
+  {
+    "Rocephin": "DRUG"
+  },
+  {
+    "Azithromycin": "DRUG"
+  },
+  {
+    "Avelox": "DRUG"
+  },
+  {
+    "Augmentin": "DRUG"
+  },
+  {
+    "Methotrexate": "DRUG"
+  },
+  {
+    "Remicade": "DRUG"
+  },
+  {
+    "Prednisone": "DRUG"
+  },
+  {
+    "Incision": "TREATMENT"
+  },
+  {
+    "Drainage": "TREATMENT"
+  },
+  {
+    "X-ray": "TEST"
+  },
+  {
+    "O2 saturations": "TEST"
+  }
+]

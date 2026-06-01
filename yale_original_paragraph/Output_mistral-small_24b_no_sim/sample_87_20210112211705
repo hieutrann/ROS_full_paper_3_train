@@ -1,0 +1,92 @@
+[
+  {
+    "pneumonia": "PROBLEM"
+  },
+  {
+    "blood count": "TEST"
+  },
+  {
+    "seizure": "PROBLEM"
+  },
+  {
+    "IV antibiotics": "DRUG"
+  },
+  {
+    "p.o. antibiotics": "DRUG"
+  },
+  {
+    "temperature": "PROBLEM"
+  },
+  {
+    "strep": "PROBLEM"
+  },
+  {
+    "penicillin": "DRUG"
+  },
+  {
+    "seizure": "PROBLEM"
+  },
+  {
+    "temperature": "PROBLEM"
+  },
+  {
+    "LP": "TEST"
+  },
+  {
+    "blood cultures": "TEST"
+  },
+  {
+    "CSF": "TEST"
+  },
+  {
+    "Head": "TEST"
+  },
+  {
+    "eyes": "TEST"
+  },
+  {
+    "ears": "TEST"
+  },
+  {
+    "nose": "TEST"
+  },
+  {
+    "throat": "TEST"
+  },
+  {
+    "Chest": "TEST"
+  },
+  {
+    "Abdomen": "TEST"
+  },
+  {
+    "Extremities": "TEST"
+  },
+  {
+    "White count": "TEST"
+  },
+  {
+    "CSF glucose": "TEST"
+  },
+  {
+    "protein": "TEST"
+  },
+  {
+    "Gram-stain": "TEST"
+  },
+  {
+    "febrile seizure": "PROBLEM"
+  },
+  {
+    "temperature": "PROBLEM"
+  },
+  {
+    "white count": "TEST"
+  },
+  {
+    "pneumonia": "PROBLEM"
+  },
+  {
+    "seizure": "PROBLEM"
+  }
+]

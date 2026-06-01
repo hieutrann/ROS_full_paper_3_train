@@ -1,0 +1,170 @@
+[
+  {
+    "diarrhea": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "inability to eat": "PROBLEM"
+  },
+  {
+    "diarrhea": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "inability to eat": "PROBLEM"
+  },
+  {
+    "EGD": "TEST"
+  },
+  {
+    "colonoscopy": "TEST"
+  },
+  {
+    "Dr.": "TREATMENT"
+  },
+  {
+    "ABC": "TREATMENT"
+  },
+  {
+    "diverticulosis": "PROBLEM"
+  },
+  {
+    "retained bile": "PROBLEM"
+  },
+  {
+    "gastritis": "PROBLEM"
+  },
+  {
+    "Colonoscopy": "TEST"
+  },
+  {
+    "EGD": "TEST"
+  },
+  {
+    "Biopsies": "TREATMENT"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "swelling of the right lower leg": "PROBLEM"
+  },
+  {
+    "Extensive and well documented in prior charts": "PROBLEM"
+  },
+  {
+    "Abdomen was diffusely tender": "PROBLEM"
+  },
+  {
+    "Lungs clear": "TEST"
+  },
+  {
+    "Blood pressure": "TEST"
+  },
+  {
+    "bilateral lower edema": "PROBLEM"
+  },
+  {
+    "White count": "TEST"
+  },
+  {
+    "hemoglobin": "TEST"
+  },
+  {
+    "hematocrit": "TEST"
+  },
+  {
+    "Potassium": "TEST"
+  },
+  {
+    "Dr.": "TREATMENT"
+  },
+  {
+    "barium enema": "TEST"
+  },
+  {
+    "barium enema": "TEST"
+  },
+  {
+    "retained stool": "PROBLEM"
+  },
+  {
+    "barium": "TEST"
+  },
+  {
+    "colon": "TEST"
+  },
+  {
+    "enemas": "TREATMENT"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "headache": "PROBLEM"
+  },
+  {
+    "neck pain": "PROBLEM"
+  },
+  {
+    "discharged home": "TREATMENT"
+  },
+  {
+    "Nausea": "PROBLEM"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "etiology": "PROBLEM"
+  },
+  {
+    "Migraine headache": "PROBLEM"
+  },
+  {
+    "None": "PROBLEM"
+  },
+  {
+    "Guarded": "PROBLEM"
+  },
+  {
+    "medications": "DRUG"
+  },
+  {
+    "Diet and activity as tolerated": "TREATMENT"
+  },
+  {
+    "diarrhea": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "inability to eat": "PROBLEM"
+  },
+  {
+    "egd": "TEST"
+  },
+  {
+    "colonoscopy": "TEST"
+  },
+  {
+    "biopsies": "TEST"
+  },
+  {
+    "barium enema": "TEST"
+  },
+  {
+    "cecum": "TEST"
+  },
+  {
+    "barium": "TEST"
+  },
+  {
+    "admission": "TREATMENT"
+  }
+]

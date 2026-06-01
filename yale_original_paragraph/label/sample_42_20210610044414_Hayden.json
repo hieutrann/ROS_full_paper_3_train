@@ -1,0 +1,194 @@
+[
+  {
+    "entity": "Hysterectomy",
+    "label": "TREATMENT",
+    "start": 66,
+    "end": 78
+  },
+  {
+    "entity": "Total vaginal hysterectomy",
+    "label": "TREATMENT",
+    "start": 115,
+    "end": 141
+  },
+  {
+    "entity": "Menometrorrhagia",
+    "label": "PROBLEM",
+    "start": 143,
+    "end": 159
+  },
+  {
+    "entity": "dysmenorrhea",
+    "label": "PROBLEM",
+    "start": 161,
+    "end": 173
+  },
+  {
+    "entity": "small uterine fibroids",
+    "label": "PROBLEM",
+    "start": 179,
+    "end": 201
+  },
+  {
+    "entity": "Menometrorrhagia",
+    "label": "PROBLEM",
+    "start": 268,
+    "end": 284
+  },
+  {
+    "entity": "Dysmenorrhea",
+    "label": "PROBLEM",
+    "start": 290,
+    "end": 302
+  },
+  {
+    "entity": "Small uterine fibroids",
+    "label": "PROBLEM",
+    "start": 308,
+    "end": 330
+  },
+  {
+    "entity": "Menorrhagia",
+    "label": "PROBLEM",
+    "start": 359,
+    "end": 370
+  },
+  {
+    "entity": "Dysmenorrhea",
+    "label": "PROBLEM",
+    "start": 376,
+    "end": 388
+  },
+  {
+    "entity": "Small uterine fibroids",
+    "label": "PROBLEM",
+    "start": 394,
+    "end": 416
+  },
+  {
+    "entity": "Total vaginal hysterectomy",
+    "label": "TREATMENT",
+    "start": 442,
+    "end": 468
+  },
+  {
+    "entity": "vaginal deliveries",
+    "label": "TREATMENT",
+    "start": 578,
+    "end": 596
+  },
+  {
+    "entity": "menometrorrhagia",
+    "label": "PROBLEM",
+    "start": 623,
+    "end": 639
+  },
+  {
+    "entity": "dysmenorrhea",
+    "label": "PROBLEM",
+    "start": 644,
+    "end": 656
+  },
+  {
+    "entity": "Ultrasound",
+    "label": "TEST",
+    "start": 658,
+    "end": 668
+  },
+  {
+    "entity": "a small uterine fibroid",
+    "label": "PROBLEM",
+    "start": 675,
+    "end": 698
+  },
+  {
+    "entity": "contraceptives",
+    "label": "DRUG",
+    "start": 720,
+    "end": 734
+  },
+  {
+    "entity": "surgical therapy",
+    "label": "TREATMENT",
+    "start": 739,
+    "end": 755
+  },
+  {
+    "entity": "reflux",
+    "label": "PROBLEM",
+    "start": 799,
+    "end": 805
+  },
+  {
+    "entity": "Tubal ligation",
+    "label": "TREATMENT",
+    "start": 827,
+    "end": 841
+  },
+  {
+    "entity": "Her discharge hemoglobin",
+    "label": "TEST",
+    "start": 934,
+    "end": 958
+  },
+  {
+    "entity": "a total vaginal hysterectomy",
+    "label": "TREATMENT",
+    "start": 1042,
+    "end": 1070
+  },
+  {
+    "entity": "general anesthesia",
+    "label": "TREATMENT",
+    "start": 1091,
+    "end": 1109
+  },
+  {
+    "entity": "Preoperative meds",
+    "label": "DRUG",
+    "start": 1371,
+    "end": 1388
+  },
+  {
+    "entity": "Vicodin",
+    "label": "DRUG",
+    "start": 1394,
+    "end": 1401
+  },
+  {
+    "entity": "pain",
+    "label": "PROBLEM",
+    "start": 1406,
+    "end": 1410
+  },
+  {
+    "entity": "dysmenorrhea",
+    "label": "PROBLEM",
+    "start": 1472,
+    "end": 1484
+  },
+  {
+    "entity": "uterine fibroids",
+    "label": "PROBLEM",
+    "start": 1486,
+    "end": 1502
+  },
+  {
+    "entity": "total vaginal hysterectomy",
+    "label": "TREATMENT",
+    "start": 1513,
+    "end": 1539
+  },
+  {
+    "entity": "menometrorrhagia",
+    "label": "PROBLEM",
+    "start": 1541,
+    "end": 1557
+  },
+  {
+    "entity": "fibroids",
+    "label": "PROBLEM",
+    "start": 1568,
+    "end": 1576
+  }
+]

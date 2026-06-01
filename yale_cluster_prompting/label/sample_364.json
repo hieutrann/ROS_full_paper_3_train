@@ -1,0 +1,506 @@
+[
+  {
+    "entity": "Physical Exam",
+    "label": "TEST",
+    "start": 71,
+    "end": 84
+  },
+  {
+    "entity": "Pap",
+    "label": "TEST",
+    "start": 89,
+    "end": 92
+  },
+  {
+    "entity": "complete physical",
+    "label": "TEST",
+    "start": 142,
+    "end": 159
+  },
+  {
+    "entity": "Pap",
+    "label": "TEST",
+    "start": 161,
+    "end": 164
+  },
+  {
+    "entity": "breast exam",
+    "label": "TEST",
+    "start": 169,
+    "end": 180
+  },
+  {
+    "entity": "complete physical",
+    "label": "TEST",
+    "start": 292,
+    "end": 309
+  },
+  {
+    "entity": "Pap",
+    "label": "TEST",
+    "start": 311,
+    "end": 314
+  },
+  {
+    "entity": "breast exam",
+    "label": "TEST",
+    "start": 319,
+    "end": 330
+  },
+  {
+    "entity": "Her last Pap smear",
+    "label": "TEST",
+    "start": 333,
+    "end": 351
+  },
+  {
+    "entity": "some midchest pain",
+    "label": "PROBLEM",
+    "start": 436,
+    "end": 454
+  },
+  {
+    "entity": "nausea",
+    "label": "PROBLEM",
+    "start": 594,
+    "end": 600
+  },
+  {
+    "entity": "vomiting",
+    "label": "PROBLEM",
+    "start": 602,
+    "end": 610
+  },
+  {
+    "entity": "diaphoresis",
+    "label": "PROBLEM",
+    "start": 612,
+    "end": 623
+  },
+  {
+    "entity": "shortness of breath",
+    "label": "PROBLEM",
+    "start": 627,
+    "end": 646
+  },
+  {
+    "entity": "EKG",
+    "label": "TEST",
+    "start": 719,
+    "end": 722
+  },
+  {
+    "entity": "her foot surgery",
+    "label": "TREATMENT",
+    "start": 797,
+    "end": 813
+  },
+  {
+    "entity": "Reactive airway disease",
+    "label": "PROBLEM",
+    "start": 855,
+    "end": 878
+  },
+  {
+    "entity": "rheumatoid arthritis",
+    "label": "PROBLEM",
+    "start": 880,
+    "end": 900
+  },
+  {
+    "entity": "surgery on her hands and feet",
+    "label": "TREATMENT",
+    "start": 909,
+    "end": 938
+  },
+  {
+    "entity": "iron deficiency anemia",
+    "label": "PROBLEM",
+    "start": 1006,
+    "end": 1028
+  },
+  {
+    "entity": "osteoporosis",
+    "label": "PROBLEM",
+    "start": 1030,
+    "end": 1042
+  },
+  {
+    "entity": "hypothyroidism",
+    "label": "PROBLEM",
+    "start": 1048,
+    "end": 1062
+  },
+  {
+    "entity": "Methotrexate",
+    "label": "DRUG",
+    "start": 1078,
+    "end": 1090
+  },
+  {
+    "entity": "Fosamax",
+    "label": "DRUG",
+    "start": 1111,
+    "end": 1118
+  },
+  {
+    "entity": "folic acid",
+    "label": "DRUG",
+    "start": 1133,
+    "end": 1143
+  },
+  {
+    "entity": "amitriptyline",
+    "label": "DRUG",
+    "start": 1151,
+    "end": 1164
+  },
+  {
+    "entity": "Synthroid",
+    "label": "DRUG",
+    "start": 1178,
+    "end": 1187
+  },
+  {
+    "entity": "calcium",
+    "label": "DRUG",
+    "start": 1204,
+    "end": 1211
+  },
+  {
+    "entity": "multivitamin",
+    "label": "DRUG",
+    "start": 1248,
+    "end": 1260
+  },
+  {
+    "entity": "baby aspirin",
+    "label": "DRUG",
+    "start": 1268,
+    "end": 1280
+  },
+  {
+    "entity": "Colace",
+    "label": "DRUG",
+    "start": 1291,
+    "end": 1297
+  },
+  {
+    "entity": "Weight",
+    "label": "TEST",
+    "start": 1672,
+    "end": 1678
+  },
+  {
+    "entity": "Blood pressure",
+    "label": "TEST",
+    "start": 1685,
+    "end": 1699
+  },
+  {
+    "entity": "Pulse",
+    "label": "TEST",
+    "start": 1709,
+    "end": 1714
+  },
+  {
+    "entity": "Respirations",
+    "label": "TEST",
+    "start": 1720,
+    "end": 1732
+  },
+  {
+    "entity": "Temperature",
+    "label": "TEST",
+    "start": 1738,
+    "end": 1749
+  },
+  {
+    "entity": "acute distress",
+    "label": "PROBLEM",
+    "start": 1825,
+    "end": 1839
+  },
+  {
+    "entity": "lymphadenopathy",
+    "label": "PROBLEM",
+    "start": 1898,
+    "end": 1913
+  },
+  {
+    "entity": "thyromegaly",
+    "label": "PROBLEM",
+    "start": 1919,
+    "end": 1930
+  },
+  {
+    "entity": "auscultation",
+    "label": "TEST",
+    "start": 1949,
+    "end": 1961
+  },
+  {
+    "entity": "rate",
+    "label": "TEST",
+    "start": 2000,
+    "end": 2004
+  },
+  {
+    "entity": "rhythm",
+    "label": "TEST",
+    "start": 2009,
+    "end": 2015
+  },
+  {
+    "entity": "hepatosplenomegaly",
+    "label": "PROBLEM",
+    "start": 2074,
+    "end": 2092
+  },
+  {
+    "entity": "nipple discharge",
+    "label": "PROBLEM",
+    "start": 2107,
+    "end": 2123
+  },
+  {
+    "entity": "lumps",
+    "label": "PROBLEM",
+    "start": 2129,
+    "end": 2134
+  },
+  {
+    "entity": "masses",
+    "label": "PROBLEM",
+    "start": 2138,
+    "end": 2144
+  },
+  {
+    "entity": "dimpling of the skin",
+    "label": "PROBLEM",
+    "start": 2159,
+    "end": 2179
+  },
+  {
+    "entity": "Self-breast exam",
+    "label": "TEST",
+    "start": 2217,
+    "end": 2233
+  },
+  {
+    "entity": "Atrophic vaginal mucosa",
+    "label": "PROBLEM",
+    "start": 2295,
+    "end": 2318
+  },
+  {
+    "entity": "cervical lesions",
+    "label": "PROBLEM",
+    "start": 2324,
+    "end": 2340
+  },
+  {
+    "entity": "cervical motion tenderness",
+    "label": "PROBLEM",
+    "start": 2346,
+    "end": 2372
+  },
+  {
+    "entity": "adnexal tenderness",
+    "label": "PROBLEM",
+    "start": 2378,
+    "end": 2396
+  },
+  {
+    "entity": "masses",
+    "label": "PROBLEM",
+    "start": 2400,
+    "end": 2406
+  },
+  {
+    "entity": "stool",
+    "label": "PROBLEM",
+    "start": 2453,
+    "end": 2458
+  },
+  {
+    "entity": "rectal masses",
+    "label": "PROBLEM",
+    "start": 2485,
+    "end": 2498
+  },
+  {
+    "entity": "cyanosis",
+    "label": "PROBLEM",
+    "start": 2526,
+    "end": 2534
+  },
+  {
+    "entity": "clubbing",
+    "label": "PROBLEM",
+    "start": 2536,
+    "end": 2544
+  },
+  {
+    "entity": "edema",
+    "label": "PROBLEM",
+    "start": 2548,
+    "end": 2553
+  },
+  {
+    "entity": "obvious rheumatoid arthritis of her hands",
+    "label": "PROBLEM",
+    "start": 2570,
+    "end": 2611
+  },
+  {
+    "entity": "Chest pain",
+    "label": "PROBLEM",
+    "start": 2663,
+    "end": 2673
+  },
+  {
+    "entity": "ECG",
+    "label": "TEST",
+    "start": 2807,
+    "end": 2810
+  },
+  {
+    "entity": "further cardiac workup",
+    "label": "TEST",
+    "start": 2889,
+    "end": 2911
+  },
+  {
+    "entity": "some GI reflux type symptoms",
+    "label": "PROBLEM",
+    "start": 2966,
+    "end": 2994
+  },
+  {
+    "entity": "Hypothyroidism",
+    "label": "PROBLEM",
+    "start": 3000,
+    "end": 3014
+  },
+  {
+    "entity": "TSH",
+    "label": "TEST",
+    "start": 3033,
+    "end": 3036
+  },
+  {
+    "entity": "medication",
+    "label": "DRUG",
+    "start": 3080,
+    "end": 3090
+  },
+  {
+    "entity": "Rheumatoid arthritis",
+    "label": "PROBLEM",
+    "start": 3139,
+    "end": 3159
+  },
+  {
+    "entity": "her methotrexate",
+    "label": "DRUG",
+    "start": 3171,
+    "end": 3187
+  },
+  {
+    "entity": "Osteoporosis",
+    "label": "PROBLEM",
+    "start": 3262,
+    "end": 3274
+  },
+  {
+    "entity": "a repeat DEXA",
+    "label": "TEST",
+    "start": 3304,
+    "end": 3317
+  },
+  {
+    "entity": "Pap smear",
+    "label": "TEST",
+    "start": 3388,
+    "end": 3397
+  },
+  {
+    "entity": "mammogram",
+    "label": "TEST",
+    "start": 3453,
+    "end": 3462
+  },
+  {
+    "entity": "complete physical",
+    "label": "TEST",
+    "start": 3499,
+    "end": 3516
+  },
+  {
+    "entity": "pap smear",
+    "label": "TEST",
+    "start": 3518,
+    "end": 3527
+  },
+  {
+    "entity": "breast exam",
+    "label": "TEST",
+    "start": 3529,
+    "end": 3540
+  },
+  {
+    "entity": "rheumatoid arthritis",
+    "label": "PROBLEM",
+    "start": 3542,
+    "end": 3562
+  },
+  {
+    "entity": "masses",
+    "label": "PROBLEM",
+    "start": 3564,
+    "end": 3570
+  },
+  {
+    "entity": "smear",
+    "label": "TEST",
+    "start": 3581,
+    "end": 3586
+  },
+  {
+    "entity": "lymphadenopathy",
+    "label": "PROBLEM",
+    "start": 3588,
+    "end": 3603
+  },
+  {
+    "entity": "tenderness",
+    "label": "PROBLEM",
+    "start": 3622,
+    "end": 3632
+  },
+  {
+    "entity": "rheumatoid",
+    "label": "PROBLEM",
+    "start": 3661,
+    "end": 3671
+  },
+  {
+    "entity": "arthritis",
+    "label": "PROBLEM",
+    "start": 3673,
+    "end": 3682
+  },
+  {
+    "entity": "masses",
+    "label": "PROBLEM",
+    "start": 3684,
+    "end": 3690
+  },
+  {
+    "entity": "pap",
+    "label": "TEST",
+    "start": 3710,
+    "end": 3713
+  }
+]

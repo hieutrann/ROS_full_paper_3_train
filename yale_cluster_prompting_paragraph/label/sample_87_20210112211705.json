@@ -1,0 +1,212 @@
+[
+  {
+    "entity": "pneumonia",
+    "label": "PROBLEM",
+    "start": 140,
+    "end": 149
+  },
+  {
+    "entity": "positive blood count",
+    "label": "PROBLEM",
+    "start": 155,
+    "end": 175
+  },
+  {
+    "entity": "vomiting",
+    "label": "PROBLEM",
+    "start": 196,
+    "end": 204
+  },
+  {
+    "entity": "a probable seizure",
+    "label": "PROBLEM",
+    "start": 209,
+    "end": 227
+  },
+  {
+    "entity": "pneumonia",
+    "label": "PROBLEM",
+    "start": 325,
+    "end": 334
+  },
+  {
+    "entity": "positive blood count",
+    "label": "PROBLEM",
+    "start": 340,
+    "end": 360
+  },
+  {
+    "entity": "antibiotics",
+    "label": "DRUG",
+    "start": 386,
+    "end": 397
+  },
+  {
+    "entity": "antibiotics",
+    "label": "DRUG",
+    "start": 407,
+    "end": 418
+  },
+  {
+    "entity": "a temperature",
+    "label": "TEST",
+    "start": 540,
+    "end": 553
+  },
+  {
+    "entity": "strep",
+    "label": "PROBLEM",
+    "start": 584,
+    "end": 589
+  },
+  {
+    "entity": "penicillin",
+    "label": "DRUG",
+    "start": 612,
+    "end": 622
+  },
+  {
+    "entity": "vomiting",
+    "label": "PROBLEM",
+    "start": 673,
+    "end": 681
+  },
+  {
+    "entity": "probable seizure",
+    "label": "PROBLEM",
+    "start": 688,
+    "end": 704
+  },
+  {
+    "entity": "Temperature",
+    "label": "TEST",
+    "start": 706,
+    "end": 717
+  },
+  {
+    "entity": "lethargic",
+    "label": "PROBLEM",
+    "start": 737,
+    "end": 746
+  },
+  {
+    "entity": "an LP",
+    "label": "PROBLEM",
+    "start": 767,
+    "end": 772
+  },
+  {
+    "entity": "blood cultures",
+    "label": "TEST",
+    "start": 806,
+    "end": 820
+  },
+  {
+    "entity": "The CSF",
+    "label": "TEST",
+    "start": 853,
+    "end": 860
+  },
+  {
+    "entity": "anesthesia",
+    "label": "TREATMENT",
+    "start": 951,
+    "end": 961
+  },
+  {
+    "entity": "auscultation",
+    "label": "TEST",
+    "start": 1033,
+    "end": 1045
+  },
+  {
+    "entity": "percussion",
+    "label": "TEST",
+    "start": 1050,
+    "end": 1060
+  },
+  {
+    "entity": "White count",
+    "label": "TEST",
+    "start": 1122,
+    "end": 1133
+  },
+  {
+    "entity": "CSF glucose",
+    "label": "TEST",
+    "start": 1185,
+    "end": 1196
+  },
+  {
+    "entity": "protein",
+    "label": "TEST",
+    "start": 1205,
+    "end": 1212
+  },
+  {
+    "entity": "The Gram-stain",
+    "label": "TEST",
+    "start": 1246,
+    "end": 1260
+  },
+  {
+    "entity": "has a febrile seizure",
+    "label": "PROBLEM",
+    "start": 1316,
+    "end": 1337
+  },
+  {
+    "entity": "her temperature",
+    "label": "TEST",
+    "start": 1390,
+    "end": 1405
+  },
+  {
+    "entity": "her white count",
+    "label": "TEST",
+    "start": 1417,
+    "end": 1432
+  },
+  {
+    "entity": "antibiotics",
+    "label": "DRUG",
+    "start": 1499,
+    "end": 1510
+  },
+  {
+    "entity": "febrile seizure",
+    "label": "PROBLEM",
+    "start": 1512,
+    "end": 1527
+  },
+  {
+    "entity": "temperature",
+    "label": "TEST",
+    "start": 1529,
+    "end": 1540
+  },
+  {
+    "entity": "blood count",
+    "label": "TEST",
+    "start": 1542,
+    "end": 1553
+  },
+  {
+    "entity": "white count",
+    "label": "TEST",
+    "start": 1555,
+    "end": 1566
+  },
+  {
+    "entity": "pneumonia",
+    "label": "PROBLEM",
+    "start": 1568,
+    "end": 1577
+  },
+  {
+    "entity": "seizure",
+    "label": "PROBLEM",
+    "start": 1579,
+    "end": 1586
+  }
+]

@@ -1,0 +1,248 @@
+[
+  {
+    "entity": "diabetes mellitus",
+    "label": "PROBLEM",
+    "start": 201,
+    "end": 218
+  },
+  {
+    "entity": "cerebrovascular accident",
+    "label": "PROBLEM",
+    "start": 232,
+    "end": 256
+  },
+  {
+    "entity": "discomfort on his right side",
+    "label": "PROBLEM",
+    "start": 353,
+    "end": 381
+  },
+  {
+    "entity": "EMG studies",
+    "label": "TEST",
+    "start": 396,
+    "end": 407
+  },
+  {
+    "entity": "his stroke",
+    "label": "PROBLEM",
+    "start": 433,
+    "end": 443
+  },
+  {
+    "entity": "medications",
+    "label": "DRUG",
+    "start": 524,
+    "end": 535
+  },
+  {
+    "entity": "his blood sugars",
+    "label": "TEST",
+    "start": 581,
+    "end": 597
+  },
+  {
+    "entity": "insulin",
+    "label": "DRUG",
+    "start": 659,
+    "end": 666
+  },
+  {
+    "entity": "Re-evaluation of symptoms",
+    "label": "TEST",
+    "start": 676,
+    "end": 701
+  },
+  {
+    "entity": "Vitals",
+    "label": "TEST",
+    "start": 863,
+    "end": 869
+  },
+  {
+    "entity": "Wt",
+    "label": "TEST",
+    "start": 871,
+    "end": 873
+  },
+  {
+    "entity": "B/P",
+    "label": "TEST",
+    "start": 884,
+    "end": 887
+  },
+  {
+    "entity": "T",
+    "label": "TEST",
+    "start": 897,
+    "end": 898
+  },
+  {
+    "entity": "P",
+    "label": "TEST",
+    "start": 906,
+    "end": 907
+  },
+  {
+    "entity": "acute distress",
+    "label": "PROBLEM",
+    "start": 982,
+    "end": 996
+  },
+  {
+    "entity": "some missing dentition",
+    "label": "PROBLEM",
+    "start": 1045,
+    "end": 1067
+  },
+  {
+    "entity": "Dry and flaky",
+    "label": "PROBLEM",
+    "start": 1075,
+    "end": 1088
+  },
+  {
+    "entity": "pedal pulse",
+    "label": "TEST",
+    "start": 1155,
+    "end": 1166
+  },
+  {
+    "entity": "Diminished but clear",
+    "label": "PROBLEM",
+    "start": 1207,
+    "end": 1227
+  },
+  {
+    "entity": "Scaphoid",
+    "label": "PROBLEM",
+    "start": 1238,
+    "end": 1246
+  },
+  {
+    "entity": "His prostate check",
+    "label": "TEST",
+    "start": 1256,
+    "end": 1274
+  },
+  {
+    "entity": "Sensation with monofilament testing",
+    "label": "TEST",
+    "start": 1307,
+    "end": 1342
+  },
+  {
+    "entity": "Diabetes mellitus",
+    "label": "PROBLEM",
+    "start": 1405,
+    "end": 1422
+  },
+  {
+    "entity": "Neuropathy",
+    "label": "PROBLEM",
+    "start": 1427,
+    "end": 1437
+  },
+  {
+    "entity": "cerebrovascular accident",
+    "label": "PROBLEM",
+    "start": 1454,
+    "end": 1478
+  },
+  {
+    "entity": "medications",
+    "label": "DRUG",
+    "start": 1497,
+    "end": 1508
+  },
+  {
+    "entity": "an A1c",
+    "label": "TEST",
+    "start": 1535,
+    "end": 1541
+  },
+  {
+    "entity": "BMP",
+    "label": "TEST",
+    "start": 1546,
+    "end": 1549
+  },
+  {
+    "entity": "a colonoscopy",
+    "label": "TREATMENT",
+    "start": 1592,
+    "end": 1605
+  },
+  {
+    "entity": "stools for occult blood",
+    "label": "TEST",
+    "start": 1655,
+    "end": 1678
+  },
+  {
+    "entity": "a PSA",
+    "label": "TEST",
+    "start": 1694,
+    "end": 1699
+  },
+  {
+    "entity": "eye exams",
+    "label": "TEST",
+    "start": 1722,
+    "end": 1731
+  },
+  {
+    "entity": "foot exams",
+    "label": "TEST",
+    "start": 1733,
+    "end": 1743
+  },
+  {
+    "entity": "Accu-Cheks",
+    "label": "TEST",
+    "start": 1745,
+    "end": 1755
+  },
+  {
+    "entity": "diabetes mellitus",
+    "label": "PROBLEM",
+    "start": 1832,
+    "end": 1849
+  },
+  {
+    "entity": "neuropathy",
+    "label": "PROBLEM",
+    "start": 1851,
+    "end": 1861
+  },
+  {
+    "entity": "post cerebrovascular accident",
+    "label": "PROBLEM",
+    "start": 1882,
+    "end": 1911
+  },
+  {
+    "entity": "post cerebrovascular",
+    "label": "PROBLEM",
+    "start": 1928,
+    "end": 1948
+  },
+  {
+    "entity": "cerebrovascular accident",
+    "label": "PROBLEM",
+    "start": 1950,
+    "end": 1974
+  },
+  {
+    "entity": "accident",
+    "label": "PROBLEM",
+    "start": 1976,
+    "end": 1984
+  },
+  {
+    "entity": "insulin",
+    "label": "DRUG",
+    "start": 2016,
+    "end": 2023
+  }
+]

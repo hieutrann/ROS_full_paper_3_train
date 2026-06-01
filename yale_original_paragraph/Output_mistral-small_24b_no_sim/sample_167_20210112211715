@@ -1,0 +1,185 @@
+[
+  {
+    "Right-sided facial droop": "PROBLEM"
+  },
+  {
+    "Right-sided weakness": "PROBLEM"
+  },
+  {
+    "cerebrovascular accident": "PROBLEM"
+  },
+  {
+    "CT scan": "TEST"
+  },
+  {
+    "stroke": "PROBLEM"
+  },
+  {
+    "dementia": "PROBLEM"
+  },
+  {
+    "expressive aphasia": "PROBLEM"
+  },
+  {
+    "urinary tract infection": "PROBLEM"
+  },
+  {
+    "PENICILLIN": "DRUG"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "Chronic obstructive pulmonary disease": "PROBLEM"
+  },
+  {
+    "anxiety disorder": "PROBLEM"
+  },
+  {
+    "breast cancer": "PROBLEM"
+  },
+  {
+    "osteoarthritis": "PROBLEM"
+  },
+  {
+    "urine incontinence": "PROBLEM"
+  },
+  {
+    "stool incontinence": "PROBLEM"
+  },
+  {
+    "Pulse": "TEST"
+  },
+  {
+    "respirations": "TEST"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "facial droop": "PROBLEM"
+  },
+  {
+    "systolic murmur": "PROBLEM"
+  },
+  {
+    "pressure ulcer": "PROBLEM"
+  },
+  {
+    "CT scan": "TEST"
+  },
+  {
+    "Sodium": "TEST"
+  },
+  {
+    "potassium": "TEST"
+  },
+  {
+    "chloride": "TEST"
+  },
+  {
+    "bicarbonate": "TEST"
+  },
+  {
+    "BUN": "TEST"
+  },
+  {
+    "creatinine": "TEST"
+  },
+  {
+    "glucose": "TEST"
+  },
+  {
+    "white blood cell count": "TEST"
+  },
+  {
+    "hemoglobin": "TEST"
+  },
+  {
+    "hematocrit": "TEST"
+  },
+  {
+    "platelet count": "TEST"
+  },
+  {
+    "urinalysis": "TEST"
+  },
+  {
+    "culture": "TEST"
+  },
+  {
+    "E. coli": "PROBLEM"
+  },
+  {
+    "amikacin": "DRUG"
+  },
+  {
+    "nitrofurantoin": "DRUG"
+  },
+  {
+    "imipenem": "DRUG"
+  },
+  {
+    "meropenem": "DRUG"
+  },
+  {
+    "Vasotec": "DRUG"
+  },
+  {
+    "Lovenox": "DRUG"
+  },
+  {
+    "Ecotrin": "DRUG"
+  },
+  {
+    "Aricept": "DRUG"
+  },
+  {
+    "Diovan": "DRUG"
+  },
+  {
+    "multivitamin": "DRUG"
+  },
+  {
+    "calcium": "DRUG"
+  },
+  {
+    "vitamin D": "DRUG"
+  },
+  {
+    "Tylenol": "DRUG"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "D5 normal saline": "DRUG"
+  },
+  {
+    "potassium": "DRUG"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "right-sided weakness": "PROBLEM"
+  },
+  {
+    "facial droop": "PROBLEM"
+  },
+  {
+    "wheelchair bound": "PROBLEM"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "swallowing evaluation": "TEST"
+  },
+  {
+    "cerebrovascular accident": "PROBLEM"
+  },
+  {
+    "weakness": "PROBLEM"
+  }
+]

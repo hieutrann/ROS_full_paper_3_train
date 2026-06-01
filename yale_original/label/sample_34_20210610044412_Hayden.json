@@ -1,0 +1,254 @@
+[
+  {
+    "entity": "chronically ill",
+    "label": "PROBLEM",
+    "start": 202,
+    "end": 217
+  },
+  {
+    "entity": "VITAL SIGNS",
+    "label": "TEST",
+    "start": 258,
+    "end": 269
+  },
+  {
+    "entity": "a blood pressure",
+    "label": "TEST",
+    "start": 279,
+    "end": 295
+  },
+  {
+    "entity": "temperature",
+    "label": "TEST",
+    "start": 302,
+    "end": 313
+  },
+  {
+    "entity": "respirations",
+    "label": "TEST",
+    "start": 320,
+    "end": 332
+  },
+  {
+    "entity": "pulse",
+    "label": "TEST",
+    "start": 340,
+    "end": 345
+  },
+  {
+    "entity": "chronically ill",
+    "label": "PROBLEM",
+    "start": 427,
+    "end": 442
+  },
+  {
+    "entity": "Funduscopic examination",
+    "label": "TEST",
+    "start": 488,
+    "end": 511
+  },
+  {
+    "entity": "auscultation",
+    "label": "TEST",
+    "start": 699,
+    "end": 711
+  },
+  {
+    "entity": "respiratory rate",
+    "label": "TEST",
+    "start": 750,
+    "end": 766
+  },
+  {
+    "entity": "egophony",
+    "label": "PROBLEM",
+    "start": 801,
+    "end": 809
+  },
+  {
+    "entity": "retractions",
+    "label": "PROBLEM",
+    "start": 824,
+    "end": 835
+  },
+  {
+    "entity": "secondary muscle use",
+    "label": "PROBLEM",
+    "start": 839,
+    "end": 859
+  },
+  {
+    "entity": "bilateral breath sounds",
+    "label": "TEST",
+    "start": 866,
+    "end": 889
+  },
+  {
+    "entity": "jugular venous distention",
+    "label": "PROBLEM",
+    "start": 922,
+    "end": 947
+  },
+  {
+    "entity": "carotid bruits",
+    "label": "PROBLEM",
+    "start": 951,
+    "end": 965
+  },
+  {
+    "entity": "heart size",
+    "label": "TEST",
+    "start": 982,
+    "end": 992
+  },
+  {
+    "entity": "percussion",
+    "label": "TEST",
+    "start": 996,
+    "end": 1006
+  },
+  {
+    "entity": "murmur",
+    "label": "PROBLEM",
+    "start": 1020,
+    "end": 1026
+  },
+  {
+    "entity": "S1",
+    "label": "TEST",
+    "start": 1035,
+    "end": 1037
+  },
+  {
+    "entity": "S2",
+    "label": "TEST",
+    "start": 1042,
+    "end": 1044
+  },
+  {
+    "entity": "gallop",
+    "label": "PROBLEM",
+    "start": 1070,
+    "end": 1076
+  },
+  {
+    "entity": "palpation",
+    "label": "TEST",
+    "start": 1097,
+    "end": 1106
+  },
+  {
+    "entity": "organomegaly",
+    "label": "PROBLEM",
+    "start": 1142,
+    "end": 1154
+  },
+  {
+    "entity": "rebound tenderness",
+    "label": "PROBLEM",
+    "start": 1162,
+    "end": 1180
+  },
+  {
+    "entity": "Bowel sounds",
+    "label": "TEST",
+    "start": 1182,
+    "end": 1194
+  },
+  {
+    "entity": "Obturator and psoas signs",
+    "label": "TEST",
+    "start": 1207,
+    "end": 1232
+  },
+  {
+    "entity": "bladder tenderness",
+    "label": "PROBLEM",
+    "start": 1267,
+    "end": 1285
+  },
+  {
+    "entity": "flank pain",
+    "label": "PROBLEM",
+    "start": 1296,
+    "end": 1306
+  },
+  {
+    "entity": "Glasgow Coma Scale",
+    "label": "TEST",
+    "start": 1464,
+    "end": 1482
+  },
+  {
+    "entity": "motor and cerebellar tests",
+    "label": "TEST",
+    "start": 1544,
+    "end": 1570
+  },
+  {
+    "entity": "Reflexes",
+    "label": "TEST",
+    "start": 1572,
+    "end": 1580
+  },
+  {
+    "entity": "abnormal lymph nodes",
+    "label": "PROBLEM",
+    "start": 1610,
+    "end": 1630
+  },
+  {
+    "entity": "bleeding",
+    "label": "PROBLEM",
+    "start": 1644,
+    "end": 1652
+  },
+  {
+    "entity": "skin purpura",
+    "label": "PROBLEM",
+    "start": 1654,
+    "end": 1666
+  },
+  {
+    "entity": "petechiae",
+    "label": "PROBLEM",
+    "start": 1668,
+    "end": 1677
+  },
+  {
+    "entity": "hemorrhage",
+    "label": "PROBLEM",
+    "start": 1681,
+    "end": 1691
+  },
+  {
+    "entity": "overt depression",
+    "label": "PROBLEM",
+    "start": 1723,
+    "end": 1739
+  },
+  {
+    "entity": "suicidal ideations",
+    "label": "PROBLEM",
+    "start": 1743,
+    "end": 1761
+  },
+  {
+    "entity": "jugular venous distention",
+    "label": "PROBLEM",
+    "start": 1793,
+    "end": 1818
+  },
+  {
+    "entity": "physical exam",
+    "label": "TEST",
+    "start": 1843,
+    "end": 1856
+  },
+  {
+    "entity": "tenderness",
+    "label": "PROBLEM",
+    "start": 1884,
+    "end": 1894
+  }
+]

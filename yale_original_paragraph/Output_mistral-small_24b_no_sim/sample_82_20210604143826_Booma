@@ -1,0 +1,242 @@
+[
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "tricuspid regurgitation": "PROBLEM"
+  },
+  {
+    "pulmonary hypertension": "PROBLEM"
+  },
+  {
+    "aortic stenosis": "PROBLEM"
+  },
+  {
+    "mitral regurgitation": "PROBLEM"
+  },
+  {
+    "atrial fibrillation": "PROBLEM"
+  },
+  {
+    "fall": "PROBLEM"
+  },
+  {
+    "rapid atrial tachyarrhythmia": "PROBLEM"
+  },
+  {
+    "multifocal atrial tachycardia": "PROBLEM"
+  },
+  {
+    "wandering atrial pacemaker": "PROBLEM"
+  },
+  {
+    "palpitations": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "dizzy spells": "PROBLEM"
+  },
+  {
+    "syncope": "PROBLEM"
+  },
+  {
+    "bradycardia": "PROBLEM"
+  },
+  {
+    "stroke": "PROBLEM"
+  },
+  {
+    "cancer": "PROBLEM"
+  },
+  {
+    "vomiting of blood": "PROBLEM"
+  },
+  {
+    "coughing up blood": "PROBLEM"
+  },
+  {
+    "bright red blood per rectum": "PROBLEM"
+  },
+  {
+    "bleeding": "PROBLEM"
+  },
+  {
+    "stomach ulcers": "PROBLEM"
+  },
+  {
+    "renal calculi": "PROBLEM"
+  },
+  {
+    "cholelithiasis": "PROBLEM"
+  },
+  {
+    "asthma": "PROBLEM"
+  },
+  {
+    "emphysema": "PROBLEM"
+  },
+  {
+    "pneumonia": "PROBLEM"
+  },
+  {
+    "tuberculosis": "PROBLEM"
+  },
+  {
+    "sleep apnea": "PROBLEM"
+  },
+  {
+    "home oxygen use": "PROBLEM"
+  },
+  {
+    "peripheral edema": "PROBLEM"
+  },
+  {
+    "MI": "PROBLEM"
+  },
+  {
+    "diabetes": "PROBLEM"
+  },
+  {
+    "GERD": "PROBLEM"
+  },
+  {
+    "depressed": "PROBLEM"
+  },
+  {
+    "rheumatologic conditions": "PROBLEM"
+  },
+  {
+    "psoriasis": "PROBLEM"
+  },
+  {
+    "lupus": "PROBLEM"
+  },
+  {
+    "left hip fracture": "PROBLEM"
+  },
+  {
+    "hypokalemia": "PROBLEM"
+  },
+  {
+    "Cardizem": "DRUG"
+  },
+  {
+    "Persantine Myoview nuclear rest-stress test scan": "TEST"
+  },
+  {
+    "EKGs": "TEST"
+  },
+  {
+    "EKG": "TEST"
+  },
+  {
+    "Multivitamin": "DRUG"
+  },
+  {
+    "Aspirin": "DRUG"
+  },
+  {
+    "Lisinopril": "DRUG"
+  },
+  {
+    "Felodipine": "DRUG"
+  },
+  {
+    "Klor-Con": "DRUG"
+  },
+  {
+    "Omeprazole": "DRUG"
+  },
+  {
+    "MiraLax": "DRUG"
+  },
+  {
+    "Lasix": "DRUG"
+  },
+  {
+    "Toprol": "DRUG"
+  },
+  {
+    "verapamil": "DRUG"
+  },
+  {
+    "PENICILLIN": "DRUG"
+  },
+  {
+    "Pulse": "TEST"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "temperature": "TEST"
+  },
+  {
+    "respiratory rate": "TEST"
+  },
+  {
+    "O2 saturation": "TEST"
+  },
+  {
+    "chest x-ray": "TEST"
+  },
+  {
+    "radiology report": "TEST"
+  },
+  {
+    "sodium": "TEST"
+  },
+  {
+    "potassium": "TEST"
+  },
+  {
+    "chloride": "TEST"
+  },
+  {
+    "bicarbonate": "TEST"
+  },
+  {
+    "BUN": "TEST"
+  },
+  {
+    "creatinine": "TEST"
+  },
+  {
+    "glucose": "TEST"
+  },
+  {
+    "magnesium": "TEST"
+  },
+  {
+    "Troponin": "TEST"
+  },
+  {
+    "INR": "TEST"
+  },
+  {
+    "white blood cell count": "TEST"
+  },
+  {
+    "hematocrit": "TEST"
+  },
+  {
+    "platelet count": "TEST"
+  },
+  {
+    "telemetry": "TEST"
+  },
+  {
+    "surgery": "TREATMENT"
+  },
+  {
+    "incision": "TREATMENT"
+  },
+  {
+    "drainage": "TREATMENT"
+  }
+]

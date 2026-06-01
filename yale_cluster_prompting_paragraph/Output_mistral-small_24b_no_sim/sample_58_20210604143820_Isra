@@ -1,0 +1,143 @@
+[
+  {
+    "calcifications": "PROBLEM"
+  },
+  {
+    "left breast": "PROBLEM"
+  },
+  {
+    "swelling": "PROBLEM"
+  },
+  {
+    "pain": "PROBLEM"
+  },
+  {
+    "mass": "PROBLEM"
+  },
+  {
+    "false aneurysm": "PROBLEM"
+  },
+  {
+    "hematoma": "PROBLEM"
+  },
+  {
+    "ecchymosis": "PROBLEM"
+  },
+  {
+    "breast cancer": "PROBLEM"
+  },
+  {
+    "asthma": "PROBLEM"
+  },
+  {
+    "pneumonia": "PROBLEM"
+  },
+  {
+    "colon cancer": "PROBLEM"
+  },
+  {
+    "heart disease": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "cerebrovascular accidents": "PROBLEM"
+  },
+  {
+    "chronic obstructive lung disease": "PROBLEM"
+  },
+  {
+    "gastroesophageal reflux disease": "PROBLEM"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "sciatica": "PROBLEM"
+  },
+  {
+    "arthritis": "PROBLEM"
+  },
+  {
+    "skin cancers": "PROBLEM"
+  },
+  {
+    "transient ischemic attack": "PROBLEM"
+  },
+  {
+    "osteopenia": "PROBLEM"
+  },
+  {
+    "osteoporosis": "PROBLEM"
+  },
+  {
+    "anxiety": "PROBLEM"
+  },
+  {
+    "mammography": "TEST"
+  },
+  {
+    "stereotactic core needle biopsy": "TEST"
+  },
+  {
+    "sonographic evaluation": "TEST"
+  },
+  {
+    "radiograph": "TEST"
+  },
+  {
+    "Plavix": "DRUG"
+  },
+  {
+    "Arava": "DRUG"
+  },
+  {
+    "Nexium": "DRUG"
+  },
+  {
+    "Fosamax": "DRUG"
+  },
+  {
+    "Advair": "DRUG"
+  },
+  {
+    "Singulair": "DRUG"
+  },
+  {
+    "Spiriva": "DRUG"
+  },
+  {
+    "Lexapro": "DRUG"
+  },
+  {
+    "ASPIRIN": "DRUG"
+  },
+  {
+    "PENICILLIN": "DRUG"
+  },
+  {
+    "IODINE": "DRUG"
+  },
+  {
+    "CODEINE": "DRUG"
+  },
+  {
+    "excisional biopsy": "TREATMENT"
+  },
+  {
+    "guidewire localization": "TREATMENT"
+  },
+  {
+    "introperative specimen radiography": "TREATMENT"
+  },
+  {
+    "colon resection": "TREATMENT"
+  },
+  {
+    "sinus surgeries": "TREATMENT"
+  },
+  {
+    "local excision": "TREATMENT"
+  }
+]

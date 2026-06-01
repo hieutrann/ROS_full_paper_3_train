@@ -1,0 +1,626 @@
+[
+  {
+    "entity": "a scalp skin biopsy",
+    "label": "TEST",
+    "start": 122,
+    "end": 141
+  },
+  {
+    "entity": "pathology specimen",
+    "label": "TEST",
+    "start": 147,
+    "end": 165
+  },
+  {
+    "entity": "Acute right lobar pneumonia",
+    "label": "PROBLEM",
+    "start": 307,
+    "end": 334
+  },
+  {
+    "entity": "Hypoxemia",
+    "label": "PROBLEM",
+    "start": 339,
+    "end": 348
+  },
+  {
+    "entity": "hypotension",
+    "label": "PROBLEM",
+    "start": 353,
+    "end": 364
+  },
+  {
+    "entity": "acute right lobar pneumonia",
+    "label": "PROBLEM",
+    "start": 378,
+    "end": 405
+  },
+  {
+    "entity": "Electrolyte abnormality",
+    "label": "PROBLEM",
+    "start": 410,
+    "end": 433
+  },
+  {
+    "entity": "hyponatremia",
+    "label": "PROBLEM",
+    "start": 439,
+    "end": 451
+  },
+  {
+    "entity": "hypokalemia",
+    "label": "PROBLEM",
+    "start": 456,
+    "end": 467
+  },
+  {
+    "entity": "Elevated liver function tests",
+    "label": "PROBLEM",
+    "start": 484,
+    "end": 513
+  },
+  {
+    "entity": "moderate-to-severe dementia, Alzheimer's type",
+    "label": "PROBLEM",
+    "start": 570,
+    "end": 615
+  },
+  {
+    "entity": "Anemia",
+    "label": "PROBLEM",
+    "start": 620,
+    "end": 626
+  },
+  {
+    "entity": "illness",
+    "label": "PROBLEM",
+    "start": 648,
+    "end": 655
+  },
+  {
+    "entity": "iron deficiency",
+    "label": "PROBLEM",
+    "start": 669,
+    "end": 684
+  },
+  {
+    "entity": "Darkened mole on the scalp",
+    "label": "PROBLEM",
+    "start": 689,
+    "end": 715
+  },
+  {
+    "entity": "skin biopsy",
+    "label": "TEST",
+    "start": 729,
+    "end": 740
+  },
+  {
+    "entity": "a scalp skin biopsy",
+    "label": "TEST",
+    "start": 815,
+    "end": 834
+  },
+  {
+    "entity": "pathology specimen",
+    "label": "TEST",
+    "start": 840,
+    "end": 858
+  },
+  {
+    "entity": "thoracentesis",
+    "label": "TREATMENT",
+    "start": 913,
+    "end": 926
+  },
+  {
+    "entity": "CURRENT MEDICATIONS",
+    "label": "DRUG",
+    "start": 1163,
+    "end": 1182
+  },
+  {
+    "entity": "Flagyl",
+    "label": "DRUG",
+    "start": 1228,
+    "end": 1234
+  },
+  {
+    "entity": "Levaquin",
+    "label": "DRUG",
+    "start": 1260,
+    "end": 1268
+  },
+  {
+    "entity": "low-grade fever",
+    "label": "PROBLEM",
+    "start": 1432,
+    "end": 1447
+  },
+  {
+    "entity": "confusion",
+    "label": "PROBLEM",
+    "start": 1449,
+    "end": 1458
+  },
+  {
+    "entity": "dizziness",
+    "label": "PROBLEM",
+    "start": 1460,
+    "end": 1469
+  },
+  {
+    "entity": "a nonproductive cough",
+    "label": "PROBLEM",
+    "start": 1475,
+    "end": 1496
+  },
+  {
+    "entity": "Her symptoms",
+    "label": "PROBLEM",
+    "start": 1498,
+    "end": 1510
+  },
+  {
+    "entity": "a chest x-ray",
+    "label": "TEST",
+    "start": 1588,
+    "end": 1601
+  },
+  {
+    "entity": "evolving right lobar infiltrate",
+    "label": "PROBLEM",
+    "start": 1611,
+    "end": 1642
+  },
+  {
+    "entity": "antibiotics",
+    "label": "DRUG",
+    "start": 1663,
+    "end": 1674
+  },
+  {
+    "entity": "vancomycin",
+    "label": "DRUG",
+    "start": 1737,
+    "end": 1747
+  },
+  {
+    "entity": "Blood",
+    "label": "TEST",
+    "start": 1749,
+    "end": 1754
+  },
+  {
+    "entity": "sputum",
+    "label": "TEST",
+    "start": 1756,
+    "end": 1762
+  },
+  {
+    "entity": "urine cultures",
+    "label": "TEST",
+    "start": 1768,
+    "end": 1782
+  },
+  {
+    "entity": "infection",
+    "label": "PROBLEM",
+    "start": 1837,
+    "end": 1846
+  },
+  {
+    "entity": "Levaquin",
+    "label": "DRUG",
+    "start": 1871,
+    "end": 1879
+  },
+  {
+    "entity": "Flagyl",
+    "label": "DRUG",
+    "start": 1896,
+    "end": 1902
+  },
+  {
+    "entity": "C. diff colitis",
+    "label": "PROBLEM",
+    "start": 1916,
+    "end": 1931
+  },
+  {
+    "entity": "cholecystitis",
+    "label": "PROBLEM",
+    "start": 1952,
+    "end": 1965
+  },
+  {
+    "entity": "extremely relatively hypotensive",
+    "label": "PROBLEM",
+    "start": 2011,
+    "end": 2043
+  },
+  {
+    "entity": "mild symptoms",
+    "label": "PROBLEM",
+    "start": 2049,
+    "end": 2062
+  },
+  {
+    "entity": "dizzy",
+    "label": "PROBLEM",
+    "start": 2078,
+    "end": 2083
+  },
+  {
+    "entity": "Her systolic blood pressure",
+    "label": "TEST",
+    "start": 2110,
+    "end": 2137
+  },
+  {
+    "entity": "aggressive IV fluid management",
+    "label": "TREATMENT",
+    "start": 2168,
+    "end": 2198
+  },
+  {
+    "entity": "fluid and pulmonary treatment",
+    "label": "TREATMENT",
+    "start": 2277,
+    "end": 2306
+  },
+  {
+    "entity": "some elevated liver function tests",
+    "label": "PROBLEM",
+    "start": 2315,
+    "end": 2349
+  },
+  {
+    "entity": "An ultrasound",
+    "label": "TEST",
+    "start": 2390,
+    "end": 2403
+  },
+  {
+    "entity": "CT scan of the chest and abdomen",
+    "label": "TEST",
+    "start": 2443,
+    "end": 2475
+  },
+  {
+    "entity": "fluid circling the gallbladder",
+    "label": "PROBLEM",
+    "start": 2505,
+    "end": 2535
+  },
+  {
+    "entity": "A HIDA scan",
+    "label": "TEST",
+    "start": 2537,
+    "end": 2548
+  },
+  {
+    "entity": "gallbladder dysfunction",
+    "label": "PROBLEM",
+    "start": 2591,
+    "end": 2614
+  },
+  {
+    "entity": "Liver functions",
+    "label": "TEST",
+    "start": 2616,
+    "end": 2631
+  },
+  {
+    "entity": "consultation",
+    "label": "TEST",
+    "start": 2760,
+    "end": 2772
+  },
+  {
+    "entity": "antibiotics",
+    "label": "DRUG",
+    "start": 2867,
+    "end": 2878
+  },
+  {
+    "entity": "moderately hypoxemic",
+    "label": "PROBLEM",
+    "start": 2916,
+    "end": 2936
+  },
+  {
+    "entity": "room air pulse oximetry",
+    "label": "TEST",
+    "start": 2942,
+    "end": 2965
+  },
+  {
+    "entity": "incentive spirometry",
+    "label": "TREATMENT",
+    "start": 2992,
+    "end": 3012
+  },
+  {
+    "entity": "a white count",
+    "label": "TEST",
+    "start": 3122,
+    "end": 3135
+  },
+  {
+    "entity": "her white count",
+    "label": "TEST",
+    "start": 3199,
+    "end": 3214
+  },
+  {
+    "entity": "Blood cultures",
+    "label": "TEST",
+    "start": 3275,
+    "end": 3289
+  },
+  {
+    "entity": "Sputum culture",
+    "label": "TEST",
+    "start": 3315,
+    "end": 3329
+  },
+  {
+    "entity": "Urine culture",
+    "label": "TEST",
+    "start": 3344,
+    "end": 3357
+  },
+  {
+    "entity": "thoracentesis culture",
+    "label": "TEST",
+    "start": 3375,
+    "end": 3396
+  },
+  {
+    "entity": "2 units of packed red cells",
+    "label": "TREATMENT",
+    "start": 3443,
+    "end": 3470
+  },
+  {
+    "entity": "the hemoglobin",
+    "label": "TEST",
+    "start": 3476,
+    "end": 3490
+  },
+  {
+    "entity": "GI bleeding",
+    "label": "PROBLEM",
+    "start": 3547,
+    "end": 3558
+  },
+  {
+    "entity": "blood work",
+    "label": "TEST",
+    "start": 3589,
+    "end": 3599
+  },
+  {
+    "entity": "a white count",
+    "label": "TEST",
+    "start": 3622,
+    "end": 3635
+  },
+  {
+    "entity": "hemoglobin",
+    "label": "TEST",
+    "start": 3648,
+    "end": 3658
+  },
+  {
+    "entity": "a hematocrit",
+    "label": "TEST",
+    "start": 3672,
+    "end": 3684
+  },
+  {
+    "entity": "PT",
+    "label": "TEST",
+    "start": 3698,
+    "end": 3700
+  },
+  {
+    "entity": "PTT",
+    "label": "TEST",
+    "start": 3705,
+    "end": 3708
+  },
+  {
+    "entity": "Occult blood studies",
+    "label": "TEST",
+    "start": 3722,
+    "end": 3742
+  },
+  {
+    "entity": "occult blood",
+    "label": "PROBLEM",
+    "start": 3761,
+    "end": 3773
+  },
+  {
+    "entity": "Hepatitis B antigen",
+    "label": "TEST",
+    "start": 3775,
+    "end": 3794
+  },
+  {
+    "entity": "Hepatitis A antibody IgM",
+    "label": "TEST",
+    "start": 3809,
+    "end": 3833
+  },
+  {
+    "entity": "Hepatitis B core IgM",
+    "label": "TEST",
+    "start": 3848,
+    "end": 3868
+  },
+  {
+    "entity": "hepatitis C core antibody",
+    "label": "TEST",
+    "start": 3883,
+    "end": 3908
+  },
+  {
+    "entity": "sodium",
+    "label": "TEST",
+    "start": 3962,
+    "end": 3968
+  },
+  {
+    "entity": "potassium",
+    "label": "TEST",
+    "start": 3978,
+    "end": 3987
+  },
+  {
+    "entity": "calcium",
+    "label": "TEST",
+    "start": 3997,
+    "end": 4004
+  },
+  {
+    "entity": "her ALT",
+    "label": "TEST",
+    "start": 4014,
+    "end": 4021
+  },
+  {
+    "entity": "AST",
+    "label": "TEST",
+    "start": 4031,
+    "end": 4034
+  },
+  {
+    "entity": "direct bilirubin",
+    "label": "TEST",
+    "start": 4043,
+    "end": 4059
+  },
+  {
+    "entity": "LDH",
+    "label": "TEST",
+    "start": 4069,
+    "end": 4072
+  },
+  {
+    "entity": "serum iron",
+    "label": "TEST",
+    "start": 4082,
+    "end": 4092
+  },
+  {
+    "entity": "total iron unbound",
+    "label": "TEST",
+    "start": 4100,
+    "end": 4118
+  },
+  {
+    "entity": "ferritin level",
+    "label": "TEST",
+    "start": 4128,
+    "end": 4142
+  },
+  {
+    "entity": "some back discomfort",
+    "label": "PROBLEM",
+    "start": 4222,
+    "end": 4242
+  },
+  {
+    "entity": "lumbosacral back x-ray",
+    "label": "TEST",
+    "start": 4247,
+    "end": 4269
+  },
+  {
+    "entity": "mild degenerative disk disease",
+    "label": "PROBLEM",
+    "start": 4298,
+    "end": 4328
+  },
+  {
+    "entity": "compression fracture acute",
+    "label": "PROBLEM",
+    "start": 4345,
+    "end": 4371
+  },
+  {
+    "entity": "pneumonia",
+    "label": "PROBLEM",
+    "start": 4442,
+    "end": 4451
+  },
+  {
+    "entity": "hypoxemia",
+    "label": "PROBLEM",
+    "start": 4453,
+    "end": 4462
+  },
+  {
+    "entity": "hypotension",
+    "label": "PROBLEM",
+    "start": 4464,
+    "end": 4475
+  },
+  {
+    "entity": "electrolyte abnormality",
+    "label": "PROBLEM",
+    "start": 4477,
+    "end": 4500
+  },
+  {
+    "entity": "anemia",
+    "label": "PROBLEM",
+    "start": 4502,
+    "end": 4508
+  },
+  {
+    "entity": "scalp skin biopsy",
+    "label": "TEST",
+    "start": 4510,
+    "end": 4527
+  },
+  {
+    "entity": "liver function tests",
+    "label": "TEST",
+    "start": 4529,
+    "end": 4549
+  },
+  {
+    "entity": "lobar pneumonia",
+    "label": "PROBLEM",
+    "start": 4551,
+    "end": 4566
+  },
+  {
+    "entity": "infectious disease",
+    "label": "PROBLEM",
+    "start": 4568,
+    "end": 4586
+  },
+  {
+    "entity": "skin biopsy",
+    "label": "TEST",
+    "start": 4588,
+    "end": 4599
+  },
+  {
+    "entity": "white count",
+    "label": "TEST",
+    "start": 4601,
+    "end": 4612
+  },
+  {
+    "entity": "cultures",
+    "label": "TEST",
+    "start": 4614,
+    "end": 4622
+  }
+]

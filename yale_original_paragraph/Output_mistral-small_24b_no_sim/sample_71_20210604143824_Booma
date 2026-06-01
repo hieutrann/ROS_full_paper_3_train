@@ -1,0 +1,149 @@
+[
+  {
+    "decrease in mental alertness": "PROBLEM"
+  },
+  {
+    "Mental changes": "PROBLEM"
+  },
+  {
+    "diabetes": "PROBLEM"
+  },
+  {
+    "GI symptoms": "PROBLEM"
+  },
+  {
+    "sweating": "PROBLEM"
+  },
+  {
+    "agitation": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "chills": "PROBLEM"
+  },
+  {
+    "rash": "PROBLEM"
+  },
+  {
+    "glucose": "TEST"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "labetalol": "DRUG"
+  },
+  {
+    "Norvasc": "DRUG"
+  },
+  {
+    "glucose": "TEST"
+  },
+  {
+    "Diabetes": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "CPK": "TEST"
+  },
+  {
+    "troponin": "TEST"
+  },
+  {
+    "CMP": "TEST"
+  },
+  {
+    "glucose": "TEST"
+  },
+  {
+    "BMP": "TEST"
+  },
+  {
+    "BUN": "TEST"
+  },
+  {
+    "creatinine": "TEST"
+  },
+  {
+    "potassium": "TEST"
+  },
+  {
+    "Urinalysis": "TEST"
+  },
+  {
+    "specific gravity": "TEST"
+  },
+  {
+    "CT": "TEST"
+  },
+  {
+    "brain": "TEST"
+  },
+  {
+    "hemorrhage": "PROBLEM"
+  },
+  {
+    "Chest x-ray": "TEST"
+  },
+  {
+    "cardiomegaly": "PROBLEM"
+  },
+  {
+    "infiltrates": "PROBLEM"
+  },
+  {
+    "Hypoglycemia": "PROBLEM"
+  },
+  {
+    "renal insufficiency": "PROBLEM"
+  },
+  {
+    "dehydration": "PROBLEM"
+  },
+  {
+    "diabetic nephropathy": "PROBLEM"
+  },
+  {
+    "IV fluid": "TREATMENT"
+  },
+  {
+    "glucometer checks": "TEST"
+  },
+  {
+    "blood pressure medication": "DRUG"
+  },
+  {
+    "diabetic medication": "DRUG"
+  },
+  {
+    "mental alertness": "PROBLEM"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "diabetic": "PROBLEM"
+  },
+  {
+    "glucose": "TEST"
+  },
+  {
+    "blood": "TEST"
+  },
+  {
+    "pressure": "TEST"
+  },
+  {
+    "medication": "DRUG"
+  },
+  {
+    "alertness": "PROBLEM"
+  }
+]

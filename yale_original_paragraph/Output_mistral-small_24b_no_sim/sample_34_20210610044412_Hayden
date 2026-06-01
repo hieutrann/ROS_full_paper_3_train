@@ -1,0 +1,161 @@
+[
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "temperature": "TEST"
+  },
+  {
+    "respirations": "TEST"
+  },
+  {
+    "pulse": "TEST"
+  },
+  {
+    "pupils": "TEST"
+  },
+  {
+    "Funduscopic examination": "TEST"
+  },
+  {
+    "posterior pharynx": "TEST"
+  },
+  {
+    "Tympanic membranes": "TEST"
+  },
+  {
+    "Trachea": "TEST"
+  },
+  {
+    "Thyroid": "TEST"
+  },
+  {
+    "neck": "TEST"
+  },
+  {
+    "nodes": "TEST"
+  },
+  {
+    "Lungs": "TEST"
+  },
+  {
+    "respiratory rate": "TEST"
+  },
+  {
+    "consolidation": "PROBLEM"
+  },
+  {
+    "egophony": "TEST"
+  },
+  {
+    "retractions": "PROBLEM"
+  },
+  {
+    "secondary muscle use": "PROBLEM"
+  },
+  {
+    "breath sounds": "TEST"
+  },
+  {
+    "jugular venous distention": "PROBLEM"
+  },
+  {
+    "carotid bruits": "PROBLEM"
+  },
+  {
+    "heart size": "TEST"
+  },
+  {
+    "murmur": "PROBLEM"
+  },
+  {
+    "S1": "TEST"
+  },
+  {
+    "S2": "TEST"
+  },
+  {
+    "gallop": "PROBLEM"
+  },
+  {
+    "abdomen": "TEST"
+  },
+  {
+    "organomegaly": "PROBLEM"
+  },
+  {
+    "rebound tenderness": "PROBLEM"
+  },
+  {
+    "bowel sounds": "TEST"
+  },
+  {
+    "Obturator": "TEST"
+  },
+  {
+    "psoas": "TEST"
+  },
+  {
+    "bladder tenderness": "PROBLEM"
+  },
+  {
+    "flank pain": "PROBLEM"
+  },
+  {
+    "extremities": "TEST"
+  },
+  {
+    "motor tone": "TEST"
+  },
+  {
+    "strength": "TEST"
+  },
+  {
+    "reflexes": "TEST"
+  },
+  {
+    "joint strength": "TEST"
+  },
+  {
+    "sensation": "TEST"
+  },
+  {
+    "Glasgow Coma Scale": "TEST"
+  },
+  {
+    "cranial nerves": "TEST"
+  },
+  {
+    "motor": "TEST"
+  },
+  {
+    "cerebellar tests": "TEST"
+  },
+  {
+    "HEME/LYMPH": "TEST"
+  },
+  {
+    "lymph nodes": "TEST"
+  },
+  {
+    "bleeding": "PROBLEM"
+  },
+  {
+    "skin purpura": "PROBLEM"
+  },
+  {
+    "petechiae": "PROBLEM"
+  },
+  {
+    "hemorrhage": "PROBLEM"
+  },
+  {
+    "PSYCHIATRIC": "TEST"
+  },
+  {
+    "depression": "PROBLEM"
+  },
+  {
+    "suicidal ideations": "PROBLEM"
+  }
+]

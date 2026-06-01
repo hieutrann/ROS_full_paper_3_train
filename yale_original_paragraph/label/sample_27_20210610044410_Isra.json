@@ -1,0 +1,350 @@
+[
+  {
+    "entity": "left renal cell carcinoma",
+    "label": "PROBLEM",
+    "start": 125,
+    "end": 150
+  },
+  {
+    "entity": "left renal cyst",
+    "label": "PROBLEM",
+    "start": 153,
+    "end": 168
+  },
+  {
+    "entity": "robotic - Assisted laparoscopic left renal cyst decortication",
+    "label": "TREATMENT",
+    "start": 175,
+    "end": 236
+  },
+  {
+    "entity": "cystoscopy",
+    "label": "TEST",
+    "start": 241,
+    "end": 251
+  },
+  {
+    "entity": "Left renal cell carcinoma",
+    "label": "PROBLEM",
+    "start": 317,
+    "end": 342
+  },
+  {
+    "entity": "left renal cyst",
+    "label": "PROBLEM",
+    "start": 345,
+    "end": 360
+  },
+  {
+    "entity": "Left renal cell carcinoma",
+    "label": "PROBLEM",
+    "start": 385,
+    "end": 410
+  },
+  {
+    "entity": "left renal cyst",
+    "label": "PROBLEM",
+    "start": 413,
+    "end": 428
+  },
+  {
+    "entity": "Chronic obstructive pulmonary disease",
+    "label": "PROBLEM",
+    "start": 459,
+    "end": 496
+  },
+  {
+    "entity": "Coronary artery disease",
+    "label": "PROBLEM",
+    "start": 504,
+    "end": 527
+  },
+  {
+    "entity": "Robotic - Assisted laparoscopic left renal cyst decortication",
+    "label": "TREATMENT",
+    "start": 544,
+    "end": 605
+  },
+  {
+    "entity": "cystoscopy",
+    "label": "TEST",
+    "start": 610,
+    "end": 620
+  },
+  {
+    "entity": "a left renal cell carcinoma",
+    "label": "PROBLEM",
+    "start": 710,
+    "end": 737
+  },
+  {
+    "entity": "multiple renal cysts",
+    "label": "PROBLEM",
+    "start": 743,
+    "end": 763
+  },
+  {
+    "entity": "MRI of the abdomen",
+    "label": "TEST",
+    "start": 783,
+    "end": 801
+  },
+  {
+    "entity": "an enhancing mass of the upper pole of the left kidney",
+    "label": "PROBLEM",
+    "start": 829,
+    "end": 883
+  },
+  {
+    "entity": "renal cell carcinoma",
+    "label": "PROBLEM",
+    "start": 915,
+    "end": 935
+  },
+  {
+    "entity": "enhancing solid masses",
+    "label": "PROBLEM",
+    "start": 967,
+    "end": 989
+  },
+  {
+    "entity": "MRI",
+    "label": "TEST",
+    "start": 1003,
+    "end": 1006
+  },
+  {
+    "entity": "Left partial nephrectomy",
+    "label": "TREATMENT",
+    "start": 1095,
+    "end": 1119
+  },
+  {
+    "entity": "Left radical nephrectomy",
+    "label": "TREATMENT",
+    "start": 1127,
+    "end": 1151
+  },
+  {
+    "entity": "Left renal cyst decortication",
+    "label": "TREATMENT",
+    "start": 1159,
+    "end": 1188
+  },
+  {
+    "entity": "left renal cyst decortication",
+    "label": "TREATMENT",
+    "start": 1304,
+    "end": 1333
+  },
+  {
+    "entity": "cystoscopy",
+    "label": "TEST",
+    "start": 1347,
+    "end": 1357
+  },
+  {
+    "entity": "four enlarged renal cysts",
+    "label": "PROBLEM",
+    "start": 1392,
+    "end": 1417
+  },
+  {
+    "entity": "six smaller renal cysts",
+    "label": "PROBLEM",
+    "start": 1422,
+    "end": 1445
+  },
+  {
+    "entity": "dissection of the cyst",
+    "label": "TREATMENT",
+    "start": 1511,
+    "end": 1533
+  },
+  {
+    "entity": "the cyst",
+    "label": "PROBLEM",
+    "start": 1577,
+    "end": 1585
+  },
+  {
+    "entity": "pathology",
+    "label": "TEST",
+    "start": 1605,
+    "end": 1614
+  },
+  {
+    "entity": "hemostasis",
+    "label": "PROBLEM",
+    "start": 1724,
+    "end": 1734
+  },
+  {
+    "entity": "complications",
+    "label": "PROBLEM",
+    "start": 1781,
+    "end": 1794
+  },
+  {
+    "entity": "Single JP drain",
+    "label": "TREATMENT",
+    "start": 1816,
+    "end": 1831
+  },
+  {
+    "entity": "flexible cystoscopy",
+    "label": "TEST",
+    "start": 1889,
+    "end": 1908
+  },
+  {
+    "entity": "gross strictures",
+    "label": "PROBLEM",
+    "start": 1929,
+    "end": 1945
+  },
+  {
+    "entity": "any other abnormalities in the penile nor prostatic urethra",
+    "label": "PROBLEM",
+    "start": 1949,
+    "end": 2008
+  },
+  {
+    "entity": "gross lesions",
+    "label": "PROBLEM",
+    "start": 2028,
+    "end": 2041
+  },
+  {
+    "entity": "complication",
+    "label": "PROBLEM",
+    "start": 2280,
+    "end": 2292
+  },
+  {
+    "entity": "His Jackson-Pratt drain",
+    "label": "TREATMENT",
+    "start": 2372,
+    "end": 2395
+  },
+  {
+    "entity": "His Foley catheter",
+    "label": "TREATMENT",
+    "start": 2471,
+    "end": 2489
+  },
+  {
+    "entity": "His vital signs",
+    "label": "TEST",
+    "start": 2650,
+    "end": 2665
+  },
+  {
+    "entity": "infection",
+    "label": "PROBLEM",
+    "start": 2724,
+    "end": 2733
+  },
+  {
+    "entity": "pain medications",
+    "label": "DRUG",
+    "start": 2846,
+    "end": 2862
+  },
+  {
+    "entity": "laxative",
+    "label": "DRUG",
+    "start": 2874,
+    "end": 2882
+  },
+  {
+    "entity": "fever",
+    "label": "PROBLEM",
+    "start": 3074,
+    "end": 3079
+  },
+  {
+    "entity": "intractable pain",
+    "label": "PROBLEM",
+    "start": 3101,
+    "end": 3117
+  },
+  {
+    "entity": "nausea",
+    "label": "PROBLEM",
+    "start": 3119,
+    "end": 3125
+  },
+  {
+    "entity": "vomiting",
+    "label": "PROBLEM",
+    "start": 3128,
+    "end": 3136
+  },
+  {
+    "entity": "decortication",
+    "label": "TREATMENT",
+    "start": 3344,
+    "end": 3357
+  },
+  {
+    "entity": "cystoscopy",
+    "label": "TEST",
+    "start": 3360,
+    "end": 3370
+  },
+  {
+    "entity": "pain",
+    "label": "PROBLEM",
+    "start": 3373,
+    "end": 3377
+  },
+  {
+    "entity": "nausea",
+    "label": "PROBLEM",
+    "start": 3380,
+    "end": 3386
+  },
+  {
+    "entity": "vomiting",
+    "label": "PROBLEM",
+    "start": 3389,
+    "end": 3397
+  },
+  {
+    "entity": "renal cyst decortication",
+    "label": "TREATMENT",
+    "start": 3400,
+    "end": 3424
+  },
+  {
+    "entity": "renal cell carcinoma",
+    "label": "PROBLEM",
+    "start": 3427,
+    "end": 3447
+  },
+  {
+    "entity": "renal cyst",
+    "label": "PROBLEM",
+    "start": 3469,
+    "end": 3479
+  },
+  {
+    "entity": "nephrectomy",
+    "label": "TREATMENT",
+    "start": 3515,
+    "end": 3526
+  },
+  {
+    "entity": "cysts",
+    "label": "PROBLEM",
+    "start": 3529,
+    "end": 3534
+  },
+  {
+    "entity": "carcinoma",
+    "label": "PROBLEM",
+    "start": 3544,
+    "end": 3553
+  }
+]

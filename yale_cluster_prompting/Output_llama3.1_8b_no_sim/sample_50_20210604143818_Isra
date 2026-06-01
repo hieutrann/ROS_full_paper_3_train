@@ -1,0 +1,242 @@
+[
+  {
+    "Abdominal Pain": "PROBLEM"
+  },
+  {
+    "Abdominal pain": "PROBLEM"
+  },
+  {
+    "71-year-old female patient": "PROBLEM"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "CT scan": "TEST"
+  },
+  {
+    "Cipro": "DRUG"
+  },
+  {
+    "Flagyl": "DRUG"
+  },
+  {
+    "anorexia": "PROBLEM"
+  },
+  {
+    "obstipation": "PROBLEM"
+  },
+  {
+    "flatus": "PROBLEM"
+  },
+  {
+    "bowel movement": "TEST"
+  },
+  {
+    "bright red blood per rectum": "PROBLEM"
+  },
+  {
+    "melena": "PROBLEM"
+  },
+  {
+    "colonoscopy": "TEST"
+  },
+  {
+    "fevers": "PROBLEM"
+  },
+  {
+    "chills": "PROBLEM"
+  },
+  {
+    "jaundice": "PROBLEM"
+  },
+  {
+    "weight loss": "PROBLEM"
+  },
+  {
+    "atrial fibrillation": "PROBLEM"
+  },
+  {
+    "metoprolol": "DRUG"
+  },
+  {
+    "Premarin": "DRUG"
+  },
+  {
+    "cholecystectomy": "TREATMENT"
+  },
+  {
+    "appendectomy": "TREATMENT"
+  },
+  {
+    "hysterectomy": "TREATMENT"
+  },
+  {
+    "grade 4 bladder prolapse": "PROBLEM"
+  },
+  {
+    "MACRODANTIN": "DRUG"
+  },
+  {
+    "drink": "PROBLEM"
+  },
+  {
+    "febrile illnesses": "PROBLEM"
+  },
+  {
+    "chest pains": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "patient": "PROBLEM"
+  },
+  {
+    "temperature": "TEST"
+  },
+  {
+    "atraumatic": "PROBLEM"
+  },
+  {
+    "normocephalic": "PROBLEM"
+  },
+  {
+    "Sclerae are anicteric": "PROBLEM"
+  },
+  {
+    "conjunctivae": "PROBLEM"
+  },
+  {
+    "Supple": "TEST"
+  },
+  {
+    "CHEST": "PROBLEM"
+  },
+  {
+    "HEART": "TEST"
+  },
+  {
+    "ABDOMEN": "PROBLEM"
+  },
+  {
+    "tender in the left lower quadrant": "PROBLEM"
+  },
+  {
+    "palpable fullness or mass": "PROBLEM"
+  },
+  {
+    "rebound tenderness": "PROBLEM"
+  },
+  {
+    "CVA": "PROBLEM"
+  },
+  {
+    "flank tenderness": "PROBLEM"
+  },
+  {
+    "left flank tenderness": "PROBLEM"
+  },
+  {
+    "urinary bladder prolapse": "PROBLEM"
+  },
+  {
+    "neurovascularly": "TEST"
+  },
+  {
+    "White blood cell count": "TEST"
+  },
+  {
+    "hemoglobin": "TEST"
+  },
+  {
+    "platelet count": "TEST"
+  },
+  {
+    "Alkaline phosphatase": "TEST"
+  },
+  {
+    "Liver function tests": "TEST"
+  },
+  {
+    "Electrolytes": "TEST"
+  },
+  {
+    "Glucose": "TEST"
+  },
+  {
+    "BUN": "TEST"
+  },
+  {
+    "creatinine": "TEST"
+  },
+  {
+    "EKG": "TEST"
+  },
+  {
+    "normal sinus rhythm": "PROBLEM"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "left lower quadrant": "PROBLEM"
+  },
+  {
+    "abdomen": "PROBLEM"
+  },
+  {
+    "sigmoid diverticulitis": "PROBLEM"
+  },
+  {
+    "sigmoid diverticulitis": "PROBLEM"
+  },
+  {
+    "CT scan": "TEST"
+  },
+  {
+    "abdomen": "PROBLEM"
+  },
+  {
+    "pelvis": "PROBLEM"
+  },
+  {
+    "Dr": "TREATMENT"
+  },
+  {
+    "Colorectal Surgery": "TREATMENT"
+  },
+  {
+    "evaluation": "TEST"
+  },
+  {
+    "colonoscopy": "TEST"
+  },
+  {
+    "Dr": "PROBLEM"
+  },
+  {
+    "acute surgical intervention": "TREATMENT"
+  },
+  {
+    "diagnostic workup": "TEST"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "lower quadrant": "PROBLEM"
+  },
+  {
+    "abdominal": "PROBLEM"
+  },
+  {
+    "sigmoid": "PROBLEM"
+  },
+  {
+    "diverticulitis": "PROBLEM"
+  },
+  {
+    "tenderness": "PROBLEM"
+  }
+]

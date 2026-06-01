@@ -1,0 +1,32 @@
+[
+  {
+    "diabetes mellitus": "PROBLEM"
+  },
+  {
+    "cerebrovascular accident": "PROBLEM"
+  },
+  {
+    "neuropathy": "PROBLEM"
+  },
+  {
+    "EMG studies": "TEST"
+  },
+  {
+    "A1c": "TEST"
+  },
+  {
+    "BMP": "TEST"
+  },
+  {
+    "PSA": "TEST"
+  },
+  {
+    "colonoscopy": "TREATMENT"
+  },
+  {
+    "insulin": "DRUG"
+  },
+  {
+    "medications": "DRUG"
+  }
+]

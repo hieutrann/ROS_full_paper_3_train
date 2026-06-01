@@ -1,0 +1,101 @@
+[
+  {
+    "Falls": "PROBLEM"
+  },
+  {
+    "Anxiety": "PROBLEM"
+  },
+  {
+    "depression": "PROBLEM"
+  },
+  {
+    "Hypertension": "PROBLEM"
+  },
+  {
+    "Hypercholesterolemia": "PROBLEM"
+  },
+  {
+    "Coronary artery disease": "PROBLEM"
+  },
+  {
+    "Osteoarthritis": "PROBLEM"
+  },
+  {
+    "Chronic obstructive pulmonary disease": "PROBLEM"
+  },
+  {
+    "Hypothyroidism": "PROBLEM"
+  },
+  {
+    "Darvocet": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Tylenol": "DRUG"
+  },
+  {
+    "Lasix": "DRUG"
+  },
+  {
+    "Isordil": "DRUG"
+  },
+  {
+    "KCl": "DRUG"
+  },
+  {
+    "lactulose": "DRUG"
+  },
+  {
+    "Cozaar": "DRUG"
+  },
+  {
+    "Synthroid": "DRUG"
+  },
+  {
+    "Singulair": "DRUG"
+  },
+  {
+    "Lumigan": "DRUG"
+  },
+  {
+    "NitroQuick": "DRUG"
+  },
+  {
+    "Pravachol": "DRUG"
+  },
+  {
+    "Feldene": "DRUG"
+  },
+  {
+    "Minipress": "DRUG"
+  },
+  {
+    "Provera": "DRUG"
+  },
+  {
+    "Advair": "DRUG"
+  },
+  {
+    "Senokot": "DRUG"
+  },
+  {
+    "Timoptic": "DRUG"
+  },
+  {
+    "verapamil": "DRUG"
+  },
+  {
+    "P.R.N.": "TREATMENT"
+  },
+  {
+    "Psychiatric evaluation": "TREATMENT"
+  },
+  {
+    "Rehabilitation program": "TREATMENT"
+  }
+]

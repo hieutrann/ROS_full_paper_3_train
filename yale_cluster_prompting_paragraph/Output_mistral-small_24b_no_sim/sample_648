@@ -1,0 +1,146 @@
+[
+  {
+    "General Medicine": "TEST"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "acute COPD exacerbation": "PROBLEM"
+  },
+  {
+    "Chronic obstructive pulmonary disease": "PROBLEM"
+  },
+  {
+    "Pneumonia": "PROBLEM"
+  },
+  {
+    "Congestive heart failure": "PROBLEM"
+  },
+  {
+    "Diabetes mellitus": "PROBLEM"
+  },
+  {
+    "Neuropathy": "PROBLEM"
+  },
+  {
+    "Anxiety": "PROBLEM"
+  },
+  {
+    "Hypothyroidism": "PROBLEM"
+  },
+  {
+    "Depression": "PROBLEM"
+  },
+  {
+    "Hypertension": "PROBLEM"
+  },
+  {
+    "Severe chronic obstructive pulmonary disease": "PROBLEM"
+  },
+  {
+    "Altered mental status": "PROBLEM"
+  },
+  {
+    "Lower gastrointestinal bleed": "PROBLEM"
+  },
+  {
+    "atrial fibrillation": "PROBLEM"
+  },
+  {
+    "diverticular bleed": "PROBLEM"
+  },
+  {
+    "Albuterol inhaler": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Cardizem CD": "DRUG"
+  },
+  {
+    "Colace": "DRUG"
+  },
+  {
+    "Iron sulfate": "DRUG"
+  },
+  {
+    "NPH": "DRUG"
+  },
+  {
+    "Atrovent inhaler": "DRUG"
+  },
+  {
+    "Statin": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Prednisone": "DRUG"
+  },
+  {
+    "Darvocet": "DRUG"
+  },
+  {
+    "Metamucil": "DRUG"
+  },
+  {
+    "Synthroid": "DRUG"
+  },
+  {
+    "Nexium": "DRUG"
+  },
+  {
+    "BiPAP": "TEST"
+  },
+  {
+    "antibiotics": "DRUG"
+  },
+  {
+    "acute lower GI bleed": "PROBLEM"
+  },
+  {
+    "packed red blood cells": "TEST"
+  },
+  {
+    "endoscopy": "TEST"
+  },
+  {
+    "diverticular disease": "PROBLEM"
+  },
+  {
+    "Plavix": "DRUG"
+  },
+  {
+    "Lovenox": "DRUG"
+  },
+  {
+    "Dr. Pesce": "DRUG"
+  },
+  {
+    "diagnostic pulmonary": "TEST"
+  },
+  {
+    "COPD": "PROBLEM"
+  },
+  {
+    "bronchitis": "PROBLEM"
+  },
+  {
+    "GI": "TEST"
+  },
+  {
+    "sigmoid colon": "TEST"
+  },
+  {
+    "hemorrhage": "PROBLEM"
+  },
+  {
+    "respiratory status": "PROBLEM"
+  },
+  {
+    "outpatient setting": "TEST"
+  }
+]

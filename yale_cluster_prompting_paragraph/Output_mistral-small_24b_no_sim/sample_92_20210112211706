@@ -1,0 +1,137 @@
+[
+  {
+    "stasis ulcer": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "bipedal edema": "PROBLEM"
+  },
+  {
+    "venous ulcers": "PROBLEM"
+  },
+  {
+    "low-grade fever": "PROBLEM"
+  },
+  {
+    "ankle pain": "PROBLEM"
+  },
+  {
+    "leg cellulitis": "PROBLEM"
+  },
+  {
+    "Pseudomonas": "PROBLEM"
+  },
+  {
+    "Enterococcus": "PROBLEM"
+  },
+  {
+    "Stenotrophomonas": "PROBLEM"
+  },
+  {
+    "Klebsiella": "PROBLEM"
+  },
+  {
+    "Enterobacter": "PROBLEM"
+  },
+  {
+    "fevers": "PROBLEM"
+  },
+  {
+    "right leg/ankle cellulitis": "PROBLEM"
+  },
+  {
+    "bilateral ankle venous ulcers": "PROBLEM"
+  },
+  {
+    "osteomyelitis": "PROBLEM"
+  },
+  {
+    "exploratory laparotomy": "TREATMENT"
+  },
+  {
+    "cholecystectomy": "TREATMENT"
+  },
+  {
+    "Primaxin": "DRUG"
+  },
+  {
+    "daptomycin": "DRUG"
+  },
+  {
+    "clonidine": "DRUG"
+  },
+  {
+    "furosemide": "DRUG"
+  },
+  {
+    "potassium chloride": "DRUG"
+  },
+  {
+    "lisinopril": "DRUG"
+  },
+  {
+    "metoprolol": "DRUG"
+  },
+  {
+    "ranitidine": "DRUG"
+  },
+  {
+    "Colace": "DRUG"
+  },
+  {
+    "amlodipine": "DRUG"
+  },
+  {
+    "zinc sulfate": "DRUG"
+  },
+  {
+    "Lortab": "DRUG"
+  },
+  {
+    "multivitamins with minerals": "DRUG"
+  },
+  {
+    "White blood cell count": "TEST"
+  },
+  {
+    "H&H": "TEST"
+  },
+  {
+    "platelet count": "TEST"
+  },
+  {
+    "BUN": "TEST"
+  },
+  {
+    "creatinine": "TEST"
+  },
+  {
+    "albumin": "TEST"
+  },
+  {
+    "AST": "TEST"
+  },
+  {
+    "ALT": "TEST"
+  },
+  {
+    "alk phos": "TEST"
+  },
+  {
+    "total bilirubin": "TEST"
+  },
+  {
+    "wound culture": "TEST"
+  },
+  {
+    "blood cultures": "TEST"
+  },
+  {
+    "MRI": "TEST"
+  },
+  {
+    "chest x-ray": "TEST"
+  }
+]

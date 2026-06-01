@@ -1,0 +1,56 @@
+[
+  {
+    "Pyelonephritis": "PROBLEM"
+  },
+  {
+    "Hypertension": "PROBLEM"
+  },
+  {
+    "Renal insufficiency": "PROBLEM"
+  },
+  {
+    "Anemia": "PROBLEM"
+  },
+  {
+    "Pyelonephritis": "PROBLEM"
+  },
+  {
+    "Klebsiella": "PROBLEM"
+  },
+  {
+    "Bactrim": "DRUG"
+  },
+  {
+    "Ibuprofen": "DRUG"
+  },
+  {
+    "IV antibiotics": "DRUG"
+  },
+  {
+    "p.o. Bactrim": "DRUG"
+  },
+  {
+    "Foley in the ileal conduit": "TEST"
+  },
+  {
+    "Klebsiella in the urine": "TEST"
+  },
+  {
+    "Irrigation of the Foley in the ileal conduit": "TREATMENT"
+  },
+  {
+    "IV antibiotics": "TREATMENT"
+  },
+  {
+    "Ibuprofen": "TREATMENT"
+  },
+  {
+    "Irrigation of the Foley in the ileal conduit": "TREATMENT"
+  },
+  {
+    "Surgery": "TREATMENT"
+  },
+  {
+    "Use of ibuprofen": "TREATMENT"
+  }
+]

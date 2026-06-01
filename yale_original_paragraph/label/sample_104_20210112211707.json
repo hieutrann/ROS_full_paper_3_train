@@ -1,0 +1,416 @@
+[
+  {
+    "entity": "Disseminated Intravascular Coagulation",
+    "label": "PROBLEM",
+    "start": 63,
+    "end": 101
+  },
+  {
+    "entity": "Disseminated intravascular coagulation",
+    "label": "PROBLEM",
+    "start": 115,
+    "end": 153
+  },
+  {
+    "entity": "Streptococcal pneumonia",
+    "label": "PROBLEM",
+    "start": 158,
+    "end": 181
+  },
+  {
+    "entity": "sepsis",
+    "label": "PROBLEM",
+    "start": 187,
+    "end": 193
+  },
+  {
+    "entity": "pneumonia",
+    "label": "PROBLEM",
+    "start": 230,
+    "end": 239
+  },
+  {
+    "entity": "developed rapid sepsis",
+    "label": "PROBLEM",
+    "start": 244,
+    "end": 266
+  },
+  {
+    "entity": "respiratory failure",
+    "label": "PROBLEM",
+    "start": 271,
+    "end": 290
+  },
+  {
+    "entity": "intubation",
+    "label": "TREATMENT",
+    "start": 301,
+    "end": 311
+  },
+  {
+    "entity": "Disseminated intravascular coagulation",
+    "label": "PROBLEM",
+    "start": 365,
+    "end": 403
+  },
+  {
+    "entity": "Streptococcal pneumonia",
+    "label": "PROBLEM",
+    "start": 408,
+    "end": 431
+  },
+  {
+    "entity": "sepsis",
+    "label": "PROBLEM",
+    "start": 437,
+    "end": 443
+  },
+  {
+    "entity": "respiratory failure",
+    "label": "PROBLEM",
+    "start": 507,
+    "end": 526
+  },
+  {
+    "entity": "pneumonia",
+    "label": "PROBLEM",
+    "start": 624,
+    "end": 633
+  },
+  {
+    "entity": "developed rapid sepsis",
+    "label": "PROBLEM",
+    "start": 638,
+    "end": 660
+  },
+  {
+    "entity": "respiratory failure",
+    "label": "PROBLEM",
+    "start": 665,
+    "end": 684
+  },
+  {
+    "entity": "intubation",
+    "label": "TREATMENT",
+    "start": 695,
+    "end": 705
+  },
+  {
+    "entity": "mechanical ventilation",
+    "label": "TREATMENT",
+    "start": 760,
+    "end": 782
+  },
+  {
+    "entity": "other supportive measures",
+    "label": "TREATMENT",
+    "start": 787,
+    "end": 812
+  },
+  {
+    "entity": "disseminated intravascular coagulation",
+    "label": "PROBLEM",
+    "start": 831,
+    "end": 869
+  },
+  {
+    "entity": "prolonged partial thromboplastin time",
+    "label": "PROBLEM",
+    "start": 875,
+    "end": 912
+  },
+  {
+    "entity": "prothrombin time",
+    "label": "PROBLEM",
+    "start": 914,
+    "end": 930
+  },
+  {
+    "entity": "low fibrinogen",
+    "label": "PROBLEM",
+    "start": 932,
+    "end": 946
+  },
+  {
+    "entity": "elevated D-dimer",
+    "label": "PROBLEM",
+    "start": 952,
+    "end": 968
+  },
+  {
+    "entity": "further evaluation",
+    "label": "TEST",
+    "start": 1009,
+    "end": 1027
+  },
+  {
+    "entity": "treatment",
+    "label": "TREATMENT",
+    "start": 1052,
+    "end": 1061
+  },
+  {
+    "entity": "Bleeding",
+    "label": "PROBLEM",
+    "start": 1147,
+    "end": 1155
+  },
+  {
+    "entity": "factor replacement",
+    "label": "TREATMENT",
+    "start": 1235,
+    "end": 1253
+  },
+  {
+    "entity": "platelet infusion",
+    "label": "TREATMENT",
+    "start": 1265,
+    "end": 1282
+  },
+  {
+    "entity": "coagulopathy",
+    "label": "PROBLEM",
+    "start": 1313,
+    "end": 1325
+  },
+  {
+    "entity": "acute distress",
+    "label": "PROBLEM",
+    "start": 1697,
+    "end": 1711
+  },
+  {
+    "entity": "a rate",
+    "label": "TEST",
+    "start": 1758,
+    "end": 1764
+  },
+  {
+    "entity": "blood pressure",
+    "label": "TEST",
+    "start": 1772,
+    "end": 1786
+  },
+  {
+    "entity": "the respiratory rate",
+    "label": "TEST",
+    "start": 1802,
+    "end": 1822
+  },
+  {
+    "entity": "the ventilator",
+    "label": "TREATMENT",
+    "start": 1827,
+    "end": 1841
+  },
+  {
+    "entity": "conjunctival hemorrhage",
+    "label": "PROBLEM",
+    "start": 1892,
+    "end": 1915
+  },
+  {
+    "entity": "petechiae",
+    "label": "PROBLEM",
+    "start": 1930,
+    "end": 1939
+  },
+  {
+    "entity": "ET tube",
+    "label": "TREATMENT",
+    "start": 1988,
+    "end": 1995
+  },
+  {
+    "entity": "jugular venous pressure distention",
+    "label": "PROBLEM",
+    "start": 2015,
+    "end": 2049
+  },
+  {
+    "entity": "rate",
+    "label": "TEST",
+    "start": 2107,
+    "end": 2111
+  },
+  {
+    "entity": "rhythm",
+    "label": "TEST",
+    "start": 2116,
+    "end": 2122
+  },
+  {
+    "entity": "bowel sounds",
+    "label": "TEST",
+    "start": 2162,
+    "end": 2174
+  },
+  {
+    "entity": "clubbing",
+    "label": "PROBLEM",
+    "start": 2251,
+    "end": 2259
+  },
+  {
+    "entity": "cyanosis",
+    "label": "PROBLEM",
+    "start": 2261,
+    "end": 2269
+  },
+  {
+    "entity": "edema",
+    "label": "PROBLEM",
+    "start": 2274,
+    "end": 2279
+  },
+  {
+    "entity": "compromise arterial blood flow at the digits",
+    "label": "PROBLEM",
+    "start": 2305,
+    "end": 2349
+  },
+  {
+    "entity": "The DIC parameters",
+    "label": "TEST",
+    "start": 2395,
+    "end": 2413
+  },
+  {
+    "entity": "a platelet count",
+    "label": "TEST",
+    "start": 2419,
+    "end": 2435
+  },
+  {
+    "entity": "INR",
+    "label": "TEST",
+    "start": 2461,
+    "end": 2464
+  },
+  {
+    "entity": "PTT",
+    "label": "TEST",
+    "start": 2480,
+    "end": 2483
+  },
+  {
+    "entity": "fibrinogen",
+    "label": "TEST",
+    "start": 2498,
+    "end": 2508
+  },
+  {
+    "entity": "a D-dimer",
+    "label": "TEST",
+    "start": 2521,
+    "end": 2530
+  },
+  {
+    "entity": "factor replacement",
+    "label": "TREATMENT",
+    "start": 2698,
+    "end": 2716
+  },
+  {
+    "entity": "Xigris",
+    "label": "DRUG",
+    "start": 2893,
+    "end": 2899
+  },
+  {
+    "entity": "her coagulopathy",
+    "label": "PROBLEM",
+    "start": 2913,
+    "end": 2929
+  },
+  {
+    "entity": "an elevated fibrinogen",
+    "label": "PROBLEM",
+    "start": 3001,
+    "end": 3023
+  },
+  {
+    "entity": "her coagulation times",
+    "label": "TEST",
+    "start": 3042,
+    "end": 3063
+  },
+  {
+    "entity": "heparin",
+    "label": "DRUG",
+    "start": 3111,
+    "end": 3118
+  },
+  {
+    "entity": "continued supportive infusions",
+    "label": "TREATMENT",
+    "start": 3177,
+    "end": 3207
+  },
+  {
+    "entity": "her laboratory studies",
+    "label": "TEST",
+    "start": 3223,
+    "end": 3245
+  },
+  {
+    "entity": "pneumonia",
+    "label": "PROBLEM",
+    "start": 3361,
+    "end": 3370
+  },
+  {
+    "entity": "thromboplastin time",
+    "label": "TEST",
+    "start": 3372,
+    "end": 3391
+  },
+  {
+    "entity": "prothrombin time",
+    "label": "TEST",
+    "start": 3393,
+    "end": 3409
+  },
+  {
+    "entity": "disseminated intravascular coagulation",
+    "label": "PROBLEM",
+    "start": 3411,
+    "end": 3449
+  },
+  {
+    "entity": "streptococcal pneumonia",
+    "label": "PROBLEM",
+    "start": 3451,
+    "end": 3474
+  },
+  {
+    "entity": "intravascular coagulation",
+    "label": "PROBLEM",
+    "start": 3476,
+    "end": 3501
+  },
+  {
+    "entity": "infusion",
+    "label": "TREATMENT",
+    "start": 3503,
+    "end": 3511
+  },
+  {
+    "entity": "coagulopathy",
+    "label": "PROBLEM",
+    "start": 3513,
+    "end": 3525
+  },
+  {
+    "entity": "fibrinogen",
+    "label": "TEST",
+    "start": 3527,
+    "end": 3537
+  },
+  {
+    "entity": "sepsis",
+    "label": "PROBLEM",
+    "start": 3564,
+    "end": 3570
+  }
+]

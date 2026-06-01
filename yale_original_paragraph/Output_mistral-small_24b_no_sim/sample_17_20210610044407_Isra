@@ -1,0 +1,233 @@
+[
+  {
+    "chronic kidney disease": "PROBLEM"
+  },
+  {
+    "diabetes mellitus": "PROBLEM"
+  },
+  {
+    "diabetic nephropathy": "PROBLEM"
+  },
+  {
+    "peripheral vascular disease": "PROBLEM"
+  },
+  {
+    "PTA": "TREATMENT"
+  },
+  {
+    "swelling": "PROBLEM"
+  },
+  {
+    "gout": "PROBLEM"
+  },
+  {
+    "gouty attacks": "PROBLEM"
+  },
+  {
+    "Diabetes mellitus type 2": "PROBLEM"
+  },
+  {
+    "Diabetic nephropathy": "PROBLEM"
+  },
+  {
+    "Chronic kidney disease": "PROBLEM"
+  },
+  {
+    "Hypertension": "PROBLEM"
+  },
+  {
+    "Hypercholesterolemia": "PROBLEM"
+  },
+  {
+    "Hyperlipidemia": "PROBLEM"
+  },
+  {
+    "Peripheral vascular disease": "PROBLEM"
+  },
+  {
+    "PTA": "TREATMENT"
+  },
+  {
+    "NovoLog": "DRUG"
+  },
+  {
+    "Lantus": "DRUG"
+  },
+  {
+    "Crestor": "DRUG"
+  },
+  {
+    "Micardis": "DRUG"
+  },
+  {
+    "Imdur": "DRUG"
+  },
+  {
+    "Amlodipine": "DRUG"
+  },
+  {
+    "Coreg": "DRUG"
+  },
+  {
+    "Lasix": "DRUG"
+  },
+  {
+    "Ecotrin": "DRUG"
+  },
+  {
+    "calcitriol": "DRUG"
+  },
+  {
+    "steroids": "DRUG"
+  },
+  {
+    "colchicine": "DRUG"
+  },
+  {
+    "Blood pressure": "TEST"
+  },
+  {
+    "temperature": "TEST"
+  },
+  {
+    "pulse": "TEST"
+  },
+  {
+    "respirations": "TEST"
+  },
+  {
+    "urine culture": "TEST"
+  },
+  {
+    "white cell": "TEST"
+  },
+  {
+    "hematocrit": "TEST"
+  },
+  {
+    "segs": "TEST"
+  },
+  {
+    "bands": "TEST"
+  },
+  {
+    "Serum sodium": "TEST"
+  },
+  {
+    "potassium": "TEST"
+  },
+  {
+    "chloride": "TEST"
+  },
+  {
+    "bicarb": "TEST"
+  },
+  {
+    "glucose": "TEST"
+  },
+  {
+    "BUN": "TEST"
+  },
+  {
+    "creatinine": "TEST"
+  },
+  {
+    "calcium": "TEST"
+  },
+  {
+    "uric acid": "TEST"
+  },
+  {
+    "Sed rate": "TEST"
+  },
+  {
+    "BNP": "TEST"
+  },
+  {
+    "Urinalysis": "TEST"
+  },
+  {
+    "white cells": "TEST"
+  },
+  {
+    "protein": "TEST"
+  },
+  {
+    "blood": "TEST"
+  },
+  {
+    "red blood cells": "TEST"
+  },
+  {
+    "urinary tract infection": "PROBLEM"
+  },
+  {
+    "Acute gouty attack": "PROBLEM"
+  },
+  {
+    "Diabetes mellitus": "PROBLEM"
+  },
+  {
+    "diabetic nephropathy": "PROBLEM"
+  },
+  {
+    "Hypertension": "PROBLEM"
+  },
+  {
+    "Hypercholesterolemia": "PROBLEM"
+  },
+  {
+    "Peripheral vascular disease": "PROBLEM"
+  },
+  {
+    "PTA": "TREATMENT"
+  },
+  {
+    "Chronic kidney disease": "PROBLEM"
+  },
+  {
+    "allopurinol": "DRUG"
+  },
+  {
+    "Micardis": "DRUG"
+  },
+  {
+    "Lasix": "DRUG"
+  },
+  {
+    "general medicine": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "hypercholesterolemia": "PROBLEM"
+  },
+  {
+    "hyperlipidemia": "PROBLEM"
+  },
+  {
+    "pta": "TREATMENT"
+  },
+  {
+    "gouty attack": "PROBLEM"
+  },
+  {
+    "urinary tract infection": "PROBLEM"
+  },
+  {
+    "peripheral vascular disease": "PROBLEM"
+  },
+  {
+    "chronic kidney disease": "PROBLEM"
+  },
+  {
+    "diabetes mellitus": "PROBLEM"
+  },
+  {
+    "diabetic nephropathy": "PROBLEM"
+  },
+  {
+    "disease": "PROBLEM"
+  }
+]

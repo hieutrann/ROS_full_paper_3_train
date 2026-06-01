@@ -1,0 +1,176 @@
+[
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "gentleman": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "severe pain": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "incarcerated umbilical hernia": "PROBLEM"
+  },
+  {
+    "pain": "PROBLEM"
+  },
+  {
+    "definitive repair": "TREATMENT"
+  },
+  {
+    "hemorrhoidectomy": "TREATMENT"
+  },
+  {
+    "depression": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "Ziac": "DRUG"
+  },
+  {
+    "Remeron": "DRUG"
+  },
+  {
+    "No allergies": "PROBLEM"
+  },
+  {
+    "cancer": "PROBLEM"
+  },
+  {
+    "drinks": "PROBLEM"
+  },
+  {
+    "hepatitis": "PROBLEM"
+  },
+  {
+    "obese": "PROBLEM"
+  },
+  {
+    "mild distress": "PROBLEM"
+  },
+  {
+    "scleral icterus": "PROBLEM"
+  },
+  {
+    "cervical adenopathy": "PROBLEM"
+  },
+  {
+    "supraclavicular adenopathy": "PROBLEM"
+  },
+  {
+    "axillary adenopathy": "PROBLEM"
+  },
+  {
+    "LUNGS": "PROBLEM"
+  },
+  {
+    "HEART": "TEST"
+  },
+  {
+    "murmurs": "PROBLEM"
+  },
+  {
+    "gallops": "PROBLEM"
+  },
+  {
+    "obese": "PROBLEM"
+  },
+  {
+    "bulging": "PROBLEM"
+  },
+  {
+    "umbilicus": "TEST"
+  },
+  {
+    "position": "TEST"
+  },
+  {
+    "herniated contents": "PROBLEM"
+  },
+  {
+    "palpable defect": "PROBLEM"
+  },
+  {
+    "umbilicus": "PROBLEM"
+  },
+  {
+    "Normal sinus rhythm": "TEST"
+  },
+  {
+    "prolonged QT": "PROBLEM"
+  },
+  {
+    "Chest x-ray": "TEST"
+  },
+  {
+    "abdominal x-rays": "TEST"
+  },
+  {
+    "electrolytes": "PROBLEM"
+  },
+  {
+    "Creatinine": "TEST"
+  },
+  {
+    "White count": "TEST"
+  },
+  {
+    "hematocrit": "TEST"
+  },
+  {
+    "platelet count": "TEST"
+  },
+  {
+    "incarcerated umbilical hernia": "PROBLEM"
+  },
+  {
+    "mesh": "TREATMENT"
+  },
+  {
+    "prolonged qt": "PROBLEM"
+  },
+  {
+    "umbilical hernia": "PROBLEM"
+  },
+  {
+    "platelet count": "TEST"
+  },
+  {
+    "hematocrit": "TEST"
+  },
+  {
+    "ekg": "TEST"
+  },
+  {
+    "sinus rhythm": "TEST"
+  },
+  {
+    "emergency department": "TEST"
+  },
+  {
+    "general medicine": "TEST"
+  },
+  {
+    "incarcerated": "PROBLEM"
+  },
+  {
+    "intermittent": "PROBLEM"
+  }
+]

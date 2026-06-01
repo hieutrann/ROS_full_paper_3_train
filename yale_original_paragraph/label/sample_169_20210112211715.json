@@ -1,0 +1,626 @@
+[
+  {
+    "entity": "Examination",
+    "label": "TEST",
+    "start": 96,
+    "end": 107
+  },
+  {
+    "entity": "blood-borne pathogen exposure",
+    "label": "PROBLEM",
+    "start": 115,
+    "end": 144
+  },
+  {
+    "entity": "Blood-borne pathogen exposure",
+    "label": "PROBLEM",
+    "start": 201,
+    "end": 230
+  },
+  {
+    "entity": "a blood gas",
+    "label": "TEST",
+    "start": 422,
+    "end": 433
+  },
+  {
+    "entity": "a needle",
+    "label": "TREATMENT",
+    "start": 503,
+    "end": 511
+  },
+  {
+    "entity": "the needle",
+    "label": "TREATMENT",
+    "start": 636,
+    "end": 646
+  },
+  {
+    "entity": "inadvertently pricked the tip of his index finger",
+    "label": "PROBLEM",
+    "start": 716,
+    "end": 765
+  },
+  {
+    "entity": "his injury",
+    "label": "PROBLEM",
+    "start": 931,
+    "end": 941
+  },
+  {
+    "entity": "disease",
+    "label": "PROBLEM",
+    "start": 986,
+    "end": 993
+  },
+  {
+    "entity": "HIV",
+    "label": "PROBLEM",
+    "start": 1027,
+    "end": 1030
+  },
+  {
+    "entity": "hepatitis C",
+    "label": "PROBLEM",
+    "start": 1066,
+    "end": 1077
+  },
+  {
+    "entity": "periodic screening",
+    "label": "TEST",
+    "start": 1099,
+    "end": 1117
+  },
+  {
+    "entity": "a blood tests",
+    "label": "TEST",
+    "start": 1128,
+    "end": 1141
+  },
+  {
+    "entity": "his final exam",
+    "label": "TEST",
+    "start": 1162,
+    "end": 1176
+  },
+  {
+    "entity": "any signs or symptoms",
+    "label": "PROBLEM",
+    "start": 1251,
+    "end": 1272
+  },
+  {
+    "entity": "viral illness",
+    "label": "PROBLEM",
+    "start": 1276,
+    "end": 1289
+  },
+  {
+    "entity": "nausea",
+    "label": "PROBLEM",
+    "start": 1340,
+    "end": 1346
+  },
+  {
+    "entity": "an episode of vomiting",
+    "label": "PROBLEM",
+    "start": 1352,
+    "end": 1374
+  },
+  {
+    "entity": "low appetite",
+    "label": "PROBLEM",
+    "start": 1391,
+    "end": 1403
+  },
+  {
+    "entity": "fevers",
+    "label": "PROBLEM",
+    "start": 1419,
+    "end": 1425
+  },
+  {
+    "entity": "chills",
+    "label": "PROBLEM",
+    "start": 1427,
+    "end": 1433
+  },
+  {
+    "entity": "malaise",
+    "label": "PROBLEM",
+    "start": 1438,
+    "end": 1445
+  },
+  {
+    "entity": "headache",
+    "label": "PROBLEM",
+    "start": 1450,
+    "end": 1458
+  },
+  {
+    "entity": "congestion",
+    "label": "PROBLEM",
+    "start": 1463,
+    "end": 1473
+  },
+  {
+    "entity": "cold",
+    "label": "PROBLEM",
+    "start": 1477,
+    "end": 1481
+  },
+  {
+    "entity": "coughing",
+    "label": "PROBLEM",
+    "start": 1486,
+    "end": 1494
+  },
+  {
+    "entity": "sore throat",
+    "label": "PROBLEM",
+    "start": 1506,
+    "end": 1517
+  },
+  {
+    "entity": "chest pain",
+    "label": "PROBLEM",
+    "start": 1532,
+    "end": 1542
+  },
+  {
+    "entity": "troubled breathing",
+    "label": "PROBLEM",
+    "start": 1546,
+    "end": 1564
+  },
+  {
+    "entity": "abdominal symptoms",
+    "label": "PROBLEM",
+    "start": 1578,
+    "end": 1596
+  },
+  {
+    "entity": "abdominal pain",
+    "label": "PROBLEM",
+    "start": 1623,
+    "end": 1637
+  },
+  {
+    "entity": "urinary symptoms",
+    "label": "PROBLEM",
+    "start": 1653,
+    "end": 1669
+  },
+  {
+    "entity": "darkening of the skin or eyes",
+    "label": "PROBLEM",
+    "start": 1674,
+    "end": 1703
+  },
+  {
+    "entity": "yellowing or darkening of the urine",
+    "label": "PROBLEM",
+    "start": 1715,
+    "end": 1750
+  },
+  {
+    "entity": "rash to the skin",
+    "label": "PROBLEM",
+    "start": 1762,
+    "end": 1778
+  },
+  {
+    "entity": "local infection at the side of the fingerstick",
+    "label": "PROBLEM",
+    "start": 1793,
+    "end": 1839
+  },
+  {
+    "entity": "degenerative disc disease in the back",
+    "label": "PROBLEM",
+    "start": 1912,
+    "end": 1949
+  },
+  {
+    "entity": "MEDICATIONS",
+    "label": "DRUG",
+    "start": 1951,
+    "end": 1962
+  },
+  {
+    "entity": "Nexium",
+    "label": "DRUG",
+    "start": 1964,
+    "end": 1970
+  },
+  {
+    "entity": "ALLERGIES",
+    "label": "PROBLEM",
+    "start": 1972,
+    "end": 1981
+  },
+  {
+    "entity": "ill",
+    "label": "PROBLEM",
+    "start": 2145,
+    "end": 2148
+  },
+  {
+    "entity": "toxic",
+    "label": "PROBLEM",
+    "start": 2152,
+    "end": 2157
+  },
+  {
+    "entity": "His temperature",
+    "label": "TEST",
+    "start": 2182,
+    "end": 2197
+  },
+  {
+    "entity": "pulse",
+    "label": "TEST",
+    "start": 2216,
+    "end": 2221
+  },
+  {
+    "entity": "respirations",
+    "label": "TEST",
+    "start": 2230,
+    "end": 2242
+  },
+  {
+    "entity": "blood pressure",
+    "label": "TEST",
+    "start": 2265,
+    "end": 2279
+  },
+  {
+    "entity": "HEENT exam",
+    "label": "TEST",
+    "start": 2288,
+    "end": 2298
+  },
+  {
+    "entity": "Ocular movements",
+    "label": "TEST",
+    "start": 2324,
+    "end": 2340
+  },
+  {
+    "entity": "pharyngeal erythema",
+    "label": "PROBLEM",
+    "start": 2402,
+    "end": 2421
+  },
+  {
+    "entity": "tonsillar enlargement",
+    "label": "PROBLEM",
+    "start": 2426,
+    "end": 2447
+  },
+  {
+    "entity": "masses",
+    "label": "PROBLEM",
+    "start": 2494,
+    "end": 2500
+  },
+  {
+    "entity": "adenopathy in his cervical or axillary chain",
+    "label": "PROBLEM",
+    "start": 2515,
+    "end": 2559
+  },
+  {
+    "entity": "Breath sounds",
+    "label": "TEST",
+    "start": 2561,
+    "end": 2574
+  },
+  {
+    "entity": "wheeze",
+    "label": "PROBLEM",
+    "start": 2604,
+    "end": 2610
+  },
+  {
+    "entity": "rales",
+    "label": "PROBLEM",
+    "start": 2614,
+    "end": 2619
+  },
+  {
+    "entity": "murmur",
+    "label": "PROBLEM",
+    "start": 2654,
+    "end": 2660
+  },
+  {
+    "entity": "gallop",
+    "label": "PROBLEM",
+    "start": 2664,
+    "end": 2670
+  },
+  {
+    "entity": "enlargement of the liver or spleen",
+    "label": "PROBLEM",
+    "start": 2728,
+    "end": 2762
+  },
+  {
+    "entity": "rash",
+    "label": "PROBLEM",
+    "start": 2793,
+    "end": 2797
+  },
+  {
+    "entity": "edema",
+    "label": "PROBLEM",
+    "start": 2801,
+    "end": 2806
+  },
+  {
+    "entity": "ataxia",
+    "label": "PROBLEM",
+    "start": 2847,
+    "end": 2853
+  },
+  {
+    "entity": "evaluation",
+    "label": "TEST",
+    "start": 2892,
+    "end": 2902
+  },
+  {
+    "entity": "a contaminated needlestick to the index finger",
+    "label": "PROBLEM",
+    "start": 2909,
+    "end": 2955
+  },
+  {
+    "entity": "HIV",
+    "label": "PROBLEM",
+    "start": 3016,
+    "end": 3019
+  },
+  {
+    "entity": "test",
+    "label": "TEST",
+    "start": 3037,
+    "end": 3041
+  },
+  {
+    "entity": "hepatitis C",
+    "label": "PROBLEM",
+    "start": 3055,
+    "end": 3066
+  },
+  {
+    "entity": "active disease",
+    "label": "PROBLEM",
+    "start": 3106,
+    "end": 3120
+  },
+  {
+    "entity": "periodic evaluation",
+    "label": "TEST",
+    "start": 3157,
+    "end": 3176
+  },
+  {
+    "entity": "blood testing",
+    "label": "TEST",
+    "start": 3187,
+    "end": 3200
+  },
+  {
+    "entity": "3 shot series for hepatitis B",
+    "label": "DRUG",
+    "start": 3221,
+    "end": 3250
+  },
+  {
+    "entity": "titers",
+    "label": "TEST",
+    "start": 3259,
+    "end": 3265
+  },
+  {
+    "entity": "his immunization",
+    "label": "TREATMENT",
+    "start": 3332,
+    "end": 3348
+  },
+  {
+    "entity": "tetanus",
+    "label": "DRUG",
+    "start": 3359,
+    "end": 3366
+  },
+  {
+    "entity": "a intestinal illness",
+    "label": "PROBLEM",
+    "start": 3435,
+    "end": 3455
+  },
+  {
+    "entity": "some squeakiness",
+    "label": "PROBLEM",
+    "start": 3480,
+    "end": 3496
+  },
+  {
+    "entity": "vomiting",
+    "label": "PROBLEM",
+    "start": 3501,
+    "end": 3509
+  },
+  {
+    "entity": "other symptoms",
+    "label": "PROBLEM",
+    "start": 3521,
+    "end": 3535
+  },
+  {
+    "entity": "acute hepatitis",
+    "label": "PROBLEM",
+    "start": 3560,
+    "end": 3575
+  },
+  {
+    "entity": "His abdominal exam",
+    "label": "TEST",
+    "start": 3577,
+    "end": 3595
+  },
+  {
+    "entity": "generalized lymphadenopathy",
+    "label": "PROBLEM",
+    "start": 3618,
+    "end": 3645
+  },
+  {
+    "entity": "fever",
+    "label": "PROBLEM",
+    "start": 3653,
+    "end": 3658
+  },
+  {
+    "entity": "Blood tests",
+    "label": "TEST",
+    "start": 3660,
+    "end": 3671
+  },
+  {
+    "entity": "His liver function test",
+    "label": "TEST",
+    "start": 3751,
+    "end": 3774
+  },
+  {
+    "entity": "hepatitis C",
+    "label": "PROBLEM",
+    "start": 3797,
+    "end": 3808
+  },
+  {
+    "entity": "HIV",
+    "label": "PROBLEM",
+    "start": 3813,
+    "end": 3816
+  },
+  {
+    "entity": "local signs of infection",
+    "label": "PROBLEM",
+    "start": 3857,
+    "end": 3881
+  },
+  {
+    "entity": "his acute intestinal illness",
+    "label": "PROBLEM",
+    "start": 3928,
+    "end": 3956
+  },
+  {
+    "entity": "Blood-borne pathogen exposure",
+    "label": "PROBLEM",
+    "start": 3989,
+    "end": 4018
+  },
+  {
+    "entity": "contaminated needlestick",
+    "label": "PROBLEM",
+    "start": 4032,
+    "end": 4056
+  },
+  {
+    "entity": "his injury",
+    "label": "PROBLEM",
+    "start": 4103,
+    "end": 4113
+  },
+  {
+    "entity": "lab studies",
+    "label": "TEST",
+    "start": 4131,
+    "end": 4142
+  },
+  {
+    "entity": "physical findings",
+    "label": "TEST",
+    "start": 4158,
+    "end": 4175
+  },
+  {
+    "entity": "disease transmission",
+    "label": "PROBLEM",
+    "start": 4200,
+    "end": 4220
+  },
+  {
+    "entity": "disease transmission",
+    "label": "PROBLEM",
+    "start": 4545,
+    "end": 4565
+  },
+  {
+    "entity": "his injury",
+    "label": "PROBLEM",
+    "start": 4592,
+    "end": 4602
+  },
+  {
+    "entity": "impairment",
+    "label": "PROBLEM",
+    "start": 4671,
+    "end": 4681
+  },
+  {
+    "entity": "pathogen exposure",
+    "label": "PROBLEM",
+    "start": 4727,
+    "end": 4744
+  },
+  {
+    "entity": "blood gas",
+    "label": "TEST",
+    "start": 4759,
+    "end": 4768
+  },
+  {
+    "entity": "nausea",
+    "label": "PROBLEM",
+    "start": 4810,
+    "end": 4816
+  },
+  {
+    "entity": "needlestick",
+    "label": "PROBLEM",
+    "start": 4818,
+    "end": 4829
+  },
+  {
+    "entity": "viral illness",
+    "label": "PROBLEM",
+    "start": 4845,
+    "end": 4858
+  },
+  {
+    "entity": "vomiting",
+    "label": "PROBLEM",
+    "start": 4860,
+    "end": 4868
+  },
+  {
+    "entity": "borne pathogen",
+    "label": "PROBLEM",
+    "start": 4883,
+    "end": 4897
+  },
+  {
+    "entity": "hepatitis",
+    "label": "PROBLEM",
+    "start": 4899,
+    "end": 4908
+  }
+]

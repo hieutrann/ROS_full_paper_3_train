@@ -1,0 +1,446 @@
+[
+  {
+    "entity": "Perioperative Elevated Blood Pressure",
+    "label": "PROBLEM",
+    "start": 63,
+    "end": 100
+  },
+  {
+    "entity": "the patient's blood pressure",
+    "label": "TEST",
+    "start": 130,
+    "end": 158
+  },
+  {
+    "entity": "labetalol",
+    "label": "DRUG",
+    "start": 196,
+    "end": 205
+  },
+  {
+    "entity": "Blood pressure",
+    "label": "TEST",
+    "start": 207,
+    "end": 221
+  },
+  {
+    "entity": "blood pressure",
+    "label": "TEST",
+    "start": 263,
+    "end": 277
+  },
+  {
+    "entity": "Perioperative elevated blood pressure",
+    "label": "PROBLEM",
+    "start": 367,
+    "end": 404
+  },
+  {
+    "entity": "Graves disease",
+    "label": "PROBLEM",
+    "start": 431,
+    "end": 445
+  },
+  {
+    "entity": "Paroxysmal atrial fibrillation",
+    "label": "PROBLEM",
+    "start": 450,
+    "end": 480
+  },
+  {
+    "entity": "sinus rhythm",
+    "label": "TEST",
+    "start": 501,
+    "end": 513
+  },
+  {
+    "entity": "medication",
+    "label": "DRUG",
+    "start": 538,
+    "end": 548
+  },
+  {
+    "entity": "Diverticulosis",
+    "label": "PROBLEM",
+    "start": 553,
+    "end": 567
+  },
+  {
+    "entity": "GERD",
+    "label": "PROBLEM",
+    "start": 572,
+    "end": 576
+  },
+  {
+    "entity": "High blood pressure",
+    "label": "PROBLEM",
+    "start": 581,
+    "end": 600
+  },
+  {
+    "entity": "Prostatic hypertrophy",
+    "label": "PROBLEM",
+    "start": 605,
+    "end": 626
+  },
+  {
+    "entity": "transurethral resection of the prostate",
+    "label": "TREATMENT",
+    "start": 640,
+    "end": 679
+  },
+  {
+    "entity": "Bilateral inguinal hernia repair",
+    "label": "TREATMENT",
+    "start": 704,
+    "end": 736
+  },
+  {
+    "entity": "right shoulder surgery",
+    "label": "TREATMENT",
+    "start": 738,
+    "end": 760
+  },
+  {
+    "entity": "reconstruction",
+    "label": "TREATMENT",
+    "start": 766,
+    "end": 780
+  },
+  {
+    "entity": "both shoulders rotator cuff repair",
+    "label": "TREATMENT",
+    "start": 782,
+    "end": 816
+  },
+  {
+    "entity": "left knee arthroplasty",
+    "label": "TREATMENT",
+    "start": 818,
+    "end": 840
+  },
+  {
+    "entity": "transurethral resection of prostate",
+    "label": "TREATMENT",
+    "start": 846,
+    "end": 881
+  },
+  {
+    "entity": "laser surgery",
+    "label": "TREATMENT",
+    "start": 977,
+    "end": 990
+  },
+  {
+    "entity": "surgery",
+    "label": "TREATMENT",
+    "start": 1030,
+    "end": 1037
+  },
+  {
+    "entity": "the patient's blood pressure",
+    "label": "TEST",
+    "start": 1039,
+    "end": 1067
+  },
+  {
+    "entity": "labetalol",
+    "label": "DRUG",
+    "start": 1105,
+    "end": 1114
+  },
+  {
+    "entity": "Blood pressure",
+    "label": "TEST",
+    "start": 1116,
+    "end": 1130
+  },
+  {
+    "entity": "the patient's blood pressure",
+    "label": "TEST",
+    "start": 1158,
+    "end": 1186
+  },
+  {
+    "entity": "blood pressure",
+    "label": "TEST",
+    "start": 1224,
+    "end": 1238
+  },
+  {
+    "entity": "shortness of breath",
+    "label": "PROBLEM",
+    "start": 1338,
+    "end": 1357
+  },
+  {
+    "entity": "chest pain",
+    "label": "PROBLEM",
+    "start": 1359,
+    "end": 1369
+  },
+  {
+    "entity": "palpitations",
+    "label": "PROBLEM",
+    "start": 1371,
+    "end": 1383
+  },
+  {
+    "entity": "dizziness",
+    "label": "PROBLEM",
+    "start": 1388,
+    "end": 1397
+  },
+  {
+    "entity": "fever",
+    "label": "PROBLEM",
+    "start": 1444,
+    "end": 1449
+  },
+  {
+    "entity": "general malaise",
+    "label": "PROBLEM",
+    "start": 1453,
+    "end": 1468
+  },
+  {
+    "entity": "cough",
+    "label": "PROBLEM",
+    "start": 1505,
+    "end": 1510
+  },
+  {
+    "entity": "shortness of breath",
+    "label": "PROBLEM",
+    "start": 1514,
+    "end": 1533
+  },
+  {
+    "entity": "chest pain",
+    "label": "PROBLEM",
+    "start": 1554,
+    "end": 1564
+  },
+  {
+    "entity": "nausea",
+    "label": "PROBLEM",
+    "start": 1587,
+    "end": 1593
+  },
+  {
+    "entity": "vomiting",
+    "label": "PROBLEM",
+    "start": 1597,
+    "end": 1605
+  },
+  {
+    "entity": "prostatic hypertrophy",
+    "label": "PROBLEM",
+    "start": 1638,
+    "end": 1659
+  },
+  {
+    "entity": "laser surgery",
+    "label": "TREATMENT",
+    "start": 1665,
+    "end": 1678
+  },
+  {
+    "entity": "diabetes",
+    "label": "PROBLEM",
+    "start": 1718,
+    "end": 1726
+  },
+  {
+    "entity": "Graves disease",
+    "label": "PROBLEM",
+    "start": 1745,
+    "end": 1759
+  },
+  {
+    "entity": "Synthroid",
+    "label": "DRUG",
+    "start": 1792,
+    "end": 1801
+  },
+  {
+    "entity": "aspirin",
+    "label": "DRUG",
+    "start": 1806,
+    "end": 1813
+  },
+  {
+    "entity": "Aspirin",
+    "label": "DRUG",
+    "start": 1815,
+    "end": 1822
+  },
+  {
+    "entity": "atenolol",
+    "label": "DRUG",
+    "start": 1880,
+    "end": 1888
+  },
+  {
+    "entity": "lisinopril",
+    "label": "DRUG",
+    "start": 1890,
+    "end": 1900
+  },
+  {
+    "entity": "terazosin",
+    "label": "DRUG",
+    "start": 1906,
+    "end": 1915
+  },
+  {
+    "entity": "acute distress",
+    "label": "PROBLEM",
+    "start": 2064,
+    "end": 2078
+  },
+  {
+    "entity": "auscultation",
+    "label": "TEST",
+    "start": 2096,
+    "end": 2108
+  },
+  {
+    "entity": "murmur",
+    "label": "PROBLEM",
+    "start": 2171,
+    "end": 2177
+  },
+  {
+    "entity": "swelling",
+    "label": "PROBLEM",
+    "start": 2237,
+    "end": 2245
+  },
+  {
+    "entity": "Examination",
+    "label": "TEST",
+    "start": 2299,
+    "end": 2310
+  },
+  {
+    "entity": "Perioperative hypertension",
+    "label": "PROBLEM",
+    "start": 2348,
+    "end": 2374
+  },
+  {
+    "entity": "lisinopril",
+    "label": "DRUG",
+    "start": 2392,
+    "end": 2402
+  },
+  {
+    "entity": "blood pressure",
+    "label": "TEST",
+    "start": 2465,
+    "end": 2479
+  },
+  {
+    "entity": "lisinopril",
+    "label": "DRUG",
+    "start": 2553,
+    "end": 2563
+  },
+  {
+    "entity": "blood pressure",
+    "label": "TEST",
+    "start": 2658,
+    "end": 2672
+  },
+  {
+    "entity": "lisinopril",
+    "label": "DRUG",
+    "start": 2727,
+    "end": 2737
+  },
+  {
+    "entity": "Prostatic hypertrophy",
+    "label": "PROBLEM",
+    "start": 2828,
+    "end": 2849
+  },
+  {
+    "entity": "laser surgery",
+    "label": "TREATMENT",
+    "start": 2863,
+    "end": 2876
+  },
+  {
+    "entity": "Graves disease",
+    "label": "PROBLEM",
+    "start": 2934,
+    "end": 2948
+  },
+  {
+    "entity": "atrial fibrillation",
+    "label": "PROBLEM",
+    "start": 2964,
+    "end": 2983
+  },
+  {
+    "entity": "sinus rhythm",
+    "label": "TEST",
+    "start": 3010,
+    "end": 3022
+  },
+  {
+    "entity": "lisinopril",
+    "label": "DRUG",
+    "start": 3123,
+    "end": 3133
+  },
+  {
+    "entity": "the blood pressure",
+    "label": "TEST",
+    "start": 3147,
+    "end": 3165
+  },
+  {
+    "entity": "elevated blood pressure",
+    "label": "PROBLEM",
+    "start": 3215,
+    "end": 3238
+  },
+  {
+    "entity": "paroxysmal atrial fibrillation",
+    "label": "PROBLEM",
+    "start": 3240,
+    "end": 3270
+  },
+  {
+    "entity": "prostatic hypertrophy",
+    "label": "PROBLEM",
+    "start": 3272,
+    "end": 3293
+  },
+  {
+    "entity": "rotator cuff repair",
+    "label": "TREATMENT",
+    "start": 3295,
+    "end": 3314
+  },
+  {
+    "entity": "left knee arthroplasty",
+    "label": "TREATMENT",
+    "start": 3316,
+    "end": 3338
+  },
+  {
+    "entity": "transurethral resection of prostate",
+    "label": "TREATMENT",
+    "start": 3340,
+    "end": 3375
+  },
+  {
+    "entity": "blood pressure",
+    "label": "TEST",
+    "start": 3377,
+    "end": 3391
+  }
+]

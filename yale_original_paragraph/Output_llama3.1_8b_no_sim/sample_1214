@@ -1,0 +1,62 @@
+[
+  {
+    "Respiratory Distress": "PROBLEM"
+  },
+  {
+    "Reactive Airways Disease": "PROBLEM"
+  },
+  {
+    "Pneumonia": "PROBLEM"
+  },
+  {
+    "albuterol": "DRUG"
+  },
+  {
+    "corticosteroids": "DRUG"
+  },
+  {
+    "amoxicillin": "DRUG"
+  },
+  {
+    "Zithromax": "DRUG"
+  },
+  {
+    "Xopenex": "DRUG"
+  },
+  {
+    "QVAR": "DRUG"
+  },
+  {
+    "CRP": "TEST"
+  },
+  {
+    "CBC": "TEST"
+  },
+  {
+    "x-ray": "TEST"
+  },
+  {
+    "nebulized treatments": "TREATMENT"
+  },
+  {
+    "incision": "TREATMENT"
+  },
+  {
+    "drainage": "TREATMENT"
+  },
+  {
+    "nebulized albuterol": "TREATMENT"
+  },
+  {
+    "inhaled corticosteroids": "TREATMENT"
+  },
+  {
+    "systemic corticosteroids": "TREATMENT"
+  },
+  {
+    "amoxicillin": "TREATMENT"
+  },
+  {
+    "Zithromax": "TREATMENT"
+  }
+]

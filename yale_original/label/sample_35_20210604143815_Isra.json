@@ -1,0 +1,428 @@
+[
+  {
+    "entity": "temperature",
+    "label": "TEST",
+    "start": 113,
+    "end": 124
+  },
+  {
+    "entity": "left sacroiliac type hip pain",
+    "label": "PROBLEM",
+    "start": 190,
+    "end": 219
+  },
+  {
+    "entity": "degenerative disk disease of her lumbar spine",
+    "label": "PROBLEM",
+    "start": 235,
+    "end": 280
+  },
+  {
+    "entity": "hip pathology",
+    "label": "PROBLEM",
+    "start": 288,
+    "end": 301
+  },
+  {
+    "entity": "swollen inguinal nodes",
+    "label": "PROBLEM",
+    "start": 311,
+    "end": 333
+  },
+  {
+    "entity": "fever",
+    "label": "PROBLEM",
+    "start": 465,
+    "end": 470
+  },
+  {
+    "entity": "chills",
+    "label": "PROBLEM",
+    "start": 472,
+    "end": 478
+  },
+  {
+    "entity": "left pelvic pain",
+    "label": "PROBLEM",
+    "start": 484,
+    "end": 500
+  },
+  {
+    "entity": "pain in her left posterior pelvic and low back region",
+    "label": "PROBLEM",
+    "start": 580,
+    "end": 633
+  },
+  {
+    "entity": "severe pain",
+    "label": "PROBLEM",
+    "start": 714,
+    "end": 725
+  },
+  {
+    "entity": "fever",
+    "label": "PROBLEM",
+    "start": 734,
+    "end": 739
+  },
+  {
+    "entity": "temperature",
+    "label": "TEST",
+    "start": 809,
+    "end": 820
+  },
+  {
+    "entity": "had left sacroiliac type hip pain",
+    "label": "PROBLEM",
+    "start": 882,
+    "end": 915
+  },
+  {
+    "entity": "Multiple blood studies",
+    "label": "TEST",
+    "start": 917,
+    "end": 939
+  },
+  {
+    "entity": "cultures",
+    "label": "TEST",
+    "start": 965,
+    "end": 973
+  },
+  {
+    "entity": "febrile agglutinins",
+    "label": "TEST",
+    "start": 975,
+    "end": 994
+  },
+  {
+    "entity": "a higher blood glucose",
+    "label": "PROBLEM",
+    "start": 1017,
+    "end": 1039
+  },
+  {
+    "entity": "insulin",
+    "label": "DRUG",
+    "start": 1088,
+    "end": 1095
+  },
+  {
+    "entity": "a diabetic",
+    "label": "PROBLEM",
+    "start": 1132,
+    "end": 1142
+  },
+  {
+    "entity": "All x-rays",
+    "label": "TEST",
+    "start": 1144,
+    "end": 1154
+  },
+  {
+    "entity": "her discomfort",
+    "label": "PROBLEM",
+    "start": 1216,
+    "end": 1230
+  },
+  {
+    "entity": "MRIs of the lumbar spine and the pelvis and both thighs",
+    "label": "TEST",
+    "start": 1232,
+    "end": 1287
+  },
+  {
+    "entity": "any inflammatory process",
+    "label": "PROBLEM",
+    "start": 1315,
+    "end": 1339
+  },
+  {
+    "entity": "degenerative disk disease of her lumbar spine",
+    "label": "PROBLEM",
+    "start": 1355,
+    "end": 1400
+  },
+  {
+    "entity": "hip pathology",
+    "label": "PROBLEM",
+    "start": 1408,
+    "end": 1421
+  },
+  {
+    "entity": "swollen inguinal nodes",
+    "label": "PROBLEM",
+    "start": 1431,
+    "end": 1453
+  },
+  {
+    "entity": "a diabetic",
+    "label": "PROBLEM",
+    "start": 1535,
+    "end": 1545
+  },
+  {
+    "entity": "hypertensive",
+    "label": "PROBLEM",
+    "start": 1581,
+    "end": 1593
+  },
+  {
+    "entity": "medications",
+    "label": "DRUG",
+    "start": 1611,
+    "end": 1622
+  },
+  {
+    "entity": "hyperlipidemia",
+    "label": "PROBLEM",
+    "start": 1664,
+    "end": 1678
+  },
+  {
+    "entity": "thyroid problems",
+    "label": "PROBLEM",
+    "start": 1695,
+    "end": 1711
+  },
+  {
+    "entity": "asthma",
+    "label": "PROBLEM",
+    "start": 1731,
+    "end": 1737
+  },
+  {
+    "entity": "bronchitis",
+    "label": "PROBLEM",
+    "start": 1739,
+    "end": 1749
+  },
+  {
+    "entity": "TB",
+    "label": "PROBLEM",
+    "start": 1751,
+    "end": 1753
+  },
+  {
+    "entity": "emphysema",
+    "label": "PROBLEM",
+    "start": 1755,
+    "end": 1764
+  },
+  {
+    "entity": "pneumonia",
+    "label": "PROBLEM",
+    "start": 1768,
+    "end": 1777
+  },
+  {
+    "entity": "tuberculosis",
+    "label": "PROBLEM",
+    "start": 1782,
+    "end": 1794
+  },
+  {
+    "entity": "breast tumors",
+    "label": "PROBLEM",
+    "start": 1811,
+    "end": 1824
+  },
+  {
+    "entity": "chest pain",
+    "label": "PROBLEM",
+    "start": 1841,
+    "end": 1851
+  },
+  {
+    "entity": "cardiac problems",
+    "label": "PROBLEM",
+    "start": 1855,
+    "end": 1871
+  },
+  {
+    "entity": "gallbladder surgery",
+    "label": "TREATMENT",
+    "start": 1885,
+    "end": 1904
+  },
+  {
+    "entity": "any gastritis",
+    "label": "PROBLEM",
+    "start": 1922,
+    "end": 1935
+  },
+  {
+    "entity": "ulcers",
+    "label": "PROBLEM",
+    "start": 1939,
+    "end": 1945
+  },
+  {
+    "entity": "kidney disease",
+    "label": "PROBLEM",
+    "start": 1962,
+    "end": 1976
+  },
+  {
+    "entity": "a hysterectomy",
+    "label": "TREATMENT",
+    "start": 1990,
+    "end": 2004
+  },
+  {
+    "entity": "A&P repair",
+    "label": "TREATMENT",
+    "start": 2063,
+    "end": 2073
+  },
+  {
+    "entity": "a sacral abscess",
+    "label": "PROBLEM",
+    "start": 2083,
+    "end": 2099
+  },
+  {
+    "entity": "a spinal",
+    "label": "TREATMENT",
+    "start": 2106,
+    "end": 2114
+  },
+  {
+    "entity": "a pilonidal cyst",
+    "label": "PROBLEM",
+    "start": 2145,
+    "end": 2161
+  },
+  {
+    "entity": "fractures",
+    "label": "PROBLEM",
+    "start": 2218,
+    "end": 2227
+  },
+  {
+    "entity": "significant arthritis",
+    "label": "PROBLEM",
+    "start": 2235,
+    "end": 2256
+  },
+  {
+    "entity": "hip pain in the posterior sacroiliac joint area",
+    "label": "PROBLEM",
+    "start": 2583,
+    "end": 2630
+  },
+  {
+    "entity": "the pain",
+    "label": "PROBLEM",
+    "start": 2780,
+    "end": 2788
+  },
+  {
+    "entity": "severe pain",
+    "label": "PROBLEM",
+    "start": 2863,
+    "end": 2874
+  },
+  {
+    "entity": "ankle reflexes.",
+    "label": "TEST",
+    "start": 2909,
+    "end": 2924
+  },
+  {
+    "entity": "bounding tibial pulses",
+    "label": "PROBLEM",
+    "start": 2933,
+    "end": 2955
+  },
+  {
+    "entity": "sensory deficit",
+    "label": "PROBLEM",
+    "start": 2960,
+    "end": 2975
+  },
+  {
+    "entity": "a healed scar in the upper sacral region",
+    "label": "PROBLEM",
+    "start": 3026,
+    "end": 3066
+  },
+  {
+    "entity": "some bruising around the buttocks",
+    "label": "PROBLEM",
+    "start": 3077,
+    "end": 3110
+  },
+  {
+    "entity": "a triple-phase bone scan",
+    "label": "TEST",
+    "start": 3205,
+    "end": 3229
+  },
+  {
+    "entity": "an infection",
+    "label": "PROBLEM",
+    "start": 3247,
+    "end": 3259
+  },
+  {
+    "entity": "bacterium",
+    "label": "PROBLEM",
+    "start": 3327,
+    "end": 3336
+  },
+  {
+    "entity": "white count",
+    "label": "TEST",
+    "start": 3398,
+    "end": 3409
+  },
+  {
+    "entity": "fever",
+    "label": "PROBLEM",
+    "start": 3422,
+    "end": 3427
+  },
+  {
+    "entity": "brucellosis",
+    "label": "PROBLEM",
+    "start": 3457,
+    "end": 3468
+  },
+  {
+    "entity": "her titers",
+    "label": "TEST",
+    "start": 3486,
+    "end": 3496
+  },
+  {
+    "entity": "medication",
+    "label": "DRUG",
+    "start": 3533,
+    "end": 3543
+  },
+  {
+    "entity": "antibiotics",
+    "label": "DRUG",
+    "start": 3559,
+    "end": 3570
+  },
+  {
+    "entity": "Motrin",
+    "label": "DRUG",
+    "start": 3584,
+    "end": 3590
+  },
+  {
+    "entity": "Darvocet",
+    "label": "DRUG",
+    "start": 3595,
+    "end": 3603
+  },
+  {
+    "entity": "fever",
+    "label": "PROBLEM",
+    "start": 3661,
+    "end": 3666
+  }
+]

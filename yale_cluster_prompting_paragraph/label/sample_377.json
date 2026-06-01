@@ -1,0 +1,710 @@
+[
+  {
+    "entity": "Chest Pain",
+    "label": "PROBLEM",
+    "start": 73,
+    "end": 83
+  },
+  {
+    "entity": "multiple problems",
+    "label": "PROBLEM",
+    "start": 110,
+    "end": 127
+  },
+  {
+    "entity": "chest pain at night",
+    "label": "PROBLEM",
+    "start": 141,
+    "end": 160
+  },
+  {
+    "entity": "Multiple problems",
+    "label": "PROBLEM",
+    "start": 217,
+    "end": 234
+  },
+  {
+    "entity": "chest pain at night",
+    "label": "PROBLEM",
+    "start": 248,
+    "end": 267
+  },
+  {
+    "entity": "multiple problems",
+    "label": "PROBLEM",
+    "start": 331,
+    "end": 348
+  },
+  {
+    "entity": "chest pain at night",
+    "label": "PROBLEM",
+    "start": 396,
+    "end": 415
+  },
+  {
+    "entity": "a treadmill",
+    "label": "TEST",
+    "start": 498,
+    "end": 509
+  },
+  {
+    "entity": "an echocardiogram",
+    "label": "TEST",
+    "start": 514,
+    "end": 531
+  },
+  {
+    "entity": "cardiovascular disease",
+    "label": "PROBLEM",
+    "start": 549,
+    "end": 571
+  },
+  {
+    "entity": "her symptoms",
+    "label": "PROBLEM",
+    "start": 577,
+    "end": 589
+  },
+  {
+    "entity": "a pressure",
+    "label": "PROBLEM",
+    "start": 686,
+    "end": 696
+  },
+  {
+    "entity": "any fast heartbeats",
+    "label": "PROBLEM",
+    "start": 898,
+    "end": 917
+  },
+  {
+    "entity": "irregular heartbeats",
+    "label": "PROBLEM",
+    "start": 921,
+    "end": 941
+  },
+  {
+    "entity": "stomach pains",
+    "label": "PROBLEM",
+    "start": 979,
+    "end": 992
+  },
+  {
+    "entity": "reflux",
+    "label": "PROBLEM",
+    "start": 1214,
+    "end": 1220
+  },
+  {
+    "entity": "Aciphex",
+    "label": "DRUG",
+    "start": 1259,
+    "end": 1266
+  },
+  {
+    "entity": "symptoms",
+    "label": "PROBLEM",
+    "start": 1281,
+    "end": 1289
+  },
+  {
+    "entity": "her Aciphex",
+    "label": "DRUG",
+    "start": 1304,
+    "end": 1315
+  },
+  {
+    "entity": "the reflux",
+    "label": "PROBLEM",
+    "start": 1340,
+    "end": 1350
+  },
+  {
+    "entity": "belching",
+    "label": "PROBLEM",
+    "start": 1351,
+    "end": 1359
+  },
+  {
+    "entity": "burping",
+    "label": "PROBLEM",
+    "start": 1361,
+    "end": 1368
+  },
+  {
+    "entity": "heartburn",
+    "label": "PROBLEM",
+    "start": 1374,
+    "end": 1383
+  },
+  {
+    "entity": "right flank pain",
+    "label": "PROBLEM",
+    "start": 1410,
+    "end": 1426
+  },
+  {
+    "entity": "a dull achy pain",
+    "label": "PROBLEM",
+    "start": 1498,
+    "end": 1514
+  },
+  {
+    "entity": "some spots on her shoulder",
+    "label": "PROBLEM",
+    "start": 1549,
+    "end": 1575
+  },
+  {
+    "entity": "painful",
+    "label": "PROBLEM",
+    "start": 1747,
+    "end": 1754
+  },
+  {
+    "entity": "had spots in her armpits",
+    "label": "PROBLEM",
+    "start": 1767,
+    "end": 1791
+  },
+  {
+    "entity": "urgency of urine",
+    "label": "PROBLEM",
+    "start": 1904,
+    "end": 1920
+  },
+  {
+    "entity": "a colonoscopy",
+    "label": "TEST",
+    "start": 2104,
+    "end": 2117
+  },
+  {
+    "entity": "routine labs",
+    "label": "TEST",
+    "start": 2156,
+    "end": 2168
+  },
+  {
+    "entity": "her chronic leukopenia",
+    "label": "PROBLEM",
+    "start": 2183,
+    "end": 2205
+  },
+  {
+    "entity": "a hepatitis titer",
+    "label": "TEST",
+    "start": 2224,
+    "end": 2241
+  },
+  {
+    "entity": "pain in her thumbs",
+    "label": "PROBLEM",
+    "start": 2258,
+    "end": 2276
+  },
+  {
+    "entity": "swelling",
+    "label": "PROBLEM",
+    "start": 2385,
+    "end": 2393
+  },
+  {
+    "entity": "redness",
+    "label": "PROBLEM",
+    "start": 2397,
+    "end": 2404
+  },
+  {
+    "entity": "trauma",
+    "label": "PROBLEM",
+    "start": 2408,
+    "end": 2414
+  },
+  {
+    "entity": "some hearing loss gradually",
+    "label": "PROBLEM",
+    "start": 2507,
+    "end": 2534
+  },
+  {
+    "entity": "any problems with swallowing",
+    "label": "PROBLEM",
+    "start": 2547,
+    "end": 2575
+  },
+  {
+    "entity": "shortness of breath",
+    "label": "PROBLEM",
+    "start": 2600,
+    "end": 2619
+  },
+  {
+    "entity": "chronic cough",
+    "label": "PROBLEM",
+    "start": 2658,
+    "end": 2671
+  },
+  {
+    "entity": "any black or bloody stools",
+    "label": "PROBLEM",
+    "start": 2716,
+    "end": 2742
+  },
+  {
+    "entity": "diarrhea",
+    "label": "PROBLEM",
+    "start": 2744,
+    "end": 2752
+  },
+  {
+    "entity": "constipation",
+    "label": "PROBLEM",
+    "start": 2757,
+    "end": 2769
+  },
+  {
+    "entity": "blood in her urine",
+    "label": "PROBLEM",
+    "start": 2785,
+    "end": 2803
+  },
+  {
+    "entity": "urinary problems",
+    "label": "PROBLEM",
+    "start": 2819,
+    "end": 2835
+  },
+  {
+    "entity": "edema",
+    "label": "PROBLEM",
+    "start": 2898,
+    "end": 2903
+  },
+  {
+    "entity": "lower extremity numbness or tingling",
+    "label": "PROBLEM",
+    "start": 2907,
+    "end": 2943
+  },
+  {
+    "entity": "type I diabetes",
+    "label": "PROBLEM",
+    "start": 3180,
+    "end": 3195
+  },
+  {
+    "entity": "heart disease",
+    "label": "PROBLEM",
+    "start": 3200,
+    "end": 3213
+  },
+  {
+    "entity": "heart attack",
+    "label": "PROBLEM",
+    "start": 3241,
+    "end": 3253
+  },
+  {
+    "entity": "Episodic leukopenia",
+    "label": "PROBLEM",
+    "start": 3310,
+    "end": 3329
+  },
+  {
+    "entity": "mild irritable bowel syndrome",
+    "label": "PROBLEM",
+    "start": 3334,
+    "end": 3363
+  },
+  {
+    "entity": "Aciphex",
+    "label": "DRUG",
+    "start": 3386,
+    "end": 3393
+  },
+  {
+    "entity": "aspirin",
+    "label": "DRUG",
+    "start": 3409,
+    "end": 3416
+  },
+  {
+    "entity": "ALLERGIES",
+    "label": "PROBLEM",
+    "start": 3428,
+    "end": 3437
+  },
+  {
+    "entity": "known medical allergies",
+    "label": "PROBLEM",
+    "start": 3442,
+    "end": 3465
+  },
+  {
+    "entity": "Vital Signs",
+    "label": "TEST",
+    "start": 3478,
+    "end": 3489
+  },
+  {
+    "entity": "Weight",
+    "label": "TEST",
+    "start": 3491,
+    "end": 3497
+  },
+  {
+    "entity": "Blood pressure",
+    "label": "TEST",
+    "start": 3511,
+    "end": 3525
+  },
+  {
+    "entity": "Pulse",
+    "label": "TEST",
+    "start": 3535,
+    "end": 3540
+  },
+  {
+    "entity": "acute distress",
+    "label": "PROBLEM",
+    "start": 3624,
+    "end": 3638
+  },
+  {
+    "entity": "lymphadenopathy",
+    "label": "PROBLEM",
+    "start": 3830,
+    "end": 3845
+  },
+  {
+    "entity": "thyromegaly",
+    "label": "PROBLEM",
+    "start": 3849,
+    "end": 3860
+  },
+  {
+    "entity": "respiratory effort",
+    "label": "TEST",
+    "start": 3887,
+    "end": 3905
+  },
+  {
+    "entity": "rhythm",
+    "label": "TEST",
+    "start": 3922,
+    "end": 3928
+  },
+  {
+    "entity": "rate",
+    "label": "TEST",
+    "start": 3933,
+    "end": 3937
+  },
+  {
+    "entity": "murmur",
+    "label": "PROBLEM",
+    "start": 3946,
+    "end": 3952
+  },
+  {
+    "entity": "Radial pulses",
+    "label": "TEST",
+    "start": 3954,
+    "end": 3967
+  },
+  {
+    "entity": "organomegaly",
+    "label": "PROBLEM",
+    "start": 4043,
+    "end": 4055
+  },
+  {
+    "entity": "Examination of the hands",
+    "label": "TEST",
+    "start": 4070,
+    "end": 4094
+  },
+  {
+    "entity": "some tenderness at the base of her thumbs bilaterally",
+    "label": "PROBLEM",
+    "start": 4103,
+    "end": 4156
+  },
+  {
+    "entity": "a tinea versicolor rash",
+    "label": "PROBLEM",
+    "start": 4253,
+    "end": 4276
+  },
+  {
+    "entity": "a lesion on her left shoulder",
+    "label": "PROBLEM",
+    "start": 4321,
+    "end": 4350
+  },
+  {
+    "entity": "diffuse borders",
+    "label": "PROBLEM",
+    "start": 4386,
+    "end": 4401
+  },
+  {
+    "entity": "slightly red",
+    "label": "PROBLEM",
+    "start": 4409,
+    "end": 4421
+  },
+  {
+    "entity": "brown spots",
+    "label": "PROBLEM",
+    "start": 4434,
+    "end": 4445
+  },
+  {
+    "entity": "cyanosis",
+    "label": "PROBLEM",
+    "start": 4491,
+    "end": 4499
+  },
+  {
+    "entity": "edema",
+    "label": "PROBLEM",
+    "start": 4503,
+    "end": 4508
+  },
+  {
+    "entity": "posterior tibial pulses",
+    "label": "TEST",
+    "start": 4535,
+    "end": 4558
+  },
+  {
+    "entity": "Her gait",
+    "label": "TEST",
+    "start": 4583,
+    "end": 4591
+  },
+  {
+    "entity": "Her affect",
+    "label": "TEST",
+    "start": 4616,
+    "end": 4626
+  },
+  {
+    "entity": "Her speech",
+    "label": "TEST",
+    "start": 4690,
+    "end": 4700
+  },
+  {
+    "entity": "Her coordination of upper and lower extremities",
+    "label": "TEST",
+    "start": 4720,
+    "end": 4767
+  },
+  {
+    "entity": "Chest pain",
+    "label": "PROBLEM",
+    "start": 4799,
+    "end": 4809
+  },
+  {
+    "entity": "evaluation",
+    "label": "TEST",
+    "start": 4849,
+    "end": 4859
+  },
+  {
+    "entity": "the symptoms",
+    "label": "PROBLEM",
+    "start": 4874,
+    "end": 4886
+  },
+  {
+    "entity": "reflux",
+    "label": "PROBLEM",
+    "start": 4963,
+    "end": 4969
+  },
+  {
+    "entity": "her Aciphex",
+    "label": "DRUG",
+    "start": 4998,
+    "end": 5009
+  },
+  {
+    "entity": "EGD",
+    "label": "TEST",
+    "start": 5088,
+    "end": 5091
+  },
+  {
+    "entity": "her symptoms",
+    "label": "PROBLEM",
+    "start": 5157,
+    "end": 5169
+  },
+  {
+    "entity": "any severe episodes",
+    "label": "PROBLEM",
+    "start": 5208,
+    "end": 5227
+  },
+  {
+    "entity": "Stomach pain",
+    "label": "PROBLEM",
+    "start": 5232,
+    "end": 5244
+  },
+  {
+    "entity": "chest pain",
+    "label": "PROBLEM",
+    "start": 5323,
+    "end": 5333
+  },
+  {
+    "entity": "Suspicious lesions on the left shoulder",
+    "label": "PROBLEM",
+    "start": 5338,
+    "end": 5377
+  },
+  {
+    "entity": "a punch biopsy",
+    "label": "TEST",
+    "start": 5390,
+    "end": 5404
+  },
+  {
+    "entity": "Tinea versicolor in the axillary area",
+    "label": "PROBLEM",
+    "start": 5452,
+    "end": 5489
+  },
+  {
+    "entity": "selenium sulfide lotion",
+    "label": "DRUG",
+    "start": 5509,
+    "end": 5532
+  },
+  {
+    "entity": "Cystocele",
+    "label": "PROBLEM",
+    "start": 5578,
+    "end": 5587
+  },
+  {
+    "entity": "repair",
+    "label": "TREATMENT",
+    "start": 5644,
+    "end": 5650
+  },
+  {
+    "entity": "her urinary incontinence",
+    "label": "PROBLEM",
+    "start": 5658,
+    "end": 5682
+  },
+  {
+    "entity": "leukopenia",
+    "label": "PROBLEM",
+    "start": 5698,
+    "end": 5708
+  },
+  {
+    "entity": "a CBC",
+    "label": "TEST",
+    "start": 5724,
+    "end": 5729
+  },
+  {
+    "entity": "Pain in the thumbs",
+    "label": "PROBLEM",
+    "start": 5734,
+    "end": 5752
+  },
+  {
+    "entity": "Screening",
+    "label": "TEST",
+    "start": 5804,
+    "end": 5813
+  },
+  {
+    "entity": "colon cancer screening",
+    "label": "TEST",
+    "start": 5862,
+    "end": 5884
+  },
+  {
+    "entity": "Gastroesophageal reflux disease",
+    "label": "PROBLEM",
+    "start": 5889,
+    "end": 5920
+  },
+  {
+    "entity": "Aciphex",
+    "label": "DRUG",
+    "start": 5939,
+    "end": 5946
+  },
+  {
+    "entity": "cystocele",
+    "label": "PROBLEM",
+    "start": 5994,
+    "end": 6003
+  },
+  {
+    "entity": "gastroesophageal reflux disease",
+    "label": "PROBLEM",
+    "start": 6005,
+    "end": 6036
+  },
+  {
+    "entity": "stomach pain",
+    "label": "PROBLEM",
+    "start": 6038,
+    "end": 6050
+  },
+  {
+    "entity": "chest pain",
+    "label": "PROBLEM",
+    "start": 6070,
+    "end": 6080
+  },
+  {
+    "entity": "leukopenia",
+    "label": "PROBLEM",
+    "start": 6082,
+    "end": 6092
+  },
+  {
+    "entity": "multiple problems",
+    "label": "PROBLEM",
+    "start": 6094,
+    "end": 6111
+  },
+  {
+    "entity": "pulses",
+    "label": "TEST",
+    "start": 6113,
+    "end": 6119
+  },
+  {
+    "entity": "pulses",
+    "label": "TEST",
+    "start": 6182,
+    "end": 6188
+  },
+  {
+    "entity": "reflux",
+    "label": "PROBLEM",
+    "start": 6203,
+    "end": 6209
+  },
+  {
+    "entity": "aciphex",
+    "label": "DRUG",
+    "start": 6211,
+    "end": 6218
+  }
+]

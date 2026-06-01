@@ -1,0 +1,728 @@
+[
+  {
+    "entity": "Coronary Artery Disease",
+    "label": "PROBLEM",
+    "start": 73,
+    "end": 96
+  },
+  {
+    "entity": "Coronary artery disease",
+    "label": "PROBLEM",
+    "start": 110,
+    "end": 133
+  },
+  {
+    "entity": "bypass surgery",
+    "label": "PROBLEM",
+    "start": 141,
+    "end": 155
+  },
+  {
+    "entity": "elevated PSA and BPH",
+    "label": "PROBLEM",
+    "start": 184,
+    "end": 204
+  },
+  {
+    "entity": "a prior prostate biopsy",
+    "label": "TEST",
+    "start": 213,
+    "end": 236
+  },
+  {
+    "entity": "urinary tract infection",
+    "label": "PROBLEM",
+    "start": 301,
+    "end": 324
+  },
+  {
+    "entity": "antibiotic",
+    "label": "DRUG",
+    "start": 343,
+    "end": 353
+  },
+  {
+    "entity": "fatigue",
+    "label": "PROBLEM",
+    "start": 434,
+    "end": 441
+  },
+  {
+    "entity": "tiredness",
+    "label": "PROBLEM",
+    "start": 446,
+    "end": 455
+  },
+  {
+    "entity": "Coronary artery disease (CAD",
+    "label": "PROBLEM",
+    "start": 520,
+    "end": 548
+  },
+  {
+    "entity": "bypass surgery",
+    "label": "TREATMENT",
+    "start": 557,
+    "end": 571
+  },
+  {
+    "entity": "fever",
+    "label": "PROBLEM",
+    "start": 675,
+    "end": 680
+  },
+  {
+    "entity": "elevated PSA and BPH",
+    "label": "PROBLEM",
+    "start": 709,
+    "end": 729
+  },
+  {
+    "entity": "a prior prostate biopsy",
+    "label": "TEST",
+    "start": 738,
+    "end": 761
+  },
+  {
+    "entity": "urinary tract infection",
+    "label": "PROBLEM",
+    "start": 826,
+    "end": 849
+  },
+  {
+    "entity": "antibiotic",
+    "label": "DRUG",
+    "start": 868,
+    "end": 878
+  },
+  {
+    "entity": "fatigue",
+    "label": "PROBLEM",
+    "start": 959,
+    "end": 966
+  },
+  {
+    "entity": "tiredness",
+    "label": "PROBLEM",
+    "start": 971,
+    "end": 980
+  },
+  {
+    "entity": "chest pain",
+    "label": "PROBLEM",
+    "start": 997,
+    "end": 1007
+  },
+  {
+    "entity": "shortness of breath",
+    "label": "PROBLEM",
+    "start": 1011,
+    "end": 1030
+  },
+  {
+    "entity": "hypertension",
+    "label": "PROBLEM",
+    "start": 1122,
+    "end": 1134
+  },
+  {
+    "entity": "diabetes mellitus",
+    "label": "PROBLEM",
+    "start": 1147,
+    "end": 1164
+  },
+  {
+    "entity": "Cholesterol elevated",
+    "label": "PROBLEM",
+    "start": 1177,
+    "end": 1197
+  },
+  {
+    "entity": "established coronary artery disease",
+    "label": "PROBLEM",
+    "start": 1210,
+    "end": 1245
+  },
+  {
+    "entity": "coronary artery disease",
+    "label": "PROBLEM",
+    "start": 1318,
+    "end": 1341
+  },
+  {
+    "entity": "Coronary artery bypass surgery",
+    "label": "TREATMENT",
+    "start": 1361,
+    "end": 1391
+  },
+  {
+    "entity": "angioplasty",
+    "label": "TREATMENT",
+    "start": 1404,
+    "end": 1415
+  },
+  {
+    "entity": "prostate biopsies",
+    "label": "TEST",
+    "start": 1420,
+    "end": 1437
+  },
+  {
+    "entity": "Metformin",
+    "label": "DRUG",
+    "start": 1455,
+    "end": 1464
+  },
+  {
+    "entity": "Prilosec",
+    "label": "DRUG",
+    "start": 1469,
+    "end": 1477
+  },
+  {
+    "entity": "Folic acid",
+    "label": "DRUG",
+    "start": 1482,
+    "end": 1492
+  },
+  {
+    "entity": "Flomax",
+    "label": "DRUG",
+    "start": 1497,
+    "end": 1503
+  },
+  {
+    "entity": "Metoprolol",
+    "label": "DRUG",
+    "start": 1508,
+    "end": 1518
+  },
+  {
+    "entity": "Crestor",
+    "label": "DRUG",
+    "start": 1523,
+    "end": 1530
+  },
+  {
+    "entity": "Claritin",
+    "label": "DRUG",
+    "start": 1535,
+    "end": 1543
+  },
+  {
+    "entity": "ALLERGIES",
+    "label": "PROBLEM",
+    "start": 1545,
+    "end": 1554
+  },
+  {
+    "entity": "DEMEROL",
+    "label": "DRUG",
+    "start": 1556,
+    "end": 1563
+  },
+  {
+    "entity": "SULFA",
+    "label": "DRUG",
+    "start": 1565,
+    "end": 1570
+  },
+  {
+    "entity": "multiple knee surgeries",
+    "label": "TREATMENT",
+    "start": 1721,
+    "end": 1744
+  },
+  {
+    "entity": "back surgery",
+    "label": "TREATMENT",
+    "start": 1746,
+    "end": 1758
+  },
+  {
+    "entity": "coronary artery bypass surgery",
+    "label": "TREATMENT",
+    "start": 1764,
+    "end": 1794
+  },
+  {
+    "entity": "angioplasty",
+    "label": "TREATMENT",
+    "start": 1800,
+    "end": 1811
+  },
+  {
+    "entity": "hypertension",
+    "label": "PROBLEM",
+    "start": 1813,
+    "end": 1825
+  },
+  {
+    "entity": "hyperlipidemia",
+    "label": "PROBLEM",
+    "start": 1827,
+    "end": 1841
+  },
+  {
+    "entity": "elevated PSA level",
+    "label": "PROBLEM",
+    "start": 1843,
+    "end": 1861
+  },
+  {
+    "entity": "BPH",
+    "label": "PROBLEM",
+    "start": 1863,
+    "end": 1866
+  },
+  {
+    "entity": "cancer",
+    "label": "PROBLEM",
+    "start": 1885,
+    "end": 1891
+  },
+  {
+    "entity": "shortness of breath",
+    "label": "PROBLEM",
+    "start": 1905,
+    "end": 1924
+  },
+  {
+    "entity": "fatigue",
+    "label": "PROBLEM",
+    "start": 1926,
+    "end": 1933
+  },
+  {
+    "entity": "tiredness",
+    "label": "PROBLEM",
+    "start": 1939,
+    "end": 1948
+  },
+  {
+    "entity": "fever",
+    "label": "PROBLEM",
+    "start": 1999,
+    "end": 2004
+  },
+  {
+    "entity": "rigors",
+    "label": "PROBLEM",
+    "start": 2006,
+    "end": 2012
+  },
+  {
+    "entity": "chills",
+    "label": "PROBLEM",
+    "start": 2017,
+    "end": 2023
+  },
+  {
+    "entity": "fever",
+    "label": "PROBLEM",
+    "start": 2042,
+    "end": 2047
+  },
+  {
+    "entity": "rigors",
+    "label": "PROBLEM",
+    "start": 2052,
+    "end": 2058
+  },
+  {
+    "entity": "cataract",
+    "label": "PROBLEM",
+    "start": 2081,
+    "end": 2089
+  },
+  {
+    "entity": "glaucoma",
+    "label": "PROBLEM",
+    "start": 2093,
+    "end": 2101
+  },
+  {
+    "entity": "Shortness of breath",
+    "label": "PROBLEM",
+    "start": 2142,
+    "end": 2161
+  },
+  {
+    "entity": "pneumonia",
+    "label": "PROBLEM",
+    "start": 2166,
+    "end": 2175
+  },
+  {
+    "entity": "valley fever",
+    "label": "PROBLEM",
+    "start": 2179,
+    "end": 2191
+  },
+  {
+    "entity": "Nausea",
+    "label": "PROBLEM",
+    "start": 2211,
+    "end": 2217
+  },
+  {
+    "entity": "vomiting",
+    "label": "PROBLEM",
+    "start": 2222,
+    "end": 2230
+  },
+  {
+    "entity": "hematemesis",
+    "label": "PROBLEM",
+    "start": 2235,
+    "end": 2246
+  },
+  {
+    "entity": "melena",
+    "label": "PROBLEM",
+    "start": 2250,
+    "end": 2256
+  },
+  {
+    "entity": "Frequency",
+    "label": "PROBLEM",
+    "start": 2270,
+    "end": 2279
+  },
+  {
+    "entity": "urgency",
+    "label": "PROBLEM",
+    "start": 2281,
+    "end": 2288
+  },
+  {
+    "entity": "muscle weakness",
+    "label": "PROBLEM",
+    "start": 2310,
+    "end": 2325
+  },
+  {
+    "entity": "TIA",
+    "label": "PROBLEM",
+    "start": 2368,
+    "end": 2371
+  },
+  {
+    "entity": "CVA",
+    "label": "PROBLEM",
+    "start": 2375,
+    "end": 2378
+  },
+  {
+    "entity": "seizure disorder",
+    "label": "PROBLEM",
+    "start": 2383,
+    "end": 2399
+  },
+  {
+    "entity": "anxiety",
+    "label": "PROBLEM",
+    "start": 2419,
+    "end": 2426
+  },
+  {
+    "entity": "depression",
+    "label": "PROBLEM",
+    "start": 2430,
+    "end": 2440
+  },
+  {
+    "entity": "Pulse",
+    "label": "TEST",
+    "start": 2531,
+    "end": 2536
+  },
+  {
+    "entity": "blood pressure",
+    "label": "TEST",
+    "start": 2544,
+    "end": 2558
+  },
+  {
+    "entity": "respiratory rate",
+    "label": "TEST",
+    "start": 2581,
+    "end": 2597
+  },
+  {
+    "entity": "significant carotid bruits",
+    "label": "PROBLEM",
+    "start": 2668,
+    "end": 2694
+  },
+  {
+    "entity": "PMI displaced",
+    "label": "PROBLEM",
+    "start": 2738,
+    "end": 2751
+  },
+  {
+    "entity": "S1",
+    "label": "TEST",
+    "start": 2753,
+    "end": 2755
+  },
+  {
+    "entity": "S2",
+    "label": "TEST",
+    "start": 2760,
+    "end": 2762
+  },
+  {
+    "entity": "Bowel sounds",
+    "label": "TEST",
+    "start": 2798,
+    "end": 2810
+  },
+  {
+    "entity": "edema",
+    "label": "PROBLEM",
+    "start": 2836,
+    "end": 2841
+  },
+  {
+    "entity": "Pulses",
+    "label": "TEST",
+    "start": 2843,
+    "end": 2849
+  },
+  {
+    "entity": "clubbing",
+    "label": "PROBLEM",
+    "start": 2867,
+    "end": 2875
+  },
+  {
+    "entity": "cyanosis",
+    "label": "PROBLEM",
+    "start": 2879,
+    "end": 2887
+  },
+  {
+    "entity": "sinus rhythm",
+    "label": "TEST",
+    "start": 2914,
+    "end": 2926
+  },
+  {
+    "entity": "incomplete right bundle-branch block",
+    "label": "PROBLEM",
+    "start": 2928,
+    "end": 2964
+  },
+  {
+    "entity": "H&H",
+    "label": "TEST",
+    "start": 2983,
+    "end": 2986
+  },
+  {
+    "entity": "BUN",
+    "label": "TEST",
+    "start": 2995,
+    "end": 2998
+  },
+  {
+    "entity": "creatinine",
+    "label": "TEST",
+    "start": 3003,
+    "end": 3013
+  },
+  {
+    "entity": "coronary artery disease",
+    "label": "PROBLEM",
+    "start": 3062,
+    "end": 3085
+  },
+  {
+    "entity": "bypass surgery",
+    "label": "TREATMENT",
+    "start": 3093,
+    "end": 3107
+  },
+  {
+    "entity": "angioplasty",
+    "label": "TREATMENT",
+    "start": 3109,
+    "end": 3120
+  },
+  {
+    "entity": "significant shortness of breath",
+    "label": "PROBLEM",
+    "start": 3122,
+    "end": 3153
+  },
+  {
+    "entity": "Fever",
+    "label": "PROBLEM",
+    "start": 3158,
+    "end": 3163
+  },
+  {
+    "entity": "urinary tract infection",
+    "label": "PROBLEM",
+    "start": 3178,
+    "end": 3201
+  },
+  {
+    "entity": "prostatitis",
+    "label": "PROBLEM",
+    "start": 3209,
+    "end": 3220
+  },
+  {
+    "entity": "Hypertension",
+    "label": "PROBLEM",
+    "start": 3225,
+    "end": 3237
+  },
+  {
+    "entity": "hyperlipidemia",
+    "label": "PROBLEM",
+    "start": 3239,
+    "end": 3253
+  },
+  {
+    "entity": "diabetes mellitus",
+    "label": "PROBLEM",
+    "start": 3255,
+    "end": 3272
+  },
+  {
+    "entity": "Contemplated prostate surgery",
+    "label": "TREATMENT",
+    "start": 3277,
+    "end": 3306
+  },
+  {
+    "entity": "antibiotic",
+    "label": "DRUG",
+    "start": 3395,
+    "end": 3405
+  },
+  {
+    "entity": "his fever",
+    "label": "PROBLEM",
+    "start": 3410,
+    "end": 3419
+  },
+  {
+    "entity": "cardiac workup",
+    "label": "TEST",
+    "start": 3441,
+    "end": 3455
+  },
+  {
+    "entity": "ischemia",
+    "label": "PROBLEM",
+    "start": 3480,
+    "end": 3488
+  },
+  {
+    "entity": "the graft",
+    "label": "TREATMENT",
+    "start": 3504,
+    "end": 3513
+  },
+  {
+    "entity": "surgery",
+    "label": "TREATMENT",
+    "start": 3539,
+    "end": 3546
+  },
+  {
+    "entity": "the fever",
+    "label": "PROBLEM",
+    "start": 3579,
+    "end": 3588
+  },
+  {
+    "entity": "coronary artery disease",
+    "label": "PROBLEM",
+    "start": 3762,
+    "end": 3785
+  },
+  {
+    "entity": "cad",
+    "label": "PROBLEM",
+    "start": 3787,
+    "end": 3790
+  },
+  {
+    "entity": "hypertension",
+    "label": "PROBLEM",
+    "start": 3792,
+    "end": 3804
+  },
+  {
+    "entity": "diabetes mellitus",
+    "label": "PROBLEM",
+    "start": 3806,
+    "end": 3823
+  },
+  {
+    "entity": "bypass",
+    "label": "TREATMENT",
+    "start": 3838,
+    "end": 3844
+  },
+  {
+    "entity": "bypass surgery",
+    "label": "TREATMENT",
+    "start": 3852,
+    "end": 3866
+  },
+  {
+    "entity": "urinary tract infection",
+    "label": "PROBLEM",
+    "start": 3868,
+    "end": 3891
+  },
+  {
+    "entity": "fatigue",
+    "label": "PROBLEM",
+    "start": 3893,
+    "end": 3900
+  },
+  {
+    "entity": "tiredness",
+    "label": "PROBLEM",
+    "start": 3905,
+    "end": 3914
+  },
+  {
+    "entity": "shortness of breath",
+    "label": "PROBLEM",
+    "start": 3916,
+    "end": 3935
+  },
+  {
+    "entity": "elevated psa",
+    "label": "PROBLEM",
+    "start": 3937,
+    "end": 3949
+  },
+  {
+    "entity": "surgery",
+    "label": "TREATMENT",
+    "start": 3951,
+    "end": 3958
+  },
+  {
+    "entity": "infection",
+    "label": "PROBLEM",
+    "start": 3977,
+    "end": 3986
+  },
+  {
+    "entity": "fever",
+    "label": "PROBLEM",
+    "start": 3988,
+    "end": 3993
+  }
+]

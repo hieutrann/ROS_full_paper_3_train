@@ -1,0 +1,101 @@
+[
+  {
+    "diabetes mellitus": "PROBLEM"
+  },
+  {
+    "hypercholesterolemia": "PROBLEM"
+  },
+  {
+    "sinusitis": "PROBLEM"
+  },
+  {
+    "Accu-Cheks": "TEST"
+  },
+  {
+    "sinus congestion": "PROBLEM"
+  },
+  {
+    "sinus drainage": "PROBLEM"
+  },
+  {
+    "mammogram": "TEST"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "diarrhea": "PROBLEM"
+  },
+  {
+    "constipation": "PROBLEM"
+  },
+  {
+    "blood in her urine": "PROBLEM"
+  },
+  {
+    "blood in her stools": "PROBLEM"
+  },
+  {
+    "nocturia": "PROBLEM"
+  },
+  {
+    "swelling in her ankles": "PROBLEM"
+  },
+  {
+    "Wt": "TEST"
+  },
+  {
+    "B/P": "TEST"
+  },
+  {
+    "T": "TEST"
+  },
+  {
+    "P": "TEST"
+  },
+  {
+    "frontal and maxillary sinus tenderness": "PROBLEM"
+  },
+  {
+    "right TM": "TEST"
+  },
+  {
+    "Hypercholesterolemia": "PROBLEM"
+  },
+  {
+    "Diabetes mellitus": "PROBLEM"
+  },
+  {
+    "Sinusitis": "PROBLEM"
+  },
+  {
+    "Allegra D": "DRUG"
+  },
+  {
+    "A1c": "TEST"
+  },
+  {
+    "BMP": "TEST"
+  },
+  {
+    "lipid profile": "TEST"
+  },
+  {
+    "TSH": "TEST"
+  },
+  {
+    "colonoscopy": "TEST"
+  },
+  {
+    "stools for occult blood": "TEST"
+  },
+  {
+    "diabetes": "PROBLEM"
+  }
+]

@@ -1,0 +1,140 @@
+[
+  {
+    "entity": "outpatient skilled speech therapy",
+    "label": "TREATMENT",
+    "start": 145,
+    "end": 178
+  },
+  {
+    "entity": "right hemisphere disorder",
+    "label": "PROBLEM",
+    "start": 193,
+    "end": 218
+  },
+  {
+    "entity": "stroke",
+    "label": "PROBLEM",
+    "start": 232,
+    "end": 238
+  },
+  {
+    "entity": "outpatient skilled speech therapy sessions",
+    "label": "TREATMENT",
+    "start": 266,
+    "end": 308
+  },
+  {
+    "entity": "outpatient skilled speech therapy",
+    "label": "TREATMENT",
+    "start": 406,
+    "end": 439
+  },
+  {
+    "entity": "right hemisphere disorder",
+    "label": "PROBLEM",
+    "start": 454,
+    "end": 479
+  },
+  {
+    "entity": "stroke",
+    "label": "PROBLEM",
+    "start": 493,
+    "end": 499
+  },
+  {
+    "entity": "outpatient skilled speech therapy sessions",
+    "label": "TREATMENT",
+    "start": 527,
+    "end": 569
+  },
+  {
+    "entity": "her initial evaluation",
+    "label": "TEST",
+    "start": 575,
+    "end": 597
+  },
+  {
+    "entity": "her last session",
+    "label": "TREATMENT",
+    "start": 613,
+    "end": 629
+  },
+  {
+    "entity": "therapy",
+    "label": "TREATMENT",
+    "start": 681,
+    "end": 688
+  },
+  {
+    "entity": "an oral mechanism examination",
+    "label": "TEST",
+    "start": 780,
+    "end": 809
+  },
+  {
+    "entity": "clinical swallow evaluation",
+    "label": "TEST",
+    "start": 814,
+    "end": 841
+  },
+  {
+    "entity": "difficulty with visual scanning",
+    "label": "PROBLEM",
+    "start": 1128,
+    "end": 1159
+  },
+  {
+    "entity": "her significant left neglect",
+    "label": "PROBLEM",
+    "start": 1195,
+    "end": 1223
+  },
+  {
+    "entity": "difficulty",
+    "label": "PROBLEM",
+    "start": 1417,
+    "end": 1427
+  },
+  {
+    "entity": "her left neglect",
+    "label": "PROBLEM",
+    "start": 1490,
+    "end": 1506
+  },
+  {
+    "entity": "outpatient speech therapy sessions",
+    "label": "TREATMENT",
+    "start": 1552,
+    "end": 1586
+  },
+  {
+    "entity": "outpatient speech therapy",
+    "label": "TREATMENT",
+    "start": 1824,
+    "end": 1849
+  },
+  {
+    "entity": "swallow evaluation",
+    "label": "TEST",
+    "start": 1851,
+    "end": 1869
+  },
+  {
+    "entity": "skilled speech therapy",
+    "label": "TREATMENT",
+    "start": 1883,
+    "end": 1905
+  },
+  {
+    "entity": "hemisphere disorder",
+    "label": "PROBLEM",
+    "start": 1907,
+    "end": 1926
+  },
+  {
+    "entity": "speech therapy",
+    "label": "TREATMENT",
+    "start": 1928,
+    "end": 1942
+  }
+]

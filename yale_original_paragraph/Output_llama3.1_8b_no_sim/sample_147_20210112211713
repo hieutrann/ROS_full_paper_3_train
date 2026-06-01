@@ -1,0 +1,56 @@
+[
+  {
+    "free air": "PROBLEM"
+  },
+  {
+    "hyponatremia": "PROBLEM"
+  },
+  {
+    "intra abdominal pathology": "PROBLEM"
+  },
+  {
+    "obtunded": "PROBLEM"
+  },
+  {
+    "chest x-ray": "TEST"
+  },
+  {
+    "CT scan": "TEST"
+  },
+  {
+    "white blood cell count": "TEST"
+  },
+  {
+    "AST": "TEST"
+  },
+  {
+    "ALT": "TEST"
+  },
+  {
+    "alkaline phosphatase": "TEST"
+  },
+  {
+    "bilirubin": "TEST"
+  },
+  {
+    "sodium": "TEST"
+  },
+  {
+    "chloride": "TEST"
+  },
+  {
+    "potassium": "TEST"
+  },
+  {
+    "Ativan": "DRUG"
+  },
+  {
+    "appendectomy": "TREATMENT"
+  },
+  {
+    "TAH/BSO": "TREATMENT"
+  },
+  {
+    "incision and drainage": "TREATMENT"
+  }
+]

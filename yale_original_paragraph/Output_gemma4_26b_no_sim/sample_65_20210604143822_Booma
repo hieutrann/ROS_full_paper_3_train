@@ -1,0 +1,53 @@
+[
+  {
+    "vital signs": "TEST"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "heart rate": "TEST"
+  },
+  {
+    "ptosis": "PROBLEM"
+  },
+  {
+    "Auscultation of the lung": "TEST"
+  },
+  {
+    "Auscultation of the heart": "TEST"
+  },
+  {
+    "murmur": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "nipple discharge": "PROBLEM"
+  },
+  {
+    "mass": "PROBLEM"
+  },
+  {
+    "rebound": "PROBLEM"
+  },
+  {
+    "guarding": "PROBLEM"
+  },
+  {
+    "enlarged liver or spleen": "PROBLEM"
+  },
+  {
+    "pelvic exam": "TEST"
+  },
+  {
+    "adnexal masses": "PROBLEM"
+  },
+  {
+    "cervical motion tenderness": "PROBLEM"
+  },
+  {
+    "Deep tendon reflexes": "TEST"
+  }
+]

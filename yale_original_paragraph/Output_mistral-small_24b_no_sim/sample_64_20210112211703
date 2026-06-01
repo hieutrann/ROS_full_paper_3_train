@@ -1,0 +1,185 @@
+[
+  {
+    "right foot ulcer": "PROBLEM"
+  },
+  {
+    "osteomyelitis": "PROBLEM"
+  },
+  {
+    "diabetes mellitus": "PROBLEM"
+  },
+  {
+    "MSSA": "PROBLEM"
+  },
+  {
+    "methicillin-sensitive Staphylococcus aureus": "PROBLEM"
+  },
+  {
+    "Levaquin": "DRUG"
+  },
+  {
+    "MRI": "TEST"
+  },
+  {
+    "bone scan": "TEST"
+  },
+  {
+    "wound VAC": "TREATMENT"
+  },
+  {
+    "osteomyelitis of the right fifth toe": "PROBLEM"
+  },
+  {
+    "heart attack": "PROBLEM"
+  },
+  {
+    "liver cancer": "PROBLEM"
+  },
+  {
+    "hypothyroidism": "PROBLEM"
+  },
+  {
+    "cerebral palsy": "PROBLEM"
+  },
+  {
+    "foot": "PROBLEM"
+  },
+  {
+    "pulse": "TEST"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "temperature": "TEST"
+  },
+  {
+    "respiratory rate": "TEST"
+  },
+  {
+    "HEENT": "TEST"
+  },
+  {
+    "pupils": "TEST"
+  },
+  {
+    "extraocular movements": "TEST"
+  },
+  {
+    "head": "TEST"
+  },
+  {
+    "external ear": "TEST"
+  },
+  {
+    "neck": "TEST"
+  },
+  {
+    "lymphadenopathy": "PROBLEM"
+  },
+  {
+    "cardiovascular": "TEST"
+  },
+  {
+    "heart": "PROBLEM"
+  },
+  {
+    "lungs": "TEST"
+  },
+  {
+    "abdomen": "TEST"
+  },
+  {
+    "organomegaly": "PROBLEM"
+  },
+  {
+    "bowel sounds": "TEST"
+  },
+  {
+    "extremities": "TEST"
+  },
+  {
+    "cyanosis": "PROBLEM"
+  },
+  {
+    "clubbing": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "endocarditis": "PROBLEM"
+  },
+  {
+    "central nervous system": "TEST"
+  },
+  {
+    "cranial nerves": "TEST"
+  },
+  {
+    "focal deficit": "PROBLEM"
+  },
+  {
+    "debridement": "TREATMENT"
+  },
+  {
+    "wound cultures": "TEST"
+  },
+  {
+    "Zyvox": "DRUG"
+  },
+  {
+    "Zosyn": "DRUG"
+  },
+  {
+    "Ancef": "DRUG"
+  },
+  {
+    "CBC": "TEST"
+  },
+  {
+    "differential": "TEST"
+  },
+  {
+    "chemistry 7 panel": "TEST"
+  },
+  {
+    "LFTs": "TEST"
+  },
+  {
+    "ESR": "TEST"
+  },
+  {
+    "C-reactive protein": "TEST"
+  },
+  {
+    "wound healing": "TREATMENT"
+  },
+  {
+    "wound care": "TREATMENT"
+  },
+  {
+    "PICC line": "TREATMENT"
+  },
+  {
+    "deep wound cultures": "TEST"
+  },
+  {
+    "deep wound infection": "PROBLEM"
+  },
+  {
+    "infectious disease": "PROBLEM"
+  },
+  {
+    "antibiotic regimen": "DRUG"
+  },
+  {
+    "antibiotic therapy": "DRUG"
+  },
+  {
+    "wound care team": "TREATMENT"
+  },
+  {
+    "hospitalization": "TREATMENT"
+  }
+]

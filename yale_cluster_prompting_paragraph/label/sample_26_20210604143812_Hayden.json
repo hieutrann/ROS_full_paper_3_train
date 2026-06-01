@@ -1,0 +1,116 @@
+[
+  {
+    "entity": "Cognitive Linguistic Impairment",
+    "label": "PROBLEM",
+    "start": 64,
+    "end": 95
+  },
+  {
+    "entity": "Cognitive linguistic impairment",
+    "label": "PROBLEM",
+    "start": 121,
+    "end": 152
+  },
+  {
+    "entity": "stroke",
+    "label": "PROBLEM",
+    "start": 166,
+    "end": 172
+  },
+  {
+    "entity": "skilled speech therapy",
+    "label": "TREATMENT",
+    "start": 260,
+    "end": 282
+  },
+  {
+    "entity": "cognitive linguistic deficits",
+    "label": "PROBLEM",
+    "start": 296,
+    "end": 325
+  },
+  {
+    "entity": "Cognitive linguistic impairment",
+    "label": "PROBLEM",
+    "start": 376,
+    "end": 407
+  },
+  {
+    "entity": "stroke",
+    "label": "PROBLEM",
+    "start": 421,
+    "end": 427
+  },
+  {
+    "entity": "skilled speech therapy",
+    "label": "TREATMENT",
+    "start": 592,
+    "end": 614
+  },
+  {
+    "entity": "cognitive linguistic deficits",
+    "label": "PROBLEM",
+    "start": 628,
+    "end": 657
+  },
+  {
+    "entity": "the initial evaluation",
+    "label": "TEST",
+    "start": 668,
+    "end": 690
+  },
+  {
+    "entity": "mild difficulty",
+    "label": "PROBLEM",
+    "start": 727,
+    "end": 742
+  },
+  {
+    "entity": "skilled speech therapy",
+    "label": "TREATMENT",
+    "start": 819,
+    "end": 841
+  },
+  {
+    "entity": "skilled speech therapy",
+    "label": "TREATMENT",
+    "start": 1783,
+    "end": 1805
+  },
+  {
+    "entity": "therapy",
+    "label": "TREATMENT",
+    "start": 1864,
+    "end": 1871
+  },
+  {
+    "entity": "stroke",
+    "label": "PROBLEM",
+    "start": 1938,
+    "end": 1944
+  },
+  {
+    "entity": "linguistic deficits",
+    "label": "PROBLEM",
+    "start": 1946,
+    "end": 1965
+  },
+  {
+    "entity": "speech therapy",
+    "label": "TREATMENT",
+    "start": 1967,
+    "end": 1981
+  },
+  {
+    "entity": "skilled speech therapy",
+    "label": "TREATMENT",
+    "start": 1983,
+    "end": 2005
+  },
+  {
+    "entity": "linguistic impairment",
+    "label": "PROBLEM",
+    "start": 2007,
+    "end": 2028
+  }
+]

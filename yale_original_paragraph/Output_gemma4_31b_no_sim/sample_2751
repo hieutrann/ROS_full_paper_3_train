@@ -1,0 +1,287 @@
+[
+  {
+    "Toothache": "PROBLEM"
+  },
+  {
+    "dental disease": "PROBLEM"
+  },
+  {
+    "teeth pulled": "TREATMENT"
+  },
+  {
+    "tooth pain": "PROBLEM"
+  },
+  {
+    "toothache": "PROBLEM"
+  },
+  {
+    "OxyContin": "DRUG"
+  },
+  {
+    "Vicodin": "DRUG"
+  },
+  {
+    "knee pain": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "chills": "PROBLEM"
+  },
+  {
+    "fatigue": "PROBLEM"
+  },
+  {
+    "weakness": "PROBLEM"
+  },
+  {
+    "headache": "PROBLEM"
+  },
+  {
+    "neck pain": "PROBLEM"
+  },
+  {
+    "toothache pain": "PROBLEM"
+  },
+  {
+    "throat swelling": "PROBLEM"
+  },
+  {
+    "sore throat": "PROBLEM"
+  },
+  {
+    "difficulty swallowing": "PROBLEM"
+  },
+  {
+    "rhinorrhea": "PROBLEM"
+  },
+  {
+    "sinus congestion": "PROBLEM"
+  },
+  {
+    "pressure": "PROBLEM"
+  },
+  {
+    "pain": "PROBLEM"
+  },
+  {
+    "ear pain": "PROBLEM"
+  },
+  {
+    "hearing change": "PROBLEM"
+  },
+  {
+    "eye pain": "PROBLEM"
+  },
+  {
+    "vision change": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "dysuria": "PROBLEM"
+  },
+  {
+    "back pain": "PROBLEM"
+  },
+  {
+    "muscle or joint aches": "PROBLEM"
+  },
+  {
+    "rashes": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "focal weakness": "PROBLEM"
+  },
+  {
+    "numbness": "PROBLEM"
+  },
+  {
+    "lymph node swelling": "PROBLEM"
+  },
+  {
+    "Chronic knee pain": "PROBLEM"
+  },
+  {
+    "OxyContin": "DRUG"
+  },
+  {
+    "Vicodin": "DRUG"
+  },
+  {
+    "PENICILLIN": "DRUG"
+  },
+  {
+    "CODEINE": "DRUG"
+  },
+  {
+    "Temperature": "TEST"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "pulse": "TEST"
+  },
+  {
+    "respirations": "TEST"
+  },
+  {
+    "oxygen saturation": "TEST"
+  },
+  {
+    "icterus": "PROBLEM"
+  },
+  {
+    "injection": "PROBLEM"
+  },
+  {
+    "discharge": "PROBLEM"
+  },
+  {
+    "light sensitivity": "PROBLEM"
+  },
+  {
+    "photophobia": "PROBLEM"
+  },
+  {
+    "infection": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "swelling of canals": "PROBLEM"
+  },
+  {
+    "rhinorrhea": "PROBLEM"
+  },
+  {
+    "audible congestion": "PROBLEM"
+  },
+  {
+    "tenderness over the sinuses": "PROBLEM"
+  },
+  {
+    "meningismus": "PROBLEM"
+  },
+  {
+    "cervical lymphadenopathy": "PROBLEM"
+  },
+  {
+    "JVD": "PROBLEM"
+  },
+  {
+    "dental caries": "PROBLEM"
+  },
+  {
+    "tenderness to tooth #12": "PROBLEM"
+  },
+  {
+    "tenderness to tooth #21": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "swelling": "PROBLEM"
+  },
+  {
+    "purulent or other discharge": "PROBLEM"
+  },
+  {
+    "fluctuance": "PROBLEM"
+  },
+  {
+    "abscess": "PROBLEM"
+  },
+  {
+    "dental fractures": "PROBLEM"
+  },
+  {
+    "infection": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "exudate": "PROBLEM"
+  },
+  {
+    "lesion": "PROBLEM"
+  },
+  {
+    "swelling": "PROBLEM"
+  },
+  {
+    "abscess": "PROBLEM"
+  },
+  {
+    "Ludwig's syndrome": "PROBLEM"
+  },
+  {
+    "murmur": "PROBLEM"
+  },
+  {
+    "rub": "PROBLEM"
+  },
+  {
+    "gallop": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "nontender": "PROBLEM"
+  },
+  {
+    "rashes": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "cervical lymphadenopathy": "PROBLEM"
+  },
+  {
+    "pain shot": "TREATMENT"
+  },
+  {
+    "Dilaudid": "DRUG"
+  },
+  {
+    "ODONTALGIA": "PROBLEM"
+  },
+  {
+    "MULTIPLE DENTAL CARIES": "PROBLEM"
+  },
+  {
+    "Percocet": "DRUG"
+  },
+  {
+    "clindamycin": "DRUG"
+  },
+  {
+    "toothache": "PROBLEM"
+  }
+]

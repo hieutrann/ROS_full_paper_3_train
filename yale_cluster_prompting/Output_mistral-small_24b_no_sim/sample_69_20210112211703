@@ -1,0 +1,194 @@
+[
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "abdominal surgery": "TREATMENT"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "abdominal surgery": "TREATMENT"
+  },
+  {
+    "laparoscopic appendicectomy": "TREATMENT"
+  },
+  {
+    "postoperative paralytic ileus": "PROBLEM"
+  },
+  {
+    "left-sided chest pain": "PROBLEM"
+  },
+  {
+    "fluid retention": "PROBLEM"
+  },
+  {
+    "swelling": "PROBLEM"
+  },
+  {
+    "CONSTITUTIONAL SYMPTOMS": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "left-sided chest pain": "PROBLEM"
+  },
+  {
+    "pain": "PROBLEM"
+  },
+  {
+    "RESPIRATORY": "TEST"
+  },
+  {
+    "heart problems": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "laparoscopic appendicectomy": "TREATMENT"
+  },
+  {
+    "dysuria": "PROBLEM"
+  },
+  {
+    "hematuria": "PROBLEM"
+  },
+  {
+    "diabetes": "PROBLEM"
+  },
+  {
+    "thyroid problems": "PROBLEM"
+  },
+  {
+    "CVA": "PROBLEM"
+  },
+  {
+    "TIA": "PROBLEM"
+  },
+  {
+    "SOCIAL HISTORY": "TEST"
+  },
+  {
+    "alcohol": "DRUG"
+  },
+  {
+    "PHYSICAL EXAMINATION": "TEST"
+  },
+  {
+    "Oral mucosa": "PROBLEM"
+  },
+  {
+    "CHEST": "TEST"
+  },
+  {
+    "wheezing": "PROBLEM"
+  },
+  {
+    "tenderness": "PROBLEM"
+  },
+  {
+    "CARDIOVASCULAR": "TEST"
+  },
+  {
+    "distended": "PROBLEM"
+  },
+  {
+    "Bowel sounds": "TEST"
+  },
+  {
+    "pedal swelling": "PROBLEM"
+  },
+  {
+    "NEUROLOGIC": "TEST"
+  },
+  {
+    "White count": "TEST"
+  },
+  {
+    "hemoglobin": "TEST"
+  },
+  {
+    "hematocrit": "TEST"
+  },
+  {
+    "platelets": "TEST"
+  },
+  {
+    "Glucose": "TEST"
+  },
+  {
+    "total protein": "TEST"
+  },
+  {
+    "albumin": "TEST"
+  },
+  {
+    "appendicitis": "PROBLEM"
+  },
+  {
+    "surgery": "TREATMENT"
+  },
+  {
+    "oral fluids": "DRUG"
+  },
+  {
+    "bowels": "PROBLEM"
+  },
+  {
+    "Left-sided chest pain": "PROBLEM"
+  },
+  {
+    "PE": "PROBLEM"
+  },
+  {
+    "low-oxygen saturation": "PROBLEM"
+  },
+  {
+    "ultrasound": "TEST"
+  },
+  {
+    "CT angiogram": "TEST"
+  },
+  {
+    "Fluid retention": "PROBLEM"
+  },
+  {
+    "surgeon": "TREATMENT"
+  },
+  {
+    "Paralytic ileus": "PROBLEM"
+  },
+  {
+    "Leukocytosis": "PROBLEM"
+  },
+  {
+    "ruptured appendicitis": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "fluid retention": "PROBLEM"
+  },
+  {
+    "paralytic ileus": "PROBLEM"
+  },
+  {
+    "leukocytosis": "PROBLEM"
+  },
+  {
+    "abdominal surgery": "TREATMENT"
+  },
+  {
+    "laparoscopic appendicectomy": "TREATMENT"
+  },
+  {
+    "surgery": "TREATMENT"
+  }
+]

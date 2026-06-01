@@ -1,0 +1,107 @@
+[
+  {
+    "Respiratory distress": "PROBLEM"
+  },
+  {
+    "Reactive airways disease": "PROBLEM"
+  },
+  {
+    "Pneumonia": "PROBLEM"
+  },
+  {
+    "URI symptoms": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "work of breathing": "PROBLEM"
+  },
+  {
+    "asthma": "PROBLEM"
+  },
+  {
+    "respiratory distress": "PROBLEM"
+  },
+  {
+    "reactive airways disease": "PROBLEM"
+  },
+  {
+    "pneumonia": "PROBLEM"
+  },
+  {
+    "onset of cough": "PROBLEM"
+  },
+  {
+    "respiratory distress": "PROBLEM"
+  },
+  {
+    "respiratory": "PROBLEM"
+  },
+  {
+    "asthma": "PROBLEM"
+  },
+  {
+    "nebulized treatments": "TREATMENT"
+  },
+  {
+    "albuterol": "DRUG"
+  },
+  {
+    "inhaled corticosteroids": "DRUG"
+  },
+  {
+    "systemic corticosteroids": "DRUG"
+  },
+  {
+    "x-ray": "TEST"
+  },
+  {
+    "infiltrate": "PROBLEM"
+  },
+  {
+    "atelectasis": "PROBLEM"
+  },
+  {
+    "antibiotics": "DRUG"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "CRP": "TEST"
+  },
+  {
+    "CBC": "TEST"
+  },
+  {
+    "white count": "TEST"
+  },
+  {
+    "bands": "TEST"
+  },
+  {
+    "amoxicillin": "DRUG"
+  },
+  {
+    "Zithromax": "DRUG"
+  },
+  {
+    "bilateral wheezing": "PROBLEM"
+  },
+  {
+    "tachypnea": "PROBLEM"
+  },
+  {
+    "Xopenex MDI": "DRUG"
+  },
+  {
+    "QVAR 40": "DRUG"
+  },
+  {
+    "Amoxicillin": "DRUG"
+  },
+  {
+    "Zithromax": "DRUG"
+  }
+]

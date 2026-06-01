@@ -1,0 +1,140 @@
+[
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "CT scan": "TEST"
+  },
+  {
+    "Cipro": "DRUG"
+  },
+  {
+    "Flagyl": "DRUG"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "anorexia": "PROBLEM"
+  },
+  {
+    "obstipation": "PROBLEM"
+  },
+  {
+    "bright red blood per rectum": "PROBLEM"
+  },
+  {
+    "melena": "PROBLEM"
+  },
+  {
+    "colonoscopy": "TEST"
+  },
+  {
+    "fevers": "PROBLEM"
+  },
+  {
+    "chills": "PROBLEM"
+  },
+  {
+    "jaundice": "PROBLEM"
+  },
+  {
+    "weight loss": "PROBLEM"
+  },
+  {
+    "atrial fibrillation": "PROBLEM"
+  },
+  {
+    "metoprolol": "DRUG"
+  },
+  {
+    "Premarin": "DRUG"
+  },
+  {
+    "cholecystectomy": "TREATMENT"
+  },
+  {
+    "appendectomy": "TREATMENT"
+  },
+  {
+    "hysterectomy": "TREATMENT"
+  },
+  {
+    "grade 4 bladder prolapse": "PROBLEM"
+  },
+  {
+    "MACRODANTIN": "DRUG"
+  },
+  {
+    "chest pains": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "palpable fullness or mass": "PROBLEM"
+  },
+  {
+    "rebound tenderness": "PROBLEM"
+  },
+  {
+    "CVA or flank tenderness": "PROBLEM"
+  },
+  {
+    "left flank tenderness": "PROBLEM"
+  },
+  {
+    "grade 4 urinary bladder prolapse": "PROBLEM"
+  },
+  {
+    "White blood cell count": "TEST"
+  },
+  {
+    "hemoglobin": "TEST"
+  },
+  {
+    "platelet count": "TEST"
+  },
+  {
+    "Alkaline phosphatase": "TEST"
+  },
+  {
+    "Liver function tests": "TEST"
+  },
+  {
+    "Electrolytes": "TEST"
+  },
+  {
+    "Glucose": "TEST"
+  },
+  {
+    "BUN": "TEST"
+  },
+  {
+    "creatinine": "TEST"
+  },
+  {
+    "EKG": "TEST"
+  },
+  {
+    "sigmoid diverticulitis": "PROBLEM"
+  },
+  {
+    "CT scan of the abdomen and pelvis": "TEST"
+  },
+  {
+    "colonoscopy": "TEST"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "sigmoid diverticulitis": "PROBLEM"
+  },
+  {
+    "tenderness": "PROBLEM"
+  }
+]

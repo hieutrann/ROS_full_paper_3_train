@@ -1,0 +1,56 @@
+[
+  {
+    "left otalgia": "PROBLEM"
+  },
+  {
+    "serous otitis": "PROBLEM"
+  },
+  {
+    "headache": "PROBLEM"
+  },
+  {
+    "atopic dermatitis": "PROBLEM"
+  },
+  {
+    "sinus pressure": "PROBLEM"
+  },
+  {
+    "jaw pain": "PROBLEM"
+  },
+  {
+    "sinusitis": "PROBLEM"
+  },
+  {
+    "cephalexin": "DRUG"
+  },
+  {
+    "Ibuprofen": "DRUG"
+  },
+  {
+    "Cutivate cream": "DRUG"
+  },
+  {
+    "Nasacort AQ": "DRUG"
+  },
+  {
+    "Duraphen II": "DRUG"
+  },
+  {
+    "PERRLA": "TEST"
+  },
+  {
+    "TM": "TEST"
+  },
+  {
+    "weight": "TEST"
+  },
+  {
+    "temperature": "TEST"
+  },
+  {
+    "rate": "TEST"
+  },
+  {
+    "beats per minute": "TEST"
+  }
+]

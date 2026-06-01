@@ -1,0 +1,362 @@
+[
+  {
+    "Hypertension": "PROBLEM"
+  },
+  {
+    "CVA": "PROBLEM"
+  },
+  {
+    "Compression fracture": "PROBLEM"
+  },
+  {
+    "osteoarthritis": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "lightheadedness": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "diarrhea": "PROBLEM"
+  },
+  {
+    "osteoarthritis": "PROBLEM"
+  },
+  {
+    "knee": "PROBLEM"
+  },
+  {
+    "total knee replacement": "TREATMENT"
+  },
+  {
+    "weight": "PROBLEM"
+  },
+  {
+    "surgery": "TREATMENT"
+  },
+  {
+    "coronary disease": "PROBLEM"
+  },
+  {
+    "stroke risk": "PROBLEM"
+  },
+  {
+    "cardiac disease": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "lipid panel": "TEST"
+  },
+  {
+    "Cholesterol": "TEST"
+  },
+  {
+    "triglycerides": "TEST"
+  },
+  {
+    "HDL": "TEST"
+  },
+  {
+    "LDL": "TEST"
+  },
+  {
+    "fasting glucose": "TEST"
+  },
+  {
+    "fasting insulin level": "TEST"
+  },
+  {
+    "glucose": "TEST"
+  },
+  {
+    "diabetes": "PROBLEM"
+  },
+  {
+    "knee pain": "PROBLEM"
+  },
+  {
+    "low back pain": "PROBLEM"
+  },
+  {
+    "X-ray": "TEST"
+  },
+  {
+    "low back": "PROBLEM"
+  },
+  {
+    "compression fracture": "PROBLEM"
+  },
+  {
+    "L1": "PROBLEM"
+  },
+  {
+    "falls": "PROBLEM"
+  },
+  {
+    "compression fracture": "PROBLEM"
+  },
+  {
+    "DEXA scan": "TEST"
+  },
+  {
+    "compression fracture": "PROBLEM"
+  },
+  {
+    "lumbar spine": "PROBLEM"
+  },
+  {
+    "arthritis": "PROBLEM"
+  },
+  {
+    "bone density": "TEST"
+  },
+  {
+    "compression fractures": "PROBLEM"
+  },
+  {
+    "osteoporosis": "PROBLEM"
+  },
+  {
+    "treatment": "TREATMENT"
+  },
+  {
+    "Hydrochlorothiazide": "DRUG"
+  },
+  {
+    "Prozac": "DRUG"
+  },
+  {
+    "Vioxx": "DRUG"
+  },
+  {
+    "vitamin C": "DRUG"
+  },
+  {
+    "vitamin E": "DRUG"
+  },
+  {
+    "calcium with D": "DRUG"
+  },
+  {
+    "multivitamin": "DRUG"
+  },
+  {
+    "aspirin": "DRUG"
+  },
+  {
+    "Monopril": "DRUG"
+  },
+  {
+    "Celexa": "DRUG"
+  },
+  {
+    "Bactrim": "DRUG"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "Hypertension": "PROBLEM"
+  },
+  {
+    "Depression": "PROBLEM"
+  },
+  {
+    "Myofascitis": "PROBLEM"
+  },
+  {
+    "Severe osteoarthritis": "PROBLEM"
+  },
+  {
+    "melanoma": "PROBLEM"
+  },
+  {
+    "Removal": "TREATMENT"
+  },
+  {
+    "Breast biopsy": "TEST"
+  },
+  {
+    "benign": "PROBLEM"
+  },
+  {
+    "Holter monitor": "TEST"
+  },
+  {
+    "ectopic beat": "PROBLEM"
+  },
+  {
+    "Echocardiogram": "TEST"
+  },
+  {
+    "Compression fracture": "PROBLEM"
+  },
+  {
+    "L1": "PROBLEM"
+  },
+  {
+    "DEXA scan": "TEST"
+  },
+  {
+    "PHYSICAL EXAMINATION": "TEST"
+  },
+  {
+    "Vital signs": "TEST"
+  },
+  {
+    "Blood pressure": "TEST"
+  },
+  {
+    "Pulse": "TEST"
+  },
+  {
+    "Respirations": "TEST"
+  },
+  {
+    "Temperature": "TEST"
+  },
+  {
+    "Carotids": "TEST"
+  },
+  {
+    "Chest": "PROBLEM"
+  },
+  {
+    "Cardiovascular": "TEST"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "EKG": "TEST"
+  },
+  {
+    "sinus rhythm": "PROBLEM"
+  },
+  {
+    "AV block": "PROBLEM"
+  },
+  {
+    "R-wave progression": "PROBLEM"
+  },
+  {
+    "Hypertension": "PROBLEM"
+  },
+  {
+    "cerebrovascular accident": "PROBLEM"
+  },
+  {
+    "Compression fracture": "PROBLEM"
+  },
+  {
+    "L1": "PROBLEM"
+  },
+  {
+    "Osteoarthritis": "PROBLEM"
+  },
+  {
+    "knee": "PROBLEM"
+  },
+  {
+    "chest x-ray": "TEST"
+  },
+  {
+    "C-reactive protein": "TEST"
+  },
+  {
+    "weight loss": "PROBLEM"
+  },
+  {
+    "Weight Watchers": "TREATMENT"
+  },
+  {
+    "dietician": "TREATMENT"
+  },
+  {
+    "knee pain": "PROBLEM"
+  },
+  {
+    "colonoscopy": "TEST"
+  },
+  {
+    "XYZ": "DRUG"
+  },
+  {
+    "colonoscopy": "TEST"
+  },
+  {
+    "Fosamax": "DRUG"
+  },
+  {
+    "Fosamax": "DRUG"
+  },
+  {
+    "medications": "DRUG"
+  },
+  {
+    "EKG": "TEST"
+  },
+  {
+    "cardiac testing": "TEST"
+  },
+  {
+    "beta-blocker": "DRUG"
+  },
+  {
+    "cardiac protection": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "lightheadedness": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "osteoporosis": "PROBLEM"
+  },
+  {
+    "cerebrovascular accident": "PROBLEM"
+  },
+  {
+    "compression fracture": "PROBLEM"
+  },
+  {
+    "osteoarthritis of the knee": "PROBLEM"
+  },
+  {
+    "osteoarthritis": "PROBLEM"
+  },
+  {
+    "chest x-ray": "TEST"
+  },
+  {
+    "dexa scan": "TEST"
+  },
+  {
+    "dexa": "TEST"
+  }
+]

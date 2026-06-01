@@ -1,0 +1,131 @@
+[
+  {
+    "Nausea & Vomiting": "PROBLEM"
+  },
+  {
+    "intractable nausea and vomiting": "PROBLEM"
+  },
+  {
+    "blood-tinged vomit": "PROBLEM"
+  },
+  {
+    "G1": "TEST"
+  },
+  {
+    "emergency room": "PROBLEM"
+  },
+  {
+    "intractable nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "blood-tinged vomit": "PROBLEM"
+  },
+  {
+    "emergency room": "PROBLEM"
+  },
+  {
+    "Nonsignificant": "PROBLEM"
+  },
+  {
+    "None": "PROBLEM"
+  },
+  {
+    "alcohol": "PROBLEM"
+  },
+  {
+    "drugs": "PROBLEM"
+  },
+  {
+    "tobacco": "PROBLEM"
+  },
+  {
+    "pregnancy": "PROBLEM"
+  },
+  {
+    "PAST GYNECOLOGICAL HISTORY": "PROBLEM"
+  },
+  {
+    "sodium": "PROBLEM"
+  },
+  {
+    "potassium": "PROBLEM"
+  },
+  {
+    "ALT": "TEST"
+  },
+  {
+    "AST": "TEST"
+  },
+  {
+    "bilirubin": "TEST"
+  },
+  {
+    "ketones": "PROBLEM"
+  },
+  {
+    "protein": "PROBLEM"
+  },
+  {
+    "esterase": "PROBLEM"
+  },
+  {
+    "rbc": "PROBLEM"
+  },
+  {
+    "bacteria": "PROBLEM"
+  },
+  {
+    "H and H": "TEST"
+  },
+  {
+    "Phenergan": "DRUG"
+  },
+  {
+    "Zofran": "DRUG"
+  },
+  {
+    "Rocephin": "DRUG"
+  },
+  {
+    "bladder infection": "PROBLEM"
+  },
+  {
+    "Maalox": "DRUG"
+  },
+  {
+    "food": "PROBLEM"
+  },
+  {
+    "AST": "TEST"
+  },
+  {
+    "ALT": "TEST"
+  },
+  {
+    "hyperemesis gravidarum": "PROBLEM"
+  },
+  {
+    "2": "TEST"
+  },
+  {
+    "ALT": "PROBLEM"
+  },
+  {
+    "followup": "PROBLEM"
+  },
+  {
+    "elevated alt": "PROBLEM"
+  },
+  {
+    "iv hydration": "TREATMENT"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  }
+]

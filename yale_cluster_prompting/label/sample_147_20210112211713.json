@@ -1,0 +1,296 @@
+[
+  {
+    "entity": "free air under the diaphragm",
+    "label": "PROBLEM",
+    "start": 115,
+    "end": 143
+  },
+  {
+    "entity": "a chest x-ray",
+    "label": "TEST",
+    "start": 148,
+    "end": 161
+  },
+  {
+    "entity": "shortness of breath",
+    "label": "PROBLEM",
+    "start": 186,
+    "end": 205
+  },
+  {
+    "entity": "free air under the right diaphragm",
+    "label": "PROBLEM",
+    "start": 251,
+    "end": 285
+  },
+  {
+    "entity": "intra-abdominal pathology",
+    "label": "PROBLEM",
+    "start": 290,
+    "end": 315
+  },
+  {
+    "entity": "free air under the diaphragm",
+    "label": "PROBLEM",
+    "start": 389,
+    "end": 417
+  },
+  {
+    "entity": "unable to give any information",
+    "label": "PROBLEM",
+    "start": 490,
+    "end": 520
+  },
+  {
+    "entity": "Ativan",
+    "label": "DRUG",
+    "start": 548,
+    "end": 554
+  },
+  {
+    "entity": "obtunded",
+    "label": "PROBLEM",
+    "start": 588,
+    "end": 596
+  },
+  {
+    "entity": "unable to give any history",
+    "label": "PROBLEM",
+    "start": 601,
+    "end": 627
+  },
+  {
+    "entity": "a chest x-ray",
+    "label": "TEST",
+    "start": 632,
+    "end": 645
+  },
+  {
+    "entity": "shortness of breath",
+    "label": "PROBLEM",
+    "start": 670,
+    "end": 689
+  },
+  {
+    "entity": "free air under the right diaphragm",
+    "label": "PROBLEM",
+    "start": 735,
+    "end": 769
+  },
+  {
+    "entity": "alcohol abuse",
+    "label": "PROBLEM",
+    "start": 809,
+    "end": 822
+  },
+  {
+    "entity": "so obtunded",
+    "label": "PROBLEM",
+    "start": 885,
+    "end": 896
+  },
+  {
+    "entity": "an appendectomy",
+    "label": "TREATMENT",
+    "start": 959,
+    "end": 974
+  },
+  {
+    "entity": "right hip fracture",
+    "label": "PROBLEM",
+    "start": 976,
+    "end": 994
+  },
+  {
+    "entity": "alcohol abuse",
+    "label": "PROBLEM",
+    "start": 1132,
+    "end": 1145
+  },
+  {
+    "entity": "VITAL SIGNS",
+    "label": "TEST",
+    "start": 1274,
+    "end": 1285
+  },
+  {
+    "entity": "Temp",
+    "label": "TEST",
+    "start": 1287,
+    "end": 1291
+  },
+  {
+    "entity": "heart rate",
+    "label": "TEST",
+    "start": 1298,
+    "end": 1308
+  },
+  {
+    "entity": "respiratory rate",
+    "label": "TEST",
+    "start": 1313,
+    "end": 1329
+  },
+  {
+    "entity": "blood pressure",
+    "label": "TEST",
+    "start": 1338,
+    "end": 1352
+  },
+  {
+    "entity": "Bilaterally diminished",
+    "label": "PROBLEM",
+    "start": 1517,
+    "end": 1539
+  },
+  {
+    "entity": "deep palpation",
+    "label": "TEST",
+    "start": 1581,
+    "end": 1595
+  },
+  {
+    "entity": "any tenderness",
+    "label": "PROBLEM",
+    "start": 1648,
+    "end": 1662
+  },
+  {
+    "entity": "white blood cell count",
+    "label": "TEST",
+    "start": 1698,
+    "end": 1720
+  },
+  {
+    "entity": "Elevated AST",
+    "label": "PROBLEM",
+    "start": 1736,
+    "end": 1748
+  },
+  {
+    "entity": "ALT",
+    "label": "TEST",
+    "start": 1771,
+    "end": 1774
+  },
+  {
+    "entity": "Alkaline phosphatase",
+    "label": "TEST",
+    "start": 1782,
+    "end": 1802
+  },
+  {
+    "entity": "bilirubin",
+    "label": "TEST",
+    "start": 1810,
+    "end": 1819
+  },
+  {
+    "entity": "Sodium",
+    "label": "TEST",
+    "start": 1825,
+    "end": 1831
+  },
+  {
+    "entity": "chloride",
+    "label": "TEST",
+    "start": 1848,
+    "end": 1856
+  },
+  {
+    "entity": "potassium",
+    "label": "TEST",
+    "start": 1861,
+    "end": 1870
+  },
+  {
+    "entity": "X-ray of the chest",
+    "label": "TEST",
+    "start": 1879,
+    "end": 1897
+  },
+  {
+    "entity": "free air",
+    "label": "PROBLEM",
+    "start": 1923,
+    "end": 1931
+  },
+  {
+    "entity": "a CT scan",
+    "label": "TEST",
+    "start": 1944,
+    "end": 1953
+  },
+  {
+    "entity": "the patient's physical examination",
+    "label": "TEST",
+    "start": 1978,
+    "end": 2012
+  },
+  {
+    "entity": "intra-abdominal pathology",
+    "label": "PROBLEM",
+    "start": 2041,
+    "end": 2066
+  },
+  {
+    "entity": "the air under the diaphragm",
+    "label": "PROBLEM",
+    "start": 2084,
+    "end": 2111
+  },
+  {
+    "entity": "a colonic air",
+    "label": "PROBLEM",
+    "start": 2124,
+    "end": 2137
+  },
+  {
+    "entity": "intra-abdominal pathology",
+    "label": "PROBLEM",
+    "start": 2237,
+    "end": 2262
+  },
+  {
+    "entity": "treatment of her hyponatremia",
+    "label": "TREATMENT",
+    "start": 2315,
+    "end": 2344
+  },
+  {
+    "entity": "free air",
+    "label": "PROBLEM",
+    "start": 2374,
+    "end": 2382
+  },
+  {
+    "entity": "hyponatremia",
+    "label": "PROBLEM",
+    "start": 2384,
+    "end": 2396
+  },
+  {
+    "entity": "air under the diaphragm",
+    "label": "PROBLEM",
+    "start": 2398,
+    "end": 2421
+  },
+  {
+    "entity": "intra abdominal pathology",
+    "label": "PROBLEM",
+    "start": 2423,
+    "end": 2448
+  },
+  {
+    "entity": "pathology",
+    "label": "PROBLEM",
+    "start": 2461,
+    "end": 2470
+  },
+  {
+    "entity": "obtunded",
+    "label": "PROBLEM",
+    "start": 2472,
+    "end": 2480
+  }
+]

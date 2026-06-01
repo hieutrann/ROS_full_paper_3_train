@@ -1,0 +1,389 @@
+[
+  {
+    "fatigue": "PROBLEM"
+  },
+  {
+    "discomfort": "PROBLEM"
+  },
+  {
+    "chest": "PROBLEM"
+  },
+  {
+    "back": "PROBLEM"
+  },
+  {
+    "stomach": "PROBLEM"
+  },
+  {
+    "pain": "PROBLEM"
+  },
+  {
+    "bowel movements": "PROBLEM"
+  },
+  {
+    "bladder control": "PROBLEM"
+  },
+  {
+    "hips": "PROBLEM"
+  },
+  {
+    "neuropathy": "PROBLEM"
+  },
+  {
+    "swelling": "PROBLEM"
+  },
+  {
+    "headaches": "PROBLEM"
+  },
+  {
+    "Type II diabetes mellitus": "PROBLEM"
+  },
+  {
+    "fatigue": "PROBLEM"
+  },
+  {
+    "weakness": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "neuropathy": "PROBLEM"
+  },
+  {
+    "symptoms": "PROBLEM"
+  },
+  {
+    "hypothyroidism": "PROBLEM"
+  },
+  {
+    "depression": "PROBLEM"
+  },
+  {
+    "medications": "PROBLEM"
+  },
+  {
+    "symptoms": "PROBLEM"
+  },
+  {
+    "diarrhea": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "sweats": "PROBLEM"
+  },
+  {
+    "chills": "PROBLEM"
+  },
+  {
+    "weight": "PROBLEM"
+  },
+  {
+    "visual": "PROBLEM"
+  },
+  {
+    "auditory": "PROBLEM"
+  },
+  {
+    "hearing": "PROBLEM"
+  },
+  {
+    "epistaxis": "PROBLEM"
+  },
+  {
+    "sore throat": "PROBLEM"
+  },
+  {
+    "hoarseness": "PROBLEM"
+  },
+  {
+    "palpitations": "PROBLEM"
+  },
+  {
+    "PND": "PROBLEM"
+  },
+  {
+    "orthopnea": "PROBLEM"
+  },
+  {
+    "tenderness": "PROBLEM"
+  },
+  {
+    "wheezing": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "PND": "PROBLEM"
+  },
+  {
+    "orthopnea": "PROBLEM"
+  },
+  {
+    "disease": "PROBLEM"
+  },
+  {
+    "stomach pain": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "diarrhea": "PROBLEM"
+  },
+  {
+    "bladder control": "PROBLEM"
+  },
+  {
+    "dysuria": "PROBLEM"
+  },
+  {
+    "hematuria": "PROBLEM"
+  },
+  {
+    "stones": "PROBLEM"
+  },
+  {
+    "neuropathy": "PROBLEM"
+  },
+  {
+    "muscle pain": "PROBLEM"
+  },
+  {
+    "joint pain": "PROBLEM"
+  },
+  {
+    "paralysis": "PROBLEM"
+  },
+  {
+    "paresis": "PROBLEM"
+  },
+  {
+    "paresthesias": "PROBLEM"
+  },
+  {
+    "rashes": "PROBLEM"
+  },
+  {
+    "itching": "PROBLEM"
+  },
+  {
+    "nails": "PROBLEM"
+  },
+  {
+    "lumps": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "bruising": "PROBLEM"
+  },
+  {
+    "bleeding": "PROBLEM"
+  },
+  {
+    "CBC": "TEST"
+  },
+  {
+    "CMP": "TEST"
+  },
+  {
+    "A1c": "TEST"
+  },
+  {
+    "microalbumin": "TEST"
+  },
+  {
+    "UA": "TEST"
+  },
+  {
+    "Stool": "TEST"
+  },
+  {
+    "C&S": "TEST"
+  },
+  {
+    "Gram stain": "TEST"
+  },
+  {
+    "ova": "TEST"
+  },
+  {
+    "parasites": "TEST"
+  },
+  {
+    "CT": "TEST"
+  },
+  {
+    "abdomen": "TEST"
+  },
+  {
+    "pelvis": "TEST"
+  },
+  {
+    "metformin": "DRUG"
+  },
+  {
+    "diuretics": "DRUG"
+  },
+  {
+    "Pulse": "TEST"
+  },
+  {
+    "BP": "TEST"
+  },
+  {
+    "RESPIRATIONS": "TEST"
+  },
+  {
+    "HEENT": "TEST"
+  },
+  {
+    "Ears": "TEST"
+  },
+  {
+    "nose": "TEST"
+  },
+  {
+    "throat": "TEST"
+  },
+  {
+    "conjunctivae": "TEST"
+  },
+  {
+    "pupils": "TEST"
+  },
+  {
+    "ear canals": "TEST"
+  },
+  {
+    "TMs": "TEST"
+  },
+  {
+    "nares": "TEST"
+  },
+  {
+    "septum": "TEST"
+  },
+  {
+    "oral mucosa": "TEST"
+  },
+  {
+    "tonsillar": "TEST"
+  },
+  {
+    "exudate": "TEST"
+  },
+  {
+    "asymmetry": "TEST"
+  },
+  {
+    "neck": "TEST"
+  },
+  {
+    "thyromegaly": "TEST"
+  },
+  {
+    "adenopathy": "TEST"
+  },
+  {
+    "chest": "TEST"
+  },
+  {
+    "lungs": "TEST"
+  },
+  {
+    "auscultation": "TEST"
+  },
+  {
+    "percussion": "TEST"
+  },
+  {
+    "heart": "TEST"
+  },
+  {
+    "rate": "TEST"
+  },
+  {
+    "rhythm": "TEST"
+  },
+  {
+    "S1": "TEST"
+  },
+  {
+    "S2": "TEST"
+  },
+  {
+    "murmur": "TEST"
+  },
+  {
+    "gallop": "TEST"
+  },
+  {
+    "abdomen": "TEST"
+  },
+  {
+    "masses": "TEST"
+  },
+  {
+    "guarding": "TEST"
+  },
+  {
+    "rigidity": "TEST"
+  },
+  {
+    "tenderness": "TEST"
+  },
+  {
+    "flank pain": "TEST"
+  },
+  {
+    "GU": "TEST"
+  },
+  {
+    "extremities": "TEST"
+  },
+  {
+    "cyanosis": "TEST"
+  },
+  {
+    "clubbing": "TEST"
+  },
+  {
+    "edema": "TEST"
+  },
+  {
+    "skin": "TEST"
+  },
+  {
+    "lesions": "TEST"
+  },
+  {
+    "rashes": "TEST"
+  },
+  {
+    "neurologic": "TEST"
+  },
+  {
+    "cranial nerve": "TEST"
+  },
+  {
+    "motor": "TEST"
+  },
+  {
+    "sensory": "TEST"
+  },
+  {
+    "gait": "TEST"
+  },
+  {
+    "random motion": "TEST"
+  }
+]

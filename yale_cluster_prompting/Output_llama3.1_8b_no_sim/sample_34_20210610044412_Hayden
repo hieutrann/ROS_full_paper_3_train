@@ -1,0 +1,215 @@
+[
+  {
+    "General Medicine": "TEST"
+  },
+  {
+    "Normal Physical Exam Template": "TEST"
+  },
+  {
+    "Normal physical exam": "TEST"
+  },
+  {
+    "chronological age": "PROBLEM"
+  },
+  {
+    "chronically ill": "PROBLEM"
+  },
+  {
+    "VITAL SIGNS": "TEST"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "temperature": "TEST"
+  },
+  {
+    "respirations": "TEST"
+  },
+  {
+    "pulse": "TEST"
+  },
+  {
+    "chronological age": "PROBLEM"
+  },
+  {
+    "chronically ill": "PROBLEM"
+  },
+  {
+    "pupils": "TEST"
+  },
+  {
+    "Funduscopic examination": "TEST"
+  },
+  {
+    "pharynx": "PROBLEM"
+  },
+  {
+    "Tympanic membranes": "TEST"
+  },
+  {
+    "Trachea": "TEST"
+  },
+  {
+    "Thyroid": "PROBLEM"
+  },
+  {
+    "neck": "PROBLEM"
+  },
+  {
+    "nodes": "PROBLEM"
+  },
+  {
+    "auscultation": "TEST"
+  },
+  {
+    "respiratory rate": "TEST"
+  },
+  {
+    "consolidation": "PROBLEM"
+  },
+  {
+    "egophony": "PROBLEM"
+  },
+  {
+    "retractions": "PROBLEM"
+  },
+  {
+    "muscle use": "PROBLEM"
+  },
+  {
+    "bilateral breath sounds": "TEST"
+  },
+  {
+    "jugular venous distention": "PROBLEM"
+  },
+  {
+    "carotid bruits": "PROBLEM"
+  },
+  {
+    "heart size": "PROBLEM"
+  },
+  {
+    "murmur": "PROBLEM"
+  },
+  {
+    "gallop": "PROBLEM"
+  },
+  {
+    "S1": "TEST"
+  },
+  {
+    "S2": "TEST"
+  },
+  {
+    "palpation": "TEST"
+  },
+  {
+    "organomegaly": "PROBLEM"
+  },
+  {
+    "rebound tenderness": "PROBLEM"
+  },
+  {
+    "Bowel sounds": "TEST"
+  },
+  {
+    "Obturator and psoas signs": "TEST"
+  },
+  {
+    "bladder tenderness": "PROBLEM"
+  },
+  {
+    "flank pain": "PROBLEM"
+  },
+  {
+    "Extremities": "PROBLEM"
+  },
+  {
+    "motor tone": "PROBLEM"
+  },
+  {
+    "strength": "PROBLEM"
+  },
+  {
+    "reflexes": "PROBLEM"
+  },
+  {
+    "joint strength": "PROBLEM"
+  },
+  {
+    "sensation": "PROBLEM"
+  },
+  {
+    "Glasgow Coma Scale": "TEST"
+  },
+  {
+    "Cranial nerves II through XII": "TEST"
+  },
+  {
+    "motor and cerebellar tests": "TEST"
+  },
+  {
+    "Reflexes": "TEST"
+  },
+  {
+    "lymph nodes": "PROBLEM"
+  },
+  {
+    "bleeding": "PROBLEM"
+  },
+  {
+    "purpura": "PROBLEM"
+  },
+  {
+    "petechiae": "PROBLEM"
+  },
+  {
+    "hemorrhage": "PROBLEM"
+  },
+  {
+    "suicidal ideations": "PROBLEM"
+  },
+  {
+    "depression": "PROBLEM"
+  },
+  {
+    "general medicine": "PROBLEM"
+  },
+  {
+    "jugular venous distention": "PROBLEM"
+  },
+  {
+    "flank": "PROBLEM"
+  },
+  {
+    "bladder": "PROBLEM"
+  },
+  {
+    "normal physical exam": "TEST"
+  },
+  {
+    "neck": "PROBLEM"
+  },
+  {
+    "nodes": "PROBLEM"
+  },
+  {
+    "respiratory": "PROBLEM"
+  },
+  {
+    "tenderness": "PROBLEM"
+  },
+  {
+    "motor": "PROBLEM"
+  },
+  {
+    "strength": "PROBLEM"
+  },
+  {
+    "reflexes": "PROBLEM"
+  },
+  {
+    "sounds": "TEST"
+  }
+]

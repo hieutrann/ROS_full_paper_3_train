@@ -1,0 +1,614 @@
+[
+  {
+    "entity": "Diabetes Mellitus",
+    "label": "PROBLEM",
+    "start": 63,
+    "end": 80
+  },
+  {
+    "entity": "diabetes mellitus, type 1",
+    "label": "PROBLEM",
+    "start": 119,
+    "end": 144
+  },
+  {
+    "entity": "diabetes mellitus, type 1",
+    "label": "PROBLEM",
+    "start": 210,
+    "end": 235
+  },
+  {
+    "entity": "significant diabetic neuropathy",
+    "label": "PROBLEM",
+    "start": 284,
+    "end": 315
+  },
+  {
+    "entity": "NPH",
+    "label": "DRUG",
+    "start": 378,
+    "end": 381
+  },
+  {
+    "entity": "Regular insulin",
+    "label": "DRUG",
+    "start": 386,
+    "end": 401
+  },
+  {
+    "entity": "his blood sugars",
+    "label": "TEST",
+    "start": 414,
+    "end": 430
+  },
+  {
+    "entity": "a low blood sugar",
+    "label": "PROBLEM",
+    "start": 475,
+    "end": 492
+  },
+  {
+    "entity": "motor vehicle accident",
+    "label": "PROBLEM",
+    "start": 500,
+    "end": 522
+  },
+  {
+    "entity": "his blood sugar",
+    "label": "TEST",
+    "start": 565,
+    "end": 580
+  },
+  {
+    "entity": "his blood sugars",
+    "label": "TEST",
+    "start": 679,
+    "end": 695
+  },
+  {
+    "entity": "hypoglycemia",
+    "label": "PROBLEM",
+    "start": 736,
+    "end": 748
+  },
+  {
+    "entity": "his blood sugars",
+    "label": "TEST",
+    "start": 781,
+    "end": 797
+  },
+  {
+    "entity": "his blood sugar",
+    "label": "TEST",
+    "start": 833,
+    "end": 848
+  },
+  {
+    "entity": "a glucometer",
+    "label": "TEST",
+    "start": 854,
+    "end": 866
+  },
+  {
+    "entity": "kidney damage",
+    "label": "PROBLEM",
+    "start": 1014,
+    "end": 1027
+  },
+  {
+    "entity": "His urine microalbumin",
+    "label": "TEST",
+    "start": 1050,
+    "end": 1072
+  },
+  {
+    "entity": "His last hemoglobin A1C",
+    "label": "TEST",
+    "start": 1087,
+    "end": 1110
+  },
+  {
+    "entity": "Lantus",
+    "label": "DRUG",
+    "start": 1186,
+    "end": 1192
+  },
+  {
+    "entity": "his blood sugars",
+    "label": "TEST",
+    "start": 1238,
+    "end": 1254
+  },
+  {
+    "entity": "Lantus",
+    "label": "DRUG",
+    "start": 1285,
+    "end": 1291
+  },
+  {
+    "entity": "his hemoglobin A1C",
+    "label": "TEST",
+    "start": 1312,
+    "end": 1330
+  },
+  {
+    "entity": "His last CMP",
+    "label": "TEST",
+    "start": 1342,
+    "end": 1354
+  },
+  {
+    "entity": "an elevated alkaline phosphatase level of 168",
+    "label": "PROBLEM",
+    "start": 1361,
+    "end": 1406
+  },
+  {
+    "entity": "an SGGT",
+    "label": "TEST",
+    "start": 1562,
+    "end": 1569
+  },
+  {
+    "entity": "hepatic panel",
+    "label": "TEST",
+    "start": 1574,
+    "end": 1587
+  },
+  {
+    "entity": "gastroparesis",
+    "label": "PROBLEM",
+    "start": 1625,
+    "end": 1638
+  },
+  {
+    "entity": "impotence",
+    "label": "PROBLEM",
+    "start": 1643,
+    "end": 1652
+  },
+  {
+    "entity": "Nexium",
+    "label": "DRUG",
+    "start": 1671,
+    "end": 1677
+  },
+  {
+    "entity": "Viagra",
+    "label": "DRUG",
+    "start": 1682,
+    "end": 1688
+  },
+  {
+    "entity": "a scooter accident",
+    "label": "PROBLEM",
+    "start": 1773,
+    "end": 1791
+  },
+  {
+    "entity": "a headache",
+    "label": "PROBLEM",
+    "start": 1925,
+    "end": 1935
+  },
+  {
+    "entity": "a scalp laceration",
+    "label": "PROBLEM",
+    "start": 2044,
+    "end": 2062
+  },
+  {
+    "entity": "the headache",
+    "label": "PROBLEM",
+    "start": 2135,
+    "end": 2147
+  },
+  {
+    "entity": "any dizziness",
+    "label": "PROBLEM",
+    "start": 2169,
+    "end": 2182
+  },
+  {
+    "entity": "nausea",
+    "label": "PROBLEM",
+    "start": 2184,
+    "end": 2190
+  },
+  {
+    "entity": "vomiting",
+    "label": "PROBLEM",
+    "start": 2192,
+    "end": 2200
+  },
+  {
+    "entity": "other neurological abnormalities",
+    "label": "PROBLEM",
+    "start": 2205,
+    "end": 2237
+  },
+  {
+    "entity": "VITAL SIGNS",
+    "label": "TEST",
+    "start": 2302,
+    "end": 2313
+  },
+  {
+    "entity": "Blood sugar",
+    "label": "TEST",
+    "start": 2315,
+    "end": 2326
+  },
+  {
+    "entity": "blood pressure",
+    "label": "TEST",
+    "start": 2332,
+    "end": 2346
+  },
+  {
+    "entity": "heart rate",
+    "label": "TEST",
+    "start": 2355,
+    "end": 2365
+  },
+  {
+    "entity": "respirations",
+    "label": "TEST",
+    "start": 2371,
+    "end": 2383
+  },
+  {
+    "entity": "Microalbumin",
+    "label": "TEST",
+    "start": 2388,
+    "end": 2400
+  },
+  {
+    "entity": "2 skin lacerations on the left parietal region of the scalp",
+    "label": "PROBLEM",
+    "start": 2432,
+    "end": 2491
+  },
+  {
+    "entity": "infection",
+    "label": "PROBLEM",
+    "start": 2537,
+    "end": 2546
+  },
+  {
+    "entity": "Wound",
+    "label": "PROBLEM",
+    "start": 2548,
+    "end": 2553
+  },
+  {
+    "entity": "PERRLA",
+    "label": "TEST",
+    "start": 2643,
+    "end": 2649
+  },
+  {
+    "entity": "EOMI",
+    "label": "TEST",
+    "start": 2651,
+    "end": 2655
+  },
+  {
+    "entity": "redness",
+    "label": "PROBLEM",
+    "start": 2726,
+    "end": 2733
+  },
+  {
+    "entity": "swelling",
+    "label": "PROBLEM",
+    "start": 2737,
+    "end": 2745
+  },
+  {
+    "entity": "ROM",
+    "label": "TEST",
+    "start": 2785,
+    "end": 2788
+  },
+  {
+    "entity": "LAD",
+    "label": "PROBLEM",
+    "start": 2793,
+    "end": 2796
+  },
+  {
+    "entity": "RRR",
+    "label": "TEST",
+    "start": 2807,
+    "end": 2810
+  },
+  {
+    "entity": "murmurs",
+    "label": "PROBLEM",
+    "start": 2815,
+    "end": 2822
+  },
+  {
+    "entity": "rubs",
+    "label": "PROBLEM",
+    "start": 2824,
+    "end": 2828
+  },
+  {
+    "entity": "gallops",
+    "label": "PROBLEM",
+    "start": 2833,
+    "end": 2840
+  },
+  {
+    "entity": "CTA",
+    "label": "TEST",
+    "start": 2855,
+    "end": 2858
+  },
+  {
+    "entity": "HSM",
+    "label": "PROBLEM",
+    "start": 2889,
+    "end": 2892
+  },
+  {
+    "entity": "masses",
+    "label": "PROBLEM",
+    "start": 2900,
+    "end": 2906
+  },
+  {
+    "entity": "lower extremity numbness",
+    "label": "PROBLEM",
+    "start": 2931,
+    "end": 2955
+  },
+  {
+    "entity": "Microfilament test",
+    "label": "TEST",
+    "start": 2968,
+    "end": 2986
+  },
+  {
+    "entity": "calloused",
+    "label": "PROBLEM",
+    "start": 3067,
+    "end": 3076
+  },
+  {
+    "entity": "dry",
+    "label": "PROBLEM",
+    "start": 3081,
+    "end": 3084
+  },
+  {
+    "entity": "a small contusion on right shin",
+    "label": "PROBLEM",
+    "start": 3116,
+    "end": 3147
+  },
+  {
+    "entity": "signs of infection",
+    "label": "PROBLEM",
+    "start": 3231,
+    "end": 3249
+  },
+  {
+    "entity": "Cerebellar function",
+    "label": "TEST",
+    "start": 3328,
+    "end": 3347
+  },
+  {
+    "entity": "Diabetes mellitus, type 1, poorly controlled",
+    "label": "PROBLEM",
+    "start": 3396,
+    "end": 3440
+  },
+  {
+    "entity": "Significant diabetic neuropathy",
+    "label": "PROBLEM",
+    "start": 3445,
+    "end": 3476
+  },
+  {
+    "entity": "microalbuminuria",
+    "label": "PROBLEM",
+    "start": 3491,
+    "end": 3507
+  },
+  {
+    "entity": "Scalp laceration",
+    "label": "PROBLEM",
+    "start": 3512,
+    "end": 3528
+  },
+  {
+    "entity": "motor vehicle accident",
+    "label": "PROBLEM",
+    "start": 3543,
+    "end": 3565
+  },
+  {
+    "entity": "Elevated Alk Phos",
+    "label": "PROBLEM",
+    "start": 3590,
+    "end": 3607
+  },
+  {
+    "entity": "Diabetes mellitus type 1",
+    "label": "PROBLEM",
+    "start": 3636,
+    "end": 3660
+  },
+  {
+    "entity": "the elevated alkaline phosphatase",
+    "label": "PROBLEM",
+    "start": 3680,
+    "end": 3713
+  },
+  {
+    "entity": "an SGGT",
+    "label": "TEST",
+    "start": 3719,
+    "end": 3726
+  },
+  {
+    "entity": "a hepatic function panel",
+    "label": "TEST",
+    "start": 3731,
+    "end": 3755
+  },
+  {
+    "entity": "The positive microalbumin",
+    "label": "TEST",
+    "start": 3757,
+    "end": 3782
+  },
+  {
+    "entity": "Ace Inhibitor",
+    "label": "DRUG",
+    "start": 3829,
+    "end": 3842
+  },
+  {
+    "entity": "Lantus",
+    "label": "DRUG",
+    "start": 3884,
+    "end": 3890
+  },
+  {
+    "entity": "his blood sugars",
+    "label": "TEST",
+    "start": 3939,
+    "end": 3955
+  },
+  {
+    "entity": "Prilosec OTC",
+    "label": "DRUG",
+    "start": 4089,
+    "end": 4101
+  },
+  {
+    "entity": "GERD symptoms",
+    "label": "PROBLEM",
+    "start": 4106,
+    "end": 4119
+  },
+  {
+    "entity": "Lacerations on scalp and shin",
+    "label": "PROBLEM",
+    "start": 4151,
+    "end": 4180
+  },
+  {
+    "entity": "any signs of heat",
+    "label": "PROBLEM",
+    "start": 4239,
+    "end": 4256
+  },
+  {
+    "entity": "swelling",
+    "label": "PROBLEM",
+    "start": 4258,
+    "end": 4266
+  },
+  {
+    "entity": "infection",
+    "label": "PROBLEM",
+    "start": 4268,
+    "end": 4277
+  },
+  {
+    "entity": "not have feeling in the majority of his lower body",
+    "label": "PROBLEM",
+    "start": 4365,
+    "end": 4415
+  },
+  {
+    "entity": "diabetes mellitus",
+    "label": "PROBLEM",
+    "start": 4445,
+    "end": 4462
+  },
+  {
+    "entity": "nph",
+    "label": "DRUG",
+    "start": 4464,
+    "end": 4467
+  },
+  {
+    "entity": "regular insulin",
+    "label": "DRUG",
+    "start": 4469,
+    "end": 4484
+  },
+  {
+    "entity": "sggt",
+    "label": "TEST",
+    "start": 4486,
+    "end": 4490
+  },
+  {
+    "entity": "diabetic neuropathy",
+    "label": "PROBLEM",
+    "start": 4492,
+    "end": 4511
+  },
+  {
+    "entity": "dizziness",
+    "label": "PROBLEM",
+    "start": 4513,
+    "end": 4522
+  },
+  {
+    "entity": "glucometer",
+    "label": "TEST",
+    "start": 4534,
+    "end": 4544
+  },
+  {
+    "entity": "hypoglycemia",
+    "label": "PROBLEM",
+    "start": 4546,
+    "end": 4558
+  },
+  {
+    "entity": "microalbumin",
+    "label": "TEST",
+    "start": 4560,
+    "end": 4572
+  },
+  {
+    "entity": "nausea",
+    "label": "PROBLEM",
+    "start": 4574,
+    "end": 4580
+  },
+  {
+    "entity": "vomiting",
+    "label": "PROBLEM",
+    "start": 4596,
+    "end": 4604
+  },
+  {
+    "entity": "mellitus type",
+    "label": "PROBLEM",
+    "start": 4606,
+    "end": 4619
+  },
+  {
+    "entity": "blood sugars",
+    "label": "TEST",
+    "start": 4621,
+    "end": 4633
+  },
+  {
+    "entity": "diabetes",
+    "label": "PROBLEM",
+    "start": 4642,
+    "end": 4650
+  }
+]

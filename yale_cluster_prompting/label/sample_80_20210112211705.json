@@ -1,0 +1,182 @@
+[
+  {
+    "entity": "Hysterectomy",
+    "label": "TREATMENT",
+    "start": 64,
+    "end": 76
+  },
+  {
+    "entity": "a total vaginal hysterectomy",
+    "label": "TREATMENT",
+    "start": 132,
+    "end": 160
+  },
+  {
+    "entity": "Menorrhagia",
+    "label": "PROBLEM",
+    "start": 224,
+    "end": 235
+  },
+  {
+    "entity": "Uterus enlargement",
+    "label": "PROBLEM",
+    "start": 240,
+    "end": 258
+  },
+  {
+    "entity": "Pelvic pain",
+    "label": "PROBLEM",
+    "start": 263,
+    "end": 274
+  },
+  {
+    "entity": "vaginal hysterectomy",
+    "label": "TREATMENT",
+    "start": 309,
+    "end": 329
+  },
+  {
+    "entity": "abnormal menstrual bleeding",
+    "label": "PROBLEM",
+    "start": 477,
+    "end": 504
+  },
+  {
+    "entity": "increase in flow during her period",
+    "label": "PROBLEM",
+    "start": 509,
+    "end": 543
+  },
+  {
+    "entity": "back pain",
+    "label": "PROBLEM",
+    "start": 570,
+    "end": 579
+  },
+  {
+    "entity": "dysmenorrhea",
+    "label": "PROBLEM",
+    "start": 581,
+    "end": 593
+  },
+  {
+    "entity": "dysuria",
+    "label": "PROBLEM",
+    "start": 599,
+    "end": 606
+  },
+  {
+    "entity": "worsening",
+    "label": "PROBLEM",
+    "start": 630,
+    "end": 639
+  },
+  {
+    "entity": "increasing pelvic pain",
+    "label": "PROBLEM",
+    "start": 686,
+    "end": 708
+  },
+  {
+    "entity": "uterine enlargement",
+    "label": "PROBLEM",
+    "start": 758,
+    "end": 777
+  },
+  {
+    "entity": "examination",
+    "label": "TEST",
+    "start": 783,
+    "end": 794
+  },
+  {
+    "entity": "a total vaginal hysterectomy",
+    "label": "TREATMENT",
+    "start": 829,
+    "end": 857
+  },
+  {
+    "entity": "total vaginal hysterectomy",
+    "label": "TREATMENT",
+    "start": 926,
+    "end": 952
+  },
+  {
+    "entity": "complication",
+    "label": "PROBLEM",
+    "start": 996,
+    "end": 1008
+  },
+  {
+    "entity": "pathologic analysis",
+    "label": "TEST",
+    "start": 1030,
+    "end": 1049
+  },
+  {
+    "entity": "vitals",
+    "label": "TEST",
+    "start": 1147,
+    "end": 1153
+  },
+  {
+    "entity": "Laboratory studies",
+    "label": "TEST",
+    "start": 1171,
+    "end": 1189
+  },
+  {
+    "entity": "H&H",
+    "label": "TEST",
+    "start": 1191,
+    "end": 1194
+  },
+  {
+    "entity": "hemoglobin",
+    "label": "TEST",
+    "start": 1248,
+    "end": 1258
+  },
+  {
+    "entity": "hematocrit",
+    "label": "TEST",
+    "start": 1271,
+    "end": 1281
+  },
+  {
+    "entity": "menorrhagia",
+    "label": "PROBLEM",
+    "start": 1594,
+    "end": 1605
+  },
+  {
+    "entity": "uterus enlargement",
+    "label": "PROBLEM",
+    "start": 1607,
+    "end": 1625
+  },
+  {
+    "entity": "pelvic pain",
+    "label": "PROBLEM",
+    "start": 1627,
+    "end": 1638
+  },
+  {
+    "entity": "total vaginal hysterectomy",
+    "label": "TREATMENT",
+    "start": 1640,
+    "end": 1666
+  },
+  {
+    "entity": "vaginal hysterectomy",
+    "label": "TREATMENT",
+    "start": 1668,
+    "end": 1688
+  },
+  {
+    "entity": "hysterectomy",
+    "label": "TREATMENT",
+    "start": 1707,
+    "end": 1719
+  }
+]

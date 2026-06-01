@@ -1,0 +1,350 @@
+[
+  {
+    "entity": "COPD",
+    "label": "PROBLEM",
+    "start": 64,
+    "end": 68
+  },
+  {
+    "entity": "COPD",
+    "label": "PROBLEM",
+    "start": 126,
+    "end": 130
+  },
+  {
+    "entity": "bronchospasm",
+    "label": "PROBLEM",
+    "start": 146,
+    "end": 158
+  },
+  {
+    "entity": "increased cough",
+    "label": "PROBLEM",
+    "start": 197,
+    "end": 212
+  },
+  {
+    "entity": "respiratory secretions",
+    "label": "PROBLEM",
+    "start": 214,
+    "end": 236
+  },
+  {
+    "entity": "wheezings",
+    "label": "PROBLEM",
+    "start": 238,
+    "end": 247
+  },
+  {
+    "entity": "shortness of breath",
+    "label": "PROBLEM",
+    "start": 253,
+    "end": 272
+  },
+  {
+    "entity": "bronchospasm",
+    "label": "PROBLEM",
+    "start": 384,
+    "end": 396
+  },
+  {
+    "entity": "increased cough",
+    "label": "PROBLEM",
+    "start": 435,
+    "end": 450
+  },
+  {
+    "entity": "respiratory secretions",
+    "label": "PROBLEM",
+    "start": 452,
+    "end": 474
+  },
+  {
+    "entity": "wheezings",
+    "label": "PROBLEM",
+    "start": 476,
+    "end": 485
+  },
+  {
+    "entity": "shortness of breath",
+    "label": "PROBLEM",
+    "start": 491,
+    "end": 510
+  },
+  {
+    "entity": "dyspneic",
+    "label": "PROBLEM",
+    "start": 584,
+    "end": 592
+  },
+  {
+    "entity": "audible wheezing",
+    "label": "PROBLEM",
+    "start": 598,
+    "end": 614
+  },
+  {
+    "entity": "acute asthmatic bronchitis",
+    "label": "PROBLEM",
+    "start": 639,
+    "end": 665
+  },
+  {
+    "entity": "COPD",
+    "label": "PROBLEM",
+    "start": 698,
+    "end": 702
+  },
+  {
+    "entity": "pipe smoking",
+    "label": "PROBLEM",
+    "start": 762,
+    "end": 774
+  },
+  {
+    "entity": "fever",
+    "label": "PROBLEM",
+    "start": 812,
+    "end": 817
+  },
+  {
+    "entity": "diaphoresis",
+    "label": "PROBLEM",
+    "start": 819,
+    "end": 830
+  },
+  {
+    "entity": "nausea",
+    "label": "PROBLEM",
+    "start": 832,
+    "end": 838
+  },
+  {
+    "entity": "chest pain",
+    "label": "PROBLEM",
+    "start": 840,
+    "end": 850
+  },
+  {
+    "entity": "systemic symptoms",
+    "label": "PROBLEM",
+    "start": 860,
+    "end": 877
+  },
+  {
+    "entity": "artificial aortic valve implantation",
+    "label": "TREATMENT",
+    "start": 913,
+    "end": 949
+  },
+  {
+    "entity": "chronic Coumadin therapy",
+    "label": "DRUG",
+    "start": 978,
+    "end": 1002
+  },
+  {
+    "entity": "COPD",
+    "label": "PROBLEM",
+    "start": 1004,
+    "end": 1008
+  },
+  {
+    "entity": "hypertension",
+    "label": "PROBLEM",
+    "start": 1040,
+    "end": 1052
+  },
+  {
+    "entity": "elevated cholesterol",
+    "label": "PROBLEM",
+    "start": 1069,
+    "end": 1089
+  },
+  {
+    "entity": "Heart tones",
+    "label": "TEST",
+    "start": 1113,
+    "end": 1124
+  },
+  {
+    "entity": "easily audible mechanical click",
+    "label": "PROBLEM",
+    "start": 1141,
+    "end": 1172
+  },
+  {
+    "entity": "Breath sounds",
+    "label": "TEST",
+    "start": 1174,
+    "end": 1187
+  },
+  {
+    "entity": "rales",
+    "label": "PROBLEM",
+    "start": 1216,
+    "end": 1221
+  },
+  {
+    "entity": "rhonchi",
+    "label": "PROBLEM",
+    "start": 1226,
+    "end": 1233
+  },
+  {
+    "entity": "Sodium",
+    "label": "TEST",
+    "start": 1276,
+    "end": 1282
+  },
+  {
+    "entity": "potassium",
+    "label": "TEST",
+    "start": 1288,
+    "end": 1297
+  },
+  {
+    "entity": "BUN",
+    "label": "TEST",
+    "start": 1303,
+    "end": 1306
+  },
+  {
+    "entity": "creatinine",
+    "label": "TEST",
+    "start": 1315,
+    "end": 1325
+  },
+  {
+    "entity": "Hemoglobin",
+    "label": "TEST",
+    "start": 1331,
+    "end": 1341
+  },
+  {
+    "entity": "hematocrit",
+    "label": "TEST",
+    "start": 1351,
+    "end": 1361
+  },
+  {
+    "entity": "antibiotics",
+    "label": "DRUG",
+    "start": 1415,
+    "end": 1426
+  },
+  {
+    "entity": "vigorous respiratory therapy",
+    "label": "TREATMENT",
+    "start": 1428,
+    "end": 1456
+  },
+  {
+    "entity": "Solu-Medrol",
+    "label": "DRUG",
+    "start": 1470,
+    "end": 1481
+  },
+  {
+    "entity": "Chest x-ray",
+    "label": "TEST",
+    "start": 1521,
+    "end": 1532
+  },
+  {
+    "entity": "CHF",
+    "label": "PROBLEM",
+    "start": 1550,
+    "end": 1553
+  },
+  {
+    "entity": "The cortisone",
+    "label": "DRUG",
+    "start": 1555,
+    "end": 1568
+  },
+  {
+    "entity": "Chronic obstructive pulmonary disease",
+    "label": "PROBLEM",
+    "start": 1677,
+    "end": 1714
+  },
+  {
+    "entity": "acute asthmatic bronchitis",
+    "label": "PROBLEM",
+    "start": 1719,
+    "end": 1745
+  },
+  {
+    "entity": "Prednisone",
+    "label": "DRUG",
+    "start": 1814,
+    "end": 1824
+  },
+  {
+    "entity": "Keflex",
+    "label": "DRUG",
+    "start": 1902,
+    "end": 1908
+  },
+  {
+    "entity": "his other preadmission medication",
+    "label": "DRUG",
+    "start": 1944,
+    "end": 1977
+  },
+  {
+    "entity": "a pneumococcal vaccination",
+    "label": "TREATMENT",
+    "start": 1992,
+    "end": 2018
+  },
+  {
+    "entity": "increased cough",
+    "label": "PROBLEM",
+    "start": 2114,
+    "end": 2129
+  },
+  {
+    "entity": "respiratory secretions",
+    "label": "PROBLEM",
+    "start": 2131,
+    "end": 2153
+  },
+  {
+    "entity": "wheezings",
+    "label": "PROBLEM",
+    "start": 2155,
+    "end": 2164
+  },
+  {
+    "entity": "shortness of breath",
+    "label": "PROBLEM",
+    "start": 2166,
+    "end": 2185
+  },
+  {
+    "entity": "acute asthmatic bronchitis",
+    "label": "PROBLEM",
+    "start": 2187,
+    "end": 2213
+  },
+  {
+    "entity": "asthmatic bronchitis",
+    "label": "PROBLEM",
+    "start": 2215,
+    "end": 2235
+  },
+  {
+    "entity": "asthmatic",
+    "label": "PROBLEM",
+    "start": 2258,
+    "end": 2267
+  },
+  {
+    "entity": "copd",
+    "label": "PROBLEM",
+    "start": 2269,
+    "end": 2273
+  }
+]

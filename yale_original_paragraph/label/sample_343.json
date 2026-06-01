@@ -1,0 +1,752 @@
+[
+  {
+    "entity": "Asthma",
+    "label": "PROBLEM",
+    "start": 75,
+    "end": 81
+  },
+  {
+    "entity": "a complete physical",
+    "label": "TEST",
+    "start": 108,
+    "end": 127
+  },
+  {
+    "entity": "asthma",
+    "label": "PROBLEM",
+    "start": 145,
+    "end": 151
+  },
+  {
+    "entity": "allergic rhinitis",
+    "label": "PROBLEM",
+    "start": 157,
+    "end": 174
+  },
+  {
+    "entity": "a complete physical",
+    "label": "TEST",
+    "start": 284,
+    "end": 303
+  },
+  {
+    "entity": "asthma",
+    "label": "PROBLEM",
+    "start": 321,
+    "end": 327
+  },
+  {
+    "entity": "her asthma",
+    "label": "PROBLEM",
+    "start": 338,
+    "end": 348
+  },
+  {
+    "entity": "her inhaler",
+    "label": "TREATMENT",
+    "start": 411,
+    "end": 422
+  },
+  {
+    "entity": "Her allergies",
+    "label": "PROBLEM",
+    "start": 430,
+    "end": 443
+  },
+  {
+    "entity": "Allegra",
+    "label": "DRUG",
+    "start": 577,
+    "end": 584
+  },
+  {
+    "entity": "her Flonase",
+    "label": "DRUG",
+    "start": 669,
+    "end": 680
+  },
+  {
+    "entity": "Advair",
+    "label": "DRUG",
+    "start": 758,
+    "end": 764
+  },
+  {
+    "entity": "vaginal irritation",
+    "label": "PROBLEM",
+    "start": 782,
+    "end": 800
+  },
+  {
+    "entity": "increasing symptoms of irritability",
+    "label": "PROBLEM",
+    "start": 834,
+    "end": 869
+  },
+  {
+    "entity": "PMS",
+    "label": "PROBLEM",
+    "start": 874,
+    "end": 877
+  },
+  {
+    "entity": "some spotting",
+    "label": "PROBLEM",
+    "start": 1201,
+    "end": 1214
+  },
+  {
+    "entity": "any hot flashes",
+    "label": "PROBLEM",
+    "start": 1244,
+    "end": 1259
+  },
+  {
+    "entity": "night sweats",
+    "label": "PROBLEM",
+    "start": 1263,
+    "end": 1275
+  },
+  {
+    "entity": "3+ blood",
+    "label": "PROBLEM",
+    "start": 1340,
+    "end": 1348
+  },
+  {
+    "entity": "a urinary tract infection",
+    "label": "PROBLEM",
+    "start": 1374,
+    "end": 1399
+  },
+  {
+    "entity": "Her urine",
+    "label": "TEST",
+    "start": 1412,
+    "end": 1421
+  },
+  {
+    "entity": "lab work",
+    "label": "TEST",
+    "start": 1463,
+    "end": 1471
+  },
+  {
+    "entity": "cholesterol",
+    "label": "TEST",
+    "start": 1476,
+    "end": 1487
+  },
+  {
+    "entity": "fevers",
+    "label": "PROBLEM",
+    "start": 1613,
+    "end": 1619
+  },
+  {
+    "entity": "headaches",
+    "label": "PROBLEM",
+    "start": 1624,
+    "end": 1633
+  },
+  {
+    "entity": "shortness of breath",
+    "label": "PROBLEM",
+    "start": 1638,
+    "end": 1657
+  },
+  {
+    "entity": "chest pain",
+    "label": "PROBLEM",
+    "start": 1672,
+    "end": 1682
+  },
+  {
+    "entity": "tightness",
+    "label": "PROBLEM",
+    "start": 1686,
+    "end": 1695
+  },
+  {
+    "entity": "abdominal pain",
+    "label": "PROBLEM",
+    "start": 1700,
+    "end": 1714
+  },
+  {
+    "entity": "heartburn",
+    "label": "PROBLEM",
+    "start": 1719,
+    "end": 1728
+  },
+  {
+    "entity": "constipation",
+    "label": "PROBLEM",
+    "start": 1733,
+    "end": 1745
+  },
+  {
+    "entity": "diarrhea",
+    "label": "PROBLEM",
+    "start": 1747,
+    "end": 1755
+  },
+  {
+    "entity": "dysuria",
+    "label": "PROBLEM",
+    "start": 1759,
+    "end": 1766
+  },
+  {
+    "entity": "Occasional stress incontinence",
+    "label": "PROBLEM",
+    "start": 1768,
+    "end": 1798
+  },
+  {
+    "entity": "muscle or joint pain",
+    "label": "PROBLEM",
+    "start": 1803,
+    "end": 1823
+  },
+  {
+    "entity": "concerns about her skin",
+    "label": "PROBLEM",
+    "start": 1828,
+    "end": 1851
+  },
+  {
+    "entity": "polyphagia",
+    "label": "PROBLEM",
+    "start": 1856,
+    "end": 1866
+  },
+  {
+    "entity": "polydipsia",
+    "label": "PROBLEM",
+    "start": 1868,
+    "end": 1878
+  },
+  {
+    "entity": "polyuria",
+    "label": "PROBLEM",
+    "start": 1882,
+    "end": 1890
+  },
+  {
+    "entity": "asthma",
+    "label": "PROBLEM",
+    "start": 1930,
+    "end": 1936
+  },
+  {
+    "entity": "allergic rhinitis",
+    "label": "PROBLEM",
+    "start": 1938,
+    "end": 1955
+  },
+  {
+    "entity": "cervical dysplasia",
+    "label": "PROBLEM",
+    "start": 1960,
+    "end": 1978
+  },
+  {
+    "entity": "Proventil",
+    "label": "DRUG",
+    "start": 2045,
+    "end": 2054
+  },
+  {
+    "entity": "Allegra",
+    "label": "DRUG",
+    "start": 2059,
+    "end": 2066
+  },
+  {
+    "entity": "ALLERGIES",
+    "label": "PROBLEM",
+    "start": 2068,
+    "end": 2077
+  },
+  {
+    "entity": "Sulfa",
+    "label": "DRUG",
+    "start": 2079,
+    "end": 2084
+  },
+  {
+    "entity": "Her weight",
+    "label": "TEST",
+    "start": 2110,
+    "end": 2120
+  },
+  {
+    "entity": "Blood pressure",
+    "label": "TEST",
+    "start": 2136,
+    "end": 2150
+  },
+  {
+    "entity": "Pulse",
+    "label": "TEST",
+    "start": 2162,
+    "end": 2167
+  },
+  {
+    "entity": "Temperature",
+    "label": "TEST",
+    "start": 2175,
+    "end": 2186
+  },
+  {
+    "entity": "Respirations",
+    "label": "TEST",
+    "start": 2204,
+    "end": 2216
+  },
+  {
+    "entity": "acute distress",
+    "label": "PROBLEM",
+    "start": 2326,
+    "end": 2340
+  },
+  {
+    "entity": "turbinate edema",
+    "label": "PROBLEM",
+    "start": 2530,
+    "end": 2545
+  },
+  {
+    "entity": "lymphadenopathy",
+    "label": "PROBLEM",
+    "start": 2599,
+    "end": 2614
+  },
+  {
+    "entity": "thyromegaly",
+    "label": "PROBLEM",
+    "start": 2616,
+    "end": 2627
+  },
+  {
+    "entity": "carotid bruit",
+    "label": "PROBLEM",
+    "start": 2629,
+    "end": 2642
+  },
+  {
+    "entity": "JVD",
+    "label": "PROBLEM",
+    "start": 2646,
+    "end": 2649
+  },
+  {
+    "entity": "auscultation",
+    "label": "TEST",
+    "start": 2667,
+    "end": 2679
+  },
+  {
+    "entity": "rate",
+    "label": "TEST",
+    "start": 2717,
+    "end": 2721
+  },
+  {
+    "entity": "rhythm",
+    "label": "TEST",
+    "start": 2726,
+    "end": 2732
+  },
+  {
+    "entity": "murmur",
+    "label": "PROBLEM",
+    "start": 2741,
+    "end": 2747
+  },
+  {
+    "entity": "bowel sounds",
+    "label": "TEST",
+    "start": 2801,
+    "end": 2813
+  },
+  {
+    "entity": "masses",
+    "label": "PROBLEM",
+    "start": 2818,
+    "end": 2824
+  },
+  {
+    "entity": "organomegaly",
+    "label": "PROBLEM",
+    "start": 2828,
+    "end": 2840
+  },
+  {
+    "entity": "palpation",
+    "label": "TEST",
+    "start": 2844,
+    "end": 2853
+  },
+  {
+    "entity": "cyanosis",
+    "label": "PROBLEM",
+    "start": 2876,
+    "end": 2884
+  },
+  {
+    "entity": "edema",
+    "label": "PROBLEM",
+    "start": 2888,
+    "end": 2893
+  },
+  {
+    "entity": "abnormalities",
+    "label": "PROBLEM",
+    "start": 2909,
+    "end": 2922
+  },
+  {
+    "entity": "dimpling",
+    "label": "PROBLEM",
+    "start": 2968,
+    "end": 2976
+  },
+  {
+    "entity": "retraction",
+    "label": "PROBLEM",
+    "start": 2980,
+    "end": 2990
+  },
+  {
+    "entity": "nipple discharge",
+    "label": "PROBLEM",
+    "start": 2995,
+    "end": 3011
+  },
+  {
+    "entity": "masses",
+    "label": "PROBLEM",
+    "start": 3016,
+    "end": 3022
+  },
+  {
+    "entity": "lesions",
+    "label": "PROBLEM",
+    "start": 3026,
+    "end": 3033
+  },
+  {
+    "entity": "palpation",
+    "label": "TEST",
+    "start": 3037,
+    "end": 3046
+  },
+  {
+    "entity": "axillary masses",
+    "label": "PROBLEM",
+    "start": 3051,
+    "end": 3066
+  },
+  {
+    "entity": "lymphadenopathy",
+    "label": "PROBLEM",
+    "start": 3070,
+    "end": 3085
+  },
+  {
+    "entity": "lesions",
+    "label": "PROBLEM",
+    "start": 3206,
+    "end": 3213
+  },
+  {
+    "entity": "lesion",
+    "label": "PROBLEM",
+    "start": 3250,
+    "end": 3256
+  },
+  {
+    "entity": "a moderate amount of thick white/yellow vaginal discharge",
+    "label": "PROBLEM",
+    "start": 3266,
+    "end": 3323
+  },
+  {
+    "entity": "cervical motion tenderness",
+    "label": "PROBLEM",
+    "start": 3349,
+    "end": 3375
+  },
+  {
+    "entity": "adnexal tenderness or fullness",
+    "label": "PROBLEM",
+    "start": 3380,
+    "end": 3410
+  },
+  {
+    "entity": "Asthma",
+    "label": "PROBLEM",
+    "start": 3432,
+    "end": 3438
+  },
+  {
+    "entity": "her Proventil",
+    "label": "DRUG",
+    "start": 3494,
+    "end": 3507
+  },
+  {
+    "entity": "Flovent",
+    "label": "DRUG",
+    "start": 3551,
+    "end": 3558
+  },
+  {
+    "entity": "some vaginal irritation",
+    "label": "PROBLEM",
+    "start": 3631,
+    "end": 3654
+  },
+  {
+    "entity": "Advair",
+    "label": "DRUG",
+    "start": 3660,
+    "end": 3666
+  },
+  {
+    "entity": "Singulair",
+    "label": "DRUG",
+    "start": 3758,
+    "end": 3767
+  },
+  {
+    "entity": "her shortness of breath",
+    "label": "PROBLEM",
+    "start": 3815,
+    "end": 3838
+  },
+  {
+    "entity": "reevaluation",
+    "label": "TEST",
+    "start": 3935,
+    "end": 3947
+  },
+  {
+    "entity": "Allergic rhinitis",
+    "label": "PROBLEM",
+    "start": 3965,
+    "end": 3982
+  },
+  {
+    "entity": "Allegra",
+    "label": "DRUG",
+    "start": 4011,
+    "end": 4018
+  },
+  {
+    "entity": "Flonase",
+    "label": "DRUG",
+    "start": 4023,
+    "end": 4030
+  },
+  {
+    "entity": "Premenstrual dysphoric disorder",
+    "label": "PROBLEM",
+    "start": 4060,
+    "end": 4091
+  },
+  {
+    "entity": "some perimenopausal symptoms",
+    "label": "PROBLEM",
+    "start": 4106,
+    "end": 4134
+  },
+  {
+    "entity": "fluoxetine",
+    "label": "DRUG",
+    "start": 4157,
+    "end": 4167
+  },
+  {
+    "entity": "Hematuria",
+    "label": "PROBLEM",
+    "start": 4198,
+    "end": 4207
+  },
+  {
+    "entity": "urinary tract infection",
+    "label": "PROBLEM",
+    "start": 4237,
+    "end": 4260
+  },
+  {
+    "entity": "a UA",
+    "label": "TEST",
+    "start": 4280,
+    "end": 4284
+  },
+  {
+    "entity": "some frequent dysuria",
+    "label": "PROBLEM",
+    "start": 4321,
+    "end": 4342
+  },
+  {
+    "entity": "Cervical dysplasia",
+    "label": "PROBLEM",
+    "start": 4378,
+    "end": 4396
+  },
+  {
+    "entity": "Pap smear",
+    "label": "TEST",
+    "start": 4398,
+    "end": 4407
+  },
+  {
+    "entity": "yearly Pap smear",
+    "label": "TEST",
+    "start": 4486,
+    "end": 4502
+  },
+  {
+    "entity": "screening mammogram",
+    "label": "TEST",
+    "start": 4525,
+    "end": 4544
+  },
+  {
+    "entity": "monthly self-breast exam",
+    "label": "TEST",
+    "start": 4563,
+    "end": 4587
+  },
+  {
+    "entity": "calcium",
+    "label": "DRUG",
+    "start": 4629,
+    "end": 4636
+  },
+  {
+    "entity": "vitamin D",
+    "label": "DRUG",
+    "start": 4650,
+    "end": 4659
+  },
+  {
+    "entity": "asthma",
+    "label": "PROBLEM",
+    "start": 4695,
+    "end": 4701
+  },
+  {
+    "entity": "complete physical",
+    "label": "TEST",
+    "start": 4703,
+    "end": 4720
+  },
+  {
+    "entity": "inhaler",
+    "label": "TREATMENT",
+    "start": 4722,
+    "end": 4729
+  },
+  {
+    "entity": "allegra",
+    "label": "DRUG",
+    "start": 4731,
+    "end": 4738
+  },
+  {
+    "entity": "night sweats",
+    "label": "PROBLEM",
+    "start": 4740,
+    "end": 4752
+  },
+  {
+    "entity": "hot flashes",
+    "label": "PROBLEM",
+    "start": 4754,
+    "end": 4765
+  },
+  {
+    "entity": "vaginal irritation",
+    "label": "PROBLEM",
+    "start": 4767,
+    "end": 4785
+  },
+  {
+    "entity": "pms",
+    "label": "PROBLEM",
+    "start": 4787,
+    "end": 4790
+  },
+  {
+    "entity": "shortness of breath",
+    "label": "PROBLEM",
+    "start": 4809,
+    "end": 4828
+  },
+  {
+    "entity": "headaches",
+    "label": "PROBLEM",
+    "start": 4830,
+    "end": 4839
+  },
+  {
+    "entity": "allergic rhinitis",
+    "label": "PROBLEM",
+    "start": 4841,
+    "end": 4858
+  },
+  {
+    "entity": "cervical dysplasia",
+    "label": "PROBLEM",
+    "start": 4860,
+    "end": 4878
+  },
+  {
+    "entity": "rate",
+    "label": "TEST",
+    "start": 4888,
+    "end": 4892
+  },
+  {
+    "entity": "rhythm",
+    "label": "TEST",
+    "start": 4897,
+    "end": 4903
+  },
+  {
+    "entity": "murmur",
+    "label": "PROBLEM",
+    "start": 4912,
+    "end": 4918
+  },
+  {
+    "entity": "proventil inhaler",
+    "label": "DRUG",
+    "start": 4920,
+    "end": 4937
+  },
+  {
+    "entity": "flonase",
+    "label": "DRUG",
+    "start": 4939,
+    "end": 4946
+  },
+  {
+    "entity": "premenstrual dysphoric disorder",
+    "label": "PROBLEM",
+    "start": 4948,
+    "end": 4979
+  },
+  {
+    "entity": "pap smear",
+    "label": "TEST",
+    "start": 4981,
+    "end": 4990
+  }
+]

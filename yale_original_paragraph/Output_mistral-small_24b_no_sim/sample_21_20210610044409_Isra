@@ -1,0 +1,65 @@
+[
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "blood-tinged vomit": "PROBLEM"
+  },
+  {
+    "emergency room": "TEST"
+  },
+  {
+    "sodium": "TEST"
+  },
+  {
+    "potassium": "TEST"
+  },
+  {
+    "ALT": "TEST"
+  },
+  {
+    "AST": "TEST"
+  },
+  {
+    "bilirubin": "TEST"
+  },
+  {
+    "ketones": "TEST"
+  },
+  {
+    "protein": "TEST"
+  },
+  {
+    "esterase": "TEST"
+  },
+  {
+    "rbc": "TEST"
+  },
+  {
+    "bacteria": "TEST"
+  },
+  {
+    "H and H": "TEST"
+  },
+  {
+    "Phenergan": "DRUG"
+  },
+  {
+    "Zofran": "DRUG"
+  },
+  {
+    "Rocephin": "DRUG"
+  },
+  {
+    "Maalox": "DRUG"
+  },
+  {
+    "IV hydration": "TREATMENT"
+  },
+  {
+    "hyperemesis gravidarum": "PROBLEM"
+  }
+]

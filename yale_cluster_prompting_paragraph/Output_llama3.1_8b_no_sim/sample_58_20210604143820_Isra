@@ -1,0 +1,110 @@
+[
+  {
+    "Plavix": "DRUG"
+  },
+  {
+    "Arava": "DRUG"
+  },
+  {
+    "Nexium": "DRUG"
+  },
+  {
+    "Fosamax": "DRUG"
+  },
+  {
+    "Advair": "DRUG"
+  },
+  {
+    "Singulair": "DRUG"
+  },
+  {
+    "Spiriva": "DRUG"
+  },
+  {
+    "Lexapro": "DRUG"
+  },
+  {
+    "ASPIRIN": "DRUG"
+  },
+  {
+    "PENICILLIN": "DRUG"
+  },
+  {
+    "IODINE": "DRUG"
+  },
+  {
+    "CODEINE": "DRUG"
+  },
+  {
+    "breast cancer": "PROBLEM"
+  },
+  {
+    "chronic obstructive lung disease": "PROBLEM"
+  },
+  {
+    "gastroesophageal reflux disease": "PROBLEM"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "sciatica": "PROBLEM"
+  },
+  {
+    "skin cancers": "PROBLEM"
+  },
+  {
+    "false aneurysm formation": "PROBLEM"
+  },
+  {
+    "hematoma": "PROBLEM"
+  },
+  {
+    "ecchymosis": "PROBLEM"
+  },
+  {
+    "pulsatile mass": "PROBLEM"
+  },
+  {
+    "colon cancer": "PROBLEM"
+  },
+  {
+    "heart disease": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "cerebrovascular accidents": "PROBLEM"
+  },
+  {
+    "colon resection": "TREATMENT"
+  },
+  {
+    "sinus surgeries": "TREATMENT"
+  },
+  {
+    "Left breast excisional biopsy": "TREATMENT"
+  },
+  {
+    "preoperative guidewire localization": "TREATMENT"
+  },
+  {
+    "intraoperative specimen radiography": "TEST"
+  },
+  {
+    "stereotactic core needle biopsy": "TEST"
+  },
+  {
+    "sonographic evaluation": "TEST"
+  },
+  {
+    "ultrasound guidance": "TEST"
+  },
+  {
+    "thrombin material": "DRUG"
+  },
+  {
+    "guidewire localization": "TREATMENT"
+  }
+]

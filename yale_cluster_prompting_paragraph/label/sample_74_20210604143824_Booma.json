@@ -1,0 +1,92 @@
+[
+  {
+    "entity": "ENT Exam",
+    "label": "TEST",
+    "start": 70,
+    "end": 78
+  },
+  {
+    "entity": "ear, nose, mouth, and throat exam",
+    "label": "TEST",
+    "start": 106,
+    "end": 139
+  },
+  {
+    "entity": "any deformity",
+    "label": "PROBLEM",
+    "start": 245,
+    "end": 258
+  },
+  {
+    "entity": "Examination of the canals",
+    "label": "TEST",
+    "start": 302,
+    "end": 327
+  },
+  {
+    "entity": "drainage",
+    "label": "PROBLEM",
+    "start": 373,
+    "end": 381
+  },
+  {
+    "entity": "erythema",
+    "label": "PROBLEM",
+    "start": 385,
+    "end": 393
+  },
+  {
+    "entity": "light reflex",
+    "label": "TEST",
+    "start": 502,
+    "end": 514
+  },
+  {
+    "entity": "septal hematoma",
+    "label": "PROBLEM",
+    "start": 647,
+    "end": 662
+  },
+  {
+    "entity": "abnormality",
+    "label": "PROBLEM",
+    "start": 691,
+    "end": 702
+  },
+  {
+    "entity": "obvious abnormalities",
+    "label": "PROBLEM",
+    "start": 707,
+    "end": 728
+  },
+  {
+    "entity": "infection",
+    "label": "PROBLEM",
+    "start": 819,
+    "end": 828
+  },
+  {
+    "entity": "obvious masses",
+    "label": "PROBLEM",
+    "start": 878,
+    "end": 892
+  },
+  {
+    "entity": "erythema",
+    "label": "PROBLEM",
+    "start": 1040,
+    "end": 1048
+  },
+  {
+    "entity": "exudate",
+    "label": "PROBLEM",
+    "start": 1052,
+    "end": 1059
+  },
+  {
+    "entity": "erythema",
+    "label": "PROBLEM",
+    "start": 1123,
+    "end": 1131
+  }
+]

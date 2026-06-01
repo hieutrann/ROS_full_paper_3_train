@@ -1,0 +1,662 @@
+[
+  {
+    "entity": "Pneumonia",
+    "label": "PROBLEM",
+    "start": 97,
+    "end": 106
+  },
+  {
+    "entity": "fairly severe Crohn disease",
+    "label": "PROBLEM",
+    "start": 122,
+    "end": 149
+  },
+  {
+    "entity": "protein-losing enteropathy",
+    "label": "PROBLEM",
+    "start": 155,
+    "end": 181
+  },
+  {
+    "entity": "severe malnutrition",
+    "label": "PROBLEM",
+    "start": 186,
+    "end": 205
+  },
+  {
+    "entity": "anasarca",
+    "label": "PROBLEM",
+    "start": 211,
+    "end": 219
+  },
+  {
+    "entity": "anemia",
+    "label": "PROBLEM",
+    "start": 233,
+    "end": 239
+  },
+  {
+    "entity": "leukocytosis",
+    "label": "PROBLEM",
+    "start": 244,
+    "end": 256
+  },
+  {
+    "entity": "his Crohn disease",
+    "label": "PROBLEM",
+    "start": 282,
+    "end": 299
+  },
+  {
+    "entity": "his underlying pneumonia",
+    "label": "PROBLEM",
+    "start": 311,
+    "end": 335
+  },
+  {
+    "entity": "Pneumonia",
+    "label": "PROBLEM",
+    "start": 389,
+    "end": 398
+  },
+  {
+    "entity": "Crohn disease",
+    "label": "PROBLEM",
+    "start": 403,
+    "end": 416
+  },
+  {
+    "entity": "Anasarca",
+    "label": "PROBLEM",
+    "start": 421,
+    "end": 429
+  },
+  {
+    "entity": "Anemia",
+    "label": "PROBLEM",
+    "start": 434,
+    "end": 440
+  },
+  {
+    "entity": "a lot of swelling in my legs",
+    "label": "PROBLEM",
+    "start": 466,
+    "end": 494
+  },
+  {
+    "entity": "Crohn disease",
+    "label": "PROBLEM",
+    "start": 567,
+    "end": 580
+  },
+  {
+    "entity": "multiple different medications",
+    "label": "TREATMENT",
+    "start": 781,
+    "end": 811
+  },
+  {
+    "entity": "his Crohn disease",
+    "label": "PROBLEM",
+    "start": 816,
+    "end": 833
+  },
+  {
+    "entity": "steroids",
+    "label": "DRUG",
+    "start": 878,
+    "end": 886
+  },
+  {
+    "entity": "crampy abdominal pain",
+    "label": "PROBLEM",
+    "start": 955,
+    "end": 976
+  },
+  {
+    "entity": "diarrhea",
+    "label": "PROBLEM",
+    "start": 988,
+    "end": 996
+  },
+  {
+    "entity": "low-grade fevers",
+    "label": "PROBLEM",
+    "start": 1002,
+    "end": 1018
+  },
+  {
+    "entity": "pneumonia",
+    "label": "PROBLEM",
+    "start": 1095,
+    "end": 1104
+  },
+  {
+    "entity": "antibiotics",
+    "label": "DRUG",
+    "start": 1167,
+    "end": 1178
+  },
+  {
+    "entity": "Streptococcus",
+    "label": "PROBLEM",
+    "start": 1194,
+    "end": 1207
+  },
+  {
+    "entity": "slightly dyspneic",
+    "label": "PROBLEM",
+    "start": 1259,
+    "end": 1276
+  },
+  {
+    "entity": "lower extremity edema",
+    "label": "PROBLEM",
+    "start": 1301,
+    "end": 1322
+  },
+  {
+    "entity": "pain in his ankles and knees",
+    "label": "PROBLEM",
+    "start": 1324,
+    "end": 1352
+  },
+  {
+    "entity": "edema in his entire body",
+    "label": "PROBLEM",
+    "start": 1379,
+    "end": 1403
+  },
+  {
+    "entity": "diarrhea",
+    "label": "PROBLEM",
+    "start": 1506,
+    "end": 1514
+  },
+  {
+    "entity": "malabsorption",
+    "label": "PROBLEM",
+    "start": 1519,
+    "end": 1532
+  },
+  {
+    "entity": "some episodes of nausea and vomiting",
+    "label": "PROBLEM",
+    "start": 1546,
+    "end": 1582
+  },
+  {
+    "entity": "a cough",
+    "label": "PROBLEM",
+    "start": 1610,
+    "end": 1617
+  },
+  {
+    "entity": "dyspnea",
+    "label": "PROBLEM",
+    "start": 1634,
+    "end": 1641
+  },
+  {
+    "entity": "Further review of systems",
+    "label": "TEST",
+    "start": 1643,
+    "end": 1668
+  },
+  {
+    "entity": "Prednisone",
+    "label": "DRUG",
+    "start": 1717,
+    "end": 1727
+  },
+  {
+    "entity": "Effexor",
+    "label": "DRUG",
+    "start": 1732,
+    "end": 1739
+  },
+  {
+    "entity": "Folic acid",
+    "label": "DRUG",
+    "start": 1744,
+    "end": 1754
+  },
+  {
+    "entity": "Norco",
+    "label": "DRUG",
+    "start": 1759,
+    "end": 1764
+  },
+  {
+    "entity": "pain",
+    "label": "PROBLEM",
+    "start": 1769,
+    "end": 1773
+  },
+  {
+    "entity": "anxiety",
+    "label": "PROBLEM",
+    "start": 1833,
+    "end": 1840
+  },
+  {
+    "entity": "depression",
+    "label": "PROBLEM",
+    "start": 1845,
+    "end": 1855
+  },
+  {
+    "entity": "Small bowel resections",
+    "label": "TREATMENT",
+    "start": 1883,
+    "end": 1905
+  },
+  {
+    "entity": "Appendectomy",
+    "label": "TREATMENT",
+    "start": 1910,
+    "end": 1922
+  },
+  {
+    "entity": "A vasectomy",
+    "label": "TREATMENT",
+    "start": 1927,
+    "end": 1938
+  },
+  {
+    "entity": "known drug allergies",
+    "label": "PROBLEM",
+    "start": 1961,
+    "end": 1981
+  },
+  {
+    "entity": "IPF",
+    "label": "PROBLEM",
+    "start": 2149,
+    "end": 2152
+  },
+  {
+    "entity": "irritable bowel syndrome",
+    "label": "PROBLEM",
+    "start": 2157,
+    "end": 2181
+  },
+  {
+    "entity": "further review of systems",
+    "label": "TEST",
+    "start": 2253,
+    "end": 2278
+  },
+  {
+    "entity": "very mild respiratory distress",
+    "label": "PROBLEM",
+    "start": 2371,
+    "end": 2401
+  },
+  {
+    "entity": "his oxygen",
+    "label": "TREATMENT",
+    "start": 2407,
+    "end": 2417
+  },
+  {
+    "entity": "His respiratory rate",
+    "label": "TEST",
+    "start": 2439,
+    "end": 2459
+  },
+  {
+    "entity": "his blood pressure",
+    "label": "TEST",
+    "start": 2487,
+    "end": 2505
+  },
+  {
+    "entity": "his pulse",
+    "label": "TEST",
+    "start": 2517,
+    "end": 2526
+  },
+  {
+    "entity": "weight",
+    "label": "TEST",
+    "start": 2582,
+    "end": 2588
+  },
+  {
+    "entity": "jugular venous pressure distention",
+    "label": "PROBLEM",
+    "start": 2714,
+    "end": 2748
+  },
+  {
+    "entity": "adenopathy in the cervical, supraclavicular or axillary areas",
+    "label": "PROBLEM",
+    "start": 2771,
+    "end": 2832
+  },
+  {
+    "entity": "some crackles in the right chest",
+    "label": "PROBLEM",
+    "start": 2849,
+    "end": 2881
+  },
+  {
+    "entity": "decreased breath sounds",
+    "label": "PROBLEM",
+    "start": 2960,
+    "end": 2983
+  },
+  {
+    "entity": "rate",
+    "label": "TEST",
+    "start": 3000,
+    "end": 3004
+  },
+  {
+    "entity": "rhythm",
+    "label": "TEST",
+    "start": 3009,
+    "end": 3015
+  },
+  {
+    "entity": "Slightly protuberant",
+    "label": "PROBLEM",
+    "start": 3026,
+    "end": 3046
+  },
+  {
+    "entity": "organomegaly",
+    "label": "PROBLEM",
+    "start": 3127,
+    "end": 3139
+  },
+  {
+    "entity": "ascites",
+    "label": "PROBLEM",
+    "start": 3147,
+    "end": 3154
+  },
+  {
+    "entity": "a mild scrotal edema",
+    "label": "PROBLEM",
+    "start": 3190,
+    "end": 3210
+  },
+  {
+    "entity": "2 to 3+ edema at pretibial and lateral feet",
+    "label": "PROBLEM",
+    "start": 3247,
+    "end": 3290
+  },
+  {
+    "entity": "thin skin",
+    "label": "PROBLEM",
+    "start": 3312,
+    "end": 3321
+  },
+  {
+    "entity": "ecchymosis",
+    "label": "PROBLEM",
+    "start": 3326,
+    "end": 3336
+  },
+  {
+    "entity": "petechiae",
+    "label": "PROBLEM",
+    "start": 3340,
+    "end": 3349
+  },
+  {
+    "entity": "Laboratory studies",
+    "label": "TEST",
+    "start": 3371,
+    "end": 3389
+  },
+  {
+    "entity": "a total protein",
+    "label": "TEST",
+    "start": 3408,
+    "end": 3423
+  },
+  {
+    "entity": "albumin",
+    "label": "TEST",
+    "start": 3433,
+    "end": 3440
+  },
+  {
+    "entity": "M-spike",
+    "label": "PROBLEM",
+    "start": 3461,
+    "end": 3468
+  },
+  {
+    "entity": "His B12",
+    "label": "TEST",
+    "start": 3479,
+    "end": 3486
+  },
+  {
+    "entity": "a folic acid",
+    "label": "TEST",
+    "start": 3499,
+    "end": 3511
+  },
+  {
+    "entity": "His white count",
+    "label": "TEST",
+    "start": 3519,
+    "end": 3534
+  },
+  {
+    "entity": "a hemoglobin",
+    "label": "TEST",
+    "start": 3546,
+    "end": 3558
+  },
+  {
+    "entity": "a platelet count",
+    "label": "TEST",
+    "start": 3570,
+    "end": 3586
+  },
+  {
+    "entity": "Pneumonia",
+    "label": "PROBLEM",
+    "start": 3624,
+    "end": 3633
+  },
+  {
+    "entity": "fairly severe Crohn disease",
+    "label": "PROBLEM",
+    "start": 3649,
+    "end": 3676
+  },
+  {
+    "entity": "protein-losing enteropathy",
+    "label": "PROBLEM",
+    "start": 3682,
+    "end": 3708
+  },
+  {
+    "entity": "severe malnutrition",
+    "label": "PROBLEM",
+    "start": 3713,
+    "end": 3732
+  },
+  {
+    "entity": "anasarca",
+    "label": "PROBLEM",
+    "start": 3738,
+    "end": 3746
+  },
+  {
+    "entity": "anemia",
+    "label": "PROBLEM",
+    "start": 3763,
+    "end": 3769
+  },
+  {
+    "entity": "leukocytosis",
+    "label": "PROBLEM",
+    "start": 3774,
+    "end": 3786
+  },
+  {
+    "entity": "his Crohn disease",
+    "label": "PROBLEM",
+    "start": 3812,
+    "end": 3829
+  },
+  {
+    "entity": "his underlying pneumonia",
+    "label": "PROBLEM",
+    "start": 3841,
+    "end": 3865
+  },
+  {
+    "entity": "evaluation of protein intake",
+    "label": "TEST",
+    "start": 3912,
+    "end": 3940
+  },
+  {
+    "entity": "dietary supplement",
+    "label": "TREATMENT",
+    "start": 3945,
+    "end": 3963
+  },
+  {
+    "entity": "a calorie count",
+    "label": "TEST",
+    "start": 4014,
+    "end": 4029
+  },
+  {
+    "entity": "a sedimentation rate",
+    "label": "TEST",
+    "start": 4048,
+    "end": 4068
+  },
+  {
+    "entity": "C-reactive protein",
+    "label": "TEST",
+    "start": 4070,
+    "end": 4088
+  },
+  {
+    "entity": "LDH",
+    "label": "TEST",
+    "start": 4090,
+    "end": 4093
+  },
+  {
+    "entity": "prealbumin",
+    "label": "TEST",
+    "start": 4095,
+    "end": 4105
+  },
+  {
+    "entity": "thyroid",
+    "label": "TEST",
+    "start": 4107,
+    "end": 4114
+  },
+  {
+    "entity": "iron studies",
+    "label": "TEST",
+    "start": 4120,
+    "end": 4132
+  },
+  {
+    "entity": "his laboratory studies",
+    "label": "TEST",
+    "start": 4153,
+    "end": 4175
+  },
+  {
+    "entity": "the patient's laboratory abnormalities",
+    "label": "PROBLEM",
+    "start": 4367,
+    "end": 4405
+  },
+  {
+    "entity": "his lower extremity edema",
+    "label": "PROBLEM",
+    "start": 4416,
+    "end": 4441
+  },
+  {
+    "entity": "his marked hypoalbuminemia",
+    "label": "PROBLEM",
+    "start": 4462,
+    "end": 4488
+  },
+  {
+    "entity": "diuretics",
+    "label": "DRUG",
+    "start": 4515,
+    "end": 4524
+  },
+  {
+    "entity": "anasarca",
+    "label": "PROBLEM",
+    "start": 4807,
+    "end": 4815
+  },
+  {
+    "entity": "anemia",
+    "label": "PROBLEM",
+    "start": 4817,
+    "end": 4823
+  },
+  {
+    "entity": "diarrhea",
+    "label": "PROBLEM",
+    "start": 4825,
+    "end": 4833
+  },
+  {
+    "entity": "crampy",
+    "label": "PROBLEM",
+    "start": 4835,
+    "end": 4841
+  },
+  {
+    "entity": "enteropathy",
+    "label": "PROBLEM",
+    "start": 4843,
+    "end": 4854
+  },
+  {
+    "entity": "malnutrition",
+    "label": "PROBLEM",
+    "start": 4856,
+    "end": 4868
+  },
+  {
+    "entity": "lower extremity edema",
+    "label": "PROBLEM",
+    "start": 4870,
+    "end": 4891
+  },
+  {
+    "entity": "folic acid",
+    "label": "DRUG",
+    "start": 4893,
+    "end": 4903
+  },
+  {
+    "entity": "crohn disease",
+    "label": "PROBLEM",
+    "start": 4905,
+    "end": 4918
+  },
+  {
+    "entity": "pneumonia",
+    "label": "PROBLEM",
+    "start": 4920,
+    "end": 4929
+  }
+]

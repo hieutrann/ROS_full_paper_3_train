@@ -1,0 +1,242 @@
+[
+  {
+    "entity": "Pyelonephritis",
+    "label": "PROBLEM",
+    "start": 64,
+    "end": 78
+  },
+  {
+    "entity": "Pyelonephritis",
+    "label": "PROBLEM",
+    "start": 112,
+    "end": 126
+  },
+  {
+    "entity": "mucous plugging",
+    "label": "PROBLEM",
+    "start": 147,
+    "end": 162
+  },
+  {
+    "entity": "indwelling Foley",
+    "label": "TREATMENT",
+    "start": 166,
+    "end": 182
+  },
+  {
+    "entity": "the ileal conduit",
+    "label": "TREATMENT",
+    "start": 186,
+    "end": 203
+  },
+  {
+    "entity": "hypertension",
+    "label": "PROBLEM",
+    "start": 205,
+    "end": 217
+  },
+  {
+    "entity": "mild renal insufficiency",
+    "label": "PROBLEM",
+    "start": 219,
+    "end": 243
+  },
+  {
+    "entity": "anemia",
+    "label": "PROBLEM",
+    "start": 249,
+    "end": 255
+  },
+  {
+    "entity": "Pyelonephritis",
+    "label": "PROBLEM",
+    "start": 374,
+    "end": 388
+  },
+  {
+    "entity": "uterine cancer",
+    "label": "PROBLEM",
+    "start": 404,
+    "end": 418
+  },
+  {
+    "entity": "ileal conduit urinary diversion",
+    "label": "TREATMENT",
+    "start": 423,
+    "end": 454
+  },
+  {
+    "entity": "Hypertension",
+    "label": "PROBLEM",
+    "start": 459,
+    "end": 471
+  },
+  {
+    "entity": "Renal insufficiency",
+    "label": "PROBLEM",
+    "start": 476,
+    "end": 495
+  },
+  {
+    "entity": "Anemia",
+    "label": "PROBLEM",
+    "start": 500,
+    "end": 506
+  },
+  {
+    "entity": "Pyelonephritis",
+    "label": "PROBLEM",
+    "start": 532,
+    "end": 546
+  },
+  {
+    "entity": "mucous plugging",
+    "label": "PROBLEM",
+    "start": 567,
+    "end": 582
+  },
+  {
+    "entity": "indwelling Foley",
+    "label": "TREATMENT",
+    "start": 586,
+    "end": 602
+  },
+  {
+    "entity": "the ileal conduit",
+    "label": "TREATMENT",
+    "start": 606,
+    "end": 623
+  },
+  {
+    "entity": "Hypertension",
+    "label": "PROBLEM",
+    "start": 628,
+    "end": 640
+  },
+  {
+    "entity": "Mild renal insufficiency",
+    "label": "PROBLEM",
+    "start": 645,
+    "end": 669
+  },
+  {
+    "entity": "Anemia",
+    "label": "PROBLEM",
+    "start": 674,
+    "end": 680
+  },
+  {
+    "entity": "pyelonephritis",
+    "label": "PROBLEM",
+    "start": 794,
+    "end": 808
+  },
+  {
+    "entity": "a thick mucous plug",
+    "label": "PROBLEM",
+    "start": 861,
+    "end": 880
+  },
+  {
+    "entity": "the Foley",
+    "label": "TREATMENT",
+    "start": 884,
+    "end": 893
+  },
+  {
+    "entity": "the ileal conduit",
+    "label": "TREATMENT",
+    "start": 897,
+    "end": 914
+  },
+  {
+    "entity": "Her symptoms",
+    "label": "PROBLEM",
+    "start": 944,
+    "end": 956
+  },
+  {
+    "entity": "antibiotics",
+    "label": "DRUG",
+    "start": 973,
+    "end": 984
+  },
+  {
+    "entity": "Klebsiella",
+    "label": "PROBLEM",
+    "start": 1021,
+    "end": 1031
+  },
+  {
+    "entity": "Bactrim",
+    "label": "DRUG",
+    "start": 1083,
+    "end": 1090
+  },
+  {
+    "entity": "Bactrim",
+    "label": "DRUG",
+    "start": 1122,
+    "end": 1129
+  },
+  {
+    "entity": "further surgery",
+    "label": "TREATMENT",
+    "start": 1167,
+    "end": 1182
+  },
+  {
+    "entity": "right knee pain",
+    "label": "PROBLEM",
+    "start": 1252,
+    "end": 1267
+  },
+  {
+    "entity": "effusion",
+    "label": "PROBLEM",
+    "start": 1305,
+    "end": 1313
+  },
+  {
+    "entity": "exquisitely tender to touch",
+    "label": "PROBLEM",
+    "start": 1323,
+    "end": 1350
+  },
+  {
+    "entity": "ibuprofen",
+    "label": "DRUG",
+    "start": 1465,
+    "end": 1474
+  },
+  {
+    "entity": "uterine cancer",
+    "label": "PROBLEM",
+    "start": 1546,
+    "end": 1560
+  },
+  {
+    "entity": "renal insufficiency",
+    "label": "PROBLEM",
+    "start": 1562,
+    "end": 1581
+  },
+  {
+    "entity": "pyelonephritis",
+    "label": "PROBLEM",
+    "start": 1583,
+    "end": 1597
+  },
+  {
+    "entity": "mucous plugging",
+    "label": "PROBLEM",
+    "start": 1599,
+    "end": 1614
+  },
+  {
+    "entity": "ileal conduit",
+    "label": "TREATMENT",
+    "start": 1616,
+    "end": 1629
+  }
+]

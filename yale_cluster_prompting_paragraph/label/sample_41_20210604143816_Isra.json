@@ -1,0 +1,296 @@
+[
+  {
+    "entity": "intermittent episodes of severe nausea",
+    "label": "PROBLEM",
+    "start": 110,
+    "end": 148
+  },
+  {
+    "entity": "abdominal pain",
+    "label": "PROBLEM",
+    "start": 153,
+    "end": 167
+  },
+  {
+    "entity": "some intermittent episodes of severe nausea",
+    "label": "PROBLEM",
+    "start": 309,
+    "end": 352
+  },
+  {
+    "entity": "abdominal pain",
+    "label": "PROBLEM",
+    "start": 357,
+    "end": 371
+  },
+  {
+    "entity": "the onset of severe pain",
+    "label": "PROBLEM",
+    "start": 414,
+    "end": 438
+  },
+  {
+    "entity": "nausea",
+    "label": "PROBLEM",
+    "start": 444,
+    "end": 450
+  },
+  {
+    "entity": "vomiting",
+    "label": "PROBLEM",
+    "start": 455,
+    "end": 463
+  },
+  {
+    "entity": "an incarcerated umbilical hernia",
+    "label": "PROBLEM",
+    "start": 526,
+    "end": 558
+  },
+  {
+    "entity": "pain",
+    "label": "PROBLEM",
+    "start": 603,
+    "end": 607
+  },
+  {
+    "entity": "definitive repair",
+    "label": "TREATMENT",
+    "start": 638,
+    "end": 655
+  },
+  {
+    "entity": "hemorrhoidectomy",
+    "label": "TREATMENT",
+    "start": 700,
+    "end": 716
+  },
+  {
+    "entity": "depression",
+    "label": "PROBLEM",
+    "start": 744,
+    "end": 754
+  },
+  {
+    "entity": "hypertension",
+    "label": "PROBLEM",
+    "start": 759,
+    "end": 771
+  },
+  {
+    "entity": "His only medications",
+    "label": "DRUG",
+    "start": 786,
+    "end": 806
+  },
+  {
+    "entity": "Ziac",
+    "label": "DRUG",
+    "start": 811,
+    "end": 815
+  },
+  {
+    "entity": "Remeron",
+    "label": "DRUG",
+    "start": 820,
+    "end": 827
+  },
+  {
+    "entity": "ALLERGIES",
+    "label": "PROBLEM",
+    "start": 829,
+    "end": 838
+  },
+  {
+    "entity": "allergies",
+    "label": "PROBLEM",
+    "start": 843,
+    "end": 852
+  },
+  {
+    "entity": "cancer",
+    "label": "PROBLEM",
+    "start": 883,
+    "end": 889
+  },
+  {
+    "entity": "hepatitis",
+    "label": "PROBLEM",
+    "start": 1121,
+    "end": 1130
+  },
+  {
+    "entity": "blood transfusions",
+    "label": "PROBLEM",
+    "start": 1134,
+    "end": 1152
+  },
+  {
+    "entity": "Examination",
+    "label": "TEST",
+    "start": 1185,
+    "end": 1196
+  },
+  {
+    "entity": "mild distress",
+    "label": "PROBLEM",
+    "start": 1245,
+    "end": 1258
+  },
+  {
+    "entity": "scleral icterus",
+    "label": "PROBLEM",
+    "start": 1329,
+    "end": 1344
+  },
+  {
+    "entity": "cervical, supraclavicular, or axillary adenopathy",
+    "label": "PROBLEM",
+    "start": 1355,
+    "end": 1404
+  },
+  {
+    "entity": "murmurs",
+    "label": "PROBLEM",
+    "start": 1439,
+    "end": 1446
+  },
+  {
+    "entity": "gallops",
+    "label": "PROBLEM",
+    "start": 1450,
+    "end": 1457
+  },
+  {
+    "entity": "obese",
+    "label": "PROBLEM",
+    "start": 1478,
+    "end": 1483
+  },
+  {
+    "entity": "mildly visible bulging in the umbilicus",
+    "label": "PROBLEM",
+    "start": 1489,
+    "end": 1528
+  },
+  {
+    "entity": "gentle traction",
+    "label": "TREATMENT",
+    "start": 1560,
+    "end": 1575
+  },
+  {
+    "entity": "both herniated contents",
+    "label": "PROBLEM",
+    "start": 1598,
+    "end": 1621
+  },
+  {
+    "entity": "an approximately 2-cm palpable defect in the umbilicus",
+    "label": "PROBLEM",
+    "start": 1651,
+    "end": 1705
+  },
+  {
+    "entity": "EKG",
+    "label": "TEST",
+    "start": 1750,
+    "end": 1753
+  },
+  {
+    "entity": "prolonged QT",
+    "label": "PROBLEM",
+    "start": 1755,
+    "end": 1767
+  },
+  {
+    "entity": "Chest x-ray",
+    "label": "TEST",
+    "start": 1769,
+    "end": 1780
+  },
+  {
+    "entity": "The abdominal x-rays",
+    "label": "TEST",
+    "start": 1795,
+    "end": 1815
+  },
+  {
+    "entity": "His electrolytes",
+    "label": "TEST",
+    "start": 1845,
+    "end": 1861
+  },
+  {
+    "entity": "Creatinine",
+    "label": "TEST",
+    "start": 1875,
+    "end": 1885
+  },
+  {
+    "entity": "White count",
+    "label": "TEST",
+    "start": 1895,
+    "end": 1906
+  },
+  {
+    "entity": "hematocrit",
+    "label": "TEST",
+    "start": 1916,
+    "end": 1926
+  },
+  {
+    "entity": "platelet count",
+    "label": "TEST",
+    "start": 1939,
+    "end": 1953
+  },
+  {
+    "entity": "an incarcerated umbilical hernia",
+    "label": "PROBLEM",
+    "start": 2042,
+    "end": 2074
+  },
+  {
+    "entity": "repair with mesh",
+    "label": "TREATMENT",
+    "start": 2084,
+    "end": 2100
+  },
+  {
+    "entity": "ekg",
+    "label": "TEST",
+    "start": 2144,
+    "end": 2147
+  },
+  {
+    "entity": "prolonged qt",
+    "label": "PROBLEM",
+    "start": 2149,
+    "end": 2161
+  },
+  {
+    "entity": "platelet count",
+    "label": "TEST",
+    "start": 2163,
+    "end": 2177
+  },
+  {
+    "entity": "hematocrit",
+    "label": "TEST",
+    "start": 2179,
+    "end": 2189
+  },
+  {
+    "entity": "umbilical hernia",
+    "label": "PROBLEM",
+    "start": 2191,
+    "end": 2207
+  },
+  {
+    "entity": "incarcerated",
+    "label": "PROBLEM",
+    "start": 2240,
+    "end": 2252
+  }
+]

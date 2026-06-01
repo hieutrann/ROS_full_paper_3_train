@@ -1,0 +1,77 @@
+[
+  {
+    "severe nausea": "PROBLEM"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "incarcerated umbilical hernia": "PROBLEM"
+  },
+  {
+    "hemorrhoidectomy": "TREATMENT"
+  },
+  {
+    "depression": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "Ziac": "DRUG"
+  },
+  {
+    "Remesser": "DRUG"
+  },
+  {
+    "obese": "PROBLEM"
+  },
+  {
+    "scleral icterus": "PROBLEM"
+  },
+  {
+    "adenopathy": "PROBLEM"
+  },
+  {
+    "EKG": "TEST"
+  },
+  {
+    "prolonged QT": "PROBLEM"
+  },
+  {
+    "Chest x-ray": "TEST"
+  },
+  {
+    "abdominal x-rays": "TEST"
+  },
+  {
+    "electrolytes": "TEST"
+  },
+  {
+    "Creatinine": "TEST"
+  },
+  {
+    "White count": "TEST"
+  },
+  {
+    "hematocrit": "TEST"
+  },
+  {
+    "platelet count": "TEST"
+  },
+  {
+    "repair with mesh": "TREATMENT"
+  },
+  {
+    "sinus rhythm": "PROBLEM"
+  },
+  {
+    "umbilical hernia": "PROBLEM"
+  }
+]

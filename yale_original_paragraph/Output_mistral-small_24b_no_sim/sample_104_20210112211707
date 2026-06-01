@@ -1,0 +1,86 @@
+[
+  {
+    "Disseminated intravascular coagulation": "PROBLEM"
+  },
+  {
+    "Streptococcal pneumonia": "PROBLEM"
+  },
+  {
+    "sepsis": "PROBLEM"
+  },
+  {
+    "respiratory failure": "PROBLEM"
+  },
+  {
+    "intubation": "TREATMENT"
+  },
+  {
+    "mechanical ventilation": "TREATMENT"
+  },
+  {
+    "partial thromboplastin time": "TEST"
+  },
+  {
+    "prothrombin time": "TEST"
+  },
+  {
+    "fibrinogen": "TEST"
+  },
+  {
+    "D-dimer": "TEST"
+  },
+  {
+    "factor replacement": "TREATMENT"
+  },
+  {
+    "platelet infusion": "TREATMENT"
+  },
+  {
+    "coagulopathy": "PROBLEM"
+  },
+  {
+    "conjunctival hemorrhage": "PROBLEM"
+  },
+  {
+    "Pulse": "TEST"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "respiratory rate": "TEST"
+  },
+  {
+    "DIC": "PROBLEM"
+  },
+  {
+    "platelet count": "TEST"
+  },
+  {
+    "INR": "TEST"
+  },
+  {
+    "PTT": "TEST"
+  },
+  {
+    "fibrinogen": "TEST"
+  },
+  {
+    "D-dimer": "TEST"
+  },
+  {
+    "Xigris": "DRUG"
+  },
+  {
+    "heparin": "DRUG"
+  },
+  {
+    "coagulation": "PROBLEM"
+  },
+  {
+    "coagulation times": "TEST"
+  },
+  {
+    "laboratory studies": "TEST"
+  }
+]

@@ -1,0 +1,296 @@
+[
+  {
+    "entity": "Kawasaki Disease",
+    "label": "PROBLEM",
+    "start": 64,
+    "end": 80
+  },
+  {
+    "entity": "Kawasaki",
+    "label": "PROBLEM",
+    "start": 198,
+    "end": 206
+  },
+  {
+    "entity": "fever",
+    "label": "PROBLEM",
+    "start": 212,
+    "end": 217
+  },
+  {
+    "entity": "conjunctivitis",
+    "label": "PROBLEM",
+    "start": 243,
+    "end": 257
+  },
+  {
+    "entity": "mild arthritis",
+    "label": "PROBLEM",
+    "start": 259,
+    "end": 273
+  },
+  {
+    "entity": "edema",
+    "label": "PROBLEM",
+    "start": 279,
+    "end": 284
+  },
+  {
+    "entity": "rash",
+    "label": "PROBLEM",
+    "start": 286,
+    "end": 290
+  },
+  {
+    "entity": "elevated neutrophils",
+    "label": "PROBLEM",
+    "start": 311,
+    "end": 331
+  },
+  {
+    "entity": "thrombocytosis",
+    "label": "PROBLEM",
+    "start": 336,
+    "end": 350
+  },
+  {
+    "entity": "elevated CRP and ESR",
+    "label": "PROBLEM",
+    "start": 352,
+    "end": 372
+  },
+  {
+    "entity": "Kawasaki disease",
+    "label": "PROBLEM",
+    "start": 433,
+    "end": 449
+  },
+  {
+    "entity": "Kawasaki disease",
+    "label": "PROBLEM",
+    "start": 472,
+    "end": 488
+  },
+  {
+    "entity": "Kawasaki",
+    "label": "PROBLEM",
+    "start": 602,
+    "end": 610
+  },
+  {
+    "entity": "fever",
+    "label": "PROBLEM",
+    "start": 616,
+    "end": 621
+  },
+  {
+    "entity": "conjunctivitis",
+    "label": "PROBLEM",
+    "start": 647,
+    "end": 661
+  },
+  {
+    "entity": "mild arthritis",
+    "label": "PROBLEM",
+    "start": 663,
+    "end": 677
+  },
+  {
+    "entity": "edema",
+    "label": "PROBLEM",
+    "start": 683,
+    "end": 688
+  },
+  {
+    "entity": "rash",
+    "label": "PROBLEM",
+    "start": 690,
+    "end": 694
+  },
+  {
+    "entity": "elevated neutrophils",
+    "label": "PROBLEM",
+    "start": 715,
+    "end": 735
+  },
+  {
+    "entity": "thrombocytosis",
+    "label": "PROBLEM",
+    "start": 740,
+    "end": 754
+  },
+  {
+    "entity": "elevated CRP and ESR",
+    "label": "PROBLEM",
+    "start": 756,
+    "end": 776
+  },
+  {
+    "entity": "a fever of 102",
+    "label": "PROBLEM",
+    "start": 819,
+    "end": 833
+  },
+  {
+    "entity": "aspirin",
+    "label": "DRUG",
+    "start": 933,
+    "end": 940
+  },
+  {
+    "entity": "IVIG",
+    "label": "DRUG",
+    "start": 945,
+    "end": 949
+  },
+  {
+    "entity": "Echocardiogram",
+    "label": "TEST",
+    "start": 951,
+    "end": 965
+  },
+  {
+    "entity": "IVIG",
+    "label": "DRUG",
+    "start": 1001,
+    "end": 1005
+  },
+  {
+    "entity": "IVIG",
+    "label": "DRUG",
+    "start": 1043,
+    "end": 1047
+  },
+  {
+    "entity": "fever",
+    "label": "PROBLEM",
+    "start": 1059,
+    "end": 1064
+  },
+  {
+    "entity": "IVIG",
+    "label": "DRUG",
+    "start": 1117,
+    "end": 1121
+  },
+  {
+    "entity": "fever",
+    "label": "PROBLEM",
+    "start": 1149,
+    "end": 1154
+  },
+  {
+    "entity": "his fever",
+    "label": "PROBLEM",
+    "start": 1163,
+    "end": 1172
+  },
+  {
+    "entity": "his rash",
+    "label": "PROBLEM",
+    "start": 1177,
+    "end": 1185
+  },
+  {
+    "entity": "conjunctivitis",
+    "label": "PROBLEM",
+    "start": 1233,
+    "end": 1247
+  },
+  {
+    "entity": "redness of mucous membranes",
+    "label": "PROBLEM",
+    "start": 1255,
+    "end": 1282
+  },
+  {
+    "entity": "Aspirin",
+    "label": "DRUG",
+    "start": 1488,
+    "end": 1495
+  },
+  {
+    "entity": "aspirin",
+    "label": "DRUG",
+    "start": 1538,
+    "end": 1545
+  },
+  {
+    "entity": "Prevacid",
+    "label": "DRUG",
+    "start": 1587,
+    "end": 1595
+  },
+  {
+    "entity": "aspirin",
+    "label": "DRUG",
+    "start": 1624,
+    "end": 1631
+  },
+  {
+    "entity": "echo followup",
+    "label": "TEST",
+    "start": 1728,
+    "end": 1741
+  },
+  {
+    "entity": "any vaccine",
+    "label": "DRUG",
+    "start": 1785,
+    "end": 1796
+  },
+  {
+    "entity": "IVIG",
+    "label": "DRUG",
+    "start": 1831,
+    "end": 1835
+  },
+  {
+    "entity": "live virus vaccine",
+    "label": "DRUG",
+    "start": 1845,
+    "end": 1863
+  },
+  {
+    "entity": "any rashes",
+    "label": "PROBLEM",
+    "start": 1880,
+    "end": 1890
+  },
+  {
+    "entity": "any fevers",
+    "label": "PROBLEM",
+    "start": 1892,
+    "end": 1902
+  },
+  {
+    "entity": "conjunctivitis",
+    "label": "PROBLEM",
+    "start": 2005,
+    "end": 2019
+  },
+  {
+    "entity": "kawasaki disease",
+    "label": "PROBLEM",
+    "start": 2029,
+    "end": 2045
+  },
+  {
+    "entity": "vaccine,",
+    "label": "DRUG",
+    "start": 2047,
+    "end": 2055
+  },
+  {
+    "entity": "fever",
+    "label": "PROBLEM",
+    "start": 2056,
+    "end": 2061
+  },
+  {
+    "entity": "aspirin",
+    "label": "DRUG",
+    "start": 2063,
+    "end": 2070
+  }
+]

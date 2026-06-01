@@ -1,0 +1,92 @@
+[
+  {
+    "foreign body": "PROBLEM"
+  },
+  {
+    "airway compromise": "PROBLEM"
+  },
+  {
+    "operating room": "TREATMENT"
+  },
+  {
+    "intubated": "TREATMENT"
+  },
+  {
+    "fishbone": "PROBLEM"
+  },
+  {
+    "diabetes": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "asthma": "PROBLEM"
+  },
+  {
+    "cholecystectomy": "TREATMENT"
+  },
+  {
+    "total hysterectomy": "TREATMENT"
+  },
+  {
+    "cataract": "PROBLEM"
+  },
+  {
+    "Prevacid": "DRUG"
+  },
+  {
+    "Humulin": "DRUG"
+  },
+  {
+    "Diprivan": "DRUG"
+  },
+  {
+    "Proventil": "DRUG"
+  },
+  {
+    "Unasyn": "DRUG"
+  },
+  {
+    "Solu-Medrol": "DRUG"
+  },
+  {
+    "airway compromise": "PROBLEM"
+  },
+  {
+    "fishbone": "PROBLEM"
+  },
+  {
+    "airway compromise": "PROBLEM"
+  },
+  {
+    "airway": "PROBLEM"
+  },
+  {
+    "IV antibiotics": "DRUG"
+  },
+  {
+    "ventilatory support": "TREATMENT"
+  },
+  {
+    "airway": "PROBLEM"
+  },
+  {
+    "extubated": "TREATMENT"
+  },
+  {
+    "tracheostomy": "TREATMENT"
+  },
+  {
+    "airway": "PROBLEM"
+  },
+  {
+    "extubated": "TREATMENT"
+  },
+  {
+    "airway": "PROBLEM"
+  },
+  {
+    "airway": "PROBLEM"
+  }
+]

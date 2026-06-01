@@ -1,0 +1,1142 @@
+[
+  {
+    "entity": "Hypertension",
+    "label": "PROBLEM",
+    "start": 63,
+    "end": 75
+  },
+  {
+    "entity": "hypertension",
+    "label": "PROBLEM",
+    "start": 138,
+    "end": 150
+  },
+  {
+    "entity": "severe tricuspid regurgitation",
+    "label": "PROBLEM",
+    "start": 152,
+    "end": 182
+  },
+  {
+    "entity": "mild pulmonary hypertension",
+    "label": "PROBLEM",
+    "start": 188,
+    "end": 215
+  },
+  {
+    "entity": "mild aortic stenosis",
+    "label": "PROBLEM",
+    "start": 217,
+    "end": 237
+  },
+  {
+    "entity": "moderate mitral regurgitation",
+    "label": "PROBLEM",
+    "start": 254,
+    "end": 283
+  },
+  {
+    "entity": "hypertension",
+    "label": "PROBLEM",
+    "start": 405,
+    "end": 417
+  },
+  {
+    "entity": "severe tricuspid regurgitation",
+    "label": "PROBLEM",
+    "start": 419,
+    "end": 449
+  },
+  {
+    "entity": "mild pulmonary hypertension",
+    "label": "PROBLEM",
+    "start": 455,
+    "end": 482
+  },
+  {
+    "entity": "mild aortic stenosis",
+    "label": "PROBLEM",
+    "start": 484,
+    "end": 504
+  },
+  {
+    "entity": "moderate mitral regurgitation",
+    "label": "PROBLEM",
+    "start": 521,
+    "end": 550
+  },
+  {
+    "entity": "atrial fibrillation",
+    "label": "PROBLEM",
+    "start": 667,
+    "end": 686
+  },
+  {
+    "entity": "a fall",
+    "label": "PROBLEM",
+    "start": 693,
+    "end": 699
+  },
+  {
+    "entity": "her left side hit a rock",
+    "label": "PROBLEM",
+    "start": 826,
+    "end": 850
+  },
+  {
+    "entity": "a rapid atrial tachyarrhythmia",
+    "label": "PROBLEM",
+    "start": 911,
+    "end": 941
+  },
+  {
+    "entity": "Cardizem",
+    "label": "DRUG",
+    "start": 958,
+    "end": 966
+  },
+  {
+    "entity": "heart rate",
+    "label": "TEST",
+    "start": 983,
+    "end": 993
+  },
+  {
+    "entity": "EKGs",
+    "label": "TEST",
+    "start": 1037,
+    "end": 1041
+  },
+  {
+    "entity": "multifocal atrial tachycardia",
+    "label": "PROBLEM",
+    "start": 1082,
+    "end": 1111
+  },
+  {
+    "entity": "followup EKG",
+    "label": "TEST",
+    "start": 1117,
+    "end": 1129
+  },
+  {
+    "entity": "wandering atrial pacemaker",
+    "label": "PROBLEM",
+    "start": 1138,
+    "end": 1164
+  },
+  {
+    "entity": "An ECG",
+    "label": "TEST",
+    "start": 1166,
+    "end": 1172
+  },
+  {
+    "entity": "frequent APCs",
+    "label": "PROBLEM",
+    "start": 1219,
+    "end": 1232
+  },
+  {
+    "entity": "Her potassium",
+    "label": "TEST",
+    "start": 1234,
+    "end": 1247
+  },
+  {
+    "entity": "palpitations",
+    "label": "PROBLEM",
+    "start": 1293,
+    "end": 1305
+  },
+  {
+    "entity": "the pain",
+    "label": "PROBLEM",
+    "start": 1317,
+    "end": 1325
+  },
+  {
+    "entity": "any chest pain",
+    "label": "PROBLEM",
+    "start": 1425,
+    "end": 1439
+  },
+  {
+    "entity": "shortness of breath",
+    "label": "PROBLEM",
+    "start": 1444,
+    "end": 1463
+  },
+  {
+    "entity": "severe tricuspid regurgitation",
+    "label": "PROBLEM",
+    "start": 1675,
+    "end": 1705
+  },
+  {
+    "entity": "mild elevation",
+    "label": "PROBLEM",
+    "start": 1711,
+    "end": 1725
+  },
+  {
+    "entity": "PA pressure",
+    "label": "PROBLEM",
+    "start": 1730,
+    "end": 1741
+  },
+  {
+    "entity": "left and right ventricular systolic function",
+    "label": "TEST",
+    "start": 1766,
+    "end": 1810
+  },
+  {
+    "entity": "aortic sclerosis",
+    "label": "PROBLEM",
+    "start": 1812,
+    "end": 1828
+  },
+  {
+    "entity": "mild aortic stenosis",
+    "label": "PROBLEM",
+    "start": 1843,
+    "end": 1863
+  },
+  {
+    "entity": "bi-atrial enlargement",
+    "label": "PROBLEM",
+    "start": 1869,
+    "end": 1890
+  },
+  {
+    "entity": "a Persantine Myoview nuclear rest-stress test scan",
+    "label": "TEST",
+    "start": 1915,
+    "end": 1965
+  },
+  {
+    "entity": "significant mitral valve regurgitation",
+    "label": "PROBLEM",
+    "start": 2039,
+    "end": 2077
+  },
+  {
+    "entity": "echocardiogram",
+    "label": "TEST",
+    "start": 2129,
+    "end": 2143
+  },
+  {
+    "entity": "hypertension",
+    "label": "PROBLEM",
+    "start": 2215,
+    "end": 2227
+  },
+  {
+    "entity": "EKGs",
+    "label": "TEST",
+    "start": 2232,
+    "end": 2236
+  },
+  {
+    "entity": "sinus rhythm",
+    "label": "TEST",
+    "start": 2263,
+    "end": 2275
+  },
+  {
+    "entity": "frequent APCs",
+    "label": "PROBLEM",
+    "start": 2281,
+    "end": 2294
+  },
+  {
+    "entity": "wandering atrial pacemaker",
+    "label": "PROBLEM",
+    "start": 2302,
+    "end": 2328
+  },
+  {
+    "entity": "significant hypertension",
+    "label": "PROBLEM",
+    "start": 2357,
+    "end": 2381
+  },
+  {
+    "entity": "dizzy spells",
+    "label": "PROBLEM",
+    "start": 2407,
+    "end": 2419
+  },
+  {
+    "entity": "any true syncope",
+    "label": "PROBLEM",
+    "start": 2439,
+    "end": 2455
+  },
+  {
+    "entity": "bradycardia",
+    "label": "PROBLEM",
+    "start": 2469,
+    "end": 2480
+  },
+  {
+    "entity": "beta-blocker therapy",
+    "label": "DRUG",
+    "start": 2498,
+    "end": 2518
+  },
+  {
+    "entity": "Multivitamin",
+    "label": "DRUG",
+    "start": 2549,
+    "end": 2561
+  },
+  {
+    "entity": "Aspirin",
+    "label": "DRUG",
+    "start": 2577,
+    "end": 2584
+  },
+  {
+    "entity": "Lisinopril",
+    "label": "DRUG",
+    "start": 2607,
+    "end": 2617
+  },
+  {
+    "entity": "Felodipine",
+    "label": "DRUG",
+    "start": 2639,
+    "end": 2649
+  },
+  {
+    "entity": "Klor-Con",
+    "label": "DRUG",
+    "start": 2671,
+    "end": 2679
+  },
+  {
+    "entity": "Omeprazole",
+    "label": "DRUG",
+    "start": 2702,
+    "end": 2712
+  },
+  {
+    "entity": "GERD",
+    "label": "PROBLEM",
+    "start": 2745,
+    "end": 2749
+  },
+  {
+    "entity": "MiraLax",
+    "label": "DRUG",
+    "start": 2754,
+    "end": 2761
+  },
+  {
+    "entity": "Lasix",
+    "label": "DRUG",
+    "start": 2782,
+    "end": 2787
+  },
+  {
+    "entity": "PENICILLIN",
+    "label": "DRUG",
+    "start": 2817,
+    "end": 2827
+  },
+  {
+    "entity": "TOPROL",
+    "label": "DRUG",
+    "start": 2847,
+    "end": 2853
+  },
+  {
+    "entity": "SHORTNESS OF BREATH",
+    "label": "PROBLEM",
+    "start": 2865,
+    "end": 2884
+  },
+  {
+    "entity": "BRADYCARDIA",
+    "label": "PROBLEM",
+    "start": 2943,
+    "end": 2954
+  },
+  {
+    "entity": "died",
+    "label": "PROBLEM",
+    "start": 3017,
+    "end": 3021
+  },
+  {
+    "entity": "MI",
+    "label": "PROBLEM",
+    "start": 3028,
+    "end": 3030
+  },
+  {
+    "entity": "stroke",
+    "label": "PROBLEM",
+    "start": 3349,
+    "end": 3355
+  },
+  {
+    "entity": "cancer",
+    "label": "PROBLEM",
+    "start": 3357,
+    "end": 3363
+  },
+  {
+    "entity": "vomiting of blood",
+    "label": "PROBLEM",
+    "start": 3365,
+    "end": 3382
+  },
+  {
+    "entity": "coughing up blood",
+    "label": "PROBLEM",
+    "start": 3384,
+    "end": 3401
+  },
+  {
+    "entity": "bright red blood per rectum",
+    "label": "PROBLEM",
+    "start": 3403,
+    "end": 3430
+  },
+  {
+    "entity": "bleeding",
+    "label": "PROBLEM",
+    "start": 3432,
+    "end": 3440
+  },
+  {
+    "entity": "stomach ulcers",
+    "label": "PROBLEM",
+    "start": 3442,
+    "end": 3456
+  },
+  {
+    "entity": "renal calculi",
+    "label": "PROBLEM",
+    "start": 3478,
+    "end": 3491
+  },
+  {
+    "entity": "cholelithiasis",
+    "label": "PROBLEM",
+    "start": 3497,
+    "end": 3511
+  },
+  {
+    "entity": "asthma",
+    "label": "PROBLEM",
+    "start": 3520,
+    "end": 3526
+  },
+  {
+    "entity": "emphysema",
+    "label": "PROBLEM",
+    "start": 3528,
+    "end": 3537
+  },
+  {
+    "entity": "pneumonia",
+    "label": "PROBLEM",
+    "start": 3539,
+    "end": 3548
+  },
+  {
+    "entity": "tuberculosis",
+    "label": "PROBLEM",
+    "start": 3550,
+    "end": 3562
+  },
+  {
+    "entity": "sleep apnea",
+    "label": "PROBLEM",
+    "start": 3564,
+    "end": 3575
+  },
+  {
+    "entity": "home oxygen",
+    "label": "TREATMENT",
+    "start": 3577,
+    "end": 3588
+  },
+  {
+    "entity": "occasional peripheral edema",
+    "label": "PROBLEM",
+    "start": 3608,
+    "end": 3635
+  },
+  {
+    "entity": "MI",
+    "label": "PROBLEM",
+    "start": 3674,
+    "end": 3676
+  },
+  {
+    "entity": "diabetes",
+    "label": "PROBLEM",
+    "start": 3689,
+    "end": 3697
+  },
+  {
+    "entity": "GERD",
+    "label": "PROBLEM",
+    "start": 3726,
+    "end": 3730
+  },
+  {
+    "entity": "depressed",
+    "label": "PROBLEM",
+    "start": 3750,
+    "end": 3759
+  },
+  {
+    "entity": "rheumatologic conditions",
+    "label": "PROBLEM",
+    "start": 3805,
+    "end": 3829
+  },
+  {
+    "entity": "psoriasis",
+    "label": "PROBLEM",
+    "start": 3840,
+    "end": 3849
+  },
+  {
+    "entity": "lupus",
+    "label": "PROBLEM",
+    "start": 3853,
+    "end": 3858
+  },
+  {
+    "entity": "Height",
+    "label": "TEST",
+    "start": 3954,
+    "end": 3960
+  },
+  {
+    "entity": "weight",
+    "label": "TEST",
+    "start": 3978,
+    "end": 3984
+  },
+  {
+    "entity": "temperature",
+    "label": "TEST",
+    "start": 3997,
+    "end": 4008
+  },
+  {
+    "entity": "blood pressure",
+    "label": "TEST",
+    "start": 4034,
+    "end": 4048
+  },
+  {
+    "entity": "pulses",
+    "label": "TEST",
+    "start": 4077,
+    "end": 4083
+  },
+  {
+    "entity": "pulse",
+    "label": "TEST",
+    "start": 4146,
+    "end": 4151
+  },
+  {
+    "entity": "respiratory rate",
+    "label": "TEST",
+    "start": 4156,
+    "end": 4172
+  },
+  {
+    "entity": "O2 saturation",
+    "label": "TEST",
+    "start": 4177,
+    "end": 4190
+  },
+  {
+    "entity": "general exam",
+    "label": "TEST",
+    "start": 4199,
+    "end": 4211
+  },
+  {
+    "entity": "is hard of hearing",
+    "label": "PROBLEM",
+    "start": 4249,
+    "end": 4267
+  },
+  {
+    "entity": "distended",
+    "label": "PROBLEM",
+    "start": 4406,
+    "end": 4415
+  },
+  {
+    "entity": "carotid bruits",
+    "label": "PROBLEM",
+    "start": 4430,
+    "end": 4444
+  },
+  {
+    "entity": "auscultation",
+    "label": "TEST",
+    "start": 4462,
+    "end": 4474
+  },
+  {
+    "entity": "wheezes",
+    "label": "PROBLEM",
+    "start": 4494,
+    "end": 4501
+  },
+  {
+    "entity": "immobile",
+    "label": "PROBLEM",
+    "start": 4521,
+    "end": 4529
+  },
+  {
+    "entity": "her left hip fracture",
+    "label": "PROBLEM",
+    "start": 4541,
+    "end": 4562
+  },
+  {
+    "entity": "Cardiac Exam",
+    "label": "TEST",
+    "start": 4564,
+    "end": 4576
+  },
+  {
+    "entity": "S1",
+    "label": "TEST",
+    "start": 4578,
+    "end": 4580
+  },
+  {
+    "entity": "S2",
+    "label": "TEST",
+    "start": 4582,
+    "end": 4584
+  },
+  {
+    "entity": "rate",
+    "label": "TEST",
+    "start": 4594,
+    "end": 4598
+  },
+  {
+    "entity": "frequent ectopic beats",
+    "label": "PROBLEM",
+    "start": 4600,
+    "end": 4622
+  },
+  {
+    "entity": "2/6 systolic ejection murmur",
+    "label": "PROBLEM",
+    "start": 4624,
+    "end": 4652
+  },
+  {
+    "entity": "a soft holosystolic murmur",
+    "label": "PROBLEM",
+    "start": 4722,
+    "end": 4748
+  },
+  {
+    "entity": "rub",
+    "label": "PROBLEM",
+    "start": 4768,
+    "end": 4771
+  },
+  {
+    "entity": "gallop",
+    "label": "PROBLEM",
+    "start": 4775,
+    "end": 4781
+  },
+  {
+    "entity": "significant clubbing",
+    "label": "PROBLEM",
+    "start": 4880,
+    "end": 4900
+  },
+  {
+    "entity": "cyanosis",
+    "label": "PROBLEM",
+    "start": 4902,
+    "end": 4910
+  },
+  {
+    "entity": "1+ peripheral edema",
+    "label": "PROBLEM",
+    "start": 4936,
+    "end": 4955
+  },
+  {
+    "entity": "Pulses",
+    "label": "TEST",
+    "start": 4957,
+    "end": 4963
+  },
+  {
+    "entity": "Affect",
+    "label": "TEST",
+    "start": 4987,
+    "end": 4993
+  },
+  {
+    "entity": "not able to move",
+    "label": "PROBLEM",
+    "start": 5049,
+    "end": 5065
+  },
+  {
+    "entity": "left hip fracture",
+    "label": "PROBLEM",
+    "start": 5077,
+    "end": 5094
+  },
+  {
+    "entity": "Pertinent labs",
+    "label": "TEST",
+    "start": 5139,
+    "end": 5153
+  },
+  {
+    "entity": "chest x-ray",
+    "label": "TEST",
+    "start": 5162,
+    "end": 5173
+  },
+  {
+    "entity": "a calcified aortic knob",
+    "label": "PROBLEM",
+    "start": 5219,
+    "end": 5242
+  },
+  {
+    "entity": "clear pulmonary vascular congestion",
+    "label": "PROBLEM",
+    "start": 5247,
+    "end": 5282
+  },
+  {
+    "entity": "Sodium",
+    "label": "TEST",
+    "start": 5284,
+    "end": 5290
+  },
+  {
+    "entity": "potassium",
+    "label": "TEST",
+    "start": 5296,
+    "end": 5305
+  },
+  {
+    "entity": "chloride",
+    "label": "TEST",
+    "start": 5336,
+    "end": 5344
+  },
+  {
+    "entity": "bicarbonate",
+    "label": "TEST",
+    "start": 5350,
+    "end": 5361
+  },
+  {
+    "entity": "BUN",
+    "label": "TEST",
+    "start": 5366,
+    "end": 5369
+  },
+  {
+    "entity": "creatinine",
+    "label": "TEST",
+    "start": 5374,
+    "end": 5384
+  },
+  {
+    "entity": "glucose",
+    "label": "TEST",
+    "start": 5390,
+    "end": 5397
+  },
+  {
+    "entity": "magnesium",
+    "label": "TEST",
+    "start": 5403,
+    "end": 5412
+  },
+  {
+    "entity": "Troponin",
+    "label": "TEST",
+    "start": 5432,
+    "end": 5440
+  },
+  {
+    "entity": "INR",
+    "label": "TEST",
+    "start": 5468,
+    "end": 5471
+  },
+  {
+    "entity": "white blood cell count",
+    "label": "TEST",
+    "start": 5481,
+    "end": 5503
+  },
+  {
+    "entity": "hematocrit",
+    "label": "TEST",
+    "start": 5510,
+    "end": 5520
+  },
+  {
+    "entity": "platelet count",
+    "label": "TEST",
+    "start": 5525,
+    "end": 5539
+  },
+  {
+    "entity": "Initial EKG",
+    "label": "TEST",
+    "start": 5568,
+    "end": 5579
+  },
+  {
+    "entity": "MAT",
+    "label": "PROBLEM",
+    "start": 5611,
+    "end": 5614
+  },
+  {
+    "entity": "heart rate",
+    "label": "TEST",
+    "start": 5616,
+    "end": 5626
+  },
+  {
+    "entity": "ischemic changes",
+    "label": "PROBLEM",
+    "start": 5655,
+    "end": 5671
+  },
+  {
+    "entity": "a followup EKG",
+    "label": "TEST",
+    "start": 5681,
+    "end": 5695
+  },
+  {
+    "entity": "wandering atrial pacemaker",
+    "label": "PROBLEM",
+    "start": 5735,
+    "end": 5761
+  },
+  {
+    "entity": "some lateral T-wave changes",
+    "label": "PROBLEM",
+    "start": 5766,
+    "end": 5793
+  },
+  {
+    "entity": "Followup EKG",
+    "label": "TEST",
+    "start": 5833,
+    "end": 5845
+  },
+  {
+    "entity": "sinus rhythm",
+    "label": "TEST",
+    "start": 5877,
+    "end": 5889
+  },
+  {
+    "entity": "frequent APCs",
+    "label": "PROBLEM",
+    "start": 5895,
+    "end": 5908
+  },
+  {
+    "entity": "hypertension",
+    "label": "PROBLEM",
+    "start": 5969,
+    "end": 5981
+  },
+  {
+    "entity": "severe tricuspid regurgitation",
+    "label": "PROBLEM",
+    "start": 5983,
+    "end": 6013
+  },
+  {
+    "entity": "mild pulmonary hypertension",
+    "label": "PROBLEM",
+    "start": 6019,
+    "end": 6046
+  },
+  {
+    "entity": "mild aortic stenosis",
+    "label": "PROBLEM",
+    "start": 6051,
+    "end": 6071
+  },
+  {
+    "entity": "left hip fracture",
+    "label": "PROBLEM",
+    "start": 6099,
+    "end": 6116
+  },
+  {
+    "entity": "surgery",
+    "label": "TREATMENT",
+    "start": 6138,
+    "end": 6145
+  },
+  {
+    "entity": "Telemetry",
+    "label": "TEST",
+    "start": 6147,
+    "end": 6156
+  },
+  {
+    "entity": "frequent APCs",
+    "label": "PROBLEM",
+    "start": 6216,
+    "end": 6229
+  },
+  {
+    "entity": "multifocal atrial tachycardia",
+    "label": "PROBLEM",
+    "start": 6278,
+    "end": 6307
+  },
+  {
+    "entity": "hypokalemia",
+    "label": "PROBLEM",
+    "start": 6352,
+    "end": 6363
+  },
+  {
+    "entity": "atrial fibrillation",
+    "label": "PROBLEM",
+    "start": 6409,
+    "end": 6428
+  },
+  {
+    "entity": "these troponins",
+    "label": "TEST",
+    "start": 6455,
+    "end": 6470
+  },
+  {
+    "entity": "multifocal atrial tachycardia",
+    "label": "PROBLEM",
+    "start": 6521,
+    "end": 6550
+  },
+  {
+    "entity": "increased rate",
+    "label": "PROBLEM",
+    "start": 6556,
+    "end": 6570
+  },
+  {
+    "entity": "chest pain",
+    "label": "PROBLEM",
+    "start": 6600,
+    "end": 6610
+  },
+  {
+    "entity": "shortness of breath",
+    "label": "PROBLEM",
+    "start": 6614,
+    "end": 6633
+  },
+  {
+    "entity": "left hip surgery",
+    "label": "TREATMENT",
+    "start": 6758,
+    "end": 6774
+  },
+  {
+    "entity": "left hip surgery",
+    "label": "TREATMENT",
+    "start": 6811,
+    "end": 6827
+  },
+  {
+    "entity": "verapamil",
+    "label": "DRUG",
+    "start": 6869,
+    "end": 6878
+  },
+  {
+    "entity": "the multifocal atrial tachycardia",
+    "label": "PROBLEM",
+    "start": 6930,
+    "end": 6963
+  },
+  {
+    "entity": "heart rate",
+    "label": "TEST",
+    "start": 6999,
+    "end": 7009
+  },
+  {
+    "entity": "electrolytes",
+    "label": "TEST",
+    "start": 7047,
+    "end": 7059
+  },
+  {
+    "entity": "beta-blockers",
+    "label": "DRUG",
+    "start": 7085,
+    "end": 7098
+  },
+  {
+    "entity": "Toprol",
+    "label": "DRUG",
+    "start": 7113,
+    "end": 7119
+  },
+  {
+    "entity": "shortness of breath",
+    "label": "PROBLEM",
+    "start": 7138,
+    "end": 7157
+  },
+  {
+    "entity": "bradycardia",
+    "label": "PROBLEM",
+    "start": 7206,
+    "end": 7217
+  },
+  {
+    "entity": "her heart rate",
+    "label": "TEST",
+    "start": 7236,
+    "end": 7250
+  },
+  {
+    "entity": "verapamil",
+    "label": "DRUG",
+    "start": 7258,
+    "end": 7267
+  },
+  {
+    "entity": "cardiac risks",
+    "label": "PROBLEM",
+    "start": 7297,
+    "end": 7310
+  },
+  {
+    "entity": "surgery",
+    "label": "TREATMENT",
+    "start": 7372,
+    "end": 7379
+  },
+  {
+    "entity": "any further cardiac evaluation",
+    "label": "TEST",
+    "start": 7395,
+    "end": 7425
+  },
+  {
+    "entity": "her mild thrombocytopenia",
+    "label": "PROBLEM",
+    "start": 7516,
+    "end": 7541
+  },
+  {
+    "entity": "proton pump inhibitors",
+    "label": "DRUG",
+    "start": 7590,
+    "end": 7612
+  },
+  {
+    "entity": "gastroesophageal reflux disease",
+    "label": "PROBLEM",
+    "start": 7628,
+    "end": 7659
+  },
+  {
+    "entity": "left hip fracture",
+    "label": "PROBLEM",
+    "start": 7675,
+    "end": 7692
+  },
+  {
+    "entity": "hypokalemia",
+    "label": "PROBLEM",
+    "start": 7741,
+    "end": 7752
+  },
+  {
+    "entity": "shortness of breath",
+    "label": "PROBLEM",
+    "start": 7754,
+    "end": 7773
+  },
+  {
+    "entity": "atrial tachycardia",
+    "label": "PROBLEM",
+    "start": 7775,
+    "end": 7793
+  },
+  {
+    "entity": "sinus rhythm",
+    "label": "TEST",
+    "start": 7795,
+    "end": 7807
+  },
+  {
+    "entity": "hip fracture",
+    "label": "PROBLEM",
+    "start": 7809,
+    "end": 7821
+  },
+  {
+    "entity": "tachycardia",
+    "label": "PROBLEM",
+    "start": 7831,
+    "end": 7842
+  },
+  {
+    "entity": "rhythm",
+    "label": "TEST",
+    "start": 7844,
+    "end": 7850
+  },
+  {
+    "entity": "apcs",
+    "label": "PROBLEM",
+    "start": 7852,
+    "end": 7856
+  },
+  {
+    "entity": "regurgitation",
+    "label": "PROBLEM",
+    "start": 7867,
+    "end": 7880
+  },
+  {
+    "entity": "hypertension",
+    "label": "PROBLEM",
+    "start": 7890,
+    "end": 7902
+  }
+]

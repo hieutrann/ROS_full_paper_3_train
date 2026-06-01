@@ -1,0 +1,230 @@
+[
+  {
+    "entity": "ear, nose, mouth, and throat exam",
+    "label": "TEST",
+    "start": 110,
+    "end": 143
+  },
+  {
+    "entity": "palpation",
+    "label": "TEST",
+    "start": 250,
+    "end": 259
+  },
+  {
+    "entity": "inspection",
+    "label": "TEST",
+    "start": 264,
+    "end": 274
+  },
+  {
+    "entity": "any surrounding lymphadenitis",
+    "label": "PROBLEM",
+    "start": 283,
+    "end": 312
+  },
+  {
+    "entity": "acute trauma",
+    "label": "PROBLEM",
+    "start": 336,
+    "end": 348
+  },
+  {
+    "entity": "palpation",
+    "label": "TEST",
+    "start": 372,
+    "end": 381
+  },
+  {
+    "entity": "inspection",
+    "label": "TEST",
+    "start": 386,
+    "end": 396
+  },
+  {
+    "entity": "acute trauma",
+    "label": "PROBLEM",
+    "start": 428,
+    "end": 440
+  },
+  {
+    "entity": "Otoscopic examination of the auditory canals and tympanic membranes",
+    "label": "TEST",
+    "start": 442,
+    "end": 509
+  },
+  {
+    "entity": "mass lesion",
+    "label": "PROBLEM",
+    "start": 555,
+    "end": 566
+  },
+  {
+    "entity": "inflammation",
+    "label": "PROBLEM",
+    "start": 568,
+    "end": 580
+  },
+  {
+    "entity": "swelling",
+    "label": "PROBLEM",
+    "start": 584,
+    "end": 592
+  },
+  {
+    "entity": "disruption",
+    "label": "PROBLEM",
+    "start": 629,
+    "end": 639
+  },
+  {
+    "entity": "infection",
+    "label": "PROBLEM",
+    "start": 643,
+    "end": 652
+  },
+  {
+    "entity": "septum and turbinate examination",
+    "label": "TEST",
+    "start": 719,
+    "end": 751
+  },
+  {
+    "entity": "disruption",
+    "label": "PROBLEM",
+    "start": 792,
+    "end": 802
+  },
+  {
+    "entity": "inflammation",
+    "label": "PROBLEM",
+    "start": 806,
+    "end": 818
+  },
+  {
+    "entity": "acute traumatic lesions",
+    "label": "PROBLEM",
+    "start": 842,
+    "end": 865
+  },
+  {
+    "entity": "disruption",
+    "label": "PROBLEM",
+    "start": 869,
+    "end": 879
+  },
+  {
+    "entity": "abnormal swelling",
+    "label": "PROBLEM",
+    "start": 908,
+    "end": 925
+  },
+  {
+    "entity": "unusual rhinorrhea",
+    "label": "PROBLEM",
+    "start": 939,
+    "end": 957
+  },
+  {
+    "entity": "bleeding",
+    "label": "PROBLEM",
+    "start": 961,
+    "end": 969
+  },
+  {
+    "entity": "infection",
+    "label": "PROBLEM",
+    "start": 1009,
+    "end": 1018
+  },
+  {
+    "entity": "mass lesion",
+    "label": "PROBLEM",
+    "start": 1020,
+    "end": 1031
+  },
+  {
+    "entity": "traumatic lesions",
+    "label": "PROBLEM",
+    "start": 1035,
+    "end": 1052
+  },
+  {
+    "entity": "infection",
+    "label": "PROBLEM",
+    "start": 1100,
+    "end": 1109
+  },
+  {
+    "entity": "palpation",
+    "label": "TEST",
+    "start": 1138,
+    "end": 1147
+  },
+  {
+    "entity": "inspection",
+    "label": "TEST",
+    "start": 1152,
+    "end": 1162
+  },
+  {
+    "entity": "swelling",
+    "label": "PROBLEM",
+    "start": 1235,
+    "end": 1243
+  },
+  {
+    "entity": "masses",
+    "label": "PROBLEM",
+    "start": 1305,
+    "end": 1311
+  },
+  {
+    "entity": "swelling",
+    "label": "PROBLEM",
+    "start": 1315,
+    "end": 1323
+  },
+  {
+    "entity": "inflammation",
+    "label": "PROBLEM",
+    "start": 1370,
+    "end": 1382
+  },
+  {
+    "entity": "mass lesion",
+    "label": "PROBLEM",
+    "start": 1417,
+    "end": 1428
+  },
+  {
+    "entity": "traumatic lesions",
+    "label": "PROBLEM",
+    "start": 1561,
+    "end": 1578
+  },
+  {
+    "entity": "trauma",
+    "label": "PROBLEM",
+    "start": 1595,
+    "end": 1601
+  },
+  {
+    "entity": "inflammation",
+    "label": "PROBLEM",
+    "start": 1620,
+    "end": 1632
+  },
+  {
+    "entity": "infection",
+    "label": "PROBLEM",
+    "start": 1634,
+    "end": 1643
+  },
+  {
+    "entity": "swelling",
+    "label": "PROBLEM",
+    "start": 1645,
+    "end": 1653
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "midchest pain": "PROBLEM"
+  },
+  {
+    "rheumatoid arthritis": "PROBLEM"
+  },
+  {
+    "hypothyroidism": "PROBLEM"
+  },
+  {
+    "osteoporosis": "PROBLEM"
+  },
+  {
+    "methotrexate": "DRUG"
+  },
+  {
+    "Fosamax": "DRUG"
+  },
+  {
+    "folic acid": "DRUG"
+  },
+  {
+    "amitriptyline": "DRUG"
+  },
+  {
+    "Synthroid": "DRUG"
+  },
+  {
+    "calcium": "DRUG"
+  },
+  {
+    "multivitamin": "DRUG"
+  },
+  {
+    "baby aspirin": "DRUG"
+  },
+  {
+    "Colace": "DRUG"
+  },
+  {
+    "Pap smear": "TEST"
+  },
+  {
+    "breast exam": "TEST"
+  },
+  {
+    "EKG": "TEST"
+  },
+  {
+    "DEXA": "TEST"
+  },
+  {
+    "mammogram": "TEST"
+  },
+  {
+    "incision": "TREATMENT"
+  },
+  {
+    "drainage": "TREATMENT"
+  },
+  {
+    "methotrexate": "TREATMENT"
+  },
+  {
+    "Synthroid": "TREATMENT"
+  },
+  {
+    "calcium": "TREATMENT"
+  },
+  {
+    "multivitamin": "TREATMENT"
+  },
+  {
+    "baby aspirin": "TREATMENT"
+  },
+  {
+    "Colace": "TREATMENT"
+  }
+]

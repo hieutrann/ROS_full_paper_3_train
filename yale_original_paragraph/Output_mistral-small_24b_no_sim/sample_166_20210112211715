@@ -1,0 +1,170 @@
+[
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "left-sided": "PROBLEM"
+  },
+  {
+    "severe chest tightness": "PROBLEM"
+  },
+  {
+    "psychological disorders": "PROBLEM"
+  },
+  {
+    "supraventricular tachycardia": "PROBLEM"
+  },
+  {
+    "coronary artery disease": "PROBLEM"
+  },
+  {
+    "seizure disorder": "PROBLEM"
+  },
+  {
+    "migraine headaches": "PROBLEM"
+  },
+  {
+    "CHF": "PROBLEM"
+  },
+  {
+    "mitral valve prolapse": "PROBLEM"
+  },
+  {
+    "colon cancer": "PROBLEM"
+  },
+  {
+    "breast cancer": "PROBLEM"
+  },
+  {
+    "lumpectomy": "TREATMENT"
+  },
+  {
+    "breast augmentation surgery": "TREATMENT"
+  },
+  {
+    "cholecystectomy": "TREATMENT"
+  },
+  {
+    "cardiac ablation": "TREATMENT"
+  },
+  {
+    "left knee surgery": "TREATMENT"
+  },
+  {
+    "removal of half the pancreas": "TREATMENT"
+  },
+  {
+    "Dilantin": "DRUG"
+  },
+  {
+    "Klonopin": "DRUG"
+  },
+  {
+    "Elavil": "DRUG"
+  },
+  {
+    "nitroglycerin": "DRUG"
+  },
+  {
+    "Thorazine": "DRUG"
+  },
+  {
+    "Neurontin": "DRUG"
+  },
+  {
+    "Phenergan": "DRUG"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "heart rate": "TEST"
+  },
+  {
+    "respiratory rate": "TEST"
+  },
+  {
+    "WBC count": "TEST"
+  },
+  {
+    "hemoglobin": "TEST"
+  },
+  {
+    "hematocrit": "TEST"
+  },
+  {
+    "sodium": "TEST"
+  },
+  {
+    "potassium": "TEST"
+  },
+  {
+    "chloride": "TEST"
+  },
+  {
+    "glucose": "TEST"
+  },
+  {
+    "bicarbonate": "TEST"
+  },
+  {
+    "BUN": "TEST"
+  },
+  {
+    "creatinine": "TEST"
+  },
+  {
+    "liver function tests": "TEST"
+  },
+  {
+    "troponin-I": "TEST"
+  },
+  {
+    "CPK-MB": "TEST"
+  },
+  {
+    "myoglobulin": "TEST"
+  },
+  {
+    "EKG": "TEST"
+  },
+  {
+    "toxicology screen": "TEST"
+  },
+  {
+    "head CT": "TEST"
+  },
+  {
+    "beta-hCG level": "TEST"
+  },
+  {
+    "morphine": "DRUG"
+  },
+  {
+    "methadone": "DRUG"
+  },
+  {
+    "marijuana": "DRUG"
+  },
+  {
+    "psychosomatic": "PROBLEM"
+  },
+  {
+    "coronary artery disease": "PROBLEM"
+  },
+  {
+    "chest tightness": "PROBLEM"
+  },
+  {
+    "emotional argument": "PROBLEM"
+  },
+  {
+    "psychological disorders": "PROBLEM"
+  },
+  {
+    "supraventricular tachycardia": "PROBLEM"
+  },
+  {
+    "headaches": "PROBLEM"
+  }
+]

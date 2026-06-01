@@ -1,0 +1,398 @@
+[
+  {
+    "FEMALE PHYSICAL EXAMINATION": "TEST"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "foreign body": "PROBLEM"
+  },
+  {
+    "lacerations": "PROBLEM"
+  },
+  {
+    "jaundice": "PROBLEM"
+  },
+  {
+    "Cornea": "TEST"
+  },
+  {
+    "light": "TEST"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "Anterior chamber": "TEST"
+  },
+  {
+    "Lacrimal ducts": "TEST"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "discharge": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "Tympanic membranes": "TEST"
+  },
+  {
+    "middle ear effusions": "PROBLEM"
+  },
+  {
+    "Nares": "TEST"
+  },
+  {
+    "Mucus": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "exudates": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "lesion": "PROBLEM"
+  },
+  {
+    "palate": "PROBLEM"
+  },
+  {
+    "adenopathy": "PROBLEM"
+  },
+  {
+    "Tonsils": "PROBLEM"
+  },
+  {
+    "Uvula": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "adenopathy": "PROBLEM"
+  },
+  {
+    "thyromegaly": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "nontender": "PROBLEM"
+  },
+  {
+    "Trachea": "PROBLEM"
+  },
+  {
+    "wheezing": "PROBLEM"
+  },
+  {
+    "rales": "PROBLEM"
+  },
+  {
+    "rhonchi": "PROBLEM"
+  },
+  {
+    "Chest": "PROBLEM"
+  },
+  {
+    "lung excursion": "TEST"
+  },
+  {
+    "accessory muscle use": "PROBLEM"
+  },
+  {
+    "Heart": "PROBLEM"
+  },
+  {
+    "S3": "PROBLEM"
+  },
+  {
+    "S4": "PROBLEM"
+  },
+  {
+    "Heart rate": "TEST"
+  },
+  {
+    "Abdominal": "TEST"
+  },
+  {
+    "hepatomegaly": "PROBLEM"
+  },
+  {
+    "splenomegaly": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "bruits": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "Labia minora": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "Vaginal mucosa": "TEST"
+  },
+  {
+    "Cervix": "PROBLEM"
+  },
+  {
+    "Ovaries": "TEST"
+  },
+  {
+    "No pelvic masses": "PROBLEM"
+  },
+  {
+    "Uterus": "PROBLEM"
+  },
+  {
+    "hemorrhoids": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "inversion": "TEST"
+  },
+  {
+    "eversion": "TEST"
+  },
+  {
+    "plantar": "TEST"
+  },
+  {
+    "dorsiflexion": "TEST"
+  },
+  {
+    "Anterior and posterior drawer test": "TEST"
+  },
+  {
+    "inversion": "TEST"
+  },
+  {
+    "eversion": "TEST"
+  },
+  {
+    "dorsiflexion": "TEST"
+  },
+  {
+    "plantar flexion": "TEST"
+  },
+  {
+    "pain": "PROBLEM"
+  },
+  {
+    "ligaments": "PROBLEM"
+  },
+  {
+    "joint effusion": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "crepitus": "PROBLEM"
+  },
+  {
+    "ecchymosis": "PROBLEM"
+  },
+  {
+    "tenderness": "PROBLEM"
+  },
+  {
+    "Knee": "PROBLEM"
+  },
+  {
+    "joint effusion": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "nontender": "PROBLEM"
+  },
+  {
+    "Anterior and posterior drawer tests": "TEST"
+  },
+  {
+    "Lachman's test": "TEST"
+  },
+  {
+    "ligaments": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "Wrist": "PROBLEM"
+  },
+  {
+    "Tinel tests": "TEST"
+  },
+  {
+    "Phalen tests": "TEST"
+  },
+  {
+    "range of motion": "TEST"
+  },
+  {
+    "joint effusion": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "Olecranon bursa": "PROBLEM"
+  },
+  {
+    "supination": "TREATMENT"
+  },
+  {
+    "pronation": "TREATMENT"
+  },
+  {
+    "swinging test": "TEST"
+  },
+  {
+    "Trochanteric bursa": "PROBLEM"
+  },
+  {
+    "eversion": "TEST"
+  },
+  {
+    "inversion": "TEST"
+  },
+  {
+    "delusions": "PROBLEM"
+  },
+  {
+    "hallucinations": "PROBLEM"
+  },
+  {
+    "loose associations": "PROBLEM"
+  },
+  {
+    "flight of ideas": "PROBLEM"
+  },
+  {
+    "tangentiality": "PROBLEM"
+  },
+  {
+    "psychomotor slowing": "PROBLEM"
+  },
+  {
+    "agitation": "PROBLEM"
+  },
+  {
+    "physical examination": "TEST"
+  },
+  {
+    "abdominal": "TEST"
+  },
+  {
+    "anterior chamber": "TEST"
+  },
+  {
+    "cardiovascular": "TEST"
+  },
+  {
+    "chest": "TEST"
+  },
+  {
+    "ear": "TEST"
+  },
+  {
+    "ear canal": "TEST"
+  },
+  {
+    "eye": "TEST"
+  },
+  {
+    "eyelids": "TEST"
+  },
+  {
+    "female physical examination": "TEST"
+  },
+  {
+    "labia majora": "TEST"
+  },
+  {
+    "labia minora": "TEST"
+  },
+  {
+    "nares": "TEST"
+  },
+  {
+    "neck symmetrical": "TEST"
+  },
+  {
+    "vaginal mucosa": "TEST"
+  },
+  {
+    "crepitus": "PROBLEM"
+  },
+  {
+    "ecchymosis": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "joint effusion": "PROBLEM"
+  },
+  {
+    "joint effusions": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "effusions": "PROBLEM"
+  },
+  {
+    "muscle": "TEST"
+  },
+  {
+    "joints": "TEST"
+  }
+]

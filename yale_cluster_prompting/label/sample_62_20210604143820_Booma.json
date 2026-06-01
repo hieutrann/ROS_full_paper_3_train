@@ -1,0 +1,782 @@
+[
+  {
+    "entity": "Nausea",
+    "label": "PROBLEM",
+    "start": 63,
+    "end": 69
+  },
+  {
+    "entity": "Nausea",
+    "label": "PROBLEM",
+    "start": 94,
+    "end": 100
+  },
+  {
+    "entity": "feeling faint",
+    "label": "PROBLEM",
+    "start": 105,
+    "end": 118
+  },
+  {
+    "entity": "some nausea",
+    "label": "PROBLEM",
+    "start": 137,
+    "end": 148
+  },
+  {
+    "entity": "feels weak",
+    "label": "PROBLEM",
+    "start": 154,
+    "end": 164
+  },
+  {
+    "entity": "Nausea",
+    "label": "PROBLEM",
+    "start": 287,
+    "end": 293
+  },
+  {
+    "entity": "feeling faint",
+    "label": "PROBLEM",
+    "start": 298,
+    "end": 311
+  },
+  {
+    "entity": "some nausea",
+    "label": "PROBLEM",
+    "start": 517,
+    "end": 528
+  },
+  {
+    "entity": "fever",
+    "label": "PROBLEM",
+    "start": 614,
+    "end": 619
+  },
+  {
+    "entity": "chills",
+    "label": "PROBLEM",
+    "start": 621,
+    "end": 627
+  },
+  {
+    "entity": "sweats",
+    "label": "PROBLEM",
+    "start": 629,
+    "end": 635
+  },
+  {
+    "entity": "ear pain",
+    "label": "PROBLEM",
+    "start": 637,
+    "end": 645
+  },
+  {
+    "entity": "URI symptoms",
+    "label": "PROBLEM",
+    "start": 647,
+    "end": 659
+  },
+  {
+    "entity": "cough",
+    "label": "PROBLEM",
+    "start": 661,
+    "end": 666
+  },
+  {
+    "entity": "dyspnea",
+    "label": "PROBLEM",
+    "start": 668,
+    "end": 675
+  },
+  {
+    "entity": "chest pain",
+    "label": "PROBLEM",
+    "start": 677,
+    "end": 687
+  },
+  {
+    "entity": "vomiting",
+    "label": "PROBLEM",
+    "start": 689,
+    "end": 697
+  },
+  {
+    "entity": "diarrhea",
+    "label": "PROBLEM",
+    "start": 699,
+    "end": 707
+  },
+  {
+    "entity": "abdominal pain",
+    "label": "PROBLEM",
+    "start": 709,
+    "end": 723
+  },
+  {
+    "entity": "melena",
+    "label": "PROBLEM",
+    "start": 725,
+    "end": 731
+  },
+  {
+    "entity": "hematochezia",
+    "label": "PROBLEM",
+    "start": 733,
+    "end": 745
+  },
+  {
+    "entity": "urinary symptoms",
+    "label": "PROBLEM",
+    "start": 747,
+    "end": 763
+  },
+  {
+    "entity": "headache",
+    "label": "PROBLEM",
+    "start": 765,
+    "end": 773
+  },
+  {
+    "entity": "neck pain",
+    "label": "PROBLEM",
+    "start": 775,
+    "end": 784
+  },
+  {
+    "entity": "back pain",
+    "label": "PROBLEM",
+    "start": 786,
+    "end": 795
+  },
+  {
+    "entity": "weakness",
+    "label": "PROBLEM",
+    "start": 797,
+    "end": 805
+  },
+  {
+    "entity": "paresthesias in extremities",
+    "label": "PROBLEM",
+    "start": 809,
+    "end": 836
+  },
+  {
+    "entity": "Diovan",
+    "label": "DRUG",
+    "start": 859,
+    "end": 865
+  },
+  {
+    "entity": "estradiol",
+    "label": "DRUG",
+    "start": 867,
+    "end": 876
+  },
+  {
+    "entity": "Norvasc",
+    "label": "DRUG",
+    "start": 878,
+    "end": 885
+  },
+  {
+    "entity": "Wellbutrin SR inhaler",
+    "label": "DRUG",
+    "start": 887,
+    "end": 908
+  },
+  {
+    "entity": "home O2",
+    "label": "TREATMENT",
+    "start": 914,
+    "end": 921
+  },
+  {
+    "entity": "ALLERGIES",
+    "label": "PROBLEM",
+    "start": 923,
+    "end": 932
+  },
+  {
+    "entity": "MORPHINE",
+    "label": "DRUG",
+    "start": 934,
+    "end": 942
+  },
+  {
+    "entity": "VOMITING",
+    "label": "PROBLEM",
+    "start": 950,
+    "end": 958
+  },
+  {
+    "entity": "COPD",
+    "label": "PROBLEM",
+    "start": 982,
+    "end": 986
+  },
+  {
+    "entity": "hypertension",
+    "label": "PROBLEM",
+    "start": 991,
+    "end": 1003
+  },
+  {
+    "entity": "hysterectomy",
+    "label": "TREATMENT",
+    "start": 1152,
+    "end": 1164
+  },
+  {
+    "entity": "VITAL SIGNS",
+    "label": "TEST",
+    "start": 1273,
+    "end": 1284
+  },
+  {
+    "entity": "Temperature",
+    "label": "TEST",
+    "start": 1286,
+    "end": 1297
+  },
+  {
+    "entity": "pulse",
+    "label": "TEST",
+    "start": 1304,
+    "end": 1309
+  },
+  {
+    "entity": "respirations",
+    "label": "TEST",
+    "start": 1318,
+    "end": 1330
+  },
+  {
+    "entity": "BP",
+    "label": "TEST",
+    "start": 1339,
+    "end": 1341
+  },
+  {
+    "entity": "EOMI",
+    "label": "TEST",
+    "start": 1484,
+    "end": 1488
+  },
+  {
+    "entity": "PERRL",
+    "label": "TEST",
+    "start": 1490,
+    "end": 1495
+  },
+  {
+    "entity": "JVD",
+    "label": "PROBLEM",
+    "start": 1552,
+    "end": 1555
+  },
+  {
+    "entity": "faint expiratory wheeze",
+    "label": "PROBLEM",
+    "start": 1571,
+    "end": 1594
+  },
+  {
+    "entity": "Slightly tachycardic",
+    "label": "PROBLEM",
+    "start": 1638,
+    "end": 1658
+  },
+  {
+    "entity": "murmur",
+    "label": "PROBLEM",
+    "start": 1667,
+    "end": 1673
+  },
+  {
+    "entity": "rebound",
+    "label": "PROBLEM",
+    "start": 1731,
+    "end": 1738
+  },
+  {
+    "entity": "guarding",
+    "label": "PROBLEM",
+    "start": 1742,
+    "end": 1750
+  },
+  {
+    "entity": "CVA tenderness",
+    "label": "PROBLEM",
+    "start": 1776,
+    "end": 1790
+  },
+  {
+    "entity": "pretibial edema",
+    "label": "PROBLEM",
+    "start": 1836,
+    "end": 1851
+  },
+  {
+    "entity": "WBC",
+    "label": "TEST",
+    "start": 1961,
+    "end": 1964
+  },
+  {
+    "entity": "differential",
+    "label": "TEST",
+    "start": 1971,
+    "end": 1983
+  },
+  {
+    "entity": "neutrophils",
+    "label": "TEST",
+    "start": 1992,
+    "end": 2003
+  },
+  {
+    "entity": "lymphocytes",
+    "label": "TEST",
+    "start": 2007,
+    "end": 2018
+  },
+  {
+    "entity": "monocytes",
+    "label": "TEST",
+    "start": 2022,
+    "end": 2031
+  },
+  {
+    "entity": "eosinophils",
+    "label": "TEST",
+    "start": 2039,
+    "end": 2050
+  },
+  {
+    "entity": "Hemoglobin",
+    "label": "TEST",
+    "start": 2052,
+    "end": 2062
+  },
+  {
+    "entity": "hematocrit",
+    "label": "TEST",
+    "start": 2072,
+    "end": 2082
+  },
+  {
+    "entity": "Comprehensive medical profile",
+    "label": "TEST",
+    "start": 2108,
+    "end": 2137
+  },
+  {
+    "entity": "decreased sodium",
+    "label": "PROBLEM",
+    "start": 2156,
+    "end": 2172
+  },
+  {
+    "entity": "decreased chloride",
+    "label": "PROBLEM",
+    "start": 2181,
+    "end": 2199
+  },
+  {
+    "entity": "calcium decreased",
+    "label": "PROBLEM",
+    "start": 2207,
+    "end": 2224
+  },
+  {
+    "entity": "total protein decreased",
+    "label": "PROBLEM",
+    "start": 2230,
+    "end": 2253
+  },
+  {
+    "entity": "albumin decreased",
+    "label": "PROBLEM",
+    "start": 2263,
+    "end": 2280
+  },
+  {
+    "entity": "Amylase",
+    "label": "TEST",
+    "start": 2286,
+    "end": 2293
+  },
+  {
+    "entity": "lipase",
+    "label": "TEST",
+    "start": 2298,
+    "end": 2304
+  },
+  {
+    "entity": "Clean catch urinalysis",
+    "label": "TEST",
+    "start": 2318,
+    "end": 2340
+  },
+  {
+    "entity": "hemoglobin",
+    "label": "TEST",
+    "start": 2394,
+    "end": 2404
+  },
+  {
+    "entity": "hemoglobin",
+    "label": "TEST",
+    "start": 2427,
+    "end": 2437
+  },
+  {
+    "entity": "hemoglobin",
+    "label": "TEST",
+    "start": 2457,
+    "end": 2467
+  },
+  {
+    "entity": "anemia",
+    "label": "PROBLEM",
+    "start": 2542,
+    "end": 2548
+  },
+  {
+    "entity": "Chest x-ray",
+    "label": "TEST",
+    "start": 2569,
+    "end": 2580
+  },
+  {
+    "entity": "O2 sat",
+    "label": "TEST",
+    "start": 2664,
+    "end": 2670
+  },
+  {
+    "entity": "COPD",
+    "label": "PROBLEM",
+    "start": 2735,
+    "end": 2739
+  },
+  {
+    "entity": "sinus tachycardia",
+    "label": "PROBLEM",
+    "start": 2759,
+    "end": 2776
+  },
+  {
+    "entity": "rate",
+    "label": "TEST",
+    "start": 2780,
+    "end": 2784
+  },
+  {
+    "entity": "ectopy",
+    "label": "PROBLEM",
+    "start": 2793,
+    "end": 2799
+  },
+  {
+    "entity": "orthostatic vital sign changes",
+    "label": "PROBLEM",
+    "start": 2841,
+    "end": 2871
+  },
+  {
+    "entity": "albuterol",
+    "label": "DRUG",
+    "start": 2931,
+    "end": 2940
+  },
+  {
+    "entity": "nebulizer treatment.",
+    "label": "TREATMENT",
+    "start": 2964,
+    "end": 2984
+  },
+  {
+    "entity": "Repeat lung exam",
+    "label": "TEST",
+    "start": 2985,
+    "end": 3001
+  },
+  {
+    "entity": "expiratory wheezing",
+    "label": "PROBLEM",
+    "start": 3024,
+    "end": 3043
+  },
+  {
+    "entity": "normal saline",
+    "label": "DRUG",
+    "start": 3067,
+    "end": 3080
+  },
+  {
+    "entity": "IV fluids",
+    "label": "TREATMENT",
+    "start": 3122,
+    "end": 3131
+  },
+  {
+    "entity": "normal saline",
+    "label": "DRUG",
+    "start": 3135,
+    "end": 3148
+  },
+  {
+    "entity": "Rectal examination",
+    "label": "TEST",
+    "start": 3256,
+    "end": 3274
+  },
+  {
+    "entity": "masses",
+    "label": "PROBLEM",
+    "start": 3346,
+    "end": 3352
+  },
+  {
+    "entity": "The rectal secretions",
+    "label": "PROBLEM",
+    "start": 3354,
+    "end": 3375
+  },
+  {
+    "entity": "sinus rhythm",
+    "label": "TEST",
+    "start": 3476,
+    "end": 3488
+  },
+  {
+    "entity": "rate",
+    "label": "TEST",
+    "start": 3490,
+    "end": 3494
+  },
+  {
+    "entity": "ectopy",
+    "label": "PROBLEM",
+    "start": 3502,
+    "end": 3508
+  },
+  {
+    "entity": "Blood pressure",
+    "label": "TEST",
+    "start": 3510,
+    "end": 3524
+  },
+  {
+    "entity": "Laboratory evaluation",
+    "label": "TEST",
+    "start": 3653,
+    "end": 3674
+  },
+  {
+    "entity": "anemia",
+    "label": "PROBLEM",
+    "start": 3715,
+    "end": 3721
+  },
+  {
+    "entity": "hyponatremia",
+    "label": "PROBLEM",
+    "start": 3726,
+    "end": 3738
+  },
+  {
+    "entity": "the patient's feelings of tiredness",
+    "label": "PROBLEM",
+    "start": 3762,
+    "end": 3797
+  },
+  {
+    "entity": "rectal bleeding",
+    "label": "PROBLEM",
+    "start": 3844,
+    "end": 3859
+  },
+  {
+    "entity": "Acute tiredness",
+    "label": "PROBLEM",
+    "start": 4053,
+    "end": 4068
+  },
+  {
+    "entity": "Anemia of unknown etiology",
+    "label": "PROBLEM",
+    "start": 4073,
+    "end": 4099
+  },
+  {
+    "entity": "Acute hyponatremia",
+    "label": "PROBLEM",
+    "start": 4104,
+    "end": 4122
+  },
+  {
+    "entity": "anemia",
+    "label": "PROBLEM",
+    "start": 4244,
+    "end": 4250
+  },
+  {
+    "entity": "condition changes or worsen",
+    "label": "PROBLEM",
+    "start": 4360,
+    "end": 4387
+  },
+  {
+    "entity": "fever",
+    "label": "PROBLEM",
+    "start": 4456,
+    "end": 4461
+  },
+  {
+    "entity": "chills",
+    "label": "PROBLEM",
+    "start": 4463,
+    "end": 4469
+  },
+  {
+    "entity": "sweats",
+    "label": "PROBLEM",
+    "start": 4471,
+    "end": 4477
+  },
+  {
+    "entity": "ear pain",
+    "label": "PROBLEM",
+    "start": 4479,
+    "end": 4487
+  },
+  {
+    "entity": "uri symptoms",
+    "label": "PROBLEM",
+    "start": 4489,
+    "end": 4501
+  },
+  {
+    "entity": "cough",
+    "label": "PROBLEM",
+    "start": 4503,
+    "end": 4508
+  },
+  {
+    "entity": "dyspnea",
+    "label": "PROBLEM",
+    "start": 4510,
+    "end": 4517
+  },
+  {
+    "entity": "chest pain",
+    "label": "PROBLEM",
+    "start": 4519,
+    "end": 4529
+  },
+  {
+    "entity": "vomiting",
+    "label": "PROBLEM",
+    "start": 4531,
+    "end": 4539
+  },
+  {
+    "entity": "diarrhea",
+    "label": "PROBLEM",
+    "start": 4541,
+    "end": 4549
+  },
+  {
+    "entity": "abdominal pain",
+    "label": "PROBLEM",
+    "start": 4551,
+    "end": 4565
+  },
+  {
+    "entity": "melena",
+    "label": "PROBLEM",
+    "start": 4567,
+    "end": 4573
+  },
+  {
+    "entity": "hematochezia",
+    "label": "PROBLEM",
+    "start": 4575,
+    "end": 4587
+  },
+  {
+    "entity": "urinary symptoms",
+    "label": "PROBLEM",
+    "start": 4589,
+    "end": 4605
+  },
+  {
+    "entity": "headache",
+    "label": "PROBLEM",
+    "start": 4607,
+    "end": 4615
+  },
+  {
+    "entity": "neck pain",
+    "label": "PROBLEM",
+    "start": 4617,
+    "end": 4626
+  },
+  {
+    "entity": "back pain",
+    "label": "PROBLEM",
+    "start": 4628,
+    "end": 4637
+  },
+  {
+    "entity": "weakness",
+    "label": "PROBLEM",
+    "start": 4639,
+    "end": 4647
+  },
+  {
+    "entity": "paresthesias",
+    "label": "PROBLEM",
+    "start": 4649,
+    "end": 4661
+  },
+  {
+    "entity": "faint",
+    "label": "PROBLEM",
+    "start": 4671,
+    "end": 4676
+  },
+  {
+    "entity": "saline lock",
+    "label": "TREATMENT",
+    "start": 4678,
+    "end": 4689
+  },
+  {
+    "entity": "edema",
+    "label": "PROBLEM",
+    "start": 4691,
+    "end": 4696
+  },
+  {
+    "entity": "hemoglobin",
+    "label": "TEST",
+    "start": 4698,
+    "end": 4708
+  },
+  {
+    "entity": "nausea",
+    "label": "PROBLEM",
+    "start": 4710,
+    "end": 4716
+  },
+  {
+    "entity": "wellbutrin",
+    "label": "DRUG",
+    "start": 4718,
+    "end": 4728
+  }
+]

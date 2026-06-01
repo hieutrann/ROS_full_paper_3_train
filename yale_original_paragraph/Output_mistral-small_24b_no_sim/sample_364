@@ -1,0 +1,212 @@
+[
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "midchest pain": "PROBLEM"
+  },
+  {
+    "back": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "diaphoresis": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "EKG": "TEST"
+  },
+  {
+    "foot surgery": "TREATMENT"
+  },
+  {
+    "Reactive airway disease": "PROBLEM"
+  },
+  {
+    "rheumatoid arthritis": "PROBLEM"
+  },
+  {
+    "surgery": "TREATMENT"
+  },
+  {
+    "hands": "PROBLEM"
+  },
+  {
+    "feet": "PROBLEM"
+  },
+  {
+    "gravida": "PROBLEM"
+  },
+  {
+    "para": "PROBLEM"
+  },
+  {
+    "twins": "PROBLEM"
+  },
+  {
+    "vaginal deliveries": "PROBLEM"
+  },
+  {
+    "iron deficiency anemia": "PROBLEM"
+  },
+  {
+    "osteoporosis": "PROBLEM"
+  },
+  {
+    "hypothyroidism": "PROBLEM"
+  },
+  {
+    "Methotrexate": "DRUG"
+  },
+  {
+    "Fosamax": "DRUG"
+  },
+  {
+    "folic acid": "DRUG"
+  },
+  {
+    "amitriptyline": "DRUG"
+  },
+  {
+    "Synthroid": "DRUG"
+  },
+  {
+    "calcium": "DRUG"
+  },
+  {
+    "multivitamin": "DRUG"
+  },
+  {
+    "baby aspirin": "DRUG"
+  },
+  {
+    "Colace": "DRUG"
+  },
+  {
+    "Weight": "TEST"
+  },
+  {
+    "Blood pressure": "TEST"
+  },
+  {
+    "Pulse": "TEST"
+  },
+  {
+    "Respirations": "TEST"
+  },
+  {
+    "Temperature": "TEST"
+  },
+  {
+    "HEENT": "TEST"
+  },
+  {
+    "pulmonary": "TEST"
+  },
+  {
+    "cardiovascular": "TEST"
+  },
+  {
+    "GI": "TEST"
+  },
+  {
+    "GU": "TEST"
+  },
+  {
+    "musculoskeletal": "TEST"
+  },
+  {
+    "neurologic": "TEST"
+  },
+  {
+    "dermatologic": "TEST"
+  },
+  {
+    "constitutional": "TEST"
+  },
+  {
+    "psychiatric": "TEST"
+  },
+  {
+    "HPI": "TEST"
+  },
+  {
+    "lymphadenopathy": "PROBLEM"
+  },
+  {
+    "thyromegaly": "PROBLEM"
+  },
+  {
+    "bowel sounds": "TEST"
+  },
+  {
+    "hepatosplenomegaly": "PROBLEM"
+  },
+  {
+    "nipple discharge": "PROBLEM"
+  },
+  {
+    "lumps": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "dimpling": "PROBLEM"
+  },
+  {
+    "axillary lymph nodes": "PROBLEM"
+  },
+  {
+    "self-breast exam": "TREATMENT"
+  },
+  {
+    "cervical lesions": "PROBLEM"
+  },
+  {
+    "cervical motion tenderness": "PROBLEM"
+  },
+  {
+    "adnexal tenderness": "PROBLEM"
+  },
+  {
+    "sphincter tone": "TEST"
+  },
+  {
+    "stool": "PROBLEM"
+  },
+  {
+    "rectal masses": "PROBLEM"
+  },
+  {
+    "cyanosis": "PROBLEM"
+  },
+  {
+    "clubbing": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "rheumatoid arthritis": "PROBLEM"
+  },
+  {
+    "TSH": "TEST"
+  },
+  {
+    "DEXA": "TEST"
+  },
+  {
+    "Pap smear": "TEST"
+  },
+  {
+    "mammogram": "TEST"
+  }
+]

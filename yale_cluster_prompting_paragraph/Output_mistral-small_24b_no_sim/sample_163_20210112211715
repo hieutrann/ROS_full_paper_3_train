@@ -1,0 +1,242 @@
+[
+  {
+    "Discharge Summary": "TEST"
+  },
+  {
+    "pneumonia": "PROBLEM"
+  },
+  {
+    "hypoxemia": "PROBLEM"
+  },
+  {
+    "hypotension": "PROBLEM"
+  },
+  {
+    "electrolyte abnormality": "PROBLEM"
+  },
+  {
+    "hyponatremia": "PROBLEM"
+  },
+  {
+    "hypokalemia": "PROBLEM"
+  },
+  {
+    "liver function tests": "TEST"
+  },
+  {
+    "dementia": "PROBLEM"
+  },
+  {
+    "Alzheimer's type": "PROBLEM"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "iron deficiency": "PROBLEM"
+  },
+  {
+    "mole": "PROBLEM"
+  },
+  {
+    "skin biopsy": "TEST"
+  },
+  {
+    "pathology report": "TEST"
+  },
+  {
+    "scalp skin biopsy": "TEST"
+  },
+  {
+    "pathology specimen": "TEST"
+  },
+  {
+    "thoracentesis": "TEST"
+  },
+  {
+    "Flagyl": "DRUG"
+  },
+  {
+    "Levaquin": "DRUG"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "confusion": "PROBLEM"
+  },
+  {
+    "dizziness": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "chest x-ray": "TEST"
+  },
+  {
+    "right lobar infiltrate": "PROBLEM"
+  },
+  {
+    "antibiotics": "DRUG"
+  },
+  {
+    "vancomycin": "DRUG"
+  },
+  {
+    "blood": "TEST"
+  },
+  {
+    "sputum": "TEST"
+  },
+  {
+    "urine": "TEST"
+  },
+  {
+    "cultures": "TEST"
+  },
+  {
+    "C. diff colitis": "PROBLEM"
+  },
+  {
+    "cholecystitis": "PROBLEM"
+  },
+  {
+    "hypotensive": "PROBLEM"
+  },
+  {
+    "systolic blood pressure": "TEST"
+  },
+  {
+    "IV fluid management": "TREATMENT"
+  },
+  {
+    "ultrasound": "TEST"
+  },
+  {
+    "CT scan": "TEST"
+  },
+  {
+    "HIDA scan": "TEST"
+  },
+  {
+    "gallbladder dysfunction": "PROBLEM"
+  },
+  {
+    "liver functions": "TEST"
+  },
+  {
+    "Infectious Disease": "TEST"
+  },
+  {
+    "antibiotics": "DRUG"
+  },
+  {
+    "hypoxemic": "PROBLEM"
+  },
+  {
+    "room air pulse oximetry": "TEST"
+  },
+  {
+    "incentive spirometry": "TREATMENT"
+  },
+  {
+    "pulmonary function": "PROBLEM"
+  },
+  {
+    "white count": "TEST"
+  },
+  {
+    "blood cultures": "TEST"
+  },
+  {
+    "sputum culture": "TEST"
+  },
+  {
+    "urine culture": "TEST"
+  },
+  {
+    "thoracentesis culture": "TEST"
+  },
+  {
+    "packed red cells": "DRUG"
+  },
+  {
+    "hemoglobin": "TEST"
+  },
+  {
+    "cardiovascular support": "TREATMENT"
+  },
+  {
+    "GI bleeding": "PROBLEM"
+  },
+  {
+    "blood work": "TEST"
+  },
+  {
+    "PT": "TEST"
+  },
+  {
+    "PTT": "TEST"
+  },
+  {
+    "occult blood studies": "TEST"
+  },
+  {
+    "Hepatitis B antigen": "TEST"
+  },
+  {
+    "Hepatitis A antibody IgM": "TEST"
+  },
+  {
+    "Hepatitis B core IgM": "TEST"
+  },
+  {
+    "Hepatitis C core antibody": "TEST"
+  },
+  {
+    "sodium": "TEST"
+  },
+  {
+    "potassium": "TEST"
+  },
+  {
+    "calcium": "TEST"
+  },
+  {
+    "ALT": "TEST"
+  },
+  {
+    "AST": "TEST"
+  },
+  {
+    "direct bilirubin": "TEST"
+  },
+  {
+    "LDH": "TEST"
+  },
+  {
+    "serum iron": "TEST"
+  },
+  {
+    "total iron unbound": "TEST"
+  },
+  {
+    "ferritin level": "TEST"
+  },
+  {
+    "back discomfort": "PROBLEM"
+  },
+  {
+    "lumbosacral back x-ray": "TEST"
+  },
+  {
+    "degenerative disk disease": "PROBLEM"
+  },
+  {
+    "compression fracture": "PROBLEM"
+  },
+  {
+    "acute": "PROBLEM"
+  }
+]

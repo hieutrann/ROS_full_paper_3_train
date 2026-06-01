@@ -1,0 +1,83 @@
+[
+  {
+    "Radiology": "TEST"
+  },
+  {
+    "Full-Field Digital Mammogram": "TEST"
+  },
+  {
+    "Bilateral Screening Mammogram": "TEST"
+  },
+  {
+    "Full-Field Digital Mammography": "TEST"
+  },
+  {
+    "Digital screening mammogram": "TEST"
+  },
+  {
+    "breast cancer": "PROBLEM"
+  },
+  {
+    "craniocaudal": "TEST"
+  },
+  {
+    "mediolateral": "TEST"
+  },
+  {
+    "bilateral": "TEST"
+  },
+  {
+    "breasts": "TEST"
+  },
+  {
+    "mammography": "TEST"
+  },
+  {
+    "mammogram": "TEST"
+  },
+  {
+    "mammographic": "TEST"
+  },
+  {
+    "screening mammogram": "TEST"
+  },
+  {
+    "screening": "TEST"
+  },
+  {
+    "fibroglandular": "PROBLEM"
+  },
+  {
+    "calcifications": "PROBLEM"
+  },
+  {
+    "mass": "PROBLEM"
+  },
+  {
+    "architecture distortion": "PROBLEM"
+  },
+  {
+    "malignant-type calcifications": "PROBLEM"
+  },
+  {
+    "skin": "PROBLEM"
+  },
+  {
+    "BIRADS Classification 2": "TEST"
+  },
+  {
+    "cancers": "PROBLEM"
+  },
+  {
+    "biopsy": "TREATMENT"
+  },
+  {
+    "mass": "PROBLEM"
+  },
+  {
+    "mammography equipment": "TEST"
+  },
+  {
+    "iCAD SecondLook Software Version 7.2": "TEST"
+  }
+]

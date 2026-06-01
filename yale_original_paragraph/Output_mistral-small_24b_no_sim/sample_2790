@@ -1,0 +1,200 @@
+[
+  {
+    "back pain": "PROBLEM"
+  },
+  {
+    "chronic back pain": "PROBLEM"
+  },
+  {
+    "acute back pain": "PROBLEM"
+  },
+  {
+    "back pain": "PROBLEM"
+  },
+  {
+    "intravertebral lumbar disk disease": "PROBLEM"
+  },
+  {
+    "degenerative changes": "PROBLEM"
+  },
+  {
+    "bulging disk": "PROBLEM"
+  },
+  {
+    "testicular cancer": "PROBLEM"
+  },
+  {
+    "HIVES": "PROBLEM"
+  },
+  {
+    "GERD": "PROBLEM"
+  },
+  {
+    "irritable bowel syndrome": "PROBLEM"
+  },
+  {
+    "seasonal asthma": "PROBLEM"
+  },
+  {
+    "postnasal drip": "PROBLEM"
+  },
+  {
+    "bilateral carpal tunnel syndrome": "PROBLEM"
+  },
+  {
+    "abdominal teratoma": "PROBLEM"
+  },
+  {
+    "incisional hernia": "PROBLEM"
+  },
+  {
+    "chills": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "shakes": "PROBLEM"
+  },
+  {
+    "tremors": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "palpitations": "PROBLEM"
+  },
+  {
+    "hemoptysis": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "diarrhea": "PROBLEM"
+  },
+  {
+    "constipation": "PROBLEM"
+  },
+  {
+    "hematemesis": "PROBLEM"
+  },
+  {
+    "dysuria": "PROBLEM"
+  },
+  {
+    "frequency": "PROBLEM"
+  },
+  {
+    "incomplete bladder emptying": "PROBLEM"
+  },
+  {
+    "voiding difficulties": "PROBLEM"
+  },
+  {
+    "numbness and tingling": "PROBLEM"
+  },
+  {
+    "seizure disorders": "PROBLEM"
+  },
+  {
+    "dizziness": "PROBLEM"
+  },
+  {
+    "PENICILLIN": "DRUG"
+  },
+  {
+    "AMOXICILLIN": "DRUG"
+  },
+  {
+    "CEPHALOSPORIN": "DRUG"
+  },
+  {
+    "DOXYCYCLINE": "DRUG"
+  },
+  {
+    "IVP DYE": "DRUG"
+  },
+  {
+    "IODINE": "DRUG"
+  },
+  {
+    "SULFA": "DRUG"
+  },
+  {
+    "SAP FROM THE MANGO TREE": "DRUG"
+  },
+  {
+    "Decadron": "DRUG"
+  },
+  {
+    "Percocet": "DRUG"
+  },
+  {
+    "Colace": "DRUG"
+  },
+  {
+    "lactulose": "DRUG"
+  },
+  {
+    "Protonix": "DRUG"
+  },
+  {
+    "bone scan": "TEST"
+  },
+  {
+    "IV analgesics": "TREATMENT"
+  },
+  {
+    "physical therapy": "TREATMENT"
+  },
+  {
+    "ADLs": "TREATMENT"
+  },
+  {
+    "Pulse": "TEST"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "temperature": "TEST"
+  },
+  {
+    "respirations": "TEST"
+  },
+  {
+    "O2 saturation": "TEST"
+  },
+  {
+    "EOMI": "TEST"
+  },
+  {
+    "S1": "TEST"
+  },
+  {
+    "S2": "TEST"
+  },
+  {
+    "Physical Therapy": "TREATMENT"
+  },
+  {
+    "Occupational Therapy": "TREATMENT"
+  },
+  {
+    "deep vein thrombosis prophylaxis": "TREATMENT"
+  },
+  {
+    "leg exercises": "TREATMENT"
+  },
+  {
+    "dietary consult": "TREATMENT"
+  }
+]

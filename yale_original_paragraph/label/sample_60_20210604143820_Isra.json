@@ -1,0 +1,374 @@
+[
+  {
+    "entity": "Upper respiratory illness",
+    "label": "PROBLEM",
+    "start": 100,
+    "end": 125
+  },
+  {
+    "entity": "apnea",
+    "label": "PROBLEM",
+    "start": 131,
+    "end": 136
+  },
+  {
+    "entity": "pertussis",
+    "label": "PROBLEM",
+    "start": 147,
+    "end": 156
+  },
+  {
+    "entity": "respiratory symptoms",
+    "label": "PROBLEM",
+    "start": 191,
+    "end": 211
+  },
+  {
+    "entity": "cough",
+    "label": "PROBLEM",
+    "start": 271,
+    "end": 276
+  },
+  {
+    "entity": "post-tussive emesis",
+    "label": "PROBLEM",
+    "start": 278,
+    "end": 297
+  },
+  {
+    "entity": "fever",
+    "label": "PROBLEM",
+    "start": 316,
+    "end": 321
+  },
+  {
+    "entity": "Upper respiratory illness",
+    "label": "PROBLEM",
+    "start": 382,
+    "end": 407
+  },
+  {
+    "entity": "apnea",
+    "label": "PROBLEM",
+    "start": 413,
+    "end": 418
+  },
+  {
+    "entity": "pertussis",
+    "label": "PROBLEM",
+    "start": 429,
+    "end": 438
+  },
+  {
+    "entity": "Upper respiratory illness",
+    "label": "PROBLEM",
+    "start": 461,
+    "end": 486
+  },
+  {
+    "entity": "apnea",
+    "label": "PROBLEM",
+    "start": 492,
+    "end": 497
+  },
+  {
+    "entity": "pertussis",
+    "label": "PROBLEM",
+    "start": 508,
+    "end": 517
+  },
+  {
+    "entity": "respiratory symptoms",
+    "label": "PROBLEM",
+    "start": 626,
+    "end": 646
+  },
+  {
+    "entity": "cough",
+    "label": "PROBLEM",
+    "start": 706,
+    "end": 711
+  },
+  {
+    "entity": "post-tussive emesis",
+    "label": "PROBLEM",
+    "start": 713,
+    "end": 732
+  },
+  {
+    "entity": "fever",
+    "label": "PROBLEM",
+    "start": 747,
+    "end": 752
+  },
+  {
+    "entity": "amoxicillin",
+    "label": "DRUG",
+    "start": 799,
+    "end": 810
+  },
+  {
+    "entity": "coughing",
+    "label": "PROBLEM",
+    "start": 831,
+    "end": 839
+  },
+  {
+    "entity": "persisted",
+    "label": "PROBLEM",
+    "start": 840,
+    "end": 849
+  },
+  {
+    "entity": "sats",
+    "label": "TEST",
+    "start": 890,
+    "end": 894
+  },
+  {
+    "entity": "coughing spells",
+    "label": "PROBLEM",
+    "start": 950,
+    "end": 965
+  },
+  {
+    "entity": "some apnea",
+    "label": "PROBLEM",
+    "start": 984,
+    "end": 994
+  },
+  {
+    "entity": "Rocephin",
+    "label": "DRUG",
+    "start": 1011,
+    "end": 1019
+  },
+  {
+    "entity": "some labs",
+    "label": "TEST",
+    "start": 1025,
+    "end": 1034
+  },
+  {
+    "entity": "apparent distress",
+    "label": "PROBLEM",
+    "start": 1168,
+    "end": 1185
+  },
+  {
+    "entity": "nasal discharge",
+    "label": "PROBLEM",
+    "start": 1209,
+    "end": 1224
+  },
+  {
+    "entity": "few rhonchi",
+    "label": "PROBLEM",
+    "start": 1271,
+    "end": 1282
+  },
+  {
+    "entity": "retractions",
+    "label": "PROBLEM",
+    "start": 1287,
+    "end": 1298
+  },
+  {
+    "entity": "significant coughing",
+    "label": "PROBLEM",
+    "start": 1303,
+    "end": 1323
+  },
+  {
+    "entity": "apnea",
+    "label": "PROBLEM",
+    "start": 1327,
+    "end": 1332
+  },
+  {
+    "entity": "the admission physical",
+    "label": "TEST",
+    "start": 1340,
+    "end": 1362
+  },
+  {
+    "entity": "any cyanosis",
+    "label": "PROBLEM",
+    "start": 1407,
+    "end": 1419
+  },
+  {
+    "entity": "a CBC",
+    "label": "TEST",
+    "start": 1458,
+    "end": 1463
+  },
+  {
+    "entity": "a white count",
+    "label": "TEST",
+    "start": 1495,
+    "end": 1508
+  },
+  {
+    "entity": "hemoglobin",
+    "label": "TEST",
+    "start": 1570,
+    "end": 1580
+  },
+  {
+    "entity": "hematocrit",
+    "label": "TEST",
+    "start": 1588,
+    "end": 1598
+  },
+  {
+    "entity": "platelets",
+    "label": "TEST",
+    "start": 1603,
+    "end": 1612
+  },
+  {
+    "entity": "BMP",
+    "label": "TEST",
+    "start": 1635,
+    "end": 1638
+  },
+  {
+    "entity": "An x-ray",
+    "label": "TEST",
+    "start": 1640,
+    "end": 1648
+  },
+  {
+    "entity": "significant infiltrate",
+    "label": "PROBLEM",
+    "start": 1755,
+    "end": 1777
+  },
+  {
+    "entity": "a rapid influenza swab",
+    "label": "TEST",
+    "start": 1805,
+    "end": 1827
+  },
+  {
+    "entity": "a rapid RSV",
+    "label": "TEST",
+    "start": 1862,
+    "end": 1873
+  },
+  {
+    "entity": "a pertussis PCR swab",
+    "label": "TEST",
+    "start": 1973,
+    "end": 1993
+  },
+  {
+    "entity": "a pertussis culture",
+    "label": "TEST",
+    "start": 2003,
+    "end": 2022
+  },
+  {
+    "entity": "the pertussis culture",
+    "label": "TEST",
+    "start": 2086,
+    "end": 2107
+  },
+  {
+    "entity": "pertussis",
+    "label": "PROBLEM",
+    "start": 2206,
+    "end": 2215
+  },
+  {
+    "entity": "coughing",
+    "label": "PROBLEM",
+    "start": 2347,
+    "end": 2355
+  },
+  {
+    "entity": "slight emesis",
+    "label": "PROBLEM",
+    "start": 2361,
+    "end": 2374
+  },
+  {
+    "entity": "apnea",
+    "label": "PROBLEM",
+    "start": 2431,
+    "end": 2436
+  },
+  {
+    "entity": "Zithromax",
+    "label": "DRUG",
+    "start": 2544,
+    "end": 2553
+  },
+  {
+    "entity": "exam",
+    "label": "TEST",
+    "start": 2654,
+    "end": 2658
+  },
+  {
+    "entity": "Zithromax",
+    "label": "DRUG",
+    "start": 2698,
+    "end": 2707
+  },
+  {
+    "entity": "the coughing",
+    "label": "PROBLEM",
+    "start": 2855,
+    "end": 2867
+  },
+  {
+    "entity": "cyanosis",
+    "label": "PROBLEM",
+    "start": 2890,
+    "end": 2898
+  },
+  {
+    "entity": "apnea",
+    "label": "PROBLEM",
+    "start": 2902,
+    "end": 2907
+  },
+  {
+    "entity": "emesis",
+    "label": "PROBLEM",
+    "start": 2944,
+    "end": 2950
+  },
+  {
+    "entity": "cough",
+    "label": "PROBLEM",
+    "start": 2952,
+    "end": 2957
+  },
+  {
+    "entity": "upper respiratory illness",
+    "label": "PROBLEM",
+    "start": 2959,
+    "end": 2984
+  },
+  {
+    "entity": "respiratory illness",
+    "label": "PROBLEM",
+    "start": 2986,
+    "end": 3005
+  },
+  {
+    "entity": "apnea",
+    "label": "PROBLEM",
+    "start": 3007,
+    "end": 3012
+  },
+  {
+    "entity": "pertussis",
+    "label": "PROBLEM",
+    "start": 3014,
+    "end": 3023
+  }
+]

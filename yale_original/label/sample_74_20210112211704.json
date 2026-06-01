@@ -1,0 +1,368 @@
+[
+  {
+    "entity": "some cold symptoms",
+    "label": "PROBLEM",
+    "start": 107,
+    "end": 125
+  },
+  {
+    "entity": "bronchitis",
+    "label": "PROBLEM",
+    "start": 142,
+    "end": 152
+  },
+  {
+    "entity": "antibiotics",
+    "label": "DRUG",
+    "start": 158,
+    "end": 169
+  },
+  {
+    "entity": "Acute respiratory failure",
+    "label": "PROBLEM",
+    "start": 233,
+    "end": 258
+  },
+  {
+    "entity": "Severe bronchitis",
+    "label": "PROBLEM",
+    "start": 273,
+    "end": 290
+  },
+  {
+    "entity": "acute respiratory failure",
+    "label": "PROBLEM",
+    "start": 302,
+    "end": 327
+  },
+  {
+    "entity": "Acute on chronic renal failure",
+    "label": "PROBLEM",
+    "start": 343,
+    "end": 373
+  },
+  {
+    "entity": "Severe hypertension",
+    "label": "PROBLEM",
+    "start": 388,
+    "end": 407
+  },
+  {
+    "entity": "Diastolic dysfunction",
+    "label": "PROBLEM",
+    "start": 422,
+    "end": 443
+  },
+  {
+    "entity": "X-ray",
+    "label": "TEST",
+    "start": 445,
+    "end": 450
+  },
+  {
+    "entity": "congestion",
+    "label": "PROBLEM",
+    "start": 481,
+    "end": 491
+  },
+  {
+    "entity": "pro-BNP",
+    "label": "TEST",
+    "start": 496,
+    "end": 503
+  },
+  {
+    "entity": "Hyperlipidemia",
+    "label": "PROBLEM",
+    "start": 539,
+    "end": 553
+  },
+  {
+    "entity": "evaluation",
+    "label": "TEST",
+    "start": 565,
+    "end": 575
+  },
+  {
+    "entity": "cardiac catheterization",
+    "label": "TREATMENT",
+    "start": 601,
+    "end": 624
+  },
+  {
+    "entity": "coronary artery disease",
+    "label": "PROBLEM",
+    "start": 649,
+    "end": 672
+  },
+  {
+    "entity": "carcinoma of the breast",
+    "label": "PROBLEM",
+    "start": 695,
+    "end": 718
+  },
+  {
+    "entity": "right nephrectomy",
+    "label": "PROBLEM",
+    "start": 741,
+    "end": 758
+  },
+  {
+    "entity": "Allergic rhinitis",
+    "label": "PROBLEM",
+    "start": 763,
+    "end": 780
+  },
+  {
+    "entity": "some cold symptoms",
+    "label": "PROBLEM",
+    "start": 828,
+    "end": 846
+  },
+  {
+    "entity": "bronchitis",
+    "label": "PROBLEM",
+    "start": 863,
+    "end": 873
+  },
+  {
+    "entity": "antibiotics",
+    "label": "DRUG",
+    "start": 879,
+    "end": 890
+  },
+  {
+    "entity": "progressive shortness of breath",
+    "label": "PROBLEM",
+    "start": 968,
+    "end": 999
+  },
+  {
+    "entity": "severe bilateral wheezing",
+    "label": "PROBLEM",
+    "start": 1033,
+    "end": 1058
+  },
+  {
+    "entity": "crepitations",
+    "label": "PROBLEM",
+    "start": 1063,
+    "end": 1075
+  },
+  {
+    "entity": "X-rays",
+    "label": "TEST",
+    "start": 1077,
+    "end": 1083
+  },
+  {
+    "entity": "congestion",
+    "label": "PROBLEM",
+    "start": 1109,
+    "end": 1119
+  },
+  {
+    "entity": "infiltrates",
+    "label": "PROBLEM",
+    "start": 1123,
+    "end": 1134
+  },
+  {
+    "entity": "pro-BNP",
+    "label": "TEST",
+    "start": 1139,
+    "end": 1146
+  },
+  {
+    "entity": "hypoxic",
+    "label": "PROBLEM",
+    "start": 1197,
+    "end": 1204
+  },
+  {
+    "entity": "4L nasal cannula",
+    "label": "TREATMENT",
+    "start": 1218,
+    "end": 1234
+  },
+  {
+    "entity": "steroids",
+    "label": "DRUG",
+    "start": 1334,
+    "end": 1342
+  },
+  {
+    "entity": "Lasix",
+    "label": "DRUG",
+    "start": 1360,
+    "end": 1365
+  },
+  {
+    "entity": "MRSA colonization",
+    "label": "PROBLEM",
+    "start": 1397,
+    "end": 1414
+  },
+  {
+    "entity": "infectious disease",
+    "label": "PROBLEM",
+    "start": 1431,
+    "end": 1449
+  },
+  {
+    "entity": "de-colonization",
+    "label": "PROBLEM",
+    "start": 1506,
+    "end": 1521
+  },
+  {
+    "entity": "wheezing",
+    "label": "PROBLEM",
+    "start": 1573,
+    "end": 1581
+  },
+  {
+    "entity": "crepitations",
+    "label": "PROBLEM",
+    "start": 1585,
+    "end": 1597
+  },
+  {
+    "entity": "O2 saturation",
+    "label": "TEST",
+    "start": 1602,
+    "end": 1615
+  },
+  {
+    "entity": "exercise oximetry",
+    "label": "TEST",
+    "start": 1665,
+    "end": 1682
+  },
+  {
+    "entity": "nasal congestion",
+    "label": "PROBLEM",
+    "start": 1706,
+    "end": 1722
+  },
+  {
+    "entity": "steroid",
+    "label": "DRUG",
+    "start": 1741,
+    "end": 1748
+  },
+  {
+    "entity": "beta blockers",
+    "label": "DRUG",
+    "start": 1833,
+    "end": 1846
+  },
+  {
+    "entity": "diastolic dysfunction",
+    "label": "PROBLEM",
+    "start": 1851,
+    "end": 1872
+  },
+  {
+    "entity": "steroids",
+    "label": "DRUG",
+    "start": 1909,
+    "end": 1917
+  },
+  {
+    "entity": "steroids",
+    "label": "DRUG",
+    "start": 1943,
+    "end": 1951
+  },
+  {
+    "entity": "Metoprolol",
+    "label": "DRUG",
+    "start": 2067,
+    "end": 2077
+  },
+  {
+    "entity": "Simvastatin",
+    "label": "DRUG",
+    "start": 2099,
+    "end": 2110
+  },
+  {
+    "entity": "Prednisone",
+    "label": "DRUG",
+    "start": 2149,
+    "end": 2159
+  },
+  {
+    "entity": "Flonase",
+    "label": "DRUG",
+    "start": 2196,
+    "end": 2203
+  },
+  {
+    "entity": "oximetry",
+    "label": "TEST",
+    "start": 2247,
+    "end": 2255
+  },
+  {
+    "entity": "home oxygen",
+    "label": "TREATMENT",
+    "start": 2301,
+    "end": 2312
+  },
+  {
+    "entity": "acute respiratory failure",
+    "label": "PROBLEM",
+    "start": 2482,
+    "end": 2507
+  },
+  {
+    "entity": "bronchitis",
+    "label": "PROBLEM",
+    "start": 2509,
+    "end": 2519
+  },
+  {
+    "entity": "acute on chronic renal failure",
+    "label": "PROBLEM",
+    "start": 2521,
+    "end": 2551
+  },
+  {
+    "entity": "severe hypertension",
+    "label": "PROBLEM",
+    "start": 2553,
+    "end": 2572
+  },
+  {
+    "entity": "diastolic dysfunction",
+    "label": "PROBLEM",
+    "start": 2574,
+    "end": 2595
+  },
+  {
+    "entity": "cold symptoms",
+    "label": "PROBLEM",
+    "start": 2597,
+    "end": 2610
+  },
+  {
+    "entity": "steroids",
+    "label": "DRUG",
+    "start": 2615,
+    "end": 2623
+  },
+  {
+    "entity": "nasal spray",
+    "label": "TREATMENT",
+    "start": 2625,
+    "end": 2636
+  },
+  {
+    "entity": "steroids",
+    "label": "DRUG",
+    "start": 2645,
+    "end": 2653
+  }
+]

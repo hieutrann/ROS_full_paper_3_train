@@ -1,0 +1,6503 @@
+[
+  {
+    "Leiomyosarcoma": "PROBLEM"
+  },
+  {
+    "pulmonary embolism": "PROBLEM"
+  },
+  {
+    "subdural hematoma": "PROBLEM"
+  },
+  {
+    "pancytopenia": "PROBLEM"
+  },
+  {
+    "pneumonia": "PROBLEM"
+  },
+  {
+    "mass": "PROBLEM"
+  },
+  {
+    "rheumatoid arthritis": "PROBLEM"
+  },
+  {
+    "leiomyosarcoma": "PROBLEM"
+  },
+  {
+    "pulmonary embolus": "PROBLEM"
+  },
+  {
+    "pneumonia": "PROBLEM"
+  },
+  {
+    "subdural hematoma": "PROBLEM"
+  },
+  {
+    "dyspnea": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "headaches": "PROBLEM"
+  },
+  {
+    "sinusitis": "PROBLEM"
+  },
+  {
+    "CTA": "TEST"
+  },
+  {
+    "MRI": "TEST"
+  },
+  {
+    "CT": "TEST"
+  },
+  {
+    "CT": "TEST"
+  },
+  {
+    "CTA": "TEST"
+  },
+  {
+    "CT": "TEST"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Lovenox": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  }
+]

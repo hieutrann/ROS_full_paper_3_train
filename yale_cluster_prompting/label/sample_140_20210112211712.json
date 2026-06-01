@@ -1,0 +1,422 @@
+[
+  {
+    "entity": "female physical exam",
+    "label": "TEST",
+    "start": 149,
+    "end": 169
+  },
+  {
+    "entity": "VITAL SIGNS",
+    "label": "TEST",
+    "start": 209,
+    "end": 220
+  },
+  {
+    "entity": "Blood pressure",
+    "label": "TEST",
+    "start": 222,
+    "end": 236
+  },
+  {
+    "entity": "pulse",
+    "label": "TEST",
+    "start": 240,
+    "end": 245
+  },
+  {
+    "entity": "respirations",
+    "label": "TEST",
+    "start": 249,
+    "end": 261
+  },
+  {
+    "entity": "temperature",
+    "label": "TEST",
+    "start": 265,
+    "end": 276
+  },
+  {
+    "entity": "apparent distress",
+    "label": "PROBLEM",
+    "start": 316,
+    "end": 333
+  },
+  {
+    "entity": "EOMI",
+    "label": "TEST",
+    "start": 386,
+    "end": 390
+  },
+  {
+    "entity": "PERRLA",
+    "label": "TEST",
+    "start": 392,
+    "end": 398
+  },
+  {
+    "entity": "lesions of lids, lashes, brows, or conjunctivae",
+    "label": "PROBLEM",
+    "start": 423,
+    "end": 470
+  },
+  {
+    "entity": "Funduscopic examination",
+    "label": "TEST",
+    "start": 478,
+    "end": 501
+  },
+  {
+    "entity": "dental work",
+    "label": "TREATMENT",
+    "start": 648,
+    "end": 659
+  },
+  {
+    "entity": "pain",
+    "label": "PROBLEM",
+    "start": 678,
+    "end": 682
+  },
+  {
+    "entity": "bruit",
+    "label": "PROBLEM",
+    "start": 696,
+    "end": 701
+  },
+  {
+    "entity": "JVD",
+    "label": "PROBLEM",
+    "start": 703,
+    "end": 706
+  },
+  {
+    "entity": "adenopathy",
+    "label": "PROBLEM",
+    "start": 708,
+    "end": 718
+  },
+  {
+    "entity": "thyroid abnormality",
+    "label": "PROBLEM",
+    "start": 722,
+    "end": 741
+  },
+  {
+    "entity": "auscultation",
+    "label": "TEST",
+    "start": 781,
+    "end": 793
+  },
+  {
+    "entity": "percussion",
+    "label": "TEST",
+    "start": 798,
+    "end": 808
+  },
+  {
+    "entity": "S1",
+    "label": "TEST",
+    "start": 817,
+    "end": 819
+  },
+  {
+    "entity": "S2",
+    "label": "TEST",
+    "start": 824,
+    "end": 826
+  },
+  {
+    "entity": "rate",
+    "label": "TEST",
+    "start": 836,
+    "end": 840
+  },
+  {
+    "entity": "rhythm",
+    "label": "TEST",
+    "start": 845,
+    "end": 851
+  },
+  {
+    "entity": "murmur",
+    "label": "PROBLEM",
+    "start": 860,
+    "end": 866
+  },
+  {
+    "entity": "heave",
+    "label": "PROBLEM",
+    "start": 868,
+    "end": 873
+  },
+  {
+    "entity": "click",
+    "label": "PROBLEM",
+    "start": 875,
+    "end": 880
+  },
+  {
+    "entity": "lift",
+    "label": "PROBLEM",
+    "start": 882,
+    "end": 886
+  },
+  {
+    "entity": "thrill",
+    "label": "PROBLEM",
+    "start": 888,
+    "end": 894
+  },
+  {
+    "entity": "rub",
+    "label": "PROBLEM",
+    "start": 896,
+    "end": 899
+  },
+  {
+    "entity": "gallop",
+    "label": "PROBLEM",
+    "start": 904,
+    "end": 910
+  },
+  {
+    "entity": "PMI",
+    "label": "TEST",
+    "start": 912,
+    "end": 915
+  },
+  {
+    "entity": "inspection",
+    "label": "TEST",
+    "start": 957,
+    "end": 967
+  },
+  {
+    "entity": "palpation",
+    "label": "TEST",
+    "start": 972,
+    "end": 981
+  },
+  {
+    "entity": "axillary or supraclavicular adenopathy",
+    "label": "PROBLEM",
+    "start": 986,
+    "end": 1024
+  },
+  {
+    "entity": "hepatosplenomegaly",
+    "label": "PROBLEM",
+    "start": 1104,
+    "end": 1122
+  },
+  {
+    "entity": "mass",
+    "label": "PROBLEM",
+    "start": 1124,
+    "end": 1128
+  },
+  {
+    "entity": "tenderness",
+    "label": "PROBLEM",
+    "start": 1130,
+    "end": 1140
+  },
+  {
+    "entity": "rebound",
+    "label": "PROBLEM",
+    "start": 1142,
+    "end": 1149
+  },
+  {
+    "entity": "rigidity",
+    "label": "PROBLEM",
+    "start": 1151,
+    "end": 1159
+  },
+  {
+    "entity": "guarding",
+    "label": "PROBLEM",
+    "start": 1164,
+    "end": 1172
+  },
+  {
+    "entity": "widening of the aortic impulse",
+    "label": "PROBLEM",
+    "start": 1177,
+    "end": 1207
+  },
+  {
+    "entity": "intraabdominal bruit",
+    "label": "PROBLEM",
+    "start": 1215,
+    "end": 1235
+  },
+  {
+    "entity": "gloved digital palpation",
+    "label": "TEST",
+    "start": 1313,
+    "end": 1337
+  },
+  {
+    "entity": "stool",
+    "label": "TEST",
+    "start": 1362,
+    "end": 1367
+  },
+  {
+    "entity": "distal pulse",
+    "label": "TEST",
+    "start": 1387,
+    "end": 1399
+  },
+  {
+    "entity": "edema",
+    "label": "PROBLEM",
+    "start": 1434,
+    "end": 1439
+  },
+  {
+    "entity": "cyanosis",
+    "label": "PROBLEM",
+    "start": 1441,
+    "end": 1449
+  },
+  {
+    "entity": "clubbing",
+    "label": "PROBLEM",
+    "start": 1451,
+    "end": 1459
+  },
+  {
+    "entity": "deep venous thrombosis",
+    "label": "PROBLEM",
+    "start": 1464,
+    "end": 1486
+  },
+  {
+    "entity": "inspection",
+    "label": "TEST",
+    "start": 1647,
+    "end": 1657
+  },
+  {
+    "entity": "percussion",
+    "label": "TEST",
+    "start": 1662,
+    "end": 1672
+  },
+  {
+    "entity": "spinous process tenderness",
+    "label": "PROBLEM",
+    "start": 1687,
+    "end": 1713
+  },
+  {
+    "entity": "CVA tenderness",
+    "label": "PROBLEM",
+    "start": 1717,
+    "end": 1731
+  },
+  {
+    "entity": "straight-leg raising",
+    "label": "TEST",
+    "start": 1742,
+    "end": 1762
+  },
+  {
+    "entity": "Kernig",
+    "label": "TEST",
+    "start": 1764,
+    "end": 1770
+  },
+  {
+    "entity": "Brudzinski signs",
+    "label": "TEST",
+    "start": 1776,
+    "end": 1792
+  },
+  {
+    "entity": "Gait",
+    "label": "TEST",
+    "start": 1990,
+    "end": 1994
+  },
+  {
+    "entity": "station",
+    "label": "TEST",
+    "start": 1999,
+    "end": 2006
+  },
+  {
+    "entity": "any premalignant or malignant condition",
+    "label": "PROBLEM",
+    "start": 2048,
+    "end": 2087
+  },
+  {
+    "entity": "hepatosplenomegaly",
+    "label": "PROBLEM",
+    "start": 2172,
+    "end": 2190
+  },
+  {
+    "entity": "mass",
+    "label": "PROBLEM",
+    "start": 2192,
+    "end": 2196
+  },
+  {
+    "entity": "tenderness",
+    "label": "PROBLEM",
+    "start": 2198,
+    "end": 2208
+  },
+  {
+    "entity": "rebound",
+    "label": "PROBLEM",
+    "start": 2210,
+    "end": 2217
+  },
+  {
+    "entity": "rigidity",
+    "label": "PROBLEM",
+    "start": 2219,
+    "end": 2227
+  },
+  {
+    "entity": "pulse",
+    "label": "TEST",
+    "start": 2229,
+    "end": 2234
+  },
+  {
+    "entity": "bruit",
+    "label": "PROBLEM",
+    "start": 2236,
+    "end": 2241
+  },
+  {
+    "entity": "adenopathy",
+    "label": "PROBLEM",
+    "start": 2243,
+    "end": 2253
+  },
+  {
+    "entity": "percussion",
+    "label": "TEST",
+    "start": 2262,
+    "end": 2272
+  },
+  {
+    "entity": "inspection",
+    "label": "TEST",
+    "start": 2274,
+    "end": 2284
+  },
+  {
+    "entity": "palpation",
+    "label": "TEST",
+    "start": 2286,
+    "end": 2295
+  }
+]

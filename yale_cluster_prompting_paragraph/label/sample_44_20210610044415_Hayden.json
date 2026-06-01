@@ -1,0 +1,218 @@
+[
+  {
+    "entity": "Hysterectomy",
+    "label": "TREATMENT",
+    "start": 65,
+    "end": 77
+  },
+  {
+    "entity": "Total vaginal hysterectomy",
+    "label": "TREATMENT",
+    "start": 117,
+    "end": 143
+  },
+  {
+    "entity": "Microinvasive carcinoma of the cervix",
+    "label": "PROBLEM",
+    "start": 146,
+    "end": 183
+  },
+  {
+    "entity": "Microinvasive carcinoma of the cervix",
+    "label": "PROBLEM",
+    "start": 246,
+    "end": 283
+  },
+  {
+    "entity": "Microinvasive carcinoma of the cervix",
+    "label": "PROBLEM",
+    "start": 308,
+    "end": 345
+  },
+  {
+    "entity": "Total vaginal hysterectomy",
+    "label": "TREATMENT",
+    "start": 370,
+    "end": 396
+  },
+  {
+    "entity": "tubal ligation",
+    "label": "TREATMENT",
+    "start": 526,
+    "end": 540
+  },
+  {
+    "entity": "abnormal Pap smear",
+    "label": "PROBLEM",
+    "start": 553,
+    "end": 571
+  },
+  {
+    "entity": "Biopsy",
+    "label": "TEST",
+    "start": 633,
+    "end": 639
+  },
+  {
+    "entity": "a microinvasive carcinoma of the cervix",
+    "label": "PROBLEM",
+    "start": 647,
+    "end": 686
+  },
+  {
+    "entity": "a cone biopsy",
+    "label": "TEST",
+    "start": 691,
+    "end": 704
+  },
+  {
+    "entity": "microinvasive carcinoma",
+    "label": "PROBLEM",
+    "start": 746,
+    "end": 769
+  },
+  {
+    "entity": "a 1 mm invasion",
+    "label": "PROBLEM",
+    "start": 775,
+    "end": 790
+  },
+  {
+    "entity": "definitive therapy",
+    "label": "TREATMENT",
+    "start": 808,
+    "end": 826
+  },
+  {
+    "entity": "a total vaginal hysterectomy",
+    "label": "TREATMENT",
+    "start": 832,
+    "end": 860
+  },
+  {
+    "entity": "Pap smears",
+    "label": "TREATMENT",
+    "start": 897,
+    "end": 907
+  },
+  {
+    "entity": "Physical exam",
+    "label": "TEST",
+    "start": 1077,
+    "end": 1090
+  },
+  {
+    "entity": "a small cervix",
+    "label": "PROBLEM",
+    "start": 1150,
+    "end": 1164
+  },
+  {
+    "entity": "cone biopsy",
+    "label": "TEST",
+    "start": 1178,
+    "end": 1189
+  },
+  {
+    "entity": "Chest x-ray",
+    "label": "TEST",
+    "start": 1234,
+    "end": 1245
+  },
+  {
+    "entity": "Discharge hemoglobin",
+    "label": "TEST",
+    "start": 1257,
+    "end": 1277
+  },
+  {
+    "entity": "a total vaginal hysterectomy",
+    "label": "TREATMENT",
+    "start": 1360,
+    "end": 1388
+  },
+  {
+    "entity": "general anesthesia",
+    "label": "TREATMENT",
+    "start": 1409,
+    "end": 1427
+  },
+  {
+    "entity": "an incidental cystotomy",
+    "label": "TREATMENT",
+    "start": 1439,
+    "end": 1462
+  },
+  {
+    "entity": "creation of the bladder flap",
+    "label": "TREATMENT",
+    "start": 1482,
+    "end": 1510
+  },
+  {
+    "entity": "a cystogram",
+    "label": "TEST",
+    "start": 1790,
+    "end": 1801
+  },
+  {
+    "entity": "catheter removal",
+    "label": "TREATMENT",
+    "start": 1806,
+    "end": 1822
+  },
+  {
+    "entity": "Vicodin",
+    "label": "DRUG",
+    "start": 1891,
+    "end": 1898
+  },
+  {
+    "entity": "Motrin",
+    "label": "DRUG",
+    "start": 1900,
+    "end": 1906
+  },
+  {
+    "entity": "Macrodantin",
+    "label": "DRUG",
+    "start": 1912,
+    "end": 1923
+  },
+  {
+    "entity": "urinary tract infection suppression",
+    "label": "TREATMENT",
+    "start": 1939,
+    "end": 1974
+  },
+  {
+    "entity": "residual disease",
+    "label": "PROBLEM",
+    "start": 2040,
+    "end": 2056
+  },
+  {
+    "entity": "pap smear",
+    "label": "TEST",
+    "start": 2089,
+    "end": 2098
+  },
+  {
+    "entity": "total vaginal hysterectomy",
+    "label": "TREATMENT",
+    "start": 2100,
+    "end": 2126
+  },
+  {
+    "entity": "hysterectomy",
+    "label": "TREATMENT",
+    "start": 2128,
+    "end": 2140
+  },
+  {
+    "entity": "carcinoma",
+    "label": "PROBLEM",
+    "start": 2157,
+    "end": 2166
+  }
+]

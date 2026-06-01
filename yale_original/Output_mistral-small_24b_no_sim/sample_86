@@ -1,0 +1,233 @@
+[
+  {
+    "depression": "PROBLEM"
+  },
+  {
+    "high risk behavior": "PROBLEM"
+  },
+  {
+    "Depression": "PROBLEM"
+  },
+  {
+    "High risk behavior": "PROBLEM"
+  },
+  {
+    "depressed": "PROBLEM"
+  },
+  {
+    "anxious": "PROBLEM"
+  },
+  {
+    "paranoia": "PROBLEM"
+  },
+  {
+    "relapse": "PROBLEM"
+  },
+  {
+    "therapy program": "TREATMENT"
+  },
+  {
+    "psychotropic medications": "DRUG"
+  },
+  {
+    "Perceptual disturbances": "PROBLEM"
+  },
+  {
+    "disorganized thoughts": "PROBLEM"
+  },
+  {
+    "suspicious": "PROBLEM"
+  },
+  {
+    "audiovisual hallucinations": "PROBLEM"
+  },
+  {
+    "flat affect": "PROBLEM"
+  },
+  {
+    "irritable": "PROBLEM"
+  },
+  {
+    "anxious": "PROBLEM"
+  },
+  {
+    "depressed moods": "PROBLEM"
+  },
+  {
+    "tearful": "PROBLEM"
+  },
+  {
+    "homesick": "PROBLEM"
+  },
+  {
+    "strange feelings and sensations": "PROBLEM"
+  },
+  {
+    "sleep-deprived EEG": "TEST"
+  },
+  {
+    "EKG": "TEST"
+  },
+  {
+    "H&P": "TEST"
+  },
+  {
+    "basic blood work": "TEST"
+  },
+  {
+    "basic metabolic panel": "TEST"
+  },
+  {
+    "CBC": "TEST"
+  },
+  {
+    "TSH": "TEST"
+  },
+  {
+    "UA": "TEST"
+  },
+  {
+    "urine drug screen": "TEST"
+  },
+  {
+    "thyroid dysfunction": "PROBLEM"
+  },
+  {
+    "thyroid panel": "TEST"
+  },
+  {
+    "T3": "TEST"
+  },
+  {
+    "T4": "TEST"
+  },
+  {
+    "TSH": "TEST"
+  },
+  {
+    "asthma": "PROBLEM"
+  },
+  {
+    "heart murmur": "PROBLEM"
+  },
+  {
+    "H&P exam": "TEST"
+  },
+  {
+    "CBC": "TEST"
+  },
+  {
+    "Hematocrit": "TEST"
+  },
+  {
+    "monocytes": "TEST"
+  },
+  {
+    "Major depression": "PROBLEM"
+  },
+  {
+    "psychotic features": "PROBLEM"
+  },
+  {
+    "Psychosocial stressors": "PROBLEM"
+  },
+  {
+    "suicidal": "PROBLEM"
+  },
+  {
+    "homicidal": "PROBLEM"
+  },
+  {
+    "perception disturbances": "PROBLEM"
+  },
+  {
+    "RTC": "TREATMENT"
+  },
+  {
+    "doctor": "PROBLEM"
+  },
+  {
+    "doctor": "PROBLEM"
+  },
+  {
+    "doctor": "PROBLEM"
+  },
+  {
+    "cardiologist": "PROBLEM"
+  },
+  {
+    "OB/GYN": "PROBLEM"
+  },
+  {
+    "lab results": "TEST"
+  },
+  {
+    "Seroquel": "DRUG"
+  },
+  {
+    "Seroquel": "DRUG"
+  },
+  {
+    "Benadryl": "DRUG"
+  },
+  {
+    "anxiety": "PROBLEM"
+  },
+  {
+    "agitation": "PROBLEM"
+  },
+  {
+    "Wellbutrin XL": "DRUG"
+  },
+  {
+    "vitamin E": "DRUG"
+  },
+  {
+    "Restoril": "DRUG"
+  },
+  {
+    "anxiety": "PROBLEM"
+  },
+  {
+    "galactorrhea": "PROBLEM"
+  },
+  {
+    "galactorrhea": "PROBLEM"
+  },
+  {
+    "lactation": "PROBLEM"
+  },
+  {
+    "Risperdal": "DRUG"
+  },
+  {
+    "Risperdal": "DRUG"
+  },
+  {
+    "psychiatric": "PROBLEM"
+  },
+  {
+    "depression": "PROBLEM"
+  },
+  {
+    "high risk behavior": "PROBLEM"
+  },
+  {
+    "psychosocial stressors": "PROBLEM"
+  },
+  {
+    "anxious": "PROBLEM"
+  },
+  {
+    "paranoia": "PROBLEM"
+  },
+  {
+    "psychiatric treatment": "TREATMENT"
+  },
+  {
+    "psychotropic medications": "DRUG"
+  },
+  {
+    "sleep-deprived eeg": "TEST"
+  }
+]

@@ -1,0 +1,692 @@
+[
+  {
+    "entity": "Hypertension",
+    "label": "PROBLEM",
+    "start": 145,
+    "end": 157
+  },
+  {
+    "entity": "CVA",
+    "label": "PROBLEM",
+    "start": 177,
+    "end": 180
+  },
+  {
+    "entity": "Compression fracture of L1",
+    "label": "PROBLEM",
+    "start": 182,
+    "end": 208
+  },
+  {
+    "entity": "osteoarthritis of knee",
+    "label": "PROBLEM",
+    "start": 214,
+    "end": 236
+  },
+  {
+    "entity": "hypertension",
+    "label": "PROBLEM",
+    "start": 420,
+    "end": 432
+  },
+  {
+    "entity": "difficulties",
+    "label": "PROBLEM",
+    "start": 449,
+    "end": 461
+  },
+  {
+    "entity": "chest pain",
+    "label": "PROBLEM",
+    "start": 467,
+    "end": 477
+  },
+  {
+    "entity": "some shortness of breath",
+    "label": "PROBLEM",
+    "start": 487,
+    "end": 511
+  },
+  {
+    "entity": "occasional lightheadedness",
+    "label": "PROBLEM",
+    "start": 551,
+    "end": 577
+  },
+  {
+    "entity": "nausea",
+    "label": "PROBLEM",
+    "start": 640,
+    "end": 646
+  },
+  {
+    "entity": "vomiting",
+    "label": "PROBLEM",
+    "start": 648,
+    "end": 656
+  },
+  {
+    "entity": "diarrhea",
+    "label": "PROBLEM",
+    "start": 661,
+    "end": 669
+  },
+  {
+    "entity": "severe osteoarthritis of the left knee",
+    "label": "PROBLEM",
+    "start": 685,
+    "end": 723
+  },
+  {
+    "entity": "total knee replacement",
+    "label": "TREATMENT",
+    "start": 755,
+    "end": 777
+  },
+  {
+    "entity": "her surgery",
+    "label": "TREATMENT",
+    "start": 868,
+    "end": 879
+  },
+  {
+    "entity": "coronary disease",
+    "label": "PROBLEM",
+    "start": 913,
+    "end": 929
+  },
+  {
+    "entity": "stroke",
+    "label": "PROBLEM",
+    "start": 933,
+    "end": 939
+  },
+  {
+    "entity": "any symptoms",
+    "label": "PROBLEM",
+    "start": 962,
+    "end": 974
+  },
+  {
+    "entity": "cardiac disease",
+    "label": "PROBLEM",
+    "start": 978,
+    "end": 993
+  },
+  {
+    "entity": "some shortness of breath with exertion",
+    "label": "PROBLEM",
+    "start": 1005,
+    "end": 1043
+  },
+  {
+    "entity": "lipid panel",
+    "label": "TEST",
+    "start": 1112,
+    "end": 1123
+  },
+  {
+    "entity": "Cholesterol",
+    "label": "TEST",
+    "start": 1159,
+    "end": 1170
+  },
+  {
+    "entity": "triglycerides",
+    "label": "TEST",
+    "start": 1180,
+    "end": 1193
+  },
+  {
+    "entity": "HDL",
+    "label": "TEST",
+    "start": 1199,
+    "end": 1202
+  },
+  {
+    "entity": "LDL",
+    "label": "TEST",
+    "start": 1211,
+    "end": 1214
+  },
+  {
+    "entity": "Her fasting glucose",
+    "label": "TEST",
+    "start": 1248,
+    "end": 1267
+  },
+  {
+    "entity": "Her fasting insulin level",
+    "label": "TEST",
+    "start": 1317,
+    "end": 1342
+  },
+  {
+    "entity": "Repeat nonfasting glucose",
+    "label": "TEST",
+    "start": 1355,
+    "end": 1380
+  },
+  {
+    "entity": "diabetes",
+    "label": "PROBLEM",
+    "start": 1433,
+    "end": 1441
+  },
+  {
+    "entity": "knee pain",
+    "label": "PROBLEM",
+    "start": 1505,
+    "end": 1514
+  },
+  {
+    "entity": "low back pain",
+    "label": "PROBLEM",
+    "start": 1551,
+    "end": 1564
+  },
+  {
+    "entity": "X-ray of the low back",
+    "label": "TEST",
+    "start": 1566,
+    "end": 1587
+  },
+  {
+    "entity": "a mild compression fracture of L1",
+    "label": "PROBLEM",
+    "start": 1597,
+    "end": 1630
+  },
+  {
+    "entity": "falls",
+    "label": "PROBLEM",
+    "start": 1647,
+    "end": 1652
+  },
+  {
+    "entity": "a compression fracture",
+    "label": "PROBLEM",
+    "start": 1678,
+    "end": 1700
+  },
+  {
+    "entity": "DEXA scan",
+    "label": "TEST",
+    "start": 1723,
+    "end": 1732
+  },
+  {
+    "entity": "a compression fracture of the lumbar spine",
+    "label": "PROBLEM",
+    "start": 1790,
+    "end": 1832
+  },
+  {
+    "entity": "arthritis",
+    "label": "PROBLEM",
+    "start": 1863,
+    "end": 1872
+  },
+  {
+    "entity": "bone density",
+    "label": "TEST",
+    "start": 1906,
+    "end": 1918
+  },
+  {
+    "entity": "DEXA scan",
+    "label": "TEST",
+    "start": 1930,
+    "end": 1939
+  },
+  {
+    "entity": "treatment",
+    "label": "TREATMENT",
+    "start": 1968,
+    "end": 1977
+  },
+  {
+    "entity": "further compression fractures",
+    "label": "PROBLEM",
+    "start": 1996,
+    "end": 2025
+  },
+  {
+    "entity": "osteoporosis",
+    "label": "PROBLEM",
+    "start": 2039,
+    "end": 2051
+  },
+  {
+    "entity": "Hydrochlorothiazide",
+    "label": "DRUG",
+    "start": 2074,
+    "end": 2093
+  },
+  {
+    "entity": "Prozac",
+    "label": "DRUG",
+    "start": 2109,
+    "end": 2115
+  },
+  {
+    "entity": "Vioxx",
+    "label": "DRUG",
+    "start": 2129,
+    "end": 2134
+  },
+  {
+    "entity": "vitamin C",
+    "label": "DRUG",
+    "start": 2148,
+    "end": 2157
+  },
+  {
+    "entity": "vitamin E",
+    "label": "DRUG",
+    "start": 2172,
+    "end": 2181
+  },
+  {
+    "entity": "calcium with D",
+    "label": "DRUG",
+    "start": 2211,
+    "end": 2225
+  },
+  {
+    "entity": "multivitamin",
+    "label": "DRUG",
+    "start": 2241,
+    "end": 2253
+  },
+  {
+    "entity": "aspirin",
+    "label": "DRUG",
+    "start": 2261,
+    "end": 2268
+  },
+  {
+    "entity": "Monopril",
+    "label": "DRUG",
+    "start": 2282,
+    "end": 2290
+  },
+  {
+    "entity": "Celexa",
+    "label": "DRUG",
+    "start": 2304,
+    "end": 2310
+  },
+  {
+    "entity": "ALLERGIES",
+    "label": "PROBLEM",
+    "start": 2318,
+    "end": 2327
+  },
+  {
+    "entity": "Bactrim",
+    "label": "DRUG",
+    "start": 2329,
+    "end": 2336
+  },
+  {
+    "entity": "nausea",
+    "label": "PROBLEM",
+    "start": 2351,
+    "end": 2357
+  },
+  {
+    "entity": "vomiting",
+    "label": "PROBLEM",
+    "start": 2362,
+    "end": 2370
+  },
+  {
+    "entity": "Hypertension",
+    "label": "PROBLEM",
+    "start": 2416,
+    "end": 2428
+  },
+  {
+    "entity": "Depression",
+    "label": "PROBLEM",
+    "start": 2433,
+    "end": 2443
+  },
+  {
+    "entity": "Myofascitis of the feet",
+    "label": "PROBLEM",
+    "start": 2448,
+    "end": 2471
+  },
+  {
+    "entity": "Severe osteoarthritis of the knee",
+    "label": "PROBLEM",
+    "start": 2476,
+    "end": 2509
+  },
+  {
+    "entity": "Removal of the melanoma from the right thigh",
+    "label": "TREATMENT",
+    "start": 2514,
+    "end": 2558
+  },
+  {
+    "entity": "Breast biopsy",
+    "label": "TEST",
+    "start": 2571,
+    "end": 2584
+  },
+  {
+    "entity": "Holter monitor",
+    "label": "TREATMENT",
+    "start": 2637,
+    "end": 2651
+  },
+  {
+    "entity": "ectopic beat",
+    "label": "PROBLEM",
+    "start": 2660,
+    "end": 2672
+  },
+  {
+    "entity": "Echocardiogram",
+    "label": "TEST",
+    "start": 2674,
+    "end": 2688
+  },
+  {
+    "entity": "Compression fracture of L1",
+    "label": "PROBLEM",
+    "start": 2724,
+    "end": 2750
+  },
+  {
+    "entity": "injury",
+    "label": "PROBLEM",
+    "start": 2782,
+    "end": 2788
+  },
+  {
+    "entity": "DEXA scan",
+    "label": "TEST",
+    "start": 2805,
+    "end": 2814
+  },
+  {
+    "entity": "overweight",
+    "label": "PROBLEM",
+    "start": 3086,
+    "end": 3096
+  },
+  {
+    "entity": "Vital signs",
+    "label": "TEST",
+    "start": 3098,
+    "end": 3109
+  },
+  {
+    "entity": "Weight",
+    "label": "TEST",
+    "start": 3111,
+    "end": 3117
+  },
+  {
+    "entity": "Blood pressure",
+    "label": "TEST",
+    "start": 3128,
+    "end": 3142
+  },
+  {
+    "entity": "Pulse",
+    "label": "TEST",
+    "start": 3207,
+    "end": 3212
+  },
+  {
+    "entity": "Respirations",
+    "label": "TEST",
+    "start": 3218,
+    "end": 3230
+  },
+  {
+    "entity": "Temperature",
+    "label": "TEST",
+    "start": 3236,
+    "end": 3247
+  },
+  {
+    "entity": "auscultation",
+    "label": "TEST",
+    "start": 3306,
+    "end": 3318
+  },
+  {
+    "entity": "rate",
+    "label": "TEST",
+    "start": 3355,
+    "end": 3359
+  },
+  {
+    "entity": "rhythm",
+    "label": "TEST",
+    "start": 3364,
+    "end": 3370
+  },
+  {
+    "entity": "murmur",
+    "label": "PROBLEM",
+    "start": 3379,
+    "end": 3385
+  },
+  {
+    "entity": "S3",
+    "label": "PROBLEM",
+    "start": 3387,
+    "end": 3389
+  },
+  {
+    "entity": "S4",
+    "label": "PROBLEM",
+    "start": 3394,
+    "end": 3396
+  },
+  {
+    "entity": "edema",
+    "label": "PROBLEM",
+    "start": 3423,
+    "end": 3428
+  },
+  {
+    "entity": "EKG",
+    "label": "TEST",
+    "start": 3469,
+    "end": 3472
+  },
+  {
+    "entity": "sinus rhythm",
+    "label": "TEST",
+    "start": 3489,
+    "end": 3501
+  },
+  {
+    "entity": "rate",
+    "label": "TEST",
+    "start": 3503,
+    "end": 3507
+  },
+  {
+    "entity": "borderline first degree AV block",
+    "label": "PROBLEM",
+    "start": 3512,
+    "end": 3544
+  },
+  {
+    "entity": "poor R-wave progression",
+    "label": "PROBLEM",
+    "start": 3550,
+    "end": 3573
+  },
+  {
+    "entity": "Hypertension",
+    "label": "PROBLEM",
+    "start": 3612,
+    "end": 3624
+  },
+  {
+    "entity": "cerebrovascular accident",
+    "label": "PROBLEM",
+    "start": 3664,
+    "end": 3688
+  },
+  {
+    "entity": "Compression fracture of L1",
+    "label": "PROBLEM",
+    "start": 3693,
+    "end": 3719
+  },
+  {
+    "entity": "Osteoarthritis of the knee",
+    "label": "PROBLEM",
+    "start": 3730,
+    "end": 3756
+  },
+  {
+    "entity": "Mildly abnormal chest x-ray",
+    "label": "PROBLEM",
+    "start": 3761,
+    "end": 3788
+  },
+  {
+    "entity": "a C-reactive protein cardiac",
+    "label": "TEST",
+    "start": 3811,
+    "end": 3839
+  },
+  {
+    "entity": "knee pain",
+    "label": "PROBLEM",
+    "start": 4047,
+    "end": 4056
+  },
+  {
+    "entity": "a screening colonoscopy",
+    "label": "TEST",
+    "start": 4080,
+    "end": 4103
+  },
+  {
+    "entity": "screening colonoscopy",
+    "label": "TEST",
+    "start": 4264,
+    "end": 4285
+  },
+  {
+    "entity": "Fosamax",
+    "label": "DRUG",
+    "start": 4304,
+    "end": 4311
+  },
+  {
+    "entity": "other medications",
+    "label": "DRUG",
+    "start": 4449,
+    "end": 4466
+  },
+  {
+    "entity": "Fosamax",
+    "label": "DRUG",
+    "start": 4504,
+    "end": 4511
+  },
+  {
+    "entity": "preoperative evaluation",
+    "label": "TEST",
+    "start": 4591,
+    "end": 4614
+  },
+  {
+    "entity": "mildly abnormal EKG",
+    "label": "PROBLEM",
+    "start": 4674,
+    "end": 4693
+  },
+  {
+    "entity": "preoperative cardiac testing",
+    "label": "TEST",
+    "start": 4698,
+    "end": 4726
+  },
+  {
+    "entity": "preoperative beta-blocker",
+    "label": "DRUG",
+    "start": 4752,
+    "end": 4777
+  },
+  {
+    "entity": "hypertension",
+    "label": "PROBLEM",
+    "start": 4855,
+    "end": 4867
+  },
+  {
+    "entity": "chest pain",
+    "label": "PROBLEM",
+    "start": 4869,
+    "end": 4879
+  },
+  {
+    "entity": "lightheadedness",
+    "label": "PROBLEM",
+    "start": 4881,
+    "end": 4896
+  },
+  {
+    "entity": "shortness of breath",
+    "label": "PROBLEM",
+    "start": 4898,
+    "end": 4917
+  },
+  {
+    "entity": "osteoporosis",
+    "label": "PROBLEM",
+    "start": 4919,
+    "end": 4931
+  },
+  {
+    "entity": "cerebrovascular accident",
+    "label": "PROBLEM",
+    "start": 4933,
+    "end": 4957
+  },
+  {
+    "entity": "compression fracture",
+    "label": "PROBLEM",
+    "start": 4959,
+    "end": 4979
+  },
+  {
+    "entity": "chest x-ray",
+    "label": "PROBLEM",
+    "start": 4981,
+    "end": 4992
+  },
+  {
+    "entity": "osteoarthritis of the knee",
+    "label": "PROBLEM",
+    "start": 4994,
+    "end": 5020
+  },
+  {
+    "entity": "dexa scan",
+    "label": "TEST",
+    "start": 5022,
+    "end": 5031
+  },
+  {
+    "entity": "osteoarthritis",
+    "label": "PROBLEM",
+    "start": 5039,
+    "end": 5053
+  }
+]

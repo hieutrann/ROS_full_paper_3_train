@@ -1,0 +1,389 @@
+[
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "transfusion": "TREATMENT"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "hemoglobin": "TEST"
+  },
+  {
+    "transfusion": "TREATMENT"
+  },
+  {
+    "Refractory anemia": "PROBLEM"
+  },
+  {
+    "transfusion": "TREATMENT"
+  },
+  {
+    "blood transfusion": "TREATMENT"
+  },
+  {
+    "diabetes": "PROBLEM"
+  },
+  {
+    "diabetes": "PROBLEM"
+  },
+  {
+    "kidney disease": "PROBLEM"
+  },
+  {
+    "heart disease": "PROBLEM"
+  },
+  {
+    "stroke": "PROBLEM"
+  },
+  {
+    "vision loss": "PROBLEM"
+  },
+  {
+    "neuropathy": "PROBLEM"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "hemoglobin": "TEST"
+  },
+  {
+    "transfusion": "TREATMENT"
+  },
+  {
+    "bleeding": "PROBLEM"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "blood transfusion": "TREATMENT"
+  },
+  {
+    "B12": "DRUG"
+  },
+  {
+    "oral iron": "DRUG"
+  },
+  {
+    "Procrit": "DRUG"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "fatigue": "PROBLEM"
+  },
+  {
+    "malaise": "PROBLEM"
+  },
+  {
+    "dyspnea": "PROBLEM"
+  },
+  {
+    "adenopathy": "PROBLEM"
+  },
+  {
+    "fevers": "PROBLEM"
+  },
+  {
+    "night sweats": "PROBLEM"
+  },
+  {
+    "bone pain": "PROBLEM"
+  },
+  {
+    "rash": "PROBLEM"
+  },
+  {
+    "arthralgias": "PROBLEM"
+  },
+  {
+    "myalgias": "PROBLEM"
+  },
+  {
+    "Diabetes": "PROBLEM"
+  },
+  {
+    "Hernia repair": "TREATMENT"
+  },
+  {
+    "allergies": "PROBLEM"
+  },
+  {
+    "Coumadin": "DRUG"
+  },
+  {
+    "Lasix": "DRUG"
+  },
+  {
+    "metformin": "DRUG"
+  },
+  {
+    "folic acid": "DRUG"
+  },
+  {
+    "diltiazem": "DRUG"
+  },
+  {
+    "B12": "DRUG"
+  },
+  {
+    "Prevacid": "DRUG"
+  },
+  {
+    "Feosol": "DRUG"
+  },
+  {
+    "tobacco user": "PROBLEM"
+  },
+  {
+    "He does not drink": "PROBLEM"
+  },
+  {
+    "blood disorders": "PROBLEM"
+  },
+  {
+    "cancer disorders": "PROBLEM"
+  },
+  {
+    "PHYSICAL EXAMINATION": "TEST"
+  },
+  {
+    "elderly gentleman": "PROBLEM"
+  },
+  {
+    "acute distress": "PROBLEM"
+  },
+  {
+    "alert": "PROBLEM"
+  },
+  {
+    "oriented": "PROBLEM"
+  },
+  {
+    "questions": "TEST"
+  },
+  {
+    "appropriately": "TREATMENT"
+  },
+  {
+    "Blood pressure": "TEST"
+  },
+  {
+    "pulse": "TEST"
+  },
+  {
+    "respiratory rate": "TEST"
+  },
+  {
+    "temperature": "TEST"
+  },
+  {
+    "69 inches": "TEST"
+  },
+  {
+    "174 pounds": "TEST"
+  },
+  {
+    "arcus senilis": "PROBLEM"
+  },
+  {
+    "Left": "PROBLEM"
+  },
+  {
+    "pupils": "TEST"
+  },
+  {
+    "Extraocular movements": "TEST"
+  },
+  {
+    "Oropharynx": "PROBLEM"
+  },
+  {
+    "NECK": "TEST"
+  },
+  {
+    "Trachea": "PROBLEM"
+  },
+  {
+    "jugular venous pressure distention": "PROBLEM"
+  },
+  {
+    "adenopathy": "PROBLEM"
+  },
+  {
+    "CHEST": "TEST"
+  },
+  {
+    "HEART": "TEST"
+  },
+  {
+    "ABDOMEN": "TEST"
+  },
+  {
+    "spleen": "PROBLEM"
+  },
+  {
+    "fullness": "PROBLEM"
+  },
+  {
+    "inspiration": "TEST"
+  },
+  {
+    "clubbing": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "cyanosis": "PROBLEM"
+  },
+  {
+    "NEUROLOGIC": "TEST"
+  },
+  {
+    "DERMATOLOGIC": "TEST"
+  },
+  {
+    "CARDIOVASCULAR": "PROBLEM"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "transfusion": "TREATMENT"
+  },
+  {
+    "B12": "DRUG"
+  },
+  {
+    "iron": "DRUG"
+  },
+  {
+    "folic acid": "DRUG"
+  },
+  {
+    "Procrit": "DRUG"
+  },
+  {
+    "esophagogastroduodenoscopy": "TEST"
+  },
+  {
+    "blood loss": "PROBLEM"
+  },
+  {
+    "esophagogastroduodenoscopy": "TEST"
+  },
+  {
+    "creatinine": "TEST"
+  },
+  {
+    "myelodysplastic syndrome": "PROBLEM"
+  },
+  {
+    "bone marrow failure": "PROBLEM"
+  },
+  {
+    "creatinine": "TEST"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "serologic evaluation": "TEST"
+  },
+  {
+    "reticulocyte count": "TEST"
+  },
+  {
+    "serum protein": "TEST"
+  },
+  {
+    "electrophoresis": "TEST"
+  },
+  {
+    "LDH": "TEST"
+  },
+  {
+    "B12": "TEST"
+  },
+  {
+    "folate": "TEST"
+  },
+  {
+    "erythropoietin level": "TEST"
+  },
+  {
+    "bone marrow aspiration": "TREATMENT"
+  },
+  {
+    "biopsy": "TREATMENT"
+  },
+  {
+    "procedure": "TREATMENT"
+  },
+  {
+    "refractory anemia": "PROBLEM"
+  },
+  {
+    "bone marrow": "TEST"
+  },
+  {
+    "therapeutic interventions": "TREATMENT"
+  },
+  {
+    "studies": "TEST"
+  },
+  {
+    "ultrasound": "TEST"
+  },
+  {
+    "spleen": "PROBLEM"
+  },
+  {
+    "hospitalization": "TREATMENT"
+  },
+  {
+    "electrophoresis": "TEST"
+  },
+  {
+    "ldh": "TEST"
+  },
+  {
+    "b12": "TEST"
+  },
+  {
+    "folate": "TEST"
+  },
+  {
+    "erythropoietin level": "TEST"
+  },
+  {
+    "reticulocyte count": "TEST"
+  },
+  {
+    "serum protein": "TEST"
+  },
+  {
+    "blood transfusion": "TREATMENT"
+  },
+  {
+    "refractory anemia": "PROBLEM"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "myalgias": "PROBLEM"
+  },
+  {
+    "bone marrow": "TEST"
+  },
+  {
+    "general medicine": "TEST"
+  }
+]

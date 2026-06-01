@@ -1,0 +1,62 @@
+[
+  {
+    "hip surgery": "PROBLEM"
+  },
+  {
+    "hip replacement": "PROBLEM"
+  },
+  {
+    "postoperative anemia": "PROBLEM"
+  },
+  {
+    "pain management": "TREATMENT"
+  },
+  {
+    "Oxycodone SR": "DRUG"
+  },
+  {
+    "Oxycodone IR": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Klonopin": "DRUG"
+  },
+  {
+    "Celebrex": "DRUG"
+  },
+  {
+    "Protonix": "DRUG"
+  },
+  {
+    "Dulcolax": "DRUG"
+  },
+  {
+    "Lactulose": "DRUG"
+  },
+  {
+    "Colace": "DRUG"
+  },
+  {
+    "Arixtra": "DRUG"
+  },
+  {
+    "Coumadin": "DRUG"
+  },
+  {
+    "Feosol": "DRUG"
+  },
+  {
+    "Physical Therapy": "TREATMENT"
+  },
+  {
+    "Occupational Therapy": "TREATMENT"
+  },
+  {
+    "ice": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  }
+]

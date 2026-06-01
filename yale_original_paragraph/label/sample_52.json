@@ -1,0 +1,320 @@
+[
+  {
+    "entity": "pneumonia",
+    "label": "PROBLEM",
+    "start": 366,
+    "end": 375
+  },
+  {
+    "entity": "severe orthopnea",
+    "label": "PROBLEM",
+    "start": 404,
+    "end": 420
+  },
+  {
+    "entity": "paroxysmal nocturnal dyspnea",
+    "label": "PROBLEM",
+    "start": 422,
+    "end": 450
+  },
+  {
+    "entity": "cough",
+    "label": "PROBLEM",
+    "start": 452,
+    "end": 457
+  },
+  {
+    "entity": "greenish expectoration",
+    "label": "PROBLEM",
+    "start": 463,
+    "end": 485
+  },
+  {
+    "entity": "shortness of breath",
+    "label": "PROBLEM",
+    "start": 543,
+    "end": 562
+  },
+  {
+    "entity": "Coumadin",
+    "label": "DRUG",
+    "start": 592,
+    "end": 600
+  },
+  {
+    "entity": "atrial fibrillation",
+    "label": "PROBLEM",
+    "start": 670,
+    "end": 689
+  },
+  {
+    "entity": "ischemic heart disease",
+    "label": "PROBLEM",
+    "start": 728,
+    "end": 750
+  },
+  {
+    "entity": "end-stage LV systolic dysfunction",
+    "label": "PROBLEM",
+    "start": 752,
+    "end": 785
+  },
+  {
+    "entity": "ICD implantation",
+    "label": "TREATMENT",
+    "start": 806,
+    "end": 822
+  },
+  {
+    "entity": "Fasting blood sugar",
+    "label": "TEST",
+    "start": 825,
+    "end": 844
+  },
+  {
+    "entity": "Blood pressure",
+    "label": "TEST",
+    "start": 902,
+    "end": 916
+  },
+  {
+    "entity": "Respirations",
+    "label": "TEST",
+    "start": 929,
+    "end": 941
+  },
+  {
+    "entity": "Heart rate",
+    "label": "TEST",
+    "start": 958,
+    "end": 968
+  },
+  {
+    "entity": "irregular",
+    "label": "PROBLEM",
+    "start": 993,
+    "end": 1002
+  },
+  {
+    "entity": "Weight",
+    "label": "TEST",
+    "start": 1005,
+    "end": 1011
+  },
+  {
+    "entity": "anemia",
+    "label": "PROBLEM",
+    "start": 1074,
+    "end": 1080
+  },
+  {
+    "entity": "jaundice",
+    "label": "PROBLEM",
+    "start": 1084,
+    "end": 1092
+  },
+  {
+    "entity": "JVP",
+    "label": "TEST",
+    "start": 1133,
+    "end": 1136
+  },
+  {
+    "entity": "Severe inspiratory",
+    "label": "PROBLEM",
+    "start": 1181,
+    "end": 1199
+  },
+  {
+    "entity": "expiratory wheezing",
+    "label": "PROBLEM",
+    "start": 1204,
+    "end": 1223
+  },
+  {
+    "entity": "Fine crepitations",
+    "label": "PROBLEM",
+    "start": 1259,
+    "end": 1276
+  },
+  {
+    "entity": "First and second heart sounds",
+    "label": "TEST",
+    "start": 1421,
+    "end": 1450
+  },
+  {
+    "entity": "a II/VI systolic murmur",
+    "label": "PROBLEM",
+    "start": 1486,
+    "end": 1509
+  },
+  {
+    "entity": "hepatosplenomegaly",
+    "label": "PROBLEM",
+    "start": 1563,
+    "end": 1581
+  },
+  {
+    "entity": "1+ pedal edema",
+    "label": "PROBLEM",
+    "start": 1609,
+    "end": 1623
+  },
+  {
+    "entity": "Ambien",
+    "label": "DRUG",
+    "start": 1642,
+    "end": 1648
+  },
+  {
+    "entity": "Coumadin",
+    "label": "DRUG",
+    "start": 1677,
+    "end": 1685
+  },
+  {
+    "entity": "Diovan",
+    "label": "DRUG",
+    "start": 1704,
+    "end": 1710
+  },
+  {
+    "entity": "Lantus insulin",
+    "label": "DRUG",
+    "start": 1729,
+    "end": 1743
+  },
+  {
+    "entity": "Lasix",
+    "label": "DRUG",
+    "start": 1773,
+    "end": 1778
+  },
+  {
+    "entity": "Novolin R",
+    "label": "DRUG",
+    "start": 1796,
+    "end": 1805
+  },
+  {
+    "entity": "Toprol XL",
+    "label": "DRUG",
+    "start": 1817,
+    "end": 1826
+  },
+  {
+    "entity": "Flovent",
+    "label": "DRUG",
+    "start": 1845,
+    "end": 1852
+  },
+  {
+    "entity": "Atherosclerotic coronary vascular disease",
+    "label": "PROBLEM",
+    "start": 1889,
+    "end": 1930
+  },
+  {
+    "entity": "old myocardial infarction",
+    "label": "PROBLEM",
+    "start": 1936,
+    "end": 1961
+  },
+  {
+    "entity": "Moderate to severe LV systolic dysfunction",
+    "label": "PROBLEM",
+    "start": 1967,
+    "end": 2009
+  },
+  {
+    "entity": "Diabetes mellitus",
+    "label": "PROBLEM",
+    "start": 2015,
+    "end": 2032
+  },
+  {
+    "entity": "Diabetic nephropathy",
+    "label": "PROBLEM",
+    "start": 2038,
+    "end": 2058
+  },
+  {
+    "entity": "renal failure",
+    "label": "PROBLEM",
+    "start": 2063,
+    "end": 2076
+  },
+  {
+    "entity": "ICD implantation",
+    "label": "TREATMENT",
+    "start": 2094,
+    "end": 2110
+  },
+  {
+    "entity": "atrial fibrillation",
+    "label": "PROBLEM",
+    "start": 2129,
+    "end": 2148
+  },
+  {
+    "entity": "Chronic Coumadin therapy",
+    "label": "DRUG",
+    "start": 2154,
+    "end": 2178
+  },
+  {
+    "entity": "therapy",
+    "label": "TREATMENT",
+    "start": 2207,
+    "end": 2214
+  },
+  {
+    "entity": "pneumonia",
+    "label": "PROBLEM",
+    "start": 2299,
+    "end": 2308
+  },
+  {
+    "entity": "atherosclerotic coronary vascular disease",
+    "label": "PROBLEM",
+    "start": 2310,
+    "end": 2351
+  },
+  {
+    "entity": "icd implantation",
+    "label": "TREATMENT",
+    "start": 2353,
+    "end": 2369
+  },
+  {
+    "entity": "atrial fibrillation",
+    "label": "PROBLEM",
+    "start": 2371,
+    "end": 2390
+  },
+  {
+    "entity": "myocardial infarction",
+    "label": "PROBLEM",
+    "start": 2392,
+    "end": 2413
+  },
+  {
+    "entity": "orthopnea",
+    "label": "PROBLEM",
+    "start": 2429,
+    "end": 2438
+  },
+  {
+    "entity": "paroxysmal nocturnal dyspnea",
+    "label": "PROBLEM",
+    "start": 2440,
+    "end": 2468
+  },
+  {
+    "entity": "shortness of breath",
+    "label": "PROBLEM",
+    "start": 2470,
+    "end": 2489
+  }
+]

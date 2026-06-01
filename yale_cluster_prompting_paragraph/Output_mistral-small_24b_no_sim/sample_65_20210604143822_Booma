@@ -1,0 +1,176 @@
+[
+  {
+    "vital signs": "TEST"
+  },
+  {
+    "afebrile": "PROBLEM"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "heart rate": "TEST"
+  },
+  {
+    "eyes": "PROBLEM"
+  },
+  {
+    "conjunctiva": "PROBLEM"
+  },
+  {
+    "pupil": "PROBLEM"
+  },
+  {
+    "ptosis": "PROBLEM"
+  },
+  {
+    "irides": "PROBLEM"
+  },
+  {
+    "ears": "PROBLEM"
+  },
+  {
+    "nose": "PROBLEM"
+  },
+  {
+    "hearing": "PROBLEM"
+  },
+  {
+    "oropharynx": "PROBLEM"
+  },
+  {
+    "mucosa": "PROBLEM"
+  },
+  {
+    "lesion": "PROBLEM"
+  },
+  {
+    "palate": "PROBLEM"
+  },
+  {
+    "tongue": "PROBLEM"
+  },
+  {
+    "tonsil": "PROBLEM"
+  },
+  {
+    "posterior pharynx": "PROBLEM"
+  },
+  {
+    "neck": "PROBLEM"
+  },
+  {
+    "thyroid gland": "PROBLEM"
+  },
+  {
+    "respiratory effort": "PROBLEM"
+  },
+  {
+    "lung": "PROBLEM"
+  },
+  {
+    "heart": "PROBLEM"
+  },
+  {
+    "S1": "TEST"
+  },
+  {
+    "S2": "TEST"
+  },
+  {
+    "rate": "TEST"
+  },
+  {
+    "murmur": "PROBLEM"
+  },
+  {
+    "extremities": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "breasts": "PROBLEM"
+  },
+  {
+    "nipple discharge": "PROBLEM"
+  },
+  {
+    "axilla": "PROBLEM"
+  },
+  {
+    "mass": "PROBLEM"
+  },
+  {
+    "abdomen": "PROBLEM"
+  },
+  {
+    "bowel sounds": "TEST"
+  },
+  {
+    "liver": "PROBLEM"
+  },
+  {
+    "spleen": "PROBLEM"
+  },
+  {
+    "external genitalia": "PROBLEM"
+  },
+  {
+    "pelvic exam": "TEST"
+  },
+  {
+    "adnexal masses": "PROBLEM"
+  },
+  {
+    "uterus": "PROBLEM"
+  },
+  {
+    "cervical motion tenderness": "PROBLEM"
+  },
+  {
+    "node": "PROBLEM"
+  },
+  {
+    "groin": "PROBLEM"
+  },
+  {
+    "head": "PROBLEM"
+  },
+  {
+    "deformity": "PROBLEM"
+  },
+  {
+    "range of motion": "TEST"
+  },
+  {
+    "upper extremities": "PROBLEM"
+  },
+  {
+    "lower extremities": "PROBLEM"
+  },
+  {
+    "skin": "PROBLEM"
+  },
+  {
+    "subcutaneous tissues": "PROBLEM"
+  },
+  {
+    "deep tendon reflexes": "TEST"
+  },
+  {
+    "patellar area": "PROBLEM"
+  },
+  {
+    "sensation": "PROBLEM"
+  },
+  {
+    "touch": "TEST"
+  },
+  {
+    "judgment": "PROBLEM"
+  },
+  {
+    "insight": "PROBLEM"
+  }
+]

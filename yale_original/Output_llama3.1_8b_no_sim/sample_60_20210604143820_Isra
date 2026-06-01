@@ -1,0 +1,203 @@
+[
+  {
+    "Upper respiratory illness": "PROBLEM"
+  },
+  {
+    "apnea": "PROBLEM"
+  },
+  {
+    "pertussis": "PROBLEM"
+  },
+  {
+    "female": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "emesis": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "Upper respiratory illness": "PROBLEM"
+  },
+  {
+    "apnea": "PROBLEM"
+  },
+  {
+    "pertussis": "PROBLEM"
+  },
+  {
+    "Upper respiratory illness": "PROBLEM"
+  },
+  {
+    "apnea": "PROBLEM"
+  },
+  {
+    "pertussis": "PROBLEM"
+  },
+  {
+    "None": "PROBLEM"
+  },
+  {
+    "respiratory symptoms": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "emesis": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "amoxicillin": "DRUG"
+  },
+  {
+    "coughing": "PROBLEM"
+  },
+  {
+    "sats": "TEST"
+  },
+  {
+    "apnea": "PROBLEM"
+  },
+  {
+    "Rocephin": "DRUG"
+  },
+  {
+    "GENERAL": "TEST"
+  },
+  {
+    "nasal discharge": "PROBLEM"
+  },
+  {
+    "HEENT": "PROBLEM"
+  },
+  {
+    "rhonchi": "PROBLEM"
+  },
+  {
+    "retractions": "PROBLEM"
+  },
+  {
+    "coughing": "PROBLEM"
+  },
+  {
+    "apnea": "PROBLEM"
+  },
+  {
+    "ABDOMEN": "PROBLEM"
+  },
+  {
+    "cyanosis": "PROBLEM"
+  },
+  {
+    "CBC": "TEST"
+  },
+  {
+    "white count": "TEST"
+  },
+  {
+    "differential": "TEST"
+  },
+  {
+    "lymphs": "TEST"
+  },
+  {
+    "monos": "TEST"
+  },
+  {
+    "hemoglobin": "TEST"
+  },
+  {
+    "hematocrit": "TEST"
+  },
+  {
+    "platelets": "TEST"
+  },
+  {
+    "BMP": "TEST"
+  },
+  {
+    "An x-ray": "TEST"
+  },
+  {
+    "infiltrate": "PROBLEM"
+  },
+  {
+    "rapid influenza swab": "TEST"
+  },
+  {
+    "RSV": "TEST"
+  },
+  {
+    "pertussis PCR swab": "TEST"
+  },
+  {
+    "pertussis culture": "TEST"
+  },
+  {
+    "pertussis culture": "TEST"
+  },
+  {
+    "pertussis": "PROBLEM"
+  },
+  {
+    "afebrile": "PROBLEM"
+  },
+  {
+    "oxygen": "TREATMENT"
+  },
+  {
+    "fed": "PROBLEM"
+  },
+  {
+    "coughing": "PROBLEM"
+  },
+  {
+    "emesis": "PROBLEM"
+  },
+  {
+    "episodes": "PROBLEM"
+  },
+  {
+    "apnea": "PROBLEM"
+  },
+  {
+    "Zithromax": "DRUG"
+  },
+  {
+    "Zithromax": "DRUG"
+  },
+  {
+    "coughing": "PROBLEM"
+  },
+  {
+    "cyanosis": "PROBLEM"
+  },
+  {
+    "apnea": "PROBLEM"
+  },
+  {
+    "emesis": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "upper respiratory illness": "PROBLEM"
+  },
+  {
+    "respiratory illness": "PROBLEM"
+  },
+  {
+    "apnea": "PROBLEM"
+  },
+  {
+    "pertussis": "PROBLEM"
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "left renal cell carcinoma": "PROBLEM"
+  },
+  {
+    "left renal cyst": "PROBLEM"
+  },
+  {
+    "robotic - Assisted laparoscopic left renal cyst decortication": "TREATMENT"
+  },
+  {
+    "cystoscopy": "TEST"
+  },
+  {
+    "Chronic obstructive pulmonary disease": "PROBLEM"
+  },
+  {
+    "Coronary artery disease": "PROBLEM"
+  },
+  {
+    "MRI": "TEST"
+  },
+  {
+    "abdomen": "TEST"
+  },
+  {
+    "Left partial nephrectomy": "TREATMENT"
+  },
+  {
+    "Left radical nephrectomy": "TREATMENT"
+  },
+  {
+    "Left renal cyst decortication": "TREATMENT"
+  },
+  {
+    "renal cysts": "PROBLEM"
+  },
+  {
+    "cyst wall": "PROBLEM"
+  },
+  {
+    "cystic fluid": "PROBLEM"
+  },
+  {
+    "renal bed": "PROBLEM"
+  },
+  {
+    "hemostasis": "PROBLEM"
+  },
+  {
+    "JP drain": "PROBLEM"
+  },
+  {
+    "flexible cystoscopy": "TEST"
+  },
+  {
+    "penile": "PROBLEM"
+  },
+  {
+    "prostatic urethra": "PROBLEM"
+  },
+  {
+    "bladder": "PROBLEM"
+  },
+  {
+    "OR": "PROBLEM"
+  },
+  {
+    "PACU": "PROBLEM"
+  },
+  {
+    "postoperative": "PROBLEM"
+  },
+  {
+    "flatus": "PROBLEM"
+  },
+  {
+    "bowel movements": "PROBLEM"
+  },
+  {
+    "Jackson-Pratt drain": "PROBLEM"
+  },
+  {
+    "Foley catheter": "PROBLEM"
+  },
+  {
+    "voiding trial": "TEST"
+  },
+  {
+    "discharge": "PROBLEM"
+  },
+  {
+    "afebrile": "PROBLEM"
+  },
+  {
+    "vital signs": "TEST"
+  },
+  {
+    "hemodynamic stability": "PROBLEM"
+  },
+  {
+    "infection": "PROBLEM"
+  },
+  {
+    "pain medications": "DRUG"
+  },
+  {
+    "laxative": "DRUG"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "intractable pain": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "concerns": "PROBLEM"
+  },
+  {
+    "postoperative check": "PROBLEM"
+  }
+]

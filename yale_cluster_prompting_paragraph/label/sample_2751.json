@@ -1,0 +1,818 @@
+[
+  {
+    "entity": "Toothache",
+    "label": "PROBLEM",
+    "start": 63,
+    "end": 72
+  },
+  {
+    "entity": "multiple problems with his teeth",
+    "label": "PROBLEM",
+    "start": 113,
+    "end": 145
+  },
+  {
+    "entity": "extensive dental disease",
+    "label": "PROBLEM",
+    "start": 153,
+    "end": 177
+  },
+  {
+    "entity": "many of his teeth pulled",
+    "label": "TREATMENT",
+    "start": 190,
+    "end": 214
+  },
+  {
+    "entity": "new tooth pain to both upper and lower teeth on the left side",
+    "label": "PROBLEM",
+    "start": 233,
+    "end": 294
+  },
+  {
+    "entity": "Toothache",
+    "label": "PROBLEM",
+    "start": 381,
+    "end": 390
+  },
+  {
+    "entity": "multiple problems with his teeth",
+    "label": "PROBLEM",
+    "start": 459,
+    "end": 491
+  },
+  {
+    "entity": "extensive dental disease",
+    "label": "PROBLEM",
+    "start": 499,
+    "end": 523
+  },
+  {
+    "entity": "many of his teeth pulled",
+    "label": "TREATMENT",
+    "start": 536,
+    "end": 560
+  },
+  {
+    "entity": "new tooth pain",
+    "label": "PROBLEM",
+    "start": 575,
+    "end": 589
+  },
+  {
+    "entity": "his current toothache",
+    "label": "PROBLEM",
+    "start": 610,
+    "end": 631
+  },
+  {
+    "entity": "any other problems",
+    "label": "PROBLEM",
+    "start": 948,
+    "end": 966
+  },
+  {
+    "entity": "complaints",
+    "label": "PROBLEM",
+    "start": 970,
+    "end": 980
+  },
+  {
+    "entity": "any recent illness",
+    "label": "PROBLEM",
+    "start": 1001,
+    "end": 1019
+  },
+  {
+    "entity": "injuries",
+    "label": "PROBLEM",
+    "start": 1023,
+    "end": 1031
+  },
+  {
+    "entity": "OxyContin",
+    "label": "DRUG",
+    "start": 1055,
+    "end": 1064
+  },
+  {
+    "entity": "Vicodin",
+    "label": "DRUG",
+    "start": 1069,
+    "end": 1076
+  },
+  {
+    "entity": "his knee pain",
+    "label": "PROBLEM",
+    "start": 1103,
+    "end": 1116
+  },
+  {
+    "entity": "more pain medicines",
+    "label": "DRUG",
+    "start": 1130,
+    "end": 1149
+  },
+  {
+    "entity": "that medicine",
+    "label": "DRUG",
+    "start": 1185,
+    "end": 1198
+  },
+  {
+    "entity": "his toothache",
+    "label": "PROBLEM",
+    "start": 1203,
+    "end": 1216
+  },
+  {
+    "entity": "fever",
+    "label": "PROBLEM",
+    "start": 1290,
+    "end": 1295
+  },
+  {
+    "entity": "chills",
+    "label": "PROBLEM",
+    "start": 1299,
+    "end": 1305
+  },
+  {
+    "entity": "fatigue",
+    "label": "PROBLEM",
+    "start": 1310,
+    "end": 1317
+  },
+  {
+    "entity": "weakness",
+    "label": "PROBLEM",
+    "start": 1321,
+    "end": 1329
+  },
+  {
+    "entity": "weight change",
+    "label": "PROBLEM",
+    "start": 1341,
+    "end": 1354
+  },
+  {
+    "entity": "headache",
+    "label": "PROBLEM",
+    "start": 1366,
+    "end": 1374
+  },
+  {
+    "entity": "neck pain",
+    "label": "PROBLEM",
+    "start": 1379,
+    "end": 1388
+  },
+  {
+    "entity": "toothache pain",
+    "label": "PROBLEM",
+    "start": 1394,
+    "end": 1408
+  },
+  {
+    "entity": "throat swelling",
+    "label": "PROBLEM",
+    "start": 1470,
+    "end": 1485
+  },
+  {
+    "entity": "sore throat",
+    "label": "PROBLEM",
+    "start": 1490,
+    "end": 1501
+  },
+  {
+    "entity": "difficulty swallowing solids or liquids",
+    "label": "PROBLEM",
+    "start": 1506,
+    "end": 1545
+  },
+  {
+    "entity": "any rhinorrhea",
+    "label": "PROBLEM",
+    "start": 1566,
+    "end": 1580
+  },
+  {
+    "entity": "sinus congestion",
+    "label": "PROBLEM",
+    "start": 1585,
+    "end": 1601
+  },
+  {
+    "entity": "pressure",
+    "label": "PROBLEM",
+    "start": 1603,
+    "end": 1611
+  },
+  {
+    "entity": "pain",
+    "label": "PROBLEM",
+    "start": 1615,
+    "end": 1619
+  },
+  {
+    "entity": "ear pain",
+    "label": "PROBLEM",
+    "start": 1624,
+    "end": 1632
+  },
+  {
+    "entity": "hearing change",
+    "label": "PROBLEM",
+    "start": 1637,
+    "end": 1651
+  },
+  {
+    "entity": "eye pain",
+    "label": "PROBLEM",
+    "start": 1656,
+    "end": 1664
+  },
+  {
+    "entity": "vision change",
+    "label": "PROBLEM",
+    "start": 1668,
+    "end": 1681
+  },
+  {
+    "entity": "chest pain",
+    "label": "PROBLEM",
+    "start": 1702,
+    "end": 1712
+  },
+  {
+    "entity": "shortness of breath",
+    "label": "PROBLEM",
+    "start": 1731,
+    "end": 1750
+  },
+  {
+    "entity": "cough",
+    "label": "PROBLEM",
+    "start": 1754,
+    "end": 1759
+  },
+  {
+    "entity": "abdominal pain",
+    "label": "PROBLEM",
+    "start": 1782,
+    "end": 1796
+  },
+  {
+    "entity": "nausea",
+    "label": "PROBLEM",
+    "start": 1801,
+    "end": 1807
+  },
+  {
+    "entity": "vomiting",
+    "label": "PROBLEM",
+    "start": 1811,
+    "end": 1819
+  },
+  {
+    "entity": "dysuria",
+    "label": "PROBLEM",
+    "start": 1839,
+    "end": 1846
+  },
+  {
+    "entity": "back pain",
+    "label": "PROBLEM",
+    "start": 1868,
+    "end": 1877
+  },
+  {
+    "entity": "muscle or joint aches",
+    "label": "PROBLEM",
+    "start": 1882,
+    "end": 1903
+  },
+  {
+    "entity": "rashes",
+    "label": "PROBLEM",
+    "start": 1914,
+    "end": 1920
+  },
+  {
+    "entity": "lesions",
+    "label": "PROBLEM",
+    "start": 1924,
+    "end": 1931
+  },
+  {
+    "entity": "vision or hearing change",
+    "label": "PROBLEM",
+    "start": 1948,
+    "end": 1972
+  },
+  {
+    "entity": "focal weakness",
+    "label": "PROBLEM",
+    "start": 1977,
+    "end": 1991
+  },
+  {
+    "entity": "numbness",
+    "label": "PROBLEM",
+    "start": 1995,
+    "end": 2003
+  },
+  {
+    "entity": "lymph node swelling",
+    "label": "PROBLEM",
+    "start": 2046,
+    "end": 2065
+  },
+  {
+    "entity": "Chronic knee pain",
+    "label": "PROBLEM",
+    "start": 2104,
+    "end": 2121
+  },
+  {
+    "entity": "OxyContin",
+    "label": "DRUG",
+    "start": 2144,
+    "end": 2153
+  },
+  {
+    "entity": "Vicodin",
+    "label": "DRUG",
+    "start": 2158,
+    "end": 2165
+  },
+  {
+    "entity": "ALLERGIES",
+    "label": "PROBLEM",
+    "start": 2167,
+    "end": 2176
+  },
+  {
+    "entity": "PENICILLIN",
+    "label": "DRUG",
+    "start": 2178,
+    "end": 2188
+  },
+  {
+    "entity": "CODEINE",
+    "label": "DRUG",
+    "start": 2193,
+    "end": 2200
+  },
+  {
+    "entity": "Temperature",
+    "label": "TEST",
+    "start": 2284,
+    "end": 2295
+  },
+  {
+    "entity": "blood pressure",
+    "label": "TEST",
+    "start": 2307,
+    "end": 2321
+  },
+  {
+    "entity": "pulse",
+    "label": "TEST",
+    "start": 2333,
+    "end": 2338
+  },
+  {
+    "entity": "respirations",
+    "label": "TEST",
+    "start": 2346,
+    "end": 2358
+  },
+  {
+    "entity": "oxygen saturation",
+    "label": "TEST",
+    "start": 2363,
+    "end": 2380
+  },
+  {
+    "entity": "a little overweight",
+    "label": "PROBLEM",
+    "start": 2505,
+    "end": 2524
+  },
+  {
+    "entity": "acute distress",
+    "label": "PROBLEM",
+    "start": 2602,
+    "end": 2616
+  },
+  {
+    "entity": "icterus",
+    "label": "PROBLEM",
+    "start": 2757,
+    "end": 2764
+  },
+  {
+    "entity": "injection",
+    "label": "PROBLEM",
+    "start": 2766,
+    "end": 2775
+  },
+  {
+    "entity": "discharge",
+    "label": "PROBLEM",
+    "start": 2780,
+    "end": 2789
+  },
+  {
+    "entity": "light sensitivity",
+    "label": "PROBLEM",
+    "start": 2883,
+    "end": 2900
+  },
+  {
+    "entity": "photophobia",
+    "label": "PROBLEM",
+    "start": 2904,
+    "end": 2915
+  },
+  {
+    "entity": "Extraocular motions",
+    "label": "TEST",
+    "start": 2917,
+    "end": 2936
+  },
+  {
+    "entity": "any sign of infection",
+    "label": "PROBLEM",
+    "start": 2997,
+    "end": 3018
+  },
+  {
+    "entity": "erythema",
+    "label": "PROBLEM",
+    "start": 3032,
+    "end": 3040
+  },
+  {
+    "entity": "swelling of canals",
+    "label": "PROBLEM",
+    "start": 3042,
+    "end": 3060
+  },
+  {
+    "entity": "any erythema",
+    "label": "PROBLEM",
+    "start": 3100,
+    "end": 3112
+  },
+  {
+    "entity": "bulging",
+    "label": "PROBLEM",
+    "start": 3114,
+    "end": 3121
+  },
+  {
+    "entity": "fluid levels",
+    "label": "PROBLEM",
+    "start": 3125,
+    "end": 3137
+  },
+  {
+    "entity": "bubbles",
+    "label": "PROBLEM",
+    "start": 3141,
+    "end": 3148
+  },
+  {
+    "entity": "rhinorrhea",
+    "label": "PROBLEM",
+    "start": 3183,
+    "end": 3193
+  },
+  {
+    "entity": "audible congestion",
+    "label": "PROBLEM",
+    "start": 3197,
+    "end": 3215
+  },
+  {
+    "entity": "tenderness over the sinuses",
+    "label": "PROBLEM",
+    "start": 3229,
+    "end": 3256
+  },
+  {
+    "entity": "range of motion",
+    "label": "TEST",
+    "start": 3292,
+    "end": 3307
+  },
+  {
+    "entity": "meningismus",
+    "label": "PROBLEM",
+    "start": 3321,
+    "end": 3332
+  },
+  {
+    "entity": "cervical lymphadenopathy",
+    "label": "PROBLEM",
+    "start": 3337,
+    "end": 3361
+  },
+  {
+    "entity": "JVD",
+    "label": "PROBLEM",
+    "start": 3366,
+    "end": 3369
+  },
+  {
+    "entity": "multiple denture",
+    "label": "PROBLEM",
+    "start": 3398,
+    "end": 3414
+  },
+  {
+    "entity": "multiple dental caries",
+    "label": "PROBLEM",
+    "start": 3419,
+    "end": 3441
+  },
+  {
+    "entity": "tenderness to tooth #12 as well as tooth #21.",
+    "label": "PROBLEM",
+    "start": 3459,
+    "end": 3504
+  },
+  {
+    "entity": "erythema",
+    "label": "PROBLEM",
+    "start": 3546,
+    "end": 3554
+  },
+  {
+    "entity": "swelling",
+    "label": "PROBLEM",
+    "start": 3558,
+    "end": 3566
+  },
+  {
+    "entity": "purulent or other discharge",
+    "label": "PROBLEM",
+    "start": 3580,
+    "end": 3607
+  },
+  {
+    "entity": "fluctuance",
+    "label": "PROBLEM",
+    "start": 3627,
+    "end": 3637
+  },
+  {
+    "entity": "abscess",
+    "label": "PROBLEM",
+    "start": 3655,
+    "end": 3662
+  },
+  {
+    "entity": "new dental fractures",
+    "label": "PROBLEM",
+    "start": 3677,
+    "end": 3697
+  },
+  {
+    "entity": "infection",
+    "label": "PROBLEM",
+    "start": 3744,
+    "end": 3753
+  },
+  {
+    "entity": "erythema",
+    "label": "PROBLEM",
+    "start": 3767,
+    "end": 3775
+  },
+  {
+    "entity": "exudate",
+    "label": "PROBLEM",
+    "start": 3777,
+    "end": 3784
+  },
+  {
+    "entity": "lesion",
+    "label": "PROBLEM",
+    "start": 3786,
+    "end": 3792
+  },
+  {
+    "entity": "swelling",
+    "label": "PROBLEM",
+    "start": 3796,
+    "end": 3804
+  },
+  {
+    "entity": "any abscess",
+    "label": "PROBLEM",
+    "start": 3908,
+    "end": 3919
+  },
+  {
+    "entity": "Ludwig's syndrome",
+    "label": "PROBLEM",
+    "start": 3935,
+    "end": 3952
+  },
+  {
+    "entity": "rate",
+    "label": "TEST",
+    "start": 3987,
+    "end": 3991
+  },
+  {
+    "entity": "rhythm",
+    "label": "TEST",
+    "start": 3996,
+    "end": 4002
+  },
+  {
+    "entity": "murmur",
+    "label": "PROBLEM",
+    "start": 4011,
+    "end": 4017
+  },
+  {
+    "entity": "rub",
+    "label": "PROBLEM",
+    "start": 4019,
+    "end": 4022
+  },
+  {
+    "entity": "gallop",
+    "label": "PROBLEM",
+    "start": 4027,
+    "end": 4033
+  },
+  {
+    "entity": "auscultation",
+    "label": "TEST",
+    "start": 4058,
+    "end": 4070
+  },
+  {
+    "entity": "shortness of breath",
+    "label": "PROBLEM",
+    "start": 4091,
+    "end": 4110
+  },
+  {
+    "entity": "abnormalities",
+    "label": "PROBLEM",
+    "start": 4183,
+    "end": 4196
+  },
+  {
+    "entity": "rashes",
+    "label": "PROBLEM",
+    "start": 4287,
+    "end": 4293
+  },
+  {
+    "entity": "lesions",
+    "label": "PROBLEM",
+    "start": 4297,
+    "end": 4304
+  },
+  {
+    "entity": "cervical lymphadenopathy",
+    "label": "PROBLEM",
+    "start": 4563,
+    "end": 4587
+  },
+  {
+    "entity": "a pain shot",
+    "label": "TREATMENT",
+    "start": 4654,
+    "end": 4665
+  },
+  {
+    "entity": "Dilaudid",
+    "label": "DRUG",
+    "start": 4692,
+    "end": 4700
+  },
+  {
+    "entity": "any adverse reaction",
+    "label": "PROBLEM",
+    "start": 4720,
+    "end": 4740
+  },
+  {
+    "entity": "ODONTALGIA",
+    "label": "PROBLEM",
+    "start": 4756,
+    "end": 4766
+  },
+  {
+    "entity": "MULTIPLE DENTAL CARIES",
+    "label": "PROBLEM",
+    "start": 4771,
+    "end": 4793
+  },
+  {
+    "entity": "reevaluation",
+    "label": "TEST",
+    "start": 5035,
+    "end": 5047
+  },
+  {
+    "entity": "Percocet",
+    "label": "DRUG",
+    "start": 5106,
+    "end": 5114
+  },
+  {
+    "entity": "clindamycin",
+    "label": "DRUG",
+    "start": 5119,
+    "end": 5130
+  },
+  {
+    "entity": "toothache",
+    "label": "PROBLEM",
+    "start": 5253,
+    "end": 5262
+  },
+  {
+    "entity": "any worsening of his condition",
+    "label": "PROBLEM",
+    "start": 5398,
+    "end": 5428
+  },
+  {
+    "entity": "any other problems",
+    "label": "PROBLEM",
+    "start": 5440,
+    "end": 5458
+  },
+  {
+    "entity": "symptoms of concern",
+    "label": "PROBLEM",
+    "start": 5462,
+    "end": 5481
+  },
+  {
+    "entity": "multiple dental caries",
+    "label": "PROBLEM",
+    "start": 5522,
+    "end": 5544
+  },
+  {
+    "entity": "dental disease",
+    "label": "PROBLEM",
+    "start": 5555,
+    "end": 5569
+  },
+  {
+    "entity": "extensive dental disease",
+    "label": "PROBLEM",
+    "start": 5571,
+    "end": 5595
+  },
+  {
+    "entity": "teeth pulled",
+    "label": "TREATMENT",
+    "start": 5597,
+    "end": 5609
+  },
+  {
+    "entity": "cervical lymphadenopathy",
+    "label": "PROBLEM",
+    "start": 5624,
+    "end": 5648
+  },
+  {
+    "entity": "dental caries",
+    "label": "PROBLEM",
+    "start": 5650,
+    "end": 5663
+  },
+  {
+    "entity": "toothache",
+    "label": "PROBLEM",
+    "start": 5665,
+    "end": 5674
+  },
+  {
+    "entity": "erythema",
+    "label": "PROBLEM",
+    "start": 5676,
+    "end": 5684
+  },
+  {
+    "entity": "swelling",
+    "label": "PROBLEM",
+    "start": 5686,
+    "end": 5694
+  }
+]

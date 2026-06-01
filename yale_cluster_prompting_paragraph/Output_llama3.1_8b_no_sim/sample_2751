@@ -1,0 +1,65 @@
+[
+  {
+    "extensive dental disease": "PROBLEM"
+  },
+  {
+    "multiple dental caries": "PROBLEM"
+  },
+  {
+    "toothache": "PROBLEM"
+  },
+  {
+    "OxyContin": "DRUG"
+  },
+  {
+    "Vicodin": "DRUG"
+  },
+  {
+    "Percocet": "DRUG"
+  },
+  {
+    "clindamycin": "DRUG"
+  },
+  {
+    "Dilaudid": "DRUG"
+  },
+  {
+    "tooth #12": "TREATMENT"
+  },
+  {
+    "tooth #21": "TREATMENT"
+  },
+  {
+    "PAST MEDICAL HISTORY": "TREATMENT"
+  },
+  {
+    "CURRENT MEDICATIONS": "TREATMENT"
+  },
+  {
+    "ALLERGIES": "TREATMENT"
+  },
+  {
+    "SOCIAL HISTORY": "TREATMENT"
+  },
+  {
+    "PHYSICAL EXAMINATION": "TEST"
+  },
+  {
+    "VITAL SIGNS": "TEST"
+  },
+  {
+    "REVIEW OF SYSTEMS": "TEST"
+  },
+  {
+    "DIAGNOSES": "TEST"
+  },
+  {
+    "CONDITION UPON DISPOSITION": "TEST"
+  },
+  {
+    "DISPOSITION": "TEST"
+  },
+  {
+    "PLAN": "TEST"
+  }
+]

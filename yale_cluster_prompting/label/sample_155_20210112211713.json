@@ -1,0 +1,710 @@
+[
+  {
+    "entity": "Sepsis",
+    "label": "PROBLEM",
+    "start": 63,
+    "end": 69
+  },
+  {
+    "entity": "Sepsis",
+    "label": "PROBLEM",
+    "start": 93,
+    "end": 99
+  },
+  {
+    "entity": "a CT scan",
+    "label": "TEST",
+    "start": 131,
+    "end": 140
+  },
+  {
+    "entity": "dilated bladder",
+    "label": "PROBLEM",
+    "start": 146,
+    "end": 161
+  },
+  {
+    "entity": "thick wall",
+    "label": "PROBLEM",
+    "start": 167,
+    "end": 177
+  },
+  {
+    "entity": "an outlet obstruction",
+    "label": "PROBLEM",
+    "start": 189,
+    "end": 210
+  },
+  {
+    "entity": "bilateral hydronephrosis",
+    "label": "PROBLEM",
+    "start": 222,
+    "end": 246
+  },
+  {
+    "entity": "hydroureter",
+    "label": "PROBLEM",
+    "start": 251,
+    "end": 262
+  },
+  {
+    "entity": "Sepsis",
+    "label": "PROBLEM",
+    "start": 324,
+    "end": 330
+  },
+  {
+    "entity": "acute onset of abdominal pain",
+    "label": "PROBLEM",
+    "start": 465,
+    "end": 494
+  },
+  {
+    "entity": "a CT scan",
+    "label": "TEST",
+    "start": 549,
+    "end": 558
+  },
+  {
+    "entity": "dilated bladder",
+    "label": "PROBLEM",
+    "start": 564,
+    "end": 579
+  },
+  {
+    "entity": "thick wall",
+    "label": "PROBLEM",
+    "start": 585,
+    "end": 595
+  },
+  {
+    "entity": "an outlet obstruction",
+    "label": "PROBLEM",
+    "start": 607,
+    "end": 628
+  },
+  {
+    "entity": "bilateral hydronephrosis",
+    "label": "PROBLEM",
+    "start": 640,
+    "end": 664
+  },
+  {
+    "entity": "hydroureter",
+    "label": "PROBLEM",
+    "start": 669,
+    "end": 680
+  },
+  {
+    "entity": "antibiotics",
+    "label": "DRUG",
+    "start": 820,
+    "end": 831
+  },
+  {
+    "entity": "some hydration",
+    "label": "TREATMENT",
+    "start": 873,
+    "end": 887
+  },
+  {
+    "entity": "CAD",
+    "label": "PROBLEM",
+    "start": 925,
+    "end": 928
+  },
+  {
+    "entity": "dementia",
+    "label": "PROBLEM",
+    "start": 944,
+    "end": 952
+  },
+  {
+    "entity": "CVA",
+    "label": "PROBLEM",
+    "start": 968,
+    "end": 971
+  },
+  {
+    "entity": "nephrolithiasis",
+    "label": "PROBLEM",
+    "start": 987,
+    "end": 1002
+  },
+  {
+    "entity": "Ambien",
+    "label": "DRUG",
+    "start": 1037,
+    "end": 1043
+  },
+  {
+    "entity": "Milk of magnesia",
+    "label": "DRUG",
+    "start": 1048,
+    "end": 1064
+  },
+  {
+    "entity": "Tylenol",
+    "label": "DRUG",
+    "start": 1069,
+    "end": 1076
+  },
+  {
+    "entity": "Tramadol",
+    "label": "DRUG",
+    "start": 1081,
+    "end": 1089
+  },
+  {
+    "entity": "Soma",
+    "label": "DRUG",
+    "start": 1094,
+    "end": 1098
+  },
+  {
+    "entity": "Coumadin",
+    "label": "DRUG",
+    "start": 1103,
+    "end": 1111
+  },
+  {
+    "entity": "Zoloft",
+    "label": "DRUG",
+    "start": 1116,
+    "end": 1122
+  },
+  {
+    "entity": "Allopurinol",
+    "label": "DRUG",
+    "start": 1127,
+    "end": 1138
+  },
+  {
+    "entity": "Digoxin",
+    "label": "DRUG",
+    "start": 1143,
+    "end": 1150
+  },
+  {
+    "entity": "Namenda",
+    "label": "DRUG",
+    "start": 1156,
+    "end": 1163
+  },
+  {
+    "entity": "Zocor",
+    "label": "DRUG",
+    "start": 1169,
+    "end": 1174
+  },
+  {
+    "entity": "BuSpar",
+    "label": "DRUG",
+    "start": 1180,
+    "end": 1186
+  },
+  {
+    "entity": "Detrol",
+    "label": "DRUG",
+    "start": 1192,
+    "end": 1198
+  },
+  {
+    "entity": "Coreg",
+    "label": "DRUG",
+    "start": 1204,
+    "end": 1209
+  },
+  {
+    "entity": "Colace",
+    "label": "DRUG",
+    "start": 1215,
+    "end": 1221
+  },
+  {
+    "entity": "Calcium",
+    "label": "DRUG",
+    "start": 1227,
+    "end": 1234
+  },
+  {
+    "entity": "Zantac",
+    "label": "DRUG",
+    "start": 1240,
+    "end": 1246
+  },
+  {
+    "entity": "Lasix",
+    "label": "DRUG",
+    "start": 1252,
+    "end": 1257
+  },
+  {
+    "entity": "Seroquel",
+    "label": "DRUG",
+    "start": 1263,
+    "end": 1271
+  },
+  {
+    "entity": "Aldactone",
+    "label": "DRUG",
+    "start": 1277,
+    "end": 1286
+  },
+  {
+    "entity": "Amoxicillin",
+    "label": "DRUG",
+    "start": 1292,
+    "end": 1303
+  },
+  {
+    "entity": "drug",
+    "label": "DRUG",
+    "start": 1419,
+    "end": 1423
+  },
+  {
+    "entity": "VITAL SIGNS",
+    "label": "TEST",
+    "start": 1533,
+    "end": 1544
+  },
+  {
+    "entity": "Pulse",
+    "label": "TEST",
+    "start": 1581,
+    "end": 1586
+  },
+  {
+    "entity": "respirations",
+    "label": "TEST",
+    "start": 1591,
+    "end": 1603
+  },
+  {
+    "entity": "blood pressure",
+    "label": "TEST",
+    "start": 1608,
+    "end": 1622
+  },
+  {
+    "entity": "saturating",
+    "label": "TEST",
+    "start": 1635,
+    "end": 1645
+  },
+  {
+    "entity": "Not oriented x3",
+    "label": "TEST",
+    "start": 1694,
+    "end": 1709
+  },
+  {
+    "entity": "acute distress",
+    "label": "PROBLEM",
+    "start": 1717,
+    "end": 1731
+  },
+  {
+    "entity": "dry",
+    "label": "PROBLEM",
+    "start": 1861,
+    "end": 1864
+  },
+  {
+    "entity": "thyromegaly",
+    "label": "PROBLEM",
+    "start": 1883,
+    "end": 1894
+  },
+  {
+    "entity": "jugular venous distention",
+    "label": "PROBLEM",
+    "start": 1899,
+    "end": 1924
+  },
+  {
+    "entity": "Irregularly irregular",
+    "label": "PROBLEM",
+    "start": 1933,
+    "end": 1954
+  },
+  {
+    "entity": "brady",
+    "label": "PROBLEM",
+    "start": 1956,
+    "end": 1961
+  },
+  {
+    "entity": "auscultation",
+    "label": "TEST",
+    "start": 1979,
+    "end": 1991
+  },
+  {
+    "entity": "bowel sounds",
+    "label": "TEST",
+    "start": 2046,
+    "end": 2058
+  },
+  {
+    "entity": "Tenderness",
+    "label": "PROBLEM",
+    "start": 2066,
+    "end": 2076
+  },
+  {
+    "entity": "rebound",
+    "label": "PROBLEM",
+    "start": 2110,
+    "end": 2117
+  },
+  {
+    "entity": "clubbing",
+    "label": "PROBLEM",
+    "start": 2135,
+    "end": 2143
+  },
+  {
+    "entity": "cyanosis",
+    "label": "PROBLEM",
+    "start": 2145,
+    "end": 2153
+  },
+  {
+    "entity": "edema in upper and lower extremities",
+    "label": "PROBLEM",
+    "start": 2157,
+    "end": 2193
+  },
+  {
+    "entity": "focality",
+    "label": "PROBLEM",
+    "start": 2230,
+    "end": 2238
+  },
+  {
+    "entity": "CT of the abdomen",
+    "label": "TEST",
+    "start": 2269,
+    "end": 2286
+  },
+  {
+    "entity": "left inguinal hernia",
+    "label": "PROBLEM",
+    "start": 2293,
+    "end": 2313
+  },
+  {
+    "entity": "SBO",
+    "label": "PROBLEM",
+    "start": 2358,
+    "end": 2361
+  },
+  {
+    "entity": "dilated bladder",
+    "label": "PROBLEM",
+    "start": 2363,
+    "end": 2378
+  },
+  {
+    "entity": "thick wall",
+    "label": "PROBLEM",
+    "start": 2384,
+    "end": 2394
+  },
+  {
+    "entity": "outlet obstruction",
+    "label": "PROBLEM",
+    "start": 2405,
+    "end": 2423
+  },
+  {
+    "entity": "bilateral hydronephrosis",
+    "label": "PROBLEM",
+    "start": 2425,
+    "end": 2449
+  },
+  {
+    "entity": "hydroureter",
+    "label": "PROBLEM",
+    "start": 2454,
+    "end": 2465
+  },
+  {
+    "entity": "2.7 cm right adrenal gland mass",
+    "label": "PROBLEM",
+    "start": 2471,
+    "end": 2502
+  },
+  {
+    "entity": "White count",
+    "label": "TEST",
+    "start": 2504,
+    "end": 2515
+  },
+  {
+    "entity": "hemoglobin",
+    "label": "TEST",
+    "start": 2522,
+    "end": 2532
+  },
+  {
+    "entity": "platelet count",
+    "label": "TEST",
+    "start": 2543,
+    "end": 2557
+  },
+  {
+    "entity": "UA",
+    "label": "TEST",
+    "start": 2563,
+    "end": 2565
+  },
+  {
+    "entity": "WBCs",
+    "label": "TEST",
+    "start": 2589,
+    "end": 2593
+  },
+  {
+    "entity": "RBCs",
+    "label": "TEST",
+    "start": 2612,
+    "end": 2616
+  },
+  {
+    "entity": "leukocyte esterase",
+    "label": "TEST",
+    "start": 2626,
+    "end": 2644
+  },
+  {
+    "entity": "Sodium",
+    "label": "TEST",
+    "start": 2646,
+    "end": 2652
+  },
+  {
+    "entity": "potassium",
+    "label": "TEST",
+    "start": 2658,
+    "end": 2667
+  },
+  {
+    "entity": "chloride",
+    "label": "TEST",
+    "start": 2673,
+    "end": 2681
+  },
+  {
+    "entity": "CO2",
+    "label": "TEST",
+    "start": 2687,
+    "end": 2690
+  },
+  {
+    "entity": "BUN",
+    "label": "TEST",
+    "start": 2695,
+    "end": 2698
+  },
+  {
+    "entity": "creatinine",
+    "label": "TEST",
+    "start": 2707,
+    "end": 2717
+  },
+  {
+    "entity": "EKG",
+    "label": "TEST",
+    "start": 2723,
+    "end": 2726
+  },
+  {
+    "entity": "atrial fibrillation",
+    "label": "PROBLEM",
+    "start": 2733,
+    "end": 2752
+  },
+  {
+    "entity": "a very slow rate",
+    "label": "PROBLEM",
+    "start": 2756,
+    "end": 2772
+  },
+  {
+    "entity": "Urinary tract infection",
+    "label": "PROBLEM",
+    "start": 2797,
+    "end": 2820
+  },
+  {
+    "entity": "sepsis",
+    "label": "PROBLEM",
+    "start": 2826,
+    "end": 2832
+  },
+  {
+    "entity": "Obstructive uropathy",
+    "label": "PROBLEM",
+    "start": 2837,
+    "end": 2857
+  },
+  {
+    "entity": "Dementia",
+    "label": "PROBLEM",
+    "start": 2862,
+    "end": 2870
+  },
+  {
+    "entity": "Atrial fibrillation",
+    "label": "PROBLEM",
+    "start": 2875,
+    "end": 2894
+  },
+  {
+    "entity": "Anemia",
+    "label": "PROBLEM",
+    "start": 2899,
+    "end": 2905
+  },
+  {
+    "entity": "Adrenal gland mass",
+    "label": "PROBLEM",
+    "start": 2910,
+    "end": 2928
+  },
+  {
+    "entity": "Levaquin",
+    "label": "DRUG",
+    "start": 3040,
+    "end": 3048
+  },
+  {
+    "entity": "gentamicin",
+    "label": "DRUG",
+    "start": 3084,
+    "end": 3094
+  },
+  {
+    "entity": "IV fluids",
+    "label": "TREATMENT",
+    "start": 3123,
+    "end": 3132
+  },
+  {
+    "entity": "anticoagulation",
+    "label": "DRUG",
+    "start": 3168,
+    "end": 3183
+  },
+  {
+    "entity": "SCD",
+    "label": "TREATMENT",
+    "start": 3207,
+    "end": 3210
+  },
+  {
+    "entity": "TED hose",
+    "label": "TREATMENT",
+    "start": 3215,
+    "end": 3223
+  },
+  {
+    "entity": "slow atrial fibrillation",
+    "label": "PROBLEM",
+    "start": 3284,
+    "end": 3308
+  },
+  {
+    "entity": "rate control medications",
+    "label": "TREATMENT",
+    "start": 3319,
+    "end": 3343
+  },
+  {
+    "entity": "digoxin level",
+    "label": "TEST",
+    "start": 3354,
+    "end": 3367
+  },
+  {
+    "entity": "dementia medications",
+    "label": "DRUG",
+    "start": 3381,
+    "end": 3401
+  },
+  {
+    "entity": "PPI",
+    "label": "DRUG",
+    "start": 3406,
+    "end": 3409
+  },
+  {
+    "entity": "PUD prophylaxis",
+    "label": "TREATMENT",
+    "start": 3414,
+    "end": 3429
+  },
+  {
+    "entity": "abdominal pain",
+    "label": "PROBLEM",
+    "start": 3459,
+    "end": 3473
+  },
+  {
+    "entity": "hydronephrosis",
+    "label": "PROBLEM",
+    "start": 3475,
+    "end": 3489
+  },
+  {
+    "entity": "hydroureter",
+    "label": "PROBLEM",
+    "start": 3491,
+    "end": 3502
+  },
+  {
+    "entity": "urinary tract infection",
+    "label": "PROBLEM",
+    "start": 3513,
+    "end": 3536
+  },
+  {
+    "entity": "sepsis",
+    "label": "PROBLEM",
+    "start": 3542,
+    "end": 3548
+  },
+  {
+    "entity": "ct scan",
+    "label": "TEST",
+    "start": 3550,
+    "end": 3557
+  },
+  {
+    "entity": "dilated bladder",
+    "label": "PROBLEM",
+    "start": 3574,
+    "end": 3589
+  },
+  {
+    "entity": "bilateral hydronephrosis",
+    "label": "PROBLEM",
+    "start": 3591,
+    "end": 3615
+  },
+  {
+    "entity": "atrial fibrillation",
+    "label": "PROBLEM",
+    "start": 3617,
+    "end": 3636
+  },
+  {
+    "entity": "sepsis",
+    "label": "PROBLEM",
+    "start": 3638,
+    "end": 3644
+  }
+]

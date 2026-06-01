@@ -1,0 +1,710 @@
+[
+  {
+    "entity": "chronic kidney disease , stage 4",
+    "label": "PROBLEM",
+    "start": 141,
+    "end": 173
+  },
+  {
+    "entity": "diabetes mellitus",
+    "label": "PROBLEM",
+    "start": 186,
+    "end": 203
+  },
+  {
+    "entity": "diabetic nephropathy",
+    "label": "PROBLEM",
+    "start": 206,
+    "end": 226
+  },
+  {
+    "entity": "peripheral vascular disease",
+    "label": "PROBLEM",
+    "start": 229,
+    "end": 256
+  },
+  {
+    "entity": "PTA of right leg",
+    "label": "TREATMENT",
+    "start": 278,
+    "end": 294
+  },
+  {
+    "entity": "swelling of the right hand and left foot",
+    "label": "PROBLEM",
+    "start": 333,
+    "end": 373
+  },
+  {
+    "entity": "chronic kidney disease , stage 4",
+    "label": "PROBLEM",
+    "start": 505,
+    "end": 537
+  },
+  {
+    "entity": "diabetes mellitus",
+    "label": "PROBLEM",
+    "start": 551,
+    "end": 568
+  },
+  {
+    "entity": "diabetic nephropathy",
+    "label": "PROBLEM",
+    "start": 571,
+    "end": 591
+  },
+  {
+    "entity": "peripheral vascular disease",
+    "label": "PROBLEM",
+    "start": 594,
+    "end": 621
+  },
+  {
+    "entity": "PTA of right leg",
+    "label": "TREATMENT",
+    "start": 643,
+    "end": 659
+  },
+  {
+    "entity": "swelling of the right hand and left foot",
+    "label": "PROBLEM",
+    "start": 698,
+    "end": 738
+  },
+  {
+    "entity": "very swollen",
+    "label": "PROBLEM",
+    "start": 782,
+    "end": 794
+  },
+  {
+    "entity": "very painful",
+    "label": "PROBLEM",
+    "start": 797,
+    "end": 809
+  },
+  {
+    "entity": "very swollen",
+    "label": "PROBLEM",
+    "start": 870,
+    "end": 882
+  },
+  {
+    "entity": "very painful",
+    "label": "PROBLEM",
+    "start": 887,
+    "end": 899
+  },
+  {
+    "entity": "gout",
+    "label": "PROBLEM",
+    "start": 978,
+    "end": 982
+  },
+  {
+    "entity": "gouty attacks",
+    "label": "PROBLEM",
+    "start": 987,
+    "end": 1000
+  },
+  {
+    "entity": "chronic kidney disease",
+    "label": "PROBLEM",
+    "start": 1044,
+    "end": 1066
+  },
+  {
+    "entity": "Diabetes mellitus type 2",
+    "label": "PROBLEM",
+    "start": 1098,
+    "end": 1122
+  },
+  {
+    "entity": "Diabetic nephropathy",
+    "label": "PROBLEM",
+    "start": 1129,
+    "end": 1149
+  },
+  {
+    "entity": "Chronic kidney disease, stage 4",
+    "label": "PROBLEM",
+    "start": 1156,
+    "end": 1187
+  },
+  {
+    "entity": "Hypertension",
+    "label": "PROBLEM",
+    "start": 1193,
+    "end": 1205
+  },
+  {
+    "entity": "Hypercholesterolemia",
+    "label": "PROBLEM",
+    "start": 1212,
+    "end": 1232
+  },
+  {
+    "entity": "hyperlipidemia",
+    "label": "PROBLEM",
+    "start": 1237,
+    "end": 1251
+  },
+  {
+    "entity": "Peripheral vascular disease",
+    "label": "PROBLEM",
+    "start": 1258,
+    "end": 1285
+  },
+  {
+    "entity": "PTA of right lower extremity",
+    "label": "TREATMENT",
+    "start": 1317,
+    "end": 1345
+  },
+  {
+    "entity": "NovoLog",
+    "label": "DRUG",
+    "start": 1432,
+    "end": 1439
+  },
+  {
+    "entity": "Lantus",
+    "label": "DRUG",
+    "start": 1466,
+    "end": 1472
+  },
+  {
+    "entity": "Crestor",
+    "label": "DRUG",
+    "start": 1495,
+    "end": 1502
+  },
+  {
+    "entity": "Micardis",
+    "label": "DRUG",
+    "start": 1517,
+    "end": 1525
+  },
+  {
+    "entity": "Imdur",
+    "label": "DRUG",
+    "start": 1540,
+    "end": 1545
+  },
+  {
+    "entity": "Amlodipine",
+    "label": "DRUG",
+    "start": 1560,
+    "end": 1570
+  },
+  {
+    "entity": "Coreg",
+    "label": "DRUG",
+    "start": 1585,
+    "end": 1590
+  },
+  {
+    "entity": "Lasix",
+    "label": "DRUG",
+    "start": 1608,
+    "end": 1613
+  },
+  {
+    "entity": "Ecotrin",
+    "label": "DRUG",
+    "start": 1628,
+    "end": 1635
+  },
+  {
+    "entity": "calcitriol",
+    "label": "DRUG",
+    "start": 1655,
+    "end": 1665
+  },
+  {
+    "entity": "very swollen",
+    "label": "PROBLEM",
+    "start": 1785,
+    "end": 1797
+  },
+  {
+    "entity": "very painful",
+    "label": "PROBLEM",
+    "start": 1802,
+    "end": 1814
+  },
+  {
+    "entity": "Foley",
+    "label": "TREATMENT",
+    "start": 1906,
+    "end": 1911
+  },
+  {
+    "entity": "steroids",
+    "label": "DRUG",
+    "start": 1969,
+    "end": 1977
+  },
+  {
+    "entity": "colchicine",
+    "label": "DRUG",
+    "start": 1982,
+    "end": 1992
+  },
+  {
+    "entity": "the pain",
+    "label": "PROBLEM",
+    "start": 1999,
+    "end": 2007
+  },
+  {
+    "entity": "the swelling",
+    "label": "PROBLEM",
+    "start": 2025,
+    "end": 2037
+  },
+  {
+    "entity": "any fever",
+    "label": "PROBLEM",
+    "start": 2065,
+    "end": 2074
+  },
+  {
+    "entity": "chills",
+    "label": "PROBLEM",
+    "start": 2079,
+    "end": 2085
+  },
+  {
+    "entity": "any dysuria",
+    "label": "PROBLEM",
+    "start": 2095,
+    "end": 2106
+  },
+  {
+    "entity": "frequency",
+    "label": "PROBLEM",
+    "start": 2109,
+    "end": 2118
+  },
+  {
+    "entity": "hematuria",
+    "label": "PROBLEM",
+    "start": 2122,
+    "end": 2131
+  },
+  {
+    "entity": "the urine output",
+    "label": "TEST",
+    "start": 2146,
+    "end": 2162
+  },
+  {
+    "entity": "any cough",
+    "label": "PROBLEM",
+    "start": 2227,
+    "end": 2236
+  },
+  {
+    "entity": "hemoptysis",
+    "label": "PROBLEM",
+    "start": 2239,
+    "end": 2249
+  },
+  {
+    "entity": "sputum production",
+    "label": "PROBLEM",
+    "start": 2253,
+    "end": 2270
+  },
+  {
+    "entity": "any chest pain",
+    "label": "PROBLEM",
+    "start": 2280,
+    "end": 2294
+  },
+  {
+    "entity": "orthopnea",
+    "label": "PROBLEM",
+    "start": 2297,
+    "end": 2306
+  },
+  {
+    "entity": "paroxysmal nocturnal dyspnea",
+    "label": "PROBLEM",
+    "start": 2310,
+    "end": 2338
+  },
+  {
+    "entity": "acute distress",
+    "label": "PROBLEM",
+    "start": 2418,
+    "end": 2432
+  },
+  {
+    "entity": "Vital Signs",
+    "label": "TEST",
+    "start": 2436,
+    "end": 2447
+  },
+  {
+    "entity": "Blood pressure",
+    "label": "TEST",
+    "start": 2450,
+    "end": 2464
+  },
+  {
+    "entity": "temperature",
+    "label": "TEST",
+    "start": 2474,
+    "end": 2485
+  },
+  {
+    "entity": "pulse",
+    "label": "TEST",
+    "start": 2493,
+    "end": 2498
+  },
+  {
+    "entity": "respirations",
+    "label": "TEST",
+    "start": 2508,
+    "end": 2520
+  },
+  {
+    "entity": "The patient's weight",
+    "label": "TEST",
+    "start": 2525,
+    "end": 2545
+  },
+  {
+    "entity": "JVD",
+    "label": "PROBLEM",
+    "start": 2604,
+    "end": 2607
+  },
+  {
+    "entity": "adenopathy",
+    "label": "PROBLEM",
+    "start": 2613,
+    "end": 2623
+  },
+  {
+    "entity": "retractions",
+    "label": "PROBLEM",
+    "start": 2650,
+    "end": 2661
+  },
+  {
+    "entity": "RRR",
+    "label": "TEST",
+    "start": 2690,
+    "end": 2693
+  },
+  {
+    "entity": "murmur",
+    "label": "PROBLEM",
+    "start": 2702,
+    "end": 2708
+  },
+  {
+    "entity": "rebound",
+    "label": "PROBLEM",
+    "start": 2756,
+    "end": 2763
+  },
+  {
+    "entity": "guarding",
+    "label": "PROBLEM",
+    "start": 2769,
+    "end": 2777
+  },
+  {
+    "entity": "2+ pretibial edema bilaterally at the lower extremity",
+    "label": "PROBLEM",
+    "start": 2801,
+    "end": 2854
+  },
+  {
+    "entity": "swollen",
+    "label": "PROBLEM",
+    "start": 2928,
+    "end": 2935
+  },
+  {
+    "entity": "very tender",
+    "label": "PROBLEM",
+    "start": 2940,
+    "end": 2951
+  },
+  {
+    "entity": "urine culture",
+    "label": "TEST",
+    "start": 3035,
+    "end": 3048
+  },
+  {
+    "entity": "The patient's white cell",
+    "label": "TEST",
+    "start": 3074,
+    "end": 3098
+  },
+  {
+    "entity": "hematocrit",
+    "label": "TEST",
+    "start": 3109,
+    "end": 3119
+  },
+  {
+    "entity": "segs",
+    "label": "TEST",
+    "start": 3147,
+    "end": 3151
+  },
+  {
+    "entity": "bands",
+    "label": "TEST",
+    "start": 3159,
+    "end": 3164
+  },
+  {
+    "entity": "Serum sodium",
+    "label": "TEST",
+    "start": 3167,
+    "end": 3179
+  },
+  {
+    "entity": "potassium",
+    "label": "TEST",
+    "start": 3186,
+    "end": 3195
+  },
+  {
+    "entity": "chloride",
+    "label": "TEST",
+    "start": 3202,
+    "end": 3210
+  },
+  {
+    "entity": "bicarb",
+    "label": "TEST",
+    "start": 3217,
+    "end": 3223
+  },
+  {
+    "entity": "glucose",
+    "label": "TEST",
+    "start": 3229,
+    "end": 3236
+  },
+  {
+    "entity": "BUN",
+    "label": "TEST",
+    "start": 3243,
+    "end": 3246
+  },
+  {
+    "entity": "creatinine",
+    "label": "TEST",
+    "start": 3252,
+    "end": 3262
+  },
+  {
+    "entity": "calcium",
+    "label": "TEST",
+    "start": 3273,
+    "end": 3280
+  },
+  {
+    "entity": "uric acid",
+    "label": "TEST",
+    "start": 3291,
+    "end": 3300
+  },
+  {
+    "entity": "Sed rate",
+    "label": "TEST",
+    "start": 3321,
+    "end": 3329
+  },
+  {
+    "entity": "BNP",
+    "label": "TEST",
+    "start": 3339,
+    "end": 3342
+  },
+  {
+    "entity": "Urinalysis",
+    "label": "TEST",
+    "start": 3352,
+    "end": 3362
+  },
+  {
+    "entity": "white cells",
+    "label": "TEST",
+    "start": 3379,
+    "end": 3390
+  },
+  {
+    "entity": "protein",
+    "label": "TEST",
+    "start": 3396,
+    "end": 3403
+  },
+  {
+    "entity": "blood",
+    "label": "TEST",
+    "start": 3409,
+    "end": 3414
+  },
+  {
+    "entity": "red blood cells",
+    "label": "TEST",
+    "start": 3429,
+    "end": 3444
+  },
+  {
+    "entity": "Urinary tract infection",
+    "label": "PROBLEM",
+    "start": 3470,
+    "end": 3493
+  },
+  {
+    "entity": "Acute gouty attack",
+    "label": "PROBLEM",
+    "start": 3501,
+    "end": 3519
+  },
+  {
+    "entity": "Diabetes mellitus",
+    "label": "PROBLEM",
+    "start": 3527,
+    "end": 3544
+  },
+  {
+    "entity": "diabetic nephropathy",
+    "label": "PROBLEM",
+    "start": 3550,
+    "end": 3570
+  },
+  {
+    "entity": "Hypertension",
+    "label": "PROBLEM",
+    "start": 3578,
+    "end": 3590
+  },
+  {
+    "entity": "Hypercholesterolemia",
+    "label": "PROBLEM",
+    "start": 3598,
+    "end": 3618
+  },
+  {
+    "entity": "Peripheral vascular disease",
+    "label": "PROBLEM",
+    "start": 3626,
+    "end": 3653
+  },
+  {
+    "entity": "PTA in the right side",
+    "label": "TREATMENT",
+    "start": 3675,
+    "end": 3696
+  },
+  {
+    "entity": "Chronic kidney disease , stage 4",
+    "label": "PROBLEM",
+    "start": 3704,
+    "end": 3736
+  },
+  {
+    "entity": "allopurinol",
+    "label": "DRUG",
+    "start": 3800,
+    "end": 3811
+  },
+  {
+    "entity": "colchicine",
+    "label": "DRUG",
+    "start": 3873,
+    "end": 3883
+  },
+  {
+    "entity": "Micardis",
+    "label": "DRUG",
+    "start": 3915,
+    "end": 3923
+  },
+  {
+    "entity": "Lasix",
+    "label": "DRUG",
+    "start": 3943,
+    "end": 3948
+  },
+  {
+    "entity": "hypertension",
+    "label": "PROBLEM",
+    "start": 4038,
+    "end": 4050
+  },
+  {
+    "entity": "hypercholesterolemia",
+    "label": "PROBLEM",
+    "start": 4053,
+    "end": 4073
+  },
+  {
+    "entity": "hyperlipidemia",
+    "label": "PROBLEM",
+    "start": 4076,
+    "end": 4090
+  },
+  {
+    "entity": "pta",
+    "label": "TREATMENT",
+    "start": 4093,
+    "end": 4096
+  },
+  {
+    "entity": "gouty attack",
+    "label": "PROBLEM",
+    "start": 4099,
+    "end": 4111
+  },
+  {
+    "entity": "urinary tract infection",
+    "label": "PROBLEM",
+    "start": 4114,
+    "end": 4137
+  },
+  {
+    "entity": "peripheral vascular disease",
+    "label": "PROBLEM",
+    "start": 4140,
+    "end": 4167
+  },
+  {
+    "entity": "chronic kidney disease",
+    "label": "PROBLEM",
+    "start": 4170,
+    "end": 4192
+  },
+  {
+    "entity": "diabetes mellitus",
+    "label": "PROBLEM",
+    "start": 4195,
+    "end": 4212
+  },
+  {
+    "entity": "diabetic nephropathy",
+    "label": "PROBLEM",
+    "start": 4215,
+    "end": 4235
+  },
+  {
+    "entity": "disease",
+    "label": "PROBLEM",
+    "start": 4238,
+    "end": 4245
+  }
+]

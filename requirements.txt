@@ -1,0 +1,9 @@
+langchain_core==1.4.0
+langchain_ollama==1.1.0
+nltk==3.9.4
+numpy==2.4.6
+pandas==3.0.3
+scikit_learn==1.8.0
+sentence_transformers==5.4.1
+tiktoken==0.12.0
+torch==2.11.0

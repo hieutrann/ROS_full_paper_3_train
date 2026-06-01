@@ -1,0 +1,530 @@
+[
+  {
+    "entity": "fever",
+    "label": "PROBLEM",
+    "start": 111,
+    "end": 116
+  },
+  {
+    "entity": "Fever",
+    "label": "PROBLEM",
+    "start": 196,
+    "end": 201
+  },
+  {
+    "entity": "polymyositis",
+    "label": "PROBLEM",
+    "start": 289,
+    "end": 301
+  },
+  {
+    "entity": "dermatomyositis",
+    "label": "PROBLEM",
+    "start": 302,
+    "end": 317
+  },
+  {
+    "entity": "methotrexate",
+    "label": "DRUG",
+    "start": 321,
+    "end": 333
+  },
+  {
+    "entity": "prednisone",
+    "label": "DRUG",
+    "start": 386,
+    "end": 396
+  },
+  {
+    "entity": "an urticarial rash",
+    "label": "PROBLEM",
+    "start": 401,
+    "end": 419
+  },
+  {
+    "entity": "persistent high fevers",
+    "label": "PROBLEM",
+    "start": 457,
+    "end": 479
+  },
+  {
+    "entity": "infection",
+    "label": "PROBLEM",
+    "start": 510,
+    "end": 519
+  },
+  {
+    "entity": "temperatures",
+    "label": "TEST",
+    "start": 541,
+    "end": 553
+  },
+  {
+    "entity": "A workup",
+    "label": "TEST",
+    "start": 661,
+    "end": 669
+  },
+  {
+    "entity": "chest x-ray",
+    "label": "TEST",
+    "start": 686,
+    "end": 697
+  },
+  {
+    "entity": "blood cultures",
+    "label": "TEST",
+    "start": 699,
+    "end": 713
+  },
+  {
+    "entity": "a transthoracic echocardiogram",
+    "label": "TEST",
+    "start": 719,
+    "end": 749
+  },
+  {
+    "entity": "Her chest x-ray",
+    "label": "TEST",
+    "start": 799,
+    "end": 814
+  },
+  {
+    "entity": "high fevers",
+    "label": "PROBLEM",
+    "start": 918,
+    "end": 929
+  },
+  {
+    "entity": "Studies",
+    "label": "TEST",
+    "start": 984,
+    "end": 991
+  },
+  {
+    "entity": "CT scan of the chest, abdomen, and pelvis",
+    "label": "TEST",
+    "start": 1012,
+    "end": 1053
+  },
+  {
+    "entity": "CT chest",
+    "label": "TEST",
+    "start": 1064,
+    "end": 1072
+  },
+  {
+    "entity": "mild bibasilar pleural-based interstitial changes",
+    "label": "PROBLEM",
+    "start": 1080,
+    "end": 1129
+  },
+  {
+    "entity": "ground glass change",
+    "label": "PROBLEM",
+    "start": 1223,
+    "end": 1242
+  },
+  {
+    "entity": "CT abdomen and pelvis",
+    "label": "TEST",
+    "start": 1244,
+    "end": 1265
+  },
+  {
+    "entity": "serologies",
+    "label": "TEST",
+    "start": 1360,
+    "end": 1370
+  },
+  {
+    "entity": "CMV",
+    "label": "PROBLEM",
+    "start": 1375,
+    "end": 1378
+  },
+  {
+    "entity": "a CMV blood PCR",
+    "label": "TEST",
+    "start": 1389,
+    "end": 1404
+  },
+  {
+    "entity": "Next serologies",
+    "label": "TEST",
+    "start": 1406,
+    "end": 1421
+  },
+  {
+    "entity": "EBV",
+    "label": "PROBLEM",
+    "start": 1426,
+    "end": 1429
+  },
+  {
+    "entity": "Legionella",
+    "label": "PROBLEM",
+    "start": 1431,
+    "end": 1441
+  },
+  {
+    "entity": "Chlamydia",
+    "label": "PROBLEM",
+    "start": 1443,
+    "end": 1452
+  },
+  {
+    "entity": "Mycoplasma",
+    "label": "PROBLEM",
+    "start": 1454,
+    "end": 1464
+  },
+  {
+    "entity": "Coccidioides",
+    "label": "PROBLEM",
+    "start": 1466,
+    "end": 1478
+  },
+  {
+    "entity": "cryptococcal antigen",
+    "label": "PROBLEM",
+    "start": 1484,
+    "end": 1504
+  },
+  {
+    "entity": "a PPD",
+    "label": "TEST",
+    "start": 1510,
+    "end": 1515
+  },
+  {
+    "entity": "The CMV serology",
+    "label": "TEST",
+    "start": 1517,
+    "end": 1533
+  },
+  {
+    "entity": "IgM",
+    "label": "TEST",
+    "start": 1557,
+    "end": 1560
+  },
+  {
+    "entity": "The IgG",
+    "label": "TEST",
+    "start": 1562,
+    "end": 1569
+  },
+  {
+    "entity": "The CMV blood PCR",
+    "label": "TEST",
+    "start": 1584,
+    "end": 1601
+  },
+  {
+    "entity": "Other serologies",
+    "label": "TEST",
+    "start": 1625,
+    "end": 1641
+  },
+  {
+    "entity": "her PPD",
+    "label": "TEST",
+    "start": 1646,
+    "end": 1653
+  },
+  {
+    "entity": "Blood cultures",
+    "label": "TEST",
+    "start": 1671,
+    "end": 1685
+  },
+  {
+    "entity": "the positive CMV, PCR",
+    "label": "PROBLEM",
+    "start": 1714,
+    "end": 1735
+  },
+  {
+    "entity": "her CAT scan",
+    "label": "TEST",
+    "start": 1756,
+    "end": 1768
+  },
+  {
+    "entity": "a bronchoscopy",
+    "label": "TEST",
+    "start": 1796,
+    "end": 1810
+  },
+  {
+    "entity": "BAL",
+    "label": "TEST",
+    "start": 1812,
+    "end": 1815
+  },
+  {
+    "entity": "transbronchial biopsies",
+    "label": "TEST",
+    "start": 1820,
+    "end": 1843
+  },
+  {
+    "entity": "The transbronchial biopsies",
+    "label": "TEST",
+    "start": 1860,
+    "end": 1887
+  },
+  {
+    "entity": "pneumocystis",
+    "label": "PROBLEM",
+    "start": 1917,
+    "end": 1929
+  },
+  {
+    "entity": "fungal infection",
+    "label": "PROBLEM",
+    "start": 1931,
+    "end": 1947
+  },
+  {
+    "entity": "AFB",
+    "label": "PROBLEM",
+    "start": 1949,
+    "end": 1952
+  },
+  {
+    "entity": "some nonspecific interstitial fibrosis",
+    "label": "PROBLEM",
+    "start": 1964,
+    "end": 2002
+  },
+  {
+    "entity": "CMV",
+    "label": "PROBLEM",
+    "start": 2102,
+    "end": 2105
+  },
+  {
+    "entity": "the biopsy specimens",
+    "label": "TEST",
+    "start": 2137,
+    "end": 2157
+  },
+  {
+    "entity": "CMV infection",
+    "label": "PROBLEM",
+    "start": 2205,
+    "end": 2218
+  },
+  {
+    "entity": "ganciclovir",
+    "label": "DRUG",
+    "start": 2247,
+    "end": 2258
+  },
+  {
+    "entity": "her CMV serologies",
+    "label": "TEST",
+    "start": 2264,
+    "end": 2282
+  },
+  {
+    "entity": "antibiotic therapy",
+    "label": "DRUG",
+    "start": 2316,
+    "end": 2334
+  },
+  {
+    "entity": "the patient's methotrexate",
+    "label": "DRUG",
+    "start": 2357,
+    "end": 2383
+  },
+  {
+    "entity": "A chest x-ray",
+    "label": "TEST",
+    "start": 2394,
+    "end": 2407
+  },
+  {
+    "entity": "some bibasilar disease",
+    "label": "PROBLEM",
+    "start": 2434,
+    "end": 2456
+  },
+  {
+    "entity": "interstitial infiltrates",
+    "label": "PROBLEM",
+    "start": 2466,
+    "end": 2490
+  },
+  {
+    "entity": "ibuprofen",
+    "label": "DRUG",
+    "start": 2514,
+    "end": 2523
+  },
+  {
+    "entity": "acetaminophen",
+    "label": "DRUG",
+    "start": 2528,
+    "end": 2541
+  },
+  {
+    "entity": "her fever",
+    "label": "PROBLEM",
+    "start": 2574,
+    "end": 2583
+  },
+  {
+    "entity": "BAL fluid cell count",
+    "label": "TEST",
+    "start": 2621,
+    "end": 2641
+  },
+  {
+    "entity": "neutrophils",
+    "label": "TEST",
+    "start": 2717,
+    "end": 2728
+  },
+  {
+    "entity": "lymphocytes",
+    "label": "TEST",
+    "start": 2734,
+    "end": 2745
+  },
+  {
+    "entity": "Disseminated CMV infection",
+    "label": "PROBLEM",
+    "start": 2856,
+    "end": 2882
+  },
+  {
+    "entity": "possible CMV pneumonitis",
+    "label": "PROBLEM",
+    "start": 2888,
+    "end": 2912
+  },
+  {
+    "entity": "Polymyositis",
+    "label": "PROBLEM",
+    "start": 2917,
+    "end": 2929
+  },
+  {
+    "entity": "immunosuppressive therapy",
+    "label": "DRUG",
+    "start": 2933,
+    "end": 2958
+  },
+  {
+    "entity": "methotrexate",
+    "label": "DRUG",
+    "start": 2960,
+    "end": 2972
+  },
+  {
+    "entity": "prednisone",
+    "label": "DRUG",
+    "start": 2977,
+    "end": 2987
+  },
+  {
+    "entity": "ganciclovir",
+    "label": "DRUG",
+    "start": 3046,
+    "end": 3057
+  },
+  {
+    "entity": "Advair",
+    "label": "DRUG",
+    "start": 3106,
+    "end": 3112
+  },
+  {
+    "entity": "Ibuprofen",
+    "label": "DRUG",
+    "start": 3138,
+    "end": 3147
+  },
+  {
+    "entity": "Tylenol",
+    "label": "DRUG",
+    "start": 3159,
+    "end": 3166
+  },
+  {
+    "entity": "fever",
+    "label": "PROBLEM",
+    "start": 3178,
+    "end": 3183
+  },
+  {
+    "entity": "her folic acid",
+    "label": "DRUG",
+    "start": 3203,
+    "end": 3217
+  },
+  {
+    "entity": "methotrexate",
+    "label": "DRUG",
+    "start": 3255,
+    "end": 3267
+  },
+  {
+    "entity": "fever",
+    "label": "PROBLEM",
+    "start": 3619,
+    "end": 3624
+  },
+  {
+    "entity": "blood cultures",
+    "label": "TEST",
+    "start": 3644,
+    "end": 3658
+  },
+  {
+    "entity": "transbronchial biopsies",
+    "label": "TEST",
+    "start": 3660,
+    "end": 3683
+  },
+  {
+    "entity": "infection",
+    "label": "PROBLEM",
+    "start": 3685,
+    "end": 3694
+  },
+  {
+    "entity": "cmv",
+    "label": "PROBLEM",
+    "start": 3696,
+    "end": 3699
+  },
+  {
+    "entity": "illness",
+    "label": "PROBLEM",
+    "start": 3712,
+    "end": 3719
+  },
+  {
+    "entity": "fever",
+    "label": "PROBLEM",
+    "start": 3735,
+    "end": 3740
+  },
+  {
+    "entity": "serologies",
+    "label": "PROBLEM",
+    "start": 3742,
+    "end": 3752
+  },
+  {
+    "entity": "methotrexate",
+    "label": "DRUG",
+    "start": 3776,
+    "end": 3788
+  }
+]

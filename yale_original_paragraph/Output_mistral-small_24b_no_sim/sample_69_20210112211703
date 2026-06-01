@@ -1,0 +1,212 @@
+[
+  {
+    "left-sided chest pain": "PROBLEM"
+  },
+  {
+    "abdominal surgery": "TREATMENT"
+  },
+  {
+    "laparoscopic appendicectomy": "TREATMENT"
+  },
+  {
+    "postoperative paralytic ileus": "PROBLEM"
+  },
+  {
+    "left-sided chest pain": "PROBLEM"
+  },
+  {
+    "fluid retention": "PROBLEM"
+  },
+  {
+    "swelling": "PROBLEM"
+  },
+  {
+    "lower extremities": "PROBLEM"
+  },
+  {
+    "left-sided chest pain": "PROBLEM"
+  },
+  {
+    "inspiration": "PROBLEM"
+  },
+  {
+    "left posterior axillary line": "PROBLEM"
+  },
+  {
+    "fourth": "PROBLEM"
+  },
+  {
+    "fifth": "PROBLEM"
+  },
+  {
+    "ribs": "PROBLEM"
+  },
+  {
+    "heart problems": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "laparoscopic appendicectomy": "TREATMENT"
+  },
+  {
+    "oral diet": "TREATMENT"
+  },
+  {
+    "dysuria": "PROBLEM"
+  },
+  {
+    "hematuria": "PROBLEM"
+  },
+  {
+    "diabetes": "PROBLEM"
+  },
+  {
+    "thyroid problems": "PROBLEM"
+  },
+  {
+    "CVA": "PROBLEM"
+  },
+  {
+    "TIA": "PROBLEM"
+  },
+  {
+    "toxic looking": "PROBLEM"
+  },
+  {
+    "oral mucosa": "TEST"
+  },
+  {
+    "auscultation": "TEST"
+  },
+  {
+    "wheezing": "PROBLEM"
+  },
+  {
+    "crepitations": "PROBLEM"
+  },
+  {
+    "tenderness": "PROBLEM"
+  },
+  {
+    "left posterior-lateral axis": "PROBLEM"
+  },
+  {
+    "heart sounds": "TEST"
+  },
+  {
+    "murmurs": "PROBLEM"
+  },
+  {
+    "abdomen": "TEST"
+  },
+  {
+    "bowel sounds": "TEST"
+  },
+  {
+    "pedal swelling": "PROBLEM"
+  },
+  {
+    "alert": "TEST"
+  },
+  {
+    "oriented": "TEST"
+  },
+  {
+    "examination": "TEST"
+  },
+  {
+    "White count": "TEST"
+  },
+  {
+    "hemoglobin": "TEST"
+  },
+  {
+    "hematocrit": "TEST"
+  },
+  {
+    "platelets": "TEST"
+  },
+  {
+    "glucose": "TEST"
+  },
+  {
+    "total protein": "TEST"
+  },
+  {
+    "albumin": "TEST"
+  },
+  {
+    "ruptured appendicitis": "PROBLEM"
+  },
+  {
+    "surgery": "TREATMENT"
+  },
+  {
+    "oral fluids": "TREATMENT"
+  },
+  {
+    "bowels": "PROBLEM"
+  },
+  {
+    "PE": "PROBLEM"
+  },
+  {
+    "oxygen saturation": "TEST"
+  },
+  {
+    "ultrasound": "TEST"
+  },
+  {
+    "lower extremity": "TEST"
+  },
+  {
+    "CT angiogram": "TEST"
+  },
+  {
+    "fluid retention": "PROBLEM"
+  },
+  {
+    "surgeon": "TREATMENT"
+  },
+  {
+    "paralytic ileus": "PROBLEM"
+  },
+  {
+    "leukocytosis": "PROBLEM"
+  },
+  {
+    "general medicine": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "fluid retention": "PROBLEM"
+  },
+  {
+    "paralytic ileus": "PROBLEM"
+  },
+  {
+    "leukocytosis": "PROBLEM"
+  },
+  {
+    "abdominal surgery": "TREATMENT"
+  },
+  {
+    "laparoscopic appendicectomy": "TREATMENT"
+  },
+  {
+    "abdominal": "PROBLEM"
+  },
+  {
+    "surgery": "TREATMENT"
+  },
+  {
+    "chest": "PROBLEM"
+  }
+]

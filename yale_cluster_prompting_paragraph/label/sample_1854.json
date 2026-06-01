@@ -1,0 +1,110 @@
+[
+  {
+    "entity": "CT C-Spine",
+    "label": "TEST",
+    "start": 57,
+    "end": 67
+  },
+  {
+    "entity": "CT cervical spine",
+    "label": "TEST",
+    "start": 87,
+    "end": 104
+  },
+  {
+    "entity": "trauma",
+    "label": "PROBLEM",
+    "start": 109,
+    "end": 115
+  },
+  {
+    "entity": "CT examination of the cervical spine",
+    "label": "TEST",
+    "start": 118,
+    "end": 154
+  },
+  {
+    "entity": "Coronal and sagittal reformats",
+    "label": "TEST",
+    "start": 188,
+    "end": 218
+  },
+  {
+    "entity": "CT cervical spine",
+    "label": "TEST",
+    "start": 314,
+    "end": 331
+  },
+  {
+    "entity": "trauma",
+    "label": "PROBLEM",
+    "start": 346,
+    "end": 352
+  },
+  {
+    "entity": "CT examination of the cervical spine",
+    "label": "TEST",
+    "start": 365,
+    "end": 401
+  },
+  {
+    "entity": "Coronal and sagittal reformats",
+    "label": "TEST",
+    "start": 435,
+    "end": 465
+  },
+  {
+    "entity": "Cervical vertebral body height",
+    "label": "TEST",
+    "start": 517,
+    "end": 547
+  },
+  {
+    "entity": "fractures",
+    "label": "PROBLEM",
+    "start": 617,
+    "end": 626
+  },
+  {
+    "entity": "destructive osseous lesions",
+    "label": "PROBLEM",
+    "start": 630,
+    "end": 657
+  },
+  {
+    "entity": "significant degenerative endplate",
+    "label": "PROBLEM",
+    "start": 673,
+    "end": 706
+  },
+  {
+    "entity": "facet changes",
+    "label": "PROBLEM",
+    "start": 710,
+    "end": 723
+  },
+  {
+    "entity": "significant osseous central canal",
+    "label": "PROBLEM",
+    "start": 729,
+    "end": 762
+  },
+  {
+    "entity": "foraminal narrowing",
+    "label": "PROBLEM",
+    "start": 766,
+    "end": 785
+  },
+  {
+    "entity": "degenerative endplate",
+    "label": "PROBLEM",
+    "start": 878,
+    "end": 899
+  },
+  {
+    "entity": "ct examination",
+    "label": "TEST",
+    "start": 901,
+    "end": 915
+  }
+]

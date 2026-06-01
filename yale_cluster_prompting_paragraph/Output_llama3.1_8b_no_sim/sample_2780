@@ -1,0 +1,98 @@
+[
+  {
+    "pancreatic lesions": "PROBLEM"
+  },
+  {
+    "adrenal lesions": "PROBLEM"
+  },
+  {
+    "adenoma": "PROBLEM"
+  },
+  {
+    "neoplasm": "PROBLEM"
+  },
+  {
+    "pneumonitis": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "type 2 diabetes mellitus": "PROBLEM"
+  },
+  {
+    "asthma": "PROBLEM"
+  },
+  {
+    "high cholesterol": "PROBLEM"
+  },
+  {
+    "gallstone pancreatitis": "PROBLEM"
+  },
+  {
+    "pancreatitis": "PROBLEM"
+  },
+  {
+    "prostate cancer": "PROBLEM"
+  },
+  {
+    "brain cancer": "PROBLEM"
+  },
+  {
+    "heart disease": "PROBLEM"
+  },
+  {
+    "diabetes": "PROBLEM"
+  },
+  {
+    "CAT scan": "TEST"
+  },
+  {
+    "MRI": "TEST"
+  },
+  {
+    "colonoscopy": "TEST"
+  },
+  {
+    "glipizide": "DRUG"
+  },
+  {
+    "metformin": "DRUG"
+  },
+  {
+    "Atacand": "DRUG"
+  },
+  {
+    "metoprolol": "DRUG"
+  },
+  {
+    "Lipitor": "DRUG"
+  },
+  {
+    "pantoprazole": "DRUG"
+  },
+  {
+    "Flomax": "DRUG"
+  },
+  {
+    "Detrol": "DRUG"
+  },
+  {
+    "Zyrtec": "DRUG"
+  },
+  {
+    "Advair Diskus": "DRUG"
+  },
+  {
+    "fluticasone": "DRUG"
+  },
+  {
+    "ERCP": "TREATMENT"
+  },
+  {
+    "esophagogastroduodenoscopy": "TREATMENT"
+  },
+  {
+    "operative intervention": "TREATMENT"
+  }
+]

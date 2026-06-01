@@ -1,0 +1,209 @@
+[
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "Abdominal pain": "PROBLEM"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "CT scan": "TEST"
+  },
+  {
+    "Cipro": "DRUG"
+  },
+  {
+    "Flagyl": "DRUG"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "anorexia": "PROBLEM"
+  },
+  {
+    "flatus": "PROBLEM"
+  },
+  {
+    "obstipation": "PROBLEM"
+  },
+  {
+    "bowel movement": "PROBLEM"
+  },
+  {
+    "bright red blood per rectum": "PROBLEM"
+  },
+  {
+    "melena": "PROBLEM"
+  },
+  {
+    "fevers": "PROBLEM"
+  },
+  {
+    "chills": "PROBLEM"
+  },
+  {
+    "jaundice": "PROBLEM"
+  },
+  {
+    "weight loss": "PROBLEM"
+  },
+  {
+    "atrial fibrillation": "PROBLEM"
+  },
+  {
+    "sinus rhythm": "PROBLEM"
+  },
+  {
+    "metoprolol": "DRUG"
+  },
+  {
+    "Premarin": "DRUG"
+  },
+  {
+    "cholecystectomy": "TREATMENT"
+  },
+  {
+    "appendectomy": "TREATMENT"
+  },
+  {
+    "hysterectomy": "TREATMENT"
+  },
+  {
+    "MACRODANTIN": "DRUG"
+  },
+  {
+    "febrile illnesses": "PROBLEM"
+  },
+  {
+    "chest pains": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "elderly": "PROBLEM"
+  },
+  {
+    "temperature": "TEST"
+  },
+  {
+    "Head": "TEST"
+  },
+  {
+    "anicteric": "PROBLEM"
+  },
+  {
+    "CHEST": "PROBLEM"
+  },
+  {
+    "HEART": "PROBLEM"
+  },
+  {
+    "ABDOMEN": "PROBLEM"
+  },
+  {
+    "left lower quadrant": "PROBLEM"
+  },
+  {
+    "tender": "PROBLEM"
+  },
+  {
+    "mass": "PROBLEM"
+  },
+  {
+    "tender": "PROBLEM"
+  },
+  {
+    "CVA": "PROBLEM"
+  },
+  {
+    "flank tenderness": "PROBLEM"
+  },
+  {
+    "grade 4 urinary bladder prolapse": "PROBLEM"
+  },
+  {
+    "White blood cell count": "TEST"
+  },
+  {
+    "hemoglobin": "TEST"
+  },
+  {
+    "platelet count": "TEST"
+  },
+  {
+    "Alkaline phosphatase": "TEST"
+  },
+  {
+    "Liver function tests": "TEST"
+  },
+  {
+    "Electrolytes": "TEST"
+  },
+  {
+    "Glucose": "TEST"
+  },
+  {
+    "BUN": "TEST"
+  },
+  {
+    "creatinine": "TEST"
+  },
+  {
+    "EKG": "TEST"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "left lower quadrant": "PROBLEM"
+  },
+  {
+    "abdomen": "PROBLEM"
+  },
+  {
+    "sigmoid diverticulitis": "PROBLEM"
+  },
+  {
+    "sigmoid diverticulitis": "PROBLEM"
+  },
+  {
+    "CT scan": "TEST"
+  },
+  {
+    "abdomen": "TEST"
+  },
+  {
+    "pelvis": "TEST"
+  },
+  {
+    "nothing by mouth": "TREATMENT"
+  },
+  {
+    "colonoscopy": "TEST"
+  },
+  {
+    "nothing by mouth": "TREATMENT"
+  },
+  {
+    "surgical intervention": "TREATMENT"
+  },
+  {
+    "diagnostic workup": "TEST"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "diverticulitis": "PROBLEM"
+  },
+  {
+    "tenderness": "PROBLEM"
+  }
+]

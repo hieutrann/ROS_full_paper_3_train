@@ -1,0 +1,182 @@
+[
+  {
+    "entity": "foreign body in left eye",
+    "label": "PROBLEM",
+    "start": 121,
+    "end": 145
+  },
+  {
+    "entity": "a foreign body to his left eye",
+    "label": "PROBLEM",
+    "start": 287,
+    "end": 317
+  },
+  {
+    "entity": "a foreign body sensation",
+    "label": "PROBLEM",
+    "start": 375,
+    "end": 399
+  },
+  {
+    "entity": "persistent pain",
+    "label": "PROBLEM",
+    "start": 449,
+    "end": 464
+  },
+  {
+    "entity": "significant blurriness of vision",
+    "label": "PROBLEM",
+    "start": 542,
+    "end": 574
+  },
+  {
+    "entity": "photophobia",
+    "label": "PROBLEM",
+    "start": 578,
+    "end": 589
+  },
+  {
+    "entity": "Focal left eye pain",
+    "label": "PROBLEM",
+    "start": 610,
+    "end": 629
+  },
+  {
+    "entity": "any changes in visual acuity",
+    "label": "PROBLEM",
+    "start": 638,
+    "end": 666
+  },
+  {
+    "entity": "photophobia",
+    "label": "PROBLEM",
+    "start": 670,
+    "end": 681
+  },
+  {
+    "entity": "ophthalmologic problems",
+    "label": "PROBLEM",
+    "start": 699,
+    "end": 722
+  },
+  {
+    "entity": "Dislocated wrist",
+    "label": "PROBLEM",
+    "start": 896,
+    "end": 912
+  },
+  {
+    "entity": "Cancer",
+    "label": "PROBLEM",
+    "start": 1152,
+    "end": 1158
+  },
+  {
+    "entity": "hypertension",
+    "label": "PROBLEM",
+    "start": 1160,
+    "end": 1172
+  },
+  {
+    "entity": "Vital signs",
+    "label": "TEST",
+    "start": 1196,
+    "end": 1207
+  },
+  {
+    "entity": "Blood pressure",
+    "label": "TEST",
+    "start": 1209,
+    "end": 1223
+  },
+  {
+    "entity": "respirations",
+    "label": "TEST",
+    "start": 1232,
+    "end": 1244
+  },
+  {
+    "entity": "pulse",
+    "label": "TEST",
+    "start": 1249,
+    "end": 1254
+  },
+  {
+    "entity": "temperature",
+    "label": "TEST",
+    "start": 1259,
+    "end": 1270
+  },
+  {
+    "entity": "Visual acuity",
+    "label": "TEST",
+    "start": 1277,
+    "end": 1290
+  },
+  {
+    "entity": "slit lamp examination",
+    "label": "TEST",
+    "start": 1337,
+    "end": 1358
+  },
+  {
+    "entity": "severely injected",
+    "label": "PROBLEM",
+    "start": 1458,
+    "end": 1475
+  },
+  {
+    "entity": "a small metallic foreign body",
+    "label": "PROBLEM",
+    "start": 1486,
+    "end": 1515
+  },
+  {
+    "entity": "the slit lamp",
+    "label": "TEST",
+    "start": 1562,
+    "end": 1575
+  },
+  {
+    "entity": "Foreign body OS",
+    "label": "PROBLEM",
+    "start": 1588,
+    "end": 1603
+  },
+  {
+    "entity": "removal of the foreign body",
+    "label": "TREATMENT",
+    "start": 1621,
+    "end": 1648
+  },
+  {
+    "entity": "unbearable",
+    "label": "PROBLEM",
+    "start": 1719,
+    "end": 1729
+  },
+  {
+    "entity": "a pressure patch",
+    "label": "TREATMENT",
+    "start": 1762,
+    "end": 1778
+  },
+  {
+    "entity": "pain",
+    "label": "PROBLEM",
+    "start": 1995,
+    "end": 1999
+  },
+  {
+    "entity": "slit lamp examination",
+    "label": "TEST",
+    "start": 2025,
+    "end": 2046
+  },
+  {
+    "entity": "visual acuity",
+    "label": "TEST",
+    "start": 2072,
+    "end": 2085
+  }
+]

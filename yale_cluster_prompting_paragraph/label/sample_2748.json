@@ -1,0 +1,548 @@
+[
+  {
+    "entity": "Jaw Pain",
+    "label": "PROBLEM",
+    "start": 63,
+    "end": 71
+  },
+  {
+    "entity": "toothache",
+    "label": "PROBLEM",
+    "start": 123,
+    "end": 132
+  },
+  {
+    "entity": "Ellis type II dental fracture",
+    "label": "PROBLEM",
+    "start": 187,
+    "end": 216
+  },
+  {
+    "entity": "Jaw pain",
+    "label": "PROBLEM",
+    "start": 273,
+    "end": 281
+  },
+  {
+    "entity": "toothache in the left lower side of the mouth",
+    "label": "PROBLEM",
+    "start": 361,
+    "end": 406
+  },
+  {
+    "entity": "toothache",
+    "label": "PROBLEM",
+    "start": 617,
+    "end": 626
+  },
+  {
+    "entity": "any facial swelling",
+    "label": "PROBLEM",
+    "start": 653,
+    "end": 672
+  },
+  {
+    "entity": "headache",
+    "label": "PROBLEM",
+    "start": 677,
+    "end": 685
+  },
+  {
+    "entity": "swelling to the throat",
+    "label": "PROBLEM",
+    "start": 690,
+    "end": 712
+  },
+  {
+    "entity": "sore throat",
+    "label": "PROBLEM",
+    "start": 717,
+    "end": 728
+  },
+  {
+    "entity": "difficulty swallowing liquids or solids",
+    "label": "PROBLEM",
+    "start": 733,
+    "end": 772
+  },
+  {
+    "entity": "neck pain",
+    "label": "PROBLEM",
+    "start": 777,
+    "end": 786
+  },
+  {
+    "entity": "lymph node swelling",
+    "label": "PROBLEM",
+    "start": 791,
+    "end": 810
+  },
+  {
+    "entity": "any fever",
+    "label": "PROBLEM",
+    "start": 831,
+    "end": 840
+  },
+  {
+    "entity": "chills",
+    "label": "PROBLEM",
+    "start": 844,
+    "end": 850
+  },
+  {
+    "entity": "any other problems or complaints",
+    "label": "PROBLEM",
+    "start": 859,
+    "end": 891
+  },
+  {
+    "entity": "fever",
+    "label": "PROBLEM",
+    "start": 931,
+    "end": 936
+  },
+  {
+    "entity": "chills",
+    "label": "PROBLEM",
+    "start": 940,
+    "end": 946
+  },
+  {
+    "entity": "fatigue",
+    "label": "PROBLEM",
+    "start": 951,
+    "end": 958
+  },
+  {
+    "entity": "weakness",
+    "label": "PROBLEM",
+    "start": 962,
+    "end": 970
+  },
+  {
+    "entity": "headache",
+    "label": "PROBLEM",
+    "start": 982,
+    "end": 990
+  },
+  {
+    "entity": "neck pain",
+    "label": "PROBLEM",
+    "start": 995,
+    "end": 1004
+  },
+  {
+    "entity": "eye pain",
+    "label": "PROBLEM",
+    "start": 1009,
+    "end": 1017
+  },
+  {
+    "entity": "vision change",
+    "label": "PROBLEM",
+    "start": 1021,
+    "end": 1034
+  },
+  {
+    "entity": "rhinorrhea",
+    "label": "PROBLEM",
+    "start": 1039,
+    "end": 1049
+  },
+  {
+    "entity": "sinus congestion",
+    "label": "PROBLEM",
+    "start": 1054,
+    "end": 1070
+  },
+  {
+    "entity": "pain",
+    "label": "PROBLEM",
+    "start": 1085,
+    "end": 1089
+  },
+  {
+    "entity": "sore throat",
+    "label": "PROBLEM",
+    "start": 1094,
+    "end": 1105
+  },
+  {
+    "entity": "throat swelling",
+    "label": "PROBLEM",
+    "start": 1110,
+    "end": 1125
+  },
+  {
+    "entity": "toothache",
+    "label": "PROBLEM",
+    "start": 1153,
+    "end": 1162
+  },
+  {
+    "entity": "ear pain",
+    "label": "PROBLEM",
+    "start": 1272,
+    "end": 1280
+  },
+  {
+    "entity": "hearing change",
+    "label": "PROBLEM",
+    "start": 1284,
+    "end": 1298
+  },
+  {
+    "entity": "pressure in the ear",
+    "label": "PROBLEM",
+    "start": 1303,
+    "end": 1322
+  },
+  {
+    "entity": "chest pain",
+    "label": "PROBLEM",
+    "start": 1343,
+    "end": 1353
+  },
+  {
+    "entity": "shortness of breath",
+    "label": "PROBLEM",
+    "start": 1372,
+    "end": 1391
+  },
+  {
+    "entity": "nausea",
+    "label": "PROBLEM",
+    "start": 1414,
+    "end": 1420
+  },
+  {
+    "entity": "vomiting",
+    "label": "PROBLEM",
+    "start": 1424,
+    "end": 1432
+  },
+  {
+    "entity": "abdominal pain",
+    "label": "PROBLEM",
+    "start": 1437,
+    "end": 1451
+  },
+  {
+    "entity": "back pain",
+    "label": "PROBLEM",
+    "start": 1473,
+    "end": 1482
+  },
+  {
+    "entity": "rashes",
+    "label": "PROBLEM",
+    "start": 1493,
+    "end": 1499
+  },
+  {
+    "entity": "lesions",
+    "label": "PROBLEM",
+    "start": 1503,
+    "end": 1510
+  },
+  {
+    "entity": "vision or hearing change",
+    "label": "PROBLEM",
+    "start": 1527,
+    "end": 1551
+  },
+  {
+    "entity": "speech change",
+    "label": "PROBLEM",
+    "start": 1556,
+    "end": 1569
+  },
+  {
+    "entity": "lymph node swelling",
+    "label": "PROBLEM",
+    "start": 1597,
+    "end": 1616
+  },
+  {
+    "entity": "ALLERGIES",
+    "label": "PROBLEM",
+    "start": 1702,
+    "end": 1711
+  },
+  {
+    "entity": "KNOWN DRUG ALLERGIES.",
+    "label": "PROBLEM",
+    "start": 1716,
+    "end": 1737
+  },
+  {
+    "entity": "smokes marijuana",
+    "label": "PROBLEM",
+    "start": 1766,
+    "end": 1782
+  },
+  {
+    "entity": "smoke cigarettes.",
+    "label": "PROBLEM",
+    "start": 1805,
+    "end": 1822
+  },
+  {
+    "entity": "Temperature",
+    "label": "TEST",
+    "start": 1858,
+    "end": 1869
+  },
+  {
+    "entity": "blood pressure",
+    "label": "TEST",
+    "start": 1881,
+    "end": 1895
+  },
+  {
+    "entity": "pulse",
+    "label": "TEST",
+    "start": 1907,
+    "end": 1912
+  },
+  {
+    "entity": "respirations",
+    "label": "TEST",
+    "start": 1920,
+    "end": 1932
+  },
+  {
+    "entity": "oxygen saturation",
+    "label": "TEST",
+    "start": 1941,
+    "end": 1958
+  },
+  {
+    "entity": "acute distress",
+    "label": "PROBLEM",
+    "start": 2143,
+    "end": 2157
+  },
+  {
+    "entity": "erythema or swelling of the canals",
+    "label": "PROBLEM",
+    "start": 2479,
+    "end": 2513
+  },
+  {
+    "entity": "dental fracture at tooth #18",
+    "label": "PROBLEM",
+    "start": 2652,
+    "end": 2680
+  },
+  {
+    "entity": "any erythema, swelling, or evidence of infection",
+    "label": "PROBLEM",
+    "start": 2827,
+    "end": 2875
+  },
+  {
+    "entity": "fluctuance or suggestion of abscess",
+    "label": "PROBLEM",
+    "start": 2889,
+    "end": 2924
+  },
+  {
+    "entity": "slight tenderness of the tooth #18",
+    "label": "PROBLEM",
+    "start": 2935,
+    "end": 2969
+  },
+  {
+    "entity": "erythema, exudate, lesion, or swelling",
+    "label": "PROBLEM",
+    "start": 3039,
+    "end": 3077
+  },
+  {
+    "entity": "suggestion of abscess",
+    "label": "PROBLEM",
+    "start": 3175,
+    "end": 3196
+  },
+  {
+    "entity": "meningismus",
+    "label": "PROBLEM",
+    "start": 3306,
+    "end": 3317
+  },
+  {
+    "entity": "cervical lymphadenopathy",
+    "label": "PROBLEM",
+    "start": 3322,
+    "end": 3346
+  },
+  {
+    "entity": "JVD",
+    "label": "PROBLEM",
+    "start": 3351,
+    "end": 3354
+  },
+  {
+    "entity": "carotid artery or vertebral artery bruits",
+    "label": "PROBLEM",
+    "start": 3359,
+    "end": 3400
+  },
+  {
+    "entity": "rate",
+    "label": "TEST",
+    "start": 3435,
+    "end": 3439
+  },
+  {
+    "entity": "rhythm",
+    "label": "TEST",
+    "start": 3444,
+    "end": 3450
+  },
+  {
+    "entity": "murmur",
+    "label": "PROBLEM",
+    "start": 3459,
+    "end": 3465
+  },
+  {
+    "entity": "rub",
+    "label": "PROBLEM",
+    "start": 3467,
+    "end": 3470
+  },
+  {
+    "entity": "gallop",
+    "label": "PROBLEM",
+    "start": 3475,
+    "end": 3481
+  },
+  {
+    "entity": "auscultation",
+    "label": "TEST",
+    "start": 3506,
+    "end": 3518
+  },
+  {
+    "entity": "shortness of breath",
+    "label": "PROBLEM",
+    "start": 3535,
+    "end": 3554
+  },
+  {
+    "entity": "abnormalities",
+    "label": "PROBLEM",
+    "start": 3627,
+    "end": 3640
+  },
+  {
+    "entity": "rashes",
+    "label": "PROBLEM",
+    "start": 3735,
+    "end": 3741
+  },
+  {
+    "entity": "lesions",
+    "label": "PROBLEM",
+    "start": 3745,
+    "end": 3752
+  },
+  {
+    "entity": "lymphadenitis",
+    "label": "PROBLEM",
+    "start": 4002,
+    "end": 4015
+  },
+  {
+    "entity": "ACUTE LEFT JAW PAIN",
+    "label": "PROBLEM",
+    "start": 4043,
+    "end": 4062
+  },
+  {
+    "entity": "#18 DENTAL FRACTURE",
+    "label": "PROBLEM",
+    "start": 4067,
+    "end": 4086
+  },
+  {
+    "entity": "AN ELLIS TYPE II FRACTURE",
+    "label": "PROBLEM",
+    "start": 4097,
+    "end": 4122
+  },
+  {
+    "entity": "ELEVATED BLOOD PRESSURE",
+    "label": "PROBLEM",
+    "start": 4127,
+    "end": 4150
+  },
+  {
+    "entity": "Motrin",
+    "label": "DRUG",
+    "start": 4346,
+    "end": 4352
+  },
+  {
+    "entity": "Vicodin",
+    "label": "DRUG",
+    "start": 4425,
+    "end": 4432
+  },
+  {
+    "entity": "pen V.",
+    "label": "DRUG",
+    "start": 4607,
+    "end": 4613
+  },
+  {
+    "entity": "toothache",
+    "label": "PROBLEM",
+    "start": 4662,
+    "end": 4671
+  },
+  {
+    "entity": "jaw pain",
+    "label": "PROBLEM",
+    "start": 4836,
+    "end": 4844
+  },
+  {
+    "entity": "ellis type ii fracture",
+    "label": "PROBLEM",
+    "start": 4866,
+    "end": 4888
+  },
+  {
+    "entity": "dental fracture",
+    "label": "PROBLEM",
+    "start": 4902,
+    "end": 4917
+  },
+  {
+    "entity": "toothache",
+    "label": "PROBLEM",
+    "start": 4919,
+    "end": 4928
+  },
+  {
+    "entity": "tenderness",
+    "label": "PROBLEM",
+    "start": 4930,
+    "end": 4940
+  },
+  {
+    "entity": "pressure",
+    "label": "PROBLEM",
+    "start": 4942,
+    "end": 4950
+  },
+  {
+    "entity": "erythema",
+    "label": "PROBLEM",
+    "start": 4952,
+    "end": 4960
+  }
+]

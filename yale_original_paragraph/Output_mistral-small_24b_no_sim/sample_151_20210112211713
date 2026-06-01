@@ -1,0 +1,182 @@
+[
+  {
+    "Cholecystitis": "PROBLEM"
+  },
+  {
+    "choledocholithiasis": "PROBLEM"
+  },
+  {
+    "Laparoscopic cholecystectomy": "TREATMENT"
+  },
+  {
+    "laparoscopy": "TEST"
+  },
+  {
+    "open common bile duct exploration": "TREATMENT"
+  },
+  {
+    "stone extraction": "TREATMENT"
+  },
+  {
+    "Cholecystitis": "PROBLEM"
+  },
+  {
+    "choledocholithiasis": "PROBLEM"
+  },
+  {
+    "Roux-en-Y gastric bypass": "TREATMENT"
+  },
+  {
+    "laparoscopic paraventral hernia": "PROBLEM"
+  },
+  {
+    "sleep apnea": "PROBLEM"
+  },
+  {
+    "morbid obesity": "PROBLEM"
+  },
+  {
+    "bmi": "TEST"
+  },
+  {
+    "Laparoscopic cholecystectomy": "TREATMENT"
+  },
+  {
+    "laparoscopy": "TEST"
+  },
+  {
+    "open common bile duct exploration": "TREATMENT"
+  },
+  {
+    "stone extraction": "TREATMENT"
+  },
+  {
+    "HIDA scan": "TEST"
+  },
+  {
+    "cholecystitis": "PROBLEM"
+  },
+  {
+    "common bile duct stone": "PROBLEM"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "elevated bilirubin": "PROBLEM"
+  },
+  {
+    "gallstones": "PROBLEM"
+  },
+  {
+    "ultrasound": "TEST"
+  },
+  {
+    "dilated common bile duct": "PROBLEM"
+  },
+  {
+    "cholangiogram": "TEST"
+  },
+  {
+    "ERCP": "TEST"
+  },
+  {
+    "stone extraction": "TREATMENT"
+  },
+  {
+    "common bile duct exploration": "TREATMENT"
+  },
+  {
+    "Roux-en-Y gastric bypass": "TREATMENT"
+  },
+  {
+    "ERCP": "TEST"
+  },
+  {
+    "stone extraction": "TREATMENT"
+  },
+  {
+    "common bile duct exploration": "TREATMENT"
+  },
+  {
+    "open operation": "TREATMENT"
+  },
+  {
+    "medical surgical unit": "TEST"
+  },
+  {
+    "incisional pain": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "Jackson-Pratt drain": "TEST"
+  },
+  {
+    "serosanguineous fluid": "PROBLEM"
+  },
+  {
+    "white blood cell count": "TEST"
+  },
+  {
+    "bilirubin": "TEST"
+  },
+  {
+    "liquid diet": "TREATMENT"
+  },
+  {
+    "Foley catheter": "TEST"
+  },
+  {
+    "bile leak": "PROBLEM"
+  },
+  {
+    "regular diet": "TREATMENT"
+  },
+  {
+    "bowels": "TEST"
+  },
+  {
+    "afebrile": "PROBLEM"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "oral pain medications": "DRUG"
+  },
+  {
+    "Jackson-Pratt drain": "TEST"
+  },
+  {
+    "wound": "PROBLEM"
+  },
+  {
+    "cystic duct": "PROBLEM"
+  },
+  {
+    "laboratory studies": "TEST"
+  },
+  {
+    "bilirubin": "TEST"
+  },
+  {
+    "white blood cell count": "TEST"
+  },
+  {
+    "H&H": "TEST"
+  },
+  {
+    "Jackson-Pratt drain": "TEST"
+  },
+  {
+    "iron": "DRUG"
+  },
+  {
+    "Lortab elixir": "DRUG"
+  },
+  {
+    "pain": "PROBLEM"
+  }
+]

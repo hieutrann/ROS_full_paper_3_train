@@ -1,0 +1,320 @@
+[
+  {
+    "entity": "ORIF",
+    "label": "TREATMENT",
+    "start": 64,
+    "end": 68
+  },
+  {
+    "entity": "Open reduction and internal fixation (ORIF)",
+    "label": "TREATMENT",
+    "start": 102,
+    "end": 145
+  },
+  {
+    "entity": "right Schatzker III tibial plateau fracture",
+    "label": "PROBLEM",
+    "start": 149,
+    "end": 192
+  },
+  {
+    "entity": "partial medial meniscectomy",
+    "label": "TREATMENT",
+    "start": 198,
+    "end": 225
+  },
+  {
+    "entity": "Right tibial plateau fracture",
+    "label": "PROBLEM",
+    "start": 286,
+    "end": 315
+  },
+  {
+    "entity": "Right tibial plateau fracture",
+    "label": "PROBLEM",
+    "start": 338,
+    "end": 367
+  },
+  {
+    "entity": "medial meniscus tear on the right side",
+    "label": "PROBLEM",
+    "start": 377,
+    "end": 415
+  },
+  {
+    "entity": "Open reduction and internal fixation (ORIF)",
+    "label": "TREATMENT",
+    "start": 439,
+    "end": 482
+  },
+  {
+    "entity": "right Schatzker III tibial plateau fracture",
+    "label": "PROBLEM",
+    "start": 486,
+    "end": 529
+  },
+  {
+    "entity": "partial medial meniscectomy",
+    "label": "TREATMENT",
+    "start": 535,
+    "end": 562
+  },
+  {
+    "entity": "multiple medical problems",
+    "label": "PROBLEM",
+    "start": 638,
+    "end": 663
+  },
+  {
+    "entity": "hypothyroid",
+    "label": "PROBLEM",
+    "start": 674,
+    "end": 685
+  },
+  {
+    "entity": "diabetes mellitus type 2",
+    "label": "PROBLEM",
+    "start": 687,
+    "end": 711
+  },
+  {
+    "entity": "bronchitis",
+    "label": "PROBLEM",
+    "start": 713,
+    "end": 723
+  },
+  {
+    "entity": "congestive heart failure",
+    "label": "PROBLEM",
+    "start": 729,
+    "end": 753
+  },
+  {
+    "entity": "operation",
+    "label": "TREATMENT",
+    "start": 815,
+    "end": 824
+  },
+  {
+    "entity": "open reduction and internal fixation",
+    "label": "TREATMENT",
+    "start": 862,
+    "end": 898
+  },
+  {
+    "entity": "right Schatzker III tibial plateau fracture",
+    "label": "PROBLEM",
+    "start": 902,
+    "end": 945
+  },
+  {
+    "entity": "partial medial meniscectomy",
+    "label": "TREATMENT",
+    "start": 950,
+    "end": 977
+  },
+  {
+    "entity": "CPM machine",
+    "label": "TREATMENT",
+    "start": 1125,
+    "end": 1136
+  },
+  {
+    "entity": "a brief period of dyspnea",
+    "label": "PROBLEM",
+    "start": 1157,
+    "end": 1182
+  },
+  {
+    "entity": "bronchitis",
+    "label": "PROBLEM",
+    "start": 1248,
+    "end": 1258
+  },
+  {
+    "entity": "thick secretions",
+    "label": "PROBLEM",
+    "start": 1260,
+    "end": 1276
+  },
+  {
+    "entity": "fluid overload",
+    "label": "PROBLEM",
+    "start": 1282,
+    "end": 1296
+  },
+  {
+    "entity": "nebulizer treatment",
+    "label": "TREATMENT",
+    "start": 1320,
+    "end": 1339
+  },
+  {
+    "entity": "Lasix",
+    "label": "DRUG",
+    "start": 1344,
+    "end": 1349
+  },
+  {
+    "entity": "the problem",
+    "label": "PROBLEM",
+    "start": 1380,
+    "end": 1391
+  },
+  {
+    "entity": "open reduction and internal fixation",
+    "label": "TREATMENT",
+    "start": 1558,
+    "end": 1594
+  },
+  {
+    "entity": "right tibial plateau fracture",
+    "label": "PROBLEM",
+    "start": 1598,
+    "end": 1627
+  },
+  {
+    "entity": "partial medial meniscectomy",
+    "label": "TREATMENT",
+    "start": 1632,
+    "end": 1659
+  },
+  {
+    "entity": "CPM machine",
+    "label": "TREATMENT",
+    "start": 1776,
+    "end": 1787
+  },
+  {
+    "entity": "antiembolic stockings",
+    "label": "TREATMENT",
+    "start": 1812,
+    "end": 1833
+  },
+  {
+    "entity": "nursing",
+    "label": "TREATMENT",
+    "start": 1860,
+    "end": 1867
+  },
+  {
+    "entity": "physical therapy",
+    "label": "TREATMENT",
+    "start": 1869,
+    "end": 1885
+  },
+  {
+    "entity": "occupational therapy",
+    "label": "TREATMENT",
+    "start": 1887,
+    "end": 1907
+  },
+  {
+    "entity": "social work consults",
+    "label": "TREATMENT",
+    "start": 1913,
+    "end": 1933
+  },
+  {
+    "entity": "home medications",
+    "label": "DRUG",
+    "start": 1965,
+    "end": 1981
+  },
+  {
+    "entity": "Lasix",
+    "label": "DRUG",
+    "start": 1996,
+    "end": 2001
+  },
+  {
+    "entity": "Lovenox",
+    "label": "DRUG",
+    "start": 2026,
+    "end": 2033
+  },
+  {
+    "entity": "Vicodin",
+    "label": "DRUG",
+    "start": 2062,
+    "end": 2069
+  },
+  {
+    "entity": "pain",
+    "label": "PROBLEM",
+    "start": 2121,
+    "end": 2125
+  },
+  {
+    "entity": "Combivent nebulizer",
+    "label": "DRUG",
+    "start": 2127,
+    "end": 2146
+  },
+  {
+    "entity": "difficulty breathing",
+    "label": "PROBLEM",
+    "start": 2180,
+    "end": 2200
+  },
+  {
+    "entity": "Zithromax",
+    "label": "DRUG",
+    "start": 2202,
+    "end": 2211
+  },
+  {
+    "entity": "guaifenesin",
+    "label": "DRUG",
+    "start": 2239,
+    "end": 2250
+  },
+  {
+    "entity": "open reduction",
+    "label": "TREATMENT",
+    "start": 2405,
+    "end": 2419
+  },
+  {
+    "entity": "internal fixation",
+    "label": "TREATMENT",
+    "start": 2421,
+    "end": 2438
+  },
+  {
+    "entity": "schatzker iii tibial plateau fracture",
+    "label": "PROBLEM",
+    "start": 2440,
+    "end": 2477
+  },
+  {
+    "entity": "meniscectomy",
+    "label": "TREATMENT",
+    "start": 2479,
+    "end": 2491
+  },
+  {
+    "entity": "tibial plateau fracture",
+    "label": "PROBLEM",
+    "start": 2493,
+    "end": 2516
+  },
+  {
+    "entity": "orif",
+    "label": "TREATMENT",
+    "start": 2518,
+    "end": 2522
+  },
+  {
+    "entity": "fixation",
+    "label": "TREATMENT",
+    "start": 2535,
+    "end": 2543
+  },
+  {
+    "entity": "fracture",
+    "label": "PROBLEM",
+    "start": 2564,
+    "end": 2572
+  }
+]

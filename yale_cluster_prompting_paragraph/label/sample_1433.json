@@ -1,0 +1,308 @@
+[
+  {
+    "entity": "Erectile Dysfunction",
+    "label": "PROBLEM",
+    "start": 55,
+    "end": 75
+  },
+  {
+    "entity": "erectile dysfunction",
+    "label": "PROBLEM",
+    "start": 121,
+    "end": 141
+  },
+  {
+    "entity": "Cialis",
+    "label": "DRUG",
+    "start": 158,
+    "end": 164
+  },
+  {
+    "entity": "side effects",
+    "label": "PROBLEM",
+    "start": 174,
+    "end": 186
+  },
+  {
+    "entity": "erectile dysfunction",
+    "label": "PROBLEM",
+    "start": 307,
+    "end": 327
+  },
+  {
+    "entity": "Cialis",
+    "label": "DRUG",
+    "start": 351,
+    "end": 357
+  },
+  {
+    "entity": "his symptoms",
+    "label": "PROBLEM",
+    "start": 424,
+    "end": 436
+  },
+  {
+    "entity": "side effect",
+    "label": "PROBLEM",
+    "start": 446,
+    "end": 457
+  },
+  {
+    "entity": "firm erection",
+    "label": "PROBLEM",
+    "start": 487,
+    "end": 500
+  },
+  {
+    "entity": "chest pain",
+    "label": "PROBLEM",
+    "start": 561,
+    "end": 571
+  },
+  {
+    "entity": "nitroglycerin",
+    "label": "DRUG",
+    "start": 576,
+    "end": 589
+  },
+  {
+    "entity": "fever",
+    "label": "PROBLEM",
+    "start": 600,
+    "end": 605
+  },
+  {
+    "entity": "chills",
+    "label": "PROBLEM",
+    "start": 610,
+    "end": 616
+  },
+  {
+    "entity": "dysuria",
+    "label": "PROBLEM",
+    "start": 622,
+    "end": 629
+  },
+  {
+    "entity": "gross hematuria",
+    "label": "PROBLEM",
+    "start": 631,
+    "end": 646
+  },
+  {
+    "entity": "fever",
+    "label": "PROBLEM",
+    "start": 648,
+    "end": 653
+  },
+  {
+    "entity": "chills",
+    "label": "PROBLEM",
+    "start": 655,
+    "end": 661
+  },
+  {
+    "entity": "nocturia",
+    "label": "PROBLEM",
+    "start": 701,
+    "end": 709
+  },
+  {
+    "entity": "elevated PSA",
+    "label": "PROBLEM",
+    "start": 759,
+    "end": 771
+  },
+  {
+    "entity": "biopsy",
+    "label": "TEST",
+    "start": 776,
+    "end": 782
+  },
+  {
+    "entity": "high grade PIN",
+    "label": "PROBLEM",
+    "start": 815,
+    "end": 829
+  },
+  {
+    "entity": "mid left biopsy",
+    "label": "TEST",
+    "start": 831,
+    "end": 846
+  },
+  {
+    "entity": "PSA",
+    "label": "TEST",
+    "start": 897,
+    "end": 900
+  },
+  {
+    "entity": "erectile dysfunction",
+    "label": "PROBLEM",
+    "start": 972,
+    "end": 992
+  },
+  {
+    "entity": "Cialis",
+    "label": "DRUG",
+    "start": 1009,
+    "end": 1015
+  },
+  {
+    "entity": "side effects",
+    "label": "PROBLEM",
+    "start": 1025,
+    "end": 1037
+  },
+  {
+    "entity": "any nitroglycerin",
+    "label": "DRUG",
+    "start": 1096,
+    "end": 1113
+  },
+  {
+    "entity": "any cardiac issues",
+    "label": "PROBLEM",
+    "start": 1117,
+    "end": 1135
+  },
+  {
+    "entity": "the medication",
+    "label": "DRUG",
+    "start": 1185,
+    "end": 1199
+  },
+  {
+    "entity": "other medications",
+    "label": "DRUG",
+    "start": 1215,
+    "end": 1232
+  },
+  {
+    "entity": "penile prosthesis",
+    "label": "TREATMENT",
+    "start": 1245,
+    "end": 1262
+  },
+  {
+    "entity": "Caverject injection",
+    "label": "TREATMENT",
+    "start": 1264,
+    "end": 1283
+  },
+  {
+    "entity": "working pump",
+    "label": "TREATMENT",
+    "start": 1299,
+    "end": 1311
+  },
+  {
+    "entity": "Elevated PSA",
+    "label": "PROBLEM",
+    "start": 1329,
+    "end": 1341
+  },
+  {
+    "entity": "biopsy",
+    "label": "TEST",
+    "start": 1369,
+    "end": 1375
+  },
+  {
+    "entity": "high-grade PIN",
+    "label": "PROBLEM",
+    "start": 1384,
+    "end": 1398
+  },
+  {
+    "entity": "a prostate ultrasound",
+    "label": "TEST",
+    "start": 1584,
+    "end": 1605
+  },
+  {
+    "entity": "biopsy",
+    "label": "TEST",
+    "start": 1610,
+    "end": 1616
+  },
+  {
+    "entity": "biopsy",
+    "label": "TEST",
+    "start": 1687,
+    "end": 1693
+  },
+  {
+    "entity": "Cialis",
+    "label": "DRUG",
+    "start": 1768,
+    "end": 1774
+  },
+  {
+    "entity": "Levitra",
+    "label": "DRUG",
+    "start": 1814,
+    "end": 1821
+  },
+  {
+    "entity": "side effects",
+    "label": "PROBLEM",
+    "start": 1936,
+    "end": 1948
+  },
+  {
+    "entity": "PSA",
+    "label": "TEST",
+    "start": 2110,
+    "end": 2113
+  },
+  {
+    "entity": "prostate ultrasound",
+    "label": "TEST",
+    "start": 2155,
+    "end": 2174
+  },
+  {
+    "entity": "biopsy",
+    "label": "TEST",
+    "start": 2179,
+    "end": 2185
+  },
+  {
+    "entity": "erectile dysfunction",
+    "label": "PROBLEM",
+    "start": 2289,
+    "end": 2309
+  },
+  {
+    "entity": "erectile dysfunction",
+    "label": "PROBLEM",
+    "start": 2311,
+    "end": 2331
+  },
+  {
+    "entity": "dysfunction",
+    "label": "PROBLEM",
+    "start": 2343,
+    "end": 2354
+  },
+  {
+    "entity": "cialis",
+    "label": "DRUG",
+    "start": 2356,
+    "end": 2362
+  },
+  {
+    "entity": "psa",
+    "label": "TEST",
+    "start": 2364,
+    "end": 2367
+  },
+  {
+    "entity": "biopsy",
+    "label": "TEST",
+    "start": 2369,
+    "end": 2375
+  }
+]

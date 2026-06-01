@@ -1,0 +1,65 @@
+[
+  {
+    "vital signs": "TEST"
+  },
+  {
+    "ptosis": "PROBLEM"
+  },
+  {
+    "lesion": "PROBLEM"
+  },
+  {
+    "enlarged": "PROBLEM"
+  },
+  {
+    "Auscultation of the lung": "TEST"
+  },
+  {
+    "Auscultation of the heart": "TEST"
+  },
+  {
+    "murmur": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "nipple discharge": "PROBLEM"
+  },
+  {
+    "mass": "PROBLEM"
+  },
+  {
+    "nontender": "PROBLEM"
+  },
+  {
+    "rebound": "PROBLEM"
+  },
+  {
+    "guarding": "PROBLEM"
+  },
+  {
+    "enlarged liver": "PROBLEM"
+  },
+  {
+    "enlarged spleen": "PROBLEM"
+  },
+  {
+    "Bowel sounds": "TEST"
+  },
+  {
+    "pelvic exam": "TEST"
+  },
+  {
+    "adnexal masses": "PROBLEM"
+  },
+  {
+    "cervical motion tenderness": "PROBLEM"
+  },
+  {
+    "deformity": "PROBLEM"
+  },
+  {
+    "Deep tendon reflexes": "TEST"
+  }
+]

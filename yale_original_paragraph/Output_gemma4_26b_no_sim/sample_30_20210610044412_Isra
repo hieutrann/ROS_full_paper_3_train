@@ -1,0 +1,104 @@
+[
+  {
+    "Blood pressure": "TEST"
+  },
+  {
+    "pulse": "TEST"
+  },
+  {
+    "respirations": "TEST"
+  },
+  {
+    "temperature": "TEST"
+  },
+  {
+    "Pulse oximetry": "TEST"
+  },
+  {
+    "Funduscopic exam": "TEST"
+  },
+  {
+    "hemorrhages": "PROBLEM"
+  },
+  {
+    "discopathy": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "bulging": "PROBLEM"
+  },
+  {
+    "retraction": "PROBLEM"
+  },
+  {
+    "abscess": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "JVD": "PROBLEM"
+  },
+  {
+    "egophony": "TEST"
+  },
+  {
+    "tactile fremitus": "TEST"
+  },
+  {
+    "murmur": "PROBLEM"
+  },
+  {
+    "gallops": "PROBLEM"
+  },
+  {
+    "clicks": "PROBLEM"
+  },
+  {
+    "heaves": "PROBLEM"
+  },
+  {
+    "rub": "PROBLEM"
+  },
+  {
+    "peripheral edema": "PROBLEM"
+  },
+  {
+    "hepatosplenomegaly": "PROBLEM"
+  },
+  {
+    "hernia": "PROBLEM"
+  },
+  {
+    "rebound": "PROBLEM"
+  },
+  {
+    "guarding": "PROBLEM"
+  },
+  {
+    "rigidity": "PROBLEM"
+  },
+  {
+    "ecchymosis": "PROBLEM"
+  },
+  {
+    "effusion": "PROBLEM"
+  },
+  {
+    "diaphores": "PROBLEM"
+  },
+  {
+    "wound": "PROBLEM"
+  },
+  {
+    "lymphadenopathy": "PROBLEM"
+  },
+  {
+    "hallucinations": "PROBLEM"
+  },
+  {
+    "suicidal or homicidal ideation": "PROBLEM"
+  }
+]

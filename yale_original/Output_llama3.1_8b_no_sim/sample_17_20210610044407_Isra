@@ -1,0 +1,386 @@
+[
+  {
+    "chronic kidney disease": "PROBLEM"
+  },
+  {
+    "diabetes mellitus": "PROBLEM"
+  },
+  {
+    "diabetic nephropathy": "PROBLEM"
+  },
+  {
+    "peripheral vascular disease": "PROBLEM"
+  },
+  {
+    "PTA": "TREATMENT"
+  },
+  {
+    "swelling": "PROBLEM"
+  },
+  {
+    "chronic kidney disease": "PROBLEM"
+  },
+  {
+    "diabetes mellitus": "PROBLEM"
+  },
+  {
+    "diabetic nephropathy": "PROBLEM"
+  },
+  {
+    "peripheral vascular disease": "PROBLEM"
+  },
+  {
+    "PTA": "TREATMENT"
+  },
+  {
+    "gout": "PROBLEM"
+  },
+  {
+    "gouty attacks": "PROBLEM"
+  },
+  {
+    "swollen": "PROBLEM"
+  },
+  {
+    "painful": "PROBLEM"
+  },
+  {
+    "gout": "PROBLEM"
+  },
+  {
+    "chronic kidney disease": "PROBLEM"
+  },
+  {
+    "PAST MEDICAL HISTORY": "TREATMENT"
+  },
+  {
+    "Diabetes mellitus type 2": "PROBLEM"
+  },
+  {
+    "2": "TEST"
+  },
+  {
+    "Diabetic nephropathy": "PROBLEM"
+  },
+  {
+    "Chronic kidney disease": "PROBLEM"
+  },
+  {
+    "stage 4": "PROBLEM"
+  },
+  {
+    "Hypertension": "PROBLEM"
+  },
+  {
+    "Hypercholesterolemia": "PROBLEM"
+  },
+  {
+    "hyperlipidemia": "PROBLEM"
+  },
+  {
+    "Peripheral vascular disease": "PROBLEM"
+  },
+  {
+    "PTA": "TREATMENT"
+  },
+  {
+    "smoking": "PROBLEM"
+  },
+  {
+    "NovoLog": "DRUG"
+  },
+  {
+    "Lantus": "DRUG"
+  },
+  {
+    "Crestor": "DRUG"
+  },
+  {
+    "Micardis": "DRUG"
+  },
+  {
+    "Imdur": "DRUG"
+  },
+  {
+    "Amlodipine": "DRUG"
+  },
+  {
+    "Coreg": "DRUG"
+  },
+  {
+    "Lasix": "DRUG"
+  },
+  {
+    "Ecotrin": "DRUG"
+  },
+  {
+    "calcitriol": "DRUG"
+  },
+  {
+    "swollen": "PROBLEM"
+  },
+  {
+    "painful": "PROBLEM"
+  },
+  {
+    "right hand": "PROBLEM"
+  },
+  {
+    "left foot": "PROBLEM"
+  },
+  {
+    "Foley": "TREATMENT"
+  },
+  {
+    "steroids": "DRUG"
+  },
+  {
+    "colchicine": "DRUG"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "chills": "PROBLEM"
+  },
+  {
+    "dysuria": "PROBLEM"
+  },
+  {
+    "frequency": "PROBLEM"
+  },
+  {
+    "hematuria": "PROBLEM"
+  },
+  {
+    "decreased urine output": "PROBLEM"
+  },
+  {
+    "urine output": "PROBLEM"
+  },
+  {
+    "urinate": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "hemoptysis": "PROBLEM"
+  },
+  {
+    "sputum production": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "orthopnea": "PROBLEM"
+  },
+  {
+    "paroxysmal nocturnal dyspnea": "PROBLEM"
+  },
+  {
+    "acute distress": "PROBLEM"
+  },
+  {
+    "Blood pressure": "TEST"
+  },
+  {
+    "temperature": "TEST"
+  },
+  {
+    "pulse": "TEST"
+  },
+  {
+    "respirations": "TEST"
+  },
+  {
+    "weight": "TEST"
+  },
+  {
+    "Normocephalic": "PROBLEM"
+  },
+  {
+    "Neck": "PROBLEM"
+  },
+  {
+    "JVD": "PROBLEM"
+  },
+  {
+    "adenopathy": "PROBLEM"
+  },
+  {
+    "Chest": "PROBLEM"
+  },
+  {
+    "retractions": "PROBLEM"
+  },
+  {
+    "Lungs": "PROBLEM"
+  },
+  {
+    "Heart": "PROBLEM"
+  },
+  {
+    "Abdomen": "PROBLEM"
+  },
+  {
+    "rebound": "PROBLEM"
+  },
+  {
+    "guarding": "PROBLEM"
+  },
+  {
+    "pretibial edema": "PROBLEM"
+  },
+  {
+    "left foot": "PROBLEM"
+  },
+  {
+    "dorsum of left foot": "PROBLEM"
+  },
+  {
+    "right hand": "PROBLEM"
+  },
+  {
+    "fingers": "PROBLEM"
+  },
+  {
+    "urine culture": "TEST"
+  },
+  {
+    "white cell": "TEST"
+  },
+  {
+    "hematocrit": "TEST"
+  },
+  {
+    "90% segs": "PROBLEM"
+  },
+  {
+    "0% bands": "PROBLEM"
+  },
+  {
+    "Serum sodium": "TEST"
+  },
+  {
+    "potassium": "TEST"
+  },
+  {
+    "chloride": "TEST"
+  },
+  {
+    "bicarb": "TEST"
+  },
+  {
+    "glucose": "TEST"
+  },
+  {
+    "BUN": "TEST"
+  },
+  {
+    "creatinine": "TEST"
+  },
+  {
+    "calcium": "TEST"
+  },
+  {
+    "uric acid": "TEST"
+  },
+  {
+    "Sed rate": "TEST"
+  },
+  {
+    "BNP": "TEST"
+  },
+  {
+    "white cells": "TEST"
+  },
+  {
+    "protein": "TEST"
+  },
+  {
+    "blood": "TEST"
+  },
+  {
+    "red blood cells": "TEST"
+  },
+  {
+    "IMPRESSION": "PROBLEM"
+  },
+  {
+    "Urinary tract infection": "PROBLEM"
+  },
+  {
+    "2": "TEST"
+  },
+  {
+    "Acute gouty attack": "PROBLEM"
+  },
+  {
+    "Diabetes mellitus": "PROBLEM"
+  },
+  {
+    "diabetic nephropathy": "PROBLEM"
+  },
+  {
+    "Hypertension": "PROBLEM"
+  },
+  {
+    "Hypercholesterolemia": "PROBLEM"
+  },
+  {
+    "Peripheral vascular disease": "PROBLEM"
+  },
+  {
+    "PTA": "TREATMENT"
+  },
+  {
+    "Chronic kidney disease": "PROBLEM"
+  },
+  {
+    "treatment": "TREATMENT"
+  },
+  {
+    "allopurinol": "DRUG"
+  },
+  {
+    "colchicine": "DRUG"
+  },
+  {
+    "Micardis": "DRUG"
+  },
+  {
+    "Lasix": "DRUG"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "hypercholesterolemia": "PROBLEM"
+  },
+  {
+    "hyperlipidemia": "PROBLEM"
+  },
+  {
+    "gouty attack": "PROBLEM"
+  },
+  {
+    "urinary tract infection": "PROBLEM"
+  },
+  {
+    "peripheral vascular disease": "PROBLEM"
+  },
+  {
+    "chronic kidney disease": "PROBLEM"
+  },
+  {
+    "diabetes mellitus": "PROBLEM"
+  },
+  {
+    "diabetic nephropathy": "PROBLEM"
+  },
+  {
+    "disease": "PROBLEM"
+  }
+]

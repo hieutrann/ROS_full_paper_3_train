@@ -1,0 +1,62 @@
+[
+  {
+    "prematurity": "PROBLEM"
+  },
+  {
+    "sepsis": "PROBLEM"
+  },
+  {
+    "Ampicillin": "DRUG"
+  },
+  {
+    "gentamicin": "DRUG"
+  },
+  {
+    "NeoSure": "DRUG"
+  },
+  {
+    "EBM 22": "DRUG"
+  },
+  {
+    "D10": "DRUG"
+  },
+  {
+    "terbutaline": "DRUG"
+  },
+  {
+    "magnesium sulfate": "DRUG"
+  },
+  {
+    "CPR": "TREATMENT"
+  },
+  {
+    "incision": "TREATMENT"
+  },
+  {
+    "drainage": "TREATMENT"
+  },
+  {
+    "suctioned": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "CBC": "TEST"
+  },
+  {
+    "CRP": "TEST"
+  },
+  {
+    "blood cultures": "TEST"
+  },
+  {
+    "Apgar scores": "TEST"
+  },
+  {
+    "gestation": "TEST"
+  },
+  {
+    "weight": "TEST"
+  }
+]

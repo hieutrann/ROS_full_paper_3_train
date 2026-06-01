@@ -1,0 +1,53 @@
+[
+  {
+    "Coronary artery disease": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "diabetes": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "obesity": "PROBLEM"
+  },
+  {
+    "lesion in the medial aspect of the right parietal lobe": "PROBLEM"
+  },
+  {
+    "deconditioning": "PROBLEM"
+  },
+  {
+    "Echocardiogram": "TEST"
+  },
+  {
+    "MRI of the brain": "TEST"
+  },
+  {
+    "Lower extremity Duplex ultrasound": "TEST"
+  },
+  {
+    "cardiac catheterization": "TREATMENT"
+  },
+  {
+    "Aspirin": "DRUG"
+  },
+  {
+    "Lovenox": "DRUG"
+  },
+  {
+    "Regular Insulin": "DRUG"
+  },
+  {
+    "Novolin 70/30": "DRUG"
+  },
+  {
+    "Metformin": "DRUG"
+  },
+  {
+    "Protonix": "DRUG"
+  }
+]

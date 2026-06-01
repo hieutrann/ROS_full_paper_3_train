@@ -1,0 +1,446 @@
+[
+  {
+    "entity": "depression",
+    "label": "PROBLEM",
+    "start": 147,
+    "end": 157
+  },
+  {
+    "entity": "high risk behavior",
+    "label": "PROBLEM",
+    "start": 162,
+    "end": 180
+  },
+  {
+    "entity": "Depression",
+    "label": "PROBLEM",
+    "start": 345,
+    "end": 355
+  },
+  {
+    "entity": "High risk behavior",
+    "label": "PROBLEM",
+    "start": 360,
+    "end": 378
+  },
+  {
+    "entity": "depressed and anxious with paranoia",
+    "label": "PROBLEM",
+    "start": 408,
+    "end": 443
+  },
+  {
+    "entity": "high risk for relapse",
+    "label": "PROBLEM",
+    "start": 481,
+    "end": 502
+  },
+  {
+    "entity": "RTC level of care",
+    "label": "TREATMENT",
+    "start": 514,
+    "end": 531
+  },
+  {
+    "entity": "A developmentally appropriate, group-oriented therapy program",
+    "label": "TREATMENT",
+    "start": 548,
+    "end": 609
+  },
+  {
+    "entity": "evaluation",
+    "label": "TEST",
+    "start": 682,
+    "end": 692
+  },
+  {
+    "entity": "psychotropic medications",
+    "label": "DRUG",
+    "start": 715,
+    "end": 739
+  },
+  {
+    "entity": "individual, group, and family therapy",
+    "label": "TREATMENT",
+    "start": 776,
+    "end": 813
+  },
+  {
+    "entity": "hospital",
+    "label": "TREATMENT",
+    "start": 858,
+    "end": 866
+  },
+  {
+    "entity": "Perceptual disturbances",
+    "label": "PROBLEM",
+    "start": 986,
+    "end": 1009
+  },
+  {
+    "entity": "disorganized thoughts",
+    "label": "PROBLEM",
+    "start": 1011,
+    "end": 1032
+  },
+  {
+    "entity": "audiovisual hallucinations",
+    "label": "PROBLEM",
+    "start": 1100,
+    "end": 1126
+  },
+  {
+    "entity": "flat affect",
+    "label": "PROBLEM",
+    "start": 1152,
+    "end": 1163
+  },
+  {
+    "entity": "irritable",
+    "label": "PROBLEM",
+    "start": 1165,
+    "end": 1174
+  },
+  {
+    "entity": "anxious",
+    "label": "PROBLEM",
+    "start": 1176,
+    "end": 1183
+  },
+  {
+    "entity": "depressed moods",
+    "label": "PROBLEM",
+    "start": 1188,
+    "end": 1203
+  },
+  {
+    "entity": "tearful at times",
+    "label": "PROBLEM",
+    "start": 1205,
+    "end": 1221
+  },
+  {
+    "entity": "homesick",
+    "label": "PROBLEM",
+    "start": 1223,
+    "end": 1231
+  },
+  {
+    "entity": "limited interaction with peers",
+    "label": "PROBLEM",
+    "start": 1233,
+    "end": 1263
+  },
+  {
+    "entity": "limited participation",
+    "label": "PROBLEM",
+    "start": 1312,
+    "end": 1333
+  },
+  {
+    "entity": "relapse",
+    "label": "PROBLEM",
+    "start": 1662,
+    "end": 1669
+  },
+  {
+    "entity": "RTC program",
+    "label": "TREATMENT",
+    "start": 1758,
+    "end": 1769
+  },
+  {
+    "entity": "sleep-deprived EEG",
+    "label": "TEST",
+    "start": 1915,
+    "end": 1933
+  },
+  {
+    "entity": "EKG",
+    "label": "TEST",
+    "start": 1959,
+    "end": 1962
+  },
+  {
+    "entity": "H&P",
+    "label": "TEST",
+    "start": 2094,
+    "end": 2097
+  },
+  {
+    "entity": "psychiatric treatment",
+    "label": "TREATMENT",
+    "start": 2124,
+    "end": 2145
+  },
+  {
+    "entity": "basic metabolic panel",
+    "label": "TEST",
+    "start": 2183,
+    "end": 2204
+  },
+  {
+    "entity": "CBC",
+    "label": "TEST",
+    "start": 2206,
+    "end": 2209
+  },
+  {
+    "entity": "TSH",
+    "label": "TEST",
+    "start": 2211,
+    "end": 2214
+  },
+  {
+    "entity": "UA",
+    "label": "TEST",
+    "start": 2216,
+    "end": 2218
+  },
+  {
+    "entity": "urine drug screen",
+    "label": "TEST",
+    "start": 2224,
+    "end": 2241
+  },
+  {
+    "entity": "thyroid dysfunction",
+    "label": "PROBLEM",
+    "start": 2271,
+    "end": 2290
+  },
+  {
+    "entity": "thyroid panel",
+    "label": "TEST",
+    "start": 2312,
+    "end": 2325
+  },
+  {
+    "entity": "T3",
+    "label": "TEST",
+    "start": 2327,
+    "end": 2329
+  },
+  {
+    "entity": "T4",
+    "label": "TEST",
+    "start": 2331,
+    "end": 2333
+  },
+  {
+    "entity": "TSH",
+    "label": "TEST",
+    "start": 2339,
+    "end": 2342
+  },
+  {
+    "entity": "asthma",
+    "label": "PROBLEM",
+    "start": 2388,
+    "end": 2394
+  },
+  {
+    "entity": "heart murmur",
+    "label": "PROBLEM",
+    "start": 2428,
+    "end": 2440
+  },
+  {
+    "entity": "H&P exam",
+    "label": "TEST",
+    "start": 2459,
+    "end": 2467
+  },
+  {
+    "entity": "CBC",
+    "label": "TEST",
+    "start": 2470,
+    "end": 2473
+  },
+  {
+    "entity": "Hematocrit",
+    "label": "TEST",
+    "start": 2475,
+    "end": 2485
+  },
+  {
+    "entity": "absolute monocytes",
+    "label": "TEST",
+    "start": 2500,
+    "end": 2518
+  },
+  {
+    "entity": "Major depression, recurrent, with psychotic features",
+    "label": "PROBLEM",
+    "start": 2600,
+    "end": 2652
+  },
+  {
+    "entity": "acute major medical conditions",
+    "label": "PROBLEM",
+    "start": 2686,
+    "end": 2716
+  },
+  {
+    "entity": "Psychosocial stressors",
+    "label": "PROBLEM",
+    "start": 2727,
+    "end": 2749
+  },
+  {
+    "entity": "GAF",
+    "label": "TEST",
+    "start": 2759,
+    "end": 2762
+  },
+  {
+    "entity": "suicidal or homicidal ideas",
+    "label": "PROBLEM",
+    "start": 2889,
+    "end": 2916
+  },
+  {
+    "entity": "perception disturbances",
+    "label": "PROBLEM",
+    "start": 2952,
+    "end": 2975
+  },
+  {
+    "entity": "treatment",
+    "label": "TREATMENT",
+    "start": 3190,
+    "end": 3199
+  },
+  {
+    "entity": "intake appointment",
+    "label": "TREATMENT",
+    "start": 3217,
+    "end": 3235
+  },
+  {
+    "entity": "RTC (Residential Treatment Center) program",
+    "label": "TREATMENT",
+    "start": 3324,
+    "end": 3366
+  },
+  {
+    "entity": "Seroquel",
+    "label": "DRUG",
+    "start": 3735,
+    "end": 3743
+  },
+  {
+    "entity": "Seroquel",
+    "label": "DRUG",
+    "start": 3782,
+    "end": 3790
+  },
+  {
+    "entity": "Benadryl",
+    "label": "DRUG",
+    "start": 3809,
+    "end": 3817
+  },
+  {
+    "entity": "Wellbutrin XL",
+    "label": "DRUG",
+    "start": 3878,
+    "end": 3891
+  },
+  {
+    "entity": "vitamin E",
+    "label": "DRUG",
+    "start": 3912,
+    "end": 3921
+  },
+  {
+    "entity": "Restoril",
+    "label": "DRUG",
+    "start": 3950,
+    "end": 3958
+  },
+  {
+    "entity": "galactorrhea",
+    "label": "PROBLEM",
+    "start": 4035,
+    "end": 4047
+  },
+  {
+    "entity": "galactorrhea",
+    "label": "PROBLEM",
+    "start": 4074,
+    "end": 4086
+  },
+  {
+    "entity": "Risperdal",
+    "label": "DRUG",
+    "start": 4132,
+    "end": 4141
+  },
+  {
+    "entity": "Risperdal",
+    "label": "DRUG",
+    "start": 4155,
+    "end": 4164
+  },
+  {
+    "entity": "depression",
+    "label": "PROBLEM",
+    "start": 4319,
+    "end": 4329
+  },
+  {
+    "entity": "high risk behavior",
+    "label": "PROBLEM",
+    "start": 4336,
+    "end": 4354
+  },
+  {
+    "entity": "psychosocial stressors",
+    "label": "PROBLEM",
+    "start": 4356,
+    "end": 4378
+  },
+  {
+    "entity": "rtc",
+    "label": "TREATMENT",
+    "start": 4380,
+    "end": 4383
+  },
+  {
+    "entity": "residential treatment center",
+    "label": "TREATMENT",
+    "start": 4385,
+    "end": 4413
+  },
+  {
+    "entity": "anxious",
+    "label": "PROBLEM",
+    "start": 4415,
+    "end": 4422
+  },
+  {
+    "entity": "paranoia",
+    "label": "PROBLEM",
+    "start": 4424,
+    "end": 4432
+  },
+  {
+    "entity": "psychiatric treatment",
+    "label": "TREATMENT",
+    "start": 4434,
+    "end": 4455
+  },
+  {
+    "entity": "psychotropic medications",
+    "label": "DRUG",
+    "start": 4457,
+    "end": 4481
+  },
+  {
+    "entity": "sleep-deprived eeg",
+    "label": "TEST",
+    "start": 4483,
+    "end": 4501
+  }
+]

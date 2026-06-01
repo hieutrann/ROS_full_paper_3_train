@@ -1,0 +1,236 @@
+[
+  {
+    "VITAL SIGNS": "TEST"
+  },
+  {
+    "HEENT": "TEST"
+  },
+  {
+    "EOMI": "TEST"
+  },
+  {
+    "PERRLA": "TEST"
+  },
+  {
+    "Funduscopic examination": "TEST"
+  },
+  {
+    "papilledema": "PROBLEM"
+  },
+  {
+    "glaucoma": "PROBLEM"
+  },
+  {
+    "cataracts": "PROBLEM"
+  },
+  {
+    "TMs": "TEST"
+  },
+  {
+    "NECK": "TEST"
+  },
+  {
+    "carotid bruit": "PROBLEM"
+  },
+  {
+    "JVD": "PROBLEM"
+  },
+  {
+    "cervical adenopathy": "PROBLEM"
+  },
+  {
+    "stridor": "PROBLEM"
+  },
+  {
+    "subcutaneous emphysema": "PROBLEM"
+  },
+  {
+    "Thyroid": "PROBLEM"
+  },
+  {
+    "CHEST": "TEST"
+  },
+  {
+    "HEART": "TEST"
+  },
+  {
+    "S1": "TEST"
+  },
+  {
+    "S2": "TEST"
+  },
+  {
+    "murmur": "PROBLEM"
+  },
+  {
+    "heave": "PROBLEM"
+  },
+  {
+    "click": "PROBLEM"
+  },
+  {
+    "lift": "PROBLEM"
+  },
+  {
+    "thrill": "PROBLEM"
+  },
+  {
+    "rub": "PROBLEM"
+  },
+  {
+    "gallop": "PROBLEM"
+  },
+  {
+    "PMI": "TEST"
+  },
+  {
+    "BREASTS": "TEST"
+  },
+  {
+    "ABDOMEN": "TEST"
+  },
+  {
+    "hepatosplenomegaly": "PROBLEM"
+  },
+  {
+    "mass": "PROBLEM"
+  },
+  {
+    "tenderness": "PROBLEM"
+  },
+  {
+    "rebound": "PROBLEM"
+  },
+  {
+    "rigidity": "PROBLEM"
+  },
+  {
+    "guarding": "PROBLEM"
+  },
+  {
+    "aortic impulse": "PROBLEM"
+  },
+  {
+    "intraabdominal bruit": "PROBLEM"
+  },
+  {
+    "EXTERNAL GENITALIA": "TEST"
+  },
+  {
+    "hernia": "PROBLEM"
+  },
+  {
+    "hydrocele": "PROBLEM"
+  },
+  {
+    "RECTAL": "TEST"
+  },
+  {
+    "Hemoccult-negative": "TEST"
+  },
+  {
+    "prostate": "PROBLEM"
+  },
+  {
+    "nodularity": "PROBLEM"
+  },
+  {
+    "rectal masses": "PROBLEM"
+  },
+  {
+    "EXTREMITIES": "TEST"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "cyanosis": "PROBLEM"
+  },
+  {
+    "clubbing": "PROBLEM"
+  },
+  {
+    "deep venous thrombosis": "PROBLEM"
+  },
+  {
+    "BACK": "TEST"
+  },
+  {
+    "spinous process tenderness": "PROBLEM"
+  },
+  {
+    "CVA tenderness": "PROBLEM"
+  },
+  {
+    "straight-leg raising": "TEST"
+  },
+  {
+    "Kernig": "TEST"
+  },
+  {
+    "Brudzinski": "TEST"
+  },
+  {
+    "NEUROLOGIC": "TEST"
+  },
+  {
+    "cranial nervous systems": "PROBLEM"
+  },
+  {
+    "peripheral nervous systems": "PROBLEM"
+  },
+  {
+    "strength": "PROBLEM"
+  },
+  {
+    "sensation": "PROBLEM"
+  },
+  {
+    "cerebellar function": "PROBLEM"
+  },
+  {
+    "affect": "PROBLEM"
+  },
+  {
+    "speech": "PROBLEM"
+  },
+  {
+    "thought process": "PROBLEM"
+  },
+  {
+    "gait": "PROBLEM"
+  },
+  {
+    "station": "PROBLEM"
+  },
+  {
+    "SKIN": "TEST"
+  },
+  {
+    "premalignant": "PROBLEM"
+  },
+  {
+    "malignant": "PROBLEM"
+  },
+  {
+    "digital palpation": "TREATMENT"
+  },
+  {
+    "hemoccult - negative": "TEST"
+  },
+  {
+    "heent": "TEST"
+  },
+  {
+    "palpation": "TREATMENT"
+  },
+  {
+    "breasts": "PROBLEM"
+  },
+  {
+    "male": "PROBLEM"
+  },
+  {
+    "tongue": "PROBLEM"
+  }
+]

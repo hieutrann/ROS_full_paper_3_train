@@ -1,0 +1,308 @@
+[
+  {
+    "entity": "MRI C-Spine",
+    "label": "TEST",
+    "start": 57,
+    "end": 68
+  },
+  {
+    "entity": "C5-6 Disk Herniation",
+    "label": "PROBLEM",
+    "start": 71,
+    "end": 91
+  },
+  {
+    "entity": "MRI C-spine",
+    "label": "TEST",
+    "start": 106,
+    "end": 117
+  },
+  {
+    "entity": "right shoulder pain",
+    "label": "PROBLEM",
+    "start": 130,
+    "end": 149
+  },
+  {
+    "entity": "C5-6 disk herniation",
+    "label": "PROBLEM",
+    "start": 152,
+    "end": 172
+  },
+  {
+    "entity": "Right shoulder pain",
+    "label": "PROBLEM",
+    "start": 216,
+    "end": 235
+  },
+  {
+    "entity": "right neck and shoulder stiffness",
+    "label": "PROBLEM",
+    "start": 293,
+    "end": 326
+  },
+  {
+    "entity": "pain",
+    "label": "PROBLEM",
+    "start": 331,
+    "end": 335
+  },
+  {
+    "entity": "The symptoms",
+    "label": "PROBLEM",
+    "start": 337,
+    "end": 349
+  },
+  {
+    "entity": "numbness",
+    "label": "PROBLEM",
+    "start": 449,
+    "end": 457
+  },
+  {
+    "entity": "RUE pain",
+    "label": "PROBLEM",
+    "start": 512,
+    "end": 520
+  },
+  {
+    "entity": "a throbbing pain",
+    "label": "PROBLEM",
+    "start": 549,
+    "end": 565
+  },
+  {
+    "entity": "numbness in both lower extremities",
+    "label": "PROBLEM",
+    "start": 588,
+    "end": 622
+  },
+  {
+    "entity": "pain in the coccygeal region",
+    "label": "PROBLEM",
+    "start": 627,
+    "end": 655
+  },
+  {
+    "entity": "The pains",
+    "label": "PROBLEM",
+    "start": 657,
+    "end": 666
+  },
+  {
+    "entity": "impaired sleep",
+    "label": "PROBLEM",
+    "start": 689,
+    "end": 703
+  },
+  {
+    "entity": "any visual change",
+    "label": "PROBLEM",
+    "start": 716,
+    "end": 733
+  },
+  {
+    "entity": "bowel or bladder difficulties",
+    "label": "PROBLEM",
+    "start": 735,
+    "end": 764
+  },
+  {
+    "entity": "symptoms",
+    "label": "PROBLEM",
+    "start": 769,
+    "end": 777
+  },
+  {
+    "entity": "an electric shock like sensation",
+    "label": "PROBLEM",
+    "start": 826,
+    "end": 858
+  },
+  {
+    "entity": "neck/back/head trauma",
+    "label": "PROBLEM",
+    "start": 956,
+    "end": 977
+  },
+  {
+    "entity": "Naprosyn",
+    "label": "DRUG",
+    "start": 999,
+    "end": 1007
+  },
+  {
+    "entity": "Catamenial Headaches",
+    "label": "PROBLEM",
+    "start": 1036,
+    "end": 1056
+  },
+  {
+    "entity": "Allergy",
+    "label": "PROBLEM",
+    "start": 1061,
+    "end": 1068
+  },
+  {
+    "entity": "Macrodantin",
+    "label": "DRUG",
+    "start": 1072,
+    "end": 1083
+  },
+  {
+    "entity": "Vital signs",
+    "label": "TEST",
+    "start": 1124,
+    "end": 1135
+  },
+  {
+    "entity": "deficits",
+    "label": "PROBLEM",
+    "start": 1247,
+    "end": 1255
+  },
+  {
+    "entity": "LT/PP/VIB/TEMP/PROP testing",
+    "label": "TEST",
+    "start": 1259,
+    "end": 1286
+  },
+  {
+    "entity": "ord/Gait/Stati",
+    "label": "TEST",
+    "start": 1290,
+    "end": 1304
+  },
+  {
+    "entity": "Reflexes",
+    "label": "TEST",
+    "start": 1322,
+    "end": 1330
+  },
+  {
+    "entity": "absent right ankle reflex",
+    "label": "PROBLEM",
+    "start": 1388,
+    "end": 1413
+  },
+  {
+    "entity": "Rectal exam",
+    "label": "TEST",
+    "start": 1458,
+    "end": 1469
+  },
+  {
+    "entity": "C-spine lesion",
+    "label": "PROBLEM",
+    "start": 1496,
+    "end": 1510
+  },
+  {
+    "entity": "MRI C-spine",
+    "label": "TEST",
+    "start": 1520,
+    "end": 1531
+  },
+  {
+    "entity": "a central C5-6 disk herniation",
+    "label": "PROBLEM",
+    "start": 1541,
+    "end": 1571
+  },
+  {
+    "entity": "compression of the spinal cord",
+    "label": "PROBLEM",
+    "start": 1577,
+    "end": 1607
+  },
+  {
+    "entity": "EMG/NCV",
+    "label": "TEST",
+    "start": 1623,
+    "end": 1630
+  },
+  {
+    "entity": "fibrillations in the right biceps",
+    "label": "PROBLEM",
+    "start": 1668,
+    "end": 1701
+  },
+  {
+    "entity": "increased insertional activity in all muscles",
+    "label": "PROBLEM",
+    "start": 1838,
+    "end": 1883
+  },
+  {
+    "entity": "a C6-7 radiculopathy",
+    "label": "PROBLEM",
+    "start": 1944,
+    "end": 1964
+  },
+  {
+    "entity": "C5-6 laminectomy",
+    "label": "TREATMENT",
+    "start": 2001,
+    "end": 2017
+  },
+  {
+    "entity": "her symptoms",
+    "label": "PROBLEM",
+    "start": 2022,
+    "end": 2034
+  },
+  {
+    "entity": "shoulder pain",
+    "label": "PROBLEM",
+    "start": 2066,
+    "end": 2079
+  },
+  {
+    "entity": "stiffness",
+    "label": "PROBLEM",
+    "start": 2081,
+    "end": 2090
+  },
+  {
+    "entity": "numbness",
+    "label": "PROBLEM",
+    "start": 2092,
+    "end": 2100
+  },
+  {
+    "entity": "lhermitte's phenomena",
+    "label": "PROBLEM",
+    "start": 2102,
+    "end": 2123
+  },
+  {
+    "entity": "c-spine lesion",
+    "label": "PROBLEM",
+    "start": 2125,
+    "end": 2139
+  },
+  {
+    "entity": "disk herniation",
+    "label": "PROBLEM",
+    "start": 2141,
+    "end": 2156
+  },
+  {
+    "entity": "mri c spine",
+    "label": "TEST",
+    "start": 2158,
+    "end": 2169
+  },
+  {
+    "entity": "reflexes",
+    "label": "TEST",
+    "start": 2171,
+    "end": 2179
+  },
+  {
+    "entity": "mri",
+    "label": "TEST",
+    "start": 2189,
+    "end": 2192
+  }
+]

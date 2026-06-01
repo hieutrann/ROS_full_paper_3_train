@@ -1,0 +1,386 @@
+[
+  {
+    "entity": "Detox",
+    "label": "TREATMENT",
+    "start": 63,
+    "end": 68
+  },
+  {
+    "entity": "Heroin",
+    "label": "PROBLEM",
+    "start": 74,
+    "end": 80
+  },
+  {
+    "entity": "heroin abuse",
+    "label": "PROBLEM",
+    "start": 129,
+    "end": 141
+  },
+  {
+    "entity": "the heroin",
+    "label": "PROBLEM",
+    "start": 161,
+    "end": 171
+  },
+  {
+    "entity": "cocaine",
+    "label": "PROBLEM",
+    "start": 217,
+    "end": 224
+  },
+  {
+    "entity": "alcohol abuse",
+    "label": "PROBLEM",
+    "start": 261,
+    "end": 274
+  },
+  {
+    "entity": "the heroin abuse",
+    "label": "PROBLEM",
+    "start": 309,
+    "end": 325
+  },
+  {
+    "entity": "Detox from heroin",
+    "label": "TREATMENT",
+    "start": 382,
+    "end": 399
+  },
+  {
+    "entity": "heroin abuse",
+    "label": "PROBLEM",
+    "start": 484,
+    "end": 496
+  },
+  {
+    "entity": "the heroin",
+    "label": "PROBLEM",
+    "start": 558,
+    "end": 568
+  },
+  {
+    "entity": "alcohol abuse",
+    "label": "PROBLEM",
+    "start": 658,
+    "end": 671
+  },
+  {
+    "entity": "the heroin abuse",
+    "label": "PROBLEM",
+    "start": 706,
+    "end": 722
+  },
+  {
+    "entity": "chronic pain",
+    "label": "PROBLEM",
+    "start": 761,
+    "end": 773
+  },
+  {
+    "entity": "multiple stab wounds",
+    "label": "PROBLEM",
+    "start": 786,
+    "end": 806
+  },
+  {
+    "entity": "gunshot wounds",
+    "label": "PROBLEM",
+    "start": 808,
+    "end": 822
+  },
+  {
+    "entity": "a variety of other injuries",
+    "label": "PROBLEM",
+    "start": 828,
+    "end": 855
+  },
+  {
+    "entity": "chronic pain",
+    "label": "PROBLEM",
+    "start": 881,
+    "end": 893
+  },
+  {
+    "entity": "heroin",
+    "label": "PROBLEM",
+    "start": 948,
+    "end": 954
+  },
+  {
+    "entity": "pain",
+    "label": "PROBLEM",
+    "start": 976,
+    "end": 980
+  },
+  {
+    "entity": "heroin",
+    "label": "PROBLEM",
+    "start": 1115,
+    "end": 1121
+  },
+  {
+    "entity": "cocaine",
+    "label": "PROBLEM",
+    "start": 1133,
+    "end": 1140
+  },
+  {
+    "entity": "any headache",
+    "label": "PROBLEM",
+    "start": 1193,
+    "end": 1205
+  },
+  {
+    "entity": "visual complaints",
+    "label": "PROBLEM",
+    "start": 1209,
+    "end": 1226
+  },
+  {
+    "entity": "hallucinations",
+    "label": "PROBLEM",
+    "start": 1231,
+    "end": 1245
+  },
+  {
+    "entity": "chest pain",
+    "label": "PROBLEM",
+    "start": 1250,
+    "end": 1260
+  },
+  {
+    "entity": "shortness of breath",
+    "label": "PROBLEM",
+    "start": 1262,
+    "end": 1281
+  },
+  {
+    "entity": "abdominal pain",
+    "label": "PROBLEM",
+    "start": 1283,
+    "end": 1297
+  },
+  {
+    "entity": "back pain",
+    "label": "PROBLEM",
+    "start": 1301,
+    "end": 1310
+  },
+  {
+    "entity": "any abscesses",
+    "label": "PROBLEM",
+    "start": 1319,
+    "end": 1332
+  },
+  {
+    "entity": "heroin use",
+    "label": "PROBLEM",
+    "start": 1385,
+    "end": 1395
+  },
+  {
+    "entity": "alcohol abuse",
+    "label": "PROBLEM",
+    "start": 1397,
+    "end": 1410
+  },
+  {
+    "entity": "cocaine",
+    "label": "PROBLEM",
+    "start": 1444,
+    "end": 1451
+  },
+  {
+    "entity": "analgesics",
+    "label": "DRUG",
+    "start": 1525,
+    "end": 1535
+  },
+  {
+    "entity": "pain medications",
+    "label": "DRUG",
+    "start": 1540,
+    "end": 1556
+  },
+  {
+    "entity": "Klonopin",
+    "label": "DRUG",
+    "start": 1649,
+    "end": 1657
+  },
+  {
+    "entity": "lithium",
+    "label": "DRUG",
+    "start": 1662,
+    "end": 1669
+  },
+  {
+    "entity": "codeine",
+    "label": "PROBLEM",
+    "start": 1692,
+    "end": 1699
+  },
+  {
+    "entity": "this pain",
+    "label": "PROBLEM",
+    "start": 1704,
+    "end": 1713
+  },
+  {
+    "entity": "ALLERGIES",
+    "label": "PROBLEM",
+    "start": 1715,
+    "end": 1724
+  },
+  {
+    "entity": "VITAL SIGNS",
+    "label": "TEST",
+    "start": 1754,
+    "end": 1765
+  },
+  {
+    "entity": "hypertensive",
+    "label": "PROBLEM",
+    "start": 1807,
+    "end": 1819
+  },
+  {
+    "entity": "pulse",
+    "label": "TEST",
+    "start": 1833,
+    "end": 1838
+  },
+  {
+    "entity": "His respiratory rate",
+    "label": "TEST",
+    "start": 1880,
+    "end": 1900
+  },
+  {
+    "entity": "a little jittery",
+    "label": "PROBLEM",
+    "start": 1942,
+    "end": 1958
+  },
+  {
+    "entity": "breath sounds",
+    "label": "TEST",
+    "start": 2234,
+    "end": 2247
+  },
+  {
+    "entity": "wheezing",
+    "label": "PROBLEM",
+    "start": 2255,
+    "end": 2263
+  },
+  {
+    "entity": "rales",
+    "label": "PROBLEM",
+    "start": 2268,
+    "end": 2273
+  },
+  {
+    "entity": "rhonchi",
+    "label": "PROBLEM",
+    "start": 2277,
+    "end": 2284
+  },
+  {
+    "entity": "cough",
+    "label": "PROBLEM",
+    "start": 2311,
+    "end": 2316
+  },
+  {
+    "entity": "murmur",
+    "label": "PROBLEM",
+    "start": 2335,
+    "end": 2341
+  },
+  {
+    "entity": "multiple track marks",
+    "label": "PROBLEM",
+    "start": 2379,
+    "end": 2399
+  },
+  {
+    "entity": "abscesses",
+    "label": "PROBLEM",
+    "start": 2426,
+    "end": 2435
+  },
+  {
+    "entity": "clonidine",
+    "label": "DRUG",
+    "start": 2656,
+    "end": 2665
+  },
+  {
+    "entity": "Phenergan",
+    "label": "DRUG",
+    "start": 2670,
+    "end": 2679
+  },
+  {
+    "entity": "any further workup",
+    "label": "TEST",
+    "start": 2768,
+    "end": 2786
+  },
+  {
+    "entity": "phenergan",
+    "label": "DRUG",
+    "start": 2877,
+    "end": 2886
+  },
+  {
+    "entity": "detox from heroin",
+    "label": "TREATMENT",
+    "start": 2888,
+    "end": 2905
+  },
+  {
+    "entity": "alcohol abuse",
+    "label": "PROBLEM",
+    "start": 2907,
+    "end": 2920
+  },
+  {
+    "entity": "heroin abuse",
+    "label": "PROBLEM",
+    "start": 2922,
+    "end": 2934
+  },
+  {
+    "entity": "detox",
+    "label": "TREATMENT",
+    "start": 2936,
+    "end": 2941
+  },
+  {
+    "entity": "heroin",
+    "label": "PROBLEM",
+    "start": 2943,
+    "end": 2949
+  },
+  {
+    "entity": "alcohol",
+    "label": "PROBLEM",
+    "start": 2951,
+    "end": 2958
+  },
+  {
+    "entity": "cocaine",
+    "label": "PROBLEM",
+    "start": 2960,
+    "end": 2967
+  },
+  {
+    "entity": "abuse",
+    "label": "PROBLEM",
+    "start": 2969,
+    "end": 2974
+  }
+]

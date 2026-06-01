@@ -1,0 +1,341 @@
+[
+  {
+    "General Medicine": "PROBLEM"
+  },
+  {
+    "Stasis Ulcer": "PROBLEM"
+  },
+  {
+    "Nonhealing right ankle stasis ulcer": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "chronic intermittent bipedal edema": "PROBLEM"
+  },
+  {
+    "recurrent leg venous ulcers": "PROBLEM"
+  },
+  {
+    "vascular surgery": "TREATMENT"
+  },
+  {
+    "low-grade fever": "PROBLEM"
+  },
+  {
+    "ankle pain": "PROBLEM"
+  },
+  {
+    "leg cellulitis": "PROBLEM"
+  },
+  {
+    "Pseudomonas": "PROBLEM"
+  },
+  {
+    "Enterococcus": "PROBLEM"
+  },
+  {
+    "Stenotrophomonas": "PROBLEM"
+  },
+  {
+    "Klebsiella": "PROBLEM"
+  },
+  {
+    "Enterobacter": "PROBLEM"
+  },
+  {
+    "wound center": "TEST"
+  },
+  {
+    "wound cultures": "TEST"
+  },
+  {
+    "fevers": "PROBLEM"
+  },
+  {
+    "chills": "PROBLEM"
+  },
+  {
+    "visual acuity": "TEST"
+  },
+  {
+    "diplopia": "PROBLEM"
+  },
+  {
+    "hearing disturbances": "PROBLEM"
+  },
+  {
+    "sinus congestion": "PROBLEM"
+  },
+  {
+    "sore throat": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "diarrhea": "PROBLEM"
+  },
+  {
+    "exploratory laparotomy": "TREATMENT"
+  },
+  {
+    "cholecystectomy": "TREATMENT"
+  },
+  {
+    "venous insufficiency": "PROBLEM"
+  },
+  {
+    "stasis ulcers": "PROBLEM"
+  },
+  {
+    "alcohol drinking": "PROBLEM"
+  },
+  {
+    "cigarette smoker": "PROBLEM"
+  },
+  {
+    "Primaxin": "DRUG"
+  },
+  {
+    "daptomycin": "DRUG"
+  },
+  {
+    "clonidine": "DRUG"
+  },
+  {
+    "furosemide": "DRUG"
+  },
+  {
+    "potassium chloride": "DRUG"
+  },
+  {
+    "lisinopril": "DRUG"
+  },
+  {
+    "metoprolol": "DRUG"
+  },
+  {
+    "ranitidine": "DRUG"
+  },
+  {
+    "Colace": "DRUG"
+  },
+  {
+    "amlodipine": "DRUG"
+  },
+  {
+    "zinc sulfate": "DRUG"
+  },
+  {
+    "Lortab": "DRUG"
+  },
+  {
+    "multivitamins with minerals": "DRUG"
+  },
+  {
+    "Heart rate": "TEST"
+  },
+  {
+    "respiratory rate": "TEST"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "temperature": "TEST"
+  },
+  {
+    "oxygen saturation": "TEST"
+  },
+  {
+    "cardiorespiratory distress": "PROBLEM"
+  },
+  {
+    "pink conjunctivae": "PROBLEM"
+  },
+  {
+    "anicteric sclerae": "PROBLEM"
+  },
+  {
+    "pupils": "TEST"
+  },
+  {
+    "gross hearing": "TEST"
+  },
+  {
+    "oral mucosa": "TEST"
+  },
+  {
+    "oral lesions": "PROBLEM"
+  },
+  {
+    "neck masses": "PROBLEM"
+  },
+  {
+    "thyroid": "TEST"
+  },
+  {
+    "inspiratory effort": "TEST"
+  },
+  {
+    "crackles": "PROBLEM"
+  },
+  {
+    "wheezes": "PROBLEM"
+  },
+  {
+    "cardiac rhythm": "TEST"
+  },
+  {
+    "thrills": "PROBLEM"
+  },
+  {
+    "rubs": "PROBLEM"
+  },
+  {
+    "bowel sounds": "TEST"
+  },
+  {
+    "guarding": "PROBLEM"
+  },
+  {
+    "rigidity": "PROBLEM"
+  },
+  {
+    "cervical lymphadenopathy": "PROBLEM"
+  },
+  {
+    "range of motion": "TEST"
+  },
+  {
+    "hyperpigmentation": "PROBLEM"
+  },
+  {
+    "serous drainage": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "wound edges": "PROBLEM"
+  },
+  {
+    "mood": "TEST"
+  },
+  {
+    "affect": "TEST"
+  },
+  {
+    "oriented x3": "TEST"
+  },
+  {
+    "judgment": "TEST"
+  },
+  {
+    "insight": "TEST"
+  },
+  {
+    "White blood cell count": "TEST"
+  },
+  {
+    "neutrophils": "TEST"
+  },
+  {
+    "H&H": "TEST"
+  },
+  {
+    "platelet count": "TEST"
+  },
+  {
+    "BUN": "TEST"
+  },
+  {
+    "creatinine": "TEST"
+  },
+  {
+    "albumin": "TEST"
+  },
+  {
+    "AST": "TEST"
+  },
+  {
+    "ALT": "TEST"
+  },
+  {
+    "alk phos": "TEST"
+  },
+  {
+    "total bilirubin": "TEST"
+  },
+  {
+    "wound culture": "TEST"
+  },
+  {
+    "Chest x-ray": "TEST"
+  },
+  {
+    "atelectasis": "PROBLEM"
+  },
+  {
+    "hemidiaphragm": "TEST"
+  },
+  {
+    "ileus": "PROBLEM"
+  },
+  {
+    "blood cultures": "TEST"
+  },
+  {
+    "MRI": "TEST"
+  },
+  {
+    "osteomyelitis": "PROBLEM"
+  },
+  {
+    "fevers": "PROBLEM"
+  },
+  {
+    "cellulitis": "PROBLEM"
+  },
+  {
+    "venous ulcers": "PROBLEM"
+  },
+  {
+    "bipedal edema": "PROBLEM"
+  },
+  {
+    "stasis ulcer": "PROBLEM"
+  },
+  {
+    "wound": "PROBLEM"
+  },
+  {
+    "ankle": "PROBLEM"
+  },
+  {
+    "ulcer": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "ulcers": "PROBLEM"
+  },
+  {
+    "stasis": "PROBLEM"
+  },
+  {
+    "chronic": "PROBLEM"
+  }
+]

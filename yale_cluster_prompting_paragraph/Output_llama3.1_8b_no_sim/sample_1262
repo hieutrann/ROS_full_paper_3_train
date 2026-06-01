@@ -1,0 +1,83 @@
+[
+  {
+    "Mesothelioma": "PROBLEM"
+  },
+  {
+    "pleural effusion": "PROBLEM"
+  },
+  {
+    "atrial fibrillation": "PROBLEM"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "ascites": "PROBLEM"
+  },
+  {
+    "esophageal reflux": "PROBLEM"
+  },
+  {
+    "deep venous thrombosis": "PROBLEM"
+  },
+  {
+    "pericarditis": "PROBLEM"
+  },
+  {
+    "pericardectomy": "TREATMENT"
+  },
+  {
+    "decortication of the lung": "TREATMENT"
+  },
+  {
+    "pleural biopsy": "TREATMENT"
+  },
+  {
+    "transpleural fluoroscopy": "TEST"
+  },
+  {
+    "thoracentesis": "TREATMENT"
+  },
+  {
+    "Port-A-Cath placement": "TREATMENT"
+  },
+  {
+    "Coumadin": "DRUG"
+  },
+  {
+    "Amiodarone": "DRUG"
+  },
+  {
+    "cisplatin": "DRUG"
+  },
+  {
+    "Alimta": "DRUG"
+  },
+  {
+    "Zofran": "DRUG"
+  },
+  {
+    "Phenergan": "DRUG"
+  },
+  {
+    "Lovenox": "DRUG"
+  },
+  {
+    "Vicodin": "DRUG"
+  },
+  {
+    "chest x-ray": "TEST"
+  },
+  {
+    "echocardiogram": "TEST"
+  },
+  {
+    "CT scan": "TEST"
+  },
+  {
+    "PET CT": "TEST"
+  },
+  {
+    "lab tests": "TEST"
+  }
+]

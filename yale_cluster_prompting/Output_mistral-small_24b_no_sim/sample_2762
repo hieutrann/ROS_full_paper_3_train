@@ -1,0 +1,422 @@
+[
+  {
+    "Seizure": "PROBLEM"
+  },
+  {
+    "hypoglycemia": "PROBLEM"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "dyspnea": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "colon cancer": "PROBLEM"
+  },
+  {
+    "right hemicolectomy": "TREATMENT"
+  },
+  {
+    "hospital-acquired pneumonia": "PROBLEM"
+  },
+  {
+    "congestive heart failure": "PROBLEM"
+  },
+  {
+    "Seizure": "PROBLEM"
+  },
+  {
+    "Hypoglycemia": "PROBLEM"
+  },
+  {
+    "Anemia": "PROBLEM"
+  },
+  {
+    "Hypotension": "PROBLEM"
+  },
+  {
+    "Dyspnea": "PROBLEM"
+  },
+  {
+    "Edema": "PROBLEM"
+  },
+  {
+    "Colon cancer": "PROBLEM"
+  },
+  {
+    "right hemicolectomy": "TREATMENT"
+  },
+  {
+    "Anemia": "PROBLEM"
+  },
+  {
+    "Hospital-acquired pneumonia": "PROBLEM"
+  },
+  {
+    "Hypertension": "PROBLEM"
+  },
+  {
+    "Congestive heart failure": "PROBLEM"
+  },
+  {
+    "Seizure disorder": "PROBLEM"
+  },
+  {
+    "Colonoscopy": "TEST"
+  },
+  {
+    "Right hemicolectomy": "TREATMENT"
+  },
+  {
+    "diabetes mellitus": "PROBLEM"
+  },
+  {
+    "insulin": "DRUG"
+  },
+  {
+    "MI": "PROBLEM"
+  },
+  {
+    "coronary artery disease": "PROBLEM"
+  },
+  {
+    "seizure disorder": "PROBLEM"
+  },
+  {
+    "GERD": "PROBLEM"
+  },
+  {
+    "bipolar disorder": "PROBLEM"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "seizure": "PROBLEM"
+  },
+  {
+    "myoclonic jerks": "PROBLEM"
+  },
+  {
+    "hypoglycemia": "PROBLEM"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "seizure disorder": "PROBLEM"
+  },
+  {
+    "Neurology": "TEST"
+  },
+  {
+    "CT": "TEST"
+  },
+  {
+    "Lamictal": "DRUG"
+  },
+  {
+    "intervention": "TREATMENT"
+  },
+  {
+    "hypoglycemia": "PROBLEM"
+  },
+  {
+    "diabetic gastroparesis": "PROBLEM"
+  },
+  {
+    "J-tube": "TREATMENT"
+  },
+  {
+    "insulin pump": "DRUG"
+  },
+  {
+    "insulin pump": "DRUG"
+  },
+  {
+    "insulin pump": "DRUG"
+  },
+  {
+    "hypoglycemia": "PROBLEM"
+  },
+  {
+    "hyperglycemia": "PROBLEM"
+  },
+  {
+    "n.p.o.": "DRUG"
+  },
+  {
+    "insulin pump rate": "DRUG"
+  },
+  {
+    "3 units per hour": "DRUG"
+  },
+  {
+    "0.8 units per hour": "DRUG"
+  },
+  {
+    "insulin": "DRUG"
+  },
+  {
+    "NovoLog": "DRUG"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "gastroenterologists": "TREATMENT"
+  },
+  {
+    "Hemoccult stools": "TEST"
+  },
+  {
+    "colonoscopy": "TEST"
+  },
+  {
+    "mass": "PROBLEM"
+  },
+  {
+    "General Surgery": "TREATMENT"
+  },
+  {
+    "right hemicolectomy": "TREATMENT"
+  },
+  {
+    "procedure": "TREATMENT"
+  },
+  {
+    "tube feeds": "TREATMENT"
+  },
+  {
+    "cancer": "PROBLEM"
+  },
+  {
+    "CT of the abdomen and pelvis": "TEST"
+  },
+  {
+    "CT of the chest": "TEST"
+  },
+  {
+    "metastasis": "PROBLEM"
+  },
+  {
+    "lung metastasis": "PROBLEM"
+  },
+  {
+    "septic-like picture": "PROBLEM"
+  },
+  {
+    "hospital-acquired pneumonia": "PROBLEM"
+  },
+  {
+    "Zosyn": "DRUG"
+  },
+  {
+    "Levaquin": "DRUG"
+  },
+  {
+    "vancomycin": "DRUG"
+  },
+  {
+    "symptoms": "PROBLEM"
+  },
+  {
+    "chest x-rays": "TEST"
+  },
+  {
+    "illness": "PROBLEM"
+  },
+  {
+    "vancomycin": "DRUG"
+  },
+  {
+    "MRSA": "PROBLEM"
+  },
+  {
+    "J-tube": "TEST"
+  },
+  {
+    "p.o.": "DRUG"
+  },
+  {
+    "Levaquin": "DRUG"
+  },
+  {
+    "Bactrim DS": "DRUG"
+  },
+  {
+    "Bactrim": "DRUG"
+  },
+  {
+    "MRSA": "PROBLEM"
+  },
+  {
+    "J-tube": "TEST"
+  },
+  {
+    "MRSA": "PROBLEM"
+  },
+  {
+    "Bactrim": "DRUG"
+  },
+  {
+    "Coreg": "DRUG"
+  },
+  {
+    "12.5 mg": "DRUG"
+  },
+  {
+    "Lasix": "DRUG"
+  },
+  {
+    "40 mg": "DRUG"
+  },
+  {
+    "congestive heart failure": "PROBLEM"
+  },
+  {
+    "Lipitor": "DRUG"
+  },
+  {
+    "high cholesterol": "PROBLEM"
+  },
+  {
+    "seizure disorder": "PROBLEM"
+  },
+  {
+    "strenuous activity": "PROBLEM"
+  },
+  {
+    "diet": "TREATMENT"
+  },
+  {
+    "Coreg": "DRUG"
+  },
+  {
+    "Lipitor": "DRUG"
+  },
+  {
+    "Nitro-Dur patch": "DRUG"
+  },
+  {
+    "Phenergan syrup": "DRUG"
+  },
+  {
+    "Synthroid": "DRUG"
+  },
+  {
+    "Zyrtec": "DRUG"
+  },
+  {
+    "Lamictal": "DRUG"
+  },
+  {
+    "Lamictal": "DRUG"
+  },
+  {
+    "Ferrous sulfate drops": "DRUG"
+  },
+  {
+    "PEG tube": "TREATMENT"
+  },
+  {
+    "Nexium": "DRUG"
+  },
+  {
+    "Neurontin": "DRUG"
+  },
+  {
+    "Lasix": "DRUG"
+  },
+  {
+    "Fentanyl": "DRUG"
+  },
+  {
+    "Calcium and vitamin D combination": "DRUG"
+  },
+  {
+    "calcium carbonate 500 mg/vitamin D 200 units one tab p.o.": "DRUG"
+  },
+  {
+    "Bactrim DS": "DRUG"
+  },
+  {
+    "800mg/160 mg": "DRUG"
+  },
+  {
+    "tablet": "DRUG"
+  },
+  {
+    "q.12h": "DRUG"
+  },
+  {
+    "Levaquin": "DRUG"
+  },
+  {
+    "p.o.": "DRUG"
+  },
+  {
+    "CBC": "TEST"
+  },
+  {
+    "CMP": "TEST"
+  },
+  {
+    "colon cancer": "PROBLEM"
+  },
+  {
+    "lymph nodes": "PROBLEM"
+  },
+  {
+    "J-tube": "TREATMENT"
+  },
+  {
+    "seizure": "PROBLEM"
+  },
+  {
+    "hypoglycemia": "PROBLEM"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "dyspnea": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "colon cancer": "PROBLEM"
+  },
+  {
+    "right hemicolectomy": "TREATMENT"
+  },
+  {
+    "hospital-acquired pneumonia": "PROBLEM"
+  },
+  {
+    "hospital acquired pneumonia": "PROBLEM"
+  },
+  {
+    "congestive heart failure": "PROBLEM"
+  },
+  {
+    "seizure disorder": "PROBLEM"
+  },
+  {
+    "insulin pump": "DRUG"
+  },
+  {
+    "hemicolectomy": "TREATMENT"
+  },
+  {
+    "neurology": "TEST"
+  },
+  {
+    "disorder": "PROBLEM"
+  }
+]

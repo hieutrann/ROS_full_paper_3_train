@@ -1,0 +1,404 @@
+[
+  {
+    "entity": "Steroid",
+    "label": "DRUG",
+    "start": 87,
+    "end": 94
+  },
+  {
+    "entity": "Fluoroscopy",
+    "label": "TEST",
+    "start": 168,
+    "end": 179
+  },
+  {
+    "entity": "lidocaine",
+    "label": "DRUG",
+    "start": 372,
+    "end": 381
+  },
+  {
+    "entity": "Transforaminal Epidural",
+    "label": "TREATMENT",
+    "start": 433,
+    "end": 456
+  },
+  {
+    "entity": "the procedure",
+    "label": "TREATMENT",
+    "start": 525,
+    "end": 538
+  },
+  {
+    "entity": "the procedure",
+    "label": "TREATMENT",
+    "start": 634,
+    "end": 647
+  },
+  {
+    "entity": "the procedure",
+    "label": "TREATMENT",
+    "start": 703,
+    "end": 716
+  },
+  {
+    "entity": "infection",
+    "label": "PROBLEM",
+    "start": 735,
+    "end": 744
+  },
+  {
+    "entity": "bleeding",
+    "label": "PROBLEM",
+    "start": 746,
+    "end": 754
+  },
+  {
+    "entity": "allergic reaction",
+    "label": "PROBLEM",
+    "start": 756,
+    "end": 773
+  },
+  {
+    "entity": "dural puncture",
+    "label": "PROBLEM",
+    "start": 775,
+    "end": 789
+  },
+  {
+    "entity": "headache",
+    "label": "PROBLEM",
+    "start": 791,
+    "end": 799
+  },
+  {
+    "entity": "nerve injuries",
+    "label": "PROBLEM",
+    "start": 801,
+    "end": 815
+  },
+  {
+    "entity": "spinal cord injury",
+    "label": "PROBLEM",
+    "start": 817,
+    "end": 835
+  },
+  {
+    "entity": "CNS side effects",
+    "label": "PROBLEM",
+    "start": 860,
+    "end": 876
+  },
+  {
+    "entity": "medications",
+    "label": "DRUG",
+    "start": 912,
+    "end": 923
+  },
+  {
+    "entity": "side effects",
+    "label": "PROBLEM",
+    "start": 967,
+    "end": 979
+  },
+  {
+    "entity": "reactions",
+    "label": "PROBLEM",
+    "start": 983,
+    "end": 992
+  },
+  {
+    "entity": "the medications",
+    "label": "TREATMENT",
+    "start": 996,
+    "end": 1011
+  },
+  {
+    "entity": "the procedure",
+    "label": "TREATMENT",
+    "start": 1036,
+    "end": 1049
+  },
+  {
+    "entity": "sedatives",
+    "label": "TREATMENT",
+    "start": 1060,
+    "end": 1069
+  },
+  {
+    "entity": "narcotics",
+    "label": "DRUG",
+    "start": 1071,
+    "end": 1080
+  },
+  {
+    "entity": "nonionic contrast agents",
+    "label": "DRUG",
+    "start": 1082,
+    "end": 1106
+  },
+  {
+    "entity": "anesthetics",
+    "label": "DRUG",
+    "start": 1108,
+    "end": 1119
+  },
+  {
+    "entity": "corticosteroids",
+    "label": "DRUG",
+    "start": 1125,
+    "end": 1140
+  },
+  {
+    "entity": "the procedure",
+    "label": "TREATMENT",
+    "start": 1262,
+    "end": 1275
+  },
+  {
+    "entity": "Oxygen saturation",
+    "label": "TEST",
+    "start": 1299,
+    "end": 1316
+  },
+  {
+    "entity": "vital signs",
+    "label": "TEST",
+    "start": 1321,
+    "end": 1332
+  },
+  {
+    "entity": "the procedure",
+    "label": "TREATMENT",
+    "start": 1372,
+    "end": 1385
+  },
+  {
+    "entity": "the procedure",
+    "label": "TREATMENT",
+    "start": 1426,
+    "end": 1439
+  },
+  {
+    "entity": "the natural lumbar lordosis",
+    "label": "PROBLEM",
+    "start": 1684,
+    "end": 1711
+  },
+  {
+    "entity": "betadine",
+    "label": "DRUG",
+    "start": 1780,
+    "end": 1788
+  },
+  {
+    "entity": "needle placement",
+    "label": "TREATMENT",
+    "start": 1868,
+    "end": 1884
+  },
+  {
+    "entity": "Fluoroscopy",
+    "label": "TEST",
+    "start": 1887,
+    "end": 1898
+  },
+  {
+    "entity": "lidocaine",
+    "label": "DRUG",
+    "start": 2091,
+    "end": 2100
+  },
+  {
+    "entity": "fluoroscopy",
+    "label": "TEST",
+    "start": 2107,
+    "end": 2118
+  },
+  {
+    "entity": "Multiple fluoroscopic views",
+    "label": "TEST",
+    "start": 2241,
+    "end": 2268
+  },
+  {
+    "entity": "ensure proper needle placement",
+    "label": "TREATMENT",
+    "start": 2282,
+    "end": 2312
+  },
+  {
+    "entity": "non-ionic contrast agent",
+    "label": "TREATMENT",
+    "start": 2336,
+    "end": 2360
+  },
+  {
+    "entity": "fluoroscopic observation",
+    "label": "TEST",
+    "start": 2405,
+    "end": 2429
+  },
+  {
+    "entity": "needle placement",
+    "label": "TREATMENT",
+    "start": 2440,
+    "end": 2456
+  },
+  {
+    "entity": "radiculogram",
+    "label": "PROBLEM",
+    "start": 2519,
+    "end": 2531
+  },
+  {
+    "entity": "concurrent vascular dye pattern",
+    "label": "PROBLEM",
+    "start": 2540,
+    "end": 2571
+  },
+  {
+    "entity": "the treatment solution",
+    "label": "TREATMENT",
+    "start": 2582,
+    "end": 2604
+  },
+  {
+    "entity": "All injected medications",
+    "label": "DRUG",
+    "start": 2638,
+    "end": 2662
+  },
+  {
+    "entity": "Sterile techniques",
+    "label": "TREATMENT",
+    "start": 2688,
+    "end": 2706
+  },
+  {
+    "entity": "the procedure",
+    "label": "TREATMENT",
+    "start": 2728,
+    "end": 2741
+  },
+  {
+    "entity": "complications",
+    "label": "PROBLEM",
+    "start": 2769,
+    "end": 2782
+  },
+  {
+    "entity": "the procedure",
+    "label": "TREATMENT",
+    "start": 2806,
+    "end": 2819
+  },
+  {
+    "entity": "vital signs",
+    "label": "TEST",
+    "start": 2906,
+    "end": 2917
+  },
+  {
+    "entity": "oximetry",
+    "label": "TEST",
+    "start": 2922,
+    "end": 2930
+  },
+  {
+    "entity": "all medications",
+    "label": "TREATMENT",
+    "start": 3171,
+    "end": 3186
+  },
+  {
+    "entity": "shortness of breath",
+    "label": "PROBLEM",
+    "start": 3355,
+    "end": 3374
+  },
+  {
+    "entity": "chest pain",
+    "label": "PROBLEM",
+    "start": 3376,
+    "end": 3386
+  },
+  {
+    "entity": "fever",
+    "label": "PROBLEM",
+    "start": 3388,
+    "end": 3393
+  },
+  {
+    "entity": "chills",
+    "label": "PROBLEM",
+    "start": 3395,
+    "end": 3401
+  },
+  {
+    "entity": "increased pain",
+    "label": "PROBLEM",
+    "start": 3403,
+    "end": 3417
+  },
+  {
+    "entity": "weakness",
+    "label": "PROBLEM",
+    "start": 3419,
+    "end": 3427
+  },
+  {
+    "entity": "sensory or motor changes",
+    "label": "PROBLEM",
+    "start": 3429,
+    "end": 3453
+  },
+  {
+    "entity": "changes in bowel or bladder function",
+    "label": "PROBLEM",
+    "start": 3458,
+    "end": 3494
+  },
+  {
+    "entity": "pain management",
+    "label": "TREATMENT",
+    "start": 3562,
+    "end": 3577
+  },
+  {
+    "entity": "epidural lumbar",
+    "label": "TREATMENT",
+    "start": 3579,
+    "end": 3594
+  },
+  {
+    "entity": "transforaminal epidural",
+    "label": "TREATMENT",
+    "start": 3610,
+    "end": 3633
+  },
+  {
+    "entity": "injection",
+    "label": "TREATMENT",
+    "start": 3635,
+    "end": 3644
+  },
+  {
+    "entity": "transforaminal",
+    "label": "TREATMENT",
+    "start": 3646,
+    "end": 3660
+  },
+  {
+    "entity": "epidural",
+    "label": "TREATMENT",
+    "start": 3662,
+    "end": 3670
+  },
+  {
+    "entity": "fluoroscopy",
+    "label": "TEST",
+    "start": 3680,
+    "end": 3691
+  }
+]

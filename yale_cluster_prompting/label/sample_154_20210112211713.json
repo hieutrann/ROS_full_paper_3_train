@@ -1,0 +1,284 @@
+[
+  {
+    "entity": "cardiac catheterization",
+    "label": "TREATMENT",
+    "start": 111,
+    "end": 134
+  },
+  {
+    "entity": "Coronary artery disease",
+    "label": "PROBLEM",
+    "start": 136,
+    "end": 159
+  },
+  {
+    "entity": "chest pain",
+    "label": "PROBLEM",
+    "start": 161,
+    "end": 171
+  },
+  {
+    "entity": "diabetes",
+    "label": "PROBLEM",
+    "start": 184,
+    "end": 192
+  },
+  {
+    "entity": "hypertension",
+    "label": "PROBLEM",
+    "start": 205,
+    "end": 217
+  },
+  {
+    "entity": "obesity",
+    "label": "PROBLEM",
+    "start": 230,
+    "end": 237
+  },
+  {
+    "entity": "a 1.1 cm lesion in the medial aspect of the right parietal lobe",
+    "label": "PROBLEM",
+    "start": 239,
+    "end": 302
+  },
+  {
+    "entity": "deconditioning",
+    "label": "PROBLEM",
+    "start": 308,
+    "end": 322
+  },
+  {
+    "entity": "cardiac catheterization",
+    "label": "TREATMENT",
+    "start": 392,
+    "end": 415
+  },
+  {
+    "entity": "Coronary artery disease",
+    "label": "PROBLEM",
+    "start": 453,
+    "end": 476
+  },
+  {
+    "entity": "Chest pain",
+    "label": "PROBLEM",
+    "start": 481,
+    "end": 491
+  },
+  {
+    "entity": "diabetes",
+    "label": "PROBLEM",
+    "start": 507,
+    "end": 515
+  },
+  {
+    "entity": "hypertension",
+    "label": "PROBLEM",
+    "start": 531,
+    "end": 543
+  },
+  {
+    "entity": "obesity",
+    "label": "PROBLEM",
+    "start": 559,
+    "end": 566
+  },
+  {
+    "entity": "A 1.1 cm lesion in the medial aspect of the right parietal lobe",
+    "label": "PROBLEM",
+    "start": 571,
+    "end": 634
+  },
+  {
+    "entity": "Deconditioning",
+    "label": "PROBLEM",
+    "start": 639,
+    "end": 653
+  },
+  {
+    "entity": "Echocardiogram",
+    "label": "TEST",
+    "start": 697,
+    "end": 711
+  },
+  {
+    "entity": "MRI of the brain",
+    "label": "TEST",
+    "start": 716,
+    "end": 732
+  },
+  {
+    "entity": "Lower extremity Duplex ultrasound",
+    "label": "TEST",
+    "start": 737,
+    "end": 770
+  },
+  {
+    "entity": "diabetes",
+    "label": "PROBLEM",
+    "start": 890,
+    "end": 898
+  },
+  {
+    "entity": "chest pressure",
+    "label": "PROBLEM",
+    "start": 930,
+    "end": 944
+  },
+  {
+    "entity": "short of breath with exertion",
+    "label": "PROBLEM",
+    "start": 1078,
+    "end": 1107
+  },
+  {
+    "entity": "a cardiac workup",
+    "label": "TEST",
+    "start": 1133,
+    "end": 1149
+  },
+  {
+    "entity": "His vital signs",
+    "label": "TEST",
+    "start": 1205,
+    "end": 1220
+  },
+  {
+    "entity": "myocardial infarction",
+    "label": "PROBLEM",
+    "start": 1268,
+    "end": 1289
+  },
+  {
+    "entity": "troponin",
+    "label": "TEST",
+    "start": 1295,
+    "end": 1303
+  },
+  {
+    "entity": "An echocardiogram",
+    "label": "TEST",
+    "start": 1308,
+    "end": 1325
+  },
+  {
+    "entity": "concentric LVH",
+    "label": "PROBLEM",
+    "start": 1333,
+    "end": 1347
+  },
+  {
+    "entity": "EF",
+    "label": "TEST",
+    "start": 1356,
+    "end": 1358
+  },
+  {
+    "entity": "his stress test",
+    "label": "TEST",
+    "start": 1465,
+    "end": 1480
+  },
+  {
+    "entity": "a cardiac cath",
+    "label": "TREATMENT",
+    "start": 1535,
+    "end": 1549
+  },
+  {
+    "entity": "amaurosis fugax",
+    "label": "PROBLEM",
+    "start": 1647,
+    "end": 1662
+  },
+  {
+    "entity": "an MRI",
+    "label": "TEST",
+    "start": 1676,
+    "end": 1682
+  },
+  {
+    "entity": "a 1 cm lesion in the right parietal lobe",
+    "label": "PROBLEM",
+    "start": 1697,
+    "end": 1737
+  },
+  {
+    "entity": "evaluation",
+    "label": "TEST",
+    "start": 1780,
+    "end": 1790
+  },
+  {
+    "entity": "cardiac cath",
+    "label": "TREATMENT",
+    "start": 1932,
+    "end": 1944
+  },
+  {
+    "entity": "DISCHARGE MEDICATIONS",
+    "label": "DRUG",
+    "start": 1995,
+    "end": 2016
+  },
+  {
+    "entity": "Aspirin",
+    "label": "DRUG",
+    "start": 2021,
+    "end": 2028
+  },
+  {
+    "entity": "Lovenox",
+    "label": "DRUG",
+    "start": 2051,
+    "end": 2058
+  },
+  {
+    "entity": "Regular Insulin",
+    "label": "DRUG",
+    "start": 2080,
+    "end": 2095
+  },
+  {
+    "entity": "Novolin",
+    "label": "DRUG",
+    "start": 2114,
+    "end": 2121
+  },
+  {
+    "entity": "Metformin",
+    "label": "DRUG",
+    "start": 2148,
+    "end": 2157
+  },
+  {
+    "entity": "Protonix",
+    "label": "DRUG",
+    "start": 2180,
+    "end": 2188
+  },
+  {
+    "entity": "cardiac cath",
+    "label": "TREATMENT",
+    "start": 2265,
+    "end": 2277
+  },
+  {
+    "entity": "cardiac cath",
+    "label": "TREATMENT",
+    "start": 2308,
+    "end": 2320
+  },
+  {
+    "entity": "cardiac catheterization",
+    "label": "TREATMENT",
+    "start": 2337,
+    "end": 2360
+  },
+  {
+    "entity": "echocardiogram",
+    "label": "TEST",
+    "start": 2374,
+    "end": 2388
+  }
+]

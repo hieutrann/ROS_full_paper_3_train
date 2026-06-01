@@ -1,0 +1,221 @@
+[
+  {
+    "Disseminated Intravascular Coagulation": "PROBLEM"
+  },
+  {
+    "Streptococcal pneumonia": "PROBLEM"
+  },
+  {
+    "sepsis": "PROBLEM"
+  },
+  {
+    "pneumonia": "PROBLEM"
+  },
+  {
+    "sepsis": "PROBLEM"
+  },
+  {
+    "respiratory failure": "PROBLEM"
+  },
+  {
+    "intubation": "TREATMENT"
+  },
+  {
+    "Disseminated intravascular coagulation": "PROBLEM"
+  },
+  {
+    "Streptococcal pneumonia": "PROBLEM"
+  },
+  {
+    "sepsis": "PROBLEM"
+  },
+  {
+    "intubated": "TREATMENT"
+  },
+  {
+    "respiratory failure": "PROBLEM"
+  },
+  {
+    "pneumonia": "PROBLEM"
+  },
+  {
+    "sepsis": "PROBLEM"
+  },
+  {
+    "respiratory failure": "PROBLEM"
+  },
+  {
+    "intubation": "TREATMENT"
+  },
+  {
+    "mechanical ventilation": "TREATMENT"
+  },
+  {
+    "disseminated intravascular coagulation": "PROBLEM"
+  },
+  {
+    "prolonged partial thromboplastin time": "TEST"
+  },
+  {
+    "prothrombin time": "TEST"
+  },
+  {
+    "low fibrinogen": "TEST"
+  },
+  {
+    "elevated D-dimer": "TEST"
+  },
+  {
+    "Bleeding": "PROBLEM"
+  },
+  {
+    "factor replacement": "TREATMENT"
+  },
+  {
+    "platelet infusion": "TREATMENT"
+  },
+  {
+    "coagulopathy": "PROBLEM"
+  },
+  {
+    "illicit drugs": "PROBLEM"
+  },
+  {
+    "intubated": "TREATMENT"
+  },
+  {
+    "VITAL SIGNS": "TEST"
+  },
+  {
+    "rate": "TEST"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "respiratory rate": "TEST"
+  },
+  {
+    "sclerae": "TEST"
+  },
+  {
+    "conjunctival hemorrhage": "PROBLEM"
+  },
+  {
+    "petechiae": "PROBLEM"
+  },
+  {
+    "ET tube": "TREATMENT"
+  },
+  {
+    "jugular venous pressure distention": "PROBLEM"
+  },
+  {
+    "Coarse breath sounds": "PROBLEM"
+  },
+  {
+    "HEART": "TEST"
+  },
+  {
+    "bowel sounds": "TEST"
+  },
+  {
+    "oozing": "PROBLEM"
+  },
+  {
+    "central line": "TREATMENT"
+  },
+  {
+    "clubbing": "PROBLEM"
+  },
+  {
+    "cyanosis": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "compromise arterial blood flow": "PROBLEM"
+  },
+  {
+    "DIC parameters": "TEST"
+  },
+  {
+    "platelet count": "TEST"
+  },
+  {
+    "INR": "TEST"
+  },
+  {
+    "PTT": "TEST"
+  },
+  {
+    "fibrinogen": "TEST"
+  },
+  {
+    "D-dimer": "TEST"
+  },
+  {
+    "disseminated intravascular coagulation": "PROBLEM"
+  },
+  {
+    "sepsis": "PROBLEM"
+  },
+  {
+    "pneumococcal disease": "PROBLEM"
+  },
+  {
+    "factor replacement": "TREATMENT"
+  },
+  {
+    "Xigris": "DRUG"
+  },
+  {
+    "coagulopathy": "PROBLEM"
+  },
+  {
+    "elevated fibrinogen": "TEST"
+  },
+  {
+    "coagulation times": "TEST"
+  },
+  {
+    "low-dose continuous infusion heparin": "DRUG"
+  },
+  {
+    "supportive infusions": "TREATMENT"
+  },
+  {
+    "laboratory studies": "TEST"
+  },
+  {
+    "pneumonia": "PROBLEM"
+  },
+  {
+    "thromboplastin time": "TEST"
+  },
+  {
+    "prothrombin time": "TEST"
+  },
+  {
+    "disseminated intravascular coagulation": "PROBLEM"
+  },
+  {
+    "streptococcal pneumonia": "PROBLEM"
+  },
+  {
+    "intravascular coagulation": "PROBLEM"
+  },
+  {
+    "infusion": "TREATMENT"
+  },
+  {
+    "coagulopathy": "PROBLEM"
+  },
+  {
+    "fibrinogen": "TEST"
+  },
+  {
+    "sepsis": "PROBLEM"
+  }
+]

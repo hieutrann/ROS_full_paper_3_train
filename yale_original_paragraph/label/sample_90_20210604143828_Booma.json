@@ -1,0 +1,308 @@
+[
+  {
+    "entity": "Mastoiditis",
+    "label": "PROBLEM",
+    "start": 64,
+    "end": 75
+  },
+  {
+    "entity": "mastoiditis",
+    "label": "PROBLEM",
+    "start": 119,
+    "end": 130
+  },
+  {
+    "entity": "right acute otitis media",
+    "label": "PROBLEM",
+    "start": 142,
+    "end": 166
+  },
+  {
+    "entity": "severe ear pain",
+    "label": "PROBLEM",
+    "start": 172,
+    "end": 187
+  },
+  {
+    "entity": "a CT scan",
+    "label": "TEST",
+    "start": 269,
+    "end": 278
+  },
+  {
+    "entity": "mastoiditis",
+    "label": "PROBLEM",
+    "start": 308,
+    "end": 319
+  },
+  {
+    "entity": "mastoiditis",
+    "label": "PROBLEM",
+    "start": 393,
+    "end": 404
+  },
+  {
+    "entity": "Right acute otitis media",
+    "label": "PROBLEM",
+    "start": 419,
+    "end": 443
+  },
+  {
+    "entity": "Severe ear pain",
+    "label": "PROBLEM",
+    "start": 448,
+    "end": 463
+  },
+  {
+    "entity": "a CT scan",
+    "label": "TEST",
+    "start": 573,
+    "end": 582
+  },
+  {
+    "entity": "mastoiditis",
+    "label": "PROBLEM",
+    "start": 612,
+    "end": 623
+  },
+  {
+    "entity": "severe ear pain",
+    "label": "PROBLEM",
+    "start": 648,
+    "end": 663
+  },
+  {
+    "entity": "blood draining from the right ear",
+    "label": "PROBLEM",
+    "start": 668,
+    "end": 701
+  },
+  {
+    "entity": "a temperature",
+    "label": "TEST",
+    "start": 717,
+    "end": 730
+  },
+  {
+    "entity": "Unasyn",
+    "label": "DRUG",
+    "start": 802,
+    "end": 808
+  },
+  {
+    "entity": "Morphine",
+    "label": "DRUG",
+    "start": 847,
+    "end": 855
+  },
+  {
+    "entity": "Vicodin",
+    "label": "DRUG",
+    "start": 860,
+    "end": 867
+  },
+  {
+    "entity": "pain control",
+    "label": "TREATMENT",
+    "start": 872,
+    "end": 884
+  },
+  {
+    "entity": "the patient's pain",
+    "label": "PROBLEM",
+    "start": 925,
+    "end": 943
+  },
+  {
+    "entity": "swelling of his cervical area",
+    "label": "PROBLEM",
+    "start": 963,
+    "end": 992
+  },
+  {
+    "entity": "the CT scan",
+    "label": "TEST",
+    "start": 1084,
+    "end": 1095
+  },
+  {
+    "entity": "the CT scan",
+    "label": "TEST",
+    "start": 1114,
+    "end": 1125
+  },
+  {
+    "entity": "mastoiditis",
+    "label": "PROBLEM",
+    "start": 1150,
+    "end": 1161
+  },
+  {
+    "entity": "IV fluid",
+    "label": "TREATMENT",
+    "start": 1190,
+    "end": 1198
+  },
+  {
+    "entity": "narcotics",
+    "label": "DRUG",
+    "start": 1203,
+    "end": 1212
+  },
+  {
+    "entity": "pain",
+    "label": "PROBLEM",
+    "start": 1217,
+    "end": 1221
+  },
+  {
+    "entity": "Unasyn",
+    "label": "DRUG",
+    "start": 1233,
+    "end": 1239
+  },
+  {
+    "entity": "his pain",
+    "label": "PROBLEM",
+    "start": 1294,
+    "end": 1302
+  },
+  {
+    "entity": "swelling in the area",
+    "label": "PROBLEM",
+    "start": 1340,
+    "end": 1360
+  },
+  {
+    "entity": "respiratory distress",
+    "label": "PROBLEM",
+    "start": 1488,
+    "end": 1508
+  },
+  {
+    "entity": "VITAL SIGNS",
+    "label": "TEST",
+    "start": 1510,
+    "end": 1521
+  },
+  {
+    "entity": "His temperature",
+    "label": "TEST",
+    "start": 1523,
+    "end": 1538
+  },
+  {
+    "entity": "heart rate",
+    "label": "TEST",
+    "start": 1548,
+    "end": 1558
+  },
+  {
+    "entity": "blood pressure",
+    "label": "TEST",
+    "start": 1563,
+    "end": 1577
+  },
+  {
+    "entity": "respiratory rate",
+    "label": "TEST",
+    "start": 1586,
+    "end": 1602
+  },
+  {
+    "entity": "redness",
+    "label": "PROBLEM",
+    "start": 1645,
+    "end": 1652
+  },
+  {
+    "entity": "a large posterior chains node",
+    "label": "PROBLEM",
+    "start": 1701,
+    "end": 1730
+  },
+  {
+    "entity": "the swelling",
+    "label": "PROBLEM",
+    "start": 1753,
+    "end": 1765
+  },
+  {
+    "entity": "S1",
+    "label": "TEST",
+    "start": 1861,
+    "end": 1863
+  },
+  {
+    "entity": "S2",
+    "label": "TEST",
+    "start": 1865,
+    "end": 1867
+  },
+  {
+    "entity": "murmur",
+    "label": "PROBLEM",
+    "start": 1876,
+    "end": 1882
+  },
+  {
+    "entity": "hepatosplenomegaly",
+    "label": "PROBLEM",
+    "start": 1911,
+    "end": 1929
+  },
+  {
+    "entity": "tenderness",
+    "label": "PROBLEM",
+    "start": 1933,
+    "end": 1943
+  },
+  {
+    "entity": "WEIGHT",
+    "label": "TEST",
+    "start": 1985,
+    "end": 1991
+  },
+  {
+    "entity": "Ciprodex Otic",
+    "label": "DRUG",
+    "start": 2093,
+    "end": 2106
+  },
+  {
+    "entity": "Augmentin",
+    "label": "DRUG",
+    "start": 2149,
+    "end": 2158
+  },
+  {
+    "entity": "acute otitis media",
+    "label": "PROBLEM",
+    "start": 2362,
+    "end": 2380
+  },
+  {
+    "entity": "ear pain",
+    "label": "PROBLEM",
+    "start": 2382,
+    "end": 2390
+  },
+  {
+    "entity": "mastoiditis",
+    "label": "PROBLEM",
+    "start": 2392,
+    "end": 2403
+  },
+  {
+    "entity": "otitis media",
+    "label": "PROBLEM",
+    "start": 2405,
+    "end": 2417
+  },
+  {
+    "entity": "discharge",
+    "label": "PROBLEM",
+    "start": 2419,
+    "end": 2428
+  }
+]

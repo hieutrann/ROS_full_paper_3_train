@@ -1,0 +1,548 @@
+[
+  {
+    "entity": "Lap Chole",
+    "label": "TREATMENT",
+    "start": 64,
+    "end": 73
+  },
+  {
+    "entity": "Laparoscopic cholecystectomy",
+    "label": "TREATMENT",
+    "start": 107,
+    "end": 135
+  },
+  {
+    "entity": "Acute cholecystitis",
+    "label": "PROBLEM",
+    "start": 137,
+    "end": 156
+  },
+  {
+    "entity": "laparoscopic cholecystectomy",
+    "label": "TREATMENT",
+    "start": 170,
+    "end": 198
+  },
+  {
+    "entity": "end-stage renal disease",
+    "label": "PROBLEM",
+    "start": 200,
+    "end": 223
+  },
+  {
+    "entity": "hemodialysis",
+    "label": "TREATMENT",
+    "start": 227,
+    "end": 239
+  },
+  {
+    "entity": "hyperlipidemia",
+    "label": "PROBLEM",
+    "start": 241,
+    "end": 255
+  },
+  {
+    "entity": "hypertension",
+    "label": "PROBLEM",
+    "start": 257,
+    "end": 269
+  },
+  {
+    "entity": "congestive heart failure",
+    "label": "PROBLEM",
+    "start": 271,
+    "end": 295
+  },
+  {
+    "entity": "skin lymphoma",
+    "label": "PROBLEM",
+    "start": 297,
+    "end": 310
+  },
+  {
+    "entity": "hypothyroidism",
+    "label": "PROBLEM",
+    "start": 328,
+    "end": 342
+  },
+  {
+    "entity": "Laparoscopic cholecystectomy",
+    "label": "TREATMENT",
+    "start": 393,
+    "end": 421
+  },
+  {
+    "entity": "Acute cholecystitis",
+    "label": "PROBLEM",
+    "start": 447,
+    "end": 466
+  },
+  {
+    "entity": "laparoscopic cholecystectomy",
+    "label": "TREATMENT",
+    "start": 483,
+    "end": 511
+  },
+  {
+    "entity": "End-stage renal disease",
+    "label": "PROBLEM",
+    "start": 516,
+    "end": 539
+  },
+  {
+    "entity": "hemodialysis",
+    "label": "TREATMENT",
+    "start": 543,
+    "end": 555
+  },
+  {
+    "entity": "Hyperlipidemia",
+    "label": "PROBLEM",
+    "start": 560,
+    "end": 574
+  },
+  {
+    "entity": "Hypertension",
+    "label": "PROBLEM",
+    "start": 579,
+    "end": 591
+  },
+  {
+    "entity": "Congestive heart failure",
+    "label": "PROBLEM",
+    "start": 596,
+    "end": 620
+  },
+  {
+    "entity": "Skin lymphoma",
+    "label": "PROBLEM",
+    "start": 625,
+    "end": 638
+  },
+  {
+    "entity": "Hypothyroidism",
+    "label": "PROBLEM",
+    "start": 655,
+    "end": 669
+  },
+  {
+    "entity": "past medical condition",
+    "label": "PROBLEM",
+    "start": 722,
+    "end": 744
+  },
+  {
+    "entity": "hypertension",
+    "label": "PROBLEM",
+    "start": 754,
+    "end": 766
+  },
+  {
+    "entity": "end-stage renal disease",
+    "label": "PROBLEM",
+    "start": 768,
+    "end": 791
+  },
+  {
+    "entity": "hyperlipidemia",
+    "label": "PROBLEM",
+    "start": 793,
+    "end": 807
+  },
+  {
+    "entity": "hypothyroidism",
+    "label": "PROBLEM",
+    "start": 809,
+    "end": 823
+  },
+  {
+    "entity": "skin lymphoma",
+    "label": "PROBLEM",
+    "start": 829,
+    "end": 842
+  },
+  {
+    "entity": "a left AV fistula",
+    "label": "TREATMENT",
+    "start": 851,
+    "end": 868
+  },
+  {
+    "entity": "epigastric pain",
+    "label": "PROBLEM",
+    "start": 955,
+    "end": 970
+  },
+  {
+    "entity": "right upper quadrant pain",
+    "label": "PROBLEM",
+    "start": 975,
+    "end": 1000
+  },
+  {
+    "entity": "mid abdominal pain",
+    "label": "PROBLEM",
+    "start": 1005,
+    "end": 1023
+  },
+  {
+    "entity": "some nauseated feeling",
+    "label": "PROBLEM",
+    "start": 1025,
+    "end": 1047
+  },
+  {
+    "entity": "the pain",
+    "label": "PROBLEM",
+    "start": 1079,
+    "end": 1087
+  },
+  {
+    "entity": "The patient's initial assessment",
+    "label": "TEST",
+    "start": 1143,
+    "end": 1175
+  },
+  {
+    "entity": "the patient's vital signs",
+    "label": "TEST",
+    "start": 1177,
+    "end": 1202
+  },
+  {
+    "entity": "temperature",
+    "label": "TEST",
+    "start": 1223,
+    "end": 1234
+  },
+  {
+    "entity": "pulse",
+    "label": "TEST",
+    "start": 1241,
+    "end": 1246
+  },
+  {
+    "entity": "blood pressure",
+    "label": "TEST",
+    "start": 1260,
+    "end": 1274
+  },
+  {
+    "entity": "EKG",
+    "label": "TEST",
+    "start": 1287,
+    "end": 1290
+  },
+  {
+    "entity": "ultrasound of the abdomen",
+    "label": "TEST",
+    "start": 1313,
+    "end": 1338
+  },
+  {
+    "entity": "a renal cyst about 2 cm",
+    "label": "PROBLEM",
+    "start": 1355,
+    "end": 1378
+  },
+  {
+    "entity": "sludge in the gallbladder wall",
+    "label": "PROBLEM",
+    "start": 1389,
+    "end": 1419
+  },
+  {
+    "entity": "a stone in the gallbladder wall",
+    "label": "PROBLEM",
+    "start": 1427,
+    "end": 1458
+  },
+  {
+    "entity": "Thickening of the gallbladder wall",
+    "label": "PROBLEM",
+    "start": 1460,
+    "end": 1494
+  },
+  {
+    "entity": "positive Murphy sign",
+    "label": "PROBLEM",
+    "start": 1500,
+    "end": 1520
+  },
+  {
+    "entity": "cholecystitis",
+    "label": "PROBLEM",
+    "start": 1543,
+    "end": 1556
+  },
+  {
+    "entity": "Urine",
+    "label": "TEST",
+    "start": 1558,
+    "end": 1563
+  },
+  {
+    "entity": "nitrite",
+    "label": "TEST",
+    "start": 1605,
+    "end": 1612
+  },
+  {
+    "entity": "creatinine",
+    "label": "TEST",
+    "start": 1617,
+    "end": 1627
+  },
+  {
+    "entity": "sodium",
+    "label": "TEST",
+    "start": 1637,
+    "end": 1643
+  },
+  {
+    "entity": "potassium",
+    "label": "TEST",
+    "start": 1649,
+    "end": 1658
+  },
+  {
+    "entity": "lipase",
+    "label": "TEST",
+    "start": 1672,
+    "end": 1678
+  },
+  {
+    "entity": "amylase",
+    "label": "TEST",
+    "start": 1683,
+    "end": 1690
+  },
+  {
+    "entity": "IV fluid",
+    "label": "TREATMENT",
+    "start": 1792,
+    "end": 1800
+  },
+  {
+    "entity": "antibiotic",
+    "label": "DRUG",
+    "start": 1824,
+    "end": 1834
+  },
+  {
+    "entity": "2-D echocardiogram",
+    "label": "TEST",
+    "start": 1839,
+    "end": 1857
+  },
+  {
+    "entity": "EKG",
+    "label": "TEST",
+    "start": 1862,
+    "end": 1865
+  },
+  {
+    "entity": "CHF",
+    "label": "PROBLEM",
+    "start": 1916,
+    "end": 1919
+  },
+  {
+    "entity": "some workup",
+    "label": "TEST",
+    "start": 1949,
+    "end": 1960
+  },
+  {
+    "entity": "blood culture",
+    "label": "TEST",
+    "start": 2044,
+    "end": 2057
+  },
+  {
+    "entity": "urine culture",
+    "label": "TEST",
+    "start": 2062,
+    "end": 2075
+  },
+  {
+    "entity": "cholecystectomy",
+    "label": "TREATMENT",
+    "start": 2162,
+    "end": 2177
+  },
+  {
+    "entity": "dialysis",
+    "label": "TREATMENT",
+    "start": 2206,
+    "end": 2214
+  },
+  {
+    "entity": "laparoscopic cholecystectomy",
+    "label": "TREATMENT",
+    "start": 2388,
+    "end": 2416
+  },
+  {
+    "entity": "dialysis",
+    "label": "TREATMENT",
+    "start": 2470,
+    "end": 2478
+  },
+  {
+    "entity": "The patient's white count",
+    "label": "TEST",
+    "start": 2480,
+    "end": 2505
+  },
+  {
+    "entity": "chronic bronchitis",
+    "label": "PROBLEM",
+    "start": 2615,
+    "end": 2633
+  },
+  {
+    "entity": "Synthroid",
+    "label": "DRUG",
+    "start": 2813,
+    "end": 2822
+  },
+  {
+    "entity": "Plavix",
+    "label": "DRUG",
+    "start": 2851,
+    "end": 2857
+  },
+  {
+    "entity": "folic acid",
+    "label": "DRUG",
+    "start": 2876,
+    "end": 2886
+  },
+  {
+    "entity": "Diovan",
+    "label": "DRUG",
+    "start": 2904,
+    "end": 2910
+  },
+  {
+    "entity": "Renagel",
+    "label": "DRUG",
+    "start": 2929,
+    "end": 2936
+  },
+  {
+    "entity": "Lasix",
+    "label": "DRUG",
+    "start": 2972,
+    "end": 2977
+  },
+  {
+    "entity": "lovastatin",
+    "label": "DRUG",
+    "start": 3012,
+    "end": 3022
+  },
+  {
+    "entity": "Coreg",
+    "label": "DRUG",
+    "start": 3041,
+    "end": 3046
+  },
+  {
+    "entity": "nebulizer therapy every 3 hours",
+    "label": "TREATMENT",
+    "start": 3074,
+    "end": 3105
+  },
+  {
+    "entity": "Phenergan",
+    "label": "DRUG",
+    "start": 3122,
+    "end": 3131
+  },
+  {
+    "entity": "nausea",
+    "label": "PROBLEM",
+    "start": 3157,
+    "end": 3163
+  },
+  {
+    "entity": "vomiting",
+    "label": "PROBLEM",
+    "start": 3168,
+    "end": 3176
+  },
+  {
+    "entity": "Pepcid",
+    "label": "DRUG",
+    "start": 3178,
+    "end": 3184
+  },
+  {
+    "entity": "Vicodin",
+    "label": "DRUG",
+    "start": 3203,
+    "end": 3210
+  },
+  {
+    "entity": "Levaquin",
+    "label": "DRUG",
+    "start": 3257,
+    "end": 3265
+  },
+  {
+    "entity": "Premarin",
+    "label": "DRUG",
+    "start": 3336,
+    "end": 3344
+  },
+  {
+    "entity": "heart disease",
+    "label": "PROBLEM",
+    "start": 3418,
+    "end": 3431
+  },
+  {
+    "entity": "stroke",
+    "label": "PROBLEM",
+    "start": 3436,
+    "end": 3442
+  },
+  {
+    "entity": "end-stage renal disease",
+    "label": "PROBLEM",
+    "start": 3515,
+    "end": 3538
+  },
+  {
+    "entity": "lymphoma",
+    "label": "PROBLEM",
+    "start": 3540,
+    "end": 3548
+  },
+  {
+    "entity": "cholecystitis",
+    "label": "PROBLEM",
+    "start": 3550,
+    "end": 3563
+  },
+  {
+    "entity": "congestive heart failure",
+    "label": "PROBLEM",
+    "start": 3565,
+    "end": 3589
+  },
+  {
+    "entity": "skin lymphoma",
+    "label": "PROBLEM",
+    "start": 3591,
+    "end": 3604
+  },
+  {
+    "entity": "laparoscopic cholecystectomy",
+    "label": "TREATMENT",
+    "start": 3624,
+    "end": 3652
+  }
+]

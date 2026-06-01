@@ -1,0 +1,53 @@
+[
+  {
+    "itchy rash": "PROBLEM"
+  },
+  {
+    "urticaria": "PROBLEM"
+  },
+  {
+    "pruritus": "PROBLEM"
+  },
+  {
+    "lip swelling": "PROBLEM"
+  },
+  {
+    "allergic reaction": "PROBLEM"
+  },
+  {
+    "Benadryl": "DRUG"
+  },
+  {
+    "epinephrine": "DRUG"
+  },
+  {
+    "antihistamine": "DRUG"
+  },
+  {
+    "VITAL SIGNS": "TEST"
+  },
+  {
+    "PHYSICAL EXAMINATION": "TEST"
+  },
+  {
+    "ED COURSE": "TEST"
+  },
+  {
+    "IMPRESSION": "TEST"
+  },
+  {
+    "ASSESSMENT AND PLAN": "TEST"
+  },
+  {
+    "torso": "TREATMENT"
+  },
+  {
+    "Benadryl": "TREATMENT"
+  },
+  {
+    "epinephrine": "TREATMENT"
+  },
+  {
+    "antihistamine": "TREATMENT"
+  }
+]

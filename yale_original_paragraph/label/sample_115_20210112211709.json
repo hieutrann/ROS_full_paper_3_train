@@ -1,0 +1,332 @@
+[
+  {
+    "entity": "non-small cell lung carcinoma",
+    "label": "PROBLEM",
+    "start": 134,
+    "end": 163
+  },
+  {
+    "entity": "left malignant pleural effusion",
+    "label": "PROBLEM",
+    "start": 169,
+    "end": 200
+  },
+  {
+    "entity": "chest tube insertion",
+    "label": "TREATMENT",
+    "start": 213,
+    "end": 233
+  },
+  {
+    "entity": "chemical pleurodesis",
+    "label": "TREATMENT",
+    "start": 246,
+    "end": 266
+  },
+  {
+    "entity": "Advanced non-small cell lung carcinoma",
+    "label": "PROBLEM",
+    "start": 377,
+    "end": 415
+  },
+  {
+    "entity": "left malignant pleural effusion",
+    "label": "PROBLEM",
+    "start": 421,
+    "end": 452
+  },
+  {
+    "entity": "chest tube insertion",
+    "label": "TREATMENT",
+    "start": 465,
+    "end": 485
+  },
+  {
+    "entity": "chemical pleurodesis",
+    "label": "TREATMENT",
+    "start": 498,
+    "end": 518
+  },
+  {
+    "entity": "Respiratory failure",
+    "label": "PROBLEM",
+    "start": 523,
+    "end": 542
+  },
+  {
+    "entity": "postobstructive pneumonia",
+    "label": "PROBLEM",
+    "start": 573,
+    "end": 598
+  },
+  {
+    "entity": "Gastrointestinal bleed",
+    "label": "PROBLEM",
+    "start": 603,
+    "end": 625
+  },
+  {
+    "entity": "Thrombocytopenia",
+    "label": "PROBLEM",
+    "start": 630,
+    "end": 646
+  },
+  {
+    "entity": "Acute renal failure",
+    "label": "PROBLEM",
+    "start": 651,
+    "end": 670
+  },
+  {
+    "entity": "Hyponatremia",
+    "label": "PROBLEM",
+    "start": 675,
+    "end": 687
+  },
+  {
+    "entity": "Hypercalcemia",
+    "label": "PROBLEM",
+    "start": 692,
+    "end": 705
+  },
+  {
+    "entity": "paraneoplastic syndrome",
+    "label": "PROBLEM",
+    "start": 727,
+    "end": 750
+  },
+  {
+    "entity": "non-small cell lung CA",
+    "label": "PROBLEM",
+    "start": 760,
+    "end": 782
+  },
+  {
+    "entity": "metastases to the bones",
+    "label": "PROBLEM",
+    "start": 793,
+    "end": 816
+  },
+  {
+    "entity": "Leukemoid reaction",
+    "label": "PROBLEM",
+    "start": 821,
+    "end": 839
+  },
+  {
+    "entity": "malignancy",
+    "label": "PROBLEM",
+    "start": 861,
+    "end": 871
+  },
+  {
+    "entity": "Elevated liver function tests",
+    "label": "PROBLEM",
+    "start": 877,
+    "end": 906
+  },
+  {
+    "entity": "right hip pain",
+    "label": "PROBLEM",
+    "start": 1055,
+    "end": 1069
+  },
+  {
+    "entity": "cough",
+    "label": "PROBLEM",
+    "start": 1074,
+    "end": 1079
+  },
+  {
+    "entity": "a CT scan of the chest",
+    "label": "TEST",
+    "start": 1097,
+    "end": 1119
+  },
+  {
+    "entity": "a left pleural effusion",
+    "label": "PROBLEM",
+    "start": 1136,
+    "end": 1159
+  },
+  {
+    "entity": "extensive mediastinal mass",
+    "label": "PROBLEM",
+    "start": 1161,
+    "end": 1187
+  },
+  {
+    "entity": "left hilar adenopathy",
+    "label": "PROBLEM",
+    "start": 1189,
+    "end": 1210
+  },
+  {
+    "entity": "complete obstruction of the left lower lobe and the lingula and the left pulmonary vein",
+    "label": "PROBLEM",
+    "start": 1220,
+    "end": 1307
+  },
+  {
+    "entity": "the multiple nodules on the right side of his chest",
+    "label": "PROBLEM",
+    "start": 1313,
+    "end": 1364
+  },
+  {
+    "entity": "metastatic disease",
+    "label": "PROBLEM",
+    "start": 1397,
+    "end": 1415
+  },
+  {
+    "entity": "osseous metastatic disease",
+    "label": "PROBLEM",
+    "start": 1450,
+    "end": 1476
+  },
+  {
+    "entity": "a left large pleural effusion",
+    "label": "PROBLEM",
+    "start": 1510,
+    "end": 1539
+  },
+  {
+    "entity": "severe shortness of breath",
+    "label": "PROBLEM",
+    "start": 1557,
+    "end": 1583
+  },
+  {
+    "entity": "chest pain",
+    "label": "PROBLEM",
+    "start": 1585,
+    "end": 1595
+  },
+  {
+    "entity": "a left-sided chest tube",
+    "label": "TREATMENT",
+    "start": 1597,
+    "end": 1620
+  },
+  {
+    "entity": "pleural effusion",
+    "label": "PROBLEM",
+    "start": 1639,
+    "end": 1655
+  },
+  {
+    "entity": "malignant cells",
+    "label": "PROBLEM",
+    "start": 1673,
+    "end": 1688
+  },
+  {
+    "entity": "right hip pain",
+    "label": "PROBLEM",
+    "start": 1705,
+    "end": 1719
+  },
+  {
+    "entity": "metastatic disease",
+    "label": "PROBLEM",
+    "start": 1742,
+    "end": 1760
+  },
+  {
+    "entity": "bronchoscopy",
+    "label": "TEST",
+    "start": 1784,
+    "end": 1796
+  },
+  {
+    "entity": "non-small cell lung CA",
+    "label": "PROBLEM",
+    "start": 1820,
+    "end": 1842
+  },
+  {
+    "entity": "respiratory failure",
+    "label": "PROBLEM",
+    "start": 1911,
+    "end": 1930
+  },
+  {
+    "entity": "intubation",
+    "label": "TREATMENT",
+    "start": 1942,
+    "end": 1952
+  },
+  {
+    "entity": "mechanical ventilatory support",
+    "label": "TREATMENT",
+    "start": 1954,
+    "end": 1984
+  },
+  {
+    "entity": "respiratory failure",
+    "label": "PROBLEM",
+    "start": 2042,
+    "end": 2061
+  },
+  {
+    "entity": "chemotherapy",
+    "label": "DRUG",
+    "start": 2224,
+    "end": 2236
+  },
+  {
+    "entity": "ventilator",
+    "label": "TREATMENT",
+    "start": 2251,
+    "end": 2261
+  },
+  {
+    "entity": "deteriorated",
+    "label": "PROBLEM",
+    "start": 2293,
+    "end": 2305
+  },
+  {
+    "entity": "DNR",
+    "label": "TREATMENT",
+    "start": 2342,
+    "end": 2345
+  },
+  {
+    "entity": "life support",
+    "label": "TREATMENT",
+    "start": 2365,
+    "end": 2377
+  },
+  {
+    "entity": "expired",
+    "label": "PROBLEM",
+    "start": 2428,
+    "end": 2435
+  },
+  {
+    "entity": "dnr",
+    "label": "TREATMENT",
+    "start": 2530,
+    "end": 2533
+  },
+  {
+    "entity": "expired",
+    "label": "PROBLEM",
+    "start": 2546,
+    "end": 2553
+  },
+  {
+    "entity": "lung carcinoma",
+    "label": "PROBLEM",
+    "start": 2581,
+    "end": 2595
+  },
+  {
+    "entity": "pleural effusion",
+    "label": "PROBLEM",
+    "start": 2597,
+    "end": 2613
+  }
+]

@@ -1,0 +1,464 @@
+[
+  {
+    "extreme fatigue": "PROBLEM"
+  },
+  {
+    "chest": "PROBLEM"
+  },
+  {
+    "back": "PROBLEM"
+  },
+  {
+    "Stomach": "PROBLEM"
+  },
+  {
+    "pain": "PROBLEM"
+  },
+  {
+    "management": "TREATMENT"
+  },
+  {
+    "extreme fatigue": "PROBLEM"
+  },
+  {
+    "chest": "PROBLEM"
+  },
+  {
+    "back": "PROBLEM"
+  },
+  {
+    "Stomach": "PROBLEM"
+  },
+  {
+    "pain": "PROBLEM"
+  },
+  {
+    "supplements": "DRUG"
+  },
+  {
+    "loose bowel movements": "PROBLEM"
+  },
+  {
+    "bladder control": "PROBLEM"
+  },
+  {
+    "pain in her hips": "PROBLEM"
+  },
+  {
+    "peripheral neuropathy": "PROBLEM"
+  },
+  {
+    "swelling": "PROBLEM"
+  },
+  {
+    "headaches": "PROBLEM"
+  },
+  {
+    "DIAGNOSES": "PROBLEM"
+  },
+  {
+    "Type II diabetes mellitus": "PROBLEM"
+  },
+  {
+    "2": "TEST"
+  },
+  {
+    "fatigue": "PROBLEM"
+  },
+  {
+    "weakness": "PROBLEM"
+  },
+  {
+    "3": "PROBLEM"
+  },
+  {
+    "Hypertension": "PROBLEM"
+  },
+  {
+    "4": "TEST"
+  },
+  {
+    "Peripheral neuropathy": "PROBLEM"
+  },
+  {
+    "atypical symptoms": "PROBLEM"
+  },
+  {
+    "5": "PROBLEM"
+  },
+  {
+    "Hypothyroidism": "PROBLEM"
+  },
+  {
+    "6": "PROBLEM"
+  },
+  {
+    "Depression": "PROBLEM"
+  },
+  {
+    "7": "PROBLEM"
+  },
+  {
+    "high-risk medications": "DRUG"
+  },
+  {
+    "8": "TEST"
+  },
+  {
+    "Postmenopausal age-related symptoms": "PROBLEM"
+  },
+  {
+    "9": "PROBLEM"
+  },
+  {
+    "Abdominal pain": "PROBLEM"
+  },
+  {
+    "irritable bowel": "PROBLEM"
+  },
+  {
+    "diarrhea": "PROBLEM"
+  },
+  {
+    "medicines": "DRUG"
+  },
+  {
+    "PAST SURGICAL HISTORY": "TREATMENT"
+  },
+  {
+    "FAMILY HISTORY": "TEST"
+  },
+  {
+    "MI": "PROBLEM"
+  },
+  {
+    "stroke": "PROBLEM"
+  },
+  {
+    "She has two sons and an adopted daughter": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "sweats": "PROBLEM"
+  },
+  {
+    "chills": "PROBLEM"
+  },
+  {
+    "weight change": "PROBLEM"
+  },
+  {
+    "189 pounds": "TEST"
+  },
+  {
+    "188 pounds": "TEST"
+  },
+  {
+    "HEENT": "TEST"
+  },
+  {
+    "ENT": "PROBLEM"
+  },
+  {
+    "epistaxis": "PROBLEM"
+  },
+  {
+    "sore throat": "PROBLEM"
+  },
+  {
+    "hoarseness": "PROBLEM"
+  },
+  {
+    "palpitations": "PROBLEM"
+  },
+  {
+    "PND": "PROBLEM"
+  },
+  {
+    "orthopnea": "PROBLEM"
+  },
+  {
+    "chest pains": "PROBLEM"
+  },
+  {
+    "tenderness to palpation": "PROBLEM"
+  },
+  {
+    "wheezing": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "PND": "PROBLEM"
+  },
+  {
+    "Thromboembolic disease": "PROBLEM"
+  },
+  {
+    "stomach pain": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "Diarrhea": "PROBLEM"
+  },
+  {
+    "poor bladder control": "PROBLEM"
+  },
+  {
+    "dysuria": "PROBLEM"
+  },
+  {
+    "hematuria": "PROBLEM"
+  },
+  {
+    "stones": "PROBLEM"
+  },
+  {
+    "Peripheral neuropathy": "PROBLEM"
+  },
+  {
+    "generalized muscle pain": "PROBLEM"
+  },
+  {
+    "joint pain": "PROBLEM"
+  },
+  {
+    "paralysis": "PROBLEM"
+  },
+  {
+    "paresis": "PROBLEM"
+  },
+  {
+    "paresthesias": "PROBLEM"
+  },
+  {
+    "rashes": "PROBLEM"
+  },
+  {
+    "itching": "PROBLEM"
+  },
+  {
+    "nails": "PROBLEM"
+  },
+  {
+    "lumps": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "bruising": "PROBLEM"
+  },
+  {
+    "bleeding-type symptoms": "PROBLEM"
+  },
+  {
+    "WEIGHT": "TEST"
+  },
+  {
+    "BP": "TEST"
+  },
+  {
+    "PULSE": "TEST"
+  },
+  {
+    "RESPIRATIONS": "TEST"
+  },
+  {
+    "Well developed": "TEST"
+  },
+  {
+    "Well nourished": "TEST"
+  },
+  {
+    "acute distress": "PROBLEM"
+  },
+  {
+    "Head": "TEST"
+  },
+  {
+    "Ears, nose, and throat": "PROBLEM"
+  },
+  {
+    "Pupils": "TEST"
+  },
+  {
+    "Ear canals": "PROBLEM"
+  },
+  {
+    "TMs": "PROBLEM"
+  },
+  {
+    "Nose": "PROBLEM"
+  },
+  {
+    "Septum": "PROBLEM"
+  },
+  {
+    "Oral mucosa": "PROBLEM"
+  },
+  {
+    "tonsillar lesions": "PROBLEM"
+  },
+  {
+    "Neck": "TEST"
+  },
+  {
+    "thyromegaly": "PROBLEM"
+  },
+  {
+    "CHEST": "TEST"
+  },
+  {
+    "HEART": "PROBLEM"
+  },
+  {
+    "S1 and S2": "TEST"
+  },
+  {
+    "murmur": "PROBLEM"
+  },
+  {
+    "gallop": "PROBLEM"
+  },
+  {
+    "ABDOMEN": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "guarding": "PROBLEM"
+  },
+  {
+    "rigidity": "PROBLEM"
+  },
+  {
+    "tenderness": "PROBLEM"
+  },
+  {
+    "flank pain": "PROBLEM"
+  },
+  {
+    "GU": "TEST"
+  },
+  {
+    "cyanosis": "PROBLEM"
+  },
+  {
+    "clubbing": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "SKIN AND INTEGUMENTS": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "rashes": "PROBLEM"
+  },
+  {
+    "cranial nerve testing II through XII": "TEST"
+  },
+  {
+    "gait": "TEST"
+  },
+  {
+    "motor": "TEST"
+  },
+  {
+    "sensory": "TEST"
+  },
+  {
+    "random motion": "TEST"
+  },
+  {
+    "metformin": "DRUG"
+  },
+  {
+    "As above": "PROBLEM"
+  },
+  {
+    "PLAN": "TREATMENT"
+  },
+  {
+    "CBC": "TEST"
+  },
+  {
+    "CMP": "TEST"
+  },
+  {
+    "A1c": "TEST"
+  },
+  {
+    "microalbumin": "TEST"
+  },
+  {
+    "UA": "TEST"
+  },
+  {
+    "Stool for C&S": "TEST"
+  },
+  {
+    "Gram stain": "TEST"
+  },
+  {
+    "ova and parasites": "TEST"
+  },
+  {
+    "diarrhea": "PROBLEM"
+  },
+  {
+    "CT of the abdomen and pelvis": "TEST"
+  },
+  {
+    "2": "TEST"
+  },
+  {
+    "medications": "DRUG"
+  },
+  {
+    "diuretics": "DRUG"
+  },
+  {
+    "3": "PROBLEM"
+  },
+  {
+    "months": "TEST"
+  },
+  {
+    "diabetes mellitus": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "peripheral neuropathy": "PROBLEM"
+  },
+  {
+    "intermittent diarrhea": "PROBLEM"
+  },
+  {
+    "fatigue": "PROBLEM"
+  },
+  {
+    "discomfort": "PROBLEM"
+  },
+  {
+    "loose bowel movements": "PROBLEM"
+  },
+  {
+    "weakness": "PROBLEM"
+  }
+]

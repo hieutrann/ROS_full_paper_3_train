@@ -1,0 +1,80 @@
+[
+  {
+    "pancreatic": "PROBLEM"
+  },
+  {
+    "adrenal": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "adenoma": "PROBLEM"
+  },
+  {
+    "neoplasm": "PROBLEM"
+  },
+  {
+    "pneumonitis": "PROBLEM"
+  },
+  {
+    "CAT scan": "TEST"
+  },
+  {
+    "MRI": "TEST"
+  },
+  {
+    "colonoscopy": "TEST"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "diabetes mellitus": "PROBLEM"
+  },
+  {
+    "asthma": "PROBLEM"
+  },
+  {
+    "cholesterol": "PROBLEM"
+  },
+  {
+    "glipizide": "DRUG"
+  },
+  {
+    "metformin": "DRUG"
+  },
+  {
+    "Atacand": "DRUG"
+  },
+  {
+    "metoprolol": "DRUG"
+  },
+  {
+    "Lipitor": "DRUG"
+  },
+  {
+    "pantoprazole": "DRUG"
+  },
+  {
+    "Flomax": "DRUG"
+  },
+  {
+    "Detrol": "DRUG"
+  },
+  {
+    "Zyrtec": "DRUG"
+  },
+  {
+    "Advair Diskus": "DRUG"
+  },
+  {
+    "fluticasone": "DRUG"
+  },
+  {
+    "ERCP": "TREATMENT"
+  },
+  {
+    "esophagogastroduodenoscopy": "TREATMENT"
+  }
+]

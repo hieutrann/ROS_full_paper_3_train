@@ -1,0 +1,161 @@
+[
+  {
+    "decreased ability to perform daily living activity": "PROBLEM"
+  },
+  {
+    "right hip surgery": "PROBLEM"
+  },
+  {
+    "right total hip replacement": "PROBLEM"
+  },
+  {
+    "low-grade fever": "PROBLEM"
+  },
+  {
+    "DVT": "PROBLEM"
+  },
+  {
+    "INR": "TEST"
+  },
+  {
+    "bowel movement": "PROBLEM"
+  },
+  {
+    "right calf discomfort": "PROBLEM"
+  },
+  {
+    "right hip pain": "PROBLEM"
+  },
+  {
+    "anxiety": "PROBLEM"
+  },
+  {
+    "depression": "PROBLEM"
+  },
+  {
+    "osteoarthritis": "PROBLEM"
+  },
+  {
+    "migraine headaches": "PROBLEM"
+  },
+  {
+    "sciatic pain": "PROBLEM"
+  },
+  {
+    "herniated disc": "PROBLEM"
+  },
+  {
+    "appendectomy": "TREATMENT"
+  },
+  {
+    "Coumadin": "DRUG"
+  },
+  {
+    "Lovenox": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "MOBIC": "DRUG"
+  },
+  {
+    "Klonopin": "DRUG"
+  },
+  {
+    "Celebrex": "DRUG"
+  },
+  {
+    "Colace": "DRUG"
+  },
+  {
+    "Fiorinal": "DRUG"
+  },
+  {
+    "oxycodone": "DRUG"
+  },
+  {
+    "temperature": "TEST"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "heart rate": "TEST"
+  },
+  {
+    "respirations": "TEST"
+  },
+  {
+    "O2 saturation": "TEST"
+  },
+  {
+    "chemistry panel": "TEST"
+  },
+  {
+    "fasting glucose": "TEST"
+  },
+  {
+    "anion gap": "TEST"
+  },
+  {
+    "BUN": "TEST"
+  },
+  {
+    "creatinine": "TEST"
+  },
+  {
+    "CBC": "TEST"
+  },
+  {
+    "white count": "TEST"
+  },
+  {
+    "hemoglobin": "TEST"
+  },
+  {
+    "hematocrit": "TEST"
+  },
+  {
+    "platelets": "TEST"
+  },
+  {
+    "Feosol": "DRUG"
+  },
+  {
+    "ice": "TREATMENT"
+  },
+  {
+    "Protonix": "DRUG"
+  },
+  {
+    "Dulcolax": "DRUG"
+  },
+  {
+    "lactulose": "DRUG"
+  },
+  {
+    "Arixtra": "DRUG"
+  },
+  {
+    "Physical Therapy": "TREATMENT"
+  },
+  {
+    "Occupational Therapy": "TREATMENT"
+  },
+  {
+    "discharge summary": "PROBLEM"
+  },
+  {
+    "hip surgery": "PROBLEM"
+  },
+  {
+    "hip replacement": "PROBLEM"
+  },
+  {
+    "physical therapy": "TREATMENT"
+  },
+  {
+    "occupational therapy": "TREATMENT"
+  }
+]

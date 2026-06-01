@@ -1,0 +1,404 @@
+[
+  {
+    "entity": "weakness",
+    "label": "PROBLEM",
+    "start": 152,
+    "end": 160
+  },
+  {
+    "entity": "fatigue",
+    "label": "PROBLEM",
+    "start": 172,
+    "end": 179
+  },
+  {
+    "entity": "malaise",
+    "label": "PROBLEM",
+    "start": 189,
+    "end": 196
+  },
+  {
+    "entity": "chills",
+    "label": "PROBLEM",
+    "start": 208,
+    "end": 214
+  },
+  {
+    "entity": "fever",
+    "label": "PROBLEM",
+    "start": 226,
+    "end": 231
+  },
+  {
+    "entity": "night sweats",
+    "label": "PROBLEM",
+    "start": 243,
+    "end": 255
+  },
+  {
+    "entity": "allergies",
+    "label": "PROBLEM",
+    "start": 267,
+    "end": 276
+  },
+  {
+    "entity": "weakness",
+    "label": "PROBLEM",
+    "start": 339,
+    "end": 347
+  },
+  {
+    "entity": "fatigue",
+    "label": "PROBLEM",
+    "start": 359,
+    "end": 366
+  },
+  {
+    "entity": "malaise",
+    "label": "PROBLEM",
+    "start": 376,
+    "end": 383
+  },
+  {
+    "entity": "chills",
+    "label": "PROBLEM",
+    "start": 395,
+    "end": 401
+  },
+  {
+    "entity": "fever",
+    "label": "PROBLEM",
+    "start": 413,
+    "end": 418
+  },
+  {
+    "entity": "night sweats",
+    "label": "PROBLEM",
+    "start": 430,
+    "end": 442
+  },
+  {
+    "entity": "allergies",
+    "label": "PROBLEM",
+    "start": 454,
+    "end": 463
+  },
+  {
+    "entity": "rash",
+    "label": "PROBLEM",
+    "start": 492,
+    "end": 496
+  },
+  {
+    "entity": "jaundice",
+    "label": "PROBLEM",
+    "start": 508,
+    "end": 516
+  },
+  {
+    "entity": "bleeding",
+    "label": "PROBLEM",
+    "start": 545,
+    "end": 553
+  },
+  {
+    "entity": "lymph node enlargement",
+    "label": "PROBLEM",
+    "start": 565,
+    "end": 587
+  },
+  {
+    "entity": "bruisability",
+    "label": "PROBLEM",
+    "start": 599,
+    "end": 611
+  },
+  {
+    "entity": "headaches",
+    "label": "PROBLEM",
+    "start": 637,
+    "end": 646
+  },
+  {
+    "entity": "syncope",
+    "label": "PROBLEM",
+    "start": 658,
+    "end": 665
+  },
+  {
+    "entity": "seizures",
+    "label": "PROBLEM",
+    "start": 677,
+    "end": 685
+  },
+  {
+    "entity": "weakness",
+    "label": "PROBLEM",
+    "start": 697,
+    "end": 705
+  },
+  {
+    "entity": "tremor",
+    "label": "PROBLEM",
+    "start": 717,
+    "end": 723
+  },
+  {
+    "entity": "strokes",
+    "label": "PROBLEM",
+    "start": 740,
+    "end": 747
+  },
+  {
+    "entity": "other neurologic conditions",
+    "label": "PROBLEM",
+    "start": 764,
+    "end": 791
+  },
+  {
+    "entity": "visual changes",
+    "label": "PROBLEM",
+    "start": 811,
+    "end": 825
+  },
+  {
+    "entity": "diplopia",
+    "label": "PROBLEM",
+    "start": 837,
+    "end": 845
+  },
+  {
+    "entity": "scotomata",
+    "label": "PROBLEM",
+    "start": 857,
+    "end": 866
+  },
+  {
+    "entity": "impaired vision",
+    "label": "PROBLEM",
+    "start": 878,
+    "end": 893
+  },
+  {
+    "entity": "tinnitus",
+    "label": "PROBLEM",
+    "start": 912,
+    "end": 920
+  },
+  {
+    "entity": "vertigo",
+    "label": "PROBLEM",
+    "start": 932,
+    "end": 939
+  },
+  {
+    "entity": "hearing impairment",
+    "label": "PROBLEM",
+    "start": 951,
+    "end": 969
+  },
+  {
+    "entity": "postnasal drip",
+    "label": "PROBLEM",
+    "start": 999,
+    "end": 1013
+  },
+  {
+    "entity": "sore throat",
+    "label": "PROBLEM",
+    "start": 1025,
+    "end": 1036
+  },
+  {
+    "entity": "chest pain",
+    "label": "PROBLEM",
+    "start": 1066,
+    "end": 1076
+  },
+  {
+    "entity": "dyspnea on exertion",
+    "label": "PROBLEM",
+    "start": 1088,
+    "end": 1107
+  },
+  {
+    "entity": "palpations",
+    "label": "PROBLEM",
+    "start": 1119,
+    "end": 1129
+  },
+  {
+    "entity": "edema",
+    "label": "PROBLEM",
+    "start": 1141,
+    "end": 1146
+  },
+  {
+    "entity": "heart attack",
+    "label": "PROBLEM",
+    "start": 1164,
+    "end": 1176
+  },
+  {
+    "entity": "arrhythmias",
+    "label": "PROBLEM",
+    "start": 1193,
+    "end": 1204
+  },
+  {
+    "entity": "hypertension",
+    "label": "PROBLEM",
+    "start": 1221,
+    "end": 1233
+  },
+  {
+    "entity": "shortness of breath",
+    "label": "PROBLEM",
+    "start": 1265,
+    "end": 1284
+  },
+  {
+    "entity": "asthma",
+    "label": "PROBLEM",
+    "start": 1301,
+    "end": 1307
+  },
+  {
+    "entity": "chronic obstructive pulmonary disease",
+    "label": "PROBLEM",
+    "start": 1324,
+    "end": 1361
+  },
+  {
+    "entity": "obstructive sleep apnea",
+    "label": "PROBLEM",
+    "start": 1378,
+    "end": 1401
+  },
+  {
+    "entity": "dysphagia",
+    "label": "PROBLEM",
+    "start": 1432,
+    "end": 1441
+  },
+  {
+    "entity": "nausea",
+    "label": "PROBLEM",
+    "start": 1453,
+    "end": 1459
+  },
+  {
+    "entity": "vomiting",
+    "label": "PROBLEM",
+    "start": 1471,
+    "end": 1479
+  },
+  {
+    "entity": "hematemesis",
+    "label": "PROBLEM",
+    "start": 1491,
+    "end": 1502
+  },
+  {
+    "entity": "abdominal pain",
+    "label": "PROBLEM",
+    "start": 1514,
+    "end": 1528
+  },
+  {
+    "entity": "frequency",
+    "label": "PROBLEM",
+    "start": 1557,
+    "end": 1566
+  },
+  {
+    "entity": "urgency",
+    "label": "PROBLEM",
+    "start": 1578,
+    "end": 1585
+  },
+  {
+    "entity": "dysuria",
+    "label": "PROBLEM",
+    "start": 1597,
+    "end": 1604
+  },
+  {
+    "entity": "incontinence",
+    "label": "PROBLEM",
+    "start": 1616,
+    "end": 1628
+  },
+  {
+    "entity": "STDs",
+    "label": "PROBLEM",
+    "start": 1645,
+    "end": 1649
+  },
+  {
+    "entity": "myalgia",
+    "label": "PROBLEM",
+    "start": 1680,
+    "end": 1687
+  },
+  {
+    "entity": "joint pain",
+    "label": "PROBLEM",
+    "start": 1699,
+    "end": 1709
+  },
+  {
+    "entity": "stiffness",
+    "label": "PROBLEM",
+    "start": 1721,
+    "end": 1730
+  },
+  {
+    "entity": "weakness",
+    "label": "PROBLEM",
+    "start": 1742,
+    "end": 1750
+  },
+  {
+    "entity": "back pain",
+    "label": "PROBLEM",
+    "start": 1762,
+    "end": 1771
+  },
+  {
+    "entity": "psychiatric evaluation",
+    "label": "TEST",
+    "start": 1793,
+    "end": 1815
+  },
+  {
+    "entity": "diabetes mellitus",
+    "label": "PROBLEM",
+    "start": 1844,
+    "end": 1861
+  },
+  {
+    "entity": "thyroid problems",
+    "label": "PROBLEM",
+    "start": 1878,
+    "end": 1894
+  },
+  {
+    "entity": "endocrinologic abnormalities",
+    "label": "PROBLEM",
+    "start": 1911,
+    "end": 1939
+  },
+  {
+    "entity": "weakness",
+    "label": "PROBLEM",
+    "start": 2033,
+    "end": 2041
+  },
+  {
+    "entity": "weakness",
+    "label": "PROBLEM",
+    "start": 2080,
+    "end": 2088
+  }
+]

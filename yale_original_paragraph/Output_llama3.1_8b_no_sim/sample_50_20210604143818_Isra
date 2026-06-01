@@ -1,0 +1,89 @@
+[
+  {
+    "Abdominal Pain": "PROBLEM"
+  },
+  {
+    "Abdominal Pain - Consult": "TEST"
+  },
+  {
+    "Cipro": "DRUG"
+  },
+  {
+    "Flagyl": "DRUG"
+  },
+  {
+    "Metoprolol": "DRUG"
+  },
+  {
+    "Premarin": "DRUG"
+  },
+  {
+    "Macrodantin": "DRUG"
+  },
+  {
+    "Atrial Fibrillation": "PROBLEM"
+  },
+  {
+    "Cholecystectomy": "TREATMENT"
+  },
+  {
+    "Appendectomy": "TREATMENT"
+  },
+  {
+    "Hysterectomy": "TREATMENT"
+  },
+  {
+    "Bladder Prolapse": "PROBLEM"
+  },
+  {
+    "Sigmoid Diverticulitis": "PROBLEM"
+  },
+  {
+    "CT Scan": "TEST"
+  },
+  {
+    "Colonoscopy": "TEST"
+  },
+  {
+    "EKG": "TEST"
+  },
+  {
+    "Liver Function Tests": "TEST"
+  },
+  {
+    "Electrolytes": "TEST"
+  },
+  {
+    "Glucose": "TEST"
+  },
+  {
+    "BUN": "TEST"
+  },
+  {
+    "Creatinine": "TEST"
+  },
+  {
+    "White Blood Cell Count": "TEST"
+  },
+  {
+    "Hemoglobin": "TEST"
+  },
+  {
+    "Platelet Count": "TEST"
+  },
+  {
+    "Alkaline Phosphatase": "TEST"
+  },
+  {
+    "Sigmoid Diverticulitis": "PROBLEM"
+  },
+  {
+    "Tenderness": "PROBLEM"
+  },
+  {
+    "Lower Quadrant": "PROBLEM"
+  },
+  {
+    "Abdominal": "PROBLEM"
+  }
+]

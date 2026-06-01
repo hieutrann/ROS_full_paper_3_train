@@ -1,0 +1,440 @@
+[
+  {
+    "entity": "Falls",
+    "label": "PROBLEM",
+    "start": 64,
+    "end": 69
+  },
+  {
+    "entity": "Falls",
+    "label": "PROBLEM",
+    "start": 103,
+    "end": 108
+  },
+  {
+    "entity": "Anxiety",
+    "label": "PROBLEM",
+    "start": 118,
+    "end": 125
+  },
+  {
+    "entity": "depression",
+    "label": "PROBLEM",
+    "start": 130,
+    "end": 140
+  },
+  {
+    "entity": "increasingly anxious",
+    "label": "PROBLEM",
+    "start": 163,
+    "end": 183
+  },
+  {
+    "entity": "depressed",
+    "label": "PROBLEM",
+    "start": 217,
+    "end": 226
+  },
+  {
+    "entity": "Falls",
+    "label": "PROBLEM",
+    "start": 291,
+    "end": 296
+  },
+  {
+    "entity": "increased anxiety",
+    "label": "PROBLEM",
+    "start": 429,
+    "end": 446
+  },
+  {
+    "entity": "increasingly anxious",
+    "label": "PROBLEM",
+    "start": 511,
+    "end": 531
+  },
+  {
+    "entity": "depressed",
+    "label": "PROBLEM",
+    "start": 565,
+    "end": 574
+  },
+  {
+    "entity": "any chest pain",
+    "label": "PROBLEM",
+    "start": 688,
+    "end": 702
+  },
+  {
+    "entity": "pressure",
+    "label": "PROBLEM",
+    "start": 706,
+    "end": 714
+  },
+  {
+    "entity": "any loss of consciousness",
+    "label": "PROBLEM",
+    "start": 771,
+    "end": 796
+  },
+  {
+    "entity": "incontinence",
+    "label": "PROBLEM",
+    "start": 800,
+    "end": 812
+  },
+  {
+    "entity": "any seizure activity",
+    "label": "PROBLEM",
+    "start": 825,
+    "end": 845
+  },
+  {
+    "entity": "Darvocet",
+    "label": "DRUG",
+    "start": 931,
+    "end": 939
+  },
+  {
+    "entity": "her anxiety",
+    "label": "PROBLEM",
+    "start": 944,
+    "end": 955
+  },
+  {
+    "entity": "numerous medications",
+    "label": "DRUG",
+    "start": 1057,
+    "end": 1077
+  },
+  {
+    "entity": "depression",
+    "label": "PROBLEM",
+    "start": 1284,
+    "end": 1294
+  },
+  {
+    "entity": "SI",
+    "label": "PROBLEM",
+    "start": 1315,
+    "end": 1317
+  },
+  {
+    "entity": "HI",
+    "label": "PROBLEM",
+    "start": 1321,
+    "end": 1323
+  },
+  {
+    "entity": "acute distress",
+    "label": "PROBLEM",
+    "start": 1405,
+    "end": 1419
+  },
+  {
+    "entity": "S1",
+    "label": "TEST",
+    "start": 1527,
+    "end": 1529
+  },
+  {
+    "entity": "S2",
+    "label": "TEST",
+    "start": 1534,
+    "end": 1536
+  },
+  {
+    "entity": "gallops",
+    "label": "PROBLEM",
+    "start": 1541,
+    "end": 1548
+  },
+  {
+    "entity": "Rate",
+    "label": "TEST",
+    "start": 1550,
+    "end": 1554
+  },
+  {
+    "entity": "edema",
+    "label": "PROBLEM",
+    "start": 1632,
+    "end": 1637
+  },
+  {
+    "entity": "some ecchymosis",
+    "label": "PROBLEM",
+    "start": 1648,
+    "end": 1663
+  },
+  {
+    "entity": "tender",
+    "label": "PROBLEM",
+    "start": 1705,
+    "end": 1711
+  },
+  {
+    "entity": "A psychiatric evaluation",
+    "label": "TEST",
+    "start": 1796,
+    "end": 1820
+  },
+  {
+    "entity": "increased depression",
+    "label": "PROBLEM",
+    "start": 1855,
+    "end": 1875
+  },
+  {
+    "entity": "anxiety",
+    "label": "PROBLEM",
+    "start": 1880,
+    "end": 1887
+  },
+  {
+    "entity": "Paxil",
+    "label": "DRUG",
+    "start": 1898,
+    "end": 1903
+  },
+  {
+    "entity": "Xanax",
+    "label": "DRUG",
+    "start": 1908,
+    "end": 1913
+  },
+  {
+    "entity": "a rehabilitation program",
+    "label": "TREATMENT",
+    "start": 2042,
+    "end": 2066
+  },
+  {
+    "entity": "her recent falls",
+    "label": "PROBLEM",
+    "start": 2073,
+    "end": 2089
+  },
+  {
+    "entity": "Falls",
+    "label": "PROBLEM",
+    "start": 2115,
+    "end": 2120
+  },
+  {
+    "entity": "Anxiety",
+    "label": "PROBLEM",
+    "start": 2124,
+    "end": 2131
+  },
+  {
+    "entity": "depression",
+    "label": "PROBLEM",
+    "start": 2136,
+    "end": 2146
+  },
+  {
+    "entity": "Hypertension",
+    "label": "PROBLEM",
+    "start": 2151,
+    "end": 2163
+  },
+  {
+    "entity": "Hypercholesterolemia",
+    "label": "PROBLEM",
+    "start": 2168,
+    "end": 2188
+  },
+  {
+    "entity": "Coronary artery disease",
+    "label": "PROBLEM",
+    "start": 2193,
+    "end": 2216
+  },
+  {
+    "entity": "Osteoarthritis",
+    "label": "PROBLEM",
+    "start": 2221,
+    "end": 2235
+  },
+  {
+    "entity": "Chronic obstructive pulmonary disease",
+    "label": "PROBLEM",
+    "start": 2240,
+    "end": 2277
+  },
+  {
+    "entity": "Hypothyroidism",
+    "label": "PROBLEM",
+    "start": 2282,
+    "end": 2296
+  },
+  {
+    "entity": "Tylenol",
+    "label": "DRUG",
+    "start": 2355,
+    "end": 2362
+  },
+  {
+    "entity": "Xanax",
+    "label": "DRUG",
+    "start": 2384,
+    "end": 2389
+  },
+  {
+    "entity": "Lasix",
+    "label": "DRUG",
+    "start": 2408,
+    "end": 2413
+  },
+  {
+    "entity": "Isordil",
+    "label": "DRUG",
+    "start": 2427,
+    "end": 2434
+  },
+  {
+    "entity": "KCl",
+    "label": "DRUG",
+    "start": 2449,
+    "end": 2452
+  },
+  {
+    "entity": "lactulose",
+    "label": "DRUG",
+    "start": 2468,
+    "end": 2477
+  },
+  {
+    "entity": "Cozaar",
+    "label": "DRUG",
+    "start": 2490,
+    "end": 2496
+  },
+  {
+    "entity": "Synthroid",
+    "label": "DRUG",
+    "start": 2510,
+    "end": 2519
+  },
+  {
+    "entity": "Singulair",
+    "label": "DRUG",
+    "start": 2534,
+    "end": 2543
+  },
+  {
+    "entity": "Lumigan",
+    "label": "DRUG",
+    "start": 2557,
+    "end": 2564
+  },
+  {
+    "entity": "NitroQuick",
+    "label": "DRUG",
+    "start": 2597,
+    "end": 2607
+  },
+  {
+    "entity": "Pravachol",
+    "label": "DRUG",
+    "start": 2616,
+    "end": 2625
+  },
+  {
+    "entity": "Feldene",
+    "label": "DRUG",
+    "start": 2639,
+    "end": 2646
+  },
+  {
+    "entity": "Paxil",
+    "label": "DRUG",
+    "start": 2660,
+    "end": 2665
+  },
+  {
+    "entity": "Minipress",
+    "label": "DRUG",
+    "start": 2679,
+    "end": 2688
+  },
+  {
+    "entity": "Provera",
+    "label": "DRUG",
+    "start": 2701,
+    "end": 2708
+  },
+  {
+    "entity": "Advair",
+    "label": "DRUG",
+    "start": 2717,
+    "end": 2723
+  },
+  {
+    "entity": "Senokot",
+    "label": "DRUG",
+    "start": 2748,
+    "end": 2755
+  },
+  {
+    "entity": "Timoptic",
+    "label": "DRUG",
+    "start": 2775,
+    "end": 2783
+  },
+  {
+    "entity": "verapamil",
+    "label": "DRUG",
+    "start": 2807,
+    "end": 2816
+  },
+  {
+    "entity": "ALLERGIES",
+    "label": "PROBLEM",
+    "start": 2830,
+    "end": 2839
+  },
+  {
+    "entity": "further rehabilitation",
+    "label": "TREATMENT",
+    "start": 2933,
+    "end": 2955
+  },
+  {
+    "entity": "falls",
+    "label": "PROBLEM",
+    "start": 2986,
+    "end": 2991
+  },
+  {
+    "entity": "anxious",
+    "label": "PROBLEM",
+    "start": 2993,
+    "end": 3000
+  },
+  {
+    "entity": "depressed",
+    "label": "PROBLEM",
+    "start": 3002,
+    "end": 3011
+  },
+  {
+    "entity": "anxiety",
+    "label": "PROBLEM",
+    "start": 3013,
+    "end": 3020
+  },
+  {
+    "entity": "loss of consciousness",
+    "label": "PROBLEM",
+    "start": 3022,
+    "end": 3043
+  },
+  {
+    "entity": "depression",
+    "label": "PROBLEM",
+    "start": 3045,
+    "end": 3055
+  }
+]

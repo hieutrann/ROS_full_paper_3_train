@@ -1,0 +1,284 @@
+[
+  {
+    "entity": "Neck Pain",
+    "label": "PROBLEM",
+    "start": 64,
+    "end": 73
+  },
+  {
+    "entity": "Neck pain",
+    "label": "PROBLEM",
+    "start": 107,
+    "end": 116
+  },
+  {
+    "entity": "right upper extremity radiculopathy",
+    "label": "PROBLEM",
+    "start": 122,
+    "end": 157
+  },
+  {
+    "entity": "cervical spondylosis",
+    "label": "PROBLEM",
+    "start": 162,
+    "end": 182
+  },
+  {
+    "entity": "herniated nucleus pulposus",
+    "label": "PROBLEM",
+    "start": 188,
+    "end": 214
+  },
+  {
+    "entity": "stenosis",
+    "label": "PROBLEM",
+    "start": 244,
+    "end": 252
+  },
+  {
+    "entity": "Neck pain",
+    "label": "PROBLEM",
+    "start": 315,
+    "end": 324
+  },
+  {
+    "entity": "right upper extremity radiculopathy",
+    "label": "PROBLEM",
+    "start": 330,
+    "end": 365
+  },
+  {
+    "entity": "Cervical spondylosis",
+    "label": "PROBLEM",
+    "start": 370,
+    "end": 390
+  },
+  {
+    "entity": "herniated nucleus pulposus",
+    "label": "PROBLEM",
+    "start": 396,
+    "end": 422
+  },
+  {
+    "entity": "stenosis",
+    "label": "PROBLEM",
+    "start": 452,
+    "end": 460
+  },
+  {
+    "entity": "Neck pain",
+    "label": "PROBLEM",
+    "start": 485,
+    "end": 494
+  },
+  {
+    "entity": "right upper extremity radiculopathy",
+    "label": "PROBLEM",
+    "start": 500,
+    "end": 535
+  },
+  {
+    "entity": "Cervical spondylosis",
+    "label": "PROBLEM",
+    "start": 540,
+    "end": 560
+  },
+  {
+    "entity": "herniated nucleus pulposus",
+    "label": "PROBLEM",
+    "start": 566,
+    "end": 592
+  },
+  {
+    "entity": "stenosis",
+    "label": "PROBLEM",
+    "start": 622,
+    "end": 630
+  },
+  {
+    "entity": "Anterior cervical discectomy with decompression C4-C5, C5-C6, and C6-C7",
+    "label": "TREATMENT",
+    "start": 656,
+    "end": 727
+  },
+  {
+    "entity": "Arthrodesis with anterior interbody fusion C4-C5, C5-C6, and C6-C7",
+    "label": "TREATMENT",
+    "start": 732,
+    "end": 798
+  },
+  {
+    "entity": "Spinal instrumentation C4 through C7",
+    "label": "TREATMENT",
+    "start": 803,
+    "end": 839
+  },
+  {
+    "entity": "Implant",
+    "label": "TREATMENT",
+    "start": 844,
+    "end": 851
+  },
+  {
+    "entity": "Allograft",
+    "label": "TREATMENT",
+    "start": 856,
+    "end": 865
+  },
+  {
+    "entity": "intense neck pain",
+    "label": "PROBLEM",
+    "start": 1051,
+    "end": 1068
+  },
+  {
+    "entity": "The patient's symptoms",
+    "label": "PROBLEM",
+    "start": 1191,
+    "end": 1213
+  },
+  {
+    "entity": "subjective weakness of the right upper extremity",
+    "label": "PROBLEM",
+    "start": 1261,
+    "end": 1309
+  },
+  {
+    "entity": "medications",
+    "label": "DRUG",
+    "start": 1383,
+    "end": 1394
+  },
+  {
+    "entity": "imaging studies",
+    "label": "TEST",
+    "start": 1440,
+    "end": 1455
+  },
+  {
+    "entity": "cervical spondylosis",
+    "label": "PROBLEM",
+    "start": 1480,
+    "end": 1500
+  },
+  {
+    "entity": "herniated disk",
+    "label": "PROBLEM",
+    "start": 1506,
+    "end": 1520
+  },
+  {
+    "entity": "stenosis at C4-C5, C5-C6 and C6-C7",
+    "label": "PROBLEM",
+    "start": 1525,
+    "end": 1559
+  },
+  {
+    "entity": "liver surgery",
+    "label": "TREATMENT",
+    "start": 1583,
+    "end": 1596
+  },
+  {
+    "entity": "right shoulder pain",
+    "label": "PROBLEM",
+    "start": 1670,
+    "end": 1689
+  },
+  {
+    "entity": "some operative site soreness",
+    "label": "PROBLEM",
+    "start": 1694,
+    "end": 1722
+  },
+  {
+    "entity": "morphine",
+    "label": "DRUG",
+    "start": 1755,
+    "end": 1763
+  },
+  {
+    "entity": "the pain down the arm",
+    "label": "PROBLEM",
+    "start": 1795,
+    "end": 1816
+  },
+  {
+    "entity": "some tingling of the right thumb and right index finger",
+    "label": "PROBLEM",
+    "start": 1836,
+    "end": 1891
+  },
+  {
+    "entity": "slight dysphagia",
+    "label": "PROBLEM",
+    "start": 1935,
+    "end": 1951
+  },
+  {
+    "entity": "Decadron",
+    "label": "DRUG",
+    "start": 1973,
+    "end": 1981
+  },
+  {
+    "entity": "Medrol",
+    "label": "DRUG",
+    "start": 2013,
+    "end": 2019
+  },
+  {
+    "entity": "pain medication",
+    "label": "DRUG",
+    "start": 2053,
+    "end": 2068
+  },
+  {
+    "entity": "Darvocet",
+    "label": "DRUG",
+    "start": 2083,
+    "end": 2091
+  },
+  {
+    "entity": "Flexeril",
+    "label": "DRUG",
+    "start": 2096,
+    "end": 2104
+  },
+  {
+    "entity": "radiculopathy",
+    "label": "PROBLEM",
+    "start": 2214,
+    "end": 2227
+  },
+  {
+    "entity": "cervical spondylosis",
+    "label": "PROBLEM",
+    "start": 2229,
+    "end": 2249
+  },
+  {
+    "entity": "neck pain",
+    "label": "PROBLEM",
+    "start": 2251,
+    "end": 2260
+  },
+  {
+    "entity": "anterior cervical discectomy",
+    "label": "TREATMENT",
+    "start": 2262,
+    "end": 2290
+  },
+  {
+    "entity": "herniated nucleus pulposus",
+    "label": "PROBLEM",
+    "start": 2292,
+    "end": 2318
+  },
+  {
+    "entity": "herniated",
+    "label": "PROBLEM",
+    "start": 2340,
+    "end": 2349
+  }
+]

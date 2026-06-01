@@ -1,0 +1,215 @@
+[
+  {
+    "General Medicine": "TEST"
+  },
+  {
+    "blood-borne pathogen exposure": "PROBLEM"
+  },
+  {
+    "blood gas": "TEST"
+  },
+  {
+    "gloves": "DRUG"
+  },
+  {
+    "HIV": "PROBLEM"
+  },
+  {
+    "hepatitis C": "PROBLEM"
+  },
+  {
+    "blood tests": "TEST"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "degenerative disc disease": "PROBLEM"
+  },
+  {
+    "Nexium": "DRUG"
+  },
+  {
+    "IV contrast": "DRUG"
+  },
+  {
+    "temperature": "TEST"
+  },
+  {
+    "pulse": "TEST"
+  },
+  {
+    "respirations": "TEST"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "HEENT exam": "TEST"
+  },
+  {
+    "sclerae": "TEST"
+  },
+  {
+    "ocular movements": "TEST"
+  },
+  {
+    "oropharynx": "TEST"
+  },
+  {
+    "pharyngeal erythema": "PROBLEM"
+  },
+  {
+    "tonsillar enlargement": "PROBLEM"
+  },
+  {
+    "neck": "TEST"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "adenopathy": "PROBLEM"
+  },
+  {
+    "breath sounds": "TEST"
+  },
+  {
+    "wheeze": "PROBLEM"
+  },
+  {
+    "rales": "PROBLEM"
+  },
+  {
+    "heart tones": "TEST"
+  },
+  {
+    "murmur": "PROBLEM"
+  },
+  {
+    "gallop": "PROBLEM"
+  },
+  {
+    "abdomen": "TEST"
+  },
+  {
+    "liver": "TEST"
+  },
+  {
+    "spleen": "TEST"
+  },
+  {
+    "extremities": "TEST"
+  },
+  {
+    "rash": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "gait": "TEST"
+  },
+  {
+    "balance": "TEST"
+  },
+  {
+    "ataxia": "PROBLEM"
+  },
+  {
+    "contaminated needlestick": "PROBLEM"
+  },
+  {
+    "hepatitis B": "PROBLEM"
+  },
+  {
+    "tetanus": "DRUG"
+  },
+  {
+    "intestinal illness": "PROBLEM"
+  },
+  {
+    "squeakiness": "PROBLEM"
+  },
+  {
+    "acute hepatitis": "PROBLEM"
+  },
+  {
+    "lymphadenopathy": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "liver function test": "TEST"
+  },
+  {
+    "hepatitis C": "PROBLEM"
+  },
+  {
+    "HIV": "PROBLEM"
+  },
+  {
+    "local signs of infection": "PROBLEM"
+  },
+  {
+    "protective gear": "DRUG"
+  },
+  {
+    "gloves": "DRUG"
+  },
+  {
+    "intimate contacts": "PROBLEM"
+  },
+  {
+    "regular work": "TREATMENT"
+  },
+  {
+    "disease transmission": "PROBLEM"
+  },
+  {
+    "impairment": "PROBLEM"
+  },
+  {
+    "blood-borne pathogen exposure": "PROBLEM"
+  },
+  {
+    "contaminated": "PROBLEM"
+  },
+  {
+    "exposure": "PROBLEM"
+  },
+  {
+    "full duty work": "TREATMENT"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "needlestick": "PROBLEM"
+  },
+  {
+    "phlebotomist": "TREATMENT"
+  },
+  {
+    "viral illness": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "blood borne": "PROBLEM"
+  },
+  {
+    "borne pathogen": "PROBLEM"
+  },
+  {
+    "hepatitis": "PROBLEM"
+  },
+  {
+    "blood": "TEST"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "VITAL SIGNS": "TEST"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "temperature": "TEST"
+  },
+  {
+    "respirations": "TEST"
+  },
+  {
+    "pulse": "TEST"
+  },
+  {
+    "jugular venous distention": "PROBLEM"
+  },
+  {
+    "flank": "PROBLEM"
+  },
+  {
+    "bladder": "PROBLEM"
+  },
+  {
+    "tenderness": "PROBLEM"
+  },
+  {
+    "motor": "PROBLEM"
+  },
+  {
+    "strength": "PROBLEM"
+  },
+  {
+    "reflexes": "PROBLEM"
+  },
+  {
+    "sounds": "PROBLEM"
+  },
+  {
+    "depression": "PROBLEM"
+  },
+  {
+    "suicidal ideations": "PROBLEM"
+  }
+]

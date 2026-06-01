@@ -1,0 +1,398 @@
+[
+  {
+    "entity": "Pneumonia",
+    "label": "PROBLEM",
+    "start": 64,
+    "end": 73
+  },
+  {
+    "entity": "Atypical pneumonia",
+    "label": "PROBLEM",
+    "start": 107,
+    "end": 125
+  },
+  {
+    "entity": "hypoxia",
+    "label": "PROBLEM",
+    "start": 127,
+    "end": 134
+  },
+  {
+    "entity": "rheumatoid arthritis",
+    "label": "PROBLEM",
+    "start": 136,
+    "end": 156
+  },
+  {
+    "entity": "mild stress-induced adrenal insufficiency",
+    "label": "PROBLEM",
+    "start": 172,
+    "end": 213
+  },
+  {
+    "entity": "cough",
+    "label": "PROBLEM",
+    "start": 268,
+    "end": 273
+  },
+  {
+    "entity": "fevers",
+    "label": "PROBLEM",
+    "start": 275,
+    "end": 281
+  },
+  {
+    "entity": "weakness",
+    "label": "PROBLEM",
+    "start": 283,
+    "end": 291
+  },
+  {
+    "entity": "chills",
+    "label": "PROBLEM",
+    "start": 297,
+    "end": 303
+  },
+  {
+    "entity": "Pneumonia",
+    "label": "PROBLEM",
+    "start": 399,
+    "end": 408
+  },
+  {
+    "entity": "outpatient treatment",
+    "label": "TREATMENT",
+    "start": 417,
+    "end": 437
+  },
+  {
+    "entity": "Hypoxia",
+    "label": "PROBLEM",
+    "start": 442,
+    "end": 449
+  },
+  {
+    "entity": "Rheumatoid arthritis",
+    "label": "PROBLEM",
+    "start": 454,
+    "end": 474
+  },
+  {
+    "entity": "Atypical pneumonia",
+    "label": "PROBLEM",
+    "start": 500,
+    "end": 518
+  },
+  {
+    "entity": "viral",
+    "label": "PROBLEM",
+    "start": 530,
+    "end": 535
+  },
+  {
+    "entity": "Hypoxia",
+    "label": "PROBLEM",
+    "start": 540,
+    "end": 547
+  },
+  {
+    "entity": "Rheumatoid arthritis",
+    "label": "PROBLEM",
+    "start": 552,
+    "end": 572
+  },
+  {
+    "entity": "mild stress-induced adrenal insufficiency",
+    "label": "PROBLEM",
+    "start": 587,
+    "end": 628
+  },
+  {
+    "entity": "cough",
+    "label": "PROBLEM",
+    "start": 700,
+    "end": 705
+  },
+  {
+    "entity": "fevers",
+    "label": "PROBLEM",
+    "start": 707,
+    "end": 713
+  },
+  {
+    "entity": "weakness",
+    "label": "PROBLEM",
+    "start": 715,
+    "end": 723
+  },
+  {
+    "entity": "chills",
+    "label": "PROBLEM",
+    "start": 729,
+    "end": 735
+  },
+  {
+    "entity": "Initial x-ray",
+    "label": "TEST",
+    "start": 850,
+    "end": 863
+  },
+  {
+    "entity": "some mild diffuse patchy infiltrates",
+    "label": "PROBLEM",
+    "start": 871,
+    "end": 907
+  },
+  {
+    "entity": "Avelox",
+    "label": "DRUG",
+    "start": 934,
+    "end": 940
+  },
+  {
+    "entity": "a reaction",
+    "label": "PROBLEM",
+    "start": 950,
+    "end": 960
+  },
+  {
+    "entity": "Augmentin",
+    "label": "DRUG",
+    "start": 974,
+    "end": 983
+  },
+  {
+    "entity": "loose stools",
+    "label": "PROBLEM",
+    "start": 998,
+    "end": 1010
+  },
+  {
+    "entity": "Rocephin",
+    "label": "DRUG",
+    "start": 1071,
+    "end": 1079
+  },
+  {
+    "entity": "azithromycin",
+    "label": "DRUG",
+    "start": 1095,
+    "end": 1107
+  },
+  {
+    "entity": "Her O2 saturations",
+    "label": "TEST",
+    "start": 1109,
+    "end": 1127
+  },
+  {
+    "entity": "outpatient treatment of pneumonia",
+    "label": "TREATMENT",
+    "start": 1256,
+    "end": 1289
+  },
+  {
+    "entity": "rheumatoid arthritis",
+    "label": "PROBLEM",
+    "start": 1330,
+    "end": 1350
+  },
+  {
+    "entity": "methotrexate",
+    "label": "DRUG",
+    "start": 1371,
+    "end": 1383
+  },
+  {
+    "entity": "Remicade",
+    "label": "DRUG",
+    "start": 1406,
+    "end": 1414
+  },
+  {
+    "entity": "Remicade",
+    "label": "DRUG",
+    "start": 1451,
+    "end": 1459
+  },
+  {
+    "entity": "CT scan",
+    "label": "TEST",
+    "start": 1531,
+    "end": 1538
+  },
+  {
+    "entity": "specific focal pathology",
+    "label": "PROBLEM",
+    "start": 1560,
+    "end": 1584
+  },
+  {
+    "entity": "viral etiology",
+    "label": "PROBLEM",
+    "start": 1683,
+    "end": 1697
+  },
+  {
+    "entity": "her loose stools",
+    "label": "PROBLEM",
+    "start": 1736,
+    "end": 1752
+  },
+  {
+    "entity": "C. difficile toxin",
+    "label": "TEST",
+    "start": 1754,
+    "end": 1772
+  },
+  {
+    "entity": "Rocephin",
+    "label": "DRUG",
+    "start": 1858,
+    "end": 1866
+  },
+  {
+    "entity": "azithromycin",
+    "label": "DRUG",
+    "start": 1874,
+    "end": 1886
+  },
+  {
+    "entity": "Her fever",
+    "label": "PROBLEM",
+    "start": 1888,
+    "end": 1897
+  },
+  {
+    "entity": "O2 saturations",
+    "label": "TEST",
+    "start": 1937,
+    "end": 1951
+  },
+  {
+    "entity": "azithromycin",
+    "label": "DRUG",
+    "start": 2040,
+    "end": 2052
+  },
+  {
+    "entity": "prednisone therapy",
+    "label": "DRUG",
+    "start": 2165,
+    "end": 2183
+  },
+  {
+    "entity": "mildly adrenal insufficient",
+    "label": "PROBLEM",
+    "start": 2215,
+    "end": 2242
+  },
+  {
+    "entity": "the stress",
+    "label": "PROBLEM",
+    "start": 2248,
+    "end": 2258
+  },
+  {
+    "entity": "her pneumonia",
+    "label": "PROBLEM",
+    "start": 2262,
+    "end": 2275
+  },
+  {
+    "entity": "prednisone",
+    "label": "DRUG",
+    "start": 2318,
+    "end": 2328
+  },
+  {
+    "entity": "her methotrexate",
+    "label": "DRUG",
+    "start": 2423,
+    "end": 2439
+  },
+  {
+    "entity": "Methotrexate",
+    "label": "DRUG",
+    "start": 2473,
+    "end": 2485
+  },
+  {
+    "entity": "pneumonitis",
+    "label": "PROBLEM",
+    "start": 2522,
+    "end": 2533
+  },
+  {
+    "entity": "adrenal insufficiency",
+    "label": "PROBLEM",
+    "start": 2564,
+    "end": 2585
+  },
+  {
+    "entity": "hypoxia",
+    "label": "PROBLEM",
+    "start": 2587,
+    "end": 2594
+  },
+  {
+    "entity": "cough",
+    "label": "PROBLEM",
+    "start": 2596,
+    "end": 2601
+  },
+  {
+    "entity": "fevers",
+    "label": "PROBLEM",
+    "start": 2603,
+    "end": 2609
+  },
+  {
+    "entity": "weakness",
+    "label": "PROBLEM",
+    "start": 2611,
+    "end": 2619
+  },
+  {
+    "entity": "chills",
+    "label": "PROBLEM",
+    "start": 2621,
+    "end": 2627
+  },
+  {
+    "entity": "atypical pneumonia",
+    "label": "PROBLEM",
+    "start": 2629,
+    "end": 2647
+  },
+  {
+    "entity": "loose stools",
+    "label": "PROBLEM",
+    "start": 2649,
+    "end": 2661
+  },
+  {
+    "entity": "rheumatoid arthritis",
+    "label": "PROBLEM",
+    "start": 2663,
+    "end": 2683
+  },
+  {
+    "entity": "azithromycin",
+    "label": "DRUG",
+    "start": 2685,
+    "end": 2697
+  },
+  {
+    "entity": "arthritis",
+    "label": "PROBLEM",
+    "start": 2699,
+    "end": 2708
+  },
+  {
+    "entity": "pneumonia",
+    "label": "PROBLEM",
+    "start": 2710,
+    "end": 2719
+  }
+]

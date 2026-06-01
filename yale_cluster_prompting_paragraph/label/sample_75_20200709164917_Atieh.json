@@ -1,0 +1,68 @@
+[
+  {
+    "entity": "Closed Fracture Of The Proximal End Of The Humerus",
+    "label": "PROBLEM",
+    "start": 511,
+    "end": 561
+  },
+  {
+    "entity": "Open Fracture Of The Medial Malleolus",
+    "label": "PROBLEM",
+    "start": 583,
+    "end": 620
+  },
+  {
+    "entity": "Shoulder Dislocation",
+    "label": "PROBLEM",
+    "start": 641,
+    "end": 661
+  },
+  {
+    "entity": "Active MedicaHions",
+    "label": "DRUG",
+    "start": 697,
+    "end": 715
+  },
+  {
+    "entity": "Allergies",
+    "label": "PROBLEM",
+    "start": 716,
+    "end": 725
+  },
+  {
+    "entity": "Adverse Reactions",
+    "label": "PROBLEM",
+    "start": 730,
+    "end": 747
+  },
+  {
+    "entity": "Known Drug Allergies",
+    "label": "PROBLEM",
+    "start": 753,
+    "end": 773
+  },
+  {
+    "entity": "Anxiety",
+    "label": "PROBLEM",
+    "start": 817,
+    "end": 824
+  },
+  {
+    "entity": "Proceduse",
+    "label": "TREATMENT",
+    "start": 867,
+    "end": 876
+  },
+  {
+    "entity": "Proceduse",
+    "label": "TREATMENT",
+    "start": 877,
+    "end": 886
+  },
+  {
+    "entity": "Ankle Surgery",
+    "label": "TREATMENT",
+    "start": 914,
+    "end": 927
+  }
+]

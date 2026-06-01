@@ -1,0 +1,740 @@
+[
+  {
+    "entity": "Breast Calcifications",
+    "label": "PROBLEM",
+    "start": 63,
+    "end": 84
+  },
+  {
+    "entity": "Suspicious calcifications upper outer quadrant",
+    "label": "PROBLEM",
+    "start": 114,
+    "end": 160
+  },
+  {
+    "entity": "Left breast excisional biopsy",
+    "label": "TEST",
+    "start": 175,
+    "end": 204
+  },
+  {
+    "entity": "preoperative guidewire localization",
+    "label": "TEST",
+    "start": 210,
+    "end": 245
+  },
+  {
+    "entity": "intraoperative specimen radiography",
+    "label": "TEST",
+    "start": 250,
+    "end": 285
+  },
+  {
+    "entity": "Suspicious calcifications upper outer quadrant",
+    "label": "PROBLEM",
+    "start": 353,
+    "end": 399
+  },
+  {
+    "entity": "routine screening mammography",
+    "label": "PROBLEM",
+    "start": 495,
+    "end": 524
+  },
+  {
+    "entity": "punctate calcifications",
+    "label": "PROBLEM",
+    "start": 575,
+    "end": 598
+  },
+  {
+    "entity": "Additional imaging studies",
+    "label": "TEST",
+    "start": 698,
+    "end": 724
+  },
+  {
+    "entity": "these calcifications",
+    "label": "PROBLEM",
+    "start": 760,
+    "end": 780
+  },
+  {
+    "entity": "a stereotactic core needle biopsy of the left breast",
+    "label": "TEST",
+    "start": 804,
+    "end": 856
+  },
+  {
+    "entity": "focal fibrosis",
+    "label": "PROBLEM",
+    "start": 973,
+    "end": 987
+  },
+  {
+    "entity": "calcifications",
+    "label": "PROBLEM",
+    "start": 992,
+    "end": 1006
+  },
+  {
+    "entity": "examination of the biopsy",
+    "label": "TEST",
+    "start": 1030,
+    "end": 1055
+  },
+  {
+    "entity": "radiograph",
+    "label": "TEST",
+    "start": 1075,
+    "end": 1085
+  },
+  {
+    "entity": "stereotactic core needle biopsy",
+    "label": "TEST",
+    "start": 1131,
+    "end": 1162
+  },
+  {
+    "entity": "severe swelling",
+    "label": "PROBLEM",
+    "start": 1220,
+    "end": 1235
+  },
+  {
+    "entity": "pain",
+    "label": "PROBLEM",
+    "start": 1240,
+    "end": 1244
+  },
+  {
+    "entity": "mass in the left breast",
+    "label": "PROBLEM",
+    "start": 1249,
+    "end": 1272
+  },
+  {
+    "entity": "sonographic evaluation",
+    "label": "TEST",
+    "start": 1288,
+    "end": 1310
+  },
+  {
+    "entity": "false aneurysm formation",
+    "label": "PROBLEM",
+    "start": 1350,
+    "end": 1374
+  },
+  {
+    "entity": "stereotactic core needle biopsy",
+    "label": "TEST",
+    "start": 1390,
+    "end": 1421
+  },
+  {
+    "entity": "the false aneurysm in the left breast mound",
+    "label": "PROBLEM",
+    "start": 1624,
+    "end": 1667
+  },
+  {
+    "entity": "thrombin material",
+    "label": "TREATMENT",
+    "start": 1720,
+    "end": 1737
+  },
+  {
+    "entity": "immediate occlusion of the false aneurysm",
+    "label": "PROBLEM",
+    "start": 1756,
+    "end": 1797
+  },
+  {
+    "entity": "a large hematoma",
+    "label": "PROBLEM",
+    "start": 1924,
+    "end": 1940
+  },
+  {
+    "entity": "extensive ecchymosis",
+    "label": "PROBLEM",
+    "start": 1945,
+    "end": 1965
+  },
+  {
+    "entity": "the stereotactic core needle biopsy",
+    "label": "TEST",
+    "start": 1987,
+    "end": 2022
+  },
+  {
+    "entity": "the false aneurysm",
+    "label": "PROBLEM",
+    "start": 2072,
+    "end": 2090
+  },
+  {
+    "entity": "any pulsatile mass in the left breast mound or on the left chest wall",
+    "label": "PROBLEM",
+    "start": 2117,
+    "end": 2186
+  },
+  {
+    "entity": "the suspicious calcifications",
+    "label": "PROBLEM",
+    "start": 2276,
+    "end": 2305
+  },
+  {
+    "entity": "mammography",
+    "label": "TEST",
+    "start": 2336,
+    "end": 2347
+  },
+  {
+    "entity": "the stereotactic core needle biopsy",
+    "label": "TEST",
+    "start": 2385,
+    "end": 2420
+  },
+  {
+    "entity": "the imaging findings",
+    "label": "TEST",
+    "start": 2480,
+    "end": 2500
+  },
+  {
+    "entity": "an excisional biopsy",
+    "label": "TEST",
+    "start": 2551,
+    "end": 2571
+  },
+  {
+    "entity": "guidewire localization",
+    "label": "TEST",
+    "start": 2590,
+    "end": 2612
+  },
+  {
+    "entity": "the stereotactic core needle biopsy",
+    "label": "TEST",
+    "start": 2670,
+    "end": 2705
+  },
+  {
+    "entity": "any surgical intervention",
+    "label": "TREATMENT",
+    "start": 2736,
+    "end": 2761
+  },
+  {
+    "entity": "the excision of the left breast tissue",
+    "label": "TREATMENT",
+    "start": 2832,
+    "end": 2870
+  },
+  {
+    "entity": "preoperative guidewire localization",
+    "label": "TEST",
+    "start": 2876,
+    "end": 2911
+  },
+  {
+    "entity": "calcifications",
+    "label": "PROBLEM",
+    "start": 2951,
+    "end": 2965
+  },
+  {
+    "entity": "stereotactic core needle biopsy of the left breast",
+    "label": "TEST",
+    "start": 3002,
+    "end": 3052
+  },
+  {
+    "entity": "breast cancer",
+    "label": "PROBLEM",
+    "start": 3204,
+    "end": 3217
+  },
+  {
+    "entity": "breast cancer",
+    "label": "PROBLEM",
+    "start": 3313,
+    "end": 3326
+  },
+  {
+    "entity": "hormone replacement therapy.",
+    "label": "DRUG",
+    "start": 3353,
+    "end": 3381
+  },
+  {
+    "entity": "breast cancer",
+    "label": "PROBLEM",
+    "start": 3525,
+    "end": 3538
+  },
+  {
+    "entity": "ovarian cancer",
+    "label": "PROBLEM",
+    "start": 3586,
+    "end": 3600
+  },
+  {
+    "entity": "asthma",
+    "label": "PROBLEM",
+    "start": 3677,
+    "end": 3683
+  },
+  {
+    "entity": "pneumonia",
+    "label": "PROBLEM",
+    "start": 3688,
+    "end": 3697
+  },
+  {
+    "entity": "Colon resection",
+    "label": "TREATMENT",
+    "start": 3722,
+    "end": 3737
+  },
+  {
+    "entity": "sinus surgeries",
+    "label": "TREATMENT",
+    "start": 3750,
+    "end": 3765
+  },
+  {
+    "entity": "Plavix",
+    "label": "DRUG",
+    "start": 3814,
+    "end": 3820
+  },
+  {
+    "entity": "Arava.",
+    "label": "DRUG",
+    "start": 3825,
+    "end": 3831
+  },
+  {
+    "entity": "Nexium",
+    "label": "DRUG",
+    "start": 3835,
+    "end": 3841
+  },
+  {
+    "entity": "Fosamax",
+    "label": "DRUG",
+    "start": 3846,
+    "end": 3853
+  },
+  {
+    "entity": "Advair",
+    "label": "DRUG",
+    "start": 3858,
+    "end": 3864
+  },
+  {
+    "entity": "Singulair",
+    "label": "DRUG",
+    "start": 3869,
+    "end": 3878
+  },
+  {
+    "entity": "Spiriva",
+    "label": "DRUG",
+    "start": 3883,
+    "end": 3890
+  },
+  {
+    "entity": "Lexapro",
+    "label": "DRUG",
+    "start": 3895,
+    "end": 3902
+  },
+  {
+    "entity": "DRUG ALLERGIES",
+    "label": "PROBLEM",
+    "start": 3904,
+    "end": 3918
+  },
+  {
+    "entity": "ASPIRIN",
+    "label": "DRUG",
+    "start": 3920,
+    "end": 3927
+  },
+  {
+    "entity": "PENICILLIN",
+    "label": "DRUG",
+    "start": 3929,
+    "end": 3939
+  },
+  {
+    "entity": "IODINE",
+    "label": "DRUG",
+    "start": 3941,
+    "end": 3947
+  },
+  {
+    "entity": "CODEINE",
+    "label": "DRUG",
+    "start": 3952,
+    "end": 3959
+  },
+  {
+    "entity": "heart disease",
+    "label": "PROBLEM",
+    "start": 3990,
+    "end": 4003
+  },
+  {
+    "entity": "hypertension",
+    "label": "PROBLEM",
+    "start": 4005,
+    "end": 4017
+  },
+  {
+    "entity": "cerebrovascular accidents",
+    "label": "PROBLEM",
+    "start": 4022,
+    "end": 4047
+  },
+  {
+    "entity": "colon cancer",
+    "label": "PROBLEM",
+    "start": 4080,
+    "end": 4092
+  },
+  {
+    "entity": "breast cancer",
+    "label": "PROBLEM",
+    "start": 4179,
+    "end": 4192
+  },
+  {
+    "entity": "multiple medical problems",
+    "label": "PROBLEM",
+    "start": 4331,
+    "end": 4356
+  },
+  {
+    "entity": "chronic obstructive lung disease",
+    "label": "PROBLEM",
+    "start": 4421,
+    "end": 4453
+  },
+  {
+    "entity": "gastroesophageal reflux disease",
+    "label": "PROBLEM",
+    "start": 4471,
+    "end": 4502
+  },
+  {
+    "entity": "anemia",
+    "label": "PROBLEM",
+    "start": 4526,
+    "end": 4532
+  },
+  {
+    "entity": "sciatica",
+    "label": "PROBLEM",
+    "start": 4559,
+    "end": 4567
+  },
+  {
+    "entity": "arthritis",
+    "label": "PROBLEM",
+    "start": 4594,
+    "end": 4603
+  },
+  {
+    "entity": "skin cancers",
+    "label": "PROBLEM",
+    "start": 4625,
+    "end": 4637
+  },
+  {
+    "entity": "local excision",
+    "label": "TREATMENT",
+    "start": 4668,
+    "end": 4682
+  },
+  {
+    "entity": "distress",
+    "label": "PROBLEM",
+    "start": 4776,
+    "end": 4784
+  },
+  {
+    "entity": "PERRL",
+    "label": "TEST",
+    "start": 4820,
+    "end": 4825
+  },
+  {
+    "entity": "oral lesions",
+    "label": "PROBLEM",
+    "start": 4856,
+    "end": 4868
+  },
+  {
+    "entity": "adenopathy",
+    "label": "PROBLEM",
+    "start": 4891,
+    "end": 4901
+  },
+  {
+    "entity": "sinus rhythm",
+    "label": "TEST",
+    "start": 4918,
+    "end": 4930
+  },
+  {
+    "entity": "wheezes",
+    "label": "PROBLEM",
+    "start": 4970,
+    "end": 4977
+  },
+  {
+    "entity": "examination",
+    "label": "TEST",
+    "start": 4991,
+    "end": 5002
+  },
+  {
+    "entity": "palpable abnormalities in either breast mound",
+    "label": "PROBLEM",
+    "start": 5057,
+    "end": 5102
+  },
+  {
+    "entity": "palpable masses",
+    "label": "PROBLEM",
+    "start": 5227,
+    "end": 5242
+  },
+  {
+    "entity": "the stereotactic core needle biopsy",
+    "label": "TEST",
+    "start": 5277,
+    "end": 5312
+  },
+  {
+    "entity": "Axillary examination",
+    "label": "TEST",
+    "start": 5328,
+    "end": 5348
+  },
+  {
+    "entity": "lymphadenopathy",
+    "label": "PROBLEM",
+    "start": 5387,
+    "end": 5402
+  },
+  {
+    "entity": "masses",
+    "label": "PROBLEM",
+    "start": 5406,
+    "end": 5412
+  },
+  {
+    "entity": "Obese",
+    "label": "PROBLEM",
+    "start": 5423,
+    "end": 5428
+  },
+  {
+    "entity": "masses",
+    "label": "PROBLEM",
+    "start": 5433,
+    "end": 5439
+  },
+  {
+    "entity": "bowel sounds",
+    "label": "TEST",
+    "start": 5448,
+    "end": 5460
+  },
+  {
+    "entity": "CVA tenderness",
+    "label": "PROBLEM",
+    "start": 5483,
+    "end": 5497
+  },
+  {
+    "entity": "clubbing",
+    "label": "PROBLEM",
+    "start": 5515,
+    "end": 5523
+  },
+  {
+    "entity": "cyanosis",
+    "label": "PROBLEM",
+    "start": 5525,
+    "end": 5533
+  },
+  {
+    "entity": "edema",
+    "label": "PROBLEM",
+    "start": 5537,
+    "end": 5542
+  },
+  {
+    "entity": "Left breast mound clustered calcifications",
+    "label": "PROBLEM",
+    "start": 5559,
+    "end": 5601
+  },
+  {
+    "entity": "stereotactic core needle biopsy of the left breast",
+    "label": "TEST",
+    "start": 5697,
+    "end": 5747
+  },
+  {
+    "entity": "the calcifications",
+    "label": "PROBLEM",
+    "start": 5778,
+    "end": 5796
+  },
+  {
+    "entity": "excision of the tissue",
+    "label": "TREATMENT",
+    "start": 5816,
+    "end": 5838
+  },
+  {
+    "entity": "preoperative guidewire localization",
+    "label": "TEST",
+    "start": 5844,
+    "end": 5879
+  },
+  {
+    "entity": "chronic obstructive lung disease",
+    "label": "PROBLEM",
+    "start": 5895,
+    "end": 5927
+  },
+  {
+    "entity": "asthma",
+    "label": "PROBLEM",
+    "start": 5932,
+    "end": 5938
+  },
+  {
+    "entity": "medications",
+    "label": "DRUG",
+    "start": 5956,
+    "end": 5967
+  },
+  {
+    "entity": "gastroesophageal reflux disease",
+    "label": "PROBLEM",
+    "start": 5983,
+    "end": 6014
+  },
+  {
+    "entity": "medications",
+    "label": "DRUG",
+    "start": 6032,
+    "end": 6043
+  },
+  {
+    "entity": "transient ischemic attack",
+    "label": "PROBLEM",
+    "start": 6059,
+    "end": 6084
+  },
+  {
+    "entity": "medications",
+    "label": "DRUG",
+    "start": 6098,
+    "end": 6109
+  },
+  {
+    "entity": "osteopenia",
+    "label": "PROBLEM",
+    "start": 6125,
+    "end": 6135
+  },
+  {
+    "entity": "osteoporosis",
+    "label": "PROBLEM",
+    "start": 6140,
+    "end": 6152
+  },
+  {
+    "entity": "medications",
+    "label": "DRUG",
+    "start": 6170,
+    "end": 6181
+  },
+  {
+    "entity": "anxiety",
+    "label": "PROBLEM",
+    "start": 6197,
+    "end": 6204
+  },
+  {
+    "entity": "medications",
+    "label": "DRUG",
+    "start": 6221,
+    "end": 6232
+  },
+  {
+    "entity": "Left breast excisional biopsy",
+    "label": "TEST",
+    "start": 6240,
+    "end": 6269
+  },
+  {
+    "entity": "preoperative guidewire localization",
+    "label": "TEST",
+    "start": 6275,
+    "end": 6310
+  },
+  {
+    "entity": "intraoperative specimen radiography",
+    "label": "TEST",
+    "start": 6315,
+    "end": 6350
+  },
+  {
+    "entity": "stereotactic core needle biopsy",
+    "label": "TEST",
+    "start": 6441,
+    "end": 6472
+  },
+  {
+    "entity": "gastroesophageal reflux",
+    "label": "TEST",
+    "start": 6474,
+    "end": 6497
+  },
+  {
+    "entity": "needle biopsy",
+    "label": "TEST",
+    "start": 6499,
+    "end": 6512
+  },
+  {
+    "entity": "calcifications",
+    "label": "PROBLEM",
+    "start": 6514,
+    "end": 6528
+  },
+  {
+    "entity": "biopsy",
+    "label": "TEST",
+    "start": 6530,
+    "end": 6536
+  },
+  {
+    "entity": "stereotactic",
+    "label": "TEST",
+    "start": 6546,
+    "end": 6558
+  }
+]

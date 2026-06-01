@@ -1,0 +1,263 @@
+[
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "left-sided": "PROBLEM"
+  },
+  {
+    "severe chest tightness": "PROBLEM"
+  },
+  {
+    "emotional argument": "PROBLEM"
+  },
+  {
+    "psychological disorders": "PROBLEM"
+  },
+  {
+    "supraventricular tachycardia": "PROBLEM"
+  },
+  {
+    "coronary artery disease": "PROBLEM"
+  },
+  {
+    "workup": "TEST"
+  },
+  {
+    "ABC Medical Center": "TEST"
+  },
+  {
+    "cardiac workup": "TEST"
+  },
+  {
+    "telemetry unit": "TEST"
+  },
+  {
+    "drug screen": "TEST"
+  },
+  {
+    "methadone": "DRUG"
+  },
+  {
+    "morphine": "DRUG"
+  },
+  {
+    "EKG": "TEST"
+  },
+  {
+    "nitroglycerin": "DRUG"
+  },
+  {
+    "seizure disorder": "PROBLEM"
+  },
+  {
+    "migraine headaches": "PROBLEM"
+  },
+  {
+    "CHF": "PROBLEM"
+  },
+  {
+    "coronary stenting": "TREATMENT"
+  },
+  {
+    "mitral valve prolapse": "PROBLEM"
+  },
+  {
+    "pacemaker placement": "TREATMENT"
+  },
+  {
+    "colon cancer": "PROBLEM"
+  },
+  {
+    "breast cancer": "PROBLEM"
+  },
+  {
+    "lumpectomy": "TREATMENT"
+  },
+  {
+    "breast augmentation surgery": "TREATMENT"
+  },
+  {
+    "cholecystectomy": "TREATMENT"
+  },
+  {
+    "cardiac ablation": "TREATMENT"
+  },
+  {
+    "left knee surgery": "TREATMENT"
+  },
+  {
+    "Dilantin": "DRUG"
+  },
+  {
+    "Klonopin": "DRUG"
+  },
+  {
+    "Elavil": "DRUG"
+  },
+  {
+    "nitroglycerin": "DRUG"
+  },
+  {
+    "Thorazine": "DRUG"
+  },
+  {
+    "Neurontin": "DRUG"
+  },
+  {
+    "Phenergan": "DRUG"
+  },
+  {
+    "abortion": "TREATMENT"
+  },
+  {
+    "tobacco abuse": "PROBLEM"
+  },
+  {
+    "illicit drug abuse": "PROBLEM"
+  },
+  {
+    "VITAL SIGNS": "TEST"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "heart rate": "TEST"
+  },
+  {
+    "respiratory rate": "TEST"
+  },
+  {
+    "HEENT": "TEST"
+  },
+  {
+    "NECK": "TEST"
+  },
+  {
+    "LUNGS": "TEST"
+  },
+  {
+    "CARDIAC": "TEST"
+  },
+  {
+    "ABDOMEN": "TEST"
+  },
+  {
+    "LOWER EXTREMITIES": "TEST"
+  },
+  {
+    "NEUROLOGICAL": "TEST"
+  },
+  {
+    "WBC count": "TEST"
+  },
+  {
+    "hemoglobin": "TEST"
+  },
+  {
+    "hematocrit": "TEST"
+  },
+  {
+    "sodium": "TEST"
+  },
+  {
+    "potassium": "TEST"
+  },
+  {
+    "chloride": "TEST"
+  },
+  {
+    "glucose": "TEST"
+  },
+  {
+    "bicarbonate": "TEST"
+  },
+  {
+    "BUN": "TEST"
+  },
+  {
+    "creatinine": "TEST"
+  },
+  {
+    "liver function tests": "TEST"
+  },
+  {
+    "cardiac enzymes": "TEST"
+  },
+  {
+    "troponin-I": "TEST"
+  },
+  {
+    "CPK-MB": "TEST"
+  },
+  {
+    "myoglobulin": "TEST"
+  },
+  {
+    "EKG": "TEST"
+  },
+  {
+    "sinus rhythm": "TEST"
+  },
+  {
+    "ST-T wave changes": "TEST"
+  },
+  {
+    "toxicology screen": "TEST"
+  },
+  {
+    "head CT": "TEST"
+  },
+  {
+    "beta-hCG level": "TEST"
+  },
+  {
+    "chest pains": "PROBLEM"
+  },
+  {
+    "psychosomatic": "PROBLEM"
+  },
+  {
+    "acute coronary syndrome": "PROBLEM"
+  },
+  {
+    "unstable angina": "PROBLEM"
+  },
+  {
+    "early pregnancy": "PROBLEM"
+  },
+  {
+    "OB/GYN": "TEST"
+  },
+  {
+    "PCP": "TEST"
+  },
+  {
+    "migraine headaches": "PROBLEM"
+  },
+  {
+    "general medicine": "TEST"
+  },
+  {
+    "psychosomatic": "PROBLEM"
+  },
+  {
+    "coronary artery disease": "PROBLEM"
+  },
+  {
+    "chest tightness": "PROBLEM"
+  },
+  {
+    "emotional argument": "PROBLEM"
+  },
+  {
+    "psychological disorders": "PROBLEM"
+  },
+  {
+    "supraventricular tachycardia": "PROBLEM"
+  },
+  {
+    "headaches": "PROBLEM"
+  }
+]

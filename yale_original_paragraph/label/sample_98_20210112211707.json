@@ -1,0 +1,416 @@
+[
+  {
+    "entity": "weight loss",
+    "label": "PROBLEM",
+    "start": 113,
+    "end": 124
+  },
+  {
+    "entity": "fevers",
+    "label": "PROBLEM",
+    "start": 126,
+    "end": 132
+  },
+  {
+    "entity": "chills",
+    "label": "PROBLEM",
+    "start": 134,
+    "end": 140
+  },
+  {
+    "entity": "sweats",
+    "label": "PROBLEM",
+    "start": 142,
+    "end": 148
+  },
+  {
+    "entity": "blurring of the vision",
+    "label": "PROBLEM",
+    "start": 162,
+    "end": 184
+  },
+  {
+    "entity": "itching",
+    "label": "PROBLEM",
+    "start": 186,
+    "end": 193
+  },
+  {
+    "entity": "throat or neck pain",
+    "label": "PROBLEM",
+    "start": 195,
+    "end": 214
+  },
+  {
+    "entity": "neck fullness",
+    "label": "PROBLEM",
+    "start": 219,
+    "end": 232
+  },
+  {
+    "entity": "vertigo",
+    "label": "PROBLEM",
+    "start": 246,
+    "end": 253
+  },
+  {
+    "entity": "hoarseness",
+    "label": "PROBLEM",
+    "start": 257,
+    "end": 267
+  },
+  {
+    "entity": "painful swallowing",
+    "label": "PROBLEM",
+    "start": 271,
+    "end": 289
+  },
+  {
+    "entity": "weight loss",
+    "label": "PROBLEM",
+    "start": 360,
+    "end": 371
+  },
+  {
+    "entity": "fevers",
+    "label": "PROBLEM",
+    "start": 373,
+    "end": 379
+  },
+  {
+    "entity": "chills",
+    "label": "PROBLEM",
+    "start": 381,
+    "end": 387
+  },
+  {
+    "entity": "sweats",
+    "label": "PROBLEM",
+    "start": 389,
+    "end": 395
+  },
+  {
+    "entity": "blurring of the vision",
+    "label": "PROBLEM",
+    "start": 409,
+    "end": 431
+  },
+  {
+    "entity": "itching",
+    "label": "PROBLEM",
+    "start": 433,
+    "end": 440
+  },
+  {
+    "entity": "throat or neck pain",
+    "label": "PROBLEM",
+    "start": 442,
+    "end": 461
+  },
+  {
+    "entity": "neck fullness",
+    "label": "PROBLEM",
+    "start": 466,
+    "end": 479
+  },
+  {
+    "entity": "vertigo",
+    "label": "PROBLEM",
+    "start": 493,
+    "end": 500
+  },
+  {
+    "entity": "hoarseness",
+    "label": "PROBLEM",
+    "start": 504,
+    "end": 514
+  },
+  {
+    "entity": "painful swallowing",
+    "label": "PROBLEM",
+    "start": 518,
+    "end": 536
+  },
+  {
+    "entity": "chest pain",
+    "label": "PROBLEM",
+    "start": 550,
+    "end": 560
+  },
+  {
+    "entity": "shortness of breath",
+    "label": "PROBLEM",
+    "start": 562,
+    "end": 581
+  },
+  {
+    "entity": "paroxysmal nocturnal dyspnea",
+    "label": "PROBLEM",
+    "start": 583,
+    "end": 611
+  },
+  {
+    "entity": "chest pain",
+    "label": "PROBLEM",
+    "start": 616,
+    "end": 626
+  },
+  {
+    "entity": "exertion",
+    "label": "PROBLEM",
+    "start": 632,
+    "end": 640
+  },
+  {
+    "entity": "shortness of breath",
+    "label": "PROBLEM",
+    "start": 654,
+    "end": 673
+  },
+  {
+    "entity": "cough",
+    "label": "PROBLEM",
+    "start": 681,
+    "end": 686
+  },
+  {
+    "entity": "hemoptysis",
+    "label": "PROBLEM",
+    "start": 690,
+    "end": 700
+  },
+  {
+    "entity": "melena",
+    "label": "PROBLEM",
+    "start": 705,
+    "end": 711
+  },
+  {
+    "entity": "nausea",
+    "label": "PROBLEM",
+    "start": 713,
+    "end": 719
+  },
+  {
+    "entity": "vomiting",
+    "label": "PROBLEM",
+    "start": 721,
+    "end": 729
+  },
+  {
+    "entity": "dysphagia",
+    "label": "PROBLEM",
+    "start": 731,
+    "end": 740
+  },
+  {
+    "entity": "abdominal pain",
+    "label": "PROBLEM",
+    "start": 742,
+    "end": 756
+  },
+  {
+    "entity": "diarrhea",
+    "label": "PROBLEM",
+    "start": 758,
+    "end": 766
+  },
+  {
+    "entity": "constipation",
+    "label": "PROBLEM",
+    "start": 768,
+    "end": 780
+  },
+  {
+    "entity": "dysuria",
+    "label": "PROBLEM",
+    "start": 808,
+    "end": 815
+  },
+  {
+    "entity": "hematuria",
+    "label": "PROBLEM",
+    "start": 817,
+    "end": 826
+  },
+  {
+    "entity": "excessive urination",
+    "label": "PROBLEM",
+    "start": 830,
+    "end": 849
+  },
+  {
+    "entity": "muscle weakness",
+    "label": "PROBLEM",
+    "start": 854,
+    "end": 869
+  },
+  {
+    "entity": "tenderness",
+    "label": "PROBLEM",
+    "start": 873,
+    "end": 883
+  },
+  {
+    "entity": "new numbness",
+    "label": "PROBLEM",
+    "start": 888,
+    "end": 900
+  },
+  {
+    "entity": "tingling",
+    "label": "PROBLEM",
+    "start": 904,
+    "end": 912
+  },
+  {
+    "entity": "arthralgias",
+    "label": "PROBLEM",
+    "start": 917,
+    "end": 928
+  },
+  {
+    "entity": "arthritis",
+    "label": "PROBLEM",
+    "start": 932,
+    "end": 941
+  },
+  {
+    "entity": "rashes",
+    "label": "PROBLEM",
+    "start": 956,
+    "end": 962
+  },
+  {
+    "entity": "excessive fatigability",
+    "label": "PROBLEM",
+    "start": 967,
+    "end": 989
+  },
+  {
+    "entity": "loss of motor skills or sensation",
+    "label": "PROBLEM",
+    "start": 991,
+    "end": 1024
+  },
+  {
+    "entity": "changes in hair texture",
+    "label": "PROBLEM",
+    "start": 1029,
+    "end": 1052
+  },
+  {
+    "entity": "change in skin color",
+    "label": "PROBLEM",
+    "start": 1054,
+    "end": 1074
+  },
+  {
+    "entity": "excessive or decreased appetite",
+    "label": "PROBLEM",
+    "start": 1076,
+    "end": 1107
+  },
+  {
+    "entity": "swollen lymph nodes",
+    "label": "PROBLEM",
+    "start": 1112,
+    "end": 1131
+  },
+  {
+    "entity": "night sweats",
+    "label": "PROBLEM",
+    "start": 1135,
+    "end": 1147
+  },
+  {
+    "entity": "headaches",
+    "label": "PROBLEM",
+    "start": 1152,
+    "end": 1161
+  },
+  {
+    "entity": "weight loss",
+    "label": "PROBLEM",
+    "start": 1238,
+    "end": 1249
+  },
+  {
+    "entity": "fevers",
+    "label": "PROBLEM",
+    "start": 1251,
+    "end": 1257
+  },
+  {
+    "entity": "chills",
+    "label": "PROBLEM",
+    "start": 1259,
+    "end": 1265
+  },
+  {
+    "entity": "sweats",
+    "label": "PROBLEM",
+    "start": 1267,
+    "end": 1273
+  },
+  {
+    "entity": "melena",
+    "label": "PROBLEM",
+    "start": 1275,
+    "end": 1281
+  },
+  {
+    "entity": "nausea",
+    "label": "PROBLEM",
+    "start": 1283,
+    "end": 1289
+  },
+  {
+    "entity": "vomiting",
+    "label": "PROBLEM",
+    "start": 1291,
+    "end": 1299
+  },
+  {
+    "entity": "dysphagia",
+    "label": "PROBLEM",
+    "start": 1301,
+    "end": 1310
+  },
+  {
+    "entity": "abdominal pain",
+    "label": "PROBLEM",
+    "start": 1312,
+    "end": 1326
+  },
+  {
+    "entity": "diarrhea",
+    "label": "PROBLEM",
+    "start": 1328,
+    "end": 1336
+  },
+  {
+    "entity": "constipation",
+    "label": "PROBLEM",
+    "start": 1338,
+    "end": 1350
+  },
+  {
+    "entity": "itching throat",
+    "label": "PROBLEM",
+    "start": 1352,
+    "end": 1366
+  },
+  {
+    "entity": "neck fullness",
+    "label": "PROBLEM",
+    "start": 1368,
+    "end": 1381
+  },
+  {
+    "entity": "painful swallowing",
+    "label": "PROBLEM",
+    "start": 1383,
+    "end": 1401
+  }
+]

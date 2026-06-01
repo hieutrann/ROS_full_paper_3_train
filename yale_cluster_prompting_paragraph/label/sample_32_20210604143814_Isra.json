@@ -1,0 +1,242 @@
+[
+  {
+    "entity": "diarrhea",
+    "label": "PROBLEM",
+    "start": 209,
+    "end": 217
+  },
+  {
+    "entity": "nausea",
+    "label": "PROBLEM",
+    "start": 219,
+    "end": 225
+  },
+  {
+    "entity": "inability to eat",
+    "label": "PROBLEM",
+    "start": 227,
+    "end": 243
+  },
+  {
+    "entity": "diarrhea",
+    "label": "PROBLEM",
+    "start": 420,
+    "end": 428
+  },
+  {
+    "entity": "nausea",
+    "label": "PROBLEM",
+    "start": 430,
+    "end": 436
+  },
+  {
+    "entity": "inability to eat",
+    "label": "PROBLEM",
+    "start": 438,
+    "end": 454
+  },
+  {
+    "entity": "an EGD",
+    "label": "TEST",
+    "start": 464,
+    "end": 470
+  },
+  {
+    "entity": "colonoscopy",
+    "label": "TEST",
+    "start": 475,
+    "end": 486
+  },
+  {
+    "entity": "Colonoscopy",
+    "label": "TEST",
+    "start": 536,
+    "end": 547
+  },
+  {
+    "entity": "diverticulosis",
+    "label": "TEST",
+    "start": 559,
+    "end": 573
+  },
+  {
+    "entity": "EGD",
+    "label": "TEST",
+    "start": 578,
+    "end": 581
+  },
+  {
+    "entity": "retained bile",
+    "label": "PROBLEM",
+    "start": 589,
+    "end": 602
+  },
+  {
+    "entity": "gastritis",
+    "label": "PROBLEM",
+    "start": 616,
+    "end": 625
+  },
+  {
+    "entity": "Biopsies",
+    "label": "TEST",
+    "start": 627,
+    "end": 635
+  },
+  {
+    "entity": "worsening abdominal pain",
+    "label": "PROBLEM",
+    "start": 695,
+    "end": 719
+  },
+  {
+    "entity": "swelling of the right lower leg",
+    "label": "PROBLEM",
+    "start": 731,
+    "end": 762
+  },
+  {
+    "entity": "diffusely tender",
+    "label": "PROBLEM",
+    "start": 867,
+    "end": 883
+  },
+  {
+    "entity": "Blood pressure",
+    "label": "TEST",
+    "start": 898,
+    "end": 912
+  },
+  {
+    "entity": "bilateral lower edema",
+    "label": "PROBLEM",
+    "start": 984,
+    "end": 1005
+  },
+  {
+    "entity": "White count",
+    "label": "TEST",
+    "start": 1027,
+    "end": 1038
+  },
+  {
+    "entity": "hemoglobin",
+    "label": "TEST",
+    "start": 1044,
+    "end": 1054
+  },
+  {
+    "entity": "hematocrit",
+    "label": "TEST",
+    "start": 1059,
+    "end": 1069
+  },
+  {
+    "entity": "Potassium",
+    "label": "TEST",
+    "start": 1076,
+    "end": 1085
+  },
+  {
+    "entity": "a barium enema",
+    "label": "TREATMENT",
+    "start": 1211,
+    "end": 1225
+  },
+  {
+    "entity": "the barium enema",
+    "label": "TEST",
+    "start": 1283,
+    "end": 1299
+  },
+  {
+    "entity": "some enemas",
+    "label": "TREATMENT",
+    "start": 1454,
+    "end": 1465
+  },
+  {
+    "entity": "persistent nausea",
+    "label": "PROBLEM",
+    "start": 1475,
+    "end": 1492
+  },
+  {
+    "entity": "headache",
+    "label": "PROBLEM",
+    "start": 1494,
+    "end": 1502
+  },
+  {
+    "entity": "neck pain",
+    "label": "PROBLEM",
+    "start": 1504,
+    "end": 1513
+  },
+  {
+    "entity": "Nausea",
+    "label": "PROBLEM",
+    "start": 1649,
+    "end": 1655
+  },
+  {
+    "entity": "abdominal pain",
+    "label": "PROBLEM",
+    "start": 1660,
+    "end": 1674
+  },
+  {
+    "entity": "Migraine headache",
+    "label": "PROBLEM",
+    "start": 1719,
+    "end": 1736
+  },
+  {
+    "entity": "pre-admission medications",
+    "label": "TREATMENT",
+    "start": 1866,
+    "end": 1891
+  },
+  {
+    "entity": "diarrhea",
+    "label": "PROBLEM",
+    "start": 1954,
+    "end": 1962
+  },
+  {
+    "entity": "nausea",
+    "label": "PROBLEM",
+    "start": 1964,
+    "end": 1970
+  },
+  {
+    "entity": "inability to eat",
+    "label": "PROBLEM",
+    "start": 1972,
+    "end": 1988
+  },
+  {
+    "entity": "egd",
+    "label": "TEST",
+    "start": 1990,
+    "end": 1993
+  },
+  {
+    "entity": "colonoscopy",
+    "label": "TEST",
+    "start": 1995,
+    "end": 2006
+  },
+  {
+    "entity": "biopsies",
+    "label": "TEST",
+    "start": 2008,
+    "end": 2016
+  },
+  {
+    "entity": "barium enema,",
+    "label": "TEST",
+    "start": 2018,
+    "end": 2031
+  }
+]

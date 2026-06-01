@@ -1,0 +1,65 @@
+[
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "stomach pains": "PROBLEM"
+  },
+  {
+    "reflux": "PROBLEM"
+  },
+  {
+    "right flank pain": "PROBLEM"
+  },
+  {
+    "spots on her shoulder": "PROBLEM"
+  },
+  {
+    "spots in her armpits": "PROBLEM"
+  },
+  {
+    "urgency of urine": "PROBLEM"
+  },
+  {
+    "pain in her thumbs": "PROBLEM"
+  },
+  {
+    "hearing loss": "PROBLEM"
+  },
+  {
+    "chronic cough": "PROBLEM"
+  },
+  {
+    "Aciphex": "DRUG"
+  },
+  {
+    "aspirin": "DRUG"
+  },
+  {
+    "EGD": "TEST"
+  },
+  {
+    "punch biopsy": "TEST"
+  },
+  {
+    "CBC": "TEST"
+  },
+  {
+    "colonoscopy": "TEST"
+  },
+  {
+    "hepatitis titer": "TEST"
+  },
+  {
+    "EGD": "TREATMENT"
+  },
+  {
+    "punch biopsy": "TREATMENT"
+  },
+  {
+    "colonoscopy": "TREATMENT"
+  },
+  {
+    "repair": "TREATMENT"
+  }
+]

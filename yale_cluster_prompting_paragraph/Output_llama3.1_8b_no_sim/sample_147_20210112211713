@@ -1,0 +1,32 @@
+[
+  {
+    "free air": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "hyponatremia": "PROBLEM"
+  },
+  {
+    "intra-abdominal pathology": "PROBLEM"
+  },
+  {
+    "chest x-ray": "TEST"
+  },
+  {
+    "CT scan": "TEST"
+  },
+  {
+    "Ativan": "DRUG"
+  },
+  {
+    "appendectomy": "TREATMENT"
+  },
+  {
+    "TAH/BSO": "TREATMENT"
+  },
+  {
+    "admission": "TREATMENT"
+  }
+]

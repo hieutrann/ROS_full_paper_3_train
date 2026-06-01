@@ -1,0 +1,254 @@
+[
+  {
+    "Surgery": "TREATMENT"
+  },
+  {
+    "Cardiac Catheterization": "TEST"
+  },
+  {
+    "Left heart catheterization": "TEST"
+  },
+  {
+    "coronary angiography": "TEST"
+  },
+  {
+    "vein graft angiography": "TEST"
+  },
+  {
+    "left ventricular pressure measurement": "TEST"
+  },
+  {
+    "angiography": "TEST"
+  },
+  {
+    "Right femoral selective angiogram": "TEST"
+  },
+  {
+    "Closure device": "TEST"
+  },
+  {
+    "Angio-Seal": "DRUG"
+  },
+  {
+    "femoral arteriotomy": "TEST"
+  },
+  {
+    "coronary atherosclerotic heart disease": "PROBLEM"
+  },
+  {
+    "chest discomfort": "PROBLEM"
+  },
+  {
+    "smoking": "PROBLEM"
+  },
+  {
+    "diabetes": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "hyperlipidemia": "PROBLEM"
+  },
+  {
+    "percutaneous evaluation": "TREATMENT"
+  },
+  {
+    "intervention": "TREATMENT"
+  },
+  {
+    "disease progression": "PROBLEM"
+  },
+  {
+    "lidocaine": "DRUG"
+  },
+  {
+    "femoral artery": "TEST"
+  },
+  {
+    "guide wire": "TEST"
+  },
+  {
+    "coronary angiography": "TEST"
+  },
+  {
+    "left ventricular measurement": "TEST"
+  },
+  {
+    "left coronary artery": "TEST"
+  },
+  {
+    "right groin": "TEST"
+  },
+  {
+    "saphenous vein graft conduit": "TEST"
+  },
+  {
+    "angled pigtail catheter": "TEST"
+  },
+  {
+    "left ventricular pressures": "TEST"
+  },
+  {
+    "left ventriculogram": "TEST"
+  },
+  {
+    "femoral artery": "TEST"
+  },
+  {
+    "atherosclerotic plaque": "PROBLEM"
+  },
+  {
+    "bifurcation": "TEST"
+  },
+  {
+    "superficial femoral": "TEST"
+  },
+  {
+    "profunda femoris arteries": "TEST"
+  },
+  {
+    "arteriotomy": "TEST"
+  },
+  {
+    "Perclose device": "DRUG"
+  },
+  {
+    "Angio-Seal": "DRUG"
+  },
+  {
+    "hemostasis": "TREATMENT"
+  },
+  {
+    "MAC Unit": "TEST"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "aortic pressure": "TEST"
+  },
+  {
+    "left ventricular pressure": "TEST"
+  },
+  {
+    "end-diastolic pressure": "TEST"
+  },
+  {
+    "aortic valve": "TEST"
+  },
+  {
+    "left ventricle": "TEST"
+  },
+  {
+    "left ventricular ejection fraction": "TEST"
+  },
+  {
+    "mitral regurgitation": "PROBLEM"
+  },
+  {
+    "wall motion": "TEST"
+  },
+  {
+    "RAO projection": "TEST"
+  },
+  {
+    "left main coronary artery": "TEST"
+  },
+  {
+    "atherosclerotic plaque": "PROBLEM"
+  },
+  {
+    "LAD": "TEST"
+  },
+  {
+    "left circumflex": "TEST"
+  },
+  {
+    "obtuse marginal branch": "TEST"
+  },
+  {
+    "OM-2": "TEST"
+  },
+  {
+    "stenosis": "PROBLEM"
+  },
+  {
+    "kink": "PROBLEM"
+  },
+  {
+    "anastomosis": "TREATMENT"
+  },
+  {
+    "saphenous vein graft": "TEST"
+  },
+  {
+    "right coronary artery": "TEST"
+  },
+  {
+    "proximal": "TEST"
+  },
+  {
+    "mid": "TEST"
+  },
+  {
+    "distal": "TEST"
+  },
+  {
+    "posterior left ventricular branch": "TEST"
+  },
+  {
+    "PDA": "TEST"
+  },
+  {
+    "competitive flow": "PROBLEM"
+  },
+  {
+    "runoff": "TEST"
+  },
+  {
+    "retrograde filling": "PROBLEM"
+  },
+  {
+    "diagonal branch": "TEST"
+  },
+  {
+    "saphenous vein graft": "TEST"
+  },
+  {
+    "native right coronary artery": "TEST"
+  },
+  {
+    "proximal PDA": "TEST"
+  },
+  {
+    "PLV": "TEST"
+  },
+  {
+    "native proximal PDA": "TEST"
+  },
+  {
+    "PLV disease": "PROBLEM"
+  },
+  {
+    "carotid duplex Doppler ultrasound": "TEST"
+  },
+  {
+    "carotid bruits": "PROBLEM"
+  },
+  {
+    "antihyperlipidemic": "DRUG"
+  },
+  {
+    "antihypertensive": "DRUG"
+  },
+  {
+    "LDL": "TEST"
+  },
+  {
+    "triglyceride level": "TEST"
+  },
+  {
+    "smoking": "PROBLEM"
+  }
+]

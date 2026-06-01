@@ -1,0 +1,68 @@
+[
+  {
+    "Liver Biopsy": "TEST"
+  },
+  {
+    "Percutaneous liver biopsy": "TEST"
+  },
+  {
+    "Lidocaine": "DRUG"
+  },
+  {
+    "iodine": "DRUG"
+  },
+  {
+    "lidocaine": "DRUG"
+  },
+  {
+    "codeine": "DRUG"
+  },
+  {
+    "bleeding": "PROBLEM"
+  },
+  {
+    "bile peritonitis": "PROBLEM"
+  },
+  {
+    "bowel perforation": "PROBLEM"
+  },
+  {
+    "pneumothorax": "PROBLEM"
+  },
+  {
+    "povidone iodine": "DRUG"
+  },
+  {
+    "abdominal or chest pain": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "melena": "PROBLEM"
+  },
+  {
+    "light-headedness": "PROBLEM"
+  },
+  {
+    "hepatitis A and B vaccines": "DRUG"
+  },
+  {
+    "surgery": "TREATMENT"
+  },
+  {
+    "bile peritonitis": "PROBLEM"
+  },
+  {
+    "bowel perforation": "PROBLEM"
+  },
+  {
+    "pneumothorax": "PROBLEM"
+  },
+  {
+    "liver biopsy": "TEST"
+  },
+  {
+    "lidocaine": "DRUG"
+  }
+]

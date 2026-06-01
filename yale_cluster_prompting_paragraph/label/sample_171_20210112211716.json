@@ -1,0 +1,482 @@
+[
+  {
+    "entity": "Hypertension",
+    "label": "PROBLEM",
+    "start": 63,
+    "end": 75
+  },
+  {
+    "entity": "Cardiomyopathy",
+    "label": "PROBLEM",
+    "start": 78,
+    "end": 92
+  },
+  {
+    "entity": "Nonischemic cardiomyopathy",
+    "label": "PROBLEM",
+    "start": 106,
+    "end": 132
+  },
+  {
+    "entity": "branch vessel coronary artery disease",
+    "label": "PROBLEM",
+    "start": 134,
+    "end": 171
+  },
+  {
+    "entity": "congestive heart failure - NYHA Class III",
+    "label": "PROBLEM",
+    "start": 173,
+    "end": 214
+  },
+  {
+    "entity": "nonsustained ventricular tachycardia",
+    "label": "PROBLEM",
+    "start": 227,
+    "end": 263
+  },
+  {
+    "entity": "hypertension",
+    "label": "PROBLEM",
+    "start": 265,
+    "end": 277
+  },
+  {
+    "entity": "hepatitis C",
+    "label": "PROBLEM",
+    "start": 283,
+    "end": 294
+  },
+  {
+    "entity": "Nonischemic cardiomyopathy",
+    "label": "PROBLEM",
+    "start": 352,
+    "end": 378
+  },
+  {
+    "entity": "Branch vessel coronary artery disease",
+    "label": "PROBLEM",
+    "start": 383,
+    "end": 420
+  },
+  {
+    "entity": "Congestive heart failure, NYHA Class III",
+    "label": "PROBLEM",
+    "start": 425,
+    "end": 465
+  },
+  {
+    "entity": "nonsustained ventricular tachycardia",
+    "label": "PROBLEM",
+    "start": 481,
+    "end": 517
+  },
+  {
+    "entity": "Hypertension",
+    "label": "PROBLEM",
+    "start": 522,
+    "end": 534
+  },
+  {
+    "entity": "Hepatitis C",
+    "label": "PROBLEM",
+    "start": 539,
+    "end": 550
+  },
+  {
+    "entity": "CHF exacerbation",
+    "label": "PROBLEM",
+    "start": 612,
+    "end": 628
+  },
+  {
+    "entity": "increased medications",
+    "label": "DRUG",
+    "start": 653,
+    "end": 674
+  },
+  {
+    "entity": "his prescriptions",
+    "label": "DRUG",
+    "start": 701,
+    "end": 718
+  },
+  {
+    "entity": "persistent shortness of breath",
+    "label": "PROBLEM",
+    "start": 738,
+    "end": 768
+  },
+  {
+    "entity": "orthopnea",
+    "label": "PROBLEM",
+    "start": 812,
+    "end": 821
+  },
+  {
+    "entity": "PND",
+    "label": "PROBLEM",
+    "start": 826,
+    "end": 829
+  },
+  {
+    "entity": "any palpitation",
+    "label": "PROBLEM",
+    "start": 887,
+    "end": 902
+  },
+  {
+    "entity": "presyncope",
+    "label": "PROBLEM",
+    "start": 904,
+    "end": 914
+  },
+  {
+    "entity": "syncope",
+    "label": "PROBLEM",
+    "start": 919,
+    "end": 926
+  },
+  {
+    "entity": "right upper quadrant pain",
+    "label": "PROBLEM",
+    "start": 960,
+    "end": 985
+  },
+  {
+    "entity": "occasional nausea",
+    "label": "PROBLEM",
+    "start": 994,
+    "end": 1011
+  },
+  {
+    "entity": "vomiting",
+    "label": "PROBLEM",
+    "start": 1020,
+    "end": 1028
+  },
+  {
+    "entity": "joint pain",
+    "label": "PROBLEM",
+    "start": 1061,
+    "end": 1071
+  },
+  {
+    "entity": "TIA",
+    "label": "PROBLEM",
+    "start": 1073,
+    "end": 1076
+  },
+  {
+    "entity": "seizure",
+    "label": "PROBLEM",
+    "start": 1078,
+    "end": 1085
+  },
+  {
+    "entity": "syncope",
+    "label": "PROBLEM",
+    "start": 1089,
+    "end": 1096
+  },
+  {
+    "entity": "ALLERGIES",
+    "label": "PROBLEM",
+    "start": 1335,
+    "end": 1344
+  },
+  {
+    "entity": "known drug allergies",
+    "label": "PROBLEM",
+    "start": 1356,
+    "end": 1376
+  },
+  {
+    "entity": "MEDICATIONS",
+    "label": "DRUG",
+    "start": 1378,
+    "end": 1389
+  },
+  {
+    "entity": "his medication",
+    "label": "DRUG",
+    "start": 1402,
+    "end": 1416
+  },
+  {
+    "entity": "the revised dose of medications",
+    "label": "DRUG",
+    "start": 1485,
+    "end": 1516
+  },
+  {
+    "entity": "VITAL SIGNS",
+    "label": "TEST",
+    "start": 1581,
+    "end": 1592
+  },
+  {
+    "entity": "Pulse",
+    "label": "TEST",
+    "start": 1594,
+    "end": 1599
+  },
+  {
+    "entity": "blood pressure",
+    "label": "TEST",
+    "start": 1627,
+    "end": 1641
+  },
+  {
+    "entity": "weight",
+    "label": "TEST",
+    "start": 1696,
+    "end": 1702
+  },
+  {
+    "entity": "pallor",
+    "label": "PROBLEM",
+    "start": 1810,
+    "end": 1816
+  },
+  {
+    "entity": "icterus",
+    "label": "PROBLEM",
+    "start": 1818,
+    "end": 1825
+  },
+  {
+    "entity": "cyanosis",
+    "label": "PROBLEM",
+    "start": 1829,
+    "end": 1837
+  },
+  {
+    "entity": "Jugular venous distention",
+    "label": "PROBLEM",
+    "start": 1853,
+    "end": 1878
+  },
+  {
+    "entity": "thyromegaly",
+    "label": "PROBLEM",
+    "start": 1915,
+    "end": 1926
+  },
+  {
+    "entity": "auscultation",
+    "label": "TEST",
+    "start": 1944,
+    "end": 1956
+  },
+  {
+    "entity": "rales",
+    "label": "PROBLEM",
+    "start": 1961,
+    "end": 1966
+  },
+  {
+    "entity": "rhonchi",
+    "label": "PROBLEM",
+    "start": 1970,
+    "end": 1977
+  },
+  {
+    "entity": "Pulse ox",
+    "label": "TEST",
+    "start": 1979,
+    "end": 1987
+  },
+  {
+    "entity": "S1",
+    "label": "TEST",
+    "start": 2014,
+    "end": 2016
+  },
+  {
+    "entity": "S2",
+    "label": "TEST",
+    "start": 2021,
+    "end": 2023
+  },
+  {
+    "entity": "S3",
+    "label": "PROBLEM",
+    "start": 2033,
+    "end": 2035
+  },
+  {
+    "entity": "S4",
+    "label": "PROBLEM",
+    "start": 2040,
+    "end": 2042
+  },
+  {
+    "entity": "clubbing",
+    "label": "PROBLEM",
+    "start": 2154,
+    "end": 2162
+  },
+  {
+    "entity": "cyanosis",
+    "label": "PROBLEM",
+    "start": 2166,
+    "end": 2174
+  },
+  {
+    "entity": "A 1+ edema",
+    "label": "PROBLEM",
+    "start": 2176,
+    "end": 2186
+  },
+  {
+    "entity": "hypertension",
+    "label": "PROBLEM",
+    "start": 2233,
+    "end": 2245
+  },
+  {
+    "entity": "nonischemic cardiomyopathy",
+    "label": "PROBLEM",
+    "start": 2247,
+    "end": 2273
+  },
+  {
+    "entity": "branch vessel coronary artery disease",
+    "label": "PROBLEM",
+    "start": 2279,
+    "end": 2316
+  },
+  {
+    "entity": "some volume overload",
+    "label": "PROBLEM",
+    "start": 2362,
+    "end": 2382
+  },
+  {
+    "entity": "Lasix",
+    "label": "DRUG",
+    "start": 2416,
+    "end": 2421
+  },
+  {
+    "entity": "Lasix",
+    "label": "DRUG",
+    "start": 2464,
+    "end": 2469
+  },
+  {
+    "entity": "hydralazine",
+    "label": "DRUG",
+    "start": 2517,
+    "end": 2528
+  },
+  {
+    "entity": "Toprol",
+    "label": "DRUG",
+    "start": 2598,
+    "end": 2604
+  },
+  {
+    "entity": "lisinopril",
+    "label": "DRUG",
+    "start": 2609,
+    "end": 2619
+  },
+  {
+    "entity": "Aldactone",
+    "label": "DRUG",
+    "start": 2639,
+    "end": 2648
+  },
+  {
+    "entity": "a BMP check",
+    "label": "TEST",
+    "start": 2918,
+    "end": 2929
+  },
+  {
+    "entity": "his blood pressure",
+    "label": "TEST",
+    "start": 2964,
+    "end": 2982
+  },
+  {
+    "entity": "weight",
+    "label": "TEST",
+    "start": 2987,
+    "end": 2993
+  },
+  {
+    "entity": "hepatitis C",
+    "label": "PROBLEM",
+    "start": 3105,
+    "end": 3116
+  },
+  {
+    "entity": "his fasting lipid profile",
+    "label": "TEST",
+    "start": 3268,
+    "end": 3293
+  },
+  {
+    "entity": "AST",
+    "label": "TEST",
+    "start": 3295,
+    "end": 3298
+  },
+  {
+    "entity": "ALT",
+    "label": "TEST",
+    "start": 3304,
+    "end": 3307
+  },
+  {
+    "entity": "congestive heart failure",
+    "label": "PROBLEM",
+    "start": 3357,
+    "end": 3381
+  },
+  {
+    "entity": "hypertension",
+    "label": "PROBLEM",
+    "start": 3383,
+    "end": 3395
+  },
+  {
+    "entity": "cardiomyopathy",
+    "label": "PROBLEM",
+    "start": 3397,
+    "end": 3411
+  },
+  {
+    "entity": "coronary artery disease",
+    "label": "PROBLEM",
+    "start": 3413,
+    "end": 3436
+  },
+  {
+    "entity": "ventricular tachycardia",
+    "label": "PROBLEM",
+    "start": 3438,
+    "end": 3461
+  },
+  {
+    "entity": "nonischemic cardiomyopathy",
+    "label": "PROBLEM",
+    "start": 3463,
+    "end": 3489
+  },
+  {
+    "entity": "tachycardia",
+    "label": "PROBLEM",
+    "start": 3531,
+    "end": 3542
+  },
+  {
+    "entity": "orthopnea",
+    "label": "PROBLEM",
+    "start": 3544,
+    "end": 3553
+  }
+]

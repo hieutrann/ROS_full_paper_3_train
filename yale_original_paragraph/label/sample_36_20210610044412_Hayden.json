@@ -1,0 +1,338 @@
+[
+  {
+    "entity": "shoulder bursitis",
+    "label": "PROBLEM",
+    "start": 138,
+    "end": 155
+  },
+  {
+    "entity": "pharyngitis",
+    "label": "PROBLEM",
+    "start": 157,
+    "end": 168
+  },
+  {
+    "entity": "attention deficit disorder",
+    "label": "PROBLEM",
+    "start": 170,
+    "end": 196
+  },
+  {
+    "entity": "issues",
+    "label": "PROBLEM",
+    "start": 334,
+    "end": 340
+  },
+  {
+    "entity": "difficulties raising his arm over his head",
+    "label": "PROBLEM",
+    "start": 525,
+    "end": 567
+  },
+  {
+    "entity": "intermittent numbness in his fingers",
+    "label": "PROBLEM",
+    "start": 587,
+    "end": 623
+  },
+  {
+    "entity": "any anti - inflammatories",
+    "label": "DRUG",
+    "start": 651,
+    "end": 676
+  },
+  {
+    "entity": "pain relievers",
+    "label": "DRUG",
+    "start": 680,
+    "end": 694
+  },
+  {
+    "entity": "a sore throat",
+    "label": "PROBLEM",
+    "start": 722,
+    "end": 735
+  },
+  {
+    "entity": "Strep",
+    "label": "PROBLEM",
+    "start": 766,
+    "end": 771
+  },
+  {
+    "entity": "strep throat",
+    "label": "PROBLEM",
+    "start": 801,
+    "end": 813
+  },
+  {
+    "entity": "fevers",
+    "label": "PROBLEM",
+    "start": 826,
+    "end": 832
+  },
+  {
+    "entity": "rashes",
+    "label": "PROBLEM",
+    "start": 834,
+    "end": 840
+  },
+  {
+    "entity": "nausea",
+    "label": "PROBLEM",
+    "start": 842,
+    "end": 848
+  },
+  {
+    "entity": "vomiting",
+    "label": "PROBLEM",
+    "start": 850,
+    "end": 858
+  },
+  {
+    "entity": "diarrhea",
+    "label": "PROBLEM",
+    "start": 860,
+    "end": 868
+  },
+  {
+    "entity": "constipation",
+    "label": "PROBLEM",
+    "start": 874,
+    "end": 886
+  },
+  {
+    "entity": "ADHD",
+    "label": "PROBLEM",
+    "start": 914,
+    "end": 918
+  },
+  {
+    "entity": "Adderall",
+    "label": "DRUG",
+    "start": 929,
+    "end": 937
+  },
+  {
+    "entity": "Zoloft",
+    "label": "DRUG",
+    "start": 942,
+    "end": 948
+  },
+  {
+    "entity": "his medication",
+    "label": "DRUG",
+    "start": 1014,
+    "end": 1028
+  },
+  {
+    "entity": "his weight",
+    "label": "TEST",
+    "start": 1100,
+    "end": 1110
+  },
+  {
+    "entity": "the medications",
+    "label": "DRUG",
+    "start": 1126,
+    "end": 1141
+  },
+  {
+    "entity": "anger outbursts",
+    "label": "PROBLEM",
+    "start": 1216,
+    "end": 1231
+  },
+  {
+    "entity": "erythema",
+    "label": "PROBLEM",
+    "start": 1584,
+    "end": 1592
+  },
+  {
+    "entity": "exudate",
+    "label": "PROBLEM",
+    "start": 1596,
+    "end": 1603
+  },
+  {
+    "entity": "some postnasal drip",
+    "label": "PROBLEM",
+    "start": 1621,
+    "end": 1640
+  },
+  {
+    "entity": "muscle weakness",
+    "label": "PROBLEM",
+    "start": 1742,
+    "end": 1757
+  },
+  {
+    "entity": "biceps tenderness",
+    "label": "PROBLEM",
+    "start": 1792,
+    "end": 1809
+  },
+  {
+    "entity": "suicidal, homicidal ideations",
+    "label": "PROBLEM",
+    "start": 1823,
+    "end": 1852
+  },
+  {
+    "entity": "hallucinations",
+    "label": "PROBLEM",
+    "start": 1892,
+    "end": 1906
+  },
+  {
+    "entity": "Right shoulder bursitis",
+    "label": "PROBLEM",
+    "start": 1919,
+    "end": 1942
+  },
+  {
+    "entity": "Check x-ray",
+    "label": "TEST",
+    "start": 1944,
+    "end": 1955
+  },
+  {
+    "entity": "fracture",
+    "label": "PROBLEM",
+    "start": 1966,
+    "end": 1974
+  },
+  {
+    "entity": "physical therapy",
+    "label": "TREATMENT",
+    "start": 1980,
+    "end": 1996
+  },
+  {
+    "entity": "anti-inflammatories",
+    "label": "PROBLEM",
+    "start": 2019,
+    "end": 2038
+  },
+  {
+    "entity": "joint injections",
+    "label": "TREATMENT",
+    "start": 2050,
+    "end": 2066
+  },
+  {
+    "entity": "Pharyngitis",
+    "label": "PROBLEM",
+    "start": 2086,
+    "end": 2097
+  },
+  {
+    "entity": "tonsillectomy",
+    "label": "TREATMENT",
+    "start": 2153,
+    "end": 2166
+  },
+  {
+    "entity": "Attention deficit disorder",
+    "label": "PROBLEM",
+    "start": 2194,
+    "end": 2220
+  },
+  {
+    "entity": "his anger issues",
+    "label": "PROBLEM",
+    "start": 2336,
+    "end": 2352
+  },
+  {
+    "entity": "adhd",
+    "label": "PROBLEM",
+    "start": 2423,
+    "end": 2427
+  },
+  {
+    "entity": "attention deficit disorde",
+    "label": "PROBLEM",
+    "start": 2429,
+    "end": 2454
+  },
+  {
+    "entity": "pharyngitis",
+    "label": "PROBLEM",
+    "start": 2456,
+    "end": 2467
+  },
+  {
+    "entity": "anti-inflammatories",
+    "label": "DRUG",
+    "start": 2484,
+    "end": 2503
+  },
+  {
+    "entity": "bursitis",
+    "label": "PROBLEM",
+    "start": 2505,
+    "end": 2513
+  },
+  {
+    "entity": "diarrhea",
+    "label": "PROBLEM",
+    "start": 2515,
+    "end": 2523
+  },
+  {
+    "entity": "fevers",
+    "label": "PROBLEM",
+    "start": 2525,
+    "end": 2531
+  },
+  {
+    "entity": "nausea",
+    "label": "PROBLEM",
+    "start": 2533,
+    "end": 2539
+  },
+  {
+    "entity": "numbness",
+    "label": "PROBLEM",
+    "start": 2541,
+    "end": 2549
+  },
+  {
+    "entity": "rashes",
+    "label": "PROBLEM",
+    "start": 2551,
+    "end": 2557
+  },
+  {
+    "entity": "strep throat",
+    "label": "PROBLEM",
+    "start": 2569,
+    "end": 2581
+  },
+  {
+    "entity": "vomiting",
+    "label": "PROBLEM",
+    "start": 2583,
+    "end": 2591
+  },
+  {
+    "entity": "attention deficit",
+    "label": "PROBLEM",
+    "start": 2593,
+    "end": 2610
+  },
+  {
+    "entity": "deficit disorder",
+    "label": "PROBLEM",
+    "start": 2612,
+    "end": 2628
+  },
+  {
+    "entity": "anger",
+    "label": "PROBLEM",
+    "start": 2657,
+    "end": 2662
+  }
+]

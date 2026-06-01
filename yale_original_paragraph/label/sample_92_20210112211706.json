@@ -1,0 +1,806 @@
+[
+  {
+    "entity": "Stasis Ulcer",
+    "label": "PROBLEM",
+    "start": 73,
+    "end": 85
+  },
+  {
+    "entity": "Nonhealing right ankle stasis ulcer",
+    "label": "PROBLEM",
+    "start": 99,
+    "end": 134
+  },
+  {
+    "entity": "hypertension",
+    "label": "PROBLEM",
+    "start": 182,
+    "end": 194
+  },
+  {
+    "entity": "chronic intermittent bipedal edema",
+    "label": "PROBLEM",
+    "start": 196,
+    "end": 230
+  },
+  {
+    "entity": "recurrent leg venous ulcers",
+    "label": "PROBLEM",
+    "start": 236,
+    "end": 263
+  },
+  {
+    "entity": "scheduled vascular surgery",
+    "label": "TREATMENT",
+    "start": 281,
+    "end": 307
+  },
+  {
+    "entity": "Nonhealing right ankle stasis ulcer",
+    "label": "PROBLEM",
+    "start": 371,
+    "end": 406
+  },
+  {
+    "entity": "hypertension",
+    "label": "PROBLEM",
+    "start": 490,
+    "end": 502
+  },
+  {
+    "entity": "chronic intermittent bipedal edema",
+    "label": "PROBLEM",
+    "start": 504,
+    "end": 538
+  },
+  {
+    "entity": "recurrent leg venous ulcers",
+    "label": "PROBLEM",
+    "start": 544,
+    "end": 571
+  },
+  {
+    "entity": "scheduled vascular surgery",
+    "label": "TREATMENT",
+    "start": 606,
+    "end": 632
+  },
+  {
+    "entity": "nonhealing right ankle stasis ulcer",
+    "label": "PROBLEM",
+    "start": 664,
+    "end": 699
+  },
+  {
+    "entity": "a low-grade fever of 100.2",
+    "label": "PROBLEM",
+    "start": 741,
+    "end": 767
+  },
+  {
+    "entity": "the fever",
+    "label": "PROBLEM",
+    "start": 847,
+    "end": 856
+  },
+  {
+    "entity": "some ankle pain",
+    "label": "PROBLEM",
+    "start": 871,
+    "end": 886
+  },
+  {
+    "entity": "worse",
+    "label": "PROBLEM",
+    "start": 888,
+    "end": 893
+  },
+  {
+    "entity": "leg cellulitis",
+    "label": "PROBLEM",
+    "start": 994,
+    "end": 1008
+  },
+  {
+    "entity": "Multiple wound cultures",
+    "label": "TEST",
+    "start": 1010,
+    "end": 1033
+  },
+  {
+    "entity": "Pseudomonas",
+    "label": "PROBLEM",
+    "start": 1056,
+    "end": 1067
+  },
+  {
+    "entity": "Enterococcus",
+    "label": "PROBLEM",
+    "start": 1069,
+    "end": 1081
+  },
+  {
+    "entity": "Stenotrophomonas",
+    "label": "PROBLEM",
+    "start": 1087,
+    "end": 1103
+  },
+  {
+    "entity": "Klebsiella",
+    "label": "PROBLEM",
+    "start": 1117,
+    "end": 1127
+  },
+  {
+    "entity": "Enterobacter",
+    "label": "PROBLEM",
+    "start": 1132,
+    "end": 1144
+  },
+  {
+    "entity": "the few wound cultures",
+    "label": "TEST",
+    "start": 1164,
+    "end": 1186
+  },
+  {
+    "entity": "malaise",
+    "label": "PROBLEM",
+    "start": 1373,
+    "end": 1380
+  },
+  {
+    "entity": "low-grade fevers",
+    "label": "PROBLEM",
+    "start": 1398,
+    "end": 1414
+  },
+  {
+    "entity": "chills",
+    "label": "PROBLEM",
+    "start": 1419,
+    "end": 1425
+  },
+  {
+    "entity": "acute change in visual acuity",
+    "label": "PROBLEM",
+    "start": 1437,
+    "end": 1466
+  },
+  {
+    "entity": "diplopia",
+    "label": "PROBLEM",
+    "start": 1471,
+    "end": 1479
+  },
+  {
+    "entity": "acute hearing disturbances",
+    "label": "PROBLEM",
+    "start": 1484,
+    "end": 1510
+  },
+  {
+    "entity": "sinus congestion",
+    "label": "PROBLEM",
+    "start": 1519,
+    "end": 1535
+  },
+  {
+    "entity": "sore throat",
+    "label": "PROBLEM",
+    "start": 1540,
+    "end": 1551
+  },
+  {
+    "entity": "chest pain",
+    "label": "PROBLEM",
+    "start": 1565,
+    "end": 1575
+  },
+  {
+    "entity": "cough",
+    "label": "PROBLEM",
+    "start": 1579,
+    "end": 1584
+  },
+  {
+    "entity": "nausea",
+    "label": "PROBLEM",
+    "start": 1607,
+    "end": 1613
+  },
+  {
+    "entity": "vomiting",
+    "label": "PROBLEM",
+    "start": 1615,
+    "end": 1623
+  },
+  {
+    "entity": "diarrhea",
+    "label": "PROBLEM",
+    "start": 1627,
+    "end": 1635
+  },
+  {
+    "entity": "Hypertension",
+    "label": "PROBLEM",
+    "start": 1710,
+    "end": 1722
+  },
+  {
+    "entity": "exploratory laparotomy",
+    "label": "TREATMENT",
+    "start": 1724,
+    "end": 1746
+  },
+  {
+    "entity": "abdominal obstruction",
+    "label": "PROBLEM",
+    "start": 1759,
+    "end": 1780
+  },
+  {
+    "entity": "cholecystectomy",
+    "label": "TREATMENT",
+    "start": 1782,
+    "end": 1797
+  },
+  {
+    "entity": "chronic intermittent bipedal edema",
+    "label": "PROBLEM",
+    "start": 1807,
+    "end": 1841
+  },
+  {
+    "entity": "venous insufficiency",
+    "label": "PROBLEM",
+    "start": 1843,
+    "end": 1863
+  },
+  {
+    "entity": "chronic recurrent stasis ulcers",
+    "label": "PROBLEM",
+    "start": 1865,
+    "end": 1896
+  },
+  {
+    "entity": "Primaxin",
+    "label": "DRUG",
+    "start": 2102,
+    "end": 2110
+  },
+  {
+    "entity": "daptomycin",
+    "label": "DRUG",
+    "start": 2112,
+    "end": 2122
+  },
+  {
+    "entity": "clonidine",
+    "label": "DRUG",
+    "start": 2124,
+    "end": 2133
+  },
+  {
+    "entity": "furosemide",
+    "label": "DRUG",
+    "start": 2135,
+    "end": 2145
+  },
+  {
+    "entity": "potassium chloride",
+    "label": "DRUG",
+    "start": 2147,
+    "end": 2165
+  },
+  {
+    "entity": "lisinopril",
+    "label": "DRUG",
+    "start": 2167,
+    "end": 2177
+  },
+  {
+    "entity": "metoprolol",
+    "label": "DRUG",
+    "start": 2179,
+    "end": 2189
+  },
+  {
+    "entity": "ranitidine",
+    "label": "DRUG",
+    "start": 2191,
+    "end": 2201
+  },
+  {
+    "entity": "Colace",
+    "label": "DRUG",
+    "start": 2203,
+    "end": 2209
+  },
+  {
+    "entity": "amlodipine",
+    "label": "DRUG",
+    "start": 2211,
+    "end": 2221
+  },
+  {
+    "entity": "zinc sulfate",
+    "label": "DRUG",
+    "start": 2223,
+    "end": 2235
+  },
+  {
+    "entity": "Lortab",
+    "label": "DRUG",
+    "start": 2237,
+    "end": 2243
+  },
+  {
+    "entity": "multivitamins",
+    "label": "DRUG",
+    "start": 2252,
+    "end": 2265
+  },
+  {
+    "entity": "minerals.",
+    "label": "DRUG",
+    "start": 2271,
+    "end": 2280
+  },
+  {
+    "entity": "Heart rate",
+    "label": "TEST",
+    "start": 2331,
+    "end": 2341
+  },
+  {
+    "entity": "respiratory rate",
+    "label": "TEST",
+    "start": 2346,
+    "end": 2362
+  },
+  {
+    "entity": "blood pressure",
+    "label": "TEST",
+    "start": 2367,
+    "end": 2381
+  },
+  {
+    "entity": "temperature",
+    "label": "TEST",
+    "start": 2390,
+    "end": 2401
+  },
+  {
+    "entity": "oxygen saturation",
+    "label": "TEST",
+    "start": 2412,
+    "end": 2429
+  },
+  {
+    "entity": "cardiorespiratory distress",
+    "label": "PROBLEM",
+    "start": 2507,
+    "end": 2533
+  },
+  {
+    "entity": "Height",
+    "label": "TEST",
+    "start": 2535,
+    "end": 2541
+  },
+  {
+    "entity": "body weight",
+    "label": "TEST",
+    "start": 2561,
+    "end": 2572
+  },
+  {
+    "entity": "brisk reaction to light",
+    "label": "PROBLEM",
+    "start": 2645,
+    "end": 2668
+  },
+  {
+    "entity": "oral lesions",
+    "label": "PROBLEM",
+    "start": 2744,
+    "end": 2756
+  },
+  {
+    "entity": "palpable neck masses",
+    "label": "PROBLEM",
+    "start": 2767,
+    "end": 2787
+  },
+  {
+    "entity": "enlarged",
+    "label": "PROBLEM",
+    "start": 2804,
+    "end": 2812
+  },
+  {
+    "entity": "inspection",
+    "label": "TEST",
+    "start": 2816,
+    "end": 2826
+  },
+  {
+    "entity": "crackles",
+    "label": "PROBLEM",
+    "start": 2872,
+    "end": 2880
+  },
+  {
+    "entity": "wheezes",
+    "label": "PROBLEM",
+    "start": 2884,
+    "end": 2891
+  },
+  {
+    "entity": "cardiac rhythm",
+    "label": "TEST",
+    "start": 2917,
+    "end": 2931
+  },
+  {
+    "entity": "thrills",
+    "label": "PROBLEM",
+    "start": 2936,
+    "end": 2943
+  },
+  {
+    "entity": "rubs",
+    "label": "PROBLEM",
+    "start": 2947,
+    "end": 2951
+  },
+  {
+    "entity": "guarding",
+    "label": "PROBLEM",
+    "start": 3006,
+    "end": 3014
+  },
+  {
+    "entity": "rigidity",
+    "label": "PROBLEM",
+    "start": 3018,
+    "end": 3026
+  },
+  {
+    "entity": "cervical lymphadenopathy",
+    "label": "PROBLEM",
+    "start": 3042,
+    "end": 3066
+  },
+  {
+    "entity": "hyperpigmentation",
+    "label": "PROBLEM",
+    "start": 3153,
+    "end": 3170
+  },
+  {
+    "entity": "an open wound",
+    "label": "PROBLEM",
+    "start": 3220,
+    "end": 3233
+  },
+  {
+    "entity": "minimal serous drainage",
+    "label": "PROBLEM",
+    "start": 3292,
+    "end": 3315
+  },
+  {
+    "entity": "hyperpigmented",
+    "label": "PROBLEM",
+    "start": 3330,
+    "end": 3344
+  },
+  {
+    "entity": "a hint of erythema",
+    "label": "PROBLEM",
+    "start": 3350,
+    "end": 3368
+  },
+  {
+    "entity": "minimal tenderness",
+    "label": "PROBLEM",
+    "start": 3470,
+    "end": 3488
+  },
+  {
+    "entity": "palpation of this area",
+    "label": "TEST",
+    "start": 3492,
+    "end": 3514
+  },
+  {
+    "entity": "a wound on the right lateral malleolar area",
+    "label": "PROBLEM",
+    "start": 3530,
+    "end": 3573
+  },
+  {
+    "entity": "another open wound on the left medial malleolar area",
+    "label": "PROBLEM",
+    "start": 3594,
+    "end": 3646
+  },
+  {
+    "entity": "mood and affect, oriented x3",
+    "label": "TEST",
+    "start": 3724,
+    "end": 3752
+  },
+  {
+    "entity": "White blood cell count",
+    "label": "TEST",
+    "start": 3801,
+    "end": 3823
+  },
+  {
+    "entity": "neutrophils",
+    "label": "TEST",
+    "start": 3854,
+    "end": 3865
+  },
+  {
+    "entity": "H&H",
+    "label": "TEST",
+    "start": 3867,
+    "end": 3870
+  },
+  {
+    "entity": "platelet count",
+    "label": "TEST",
+    "start": 3886,
+    "end": 3900
+  },
+  {
+    "entity": "BUN",
+    "label": "TEST",
+    "start": 3910,
+    "end": 3913
+  },
+  {
+    "entity": "creatinine",
+    "label": "TEST",
+    "start": 3918,
+    "end": 3928
+  },
+  {
+    "entity": "Albumin",
+    "label": "TEST",
+    "start": 3939,
+    "end": 3946
+  },
+  {
+    "entity": "AST",
+    "label": "TEST",
+    "start": 3952,
+    "end": 3955
+  },
+  {
+    "entity": "ALT",
+    "label": "TEST",
+    "start": 3960,
+    "end": 3963
+  },
+  {
+    "entity": "alk phos",
+    "label": "TEST",
+    "start": 3967,
+    "end": 3975
+  },
+  {
+    "entity": "total bilirubin",
+    "label": "TEST",
+    "start": 3984,
+    "end": 3999
+  },
+  {
+    "entity": "One wound culture",
+    "label": "TEST",
+    "start": 4005,
+    "end": 4022
+  },
+  {
+    "entity": "right leg wound culture",
+    "label": "TEST",
+    "start": 4028,
+    "end": 4051
+  },
+  {
+    "entity": "young growth",
+    "label": "PROBLEM",
+    "start": 4077,
+    "end": 4089
+  },
+  {
+    "entity": "Left leg wound culture",
+    "label": "TEST",
+    "start": 4091,
+    "end": 4113
+  },
+  {
+    "entity": "young growth",
+    "label": "PROBLEM",
+    "start": 4138,
+    "end": 4150
+  },
+  {
+    "entity": "Chest x-ray",
+    "label": "TEST",
+    "start": 4163,
+    "end": 4174
+  },
+  {
+    "entity": "chronic bibasilar subsegmental atelectasis",
+    "label": "PROBLEM",
+    "start": 4199,
+    "end": 4241
+  },
+  {
+    "entity": "elevated hemidiaphragm",
+    "label": "PROBLEM",
+    "start": 4260,
+    "end": 4282
+  },
+  {
+    "entity": "chronic ileus",
+    "label": "PROBLEM",
+    "start": 4296,
+    "end": 4309
+  },
+  {
+    "entity": "Fevers",
+    "label": "PROBLEM",
+    "start": 4348,
+    "end": 4354
+  },
+  {
+    "entity": "Right leg/ankle cellulitis",
+    "label": "PROBLEM",
+    "start": 4359,
+    "end": 4385
+  },
+  {
+    "entity": "Chronic recurrent bilateral ankle venous ulcers",
+    "label": "PROBLEM",
+    "start": 4390,
+    "end": 4437
+  },
+  {
+    "entity": "Multiple previous wound cultures",
+    "label": "TEST",
+    "start": 4442,
+    "end": 4474
+  },
+  {
+    "entity": "Pseudomonas",
+    "label": "PROBLEM",
+    "start": 4488,
+    "end": 4499
+  },
+  {
+    "entity": "Enterococcus",
+    "label": "PROBLEM",
+    "start": 4501,
+    "end": 4513
+  },
+  {
+    "entity": "Stenotrophomonas",
+    "label": "PROBLEM",
+    "start": 4519,
+    "end": 4535
+  },
+  {
+    "entity": "Hypertension",
+    "label": "PROBLEM",
+    "start": 4540,
+    "end": 4552
+  },
+  {
+    "entity": "blood cultures",
+    "label": "TEST",
+    "start": 4600,
+    "end": 4614
+  },
+  {
+    "entity": "daptomycin",
+    "label": "DRUG",
+    "start": 4630,
+    "end": 4640
+  },
+  {
+    "entity": "Primaxin",
+    "label": "DRUG",
+    "start": 4645,
+    "end": 4653
+  },
+  {
+    "entity": "wound cultures",
+    "label": "TEST",
+    "start": 4681,
+    "end": 4695
+  },
+  {
+    "entity": "an MRI of the right ankle",
+    "label": "TEST",
+    "start": 4713,
+    "end": 4738
+  },
+  {
+    "entity": "underlying osteomyelitis",
+    "label": "PROBLEM",
+    "start": 4752,
+    "end": 4776
+  },
+  {
+    "entity": "fevers",
+    "label": "PROBLEM",
+    "start": 4866,
+    "end": 4872
+  },
+  {
+    "entity": "cellulitis",
+    "label": "PROBLEM",
+    "start": 4874,
+    "end": 4884
+  },
+  {
+    "entity": "venous ulcers",
+    "label": "PROBLEM",
+    "start": 4886,
+    "end": 4899
+  },
+  {
+    "entity": "bipedal edema",
+    "label": "PROBLEM",
+    "start": 4901,
+    "end": 4914
+  },
+  {
+    "entity": "stasis ulcer",
+    "label": "PROBLEM",
+    "start": 4916,
+    "end": 4928
+  },
+  {
+    "entity": "wound cultures",
+    "label": "TEST",
+    "start": 4930,
+    "end": 4944
+  },
+  {
+    "entity": "wound",
+    "label": "PROBLEM",
+    "start": 4946,
+    "end": 4951
+  },
+  {
+    "entity": "ulcer",
+    "label": "PROBLEM",
+    "start": 4960,
+    "end": 4965
+  },
+  {
+    "entity": "hypertension",
+    "label": "PROBLEM",
+    "start": 4967,
+    "end": 4979
+  },
+  {
+    "entity": "ulcers",
+    "label": "PROBLEM",
+    "start": 4981,
+    "end": 4987
+  },
+  {
+    "entity": "stasis",
+    "label": "PROBLEM",
+    "start": 4989,
+    "end": 4995
+  }
+]

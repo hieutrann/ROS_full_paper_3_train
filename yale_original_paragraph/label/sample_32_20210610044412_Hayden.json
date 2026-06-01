@@ -1,0 +1,464 @@
+[
+  {
+    "entity": "headaches",
+    "label": "PROBLEM",
+    "start": 154,
+    "end": 163
+  },
+  {
+    "entity": "migraines",
+    "label": "PROBLEM",
+    "start": 166,
+    "end": 175
+  },
+  {
+    "entity": "vertigo",
+    "label": "PROBLEM",
+    "start": 178,
+    "end": 185
+  },
+  {
+    "entity": "syncope",
+    "label": "PROBLEM",
+    "start": 188,
+    "end": 195
+  },
+  {
+    "entity": "visual loss",
+    "label": "PROBLEM",
+    "start": 198,
+    "end": 209
+  },
+  {
+    "entity": "tinnitus",
+    "label": "PROBLEM",
+    "start": 212,
+    "end": 220
+  },
+  {
+    "entity": "sinusitis",
+    "label": "PROBLEM",
+    "start": 223,
+    "end": 232
+  },
+  {
+    "entity": "sore in the mouth",
+    "label": "PROBLEM",
+    "start": 235,
+    "end": 252
+  },
+  {
+    "entity": "hoarseness",
+    "label": "PROBLEM",
+    "start": 255,
+    "end": 265
+  },
+  {
+    "entity": "swelling",
+    "label": "PROBLEM",
+    "start": 268,
+    "end": 276
+  },
+  {
+    "entity": "goiter",
+    "label": "PROBLEM",
+    "start": 280,
+    "end": 286
+  },
+  {
+    "entity": "headaches",
+    "label": "PROBLEM",
+    "start": 352,
+    "end": 361
+  },
+  {
+    "entity": "migraines",
+    "label": "PROBLEM",
+    "start": 364,
+    "end": 373
+  },
+  {
+    "entity": "vertigo",
+    "label": "PROBLEM",
+    "start": 376,
+    "end": 383
+  },
+  {
+    "entity": "syncope",
+    "label": "PROBLEM",
+    "start": 386,
+    "end": 393
+  },
+  {
+    "entity": "visual loss",
+    "label": "PROBLEM",
+    "start": 396,
+    "end": 407
+  },
+  {
+    "entity": "tinnitus",
+    "label": "PROBLEM",
+    "start": 410,
+    "end": 418
+  },
+  {
+    "entity": "sinusitis",
+    "label": "PROBLEM",
+    "start": 421,
+    "end": 430
+  },
+  {
+    "entity": "sore in the mouth",
+    "label": "PROBLEM",
+    "start": 433,
+    "end": 450
+  },
+  {
+    "entity": "hoarseness",
+    "label": "PROBLEM",
+    "start": 453,
+    "end": 463
+  },
+  {
+    "entity": "swelling",
+    "label": "PROBLEM",
+    "start": 466,
+    "end": 474
+  },
+  {
+    "entity": "goiter",
+    "label": "PROBLEM",
+    "start": 478,
+    "end": 484
+  },
+  {
+    "entity": "shortness of breath",
+    "label": "PROBLEM",
+    "start": 505,
+    "end": 524
+  },
+  {
+    "entity": "wheezing",
+    "label": "PROBLEM",
+    "start": 527,
+    "end": 535
+  },
+  {
+    "entity": "dyspnea",
+    "label": "PROBLEM",
+    "start": 538,
+    "end": 545
+  },
+  {
+    "entity": "pulmonary disease",
+    "label": "PROBLEM",
+    "start": 548,
+    "end": 565
+  },
+  {
+    "entity": "tuberculosis",
+    "label": "PROBLEM",
+    "start": 568,
+    "end": 580
+  },
+  {
+    "entity": "past pneumonias",
+    "label": "PROBLEM",
+    "start": 584,
+    "end": 599
+  },
+  {
+    "entity": "palpitations",
+    "label": "PROBLEM",
+    "start": 634,
+    "end": 646
+  },
+  {
+    "entity": "irregular rhythm",
+    "label": "PROBLEM",
+    "start": 649,
+    "end": 665
+  },
+  {
+    "entity": "chest pain",
+    "label": "PROBLEM",
+    "start": 668,
+    "end": 678
+  },
+  {
+    "entity": "hypertension",
+    "label": "PROBLEM",
+    "start": 681,
+    "end": 693
+  },
+  {
+    "entity": "hyperlipidemia",
+    "label": "PROBLEM",
+    "start": 696,
+    "end": 710
+  },
+  {
+    "entity": "diaphoresis",
+    "label": "PROBLEM",
+    "start": 713,
+    "end": 724
+  },
+  {
+    "entity": "congestive heart failure",
+    "label": "PROBLEM",
+    "start": 727,
+    "end": 751
+  },
+  {
+    "entity": "heart catheterization",
+    "label": "TEST",
+    "start": 754,
+    "end": 775
+  },
+  {
+    "entity": "stress test",
+    "label": "TEST",
+    "start": 778,
+    "end": 789
+  },
+  {
+    "entity": "cardiac tests",
+    "label": "TEST",
+    "start": 800,
+    "end": 813
+  },
+  {
+    "entity": "rectal bleeding",
+    "label": "PROBLEM",
+    "start": 850,
+    "end": 865
+  },
+  {
+    "entity": "appetite change",
+    "label": "PROBLEM",
+    "start": 868,
+    "end": 883
+  },
+  {
+    "entity": "abdominal pain",
+    "label": "PROBLEM",
+    "start": 886,
+    "end": 900
+  },
+  {
+    "entity": "hiatal hernia",
+    "label": "PROBLEM",
+    "start": 903,
+    "end": 916
+  },
+  {
+    "entity": "ulcer",
+    "label": "PROBLEM",
+    "start": 919,
+    "end": 924
+  },
+  {
+    "entity": "jaundice",
+    "label": "PROBLEM",
+    "start": 927,
+    "end": 935
+  },
+  {
+    "entity": "change in bowel habits",
+    "label": "PROBLEM",
+    "start": 938,
+    "end": 960
+  },
+  {
+    "entity": "liver problems",
+    "label": "PROBLEM",
+    "start": 964,
+    "end": 978
+  },
+  {
+    "entity": "inflammatory bowel problems",
+    "label": "PROBLEM",
+    "start": 999,
+    "end": 1026
+  },
+  {
+    "entity": "dysuria",
+    "label": "PROBLEM",
+    "start": 1049,
+    "end": 1056
+  },
+  {
+    "entity": "hematuria",
+    "label": "PROBLEM",
+    "start": 1059,
+    "end": 1068
+  },
+  {
+    "entity": "frequency",
+    "label": "PROBLEM",
+    "start": 1071,
+    "end": 1080
+  },
+  {
+    "entity": "incontinence",
+    "label": "PROBLEM",
+    "start": 1083,
+    "end": 1095
+  },
+  {
+    "entity": "colic",
+    "label": "PROBLEM",
+    "start": 1099,
+    "end": 1104
+  },
+  {
+    "entity": "gait problems",
+    "label": "PROBLEM",
+    "start": 1128,
+    "end": 1141
+  },
+  {
+    "entity": "strokes",
+    "label": "PROBLEM",
+    "start": 1144,
+    "end": 1151
+  },
+  {
+    "entity": "numbness",
+    "label": "PROBLEM",
+    "start": 1154,
+    "end": 1162
+  },
+  {
+    "entity": "muscle weakness",
+    "label": "PROBLEM",
+    "start": 1166,
+    "end": 1181
+  },
+  {
+    "entity": "emotional lability",
+    "label": "PROBLEM",
+    "start": 1213,
+    "end": 1231
+  },
+  {
+    "entity": "depression",
+    "label": "PROBLEM",
+    "start": 1234,
+    "end": 1244
+  },
+  {
+    "entity": "sleep disturbances",
+    "label": "PROBLEM",
+    "start": 1248,
+    "end": 1266
+  },
+  {
+    "entity": "any cancer",
+    "label": "PROBLEM",
+    "start": 1296,
+    "end": 1306
+  },
+  {
+    "entity": "change in moles",
+    "label": "PROBLEM",
+    "start": 1309,
+    "end": 1324
+  },
+  {
+    "entity": "rashes",
+    "label": "PROBLEM",
+    "start": 1328,
+    "end": 1334
+  },
+  {
+    "entity": "weight loss",
+    "label": "PROBLEM",
+    "start": 1351,
+    "end": 1362
+  },
+  {
+    "entity": "systemic allergy",
+    "label": "PROBLEM",
+    "start": 1435,
+    "end": 1451
+  },
+  {
+    "entity": "abnormal lymph nodes",
+    "label": "PROBLEM",
+    "start": 1454,
+    "end": 1474
+  },
+  {
+    "entity": "swelling",
+    "label": "PROBLEM",
+    "start": 1478,
+    "end": 1486
+  },
+  {
+    "entity": "fractures",
+    "label": "PROBLEM",
+    "start": 1511,
+    "end": 1520
+  },
+  {
+    "entity": "motor weakness",
+    "label": "PROBLEM",
+    "start": 1523,
+    "end": 1537
+  },
+  {
+    "entity": "arthritis",
+    "label": "PROBLEM",
+    "start": 1540,
+    "end": 1549
+  },
+  {
+    "entity": "other joint pains",
+    "label": "PROBLEM",
+    "start": 1553,
+    "end": 1570
+  },
+  {
+    "entity": "tinnitus",
+    "label": "PROBLEM",
+    "start": 1624,
+    "end": 1632
+  },
+  {
+    "entity": "sinusitis",
+    "label": "PROBLEM",
+    "start": 1635,
+    "end": 1644
+  },
+  {
+    "entity": "sore",
+    "label": "PROBLEM",
+    "start": 1647,
+    "end": 1651
+  },
+  {
+    "entity": "hoarseness",
+    "label": "PROBLEM",
+    "start": 1662,
+    "end": 1672
+  },
+  {
+    "entity": "goiter",
+    "label": "PROBLEM",
+    "start": 1675,
+    "end": 1681
+  },
+  {
+    "entity": "weakness",
+    "label": "PROBLEM",
+    "start": 1711,
+    "end": 1719
+  },
+  {
+    "entity": "swelling",
+    "label": "PROBLEM",
+    "start": 1729,
+    "end": 1737
+  }
+]

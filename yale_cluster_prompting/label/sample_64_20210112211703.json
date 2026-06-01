@@ -1,0 +1,662 @@
+[
+  {
+    "entity": "Antibiotic",
+    "label": "DRUG",
+    "start": 106,
+    "end": 116
+  },
+  {
+    "entity": "a right foot ulcer",
+    "label": "PROBLEM",
+    "start": 132,
+    "end": 150
+  },
+  {
+    "entity": "osteomyelitis",
+    "label": "PROBLEM",
+    "start": 164,
+    "end": 177
+  },
+  {
+    "entity": "Antibiotic",
+    "label": "DRUG",
+    "start": 242,
+    "end": 252
+  },
+  {
+    "entity": "a right foot ulcer",
+    "label": "PROBLEM",
+    "start": 268,
+    "end": 286
+  },
+  {
+    "entity": "osteomyelitis",
+    "label": "PROBLEM",
+    "start": 300,
+    "end": 313
+  },
+  {
+    "entity": "diabetes mellitus",
+    "label": "PROBLEM",
+    "start": 416,
+    "end": 433
+  },
+  {
+    "entity": "Cultures",
+    "label": "TEST",
+    "start": 571,
+    "end": 579
+  },
+  {
+    "entity": "methicillin-sensitive Staphylococcus aureus (MSSA",
+    "label": "PROBLEM",
+    "start": 643,
+    "end": 692
+  },
+  {
+    "entity": "antibiotic therapy",
+    "label": "DRUG",
+    "start": 734,
+    "end": 752
+  },
+  {
+    "entity": "Levaquin",
+    "label": "DRUG",
+    "start": 758,
+    "end": 766
+  },
+  {
+    "entity": "debridement",
+    "label": "TREATMENT",
+    "start": 840,
+    "end": 851
+  },
+  {
+    "entity": "the wound",
+    "label": "PROBLEM",
+    "start": 855,
+    "end": 864
+  },
+  {
+    "entity": "MRI",
+    "label": "TEST",
+    "start": 892,
+    "end": 895
+  },
+  {
+    "entity": "a bone scan",
+    "label": "TEST",
+    "start": 900,
+    "end": 911
+  },
+  {
+    "entity": "osteomyelitis",
+    "label": "PROBLEM",
+    "start": 976,
+    "end": 989
+  },
+  {
+    "entity": "wound care",
+    "label": "TREATMENT",
+    "start": 1137,
+    "end": 1147
+  },
+  {
+    "entity": "wound VAC placement",
+    "label": "TREATMENT",
+    "start": 1153,
+    "end": 1172
+  },
+  {
+    "entity": "a lacerated wound on the plantar aspect",
+    "label": "PROBLEM",
+    "start": 1190,
+    "end": 1229
+  },
+  {
+    "entity": "The wound",
+    "label": "PROBLEM",
+    "start": 1374,
+    "end": 1383
+  },
+  {
+    "entity": "osteomyelitis",
+    "label": "PROBLEM",
+    "start": 1542,
+    "end": 1555
+  },
+  {
+    "entity": "serosanguineous drainage",
+    "label": "PROBLEM",
+    "start": 1573,
+    "end": 1597
+  },
+  {
+    "entity": "this wound",
+    "label": "PROBLEM",
+    "start": 1601,
+    "end": 1611
+  },
+  {
+    "entity": "Diabetes mellitus",
+    "label": "PROBLEM",
+    "start": 1713,
+    "end": 1730
+  },
+  {
+    "entity": "Osteomyelitis",
+    "label": "PROBLEM",
+    "start": 1735,
+    "end": 1748
+  },
+  {
+    "entity": "antibiotic therapy",
+    "label": "DRUG",
+    "start": 1808,
+    "end": 1826
+  },
+  {
+    "entity": "heart attack",
+    "label": "PROBLEM",
+    "start": 1929,
+    "end": 1941
+  },
+  {
+    "entity": "liver cancer",
+    "label": "PROBLEM",
+    "start": 1954,
+    "end": 1966
+  },
+  {
+    "entity": "hypothyroidism",
+    "label": "PROBLEM",
+    "start": 2028,
+    "end": 2042
+  },
+  {
+    "entity": "cerebral palsy",
+    "label": "PROBLEM",
+    "start": 2064,
+    "end": 2078
+  },
+  {
+    "entity": "ALLERGIES",
+    "label": "PROBLEM",
+    "start": 2116,
+    "end": 2125
+  },
+  {
+    "entity": "known drug allergies",
+    "label": "PROBLEM",
+    "start": 2130,
+    "end": 2150
+  },
+  {
+    "entity": "any acute hemodynamic distress",
+    "label": "PROBLEM",
+    "start": 2350,
+    "end": 2380
+  },
+  {
+    "entity": "a maximum recorded temperature",
+    "label": "TEST",
+    "start": 2411,
+    "end": 2441
+  },
+  {
+    "entity": "pulse",
+    "label": "TEST",
+    "start": 2449,
+    "end": 2454
+  },
+  {
+    "entity": "respiratory rate",
+    "label": "TEST",
+    "start": 2494,
+    "end": 2510
+  },
+  {
+    "entity": "blood pressure",
+    "label": "TEST",
+    "start": 2529,
+    "end": 2543
+  },
+  {
+    "entity": "Extraocular movements",
+    "label": "TEST",
+    "start": 2628,
+    "end": 2649
+  },
+  {
+    "entity": "External ear exam",
+    "label": "TEST",
+    "start": 2681,
+    "end": 2698
+  },
+  {
+    "entity": "palpable lymphadenopathy",
+    "label": "PROBLEM",
+    "start": 2736,
+    "end": 2760
+  },
+  {
+    "entity": "rate",
+    "label": "TEST",
+    "start": 2786,
+    "end": 2790
+  },
+  {
+    "entity": "rhythm",
+    "label": "TEST",
+    "start": 2795,
+    "end": 2801
+  },
+  {
+    "entity": "any appreciable murmur",
+    "label": "PROBLEM",
+    "start": 2823,
+    "end": 2845
+  },
+  {
+    "entity": "rub",
+    "label": "PROBLEM",
+    "start": 2847,
+    "end": 2850
+  },
+  {
+    "entity": "gallop",
+    "label": "PROBLEM",
+    "start": 2854,
+    "end": 2860
+  },
+  {
+    "entity": "auscultation",
+    "label": "TEST",
+    "start": 2878,
+    "end": 2890
+  },
+  {
+    "entity": "percussion",
+    "label": "TEST",
+    "start": 2895,
+    "end": 2905
+  },
+  {
+    "entity": "any organomegaly",
+    "label": "PROBLEM",
+    "start": 2970,
+    "end": 2986
+  },
+  {
+    "entity": "palpable lymphadenopathy in the inguinal and femoral area",
+    "label": "PROBLEM",
+    "start": 3030,
+    "end": 3087
+  },
+  {
+    "entity": "cyanosis",
+    "label": "PROBLEM",
+    "start": 3114,
+    "end": 3122
+  },
+  {
+    "entity": "clubbing",
+    "label": "PROBLEM",
+    "start": 3124,
+    "end": 3132
+  },
+  {
+    "entity": "edema",
+    "label": "PROBLEM",
+    "start": 3136,
+    "end": 3141
+  },
+  {
+    "entity": "peripheral stigmata",
+    "label": "PROBLEM",
+    "start": 3155,
+    "end": 3174
+  },
+  {
+    "entity": "endocarditis",
+    "label": "PROBLEM",
+    "start": 3178,
+    "end": 3190
+  },
+  {
+    "entity": "a lacerated wound",
+    "label": "PROBLEM",
+    "start": 3268,
+    "end": 3285
+  },
+  {
+    "entity": "the wound",
+    "label": "PROBLEM",
+    "start": 3498,
+    "end": 3507
+  },
+  {
+    "entity": "osteomyelitis",
+    "label": "PROBLEM",
+    "start": 3600,
+    "end": 3613
+  },
+  {
+    "entity": "focal deficit",
+    "label": "PROBLEM",
+    "start": 3728,
+    "end": 3741
+  },
+  {
+    "entity": "laboratory or radiological data",
+    "label": "TEST",
+    "start": 3775,
+    "end": 3806
+  },
+  {
+    "entity": "diabetes mellitus",
+    "label": "PROBLEM",
+    "start": 3907,
+    "end": 3924
+  },
+  {
+    "entity": "an accidental lawn mower-associated injury on the right foot",
+    "label": "PROBLEM",
+    "start": 3933,
+    "end": 3993
+  },
+  {
+    "entity": "debridement",
+    "label": "TREATMENT",
+    "start": 4012,
+    "end": 4023
+  },
+  {
+    "entity": "Culture",
+    "label": "TEST",
+    "start": 4039,
+    "end": 4046
+  },
+  {
+    "entity": "the debridement procedure",
+    "label": "TREATMENT",
+    "start": 4060,
+    "end": 4085
+  },
+  {
+    "entity": "Wound cultures",
+    "label": "TEST",
+    "start": 4105,
+    "end": 4119
+  },
+  {
+    "entity": "methicillin-sensitive Staphylococcus aureus",
+    "label": "PROBLEM",
+    "start": 4143,
+    "end": 4186
+  },
+  {
+    "entity": "Right foot infected ulcer",
+    "label": "PROBLEM",
+    "start": 4327,
+    "end": 4352
+  },
+  {
+    "entity": "osteomyelitis",
+    "label": "PROBLEM",
+    "start": 4379,
+    "end": 4392
+  },
+  {
+    "entity": "the MRI and bone scan",
+    "label": "TEST",
+    "start": 4402,
+    "end": 4423
+  },
+  {
+    "entity": "Cultures",
+    "label": "TEST",
+    "start": 4518,
+    "end": 4526
+  },
+  {
+    "entity": "methicillin-sensitive Staphylococcus aureus",
+    "label": "PROBLEM",
+    "start": 4559,
+    "end": 4602
+  },
+  {
+    "entity": "antibiotic regimen",
+    "label": "DRUG",
+    "start": 4647,
+    "end": 4665
+  },
+  {
+    "entity": "Levaquin",
+    "label": "DRUG",
+    "start": 4674,
+    "end": 4682
+  },
+  {
+    "entity": "Zyvox",
+    "label": "DRUG",
+    "start": 4684,
+    "end": 4689
+  },
+  {
+    "entity": "Zosyn",
+    "label": "DRUG",
+    "start": 4707,
+    "end": 4712
+  },
+  {
+    "entity": "Ancef",
+    "label": "DRUG",
+    "start": 4751,
+    "end": 4756
+  },
+  {
+    "entity": "osteomyelitis",
+    "label": "PROBLEM",
+    "start": 4837,
+    "end": 4850
+  },
+  {
+    "entity": "deep wound infection",
+    "label": "PROBLEM",
+    "start": 4855,
+    "end": 4875
+  },
+  {
+    "entity": "wound care",
+    "label": "TREATMENT",
+    "start": 4916,
+    "end": 4926
+  },
+  {
+    "entity": "wound VAC placement",
+    "label": "TREATMENT",
+    "start": 4931,
+    "end": 4950
+  },
+  {
+    "entity": "a PICC line",
+    "label": "TREATMENT",
+    "start": 4990,
+    "end": 5001
+  },
+  {
+    "entity": "antibiotic therapy.",
+    "label": "DRUG",
+    "start": 5054,
+    "end": 5073
+  },
+  {
+    "entity": "labs",
+    "label": "TEST",
+    "start": 5092,
+    "end": 5096
+  },
+  {
+    "entity": "CBC",
+    "label": "TEST",
+    "start": 5107,
+    "end": 5110
+  },
+  {
+    "entity": "chemistry 7 panel",
+    "label": "TEST",
+    "start": 5130,
+    "end": 5147
+  },
+  {
+    "entity": "LFTs",
+    "label": "TEST",
+    "start": 5149,
+    "end": 5153
+  },
+  {
+    "entity": "ESR",
+    "label": "TEST",
+    "start": 5155,
+    "end": 5158
+  },
+  {
+    "entity": "C-reactive protein levels",
+    "label": "TEST",
+    "start": 5164,
+    "end": 5189
+  },
+  {
+    "entity": "chemistry 7 panel",
+    "label": "TEST",
+    "start": 5207,
+    "end": 5224
+  },
+  {
+    "entity": "CBC",
+    "label": "TEST",
+    "start": 5229,
+    "end": 5232
+  },
+  {
+    "entity": "antibiotic therapy",
+    "label": "DRUG",
+    "start": 5268,
+    "end": 5286
+  },
+  {
+    "entity": "Wound care",
+    "label": "TREATMENT",
+    "start": 5353,
+    "end": 5363
+  },
+  {
+    "entity": "Other medical problems",
+    "label": "PROBLEM",
+    "start": 5561,
+    "end": 5583
+  },
+  {
+    "entity": "the deep wound cultures",
+    "label": "PROBLEM",
+    "start": 5955,
+    "end": 5978
+  },
+  {
+    "entity": "MRI",
+    "label": "TEST",
+    "start": 5996,
+    "end": 5999
+  },
+  {
+    "entity": "bone scan",
+    "label": "TEST",
+    "start": 6005,
+    "end": 6014
+  },
+  {
+    "entity": "mssa",
+    "label": "PROBLEM",
+    "start": 6058,
+    "end": 6062
+  },
+  {
+    "entity": "methicillin-sensitive staphylococcus aureus",
+    "label": "PROBLEM",
+    "start": 6064,
+    "end": 6107
+  },
+  {
+    "entity": "antibiotic therapy,",
+    "label": "DRUG",
+    "start": 6121,
+    "end": 6140
+  },
+  {
+    "entity": "foot ulcer",
+    "label": "PROBLEM",
+    "start": 6141,
+    "end": 6151
+  },
+  {
+    "entity": "antibiotic management",
+    "label": "DRUG",
+    "start": 6153,
+    "end": 6174
+  },
+  {
+    "entity": "staphylococcus aureus",
+    "label": "PROBLEM",
+    "start": 6176,
+    "end": 6197
+  },
+  {
+    "entity": "antibiotic",
+    "label": "DRUG",
+    "start": 6211,
+    "end": 6221
+  },
+  {
+    "entity": "bone scan",
+    "label": "TEST",
+    "start": 6223,
+    "end": 6232
+  },
+  {
+    "entity": "antibiotic therapy",
+    "label": "DRUG",
+    "start": 6234,
+    "end": 6252
+  },
+  {
+    "entity": "wound care",
+    "label": "TREATMENT",
+    "start": 6254,
+    "end": 6264
+  },
+  {
+    "entity": "injured",
+    "label": "PROBLEM",
+    "start": 6266,
+    "end": 6273
+  },
+  {
+    "entity": "wound",
+    "label": "PROBLEM",
+    "start": 6275,
+    "end": 6280
+  },
+  {
+    "entity": "antibiotic",
+    "label": "DRUG",
+    "start": 6282,
+    "end": 6292
+  },
+  {
+    "entity": "osteomyelitis",
+    "label": "PROBLEM",
+    "start": 6294,
+    "end": 6307
+  }
+]

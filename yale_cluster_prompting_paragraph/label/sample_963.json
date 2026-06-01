@@ -1,0 +1,404 @@
+[
+  {
+    "entity": "Acute Cystitis",
+    "label": "PROBLEM",
+    "start": 63,
+    "end": 77
+  },
+  {
+    "entity": "Diabetes Type II",
+    "label": "PROBLEM",
+    "start": 80,
+    "end": 96
+  },
+  {
+    "entity": "abdominal pain",
+    "label": "PROBLEM",
+    "start": 137,
+    "end": 151
+  },
+  {
+    "entity": "diabetes",
+    "label": "PROBLEM",
+    "start": 184,
+    "end": 192
+  },
+  {
+    "entity": "Micronase",
+    "label": "DRUG",
+    "start": 206,
+    "end": 215
+  },
+  {
+    "entity": "abdominal pain",
+    "label": "PROBLEM",
+    "start": 338,
+    "end": 352
+  },
+  {
+    "entity": "diabetes",
+    "label": "PROBLEM",
+    "start": 402,
+    "end": 410
+  },
+  {
+    "entity": "Micronase",
+    "label": "DRUG",
+    "start": 433,
+    "end": 442
+  },
+  {
+    "entity": "ear abnormalities",
+    "label": "PROBLEM",
+    "start": 574,
+    "end": 591
+  },
+  {
+    "entity": "nose abnormalities",
+    "label": "PROBLEM",
+    "start": 593,
+    "end": 611
+  },
+  {
+    "entity": "throat abnormalities",
+    "label": "PROBLEM",
+    "start": 616,
+    "end": 636
+  },
+  {
+    "entity": "elevated cholesterol",
+    "label": "PROBLEM",
+    "start": 669,
+    "end": 689
+  },
+  {
+    "entity": "ASHD",
+    "label": "PROBLEM",
+    "start": 709,
+    "end": 713
+  },
+  {
+    "entity": "hypertension",
+    "label": "PROBLEM",
+    "start": 715,
+    "end": 727
+  },
+  {
+    "entity": "PVD",
+    "label": "PROBLEM",
+    "start": 732,
+    "end": 735
+  },
+  {
+    "entity": "asthma",
+    "label": "PROBLEM",
+    "start": 758,
+    "end": 764
+  },
+  {
+    "entity": "lung infections",
+    "label": "PROBLEM",
+    "start": 766,
+    "end": 781
+  },
+  {
+    "entity": "lung lesions",
+    "label": "PROBLEM",
+    "start": 786,
+    "end": 798
+  },
+  {
+    "entity": "colon abnormalities",
+    "label": "PROBLEM",
+    "start": 819,
+    "end": 838
+  },
+  {
+    "entity": "gall bladder problems",
+    "label": "PROBLEM",
+    "start": 840,
+    "end": 861
+  },
+  {
+    "entity": "liver abnormalities",
+    "label": "PROBLEM",
+    "start": 863,
+    "end": 882
+  },
+  {
+    "entity": "peptic ulcer disease",
+    "label": "PROBLEM",
+    "start": 887,
+    "end": 907
+  },
+  {
+    "entity": "Urinary tract disorder",
+    "label": "PROBLEM",
+    "start": 936,
+    "end": 958
+  },
+  {
+    "entity": "Bladder disorder",
+    "label": "PROBLEM",
+    "start": 978,
+    "end": 994
+  },
+  {
+    "entity": "Kidney disorder",
+    "label": "PROBLEM",
+    "start": 999,
+    "end": 1014
+  },
+  {
+    "entity": "diabetes",
+    "label": "PROBLEM",
+    "start": 1050,
+    "end": 1058
+  },
+  {
+    "entity": "hormonal irregularities",
+    "label": "PROBLEM",
+    "start": 1078,
+    "end": 1101
+  },
+  {
+    "entity": "thyroid abnormalities",
+    "label": "PROBLEM",
+    "start": 1106,
+    "end": 1127
+  },
+  {
+    "entity": "allergic reactions",
+    "label": "PROBLEM",
+    "start": 1157,
+    "end": 1175
+  },
+  {
+    "entity": "rashes",
+    "label": "PROBLEM",
+    "start": 1177,
+    "end": 1183
+  },
+  {
+    "entity": "skin lesions",
+    "label": "PROBLEM",
+    "start": 1188,
+    "end": 1200
+  },
+  {
+    "entity": "Micronase",
+    "label": "DRUG",
+    "start": 1208,
+    "end": 1217
+  },
+  {
+    "entity": "Bactrim",
+    "label": "DRUG",
+    "start": 1241,
+    "end": 1248
+  },
+  {
+    "entity": "Vital Signs",
+    "label": "TEST",
+    "start": 1475,
+    "end": 1486
+  },
+  {
+    "entity": "Height",
+    "label": "TEST",
+    "start": 1488,
+    "end": 1494
+  },
+  {
+    "entity": "Weight",
+    "label": "TEST",
+    "start": 1504,
+    "end": 1510
+  },
+  {
+    "entity": "Upright BP",
+    "label": "TEST",
+    "start": 1521,
+    "end": 1531
+  },
+  {
+    "entity": "Pulse",
+    "label": "TEST",
+    "start": 1547,
+    "end": 1552
+  },
+  {
+    "entity": "Resp",
+    "label": "TEST",
+    "start": 1563,
+    "end": 1567
+  },
+  {
+    "entity": "jugular venous distension",
+    "label": "PROBLEM",
+    "start": 1635,
+    "end": 1660
+  },
+  {
+    "entity": "auscultation",
+    "label": "TEST",
+    "start": 1789,
+    "end": 1801
+  },
+  {
+    "entity": "percussion",
+    "label": "TEST",
+    "start": 1806,
+    "end": 1816
+  },
+  {
+    "entity": "rhythm",
+    "label": "TEST",
+    "start": 1845,
+    "end": 1851
+  },
+  {
+    "entity": "SI",
+    "label": "TEST",
+    "start": 1853,
+    "end": 1855
+  },
+  {
+    "entity": "S2",
+    "label": "TEST",
+    "start": 1860,
+    "end": 1862
+  },
+  {
+    "entity": "abnormal heart sounds",
+    "label": "PROBLEM",
+    "start": 1878,
+    "end": 1899
+  },
+  {
+    "entity": "Blood pressure",
+    "label": "TEST",
+    "start": 1914,
+    "end": 1928
+  },
+  {
+    "entity": "bowel sounds",
+    "label": "TEST",
+    "start": 1967,
+    "end": 1979
+  },
+  {
+    "entity": "organomegaly",
+    "label": "PROBLEM",
+    "start": 2048,
+    "end": 2060
+  },
+  {
+    "entity": "CVA tenderness",
+    "label": "PROBLEM",
+    "start": 2074,
+    "end": 2088
+  },
+  {
+    "entity": "hernias",
+    "label": "PROBLEM",
+    "start": 2093,
+    "end": 2100
+  },
+  {
+    "entity": "clubbing",
+    "label": "PROBLEM",
+    "start": 2137,
+    "end": 2145
+  },
+  {
+    "entity": "cyanosis",
+    "label": "PROBLEM",
+    "start": 2147,
+    "end": 2155
+  },
+  {
+    "entity": "edema",
+    "label": "PROBLEM",
+    "start": 2160,
+    "end": 2165
+  },
+  {
+    "entity": "Diabetes type II uncontrolled",
+    "label": "PROBLEM",
+    "start": 2179,
+    "end": 2208
+  },
+  {
+    "entity": "Acute cystitis",
+    "label": "PROBLEM",
+    "start": 2210,
+    "end": 2224
+  },
+  {
+    "entity": "complete CBC",
+    "label": "TEST",
+    "start": 2255,
+    "end": 2267
+  },
+  {
+    "entity": "Micronase",
+    "label": "DRUG",
+    "start": 2273,
+    "end": 2282
+  },
+  {
+    "entity": "Bactrim",
+    "label": "DRUG",
+    "start": 2306,
+    "end": 2313
+  },
+  {
+    "entity": "bactrim",
+    "label": "DRUG",
+    "start": 2365,
+    "end": 2372
+  },
+  {
+    "entity": "micronase",
+    "label": "DRUG",
+    "start": 2374,
+    "end": 2383
+  },
+  {
+    "entity": "abdominal pain",
+    "label": "PROBLEM",
+    "start": 2385,
+    "end": 2399
+  },
+  {
+    "entity": "cbc",
+    "label": "TEST",
+    "start": 2416,
+    "end": 2419
+  },
+  {
+    "entity": "diabetes type ii",
+    "label": "PROBLEM",
+    "start": 2421,
+    "end": 2437
+  },
+  {
+    "entity": "acute cystitis",
+    "label": "PROBLEM",
+    "start": 2439,
+    "end": 2453
+  },
+  {
+    "entity": "diabetes",
+    "label": "PROBLEM",
+    "start": 2455,
+    "end": 2463
+  },
+  {
+    "entity": "abnormalities",
+    "label": "PROBLEM",
+    "start": 2465,
+    "end": 2478
+  }
+]

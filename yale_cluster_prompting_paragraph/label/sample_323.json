@@ -1,0 +1,296 @@
+[
+  {
+    "entity": "Female Physical Exam",
+    "label": "TEST",
+    "start": 63,
+    "end": 83
+  },
+  {
+    "entity": "female physical exam",
+    "label": "TEST",
+    "start": 108,
+    "end": 128
+  },
+  {
+    "entity": "Extraocular movements",
+    "label": "TEST",
+    "start": 264,
+    "end": 285
+  },
+  {
+    "entity": "erythema",
+    "label": "PROBLEM",
+    "start": 376,
+    "end": 384
+  },
+  {
+    "entity": "exudate",
+    "label": "PROBLEM",
+    "start": 388,
+    "end": 395
+  },
+  {
+    "entity": "lymphadenopathy",
+    "label": "PROBLEM",
+    "start": 418,
+    "end": 433
+  },
+  {
+    "entity": "thyromegaly",
+    "label": "PROBLEM",
+    "start": 437,
+    "end": 448
+  },
+  {
+    "entity": "jugular venous distention",
+    "label": "PROBLEM",
+    "start": 483,
+    "end": 508
+  },
+  {
+    "entity": "auscultation",
+    "label": "TEST",
+    "start": 526,
+    "end": 538
+  },
+  {
+    "entity": "rate",
+    "label": "TEST",
+    "start": 576,
+    "end": 580
+  },
+  {
+    "entity": "rhythm",
+    "label": "TEST",
+    "start": 585,
+    "end": 591
+  },
+  {
+    "entity": "S3",
+    "label": "PROBLEM",
+    "start": 600,
+    "end": 602
+  },
+  {
+    "entity": "S4",
+    "label": "PROBLEM",
+    "start": 604,
+    "end": 606
+  },
+  {
+    "entity": "murmurs",
+    "label": "PROBLEM",
+    "start": 611,
+    "end": 618
+  },
+  {
+    "entity": "rubs",
+    "label": "PROBLEM",
+    "start": 622,
+    "end": 626
+  },
+  {
+    "entity": "Peripheral pulses",
+    "label": "TEST",
+    "start": 644,
+    "end": 661
+  },
+  {
+    "entity": "bowel sounds",
+    "label": "TEST",
+    "start": 769,
+    "end": 781
+  },
+  {
+    "entity": "masses",
+    "label": "PROBLEM",
+    "start": 786,
+    "end": 792
+  },
+  {
+    "entity": "hepatomegaly",
+    "label": "PROBLEM",
+    "start": 794,
+    "end": 806
+  },
+  {
+    "entity": "splenomegaly",
+    "label": "PROBLEM",
+    "start": 810,
+    "end": 822
+  },
+  {
+    "entity": "Speculum exam",
+    "label": "TEST",
+    "start": 886,
+    "end": 899
+  },
+  {
+    "entity": "Bimanual exam",
+    "label": "TEST",
+    "start": 969,
+    "end": 982
+  },
+  {
+    "entity": "masses",
+    "label": "PROBLEM",
+    "start": 1052,
+    "end": 1058
+  },
+  {
+    "entity": "cervical motion tenderness",
+    "label": "PROBLEM",
+    "start": 1084,
+    "end": 1110
+  },
+  {
+    "entity": "rectal tone",
+    "label": "TEST",
+    "start": 1132,
+    "end": 1143
+  },
+  {
+    "entity": "masses",
+    "label": "PROBLEM",
+    "start": 1148,
+    "end": 1154
+  },
+  {
+    "entity": "Hemoccult",
+    "label": "TEST",
+    "start": 1172,
+    "end": 1181
+  },
+  {
+    "entity": "clubbing",
+    "label": "PROBLEM",
+    "start": 1218,
+    "end": 1226
+  },
+  {
+    "entity": "cyanosis",
+    "label": "PROBLEM",
+    "start": 1228,
+    "end": 1236
+  },
+  {
+    "entity": "edema",
+    "label": "PROBLEM",
+    "start": 1241,
+    "end": 1246
+  },
+  {
+    "entity": "tenosynovitis",
+    "label": "PROBLEM",
+    "start": 1271,
+    "end": 1284
+  },
+  {
+    "entity": "lumps",
+    "label": "PROBLEM",
+    "start": 1330,
+    "end": 1335
+  },
+  {
+    "entity": "masses",
+    "label": "PROBLEM",
+    "start": 1339,
+    "end": 1345
+  },
+  {
+    "entity": "skin changes over the breasts",
+    "label": "PROBLEM",
+    "start": 1360,
+    "end": 1389
+  },
+  {
+    "entity": "masses",
+    "label": "PROBLEM",
+    "start": 1411,
+    "end": 1417
+  },
+  {
+    "entity": "Motor strength",
+    "label": "TEST",
+    "start": 1481,
+    "end": 1495
+  },
+  {
+    "entity": "Deep tendon reflexes",
+    "label": "TEST",
+    "start": 1538,
+    "end": 1558
+  },
+  {
+    "entity": "lesions",
+    "label": "PROBLEM",
+    "start": 1676,
+    "end": 1683
+  },
+  {
+    "entity": "rashes",
+    "label": "PROBLEM",
+    "start": 1687,
+    "end": 1693
+  },
+  {
+    "entity": "female physical examination",
+    "label": "TEST",
+    "start": 1723,
+    "end": 1750
+  },
+  {
+    "entity": "bimanual exam",
+    "label": "TEST",
+    "start": 1752,
+    "end": 1765
+  },
+  {
+    "entity": "hemoccult",
+    "label": "TEST",
+    "start": 1774,
+    "end": 1783
+  },
+  {
+    "entity": "joint exam",
+    "label": "TEST",
+    "start": 1881,
+    "end": 1891
+  },
+  {
+    "entity": "lymphadenopathy",
+    "label": "TEST",
+    "start": 1893,
+    "end": 1908
+  },
+  {
+    "entity": "physical examination",
+    "label": "TEST",
+    "start": 1928,
+    "end": 1948
+  },
+  {
+    "entity": "rectal exam",
+    "label": "TEST",
+    "start": 1950,
+    "end": 1961
+  },
+  {
+    "entity": "skin changes",
+    "label": "PROBLEM",
+    "start": 1963,
+    "end": 1975
+  },
+  {
+    "entity": "speculum exam",
+    "label": "TEST",
+    "start": 1977,
+    "end": 1990
+  },
+  {
+    "entity": "masses",
+    "label": "PROBLEM",
+    "start": 2022,
+    "end": 2028
+  }
+]

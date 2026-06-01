@@ -1,0 +1,599 @@
+[
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "tricuspid regurgitation": "PROBLEM"
+  },
+  {
+    "pulmonary hypertension": "PROBLEM"
+  },
+  {
+    "aortic stenosis": "PROBLEM"
+  },
+  {
+    "mitral regurgitation": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "tricuspid regurgitation": "PROBLEM"
+  },
+  {
+    "pulmonary hypertension": "PROBLEM"
+  },
+  {
+    "aortic stenosis": "PROBLEM"
+  },
+  {
+    "mitral regurgitation": "PROBLEM"
+  },
+  {
+    "atrial fibrillation": "PROBLEM"
+  },
+  {
+    "fall": "PROBLEM"
+  },
+  {
+    "cardiology consultation": "TEST"
+  },
+  {
+    "left side": "PROBLEM"
+  },
+  {
+    "atrial tachyarrhythmia": "PROBLEM"
+  },
+  {
+    "Cardizem": "DRUG"
+  },
+  {
+    "heart rate": "TEST"
+  },
+  {
+    "EKGs": "TEST"
+  },
+  {
+    "multifocal atrial tachycardia": "PROBLEM"
+  },
+  {
+    "EKG": "TEST"
+  },
+  {
+    "wandering atrial pacemaker": "PROBLEM"
+  },
+  {
+    "ECG": "TEST"
+  },
+  {
+    "normal sinus rhythm": "PROBLEM"
+  },
+  {
+    "APCs": "PROBLEM"
+  },
+  {
+    "potassium": "TEST"
+  },
+  {
+    "palpitations": "PROBLEM"
+  },
+  {
+    "pain": "PROBLEM"
+  },
+  {
+    "fall": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "fall": "PROBLEM"
+  },
+  {
+    "problems": "PROBLEM"
+  },
+  {
+    "tricuspid regurgitation": "PROBLEM"
+  },
+  {
+    "PA pressure": "TEST"
+  },
+  {
+    "left ventricular systolic function": "TEST"
+  },
+  {
+    "right ventricular systolic function": "TEST"
+  },
+  {
+    "aortic sclerosis": "PROBLEM"
+  },
+  {
+    "aortic stenosis": "PROBLEM"
+  },
+  {
+    "bi-atrial enlargement": "PROBLEM"
+  },
+  {
+    "Persantine Myoview nuclear rest-stress test scan": "TEST"
+  },
+  {
+    "mitral valve regurgitation": "PROBLEM"
+  },
+  {
+    "echocardiogram": "TEST"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "EKGs": "TEST"
+  },
+  {
+    "normal sinus rhythm": "PROBLEM"
+  },
+  {
+    "APCs": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "dizzy spells": "PROBLEM"
+  },
+  {
+    "syncope": "PROBLEM"
+  },
+  {
+    "bradycardia": "PROBLEM"
+  },
+  {
+    "beta-blocker": "DRUG"
+  },
+  {
+    "Multivitamin": "DRUG"
+  },
+  {
+    "Aspirin": "DRUG"
+  },
+  {
+    "Lisinopril": "DRUG"
+  },
+  {
+    "Felodipine": "DRUG"
+  },
+  {
+    "Klor-Con": "DRUG"
+  },
+  {
+    "Omeprazole": "DRUG"
+  },
+  {
+    "GERD": "PROBLEM"
+  },
+  {
+    "MiraLax": "DRUG"
+  },
+  {
+    "Lasix": "DRUG"
+  },
+  {
+    "PENICILLIN": "DRUG"
+  },
+  {
+    "TOPROL": "DRUG"
+  },
+  {
+    "SHORTNESS OF BREATH": "PROBLEM"
+  },
+  {
+    "BRADYCARDIA": "PROBLEM"
+  },
+  {
+    "MI": "PROBLEM"
+  },
+  {
+    "cigarettes": "DRUG"
+  },
+  {
+    "alcohol": "DRUG"
+  },
+  {
+    "drugs": "DRUG"
+  },
+  {
+    "stroke": "PROBLEM"
+  },
+  {
+    "cancer": "PROBLEM"
+  },
+  {
+    "vomiting of blood": "PROBLEM"
+  },
+  {
+    "coughing up blood": "PROBLEM"
+  },
+  {
+    "bright red blood per rectum": "PROBLEM"
+  },
+  {
+    "bleeding": "PROBLEM"
+  },
+  {
+    "stomach ulcers": "PROBLEM"
+  },
+  {
+    "renal calculi": "PROBLEM"
+  },
+  {
+    "cholelithiasis": "PROBLEM"
+  },
+  {
+    "asthma": "PROBLEM"
+  },
+  {
+    "emphysema": "PROBLEM"
+  },
+  {
+    "pneumonia": "PROBLEM"
+  },
+  {
+    "tuberculosis": "PROBLEM"
+  },
+  {
+    "sleep apnea": "PROBLEM"
+  },
+  {
+    "home oxygen use": "TREATMENT"
+  },
+  {
+    "peripheral edema": "PROBLEM"
+  },
+  {
+    "MI": "PROBLEM"
+  },
+  {
+    "diabetes": "PROBLEM"
+  },
+  {
+    "GERD": "PROBLEM"
+  },
+  {
+    "depressed": "PROBLEM"
+  },
+  {
+    "rheumatologic conditions": "PROBLEM"
+  },
+  {
+    "psoriasis": "PROBLEM"
+  },
+  {
+    "lupus": "PROBLEM"
+  },
+  {
+    "PHYSICAL EXAM": "TEST"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "pulses": "TEST"
+  },
+  {
+    "pulse": "TEST"
+  },
+  {
+    "respiratory rate": "TEST"
+  },
+  {
+    "O2 saturation": "TEST"
+  },
+  {
+    "hard of hearing": "PROBLEM"
+  },
+  {
+    "cranium": "TEST"
+  },
+  {
+    "mucosal membranes": "PROBLEM"
+  },
+  {
+    "Neck veins": "TEST"
+  },
+  {
+    "carotid bruits": "PROBLEM"
+  },
+  {
+    "Lungs": "TEST"
+  },
+  {
+    "auscultation": "TEST"
+  },
+  {
+    "wheezes": "PROBLEM"
+  },
+  {
+    "left hip fracture": "PROBLEM"
+  },
+  {
+    "S1": "TEST"
+  },
+  {
+    "S2": "TEST"
+  },
+  {
+    "ectopic beats": "PROBLEM"
+  },
+  {
+    "systolic ejection murmur": "PROBLEM"
+  },
+  {
+    "aortic component": "PROBLEM"
+  },
+  {
+    "holosystolic murmur": "PROBLEM"
+  },
+  {
+    "PMI": "PROBLEM"
+  },
+  {
+    "Abdomen": "PROBLEM"
+  },
+  {
+    "Bowel sounds": "PROBLEM"
+  },
+  {
+    "clubbing": "PROBLEM"
+  },
+  {
+    "cyanosis": "PROBLEM"
+  },
+  {
+    "peripheral edema": "PROBLEM"
+  },
+  {
+    "Pulses": "TEST"
+  },
+  {
+    "skin": "PROBLEM"
+  },
+  {
+    "left hip fracture": "PROBLEM"
+  },
+  {
+    "chest x-ray": "TEST"
+  },
+  {
+    "radiology report": "TEST"
+  },
+  {
+    "calcified aortic knob": "PROBLEM"
+  },
+  {
+    "pulmonary vascular congestion": "PROBLEM"
+  },
+  {
+    "Sodium": "TEST"
+  },
+  {
+    "potassium": "TEST"
+  },
+  {
+    "chloride": "TEST"
+  },
+  {
+    "bicarbonate": "TEST"
+  },
+  {
+    "BUN": "TEST"
+  },
+  {
+    "creatinine": "TEST"
+  },
+  {
+    "glucose": "TEST"
+  },
+  {
+    "magnesium": "TEST"
+  },
+  {
+    "Troponin": "TEST"
+  },
+  {
+    "INR": "TEST"
+  },
+  {
+    "white blood cell count": "TEST"
+  },
+  {
+    "hematocrit": "TEST"
+  },
+  {
+    "platelet count": "TEST"
+  },
+  {
+    "EKGs": "TEST"
+  },
+  {
+    "EKG": "TEST"
+  },
+  {
+    "MAT": "PROBLEM"
+  },
+  {
+    "heart rate": "TEST"
+  },
+  {
+    "EKG": "TEST"
+  },
+  {
+    "wandering atrial pacemaker": "PROBLEM"
+  },
+  {
+    "T-wave changes": "PROBLEM"
+  },
+  {
+    "EKG": "TEST"
+  },
+  {
+    "normal sinus rhythm": "PROBLEM"
+  },
+  {
+    "APCs": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "tricuspid regurgitation": "PROBLEM"
+  },
+  {
+    "pulmonary hypertension": "PROBLEM"
+  },
+  {
+    "aortic stenosis": "PROBLEM"
+  },
+  {
+    "fall": "PROBLEM"
+  },
+  {
+    "left hip fracture": "PROBLEM"
+  },
+  {
+    "surgery": "TREATMENT"
+  },
+  {
+    "Telemetry": "TEST"
+  },
+  {
+    "sinus rhythm": "PROBLEM"
+  },
+  {
+    "APCs": "PROBLEM"
+  },
+  {
+    "multifocal atrial tachycardia": "PROBLEM"
+  },
+  {
+    "hypokalemia": "PROBLEM"
+  },
+  {
+    "atrial fibrillation": "PROBLEM"
+  },
+  {
+    "troponins": "TEST"
+  },
+  {
+    "stress": "PROBLEM"
+  },
+  {
+    "fall": "PROBLEM"
+  },
+  {
+    "multifocal atrial tachycardia": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "fall": "PROBLEM"
+  },
+  {
+    "left hip surgery": "TREATMENT"
+  },
+  {
+    "verapamil": "DRUG"
+  },
+  {
+    "multifocal atrial tachycardia": "PROBLEM"
+  },
+  {
+    "heart rate": "TEST"
+  },
+  {
+    "electrolytes": "TEST"
+  },
+  {
+    "beta-blockers": "DRUG"
+  },
+  {
+    "Toprol": "DRUG"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "bradycardia": "PROBLEM"
+  },
+  {
+    "heart rate": "TEST"
+  },
+  {
+    "verapamil": "DRUG"
+  },
+  {
+    "cardiac risks": "PROBLEM"
+  },
+  {
+    "surgery": "TREATMENT"
+  },
+  {
+    "thrombocytopenia": "PROBLEM"
+  },
+  {
+    "proton pump inhibitors": "DRUG"
+  },
+  {
+    "gastroesophageal reflux disease": "PROBLEM"
+  },
+  {
+    "left hip fracture": "PROBLEM"
+  },
+  {
+    "hypokalemia": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "atrial tachycardia": "PROBLEM"
+  },
+  {
+    "sinus rhythm": "PROBLEM"
+  },
+  {
+    "hip fracture": "PROBLEM"
+  },
+  {
+    "atrial": "PROBLEM"
+  },
+  {
+    "tachycardia": "PROBLEM"
+  },
+  {
+    "rhythm": "PROBLEM"
+  },
+  {
+    "apcs": "TEST"
+  },
+  {
+    "cardiac": "PROBLEM"
+  },
+  {
+    "regurgitation": "PROBLEM"
+  },
+  {
+    "aortic": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "pulmonary": "PROBLEM"
+  }
+]

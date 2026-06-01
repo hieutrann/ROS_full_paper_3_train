@@ -1,0 +1,176 @@
+[
+  {
+    "entity": "Back & Leg Pain",
+    "label": "PROBLEM",
+    "start": 65,
+    "end": 80
+  },
+  {
+    "entity": "Bilateral l5 spondylolysis",
+    "label": "PROBLEM",
+    "start": 117,
+    "end": 143
+  },
+  {
+    "entity": "pars defects",
+    "label": "PROBLEM",
+    "start": 149,
+    "end": 161
+  },
+  {
+    "entity": "spinal instability",
+    "label": "PROBLEM",
+    "start": 166,
+    "end": 184
+  },
+  {
+    "entity": "radiculopathy",
+    "label": "PROBLEM",
+    "start": 190,
+    "end": 203
+  },
+  {
+    "entity": "Chronic pain syndrome",
+    "label": "PROBLEM",
+    "start": 205,
+    "end": 226
+  },
+  {
+    "entity": "Bilateral l5 spondylolysis",
+    "label": "PROBLEM",
+    "start": 289,
+    "end": 315
+  },
+  {
+    "entity": "pars defects",
+    "label": "PROBLEM",
+    "start": 321,
+    "end": 333
+  },
+  {
+    "entity": "spinal instability",
+    "label": "PROBLEM",
+    "start": 338,
+    "end": 356
+  },
+  {
+    "entity": "radiculopathy",
+    "label": "PROBLEM",
+    "start": 362,
+    "end": 375
+  },
+  {
+    "entity": "Chronic pain syndrome",
+    "label": "PROBLEM",
+    "start": 399,
+    "end": 420
+  },
+  {
+    "entity": "L5 Gill procedure",
+    "label": "TREATMENT",
+    "start": 445,
+    "end": 462
+  },
+  {
+    "entity": "bone graft",
+    "label": "TREATMENT",
+    "start": 552,
+    "end": 562
+  },
+  {
+    "entity": "recombinant bone morphogenic protein",
+    "label": "TREATMENT",
+    "start": 564,
+    "end": 600
+  },
+  {
+    "entity": "pedicle fixation",
+    "label": "TREATMENT",
+    "start": 606,
+    "end": 622
+  },
+  {
+    "entity": "longstanding back, buttock, and bilateral leg pain",
+    "label": "PROBLEM",
+    "start": 741,
+    "end": 791
+  },
+  {
+    "entity": "bilateral pars defects",
+    "label": "PROBLEM",
+    "start": 828,
+    "end": 850
+  },
+  {
+    "entity": "spondylolysis",
+    "label": "PROBLEM",
+    "start": 865,
+    "end": 878
+  },
+  {
+    "entity": "instability",
+    "label": "PROBLEM",
+    "start": 883,
+    "end": 894
+  },
+  {
+    "entity": "an uncomplicated surgical procedure",
+    "label": "TREATMENT",
+    "start": 926,
+    "end": 961
+  },
+  {
+    "entity": "His wounds",
+    "label": "PROBLEM",
+    "start": 1092,
+    "end": 1102
+  },
+  {
+    "entity": "Discharge medications",
+    "label": "DRUG",
+    "start": 1195,
+    "end": 1216
+  },
+  {
+    "entity": "pain medication",
+    "label": "DRUG",
+    "start": 1249,
+    "end": 1264
+  },
+  {
+    "entity": "other medications",
+    "label": "DRUG",
+    "start": 1276,
+    "end": 1293
+  },
+  {
+    "entity": "chronic pain syndrome",
+    "label": "PROBLEM",
+    "start": 1533,
+    "end": 1554
+  },
+  {
+    "entity": "spinal instability",
+    "label": "PROBLEM",
+    "start": 1556,
+    "end": 1574
+  },
+  {
+    "entity": "pars defects",
+    "label": "PROBLEM",
+    "start": 1576,
+    "end": 1588
+  },
+  {
+    "entity": "radiculopathy",
+    "label": "PROBLEM",
+    "start": 1590,
+    "end": 1603
+  },
+  {
+    "entity": "spondylolysis",
+    "label": "PROBLEM",
+    "start": 1605,
+    "end": 1618
+  }
+]

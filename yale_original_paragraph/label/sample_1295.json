@@ -1,0 +1,332 @@
+[
+  {
+    "entity": "Bronchiolitis",
+    "label": "PROBLEM",
+    "start": 64,
+    "end": 77
+  },
+  {
+    "entity": "Bronchiolitis",
+    "label": "PROBLEM",
+    "start": 111,
+    "end": 124
+  },
+  {
+    "entity": "respiratory syncytial virus",
+    "label": "PROBLEM",
+    "start": 126,
+    "end": 153
+  },
+  {
+    "entity": "Innocent heart murmur",
+    "label": "PROBLEM",
+    "start": 185,
+    "end": 206
+  },
+  {
+    "entity": "Bronchiolitis",
+    "label": "PROBLEM",
+    "start": 268,
+    "end": 281
+  },
+  {
+    "entity": "respiratory syncytial virus",
+    "label": "PROBLEM",
+    "start": 283,
+    "end": 310
+  },
+  {
+    "entity": "Innocent heart murmur",
+    "label": "PROBLEM",
+    "start": 345,
+    "end": 366
+  },
+  {
+    "entity": "an acute onset of congestion",
+    "label": "PROBLEM",
+    "start": 422,
+    "end": 450
+  },
+  {
+    "entity": "RSV",
+    "label": "PROBLEM",
+    "start": 472,
+    "end": 475
+  },
+  {
+    "entity": "acute bronchiolitis",
+    "label": "PROBLEM",
+    "start": 529,
+    "end": 548
+  },
+  {
+    "entity": "RSV bronchiolitis",
+    "label": "PROBLEM",
+    "start": 679,
+    "end": 696
+  },
+  {
+    "entity": "illness",
+    "label": "PROBLEM",
+    "start": 743,
+    "end": 750
+  },
+  {
+    "entity": "not quite eating well",
+    "label": "PROBLEM",
+    "start": 845,
+    "end": 866
+  },
+  {
+    "entity": "a heart murmur",
+    "label": "PROBLEM",
+    "start": 973,
+    "end": 987
+  },
+  {
+    "entity": "chest x-ray",
+    "label": "TEST",
+    "start": 1047,
+    "end": 1058
+  },
+  {
+    "entity": "a chest x-ray",
+    "label": "TEST",
+    "start": 1092,
+    "end": 1105
+  },
+  {
+    "entity": "a slight perihilar infiltrate in the right upper lobe",
+    "label": "PROBLEM",
+    "start": 1122,
+    "end": 1175
+  },
+  {
+    "entity": "complications",
+    "label": "PROBLEM",
+    "start": 1265,
+    "end": 1278
+  },
+  {
+    "entity": "signs and symptoms",
+    "label": "PROBLEM",
+    "start": 1452,
+    "end": 1470
+  },
+  {
+    "entity": "increased respiratory distress",
+    "label": "PROBLEM",
+    "start": 1474,
+    "end": 1504
+  },
+  {
+    "entity": "tachypnea",
+    "label": "PROBLEM",
+    "start": 1521,
+    "end": 1530
+  },
+  {
+    "entity": "increased retractions",
+    "label": "PROBLEM",
+    "start": 1532,
+    "end": 1553
+  },
+  {
+    "entity": "grunting",
+    "label": "PROBLEM",
+    "start": 1555,
+    "end": 1563
+  },
+  {
+    "entity": "nasal flaring",
+    "label": "PROBLEM",
+    "start": 1565,
+    "end": 1578
+  },
+  {
+    "entity": "albuterol",
+    "label": "DRUG",
+    "start": 1659,
+    "end": 1668
+  },
+  {
+    "entity": "any significant respiratory distress",
+    "label": "PROBLEM",
+    "start": 1805,
+    "end": 1841
+  },
+  {
+    "entity": "Vital signs",
+    "label": "TEST",
+    "start": 1950,
+    "end": 1961
+  },
+  {
+    "entity": "acute distress",
+    "label": "PROBLEM",
+    "start": 2043,
+    "end": 2057
+  },
+  {
+    "entity": "some upper airway congestion",
+    "label": "PROBLEM",
+    "start": 2123,
+    "end": 2151
+  },
+  {
+    "entity": "rate",
+    "label": "TEST",
+    "start": 2177,
+    "end": 2181
+  },
+  {
+    "entity": "rhythm",
+    "label": "TEST",
+    "start": 2186,
+    "end": 2192
+  },
+  {
+    "entity": "2-3/6 systolic murmur",
+    "label": "PROBLEM",
+    "start": 2200,
+    "end": 2221
+  },
+  {
+    "entity": "Her femoral pulses",
+    "label": "TEST",
+    "start": 2283,
+    "end": 2301
+  },
+  {
+    "entity": "some slight coarseness",
+    "label": "PROBLEM",
+    "start": 2412,
+    "end": 2434
+  },
+  {
+    "entity": "any wheezes",
+    "label": "PROBLEM",
+    "start": 2502,
+    "end": 2513
+  },
+  {
+    "entity": "a few scattered crackles at bilateral bases",
+    "label": "PROBLEM",
+    "start": 2546,
+    "end": 2589
+  },
+  {
+    "entity": "any respiratory distress",
+    "label": "PROBLEM",
+    "start": 2608,
+    "end": 2632
+  },
+  {
+    "entity": "bowel sounds",
+    "label": "TEST",
+    "start": 2671,
+    "end": 2683
+  },
+  {
+    "entity": "Her weight",
+    "label": "TEST",
+    "start": 2765,
+    "end": 2775
+  },
+  {
+    "entity": "sick",
+    "label": "PROBLEM",
+    "start": 3053,
+    "end": 3057
+  },
+  {
+    "entity": "frequent hand washings",
+    "label": "TREATMENT",
+    "start": 3104,
+    "end": 3126
+  },
+  {
+    "entity": "breast-feeding",
+    "label": "TREATMENT",
+    "start": 3157,
+    "end": 3171
+  },
+  {
+    "entity": "albuterol",
+    "label": "DRUG",
+    "start": 3257,
+    "end": 3266
+  },
+  {
+    "entity": "cough",
+    "label": "PROBLEM",
+    "start": 3296,
+    "end": 3301
+  },
+  {
+    "entity": "wheezes",
+    "label": "PROBLEM",
+    "start": 3303,
+    "end": 3310
+  },
+  {
+    "entity": "dyspnea",
+    "label": "PROBLEM",
+    "start": 3314,
+    "end": 3321
+  },
+  {
+    "entity": "bulb suctioning the nose with saline",
+    "label": "TREATMENT",
+    "start": 3378,
+    "end": 3414
+  },
+  {
+    "entity": "difficulty breathing",
+    "label": "PROBLEM",
+    "start": 3486,
+    "end": 3506
+  },
+  {
+    "entity": "she stops breathing",
+    "label": "PROBLEM",
+    "start": 3511,
+    "end": 3530
+  },
+  {
+    "entity": "she does not want to eat",
+    "label": "PROBLEM",
+    "start": 3551,
+    "end": 3575
+  },
+  {
+    "entity": "bronchiolitis",
+    "label": "PROBLEM",
+    "start": 3606,
+    "end": 3619
+  },
+  {
+    "entity": "respiratory syncytial virus",
+    "label": "PROBLEM",
+    "start": 3621,
+    "end": 3648
+  },
+  {
+    "entity": "syncytial virus",
+    "label": "PROBLEM",
+    "start": 3703,
+    "end": 3718
+  },
+  {
+    "entity": "heart murmur",
+    "label": "PROBLEM",
+    "start": 3720,
+    "end": 3732
+  },
+  {
+    "entity": "respiratory distress",
+    "label": "PROBLEM",
+    "start": 3734,
+    "end": 3754
+  }
+]

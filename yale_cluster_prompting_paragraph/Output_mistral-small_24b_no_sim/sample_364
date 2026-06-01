@@ -1,0 +1,158 @@
+[
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "midchest pain": "PROBLEM"
+  },
+  {
+    "back": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "diaphoresis": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "foot surgery": "TREATMENT"
+  },
+  {
+    "EKG": "TEST"
+  },
+  {
+    "Reactive airway disease": "PROBLEM"
+  },
+  {
+    "rheumatoid arthritis": "PROBLEM"
+  },
+  {
+    "surgery": "TREATMENT"
+  },
+  {
+    "hands": "PROBLEM"
+  },
+  {
+    "feet": "PROBLEM"
+  },
+  {
+    "gravida": "PROBLEM"
+  },
+  {
+    "para": "PROBLEM"
+  },
+  {
+    "twins": "PROBLEM"
+  },
+  {
+    "vaginal deliveries": "PROBLEM"
+  },
+  {
+    "iron deficiency anemia": "PROBLEM"
+  },
+  {
+    "osteoporosis": "PROBLEM"
+  },
+  {
+    "hypothyroidism": "PROBLEM"
+  },
+  {
+    "Methotrexate": "DRUG"
+  },
+  {
+    "Fosamax": "DRUG"
+  },
+  {
+    "folic acid": "DRUG"
+  },
+  {
+    "amitriptyline": "DRUG"
+  },
+  {
+    "Synthroid": "DRUG"
+  },
+  {
+    "calcium": "DRUG"
+  },
+  {
+    "multivitamin": "DRUG"
+  },
+  {
+    "baby aspirin": "DRUG"
+  },
+  {
+    "Colace": "DRUG"
+  },
+  {
+    "Vital Signs": "TEST"
+  },
+  {
+    "Weight": "TEST"
+  },
+  {
+    "Blood pressure": "TEST"
+  },
+  {
+    "Pulse": "TEST"
+  },
+  {
+    "Respirations": "TEST"
+  },
+  {
+    "Temperature": "TEST"
+  },
+  {
+    "HEENT": "TEST"
+  },
+  {
+    "pulmonary": "TEST"
+  },
+  {
+    "cardiovascular": "TEST"
+  },
+  {
+    "GI": "TEST"
+  },
+  {
+    "GU": "TEST"
+  },
+  {
+    "musculoskeletal": "TEST"
+  },
+  {
+    "neurologic": "TEST"
+  },
+  {
+    "dermatologic": "TEST"
+  },
+  {
+    "constitutional": "TEST"
+  },
+  {
+    "psychiatric": "TEST"
+  },
+  {
+    "HPI": "TEST"
+  },
+  {
+    "Pap smear": "TEST"
+  },
+  {
+    "DEXA": "TEST"
+  },
+  {
+    "mammogram": "TEST"
+  },
+  {
+    "TSH": "TEST"
+  },
+  {
+    "ECG": "TEST"
+  }
+]

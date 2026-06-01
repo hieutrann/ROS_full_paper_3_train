@@ -1,0 +1,200 @@
+[
+  {
+    "Acute Cystitis": "PROBLEM"
+  },
+  {
+    "Diabetes Type II": "PROBLEM"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "diabetes": "PROBLEM"
+  },
+  {
+    "Micronase": "DRUG"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "diabetes": "PROBLEM"
+  },
+  {
+    "Micronase": "DRUG"
+  },
+  {
+    "ear abnormalities": "PROBLEM"
+  },
+  {
+    "nose abnormalities": "PROBLEM"
+  },
+  {
+    "throat abnormalities": "PROBLEM"
+  },
+  {
+    "elevated cholesterol": "PROBLEM"
+  },
+  {
+    "ASHD": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "PVD": "PROBLEM"
+  },
+  {
+    "asthma": "PROBLEM"
+  },
+  {
+    "lung infections": "PROBLEM"
+  },
+  {
+    "lung lesions": "PROBLEM"
+  },
+  {
+    "colon abnormalities": "PROBLEM"
+  },
+  {
+    "gall bladder problems": "PROBLEM"
+  },
+  {
+    "liver abnormalities": "PROBLEM"
+  },
+  {
+    "peptic ulcer disease": "PROBLEM"
+  },
+  {
+    "Urinary tract disorder": "PROBLEM"
+  },
+  {
+    "Bladder disorder": "PROBLEM"
+  },
+  {
+    "Kidney disorder": "PROBLEM"
+  },
+  {
+    "diabetes": "PROBLEM"
+  },
+  {
+    "hormonal irregularities": "PROBLEM"
+  },
+  {
+    "thyroid abnormalities": "PROBLEM"
+  },
+  {
+    "allergic reactions": "PROBLEM"
+  },
+  {
+    "rashes": "PROBLEM"
+  },
+  {
+    "skin lesions": "PROBLEM"
+  },
+  {
+    "Micronase": "DRUG"
+  },
+  {
+    "Bactrim": "DRUG"
+  },
+  {
+    "drug or alcohol abuse": "PROBLEM"
+  },
+  {
+    "Vital Signs": "TEST"
+  },
+  {
+    "Upright BP": "TEST"
+  },
+  {
+    "Pulse": "TEST"
+  },
+  {
+    "jugular venous distension": "PROBLEM"
+  },
+  {
+    "Lung expansion": "TEST"
+  },
+  {
+    "regular rhythm": "PROBLEM"
+  },
+  {
+    "SI and S2": "TEST"
+  },
+  {
+    "heart sounds": "TEST"
+  },
+  {
+    "Blood pressure": "TEST"
+  },
+  {
+    "bowel sounds": "TEST"
+  },
+  {
+    "The abdomen is soft": "TEST"
+  },
+  {
+    "The abdomen is nontender": "TEST"
+  },
+  {
+    "organomegaly": "PROBLEM"
+  },
+  {
+    "CVA tenderness": "PROBLEM"
+  },
+  {
+    "hernias": "PROBLEM"
+  },
+  {
+    "clubbing": "PROBLEM"
+  },
+  {
+    "cyanosis": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "Diabetes type II": "PROBLEM"
+  },
+  {
+    "Acute cystitis": "PROBLEM"
+  },
+  {
+    "Endocrinology Consult": "TREATMENT"
+  },
+  {
+    "CBC": "TEST"
+  },
+  {
+    "Micronase": "DRUG"
+  },
+  {
+    "Bactrim": "DRUG"
+  },
+  {
+    "bactrim": "DRUG"
+  },
+  {
+    "micronase": "DRUG"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "cbc": "TEST"
+  },
+  {
+    "diabetes type ii": "PROBLEM"
+  },
+  {
+    "acute cystitis": "PROBLEM"
+  },
+  {
+    "diabetes": "PROBLEM"
+  },
+  {
+    "abnormalities": "PROBLEM"
+  }
+]

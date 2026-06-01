@@ -1,0 +1,77 @@
+[
+  {
+    "Upper respiratory illness": "PROBLEM"
+  },
+  {
+    "apnea": "PROBLEM"
+  },
+  {
+    "pertussis": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "post-tussive emesis": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "amoxicillin": "DRUG"
+  },
+  {
+    "Rocephin": "DRUG"
+  },
+  {
+    "CBC": "TEST"
+  },
+  {
+    "white count": "TEST"
+  },
+  {
+    "hemoglobin": "TEST"
+  },
+  {
+    "hematocrit": "TEST"
+  },
+  {
+    "platelets": "TEST"
+  },
+  {
+    "BMP": "TEST"
+  },
+  {
+    "x-ray": "TEST"
+  },
+  {
+    "infiltrate": "TEST"
+  },
+  {
+    "influenza swab": "TEST"
+  },
+  {
+    "RSV": "TEST"
+  },
+  {
+    "pertussis PCR swab": "TEST"
+  },
+  {
+    "pertussis culture": "TEST"
+  },
+  {
+    "Zithromax": "DRUG"
+  },
+  {
+    "coughing": "PROBLEM"
+  },
+  {
+    "emesis": "PROBLEM"
+  },
+  {
+    "cyanosis": "PROBLEM"
+  },
+  {
+    "apnea": "PROBLEM"
+  }
+]

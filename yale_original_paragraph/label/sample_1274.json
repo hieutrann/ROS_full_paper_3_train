@@ -1,0 +1,260 @@
+[
+  {
+    "entity": "Knee Osteoarthrosis",
+    "label": "PROBLEM",
+    "start": 64,
+    "end": 83
+  },
+  {
+    "entity": "knee osteoarthrosis",
+    "label": "PROBLEM",
+    "start": 143,
+    "end": 162
+  },
+  {
+    "entity": "conservative management",
+    "label": "TREATMENT",
+    "start": 174,
+    "end": 197
+  },
+  {
+    "entity": "Knee osteoarthrosis",
+    "label": "PROBLEM",
+    "start": 258,
+    "end": 277
+  },
+  {
+    "entity": "Total knee arthroplasty",
+    "label": "TREATMENT",
+    "start": 300,
+    "end": 323
+  },
+  {
+    "entity": "knee osteoarthrosis",
+    "label": "PROBLEM",
+    "start": 373,
+    "end": 392
+  },
+  {
+    "entity": "conservative management",
+    "label": "TREATMENT",
+    "start": 401,
+    "end": 424
+  },
+  {
+    "entity": "Right knee surgery",
+    "label": "TREATMENT",
+    "start": 546,
+    "end": 564
+  },
+  {
+    "entity": "cosmetic surgery",
+    "label": "TREATMENT",
+    "start": 566,
+    "end": 582
+  },
+  {
+    "entity": "carotid sinus surgery",
+    "label": "TREATMENT",
+    "start": 588,
+    "end": 609
+  },
+  {
+    "entity": "MEDICATIONS",
+    "label": "DRUG",
+    "start": 611,
+    "end": 622
+  },
+  {
+    "entity": "Mirapex",
+    "label": "DRUG",
+    "start": 624,
+    "end": 631
+  },
+  {
+    "entity": "ibuprofen",
+    "label": "DRUG",
+    "start": 633,
+    "end": 642
+  },
+  {
+    "entity": "Ambien",
+    "label": "DRUG",
+    "start": 648,
+    "end": 654
+  },
+  {
+    "entity": "ALLERGIES",
+    "label": "PROBLEM",
+    "start": 656,
+    "end": 665
+  },
+  {
+    "entity": "PENICILLIN ALLERGIES",
+    "label": "PROBLEM",
+    "start": 680,
+    "end": 700
+  },
+  {
+    "entity": "Examination of her gait",
+    "label": "TEST",
+    "start": 781,
+    "end": 804
+  },
+  {
+    "entity": "assistive devices",
+    "label": "TREATMENT",
+    "start": 831,
+    "end": 848
+  },
+  {
+    "entity": "auscultation",
+    "label": "TEST",
+    "start": 903,
+    "end": 915
+  },
+  {
+    "entity": "rate",
+    "label": "TEST",
+    "start": 941,
+    "end": 945
+  },
+  {
+    "entity": "rhythm",
+    "label": "TEST",
+    "start": 950,
+    "end": 956
+  },
+  {
+    "entity": "right total knee arthroplasty",
+    "label": "TREATMENT",
+    "start": 1113,
+    "end": 1142
+  },
+  {
+    "entity": "Mechanical and chemical deep venous thrombosis (DVT) prophylaxis",
+    "label": "TREATMENT",
+    "start": 1287,
+    "end": 1351
+  },
+  {
+    "entity": "Routine postoperative antibiotics",
+    "label": "DRUG",
+    "start": 1368,
+    "end": 1401
+  },
+  {
+    "entity": "Hemovac drain",
+    "label": "TREATMENT",
+    "start": 1421,
+    "end": 1434
+  },
+  {
+    "entity": "Physical therapy",
+    "label": "TREATMENT",
+    "start": 1477,
+    "end": 1493
+  },
+  {
+    "entity": "Continuous passive motion (CPM)",
+    "label": "TREATMENT",
+    "start": 1509,
+    "end": 1540
+  },
+  {
+    "entity": "pain medication",
+    "label": "DRUG",
+    "start": 1621,
+    "end": 1636
+  },
+  {
+    "entity": "Incision",
+    "label": "PROBLEM",
+    "start": 1638,
+    "end": 1646
+  },
+  {
+    "entity": "pain with calf squeeze",
+    "label": "PROBLEM",
+    "start": 1710,
+    "end": 1732
+  },
+  {
+    "entity": "Percocet",
+    "label": "DRUG",
+    "start": 1902,
+    "end": 1910
+  },
+  {
+    "entity": "Coumadin",
+    "label": "DRUG",
+    "start": 1915,
+    "end": 1923
+  },
+  {
+    "entity": "Home physical therapy",
+    "label": "TREATMENT",
+    "start": 1939,
+    "end": 1960
+  },
+  {
+    "entity": "PT",
+    "label": "TEST",
+    "start": 1965,
+    "end": 1967
+  },
+  {
+    "entity": "INR",
+    "label": "TEST",
+    "start": 1972,
+    "end": 1975
+  },
+  {
+    "entity": "Coumadin",
+    "label": "DRUG",
+    "start": 2014,
+    "end": 2022
+  },
+  {
+    "entity": "total knee arthroplasty",
+    "label": "TREATMENT",
+    "start": 2060,
+    "end": 2083
+  },
+  {
+    "entity": "conservative management",
+    "label": "TREATMENT",
+    "start": 2085,
+    "end": 2108
+  },
+  {
+    "entity": "knee arthroplasty",
+    "label": "TREATMENT",
+    "start": 2110,
+    "end": 2127
+  },
+  {
+    "entity": "physical therapy",
+    "label": "TREATMENT",
+    "start": 2129,
+    "end": 2145
+  },
+  {
+    "entity": "knee osteoarthrosis",
+    "label": "PROBLEM",
+    "start": 2147,
+    "end": 2166
+  },
+  {
+    "entity": "arthroplasty",
+    "label": "TREATMENT",
+    "start": 2168,
+    "end": 2180
+  },
+  {
+    "entity": "osteoarthrosis",
+    "label": "PROBLEM",
+    "start": 2182,
+    "end": 2196
+  }
+]

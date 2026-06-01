@@ -1,0 +1,602 @@
+[
+  {
+    "entity": "Lesions - Adrenal and Pancreatic",
+    "label": "PROBLEM",
+    "start": 63,
+    "end": 95
+  },
+  {
+    "entity": "Pancreatic and left adrenal lesions",
+    "label": "PROBLEM",
+    "start": 109,
+    "end": 144
+  },
+  {
+    "entity": "The adrenal lesion",
+    "label": "PROBLEM",
+    "start": 146,
+    "end": 164
+  },
+  {
+    "entity": "a small lesion",
+    "label": "PROBLEM",
+    "start": 168,
+    "end": 182
+  },
+  {
+    "entity": "benign adenoma",
+    "label": "PROBLEM",
+    "start": 207,
+    "end": 221
+  },
+  {
+    "entity": "the pancreatic lesion",
+    "label": "PROBLEM",
+    "start": 232,
+    "end": 253
+  },
+  {
+    "entity": "the cystic lesion",
+    "label": "PROBLEM",
+    "start": 257,
+    "end": 274
+  },
+  {
+    "entity": "neoplasm",
+    "label": "PROBLEM",
+    "start": 280,
+    "end": 288
+  },
+  {
+    "entity": "Both pancreatic and left adrenal lesions",
+    "label": "PROBLEM",
+    "start": 367,
+    "end": 407
+  },
+  {
+    "entity": "a both pancreatic lesion",
+    "label": "PROBLEM",
+    "start": 546,
+    "end": 570
+  },
+  {
+    "entity": "lesions with left adrenal gland",
+    "label": "PROBLEM",
+    "start": 575,
+    "end": 606
+  },
+  {
+    "entity": "symptoms",
+    "label": "PROBLEM",
+    "start": 715,
+    "end": 723
+  },
+  {
+    "entity": "difficulty almost like a suffocating feeling",
+    "label": "PROBLEM",
+    "start": 740,
+    "end": 784
+  },
+  {
+    "entity": "CAT scan",
+    "label": "TEST",
+    "start": 1049,
+    "end": 1057
+  },
+  {
+    "entity": "The CAT scan of the chest",
+    "label": "TEST",
+    "start": 1083,
+    "end": 1108
+  },
+  {
+    "entity": "a pneumonitis",
+    "label": "PROBLEM",
+    "start": 1117,
+    "end": 1130
+  },
+  {
+    "entity": "a left adrenal nodule",
+    "label": "PROBLEM",
+    "start": 1145,
+    "end": 1166
+  },
+  {
+    "entity": "a small pancreatic lesion",
+    "label": "PROBLEM",
+    "start": 1171,
+    "end": 1196
+  },
+  {
+    "entity": "a dedicated abdominal CAT scan",
+    "label": "TEST",
+    "start": 1231,
+    "end": 1261
+  },
+  {
+    "entity": "MRI",
+    "label": "TEST",
+    "start": 1266,
+    "end": 1269
+  },
+  {
+    "entity": "The CAT scan",
+    "label": "TEST",
+    "start": 1271,
+    "end": 1283
+  },
+  {
+    "entity": "1.8-cm lesion of his left adrenal gland",
+    "label": "PROBLEM",
+    "start": 1293,
+    "end": 1332
+  },
+  {
+    "entity": "a benign adenoma",
+    "label": "PROBLEM",
+    "start": 1350,
+    "end": 1366
+  },
+  {
+    "entity": "pancreatic lesion towards the mid body tail aspect of the pancreas",
+    "label": "PROBLEM",
+    "start": 1388,
+    "end": 1454
+  },
+  {
+    "entity": "Neoplasm",
+    "label": "PROBLEM",
+    "start": 1506,
+    "end": 1514
+  },
+  {
+    "entity": "further assessment",
+    "label": "TEST",
+    "start": 1564,
+    "end": 1582
+  },
+  {
+    "entity": "any significant abdominal pain",
+    "label": "PROBLEM",
+    "start": 1594,
+    "end": 1624
+  },
+  {
+    "entity": "any nausea",
+    "label": "PROBLEM",
+    "start": 1626,
+    "end": 1636
+  },
+  {
+    "entity": "vomiting",
+    "label": "PROBLEM",
+    "start": 1640,
+    "end": 1648
+  },
+  {
+    "entity": "significant changes in his bowel habits",
+    "label": "PROBLEM",
+    "start": 1686,
+    "end": 1725
+  },
+  {
+    "entity": "any rectal bleeding",
+    "label": "PROBLEM",
+    "start": 1729,
+    "end": 1748
+  },
+  {
+    "entity": "melena",
+    "label": "PROBLEM",
+    "start": 1752,
+    "end": 1758
+  },
+  {
+    "entity": "a colonoscopy",
+    "label": "TEST",
+    "start": 1777,
+    "end": 1790
+  },
+  {
+    "entity": "adenomatous polyps",
+    "label": "PROBLEM",
+    "start": 1845,
+    "end": 1863
+  },
+  {
+    "entity": "frequent urination",
+    "label": "PROBLEM",
+    "start": 1891,
+    "end": 1909
+  },
+  {
+    "entity": "pancreatic cancer",
+    "label": "PROBLEM",
+    "start": 1982,
+    "end": 1999
+  },
+  {
+    "entity": "gallstone pancreatitis",
+    "label": "PROBLEM",
+    "start": 2023,
+    "end": 2045
+  },
+  {
+    "entity": "hypertension",
+    "label": "PROBLEM",
+    "start": 2109,
+    "end": 2121
+  },
+  {
+    "entity": "type 2 diabetes mellitus",
+    "label": "PROBLEM",
+    "start": 2123,
+    "end": 2147
+  },
+  {
+    "entity": "asthma",
+    "label": "PROBLEM",
+    "start": 2149,
+    "end": 2155
+  },
+  {
+    "entity": "high cholesterol",
+    "label": "PROBLEM",
+    "start": 2161,
+    "end": 2177
+  },
+  {
+    "entity": "ALLERGIES",
+    "label": "PROBLEM",
+    "start": 2179,
+    "end": 2188
+  },
+  {
+    "entity": "MEDICATIONS",
+    "label": "DRUG",
+    "start": 2205,
+    "end": 2216
+  },
+  {
+    "entity": "glipizide",
+    "label": "DRUG",
+    "start": 2226,
+    "end": 2235
+  },
+  {
+    "entity": "metformin",
+    "label": "DRUG",
+    "start": 2249,
+    "end": 2258
+  },
+  {
+    "entity": "Atacand",
+    "label": "DRUG",
+    "start": 2274,
+    "end": 2281
+  },
+  {
+    "entity": "metoprolol",
+    "label": "DRUG",
+    "start": 2295,
+    "end": 2305
+  },
+  {
+    "entity": "Lipitor",
+    "label": "DRUG",
+    "start": 2320,
+    "end": 2327
+  },
+  {
+    "entity": "pantoprazole",
+    "label": "DRUG",
+    "start": 2341,
+    "end": 2353
+  },
+  {
+    "entity": "Flomax",
+    "label": "DRUG",
+    "start": 2367,
+    "end": 2373
+  },
+  {
+    "entity": "Detrol",
+    "label": "DRUG",
+    "start": 2388,
+    "end": 2394
+  },
+  {
+    "entity": "Zyrtec",
+    "label": "DRUG",
+    "start": 2407,
+    "end": 2413
+  },
+  {
+    "entity": "Advair Diskus",
+    "label": "DRUG",
+    "start": 2427,
+    "end": 2440
+  },
+  {
+    "entity": "fluticasone",
+    "label": "DRUG",
+    "start": 2473,
+    "end": 2484
+  },
+  {
+    "entity": "any previous surgery",
+    "label": "TREATMENT",
+    "start": 2554,
+    "end": 2574
+  },
+  {
+    "entity": "prostate cancer",
+    "label": "PROBLEM",
+    "start": 2609,
+    "end": 2624
+  },
+  {
+    "entity": "brain cancer",
+    "label": "PROBLEM",
+    "start": 2637,
+    "end": 2649
+  },
+  {
+    "entity": "Heart disease",
+    "label": "PROBLEM",
+    "start": 2651,
+    "end": 2664
+  },
+  {
+    "entity": "diabetes",
+    "label": "PROBLEM",
+    "start": 2698,
+    "end": 2706
+  },
+  {
+    "entity": "any chest pain",
+    "label": "PROBLEM",
+    "start": 2986,
+    "end": 3000
+  },
+  {
+    "entity": "exertional shortness of breath",
+    "label": "PROBLEM",
+    "start": 3015,
+    "end": 3045
+  },
+  {
+    "entity": "any GI problems",
+    "label": "PROBLEM",
+    "start": 3057,
+    "end": 3072
+  },
+  {
+    "entity": "frequent urination",
+    "label": "PROBLEM",
+    "start": 3087,
+    "end": 3105
+  },
+  {
+    "entity": "any bleeding disorders",
+    "label": "PROBLEM",
+    "start": 3126,
+    "end": 3148
+  },
+  {
+    "entity": "bleeding history",
+    "label": "PROBLEM",
+    "start": 3152,
+    "end": 3168
+  },
+  {
+    "entity": "apparent distress",
+    "label": "PROBLEM",
+    "start": 3270,
+    "end": 3287
+  },
+  {
+    "entity": "mass",
+    "label": "PROBLEM",
+    "start": 3336,
+    "end": 3340
+  },
+  {
+    "entity": "adenopathy",
+    "label": "PROBLEM",
+    "start": 3342,
+    "end": 3352
+  },
+  {
+    "entity": "bruit",
+    "label": "PROBLEM",
+    "start": 3356,
+    "end": 3361
+  },
+  {
+    "entity": "auscultation",
+    "label": "TEST",
+    "start": 3404,
+    "end": 3416
+  },
+  {
+    "entity": "percussion",
+    "label": "TEST",
+    "start": 3421,
+    "end": 3431
+  },
+  {
+    "entity": "S3",
+    "label": "PROBLEM",
+    "start": 3459,
+    "end": 3461
+  },
+  {
+    "entity": "S4",
+    "label": "PROBLEM",
+    "start": 3465,
+    "end": 3467
+  },
+  {
+    "entity": "gallop",
+    "label": "PROBLEM",
+    "start": 3468,
+    "end": 3474
+  },
+  {
+    "entity": "obvious murmur",
+    "label": "PROBLEM",
+    "start": 3488,
+    "end": 3502
+  },
+  {
+    "entity": "distant heart sounds",
+    "label": "PROBLEM",
+    "start": 3520,
+    "end": 3540
+  },
+  {
+    "entity": "Obese",
+    "label": "PROBLEM",
+    "start": 3551,
+    "end": 3556
+  },
+  {
+    "entity": "Examination",
+    "label": "TEST",
+    "start": 3587,
+    "end": 3598
+  },
+  {
+    "entity": "Bowel sounds",
+    "label": "TEST",
+    "start": 3671,
+    "end": 3683
+  },
+  {
+    "entity": "obvious mass",
+    "label": "PROBLEM",
+    "start": 3709,
+    "end": 3721
+  },
+  {
+    "entity": "organomegaly",
+    "label": "PROBLEM",
+    "start": 3725,
+    "end": 3737
+  },
+  {
+    "entity": "1+ pitting edema",
+    "label": "PROBLEM",
+    "start": 3806,
+    "end": 3822
+  },
+  {
+    "entity": "Bilateral peripheral pulses",
+    "label": "TEST",
+    "start": 3824,
+    "end": 3851
+  },
+  {
+    "entity": "focal deficits",
+    "label": "PROBLEM",
+    "start": 3884,
+    "end": 3898
+  },
+  {
+    "entity": "Both left adrenal and pancreatic lesions",
+    "label": "PROBLEM",
+    "start": 3947,
+    "end": 3987
+  },
+  {
+    "entity": "The adrenal lesion",
+    "label": "PROBLEM",
+    "start": 3989,
+    "end": 4007
+  },
+  {
+    "entity": "a small lesion",
+    "label": "PROBLEM",
+    "start": 4011,
+    "end": 4025
+  },
+  {
+    "entity": "benign adenoma",
+    "label": "PROBLEM",
+    "start": 4050,
+    "end": 4064
+  },
+  {
+    "entity": "the pancreatic lesion",
+    "label": "PROBLEM",
+    "start": 4075,
+    "end": 4096
+  },
+  {
+    "entity": "the cystic lesion",
+    "label": "PROBLEM",
+    "start": 4100,
+    "end": 4117
+  },
+  {
+    "entity": "neoplasm",
+    "label": "PROBLEM",
+    "start": 4123,
+    "end": 4131
+  },
+  {
+    "entity": "these pancreatic lesions in the mid body towards the tail",
+    "label": "PROBLEM",
+    "start": 4177,
+    "end": 4234
+  },
+  {
+    "entity": "an ERCP",
+    "label": "TREATMENT",
+    "start": 4271,
+    "end": 4278
+  },
+  {
+    "entity": "biopsy",
+    "label": "TEST",
+    "start": 4345,
+    "end": 4351
+  },
+  {
+    "entity": "x-rays",
+    "label": "TEST",
+    "start": 4376,
+    "end": 4382
+  },
+  {
+    "entity": "operative intervention",
+    "label": "TREATMENT",
+    "start": 4461,
+    "end": 4483
+  },
+  {
+    "entity": "an esophagogastroduodenoscopy",
+    "label": "TEST",
+    "start": 4524,
+    "end": 4553
+  },
+  {
+    "entity": "lesion",
+    "label": "PROBLEM",
+    "start": 4604,
+    "end": 4610
+  },
+  {
+    "entity": "ercp",
+    "label": "TREATMENT",
+    "start": 4612,
+    "end": 4616
+  },
+  {
+    "entity": "esophagogastroduodenoscopy",
+    "label": "TEST",
+    "start": 4618,
+    "end": 4644
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "Nausea & Vomiting": "PROBLEM"
+  },
+  {
+    "intractable nausea and vomiting": "PROBLEM"
+  },
+  {
+    "blood-tinged vomit": "PROBLEM"
+  },
+  {
+    "ER Visit": "TEST"
+  },
+  {
+    "G1": "TEST"
+  },
+  {
+    "8 plus weeks": "TEST"
+  },
+  {
+    "28-year-old": "TEST"
+  },
+  {
+    "emergency room": "TEST"
+  },
+  {
+    "admission": "TEST"
+  },
+  {
+    "intractable nausea and vomiting": "PROBLEM"
+  },
+  {
+    "blood-tinged vomit": "PROBLEM"
+  },
+  {
+    "HISTORY OF PRESENT ILLNESS": "TEST"
+  },
+  {
+    "emergency room": "TEST"
+  },
+  {
+    "admission": "TEST"
+  },
+  {
+    "Nonsignificant": "PROBLEM"
+  },
+  {
+    "SURGICAL": "TREATMENT"
+  },
+  {
+    "alcohol": "PROBLEM"
+  },
+  {
+    "drugs": "PROBLEM"
+  },
+  {
+    "tobacco": "PROBLEM"
+  },
+  {
+    "pregnancy": "PROBLEM"
+  },
+  {
+    "GYNECOLOGICAL HISTORY": "PROBLEM"
+  },
+  {
+    "sodium": "PROBLEM"
+  },
+  {
+    "potassium": "PROBLEM"
+  },
+  {
+    "ALT": "TEST"
+  },
+  {
+    "AST": "TEST"
+  },
+  {
+    "total bilirubin": "TEST"
+  },
+  {
+    "ketones": "PROBLEM"
+  },
+  {
+    "protein": "PROBLEM"
+  },
+  {
+    "esterase": "PROBLEM"
+  },
+  {
+    "rbc": "PROBLEM"
+  },
+  {
+    "bacteria": "PROBLEM"
+  },
+  {
+    "H and H": "TEST"
+  },
+  {
+    "Phenergan": "DRUG"
+  },
+  {
+    "Zofran": "DRUG"
+  },
+  {
+    "Rocephin": "DRUG"
+  },
+  {
+    "bladder infection": "PROBLEM"
+  },
+  {
+    "hydration": "TREATMENT"
+  },
+  {
+    "Maalox": "DRUG"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "fluids": "TREATMENT"
+  },
+  {
+    "p.o.": "TEST"
+  },
+  {
+    "food": "PROBLEM"
+  },
+  {
+    "AST": "TEST"
+  },
+  {
+    "ALT": "TEST"
+  },
+  {
+    "hyperemesis gravidarum": "PROBLEM"
+  },
+  {
+    "IV hydration": "TREATMENT"
+  },
+  {
+    "ALT": "TEST"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "followup": "TEST"
+  },
+  {
+    "elevated alt": "TEST"
+  },
+  {
+    "iv hydration": "TREATMENT"
+  },
+  {
+    "emergency": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  }
+]

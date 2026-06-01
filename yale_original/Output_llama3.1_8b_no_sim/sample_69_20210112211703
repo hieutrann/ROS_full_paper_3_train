@@ -1,0 +1,230 @@
+[
+  {
+    "left-sided chest pain": "PROBLEM"
+  },
+  {
+    "abdominal surgery": "PROBLEM"
+  },
+  {
+    "left-sided chest pain": "PROBLEM"
+  },
+  {
+    "None": "PROBLEM"
+  },
+  {
+    "87-year-old patient": "PROBLEM"
+  },
+  {
+    "appendicectomy": "TREATMENT"
+  },
+  {
+    "paralytic ileus": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "fluid retention": "PROBLEM"
+  },
+  {
+    "gain": "PROBLEM"
+  },
+  {
+    "swelling": "PROBLEM"
+  },
+  {
+    "lower extremities": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "ENT": "PROBLEM"
+  },
+  {
+    "left-sided chest pain": "PROBLEM"
+  },
+  {
+    "left posterior axillary line": "PROBLEM"
+  },
+  {
+    "fourth and fifth rib": "PROBLEM"
+  },
+  {
+    "heart problems": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "appendicectomy": "TREATMENT"
+  },
+  {
+    "dysuria": "PROBLEM"
+  },
+  {
+    "hematuria": "PROBLEM"
+  },
+  {
+    "diabetes": "PROBLEM"
+  },
+  {
+    "thyroid problems": "PROBLEM"
+  },
+  {
+    "CVA": "PROBLEM"
+  },
+  {
+    "TIA": "PROBLEM"
+  },
+  {
+    "review of systems": "PROBLEM"
+  },
+  {
+    "nonsmoker": "PROBLEM"
+  },
+  {
+    "alcohol": "PROBLEM"
+  },
+  {
+    "FAMILY HISTORY": "PROBLEM"
+  },
+  {
+    "87-year-old gentleman": "PROBLEM"
+  },
+  {
+    "Oral mucosa": "PROBLEM"
+  },
+  {
+    "auscultation": "TEST"
+  },
+  {
+    "wheezing": "PROBLEM"
+  },
+  {
+    "crepitations": "PROBLEM"
+  },
+  {
+    "tenderness": "PROBLEM"
+  },
+  {
+    "heart sounds": "TEST"
+  },
+  {
+    "murmurs": "PROBLEM"
+  },
+  {
+    "ABDOMEN": "PROBLEM"
+  },
+  {
+    "Bowel sounds": "TEST"
+  },
+  {
+    "pedal swelling": "PROBLEM"
+  },
+  {
+    "oriented": "TEST"
+  },
+  {
+    "nonfocal": "PROBLEM"
+  },
+  {
+    "White count": "TEST"
+  },
+  {
+    "hemoglobin": "TEST"
+  },
+  {
+    "hematocrit": "TEST"
+  },
+  {
+    "platelets": "TEST"
+  },
+  {
+    "Glucose": "TEST"
+  },
+  {
+    "total protein": "TEST"
+  },
+  {
+    "albumin": "TEST"
+  },
+  {
+    "ruptured appendicitis": "PROBLEM"
+  },
+  {
+    "surgery": "PROBLEM"
+  },
+  {
+    "bowels": "PROBLEM"
+  },
+  {
+    "2": "TEST"
+  },
+  {
+    "Left-sided chest pain": "PROBLEM"
+  },
+  {
+    "PE": "PROBLEM"
+  },
+  {
+    "low-oxygen saturation": "PROBLEM"
+  },
+  {
+    "ultrasound": "TEST"
+  },
+  {
+    "CT angiogram": "TEST"
+  },
+  {
+    "3": "PROBLEM"
+  },
+  {
+    "Fluid retention": "PROBLEM"
+  },
+  {
+    "4": "TEST"
+  },
+  {
+    "Paralytic ileus": "PROBLEM"
+  },
+  {
+    "5": "PROBLEM"
+  },
+  {
+    "Leukocytosis": "PROBLEM"
+  },
+  {
+    "ruptured appendicitis": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "fluid retention": "PROBLEM"
+  },
+  {
+    "paralytic ileus": "PROBLEM"
+  },
+  {
+    "leukocytosis": "PROBLEM"
+  },
+  {
+    "abdominal surgery": "TREATMENT"
+  },
+  {
+    "laparoscopic appendicectomy": "TREATMENT"
+  },
+  {
+    "abdominal": "TEST"
+  },
+  {
+    "surgery": "TREATMENT"
+  },
+  {
+    "chest": "TEST"
+  }
+]

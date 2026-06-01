@@ -1,0 +1,248 @@
+[
+  {
+    "GI Bleed": "PROBLEM"
+  },
+  {
+    "Upper gastrointestinal bleed": "PROBLEM"
+  },
+  {
+    "microcytic anemia": "PROBLEM"
+  },
+  {
+    "GI bleed": "PROBLEM"
+  },
+  {
+    "atrial fibrillation": "PROBLEM"
+  },
+  {
+    "Coumadin": "DRUG"
+  },
+  {
+    "microcytic anemia": "PROBLEM"
+  },
+  {
+    "hemoglobin": "TEST"
+  },
+  {
+    "Stool": "PROBLEM"
+  },
+  {
+    "OB": "TEST"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "GI complaints": "PROBLEM"
+  },
+  {
+    "ABCD": "PROBLEM"
+  },
+  {
+    "atrial fibrillation": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "osteoarthritis": "PROBLEM"
+  },
+  {
+    "hypercholesterolemia": "PROBLEM"
+  },
+  {
+    "diabetes mellitus": "PROBLEM"
+  },
+  {
+    "asthma": "PROBLEM"
+  },
+  {
+    "hypothyroidism": "PROBLEM"
+  },
+  {
+    "acute distress": "PROBLEM"
+  },
+  {
+    "VITAL SIGNS": "TEST"
+  },
+  {
+    "HEENT": "TEST"
+  },
+  {
+    "Supple": "TEST"
+  },
+  {
+    "adenopathy": "PROBLEM"
+  },
+  {
+    "LUNGS": "TEST"
+  },
+  {
+    "HEART": "PROBLEM"
+  },
+  {
+    "gallops": "PROBLEM"
+  },
+  {
+    "bowel sounds": "TEST"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "organomegaly": "PROBLEM"
+  },
+  {
+    "lower extremity edema": "PROBLEM"
+  },
+  {
+    "upper endoscopy": "TEST"
+  },
+  {
+    "erosive gastritis": "PROBLEM"
+  },
+  {
+    "diverticulosis": "PROBLEM"
+  },
+  {
+    "polyp": "PROBLEM"
+  },
+  {
+    "Colonoscopy": "TEST"
+  },
+  {
+    "procedure": "TREATMENT"
+  },
+  {
+    "hemoglobin": "TEST"
+  },
+  {
+    "GI complaints": "PROBLEM"
+  },
+  {
+    "Coumadin": "DRUG"
+  },
+  {
+    "PMD": "TREATMENT"
+  },
+  {
+    "GI": "TREATMENT"
+  },
+  {
+    "Cardiology": "TREATMENT"
+  },
+  {
+    "DISCHARGE DIAGNOSES": "PROBLEM"
+  },
+  {
+    "Upper gastrointestinal bleed": "PROBLEM"
+  },
+  {
+    "2": "TEST"
+  },
+  {
+    "Anemia": "PROBLEM"
+  },
+  {
+    "3": "PROBLEM"
+  },
+  {
+    "Atrial fibrillation": "PROBLEM"
+  },
+  {
+    "4": "TEST"
+  },
+  {
+    "Non-insulin-dependent diabetes mellitus": "PROBLEM"
+  },
+  {
+    "5": "PROBLEM"
+  },
+  {
+    "Hypertension": "PROBLEM"
+  },
+  {
+    "6": "PROBLEM"
+  },
+  {
+    "Hypothyroidism": "PROBLEM"
+  },
+  {
+    "7": "PROBLEM"
+  },
+  {
+    "Asthma": "PROBLEM"
+  },
+  {
+    "CONDITION UPON DISCHARGE": "PROBLEM"
+  },
+  {
+    "Feosol": "DRUG"
+  },
+  {
+    "multivitamins": "DRUG"
+  },
+  {
+    "Protonix": "DRUG"
+  },
+  {
+    "KCl": "DRUG"
+  },
+  {
+    "Lasix": "DRUG"
+  },
+  {
+    "atenolol": "DRUG"
+  },
+  {
+    "Synthroid": "DRUG"
+  },
+  {
+    "Actos": "DRUG"
+  },
+  {
+    "Mevacor": "DRUG"
+  },
+  {
+    "lisinopril": "DRUG"
+  },
+  {
+    "ALLERGIES": "PROBLEM"
+  },
+  {
+    "1800-calorie ADA": "TREATMENT"
+  },
+  {
+    "ACTIVITY": "TREATMENT"
+  },
+  {
+    "Coumadin": "DRUG"
+  },
+  {
+    "CBC": "TEST"
+  },
+  {
+    "INR": "TEST"
+  },
+  {
+    "gi bleed": "PROBLEM"
+  },
+  {
+    "microcytic anemia": "PROBLEM"
+  },
+  {
+    "cbc": "TEST"
+  },
+  {
+    "gastrointestinal": "PROBLEM"
+  },
+  {
+    "endoscopy": "TEST"
+  },
+  {
+    "colonoscopy": "TEST"
+  }
+]

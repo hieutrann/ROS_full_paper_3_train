@@ -1,0 +1,110 @@
+[
+  {
+    "Bronchiolitis": "PROBLEM"
+  },
+  {
+    "respiratory syncytial virus": "PROBLEM"
+  },
+  {
+    "Innocent heart murmur": "PROBLEM"
+  },
+  {
+    "RSV": "PROBLEM"
+  },
+  {
+    "bronchiolitis": "PROBLEM"
+  },
+  {
+    "congestion": "PROBLEM"
+  },
+  {
+    "heart murmur": "PROBLEM"
+  },
+  {
+    "chest x-ray": "TEST"
+  },
+  {
+    "perihilar infiltrate": "PROBLEM"
+  },
+  {
+    "tachypnea": "PROBLEM"
+  },
+  {
+    "increased retractions": "PROBLEM"
+  },
+  {
+    "grunting": "PROBLEM"
+  },
+  {
+    "nasal flaring": "PROBLEM"
+  },
+  {
+    "albuterol MDI": "DRUG"
+  },
+  {
+    "respiratory distress": "PROBLEM"
+  },
+  {
+    "VITAL SIGNS": "TEST"
+  },
+  {
+    "anterior fontanelle": "TEST"
+  },
+  {
+    "upper airway congestion": "PROBLEM"
+  },
+  {
+    "CARDIOVASCULAR": "TEST"
+  },
+  {
+    "systolic murmur": "PROBLEM"
+  },
+  {
+    "EXTREMITIES": "TEST"
+  },
+  {
+    "femoral pulses": "TEST"
+  },
+  {
+    "LUNGS": "TEST"
+  },
+  {
+    "coarseness": "PROBLEM"
+  },
+  {
+    "wheezes": "PROBLEM"
+  },
+  {
+    "crackles": "PROBLEM"
+  },
+  {
+    "respiratory distress": "PROBLEM"
+  },
+  {
+    "ABDOMEN": "TEST"
+  },
+  {
+    "bowel sounds": "TEST"
+  },
+  {
+    "GENITOURINARY": "TEST"
+  },
+  {
+    "Tanner I female": "TEST"
+  },
+  {
+    "DISCHARGE WEIGHT": "TEST"
+  },
+  {
+    "albuterol MDI": "DRUG"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "wheezes": "PROBLEM"
+  },
+  {
+    "dyspnea": "PROBLEM"
+  }
+]

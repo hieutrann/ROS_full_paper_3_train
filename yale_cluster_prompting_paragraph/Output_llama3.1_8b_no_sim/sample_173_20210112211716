@@ -1,0 +1,158 @@
+[
+  {
+    "Refractory hypertension": "PROBLEM"
+  },
+  {
+    "cardiac arrhythmia": "PROBLEM"
+  },
+  {
+    "AV block": "PROBLEM"
+  },
+  {
+    "GI bleed": "PROBLEM"
+  },
+  {
+    "depression": "PROBLEM"
+  },
+  {
+    "Triamterene/hydrochlorothiazide": "DRUG"
+  },
+  {
+    "Norvasc": "DRUG"
+  },
+  {
+    "Atenolol": "DRUG"
+  },
+  {
+    "Atacand": "DRUG"
+  },
+  {
+    "Cardura": "DRUG"
+  },
+  {
+    "VITAL SIGNS": "TEST"
+  },
+  {
+    "temperature": "TEST"
+  },
+  {
+    "pulse": "TEST"
+  },
+  {
+    "respirations": "TEST"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "musculoskeletal": "PROBLEM"
+  },
+  {
+    "spine": "PROBLEM"
+  },
+  {
+    "right buttock": "PROBLEM"
+  },
+  {
+    "extremity pain": "PROBLEM"
+  },
+  {
+    "orthopnea": "PROBLEM"
+  },
+  {
+    "exercise capacity": "TEST"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "difficulty breathing": "PROBLEM"
+  },
+  {
+    "weakness": "PROBLEM"
+  },
+  {
+    "dizziness": "PROBLEM"
+  },
+  {
+    "lightheadedness": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "constipation": "PROBLEM"
+  },
+  {
+    "diarrhea": "PROBLEM"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "difficulty breathing": "PROBLEM"
+  },
+  {
+    "musculoskeletal": "TREATMENT"
+  },
+  {
+    "spine": "TREATMENT"
+  },
+  {
+    "right buttock": "TREATMENT"
+  },
+  {
+    "extremity pain": "TREATMENT"
+  },
+  {
+    "orthopnea": "TREATMENT"
+  },
+  {
+    "exercise capacity": "TREATMENT"
+  },
+  {
+    "chest pain": "TREATMENT"
+  },
+  {
+    "shortness of breath": "TREATMENT"
+  },
+  {
+    "difficulty breathing": "TREATMENT"
+  },
+  {
+    "weakness": "TREATMENT"
+  },
+  {
+    "dizziness": "TREATMENT"
+  },
+  {
+    "lightheadedness": "TREATMENT"
+  },
+  {
+    "nausea": "TREATMENT"
+  },
+  {
+    "vomiting": "TREATMENT"
+  },
+  {
+    "constipation": "TREATMENT"
+  },
+  {
+    "diarrhea": "TREATMENT"
+  },
+  {
+    "abdominal pain": "TREATMENT"
+  }
+]

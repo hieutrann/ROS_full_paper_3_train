@@ -1,0 +1,350 @@
+[
+  {
+    "entity": "diabetes mellitus",
+    "label": "PROBLEM",
+    "start": 201,
+    "end": 218
+  },
+  {
+    "entity": "hypercholesterolemia",
+    "label": "PROBLEM",
+    "start": 220,
+    "end": 240
+  },
+  {
+    "entity": "sinusitis",
+    "label": "PROBLEM",
+    "start": 246,
+    "end": 255
+  },
+  {
+    "entity": "diabetes mellitus",
+    "label": "PROBLEM",
+    "start": 313,
+    "end": 330
+  },
+  {
+    "entity": "her Accu-Cheks",
+    "label": "TEST",
+    "start": 364,
+    "end": 378
+  },
+  {
+    "entity": "some sinus congestion",
+    "label": "PROBLEM",
+    "start": 587,
+    "end": 608
+  },
+  {
+    "entity": "drainage",
+    "label": "PROBLEM",
+    "start": 613,
+    "end": 621
+  },
+  {
+    "entity": "her mammogram",
+    "label": "TEST",
+    "start": 670,
+    "end": 683
+  },
+  {
+    "entity": "her gynecological care",
+    "label": "TREATMENT",
+    "start": 744,
+    "end": 766
+  },
+  {
+    "entity": "abdominal pain",
+    "label": "PROBLEM",
+    "start": 795,
+    "end": 809
+  },
+  {
+    "entity": "nausea",
+    "label": "PROBLEM",
+    "start": 811,
+    "end": 817
+  },
+  {
+    "entity": "vomiting",
+    "label": "PROBLEM",
+    "start": 819,
+    "end": 827
+  },
+  {
+    "entity": "diarrhea",
+    "label": "PROBLEM",
+    "start": 829,
+    "end": 837
+  },
+  {
+    "entity": "constipation",
+    "label": "PROBLEM",
+    "start": 839,
+    "end": 851
+  },
+  {
+    "entity": "blood in her urine",
+    "label": "PROBLEM",
+    "start": 853,
+    "end": 871
+  },
+  {
+    "entity": "blood in her stools",
+    "label": "PROBLEM",
+    "start": 873,
+    "end": 892
+  },
+  {
+    "entity": "nocturia",
+    "label": "PROBLEM",
+    "start": 902,
+    "end": 910
+  },
+  {
+    "entity": "swelling in her ankles",
+    "label": "PROBLEM",
+    "start": 923,
+    "end": 945
+  },
+  {
+    "entity": "Vitals",
+    "label": "TEST",
+    "start": 1094,
+    "end": 1100
+  },
+  {
+    "entity": "Wt",
+    "label": "TEST",
+    "start": 1102,
+    "end": 1104
+  },
+  {
+    "entity": "B/P",
+    "label": "TEST",
+    "start": 1110,
+    "end": 1113
+  },
+  {
+    "entity": "T",
+    "label": "TEST",
+    "start": 1200,
+    "end": 1201
+  },
+  {
+    "entity": "P",
+    "label": "TEST",
+    "start": 1208,
+    "end": 1209
+  },
+  {
+    "entity": "acute distress",
+    "label": "PROBLEM",
+    "start": 1286,
+    "end": 1300
+  },
+  {
+    "entity": "frontal and maxillary sinus tenderness on the right",
+    "label": "PROBLEM",
+    "start": 1317,
+    "end": 1368
+  },
+  {
+    "entity": "palpation",
+    "label": "TEST",
+    "start": 1372,
+    "end": 1381
+  },
+  {
+    "entity": "slightly dull",
+    "label": "PROBLEM",
+    "start": 1399,
+    "end": 1412
+  },
+  {
+    "entity": "swelling",
+    "label": "PROBLEM",
+    "start": 1486,
+    "end": 1494
+  },
+  {
+    "entity": "Hypercholesterolemia",
+    "label": "PROBLEM",
+    "start": 1511,
+    "end": 1531
+  },
+  {
+    "entity": "Diabetes mellitus",
+    "label": "PROBLEM",
+    "start": 1536,
+    "end": 1553
+  },
+  {
+    "entity": "Sinusitis",
+    "label": "PROBLEM",
+    "start": 1558,
+    "end": 1567
+  },
+  {
+    "entity": "Allegra D",
+    "label": "DRUG",
+    "start": 1578,
+    "end": 1587
+  },
+  {
+    "entity": "Allegra",
+    "label": "DRUG",
+    "start": 1615,
+    "end": 1622
+  },
+  {
+    "entity": "A1c",
+    "label": "TEST",
+    "start": 1658,
+    "end": 1661
+  },
+  {
+    "entity": "BMP",
+    "label": "TEST",
+    "start": 1663,
+    "end": 1666
+  },
+  {
+    "entity": "lipid profile",
+    "label": "TEST",
+    "start": 1668,
+    "end": 1681
+  },
+  {
+    "entity": "TSH",
+    "label": "TEST",
+    "start": 1683,
+    "end": 1686
+  },
+  {
+    "entity": "colonoscopy",
+    "label": "TREATMENT",
+    "start": 1755,
+    "end": 1766
+  },
+  {
+    "entity": "occult blood",
+    "label": "PROBLEM",
+    "start": 1836,
+    "end": 1848
+  },
+  {
+    "entity": "a colonoscopy",
+    "label": "TREATMENT",
+    "start": 1872,
+    "end": 1885
+  },
+  {
+    "entity": "an early cancer",
+    "label": "PROBLEM",
+    "start": 1900,
+    "end": 1915
+  },
+  {
+    "entity": "Diet",
+    "label": "TREATMENT",
+    "start": 1920,
+    "end": 1924
+  },
+  {
+    "entity": "exercise",
+    "label": "TREATMENT",
+    "start": 1926,
+    "end": 1934
+  },
+  {
+    "entity": "weight loss",
+    "label": "TREATMENT",
+    "start": 1936,
+    "end": 1947
+  },
+  {
+    "entity": "her tests",
+    "label": "TEST",
+    "start": 1994,
+    "end": 2003
+  },
+  {
+    "entity": "her prescriptions",
+    "label": "DRUG",
+    "start": 2017,
+    "end": 2034
+  },
+  {
+    "entity": "diabetes mellitus",
+    "label": "PROBLEM",
+    "start": 2075,
+    "end": 2092
+  },
+  {
+    "entity": "accu-cheks",
+    "label": "TEST",
+    "start": 2094,
+    "end": 2104
+  },
+  {
+    "entity": "sinusitis",
+    "label": "PROBLEM",
+    "start": 2106,
+    "end": 2115
+  },
+  {
+    "entity": "abdominal pain",
+    "label": "PROBLEM",
+    "start": 2117,
+    "end": 2131
+  },
+  {
+    "entity": "constipation",
+    "label": "PROBLEM",
+    "start": 2133,
+    "end": 2145
+  },
+  {
+    "entity": "diarrhea",
+    "label": "PROBLEM",
+    "start": 2147,
+    "end": 2155
+  },
+  {
+    "entity": "hypercholesterolemia",
+    "label": "PROBLEM",
+    "start": 2157,
+    "end": 2177
+  },
+  {
+    "entity": "nausea",
+    "label": "PROBLEM",
+    "start": 2179,
+    "end": 2185
+  },
+  {
+    "entity": "vomiting",
+    "label": "PROBLEM",
+    "start": 2202,
+    "end": 2210
+  },
+  {
+    "entity": "weight loss",
+    "label": "PROBLEM",
+    "start": 2212,
+    "end": 2223
+  },
+  {
+    "entity": "colonoscopy",
+    "label": "PROBLEM",
+    "start": 2225,
+    "end": 2236
+  },
+  {
+    "entity": "diabetes",
+    "label": "PROBLEM",
+    "start": 2238,
+    "end": 2246
+  }
+]

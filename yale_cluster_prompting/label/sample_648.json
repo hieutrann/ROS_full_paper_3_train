@@ -1,0 +1,416 @@
+[
+  {
+    "entity": "shortness of breath",
+    "label": "PROBLEM",
+    "start": 127,
+    "end": 146
+  },
+  {
+    "entity": "acute COPD exacerbation",
+    "label": "PROBLEM",
+    "start": 169,
+    "end": 192
+  },
+  {
+    "entity": "Chronic obstructive pulmonary disease",
+    "label": "PROBLEM",
+    "start": 261,
+    "end": 298
+  },
+  {
+    "entity": "Pneumonia",
+    "label": "PROBLEM",
+    "start": 303,
+    "end": 312
+  },
+  {
+    "entity": "Congestive heart failure",
+    "label": "PROBLEM",
+    "start": 317,
+    "end": 341
+  },
+  {
+    "entity": "Diabetes mellitus",
+    "label": "PROBLEM",
+    "start": 346,
+    "end": 363
+  },
+  {
+    "entity": "Neuropathy",
+    "label": "PROBLEM",
+    "start": 368,
+    "end": 378
+  },
+  {
+    "entity": "Anxiety",
+    "label": "PROBLEM",
+    "start": 383,
+    "end": 390
+  },
+  {
+    "entity": "Hypothyroidism",
+    "label": "PROBLEM",
+    "start": 395,
+    "end": 409
+  },
+  {
+    "entity": "Depression",
+    "label": "PROBLEM",
+    "start": 414,
+    "end": 424
+  },
+  {
+    "entity": "Hypertension",
+    "label": "PROBLEM",
+    "start": 429,
+    "end": 441
+  },
+  {
+    "entity": "Severe chronic obstructive pulmonary disease",
+    "label": "PROBLEM",
+    "start": 472,
+    "end": 516
+  },
+  {
+    "entity": "Diabetes mellitus",
+    "label": "PROBLEM",
+    "start": 521,
+    "end": 538
+  },
+  {
+    "entity": "Hypothyroidism",
+    "label": "PROBLEM",
+    "start": 543,
+    "end": 557
+  },
+  {
+    "entity": "Altered mental status",
+    "label": "PROBLEM",
+    "start": 562,
+    "end": 583
+  },
+  {
+    "entity": "less somnolent",
+    "label": "PROBLEM",
+    "start": 585,
+    "end": 599
+  },
+  {
+    "entity": "medications",
+    "label": "TREATMENT",
+    "start": 621,
+    "end": 632
+  },
+  {
+    "entity": "Lower gastrointestinal bleed",
+    "label": "PROBLEM",
+    "start": 647,
+    "end": 675
+  },
+  {
+    "entity": "atrial fibrillation",
+    "label": "PROBLEM",
+    "start": 703,
+    "end": 722
+  },
+  {
+    "entity": "diverticular bleed",
+    "label": "PROBLEM",
+    "start": 739,
+    "end": 757
+  },
+  {
+    "entity": "Albuterol inhaler",
+    "label": "TREATMENT",
+    "start": 785,
+    "end": 802
+  },
+  {
+    "entity": "Albuterol",
+    "label": "DRUG",
+    "start": 785,
+    "end": 794
+  },
+  {
+    "entity": "Xanax",
+    "label": "DRUG",
+    "start": 813,
+    "end": 818
+  },
+  {
+    "entity": "Cardizem CD",
+    "label": "DRUG",
+    "start": 834,
+    "end": 845
+  },
+  {
+    "entity": "Colace",
+    "label": "DRUG",
+    "start": 863,
+    "end": 869
+  },
+  {
+    "entity": "Iron sulfate",
+    "label": "DRUG",
+    "start": 887,
+    "end": 899
+  },
+  {
+    "entity": "NPH",
+    "label": "DRUG",
+    "start": 917,
+    "end": 920
+  },
+  {
+    "entity": "Atrovent inhaler",
+    "label": "TREATMENT",
+    "start": 953,
+    "end": 969
+  },
+  {
+    "entity": "Atrovent",
+    "label": "DRUG",
+    "start": 953,
+    "end": 961
+  },
+  {
+    "entity": "Statin",
+    "label": "DRUG",
+    "start": 980,
+    "end": 986
+  },
+  {
+    "entity": "Paxil",
+    "label": "DRUG",
+    "start": 1035,
+    "end": 1040
+  },
+  {
+    "entity": "Prednisone",
+    "label": "DRUG",
+    "start": 1058,
+    "end": 1068
+  },
+  {
+    "entity": "Darvocet Darvocet-N",
+    "label": "DRUG",
+    "start": 1086,
+    "end": 1105
+  },
+  {
+    "entity": "pain",
+    "label": "PROBLEM",
+    "start": 1124,
+    "end": 1128
+  },
+  {
+    "entity": "Metamucil",
+    "label": "DRUG",
+    "start": 1134,
+    "end": 1143
+  },
+  {
+    "entity": "Synthroid",
+    "label": "DRUG",
+    "start": 1164,
+    "end": 1173
+  },
+  {
+    "entity": "Nexium",
+    "label": "DRUG",
+    "start": 1192,
+    "end": 1198
+  },
+  {
+    "entity": "shortness of breath",
+    "label": "PROBLEM",
+    "start": 1292,
+    "end": 1311
+  },
+  {
+    "entity": "acute COPD exacerbation",
+    "label": "PROBLEM",
+    "start": 1334,
+    "end": 1357
+  },
+  {
+    "entity": "BiPAP",
+    "label": "TREATMENT",
+    "start": 1438,
+    "end": 1443
+  },
+  {
+    "entity": "BiPAP",
+    "label": "TREATMENT",
+    "start": 1482,
+    "end": 1487
+  },
+  {
+    "entity": "COPD",
+    "label": "PROBLEM",
+    "start": 1534,
+    "end": 1538
+  },
+  {
+    "entity": "bronchitis",
+    "label": "PROBLEM",
+    "start": 1597,
+    "end": 1607
+  },
+  {
+    "entity": "antibiotics",
+    "label": "DRUG",
+    "start": 1637,
+    "end": 1648
+  },
+  {
+    "entity": "acute lower GI bleed",
+    "label": "PROBLEM",
+    "start": 1687,
+    "end": 1707
+  },
+  {
+    "entity": "packed red blood cells",
+    "label": "DRUG",
+    "start": 1766,
+    "end": 1788
+  },
+  {
+    "entity": "endoscopy",
+    "label": "TEST",
+    "start": 1818,
+    "end": 1827
+  },
+  {
+    "entity": "diverticular disease of the sigmoid colon",
+    "label": "PROBLEM",
+    "start": 1839,
+    "end": 1880
+  },
+  {
+    "entity": "hemorrhage",
+    "label": "PROBLEM",
+    "start": 1921,
+    "end": 1931
+  },
+  {
+    "entity": "Plavix",
+    "label": "DRUG",
+    "start": 1933,
+    "end": 1939
+  },
+  {
+    "entity": "Lovenox",
+    "label": "DRUG",
+    "start": 1976,
+    "end": 1983
+  },
+  {
+    "entity": "bleeding",
+    "label": "PROBLEM",
+    "start": 2018,
+    "end": 2026
+  },
+  {
+    "entity": "the above noted medications",
+    "label": "TREATMENT",
+    "start": 2121,
+    "end": 2148
+  },
+  {
+    "entity": "chronic obstructive pulmonary disease",
+    "label": "PROBLEM",
+    "start": 2321,
+    "end": 2358
+  },
+  {
+    "entity": "pneumonia",
+    "label": "PROBLEM",
+    "start": 2360,
+    "end": 2369
+  },
+  {
+    "entity": "congestive heart failure",
+    "label": "PROBLEM",
+    "start": 2371,
+    "end": 2395
+  },
+  {
+    "entity": "diabetes mellitus",
+    "label": "PROBLEM",
+    "start": 2397,
+    "end": 2414
+  },
+  {
+    "entity": "neuropathy",
+    "label": "PROBLEM",
+    "start": 2416,
+    "end": 2426
+  },
+  {
+    "entity": "anxiety",
+    "label": "PROBLEM",
+    "start": 2428,
+    "end": 2435
+  },
+  {
+    "entity": "hypothyroidism",
+    "label": "PROBLEM",
+    "start": 2437,
+    "end": 2451
+  },
+  {
+    "entity": "depression",
+    "label": "PROBLEM",
+    "start": 2453,
+    "end": 2463
+  },
+  {
+    "entity": "hypertension",
+    "label": "PROBLEM",
+    "start": 2465,
+    "end": 2477
+  },
+  {
+    "entity": "shortness of breath",
+    "label": "PROBLEM",
+    "start": 2479,
+    "end": 2498
+  },
+  {
+    "entity": "obstructive pulmonary disease",
+    "label": "PROBLEM",
+    "start": 2500,
+    "end": 2529
+  },
+  {
+    "entity": "pulmonary disease",
+    "label": "PROBLEM",
+    "start": 2531,
+    "end": 2548
+  },
+  {
+    "entity": "discharge",
+    "label": "PROBLEM",
+    "start": 2550,
+    "end": 2559
+  },
+  {
+    "entity": "inhaler",
+    "label": "TREATMENT",
+    "start": 2561,
+    "end": 2568
+  },
+  {
+    "entity": "copd",
+    "label": "PROBLEM",
+    "start": 2570,
+    "end": 2574
+  },
+  {
+    "entity": "exacerbation",
+    "label": "PROBLEM",
+    "start": 2576,
+    "end": 2588
+  }
+]

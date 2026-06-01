@@ -1,0 +1,290 @@
+[
+  {
+    "entity": "D&C",
+    "label": "TREATMENT",
+    "start": 64,
+    "end": 67
+  },
+  {
+    "entity": "Hysteroscopy",
+    "label": "TEST",
+    "start": 101,
+    "end": 113
+  },
+  {
+    "entity": "dilatation and curettage (D&C)",
+    "label": "TREATMENT",
+    "start": 115,
+    "end": 145
+  },
+  {
+    "entity": "myomectomy",
+    "label": "TREATMENT",
+    "start": 151,
+    "end": 161
+  },
+  {
+    "entity": "Severe menometrorrhagia",
+    "label": "PROBLEM",
+    "start": 163,
+    "end": 186
+  },
+  {
+    "entity": "medical therapy",
+    "label": "TREATMENT",
+    "start": 203,
+    "end": 218
+  },
+  {
+    "entity": "severe anemia",
+    "label": "PROBLEM",
+    "start": 220,
+    "end": 233
+  },
+  {
+    "entity": "fibroid uterus",
+    "label": "PROBLEM",
+    "start": 239,
+    "end": 253
+  },
+  {
+    "entity": "Severe menometrorrhagia",
+    "label": "PROBLEM",
+    "start": 317,
+    "end": 340
+  },
+  {
+    "entity": "medical therapy",
+    "label": "TREATMENT",
+    "start": 357,
+    "end": 372
+  },
+  {
+    "entity": "Severe anemia",
+    "label": "PROBLEM",
+    "start": 377,
+    "end": 390
+  },
+  {
+    "entity": "Fibroid uterus",
+    "label": "PROBLEM",
+    "start": 395,
+    "end": 409
+  },
+  {
+    "entity": "Severe menometrorrhagia",
+    "label": "PROBLEM",
+    "start": 435,
+    "end": 458
+  },
+  {
+    "entity": "medical therapy",
+    "label": "TREATMENT",
+    "start": 475,
+    "end": 490
+  },
+  {
+    "entity": "Severe anemia",
+    "label": "PROBLEM",
+    "start": 495,
+    "end": 508
+  },
+  {
+    "entity": "Fibroid uterus",
+    "label": "PROBLEM",
+    "start": 513,
+    "end": 527
+  },
+  {
+    "entity": "Hysteroscopy",
+    "label": "TEST",
+    "start": 554,
+    "end": 566
+  },
+  {
+    "entity": "Dilatation and curettage (D&C).",
+    "label": "TREATMENT",
+    "start": 571,
+    "end": 602
+  },
+  {
+    "entity": "Myomectomy",
+    "label": "TREATMENT",
+    "start": 606,
+    "end": 616
+  },
+  {
+    "entity": "Large endometrial cavity fibroid",
+    "label": "PROBLEM",
+    "start": 633,
+    "end": 665
+  },
+  {
+    "entity": "dissection",
+    "label": "TREATMENT",
+    "start": 684,
+    "end": 694
+  },
+  {
+    "entity": "excision",
+    "label": "TREATMENT",
+    "start": 699,
+    "end": 707
+  },
+  {
+    "entity": "Two units of packed red blood cells",
+    "label": "TREATMENT",
+    "start": 729,
+    "end": 764
+  },
+  {
+    "entity": "her hematocrit",
+    "label": "TEST",
+    "start": 849,
+    "end": 863
+  },
+  {
+    "entity": "hemoglobin",
+    "label": "TEST",
+    "start": 871,
+    "end": 881
+  },
+  {
+    "entity": "a dilatation and curettage (D&C)",
+    "label": "TREATMENT",
+    "start": 1006,
+    "end": 1038
+  },
+  {
+    "entity": "Hysteroscopy",
+    "label": "TREATMENT",
+    "start": 1054,
+    "end": 1066
+  },
+  {
+    "entity": "a large endometrial cavity fibroid",
+    "label": "PROBLEM",
+    "start": 1076,
+    "end": 1110
+  },
+  {
+    "entity": "shaving and excision of this fibroid",
+    "label": "TREATMENT",
+    "start": 1120,
+    "end": 1156
+  },
+  {
+    "entity": "removal of the fibroid",
+    "label": "TREATMENT",
+    "start": 1176,
+    "end": 1198
+  },
+  {
+    "entity": "Hemostasis",
+    "label": "PROBLEM",
+    "start": 1200,
+    "end": 1210
+  },
+  {
+    "entity": "this procedure",
+    "label": "TREATMENT",
+    "start": 1246,
+    "end": 1260
+  },
+  {
+    "entity": "a 2nd unit of packed red blood cells",
+    "label": "TREATMENT",
+    "start": 1328,
+    "end": 1364
+  },
+  {
+    "entity": "intraoperative blood loss",
+    "label": "PROBLEM",
+    "start": 1376,
+    "end": 1401
+  },
+  {
+    "entity": "difficulty",
+    "label": "PROBLEM",
+    "start": 1441,
+    "end": 1451
+  },
+  {
+    "entity": "pelvic rest for 6 weeks",
+    "label": "TREATMENT",
+    "start": 1699,
+    "end": 1722
+  },
+  {
+    "entity": "Vicodin",
+    "label": "DRUG",
+    "start": 1724,
+    "end": 1731
+  },
+  {
+    "entity": "pain",
+    "label": "PROBLEM",
+    "start": 1770,
+    "end": 1774
+  },
+  {
+    "entity": "multiple vitamin",
+    "label": "DRUG",
+    "start": 1776,
+    "end": 1792
+  },
+  {
+    "entity": "ferrous sulfate",
+    "label": "DRUG",
+    "start": 1811,
+    "end": 1826
+  },
+  {
+    "entity": "(d&c),",
+    "label": "TREATMENT",
+    "start": 2128,
+    "end": 2134
+  },
+  {
+    "entity": "fibroid uterus",
+    "label": "PROBLEM",
+    "start": 2135,
+    "end": 2149
+  },
+  {
+    "entity": "myomectomy",
+    "label": "TREATMENT",
+    "start": 2151,
+    "end": 2161
+  },
+  {
+    "entity": "dilatation",
+    "label": "TREATMENT",
+    "start": 2163,
+    "end": 2173
+  },
+  {
+    "entity": "curettage",
+    "label": "TREATMENT",
+    "start": 2175,
+    "end": 2184
+  },
+  {
+    "entity": "menometrorrhagia",
+    "label": "PROBLEM",
+    "start": 2186,
+    "end": 2202
+  },
+  {
+    "entity": "hysteroscopy",
+    "label": "TEST",
+    "start": 2212,
+    "end": 2224
+  },
+  {
+    "entity": "fibroid",
+    "label": "PROBLEM",
+    "start": 2226,
+    "end": 2233
+  }
+]

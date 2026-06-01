@@ -1,0 +1,80 @@
+[
+  {
+    "wheezing": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "prematurity": "PROBLEM"
+  },
+  {
+    "wheezing": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "inhaled steroids": "DRUG"
+  },
+  {
+    "bronchodilator": "DRUG"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "prednisolone": "DRUG"
+  },
+  {
+    "asthma": "PROBLEM"
+  },
+  {
+    "medication": "DRUG"
+  },
+  {
+    "rhonchi": "PROBLEM"
+  },
+  {
+    "asthma": "PROBLEM"
+  },
+  {
+    "childhood asthma": "PROBLEM"
+  },
+  {
+    "steroids": "DRUG"
+  },
+  {
+    "pediatrics - neonatal": "PROBLEM"
+  },
+  {
+    "gestation": "PROBLEM"
+  },
+  {
+    "bronchodilator": "DRUG"
+  },
+  {
+    "childhood asthma": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "wheezing": "PROBLEM"
+  },
+  {
+    "wheezing cough": "PROBLEM"
+  },
+  {
+    "asthma": "PROBLEM"
+  }
+]

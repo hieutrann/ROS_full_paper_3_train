@@ -1,0 +1,422 @@
+[
+  {
+    "peritoneal carcinomatosis": "PROBLEM"
+  },
+  {
+    "appendiceal primary": "PROBLEM"
+  },
+  {
+    "General Medicine": "TEST"
+  },
+  {
+    "Discharge Summary": "TEST"
+  },
+  {
+    "peritoneal carcinomatosis": "PROBLEM"
+  },
+  {
+    "appendiceal primary": "PROBLEM"
+  },
+  {
+    "DATE OF ADMISSION": "TEST"
+  },
+  {
+    "DATE OF DISCHARGE": "TEST"
+  },
+  {
+    "Peritoneal carcinomatosis": "PROBLEM"
+  },
+  {
+    "appendiceal primary": "PROBLEM"
+  },
+  {
+    "Peritoneal carcinomatosis": "PROBLEM"
+  },
+  {
+    "appendiceal primary": "PROBLEM"
+  },
+  {
+    "Diarrhea": "PROBLEM"
+  },
+  {
+    "General surgery": "TREATMENT"
+  },
+  {
+    "Surgery Oncology": "TREATMENT"
+  },
+  {
+    "Urology": "TREATMENT"
+  },
+  {
+    "PROCEDURES DURING THIS HOSPITALIZATION": "TREATMENT"
+  },
+  {
+    "Cystoscopy": "TEST"
+  },
+  {
+    "pyelograms": "TEST"
+  },
+  {
+    "ureteral stents": "TREATMENT"
+  },
+  {
+    "2": "TREATMENT"
+  },
+  {
+    "laparotomy": "TREATMENT"
+  },
+  {
+    "hemicolectomy": "TREATMENT"
+  },
+  {
+    "cholecystectomy": "TREATMENT"
+  },
+  {
+    "splenectomy": "TREATMENT"
+  },
+  {
+    "omentectomy": "TREATMENT"
+  },
+  {
+    "IPHC": "TREATMENT"
+  },
+  {
+    "mitomycin-C": "DRUG"
+  },
+  {
+    "peritoneal carcinomatosis": "PROBLEM"
+  },
+  {
+    "appendiceal primary": "PROBLEM"
+  },
+  {
+    "peritoneal carcinomatosis": "PROBLEM"
+  },
+  {
+    "appendiceal primary": "PROBLEM"
+  },
+  {
+    "General Surgery C Service": "TREATMENT"
+  },
+  {
+    "baseline labs": "TEST"
+  },
+  {
+    "bowel prep": "TREATMENT"
+  },
+  {
+    "urology consult": "TEST"
+  },
+  {
+    "ureteral stent placement": "TREATMENT"
+  },
+  {
+    "cystoscopy": "TEST"
+  },
+  {
+    "bilateral ureteral stent placement": "TREATMENT"
+  },
+  {
+    "Dr.": "TREATMENT"
+  },
+  {
+    "laparotomy": "TREATMENT"
+  },
+  {
+    "hemicolectomy": "TREATMENT"
+  },
+  {
+    "cholecystectomy": "TREATMENT"
+  },
+  {
+    "splenectomy": "TREATMENT"
+  },
+  {
+    "omentectomy": "TREATMENT"
+  },
+  {
+    "IPHC": "TREATMENT"
+  },
+  {
+    "mitomycin-C": "DRUG"
+  },
+  {
+    "complications": "PROBLEM"
+  },
+  {
+    "tachycardia": "PROBLEM"
+  },
+  {
+    "extubation": "TREATMENT"
+  },
+  {
+    "floor": "TEST"
+  },
+  {
+    "flatus": "TEST"
+  },
+  {
+    "clear liquid diet": "TREATMENT"
+  },
+  {
+    "health select diet": "TREATMENT"
+  },
+  {
+    "PCA pump": "TREATMENT"
+  },
+  {
+    "p.o.": "DRUG"
+  },
+  {
+    "pain medicines": "DRUG"
+  },
+  {
+    "pain control": "PROBLEM"
+  },
+  {
+    "ambulating": "TREATMENT"
+  },
+  {
+    "diarrhea": "PROBLEM"
+  },
+  {
+    "hemicolectomy": "TREATMENT"
+  },
+  {
+    "C. diff toxin": "TEST"
+  },
+  {
+    "Imodium": "DRUG"
+  },
+  {
+    "pneumococcal vaccines": "DRUG"
+  },
+  {
+    "HiB vaccines": "DRUG"
+  },
+  {
+    "meningococcal vaccines": "DRUG"
+  },
+  {
+    "bed": "TREATMENT"
+  },
+  {
+    "afebrile": "PROBLEM"
+  },
+  {
+    "vital signs": "TEST"
+  },
+  {
+    "abdomen": "PROBLEM"
+  },
+  {
+    "bowel sounds": "TEST"
+  },
+  {
+    "nondistended": "PROBLEM"
+  },
+  {
+    "nontender": "PROBLEM"
+  },
+  {
+    "bowel sounds": "TEST"
+  },
+  {
+    "midline incision": "PROBLEM"
+  },
+  {
+    "staples": "DRUG"
+  },
+  {
+    "postop": "TEST"
+  },
+  {
+    "staples": "TEST"
+  },
+  {
+    "follow-up appointment": "TEST"
+  },
+  {
+    "good and stable condition": "PROBLEM"
+  },
+  {
+    "DISCHARGE MEDICATIONS": "TREATMENT"
+  },
+  {
+    "Multivitamins": "DRUG"
+  },
+  {
+    "2": "TREATMENT"
+  },
+  {
+    "Lovenox": "DRUG"
+  },
+  {
+    "40 mg": "DRUG"
+  },
+  {
+    "0.4 mL": "DRUG"
+  },
+  {
+    "solution": "DRUG"
+  },
+  {
+    "inject": "TREATMENT"
+  },
+  {
+    "subcutaneously": "TREATMENT"
+  },
+  {
+    "once daily": "TREATMENT"
+  },
+  {
+    "14 days": "TREATMENT"
+  },
+  {
+    "3": "PROBLEM"
+  },
+  {
+    "Vicodin": "DRUG"
+  },
+  {
+    "pain": "PROBLEM"
+  },
+  {
+    "tablet": "TREATMENT"
+  },
+  {
+    "hours": "TREATMENT"
+  },
+  {
+    "4": "PROBLEM"
+  },
+  {
+    "Phenergan": "DRUG"
+  },
+  {
+    "12.5 mg": "DRUG"
+  },
+  {
+    "tablets": "TREATMENT"
+  },
+  {
+    "take one tablet by mouth every six hours": "TREATMENT"
+  },
+  {
+    "p.r.n.": "TREATMENT"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "5": "PROBLEM"
+  },
+  {
+    "Imodium A-D tablets": "DRUG"
+  },
+  {
+    "one tablet": "TREATMENT"
+  },
+  {
+    "by mouth": "TREATMENT"
+  },
+  {
+    "b.i.d.": "TREATMENT"
+  },
+  {
+    "diarrhea": "PROBLEM"
+  },
+  {
+    "us": "TREATMENT"
+  },
+  {
+    "fevers": "PROBLEM"
+  },
+  {
+    "chills": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomitting": "PROBLEM"
+  },
+  {
+    "diarrhea": "PROBLEM"
+  },
+  {
+    "redness": "PROBLEM"
+  },
+  {
+    "drainage": "PROBLEM"
+  },
+  {
+    "warmth": "PROBLEM"
+  },
+  {
+    "incision site": "PROBLEM"
+  },
+  {
+    "Dr": "TREATMENT"
+  },
+  {
+    "staples": "TREATMENT"
+  },
+  {
+    "FOLLOW-UP APPOINTMENT": "TEST"
+  },
+  {
+    "XYZ": "PROBLEM"
+  },
+  {
+    "carcinomatosis": "PROBLEM"
+  },
+  {
+    "appendiceal primary": "PROBLEM"
+  },
+  {
+    "tablet by mouth": "DRUG"
+  },
+  {
+    "stent placement": "TREATMENT"
+  },
+  {
+    "ureteral stents": "TREATMENT"
+  },
+  {
+    "peritoneal carcinomatosis": "PROBLEM"
+  },
+  {
+    "appendiceal primary": "PROBLEM"
+  },
+  {
+    "discharge": "TEST"
+  },
+  {
+    "admitted": "TEST"
+  },
+  {
+    "insertion": "TREATMENT"
+  },
+  {
+    "hemicolectomy": "TREATMENT"
+  },
+  {
+    "splenectomy": "TREATMENT"
+  },
+  {
+    "peritoneal": "TEST"
+  },
+  {
+    "appendiceal": "TEST"
+  },
+  {
+    "postoperatively": "TEST"
+  },
+  {
+    "carcinomatosis": "PROBLEM"
+  },
+  {
+    "oncology": "TEST"
+  }
+]

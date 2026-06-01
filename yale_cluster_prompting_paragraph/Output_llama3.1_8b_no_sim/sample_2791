@@ -1,0 +1,83 @@
+[
+  {
+    "GI Bleed": "PROBLEM"
+  },
+  {
+    "Upper gastrointestinal bleed": "PROBLEM"
+  },
+  {
+    "microcytic anemia": "PROBLEM"
+  },
+  {
+    "atrial fibrillation": "PROBLEM"
+  },
+  {
+    "non-insulin-dependent diabetes mellitus": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "hypothyroidism": "PROBLEM"
+  },
+  {
+    "asthma": "PROBLEM"
+  },
+  {
+    "erosive gastritis": "PROBLEM"
+  },
+  {
+    "diverticulosis": "PROBLEM"
+  },
+  {
+    "polyp": "PROBLEM"
+  },
+  {
+    "CBC": "TEST"
+  },
+  {
+    "VITAL SIGNS": "TEST"
+  },
+  {
+    "Feosol": "DRUG"
+  },
+  {
+    "multivitamins": "DRUG"
+  },
+  {
+    "Protonix": "DRUG"
+  },
+  {
+    "KCl": "DRUG"
+  },
+  {
+    "Lasix": "DRUG"
+  },
+  {
+    "atenolol": "DRUG"
+  },
+  {
+    "Synthroid": "DRUG"
+  },
+  {
+    "Actos": "DRUG"
+  },
+  {
+    "Mevacor": "DRUG"
+  },
+  {
+    "lisinopril": "DRUG"
+  },
+  {
+    "Coumadin": "DRUG"
+  },
+  {
+    "endoscopy": "TREATMENT"
+  },
+  {
+    "colonoscopy": "TREATMENT"
+  },
+  {
+    "transfusion": "TREATMENT"
+  }
+]

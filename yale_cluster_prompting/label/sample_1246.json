@@ -1,0 +1,272 @@
+[
+  {
+    "entity": "Gastric Bypass",
+    "label": "TREATMENT",
+    "start": 64,
+    "end": 78
+  },
+  {
+    "entity": "laparoscopic Roux-en-Y gastric bypass",
+    "label": "TREATMENT",
+    "start": 125,
+    "end": 162
+  },
+  {
+    "entity": "Morbid obesity",
+    "label": "PROBLEM",
+    "start": 221,
+    "end": 235
+  },
+  {
+    "entity": "laparoscopic Roux-en-Y gastric bypass",
+    "label": "TREATMENT",
+    "start": 249,
+    "end": 286
+  },
+  {
+    "entity": "Hypertension",
+    "label": "PROBLEM",
+    "start": 291,
+    "end": 303
+  },
+  {
+    "entity": "Obstructive sleep apnea",
+    "label": "PROBLEM",
+    "start": 308,
+    "end": 331
+  },
+  {
+    "entity": "CPAP",
+    "label": "TREATMENT",
+    "start": 336,
+    "end": 340
+  },
+  {
+    "entity": "Laparoscopic Roux-en-Y gastric bypass",
+    "label": "TREATMENT",
+    "start": 367,
+    "end": 404
+  },
+  {
+    "entity": "evaluation",
+    "label": "TEST",
+    "start": 516,
+    "end": 526
+  },
+  {
+    "entity": "treatment",
+    "label": "TREATMENT",
+    "start": 531,
+    "end": 540
+  },
+  {
+    "entity": "longstanding morbid obesity",
+    "label": "PROBLEM",
+    "start": 544,
+    "end": 571
+  },
+  {
+    "entity": "associated comorbidities",
+    "label": "PROBLEM",
+    "start": 576,
+    "end": 600
+  },
+  {
+    "entity": "standard bariatric evaluation",
+    "label": "TEST",
+    "start": 612,
+    "end": 641
+  },
+  {
+    "entity": "preop Medifast induced weight loss",
+    "label": "TREATMENT",
+    "start": 670,
+    "end": 704
+  },
+  {
+    "entity": "elective bariatric surgery",
+    "label": "TREATMENT",
+    "start": 724,
+    "end": 750
+  },
+  {
+    "entity": "elective gastric bypass",
+    "label": "TREATMENT",
+    "start": 801,
+    "end": 824
+  },
+  {
+    "entity": "routine postoperative care",
+    "label": "TREATMENT",
+    "start": 891,
+    "end": 917
+  },
+  {
+    "entity": "DVT prophylaxis",
+    "label": "TREATMENT",
+    "start": 926,
+    "end": 941
+  },
+  {
+    "entity": "heparin",
+    "label": "DRUG",
+    "start": 967,
+    "end": 974
+  },
+  {
+    "entity": "early and frequent mobilization",
+    "label": "TREATMENT",
+    "start": 976,
+    "end": 1007
+  },
+  {
+    "entity": "SCDs",
+    "label": "TREATMENT",
+    "start": 1013,
+    "end": 1017
+  },
+  {
+    "entity": "PCA",
+    "label": "TREATMENT",
+    "start": 1019,
+    "end": 1022
+  },
+  {
+    "entity": "pain control",
+    "label": "TREATMENT",
+    "start": 1040,
+    "end": 1052
+  },
+  {
+    "entity": "the CPAP",
+    "label": "TREATMENT",
+    "start": 1081,
+    "end": 1089
+  },
+  {
+    "entity": "new cardiopulmonary complaints",
+    "label": "PROBLEM",
+    "start": 1117,
+    "end": 1147
+  },
+  {
+    "entity": "labs",
+    "label": "TEST",
+    "start": 1164,
+    "end": 1168
+  },
+  {
+    "entity": "bariatric clear liquids",
+    "label": "TREATMENT",
+    "start": 1216,
+    "end": 1239
+  },
+  {
+    "entity": "cardiopulmonary complaints",
+    "label": "PROBLEM",
+    "start": 1313,
+    "end": 1339
+  },
+  {
+    "entity": "unusual fever",
+    "label": "PROBLEM",
+    "start": 1344,
+    "end": 1357
+  },
+  {
+    "entity": "symptoms",
+    "label": "PROBLEM",
+    "start": 1372,
+    "end": 1380
+  },
+  {
+    "entity": "his drains",
+    "label": "TREATMENT",
+    "start": 1553,
+    "end": 1563
+  },
+  {
+    "entity": "significant concerning complaints",
+    "label": "PROBLEM",
+    "start": 1693,
+    "end": 1726
+  },
+  {
+    "entity": "omeprazole",
+    "label": "DRUG",
+    "start": 1758,
+    "end": 1768
+  },
+  {
+    "entity": "Lortab",
+    "label": "DRUG",
+    "start": 1773,
+    "end": 1779
+  },
+  {
+    "entity": "bariatric clear liquids",
+    "label": "TREATMENT",
+    "start": 1836,
+    "end": 1859
+  },
+  {
+    "entity": "maintain activity at home",
+    "label": "TREATMENT",
+    "start": 1893,
+    "end": 1918
+  },
+  {
+    "entity": "drain site care",
+    "label": "TREATMENT",
+    "start": 1985,
+    "end": 2000
+  },
+  {
+    "entity": "wound care",
+    "label": "TREATMENT",
+    "start": 2005,
+    "end": 2015
+  },
+  {
+    "entity": "any significant concerning complaints",
+    "label": "PROBLEM",
+    "start": 2110,
+    "end": 2147
+  },
+  {
+    "entity": "laparoscopic roux-en-y gastric bypass",
+    "label": "TREATMENT",
+    "start": 2188,
+    "end": 2225
+  },
+  {
+    "entity": "roux-en-y",
+    "label": "TREATMENT",
+    "start": 2227,
+    "end": 2236
+  },
+  {
+    "entity": "bariatric clear liquids",
+    "label": "TREATMENT",
+    "start": 2238,
+    "end": 2261
+  },
+  {
+    "entity": "gastric bypass",
+    "label": "TREATMENT",
+    "start": 2263,
+    "end": 2277
+  },
+  {
+    "entity": "laparoscopic",
+    "label": "TREATMENT",
+    "start": 2279,
+    "end": 2291
+  },
+  {
+    "entity": "bypass",
+    "label": "TREATMENT",
+    "start": 2313,
+    "end": 2319
+  }
+]

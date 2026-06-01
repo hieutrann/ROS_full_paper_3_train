@@ -1,0 +1,638 @@
+[
+  {
+    "entity": "Cardiac Catheterization",
+    "label": "TEST",
+    "start": 55,
+    "end": 78
+  },
+  {
+    "entity": "Left heart catheterization",
+    "label": "TEST",
+    "start": 97,
+    "end": 123
+  },
+  {
+    "entity": "coronary angiography",
+    "label": "TEST",
+    "start": 129,
+    "end": 149
+  },
+  {
+    "entity": "vein graft angiography",
+    "label": "TEST",
+    "start": 151,
+    "end": 173
+  },
+  {
+    "entity": "left ventricular pressure measurement",
+    "label": "TEST",
+    "start": 178,
+    "end": 215
+  },
+  {
+    "entity": "angiography",
+    "label": "TEST",
+    "start": 220,
+    "end": 231
+  },
+  {
+    "entity": "Left heart catheterization",
+    "label": "TEST",
+    "start": 295,
+    "end": 321
+  },
+  {
+    "entity": "coronary angiography",
+    "label": "TEST",
+    "start": 327,
+    "end": 347
+  },
+  {
+    "entity": "vein graft angiography",
+    "label": "TEST",
+    "start": 349,
+    "end": 371
+  },
+  {
+    "entity": "left ventricular pressure measurement",
+    "label": "TEST",
+    "start": 376,
+    "end": 413
+  },
+  {
+    "entity": "angiography",
+    "label": "TEST",
+    "start": 418,
+    "end": 429
+  },
+  {
+    "entity": "Right femoral selective angiogram",
+    "label": "TEST",
+    "start": 434,
+    "end": 467
+  },
+  {
+    "entity": "Closure device",
+    "label": "TREATMENT",
+    "start": 472,
+    "end": 486
+  },
+  {
+    "entity": "an Angio-Seal",
+    "label": "TREATMENT",
+    "start": 526,
+    "end": 539
+  },
+  {
+    "entity": "known coronary atherosclerotic heart disease",
+    "label": "PROBLEM",
+    "start": 585,
+    "end": 629
+  },
+  {
+    "entity": "coronary disease",
+    "label": "PROBLEM",
+    "start": 659,
+    "end": 675
+  },
+  {
+    "entity": "her last coronary arteriogram",
+    "label": "TEST",
+    "start": 685,
+    "end": 714
+  },
+  {
+    "entity": "progressive chest discomfort",
+    "label": "PROBLEM",
+    "start": 760,
+    "end": 788
+  },
+  {
+    "entity": "diabetes",
+    "label": "PROBLEM",
+    "start": 839,
+    "end": 847
+  },
+  {
+    "entity": "hypertension",
+    "label": "PROBLEM",
+    "start": 849,
+    "end": 861
+  },
+  {
+    "entity": "hyperlipidemia",
+    "label": "PROBLEM",
+    "start": 863,
+    "end": 877
+  },
+  {
+    "entity": "percutaneous evaluation",
+    "label": "TEST",
+    "start": 934,
+    "end": 957
+  },
+  {
+    "entity": "intervention",
+    "label": "TREATMENT",
+    "start": 971,
+    "end": 983
+  },
+  {
+    "entity": "her known disease",
+    "label": "PROBLEM",
+    "start": 990,
+    "end": 1007
+  },
+  {
+    "entity": "disease progression",
+    "label": "PROBLEM",
+    "start": 1031,
+    "end": 1050
+  },
+  {
+    "entity": "her procedure",
+    "label": "TREATMENT",
+    "start": 1174,
+    "end": 1187
+  },
+  {
+    "entity": "lidocaine",
+    "label": "DRUG",
+    "start": 1308,
+    "end": 1317
+  },
+  {
+    "entity": "a 6-French sheath",
+    "label": "TREATMENT",
+    "start": 1325,
+    "end": 1342
+  },
+  {
+    "entity": "Coronary angiography",
+    "label": "TEST",
+    "start": 1420,
+    "end": 1440
+  },
+  {
+    "entity": "left ventricular measurement",
+    "label": "TEST",
+    "start": 1445,
+    "end": 1473
+  },
+  {
+    "entity": "angiography",
+    "label": "TEST",
+    "start": 1478,
+    "end": 1489
+  },
+  {
+    "entity": "the saphenous vein graft conduit",
+    "label": "TREATMENT",
+    "start": 1660,
+    "end": 1692
+  },
+  {
+    "entity": "a 6-French angled pigtail catheter",
+    "label": "TREATMENT",
+    "start": 1708,
+    "end": 1742
+  },
+  {
+    "entity": "left ventricular pressures",
+    "label": "TEST",
+    "start": 1763,
+    "end": 1789
+  },
+  {
+    "entity": "a power injection",
+    "label": "TREATMENT",
+    "start": 1805,
+    "end": 1822
+  },
+  {
+    "entity": "a left ventriculogram",
+    "label": "TEST",
+    "start": 1824,
+    "end": 1845
+  },
+  {
+    "entity": "the diagnostic evaluation",
+    "label": "TEST",
+    "start": 1908,
+    "end": 1933
+  },
+  {
+    "entity": "selective arteriography of her right femoral artery",
+    "label": "TEST",
+    "start": 1951,
+    "end": 2002
+  },
+  {
+    "entity": "significant atherosclerotic plaque",
+    "label": "PROBLEM",
+    "start": 2056,
+    "end": 2090
+  },
+  {
+    "entity": "an arteriotomy",
+    "label": "TEST",
+    "start": 2193,
+    "end": 2207
+  },
+  {
+    "entity": "a Perclose device",
+    "label": "TREATMENT",
+    "start": 2312,
+    "end": 2329
+  },
+  {
+    "entity": "the device",
+    "label": "TREATMENT",
+    "start": 2346,
+    "end": 2356
+  },
+  {
+    "entity": "the Perclose",
+    "label": "TREATMENT",
+    "start": 2442,
+    "end": 2454
+  },
+  {
+    "entity": "a 6-French Angio-Seal",
+    "label": "TREATMENT",
+    "start": 2555,
+    "end": 2576
+  },
+  {
+    "entity": "hemostasis",
+    "label": "TREATMENT",
+    "start": 2644,
+    "end": 2654
+  },
+  {
+    "entity": "her bedrest",
+    "label": "TREATMENT",
+    "start": 2744,
+    "end": 2755
+  },
+  {
+    "entity": "Opening aortic pressure",
+    "label": "PROBLEM",
+    "start": 2808,
+    "end": 2831
+  },
+  {
+    "entity": "left ventricular pressure",
+    "label": "TEST",
+    "start": 2840,
+    "end": 2865
+  },
+  {
+    "entity": "an end-diastolic pressure",
+    "label": "TEST",
+    "start": 2877,
+    "end": 2902
+  },
+  {
+    "entity": "significant gradient across the aortic valve",
+    "label": "PROBLEM",
+    "start": 2923,
+    "end": 2967
+  },
+  {
+    "entity": "Left ventricular ejection fraction",
+    "label": "TEST",
+    "start": 3005,
+    "end": 3039
+  },
+  {
+    "entity": "Mitral regurgitation",
+    "label": "PROBLEM",
+    "start": 3049,
+    "end": 3069
+  },
+  {
+    "entity": "CORONARY ANGIOGRAM",
+    "label": "TEST",
+    "start": 3152,
+    "end": 3170
+  },
+  {
+    "entity": "mild atherosclerotic plaque",
+    "label": "PROBLEM",
+    "start": 3206,
+    "end": 3233
+  },
+  {
+    "entity": "occluded",
+    "label": "PROBLEM",
+    "start": 3261,
+    "end": 3269
+  },
+  {
+    "entity": "mild diffuse atherosclerotic plaque",
+    "label": "PROBLEM",
+    "start": 3295,
+    "end": 3330
+  },
+  {
+    "entity": "a mid approximately 80% stenosis",
+    "label": "PROBLEM",
+    "start": 3389,
+    "end": 3421
+  },
+  {
+    "entity": "a prior anastomosis",
+    "label": "TREATMENT",
+    "start": 3478,
+    "end": 3497
+  },
+  {
+    "entity": "the saphenous vein graft to the OM",
+    "label": "TREATMENT",
+    "start": 3499,
+    "end": 3533
+  },
+  {
+    "entity": "mild proximal and mid atherosclerotic plaque",
+    "label": "PROBLEM",
+    "start": 3682,
+    "end": 3726
+  },
+  {
+    "entity": "an approximate 40% stenosis",
+    "label": "PROBLEM",
+    "start": 3765,
+    "end": 3792
+  },
+  {
+    "entity": "stenosis",
+    "label": "PROBLEM",
+    "start": 3857,
+    "end": 3865
+  },
+  {
+    "entity": "stenosis",
+    "label": "PROBLEM",
+    "start": 3900,
+    "end": 3908
+  },
+  {
+    "entity": "The saphenous vein graft to the right PDA",
+    "label": "TREATMENT",
+    "start": 3910,
+    "end": 3951
+  },
+  {
+    "entity": "the saphenous vein graft to the PDA",
+    "label": "TREATMENT",
+    "start": 4048,
+    "end": 4083
+  },
+  {
+    "entity": "PLV disease",
+    "label": "PROBLEM",
+    "start": 4150,
+    "end": 4161
+  },
+  {
+    "entity": "some retrograde filling of the right coronary artery",
+    "label": "PROBLEM",
+    "start": 4192,
+    "end": 4244
+  },
+  {
+    "entity": "this graft",
+    "label": "TREATMENT",
+    "start": 4264,
+    "end": 4274
+  },
+  {
+    "entity": "The saphenous vein graft to the left anterior descending",
+    "label": "TREATMENT",
+    "start": 4276,
+    "end": 4332
+  },
+  {
+    "entity": "some retrograde filling",
+    "label": "PROBLEM",
+    "start": 4436,
+    "end": 4459
+  },
+  {
+    "entity": "The saphenous vein graft to the obtuse marginal",
+    "label": "TREATMENT",
+    "start": 4523,
+    "end": 4570
+  },
+  {
+    "entity": "occluded",
+    "label": "PROBLEM",
+    "start": 4587,
+    "end": 4595
+  },
+  {
+    "entity": "the prior study",
+    "label": "TEST",
+    "start": 4601,
+    "end": 4616
+  },
+  {
+    "entity": "this study",
+    "label": "TEST",
+    "start": 4635,
+    "end": 4645
+  },
+  {
+    "entity": "the procedure",
+    "label": "TREATMENT",
+    "start": 4684,
+    "end": 4697
+  },
+  {
+    "entity": "mild left circumflex disease",
+    "label": "PROBLEM",
+    "start": 4747,
+    "end": 4775
+  },
+  {
+    "entity": "an 80% lesion",
+    "label": "PROBLEM",
+    "start": 4823,
+    "end": 4836
+  },
+  {
+    "entity": "percutaneous intervention",
+    "label": "TREATMENT",
+    "start": 4870,
+    "end": 4895
+  },
+  {
+    "entity": "mild to moderate distal disease",
+    "label": "PROBLEM",
+    "start": 4934,
+    "end": 4965
+  },
+  {
+    "entity": "moderate PLV",
+    "label": "PROBLEM",
+    "start": 4971,
+    "end": 4983
+  },
+  {
+    "entity": "PDA disease",
+    "label": "PROBLEM",
+    "start": 4988,
+    "end": 4999
+  },
+  {
+    "entity": "The saphenous vein graft to the OM",
+    "label": "TREATMENT",
+    "start": 5001,
+    "end": 5035
+  },
+  {
+    "entity": "occluded",
+    "label": "PROBLEM",
+    "start": 5056,
+    "end": 5064
+  },
+  {
+    "entity": "The saphenous vein graft to the PDA",
+    "label": "TREATMENT",
+    "start": 5066,
+    "end": 5101
+  },
+  {
+    "entity": "the saphenous vein graft to the LAD",
+    "label": "TREATMENT",
+    "start": 5106,
+    "end": 5141
+  },
+  {
+    "entity": "continued medical therapy",
+    "label": "TREATMENT",
+    "start": 5222,
+    "end": 5247
+  },
+  {
+    "entity": "risk factor modification",
+    "label": "TREATMENT",
+    "start": 5252,
+    "end": 5276
+  },
+  {
+    "entity": "Aggressive antihyperlipidemic",
+    "label": "TREATMENT",
+    "start": 5278,
+    "end": 5307
+  },
+  {
+    "entity": "antihypertensive control",
+    "label": "TREATMENT",
+    "start": 5312,
+    "end": 5336
+  },
+  {
+    "entity": "antihypertensive",
+    "label": "DRUG",
+    "start": 5312,
+    "end": 5328
+  },
+  {
+    "entity": "LDL",
+    "label": "TEST",
+    "start": 5357,
+    "end": 5360
+  },
+  {
+    "entity": "triglyceride level",
+    "label": "TEST",
+    "start": 5389,
+    "end": 5407
+  },
+  {
+    "entity": "her bedrest",
+    "label": "TREATMENT",
+    "start": 5488,
+    "end": 5499
+  },
+  {
+    "entity": "a carotid duplex Doppler ultrasound",
+    "label": "TEST",
+    "start": 5653,
+    "end": 5688
+  },
+  {
+    "entity": "her carotid bruits",
+    "label": "PROBLEM",
+    "start": 5701,
+    "end": 5719
+  },
+  {
+    "entity": "surgery",
+    "label": "TREATMENT",
+    "start": 5731,
+    "end": 5738
+  },
+  {
+    "entity": "catheterization",
+    "label": "TEST",
+    "start": 5740,
+    "end": 5755
+  },
+  {
+    "entity": "vein graft",
+    "label": "TREATMENT",
+    "start": 5757,
+    "end": 5767
+  },
+  {
+    "entity": "angiography",
+    "label": "TEST",
+    "start": 5769,
+    "end": 5780
+  },
+  {
+    "entity": "angiogram",
+    "label": "TEST",
+    "start": 5782,
+    "end": 5791
+  },
+  {
+    "entity": "angio-seal",
+    "label": "TREATMENT",
+    "start": 5793,
+    "end": 5803
+  },
+  {
+    "entity": "closure device",
+    "label": "TREATMENT",
+    "start": 5805,
+    "end": 5819
+  },
+  {
+    "entity": "coronary atherosclerotic heart disease",
+    "label": "PROBLEM",
+    "start": 5821,
+    "end": 5859
+  },
+  {
+    "entity": "saphenous vein graft",
+    "label": "TREATMENT",
+    "start": 5861,
+    "end": 5881
+  },
+  {
+    "entity": "ventricular pressure",
+    "label": "TEST",
+    "start": 5883,
+    "end": 5903
+  },
+  {
+    "entity": "atherosclerotic",
+    "label": "PROBLEM",
+    "start": 5938,
+    "end": 5953
+  }
+]

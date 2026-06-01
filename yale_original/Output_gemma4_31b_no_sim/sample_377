@@ -1,0 +1,341 @@
+[
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "treadmill": "TEST"
+  },
+  {
+    "echocardiogram": "TEST"
+  },
+  {
+    "cardiovascular disease": "PROBLEM"
+  },
+  {
+    "pressure": "PROBLEM"
+  },
+  {
+    "middle of her chest": "PROBLEM"
+  },
+  {
+    "fast heartbeats": "PROBLEM"
+  },
+  {
+    "irregular heartbeats": "PROBLEM"
+  },
+  {
+    "stomach pains": "PROBLEM"
+  },
+  {
+    "mid epigastric area": "PROBLEM"
+  },
+  {
+    "reflux": "PROBLEM"
+  },
+  {
+    "Aciphex": "DRUG"
+  },
+  {
+    "symptoms": "PROBLEM"
+  },
+  {
+    "Aciphex": "DRUG"
+  },
+  {
+    "reflux belching": "PROBLEM"
+  },
+  {
+    "burping": "PROBLEM"
+  },
+  {
+    "heartburn": "PROBLEM"
+  },
+  {
+    "right flank pain": "PROBLEM"
+  },
+  {
+    "dull achy pain": "PROBLEM"
+  },
+  {
+    "spots": "PROBLEM"
+  },
+  {
+    "spots": "PROBLEM"
+  },
+  {
+    "urgency of urine": "PROBLEM"
+  },
+  {
+    "urge to use the restroom": "PROBLEM"
+  },
+  {
+    "leaking": "PROBLEM"
+  },
+  {
+    "colonoscopy": "TEST"
+  },
+  {
+    "routine labs": "TEST"
+  },
+  {
+    "chronic leukopenia": "PROBLEM"
+  },
+  {
+    "hepatitis titer": "TEST"
+  },
+  {
+    "pain in her thumbs": "PROBLEM"
+  },
+  {
+    "swelling": "PROBLEM"
+  },
+  {
+    "redness": "PROBLEM"
+  },
+  {
+    "trauma": "PROBLEM"
+  },
+  {
+    "hearing loss": "PROBLEM"
+  },
+  {
+    "swallowing": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "chronic cough": "PROBLEM"
+  },
+  {
+    "bowel movements": "TEST"
+  },
+  {
+    "black or bloody stools": "PROBLEM"
+  },
+  {
+    "diarrhea": "PROBLEM"
+  },
+  {
+    "constipation": "PROBLEM"
+  },
+  {
+    "blood in her urine": "PROBLEM"
+  },
+  {
+    "urinary problems": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "lower extremity numbness": "PROBLEM"
+  },
+  {
+    "tingling": "PROBLEM"
+  },
+  {
+    "type I diabetes": "PROBLEM"
+  },
+  {
+    "heart disease": "PROBLEM"
+  },
+  {
+    "heart attack": "PROBLEM"
+  },
+  {
+    "smoker": "PROBLEM"
+  },
+  {
+    "Episodic leukopenia": "PROBLEM"
+  },
+  {
+    "mild irritable bowel syndrome": "PROBLEM"
+  },
+  {
+    "Aciphex": "DRUG"
+  },
+  {
+    "aspirin": "DRUG"
+  },
+  {
+    "Weight": "TEST"
+  },
+  {
+    "Blood pressure": "TEST"
+  },
+  {
+    "Pulse": "TEST"
+  },
+  {
+    "pupils": "TEST"
+  },
+  {
+    "TMs": "TEST"
+  },
+  {
+    "lymphadenopathy": "PROBLEM"
+  },
+  {
+    "thyromegaly": "PROBLEM"
+  },
+  {
+    "Lungs": "TEST"
+  },
+  {
+    "Heart": "TEST"
+  },
+  {
+    "Regular rhythm and rate": "PROBLEM"
+  },
+  {
+    "murmur": "PROBLEM"
+  },
+  {
+    "Radial pulses": "TEST"
+  },
+  {
+    "organomegaly": "PROBLEM"
+  },
+  {
+    "tenderness": "PROBLEM"
+  },
+  {
+    "tinea versicolor rash": "PROBLEM"
+  },
+  {
+    "lesion": "PROBLEM"
+  },
+  {
+    "diffuse borders": "PROBLEM"
+  },
+  {
+    "slightly red": "PROBLEM"
+  },
+  {
+    "cyanosis": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "radial and posterior tibial pulses": "TEST"
+  },
+  {
+    "gait": "TEST"
+  },
+  {
+    "coordination of upper and lower extremities": "TEST"
+  },
+  {
+    "Chest pain": "PROBLEM"
+  },
+  {
+    "symptoms": "PROBLEM"
+  },
+  {
+    "noncardiac": "PROBLEM"
+  },
+  {
+    "reflux": "PROBLEM"
+  },
+  {
+    "Aciphex": "DRUG"
+  },
+  {
+    "EGD": "TEST"
+  },
+  {
+    "symptoms": "PROBLEM"
+  },
+  {
+    "Stomach pain": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "Suspicious lesions": "PROBLEM"
+  },
+  {
+    "punch biopsy": "TREATMENT"
+  },
+  {
+    "Tinea versicolor": "PROBLEM"
+  },
+  {
+    "selenium sulfide lotion": "DRUG"
+  },
+  {
+    "Cystocele": "PROBLEM"
+  },
+  {
+    "urinary incontinence": "PROBLEM"
+  },
+  {
+    "leukopenia": "PROBLEM"
+  },
+  {
+    "CBC": "TEST"
+  },
+  {
+    "Pain in the thumbs": "PROBLEM"
+  },
+  {
+    "arthritic": "PROBLEM"
+  },
+  {
+    "Screening": "TEST"
+  },
+  {
+    "colon cancer screening": "TEST"
+  },
+  {
+    "Gastroesophageal reflux disease": "PROBLEM"
+  },
+  {
+    "Aciphex": "DRUG"
+  },
+  {
+    "cystocele": "PROBLEM"
+  },
+  {
+    "gastroesophageal reflux disease": "PROBLEM"
+  },
+  {
+    "stomach pain": "PROBLEM"
+  },
+  {
+    "tinea versicolor": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "leukopenia": "PROBLEM"
+  },
+  {
+    "pulses": "TEST"
+  },
+  {
+    "tinea": "PROBLEM"
+  },
+  {
+    "versicolor": "PROBLEM"
+  },
+  {
+    "reflux": "PROBLEM"
+  },
+  {
+    "aciphex": "DRUG"
+  }
+]

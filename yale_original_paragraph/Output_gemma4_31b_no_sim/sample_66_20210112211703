@@ -1,0 +1,230 @@
+[
+  {
+    "antibiotic therapy": "TREATMENT"
+  },
+  {
+    "lower extremity cellulitis": "PROBLEM"
+  },
+  {
+    "morbid obesity": "PROBLEM"
+  },
+  {
+    "chronic lower extremity lymphedema": "PROBLEM"
+  },
+  {
+    "lower extremity edema": "PROBLEM"
+  },
+  {
+    "cellulitis of the lower extremities": "PROBLEM"
+  },
+  {
+    "Bactrim": "DRUG"
+  },
+  {
+    "ciprofloxacin": "DRUG"
+  },
+  {
+    "lymphedema management": "TREATMENT"
+  },
+  {
+    "stage II ulcer": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "lymphedema wraps": "TREATMENT"
+  },
+  {
+    "chronic lymphedema of the lower extremities": "PROBLEM"
+  },
+  {
+    "spastic colon": "PROBLEM"
+  },
+  {
+    "knee arthritis": "PROBLEM"
+  },
+  {
+    "recurrent cellulitis of the lower extremities": "PROBLEM"
+  },
+  {
+    "hysterectomy": "TREATMENT"
+  },
+  {
+    "cholecystectomy": "TREATMENT"
+  },
+  {
+    "heart problems": "PROBLEM"
+  },
+  {
+    "alcoholism": "PROBLEM"
+  },
+  {
+    "leukemia": "PROBLEM"
+  },
+  {
+    "ADHESIVE TAPE ALLERGIES": "PROBLEM"
+  },
+  {
+    "nonresolving bilateral lower extremity lymphedema": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "diarrhea": "PROBLEM"
+  },
+  {
+    "pain": "PROBLEM"
+  },
+  {
+    "tenderness": "PROBLEM"
+  },
+  {
+    "increased warmth": "PROBLEM"
+  },
+  {
+    "drainage": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "phlegm production": "PROBLEM"
+  },
+  {
+    "temperature": "TEST"
+  },
+  {
+    "pulse": "TEST"
+  },
+  {
+    "respiratory rate": "TEST"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "lymphadenopathy": "PROBLEM"
+  },
+  {
+    "murmur": "PROBLEM"
+  },
+  {
+    "rub": "PROBLEM"
+  },
+  {
+    "gallop": "PROBLEM"
+  },
+  {
+    "organomegaly": "PROBLEM"
+  },
+  {
+    "cutaneous candidiasis": "PROBLEM"
+  },
+  {
+    "extensive lymphedema": "PROBLEM"
+  },
+  {
+    "pinkish discoloration": "PROBLEM"
+  },
+  {
+    "stasis dermatosis": "PROBLEM"
+  },
+  {
+    "skin breakdown": "PROBLEM"
+  },
+  {
+    "stage II chronic ulcer": "PROBLEM"
+  },
+  {
+    "serosanguineous drainage": "PROBLEM"
+  },
+  {
+    "cellulitis": "PROBLEM"
+  },
+  {
+    "wound infection": "PROBLEM"
+  },
+  {
+    "cyanosis": "PROBLEM"
+  },
+  {
+    "clubbing": "PROBLEM"
+  },
+  {
+    "endocarditis": "PROBLEM"
+  },
+  {
+    "White cell count": "TEST"
+  },
+  {
+    "hemoglobin": "TEST"
+  },
+  {
+    "hematocrit": "TEST"
+  },
+  {
+    "platelet count": "TEST"
+  },
+  {
+    "differential": "TEST"
+  },
+  {
+    "neutrophils": "TEST"
+  },
+  {
+    "lymphocytes": "TEST"
+  },
+  {
+    "monocytes": "TEST"
+  },
+  {
+    "eosinophils": "TEST"
+  },
+  {
+    "basic electrolyte panel": "TEST"
+  },
+  {
+    "renal function": "TEST"
+  },
+  {
+    "BUN": "TEST"
+  },
+  {
+    "creatinine": "TEST"
+  },
+  {
+    "Liver function tests": "TEST"
+  },
+  {
+    "nasal screen for MRSA": "TEST"
+  },
+  {
+    "Urine culture": "TEST"
+  },
+  {
+    "Urinalysis": "TEST"
+  },
+  {
+    "pyuria": "PROBLEM"
+  },
+  {
+    "leucocyte esterase": "PROBLEM"
+  },
+  {
+    "nitrites": "PROBLEM"
+  },
+  {
+    "active cellulitis": "PROBLEM"
+  },
+  {
+    "wound care": "TREATMENT"
+  }
+]

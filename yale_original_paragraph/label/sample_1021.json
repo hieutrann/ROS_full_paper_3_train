@@ -1,0 +1,140 @@
+[
+  {
+    "entity": "Digital Mammogram (FFDM)",
+    "label": "TEST",
+    "start": 68,
+    "end": 92
+  },
+  {
+    "entity": "Bilateral Screening Mammogram Full-Field Digital Mammography (FFDM)",
+    "label": "TEST",
+    "start": 111,
+    "end": 178
+  },
+  {
+    "entity": "Digital screening mammogram",
+    "label": "TEST",
+    "start": 242,
+    "end": 269
+  },
+  {
+    "entity": "screening mammography",
+    "label": "TEST",
+    "start": 313,
+    "end": 334
+  },
+  {
+    "entity": "breast cancer",
+    "label": "PROBLEM",
+    "start": 372,
+    "end": 385
+  },
+  {
+    "entity": "Breast cancer",
+    "label": "PROBLEM",
+    "start": 388,
+    "end": 401
+  },
+  {
+    "entity": "Multiple tiny punctate benign-appearing calcifications",
+    "label": "PROBLEM",
+    "start": 776,
+    "end": 830
+  },
+  {
+    "entity": "dominant mass",
+    "label": "PROBLEM",
+    "start": 863,
+    "end": 876
+  },
+  {
+    "entity": "architecture distortion",
+    "label": "PROBLEM",
+    "start": 887,
+    "end": 910
+  },
+  {
+    "entity": "malignant-type calcifications",
+    "label": "PROBLEM",
+    "start": 915,
+    "end": 944
+  },
+  {
+    "entity": "yearly mammographic screening",
+    "label": "TEST",
+    "start": 1066,
+    "end": 1095
+  },
+  {
+    "entity": "cancers",
+    "label": "PROBLEM",
+    "start": 1198,
+    "end": 1205
+  },
+  {
+    "entity": "mammography",
+    "label": "TEST",
+    "start": 1254,
+    "end": 1265
+  },
+  {
+    "entity": "malignancy",
+    "label": "PROBLEM",
+    "start": 1304,
+    "end": 1314
+  },
+  {
+    "entity": "a biopsy",
+    "label": "TEST",
+    "start": 1332,
+    "end": 1340
+  },
+  {
+    "entity": "a clinically suspicious mass",
+    "label": "PROBLEM",
+    "start": 1344,
+    "end": 1372
+  },
+  {
+    "entity": "These images",
+    "label": "TEST",
+    "start": 1389,
+    "end": 1401
+  },
+  {
+    "entity": "bilateral screening mammogram",
+    "label": "TEST",
+    "start": 1585,
+    "end": 1614
+  },
+  {
+    "entity": "breast cancer",
+    "label": "PROBLEM",
+    "start": 1616,
+    "end": 1629
+  },
+  {
+    "entity": "screening mammogram",
+    "label": "TEST",
+    "start": 1631,
+    "end": 1650
+  },
+  {
+    "entity": "mammographic",
+    "label": "TEST",
+    "start": 1652,
+    "end": 1664
+  },
+  {
+    "entity": "mammogram",
+    "label": "TEST",
+    "start": 1666,
+    "end": 1675
+  },
+  {
+    "entity": "screening",
+    "label": "TEST",
+    "start": 1686,
+    "end": 1695
+  }
+]

@@ -1,0 +1,338 @@
+[
+  {
+    "entity": "Headache",
+    "label": "PROBLEM",
+    "start": 64,
+    "end": 72
+  },
+  {
+    "entity": "her headaches",
+    "label": "PROBLEM",
+    "start": 145,
+    "end": 158
+  },
+  {
+    "entity": "her headaches",
+    "label": "PROBLEM",
+    "start": 273,
+    "end": 286
+  },
+  {
+    "entity": "Zonegran",
+    "label": "DRUG",
+    "start": 307,
+    "end": 315
+  },
+  {
+    "entity": "Zonegran",
+    "label": "DRUG",
+    "start": 420,
+    "end": 428
+  },
+  {
+    "entity": "the pain in her head",
+    "label": "PROBLEM",
+    "start": 446,
+    "end": 466
+  },
+  {
+    "entity": "tenderness and sensitivity in her left parietal area",
+    "label": "PROBLEM",
+    "start": 494,
+    "end": 546
+  },
+  {
+    "entity": "a very localized pain",
+    "label": "PROBLEM",
+    "start": 554,
+    "end": 575
+  },
+  {
+    "entity": "Motrin",
+    "label": "DRUG",
+    "start": 587,
+    "end": 593
+  },
+  {
+    "entity": "EMG",
+    "label": "TEST",
+    "start": 636,
+    "end": 639
+  },
+  {
+    "entity": "nerve conduction studies",
+    "label": "TEST",
+    "start": 640,
+    "end": 664
+  },
+  {
+    "entity": "severe left ulnar neuropathy",
+    "label": "PROBLEM",
+    "start": 715,
+    "end": 743
+  },
+  {
+    "entity": "moderate right ulnar neuropathy",
+    "label": "PROBLEM",
+    "start": 745,
+    "end": 776
+  },
+  {
+    "entity": "bilateral mild-to-moderate carpal tunnel",
+    "label": "PROBLEM",
+    "start": 778,
+    "end": 818
+  },
+  {
+    "entity": "diabetic neuropathy",
+    "label": "PROBLEM",
+    "start": 823,
+    "end": 842
+  },
+  {
+    "entity": "her poor diabetes control",
+    "label": "PROBLEM",
+    "start": 979,
+    "end": 1004
+  },
+  {
+    "entity": "Her last hemoglobin A1c",
+    "label": "TEST",
+    "start": 1006,
+    "end": 1029
+  },
+  {
+    "entity": "Diabetes",
+    "label": "PROBLEM",
+    "start": 1062,
+    "end": 1070
+  },
+  {
+    "entity": "hypertension",
+    "label": "PROBLEM",
+    "start": 1072,
+    "end": 1084
+  },
+  {
+    "entity": "elevated lipids",
+    "label": "PROBLEM",
+    "start": 1086,
+    "end": 1101
+  },
+  {
+    "entity": "CVA",
+    "label": "PROBLEM",
+    "start": 1115,
+    "end": 1118
+  },
+  {
+    "entity": "diabetic retinopathy",
+    "label": "PROBLEM",
+    "start": 1124,
+    "end": 1144
+  },
+  {
+    "entity": "Glyburide",
+    "label": "DRUG",
+    "start": 1161,
+    "end": 1170
+  },
+  {
+    "entity": "Avandia",
+    "label": "DRUG",
+    "start": 1172,
+    "end": 1179
+  },
+  {
+    "entity": "metformin",
+    "label": "DRUG",
+    "start": 1181,
+    "end": 1190
+  },
+  {
+    "entity": "lisinopril",
+    "label": "DRUG",
+    "start": 1192,
+    "end": 1202
+  },
+  {
+    "entity": "Lipitor",
+    "label": "DRUG",
+    "start": 1204,
+    "end": 1211
+  },
+  {
+    "entity": "aspirin",
+    "label": "DRUG",
+    "start": 1213,
+    "end": 1220
+  },
+  {
+    "entity": "metoprolol",
+    "label": "DRUG",
+    "start": 1222,
+    "end": 1232
+  },
+  {
+    "entity": "Zonegran",
+    "label": "DRUG",
+    "start": 1237,
+    "end": 1245
+  },
+  {
+    "entity": "Blood pressure",
+    "label": "TEST",
+    "start": 1272,
+    "end": 1286
+  },
+  {
+    "entity": "heart rate",
+    "label": "TEST",
+    "start": 1299,
+    "end": 1309
+  },
+  {
+    "entity": "respiratory rate",
+    "label": "TEST",
+    "start": 1318,
+    "end": 1334
+  },
+  {
+    "entity": "weight",
+    "label": "TEST",
+    "start": 1347,
+    "end": 1353
+  },
+  {
+    "entity": "tenderness",
+    "label": "PROBLEM",
+    "start": 1405,
+    "end": 1415
+  },
+  {
+    "entity": "palpation",
+    "label": "TEST",
+    "start": 1419,
+    "end": 1428
+  },
+  {
+    "entity": "Neurological exam",
+    "label": "TEST",
+    "start": 1471,
+    "end": 1488
+  },
+  {
+    "entity": "Her neurological exam",
+    "label": "TEST",
+    "start": 1520,
+    "end": 1541
+  },
+  {
+    "entity": "her headaches",
+    "label": "PROBLEM",
+    "start": 1595,
+    "end": 1608
+  },
+  {
+    "entity": "Zonegran",
+    "label": "DRUG",
+    "start": 1633,
+    "end": 1641
+  },
+  {
+    "entity": "Zonegran therapy.",
+    "label": "DRUG",
+    "start": 1685,
+    "end": 1702
+  },
+  {
+    "entity": "not effective",
+    "label": "PROBLEM",
+    "start": 1714,
+    "end": 1727
+  },
+  {
+    "entity": "anticonvulsants",
+    "label": "DRUG",
+    "start": 1795,
+    "end": 1810
+  },
+  {
+    "entity": "Neurontin",
+    "label": "DRUG",
+    "start": 1819,
+    "end": 1828
+  },
+  {
+    "entity": "Lyrica",
+    "label": "DRUG",
+    "start": 1832,
+    "end": 1838
+  },
+  {
+    "entity": "nerve block injection",
+    "label": "TREATMENT",
+    "start": 1894,
+    "end": 1915
+  },
+  {
+    "entity": "her neuropathies",
+    "label": "PROBLEM",
+    "start": 1994,
+    "end": 2010
+  },
+  {
+    "entity": "diabetes",
+    "label": "PROBLEM",
+    "start": 2097,
+    "end": 2105
+  },
+  {
+    "entity": "nerve conduction studies",
+    "label": "TEST",
+    "start": 2255,
+    "end": 2279
+  },
+  {
+    "entity": "emg",
+    "label": "TEST",
+    "start": 2281,
+    "end": 2284
+  },
+  {
+    "entity": "zonegran therapy,",
+    "label": "DRUG",
+    "start": 2286,
+    "end": 2303
+  },
+  {
+    "entity": "ulnar neuropathy",
+    "label": "PROBLEM",
+    "start": 2304,
+    "end": 2320
+  },
+  {
+    "entity": "diabetes",
+    "label": "PROBLEM",
+    "start": 2340,
+    "end": 2348
+  },
+  {
+    "entity": "neurological exam",
+    "label": "TEST",
+    "start": 2358,
+    "end": 2375
+  },
+  {
+    "entity": "headache",
+    "label": "TEST",
+    "start": 2377,
+    "end": 2385
+  },
+  {
+    "entity": "zonegran",
+    "label": "DRUG",
+    "start": 2387,
+    "end": 2395
+  }
+]

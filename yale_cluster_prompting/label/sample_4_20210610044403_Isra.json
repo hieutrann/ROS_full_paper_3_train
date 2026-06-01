@@ -1,0 +1,788 @@
+[
+  {
+    "entity": "confused",
+    "label": "PROBLEM",
+    "start": 115,
+    "end": 123
+  },
+  {
+    "entity": "garbled speech",
+    "label": "PROBLEM",
+    "start": 130,
+    "end": 144
+  },
+  {
+    "entity": "significantly worse",
+    "label": "PROBLEM",
+    "start": 147,
+    "end": 166
+  },
+  {
+    "entity": "decreased level of consciousness",
+    "label": "PROBLEM",
+    "start": 195,
+    "end": 227
+  },
+  {
+    "entity": "altered mental status",
+    "label": "PROBLEM",
+    "start": 342,
+    "end": 363
+  },
+  {
+    "entity": "more confused",
+    "label": "PROBLEM",
+    "start": 459,
+    "end": 472
+  },
+  {
+    "entity": "garbled speech",
+    "label": "PROBLEM",
+    "start": 479,
+    "end": 493
+  },
+  {
+    "entity": "significantly worse",
+    "label": "PROBLEM",
+    "start": 496,
+    "end": 515
+  },
+  {
+    "entity": "decreased level of consciousness",
+    "label": "PROBLEM",
+    "start": 553,
+    "end": 585
+  },
+  {
+    "entity": "aphasia",
+    "label": "PROBLEM",
+    "start": 616,
+    "end": 623
+  },
+  {
+    "entity": "her aphasia",
+    "label": "PROBLEM",
+    "start": 646,
+    "end": 657
+  },
+  {
+    "entity": "unresponsive",
+    "label": "PROBLEM",
+    "start": 713,
+    "end": 725
+  },
+  {
+    "entity": "Her blood sugar",
+    "label": "TEST",
+    "start": 755,
+    "end": 770
+  },
+  {
+    "entity": "poor p.o. intake",
+    "label": "PROBLEM",
+    "start": 801,
+    "end": 817
+  },
+  {
+    "entity": "D50",
+    "label": "DRUG",
+    "start": 839,
+    "end": 842
+  },
+  {
+    "entity": "some garbled speech",
+    "label": "PROBLEM",
+    "start": 1008,
+    "end": 1027
+  },
+  {
+    "entity": "more somnolent",
+    "label": "PROBLEM",
+    "start": 1138,
+    "end": 1152
+  },
+  {
+    "entity": "recurrent UTIs",
+    "label": "PROBLEM",
+    "start": 1290,
+    "end": 1304
+  },
+  {
+    "entity": "urinary tract infection",
+    "label": "PROBLEM",
+    "start": 1363,
+    "end": 1386
+  },
+  {
+    "entity": "chronic incontinence",
+    "label": "PROBLEM",
+    "start": 1397,
+    "end": 1417
+  },
+  {
+    "entity": "bladder atony",
+    "label": "PROBLEM",
+    "start": 1422,
+    "end": 1435
+  },
+  {
+    "entity": "a Foley catheter",
+    "label": "TREATMENT",
+    "start": 1509,
+    "end": 1525
+  },
+  {
+    "entity": "right - sided CVA",
+    "label": "PROBLEM",
+    "start": 1562,
+    "end": 1579
+  },
+  {
+    "entity": "atrial fibrillation",
+    "label": "PROBLEM",
+    "start": 1594,
+    "end": 1613
+  },
+  {
+    "entity": "pacemaker",
+    "label": "TREATMENT",
+    "start": 1626,
+    "end": 1635
+  },
+  {
+    "entity": "a type 2 diabetic",
+    "label": "PROBLEM",
+    "start": 1645,
+    "end": 1662
+  },
+  {
+    "entity": "significant neuropathy",
+    "label": "PROBLEM",
+    "start": 1668,
+    "end": 1690
+  },
+  {
+    "entity": "significant pain",
+    "label": "PROBLEM",
+    "start": 1710,
+    "end": 1726
+  },
+  {
+    "entity": "her stroke",
+    "label": "PROBLEM",
+    "start": 1750,
+    "end": 1760
+  },
+  {
+    "entity": "hypothyroidism",
+    "label": "PROBLEM",
+    "start": 1784,
+    "end": 1798
+  },
+  {
+    "entity": "cholecystectomy",
+    "label": "TREATMENT",
+    "start": 1842,
+    "end": 1857
+  },
+  {
+    "entity": "colon cancer surgery",
+    "label": "TREATMENT",
+    "start": 1860,
+    "end": 1880
+  },
+  {
+    "entity": "a pacemaker placement",
+    "label": "TREATMENT",
+    "start": 1903,
+    "end": 1924
+  },
+  {
+    "entity": "fever",
+    "label": "PROBLEM",
+    "start": 1969,
+    "end": 1974
+  },
+  {
+    "entity": "chills",
+    "label": "PROBLEM",
+    "start": 1977,
+    "end": 1983
+  },
+  {
+    "entity": "weight loss",
+    "label": "PROBLEM",
+    "start": 1996,
+    "end": 2007
+  },
+  {
+    "entity": "cough",
+    "label": "PROBLEM",
+    "start": 2026,
+    "end": 2031
+  },
+  {
+    "entity": "chest congestion",
+    "label": "PROBLEM",
+    "start": 2034,
+    "end": 2050
+  },
+  {
+    "entity": "chest pain",
+    "label": "PROBLEM",
+    "start": 2067,
+    "end": 2077
+  },
+  {
+    "entity": "shortness of breath",
+    "label": "PROBLEM",
+    "start": 2080,
+    "end": 2099
+  },
+  {
+    "entity": "abdominal pain",
+    "label": "PROBLEM",
+    "start": 2111,
+    "end": 2125
+  },
+  {
+    "entity": "nausea",
+    "label": "PROBLEM",
+    "start": 2128,
+    "end": 2134
+  },
+  {
+    "entity": "vomiting",
+    "label": "PROBLEM",
+    "start": 2137,
+    "end": 2145
+  },
+  {
+    "entity": "constipation",
+    "label": "PROBLEM",
+    "start": 2151,
+    "end": 2163
+  },
+  {
+    "entity": "bleeding",
+    "label": "PROBLEM",
+    "start": 2169,
+    "end": 2177
+  },
+  {
+    "entity": "melena",
+    "label": "PROBLEM",
+    "start": 2192,
+    "end": 2198
+  },
+  {
+    "entity": "frequent urinary tract infection",
+    "label": "PROBLEM",
+    "start": 2230,
+    "end": 2262
+  },
+  {
+    "entity": "Percocet",
+    "label": "DRUG",
+    "start": 2394,
+    "end": 2402
+  },
+  {
+    "entity": "Neurontin",
+    "label": "DRUG",
+    "start": 2429,
+    "end": 2438
+  },
+  {
+    "entity": "Cipro",
+    "label": "DRUG",
+    "start": 2465,
+    "end": 2470
+  },
+  {
+    "entity": "Humulin N",
+    "label": "DRUG",
+    "start": 2501,
+    "end": 2510
+  },
+  {
+    "entity": "MiraLax",
+    "label": "DRUG",
+    "start": 2586,
+    "end": 2593
+  },
+  {
+    "entity": "Avandia",
+    "label": "DRUG",
+    "start": 2612,
+    "end": 2619
+  },
+  {
+    "entity": "Flexeril",
+    "label": "DRUG",
+    "start": 2635,
+    "end": 2643
+  },
+  {
+    "entity": "Synthroid",
+    "label": "DRUG",
+    "start": 2662,
+    "end": 2671
+  },
+  {
+    "entity": "Coumadin",
+    "label": "DRUG",
+    "start": 2688,
+    "end": 2696
+  },
+  {
+    "entity": "ibuprofen",
+    "label": "DRUG",
+    "start": 2753,
+    "end": 2762
+  },
+  {
+    "entity": "Lasix",
+    "label": "DRUG",
+    "start": 2765,
+    "end": 2770
+  },
+  {
+    "entity": "Lipitor",
+    "label": "DRUG",
+    "start": 2787,
+    "end": 2794
+  },
+  {
+    "entity": "Reglan",
+    "label": "DRUG",
+    "start": 2811,
+    "end": 2817
+  },
+  {
+    "entity": "Nystatin",
+    "label": "DRUG",
+    "start": 2832,
+    "end": 2840
+  },
+  {
+    "entity": "oxygen",
+    "label": "TREATMENT",
+    "start": 2860,
+    "end": 2866
+  },
+  {
+    "entity": "Blood pressure",
+    "label": "TEST",
+    "start": 3202,
+    "end": 3216
+  },
+  {
+    "entity": "pulse",
+    "label": "TEST",
+    "start": 3226,
+    "end": 3231
+  },
+  {
+    "entity": "temperature",
+    "label": "TEST",
+    "start": 3248,
+    "end": 3259
+  },
+  {
+    "entity": "Weight",
+    "label": "TEST",
+    "start": 3267,
+    "end": 3273
+  },
+  {
+    "entity": "Urine output",
+    "label": "TEST",
+    "start": 3285,
+    "end": 3297
+  },
+  {
+    "entity": "Her intake",
+    "label": "TEST",
+    "start": 3318,
+    "end": 3328
+  },
+  {
+    "entity": "Blood sugars",
+    "label": "TEST",
+    "start": 3355,
+    "end": 3367
+  },
+  {
+    "entity": "pallor",
+    "label": "PROBLEM",
+    "start": 3435,
+    "end": 3441
+  },
+  {
+    "entity": "a rash",
+    "label": "PROBLEM",
+    "start": 3467,
+    "end": 3473
+  },
+  {
+    "entity": "pacemaker",
+    "label": "TREATMENT",
+    "start": 3514,
+    "end": 3523
+  },
+  {
+    "entity": "auscultation",
+    "label": "TEST",
+    "start": 3562,
+    "end": 3574
+  },
+  {
+    "entity": "obese",
+    "label": "PROBLEM",
+    "start": 3595,
+    "end": 3600
+  },
+  {
+    "entity": "Bilateral lower extremities edema",
+    "label": "PROBLEM",
+    "start": 3630,
+    "end": 3663
+  },
+  {
+    "entity": "some mild aphasia",
+    "label": "PROBLEM",
+    "start": 3820,
+    "end": 3837
+  },
+  {
+    "entity": "BUN",
+    "label": "TEST",
+    "start": 3861,
+    "end": 3864
+  },
+  {
+    "entity": "creatinine",
+    "label": "TEST",
+    "start": 3870,
+    "end": 3880
+  },
+  {
+    "entity": "LFTs",
+    "label": "TEST",
+    "start": 3887,
+    "end": 3891
+  },
+  {
+    "entity": "anemic",
+    "label": "PROBLEM",
+    "start": 3908,
+    "end": 3914
+  },
+  {
+    "entity": "a hemoglobin",
+    "label": "TEST",
+    "start": 3920,
+    "end": 3932
+  },
+  {
+    "entity": "hematocrit",
+    "label": "TEST",
+    "start": 3942,
+    "end": 3952
+  },
+  {
+    "entity": "INR",
+    "label": "TEST",
+    "start": 3958,
+    "end": 3961
+  },
+  {
+    "entity": "pro time",
+    "label": "TEST",
+    "start": 3968,
+    "end": 3976
+  },
+  {
+    "entity": "Urine",
+    "label": "TEST",
+    "start": 3982,
+    "end": 3987
+  },
+  {
+    "entity": "white cells",
+    "label": "TEST",
+    "start": 4031,
+    "end": 4042
+  },
+  {
+    "entity": "Cultures",
+    "label": "TEST",
+    "start": 4106,
+    "end": 4114
+  },
+  {
+    "entity": "The last culture",
+    "label": "TEST",
+    "start": 4153,
+    "end": 4169
+  },
+  {
+    "entity": "mixed cultures",
+    "label": "TEST",
+    "start": 4248,
+    "end": 4262
+  },
+  {
+    "entity": "allergic",
+    "label": "PROBLEM",
+    "start": 4298,
+    "end": 4306
+  },
+  {
+    "entity": "Septra",
+    "label": "DRUG",
+    "start": 4310,
+    "end": 4316
+  },
+  {
+    "entity": "her last UTI",
+    "label": "PROBLEM",
+    "start": 4335,
+    "end": 4347
+  },
+  {
+    "entity": "Cerebrovascular accident",
+    "label": "PROBLEM",
+    "start": 4374,
+    "end": 4398
+  },
+  {
+    "entity": "change in mental status and speech",
+    "label": "PROBLEM",
+    "start": 4415,
+    "end": 4449
+  },
+  {
+    "entity": "Coumadin",
+    "label": "DRUG",
+    "start": 4513,
+    "end": 4521
+  },
+  {
+    "entity": "Coumadin",
+    "label": "DRUG",
+    "start": 4575,
+    "end": 4583
+  },
+  {
+    "entity": "overall poor quality of life",
+    "label": "PROBLEM",
+    "start": 4626,
+    "end": 4654
+  },
+  {
+    "entity": "progressively declined",
+    "label": "PROBLEM",
+    "start": 4663,
+    "end": 4685
+  },
+  {
+    "entity": "Recurrent urinary tract infection",
+    "label": "PROBLEM",
+    "start": 4815,
+    "end": 4848
+  },
+  {
+    "entity": "culture",
+    "label": "TEST",
+    "start": 4862,
+    "end": 4869
+  },
+  {
+    "entity": "Cipro",
+    "label": "DRUG",
+    "start": 4894,
+    "end": 4899
+  },
+  {
+    "entity": "Diabetes",
+    "label": "PROBLEM",
+    "start": 4907,
+    "end": 4915
+  },
+  {
+    "entity": "episode of hypoglycemia",
+    "label": "PROBLEM",
+    "start": 4921,
+    "end": 4944
+  },
+  {
+    "entity": "blood sugar",
+    "label": "TEST",
+    "start": 4955,
+    "end": 4966
+  },
+  {
+    "entity": "Humulin N",
+    "label": "DRUG",
+    "start": 4998,
+    "end": 5007
+  },
+  {
+    "entity": "Avandia",
+    "label": "DRUG",
+    "start": 5118,
+    "end": 5125
+  },
+  {
+    "entity": "Neuropathy",
+    "label": "PROBLEM",
+    "start": 5164,
+    "end": 5174
+  },
+  {
+    "entity": "Neurontin",
+    "label": "DRUG",
+    "start": 5186,
+    "end": 5195
+  },
+  {
+    "entity": "pain",
+    "label": "PROBLEM",
+    "start": 5217,
+    "end": 5221
+  },
+  {
+    "entity": "Percocet",
+    "label": "DRUG",
+    "start": 5235,
+    "end": 5243
+  },
+  {
+    "entity": "Hypothyroidism",
+    "label": "PROBLEM",
+    "start": 5272,
+    "end": 5286
+  },
+  {
+    "entity": "Synthroid",
+    "label": "DRUG",
+    "start": 5298,
+    "end": 5307
+  },
+  {
+    "entity": "Hyperlipidemia",
+    "label": "PROBLEM",
+    "start": 5315,
+    "end": 5329
+  },
+  {
+    "entity": "Lipitor",
+    "label": "DRUG",
+    "start": 5341,
+    "end": 5348
+  },
+  {
+    "entity": "cerebrovascular accident",
+    "label": "PROBLEM",
+    "start": 5477,
+    "end": 5501
+  },
+  {
+    "entity": "recurrent urinary tract infection",
+    "label": "PROBLEM",
+    "start": 5504,
+    "end": 5537
+  },
+  {
+    "entity": "diabetes",
+    "label": "PROBLEM",
+    "start": 5540,
+    "end": 5548
+  },
+  {
+    "entity": "hypoglycemia",
+    "label": "PROBLEM",
+    "start": 5551,
+    "end": 5563
+  },
+  {
+    "entity": "neuropathy",
+    "label": "PROBLEM",
+    "start": 5566,
+    "end": 5576
+  },
+  {
+    "entity": "hypothyroidism",
+    "label": "PROBLEM",
+    "start": 5579,
+    "end": 5593
+  },
+  {
+    "entity": "hyperlipidemia",
+    "label": "PROBLEM",
+    "start": 5596,
+    "end": 5610
+  },
+  {
+    "entity": "worse",
+    "label": "PROBLEM",
+    "start": 5613,
+    "end": 5618
+  },
+  {
+    "entity": "decreased level of consciousness",
+    "label": "PROBLEM",
+    "start": 5639,
+    "end": 5671
+  },
+  {
+    "entity": "level of consciousness",
+    "label": "TEST",
+    "start": 5674,
+    "end": 5696
+  },
+  {
+    "entity": "urinary tract infection",
+    "label": "PROBLEM",
+    "start": 5699,
+    "end": 5722
+  },
+  {
+    "entity": "decreased level",
+    "label": "PROBLEM",
+    "start": 5725,
+    "end": 5740
+  },
+  {
+    "entity": "blood sugar",
+    "label": "TEST",
+    "start": 5743,
+    "end": 5754
+  },
+  {
+    "entity": "garbled speech",
+    "label": "PROBLEM",
+    "start": 5757,
+    "end": 5771
+  },
+  {
+    "entity": "confused",
+    "label": "PROBLEM",
+    "start": 5841,
+    "end": 5849
+  },
+  {
+    "entity": "coumadin",
+    "label": "DRUG",
+    "start": 5852,
+    "end": 5860
+  },
+  {
+    "entity": "cultures",
+    "label": "TEST",
+    "start": 5883,
+    "end": 5891
+  }
+]

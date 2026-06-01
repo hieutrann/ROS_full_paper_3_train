@@ -1,0 +1,41 @@
+[
+  {
+    "Pediatrics - Neonatal": "PROBLEM"
+  },
+  {
+    "wheezing": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "inhaled steroids": "DRUG"
+  },
+  {
+    "bronchodilator": "DRUG"
+  },
+  {
+    "prednisolone": "DRUG"
+  },
+  {
+    "asthma": "PROBLEM"
+  },
+  {
+    "rhonchi": "PROBLEM"
+  },
+  {
+    "asthma management": "TREATMENT"
+  },
+  {
+    "alternate day steroids": "DRUG"
+  },
+  {
+    "childhood asthma": "PROBLEM"
+  },
+  {
+    "wheezing cough": "PROBLEM"
+  }
+]

@@ -1,0 +1,164 @@
+[
+  {
+    "vital signs": "TEST"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "heart rate": "TEST"
+  },
+  {
+    "eyes": "TEST"
+  },
+  {
+    "pupil": "TEST"
+  },
+  {
+    "ptosis": "PROBLEM"
+  },
+  {
+    "irides": "TEST"
+  },
+  {
+    "ears": "TEST"
+  },
+  {
+    "nose": "TEST"
+  },
+  {
+    "hearing": "TEST"
+  },
+  {
+    "oropharynx": "TEST"
+  },
+  {
+    "mucosa": "TEST"
+  },
+  {
+    "lesion": "PROBLEM"
+  },
+  {
+    "palate": "TEST"
+  },
+  {
+    "tongue": "TEST"
+  },
+  {
+    "tonsil": "TEST"
+  },
+  {
+    "pharynx": "TEST"
+  },
+  {
+    "neck": "TEST"
+  },
+  {
+    "thyroid gland": "TEST"
+  },
+  {
+    "respiratory effort": "TEST"
+  },
+  {
+    "lung": "TEST"
+  },
+  {
+    "air movement": "TEST"
+  },
+  {
+    "heart": "TEST"
+  },
+  {
+    "S1": "TEST"
+  },
+  {
+    "S2": "TEST"
+  },
+  {
+    "rate": "TEST"
+  },
+  {
+    "murmur": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "breasts": "TEST"
+  },
+  {
+    "nipple discharge": "PROBLEM"
+  },
+  {
+    "axilla": "TEST"
+  },
+  {
+    "mass": "PROBLEM"
+  },
+  {
+    "abdomen": "TEST"
+  },
+  {
+    "liver": "TEST"
+  },
+  {
+    "spleen": "TEST"
+  },
+  {
+    "bowel sounds": "TEST"
+  },
+  {
+    "external genitalia": "TEST"
+  },
+  {
+    "adnexal masses": "PROBLEM"
+  },
+  {
+    "uterus": "TEST"
+  },
+  {
+    "cervical motion tenderness": "PROBLEM"
+  },
+  {
+    "node": "PROBLEM"
+  },
+  {
+    "groin": "TEST"
+  },
+  {
+    "head": "TEST"
+  },
+  {
+    "deformity": "PROBLEM"
+  },
+  {
+    "extremities": "TEST"
+  },
+  {
+    "range of motion": "TEST"
+  },
+  {
+    "skin": "TEST"
+  },
+  {
+    "subcutaneous tissues": "TEST"
+  },
+  {
+    "deep tendon reflexes": "TEST"
+  },
+  {
+    "patellar area": "TEST"
+  },
+  {
+    "sensation": "TEST"
+  },
+  {
+    "touch": "TEST"
+  },
+  {
+    "judgment": "TEST"
+  },
+  {
+    "insight": "TEST"
+  }
+]

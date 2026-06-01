@@ -1,0 +1,194 @@
+[
+  {
+    "entity": "female multisystem exam",
+    "label": "TEST",
+    "start": 133,
+    "end": 156
+  },
+  {
+    "entity": "The vital signs",
+    "label": "TEST",
+    "start": 228,
+    "end": 243
+  },
+  {
+    "entity": "blood pressure",
+    "label": "TEST",
+    "start": 282,
+    "end": 296
+  },
+  {
+    "entity": "heart rate",
+    "label": "TEST",
+    "start": 301,
+    "end": 311
+  },
+  {
+    "entity": "ptosis",
+    "label": "PROBLEM",
+    "start": 447,
+    "end": 453
+  },
+  {
+    "entity": "lesion",
+    "label": "PROBLEM",
+    "start": 649,
+    "end": 655
+  },
+  {
+    "entity": "enlarged",
+    "label": "PROBLEM",
+    "start": 778,
+    "end": 786
+  },
+  {
+    "entity": "palpation",
+    "label": "TEST",
+    "start": 790,
+    "end": 799
+  },
+  {
+    "entity": "Auscultation of the lung",
+    "label": "TEST",
+    "start": 859,
+    "end": 883
+  },
+  {
+    "entity": "Auscultation of the heart",
+    "label": "TEST",
+    "start": 946,
+    "end": 971
+  },
+  {
+    "entity": "S1",
+    "label": "TEST",
+    "start": 981,
+    "end": 983
+  },
+  {
+    "entity": "S2",
+    "label": "TEST",
+    "start": 988,
+    "end": 990
+  },
+  {
+    "entity": "murmur",
+    "label": "PROBLEM",
+    "start": 1017,
+    "end": 1023
+  },
+  {
+    "entity": "edema",
+    "label": "PROBLEM",
+    "start": 1057,
+    "end": 1062
+  },
+  {
+    "entity": "Breast inspection",
+    "label": "TEST",
+    "start": 1073,
+    "end": 1090
+  },
+  {
+    "entity": "nipple discharge",
+    "label": "PROBLEM",
+    "start": 1129,
+    "end": 1145
+  },
+  {
+    "entity": "Palpation of the breasts and axilla",
+    "label": "TEST",
+    "start": 1147,
+    "end": 1182
+  },
+  {
+    "entity": "obvious mass",
+    "label": "PROBLEM",
+    "start": 1195,
+    "end": 1207
+  },
+  {
+    "entity": "rebound",
+    "label": "TEST",
+    "start": 1291,
+    "end": 1298
+  },
+  {
+    "entity": "guarding",
+    "label": "PROBLEM",
+    "start": 1303,
+    "end": 1311
+  },
+  {
+    "entity": "enlarged liver or spleen",
+    "label": "PROBLEM",
+    "start": 1316,
+    "end": 1340
+  },
+  {
+    "entity": "The pelvic exam",
+    "label": "TEST",
+    "start": 1419,
+    "end": 1434
+  },
+  {
+    "entity": "adnexal masses",
+    "label": "PROBLEM",
+    "start": 1447,
+    "end": 1461
+  },
+  {
+    "entity": "cervical motion tenderness",
+    "label": "PROBLEM",
+    "start": 1521,
+    "end": 1547
+  },
+  {
+    "entity": "inspection",
+    "label": "TEST",
+    "start": 1673,
+    "end": 1683
+  },
+  {
+    "entity": "obvious deformity",
+    "label": "PROBLEM",
+    "start": 1694,
+    "end": 1711
+  },
+  {
+    "entity": "obvious deformity",
+    "label": "PROBLEM",
+    "start": 1746,
+    "end": 1763
+  },
+  {
+    "entity": "Range of motion",
+    "label": "TEST",
+    "start": 1765,
+    "end": 1780
+  },
+  {
+    "entity": "Inspection of the skin and subcutaneous tissues",
+    "label": "TEST",
+    "start": 1846,
+    "end": 1893
+  },
+  {
+    "entity": "Deep tendon reflexes",
+    "label": "TEST",
+    "start": 1971,
+    "end": 1991
+  },
+  {
+    "entity": "Sensation",
+    "label": "TEST",
+    "start": 2031,
+    "end": 2040
+  },
+  {
+    "entity": "judgment and insight",
+    "label": "TEST",
+    "start": 2149,
+    "end": 2169
+  }
+]

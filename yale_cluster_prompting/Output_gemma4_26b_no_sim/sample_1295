@@ -1,0 +1,167 @@
+[
+  {
+    "Bronchiolitis": "PROBLEM"
+  },
+  {
+    "respiratory syncytial virus": "PROBLEM"
+  },
+  {
+    "Innocent heart murmur": "PROBLEM"
+  },
+  {
+    "Bronchiolitis": "PROBLEM"
+  },
+  {
+    "respiratory syncytial virus": "PROBLEM"
+  },
+  {
+    "Innocent heart murmur": "PROBLEM"
+  },
+  {
+    "congestion": "PROBLEM"
+  },
+  {
+    "RSV": "PROBLEM"
+  },
+  {
+    "acute bronchiolitis": "PROBLEM"
+  },
+  {
+    "room air": "TREATMENT"
+  },
+  {
+    "RSV bronchiolitis": "PROBLEM"
+  },
+  {
+    "heart murmur": "PROBLEM"
+  },
+  {
+    "chest x-ray": "TEST"
+  },
+  {
+    "chest x-ray": "TEST"
+  },
+  {
+    "perihilar infiltrate": "PROBLEM"
+  },
+  {
+    "increased respiratory distress": "PROBLEM"
+  },
+  {
+    "tachypnea": "PROBLEM"
+  },
+  {
+    "increased retractions": "PROBLEM"
+  },
+  {
+    "grunting": "PROBLEM"
+  },
+  {
+    "nasal flaring": "PROBLEM"
+  },
+  {
+    "albuterol MDI": "DRUG"
+  },
+  {
+    "respiratory distress": "PROBLEM"
+  },
+  {
+    "VITAL SIGNS": "TEST"
+  },
+  {
+    "Vital signs": "TEST"
+  },
+  {
+    "room air": "TREATMENT"
+  },
+  {
+    "anterior fontanelle": "PROBLEM"
+  },
+  {
+    "upper airway congestion": "PROBLEM"
+  },
+  {
+    "systolic murmur": "PROBLEM"
+  },
+  {
+    "femoral pulses": "TEST"
+  },
+  {
+    "capillary refill": "TEST"
+  },
+  {
+    "coarseness": "PROBLEM"
+  },
+  {
+    "breath sounds": "TEST"
+  },
+  {
+    "wheezes": "PROBLEM"
+  },
+  {
+    "scattered crackles": "PROBLEM"
+  },
+  {
+    "respiratory distress": "PROBLEM"
+  },
+  {
+    "bowel sounds": "TEST"
+  },
+  {
+    "DISCHARGE WEIGHT": "TEST"
+  },
+  {
+    "hand washings": "TREATMENT"
+  },
+  {
+    "Regular diet": "TREATMENT"
+  },
+  {
+    "albuterol MDI": "DRUG"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "wheezes": "PROBLEM"
+  },
+  {
+    "dyspnea": "PROBLEM"
+  },
+  {
+    "bulb suctioning": "TREATMENT"
+  },
+  {
+    "saline": "TREATMENT"
+  },
+  {
+    "difficulty breathing": "PROBLEM"
+  },
+  {
+    "stops breathing": "PROBLEM"
+  },
+  {
+    "bronchiolitis": "PROBLEM"
+  },
+  {
+    "respiratory syncytial virus": "PROBLEM"
+  },
+  {
+    "bulb suctioning": "TREATMENT"
+  },
+  {
+    "innocent heart murmur": "PROBLEM"
+  },
+  {
+    "chest x ray": "TEST"
+  },
+  {
+    "syncytial virus": "PROBLEM"
+  },
+  {
+    "heart murmur": "PROBLEM"
+  },
+  {
+    "respiratory distress": "PROBLEM"
+  }
+]
