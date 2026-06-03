@@ -1,0 +1,131 @@
+[
+  {
+    "Pap": "TEST"
+  },
+  {
+    "breast exam": "TEST"
+  },
+  {
+    "midchest pain": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "diaphoresis": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "EKG": "TEST"
+  },
+  {
+    "foot surgery": "TREATMENT"
+  },
+  {
+    "Reactive airway disease": "PROBLEM"
+  },
+  {
+    "rheumatoid arthritis": "PROBLEM"
+  },
+  {
+    "iron deficiency anemia": "PROBLEM"
+  },
+  {
+    "osteoporosis": "PROBLEM"
+  },
+  {
+    "hypothyroidism": "PROBLEM"
+  },
+  {
+    "Methotrexate": "DRUG"
+  },
+  {
+    "Fosamax": "DRUG"
+  },
+  {
+    "folic acid": "DRUG"
+  },
+  {
+    "amitriptyline": "DRUG"
+  },
+  {
+    "Synthroid": "DRUG"
+  },
+  {
+    "calcium": "DRUG"
+  },
+  {
+    "multivitamin": "DRUG"
+  },
+  {
+    "baby aspirin": "DRUG"
+  },
+  {
+    "Colace": "DRUG"
+  },
+  {
+    "Blood pressure": "TEST"
+  },
+  {
+    "Pulse": "TEST"
+  },
+  {
+    "Respirations": "TEST"
+  },
+  {
+    "Temperature": "TEST"
+  },
+  {
+    "lymphadenopathy": "PROBLEM"
+  },
+  {
+    "thyromegaly": "PROBLEM"
+  },
+  {
+    "hepatosplenomegaly": "PROBLEM"
+  },
+  {
+    "Atrophic vaginal mucosa": "PROBLEM"
+  },
+  {
+    "cervical motion tenderness": "PROBLEM"
+  },
+  {
+    "adnexal tenderness": "PROBLEM"
+  },
+  {
+    "cyanosis": "PROBLEM"
+  },
+  {
+    "clubbing": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "Chest pain": "PROBLEM"
+  },
+  {
+    "ECG": "TEST"
+  },
+  {
+    "GI reflux": "PROBLEM"
+  },
+  {
+    "TSH": "TEST"
+  },
+  {
+    "DEXA": "TEST"
+  },
+  {
+    "Pap smear": "TEST"
+  },
+  {
+    "mammogram": "TEST"
+  }
+]

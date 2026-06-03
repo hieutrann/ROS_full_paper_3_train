@@ -1,0 +1,62 @@
+[
+  {
+    "Refractory hypertension": "PROBLEM"
+  },
+  {
+    "cardiac arrhythmia": "PROBLEM"
+  },
+  {
+    "AV block": "PROBLEM"
+  },
+  {
+    "GI bleed": "PROBLEM"
+  },
+  {
+    "depression": "PROBLEM"
+  },
+  {
+    "Triamterene/hydrochlorothiazide": "DRUG"
+  },
+  {
+    "Norvasc": "DRUG"
+  },
+  {
+    "Atenolol": "DRUG"
+  },
+  {
+    "Atacand": "DRUG"
+  },
+  {
+    "Cardura": "DRUG"
+  },
+  {
+    "pulse": "TEST"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "temperature": "TEST"
+  },
+  {
+    "respirations": "TEST"
+  },
+  {
+    "regular rate and rhythm": "TEST"
+  },
+  {
+    "S1 and S2 without murmur": "TEST"
+  },
+  {
+    "edema": "TREATMENT"
+  },
+  {
+    "discharge": "TREATMENT"
+  },
+  {
+    "pacemaker": "TREATMENT"
+  },
+  {
+    "cardiac arrhythmia av block": "TREATMENT"
+  }
+]

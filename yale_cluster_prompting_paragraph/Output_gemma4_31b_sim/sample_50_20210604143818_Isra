@@ -1,0 +1,179 @@
+[
+  {
+    "Abdominal Pain": "PROBLEM"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "Abdominal pain": "PROBLEM"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "CT scan": "TEST"
+  },
+  {
+    "oral antibiotics": "DRUG"
+  },
+  {
+    "Cipro": "DRUG"
+  },
+  {
+    "Flagyl": "DRUG"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "anorexia": "PROBLEM"
+  },
+  {
+    "obstipation": "PROBLEM"
+  },
+  {
+    "bright red blood per rectum": "PROBLEM"
+  },
+  {
+    "melena": "PROBLEM"
+  },
+  {
+    "colonoscopy": "TEST"
+  },
+  {
+    "fevers": "PROBLEM"
+  },
+  {
+    "chills": "PROBLEM"
+  },
+  {
+    "jaundice": "PROBLEM"
+  },
+  {
+    "weight loss": "PROBLEM"
+  },
+  {
+    "atrial fibrillation": "PROBLEM"
+  },
+  {
+    "normal sinus rhythm": "PROBLEM"
+  },
+  {
+    "metoprolol": "DRUG"
+  },
+  {
+    "Premarin": "DRUG"
+  },
+  {
+    "hormone replacement": "TREATMENT"
+  },
+  {
+    "cholecystectomy": "TREATMENT"
+  },
+  {
+    "appendectomy": "TREATMENT"
+  },
+  {
+    "hysterectomy": "TREATMENT"
+  },
+  {
+    "grade 4 bladder prolapse": "PROBLEM"
+  },
+  {
+    "MACRODANTIN": "DRUG"
+  },
+  {
+    "febrile illnesses": "PROBLEM"
+  },
+  {
+    "chest pains": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "temperature": "TEST"
+  },
+  {
+    "focally tender": "PROBLEM"
+  },
+  {
+    "palpable fullness or mass": "PROBLEM"
+  },
+  {
+    "rebound tenderness": "PROBLEM"
+  },
+  {
+    "CVA or flank tenderness": "PROBLEM"
+  },
+  {
+    "left flank tenderness": "PROBLEM"
+  },
+  {
+    "grade 4 urinary bladder prolapse": "PROBLEM"
+  },
+  {
+    "White blood cell count": "TEST"
+  },
+  {
+    "hemoglobin": "TEST"
+  },
+  {
+    "platelet count": "TEST"
+  },
+  {
+    "Alkaline phosphatase": "TEST"
+  },
+  {
+    "Liver function tests": "TEST"
+  },
+  {
+    "Electrolytes": "TEST"
+  },
+  {
+    "Glucose": "TEST"
+  },
+  {
+    "BUN": "TEST"
+  },
+  {
+    "creatinine": "TEST"
+  },
+  {
+    "EKG": "TEST"
+  },
+  {
+    "normal sinus rhythm": "PROBLEM"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "sigmoid diverticulitis": "PROBLEM"
+  },
+  {
+    "sigmoid diverticulitis": "PROBLEM"
+  },
+  {
+    "CT scan of the abdomen and pelvis": "TEST"
+  },
+  {
+    "colonoscopy": "TEST"
+  },
+  {
+    "surgical intervention": "TREATMENT"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "diverticulitis": "PROBLEM"
+  },
+  {
+    "tenderness": "PROBLEM"
+  }
+]

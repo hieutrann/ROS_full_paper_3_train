@@ -1,0 +1,104 @@
+[
+  {
+    "Hypertension": "PROBLEM"
+  },
+  {
+    "cerebrovascular accident": "PROBLEM"
+  },
+  {
+    "Compression fracture of L1": "PROBLEM"
+  },
+  {
+    "osteoporosis": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "lightheadedness": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "osteoarthritis of the knee": "PROBLEM"
+  },
+  {
+    "DEXA scan": "TEST"
+  },
+  {
+    "EKG": "TEST"
+  },
+  {
+    "chest x-ray": "TEST"
+  },
+  {
+    "Holter monitor": "TEST"
+  },
+  {
+    "Echocardiogram": "TEST"
+  },
+  {
+    "Fosamax": "DRUG"
+  },
+  {
+    "Hydrochlorothiazide": "DRUG"
+  },
+  {
+    "Prozac": "DRUG"
+  },
+  {
+    "Vioxx": "DRUG"
+  },
+  {
+    "vitamin C": "DRUG"
+  },
+  {
+    "vitamin E": "DRUG"
+  },
+  {
+    "calcium with D": "DRUG"
+  },
+  {
+    "multivitamin": "DRUG"
+  },
+  {
+    "aspirin": "DRUG"
+  },
+  {
+    "Monopril": "DRUG"
+  },
+  {
+    "Celexa": "DRUG"
+  },
+  {
+    "Bactrim": "DRUG"
+  },
+  {
+    "surgery": "TREATMENT"
+  },
+  {
+    "total knee replacement": "TREATMENT"
+  },
+  {
+    "Weight Watchers": "TREATMENT"
+  },
+  {
+    "dietician": "TREATMENT"
+  },
+  {
+    "screening colonoscopy": "TREATMENT"
+  },
+  {
+    "Fosamax": "TREATMENT"
+  },
+  {
+    "preoperative evaluation": "TREATMENT"
+  },
+  {
+    "preoperative cardiac testing": "TREATMENT"
+  },
+  {
+    "preoperative beta-blocker": "TREATMENT"
+  }
+]

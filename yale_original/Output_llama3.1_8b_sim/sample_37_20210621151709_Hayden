@@ -1,0 +1,77 @@
+[
+  {
+    "Diabetes Mellitus": "PROBLEM"
+  },
+  {
+    "diabetic control": "PROBLEM"
+  },
+  {
+    "Lantus insulin": "DRUG"
+  },
+  {
+    "Humalog insulin": "DRUG"
+  },
+  {
+    "Lantus": "DRUG"
+  },
+  {
+    "glucoses": "PROBLEM"
+  },
+  {
+    "insulin": "DRUG"
+  },
+  {
+    "glucoses": "PROBLEM"
+  },
+  {
+    "insulin": "DRUG"
+  },
+  {
+    "appetite": "PROBLEM"
+  },
+  {
+    "fatigued": "PROBLEM"
+  },
+  {
+    "Vitals": "TEST"
+  },
+  {
+    "distress": "PROBLEM"
+  },
+  {
+    "Diabetes": "PROBLEM"
+  },
+  {
+    "low blood glucoses": "PROBLEM"
+  },
+  {
+    "Lantus insulin": "DRUG"
+  },
+  {
+    "55 units": "TREATMENT"
+  },
+  {
+    "Humalog": "DRUG"
+  },
+  {
+    "blood glucoses": "TEST"
+  },
+  {
+    "diabetes": "PROBLEM"
+  },
+  {
+    "mellitus": "PROBLEM"
+  },
+  {
+    "lantus": "DRUG"
+  },
+  {
+    "insulin": "DRUG"
+  },
+  {
+    "glucoses": "PROBLEM"
+  },
+  {
+    "sliding scale": "TREATMENT"
+  }
+]

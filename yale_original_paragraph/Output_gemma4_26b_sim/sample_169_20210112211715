@@ -1,0 +1,149 @@
+[
+  {
+    "Blood-borne pathogen exposure": "PROBLEM"
+  },
+  {
+    "blood gas": "TEST"
+  },
+  {
+    "HIV": "PROBLEM"
+  },
+  {
+    "hepatitis C": "PROBLEM"
+  },
+  {
+    "blood tests": "TEST"
+  },
+  {
+    "viral illness": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "low appetite": "PROBLEM"
+  },
+  {
+    "fevers": "PROBLEM"
+  },
+  {
+    "chills": "PROBLEM"
+  },
+  {
+    "malaise": "PROBLEM"
+  },
+  {
+    "headache": "PROBLEM"
+  },
+  {
+    "congestion": "PROBLEM"
+  },
+  {
+    "cold": "PROBLEM"
+  },
+  {
+    "coughing": "PROBLEM"
+  },
+  {
+    "sore throat": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "troubled breathing": "PROBLEM"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "urinary symptoms": "PROBLEM"
+  },
+  {
+    "darkening of the skin": "PROBLEM"
+  },
+  {
+    "yellowing or darkening of the urine": "PROBLEM"
+  },
+  {
+    "rash": "PROBLEM"
+  },
+  {
+    "local infection": "PROBLEM"
+  },
+  {
+    "degenerative disc disease": "PROBLEM"
+  },
+  {
+    "Nexium": "DRUG"
+  },
+  {
+    "IV contrast": "DRUG"
+  },
+  {
+    "pulse": "TEST"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "pharyngeal erythema": "PROBLEM"
+  },
+  {
+    "tonsillar enlargement": "PROBLEM"
+  },
+  {
+    "adenopathy": "PROBLEM"
+  },
+  {
+    "wheeze": "PROBLEM"
+  },
+  {
+    "rales": "PROBLEM"
+  },
+  {
+    "murmur": "PROBLEM"
+  },
+  {
+    "gallop": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "ataxia": "PROBLEM"
+  },
+  {
+    "contaminated needlestick": "PROBLEM"
+  },
+  {
+    "hepatitis B": "PROBLEM"
+  },
+  {
+    "titers": "TEST"
+  },
+  {
+    "tetanus": "TREATMENT"
+  },
+  {
+    "intestinal illness": "PROBLEM"
+  },
+  {
+    "acute hepatitis": "PROBLEM"
+  },
+  {
+    "lymphadenopathy": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "liver function test": "TEST"
+  },
+  {
+    "pathogen exposure": "PROBLEM"
+  }
+]

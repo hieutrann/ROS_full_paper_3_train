@@ -1,0 +1,59 @@
+[
+  {
+    "pneumonia": "PROBLEM"
+  },
+  {
+    "orthopnea": "PROBLEM"
+  },
+  {
+    "paroxysmal nocturnal dyspnea": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "atrial fibrillation": "PROBLEM"
+  },
+  {
+    "ischemic heart disease": "PROBLEM"
+  },
+  {
+    "end-stage LV systolic dysfunction": "PROBLEM"
+  },
+  {
+    "status post ICD implantation": "TREATMENT"
+  },
+  {
+    "Coumadin": "DRUG"
+  },
+  {
+    "Ambien": "DRUG"
+  },
+  {
+    "Diovan": "DRUG"
+  },
+  {
+    "Lantus insulin": "DRUG"
+  },
+  {
+    "Lasix": "DRUG"
+  },
+  {
+    "Novolin R": "DRUG"
+  },
+  {
+    "Toprol XL": "DRUG"
+  },
+  {
+    "Flovent": "DRUG"
+  },
+  {
+    "VITAL SIGNS": "TEST"
+  },
+  {
+    "cardiology office visit": "TEST"
+  },
+  {
+    "cardiology office visit": "TEST"
+  }
+]

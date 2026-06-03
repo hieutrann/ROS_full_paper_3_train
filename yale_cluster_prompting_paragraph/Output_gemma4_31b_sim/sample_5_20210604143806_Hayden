@@ -1,0 +1,194 @@
+[
+  {
+    "Congestion": "PROBLEM"
+  },
+  {
+    "Cough": "PROBLEM"
+  },
+  {
+    "cold": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "runny nose": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "spitting up": "PROBLEM"
+  },
+  {
+    "Congestion": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "cold": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "runny nose": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "spitting up": "PROBLEM"
+  },
+  {
+    "difficulty breathing": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "physical exam": "TEST"
+  },
+  {
+    "right TM": "TEST"
+  },
+  {
+    "red": "PROBLEM"
+  },
+  {
+    "Left TM": "TEST"
+  },
+  {
+    "congested": "PROBLEM"
+  },
+  {
+    "Amoxil": "DRUG"
+  },
+  {
+    "Aldex": "DRUG"
+  },
+  {
+    "difficulty breathing": "PROBLEM"
+  },
+  {
+    "congested": "PROBLEM"
+  },
+  {
+    "temperature": "TEST"
+  },
+  {
+    "congestion": "PROBLEM"
+  },
+  {
+    "Amoxil": "DRUG"
+  },
+  {
+    "Aldex": "DRUG"
+  },
+  {
+    "hearing screen": "TEST"
+  },
+  {
+    "VITAL SIGNS": "TEST"
+  },
+  {
+    "respiratory rate": "TEST"
+  },
+  {
+    "congested": "PROBLEM"
+  },
+  {
+    "retractions": "PROBLEM"
+  },
+  {
+    "right TM": "TEST"
+  },
+  {
+    "red": "PROBLEM"
+  },
+  {
+    "irritated": "PROBLEM"
+  },
+  {
+    "nasal discharge": "PROBLEM"
+  },
+  {
+    "throat": "TEST"
+  },
+  {
+    "extraocular muscles": "TEST"
+  },
+  {
+    "tachycardic": "PROBLEM"
+  },
+  {
+    "murmur": "PROBLEM"
+  },
+  {
+    "diffuse expiratory wheezing": "PROBLEM"
+  },
+  {
+    "clubbing": "PROBLEM"
+  },
+  {
+    "cyanosis": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "chem panel": "TEST"
+  },
+  {
+    "RSV screen": "TEST"
+  },
+  {
+    "Chest x-ray": "TEST"
+  },
+  {
+    "CBC": "TEST"
+  },
+  {
+    "RSV bronchiolitis": "PROBLEM"
+  },
+  {
+    "otitis media": "PROBLEM"
+  },
+  {
+    "Orapred": "DRUG"
+  },
+  {
+    "IV Rocephin": "DRUG"
+  },
+  {
+    "nebulizer treatments": "TREATMENT"
+  },
+  {
+    "oxygen": "TREATMENT"
+  },
+  {
+    "rsv": "PROBLEM"
+  },
+  {
+    "bronchiolitis": "PROBLEM"
+  },
+  {
+    "otitis media": "PROBLEM"
+  },
+  {
+    "runny nose": "PROBLEM"
+  },
+  {
+    "difficulty breathing": "PROBLEM"
+  },
+  {
+    "congestion": "PROBLEM"
+  },
+  {
+    "congested": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  }
+]

@@ -1,0 +1,368 @@
+[
+  {
+    "dysarthria": "PROBLEM"
+  },
+  {
+    "discomfort": "PROBLEM"
+  },
+  {
+    "Pupils": "TEST"
+  },
+  {
+    "Extraocular muscles": "TEST"
+  },
+  {
+    "injection": "PROBLEM"
+  },
+  {
+    "icterus": "PROBLEM"
+  },
+  {
+    "papilledema": "PROBLEM"
+  },
+  {
+    "hemorrhages": "PROBLEM"
+  },
+  {
+    "exudates": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "exudate": "PROBLEM"
+  },
+  {
+    "drainage": "PROBLEM"
+  },
+  {
+    "Tympanic membranes": "TEST"
+  },
+  {
+    "bulging": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "infection": "PROBLEM"
+  },
+  {
+    "hemotympanum": "PROBLEM"
+  },
+  {
+    "Hearing": "TEST"
+  },
+  {
+    "deformity": "PROBLEM"
+  },
+  {
+    "bleeding": "PROBLEM"
+  },
+  {
+    "discharge": "PROBLEM"
+  },
+  {
+    "septal hematoma": "PROBLEM"
+  },
+  {
+    "swelling": "PROBLEM"
+  },
+  {
+    "abnormality": "PROBLEM"
+  },
+  {
+    "swelling": "PROBLEM"
+  },
+  {
+    "exudate": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "airway": "TEST"
+  },
+  {
+    "stridor": "PROBLEM"
+  },
+  {
+    "meningismus": "PROBLEM"
+  },
+  {
+    "Brudzinski or Kernig sign": "TEST"
+  },
+  {
+    "adenopathy": "PROBLEM"
+  },
+  {
+    "JVD": "PROBLEM"
+  },
+  {
+    "bruits": "PROBLEM"
+  },
+  {
+    "Trachea": "TEST"
+  },
+  {
+    "breath sounds": "TEST"
+  },
+  {
+    "Equal excursion": "TEST"
+  },
+  {
+    "hyperresonance": "PROBLEM"
+  },
+  {
+    "dullness to percussion": "PROBLEM"
+  },
+  {
+    "tenderness": "PROBLEM"
+  },
+  {
+    "LUNGS": "TEST"
+  },
+  {
+    "rales": "PROBLEM"
+  },
+  {
+    "rhonchi": "PROBLEM"
+  },
+  {
+    "wheezes": "PROBLEM"
+  },
+  {
+    "air movement": "TEST"
+  },
+  {
+    "HEART": "TEST"
+  },
+  {
+    "murmur": "PROBLEM"
+  },
+  {
+    "S3": "PROBLEM"
+  },
+  {
+    "S4": "PROBLEM"
+  },
+  {
+    "rub": "PROBLEM"
+  },
+  {
+    "Point of maximal impulse": "TEST"
+  },
+  {
+    "Abdominal aorta": "TEST"
+  },
+  {
+    "carotid upstroke": "TEST"
+  },
+  {
+    "bowel sounds": "TEST"
+  },
+  {
+    "organomegaly": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "tympany": "PROBLEM"
+  },
+  {
+    "percussion": "TEST"
+  },
+  {
+    "guarding": "PROBLEM"
+  },
+  {
+    "rigidity": "PROBLEM"
+  },
+  {
+    "rebound tenderness": "PROBLEM"
+  },
+  {
+    "Murphy and McBurney sign": "TEST"
+  },
+  {
+    "Rovsing": "TEST"
+  },
+  {
+    "obturator": "TEST"
+  },
+  {
+    "psoas sign": "TEST"
+  },
+  {
+    "hepatosplenomegaly": "PROBLEM"
+  },
+  {
+    "hernias": "PROBLEM"
+  },
+  {
+    "RECTAL": "TEST"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "Soft, brown stool": "PROBLEM"
+  },
+  {
+    "Guaiac": "TEST"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "exudate": "PROBLEM"
+  },
+  {
+    "discharge": "PROBLEM"
+  },
+  {
+    "discharge": "PROBLEM"
+  },
+  {
+    "lesion": "PROBLEM"
+  },
+  {
+    "bleeding": "PROBLEM"
+  },
+  {
+    "Uterus": "TEST"
+  },
+  {
+    "cervical motion tenderness": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "tenderness": "PROBLEM"
+  },
+  {
+    "clubbing": "PROBLEM"
+  },
+  {
+    "cyanosis": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "Pulses": "TEST"
+  },
+  {
+    "deformity": "PROBLEM"
+  },
+  {
+    "trauma": "PROBLEM"
+  },
+  {
+    "laxity": "PROBLEM"
+  },
+  {
+    "tenderness": "PROBLEM"
+  },
+  {
+    "discomfort": "PROBLEM"
+  },
+  {
+    "Homan sign": "TEST"
+  },
+  {
+    "atrophy": "PROBLEM"
+  },
+  {
+    "contractures": "PROBLEM"
+  },
+  {
+    "rashes": "PROBLEM"
+  },
+  {
+    "jaundice": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "nodules": "PROBLEM"
+  },
+  {
+    "petechia": "PROBLEM"
+  },
+  {
+    "bulla": "PROBLEM"
+  },
+  {
+    "ecchymosis": "PROBLEM"
+  },
+  {
+    "Cranial nerves II through XII": "TEST"
+  },
+  {
+    "Muscle strength": "TEST"
+  },
+  {
+    "Deep tendon reflexes": "TEST"
+  },
+  {
+    "Babinski": "TEST"
+  },
+  {
+    "Sensation": "TEST"
+  },
+  {
+    "Gait": "TEST"
+  },
+  {
+    "Romberg": "TEST"
+  },
+  {
+    "finger-to-nose": "TEST"
+  },
+  {
+    "rapid alternating movements": "TEST"
+  },
+  {
+    "heel-to-shin": "TEST"
+  },
+  {
+    "ataxia": "PROBLEM"
+  },
+  {
+    "gait testing": "TEST"
+  },
+  {
+    "Tone": "TEST"
+  },
+  {
+    "pronator drift": "TEST"
+  },
+  {
+    "Memory": "TEST"
+  },
+  {
+    "dysarthria": "PROBLEM"
+  },
+  {
+    "Remote memory": "TEST"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "tenderness": "PROBLEM"
+  }
+]

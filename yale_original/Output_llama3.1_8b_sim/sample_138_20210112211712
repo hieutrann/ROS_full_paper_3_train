@@ -1,0 +1,203 @@
+[
+  {
+    "Neck pain": "PROBLEM"
+  },
+  {
+    "radiculopathy": "PROBLEM"
+  },
+  {
+    "cervical spondylosis": "PROBLEM"
+  },
+  {
+    "herniated nucleus pulposus": "PROBLEM"
+  },
+  {
+    "stenosis": "PROBLEM"
+  },
+  {
+    "ADMISSION DIAGNOSES": "PROBLEM"
+  },
+  {
+    "Neck pain": "PROBLEM"
+  },
+  {
+    "right upper extremity radiculopathy": "PROBLEM"
+  },
+  {
+    "2": "TEST"
+  },
+  {
+    "Cervical spondylosis": "PROBLEM"
+  },
+  {
+    "herniated nucleus pulposus": "PROBLEM"
+  },
+  {
+    "stenosis": "PROBLEM"
+  },
+  {
+    "DISCHARGE DIAGNOSES": "PROBLEM"
+  },
+  {
+    "Neck pain": "PROBLEM"
+  },
+  {
+    "right upper extremity radiculopathy": "PROBLEM"
+  },
+  {
+    "2": "TEST"
+  },
+  {
+    "Cervical spondylosis": "PROBLEM"
+  },
+  {
+    "herniated nucleus pulposus": "PROBLEM"
+  },
+  {
+    "stenosis": "PROBLEM"
+  },
+  {
+    "OPERATIVE PROCEDURES": "TREATMENT"
+  },
+  {
+    "Anterior cervical discectomy with decompression": "TREATMENT"
+  },
+  {
+    "2": "TEST"
+  },
+  {
+    "Arthrodesis": "TREATMENT"
+  },
+  {
+    "anterior interbody fusion": "TREATMENT"
+  },
+  {
+    "C4-C5": "TEST"
+  },
+  {
+    "C5-C6": "TEST"
+  },
+  {
+    "C6-C7": "TEST"
+  },
+  {
+    "3": "PROBLEM"
+  },
+  {
+    "Spinal instrumentation": "TREATMENT"
+  },
+  {
+    "4": "TEST"
+  },
+  {
+    "Implant": "TREATMENT"
+  },
+  {
+    "5": "TEST"
+  },
+  {
+    "Allograft": "TREATMENT"
+  },
+  {
+    "None": "PROBLEM"
+  },
+  {
+    "neck pain": "PROBLEM"
+  },
+  {
+    "right shoulder blade": "PROBLEM"
+  },
+  {
+    "right shoulder": "PROBLEM"
+  },
+  {
+    "right upper extremity": "PROBLEM"
+  },
+  {
+    "hand": "PROBLEM"
+  },
+  {
+    "symptoms have been persistent": "PROBLEM"
+  },
+  {
+    "weakness": "PROBLEM"
+  },
+  {
+    "upper extremity": "PROBLEM"
+  },
+  {
+    "medications": "DRUG"
+  },
+  {
+    "cervical spondylosis": "PROBLEM"
+  },
+  {
+    "herniated disk": "PROBLEM"
+  },
+  {
+    "stenosis": "PROBLEM"
+  },
+  {
+    "C4-C5": "TEST"
+  },
+  {
+    "C5-C6": "TEST"
+  },
+  {
+    "C6-C7": "TEST"
+  },
+  {
+    "liver surgery": "TREATMENT"
+  },
+  {
+    "IV morphine": "DRUG"
+  },
+  {
+    "right shoulder pain": "PROBLEM"
+  },
+  {
+    "operative site soreness": "PROBLEM"
+  },
+  {
+    "pain down the arm": "PROBLEM"
+  },
+  {
+    "tingling of the right thumb": "PROBLEM"
+  },
+  {
+    "tingling of the right thumb and right index finger": "PROBLEM"
+  },
+  {
+    "dysphagia": "PROBLEM"
+  },
+  {
+    "Decadron": "DRUG"
+  },
+  {
+    "Medrol": "DRUG"
+  },
+  {
+    "Darvocet": "DRUG"
+  },
+  {
+    "Flexeril": "DRUG"
+  },
+  {
+    "Instructions": "TREATMENT"
+  },
+  {
+    "radiculopathy": "PROBLEM"
+  },
+  {
+    "cervical spondylosis": "PROBLEM"
+  },
+  {
+    "neck pain": "PROBLEM"
+  },
+  {
+    "herniated nucleus pulposus": "PROBLEM"
+  },
+  {
+    "anterior cervical discectomy": "TREATMENT"
+  }
+]

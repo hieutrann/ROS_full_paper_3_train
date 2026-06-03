@@ -1,0 +1,191 @@
+[
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "CT scan": "TEST"
+  },
+  {
+    "Cipro": "DRUG"
+  },
+  {
+    "Flagyl": "DRUG"
+  },
+  {
+    "anorexia": "PROBLEM"
+  },
+  {
+    "flatus": "PROBLEM"
+  },
+  {
+    "obstipation": "PROBLEM"
+  },
+  {
+    "melena": "PROBLEM"
+  },
+  {
+    "colonoscopy": "TEST"
+  },
+  {
+    "fevers": "PROBLEM"
+  },
+  {
+    "chills": "PROBLEM"
+  },
+  {
+    "jaundice": "PROBLEM"
+  },
+  {
+    "weight loss": "PROBLEM"
+  },
+  {
+    "atrial fibrillation": "PROBLEM"
+  },
+  {
+    "sinus rhythm": "PROBLEM"
+  },
+  {
+    "metoprolol": "DRUG"
+  },
+  {
+    "Premarin": "DRUG"
+  },
+  {
+    "cholecystectomy": "TREATMENT"
+  },
+  {
+    "appendectomy": "TREATMENT"
+  },
+  {
+    "hysterectomy": "TREATMENT"
+  },
+  {
+    "bladder prolapse": "PROBLEM"
+  },
+  {
+    "Macrodantin": "DRUG"
+  },
+  {
+    "febrile illnesses": "PROBLEM"
+  },
+  {
+    "chest pains": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "temperature": "TEST"
+  },
+  {
+    "vital signs": "TEST"
+  },
+  {
+    "HEENT": "TEST"
+  },
+  {
+    "sclerae": "TEST"
+  },
+  {
+    "conjunctivae": "TEST"
+  },
+  {
+    "neck": "TEST"
+  },
+  {
+    "chest": "TEST"
+  },
+  {
+    "heart": "TEST"
+  },
+  {
+    "abdomen": "TEST"
+  },
+  {
+    "CVA": "TEST"
+  },
+  {
+    "flank tenderness": "PROBLEM"
+  },
+  {
+    "pelvic": "TEST"
+  },
+  {
+    "extremities": "TEST"
+  },
+  {
+    "white blood cell count": "TEST"
+  },
+  {
+    "hemoglobin": "TEST"
+  },
+  {
+    "platelet count": "TEST"
+  },
+  {
+    "alkaline phosphatase": "TEST"
+  },
+  {
+    "liver function tests": "TEST"
+  },
+  {
+    "electrolytes": "TEST"
+  },
+  {
+    "glucose": "TEST"
+  },
+  {
+    "BUN": "TEST"
+  },
+  {
+    "creatinine": "TEST"
+  },
+  {
+    "EKG": "TEST"
+  },
+  {
+    "sinus rhythm": "PROBLEM"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "left lower quadrant": "PROBLEM"
+  },
+  {
+    "abdomen": "PROBLEM"
+  },
+  {
+    "sigmoid diverticulitis": "PROBLEM"
+  },
+  {
+    "CT scan": "TEST"
+  },
+  {
+    "colonoscopy": "TEST"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "lower quadrant": "PROBLEM"
+  },
+  {
+    "abdominal": "PROBLEM"
+  },
+  {
+    "sigmoid": "PROBLEM"
+  },
+  {
+    "diverticulitis": "PROBLEM"
+  },
+  {
+    "tenderness": "PROBLEM"
+  }
+]

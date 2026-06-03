@@ -1,0 +1,137 @@
+[
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "umbilical hernia": "PROBLEM"
+  },
+  {
+    "pain": "PROBLEM"
+  },
+  {
+    "hemorrhoidectomy": "TREATMENT"
+  },
+  {
+    "depression": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "Ziac": "DRUG"
+  },
+  {
+    "Remeron": "DRUG"
+  },
+  {
+    "beers": "DRUG"
+  },
+  {
+    "smokes": "DRUG"
+  },
+  {
+    "hepatitis": "PROBLEM"
+  },
+  {
+    "blood transfusions": "TREATMENT"
+  },
+  {
+    "obese": "PROBLEM"
+  },
+  {
+    "distress": "PROBLEM"
+  },
+  {
+    "scleral icterus": "PROBLEM"
+  },
+  {
+    "cervical, supraclavicular, or axillary adenopathy": "PROBLEM"
+  },
+  {
+    "LUNGS": "PROBLEM"
+  },
+  {
+    "HEART": "PROBLEM"
+  },
+  {
+    "murmurs": "PROBLEM"
+  },
+  {
+    "gallops": "PROBLEM"
+  },
+  {
+    "obese": "PROBLEM"
+  },
+  {
+    "herniated contents": "PROBLEM"
+  },
+  {
+    "defect": "PROBLEM"
+  },
+  {
+    "EKG": "TEST"
+  },
+  {
+    "prolonged QT": "PROBLEM"
+  },
+  {
+    "Chest x-ray": "TEST"
+  },
+  {
+    "abdominal x-rays": "TEST"
+  },
+  {
+    "electrolytes": "TEST"
+  },
+  {
+    "Creatinine": "TEST"
+  },
+  {
+    "White count": "TEST"
+  },
+  {
+    "hematocrit": "TEST"
+  },
+  {
+    "platelet count": "TEST"
+  },
+  {
+    "incarcerated umbilical hernia": "PROBLEM"
+  },
+  {
+    "repair": "TREATMENT"
+  },
+  {
+    "mesh": "TREATMENT"
+  },
+  {
+    "sinus rhythm": "TEST"
+  },
+  {
+    "ekg": "TEST"
+  },
+  {
+    "prolonged qt": "PROBLEM"
+  },
+  {
+    "platelet count": "TEST"
+  },
+  {
+    "hematocrit": "TEST"
+  },
+  {
+    "umbilical hernia": "PROBLEM"
+  },
+  {
+    "emergency department": "TEST"
+  }
+]

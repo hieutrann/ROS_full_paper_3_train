@@ -1,0 +1,194 @@
+[
+  {
+    "Sepsis": "PROBLEM"
+  },
+  {
+    "SBP": "PROBLEM"
+  },
+  {
+    "diabetes": "PROBLEM"
+  },
+  {
+    "morbid obesity": "PROBLEM"
+  },
+  {
+    "hepatitis C": "PROBLEM"
+  },
+  {
+    "cirrhosis": "PROBLEM"
+  },
+  {
+    "alcohol and cocaine abuse": "PROBLEM"
+  },
+  {
+    "ground-level fall": "PROBLEM"
+  },
+  {
+    "weak knees": "PROBLEM"
+  },
+  {
+    "bilateral knee pain": "PROBLEM"
+  },
+  {
+    "hematuria": "PROBLEM"
+  },
+  {
+    "epigastric pain": "PROBLEM"
+  },
+  {
+    "heart rate": "TEST"
+  },
+  {
+    "respiratory rate": "TEST"
+  },
+  {
+    "White blood cell count": "TEST"
+  },
+  {
+    "platelet count": "TEST"
+  },
+  {
+    "Abdominal ultrasound": "TEST"
+  },
+  {
+    "ascites": "PROBLEM"
+  },
+  {
+    "Zosyn": "DRUG"
+  },
+  {
+    "levofloxacin": "DRUG"
+  },
+  {
+    "Flagyl": "DRUG"
+  },
+  {
+    "hypotension": "PROBLEM"
+  },
+  {
+    "vancomycin": "DRUG"
+  },
+  {
+    "doripenem": "DRUG"
+  },
+  {
+    "coronary artery disease": "PROBLEM"
+  },
+  {
+    "hyperlipidemia": "PROBLEM"
+  },
+  {
+    "chronic venous stasis": "PROBLEM"
+  },
+  {
+    "gastroesophageal reflux disease": "PROBLEM"
+  },
+  {
+    "exploratory laparotomy": "TREATMENT"
+  },
+  {
+    "stab wounds": "PROBLEM"
+  },
+  {
+    "chronic recurrent leg wounds": "PROBLEM"
+  },
+  {
+    "hepatic encephalopathy": "PROBLEM"
+  },
+  {
+    "thiamine": "DRUG"
+  },
+  {
+    "Protonix": "DRUG"
+  },
+  {
+    "potassium chloride": "DRUG"
+  },
+  {
+    "magnesium": "DRUG"
+  },
+  {
+    "Zofran": "DRUG"
+  },
+  {
+    "norepinephrine drip": "DRUG"
+  },
+  {
+    "vitamin K": "DRUG"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "oxygen saturation": "TEST"
+  },
+  {
+    "nasal cannula": "TREATMENT"
+  },
+  {
+    "pale conjunctivae": "PROBLEM"
+  },
+  {
+    "icteric sclerae": "PROBLEM"
+  },
+  {
+    "bipedal edema": "PROBLEM"
+  },
+  {
+    "jaundice": "PROBLEM"
+  },
+  {
+    "neutrophils": "TEST"
+  },
+  {
+    "bands": "TEST"
+  },
+  {
+    "H&H": "TEST"
+  },
+  {
+    "INR": "TEST"
+  },
+  {
+    "PTT": "TEST"
+  },
+  {
+    "BUN": "TEST"
+  },
+  {
+    "creatinine": "TEST"
+  },
+  {
+    "AST": "TEST"
+  },
+  {
+    "ALT": "TEST"
+  },
+  {
+    "alkaline phosphatase": "TEST"
+  },
+  {
+    "total bilirubin": "TEST"
+  },
+  {
+    "Total CK": "TEST"
+  },
+  {
+    "LDH": "TEST"
+  },
+  {
+    "Troponin": "TEST"
+  },
+  {
+    "myoglobin": "TEST"
+  },
+  {
+    "Urinalysis": "TEST"
+  },
+  {
+    "leucocyte esterase": "TEST"
+  },
+  {
+    "nitrites": "TEST"
+  }
+]

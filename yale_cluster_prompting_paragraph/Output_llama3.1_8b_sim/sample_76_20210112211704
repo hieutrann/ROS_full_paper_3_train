@@ -1,0 +1,74 @@
+[
+  {
+    "urinary tract infection": "PROBLEM"
+  },
+  {
+    "sepsis": "PROBLEM"
+  },
+  {
+    "Escherichia coli": "PROBLEM"
+  },
+  {
+    "hypotension": "PROBLEM"
+  },
+  {
+    "Ischemic cardiomyopathy": "PROBLEM"
+  },
+  {
+    "Diabetes type 2": "PROBLEM"
+  },
+  {
+    "Recent pulmonary embolism": "PROBLEM"
+  },
+  {
+    "coronary artery disease": "PROBLEM"
+  },
+  {
+    "VITAL SIGNS": "TEST"
+  },
+  {
+    "Temperature": "TEST"
+  },
+  {
+    "White count": "TEST"
+  },
+  {
+    "Hemoglobin": "TEST"
+  },
+  {
+    "Hematocrit": "TEST"
+  },
+  {
+    "Platelets": "TEST"
+  },
+  {
+    "BUN": "TEST"
+  },
+  {
+    "Creatinine": "TEST"
+  },
+  {
+    "Levaquin": "DRUG"
+  },
+  {
+    "doripenem": "DRUG"
+  },
+  {
+    "Coumadin": "DRUG"
+  },
+  {
+    "insulin": "DRUG"
+  },
+  {
+    "Foley catheter": "TREATMENT"
+  },
+  {
+    "intravenous fluids": "TREATMENT"
+  },
+  {
+    "monitor": "TREATMENT"
+  },
+  {
+    "change Foley catheter": "TREATMENT"
+  }
+]

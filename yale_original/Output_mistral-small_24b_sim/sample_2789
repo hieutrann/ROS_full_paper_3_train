@@ -1,0 +1,362 @@
+[
+  {
+    "hip surgery": "PROBLEM"
+  },
+  {
+    "hip surgery": "TREATMENT"
+  },
+  {
+    "right hip surgery": "PROBLEM"
+  },
+  {
+    "low-grade fever": "PROBLEM"
+  },
+  {
+    "DVT": "PROBLEM"
+  },
+  {
+    "Coumadin": "DRUG"
+  },
+  {
+    "Lovenox": "DRUG"
+  },
+  {
+    "INR": "TEST"
+  },
+  {
+    "bowel movement": "PROBLEM"
+  },
+  {
+    "right calf discomfort": "PROBLEM"
+  },
+  {
+    "right hip pain": "PROBLEM"
+  },
+  {
+    "Anxiety": "PROBLEM"
+  },
+  {
+    "depression": "PROBLEM"
+  },
+  {
+    "osteoarthritis": "PROBLEM"
+  },
+  {
+    "migraine headaches": "PROBLEM"
+  },
+  {
+    "menstrual cycle": "PROBLEM"
+  },
+  {
+    "sciatic pain": "PROBLEM"
+  },
+  {
+    "herniated disc": "PROBLEM"
+  },
+  {
+    "appendectomy": "TREATMENT"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "MOBIC": "DRUG"
+  },
+  {
+    "Klonopin": "DRUG"
+  },
+  {
+    "Celebrex": "DRUG"
+  },
+  {
+    "Coumadin": "DRUG"
+  },
+  {
+    "Colace": "DRUG"
+  },
+  {
+    "Fiorinal": "DRUG"
+  },
+  {
+    "oxycodone": "DRUG"
+  },
+  {
+    "Klonopin": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "smoking": "PROBLEM"
+  },
+  {
+    "migraine headaches": "PROBLEM"
+  },
+  {
+    "menstrual cycle": "PROBLEM"
+  },
+  {
+    "glasses": "PROBLEM"
+  },
+  {
+    "floaters": "PROBLEM"
+  },
+  {
+    "temperature": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "throat": "PROBLEM"
+  },
+  {
+    "intubation": "TREATMENT"
+  },
+  {
+    "calf pain": "PROBLEM"
+  },
+  {
+    "Homans sign": "TEST"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "palpitation": "PROBLEM"
+  },
+  {
+    "pain in the upper neck and down to her arm": "PROBLEM"
+  },
+  {
+    "difficulty breathing": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "hemoptysis": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "diarrhea": "PROBLEM"
+  },
+  {
+    "constipated": "PROBLEM"
+  },
+  {
+    "bowel movement": "PROBLEM"
+  },
+  {
+    "urinary symptoms": "PROBLEM"
+  },
+  {
+    "dysuria": "PROBLEM"
+  },
+  {
+    "urinary frequency": "PROBLEM"
+  },
+  {
+    "incomplete bladder emptying": "PROBLEM"
+  },
+  {
+    "voiding difficulties": "PROBLEM"
+  },
+  {
+    "menstrual cycle": "PROBLEM"
+  },
+  {
+    "pregnant": "PROBLEM"
+  },
+  {
+    "vasectomy": "TREATMENT"
+  },
+  {
+    "temperature": "TEST"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "heart rate": "TEST"
+  },
+  {
+    "respirations": "TEST"
+  },
+  {
+    "O2 saturation": "TEST"
+  },
+  {
+    "Sclerae": "PROBLEM"
+  },
+  {
+    "Trachea": "PROBLEM"
+  },
+  {
+    "LUNGS": "PROBLEM"
+  },
+  {
+    "HEART": "PROBLEM"
+  },
+  {
+    "Bowel sounds": "PROBLEM"
+  },
+  {
+    "Right hip incision": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "calf tenderness": "PROBLEM"
+  },
+  {
+    "Homans sign": "TEST"
+  },
+  {
+    "pedal edema": "PROBLEM"
+  },
+  {
+    "Alert and oriented x3": "TEST"
+  },
+  {
+    "chemistry panel": "TEST"
+  },
+  {
+    "fasting glucose": "TEST"
+  },
+  {
+    "anion gap": "TEST"
+  },
+  {
+    "BUN": "TEST"
+  },
+  {
+    "creatinine": "TEST"
+  },
+  {
+    "INR": "TEST"
+  },
+  {
+    "CBC": "TEST"
+  },
+  {
+    "white count": "TEST"
+  },
+  {
+    "hemoglobin": "TEST"
+  },
+  {
+    "hematocrit": "TEST"
+  },
+  {
+    "platelets": "TEST"
+  },
+  {
+    "right total hip replacement": "TREATMENT"
+  },
+  {
+    "Physical Therapy": "TREATMENT"
+  },
+  {
+    "Occupational Therapy": "TREATMENT"
+  },
+  {
+    "Postoperative anemia": "PROBLEM"
+  },
+  {
+    "Feosol": "DRUG"
+  },
+  {
+    "Pain management": "TREATMENT"
+  },
+  {
+    "Oxycodone SR": "DRUG"
+  },
+  {
+    "oxycodone IR": "DRUG"
+  },
+  {
+    "pain": "PROBLEM"
+  },
+  {
+    "ice": "TREATMENT"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "Depression": "PROBLEM"
+  },
+  {
+    "anxiety": "PROBLEM"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Klonopin": "DRUG"
+  },
+  {
+    "Osteoarthritis": "PROBLEM"
+  },
+  {
+    "Celebrex": "DRUG"
+  },
+  {
+    "GI prophylaxis": "TREATMENT"
+  },
+  {
+    "Protonix": "DRUG"
+  },
+  {
+    "Dulcolax": "DRUG"
+  },
+  {
+    "lactulose": "DRUG"
+  },
+  {
+    "Colace": "DRUG"
+  },
+  {
+    "DVT": "PROBLEM"
+  },
+  {
+    "Arixtra": "DRUG"
+  },
+  {
+    "INR": "TEST"
+  },
+  {
+    "Coumadin": "DRUG"
+  },
+  {
+    "5 mg": "DRUG"
+  },
+  {
+    "Right leg muscle spasm": "PROBLEM"
+  },
+  {
+    "calf pain": "PROBLEM"
+  },
+  {
+    "DVT": "PROBLEM"
+  },
+  {
+    "hip surgery": "TREATMENT"
+  },
+  {
+    "hip replacement": "TREATMENT"
+  },
+  {
+    "physical therapy": "TREATMENT"
+  },
+  {
+    "occupational therapy": "TREATMENT"
+  }
+]

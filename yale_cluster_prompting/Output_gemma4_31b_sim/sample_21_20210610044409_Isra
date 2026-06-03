@@ -1,0 +1,128 @@
+[
+  {
+    "Nausea & Vomiting": "PROBLEM"
+  },
+  {
+    "intractable nausea and vomiting": "PROBLEM"
+  },
+  {
+    "blood-tinged vomit": "PROBLEM"
+  },
+  {
+    "intractable nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "blood-tinged vomit": "PROBLEM"
+  },
+  {
+    "pregnancy": "PROBLEM"
+  },
+  {
+    "low sodium": "PROBLEM"
+  },
+  {
+    "potassium slightly elevated": "PROBLEM"
+  },
+  {
+    "ALT": "TEST"
+  },
+  {
+    "AST": "TEST"
+  },
+  {
+    "total bilirubin": "TEST"
+  },
+  {
+    "urine": "TEST"
+  },
+  {
+    "ketones": "TEST"
+  },
+  {
+    "protein": "TEST"
+  },
+  {
+    "esterase": "TEST"
+  },
+  {
+    "rbc": "TEST"
+  },
+  {
+    "bacteria": "PROBLEM"
+  },
+  {
+    "H and H": "TEST"
+  },
+  {
+    "Phenergan": "DRUG"
+  },
+  {
+    "Zofran": "DRUG"
+  },
+  {
+    "IV": "TREATMENT"
+  },
+  {
+    "hydration": "TREATMENT"
+  },
+  {
+    "Rocephin": "DRUG"
+  },
+  {
+    "bladder infection": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "Maalox": "DRUG"
+  },
+  {
+    "fluids": "TREATMENT"
+  },
+  {
+    "Followup chemistry": "TEST"
+  },
+  {
+    "AST": "TEST"
+  },
+  {
+    "ALT": "TEST"
+  },
+  {
+    "hyperemesis gravidarum": "PROBLEM"
+  },
+  {
+    "IV hydration": "TREATMENT"
+  },
+  {
+    "ALT": "TEST"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "iv hydration": "TREATMENT"
+  },
+  {
+    "elevated alt": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  }
+]

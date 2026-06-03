@@ -1,0 +1,89 @@
+[
+  {
+    "Transforaminal Epidural Steroid Injection - 1": "TREATMENT"
+  },
+  {
+    "Pain Management": "PROBLEM"
+  },
+  {
+    "lidocaine": "DRUG"
+  },
+  {
+    "infection": "PROBLEM"
+  },
+  {
+    "bleeding": "PROBLEM"
+  },
+  {
+    "allergic reaction": "PROBLEM"
+  },
+  {
+    "dural puncture": "PROBLEM"
+  },
+  {
+    "headache": "PROBLEM"
+  },
+  {
+    "nerve injuries": "PROBLEM"
+  },
+  {
+    "spinal cord injury": "PROBLEM"
+  },
+  {
+    "cardiovascular and CNS side effects": "PROBLEM"
+  },
+  {
+    "vascular entry of medications": "PROBLEM"
+  },
+  {
+    "sedatives": "DRUG"
+  },
+  {
+    "narcotics": "DRUG"
+  },
+  {
+    "nonionic contrast agents": "DRUG"
+  },
+  {
+    "anesthetics": "DRUG"
+  },
+  {
+    "corticosteroids": "DRUG"
+  },
+  {
+    "betadine": "DRUG"
+  },
+  {
+    "fluoroscopy": "TEST"
+  },
+  {
+    "spinal needle": "TEST"
+  },
+  {
+    "non-ionic contrast agent": "TEST"
+  },
+  {
+    "epidurogram": "TEST"
+  },
+  {
+    "radiculogram": "TEST"
+  },
+  {
+    "vascular dye pattern": "TEST"
+  },
+  {
+    "vital signs": "TEST"
+  },
+  {
+    "oximetry": "TEST"
+  },
+  {
+    "weakness": "PROBLEM"
+  },
+  {
+    "sensory or motor changes": "PROBLEM"
+  },
+  {
+    "bowel or bladder function": "PROBLEM"
+  }
+]

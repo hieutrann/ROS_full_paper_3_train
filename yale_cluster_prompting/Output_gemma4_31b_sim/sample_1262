@@ -1,0 +1,437 @@
+[
+  {
+    "Mesothelioma": "PROBLEM"
+  },
+  {
+    "pleural effusion": "PROBLEM"
+  },
+  {
+    "atrial fibrillation": "PROBLEM"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "ascites": "PROBLEM"
+  },
+  {
+    "esophageal reflux": "PROBLEM"
+  },
+  {
+    "deep venous thrombosis": "PROBLEM"
+  },
+  {
+    "Mesothelioma": "PROBLEM"
+  },
+  {
+    "Pleural effusion": "PROBLEM"
+  },
+  {
+    "atrial fibrillation": "PROBLEM"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "ascites": "PROBLEM"
+  },
+  {
+    "esophageal reflux": "PROBLEM"
+  },
+  {
+    "deep venous thrombosis": "PROBLEM"
+  },
+  {
+    "decortication of the lung": "TREATMENT"
+  },
+  {
+    "pleural biopsy": "TEST"
+  },
+  {
+    "transpleural fluoroscopy": "TEST"
+  },
+  {
+    "thoracentesis": "TREATMENT"
+  },
+  {
+    "Port-A-Cath placement": "TREATMENT"
+  },
+  {
+    "nonproductive cough": "PROBLEM"
+  },
+  {
+    "right-sided chest pain": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "pericarditis": "PROBLEM"
+  },
+  {
+    "pericardectomy": "TREATMENT"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "right-sided chest pain": "PROBLEM"
+  },
+  {
+    "Chest x-ray": "TEST"
+  },
+  {
+    "right-sided pleural effusion": "PROBLEM"
+  },
+  {
+    "Pericardectomy": "TREATMENT"
+  },
+  {
+    "Pericarditis": "PROBLEM"
+  },
+  {
+    "Atrial fibrillation": "PROBLEM"
+  },
+  {
+    "RNCA": "PROBLEM"
+  },
+  {
+    "intracranial thrombolytic treatment": "TREATMENT"
+  },
+  {
+    "PTA": "TREATMENT"
+  },
+  {
+    "MCA": "PROBLEM"
+  },
+  {
+    "Mesenteric venous thrombosis": "PROBLEM"
+  },
+  {
+    "Pericardial window": "TREATMENT"
+  },
+  {
+    "Cholecystectomy": "TREATMENT"
+  },
+  {
+    "Left thoracentesis": "TREATMENT"
+  },
+  {
+    "coronary artery disease": "PROBLEM"
+  },
+  {
+    "CVA": "PROBLEM"
+  },
+  {
+    "diabetes": "PROBLEM"
+  },
+  {
+    "CHF": "PROBLEM"
+  },
+  {
+    "MI": "PROBLEM"
+  },
+  {
+    "cancer": "PROBLEM"
+  },
+  {
+    "Coumadin": "DRUG"
+  },
+  {
+    "INR": "TEST"
+  },
+  {
+    "INR": "TEST"
+  },
+  {
+    "Amiodarone": "DRUG"
+  },
+  {
+    "REVIEW OF SYSTEMS": "TEST"
+  },
+  {
+    "numbness": "PROBLEM"
+  },
+  {
+    "tingling": "PROBLEM"
+  },
+  {
+    "PHYSICAL EXAMINATION": "TEST"
+  },
+  {
+    "VITAL SIGNS": "TEST"
+  },
+  {
+    "Blood pressure": "TEST"
+  },
+  {
+    "heart rate": "TEST"
+  },
+  {
+    "respirations": "TEST"
+  },
+  {
+    "temperature": "TEST"
+  },
+  {
+    "oxygen saturation": "TEST"
+  },
+  {
+    "nonproductive cough": "PROBLEM"
+  },
+  {
+    "pain with coughing": "PROBLEM"
+  },
+  {
+    "Tympanic membranes": "TEST"
+  },
+  {
+    "lymphadenopathy": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "Pleural friction rub": "PROBLEM"
+  },
+  {
+    "bowel sounds": "TEST"
+  },
+  {
+    "organomegaly": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "clubbing": "PROBLEM"
+  },
+  {
+    "cyanosis": "PROBLEM"
+  },
+  {
+    "tenderness": "PROBLEM"
+  },
+  {
+    "Normal pulses": "TEST"
+  },
+  {
+    "breakdown": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "ulcers": "PROBLEM"
+  },
+  {
+    "focal deficits": "PROBLEM"
+  },
+  {
+    "LABORATORY DATA": "TEST"
+  },
+  {
+    "right-sided pleural effusion": "PROBLEM"
+  },
+  {
+    "thoracentesis": "TREATMENT"
+  },
+  {
+    "Coumadin": "DRUG"
+  },
+  {
+    "echocardiogram": "TEST"
+  },
+  {
+    "DVT": "PROBLEM"
+  },
+  {
+    "Lovenox": "DRUG"
+  },
+  {
+    "pericarditis": "PROBLEM"
+  },
+  {
+    "pericardial window": "TREATMENT"
+  },
+  {
+    "mesenteric pain": "PROBLEM"
+  },
+  {
+    "thrombosis": "PROBLEM"
+  },
+  {
+    "pericardial fluid was accumulated": "PROBLEM"
+  },
+  {
+    "pericardectomy": "TREATMENT"
+  },
+  {
+    "CT scan": "TEST"
+  },
+  {
+    "pericardectomy": "TREATMENT"
+  },
+  {
+    "bilateral plural effusions": "PROBLEM"
+  },
+  {
+    "pericardectomy": "TREATMENT"
+  },
+  {
+    "symptoms": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "bilateral pleural effusion": "PROBLEM"
+  },
+  {
+    "CT of the chest": "TEST"
+  },
+  {
+    "large mediastinal lymph node": "PROBLEM"
+  },
+  {
+    "pathology": "TEST"
+  },
+  {
+    "pericardectomy": "TREATMENT"
+  },
+  {
+    "mesothelioma": "PROBLEM"
+  },
+  {
+    "chest tube placement": "TREATMENT"
+  },
+  {
+    "thoracoscopy": "TEST"
+  },
+  {
+    "fluid biopsies": "TEST"
+  },
+  {
+    "epithelioid malignant mesothelioma": "PROBLEM"
+  },
+  {
+    "PET CT": "TEST"
+  },
+  {
+    "extensive uptake in the chest": "PROBLEM"
+  },
+  {
+    "bilateral pleural pericardial effusions": "PROBLEM"
+  },
+  {
+    "lymphadenopathy": "PROBLEM"
+  },
+  {
+    "acidic fluid": "PROBLEM"
+  },
+  {
+    "pectoral and intramammary lymph nodes": "PROBLEM"
+  },
+  {
+    "uptake in L4": "PROBLEM"
+  },
+  {
+    "SUV": "TEST"
+  },
+  {
+    "stage III disease": "PROBLEM"
+  },
+  {
+    "repeat echocardiogram": "TEST"
+  },
+  {
+    "ejection fraction": "TEST"
+  },
+  {
+    "chemotherapy": "TREATMENT"
+  },
+  {
+    "cisplatin": "DRUG"
+  },
+  {
+    "Alimta": "DRUG"
+  },
+  {
+    "Port-A-Cath": "TREATMENT"
+  },
+  {
+    "chemotherapy": "TREATMENT"
+  },
+  {
+    "IV fluid": "TREATMENT"
+  },
+  {
+    "IV": "TREATMENT"
+  },
+  {
+    "Port-A-Cath": "TREATMENT"
+  },
+  {
+    "heparin": "DRUG"
+  },
+  {
+    "Zofran": "DRUG"
+  },
+  {
+    "Phenergan": "DRUG"
+  },
+  {
+    "Coumadin": "DRUG"
+  },
+  {
+    "Lovenox": "DRUG"
+  },
+  {
+    "Vicodin": "DRUG"
+  },
+  {
+    "INR": "TEST"
+  },
+  {
+    "mesothelioma": "PROBLEM"
+  },
+  {
+    "pleural effusion": "PROBLEM"
+  },
+  {
+    "atrial fibrillation": "PROBLEM"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "ascites": "PROBLEM"
+  },
+  {
+    "esophageal reflux": "PROBLEM"
+  },
+  {
+    "deep venous thrombosis": "PROBLEM"
+  },
+  {
+    "port-a-cath placement": "TREATMENT"
+  },
+  {
+    "port a cath": "TREATMENT"
+  },
+  {
+    "iv piggyback": "TREATMENT"
+  },
+  {
+    "venous thrombosis": "PROBLEM"
+  },
+  {
+    "thrombosis": "PROBLEM"
+  },
+  {
+    "lymphadenopathy": "PROBLEM"
+  },
+  {
+    "pericardectomy": "TREATMENT"
+  }
+]

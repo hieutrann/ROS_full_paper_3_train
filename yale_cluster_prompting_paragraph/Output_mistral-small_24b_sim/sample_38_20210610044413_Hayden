@@ -1,0 +1,134 @@
+[
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "weight loss": "PROBLEM"
+  },
+  {
+    "jaundice": "PROBLEM"
+  },
+  {
+    "epigastric pain": "PROBLEM"
+  },
+  {
+    "pancreatic mass": "PROBLEM"
+  },
+  {
+    "lymph nodes": "PROBLEM"
+  },
+  {
+    "liver metastases": "PROBLEM"
+  },
+  {
+    "pseudocyst": "PROBLEM"
+  },
+  {
+    "strictured pancreatic duct": "PROBLEM"
+  },
+  {
+    "strictured bile duct": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "CT scan": "TEST"
+  },
+  {
+    "ERCP": "TEST"
+  },
+  {
+    "stent": "TREATMENT"
+  },
+  {
+    "Zofran": "DRUG"
+  },
+  {
+    "Phenergan": "DRUG"
+  },
+  {
+    "white count": "TEST"
+  },
+  {
+    "hemoglobin": "TEST"
+  },
+  {
+    "hematocrit": "TEST"
+  },
+  {
+    "MCV": "TEST"
+  },
+  {
+    "platelet count": "TEST"
+  },
+  {
+    "sodium": "TEST"
+  },
+  {
+    "potassium": "TEST"
+  },
+  {
+    "chloride": "TEST"
+  },
+  {
+    "CO2": "TEST"
+  },
+  {
+    "BUN": "TEST"
+  },
+  {
+    "creatinine": "TEST"
+  },
+  {
+    "bilirubin": "TEST"
+  },
+  {
+    "alk phos": "TEST"
+  },
+  {
+    "AST": "TEST"
+  },
+  {
+    "ALT": "TEST"
+  },
+  {
+    "total protein": "TEST"
+  },
+  {
+    "albumin": "TEST"
+  },
+  {
+    "oral hypoglycemics": "DRUG"
+  },
+  {
+    "insulin sliding scale": "DRUG"
+  },
+  {
+    "chemotherapy": "TREATMENT"
+  },
+  {
+    "Phenergan": "DRUG"
+  },
+  {
+    "Duragesic patch": "DRUG"
+  },
+  {
+    "Benadryl": "DRUG"
+  },
+  {
+    "enalapril": "DRUG"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "increased bilirubin": "PROBLEM"
+  },
+  {
+    "worsening pain": "PROBLEM"
+  }
+]

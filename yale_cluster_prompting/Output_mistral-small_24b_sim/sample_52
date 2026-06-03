@@ -1,0 +1,164 @@
+[
+  {
+    "pneumonia": "PROBLEM"
+  },
+  {
+    "orthopnea": "PROBLEM"
+  },
+  {
+    "paroxysmal nocturnal dyspnea": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "expectoration": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "Coumadin": "DRUG"
+  },
+  {
+    "atrial fibrillation": "PROBLEM"
+  },
+  {
+    "ischemic heart disease": "PROBLEM"
+  },
+  {
+    "LV systolic dysfunction": "PROBLEM"
+  },
+  {
+    "ICD implantation": "TREATMENT"
+  },
+  {
+    "Fasting blood sugar": "TEST"
+  },
+  {
+    "VITAL SIGNS": "TEST"
+  },
+  {
+    "Respirations": "TEST"
+  },
+  {
+    "Heart rate": "TEST"
+  },
+  {
+    "Weight": "TEST"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "jaundice": "PROBLEM"
+  },
+  {
+    "JVP": "TEST"
+  },
+  {
+    "Carotid upstroke": "TEST"
+  },
+  {
+    "wheezing": "PROBLEM"
+  },
+  {
+    "crepitations": "PROBLEM"
+  },
+  {
+    "CARDIOVASCULAR": "TEST"
+  },
+  {
+    "systolic murmur": "PROBLEM"
+  },
+  {
+    "ABDOMEN": "TEST"
+  },
+  {
+    "hepatosplenomegaly": "PROBLEM"
+  },
+  {
+    "pedal edema": "PROBLEM"
+  },
+  {
+    "Ambien": "DRUG"
+  },
+  {
+    "Coumadin": "DRUG"
+  },
+  {
+    "Diovan": "DRUG"
+  },
+  {
+    "Lantus insulin": "DRUG"
+  },
+  {
+    "Lasix": "DRUG"
+  },
+  {
+    "Novolin R": "DRUG"
+  },
+  {
+    "Toprol XL": "DRUG"
+  },
+  {
+    "Flovent": "DRUG"
+  },
+  {
+    "Atherosclerotic coronary vascular disease": "PROBLEM"
+  },
+  {
+    "myocardial infarction": "PROBLEM"
+  },
+  {
+    "LV systolic dysfunction": "PROBLEM"
+  },
+  {
+    "Diabetes mellitus": "PROBLEM"
+  },
+  {
+    "Diabetic nephropathy": "PROBLEM"
+  },
+  {
+    "renal failure": "PROBLEM"
+  },
+  {
+    "ICD implantation": "TREATMENT"
+  },
+  {
+    "atrial fibrillation": "PROBLEM"
+  },
+  {
+    "Coumadin": "DRUG"
+  },
+  {
+    "pneumonia": "PROBLEM"
+  },
+  {
+    "atherosclerotic coronary vascular disease": "PROBLEM"
+  },
+  {
+    "icd implantation": "TREATMENT"
+  },
+  {
+    "atrial fibrillation": "PROBLEM"
+  },
+  {
+    "myocardial infarction": "PROBLEM"
+  },
+  {
+    "orthopnea": "PROBLEM"
+  },
+  {
+    "paroxysmal nocturnal dyspnea": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "systolic": "TEST"
+  },
+  {
+    "lungs": "TEST"
+  }
+]

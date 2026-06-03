@@ -1,0 +1,95 @@
+[
+  {
+    "Disseminated Intravascular Coagulation": "PROBLEM"
+  },
+  {
+    "Streptococcal pneumonia": "PROBLEM"
+  },
+  {
+    "sepsis": "PROBLEM"
+  },
+  {
+    "pneumonia": "PROBLEM"
+  },
+  {
+    "respiratory failure": "PROBLEM"
+  },
+  {
+    "intubation": "TREATMENT"
+  },
+  {
+    "mechanical ventilation": "TREATMENT"
+  },
+  {
+    "prolonged partial thromboplastin time": "TEST"
+  },
+  {
+    "prothrombin time": "TEST"
+  },
+  {
+    "low fibrinogen": "TEST"
+  },
+  {
+    "elevated D-dimer": "TEST"
+  },
+  {
+    "Bleeding": "PROBLEM"
+  },
+  {
+    "factor replacement": "TREATMENT"
+  },
+  {
+    "platelet infusion": "TREATMENT"
+  },
+  {
+    "coagulopathy": "PROBLEM"
+  },
+  {
+    "VITAL SIGNS": "TEST"
+  },
+  {
+    "conjunctival hemorrhage": "PROBLEM"
+  },
+  {
+    "petechiae": "PROBLEM"
+  },
+  {
+    "coarse breath sounds": "PROBLEM"
+  },
+  {
+    "oozing": "PROBLEM"
+  },
+  {
+    "clubbing": "PROBLEM"
+  },
+  {
+    "cyanosis": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "platelet count": "TEST"
+  },
+  {
+    "INR": "TEST"
+  },
+  {
+    "PTT": "TEST"
+  },
+  {
+    "fibrinogen": "TEST"
+  },
+  {
+    "D-dimer": "TEST"
+  },
+  {
+    "pneumococcal disease": "PROBLEM"
+  },
+  {
+    "Xigris": "DRUG"
+  },
+  {
+    "heparin": "DRUG"
+  }
+]

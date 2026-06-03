@@ -1,0 +1,122 @@
+[
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "acute COPD exacerbation": "PROBLEM"
+  },
+  {
+    "Chronic obstructive pulmonary disease": "PROBLEM"
+  },
+  {
+    "Pneumonia": "PROBLEM"
+  },
+  {
+    "Congestive heart failure": "PROBLEM"
+  },
+  {
+    "Diabetes mellitus": "PROBLEM"
+  },
+  {
+    "Neuropathy": "PROBLEM"
+  },
+  {
+    "Anxiety": "PROBLEM"
+  },
+  {
+    "Hypothyroidism": "PROBLEM"
+  },
+  {
+    "Depression": "PROBLEM"
+  },
+  {
+    "Hypertension": "PROBLEM"
+  },
+  {
+    "Severe chronic obstructive pulmonary disease": "PROBLEM"
+  },
+  {
+    "Lower gastrointestinal bleed": "PROBLEM"
+  },
+  {
+    "Status post episode of atrial fibrillation": "PROBLEM"
+  },
+  {
+    "Status post diverticular bleed": "PROBLEM"
+  },
+  {
+    "Albuterol inhaler": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Cardizem CD": "DRUG"
+  },
+  {
+    "Colace": "DRUG"
+  },
+  {
+    "Iron sulfate": "DRUG"
+  },
+  {
+    "NPH": "DRUG"
+  },
+  {
+    "Atrovent inhaler": "DRUG"
+  },
+  {
+    "Statin oral suspension": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Prednisone": "DRUG"
+  },
+  {
+    "Darvocet Darvocet-N": "DRUG"
+  },
+  {
+    "Metamucil": "DRUG"
+  },
+  {
+    "Synthroid": "DRUG"
+  },
+  {
+    "Nexium": "DRUG"
+  },
+  {
+    "BiPAP": "TEST"
+  },
+  {
+    "Bronchitis": "PROBLEM"
+  },
+  {
+    "Plavix": "DRUG"
+  },
+  {
+    "Lovenox": "DRUG"
+  },
+  {
+    "Endoscopy": "TEST"
+  },
+  {
+    "Packed red blood cells": "TEST"
+  },
+  {
+    "Diverticular disease": "PROBLEM"
+  },
+  {
+    "Sigmoid colon": "PROBLEM"
+  },
+  {
+    "Hemorrhage": "PROBLEM"
+  },
+  {
+    "Pulmonary": "TEST"
+  },
+  {
+    "Diagnostic pulmonary": "TEST"
+  }
+]

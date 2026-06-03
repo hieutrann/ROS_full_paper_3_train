@@ -1,0 +1,503 @@
+[
+  {
+    "Sepsis": "PROBLEM"
+  },
+  {
+    "CT scan": "TEST"
+  },
+  {
+    "dilated bladder": "PROBLEM"
+  },
+  {
+    "bilateral hydronephrosis": "PROBLEM"
+  },
+  {
+    "hydroureter": "PROBLEM"
+  },
+  {
+    "obstruction": "PROBLEM"
+  },
+  {
+    "Sepsis": "PROBLEM"
+  },
+  {
+    "demented": "PROBLEM"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "CT scan": "TEST"
+  },
+  {
+    "dilated bladder": "PROBLEM"
+  },
+  {
+    "bilateral hydronephrosis": "PROBLEM"
+  },
+  {
+    "hydroureter": "PROBLEM"
+  },
+  {
+    "patient": "PROBLEM"
+  },
+  {
+    "son": "PROBLEM"
+  },
+  {
+    "IV antibiotics": "DRUG"
+  },
+  {
+    "hydration": "TREATMENT"
+  },
+  {
+    "PAST MEDICAL HISTORY": "TREATMENT"
+  },
+  {
+    "CAD": "PROBLEM"
+  },
+  {
+    "2": "TEST"
+  },
+  {
+    "dementia": "PROBLEM"
+  },
+  {
+    "3": "PROBLEM"
+  },
+  {
+    "CVA": "PROBLEM"
+  },
+  {
+    "4": "TEST"
+  },
+  {
+    "nephrolithiasis": "PROBLEM"
+  },
+  {
+    "NONE": "PROBLEM"
+  },
+  {
+    "MEDICATIONS": "DRUG"
+  },
+  {
+    "Ambien": "DRUG"
+  },
+  {
+    "2": "TEST"
+  },
+  {
+    "Milk of magnesia": "DRUG"
+  },
+  {
+    "3": "PROBLEM"
+  },
+  {
+    "Tylenol": "DRUG"
+  },
+  {
+    "4": "TEST"
+  },
+  {
+    "Tramadol": "DRUG"
+  },
+  {
+    "5": "PROBLEM"
+  },
+  {
+    "Soma": "DRUG"
+  },
+  {
+    "6": "PROBLEM"
+  },
+  {
+    "Coumadin": "DRUG"
+  },
+  {
+    "7": "PROBLEM"
+  },
+  {
+    "Zoloft": "DRUG"
+  },
+  {
+    "8": "TEST"
+  },
+  {
+    "Allopurinol": "DRUG"
+  },
+  {
+    "9": "PROBLEM"
+  },
+  {
+    "Digoxin": "DRUG"
+  },
+  {
+    "10": "PROBLEM"
+  },
+  {
+    "Namenda": "DRUG"
+  },
+  {
+    "11": "PROBLEM"
+  },
+  {
+    "Zocor": "DRUG"
+  },
+  {
+    "12": "TEST"
+  },
+  {
+    "BuSpar": "DRUG"
+  },
+  {
+    "13": "PROBLEM"
+  },
+  {
+    "Detrol": "DRUG"
+  },
+  {
+    "14": "PROBLEM"
+  },
+  {
+    "Coreg": "DRUG"
+  },
+  {
+    "15": "PROBLEM"
+  },
+  {
+    "Colace": "DRUG"
+  },
+  {
+    "16": "TEST"
+  },
+  {
+    "Calcium": "PROBLEM"
+  },
+  {
+    "17": "PROBLEM"
+  },
+  {
+    "Zantac": "DRUG"
+  },
+  {
+    "18": "PROBLEM"
+  },
+  {
+    "Lasix": "DRUG"
+  },
+  {
+    "19": "PROBLEM"
+  },
+  {
+    "Seroquel": "DRUG"
+  },
+  {
+    "20": "PROBLEM"
+  },
+  {
+    "Aldactone": "DRUG"
+  },
+  {
+    "21": "PROBLEM"
+  },
+  {
+    "Amoxicillin": "DRUG"
+  },
+  {
+    "FAMILY HISTORY": "TEST"
+  },
+  {
+    "board and care": "PROBLEM"
+  },
+  {
+    "tobacco": "PROBLEM"
+  },
+  {
+    "alcohol": "PROBLEM"
+  },
+  {
+    "IV drug use": "PROBLEM"
+  },
+  {
+    "history of present illness": "PROBLEM"
+  },
+  {
+    "afebrile": "TEST"
+  },
+  {
+    "Pulse": "TEST"
+  },
+  {
+    "respirations": "TEST"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "saturating": "TEST"
+  },
+  {
+    "patient": "PROBLEM"
+  },
+  {
+    "Not oriented": "PROBLEM"
+  },
+  {
+    "Pupils": "TEST"
+  },
+  {
+    "Extraocular movements": "TEST"
+  },
+  {
+    "Mucous membranes": "PROBLEM"
+  },
+  {
+    "Supple": "TEST"
+  },
+  {
+    "thyromegaly": "PROBLEM"
+  },
+  {
+    "jugular venous distention": "PROBLEM"
+  },
+  {
+    "Irregularly irregular": "PROBLEM"
+  },
+  {
+    "brady": "PROBLEM"
+  },
+  {
+    "LUNGS": "PROBLEM"
+  },
+  {
+    "normoactive bowel sounds": "TEST"
+  },
+  {
+    "Soft": "PROBLEM"
+  },
+  {
+    "tenderness in the suprapubic region": "PROBLEM"
+  },
+  {
+    "cyanosis": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "clubbing": "PROBLEM"
+  },
+  {
+    "NEUROLOGIC": "TEST"
+  },
+  {
+    "focality": "PROBLEM"
+  },
+  {
+    "left inguinal hernia": "PROBLEM"
+  },
+  {
+    "SBO": "PROBLEM"
+  },
+  {
+    "dilated bladder": "PROBLEM"
+  },
+  {
+    "possible outlet obstruction": "PROBLEM"
+  },
+  {
+    "bilateral hydronephrosis": "PROBLEM"
+  },
+  {
+    "hydroureter": "PROBLEM"
+  },
+  {
+    "2.7 cm right adrenal gland mass": "PROBLEM"
+  },
+  {
+    "CT of the abdomen": "TEST"
+  },
+  {
+    "colon in sac": "TEST"
+  },
+  {
+    "White count": "TEST"
+  },
+  {
+    "hemoglobin": "TEST"
+  },
+  {
+    "platelet count": "TEST"
+  },
+  {
+    "WBCs": "TEST"
+  },
+  {
+    "RBCs": "TEST"
+  },
+  {
+    "leukocyte esterase": "TEST"
+  },
+  {
+    "Sodium": "TEST"
+  },
+  {
+    "potassium": "TEST"
+  },
+  {
+    "chloride": "TEST"
+  },
+  {
+    "CO2": "TEST"
+  },
+  {
+    "BUN": "TEST"
+  },
+  {
+    "creatinine": "TEST"
+  },
+  {
+    "atrial fibrillation": "PROBLEM"
+  },
+  {
+    "EKG": "TEST"
+  },
+  {
+    "PROBLEM LIST": "PROBLEM"
+  },
+  {
+    "Urinary tract infection": "PROBLEM"
+  },
+  {
+    "sepsis": "PROBLEM"
+  },
+  {
+    "2": "TEST"
+  },
+  {
+    "Obstructive uropathy": "PROBLEM"
+  },
+  {
+    "3": "PROBLEM"
+  },
+  {
+    "Dementia": "PROBLEM"
+  },
+  {
+    "Atrial fibrillation": "PROBLEM"
+  },
+  {
+    "5": "PROBLEM"
+  },
+  {
+    "Anemia": "PROBLEM"
+  },
+  {
+    "6": "PROBLEM"
+  },
+  {
+    "Adrenal gland mass": "PROBLEM"
+  },
+  {
+    "RECOMMENDATIONS": "TREATMENT"
+  },
+  {
+    "urology consult": "TREATMENT"
+  },
+  {
+    "X": "PROBLEM"
+  },
+  {
+    "2": "TEST"
+  },
+  {
+    "renal consult": "TREATMENT"
+  },
+  {
+    "Y.": "PROBLEM"
+  },
+  {
+    "3": "PROBLEM"
+  },
+  {
+    "Levaquin": "DRUG"
+  },
+  {
+    "4": "TEST"
+  },
+  {
+    "gentamicin": "DRUG"
+  },
+  {
+    "5": "PROBLEM"
+  },
+  {
+    "hypertonic-hypotonic": "TEST"
+  },
+  {
+    "6": "PROBLEM"
+  },
+  {
+    "SCD": "TREATMENT"
+  },
+  {
+    "TED hose": "TREATMENT"
+  },
+  {
+    "7": "PROBLEM"
+  },
+  {
+    "atrial fibrillation": "PROBLEM"
+  },
+  {
+    "digoxin": "DRUG"
+  },
+  {
+    "8": "TEST"
+  },
+  {
+    "dementia": "PROBLEM"
+  },
+  {
+    "medications": "DRUG"
+  },
+  {
+    "9": "PROBLEM"
+  },
+  {
+    "PPI": "DRUG"
+  },
+  {
+    "PUD": "PROBLEM"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "hydroureter": "PROBLEM"
+  },
+  {
+    "urology": "PROBLEM"
+  },
+  {
+    "urinary tract infection": "PROBLEM"
+  },
+  {
+    "sepsis": "PROBLEM"
+  },
+  {
+    "ct scan": "TEST"
+  },
+  {
+    "adrenal gland": "PROBLEM"
+  },
+  {
+    "dilated bladder": "PROBLEM"
+  },
+  {
+    "bilateral hydronephrosis": "PROBLEM"
+  },
+  {
+    "atrial fibrillation": "PROBLEM"
+  }
+]

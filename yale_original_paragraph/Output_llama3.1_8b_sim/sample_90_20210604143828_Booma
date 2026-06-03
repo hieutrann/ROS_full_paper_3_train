@@ -1,0 +1,38 @@
+[
+  {
+    "mastoiditis": "PROBLEM"
+  },
+  {
+    "acute otitis media": "PROBLEM"
+  },
+  {
+    "severe ear pain": "PROBLEM"
+  },
+  {
+    "Unasyn": "DRUG"
+  },
+  {
+    "Morphine": "DRUG"
+  },
+  {
+    "Vicodin": "DRUG"
+  },
+  {
+    "Ciprodex Otic Solution": "DRUG"
+  },
+  {
+    "Augmentin": "DRUG"
+  },
+  {
+    "CT scan": "TEST"
+  },
+  {
+    "The patient": "TREATMENT"
+  },
+  {
+    "draining": "TREATMENT"
+  },
+  {
+    "draining from the": "TREATMENT"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "Radiology": "TEST"
+  },
+  {
+    "CT C-Spine": "TEST"
+  },
+  {
+    "CT cervical spine": "TEST"
+  },
+  {
+    "CT examination": "TEST"
+  },
+  {
+    "coronal": "TEST"
+  },
+  {
+    "sagittal": "TEST"
+  },
+  {
+    "cervical spine": "TEST"
+  },
+  {
+    "fractures": "PROBLEM"
+  },
+  {
+    "osseous lesions": "PROBLEM"
+  },
+  {
+    "degenerative endplate": "PROBLEM"
+  },
+  {
+    "facet changes": "PROBLEM"
+  },
+  {
+    "osseous central canal": "PROBLEM"
+  },
+  {
+    "foraminal narrowing": "PROBLEM"
+  },
+  {
+    "cervical spine": "TEST"
+  }
+]

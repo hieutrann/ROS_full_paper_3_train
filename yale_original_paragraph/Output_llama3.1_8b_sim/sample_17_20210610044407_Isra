@@ -1,0 +1,125 @@
+[
+  {
+    "chronic kidney disease": "PROBLEM"
+  },
+  {
+    "diabetes mellitus": "PROBLEM"
+  },
+  {
+    "diabetic nephropathy": "PROBLEM"
+  },
+  {
+    "peripheral vascular disease": "PROBLEM"
+  },
+  {
+    "gout": "PROBLEM"
+  },
+  {
+    "gouty attack": "PROBLEM"
+  },
+  {
+    "urinary tract infection": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "hypercholesterolemia": "PROBLEM"
+  },
+  {
+    "hyperlipidemia": "PROBLEM"
+  },
+  {
+    "PTA": "TEST"
+  },
+  {
+    "urine culture": "TEST"
+  },
+  {
+    "white cell": "TEST"
+  },
+  {
+    "hematocrit": "TEST"
+  },
+  {
+    "serum sodium": "TEST"
+  },
+  {
+    "potassium": "TEST"
+  },
+  {
+    "chloride": "TEST"
+  },
+  {
+    "bicarb": "TEST"
+  },
+  {
+    "glucose": "TEST"
+  },
+  {
+    "BUN": "TEST"
+  },
+  {
+    "creatinine": "TEST"
+  },
+  {
+    "calcium": "TEST"
+  },
+  {
+    "uric acid": "TEST"
+  },
+  {
+    "sed rate": "TEST"
+  },
+  {
+    "BNP": "TEST"
+  },
+  {
+    "urinalysis": "TEST"
+  },
+  {
+    "allopurinol": "DRUG"
+  },
+  {
+    "colchicine": "DRUG"
+  },
+  {
+    "Micardis": "DRUG"
+  },
+  {
+    "Lasix": "DRUG"
+  },
+  {
+    "Crestor": "DRUG"
+  },
+  {
+    "Imdur": "DRUG"
+  },
+  {
+    "Amlodipine": "DRUG"
+  },
+  {
+    "Coreg": "DRUG"
+  },
+  {
+    "Ecotrin": "DRUG"
+  },
+  {
+    "calcitriol": "DRUG"
+  },
+  {
+    "NovoLog": "DRUG"
+  },
+  {
+    "Lantus": "DRUG"
+  },
+  {
+    "Foley": "TREATMENT"
+  },
+  {
+    "to the hospital because of swelling of the": "TREATMENT"
+  },
+  {
+    "steroids": "TREATMENT"
+  }
+]

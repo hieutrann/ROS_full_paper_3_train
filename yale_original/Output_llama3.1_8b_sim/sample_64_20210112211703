@@ -1,0 +1,422 @@
+[
+  {
+    "Antibiotic": "DRUG"
+  },
+  {
+    "ulcer": "PROBLEM"
+  },
+  {
+    "osteomyelitis": "PROBLEM"
+  },
+  {
+    "Antibiotic": "DRUG"
+  },
+  {
+    "ulcer": "PROBLEM"
+  },
+  {
+    "osteomyelitis": "PROBLEM"
+  },
+  {
+    "diabetes mellitus": "PROBLEM"
+  },
+  {
+    "foot": "PROBLEM"
+  },
+  {
+    "Hospital Emergency Room": "PROBLEM"
+  },
+  {
+    "methicillin-sensitive Staphylococcus aureus": "PROBLEM"
+  },
+  {
+    "MSSA": "PROBLEM"
+  },
+  {
+    "cultures": "TEST"
+  },
+  {
+    "Staphylococcus aureus": "PROBLEM"
+  },
+  {
+    "Levaquin": "DRUG"
+  },
+  {
+    "debridement": "TREATMENT"
+  },
+  {
+    "wound": "PROBLEM"
+  },
+  {
+    "MRI": "TEST"
+  },
+  {
+    "bone scan": "TEST"
+  },
+  {
+    "osteomyelitis": "PROBLEM"
+  },
+  {
+    "wound care center": "TREATMENT"
+  },
+  {
+    "General Hospital": "TEST"
+  },
+  {
+    "wound VAC": "TREATMENT"
+  },
+  {
+    "Long-Term Acute Care Facility": "PROBLEM"
+  },
+  {
+    "lacerated wound": "PROBLEM"
+  },
+  {
+    "second metatarsal area": "TEST"
+  },
+  {
+    "fifth metatarsal area": "TEST"
+  },
+  {
+    "metatarsal area": "TEST"
+  },
+  {
+    "head of these bones": "TEST"
+  },
+  {
+    "wound": "PROBLEM"
+  },
+  {
+    "stage IV": "PROBLEM"
+  },
+  {
+    "osteomyelitis": "PROBLEM"
+  },
+  {
+    "metatarsal bone": "PROBLEM"
+  },
+  {
+    "finger": "TEST"
+  },
+  {
+    "serosanguineous drainage": "PROBLEM"
+  },
+  {
+    "wound": "PROBLEM"
+  },
+  {
+    "distal": "PROBLEM"
+  },
+  {
+    "Positive for": "PROBLEM"
+  },
+  {
+    "Diabetes mellitus": "PROBLEM"
+  },
+  {
+    "2": "TEST"
+  },
+  {
+    "Osteomyelitis": "PROBLEM"
+  },
+  {
+    "Osteomyelitis of the right fifth toe": "PROBLEM"
+  },
+  {
+    "intravenous antibiotic therapy": "TREATMENT"
+  },
+  {
+    "antibiotic therapy": "TREATMENT"
+  },
+  {
+    "heart attack": "PROBLEM"
+  },
+  {
+    "liver cancer": "PROBLEM"
+  },
+  {
+    "hypothyroidism": "PROBLEM"
+  },
+  {
+    "cerebral palsy": "PROBLEM"
+  },
+  {
+    "drug allergies": "PROBLEM"
+  },
+  {
+    "foot": "PROBLEM"
+  },
+  {
+    "negative": "PROBLEM"
+  },
+  {
+    "Caucasian": "PROBLEM"
+  },
+  {
+    "male": "PROBLEM"
+  },
+  {
+    "temperature": "TEST"
+  },
+  {
+    "pulse": "TEST"
+  },
+  {
+    "respiratory rate": "TEST"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "Pupils": "TEST"
+  },
+  {
+    "Extraocular movements": "TEST"
+  },
+  {
+    "Head": "TEST"
+  },
+  {
+    "External ear exam": "TEST"
+  },
+  {
+    "Neck": "TEST"
+  },
+  {
+    "lymphadenopathy": "PROBLEM"
+  },
+  {
+    "heart": "PROBLEM"
+  },
+  {
+    "Lungs": "PROBLEM"
+  },
+  {
+    "Abdomen": "PROBLEM"
+  },
+  {
+    "bowel sounds": "TEST"
+  },
+  {
+    "lymphadenopathy": "PROBLEM"
+  },
+  {
+    "cyanosis": "PROBLEM"
+  },
+  {
+    "clubbing": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "endocarditis": "PROBLEM"
+  },
+  {
+    "lacerated wound": "PROBLEM"
+  },
+  {
+    "second metatarsal area": "PROBLEM"
+  },
+  {
+    "fifth metatarsal area": "PROBLEM"
+  },
+  {
+    "Tracking under the skin": "PROBLEM"
+  },
+  {
+    "wound": "PROBLEM"
+  },
+  {
+    "metatarsal bone": "PROBLEM"
+  },
+  {
+    "osteomyelitis": "PROBLEM"
+  },
+  {
+    "Central nervous system": "PROBLEM"
+  },
+  {
+    "Cranial nerves II through XII": "TEST"
+  },
+  {
+    "focal deficit": "PROBLEM"
+  },
+  {
+    "laboratory": "TEST"
+  },
+  {
+    "radiological": "TEST"
+  },
+  {
+    "diabetes mellitus": "PROBLEM"
+  },
+  {
+    "lawn mower-associated injury": "PROBLEM"
+  },
+  {
+    "right foot": "PROBLEM"
+  },
+  {
+    "debridement": "TREATMENT"
+  },
+  {
+    "debridement procedure": "TREATMENT"
+  },
+  {
+    "methicillin-sensitive Staphylococcus aureus": "PROBLEM"
+  },
+  {
+    "Infectious Disease": "PROBLEM"
+  },
+  {
+    "1": "TEST"
+  },
+  {
+    "infected ulcer": "PROBLEM"
+  },
+  {
+    "osteomyelitis": "PROBLEM"
+  },
+  {
+    "MRI": "TEST"
+  },
+  {
+    "bone scan": "TEST"
+  },
+  {
+    "methicillin-sensitive Staphylococcus aureus": "PROBLEM"
+  },
+  {
+    "Levaquin": "DRUG"
+  },
+  {
+    "Zyvox": "DRUG"
+  },
+  {
+    "Zosyn": "DRUG"
+  },
+  {
+    "Ancef": "DRUG"
+  },
+  {
+    "osteomyelitis": "PROBLEM"
+  },
+  {
+    "deep wound infection": "PROBLEM"
+  },
+  {
+    "wound care": "TREATMENT"
+  },
+  {
+    "wound VAC placement": "TREATMENT"
+  },
+  {
+    "PICC line": "TREATMENT"
+  },
+  {
+    "PICC line": "TREATMENT"
+  },
+  {
+    "intravenous antibiotic therapy": "TREATMENT"
+  },
+  {
+    "2": "TEST"
+  },
+  {
+    "CBC with differential": "TEST"
+  },
+  {
+    "chemistry 7 panel": "TEST"
+  },
+  {
+    "LFTs": "TEST"
+  },
+  {
+    "ESR": "TEST"
+  },
+  {
+    "C-reactive protein levels": "TEST"
+  },
+  {
+    "antibiotic therapy": "DRUG"
+  },
+  {
+    "3": "PROBLEM"
+  },
+  {
+    "wound healing": "PROBLEM"
+  },
+  {
+    "Wound care team": "TREATMENT"
+  },
+  {
+    "Long-Term Acute Care Facility": "PROBLEM"
+  },
+  {
+    "4": "TEST"
+  },
+  {
+    "treatment plan": "TREATMENT"
+  },
+  {
+    "5": "PROBLEM"
+  },
+  {
+    "medical problems": "PROBLEM"
+  },
+  {
+    "hospitalization": "PROBLEM"
+  },
+  {
+    "6": "PROBLEM"
+  },
+  {
+    "deep wound cultures": "TEST"
+  },
+  {
+    "MRI": "TEST"
+  },
+  {
+    "bone scan": "TEST"
+  },
+  {
+    "Hospital": "TEST"
+  },
+  {
+    "mssa": "PROBLEM"
+  },
+  {
+    "methicillin-sensitive staphylococcus aureus": "PROBLEM"
+  },
+  {
+    "staphylococcus aureus": "PROBLEM"
+  },
+  {
+    "foot ulcer": "PROBLEM"
+  },
+  {
+    "osteomyelitis": "PROBLEM"
+  },
+  {
+    "bone scan": "TEST"
+  },
+  {
+    "antibiotic management": "TREATMENT"
+  },
+  {
+    "wound care": "TREATMENT"
+  },
+  {
+    "intravenous antibiotic therapy": "TREATMENT"
+  },
+  {
+    "intravenous antibiotic": "DRUG"
+  },
+  {
+    "antibiotic therapy": "TREATMENT"
+  },
+  {
+    "antibiotic": "DRUG"
+  }
+]

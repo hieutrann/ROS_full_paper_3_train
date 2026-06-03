@@ -1,0 +1,53 @@
+[
+  {
+    "mastoiditis": "PROBLEM"
+  },
+  {
+    "right acute otitis media": "PROBLEM"
+  },
+  {
+    "severe ear pain": "PROBLEM"
+  },
+  {
+    "CT scan": "TEST"
+  },
+  {
+    "blood draining from the right ear": "PROBLEM"
+  },
+  {
+    "temperature": "TEST"
+  },
+  {
+    "Unasyn": "DRUG"
+  },
+  {
+    "Morphine": "DRUG"
+  },
+  {
+    "Vicodin": "DRUG"
+  },
+  {
+    "swelling of his cervical area": "PROBLEM"
+  },
+  {
+    "IV fluid": "TREATMENT"
+  },
+  {
+    "narcotics": "DRUG"
+  },
+  {
+    "heart rate": "TEST"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "respiratory rate": "TEST"
+  },
+  {
+    "Ciprodex Otic Solution": "DRUG"
+  },
+  {
+    "Augmentin": "DRUG"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "auricles": "TEST"
+  },
+  {
+    "lymphadenitis": "PROBLEM"
+  },
+  {
+    "acute trauma": "PROBLEM"
+  },
+  {
+    "nose": "TEST"
+  },
+  {
+    "otoscopic examination": "TEST"
+  },
+  {
+    "auditory canals": "TEST"
+  },
+  {
+    "tympanic membranes": "TEST"
+  },
+  {
+    "mass lesion": "PROBLEM"
+  },
+  {
+    "inflammation": "PROBLEM"
+  },
+  {
+    "swelling": "PROBLEM"
+  },
+  {
+    "hearing": "TEST"
+  },
+  {
+    "nasal mucosa": "TEST"
+  },
+  {
+    "septum": "TEST"
+  },
+  {
+    "turbinate": "TEST"
+  },
+  {
+    "rhinorrhea": "PROBLEM"
+  },
+  {
+    "bleeding": "PROBLEM"
+  },
+  {
+    "lips": "TEST"
+  },
+  {
+    "infection": "PROBLEM"
+  },
+  {
+    "mass lesion": "PROBLEM"
+  },
+  {
+    "traumatic lesions": "PROBLEM"
+  },
+  {
+    "teeth": "TEST"
+  },
+  {
+    "gingivae": "TEST"
+  },
+  {
+    "oral mucosa": "TEST"
+  },
+  {
+    "salivary glands": "TEST"
+  },
+  {
+    "hard and soft palates": "TEST"
+  },
+  {
+    "soft palate": "TEST"
+  },
+  {
+    "tongue": "TEST"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "swelling": "PROBLEM"
+  },
+  {
+    "tonsils": "TEST"
+  },
+  {
+    "posterior pharynx": "TEST"
+  },
+  {
+    "oropharyngeal airway": "TEST"
+  }
+]

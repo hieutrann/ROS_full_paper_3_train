@@ -1,0 +1,458 @@
+[
+  {
+    "Chest Pain": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "60-year-old female": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "Murphy": "PROBLEM"
+  },
+  {
+    "treadmill": "TEST"
+  },
+  {
+    "echocardiogram": "TEST"
+  },
+  {
+    "cardiovascular disease": "PROBLEM"
+  },
+  {
+    "pressure": "PROBLEM"
+  },
+  {
+    "chest": "PROBLEM"
+  },
+  {
+    "gets up": "PROBLEM"
+  },
+  {
+    "gone": "PROBLEM"
+  },
+  {
+    "fast heartbeats": "PROBLEM"
+  },
+  {
+    "irregular heartbeats": "PROBLEM"
+  },
+  {
+    "2": "TEST"
+  },
+  {
+    "stomach pains": "PROBLEM"
+  },
+  {
+    "epigastric area": "PROBLEM"
+  },
+  {
+    "3": "PROBLEM"
+  },
+  {
+    "reflux": "PROBLEM"
+  },
+  {
+    "Aciphex": "DRUG"
+  },
+  {
+    "Aciphex": "DRUG"
+  },
+  {
+    "reflux": "PROBLEM"
+  },
+  {
+    "belching": "PROBLEM"
+  },
+  {
+    "burping": "PROBLEM"
+  },
+  {
+    "heartburn": "PROBLEM"
+  },
+  {
+    "4": "TEST"
+  },
+  {
+    "right flank pain": "PROBLEM"
+  },
+  {
+    "off and on": "PROBLEM"
+  },
+  {
+    "achy pain": "PROBLEM"
+  },
+  {
+    "5": "TEST"
+  },
+  {
+    "spots": "PROBLEM"
+  },
+  {
+    "painful": "PROBLEM"
+  },
+  {
+    "6": "PROBLEM"
+  },
+  {
+    "spots": "PROBLEM"
+  },
+  {
+    "itchy": "PROBLEM"
+  },
+  {
+    "7": "PROBLEM"
+  },
+  {
+    "urgency of urine": "PROBLEM"
+  },
+  {
+    "urine": "PROBLEM"
+  },
+  {
+    "pad": "PROBLEM"
+  },
+  {
+    "8": "TEST"
+  },
+  {
+    "colonoscopy": "TEST"
+  },
+  {
+    "leukopenia": "PROBLEM"
+  },
+  {
+    "hepatitis titer": "TEST"
+  },
+  {
+    "9": "PROBLEM"
+  },
+  {
+    "pain": "PROBLEM"
+  },
+  {
+    "thumbs": "PROBLEM"
+  },
+  {
+    "fine motor skills": "PROBLEM"
+  },
+  {
+    "swelling": "PROBLEM"
+  },
+  {
+    "redness": "PROBLEM"
+  },
+  {
+    "trauma": "PROBLEM"
+  },
+  {
+    "eye doctor": "TEST"
+  },
+  {
+    "hearing loss": "PROBLEM"
+  },
+  {
+    "swallowing": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "chronic cough": "PROBLEM"
+  },
+  {
+    "bowel movements": "PROBLEM"
+  },
+  {
+    "black or bloody stools": "PROBLEM"
+  },
+  {
+    "diarrhea": "PROBLEM"
+  },
+  {
+    "constipation": "PROBLEM"
+  },
+  {
+    "blood in her urine": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "numbness": "PROBLEM"
+  },
+  {
+    "tingling": "PROBLEM"
+  },
+  {
+    "nursing home": "PROBLEM"
+  },
+  {
+    "nonsmoker": "PROBLEM"
+  },
+  {
+    "weight": "PROBLEM"
+  },
+  {
+    "diet": "TREATMENT"
+  },
+  {
+    "smoking": "PROBLEM"
+  },
+  {
+    "type I diabetes": "PROBLEM"
+  },
+  {
+    "heart disease": "PROBLEM"
+  },
+  {
+    "heart attack": "PROBLEM"
+  },
+  {
+    "smoker": "PROBLEM"
+  },
+  {
+    "leukopenia": "PROBLEM"
+  },
+  {
+    "irritable bowel syndrome": "PROBLEM"
+  },
+  {
+    "Aciphex": "DRUG"
+  },
+  {
+    "aspirin": "DRUG"
+  },
+  {
+    "No known medical allergies": "PROBLEM"
+  },
+  {
+    "Weight": "TEST"
+  },
+  {
+    "Blood pressure": "TEST"
+  },
+  {
+    "Pulse": "TEST"
+  },
+  {
+    "adult": "PROBLEM"
+  },
+  {
+    "pupils": "TEST"
+  },
+  {
+    "Conjunctivae": "PROBLEM"
+  },
+  {
+    "TMs": "TEST"
+  },
+  {
+    "Oropharynx": "PROBLEM"
+  },
+  {
+    "Dentition": "PROBLEM"
+  },
+  {
+    "lymphadenopathy": "PROBLEM"
+  },
+  {
+    "thyromegaly": "PROBLEM"
+  },
+  {
+    "Lungs": "PROBLEM"
+  },
+  {
+    "Heart": "PROBLEM"
+  },
+  {
+    "Radial pulses": "TEST"
+  },
+  {
+    "Abdomen": "PROBLEM"
+  },
+  {
+    "thumbs": "PROBLEM"
+  },
+  {
+    "PIP joint": "PROBLEM"
+  },
+  {
+    "DIP joint": "PROBLEM"
+  },
+  {
+    "armpits": "TEST"
+  },
+  {
+    "tinea versicolor rash": "PROBLEM"
+  },
+  {
+    "lesion": "PROBLEM"
+  },
+  {
+    "diffuse borders": "PROBLEM"
+  },
+  {
+    "red": "PROBLEM"
+  },
+  {
+    "brown spots": "PROBLEM"
+  },
+  {
+    "cyanosis": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "Pulses": "TEST"
+  },
+  {
+    "radial pulses": "TEST"
+  },
+  {
+    "posterior tibial pulses": "TEST"
+  },
+  {
+    "gait": "TEST"
+  },
+  {
+    "affect": "PROBLEM"
+  },
+  {
+    "Neurological": "PROBLEM"
+  },
+  {
+    "speech": "PROBLEM"
+  },
+  {
+    "coordination": "PROBLEM"
+  },
+  {
+    "Chest pain": "PROBLEM"
+  },
+  {
+    "Murphys evaluation": "TEST"
+  },
+  {
+    "symptoms": "PROBLEM"
+  },
+  {
+    "reflux": "PROBLEM"
+  },
+  {
+    "Aciphex": "DRUG"
+  },
+  {
+    "EGD": "TEST"
+  },
+  {
+    "symptoms": "PROBLEM"
+  },
+  {
+    "2": "TEST"
+  },
+  {
+    "Stomach pain": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "3": "PROBLEM"
+  },
+  {
+    "Suspicious lesions": "PROBLEM"
+  },
+  {
+    "punch biopsy": "TREATMENT"
+  },
+  {
+    "4": "TEST"
+  },
+  {
+    "Tinea versicolor": "PROBLEM"
+  },
+  {
+    "axillary": "PROBLEM"
+  },
+  {
+    "selenium sulfide lotion": "DRUG"
+  },
+  {
+    "5": "TEST"
+  },
+  {
+    "Cystocele": "PROBLEM"
+  },
+  {
+    "Dr.": "TREATMENT"
+  },
+  {
+    "urinary incontinence": "PROBLEM"
+  },
+  {
+    "6": "PROBLEM"
+  },
+  {
+    "leukopenia": "PROBLEM"
+  },
+  {
+    "CBC": "TEST"
+  },
+  {
+    "7": "PROBLEM"
+  },
+  {
+    "Pain in the thumbs": "PROBLEM"
+  },
+  {
+    "arthritic": "PROBLEM"
+  },
+  {
+    "8": "TEST"
+  },
+  {
+    "Screening": "TEST"
+  },
+  {
+    "Dr.": "TREATMENT"
+  },
+  {
+    "colon cancer": "PROBLEM"
+  },
+  {
+    "9": "PROBLEM"
+  },
+  {
+    "Gastroesophageal reflux disease": "PROBLEM"
+  },
+  {
+    "Aciphex": "DRUG"
+  },
+  {
+    "cystocele": "PROBLEM"
+  },
+  {
+    "gastroesophageal reflux disease": "PROBLEM"
+  },
+  {
+    "stomach pain": "PROBLEM"
+  },
+  {
+    "tinea versicolor": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "leukopenia": "PROBLEM"
+  },
+  {
+    "aciphex": "DRUG"
+  }
+]

@@ -1,0 +1,299 @@
+[
+  {
+    "blood-borne pathogen exposure": "PROBLEM"
+  },
+  {
+    "Blood-borne pathogen exposure": "PROBLEM"
+  },
+  {
+    "blood gas": "TEST"
+  },
+  {
+    "needle": "TREATMENT"
+  },
+  {
+    "protective clothing": "TREATMENT"
+  },
+  {
+    "gloves": "TREATMENT"
+  },
+  {
+    "baseline studies": "TEST"
+  },
+  {
+    "injury": "PROBLEM"
+  },
+  {
+    "HIV": "PROBLEM"
+  },
+  {
+    "hepatitis C": "PROBLEM"
+  },
+  {
+    "screening": "TEST"
+  },
+  {
+    "blood tests": "TEST"
+  },
+  {
+    "exam": "TEST"
+  },
+  {
+    "viral illness": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "low appetite": "PROBLEM"
+  },
+  {
+    "fevers": "PROBLEM"
+  },
+  {
+    "chills": "PROBLEM"
+  },
+  {
+    "malaise": "PROBLEM"
+  },
+  {
+    "headache": "PROBLEM"
+  },
+  {
+    "congestion": "PROBLEM"
+  },
+  {
+    "cold": "PROBLEM"
+  },
+  {
+    "coughing": "PROBLEM"
+  },
+  {
+    "sore throat": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "troubled breathing": "PROBLEM"
+  },
+  {
+    "abdominal symptoms": "PROBLEM"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "urinary symptoms": "PROBLEM"
+  },
+  {
+    "darkening of the skin": "PROBLEM"
+  },
+  {
+    "darkening of the skin or eyes": "PROBLEM"
+  },
+  {
+    "yellowing or darkening of the urine": "PROBLEM"
+  },
+  {
+    "rash": "PROBLEM"
+  },
+  {
+    "local infection": "PROBLEM"
+  },
+  {
+    "fingerstick": "TEST"
+  },
+  {
+    "degenerative disc disease": "PROBLEM"
+  },
+  {
+    "Nexium": "DRUG"
+  },
+  {
+    "IV contrast": "DRUG"
+  },
+  {
+    "PHYSICAL EXAMINATION": "TEST"
+  },
+  {
+    "ill": "PROBLEM"
+  },
+  {
+    "toxic": "PROBLEM"
+  },
+  {
+    "temperature": "TEST"
+  },
+  {
+    "pulse": "TEST"
+  },
+  {
+    "respirations": "TEST"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "HEENT exam": "TEST"
+  },
+  {
+    "Ocular movements": "TEST"
+  },
+  {
+    "pharyngeal erythema": "PROBLEM"
+  },
+  {
+    "tonsillar enlargement": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "adenopathy": "PROBLEM"
+  },
+  {
+    "wheeze": "PROBLEM"
+  },
+  {
+    "rales": "PROBLEM"
+  },
+  {
+    "murmur": "PROBLEM"
+  },
+  {
+    "gallop": "PROBLEM"
+  },
+  {
+    "enlargement of the liver": "PROBLEM"
+  },
+  {
+    "spleen": "PROBLEM"
+  },
+  {
+    "rash": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "ataxia": "PROBLEM"
+  },
+  {
+    "contaminated needlestick": "PROBLEM"
+  },
+  {
+    "HIV": "PROBLEM"
+  },
+  {
+    "hepatitis C": "PROBLEM"
+  },
+  {
+    "blood testing": "TEST"
+  },
+  {
+    "hepatitis B": "PROBLEM"
+  },
+  {
+    "3 shot series": "TREATMENT"
+  },
+  {
+    "titers": "TEST"
+  },
+  {
+    "tetanus": "DRUG"
+  },
+  {
+    "intestinal illness": "PROBLEM"
+  },
+  {
+    "squeakiness": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "acute hepatitis": "PROBLEM"
+  },
+  {
+    "abdominal exam": "TEST"
+  },
+  {
+    "generalized lymphadenopathy": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "Blood tests": "TEST"
+  },
+  {
+    "liver function test": "TEST"
+  },
+  {
+    "hepatitis C": "PROBLEM"
+  },
+  {
+    "HIV": "PROBLEM"
+  },
+  {
+    "infection": "PROBLEM"
+  },
+  {
+    "acute intestinal illness": "PROBLEM"
+  },
+  {
+    "Blood-borne pathogen exposure": "PROBLEM"
+  },
+  {
+    "contaminated needlestick": "PROBLEM"
+  },
+  {
+    "injury": "PROBLEM"
+  },
+  {
+    "lab studies": "TEST"
+  },
+  {
+    "disease transmission": "PROBLEM"
+  },
+  {
+    "protective gear": "TREATMENT"
+  },
+  {
+    "gloves": "TREATMENT"
+  },
+  {
+    "disease transmission": "PROBLEM"
+  },
+  {
+    "injury": "PROBLEM"
+  },
+  {
+    "impairment": "PROBLEM"
+  },
+  {
+    "pathogen exposure": "PROBLEM"
+  },
+  {
+    "blood gas": "TEST"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "needlestick": "PROBLEM"
+  },
+  {
+    "viral illness": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "hepatitis": "PROBLEM"
+  }
+]

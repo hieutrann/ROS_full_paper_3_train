@@ -1,0 +1,185 @@
+[
+  {
+    "Laparoscopic cholecystectomy": "TREATMENT"
+  },
+  {
+    "Acute cholecystitis": "PROBLEM"
+  },
+  {
+    "laparoscopic cholecystectomy": "TREATMENT"
+  },
+  {
+    "end-stage renal disease": "PROBLEM"
+  },
+  {
+    "hemodialysis": "TREATMENT"
+  },
+  {
+    "hyperlipidemia": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "congestive heart failure": "PROBLEM"
+  },
+  {
+    "skin lymphoma": "PROBLEM"
+  },
+  {
+    "hypothyroidism": "PROBLEM"
+  },
+  {
+    "left AV fistula": "TREATMENT"
+  },
+  {
+    "epigastric pain": "PROBLEM"
+  },
+  {
+    "right upper quadrant pain": "PROBLEM"
+  },
+  {
+    "mid abdominal pain": "PROBLEM"
+  },
+  {
+    "nauseated feeling": "PROBLEM"
+  },
+  {
+    "vital signs": "TEST"
+  },
+  {
+    "temperature": "TEST"
+  },
+  {
+    "pulse": "TEST"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "EKG": "TEST"
+  },
+  {
+    "ultrasound": "TEST"
+  },
+  {
+    "renal cyst": "PROBLEM"
+  },
+  {
+    "gallbladder wall": "PROBLEM"
+  },
+  {
+    "Murphy sign": "PROBLEM"
+  },
+  {
+    "cholecystitis": "PROBLEM"
+  },
+  {
+    "urine": "TEST"
+  },
+  {
+    "glucose": "TEST"
+  },
+  {
+    "nitrite": "TEST"
+  },
+  {
+    "creatinine": "TEST"
+  },
+  {
+    "sodium": "TEST"
+  },
+  {
+    "potassium": "TEST"
+  },
+  {
+    "lipase": "TEST"
+  },
+  {
+    "amylase": "TEST"
+  },
+  {
+    "IV fluid": "TREATMENT"
+  },
+  {
+    "IV antibiotic": "DRUG"
+  },
+  {
+    "2-D echocardiogram": "TEST"
+  },
+  {
+    "EKG": "TEST"
+  },
+  {
+    "CHF": "PROBLEM"
+  },
+  {
+    "blood culture": "TEST"
+  },
+  {
+    "urine culture": "TEST"
+  },
+  {
+    "cholecystectomy": "TREATMENT"
+  },
+  {
+    "dialysis": "TREATMENT"
+  },
+  {
+    "white count": "TEST"
+  },
+  {
+    "afebrile": "PROBLEM"
+  },
+  {
+    "chronic bronchitis": "PROBLEM"
+  },
+  {
+    "nebulizer therapy": "TREATMENT"
+  },
+  {
+    "Synthroid": "DRUG"
+  },
+  {
+    "Plavix": "DRUG"
+  },
+  {
+    "folic acid": "DRUG"
+  },
+  {
+    "Diovan": "DRUG"
+  },
+  {
+    "Renagel": "DRUG"
+  },
+  {
+    "Lasix": "DRUG"
+  },
+  {
+    "lovastatin": "DRUG"
+  },
+  {
+    "Coreg": "DRUG"
+  },
+  {
+    "Phenergan": "DRUG"
+  },
+  {
+    "Pepcid": "DRUG"
+  },
+  {
+    "Vicodin": "DRUG"
+  },
+  {
+    "Levaquin": "DRUG"
+  },
+  {
+    "Premarin": "DRUG"
+  },
+  {
+    "heart disease": "PROBLEM"
+  },
+  {
+    "stroke": "PROBLEM"
+  }
+]

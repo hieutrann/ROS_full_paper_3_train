@@ -1,0 +1,104 @@
+[
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "chest tightness": "PROBLEM"
+  },
+  {
+    "psychological disorders": "PROBLEM"
+  },
+  {
+    "supraventricular tachycardia": "PROBLEM"
+  },
+  {
+    "coronary artery disease": "PROBLEM"
+  },
+  {
+    "headaches": "PROBLEM"
+  },
+  {
+    "migraine headaches": "PROBLEM"
+  },
+  {
+    "methadone": "DRUG"
+  },
+  {
+    "morphine": "DRUG"
+  },
+  {
+    "nitroglycerin": "DRUG"
+  },
+  {
+    "Dilantin": "DRUG"
+  },
+  {
+    "Klonopin": "DRUG"
+  },
+  {
+    "Elavil": "DRUG"
+  },
+  {
+    "Thorazine": "DRUG"
+  },
+  {
+    "Neurontin": "DRUG"
+  },
+  {
+    "Phenergan": "DRUG"
+  },
+  {
+    "cardiac enzymes": "TEST"
+  },
+  {
+    "EKG": "TEST"
+  },
+  {
+    "head CT": "TEST"
+  },
+  {
+    "toxicology screen": "TEST"
+  },
+  {
+    "beta-hCG level": "TEST"
+  },
+  {
+    "chest pains": "TREATMENT"
+  },
+  {
+    "psychosomatic component": "TREATMENT"
+  },
+  {
+    "cardiac ablation": "TREATMENT"
+  },
+  {
+    "coronary stenting": "TREATMENT"
+  },
+  {
+    "mitral valve prolapse": "TREATMENT"
+  },
+  {
+    "pacemaker placement": "TREATMENT"
+  },
+  {
+    "colon cancer": "TREATMENT"
+  },
+  {
+    "breast cancer": "TREATMENT"
+  },
+  {
+    "lumpectomy": "TREATMENT"
+  },
+  {
+    "breast augmentation surgery": "TREATMENT"
+  },
+  {
+    "cholecystectomy": "TREATMENT"
+  },
+  {
+    "left knee surgery": "TREATMENT"
+  },
+  {
+    "removal of half the pancreas": "TREATMENT"
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "decrease in mental alertness": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "renal insufficiency": "PROBLEM"
+  },
+  {
+    "diabetic nephropathy": "PROBLEM"
+  },
+  {
+    "dehydration": "PROBLEM"
+  },
+  {
+    "hypoglycemia": "PROBLEM"
+  },
+  {
+    "labetalol": "DRUG"
+  },
+  {
+    "Norvasc": "DRUG"
+  },
+  {
+    "glucose supplement": "DRUG"
+  },
+  {
+    "aspirin": "DRUG"
+  },
+  {
+    "diabetic medication": "DRUG"
+  },
+  {
+    "blood pressure medication": "DRUG"
+  },
+  {
+    "IV fluid": "TREATMENT"
+  },
+  {
+    "glucometer checks": "TREATMENT"
+  },
+  {
+    "adjust the blood pressure medication": "TREATMENT"
+  },
+  {
+    "adjust the blood pressure medication and also diabetic medication": "TREATMENT"
+  },
+  {
+    "CPK": "TEST"
+  },
+  {
+    "troponin": "TEST"
+  },
+  {
+    "CMP": "TEST"
+  },
+  {
+    "BMP": "TEST"
+  },
+  {
+    "Urinalysis": "TEST"
+  },
+  {
+    "CT of the brain": "TEST"
+  },
+  {
+    "Chest x-ray": "TEST"
+  }
+]

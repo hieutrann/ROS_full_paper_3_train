@@ -1,0 +1,56 @@
+[
+  {
+    "apnea": "PROBLEM"
+  },
+  {
+    "pertussis": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "emesis": "PROBLEM"
+  },
+  {
+    "upper respiratory illness": "PROBLEM"
+  },
+  {
+    "respiratory illness": "PROBLEM"
+  },
+  {
+    "Zithromax": "DRUG"
+  },
+  {
+    "amoxicillin": "DRUG"
+  },
+  {
+    "Rocephin": "DRUG"
+  },
+  {
+    "CBC": "TEST"
+  },
+  {
+    "x-ray": "TEST"
+  },
+  {
+    "rapid influenza swab": "TEST"
+  },
+  {
+    "rapid RSV": "TEST"
+  },
+  {
+    "pertussis PCR swab": "TEST"
+  },
+  {
+    "pertussis culture": "TEST"
+  },
+  {
+    "done and a pertussis": "TREATMENT"
+  },
+  {
+    "discharge": "TREATMENT"
+  },
+  {
+    "Zithromax": "TREATMENT"
+  }
+]

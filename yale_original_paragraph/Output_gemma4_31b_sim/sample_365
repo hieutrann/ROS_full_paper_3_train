@@ -1,0 +1,353 @@
+[
+  {
+    "numbness": "PROBLEM"
+  },
+  {
+    "tingling": "PROBLEM"
+  },
+  {
+    "pain in the toes": "PROBLEM"
+  },
+  {
+    "numbness": "PROBLEM"
+  },
+  {
+    "tingling": "PROBLEM"
+  },
+  {
+    "pain in the toes": "PROBLEM"
+  },
+  {
+    "moderate pain": "PROBLEM"
+  },
+  {
+    "sharp quality pain": "PROBLEM"
+  },
+  {
+    "paraesthesias": "PROBLEM"
+  },
+  {
+    "radiation of the pain": "PROBLEM"
+  },
+  {
+    "bilateral shoulder pains": "PROBLEM"
+  },
+  {
+    "sinus allergies": "PROBLEM"
+  },
+  {
+    "hypothyroidism": "PROBLEM"
+  },
+  {
+    "thrombocythemia": "PROBLEM"
+  },
+  {
+    "insomnia": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "appendectomy": "TREATMENT"
+  },
+  {
+    "bladder obstruction surgery": "TREATMENT"
+  },
+  {
+    "gallbladder surgery": "TREATMENT"
+  },
+  {
+    "gallbladder surgery": "TREATMENT"
+  },
+  {
+    "C-section": "TREATMENT"
+  },
+  {
+    "varicose vein surgery": "TREATMENT"
+  },
+  {
+    "varicose vein surgery": "TREATMENT"
+  },
+  {
+    "thyroid gland surgery": "TREATMENT"
+  },
+  {
+    "hernia surgery": "TREATMENT"
+  },
+  {
+    "bilateral mastectomies": "TREATMENT"
+  },
+  {
+    "benign disease": "PROBLEM"
+  },
+  {
+    "hysterectomy": "TREATMENT"
+  },
+  {
+    "right shoulder surgery": "TREATMENT"
+  },
+  {
+    "left shoulder surgery": "TREATMENT"
+  },
+  {
+    "laparoscopic bowel adhesion removal": "TREATMENT"
+  },
+  {
+    "Port-A-Cath": "TREATMENT"
+  },
+  {
+    "left total knee arthroplasty": "TREATMENT"
+  },
+  {
+    "left hip pinning": "TREATMENT"
+  },
+  {
+    "fracture": "PROBLEM"
+  },
+  {
+    "colonoscopies": "TEST"
+  },
+  {
+    "right total knee arthroplasty": "TREATMENT"
+  },
+  {
+    "synovitis of the left knee": "PROBLEM"
+  },
+  {
+    "zoster": "PROBLEM"
+  },
+  {
+    "infection of the left knee": "PROBLEM"
+  },
+  {
+    "labyrinthitis": "PROBLEM"
+  },
+  {
+    "Sulfa": "DRUG"
+  },
+  {
+    "aspirin": "DRUG"
+  },
+  {
+    "Darvon": "DRUG"
+  },
+  {
+    "codeine": "DRUG"
+  },
+  {
+    "NSAID": "DRUG"
+  },
+  {
+    "amoxicillin": "DRUG"
+  },
+  {
+    "quinine": "DRUG"
+  },
+  {
+    "Hydroxyurea": "DRUG"
+  },
+  {
+    "Metamucil": "DRUG"
+  },
+  {
+    "amitriptyline": "DRUG"
+  },
+  {
+    "Synthroid": "DRUG"
+  },
+  {
+    "Ambien": "DRUG"
+  },
+  {
+    "triamterene/hydrochlorothiazide": "DRUG"
+  },
+  {
+    "Lortab": "DRUG"
+  },
+  {
+    "allergies": "PROBLEM"
+  },
+  {
+    "sneezing": "PROBLEM"
+  },
+  {
+    "sore throat": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "palpitations": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "blood in the stool": "PROBLEM"
+  },
+  {
+    "dysuria": "PROBLEM"
+  },
+  {
+    "frequency": "PROBLEM"
+  },
+  {
+    "paresthesias": "PROBLEM"
+  },
+  {
+    "shoulder pain": "PROBLEM"
+  },
+  {
+    "insomnia": "PROBLEM"
+  },
+  {
+    "spot on her right cheek": "PROBLEM"
+  },
+  {
+    "precancerous condition": "PROBLEM"
+  },
+  {
+    "hypothyroidism": "PROBLEM"
+  },
+  {
+    "essential thrombocythemia": "PROBLEM"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "Temperature": "TEST"
+  },
+  {
+    "Blood pressure": "TEST"
+  },
+  {
+    "Pulse": "TEST"
+  },
+  {
+    "Weight": "TEST"
+  },
+  {
+    "adenopathy": "PROBLEM"
+  },
+  {
+    "thyromegaly": "PROBLEM"
+  },
+  {
+    "murmur": "PROBLEM"
+  },
+  {
+    "click": "PROBLEM"
+  },
+  {
+    "rub": "PROBLEM"
+  },
+  {
+    "carotid bruits": "PROBLEM"
+  },
+  {
+    "hepatosplenomegaly": "PROBLEM"
+  },
+  {
+    "mass": "PROBLEM"
+  },
+  {
+    "axillary adenopathy": "PROBLEM"
+  },
+  {
+    "ankle edema": "PROBLEM"
+  },
+  {
+    "calf tenderness": "PROBLEM"
+  },
+  {
+    "cyst on the anterior portion of the right ankle": "PROBLEM"
+  },
+  {
+    "Deep tendon reflexes": "TEST"
+  },
+  {
+    "focal neurologic deficits": "PROBLEM"
+  },
+  {
+    "atrophic": "PROBLEM"
+  },
+  {
+    "actinic keratosis": "PROBLEM"
+  },
+  {
+    "Peripheral neuropathy": "PROBLEM"
+  },
+  {
+    "Hypertension": "PROBLEM"
+  },
+  {
+    "Hypothyroidism": "PROBLEM"
+  },
+  {
+    "Essential thrombocythemia": "PROBLEM"
+  },
+  {
+    "Allergic rhinitis": "PROBLEM"
+  },
+  {
+    "Insomnia": "PROBLEM"
+  },
+  {
+    "Neurontin": "DRUG"
+  },
+  {
+    "peripheral neuropathy": "PROBLEM"
+  },
+  {
+    "Anodyne physical therapy": "TREATMENT"
+  },
+  {
+    "peripheral neuropathy": "PROBLEM"
+  },
+  {
+    "essential thrombocythemia": "PROBLEM"
+  },
+  {
+    "CBC": "TEST"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "essential thrombocythemia": "PROBLEM"
+  },
+  {
+    "sed rate": "TEST"
+  },
+  {
+    "peripheral neuropathy": "PROBLEM"
+  },
+  {
+    "ferritin": "TEST"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "Hemoccult cards": "TEST"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "DT immunization": "TREATMENT"
+  },
+  {
+    "Ambien": "DRUG"
+  },
+  {
+    "flu shot": "TREATMENT"
+  }
+]

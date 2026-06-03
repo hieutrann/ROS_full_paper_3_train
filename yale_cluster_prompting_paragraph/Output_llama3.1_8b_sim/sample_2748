@@ -1,0 +1,32 @@
+[
+  {
+    "Jaw Pain": "PROBLEM"
+  },
+  {
+    "toothache": "PROBLEM"
+  },
+  {
+    "dental fracture": "PROBLEM"
+  },
+  {
+    "Elevated Blood Pressure": "PROBLEM"
+  },
+  {
+    "Vital Signs": "TEST"
+  },
+  {
+    "Motrin": "DRUG"
+  },
+  {
+    "Vicodin": "DRUG"
+  },
+  {
+    "pen V": "DRUG"
+  },
+  {
+    "Dental Appointment": "TREATMENT"
+  },
+  {
+    "SURGICAL": "TREATMENT"
+  }
+]

@@ -1,0 +1,284 @@
+[
+  {
+    "Jaw pain": "PROBLEM"
+  },
+  {
+    "toothache": "PROBLEM"
+  },
+  {
+    "jaw": "PROBLEM"
+  },
+  {
+    "left ear": "PROBLEM"
+  },
+  {
+    "Ellis type II dental fracture": "PROBLEM"
+  },
+  {
+    "facial swelling": "PROBLEM"
+  },
+  {
+    "headache": "PROBLEM"
+  },
+  {
+    "swelling": "PROBLEM"
+  },
+  {
+    "sore throat": "PROBLEM"
+  },
+  {
+    "difficulty swallowing": "PROBLEM"
+  },
+  {
+    "neck pain": "PROBLEM"
+  },
+  {
+    "lymph node swelling": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "chills": "PROBLEM"
+  },
+  {
+    "fatigue": "PROBLEM"
+  },
+  {
+    "weakness": "PROBLEM"
+  },
+  {
+    "eye pain": "PROBLEM"
+  },
+  {
+    "vision change": "PROBLEM"
+  },
+  {
+    "rhinorrhea": "PROBLEM"
+  },
+  {
+    "sinus congestion": "PROBLEM"
+  },
+  {
+    "sinus congestion pressure": "PROBLEM"
+  },
+  {
+    "sinus": "PROBLEM"
+  },
+  {
+    "ear pain": "PROBLEM"
+  },
+  {
+    "hearing change": "PROBLEM"
+  },
+  {
+    "pressure": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "back pain": "PROBLEM"
+  },
+  {
+    "rashes": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "vision": "PROBLEM"
+  },
+  {
+    "hearing": "PROBLEM"
+  },
+  {
+    "speech change": "PROBLEM"
+  },
+  {
+    "lymph node": "PROBLEM"
+  },
+  {
+    "VITAL SIGNS": "TEST"
+  },
+  {
+    "Temperature": "TEST"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "pulse": "TEST"
+  },
+  {
+    "respirations": "TEST"
+  },
+  {
+    "oxygen saturation": "TEST"
+  },
+  {
+    "dental fracture": "PROBLEM"
+  },
+  {
+    "dental caries": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "swelling": "PROBLEM"
+  },
+  {
+    "infection": "PROBLEM"
+  },
+  {
+    "abscess": "PROBLEM"
+  },
+  {
+    "tenderness": "PROBLEM"
+  },
+  {
+    "oropharynx": "PROBLEM"
+  },
+  {
+    "exudate": "PROBLEM"
+  },
+  {
+    "lesion": "PROBLEM"
+  },
+  {
+    "mucous membranes": "PROBLEM"
+  },
+  {
+    "floor of the mouth": "PROBLEM"
+  },
+  {
+    "pre or post auricular lymphadenopathy": "PROBLEM"
+  },
+  {
+    "post auricular lymphadenopathy": "PROBLEM"
+  },
+  {
+    "meningismus": "PROBLEM"
+  },
+  {
+    "cervical lymphadenopathy": "PROBLEM"
+  },
+  {
+    "JVD": "PROBLEM"
+  },
+  {
+    "carotid artery": "PROBLEM"
+  },
+  {
+    "vertebral artery": "PROBLEM"
+  },
+  {
+    "bruits": "PROBLEM"
+  },
+  {
+    "heart": "PROBLEM"
+  },
+  {
+    "murmur": "PROBLEM"
+  },
+  {
+    "rub": "PROBLEM"
+  },
+  {
+    "gallop": "PROBLEM"
+  },
+  {
+    "abdomen": "PROBLEM"
+  },
+  {
+    "back": "PROBLEM"
+  },
+  {
+    "arms": "PROBLEM"
+  },
+  {
+    "legs": "PROBLEM"
+  },
+  {
+    "extremities": "PROBLEM"
+  },
+  {
+    "cranial nerves": "TEST"
+  },
+  {
+    "speech": "PROBLEM"
+  },
+  {
+    "ambulation": "PROBLEM"
+  },
+  {
+    "mood": "PROBLEM"
+  },
+  {
+    "affect": "PROBLEM"
+  },
+  {
+    "clinical intoxification": "PROBLEM"
+  },
+  {
+    "lymphadenitis": "PROBLEM"
+  },
+  {
+    "ACUTE LEFT JAW PAIN": "PROBLEM"
+  },
+  {
+    "#18 DENTAL FRACTURE": "PROBLEM"
+  },
+  {
+    "ELEVATED BLOOD PRESSURE": "PROBLEM"
+  },
+  {
+    "Motrin": "DRUG"
+  },
+  {
+    "Vicodin": "DRUG"
+  },
+  {
+    "pen V": "DRUG"
+  },
+  {
+    "drowsiness": "PROBLEM"
+  },
+  {
+    "driving": "PROBLEM"
+  },
+  {
+    "discharge instructions": "TREATMENT"
+  },
+  {
+    "toothache": "PROBLEM"
+  },
+  {
+    "condition": "PROBLEM"
+  },
+  {
+    "worsening": "PROBLEM"
+  },
+  {
+    "other problems": "PROBLEM"
+  },
+  {
+    "symptoms": "PROBLEM"
+  },
+  {
+    "concern": "PROBLEM"
+  }
+]

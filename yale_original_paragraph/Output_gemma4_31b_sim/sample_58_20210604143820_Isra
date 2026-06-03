@@ -1,0 +1,188 @@
+[
+  {
+    "Suspicious calcifications": "PROBLEM"
+  },
+  {
+    "excisional biopsy": "TREATMENT"
+  },
+  {
+    "preoperative guidewire localization": "TREATMENT"
+  },
+  {
+    "intraoperative specimen radiography": "TEST"
+  },
+  {
+    "screening mammography": "TEST"
+  },
+  {
+    "punctate calcifications": "PROBLEM"
+  },
+  {
+    "imaging studies": "TEST"
+  },
+  {
+    "stereotactic core needle biopsy": "TREATMENT"
+  },
+  {
+    "focal fibrosis": "PROBLEM"
+  },
+  {
+    "radiograph": "TEST"
+  },
+  {
+    "swelling": "PROBLEM"
+  },
+  {
+    "pain": "PROBLEM"
+  },
+  {
+    "mass": "PROBLEM"
+  },
+  {
+    "sonographic evaluation": "TEST"
+  },
+  {
+    "false aneurysm formation": "PROBLEM"
+  },
+  {
+    "false aneurysm": "PROBLEM"
+  },
+  {
+    "thrombin material": "DRUG"
+  },
+  {
+    "hematoma": "PROBLEM"
+  },
+  {
+    "ecchymosis": "PROBLEM"
+  },
+  {
+    "breast cancer": "PROBLEM"
+  },
+  {
+    "hormone replacement therapy": "TREATMENT"
+  },
+  {
+    "ovarian cancer": "PROBLEM"
+  },
+  {
+    "asthma": "PROBLEM"
+  },
+  {
+    "pneumonia": "PROBLEM"
+  },
+  {
+    "Colon resection": "TREATMENT"
+  },
+  {
+    "sinus surgeries": "TREATMENT"
+  },
+  {
+    "Plavix": "DRUG"
+  },
+  {
+    "Arava": "DRUG"
+  },
+  {
+    "Nexium": "DRUG"
+  },
+  {
+    "Fosamax": "DRUG"
+  },
+  {
+    "Advair": "DRUG"
+  },
+  {
+    "Singulair": "DRUG"
+  },
+  {
+    "Spiriva": "DRUG"
+  },
+  {
+    "Lexapro": "DRUG"
+  },
+  {
+    "ASPIRIN": "DRUG"
+  },
+  {
+    "PENICILLIN": "DRUG"
+  },
+  {
+    "IODINE": "DRUG"
+  },
+  {
+    "CODEINE": "DRUG"
+  },
+  {
+    "heart disease": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "cerebrovascular accidents": "PROBLEM"
+  },
+  {
+    "colon cancer": "PROBLEM"
+  },
+  {
+    "chronic obstructive lung disease": "PROBLEM"
+  },
+  {
+    "gastroesophageal reflux disease": "PROBLEM"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "sciatica": "PROBLEM"
+  },
+  {
+    "arthritis": "PROBLEM"
+  },
+  {
+    "skin cancers": "PROBLEM"
+  },
+  {
+    "local excision": "TREATMENT"
+  },
+  {
+    "adenopathy": "PROBLEM"
+  },
+  {
+    "wheezes": "PROBLEM"
+  },
+  {
+    "lymphadenopathy": "PROBLEM"
+  },
+  {
+    "Obese": "PROBLEM"
+  },
+  {
+    "CVA tenderness": "PROBLEM"
+  },
+  {
+    "clubbing": "PROBLEM"
+  },
+  {
+    "cyanosis": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "clustered calcifications": "PROBLEM"
+  },
+  {
+    "transient ischemic attack": "PROBLEM"
+  },
+  {
+    "osteopenia": "PROBLEM"
+  },
+  {
+    "osteoporosis": "PROBLEM"
+  },
+  {
+    "anxiety": "PROBLEM"
+  }
+]

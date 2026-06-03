@@ -1,0 +1,41 @@
+[
+  {
+    "General Medicine": "PROBLEM"
+  },
+  {
+    "respiratory": "PROBLEM"
+  },
+  {
+    "abdomen": "PROBLEM"
+  },
+  {
+    "pulses": "TEST"
+  },
+  {
+    "tenderness": "PROBLEM"
+  },
+  {
+    "strength": "TEST"
+  },
+  {
+    "lymph": "PROBLEM"
+  },
+  {
+    "extremity": "TEST"
+  },
+  {
+    "midline": "TEST"
+  },
+  {
+    "range": "TEST"
+  },
+  {
+    "motion": "TEST"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "symmetrical": "TEST"
+  }
+]

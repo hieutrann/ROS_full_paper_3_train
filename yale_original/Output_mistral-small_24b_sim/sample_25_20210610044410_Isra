@@ -1,0 +1,200 @@
+[
+  {
+    "Blood pressure": "TEST"
+  },
+  {
+    "pulse": "TEST"
+  },
+  {
+    "respirations": "TEST"
+  },
+  {
+    "temperature": "TEST"
+  },
+  {
+    "PERRLA": "TEST"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "papilledema": "PROBLEM"
+  },
+  {
+    "glaucoma": "PROBLEM"
+  },
+  {
+    "cataracts": "PROBLEM"
+  },
+  {
+    "Ears": "PROBLEM"
+  },
+  {
+    "Mouth": "PROBLEM"
+  },
+  {
+    "Tongue": "PROBLEM"
+  },
+  {
+    "Teeth": "PROBLEM"
+  },
+  {
+    "Throat": "PROBLEM"
+  },
+  {
+    "dental work": "TREATMENT"
+  },
+  {
+    "NECK": "TEST"
+  },
+  {
+    "carotid bruit": "TEST"
+  },
+  {
+    "JVD": "TEST"
+  },
+  {
+    "cervical adenopathy": "PROBLEM"
+  },
+  {
+    "stridor": "PROBLEM"
+  },
+  {
+    "Thyroid": "PROBLEM"
+  },
+  {
+    "Lungs": "PROBLEM"
+  },
+  {
+    "HEART": "PROBLEM"
+  },
+  {
+    "murmur": "PROBLEM"
+  },
+  {
+    "heave": "PROBLEM"
+  },
+  {
+    "click": "PROBLEM"
+  },
+  {
+    "lift": "PROBLEM"
+  },
+  {
+    "thrill": "PROBLEM"
+  },
+  {
+    "rub": "PROBLEM"
+  },
+  {
+    "gallop": "PROBLEM"
+  },
+  {
+    "axillary or supraclavicular adenopathy": "PROBLEM"
+  },
+  {
+    "hepatosplenomegaly": "PROBLEM"
+  },
+  {
+    "mass": "PROBLEM"
+  },
+  {
+    "tenderness": "PROBLEM"
+  },
+  {
+    "rebound": "PROBLEM"
+  },
+  {
+    "rigidity": "PROBLEM"
+  },
+  {
+    "guarding": "PROBLEM"
+  },
+  {
+    "aortic impulse": "TEST"
+  },
+  {
+    "intraabdominal bruit": "PROBLEM"
+  },
+  {
+    "penis": "PROBLEM"
+  },
+  {
+    "testes": "PROBLEM"
+  },
+  {
+    "hernia": "PROBLEM"
+  },
+  {
+    "hydrocele": "PROBLEM"
+  },
+  {
+    "RECTAL": "TEST"
+  },
+  {
+    "Hemoccult-negative stool": "TEST"
+  },
+  {
+    "prostate": "PROBLEM"
+  },
+  {
+    "rectal masses": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "cyanosis": "PROBLEM"
+  },
+  {
+    "clubbing": "PROBLEM"
+  },
+  {
+    "deep venous thrombosis": "PROBLEM"
+  },
+  {
+    "spinous process tenderness": "PROBLEM"
+  },
+  {
+    "CVA tenderness": "PROBLEM"
+  },
+  {
+    "straight-leg raising": "TEST"
+  },
+  {
+    "Kernig": "TEST"
+  },
+  {
+    "Brudzinski": "TEST"
+  },
+  {
+    "NEUROLOGIC": "PROBLEM"
+  },
+  {
+    "cranial": "PROBLEM"
+  },
+  {
+    "peripheral": "PROBLEM"
+  },
+  {
+    "nervous": "PROBLEM"
+  },
+  {
+    "strength": "TEST"
+  },
+  {
+    "sensation": "TEST"
+  },
+  {
+    "cerebellar": "TEST"
+  },
+  {
+    "SKIN": "PROBLEM"
+  },
+  {
+    "hemoccult": "TEST"
+  },
+  {
+    "tenderness": "PROBLEM"
+  }
+]

@@ -1,0 +1,176 @@
+[
+  {
+    "Respiratory Distress": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "increased work of breathing": "PROBLEM"
+  },
+  {
+    "Respiratory distress": "PROBLEM"
+  },
+  {
+    "Reactive airways disease": "PROBLEM"
+  },
+  {
+    "Respiratory distress": "PROBLEM"
+  },
+  {
+    "Reactive airways disease": "PROBLEM"
+  },
+  {
+    "Pneumonia": "PROBLEM"
+  },
+  {
+    "asthma": "PROBLEM"
+  },
+  {
+    "reactive airways disease": "PROBLEM"
+  },
+  {
+    "URI symptoms": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "increased work of breathing": "PROBLEM"
+  },
+  {
+    "nebulized treatments": "TREATMENT"
+  },
+  {
+    "continuous nebulized albuterol": "DRUG"
+  },
+  {
+    "respiratory distress": "PROBLEM"
+  },
+  {
+    "corticosteroids": "DRUG"
+  },
+  {
+    "x-ray": "TEST"
+  },
+  {
+    "infiltrate": "PROBLEM"
+  },
+  {
+    "right upper lobe infiltrate": "PROBLEM"
+  },
+  {
+    "atelectasis": "PROBLEM"
+  },
+  {
+    "antibiotics": "DRUG"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "CRP": "TEST"
+  },
+  {
+    "CBC": "TEST"
+  },
+  {
+    "white count": "TEST"
+  },
+  {
+    "bands": "TEST"
+  },
+  {
+    "pneumonia": "PROBLEM"
+  },
+  {
+    "amoxicillin": "DRUG"
+  },
+  {
+    "Zithromax": "DRUG"
+  },
+  {
+    "room air": "TREATMENT"
+  },
+  {
+    "bilateral wheezing": "PROBLEM"
+  },
+  {
+    "tachypnea": "PROBLEM"
+  },
+  {
+    "acute distress": "PROBLEM"
+  },
+  {
+    "Oropharynx": "TEST"
+  },
+  {
+    "lymphadenopathy": "PROBLEM"
+  },
+  {
+    "thyromegaly": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "Bilateral basilar wheezing": "PROBLEM"
+  },
+  {
+    "distress": "PROBLEM"
+  },
+  {
+    "CARDIOVASCULAR": "TEST"
+  },
+  {
+    "murmurs": "PROBLEM"
+  },
+  {
+    "Well perfused peripherally": "PROBLEM"
+  },
+  {
+    "Bowel sounds": "TEST"
+  },
+  {
+    "hepatosplenomegaly": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "Nontender to palpation": "PROBLEM"
+  },
+  {
+    "Xopenex MDI": "DRUG"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "wheeze": "PROBLEM"
+  },
+  {
+    "QVAR 40": "DRUG"
+  },
+  {
+    "Amoxicillin": "DRUG"
+  },
+  {
+    "Zithromax": "DRUG"
+  },
+  {
+    "pneumonia": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "reactive airways disease": "PROBLEM"
+  },
+  {
+    "respiratory distress": "PROBLEM"
+  },
+  {
+    "asthma": "PROBLEM"
+  }
+]

@@ -1,0 +1,278 @@
+[
+  {
+    "General Medicine": "TEST"
+  },
+  {
+    "blood-borne pathogen exposure": "PROBLEM"
+  },
+  {
+    "Blood-borne pathogen exposure": "PROBLEM"
+  },
+  {
+    "phlebotomist": "TREATMENT"
+  },
+  {
+    "blood gas": "TEST"
+  },
+  {
+    "pulse": "TEST"
+  },
+  {
+    "needle": "TEST"
+  },
+  {
+    "jerked": "PROBLEM"
+  },
+  {
+    "arm": "PROBLEM"
+  },
+  {
+    "finger": "PROBLEM"
+  },
+  {
+    "emergency department": "TEST"
+  },
+  {
+    "baseline studies": "TEST"
+  },
+  {
+    "injury": "PROBLEM"
+  },
+  {
+    "HIV": "PROBLEM"
+  },
+  {
+    "hepatitis C": "PROBLEM"
+  },
+  {
+    "blood tests": "TEST"
+  },
+  {
+    "final exam": "TEST"
+  },
+  {
+    "viral illness": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "appetite": "PROBLEM"
+  },
+  {
+    "fevers": "PROBLEM"
+  },
+  {
+    "chills": "PROBLEM"
+  },
+  {
+    "malaise": "PROBLEM"
+  },
+  {
+    "congestion": "PROBLEM"
+  },
+  {
+    "cold": "PROBLEM"
+  },
+  {
+    "sore throat": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "troubled breathing": "PROBLEM"
+  },
+  {
+    "abdominal symptoms": "PROBLEM"
+  },
+  {
+    "yellowing": "PROBLEM"
+  },
+  {
+    "darkening": "PROBLEM"
+  },
+  {
+    "urine": "TEST"
+  },
+  {
+    "rash": "PROBLEM"
+  },
+  {
+    "fingerstick": "TEST"
+  },
+  {
+    "degenerative disc disease": "PROBLEM"
+  },
+  {
+    "Nexium": "DRUG"
+  },
+  {
+    "IV contrast": "DRUG"
+  },
+  {
+    "PHYSICAL EXAMINATION": "TEST"
+  },
+  {
+    "temperature": "TEST"
+  },
+  {
+    "pulse": "TEST"
+  },
+  {
+    "respirations": "TEST"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "HEENT exam": "TEST"
+  },
+  {
+    "pharyngeal erythema": "PROBLEM"
+  },
+  {
+    "tonsillar enlargement": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "wheeze": "PROBLEM"
+  },
+  {
+    "rales": "PROBLEM"
+  },
+  {
+    "Heart tones": "TEST"
+  },
+  {
+    "liver": "PROBLEM"
+  },
+  {
+    "spleen": "PROBLEM"
+  },
+  {
+    "rash": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "gait": "PROBLEM"
+  },
+  {
+    "balance": "PROBLEM"
+  },
+  {
+    "ataxia": "PROBLEM"
+  },
+  {
+    "needlestick": "PROBLEM"
+  },
+  {
+    "evaluation": "TEST"
+  },
+  {
+    "HIV": "PROBLEM"
+  },
+  {
+    "hepatitis C": "PROBLEM"
+  },
+  {
+    "blood testing": "TEST"
+  },
+  {
+    "hepatitis B": "PROBLEM"
+  },
+  {
+    "3 shot series": "TREATMENT"
+  },
+  {
+    "titers": "TEST"
+  },
+  {
+    "immunization": "TREATMENT"
+  },
+  {
+    "tetanus": "DRUG"
+  },
+  {
+    "intestinal illness": "PROBLEM"
+  },
+  {
+    "squeakiness": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "acute hepatitis": "PROBLEM"
+  },
+  {
+    "lymphadenopathy": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "Blood tests": "TEST"
+  },
+  {
+    "liver function test": "TEST"
+  },
+  {
+    "hepatitis C": "PROBLEM"
+  },
+  {
+    "HIV": "PROBLEM"
+  },
+  {
+    "infection": "PROBLEM"
+  },
+  {
+    "acute intestinal illness": "PROBLEM"
+  },
+  {
+    "Blood-borne pathogen exposure": "PROBLEM"
+  },
+  {
+    "needlestick": "PROBLEM"
+  },
+  {
+    "lab studies": "TEST"
+  },
+  {
+    "gloves": "DRUG"
+  },
+  {
+    "work": "PROBLEM"
+  },
+  {
+    "pathogen exposure": "PROBLEM"
+  },
+  {
+    "blood gas": "TEST"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "needlestick": "PROBLEM"
+  },
+  {
+    "viral illness": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "borne pathogen": "PROBLEM"
+  },
+  {
+    "hepatitis": "PROBLEM"
+  }
+]

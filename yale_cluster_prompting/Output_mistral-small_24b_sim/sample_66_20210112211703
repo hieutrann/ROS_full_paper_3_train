@@ -1,0 +1,296 @@
+[
+  {
+    "cellulitis": "PROBLEM"
+  },
+  {
+    "antibiotic therapy": "DRUG"
+  },
+  {
+    "cellulitis": "PROBLEM"
+  },
+  {
+    "antibiotic therapy": "DRUG"
+  },
+  {
+    "morbid obesity": "PROBLEM"
+  },
+  {
+    "chronic lower extremity lymphedema": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "cellulitis": "PROBLEM"
+  },
+  {
+    "Bactrim": "DRUG"
+  },
+  {
+    "ciprofloxacin": "DRUG"
+  },
+  {
+    "lymphedema": "PROBLEM"
+  },
+  {
+    "therapy": "TREATMENT"
+  },
+  {
+    "admission": "TREATMENT"
+  },
+  {
+    "lymphedema management": "TREATMENT"
+  },
+  {
+    "ulcer": "PROBLEM"
+  },
+  {
+    "drainage": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "lymphedema": "PROBLEM"
+  },
+  {
+    "lower extremity cellulitis": "PROBLEM"
+  },
+  {
+    "antibiotic therapy": "DRUG"
+  },
+  {
+    "morbid obesity": "PROBLEM"
+  },
+  {
+    "chronic lymphedema": "PROBLEM"
+  },
+  {
+    "spastic colon": "PROBLEM"
+  },
+  {
+    "knee arthritis": "PROBLEM"
+  },
+  {
+    "recurrent cellulitis": "PROBLEM"
+  },
+  {
+    "hysterectomy": "TREATMENT"
+  },
+  {
+    "cholecystectomy": "TREATMENT"
+  },
+  {
+    "drugs": "DRUG"
+  },
+  {
+    "heart problems": "PROBLEM"
+  },
+  {
+    "alcoholism": "PROBLEM"
+  },
+  {
+    "leukemia": "PROBLEM"
+  },
+  {
+    "leukemia": "PROBLEM"
+  },
+  {
+    "ADHESIVE TAPE ALLERGIES": "PROBLEM"
+  },
+  {
+    "lymphedema": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "diarrhea": "PROBLEM"
+  },
+  {
+    "pain": "PROBLEM"
+  },
+  {
+    "tenderness": "PROBLEM"
+  },
+  {
+    "drainage": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "phlegm production": "PROBLEM"
+  },
+  {
+    "morbidly obese": "PROBLEM"
+  },
+  {
+    "temperature": "TEST"
+  },
+  {
+    "pulse": "TEST"
+  },
+  {
+    "respiratory rate": "TEST"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "heart": "PROBLEM"
+  },
+  {
+    "thick chest wall": "PROBLEM"
+  },
+  {
+    "Morbidly obese": "PROBLEM"
+  },
+  {
+    "cutaneous candidiasis": "PROBLEM"
+  },
+  {
+    "lymphedema": "PROBLEM"
+  },
+  {
+    "stasis dermatosis": "PROBLEM"
+  },
+  {
+    "ulcer": "PROBLEM"
+  },
+  {
+    "serosanguineous drainage": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "Central nervous system": "PROBLEM"
+  },
+  {
+    "White cell count": "TEST"
+  },
+  {
+    "hemoglobin": "TEST"
+  },
+  {
+    "hematocrit": "TEST"
+  },
+  {
+    "platelet count": "TEST"
+  },
+  {
+    "differential": "TEST"
+  },
+  {
+    "The basic electrolyte panel": "TEST"
+  },
+  {
+    "renal function": "TEST"
+  },
+  {
+    "BUN": "TEST"
+  },
+  {
+    "creatinine": "TEST"
+  },
+  {
+    "Liver function tests": "TEST"
+  },
+  {
+    "MRSA": "PROBLEM"
+  },
+  {
+    "Urine culture": "TEST"
+  },
+  {
+    "Urinalysis": "TEST"
+  },
+  {
+    "morbid obesity": "PROBLEM"
+  },
+  {
+    "chronic lower extremity lymphedema": "PROBLEM"
+  },
+  {
+    "lymphedema": "PROBLEM"
+  },
+  {
+    "cellulitis": "PROBLEM"
+  },
+  {
+    "wound infection": "PROBLEM"
+  },
+  {
+    "cellulitis": "PROBLEM"
+  },
+  {
+    "antibiotic therapy": "DRUG"
+  },
+  {
+    "lymphedema wraps": "TREATMENT"
+  },
+  {
+    "lymphedema wraps": "TREATMENT"
+  },
+  {
+    "cellulitis": "PROBLEM"
+  },
+  {
+    "antibiotic therapy": "DRUG"
+  },
+  {
+    "ulcer": "PROBLEM"
+  },
+  {
+    "wound care": "TREATMENT"
+  },
+  {
+    "lymphedema wraps": "TREATMENT"
+  },
+  {
+    "general medicine": "TEST"
+  },
+  {
+    "bilateral lower extremity": "PROBLEM"
+  },
+  {
+    "lower extremity cellulitis": "PROBLEM"
+  },
+  {
+    "lower extremity lymphedema": "PROBLEM"
+  },
+  {
+    "active cellulitis": "PROBLEM"
+  },
+  {
+    "morbid obesity": "PROBLEM"
+  },
+  {
+    "lymphedema wraps": "TREATMENT"
+  },
+  {
+    "antibiotic therapy": "TREATMENT"
+  },
+  {
+    "lower extremity": "PROBLEM"
+  },
+  {
+    "cellulitis": "PROBLEM"
+  },
+  {
+    "lymphedema": "PROBLEM"
+  },
+  {
+    "antibiotic": "DRUG"
+  },
+  {
+    "therapy": "TREATMENT"
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "Gastroenteritis": "PROBLEM"
+  },
+  {
+    "autism": "PROBLEM"
+  },
+  {
+    "constipation": "PROBLEM"
+  },
+  {
+    "hyperactivity": "PROBLEM"
+  },
+  {
+    "weight loss": "PROBLEM"
+  },
+  {
+    "Adderall": "DRUG"
+  },
+  {
+    "clonidine": "DRUG"
+  },
+  {
+    "MiraLax": "DRUG"
+  },
+  {
+    "chest x-ray": "TEST"
+  },
+  {
+    "abdominal films": "TEST"
+  },
+  {
+    "sedimentation rate": "TEST"
+  },
+  {
+    "magnesium level": "TEST"
+  },
+  {
+    "TSH": "TEST"
+  },
+  {
+    "free T4": "TEST"
+  },
+  {
+    "Hemoglobin": "TEST"
+  },
+  {
+    "hematocrit": "TEST"
+  },
+  {
+    "platelet count": "TEST"
+  },
+  {
+    "white blood count": "TEST"
+  },
+  {
+    "Urinalysis": "TEST"
+  },
+  {
+    "Sodium": "TEST"
+  },
+  {
+    "potassium": "TEST"
+  },
+  {
+    "chloride": "TEST"
+  },
+  {
+    "CO2": "TEST"
+  },
+  {
+    "BUN": "TEST"
+  },
+  {
+    "creatinine": "TEST"
+  },
+  {
+    "anion gap": "TEST"
+  },
+  {
+    "glucose": "TEST"
+  },
+  {
+    "total protein": "TEST"
+  },
+  {
+    "albumin": "TEST"
+  },
+  {
+    "calcium": "TEST"
+  },
+  {
+    "bilirubin": "TEST"
+  },
+  {
+    "AST": "TEST"
+  },
+  {
+    "ALT": "TEST"
+  },
+  {
+    "alkaline phosphatase": "TEST"
+  },
+  {
+    "Thyroid peroxidase antibody studies": "TEST"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "clear liquids": "TREATMENT"
+  },
+  {
+    "regular diet": "TREATMENT"
+  },
+  {
+    "HOSPITAL COURSE The child was observed on IV fluids and advanced to clear": "TREATMENT"
+  }
+]

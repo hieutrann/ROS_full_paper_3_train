@@ -1,0 +1,185 @@
+[
+  {
+    "Preeclampsia": "PROBLEM"
+  },
+  {
+    "uncontrolled blood pressure": "PROBLEM"
+  },
+  {
+    "Cesarean section": "TREATMENT"
+  },
+  {
+    "blood pressure": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "fatigue": "PROBLEM"
+  },
+  {
+    "tiredness": "PROBLEM"
+  },
+  {
+    "congenital anomaly": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "gestational diabetes mellitus": "PROBLEM"
+  },
+  {
+    "coronary artery disease": "PROBLEM"
+  },
+  {
+    "Cardizem": "DRUG"
+  },
+  {
+    "metoprolol": "DRUG"
+  },
+  {
+    "hydralazine": "DRUG"
+  },
+  {
+    "labetalol": "DRUG"
+  },
+  {
+    "hydrochlorothiazide": "DRUG"
+  },
+  {
+    "insulin supplementation": "TREATMENT"
+  },
+  {
+    "pre-eclampsia": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "rigors": "PROBLEM"
+  },
+  {
+    "chills": "PROBLEM"
+  },
+  {
+    "cataract": "PROBLEM"
+  },
+  {
+    "blurry vision": "PROBLEM"
+  },
+  {
+    "glaucoma": "PROBLEM"
+  },
+  {
+    "congestive heart": "PROBLEM"
+  },
+  {
+    "arrhythmia": "PROBLEM"
+  },
+  {
+    "pneumonia": "PROBLEM"
+  },
+  {
+    "valley fever": "PROBLEM"
+  },
+  {
+    "epigastric discomfort": "PROBLEM"
+  },
+  {
+    "hematemesis": "PROBLEM"
+  },
+  {
+    "melena": "PROBLEM"
+  },
+  {
+    "arthritis": "PROBLEM"
+  },
+  {
+    "muscle weakness": "PROBLEM"
+  },
+  {
+    "TIA": "PROBLEM"
+  },
+  {
+    "CVA": "PROBLEM"
+  },
+  {
+    "seizure disorder": "PROBLEM"
+  },
+  {
+    "Pulse": "TEST"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "respiratory rate": "TEST"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "EKG": "TEST"
+  },
+  {
+    "sinus tachycardia": "PROBLEM"
+  },
+  {
+    "ST-T changes": "PROBLEM"
+  },
+  {
+    "BUN": "TEST"
+  },
+  {
+    "creatinine": "TEST"
+  },
+  {
+    "gestational diabetes mellitus": "PROBLEM"
+  },
+  {
+    "echocardiogram": "TEST"
+  },
+  {
+    "left ventricular function": "TEST"
+  },
+  {
+    "hydralazine": "DRUG"
+  },
+  {
+    "labetalol": "DRUG"
+  },
+  {
+    "cardizem": "DRUG"
+  },
+  {
+    "metoprolol": "DRUG"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "gestational diabetes mellitus": "PROBLEM"
+  },
+  {
+    "pre-eclampsia": "PROBLEM"
+  },
+  {
+    "blood pressure": "PROBLEM"
+  },
+  {
+    "uncontrolled blood pressure": "PROBLEM"
+  },
+  {
+    "gestational diabetes": "PROBLEM"
+  },
+  {
+    "cesarean section": "TREATMENT"
+  },
+  {
+    "preeclampsia": "PROBLEM"
+  }
+]

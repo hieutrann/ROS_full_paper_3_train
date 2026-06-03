@@ -1,0 +1,290 @@
+[
+  {
+    "Hypertension": "PROBLEM"
+  },
+  {
+    "CVA": "PROBLEM"
+  },
+  {
+    "Compression fracture of L1": "PROBLEM"
+  },
+  {
+    "osteoarthritis of knee": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "lightheadedness": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "diarrhea": "PROBLEM"
+  },
+  {
+    "severe osteoarthritis of the left knee": "PROBLEM"
+  },
+  {
+    "total knee replacement": "TREATMENT"
+  },
+  {
+    "coronary disease": "PROBLEM"
+  },
+  {
+    "stroke risk": "PROBLEM"
+  },
+  {
+    "cardiac disease": "PROBLEM"
+  },
+  {
+    "shortness of breath with exertion": "PROBLEM"
+  },
+  {
+    "lipid panel": "TEST"
+  },
+  {
+    "Cholesterol": "TEST"
+  },
+  {
+    "triglycerides": "TEST"
+  },
+  {
+    "HDL": "TEST"
+  },
+  {
+    "LDL": "TEST"
+  },
+  {
+    "fasting glucose": "TEST"
+  },
+  {
+    "fasting insulin level": "TEST"
+  },
+  {
+    "nonfasting glucose": "TEST"
+  },
+  {
+    "diabetes": "PROBLEM"
+  },
+  {
+    "knee pain": "PROBLEM"
+  },
+  {
+    "low back pain": "PROBLEM"
+  },
+  {
+    "X-ray of the low back": "TEST"
+  },
+  {
+    "mild compression fracture of L1": "PROBLEM"
+  },
+  {
+    "compression fracture": "PROBLEM"
+  },
+  {
+    "DEXA scan": "TEST"
+  },
+  {
+    "compression fracture of the lumbar spine": "PROBLEM"
+  },
+  {
+    "arthritis": "PROBLEM"
+  },
+  {
+    "bone density reading on DEXA scan": "TEST"
+  },
+  {
+    "osteoporosis": "PROBLEM"
+  },
+  {
+    "Hydrochlorothiazide": "DRUG"
+  },
+  {
+    "Prozac": "DRUG"
+  },
+  {
+    "Vioxx": "DRUG"
+  },
+  {
+    "vitamin C": "DRUG"
+  },
+  {
+    "vitamin E": "DRUG"
+  },
+  {
+    "calcium with D": "DRUG"
+  },
+  {
+    "multivitamin": "DRUG"
+  },
+  {
+    "aspirin": "DRUG"
+  },
+  {
+    "Monopril": "DRUG"
+  },
+  {
+    "Celexa": "DRUG"
+  },
+  {
+    "Bactrim": "DRUG"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "Hypertension": "PROBLEM"
+  },
+  {
+    "Depression": "PROBLEM"
+  },
+  {
+    "Myofascitis of the feet": "PROBLEM"
+  },
+  {
+    "Severe osteoarthritis of the knee": "PROBLEM"
+  },
+  {
+    "Removal of the melanoma": "TREATMENT"
+  },
+  {
+    "melanoma": "PROBLEM"
+  },
+  {
+    "Breast biopsy": "TEST"
+  },
+  {
+    "Holter monitor": "TEST"
+  },
+  {
+    "ectopic beat": "PROBLEM"
+  },
+  {
+    "Echocardiogram": "TEST"
+  },
+  {
+    "Compression fracture of L1": "PROBLEM"
+  },
+  {
+    "DEXA scan": "TEST"
+  },
+  {
+    "overweight": "PROBLEM"
+  },
+  {
+    "Vital signs": "TEST"
+  },
+  {
+    "Blood pressure": "TEST"
+  },
+  {
+    "Pulse": "TEST"
+  },
+  {
+    "Respirations": "TEST"
+  },
+  {
+    "Temperature": "TEST"
+  },
+  {
+    "EKG": "TEST"
+  },
+  {
+    "normal sinus rhythm": "PROBLEM"
+  },
+  {
+    "first degree AV block": "PROBLEM"
+  },
+  {
+    "poor R-wave progression": "PROBLEM"
+  },
+  {
+    "Hypertension": "PROBLEM"
+  },
+  {
+    "cerebrovascular accident": "PROBLEM"
+  },
+  {
+    "Compression fracture of L1": "PROBLEM"
+  },
+  {
+    "Osteoarthritis of the knee": "PROBLEM"
+  },
+  {
+    "chest x-ray": "TEST"
+  },
+  {
+    "C-reactive protein cardiac": "TEST"
+  },
+  {
+    "knee pain": "PROBLEM"
+  },
+  {
+    "screening colonoscopy": "TEST"
+  },
+  {
+    "Fosamax": "DRUG"
+  },
+  {
+    "preoperative evaluation": "TEST"
+  },
+  {
+    "EKG": "TEST"
+  },
+  {
+    "preoperative cardiac testing": "TEST"
+  },
+  {
+    "beta-blocker": "DRUG"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "lightheadedness": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "osteoporosis": "PROBLEM"
+  },
+  {
+    "cerebrovascular accident": "PROBLEM"
+  },
+  {
+    "compression fracture": "PROBLEM"
+  },
+  {
+    "chest x-ray": "TEST"
+  },
+  {
+    "osteoarthritis of the knee": "PROBLEM"
+  },
+  {
+    "dexa scan": "TEST"
+  },
+  {
+    "dexa": "TEST"
+  },
+  {
+    "osteoarthritis": "PROBLEM"
+  }
+]

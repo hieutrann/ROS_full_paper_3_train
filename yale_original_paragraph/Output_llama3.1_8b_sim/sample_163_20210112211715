@@ -1,0 +1,65 @@
+[
+  {
+    "Acute right lobar pneumonia": "PROBLEM"
+  },
+  {
+    "Hypoxemia and hypotension secondary to acute right lobar pneumonia": "PROBLEM"
+  },
+  {
+    "Electrolyte abnormality with hyponatremia and hypokalemia - corrected": "PROBLEM"
+  },
+  {
+    "Elevated liver function tests, etiology undetermined": "PROBLEM"
+  },
+  {
+    "The patient has a history of moderate-to-severe dementia, Alzheimer's type": "PROBLEM"
+  },
+  {
+    "Anemia secondary to current illness and possible iron deficiency": "PROBLEM"
+  },
+  {
+    "Darkened mole on the scalp, status post skin biopsy, pending pathology report": "PROBLEM"
+  },
+  {
+    "vancomycin": "DRUG"
+  },
+  {
+    "Flagyl": "DRUG"
+  },
+  {
+    "Levaquin": "DRUG"
+  },
+  {
+    "scalp skin biopsy": "TEST"
+  },
+  {
+    "chest x-ray": "TEST"
+  },
+  {
+    "blood cultures": "TEST"
+  },
+  {
+    "Sputum culture": "TEST"
+  },
+  {
+    "urine cultures": "TEST"
+  },
+  {
+    "thoracentesis": "TEST"
+  },
+  {
+    "CT scan of the chest and abdomen": "TEST"
+  },
+  {
+    "HIDA scan": "TEST"
+  },
+  {
+    "incentive spirometry": "TEST"
+  },
+  {
+    "scalp skin biopsy": "TREATMENT"
+  },
+  {
+    "OPERATION AND PROCEDURE The patient underwent": "TREATMENT"
+  }
+]

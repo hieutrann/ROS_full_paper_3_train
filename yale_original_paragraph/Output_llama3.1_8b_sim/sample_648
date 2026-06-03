@@ -1,0 +1,113 @@
+[
+  {
+    "COPD exacerbation": "PROBLEM"
+  },
+  {
+    "COPD": "PROBLEM"
+  },
+  {
+    "pneumonia": "PROBLEM"
+  },
+  {
+    "congestive heart failure": "PROBLEM"
+  },
+  {
+    "diabetes mellitus": "PROBLEM"
+  },
+  {
+    "neuropathy": "PROBLEM"
+  },
+  {
+    "anxiety": "PROBLEM"
+  },
+  {
+    "hypothyroidism": "PROBLEM"
+  },
+  {
+    "depression": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "acute COPD exacerbation": "PROBLEM"
+  },
+  {
+    "Bronchitis": "PROBLEM"
+  },
+  {
+    "acute lower GI bleed": "PROBLEM"
+  },
+  {
+    "diverticular disease of the sigmoid colon": "PROBLEM"
+  },
+  {
+    "Albuterol": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Cardizem CD": "DRUG"
+  },
+  {
+    "Colace": "DRUG"
+  },
+  {
+    "Iron sulfate": "DRUG"
+  },
+  {
+    "NPH": "DRUG"
+  },
+  {
+    "Atrovent": "DRUG"
+  },
+  {
+    "Statin oral suspension": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Prednisone": "DRUG"
+  },
+  {
+    "Darvocet": "DRUG"
+  },
+  {
+    "Metamucil": "DRUG"
+  },
+  {
+    "Synthroid": "DRUG"
+  },
+  {
+    "Nexium": "DRUG"
+  },
+  {
+    "BiPAP": "TEST"
+  },
+  {
+    "endoscopy": "TEST"
+  },
+  {
+    "Bronchitis": "PROBLEM"
+  },
+  {
+    "Pulmonary": "TEST"
+  },
+  {
+    "Packed red blood cells": "TEST"
+  },
+  {
+    "Lovenox": "DRUG"
+  },
+  {
+    "Plavix": "DRUG"
+  },
+  {
+    "Darvocet-N": "DRUG"
+  }
+]

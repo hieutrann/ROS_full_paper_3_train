@@ -1,0 +1,314 @@
+[
+  {
+    "back pain": "PROBLEM"
+  },
+  {
+    "chronic back pain": "PROBLEM"
+  },
+  {
+    "Decreased ability to perform daily living activities": "PROBLEM"
+  },
+  {
+    "exacerbation of chronic back pain": "PROBLEM"
+  },
+  {
+    "acute back pain": "PROBLEM"
+  },
+  {
+    "back pain": "PROBLEM"
+  },
+  {
+    "severe back pain": "PROBLEM"
+  },
+  {
+    "IV": "DRUG"
+  },
+  {
+    "analgesics": "DRUG"
+  },
+  {
+    "Decadron": "DRUG"
+  },
+  {
+    "physical therapy": "TREATMENT"
+  },
+  {
+    "ADLs": "PROBLEM"
+  },
+  {
+    "back pain": "PROBLEM"
+  },
+  {
+    "intravertebral lumbar disk disease": "PROBLEM"
+  },
+  {
+    "degenerative changes": "PROBLEM"
+  },
+  {
+    "bulging disk": "PROBLEM"
+  },
+  {
+    "testicular cancer": "PROBLEM"
+  },
+  {
+    "bone scan": "TEST"
+  },
+  {
+    "PENICILLIN": "DRUG"
+  },
+  {
+    "AMOXICILLIN": "DRUG"
+  },
+  {
+    "CEPHALOSPORIN": "DRUG"
+  },
+  {
+    "DOXYCYCLINE": "DRUG"
+  },
+  {
+    "IVP DYE": "TEST"
+  },
+  {
+    "IODINE": "DRUG"
+  },
+  {
+    "SULFA": "DRUG"
+  },
+  {
+    "HIVES": "PROBLEM"
+  },
+  {
+    "HIVES": "PROBLEM"
+  },
+  {
+    "SAP FROM THE MANGO TREE": "PROBLEM"
+  },
+  {
+    "orchiectomy": "TREATMENT"
+  },
+  {
+    "testicular cancer": "PROBLEM"
+  },
+  {
+    "GERD": "PROBLEM"
+  },
+  {
+    "irritable bowel syndrome": "PROBLEM"
+  },
+  {
+    "asthma": "PROBLEM"
+  },
+  {
+    "postnasal drip": "PROBLEM"
+  },
+  {
+    "bilateral carpal tunnel syndrome": "PROBLEM"
+  },
+  {
+    "abdominal teratoma": "PROBLEM"
+  },
+  {
+    "incisional hernia": "PROBLEM"
+  },
+  {
+    "alcohol": "DRUG"
+  },
+  {
+    "IV drug use": "DRUG"
+  },
+  {
+    "chills": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "shakes": "PROBLEM"
+  },
+  {
+    "tremors": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "palpitations": "PROBLEM"
+  },
+  {
+    "hemoptysis": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "diarrhea": "PROBLEM"
+  },
+  {
+    "constipation": "PROBLEM"
+  },
+  {
+    "hematemesis": "PROBLEM"
+  },
+  {
+    "bowel movement": "PROBLEM"
+  },
+  {
+    "dysuria": "PROBLEM"
+  },
+  {
+    "frequency": "PROBLEM"
+  },
+  {
+    "incomplete bladder emptying": "PROBLEM"
+  },
+  {
+    "voiding difficulties": "PROBLEM"
+  },
+  {
+    "numbness and tingling": "PROBLEM"
+  },
+  {
+    "bilateral carpal tunnel syndrome": "PROBLEM"
+  },
+  {
+    "seizure disorders": "PROBLEM"
+  },
+  {
+    "dizziness": "PROBLEM"
+  },
+  {
+    "temperature": "TEST"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "pulse": "TEST"
+  },
+  {
+    "respirations": "TEST"
+  },
+  {
+    "O2 saturation": "TEST"
+  },
+  {
+    "pounds": "TEST"
+  },
+  {
+    "thrush": "PROBLEM"
+  },
+  {
+    "auscultation": "TEST"
+  },
+  {
+    "rate": "TEST"
+  },
+  {
+    "rhythm": "TEST"
+  },
+  {
+    "Obese": "PROBLEM"
+  },
+  {
+    "calf tenderness": "PROBLEM"
+  },
+  {
+    "Bilateral strength": "TEST"
+  },
+  {
+    "alert": "PROBLEM"
+  },
+  {
+    "oriented": "PROBLEM"
+  },
+  {
+    "Acute on chronic back pain": "PROBLEM"
+  },
+  {
+    "Joseph Health Services": "TREATMENT"
+  },
+  {
+    "Physical Therapy": "TREATMENT"
+  },
+  {
+    "Occupational Therapy": "TREATMENT"
+  },
+  {
+    "Decadron": "DRUG"
+  },
+  {
+    "Percocet": "DRUG"
+  },
+  {
+    "orchiectomy": "TREATMENT"
+  },
+  {
+    "testicular cancer": "PROBLEM"
+  },
+  {
+    "Gastroesophageal reflux disease": "PROBLEM"
+  },
+  {
+    "irritable bowel syndrome": "PROBLEM"
+  },
+  {
+    "gastrointestinal prophylaxis": "TREATMENT"
+  },
+  {
+    "Colace": "DRUG"
+  },
+  {
+    "lactulose": "DRUG"
+  },
+  {
+    "Protonix": "DRUG"
+  },
+  {
+    "Deep vein thrombosis": "PROBLEM"
+  },
+  {
+    "prophylaxis": "TREATMENT"
+  },
+  {
+    "therapies": "TREATMENT"
+  },
+  {
+    "ambulating": "TREATMENT"
+  },
+  {
+    "leg exercises": "TREATMENT"
+  },
+  {
+    "Obesity": "PROBLEM"
+  },
+  {
+    "weighs": "TEST"
+  },
+  {
+    "weight loss plan": "TREATMENT"
+  },
+  {
+    "dietary consult": "TREATMENT"
+  },
+  {
+    "discharge summary": "TEST"
+  },
+  {
+    "decreased ability": "PROBLEM"
+  },
+  {
+    "daily living activities": "PROBLEM"
+  },
+  {
+    "exacerbation": "PROBLEM"
+  },
+  {
+    "back pain": "PROBLEM"
+  }
+]

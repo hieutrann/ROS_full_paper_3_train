@@ -1,0 +1,134 @@
+[
+  {
+    "heroin abuse": "PROBLEM"
+  },
+  {
+    "heroin": "DRUG"
+  },
+  {
+    "cocaine": "DRUG"
+  },
+  {
+    "alcohol abuse": "PROBLEM"
+  },
+  {
+    "Detox from heroin": "TREATMENT"
+  },
+  {
+    "chronic pain": "PROBLEM"
+  },
+  {
+    "stab wounds": "PROBLEM"
+  },
+  {
+    "gunshot wounds": "PROBLEM"
+  },
+  {
+    "injuries": "PROBLEM"
+  },
+  {
+    "headache": "PROBLEM"
+  },
+  {
+    "visual complaints": "PROBLEM"
+  },
+  {
+    "hallucinations": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "back pain": "PROBLEM"
+  },
+  {
+    "abscesses": "PROBLEM"
+  },
+  {
+    "smoker": "PROBLEM"
+  },
+  {
+    "analgesics": "DRUG"
+  },
+  {
+    "pain medications": "DRUG"
+  },
+  {
+    "Klonopin": "DRUG"
+  },
+  {
+    "lithium": "DRUG"
+  },
+  {
+    "codeine": "DRUG"
+  },
+  {
+    "VITAL SIGNS": "TEST"
+  },
+  {
+    "hypertensive": "PROBLEM"
+  },
+  {
+    "jittery": "PROBLEM"
+  },
+  {
+    "dilated": "PROBLEM"
+  },
+  {
+    "wheezing": "PROBLEM"
+  },
+  {
+    "rales": "PROBLEM"
+  },
+  {
+    "rhonchi": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "murmur": "PROBLEM"
+  },
+  {
+    "track marks": "PROBLEM"
+  },
+  {
+    "abscesses": "PROBLEM"
+  },
+  {
+    "DETOXING FROM HEROIN": "TREATMENT"
+  },
+  {
+    "clonidine": "DRUG"
+  },
+  {
+    "Phenergan": "DRUG"
+  },
+  {
+    "phenergan": "DRUG"
+  },
+  {
+    "detox from heroin": "TREATMENT"
+  },
+  {
+    "alcohol abuse": "PROBLEM"
+  },
+  {
+    "heroin abuse": "PROBLEM"
+  },
+  {
+    "detox": "TREATMENT"
+  },
+  {
+    "alcohol": "DRUG"
+  },
+  {
+    "abuse": "PROBLEM"
+  }
+]

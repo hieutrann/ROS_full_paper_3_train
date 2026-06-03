@@ -1,0 +1,212 @@
+[
+  {
+    "decrease in mental alertness": "PROBLEM"
+  },
+  {
+    "Mental changes": "PROBLEM"
+  },
+  {
+    "diabetes": "PROBLEM"
+  },
+  {
+    "diabetic medication": "DRUG"
+  },
+  {
+    "decrease in mental alertness": "PROBLEM"
+  },
+  {
+    "GI symptoms": "PROBLEM"
+  },
+  {
+    "sweating": "PROBLEM"
+  },
+  {
+    "agitation": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "chills": "PROBLEM"
+  },
+  {
+    "rash": "PROBLEM"
+  },
+  {
+    "glucose": "TEST"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "blood pressure medication": "DRUG"
+  },
+  {
+    "labetalol": "DRUG"
+  },
+  {
+    "Norvasc": "DRUG"
+  },
+  {
+    "glucose supplement": "TREATMENT"
+  },
+  {
+    "glucose": "TEST"
+  },
+  {
+    "Diabetes": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "diabetic medication": "DRUG"
+  },
+  {
+    "blood pressure medication": "DRUG"
+  },
+  {
+    "aspirin": "DRUG"
+  },
+  {
+    "sinus tenderness": "PROBLEM"
+  },
+  {
+    "head injury": "PROBLEM"
+  },
+  {
+    "laceration": "PROBLEM"
+  },
+  {
+    "rales": "PROBLEM"
+  },
+  {
+    "wheeze": "PROBLEM"
+  },
+  {
+    "organomegaly": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "clubbing": "PROBLEM"
+  },
+  {
+    "cyanosis": "PROBLEM"
+  },
+  {
+    "rash": "PROBLEM"
+  },
+  {
+    "CPK": "TEST"
+  },
+  {
+    "troponin": "TEST"
+  },
+  {
+    "CMP": "TEST"
+  },
+  {
+    "glucose": "TEST"
+  },
+  {
+    "BMP": "TEST"
+  },
+  {
+    "BUN": "TEST"
+  },
+  {
+    "creatinine": "TEST"
+  },
+  {
+    "potassium": "TEST"
+  },
+  {
+    "Urinalysis": "TEST"
+  },
+  {
+    "CT of the brain": "TEST"
+  },
+  {
+    "hemorrhage": "PROBLEM"
+  },
+  {
+    "Chest x-ray": "TEST"
+  },
+  {
+    "cardiomegaly": "PROBLEM"
+  },
+  {
+    "infiltrates": "PROBLEM"
+  },
+  {
+    "Hypoglycemia": "PROBLEM"
+  },
+  {
+    "Hypertension": "PROBLEM"
+  },
+  {
+    "Renal insufficiency": "PROBLEM"
+  },
+  {
+    "dehydration": "PROBLEM"
+  },
+  {
+    "diabetic nephropathy": "PROBLEM"
+  },
+  {
+    "IV fluid": "TREATMENT"
+  },
+  {
+    "glucometer checks": "TEST"
+  },
+  {
+    "blood pressure medication": "DRUG"
+  },
+  {
+    "diabetic medication": "DRUG"
+  },
+  {
+    "diabetic medication": "DRUG"
+  },
+  {
+    "diabetes": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "hypoglycemia": "PROBLEM"
+  },
+  {
+    "renal insufficiency": "PROBLEM"
+  },
+  {
+    "diabetic nephropathy": "PROBLEM"
+  },
+  {
+    "dehydration": "PROBLEM"
+  },
+  {
+    "iv fluid": "TREATMENT"
+  },
+  {
+    "glucometer checks": "TEST"
+  },
+  {
+    "decrease in mental alertness": "PROBLEM"
+  },
+  {
+    "blood pressure medication": "DRUG"
+  },
+  {
+    "mental alertness": "PROBLEM"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "glucose": "TEST"
+  }
+]

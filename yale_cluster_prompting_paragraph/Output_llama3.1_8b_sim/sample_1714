@@ -1,0 +1,107 @@
+[
+  {
+    "Transforaminal Epidural Steroid Injection - 1": "TREATMENT"
+  },
+  {
+    "Pain Management": "TREATMENT"
+  },
+  {
+    "lidocaine": "DRUG"
+  },
+  {
+    "infection": "PROBLEM"
+  },
+  {
+    "bleeding": "PROBLEM"
+  },
+  {
+    "allergic reaction": "PROBLEM"
+  },
+  {
+    "dural puncture": "PROBLEM"
+  },
+  {
+    "headache": "PROBLEM"
+  },
+  {
+    "nerve injuries": "PROBLEM"
+  },
+  {
+    "spinal cord injury": "PROBLEM"
+  },
+  {
+    "cardiovascular and CNS side effects": "PROBLEM"
+  },
+  {
+    "vascular entry of medications": "PROBLEM"
+  },
+  {
+    "sedatives": "DRUG"
+  },
+  {
+    "narcotics": "DRUG"
+  },
+  {
+    "nonionic contrast agents": "DRUG"
+  },
+  {
+    "anesthetics": "DRUG"
+  },
+  {
+    "corticosteroids": "DRUG"
+  },
+  {
+    "oxygen saturation": "TEST"
+  },
+  {
+    "vital signs": "TEST"
+  },
+  {
+    "fluoroscopy": "TEST"
+  },
+  {
+    "X-ray technician": "TEST"
+  },
+  {
+    "spinal needle": "TEST"
+  },
+  {
+    "non-ionic contrast agent": "TEST"
+  },
+  {
+    "epidurogram": "TEST"
+  },
+  {
+    "radiculogram": "TEST"
+  },
+  {
+    "vascular dye pattern": "TEST"
+  },
+  {
+    "treatment solution": "DRUG"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "chills": "PROBLEM"
+  },
+  {
+    "increased pain": "PROBLEM"
+  },
+  {
+    "weakness": "PROBLEM"
+  },
+  {
+    "sensory or motor changes": "PROBLEM"
+  },
+  {
+    "bowel or bladder function": "PROBLEM"
+  }
+]

@@ -1,0 +1,503 @@
+[
+  {
+    "Discharge Summary": "TEST"
+  },
+  {
+    "Knee Surgery": "TEST"
+  },
+  {
+    "right knee surgery": "PROBLEM"
+  },
+  {
+    "right knee surgery": "PROBLEM"
+  },
+  {
+    "degenerative joint disease": "PROBLEM"
+  },
+  {
+    "A": "PROBLEM"
+  },
+  {
+    "autologous blood": "TREATMENT"
+  },
+  {
+    "Coumadin": "DRUG"
+  },
+  {
+    "Lovenox": "DRUG"
+  },
+  {
+    "SCD boots": "TREATMENT"
+  },
+  {
+    "TED stockings": "TREATMENT"
+  },
+  {
+    "ABCD Hospital": "TREATMENT"
+  },
+  {
+    "XYZ Services": "TREATMENT"
+  },
+  {
+    "bowel movement": "PROBLEM"
+  },
+  {
+    "urological symptoms": "PROBLEM"
+  },
+  {
+    "dysuria": "PROBLEM"
+  },
+  {
+    "incomplete bladder emptying": "PROBLEM"
+  },
+  {
+    "voiding difficulties": "PROBLEM"
+  },
+  {
+    "right knee pain": "PROBLEM"
+  },
+  {
+    "NKDA": "PROBLEM"
+  },
+  {
+    "Hypertension": "PROBLEM"
+  },
+  {
+    "hypothyroidism": "PROBLEM"
+  },
+  {
+    "degenerative joint disease": "PROBLEM"
+  },
+  {
+    "GERD": "PROBLEM"
+  },
+  {
+    "anxiety disorder": "PROBLEM"
+  },
+  {
+    "Morton neuroma": "PROBLEM"
+  },
+  {
+    "migraine headaches": "PROBLEM"
+  },
+  {
+    "Celebrex": "DRUG"
+  },
+  {
+    "Coumadin": "DRUG"
+  },
+  {
+    "Colace": "DRUG"
+  },
+  {
+    "Synthroid": "DRUG"
+  },
+  {
+    "Lovenox": "DRUG"
+  },
+  {
+    "Percocet": "DRUG"
+  },
+  {
+    "Toprol XL": "DRUG"
+  },
+  {
+    "niacin": "DRUG"
+  },
+  {
+    "trazodone": "DRUG"
+  },
+  {
+    "Temperature": "TEST"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "pulse": "TEST"
+  },
+  {
+    "respiratory rate": "TEST"
+  },
+  {
+    "O2 saturation": "TEST"
+  },
+  {
+    "right knee pain": "PROBLEM"
+  },
+  {
+    "Normocephalic": "PROBLEM"
+  },
+  {
+    "Sclerae": "PROBLEM"
+  },
+  {
+    "EOMI": "PROBLEM"
+  },
+  {
+    "Dentition": "PROBLEM"
+  },
+  {
+    "movement": "PROBLEM"
+  },
+  {
+    "thyroid enlargement": "PROBLEM"
+  },
+  {
+    "Trachea": "TEST"
+  },
+  {
+    "LUNGS": "TEST"
+  },
+  {
+    "HEART": "PROBLEM"
+  },
+  {
+    "S1": "TEST"
+  },
+  {
+    "S2": "TEST"
+  },
+  {
+    "ABDOMEN": "PROBLEM"
+  },
+  {
+    "organomegaly": "PROBLEM"
+  },
+  {
+    "knee incision": "TREATMENT"
+  },
+  {
+    "Steri-Strips": "TREATMENT"
+  },
+  {
+    "diffuse right knee edema": "PROBLEM"
+  },
+  {
+    "ecchymosis": "PROBLEM"
+  },
+  {
+    "calf tenderness": "PROBLEM"
+  },
+  {
+    "Pedal pulses": "TEST"
+  },
+  {
+    "anxious": "PROBLEM"
+  },
+  {
+    "exam": "TEST"
+  },
+  {
+    "patient": "PROBLEM"
+  },
+  {
+    "Physical Therapy": "TREATMENT"
+  },
+  {
+    "Occupational Therapy": "TREATMENT"
+  },
+  {
+    "rehabilitation": "TREATMENT"
+  },
+  {
+    "CPM machine": "TREATMENT"
+  },
+  {
+    "CPM": "TREATMENT"
+  },
+  {
+    "knee pain": "PROBLEM"
+  },
+  {
+    "pain management": "PROBLEM"
+  },
+  {
+    "Ativan": "DRUG"
+  },
+  {
+    "anxiety disorder": "PROBLEM"
+  },
+  {
+    "rashes": "PROBLEM"
+  },
+  {
+    "rash": "PROBLEM"
+  },
+  {
+    "contact dermatitis": "PROBLEM"
+  },
+  {
+    "betamethasone cream": "DRUG"
+  },
+  {
+    "rash": "PROBLEM"
+  },
+  {
+    "therapy": "TREATMENT"
+  },
+  {
+    "insomnia": "PROBLEM"
+  },
+  {
+    "knee pain": "PROBLEM"
+  },
+  {
+    "Percocet": "DRUG"
+  },
+  {
+    "oxycodone": "DRUG"
+  },
+  {
+    "Percocet": "DRUG"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "Lovenox": "DRUG"
+  },
+  {
+    "INR": "TEST"
+  },
+  {
+    "DVT": "PROBLEM"
+  },
+  {
+    "Coumadin": "DRUG"
+  },
+  {
+    "DVT": "PROBLEM"
+  },
+  {
+    "venous Doppler study": "TEST"
+  },
+  {
+    "UA": "TEST"
+  },
+  {
+    "CBC": "TEST"
+  },
+  {
+    "white count": "TEST"
+  },
+  {
+    "hemoglobin": "TEST"
+  },
+  {
+    "hematocrit": "TEST"
+  },
+  {
+    "platelets": "TEST"
+  },
+  {
+    "Chemistries": "TEST"
+  },
+  {
+    "Creatinine": "TEST"
+  },
+  {
+    "BUN": "TEST"
+  },
+  {
+    "anion gap": "TEST"
+  },
+  {
+    "fasting glucose": "TEST"
+  },
+  {
+    "chemistries": "TEST"
+  },
+  {
+    "therapies": "TREATMENT"
+  },
+  {
+    "DISCHARGE DIAGNOSES": "PROBLEM"
+  },
+  {
+    "right total knee replacement": "TREATMENT"
+  },
+  {
+    "degenerative joint disease": "PROBLEM"
+  },
+  {
+    "2": "TEST"
+  },
+  {
+    "Anxiety disorder": "PROBLEM"
+  },
+  {
+    "3": "PROBLEM"
+  },
+  {
+    "Insomnia": "PROBLEM"
+  },
+  {
+    "pain": "PROBLEM"
+  },
+  {
+    "anxiety": "PROBLEM"
+  },
+  {
+    "4": "TEST"
+  },
+  {
+    "constipation": "PROBLEM"
+  },
+  {
+    "5": "PROBLEM"
+  },
+  {
+    "Contact dermatitis": "PROBLEM"
+  },
+  {
+    "6": "PROBLEM"
+  },
+  {
+    "Hypertension": "PROBLEM"
+  },
+  {
+    "7": "PROBLEM"
+  },
+  {
+    "Hypothyroidism": "PROBLEM"
+  },
+  {
+    "8": "TEST"
+  },
+  {
+    "Gastroesophageal reflux disease": "PROBLEM"
+  },
+  {
+    "9": "PROBLEM"
+  },
+  {
+    "Morton neuroma": "PROBLEM"
+  },
+  {
+    "10": "PROBLEM"
+  },
+  {
+    "migraine headaches": "PROBLEM"
+  },
+  {
+    "Celebrex": "DRUG"
+  },
+  {
+    "Colace": "DRUG"
+  },
+  {
+    "Protonix": "DRUG"
+  },
+  {
+    "Synthroid": "DRUG"
+  },
+  {
+    "Diprosone cream": "DRUG"
+  },
+  {
+    "oxycodone SR": "DRUG"
+  },
+  {
+    "q.12h.": "TEST"
+  },
+  {
+    "oxycodone SR": "DRUG"
+  },
+  {
+    "q.12h.": "TEST"
+  },
+  {
+    "Percocet": "DRUG"
+  },
+  {
+    "to be used p.r.n.": "TREATMENT"
+  },
+  {
+    "trazodone": "DRUG"
+  },
+  {
+    "p.r.n.": "TREATMENT"
+  },
+  {
+    "Ativan": "DRUG"
+  },
+  {
+    "Toprol-XL": "DRUG"
+  },
+  {
+    "Coumadin": "DRUG"
+  },
+  {
+    "INRs": "TEST"
+  },
+  {
+    "Monday": "TEST"
+  },
+  {
+    "Thursday": "TEST"
+  },
+  {
+    "Dr.": "TEST"
+  },
+  {
+    "A": "PROBLEM"
+  },
+  {
+    "Coumadin": "DRUG"
+  },
+  {
+    "Coumadin": "DRUG"
+  },
+  {
+    "INR": "TEST"
+  },
+  {
+    "Coumadin": "DRUG"
+  },
+  {
+    "Dr": "TREATMENT"
+  },
+  {
+    "primary care physician": "PROBLEM"
+  },
+  {
+    "total knee replacement": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "hypothyroidism": "PROBLEM"
+  },
+  {
+    "degenerative joint disease": "PROBLEM"
+  },
+  {
+    "GERD": "PROBLEM"
+  },
+  {
+    "anxiety disorder": "PROBLEM"
+  },
+  {
+    "Morton neuroma": "PROBLEM"
+  },
+  {
+    "coumadin": "DRUG"
+  },
+  {
+    "lovenox": "DRUG"
+  },
+  {
+    "scd boots": "TREATMENT"
+  },
+  {
+    "ted stockings": "TREATMENT"
+  },
+  {
+    "total knee replacement": "TREATMENT"
+  },
+  {
+    "knee surgery": "TREATMENT"
+  }
+]

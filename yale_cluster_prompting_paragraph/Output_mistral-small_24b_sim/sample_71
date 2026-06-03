@@ -1,0 +1,98 @@
+[
+  {
+    "diabetes mellitus": "PROBLEM"
+  },
+  {
+    "hypercholesterolemia": "PROBLEM"
+  },
+  {
+    "sinusitis": "PROBLEM"
+  },
+  {
+    "sinus congestion": "PROBLEM"
+  },
+  {
+    "sinus congestion and drainage for": "PROBLEM"
+  },
+  {
+    "Accu-Cheks": "TEST"
+  },
+  {
+    "mammogram": "TEST"
+  },
+  {
+    "blood in her urine": "PROBLEM"
+  },
+  {
+    "blood in her stools": "PROBLEM"
+  },
+  {
+    "nocturia": "PROBLEM"
+  },
+  {
+    "swelling in her ankles": "PROBLEM"
+  },
+  {
+    "Vitals": "TEST"
+  },
+  {
+    "Wt": "TEST"
+  },
+  {
+    "B/P": "TEST"
+  },
+  {
+    "T": "TEST"
+  },
+  {
+    "P": "TEST"
+  },
+  {
+    "frontal and maxillary sinus tenderness": "PROBLEM"
+  },
+  {
+    "maxillary sinus tenderness": "PROBLEM"
+  },
+  {
+    "right TM": "PROBLEM"
+  },
+  {
+    "Allegra D": "DRUG"
+  },
+  {
+    "Allegra": "DRUG"
+  },
+  {
+    "A1c": "TEST"
+  },
+  {
+    "BMP": "TEST"
+  },
+  {
+    "lipid profile": "TEST"
+  },
+  {
+    "TSH": "TEST"
+  },
+  {
+    "Partners in Prevention": "TREATMENT"
+  },
+  {
+    "colonoscopy": "TEST"
+  },
+  {
+    "stools for occult blood": "TEST"
+  },
+  {
+    "diet": "TREATMENT"
+  },
+  {
+    "exercise": "TREATMENT"
+  },
+  {
+    "weight loss": "TREATMENT"
+  },
+  {
+    "prescriptions": "DRUG"
+  }
+]

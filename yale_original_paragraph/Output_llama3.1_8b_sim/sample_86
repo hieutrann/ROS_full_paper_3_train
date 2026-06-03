@@ -1,0 +1,89 @@
+[
+  {
+    "depression": "PROBLEM"
+  },
+  {
+    "high risk behavior": "PROBLEM"
+  },
+  {
+    "Major depression": "PROBLEM"
+  },
+  {
+    "psychosocial stressors": "PROBLEM"
+  },
+  {
+    "GAF": "TEST"
+  },
+  {
+    "CBC": "TEST"
+  },
+  {
+    "TSH": "TEST"
+  },
+  {
+    "UA": "TEST"
+  },
+  {
+    "urine drug screen": "TEST"
+  },
+  {
+    "thyroid panel": "TEST"
+  },
+  {
+    "T3": "TEST"
+  },
+  {
+    "T4": "TEST"
+  },
+  {
+    "EKG": "TEST"
+  },
+  {
+    "sleep-deprived EEG": "TEST"
+  },
+  {
+    "Seroquel": "DRUG"
+  },
+  {
+    "Benadryl": "DRUG"
+  },
+  {
+    "Wellbutrin XL": "DRUG"
+  },
+  {
+    "vitamin E": "DRUG"
+  },
+  {
+    "Restoril": "DRUG"
+  },
+  {
+    "Risperdal": "DRUG"
+  },
+  {
+    "TREATMENT": "TREATMENT"
+  },
+  {
+    "the discharge": "TREATMENT"
+  },
+  {
+    "therapy program": "TREATMENT"
+  },
+  {
+    "psychotropic medications": "TREATMENT"
+  },
+  {
+    "evaluation for and management of psychotropic medications": "TREATMENT"
+  },
+  {
+    "individual, group, and family therapy": "TREATMENT"
+  },
+  {
+    "group-oriented therapy program": "TREATMENT"
+  },
+  {
+    "RTC level of care": "TREATMENT"
+  },
+  {
+    "Residential Treatment Center": "TREATMENT"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "prematurity": "PROBLEM"
+  },
+  {
+    "wheezing": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "inhaled steroids": "DRUG"
+  },
+  {
+    "bronchodilator": "DRUG"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "prednisolone": "DRUG"
+  },
+  {
+    "asthma": "PROBLEM"
+  },
+  {
+    "rhonchi": "PROBLEM"
+  },
+  {
+    "coughing": "PROBLEM"
+  },
+  {
+    "asthma management": "TREATMENT"
+  },
+  {
+    "childhood asthma": "PROBLEM"
+  },
+  {
+    "steroids": "DRUG"
+  },
+  {
+    "steroids": "DRUG"
+  }
+]

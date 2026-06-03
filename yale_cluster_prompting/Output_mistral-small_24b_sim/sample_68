@@ -1,0 +1,128 @@
+[
+  {
+    "diabetes mellitus": "PROBLEM"
+  },
+  {
+    "cerebrovascular accident": "PROBLEM"
+  },
+  {
+    "discomfort": "PROBLEM"
+  },
+  {
+    "EMG studies": "TEST"
+  },
+  {
+    "stroke": "PROBLEM"
+  },
+  {
+    "medications": "DRUG"
+  },
+  {
+    "blood sugars": "TEST"
+  },
+  {
+    "insulin": "DRUG"
+  },
+  {
+    "tobacco": "DRUG"
+  },
+  {
+    "alcohol": "DRUG"
+  },
+  {
+    "Wt": "TEST"
+  },
+  {
+    "B/P": "TEST"
+  },
+  {
+    "T": "TEST"
+  },
+  {
+    "P": "TEST"
+  },
+  {
+    "acute distress": "PROBLEM"
+  },
+  {
+    "dentition": "PROBLEM"
+  },
+  {
+    "Skin": "PROBLEM"
+  },
+  {
+    "dry": "PROBLEM"
+  },
+  {
+    "flaky": "PROBLEM"
+  },
+  {
+    "Heart tones": "TEST"
+  },
+  {
+    "pedal pulse": "TEST"
+  },
+  {
+    "Lungs": "PROBLEM"
+  },
+  {
+    "Abdomen": "PROBLEM"
+  },
+  {
+    "His prostate check": "TEST"
+  },
+  {
+    "monofilament testing": "TEST"
+  },
+  {
+    "Diabetes mellitus": "PROBLEM"
+  },
+  {
+    "Neuropathy": "PROBLEM"
+  },
+  {
+    "cerebrovascular accident": "PROBLEM"
+  },
+  {
+    "medications": "DRUG"
+  },
+  {
+    "A1c": "TEST"
+  },
+  {
+    "BMP": "TEST"
+  },
+  {
+    "colonoscopy": "TEST"
+  },
+  {
+    "stools for occult blood": "TEST"
+  },
+  {
+    "PSA": "TEST"
+  },
+  {
+    "eye exams": "TEST"
+  },
+  {
+    "foot exams": "TEST"
+  },
+  {
+    "Accu-Cheks": "TEST"
+  },
+  {
+    "diabetes mellitus": "PROBLEM"
+  },
+  {
+    "neuropathy": "PROBLEM"
+  },
+  {
+    "post cerebrovascular accident": "PROBLEM"
+  },
+  {
+    "cerebrovascular accident": "PROBLEM"
+  },
+  {
+    "insulin": "DRUG"
+  }
+]

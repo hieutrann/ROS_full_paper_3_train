@@ -1,0 +1,41 @@
+[
+  {
+    "wheezing": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "asthma": "PROBLEM"
+  },
+  {
+    "prednisolone": "DRUG"
+  },
+  {
+    "bronchodilator": "DRUG"
+  },
+  {
+    "steroids": "DRUG"
+  },
+  {
+    "and shortness of breath": "TEST"
+  },
+  {
+    "exam": "TEST"
+  },
+  {
+    "Medical": "TREATMENT"
+  },
+  {
+    "pediatrics - neonatal": "TREATMENT"
+  },
+  {
+    "alternating day course": "TREATMENT"
+  },
+  {
+    "short burst": "TREATMENT"
+  }
+]

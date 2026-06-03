@@ -1,0 +1,59 @@
+[
+  {
+    "diabetes mellitus": "PROBLEM"
+  },
+  {
+    "cerebrovascular accident": "PROBLEM"
+  },
+  {
+    "neuropathy": "PROBLEM"
+  },
+  {
+    "A1c": "TEST"
+  },
+  {
+    "BMP": "TEST"
+  },
+  {
+    "Accu-Cheks": "TEST"
+  },
+  {
+    "colonoscopy": "TEST"
+  },
+  {
+    "PSA": "TEST"
+  },
+  {
+    "Accu-Cheks": "TEST"
+  },
+  {
+    "insulin": "DRUG"
+  },
+  {
+    "Accu-Cheks": "DRUG"
+  },
+  {
+    "colonoscopy": "TREATMENT"
+  },
+  {
+    "stools for occult blood": "TREATMENT"
+  },
+  {
+    "some missing dentition Skin Dry and": "TREATMENT"
+  },
+  {
+    "EMG studies": "TEST"
+  },
+  {
+    "yearly eye exams": "TREATMENT"
+  },
+  {
+    "foot exams": "TREATMENT"
+  },
+  {
+    "foot exams": "TREATMENT"
+  },
+  {
+    "yearly eye exams": "TREATMENT"
+  }
+]

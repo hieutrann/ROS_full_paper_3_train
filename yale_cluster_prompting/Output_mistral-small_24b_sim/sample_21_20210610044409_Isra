@@ -1,0 +1,146 @@
+[
+  {
+    "General Medicine": "TEST"
+  },
+  {
+    "Nausea": "PROBLEM"
+  },
+  {
+    "Vomiting": "PROBLEM"
+  },
+  {
+    "ER Visit Description": "TEST"
+  },
+  {
+    "intractable nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "blood-tinged vomit": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "blood-tinged vomit": "PROBLEM"
+  },
+  {
+    "alcohol": "DRUG"
+  },
+  {
+    "drugs": "DRUG"
+  },
+  {
+    "tobacco": "DRUG"
+  },
+  {
+    "sodium": "TEST"
+  },
+  {
+    "potassium": "TEST"
+  },
+  {
+    "ALT": "TEST"
+  },
+  {
+    "AST": "TEST"
+  },
+  {
+    "bilirubin": "TEST"
+  },
+  {
+    "ketones": "TEST"
+  },
+  {
+    "protein": "TEST"
+  },
+  {
+    "esterase": "TEST"
+  },
+  {
+    "rbc": "TEST"
+  },
+  {
+    "bacteria": "PROBLEM"
+  },
+  {
+    "H and H": "TEST"
+  },
+  {
+    "Phenergan": "DRUG"
+  },
+  {
+    "Zofran": "DRUG"
+  },
+  {
+    "IV": "TREATMENT"
+  },
+  {
+    "IV": "TREATMENT"
+  },
+  {
+    "hydration": "TREATMENT"
+  },
+  {
+    "Rocephin": "DRUG"
+  },
+  {
+    "bladder infection": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "Maalox": "DRUG"
+  },
+  {
+    "fluids": "TREATMENT"
+  },
+  {
+    "AST": "TEST"
+  },
+  {
+    "ALT": "TEST"
+  },
+  {
+    "hyperemesis gravidarum": "PROBLEM"
+  },
+  {
+    "IV hydration": "TREATMENT"
+  },
+  {
+    "ALT": "TEST"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "general medicine": "PROBLEM"
+  },
+  {
+    "iv hydration": "TREATMENT"
+  },
+  {
+    "elevated alt": "TEST"
+  },
+  {
+    "emergency": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  }
+]

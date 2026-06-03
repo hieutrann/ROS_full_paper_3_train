@@ -1,0 +1,83 @@
+[
+  {
+    "cerebrovascular accident": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "dementia": "PROBLEM"
+  },
+  {
+    "anxiety": "PROBLEM"
+  },
+  {
+    "urinary tract infection": "PROBLEM"
+  },
+  {
+    "abnormality of gait": "PROBLEM"
+  },
+  {
+    "E. coli": "PROBLEM"
+  },
+  {
+    "facial droop": "PROBLEM"
+  },
+  {
+    "right-sided weakness": "PROBLEM"
+  },
+  {
+    "CT scan of the head": "TEST"
+  },
+  {
+    "urinalysis": "TEST"
+  },
+  {
+    "culture": "TEST"
+  },
+  {
+    "Vasotec": "DRUG"
+  },
+  {
+    "amikacin": "DRUG"
+  },
+  {
+    "Lovenox": "DRUG"
+  },
+  {
+    "Ecotrin": "DRUG"
+  },
+  {
+    "Aricept": "DRUG"
+  },
+  {
+    "Diovan": "DRUG"
+  },
+  {
+    "multivitamin": "DRUG"
+  },
+  {
+    "calcium with vitamin D": "DRUG"
+  },
+  {
+    "Tylenol": "DRUG"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "swallowing evaluation": "TREATMENT"
+  },
+  {
+    "IV Vasotec": "TREATMENT"
+  },
+  {
+    "Lovenox subcutaneously": "TREATMENT"
+  },
+  {
+    "Ecotrin": "TREATMENT"
+  },
+  {
+    "Resume home medications": "TREATMENT"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "vital signs": "TEST"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "heart rate": "TEST"
+  },
+  {
+    "ptosis": "PROBLEM"
+  },
+  {
+    "Auscultation of the lung": "TEST"
+  },
+  {
+    "Auscultation of the heart": "TEST"
+  },
+  {
+    "murmur": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "rebound": "PROBLEM"
+  },
+  {
+    "guarding": "PROBLEM"
+  },
+  {
+    "enlarged liver or spleen": "PROBLEM"
+  },
+  {
+    "Bowel sounds": "TEST"
+  },
+  {
+    "mass": "PROBLEM"
+  },
+  {
+    "discharge": "PROBLEM"
+  },
+  {
+    "Deep tendon reflexes": "TEST"
+  }
+]

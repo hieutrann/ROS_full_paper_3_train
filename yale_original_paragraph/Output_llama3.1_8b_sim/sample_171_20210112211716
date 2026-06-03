@@ -1,0 +1,113 @@
+[
+  {
+    "Nonischemic cardiomyopathy": "PROBLEM"
+  },
+  {
+    "Branch vessel coronary artery disease": "PROBLEM"
+  },
+  {
+    "Congestive heart failure": "PROBLEM"
+  },
+  {
+    "Hypertension": "PROBLEM"
+  },
+  {
+    "Hepatitis C": "PROBLEM"
+  },
+  {
+    "CHF exacerbation": "PROBLEM"
+  },
+  {
+    "Shortness of breath": "PROBLEM"
+  },
+  {
+    "Orthopnea": "PROBLEM"
+  },
+  {
+    "PND": "PROBLEM"
+  },
+  {
+    "Right upper quadrant pain": "PROBLEM"
+  },
+  {
+    "Nausea": "PROBLEM"
+  },
+  {
+    "Vomiting": "PROBLEM"
+  },
+  {
+    "Joint pain": "PROBLEM"
+  },
+  {
+    "TIA": "PROBLEM"
+  },
+  {
+    "Seizure": "PROBLEM"
+  },
+  {
+    "Syncope": "PROBLEM"
+  },
+  {
+    "Cocaine": "PROBLEM"
+  },
+  {
+    "Pulse": "TEST"
+  },
+  {
+    "Blood pressure": "TEST"
+  },
+  {
+    "Weight": "TEST"
+  },
+  {
+    "Liver": "TEST"
+  },
+  {
+    "Pulse ox": "TEST"
+  },
+  {
+    "Lasix": "DRUG"
+  },
+  {
+    "Hydralazine": "DRUG"
+  },
+  {
+    "Toprol": "DRUG"
+  },
+  {
+    "Lisinopril": "DRUG"
+  },
+  {
+    "Aldactone": "DRUG"
+  },
+  {
+    "BMP": "TEST"
+  },
+  {
+    "Fasting lipid profile": "TEST"
+  },
+  {
+    "AST": "TEST"
+  },
+  {
+    "ALT": "TEST"
+  },
+  {
+    "Gastroenterologist": "TREATMENT"
+  },
+  {
+    "Primary care provider": "TREATMENT"
+  },
+  {
+    "surgical": "TREATMENT"
+  },
+  {
+    "fill": "TREATMENT"
+  },
+  {
+    "Medication changes": "TREATMENT"
+  },
+  {
+    "Gastroenterologist": "TREATMENT"
+  }
+]

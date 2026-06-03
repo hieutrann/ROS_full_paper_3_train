@@ -1,0 +1,167 @@
+[
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "acute COPD exacerbation": "PROBLEM"
+  },
+  {
+    "Chronic obstructive pulmonary disease": "PROBLEM"
+  },
+  {
+    "Pneumonia": "PROBLEM"
+  },
+  {
+    "Congestive heart failure": "PROBLEM"
+  },
+  {
+    "Diabetes mellitus": "PROBLEM"
+  },
+  {
+    "Neuropathy": "PROBLEM"
+  },
+  {
+    "Anxiety": "PROBLEM"
+  },
+  {
+    "Hypothyroidism": "PROBLEM"
+  },
+  {
+    "Depression": "PROBLEM"
+  },
+  {
+    "Hypertension": "PROBLEM"
+  },
+  {
+    "Severe chronic obstructive pulmonary disease": "PROBLEM"
+  },
+  {
+    "Altered mental status": "PROBLEM"
+  },
+  {
+    "Lower gastrointestinal bleed": "PROBLEM"
+  },
+  {
+    "atrial fibrillation": "PROBLEM"
+  },
+  {
+    "diverticular bleed": "PROBLEM"
+  },
+  {
+    "Albuterol inhaler": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Cardizem CD": "DRUG"
+  },
+  {
+    "Colace": "DRUG"
+  },
+  {
+    "Iron sulfate": "DRUG"
+  },
+  {
+    "NPH": "DRUG"
+  },
+  {
+    "Atrovent inhaler": "DRUG"
+  },
+  {
+    "Statin": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Prednisone": "DRUG"
+  },
+  {
+    "Darvocet Darvocet-N": "DRUG"
+  },
+  {
+    "Metamucil": "DRUG"
+  },
+  {
+    "Synthroid": "DRUG"
+  },
+  {
+    "Nexium": "DRUG"
+  },
+  {
+    "BiPAP": "TREATMENT"
+  },
+  {
+    "bronchitis": "PROBLEM"
+  },
+  {
+    "antibiotics": "DRUG"
+  },
+  {
+    "acute lower GI bleed": "PROBLEM"
+  },
+  {
+    "transfused packed red blood cells": "TREATMENT"
+  },
+  {
+    "endoscopy": "TEST"
+  },
+  {
+    "diverticular disease": "PROBLEM"
+  },
+  {
+    "sigmoid colon": "PROBLEM"
+  },
+  {
+    "hemorrhage": "PROBLEM"
+  },
+  {
+    "Plavix": "DRUG"
+  },
+  {
+    "Lovenox": "DRUG"
+  },
+  {
+    "chronic obstructive pulmonary disease": "PROBLEM"
+  },
+  {
+    "pneumonia": "PROBLEM"
+  },
+  {
+    "congestive heart failure": "PROBLEM"
+  },
+  {
+    "diabetes mellitus": "PROBLEM"
+  },
+  {
+    "neuropathy": "PROBLEM"
+  },
+  {
+    "anxiety": "PROBLEM"
+  },
+  {
+    "hypothyroidism": "PROBLEM"
+  },
+  {
+    "depression": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "obstructive pulmonary disease": "PROBLEM"
+  },
+  {
+    "pulmonary disease": "PROBLEM"
+  },
+  {
+    "copd": "PROBLEM"
+  },
+  {
+    "exacerbation": "PROBLEM"
+  }
+]

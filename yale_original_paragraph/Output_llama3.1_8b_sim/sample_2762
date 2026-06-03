@@ -1,0 +1,152 @@
+[
+  {
+    "Seizure": "PROBLEM"
+  },
+  {
+    "hypoglycemia": "PROBLEM"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "dyspnea": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "colon cancer": "PROBLEM"
+  },
+  {
+    "hospital-acquired pneumonia": "PROBLEM"
+  },
+  {
+    "congestive heart failure": "PROBLEM"
+  },
+  {
+    "seizure disorder": "PROBLEM"
+  },
+  {
+    "diabetes mellitus": "PROBLEM"
+  },
+  {
+    "previous MI": "PROBLEM"
+  },
+  {
+    "coronary artery disease": "PROBLEM"
+  },
+  {
+    "GERD": "PROBLEM"
+  },
+  {
+    "bipolar disorder": "PROBLEM"
+  },
+  {
+    "diabetic gastroparesis": "PROBLEM"
+  },
+  {
+    "MRSA": "PROBLEM"
+  },
+  {
+    "Nitro-Dur": "DRUG"
+  },
+  {
+    "Phenergan": "DRUG"
+  },
+  {
+    "Synthroid": "DRUG"
+  },
+  {
+    "Zyrtec": "DRUG"
+  },
+  {
+    "Lamictal": "DRUG"
+  },
+  {
+    "Ferrous sulfate": "DRUG"
+  },
+  {
+    "Nexium": "DRUG"
+  },
+  {
+    "Neurontin": "DRUG"
+  },
+  {
+    "Lasix": "DRUG"
+  },
+  {
+    "Fentanyl": "DRUG"
+  },
+  {
+    "Calcium and vitamin D combination": "DRUG"
+  },
+  {
+    "Bactrim": "DRUG"
+  },
+  {
+    "Levaquin": "DRUG"
+  },
+  {
+    "Coreg": "DRUG"
+  },
+  {
+    "Lipitor": "DRUG"
+  },
+  {
+    "vancomycin": "DRUG"
+  },
+  {
+    "Zosyn": "DRUG"
+  },
+  {
+    "Levaquin": "DRUG"
+  },
+  {
+    "Colonoscopy": "TEST"
+  },
+  {
+    "Right hemicolectomy": "TEST"
+  },
+  {
+    "Noncontrast CT of the head": "TEST"
+  },
+  {
+    "CT of the abdomen and pelvis": "TEST"
+  },
+  {
+    "CT of the chest": "TEST"
+  },
+  {
+    "Serial chest x-rays": "TEST"
+  },
+  {
+    "CBC with diff": "TEST"
+  },
+  {
+    "CMP": "TEST"
+  },
+  {
+    "Colonoscopy": "TREATMENT"
+  },
+  {
+    "Right hemicolectomy": "TREATMENT"
+  },
+  {
+    "Surgery": "TREATMENT"
+  },
+  {
+    "Lamictal": "TREATMENT"
+  },
+  {
+    "Insulin pump": "TREATMENT"
+  },
+  {
+    "Zosyn": "TREATMENT"
+  },
+  {
+    "Levaquin": "TREATMENT"
+  },
+  {
+    "vancomycin": "TREATMENT"
+  }
+]

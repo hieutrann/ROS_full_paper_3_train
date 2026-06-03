@@ -1,0 +1,212 @@
+[
+  {
+    "Seizure": "PROBLEM"
+  },
+  {
+    "hypoglycemia": "PROBLEM"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "dyspnea": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "colon cancer": "PROBLEM"
+  },
+  {
+    "right hemicolectomy": "TREATMENT"
+  },
+  {
+    "hospital-acquired pneumonia": "PROBLEM"
+  },
+  {
+    "congestive heart failure": "PROBLEM"
+  },
+  {
+    "Hypoglycemia": "PROBLEM"
+  },
+  {
+    "Anemia": "PROBLEM"
+  },
+  {
+    "Hypotension": "PROBLEM"
+  },
+  {
+    "Dyspnea": "PROBLEM"
+  },
+  {
+    "Edema": "PROBLEM"
+  },
+  {
+    "Colon cancer": "PROBLEM"
+  },
+  {
+    "Hospital-acquired pneumonia": "PROBLEM"
+  },
+  {
+    "Hypertension": "PROBLEM"
+  },
+  {
+    "Congestive heart failure": "PROBLEM"
+  },
+  {
+    "Seizure disorder": "PROBLEM"
+  },
+  {
+    "Colonoscopy": "TEST"
+  },
+  {
+    "Right hemicolectomy": "TREATMENT"
+  },
+  {
+    "diabetes mellitus": "PROBLEM"
+  },
+  {
+    "insulin": "DRUG"
+  },
+  {
+    "MI": "PROBLEM"
+  },
+  {
+    "coronary artery disease": "PROBLEM"
+  },
+  {
+    "seizure disorder": "PROBLEM"
+  },
+  {
+    "GERD": "PROBLEM"
+  },
+  {
+    "bipolar disorder": "PROBLEM"
+  },
+  {
+    "seizure": "PROBLEM"
+  },
+  {
+    "myoclonic jerks": "PROBLEM"
+  },
+  {
+    "Noncontrast CT of the head": "TEST"
+  },
+  {
+    "Lamictal": "DRUG"
+  },
+  {
+    "diabetic gastroparesis": "PROBLEM"
+  },
+  {
+    "J-tube intermittent feedings": "TREATMENT"
+  },
+  {
+    "insulin pump": "TREATMENT"
+  },
+  {
+    "hyperglycemia": "PROBLEM"
+  },
+  {
+    "insulin pump rate": "TREATMENT"
+  },
+  {
+    "NovoLog": "DRUG"
+  },
+  {
+    "Hemoccult stools": "TEST"
+  },
+  {
+    "colonoscopy": "TEST"
+  },
+  {
+    "mass at the right hepatic flexure": "PROBLEM"
+  },
+  {
+    "cancer": "PROBLEM"
+  },
+  {
+    "CT of the abdomen and pelvis": "TEST"
+  },
+  {
+    "metastasis": "PROBLEM"
+  },
+  {
+    "CT of the chest": "TEST"
+  },
+  {
+    "lung metastasis": "PROBLEM"
+  },
+  {
+    "Zosyn": "DRUG"
+  },
+  {
+    "Levaquin": "DRUG"
+  },
+  {
+    "vancomycin": "DRUG"
+  },
+  {
+    "chest x-rays": "TEST"
+  },
+  {
+    "MRSA bacteria": "PROBLEM"
+  },
+  {
+    "Bactrim DS": "DRUG"
+  },
+  {
+    "MRSA": "PROBLEM"
+  },
+  {
+    "Bactrim": "DRUG"
+  },
+  {
+    "Coreg": "DRUG"
+  },
+  {
+    "Lasix": "DRUG"
+  },
+  {
+    "Lipitor": "DRUG"
+  },
+  {
+    "high cholesterol": "PROBLEM"
+  },
+  {
+    "Nitro-Dur patch": "DRUG"
+  },
+  {
+    "Phenergan syrup": "DRUG"
+  },
+  {
+    "Synthroid": "DRUG"
+  },
+  {
+    "Zyrtec": "DRUG"
+  },
+  {
+    "Ferrous sulfate": "DRUG"
+  },
+  {
+    "Nexium": "DRUG"
+  },
+  {
+    "Neurontin": "DRUG"
+  },
+  {
+    "Fentanyl": "DRUG"
+  },
+  {
+    "calcium and vitamin D combination": "DRUG"
+  },
+  {
+    "CBC with diff": "TEST"
+  },
+  {
+    "CMP": "TEST"
+  },
+  {
+    "lymph nodes": "PROBLEM"
+  }
+]

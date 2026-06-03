@@ -1,0 +1,83 @@
+[
+  {
+    "Hyperglycemia": "PROBLEM"
+  },
+  {
+    "cholelithiasis": "PROBLEM"
+  },
+  {
+    "obstructive sleep apnea": "PROBLEM"
+  },
+  {
+    "diabetes mellitus": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "cholecystitis": "PROBLEM"
+  },
+  {
+    "Laparoscopic cholecystectomy": "TREATMENT"
+  },
+  {
+    "Surgery": "TREATMENT"
+  },
+  {
+    "morbid obesity": "PROBLEM"
+  },
+  {
+    "diabetes": "PROBLEM"
+  },
+  {
+    "obstructive sleep apnea": "PROBLEM"
+  },
+  {
+    "cholelithiasis": "PROBLEM"
+  },
+  {
+    "diabetes": "PROBLEM"
+  },
+  {
+    "hyperglycemia": "PROBLEM"
+  },
+  {
+    "sugar": "TEST"
+  },
+  {
+    "insulin drip": "DRUG"
+  },
+  {
+    "sugars": "TEST"
+  },
+  {
+    "laparoscopic cholecystectomy": "TREATMENT"
+  },
+  {
+    "chronic cholecystitis": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "adhesions": "PROBLEM"
+  },
+  {
+    "blood sugar": "TEST"
+  },
+  {
+    "sliding scale insulin": "DRUG"
+  },
+  {
+    "Medifast diet": "TREATMENT"
+  },
+  {
+    "blood glucose": "TEST"
+  },
+  {
+    "CPAP machine": "TREATMENT"
+  },
+  {
+    "sugars": "TEST"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "foreign body": "PROBLEM"
+  },
+  {
+    "left eye": "PROBLEM"
+  },
+  {
+    "pain": "PROBLEM"
+  },
+  {
+    "blurriness of vision": "PROBLEM"
+  },
+  {
+    "photophobia": "PROBLEM"
+  },
+  {
+    "foreign body sensation": "PROBLEM"
+  },
+  {
+    "foreign body OS": "PROBLEM"
+  },
+  {
+    "Vital signs": "TEST"
+  },
+  {
+    "Blood pressure": "TEST"
+  },
+  {
+    "respirations": "TEST"
+  },
+  {
+    "pulse": "TEST"
+  },
+  {
+    "temperature": "TEST"
+  },
+  {
+    "Visual acuity": "TEST"
+  },
+  {
+    "slit lamp examination": "TEST"
+  },
+  {
+    "surgeries": "TREATMENT"
+  },
+  {
+    "pressure patch": "TREATMENT"
+  },
+  {
+    "closing visit": "TREATMENT"
+  }
+]

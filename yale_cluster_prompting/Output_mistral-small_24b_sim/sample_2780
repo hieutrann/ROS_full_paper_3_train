@@ -1,0 +1,308 @@
+[
+  {
+    "Pancreatic": "PROBLEM"
+  },
+  {
+    "left adrenal": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "adrenal lesion": "PROBLEM"
+  },
+  {
+    "lesion": "PROBLEM"
+  },
+  {
+    "adenoma": "PROBLEM"
+  },
+  {
+    "pancreatic lesion": "PROBLEM"
+  },
+  {
+    "cystic lesion": "PROBLEM"
+  },
+  {
+    "neoplasm": "PROBLEM"
+  },
+  {
+    "pancreatic": "PROBLEM"
+  },
+  {
+    "left adrenal": "PROBLEM"
+  },
+  {
+    "pancreatic lesion": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "left adrenal gland": "PROBLEM"
+  },
+  {
+    "difficulty": "PROBLEM"
+  },
+  {
+    "suffocating feeling": "PROBLEM"
+  },
+  {
+    "recline": "PROBLEM"
+  },
+  {
+    "upright position": "TREATMENT"
+  },
+  {
+    "CAT scan": "TEST"
+  },
+  {
+    "CAT scan": "TEST"
+  },
+  {
+    "pneumonitis": "PROBLEM"
+  },
+  {
+    "left adrenal nodule": "PROBLEM"
+  },
+  {
+    "pancreatic lesion": "PROBLEM"
+  },
+  {
+    "CAT scan": "TEST"
+  },
+  {
+    "MRI": "TEST"
+  },
+  {
+    "CAT scan": "TEST"
+  },
+  {
+    "lesion": "PROBLEM"
+  },
+  {
+    "adenoma": "PROBLEM"
+  },
+  {
+    "pancreatic lesion": "PROBLEM"
+  },
+  {
+    "Neoplasm": "PROBLEM"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "bowel habits": "PROBLEM"
+  },
+  {
+    "rectal bleeding": "PROBLEM"
+  },
+  {
+    "melena": "PROBLEM"
+  },
+  {
+    "colonoscopy": "TEST"
+  },
+  {
+    "adenomatous polyps": "PROBLEM"
+  },
+  {
+    "frequent urination": "PROBLEM"
+  },
+  {
+    "pancreatic cancer": "PROBLEM"
+  },
+  {
+    "gallstone pancreatitis": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "type 2 diabetes mellitus": "PROBLEM"
+  },
+  {
+    "asthma": "PROBLEM"
+  },
+  {
+    "high cholesterol": "PROBLEM"
+  },
+  {
+    "ENVIRONMENTAL": "PROBLEM"
+  },
+  {
+    "glipizide": "DRUG"
+  },
+  {
+    "metformin": "DRUG"
+  },
+  {
+    "Atacand": "DRUG"
+  },
+  {
+    "metoprolol": "DRUG"
+  },
+  {
+    "Lipitor": "DRUG"
+  },
+  {
+    "pantoprazole": "DRUG"
+  },
+  {
+    "Flomax": "DRUG"
+  },
+  {
+    "Detrol": "DRUG"
+  },
+  {
+    "Zyrtec": "DRUG"
+  },
+  {
+    "Advair Diskus": "DRUG"
+  },
+  {
+    "fluticasone spray": "DRUG"
+  },
+  {
+    "surgery": "TREATMENT"
+  },
+  {
+    "prostate cancer": "PROBLEM"
+  },
+  {
+    "brain cancer": "PROBLEM"
+  },
+  {
+    "Heart disease": "PROBLEM"
+  },
+  {
+    "diabetes": "PROBLEM"
+  },
+  {
+    "ETOH": "DRUG"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "GI problems": "PROBLEM"
+  },
+  {
+    "urination": "PROBLEM"
+  },
+  {
+    "bleeding disorders": "PROBLEM"
+  },
+  {
+    "bleeding history": "PROBLEM"
+  },
+  {
+    "PHYSICAL EXAMINATION": "TEST"
+  },
+  {
+    "mass": "PROBLEM"
+  },
+  {
+    "adenopathy": "PROBLEM"
+  },
+  {
+    "bruit": "PROBLEM"
+  },
+  {
+    "CHEST": "TEST"
+  },
+  {
+    "LUNGS": "TEST"
+  },
+  {
+    "S3": "TEST"
+  },
+  {
+    "S4": "TEST"
+  },
+  {
+    "heart sounds": "TEST"
+  },
+  {
+    "Obese": "PROBLEM"
+  },
+  {
+    "recline": "PROBLEM"
+  },
+  {
+    "Bowel sounds": "PROBLEM"
+  },
+  {
+    "pitting edema": "PROBLEM"
+  },
+  {
+    "focal deficits": "PROBLEM"
+  },
+  {
+    "adrenal": "PROBLEM"
+  },
+  {
+    "pancreatic": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "adrenal lesion": "PROBLEM"
+  },
+  {
+    "lesion": "PROBLEM"
+  },
+  {
+    "adenoma": "PROBLEM"
+  },
+  {
+    "pancreatic lesion": "PROBLEM"
+  },
+  {
+    "lesion": "PROBLEM"
+  },
+  {
+    "neoplasm": "PROBLEM"
+  },
+  {
+    "ERCP": "TEST"
+  },
+  {
+    "biopsy": "TEST"
+  },
+  {
+    "x-rays": "TEST"
+  },
+  {
+    "operative intervention": "TREATMENT"
+  },
+  {
+    "esophagogastroduodenoscopy": "TEST"
+  },
+  {
+    "pancreatic": "PROBLEM"
+  },
+  {
+    "adrenal": "PROBLEM"
+  },
+  {
+    "lesion": "PROBLEM"
+  },
+  {
+    "ercp": "TEST"
+  },
+  {
+    "esophagogastroduodenoscopy": "TEST"
+  }
+]

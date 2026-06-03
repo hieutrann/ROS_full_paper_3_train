@@ -1,0 +1,56 @@
+[
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "umbilical hernia": "PROBLEM"
+  },
+  {
+    "hemorrhoidectomy": "PROBLEM"
+  },
+  {
+    "depression": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "Ziac": "DRUG"
+  },
+  {
+    "Remeron": "DRUG"
+  },
+  {
+    "EKG": "TEST"
+  },
+  {
+    "chest x-ray": "TEST"
+  },
+  {
+    "abdominal x-rays": "TEST"
+  },
+  {
+    "electrolytes": "TEST"
+  },
+  {
+    "creatinine": "TEST"
+  },
+  {
+    "white count": "TEST"
+  },
+  {
+    "hematocrit": "TEST"
+  },
+  {
+    "platelet count": "TEST"
+  },
+  {
+    "incarcerated umbilical hernia": "TREATMENT"
+  },
+  {
+    "repair with mesh": "TREATMENT"
+  }
+]

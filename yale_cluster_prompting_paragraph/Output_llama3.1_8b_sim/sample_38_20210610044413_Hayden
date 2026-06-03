@@ -1,0 +1,71 @@
+[
+  {
+    "pancreatic mass": "PROBLEM"
+  },
+  {
+    "jaundice": "PROBLEM"
+  },
+  {
+    "epigastric pain": "PROBLEM"
+  },
+  {
+    "pancreatic mass": "PROBLEM"
+  },
+  {
+    "liver metastases": "PROBLEM"
+  },
+  {
+    "pseudocyst": "PROBLEM"
+  },
+  {
+    "strictured pancreatic duct": "PROBLEM"
+  },
+  {
+    "strictured bile duct": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "there are signs": "TEST"
+  },
+  {
+    "CT scan": "TEST"
+  },
+  {
+    "ERCP": "TEST"
+  },
+  {
+    "Zofran": "DRUG"
+  },
+  {
+    "Phenergan": "DRUG"
+  },
+  {
+    "oral hypoglycemics": "DRUG"
+  },
+  {
+    "insulin": "DRUG"
+  },
+  {
+    "Duragesic patch": "DRUG"
+  },
+  {
+    "Benadryl": "DRUG"
+  },
+  {
+    "enalapril": "DRUG"
+  },
+  {
+    "stent": "TREATMENT"
+  },
+  {
+    "placement of a stent": "TREATMENT"
+  },
+  {
+    "chemotherapy": "TREATMENT"
+  },
+  {
+    "ERCP": "TREATMENT"
+  }
+]

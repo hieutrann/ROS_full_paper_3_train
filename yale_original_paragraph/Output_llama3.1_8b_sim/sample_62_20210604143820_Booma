@@ -1,0 +1,83 @@
+[
+  {
+    "Nausea": "PROBLEM"
+  },
+  {
+    "feeling faint": "PROBLEM"
+  },
+  {
+    "weakness": "PROBLEM"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "hyponatremia": "PROBLEM"
+  },
+  {
+    "COPD": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "Diovan": "DRUG"
+  },
+  {
+    "estradiol": "DRUG"
+  },
+  {
+    "Norvasc": "DRUG"
+  },
+  {
+    "Wellbutrin SR": "DRUG"
+  },
+  {
+    "albuterol": "DRUG"
+  },
+  {
+    "albuterol unit dose small volume nebulizer treatment": "TREATMENT"
+  },
+  {
+    "normal saline": "DRUG"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "normal saline lock": "TREATMENT"
+  },
+  {
+    "rectal examination": "TEST"
+  },
+  {
+    "WBC": "TEST"
+  },
+  {
+    "differential": "TEST"
+  },
+  {
+    "hemoglobin": "TEST"
+  },
+  {
+    "hematocrit": "TEST"
+  },
+  {
+    "comprehensive medical profile": "TEST"
+  },
+  {
+    "clean catch urinalysis": "TEST"
+  },
+  {
+    "chest x-ray": "TEST"
+  },
+  {
+    "STUDIES O2 sat on room air is 92%": "TEST"
+  },
+  {
+    "monitor": "TEST"
+  },
+  {
+    "rectal secretions": "TEST"
+  }
+]
