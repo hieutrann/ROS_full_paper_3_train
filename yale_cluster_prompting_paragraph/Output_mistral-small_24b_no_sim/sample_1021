@@ -1,18 +1,12 @@
 [
   {
-    "Radiology": "TEST"
-  },
-  {
-    "Full-Field Digital Mammogram": "TEST"
-  },
-  {
-    "Bilateral Screening Mammogram": "TEST"
-  },
-  {
-    "Full-Field Digital Mammography": "TEST"
+    "Bilateral Screening Mammogram Full-Field Digital Mammography": "TEST"
   },
   {
     "Digital screening mammogram": "TEST"
+  },
+  {
+    "screening mammography": "TEST"
   },
   {
     "breast cancer": "PROBLEM"
@@ -21,31 +15,7 @@
     "craniocaudal": "TEST"
   },
   {
-    "mediolateral": "TEST"
-  },
-  {
-    "bilateral": "TEST"
-  },
-  {
-    "breasts": "TEST"
-  },
-  {
-    "mammography": "TEST"
-  },
-  {
-    "mammogram": "TEST"
-  },
-  {
-    "mammographic": "TEST"
-  },
-  {
-    "screening mammogram": "TEST"
-  },
-  {
-    "screening": "TEST"
-  },
-  {
-    "fibroglandular": "PROBLEM"
+    "mediolateral oblique": "TEST"
   },
   {
     "calcifications": "PROBLEM"
@@ -60,13 +30,16 @@
     "malignant-type calcifications": "PROBLEM"
   },
   {
-    "skin": "PROBLEM"
+    "Stable and benign mammographic findings": "PROBLEM"
   },
   {
-    "BIRADS Classification 2": "TEST"
+    "mammographic screening": "TEST"
   },
   {
     "cancers": "PROBLEM"
+  },
+  {
+    "mammography": "TEST"
   },
   {
     "biopsy": "TREATMENT"
@@ -75,9 +48,45 @@
     "mass": "PROBLEM"
   },
   {
-    "mammography equipment": "TEST"
+    "digital mammography": "TEST"
   },
   {
     "iCAD SecondLook Software Version 7.2": "TEST"
+  },
+  {
+    "radiology": "TEST"
+  },
+  {
+    "mediolateral": "TEST"
+  },
+  {
+    "craniocaudal": "TEST"
+  },
+  {
+    "fibroglandular": "PROBLEM"
+  },
+  {
+    "bilateral screening mammogram": "TEST"
+  },
+  {
+    "breast cancer": "PROBLEM"
+  },
+  {
+    "screening mammogram": "TEST"
+  },
+  {
+    "mammographic": "TEST"
+  },
+  {
+    "mammogram": "TEST"
+  },
+  {
+    "breasts": "PROBLEM"
+  },
+  {
+    "screening": "TEST"
+  },
+  {
+    "mammography": "TEST"
   }
 ]

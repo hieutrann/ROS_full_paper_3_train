@@ -1,18 +1,18 @@
 [
   {
-    "Itchy Rash": "PROBLEM"
+    "itchy rash": "PROBLEM"
   },
   {
     "itchiness": "PROBLEM"
   },
   {
-    "itchy rash": "PROBLEM"
-  },
-  {
     "facial swelling": "PROBLEM"
   },
   {
-    "tongue or lip swelling": "PROBLEM"
+    "tongue swelling": "PROBLEM"
+  },
+  {
+    "lip swelling": "PROBLEM"
   },
   {
     "shortness of breath": "PROBLEM"
@@ -21,13 +21,13 @@
     "wheezing": "PROBLEM"
   },
   {
+    "back surgery": "TREATMENT"
+  },
+  {
     "appendectomy": "TREATMENT"
   },
   {
     "oropharyngeal swelling": "PROBLEM"
-  },
-  {
-    "lip or tongue swelling": "PROBLEM"
   },
   {
     "headache": "PROBLEM"
@@ -51,13 +51,16 @@
     "tachycardic": "PROBLEM"
   },
   {
+    "blood pressure": "TEST"
+  },
+  {
+    "respiratory rate": "TEST"
+  },
+  {
     "stridor": "PROBLEM"
   },
   {
-    "murmur": "PROBLEM"
-  },
-  {
-    "tachycardia": "PROBLEM"
+    "wheezing": "PROBLEM"
   },
   {
     "erythematous, blanching rash": "PROBLEM"
@@ -96,12 +99,9 @@
     "lip swelling": "PROBLEM"
   },
   {
-    "swelling": "PROBLEM"
+    "allergic reaction": "PROBLEM"
   },
   {
-    "itchy": "PROBLEM"
-  },
-  {
-    "rash": "PROBLEM"
+    "itchy rash": "PROBLEM"
   }
 ]

@@ -15,9 +15,6 @@
     "congestive heart failure": "PROBLEM"
   },
   {
-    "NYHA Class III": "PROBLEM"
-  },
-  {
     "nonsustained ventricular tachycardia": "PROBLEM"
   },
   {
@@ -34,9 +31,6 @@
   },
   {
     "Congestive heart failure": "PROBLEM"
-  },
-  {
-    "NYHA Class III": "PROBLEM"
   },
   {
     "nonsustained ventricular tachycardia": "PROBLEM"
@@ -93,10 +87,10 @@
     "syncope": "PROBLEM"
   },
   {
-    "smoking": "PROBLEM"
+    "cocaine": "DRUG"
   },
   {
-    "cocaine": "DRUG"
+    "medications": "DRUG"
   },
   {
     "Pulse": "TEST"
@@ -115,9 +109,6 @@
   },
   {
     "cyanosis": "PROBLEM"
-  },
-  {
-    "NECK": "TEST"
   },
   {
     "Jugular venous distention": "PROBLEM"
@@ -150,7 +141,7 @@
     "S4": "PROBLEM"
   },
   {
-    "Liver": "TEST"
+    "Liver is palpable": "PROBLEM"
   },
   {
     "clubbing": "PROBLEM"

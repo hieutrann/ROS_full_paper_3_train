@@ -1,0 +1,269 @@
+[
+  {
+    "Anemia - Consult": "PROBLEM"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "hemoglobin": "TEST"
+  },
+  {
+    "transfusion": "TREATMENT"
+  },
+  {
+    "Refractory anemia that is transfusion dependent": "PROBLEM"
+  },
+  {
+    "blood transfusion": "TEST"
+  },
+  {
+    "diabetes": "PROBLEM"
+  },
+  {
+    "comorbid complications of the diabetes": "PROBLEM"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "hemoglobin": "TEST"
+  },
+  {
+    "transfusion": "TREATMENT"
+  },
+  {
+    "blood transfusion": "TEST"
+  },
+  {
+    "B12": "DRUG"
+  },
+  {
+    "oral iron": "DRUG"
+  },
+  {
+    "Procrit": "DRUG"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "fatigue": "PROBLEM"
+  },
+  {
+    "malaise": "PROBLEM"
+  },
+  {
+    "dyspnea": "PROBLEM"
+  },
+  {
+    "adenopathy": "PROBLEM"
+  },
+  {
+    "bone pain": "PROBLEM"
+  },
+  {
+    "arthralgias": "PROBLEM"
+  },
+  {
+    "myalgias": "PROBLEM"
+  },
+  {
+    "Diabetes": "PROBLEM"
+  },
+  {
+    "Hernia repair": "PROBLEM"
+  },
+  {
+    "no allergies": "PROBLEM"
+  },
+  {
+    "Coumadin": "DRUG"
+  },
+  {
+    "Lasix": "DRUG"
+  },
+  {
+    "metformin": "DRUG"
+  },
+  {
+    "folic acid": "DRUG"
+  },
+  {
+    "diltiazem": "DRUG"
+  },
+  {
+    "B12": "DRUG"
+  },
+  {
+    "Prevacid": "DRUG"
+  },
+  {
+    "Feosol": "DRUG"
+  },
+  {
+    "tobacco user": "PROBLEM"
+  },
+  {
+    "He does not drink.": "PROBLEM"
+  },
+  {
+    "blood or cancer disorders": "PROBLEM"
+  },
+  {
+    "GENERAL": "PROBLEM"
+  },
+  {
+    "alert and oriented": "PROBLEM"
+  },
+  {
+    "Blood pressure of 110/60": "TEST"
+  },
+  {
+    "pulse of 99": "TEST"
+  },
+  {
+    "respiratory rate of 14": "TEST"
+  },
+  {
+    "temperature of 97.4": "TEST"
+  },
+  {
+    "69 inches": "TEST"
+  },
+  {
+    "174 pounds": "TEST"
+  },
+  {
+    "arcus senilis": "PROBLEM"
+  },
+  {
+    "Pupils are equally round and reactive to light": "TEST"
+  },
+  {
+    "Extraocular movements": "TEST"
+  },
+  {
+    "Oropharynx": "PROBLEM"
+  },
+  {
+    "NECK: Supple.": "PROBLEM"
+  },
+  {
+    "Trachea is midline.": "TEST"
+  },
+  {
+    "jugular venous pressure distention": "PROBLEM"
+  },
+  {
+    "adenopathy": "PROBLEM"
+  },
+  {
+    "CHEST": "PROBLEM"
+  },
+  {
+    "HEART": "TEST"
+  },
+  {
+    "Soft and nontender": "PROBLEM"
+  },
+  {
+    "fullness": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "NEUROLOGIC": "PROBLEM"
+  },
+  {
+    "DERMATOLOGIC": "PROBLEM"
+  },
+  {
+    "CARDIOVASCULAR": "PROBLEM"
+  },
+  {
+    "refractory anemia": "PROBLEM"
+  },
+  {
+    "B12": "DRUG"
+  },
+  {
+    "iron": "DRUG"
+  },
+  {
+    "folic acid": "DRUG"
+  },
+  {
+    "Procrit": "DRUG"
+  },
+  {
+    "esophagogastroduodenoscopy": "TEST"
+  },
+  {
+    "creatinine": "TEST"
+  },
+  {
+    "myelodysplastic syndrome": "PROBLEM"
+  },
+  {
+    "bone marrow failure": "PROBLEM"
+  },
+  {
+    "creatinine": "TEST"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "serologic evaluation": "TEST"
+  },
+  {
+    "reticulocyte count": "TEST"
+  },
+  {
+    "serum protein": "TEST"
+  },
+  {
+    "electrophoresis": "TEST"
+  },
+  {
+    "LDH": "TEST"
+  },
+  {
+    "B12": "TEST"
+  },
+  {
+    "folate": "TEST"
+  },
+  {
+    "erythropoietin level": "TEST"
+  },
+  {
+    "bone marrow aspiration and biopsy": "TREATMENT"
+  },
+  {
+    "refractory anemia": "PROBLEM"
+  },
+  {
+    "therapeutic interventions": "TREATMENT"
+  },
+  {
+    "ultrasound of his abdomen": "TEST"
+  },
+  {
+    "refractory anemia": "PROBLEM"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "myalgias": "PROBLEM"
+  },
+  {
+    "bone marrow": "PROBLEM"
+  },
+  {
+    "bone": "PROBLEM"
+  }
+]

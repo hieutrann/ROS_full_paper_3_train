@@ -1,0 +1,119 @@
+[
+  {
+    "cold symptoms": "PROBLEM"
+  },
+  {
+    "bronchitis": "PROBLEM"
+  },
+  {
+    "antibiotics": "DRUG"
+  },
+  {
+    "Acute respiratory failure": "PROBLEM"
+  },
+  {
+    "Severe bronchitis": "PROBLEM"
+  },
+  {
+    "acute respiratory failure": "PROBLEM"
+  },
+  {
+    "Acute on chronic renal failure": "PROBLEM"
+  },
+  {
+    "Severe hypertension": "PROBLEM"
+  },
+  {
+    "Diastolic dysfunction": "PROBLEM"
+  },
+  {
+    "X-ray": "TEST"
+  },
+  {
+    "pro-BNP": "TEST"
+  },
+  {
+    "Hyperlipidemia": "PROBLEM"
+  },
+  {
+    "cardiac catheterization": "TEST"
+  },
+  {
+    "coronary artery disease": "PROBLEM"
+  },
+  {
+    "carcinoma of the breast": "PROBLEM"
+  },
+  {
+    "right nephrectomy": "TREATMENT"
+  },
+  {
+    "Allergic rhinitis": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "wheezing": "PROBLEM"
+  },
+  {
+    "crepitations": "PROBLEM"
+  },
+  {
+    "X-rays": "TEST"
+  },
+  {
+    "congestion": "PROBLEM"
+  },
+  {
+    "infiltrates": "PROBLEM"
+  },
+  {
+    "pro-BNP": "TEST"
+  },
+  {
+    "MRSA": "PROBLEM"
+  },
+  {
+    "IV steroids": "DRUG"
+  },
+  {
+    "IV Lasix": "DRUG"
+  },
+  {
+    "nasal congestion": "PROBLEM"
+  },
+  {
+    "steroid nasal spray": "DRUG"
+  },
+  {
+    "beta blockers": "DRUG"
+  },
+  {
+    "diastolic dysfunction": "PROBLEM"
+  },
+  {
+    "IV steroids": "DRUG"
+  },
+  {
+    "oral steroids": "DRUG"
+  },
+  {
+    "Metoprolol": "DRUG"
+  },
+  {
+    "Simvastatin": "DRUG"
+  },
+  {
+    "Prednisone": "DRUG"
+  },
+  {
+    "Flonase nasal spray": "DRUG"
+  },
+  {
+    "oximetry": "TEST"
+  },
+  {
+    "home oxygen": "TREATMENT"
+  }
+]

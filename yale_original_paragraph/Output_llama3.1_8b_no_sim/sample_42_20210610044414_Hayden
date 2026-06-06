@@ -12,9 +12,21 @@
     "Menorrhagia": "PROBLEM"
   },
   {
+    "Vicodin": "DRUG"
+  },
+  {
+    "Ultrasound": "TEST"
+  },
+  {
+    "Hemoglobin": "TEST"
+  },
+  {
     "Total vaginal hysterectomy": "TREATMENT"
   },
   {
-    "Vicodin": "DRUG"
+    "Tubal ligation": "TREATMENT"
+  },
+  {
+    "Oral contraceptives": "TREATMENT"
   }
 ]

@@ -3,7 +3,7 @@
     "Diabetes Mellitus": "PROBLEM"
   },
   {
-    "diabetes mellitus": "PROBLEM"
+    "type 1": "PROBLEM"
   },
   {
     "diabetes mellitus, type 1": "PROBLEM"
@@ -12,22 +12,19 @@
     "diabetic neuropathy": "PROBLEM"
   },
   {
-    "NPH": "DRUG"
+    "NPH insulin": "DRUG"
   },
   {
     "Regular insulin": "DRUG"
   },
   {
-    "blood sugars": "PROBLEM"
+    "blood sugars": "TEST"
   },
   {
     "low blood sugar": "PROBLEM"
   },
   {
     "blood sugar": "TEST"
-  },
-  {
-    "accident": "PROBLEM"
   },
   {
     "blood sugars": "TEST"
@@ -39,10 +36,10 @@
     "blood sugars": "PROBLEM"
   },
   {
-    "glucometer": "TEST"
+    "blood sugar": "TEST"
   },
   {
-    "Endocrinologist": "DRUG"
+    "Endocrinologist": "PROBLEM"
   },
   {
     "kidney damage": "PROBLEM"
@@ -57,6 +54,9 @@
     "Lantus": "DRUG"
   },
   {
+    "blood sugars": "TEST"
+  },
+  {
     "Lantus": "DRUG"
   },
   {
@@ -67,6 +67,15 @@
   },
   {
     "alkaline phosphatase": "TEST"
+  },
+  {
+    "alcohol": "DRUG"
+  },
+  {
+    "drug": "DRUG"
+  },
+  {
+    "smoker": "PROBLEM"
   },
   {
     "drinking": "PROBLEM"
@@ -93,16 +102,16 @@
     "scooter accident": "PROBLEM"
   },
   {
-    "fell off his scooter": "PROBLEM"
-  },
-  {
-    "hit his head": "PROBLEM"
+    "head": "PROBLEM"
   },
   {
     "headache": "PROBLEM"
   },
   {
     "scalp laceration": "PROBLEM"
+  },
+  {
+    "emergency room": "TREATMENT"
   },
   {
     "headache": "PROBLEM"
@@ -126,7 +135,7 @@
     "WN": "TEST"
   },
   {
-    "blood sugar": "TEST"
+    "Blood sugar": "TEST"
   },
   {
     "blood pressure": "TEST"
@@ -147,16 +156,55 @@
     "Wound": "PROBLEM"
   },
   {
-    "Throat": "PROBLEM"
+    "Normocephalic": "PROBLEM"
+  },
+  {
+    "PERRLA": "TEST"
+  },
+  {
+    "EOMI": "TEST"
+  },
+  {
+    "Nares": "PROBLEM"
+  },
+  {
+    "redness": "PROBLEM"
+  },
+  {
+    "swelling": "PROBLEM"
   },
   {
     "sinuses": "PROBLEM"
   },
   {
-    "CARDIAC": "PROBLEM"
+    "NECK": "PROBLEM"
+  },
+  {
+    "ROM": "TEST"
+  },
+  {
+    "LAD": "PROBLEM"
+  },
+  {
+    "RRR": "TEST"
+  },
+  {
+    "murmurs": "TEST"
+  },
+  {
+    "rubs": "TEST"
+  },
+  {
+    "gallops": "TEST"
   },
   {
     "CTA": "TEST"
+  },
+  {
+    "ABDOMEN": "PROBLEM"
+  },
+  {
+    "HSM": "PROBLEM"
   },
   {
     "lower extremity numbness": "PROBLEM"
@@ -165,7 +213,7 @@
     "Microfilament test": "TEST"
   },
   {
-    "regions without sensation": "PROBLEM"
+    "sensation": "PROBLEM"
   },
   {
     "calloused": "PROBLEM"
@@ -177,19 +225,22 @@
     "contusion": "PROBLEM"
   },
   {
-    "Cranial nerves 2-12": "TEST"
+    "infection": "PROBLEM"
+  },
+  {
+    "Cranial nerves": "TEST"
   },
   {
     "RAM": "TEST"
   },
   {
-    "Diabetes mellitus, type 1, poorly controlled": "PROBLEM"
+    "Diabetes mellitus, type 1": "PROBLEM"
   },
   {
     "diabetic neuropathy": "PROBLEM"
   },
   {
-    "microalbuminuria": "PROBLEM"
+    "microalbuminuria": "TEST"
   },
   {
     "Scalp laceration": "PROBLEM"
@@ -216,7 +267,7 @@
     "microalbumin": "TEST"
   },
   {
-    "low dose Ace Inhibitor": "DRUG"
+    "Ace Inhibitor": "DRUG"
   },
   {
     "Lantus": "DRUG"
@@ -225,22 +276,16 @@
     "blood sugars": "TEST"
   },
   {
-    "Endocrinology": "TREATMENT"
-  },
-  {
     "Prilosec OTC": "DRUG"
   },
   {
     "GERD symptoms": "PROBLEM"
   },
   {
-    "Followup": "TREATMENT"
+    "scooter accident": "PROBLEM"
   },
   {
     "Lacerations": "PROBLEM"
-  },
-  {
-    "signs": "PROBLEM"
   },
   {
     "heat": "PROBLEM"
@@ -255,10 +300,16 @@
     "feeling": "PROBLEM"
   },
   {
-    "general medicine": "PROBLEM"
+    "diabetes mellitus": "PROBLEM"
   },
   {
-    "diabetes mellitus": "PROBLEM"
+    "nph": "DRUG"
+  },
+  {
+    "regular insulin": "DRUG"
+  },
+  {
+    "sggt": "TEST"
   },
   {
     "diabetic neuropathy": "PROBLEM"
@@ -268,6 +319,9 @@
   },
   {
     "hypoglycemia": "PROBLEM"
+  },
+  {
+    "microalbumin": "TEST"
   },
   {
     "nausea": "PROBLEM"
@@ -295,23 +349,5 @@
   },
   {
     "sugars": "TEST"
-  },
-  {
-    "nph": "DRUG"
-  },
-  {
-    "regular insulin": "DRUG"
-  },
-  {
-    "sggt": "TEST"
-  },
-  {
-    "glucometer": "TEST"
-  },
-  {
-    "microalbumin": "TEST"
-  },
-  {
-    "followup": "TREATMENT"
   }
 ]

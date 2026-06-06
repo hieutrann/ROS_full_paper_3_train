@@ -1,6 +1,6 @@
 [
   {
-    "right shoulder pain": "PROBLEM"
+    "shoulder pain": "PROBLEM"
   },
   {
     "muscular strain": "PROBLEM"
@@ -9,33 +9,9 @@
     "impingement": "PROBLEM"
   },
   {
-    "Claritin": "DRUG"
-  },
-  {
     "x-rays": "TEST"
   },
   {
-    "MRI": "TEST"
-  },
-  {
-    "Neer's testing": "TEST"
-  },
-  {
-    "Hawkins impingement testing": "TEST"
-  },
-  {
-    "sulcus testing": "TEST"
-  },
-  {
-    "apprehension testing": "TEST"
-  },
-  {
-    "Speed's testing": "TEST"
-  },
-  {
-    "Yergason's testing": "TEST"
-  },
-  {
-    "incision": "TREATMENT"
+    "Claritin": "DRUG"
   }
 ]

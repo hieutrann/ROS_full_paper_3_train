@@ -1,5 +1,8 @@
 [
   {
+    "Gen Med Progress Note": "TEST"
+  },
+  {
     "diabetes mellitus": "PROBLEM"
   },
   {
@@ -22,6 +25,9 @@
   },
   {
     "mammogram": "TEST"
+  },
+  {
+    "gynecological care": "TREATMENT"
   },
   {
     "abdominal pain": "PROBLEM"
@@ -51,6 +57,9 @@
     "swelling": "PROBLEM"
   },
   {
+    "chart": "TEST"
+  },
+  {
     "Wt": "TEST"
   },
   {
@@ -66,28 +75,25 @@
     "P": "TEST"
   },
   {
-    "acute distress": "PROBLEM"
+    "70-year-old": "PROBLEM"
   },
   {
-    "frontal and maxillary sinus tenderness": "PROBLEM"
+    "sinus tenderness": "PROBLEM"
   },
   {
     "right TM": "PROBLEM"
   },
   {
-    "Neck": "TEST"
+    "Neck": "PROBLEM"
   },
   {
-    "Heart": "PROBLEM"
+    "Heart": "TEST"
   },
   {
     "Lungs": "TEST"
   },
   {
     "Abdomen": "PROBLEM"
-  },
-  {
-    "swelling": "PROBLEM"
   },
   {
     "Hypercholesterolemia": "PROBLEM"
@@ -100,6 +106,9 @@
   },
   {
     "Allegra D": "DRUG"
+  },
+  {
+    "b.i.d.": "TREATMENT"
   },
   {
     "Allegra": "DRUG"
@@ -120,7 +129,10 @@
     "colonoscopy": "TEST"
   },
   {
-    "stools for occult blood": "TEST"
+    "stools": "TEST"
+  },
+  {
+    "occult blood": "TEST"
   },
   {
     "colonoscopy": "TEST"
@@ -138,10 +150,19 @@
     "weight loss": "TREATMENT"
   },
   {
+    "tests": "TEST"
+  },
+  {
     "prescriptions": "DRUG"
   },
   {
+    "general medicine": "TEST"
+  },
+  {
     "diabetes mellitus": "PROBLEM"
+  },
+  {
+    "accu-cheks": "TEST"
   },
   {
     "sinusitis": "PROBLEM"
@@ -162,6 +183,9 @@
     "nausea": "PROBLEM"
   },
   {
+    "progress note": "TEST"
+  },
+  {
     "vomiting": "PROBLEM"
   },
   {
@@ -169,5 +193,8 @@
   },
   {
     "colonoscopy": "TEST"
+  },
+  {
+    "diabetes": "PROBLEM"
   }
 ]

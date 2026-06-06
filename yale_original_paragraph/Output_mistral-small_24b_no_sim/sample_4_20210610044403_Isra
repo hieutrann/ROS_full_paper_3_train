@@ -36,6 +36,12 @@
     "urinary tract infection": "PROBLEM"
   },
   {
+    "chronic incontinence": "PROBLEM"
+  },
+  {
+    "bladder atony": "PROBLEM"
+  },
+  {
     "Foley catheter": "TREATMENT"
   },
   {
@@ -45,13 +51,16 @@
     "atrial fibrillation": "PROBLEM"
   },
   {
-    "pacemaker": "TEST"
+    "pacemaker": "TREATMENT"
   },
   {
     "type 2 diabetic": "PROBLEM"
   },
   {
     "neuropathy": "PROBLEM"
+  },
+  {
+    "pain": "PROBLEM"
   },
   {
     "hypothyroidism": "PROBLEM"
@@ -150,7 +159,7 @@
     "Nystatin powder": "DRUG"
   },
   {
-    "oxygen": "DRUG"
+    "oxygen": "TREATMENT"
   },
   {
     "blood pressure": "TEST"
@@ -168,22 +177,16 @@
     "urine output": "TEST"
   },
   {
+    "intake": "TEST"
+  },
+  {
     "blood sugars": "TEST"
-  },
-  {
-    "moist mucous membranes": "TEST"
-  },
-  {
-    "pallor": "PROBLEM"
   },
   {
     "rash": "PROBLEM"
   },
   {
-    "pacemaker": "TEST"
-  },
-  {
-    "auscultation": "TEST"
+    "pacemaker": "TREATMENT"
   },
   {
     "edema": "PROBLEM"
@@ -219,16 +222,16 @@
     "white cells": "TEST"
   },
   {
-    "guaiac": "TEST"
+    "cultures": "TEST"
   },
   {
-    "cultures": "TEST"
+    "guaiac": "TEST"
   },
   {
     "Septra": "DRUG"
   },
   {
-    "cerebrovascular accident": "PROBLEM"
+    "Cerebrovascular accident": "PROBLEM"
   },
   {
     "Coumadin": "DRUG"
@@ -240,7 +243,19 @@
     "comfort care": "TREATMENT"
   },
   {
+    "urinary tract infection": "PROBLEM"
+  },
+  {
     "Cipro": "DRUG"
+  },
+  {
+    "diabetes": "PROBLEM"
+  },
+  {
+    "hypoglycemia": "PROBLEM"
+  },
+  {
+    "blood sugar": "TEST"
   },
   {
     "Humulin N": "DRUG"
@@ -249,18 +264,24 @@
     "Avandia": "DRUG"
   },
   {
+    "neuropathy": "PROBLEM"
+  },
+  {
     "Neurontin": "DRUG"
   },
   {
     "Percocet": "DRUG"
   },
   {
+    "hypothyroidism": "PROBLEM"
+  },
+  {
     "Synthroid": "DRUG"
   },
   {
-    "Lipitor": "DRUG"
+    "hyperlipidemia": "PROBLEM"
   },
   {
-    "resuscitated": "TREATMENT"
+    "Lipitor": "DRUG"
   }
 ]

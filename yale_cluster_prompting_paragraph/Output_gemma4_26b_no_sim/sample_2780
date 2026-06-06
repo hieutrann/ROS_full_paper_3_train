@@ -3,28 +3,13 @@
     "pancreatic and left adrenal lesions": "PROBLEM"
   },
   {
-    "adrenal lesion": "PROBLEM"
-  },
-  {
     "benign adenoma": "PROBLEM"
-  },
-  {
-    "pancreatic lesion": "PROBLEM"
   },
   {
     "cystic lesion": "PROBLEM"
   },
   {
     "neoplasm": "PROBLEM"
-  },
-  {
-    "pancreatic and left adrenal lesions": "PROBLEM"
-  },
-  {
-    "pancreatic lesion": "PROBLEM"
-  },
-  {
-    "lesions with left adrenal gland": "PROBLEM"
   },
   {
     "difficulty almost like a suffocating feeling": "PROBLEM"
@@ -48,18 +33,6 @@
     "MRI": "TEST"
   },
   {
-    "benign adenoma": "PROBLEM"
-  },
-  {
-    "pancreatic lesion": "PROBLEM"
-  },
-  {
-    "cystic nature": "PROBLEM"
-  },
-  {
-    "Neoplasm": "PROBLEM"
-  },
-  {
     "abdominal pain": "PROBLEM"
   },
   {
@@ -73,6 +46,9 @@
   },
   {
     "melena": "PROBLEM"
+  },
+  {
+    "colonoscopy": "TEST"
   },
   {
     "adenomatous polyps": "PROBLEM"
@@ -147,19 +123,37 @@
     "chest pain": "PROBLEM"
   },
   {
-    "shortness of breath": "PROBLEM"
+    "exertional shortness of breath": "PROBLEM"
   },
   {
     "bleeding disorders": "PROBLEM"
+  },
+  {
+    "adenopathy": "PROBLEM"
+  },
+  {
+    "bruit": "PROBLEM"
+  },
+  {
+    "S3 or S4 gallop": "TEST"
+  },
+  {
+    "murmur": "PROBLEM"
+  },
+  {
+    "distant heart sounds": "TEST"
+  },
+  {
+    "Bowel sounds": "TEST"
+  },
+  {
+    "organomegaly": "PROBLEM"
   },
   {
     "pitting edema": "PROBLEM"
   },
   {
     "ERCP": "TEST"
-  },
-  {
-    "biopsy": "TEST"
   },
   {
     "esophagogastroduodenoscopy": "TEST"

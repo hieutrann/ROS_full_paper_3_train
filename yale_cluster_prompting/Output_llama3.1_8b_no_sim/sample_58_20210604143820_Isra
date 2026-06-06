@@ -3,10 +3,16 @@
     "Breast Calcifications": "PROBLEM"
   },
   {
+    "General Medicine": "TREATMENT"
+  },
+  {
+    "Preop Consult": "TREATMENT"
+  },
+  {
     "breast excisional biopsy": "TREATMENT"
   },
   {
-    "preoperative guidewire localization": "TREATMENT"
+    "guidewire localization": "TREATMENT"
   },
   {
     "intraoperative specimen radiography": "TEST"
@@ -15,16 +21,25 @@
     "calcifications": "PROBLEM"
   },
   {
-    "screening mammography": "TEST"
+    "breast": "PROBLEM"
+  },
+  {
+    "mammography": "TEST"
   },
   {
     "punctate calcifications": "PROBLEM"
   },
   {
-    "breast mound": "PROBLEM"
+    "calcifications": "PROBLEM"
   },
   {
-    "calcifications": "PROBLEM"
+    "cluster distribution": "PROBLEM"
+  },
+  {
+    "left breast mound": "PROBLEM"
+  },
+  {
+    "2 o'clock position": "PROBLEM"
   },
   {
     "calcifications": "PROBLEM"
@@ -33,13 +48,22 @@
     "stereotactic core needle biopsy": "TREATMENT"
   },
   {
-    "left breast": "PROBLEM"
-  },
-  {
     "breast": "PROBLEM"
   },
   {
+    "biopsy": "TEST"
+  },
+  {
     "focal fibrosis": "PROBLEM"
+  },
+  {
+    "histologic diagnosis": "TEST"
+  },
+  {
+    "tissue": "TEST"
+  },
+  {
+    "procedure": "TREATMENT"
   },
   {
     "calcifications": "PROBLEM"
@@ -51,7 +75,7 @@
     "radiograph": "TEST"
   },
   {
-    "stereotactic core needle biopsy": "TREATMENT"
+    "stereotactic core needle biopsy": "TEST"
   },
   {
     "severe swelling": "PROBLEM"
@@ -78,16 +102,16 @@
     "breast center": "TREATMENT"
   },
   {
-    "Dr.": "PROBLEM"
+    "Dr.": "TREATMENT"
   },
   {
     "Interventional Radiology": "TREATMENT"
   },
   {
-    "Dr.": "PROBLEM"
+    "Dr.": "TREATMENT"
   },
   {
-    "Z": "PROBLEM"
+    "Z": "DRUG"
   },
   {
     "false aneurysm": "PROBLEM"
@@ -99,7 +123,13 @@
     "ultrasound": "TEST"
   },
   {
-    "false aneurysm": "PROBLEM"
+    "breast mound": "PROBLEM"
+  },
+  {
+    "occlusion": "TREATMENT"
+  },
+  {
+    "aneurysm": "PROBLEM"
   },
   {
     "appointment": "TREATMENT"
@@ -120,7 +150,13 @@
     "pulsatile mass": "PROBLEM"
   },
   {
-    "suspicious calcifications": "PROBLEM"
+    "breast mound": "TEST"
+  },
+  {
+    "chest wall": "TEST"
+  },
+  {
+    "calcifications": "PROBLEM"
   },
   {
     "mammography": "TEST"
@@ -141,34 +177,46 @@
     "guidewire localization": "TREATMENT"
   },
   {
-    "surgical intervention": "TREATMENT"
-  },
-  {
     "breast mound": "PROBLEM"
   },
   {
     "stereotactic core needle biopsy": "TEST"
   },
   {
-    "excision of the left breast tissue": "TREATMENT"
+    "surgical intervention": "TREATMENT"
   },
   {
-    "preoperative guidewire localization": "TREATMENT"
+    "breast tissue": "PROBLEM"
   },
   {
-    "suspicious calcifications": "PROBLEM"
+    "calcifications": "PROBLEM"
+  },
+  {
+    "excision": "TREATMENT"
+  },
+  {
+    "guidewire localization": "TEST"
   },
   {
     "sereotactic core needle biopsy": "TREATMENT"
   },
   {
-    "left breast": "PROBLEM"
+    "breast": "PROBLEM"
+  },
+  {
+    "biopsy": "TEST"
   },
   {
     "benign histologic findings": "PROBLEM"
   },
   {
     "breast cancer": "PROBLEM"
+  },
+  {
+    "cancer": "PROBLEM"
+  },
+  {
+    "daughter": "PROBLEM"
   },
   {
     "breast cancer": "PROBLEM"
@@ -198,7 +246,7 @@
     "sinus surgeries": "TREATMENT"
   },
   {
-    "CURRENT MEDICATIONS": "TREATMENT"
+    "MEDICATIONS": "DRUG"
   },
   {
     "Plavix": "DRUG"
@@ -208,6 +256,9 @@
   },
   {
     "Arava": "DRUG"
+  },
+  {
+    "3": "TREATMENT"
   },
   {
     "Nexium": "DRUG"
@@ -267,6 +318,12 @@
     "colon cancer": "PROBLEM"
   },
   {
+    "father": "PROBLEM"
+  },
+  {
+    "brother": "PROBLEM"
+  },
+  {
     "breast cancer": "PROBLEM"
   },
   {
@@ -306,13 +363,13 @@
     "local excision": "TREATMENT"
   },
   {
+    "distress": "PROBLEM"
+  },
+  {
     "female": "PROBLEM"
   },
   {
-    "normocephalic": "PROBLEM"
-  },
-  {
-    "Eyes": "TEST"
+    "normocephalic": "TEST"
   },
   {
     "PERRL": "TEST"
@@ -327,7 +384,7 @@
     "adenopathy": "PROBLEM"
   },
   {
-    "HEART": "TEST"
+    "sinus rhythm": "PROBLEM"
   },
   {
     "air entry": "TEST"
@@ -336,16 +393,25 @@
     "wheezes": "PROBLEM"
   },
   {
-    "BREASTS": "PROBLEM"
+    "topography": "TEST"
   },
   {
     "palpable abnormalities": "PROBLEM"
   },
   {
+    "breast mound": "PROBLEM"
+  },
+  {
     "Nipple areolar complexes": "PROBLEM"
   },
   {
-    "left breast upper outer quadrant near the 2 o'clock position": "PROBLEM"
+    "palpable masses": "PROBLEM"
+  },
+  {
+    "breast": "PROBLEM"
+  },
+  {
+    "2 o'clock position": "TEST"
   },
   {
     "tissue changes": "PROBLEM"
@@ -360,34 +426,43 @@
     "masses": "PROBLEM"
   },
   {
+    "Axillary examination": "TEST"
+  },
+  {
     "Obese": "PROBLEM"
   },
   {
     "masses": "PROBLEM"
   },
   {
-    "bowel sounds": "PROBLEM"
+    "bowel sounds": "TEST"
   },
   {
-    "CVA": "PROBLEM"
+    "CVA tenderness": "PROBLEM"
+  },
+  {
+    "clubbing": "PROBLEM"
   },
   {
     "cyanosis": "PROBLEM"
   },
   {
+    "edema": "PROBLEM"
+  },
+  {
     "ASSESSMENT": "TREATMENT"
+  },
+  {
+    "breast mound": "PROBLEM"
   },
   {
     "calcifications": "PROBLEM"
   },
   {
-    "breast": "PROBLEM"
-  },
-  {
     "imaging": "TEST"
   },
   {
-    "2.": "TREATMENT"
+    "percussion": "TEST"
   },
   {
     "stereotactic core needle biopsy": "TEST"
@@ -396,10 +471,13 @@
     "calcifications": "PROBLEM"
   },
   {
-    "excision of the tissue": "TREATMENT"
+    "tissue": "TREATMENT"
   },
   {
-    "preoperative guidewire localization": "TREATMENT"
+    "guidewire localization": "TEST"
+  },
+  {
+    "3": "TREATMENT"
   },
   {
     "chronic obstructive lung disease": "PROBLEM"
@@ -447,10 +525,13 @@
     "anxiety": "PROBLEM"
   },
   {
-    "Left breast excisional biopsy": "TREATMENT"
+    "medications": "DRUG"
   },
   {
-    "preoperative guidewire localization": "TREATMENT"
+    "breast excisional biopsy": "TREATMENT"
+  },
+  {
+    "guidewire localization": "TREATMENT"
   },
   {
     "intraoperative specimen radiography": "TEST"
@@ -462,13 +543,7 @@
     "breast mound": "PROBLEM"
   },
   {
-    "stereotactic core needle biopsy": "TEST"
-  },
-  {
     "gastroesophageal reflux": "PROBLEM"
-  },
-  {
-    "needle biopsy": "TEST"
   },
   {
     "calcifications": "PROBLEM"
@@ -477,9 +552,6 @@
     "biopsy": "TEST"
   },
   {
-    "breast": "PROBLEM"
-  },
-  {
-    "stereotactic": "TEST"
+    "stereotactic core needle biopsy": "TEST"
   }
 ]

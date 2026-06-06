@@ -33,7 +33,7 @@
     "Robotic - Assisted laparoscopic left renal cyst decortication": "TREATMENT"
   },
   {
-    "cystoscopy": "TREATMENT"
+    "cystoscopy": "TEST"
   },
   {
     "left renal cell carcinoma": "PROBLEM"
@@ -72,7 +72,10 @@
     "cystoscopy": "TEST"
   },
   {
-    "renal cysts": "PROBLEM"
+    "enlarged renal cysts": "PROBLEM"
+  },
+  {
+    "smaller renal cysts": "PROBLEM"
   },
   {
     "aspirated": "TREATMENT"
@@ -87,16 +90,10 @@
     "cyst wall": "PROBLEM"
   },
   {
-    "pathology": "TEST"
-  },
-  {
     "cystic fluid": "PROBLEM"
   },
   {
-    "hemostasis": "PROBLEM"
-  },
-  {
-    "JP drain": "TREATMENT"
+    "Single JP drain": "TREATMENT"
   },
   {
     "flexible cystoscopy": "TEST"
@@ -108,10 +105,10 @@
     "abnormalities": "PROBLEM"
   },
   {
-    "penile nor prostatic urethra": "PROBLEM"
+    "penile urethra": "PROBLEM"
   },
   {
-    "gross lesions": "PROBLEM"
+    "prostatic urethra": "PROBLEM"
   },
   {
     "Jackson-Pratt drain": "TREATMENT"
@@ -121,12 +118,6 @@
   },
   {
     "voiding trial": "TEST"
-  },
-  {
-    "vital signs": "TEST"
-  },
-  {
-    "hemodynamic stability": "PROBLEM"
   },
   {
     "infection": "PROBLEM"
@@ -175,9 +166,6 @@
   },
   {
     "renal cyst": "PROBLEM"
-  },
-  {
-    "laparoscopic": "TREATMENT"
   },
   {
     "nephrectomy": "TREATMENT"

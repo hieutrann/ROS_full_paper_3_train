@@ -24,10 +24,13 @@
     "neoplasm": "PROBLEM"
   },
   {
-    "pancreatic lesions": "PROBLEM"
+    "pancreatic": "PROBLEM"
   },
   {
-    "left adrenal lesions": "PROBLEM"
+    "lesions": "PROBLEM"
+  },
+  {
+    "adrenal": "PROBLEM"
   },
   {
     "pancreatic lesion": "PROBLEM"
@@ -48,16 +51,13 @@
     "feeling": "PROBLEM"
   },
   {
-    "sleeping in an upright position": "TREATMENT"
+    "sleeping": "PROBLEM"
   },
   {
     "CAT scan": "TEST"
   },
   {
     "pneumonitis": "PROBLEM"
-  },
-  {
-    "CAT scan": "TEST"
   },
   {
     "adrenal nodule": "PROBLEM"
@@ -81,19 +81,19 @@
     "adrenal gland": "PROBLEM"
   },
   {
+    "pancreatic lesion": "PROBLEM"
+  },
+  {
     "pancreas": "PROBLEM"
   },
   {
     "pancreatic lesion": "PROBLEM"
   },
   {
-    "cystic nature": "PROBLEM"
-  },
-  {
     "Neoplasm": "PROBLEM"
   },
   {
-    "assessment": "TREATMENT"
+    "further assessment": "TREATMENT"
   },
   {
     "abdominal pain": "PROBLEM"
@@ -126,7 +126,7 @@
     "frequent urination": "PROBLEM"
   },
   {
-    "urologist": "PROBLEM"
+    "urologist": "TREATMENT"
   },
   {
     "pancreatic cancer": "PROBLEM"
@@ -147,7 +147,7 @@
     "high cholesterol": "PROBLEM"
   },
   {
-    "ALLERGIES": "PROBLEM"
+    "ENVIRONMENTAL": "PROBLEM"
   },
   {
     "glipizide": "DRUG"
@@ -234,25 +234,16 @@
     "white male": "PROBLEM"
   },
   {
-    "PHYSICAL EXAMINATION": "TEST"
-  },
-  {
-    "GENERAL": "TEST"
-  },
-  {
     "HEENT": "TEST"
   },
   {
-    "NECK": "TEST"
+    "NECK": "PROBLEM"
   },
   {
     "adenopathy": "PROBLEM"
   },
   {
-    "bruit": "PROBLEM"
-  },
-  {
-    "CHEST": "TEST"
+    "Normal excursion": "TEST"
   },
   {
     "auscultation": "TEST"
@@ -261,7 +252,7 @@
     "percussion": "TEST"
   },
   {
-    "COR": "TEST"
+    "COR": "PROBLEM"
   },
   {
     "S3 or S4 gallop": "PROBLEM"
@@ -270,7 +261,7 @@
     "murmur": "PROBLEM"
   },
   {
-    "HEART: There is distant heart sounds": "PROBLEM"
+    "heart sounds": "TEST"
   },
   {
     "Obese": "PROBLEM"
@@ -282,7 +273,7 @@
     "nontender": "PROBLEM"
   },
   {
-    "recline": "PROBLEM"
+    "recline": "TEST"
   },
   {
     "Bowel sounds": "TEST"
@@ -294,7 +285,7 @@
     "organomegaly": "PROBLEM"
   },
   {
-    "GENITALIA": "TEST"
+    "GENITALIA": "PROBLEM"
   },
   {
     "RECTAL": "TEST"
@@ -303,22 +294,19 @@
     "pitting edema": "PROBLEM"
   },
   {
-    "peripheral pulses": "TEST"
+    "Bilateral peripheral pulses": "TEST"
   },
   {
     "focal deficits": "PROBLEM"
   },
   {
-    "alert": "PROBLEM"
+    "alert and oriented": "TEST"
   },
   {
-    "oriented": "PROBLEM"
+    "adrenal": "PROBLEM"
   },
   {
-    "adrenal lesions": "PROBLEM"
-  },
-  {
-    "pancreatic lesions": "PROBLEM"
+    "pancreatic": "PROBLEM"
   },
   {
     "adrenal lesion": "PROBLEM"
@@ -342,16 +330,13 @@
     "ERCP": "TEST"
   },
   {
-    "biopsy": "TREATMENT"
+    "biopsy": "TEST"
   },
   {
     "x-rays": "TEST"
   },
   {
     "operative intervention": "TREATMENT"
-  },
-  {
-    "Radiology": "TEST"
   },
   {
     "esophagogastroduodenoscopy": "TEST"

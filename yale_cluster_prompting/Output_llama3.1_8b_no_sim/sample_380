@@ -12,7 +12,7 @@
     "osteoarthritis of knee": "PROBLEM"
   },
   {
-    "two-month followup": "TREATMENT"
+    "two-month followup": "PROBLEM"
   },
   {
     "55-year-old": "PROBLEM"
@@ -27,16 +27,7 @@
     "shortness of breath": "PROBLEM"
   },
   {
-    "walking up the stairs": "PROBLEM"
-  },
-  {
     "lightheadedness": "PROBLEM"
-  },
-  {
-    "bends over": "TREATMENT"
-  },
-  {
-    "stands up quickly": "TREATMENT"
   },
   {
     "nausea": "PROBLEM"
@@ -54,19 +45,13 @@
     "total knee replacement": "TREATMENT"
   },
   {
-    "Dr.": "TREATMENT"
-  },
-  {
-    "January": "PROBLEM"
-  },
-  {
-    "surgery": "TREATMENT"
+    "surgery": "PROBLEM"
   },
   {
     "coronary disease": "PROBLEM"
   },
   {
-    "stroke risk": "PROBLEM"
+    "stroke": "PROBLEM"
   },
   {
     "cardiac disease": "PROBLEM"
@@ -76,9 +61,6 @@
   },
   {
     "lipid panel": "TEST"
-  },
-  {
-    "11/26/2003": "TEST"
   },
   {
     "Cholesterol": "TEST"
@@ -96,19 +78,13 @@
     "nonsmoker": "PROBLEM"
   },
   {
-    "fasting glucose": "TEST"
-  },
-  {
-    "November 2003": "TEST"
-  },
-  {
-    "normal limits": "TEST"
+    "glucose": "PROBLEM"
   },
   {
     "insulin level": "TEST"
   },
   {
-    "nonfasting glucose": "TEST"
+    "glucose": "TEST"
   },
   {
     "diabetes": "PROBLEM"
@@ -120,28 +96,28 @@
     "low back pain": "PROBLEM"
   },
   {
-    "X-ray": "TEST"
-  },
-  {
     "compression fracture": "PROBLEM"
   },
   {
     "L1": "PROBLEM"
   },
   {
+    "X-ray": "TEST"
+  },
+  {
     "compression fracture": "PROBLEM"
   },
   {
     "DEXA scan": "TEST"
   },
   {
-    "compression fracture of the lumbar spine": "PROBLEM"
+    "compression fracture": "PROBLEM"
   },
   {
     "arthritis": "PROBLEM"
   },
   {
-    "DEXA scan": "TEST"
+    "lumbar spine": "PROBLEM"
   },
   {
     "compression fractures": "PROBLEM"
@@ -183,16 +159,13 @@
     "Bactrim": "DRUG"
   },
   {
-    "adhesive tape": "DRUG"
-  },
-  {
-    "PAST MEDICAL HISTORY": "TEST"
+    "PAST MEDICAL HISTORY": "TREATMENT"
   },
   {
     "Hypertension": "PROBLEM"
   },
   {
-    "2": "TREATMENT"
+    "2": "TEST"
   },
   {
     "Depression": "PROBLEM"
@@ -204,31 +177,22 @@
     "Myofascitis": "PROBLEM"
   },
   {
-    "4": "PROBLEM"
+    "4": "TREATMENT"
   },
   {
-    "osteoarthritis": "PROBLEM"
+    "Severe osteoarthritis of the knee": "PROBLEM"
   },
   {
-    "5": "PROBLEM"
+    "5": "TREATMENT"
   },
   {
     "melanoma": "PROBLEM"
   },
   {
-    "removal": "TREATMENT"
-  },
-  {
-    "6": "PROBLEM"
+    "6": "TREATMENT"
   },
   {
     "Breast biopsy": "TEST"
-  },
-  {
-    "benign": "PROBLEM"
-  },
-  {
-    "7": "PROBLEM"
   },
   {
     "Holter monitor": "TEST"
@@ -246,28 +210,31 @@
     "Compression fracture of L1": "PROBLEM"
   },
   {
-    "unknown cause": "PROBLEM"
-  },
-  {
-    "injury": "PROBLEM"
-  },
-  {
     "DEXA scan": "TEST"
   },
   {
     "patient": "PROBLEM"
   },
   {
-    "nonsmoker": "PROBLEM"
+    "HPI": "TEST"
   },
   {
-    "nondrinker": "PROBLEM"
+    "well-developed": "TEST"
   },
   {
-    "REVIEW OF SYSTEMS": "TEST"
+    "well-nourished": "TEST"
   },
   {
-    "PHYSICAL EXAMINATION": "TEST"
+    "pleasant": "TEST"
+  },
+  {
+    "Caucasian": "TEST"
+  },
+  {
+    "female": "TEST"
+  },
+  {
+    "overweight": "PROBLEM"
   },
   {
     "Weight": "TEST"
@@ -285,7 +252,7 @@
     "Temperature": "TEST"
   },
   {
-    "Neck": "TEST"
+    "Neck": "PROBLEM"
   },
   {
     "Carotids": "PROBLEM"
@@ -297,43 +264,43 @@
     "regular rate and rhythm": "TEST"
   },
   {
-    "murmur": "PROBLEM"
+    "murmur": "TEST"
   },
   {
-    "S3": "PROBLEM"
+    "S3": "TEST"
   },
   {
-    "S4": "PROBLEM"
+    "S4": "TEST"
   },
   {
     "edema": "PROBLEM"
   },
   {
-    "Neurologic": "TEST"
-  },
-  {
-    "Grossly intact": "TEST"
+    "Neurologic": "PROBLEM"
   },
   {
     "EKG": "TEST"
   },
   {
-    "normal sinus rhythm": "PROBLEM"
+    "normal sinus rhythm": "TEST"
   },
   {
-    "first degree AV block": "PROBLEM"
+    "rate 61": "TEST"
+  },
+  {
+    "borderline first degree AV block": "PROBLEM"
   },
   {
     "poor R-wave progression": "PROBLEM"
   },
   {
-    "ASSESSMENT": "TEST"
+    "ASSESSMENT": "TREATMENT"
   },
   {
     "Hypertension": "PROBLEM"
   },
   {
-    "2": "TREATMENT"
+    "2": "TEST"
   },
   {
     "cerebrovascular accident": "PROBLEM"
@@ -345,13 +312,13 @@
     "Compression fracture of L1": "PROBLEM"
   },
   {
-    "4": "PROBLEM"
+    "4": "TREATMENT"
   },
   {
-    "Osteoarthritis": "PROBLEM"
+    "Osteoarthritis of the knee": "PROBLEM"
   },
   {
-    "5": "PROBLEM"
+    "5": "TREATMENT"
   },
   {
     "chest x-ray": "TEST"
@@ -363,13 +330,10 @@
     "C-reactive protein": "TEST"
   },
   {
-    "cardiac": "PROBLEM"
+    "2": "TEST"
   },
   {
-    "2": "TREATMENT"
-  },
-  {
-    "weight loss": "TREATMENT"
+    "weight loss": "PROBLEM"
   },
   {
     "Weight Watchers": "TREATMENT"
@@ -390,49 +354,43 @@
     "appointment": "TREATMENT"
   },
   {
-    "appointment": "TREATMENT"
+    "Dr": "TREATMENT"
   },
   {
     "colonoscopy": "TEST"
   },
   {
-    "4": "PROBLEM"
+    "4": "TREATMENT"
   },
   {
     "Fosamax": "DRUG"
   },
   {
-    "water": "DRUG"
+    "water": "TREATMENT"
   },
   {
     "Fosamax": "DRUG"
   },
   {
-    "5": "PROBLEM"
+    "5": "TREATMENT"
   },
   {
-    "months": "TREATMENT"
-  },
-  {
-    "preoperative evaluation": "TEST"
-  },
-  {
-    "cardiologist": "DRUG"
+    "back": "PROBLEM"
   },
   {
     "EKG": "TEST"
   },
   {
-    "preoperative cardiac testing": "TEST"
+    "cardiologist": "TREATMENT"
+  },
+  {
+    "cardiac testing": "TEST"
   },
   {
     "beta-blocker": "DRUG"
   },
   {
-    "cerebrovascular accident": "PROBLEM"
-  },
-  {
-    "compression fracture": "PROBLEM"
+    "hypertension": "PROBLEM"
   },
   {
     "chest pain": "PROBLEM"
@@ -444,10 +402,10 @@
     "shortness of breath": "PROBLEM"
   },
   {
-    "osteoporosis": "PROBLEM"
+    "cerebrovascular accident": "PROBLEM"
   },
   {
-    "hypertension": "PROBLEM"
+    "compression fracture": "PROBLEM"
   },
   {
     "chest x-ray": "TEST"
@@ -457,6 +415,9 @@
   },
   {
     "dexa": "TEST"
+  },
+  {
+    "osteoporosis": "PROBLEM"
   },
   {
     "osteoarthritis of the knee": "PROBLEM"
@@ -469,17 +430,5 @@
   },
   {
     "compression": "PROBLEM"
-  },
-  {
-    "knee": "PROBLEM"
-  },
-  {
-    "general medicine": "TEST"
-  },
-  {
-    "followup": "TEST"
-  },
-  {
-    "progress note": "TEST"
   }
 ]

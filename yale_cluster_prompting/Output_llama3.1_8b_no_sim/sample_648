@@ -1,8 +1,5 @@
 [
   {
-    "shortness of breath": "PROBLEM"
-  },
-  {
     "acute COPD exacerbation": "PROBLEM"
   },
   {
@@ -12,7 +9,7 @@
     "Chronic obstructive pulmonary disease": "PROBLEM"
   },
   {
-    "2": "TREATMENT"
+    "2": "TEST"
   },
   {
     "Pneumonia": "PROBLEM"
@@ -21,28 +18,25 @@
     "3": "PROBLEM"
   },
   {
-    "heart failure": "PROBLEM"
+    "Congestive heart failure": "PROBLEM"
   },
   {
-    "4": "TEST"
+    "4": "TREATMENT"
   },
   {
     "Diabetes mellitus": "PROBLEM"
   },
   {
-    "5": "TEST"
+    "5": "TREATMENT"
   },
   {
     "Neuropathy": "PROBLEM"
   },
   {
-    "6": "PROBLEM"
+    "6": "TREATMENT"
   },
   {
     "Anxiety": "PROBLEM"
-  },
-  {
-    "7": "PROBLEM"
   },
   {
     "Hypothyroidism": "PROBLEM"
@@ -54,7 +48,7 @@
     "Depression": "PROBLEM"
   },
   {
-    "9": "TEST"
+    "9": "PROBLEM"
   },
   {
     "Hypertension": "PROBLEM"
@@ -66,7 +60,7 @@
     "chronic obstructive pulmonary disease": "PROBLEM"
   },
   {
-    "2": "TREATMENT"
+    "2": "TEST"
   },
   {
     "Diabetes mellitus": "PROBLEM"
@@ -78,7 +72,7 @@
     "Hypothyroidism": "PROBLEM"
   },
   {
-    "4": "TEST"
+    "4": "TREATMENT"
   },
   {
     "medications": "DRUG"
@@ -90,19 +84,16 @@
     "somnolent": "PROBLEM"
   },
   {
-    "5": "TEST"
+    "5": "TREATMENT"
   },
   {
     "Lower gastrointestinal bleed": "PROBLEM"
   },
   {
-    "6": "PROBLEM"
+    "6": "TREATMENT"
   },
   {
     "atrial fibrillation": "PROBLEM"
-  },
-  {
-    "7": "PROBLEM"
   },
   {
     "diverticular bleed": "PROBLEM"
@@ -111,10 +102,10 @@
     "DISCHARGE MEDICATIONS": "TREATMENT"
   },
   {
-    "Albuterol": "DRUG"
+    "Albuterol inhaler": "TREATMENT"
   },
   {
-    "2": "TREATMENT"
+    "2": "TEST"
   },
   {
     "Xanax": "DRUG"
@@ -126,31 +117,22 @@
     "Cardizem CD": "DRUG"
   },
   {
-    "4": "TEST"
+    "4": "TREATMENT"
   },
   {
     "Colace": "DRUG"
   },
   {
-    "5": "TEST"
+    "5": "TREATMENT"
   },
   {
     "Iron sulfate": "DRUG"
   },
   {
-    "6": "PROBLEM"
+    "6": "TREATMENT"
   },
   {
-    "NPH 10 units": "DRUG"
-  },
-  {
-    "subcutaneous": "TREATMENT"
-  },
-  {
-    "b.i.d.": "TREATMENT"
-  },
-  {
-    "7": "PROBLEM"
+    "NPH 10 units subcutaneous b.i.d.": "DRUG"
   },
   {
     "Atrovent": "DRUG"
@@ -162,10 +144,10 @@
     "Statins": "DRUG"
   },
   {
-    "q.i.d., swish and spit": "TREATMENT"
+    "swish and spit": "TREATMENT"
   },
   {
-    "9": "TEST"
+    "9": "PROBLEM"
   },
   {
     "Paxil": "DRUG"
@@ -180,22 +162,13 @@
     "11": "PROBLEM"
   },
   {
-    "Darvocet": "DRUG"
-  },
-  {
-    "Darvocet-N": "DRUG"
-  },
-  {
-    "pain": "PROBLEM"
+    "Darvocet Darvocet-N 100": "DRUG"
   },
   {
     "12": "PROBLEM"
   },
   {
     "Metamucil": "DRUG"
-  },
-  {
-    "13": "PROBLEM"
   },
   {
     "Synthroid": "DRUG"
@@ -207,19 +180,13 @@
     "Nexium": "DRUG"
   },
   {
-    "shortness of breath": "PROBLEM"
-  },
-  {
     "acute COPD exacerbation": "PROBLEM"
   },
   {
-    "BiPAP": "TREATMENT"
+    "BiPAP": "TEST"
   },
   {
     "COPD": "PROBLEM"
-  },
-  {
-    "BiPAP": "TREATMENT"
   },
   {
     "bronchitis": "PROBLEM"
@@ -231,10 +198,10 @@
     "acute lower GI bleed": "PROBLEM"
   },
   {
-    "intensive care unit": "TEST"
+    "packed red blood cells": "DRUG"
   },
   {
-    "packed red blood cells": "DRUG"
+    "intensive care unit": "TREATMENT"
   },
   {
     "diverticular disease": "PROBLEM"
@@ -249,7 +216,7 @@
     "endoscopy": "TEST"
   },
   {
-    "GI": "TREATMENT"
+    "diverticular disease": "PROBLEM"
   },
   {
     "Plavix": "DRUG"
@@ -270,10 +237,10 @@
     "Dr.": "TREATMENT"
   },
   {
-    "diagnostic pulmonary": "TEST"
+    "diagnostic pulmonary": "PROBLEM"
   },
   {
-    "Dr.": "TREATMENT"
+    "Dr": "TREATMENT"
   },
   {
     "chronic obstructive pulmonary disease": "PROBLEM"
@@ -312,7 +279,7 @@
     "pulmonary disease": "PROBLEM"
   },
   {
-    "discharge": "TREATMENT"
+    "exacerbation": "PROBLEM"
   },
   {
     "inhaler": "DRUG"
@@ -321,12 +288,12 @@
     "copd": "PROBLEM"
   },
   {
-    "exacerbation": "PROBLEM"
-  },
-  {
     "pulmonary": "PROBLEM"
   },
   {
     "breath": "PROBLEM"
+  },
+  {
+    "discharge": "TEST"
   }
 ]

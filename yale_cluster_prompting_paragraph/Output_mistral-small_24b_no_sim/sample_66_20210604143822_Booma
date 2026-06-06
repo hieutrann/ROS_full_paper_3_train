@@ -1,42 +1,12 @@
 [
   {
-    "Peritoneal carcinomatosis": "PROBLEM"
+    "peritoneal carcinomatosis": "PROBLEM"
   },
   {
     "appendiceal primary": "PROBLEM"
   },
   {
     "Diarrhea": "PROBLEM"
-  },
-  {
-    "Cystoscopy": "TEST"
-  },
-  {
-    "bilaterally retrograde pyelograms": "TEST"
-  },
-  {
-    "insertion of bilateral externalized ureteral stents": "TEST"
-  },
-  {
-    "Exploratory laparotomy": "TEST"
-  },
-  {
-    "right hemicolectomy": "TREATMENT"
-  },
-  {
-    "cholecystectomy": "TREATMENT"
-  },
-  {
-    "splenectomy": "TREATMENT"
-  },
-  {
-    "omentectomy": "TREATMENT"
-  },
-  {
-    "IPHC": "TREATMENT"
-  },
-  {
-    "mitomycin-C": "DRUG"
   },
   {
     "tachycardia": "PROBLEM"
@@ -48,13 +18,16 @@
     "Imodium": "DRUG"
   },
   {
+    "post-splenectomy vaccines": "TREATMENT"
+  },
+  {
     "pneumococcal": "DRUG"
   },
   {
     "HiB": "DRUG"
   },
   {
-    "meningococcal": "DRUG"
+    "meningococcal vaccines": "DRUG"
   },
   {
     "Multivitamins": "DRUG"
@@ -69,6 +42,33 @@
     "Phenergan": "DRUG"
   },
   {
-    "Imodium A-D": "DRUG"
+    "Imodium A-D tablets": "DRUG"
+  },
+  {
+    "Cystoscopy": "TEST"
+  },
+  {
+    "bilaterally retrograde pyelograms": "TEST"
+  },
+  {
+    "insertion of bilateral externalized ureteral stents": "TREATMENT"
+  },
+  {
+    "Exploratory laparotomy": "TREATMENT"
+  },
+  {
+    "right hemicolectomy": "TREATMENT"
+  },
+  {
+    "cholecystectomy": "TREATMENT"
+  },
+  {
+    "splenectomy": "TREATMENT"
+  },
+  {
+    "omentectomy": "TREATMENT"
+  },
+  {
+    "IPHC with mitomycin-C": "TREATMENT"
   }
 ]

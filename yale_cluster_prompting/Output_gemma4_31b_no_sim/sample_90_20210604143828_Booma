@@ -1,8 +1,5 @@
 [
   {
-    "Mastoiditis": "PROBLEM"
-  },
-  {
     "mastoiditis": "PROBLEM"
   },
   {
@@ -33,7 +30,7 @@
     "mastoiditis": "PROBLEM"
   },
   {
-    "very severe ear pain": "PROBLEM"
+    "ear pain": "PROBLEM"
   },
   {
     "blood draining from the right ear": "PROBLEM"
@@ -105,13 +102,22 @@
     "redness": "PROBLEM"
   },
   {
-    "large posterior chains node": "PROBLEM"
+    "nontender": "PROBLEM"
+  },
+  {
+    "posterior chains node": "PROBLEM"
   },
   {
     "swelling": "PROBLEM"
   },
   {
-    "Clear breath sounds": "PROBLEM"
+    "breath sounds": "TEST"
+  },
+  {
+    "S1": "TEST"
+  },
+  {
+    "S2": "TEST"
   },
   {
     "murmur": "PROBLEM"

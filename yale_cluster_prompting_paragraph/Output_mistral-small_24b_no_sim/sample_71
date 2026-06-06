@@ -9,16 +9,31 @@
     "sinusitis": "PROBLEM"
   },
   {
+    "Accu-Cheks": "TEST"
+  },
+  {
     "sinus congestion": "PROBLEM"
   },
   {
     "sinus drainage": "PROBLEM"
   },
   {
-    "Accu-Cheks": "TEST"
+    "mammogram": "TEST"
   },
   {
-    "mammogram": "TEST"
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "diarrhea": "PROBLEM"
+  },
+  {
+    "constipation": "PROBLEM"
   },
   {
     "blood in her urine": "PROBLEM"
@@ -31,30 +46,6 @@
   },
   {
     "swelling in her ankles": "PROBLEM"
-  },
-  {
-    "Vitals": "TEST"
-  },
-  {
-    "Wt": "TEST"
-  },
-  {
-    "B/P": "TEST"
-  },
-  {
-    "T": "TEST"
-  },
-  {
-    "P": "TEST"
-  },
-  {
-    "frontal sinus tenderness": "PROBLEM"
-  },
-  {
-    "maxillary sinus tenderness": "PROBLEM"
-  },
-  {
-    "right TM": "PROBLEM"
   },
   {
     "Allegra D": "DRUG"
@@ -75,13 +66,16 @@
     "TSH": "TEST"
   },
   {
-    "Partners in Prevention": "TREATMENT"
-  },
-  {
     "colonoscopy": "TEST"
   },
   {
     "stools for occult blood": "TEST"
+  },
+  {
+    "Partners in Prevention": "TREATMENT"
+  },
+  {
+    "colonoscopy": "TREATMENT"
   },
   {
     "diet": "TREATMENT"

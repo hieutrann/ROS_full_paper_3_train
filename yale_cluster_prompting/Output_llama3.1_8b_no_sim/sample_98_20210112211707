@@ -1,8 +1,5 @@
 [
   {
-    "weight loss": "PROBLEM"
-  },
-  {
     "fevers": "PROBLEM"
   },
   {
@@ -153,7 +150,7 @@
     "loss of motor skills": "PROBLEM"
   },
   {
-    "sensation": "PROBLEM"
+    "loss of sensation": "PROBLEM"
   },
   {
     "hair texture": "PROBLEM"
@@ -162,13 +159,7 @@
     "skin color": "PROBLEM"
   },
   {
-    "excessive appetite": "PROBLEM"
-  },
-  {
-    "decreased appetite": "PROBLEM"
-  },
-  {
-    "swollen lymph nodes": "PROBLEM"
+    "appetite": "PROBLEM"
   },
   {
     "night sweats": "PROBLEM"
@@ -177,19 +168,10 @@
     "headaches": "PROBLEM"
   },
   {
-    "review of systems": "TEST"
-  },
-  {
-    "weight loss": "PROBLEM"
+    "review of systems": "PROBLEM"
   },
   {
     "fevers": "PROBLEM"
-  },
-  {
-    "chills": "PROBLEM"
-  },
-  {
-    "sweats": "PROBLEM"
   },
   {
     "melena": "PROBLEM"
@@ -225,6 +207,12 @@
     "breath loss": "PROBLEM"
   },
   {
-    "neck": "PROBLEM"
+    "weight loss": "PROBLEM"
+  },
+  {
+    "chills": "PROBLEM"
+  },
+  {
+    "sweats": "PROBLEM"
   }
 ]

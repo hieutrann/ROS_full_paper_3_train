@@ -18,13 +18,7 @@
     "heroin": "DRUG"
   },
   {
-    "Detox": "TREATMENT"
-  },
-  {
     "heroin abuse": "PROBLEM"
-  },
-  {
-    "heroin": "DRUG"
   },
   {
     "cocaine": "DRUG"
@@ -66,9 +60,6 @@
     "visual complaints": "PROBLEM"
   },
   {
-    "hallucinations": "PROBLEM"
-  },
-  {
     "chest pain": "PROBLEM"
   },
   {
@@ -96,12 +87,6 @@
     "cocaine": "DRUG"
   },
   {
-    "analgesics": "DRUG"
-  },
-  {
-    "pain medications": "DRUG"
-  },
-  {
     "Klonopin": "DRUG"
   },
   {
@@ -114,28 +99,16 @@
     "pain": "PROBLEM"
   },
   {
-    "VITAL SIGNS": "TEST"
-  },
-  {
-    "afebrile": "PROBLEM"
-  },
-  {
     "hypertensive": "PROBLEM"
   },
   {
-    "175/104": "TEST"
-  },
-  {
-    "pulse 117": "TEST"
+    "pulse": "TEST"
   },
   {
     "cocaine": "DRUG"
   },
   {
     "respiratory rate": "TEST"
-  },
-  {
-    "jittery": "PROBLEM"
   },
   {
     "Pupils": "TEST"
@@ -147,16 +120,13 @@
     "wheezing": "PROBLEM"
   },
   {
-    "rales": "PROBLEM"
+    "rales": "TEST"
   },
   {
-    "rhonchi": "PROBLEM"
+    "rhonchi": "TEST"
   },
   {
     "cough": "PROBLEM"
-  },
-  {
-    "murmur": "PROBLEM"
   },
   {
     "track marks": "PROBLEM"
@@ -196,8 +166,5 @@
   },
   {
     "cocaine": "DRUG"
-  },
-  {
-    "abuse": "PROBLEM"
   }
 ]

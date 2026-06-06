@@ -1,5 +1,59 @@
 [
   {
+    "Female Exam": "TEST"
+  },
+  {
+    "Blood pressure": "TEST"
+  },
+  {
+    "pulse": "TEST"
+  },
+  {
+    "respirations": "TEST"
+  },
+  {
+    "temperature": "TEST"
+  },
+  {
+    "EOMI": "TEST"
+  },
+  {
+    "PERRLA": "TEST"
+  },
+  {
+    "Funduscopic examination": "TEST"
+  },
+  {
+    "Ears": "TEST"
+  },
+  {
+    "Nose and Sinuses": "TEST"
+  },
+  {
+    "Mouth, Tongue, Teeth, and Throat": "TEST"
+  },
+  {
+    "Neck": "TEST"
+  },
+  {
+    "Chest": "TEST"
+  },
+  {
+    "Heart": "TEST"
+  },
+  {
+    "PMI": "TEST"
+  },
+  {
+    "Chest wall": "TEST"
+  },
+  {
+    "Breasts": "TEST"
+  },
+  {
+    "Abdomen": "TEST"
+  },
+  {
     "Hepatosplenomegaly": "PROBLEM"
   },
   {
@@ -15,87 +69,24 @@
     "rigidity": "PROBLEM"
   },
   {
-    "adenopathy": "PROBLEM"
+    "guarding": "PROBLEM"
   },
   {
-    "Pulse": "TEST"
+    "External Genitalia": "TEST"
   },
   {
-    "BREASTS": "TEST"
-  },
-  {
-    "ABDOMEN": "TEST"
+    "Rectal": "TEST"
   },
   {
     "EXTREMITIES": "TEST"
   },
   {
-    "BACK": "TEST"
+    "Back": "TEST"
   },
   {
-    "NEUROLOGIC": "TEST"
+    "Neurologic": "TEST"
   },
   {
-    "SKIN": "TEST"
-  },
-  {
-    "General Medicine": "TEST"
-  },
-  {
-    "HEENT": "TEST"
-  },
-  {
-    "General Appearance": "TEST"
-  },
-  {
-    "Hemoccult": "TEST"
-  },
-  {
-    "Stool": "TEST"
-  },
-  {
-    "Gait": "TEST"
-  },
-  {
-    "Station": "TEST"
-  },
-  {
-    "Speech": "TEST"
-  },
-  {
-    "Thought process": "TEST"
-  },
-  {
-    "Affect": "TEST"
-  },
-  {
-    "Cranial": "TEST"
-  },
-  {
-    "Peripheral nervous systems": "TEST"
-  },
-  {
-    "Strength": "TEST"
-  },
-  {
-    "Sensation": "TEST"
-  },
-  {
-    "Cerebellar function": "TEST"
-  },
-  {
-    "Tongue": "TEST"
-  },
-  {
-    "Percussion": "TEST"
-  },
-  {
-    "Inspection": "TEST"
-  },
-  {
-    "Palpation": "TEST"
-  },
-  {
-    "Signs": "TEST"
+    "Skin": "TEST"
   }
 ]

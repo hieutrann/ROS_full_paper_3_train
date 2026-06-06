@@ -1,1 +1,1 @@
-['[\n  {"cellulitis": "PROBLEM"},\n  {"lymphedema": "PROBLEM"},\n  {"Bactrim": "DRUG"},\n  {"ciprofloxacin": "DRUG"},\n  {"antibiotic therapy": "TREATMENT"},\n  {"lymphedema wraps": "TREATMENT"},\n  {"ulcer": "PROBLEM"}\n]']
+['[\n  {"lower extremity cellulitis": "PROBLEM"},\n  {"lower extremity lymphedema": "PROBLEM"},\n  {"cellulitis": "PROBLEM"},\n  {"lymphedema": "PROBLEM"},\n  {"morbid obesity": "PROBLEM"},\n  {"antibiotic therapy": "TREATMENT"},\n  {"lymphedema wraps": "TREATMENT"},\n  {"Bactrim": "DRUG"},\n  {"ciprofloxacin": "DRUG"}\n]']

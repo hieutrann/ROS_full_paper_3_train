@@ -1,6 +1,6 @@
 [
   {
-    "wheezing": "PROBLEM"
+    "childhood asthma": "PROBLEM"
   },
   {
     "cough": "PROBLEM"
@@ -12,30 +12,15 @@
     "asthma": "PROBLEM"
   },
   {
-    "prednisolone": "DRUG"
-  },
-  {
     "bronchodilator": "DRUG"
   },
   {
-    "steroids": "DRUG"
+    "prednisolone": "DRUG"
   },
   {
-    "VITAL SIGNS": "TEST"
+    "alternate day course": "TREATMENT"
   },
   {
-    "exam": "TEST"
-  },
-  {
-    "surgery": "TREATMENT"
-  },
-  {
-    "pediatrics - neonatal": "TREATMENT"
-  },
-  {
-    "alternating day course": "TREATMENT"
-  },
-  {
-    "short burst": "TREATMENT"
+    "physical therapy": "TREATMENT"
   }
 ]

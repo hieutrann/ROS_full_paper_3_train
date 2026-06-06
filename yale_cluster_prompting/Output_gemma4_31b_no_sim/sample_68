@@ -6,7 +6,7 @@
     "cerebrovascular accident": "PROBLEM"
   },
   {
-    "discomfort on his right side": "PROBLEM"
+    "discomfort": "PROBLEM"
   },
   {
     "EMG studies": "TEST"
@@ -27,19 +27,22 @@
     "heavy tobacco and alcohol usage": "PROBLEM"
   },
   {
-    "PHYSICAL EXAMINATION": "TEST"
+    "B/P": "TEST"
   },
   {
-    "Vitals": "TEST"
+    "T": "TEST"
   },
   {
-    "acute distress": "PROBLEM"
+    "P": "TEST"
   },
   {
     "missing dentition": "PROBLEM"
   },
   {
-    "Dry and flaky": "PROBLEM"
+    "Dry": "PROBLEM"
+  },
+  {
+    "flaky": "PROBLEM"
   },
   {
     "Heart tones": "TEST"
@@ -51,10 +54,7 @@
     "pedal pulse": "TEST"
   },
   {
-    "Diminished but clear": "PROBLEM"
-  },
-  {
-    "Scaphoid": "PROBLEM"
+    "Diminished": "PROBLEM"
   },
   {
     "prostate check": "TEST"
@@ -100,6 +100,9 @@
   },
   {
     "neuropathy": "PROBLEM"
+  },
+  {
+    "post cerebrovascular accident": "PROBLEM"
   },
   {
     "cerebrovascular accident": "PROBLEM"

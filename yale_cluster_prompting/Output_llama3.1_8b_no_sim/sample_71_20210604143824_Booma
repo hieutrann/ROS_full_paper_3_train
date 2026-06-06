@@ -33,7 +33,7 @@
     "symptoms": "PROBLEM"
   },
   {
-    "glucose in 30 range": "PROBLEM"
+    "glucose": "TEST"
   },
   {
     "hypertension": "PROBLEM"
@@ -63,7 +63,7 @@
     "hypertension": "PROBLEM"
   },
   {
-    "None": "TREATMENT"
+    "None": "PROBLEM"
   },
   {
     "Unremarkable": "PROBLEM"
@@ -72,7 +72,7 @@
     "drug allergies": "PROBLEM"
   },
   {
-    "MEDICATIONS": "DRUG"
+    "In Spanish label": "DRUG"
   },
   {
     "diabetic medication": "DRUG"
@@ -90,6 +90,12 @@
     "acute distress": "PROBLEM"
   },
   {
+    "physical examination": "TEST"
+  },
+  {
+    "interpreter": "TEST"
+  },
+  {
     "HEENT": "TEST"
   },
   {
@@ -97,9 +103,6 @@
   },
   {
     "head injury": "PROBLEM"
-  },
-  {
-    "laceration": "PROBLEM"
   },
   {
     "Extraocular movements": "TEST"
@@ -114,7 +117,10 @@
     "murmur": "PROBLEM"
   },
   {
-    "Normal S1, S2": "TEST"
+    "S1": "TEST"
+  },
+  {
+    "S2": "TEST"
   },
   {
     "LUNGS": "PROBLEM"
@@ -126,7 +132,7 @@
     "wheeze": "PROBLEM"
   },
   {
-    "Good excursion": "PROBLEM"
+    "Good excursion": "TEST"
   },
   {
     "bowel sounds": "TEST"
@@ -153,7 +159,7 @@
     "troponin": "TEST"
   },
   {
-    "glucose": "PROBLEM"
+    "glucose": "TEST"
   },
   {
     "BUN": "TEST"
@@ -165,31 +171,34 @@
     "potassium": "TEST"
   },
   {
+    "Urinalysis": "TEST"
+  },
+  {
     "specific gravity": "TEST"
   },
   {
     "CT of the brain": "TEST"
   },
   {
-    "hemorrhage": "PROBLEM"
+    "Chest x-ray": "TEST"
   },
   {
-    "acute cardiomegaly": "PROBLEM"
+    "cardiomegaly": "PROBLEM"
   },
   {
-    "infiltrates": "PROBLEM"
-  },
-  {
-    "IMPRESSION": "PROBLEM"
+    "IMPRESSION": "TEST"
   },
   {
     "Hypoglycemia": "PROBLEM"
   },
   {
-    "2": "TREATMENT"
+    "2": "TEST"
   },
   {
     "Hypertension": "PROBLEM"
+  },
+  {
+    "3": "PROBLEM"
   },
   {
     "Renal insufficiency": "PROBLEM"
@@ -201,16 +210,19 @@
     "diabetic nephropathy": "PROBLEM"
   },
   {
-    "blood pressure medication": "DRUG"
-  },
-  {
-    "diabetic medication": "DRUG"
+    "Admit the patient to the medical ward": "TREATMENT"
   },
   {
     "IV fluid": "TREATMENT"
   },
   {
     "glucometer checks": "TEST"
+  },
+  {
+    "blood pressure medication": "DRUG"
+  },
+  {
+    "diabetic medication": "DRUG"
   },
   {
     "diabetic medication": "DRUG"
@@ -240,21 +252,21 @@
     "glucometer checks": "TEST"
   },
   {
-    "decrease in mental alertness": "PROBLEM"
-  },
-  {
     "blood pressure medication": "DRUG"
   },
   {
     "mental alertness": "PROBLEM"
   },
   {
-    "blood pressure": "TEST"
+    "blood pressure": "PROBLEM"
   },
   {
-    "glucose": "TEST"
+    "glucose": "PROBLEM"
   },
   {
     "medication": "DRUG"
+  },
+  {
+    "alertness": "PROBLEM"
   }
 ]

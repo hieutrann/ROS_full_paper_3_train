@@ -24,7 +24,10 @@
     "amoxicillin": "DRUG"
   },
   {
-    "sats": "TEST"
+    "coughing": "PROBLEM"
+  },
+  {
+    "coughing spells": "PROBLEM"
   },
   {
     "apnea": "PROBLEM"
@@ -51,19 +54,19 @@
     "CBC": "TEST"
   },
   {
-    "white count": "TEST"
+    "white count": "PROBLEM"
   },
   {
     "differential": "TEST"
   },
   {
-    "hemoglobin": "TEST"
+    "hemoglobin": "PROBLEM"
   },
   {
-    "hematocrit": "TEST"
+    "hematocrit": "PROBLEM"
   },
   {
-    "platelets": "TEST"
+    "platelets": "PROBLEM"
   },
   {
     "BMP": "TEST"
@@ -87,36 +90,9 @@
     "pertussis culture": "TEST"
   },
   {
-    "oxygen": "TREATMENT"
-  },
-  {
-    "emesis": "PROBLEM"
-  },
-  {
     "Zithromax": "DRUG"
   },
   {
-    "cyanosis": "PROBLEM"
-  },
-  {
-    "apnea": "PROBLEM"
-  },
-  {
     "emesis": "PROBLEM"
-  },
-  {
-    "cough": "PROBLEM"
-  },
-  {
-    "upper respiratory illness": "PROBLEM"
-  },
-  {
-    "respiratory illness": "PROBLEM"
-  },
-  {
-    "apnea": "PROBLEM"
-  },
-  {
-    "pertussis": "PROBLEM"
   }
 ]

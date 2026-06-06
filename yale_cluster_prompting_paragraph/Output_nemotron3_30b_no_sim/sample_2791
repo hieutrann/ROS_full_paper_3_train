@@ -1,0 +1,53 @@
+[
+  {
+    "GI bleed": "PROBLEM"
+  },
+  {
+    "Upper gastrointestinal bleed": "PROBLEM"
+  },
+  {
+    "microcytic anemia": "PROBLEM"
+  },
+  {
+    "CBC": "TEST"
+  },
+  {
+    "gi complaints": "PROBLEM"
+  },
+  {
+    "colonoscopy": "TEST"
+  },
+  {
+    "upper endoscopy": "TEST"
+  },
+  {
+    "diverticulosis": "PROBLEM"
+  },
+  {
+    "polyp": "PROBLEM"
+  },
+  {
+    "Coumadin": "DRUG"
+  },
+  {
+    "KCl": "DRUG"
+  },
+  {
+    "Lasix": "DRUG"
+  },
+  {
+    "atenolol": "DRUG"
+  },
+  {
+    "Synthroid": "DRUG"
+  },
+  {
+    "Actos": "DRUG"
+  },
+  {
+    "Mevacor": "DRUG"
+  },
+  {
+    "lisinopril": "DRUG"
+  }
+]

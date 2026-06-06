@@ -30,7 +30,7 @@
     "Pneumonia": "PROBLEM"
   },
   {
-    "2": "TREATMENT"
+    "2": "PROBLEM"
   },
   {
     "Hypoxia": "PROBLEM"
@@ -42,16 +42,13 @@
     "Rheumatoid arthritis": "PROBLEM"
   },
   {
-    "DISCHARGE DIAGNOSES": "TEST"
+    "DISCHARGE DIAGNOSES": "PROBLEM"
   },
   {
     "Atypical pneumonia": "PROBLEM"
   },
   {
-    "viral": "PROBLEM"
-  },
-  {
-    "2": "TREATMENT"
+    "2": "PROBLEM"
   },
   {
     "Hypoxia": "PROBLEM"
@@ -66,7 +63,7 @@
     "4": "PROBLEM"
   },
   {
-    "adrenal insufficiency": "PROBLEM"
+    "mild stress-induced adrenal insufficiency": "PROBLEM"
   },
   {
     "cough": "PROBLEM"
@@ -81,16 +78,13 @@
     "chills": "PROBLEM"
   },
   {
-    "Urgent Care": "TEST"
+    "Urgent Care": "TREATMENT"
   },
   {
-    "physician's office": "TEST"
+    "physician's office": "TREATMENT"
   },
   {
-    "x-ray": "TEST"
-  },
-  {
-    "infiltrates": "PROBLEM"
+    "mild diffuse patchy infiltrates": "PROBLEM"
   },
   {
     "Avelox": "DRUG"
@@ -108,13 +102,10 @@
     "azithromycin": "DRUG"
   },
   {
-    "O2 saturations": "TEST"
+    "O2 saturations": "PROBLEM"
   },
   {
-    "88%": "TEST"
-  },
-  {
-    "92%": "TEST"
+    "88%": "PROBLEM"
   },
   {
     "pneumonia": "PROBLEM"
@@ -138,19 +129,16 @@
     "Dr.": "TREATMENT"
   },
   {
-    "pulmonologist": "TREATMENT"
+    "pulmonologist": "PROBLEM"
   },
   {
     "viral etiology": "PROBLEM"
   },
   {
-    "loose stools": "PROBLEM"
-  },
-  {
     "C. difficile toxin": "TEST"
   },
   {
-    "discharge": "TREATMENT"
+    "loose stools": "PROBLEM"
   },
   {
     "Rocephin IV": "DRUG"
@@ -162,22 +150,13 @@
     "fever": "PROBLEM"
   },
   {
-    "O2 saturations": "TEST"
-  },
-  {
-    "strength": "TEST"
-  },
-  {
-    "clinical status": "TEST"
-  },
-  {
     "azithromycin": "DRUG"
   },
   {
     "pills": "DRUG"
   },
   {
-    "Dr.": "TREATMENT"
+    "Dr": "TREATMENT"
   },
   {
     "X": "PROBLEM"
@@ -198,10 +177,10 @@
     "methotrexate": "DRUG"
   },
   {
-    "Methotrexate": "DRUG"
+    "pneumonitis": "PROBLEM"
   },
   {
-    "pneumonitis": "PROBLEM"
+    "Methotrexate": "DRUG"
   },
   {
     "adrenal insufficiency": "PROBLEM"

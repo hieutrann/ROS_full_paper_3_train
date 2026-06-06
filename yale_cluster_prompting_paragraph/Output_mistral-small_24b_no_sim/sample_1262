@@ -24,16 +24,22 @@
     "decortication": "TREATMENT"
   },
   {
-    "pleural biopsy": "TEST"
+    "pleural biopsy": "TREATMENT"
   },
   {
-    "transpleural fluoroscopy": "TEST"
+    "transpleural fluoroscopy": "TREATMENT"
   },
   {
     "thoracentesis": "TREATMENT"
   },
   {
     "Port-A-Cath placement": "TREATMENT"
+  },
+  {
+    "pericarditis": "PROBLEM"
+  },
+  {
+    "pericardectomy": "TREATMENT"
   },
   {
     "cough": "PROBLEM"
@@ -45,15 +51,6 @@
     "fever": "PROBLEM"
   },
   {
-    "pericarditis": "PROBLEM"
-  },
-  {
-    "pericardectomy": "TREATMENT"
-  },
-  {
-    "chest x-ray": "TEST"
-  },
-  {
     "pericardectomy": "TREATMENT"
   },
   {
@@ -63,16 +60,13 @@
     "atrial fibrillation": "PROBLEM"
   },
   {
-    "RNCA": "TEST"
+    "RNCA": "TREATMENT"
   },
   {
     "intracranial thrombolytic treatment": "TREATMENT"
   },
   {
     "PTA": "TREATMENT"
-  },
-  {
-    "MCA": "TEST"
   },
   {
     "mesenteric venous thrombosis": "PROBLEM"
@@ -84,7 +78,7 @@
     "cholecystectomy": "TREATMENT"
   },
   {
-    "left thoracentesis": "TREATMENT"
+    "thoracentesis": "TREATMENT"
   },
   {
     "coronary artery disease": "PROBLEM"
@@ -114,19 +108,13 @@
     "Amiodarone": "DRUG"
   },
   {
-    "pulmonary": "PROBLEM"
-  },
-  {
     "numbness": "PROBLEM"
   },
   {
     "tingling": "PROBLEM"
   },
   {
-    "VITAL SIGNS": "TEST"
-  },
-  {
-    "Blood pressure": "TEST"
+    "blood pressure": "TEST"
   },
   {
     "heart rate": "TEST"
@@ -141,10 +129,22 @@
     "oxygen saturation": "TEST"
   },
   {
-    "pleural friction rub": "PROBLEM"
+    "cough": "PROBLEM"
   },
   {
-    "GI": "TEST"
+    "pain": "PROBLEM"
+  },
+  {
+    "pupils": "TEST"
+  },
+  {
+    "lymphadenopathy": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "pleural friction rub": "PROBLEM"
   },
   {
     "bowel sounds": "TEST"
@@ -165,6 +165,9 @@
     "tenderness": "PROBLEM"
   },
   {
+    "range of motion": "TEST"
+  },
+  {
     "pulses": "TEST"
   },
   {
@@ -177,28 +180,13 @@
     "ulcers": "PROBLEM"
   },
   {
-    "neurologic": "TEST"
-  },
-  {
     "focal deficits": "PROBLEM"
   },
   {
-    "person": "TEST"
-  },
-  {
-    "place": "TEST"
-  },
-  {
-    "time": "TEST"
-  },
-  {
-    "Labs": "TEST"
+    "Lovenox": "DRUG"
   },
   {
     "DVT": "PROBLEM"
-  },
-  {
-    "Lovenox": "DRUG"
   },
   {
     "mesenteric pain": "PROBLEM"
@@ -211,9 +199,6 @@
   },
   {
     "CT scan": "TEST"
-  },
-  {
-    "bilateral plural effusions": "PROBLEM"
   },
   {
     "pericardectomy": "TREATMENT"
@@ -237,10 +222,10 @@
     "chest tube placement": "TREATMENT"
   },
   {
-    "thoracoscopy": "TEST"
+    "thoracoscopy": "TREATMENT"
   },
   {
-    "fluid biopsies": "TEST"
+    "fluid biopsies": "TREATMENT"
   },
   {
     "epithelioid malignant mesothelioma": "PROBLEM"
@@ -249,25 +234,16 @@
     "PET CT": "TEST"
   },
   {
-    "uptake": "PROBLEM"
-  },
-  {
-    "bilateral pleural pericardial effusions": "PROBLEM"
-  },
-  {
     "lymphadenopathy": "PROBLEM"
   },
   {
     "acidic fluid": "PROBLEM"
   },
   {
-    "pectoral": "PROBLEM"
+    "pectoral lymph nodes": "PROBLEM"
   },
   {
     "intramammary lymph nodes": "PROBLEM"
-  },
-  {
-    "L4": "TEST"
   },
   {
     "SUV": "TEST"
@@ -277,9 +253,6 @@
   },
   {
     "ejection fraction": "TEST"
-  },
-  {
-    "Oncology service": "TREATMENT"
   },
   {
     "chemotherapy": "TREATMENT"
@@ -292,6 +265,9 @@
   },
   {
     "IV piggyback": "TREATMENT"
+  },
+  {
+    "Port-A-Cath": "TREATMENT"
   },
   {
     "heparin": "DRUG"
@@ -313,47 +289,5 @@
   },
   {
     "INR": "TEST"
-  },
-  {
-    "Dr. XYZ": "TREATMENT"
-  },
-  {
-    "discharge summary": "TEST"
-  },
-  {
-    "port-a-cath placement": "TREATMENT"
-  },
-  {
-    "port a cath": "TREATMENT"
-  },
-  {
-    "iv piggyback": "TREATMENT"
-  },
-  {
-    "venous thrombosis": "PROBLEM"
-  },
-  {
-    "atrial": "PROBLEM"
-  },
-  {
-    "thrombosis": "PROBLEM"
-  },
-  {
-    "pericardial": "PROBLEM"
-  },
-  {
-    "lymphadenopathy": "PROBLEM"
-  },
-  {
-    "fluid": "PROBLEM"
-  },
-  {
-    "pericardectomy": "TREATMENT"
-  },
-  {
-    "chest": "PROBLEM"
-  },
-  {
-    "pleural": "PROBLEM"
   }
 ]

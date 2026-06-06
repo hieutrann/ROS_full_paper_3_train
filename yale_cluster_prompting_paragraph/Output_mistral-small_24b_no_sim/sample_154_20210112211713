@@ -1,6 +1,6 @@
 [
   {
-    "cardiac catheterization": "TREATMENT"
+    "cardiac catheterization": "TEST"
   },
   {
     "Coronary artery disease": "PROBLEM"
@@ -9,22 +9,22 @@
     "chest pain": "PROBLEM"
   },
   {
-    "diabetes": "PROBLEM"
+    "history of diabetes": "PROBLEM"
   },
   {
-    "hypertension": "PROBLEM"
+    "history of hypertension": "PROBLEM"
   },
   {
-    "obesity": "PROBLEM"
+    "history of obesity": "PROBLEM"
   },
   {
-    "lesion": "PROBLEM"
+    "a 1.1 cm lesion in the medial aspect of the right parietal lobe": "PROBLEM"
   },
   {
     "deconditioning": "PROBLEM"
   },
   {
-    "cardiac catheterization": "TREATMENT"
+    "cardiac catheterization": "TEST"
   },
   {
     "Coronary artery disease": "PROBLEM"
@@ -33,16 +33,16 @@
     "chest pain": "PROBLEM"
   },
   {
-    "diabetes": "PROBLEM"
+    "history of diabetes": "PROBLEM"
   },
   {
-    "hypertension": "PROBLEM"
+    "history of hypertension": "PROBLEM"
   },
   {
-    "obesity": "PROBLEM"
+    "history of obesity": "PROBLEM"
   },
   {
-    "lesion": "PROBLEM"
+    "a 1.1 cm lesion in the medial aspect of the right parietal lobe": "PROBLEM"
   },
   {
     "deconditioning": "PROBLEM"
@@ -54,19 +54,16 @@
     "Echocardiogram": "TEST"
   },
   {
-    "MRI": "TEST"
+    "MRI of the brain": "TEST"
   },
   {
     "Lower extremity Duplex ultrasound": "TEST"
   },
   {
-    "diabetes": "PROBLEM"
+    "history of diabetes": "PROBLEM"
   },
   {
     "chest pressure": "PROBLEM"
-  },
-  {
-    "short of breath": "PROBLEM"
   },
   {
     "myocardial infarction": "PROBLEM"
@@ -78,16 +75,10 @@
     "echocardiogram": "TEST"
   },
   {
-    "LVH": "PROBLEM"
+    "concentric LVH": "PROBLEM"
   },
   {
-    "EF": "TEST"
-  },
-  {
-    "Cardiology": "TEST"
-  },
-  {
-    "cardiac cath": "TREATMENT"
+    "cardiac cath": "TEST"
   },
   {
     "amaurosis fugax": "PROBLEM"
@@ -96,33 +87,33 @@
     "MRI": "TEST"
   },
   {
-    "lesion": "PROBLEM"
+    "a 1 cm lesion in the right parietal lobe": "PROBLEM"
   },
   {
     "Neurology": "TEST"
   },
   {
-    "cardiac cath": "TREATMENT"
+    "cardiac cath": "TEST"
   },
   {
-    "Aspirin": "DRUG"
+    "Aspirin 325 mg p.o. daily": "DRUG"
   },
   {
-    "Lovenox": "DRUG"
+    "Lovenox 40 mg p.o. daily": "DRUG"
   },
   {
-    "Regular Insulin": "DRUG"
+    "Regular Insulin sliding scale": "DRUG"
   },
   {
-    "Novolin": "DRUG"
+    "Novolin 70/30, 15 units b.i.d.": "DRUG"
   },
   {
-    "Metformin": "DRUG"
+    "Metformin 500 mg p.o. daily": "DRUG"
   },
   {
-    "Protonix": "DRUG"
+    "Protonix 40 mg p.o. daily": "DRUG"
   },
   {
-    "cardiac cath": "TREATMENT"
+    "cardiac cath": "TEST"
   }
 ]

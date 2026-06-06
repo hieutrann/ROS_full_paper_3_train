@@ -1,12 +1,9 @@
 [
   {
-    "General Medicine": "TREATMENT"
+    "Female": "PROBLEM"
   },
   {
-    "Normal Female ROS Template": "TEST"
-  },
-  {
-    "Normal female review of systems template": "TEST"
+    "Normal": "TEST"
   },
   {
     "fever": "PROBLEM"
@@ -33,10 +30,13 @@
     "aching": "PROBLEM"
   },
   {
-    "glaucoma": "PROBLEM"
+    "glasses": "TREATMENT"
   },
   {
     "cataracts": "PROBLEM"
+  },
+  {
+    "glaucoma": "PROBLEM"
   },
   {
     "retinopathy": "PROBLEM"
@@ -63,13 +63,10 @@
     "nosebleeds": "PROBLEM"
   },
   {
-    "Mouth": "PROBLEM"
-  },
-  {
     "dental problems": "PROBLEM"
   },
   {
-    "dentures": "PROBLEM"
+    "dentures": "TREATMENT"
   },
   {
     "bleeding gums": "PROBLEM"
@@ -114,7 +111,7 @@
     "paroxysmal nocturnal dyspnea": "PROBLEM"
   },
   {
-    "history of stress test": "TEST"
+    "stress test": "TEST"
   },
   {
     "arteriogram": "TEST"
@@ -142,9 +139,6 @@
   },
   {
     "peptic ulcer disease": "PROBLEM"
-  },
-  {
-    "hernia": "PROBLEM"
   },
   {
     "hepatitis": "PROBLEM"
@@ -273,19 +267,19 @@
     "anemia": "PROBLEM"
   },
   {
-    "swollen glands": "PROBLEM"
+    "blood disorders": "PROBLEM"
   },
   {
-    "blood disorders": "PROBLEM"
+    "swollen glands": "PROBLEM"
   },
   {
     "steroids": "DRUG"
   },
   {
-    "chemotherapy": "DRUG"
+    "cancer": "PROBLEM"
   },
   {
-    "cancer": "PROBLEM"
+    "chemotherapy": "TREATMENT"
   },
   {
     "varicose veins": "PROBLEM"
@@ -300,9 +294,6 @@
     "leg ulcers": "PROBLEM"
   },
   {
-    "disease": "PROBLEM"
-  },
-  {
     "cough": "PROBLEM"
   },
   {
@@ -315,7 +306,7 @@
     "fever": "PROBLEM"
   },
   {
-    "weight": "PROBLEM"
+    "weight": "TEST"
   },
   {
     "fatigue": "PROBLEM"
@@ -324,13 +315,16 @@
     "aching": "PROBLEM"
   },
   {
-    "nose": "PROBLEM"
+    "nose": "TEST"
   },
   {
-    "throat": "PROBLEM"
+    "throat": "TEST"
   },
   {
     "swelling": "PROBLEM"
+  },
+  {
+    "disease": "PROBLEM"
   },
   {
     "incontinence": "PROBLEM"
@@ -339,12 +333,12 @@
     "bleeding": "PROBLEM"
   },
   {
-    "heartbeat": "PROBLEM"
+    "heartbeat": "TEST"
   },
   {
-    "blood": "PROBLEM"
+    "blood": "TEST"
   },
   {
-    "joint": "PROBLEM"
+    "joint": "TEST"
   }
 ]

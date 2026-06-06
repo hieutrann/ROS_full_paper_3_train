@@ -51,7 +51,7 @@
     "Albuterol": "DRUG"
   },
   {
-    "NO KNOWN DRUG ALLERGIES": "PROBLEM"
+    "drug allergies": "PROBLEM"
   },
   {
     "smoker": "PROBLEM"
@@ -78,7 +78,16 @@
     "acute distress": "PROBLEM"
   },
   {
-    "Head": "TEST"
+    "Head": "PROBLEM"
+  },
+  {
+    "atraumatic": "PROBLEM"
+  },
+  {
+    "normocephalic": "PROBLEM"
+  },
+  {
+    "nontender": "PROBLEM"
   },
   {
     "conjunctiva": "PROBLEM"
@@ -87,31 +96,28 @@
     "cornea": "PROBLEM"
   },
   {
-    "Supple": "TEST"
-  },
-  {
-    "range of motion": "TEST"
+    "Supple": "TREATMENT"
   },
   {
     "Peripheral pulse": "TEST"
   },
   {
-    "Capillary refills": "TEST"
+    "refills": "TEST"
   },
   {
     "shortness of breath": "PROBLEM"
   },
   {
-    "partial thickness laceration": "PROBLEM"
+    "laceration": "PROBLEM"
   },
   {
-    "top of the right foot": "PROBLEM"
-  },
-  {
-    "mid foot": "PROBLEM"
+    "foot": "PROBLEM"
   },
   {
     "foreign body": "PROBLEM"
+  },
+  {
+    "bleeding": "PROBLEM"
   },
   {
     "tendons": "PROBLEM"
@@ -150,10 +156,10 @@
     "ambulates": "TEST"
   },
   {
-    "injuries": "PROBLEM"
+    "laceration": "PROBLEM"
   },
   {
-    "laceration": "PROBLEM"
+    "foot": "TREATMENT"
   },
   {
     "injuries": "PROBLEM"
@@ -165,7 +171,7 @@
     "5/5": "TEST"
   },
   {
-    "right lower extremity": "PROBLEM"
+    "lower extremity": "PROBLEM"
   },
   {
     "dermatomes": "PROBLEM"
@@ -177,7 +183,7 @@
     "ambulation": "PROBLEM"
   },
   {
-    "alert and oriented x4": "TEST"
+    "oriented": "TEST"
   },
   {
     "mood": "PROBLEM"
@@ -186,7 +192,7 @@
     "affect": "PROBLEM"
   },
   {
-    "active bleeding": "PROBLEM"
+    "bleeding": "PROBLEM"
   },
   {
     "bruising": "PROBLEM"
@@ -204,22 +210,22 @@
     "LACERATION": "PROBLEM"
   },
   {
-    "2": "TEST"
+    "2": "TREATMENT"
   },
   {
     "ACUTE RIGHT FOOT PAIN": "PROBLEM"
   },
   {
-    "CONDITION UPON DISPOSITION": "PROBLEM"
+    "Stable": "PROBLEM"
   },
   {
     "home": "TREATMENT"
   },
   {
-    "infection": "PROBLEM"
+    "wound care": "TREATMENT"
   },
   {
-    "wound care": "TREATMENT"
+    "infection": "PROBLEM"
   },
   {
     "emergency room": "TEST"
@@ -256,8 +262,5 @@
   },
   {
     "bleeding": "PROBLEM"
-  },
-  {
-    "body": "PROBLEM"
   }
 ]

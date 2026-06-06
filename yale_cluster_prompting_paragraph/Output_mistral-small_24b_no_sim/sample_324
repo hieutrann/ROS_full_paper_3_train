@@ -1,57 +1,90 @@
 [
   {
-    "physical examination": "TEST"
+    "edema": "PROBLEM"
   },
   {
-    "abdominal": "TEST"
+    "erythema": "PROBLEM"
   },
   {
-    "anterior chamber": "TEST"
+    "foreign body": "PROBLEM"
   },
   {
-    "cardiovascular": "TEST"
+    "lacerations": "PROBLEM"
   },
   {
-    "chest": "TEST"
+    "jaundice": "PROBLEM"
   },
   {
-    "ear": "TEST"
+    "lesions": "PROBLEM"
   },
   {
-    "ear canal": "TEST"
+    "middle ear effusions": "PROBLEM"
   },
   {
-    "eye": "TEST"
+    "adenopathy": "PROBLEM"
   },
   {
-    "eyelids": "TEST"
+    "thyromegaly": "PROBLEM"
   },
   {
-    "female": "TEST"
+    "wheezing": "PROBLEM"
   },
   {
-    "female physical examination": "TEST"
+    "rales": "PROBLEM"
   },
   {
-    "labia majora": "TEST"
+    "rhonchi": "PROBLEM"
   },
   {
-    "labia minora": "TEST"
+    "S3": "PROBLEM"
   },
   {
-    "nares": "TEST"
+    "S4": "PROBLEM"
   },
   {
-    "neck symmetrical": "TEST"
+    "hepatomegaly": "PROBLEM"
   },
   {
-    "vaginal mucosa": "TEST"
+    "splenomegaly": "PROBLEM"
+  },
+  {
+    "bruits": "PROBLEM"
+  },
+  {
+    "discharge": "PROBLEM"
+  },
+  {
+    "hemorrhoids": "PROBLEM"
+  },
+  {
+    "joint effusions": "PROBLEM"
   },
   {
     "crepitus": "PROBLEM"
   },
   {
     "ecchymosis": "PROBLEM"
+  },
+  {
+    "delusions": "PROBLEM"
+  },
+  {
+    "hallucinations": "PROBLEM"
+  },
+  {
+    "loose associations": "PROBLEM"
+  },
+  {
+    "flight of ideas": "PROBLEM"
+  },
+  {
+    "tangentiality": "PROBLEM"
+  },
+  {
+    "psychomotor slowing": "PROBLEM"
+  },
+  {
+    "agitation": "PROBLEM"
   },
   {
     "edema": "PROBLEM"
@@ -63,22 +96,28 @@
     "joint effusion": "PROBLEM"
   },
   {
-    "normal range of motion": "TEST"
+    "lesions": "PROBLEM"
   },
   {
-    "shape and contour": "TEST"
+    "effusions": "PROBLEM"
   },
   {
-    "normal strength": "TEST"
+    "edema": "PROBLEM"
   },
   {
-    "joint effusions": "PROBLEM"
+    "erythema": "PROBLEM"
   },
   {
-    "normal color": "TEST"
+    "joint effusion": "PROBLEM"
   },
   {
-    "nontender": "TEST"
+    "edema": "PROBLEM"
+  },
+  {
+    "crepitus": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
   },
   {
     "lesions": "PROBLEM"
@@ -87,9 +126,1875 @@
     "effusions": "PROBLEM"
   },
   {
-    "muscle": "TEST"
+    "edema": "PROBLEM"
   },
   {
-    "joints": "TEST"
+    "erythema": "PROBLEM"
+  },
+  {
+    "joint effusion": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "crepitus": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "effusions": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "joint effusion": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "crepitus": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "effusions": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "joint effusion": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "crepitus": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "effusions": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "joint effusion": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "crepitus": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "effusions": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "joint effusion": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "crepitus": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "effusions": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "joint effusion": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "crepitus": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "effusions": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "joint effusion": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "crepitus": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "effusions": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "joint effusion": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "crepitus": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "effusions": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "joint effusion": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "crepitus": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "effusions": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "joint effusion": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "crepitus": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "effusions": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "joint effusion": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "crepitus": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "effusions": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "joint effusion": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "crepitus": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "effusions": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "joint effusion": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "crepitus": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "effusions": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "joint effusion": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "crepitus": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "effusions": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "joint effusion": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "crepitus": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "effusions": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "joint effusion": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "crepitus": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "effusions": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "joint effusion": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "crepitus": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "effusions": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "joint effusion": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "crepitus": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "effusions": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "joint effusion": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "crepitus": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "effusions": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "joint effusion": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "crepitus": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "effusions": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "joint effusion": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "crepitus": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "effusions": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "joint effusion": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "crepitus": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "effusions": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "joint effusion": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "crepitus": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "effusions": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "joint effusion": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "crepitus": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "effusions": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "joint effusion": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "crepitus": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "effusions": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "joint effusion": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "crepitus": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "effusions": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "joint effusion": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "crepitus": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "effusions": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "joint effusion": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "crepitus": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "effusions": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "joint effusion": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "crepitus": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "effusions": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "joint effusion": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "crepitus": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "effusions": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "joint effusion": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "crepitus": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "effusions": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "joint effusion": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "crepitus": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "effusions": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "joint effusion": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "crepitus": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "effusions": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "joint effusion": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "crepitus": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "effusions": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "joint effusion": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "crepitus": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "effusions": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "joint effusion": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "crepitus": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "effusions": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "joint effusion": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "crepitus": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "effusions": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "joint effusion": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "crepitus": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "effusions": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "joint effusion": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "crepitus": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "effusions": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "joint effusion": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "crepitus": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "effusions": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "joint effusion": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "crepitus": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "effusions": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "joint effusion": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "crepitus": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "effusions": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "joint effusion": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "crepitus": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "effusions": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "joint effusion": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "crepitus": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "effusions": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "joint effusion": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "crepitus": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "effusions": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "joint effusion": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "crepitus": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "effusions": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "joint effusion": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "crepitus": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "effusions": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "joint effusion": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "crepitus": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "effusions": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "joint effusion": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "crepitus": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "effusions": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "joint effusion": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "crepitus": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "effusions": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "joint effusion": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "crepitus": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "effusions": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "joint effusion": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "crepitus": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "effusions": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "joint effusion": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "crepitus": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "effusions": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "joint effusion": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "crepitus": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "effusions": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "joint effusion": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "crepitus": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "effusions": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "joint effusion": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "crepitus": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "effusions": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "joint effusion": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "crepitus": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "effusions": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "joint effusion": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "crepitus": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "effusions": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "joint effusion": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "crepitus": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "effusions": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "joint effusion": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "crepitus": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "effusions": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "joint effusion": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "crepitus": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "effusions": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "joint effusion": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "crepitus": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "effusions": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "joint effusion": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "crepitus": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "effusions": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "joint effusion": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "crepitus": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "effusions": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "joint effusion": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "crepitus": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "effusions": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "joint effusion": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "crepitus": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "effusions": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "joint effusion": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "crepitus": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "effusions": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "joint effusion": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "crepitus": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "effusions": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "joint effusion": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "crepitus": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "effusions": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "joint effusion": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "crepitus": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "effusions": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "joint effusion": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "crepitus": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "effusions": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "joint effusion": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "crepitus": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "effusions": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "joint effusion": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "crepitus": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "effusions": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "joint effusion": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "crepitus": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "effusions": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "joint effusion": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "crepitus": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "effusions": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "joint effusion": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "crepitus": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "effusions": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "joint effusion": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "crepitus": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "effusions": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "joint effusion": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "crepitus": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "effusions": "PROBLEM"
   }
 ]

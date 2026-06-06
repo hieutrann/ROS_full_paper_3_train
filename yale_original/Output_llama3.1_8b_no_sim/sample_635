@@ -33,13 +33,13 @@
     "angiography": "TEST"
   },
   {
-    "2": "TEST"
+    "2": "TREATMENT"
   },
   {
-    "Right femoral selective angiogram": "TEST"
+    "femoral selective angiogram": "TEST"
   },
   {
-    "3": "PROBLEM"
+    "3": "TREATMENT"
   },
   {
     "Angio-Seal": "TREATMENT"
@@ -72,13 +72,10 @@
     "disease": "PROBLEM"
   },
   {
-    "percutaneous evaluation": "TEST"
-  },
-  {
     "intervention": "TREATMENT"
   },
   {
-    "cardiac catheterization lab": "TEST"
+    "cardiac catheterization": "TREATMENT"
   },
   {
     "lidocaine": "DRUG"
@@ -87,16 +84,19 @@
     "6-French sheath": "TREATMENT"
   },
   {
-    "right femoral artery": "PROBLEM"
+    "guide wire": "TREATMENT"
   },
   {
-    "0.035 guide wire": "TREATMENT"
+    "femoral artery": "PROBLEM"
   },
   {
     "Coronary angiography": "TEST"
   },
   {
-    "left ventricular measurement and angiography": "TEST"
+    "left ventricular measurement": "TEST"
+  },
+  {
+    "angiography": "TEST"
   },
   {
     "6-French JL4 diagnostic catheter": "TEST"
@@ -105,7 +105,7 @@
     "left coronary artery": "PROBLEM"
   },
   {
-    "6-French JR4 diagnostic catheter": "TEST"
+    "diagnostic catheter": "TREATMENT"
   },
   {
     "artery": "PROBLEM"
@@ -144,10 +144,16 @@
     "arteriotomy": "TREATMENT"
   },
   {
-    "common femoral artery": "PROBLEM"
+    "femoral artery": "PROBLEM"
+  },
+  {
+    "profunda femoris arteries": "PROBLEM"
   },
   {
     "Perclose device": "TREATMENT"
+  },
+  {
+    "artery": "PROBLEM"
   },
   {
     "Perclose": "TREATMENT"
@@ -177,7 +183,7 @@
     "aortic valve": "PROBLEM"
   },
   {
-    "gradient": "PROBLEM"
+    "gradient": "TEST"
   },
   {
     "left ventricle": "TEST"
@@ -192,12 +198,6 @@
     "wall motion": "TEST"
   },
   {
-    "CORONARY ANGIOGRAM": "TEST"
-  },
-  {
-    "left main coronary artery": "PROBLEM"
-  },
-  {
     "atherosclerotic plaque": "PROBLEM"
   },
   {
@@ -210,7 +210,7 @@
     "obtuse marginal branch": "PROBLEM"
   },
   {
-    "OM-2": "PROBLEM"
+    "OM-2": "TREATMENT"
   },
   {
     "stenosis": "PROBLEM"
@@ -222,7 +222,7 @@
     "anastomosis": "PROBLEM"
   },
   {
-    "saphenous vein graft": "PROBLEM"
+    "saphenous vein graft": "TREATMENT"
   },
   {
     "OM": "PROBLEM"
@@ -237,31 +237,25 @@
     "atherosclerotic plaque": "PROBLEM"
   },
   {
-    "distal right coronary artery": "PROBLEM"
+    "coronary artery": "PROBLEM"
   },
   {
     "stenosis": "PROBLEM"
-  },
-  {
-    "posterior left ventricular branch": "PROBLEM"
   },
   {
     "stenosis": "PROBLEM"
   },
   {
     "PDA": "PROBLEM"
+  },
+  {
+    "PDA": "PROBLEM"
+  },
+  {
+    "coronary artery": "PROBLEM"
   },
   {
     "saphenous vein graft": "TREATMENT"
-  },
-  {
-    "PDA": "PROBLEM"
-  },
-  {
-    "native right coronary artery": "PROBLEM"
-  },
-  {
-    "saphenous vein graft": "PROBLEM"
   },
   {
     "PDA": "PROBLEM"
@@ -276,16 +270,22 @@
     "coronary artery": "PROBLEM"
   },
   {
-    "saphenous vein graft": "PROBLEM"
+    "graft": "TREATMENT"
   },
   {
-    "LAD": "PROBLEM"
+    "saphenous vein graft": "TREATMENT"
+  },
+  {
+    "left anterior descending": "PROBLEM"
+  },
+  {
+    "anastomosis": "PROBLEM"
   },
   {
     "retrograde filling": "TEST"
   },
   {
-    "saphenous vein graft": "PROBLEM"
+    "saphenous vein graft": "TREATMENT"
   },
   {
     "obtuse marginal": "PROBLEM"
@@ -294,31 +294,34 @@
     "study": "TEST"
   },
   {
+    "study": "TEST"
+  },
+  {
     "LAD": "PROBLEM"
   },
   {
-    "left circumflex disease": "PROBLEM"
+    "circumflex disease": "PROBLEM"
   },
   {
     "OM": "PROBLEM"
   },
   {
-    "80% lesion": "PROBLEM"
+    "lesion": "PROBLEM"
   },
   {
-    "PLV": "PROBLEM"
+    "distal disease": "PROBLEM"
   },
   {
-    "PDA": "PROBLEM"
+    "PLV disease": "PROBLEM"
   },
   {
-    "saphenous vein graft": "PROBLEM"
-  },
-  {
-    "OM": "PROBLEM"
+    "PDA disease": "PROBLEM"
   },
   {
     "saphenous vein graft": "TREATMENT"
+  },
+  {
+    "OM": "PROBLEM"
   },
   {
     "PDA": "PROBLEM"
@@ -336,10 +339,10 @@
     "risk factor modification": "TREATMENT"
   },
   {
-    "antihyperlipidemic": "TREATMENT"
+    "antihypertensive": "DRUG"
   },
   {
-    "antihypertensive": "TREATMENT"
+    "antihyperlipidemic": "DRUG"
   },
   {
     "LDL": "PROBLEM"
@@ -354,10 +357,10 @@
     "bedrest": "TREATMENT"
   },
   {
-    "carotid duplex Doppler ultrasound": "TEST"
+    "carotid bruits": "PROBLEM"
   },
   {
-    "carotid bruits": "PROBLEM"
+    "carotid duplex Doppler ultrasound": "TEST"
   },
   {
     "surgery": "TREATMENT"

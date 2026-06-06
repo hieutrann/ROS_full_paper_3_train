@@ -1,0 +1,197 @@
+[
+  {
+    "Coronary artery disease": "PROBLEM"
+  },
+  {
+    "bypass surgery": "TREATMENT"
+  },
+  {
+    "PSA": "TEST"
+  },
+  {
+    "BPH": "PROBLEM"
+  },
+  {
+    "prostate biopsy": "TEST"
+  },
+  {
+    "urinary tract infection": "PROBLEM"
+  },
+  {
+    "antibiotic": "DRUG"
+  },
+  {
+    "fatigue": "PROBLEM"
+  },
+  {
+    "tiredness": "PROBLEM"
+  },
+  {
+    "CAD": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "diabetes mellitus": "PROBLEM"
+  },
+  {
+    "cholesterol": "TEST"
+  },
+  {
+    "angioplasty": "TREATMENT"
+  },
+  {
+    "Metformin": "DRUG"
+  },
+  {
+    "Prilosec": "DRUG"
+  },
+  {
+    "Folic acid": "DRUG"
+  },
+  {
+    "Flomax": "DRUG"
+  },
+  {
+    "Metoprolol": "DRUG"
+  },
+  {
+    "Crestor": "DRUG"
+  },
+  {
+    "Claritin": "DRUG"
+  },
+  {
+    "DEMEROL": "DRUG"
+  },
+  {
+    "SULFA": "DRUG"
+  },
+  {
+    "knee surgeries": "TREATMENT"
+  },
+  {
+    "back surgery": "TREATMENT"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "rigors": "PROBLEM"
+  },
+  {
+    "chills": "PROBLEM"
+  },
+  {
+    "cataract": "PROBLEM"
+  },
+  {
+    "glaucoma": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "hematemesis": "PROBLEM"
+  },
+  {
+    "melena": "PROBLEM"
+  },
+  {
+    "frequency": "PROBLEM"
+  },
+  {
+    "urgency": "PROBLEM"
+  },
+  {
+    "TIA": "PROBLEM"
+  },
+  {
+    "CVA": "PROBLEM"
+  },
+  {
+    "seizure disorder": "PROBLEM"
+  },
+  {
+    "anxiety": "PROBLEM"
+  },
+  {
+    "depression": "PROBLEM"
+  },
+  {
+    "Pulse": "TEST"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "respiratory rate": "TEST"
+  },
+  {
+    "EKG": "TEST"
+  },
+  {
+    "H&H": "TEST"
+  },
+  {
+    "BUN": "TEST"
+  },
+  {
+    "creatinine": "TEST"
+  },
+  {
+    "coronary artery disease": "PROBLEM"
+  },
+  {
+    "bypass surgery": "TREATMENT"
+  },
+  {
+    "angioplasty": "TREATMENT"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "urinary tract infection": "PROBLEM"
+  },
+  {
+    "prostatitis": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "hyperlipidemia": "PROBLEM"
+  },
+  {
+    "diabetes mellitus": "PROBLEM"
+  },
+  {
+    "prostate surgery": "TREATMENT"
+  },
+  {
+    "antibiotic": "DRUG"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "cardiac workup": "TEST"
+  },
+  {
+    "ischemia": "PROBLEM"
+  },
+  {
+    "graft": "TREATMENT"
+  }
+]

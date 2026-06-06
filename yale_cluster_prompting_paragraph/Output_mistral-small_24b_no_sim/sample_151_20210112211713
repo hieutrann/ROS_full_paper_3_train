@@ -24,19 +24,16 @@
     "choledocholithiasis": "PROBLEM"
   },
   {
-    "Status post roux-en-y gastric bypass": "TREATMENT"
+    "roux-en-y gastric bypass": "TREATMENT"
   },
   {
-    "Laparoscopic paraventral hernia": "PROBLEM"
+    "Laparoscopic paraventral hernia": "TREATMENT"
   },
   {
     "sleep apnea": "PROBLEM"
   },
   {
-    "morbid obesity": "PROBLEM"
-  },
-  {
-    "bmi": "TEST"
+    "Morbid obesity": "PROBLEM"
   },
   {
     "Laparoscopic cholecystectomy": "TREATMENT"
@@ -51,25 +48,10 @@
     "stone extraction": "TREATMENT"
   },
   {
-    "elevated bilirubin": "TEST"
-  },
-  {
-    "common bile duct stone": "PROBLEM"
-  },
-  {
     "abdominal pain": "PROBLEM"
   },
   {
-    "elevated bilirubin": "TEST"
-  },
-  {
     "gallstones": "PROBLEM"
-  },
-  {
-    "ultrasound": "TEST"
-  },
-  {
-    "dilated common bile duct": "PROBLEM"
   },
   {
     "HIDA scan": "TEST"
@@ -78,31 +60,10 @@
     "cholecystitis": "PROBLEM"
   },
   {
-    "gallbladder": "PROBLEM"
-  },
-  {
-    "small bowel": "PROBLEM"
-  },
-  {
-    "common bile duct blockage": "PROBLEM"
-  },
-  {
     "laparoscopic cholecystectomy": "TREATMENT"
   },
   {
     "cholangiogram": "TEST"
-  },
-  {
-    "contrast": "DRUG"
-  },
-  {
-    "duodenum": "PROBLEM"
-  },
-  {
-    "filling defect": "PROBLEM"
-  },
-  {
-    "distal common bile duct stone": "PROBLEM"
   },
   {
     "Roux-en-Y gastric bypass": "TREATMENT"
@@ -117,70 +78,28 @@
     "common bile duct exploration": "TREATMENT"
   },
   {
-    "stone": "PROBLEM"
-  },
-  {
-    "open operation": "TREATMENT"
-  },
-  {
-    "medical surgical unit": "PROBLEM"
-  },
-  {
-    "incisional pain": "PROBLEM"
-  },
-  {
-    "nausea": "PROBLEM"
-  },
-  {
-    "Jackson-Pratt drain": "TEST"
+    "Jackson-Pratt drain": "TREATMENT"
   },
   {
     "serosanguineous fluid": "PROBLEM"
   },
   {
-    "white blood cell count": "TEST"
+    "White blood cell count": "TEST"
   },
   {
     "bilirubin": "TEST"
   },
   {
-    "liquid diet": "DRUG"
+    "Jackson-Pratt drain": "TREATMENT"
   },
   {
-    "Foley catheter": "TEST"
+    "Foley catheter": "TREATMENT"
   },
   {
     "bile leak": "PROBLEM"
   },
   {
-    "drains": "TEST"
-  },
-  {
-    "regular diet": "DRUG"
-  },
-  {
-    "postoperative day": "TEST"
-  },
-  {
-    "bowels": "PROBLEM"
-  },
-  {
-    "afebrile": "PROBLEM"
-  },
-  {
-    "pain control": "PROBLEM"
-  },
-  {
-    "oral pain medications": "DRUG"
-  },
-  {
-    "Jackson-Pratt drain": "TEST"
-  },
-  {
-    "wound": "PROBLEM"
-  },
-  {
-    "cystic duct": "PROBLEM"
+    "Jackson-Pratt drain": "TREATMENT"
   },
   {
     "laboratory studies": "TEST"
@@ -189,25 +108,13 @@
     "bilirubin": "TEST"
   },
   {
-    "white blood cell count": "TEST"
+    "White blood cell count": "TEST"
   },
   {
     "H&H": "TEST"
   },
   {
-    "Jackson-Pratt drain": "TEST"
-  },
-  {
-    "discharge": "TREATMENT"
-  },
-  {
-    "home": "PROBLEM"
-  },
-  {
-    "Followup": "TREATMENT"
-  },
-  {
-    "staple removal": "TREATMENT"
+    "Jackson-Pratt drain": "TREATMENT"
   },
   {
     "iron 325 mg p.o. t.i.d.": "DRUG"

@@ -1,18 +1,15 @@
 [
   {
-    "CT C-Spine - 2": "TEST"
+    "CT C-Spine": "TEST"
   },
   {
-    "CT cervical spine": "TEST"
+    "CT examination": "TEST"
   },
   {
-    "trauma": "PROBLEM"
+    "cervical spine": "PROBLEM"
   },
   {
-    "CT examination of the cervical spine": "TEST"
-  },
-  {
-    "Coronal and sagittal reformats": "TEST"
+    "reformats": "TEST"
   },
   {
     "CT cervical spine": "TEST"
@@ -21,13 +18,25 @@
     "C-spine": "TEST"
   },
   {
-    "CT examination of the cervical spine": "TEST"
+    "trauma": "PROBLEM"
   },
   {
-    "Coronal and sagittal reformats": "TEST"
+    "CT examination": "TEST"
   },
   {
-    "Cervical vertebral body height, alignment and interspacing": "TEST"
+    "cervical spine": "PROBLEM"
+  },
+  {
+    "reformats": "TEST"
+  },
+  {
+    "Cervical vertebral body height": "TEST"
+  },
+  {
+    "alignment": "TEST"
+  },
+  {
+    "interspacing": "TEST"
   },
   {
     "fractures": "PROBLEM"
@@ -42,7 +51,10 @@
     "facet changes": "PROBLEM"
   },
   {
-    "osseous central canal or foraminal narrowing": "PROBLEM"
+    "osseous central canal": "PROBLEM"
+  },
+  {
+    "foraminal narrowing": "PROBLEM"
   },
   {
     "cervical spine": "PROBLEM"
@@ -51,10 +63,10 @@
     "c-spine": "TEST"
   },
   {
-    "ct examination": "TEST"
+    "cervical spine": "TEST"
   },
   {
-    "cervical spine": "TEST"
+    "ct examination": "TEST"
   },
   {
     "ct": "TEST"

@@ -30,6 +30,9 @@
     "mediolateral oblique projections": "TEST"
   },
   {
+    "iCAD Second Look proprietary software": "TEST"
+  },
+  {
     "adipose": "PROBLEM"
   },
   {
@@ -63,7 +66,10 @@
     "mammography": "TEST"
   },
   {
-    "malignancy": "PROBLEM"
+    "cancers": "PROBLEM"
+  },
+  {
+    "radiographic evidence of malignancy": "TEST"
   },
   {
     "biopsy": "TREATMENT"
@@ -75,6 +81,9 @@
     "digital mammography": "TEST"
   },
   {
+    "iCAD SecondLook Software Version 7.2": "TEST"
+  },
+  {
     "bilateral screening mammogram": "TEST"
   },
   {
@@ -82,9 +91,6 @@
   },
   {
     "screening mammogram": "TEST"
-  },
-  {
-    "mammogram": "TEST"
   },
   {
     "mammography": "TEST"

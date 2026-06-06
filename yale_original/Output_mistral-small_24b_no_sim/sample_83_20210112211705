@@ -6,7 +6,7 @@
     "vaginal bleeding": "PROBLEM"
   },
   {
-    "Right ruptured ectopic pregnancy": "PROBLEM"
+    "ectopic pregnancy": "PROBLEM"
   },
   {
     "hemoperitoneum": "PROBLEM"
@@ -45,7 +45,7 @@
     "gestational sac": "PROBLEM"
   },
   {
-    "sonogram": "TEST"
+    "mass": "PROBLEM"
   },
   {
     "uterus": "PROBLEM"
@@ -57,19 +57,25 @@
     "hCG titer": "TEST"
   },
   {
-    "ruptured ectopic pregnancy": "PROBLEM"
+    "15,000": "TEST"
+  },
+  {
+    "18,000": "TEST"
+  },
+  {
+    "ectopic pregnancy": "PROBLEM"
   },
   {
     "laparotomy": "TREATMENT"
   },
   {
-    "right ruptured ectopic pregnancy": "PROBLEM"
+    "ectopic pregnancy": "PROBLEM"
   },
   {
     "salpingectomy": "TREATMENT"
   },
   {
-    "red packed cells": "DRUG"
+    "red packed cells": "TREATMENT"
   },
   {
     "hemoglobin": "TEST"
@@ -84,13 +90,16 @@
     "surgery": "TREATMENT"
   },
   {
-    "abdomen": "PROBLEM"
+    "fever": "PROBLEM"
   },
   {
     "bowel movement": "PROBLEM"
   },
   {
-    "Right ruptured ectopic pregnancy": "PROBLEM"
+    "FINAL DIAGNOSES": "TEST"
+  },
+  {
+    "ectopic pregnancy": "PROBLEM"
   },
   {
     "hemoperitoneum": "PROBLEM"
@@ -105,7 +114,7 @@
     "pain medication": "DRUG"
   },
   {
-    "iron therapy": "DRUG"
+    "iron therapy": "TREATMENT"
   },
   {
     "anemia": "PROBLEM"

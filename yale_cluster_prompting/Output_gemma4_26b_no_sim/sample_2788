@@ -96,40 +96,13 @@
     "trazodone": "DRUG"
   },
   {
-    "Temperature": "TEST"
-  },
-  {
-    "blood pressure": "TEST"
-  },
-  {
-    "pulse": "TEST"
-  },
-  {
-    "respiratory rate": "TEST"
-  },
-  {
-    "O2 saturation": "TEST"
-  },
-  {
     "right knee pain": "PROBLEM"
   },
   {
-    "Sclerae nonicteric": "PROBLEM"
-  },
-  {
-    "EOMI": "TEST"
+    "EOMI": "PROBLEM"
   },
   {
     "thrush": "PROBLEM"
-  },
-  {
-    "thyroid enlargement": "PROBLEM"
-  },
-  {
-    "HEART": "TEST"
-  },
-  {
-    "S1 and S2": "TEST"
   },
   {
     "right knee incision": "PROBLEM"
@@ -147,9 +120,6 @@
     "calf tenderness": "PROBLEM"
   },
   {
-    "Pedal pulses": "TEST"
-  },
-  {
     "anxious": "PROBLEM"
   },
   {
@@ -159,19 +129,19 @@
     "Occupational Therapy": "TREATMENT"
   },
   {
-    "rehabilitation": "TREATMENT"
-  },
-  {
     "CPM machine": "TREATMENT"
   },
   {
     "CPM": "TREATMENT"
   },
   {
-    "increased right knee pain": "PROBLEM"
+    "right knee pain": "PROBLEM"
   },
   {
     "pain management": "TREATMENT"
+  },
+  {
+    "Ativan": "DRUG"
   },
   {
     "Ativan": "DRUG"
@@ -207,7 +177,7 @@
     "Percocet": "DRUG"
   },
   {
-    "oxycodone SR": "DRUG"
+    "oxycodone SR 20 mg": "DRUG"
   },
   {
     "Percocet": "DRUG"
@@ -309,7 +279,10 @@
     "Gastroesophageal reflux disease": "PROBLEM"
   },
   {
-    "Morton neuroma of the feet bilaterally": "PROBLEM"
+    "Morton neuroma": "PROBLEM"
+  },
+  {
+    "feet": "PROBLEM"
   },
   {
     "migraine headaches": "PROBLEM"
@@ -330,13 +303,13 @@
     "Diprosone cream": "DRUG"
   },
   {
-    "oxycodone": "DRUG"
+    "oxycodone SR 20 mg": "DRUG"
   },
   {
-    "oxycodone SR": "DRUG"
+    "oxycodone SR 10 mg": "DRUG"
   },
   {
-    "Percocet": "DRUG"
+    "Percocet 5/325 mg": "DRUG"
   },
   {
     "breakthrough pain": "PROBLEM"
@@ -363,7 +336,7 @@
     "Coumadin": "DRUG"
   },
   {
-    "INR": "TEST"
+    "An INR": "TEST"
   },
   {
     "Coumadin": "DRUG"

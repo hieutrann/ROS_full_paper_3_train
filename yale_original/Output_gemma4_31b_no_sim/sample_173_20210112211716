@@ -3,9 +3,6 @@
     "Refractory Hypertension": "PROBLEM"
   },
   {
-    "Refractory hypertension": "PROBLEM"
-  },
-  {
     "cardiac arrhythmia": "PROBLEM"
   },
   {
@@ -120,10 +117,7 @@
     "blood pressure": "TEST"
   },
   {
-    "lungs": "TEST"
-  },
-  {
-    "regular rate and rhythm": "PROBLEM"
+    "lungs": "PROBLEM"
   },
   {
     "murmur": "PROBLEM"
@@ -133,9 +127,6 @@
   },
   {
     "murmur": "PROBLEM"
-  },
-  {
-    "nontender": "PROBLEM"
   },
   {
     "edema": "PROBLEM"
@@ -151,9 +142,6 @@
   },
   {
     "blood pressure": "PROBLEM"
-  },
-  {
-    "confusion": "PROBLEM"
   },
   {
     "cardiac arrhythmia": "PROBLEM"

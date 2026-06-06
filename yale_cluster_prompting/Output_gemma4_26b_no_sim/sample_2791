@@ -1,8 +1,5 @@
 [
   {
-    "GI Bleed": "PROBLEM"
-  },
-  {
     "GI bleed": "PROBLEM"
   },
   {
@@ -36,7 +33,7 @@
     "hemoglobin": "TEST"
   },
   {
-    "Stool dark brown": "TEST"
+    "Stool dark brown": "PROBLEM"
   },
   {
     "OB positive": "TEST"
@@ -69,22 +66,13 @@
     "hypothyroidism": "PROBLEM"
   },
   {
-    "VITAL SIGNS": "TEST"
-  },
-  {
-    "adenopathy": "PROBLEM"
+    "No adenopathy": "PROBLEM"
   },
   {
     "Irregularly regular": "PROBLEM"
   },
   {
-    "bowel sounds": "TEST"
-  },
-  {
-    "masses": "PROBLEM"
-  },
-  {
-    "organomegaly": "PROBLEM"
+    "bowel sounds": "PROBLEM"
   },
   {
     "lower extremity edema": "PROBLEM"
@@ -114,7 +102,7 @@
     "hemoglobin": "TEST"
   },
   {
-    "GI complaints": "PROBLEM"
+    "Coumadin": "DRUG"
   },
   {
     "Coumadin": "DRUG"

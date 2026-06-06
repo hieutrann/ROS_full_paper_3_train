@@ -1,5 +1,8 @@
 [
   {
+    "ENT Exam": "TEST"
+  },
+  {
     "lymphadenitis": "PROBLEM"
   },
   {
@@ -21,16 +24,7 @@
     "swelling": "PROBLEM"
   },
   {
-    "disruption": "PROBLEM"
-  },
-  {
     "infection": "PROBLEM"
-  },
-  {
-    "Hearing": "TEST"
-  },
-  {
-    "disruption": "PROBLEM"
   },
   {
     "inflammation": "PROBLEM"
@@ -61,9 +55,6 @@
   },
   {
     "infection": "PROBLEM"
-  },
-  {
-    "oral mucosa": "TEST"
   },
   {
     "swelling": "PROBLEM"

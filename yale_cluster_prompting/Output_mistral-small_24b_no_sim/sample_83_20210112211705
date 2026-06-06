@@ -54,10 +54,13 @@
     "hCG titer": "TEST"
   },
   {
-    "ruptured ectopic pregnancy": "PROBLEM"
+    "15,000": "TEST"
   },
   {
-    "surgery": "TREATMENT"
+    "18,000": "TEST"
+  },
+  {
+    "a possible ruptured ectopic pregnancy": "PROBLEM"
   },
   {
     "laparotomy": "TREATMENT"
@@ -66,10 +69,10 @@
     "right ruptured ectopic pregnancy": "PROBLEM"
   },
   {
-    "salpingectomy": "TREATMENT"
+    "right salpingectomy": "TREATMENT"
   },
   {
-    "red packed cells": "DRUG"
+    "2 units of red packed cells": "TREATMENT"
   },
   {
     "hemoglobin": "TEST"
@@ -82,6 +85,18 @@
   },
   {
     "surgery": "TREATMENT"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "abdomen": "PROBLEM"
+  },
+  {
+    "normal bowel movement": "PROBLEM"
+  },
+  {
+    "FINAL DIAGNOSES": "PROBLEM"
   },
   {
     "Right ruptured ectopic pregnancy": "PROBLEM"
@@ -99,7 +114,7 @@
     "pain medication": "DRUG"
   },
   {
-    "iron therapy": "DRUG"
+    "iron therapy": "TREATMENT"
   },
   {
     "discharge summary": "PROBLEM"

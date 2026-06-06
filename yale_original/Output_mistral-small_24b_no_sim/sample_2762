@@ -27,6 +27,9 @@
     "congestive heart failure": "PROBLEM"
   },
   {
+    "ADMISSION DIAGNOSES": "TEST"
+  },
+  {
     "Seizure": "PROBLEM"
   },
   {
@@ -43,6 +46,9 @@
   },
   {
     "Edema": "PROBLEM"
+  },
+  {
+    "DISCHARGE DIAGNOSES": "TEST"
   },
   {
     "Colon cancer": "PROBLEM"
@@ -64,6 +70,9 @@
   },
   {
     "Seizure disorder": "PROBLEM"
+  },
+  {
+    "PROCEDURES PERFORMED": "TEST"
   },
   {
     "Colonoscopy": "TEST"
@@ -111,16 +120,10 @@
     "seizure disorder": "PROBLEM"
   },
   {
-    "Neurology": "TEST"
-  },
-  {
-    "Noncontrast CT of the head": "TEST"
+    "Noncontrast CT": "TEST"
   },
   {
     "Lamictal": "DRUG"
-  },
-  {
-    "intervention": "TREATMENT"
   },
   {
     "hypoglycemia": "PROBLEM"
@@ -129,16 +132,16 @@
     "diabetic gastroparesis": "PROBLEM"
   },
   {
-    "J-tube": "TREATMENT"
+    "J-tube intermittent feedings": "TREATMENT"
   },
   {
-    "insulin pump": "DRUG"
+    "insulin pump": "TREATMENT"
   },
   {
-    "insulin pump": "DRUG"
+    "insulin pump": "TREATMENT"
   },
   {
-    "insulin pump": "DRUG"
+    "insulin pump": "TREATMENT"
   },
   {
     "hypoglycemia": "PROBLEM"
@@ -147,10 +150,10 @@
     "hyperglycemia": "PROBLEM"
   },
   {
-    "n.p.o.": "TREATMENT"
+    "tube feedings": "TREATMENT"
   },
   {
-    "insulin pump rate": "TREATMENT"
+    "insulin pump": "TREATMENT"
   },
   {
     "insulin": "DRUG"
@@ -171,31 +174,19 @@
     "mass": "PROBLEM"
   },
   {
-    "right hepatic flexure": "PROBLEM"
-  },
-  {
-    "General Surgery": "TREATMENT"
+    "General Surgery": "TEST"
   },
   {
     "right hemicolectomy": "TREATMENT"
   },
   {
-    "procedure": "TREATMENT"
-  },
-  {
     "tube feeds": "TREATMENT"
-  },
-  {
-    "discharge": "TREATMENT"
   },
   {
     "cancer": "PROBLEM"
   },
   {
     "CT of the abdomen and pelvis": "TEST"
-  },
-  {
-    "metastasis": "PROBLEM"
   },
   {
     "CT of the chest": "TEST"
@@ -219,16 +210,13 @@
     "vancomycin": "DRUG"
   },
   {
-    "medications": "DRUG"
-  },
-  {
     "symptoms": "PROBLEM"
   },
   {
     "chest x-rays": "TEST"
   },
   {
-    "illness": "PROBLEM"
+    "Infectious Disease": "PROBLEM"
   },
   {
     "vancomycin": "DRUG"
@@ -240,10 +228,10 @@
     "J-tube": "TEST"
   },
   {
-    "p.o.": "DRUG"
+    "p.o.": "TREATMENT"
   },
   {
-    "Levaquin": "DRUG"
+    "Levaquin 750 mg": "DRUG"
   },
   {
     "Bactrim DS": "DRUG"
@@ -255,7 +243,7 @@
     "MRSA": "PROBLEM"
   },
   {
-    "J-tube": "TEST"
+    "J-tube": "TREATMENT"
   },
   {
     "MRSA": "PROBLEM"
@@ -282,28 +270,37 @@
     "seizure disorder": "PROBLEM"
   },
   {
-    "discharge": "TREATMENT"
+    "100 mg": "DRUG"
   },
   {
-    "diet": "TREATMENT"
+    "150 mg": "DRUG"
   },
   {
     "isotonic fiber feeding": "TREATMENT"
   },
   {
-    "J-tube": "TEST"
+    "J-tube": "TREATMENT"
   },
   {
-    "Coreg": "DRUG"
+    "discharge medications": "DRUG"
+  },
+  {
+    "Coreg 12.5 mg p.o.": "DRUG"
+  },
+  {
+    "b.i.d.": "TREATMENT"
   },
   {
     "Lipitor": "DRUG"
   },
   {
-    "Nitro-Dur": "DRUG"
+    "Nitro-Dur patch": "DRUG"
   },
   {
-    "Phenergan": "DRUG"
+    "Phenergan syrup": "DRUG"
+  },
+  {
+    "p.r.n.": "DRUG"
   },
   {
     "Synthroid": "DRUG"
@@ -324,7 +321,7 @@
     "PEG tube": "TREATMENT"
   },
   {
-    "Nexium": "DRUG"
+    "Nexium 40 mg p.o.": "DRUG"
   },
   {
     "Neurontin": "DRUG"
@@ -333,28 +330,52 @@
     "Lasix": "DRUG"
   },
   {
-    "Fentanyl": "DRUG"
+    "b.i.d.": "TREATMENT"
+  },
+  {
+    "Fentanyl 50 mcg patch transdermal": "DRUG"
   },
   {
     "Calcium and vitamin D combination": "DRUG"
   },
   {
-    "calcium carbonate 500 mg/vitamin D 200 units one tab p.o.": "DRUG"
+    "calcium carbonate": "DRUG"
   },
   {
-    "Bactrim": "DRUG"
+    "Bactrim DS 800mg/160 mg tablet": "DRUG"
   },
   {
     "Levaquin": "DRUG"
   },
   {
-    "CBC": "TEST"
+    "medications": "DRUG"
+  },
+  {
+    "J-tube": "TREATMENT"
+  },
+  {
+    "CBC with diff": "TEST"
   },
   {
     "CMP": "TEST"
   },
   {
     "colon cancer": "PROBLEM"
+  },
+  {
+    "lymph nodes": "PROBLEM"
+  },
+  {
+    "endocrinologist": "TREATMENT"
+  },
+  {
+    "insulin pump": "TREATMENT"
+  },
+  {
+    "J-tube": "TREATMENT"
+  },
+  {
+    "Stable": "PROBLEM"
   },
   {
     "seizure": "PROBLEM"
@@ -390,12 +411,15 @@
     "seizure disorder": "PROBLEM"
   },
   {
-    "insulin pump": "DRUG"
+    "insulin pump": "TREATMENT"
   },
   {
     "hemicolectomy": "TREATMENT"
   },
   {
-    "neurology": "PROBLEM"
+    "neurology": "TEST"
+  },
+  {
+    "disorder": "PROBLEM"
   }
 ]

@@ -1,1 +1,1 @@
-['[\n  {"ant bait": "PROBLEM"},\n  {"Ant Bait Exposure": "PROBLEM"},\n  {"vomiting": "PROBLEM"},\n  {"Borax": "DRUG"},\n  {"coughing": "PROBLEM"},\n  {"gagging": "PROBLEM"},\n  {"vomiting": "PROBLEM"},\n  {"pulse oximetry": "TEST"},\n  {"exposure to ant bait": "PROBLEM"}\n]']
+['[\n  {"entity": "ant bait", "label": "PROBLEM"},\n  {"entity": "vomiting", "label": "PROBLEM"},\n  {"entity": "Borax", "label": "DRUG"},\n  {"entity": "pulse oximetry", "label": "TEST"},\n  {"entity": "exposure to ant bait", "label": "PROBLEM"}\n]']

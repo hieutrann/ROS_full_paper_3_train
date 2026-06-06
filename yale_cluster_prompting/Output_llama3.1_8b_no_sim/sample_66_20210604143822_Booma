@@ -6,22 +6,10 @@
     "appendiceal primary": "PROBLEM"
   },
   {
-    "General Medicine": "TEST"
-  },
-  {
-    "Discharge Summary": "TEST"
-  },
-  {
-    "peritoneal carcinomatosis": "PROBLEM"
-  },
-  {
-    "appendiceal primary": "PROBLEM"
-  },
-  {
     "DATE OF ADMISSION": "TEST"
   },
   {
-    "DATE OF DISCHARGE": "TEST"
+    "DATE OF DISCHARGE": "PROBLEM"
   },
   {
     "Peritoneal carcinomatosis": "PROBLEM"
@@ -39,34 +27,37 @@
     "Diarrhea": "PROBLEM"
   },
   {
+    "AB CD": "DRUG"
+  },
+  {
     "General surgery": "TREATMENT"
   },
   {
     "Surgery Oncology": "TREATMENT"
   },
   {
-    "Urology": "TREATMENT"
+    "Urology": "PROBLEM"
   },
   {
-    "PROCEDURES DURING THIS HOSPITALIZATION": "TREATMENT"
+    "this hospitalization": "TREATMENT"
   },
   {
     "Cystoscopy": "TEST"
   },
   {
+    "bilateral externalized ureteral stents": "TREATMENT"
+  },
+  {
     "pyelograms": "TEST"
   },
   {
-    "ureteral stents": "TREATMENT"
+    "2": "PROBLEM"
   },
   {
-    "2": "TREATMENT"
+    "Exploratory laparotomy": "TREATMENT"
   },
   {
-    "laparotomy": "TREATMENT"
-  },
-  {
-    "hemicolectomy": "TREATMENT"
+    "right hemicolectomy": "TREATMENT"
   },
   {
     "cholecystectomy": "TREATMENT"
@@ -93,12 +84,6 @@
     "peritoneal carcinomatosis": "PROBLEM"
   },
   {
-    "appendiceal primary": "PROBLEM"
-  },
-  {
-    "General Surgery C Service": "TREATMENT"
-  },
-  {
     "baseline labs": "TEST"
   },
   {
@@ -120,10 +105,10 @@
     "Dr.": "TREATMENT"
   },
   {
-    "laparotomy": "TREATMENT"
+    "exploratory laparotomy": "TREATMENT"
   },
   {
-    "hemicolectomy": "TREATMENT"
+    "right hemicolectomy": "TREATMENT"
   },
   {
     "cholecystectomy": "TREATMENT"
@@ -150,16 +135,10 @@
     "extubation": "TREATMENT"
   },
   {
-    "floor": "TEST"
+    "flatus": "PROBLEM"
   },
   {
-    "flatus": "TEST"
-  },
-  {
-    "clear liquid diet": "TREATMENT"
-  },
-  {
-    "health select diet": "TREATMENT"
+    "a regular health select diet": "TREATMENT"
   },
   {
     "PCA pump": "TREATMENT"
@@ -171,22 +150,25 @@
     "pain medicines": "DRUG"
   },
   {
-    "pain control": "PROBLEM"
+    "pain": "PROBLEM"
   },
   {
-    "ambulating": "TREATMENT"
+    "bed": "PROBLEM"
   },
   {
     "diarrhea": "PROBLEM"
   },
   {
-    "hemicolectomy": "TREATMENT"
+    "right hemicolectomy": "TREATMENT"
   },
   {
     "C. diff toxin": "TEST"
   },
   {
     "Imodium": "DRUG"
+  },
+  {
+    "diarrhea": "PROBLEM"
   },
   {
     "pneumococcal vaccines": "DRUG"
@@ -204,13 +186,10 @@
     "afebrile": "PROBLEM"
   },
   {
-    "vital signs": "TEST"
+    "bowel sounds": "PROBLEM"
   },
   {
     "abdomen": "PROBLEM"
-  },
-  {
-    "bowel sounds": "TEST"
   },
   {
     "nondistended": "PROBLEM"
@@ -219,22 +198,16 @@
     "nontender": "PROBLEM"
   },
   {
-    "bowel sounds": "TEST"
-  },
-  {
     "midline incision": "PROBLEM"
   },
   {
-    "staples": "DRUG"
+    "staples": "TREATMENT"
   },
   {
-    "postop": "TEST"
+    "postop": "PROBLEM"
   },
   {
-    "staples": "TEST"
-  },
-  {
-    "follow-up appointment": "TEST"
+    "staples": "TREATMENT"
   },
   {
     "good and stable condition": "PROBLEM"
@@ -246,7 +219,7 @@
     "Multivitamins": "DRUG"
   },
   {
-    "2": "TREATMENT"
+    "2": "PROBLEM"
   },
   {
     "Lovenox": "DRUG"
@@ -255,22 +228,16 @@
     "40 mg": "DRUG"
   },
   {
-    "0.4 mL": "DRUG"
+    "0.4 mL solution": "DRUG"
   },
   {
-    "solution": "DRUG"
-  },
-  {
-    "inject": "TREATMENT"
-  },
-  {
-    "subcutaneously": "TREATMENT"
+    "inject subcutaneously": "TREATMENT"
   },
   {
     "once daily": "TREATMENT"
   },
   {
-    "14 days": "TREATMENT"
+    "for 14 days": "TREATMENT"
   },
   {
     "3": "PROBLEM"
@@ -282,28 +249,16 @@
     "pain": "PROBLEM"
   },
   {
-    "tablet": "TREATMENT"
-  },
-  {
-    "hours": "TREATMENT"
-  },
-  {
     "4": "PROBLEM"
   },
   {
     "Phenergan": "DRUG"
   },
   {
-    "12.5 mg": "DRUG"
+    "12.5 mg tablets": "DRUG"
   },
   {
-    "tablets": "TREATMENT"
-  },
-  {
-    "take one tablet by mouth every six hours": "TREATMENT"
-  },
-  {
-    "p.r.n.": "TREATMENT"
+    "Phenergan 12.5 mg tablets": "DRUG"
   },
   {
     "nausea": "PROBLEM"
@@ -327,7 +282,7 @@
     "diarrhea": "PROBLEM"
   },
   {
-    "us": "TREATMENT"
+    "any questions or concerns": "PROBLEM"
   },
   {
     "fevers": "PROBLEM"
@@ -354,28 +309,22 @@
     "warmth": "PROBLEM"
   },
   {
-    "incision site": "PROBLEM"
-  },
-  {
     "Dr": "TREATMENT"
   },
   {
     "staples": "TREATMENT"
   },
   {
-    "FOLLOW-UP APPOINTMENT": "TEST"
+    "Dr": "TREATMENT"
   },
   {
     "XYZ": "PROBLEM"
   },
   {
-    "carcinomatosis": "PROBLEM"
+    "carcinomatosis from appendiceal primary": "PROBLEM"
   },
   {
-    "appendiceal primary": "PROBLEM"
-  },
-  {
-    "tablet by mouth": "DRUG"
+    "tablet by mouth": "TREATMENT"
   },
   {
     "stent placement": "TREATMENT"
@@ -390,33 +339,9 @@
     "appendiceal primary": "PROBLEM"
   },
   {
-    "discharge": "TEST"
-  },
-  {
-    "admitted": "TEST"
-  },
-  {
-    "insertion": "TREATMENT"
-  },
-  {
     "hemicolectomy": "TREATMENT"
   },
   {
     "splenectomy": "TREATMENT"
-  },
-  {
-    "peritoneal": "TEST"
-  },
-  {
-    "appendiceal": "TEST"
-  },
-  {
-    "postoperatively": "TEST"
-  },
-  {
-    "carcinomatosis": "PROBLEM"
-  },
-  {
-    "oncology": "TEST"
   }
 ]

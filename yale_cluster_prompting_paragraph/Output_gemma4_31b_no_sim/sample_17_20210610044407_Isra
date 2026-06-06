@@ -12,16 +12,7 @@
     "peripheral vascular disease": "PROBLEM"
   },
   {
-    "PTA": "TREATMENT"
-  },
-  {
-    "swelling of the right hand": "PROBLEM"
-  },
-  {
-    "swelling of the right hand": "PROBLEM"
-  },
-  {
-    "left foot": "PROBLEM"
+    "PTA of right leg": "TREATMENT"
   },
   {
     "swelling of the right hand": "PROBLEM"
@@ -42,13 +33,19 @@
     "peripheral vascular disease": "PROBLEM"
   },
   {
-    "PTA": "TREATMENT"
+    "PTA of right leg": "TREATMENT"
   },
   {
     "swelling of the right hand": "PROBLEM"
   },
   {
     "left foot": "PROBLEM"
+  },
+  {
+    "swollen": "PROBLEM"
+  },
+  {
+    "painful": "PROBLEM"
   },
   {
     "swollen": "PROBLEM"
@@ -87,7 +84,7 @@
     "Peripheral vascular disease": "PROBLEM"
   },
   {
-    "PTA": "TREATMENT"
+    "PTA of right lower extremity": "TREATMENT"
   },
   {
     "NovoLog": "DRUG"
@@ -168,27 +165,6 @@
     "paroxysmal nocturnal dyspnea": "PROBLEM"
   },
   {
-    "Blood pressure": "TEST"
-  },
-  {
-    "temperature": "TEST"
-  },
-  {
-    "pulse": "TEST"
-  },
-  {
-    "respirations": "TEST"
-  },
-  {
-    "weight": "TEST"
-  },
-  {
-    "JVD": "TEST"
-  },
-  {
-    "adenopathy": "PROBLEM"
-  },
-  {
     "pretibial edema": "PROBLEM"
   },
   {
@@ -246,16 +222,16 @@
     "Urinalysis": "TEST"
   },
   {
-    "white cells": "TEST"
+    "white cells": "PROBLEM"
   },
   {
-    "protein": "TEST"
+    "protein": "PROBLEM"
   },
   {
-    "blood": "TEST"
+    "blood": "PROBLEM"
   },
   {
-    "red blood cells": "TEST"
+    "red blood cells": "PROBLEM"
   },
   {
     "Urinary tract infection": "PROBLEM"
@@ -279,7 +255,7 @@
     "Peripheral vascular disease": "PROBLEM"
   },
   {
-    "PTA": "TREATMENT"
+    "PTA in the right side": "TREATMENT"
   },
   {
     "Chronic kidney disease , stage 4": "PROBLEM"

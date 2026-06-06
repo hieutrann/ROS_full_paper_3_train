@@ -48,9 +48,6 @@
     "swelling in her ankles": "PROBLEM"
   },
   {
-    "B/P": "TEST"
-  },
-  {
     "frontal and maxillary sinus tenderness": "PROBLEM"
   },
   {
@@ -84,7 +81,7 @@
     "colonoscopy": "TEST"
   },
   {
-    "occult blood": "TEST"
+    "stools for occult blood": "TEST"
   },
   {
     "cancer": "PROBLEM"
@@ -118,12 +115,6 @@
   },
   {
     "vomiting": "PROBLEM"
-  },
-  {
-    "weight loss": "TREATMENT"
-  },
-  {
-    "colonoscopy": "TEST"
   },
   {
     "diabetes": "PROBLEM"

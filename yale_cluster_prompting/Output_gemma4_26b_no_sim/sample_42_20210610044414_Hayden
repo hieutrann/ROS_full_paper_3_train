@@ -57,15 +57,6 @@
     "Tubal ligation": "TREATMENT"
   },
   {
-    "PHYSICAL EXAMINATION": "TEST"
-  },
-  {
-    "uterus": "PROBLEM"
-  },
-  {
-    "LABORATORY VALUES": "TEST"
-  },
-  {
     "hemoglobin": "TEST"
   },
   {
@@ -93,6 +84,6 @@
     "menometrorrhagia": "PROBLEM"
   },
   {
-    "fibroids": "PROBLEM"
+    "uterine fibroids": "PROBLEM"
   }
 ]

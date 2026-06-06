@@ -3,13 +3,13 @@
     "multiple trauma": "PROBLEM"
   },
   {
+    "motor vehicle accident": "PROBLEM"
+  },
+  {
     "injury and trauma": "PROBLEM"
   },
   {
     "Decubitus ulcer": "PROBLEM"
-  },
-  {
-    "lower back": "PROBLEM"
   },
   {
     "Alcohol induced persisting dementia": "PROBLEM"
@@ -60,6 +60,9 @@
     "Pain in joint pelvic region/thigh": "PROBLEM"
   },
   {
+    "Motor vehicle traffic accident": "PROBLEM"
+  },
+  {
     "multiple fractures": "PROBLEM"
   },
   {
@@ -85,9 +88,6 @@
   },
   {
     "confused": "PROBLEM"
-  },
-  {
-    "rehab": "TREATMENT"
   },
   {
     "acute psychosis": "PROBLEM"
@@ -123,16 +123,13 @@
     "agitation": "PROBLEM"
   },
   {
-    "pain medications": "DRUG"
+    "chronic pain medications": "DRUG"
   },
   {
     "alcohol rehab facility": "TREATMENT"
   },
   {
-    "therapy": "TREATMENT"
-  },
-  {
-    "wheeled walker": "TREATMENT"
+    "right leg brace": "TREATMENT"
   },
   {
     "agitation": "PROBLEM"
@@ -144,10 +141,7 @@
     "anemia": "PROBLEM"
   },
   {
-    "Calcium": "DRUG"
-  },
-  {
-    "vitamin D": "DRUG"
+    "Calcium with vitamin D": "DRUG"
   },
   {
     "Ferrous sulfate": "DRUG"

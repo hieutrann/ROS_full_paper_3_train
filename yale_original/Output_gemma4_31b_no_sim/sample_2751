@@ -18,6 +18,9 @@
     "dental disease": "PROBLEM"
   },
   {
+    "teeth pulled": "TREATMENT"
+  },
+  {
     "tooth pain": "PROBLEM"
   },
   {
@@ -46,6 +49,9 @@
   },
   {
     "weakness": "PROBLEM"
+  },
+  {
+    "weight change": "PROBLEM"
   },
   {
     "headache": "PROBLEM"
@@ -153,9 +159,6 @@
     "CODEINE": "DRUG"
   },
   {
-    "smoker": "PROBLEM"
-  },
-  {
     "Temperature": "TEST"
   },
   {
@@ -174,9 +177,6 @@
     "overweight": "PROBLEM"
   },
   {
-    "acute distress": "PROBLEM"
-  },
-  {
     "icterus": "PROBLEM"
   },
   {
@@ -193,9 +193,6 @@
   },
   {
     "photophobia": "PROBLEM"
-  },
-  {
-    "Extraocular motions": "TEST"
   },
   {
     "infection": "PROBLEM"
@@ -225,7 +222,7 @@
     "audible congestion": "PROBLEM"
   },
   {
-    "tenderness over the sinuses": "PROBLEM"
+    "tenderness": "PROBLEM"
   },
   {
     "meningismus": "PROBLEM"
@@ -235,6 +232,9 @@
   },
   {
     "JVD": "PROBLEM"
+  },
+  {
+    "denture": "TREATMENT"
   },
   {
     "dental caries": "PROBLEM"
@@ -306,22 +306,10 @@
     "Cranial nerves II through XII": "TEST"
   },
   {
-    "Motor": "TEST"
-  },
-  {
-    "sensory": "TEST"
-  },
-  {
-    "speech": "TEST"
-  },
-  {
-    "ambulation": "TEST"
-  },
-  {
     "cervical lymphadenopathy": "PROBLEM"
   },
   {
-    "pain": "PROBLEM"
+    "pain shot": "TREATMENT"
   },
   {
     "Dilaudid": "DRUG"

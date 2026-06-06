@@ -1,6 +1,18 @@
 [
   {
-    "VITAL SIGNS": "TEST"
+    "Blood pressure": "TEST"
+  },
+  {
+    "pulse": "TEST"
+  },
+  {
+    "respirations": "TEST"
+  },
+  {
+    "temperature": "TEST"
+  },
+  {
+    "apparent distress": "PROBLEM"
   },
   {
     "EOMI": "TEST"
@@ -9,7 +21,7 @@
     "PERRLA": "TEST"
   },
   {
-    "Sclerae nonicteric": "PROBLEM"
+    "nonicteric": "PROBLEM"
   },
   {
     "lesions": "PROBLEM"
@@ -18,7 +30,16 @@
     "Funduscopic examination": "TEST"
   },
   {
+    "TMs": "TEST"
+  },
+  {
+    "hearing": "TEST"
+  },
+  {
     "dental work": "TREATMENT"
+  },
+  {
+    "pain": "PROBLEM"
   },
   {
     "bruit": "PROBLEM"
@@ -33,7 +54,10 @@
     "thyroid abnormality": "PROBLEM"
   },
   {
-    "Lungs": "TEST"
+    "auscultation": "TEST"
+  },
+  {
+    "percussion": "TEST"
   },
   {
     "S1": "TEST"
@@ -66,7 +90,16 @@
     "PMI nondisplaced": "PROBLEM"
   },
   {
-    "axillary or supraclavicular adenopathy": "PROBLEM"
+    "inspection": "TEST"
+  },
+  {
+    "palpation": "TEST"
+  },
+  {
+    "axillary adenopathy": "PROBLEM"
+  },
+  {
+    "supraclavicular adenopathy": "PROBLEM"
   },
   {
     "hepatosplenomegaly": "PROBLEM"
@@ -96,7 +129,13 @@
     "gloved digital palpation": "TEST"
   },
   {
-    "Hemoccult-negative stool": "TEST"
+    "Hemoccult": "TEST"
+  },
+  {
+    "distal pulse": "TEST"
+  },
+  {
+    "perfusion": "TEST"
   },
   {
     "edema": "PROBLEM"
@@ -109,6 +148,12 @@
   },
   {
     "deep venous thrombosis": "PROBLEM"
+  },
+  {
+    "active and passive range of motion": "TEST"
+  },
+  {
+    "percussion": "TEST"
   },
   {
     "spinous process tenderness": "PROBLEM"
@@ -126,7 +171,25 @@
     "Brudzinski signs": "TEST"
   },
   {
-    "premalignant or malignant condition": "PROBLEM"
+    "cranial and peripheral nervous systems": "TEST"
+  },
+  {
+    "strength": "TEST"
+  },
+  {
+    "sensation": "TEST"
+  },
+  {
+    "cerebellar function": "TEST"
+  },
+  {
+    "Gait and station": "TEST"
+  },
+  {
+    "premalignant": "PROBLEM"
+  },
+  {
+    "malignant condition": "PROBLEM"
   },
   {
     "hepatosplenomegaly": "PROBLEM"

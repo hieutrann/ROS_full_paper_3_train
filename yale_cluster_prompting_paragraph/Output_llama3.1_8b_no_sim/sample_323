@@ -1,161 +1,98 @@
 [
   {
-    "Pupils": "PROBLEM"
+    "pupils": "PROBLEM"
   },
   {
-    "Extraocular movements": "PROBLEM"
+    "extraocular movements": "TEST"
   },
   {
-    "Sclerae": "PROBLEM"
+    "sclerae": "PROBLEM"
   },
   {
     "TMs": "PROBLEM"
   },
   {
-    "Oropharynx": "PROBLEM"
+    "oropharynx": "PROBLEM"
   },
   {
-    "Lymphadenopathy": "PROBLEM"
+    "lymphadenopathy": "PROBLEM"
   },
   {
-    "Thyromegaly": "PROBLEM"
+    "thyromegaly": "PROBLEM"
   },
   {
-    "Jugular venous distention": "PROBLEM"
+    "jugular venous distention": "PROBLEM"
   },
   {
-    "S3": "PROBLEM"
+    "murmurs": "PROBLEM"
   },
   {
-    "S4": "PROBLEM"
+    "rubs": "PROBLEM"
   },
   {
-    "Murmurs": "PROBLEM"
+    "peripheral pulses": "TEST"
   },
   {
-    "Rubs": "PROBLEM"
+    "bowel sounds": "TEST"
   },
   {
-    "Peripheral pulses": "PROBLEM"
+    "hepatomegaly": "PROBLEM"
   },
   {
-    "Bowel sounds": "PROBLEM"
+    "splenomegaly": "PROBLEM"
   },
   {
-    "Masses": "PROBLEM"
+    "vaginal mucosa": "PROBLEM"
   },
   {
-    "Hepatomegaly": "PROBLEM"
+    "cervix": "PROBLEM"
   },
   {
-    "Splenomegaly": "PROBLEM"
+    "uterus": "PROBLEM"
   },
   {
-    "Cervical motion tenderness": "PROBLEM"
+    "adnexa": "PROBLEM"
   },
   {
-    "Tenosynovitis": "PROBLEM"
+    "cervical motion tenderness": "PROBLEM"
   },
   {
-    "Cyanosis": "PROBLEM"
+    "rectal tone": "TEST"
   },
   {
-    "Edema": "PROBLEM"
+    "hemoccult": "TEST"
   },
   {
-    "Clubbing": "PROBLEM"
+    "clubbing": "PROBLEM"
   },
   {
-    "Hemoccult": "TEST"
+    "cyanosis": "PROBLEM"
   },
   {
-    "Bimanual exam": "TEST"
+    "edema": "PROBLEM"
   },
   {
-    "Speculum exam": "TEST"
+    "tenosynovitis": "PROBLEM"
   },
   {
-    "Rectal Exam": "TEST"
+    "breast tissue": "PROBLEM"
   },
   {
-    "Joint Exam": "TEST"
+    "skin changes": "PROBLEM"
   },
   {
-    "Extremities": "TEST"
+    "cranial nerves": "TEST"
   },
   {
-    "Vaginal mucosa": "TEST"
+    "motor strength": "TEST"
   },
   {
-    "Cervix": "TEST"
+    "deep tendon reflexes": "TEST"
   },
   {
-    "Uterus": "TEST"
+    "bimanual exam": "TEST"
   },
   {
-    "Adnexa": "TEST"
-  },
-  {
-    "Cranial nerves": "TEST"
-  },
-  {
-    "Motor strength": "TEST"
-  },
-  {
-    "Deep tendon reflexes": "TEST"
-  },
-  {
-    "General medicine": "TEST"
-  },
-  {
-    "Female physical examination": "TEST"
-  },
-  {
-    "HEENT": "TEST"
-  },
-  {
-    "Cardiovascular": "TEST"
-  },
-  {
-    "Integumentary": "TEST"
-  },
-  {
-    "Neurologic": "TEST"
-  },
-  {
-    "Psychiatric": "TEST"
-  },
-  {
-    "Dermatologic": "TEST"
-  },
-  {
-    "Breast tissue": "TEST"
-  },
-  {
-    "Skin changes": "TEST"
-  },
-  {
-    "Axillae": "TEST"
-  },
-  {
-    "Alert and oriented": "TEST"
-  },
-  {
-    "Female external genitalia": "TEST"
-  },
-  {
-    "Normal rectal tone": "TREATMENT"
-  },
-  {
-    "Normal breast tissue": "TREATMENT"
-  },
-  {
-    "Normal skin changes": "TREATMENT"
-  },
-  {
-    "Normal axillae": "TREATMENT"
-  },
-  {
-    "Normal alert and oriented": "TREATMENT"
+    "speculum exam": "TEST"
   }
 ]

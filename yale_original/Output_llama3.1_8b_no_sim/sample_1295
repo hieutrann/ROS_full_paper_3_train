@@ -6,10 +6,7 @@
     "respiratory syncytial virus": "PROBLEM"
   },
   {
-    "Bronchiolitis - Discharge Summary": "TEST"
-  },
-  {
-    "Innocent heart murmur": "PROBLEM"
+    "heart murmur": "PROBLEM"
   },
   {
     "DIAGNOSES": "PROBLEM"
@@ -21,13 +18,13 @@
     "respiratory syncytial virus": "PROBLEM"
   },
   {
-    "2": "TEST"
+    "2": "TREATMENT"
   },
   {
-    "Innocent heart murmur": "PROBLEM"
+    "heart murmur": "PROBLEM"
   },
   {
-    "acute onset of congestion": "PROBLEM"
+    "congestion": "PROBLEM"
   },
   {
     "RSV": "PROBLEM"
@@ -69,10 +66,7 @@
     "heart": "PROBLEM"
   },
   {
-    "hospitalization": "PROBLEM"
-  },
-  {
-    "admission": "PROBLEM"
+    "hospitalization": "TREATMENT"
   },
   {
     "tachypnea": "PROBLEM"
@@ -93,12 +87,6 @@
     "respiratory distress": "PROBLEM"
   },
   {
-    "DISCHARGE PHYSICAL EXAMINATION": "TEST"
-  },
-  {
-    "VITAL SIGNS": "TEST"
-  },
-  {
     "afebrile": "TEST"
   },
   {
@@ -111,22 +99,22 @@
     "anterior fontanelle": "PROBLEM"
   },
   {
-    "upper airway congestion": "PROBLEM"
+    "airway congestion": "PROBLEM"
   },
   {
     "systolic murmur": "PROBLEM"
   },
   {
-    "bilateral axilla": "PROBLEM"
+    "bilateral axilla": "TEST"
   },
   {
-    "back": "PROBLEM"
+    "back": "TEST"
   },
   {
     "femoral pulses": "TEST"
   },
   {
-    "extremities": "TEST"
+    "extremities": "PROBLEM"
   },
   {
     "capillary refill": "TEST"
@@ -150,7 +138,7 @@
     "bowel sounds": "TEST"
   },
   {
-    "abdomen": "PROBLEM"
+    "nondistended": "PROBLEM"
   },
   {
     "Tanner I": "PROBLEM"
@@ -162,7 +150,7 @@
     "admission": "TEST"
   },
   {
-    "The patient": "PROBLEM"
+    "smoke": "PROBLEM"
   },
   {
     "smoke": "PROBLEM"
@@ -183,13 +171,16 @@
     "albuterol": "DRUG"
   },
   {
-    "difficulty breathing": "PROBLEM"
+    "cough": "PROBLEM"
   },
   {
-    "breathing": "PROBLEM"
+    "wheezes": "PROBLEM"
   },
   {
-    "eating": "PROBLEM"
+    "dyspnea": "PROBLEM"
+  },
+  {
+    "saline": "DRUG"
   },
   {
     "bronchiolitis": "PROBLEM"
@@ -198,21 +189,21 @@
     "respiratory syncytial virus": "PROBLEM"
   },
   {
-    "chest x ray": "TEST"
-  },
-  {
     "syncytial virus": "PROBLEM"
   },
   {
     "heart murmur": "PROBLEM"
   },
   {
-    "respiratory distress": "PROBLEM"
+    "innocent heart murmur": "PROBLEM"
   },
   {
-    "lungs": "PROBLEM"
+    "chest x ray": "TEST"
   },
   {
     "bulb suctioning": "TREATMENT"
+  },
+  {
+    "respiratory distress": "PROBLEM"
   }
 ]

@@ -3,7 +3,10 @@
     "Hysteroscopy": "TREATMENT"
   },
   {
-    "dilatation and curettage (D&C)": "TREATMENT"
+    "dilatation and curettage": "TREATMENT"
+  },
+  {
+    "D&C": "TREATMENT"
   },
   {
     "myomectomy": "TREATMENT"
@@ -55,12 +58,6 @@
   },
   {
     "packed red blood cells": "DRUG"
-  },
-  {
-    "BLOOD TRANSFUSIONS": "TREATMENT"
-  },
-  {
-    "INFECTION": "PROBLEM"
   },
   {
     "hematocrit": "TEST"
@@ -123,7 +120,7 @@
     "Ambulate with assistance": "TREATMENT"
   },
   {
-    "(d&c)": "TREATMENT"
+    "d&c": "TREATMENT"
   },
   {
     "fibroid uterus": "PROBLEM"

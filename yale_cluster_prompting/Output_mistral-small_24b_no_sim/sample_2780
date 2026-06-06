@@ -3,19 +3,13 @@
     "Pancreatic": "PROBLEM"
   },
   {
-    "left adrenal": "PROBLEM"
-  },
-  {
-    "lesions": "PROBLEM"
+    "Adrenal": "PROBLEM"
   },
   {
     "adrenal lesion": "PROBLEM"
   },
   {
-    "lesion": "PROBLEM"
-  },
-  {
-    "adenoma": "PROBLEM"
+    "benign adenoma": "PROBLEM"
   },
   {
     "pancreatic lesion": "PROBLEM"
@@ -27,10 +21,10 @@
     "neoplasm": "PROBLEM"
   },
   {
-    "pancreatic": "PROBLEM"
+    "pancreatic lesions": "PROBLEM"
   },
   {
-    "left adrenal": "PROBLEM"
+    "left adrenal lesions": "PROBLEM"
   },
   {
     "pancreatic lesion": "PROBLEM"
@@ -42,19 +36,7 @@
     "left adrenal gland": "PROBLEM"
   },
   {
-    "difficulty": "PROBLEM"
-  },
-  {
-    "suffocating feeling": "PROBLEM"
-  },
-  {
-    "recline": "PROBLEM"
-  },
-  {
-    "upright position": "TREATMENT"
-  },
-  {
-    "CAT scan": "TEST"
+    "difficulty almost like a suffocating feeling": "PROBLEM"
   },
   {
     "CAT scan": "TEST"
@@ -63,13 +45,16 @@
     "pneumonitis": "PROBLEM"
   },
   {
+    "CAT scan": "TEST"
+  },
+  {
     "left adrenal nodule": "PROBLEM"
   },
   {
     "pancreatic lesion": "PROBLEM"
   },
   {
-    "CAT scan": "TEST"
+    "abdominal CAT scan": "TEST"
   },
   {
     "MRI": "TEST"
@@ -81,7 +66,7 @@
     "lesion": "PROBLEM"
   },
   {
-    "adenoma": "PROBLEM"
+    "benign adenoma": "PROBLEM"
   },
   {
     "pancreatic lesion": "PROBLEM"
@@ -135,9 +120,6 @@
     "high cholesterol": "PROBLEM"
   },
   {
-    "ENVIRONMENTAL": "PROBLEM"
-  },
-  {
     "glipizide": "DRUG"
   },
   {
@@ -171,9 +153,6 @@
     "fluticasone spray": "DRUG"
   },
   {
-    "surgery": "TREATMENT"
-  },
-  {
     "prostate cancer": "PROBLEM"
   },
   {
@@ -189,16 +168,19 @@
     "ETOH": "DRUG"
   },
   {
+    "chemical": "PROBLEM"
+  },
+  {
     "chest pain": "PROBLEM"
   },
   {
-    "shortness of breath": "PROBLEM"
+    "exertional shortness of breath": "PROBLEM"
   },
   {
     "GI problems": "PROBLEM"
   },
   {
-    "urination": "PROBLEM"
+    "frequent urination": "PROBLEM"
   },
   {
     "bleeding disorders": "PROBLEM"
@@ -207,7 +189,10 @@
     "bleeding history": "PROBLEM"
   },
   {
-    "PHYSICAL EXAMINATION": "TEST"
+    "obese": "PROBLEM"
+  },
+  {
+    "NECK": "PROBLEM"
   },
   {
     "mass": "PROBLEM"
@@ -219,16 +204,19 @@
     "bruit": "PROBLEM"
   },
   {
-    "CHEST": "TEST"
+    "excursion": "TEST"
   },
   {
     "LUNGS": "TEST"
   },
   {
-    "S3": "TEST"
+    "Regular": "TEST"
   },
   {
-    "S4": "TEST"
+    "S3 or S4 gallop": "TEST"
+  },
+  {
+    "murmur": "PROBLEM"
   },
   {
     "heart sounds": "TEST"
@@ -237,49 +225,46 @@
     "Obese": "PROBLEM"
   },
   {
-    "recline": "PROBLEM"
+    "Examination": "TEST"
   },
   {
-    "Bowel sounds": "PROBLEM"
+    "Bowel sounds": "TEST"
+  },
+  {
+    "organomegaly": "PROBLEM"
   },
   {
     "pitting edema": "PROBLEM"
   },
   {
-    "focal deficits": "PROBLEM"
+    "Bilateral peripheral pulses": "TEST"
   },
   {
-    "adrenal": "PROBLEM"
+    "left adrenal": "PROBLEM"
   },
   {
     "pancreatic": "PROBLEM"
   },
   {
-    "lesions": "PROBLEM"
-  },
-  {
     "adrenal lesion": "PROBLEM"
   },
   {
-    "lesion": "PROBLEM"
-  },
-  {
-    "adenoma": "PROBLEM"
+    "benign adenoma": "PROBLEM"
   },
   {
     "pancreatic lesion": "PROBLEM"
   },
   {
-    "lesion": "PROBLEM"
+    "cystic lesion": "PROBLEM"
   },
   {
     "neoplasm": "PROBLEM"
   },
   {
-    "ERCP": "TEST"
+    "pancreatic lesions": "PROBLEM"
   },
   {
-    "biopsy": "TEST"
+    "ERCP": "TEST"
   },
   {
     "x-rays": "TEST"

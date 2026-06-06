@@ -1,8 +1,5 @@
 [
   {
-    "Normal Female ROS Template": "TEST"
-  },
-  {
     "fever": "PROBLEM"
   },
   {
@@ -15,7 +12,7 @@
     "aching": "PROBLEM"
   },
   {
-    "glasses": "PROBLEM"
+    "glasses": "TREATMENT"
   },
   {
     "cataracts": "PROBLEM"
@@ -33,7 +30,10 @@
     "visual field defects": "PROBLEM"
   },
   {
-    "hearing or balance problems": "PROBLEM"
+    "hearing problems": "PROBLEM"
+  },
+  {
+    "balance problems": "PROBLEM"
   },
   {
     "runny nose": "PROBLEM"
@@ -48,7 +48,7 @@
     "dental problems": "PROBLEM"
   },
   {
-    "dentures": "PROBLEM"
+    "dentures": "TREATMENT"
   },
   {
     "bleeding gums": "PROBLEM"
@@ -93,13 +93,13 @@
     "paroxysmal nocturnal dyspnea": "PROBLEM"
   },
   {
-    "history of stress test": "PROBLEM"
+    "stress test": "TEST"
   },
   {
-    "arteriogram": "PROBLEM"
+    "arteriogram": "TEST"
   },
   {
-    "pacemaker implantation": "PROBLEM"
+    "pacemaker implantation": "TREATMENT"
   },
   {
     "cough": "PROBLEM"
@@ -177,7 +177,10 @@
     "nipple discharge": "PROBLEM"
   },
   {
-    "skin or nipple changes": "PROBLEM"
+    "skin changes": "PROBLEM"
+  },
+  {
+    "nipple changes": "PROBLEM"
   },
   {
     "sexually transmitted diseases": "PROBLEM"
@@ -258,7 +261,7 @@
     "thyroid": "PROBLEM"
   },
   {
-    "cholesterol": "PROBLEM"
+    "problems with cholesterol": "PROBLEM"
   },
   {
     "hormones": "PROBLEM"
@@ -292,11 +295,5 @@
   },
   {
     "leg ulcers": "PROBLEM"
-  },
-  {
-    "general medicine": "TEST"
-  },
-  {
-    "Keywords": "TEST"
   }
 ]

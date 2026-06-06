@@ -87,21 +87,6 @@
     "trazodone": "DRUG"
   },
   {
-    "Temperature": "TEST"
-  },
-  {
-    "blood pressure": "TEST"
-  },
-  {
-    "pulse": "TEST"
-  },
-  {
-    "respiratory rate": "TEST"
-  },
-  {
-    "O2 saturation": "TEST"
-  },
-  {
     "right knee pain": "PROBLEM"
   },
   {
@@ -121,12 +106,6 @@
   },
   {
     "calf tenderness": "PROBLEM"
-  },
-  {
-    "Pedal pulses": "TEST"
-  },
-  {
-    "anxious": "PROBLEM"
   },
   {
     "Physical Therapy": "TREATMENT"
@@ -169,6 +148,9 @@
   },
   {
     "oxycodone SR": "DRUG"
+  },
+  {
+    "Percocet": "DRUG"
   },
   {
     "Lovenox": "DRUG"
@@ -237,6 +219,12 @@
     "Insomnia": "PROBLEM"
   },
   {
+    "pain": "PROBLEM"
+  },
+  {
+    "anxiety": "PROBLEM"
+  },
+  {
     "Postoperative constipation": "PROBLEM"
   },
   {
@@ -294,7 +282,13 @@
     "INRs": "TEST"
   },
   {
+    "Coumadin": "DRUG"
+  },
+  {
     "INR": "TEST"
+  },
+  {
+    "Coumadin": "DRUG"
   },
   {
     "right total knee replacement": "TREATMENT"

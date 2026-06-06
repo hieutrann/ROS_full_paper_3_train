@@ -6,7 +6,7 @@
     "cerebrovascular accident": "PROBLEM"
   },
   {
-    "discomfort on his right side": "PROBLEM"
+    "discomfort": "PROBLEM"
   },
   {
     "EMG studies": "TEST"
@@ -34,12 +34,6 @@
   },
   {
     "Dry and flaky": "PROBLEM"
-  },
-  {
-    "pedal pulse": "TEST"
-  },
-  {
-    "Diminished": "PROBLEM"
   },
   {
     "prostate check": "TEST"
@@ -85,9 +79,6 @@
   },
   {
     "neuropathy": "PROBLEM"
-  },
-  {
-    "post cerebrovascular accident": "PROBLEM"
   },
   {
     "cerebrovascular accident": "PROBLEM"

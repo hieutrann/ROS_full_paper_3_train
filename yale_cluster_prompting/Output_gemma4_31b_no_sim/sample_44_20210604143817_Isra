@@ -1,5 +1,11 @@
 [
   {
+    "Airway Compromise": "PROBLEM"
+  },
+  {
+    "Foreign Body": "PROBLEM"
+  },
+  {
     "foreign body": "PROBLEM"
   },
   {
@@ -60,21 +66,6 @@
     "Solu-Medrol": "DRUG"
   },
   {
-    "illicit drugs": "DRUG"
-  },
-  {
-    "alcohol": "DRUG"
-  },
-  {
-    "tobacco": "DRUG"
-  },
-  {
-    "PHYSICAL EXAMINATION": "TEST"
-  },
-  {
-    "LABORATORY DATA": "TEST"
-  },
-  {
     "operating room": "TREATMENT"
   },
   {
@@ -90,9 +81,6 @@
     "intubated": "TREATMENT"
   },
   {
-    "airway": "PROBLEM"
-  },
-  {
     "extubated": "TREATMENT"
   },
   {
@@ -103,9 +91,6 @@
   },
   {
     "ventilatory support": "TREATMENT"
-  },
-  {
-    "operating room": "TREATMENT"
   },
   {
     "extubated": "TREATMENT"

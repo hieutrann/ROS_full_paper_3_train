@@ -18,7 +18,7 @@
     "acute pancreatitis": "PROBLEM"
   },
   {
-    "dementia": "PROBLEM"
+    "dementia of Alzheimer type": "PROBLEM"
   },
   {
     "anxiety": "PROBLEM"
@@ -30,19 +30,25 @@
     "hypertension": "PROBLEM"
   },
   {
-    "abdominal": "PROBLEM"
+    "alprazolam": "DRUG"
   },
   {
-    "pulse": "TEST"
+    "mirtazapine": "DRUG"
   },
   {
-    "respirations": "TEST"
+    "Aricept": "DRUG"
   },
   {
-    "blood pressure": "TEST"
+    "Namenda": "DRUG"
   },
   {
-    "pulse ox": "TEST"
+    "Benicar": "DRUG"
+  },
+  {
+    "Claritin": "DRUG"
+  },
+  {
+    "Temperature": "TEST"
   },
   {
     "WBC": "TEST"
@@ -69,10 +75,19 @@
     "PTT": "TEST"
   },
   {
-    "urinalysis": "TEST"
+    "Urinalysis": "TEST"
   },
   {
-    "sodium": "TEST"
+    "nitrite": "TEST"
+  },
+  {
+    "wbc's": "TEST"
+  },
+  {
+    "bacteria": "TEST"
+  },
+  {
+    "Sodium": "TEST"
   },
   {
     "potassium": "TEST"
@@ -111,75 +126,66 @@
     "CT": "TEST"
   },
   {
-    "ultrasound": "TEST"
+    "Ultrasound": "TEST"
   },
   {
     "CBC": "TEST"
   },
   {
+    "segments": "TEST"
+  },
+  {
+    "bands": "TEST"
+  },
+  {
+    "glucose": "TEST"
+  },
+  {
     "EKG": "TEST"
   },
   {
-    "troponin": "TEST"
+    "Troponin": "TEST"
   },
   {
     "myoglobin": "TEST"
   },
   {
-    "leukocytosis": "PROBLEM"
+    "acute pancreatitis": "PROBLEM"
   },
   {
-    "urinary tract infection": "PROBLEM"
+    "Leukocytosis": "PROBLEM"
   },
   {
-    "hyponatremia": "PROBLEM"
+    "Urinary tract infection": "PROBLEM"
   },
   {
-    "abnormal electrocardiogram": "PROBLEM"
+    "Hyponatremia": "PROBLEM"
   },
   {
-    "osteoarthrosis": "PROBLEM"
+    "Dementia": "PROBLEM"
   },
   {
-    "alprazolam": "DRUG"
+    "Anxiety": "PROBLEM"
   },
   {
-    "mirtazapine": "DRUG"
+    "hypertension": "PROBLEM"
   },
   {
-    "Aricept": "DRUG"
+    "Abnormal electrocardiogram": "PROBLEM"
   },
   {
-    "Namenda": "DRUG"
-  },
-  {
-    "Benicar": "DRUG"
-  },
-  {
-    "Claritin": "DRUG"
-  },
-  {
-    "Zofran": "DRUG"
+    "Osteoarthrosis": "PROBLEM"
   },
   {
     "IV antibiotics": "DRUG"
   },
   {
-    "IV fluids": "DRUG"
+    "IV fluids": "TREATMENT"
   },
   {
-    "GI consult": "TREATMENT"
-  },
-  {
-    "pain control": "TREATMENT"
-  },
-  {
-    "bedrest": "TREATMENT"
+    "Zofran": "DRUG"
   },
   {
     "DVT prophylaxis": "TREATMENT"
-  },
-  {
-    "NPO": "TREATMENT"
   }
 ]

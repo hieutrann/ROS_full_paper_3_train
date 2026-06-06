@@ -9,7 +9,10 @@
     "blood gas": "TEST"
   },
   {
-    "pulse": "TEST"
+    "gloves": "TREATMENT"
+  },
+  {
+    "injury": "PROBLEM"
   },
   {
     "HIV": "PROBLEM"
@@ -72,13 +75,16 @@
     "urinary symptoms": "PROBLEM"
   },
   {
-    "yellowing or darkening of the urine": "PROBLEM"
+    "yellowing": "PROBLEM"
+  },
+  {
+    "darkening of the urine": "PROBLEM"
   },
   {
     "rash": "PROBLEM"
   },
   {
-    "local infection": "PROBLEM"
+    "infection": "PROBLEM"
   },
   {
     "degenerative disc disease": "PROBLEM"
@@ -102,19 +108,10 @@
     "blood pressure": "TEST"
   },
   {
-    "sclerae": "TEST"
-  },
-  {
-    "Ocular movements": "TEST"
+    "HEENT exam": "TEST"
   },
   {
     "pharyngeal erythema": "PROBLEM"
-  },
-  {
-    "tonsillar enlargement": "PROBLEM"
-  },
-  {
-    "masses": "PROBLEM"
   },
   {
     "adenopathy": "PROBLEM"
@@ -132,7 +129,10 @@
     "gallop": "PROBLEM"
   },
   {
-    "enlargement of the liver or spleen": "PROBLEM"
+    "enlargement of the liver": "PROBLEM"
+  },
+  {
+    "enlargement of the spleen": "PROBLEM"
   },
   {
     "rash": "PROBLEM"
@@ -141,13 +141,13 @@
     "edema": "PROBLEM"
   },
   {
-    "gait": "TEST"
-  },
-  {
     "ataxia": "PROBLEM"
   },
   {
     "contaminated needlestick": "PROBLEM"
+  },
+  {
+    "index finger": "PROBLEM"
   },
   {
     "HIV": "PROBLEM"
@@ -159,22 +159,19 @@
     "blood testing": "TEST"
   },
   {
-    "3 shot series": "TREATMENT"
-  },
-  {
     "hepatitis B": "PROBLEM"
   },
   {
     "titers": "TEST"
   },
   {
-    "tetanus": "DRUG"
+    "antibodies": "TEST"
+  },
+  {
+    "tetanus": "PROBLEM"
   },
   {
     "intestinal illness": "PROBLEM"
-  },
-  {
-    "squeakiness": "PROBLEM"
   },
   {
     "vomiting": "PROBLEM"
@@ -204,6 +201,9 @@
     "HIV": "PROBLEM"
   },
   {
+    "infection": "PROBLEM"
+  },
+  {
     "acute intestinal illness": "PROBLEM"
   },
   {
@@ -214,6 +214,15 @@
   },
   {
     "lab studies": "TEST"
+  },
+  {
+    "gloves": "TREATMENT"
+  },
+  {
+    "disease transmission": "PROBLEM"
+  },
+  {
+    "injury": "PROBLEM"
   },
   {
     "blood gas": "TEST"

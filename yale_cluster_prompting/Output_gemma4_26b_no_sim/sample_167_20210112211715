@@ -1,6 +1,6 @@
 [
   {
-    "Right-sided facial droop": "PROBLEM"
+    "facial droop": "PROBLEM"
   },
   {
     "right-sided weakness": "PROBLEM"
@@ -42,7 +42,7 @@
     "CT scan of the head": "TEST"
   },
   {
-    "new-onset cerebrovascular accident": "PROBLEM"
+    "cerebrovascular accident": "PROBLEM"
   },
   {
     "urinary tract infection": "PROBLEM"
@@ -114,19 +114,25 @@
     "Pupils": "TEST"
   },
   {
-    "right-sided facial droop": "PROBLEM"
+    "facial droop": "PROBLEM"
   },
   {
     "missing teeth": "PROBLEM"
   },
   {
-    "carotid bruit": "PROBLEM"
+    "Tympanic membranes": "TEST"
+  },
+  {
+    "carotid bruit": "TEST"
   },
   {
     "cervical adenopathy": "PROBLEM"
   },
   {
     "systolic murmur": "PROBLEM"
+  },
+  {
+    "LUNGS": "TEST"
   },
   {
     "Bowel sound": "TEST"
@@ -138,10 +144,7 @@
     "fixed flexion deformity": "PROBLEM"
   },
   {
-    "right-sided slight facial droop": "PROBLEM"
-  },
-  {
-    "withdrawal of both lower extremities": "PROBLEM"
+    "facial droop": "PROBLEM"
   },
   {
     "second-degree pressure ulcer": "PROBLEM"
@@ -187,12 +190,6 @@
   },
   {
     "urinalysis": "TEST"
-  },
-  {
-    "white blood cells": "PROBLEM"
-  },
-  {
-    "red blood cells": "PROBLEM"
   },
   {
     "E. coli": "PROBLEM"

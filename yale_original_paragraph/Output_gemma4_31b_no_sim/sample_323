@@ -1,5 +1,11 @@
 [
   {
+    "Female Physical Exam": "TEST"
+  },
+  {
+    "female physical exam": "TEST"
+  },
+  {
     "erythema": "PROBLEM"
   },
   {
@@ -33,7 +39,19 @@
     "splenomegaly": "PROBLEM"
   },
   {
+    "Speculum exam": "TEST"
+  },
+  {
+    "Bimanual exam": "TEST"
+  },
+  {
     "cervical motion tenderness": "PROBLEM"
+  },
+  {
+    "Rectal Exam": "TEST"
+  },
+  {
+    "Hemoccult": "TEST"
   },
   {
     "clubbing": "PROBLEM"
@@ -43,6 +61,9 @@
   },
   {
     "edema": "PROBLEM"
+  },
+  {
+    "Joint Exam": "TEST"
   },
   {
     "tenosynovitis": "PROBLEM"
@@ -57,24 +78,36 @@
     "skin changes": "PROBLEM"
   },
   {
+    "Deep tendon reflexes": "TEST"
+  },
+  {
     "lesions": "PROBLEM"
   },
   {
     "rashes": "PROBLEM"
   },
   {
-    "Hemoccult": "TEST"
+    "female physical examination": "TEST"
   },
   {
-    "Speculum exam": "TEST"
+    "bimanual exam": "TEST"
   },
   {
-    "Bimanual exam": "TEST"
+    "hemoccult": "TEST"
   },
   {
-    "Rectal Exam": "TEST"
+    "physical examination": "TEST"
   },
   {
-    "Joint Exam": "TEST"
+    "rectal exam": "TEST"
+  },
+  {
+    "skin changes": "PROBLEM"
+  },
+  {
+    "speculum exam": "TEST"
+  },
+  {
+    "masses": "PROBLEM"
   }
 ]

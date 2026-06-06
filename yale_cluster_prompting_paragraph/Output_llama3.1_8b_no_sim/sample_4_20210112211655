@@ -9,6 +9,9 @@
     "urticarial rash": "PROBLEM"
   },
   {
+    "persistent high fevers": "PROBLEM"
+  },
+  {
     "chest x-ray": "TEST"
   },
   {
@@ -57,16 +60,13 @@
     "folic acid": "DRUG"
   },
   {
-    "ganciclovir 275 mg IV q.12 h.": "TREATMENT"
+    "transbronchial biopsies": "TREATMENT"
   },
   {
-    "Advair 100/50, 1 puff b.i.d.": "TREATMENT"
+    "bronchoscopy": "TREATMENT"
   },
   {
-    "Ibuprofen p.r.n.": "TREATMENT"
-  },
-  {
-    "Tylenol p.r.n.": "TREATMENT"
+    "ganciclovir": "TREATMENT"
   },
   {
     "methotrexate": "TREATMENT"
@@ -75,21 +75,15 @@
     "prednisone": "TREATMENT"
   },
   {
-    "transbronchial biopsies": "TREATMENT"
+    "Advair": "TREATMENT"
   },
   {
-    "bronchoscopy": "TREATMENT"
+    "Ibuprofen": "TREATMENT"
   },
   {
-    "BAL": "TREATMENT"
+    "Tylenol": "TREATMENT"
   },
   {
-    "CMV infection": "PROBLEM"
-  },
-  {
-    "possible CMV pneumonitis": "PROBLEM"
-  },
-  {
-    "polymyositis on immunosuppressive therapy": "PROBLEM"
+    "folic acid": "TREATMENT"
   }
 ]

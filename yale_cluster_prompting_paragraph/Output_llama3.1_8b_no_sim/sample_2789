@@ -1,9 +1,21 @@
 [
   {
-    "hip surgery": "TREATMENT"
+    "hip surgery": "PROBLEM"
   },
   {
-    "hip replacement": "TREATMENT"
+    "hip replacement": "PROBLEM"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "pain management": "TREATMENT"
+  },
+  {
+    "Oxycodone SR": "DRUG"
+  },
+  {
+    "Oxycodone IR": "DRUG"
   },
   {
     "Paxil": "DRUG"
@@ -15,19 +27,13 @@
     "Celebrex": "DRUG"
   },
   {
-    "Coumadin": "DRUG"
-  },
-  {
-    "Lovenox": "DRUG"
-  },
-  {
     "Protonix": "DRUG"
   },
   {
     "Dulcolax": "DRUG"
   },
   {
-    "lactulose": "DRUG"
+    "Lactulose": "DRUG"
   },
   {
     "Colace": "DRUG"
@@ -36,141 +42,21 @@
     "Arixtra": "DRUG"
   },
   {
-    "Oxycodone": "DRUG"
+    "Coumadin": "DRUG"
   },
   {
     "Feosol": "DRUG"
   },
   {
-    "anemia": "PROBLEM"
+    "Physical Therapy": "TREATMENT"
   },
   {
-    "pain management": "TREATMENT"
+    "Occupational Therapy": "TREATMENT"
   },
   {
-    "depression": "PROBLEM"
+    "ice": "TREATMENT"
   },
   {
-    "anxiety": "PROBLEM"
-  },
-  {
-    "osteoporosis": "PROBLEM"
-  },
-  {
-    "migraine headaches": "PROBLEM"
-  },
-  {
-    "sciatic pain": "PROBLEM"
-  },
-  {
-    "herniated disc": "PROBLEM"
-  },
-  {
-    "appendectomy": "PROBLEM"
-  },
-  {
-    "DVT prophylaxis": "TREATMENT"
-  },
-  {
-    "GI prophylaxis": "TREATMENT"
-  },
-  {
-    "postoperative anemia": "PROBLEM"
-  },
-  {
-    "postoperative right hip pain": "PROBLEM"
-  },
-  {
-    "intermittent right calf discomfort": "PROBLEM"
-  },
-  {
-    "low-grade fever": "PROBLEM"
-  },
-  {
-    "mild intermittent cough": "PROBLEM"
-  },
-  {
-    "scratchy throat": "PROBLEM"
-  },
-  {
-    "constipation": "PROBLEM"
-  },
-  {
-    "urinary frequency": "PROBLEM"
-  },
-  {
-    "incomplete bladder emptying": "PROBLEM"
-  },
-  {
-    "voiding difficulties": "PROBLEM"
-  },
-  {
-    "dysuria": "PROBLEM"
-  },
-  {
-    "hemoptysis": "PROBLEM"
-  },
-  {
-    "nausea": "PROBLEM"
-  },
-  {
-    "vomiting": "PROBLEM"
-  },
-  {
-    "diarrhea": "PROBLEM"
-  },
-  {
-    "chest pain": "PROBLEM"
-  },
-  {
-    "palpitation": "PROBLEM"
-  },
-  {
-    "pain in the upper neck and down to her arm": "PROBLEM"
-  },
-  {
-    "difficulty breathing": "PROBLEM"
-  },
-  {
-    "shortness of breath": "PROBLEM"
-  },
-  {
-    "calf tenderness": "PROBLEM"
-  },
-  {
-    "Homans sign": "TEST"
-  },
-  {
-    "CBC": "TEST"
-  },
-  {
-    "chemistry panel": "TEST"
-  },
-  {
-    "INR": "TEST"
-  },
-  {
-    "BUN": "TEST"
-  },
-  {
-    "creatinine": "TEST"
-  },
-  {
-    "anion gap": "TEST"
-  },
-  {
-    "fasting glucose": "TEST"
-  },
-  {
-    "white count": "TEST"
-  },
-  {
-    "hemoglobin": "TEST"
-  },
-  {
-    "hematocrit": "TEST"
-  },
-  {
-    "platelets": "TEST"
+    "barium enema": "TREATMENT"
   }
 ]

@@ -1,5 +1,8 @@
 [
   {
+    "General Medicine": "PROBLEM"
+  },
+  {
     "diabetes mellitus": "PROBLEM"
   },
   {
@@ -24,10 +27,10 @@
     "insulin": "DRUG"
   },
   {
-    "tobacco": "DRUG"
+    "tobacco": "PROBLEM"
   },
   {
-    "alcohol": "DRUG"
+    "alcohol": "PROBLEM"
   },
   {
     "Wt": "TEST"
@@ -42,13 +45,7 @@
     "P": "TEST"
   },
   {
-    "acute distress": "PROBLEM"
-  },
-  {
-    "dentition": "PROBLEM"
-  },
-  {
-    "Skin": "PROBLEM"
+    "missing dentition": "PROBLEM"
   },
   {
     "dry": "PROBLEM"
@@ -63,13 +60,16 @@
     "pedal pulse": "TEST"
   },
   {
-    "Lungs": "PROBLEM"
+    "Diminished but clear": "PROBLEM"
   },
   {
-    "Abdomen": "PROBLEM"
+    "Scaphoid": "PROBLEM"
   },
   {
-    "His prostate check": "TEST"
+    "prostate": "PROBLEM"
+  },
+  {
+    "Gill": "PROBLEM"
   },
   {
     "monofilament testing": "TEST"

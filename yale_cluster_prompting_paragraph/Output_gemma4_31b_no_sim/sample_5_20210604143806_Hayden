@@ -90,9 +90,6 @@
     "hearing screen": "TEST"
   },
   {
-    "VITAL SIGNS": "TEST"
-  },
-  {
     "respiratory rate": "TEST"
   },
   {
@@ -111,7 +108,10 @@
     "irritated": "PROBLEM"
   },
   {
-    "nasal discharge": "PROBLEM"
+    "light reflex": "TEST"
+  },
+  {
+    "nasal discharge": "TEST"
   },
   {
     "throat": "TEST"
@@ -166,29 +166,5 @@
   },
   {
     "oxygen": "TREATMENT"
-  },
-  {
-    "rsv": "PROBLEM"
-  },
-  {
-    "bronchiolitis": "PROBLEM"
-  },
-  {
-    "otitis media": "PROBLEM"
-  },
-  {
-    "runny nose": "PROBLEM"
-  },
-  {
-    "difficulty breathing": "PROBLEM"
-  },
-  {
-    "congestion": "PROBLEM"
-  },
-  {
-    "congested": "PROBLEM"
-  },
-  {
-    "cough": "PROBLEM"
   }
 ]

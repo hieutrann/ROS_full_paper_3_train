@@ -1,12 +1,27 @@
 [
   {
-    "VITAL SIGNS": "TEST"
+    "Blood pressure": "TEST"
+  },
+  {
+    "pulse": "TEST"
+  },
+  {
+    "respirations": "TEST"
+  },
+  {
+    "temperature": "TEST"
+  },
+  {
+    "apparent distress": "PROBLEM"
   },
   {
     "EOMI": "TEST"
   },
   {
     "PERRLA": "TEST"
+  },
+  {
+    "Sclerae nonicteric": "PROBLEM"
   },
   {
     "lesions": "PROBLEM"
@@ -24,9 +39,6 @@
     "cataracts": "PROBLEM"
   },
   {
-    "dental work": "TREATMENT"
-  },
-  {
     "carotid bruit": "PROBLEM"
   },
   {
@@ -42,10 +54,13 @@
     "subcutaneous emphysema": "PROBLEM"
   },
   {
-    "Thyroid": "PROBLEM"
+    "nodularity": "PROBLEM"
   },
   {
-    "S1 and S2": "TEST"
+    "S1": "TEST"
+  },
+  {
+    "S2": "TEST"
   },
   {
     "murmur": "PROBLEM"
@@ -72,10 +87,7 @@
     "PMI": "PROBLEM"
   },
   {
-    "axillary or supraclavicular adenopathy": "PROBLEM"
-  },
-  {
-    "BREASTS": "TEST"
+    "adenopathy": "PROBLEM"
   },
   {
     "hepatosplenomegaly": "PROBLEM"
@@ -96,7 +108,13 @@
     "guarding": "PROBLEM"
   },
   {
-    "aortic impulse": "TEST"
+    "widening of the aortic impulse": "PROBLEM"
+  },
+  {
+    "intraabdominal bruit": "PROBLEM"
+  },
+  {
+    "auscultation": "TEST"
   },
   {
     "hernia": "PROBLEM"
@@ -108,7 +126,13 @@
     "7 cm by gloved digital palpation": "TEST"
   },
   {
-    "Hemoccult-negative stool": "TEST"
+    "Hemoccult": "TEST"
+  },
+  {
+    "stool": "TEST"
+  },
+  {
+    "prostate": "PROBLEM"
   },
   {
     "nodularity": "PROBLEM"
@@ -118,9 +142,6 @@
   },
   {
     "rectal masses": "PROBLEM"
-  },
-  {
-    "distal pulse": "TEST"
   },
   {
     "edema": "PROBLEM"
@@ -133,6 +154,12 @@
   },
   {
     "deep venous thrombosis": "PROBLEM"
+  },
+  {
+    "range of motion": "TEST"
+  },
+  {
+    "percussion": "TEST"
   },
   {
     "spinous process tenderness": "PROBLEM"
@@ -162,13 +189,19 @@
     "cerebellar function": "TEST"
   },
   {
-    "premalignant or malignant condition": "PROBLEM"
+    "premalignant condition": "PROBLEM"
+  },
+  {
+    "malignant condition": "PROBLEM"
   },
   {
     "digital palpation": "TEST"
   },
   {
     "hemoccult - negative": "TEST"
+  },
+  {
+    "palpation": "TEST"
   },
   {
     "tenderness": "PROBLEM"

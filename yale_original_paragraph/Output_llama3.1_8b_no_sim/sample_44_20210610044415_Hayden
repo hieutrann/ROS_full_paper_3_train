@@ -1,9 +1,6 @@
 [
   {
-    "Microinvasive carcinoma of the cervix": "PROBLEM"
-  },
-  {
-    "Total vaginal hysterectomy": "TREATMENT"
+    "cervix": "PROBLEM"
   },
   {
     "Vicodin": "DRUG"
@@ -13,5 +10,17 @@
   },
   {
     "Macrodantin": "DRUG"
+  },
+  {
+    "Chest x-ray": "TEST"
+  },
+  {
+    "hysterectomy": "TREATMENT"
+  },
+  {
+    "cone biopsy": "TEST"
+  },
+  {
+    "Pap smear": "TEST"
   }
 ]

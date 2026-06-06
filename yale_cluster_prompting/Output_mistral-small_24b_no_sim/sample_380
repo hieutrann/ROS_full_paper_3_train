@@ -6,10 +6,16 @@
     "CVA": "PROBLEM"
   },
   {
-    "Compression fracture": "PROBLEM"
+    "Compression fracture of L1": "PROBLEM"
   },
   {
-    "osteoarthritis": "PROBLEM"
+    "osteoarthritis of knee": "PROBLEM"
+  },
+  {
+    "followup": "TREATMENT"
+  },
+  {
+    "Caucasian": "PROBLEM"
   },
   {
     "hypertension": "PROBLEM"
@@ -36,22 +42,16 @@
     "osteoarthritis": "PROBLEM"
   },
   {
-    "knee": "PROBLEM"
-  },
-  {
     "total knee replacement": "TREATMENT"
   },
   {
     "weight": "PROBLEM"
   },
   {
-    "surgery": "TREATMENT"
-  },
-  {
     "coronary disease": "PROBLEM"
   },
   {
-    "stroke risk": "PROBLEM"
+    "stroke": "PROBLEM"
   },
   {
     "cardiac disease": "PROBLEM"
@@ -81,7 +81,7 @@
     "fasting insulin level": "TEST"
   },
   {
-    "glucose": "TEST"
+    "nonfasting glucose": "TEST"
   },
   {
     "diabetes": "PROBLEM"
@@ -96,16 +96,7 @@
     "X-ray": "TEST"
   },
   {
-    "low back": "PROBLEM"
-  },
-  {
     "compression fracture": "PROBLEM"
-  },
-  {
-    "L1": "PROBLEM"
-  },
-  {
-    "falls": "PROBLEM"
   },
   {
     "compression fracture": "PROBLEM"
@@ -117,22 +108,16 @@
     "compression fracture": "PROBLEM"
   },
   {
-    "lumbar spine": "PROBLEM"
-  },
-  {
     "arthritis": "PROBLEM"
   },
   {
-    "bone density": "TEST"
+    "DEXA scan": "TEST"
   },
   {
     "compression fractures": "PROBLEM"
   },
   {
     "osteoporosis": "PROBLEM"
-  },
-  {
-    "treatment": "TREATMENT"
   },
   {
     "Hydrochlorothiazide": "DRUG"
@@ -174,6 +159,9 @@
     "vomiting": "PROBLEM"
   },
   {
+    "adhesive tape": "PROBLEM"
+  },
+  {
     "Hypertension": "PROBLEM"
   },
   {
@@ -186,16 +174,13 @@
     "Severe osteoarthritis": "PROBLEM"
   },
   {
+    "knee": "PROBLEM"
+  },
+  {
     "melanoma": "PROBLEM"
   },
   {
-    "Removal": "TREATMENT"
-  },
-  {
     "Breast biopsy": "TEST"
-  },
-  {
-    "benign": "PROBLEM"
   },
   {
     "Holter monitor": "TEST"
@@ -210,16 +195,10 @@
     "Compression fracture": "PROBLEM"
   },
   {
-    "L1": "PROBLEM"
-  },
-  {
     "DEXA scan": "TEST"
   },
   {
-    "PHYSICAL EXAMINATION": "TEST"
-  },
-  {
-    "Vital signs": "TEST"
+    "overweight": "PROBLEM"
   },
   {
     "Blood pressure": "TEST"
@@ -234,28 +213,37 @@
     "Temperature": "TEST"
   },
   {
+    "Neck": "PROBLEM"
+  },
+  {
     "Carotids": "TEST"
   },
   {
-    "Chest": "PROBLEM"
+    "Chest": "TEST"
   },
   {
-    "Cardiovascular": "TEST"
+    "S3": "TEST"
+  },
+  {
+    "S4": "TEST"
   },
   {
     "edema": "PROBLEM"
   },
   {
+    "Neurologic": "PROBLEM"
+  },
+  {
     "EKG": "TEST"
   },
   {
-    "sinus rhythm": "PROBLEM"
+    "normal sinus rhythm": "PROBLEM"
   },
   {
-    "AV block": "PROBLEM"
+    "first degree AV block": "PROBLEM"
   },
   {
-    "R-wave progression": "PROBLEM"
+    "poor R-wave progression": "PROBLEM"
   },
   {
     "Hypertension": "PROBLEM"
@@ -264,22 +252,19 @@
     "cerebrovascular accident": "PROBLEM"
   },
   {
-    "Compression fracture": "PROBLEM"
+    "Compression fracture of L1": "PROBLEM"
   },
   {
-    "L1": "PROBLEM"
-  },
-  {
-    "Osteoarthritis": "PROBLEM"
-  },
-  {
-    "knee": "PROBLEM"
+    "Osteoarthritis of the knee": "PROBLEM"
   },
   {
     "chest x-ray": "TEST"
   },
   {
     "C-reactive protein": "TEST"
+  },
+  {
+    "cardiac": "PROBLEM"
   },
   {
     "weight loss": "PROBLEM"
@@ -294,10 +279,7 @@
     "knee pain": "PROBLEM"
   },
   {
-    "colonoscopy": "TEST"
-  },
-  {
-    "XYZ": "DRUG"
+    "screening colonoscopy": "TEST"
   },
   {
     "colonoscopy": "TEST"
@@ -309,19 +291,16 @@
     "Fosamax": "DRUG"
   },
   {
-    "medications": "DRUG"
+    "preoperative evaluation": "TEST"
   },
   {
     "EKG": "TEST"
   },
   {
-    "cardiac testing": "TEST"
+    "preoperative cardiac testing": "TEST"
   },
   {
     "beta-blocker": "DRUG"
-  },
-  {
-    "cardiac protection": "PROBLEM"
   },
   {
     "hypertension": "PROBLEM"
@@ -345,18 +324,27 @@
     "compression fracture": "PROBLEM"
   },
   {
-    "osteoarthritis of the knee": "PROBLEM"
-  },
-  {
-    "osteoarthritis": "PROBLEM"
-  },
-  {
     "chest x-ray": "TEST"
+  },
+  {
+    "osteoarthritis of the knee": "PROBLEM"
   },
   {
     "dexa scan": "TEST"
   },
   {
     "dexa": "TEST"
+  },
+  {
+    "osteoarthritis": "PROBLEM"
+  },
+  {
+    "cardiac": "PROBLEM"
+  },
+  {
+    "compression": "PROBLEM"
+  },
+  {
+    "knee": "PROBLEM"
   }
 ]

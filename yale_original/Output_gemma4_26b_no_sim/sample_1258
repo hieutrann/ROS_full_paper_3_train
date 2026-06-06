@@ -1,6 +1,6 @@
 [
   {
-    "Multiple contusions": "PROBLEM"
+    "contusions": "PROBLEM"
   },
   {
     "abdominal pain": "PROBLEM"
@@ -12,10 +12,16 @@
     "pain": "PROBLEM"
   },
   {
+    "neck": "PROBLEM"
+  },
+  {
     "passed out": "PROBLEM"
   },
   {
-    "pain low in her abdomen": "PROBLEM"
+    "pain": "PROBLEM"
+  },
+  {
+    "low in her abdomen": "PROBLEM"
   },
   {
     "pain": "PROBLEM"
@@ -33,7 +39,16 @@
     "pain": "PROBLEM"
   },
   {
-    "painful throughout the bones of her pelvis": "PROBLEM"
+    "shoulders": "PROBLEM"
+  },
+  {
+    "elbows": "PROBLEM"
+  },
+  {
+    "wrists": "PROBLEM"
+  },
+  {
+    "bones of her pelvis": "PROBLEM"
   },
   {
     "backboard": "TREATMENT"
@@ -45,7 +60,7 @@
     "difficulty breathing": "PROBLEM"
   },
   {
-    "open lacerations": "PROBLEM"
+    "lacerations": "PROBLEM"
   },
   {
     "abrasions": "PROBLEM"
@@ -66,10 +81,10 @@
     "chilled": "PROBLEM"
   },
   {
-    "pain": "PROBLEM"
+    "pain in her abdomen": "PROBLEM"
   },
   {
-    "abdomen": "PROBLEM"
+    "pregnant": "PROBLEM"
   },
   {
     "birth control medications": "DRUG"
@@ -126,6 +141,9 @@
     "lacerations": "PROBLEM"
   },
   {
+    "scalp": "PROBLEM"
+  },
+  {
     "Fundoscopic exam": "TEST"
   },
   {
@@ -136,6 +154,12 @@
   },
   {
     "entrapment": "PROBLEM"
+  },
+  {
+    "mucoid discharge": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
   },
   {
     "thyromegaly": "PROBLEM"
@@ -150,19 +174,13 @@
     "stridor": "PROBLEM"
   },
   {
-    "HEART": "TEST"
+    "murmur": "PROBLEM"
   },
   {
-    "S1 and S2": "TEST"
+    "rub": "PROBLEM"
   },
   {
-    "murmur": "TEST"
-  },
-  {
-    "rub": "TEST"
-  },
-  {
-    "gallop": "TEST"
+    "gallop": "PROBLEM"
   },
   {
     "wheezes": "PROBLEM"
@@ -198,7 +216,10 @@
     "Capillary refill": "TEST"
   },
   {
-    "dorsalis pedis and radial pulses": "TEST"
+    "dorsalis pedis": "TEST"
+  },
+  {
+    "radial pulses": "TEST"
   },
   {
     "Romberg": "TEST"
@@ -216,7 +237,10 @@
     "abrasions": "PROBLEM"
   },
   {
-    "small abrasion": "PROBLEM"
+    "abrasion": "PROBLEM"
+  },
+  {
+    "abdomen": "PROBLEM"
   },
   {
     "lacerations": "PROBLEM"
@@ -234,10 +258,13 @@
     "x-ray of the pelvis": "TEST"
   },
   {
-    "CT scan of the cervical spine": "TEST"
+    "CT scan": "TEST"
   },
   {
-    "acute traumatic bony injury of the cervical spine": "PROBLEM"
+    "cervical spine": "PROBLEM"
+  },
+  {
+    "acute traumatic bony injury": "PROBLEM"
   },
   {
     "prevertibral soft tissue swelling": "PROBLEM"
@@ -255,25 +282,31 @@
     "left sphenoid sinus": "PROBLEM"
   },
   {
-    "CT scan without contrast of the abdomen": "TEST"
+    "CT scan": "TEST"
   },
   {
-    "dependent atelectasis": "PROBLEM"
+    "abdomen": "PROBLEM"
+  },
+  {
+    "atelectasis": "PROBLEM"
   },
   {
     "low density in the liver": "PROBLEM"
   },
   {
-    "CT scan with contrast": "TEST"
+    "CT scan": "TEST"
   },
   {
-    "CT scan with contrast": "TEST"
+    "contrast": "TREATMENT"
+  },
+  {
+    "CT scan": "TEST"
+  },
+  {
+    "contrast": "TREATMENT"
   },
   {
     "bleeding": "PROBLEM"
-  },
-  {
-    "intraabdominal or pelvic abnormalities": "PROBLEM"
   },
   {
     "laboratory studies": "TEST"
@@ -327,7 +360,7 @@
     "lacerations": "PROBLEM"
   },
   {
-    "Multiple contusions": "PROBLEM"
+    "contusions": "PROBLEM"
   },
   {
     "abdominal pain": "PROBLEM"
@@ -370,5 +403,11 @@
   },
   {
     "ct scan": "TEST"
+  },
+  {
+    "motor vehicle accident": "PROBLEM"
+  },
+  {
+    "motor vehicle collision": "PROBLEM"
   }
 ]

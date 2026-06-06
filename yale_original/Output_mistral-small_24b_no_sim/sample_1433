@@ -1,6 +1,6 @@
 [
   {
-    "Erectile Dysfunction": "PROBLEM"
+    "erectile dysfunction": "PROBLEM"
   },
   {
     "Cialis": "DRUG"
@@ -33,7 +33,7 @@
     "dysuria": "PROBLEM"
   },
   {
-    "gross hematuria": "PROBLEM"
+    "hematuria": "PROBLEM"
   },
   {
     "fever": "PROBLEM"
@@ -42,13 +42,13 @@
     "chills": "PROBLEM"
   },
   {
-    "Daytime frequency": "PROBLEM"
+    "frequency": "PROBLEM"
   },
   {
     "nocturia": "PROBLEM"
   },
   {
-    "PSA": "TEST"
+    "elevated PSA": "PROBLEM"
   },
   {
     "biopsy": "TEST"
@@ -75,6 +75,9 @@
     "medication": "DRUG"
   },
   {
+    "medications": "DRUG"
+  },
+  {
     "penile prosthesis": "TREATMENT"
   },
   {
@@ -99,10 +102,22 @@
     "biopsy": "TEST"
   },
   {
+    "biopsy": "TEST"
+  },
+  {
     "Cialis": "DRUG"
   },
   {
+    "20 mg": "DRUG"
+  },
+  {
     "Levitra": "DRUG"
+  },
+  {
+    "10 mg": "DRUG"
+  },
+  {
+    "20 mg": "DRUG"
   },
   {
     "PSA": "TEST"
@@ -114,13 +129,13 @@
     "biopsy": "TEST"
   },
   {
+    "urology": "PROBLEM"
+  },
+  {
     "erectile dysfunction": "PROBLEM"
   },
   {
     "erectile": "PROBLEM"
-  },
-  {
-    "dysfunction": "PROBLEM"
   },
   {
     "dysfunction": "PROBLEM"

@@ -18,48 +18,48 @@
     "Prostatic hypertrophy": "PROBLEM"
   },
   {
-    "labetalol": "DRUG"
-  },
-  {
-    "lisinopril": "DRUG"
-  },
-  {
-    "terazosin": "DRUG"
+    "Labetalol": "DRUG"
   },
   {
     "Synthroid": "DRUG"
   },
   {
-    "aspirin": "DRUG"
+    "Aspirin": "DRUG"
   },
   {
-    "Perioperative Elevated Blood Pressure": "PROBLEM"
+    "Atenolol": "DRUG"
   },
   {
-    "Perioperative hypertension": "PROBLEM"
+    "Lisinopril": "DRUG"
   },
   {
-    "pulse": "TEST"
+    "Terazosin": "DRUG"
   },
   {
-    "blood pressure": "TEST"
+    "IV labetalol": "TREATMENT"
   },
   {
-    "laser surgery": "TREATMENT"
+    "Laser surgery": "TREATMENT"
   },
   {
-    "transurethral resection of the prostate": "TREATMENT"
+    "Transurethral resection of the prostate": "TREATMENT"
   },
   {
-    "rotator cuff repair": "TREATMENT"
+    "Bilateral inguinal hernia repair": "TREATMENT"
   },
   {
-    "left knee arthroplasty": "TREATMENT"
+    "Right shoulder surgery with reconstruction": "TREATMENT"
   },
   {
-    "bilateral inguinal hernia repair": "TREATMENT"
+    "Rotator cuff repair": "TREATMENT"
   },
   {
-    "right shoulder surgery with reconstruction": "TREATMENT"
+    "Left knee arthroplasty": "TREATMENT"
+  },
+  {
+    "Blood pressure": "TEST"
+  },
+  {
+    "Blood": "TEST"
   }
 ]

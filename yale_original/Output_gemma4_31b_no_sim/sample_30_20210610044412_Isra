@@ -1,6 +1,6 @@
 [
   {
-    "acute distress": "PROBLEM"
+    "Physical Exam": "TEST"
   },
   {
     "GCS": "TEST"
@@ -24,9 +24,6 @@
     "lesions": "PROBLEM"
   },
   {
-    "Pupils": "TEST"
-  },
-  {
     "Funduscopic exam": "TEST"
   },
   {
@@ -39,12 +36,6 @@
     "lesions": "PROBLEM"
   },
   {
-    "Nares": "TEST"
-  },
-  {
-    "Septum midline": "PROBLEM"
-  },
-  {
     "erythema": "PROBLEM"
   },
   {
@@ -55,9 +46,6 @@
   },
   {
     "lesion": "PROBLEM"
-  },
-  {
-    "Hearing": "TEST"
   },
   {
     "lesion": "PROBLEM"
@@ -78,31 +66,16 @@
     "masses": "PROBLEM"
   },
   {
-    "Thyroid midline": "TEST"
-  },
-  {
     "JVD": "PROBLEM"
   },
   {
-    "nontender": "PROBLEM"
-  },
-  {
     "pain": "PROBLEM"
-  },
-  {
-    "respiratory effort": "TEST"
-  },
-  {
-    "percussion": "TEST"
   },
   {
     "egophony": "PROBLEM"
   },
   {
     "tactile fremitus": "PROBLEM"
-  },
-  {
-    "CARDIOVASCULAR": "TEST"
   },
   {
     "murmur": "PROBLEM"
@@ -126,9 +99,6 @@
     "Pulses": "TEST"
   },
   {
-    "Femoral and pedal pulses": "TEST"
-  },
-  {
     "peripheral edema": "PROBLEM"
   },
   {
@@ -147,9 +117,6 @@
     "Bowel sounds": "TEST"
   },
   {
-    "Abdomen": "TEST"
-  },
-  {
     "rebound": "PROBLEM"
   },
   {
@@ -162,37 +129,10 @@
     "ecchymosis": "PROBLEM"
   },
   {
-    "gait": "TEST"
-  },
-  {
-    "pathology to digits or nails": "PROBLEM"
-  },
-  {
-    "Extremities move": "TEST"
-  },
-  {
     "tenderness": "PROBLEM"
   },
   {
     "effusion": "PROBLEM"
-  },
-  {
-    "Range of motion": "TEST"
-  },
-  {
-    "Strength": "TEST"
-  },
-  {
-    "tone": "TEST"
-  },
-  {
-    "Nontender": "PROBLEM"
-  },
-  {
-    "range of motion": "TEST"
-  },
-  {
-    "Inspection": "TEST"
   },
   {
     "diaphoresis": "PROBLEM"
@@ -201,7 +141,7 @@
     "wound": "PROBLEM"
   },
   {
-    "Cervical lymph nodes": "TEST"
+    "Cervical lymph nodes": "PROBLEM"
   },
   {
     "lymphadenopathy": "PROBLEM"
@@ -219,18 +159,6 @@
     "Straight leg raise": "TEST"
   },
   {
-    "Judgment": "TEST"
-  },
-  {
-    "insight": "TEST"
-  },
-  {
-    "Memory": "TEST"
-  },
-  {
-    "mood": "TEST"
-  },
-  {
     "delusions": "PROBLEM"
   },
   {
@@ -240,6 +168,21 @@
     "suicidal or homicidal ideation": "PROBLEM"
   },
   {
+    "normal physical exam": "TEST"
+  },
+  {
+    "pulses": "TEST"
+  },
+  {
     "tenderness": "PROBLEM"
+  },
+  {
+    "strength": "TEST"
+  },
+  {
+    "lymph": "TEST"
+  },
+  {
+    "lesions": "PROBLEM"
   }
 ]

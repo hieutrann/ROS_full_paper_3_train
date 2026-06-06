@@ -39,16 +39,13 @@
     "Stool": "TEST"
   },
   {
-    "OB positive": "PROBLEM"
+    "OB": "TEST"
   },
   {
     "shortness of breath": "PROBLEM"
   },
   {
     "chest pain": "PROBLEM"
-  },
-  {
-    "GI complaints": "PROBLEM"
   },
   {
     "atrial fibrillation": "PROBLEM"
@@ -75,13 +72,10 @@
     "acute distress": "PROBLEM"
   },
   {
+    "VITAL SIGNS": "TEST"
+  },
+  {
     "adenopathy": "PROBLEM"
-  },
-  {
-    "LUNGS": "TEST"
-  },
-  {
-    "HEART": "TEST"
   },
   {
     "Irregularly regular": "PROBLEM"
@@ -102,7 +96,7 @@
     "lower extremity edema": "PROBLEM"
   },
   {
-    "upper endoscopy": "TREATMENT"
+    "upper endoscopy": "TEST"
   },
   {
     "erosive gastritis": "PROBLEM"

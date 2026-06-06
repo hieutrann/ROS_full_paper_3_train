@@ -1,0 +1,68 @@
+[
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "lower quadrant": "PROBLEM"
+  },
+  {
+    "sigmoid": "PROBLEM"
+  },
+  {
+    "diverticulitis": "PROBLEM"
+  },
+  {
+    "sigmoid diverticulitis": "PROBLEM"
+  },
+  {
+    "Cipro": "DRUG"
+  },
+  {
+    "Flagyl": "DRUG"
+  },
+  {
+    "CT scan": "TEST"
+  },
+  {
+    "CT scan of the abdomen and pelvis": "TEST"
+  },
+  {
+    "colonoscopy": "TEST"
+  },
+  {
+    "temperature": "TEST"
+  },
+  {
+    "white blood cell count": "TEST"
+  },
+  {
+    "hemoglobin": "TEST"
+  },
+  {
+    "platelet count": "TEST"
+  },
+  {
+    "alkaline phosphatase": "TEST"
+  },
+  {
+    "liver function tests": "TEST"
+  },
+  {
+    "electrolytes": "TEST"
+  },
+  {
+    "glucose": "TEST"
+  },
+  {
+    "BUN": "TEST"
+  },
+  {
+    "creatinine": "TEST"
+  },
+  {
+    "EKG": "TEST"
+  },
+  {
+    "sigmoid diverticulitis": "PROBLEM"
+  }
+]

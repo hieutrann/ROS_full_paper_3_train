@@ -1,15 +1,9 @@
 [
   {
-    "Open reduction and internal fixation": "TREATMENT"
+    "tibial plateau fracture": "PROBLEM"
   },
   {
-    "right Schatzker III tibial plateau fracture": "PROBLEM"
-  },
-  {
-    "partial medial meniscectomy": "TREATMENT"
-  },
-  {
-    "Right tibial plateau fracture": "PROBLEM"
+    "Schatzker III tibial plateau fracture": "PROBLEM"
   },
   {
     "medial meniscus tear": "PROBLEM"
@@ -30,27 +24,54 @@
     "dyspnea": "PROBLEM"
   },
   {
-    "nebulizer treatment": "TREATMENT"
+    "thick secretions": "PROBLEM"
+  },
+  {
+    "fluid overload": "PROBLEM"
+  },
+  {
+    "open reduction and internal fixation": "TREATMENT"
+  },
+  {
+    "partial medial meniscectomy": "TREATMENT"
+  },
+  {
+    "CPM machine": "TREATMENT"
+  },
+  {
+    "antiembolic stockings": "TREATMENT"
+  },
+  {
+    "nursing": "TREATMENT"
+  },
+  {
+    "physical therapy": "TREATMENT"
+  },
+  {
+    "occupational therapy": "TREATMENT"
+  },
+  {
+    "social work": "TREATMENT"
   },
   {
     "Lasix": "DRUG"
   },
   {
-    "CPM machine": "TEST"
+    "nebulizer": "TREATMENT"
   },
   {
-    "Lovenox": "DRUG"
-  },
-  {
-    "Vicodin": "DRUG"
-  },
-  {
-    "Combivent nebulizer": "DRUG"
+    "Combivent": "DRUG"
   },
   {
     "Zithromax": "DRUG"
   },
   {
     "guaifenesin": "DRUG"
+  },
+  {
+    "Lovenox": "DRUG"
+  },
+  {
+    "Vicodin": "DRUG"
   }
 ]

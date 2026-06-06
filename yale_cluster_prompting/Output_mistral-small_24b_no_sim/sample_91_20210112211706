@@ -18,13 +18,10 @@
     "cirrhosis": "PROBLEM"
   },
   {
-    "alcohol": "DRUG"
+    "alcohol abuse": "PROBLEM"
   },
   {
-    "cocaine": "DRUG"
-  },
-  {
-    "ground-level fall": "PROBLEM"
+    "cocaine abuse": "PROBLEM"
   },
   {
     "weak knees": "PROBLEM"
@@ -57,13 +54,10 @@
     "cirrhosis": "PROBLEM"
   },
   {
-    "alcohol": "DRUG"
+    "alcohol abuse": "PROBLEM"
   },
   {
-    "cocaine": "DRUG"
-  },
-  {
-    "ground-level fall": "PROBLEM"
+    "cocaine abuse": "PROBLEM"
   },
   {
     "weak knees": "PROBLEM"
@@ -81,22 +75,10 @@
     "prescription medications": "DRUG"
   },
   {
-    "afebrile": "PROBLEM"
-  },
-  {
-    "101.3": "TEST"
-  },
-  {
     "heart rate": "TEST"
   },
   {
-    "130": "TEST"
-  },
-  {
     "respiratory rate": "TEST"
-  },
-  {
-    "24": "TEST"
   },
   {
     "White blood cell count": "TEST"
@@ -105,10 +87,10 @@
     "platelet count": "TEST"
   },
   {
-    "ascites": "PROBLEM"
+    "Abdominal ultrasound": "TEST"
   },
   {
-    "Abdominal ultrasound": "TEST"
+    "ascites": "PROBLEM"
   },
   {
     "Zosyn": "DRUG"
@@ -121,9 +103,6 @@
   },
   {
     "hypotension": "PROBLEM"
-  },
-  {
-    "SBP": "TEST"
   },
   {
     "vancomycin": "DRUG"
@@ -192,22 +171,10 @@
     "Zofran": "DRUG"
   },
   {
-    "p.r.n.": "DRUG"
-  },
-  {
     "norepinephrine drip": "DRUG"
   },
   {
     "vitamin K": "DRUG"
-  },
-  {
-    "drowsy": "PROBLEM"
-  },
-  {
-    "confused": "PROBLEM"
-  },
-  {
-    "CONSTITUTIONAL/VITAL SIGNS": "TEST"
   },
   {
     "Heart rate": "TEST"
@@ -225,9 +192,6 @@
     "oxygen saturation": "TEST"
   },
   {
-    "2 L nasal cannula": "TREATMENT"
-  },
-  {
     "drowsy": "PROBLEM"
   },
   {
@@ -243,34 +207,40 @@
     "conjunctivae": "PROBLEM"
   },
   {
-    "icteric sclerae": "PROBLEM"
+    "sclerae": "PROBLEM"
   },
   {
     "Pupils": "TEST"
   },
   {
-    "EARS, NOSE, MOUTH AND THROAT": "TEST"
+    "hearing": "TEST"
   },
   {
-    "Moist oral mucosa": "PROBLEM"
+    "oral mucosa": "PROBLEM"
   },
   {
-    "NECK": "TEST"
+    "palpable neck masses": "PROBLEM"
   },
   {
     "Thyroid": "PROBLEM"
   },
   {
-    "RESPIRATORY": "TEST"
+    "Regular inspiratory effort": "PROBLEM"
   },
   {
-    "crackles": "PROBLEM"
+    "crackles": "TEST"
   },
   {
-    "wheezes": "PROBLEM"
+    "wheezes": "TEST"
   },
   {
-    "CARDIOVASCULAR": "TEST"
+    "cardiac rhythm": "TEST"
+  },
+  {
+    "rales": "PROBLEM"
+  },
+  {
+    "rubs": "PROBLEM"
   },
   {
     "bipedal edema": "PROBLEM"
@@ -279,22 +249,10 @@
     "Globular abdomen": "PROBLEM"
   },
   {
-    "guarding": "PROBLEM"
-  },
-  {
-    "rigidity": "PROBLEM"
-  },
-  {
     "n right upper quadrant": "PROBLEM"
   },
   {
     "epigastric area": "PROBLEM"
-  },
-  {
-    "palpation": "TEST"
-  },
-  {
-    "palpation": "TEST"
   },
   {
     "right upper quadrant": "PROBLEM"
@@ -309,7 +267,7 @@
     "jaundice": "PROBLEM"
   },
   {
-    "nodules": "PROBLEM"
+    "subcutaneous nodules": "PROBLEM"
   },
   {
     "Poor judgment": "PROBLEM"
@@ -363,6 +321,9 @@
     "myoglobin": "TEST"
   },
   {
+    "Urinalysis": "TEST"
+  },
+  {
     "leucocyte esterase": "TEST"
   },
   {
@@ -375,7 +336,7 @@
     "rbc's": "TEST"
   },
   {
-    "bacteria": "PROBLEM"
+    "bacteria": "TEST"
   },
   {
     "blood cultures": "TEST"
@@ -384,25 +345,10 @@
     "Chest x-ray": "TEST"
   },
   {
-    "heart": "PROBLEM"
-  },
-  {
-    "mediastinum": "PROBLEM"
-  },
-  {
-    "lung fields": "PROBLEM"
-  },
-  {
-    "bony": "PROBLEM"
-  },
-  {
-    "soft tissue structures": "PROBLEM"
-  },
-  {
     "Left knee x-rays": "TEST"
   },
   {
-    "osteoarthritis": "PROBLEM"
+    "advanced osteoarthritis": "PROBLEM"
   },
   {
     "Abdominal ultrasound": "TEST"
@@ -412,15 +358,6 @@
   },
   {
     "gallbladder": "PROBLEM"
-  },
-  {
-    "ball": "PROBLEM"
-  },
-  {
-    "pericholecystic fluid": "PROBLEM"
-  },
-  {
-    "CAT scan": "TEST"
   },
   {
     "liver cirrhosis": "PROBLEM"
@@ -438,7 +375,7 @@
     "dilated portal/splenic and superior mesenteric vein": "PROBLEM"
   },
   {
-    "Appendix": "PROBLEM"
+    "CAT scan": "TEST"
   },
   {
     "pericecal inflammation": "PROBLEM"
@@ -501,16 +438,10 @@
     "urine culture": "TEST"
   },
   {
-    "hepatitis A": "PROBLEM"
+    "hepatitis A vaccination": "DRUG"
   },
   {
-    "vaccination": "DRUG"
-  },
-  {
-    "general medicine": "PROBLEM"
-  },
-  {
-    "sbp": "TEST"
+    "sbp": "PROBLEM"
   },
   {
     "diabetes": "PROBLEM"

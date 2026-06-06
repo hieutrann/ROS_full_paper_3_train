@@ -3,7 +3,7 @@
     "chest pain": "PROBLEM"
   },
   {
-    "left-sided with severe chest tightness": "PROBLEM"
+    "chest tightness": "PROBLEM"
   },
   {
     "psychological disorders": "PROBLEM"
@@ -12,7 +12,7 @@
     "chest pain": "PROBLEM"
   },
   {
-    "left-sided with severe chest tightness": "PROBLEM"
+    "chest tightness": "PROBLEM"
   },
   {
     "psychological disorders": "PROBLEM"
@@ -25,6 +25,9 @@
   },
   {
     "cardiac workup": "TEST"
+  },
+  {
+    "drug screen": "TEST"
   },
   {
     "methadone": "DRUG"
@@ -135,9 +138,6 @@
     "Pupils": "TEST"
   },
   {
-    "oropharyngeal lesions": "PROBLEM"
-  },
-  {
     "JV distention": "PROBLEM"
   },
   {
@@ -145,9 +145,6 @@
   },
   {
     "lymphadenopathy": "PROBLEM"
-  },
-  {
-    "regular rate and rhythm": "TEST"
   },
   {
     "Bowel sounds": "TEST"
@@ -210,7 +207,7 @@
     "sinus rhythm": "PROBLEM"
   },
   {
-    "acute ST-T wave changes": "PROBLEM"
+    "ST-T wave changes": "PROBLEM"
   },
   {
     "toxicology screen": "TEST"
@@ -244,6 +241,9 @@
   },
   {
     "early pregnancy": "PROBLEM"
+  },
+  {
+    "pregnancy": "PROBLEM"
   },
   {
     "Migraine headaches": "PROBLEM"

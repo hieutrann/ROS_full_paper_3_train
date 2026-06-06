@@ -9,6 +9,42 @@
     "heart rate": "TEST"
   },
   {
+    "conjunctiva": "TEST"
+  },
+  {
+    "pupil": "TEST"
+  },
+  {
+    "ptosis": "PROBLEM"
+  },
+  {
+    "Hearing": "TEST"
+  },
+  {
+    "oropharynx": "TEST"
+  },
+  {
+    "mucosa": "TEST"
+  },
+  {
+    "lesion": "PROBLEM"
+  },
+  {
+    "palate": "TEST"
+  },
+  {
+    "tongue": "TEST"
+  },
+  {
+    "tonsil": "TEST"
+  },
+  {
+    "posterior pharynx": "TEST"
+  },
+  {
+    "thyroid gland": "TEST"
+  },
+  {
     "Auscultation of the lung": "TEST"
   },
   {
@@ -33,9 +69,24 @@
     "enlarged spleen": "PROBLEM"
   },
   {
+    "Bowel sounds": "TEST"
+  },
+  {
     "mass": "PROBLEM"
   },
   {
-    "deformity": "PROBLEM"
+    "lesion": "PROBLEM"
+  },
+  {
+    "discharge": "PROBLEM"
+  },
+  {
+    "node": "PROBLEM"
+  },
+  {
+    "Deep tendon reflexes": "TEST"
+  },
+  {
+    "Sensation": "TEST"
   }
 ]

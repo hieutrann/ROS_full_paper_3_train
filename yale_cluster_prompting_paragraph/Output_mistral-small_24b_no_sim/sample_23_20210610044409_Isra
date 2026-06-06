@@ -1,9 +1,9 @@
 [
   {
-    "VITAL SIGNS": "TEST"
+    "apparent distress": "PROBLEM"
   },
   {
-    "pulse": "TEST"
+    "adenopathy": "PROBLEM"
   },
   {
     "hepatosplenomegaly": "PROBLEM"
@@ -21,13 +21,28 @@
     "rigidity": "PROBLEM"
   },
   {
-    "pulse": "TEST"
+    "edema": "PROBLEM"
   },
   {
-    "bruit": "PROBLEM"
+    "cyanosis": "PROBLEM"
   },
   {
-    "adenopathy": "PROBLEM"
+    "clubbing": "PROBLEM"
+  },
+  {
+    "deep venous thrombosis": "PROBLEM"
+  },
+  {
+    "spinous process tenderness": "PROBLEM"
+  },
+  {
+    "CVA tenderness": "PROBLEM"
+  },
+  {
+    "Hemoccult": "TEST"
+  },
+  {
+    "auscultation": "TEST"
   },
   {
     "percussion": "TEST"
@@ -39,6 +54,39 @@
     "palpation": "TEST"
   },
   {
-    "signs": "TEST"
+    "straight-leg raising": "TEST"
+  },
+  {
+    "Kernig": "TEST"
+  },
+  {
+    "Brudzinski": "TEST"
+  },
+  {
+    "EOMI": "TEST"
+  },
+  {
+    "PERRLA": "TEST"
+  },
+  {
+    "Funduscopic examination": "TEST"
+  },
+  {
+    "TMs": "TEST"
+  },
+  {
+    "JVD": "TEST"
+  },
+  {
+    "S1": "TEST"
+  },
+  {
+    "S2": "TEST"
+  },
+  {
+    "PMI": "TEST"
+  },
+  {
+    "Hemoccult": "TEST"
   }
 ]

@@ -1,12 +1,18 @@
 [
   {
-    "cognitive-linguistic deficits": "PROBLEM"
+    "Speech therapy": "TREATMENT"
   },
   {
     "speech therapy": "TREATMENT"
   },
   {
     "cognitive-linguistic deficits": "PROBLEM"
+  },
+  {
+    "cognitive-linguistic deficits": "PROBLEM"
+  },
+  {
+    "speech therapy": "TREATMENT"
   },
   {
     "speech therapy": "TREATMENT"
@@ -24,6 +30,15 @@
     "visuospatial skills": "PROBLEM"
   },
   {
+    "therapy": "TREATMENT"
+  },
+  {
+    "queuing": "PROBLEM"
+  },
+  {
+    "accuracy": "TEST"
+  },
+  {
     "3 step direction": "TEST"
   },
   {
@@ -36,13 +51,19 @@
     "functional": "PROBLEM"
   },
   {
-    "cognitive-linguistic": "PROBLEM"
+    "cognitive-linguistic ability": "PROBLEM"
   },
   {
     "safety": "PROBLEM"
   },
   {
     "independence": "PROBLEM"
+  },
+  {
+    "activities": "PROBLEM"
+  },
+  {
+    "progress": "PROBLEM"
   },
   {
     "cognitive domains": "PROBLEM"
@@ -66,16 +87,19 @@
     "cognitive-linguistic deficit": "PROBLEM"
   },
   {
-    "severe impairment": "PROBLEM"
+    "evaluation": "TEST"
   },
   {
-    "speech therapy": "TREATMENT"
+    "impairment": "PROBLEM"
   },
   {
-    "discharge summary": "TEST"
+    "skilled speech therapy": "TREATMENT"
   },
   {
-    "narrative": "TEST"
+    "discharge summary": "TREATMENT"
+  },
+  {
+    "narrative": "PROBLEM"
   },
   {
     "memory": "PROBLEM"
@@ -91,6 +115,9 @@
   },
   {
     "visuospatial": "PROBLEM"
+  },
+  {
+    "accuracy": "PROBLEM"
   },
   {
     "linguistic": "PROBLEM"

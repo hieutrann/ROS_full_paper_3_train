@@ -1,9 +1,9 @@
 [
   {
-    "MULTISYSTEM EXAM": "TEST"
+    "vital signs": "TEST"
   },
   {
-    "vital signs": "TEST"
+    "afebrile": "PROBLEM"
   },
   {
     "blood pressure": "TEST"
@@ -13,6 +13,9 @@
   },
   {
     "conjunctiva": "PROBLEM"
+  },
+  {
+    "pupil": "TEST"
   },
   {
     "ptosis": "PROBLEM"
@@ -33,7 +36,7 @@
     "palpation": "TEST"
   },
   {
-    "RESPIRATORY": "TEST"
+    "respiratory effort": "TEST"
   },
   {
     "Auscultation of the lung": "TEST"
@@ -46,6 +49,15 @@
   },
   {
     "edema": "PROBLEM"
+  },
+  {
+    "nontender": "PROBLEM"
+  },
+  {
+    "rebound": "PROBLEM"
+  },
+  {
+    "guarding": "PROBLEM"
   },
   {
     "enlarged liver": "PROBLEM"
@@ -69,6 +81,9 @@
     "discharge": "PROBLEM"
   },
   {
+    "node": "PROBLEM"
+  },
+  {
     "deformity": "PROBLEM"
   },
   {
@@ -79,5 +94,44 @@
   },
   {
     "Deep tendon reflexes": "TEST"
+  },
+  {
+    "Sensation": "TEST"
+  },
+  {
+    "conjunctiva": "PROBLEM"
+  },
+  {
+    "eyes": "PROBLEM"
+  },
+  {
+    "ears": "PROBLEM"
+  },
+  {
+    "nose": "PROBLEM"
+  },
+  {
+    "throat": "PROBLEM"
+  },
+  {
+    "heart": "PROBLEM"
+  },
+  {
+    "respiratory": "PROBLEM"
+  },
+  {
+    "auscultation": "TEST"
+  },
+  {
+    "extremities": "PROBLEM"
+  },
+  {
+    "oropharynx": "PROBLEM"
+  },
+  {
+    "neck": "PROBLEM"
+  },
+  {
+    "tongue": "PROBLEM"
   }
 ]

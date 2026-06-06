@@ -138,7 +138,13 @@
     "tobacco": "DRUG"
   },
   {
-    "blood or cancer disorders": "PROBLEM"
+    "blood disorders": "PROBLEM"
+  },
+  {
+    "cancer": "PROBLEM"
+  },
+  {
+    "elderly gentleman": "PROBLEM"
   },
   {
     "Blood pressure": "TEST"
@@ -156,9 +162,6 @@
     "arcus senilis": "PROBLEM"
   },
   {
-    "Left": "PROBLEM"
-  },
-  {
     "Pupils": "TEST"
   },
   {
@@ -171,13 +174,7 @@
     "Trachea": "PROBLEM"
   },
   {
-    "jugular venous pressure distention": "PROBLEM"
-  },
-  {
     "adenopathy": "PROBLEM"
-  },
-  {
-    "CHEST": "TEST"
   },
   {
     "HEART": "PROBLEM"
@@ -186,10 +183,13 @@
     "ABDOMEN": "PROBLEM"
   },
   {
-    "left upper quadrant": "PROBLEM"
+    "spleen": "PROBLEM"
   },
   {
     "edema": "PROBLEM"
+  },
+  {
+    "cyanosis": "PROBLEM"
   },
   {
     "refractory anemia": "PROBLEM"
@@ -208,6 +208,9 @@
   },
   {
     "Procrit": "DRUG"
+  },
+  {
+    "blood loss": "PROBLEM"
   },
   {
     "esophagogastroduodenoscopy": "TEST"
@@ -258,6 +261,9 @@
     "biopsy": "TEST"
   },
   {
+    "treatment": "TREATMENT"
+  },
+  {
     "bone marrow": "TEST"
   },
   {
@@ -273,7 +279,7 @@
     "abdomen": "TEST"
   },
   {
-    "spleen": "PROBLEM"
+    "fullness of the spleen": "PROBLEM"
   },
   {
     "electrophoresis": "TEST"

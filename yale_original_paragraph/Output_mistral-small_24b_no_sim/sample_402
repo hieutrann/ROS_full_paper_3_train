@@ -36,21 +36,27 @@
     "Duraphen II": "DRUG"
   },
   {
-    "PERRLA": "TEST"
+    "Temperature": "TEST"
   },
   {
-    "TM": "TEST"
+    "erythematous plaques": "PROBLEM"
   },
   {
-    "weight": "TEST"
+    "lichenification": "PROBLEM"
   },
   {
-    "temperature": "TEST"
+    "effusion": "PROBLEM"
   },
   {
-    "rate": "TEST"
+    "adenopathy": "PROBLEM"
   },
   {
-    "beats per minute": "TEST"
+    "thyromegaly": "PROBLEM"
+  },
+  {
+    "tonsillar hypertrophy": "PROBLEM"
+  },
+  {
+    "exudate": "PROBLEM"
   }
 ]

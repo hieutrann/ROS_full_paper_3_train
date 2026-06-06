@@ -15,9 +15,6 @@
     "chest tightness": "PROBLEM"
   },
   {
-    "emotional argument": "PROBLEM"
-  },
-  {
     "psychological disorders": "PROBLEM"
   },
   {
@@ -129,22 +126,22 @@
     "abortion": "PROBLEM"
   },
   {
-    "followup": "TEST"
-  },
-  {
-    "OB/GYN": "TEST"
+    "OB/GYN": "PROBLEM"
   },
   {
     "tobacco abuse": "PROBLEM"
   },
   {
-    "drug abuse": "PROBLEM"
+    "illicit drug abuse": "PROBLEM"
   },
   {
-    "PHYSICAL EXAMINATION": "TEST"
+    "alert": "PROBLEM"
   },
   {
-    "VITAL SIGNS": "TEST"
+    "awake": "PROBLEM"
+  },
+  {
+    "oriented": "PROBLEM"
   },
   {
     "blood pressure": "TEST"
@@ -156,28 +153,31 @@
     "respiratory rate": "TEST"
   },
   {
-    "HEENT": "TEST"
+    "head": "PROBLEM"
   },
   {
     "Pupils": "TEST"
   },
   {
+    "Extraocular muscles": "TEST"
+  },
+  {
     "oropharyngeal lesions": "PROBLEM"
   },
   {
-    "NECK": "TEST"
+    "lymphadenopathy": "PROBLEM"
   },
   {
     "LUNGS": "TEST"
   },
   {
-    "CARDIAC": "TEST"
+    "CARDIAC": "PROBLEM"
   },
   {
-    "ABDOMEN": "TEST"
+    "ABDOMEN": "PROBLEM"
   },
   {
-    "Bowel sounds": "PROBLEM"
+    "Bowel sounds": "TEST"
   },
   {
     "edema": "PROBLEM"
@@ -186,7 +186,7 @@
     "Distal pulses": "TEST"
   },
   {
-    "LABORATORY DATA": "TEST"
+    "Grossly nonfocal": "PROBLEM"
   },
   {
     "WBC count": "TEST"
@@ -237,6 +237,9 @@
     "EKG": "TEST"
   },
   {
+    "toxicology screen": "TEST"
+  },
+  {
     "morphine": "DRUG"
   },
   {
@@ -246,13 +249,13 @@
     "marijuana": "DRUG"
   },
   {
-    "toxicology screen": "TEST"
-  },
-  {
     "head CT": "TEST"
   },
   {
-    "beta-hCG level": "TEST"
+    "beta-hCG": "TEST"
+  },
+  {
+    "ASSESSMENT AND EVALUATION": "TEST"
   },
   {
     "Chest pains": "PROBLEM"
@@ -270,49 +273,37 @@
     "unstable angina": "PROBLEM"
   },
   {
-    "pregnancy": "PROBLEM"
+    "early pregnancy": "PROBLEM"
   },
   {
     "medications": "DRUG"
   },
   {
-    "OB/GYN": "TREATMENT"
+    "OB/GYN": "PROBLEM"
   },
   {
-    "PCP": "TREATMENT"
+    "PCP": "PROBLEM"
   },
   {
     "pregnancy": "PROBLEM"
   },
   {
-    "prenatal visits": "TEST"
+    "prenatal visits": "TREATMENT"
   },
   {
     "Migraine headaches": "PROBLEM"
   },
   {
-    "medications": "DRUG"
-  },
-  {
     "migraine headache": "PROBLEM"
   },
   {
-    "PCP": "TREATMENT"
-  },
-  {
     "acute coronary syndrome": "PROBLEM"
-  },
-  {
-    "psychosomatic": "PROBLEM"
   },
   {
     "coronary artery disease": "PROBLEM"
   },
   {
     "chest tightness": "PROBLEM"
-  },
-  {
-    "emotional argument": "PROBLEM"
   },
   {
     "psychological disorders": "PROBLEM"

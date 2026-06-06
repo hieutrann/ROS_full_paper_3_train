@@ -42,9 +42,6 @@
     "nauseated feeling": "PROBLEM"
   },
   {
-    "vital signs": "TEST"
-  },
-  {
     "EKG": "TEST"
   },
   {
@@ -63,19 +60,13 @@
     "Thickening of the gallbladder wall": "PROBLEM"
   },
   {
-    "Murphy sign": "TEST"
+    "Murphy sign": "PROBLEM"
   },
   {
     "cholecystitis": "PROBLEM"
   },
   {
-    "Urine": "TEST"
-  },
-  {
     "glucose": "TEST"
-  },
-  {
-    "nitrite": "TEST"
   },
   {
     "creatinine": "TEST"
@@ -96,7 +87,7 @@
     "IV fluid": "TREATMENT"
   },
   {
-    "IV antibiotic": "DRUG"
+    "IV antibiotic": "TREATMENT"
   },
   {
     "2-D echocardiogram": "TEST"
@@ -118,9 +109,6 @@
   },
   {
     "dialysis": "TREATMENT"
-  },
-  {
-    "white count": "TEST"
   },
   {
     "chronic bronchitis": "PROBLEM"

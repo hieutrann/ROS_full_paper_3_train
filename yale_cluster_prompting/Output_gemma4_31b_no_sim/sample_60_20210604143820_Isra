@@ -48,7 +48,7 @@
     "post-tussive emesis": "PROBLEM"
   },
   {
-    "fever": "PROBLEM"
+    "questionable fever": "PROBLEM"
   },
   {
     "amoxicillin": "DRUG"
@@ -70,9 +70,6 @@
   },
   {
     "labs": "TEST"
-  },
-  {
-    "PHYSICAL EXAMINATION": "TEST"
   },
   {
     "nasal discharge": "PROBLEM"
@@ -117,16 +114,16 @@
     "BMP": "TEST"
   },
   {
-    "x-ray": "TEST"
+    "An x-ray": "TEST"
   },
   {
-    "infiltrate": "PROBLEM"
+    "significant infiltrate": "PROBLEM"
   },
   {
     "rapid influenza swab": "TEST"
   },
   {
-    "rapid RSV": "TEST"
+    "a rapid RSV": "TEST"
   },
   {
     "pertussis PCR swab": "TEST"
@@ -144,13 +141,13 @@
     "afebrile": "PROBLEM"
   },
   {
-    "oxygen": "DRUG"
+    "oxygen": "TREATMENT"
   },
   {
     "coughing": "PROBLEM"
   },
   {
-    "emesis": "PROBLEM"
+    "slight emesis": "PROBLEM"
   },
   {
     "apnea": "PROBLEM"

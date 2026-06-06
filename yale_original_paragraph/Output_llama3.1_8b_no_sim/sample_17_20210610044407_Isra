@@ -30,7 +30,58 @@
     "hyperlipidemia": "PROBLEM"
   },
   {
-    "PTA": "TEST"
+    "PTA": "TREATMENT"
+  },
+  {
+    "colchicine": "DRUG"
+  },
+  {
+    "steroids": "DRUG"
+  },
+  {
+    "allopurinol": "DRUG"
+  },
+  {
+    "Micardis": "DRUG"
+  },
+  {
+    "Lasix": "DRUG"
+  },
+  {
+    "Foley": "TREATMENT"
+  },
+  {
+    "NovoLog": "DRUG"
+  },
+  {
+    "Lantus": "DRUG"
+  },
+  {
+    "Crestor": "DRUG"
+  },
+  {
+    "Imdur": "DRUG"
+  },
+  {
+    "Amlodipine": "DRUG"
+  },
+  {
+    "Coreg": "DRUG"
+  },
+  {
+    "Ecotrin": "DRUG"
+  },
+  {
+    "calcitriol": "DRUG"
+  },
+  {
+    "BNP": "TEST"
+  },
+  {
+    "sed rate": "TEST"
+  },
+  {
+    "urinalysis": "TEST"
   },
   {
     "urine culture": "TEST"
@@ -69,57 +120,6 @@
     "uric acid": "TEST"
   },
   {
-    "sed rate": "TEST"
-  },
-  {
     "BNP": "TEST"
-  },
-  {
-    "urinalysis": "TEST"
-  },
-  {
-    "allopurinol": "DRUG"
-  },
-  {
-    "colchicine": "DRUG"
-  },
-  {
-    "Micardis": "DRUG"
-  },
-  {
-    "Lasix": "DRUG"
-  },
-  {
-    "Crestor": "DRUG"
-  },
-  {
-    "Imdur": "DRUG"
-  },
-  {
-    "Amlodipine": "DRUG"
-  },
-  {
-    "Coreg": "DRUG"
-  },
-  {
-    "Ecotrin": "DRUG"
-  },
-  {
-    "calcitriol": "DRUG"
-  },
-  {
-    "NovoLog": "DRUG"
-  },
-  {
-    "Lantus": "DRUG"
-  },
-  {
-    "Foley": "TREATMENT"
-  },
-  {
-    "incision and drainage": "TREATMENT"
-  },
-  {
-    "steroids": "TREATMENT"
   }
 ]

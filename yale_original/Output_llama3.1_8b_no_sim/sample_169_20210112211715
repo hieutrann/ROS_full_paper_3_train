@@ -6,19 +6,19 @@
     "Blood-borne pathogen exposure": "PROBLEM"
   },
   {
-    "phlebotomist": "PROBLEM"
+    "phlebotomist": "TREATMENT"
+  },
+  {
+    "respiratory therapist": "TREATMENT"
+  },
+  {
+    "Hospital": "TEST"
   },
   {
     "blood gas": "TEST"
   },
   {
-    "finger": "TEST"
-  },
-  {
     "pulse": "TEST"
-  },
-  {
-    "needle": "TEST"
   },
   {
     "gloves": "TREATMENT"
@@ -27,7 +27,7 @@
     "needle": "TREATMENT"
   },
   {
-    "incident": "PROBLEM"
+    "finger": "PROBLEM"
   },
   {
     "injury": "PROBLEM"
@@ -42,7 +42,7 @@
     "blood tests": "TEST"
   },
   {
-    "exam": "TEST"
+    "final exam": "TEST"
   },
   {
     "viral illness": "PROBLEM"
@@ -72,6 +72,9 @@
     "congestion": "PROBLEM"
   },
   {
+    "cold": "PROBLEM"
+  },
+  {
     "coughing": "PROBLEM"
   },
   {
@@ -93,10 +96,16 @@
     "urinary symptoms": "PROBLEM"
   },
   {
-    "darkening of the skin": "PROBLEM"
+    "skin": "PROBLEM"
   },
   {
-    "yellowing or darkening of the urine": "PROBLEM"
+    "eyes": "PROBLEM"
+  },
+  {
+    "yellowing": "PROBLEM"
+  },
+  {
+    "darkening": "PROBLEM"
   },
   {
     "rash": "PROBLEM"
@@ -114,25 +123,16 @@
     "Nexium": "DRUG"
   },
   {
-    "IV contrast": "TEST"
+    "IV contrast": "DRUG"
   },
   {
-    "work": "PROBLEM"
+    "work": "TREATMENT"
   },
   {
-    "PHYSICAL EXAMINATION": "TEST"
-  },
-  {
-    "He was seated upright": "TEST"
-  },
-  {
-    "ill": "PROBLEM"
+    "alert": "PROBLEM"
   },
   {
     "toxic": "PROBLEM"
-  },
-  {
-    "hydrated": "PROBLEM"
   },
   {
     "temperature": "TEST"
@@ -150,10 +150,10 @@
     "HEENT exam": "TEST"
   },
   {
-    "sclerae": "TEST"
+    "sclerae": "PROBLEM"
   },
   {
-    "Ocular movements": "TEST"
+    "movements": "TEST"
   },
   {
     "oropharynx": "PROBLEM"
@@ -186,10 +186,10 @@
     "abdomen": "PROBLEM"
   },
   {
-    "enlargement of the liver": "PROBLEM"
+    "liver": "PROBLEM"
   },
   {
-    "enlargement of the spleen": "PROBLEM"
+    "spleen": "PROBLEM"
   },
   {
     "rash": "PROBLEM"
@@ -222,6 +222,9 @@
     "antibodies": "TEST"
   },
   {
+    "glasses": "TREATMENT"
+  },
+  {
     "tetanus": "DRUG"
   },
   {
@@ -240,7 +243,7 @@
     "abdominal exam": "TEST"
   },
   {
-    "generalized lymphadenopathy": "PROBLEM"
+    "lymphadenopathy": "PROBLEM"
   },
   {
     "fever": "PROBLEM"
@@ -264,7 +267,7 @@
     "Blood-borne pathogen exposure": "PROBLEM"
   },
   {
-    "contaminated needlestick": "PROBLEM"
+    "needlestick": "PROBLEM"
   },
   {
     "injury": "PROBLEM"
@@ -276,25 +279,22 @@
     "disease transmission": "PROBLEM"
   },
   {
-    "protective gear": "TREATMENT"
+    "gloves": "TREATMENT"
   },
   {
-    "intimate contacts": "PROBLEM"
+    "exposure": "PROBLEM"
   },
   {
-    "regular work": "TREATMENT"
+    "work": "TREATMENT"
   },
   {
     "disease transmission": "PROBLEM"
   },
   {
-    "impairment": "PROBLEM"
+    "medically stationary": "PROBLEM"
   },
   {
     "hepatitis": "PROBLEM"
-  },
-  {
-    "needlestick": "PROBLEM"
   },
   {
     "viral illness": "PROBLEM"
@@ -306,18 +306,21 @@
     "vomiting": "PROBLEM"
   },
   {
+    "blood gas": "TEST"
+  },
+  {
+    "pathogen exposure": "PROBLEM"
+  },
+  {
     "blood-borne": "PROBLEM"
   },
   {
     "borne pathogen": "PROBLEM"
   },
   {
-    "pathogen exposure": "PROBLEM"
+    "needlestick": "PROBLEM"
   },
   {
-    "blood gas": "TEST"
-  },
-  {
-    "exposure": "PROBLEM"
+    "phlebotomist": "TREATMENT"
   }
 ]

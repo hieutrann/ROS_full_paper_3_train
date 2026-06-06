@@ -12,10 +12,10 @@
     "osteoarthritis of knee": "PROBLEM"
   },
   {
-    "two-month followup": "PROBLEM"
+    "followup": "TREATMENT"
   },
   {
-    "55-year-old": "PROBLEM"
+    "55-year-old": "TREATMENT"
   },
   {
     "hypertension": "PROBLEM"
@@ -48,7 +48,7 @@
     "Dr.": "TREATMENT"
   },
   {
-    "surgery": "PROBLEM"
+    "surgery": "TREATMENT"
   },
   {
     "coronary disease": "PROBLEM"
@@ -78,16 +78,16 @@
     "LDL": "TEST"
   },
   {
-    "patient": "PROBLEM"
+    "nonsmoker": "PROBLEM"
   },
   {
-    "glucose": "PROBLEM"
+    "glucose": "TEST"
   },
   {
-    "insulin": "DRUG"
+    "insulin level": "TEST"
   },
   {
-    "glucose": "PROBLEM"
+    "glucose": "TEST"
   },
   {
     "diabetes": "PROBLEM"
@@ -99,13 +99,13 @@
     "low back pain": "PROBLEM"
   },
   {
-    "X-ray": "TEST"
-  },
-  {
     "compression fracture": "PROBLEM"
   },
   {
-    "L1": "PROBLEM"
+    "X-ray": "TEST"
+  },
+  {
+    "L1": "TEST"
   },
   {
     "compression fracture": "PROBLEM"
@@ -120,7 +120,7 @@
     "arthritis": "PROBLEM"
   },
   {
-    "lumbar spine": "PROBLEM"
+    "bone density reading": "TEST"
   },
   {
     "compression fractures": "PROBLEM"
@@ -162,19 +162,28 @@
     "Bactrim": "DRUG"
   },
   {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "adhesive tape": "TREATMENT"
+  },
+  {
     "PAST MEDICAL HISTORY": "TREATMENT"
   },
   {
     "Hypertension": "PROBLEM"
   },
   {
-    "2": "TEST"
+    "2": "TREATMENT"
   },
   {
     "Depression": "PROBLEM"
   },
   {
-    "3": "PROBLEM"
+    "3": "TREATMENT"
   },
   {
     "Myofascitis": "PROBLEM"
@@ -192,13 +201,13 @@
     "melanoma": "PROBLEM"
   },
   {
-    "6": "PROBLEM"
+    "6": "TEST"
   },
   {
     "Breast biopsy": "TEST"
   },
   {
-    "7": "PROBLEM"
+    "benign": "PROBLEM"
   },
   {
     "Holter monitor": "TEST"
@@ -213,31 +222,19 @@
     "8": "TEST"
   },
   {
-    "Compression fracture of L1": "PROBLEM"
+    "Compression fracture": "PROBLEM"
+  },
+  {
+    "L1": "PROBLEM"
   },
   {
     "DEXA scan": "TEST"
   },
   {
-    "REVIEW OF SYSTEMS": "TEST"
+    "HPI": "TREATMENT"
   },
   {
-    "well-developed": "TEST"
-  },
-  {
-    "well-nourished": "TEST"
-  },
-  {
-    "pleasant": "TEST"
-  },
-  {
-    "Caucasian": "TEST"
-  },
-  {
-    "female": "TEST"
-  },
-  {
-    "overweight": "PROBLEM"
+    "female": "PROBLEM"
   },
   {
     "Weight": "TEST"
@@ -255,13 +252,13 @@
     "Temperature": "TEST"
   },
   {
-    "Neck": "TEST"
+    "Supple": "TEST"
   },
   {
     "Carotids": "PROBLEM"
   },
   {
-    "Chest": "PROBLEM"
+    "auscultation": "TEST"
   },
   {
     "regular rate and rhythm": "TEST"
@@ -279,34 +276,34 @@
     "edema": "PROBLEM"
   },
   {
-    "Neurologic": "TEST"
+    "Neurologic": "PROBLEM"
+  },
+  {
+    "AV block": "PROBLEM"
   },
   {
     "EKG": "TEST"
   },
   {
-    "normal sinus rhythm": "PROBLEM"
-  },
-  {
-    "borderline first degree AV block": "PROBLEM"
-  },
-  {
-    "poor R-wave progression": "PROBLEM"
+    "R-wave progression": "PROBLEM"
   },
   {
     "Hypertension": "PROBLEM"
   },
   {
-    "2": "TEST"
+    "2": "TREATMENT"
   },
   {
     "cerebrovascular accident": "PROBLEM"
   },
   {
-    "3": "PROBLEM"
+    "3": "TREATMENT"
   },
   {
-    "Compression fracture of L1": "PROBLEM"
+    "Compression fracture": "PROBLEM"
+  },
+  {
+    "L1": "PROBLEM"
   },
   {
     "4": "TEST"
@@ -327,10 +324,10 @@
     "C-reactive protein": "TEST"
   },
   {
-    "2": "TEST"
+    "2": "TREATMENT"
   },
   {
-    "weight loss": "PROBLEM"
+    "weight loss": "TREATMENT"
   },
   {
     "Weight Watchers": "TREATMENT"
@@ -342,13 +339,10 @@
     "knee pain": "PROBLEM"
   },
   {
-    "3": "PROBLEM"
+    "3": "TREATMENT"
   },
   {
     "colonoscopy": "TEST"
-  },
-  {
-    "appointment": "TREATMENT"
   },
   {
     "Dr": "TREATMENT"
@@ -363,7 +357,7 @@
     "Fosamax": "DRUG"
   },
   {
-    "water": "DRUG"
+    "water": "TREATMENT"
   },
   {
     "Fosamax": "DRUG"
@@ -372,10 +366,16 @@
     "5": "TEST"
   },
   {
-    "months": "TEST"
+    "months": "TREATMENT"
   },
   {
     "EKG": "TEST"
+  },
+  {
+    "cardiologist": "TREATMENT"
+  },
+  {
+    "cardiac testing": "TEST"
   },
   {
     "beta-blocker": "DRUG"
@@ -393,6 +393,9 @@
     "shortness of breath": "PROBLEM"
   },
   {
+    "osteoporosis": "PROBLEM"
+  },
+  {
     "cerebrovascular accident": "PROBLEM"
   },
   {
@@ -405,13 +408,10 @@
     "dexa scan": "TEST"
   },
   {
-    "osteoporosis": "PROBLEM"
+    "dexa": "TEST"
   },
   {
     "osteoarthritis of the knee": "PROBLEM"
-  },
-  {
-    "dexa": "TEST"
   },
   {
     "osteoarthritis": "PROBLEM"
@@ -421,17 +421,5 @@
   },
   {
     "compression": "PROBLEM"
-  },
-  {
-    "knee": "PROBLEM"
-  },
-  {
-    "general medicine": "PROBLEM"
-  },
-  {
-    "followup": "TREATMENT"
-  },
-  {
-    "dysa": "PROBLEM"
   }
 ]

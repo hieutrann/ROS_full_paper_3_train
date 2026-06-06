@@ -1,5 +1,11 @@
 [
   {
+    "General Medicine": "TREATMENT"
+  },
+  {
+    "Gen Med Consult - 7": "TEST"
+  },
+  {
     "Right-sided facial droop": "PROBLEM"
   },
   {
@@ -45,16 +51,13 @@
     "CT scan": "TEST"
   },
   {
-    "oral medications": "DRUG"
-  },
-  {
-    "treatment": "TREATMENT"
+    "physical therapy": "TREATMENT"
   },
   {
     "PENICILLIN": "DRUG"
   },
   {
-    "skilled nursing facility": "PROBLEM"
+    "skilled nursing facility": "TREATMENT"
   },
   {
     "Noncontributory": "PROBLEM"
@@ -72,7 +75,7 @@
     "lower extremity weakness": "PROBLEM"
   },
   {
-    "2.": "TREATMENT"
+    "2": "TEST"
   },
   {
     "Abnormality of gait": "PROBLEM"
@@ -81,7 +84,10 @@
     "wheelchair bound": "PROBLEM"
   },
   {
-    "3": "TREATMENT"
+    "#1": "PROBLEM"
+  },
+  {
+    "3": "PROBLEM"
   },
   {
     "Hypertension": "PROBLEM"
@@ -91,9 +97,6 @@
   },
   {
     "Chronic obstructive pulmonary disease": "PROBLEM"
-  },
-  {
-    "nasal oxygen": "TREATMENT"
   },
   {
     "5": "TREATMENT"
@@ -126,9 +129,6 @@
     "stool incontinence": "PROBLEM"
   },
   {
-    "wheelchair bound": "PROBLEM"
-  },
-  {
     "83-year-old patient": "PROBLEM"
   },
   {
@@ -147,10 +147,10 @@
     "Pupils": "TEST"
   },
   {
-    "ocular muscles": "PROBLEM"
+    "External ocular muscles": "TEST"
   },
   {
-    "Conjunctivae anicteric": "PROBLEM"
+    "Conjunctivae": "PROBLEM"
   },
   {
     "facial droop": "PROBLEM"
@@ -159,13 +159,13 @@
     "Oropharynx": "PROBLEM"
   },
   {
-    "missing teeth": "PROBLEM"
+    "teeth": "PROBLEM"
   },
   {
-    "Tympanic membranes": "PROBLEM"
+    "Tympanic membranes": "TEST"
   },
   {
-    "Supple": "TEST"
+    "NECK": "PROBLEM"
   },
   {
     "carotid bruit": "PROBLEM"
@@ -183,7 +183,7 @@
     "apex": "TEST"
   },
   {
-    "LUNGS": "PROBLEM"
+    "auscultation": "TEST"
   },
   {
     "ABDOMEN": "PROBLEM"
@@ -201,19 +201,19 @@
     "right-sided slight facial droop": "PROBLEM"
   },
   {
-    "upper extremities": "PROBLEM"
+    "upper extremities": "TEST"
   },
   {
-    "withdrawal of both lower extremities": "PROBLEM"
+    "withdrawal": "PROBLEM"
   },
   {
     "pressure ulcer": "PROBLEM"
   },
   {
-    "brain atrophy": "PROBLEM"
+    "CT scan": "TEST"
   },
   {
-    "CT scan": "TEST"
+    "brain atrophy": "PROBLEM"
   },
   {
     "acute events": "PROBLEM"
@@ -252,6 +252,9 @@
     "platelet count": "TEST"
   },
   {
+    "urinalysis": "TEST"
+  },
+  {
     "white blood cells": "TEST"
   },
   {
@@ -279,16 +282,13 @@
     "cerebrovascular accident": "PROBLEM"
   },
   {
-    "right-sided weakness": "PROBLEM"
-  },
-  {
-    "2": "TREATMENT"
+    "2": "TEST"
   },
   {
     "Hypertension": "PROBLEM"
   },
   {
-    "3": "TREATMENT"
+    "3": "PROBLEM"
   },
   {
     "Dementia": "PROBLEM"
@@ -306,7 +306,7 @@
     "Urinary tract infection": "PROBLEM"
   },
   {
-    "6": "TREATMENT"
+    "6": "TEST"
   },
   {
     "Abnormality of gait": "PROBLEM"
@@ -363,13 +363,7 @@
     "potassium": "DRUG"
   },
   {
-    "IV fluids": "TREATMENT"
-  },
-  {
-    "D5 normal saline": "TREATMENT"
-  },
-  {
-    "potassium": "DRUG"
+    "range of motion": "TEST"
   },
   {
     "hypertension": "PROBLEM"

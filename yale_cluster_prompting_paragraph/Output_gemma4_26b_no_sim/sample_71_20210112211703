@@ -3,10 +3,10 @@
     "Elevated Blood Pressure": "PROBLEM"
   },
   {
-    "blood pressure": "TEST"
+    "blood pressure": "PROBLEM"
   },
   {
-    "labetalol": "DRUG"
+    "IV labetalol": "DRUG"
   },
   {
     "Graves disease": "PROBLEM"
@@ -105,9 +105,6 @@
     "lisinopril": "DRUG"
   },
   {
-    "lisinopril": "DRUG"
-  },
-  {
     "atrial fibrillation": "PROBLEM"
   },
   {
@@ -127,8 +124,5 @@
   },
   {
     "transurethral resection of prostate": "TREATMENT"
-  },
-  {
-    "blood pressure": "TEST"
   }
 ]

@@ -39,9 +39,6 @@
     "Pap smears": "TEST"
   },
   {
-    "tobacco use": "PROBLEM"
-  },
-  {
     "cone biopsy": "TREATMENT"
   },
   {
@@ -57,7 +54,7 @@
     "general anesthesia": "TREATMENT"
   },
   {
-    "cystotomy": "PROBLEM"
+    "incidental cystotomy": "PROBLEM"
   },
   {
     "cystogram": "TEST"
@@ -76,17 +73,5 @@
   },
   {
     "urinary tract infection": "PROBLEM"
-  },
-  {
-    "pap smear": "TEST"
-  },
-  {
-    "total vaginal hysterectomy": "TREATMENT"
-  },
-  {
-    "hysterectomy": "TREATMENT"
-  },
-  {
-    "carcinoma": "PROBLEM"
   }
 ]

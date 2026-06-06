@@ -1,1 +1,1 @@
-['[\n  {"thyroid goiter": "PROBLEM"},\n  {"thyroidectomy": "TREATMENT"},\n  {"Vicodin": "DRUG"},\n  {"Synthroid": "DRUG"}\n]']
+['[\n  {"Symptomatic thyroid goiter": "PROBLEM"},\n  {"Total thyroidectomy": "TREATMENT"},\n  {"Vicodin": "DRUG"},\n  {"Synthroid": "DRUG"},\n  {"EGD": "TEST"},\n  {"colonoscopy": "TEST"},\n  {"barium enema": "TEST"},\n  {"thyroid hormone replacement": "TREATMENT"},\n  {"intravenous narcotics": "TREATMENT"}\n]']

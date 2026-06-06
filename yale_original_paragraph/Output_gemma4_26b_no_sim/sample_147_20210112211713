@@ -12,15 +12,6 @@
     "free air under the right diaphragm": "PROBLEM"
   },
   {
-    "intra-abdominal pathology": "PROBLEM"
-  },
-  {
-    "Ativan": "DRUG"
-  },
-  {
-    "obtunded": "PROBLEM"
-  },
-  {
     "alcohol abuse": "PROBLEM"
   },
   {
@@ -31,6 +22,12 @@
   },
   {
     "TAH/BSO": "TREATMENT"
+  },
+  {
+    "Ativan": "DRUG"
+  },
+  {
+    "Temp": "TEST"
   },
   {
     "heart rate": "TEST"
@@ -70,17 +67,5 @@
   },
   {
     "hyponatremia": "PROBLEM"
-  },
-  {
-    "free air": "PROBLEM"
-  },
-  {
-    "hyponatremia": "PROBLEM"
-  },
-  {
-    "air under the diaphragm": "PROBLEM"
-  },
-  {
-    "intra abdominal pathology": "PROBLEM"
   }
 ]

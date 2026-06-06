@@ -9,9 +9,6 @@
     "runny nose": "PROBLEM"
   },
   {
-    "infant": "PROBLEM"
-  },
-  {
     "fever": "PROBLEM"
   },
   {
@@ -39,22 +36,13 @@
     "spitting up": "PROBLEM"
   },
   {
-    "difficulty breathing": "PROBLEM"
-  },
-  {
     "cough": "PROBLEM"
   },
   {
     "right TM": "PROBLEM"
   },
   {
-    "physical exam": "TEST"
-  },
-  {
-    "TM": "PROBLEM"
-  },
-  {
-    "congested": "PROBLEM"
+    "Left TM": "PROBLEM"
   },
   {
     "Amoxil": "DRUG"
@@ -63,10 +51,7 @@
     "Aldex": "DRUG"
   },
   {
-    "ear": "PROBLEM"
-  },
-  {
-    "worse": "PROBLEM"
+    "Mom": "PROBLEM"
   },
   {
     "difficulty breathing": "PROBLEM"
@@ -78,13 +63,7 @@
     "appetite": "PROBLEM"
   },
   {
-    "temperature": "TEST"
-  },
-  {
-    "102.6": "TEST"
-  },
-  {
-    "trouble sleeping": "PROBLEM"
+    "temperature": "PROBLEM"
   },
   {
     "congestion": "PROBLEM"
@@ -105,12 +84,6 @@
     "mom": "PROBLEM"
   },
   {
-    "sister": "PROBLEM"
-  },
-  {
-    "grandparent": "PROBLEM"
-  },
-  {
     "Woman's": "TEST"
   },
   {
@@ -120,25 +93,19 @@
     "hearing screen": "TEST"
   },
   {
-    "IMMUNIZATIONS": "TEST"
+    "IMMUNIZATIONS": "TREATMENT"
   },
   {
-    "surgical history": "TEST"
+    "Negative": "PROBLEM"
   },
   {
-    "FAMILY HISTORY": "TEST"
-  },
-  {
-    "VITAL SIGNS": "TEST"
+    "Noncontributory": "PROBLEM"
   },
   {
     "respiratory rate": "TEST"
   },
   {
     "congested": "PROBLEM"
-  },
-  {
-    "miserable": "PROBLEM"
   },
   {
     "retractions": "PROBLEM"
@@ -156,10 +123,10 @@
     "throat": "PROBLEM"
   },
   {
-    "extraocular muscles": "PROBLEM"
+    "extraocular muscles": "TEST"
   },
   {
-    "NECK": "TEST"
+    "NECK": "PROBLEM"
   },
   {
     "range of motion": "TEST"
@@ -174,7 +141,7 @@
     "diffuse expiratory wheezing": "PROBLEM"
   },
   {
-    "ABDOMEN": "TEST"
+    "ABDOMEN": "PROBLEM"
   },
   {
     "clubbing": "PROBLEM"
@@ -210,10 +177,7 @@
     "Rocephin": "DRUG"
   },
   {
-    "nebulizer treatments": "TREATMENT"
-  },
-  {
-    "oxygen": "TREATMENT"
+    "oxygen": "DRUG"
   },
   {
     "rsv": "PROBLEM"

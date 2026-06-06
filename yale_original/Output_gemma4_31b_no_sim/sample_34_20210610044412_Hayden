@@ -1,5 +1,8 @@
 [
   {
+    "Physical Exam": "TEST"
+  },
+  {
     "blood pressure": "TEST"
   },
   {
@@ -21,13 +24,7 @@
     "Tympanic membranes": "TEST"
   },
   {
-    "Trachea": "TEST"
-  },
-  {
-    "Thyroid": "TEST"
-  },
-  {
-    "Negative nodes": "PROBLEM"
+    "Trachea": "PROBLEM"
   },
   {
     "Lungs": "TEST"
@@ -48,9 +45,6 @@
     "secondary muscle use": "PROBLEM"
   },
   {
-    "breath sounds": "TEST"
-  },
-  {
     "jugular venous distention": "PROBLEM"
   },
   {
@@ -61,9 +55,6 @@
   },
   {
     "murmur": "PROBLEM"
-  },
-  {
-    "S1 and S2 sounds": "TEST"
   },
   {
     "gallop": "PROBLEM"
@@ -85,21 +76,6 @@
   },
   {
     "flank pain": "PROBLEM"
-  },
-  {
-    "motor tone": "TEST"
-  },
-  {
-    "strength": "TEST"
-  },
-  {
-    "reflexes": "TEST"
-  },
-  {
-    "joint strength": "TEST"
-  },
-  {
-    "sensation": "TEST"
   },
   {
     "Glasgow Coma Scale": "TEST"

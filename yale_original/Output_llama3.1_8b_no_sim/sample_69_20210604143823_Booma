@@ -1,15 +1,9 @@
 [
   {
-    "General Medicine": "TREATMENT"
+    "Male Exam": "TEST"
   },
   {
-    "Normal Male Exam Template": "TEST"
-  },
-  {
-    "Sample/template for a normal male multisystem exam": "PROBLEM"
-  },
-  {
-    "afebrile": "TEST"
+    "afebrile": "PROBLEM"
   },
   {
     "blood pressure": "TEST"
@@ -39,25 +33,25 @@
     "nose": "PROBLEM"
   },
   {
-    "Hearing": "PROBLEM"
+    "Hearing": "TEST"
   },
   {
-    "oropharynx": "PROBLEM"
+    "mucosa": "PROBLEM"
   },
   {
     "lesion": "PROBLEM"
   },
   {
-    "tonsil or posterior pharynx": "PROBLEM"
+    "tonsil": "PROBLEM"
   },
   {
-    "neck": "TEST"
+    "neck": "PROBLEM"
   },
   {
     "thyroid gland": "PROBLEM"
   },
   {
-    "respiratory effort": "TEST"
+    "respiratory effort": "PROBLEM"
   },
   {
     "lung": "PROBLEM"
@@ -75,25 +69,16 @@
     "edema": "PROBLEM"
   },
   {
-    "abdomen": "PROBLEM"
+    "enlarged liver": "PROBLEM"
   },
   {
-    "rebound": "PROBLEM"
-  },
-  {
-    "guarding": "PROBLEM"
-  },
-  {
-    "liver": "PROBLEM"
-  },
-  {
-    "spleen": "PROBLEM"
+    "enlarged spleen": "PROBLEM"
   },
   {
     "Bowel sounds": "TEST"
   },
   {
-    "scrotal elements": "PROBLEM"
+    "scrotal elements": "TEST"
   },
   {
     "testes": "PROBLEM"
@@ -105,40 +90,40 @@
     "discharge": "PROBLEM"
   },
   {
-    "node": "PROBLEM"
+    "lymphatic": "PROBLEM"
   },
   {
-    "head and neck": "PROBLEM"
+    "deformity": "PROBLEM"
   },
   {
-    "extremities": "PROBLEM"
+    "deformity": "PROBLEM"
   },
   {
-    "Range of motion": "TEST"
-  },
-  {
-    "skin": "PROBLEM"
+    "motion": "TEST"
   },
   {
     "skin": "PROBLEM"
+  },
+  {
+    "pink": "PROBLEM"
   },
   {
     "Deep tendon reflexes": "TEST"
   },
   {
-    "patellar": "TEST"
+    "patellar": "PROBLEM"
   },
   {
     "Sensation": "PROBLEM"
   },
   {
-    "oriented to time, place and person": "TEST"
+    "oriented": "TREATMENT"
   },
   {
     "judgment": "PROBLEM"
   },
   {
-    "general medicine": "PROBLEM"
+    "insight": "PROBLEM"
   },
   {
     "conjunctiva": "PROBLEM"

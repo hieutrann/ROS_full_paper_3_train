@@ -1,0 +1,278 @@
+[
+  {
+    "depression": "PROBLEM"
+  },
+  {
+    "high risk behavior": "PROBLEM"
+  },
+  {
+    "DISCHARGE SUMMARY": "TEST"
+  },
+  {
+    "SUMMARY OF TREATMENT PLANNING": "TREATMENT"
+  },
+  {
+    "Depression.": "PROBLEM"
+  },
+  {
+    "High risk behavior": "PROBLEM"
+  },
+  {
+    "depressed": "PROBLEM"
+  },
+  {
+    "anxious": "PROBLEM"
+  },
+  {
+    "paranoia": "PROBLEM"
+  },
+  {
+    "relapse": "PROBLEM"
+  },
+  {
+    "RTC level of care": "PROBLEM"
+  },
+  {
+    "developmentally appropriate, group-oriented therapy program": "TREATMENT"
+  },
+  {
+    "psychotropic medications": "DRUG"
+  },
+  {
+    "therapy": "TREATMENT"
+  },
+  {
+    "COURSE IN HOSPITAL": "PROBLEM"
+  },
+  {
+    "Perceptual disturbances": "PROBLEM"
+  },
+  {
+    "disorganized thoughts": "PROBLEM"
+  },
+  {
+    "audiovisual hallucinations": "PROBLEM"
+  },
+  {
+    "quiet": "PROBLEM"
+  },
+  {
+    "flat affect": "PROBLEM"
+  },
+  {
+    "irritable": "PROBLEM"
+  },
+  {
+    "anxious": "PROBLEM"
+  },
+  {
+    "depressed moods": "PROBLEM"
+  },
+  {
+    "tearful": "PROBLEM"
+  },
+  {
+    "homesick": "PROBLEM"
+  },
+  {
+    "limited interaction with peers": "PROBLEM"
+  },
+  {
+    "discharged": "PROBLEM"
+  },
+  {
+    "strange feelings and sensations": "PROBLEM"
+  },
+  {
+    "relapse": "PROBLEM"
+  },
+  {
+    "RTC program": "TREATMENT"
+  },
+  {
+    "sleep-deprived EEG": "TEST"
+  },
+  {
+    "EKG": "TEST"
+  },
+  {
+    "H&P": "PROBLEM"
+  },
+  {
+    "Basic metabolic panel": "TEST"
+  },
+  {
+    "CBC": "TEST"
+  },
+  {
+    "TSH": "TEST"
+  },
+  {
+    "UA": "TEST"
+  },
+  {
+    "urine drug screen": "TEST"
+  },
+  {
+    "thyroid dysfunction": "PROBLEM"
+  },
+  {
+    "thyroid panel": "TEST"
+  },
+  {
+    "T3": "TEST"
+  },
+  {
+    "T4": "TEST"
+  },
+  {
+    "TSH": "TEST"
+  },
+  {
+    "asthma": "PROBLEM"
+  },
+  {
+    "heart murmur": "PROBLEM"
+  },
+  {
+    "Hematocrit of 35.5": "TEST"
+  },
+  {
+    "absolute monocytes of 0.5, high": "TEST"
+  },
+  {
+    "Major depression, recurrent, with psychotic features": "PROBLEM"
+  },
+  {
+    "Deferred": "PROBLEM"
+  },
+  {
+    "No acute major medical conditions": "PROBLEM"
+  },
+  {
+    "Psychosocial stressors": "PROBLEM"
+  },
+  {
+    "GAF": "PROBLEM"
+  },
+  {
+    "alert": "PROBLEM"
+  },
+  {
+    "suicidal or homicidal ideas": "PROBLEM"
+  },
+  {
+    "perception disturbances": "PROBLEM"
+  },
+  {
+    "PROGNOSIS": "PROBLEM"
+  },
+  {
+    "treatment": "TREATMENT"
+  },
+  {
+    "RTC (Residential Treatment Center) program": "TREATMENT"
+  },
+  {
+    "family doctor": "PROBLEM"
+  },
+  {
+    "cardiologist": "PROBLEM"
+  },
+  {
+    "OB/GYN doctor": "PROBLEM"
+  },
+  {
+    "lab results": "TEST"
+  },
+  {
+    "Seroquel 25 mg p.o.": "DRUG"
+  },
+  {
+    "Seroquel 50 mg p.o.": "DRUG"
+  },
+  {
+    "Benadryl": "DRUG"
+  },
+  {
+    "6h p.r.n.": "TEST"
+  },
+  {
+    "Wellbutrin XL 300 mg p.o.": "DRUG"
+  },
+  {
+    "vitamin E 400 IU p.o.": "DRUG"
+  },
+  {
+    "Restoril": "DRUG"
+  },
+  {
+    "anxiety": "PROBLEM"
+  },
+  {
+    "galactorrhea": "PROBLEM"
+  },
+  {
+    "galactorrhea": "PROBLEM"
+  },
+  {
+    "Risperdal": "DRUG"
+  },
+  {
+    "Risperdal": "DRUG"
+  },
+  {
+    "therapist": "TREATMENT"
+  },
+  {
+    "discharge summary": "PROBLEM"
+  },
+  {
+    "psychiatric": "PROBLEM"
+  },
+  {
+    "depression": "PROBLEM"
+  },
+  {
+    "gaf": "PROBLEM"
+  },
+  {
+    "high risk behavior": "PROBLEM"
+  },
+  {
+    "psychosocial stressors": "PROBLEM"
+  },
+  {
+    "rtc": "PROBLEM"
+  },
+  {
+    "residential treatment center": "PROBLEM"
+  },
+  {
+    "anxious": "PROBLEM"
+  },
+  {
+    "paranoia": "PROBLEM"
+  },
+  {
+    "psychiatric treatment": "PROBLEM"
+  },
+  {
+    "psychotropic medications": "DRUG"
+  },
+  {
+    "sleep-deprived eeg": "TEST"
+  },
+  {
+    "legal guardian": "PROBLEM"
+  },
+  {
+    "discharge": "PROBLEM"
+  },
+  {
+    "oriented": "PROBLEM"
+  },
+  {
+    "axis": "PROBLEM"
+  }
+]

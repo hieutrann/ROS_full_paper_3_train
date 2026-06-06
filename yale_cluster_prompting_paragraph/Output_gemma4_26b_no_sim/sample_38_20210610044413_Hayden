@@ -15,13 +15,13 @@
     "epigastric pain": "PROBLEM"
   },
   {
-    "CT scan": "TEST"
+    "thin-slice CT scan": "TEST"
   },
   {
     "pancreatic mass": "PROBLEM"
   },
   {
-    "lymph nodes": "PROBLEM"
+    "involved lymph nodes": "PROBLEM"
   },
   {
     "ring enhancing lesions": "PROBLEM"
@@ -147,33 +147,9 @@
     "hypertension": "PROBLEM"
   },
   {
-    "fever": "PROBLEM"
-  },
-  {
     "stent occlusion": "PROBLEM"
   },
   {
-    "abdominal pain": "PROBLEM"
-  },
-  {
-    "lymph nodes": "PROBLEM"
-  },
-  {
-    "weight loss": "PROBLEM"
-  },
-  {
-    "pancreatic mass": "PROBLEM"
-  },
-  {
-    "chemotherapy": "TREATMENT"
-  },
-  {
-    "bilirubin": "TEST"
-  },
-  {
-    "phenergan": "DRUG"
-  },
-  {
-    "stent": "TREATMENT"
+    "fever": "PROBLEM"
   }
 ]

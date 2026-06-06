@@ -36,6 +36,12 @@
     "abscesses": "PROBLEM"
   },
   {
+    "analgesics": "DRUG"
+  },
+  {
+    "pain medications": "DRUG"
+  },
+  {
     "Klonopin": "DRUG"
   },
   {
@@ -51,7 +57,7 @@
     "pulse": "TEST"
   },
   {
-    "dilated": "PROBLEM"
+    "respiratory rate": "TEST"
   },
   {
     "wheezing": "PROBLEM"
@@ -66,21 +72,9 @@
     "cough": "PROBLEM"
   },
   {
-    "abscesses": "PROBLEM"
-  },
-  {
     "clonidine": "DRUG"
   },
   {
-    "phenergan": "DRUG"
-  },
-  {
-    "alcohol abuse": "PROBLEM"
-  },
-  {
-    "heroin abuse": "PROBLEM"
-  },
-  {
-    "cocaine": "DRUG"
+    "Phenergan": "DRUG"
   }
 ]

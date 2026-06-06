@@ -21,6 +21,9 @@
     "Abdominal pain": "PROBLEM"
   },
   {
+    "abdominal pain": "PROBLEM"
+  },
+  {
     "nausea": "PROBLEM"
   },
   {
@@ -99,13 +102,7 @@
     "murmur": "PROBLEM"
   },
   {
-    "diffusely tender": "PROBLEM"
-  },
-  {
-    "rebound": "PROBLEM"
-  },
-  {
-    "rigidity": "PROBLEM"
+    "tender": "PROBLEM"
   },
   {
     "tenderness": "PROBLEM"

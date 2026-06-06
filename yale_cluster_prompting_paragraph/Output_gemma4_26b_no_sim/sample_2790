@@ -3,9 +3,6 @@
     "back pain": "PROBLEM"
   },
   {
-    "Decreased ability to perform daily living activities": "PROBLEM"
-  },
-  {
     "chronic back pain": "PROBLEM"
   },
   {
@@ -75,25 +72,13 @@
     "postnasal drip": "PROBLEM"
   },
   {
-    "bilateral carpal tunnel syndrome": "PROBLEM"
+    "carpal tunnel syndrome": "PROBLEM"
   },
   {
     "excision of abdominal teratoma": "TREATMENT"
   },
   {
     "incisional hernia": "PROBLEM"
-  },
-  {
-    "chills": "PROBLEM"
-  },
-  {
-    "fever": "PROBLEM"
-  },
-  {
-    "shakes": "PROBLEM"
-  },
-  {
-    "tremors": "PROBLEM"
   },
   {
     "chest pain": "PROBLEM"
@@ -142,21 +127,6 @@
   },
   {
     "dizziness": "PROBLEM"
-  },
-  {
-    "temperature": "TEST"
-  },
-  {
-    "blood pressure": "TEST"
-  },
-  {
-    "pulse": "TEST"
-  },
-  {
-    "respirations": "TEST"
-  },
-  {
-    "O2 saturation": "TEST"
   },
   {
     "thrush": "PROBLEM"

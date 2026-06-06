@@ -1,0 +1,62 @@
+[
+  {
+    "depression": "PROBLEM"
+  },
+  {
+    "high risk behavior": "PROBLEM"
+  },
+  {
+    "psychiatric": "PROBLEM"
+  },
+  {
+    "psychotic features": "PROBLEM"
+  },
+  {
+    "psychotropic medications": "TREATMENT"
+  },
+  {
+    "sleep-deprived EEG": "TEST"
+  },
+  {
+    "EKG": "TEST"
+  },
+  {
+    "galactorrhea": "PROBLEM"
+  },
+  {
+    "Risperdal": "DRUG"
+  },
+  {
+    "RTC": "TREATMENT"
+  },
+  {
+    "Residential Treatment Center": "TREATMENT"
+  },
+  {
+    "anxious": "PROBLEM"
+  },
+  {
+    "paranoia": "PROBLEM"
+  },
+  {
+    "psychiatric treatment": "TREATMENT"
+  },
+  {
+    "psychotropic medications": "TREATMENT"
+  },
+  {
+    "sleep-deprived eeg": "TEST"
+  },
+  {
+    "legal guardian": "PROBLEM"
+  },
+  {
+    "discharge": "PROBLEM"
+  },
+  {
+    "oriented": "PROBLEM"
+  },
+  {
+    "axis": "PROBLEM"
+  }
+]

@@ -18,19 +18,10 @@
     "itchy rash": "PROBLEM"
   },
   {
-    "facial swelling": "PROBLEM"
-  },
-  {
-    "tongue or lip swelling": "PROBLEM"
-  },
-  {
     "shortness of breath": "PROBLEM"
   },
   {
     "wheezing": "PROBLEM"
-  },
-  {
-    "itchy": "PROBLEM"
   },
   {
     "back surgery": "TREATMENT"
@@ -42,9 +33,6 @@
     "oropharyngeal swelling": "PROBLEM"
   },
   {
-    "lip or tongue swelling": "PROBLEM"
-  },
-  {
     "wheezing": "PROBLEM"
   },
   {
@@ -52,9 +40,6 @@
   },
   {
     "headache": "PROBLEM"
-  },
-  {
-    "nausea": "PROBLEM"
   },
   {
     "itchy rash": "PROBLEM"
@@ -70,12 +55,6 @@
   },
   {
     "AMPICILLIN": "DRUG"
-  },
-  {
-    "VITAL SIGNS": "TEST"
-  },
-  {
-    "afebrile": "PROBLEM"
   },
   {
     "tachycardic": "PROBLEM"
@@ -96,10 +75,10 @@
     "wheezing": "PROBLEM"
   },
   {
-    "murmur": "PROBLEM"
+    "air movement": "TEST"
   },
   {
-    "Slight tachycardia": "PROBLEM"
+    "tachycardia": "PROBLEM"
   },
   {
     "erythematous, blanching rash": "PROBLEM"
@@ -108,7 +87,7 @@
     "blotchy papular, macular rash": "PROBLEM"
   },
   {
-    "epinephrine 1:1000": "DRUG"
+    "epinephrine": "DRUG"
   },
   {
     "Benadryl": "DRUG"
@@ -169,9 +148,6 @@
   },
   {
     "swelling": "PROBLEM"
-  },
-  {
-    "itchy": "PROBLEM"
   },
   {
     "rash": "PROBLEM"

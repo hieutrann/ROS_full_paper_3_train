@@ -1,0 +1,95 @@
+[
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "dementia": "PROBLEM"
+  },
+  {
+    "depression": "PROBLEM"
+  },
+  {
+    "cerebrovascular accidents": "PROBLEM"
+  },
+  {
+    "left-sided upper extremity paresis": "PROBLEM"
+  },
+  {
+    "atrial fibrillation": "PROBLEM"
+  },
+  {
+    "glaucoma": "PROBLEM"
+  },
+  {
+    "degenerative arthritis of her spine": "PROBLEM"
+  },
+  {
+    "GERD": "PROBLEM"
+  },
+  {
+    "hypothyroidism": "PROBLEM"
+  },
+  {
+    "chronic rhinitis": "PROBLEM"
+  },
+  {
+    "urinary urge incontinence": "PROBLEM"
+  },
+  {
+    "chronic constipation": "PROBLEM"
+  },
+  {
+    "diabetes type II": "PROBLEM"
+  },
+  {
+    "painful bunions on feet bilaterally": "PROBLEM"
+  },
+  {
+    "Aspirin": "DRUG"
+  },
+  {
+    "Cymbalta": "DRUG"
+  },
+  {
+    "Diovan": "DRUG"
+  },
+  {
+    "felodipine": "DRUG"
+  },
+  {
+    "omeprazole": "DRUG"
+  },
+  {
+    "Toprol-XL": "DRUG"
+  },
+  {
+    "Levoxyl": "DRUG"
+  },
+  {
+    "Lantus insulin": "DRUG"
+  },
+  {
+    "simvastatin": "DRUG"
+  },
+  {
+    "AyrGel": "DRUG"
+  },
+  {
+    "Senna S": "DRUG"
+  },
+  {
+    "Timoptic": "DRUG"
+  },
+  {
+    "Tylenol": "DRUG"
+  },
+  {
+    "Xalatan": "DRUG"
+  },
+  {
+    "Tucks": "DRUG"
+  },
+  {
+    "physical therapy": "TREATMENT"
+  }
+]

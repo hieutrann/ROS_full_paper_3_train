@@ -48,6 +48,9 @@
     "Deconditioning": "PROBLEM"
   },
   {
+    "Cardiology": "TEST"
+  },
+  {
     "Echocardiogram": "TEST"
   },
   {
@@ -90,7 +93,7 @@
     "stress test": "TEST"
   },
   {
-    "cardiac cath": "TEST"
+    "cardiac cath": "TREATMENT"
   },
   {
     "amaurosis fugax": "PROBLEM"
@@ -99,7 +102,7 @@
     "MRI": "TEST"
   },
   {
-    "1 cm lesion in the right parietal lobe": "PROBLEM"
+    "lesion": "PROBLEM"
   },
   {
     "cardiac cath": "TEST"

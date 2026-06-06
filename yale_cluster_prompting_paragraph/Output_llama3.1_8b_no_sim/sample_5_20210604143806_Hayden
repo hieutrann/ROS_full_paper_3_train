@@ -1,5 +1,14 @@
 [
   {
+    "RSV": "PROBLEM"
+  },
+  {
+    "bronchiolitis": "PROBLEM"
+  },
+  {
+    "otitis media": "PROBLEM"
+  },
+  {
     "cold": "PROBLEM"
   },
   {
@@ -9,7 +18,7 @@
     "runny nose": "PROBLEM"
   },
   {
-    "fever": "PROBLEM"
+    "difficulty breathing": "PROBLEM"
   },
   {
     "Amoxil": "DRUG"
@@ -24,24 +33,6 @@
     "Rocephin": "DRUG"
   },
   {
-    "RSV": "PROBLEM"
-  },
-  {
-    "bronchiolitis": "PROBLEM"
-  },
-  {
-    "otitis media": "PROBLEM"
-  },
-  {
-    "VITAL SIGNS": "TEST"
-  },
-  {
-    "VITAL SIGNS": "TEST"
-  },
-  {
-    "chem panel": "TEST"
-  },
-  {
     "RSV screen": "TEST"
   },
   {
@@ -49,6 +40,9 @@
   },
   {
     "CBC": "TEST"
+  },
+  {
+    "physical exam": "TEST"
   },
   {
     "nebulizer treatments": "TREATMENT"

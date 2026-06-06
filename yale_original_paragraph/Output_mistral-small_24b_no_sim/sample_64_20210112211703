@@ -1,15 +1,12 @@
 [
   {
-    "right foot ulcer": "PROBLEM"
+    "foot ulcer": "PROBLEM"
   },
   {
     "osteomyelitis": "PROBLEM"
   },
   {
     "diabetes mellitus": "PROBLEM"
-  },
-  {
-    "MSSA": "PROBLEM"
   },
   {
     "methicillin-sensitive Staphylococcus aureus": "PROBLEM"
@@ -27,7 +24,10 @@
     "wound VAC": "TREATMENT"
   },
   {
-    "osteomyelitis of the right fifth toe": "PROBLEM"
+    "debridement": "TREATMENT"
+  },
+  {
+    "osteomyelitis": "PROBLEM"
   },
   {
     "heart attack": "PROBLEM"
@@ -42,103 +42,13 @@
     "cerebral palsy": "PROBLEM"
   },
   {
-    "foot": "PROBLEM"
-  },
-  {
-    "pulse": "TEST"
+    "temperature": "TEST"
   },
   {
     "blood pressure": "TEST"
   },
   {
-    "temperature": "TEST"
-  },
-  {
-    "respiratory rate": "TEST"
-  },
-  {
-    "HEENT": "TEST"
-  },
-  {
-    "pupils": "TEST"
-  },
-  {
-    "extraocular movements": "TEST"
-  },
-  {
-    "head": "TEST"
-  },
-  {
-    "external ear": "TEST"
-  },
-  {
-    "neck": "TEST"
-  },
-  {
-    "lymphadenopathy": "PROBLEM"
-  },
-  {
-    "cardiovascular": "TEST"
-  },
-  {
-    "heart": "PROBLEM"
-  },
-  {
-    "lungs": "TEST"
-  },
-  {
-    "abdomen": "TEST"
-  },
-  {
-    "organomegaly": "PROBLEM"
-  },
-  {
-    "bowel sounds": "TEST"
-  },
-  {
-    "extremities": "TEST"
-  },
-  {
-    "cyanosis": "PROBLEM"
-  },
-  {
-    "clubbing": "PROBLEM"
-  },
-  {
-    "edema": "PROBLEM"
-  },
-  {
-    "endocarditis": "PROBLEM"
-  },
-  {
-    "central nervous system": "TEST"
-  },
-  {
-    "cranial nerves": "TEST"
-  },
-  {
-    "focal deficit": "PROBLEM"
-  },
-  {
-    "debridement": "TREATMENT"
-  },
-  {
-    "wound cultures": "TEST"
-  },
-  {
-    "Zyvox": "DRUG"
-  },
-  {
-    "Zosyn": "DRUG"
-  },
-  {
-    "Ancef": "DRUG"
-  },
-  {
-    "CBC": "TEST"
-  },
-  {
-    "differential": "TEST"
+    "CBC with differential": "TEST"
   },
   {
     "chemistry 7 panel": "TEST"
@@ -153,33 +63,159 @@
     "C-reactive protein": "TEST"
   },
   {
-    "wound healing": "TREATMENT"
+    "Ancef": "DRUG"
   },
   {
-    "wound care": "TREATMENT"
+    "Zyvox": "DRUG"
+  },
+  {
+    "Zosyn": "DRUG"
   },
   {
     "PICC line": "TREATMENT"
   },
   {
-    "deep wound cultures": "TEST"
+    "osteomyelitis": "PROBLEM"
   },
   {
     "deep wound infection": "PROBLEM"
   },
   {
-    "infectious disease": "PROBLEM"
+    "Ancef": "DRUG"
   },
   {
-    "antibiotic regimen": "DRUG"
+    "Levaquin": "DRUG"
   },
   {
-    "antibiotic therapy": "DRUG"
+    "Zyvox": "DRUG"
   },
   {
-    "wound care team": "TREATMENT"
+    "Zosyn": "DRUG"
   },
   {
-    "hospitalization": "TREATMENT"
+    "wound care": "TREATMENT"
+  },
+  {
+    "wound VAC": "TREATMENT"
+  },
+  {
+    "PICC line": "TREATMENT"
+  },
+  {
+    "CBC with differential": "TEST"
+  },
+  {
+    "chemistry 7 panel": "TEST"
+  },
+  {
+    "LFTs": "TEST"
+  },
+  {
+    "ESR": "TEST"
+  },
+  {
+    "C-reactive protein": "TEST"
+  },
+  {
+    "osteomyelitis": "PROBLEM"
+  },
+  {
+    "deep wound infection": "PROBLEM"
+  },
+  {
+    "osteomyelitis": "PROBLEM"
+  },
+  {
+    "foot ulcer": "PROBLEM"
+  },
+  {
+    "methicillin-sensitive Staphylococcus aureus": "PROBLEM"
+  },
+  {
+    "Levaquin": "DRUG"
+  },
+  {
+    "Zyvox": "DRUG"
+  },
+  {
+    "Zosyn": "DRUG"
+  },
+  {
+    "Ancef": "DRUG"
+  },
+  {
+    "wound care": "TREATMENT"
+  },
+  {
+    "wound VAC": "TREATMENT"
+  },
+  {
+    "PICC line": "TREATMENT"
+  },
+  {
+    "CBC with differential": "TEST"
+  },
+  {
+    "chemistry 7 panel": "TEST"
+  },
+  {
+    "LFTs": "TEST"
+  },
+  {
+    "ESR": "TEST"
+  },
+  {
+    "C-reactive protein": "TEST"
+  },
+  {
+    "osteomyelitis": "PROBLEM"
+  },
+  {
+    "deep wound infection": "PROBLEM"
+  },
+  {
+    "osteomyelitis": "PROBLEM"
+  },
+  {
+    "foot ulcer": "PROBLEM"
+  },
+  {
+    "methicillin-sensitive Staphylococcus aureus": "PROBLEM"
+  },
+  {
+    "Levaquin": "DRUG"
+  },
+  {
+    "Zyvox": "DRUG"
+  },
+  {
+    "Zosyn": "DRUG"
+  },
+  {
+    "Ancef": "DRUG"
+  },
+  {
+    "wound care": "TREATMENT"
+  },
+  {
+    "wound VAC": "TREATMENT"
+  },
+  {
+    "PICC line": "TREATMENT"
+  },
+  {
+    "CBC with differential": "TEST"
+  },
+  {
+    "chemistry 7 panel": "TEST"
+  },
+  {
+    "LFTs": "TEST"
+  },
+  {
+    "ESR": "TEST"
+  },
+  {
+    "C-reactive protein": "TEST"
   }
 ]

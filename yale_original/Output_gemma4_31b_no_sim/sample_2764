@@ -9,7 +9,7 @@
     "rheumatoid arthritis": "PROBLEM"
   },
   {
-    "mild stress-induced adrenal insufficiency": "PROBLEM"
+    "stress-induced adrenal insufficiency": "PROBLEM"
   },
   {
     "cough": "PROBLEM"
@@ -36,16 +36,13 @@
     "Atypical pneumonia": "PROBLEM"
   },
   {
-    "viral": "PROBLEM"
-  },
-  {
     "Hypoxia": "PROBLEM"
   },
   {
     "Rheumatoid arthritis": "PROBLEM"
   },
   {
-    "mild stress-induced adrenal insufficiency": "PROBLEM"
+    "stress-induced adrenal insufficiency": "PROBLEM"
   },
   {
     "cough": "PROBLEM"
@@ -103,9 +100,6 @@
   },
   {
     "CT scan": "TEST"
-  },
-  {
-    "focal pathology": "PROBLEM"
   },
   {
     "viral etiology": "PROBLEM"

@@ -117,7 +117,7 @@
     "acute lower GI bleed": "PROBLEM"
   },
   {
-    "transfused packed red blood cells": "TREATMENT"
+    "packed red blood cells": "TREATMENT"
   },
   {
     "endoscopy": "TEST"
@@ -169,6 +169,9 @@
   },
   {
     "pulmonary disease": "PROBLEM"
+  },
+  {
+    "inhaler": "DRUG"
   },
   {
     "copd": "PROBLEM"

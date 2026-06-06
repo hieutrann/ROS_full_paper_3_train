@@ -18,10 +18,19 @@
     "atrial fibrillation": "PROBLEM"
   },
   {
+    "fall": "PROBLEM"
+  },
+  {
     "atrial tachyarrhythmia": "PROBLEM"
   },
   {
     "Cardizem": "DRUG"
+  },
+  {
+    "heart rate": "TEST"
+  },
+  {
+    "EKGs": "TEST"
   },
   {
     "multifocal atrial tachycardia": "PROBLEM"
@@ -30,7 +39,16 @@
     "wandering atrial pacemaker": "PROBLEM"
   },
   {
+    "ECG": "TEST"
+  },
+  {
+    "sinus rhythm": "PROBLEM"
+  },
+  {
     "APCs": "PROBLEM"
+  },
+  {
+    "potassium": "TEST"
   },
   {
     "palpitations": "PROBLEM"
@@ -49,6 +67,9 @@
   },
   {
     "Persantine Myoview nuclear rest-stress test": "TEST"
+  },
+  {
+    "echocardiogram": "TEST"
   },
   {
     "dizzy spells": "PROBLEM"
@@ -90,7 +111,7 @@
     "Lasix": "DRUG"
   },
   {
-    "PENICILLIN": "PROBLEM"
+    "PENICILLIN": "DRUG"
   },
   {
     "TOPROL": "DRUG"
@@ -156,6 +177,9 @@
     "lupus": "PROBLEM"
   },
   {
+    "temperature": "TEST"
+  },
+  {
     "blood pressure": "TEST"
   },
   {
@@ -168,22 +192,13 @@
     "O2 saturation": "TEST"
   },
   {
-    "left hip fracture": "PROBLEM"
-  },
-  {
-    "systolic ejection murmur": "PROBLEM"
-  },
-  {
-    "holosystolic murmur": "PROBLEM"
+    "hip fracture": "PROBLEM"
   },
   {
     "chest x-ray": "TEST"
   },
   {
     "Sodium": "TEST"
-  },
-  {
-    "potassium": "TEST"
   },
   {
     "chloride": "TEST"
@@ -219,9 +234,6 @@
     "platelet count": "TEST"
   },
   {
-    "EKG": "TEST"
-  },
-  {
     "hypokalemia": "PROBLEM"
   },
   {
@@ -234,15 +246,6 @@
     "proton pump inhibitors": "DRUG"
   },
   {
-    "hypokalemia": "PROBLEM"
-  },
-  {
-    "atrial tachycardia": "PROBLEM"
-  },
-  {
-    "sinus rhythm": "PROBLEM"
-  },
-  {
-    "hip fracture": "PROBLEM"
+    "gastroesophageal reflux disease": "PROBLEM"
   }
 ]

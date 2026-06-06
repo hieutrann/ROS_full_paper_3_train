@@ -18,7 +18,7 @@
     "traumatic fracture of the lower arm": "PROBLEM"
   },
   {
-    "Alcohol abuse": "PROBLEM"
+    "lower leg fracture": "PROBLEM"
   },
   {
     "Open wound of the scalp": "PROBLEM"
@@ -51,28 +51,7 @@
     "Motor vehicle traffic accident": "PROBLEM"
   },
   {
-    "Calcium with vitamin D": "DRUG"
-  },
-  {
-    "Ferrous sulfate": "DRUG"
-  },
-  {
-    "Multivitamin": "DRUG"
-  },
-  {
-    "Nicotine patch": "DRUG"
-  },
-  {
-    "Seroquel": "DRUG"
-  },
-  {
-    "Xenaderm": "DRUG"
-  },
-  {
-    "Vicodin": "DRUG"
-  },
-  {
-    "Ativan": "DRUG"
+    "anemia": "PROBLEM"
   },
   {
     "ORIF": "TREATMENT"
@@ -84,27 +63,30 @@
     "iron treatment": "TREATMENT"
   },
   {
-    "therapy": "TREATMENT"
+    "Seroquel": "DRUG"
   },
   {
-    "Seroquel": "TREATMENT"
+    "Ativan": "DRUG"
   },
   {
-    "Ativan": "TREATMENT"
+    "chronic pain medications": "DRUG"
   },
   {
-    "chronic pain medications": "TREATMENT"
+    "Calcium with vitamin D": "DRUG"
   },
   {
-    "orthopedic followup": "TREATMENT"
+    "Ferrous sulfate": "DRUG"
   },
   {
-    "case management": "TREATMENT"
+    "Multivitamin": "DRUG"
   },
   {
-    "outpatient therapy": "TREATMENT"
+    "nicotine patch": "DRUG"
   },
   {
-    "follow up with primary care physician": "TREATMENT"
+    "Vicodin": "DRUG"
+  },
+  {
+    "Xenaderm": "DRUG"
   }
 ]

@@ -57,6 +57,9 @@
     "pseudocyst": "PROBLEM"
   },
   {
+    "pancreas": "PROBLEM"
+  },
+  {
     "ERCP": "TEST"
   },
   {
@@ -69,10 +72,7 @@
     "strictured bile duct": "PROBLEM"
   },
   {
-    "10-frenchx9 cm stent": "TREATMENT"
-  },
-  {
-    "comfortable": "PROBLEM"
+    "stent": "TREATMENT"
   },
   {
     "bilirubin": "TEST"
@@ -147,28 +147,43 @@
     "albumin": "TEST"
   },
   {
+    "diet": "TREATMENT"
+  },
+  {
     "oral hypoglycemics": "DRUG"
   },
   {
     "insulin sliding scale": "TREATMENT"
   },
   {
+    "infirmary": "TREATMENT"
+  },
+  {
     "diabetes": "PROBLEM"
   },
   {
-    "chemotherapy": "TREATMENT"
+    "end of life meetings": "TREATMENT"
   },
   {
-    "chemotherapy": "TREATMENT"
+    "chemotherapy": "DRUG"
   },
   {
-    "metastatic pancreatic cancer": "PROBLEM"
+    "chemotherapy": "DRUG"
+  },
+  {
+    "pancreatic cancer": "PROBLEM"
+  },
+  {
+    "DISCHARGE MEDICATIONS": "DRUG"
   },
   {
     "Phenergan": "DRUG"
   },
   {
-    "Duragesic": "DRUG"
+    "p.r.n.": "DRUG"
+  },
+  {
+    "Duragesic patch": "DRUG"
   },
   {
     "Benadryl": "DRUG"
@@ -181,6 +196,9 @@
   },
   {
     "enalapril": "DRUG"
+  },
+  {
+    "hypertension": "PROBLEM"
   },
   {
     "ERCP": "TEST"
@@ -198,6 +216,9 @@
     "pain": "PROBLEM"
   },
   {
+    "diet": "TREATMENT"
+  },
+  {
     "abdominal pain": "PROBLEM"
   },
   {
@@ -210,7 +231,7 @@
     "pancreatic mass": "PROBLEM"
   },
   {
-    "chemotherapy": "TREATMENT"
+    "chemotherapy": "DRUG"
   },
   {
     "abdominal": "PROBLEM"

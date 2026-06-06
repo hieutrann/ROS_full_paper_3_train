@@ -33,10 +33,10 @@
     "PTA": "TREATMENT"
   },
   {
-    "colchicine": "DRUG"
+    "allopurinol": "DRUG"
   },
   {
-    "allopurinol": "DRUG"
+    "colchicine": "DRUG"
   },
   {
     "Micardis": "DRUG"
@@ -45,108 +45,33 @@
     "Lasix": "DRUG"
   },
   {
-    "Crestor": "DRUG"
+    "Foley": "TREATMENT"
   },
   {
-    "Imdur": "DRUG"
+    "steroids": "TREATMENT"
   },
   {
-    "Amlodipine": "DRUG"
+    "barium enema": "TREATMENT"
   },
   {
-    "Coreg": "DRUG"
+    "EGD": "TEST"
   },
   {
-    "Ecotrin": "DRUG"
+    "colonoscopy": "TEST"
   },
   {
-    "calcitriol": "DRUG"
+    "urine culture": "TEST"
   },
   {
-    "NovoLog": "DRUG"
-  },
-  {
-    "Lantus": "DRUG"
-  },
-  {
-    "steroids": "DRUG"
-  },
-  {
-    "BNP": "TEST"
+    "urinalysis": "TEST"
   },
   {
     "sed rate": "TEST"
   },
   {
-    "urinalysis": "TEST"
-  },
-  {
-    "urine culture": "TEST"
-  },
-  {
-    "white cell": "TEST"
-  },
-  {
-    "hematocrit": "TEST"
-  },
-  {
-    "serum sodium": "TEST"
-  },
-  {
-    "potassium": "TEST"
-  },
-  {
-    "chloride": "TEST"
-  },
-  {
-    "bicarb": "TEST"
-  },
-  {
-    "glucose": "TEST"
-  },
-  {
-    "BUN": "TEST"
-  },
-  {
-    "creatinine": "TEST"
-  },
-  {
-    "calcium": "TEST"
-  },
-  {
-    "uric acid": "TEST"
-  },
-  {
     "BNP": "TEST"
   },
   {
-    "urinalysis": "TEST"
-  },
-  {
-    "urine culture": "TEST"
-  },
-  {
-    "white cell": "TEST"
-  },
-  {
-    "hematocrit": "TEST"
-  },
-  {
-    "serum sodium": "TEST"
-  },
-  {
-    "potassium": "TEST"
-  },
-  {
-    "chloride": "TEST"
-  },
-  {
-    "bicarb": "TEST"
-  },
-  {
-    "glucose": "TEST"
-  },
-  {
     "BUN": "TEST"
   },
   {
@@ -157,17 +82,5 @@
   },
   {
     "uric acid": "TEST"
-  },
-  {
-    "allopurinol": "TREATMENT"
-  },
-  {
-    "colchicine": "TREATMENT"
-  },
-  {
-    "PTA": "TREATMENT"
-  },
-  {
-    "Lasix": "TREATMENT"
   }
 ]

@@ -1,8 +1,5 @@
 [
   {
-    "Ectopic Pregnancy": "PROBLEM"
-  },
-  {
     "pelvic pain": "PROBLEM"
   },
   {
@@ -18,19 +15,22 @@
     "Anemia": "PROBLEM"
   },
   {
+    "blood loss": "PROBLEM"
+  },
+  {
     "pelvic pain": "PROBLEM"
   },
   {
     "vaginal bleeding": "PROBLEM"
   },
   {
-    "hCG": "PROBLEM"
+    "hCG": "TEST"
   },
   {
     "sonogram": "TEST"
   },
   {
-    "hCG titer": "TEST"
+    "hCG": "TEST"
   },
   {
     "incomplete abortion": "PROBLEM"
@@ -42,7 +42,7 @@
     "rupture of corpus luteal cyst": "PROBLEM"
   },
   {
-    "patient": "PROBLEM"
+    "hours": "TEST"
   },
   {
     "gestational sac": "PROBLEM"
@@ -54,22 +54,16 @@
     "sonogram": "TEST"
   },
   {
-    "hospital": "PROBLEM"
-  },
-  {
     "hCG": "TEST"
   },
   {
     "ruptured ectopic pregnancy": "PROBLEM"
   },
   {
-    "laparotomy": "TREATMENT"
-  },
-  {
     "ectopic pregnancy": "PROBLEM"
   },
   {
-    "ruptured": "PROBLEM"
+    "laparotomy": "TREATMENT"
   },
   {
     "salpingectomy": "TREATMENT"
@@ -78,10 +72,10 @@
     "red packed cells": "TREATMENT"
   },
   {
-    "hemoglobin": "PROBLEM"
+    "hemoglobin": "TEST"
   },
   {
-    "severe abdominal pain": "PROBLEM"
+    "abdominal pain": "PROBLEM"
   },
   {
     "ectopic": "PROBLEM"
@@ -99,7 +93,7 @@
     "bowel movement": "PROBLEM"
   },
   {
-    "patient": "PROBLEM"
+    "days": "TREATMENT"
   },
   {
     "FINAL DIAGNOSES": "PROBLEM"
@@ -111,10 +105,13 @@
     "hemoperitoneum": "PROBLEM"
   },
   {
-    "2": "TEST"
+    "2": "TREATMENT"
   },
   {
     "Anemia": "PROBLEM"
+  },
+  {
+    "blood loss": "PROBLEM"
   },
   {
     "pain medication": "TREATMENT"
@@ -132,7 +129,7 @@
     "ruptured ectopic pregnancy": "PROBLEM"
   },
   {
-    "gestational sac": "PROBLEM"
+    "gestational sac": "TEST"
   },
   {
     "ectopic pregnancy": "PROBLEM"
@@ -141,10 +138,10 @@
     "hemoperitoneum": "PROBLEM"
   },
   {
-    "gestational": "PROBLEM"
+    "gestational": "TEST"
   },
   {
-    "ruptured": "PROBLEM"
+    "ruptured": "TEST"
   },
   {
     "pregnancy": "PROBLEM"

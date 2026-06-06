@@ -21,16 +21,16 @@
     "mechanical ventilation": "TREATMENT"
   },
   {
-    "prolonged partial thromboplastin time": "TEST"
+    "partial thromboplastin time": "TEST"
   },
   {
     "prothrombin time": "TEST"
   },
   {
-    "low fibrinogen": "TEST"
+    "fibrinogen": "TEST"
   },
   {
-    "elevated D-dimer": "TEST"
+    "D-dimer": "TEST"
   },
   {
     "Bleeding": "PROBLEM"
@@ -45,19 +45,25 @@
     "coagulopathy": "PROBLEM"
   },
   {
+    "blood pressure": "TEST"
+  },
+  {
+    "respiratory rate": "TEST"
+  },
+  {
     "conjunctival hemorrhage": "PROBLEM"
   },
   {
     "petechiae": "PROBLEM"
   },
   {
-    "Coarse breath sounds": "TEST"
+    "ET tube": "TREATMENT"
   },
   {
-    "oozing": "PROBLEM"
+    "jugular venous pressure distention": "PROBLEM"
   },
   {
-    "clubbing": "PROBLEM"
+    "Coarse breath sounds": "PROBLEM"
   },
   {
     "cyanosis": "PROBLEM"
@@ -75,12 +81,6 @@
     "PTT": "TEST"
   },
   {
-    "fibrinogen": "TEST"
-  },
-  {
-    "D-dimer": "TEST"
-  },
-  {
     "pneumococcal disease": "PROBLEM"
   },
   {
@@ -88,14 +88,5 @@
   },
   {
     "heparin": "DRUG"
-  },
-  {
-    "continuous infusion heparin": "TREATMENT"
-  },
-  {
-    "intravascular coagulation": "PROBLEM"
-  },
-  {
-    "streptococcal pneumonia": "PROBLEM"
   }
 ]

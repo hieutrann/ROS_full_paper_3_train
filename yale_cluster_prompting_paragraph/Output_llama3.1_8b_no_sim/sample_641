@@ -9,30 +9,6 @@
     "large cardioembolic stroke": "PROBLEM"
   },
   {
-    "devastating effects": "PROBLEM"
-  },
-  {
-    "fluctuating mental status": "PROBLEM"
-  },
-  {
-    "critical condition": "PROBLEM"
-  },
-  {
-    "multiple strokes": "PROBLEM"
-  },
-  {
-    "large clot burden": "PROBLEM"
-  },
-  {
-    "patent foramen ovale": "PROBLEM"
-  },
-  {
-    "GERD": "PROBLEM"
-  },
-  {
-    "arthritis": "PROBLEM"
-  },
-  {
     "Parkinson's": "PROBLEM"
   },
   {
@@ -40,6 +16,12 @@
   },
   {
     "chronic atrial fibrillation": "PROBLEM"
+  },
+  {
+    "GERD": "PROBLEM"
+  },
+  {
+    "arthritis": "PROBLEM"
   },
   {
     "Coumadin": "DRUG"
@@ -67,6 +49,9 @@
   },
   {
     "oxazepam": "DRUG"
+  },
+  {
+    "ibuprofen": "DRUG"
   },
   {
     "Darvocet-N": "DRUG"
@@ -102,34 +87,40 @@
     "shoulder films": "TEST"
   },
   {
+    "ABG": "TEST"
+  },
+  {
+    "BMP": "TEST"
+  },
+  {
+    "TSH": "TEST"
+  },
+  {
+    "cholesterol": "TEST"
+  },
+  {
+    "Digoxin level": "TEST"
+  },
+  {
+    "EKG": "TEST"
+  },
+  {
     "arteriogram": "TEST"
   },
   {
-    "clot retrieval device": "TREATMENT"
+    "clot extraction": "TREATMENT"
   },
   {
-    "emergency retrieval device": "TREATMENT"
+    "paralyzation": "TREATMENT"
   },
   {
-    "beta-blocker": "TREATMENT"
-  },
-  {
-    "calcium channel blocker": "TREATMENT"
-  },
-  {
-    "Brevibloc": "TREATMENT"
-  },
-  {
-    "Esmolol drip": "TREATMENT"
+    "intubation": "TREATMENT"
   },
   {
     "ventilator": "TREATMENT"
   },
   {
     "tube feeds": "TREATMENT"
-  },
-  {
-    "low dose of tube feeds": "TREATMENT"
   },
   {
     "thigh-high TED hose": "TREATMENT"

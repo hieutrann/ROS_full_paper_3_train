@@ -6,9 +6,6 @@
     "abdominal pain": "PROBLEM"
   },
   {
-    "abdominal pain": "PROBLEM"
-  },
-  {
     "CT scan": "TEST"
   },
   {
@@ -18,6 +15,12 @@
     "Flagyl": "DRUG"
   },
   {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
     "anorexia": "PROBLEM"
   },
   {
@@ -25,6 +28,9 @@
   },
   {
     "obstipation": "PROBLEM"
+  },
+  {
+    "bright red blood per rectum": "PROBLEM"
   },
   {
     "melena": "PROBLEM"
@@ -48,9 +54,6 @@
     "atrial fibrillation": "PROBLEM"
   },
   {
-    "sinus rhythm": "PROBLEM"
-  },
-  {
     "metoprolol": "DRUG"
   },
   {
@@ -69,7 +72,7 @@
     "bladder prolapse": "PROBLEM"
   },
   {
-    "Macrodantin": "DRUG"
+    "MACRODANTIN": "DRUG"
   },
   {
     "febrile illnesses": "PROBLEM"
@@ -81,46 +84,7 @@
     "shortness of breath": "PROBLEM"
   },
   {
-    "temperature": "TEST"
-  },
-  {
-    "vital signs": "TEST"
-  },
-  {
-    "HEENT": "TEST"
-  },
-  {
-    "sclerae": "TEST"
-  },
-  {
-    "conjunctivae": "TEST"
-  },
-  {
-    "neck": "TEST"
-  },
-  {
-    "chest": "TEST"
-  },
-  {
-    "heart": "TEST"
-  },
-  {
-    "abdomen": "TEST"
-  },
-  {
-    "CVA": "TEST"
-  },
-  {
-    "flank tenderness": "PROBLEM"
-  },
-  {
-    "pelvic": "TEST"
-  },
-  {
-    "extremities": "TEST"
-  },
-  {
-    "white blood cell count": "TEST"
+    "White blood cell count": "TEST"
   },
   {
     "hemoglobin": "TEST"
@@ -129,16 +93,16 @@
     "platelet count": "TEST"
   },
   {
-    "alkaline phosphatase": "TEST"
+    "Alkaline phosphatase": "TEST"
   },
   {
-    "liver function tests": "TEST"
+    "Liver function tests": "TEST"
   },
   {
-    "electrolytes": "TEST"
+    "Electrolytes": "TEST"
   },
   {
-    "glucose": "TEST"
+    "Glucose": "TEST"
   },
   {
     "BUN": "TEST"
@@ -150,16 +114,7 @@
     "EKG": "TEST"
   },
   {
-    "sinus rhythm": "PROBLEM"
-  },
-  {
     "abdominal pain": "PROBLEM"
-  },
-  {
-    "left lower quadrant": "PROBLEM"
-  },
-  {
-    "abdomen": "PROBLEM"
   },
   {
     "sigmoid diverticulitis": "PROBLEM"
@@ -169,23 +124,5 @@
   },
   {
     "colonoscopy": "TEST"
-  },
-  {
-    "abdominal pain": "PROBLEM"
-  },
-  {
-    "lower quadrant": "PROBLEM"
-  },
-  {
-    "abdominal": "PROBLEM"
-  },
-  {
-    "sigmoid": "PROBLEM"
-  },
-  {
-    "diverticulitis": "PROBLEM"
-  },
-  {
-    "tenderness": "PROBLEM"
   }
 ]

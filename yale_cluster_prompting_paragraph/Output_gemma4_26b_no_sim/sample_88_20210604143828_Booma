@@ -24,22 +24,73 @@
     "thrombocytosis": "PROBLEM"
   },
   {
-    "elevated CRP": "TEST"
+    "elevated CRP": "PROBLEM"
   },
   {
-    "ESR": "TEST"
+    "ESR": "PROBLEM"
   },
   {
     "Kawasaki disease": "PROBLEM"
   },
   {
-    "aspirin": "DRUG"
+    "Kawasaki disease": "PROBLEM"
   },
   {
-    "IVIG": "DRUG"
+    "fever": "PROBLEM"
+  },
+  {
+    "conjunctivitis": "PROBLEM"
+  },
+  {
+    "mild arthritis": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "rash": "PROBLEM"
+  },
+  {
+    "elevated neutrophils": "PROBLEM"
+  },
+  {
+    "thrombocytosis": "PROBLEM"
+  },
+  {
+    "elevated CRP": "PROBLEM"
+  },
+  {
+    "ESR": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "high dose of aspirin": "DRUG"
+  },
+  {
+    "IVIG": "TREATMENT"
   },
   {
     "Echocardiogram": "TEST"
+  },
+  {
+    "IVIG": "TREATMENT"
+  },
+  {
+    "IVIG": "TREATMENT"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "rash": "PROBLEM"
+  },
+  {
+    "conjunctivitis": "PROBLEM"
   },
   {
     "redness of mucous membranes": "PROBLEM"
@@ -54,12 +105,33 @@
     "Prevacid": "DRUG"
   },
   {
-    "GI": "PROBLEM"
+    "echo": "TEST"
   },
   {
-    "vaccine": "DRUG"
+    "vaccine": "TREATMENT"
   },
   {
-    "live virus vaccine": "DRUG"
+    "live virus vaccine": "TREATMENT"
+  },
+  {
+    "rashes": "PROBLEM"
+  },
+  {
+    "fevers": "PROBLEM"
+  },
+  {
+    "conjunctivitis": "PROBLEM"
+  },
+  {
+    "kawasaki disease": "PROBLEM"
+  },
+  {
+    "vaccine": "TREATMENT"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "aspirin": "DRUG"
   }
 ]

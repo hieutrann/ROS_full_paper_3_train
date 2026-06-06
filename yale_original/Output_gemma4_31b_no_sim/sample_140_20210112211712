@@ -1,5 +1,8 @@
 [
   {
+    "Female Exam": "TEST"
+  },
+  {
     "Blood pressure": "TEST"
   },
   {
@@ -15,9 +18,6 @@
     "EOMI": "TEST"
   },
   {
-    "PERRLA": "TEST"
-  },
-  {
     "Sclerae nonicteric": "PROBLEM"
   },
   {
@@ -28,9 +28,6 @@
   },
   {
     "TMs": "TEST"
-  },
-  {
-    "canals": "TEST"
   },
   {
     "hearing": "TEST"
@@ -49,9 +46,6 @@
   },
   {
     "thyroid abnormality": "PROBLEM"
-  },
-  {
-    "Lungs": "TEST"
   },
   {
     "S1": "TEST"
@@ -111,13 +105,13 @@
     "intraabdominal bruit": "PROBLEM"
   },
   {
+    "digital palpation": "TEST"
+  },
+  {
     "Hemoccult": "TEST"
   },
   {
-    "distal pulse": "TEST"
-  },
-  {
-    "perfusion": "TEST"
+    "stool": "TEST"
   },
   {
     "edema": "PROBLEM"
@@ -130,12 +124,6 @@
   },
   {
     "deep venous thrombosis": "PROBLEM"
-  },
-  {
-    "range of motion": "TEST"
-  },
-  {
-    "BACK": "TEST"
   },
   {
     "spinous process tenderness": "PROBLEM"
@@ -153,25 +141,10 @@
     "Brudzinski signs": "TEST"
   },
   {
-    "cranial and peripheral nervous systems": "TEST"
+    "premalignant": "PROBLEM"
   },
   {
-    "strength": "TEST"
-  },
-  {
-    "sensation": "TEST"
-  },
-  {
-    "cerebellar function": "TEST"
-  },
-  {
-    "Speech": "TEST"
-  },
-  {
-    "Gait and station": "TEST"
-  },
-  {
-    "premalignant or malignant condition": "PROBLEM"
+    "malignant condition": "PROBLEM"
   },
   {
     "hepatosplenomegaly": "PROBLEM"

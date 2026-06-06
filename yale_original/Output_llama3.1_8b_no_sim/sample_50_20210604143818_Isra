@@ -24,31 +24,28 @@
     "Flagyl": "DRUG"
   },
   {
-    "nausea": "PROBLEM"
-  },
-  {
-    "vomiting": "PROBLEM"
-  },
-  {
     "anorexia": "PROBLEM"
   },
   {
     "obstipation": "PROBLEM"
   },
   {
-    "flatus": "PROBLEM"
+    "flatus": "TEST"
   },
   {
     "bowel movement": "TEST"
-  },
-  {
-    "bright red blood per rectum": "PROBLEM"
   },
   {
     "melena": "PROBLEM"
   },
   {
     "colonoscopy": "TEST"
+  },
+  {
+    "fevers": "PROBLEM"
+  },
+  {
+    "chills": "PROBLEM"
   },
   {
     "jaundice": "PROBLEM"
@@ -75,7 +72,7 @@
     "hysterectomy": "TREATMENT"
   },
   {
-    "grade 4 bladder prolapse": "PROBLEM"
+    "bladder prolapse": "PROBLEM"
   },
   {
     "MACRODANTIN": "DRUG"
@@ -93,13 +90,19 @@
     "shortness of breath": "PROBLEM"
   },
   {
-    "patient": "PROBLEM"
+    "female": "PROBLEM"
   },
   {
     "temperature": "TEST"
   },
   {
-    "Head": "TEST"
+    "vital signs": "TEST"
+  },
+  {
+    "atraumatic": "PROBLEM"
+  },
+  {
+    "normocephalic": "PROBLEM"
   },
   {
     "Sclerae": "PROBLEM"
@@ -111,16 +114,19 @@
     "Supple": "TEST"
   },
   {
-    "CHEST": "TEST"
+    "Chest": "TEST"
   },
   {
-    "HEART": "TEST"
+    "Regular rate and rhythm": "TEST"
   },
   {
-    "ABDOMEN": "PROBLEM"
+    "nondistended": "PROBLEM"
   },
   {
-    "tender": "PROBLEM"
+    "soft": "PROBLEM"
+  },
+  {
+    "tenderness": "PROBLEM"
   },
   {
     "palpable fullness or mass": "PROBLEM"
@@ -130,6 +136,9 @@
   },
   {
     "CVA": "PROBLEM"
+  },
+  {
+    "flank tenderness": "PROBLEM"
   },
   {
     "flank tenderness": "PROBLEM"
@@ -171,6 +180,9 @@
     "EKG": "TEST"
   },
   {
+    "sinus rhythm": "PROBLEM"
+  },
+  {
     "abdominal pain": "PROBLEM"
   },
   {
@@ -195,42 +207,45 @@
     "pelvis": "PROBLEM"
   },
   {
-    "patient": "PROBLEM"
+    "CT scan": "TEST"
   },
   {
-    "Dr": "TREATMENT"
-  },
-  {
-    "Y in Colorectal Surgery": "PROBLEM"
-  },
-  {
-    "evaluation": "TEST"
+    "Colorectal": "PROBLEM"
   },
   {
     "colonoscopy": "TEST"
   },
   {
-    "colonoscopy": "TEST"
+    "colonoscopy": "TREATMENT"
   },
   {
     "nothing by mouth": "TREATMENT"
   },
   {
-    "Dr": "TREATMENT"
+    "physician": "TREATMENT"
   },
   {
-    "acute surgical intervention": "TREATMENT"
+    "surgical intervention": "TREATMENT"
   },
   {
     "diagnostic workup": "TEST"
   },
   {
-    "diverticulitis": "PROBLEM"
-  },
-  {
     "abdominal pain": "PROBLEM"
   },
   {
+    "diverticulitis": "PROBLEM"
+  },
+  {
     "tenderness": "PROBLEM"
+  },
+  {
+    "abdominal": "PROBLEM"
+  },
+  {
+    "sigmoid": "PROBLEM"
+  },
+  {
+    "lower quadrant": "PROBLEM"
   }
 ]

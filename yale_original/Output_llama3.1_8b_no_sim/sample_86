@@ -6,25 +6,13 @@
     "high risk behavior": "PROBLEM"
   },
   {
-    "DISCHARGE SUMMARY": "TREATMENT"
-  },
-  {
-    "SUMMARY OF TREATMENT PLANNING": "TREATMENT"
-  },
-  {
-    "This discharge": "TREATMENT"
-  },
-  {
-    "at the family's request": "TREATMENT"
-  },
-  {
-    "IDENTIFIED PROBLEMS/OUTCOMES": "PROBLEM"
+    "PROBLEMS/OUTCOMES": "PROBLEM"
   },
   {
     "Depression": "PROBLEM"
   },
   {
-    "2": "TEST"
+    "2": "TREATMENT"
   },
   {
     "High risk behavior": "PROBLEM"
@@ -42,7 +30,7 @@
     "relapse": "PROBLEM"
   },
   {
-    "RTC": "PROBLEM"
+    "RTC": "TREATMENT"
   },
   {
     "therapy program": "TREATMENT"
@@ -54,7 +42,7 @@
     "therapy": "TREATMENT"
   },
   {
-    "hospital": "PROBLEM"
+    "hospital": "TREATMENT"
   },
   {
     "Perceptual disturbances": "PROBLEM"
@@ -69,16 +57,16 @@
     "depressed moods": "PROBLEM"
   },
   {
-    "irritable": "PROBLEM"
+    "anxious": "PROBLEM"
   },
   {
-    "anxious": "PROBLEM"
+    "irritable": "PROBLEM"
   },
   {
     "homesick": "PROBLEM"
   },
   {
-    "limited interaction with peers": "PROBLEM"
+    "tearful": "PROBLEM"
   },
   {
     "strange feelings and sensations": "PROBLEM"
@@ -90,7 +78,7 @@
     "relapse": "PROBLEM"
   },
   {
-    "RTC program": "PROBLEM"
+    "RTC program": "TREATMENT"
   },
   {
     "sleep-deprived EEG": "TEST"
@@ -99,10 +87,10 @@
     "EKG": "TEST"
   },
   {
-    "H&P": "TEST"
+    "psychiatric treatment": "TREATMENT"
   },
   {
-    "psychiatric treatment": "TREATMENT"
+    "H&P": "TEST"
   },
   {
     "basic metabolic panel": "TEST"
@@ -141,6 +129,9 @@
     "heart murmur": "PROBLEM"
   },
   {
+    "H&P exam": "TEST"
+  },
+  {
     "Hematocrit": "TEST"
   },
   {
@@ -156,7 +147,7 @@
     "psychotic features": "PROBLEM"
   },
   {
-    "AXIS II": "TEST"
+    "Deferred": "PROBLEM"
   },
   {
     "acute major medical conditions": "PROBLEM"
@@ -171,19 +162,25 @@
     "alert": "PROBLEM"
   },
   {
-    "oriented to time": "PROBLEM"
+    "oriented": "PROBLEM"
   },
   {
-    "oriented to place": "PROBLEM"
+    "time": "PROBLEM"
   },
   {
-    "oriented to person": "PROBLEM"
+    "place": "PROBLEM"
   },
   {
-    "oriented to situation": "PROBLEM"
+    "person": "PROBLEM"
   },
   {
-    "suicidal or homicidal ideas": "PROBLEM"
+    "situation": "PROBLEM"
+  },
+  {
+    "suicidal ideas": "PROBLEM"
+  },
+  {
+    "homicidal ideas": "PROBLEM"
   },
   {
     "perception disturbances": "PROBLEM"
@@ -195,16 +192,13 @@
     "Guarded": "PROBLEM"
   },
   {
-    "family": "PROBLEM"
+    "family's request": "TREATMENT"
   },
   {
-    "treatment": "TREATMENT"
+    "hospital": "TREATMENT"
   },
   {
-    "07/21/04": "TEST"
-  },
-  {
-    "RTC (Residential Treatment Center)": "TREATMENT"
+    "RTC": "TREATMENT"
   },
   {
     "cardiologist": "PROBLEM"
@@ -219,7 +213,10 @@
     "lab results": "TEST"
   },
   {
-    "physical (medical conditions)": "PROBLEM"
+    "physical": "TEST"
+  },
+  {
+    "medical conditions": "PROBLEM"
   },
   {
     "Seroquel": "DRUG"
@@ -234,13 +231,13 @@
     "Benadryl": "DRUG"
   },
   {
-    "q.": "TEST"
+    "p.r.n.": "TREATMENT"
   },
   {
-    "6h p.r.n.": "TEST"
+    "anxiety": "PROBLEM"
   },
   {
-    "anxiety or agitation": "PROBLEM"
+    "agitation": "PROBLEM"
   },
   {
     "Wellbutrin XL": "DRUG"
@@ -252,7 +249,7 @@
     "vitamin E": "DRUG"
   },
   {
-    "q.d.": "TEST"
+    "q.d.": "TREATMENT"
   },
   {
     "Restoril": "DRUG"
@@ -264,6 +261,9 @@
     "anxiety": "PROBLEM"
   },
   {
+    "pills": "DRUG"
+  },
+  {
     "galactorrhea": "PROBLEM"
   },
   {
@@ -274,21 +274,6 @@
   },
   {
     "Risperdal": "DRUG"
-  },
-  {
-    "patient": "PROBLEM"
-  },
-  {
-    "legal guardian": "PROBLEM"
-  },
-  {
-    "therapist": "TEST"
-  },
-  {
-    "nursing staff": "TEST"
-  },
-  {
-    "psychiatric": "PROBLEM"
   },
   {
     "depression": "PROBLEM"
@@ -303,10 +288,10 @@
     "psychosocial stressors": "PROBLEM"
   },
   {
-    "rtc": "TEST"
+    "rtc": "TREATMENT"
   },
   {
-    "residential treatment center": "TEST"
+    "residential treatment center": "TREATMENT"
   },
   {
     "anxious": "PROBLEM"
@@ -321,10 +306,7 @@
     "sleep-deprived eeg": "TEST"
   },
   {
-    "legal guardian": "TEST"
-  },
-  {
-    "discharge": "TREATMENT"
+    "legal guardian": "TREATMENT"
   },
   {
     "oriented": "TEST"

@@ -1,0 +1,23 @@
+[
+  {
+    "wheezing": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "asthma": "PROBLEM"
+  },
+  {
+    "bronchodilator": "TREATMENT"
+  },
+  {
+    "prednisolone": "DRUG"
+  },
+  {
+    "steroids": "TREATMENT"
+  }
+]

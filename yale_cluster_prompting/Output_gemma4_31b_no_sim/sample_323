@@ -1,6 +1,6 @@
 [
   {
-    "FEMALE PHYSICAL EXAMINATION": "TEST"
+    "Pupils equal, round and reactive to light and accommodation": "TEST"
   },
   {
     "Extraocular movements": "TEST"
@@ -24,10 +24,13 @@
     "thyromegaly": "PROBLEM"
   },
   {
-    "Carotids": "TEST"
+    "Carotids are silent": "PROBLEM"
   },
   {
     "jugular venous distention": "PROBLEM"
+  },
+  {
+    "auscultation": "TEST"
   },
   {
     "S3": "PROBLEM"
@@ -45,6 +48,12 @@
     "Peripheral pulses": "TEST"
   },
   {
+    "nontender": "PROBLEM"
+  },
+  {
+    "nondistended": "PROBLEM"
+  },
+  {
     "bowel sounds": "TEST"
   },
   {
@@ -55,9 +64,6 @@
   },
   {
     "splenomegaly": "PROBLEM"
-  },
-  {
-    "GU": "TEST"
   },
   {
     "Speculum exam": "TEST"
@@ -75,6 +81,9 @@
     "Rectal Exam": "TEST"
   },
   {
+    "rectal tone": "PROBLEM"
+  },
+  {
     "masses": "PROBLEM"
   },
   {
@@ -88,9 +97,6 @@
   },
   {
     "edema": "PROBLEM"
-  },
-  {
-    "Joint Exam": "TEST"
   },
   {
     "tenosynovitis": "PROBLEM"
@@ -154,6 +160,9 @@
   },
   {
     "lymphadenopathy": "PROBLEM"
+  },
+  {
+    "neck": "TEST"
   },
   {
     "neurologic": "TEST"

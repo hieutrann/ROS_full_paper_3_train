@@ -45,6 +45,9 @@
     "paroxysmal nocturnal dyspnea": "PROBLEM"
   },
   {
+    "chest pain with exertion": "PROBLEM"
+  },
+  {
     "cough": "PROBLEM"
   },
   {
@@ -133,8 +136,5 @@
   },
   {
     "headaches": "PROBLEM"
-  },
-  {
-    "REVIEW OF SYSTEMS": "TEST"
   }
 ]

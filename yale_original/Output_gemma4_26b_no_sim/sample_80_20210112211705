@@ -48,6 +48,9 @@
     "pathologic analysis": "TEST"
   },
   {
+    "vitals": "TEST"
+  },
+  {
     "H&H": "TEST"
   },
   {
@@ -70,5 +73,8 @@
   },
   {
     "vaginal hysterectomy": "TREATMENT"
+  },
+  {
+    "hysterectomy": "TREATMENT"
   }
 ]

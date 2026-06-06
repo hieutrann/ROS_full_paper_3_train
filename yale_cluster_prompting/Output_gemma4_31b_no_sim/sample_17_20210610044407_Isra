@@ -18,7 +18,7 @@
     "swelling of the right hand": "PROBLEM"
   },
   {
-    "swelling of the left foot": "PROBLEM"
+    "left foot": "PROBLEM"
   },
   {
     "chronic kidney disease , stage 4": "PROBLEM"
@@ -39,7 +39,7 @@
     "swelling of the right hand": "PROBLEM"
   },
   {
-    "swelling of the left foot": "PROBLEM"
+    "left foot": "PROBLEM"
   },
   {
     "right hand was very swollen": "PROBLEM"
@@ -159,7 +159,7 @@
     "hematuria": "PROBLEM"
   },
   {
-    "urine output was decreased considerably": "PROBLEM"
+    "urine output was decreased": "PROBLEM"
   },
   {
     "could not urinate": "PROBLEM"
@@ -183,9 +183,6 @@
     "paroxysmal nocturnal dyspnea": "PROBLEM"
   },
   {
-    "acute distress": "PROBLEM"
-  },
-  {
     "Blood pressure": "TEST"
   },
   {
@@ -198,9 +195,6 @@
     "respirations": "TEST"
   },
   {
-    "weight": "TEST"
-  },
-  {
     "JVD": "PROBLEM"
   },
   {
@@ -210,13 +204,19 @@
     "retractions": "PROBLEM"
   },
   {
+    "Clear": "PROBLEM"
+  },
+  {
+    "RRR": "PROBLEM"
+  },
+  {
     "murmur": "PROBLEM"
   },
   {
     "Obese": "PROBLEM"
   },
   {
-    "rebound": "PROBLEM"
+    "No rebound": "PROBLEM"
   },
   {
     "guarding": "PROBLEM"
@@ -225,10 +225,19 @@
     "pretibial edema": "PROBLEM"
   },
   {
-    "swollen": "PROBLEM"
+    "left foot": "PROBLEM"
   },
   {
-    "tender": "PROBLEM"
+    "dorsum of left foot": "PROBLEM"
+  },
+  {
+    "right hand is swollen": "PROBLEM"
+  },
+  {
+    "very tender to move the toes": "PROBLEM"
+  },
+  {
+    "fingers in those extremities": "PROBLEM"
   },
   {
     "urine culture": "TEST"
@@ -282,16 +291,16 @@
     "Urinalysis": "TEST"
   },
   {
-    "white cells": "PROBLEM"
+    "15 to 20 white cells": "PROBLEM"
   },
   {
-    "protein": "PROBLEM"
+    "3+ protein": "PROBLEM"
   },
   {
-    "blood": "PROBLEM"
+    "3+ blood": "PROBLEM"
   },
   {
-    "red blood cells": "PROBLEM"
+    "25 to 30 red blood cells": "PROBLEM"
   },
   {
     "Urinary tract infection": "PROBLEM"
@@ -318,7 +327,7 @@
     "PTA": "TREATMENT"
   },
   {
-    "Chronic kidney disease , stage 4.": "PROBLEM"
+    "Chronic kidney disease , stage 4": "PROBLEM"
   },
   {
     "allopurinol": "DRUG"

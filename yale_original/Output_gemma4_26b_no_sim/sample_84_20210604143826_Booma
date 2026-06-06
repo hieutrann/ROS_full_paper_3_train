@@ -39,7 +39,10 @@
     "rubella immune": "TEST"
   },
   {
-    "RPR nonreactive": "TEST"
+    "RPR": "TEST"
+  },
+  {
+    "nonreactive": "TEST"
   },
   {
     "Baby": "PROBLEM"
@@ -78,6 +81,9 @@
     "gentamicin": "DRUG"
   },
   {
+    "room air": "TREATMENT"
+  },
+  {
     "feeding issues": "PROBLEM"
   },
   {
@@ -108,6 +114,9 @@
     "OG tube": "TREATMENT"
   },
   {
+    "feeds": "TREATMENT"
+  },
+  {
     "EBM": "TREATMENT"
   },
   {
@@ -123,10 +132,19 @@
     "prematurity": "PROBLEM"
   },
   {
-    "ex-34-week preemie": "PROBLEM"
+    "preemie": "PROBLEM"
+  },
+  {
+    "CPR teaching": "TREATMENT"
   },
   {
     "NeoSure": "DRUG"
+  },
+  {
+    "gestation": "PROBLEM"
+  },
+  {
+    "preemie": "PROBLEM"
   },
   {
     "prematurity": "PROBLEM"

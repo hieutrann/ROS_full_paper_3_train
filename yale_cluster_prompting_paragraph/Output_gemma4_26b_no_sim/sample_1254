@@ -1,0 +1,68 @@
+[
+  {
+    "Abscess": "PROBLEM"
+  },
+  {
+    "Cellulitis": "PROBLEM"
+  },
+  {
+    "Incision and drainage": "TREATMENT"
+  },
+  {
+    "culture and sensitivity": "TEST"
+  },
+  {
+    "Abscess with cellulitis": "PROBLEM"
+  },
+  {
+    "Ancef": "DRUG"
+  },
+  {
+    "ACCUTANE": "DRUG"
+  },
+  {
+    "pedal pulses": "TEST"
+  },
+  {
+    "Capillary refill time": "TEST"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "tenderness": "PROBLEM"
+  },
+  {
+    "White blood cell count": "TEST"
+  },
+  {
+    "X-ray": "TEST"
+  },
+  {
+    "osteomyelitis": "PROBLEM"
+  },
+  {
+    "vancomycin": "DRUG"
+  },
+  {
+    "Ancef": "DRUG"
+  },
+  {
+    "Aquacel Ag": "TREATMENT"
+  },
+  {
+    "dry dressing": "TREATMENT"
+  },
+  {
+    "Lorcet": "DRUG"
+  },
+  {
+    "Ancef": "DRUG"
+  },
+  {
+    "wound care": "TREATMENT"
+  }
+]

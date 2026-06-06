@@ -1,12 +1,9 @@
 [
   {
-    "heroin": "DRUG"
+    "heroin": "PROBLEM"
   },
   {
-    "cocaine": "DRUG"
-  },
-  {
-    "alcohol abuse": "PROBLEM"
+    "cocaine": "PROBLEM"
   },
   {
     "heroin abuse": "PROBLEM"
@@ -18,13 +15,7 @@
     "heroin abuse": "PROBLEM"
   },
   {
-    "heroin": "DRUG"
-  },
-  {
-    "cocaine": "DRUG"
-  },
-  {
-    "alcohol abuse": "PROBLEM"
+    "cocaine": "PROBLEM"
   },
   {
     "heroin abuse": "PROBLEM"
@@ -33,25 +24,19 @@
     "chronic pain": "PROBLEM"
   },
   {
-    "stab wounds": "PROBLEM"
-  },
-  {
-    "gunshot wounds": "PROBLEM"
+    "chronic pain": "PROBLEM"
   },
   {
     "heroin": "DRUG"
-  },
-  {
-    "chronic pain": "PROBLEM"
   },
   {
     "ABC": "TREATMENT"
   },
   {
-    "heroin": "DRUG"
+    "heroin": "PROBLEM"
   },
   {
-    "cocaine": "DRUG"
+    "cocaine": "PROBLEM"
   },
   {
     "headache": "PROBLEM"
@@ -87,10 +72,10 @@
     "alcohol abuse": "PROBLEM"
   },
   {
-    "cocaine": "DRUG"
+    "cocaine": "PROBLEM"
   },
   {
-    "FAMILY HISTORY": "TEST"
+    "Noncontributory": "PROBLEM"
   },
   {
     "analgesics": "DRUG"
@@ -108,10 +93,7 @@
     "codeine": "DRUG"
   },
   {
-    "ALLERGIES": "PROBLEM"
-  },
-  {
-    "VITAL SIGNS": "TEST"
+    "NONE": "PROBLEM"
   },
   {
     "afebrile": "TEST"
@@ -129,28 +111,10 @@
     "jittery": "PROBLEM"
   },
   {
-    "alert": "PROBLEM"
-  },
-  {
-    "oriented": "PROBLEM"
-  },
-  {
-    "person": "PROBLEM"
-  },
-  {
-    "place": "PROBLEM"
-  },
-  {
-    "time": "PROBLEM"
-  },
-  {
-    "situation": "PROBLEM"
-  },
-  {
     "HEENT": "TEST"
   },
   {
-    "pupils": "PROBLEM"
+    "pupils": "TEST"
   },
   {
     "Extraoculars": "TEST"
@@ -159,19 +123,16 @@
     "oropharynx": "PROBLEM"
   },
   {
-    "NECK": "TEST"
+    "NECK": "PROBLEM"
   },
   {
     "trachea": "PROBLEM"
   },
   {
-    "LUNGS": "TEST"
+    "LUNGS": "PROBLEM"
   },
   {
     "wheezing": "PROBLEM"
-  },
-  {
-    "breath sounds": "TEST"
   },
   {
     "rales": "PROBLEM"
@@ -183,10 +144,10 @@
     "cough": "PROBLEM"
   },
   {
-    "CARDIAC": "TEST"
+    "murmur": "PROBLEM"
   },
   {
-    "ABDOMEN": "TEST"
+    "ABDOMEN": "PROBLEM"
   },
   {
     "track marks": "PROBLEM"
@@ -204,10 +165,10 @@
     "MEDICAL EXAMINATION": "TEST"
   },
   {
-    "HEROIN": "DRUG"
+    "HEROIN": "PROBLEM"
   },
   {
-    "XYZ": "TREATMENT"
+    "XYZ": "TEST"
   },
   {
     "clonidine": "DRUG"
@@ -216,39 +177,27 @@
     "Phenergan": "DRUG"
   },
   {
-    "symptomatic relief": "PROBLEM"
-  },
-  {
-    "workup": "TEST"
-  },
-  {
     "stable condition": "PROBLEM"
-  },
-  {
-    "phenergan": "DRUG"
-  },
-  {
-    "heroin": "PROBLEM"
-  },
-  {
-    "alcohol abuse": "PROBLEM"
   },
   {
     "heroin abuse": "PROBLEM"
   },
   {
+    "heroin": "DRUG"
+  },
+  {
+    "alcohol abuse": "PROBLEM"
+  },
+  {
+    "alcohol": "DRUG"
+  },
+  {
+    "cocaine": "DRUG"
+  },
+  {
+    "phenergan": "DRUG"
+  },
+  {
     "detox": "TREATMENT"
-  },
-  {
-    "heroin": "PROBLEM"
-  },
-  {
-    "alcohol": "PROBLEM"
-  },
-  {
-    "cocaine": "PROBLEM"
-  },
-  {
-    "abuse": "PROBLEM"
   }
 ]

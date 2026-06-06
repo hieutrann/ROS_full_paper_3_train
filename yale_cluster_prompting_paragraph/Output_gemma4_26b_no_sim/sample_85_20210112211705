@@ -18,24 +18,6 @@
     "sick sinus syndrome": "PROBLEM"
   },
   {
-    "Bradycardia": "PROBLEM"
-  },
-  {
-    "Dizziness": "PROBLEM"
-  },
-  {
-    "Diabetes": "PROBLEM"
-  },
-  {
-    "Hypertension": "PROBLEM"
-  },
-  {
-    "Abdominal pain": "PROBLEM"
-  },
-  {
-    "Sick sinus syndrome": "PROBLEM"
-  },
-  {
     "Permanent pacemaker placement": "TREATMENT"
   },
   {
@@ -51,10 +33,7 @@
     "telemetry readings": "TEST"
   },
   {
-    "sinus rhythm": "PROBLEM"
-  },
-  {
-    "severe bradycardias": "PROBLEM"
+    "bradycardias": "PROBLEM"
   },
   {
     "sick sinus syndrome": "PROBLEM"
@@ -63,16 +42,7 @@
     "Permanent pacemaker": "TREATMENT"
   },
   {
-    "right atrium appendage and right ventricular apex electrode placement": "TREATMENT"
-  },
-  {
-    "Medtronic pacemaker": "TREATMENT"
-  },
-  {
-    "pain in the left side of the chest": "PROBLEM"
-  },
-  {
-    "Right femoral artery catheter": "TREATMENT"
+    "pain": "PROBLEM"
   },
   {
     "hematoma": "PROBLEM"
@@ -151,9 +121,6 @@
   },
   {
     "Tylenol": "DRUG"
-  },
-  {
-    "pain": "PROBLEM"
   },
   {
     "cefazolin": "DRUG"

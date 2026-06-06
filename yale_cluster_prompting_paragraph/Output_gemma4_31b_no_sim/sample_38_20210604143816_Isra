@@ -99,13 +99,13 @@
     "Urinalysis": "TEST"
   },
   {
-    "ketones": "TEST"
+    "ketones": "PROBLEM"
   },
   {
     "Specific gravity": "TEST"
   },
   {
-    "protein": "TEST"
+    "protein": "PROBLEM"
   },
   {
     "Sodium": "TEST"
@@ -159,10 +159,19 @@
     "IV fluids": "TREATMENT"
   },
   {
+    "weight loss": "PROBLEM"
+  },
+  {
     "blood pressure": "TEST"
   },
   {
     "hypertension": "PROBLEM"
+  },
+  {
+    "weight loss": "PROBLEM"
+  },
+  {
+    "Adderall": "DRUG"
   },
   {
     "Adderall": "DRUG"

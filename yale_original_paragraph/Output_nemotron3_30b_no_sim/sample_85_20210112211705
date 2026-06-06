@@ -1,0 +1,32 @@
+[
+  {
+    "Bradycardia": "PROBLEM"
+  },
+  {
+    "dizziness": "PROBLEM"
+  },
+  {
+    "diabetes": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "sick sinus syndrome": "PROBLEM"
+  },
+  {
+    "Permanent pacemaker": "TREATMENT"
+  },
+  {
+    "benazepril": "DRUG"
+  },
+  {
+    "Norvasc": "DRUG"
+  },
+  {
+    "Cefazolin": "DRUG"
+  }
+]

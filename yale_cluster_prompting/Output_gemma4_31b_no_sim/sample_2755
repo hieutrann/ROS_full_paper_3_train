@@ -33,9 +33,6 @@
     "itchy": "PROBLEM"
   },
   {
-    "chronic medical problems": "PROBLEM"
-  },
-  {
     "back surgery": "TREATMENT"
   },
   {
@@ -45,7 +42,10 @@
     "oropharyngeal swelling": "PROBLEM"
   },
   {
-    "lip or tongue swelling": "PROBLEM"
+    "lip swelling": "PROBLEM"
+  },
+  {
+    "tongue swelling": "PROBLEM"
   },
   {
     "wheezing": "PROBLEM"
@@ -75,12 +75,6 @@
     "AMPICILLIN": "DRUG"
   },
   {
-    "PHYSICAL EXAMINATION": "TEST"
-  },
-  {
-    "VITAL SIGNS": "TEST"
-  },
-  {
     "afebrile": "PROBLEM"
   },
   {
@@ -93,13 +87,10 @@
     "respiratory rate": "TEST"
   },
   {
-    "distress": "PROBLEM"
-  },
-  {
     "stridor": "PROBLEM"
   },
   {
-    "LUNGS": "TEST"
+    "breath sounds": "TEST"
   },
   {
     "wheezing": "PROBLEM"
@@ -111,7 +102,7 @@
     "Slight tachycardia": "PROBLEM"
   },
   {
-    "confluence erythematous, blanching rash": "PROBLEM"
+    "erythematous, blanching rash": "PROBLEM"
   },
   {
     "blotchy papular, macular rash": "PROBLEM"

@@ -1,122 +1,104 @@
 [
   {
+    "erythema": "PROBLEM"
+  },
+  {
+    "exudate": "PROBLEM"
+  },
+  {
+    "lymphadenopathy": "PROBLEM"
+  },
+  {
+    "thyromegaly": "PROBLEM"
+  },
+  {
+    "jugular venous distention": "PROBLEM"
+  },
+  {
+    "S3": "PROBLEM"
+  },
+  {
+    "S4": "PROBLEM"
+  },
+  {
+    "murmurs": "PROBLEM"
+  },
+  {
+    "rubs": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "hepatomegaly": "PROBLEM"
+  },
+  {
+    "splenomegaly": "PROBLEM"
+  },
+  {
+    "cervical motion tenderness": "PROBLEM"
+  },
+  {
+    "clubbing": "PROBLEM"
+  },
+  {
+    "cyanosis": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "tenosynovitis": "PROBLEM"
+  },
+  {
+    "lumps": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "skin changes": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "rashes": "PROBLEM"
+  },
+  {
     "HEENT": "TEST"
   },
   {
     "TMs": "TEST"
   },
   {
-    "Oropharynx": "TEST"
-  },
-  {
-    "Neck": "TEST"
-  },
-  {
-    "Carotids": "TEST"
-  },
-  {
-    "Chest": "TEST"
-  },
-  {
-    "Cardiovascular": "TEST"
-  },
-  {
-    "Abdomen": "TEST"
-  },
-  {
-    "GU": "TEST"
-  },
-  {
-    "Speculum exam": "TEST"
-  },
-  {
-    "Bimanual exam": "TEST"
-  },
-  {
-    "Rectal Exam": "TEST"
-  },
-  {
-    "Hemoccult": "TEST"
-  },
-  {
-    "Extremities": "TEST"
-  },
-  {
-    "Joint Exam": "TEST"
-  },
-  {
-    "Integumentary": "TEST"
-  },
-  {
-    "Neurologic": "TEST"
-  },
-  {
-    "Psychiatric": "TEST"
-  },
-  {
-    "Dermatologic": "TEST"
+    "hemoccult": "TEST"
   },
   {
     "bimanual exam": "TEST"
   },
   {
-    "heent": "TEST"
+    "Deep tendon reflexes": "TEST"
   },
   {
-    "hemoccult": "TEST"
+    "Cranial nerves": "TEST"
   },
   {
-    "ii through xii": "TEST"
+    "motor strength": "TEST"
   },
   {
-    "breast tissue": "TEST"
-  },
-  {
-    "cardiovascular": "TEST"
-  },
-  {
-    "dermatologic": "TEST"
-  },
-  {
-    "external genitalia": "TEST"
-  },
-  {
-    "integumentary": "TEST"
-  },
-  {
-    "joint exam": "TEST"
-  },
-  {
-    "lymphadenopathy": "PROBLEM"
-  },
-  {
-    "neck": "TEST"
-  },
-  {
-    "neurologic": "TEST"
-  },
-  {
-    "physical examination": "TEST"
-  },
-  {
-    "rectal exam": "TEST"
-  },
-  {
-    "skin changes": "PROBLEM"
+    "Deep tendon reflexes": "TEST"
   },
   {
     "speculum exam": "TEST"
   },
   {
-    "female physical": "TEST"
+    "bimanual exam": "TEST"
   },
   {
-    "extremities": "TEST"
+    "rectal exam": "TEST"
   },
   {
-    "masses": "PROBLEM"
-  },
-  {
-    "oropharynx": "TEST"
+    "joint exam": "TEST"
   }
 ]

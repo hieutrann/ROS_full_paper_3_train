@@ -33,15 +33,6 @@
     "cholelithiasis": "PROBLEM"
   },
   {
-    "diabetes": "PROBLEM"
-  },
-  {
-    "infection": "PROBLEM"
-  },
-  {
-    "blood glucose check": "TEST"
-  },
-  {
     "hyperglycemic": "PROBLEM"
   },
   {
@@ -82,6 +73,9 @@
   },
   {
     "laparoscopic cholecystectomy": "TREATMENT"
+  },
+  {
+    "medifast diet": "TREATMENT"
   },
   {
     "cholecystitis": "PROBLEM"

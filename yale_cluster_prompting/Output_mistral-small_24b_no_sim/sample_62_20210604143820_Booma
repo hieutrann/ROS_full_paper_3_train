@@ -21,6 +21,9 @@
     "feeling faint": "PROBLEM"
   },
   {
+    "74-year-old": "PROBLEM"
+  },
+  {
     "appetite": "PROBLEM"
   },
   {
@@ -99,16 +102,13 @@
     "Wellbutrin SR": "DRUG"
   },
   {
-    "inhaler": "DRUG"
-  },
-  {
-    "O2": "DRUG"
+    "O2": "TREATMENT"
   },
   {
     "MORPHINE": "DRUG"
   },
   {
-    "vomiting": "PROBLEM"
+    "VOMITING": "PROBLEM"
   },
   {
     "COPD": "PROBLEM"
@@ -129,9 +129,6 @@
     "hysterectomy": "TREATMENT"
   },
   {
-    "VITAL SIGNS": "TEST"
-  },
-  {
     "Temperature": "TEST"
   },
   {
@@ -144,13 +141,25 @@
     "BP": "TEST"
   },
   {
-    "SKIN": "TEST"
-  },
-  {
     "EOMI": "TEST"
   },
   {
-    "wheeze": "PROBLEM"
+    "PERRL.": "TEST"
+  },
+  {
+    "MOUTH": "PROBLEM"
+  },
+  {
+    "mucous membranes": "TEST"
+  },
+  {
+    "NECK": "PROBLEM"
+  },
+  {
+    "JVD": "PROBLEM"
+  },
+  {
+    "expiratory wheeze": "PROBLEM"
   },
   {
     "tachycardic": "PROBLEM"
@@ -159,34 +168,25 @@
     "bowel sounds": "TEST"
   },
   {
-    "CVA tenderness": "PROBLEM"
+    "rebound": "TEST"
   },
   {
-    "EXTREMITIES": "TEST"
+    "guarding": "TEST"
+  },
+  {
+    "CVA tenderness": "PROBLEM"
   },
   {
     "pretibial edema": "PROBLEM"
   },
   {
-    "NEURO": "TEST"
+    "Cranial nerves": "TEST"
   },
   {
     "WBC": "TEST"
   },
   {
     "differential": "TEST"
-  },
-  {
-    "neutrophils": "TEST"
-  },
-  {
-    "lymphocytes": "TEST"
-  },
-  {
-    "monocytes": "TEST"
-  },
-  {
-    "eosinophils": "TEST"
   },
   {
     "Hemoglobin": "TEST"
@@ -231,40 +231,28 @@
     "anemia": "PROBLEM"
   },
   {
-    "RADIOLOGY STUDIES": "TEST"
-  },
-  {
     "Chest x-ray": "TEST"
-  },
-  {
-    "chronic changes": "PROBLEM"
   },
   {
     "COPD": "PROBLEM"
   },
   {
-    "O2 sat": "TEST"
-  },
-  {
     "sinus tachycardia": "PROBLEM"
   },
   {
-    "vital sign changes": "TEST"
+    "orthostatic vital sign changes": "PROBLEM"
   },
   {
     "albuterol": "DRUG"
   },
   {
-    "unit dose small volume nebulizer treatment": "TREATMENT"
+    "small volume nebulizer": "TREATMENT"
   },
   {
     "expiratory wheezing": "PROBLEM"
   },
   {
-    "lung exam": "TEST"
-  },
-  {
-    "saline": "DRUG"
+    "normal saline lock": "TREATMENT"
   },
   {
     "IV fluids": "TREATMENT"
@@ -276,13 +264,16 @@
     "urine": "TEST"
   },
   {
+    "sphincter tone": "TEST"
+  },
+  {
     "rectal secretions": "TEST"
   },
   {
     "better": "PROBLEM"
   },
   {
-    "sinus rhythm": "TEST"
+    "normal sinus rhythm": "PROBLEM"
   },
   {
     "ectopy": "PROBLEM"
@@ -295,9 +286,6 @@
   },
   {
     "hyponatremia": "PROBLEM"
-  },
-  {
-    "Laboratory evaluation": "TEST"
   },
   {
     "tiredness": "PROBLEM"
@@ -322,9 +310,6 @@
   },
   {
     "anemia": "PROBLEM"
-  },
-  {
-    "condition": "PROBLEM"
   },
   {
     "fever": "PROBLEM"
@@ -385,9 +370,6 @@
   },
   {
     "feeling faint": "PROBLEM"
-  },
-  {
-    "saline lock": "TREATMENT"
   },
   {
     "edema": "PROBLEM"

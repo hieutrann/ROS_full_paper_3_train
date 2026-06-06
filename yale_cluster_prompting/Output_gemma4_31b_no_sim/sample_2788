@@ -18,10 +18,7 @@
     "degenerative joint disease": "PROBLEM"
   },
   {
-    "transfused": "TREATMENT"
-  },
-  {
-    "autologous blood": "DRUG"
+    "transfused with 2 units of autologous blood": "TREATMENT"
   },
   {
     "DVT prophylaxis": "TREATMENT"
@@ -37,12 +34,6 @@
   },
   {
     "TED stockings": "TREATMENT"
-  },
-  {
-    "rehabilitation": "TREATMENT"
-  },
-  {
-    "bowel movement": "PROBLEM"
   },
   {
     "dysuria": "PROBLEM"
@@ -72,7 +63,7 @@
     "anxiety disorder": "PROBLEM"
   },
   {
-    "Morton neuroma of her feet bilaterally": "PROBLEM"
+    "Morton neuroma": "PROBLEM"
   },
   {
     "migraine headaches": "PROBLEM"
@@ -105,22 +96,13 @@
     "trazodone": "DRUG"
   },
   {
-    "Temperature": "TEST"
-  },
-  {
-    "blood pressure": "TEST"
-  },
-  {
-    "pulse": "TEST"
-  },
-  {
-    "respiratory rate": "TEST"
-  },
-  {
-    "O2 saturation": "TEST"
-  },
-  {
     "right knee pain": "PROBLEM"
+  },
+  {
+    "Sclerae nonicteric": "PROBLEM"
+  },
+  {
+    "EOMI": "PROBLEM"
   },
   {
     "thrush": "PROBLEM"
@@ -129,13 +111,16 @@
     "thyroid enlargement": "PROBLEM"
   },
   {
-    "Regular rate and rhythm": "PROBLEM"
+    "Clear to auscultation": "PROBLEM"
+  },
+  {
+    "Normal S1 and S2": "PROBLEM"
   },
   {
     "organomegaly": "PROBLEM"
   },
   {
-    "right knee incision": "TREATMENT"
+    "right knee incision": "PROBLEM"
   },
   {
     "Steri-Strips": "TREATMENT"
@@ -156,9 +141,6 @@
     "anxious": "PROBLEM"
   },
   {
-    "rehabilitation": "TREATMENT"
-  },
-  {
     "Physical Therapy": "TREATMENT"
   },
   {
@@ -177,7 +159,7 @@
     "CPM": "TREATMENT"
   },
   {
-    "increased right knee pain": "PROBLEM"
+    "right knee pain": "PROBLEM"
   },
   {
     "pain management": "TREATMENT"
@@ -222,7 +204,7 @@
     "oxycodone SR": "DRUG"
   },
   {
-    "pain control": "PROBLEM"
+    "pain": "PROBLEM"
   },
   {
     "Percocet": "DRUG"
@@ -294,9 +276,6 @@
     "chemistries": "TEST"
   },
   {
-    "therapies": "TREATMENT"
-  },
-  {
     "right total knee replacement": "TREATMENT"
   },
   {
@@ -357,7 +336,7 @@
     "oxycodone SR": "DRUG"
   },
   {
-    "Percocet": "DRUG"
+    "Percocet 5/325 mg": "DRUG"
   },
   {
     "breakthrough pain": "PROBLEM"
@@ -384,7 +363,7 @@
     "Coumadin": "DRUG"
   },
   {
-    "INR": "TEST"
+    "An INR": "TEST"
   },
   {
     "Coumadin": "DRUG"
@@ -400,6 +379,9 @@
   },
   {
     "decreased ability": "PROBLEM"
+  },
+  {
+    "daily living activities": "PROBLEM"
   },
   {
     "knee surgery": "TREATMENT"

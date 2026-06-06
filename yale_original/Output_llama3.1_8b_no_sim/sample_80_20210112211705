@@ -3,19 +3,16 @@
     "hysterectomy": "TREATMENT"
   },
   {
-    "ADMISSION DIAGNOSES": "PROBLEM"
-  },
-  {
     "Menorrhagia": "PROBLEM"
   },
   {
-    "2": "TEST"
+    "2": "TREATMENT"
   },
   {
     "Uterus enlargement": "PROBLEM"
   },
   {
-    "3": "PROBLEM"
+    "3": "TREATMENT"
   },
   {
     "Pelvic pain": "PROBLEM"
@@ -57,13 +54,13 @@
     "total vaginal hysterectomy": "TREATMENT"
   },
   {
-    "procedure": "TREATMENT"
+    "complication": "PROBLEM"
   },
   {
-    "Uterus": "PROBLEM"
+    "pathologic analysis": "TEST"
   },
   {
-    "hospital": "PROBLEM"
+    "hospital": "TREATMENT"
   },
   {
     "vitals": "TEST"
@@ -73,9 +70,6 @@
   },
   {
     "Hematocrit": "TEST"
-  },
-  {
-    "Monday": "TEST"
   },
   {
     "LABORATORY FINDINGS": "TEST"
@@ -103,5 +97,8 @@
   },
   {
     "hysterectomy": "TREATMENT"
+  },
+  {
+    "vaginal": "TEST"
   }
 ]

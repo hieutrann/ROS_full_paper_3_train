@@ -60,7 +60,7 @@
     "malignancy": "PROBLEM"
   },
   {
-    "liver function tests": "TEST"
+    "Elevated liver function tests": "TEST"
   },
   {
     "right hip pain": "PROBLEM"
@@ -105,13 +105,13 @@
     "left large pleural effusion": "PROBLEM"
   },
   {
-    "shortness of breath": "PROBLEM"
+    "severe shortness of breath": "PROBLEM"
   },
   {
     "chest pain": "PROBLEM"
   },
   {
-    "left-sided chest tube": "TREATMENT"
+    "left-sided chest tube was inserted": "TREATMENT"
   },
   {
     "pleural effusion": "PROBLEM"
@@ -163,17 +163,5 @@
   },
   {
     "extubated": "TREATMENT"
-  },
-  {
-    "dnr": "TREATMENT"
-  },
-  {
-    "extubated": "TREATMENT"
-  },
-  {
-    "lung carcinoma": "PROBLEM"
-  },
-  {
-    "pleural effusion": "PROBLEM"
   }
 ]

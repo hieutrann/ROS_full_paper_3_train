@@ -6,6 +6,9 @@
     "C5-6 Disk Herniation": "PROBLEM"
   },
   {
+    "MRI C-spine": "TEST"
+  },
+  {
     "right shoulder pain": "PROBLEM"
   },
   {
@@ -15,10 +18,13 @@
     "Right shoulder pain": "PROBLEM"
   },
   {
-    "right neck and shoulder stiffness and pain": "PROBLEM"
+    "right neck and shoulder stiffness": "PROBLEM"
   },
   {
-    "numbness in the first and second fingers of her right hand": "PROBLEM"
+    "pain": "PROBLEM"
+  },
+  {
+    "numbness": "PROBLEM"
   },
   {
     "RUE pain": "PROBLEM"
@@ -33,9 +39,6 @@
     "pain in the coccygeal region": "PROBLEM"
   },
   {
-    "electric shock like sensation shooting down her spine": "PROBLEM"
-  },
-  {
     "Lhermitte's phenomena": "PROBLEM"
   },
   {
@@ -45,10 +48,16 @@
     "Catamenial Headaches": "PROBLEM"
   },
   {
+    "Allergy": "PROBLEM"
+  },
+  {
     "Macrodantin": "DRUG"
   },
   {
     "LT/PP/VIB/TEMP/PROP testing": "TEST"
+  },
+  {
+    "Reflexes": "TEST"
   },
   {
     "absent right ankle reflex": "PROBLEM"
@@ -66,7 +75,7 @@
     "EMG/NCV": "TEST"
   },
   {
-    "1+ sharps and fibrillations": "PROBLEM"
+    "fibrillations": "PROBLEM"
   },
   {
     "C6-7 radiculopathy": "PROBLEM"

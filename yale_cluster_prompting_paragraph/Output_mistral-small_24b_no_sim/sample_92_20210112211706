@@ -1,15 +1,21 @@
 [
   {
-    "stasis ulcer": "PROBLEM"
+    "Nonhealing right ankle stasis ulcer": "PROBLEM"
   },
   {
     "hypertension": "PROBLEM"
   },
   {
-    "bipedal edema": "PROBLEM"
+    "chronic intermittent bipedal edema": "PROBLEM"
   },
   {
-    "venous ulcers": "PROBLEM"
+    "recurrent leg venous ulcers": "PROBLEM"
+  },
+  {
+    "vascular surgery": "TREATMENT"
+  },
+  {
+    "nonhealing right ankle stasis ulcer": "PROBLEM"
   },
   {
     "low-grade fever": "PROBLEM"
@@ -36,22 +42,34 @@
     "Enterobacter": "PROBLEM"
   },
   {
-    "fevers": "PROBLEM"
+    "wound center": "TREATMENT"
   },
   {
-    "right leg/ankle cellulitis": "PROBLEM"
+    "definitive surgical management": "TREATMENT"
   },
   {
-    "bilateral ankle venous ulcers": "PROBLEM"
-  },
-  {
-    "osteomyelitis": "PROBLEM"
+    "low-grade fevers": "PROBLEM"
   },
   {
     "exploratory laparotomy": "TREATMENT"
   },
   {
+    "abdominal obstruction": "PROBLEM"
+  },
+  {
     "cholecystectomy": "TREATMENT"
+  },
+  {
+    "venous insufficiency": "PROBLEM"
+  },
+  {
+    "chronic recurrent stasis ulcers": "PROBLEM"
+  },
+  {
+    "alcohol drinking": "PROBLEM"
+  },
+  {
+    "cigarette smoker": "PROBLEM"
   },
   {
     "Primaxin": "DRUG"
@@ -93,45 +111,33 @@
     "multivitamins with minerals": "DRUG"
   },
   {
-    "White blood cell count": "TEST"
-  },
-  {
-    "H&H": "TEST"
-  },
-  {
-    "platelet count": "TEST"
-  },
-  {
-    "BUN": "TEST"
-  },
-  {
-    "creatinine": "TEST"
-  },
-  {
-    "albumin": "TEST"
-  },
-  {
-    "AST": "TEST"
-  },
-  {
-    "ALT": "TEST"
-  },
-  {
-    "alk phos": "TEST"
-  },
-  {
-    "total bilirubin": "TEST"
-  },
-  {
-    "wound culture": "TEST"
-  },
-  {
     "blood cultures": "TEST"
   },
   {
-    "MRI": "TEST"
+    "MRI of the right ankle": "TEST"
   },
   {
-    "chest x-ray": "TEST"
+    "osteomyelitis": "PROBLEM"
+  },
+  {
+    "fevers": "PROBLEM"
+  },
+  {
+    "right leg/ankle cellulitis": "PROBLEM"
+  },
+  {
+    "chronic recurrent bilateral ankle venous ulcers": "PROBLEM"
+  },
+  {
+    "multiple previous wound cultures positive for Pseudomonas": "TEST"
+  },
+  {
+    "multiple previous wound cultures positive for Enterococcus": "TEST"
+  },
+  {
+    "multiple previous wound cultures positive for Stenotrophomonas": "TEST"
+  },
+  {
+    "hypertension": "PROBLEM"
   }
 ]

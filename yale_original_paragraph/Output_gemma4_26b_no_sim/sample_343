@@ -1,0 +1,245 @@
+[
+  {
+    "asthma": "PROBLEM"
+  },
+  {
+    "allergic rhinitis": "PROBLEM"
+  },
+  {
+    "complete physical": "TEST"
+  },
+  {
+    "asthma": "PROBLEM"
+  },
+  {
+    "asthma": "PROBLEM"
+  },
+  {
+    "inhaler": "TREATMENT"
+  },
+  {
+    "allergies": "PROBLEM"
+  },
+  {
+    "Allegra": "DRUG"
+  },
+  {
+    "Flonase": "DRUG"
+  },
+  {
+    "Advair": "DRUG"
+  },
+  {
+    "vaginal irritation": "PROBLEM"
+  },
+  {
+    "irritability": "PROBLEM"
+  },
+  {
+    "PMS": "PROBLEM"
+  },
+  {
+    "menstrual cycle": "TEST"
+  },
+  {
+    "menstrual cycle": "TEST"
+  },
+  {
+    "Menses": "TEST"
+  },
+  {
+    "spotting": "PROBLEM"
+  },
+  {
+    "hot flashes": "PROBLEM"
+  },
+  {
+    "night sweats": "PROBLEM"
+  },
+  {
+    "blood": "TEST"
+  },
+  {
+    "urinary tract infection": "PROBLEM"
+  },
+  {
+    "urine": "TEST"
+  },
+  {
+    "cholesterol": "TEST"
+  },
+  {
+    "fevers": "PROBLEM"
+  },
+  {
+    "headaches": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "tightness": "PROBLEM"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "heartburn": "PROBLEM"
+  },
+  {
+    "constipation": "PROBLEM"
+  },
+  {
+    "diarrhea": "PROBLEM"
+  },
+  {
+    "dysuria": "PROBLEM"
+  },
+  {
+    "stress incontinence": "PROBLEM"
+  },
+  {
+    "muscle or joint pain": "PROBLEM"
+  },
+  {
+    "polyphagia": "PROBLEM"
+  },
+  {
+    "polydipsia": "PROBLEM"
+  },
+  {
+    "polyuria": "PROBLEM"
+  },
+  {
+    "asthma": "PROBLEM"
+  },
+  {
+    "allergic rhinitis": "PROBLEM"
+  },
+  {
+    "cervical dysplasia": "PROBLEM"
+  },
+  {
+    "Proventil": "DRUG"
+  },
+  {
+    "Allegra": "DRUG"
+  },
+  {
+    "Sulfa": "DRUG"
+  },
+  {
+    "weight": "TEST"
+  },
+  {
+    "Blood pressure": "TEST"
+  },
+  {
+    "Pulse": "TEST"
+  },
+  {
+    "Temperature": "TEST"
+  },
+  {
+    "Respirations": "TEST"
+  },
+  {
+    "lymphadenopathy": "PROBLEM"
+  },
+  {
+    "thyromegaly": "PROBLEM"
+  },
+  {
+    "carotid bruit": "PROBLEM"
+  },
+  {
+    "JVD": "PROBLEM"
+  },
+  {
+    "murmur": "PROBLEM"
+  },
+  {
+    "organomegaly": "PROBLEM"
+  },
+  {
+    "cyanosis": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "vaginal discharge": "PROBLEM"
+  },
+  {
+    "Asthma": "PROBLEM"
+  },
+  {
+    "Proventil": "DRUG"
+  },
+  {
+    "Flovent": "DRUG"
+  },
+  {
+    "vaginal irritation": "PROBLEM"
+  },
+  {
+    "Advair": "DRUG"
+  },
+  {
+    "Singulair": "DRUG"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "Allergic rhinitis": "PROBLEM"
+  },
+  {
+    "Allegra": "DRUG"
+  },
+  {
+    "Flonase": "DRUG"
+  },
+  {
+    "Premenstrual dysphoric disorder": "PROBLEM"
+  },
+  {
+    "perimenopausal symptoms": "PROBLEM"
+  },
+  {
+    "fluoxetine": "DRUG"
+  },
+  {
+    "Hematuria": "PROBLEM"
+  },
+  {
+    "urinary tract infection": "PROBLEM"
+  },
+  {
+    "UA": "TEST"
+  },
+  {
+    "dysuria": "PROBLEM"
+  },
+  {
+    "Cervical dysplasia": "PROBLEM"
+  },
+  {
+    "Pap smear": "TEST"
+  },
+  {
+    "Pap smear": "TEST"
+  },
+  {
+    "screening mammogram": "TEST"
+  },
+  {
+    "calcium": "TREATMENT"
+  },
+  {
+    "vitamin D": "TREATMENT"
+  }
+]

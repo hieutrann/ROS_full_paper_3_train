@@ -36,21 +36,6 @@
     "CSF": "TEST"
   },
   {
-    "anesthesia": "DRUG"
-  },
-  {
-    "White count": "TEST"
-  },
-  {
-    "CSF glucose": "TEST"
-  },
-  {
-    "protein": "TEST"
-  },
-  {
-    "Gram-stain": "TEST"
-  },
-  {
     "febrile seizure": "PROBLEM"
   },
   {
@@ -58,11 +43,5 @@
   },
   {
     "white count": "TEST"
-  },
-  {
-    "pneumonia": "PROBLEM"
-  },
-  {
-    "seizure": "PROBLEM"
   }
 ]

@@ -114,7 +114,7 @@
     "Coarse breath sounds": "PROBLEM"
   },
   {
-    "HEART": "TEST"
+    "Regular rate and rhythm": "PROBLEM"
   },
   {
     "bowel sounds": "TEST"
@@ -133,9 +133,6 @@
   },
   {
     "edema": "PROBLEM"
-  },
-  {
-    "compromise arterial blood flow": "PROBLEM"
   },
   {
     "DIC parameters": "TEST"

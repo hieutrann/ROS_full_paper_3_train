@@ -1,8 +1,5 @@
 [
   {
-    "weight loss": "PROBLEM"
-  },
-  {
     "fevers": "PROBLEM"
   },
   {
@@ -123,10 +120,13 @@
     "hematuria": "PROBLEM"
   },
   {
-    "excessive urination": "PROBLEM"
+    "urination": "PROBLEM"
   },
   {
     "muscle weakness": "PROBLEM"
+  },
+  {
+    "muscle tenderness": "PROBLEM"
   },
   {
     "numbness": "PROBLEM"
@@ -144,13 +144,13 @@
     "rashes": "PROBLEM"
   },
   {
-    "excessive fatigability": "PROBLEM"
+    "fatigability": "PROBLEM"
   },
   {
-    "loss of motor skills": "PROBLEM"
+    "motor skills": "PROBLEM"
   },
   {
-    "loss of sensation": "PROBLEM"
+    "sensation": "PROBLEM"
   },
   {
     "hair texture": "PROBLEM"
@@ -171,10 +171,7 @@
     "headaches": "PROBLEM"
   },
   {
-    "review of systems": "PROBLEM"
-  },
-  {
-    "weight loss": "PROBLEM"
+    "review of systems": "TEST"
   },
   {
     "fevers": "PROBLEM"

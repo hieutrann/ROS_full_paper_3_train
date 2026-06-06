@@ -1,21 +1,15 @@
 [
   {
-    "severe nausea": "PROBLEM"
+    "nausea": "PROBLEM"
   },
   {
     "abdominal pain": "PROBLEM"
-  },
-  {
-    "nausea": "PROBLEM"
   },
   {
     "vomiting": "PROBLEM"
   },
   {
     "incarcerated umbilical hernia": "PROBLEM"
-  },
-  {
-    "hemorrhoidectomy": "TREATMENT"
   },
   {
     "depression": "PROBLEM"
@@ -27,7 +21,7 @@
     "Ziac": "DRUG"
   },
   {
-    "Remesser": "DRUG"
+    "Remeron": "DRUG"
   },
   {
     "obese": "PROBLEM"
@@ -69,7 +63,16 @@
     "repair with mesh": "TREATMENT"
   },
   {
-    "sinus rhythm": "PROBLEM"
+    "sinus rhythm": "TEST"
+  },
+  {
+    "prolonged qt": "PROBLEM"
+  },
+  {
+    "platelet count": "TEST"
+  },
+  {
+    "hematocrit": "TEST"
   },
   {
     "umbilical hernia": "PROBLEM"

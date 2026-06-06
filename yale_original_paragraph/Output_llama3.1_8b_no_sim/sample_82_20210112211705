@@ -1,0 +1,62 @@
+[
+  {
+    "COPD": "PROBLEM"
+  },
+  {
+    "bronchospasm": "PROBLEM"
+  },
+  {
+    "asthmatic bronchitis": "PROBLEM"
+  },
+  {
+    "asthma": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "respiratory secretions": "PROBLEM"
+  },
+  {
+    "wheezings": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "Coumadin": "DRUG"
+  },
+  {
+    "Solu-Medrol": "DRUG"
+  },
+  {
+    "Prednisone": "DRUG"
+  },
+  {
+    "Keflex": "DRUG"
+  },
+  {
+    "pneumococcal vaccination": "DRUG"
+  },
+  {
+    "chest x-ray": "TEST"
+  },
+  {
+    "laboratory studies": "TEST"
+  },
+  {
+    "intravenous antibiotics": "TREATMENT"
+  },
+  {
+    "vigorous respiratory therapy": "TREATMENT"
+  },
+  {
+    "intravenous Solu-Medrol": "TREATMENT"
+  },
+  {
+    "corticosteroids": "TREATMENT"
+  },
+  {
+    "artificial aortic valve implantation": "TREATMENT"
+  }
+]

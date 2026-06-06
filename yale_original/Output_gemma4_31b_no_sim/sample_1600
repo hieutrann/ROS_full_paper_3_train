@@ -6,7 +6,7 @@
     "Cesarean section": "TREATMENT"
   },
   {
-    "uncontrolled blood pressure": "PROBLEM"
+    "blood pressure": "TEST"
   },
   {
     "delivery": "TREATMENT"
@@ -171,16 +171,19 @@
     "blood pressure": "TEST"
   },
   {
+    "afebrile": "PROBLEM"
+  },
+  {
     "respiratory rate": "TEST"
   },
   {
     "Neck veins": "TEST"
   },
   {
-    "LUNGS": "TEST"
+    "S1": "TEST"
   },
   {
-    "S1 and S2": "TEST"
+    "S2": "TEST"
   },
   {
     "edema": "PROBLEM"
@@ -213,7 +216,7 @@
     "Cesarean section": "TREATMENT"
   },
   {
-    "uncontrolled blood pressure": "PROBLEM"
+    "blood pressure": "TEST"
   },
   {
     "cardiac disease": "PROBLEM"
@@ -225,13 +228,13 @@
     "echocardiogram": "TEST"
   },
   {
-    "left ventricular function": "PROBLEM"
-  },
-  {
     "labetalol": "DRUG"
   },
   {
     "hydralazine": "DRUG"
+  },
+  {
+    "medication": "DRUG"
   },
   {
     "cardizem": "DRUG"
@@ -267,6 +270,12 @@
     "cesarean": "TREATMENT"
   },
   {
+    "section": "TREATMENT"
+  },
+  {
     "delivery": "TREATMENT"
+  },
+  {
+    "pressure": "TEST"
   }
 ]

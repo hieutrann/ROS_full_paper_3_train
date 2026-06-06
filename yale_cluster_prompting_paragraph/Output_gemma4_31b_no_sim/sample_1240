@@ -54,9 +54,6 @@
     "Laparoscopic cholecystectomy": "TREATMENT"
   },
   {
-    "Surgery": "TREATMENT"
-  },
-  {
     "morbid obesity": "PROBLEM"
   },
   {
@@ -66,22 +63,10 @@
     "obstructive sleep apnea": "PROBLEM"
   },
   {
-    "placement of a band": "TREATMENT"
-  },
-  {
     "cholelithiasis": "PROBLEM"
   },
   {
-    "removal of her gallbladder": "TREATMENT"
-  },
-  {
-    "band placement": "TREATMENT"
-  },
-  {
     "diabetes": "PROBLEM"
-  },
-  {
-    "infection of the band": "PROBLEM"
   },
   {
     "blood glucose check": "TEST"
@@ -99,9 +84,6 @@
     "laparoscopic cholecystectomy": "TREATMENT"
   },
   {
-    "difficult intubation": "PROBLEM"
-  },
-  {
     "chronic cholecystitis": "PROBLEM"
   },
   {
@@ -114,13 +96,7 @@
     "adhesions of omentum": "PROBLEM"
   },
   {
-    "blood sugar": "TEST"
-  },
-  {
     "sliding scale insulin": "DRUG"
-  },
-  {
-    "Medifast diet": "TREATMENT"
   },
   {
     "blood glucose": "TEST"
@@ -129,25 +105,13 @@
     "lap band": "TREATMENT"
   },
   {
-    "narcotic pain medicines": "DRUG"
-  },
-  {
     "CPAP machine": "TREATMENT"
-  },
-  {
-    "sugars": "TEST"
-  },
-  {
-    "medifast": "TREATMENT"
   },
   {
     "hyperglycemia": "PROBLEM"
   },
   {
     "laparoscopic cholecystectomy": "TREATMENT"
-  },
-  {
-    "medifast diet": "TREATMENT"
   },
   {
     "cholecystitis": "PROBLEM"

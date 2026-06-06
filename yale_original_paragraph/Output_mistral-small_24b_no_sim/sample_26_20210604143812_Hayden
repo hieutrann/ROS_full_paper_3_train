@@ -1,26 +1,35 @@
 [
   {
-    "Cognitive linguistic impairment": "PROBLEM"
-  },
-  {
     "stroke": "PROBLEM"
   },
   {
     "speech therapy": "TREATMENT"
   },
   {
+    "cognitive linguistic deficits": "PROBLEM"
+  },
+  {
     "skilled speech therapy": "TREATMENT"
   },
   {
-    "linguistic deficits": "PROBLEM"
+    "cognitive linguistic impairment": "PROBLEM"
   },
   {
-    "cognitive linguistic": "PROBLEM"
+    "cognitive linguistic abilities": "PROBLEM"
   },
   {
-    "cognitive": "PROBLEM"
+    "functional mass tasks": "TEST"
   },
   {
-    "linguistic": "PROBLEM"
+    "narrative": "TEST"
+  },
+  {
+    "newspaper article": "TEST"
+  },
+  {
+    "deductive reasoning tasks": "TEST"
+  },
+  {
+    "functional cognitive linguistic abilities": "PROBLEM"
   }
 ]

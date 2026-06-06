@@ -51,16 +51,10 @@
     "alcohol abuse": "PROBLEM"
   },
   {
-    "VITAL SIGNS": "TEST"
-  },
-  {
     "obtunded": "PROBLEM"
   },
   {
     "Bilaterally diminished": "PROBLEM"
-  },
-  {
-    "LABORATORY STUDIES": "TEST"
   },
   {
     "white blood cell count": "TEST"
@@ -109,23 +103,5 @@
   },
   {
     "hyponatremia": "PROBLEM"
-  },
-  {
-    "free air": "PROBLEM"
-  },
-  {
-    "hyponatremia": "PROBLEM"
-  },
-  {
-    "air under the diaphragm": "PROBLEM"
-  },
-  {
-    "intra abdominal pathology": "PROBLEM"
-  },
-  {
-    "pathology": "PROBLEM"
-  },
-  {
-    "obtunded": "PROBLEM"
   }
 ]

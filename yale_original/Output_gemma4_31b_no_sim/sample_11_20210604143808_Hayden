@@ -1,9 +1,9 @@
 [
   {
-    "Anemia": "PROBLEM"
+    "Refractory anemia": "PROBLEM"
   },
   {
-    "Refractory anemia": "PROBLEM"
+    "transfusion": "TREATMENT"
   },
   {
     "anemia": "PROBLEM"
@@ -16,6 +16,9 @@
   },
   {
     "Refractory anemia": "PROBLEM"
+  },
+  {
+    "transfusion": "TREATMENT"
   },
   {
     "blood transfusion": "TREATMENT"
@@ -135,7 +138,7 @@
     "Feosol": "DRUG"
   },
   {
-    "blood or cancer disorders": "PROBLEM"
+    "cancer disorders": "PROBLEM"
   },
   {
     "Blood pressure": "TEST"
@@ -153,28 +156,13 @@
     "arcus senilis": "PROBLEM"
   },
   {
-    "Pupils": "TEST"
-  },
-  {
-    "Extraocular movements": "TEST"
-  },
-  {
-    "Oropharynx": "TEST"
-  },
-  {
-    "Trachea": "TEST"
-  },
-  {
     "jugular venous pressure distention": "PROBLEM"
   },
   {
     "adenopathy": "PROBLEM"
   },
   {
-    "CHEST": "TEST"
-  },
-  {
-    "HEART": "TEST"
+    "Regular rate and rhythm": "PROBLEM"
   },
   {
     "fullness in the left upper quadrant": "PROBLEM"
@@ -249,7 +237,10 @@
     "erythropoietin level": "TEST"
   },
   {
-    "bone marrow aspiration and biopsy": "TEST"
+    "bone marrow aspiration": "TEST"
+  },
+  {
+    "biopsy": "TEST"
   },
   {
     "bone marrow": "TEST"
@@ -288,6 +279,9 @@
     "blood transfusion": "TREATMENT"
   },
   {
+    "bone marrow": "TEST"
+  },
+  {
     "refractory anemia": "PROBLEM"
   },
   {
@@ -295,5 +289,11 @@
   },
   {
     "myalgias": "PROBLEM"
+  },
+  {
+    "marrow": "TEST"
+  },
+  {
+    "bone": "TEST"
   }
 ]

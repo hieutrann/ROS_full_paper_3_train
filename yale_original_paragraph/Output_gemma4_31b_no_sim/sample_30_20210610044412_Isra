@@ -1,5 +1,11 @@
 [
   {
+    "Physical Exam": "TEST"
+  },
+  {
+    "GCS": "TEST"
+  },
+  {
     "Blood pressure": "TEST"
   },
   {
@@ -16,6 +22,9 @@
   },
   {
     "lesions": "PROBLEM"
+  },
+  {
+    "Funduscopic exam": "TEST"
   },
   {
     "hemorrhages": "PROBLEM"
@@ -103,9 +112,6 @@
   },
   {
     "ecchymosis": "PROBLEM"
-  },
-  {
-    "gait": "TEST"
   },
   {
     "pathology": "PROBLEM"

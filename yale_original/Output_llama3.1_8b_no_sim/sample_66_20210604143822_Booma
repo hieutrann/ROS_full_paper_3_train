@@ -12,19 +12,25 @@
     "DATE OF DISCHARGE": "TEST"
   },
   {
-    "Peritoneal carcinomatosis": "PROBLEM"
+    "carcinomatosis": "PROBLEM"
   },
   {
     "appendiceal primary": "PROBLEM"
   },
   {
-    "Peritoneal carcinomatosis": "PROBLEM"
+    "carcinomatosis": "PROBLEM"
   },
   {
-    "appendiceal primary": "PROBLEM"
+    "appendiceal": "PROBLEM"
+  },
+  {
+    "Peritoneal": "PROBLEM"
   },
   {
     "Diarrhea": "PROBLEM"
+  },
+  {
+    "AB CD": "TREATMENT"
   },
   {
     "General surgery": "TREATMENT"
@@ -36,7 +42,7 @@
     "Urology": "TREATMENT"
   },
   {
-    "PROCEDURES DURING THIS HOSPITALIZATION": "TREATMENT"
+    "PROCEDURES": "TREATMENT"
   },
   {
     "Cystoscopy": "TEST"
@@ -48,7 +54,7 @@
     "ureteral stents": "TREATMENT"
   },
   {
-    "2": "TEST"
+    "2": "TREATMENT"
   },
   {
     "laparotomy": "TREATMENT"
@@ -64,9 +70,6 @@
   },
   {
     "omentectomy": "TREATMENT"
-  },
-  {
-    "IPHC": "TREATMENT"
   },
   {
     "mitomycin-C": "DRUG"
@@ -81,16 +84,16 @@
     "peritoneal carcinomatosis": "PROBLEM"
   },
   {
-    "ureteral stent placement": "TREATMENT"
+    "baseline labs": "TEST"
   },
   {
     "bowel prep": "TREATMENT"
   },
   {
-    "baseline labs": "TEST"
+    "urology consult": "TEST"
   },
   {
-    "urology consult": "TEST"
+    "ureteral stent placement": "TREATMENT"
   },
   {
     "cystoscopy": "TEST"
@@ -100,12 +103,6 @@
   },
   {
     "Dr.": "TREATMENT"
-  },
-  {
-    "mitomycin-C": "DRUG"
-  },
-  {
-    "IPHC": "TREATMENT"
   },
   {
     "laparotomy": "TREATMENT"
@@ -123,16 +120,19 @@
     "omentectomy": "TREATMENT"
   },
   {
-    "procedure": "TREATMENT"
+    "IPHC": "TREATMENT"
+  },
+  {
+    "mitomycin-C": "DRUG"
+  },
+  {
+    "complications": "PROBLEM"
   },
   {
     "tachycardia": "PROBLEM"
   },
   {
-    "extubation": "TEST"
-  },
-  {
-    "ICU": "TEST"
+    "extubation": "TREATMENT"
   },
   {
     "flatus": "PROBLEM"
@@ -150,7 +150,7 @@
     "pain medicines": "DRUG"
   },
   {
-    "ambulating": "TEST"
+    "ambulating": "TREATMENT"
   },
   {
     "diarrhea": "PROBLEM"
@@ -174,10 +174,10 @@
     "meningococcal vaccines": "DRUG"
   },
   {
-    "bed": "TEST"
+    "bed": "TREATMENT"
   },
   {
-    "afebrile": "TEST"
+    "afebrile": "PROBLEM"
   },
   {
     "abdomen": "PROBLEM"
@@ -186,16 +186,16 @@
     "bowel sounds": "TEST"
   },
   {
-    "bowel": "PROBLEM"
-  },
-  {
-    "midline incision": "PROBLEM"
+    "incision": "PROBLEM"
   },
   {
     "staples": "TREATMENT"
   },
   {
-    "condition": "PROBLEM"
+    "staples": "TREATMENT"
+  },
+  {
+    "good and stable condition": "PROBLEM"
   },
   {
     "DISCHARGE MEDICATIONS": "TREATMENT"
@@ -204,13 +204,13 @@
     "Multivitamins": "DRUG"
   },
   {
-    "2": "TEST"
+    "2": "TREATMENT"
   },
   {
     "Lovenox": "DRUG"
   },
   {
-    "3": "PROBLEM"
+    "3": "TREATMENT"
   },
   {
     "Vicodin": "DRUG"
@@ -225,22 +225,16 @@
     "nausea": "PROBLEM"
   },
   {
-    "5": "PROBLEM"
+    "5": "TEST"
   },
   {
-    "Imodium A-D tablets": "DRUG"
-  },
-  {
-    "tablet": "TREATMENT"
-  },
-  {
-    "mouth": "TEST"
+    "Imodium A-D": "DRUG"
   },
   {
     "diarrhea": "PROBLEM"
   },
   {
-    "DISCHARGE INSTRUCTIONS": "TREATMENT"
+    "questions": "PROBLEM"
   },
   {
     "fevers": "PROBLEM"
@@ -267,19 +261,25 @@
     "warmth": "PROBLEM"
   },
   {
-    "incision site": "PROBLEM"
-  },
-  {
     "Dr": "TREATMENT"
   },
   {
     "staples": "TREATMENT"
   },
   {
+    "Dr.": "TREATMENT"
+  },
+  {
     "XYZ": "PROBLEM"
   },
   {
-    "carcinomatosis from appendiceal primary": "PROBLEM"
+    "carcinomatosis": "PROBLEM"
+  },
+  {
+    "appendiceal primary": "PROBLEM"
+  },
+  {
+    "tablet": "DRUG"
   },
   {
     "stent placement": "TREATMENT"
@@ -294,24 +294,9 @@
     "appendiceal primary": "PROBLEM"
   },
   {
-    "tablet by mouth": "DRUG"
-  },
-  {
     "hemicolectomy": "TREATMENT"
   },
   {
     "splenectomy": "TREATMENT"
-  },
-  {
-    "peritoneal": "PROBLEM"
-  },
-  {
-    "appendiceal": "PROBLEM"
-  },
-  {
-    "carcinomatosis": "PROBLEM"
-  },
-  {
-    "oncology": "PROBLEM"
   }
 ]

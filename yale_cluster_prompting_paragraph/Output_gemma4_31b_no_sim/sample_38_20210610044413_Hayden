@@ -57,7 +57,7 @@
     "pseudocyst": "PROBLEM"
   },
   {
-    "ERCP": "TREATMENT"
+    "ERCP": "TEST"
   },
   {
     "placement of a stent": "TREATMENT"
@@ -69,7 +69,7 @@
     "strictured bile duct": "PROBLEM"
   },
   {
-    "stent": "TREATMENT"
+    "10-frenchx9 cm stent": "TREATMENT"
   },
   {
     "bilirubin": "TEST"
@@ -85,9 +85,6 @@
   },
   {
     "Phenergan": "DRUG"
-  },
-  {
-    "stent placement": "TREATMENT"
   },
   {
     "nausea": "PROBLEM"
@@ -162,9 +159,6 @@
     "metastatic pancreatic cancer": "PROBLEM"
   },
   {
-    "morbidity": "PROBLEM"
-  },
-  {
     "Phenergan": "DRUG"
   },
   {
@@ -183,7 +177,7 @@
     "hypertension": "PROBLEM"
   },
   {
-    "ERCP": "TREATMENT"
+    "ERCP": "TEST"
   },
   {
     "stent occlusion": "PROBLEM"
@@ -196,29 +190,5 @@
   },
   {
     "pain": "PROBLEM"
-  },
-  {
-    "abdominal pain": "PROBLEM"
-  },
-  {
-    "lymph nodes": "PROBLEM"
-  },
-  {
-    "weight loss": "PROBLEM"
-  },
-  {
-    "pancreatic mass": "PROBLEM"
-  },
-  {
-    "chemotherapy": "TREATMENT"
-  },
-  {
-    "bilirubin": "TEST"
-  },
-  {
-    "phenergan": "DRUG"
-  },
-  {
-    "stent": "TREATMENT"
   }
 ]

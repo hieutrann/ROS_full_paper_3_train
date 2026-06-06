@@ -18,7 +18,7 @@
     "urticarial rash": "PROBLEM"
   },
   {
-    "high fevers": "PROBLEM"
+    "persistent high fevers": "PROBLEM"
   },
   {
     "infection": "PROBLEM"
@@ -30,7 +30,7 @@
     "blood cultures": "TEST"
   },
   {
-    "transthoracic echocardiogram": "TEST"
+    "a transthoracic echocardiogram": "TEST"
   },
   {
     "chest x-ray": "TEST"
@@ -45,7 +45,7 @@
     "CT chest": "TEST"
   },
   {
-    "bibasilar pleural-based interstitial changes": "PROBLEM"
+    "mild bibasilar pleural-based interstitial changes": "PROBLEM"
   },
   {
     "ground glass change": "PROBLEM"
@@ -57,13 +57,13 @@
     "serologies for CMV": "TEST"
   },
   {
-    "CMV blood PCR": "TEST"
+    "a CMV blood PCR": "TEST"
   },
   {
     "serologies for EBV, Legionella, Chlamydia, Mycoplasma, Coccidioides, and cryptococcal antigen": "TEST"
   },
   {
-    "PPD": "TEST"
+    "a PPD": "TEST"
   },
   {
     "CMV serology": "TEST"
@@ -96,13 +96,10 @@
     "CAT scan": "TEST"
   },
   {
-    "bronchoscopy": "TREATMENT"
+    "bronchoscopy": "TEST"
   },
   {
     "BAL": "TEST"
-  },
-  {
-    "transbronchial biopsies": "TEST"
   },
   {
     "transbronchial biopsies": "TEST"
@@ -159,18 +156,6 @@
     "BAL fluid cell count": "TEST"
   },
   {
-    "WBCs": "TEST"
-  },
-  {
-    "RBCs": "TEST"
-  },
-  {
-    "neutrophils": "TEST"
-  },
-  {
-    "lymphocytes": "TEST"
-  },
-  {
     "Disseminated CMV infection": "PROBLEM"
   },
   {
@@ -205,33 +190,6 @@
   },
   {
     "folic acid": "DRUG"
-  },
-  {
-    "methotrexate": "DRUG"
-  },
-  {
-    "fever of unknown origin": "PROBLEM"
-  },
-  {
-    "blood cultures": "TEST"
-  },
-  {
-    "transbronchial biopsies": "TEST"
-  },
-  {
-    "infection": "PROBLEM"
-  },
-  {
-    "cmv": "PROBLEM"
-  },
-  {
-    "interstitial": "PROBLEM"
-  },
-  {
-    "fever": "PROBLEM"
-  },
-  {
-    "serologies": "TEST"
   },
   {
     "methotrexate": "DRUG"

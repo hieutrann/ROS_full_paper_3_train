@@ -6,22 +6,22 @@
     "urinary tract infection": "PROBLEM"
   },
   {
-    "better": "PROBLEM"
+    "patient": "PROBLEM"
   },
   {
-    "VITAL SIGNS": "TEST"
+    "Temperature": "TEST"
   },
   {
     "temperature": "TEST"
   },
   {
-    "CHEST": "TEST"
+    "chest": "PROBLEM"
   },
   {
-    "CARDIOVASCULAR": "TEST"
+    "heart sounds": "TEST"
   },
   {
-    "ABDOMEN": "PROBLEM"
+    "Benign": "PROBLEM"
   },
   {
     "Right renal angle": "PROBLEM"
@@ -30,10 +30,10 @@
     "Bowel sounds": "TEST"
   },
   {
-    "swelling": "PROBLEM"
+    "alert": "PROBLEM"
   },
   {
-    "NEUROLOGIC": "TEST"
+    "oriented": "PROBLEM"
   },
   {
     "White count": "TEST"
@@ -52,6 +52,9 @@
   },
   {
     "creatinine": "TEST"
+  },
+  {
+    "ASSESSMENT AND PLAN": "TEST"
   },
   {
     "Sepsis": "PROBLEM"
@@ -75,7 +78,7 @@
     "doripenem": "DRUG"
   },
   {
-    "Foley catheter": "TEST"
+    "Foley catheter": "TREATMENT"
   },
   {
     "Hypotension": "PROBLEM"
@@ -87,22 +90,16 @@
     "Ischemic cardiomyopathy": "PROBLEM"
   },
   {
-    "we": "TREATMENT"
-  },
-  {
     "Diabetes type 2": "PROBLEM"
   },
   {
-    "insulin sliding scale": "DRUG"
+    "insulin sliding scale": "TREATMENT"
   },
   {
     "pulmonary embolism": "PROBLEM"
   },
   {
     "INR": "TEST"
-  },
-  {
-    "therapeutic range": "TEST"
   },
   {
     "Coumadin": "DRUG"
@@ -114,16 +111,10 @@
     "Troponin": "TEST"
   },
   {
-    "treatment": "TREATMENT"
-  },
-  {
     "troponin": "TEST"
   },
   {
     "sepsis": "PROBLEM"
-  },
-  {
-    "escherichia coli": "PROBLEM"
   },
   {
     "urinary tract infection": "PROBLEM"
@@ -135,9 +126,6 @@
     "troponin": "TEST"
   },
   {
-    "urinary": "PROBLEM"
-  },
-  {
-    "infection": "PROBLEM"
+    "urinary infection": "PROBLEM"
   }
 ]

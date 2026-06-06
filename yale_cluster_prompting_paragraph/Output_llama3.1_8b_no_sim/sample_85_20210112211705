@@ -3,34 +3,28 @@
     "Bradycardia": "PROBLEM"
   },
   {
-    "dizziness": "PROBLEM"
+    "Dizziness": "PROBLEM"
   },
   {
-    "diabetes": "PROBLEM"
+    "Diabetes": "PROBLEM"
   },
   {
-    "hypertension": "PROBLEM"
+    "Hypertension": "PROBLEM"
   },
   {
-    "abdominal pain": "PROBLEM"
+    "Abdominal pain": "PROBLEM"
   },
   {
-    "sick sinus syndrome": "PROBLEM"
+    "Sick sinus syndrome": "PROBLEM"
   },
   {
     "Permanent pacemaker": "TREATMENT"
   },
   {
-    "electrocardiograms": "TEST"
+    "Cefazolin": "DRUG"
   },
   {
-    "telemetry readings": "TEST"
-  },
-  {
-    "Medtronic pacemaker": "DRUG"
-  },
-  {
-    "benazepril": "DRUG"
+    "Benazepril": "DRUG"
   },
   {
     "Norvasc": "DRUG"
@@ -69,6 +63,42 @@
     "Tylenol": "DRUG"
   },
   {
-    "cefaolin": "DRUG"
+    "Electrocardiograms": "TEST"
+  },
+  {
+    "Telemetry readings": "TEST"
+  },
+  {
+    "Pacemaker placement": "TREATMENT"
+  },
+  {
+    "Temporary internal pacemaker": "TREATMENT"
+  },
+  {
+    "Temporary intracardiac pacemaker": "TREATMENT"
+  },
+  {
+    "Right atrium appendage": "TREATMENT"
+  },
+  {
+    "Right ventricular apex electrode placement": "TREATMENT"
+  },
+  {
+    "Medtronic pacemaker": "TREATMENT"
+  },
+  {
+    "Right femoral artery catheter": "TREATMENT"
+  },
+  {
+    "Hematoma": "PROBLEM"
+  },
+  {
+    "Insomnia": "PROBLEM"
+  },
+  {
+    "Osteoarthritis": "PROBLEM"
+  },
+  {
+    "Peptic ulcer disease": "PROBLEM"
   }
 ]

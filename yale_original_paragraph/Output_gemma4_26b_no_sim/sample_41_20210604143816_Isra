@@ -6,10 +6,19 @@
     "abdominal pain": "PROBLEM"
   },
   {
-    "nausea and vomiting": "PROBLEM"
+    "pain": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
   },
   {
     "incarcerated umbilical hernia": "PROBLEM"
+  },
+  {
+    "hemorrhoidectomy": "TREATMENT"
   },
   {
     "depression": "PROBLEM"
@@ -21,16 +30,25 @@
     "Ziac": "DRUG"
   },
   {
-    "Remeron": "DRUG"
+    "Remelon": "DRUG"
+  },
+  {
+    "cancer": "PROBLEM"
+  },
+  {
+    "hepatitis": "PROBLEM"
   },
   {
     "obese": "PROBLEM"
   },
   {
+    "distress": "PROBLEM"
+  },
+  {
     "scleral icterus": "PROBLEM"
   },
   {
-    "axillary adenopathy": "PROBLEM"
+    "adenopathy": "PROBLEM"
   },
   {
     "EKG": "TEST"
@@ -64,23 +82,5 @@
   },
   {
     "repair with mesh": "TREATMENT"
-  },
-  {
-    "sinus rhythm": "TEST"
-  },
-  {
-    "ekg": "TEST"
-  },
-  {
-    "prolong\ted qt": "PROBLEM"
-  },
-  {
-    "platelet count": "TEST"
-  },
-  {
-    "hematocrit": "TEST"
-  },
-  {
-    "umbilical hernia": "PROBLEM"
   }
 ]

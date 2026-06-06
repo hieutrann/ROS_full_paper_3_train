@@ -1,9 +1,9 @@
 [
   {
-    "MRI C-spine": "TEST"
+    "MRI C-Spine": "TEST"
   },
   {
-    "right shoulder pain": "PROBLEM"
+    "shoulder pain": "PROBLEM"
   },
   {
     "C5-6 disk herniation": "PROBLEM"
@@ -12,7 +12,10 @@
     "Right shoulder pain": "PROBLEM"
   },
   {
-    "right neck and shoulder stiffness and pain": "PROBLEM"
+    "stiffness": "PROBLEM"
+  },
+  {
+    "pain": "PROBLEM"
   },
   {
     "symptoms": "PROBLEM"
@@ -33,22 +36,19 @@
     "pain": "PROBLEM"
   },
   {
-    "coccygeal region": "PROBLEM"
-  },
-  {
     "pains": "PROBLEM"
   },
   {
-    "night": "PROBLEM"
+    "sleep": "PROBLEM"
   },
   {
     "visual change": "PROBLEM"
   },
   {
-    "bowel": "PROBLEM"
+    "bowel difficulties": "PROBLEM"
   },
   {
-    "bladder": "PROBLEM"
+    "bladder difficulties": "PROBLEM"
   },
   {
     "LUE": "PROBLEM"
@@ -72,10 +72,13 @@
     "Macrodantin": "DRUG"
   },
   {
-    "Smokes": "PROBLEM"
+    "cigarettes": "DRUG"
   },
   {
     "Vital signs": "TEST"
+  },
+  {
+    "Motor": "PROBLEM"
   },
   {
     "tone": "TEST"
@@ -105,16 +108,7 @@
     "Reflexes": "TEST"
   },
   {
-    "BUE": "TEST"
-  },
-  {
-    "left biceps": "TEST"
-  },
-  {
-    "1+/1+BLE": "TEST"
-  },
-  {
-    "right ankle reflex": "TEST"
+    "BLE": "TEST"
   },
   {
     "Plantar responses": "TEST"
@@ -126,16 +120,13 @@
     "C-spine lesion": "PROBLEM"
   },
   {
-    "MRI": "TEST"
-  },
-  {
-    "C-spine": "TEST"
+    "MRI C-spine": "TEST"
   },
   {
     "disk herniation": "PROBLEM"
   },
   {
-    "spinal cord": "PROBLEM"
+    "spinal cord compression": "PROBLEM"
   },
   {
     "EMG/NCV": "TEST"
@@ -150,13 +141,16 @@
     "fibrillations": "PROBLEM"
   },
   {
-    "right biceps": "PROBLEM"
+    "biceps": "PROBLEM"
   },
   {
     "C5-6": "PROBLEM"
   },
   {
     "brachioradialis": "PROBLEM"
+  },
+  {
+    "C5-6": "PROBLEM"
   },
   {
     "triceps": "PROBLEM"
@@ -168,10 +162,16 @@
     "teres major": "PROBLEM"
   },
   {
-    "right pronator terres": "PROBLEM"
+    "sharps": "PROBLEM"
   },
   {
-    "insertional activity": "TEST"
+    "fibrillations": "PROBLEM"
+  },
+  {
+    "pronator terres": "PROBLEM"
+  },
+  {
+    "activity": "PROBLEM"
   },
   {
     "C6-7 radiculopathy": "PROBLEM"
@@ -213,7 +213,7 @@
     "mri": "TEST"
   },
   {
-    "disk": "PROBLEM"
+    "disk": "TEST"
   },
   {
     "shoulder": "PROBLEM"

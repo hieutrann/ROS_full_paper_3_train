@@ -1,5 +1,8 @@
 [
   {
+    "male physical exam": "TEST"
+  },
+  {
     "Blood pressure": "TEST"
   },
   {
@@ -34,9 +37,6 @@
   },
   {
     "subcutaneous emphysema": "PROBLEM"
-  },
-  {
-    "nodularity": "PROBLEM"
   },
   {
     "murmur": "PROBLEM"
@@ -90,13 +90,10 @@
     "hydrocele": "PROBLEM"
   },
   {
-    "Hemoccult-negative stool": "TEST"
+    "Hemoccult": "TEST"
   },
   {
     "nodularity": "PROBLEM"
-  },
-  {
-    "tenderness": "PROBLEM"
   },
   {
     "rectal masses": "PROBLEM"
@@ -129,9 +126,12 @@
     "Brudzinski signs": "TEST"
   },
   {
-    "Gait": "TEST"
+    "premalignant or malignant condition": "PROBLEM"
   },
   {
-    "premalignant or malignant condition": "PROBLEM"
+    "digital palpation": "TEST"
+  },
+  {
+    "hemoccult - negative": "TEST"
   }
 ]

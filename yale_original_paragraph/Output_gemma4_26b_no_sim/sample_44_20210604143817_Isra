@@ -54,6 +54,15 @@
     "Solu-Medrol": "DRUG"
   },
   {
+    "airway compromise": "PROBLEM"
+  },
+  {
+    "fishbone": "PROBLEM"
+  },
+  {
+    "intubated": "TREATMENT"
+  },
+  {
     "extubated": "TREATMENT"
   },
   {
@@ -64,5 +73,29 @@
   },
   {
     "ventilatory support": "TREATMENT"
+  },
+  {
+    "extubated": "TREATMENT"
+  },
+  {
+    "diabetes": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "asthma": "PROBLEM"
+  },
+  {
+    "cholecystectomy": "TREATMENT"
+  },
+  {
+    "fishbone": "PROBLEM"
+  },
+  {
+    "foreign body": "PROBLEM"
+  },
+  {
+    "airway compromise": "PROBLEM"
   }
 ]

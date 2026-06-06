@@ -27,7 +27,10 @@
     "bariatric evaluation": "TEST"
   },
   {
-    "Medifast induced weight loss": "TREATMENT"
+    "Medifast": "DRUG"
+  },
+  {
+    "weight loss": "PROBLEM"
   },
   {
     "bariatric surgery": "TREATMENT"
@@ -42,7 +45,7 @@
     "subcu heparin": "DRUG"
   },
   {
-    "early and frequent mobilization": "TREATMENT"
+    "mobilization": "TREATMENT"
   },
   {
     "SCDs": "TREATMENT"
@@ -97,6 +100,9 @@
   },
   {
     "roux-en-y": "TREATMENT"
+  },
+  {
+    "bariatric clear liquids": "TREATMENT"
   },
   {
     "gastric bypass": "TREATMENT"

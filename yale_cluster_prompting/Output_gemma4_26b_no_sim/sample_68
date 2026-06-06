@@ -6,7 +6,7 @@
     "cerebrovascular accident": "PROBLEM"
   },
   {
-    "discomfort": "PROBLEM"
+    "discomfort on his right side": "PROBLEM"
   },
   {
     "EMG studies": "TEST"
@@ -21,22 +21,10 @@
     "insulin": "DRUG"
   },
   {
-    "heavy tobacco and alcohol usage": "PROBLEM"
+    "tobacco usage": "PROBLEM"
   },
   {
-    "Vitals": "TEST"
-  },
-  {
-    "Wt": "TEST"
-  },
-  {
-    "B/P": "TEST"
-  },
-  {
-    "T": "TEST"
-  },
-  {
-    "P": "TEST"
+    "alcohol usage": "PROBLEM"
   },
   {
     "missing dentition": "PROBLEM"
@@ -52,9 +40,6 @@
   },
   {
     "pedal pulse": "TEST"
-  },
-  {
-    "Lungs": "PROBLEM"
   },
   {
     "Scaphoid": "PROBLEM"
@@ -106,9 +91,6 @@
   },
   {
     "post cerebrovascular accident": "PROBLEM"
-  },
-  {
-    "post cerebrovascular": "PROBLEM"
   },
   {
     "cerebrovascular accident": "PROBLEM"

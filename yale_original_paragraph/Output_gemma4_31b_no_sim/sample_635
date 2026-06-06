@@ -1,9 +1,6 @@
 [
   {
-    "Cardiac Catheterization": "TEST"
-  },
-  {
-    "Left heart catheterization": "TEST"
+    "Left heart catheterization": "TREATMENT"
   },
   {
     "coronary angiography": "TEST"
@@ -63,6 +60,9 @@
     "left ventricular measurement": "TEST"
   },
   {
+    "angiography": "TEST"
+  },
+  {
     "left ventriculogram": "TEST"
   },
   {
@@ -93,100 +93,55 @@
     "Mitral regurgitation": "PROBLEM"
   },
   {
-    "left main coronary artery": "TEST"
-  },
-  {
     "atherosclerotic plaque": "PROBLEM"
-  },
-  {
-    "proximal LAD": "TEST"
-  },
-  {
-    "100% occluded": "PROBLEM"
-  },
-  {
-    "left circumflex": "TEST"
-  },
-  {
-    "diffuse atherosclerotic plaque": "PROBLEM"
-  },
-  {
-    "obtuse marginal branch": "TEST"
-  },
-  {
-    "80% stenosis": "PROBLEM"
-  },
-  {
-    "saphenous vein graft": "TREATMENT"
-  },
-  {
-    "right coronary artery": "TEST"
-  },
-  {
-    "proximal and mid atherosclerotic plaque": "PROBLEM"
-  },
-  {
-    "distal right coronary artery": "TEST"
-  },
-  {
-    "40% stenosis": "PROBLEM"
-  },
-  {
-    "posterior left ventricular branch": "TEST"
-  },
-  {
-    "50 to 60% stenosis": "PROBLEM"
-  },
-  {
-    "proximal PDA": "TEST"
-  },
-  {
-    "40 to 50% stenosis": "PROBLEM"
-  },
-  {
-    "saphenous vein graft to the right PDA": "TREATMENT"
-  },
-  {
-    "saphenous vein graft to the left anterior descending": "TREATMENT"
-  },
-  {
-    "saphenous vein graft to the obtuse marginal": "TREATMENT"
   },
   {
     "occluded": "PROBLEM"
   },
   {
-    "proximal LAD": "TEST"
+    "atherosclerotic plaque": "PROBLEM"
+  },
+  {
+    "stenosis": "PROBLEM"
+  },
+  {
+    "atherosclerotic plaque": "PROBLEM"
+  },
+  {
+    "stenosis": "PROBLEM"
+  },
+  {
+    "stenosis": "PROBLEM"
+  },
+  {
+    "stenosis": "PROBLEM"
+  },
+  {
+    "occluded": "PROBLEM"
+  },
+  {
+    "occluded": "PROBLEM"
+  },
+  {
+    "LAD": "PROBLEM"
   },
   {
     "left circumflex disease": "PROBLEM"
   },
   {
-    "80% lesion": "PROBLEM"
-  },
-  {
-    "percutaneous intervention": "TREATMENT"
-  },
-  {
-    "native right coronary artery": "TEST"
+    "lesion": "PROBLEM"
   },
   {
     "distal disease": "PROBLEM"
   },
   {
-    "PLV and PDA disease": "PROBLEM"
+    "PLV": "PROBLEM"
   },
   {
-    "saphenous vein graft to the OM": "TREATMENT"
+    "PDA disease": "PROBLEM"
   },
   {
-    "100% occluded": "PROBLEM"
-  },
-  {
-    "saphenous vein graft to the PDA": "TREATMENT"
-  },
-  {
-    "saphenous vein graft to the LAD": "TREATMENT"
+    "occluded": "PROBLEM"
   },
   {
     "left ventricular systolic function": "TEST"

@@ -24,9 +24,6 @@
     "morbid obesity": "PROBLEM"
   },
   {
-    "diagnostics": "TEST"
-  },
-  {
     "Medifast": "DRUG"
   },
   {
@@ -51,22 +48,13 @@
     "CPAP": "TREATMENT"
   },
   {
-    "cardiopulmonary complaints": "PROBLEM"
-  },
-  {
     "labs": "TEST"
-  },
-  {
-    "bariatric clear liquids": "TREATMENT"
-  },
-  {
-    "cardiopulmonary complaints": "PROBLEM"
   },
   {
     "fever": "PROBLEM"
   },
   {
-    "drains removed": "TREATMENT"
+    "drains": "TREATMENT"
   },
   {
     "omeprazole": "DRUG"
@@ -76,23 +64,5 @@
   },
   {
     "bariatric clear liquids": "TREATMENT"
-  },
-  {
-    "drain site care": "TREATMENT"
-  },
-  {
-    "wound care": "TREATMENT"
-  },
-  {
-    "medifast": "DRUG"
-  },
-  {
-    "laparoscopic roux-en-y gastric bypass": "TREATMENT"
-  },
-  {
-    "bariatric clear liquids": "TREATMENT"
-  },
-  {
-    "gastric bypass": "TREATMENT"
   }
 ]

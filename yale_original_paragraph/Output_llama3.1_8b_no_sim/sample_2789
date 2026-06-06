@@ -1,21 +1,9 @@
 [
   {
-    "hip surgery": "PROBLEM"
+    "hip surgery": "TREATMENT"
   },
   {
-    "hip replacement": "PROBLEM"
-  },
-  {
-    "postoperative anemia": "PROBLEM"
-  },
-  {
-    "pain management": "TREATMENT"
-  },
-  {
-    "Oxycodone SR": "DRUG"
-  },
-  {
-    "Oxycodone IR": "DRUG"
+    "hip replacement": "TREATMENT"
   },
   {
     "Paxil": "DRUG"
@@ -27,13 +15,19 @@
     "Celebrex": "DRUG"
   },
   {
+    "Coumadin": "DRUG"
+  },
+  {
+    "Lovenox": "DRUG"
+  },
+  {
     "Protonix": "DRUG"
   },
   {
     "Dulcolax": "DRUG"
   },
   {
-    "Lactulose": "DRUG"
+    "lactulose": "DRUG"
   },
   {
     "Colace": "DRUG"
@@ -42,21 +36,108 @@
     "Arixtra": "DRUG"
   },
   {
-    "Coumadin": "DRUG"
+    "Oxycodone": "DRUG"
   },
   {
     "Feosol": "DRUG"
   },
   {
-    "Physical Therapy": "TREATMENT"
+    "anemia": "PROBLEM"
   },
   {
-    "Occupational Therapy": "TREATMENT"
+    "pain management": "TREATMENT"
   },
   {
-    "ice": "TREATMENT"
+    "depression": "PROBLEM"
+  },
+  {
+    "anxiety": "PROBLEM"
+  },
+  {
+    "osteoporosis": "PROBLEM"
+  },
+  {
+    "migraine headaches": "PROBLEM"
+  },
+  {
+    "sciatic pain": "PROBLEM"
+  },
+  {
+    "herniated disc": "PROBLEM"
+  },
+  {
+    "appendectomy": "PROBLEM"
   },
   {
     "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "physical therapy": "TREATMENT"
+  },
+  {
+    "occupational therapy": "TREATMENT"
+  },
+  {
+    "postoperative anemia": "PROBLEM"
+  },
+  {
+    "postoperative right hip pain": "PROBLEM"
+  },
+  {
+    "right leg muscle spasm": "PROBLEM"
+  },
+  {
+    "calf pain": "PROBLEM"
+  },
+  {
+    "constipation": "PROBLEM"
+  },
+  {
+    "low-grade fever": "PROBLEM"
+  },
+  {
+    "mild intermittent cough": "PROBLEM"
+  },
+  {
+    "scratchy throat": "PROBLEM"
+  },
+  {
+    "intermittent right calf pain": "PROBLEM"
+  },
+  {
+    "Homans sign": "TEST"
+  },
+  {
+    "CBC": "TEST"
+  },
+  {
+    "chemistry panel": "TEST"
+  },
+  {
+    "fasting glucose": "TEST"
+  },
+  {
+    "anion gap": "TEST"
+  },
+  {
+    "BUN": "TEST"
+  },
+  {
+    "creatinine": "TEST"
+  },
+  {
+    "INR": "TEST"
+  },
+  {
+    "white count": "TEST"
+  },
+  {
+    "hemoglobin": "TEST"
+  },
+  {
+    "hematocrit": "TEST"
+  },
+  {
+    "platelets": "TEST"
   }
 ]

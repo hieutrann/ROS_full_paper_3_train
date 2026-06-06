@@ -33,16 +33,13 @@
     "pre-eclampsia": "PROBLEM"
   },
   {
-    "blood pressure": "PROBLEM"
-  },
-  {
-    "uncontrolled blood pressure": "PROBLEM"
-  },
-  {
-    "gestational diabetes": "PROBLEM"
+    "blood pressure": "TEST"
   },
   {
     "echocardiogram": "TEST"
+  },
+  {
+    "EKG": "TEST"
   },
   {
     "lungs": "TEST"

@@ -1,6 +1,6 @@
 [
   {
-    "Advanced non-small cell lung carcinoma": "PROBLEM"
+    "non-small cell lung carcinoma": "PROBLEM"
   },
   {
     "left malignant pleural effusion": "PROBLEM"
@@ -48,25 +48,13 @@
     "CT scan": "TEST"
   },
   {
-    "left pleural effusion": "PROBLEM"
+    "pleural effusion": "PROBLEM"
   },
   {
     "mediastinal mass": "PROBLEM"
   },
   {
     "left hilar adenopathy": "PROBLEM"
-  },
-  {
-    "left lower lobe": "PROBLEM"
-  },
-  {
-    "lingula": "PROBLEM"
-  },
-  {
-    "left pulmonary vein": "PROBLEM"
-  },
-  {
-    "multiple nodules": "PROBLEM"
   },
   {
     "metastatic disease": "PROBLEM"
@@ -81,13 +69,13 @@
     "left large pleural effusion": "PROBLEM"
   },
   {
-    "severe shortness of breath": "PROBLEM"
+    "shortness of breath": "PROBLEM"
   },
   {
     "chest pain": "PROBLEM"
   },
   {
-    "left-sided chest tube": "TREATMENT"
+    "chest tube": "TREATMENT"
   },
   {
     "pleural effusion": "PROBLEM"
@@ -97,6 +85,9 @@
   },
   {
     "right hip pain": "PROBLEM"
+  },
+  {
+    "metastatic disease": "PROBLEM"
   },
   {
     "bronchoscopy": "TEST"
@@ -117,36 +108,18 @@
     "extubated": "TREATMENT"
   },
   {
-    "chemotherapy": "TREATMENT"
-  },
-  {
-    "ventilator": "TREATMENT"
+    "respiratory failure": "PROBLEM"
   },
   {
     "DNR": "TREATMENT"
   },
   {
-    "withdrawal of the life support": "TREATMENT"
-  },
-  {
-    "discharge summary": "TEST"
-  },
-  {
-    "dnr": "TREATMENT"
-  },
-  {
-    "pronounced expired": "TEST"
+    "life support": "TREATMENT"
   },
   {
     "extubated": "TREATMENT"
   },
   {
-    "death summary": "TEST"
-  },
-  {
-    "lung carcinoma": "PROBLEM"
-  },
-  {
-    "pleural effusion": "PROBLEM"
+    "pronounced expired": "PROBLEM"
   }
 ]

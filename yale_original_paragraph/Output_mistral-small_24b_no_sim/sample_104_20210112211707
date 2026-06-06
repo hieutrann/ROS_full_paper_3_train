@@ -18,6 +18,15 @@
     "mechanical ventilation": "TREATMENT"
   },
   {
+    "factor replacement": "TREATMENT"
+  },
+  {
+    "platelet infusion": "TREATMENT"
+  },
+  {
+    "coagulopathy": "PROBLEM"
+  },
+  {
     "partial thromboplastin time": "TEST"
   },
   {
@@ -30,28 +39,34 @@
     "D-dimer": "TEST"
   },
   {
-    "factor replacement": "TREATMENT"
-  },
-  {
-    "platelet infusion": "TREATMENT"
-  },
-  {
-    "coagulopathy": "PROBLEM"
+    "illicit drugs": "DRUG"
   },
   {
     "conjunctival hemorrhage": "PROBLEM"
   },
   {
-    "Pulse": "TEST"
+    "petechiae": "PROBLEM"
   },
   {
-    "blood pressure": "TEST"
+    "ET tube": "TREATMENT"
   },
   {
-    "respiratory rate": "TEST"
+    "jugular venous pressure": "TEST"
   },
   {
-    "DIC": "PROBLEM"
+    "central line": "TREATMENT"
+  },
+  {
+    "clubbing": "PROBLEM"
+  },
+  {
+    "cyanosis": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "compromise arterial blood flow": "PROBLEM"
   },
   {
     "platelet count": "TEST"
@@ -75,10 +90,7 @@
     "heparin": "DRUG"
   },
   {
-    "coagulation": "PROBLEM"
-  },
-  {
-    "coagulation times": "TEST"
+    "coagulation routines": "PROBLEM"
   },
   {
     "laboratory studies": "TEST"

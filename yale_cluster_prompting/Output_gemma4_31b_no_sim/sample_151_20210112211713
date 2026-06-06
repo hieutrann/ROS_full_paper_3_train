@@ -42,13 +42,10 @@
     "sleep apnea": "PROBLEM"
   },
   {
-    "weight loss": "TREATMENT"
+    "weight loss": "PROBLEM"
   },
   {
     "Morbid obesity": "PROBLEM"
-  },
-  {
-    "bmi": "TEST"
   },
   {
     "Laparoscopic cholecystectomy": "TREATMENT"
@@ -81,7 +78,7 @@
     "ultrasound": "TEST"
   },
   {
-    "dilated common bile duct": "PROBLEM"
+    "a dilated common bile duct": "PROBLEM"
   },
   {
     "HIDA scan": "TEST"
@@ -111,7 +108,7 @@
     "Roux-en-Y gastric bypass": "TREATMENT"
   },
   {
-    "ERCP": "TEST"
+    "an ERCP": "TEST"
   },
   {
     "stone extraction": "TREATMENT"
@@ -124,9 +121,6 @@
   },
   {
     "open operation": "TREATMENT"
-  },
-  {
-    "postoperatively": "TREATMENT"
   },
   {
     "incisional pain": "PROBLEM"
@@ -166,9 +160,6 @@
   },
   {
     "Jackson-Pratt drain": "TREATMENT"
-  },
-  {
-    "wound": "PROBLEM"
   },
   {
     "Jackson-Pratt drain": "TREATMENT"

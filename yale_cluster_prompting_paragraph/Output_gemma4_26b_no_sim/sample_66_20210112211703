@@ -30,22 +30,28 @@
     "erythema": "PROBLEM"
   },
   {
-    "lymphedema wraps": "TREATMENT"
-  },
-  {
     "spastic colon": "PROBLEM"
   },
   {
     "knee arthritis": "PROBLEM"
   },
   {
+    "recurrent cellulitis": "PROBLEM"
+  },
+  {
     "hysterectomy": "TREATMENT"
+  },
+  {
+    "cholecystectomy": "TREATMENT"
   },
   {
     "leukemia": "PROBLEM"
   },
   {
     "ADHESIVE TAPE ALLERGIES": "PROBLEM"
+  },
+  {
+    "bilateral lower extremity lymphedema": "PROBLEM"
   },
   {
     "nausea": "PROBLEM"
@@ -69,13 +75,34 @@
     "lymphadenopathy": "PROBLEM"
   },
   {
+    "murmur": "PROBLEM"
+  },
+  {
+    "rub": "PROBLEM"
+  },
+  {
+    "gallop": "PROBLEM"
+  },
+  {
     "cutaneous candidiasis": "PROBLEM"
   },
   {
     "stasis dermatosis": "PROBLEM"
   },
   {
+    "skin breakdown": "PROBLEM"
+  },
+  {
     "wound infection": "PROBLEM"
+  },
+  {
+    "cyanosis": "PROBLEM"
+  },
+  {
+    "clubbing": "PROBLEM"
+  },
+  {
+    "endocarditis": "PROBLEM"
   },
   {
     "White cell count": "TEST"
@@ -90,7 +117,22 @@
     "platelet count": "TEST"
   },
   {
-    "basic electrolyte panel": "TEST"
+    "differential": "TEST"
+  },
+  {
+    "neutrophils": "TEST"
+  },
+  {
+    "lymphocytes": "TEST"
+  },
+  {
+    "monocytes": "TEST"
+  },
+  {
+    "eosinophils": "TEST"
+  },
+  {
+    "electrolyte panel": "TEST"
   },
   {
     "renal function": "TEST"
@@ -121,5 +163,11 @@
   },
   {
     "nitrites": "PROBLEM"
+  },
+  {
+    "lymphedema wraps": "TREATMENT"
+  },
+  {
+    "wound care": "TREATMENT"
   }
 ]

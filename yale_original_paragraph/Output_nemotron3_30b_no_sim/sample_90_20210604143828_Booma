@@ -1,0 +1,35 @@
+[
+  {
+    "mastoiditis": "PROBLEM"
+  },
+  {
+    "acute otitis media": "PROBLEM"
+  },
+  {
+    "ear pain": "PROBLEM"
+  },
+  {
+    "CT scan": "TEST"
+  },
+  {
+    "IV Unasyn": "DRUG"
+  },
+  {
+    "Morphine": "DRUG"
+  },
+  {
+    "Vicodin": "DRUG"
+  },
+  {
+    "IV fluid": "TREATMENT"
+  },
+  {
+    "narcotics": "TREATMENT"
+  },
+  {
+    "Ciprodex Otic Solution": "DRUG"
+  },
+  {
+    "Augmentin": "DRUG"
+  }
+]

@@ -3,7 +3,7 @@
     "pneumonia": "PROBLEM"
   },
   {
-    "severe orthopnea": "PROBLEM"
+    "orthopnea": "PROBLEM"
   },
   {
     "paroxysmal nocturnal dyspnea": "PROBLEM"
@@ -36,12 +36,6 @@
     "Fasting blood sugar": "TEST"
   },
   {
-    "PHYSICAL EXAMINATION": "TEST"
-  },
-  {
-    "VITAL SIGNS": "TEST"
-  },
-  {
     "Blood pressure": "TEST"
   },
   {
@@ -52,9 +46,6 @@
   },
   {
     "irregular": "PROBLEM"
-  },
-  {
-    "Weight": "TEST"
   },
   {
     "anemia": "PROBLEM"
@@ -69,7 +60,7 @@
     "Carotid upstroke": "TEST"
   },
   {
-    "Severe inspiratory and expiratory wheezing": "PROBLEM"
+    "inspiratory and expiratory wheezing": "PROBLEM"
   },
   {
     "Fine crepitations": "PROBLEM"
@@ -78,7 +69,7 @@
     "PMI": "TEST"
   },
   {
-    "First and second heart sounds": "TEST"
+    "heart sounds": "TEST"
   },
   {
     "systolic murmur": "PROBLEM"

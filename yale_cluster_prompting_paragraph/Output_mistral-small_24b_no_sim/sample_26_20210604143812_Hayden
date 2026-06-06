@@ -1,30 +1,24 @@
 [
   {
+    "Cognitive linguistic impairment": "PROBLEM"
+  },
+  {
     "stroke": "PROBLEM"
-  },
-  {
-    "speech therapy": "TREATMENT"
-  },
-  {
-    "skilled speech therapy": "TREATMENT"
   },
   {
     "cognitive linguistic deficits": "PROBLEM"
   },
   {
-    "cognitive linguistic impairment": "PROBLEM"
+    "generative naming": "PROBLEM"
   },
   {
-    "DIAGNOSIS": "TEST"
+    "auditory comprehension": "PROBLEM"
   },
   {
-    "HOSPITAL COURSE": "TEST"
+    "recall": "PROBLEM"
   },
   {
-    "therapy": "TREATMENT"
-  },
-  {
-    "therapy goals": "TREATMENT"
+    "skilled speech therapy": "TREATMENT"
   },
   {
     "functional mass tasks": "TEST"
@@ -39,6 +33,30 @@
     "deductive reasoning tasks": "TEST"
   },
   {
-    "discharge": "TREATMENT"
+    "functional cognitive linguistic abilities": "PROBLEM"
+  },
+  {
+    "skilled speech therapy": "TREATMENT"
+  },
+  {
+    "linguistic deficits": "PROBLEM"
+  },
+  {
+    "speech therapy": "TREATMENT"
+  },
+  {
+    "skilled speech therapy": "TREATMENT"
+  },
+  {
+    "linguistic impairment": "PROBLEM"
+  },
+  {
+    "cognitive linguistic": "PROBLEM"
+  },
+  {
+    "cognitive": "PROBLEM"
+  },
+  {
+    "linguistic": "PROBLEM"
   }
 ]

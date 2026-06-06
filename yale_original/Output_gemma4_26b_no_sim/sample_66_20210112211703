@@ -1,12 +1,15 @@
 [
   {
-    "lower extremity cellulitis": "PROBLEM"
+    "antibiotic therapy": "TREATMENT"
   },
   {
     "lower extremity cellulitis": "PROBLEM"
   },
   {
     "antibiotic therapy": "TREATMENT"
+  },
+  {
+    "lower extremity cellulitis": "PROBLEM"
   },
   {
     "morbid obesity": "PROBLEM"
@@ -24,7 +27,7 @@
     "lower extremities": "PROBLEM"
   },
   {
-    "Bactrim": "DRUG"
+    "oral Bactrim": "DRUG"
   },
   {
     "ciprofloxacin": "DRUG"
@@ -45,10 +48,13 @@
     "lower extremity cellulitis": "PROBLEM"
   },
   {
+    "antibiotic therapy": "TREATMENT"
+  },
+  {
     "morbid obesity": "PROBLEM"
   },
   {
-    "chronic lymphedema of the lower extremities": "PROBLEM"
+    "chronic lymphedema": "PROBLEM"
   },
   {
     "spastic colon": "PROBLEM"
@@ -57,7 +63,7 @@
     "knee arthritis": "PROBLEM"
   },
   {
-    "recurrent cellulitis of the lower extremities": "PROBLEM"
+    "recurrent cellulitis": "PROBLEM"
   },
   {
     "hysterectomy": "TREATMENT"
@@ -84,7 +90,7 @@
     "ADHESIVE TAPE ALLERGIES": "PROBLEM"
   },
   {
-    "nonresolving bilateral lower extremity lymphedema": "PROBLEM"
+    "bilateral lower extremity lymphedema": "PROBLEM"
   },
   {
     "nausea": "PROBLEM"
@@ -138,6 +144,9 @@
     "Pupils": "TEST"
   },
   {
+    "external ear exam": "TEST"
+  },
+  {
     "lymphadenopathy": "PROBLEM"
   },
   {
@@ -151,6 +160,9 @@
   },
   {
     "Heart sounds": "TEST"
+  },
+  {
+    "thick chest wall": "PROBLEM"
   },
   {
     "Morbidly obese": "PROBLEM"
@@ -168,7 +180,7 @@
     "lymphadenopathy": "PROBLEM"
   },
   {
-    "extensive lymphedema": "PROBLEM"
+    "lymphedema": "PROBLEM"
   },
   {
     "pinkish discoloration": "PROBLEM"
@@ -187,9 +199,6 @@
   },
   {
     "stage II chronic ulcer": "PROBLEM"
-  },
-  {
-    "serosanguineous drainage": "PROBLEM"
   },
   {
     "erythema": "PROBLEM"
@@ -255,6 +264,9 @@
     "MRSA": "PROBLEM"
   },
   {
+    "nasal screen": "TEST"
+  },
+  {
     "Urine culture": "TEST"
   },
   {
@@ -279,13 +291,16 @@
     "bilateral lower extremity lymphedema": "PROBLEM"
   },
   {
-    "active cellulitis": "PROBLEM"
+    "cellulitis": "PROBLEM"
   },
   {
     "wound infection": "PROBLEM"
   },
   {
-    "active cellulitis": "PROBLEM"
+    "cellulitis": "PROBLEM"
+  },
+  {
+    "antibiotic therapy": "TREATMENT"
   },
   {
     "lymphedema wraps": "TREATMENT"
@@ -295,6 +310,9 @@
   },
   {
     "cellulitis": "PROBLEM"
+  },
+  {
+    "antibiotic therapy": "TREATMENT"
   },
   {
     "stage II ulcer": "PROBLEM"
@@ -307,6 +325,9 @@
   },
   {
     "lymphedema wraps": "TREATMENT"
+  },
+  {
+    "Lymphedema": "PROBLEM"
   },
   {
     "lower extremity cellulitis": "PROBLEM"

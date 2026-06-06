@@ -1,6 +1,9 @@
 [
   {
-    "Back Pain": "PROBLEM"
+    "back pain": "PROBLEM"
+  },
+  {
+    "chronic back pain": "PROBLEM"
   },
   {
     "chronic back pain": "PROBLEM"
@@ -9,28 +12,28 @@
     "acute back pain": "PROBLEM"
   },
   {
-    "chronic problem with back pain": "PROBLEM"
+    "back pain": "PROBLEM"
   },
   {
     "back pain": "PROBLEM"
   },
   {
-    "ABCD Hospital Emergency Room": "TEST"
+    "ABCD Hospital Emergency Room": "TREATMENT"
   },
   {
     "Decadron": "DRUG"
   },
   {
-    "ADLs": "PROBLEM"
+    "IV analgesics": "TREATMENT"
   },
   {
     "physical therapy": "TREATMENT"
   },
   {
-    "TCU": "TEST"
+    "ADLs": "PROBLEM"
   },
   {
-    "Joseph Health Services": "TREATMENT"
+    "TCU": "TEST"
   },
   {
     "back pain": "PROBLEM"
@@ -54,7 +57,7 @@
     "bone scan": "TEST"
   },
   {
-    "oncologist": "PROBLEM"
+    "oncologist": "TREATMENT"
   },
   {
     "PENICILLIN": "DRUG"
@@ -87,6 +90,9 @@
     "SAP FROM THE MANGO TREE": "PROBLEM"
   },
   {
+    "mango product": "TREATMENT"
+  },
+  {
     "testicular cancer": "PROBLEM"
   },
   {
@@ -108,7 +114,13 @@
     "incisional hernia": "PROBLEM"
   },
   {
-    "FAMILY HISTORY": "PROBLEM"
+    "orchiectomy": "TREATMENT"
+  },
+  {
+    "excision": "TREATMENT"
+  },
+  {
+    "Noncontributory": "PROBLEM"
   },
   {
     "nonsmoker": "PROBLEM"
@@ -117,7 +129,7 @@
     "alcohol": "PROBLEM"
   },
   {
-    "IV drug use": "PROBLEM"
+    "drug": "DRUG"
   },
   {
     "fever": "PROBLEM"
@@ -153,9 +165,6 @@
     "bowel movement": "PROBLEM"
   },
   {
-    "urological symptoms": "PROBLEM"
-  },
-  {
     "dysuria": "PROBLEM"
   },
   {
@@ -168,10 +177,13 @@
     "voiding difficulties": "PROBLEM"
   },
   {
-    "numbness and tingling": "PROBLEM"
+    "carpal tunnel syndrome": "PROBLEM"
   },
   {
-    "carpal tunnel syndrome": "PROBLEM"
+    "numbness": "PROBLEM"
+  },
+  {
+    "tingling": "PROBLEM"
   },
   {
     "seizure disorders": "PROBLEM"
@@ -195,16 +207,22 @@
     "O2 saturation": "TEST"
   },
   {
-    "patient": "PROBLEM"
+    "pounds": "TEST"
+  },
+  {
+    "feet": "TEST"
+  },
+  {
+    "inches": "TEST"
   },
   {
     "acute distress": "PROBLEM"
   },
   {
-    "HEENT": "TEST"
+    "Normocephalic": "PROBLEM"
   },
   {
-    "Sclerae": "PROBLEM"
+    "Sclerae": "TEST"
   },
   {
     "EOMI": "PROBLEM"
@@ -225,7 +243,7 @@
     "LUNGS": "PROBLEM"
   },
   {
-    "HEART": "PROBLEM"
+    "Regular rate and rhythm": "TEST"
   },
   {
     "S1": "TEST"
@@ -237,7 +255,7 @@
     "Obese": "PROBLEM"
   },
   {
-    "softly protuberant": "PROBLEM"
+    "protuberant": "PROBLEM"
   },
   {
     "nontender": "PROBLEM"
@@ -255,28 +273,22 @@
     "calf tenderness": "PROBLEM"
   },
   {
-    "Bilateral strength": "TEST"
-  },
-  {
-    "upper extremities": "TEST"
-  },
-  {
-    "left lower extremity": "TEST"
+    "5/5": "TEST"
   },
   {
     "lower extremity": "PROBLEM"
   },
   {
-    "alert and oriented": "TEST"
+    "alert": "PROBLEM"
   },
   {
-    "Acute on chronic back pain": "PROBLEM"
+    "back pain": "PROBLEM"
   },
   {
-    "TCU": "TEST"
+    "TCU": "TREATMENT"
   },
   {
-    "Joseph Health Services": "TREATMENT"
+    "rehabilitation therapy": "TREATMENT"
   },
   {
     "Physical Therapy": "TREATMENT"
@@ -297,19 +309,16 @@
     "pain": "PROBLEM"
   },
   {
-    "2": "TEST"
+    "testicular cancer": "PROBLEM"
   },
   {
-    "testicular cancer": "PROBLEM"
+    "orchiectomy": "TREATMENT"
   },
   {
     "bone scan": "TEST"
   },
   {
-    "B.": "PROBLEM"
-  },
-  {
-    "3": "TEST"
+    "B": "PROBLEM"
   },
   {
     "Gastroesophageal reflux disease": "PROBLEM"
@@ -336,6 +345,9 @@
     "Deep vein thrombosis prophylaxis": "TREATMENT"
   },
   {
+    "therapies": "TREATMENT"
+  },
+  {
     "ambulating": "TREATMENT"
   },
   {
@@ -354,13 +366,7 @@
     "dietary consult": "TREATMENT"
   },
   {
-    "discharge summary": "TREATMENT"
-  },
-  {
-    "ability": "PROBLEM"
-  },
-  {
-    "exacerbation": "PROBLEM"
+    "discharge summary": "TEST"
   },
   {
     "back pain": "PROBLEM"

@@ -15,24 +15,6 @@
     "weight loss": "PROBLEM"
   },
   {
-    "pain": "PROBLEM"
-  },
-  {
-    "redness": "PROBLEM"
-  },
-  {
-    "loss of vision": "PROBLEM"
-  },
-  {
-    "double or blurred vision": "PROBLEM"
-  },
-  {
-    "flashing lights or spots": "PROBLEM"
-  },
-  {
-    "dryness": "PROBLEM"
-  },
-  {
     "ringing in the ears": "PROBLEM"
   },
   {
@@ -66,13 +48,16 @@
     "dry mouth": "PROBLEM"
   },
   {
-    "dentures or removable dental work": "PROBLEM"
+    "dentures or removable dental work": "TREATMENT"
   },
   {
     "frequent sore throats": "PROBLEM"
   },
   {
     "hoarseness": "PROBLEM"
+  },
+  {
+    "palpitation": "PROBLEM"
   },
   {
     "shortness of breath": "PROBLEM"
@@ -109,9 +94,6 @@
   },
   {
     "waking at night coughing": "PROBLEM"
-  },
-  {
-    "choking": "PROBLEM"
   },
   {
     "repeated pneumonias": "PROBLEM"
@@ -316,32 +298,5 @@
   },
   {
     "sensitivity": "PROBLEM"
-  },
-  {
-    "review of systems": "TEST"
-  },
-  {
-    "general medicine": "TEST"
-  },
-  {
-    "cardiovascular": "TEST"
-  },
-  {
-    "ears": "TEST"
-  },
-  {
-    "eyes": "TEST"
-  },
-  {
-    "gastrointestinal": "TEST"
-  },
-  {
-    "head": "TEST"
-  },
-  {
-    "nose": "TEST"
-  },
-  {
-    "respiratory": "TEST"
   }
 ]

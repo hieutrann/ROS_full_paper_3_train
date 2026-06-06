@@ -1,5 +1,8 @@
 [
   {
+    "Gastric Bypass": "TREATMENT"
+  },
+  {
     "morbid obesity": "PROBLEM"
   },
   {
@@ -18,10 +21,22 @@
     "Laparoscopic gastric bypass": "TREATMENT"
   },
   {
+    "Surgery": "TREATMENT"
+  },
+  {
+    "Anesthesia": "TREATMENT"
+  },
+  {
+    "pain": "PROBLEM"
+  },
+  {
     "morbid obesity": "PROBLEM"
   },
   {
     "nonsurgical weight loss": "TREATMENT"
+  },
+  {
+    "preoperative workup": "TEST"
   },
   {
     "gastric bypass": "TREATMENT"
@@ -31,9 +46,6 @@
   },
   {
     "procedure": "TREATMENT"
-  },
-  {
-    "labs": "TEST"
   },
   {
     "clear liquid diet": "TREATMENT"
@@ -51,7 +63,10 @@
     "Liquid diet": "TREATMENT"
   },
   {
-    "pureed and soft": "TREATMENT"
+    "pureed": "TREATMENT"
+  },
+  {
+    "soft": "TREATMENT"
   },
   {
     "heavy lifting": "TREATMENT"
@@ -75,7 +90,7 @@
     "calf pain": "PROBLEM"
   },
   {
-    "temperature greater than 101.5": "PROBLEM"
+    "temperature": "TEST"
   },
   {
     "redness": "PROBLEM"
@@ -85,6 +100,9 @@
   },
   {
     "foul smelling drainage": "PROBLEM"
+  },
+  {
+    "wounds": "PROBLEM"
   },
   {
     "intractable nausea": "PROBLEM"

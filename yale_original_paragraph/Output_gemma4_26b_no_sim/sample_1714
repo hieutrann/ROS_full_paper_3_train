@@ -30,9 +30,6 @@
     "spinal cord injury": "PROBLEM"
   },
   {
-    "cardiovascular and CNS side effects": "PROBLEM"
-  },
-  {
     "sedatives": "DRUG"
   },
   {
@@ -57,13 +54,16 @@
     "X-ray": "TEST"
   },
   {
-    "betadine": "DRUG"
+    "betadine": "TREATMENT"
   },
   {
     "epidurogram": "TEST"
   },
   {
     "radiculogram": "TEST"
+  },
+  {
+    "ice": "TREATMENT"
   },
   {
     "shortness of breath": "PROBLEM"

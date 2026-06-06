@@ -21,7 +21,37 @@
     "alcohol and cocaine abuse": "PROBLEM"
   },
   {
-    "ground-level fall": "PROBLEM"
+    "weak knees": "PROBLEM"
+  },
+  {
+    "bilateral knee pain": "PROBLEM"
+  },
+  {
+    "hematuria": "PROBLEM"
+  },
+  {
+    "epigastric pain": "PROBLEM"
+  },
+  {
+    "Sepsis": "PROBLEM"
+  },
+  {
+    "SBP": "PROBLEM"
+  },
+  {
+    "diabetes": "PROBLEM"
+  },
+  {
+    "morbid obesity": "PROBLEM"
+  },
+  {
+    "hepatitis C": "PROBLEM"
+  },
+  {
+    "cirrhosis": "PROBLEM"
+  },
+  {
+    "alcohol and cocaine abuse": "PROBLEM"
   },
   {
     "weak knees": "PROBLEM"
@@ -66,7 +96,7 @@
     "hypotension": "PROBLEM"
   },
   {
-    "SBP": "PROBLEM"
+    "SBP": "TEST"
   },
   {
     "vancomycin": "DRUG"
@@ -103,6 +133,9 @@
   },
   {
     "hepatic encephalopathy": "PROBLEM"
+  },
+  {
+    "alcohol abuse": "PROBLEM"
   },
   {
     "Vancomycin": "DRUG"
@@ -156,6 +189,9 @@
     "nasal cannula": "TREATMENT"
   },
   {
+    "drowsy": "PROBLEM"
+  },
+  {
     "Morbidly obese": "PROBLEM"
   },
   {
@@ -180,19 +216,13 @@
     "bipedal edema": "PROBLEM"
   },
   {
-    "Tender on palpation of n right upper quadrant and epigastric area": "PROBLEM"
-  },
-  {
-    "Mildly tender on palpation of right upper quadrant and epigastric area": "PROBLEM"
+    "Tender on palpation": "PROBLEM"
   },
   {
     "cervical lymphadenopathy": "PROBLEM"
   },
   {
     "diffuse jaundice": "PROBLEM"
-  },
-  {
-    "subcutaneous nodules": "PROBLEM"
   },
   {
     "Poor judgment and insight": "PROBLEM"
@@ -300,6 +330,9 @@
     "portal hypertension": "PROBLEM"
   },
   {
+    "ascites": "PROBLEM"
+  },
+  {
     "splenomegaly": "PROBLEM"
   },
   {
@@ -313,6 +346,9 @@
   },
   {
     "urinary tract infection": "PROBLEM"
+  },
+  {
+    "Ascites": "PROBLEM"
   },
   {
     "spontaneous bacterial peritenonitis": "PROBLEM"
@@ -345,7 +381,16 @@
     "paracentesis": "TREATMENT"
   },
   {
-    "ascitic fluid for cell count, differential and cultures": "TEST"
+    "ascitic fluid": "TEST"
+  },
+  {
+    "cell count": "TEST"
+  },
+  {
+    "differential": "TEST"
+  },
+  {
+    "cultures": "TEST"
   },
   {
     "blood cultures": "TEST"

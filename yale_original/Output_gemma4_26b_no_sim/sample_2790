@@ -1,15 +1,6 @@
 [
   {
-    "Back Pain": "PROBLEM"
-  },
-  {
-    "Decreased ability to perform daily living activities": "PROBLEM"
-  },
-  {
-    "chronic back pain": "PROBLEM"
-  },
-  {
-    "Decreased ability to perform daily living activities": "PROBLEM"
+    "back pain": "PROBLEM"
   },
   {
     "chronic back pain": "PROBLEM"
@@ -108,6 +99,9 @@
     "excision of abdominal teratoma": "TREATMENT"
   },
   {
+    "abdominal teratoma": "PROBLEM"
+  },
+  {
     "incisional hernia": "PROBLEM"
   },
   {
@@ -198,12 +192,6 @@
     "cervical or axillary nodes palpable": "TEST"
   },
   {
-    "HEART": "TEST"
-  },
-  {
-    "S1 and S2": "TEST"
-  },
-  {
     "Obese": "PROBLEM"
   },
   {
@@ -219,10 +207,10 @@
     "calf tenderness": "PROBLEM"
   },
   {
-    "Bilateral strength": "TEST"
+    "back pain": "PROBLEM"
   },
   {
-    "Acute on chronic back pain": "PROBLEM"
+    "rehabilitation therapy": "TREATMENT"
   },
   {
     "Physical Therapy": "TREATMENT"
@@ -267,16 +255,25 @@
     "Protonix": "DRUG"
   },
   {
-    "Deep vein thrombosis prophylaxis": "TREATMENT"
+    "Deep vein thrombosis": "PROBLEM"
+  },
+  {
+    "prophylaxis": "TREATMENT"
+  },
+  {
+    "therapies": "TREATMENT"
+  },
+  {
+    "ambulating in the halls": "TREATMENT"
+  },
+  {
+    "leg exercises": "TREATMENT"
   },
   {
     "Obesity": "PROBLEM"
   },
   {
-    "decreased ability, daily living activities": "PROBLEM"
-  },
-  {
-    "exacerbation": "PROBLEM"
+    "weight loss": "PROBLEM"
   },
   {
     "back pain": "PROBLEM"

@@ -1,18 +1,15 @@
 [
   {
-    "General Medicine": "TEST"
+    "General Medicine": "TREATMENT"
   },
   {
-    "Normal Male Exam Template": "TEST"
+    "Normal Male Exam Template": "TREATMENT"
   },
   {
-    "Sample/template for a normal male multisystem exam": "TEST"
+    "Sample/template for a normal male multisystem exam": "TREATMENT"
   },
   {
     "afebrile": "PROBLEM"
-  },
-  {
-    "vital signs": "TEST"
   },
   {
     "blood pressure": "TEST"
@@ -45,19 +42,19 @@
     "Hearing": "PROBLEM"
   },
   {
-    "oropharynx": "PROBLEM"
+    "mucosa": "PROBLEM"
   },
   {
-    "mucosa": "PROBLEM"
+    "oropharynx": "TEST"
   },
   {
     "lesion": "PROBLEM"
   },
   {
-    "palate": "TEST"
+    "palate": "TREATMENT"
   },
   {
-    "tongue": "TEST"
+    "tongue": "TREATMENT"
   },
   {
     "tonsil": "PROBLEM"
@@ -66,7 +63,7 @@
     "pharynx": "PROBLEM"
   },
   {
-    "neck": "PROBLEM"
+    "supple": "PROBLEM"
   },
   {
     "thyroid gland": "PROBLEM"
@@ -75,13 +72,10 @@
     "respiratory effort": "TEST"
   },
   {
-    "Auscultation of the lung": "TEST"
-  },
-  {
     "lung": "PROBLEM"
   },
   {
-    "air movement": "PROBLEM"
+    "air movement": "TEST"
   },
   {
     "S1": "TEST"
@@ -96,19 +90,10 @@
     "edema": "PROBLEM"
   },
   {
-    "abdomen": "PROBLEM"
+    "enlarged liver": "PROBLEM"
   },
   {
-    "rebound": "PROBLEM"
-  },
-  {
-    "guarding": "PROBLEM"
-  },
-  {
-    "liver": "PROBLEM"
-  },
-  {
-    "spleen": "PROBLEM"
+    "enlarged spleen": "PROBLEM"
   },
   {
     "Bowel sounds": "TEST"
@@ -117,7 +102,7 @@
     "scrotal elements": "TEST"
   },
   {
-    "testes": "PROBLEM"
+    "discrete mass": "PROBLEM"
   },
   {
     "lesion": "PROBLEM"
@@ -126,22 +111,19 @@
     "discharge": "PROBLEM"
   },
   {
-    "LYMPHATIC": "TEST"
-  },
-  {
-    "node": "PROBLEM"
+    "appreciated node": "PROBLEM"
   },
   {
     "groin": "PROBLEM"
   },
   {
-    "neck": "PROBLEM"
+    "neck area": "PROBLEM"
   },
   {
     "deformity": "PROBLEM"
   },
   {
-    "extremities": "PROBLEM"
+    "deformity": "PROBLEM"
   },
   {
     "Range of motion": "TEST"
@@ -165,13 +147,19 @@
     "Deep tendon reflexes": "TEST"
   },
   {
-    "patellar area": "TEST"
+    "patellar area": "PROBLEM"
   },
   {
-    "Sensation": "PROBLEM"
+    "Sensation": "TEST"
   },
   {
-    "oriented to time, place and person": "TEST"
+    "oriented to time": "TEST"
+  },
+  {
+    "oriented to place": "TEST"
+  },
+  {
+    "oriented to person": "TEST"
   },
   {
     "judgment": "PROBLEM"
@@ -180,51 +168,45 @@
     "insight": "PROBLEM"
   },
   {
-    "general medicine": "PROBLEM"
+    "general medicine": "TREATMENT"
   },
   {
     "within normal limits": "TEST"
   },
   {
-    "conjunctiva": "TEST"
+    "conjunctiva": "PROBLEM"
   },
   {
-    "eyes": "TEST"
+    "eyes": "PROBLEM"
   },
   {
-    "ears": "TEST"
+    "ears": "PROBLEM"
   },
   {
-    "nose": "TEST"
+    "nose": "PROBLEM"
   },
   {
-    "throat": "TEST"
+    "throat": "PROBLEM"
   },
   {
-    "male": "TEST"
+    "heart": "PROBLEM"
   },
   {
-    "multisystem": "TEST"
-  },
-  {
-    "heart": "TEST"
-  },
-  {
-    "respiratory": "TEST"
+    "respiratory": "PROBLEM"
   },
   {
     "auscultation": "TEST"
   },
   {
-    "extremities": "TEST"
+    "extremities": "PROBLEM"
   },
   {
-    "oropharynx": "TEST"
+    "oropharynx": "PROBLEM"
   },
   {
-    "neck": "TEST"
+    "neck": "PROBLEM"
   },
   {
-    "tongue": "TEST"
+    "tongue": "PROBLEM"
   }
 ]

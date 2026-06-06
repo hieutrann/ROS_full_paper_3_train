@@ -6,13 +6,10 @@
     "dental disease": "PROBLEM"
   },
   {
-    "teeth pulled": "TREATMENT"
+    "extensive dental disease": "PROBLEM"
   },
   {
     "tooth pain": "PROBLEM"
-  },
-  {
-    "toothache": "PROBLEM"
   },
   {
     "OxyContin": "DRUG"
@@ -111,9 +108,6 @@
     "lesions": "PROBLEM"
   },
   {
-    "vision or hearing change": "PROBLEM"
-  },
-  {
     "focal weakness": "PROBLEM"
   },
   {
@@ -136,9 +130,6 @@
   },
   {
     "CODEINE": "DRUG"
-  },
-  {
-    "VITAL SIGNS": "TEST"
   },
   {
     "Temperature": "TEST"
@@ -178,6 +169,21 @@
   },
   {
     "swelling of canals": "PROBLEM"
+  },
+  {
+    "Tympanic membranes": "TEST"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "bulging": "PROBLEM"
+  },
+  {
+    "fluid levels": "PROBLEM"
+  },
+  {
+    "bubbles": "PROBLEM"
   },
   {
     "rhinorrhea": "PROBLEM"
@@ -246,6 +252,15 @@
     "Ludwig's syndrome": "PROBLEM"
   },
   {
+    "murmur": "PROBLEM"
+  },
+  {
+    "rub": "PROBLEM"
+  },
+  {
+    "gallop": "PROBLEM"
+  },
+  {
     "shortness of breath": "PROBLEM"
   },
   {
@@ -253,6 +268,9 @@
   },
   {
     "lesions": "PROBLEM"
+  },
+  {
+    "Cranial nerves II through XII": "TEST"
   },
   {
     "cervical lymphadenopathy": "PROBLEM"
@@ -276,33 +294,6 @@
     "clindamycin": "DRUG"
   },
   {
-    "odontalgi": "PROBLEM"
-  },
-  {
-    "multiple dental caries": "PROBLEM"
-  },
-  {
-    "dental disease": "PROBLEM"
-  },
-  {
-    "extensive dental disease": "PROBLEM"
-  },
-  {
-    "teeth pulled": "TREATMENT"
-  },
-  {
-    "cervical lymphadenopathy": "PROBLEM"
-  },
-  {
-    "dental caries": "PROBLEM"
-  },
-  {
     "toothache": "PROBLEM"
-  },
-  {
-    "erythema": "PROBLEM"
-  },
-  {
-    "swelling": "PROBLEM"
   }
 ]

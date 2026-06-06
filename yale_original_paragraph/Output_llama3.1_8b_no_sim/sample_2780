@@ -1,18 +1,21 @@
 [
   {
-    "pancreatic": "PROBLEM"
+    "pancreatic lesion": "PROBLEM"
   },
   {
-    "adrenal": "PROBLEM"
+    "adrenal lesion": "PROBLEM"
   },
   {
-    "adenoma": "PROBLEM"
+    "benign adenoma": "PROBLEM"
   },
   {
     "neoplasm": "PROBLEM"
   },
   {
     "pneumonitis": "PROBLEM"
+  },
+  {
+    "adenomatous polyps": "PROBLEM"
   },
   {
     "hypertension": "PROBLEM"
@@ -84,15 +87,27 @@
     "colonoscopy": "TEST"
   },
   {
-    "esophagogastroduodenoscopy": "TEST"
-  },
-  {
     "ERCP": "TEST"
   },
   {
-    "operative intervention": "TREATMENT"
+    "esophagogastroduodenoscopy": "TEST"
   },
   {
-    "biopsy": "TREATMENT"
+    "glaucoma": "PROBLEM"
+  },
+  {
+    "retinopathy": "PROBLEM"
+  },
+  {
+    "irritation": "PROBLEM"
+  },
+  {
+    "visual field defects": "PROBLEM"
+  },
+  {
+    "glasses": "TREATMENT"
+  },
+  {
+    "cancer": "PROBLEM"
   }
 ]

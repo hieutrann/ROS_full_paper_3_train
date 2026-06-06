@@ -6,31 +6,19 @@
     "urinary tract infection": "PROBLEM"
   },
   {
-    "VITAL SIGNS": "TEST"
-  },
-  {
-    "Temperature": "TEST"
-  },
-  {
-    "temperature": "TEST"
-  },
-  {
-    "CHEST": "TEST"
+    "auscultation": "TEST"
   },
   {
     "heart sounds": "TEST"
   },
   {
-    "murmurs": "PROBLEM"
+    "murmurs": "TEST"
   },
   {
     "Right renal angle is tender": "PROBLEM"
   },
   {
     "Bowel sounds": "TEST"
-  },
-  {
-    "swelling": "PROBLEM"
   },
   {
     "White count": "TEST"
@@ -108,10 +96,10 @@
     "Troponin": "TEST"
   },
   {
-    "troponin": "TEST"
+    "medical treatment": "TREATMENT"
   },
   {
-    "impaired clearance": "PROBLEM"
+    "troponin": "TEST"
   },
   {
     "sepsis": "PROBLEM"
@@ -127,8 +115,5 @@
   },
   {
     "troponin": "TEST"
-  },
-  {
-    "infection": "PROBLEM"
   }
 ]

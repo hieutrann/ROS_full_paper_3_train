@@ -3,13 +3,25 @@
     "vital signs": "TEST"
   },
   {
+    "afebrile": "PROBLEM"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "heart rate": "TEST"
+  },
+  {
     "ptosis": "PROBLEM"
+  },
+  {
+    "Hearing": "TEST"
   },
   {
     "lesion": "PROBLEM"
   },
   {
-    "enlarged": "PROBLEM"
+    "palpation": "TEST"
   },
   {
     "Auscultation of the lung": "TEST"
@@ -24,7 +36,13 @@
     "edema": "PROBLEM"
   },
   {
+    "Breast inspection": "TEST"
+  },
+  {
     "nipple discharge": "PROBLEM"
+  },
+  {
+    "Palpation of the breasts and axilla": "TEST"
   },
   {
     "mass": "PROBLEM"
@@ -42,7 +60,7 @@
     "enlarged liver": "PROBLEM"
   },
   {
-    "enlarged spleen": "PROBLEM"
+    "spleen": "PROBLEM"
   },
   {
     "Bowel sounds": "TEST"
@@ -57,9 +75,9 @@
     "cervical motion tenderness": "PROBLEM"
   },
   {
-    "deformity": "PROBLEM"
+    "Deep tendon reflexes": "TEST"
   },
   {
-    "Deep tendon reflexes": "TEST"
+    "Sensation": "TEST"
   }
 ]

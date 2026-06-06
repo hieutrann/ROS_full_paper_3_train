@@ -1,12 +1,15 @@
 [
   {
-    "mastoiditis": "PROBLEM"
+    "Mastoiditis": "PROBLEM"
   },
   {
     "acute otitis media": "PROBLEM"
   },
   {
     "severe ear pain": "PROBLEM"
+  },
+  {
+    "Mastoiditis": "PROBLEM"
   },
   {
     "mastoiditis": "PROBLEM"
@@ -15,16 +18,19 @@
     "CT scan": "TEST"
   },
   {
-    "DISCHARGE DIAGNOSES": "PROBLEM"
+    "DISCHARGE DIAGNOSES": "TREATMENT"
   },
   {
     "mastoiditis": "PROBLEM"
   },
   {
-    "2.": "TREATMENT"
+    "2": "TREATMENT"
   },
   {
     "acute otitis media": "PROBLEM"
+  },
+  {
+    "3": "TREATMENT"
   },
   {
     "Severe ear pain": "PROBLEM"
@@ -33,13 +39,25 @@
     "mastoiditis": "PROBLEM"
   },
   {
+    "CT scan": "TEST"
+  },
+  {
     "severe ear pain": "PROBLEM"
   },
   {
-    "blood draining from the right ear": "PROBLEM"
+    "blood draining": "PROBLEM"
   },
   {
-    "temperature maximum": "PROBLEM"
+    "right ear": "PROBLEM"
+  },
+  {
+    "temperature": "PROBLEM"
+  },
+  {
+    "101.4": "PROBLEM"
+  },
+  {
+    "ER": "TEST"
   },
   {
     "Unasyn": "DRUG"
@@ -78,6 +96,9 @@
     "narcotics": "DRUG"
   },
   {
+    "pain": "PROBLEM"
+  },
+  {
     "Unasyn": "DRUG"
   },
   {
@@ -108,7 +129,7 @@
     "respiratory rate": "TEST"
   },
   {
-    "Right ear": "PROBLEM"
+    "redness": "PROBLEM"
   },
   {
     "nontender": "PROBLEM"
@@ -117,10 +138,16 @@
     "posterior chains node": "PROBLEM"
   },
   {
+    "nontender": "PROBLEM"
+  },
+  {
     "swelling": "PROBLEM"
   },
   {
-    "Supple": "TEST"
+    "percussion": "TEST"
+  },
+  {
+    "Supple": "PROBLEM"
   },
   {
     "breath sounds": "TEST"
@@ -141,25 +168,28 @@
     "hepatosplenomegaly": "PROBLEM"
   },
   {
+    "tenderness": "PROBLEM"
+  },
+  {
     "Warm and well perfused": "PROBLEM"
   },
   {
-    "38.7 kg": "TEST"
+    "38.7 kg": "PROBLEM"
   },
   {
-    "Good": "PROBLEM"
+    "DISCHARGE CONDITION": "PROBLEM"
   },
   {
     "Regular as tolerated": "TREATMENT"
   },
   {
-    "DISCHARGE MEDICATIONS": "DRUG"
+    "DISCHARGE MEDICATIONS": "TREATMENT"
   },
   {
     "Ciprodex Otic Solution": "DRUG"
   },
   {
-    "2.": "TREATMENT"
+    "2": "TREATMENT"
   },
   {
     "Augmentin": "DRUG"
@@ -168,16 +198,16 @@
     "FOLLOW UP": "TREATMENT"
   },
   {
-    "Dr.": "PROBLEM"
+    "Dr.": "TREATMENT"
   },
   {
-    "Y": "PROBLEM"
+    "Y": "TREATMENT"
   },
   {
-    "2.": "TREATMENT"
+    "2": "TREATMENT"
   },
   {
-    "physician": "DRUG"
+    "primary care physician": "TREATMENT"
   },
   {
     "discharge time": "TEST"
@@ -186,15 +216,18 @@
     "acute otitis media": "PROBLEM"
   },
   {
+    "otitis media": "PROBLEM"
+  },
+  {
     "mastoiditis": "PROBLEM"
   },
   {
-    "otitis media": "PROBLEM"
+    "ear pain": "PROBLEM"
   },
   {
     "discharge": "PROBLEM"
   },
   {
-    "ear pain": "PROBLEM"
+    "discharge": "PROBLEM"
   }
 ]

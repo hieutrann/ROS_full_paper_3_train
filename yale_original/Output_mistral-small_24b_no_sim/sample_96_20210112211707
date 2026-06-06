@@ -15,19 +15,10 @@
     "weight loss": "PROBLEM"
   },
   {
-    "fever": "PROBLEM"
-  },
-  {
     "fatigue": "PROBLEM"
   },
   {
     "weakness": "PROBLEM"
-  },
-  {
-    "weight gain": "PROBLEM"
-  },
-  {
-    "weight loss": "PROBLEM"
   },
   {
     "pain": "PROBLEM"
@@ -48,7 +39,7 @@
     "dryness": "PROBLEM"
   },
   {
-    "feeling that something is in the eye": "PROBLEM"
+    "glasses": "TREATMENT"
   },
   {
     "Ears": "PROBLEM"
@@ -99,10 +90,10 @@
     "dry mouth": "PROBLEM"
   },
   {
-    "dentures": "PROBLEM"
+    "dentures": "TREATMENT"
   },
   {
-    "removable dental work": "PROBLEM"
+    "removable dental work": "TREATMENT"
   },
   {
     "frequent sore throats": "PROBLEM"
@@ -111,16 +102,13 @@
     "hoarseness": "PROBLEM"
   },
   {
-    "constant feeling of a need to clear the throat": "PROBLEM"
+    "constant feeling of a need to clear the throat when nothing is there": "PROBLEM"
   },
   {
-    "waking up with acid": "PROBLEM"
+    "waking up with acid or bitter fluid in the mouth or throat": "PROBLEM"
   },
   {
-    "bitter fluid": "PROBLEM"
-  },
-  {
-    "food sticking in throat": "PROBLEM"
+    "food sticking in throat when swallows": "PROBLEM"
   },
   {
     "painful swallowing": "PROBLEM"
@@ -130,9 +118,6 @@
   },
   {
     "irregular heartbeats": "PROBLEM"
-  },
-  {
-    "heartbeat": "PROBLEM"
   },
   {
     "palpitation": "PROBLEM"
@@ -234,10 +219,13 @@
     "hemorrhoids": "PROBLEM"
   },
   {
-    "difficult urination": "PROBLEM"
+    "urination": "PROBLEM"
   },
   {
-    "pain or burning with urination": "PROBLEM"
+    "pain": "PROBLEM"
+  },
+  {
+    "burning": "PROBLEM"
   },
   {
     "blood in the urine": "PROBLEM"
@@ -264,7 +252,10 @@
     "kidney stones": "PROBLEM"
   },
   {
-    "rash or ulcers": "PROBLEM"
+    "rash": "PROBLEM"
+  },
+  {
+    "ulcers": "PROBLEM"
   },
   {
     "sexual difficulties": "PROBLEM"
@@ -279,25 +270,19 @@
     "sexually transmitted diseases": "PROBLEM"
   },
   {
-    "arm": "PROBLEM"
-  },
-  {
-    "buttock": "PROBLEM"
-  },
-  {
-    "thigh": "PROBLEM"
-  },
-  {
-    "calf": "PROBLEM"
-  },
-  {
     "cramps": "PROBLEM"
   },
   {
-    "joint or muscle pain": "PROBLEM"
+    "joint pain": "PROBLEM"
+  },
+  {
+    "muscle pain": "PROBLEM"
   },
   {
     "muscle weakness": "PROBLEM"
+  },
+  {
+    "tenderness": "PROBLEM"
   },
   {
     "joint swelling": "PROBLEM"
@@ -312,7 +297,7 @@
     "orthopedic injuries": "PROBLEM"
   },
   {
-    "easy bruising": "PROBLEM"
+    "bruising": "PROBLEM"
   },
   {
     "skin redness": "PROBLEM"
@@ -324,10 +309,16 @@
     "hives": "PROBLEM"
   },
   {
+    "sensitivity to sun exposure": "PROBLEM"
+  },
+  {
     "tightness": "PROBLEM"
   },
   {
-    "nodules or bumps": "PROBLEM"
+    "nodules": "PROBLEM"
+  },
+  {
+    "bumps": "PROBLEM"
   },
   {
     "hair loss": "PROBLEM"
@@ -360,12 +351,6 @@
     "loss of consciousness": "PROBLEM"
   },
   {
-    "sensitivity": "PROBLEM"
-  },
-  {
-    "pain": "PROBLEM"
-  },
-  {
     "memory loss": "PROBLEM"
   },
   {
@@ -375,10 +360,19 @@
     "suicide": "PROBLEM"
   },
   {
-    "voices": "PROBLEM"
+    "head telling": "PROBLEM"
   },
   {
-    "intolerance to hot or cold temperature": "PROBLEM"
+    "psychiatric counseling": "TREATMENT"
+  },
+  {
+    "treatment": "TREATMENT"
+  },
+  {
+    "hot temperature": "PROBLEM"
+  },
+  {
+    "cold temperature": "PROBLEM"
   },
   {
     "flushing": "PROBLEM"
@@ -420,9 +414,36 @@
     "sensitivity": "PROBLEM"
   },
   {
+    "cardiovascular": "PROBLEM"
+  },
+  {
+    "ears": "PROBLEM"
+  },
+  {
+    "eyes": "PROBLEM"
+  },
+  {
+    "gastrointestinal": "PROBLEM"
+  },
+  {
+    "head": "PROBLEM"
+  },
+  {
+    "nose": "PROBLEM"
+  },
+  {
+    "respiratory": "PROBLEM"
+  },
+  {
     "fever": "PROBLEM"
   },
   {
     "blood": "TEST"
+  },
+  {
+    "tongue": "PROBLEM"
+  },
+  {
+    "loss": "PROBLEM"
   }
 ]

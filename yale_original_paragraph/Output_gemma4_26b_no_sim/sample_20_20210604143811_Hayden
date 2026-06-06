@@ -1,5 +1,8 @@
 [
   {
+    "Laryngitis": "PROBLEM"
+  },
+  {
     "Chronic laryngitis": "PROBLEM"
   },
   {
@@ -36,10 +39,16 @@
     "vocal hoarseness": "PROBLEM"
   },
   {
-    "difficulty": "PROBLEM"
+    "vocal hoarseness": "PROBLEM"
+  },
+  {
+    "vocal hygiene": "TREATMENT"
   },
   {
     "voice activities": "TREATMENT"
+  },
+  {
+    "hoarseness": "PROBLEM"
   },
   {
     "skilled speech therapy": "TREATMENT"
@@ -52,6 +61,9 @@
   },
   {
     "resonant voice": "TREATMENT"
+  },
+  {
+    "videostroboscopy": "TEST"
   },
   {
     "laryngitis": "PROBLEM"

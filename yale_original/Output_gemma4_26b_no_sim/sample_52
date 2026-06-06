@@ -15,6 +15,9 @@
     "greenish expectoration": "PROBLEM"
   },
   {
+    "exercise tolerance": "TEST"
+  },
+  {
     "shortness of breath": "PROBLEM"
   },
   {
@@ -45,6 +48,9 @@
     "Heart rate": "TEST"
   },
   {
+    "irregular": "PROBLEM"
+  },
+  {
     "Weight": "TEST"
   },
   {
@@ -60,7 +66,7 @@
     "Carotid upstroke": "TEST"
   },
   {
-    "Severe inspiratory and expiratory wheezing": "PROBLEM"
+    "wheezing": "PROBLEM"
   },
   {
     "Fine crepitations": "PROBLEM"
@@ -69,7 +75,7 @@
     "PMI": "TEST"
   },
   {
-    "First and second heart sounds": "TEST"
+    "heart sounds": "TEST"
   },
   {
     "systolic murmur": "PROBLEM"
@@ -90,7 +96,10 @@
     "Diovan": "DRUG"
   },
   {
-    "Lantus insulin": "DRUG"
+    "Lantus": "DRUG"
+  },
+  {
+    "insulin": "DRUG"
   },
   {
     "Lasix": "DRUG"
@@ -123,7 +132,7 @@
     "renal failure": "PROBLEM"
   },
   {
-    "ICD implantation": "TREATMENT"
+    "ICD": "TREATMENT"
   },
   {
     "atrial fibrillation": "PROBLEM"

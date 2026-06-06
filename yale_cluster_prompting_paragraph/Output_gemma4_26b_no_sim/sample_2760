@@ -30,12 +30,6 @@
     "open reduction and internal fixation": "TREATMENT"
   },
   {
-    "partial medial meniscectomy": "TREATMENT"
-  },
-  {
-    "CPM machine": "TREATMENT"
-  },
-  {
     "dyspnea": "PROBLEM"
   },
   {
@@ -52,6 +46,9 @@
   },
   {
     "Lasix": "DRUG"
+  },
+  {
+    "CPM machine": "TREATMENT"
   },
   {
     "antiembolic stockings": "TREATMENT"
@@ -72,13 +69,10 @@
     "Vicodin": "DRUG"
   },
   {
-    "pain": "PROBLEM"
+    "difficulty breathing": "PROBLEM"
   },
   {
     "Combivent nebulizer": "DRUG"
-  },
-  {
-    "difficulty breathing": "PROBLEM"
   },
   {
     "Zithromax": "DRUG"

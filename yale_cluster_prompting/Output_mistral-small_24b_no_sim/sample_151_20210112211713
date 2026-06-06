@@ -12,7 +12,7 @@
     "laparoscopy": "TREATMENT"
   },
   {
-    "open common bile duct exploration": "TREATMENT"
+    "common bile duct exploration": "TREATMENT"
   },
   {
     "stone extraction": "TREATMENT"
@@ -30,31 +30,25 @@
     "choledocholithiasis": "PROBLEM"
   },
   {
+    "ADDITIONAL DIAGNOSES": "PROBLEM"
+  },
+  {
     "roux-en-y gastric bypass": "TREATMENT"
   },
   {
-    "Laparoscopic paraventral hernia": "TREATMENT"
+    "Laparoscopic paraventral hernia": "PROBLEM"
   },
   {
     "sleep apnea": "PROBLEM"
   },
   {
-    "weight loss": "PROBLEM"
-  },
-  {
     "Morbid obesity": "PROBLEM"
-  },
-  {
-    "bmi": "TEST"
   },
   {
     "Laparoscopic cholecystectomy": "TREATMENT"
   },
   {
-    "laparoscopy": "TEST"
-  },
-  {
-    "open common bile duct exploration": "TREATMENT"
+    "laparoscopy converted to open common bile duct exploration": "TREATMENT"
   },
   {
     "stone extraction": "TREATMENT"
@@ -78,10 +72,10 @@
     "ultrasound": "TEST"
   },
   {
-    "dilated common bile duct": "PROBLEM"
+    "a dilated common bile duct": "PROBLEM"
   },
   {
-    "HIDA scan": "TEST"
+    "a HIDA scan": "TEST"
   },
   {
     "cholecystitis": "PROBLEM"
@@ -114,22 +108,19 @@
     "Roux-en-Y gastric bypass": "TREATMENT"
   },
   {
-    "ERCP": "TEST"
+    "an ERCP": "TEST"
   },
   {
     "stone extraction": "TREATMENT"
   },
   {
-    "common bile duct exploration": "TEST"
+    "common bile duct exploration": "TREATMENT"
   },
   {
-    "stone": "PROBLEM"
+    "a stone": "PROBLEM"
   },
   {
-    "open operation": "TREATMENT"
-  },
-  {
-    "medical surgical unit": "TREATMENT"
+    "an open operation": "TREATMENT"
   },
   {
     "incisional pain": "PROBLEM"
@@ -150,7 +141,7 @@
     "bilirubin": "TEST"
   },
   {
-    "liquid diet": "TREATMENT"
+    "a liquid diet": "TREATMENT"
   },
   {
     "Foley catheter": "TREATMENT"
@@ -159,7 +150,7 @@
     "bile leak": "PROBLEM"
   },
   {
-    "postoperative day": "TEST"
+    "regular diet": "TREATMENT"
   },
   {
     "bowels": "PROBLEM"
@@ -180,6 +171,9 @@
     "Jackson-Pratt drain": "TREATMENT"
   },
   {
+    "cystic duct": "PROBLEM"
+  },
+  {
     "laboratory studies": "TEST"
   },
   {
@@ -192,13 +186,22 @@
     "H&H": "TEST"
   },
   {
+    "Jackson-Pratt drain": "TREATMENT"
+  },
+  {
     "staple removal": "TREATMENT"
   },
   {
     "iron 325 mg p.o.": "DRUG"
   },
   {
-    "Lortab": "DRUG"
+    "Lortab elixir": "DRUG"
+  },
+  {
+    "q.4 h. p.r.n.": "DRUG"
+  },
+  {
+    "pain": "PROBLEM"
   },
   {
     "laparoscopy": "TREATMENT"

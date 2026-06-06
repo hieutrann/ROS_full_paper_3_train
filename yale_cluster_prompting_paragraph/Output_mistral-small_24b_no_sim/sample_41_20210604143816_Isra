@@ -1,6 +1,6 @@
 [
   {
-    "severe nausea": "PROBLEM"
+    "nausea": "PROBLEM"
   },
   {
     "abdominal pain": "PROBLEM"
@@ -27,9 +27,6 @@
     "EKG": "TEST"
   },
   {
-    "prolonged QT": "PROBLEM"
-  },
-  {
     "Chest x-ray": "TEST"
   },
   {
@@ -39,7 +36,7 @@
     "electrolytes": "TEST"
   },
   {
-    "creatinine": "TEST"
+    "Creatinine": "TEST"
   },
   {
     "White count": "TEST"
@@ -51,6 +48,15 @@
     "platelet count": "TEST"
   },
   {
-    "repair with mesh": "TREATMENT"
+    "umbilical hernia": "PROBLEM"
+  },
+  {
+    "emergency department": "TEST"
+  },
+  {
+    "sinus rhythm": "TEST"
+  },
+  {
+    "prolonged QT": "TEST"
   }
 ]

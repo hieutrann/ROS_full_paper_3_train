@@ -12,9 +12,6 @@
     "cardiovascular disease": "PROBLEM"
   },
   {
-    "pressure": "PROBLEM"
-  },
-  {
     "fast heartbeats": "PROBLEM"
   },
   {
@@ -42,13 +39,13 @@
     "right flank pain": "PROBLEM"
   },
   {
-    "spots on her shoulder": "PROBLEM"
-  },
-  {
     "urgency of urine": "PROBLEM"
   },
   {
     "leaking": "PROBLEM"
+  },
+  {
+    "pad": "TREATMENT"
   },
   {
     "colonoscopy": "TEST"
@@ -117,13 +114,7 @@
     "heart attack": "PROBLEM"
   },
   {
-    "leukopenia": "PROBLEM"
-  },
-  {
     "irritable bowel syndrome": "PROBLEM"
-  },
-  {
-    "Aciphex": "DRUG"
   },
   {
     "aspirin": "DRUG"
@@ -135,6 +126,9 @@
     "thyromegaly": "PROBLEM"
   },
   {
+    "murmur": "PROBLEM"
+  },
+  {
     "organomegaly": "PROBLEM"
   },
   {
@@ -144,7 +138,10 @@
     "tinea versicolor": "PROBLEM"
   },
   {
-    "cystocele": "PROBLEM"
+    "selenium sulfide lotion": "DRUG"
+  },
+  {
+    "Cystocele": "PROBLEM"
   },
   {
     "urinary incontinence": "PROBLEM"
@@ -157,11 +154,5 @@
   },
   {
     "Gastroesophageal reflux disease": "PROBLEM"
-  },
-  {
-    "selenium sulfide lotion": "DRUG"
-  },
-  {
-    "punch biopsy": "TEST"
   }
 ]

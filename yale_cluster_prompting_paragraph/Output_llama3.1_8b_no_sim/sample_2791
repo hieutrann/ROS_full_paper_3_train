@@ -1,6 +1,6 @@
 [
   {
-    "GI Bleed": "PROBLEM"
+    "GI bleed": "PROBLEM"
   },
   {
     "Upper gastrointestinal bleed": "PROBLEM"
@@ -33,10 +33,19 @@
     "polyp": "PROBLEM"
   },
   {
-    "CBC": "TEST"
+    "anemia": "PROBLEM"
   },
   {
-    "VITAL SIGNS": "TEST"
+    "EGD": "TEST"
+  },
+  {
+    "colonoscopy": "TEST"
+  },
+  {
+    "barium enema": "TEST"
+  },
+  {
+    "Coumadin": "DRUG"
   },
   {
     "Feosol": "DRUG"
@@ -69,15 +78,12 @@
     "lisinopril": "DRUG"
   },
   {
-    "Coumadin": "DRUG"
-  },
-  {
     "endoscopy": "TREATMENT"
   },
   {
-    "colonoscopy": "TREATMENT"
+    "transfusion": "TREATMENT"
   },
   {
-    "transfusion": "TREATMENT"
+    "resection": "TREATMENT"
   }
 ]

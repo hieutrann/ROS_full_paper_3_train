@@ -9,13 +9,7 @@
     "Temperature": "TEST"
   },
   {
-    "murmurs": "PROBLEM"
-  },
-  {
     "Right renal angle is tender": "PROBLEM"
-  },
-  {
-    "swelling": "PROBLEM"
   },
   {
     "White count": "TEST"
@@ -94,6 +88,9 @@
   },
   {
     "troponin": "TEST"
+  },
+  {
+    "general medicine": "TEST"
   },
   {
     "sepsis": "PROBLEM"

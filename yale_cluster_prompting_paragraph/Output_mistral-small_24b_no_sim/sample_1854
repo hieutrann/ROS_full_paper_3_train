@@ -1,9 +1,33 @@
 [
   {
-    "Radiology": "TEST"
+    "CT cervical spine": "TEST"
   },
   {
-    "CT C-Spine": "TEST"
+    "CT examination": "TEST"
+  },
+  {
+    "CT": "TEST"
+  },
+  {
+    "cervical spine": "PROBLEM"
+  },
+  {
+    "fractures": "PROBLEM"
+  },
+  {
+    "destructive osseous lesions": "PROBLEM"
+  },
+  {
+    "degenerative endplate": "PROBLEM"
+  },
+  {
+    "osseous central canal": "PROBLEM"
+  },
+  {
+    "foraminal narrowing": "PROBLEM"
+  },
+  {
+    "cervical spine": "PROBLEM"
   },
   {
     "CT cervical spine": "TEST"
@@ -15,16 +39,25 @@
     "coronal": "TEST"
   },
   {
-    "sagittal": "TEST"
+    "CT": "TEST"
   },
   {
-    "cervical spine": "TEST"
+    "cervical spine": "PROBLEM"
+  },
+  {
+    "cervical vertebral body height": "PROBLEM"
+  },
+  {
+    "alignment": "PROBLEM"
+  },
+  {
+    "interspacing": "PROBLEM"
   },
   {
     "fractures": "PROBLEM"
   },
   {
-    "osseous lesions": "PROBLEM"
+    "destructive osseous lesions": "PROBLEM"
   },
   {
     "degenerative endplate": "PROBLEM"
@@ -39,6 +72,6 @@
     "foraminal narrowing": "PROBLEM"
   },
   {
-    "cervical spine": "TEST"
+    "cervical spine": "PROBLEM"
   }
 ]

@@ -3,10 +3,7 @@
     "right foot ulcer": "PROBLEM"
   },
   {
-    "possible osteomyelitis": "PROBLEM"
-  },
-  {
-    "Antibiotic": "DRUG"
+    "osteomyelitis": "PROBLEM"
   },
   {
     "right foot ulcer": "PROBLEM"
@@ -57,7 +54,7 @@
     "lacerated wound": "PROBLEM"
   },
   {
-    "The wound": "PROBLEM"
+    "wound": "PROBLEM"
   },
   {
     "stage IV": "PROBLEM"
@@ -105,10 +102,31 @@
     "blood pressure": "TEST"
   },
   {
-    "Pupils": "PROBLEM"
+    "Pupils": "TEST"
+  },
+  {
+    "Extraocular movements": "TEST"
+  },
+  {
+    "External ear exam": "TEST"
   },
   {
     "lymphadenopathy": "PROBLEM"
+  },
+  {
+    "murmur": "PROBLEM"
+  },
+  {
+    "rub": "PROBLEM"
+  },
+  {
+    "gallop": "PROBLEM"
+  },
+  {
+    "Lungs": "TEST"
+  },
+  {
+    "bowel sounds": "TEST"
   },
   {
     "lymphadenopathy": "PROBLEM"
@@ -135,7 +153,13 @@
     "wound": "PROBLEM"
   },
   {
+    "third metatarsal bone": "PROBLEM"
+  },
+  {
     "osteomyelitis": "PROBLEM"
+  },
+  {
+    "Cranial nerves II through XII": "TEST"
   },
   {
     "diabetes mellitus": "PROBLEM"
@@ -169,9 +193,6 @@
   },
   {
     "bone scan": "TEST"
-  },
-  {
-    "Cultures": "TEST"
   },
   {
     "methicillin-sensitive Staphylococcus aureus": "PROBLEM"
@@ -226,9 +247,6 @@
   },
   {
     "CBC": "TEST"
-  },
-  {
-    "antibiotic therapy": "TREATMENT"
   },
   {
     "wound healing": "PROBLEM"

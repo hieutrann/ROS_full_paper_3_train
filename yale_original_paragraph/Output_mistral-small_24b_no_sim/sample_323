@@ -1,113 +1,2159 @@
 [
   {
-    "HEENT": "TEST"
-  },
-  {
-    "Pupils": "TEST"
-  },
-  {
-    "TMs": "TEST"
-  },
-  {
-    "Oropharynx": "TEST"
-  },
-  {
-    "Neck": "TEST"
-  },
-  {
-    "Carotids": "TEST"
-  },
-  {
-    "Chest": "TEST"
-  },
-  {
-    "Cardiovascular": "TEST"
-  },
-  {
-    "Abdomen": "TEST"
-  },
-  {
-    "GU": "TEST"
-  },
-  {
-    "Rectal Exam": "TEST"
-  },
-  {
-    "Extremities": "TEST"
-  },
-  {
-    "Joint Exam": "TEST"
-  },
-  {
-    "Integumentary": "TEST"
-  },
-  {
-    "Neurologic": "TEST"
-  },
-  {
-    "Psychiatric": "TEST"
-  },
-  {
-    "Dermatologic": "TEST"
-  },
-  {
-    "bimanual exam": "TEST"
-  },
-  {
     "hemoccult": "TEST"
-  },
-  {
-    "ii through xii": "TEST"
-  },
-  {
-    "breast tissue": "TEST"
-  },
-  {
-    "cardiovascular": "TEST"
-  },
-  {
-    "dermatologic": "TEST"
-  },
-  {
-    "external genitalia": "TEST"
-  },
-  {
-    "integumentary": "TEST"
-  },
-  {
-    "joint exam": "TEST"
-  },
-  {
-    "lymphadenopathy": "PROBLEM"
-  },
-  {
-    "neck": "TEST"
-  },
-  {
-    "neurologic": "TEST"
-  },
-  {
-    "physical examination": "TEST"
-  },
-  {
-    "rectal exam": "TEST"
-  },
-  {
-    "skin changes": "PROBLEM"
-  },
-  {
-    "speculum exam": "TEST"
-  },
-  {
-    "female physical": "TEST"
-  },
-  {
-    "extremities": "TEST"
   },
   {
     "masses": "PROBLEM"
   },
   {
-    "oropharynx": "TEST"
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
   }
 ]

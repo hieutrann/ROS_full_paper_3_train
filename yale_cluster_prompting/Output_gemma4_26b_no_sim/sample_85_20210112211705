@@ -42,10 +42,10 @@
     "temporary internal pacemaker": "TREATMENT"
   },
   {
-    "A temporary intracardiac pacemaker": "TREATMENT"
+    "intracardiac pacemaker": "TREATMENT"
   },
   {
-    "permanent pacemaker": "TREATMENT"
+    "pacemaker": "TREATMENT"
   },
   {
     "electrocardiograms": "TEST"
@@ -54,7 +54,7 @@
     "telemetry readings": "TEST"
   },
   {
-    "sinus rhythm": "PROBLEM"
+    "sinus rhythm": "TEST"
   },
   {
     "severe bradycardias": "PROBLEM"
@@ -66,9 +66,6 @@
     "Permanent pacemaker": "TREATMENT"
   },
   {
-    "right atrium appendage and right ventricular apex electrode placement": "TREATMENT"
-  },
-  {
     "pacemaker": "TREATMENT"
   },
   {
@@ -78,16 +75,10 @@
     "Right femoral artery catheter": "TREATMENT"
   },
   {
-    "pulses": "TEST"
-  },
-  {
-    "right lower extremity": "PROBLEM"
-  },
-  {
     "hematoma": "PROBLEM"
   },
   {
-    "blood pressure": "TEST"
+    "blood pressure": "PROBLEM"
   },
   {
     "benazepril": "DRUG"
@@ -96,7 +87,7 @@
     "Norvasc": "DRUG"
   },
   {
-    "Her blood pressure": "TEST"
+    "blood pressure": "PROBLEM"
   },
   {
     "Sick sinus syndrome": "PROBLEM"
@@ -147,7 +138,7 @@
     "Triazolam": "DRUG"
   },
   {
-    "Milk of Magnesia": "DRUG"
+    "Milk of Magnesia suspension": "DRUG"
   },
   {
     "constipation": "PROBLEM"
@@ -183,10 +174,7 @@
     "staple removal": "TREATMENT"
   },
   {
-    "starch-free diet": "TREATMENT"
-  },
-  {
-    "sugar-free diet": "TREATMENT"
+    "starch, sugar-free diet": "TREATMENT"
   },
   {
     "bradycardia": "PROBLEM"

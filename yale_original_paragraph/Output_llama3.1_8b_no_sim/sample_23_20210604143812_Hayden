@@ -3,27 +3,21 @@
     "aphasia": "PROBLEM"
   },
   {
-    "g-tube": "PROBLEM"
-  },
-  {
-    "speech therapy": "TREATMENT"
+    "g-tube": "TREATMENT"
   },
   {
     "Western Aphasia Battery": "TEST"
   },
   {
-    "modified barium swallow study": "TEST"
+    "speech therapy": "TREATMENT"
   },
   {
-    "yes-no responses": "TEST"
+    "aspiration": "PROBLEM"
   },
   {
-    "named objects": "TEST"
+    "speech": "PROBLEM"
   },
   {
-    "basic wants and needs": "TEST"
-  },
-  {
-    "aphasia quotient": "TEST"
+    "communication": "PROBLEM"
   }
 ]

@@ -1,0 +1,266 @@
+[
+  {
+    "Respiratory distress syndrome": "PROBLEM"
+  },
+  {
+    "intrauterine growth restriction": "PROBLEM"
+  },
+  {
+    "thrombocytopenia": "PROBLEM"
+  },
+  {
+    "hypoglycemia": "PROBLEM"
+  },
+  {
+    "retinal immaturity": "PROBLEM"
+  },
+  {
+    "ex-32 weeks": "PROBLEM"
+  },
+  {
+    "small for gestational age": "PROBLEM"
+  },
+  {
+    "birth weight 1102": "PROBLEM"
+  },
+  {
+    "Respiratory distress syndrome": "PROBLEM"
+  },
+  {
+    "intrauterine growth restriction": "PROBLEM"
+  },
+  {
+    "thrombocytopenia": "PROBLEM"
+  },
+  {
+    "hypoglycemia": "PROBLEM"
+  },
+  {
+    "retinal immaturity": "PROBLEM"
+  },
+  {
+    "ex-32 weeks": "PROBLEM"
+  },
+  {
+    "small for gestational age": "PROBLEM"
+  },
+  {
+    "1102": "PROBLEM"
+  },
+  {
+    "ABCD Hospital": "TEST"
+  },
+  {
+    "gravida 1, para 0": "PROBLEM"
+  },
+  {
+    "low amniotic fluid index": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "preeclampsia": "PROBLEM"
+  },
+  {
+    "C-section": "TREATMENT"
+  },
+  {
+    "Baby delivered operatively": "TREATMENT"
+  },
+  {
+    "Apgar scores": "TEST"
+  },
+  {
+    "Children's Hospital": "TREATMENT"
+  },
+  {
+    "Children's Hospital": "TEST"
+  },
+  {
+    "ABCD": "TEST"
+  },
+  {
+    "TPN": "TREATMENT"
+  },
+  {
+    "feeds": "TREATMENT"
+  },
+  {
+    "p.o.": "TREATMENT"
+  },
+  {
+    "abdominal distention": "PROBLEM"
+  },
+  {
+    "p.o.": "TREATMENT"
+  },
+  {
+    "IV D10 water": "TREATMENT"
+  },
+  {
+    "Mylicon drops": "DRUG"
+  },
+  {
+    "glycerin suppositories": "TREATMENT"
+  },
+  {
+    "gaseous distention": "PROBLEM"
+  },
+  {
+    "OG tube": "TREATMENT"
+  },
+  {
+    "p.o.": "TREATMENT"
+  },
+  {
+    "Reglan": "DRUG"
+  },
+  {
+    "p.o.": "TREATMENT"
+  },
+  {
+    "NeoSure": "DRUG"
+  },
+  {
+    "35 to 50 mL per feed": "TEST"
+  },
+  {
+    "apnea spells": "PROBLEM"
+  },
+  {
+    "bradycardia": "PROBLEM"
+  },
+  {
+    "desaturations": "PROBLEM"
+  },
+  {
+    "hypoglycemic episodes": "PROBLEM"
+  },
+  {
+    "46": "TEST"
+  },
+  {
+    "D10": "DRUG"
+  },
+  {
+    "hypoglycemic episodes": "PROBLEM"
+  },
+  {
+    "Diazoxide": "DRUG"
+  },
+  {
+    "blood glucose level": "PROBLEM"
+  },
+  {
+    "diazoxide": "DRUG"
+  },
+  {
+    "hypoglycemic issues": "PROBLEM"
+  },
+  {
+    "hypoglycemic issues": "PROBLEM"
+  },
+  {
+    "Diazoxide": "DRUG"
+  },
+  {
+    "diazoxide": "DRUG"
+  },
+  {
+    "diazoxide": "DRUG"
+  },
+  {
+    "blood glucose levels": "PROBLEM"
+  },
+  {
+    "hemodynamically stable": "PROBLEM"
+  },
+  {
+    "PDA": "PROBLEM"
+  },
+  {
+    "echograms": "TEST"
+  },
+  {
+    "antegrade flow": "TEST"
+  },
+  {
+    "head ultrasound": "TEST"
+  },
+  {
+    "intracranial abnormalities": "PROBLEM"
+  },
+  {
+    "intracranial hemorrhage": "PROBLEM"
+  },
+  {
+    "intracranial hemorrhage": "PROBLEM"
+  },
+  {
+    "antibiotics": "DRUG"
+  },
+  {
+    "antibiotics": "DRUG"
+  },
+  {
+    "phototherapy": "TREATMENT"
+  },
+  {
+    "iron": "DRUG"
+  },
+  {
+    "retina": "PROBLEM"
+  },
+  {
+    "followup exam": "TEST"
+  },
+  {
+    "ex-32-weeks preemie": "PROBLEM"
+  },
+  {
+    "CPR measures": "TREATMENT"
+  },
+  {
+    "Kid's Care": "TEST"
+  },
+  {
+    "Calcium challenge": "TEST"
+  },
+  {
+    "feeding": "PROBLEM"
+  },
+  {
+    "NeoSure": "DRUG"
+  },
+  {
+    "expressed breast milk": "TREATMENT"
+  },
+  {
+    "preeclampsia": "PROBLEM"
+  },
+  {
+    "immaturity": "PROBLEM"
+  },
+  {
+    "intrauterine": "PROBLEM"
+  },
+  {
+    "prenatal": "PROBLEM"
+  },
+  {
+    "coronary artery": "PROBLEM"
+  },
+  {
+    "blood glucose": "TEST"
+  },
+  {
+    "hypoglycemia": "PROBLEM"
+  },
+  {
+    "hypoglycemic": "PROBLEM"
+  },
+  {
+    "infant": "PROBLEM"
+  }
+]

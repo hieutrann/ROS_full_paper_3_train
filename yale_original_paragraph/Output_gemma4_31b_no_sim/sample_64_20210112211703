@@ -1,6 +1,6 @@
 [
   {
-    "right foot ulcer": "PROBLEM"
+    "foot ulcer": "PROBLEM"
   },
   {
     "osteomyelitis": "PROBLEM"
@@ -12,7 +12,10 @@
     "Cultures": "TEST"
   },
   {
-    "methicillin-sensitive Staphylococcus aureus (MSSA)": "PROBLEM"
+    "methicillin-sensitive Staphylococcus aureus": "PROBLEM"
+  },
+  {
+    "MSSA": "PROBLEM"
   },
   {
     "intravenous antibiotic therapy": "TREATMENT"
@@ -75,18 +78,6 @@
     "lymphadenopathy": "PROBLEM"
   },
   {
-    "murmur": "PROBLEM"
-  },
-  {
-    "rub": "PROBLEM"
-  },
-  {
-    "gallop": "PROBLEM"
-  },
-  {
-    "organomegaly": "PROBLEM"
-  },
-  {
     "cyanosis": "PROBLEM"
   },
   {
@@ -130,5 +121,8 @@
   },
   {
     "C-reactive protein levels": "TEST"
+  },
+  {
+    "CBC": "TEST"
   }
 ]

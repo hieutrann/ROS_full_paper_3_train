@@ -51,7 +51,10 @@
     "no gestational sac": "PROBLEM"
   },
   {
-    "small mass within the uterus": "PROBLEM"
+    "small mass": "PROBLEM"
+  },
+  {
+    "uterus": "PROBLEM"
   },
   {
     "hCG titer": "TEST"
@@ -129,6 +132,6 @@
     "ruptured pregnancy": "PROBLEM"
   },
   {
-    "ectopic": "PROBLEM"
+    "ectopic pregnancy": "PROBLEM"
   }
 ]

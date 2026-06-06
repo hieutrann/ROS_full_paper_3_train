@@ -1,14 +1,29 @@
 [
   {
-    "thyroid goiter": "PROBLEM"
+    "Symptomatic thyroid goiter": "PROBLEM"
   },
   {
-    "thyroidectomy": "TREATMENT"
+    "Total thyroidectomy": "TREATMENT"
   },
   {
     "Vicodin": "DRUG"
   },
   {
     "Synthroid": "DRUG"
+  },
+  {
+    "EGD": "TEST"
+  },
+  {
+    "colonoscopy": "TEST"
+  },
+  {
+    "barium enema": "TEST"
+  },
+  {
+    "thyroid hormone replacement": "TREATMENT"
+  },
+  {
+    "intravenous narcotics": "TREATMENT"
   }
 ]

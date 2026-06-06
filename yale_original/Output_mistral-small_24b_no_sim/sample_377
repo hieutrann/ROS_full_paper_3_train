@@ -6,6 +6,9 @@
     "chest pain": "PROBLEM"
   },
   {
+    "female": "PROBLEM"
+  },
+  {
     "chest pain": "PROBLEM"
   },
   {
@@ -18,10 +21,7 @@
     "cardiovascular disease": "PROBLEM"
   },
   {
-    "symptoms": "PROBLEM"
-  },
-  {
-    "night": "PROBLEM"
+    "pressure": "PROBLEM"
   },
   {
     "chest": "PROBLEM"
@@ -36,16 +36,13 @@
     "stomach pains": "PROBLEM"
   },
   {
-    "mid epigastric area": "PROBLEM"
+    "epigastric": "PROBLEM"
   },
   {
     "reflux": "PROBLEM"
   },
   {
     "Aciphex": "DRUG"
-  },
-  {
-    "symptoms": "PROBLEM"
   },
   {
     "Aciphex": "DRUG"
@@ -72,9 +69,6 @@
     "spots": "PROBLEM"
   },
   {
-    "shoulder": "PROBLEM"
-  },
-  {
     "spots": "PROBLEM"
   },
   {
@@ -87,19 +81,13 @@
     "urge": "PROBLEM"
   },
   {
-    "restroom": "PROBLEM"
-  },
-  {
-    "leaking": "PROBLEM"
-  },
-  {
     "colonoscopy": "TEST"
   },
   {
-    "leukopenia": "PROBLEM"
+    "labs": "TEST"
   },
   {
-    "labs": "TEST"
+    "leukopenia": "PROBLEM"
   },
   {
     "hepatitis titer": "TEST"
@@ -111,7 +99,7 @@
     "thumbs": "PROBLEM"
   },
   {
-    "fine motor skills": "TEST"
+    "fine motor skills": "PROBLEM"
   },
   {
     "swelling": "PROBLEM"
@@ -123,7 +111,7 @@
     "trauma": "PROBLEM"
   },
   {
-    "eye doctor": "TEST"
+    "eye doctor": "TREATMENT"
   },
   {
     "hearing loss": "PROBLEM"
@@ -138,7 +126,10 @@
     "chronic cough": "PROBLEM"
   },
   {
-    "black or bloody stools": "PROBLEM"
+    "black stools": "PROBLEM"
+  },
+  {
+    "bloody stools": "PROBLEM"
   },
   {
     "diarrhea": "PROBLEM"
@@ -153,10 +144,19 @@
     "edema": "PROBLEM"
   },
   {
-    "lower extremity numbness": "PROBLEM"
+    "numbness": "PROBLEM"
   },
   {
     "tingling": "PROBLEM"
+  },
+  {
+    "weight": "PROBLEM"
+  },
+  {
+    "diet": "TREATMENT"
+  },
+  {
+    "smoking": "PROBLEM"
   },
   {
     "type I diabetes": "PROBLEM"
@@ -171,7 +171,7 @@
     "smoker": "PROBLEM"
   },
   {
-    "Episodic leukopenia": "PROBLEM"
+    "leukopenia": "PROBLEM"
   },
   {
     "irritable bowel syndrome": "PROBLEM"
@@ -192,10 +192,22 @@
     "Pulse": "TEST"
   },
   {
+    "adult female": "PROBLEM"
+  },
+  {
     "pupils": "TEST"
   },
   {
     "Conjunctivae": "PROBLEM"
+  },
+  {
+    "TMs": "TEST"
+  },
+  {
+    "Oropharynx": "TEST"
+  },
+  {
+    "Dentition": "PROBLEM"
   },
   {
     "lymphadenopathy": "PROBLEM"
@@ -213,13 +225,10 @@
     "Radial pulses": "TEST"
   },
   {
-    "Abdomen": "TEST"
+    "organomegaly": "PROBLEM"
   },
   {
     "tenderness": "PROBLEM"
-  },
-  {
-    "base of her thumbs": "PROBLEM"
   },
   {
     "PIP joint": "PROBLEM"
@@ -228,19 +237,16 @@
     "DIP joint": "PROBLEM"
   },
   {
-    "tinea versicolor": "PROBLEM"
+    "armpits": "PROBLEM"
   },
   {
-    "rash": "PROBLEM"
+    "tinea versicolor": "PROBLEM"
   },
   {
     "lesion": "PROBLEM"
   },
   {
-    "diffuse borders": "PROBLEM"
-  },
-  {
-    "slightly red": "PROBLEM"
+    "borders": "PROBLEM"
   },
   {
     "cyanosis": "PROBLEM"
@@ -249,10 +255,13 @@
     "edema": "PROBLEM"
   },
   {
-    "Pulses": "TEST"
+    "radial pulses": "TEST"
   },
   {
-    "gait": "TEST"
+    "posterior tibial pulses": "TEST"
+  },
+  {
+    "gait": "PROBLEM"
   },
   {
     "affect": "PROBLEM"
@@ -261,10 +270,13 @@
     "speech": "PROBLEM"
   },
   {
+    "coordination": "PROBLEM"
+  },
+  {
     "Chest pain": "PROBLEM"
   },
   {
-    "Murphys evaluation": "TEST"
+    "evaluation": "TEST"
   },
   {
     "reflux": "PROBLEM"
@@ -295,9 +307,6 @@
   },
   {
     "Tinea versicolor": "PROBLEM"
-  },
-  {
-    "axillary area": "PROBLEM"
   },
   {
     "selenium sulfide lotion": "DRUG"

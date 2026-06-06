@@ -1,9 +1,15 @@
 [
   {
-    "Nausea & Vomiting": "PROBLEM"
+    "Nausea": "PROBLEM"
   },
   {
-    "intractable nausea and vomiting": "PROBLEM"
+    "Vomiting": "PROBLEM"
+  },
+  {
+    "intractable nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
   },
   {
     "blood-tinged vomit": "PROBLEM"
@@ -15,31 +21,31 @@
     "potassium slightly elevated": "PROBLEM"
   },
   {
-    "ALT": "TEST"
+    "ALT of 93": "TEST"
   },
   {
-    "AST": "TEST"
+    "AST of 35": "TEST"
   },
   {
-    "total bilirubin": "TEST"
+    "total bilirubin is 1.2": "TEST"
   },
   {
     "urine": "TEST"
   },
   {
-    "ketones": "TEST"
+    "3+ ketones": "PROBLEM"
   },
   {
-    "protein": "TEST"
+    "2+ protein": "PROBLEM"
   },
   {
-    "esterase": "TEST"
+    "1+ esterase": "PROBLEM"
   },
   {
-    "rbc": "TEST"
+    "rbc too numerous to count": "PROBLEM"
   },
   {
-    "bacteria": "PROBLEM"
+    "moderate amount of bacteria": "PROBLEM"
   },
   {
     "H and H": "TEST"
@@ -63,7 +69,10 @@
     "bladder infection": "PROBLEM"
   },
   {
-    "nausea and vomiting": "PROBLEM"
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
   },
   {
     "vomiting": "PROBLEM"
@@ -87,16 +96,7 @@
     "IV hydration": "TREATMENT"
   },
   {
-    "elevated ALT": "PROBLEM"
-  },
-  {
-    "nausea and vomiting": "PROBLEM"
-  },
-  {
-    "iv hydration": "TREATMENT"
-  },
-  {
-    "elevated alt": "PROBLEM"
+    "Slightly elevated ALT": "PROBLEM"
   },
   {
     "nausea": "PROBLEM"

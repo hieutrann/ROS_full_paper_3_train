@@ -1,0 +1,410 @@
+[
+  {
+    "Asthma": "PROBLEM"
+  },
+  {
+    "allergic rhinitis": "PROBLEM"
+  },
+  {
+    "asthma": "PROBLEM"
+  },
+  {
+    "asthma": "PROBLEM"
+  },
+  {
+    "inhaler": "DRUG"
+  },
+  {
+    "allergies": "PROBLEM"
+  },
+  {
+    "hauling corn": "PROBLEM"
+  },
+  {
+    "Allegra": "DRUG"
+  },
+  {
+    "Flonase": "DRUG"
+  },
+  {
+    "Advair": "DRUG"
+  },
+  {
+    "vaginal irritation": "PROBLEM"
+  },
+  {
+    "irritability": "PROBLEM"
+  },
+  {
+    "PMS": "PROBLEM"
+  },
+  {
+    "mood": "PROBLEM"
+  },
+  {
+    "menstrual cycle": "PROBLEM"
+  },
+  {
+    "Menses have been regular but somewhat shorter than in the past.": "PROBLEM"
+  },
+  {
+    "spotting": "PROBLEM"
+  },
+  {
+    "hot flashes": "PROBLEM"
+  },
+  {
+    "night sweats": "PROBLEM"
+  },
+  {
+    "blood": "PROBLEM"
+  },
+  {
+    "urinary tract infection": "PROBLEM"
+  },
+  {
+    "urine": "TEST"
+  },
+  {
+    "cholesterol": "TEST"
+  },
+  {
+    "REVIEW OF SYSTEMS": "TEST"
+  },
+  {
+    "fevers": "PROBLEM"
+  },
+  {
+    "headaches": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "chest pain or tightness": "PROBLEM"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "heartburn": "PROBLEM"
+  },
+  {
+    "constipation": "PROBLEM"
+  },
+  {
+    "diarrhea": "PROBLEM"
+  },
+  {
+    "dysuria": "PROBLEM"
+  },
+  {
+    "stress incontinence": "PROBLEM"
+  },
+  {
+    "muscle or joint pain": "PROBLEM"
+  },
+  {
+    "skin": "PROBLEM"
+  },
+  {
+    "polyphagia": "PROBLEM"
+  },
+  {
+    "polydipsia": "PROBLEM"
+  },
+  {
+    "polyuria": "PROBLEM"
+  },
+  {
+    "asthma": "PROBLEM"
+  },
+  {
+    "allergic rhinitis": "PROBLEM"
+  },
+  {
+    "cervical dysplasia": "PROBLEM"
+  },
+  {
+    "married": "PROBLEM"
+  },
+  {
+    "nonsmoker": "PROBLEM"
+  },
+  {
+    "Proventil": "DRUG"
+  },
+  {
+    "Allegra": "DRUG"
+  },
+  {
+    "Sulfa": "DRUG"
+  },
+  {
+    "weight": "PROBLEM"
+  },
+  {
+    "Blood pressure": "TEST"
+  },
+  {
+    "Pulse": "TEST"
+  },
+  {
+    "Temperature": "TEST"
+  },
+  {
+    "20": "TEST"
+  },
+  {
+    "well-developed": "PROBLEM"
+  },
+  {
+    "well-nourished": "PROBLEM"
+  },
+  {
+    "42-year-old": "PROBLEM"
+  },
+  {
+    "white": "PROBLEM"
+  },
+  {
+    "female": "PROBLEM"
+  },
+  {
+    "alert": "PROBLEM"
+  },
+  {
+    "oriented": "PROBLEM"
+  },
+  {
+    "no acute distress": "PROBLEM"
+  },
+  {
+    "pleasant": "PROBLEM"
+  },
+  {
+    "Normocephalic": "PROBLEM"
+  },
+  {
+    "Tympanic membranes are clear.": "TEST"
+  },
+  {
+    "Conjunctivae are clear.": "PROBLEM"
+  },
+  {
+    "Pupils": "TEST"
+  },
+  {
+    "Nares without turbinate edema": "PROBLEM"
+  },
+  {
+    "nonerythematous": "PROBLEM"
+  },
+  {
+    "lymphadenopathy": "PROBLEM"
+  },
+  {
+    "thyromegaly": "PROBLEM"
+  },
+  {
+    "carotid bruit": "PROBLEM"
+  },
+  {
+    "JVD": "PROBLEM"
+  },
+  {
+    "Chest: Clear to auscultation bilaterally.": "TEST"
+  },
+  {
+    "Regular rate and rhythm without murmur": "PROBLEM"
+  },
+  {
+    "nondistended": "PROBLEM"
+  },
+  {
+    "bowel sounds": "PROBLEM"
+  },
+  {
+    "No masses or organomegaly to palpation": "PROBLEM"
+  },
+  {
+    "cyanosis": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "Skin: Without abnormalities.": "PROBLEM"
+  },
+  {
+    "Normal symmetrical breasts without dimpling or retraction": "PROBLEM"
+  },
+  {
+    "No nipple discharge": "PROBLEM"
+  },
+  {
+    "No masses or lesions to palpation": "PROBLEM"
+  },
+  {
+    "axillary masses": "PROBLEM"
+  },
+  {
+    "lymphadenopathy": "PROBLEM"
+  },
+  {
+    "Genitourinary: Normal external genitalia.": "TEST"
+  },
+  {
+    "rugae": "PROBLEM"
+  },
+  {
+    "Cervix": "PROBLEM"
+  },
+  {
+    "vaginal discharge": "PROBLEM"
+  },
+  {
+    "cervical motion tenderness": "PROBLEM"
+  },
+  {
+    "adnexal tenderness": "PROBLEM"
+  },
+  {
+    "Asthma.": "PROBLEM"
+  },
+  {
+    "worse than in the past": "PROBLEM"
+  },
+  {
+    "Proventil inhaler": "DRUG"
+  },
+  {
+    "Flovent 44 mcg": "DRUG"
+  },
+  {
+    "b.i.d.": "DRUG"
+  },
+  {
+    "dose": "TREATMENT"
+  },
+  {
+    "vaginal irritation": "PROBLEM"
+  },
+  {
+    "Advair": "DRUG"
+  },
+  {
+    "Singulair": "DRUG"
+  },
+  {
+    "improving": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "reevaluation": "PROBLEM"
+  },
+  {
+    "Allergic rhinitis": "PROBLEM"
+  },
+  {
+    "Allegra": "DRUG"
+  },
+  {
+    "Flonase": "DRUG"
+  },
+  {
+    "Premenstrual dysphoric disorder": "PROBLEM"
+  },
+  {
+    "perimenopausal symptoms": "PROBLEM"
+  },
+  {
+    "fluoxetine 20 mg": "DRUG"
+  },
+  {
+    "q.d.": "TREATMENT"
+  },
+  {
+    "Hematuria": "PROBLEM"
+  },
+  {
+    "urinary tract infection": "PROBLEM"
+  },
+  {
+    "dysuria": "PROBLEM"
+  },
+  {
+    "Cervical dysplasia": "PROBLEM"
+  },
+  {
+    "Pap smear": "TEST"
+  },
+  {
+    "Pap smear": "TEST"
+  },
+  {
+    "screening mammogram": "TEST"
+  },
+  {
+    "monthly self-breast exam techniques": "TREATMENT"
+  },
+  {
+    "1200 mg of calcium": "DRUG"
+  },
+  {
+    "400 U of vitamin D": "DRUG"
+  },
+  {
+    "asthma": "PROBLEM"
+  },
+  {
+    "complete physical": "TEST"
+  },
+  {
+    "inhaler": "TREATMENT"
+  },
+  {
+    "allegra": "DRUG"
+  },
+  {
+    "night sweats": "PROBLEM"
+  },
+  {
+    "hot flashes": "PROBLEM"
+  },
+  {
+    "vaginal irritation": "PROBLEM"
+  },
+  {
+    "pms": "PROBLEM"
+  },
+  {
+    "menstrual cycle": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "headaches": "PROBLEM"
+  },
+  {
+    "allergic rhinitis": "PROBLEM"
+  },
+  {
+    "cervical dysplasia": "PROBLEM"
+  },
+  {
+    "proventil inhaler": "TREATMENT"
+  },
+  {
+    "flonase": "DRUG"
+  },
+  {
+    "premenstrual dysphoric disorder": "PROBLEM"
+  },
+  {
+    "pap smear": "TEST"
+  }
+]

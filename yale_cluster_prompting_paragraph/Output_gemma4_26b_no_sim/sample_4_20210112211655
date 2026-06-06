@@ -1,6 +1,6 @@
 [
   {
-    "fever of unknown origin": "PROBLEM"
+    "fever": "PROBLEM"
   },
   {
     "polymyositis/dermatomyositis": "PROBLEM"
@@ -15,7 +15,7 @@
     "urticarial rash": "PROBLEM"
   },
   {
-    "high fevers": "PROBLEM"
+    "fevers": "PROBLEM"
   },
   {
     "infection": "PROBLEM"
@@ -36,7 +36,7 @@
     "CT chest": "TEST"
   },
   {
-    "bibasilar pleural-based interstitial changes": "PROBLEM"
+    "pleural-based interstitial changes": "PROBLEM"
   },
   {
     "serologies for CMV": "TEST"
@@ -69,13 +69,13 @@
     "CMV serology": "TEST"
   },
   {
-    "IgM": "TEST"
+    "IgM": "PROBLEM"
   },
   {
-    "IgG": "TEST"
+    "IgG": "PROBLEM"
   },
   {
-    "bronchoscopy": "TREATMENT"
+    "bronchoscopy": "TEST"
   },
   {
     "BAL": "TEST"
@@ -117,12 +117,6 @@
     "BAL fluid cell count": "TEST"
   },
   {
-    "WBCs": "TEST"
-  },
-  {
-    "RBCs": "TEST"
-  },
-  {
     "Disseminated CMV infection": "PROBLEM"
   },
   {
@@ -132,7 +126,7 @@
     "Polymyositis": "PROBLEM"
   },
   {
-    "immunosuppressive therapy": "TREATMENT"
+    "ganciclovir": "DRUG"
   },
   {
     "Advair": "DRUG"

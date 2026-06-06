@@ -84,13 +84,19 @@
     "distal clot": "PROBLEM"
   },
   {
+    "prognosis": "PROBLEM"
+  },
+  {
     "STAT echocardiogram": "TEST"
   },
   {
     "large clot in the heart": "PROBLEM"
   },
   {
-    "patent foramen ovale clot in the legs": "PROBLEM"
+    "patent foramen ovale": "PROBLEM"
+  },
+  {
+    "clot in the legs": "PROBLEM"
   },
   {
     "Echo": "TEST"
@@ -100,9 +106,6 @@
   },
   {
     "lifesaving procedure": "TREATMENT"
-  },
-  {
-    "REVIEW OF SYSTEMS": "TEST"
   },
   {
     "bladder distension surgery": "TREATMENT"
@@ -208,12 +211,6 @@
   },
   {
     "VACCINATION STATUS": "TEST"
-  },
-  {
-    "PHYSICAL EXAMINATION": "TEST"
-  },
-  {
-    "VITAL SIGNS": "TEST"
   },
   {
     "temperature": "TEST"
@@ -345,7 +342,7 @@
     "echocardiogram report": "TEST"
   },
   {
-    "STAT echo": "TEST"
+    "echo": "TEST"
   },
   {
     "large clot burdened in the heart": "PROBLEM"
@@ -369,9 +366,6 @@
     "emergency retrieval device": "TREATMENT"
   },
   {
-    "interventional radiology": "TREATMENT"
-  },
-  {
     "Hypertension": "PROBLEM"
   },
   {
@@ -384,13 +378,19 @@
     "Parkinson's": "PROBLEM"
   },
   {
+    "withdrawal": "PROBLEM"
+  },
+  {
     "beta-blockers": "DRUG"
   },
   {
     "atrial fibrillation": "PROBLEM"
   },
   {
-    "Cardizem drip": "DRUG"
+    "Cardizem": "DRUG"
+  },
+  {
+    "Cardizem drip": "TREATMENT"
   },
   {
     "atrial fibrillation": "PROBLEM"
@@ -426,7 +426,7 @@
     "Esmolol drip": "DRUG"
   },
   {
-    "beta-blocker": "DRUG"
+    "withdraw from the beta-blocker": "PROBLEM"
   },
   {
     "hypertension": "PROBLEM"
@@ -438,7 +438,7 @@
     "TSH": "TEST"
   },
   {
-    "STAT echo": "TEST"
+    "echo": "TEST"
   },
   {
     "ultrasound of the leg": "TEST"
@@ -483,7 +483,7 @@
     "brain swelling": "PROBLEM"
   },
   {
-    "electrolytes": "TEST"
+    "electrolytes": "PROBLEM"
   },
   {
     "Deep vein thrombosis": "PROBLEM"
@@ -525,10 +525,10 @@
     "ct scan": "TEST"
   },
   {
-    "echocardiogram": "TEST"
+    "atrial fibrillation": "PROBLEM"
   },
   {
-    "fibrillation": "PROBLEM"
+    "echocardiogram": "TEST"
   },
   {
     "clot": "PROBLEM"

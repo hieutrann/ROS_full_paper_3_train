@@ -1,6 +1,6 @@
 [
   {
-    "stasis ulcer": "PROBLEM"
+    "right ankle stasis ulcer": "PROBLEM"
   },
   {
     "hypertension": "PROBLEM"
@@ -30,10 +30,13 @@
     "vascular surgery": "TREATMENT"
   },
   {
-    "right ankle stasis ulcer": "PROBLEM"
+    "nonhealing right ankle stasis ulcer": "PROBLEM"
   },
   {
-    "low-grade fever": "PROBLEM"
+    "a low-grade fever": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
   },
   {
     "ankle pain": "PROBLEM"
@@ -63,13 +66,16 @@
     "wound cultures": "TEST"
   },
   {
+    "wound": "PROBLEM"
+  },
+  {
     "X": "TREATMENT"
   },
   {
     "malaise": "PROBLEM"
   },
   {
-    "fevers": "PROBLEM"
+    "low-grade fevers": "PROBLEM"
   },
   {
     "visual acuity": "TEST"
@@ -82,6 +88,9 @@
   },
   {
     "sinus congestion": "PROBLEM"
+  },
+  {
+    "sore throat": "PROBLEM"
   },
   {
     "chest pain": "PROBLEM"
@@ -120,7 +129,10 @@
     "chronic recurrent stasis ulcers": "PROBLEM"
   },
   {
-    "alcohol": "DRUG"
+    "heavy alcohol drinking": "PROBLEM"
+  },
+  {
+    "cigarette smoker": "PROBLEM"
   },
   {
     "Primaxin": "DRUG"
@@ -177,49 +189,82 @@
     "oxygen saturation": "TEST"
   },
   {
+    "cardiorespiratory distress": "PROBLEM"
+  },
+  {
+    "Height": "TEST"
+  },
+  {
+    "body weight": "TEST"
+  },
+  {
     "Pink conjunctivae": "PROBLEM"
   },
   {
     "anicteric sclerae": "PROBLEM"
   },
   {
-    "Pupils": "TEST"
+    "Pupils equal": "PROBLEM"
+  },
+  {
+    "EARS, NOSE, MOUTH AND THROAT": "TEST"
   },
   {
     "Moist oral mucosa": "PROBLEM"
   },
   {
+    "oral lesions": "PROBLEM"
+  },
+  {
+    "palpable neck masses": "PROBLEM"
+  },
+  {
     "Thyroid": "PROBLEM"
   },
   {
-    "inspiratory effort": "PROBLEM"
+    "Regular inspiratory effort": "PROBLEM"
   },
   {
-    "cardiac rhythm": "PROBLEM"
+    "crackles": "PROBLEM"
   },
   {
-    "bowel sounds": "PROBLEM"
+    "wheezes": "PROBLEM"
+  },
+  {
+    "Regular cardiac rhythm": "PROBLEM"
+  },
+  {
+    "Normoactive bowel sounds": "PROBLEM"
   },
   {
     "cervical lymphadenopathy": "PROBLEM"
   },
   {
+    "range of motion": "PROBLEM"
+  },
+  {
     "hyperpigmentation": "PROBLEM"
   },
   {
-    "wound": "PROBLEM"
+    "open wound": "PROBLEM"
   },
   {
-    "right medial\nmalleolar area": "PROBLEM"
+    "right medial malleolar area": "PROBLEM"
   },
   {
     "serous drainage": "PROBLEM"
+  },
+  {
+    "Periwound": "PROBLEM"
   },
   {
     "hyperpigmented": "PROBLEM"
   },
   {
     "erythema": "PROBLEM"
+  },
+  {
+    "right lower leg": "PROBLEM"
   },
   {
     "warmth": "PROBLEM"
@@ -235,6 +280,12 @@
   },
   {
     "Wound edges": "PROBLEM"
+  },
+  {
+    "mood": "PROBLEM"
+  },
+  {
+    "affect": "PROBLEM"
   },
   {
     "White blood cell count": "TEST"
@@ -270,6 +321,9 @@
     "wound culture": "TEST"
   },
   {
+    "right leg wound": "PROBLEM"
+  },
+  {
     "Left leg wound culture": "TEST"
   },
   {
@@ -288,7 +342,7 @@
     "Right leg/ankle cellulitis": "PROBLEM"
   },
   {
-    "ankle venous ulcers": "PROBLEM"
+    "Chronic recurrent bilateral ankle venous ulcers": "PROBLEM"
   },
   {
     "Pseudomonas": "PROBLEM"
@@ -300,9 +354,6 @@
     "Stenotrophomonas": "PROBLEM"
   },
   {
-    "wound cultures": "TEST"
-  },
-  {
     "Hypertension": "PROBLEM"
   },
   {
@@ -312,13 +363,13 @@
     "daptomycin": "DRUG"
   },
   {
-    "Primaxin": "DRUG"
+    "Primaxin IV": "DRUG"
   },
   {
     "wound cultures": "TEST"
   },
   {
-    "MRI": "TEST"
+    "an MRI": "TEST"
   },
   {
     "osteomyelitis": "PROBLEM"
@@ -337,6 +388,9 @@
   },
   {
     "stasis ulcer": "PROBLEM"
+  },
+  {
+    "wound cultures": "TEST"
   },
   {
     "wound": "PROBLEM"
@@ -358,8 +412,5 @@
   },
   {
     "chronic": "PROBLEM"
-  },
-  {
-    "wound cultures": "TEST"
   }
 ]

@@ -36,6 +36,9 @@
     "CAT scan": "TEST"
   },
   {
+    "CAT scan of the chest": "TEST"
+  },
+  {
     "pneumonitis": "PROBLEM"
   },
   {
@@ -178,12 +181,6 @@
   },
   {
     "bruit": "PROBLEM"
-  },
-  {
-    "S3 or S4 gallop": "PROBLEM"
-  },
-  {
-    "murmur": "PROBLEM"
   },
   {
     "distant heart sounds": "PROBLEM"

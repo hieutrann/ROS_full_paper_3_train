@@ -54,19 +54,19 @@
     "transpleural fluoroscopy": "TEST"
   },
   {
-    "2": "TEST"
+    "2": "TREATMENT"
   },
   {
     "thoracentesis": "TEST"
   },
   {
-    "3": "PROBLEM"
+    "3": "TREATMENT"
   },
   {
     "Port-A-Cath": "TREATMENT"
   },
   {
-    "nonproductive cough": "PROBLEM"
+    "cough": "PROBLEM"
   },
   {
     "chest pain": "PROBLEM"
@@ -96,13 +96,13 @@
     "Pericardectomy": "TREATMENT"
   },
   {
-    "2": "TEST"
+    "2": "TREATMENT"
   },
   {
     "Pericarditis": "PROBLEM"
   },
   {
-    "2": "TEST"
+    "2": "TREATMENT"
   },
   {
     "Atrial fibrillation": "PROBLEM"
@@ -111,22 +111,16 @@
     "4": "TEST"
   },
   {
-    "RNCA": "PROBLEM"
-  },
-  {
-    "intracranial thrombolytic treatment": "TREATMENT"
+    "thrombolytic treatment": "TREATMENT"
   },
   {
     "MCA": "PROBLEM"
   },
   {
-    "6": "PROBLEM"
+    "6": "TEST"
   },
   {
     "Mesenteric venous thrombosis": "PROBLEM"
-  },
-  {
-    "7": "PROBLEM"
   },
   {
     "Pericardial window": "TREATMENT"
@@ -138,7 +132,7 @@
     "Cholecystectomy": "TREATMENT"
   },
   {
-    "9": "PROBLEM"
+    "9": "TEST"
   },
   {
     "thoracentesis": "TEST"
@@ -180,13 +174,10 @@
     "INR": "TEST"
   },
   {
-    "2": "TEST"
+    "2": "TREATMENT"
   },
   {
     "Amiodarone": "DRUG"
-  },
-  {
-    "daily": "PROBLEM"
   },
   {
     "pulmonary": "PROBLEM"
@@ -196,9 +187,6 @@
   },
   {
     "tingling": "PROBLEM"
-  },
-  {
-    "arm": "PROBLEM"
   },
   {
     "Blood pressure": "TEST"
@@ -222,10 +210,10 @@
     "pain with coughing": "PROBLEM"
   },
   {
-    "Pupils": "TEST"
+    "pupils": "TEST"
   },
   {
-    "Tympanic membranes": "PROBLEM"
+    "Tympanic membranes": "TEST"
   },
   {
     "Supple": "TEST"
@@ -261,7 +249,7 @@
     "tenderness": "PROBLEM"
   },
   {
-    "Full range of motion": "TEST"
+    "motion": "PROBLEM"
   },
   {
     "pulses": "TEST"
@@ -276,13 +264,13 @@
     "ulcers": "PROBLEM"
   },
   {
-    "Grossly intact": "TEST"
+    "intact": "PROBLEM"
   },
   {
     "focal deficits": "PROBLEM"
   },
   {
-    "alert": "TEST"
+    "alert": "PROBLEM"
   },
   {
     "Labs": "TEST"
@@ -298,6 +286,9 @@
   },
   {
     "echocardiogram": "TEST"
+  },
+  {
+    "DVT": "PROBLEM"
   },
   {
     "Lovenox": "DRUG"
@@ -333,13 +324,16 @@
     "CT scan": "TEST"
   },
   {
-    "pericardectomy": "TREATMENT"
+    "bilateral plural effusions": "PROBLEM"
   },
   {
     "pericardectomy": "TREATMENT"
   },
   {
     "symptoms": "PROBLEM"
+  },
+  {
+    "pleural effusion": "PROBLEM"
   },
   {
     "bilateral pleural effusion": "PROBLEM"
@@ -360,16 +354,13 @@
     "pathology": "TEST"
   },
   {
-    "epithelioid malignant mesothelioma": "PROBLEM"
+    "mesothelioma": "PROBLEM"
   },
   {
-    "chest tube placement": "TREATMENT"
+    "fluid": "PROBLEM"
   },
   {
-    "thoracoscopy": "TREATMENT"
-  },
-  {
-    "fluid biopsies": "TEST"
+    "thoracoscopy": "TEST"
   },
   {
     "biopsies": "TEST"
@@ -387,10 +378,7 @@
     "acidic fluid": "PROBLEM"
   },
   {
-    "pectoral lymph nodes": "PROBLEM"
-  },
-  {
-    "intramammary lymph nodes": "PROBLEM"
+    "lymph nodes": "PROBLEM"
   },
   {
     "L4": "TEST"
@@ -417,7 +405,16 @@
     "chemotherapy": "TREATMENT"
   },
   {
+    "IV fluid": "TREATMENT"
+  },
+  {
+    "IV": "TREATMENT"
+  },
+  {
     "Port-A-Cath": "TREATMENT"
+  },
+  {
+    "heparin": "DRUG"
   },
   {
     "Zofran": "DRUG"
@@ -483,15 +480,15 @@
     "lymphadenopathy": "PROBLEM"
   },
   {
-    "fluid": "PROBLEM"
+    "fluid": "TEST"
   },
   {
     "pericardectomy": "TREATMENT"
   },
   {
-    "chest": "PROBLEM"
+    "chest": "TEST"
   },
   {
-    "pleural": "PROBLEM"
+    "pleural": "TEST"
   }
 ]

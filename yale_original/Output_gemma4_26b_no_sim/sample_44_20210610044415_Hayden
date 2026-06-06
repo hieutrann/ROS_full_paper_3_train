@@ -1,5 +1,8 @@
 [
   {
+    "Hysterectomy": "TREATMENT"
+  },
+  {
     "Total vaginal hysterectomy": "TREATMENT"
   },
   {
@@ -37,6 +40,12 @@
   },
   {
     "tobacco use": "PROBLEM"
+  },
+  {
+    "uterus": "PROBLEM"
+  },
+  {
+    "cervix": "PROBLEM"
   },
   {
     "cone biopsy": "TREATMENT"

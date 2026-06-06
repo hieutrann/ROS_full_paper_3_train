@@ -3,12 +3,6 @@
     "General Medicine": "TREATMENT"
   },
   {
-    "Normal ROS Template": "TEST"
-  },
-  {
-    "Normal review of systems template": "PROBLEM"
-  },
-  {
     "fever": "PROBLEM"
   },
   {
@@ -39,19 +33,7 @@
     "weight loss": "PROBLEM"
   },
   {
-    "loss of vision": "PROBLEM"
-  },
-  {
-    "double or blurred vision": "PROBLEM"
-  },
-  {
-    "flashing lights or spots": "PROBLEM"
-  },
-  {
-    "dryness": "PROBLEM"
-  },
-  {
-    "something is in the eye": "PROBLEM"
+    "glasses": "TREATMENT"
   },
   {
     "Ears": "PROBLEM"
@@ -78,6 +60,9 @@
     "loss of sense of smell": "PROBLEM"
   },
   {
+    "dry sinuses": "PROBLEM"
+  },
+  {
     "sinusitis": "PROBLEM"
   },
   {
@@ -99,7 +84,10 @@
     "dry mouth": "PROBLEM"
   },
   {
-    "dentures or removable dental work": "PROBLEM"
+    "dentures": "TREATMENT"
+  },
+  {
+    "removable dental work": "TREATMENT"
   },
   {
     "frequent sore throats": "PROBLEM"
@@ -108,7 +96,10 @@
     "hoarseness": "PROBLEM"
   },
   {
-    "acid or bitter fluid in the mouth or throat": "PROBLEM"
+    "constant feeling of a need to clear the throat when nothing is there": "PROBLEM"
+  },
+  {
+    "waking up with acid or bitter fluid in the mouth or throat": "PROBLEM"
   },
   {
     "food sticking in throat when swallows": "PROBLEM"
@@ -129,7 +120,7 @@
     "shortness of breath": "PROBLEM"
   },
   {
-    "difficulty breathing": "PROBLEM"
+    "difficulty breathing at night": "PROBLEM"
   },
   {
     "swollen legs": "PROBLEM"
@@ -144,7 +135,7 @@
     "high blood pressure": "PROBLEM"
   },
   {
-    "cramps in his legs": "PROBLEM"
+    "cramps in his legs with walking": "PROBLEM"
   },
   {
     "pain in his feet": "PROBLEM"
@@ -231,16 +222,34 @@
     "kidney stones": "PROBLEM"
   },
   {
-    "rash or ulcers": "PROBLEM"
+    "impotence": "PROBLEM"
+  },
+  {
+    "prostate trouble": "PROBLEM"
+  },
+  {
+    "rash": "PROBLEM"
+  },
+  {
+    "ulcers": "PROBLEM"
   },
   {
     "sexual difficulties": "PROBLEM"
   },
   {
-    "impotence or prostate trouble": "PROBLEM"
+    "kidney stones": "PROBLEM"
   },
   {
-    "sexually transmitted diseases": "PROBLEM"
+    "urination": "TEST"
+  },
+  {
+    "urine": "TEST"
+  },
+  {
+    "penis": "TREATMENT"
+  },
+  {
+    "prostate trouble": "TREATMENT"
   },
   {
     "arm cramps": "PROBLEM"
@@ -255,10 +264,16 @@
     "calf cramps": "PROBLEM"
   },
   {
-    "joint or muscle pain": "PROBLEM"
+    "joint pain": "PROBLEM"
+  },
+  {
+    "muscle pain": "PROBLEM"
   },
   {
     "muscle weakness": "PROBLEM"
+  },
+  {
+    "muscle tenderness": "PROBLEM"
   },
   {
     "joint swelling": "PROBLEM"
@@ -280,9 +295,6 @@
   },
   {
     "nipple discharge": "PROBLEM"
-  },
-  {
-    "easy bruising": "PROBLEM"
   },
   {
     "skin redness": "PROBLEM"
@@ -309,6 +321,9 @@
     "color changes in the hands or feet with cold": "PROBLEM"
   },
   {
+    "easy bruising": "PROBLEM"
+  },
+  {
     "headache": "PROBLEM"
   },
   {
@@ -327,7 +342,10 @@
     "sensitivity": "PROBLEM"
   },
   {
-    "pain in the hands and feet": "PROBLEM"
+    "pain in the hands": "PROBLEM"
+  },
+  {
+    "pain in the feet": "PROBLEM"
   },
   {
     "memory loss": "PROBLEM"
@@ -352,6 +370,21 @@
   },
   {
     "psychiatric counseling": "TREATMENT"
+  },
+  {
+    "treatment": "TREATMENT"
+  },
+  {
+    "hot temperature": "PROBLEM"
+  },
+  {
+    "cold temperature": "PROBLEM"
+  },
+  {
+    "flushing": "PROBLEM"
+  },
+  {
+    "fingernail changes": "PROBLEM"
   },
   {
     "increased thirst": "PROBLEM"
@@ -385,33 +418,6 @@
   },
   {
     "latex sensitivity": "PROBLEM"
-  },
-  {
-    "general medicine": "PROBLEM"
-  },
-  {
-    "cardiovascular": "PROBLEM"
-  },
-  {
-    "ears": "PROBLEM"
-  },
-  {
-    "eyes": "PROBLEM"
-  },
-  {
-    "gastrointestinal": "PROBLEM"
-  },
-  {
-    "head": "PROBLEM"
-  },
-  {
-    "nose": "PROBLEM"
-  },
-  {
-    "respiratory": "PROBLEM"
-  },
-  {
-    "review of systems": "TEST"
   },
   {
     "fever": "PROBLEM"

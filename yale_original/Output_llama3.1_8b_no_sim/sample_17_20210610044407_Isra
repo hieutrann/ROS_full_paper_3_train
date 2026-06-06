@@ -15,9 +15,6 @@
     "PTA": "TREATMENT"
   },
   {
-    "swelling": "PROBLEM"
-  },
-  {
     "chronic kidney disease": "PROBLEM"
   },
   {
@@ -39,12 +36,6 @@
     "gouty attacks": "PROBLEM"
   },
   {
-    "swollen": "PROBLEM"
-  },
-  {
-    "painful": "PROBLEM"
-  },
-  {
     "gout": "PROBLEM"
   },
   {
@@ -55,9 +46,6 @@
   },
   {
     "Diabetes mellitus type 2": "PROBLEM"
-  },
-  {
-    "2": "TEST"
   },
   {
     "Diabetic nephropathy": "PROBLEM"
@@ -84,7 +72,13 @@
     "PTA": "TREATMENT"
   },
   {
+    "lower extremity": "PROBLEM"
+  },
+  {
     "smoking": "PROBLEM"
+  },
+  {
+    "drinking": "PROBLEM"
   },
   {
     "NovoLog": "DRUG"
@@ -123,10 +117,7 @@
     "painful": "PROBLEM"
   },
   {
-    "right hand": "PROBLEM"
-  },
-  {
-    "left foot": "PROBLEM"
+    "emergency room": "TEST"
   },
   {
     "Foley": "TREATMENT"
@@ -156,10 +147,10 @@
     "decreased urine output": "PROBLEM"
   },
   {
-    "urine output": "PROBLEM"
+    "urine output": "TEST"
   },
   {
-    "urinate": "PROBLEM"
+    "urine": "TEST"
   },
   {
     "cough": "PROBLEM"
@@ -180,6 +171,12 @@
     "paroxysmal nocturnal dyspnea": "PROBLEM"
   },
   {
+    "alert": "PROBLEM"
+  },
+  {
+    "oriented": "PROBLEM"
+  },
+  {
     "acute distress": "PROBLEM"
   },
   {
@@ -198,7 +195,7 @@
     "weight": "TEST"
   },
   {
-    "Normocephalic": "PROBLEM"
+    "Normocephalic": "TEST"
   },
   {
     "Neck": "PROBLEM"
@@ -222,7 +219,13 @@
     "Heart": "PROBLEM"
   },
   {
-    "Abdomen": "PROBLEM"
+    "Obese": "PROBLEM"
+  },
+  {
+    "soft": "PROBLEM"
+  },
+  {
+    "nontender": "PROBLEM"
   },
   {
     "rebound": "PROBLEM"
@@ -234,13 +237,16 @@
     "pretibial edema": "PROBLEM"
   },
   {
-    "left foot": "PROBLEM"
+    "edema": "PROBLEM"
+  },
+  {
+    "foot": "PROBLEM"
   },
   {
     "dorsum of left foot": "PROBLEM"
   },
   {
-    "right hand": "PROBLEM"
+    "hand": "PROBLEM"
   },
   {
     "fingers": "PROBLEM"
@@ -255,10 +261,10 @@
     "hematocrit": "TEST"
   },
   {
-    "90% segs": "PROBLEM"
+    "segs": "TEST"
   },
   {
-    "0% bands": "PROBLEM"
+    "bands": "TEST"
   },
   {
     "Serum sodium": "TEST"
@@ -306,13 +312,10 @@
     "red blood cells": "TEST"
   },
   {
-    "IMPRESSION": "PROBLEM"
+    "IMPRESSION": "TREATMENT"
   },
   {
     "Urinary tract infection": "PROBLEM"
-  },
-  {
-    "2": "TEST"
   },
   {
     "Acute gouty attack": "PROBLEM"
@@ -337,6 +340,9 @@
   },
   {
     "Chronic kidney disease": "PROBLEM"
+  },
+  {
+    "stage 4": "PROBLEM"
   },
   {
     "treatment": "TREATMENT"
@@ -382,5 +388,8 @@
   },
   {
     "disease": "PROBLEM"
+  },
+  {
+    "ptA": "TREATMENT"
   }
 ]

@@ -12,7 +12,7 @@
     "Temperature": "TEST"
   },
   {
-    "102.1": "TEST"
+    "temperature": "TEST"
   },
   {
     "CHEST": "PROBLEM"
@@ -21,13 +21,10 @@
     "heart sounds": "TEST"
   },
   {
-    "murmurs": "PROBLEM"
+    "ABDOMEN": "PROBLEM"
   },
   {
-    "Benign": "PROBLEM"
-  },
-  {
-    "Right renal angle": "PROBLEM"
+    "renal angle": "PROBLEM"
   },
   {
     "Bowel sounds": "TEST"
@@ -39,7 +36,7 @@
     "alert": "PROBLEM"
   },
   {
-    "oriented x3": "TEST"
+    "oriented": "PROBLEM"
   },
   {
     "White count": "TEST"
@@ -93,10 +90,13 @@
     "Ischemic cardiomyopathy": "PROBLEM"
   },
   {
+    "decompensation": "PROBLEM"
+  },
+  {
     "Diabetes type 2": "PROBLEM"
   },
   {
-    "insulin sliding scale": "TREATMENT"
+    "insulin sliding scale": "DRUG"
   },
   {
     "pulmonary embolism": "PROBLEM"
@@ -114,10 +114,10 @@
     "Troponin": "TEST"
   },
   {
-    "medical treatment": "TREATMENT"
+    "troponin": "TEST"
   },
   {
-    "troponin": "TEST"
+    "general medicine": "TEST"
   },
   {
     "sepsis": "PROBLEM"
@@ -135,7 +135,7 @@
     "troponin": "TEST"
   },
   {
-    "urinary": "PROBLEM"
+    "urinary": "TEST"
   },
   {
     "infection": "PROBLEM"

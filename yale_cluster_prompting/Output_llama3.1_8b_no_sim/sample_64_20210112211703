@@ -1,15 +1,12 @@
 [
   {
-    "Antibiotic management": "TREATMENT"
+    "Antibiotic Management Consult": "TREATMENT"
   },
   {
     "right foot ulcer": "PROBLEM"
   },
   {
     "possible osteomyelitis": "PROBLEM"
-  },
-  {
-    "Antibiotic": "DRUG"
   },
   {
     "Antibiotic management": "TREATMENT"
@@ -24,7 +21,7 @@
     "diabetes mellitus": "PROBLEM"
   },
   {
-    "his right foot": "PROBLEM"
+    "foot": "PROBLEM"
   },
   {
     "Hospital Emergency Room": "TEST"
@@ -33,10 +30,13 @@
     "methicillin-sensitive Staphylococcus aureus": "PROBLEM"
   },
   {
+    "MSSA": "PROBLEM"
+  },
+  {
     "cultures": "TEST"
   },
   {
-    "MSSA": "PROBLEM"
+    "wound": "PROBLEM"
   },
   {
     "Levaquin": "DRUG"
@@ -60,34 +60,34 @@
     "wound care center": "TREATMENT"
   },
   {
-    "General Hospital": "TEST"
+    "General Hospital": "TREATMENT"
   },
   {
-    "wound VAC placement": "TREATMENT"
+    "wound VAC": "TREATMENT"
   },
   {
-    "wound care": "TREATMENT"
+    "Long-Term Acute Care Facility": "TREATMENT"
   },
   {
     "lacerated wound": "PROBLEM"
   },
   {
-    "second metatarsal area": "PROBLEM"
+    "plantar aspect": "TEST"
   },
   {
-    "fifth metatarsal area": "PROBLEM"
+    "metatarsal area": "TEST"
   },
   {
-    "head of these bones": "PROBLEM"
-  },
-  {
-    "wound": "PROBLEM"
+    "head of these bones": "TEST"
   },
   {
     "osteomyelitis": "PROBLEM"
   },
   {
-    "third metatarsal bone": "PROBLEM"
+    "metatarsal bone": "PROBLEM"
+  },
+  {
+    "wound": "PROBLEM"
   },
   {
     "serosanguineous drainage": "PROBLEM"
@@ -100,6 +100,9 @@
   },
   {
     "Diabetes mellitus": "PROBLEM"
+  },
+  {
+    "2": "TEST"
   },
   {
     "Osteomyelitis": "PROBLEM"
@@ -126,10 +129,13 @@
     "foot": "PROBLEM"
   },
   {
-    "negative": "PROBLEM"
+    "All other systems": "PROBLEM"
   },
   {
-    "acute hemodynamic distress": "PROBLEM"
+    "Caucasian": "PROBLEM"
+  },
+  {
+    "male": "PROBLEM"
   },
   {
     "temperature": "TEST"
@@ -144,25 +150,25 @@
     "blood pressure": "TEST"
   },
   {
-    "Pupils": "PROBLEM"
+    "Pupils": "TEST"
   },
   {
-    "Extraocular movements": "PROBLEM"
+    "Extraocular movements": "TEST"
   },
   {
-    "Head": "PROBLEM"
+    "normocephalic": "TEST"
   },
   {
     "External ear exam": "TEST"
   },
   {
-    "Supple": "PROBLEM"
+    "Neck": "PROBLEM"
   },
   {
     "lymphadenopathy": "PROBLEM"
   },
   {
-    "Regular rate and rhythm of the heart": "PROBLEM"
+    "Regular rate and rhythm of the heart": "TEST"
   },
   {
     "murmur": "PROBLEM"
@@ -181,9 +187,6 @@
   },
   {
     "Abdomen": "PROBLEM"
-  },
-  {
-    "organomegaly": "PROBLEM"
   },
   {
     "bowel sounds": "TEST"
@@ -207,19 +210,16 @@
     "lacerated wound": "PROBLEM"
   },
   {
-    "second metatarsal area": "PROBLEM"
+    "metatarsal area": "PROBLEM"
   },
   {
-    "fifth metatarsal area": "PROBLEM"
-  },
-  {
-    "palpable": "PROBLEM"
+    "Tracking under the skin": "PROBLEM"
   },
   {
     "wound": "PROBLEM"
   },
   {
-    "third metatarsal bone": "PROBLEM"
+    "metatarsal bone": "PROBLEM"
   },
   {
     "osteomyelitis": "PROBLEM"
@@ -228,13 +228,13 @@
     "Central nervous system": "PROBLEM"
   },
   {
-    "Cranial nerves II through XII": "PROBLEM"
+    "Cranial nerves II through XII": "TEST"
   },
   {
     "focal deficit": "PROBLEM"
   },
   {
-    "No laboratory or radiological data": "TEST"
+    "LABORATORY DATA": "TEST"
   },
   {
     "diabetes mellitus": "PROBLEM"
@@ -249,16 +249,16 @@
     "debridement": "TREATMENT"
   },
   {
-    "debridement procedure": "TREATMENT"
+    "debridement procedure": "TEST"
   },
   {
     "methicillin-sensitive Staphylococcus aureus": "PROBLEM"
   },
   {
-    "problems": "PROBLEM"
+    "Infectious Disease": "PROBLEM"
   },
   {
-    "treatments strategy": "TREATMENT"
+    "1.": "TREATMENT"
   },
   {
     "infected ulcer": "PROBLEM"
@@ -271,9 +271,6 @@
   },
   {
     "bone scan": "TEST"
-  },
-  {
-    "clinical counts": "TEST"
   },
   {
     "methicillin-sensitive Staphylococcus aureus": "PROBLEM"
@@ -309,6 +306,9 @@
     "intravenous antibiotic therapy": "TREATMENT"
   },
   {
+    "2": "TEST"
+  },
+  {
     "CBC with differential": "TEST"
   },
   {
@@ -324,28 +324,31 @@
     "C-reactive protein levels": "TEST"
   },
   {
-    "antibiotic therapy": "DRUG"
+    "antibiotic therapy": "TREATMENT"
+  },
+  {
+    "3": "PROBLEM"
   },
   {
     "wound healing": "PROBLEM"
   },
   {
-    "Wound care": "TREATMENT"
+    "Wound care team": "TREATMENT"
   },
   {
-    "Long-Term Acute Care Facility": "TEST"
+    "Long-Term Acute Care Facility": "PROBLEM"
   },
   {
-    "5": "TEST"
+    "4": "TREATMENT"
   },
   {
-    "Dr.": "TREATMENT"
+    "5": "TREATMENT"
   },
   {
-    "X's group": "PROBLEM"
+    "medical problems": "PROBLEM"
   },
   {
-    "6": "TEST"
+    "6": "TREATMENT"
   },
   {
     "deep wound cultures": "TEST"
@@ -360,22 +363,19 @@
     "Hospital": "TEST"
   },
   {
-    "staphylococcus aureus": "PROBLEM"
+    "mssa": "PROBLEM"
   },
   {
     "methicillin-sensitive staphylococcus aureus": "PROBLEM"
   },
   {
-    "foot ulcer": "PROBLEM"
-  },
-  {
-    "osteomyelitis": "PROBLEM"
-  },
-  {
-    "antibiotic therapy": "TREATMENT"
+    "staphylococcus aureus": "PROBLEM"
   },
   {
     "intravenous antibiotic therapy": "TREATMENT"
+  },
+  {
+    "antibiotic management": "TREATMENT"
   },
   {
     "bone scan": "TEST"
@@ -384,9 +384,18 @@
     "wound care": "TREATMENT"
   },
   {
+    "intravenous antibiotic": "DRUG"
+  },
+  {
     "antibiotic": "DRUG"
   },
   {
-    "intravenous antibiotic": "DRUG"
+    "osteomyelitis": "PROBLEM"
+  },
+  {
+    "foot ulcer": "PROBLEM"
+  },
+  {
+    "wound": "PROBLEM"
   }
 ]

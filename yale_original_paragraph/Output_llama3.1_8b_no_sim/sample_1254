@@ -1,0 +1,47 @@
+[
+  {
+    "Abscess": "PROBLEM"
+  },
+  {
+    "Cellulitis": "PROBLEM"
+  },
+  {
+    "Ancef": "DRUG"
+  },
+  {
+    "Accutane": "DRUG"
+  },
+  {
+    "Lorcet": "DRUG"
+  },
+  {
+    "Vancomycin": "DRUG"
+  },
+  {
+    "Aquacel Ag": "TREATMENT"
+  },
+  {
+    "Incision and drainage": "TREATMENT"
+  },
+  {
+    "Culture and sensitivity": "TEST"
+  },
+  {
+    "X-ray": "TEST"
+  },
+  {
+    "White blood cell count": "TEST"
+  },
+  {
+    "Erythema": "PROBLEM"
+  },
+  {
+    "Edema": "PROBLEM"
+  },
+  {
+    "Tenderness": "PROBLEM"
+  },
+  {
+    "Osteomyelitis": "PROBLEM"
+  }
+]

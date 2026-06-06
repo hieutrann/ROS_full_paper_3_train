@@ -1,6 +1,9 @@
 [
   {
-    "skilled speech therapy": "TREATMENT"
+    "Speech therapy": "TREATMENT"
+  },
+  {
+    "speech therapy": "TREATMENT"
   },
   {
     "cognitive-linguistic deficits": "PROBLEM"
@@ -27,7 +30,7 @@
     "visuospatial skills": "PROBLEM"
   },
   {
-    "functional and cognitive-linguistic ability": "PROBLEM"
+    "therapy": "TREATMENT"
   },
   {
     "attention": "TEST"
@@ -51,9 +54,30 @@
     "severe impairment": "PROBLEM"
   },
   {
-    "skilled speech therapy": "TREATMENT"
+    "speech therapy": "TREATMENT"
+  },
+  {
+    "memory": "PROBLEM"
+  },
+  {
+    "executive function": "PROBLEM"
+  },
+  {
+    "attention": "PROBLEM"
   },
   {
     "speech therapy": "TREATMENT"
+  },
+  {
+    "visuospatial": "PROBLEM"
+  },
+  {
+    "linguistic": "PROBLEM"
+  },
+  {
+    "cognitive": "PROBLEM"
+  },
+  {
+    "speech": "PROBLEM"
   }
 ]

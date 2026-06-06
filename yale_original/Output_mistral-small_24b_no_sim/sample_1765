@@ -3,16 +3,13 @@
     "Liver Biopsy": "TEST"
   },
   {
-    "Percutaneous liver biopsy": "TREATMENT"
+    "supine position": "TREATMENT"
   },
   {
-    "supine position": "TEST"
+    "percussion": "TEST"
   },
   {
-    "mid-axillary location": "PROBLEM"
-  },
-  {
-    "Percutaneous liver biopsy": "TREATMENT"
+    "Percutaneous liver biopsy": "TEST"
   },
   {
     "Lidocaine": "DRUG"
@@ -42,10 +39,10 @@
     "death": "PROBLEM"
   },
   {
-    "supine position": "TEST"
+    "supine position": "TREATMENT"
   },
   {
-    "mid-axillary location": "PROBLEM"
+    "percussion": "TEST"
   },
   {
     "povidone iodine": "DRUG"
@@ -54,25 +51,25 @@
     "lidocaine": "DRUG"
   },
   {
-    "incision": "TREATMENT"
+    "Bard-Parker #11 scalpel": "TREATMENT"
   },
   {
-    "16-gauge modified Klatskin needle": "TEST"
-  },
-  {
-    "incision": "TREATMENT"
-  },
-  {
-    "liver": "PROBLEM"
+    "Klatskin needle": "TREATMENT"
   },
   {
     "Liver cores": "TEST"
   },
   {
-    "medical treatment room": "TEST"
+    "medical treatment": "TREATMENT"
   },
   {
-    "abdominal or chest pain": "PROBLEM"
+    "medication": "DRUG"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
   },
   {
     "fever": "PROBLEM"
@@ -84,16 +81,7 @@
     "light-headedness": "PROBLEM"
   },
   {
-    "symptoms": "PROBLEM"
-  },
-  {
     "liver biopsy": "TEST"
-  },
-  {
-    "hepatitis A": "PROBLEM"
-  },
-  {
-    "hepatitis B": "PROBLEM"
   },
   {
     "hepatitis A and B vaccines": "DRUG"

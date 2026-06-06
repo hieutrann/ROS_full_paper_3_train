@@ -1,14 +1,5 @@
 [
   {
-    "right hemisphere disorder": "PROBLEM"
-  },
-  {
-    "stroke": "PROBLEM"
-  },
-  {
-    "speech therapy": "TREATMENT"
-  },
-  {
     "speech therapy": "TREATMENT"
   },
   {
@@ -19,6 +10,21 @@
   },
   {
     "speech therapy": "TREATMENT"
+  },
+  {
+    "speech therapy": "TREATMENT"
+  },
+  {
+    "right hemisphere disorder": "PROBLEM"
+  },
+  {
+    "stroke": "PROBLEM"
+  },
+  {
+    "speech therapy": "TREATMENT"
+  },
+  {
+    "therapy": "TREATMENT"
   },
   {
     "oral mechanism examination": "TEST"
@@ -27,7 +33,7 @@
     "clinical swallow evaluation": "TEST"
   },
   {
-    "difficulty with visual scanning": "PROBLEM"
+    "visual scanning": "PROBLEM"
   },
   {
     "cancellation task": "TEST"

@@ -1,12 +1,9 @@
 [
   {
-    "severe nausea": "PROBLEM"
+    "nausea": "PROBLEM"
   },
   {
     "abdominal pain": "PROBLEM"
-  },
-  {
-    "severe pain": "PROBLEM"
   },
   {
     "nausea": "PROBLEM"
@@ -16,6 +13,9 @@
   },
   {
     "incarcerated umbilical hernia": "PROBLEM"
+  },
+  {
+    "pain": "PROBLEM"
   },
   {
     "hemorrhoidectomy": "TREATMENT"
@@ -45,19 +45,28 @@
     "obese": "PROBLEM"
   },
   {
-    "mild distress": "PROBLEM"
+    "distress": "PROBLEM"
   },
   {
     "scleral icterus": "PROBLEM"
   },
   {
-    "cervical, supraclavicular, or axillary adenopathy": "PROBLEM"
+    "cervical": "PROBLEM"
+  },
+  {
+    "supraclavicular": "PROBLEM"
+  },
+  {
+    "axillary adenopathy": "PROBLEM"
   },
   {
     "murmurs": "PROBLEM"
   },
   {
     "gallops": "PROBLEM"
+  },
+  {
+    "obese": "PROBLEM"
   },
   {
     "bulging in the umbilicus": "PROBLEM"
@@ -70,6 +79,9 @@
   },
   {
     "EKG": "TEST"
+  },
+  {
+    "sinus rhythm": "PROBLEM"
   },
   {
     "prolonged QT": "PROBLEM"

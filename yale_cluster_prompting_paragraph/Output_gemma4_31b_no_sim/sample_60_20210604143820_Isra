@@ -27,13 +27,28 @@
     "possible pertussis": "PROBLEM"
   },
   {
+    "Upper respiratory illness with apnea": "PROBLEM"
+  },
+  {
+    "possible pertussis": "PROBLEM"
+  },
+  {
+    "respiratory symptoms": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "post-tussive emesis": "PROBLEM"
+  },
+  {
+    "questionable fever": "PROBLEM"
+  },
+  {
     "amoxicillin": "DRUG"
   },
   {
     "coughing": "PROBLEM"
-  },
-  {
-    "sats": "TEST"
   },
   {
     "apnea": "PROBLEM"
@@ -49,9 +64,6 @@
   },
   {
     "rhonchi": "PROBLEM"
-  },
-  {
-    "retractions": "PROBLEM"
   },
   {
     "coughing": "PROBLEM"
@@ -102,6 +114,9 @@
     "pertussis culture": "TEST"
   },
   {
+    "pertussis culture": "TEST"
+  },
+  {
     "suspected pertussis": "PROBLEM"
   },
   {
@@ -127,23 +142,5 @@
   },
   {
     "apnea": "PROBLEM"
-  },
-  {
-    "emesis": "PROBLEM"
-  },
-  {
-    "cough": "PROBLEM"
-  },
-  {
-    "upper respiratory illness": "PROBLEM"
-  },
-  {
-    "respiratory illness": "PROBLEM"
-  },
-  {
-    "apnea": "PROBLEM"
-  },
-  {
-    "pertussis": "PROBLEM"
   }
 ]

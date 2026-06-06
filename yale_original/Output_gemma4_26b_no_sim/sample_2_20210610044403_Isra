@@ -18,6 +18,9 @@
     "night sweats": "PROBLEM"
   },
   {
+    "allergies": "PROBLEM"
+  },
+  {
     "weakness": "PROBLEM"
   },
   {
@@ -178,6 +181,9 @@
   },
   {
     "back pain": "PROBLEM"
+  },
+  {
+    "psychiatric evaluation": "TEST"
   },
   {
     "diabetes mellitus": "PROBLEM"

@@ -6,10 +6,16 @@
     "work of breathing": "PROBLEM"
   },
   {
+    "ADMITTING DIAGNOSES": "PROBLEM"
+  },
+  {
     "Respiratory distress": "PROBLEM"
   },
   {
     "Reactive airways disease": "PROBLEM"
+  },
+  {
+    "DISCHARGE DIAGNOSES": "PROBLEM"
   },
   {
     "Respiratory distress": "PROBLEM"
@@ -21,13 +27,13 @@
     "Pneumonia": "PROBLEM"
   },
   {
-    "URI symptoms": "PROBLEM"
-  },
-  {
     "asthma": "PROBLEM"
   },
   {
     "reactive airways disease": "PROBLEM"
+  },
+  {
+    "URI symptoms": "PROBLEM"
   },
   {
     "cough": "PROBLEM"
@@ -39,13 +45,10 @@
     "nebulized treatments": "TREATMENT"
   },
   {
-    "hospitalist": "TREATMENT"
-  },
-  {
-    "albuterol": "DRUG"
-  },
-  {
     "respiratory distress": "PROBLEM"
+  },
+  {
+    "continuous nebulized albuterol": "DRUG"
   },
   {
     "corticosteroids": "DRUG"
@@ -63,9 +66,6 @@
     "atelectasis": "PROBLEM"
   },
   {
-    "antibiotics": "DRUG"
-  },
-  {
     "fever": "PROBLEM"
   },
   {
@@ -78,9 +78,6 @@
     "white count": "TEST"
   },
   {
-    "bands": "TEST"
-  },
-  {
     "pneumonia": "PROBLEM"
   },
   {
@@ -90,19 +87,16 @@
     "Zithromax": "DRUG"
   },
   {
-    "continuous": "TREATMENT"
-  },
-  {
-    "wheezing": "PROBLEM"
+    "bilateral wheezing": "PROBLEM"
   },
   {
     "tachypnea": "PROBLEM"
   },
   {
-    "DISCHARGE PHYSICAL EXAMINATION": "TEST"
+    "acute distress": "PROBLEM"
   },
   {
-    "HEENT": "TEST"
+    "Oropharynx": "TEST"
   },
   {
     "lymphadenopathy": "PROBLEM"
@@ -111,31 +105,31 @@
     "thyromegaly": "PROBLEM"
   },
   {
-    "masses": "PROBLEM"
-  },
-  {
     "wheezing": "PROBLEM"
   },
   {
-    "CARDIOVASCULAR": "TEST"
+    "rate and rhythm": "TEST"
   },
   {
-    "ABDOMEN": "TEST"
+    "Well perfused peripherally": "PROBLEM"
+  },
+  {
+    "Bowel sounds": "TEST"
   },
   {
     "hepatosplenomegaly": "PROBLEM"
   },
   {
-    "masses": "PROBLEM"
+    "Deferred": "TREATMENT"
   },
   {
-    "palpation": "TEST"
+    "Activity": "PROBLEM"
   },
   {
-    "EXTREMITIES": "TEST"
+    "DISCHARGE MEDICATIONS": "DRUG"
   },
   {
-    "Xopenex": "DRUG"
+    "Xopenex MDI": "DRUG"
   },
   {
     "cough": "PROBLEM"
@@ -153,28 +147,19 @@
     "Zithromax": "DRUG"
   },
   {
-    "p.o.": "DRUG"
-  },
-  {
-    "discharge summary": "TEST"
+    "75 mg": "DRUG"
   },
   {
     "pneumonia": "PROBLEM"
   },
   {
-    "onset of cough": "PROBLEM"
+    "cough": "PROBLEM"
   },
   {
     "reactive airways disease": "PROBLEM"
   },
   {
-    "abrupt onset": "PROBLEM"
-  },
-  {
     "respiratory distress": "PROBLEM"
-  },
-  {
-    "respiratory": "PROBLEM"
   },
   {
     "asthma": "PROBLEM"

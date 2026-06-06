@@ -48,37 +48,34 @@
     "Phenergan": "DRUG"
   },
   {
+    "cardiac enzymes": "TEST"
+  },
+  {
+    "EKG": "TEST"
+  },
+  {
     "head CT": "TEST"
   },
   {
     "toxicology screen": "TEST"
   },
   {
-    "EKG": "TEST"
-  },
-  {
-    "cardiac enzymes": "TEST"
-  },
-  {
-    "troponin-I": "TEST"
-  },
-  {
-    "CPK-MB": "TEST"
-  },
-  {
-    "myoglobulin": "TEST"
-  },
-  {
     "beta-hCG level": "TEST"
   },
   {
-    "head CT": "TEST"
+    "colon cancer": "PROBLEM"
   },
   {
-    "incision": "TREATMENT"
+    "breast cancer": "PROBLEM"
   },
   {
-    "drainage": "TREATMENT"
+    "mitral valve prolapse": "PROBLEM"
+  },
+  {
+    "pacemaker placement": "TREATMENT"
+  },
+  {
+    "coronary stenting": "TREATMENT"
   },
   {
     "cardiac ablation": "TREATMENT"
@@ -93,21 +90,9 @@
     "cholecystectomy": "TREATMENT"
   },
   {
-    "cardiac stenting": "TREATMENT"
+    "left knee surgery": "TREATMENT"
   },
   {
-    "mitral valve prolapse": "TREATMENT"
-  },
-  {
-    "pacemaker placement": "TREATMENT"
-  },
-  {
-    "colon cancer": "TREATMENT"
-  },
-  {
-    "breast cancer": "TREATMENT"
-  },
-  {
-    "pancreas removal": "TREATMENT"
+    "removal of half the pancreas": "TREATMENT"
   }
 ]

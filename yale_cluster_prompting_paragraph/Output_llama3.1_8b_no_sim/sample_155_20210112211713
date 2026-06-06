@@ -3,16 +3,88 @@
     "Sepsis": "PROBLEM"
   },
   {
-    "sepsis": "PROBLEM"
-  },
-  {
-    "Urinary tract infection": "PROBLEM"
-  },
-  {
-    "obstructive uropathy": "PROBLEM"
+    "CAD": "PROBLEM"
   },
   {
     "dementia": "PROBLEM"
+  },
+  {
+    "CVA": "PROBLEM"
+  },
+  {
+    "nephrolithiasis": "PROBLEM"
+  },
+  {
+    "Ambien": "DRUG"
+  },
+  {
+    "Milk of magnesia": "DRUG"
+  },
+  {
+    "Tylenol": "DRUG"
+  },
+  {
+    "Tramadol": "DRUG"
+  },
+  {
+    "Soma": "DRUG"
+  },
+  {
+    "Coumadin": "DRUG"
+  },
+  {
+    "Zoloft": "DRUG"
+  },
+  {
+    "Allopurinol": "DRUG"
+  },
+  {
+    "Digoxin": "DRUG"
+  },
+  {
+    "Namenda": "DRUG"
+  },
+  {
+    "Zocor": "DRUG"
+  },
+  {
+    "BuSpar": "DRUG"
+  },
+  {
+    "Detrol": "DRUG"
+  },
+  {
+    "Coreg": "DRUG"
+  },
+  {
+    "Colace": "DRUG"
+  },
+  {
+    "Calcium": "DRUG"
+  },
+  {
+    "Zantac": "DRUG"
+  },
+  {
+    "Lasix": "DRUG"
+  },
+  {
+    "Seroquel": "DRUG"
+  },
+  {
+    "Aldactone": "DRUG"
+  },
+  {
+    "Amoxicillin": "DRUG"
+  },
+  {
+    "Levaquin": "DRUG"
+  },
+  {
+    "gentamicin": "DRUG"
+  },
+  {
+    "CT scan": "TEST"
   },
   {
     "atrial fibrillation": "PROBLEM"
@@ -24,22 +96,43 @@
     "adrenal gland mass": "PROBLEM"
   },
   {
-    "CT scan": "TEST"
+    "urinary tract infection with sepsis": "PROBLEM"
   },
   {
-    "CT": "TEST"
+    "obstructive uropathy": "PROBLEM"
   },
   {
-    "Levaquin": "DRUG"
+    "dilated bladder": "TEST"
   },
   {
-    "gentamicin": "DRUG"
+    "bilateral hydronephrosis": "TEST"
+  },
+  {
+    "hydroureter": "TEST"
+  },
+  {
+    "left inguinal hernia": "TEST"
+  },
+  {
+    "physical examination": "TEST"
+  },
+  {
+    "laboratory studies": "TEST"
+  },
+  {
+    "EKG": "TEST"
+  },
+  {
+    "urology consult": "TREATMENT"
+  },
+  {
+    "renal consult": "TREATMENT"
   },
   {
     "IV fluids": "TREATMENT"
   },
   {
-    "anticoagulation": "TREATMENT"
+    "hypertonic-hypotonic": "TREATMENT"
   },
   {
     "SCD": "TREATMENT"
@@ -48,141 +141,9 @@
     "TED hose": "TREATMENT"
   },
   {
-    "digoxin": "DRUG"
-  },
-  {
-    "Namenda": "DRUG"
-  },
-  {
-    "Zocor": "DRUG"
-  },
-  {
-    "BuSpar": "DRUG"
-  },
-  {
-    "Detrol": "DRUG"
-  },
-  {
-    "Coreg": "DRUG"
-  },
-  {
-    "Colace": "DRUG"
-  },
-  {
-    "Calcium": "DRUG"
-  },
-  {
-    "Zantac": "DRUG"
-  },
-  {
-    "Lasix": "DRUG"
-  },
-  {
-    "Seroquel": "DRUG"
-  },
-  {
-    "Aldactone": "DRUG"
-  },
-  {
-    "Amoxicillin": "DRUG"
-  },
-  {
-    "antibiotics": "DRUG"
-  },
-  {
-    "IV": "TREATMENT"
-  },
-  {
-    "hydration": "TREATMENT"
-  },
-  {
-    "urology": "TREATMENT"
-  },
-  {
-    "renal": "TREATMENT"
-  },
-  {
-    "renal consult": "TREATMENT"
-  },
-  {
-    "urology consult": "TREATMENT"
-  },
-  {
-    "Levaquin": "DRUG"
-  },
-  {
-    "gentamicin": "DRUG"
-  },
-  {
-    "IV fluids": "TREATMENT"
-  },
-  {
     "anticoagulation": "TREATMENT"
   },
   {
-    "SCD": "TREATMENT"
-  },
-  {
-    "TED hose": "TREATMENT"
-  },
-  {
-    "digoxin": "DRUG"
-  },
-  {
-    "Namenda": "DRUG"
-  },
-  {
-    "Zocor": "DRUG"
-  },
-  {
-    "BuSpar": "DRUG"
-  },
-  {
-    "Detrol": "DRUG"
-  },
-  {
-    "Coreg": "DRUG"
-  },
-  {
-    "Colace": "DRUG"
-  },
-  {
-    "Calcium": "DRUG"
-  },
-  {
-    "Zantac": "DRUG"
-  },
-  {
-    "Lasix": "DRUG"
-  },
-  {
-    "Seroquel": "DRUG"
-  },
-  {
-    "Aldactone": "DRUG"
-  },
-  {
-    "Amoxicillin": "DRUG"
-  },
-  {
-    "antibiotics": "DRUG"
-  },
-  {
-    "IV": "TREATMENT"
-  },
-  {
-    "hydration": "TREATMENT"
-  },
-  {
-    "urology": "TREATMENT"
-  },
-  {
-    "renal": "TREATMENT"
-  },
-  {
-    "renal consult": "TREATMENT"
-  },
-  {
-    "urology consult": "TREATMENT"
+    "PPI": "TREATMENT"
   }
 ]

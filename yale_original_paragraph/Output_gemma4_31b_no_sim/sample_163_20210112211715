@@ -39,13 +39,10 @@
     "iron deficiency": "PROBLEM"
   },
   {
-    "Darkened mole on the scalp": "PROBLEM"
+    "Darkened mole": "PROBLEM"
   },
   {
     "skin biopsy": "TREATMENT"
-  },
-  {
-    "pathology report": "TEST"
   },
   {
     "scalp skin biopsy": "TREATMENT"
@@ -54,7 +51,7 @@
     "thoracentesis": "TREATMENT"
   },
   {
-    "Flagyl": "DRUG"
+    "IV Flagyl": "DRUG"
   },
   {
     "Levaquin": "DRUG"
@@ -93,10 +90,10 @@
     "urine cultures": "TEST"
   },
   {
-    "Levaquin": "DRUG"
+    "IV Levaquin": "DRUG"
   },
   {
-    "Flagyl": "DRUG"
+    "IV Flagyl": "DRUG"
   },
   {
     "C. diff colitis": "PROBLEM"
@@ -130,12 +127,6 @@
   },
   {
     "gallbladder dysfunction": "PROBLEM"
-  },
-  {
-    "Liver functions": "TEST"
-  },
-  {
-    "antibiotics": "DRUG"
   },
   {
     "hypoxemic": "PROBLEM"

@@ -18,16 +18,16 @@
     "medial meniscus tear": "PROBLEM"
   },
   {
-    "Open reduction and internal fixation": "TREATMENT"
+    "Open reduction and internal fixation (ORIF)": "TREATMENT"
   },
   {
-    "ORIF": "TREATMENT"
-  },
-  {
-    "Schatzker III tibial plateau fracture": "PROBLEM"
+    "right Schatzker III tibial plateau fracture": "PROBLEM"
   },
   {
     "partial medial meniscectomy": "TREATMENT"
+  },
+  {
+    "rehab": "TREATMENT"
   },
   {
     "hypothyroid": "PROBLEM"
@@ -42,19 +42,16 @@
     "congestive heart failure": "PROBLEM"
   },
   {
-    "operation": "TREATMENT"
-  },
-  {
     "open reduction and internal fixation": "TREATMENT"
   },
   {
-    "Schatzker III tibial plateau fracture": "PROBLEM"
+    "right Schatzker III tibial plateau fracture": "PROBLEM"
   },
   {
     "partial medial meniscectomy": "TREATMENT"
   },
   {
-    "floor": "TREATMENT"
+    "recovering": "PROBLEM"
   },
   {
     "CPM machine": "TREATMENT"
@@ -66,7 +63,7 @@
     "bronchitis": "PROBLEM"
   },
   {
-    "thick secretions": "PROBLEM"
+    "secretions": "PROBLEM"
   },
   {
     "fluid overload": "PROBLEM"
@@ -81,7 +78,16 @@
     "problem": "PROBLEM"
   },
   {
+    "comfortable": "PROBLEM"
+  },
+  {
+    "stabilized": "TREATMENT"
+  },
+  {
     "breathing": "PROBLEM"
+  },
+  {
+    "day": "PROBLEM"
   },
   {
     "open reduction and internal fixation": "TREATMENT"
@@ -93,7 +99,7 @@
     "partial medial meniscectomy": "TREATMENT"
   },
   {
-    "DIET": "TREATMENT"
+    "Regular": "TREATMENT"
   },
   {
     "Nonweightbearing": "TREATMENT"
@@ -117,7 +123,7 @@
     "occupational therapy": "TREATMENT"
   },
   {
-    "social work consults": "TREATMENT"
+    "social work": "TREATMENT"
   },
   {
     "Lasix": "DRUG"
@@ -141,10 +147,16 @@
     "Zithromax": "DRUG"
   },
   {
-    "guaifenesin": "DRUG"
+    "guaifenesin long-acting": "DRUG"
   },
   {
-    "discharge summary": "TEST"
+    "Follow up": "TREATMENT"
+  },
+  {
+    "Stable": "PROBLEM"
+  },
+  {
+    "discharge summary": "TREATMENT"
   },
   {
     "open reduction": "TREATMENT"

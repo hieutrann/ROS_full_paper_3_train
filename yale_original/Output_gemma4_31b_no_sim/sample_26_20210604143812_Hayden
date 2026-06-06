@@ -1,6 +1,6 @@
 [
   {
-    "Cognitive linguistic impairment": "PROBLEM"
+    "Cognitive Linguistic Impairment": "PROBLEM"
   },
   {
     "stroke": "PROBLEM"
@@ -18,6 +18,9 @@
     "stroke": "PROBLEM"
   },
   {
+    "speech therapy": "TREATMENT"
+  },
+  {
     "cognitive linguistic deficits": "PROBLEM"
   },
   {
@@ -30,16 +33,19 @@
     "recall": "PROBLEM"
   },
   {
-    "skilled speech therapy": "TREATMENT"
+    "speech therapy": "TREATMENT"
+  },
+  {
+    "short-term therapy": "TREATMENT"
+  },
+  {
+    "long-term therapy": "TREATMENT"
   },
   {
     "cognitive linguistic abilities": "PROBLEM"
   },
   {
-    "functional cognitive linguistic abilities": "PROBLEM"
-  },
-  {
-    "skilled speech therapy": "TREATMENT"
+    "speech therapy": "TREATMENT"
   },
   {
     "stroke": "PROBLEM"
@@ -58,5 +64,11 @@
   },
   {
     "cognitive linguistic": "PROBLEM"
+  },
+  {
+    "cognitive": "PROBLEM"
+  },
+  {
+    "linguistic": "PROBLEM"
   }
 ]

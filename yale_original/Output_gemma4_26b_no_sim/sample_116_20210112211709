@@ -1,12 +1,15 @@
 [
   {
+    "Thyroidectomy": "TREATMENT"
+  },
+  {
     "thyroid goiter": "PROBLEM"
   },
   {
     "Total thyroidectomy": "TREATMENT"
   },
   {
-    "Symptomatic thyroid goiter": "PROBLEM"
+    "thyroid goiter": "PROBLEM"
   },
   {
     "Symptomatic thyroid goiter": "PROBLEM"
@@ -28,6 +31,18 @@
   },
   {
     "pain": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "vital signs": "TEST"
+  },
+  {
+    "pain": "PROBLEM"
+  },
+  {
+    "wound": "PROBLEM"
   },
   {
     "drain": "TREATMENT"

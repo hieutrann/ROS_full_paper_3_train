@@ -1,12 +1,9 @@
 [
   {
-    "Surgery": "TREATMENT"
+    "Cardiac Catheterization": "TEST"
   },
   {
-    "Cardiac Catheterization": "TREATMENT"
-  },
-  {
-    "Left heart catheterization": "TREATMENT"
+    "Left heart catheterization": "TEST"
   },
   {
     "coronary angiography": "TEST"
@@ -21,7 +18,7 @@
     "angiography": "TEST"
   },
   {
-    "Left heart catheterization": "TREATMENT"
+    "Left heart catheterization": "TEST"
   },
   {
     "coronary angiography": "TEST"
@@ -84,7 +81,7 @@
     "disease progression": "PROBLEM"
   },
   {
-    "cardiac catheterization": "TREATMENT"
+    "cardiac catheterization": "TEST"
   },
   {
     "lidocaine": "DRUG"
@@ -108,10 +105,10 @@
     "angiography": "TEST"
   },
   {
-    "6-French JR4 diagnostic catheter": "TEST"
+    "6-French JL4 diagnostic catheter": "TREATMENT"
   },
   {
-    "saphenous vein graft conduit": "TREATMENT"
+    "6-French JR4 diagnostic catheter": "TREATMENT"
   },
   {
     "6-French angled pigtail catheter": "TREATMENT"
@@ -129,6 +126,9 @@
     "selective arteriography": "TEST"
   },
   {
+    "right femoral artery": "PROBLEM"
+  },
+  {
     "atherosclerotic plaque": "PROBLEM"
   },
   {
@@ -138,13 +138,10 @@
     "Perclose device": "TREATMENT"
   },
   {
-    "Perclose": "DRUG"
+    "Perclose": "TREATMENT"
   },
   {
-    "removed intact over the wire from the system": "TREATMENT"
-  },
-  {
-    "6-French Angio-Seal": "DRUG"
+    "6-French Angio-Seal": "TREATMENT"
   },
   {
     "femoral arteriotomy": "PROBLEM"
@@ -154,9 +151,6 @@
   },
   {
     "bedrest": "TREATMENT"
-  },
-  {
-    "HEMODYNAMIC DATA": "TEST"
   },
   {
     "Opening aortic pressure": "TEST"
@@ -177,16 +171,22 @@
     "Mitral regurgitation": "PROBLEM"
   },
   {
-    "wall motion": "TEST"
+    "normal wall motion": "PROBLEM"
+  },
+  {
+    "RAO projection": "TEST"
   },
   {
     "CORONARY ANGIOGRAM": "TEST"
   },
   {
-    "mild atherosclerotic plaque": "PROBLEM"
+    "atherosclerotic plaque": "PROBLEM"
   },
   {
-    "proximal LAD was 100% occluded": "PROBLEM"
+    "proximal LAD": "PROBLEM"
+  },
+  {
+    "occluded": "PROBLEM"
   },
   {
     "atherosclerotic plaque": "PROBLEM"
@@ -216,16 +216,16 @@
     "saphenous vein graft": "TREATMENT"
   },
   {
+    "native right coronary artery": "PROBLEM"
+  },
+  {
     "saphenous vein graft": "TREATMENT"
   },
   {
     "PDA": "PROBLEM"
   },
   {
-    "native proximal PDA": "PROBLEM"
-  },
-  {
-    "PLV disease": "PROBLEM"
+    "proximal PDA and PLV disease": "PROBLEM"
   },
   {
     "right coronary artery": "PROBLEM"
@@ -235,6 +235,9 @@
   },
   {
     "saphenous vein graft": "TREATMENT"
+  },
+  {
+    "left anterior descending": "PROBLEM"
   },
   {
     "distal anastomosis": "TREATMENT"
@@ -253,9 +256,6 @@
   },
   {
     "OM": "PROBLEM"
-  },
-  {
-    "small-caliber vessel": "PROBLEM"
   },
   {
     "80% lesion": "PROBLEM"
@@ -288,9 +288,6 @@
     "medical therapy": "TREATMENT"
   },
   {
-    "risk factor modification": "TREATMENT"
-  },
-  {
     "antihyperlipidemic": "DRUG"
   },
   {
@@ -301,12 +298,6 @@
   },
   {
     "triglyceride level": "TEST"
-  },
-  {
-    "smoking": "PROBLEM"
-  },
-  {
-    "bedrest": "TREATMENT"
   },
   {
     "carotid duplex Doppler ultrasound": "TEST"
@@ -343,6 +334,12 @@
   },
   {
     "ventricular pressure": "TEST"
+  },
+  {
+    "coronary artery": "PROBLEM"
+  },
+  {
+    "saphenous vein": "PROBLEM"
   },
   {
     "atherosclerotic": "PROBLEM"

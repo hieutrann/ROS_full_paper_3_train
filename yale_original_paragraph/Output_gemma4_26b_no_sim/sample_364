@@ -24,6 +24,9 @@
     "EKG": "TEST"
   },
   {
+    "foot surgery": "TREATMENT"
+  },
+  {
     "Reactive airway disease": "PROBLEM"
   },
   {
@@ -66,10 +69,19 @@
     "Colace": "DRUG"
   },
   {
+    "Weight": "TEST"
+  },
+  {
     "Blood pressure": "TEST"
   },
   {
     "Pulse": "TEST"
+  },
+  {
+    "Respirations": "TEST"
+  },
+  {
+    "Temperature": "TEST"
   },
   {
     "lymphadenopathy": "PROBLEM"
@@ -84,7 +96,10 @@
     "nipple discharge": "PROBLEM"
   },
   {
-    "lumps or masses": "PROBLEM"
+    "lumps": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
   },
   {
     "Atrophic vaginal mucosa": "PROBLEM"
@@ -97,6 +112,9 @@
   },
   {
     "adnexal tenderness": "PROBLEM"
+  },
+  {
+    "masses palpated": "PROBLEM"
   },
   {
     "cyanosis": "PROBLEM"
@@ -123,21 +141,9 @@
     "DEXA": "TEST"
   },
   {
-    "pap smear": "TEST"
+    "Pap smear": "TEST"
   },
   {
     "mammogram": "TEST"
-  },
-  {
-    "masses palpated": "PROBLEM"
-  },
-  {
-    "lymphadenopathy": "PROBLEM"
-  },
-  {
-    "cervical": "PROBLEM"
-  },
-  {
-    "tenderness": "PROBLEM"
   }
 ]

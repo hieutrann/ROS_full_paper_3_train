@@ -1,0 +1,167 @@
+[
+  {
+    "temperature": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "left pelvic pain": "PROBLEM"
+  },
+  {
+    "degenerative disk disease": "PROBLEM"
+  },
+  {
+    "swollen inguinal nodes": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "chills": "PROBLEM"
+  },
+  {
+    "left pelvic pain": "PROBLEM"
+  },
+  {
+    "pain": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "temperature": "PROBLEM"
+  },
+  {
+    "left sacroiliac type hip pain": "PROBLEM"
+  },
+  {
+    "blood studies": "TEST"
+  },
+  {
+    "cultures": "TEST"
+  },
+  {
+    "febrile agglutinins": "TEST"
+  },
+  {
+    "blood glucose": "TEST"
+  },
+  {
+    "x-rays": "TEST"
+  },
+  {
+    "MRIs": "TEST"
+  },
+  {
+    "diabetic": "PROBLEM"
+  },
+  {
+    "hypertensive": "PROBLEM"
+  },
+  {
+    "hyperlipidemia": "PROBLEM"
+  },
+  {
+    "thyroid problems": "PROBLEM"
+  },
+  {
+    "asthma": "PROBLEM"
+  },
+  {
+    "bronchitis": "PROBLEM"
+  },
+  {
+    "TB": "PROBLEM"
+  },
+  {
+    "emphysema": "PROBLEM"
+  },
+  {
+    "pneumonia": "PROBLEM"
+  },
+  {
+    "tuberculosis": "PROBLEM"
+  },
+  {
+    "breast tumors": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "cardiac problems": "PROBLEM"
+  },
+  {
+    "gallbladder surgery": "TREATMENT"
+  },
+  {
+    "gastritis": "PROBLEM"
+  },
+  {
+    "ulcers": "PROBLEM"
+  },
+  {
+    "kidney disease": "PROBLEM"
+  },
+  {
+    "hysterectomy": "TREATMENT"
+  },
+  {
+    "A&P repair": "TREATMENT"
+  },
+  {
+    "sacral abscess": "PROBLEM"
+  },
+  {
+    "pilonidal cyst": "PROBLEM"
+  },
+  {
+    "fractures": "PROBLEM"
+  },
+  {
+    "arthritis": "PROBLEM"
+  },
+  {
+    "hip pain": "PROBLEM"
+  },
+  {
+    "knee reflexes": "TEST"
+  },
+  {
+    "ankle reflexes": "TEST"
+  },
+  {
+    "tibial pulses": "TEST"
+  },
+  {
+    "sensory deficit": "PROBLEM"
+  },
+  {
+    "triple-phase bone scan": "TEST"
+  },
+  {
+    "infection": "PROBLEM"
+  },
+  {
+    "brucellosis": "PROBLEM"
+  },
+  {
+    "titers": "TEST"
+  },
+  {
+    "white count": "TEST"
+  },
+  {
+    "antibiotics": "DRUG"
+  },
+  {
+    "Motrin": "DRUG"
+  },
+  {
+    "Darvocet": "DRUG"
+  },
+  {
+    "insulin": "DRUG"
+  }
+]

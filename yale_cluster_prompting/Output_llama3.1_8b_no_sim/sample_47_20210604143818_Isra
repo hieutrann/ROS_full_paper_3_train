@@ -54,10 +54,13 @@
     "Type II diabetes mellitus": "PROBLEM"
   },
   {
-    "2": "TREATMENT"
+    "2": "TEST"
   },
   {
     "Generalized fatigue and weakness": "PROBLEM"
+  },
+  {
+    "3": "PROBLEM"
   },
   {
     "Hypertension": "PROBLEM"
@@ -84,19 +87,16 @@
     "Depression": "PROBLEM"
   },
   {
-    "7": "TREATMENT"
+    "high-risk medications": "PROBLEM"
   },
   {
-    "high-risk medications": "DRUG"
-  },
-  {
-    "8": "TREATMENT"
+    "8": "PROBLEM"
   },
   {
     "Postmenopausal age-related symptoms": "PROBLEM"
   },
   {
-    "9": "TREATMENT"
+    "9": "PROBLEM"
   },
   {
     "Abdominal pain": "PROBLEM"
@@ -108,10 +108,7 @@
     "diarrhea": "PROBLEM"
   },
   {
-    "medicines": "DRUG"
-  },
-  {
-    "morning and evening lift": "PROBLEM"
+    "Her list of medicines": "TREATMENT"
   },
   {
     "PAST SURGICAL HISTORY": "TREATMENT"
@@ -126,21 +123,6 @@
     "stroke": "PROBLEM"
   },
   {
-    "healthy": "PROBLEM"
-  },
-  {
-    "sons": "PROBLEM"
-  },
-  {
-    "Avon": "DRUG"
-  },
-  {
-    "nonsmoker": "PROBLEM"
-  },
-  {
-    "nondrinker": "PROBLEM"
-  },
-  {
     "fever": "PROBLEM"
   },
   {
@@ -153,16 +135,13 @@
     "weight change": "PROBLEM"
   },
   {
-    "189 pounds": "TEST"
+    "189 pounds": "PROBLEM"
   },
   {
-    "188 pounds": "TEST"
+    "188 pounds": "PROBLEM"
   },
   {
-    "visual function": "PROBLEM"
-  },
-  {
-    "auditory function": "PROBLEM"
+    "HEENT": "PROBLEM"
   },
   {
     "epistaxis": "PROBLEM"
@@ -174,13 +153,7 @@
     "hoarseness": "PROBLEM"
   },
   {
-    "palpitations": "PROBLEM"
-  },
-  {
-    "PND": "PROBLEM"
-  },
-  {
-    "orthopnea": "PROBLEM"
+    "Chest": "PROBLEM"
   },
   {
     "chest pains": "PROBLEM"
@@ -196,9 +169,6 @@
   },
   {
     "PND": "PROBLEM"
-  },
-  {
-    "orthopnea": "PROBLEM"
   },
   {
     "Thromboembolic disease": "PROBLEM"
@@ -225,7 +195,7 @@
     "hematuria": "PROBLEM"
   },
   {
-    "history of stones": "PROBLEM"
+    "stones": "PROBLEM"
   },
   {
     "Peripheral neuropathy": "PROBLEM"
@@ -247,12 +217,6 @@
   },
   {
     "rashes": "PROBLEM"
-  },
-  {
-    "itching": "PROBLEM"
-  },
-  {
-    "changes in the nails": "PROBLEM"
   },
   {
     "lumps": "PROBLEM"
@@ -288,10 +252,10 @@
     "acute distress": "PROBLEM"
   },
   {
-    "normocephalic": "PROBLEM"
+    "Head": "PROBLEM"
   },
   {
-    "conjunctivae": "PROBLEM"
+    "conjunctivae": "TEST"
   },
   {
     "pupils": "TEST"
@@ -306,7 +270,7 @@
     "Nose": "PROBLEM"
   },
   {
-    "Septum midline": "PROBLEM"
+    "Septum": "PROBLEM"
   },
   {
     "oral mucosa": "PROBLEM"
@@ -321,16 +285,22 @@
     "thyromegaly": "PROBLEM"
   },
   {
-    "clear lungs": "PROBLEM"
+    "Symmetric": "TEST"
   },
   {
-    "HEART: Rate and rhythm is regular": "TEST"
+    "clear lungs": "TEST"
   },
   {
-    "S1 and S2 audible": "TEST"
+    "auscultation": "TEST"
   },
   {
-    "murmur": "PROBLEM"
+    "percussion": "TEST"
+  },
+  {
+    "HEART": "PROBLEM"
+  },
+  {
+    "S1 and S2": "TEST"
   },
   {
     "gallop": "PROBLEM"
@@ -354,7 +324,7 @@
     "flank pain": "PROBLEM"
   },
   {
-    "GU": "PROBLEM"
+    "GU": "TEST"
   },
   {
     "cyanosis": "PROBLEM"
@@ -366,13 +336,16 @@
     "edema": "PROBLEM"
   },
   {
-    "SKIN AND INTEGUMENTS": "PROBLEM"
+    "Intact": "PROBLEM"
   },
   {
     "lesions": "PROBLEM"
   },
   {
     "rashes": "PROBLEM"
+  },
+  {
+    "cranial nerve testing": "TEST"
   },
   {
     "cranial nerve testing II through XII": "TEST"
@@ -391,9 +364,6 @@
   },
   {
     "metformin": "DRUG"
-  },
-  {
-    "As above": "PROBLEM"
   },
   {
     "PLAN": "TREATMENT"
@@ -423,13 +393,13 @@
     "ova and parasites": "TEST"
   },
   {
-    "intermittent diarrhea": "PROBLEM"
+    "diarrhea": "PROBLEM"
   },
   {
     "CT of the abdomen and pelvis": "TEST"
   },
   {
-    "2": "TREATMENT"
+    "2": "TEST"
   },
   {
     "medications": "DRUG"
@@ -438,22 +408,13 @@
     "diuretics": "DRUG"
   },
   {
-    "months": "TREATMENT"
+    "3": "PROBLEM"
   },
   {
-    "fatigue": "PROBLEM"
-  },
-  {
-    "discomfort": "PROBLEM"
-  },
-  {
-    "loose bowel movements": "PROBLEM"
+    "months": "TEST"
   },
   {
     "diabetes mellitus": "PROBLEM"
-  },
-  {
-    "weakness": "PROBLEM"
   },
   {
     "hypertension": "PROBLEM"
@@ -463,6 +424,15 @@
   },
   {
     "intermittent diarrhea": "PROBLEM"
+  },
+  {
+    "fatigue": "PROBLEM"
+  },
+  {
+    "discomfort": "PROBLEM"
+  },
+  {
+    "loose bowel movements": "PROBLEM"
   },
   {
     "symptoms": "PROBLEM"

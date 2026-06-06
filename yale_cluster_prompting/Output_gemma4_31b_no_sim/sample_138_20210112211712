@@ -45,16 +45,16 @@
     "stenosis": "PROBLEM"
   },
   {
-    "OPERATIVE PROCEDURES": "TREATMENT"
-  },
-  {
     "Anterior cervical discectomy with decompression C4-C5, C5-C6, and C6-C7": "TREATMENT"
   },
   {
-    "Arthrodesis with anterior interbody fusion C4-C5, C5-C6, and C6-C7": "TREATMENT"
+    "Arthrodesis": "TREATMENT"
   },
   {
-    "Spinal instrumentation C4 through C7": "TREATMENT"
+    "anterior interbody fusion": "TREATMENT"
+  },
+  {
+    "Spinal instrumentation": "TREATMENT"
   },
   {
     "Implant": "TREATMENT"
@@ -96,13 +96,10 @@
     "IV morphine": "DRUG"
   },
   {
-    "pain down the arm": "PROBLEM"
+    "pain": "PROBLEM"
   },
   {
-    "tingling of the right thumb": "PROBLEM"
-  },
-  {
-    "tingling of the right index finger": "PROBLEM"
+    "tingling": "PROBLEM"
   },
   {
     "dysphagia": "PROBLEM"
@@ -114,7 +111,7 @@
     "Medrol": "DRUG"
   },
   {
-    "pain medication": "DRUG"
+    "pain": "PROBLEM"
   },
   {
     "Darvocet": "DRUG"

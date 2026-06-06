@@ -18,25 +18,7 @@
     "hydroureter": "PROBLEM"
   },
   {
-    "Sepsis": "PROBLEM"
-  },
-  {
     "abdominal pain": "PROBLEM"
-  },
-  {
-    "CT scan": "TEST"
-  },
-  {
-    "dilated bladder": "PROBLEM"
-  },
-  {
-    "outlet obstruction": "PROBLEM"
-  },
-  {
-    "bilateral hydronephrosis": "PROBLEM"
-  },
-  {
-    "hydroureter": "PROBLEM"
   },
   {
     "IV antibiotics": "DRUG"
@@ -120,73 +102,10 @@
     "Amoxicillin": "DRUG"
   },
   {
-    "Pulse": "TEST"
+    "CT of the abdomen": "TEST"
   },
   {
-    "respirations": "TEST"
-  },
-  {
-    "blood pressure": "TEST"
-  },
-  {
-    "saturating": "TEST"
-  },
-  {
-    "HEENT": "TEST"
-  },
-  {
-    "pupils": "TEST"
-  },
-  {
-    "mucous membranes": "TEST"
-  },
-  {
-    "NECK": "TEST"
-  },
-  {
-    "thyromegaly": "PROBLEM"
-  },
-  {
-    "jugular venous distention": "PROBLEM"
-  },
-  {
-    "HEART": "TEST"
-  },
-  {
-    "LUNGS": "TEST"
-  },
-  {
-    "ABDOMEN": "TEST"
-  },
-  {
-    "bowel sounds": "TEST"
-  },
-  {
-    "EXTREMITIES": "TEST"
-  },
-  {
-    "clubbing": "PROBLEM"
-  },
-  {
-    "cyanosis": "PROBLEM"
-  },
-  {
-    "edema": "PROBLEM"
-  },
-  {
-    "NEUROLOGIC": "TEST"
-  },
-  {
-    "focality": "PROBLEM"
-  },
-  {
-    "CT": "TEST"
-  },
-  {
-    "abdomen": "TEST"
-  },
-  {
-    "inguinal hernia": "PROBLEM"
+    "left inguinal hernia": "PROBLEM"
   },
   {
     "SBO": "PROBLEM"
@@ -204,7 +123,7 @@
     "hydroureter": "PROBLEM"
   },
   {
-    "adrenal gland mass": "PROBLEM"
+    "right adrenal gland mass": "PROBLEM"
   },
   {
     "White count": "TEST"
@@ -252,6 +171,48 @@
     "atrial fibrillation": "PROBLEM"
   },
   {
+    "urology consult": "TREATMENT"
+  },
+  {
+    "renal consult": "TREATMENT"
+  },
+  {
+    "Levaquin": "DRUG"
+  },
+  {
+    "gentamicin": "DRUG"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "hypertonic-hypotonic": "TREATMENT"
+  },
+  {
+    "anticoagulation": "TREATMENT"
+  },
+  {
+    "SCD": "TREATMENT"
+  },
+  {
+    "TED hose": "TREATMENT"
+  },
+  {
+    "rate control medications": "TREATMENT"
+  },
+  {
+    "digoxin level": "TEST"
+  },
+  {
+    "dementia medications": "DRUG"
+  },
+  {
+    "PPI": "DRUG"
+  },
+  {
+    "PUD prophylaxis": "TREATMENT"
+  },
+  {
     "urinary tract infection with sepsis": "PROBLEM"
   },
   {
@@ -268,83 +229,5 @@
   },
   {
     "adrenal gland mass": "PROBLEM"
-  },
-  {
-    "urology consult": "TREATMENT"
-  },
-  {
-    "renal consult": "TREATMENT"
-  },
-  {
-    "Levaquin": "DRUG"
-  },
-  {
-    "gentamicin": "DRUG"
-  },
-  {
-    "IV fluids": "TREATMENT"
-  },
-  {
-    "hypertonic-hypotonic": "DRUG"
-  },
-  {
-    "anticoagulation": "DRUG"
-  },
-  {
-    "SCD": "DRUG"
-  },
-  {
-    "TED hose": "DRUG"
-  },
-  {
-    "digoxin level": "TEST"
-  },
-  {
-    "dementia medications": "DRUG"
-  },
-  {
-    "PPI": "DRUG"
-  },
-  {
-    "PUD": "PROBLEM"
-  },
-  {
-    "prophylaxis": "TREATMENT"
-  },
-  {
-    "general medicine": "TEST"
-  },
-  {
-    "abdominal pain": "PROBLEM"
-  },
-  {
-    "hydronephrosis": "PROBLEM"
-  },
-  {
-    "hydroureter": "PROBLEM"
-  },
-  {
-    "urology": "TEST"
-  },
-  {
-    "urinary tract infection with sepsis": "PROBLEM"
-  },
-  {
-    "ct scan": "TEST"
-  },
-  {
-    "adrenal gland": "PROBLEM"
-  },
-  {
-    "dilated bladder": "PROBLEM"
-  },
-  {
-    "bilateral hydronephrosis": "PROBLEM"
-  },
-  {
-    "atrial fibrillation": "PROBLEM"
-  },
-  {
-    "sepsis": "PROBLEM"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "peritoneal carcinomatosis from appendiceal primary": "PROBLEM"
+    "carcinomatosis from appendiceal primary": "PROBLEM"
   },
   {
     "diarrhea": "PROBLEM"
@@ -48,6 +48,12 @@
     "IPHC with mitomycin-C": "TREATMENT"
   },
   {
+    "PCA pump": "TREATMENT"
+  },
+  {
+    "p.o. pain medicines": "TREATMENT"
+  },
+  {
     "pneumococcal vaccine": "TREATMENT"
   },
   {
@@ -55,14 +61,5 @@
   },
   {
     "meningococcal vaccine": "TREATMENT"
-  },
-  {
-    "post-splenectomy vaccines": "TREATMENT"
-  },
-  {
-    "multivitamins": "TREATMENT"
-  },
-  {
-    "staples": "TREATMENT"
   }
 ]

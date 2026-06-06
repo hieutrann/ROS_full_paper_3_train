@@ -7,3 +7,8 @@ llama3.1:8b,{2693.0}
 gemma4:26b,{3865.91}
 gemma4:31b,{7982.97}
 mistral-small:24b,{4369.66}
+llama3.1:8b,{3342.5}
+gemma4:26b,{3559.39}
+gemma4:31b,{6788.9}
+mistral-small3.2:24b,{4046.69}
+nemotron-3-nano:30b,{4791.74}

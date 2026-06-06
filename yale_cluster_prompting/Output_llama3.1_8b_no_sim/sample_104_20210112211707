@@ -1,6 +1,6 @@
 [
   {
-    "Disseminated Intravascular Coagulation": "PROBLEM"
+    "Disseminated intravascular coagulation": "PROBLEM"
   },
   {
     "Streptococcal pneumonia": "PROBLEM"
@@ -21,13 +21,13 @@
     "intubation": "TREATMENT"
   },
   {
-    "DIAGNOSES": "TEST"
+    "DIAGNOSES": "PROBLEM"
   },
   {
     "Disseminated intravascular coagulation": "PROBLEM"
   },
   {
-    "2": "TREATMENT"
+    "2": "PROBLEM"
   },
   {
     "Streptococcal pneumonia": "PROBLEM"
@@ -48,34 +48,25 @@
     "respiratory failure": "PROBLEM"
   },
   {
-    "intubation": "TREATMENT"
-  },
-  {
     "disseminated intravascular coagulation": "PROBLEM"
   },
   {
-    "prolonged partial thromboplastin time": "TEST"
+    "prolonged partial thromboplastin time": "PROBLEM"
   },
   {
-    "prothrombin time": "TEST"
+    "prothrombin time": "PROBLEM"
   },
   {
-    "low fibrinogen": "TEST"
+    "low fibrinogen": "PROBLEM"
   },
   {
-    "elevated D-dimer": "TEST"
+    "elevated D-dimer": "PROBLEM"
   },
   {
     "mechanical ventilation": "TREATMENT"
   },
   {
-    "fibrinogen": "DRUG"
-  },
-  {
-    "evaluation": "TEST"
-  },
-  {
-    "treatment": "TREATMENT"
+    "evaluation": "PROBLEM"
   },
   {
     "clinically": "PROBLEM"
@@ -93,40 +84,19 @@
     "coagulopathy": "PROBLEM"
   },
   {
-    "surgical history": "PROBLEM"
+    "nondescript": "PROBLEM"
   },
   {
     "illicit drugs": "PROBLEM"
   },
   {
-    "family": "PROBLEM"
+    "noncontributory": "PROBLEM"
   },
   {
-    "FAMILY HISTORY": "TEST"
-  },
-  {
-    "REVIEW OF SYSTEMS": "TEST"
-  },
-  {
-    "sedated": "PROBLEM"
+    "Not otherwise pertinent": "PROBLEM"
   },
   {
     "young black female": "PROBLEM"
-  },
-  {
-    "acute distress": "PROBLEM"
-  },
-  {
-    "intubated": "PROBLEM"
-  },
-  {
-    "rate of 67": "TEST"
-  },
-  {
-    "blood pressure of 100/60": "TEST"
-  },
-  {
-    "respiratory rate per the ventilator approximately 14 to 16": "TEST"
   },
   {
     "conjunctival hemorrhage": "PROBLEM"
@@ -144,13 +114,13 @@
     "jugular venous pressure distention": "PROBLEM"
   },
   {
-    "breath sounds": "TEST"
+    "Coarse breath sounds": "PROBLEM"
   },
   {
-    "HEART": "TEST"
+    "Regular rate and rhythm": "PROBLEM"
   },
   {
-    "ABDOMEN": "TEST"
+    "Soft and nontender abdomen": "PROBLEM"
   },
   {
     "central line": "PROBLEM"
@@ -166,9 +136,6 @@
   },
   {
     "arterial blood flow": "PROBLEM"
-  },
-  {
-    "DIC parameters": "TEST"
   },
   {
     "platelet count": "TEST"
@@ -210,28 +177,22 @@
     "coagulopathy": "PROBLEM"
   },
   {
-    "fibrinogen": "TEST"
+    "fibrinogen": "PROBLEM"
   },
   {
-    "coagulation times": "TEST"
+    "coagulation times": "PROBLEM"
   },
   {
     "heparin": "DRUG"
   },
   {
-    "consumption of coagulation routines": "PROBLEM"
-  },
-  {
-    "supportive infusions": "TREATMENT"
+    "infusions": "TREATMENT"
   },
   {
     "laboratory studies": "TEST"
   },
   {
-    "recommendations": "TREATMENT"
-  },
-  {
-    "intravascular coagulation": "PROBLEM"
+    "disseminated intravascular coagulation": "PROBLEM"
   },
   {
     "pneumonia": "PROBLEM"
@@ -243,10 +204,10 @@
     "prothrombin time": "TEST"
   },
   {
-    "disseminated intravascular coagulation": "PROBLEM"
+    "streptococcal pneumonia": "PROBLEM"
   },
   {
-    "streptococcal pneumonia": "PROBLEM"
+    "intravascular coagulation": "PROBLEM"
   },
   {
     "coagulopathy": "PROBLEM"
@@ -259,5 +220,8 @@
   },
   {
     "disseminated": "PROBLEM"
+  },
+  {
+    "infusion": "TREATMENT"
   }
 ]

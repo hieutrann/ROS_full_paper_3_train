@@ -1,15 +1,12 @@
 [
   {
-    "General Medicine": "TEST"
+    "General Medicine": "TREATMENT"
   },
   {
-    "Normal Male Exam Template - 4": "TEST"
+    "Normal Male Exam Template - 4": "TREATMENT"
   },
   {
-    "routine normal male physical exam": "TEST"
-  },
-  {
-    "VITAL SIGNS": "TEST"
+    "routine normal male physical exam": "TREATMENT"
   },
   {
     "Blood pressure": "TEST"
@@ -24,7 +21,10 @@
     "temperature": "TEST"
   },
   {
-    "GENERAL APPEARANCE": "TEST"
+    "apparent distress": "PROBLEM"
+  },
+  {
+    "percussion": "TEST"
   },
   {
     "EOMI": "PROBLEM"
@@ -39,6 +39,18 @@
     "lesions": "PROBLEM"
   },
   {
+    "lids": "PROBLEM"
+  },
+  {
+    "lashes": "PROBLEM"
+  },
+  {
+    "brows": "PROBLEM"
+  },
+  {
+    "conjunctivae": "PROBLEM"
+  },
+  {
     "Funduscopic examination": "TEST"
   },
   {
@@ -51,31 +63,22 @@
     "cataracts": "PROBLEM"
   },
   {
-    "Ears": "PROBLEM"
+    "TMs": "TEST"
   },
   {
-    "Normal set and shape": "PROBLEM"
+    "Nose and Sinus": "PROBLEM"
   },
   {
-    "Normal hearing": "PROBLEM"
+    "Mouth": "PROBLEM"
   },
   {
-    "Normal TMs": "PROBLEM"
+    "Tongue": "PROBLEM"
   },
   {
-    "Nose and Sinus": "TEST"
+    "Teeth": "PROBLEM"
   },
   {
-    "Mouth": "TEST"
-  },
-  {
-    "Tongue": "TEST"
-  },
-  {
-    "Teeth": "TEST"
-  },
-  {
-    "Throat": "TEST"
+    "Throat": "PROBLEM"
   },
   {
     "dental work": "TREATMENT"
@@ -90,22 +93,61 @@
     "cervical adenopathy": "PROBLEM"
   },
   {
+    "carotid bruit": "PROBLEM"
+  },
+  {
+    "JVD": "PROBLEM"
+  },
+  {
+    "cervical adenopathy": "PROBLEM"
+  },
+  {
+    "Supple": "TEST"
+  },
+  {
+    "pain free": "TEST"
+  },
+  {
+    "without carotid bruit": "TEST"
+  },
+  {
+    "without JVD": "TEST"
+  },
+  {
+    "without significant cervical adenopathy": "TEST"
+  },
+  {
     "stridor": "PROBLEM"
+  },
+  {
+    "shift": "PROBLEM"
   },
   {
     "subcutaneous emphysema": "PROBLEM"
   },
   {
+    "Trachea": "TEST"
+  },
+  {
     "Thyroid": "PROBLEM"
+  },
+  {
+    "nontender": "PROBLEM"
+  },
+  {
+    "enlarged": "PROBLEM"
+  },
+  {
+    "nodularity": "PROBLEM"
+  },
+  {
+    "lungs": "PROBLEM"
   },
   {
     "auscultation": "TEST"
   },
   {
     "percussion": "TEST"
-  },
-  {
-    "Lungs": "PROBLEM"
   },
   {
     "S1": "TEST"
@@ -144,7 +186,7 @@
     "adenopathy": "PROBLEM"
   },
   {
-    "male breast tissue": "PROBLEM"
+    "Normal male breast tissue": "PROBLEM"
   },
   {
     "hepatosplenomegaly": "PROBLEM"
@@ -174,13 +216,7 @@
     "auscultation": "TEST"
   },
   {
-    "EXTERNAL GENITALIA": "TEST"
-  },
-  {
-    "penis": "PROBLEM"
-  },
-  {
-    "testes": "PROBLEM"
+    "Normal for age": "PROBLEM"
   },
   {
     "hernia": "PROBLEM"
@@ -189,16 +225,25 @@
     "hydrocele": "PROBLEM"
   },
   {
-    "Hemoccult-negative stool": "TEST"
+    "penis": "TEST"
   },
   {
-    "normal-sized prostate": "TEST"
+    "testes": "TEST"
   },
   {
     "nodularity": "PROBLEM"
   },
   {
     "tenderness": "PROBLEM"
+  },
+  {
+    "Hemoccult-negative stool": "TEST"
+  },
+  {
+    "palpation": "TEST"
+  },
+  {
+    "prostate": "TEST"
   },
   {
     "rectal masses": "PROBLEM"
@@ -231,7 +276,10 @@
     "range of motion": "TEST"
   },
   {
-    "BACK": "TEST"
+    "percussion": "TEST"
+  },
+  {
+    "inspection": "TEST"
   },
   {
     "spinous process tenderness": "PROBLEM"
@@ -273,10 +321,13 @@
     "Gait and station": "TEST"
   },
   {
-    "premalignant or malignant condition": "PROBLEM"
+    "premalignant condition": "PROBLEM"
   },
   {
-    "normal changes for age": "PROBLEM"
+    "malignant condition": "PROBLEM"
+  },
+  {
+    "normal changes": "TEST"
   },
   {
     "general medicine": "PROBLEM"
@@ -295,9 +346,6 @@
   },
   {
     "breasts": "TEST"
-  },
-  {
-    "male": "TEST"
   },
   {
     "tenderness": "PROBLEM"

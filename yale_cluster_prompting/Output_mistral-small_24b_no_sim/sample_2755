@@ -9,25 +9,13 @@
     "itchy rash": "PROBLEM"
   },
   {
-    "back": "PROBLEM"
-  },
-  {
-    "torso": "PROBLEM"
-  },
-  {
-    "arms": "PROBLEM"
-  },
-  {
     "Itchy rash": "PROBLEM"
   },
   {
     "itchiness": "PROBLEM"
   },
   {
-    "rash": "PROBLEM"
-  },
-  {
-    "facial swelling": "PROBLEM"
+    "itchy rash": "PROBLEM"
   },
   {
     "tongue swelling": "PROBLEM"
@@ -42,22 +30,19 @@
     "wheezing": "PROBLEM"
   },
   {
-    "insulation": "PROBLEM"
-  },
-  {
     "back surgery": "TREATMENT"
   },
   {
     "appendectomy": "TREATMENT"
   },
   {
-    "REVIEW OF SYSTEMS": "TEST"
-  },
-  {
     "oropharyngeal swelling": "PROBLEM"
   },
   {
-    "swelling": "PROBLEM"
+    "lip swelling": "PROBLEM"
+  },
+  {
+    "tongue swelling": "PROBLEM"
   },
   {
     "wheezing": "PROBLEM"
@@ -67,12 +52,6 @@
   },
   {
     "itchy rash": "PROBLEM"
-  },
-  {
-    "torso": "PROBLEM"
-  },
-  {
-    "upper arms": "PROBLEM"
   },
   {
     "TORADOL": "DRUG"
@@ -87,12 +66,6 @@
     "AMPICILLIN": "DRUG"
   },
   {
-    "PHYSICAL EXAMINATION": "TEST"
-  },
-  {
-    "VITAL SIGNS": "TEST"
-  },
-  {
     "afebrile": "PROBLEM"
   },
   {
@@ -105,31 +78,40 @@
     "respiratory rate": "TEST"
   },
   {
-    "pharynx": "PROBLEM"
+    "gurney": "TEST"
   },
   {
-    "His trachea": "PROBLEM"
+    "Lips": "TEST"
+  },
+  {
+    "tongue": "TEST"
+  },
+  {
+    "Posterior pharynx": "TEST"
+  },
+  {
+    "NECK": "PROBLEM"
   },
   {
     "stridor": "PROBLEM"
   },
   {
-    "LUNGS": "TEST"
+    "breath sounds": "TEST"
   },
   {
     "wheezing": "PROBLEM"
   },
   {
-    "CARDIAC": "PROBLEM"
+    "air movement": "TEST"
+  },
+  {
+    "murmur": "PROBLEM"
   },
   {
     "tachycardia": "PROBLEM"
   },
   {
-    "ABDOMEN": "TEST"
-  },
-  {
-    "erythematous": "PROBLEM"
+    "ABDOMEN": "PROBLEM"
   },
   {
     "rash": "PROBLEM"
@@ -181,9 +163,6 @@
   },
   {
     "tongue or lip swelling": "PROBLEM"
-  },
-  {
-    "evaluation": "TEST"
   },
   {
     "urticaria": "PROBLEM"

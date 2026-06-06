@@ -18,19 +18,16 @@
     "sick sinus syndrome": "PROBLEM"
   },
   {
-    "ADMITTING DIAGNOSES": "PROBLEM"
-  },
-  {
     "Bradycardia": "PROBLEM"
   },
   {
-    "2": "TEST"
+    "2": "TREATMENT"
   },
   {
     "Dizziness": "PROBLEM"
   },
   {
-    "3": "PROBLEM"
+    "3": "TREATMENT"
   },
   {
     "Diabetes": "PROBLEM"
@@ -42,7 +39,7 @@
     "Hypertension": "PROBLEM"
   },
   {
-    "5": "PROBLEM"
+    "5": "TEST"
   },
   {
     "Abdominal pain": "PROBLEM"
@@ -51,19 +48,16 @@
     "Sick sinus syndrome": "PROBLEM"
   },
   {
-    "Permanent pacemaker placement": "TREATMENT"
+    "pacemaker": "TREATMENT"
   },
   {
-    "temporary internal pacemaker": "TREATMENT"
-  },
-  {
-    "intensive care unit": "TEST"
+    "intensive care unit": "TREATMENT"
   },
   {
     "Dr.": "TREATMENT"
   },
   {
-    "X": "PROBLEM"
+    "X": "TREATMENT"
   },
   {
     "intracardiac pacemaker": "TREATMENT"
@@ -72,13 +66,13 @@
     "Dr.": "TREATMENT"
   },
   {
-    "permanent pacemaker": "TREATMENT"
-  },
-  {
     "electrocardiograms": "TEST"
   },
   {
     "telemetry readings": "TEST"
+  },
+  {
+    "pacemaker": "TREATMENT"
   },
   {
     "sinus rhythm": "PROBLEM"
@@ -90,19 +84,25 @@
     "sick sinus syndrome": "PROBLEM"
   },
   {
-    "Permanent pacemaker": "TREATMENT"
+    "pacemaker": "TREATMENT"
   },
   {
-    "right atrium appendage": "TEST"
+    "atrium": "PROBLEM"
   },
   {
-    "right ventricular apex": "TEST"
+    "apex": "PROBLEM"
   },
   {
-    "Medtronic pacemaker": "DRUG"
+    "pacemaker": "TREATMENT"
   },
   {
-    "pain in the left side of the chest": "PROBLEM"
+    "pain": "PROBLEM"
+  },
+  {
+    "chest": "PROBLEM"
+  },
+  {
+    "left side of the chest": "PROBLEM"
   },
   {
     "femoral artery catheter": "TREATMENT"
@@ -126,19 +126,16 @@
     "Sick sinus syndrome": "PROBLEM"
   },
   {
-    "past medical history": "PROBLEM"
-  },
-  {
     "Diabetes mellitus": "PROBLEM"
   },
   {
-    "2": "TEST"
+    "2": "TREATMENT"
   },
   {
     "peptic ulcer disease": "PROBLEM"
   },
   {
-    "3": "PROBLEM"
+    "3": "TREATMENT"
   },
   {
     "Hypertension": "PROBLEM"
@@ -150,7 +147,7 @@
     "Insomnia": "PROBLEM"
   },
   {
-    "5": "PROBLEM"
+    "5": "TEST"
   },
   {
     "Osteoarthritis": "PROBLEM"
@@ -162,19 +159,19 @@
     "Actos": "DRUG"
   },
   {
-    "2": "TEST"
+    "2": "TREATMENT"
   },
   {
     "Bisacodyl": "DRUG"
   },
   {
-    "daily p.r.n.": "TREATMENT"
+    "p.r.n.": "TREATMENT"
   },
   {
     "constipation": "PROBLEM"
   },
   {
-    "3": "PROBLEM"
+    "3": "TREATMENT"
   },
   {
     "Cosopt eye drops": "DRUG"
@@ -186,61 +183,70 @@
     "Famotidine": "DRUG"
   },
   {
-    "b.i.d.": "TEST"
+    "b.i.d.": "TREATMENT"
   },
   {
-    "5": "PROBLEM"
+    "5": "TEST"
   },
   {
     "Lotemax": "DRUG"
   },
   {
-    "6": "PROBLEM"
+    "6": "TEST"
   },
   {
     "Lotensin": "DRUG"
   },
   {
-    "7": "PROBLEM"
+    "benazepril": "DRUG"
   },
   {
     "Triazolam": "DRUG"
   },
   {
-    "bedtime": "TEST"
-  },
-  {
     "8": "TEST"
   },
   {
-    "Milk of Magnesia suspension": "DRUG"
+    "Milk of Magnesia": "DRUG"
   },
   {
-    "9": "PROBLEM"
+    "constipation": "PROBLEM"
+  },
+  {
+    "9": "TEST"
   },
   {
     "Tylenol": "DRUG"
   },
   {
-    "3, one to two tablets every 6 hours p.r.n.": "DRUG"
+    "tablets": "TREATMENT"
   },
   {
     "pain": "PROBLEM"
   },
   {
-    "10": "PROBLEM"
+    "10": "TEST"
   },
   {
     "Promethazine": "DRUG"
   },
   {
-    "nausea or vomiting": "PROBLEM"
+    "nausea": "PROBLEM"
   },
   {
-    "11": "PROBLEM"
+    "vomiting": "PROBLEM"
+  },
+  {
+    "11": "TREATMENT"
   },
   {
     "Tylenol": "DRUG"
+  },
+  {
+    "325 mg": "TREATMENT"
+  },
+  {
+    "pain": "PROBLEM"
   },
   {
     "12": "TEST"
@@ -249,13 +255,16 @@
     "cefazolin": "DRUG"
   },
   {
-    "pacemaker placement": "TREATMENT"
+    "pacemaker": "TREATMENT"
   },
   {
     "staple removal": "TREATMENT"
   },
   {
     "starch": "PROBLEM"
+  },
+  {
+    "sugar-free diet": "TREATMENT"
   },
   {
     "bradycardia": "PROBLEM"
@@ -276,7 +285,7 @@
     "sick sinus syndrome": "PROBLEM"
   },
   {
-    "permanent pacemaker": "PROBLEM"
+    "permanent pacemaker": "TREATMENT"
   },
   {
     "abdominal": "PROBLEM"
@@ -288,6 +297,6 @@
     "sinus": "PROBLEM"
   },
   {
-    "pacemaker": "PROBLEM"
+    "pacemaker": "TREATMENT"
   }
 ]

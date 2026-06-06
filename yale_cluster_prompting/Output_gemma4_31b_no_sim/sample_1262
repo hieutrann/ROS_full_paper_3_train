@@ -63,6 +63,9 @@
     "right-sided chest pain": "PROBLEM"
   },
   {
+    "back": "PROBLEM"
+  },
+  {
     "fever": "PROBLEM"
   },
   {
@@ -147,19 +150,10 @@
     "Amiodarone": "DRUG"
   },
   {
-    "REVIEW OF SYSTEMS": "TEST"
-  },
-  {
     "numbness": "PROBLEM"
   },
   {
     "tingling": "PROBLEM"
-  },
-  {
-    "PHYSICAL EXAMINATION": "TEST"
-  },
-  {
-    "VITAL SIGNS": "TEST"
   },
   {
     "Blood pressure": "TEST"
@@ -183,13 +177,10 @@
     "pain with coughing": "PROBLEM"
   },
   {
-    "Tympanic membranes": "TEST"
+    "Tympanic membranes": "PROBLEM"
   },
   {
     "lymphadenopathy": "PROBLEM"
-  },
-  {
-    "masses": "PROBLEM"
   },
   {
     "Pleural friction rub": "PROBLEM"
@@ -213,7 +204,7 @@
     "tenderness": "PROBLEM"
   },
   {
-    "Normal pulses": "TEST"
+    "pulses": "TEST"
   },
   {
     "breakdown": "PROBLEM"
@@ -228,9 +219,6 @@
     "focal deficits": "PROBLEM"
   },
   {
-    "LABORATORY DATA": "TEST"
-  },
-  {
     "right-sided pleural effusion": "PROBLEM"
   },
   {
@@ -241,6 +229,9 @@
   },
   {
     "echocardiogram": "TEST"
+  },
+  {
+    "prophylaxis": "TREATMENT"
   },
   {
     "DVT": "PROBLEM"
@@ -259,6 +250,9 @@
   },
   {
     "thrombosis": "PROBLEM"
+  },
+  {
+    "anticoagulated": "TREATMENT"
   },
   {
     "pericardial fluid was accumulated": "PROBLEM"
@@ -342,13 +336,13 @@
     "stage III disease": "PROBLEM"
   },
   {
-    "repeat echocardiogram": "TEST"
+    "echocardiogram": "TEST"
   },
   {
     "ejection fraction": "TEST"
   },
   {
-    "chemotherapy": "TREATMENT"
+    "chemotherapy": "DRUG"
   },
   {
     "cisplatin": "DRUG"
@@ -360,7 +354,7 @@
     "Port-A-Cath": "TREATMENT"
   },
   {
-    "chemotherapy": "TREATMENT"
+    "chemotherapy": "DRUG"
   },
   {
     "IV fluid": "TREATMENT"

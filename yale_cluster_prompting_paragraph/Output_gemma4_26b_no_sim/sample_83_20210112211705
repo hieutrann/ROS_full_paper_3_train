@@ -45,10 +45,10 @@
     "ruptured ectopic pregnancy": "PROBLEM"
   },
   {
-    "surgery": "TREATMENT"
+    "laparotomy": "TREATMENT"
   },
   {
-    "laparotomy": "TREATMENT"
+    "right ruptured ectopic pregnancy": "PROBLEM"
   },
   {
     "right salpingectomy": "TREATMENT"
@@ -63,6 +63,9 @@
     "severe abdominal pain": "PROBLEM"
   },
   {
+    "ectopic": "PROBLEM"
+  },
+  {
     "fever": "PROBLEM"
   },
   {
@@ -70,5 +73,23 @@
   },
   {
     "iron therapy": "TREATMENT"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "blood loss": "PROBLEM"
+  },
+  {
+    "ruptured ectopic pregnancy": "PROBLEM"
+  },
+  {
+    "gestational sac": "PROBLEM"
+  },
+  {
+    "ectopic pregnancy": "PROBLEM"
+  },
+  {
+    "hemoperitoneum": "PROBLEM"
   }
 ]

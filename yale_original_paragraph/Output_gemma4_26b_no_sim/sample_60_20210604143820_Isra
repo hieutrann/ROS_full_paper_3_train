@@ -24,7 +24,7 @@
     "amoxicillin": "DRUG"
   },
   {
-    "coughing spells": "PROBLEM"
+    "sats": "TEST"
   },
   {
     "apnea": "PROBLEM"
@@ -43,6 +43,9 @@
   },
   {
     "retractions": "PROBLEM"
+  },
+  {
+    "apnea": "PROBLEM"
   },
   {
     "cyanosis": "PROBLEM"
@@ -87,15 +90,48 @@
     "pertussis culture": "TEST"
   },
   {
-    "Zithromax": "DRUG"
+    "pertussis culture": "TEST"
+  },
+  {
+    "pertussis": "PROBLEM"
+  },
+  {
+    "oxygen": "TREATMENT"
   },
   {
     "emesis": "PROBLEM"
+  },
+  {
+    "Zithromax": "DRUG"
+  },
+  {
+    "Zithromax": "DRUG"
+  },
+  {
+    "coughing": "PROBLEM"
+  },
+  {
+    "cyanosis": "PROBLEM"
+  },
+  {
+    "apnea": "PROBLEM"
+  },
+  {
+    "emesis": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
   },
   {
     "upper respiratory illness": "PROBLEM"
   },
   {
     "respiratory illness": "PROBLEM"
+  },
+  {
+    "apnea": "PROBLEM"
+  },
+  {
+    "pertussis": "PROBLEM"
   }
 ]

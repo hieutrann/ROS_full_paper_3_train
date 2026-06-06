@@ -1,6 +1,6 @@
 [
   {
-    "Atypical pneumonia": "PROBLEM"
+    "pneumonia": "PROBLEM"
   },
   {
     "hypoxia": "PROBLEM"
@@ -9,7 +9,7 @@
     "rheumatoid arthritis": "PROBLEM"
   },
   {
-    "mild stress-induced adrenal insufficiency": "PROBLEM"
+    "adrenal insufficiency": "PROBLEM"
   },
   {
     "cough": "PROBLEM"
@@ -30,19 +30,19 @@
     "Pneumonia": "PROBLEM"
   },
   {
-    "2": "TEST"
+    "2": "TREATMENT"
   },
   {
     "Hypoxia": "PROBLEM"
   },
   {
-    "3": "PROBLEM"
+    "3": "TREATMENT"
   },
   {
     "Rheumatoid arthritis": "PROBLEM"
   },
   {
-    "DISCHARGE DIAGNOSES": "PROBLEM"
+    "DISCHARGE DIAGNOSES": "TREATMENT"
   },
   {
     "Atypical pneumonia": "PROBLEM"
@@ -51,13 +51,13 @@
     "viral": "PROBLEM"
   },
   {
-    "2": "TEST"
+    "2": "TREATMENT"
   },
   {
     "Hypoxia": "PROBLEM"
   },
   {
-    "3": "PROBLEM"
+    "3": "TREATMENT"
   },
   {
     "Rheumatoid arthritis": "PROBLEM"
@@ -66,7 +66,7 @@
     "4": "TEST"
   },
   {
-    "stress-induced adrenal insufficiency": "PROBLEM"
+    "adrenal insufficiency": "PROBLEM"
   },
   {
     "cough": "PROBLEM"
@@ -81,13 +81,13 @@
     "chills": "PROBLEM"
   },
   {
-    "Urgent Care": "TEST"
+    "Urgent Care": "TREATMENT"
   },
   {
-    "physician's office": "TEST"
+    "physician's office": "TREATMENT"
   },
   {
-    "x-ray": "TEST"
+    "infiltrates": "PROBLEM"
   },
   {
     "Avelox": "DRUG"
@@ -132,7 +132,7 @@
     "Dr.": "TREATMENT"
   },
   {
-    "pulmonologist": "PROBLEM"
+    "pulmonologist": "TREATMENT"
   },
   {
     "viral etiology": "PROBLEM"
@@ -168,7 +168,7 @@
     "pills": "DRUG"
   },
   {
-    "Dr.": "TREATMENT"
+    "Dr": "TREATMENT"
   },
   {
     "X": "PROBLEM"
@@ -186,10 +186,10 @@
     "methotrexate": "DRUG"
   },
   {
-    "Methotrexate": "DRUG"
+    "pneumonitis": "PROBLEM"
   },
   {
-    "pneumonitis": "PROBLEM"
+    "Methotrexate": "DRUG"
   },
   {
     "adrenal insufficiency": "PROBLEM"
@@ -219,12 +219,12 @@
     "rheumatoid arthritis": "PROBLEM"
   },
   {
-    "azithromycin": "DRUG"
-  },
-  {
     "arthritis": "PROBLEM"
   },
   {
     "pneumonia": "PROBLEM"
+  },
+  {
+    "azithromycin": "DRUG"
   }
 ]

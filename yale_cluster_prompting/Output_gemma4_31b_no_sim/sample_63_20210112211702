@@ -6,6 +6,9 @@
     "multiple trauma": "PROBLEM"
   },
   {
+    "motor vehicle accident": "PROBLEM"
+  },
+  {
     "surgery": "TREATMENT"
   },
   {
@@ -15,7 +18,7 @@
     "trauma": "PROBLEM"
   },
   {
-    "Decubitus ulcer, lower back": "PROBLEM"
+    "Decubitus ulcer": "PROBLEM"
   },
   {
     "Alcohol induced persisting dementia": "PROBLEM"
@@ -63,10 +66,10 @@
     "Insomnia": "PROBLEM"
   },
   {
-    "Pain in joint pelvic region/thigh.": "PROBLEM"
+    "Pain in joint pelvic region/thigh": "PROBLEM"
   },
   {
-    "Motor vehicle traffic accident, not otherwise specified.": "PROBLEM"
+    "Motor vehicle traffic accident, not otherwise specified": "PROBLEM"
   },
   {
     "multiple fractures": "PROBLEM"
@@ -84,13 +87,13 @@
     "head laceration": "PROBLEM"
   },
   {
-    "head injury": "PROBLEM"
+    "symptoms of head injury": "PROBLEM"
   },
   {
     "ORIF": "TREATMENT"
   },
   {
-    "brace": "TREATMENT"
+    "a brace": "TREATMENT"
   },
   {
     "left tibial plateau fracture": "PROBLEM"
@@ -151,9 +154,6 @@
   },
   {
     "right leg brace": "TREATMENT"
-  },
-  {
-    "therapy": "TREATMENT"
   },
   {
     "therapy": "TREATMENT"

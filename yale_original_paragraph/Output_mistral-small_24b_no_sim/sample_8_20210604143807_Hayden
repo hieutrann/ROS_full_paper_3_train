@@ -3,16 +3,7 @@
     "decreased level of consciousness": "PROBLEM"
   },
   {
-    "decreased level of consciousness": "PROBLEM"
-  },
-  {
-    "decreased consciousness": "PROBLEM"
-  },
-  {
-    "decreased consciousness": "PROBLEM"
-  },
-  {
-    "decreased mental status": "PROBLEM"
+    "consciousness": "PROBLEM"
   },
   {
     "Parkinson disease": "PROBLEM"
@@ -21,40 +12,7 @@
     "Parkinson": "PROBLEM"
   },
   {
-    "Parkinson": "PROBLEM"
-  },
-  {
-    "altered mental status": "PROBLEM"
-  },
-  {
-    "dehydration": "PROBLEM"
-  },
-  {
-    "dehydration": "PROBLEM"
-  },
-  {
-    "elderly abuse": "PROBLEM"
-  },
-  {
-    "elderly abuse": "PROBLEM"
-  },
-  {
     "Xanax": "DRUG"
-  },
-  {
-    "Xanax": "DRUG"
-  },
-  {
-    "Xanax": "DRUG"
-  },
-  {
-    "Sinemet": "DRUG"
-  },
-  {
-    "Sinemet": "DRUG"
-  },
-  {
-    "Sinemet": "DRUG"
   },
   {
     "Sinemet": "DRUG"
@@ -67,9 +25,6 @@
   },
   {
     "Ambien": "DRUG"
-  },
-  {
-    "Xanax": "DRUG"
   },
   {
     "EKG": "TEST"
@@ -91,5 +46,17 @@
   },
   {
     "Sinemet": "TREATMENT"
+  },
+  {
+    "lacerations": "PROBLEM"
+  },
+  {
+    "dehydration": "PROBLEM"
+  },
+  {
+    "altered mental status": "PROBLEM"
+  },
+  {
+    "elderly abuse": "PROBLEM"
   }
 ]

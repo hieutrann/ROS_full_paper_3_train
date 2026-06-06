@@ -18,6 +18,9 @@
     "sick sinus syndrome": "PROBLEM"
   },
   {
+    "ADMITTING DIAGNOSES": "PROBLEM"
+  },
+  {
     "Bradycardia": "PROBLEM"
   },
   {
@@ -45,7 +48,7 @@
     "intensive care unit": "TREATMENT"
   },
   {
-    "pacemaker": "DRUG"
+    "temporary intracardiac pacemaker": "TREATMENT"
   },
   {
     "electrocardiograms": "TEST"
@@ -54,7 +57,7 @@
     "telemetry readings": "TEST"
   },
   {
-    "pacemaker": "TREATMENT"
+    "permanent pacemaker": "TREATMENT"
   },
   {
     "sinus rhythm": "PROBLEM"
@@ -75,7 +78,7 @@
     "pain": "PROBLEM"
   },
   {
-    "Right femoral artery catheter": "TEST"
+    "Right femoral artery catheter": "TREATMENT"
   },
   {
     "pulses": "TEST"
@@ -87,10 +90,10 @@
     "benazepril": "DRUG"
   },
   {
-    "Norvasc": "DRUG"
+    "Norvasc 5 mg": "DRUG"
   },
   {
-    "blood pressure": "TEST"
+    "blood pressure": "PROBLEM"
   },
   {
     "Sick sinus syndrome": "PROBLEM"
@@ -111,10 +114,16 @@
     "Osteoarthritis": "PROBLEM"
   },
   {
-    "Actos": "DRUG"
+    "home medications": "DRUG"
+  },
+  {
+    "Actos 45 mg a day.": "DRUG"
   },
   {
     "Bisacodyl": "DRUG"
+  },
+  {
+    "daily p.r.n.": "DRUG"
   },
   {
     "constipation": "PROBLEM"
@@ -126,16 +135,16 @@
     "Famotidine": "DRUG"
   },
   {
+    "b.i.d.": "TREATMENT"
+  },
+  {
     "Lotemax 0.5% eye drops": "DRUG"
   },
   {
-    "Lotensin": "DRUG"
+    "Lotensin (benazepril)": "DRUG"
   },
   {
-    "benazepril": "DRUG"
-  },
-  {
-    "Triazolam": "DRUG"
+    "Triazolam 0.125 mg p.o.": "DRUG"
   },
   {
     "Milk of Magnesia suspension": "DRUG"
@@ -144,7 +153,7 @@
     "constipation": "PROBLEM"
   },
   {
-    "Tylenol": "DRUG"
+    "Tylenol No.": "DRUG"
   },
   {
     "tablets": "DRUG"
@@ -153,7 +162,7 @@
     "pain": "PROBLEM"
   },
   {
-    "Promethazine": "DRUG"
+    "Promethazine 25 mg IM every 6 hours p.r.n.": "DRUG"
   },
   {
     "nausea": "PROBLEM"
@@ -162,13 +171,10 @@
     "vomiting": "PROBLEM"
   },
   {
-    "Tylenol": "DRUG"
+    "Tylenol 325 mg tablets": "DRUG"
   },
   {
     "cefazolin": "DRUG"
-  },
-  {
-    "IV": "DRUG"
   },
   {
     "pacemaker placement": "TREATMENT"
@@ -177,10 +183,7 @@
     "staple removal": "TREATMENT"
   },
   {
-    "starch": "DRUG"
-  },
-  {
-    "sugar": "DRUG"
+    "diet": "TREATMENT"
   },
   {
     "discharge summary": "TEST"

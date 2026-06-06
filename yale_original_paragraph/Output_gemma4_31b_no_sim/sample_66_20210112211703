@@ -6,6 +6,12 @@
     "lower extremity cellulitis": "PROBLEM"
   },
   {
+    "antibiotic therapy": "TREATMENT"
+  },
+  {
+    "lower extremity cellulitis": "PROBLEM"
+  },
+  {
     "morbid obesity": "PROBLEM"
   },
   {
@@ -24,6 +30,9 @@
     "ciprofloxacin": "DRUG"
   },
   {
+    "lymphedema": "PROBLEM"
+  },
+  {
     "lymphedema management": "TREATMENT"
   },
   {
@@ -34,6 +43,15 @@
   },
   {
     "lymphedema wraps": "TREATMENT"
+  },
+  {
+    "lower extremity cellulitis": "PROBLEM"
+  },
+  {
+    "antibiotic therapy": "TREATMENT"
+  },
+  {
+    "morbid obesity": "PROBLEM"
   },
   {
     "chronic lymphedema of the lower extremities": "PROBLEM"
@@ -63,10 +81,13 @@
     "leukemia": "PROBLEM"
   },
   {
+    "leukemia": "PROBLEM"
+  },
+  {
     "ADHESIVE TAPE ALLERGIES": "PROBLEM"
   },
   {
-    "nonresolving bilateral lower extremity lymphedema": "PROBLEM"
+    "bilateral lower extremity lymphedema": "PROBLEM"
   },
   {
     "nausea": "PROBLEM"
@@ -99,6 +120,9 @@
     "phlegm production": "PROBLEM"
   },
   {
+    "morbidly obese": "PROBLEM"
+  },
+  {
     "temperature": "TEST"
   },
   {
@@ -109,6 +133,9 @@
   },
   {
     "blood pressure": "TEST"
+  },
+  {
+    "weight": "TEST"
   },
   {
     "lymphadenopathy": "PROBLEM"
@@ -123,19 +150,34 @@
     "gallop": "PROBLEM"
   },
   {
+    "Morbidly obese": "PROBLEM"
+  },
+  {
     "organomegaly": "PROBLEM"
+  },
+  {
+    "lymphedema": "PROBLEM"
   },
   {
     "cutaneous candidiasis": "PROBLEM"
   },
   {
-    "extensive lymphedema": "PROBLEM"
+    "lymphadenopathy": "PROBLEM"
+  },
+  {
+    "lymphedema": "PROBLEM"
   },
   {
     "pinkish discoloration": "PROBLEM"
   },
   {
     "stasis dermatosis": "PROBLEM"
+  },
+  {
+    "warmth": "PROBLEM"
+  },
+  {
+    "tenderness": "PROBLEM"
   },
   {
     "skin breakdown": "PROBLEM"
@@ -145,6 +187,9 @@
   },
   {
     "serosanguineous drainage": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
   },
   {
     "cellulitis": "PROBLEM"
@@ -174,9 +219,6 @@
     "platelet count": "TEST"
   },
   {
-    "differential": "TEST"
-  },
-  {
     "neutrophils": "TEST"
   },
   {
@@ -189,7 +231,7 @@
     "eosinophils": "TEST"
   },
   {
-    "basic electrolyte panel": "TEST"
+    "electrolyte panel": "TEST"
   },
   {
     "renal function": "TEST"
@@ -222,9 +264,78 @@
     "nitrites": "PROBLEM"
   },
   {
+    "morbid obesity": "PROBLEM"
+  },
+  {
+    "chronic lower extremity lymphedema": "PROBLEM"
+  },
+  {
+    "bilateral lower extremity lymphedema": "PROBLEM"
+  },
+  {
     "active cellulitis": "PROBLEM"
   },
   {
+    "wound infection": "PROBLEM"
+  },
+  {
+    "active cellulitis": "PROBLEM"
+  },
+  {
+    "antibiotic therapy": "TREATMENT"
+  },
+  {
+    "lymphedema wraps": "TREATMENT"
+  },
+  {
+    "lymphedema wraps": "TREATMENT"
+  },
+  {
+    "cellulitis": "PROBLEM"
+  },
+  {
+    "antibiotic therapy": "TREATMENT"
+  },
+  {
+    "stage II ulcer": "PROBLEM"
+  },
+  {
     "wound care": "TREATMENT"
+  },
+  {
+    "lymphedema wraps": "TREATMENT"
+  },
+  {
+    "lower extremity cellulitis": "PROBLEM"
+  },
+  {
+    "lower extremity lymphedema": "PROBLEM"
+  },
+  {
+    "active cellulitis": "PROBLEM"
+  },
+  {
+    "morbid obesity": "PROBLEM"
+  },
+  {
+    "lymphedema wraps": "TREATMENT"
+  },
+  {
+    "antibiotic therapy": "TREATMENT"
+  },
+  {
+    "lower extremity": "PROBLEM"
+  },
+  {
+    "cellulitis": "PROBLEM"
+  },
+  {
+    "lymphedema": "PROBLEM"
+  },
+  {
+    "antibiotic": "DRUG"
+  },
+  {
+    "therapy": "TREATMENT"
   }
 ]

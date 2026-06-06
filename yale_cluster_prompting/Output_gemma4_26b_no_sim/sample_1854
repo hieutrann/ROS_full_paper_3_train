@@ -9,7 +9,10 @@
     "trauma": "PROBLEM"
   },
   {
-    "CT examination of the cervical spine": "TEST"
+    "CT examination": "TEST"
+  },
+  {
+    "cervical spine": "PROBLEM"
   },
   {
     "Coronal and sagittal reformats": "TEST"
@@ -21,7 +24,10 @@
     "trauma": "PROBLEM"
   },
   {
-    "CT examination of the cervical spine": "TEST"
+    "CT examination": "TEST"
+  },
+  {
+    "cervical spine": "PROBLEM"
   },
   {
     "Coronal and sagittal reformats": "TEST"
@@ -33,13 +39,19 @@
     "destructive osseous lesions": "PROBLEM"
   },
   {
-    "degenerative endplate or facet changes": "PROBLEM"
+    "degenerative endplate changes": "PROBLEM"
   },
   {
-    "osseous central canal or foraminal narrowing": "PROBLEM"
+    "facet changes": "PROBLEM"
   },
   {
-    "cervical spine": "PROBLEM"
+    "osseous central canal narrowing": "PROBLEM"
+  },
+  {
+    "foraminal narrowing": "PROBLEM"
+  },
+  {
+    "degenerative endplate": "PROBLEM"
   },
   {
     "ct examination": "TEST"

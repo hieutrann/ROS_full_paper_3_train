@@ -129,7 +129,7 @@
     "insulin pump": "TREATMENT"
   },
   {
-    "insulin pump rate": "TREATMENT"
+    "insulin pump": "TREATMENT"
   },
   {
     "insulin pump": "TREATMENT"
@@ -141,10 +141,16 @@
     "hyperglycemia": "PROBLEM"
   },
   {
+    "n.p.o.": "TREATMENT"
+  },
+  {
     "tube feedings": "TREATMENT"
   },
   {
     "insulin pump rate": "TREATMENT"
+  },
+  {
+    "insulin": "DRUG"
   },
   {
     "NovoLog": "DRUG"
@@ -159,7 +165,10 @@
     "colonoscopy": "TEST"
   },
   {
-    "mass at the right hepatic flexure": "PROBLEM"
+    "mass": "PROBLEM"
+  },
+  {
+    "right hepatic flexure": "PROBLEM"
   },
   {
     "right hemicolectomy": "TREATMENT"
@@ -186,6 +195,9 @@
     "lung metastasis": "PROBLEM"
   },
   {
+    "septic-like picture": "PROBLEM"
+  },
+  {
     "hospital-acquired pneumonia": "PROBLEM"
   },
   {
@@ -201,7 +213,7 @@
     "symptoms": "PROBLEM"
   },
   {
-    "serial chest x-rays": "TEST"
+    "chest x-rays": "TEST"
   },
   {
     "illness": "PROBLEM"
@@ -210,7 +222,10 @@
     "vancomycin": "DRUG"
   },
   {
-    "MRSA bacteria": "PROBLEM"
+    "MRSA": "PROBLEM"
+  },
+  {
+    "J-tube site": "PROBLEM"
   },
   {
     "Levaquin": "DRUG"
@@ -267,7 +282,7 @@
     "Nitro-Dur patch": "DRUG"
   },
   {
-    "Phenergan syrup": "DRUG"
+    "Phenergan": "DRUG"
   },
   {
     "Synthroid": "DRUG"
@@ -306,7 +321,7 @@
     "vitamin D": "DRUG"
   },
   {
-    "Bactrim DS 800mg/160 mg tablet": "DRUG"
+    "Bactrim DS": "DRUG"
   },
   {
     "Levaquin": "DRUG"
@@ -324,7 +339,7 @@
     "colon cancer": "PROBLEM"
   },
   {
-    "positive lymph nodes": "PROBLEM"
+    "lymph nodes": "PROBLEM"
   },
   {
     "insulin pump": "TREATMENT"
@@ -346,5 +361,29 @@
   },
   {
     "edema": "PROBLEM"
+  },
+  {
+    "colon cancer": "PROBLEM"
+  },
+  {
+    "right hemicolectomy": "TREATMENT"
+  },
+  {
+    "hospital-acquired pneumonia": "PROBLEM"
+  },
+  {
+    "hospital acquired pneumonia": "PROBLEM"
+  },
+  {
+    "congestive heart failure": "PROBLEM"
+  },
+  {
+    "seizure disorder": "PROBLEM"
+  },
+  {
+    "insulin pump": "TREATMENT"
+  },
+  {
+    "hemicolectomy": "TREATMENT"
   }
 ]

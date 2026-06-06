@@ -210,9 +210,6 @@
     "Bactrim DS": "DRUG"
   },
   {
-    "Bactrim": "DRUG"
-  },
-  {
     "MRSA": "PROBLEM"
   },
   {
@@ -220,6 +217,9 @@
   },
   {
     "MRSA": "PROBLEM"
+  },
+  {
+    "Bactrim": "DRUG"
   },
   {
     "Coreg": "DRUG"
@@ -304,50 +304,5 @@
   },
   {
     "positive lymph nodes": "PROBLEM"
-  },
-  {
-    "insulin pump": "TREATMENT"
-  },
-  {
-    "J-tube": "TREATMENT"
-  },
-  {
-    "seizure": "PROBLEM"
-  },
-  {
-    "hypoglycemia": "PROBLEM"
-  },
-  {
-    "anemia": "PROBLEM"
-  },
-  {
-    "dyspnea": "PROBLEM"
-  },
-  {
-    "edema": "PROBLEM"
-  },
-  {
-    "colon cancer": "PROBLEM"
-  },
-  {
-    "right hemicolectomy": "TREATMENT"
-  },
-  {
-    "hospital-acquired pneumonia": "PROBLEM"
-  },
-  {
-    "hospital acquired pneumonia": "PROBLEM"
-  },
-  {
-    "congestive heart failure": "PROBLEM"
-  },
-  {
-    "seizure disorder": "PROBLEM"
-  },
-  {
-    "insulin pump": "TREATMENT"
-  },
-  {
-    "hemicolectomy": "TREATMENT"
   }
 ]

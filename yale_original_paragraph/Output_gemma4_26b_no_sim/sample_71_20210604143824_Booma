@@ -27,7 +27,7 @@
     "rash": "PROBLEM"
   },
   {
-    "glucose in 30 range": "TEST"
+    "glucose": "TEST"
   },
   {
     "hypertension": "PROBLEM"
@@ -43,9 +43,6 @@
   },
   {
     "glucose supplement": "TREATMENT"
-  },
-  {
-    "glucose": "TEST"
   },
   {
     "aspirin": "DRUG"
@@ -78,9 +75,6 @@
     "cyanosis": "PROBLEM"
   },
   {
-    "rash": "PROBLEM"
-  },
-  {
     "CPK": "TEST"
   },
   {
@@ -88,12 +82,6 @@
   },
   {
     "CMP": "TEST"
-  },
-  {
-    "glucose": "TEST"
-  },
-  {
-    "BMP": "TEST"
   },
   {
     "BUN": "TEST"

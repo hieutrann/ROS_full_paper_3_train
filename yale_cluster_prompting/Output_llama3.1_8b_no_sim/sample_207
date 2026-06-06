@@ -1,5 +1,8 @@
 [
   {
+    "Pediatrics - Neonatal": "TREATMENT"
+  },
+  {
     "wheezing": "PROBLEM"
   },
   {
@@ -12,13 +15,13 @@
     "prematurity": "PROBLEM"
   },
   {
-    "Pediatrics - Neonatal": "TEST"
+    "Medical Transcription Sample Report": "TEST"
   },
   {
-    "Pediatric - Letter": "TEST"
+    "Sample Doctor": "TEST"
   },
   {
-    "Sample Doctor, M.D.": "TREATMENT"
+    "M.D.": "TEST"
   },
   {
     "prematurity": "PROBLEM"
@@ -39,67 +42,37 @@
     "bronchodilator": "DRUG"
   },
   {
-    "prednisolone": "DRUG"
-  },
-  {
     "cough": "PROBLEM"
   },
   {
+    "prednisolone": "DRUG"
+  },
+  {
     "asthma": "PROBLEM"
-  },
-  {
-    "Abc's father": "PROBLEM"
-  },
-  {
-    "Abc's uncle": "PROBLEM"
-  },
-  {
-    "Abc's sister": "PROBLEM"
   },
   {
     "medication administration": "TREATMENT"
   },
   {
-    "medication": "DRUG"
-  },
-  {
-    "Abc": "PROBLEM"
-  },
-  {
     "rhonchi": "PROBLEM"
   },
   {
-    "coughing": "TREATMENT"
+    "coughing": "TEST"
   },
   {
     "asthma": "PROBLEM"
-  },
-  {
-    "asthma management": "TREATMENT"
   },
   {
     "childhood asthma": "PROBLEM"
   },
   {
-    "hospitalization": "PROBLEM"
-  },
-  {
     "steroids": "DRUG"
   },
   {
-    "symptom free": "PROBLEM"
+    "symptom": "PROBLEM"
   },
   {
-    "1.5 milligrams": "DRUG"
-  },
-  {
-    "0.5 milliliters": "DRUG"
-  },
-  {
-    "mother": "PROBLEM"
-  },
-  {
-    "asthma": "PROBLEM"
+    "childhood asthma": "PROBLEM"
   },
   {
     "cough": "PROBLEM"
@@ -117,27 +90,6 @@
     "bronchodilator": "DRUG"
   },
   {
-    "gestation": "TEST"
-  },
-  {
-    "pediatrics - neonatal": "TEST"
-  },
-  {
-    "sister": "TREATMENT"
-  },
-  {
-    "father": "TREATMENT"
-  },
-  {
-    "mother": "TREATMENT"
-  },
-  {
-    "letter": "TREATMENT"
-  },
-  {
-    "childhood": "TREATMENT"
-  },
-  {
-    "prematurity": "PROBLEM"
+    "asthma": "PROBLEM"
   }
 ]

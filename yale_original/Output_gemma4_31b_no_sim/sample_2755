@@ -18,7 +18,10 @@
     "facial swelling": "PROBLEM"
   },
   {
-    "tongue or lip swelling": "PROBLEM"
+    "tongue swelling": "PROBLEM"
+  },
+  {
+    "lip swelling": "PROBLEM"
   },
   {
     "shortness of breath": "PROBLEM"
@@ -81,13 +84,7 @@
     "respiratory rate": "TEST"
   },
   {
-    "Posterior pharynx": "TEST"
-  },
-  {
     "stridor": "PROBLEM"
-  },
-  {
-    "LUNGS": "TEST"
   },
   {
     "wheezing": "PROBLEM"
@@ -99,7 +96,7 @@
     "Slight tachycardia": "PROBLEM"
   },
   {
-    "confluence erythematous, blanching rash": "PROBLEM"
+    "erythematous, blanching rash": "PROBLEM"
   },
   {
     "blotchy papular, macular rash": "PROBLEM"

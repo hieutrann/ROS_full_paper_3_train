@@ -1,0 +1,329 @@
+[
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "left-sided": "PROBLEM"
+  },
+  {
+    "severe chest tightness": "PROBLEM"
+  },
+  {
+    "emotional argument": "PROBLEM"
+  },
+  {
+    "psychological disorders": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "left-sided": "PROBLEM"
+  },
+  {
+    "severe chest tightness": "PROBLEM"
+  },
+  {
+    "psychological disorders": "PROBLEM"
+  },
+  {
+    "supraventricular tachycardia": "PROBLEM"
+  },
+  {
+    "coronary artery disease": "PROBLEM"
+  },
+  {
+    "ABC Medical Center": "TEST"
+  },
+  {
+    "cardiac workup": "TEST"
+  },
+  {
+    "telemetry unit": "TEST"
+  },
+  {
+    "methadone": "DRUG"
+  },
+  {
+    "morphine": "DRUG"
+  },
+  {
+    "EKG": "TEST"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "nitroglycerin": "DRUG"
+  },
+  {
+    "seizure disorder": "PROBLEM"
+  },
+  {
+    "migraine headaches": "PROBLEM"
+  },
+  {
+    "coronary artery disease": "PROBLEM"
+  },
+  {
+    "CHF": "PROBLEM"
+  },
+  {
+    "coronary stenting done": "TREATMENT"
+  },
+  {
+    "mitral valve prolapse": "PROBLEM"
+  },
+  {
+    "supraventricular tachycardia": "PROBLEM"
+  },
+  {
+    "pacemaker placement": "TREATMENT"
+  },
+  {
+    "colon cancer": "PROBLEM"
+  },
+  {
+    "breast cancer": "PROBLEM"
+  },
+  {
+    "lumpectomy": "TREATMENT"
+  },
+  {
+    "breast augmentation surgery": "TREATMENT"
+  },
+  {
+    "cholecystectomy": "TREATMENT"
+  },
+  {
+    "cardiac ablation x3": "TREATMENT"
+  },
+  {
+    "left knee surgery": "TREATMENT"
+  },
+  {
+    "removal of half the pancreas": "TREATMENT"
+  },
+  {
+    "Dilantin 400 mg daily": "DRUG"
+  },
+  {
+    "Klonopin 2 mg 3 times a day": "DRUG"
+  },
+  {
+    "Elavil 300 mg at night": "DRUG"
+  },
+  {
+    "nitroglycerin sublingual p.r.n.": "DRUG"
+  },
+  {
+    "Thorazine 300 mg 3 times a day": "DRUG"
+  },
+  {
+    "Neurontin 800 mg 4 times a day": "DRUG"
+  },
+  {
+    "Phenergan 25 mg as tolerated": "DRUG"
+  },
+  {
+    "6/3/2009": "TEST"
+  },
+  {
+    "abortion": "PROBLEM"
+  },
+  {
+    "abortion": "PROBLEM"
+  },
+  {
+    "Noncontributory": "PROBLEM"
+  },
+  {
+    "boyfriend": "PROBLEM"
+  },
+  {
+    "tobacco abuse": "PROBLEM"
+  },
+  {
+    "illicit drug abuse": "PROBLEM"
+  },
+  {
+    "alert": "PROBLEM"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "heart rate": "TEST"
+  },
+  {
+    "respiratory rate": "TEST"
+  },
+  {
+    "head is atraumatic": "PROBLEM"
+  },
+  {
+    "Pupils": "TEST"
+  },
+  {
+    "intact": "PROBLEM"
+  },
+  {
+    "oropharyngeal lesions": "PROBLEM"
+  },
+  {
+    "JV distention": "PROBLEM"
+  },
+  {
+    "carotid bruits": "PROBLEM"
+  },
+  {
+    "lymphadenopathy": "PROBLEM"
+  },
+  {
+    "LUNGS": "TEST"
+  },
+  {
+    "regular rate and rhythm": "TEST"
+  },
+  {
+    "Soft": "PROBLEM"
+  },
+  {
+    "nontender": "PROBLEM"
+  },
+  {
+    "nondistended": "PROBLEM"
+  },
+  {
+    "Bowel sounds are normally present.": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "pulses": "TEST"
+  },
+  {
+    "Grossly nonfocal": "PROBLEM"
+  },
+  {
+    "WBC count": "TEST"
+  },
+  {
+    "hemoglobin": "TEST"
+  },
+  {
+    "hematocrit": "TEST"
+  },
+  {
+    "Sodium": "TEST"
+  },
+  {
+    "potassium": "TEST"
+  },
+  {
+    "chloride": "TEST"
+  },
+  {
+    "glucose": "TEST"
+  },
+  {
+    "bicarbonate": "TEST"
+  },
+  {
+    "BUN": "TEST"
+  },
+  {
+    "creatinine": "TEST"
+  },
+  {
+    "liver function tests": "TEST"
+  },
+  {
+    "troponin-I": "TEST"
+  },
+  {
+    "CPK-MB": "TEST"
+  },
+  {
+    "myoglobulin": "TEST"
+  },
+  {
+    "EKG": "TEST"
+  },
+  {
+    "morphine": "DRUG"
+  },
+  {
+    "methadone": "DRUG"
+  },
+  {
+    "marijuana": "DRUG"
+  },
+  {
+    "head CT": "TEST"
+  },
+  {
+    "beta-hCG": "TEST"
+  },
+  {
+    "Chest pains": "PROBLEM"
+  },
+  {
+    "psychosomatic component to her chest pain": "PROBLEM"
+  },
+  {
+    "acute coronary syndrome": "PROBLEM"
+  },
+  {
+    "unstable angina": "PROBLEM"
+  },
+  {
+    "Possible early pregnancy.": "PROBLEM"
+  },
+  {
+    "OB/GYN": "TREATMENT"
+  },
+  {
+    "medications": "DRUG"
+  },
+  {
+    "OB/GYN": "TREATMENT"
+  },
+  {
+    "PCP": "TREATMENT"
+  },
+  {
+    "Migraine headaches": "PROBLEM"
+  },
+  {
+    "her routine medications": "DRUG"
+  },
+  {
+    "outpatient diagnosis": "PROBLEM"
+  },
+  {
+    "migraine headache": "PROBLEM"
+  },
+  {
+    "prognosis": "PROBLEM"
+  },
+  {
+    "acute coronary syndrome": "PROBLEM"
+  },
+  {
+    "coronary artery disease": "PROBLEM"
+  },
+  {
+    "chest tightness": "PROBLEM"
+  },
+  {
+    "psychological disorders": "PROBLEM"
+  },
+  {
+    "supraventricular tachycardia": "PROBLEM"
+  },
+  {
+    "headaches": "PROBLEM"
+  }
+]

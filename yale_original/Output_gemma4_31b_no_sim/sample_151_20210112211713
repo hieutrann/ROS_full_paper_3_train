@@ -42,9 +42,6 @@
     "sleep apnea": "PROBLEM"
   },
   {
-    "weight loss": "PROBLEM"
-  },
-  {
     "Morbid obesity": "PROBLEM"
   },
   {
@@ -70,9 +67,6 @@
   },
   {
     "abdominal pain": "PROBLEM"
-  },
-  {
-    "elevated bilirubin": "PROBLEM"
   },
   {
     "bilirubin": "TEST"
@@ -154,6 +148,12 @@
   },
   {
     "bile leak": "PROBLEM"
+  },
+  {
+    "drains": "TREATMENT"
+  },
+  {
+    "pain": "PROBLEM"
   },
   {
     "oral pain medications": "DRUG"

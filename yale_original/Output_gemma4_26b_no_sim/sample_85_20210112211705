@@ -42,7 +42,7 @@
     "temporary internal pacemaker": "TREATMENT"
   },
   {
-    "A temporary intracardiac pacemaker": "TREATMENT"
+    "intracardiac pacemaker": "TREATMENT"
   },
   {
     "permanent pacemaker": "TREATMENT"
@@ -54,7 +54,7 @@
     "telemetry readings": "TEST"
   },
   {
-    "sinus rhythm": "TEST"
+    "sinus rhythm": "PROBLEM"
   },
   {
     "severe bradycardias": "PROBLEM"
@@ -66,10 +66,13 @@
     "Permanent pacemaker": "TREATMENT"
   },
   {
+    "right atrium appendage and right ventricular apex electrode placement": "TREATMENT"
+  },
+  {
     "pacemaker": "TREATMENT"
   },
   {
-    "pain in the left side of the chest in the upper area": "PROBLEM"
+    "pain in the left side of the chest": "PROBLEM"
   },
   {
     "Right femoral artery catheter": "TREATMENT"
@@ -81,7 +84,7 @@
     "hematoma": "PROBLEM"
   },
   {
-    "blood pressure": "PROBLEM"
+    "blood pressure": "TEST"
   },
   {
     "benazepril": "DRUG"
@@ -123,19 +126,25 @@
     "Cosopt": "DRUG"
   },
   {
+    "eye drops": "TREATMENT"
+  },
+  {
     "Famotidine": "DRUG"
   },
   {
-    "Lotemax 0.5% eye drops": "DRUG"
+    "Lotemax": "DRUG"
   },
   {
-    "Lotensin (benazepril)": "DRUG"
+    "Lotensin": "DRUG"
+  },
+  {
+    "benazepril": "DRUG"
   },
   {
     "Triazolam": "DRUG"
   },
   {
-    "Milk of Magnesia suspension": "DRUG"
+    "Milk of Magnesia": "DRUG"
   },
   {
     "constipation": "PROBLEM"
@@ -150,7 +159,10 @@
     "Promethazine": "DRUG"
   },
   {
-    "nausea or vomiting": "PROBLEM"
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
   },
   {
     "Tylenol": "DRUG"

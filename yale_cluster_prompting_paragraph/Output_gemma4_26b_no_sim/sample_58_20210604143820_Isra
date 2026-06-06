@@ -6,7 +6,7 @@
     "suspicious calcifications": "PROBLEM"
   },
   {
-    "Left breast excisional biopsy": "TREATMENT"
+    "excisional biopsy": "TREATMENT"
   },
   {
     "preoperative guidewire localization": "TREATMENT"
@@ -15,7 +15,7 @@
     "intraoperative specimen radiography": "TEST"
   },
   {
-    "screening mammography": "TEST"
+    "mammography": "TEST"
   },
   {
     "punctate calcifications": "PROBLEM"
@@ -27,7 +27,7 @@
     "focal fibrosis": "PROBLEM"
   },
   {
-    "severe swelling": "PROBLEM"
+    "swelling": "PROBLEM"
   },
   {
     "pain": "PROBLEM"
@@ -51,10 +51,10 @@
     "occlusion": "PROBLEM"
   },
   {
-    "large hematoma": "PROBLEM"
+    "hematoma": "PROBLEM"
   },
   {
-    "extensive ecchymosis": "PROBLEM"
+    "ecchymosis": "PROBLEM"
   },
   {
     "breast cancer": "PROBLEM"
@@ -151,6 +151,18 @@
   },
   {
     "lymphadenopathy": "PROBLEM"
+  },
+  {
+    "obese": "PROBLEM"
+  },
+  {
+    "CVA tenderness": "TEST"
+  },
+  {
+    "clubbing": "PROBLEM"
+  },
+  {
+    "cyanosis": "PROBLEM"
   },
   {
     "edema": "PROBLEM"

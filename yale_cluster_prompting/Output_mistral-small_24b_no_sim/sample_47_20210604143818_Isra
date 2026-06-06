@@ -6,7 +6,13 @@
     "discomfort": "PROBLEM"
   },
   {
-    "Stomach gets upset": "PROBLEM"
+    "chest": "PROBLEM"
+  },
+  {
+    "back": "PROBLEM"
+  },
+  {
+    "Stomach": "PROBLEM"
   },
   {
     "pain": "PROBLEM"
@@ -18,7 +24,13 @@
     "discomfort": "PROBLEM"
   },
   {
-    "Stomach gets upset": "PROBLEM"
+    "chest": "PROBLEM"
+  },
+  {
+    "back": "PROBLEM"
+  },
+  {
+    "Stomach": "PROBLEM"
   },
   {
     "pain": "PROBLEM"
@@ -60,16 +72,10 @@
     "Peripheral neuropathy": "PROBLEM"
   },
   {
-    "atypical symptoms": "PROBLEM"
-  },
-  {
     "Hypothyroidism": "PROBLEM"
   },
   {
     "Depression": "PROBLEM"
-  },
-  {
-    "medications": "DRUG"
   },
   {
     "Postmenopausal age-related symptoms": "PROBLEM"
@@ -78,10 +84,13 @@
     "Abdominal pain": "PROBLEM"
   },
   {
-    "irritable bowel type symptoms": "PROBLEM"
+    "irritable bowel": "PROBLEM"
   },
   {
     "diarrhea": "PROBLEM"
+  },
+  {
+    "CURRENT MEDICATIONS": "DRUG"
   },
   {
     "MI": "PROBLEM"
@@ -102,10 +111,10 @@
     "weight change": "PROBLEM"
   },
   {
-    "189 pounds": "TEST"
+    "HEENT": "TEST"
   },
   {
-    "188 pounds": "TEST"
+    "ENT": "TEST"
   },
   {
     "hearing": "PROBLEM"
@@ -144,10 +153,19 @@
     "PND": "PROBLEM"
   },
   {
+    "orthopnea": "PROBLEM"
+  },
+  {
     "Thromboembolic disease": "PROBLEM"
   },
   {
     "stomach pain": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
   },
   {
     "Diarrhea": "PROBLEM"
@@ -183,6 +201,12 @@
     "paresthesias": "PROBLEM"
   },
   {
+    "rashes": "PROBLEM"
+  },
+  {
+    "itching": "PROBLEM"
+  },
+  {
     "lumps": "PROBLEM"
   },
   {
@@ -201,31 +225,70 @@
     "BP": "TEST"
   },
   {
-    "PULSE": "TEST"
+    "RESPIRATIONS": "TEST"
   },
   {
-    "RESPIRATIONS": "TEST"
+    "normocephalic": "PROBLEM"
   },
   {
     "Ears, nose, and throat": "TEST"
   },
   {
-    "reactive": "PROBLEM"
+    "Pupils": "TEST"
+  },
+  {
+    "Ear canals": "TEST"
+  },
+  {
+    "TMs": "TEST"
   },
   {
     "Nose": "PROBLEM"
   },
   {
+    "nares": "PROBLEM"
+  },
+  {
+    "Septum midline": "PROBLEM"
+  },
+  {
+    "Oral mucosa": "TEST"
+  },
+  {
+    "tonsillar lesions": "PROBLEM"
+  },
+  {
+    "exudate": "PROBLEM"
+  },
+  {
+    "asymmetry": "PROBLEM"
+  },
+  {
     "Neck": "PROBLEM"
   },
   {
-    "CHEST": "PROBLEM"
+    "range of motion": "TEST"
   },
   {
-    "Rate": "TEST"
+    "thyromegaly": "PROBLEM"
+  },
+  {
+    "adenopathy": "PROBLEM"
+  },
+  {
+    "lungs": "TEST"
+  },
+  {
+    "Rate and rhythm": "TEST"
   },
   {
     "S1 and S2": "TEST"
+  },
+  {
+    "murmur": "PROBLEM"
+  },
+  {
+    "gallop": "PROBLEM"
   },
   {
     "masses": "PROBLEM"
@@ -243,7 +306,22 @@
     "flank pain": "PROBLEM"
   },
   {
-    "NEUROLOGIC": "TEST"
+    "cyanosis": "PROBLEM"
+  },
+  {
+    "clubbing": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "rashes": "PROBLEM"
+  },
+  {
+    "cranial nerve testing": "TEST"
   },
   {
     "metformin": "DRUG"
@@ -276,16 +354,16 @@
     "diarrhea": "PROBLEM"
   },
   {
-    "CT of the abdomen and pelvis": "TEST"
+    "CT": "TEST"
+  },
+  {
+    "abdomen": "TEST"
+  },
+  {
+    "pelvis": "TEST"
   },
   {
     "diuretics": "DRUG"
-  },
-  {
-    "general medicine": "PROBLEM"
-  },
-  {
-    "medical management": "TREATMENT"
   },
   {
     "fatigue": "PROBLEM"

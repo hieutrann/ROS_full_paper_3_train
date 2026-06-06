@@ -3,7 +3,10 @@
     "Full-Field Digital Mammogram (FFDM)": "TEST"
   },
   {
-    "Bilateral Screening Mammogram Full-Field Digital Mammography (FFDM)": "TEST"
+    "Bilateral Screening Mammogram": "TEST"
+  },
+  {
+    "Full-Field Digital Mammography (FFDM)": "TEST"
   },
   {
     "Benign Findings": "PROBLEM"
@@ -27,10 +30,10 @@
     "iCAD Second Look proprietary software": "TEST"
   },
   {
-    "adipose and fibroglandular elements": "PROBLEM"
+    "breasts": "PROBLEM"
   },
   {
-    "benign-appearing calcifications": "PROBLEM"
+    "calcifications": "PROBLEM"
   },
   {
     "dominant mass": "PROBLEM"
@@ -54,22 +57,25 @@
     "Benign": "PROBLEM"
   },
   {
+    "MAMMOGRAPHY": "TEST"
+  },
+  {
     "cancers": "PROBLEM"
   },
   {
     "mammography": "TEST"
   },
   {
-    "radiographic evidence of malignancy": "TEST"
+    "radiographic evidence": "TEST"
   },
   {
     "malignancy": "PROBLEM"
   },
   {
-    "biopsy": "TEST"
+    "biopsy": "TREATMENT"
   },
   {
-    "clinically suspicious mass": "PROBLEM"
+    "suspicious mass": "PROBLEM"
   },
   {
     "digital mammography": "TEST"

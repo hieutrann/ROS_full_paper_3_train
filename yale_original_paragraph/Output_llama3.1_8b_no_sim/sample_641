@@ -6,10 +6,7 @@
     "atrial fibrillation": "PROBLEM"
   },
   {
-    "large cardioembolic stroke": "PROBLEM"
-  },
-  {
-    "cardioembolic": "PROBLEM"
+    "stroke": "PROBLEM"
   },
   {
     "Parkinson's": "PROBLEM"
@@ -19,6 +16,12 @@
   },
   {
     "chronic atrial fibrillation": "PROBLEM"
+  },
+  {
+    "GERD": "PROBLEM"
+  },
+  {
+    "arthritis": "PROBLEM"
   },
   {
     "Coumadin": "DRUG"
@@ -48,9 +51,6 @@
     "oxazepam": "DRUG"
   },
   {
-    "ibuprofen": "DRUG"
-  },
-  {
     "Darvocet-N": "DRUG"
   },
   {
@@ -66,7 +66,16 @@
     "Esmolol": "DRUG"
   },
   {
-    "STAT echocardiogram": "TEST"
+    "beta-blocker": "DRUG"
+  },
+  {
+    "calcium channel blocker": "DRUG"
+  },
+  {
+    "STAT echo": "TEST"
+  },
+  {
+    "echocardiogram": "TEST"
   },
   {
     "ultrasound of the leg": "TEST"
@@ -81,6 +90,9 @@
     "shoulder films": "TEST"
   },
   {
+    "arteriogram": "TEST"
+  },
+  {
     "labetalol": "DRUG"
   },
   {
@@ -90,49 +102,31 @@
     "investigational study": "TEST"
   },
   {
-    "emergent intubation": "TREATMENT"
+    "emergency retrieval device": "TREATMENT"
   },
   {
-    "paralyzation": "TREATMENT"
+    "anticoagulants": "DRUG"
   },
   {
-    "arteriogram": "TEST"
+    "beta-blocker for Parkinson's": "TREATMENT"
   },
   {
-    "clot extraction": "TREATMENT"
+    "Cardizem drip": "TREATMENT"
   },
   {
-    "bladder distension surgery": "TREATMENT"
-  },
-  {
-    "incision and drainage": "TREATMENT"
-  },
-  {
-    "Coumadin": "DRUG"
-  },
-  {
-    "beta-blocker": "DRUG"
+    "Digoxin and the beta-blocker": "TREATMENT"
   },
   {
     "vasospasm protection": "TREATMENT"
   },
   {
-    "calcium channel blocker": "DRUG"
+    "Brevibloc or an Esmolol drip": "TREATMENT"
   },
   {
-    "Brevibloc": "DRUG"
+    "ventilator": "TREATMENT"
   },
   {
-    "Esmolol": "DRUG"
-  },
-  {
-    "ventilator": "TEST"
-  },
-  {
-    "electrolytes": "TEST"
-  },
-  {
-    "Deep vein thrombosis prophylaxis": "TREATMENT"
+    "tube feeds": "TREATMENT"
   },
   {
     "thigh-high TED hose": "TREATMENT"
@@ -141,6 +135,15 @@
     "SCDs": "TREATMENT"
   },
   {
-    "tube feeds": "TREATMENT"
+    "DIC": "PROBLEM"
+  },
+  {
+    "brain swelling": "PROBLEM"
+  },
+  {
+    "electrolytes": "TREATMENT"
+  },
+  {
+    "deep vein thrombosis prophylaxis": "TREATMENT"
   }
 ]

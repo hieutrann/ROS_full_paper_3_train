@@ -1,0 +1,32 @@
+[
+  {
+    "COPD": "PROBLEM"
+  },
+  {
+    "bronchospasm": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "respiratory secretions": "PROBLEM"
+  },
+  {
+    "wheezings": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "acute asthmatic bronchitis": "PROBLEM"
+  },
+  {
+    "asthmatic bronchitis": "PROBLEM"
+  },
+  {
+    "pneumonia": "PROBLEM"
+  },
+  {
+    "pneumococcal vaccination": "TREATMENT"
+  }
+]

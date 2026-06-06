@@ -6,7 +6,7 @@
     "choledocholithiasis": "PROBLEM"
   },
   {
-    "cholecystectomy": "TREATMENT"
+    "Laparoscopic cholecystectomy": "TREATMENT"
   },
   {
     "laparoscopy": "TREATMENT"
@@ -18,7 +18,7 @@
     "stone extraction": "TREATMENT"
   },
   {
-    "cholecystitis": "PROBLEM"
+    "Cholecystitis": "PROBLEM"
   },
   {
     "choledocholithiasis": "PROBLEM"
@@ -30,19 +30,16 @@
     "choledocholithiasis": "PROBLEM"
   },
   {
-    "ADDITIONAL DIAGNOSES": "TEST"
+    "ADDITIONAL DIAGNOSES": "PROBLEM"
   },
   {
-    "roux-en-y gastric bypass": "TREATMENT"
+    "Roux-en-y gastric bypass": "TREATMENT"
   },
   {
-    "open procedure": "TREATMENT"
+    "2": "PROBLEM"
   },
   {
-    "2": "TEST"
-  },
-  {
-    "paraventral hernia": "PROBLEM"
+    "Laparoscopic paraventral hernia": "PROBLEM"
   },
   {
     "3": "PROBLEM"
@@ -51,16 +48,13 @@
     "sleep apnea": "PROBLEM"
   },
   {
-    "weight loss": "TREATMENT"
+    "4": "PROBLEM"
   },
   {
-    "4": "TREATMENT"
+    "Morbid obesity": "PROBLEM"
   },
   {
-    "obesity": "PROBLEM"
-  },
-  {
-    "bmi": "TEST"
+    "bmi": "PROBLEM"
   },
   {
     "Laparoscopic cholecystectomy": "TREATMENT"
@@ -75,10 +69,7 @@
     "stone extraction": "TREATMENT"
   },
   {
-    "open common bile duct exploration and stone extraction": "TREATMENT"
-  },
-  {
-    "bilirubin": "PROBLEM"
+    "elevated bilirubin": "PROBLEM"
   },
   {
     "common bile duct stone": "PROBLEM"
@@ -96,13 +87,13 @@
     "ultrasound": "TEST"
   },
   {
-    "dilated common bile duct": "PROBLEM"
-  },
-  {
-    "HIDA scan": "TEST"
+    "a dilated common bile duct": "PROBLEM"
   },
   {
     "cholecystitis": "PROBLEM"
+  },
+  {
+    "HIDA scan": "TEST"
   },
   {
     "Gallbladder": "PROBLEM"
@@ -123,19 +114,25 @@
     "contrast": "TEST"
   },
   {
-    "duodenum": "PROBLEM"
-  },
-  {
     "distal common bile duct stone": "PROBLEM"
   },
   {
-    "bile duct stone": "PROBLEM"
+    "distal common bile duct": "PROBLEM"
+  },
+  {
+    "stone": "PROBLEM"
+  },
+  {
+    "duodenum": "PROBLEM"
+  },
+  {
+    "filling defect": "PROBLEM"
   },
   {
     "Roux-en-Y gastric bypass": "TREATMENT"
   },
   {
-    "ERCP": "TREATMENT"
+    "ERCP": "TEST"
   },
   {
     "stone extraction": "TREATMENT"
@@ -144,22 +141,16 @@
     "common bile duct exploration": "TREATMENT"
   },
   {
-    "stone": "PROBLEM"
+    "a stone": "PROBLEM"
   },
   {
-    "operation": "TREATMENT"
+    "an open operation": "TREATMENT"
   },
   {
-    "surgical unit": "TEST"
-  },
-  {
-    "postoperatively": "TEST"
+    "postoperatively": "PROBLEM"
   },
   {
     "incisional pain": "PROBLEM"
-  },
-  {
-    "nausea": "PROBLEM"
   },
   {
     "Jackson-Pratt drain": "TREATMENT"
@@ -174,7 +165,7 @@
     "bilirubin": "TEST"
   },
   {
-    "liquid diet": "TREATMENT"
+    "a liquid diet": "TREATMENT"
   },
   {
     "Foley catheter": "TREATMENT"
@@ -183,16 +174,16 @@
     "bile leak": "PROBLEM"
   },
   {
-    "diet": "TREATMENT"
+    "postoperative day #3": "PROBLEM"
   },
   {
-    "diet": "TEST"
+    "regular diet": "TREATMENT"
   },
   {
     "bowels": "PROBLEM"
   },
   {
-    "pain control": "TREATMENT"
+    "pain": "PROBLEM"
   },
   {
     "oral pain medications": "DRUG"
@@ -228,7 +219,7 @@
     "iron 325 mg": "DRUG"
   },
   {
-    "t.i.d.": "TREATMENT"
+    "t.i.d.": "DRUG"
   },
   {
     "Lortab elixir": "DRUG"
@@ -240,6 +231,12 @@
     "pain": "PROBLEM"
   },
   {
+    "choledocholithiasis": "PROBLEM"
+  },
+  {
+    "cholecystitis": "PROBLEM"
+  },
+  {
     "laparoscopy": "TEST"
   },
   {
@@ -249,16 +246,10 @@
     "laparoscopic cholecystectomy": "TREATMENT"
   },
   {
-    "choledocholithiasis": "PROBLEM"
-  },
-  {
-    "cholecystitis": "PROBLEM"
-  },
-  {
     "cholecystectomy": "TREATMENT"
   },
   {
-    "laparoscopic": "TEST"
+    "bile duct": "PROBLEM"
   },
   {
     "hernia": "PROBLEM"

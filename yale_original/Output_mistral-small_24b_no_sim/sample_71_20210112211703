@@ -3,13 +3,19 @@
     "blood pressure": "TEST"
   },
   {
-    "IV labetalol": "DRUG"
+    "labetalol": "DRUG"
   },
   {
-    "blood pressure": "TEST"
+    "blood pressure": "PROBLEM"
   },
   {
-    "Perioperative elevated blood pressure": "PROBLEM"
+    "postsurgery": "TREATMENT"
+  },
+  {
+    "blood pressure": "PROBLEM"
+  },
+  {
+    "PAST MEDICAL HISTORY": "TEST"
   },
   {
     "Graves disease": "PROBLEM"
@@ -42,7 +48,7 @@
     "Bilateral inguinal hernia repair": "TREATMENT"
   },
   {
-    "right shoulder surgery": "TREATMENT"
+    "right shoulder surgery with reconstruction": "TREATMENT"
   },
   {
     "rotator cuff repair": "TREATMENT"
@@ -54,19 +60,28 @@
     "transurethral resection of prostate": "TREATMENT"
   },
   {
-    "prostate": "PROBLEM"
+    "laser surgery": "TREATMENT"
   },
   {
     "blood pressure": "TEST"
   },
   {
-    "IV labetalol": "DRUG"
+    "labetalol": "DRUG"
+  },
+  {
+    "blood pressure": "PROBLEM"
+  },
+  {
+    "postsurgery": "TREATMENT"
   },
   {
     "blood pressure": "TEST"
   },
   {
-    "blood pressure": "TEST"
+    "158/100": "TEST"
+  },
+  {
+    "155 systolic": "TEST"
   },
   {
     "shortness of breath": "PROBLEM"
@@ -108,6 +123,9 @@
     "laser surgery": "TREATMENT"
   },
   {
+    "diabetes": "PROBLEM"
+  },
+  {
     "Graves disease": "PROBLEM"
   },
   {
@@ -129,16 +147,16 @@
     "terazosin": "DRUG"
   },
   {
-    "GENERAL": "TEST"
+    "gentleman": "PROBLEM"
   },
   {
-    "CHEST": "TEST"
+    "CHEST": "PROBLEM"
   },
   {
     "heart sounds": "TEST"
   },
   {
-    "Benign": "PROBLEM"
+    "ABDOMEN": "PROBLEM"
   },
   {
     "swelling": "PROBLEM"
@@ -147,34 +165,34 @@
     "alert": "PROBLEM"
   },
   {
-    "oriented x3": "TEST"
+    "oriented": "PROBLEM"
   },
   {
-    "Perioperative hypertension": "PROBLEM"
-  },
-  {
-    "lisinopril": "DRUG"
-  },
-  {
-    "blood pressure": "TEST"
-  },
-  {
-    "systolic": "TEST"
+    "hypertension": "PROBLEM"
   },
   {
     "lisinopril": "DRUG"
   },
   {
-    "blood pressure": "TEST"
+    "20 mg": "DRUG"
   },
   {
-    "150 systolic": "TEST"
+    "blood pressure": "PROBLEM"
+  },
+  {
+    "systolic": "PROBLEM"
   },
   {
     "lisinopril": "DRUG"
   },
   {
-    "primary physician": "PROBLEM"
+    "blood pressure": "PROBLEM"
+  },
+  {
+    "150 systolic": "PROBLEM"
+  },
+  {
+    "40 mg of lisinopril": "DRUG"
   },
   {
     "Prostatic hypertrophy": "PROBLEM"

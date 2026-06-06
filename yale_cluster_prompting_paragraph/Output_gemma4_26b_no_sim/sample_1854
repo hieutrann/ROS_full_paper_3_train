@@ -9,10 +9,10 @@
     "trauma": "PROBLEM"
   },
   {
-    "CT examination of the cervical spine": "TEST"
+    "CT examination": "TEST"
   },
   {
-    "CT cervical spine (C-spine)": "TEST"
+    "cervical spine": "PROBLEM"
   },
   {
     "fractures": "PROBLEM"
@@ -28,8 +28,5 @@
   },
   {
     "osseous central canal or foraminal narrowing": "PROBLEM"
-  },
-  {
-    "ct examination": "TEST"
   }
 ]

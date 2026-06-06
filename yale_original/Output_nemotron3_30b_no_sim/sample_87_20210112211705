@@ -1,0 +1,119 @@
+[
+  {
+    "pneumonia": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "seizure": "PROBLEM"
+  },
+  {
+    "pneumonia": "PROBLEM"
+  },
+  {
+    "IV antibiotics": "TREATMENT"
+  },
+  {
+    "p.o.": "TREATMENT"
+  },
+  {
+    "antibiotics": "DRUG"
+  },
+  {
+    "temperature": "TEST"
+  },
+  {
+    "strep": "PROBLEM"
+  },
+  {
+    "penicillin": "DRUG"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "seizure": "PROBLEM"
+  },
+  {
+    "Temperature": "TEST"
+  },
+  {
+    "lethargic": "PROBLEM"
+  },
+  {
+    "LP": "TEST"
+  },
+  {
+    "blood cultures": "TEST"
+  },
+  {
+    "CSF": "TEST"
+  },
+  {
+    "anesthesia": "TREATMENT"
+  },
+  {
+    "Head, eyes, ears, nose and throat are unremarkable.": "PROBLEM"
+  },
+  {
+    "Chest is clear to auscultation and percussion": "TEST"
+  },
+  {
+    "Abdomen is soft.": "PROBLEM"
+  },
+  {
+    "unremarkable": "PROBLEM"
+  },
+  {
+    "White count": "TEST"
+  },
+  {
+    "CSF glucose": "TEST"
+  },
+  {
+    "protein": "TEST"
+  },
+  {
+    "cells": "PROBLEM"
+  },
+  {
+    "Gram-stain": "TEST"
+  },
+  {
+    "febrile seizure": "PROBLEM"
+  },
+  {
+    "readmit": "TREATMENT"
+  },
+  {
+    "temperature": "PROBLEM"
+  },
+  {
+    "white count": "TEST"
+  },
+  {
+    "overnight": "TREATMENT"
+  },
+  {
+    "antibiotics": "DRUG"
+  },
+  {
+    "febrile seizure": "PROBLEM"
+  },
+  {
+    "temperature": "TEST"
+  },
+  {
+    "blood count": "TEST"
+  },
+  {
+    "white count": "TEST"
+  },
+  {
+    "pneumonia": "PROBLEM"
+  },
+  {
+    "seizure": "PROBLEM"
+  }
+]

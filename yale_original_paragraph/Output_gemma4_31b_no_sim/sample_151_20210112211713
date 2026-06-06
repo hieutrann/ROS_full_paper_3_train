@@ -132,10 +132,16 @@
     "bilirubin": "TEST"
   },
   {
+    "liquid diet": "TREATMENT"
+  },
+  {
     "Foley catheter": "TREATMENT"
   },
   {
     "bile leak": "PROBLEM"
+  },
+  {
+    "regular diet": "TREATMENT"
   },
   {
     "oral pain medications": "DRUG"
@@ -169,9 +175,6 @@
   },
   {
     "Lortab elixir": "DRUG"
-  },
-  {
-    "pain": "PROBLEM"
   },
   {
     "laparoscopy": "TREATMENT"

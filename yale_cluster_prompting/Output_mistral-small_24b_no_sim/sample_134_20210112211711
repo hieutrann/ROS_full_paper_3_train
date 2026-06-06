@@ -9,13 +9,16 @@
     "aching": "PROBLEM"
   },
   {
+    "fever": "PROBLEM"
+  },
+  {
     "fatigue": "PROBLEM"
   },
   {
     "aching": "PROBLEM"
   },
   {
-    "glasses": "PROBLEM"
+    "glasses": "TREATMENT"
   },
   {
     "cataracts": "PROBLEM"
@@ -33,10 +36,7 @@
     "visual field defects": "PROBLEM"
   },
   {
-    "hearing": "PROBLEM"
-  },
-  {
-    "balance": "PROBLEM"
+    "hearing or balance problems": "PROBLEM"
   },
   {
     "runny nose": "PROBLEM"
@@ -49,6 +49,9 @@
   },
   {
     "dental problems": "PROBLEM"
+  },
+  {
+    "dentures": "TREATMENT"
   },
   {
     "bleeding gums": "PROBLEM"
@@ -273,13 +276,7 @@
     "blood disorders": "PROBLEM"
   },
   {
-    "steroids": "DRUG"
-  },
-  {
-    "chemotherapy": "TREATMENT"
-  },
-  {
-    "cancer": "PROBLEM"
+    "chemotherapy": "DRUG"
   },
   {
     "varicose veins": "PROBLEM"
@@ -312,13 +309,19 @@
     "aching": "PROBLEM"
   },
   {
+    "swelling": "PROBLEM"
+  },
+  {
+    "disease": "PROBLEM"
+  },
+  {
     "incontinence": "PROBLEM"
   },
   {
     "bleeding": "PROBLEM"
   },
   {
-    "heartbeat": "PROBLEM"
+    "heartbeat": "TEST"
   },
   {
     "blood": "TEST"

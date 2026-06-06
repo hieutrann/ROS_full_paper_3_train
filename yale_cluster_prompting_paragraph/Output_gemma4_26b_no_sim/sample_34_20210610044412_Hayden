@@ -1,8 +1,5 @@
 [
   {
-    "VITAL SIGNS": "TEST"
-  },
-  {
     "blood pressure": "TEST"
   },
   {
@@ -21,6 +18,9 @@
     "Tympanic membranes": "TEST"
   },
   {
+    "auscultation": "TEST"
+  },
+  {
     "consolidation": "PROBLEM"
   },
   {
@@ -30,13 +30,19 @@
     "retractions": "PROBLEM"
   },
   {
-    "secondary muscle use": "PROBLEM"
-  },
-  {
     "jugular venous distention": "PROBLEM"
   },
   {
     "carotid bruits": "PROBLEM"
+  },
+  {
+    "percussion": "TEST"
+  },
+  {
+    "murmur": "PROBLEM"
+  },
+  {
+    "palpation": "TEST"
   },
   {
     "organomegaly": "PROBLEM"
@@ -45,10 +51,49 @@
     "rebound tenderness": "PROBLEM"
   },
   {
+    "Bowel sounds": "TEST"
+  },
+  {
+    "Obturator and psoas signs": "TEST"
+  },
+  {
     "bladder tenderness": "PROBLEM"
   },
   {
     "flank pain": "PROBLEM"
+  },
+  {
+    "motor tone": "TEST"
+  },
+  {
+    "strength": "TEST"
+  },
+  {
+    "reflexes": "TEST"
+  },
+  {
+    "joint strength": "TEST"
+  },
+  {
+    "sensation": "TEST"
+  },
+  {
+    "Glasgow Coma Scale": "TEST"
+  },
+  {
+    "Cranial nerves": "TEST"
+  },
+  {
+    "motor and cerebellar tests": "TEST"
+  },
+  {
+    "Reflexes": "TEST"
+  },
+  {
+    "lymph nodes": "TEST"
+  },
+  {
+    "bleeding": "PROBLEM"
   },
   {
     "skin purpura": "PROBLEM"
@@ -64,14 +109,5 @@
   },
   {
     "suicidal ideations": "PROBLEM"
-  },
-  {
-    "jugular venous distention": "PROBLEM"
-  },
-  {
-    "flank": "PROBLEM"
-  },
-  {
-    "tenderness": "PROBLEM"
   }
 ]

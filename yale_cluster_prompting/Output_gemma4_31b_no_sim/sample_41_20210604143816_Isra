@@ -54,7 +54,7 @@
     "blood transfusions": "TREATMENT"
   },
   {
-    "moderate to markedly obese": "PROBLEM"
+    "obese": "PROBLEM"
   },
   {
     "mild distress": "PROBLEM"
@@ -142,8 +142,5 @@
   },
   {
     "umbilical hernia": "PROBLEM"
-  },
-  {
-    "incarcerated": "PROBLEM"
   }
 ]

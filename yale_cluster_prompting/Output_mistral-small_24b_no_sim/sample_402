@@ -15,13 +15,10 @@
     "atopic dermatitis": "PROBLEM"
   },
   {
-    "left otalgia": "PROBLEM"
+    "otalgia": "PROBLEM"
   },
   {
     "headache": "PROBLEM"
-  },
-  {
-    "Symptoms": "PROBLEM"
   },
   {
     "difficulty hearing": "PROBLEM"
@@ -30,7 +27,7 @@
     "left-sided sinus pressure": "PROBLEM"
   },
   {
-    "teeth were hurting": "PROBLEM"
+    "teeth": "PROBLEM"
   },
   {
     "left-sided jaw pain": "PROBLEM"
@@ -57,7 +54,7 @@
     "sinusitis": "PROBLEM"
   },
   {
-    "headache": "PROBLEM"
+    "left-sided headache": "PROBLEM"
   },
   {
     "cephalexin": "DRUG"
@@ -75,6 +72,9 @@
     "diarrhea": "PROBLEM"
   },
   {
+    "female": "PROBLEM"
+  },
+  {
     "Weight": "TEST"
   },
   {
@@ -87,10 +87,10 @@
     "lichenification": "PROBLEM"
   },
   {
-    "nuchal region": "PROBLEM"
+    "PERRLA": "TEST"
   },
   {
-    "PERRLA": "TEST"
+    "Conjunctivae": "TEST"
   },
   {
     "effusion": "PROBLEM"
@@ -99,13 +99,37 @@
     "Right TM": "TEST"
   },
   {
+    "Canals": "TEST"
+  },
+  {
+    "External auricles": "TEST"
+  },
+  {
     "Nasal mucosa": "PROBLEM"
+  },
+  {
+    "Nonerythematous": "PROBLEM"
+  },
+  {
+    "tonsillar hypertrophy": "PROBLEM"
+  },
+  {
+    "exudate": "PROBLEM"
+  },
+  {
+    "adenopathy": "PROBLEM"
+  },
+  {
+    "thyromegaly": "PROBLEM"
+  },
+  {
+    "Lungs": "TEST"
   },
   {
     "Respirations": "TEST"
   },
   {
-    "Heart": "TEST"
+    "Heart": "PROBLEM"
   },
   {
     "Serous otitis": "PROBLEM"
@@ -123,7 +147,7 @@
     "Cutivate cream": "DRUG"
   },
   {
-    "general medicine": "PROBLEM"
+    "Recheck": "TEST"
   },
   {
     "left otalgia": "PROBLEM"
@@ -136,17 +160,5 @@
   },
   {
     "atopic dermatitis": "PROBLEM"
-  },
-  {
-    "serous": "PROBLEM"
-  },
-  {
-    "otitis": "PROBLEM"
-  },
-  {
-    "atopic": "PROBLEM"
-  },
-  {
-    "dermatitis": "PROBLEM"
   }
 ]

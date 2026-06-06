@@ -27,6 +27,9 @@
     "acute bronchiolitis": "PROBLEM"
   },
   {
+    "room air": "TREATMENT"
+  },
+  {
     "RSV bronchiolitis": "PROBLEM"
   },
   {
@@ -42,7 +45,7 @@
     "perihilar infiltrate": "PROBLEM"
   },
   {
-    "increased respiratory distress": "PROBLEM"
+    "respiratory distress": "PROBLEM"
   },
   {
     "tachypnea": "PROBLEM"
@@ -63,13 +66,7 @@
     "respiratory distress": "PROBLEM"
   },
   {
-    "VITAL SIGNS": "TEST"
-  },
-  {
-    "Vital signs": "TEST"
-  },
-  {
-    "acute distress": "PROBLEM"
+    "afebrile": "PROBLEM"
   },
   {
     "anterior fontanelle": "PROBLEM"
@@ -100,12 +97,6 @@
   },
   {
     "bowel sounds": "TEST"
-  },
-  {
-    "Tanner I": "PROBLEM"
-  },
-  {
-    "DISCHARGE WEIGHT": "TEST"
   },
   {
     "sick": "PROBLEM"

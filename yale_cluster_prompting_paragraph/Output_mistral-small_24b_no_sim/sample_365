@@ -54,7 +54,10 @@
     "hysterectomy": "TREATMENT"
   },
   {
-    "shoulder surgery": "TREATMENT"
+    "right shoulder surgery": "TREATMENT"
+  },
+  {
+    "left shoulder surgery": "TREATMENT"
   },
   {
     "laparoscopic bowel adhesion removal": "TREATMENT"
@@ -63,13 +66,16 @@
     "Port-A-Cath": "TREATMENT"
   },
   {
-    "total knee arthroplasty": "TREATMENT"
+    "left total knee arthroplasty": "TREATMENT"
   },
   {
-    "hip pinning": "TREATMENT"
+    "left hip pinning": "TREATMENT"
   },
   {
     "colonoscopies": "TEST"
+  },
+  {
+    "right total knee arthroplasty": "TREATMENT"
   },
   {
     "synovitis": "PROBLEM"
@@ -126,6 +132,18 @@
     "Lortab": "DRUG"
   },
   {
+    "stroke": "PROBLEM"
+  },
+  {
+    "prostate cancer": "PROBLEM"
+  },
+  {
+    "heart disease": "PROBLEM"
+  },
+  {
+    "diabetes": "PROBLEM"
+  },
+  {
     "allergies": "PROBLEM"
   },
   {
@@ -162,34 +180,22 @@
     "shoulder pain": "PROBLEM"
   },
   {
-    "insomnia": "PROBLEM"
-  },
-  {
     "spot": "PROBLEM"
   },
   {
     "precancerous condition": "PROBLEM"
   },
   {
-    "hypothyroidism": "PROBLEM"
-  },
-  {
-    "essential thrombocythemia": "PROBLEM"
-  },
-  {
     "anemia": "PROBLEM"
   },
   {
-    "peripheral neuropathy": "PROBLEM"
-  },
-  {
-    "hypertension": "PROBLEM"
+    "Peripheral neuropathy": "PROBLEM"
   },
   {
     "allergic rhinitis": "PROBLEM"
   },
   {
-    "insomnia": "PROBLEM"
+    "actinic keratosis": "PROBLEM"
   },
   {
     "Neurontin": "DRUG"
@@ -219,129 +225,36 @@
     "blood pressure": "TEST"
   },
   {
-    "pulse": "TEST"
-  },
-  {
-    "weight": "TEST"
-  },
-  {
-    "temperature": "TEST"
-  },
-  {
-    "pupils": "TEST"
-  },
-  {
-    "extraocular movements": "TEST"
-  },
-  {
-    "fundi": "TEST"
-  },
-  {
-    "TMs": "TEST"
-  },
-  {
-    "nares": "TEST"
-  },
-  {
-    "throat": "TEST"
-  },
-  {
-    "neck": "TEST"
-  },
-  {
-    "lungs": "TEST"
-  },
-  {
-    "heart": "TEST"
-  },
-  {
-    "carotid bruits": "TEST"
-  },
-  {
-    "abdomen": "TEST"
-  },
-  {
     "bowel sounds": "TEST"
   },
   {
-    "hepatosplenomegaly": "TEST"
+    "hepatosplenomegaly": "PROBLEM"
   },
   {
-    "mass": "TEST"
+    "mass": "PROBLEM"
   },
   {
-    "breasts": "TEST"
+    "ankle edema": "PROBLEM"
   },
   {
-    "chest wall mass": "TEST"
+    "calf tenderness": "PROBLEM"
   },
   {
-    "Port-A-Cath": "TEST"
-  },
-  {
-    "axillary adenopathy": "TEST"
-  },
-  {
-    "ankle edema": "TEST"
-  },
-  {
-    "calf tenderness": "TEST"
+    "cyst": "PROBLEM"
   },
   {
     "pedal pulses": "TEST"
   },
   {
-    "cranial nerves": "TEST"
+    "Deep tendon reflexes": "TEST"
   },
   {
-    "deep tendon reflexes": "TEST"
+    "focal neurologic deficits": "PROBLEM"
   },
   {
-    "focal neurologic deficits": "TEST"
+    "brown stool": "PROBLEM"
   },
   {
-    "BUS": "TEST"
-  },
-  {
-    "external genitalia": "TEST"
-  },
-  {
-    "vaginal rugae": "TEST"
-  },
-  {
-    "cervix": "TEST"
-  },
-  {
-    "bimanual exam": "TEST"
-  },
-  {
-    "ovaries": "TEST"
-  },
-  {
-    "rectal": "TEST"
-  },
-  {
-    "brown stool": "TEST"
-  },
-  {
-    "rectal vault": "TEST"
-  },
-  {
-    "actinic keratosis": "PROBLEM"
-  },
-  {
-    "affect": "TEST"
-  },
-  {
-    "stroke": "PROBLEM"
-  },
-  {
-    "prostate cancer": "PROBLEM"
-  },
-  {
-    "heart disease": "PROBLEM"
-  },
-  {
-    "diabetes": "PROBLEM"
+    "affect": "PROBLEM"
   }
 ]

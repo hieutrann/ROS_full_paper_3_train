@@ -1,18 +1,27 @@
 [
   {
-    "left-sided chest pain": "PROBLEM"
+    "chest pain": "PROBLEM"
   },
   {
     "abdominal surgery": "PROBLEM"
   },
   {
-    "left-sided chest pain": "PROBLEM"
+    "General Medicine": "TEST"
+  },
+  {
+    "Gen Med Consult": "TEST"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "abdominal surgery": "TREATMENT"
   },
   {
     "None": "PROBLEM"
   },
   {
-    "87-year-old patient": "PROBLEM"
+    "patient": "PROBLEM"
   },
   {
     "appendicectomy": "TREATMENT"
@@ -42,13 +51,13 @@
     "ENT": "PROBLEM"
   },
   {
-    "left-sided chest pain": "PROBLEM"
+    "cough": "PROBLEM"
   },
   {
-    "left posterior axillary line": "PROBLEM"
+    "chest pain": "PROBLEM"
   },
   {
-    "fourth and fifth rib": "PROBLEM"
+    "rib": "TEST"
   },
   {
     "heart problems": "PROBLEM"
@@ -81,16 +90,16 @@
     "TIA": "PROBLEM"
   },
   {
-    "review of systems": "PROBLEM"
+    "review of systems": "TEST"
   },
   {
     "nonsmoker": "PROBLEM"
   },
   {
-    "alcohol": "PROBLEM"
+    "alcohol": "DRUG"
   },
   {
-    "FAMILY HISTORY": "PROBLEM"
+    "Noncontributory": "PROBLEM"
   },
   {
     "87-year-old gentleman": "PROBLEM"
@@ -117,7 +126,7 @@
     "murmurs": "PROBLEM"
   },
   {
-    "ABDOMEN": "PROBLEM"
+    "distended": "PROBLEM"
   },
   {
     "Bowel sounds": "TEST"
@@ -156,16 +165,13 @@
     "ruptured appendicitis": "PROBLEM"
   },
   {
-    "surgery": "PROBLEM"
+    "surgery": "TREATMENT"
   },
   {
     "bowels": "PROBLEM"
   },
   {
-    "2": "TEST"
-  },
-  {
-    "Left-sided chest pain": "PROBLEM"
+    "chest pain": "PROBLEM"
   },
   {
     "PE": "PROBLEM"
@@ -180,9 +186,6 @@
     "CT angiogram": "TEST"
   },
   {
-    "3": "PROBLEM"
-  },
-  {
     "Fluid retention": "PROBLEM"
   },
   {
@@ -192,7 +195,7 @@
     "Paralytic ileus": "PROBLEM"
   },
   {
-    "5": "PROBLEM"
+    "5": "TEST"
   },
   {
     "Leukocytosis": "PROBLEM"
@@ -213,18 +216,15 @@
     "leukocytosis": "PROBLEM"
   },
   {
-    "abdominal surgery": "TREATMENT"
+    "laparoscopic appendicectomy": "TREATMENT"
   },
   {
-    "laparoscopic appendicectomy": "TREATMENT"
+    "abdominal surgery": "TREATMENT"
   },
   {
     "abdominal": "TEST"
   },
   {
     "surgery": "TREATMENT"
-  },
-  {
-    "chest": "TEST"
   }
 ]

@@ -1,5 +1,71 @@
 [
   {
+    "back pain": "PROBLEM"
+  },
+  {
+    "acute back pain": "PROBLEM"
+  },
+  {
+    "chronic back pain": "PROBLEM"
+  },
+  {
+    "IV analgesics": "TREATMENT"
+  },
+  {
+    "Decadron": "DRUG"
+  },
+  {
+    "physical therapy": "TREATMENT"
+  },
+  {
+    "intravertebral lumbar disk disease": "PROBLEM"
+  },
+  {
+    "degenerative changes": "PROBLEM"
+  },
+  {
+    "bulging disk": "PROBLEM"
+  },
+  {
+    "testicular cancer": "PROBLEM"
+  },
+  {
+    "bone scan": "TEST"
+  },
+  {
+    "PENICILLIN": "DRUG"
+  },
+  {
+    "AMOXICILLIN": "DRUG"
+  },
+  {
+    "CEPHALOSPORIN": "DRUG"
+  },
+  {
+    "DOXYCYCLINE": "DRUG"
+  },
+  {
+    "IVP DYE": "TREATMENT"
+  },
+  {
+    "IODINE": "TREATMENT"
+  },
+  {
+    "SULFA": "DRUG"
+  },
+  {
+    "HIVES": "PROBLEM"
+  },
+  {
+    "orchiectomy": "TREATMENT"
+  },
+  {
+    "GERD": "PROBLEM"
+  },
+  {
+    "irritable bowel syndrome": "PROBLEM"
+  },
+  {
     "seasonal asthma": "PROBLEM"
   },
   {
@@ -75,16 +141,25 @@
     "dizziness": "PROBLEM"
   },
   {
+    "temperature": "TEST"
+  },
+  {
     "blood pressure": "TEST"
   },
   {
     "pulse": "TEST"
   },
   {
+    "respirations": "TEST"
+  },
+  {
     "O2 saturation": "TEST"
   },
   {
     "thrush": "PROBLEM"
+  },
+  {
+    "Obese": "PROBLEM"
   },
   {
     "cyanosis": "PROBLEM"
@@ -111,7 +186,7 @@
     "Protonix": "DRUG"
   },
   {
-    "Deep vein thrombosis prophylaxis": "TREATMENT"
+    "Deep vein thrombosis": "PROBLEM"
   },
   {
     "Obesity": "PROBLEM"

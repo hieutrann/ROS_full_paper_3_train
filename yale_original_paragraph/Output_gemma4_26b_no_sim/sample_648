@@ -36,6 +36,12 @@
     "Severe chronic obstructive pulmonary disease": "PROBLEM"
   },
   {
+    "Diabetes mellitus": "PROBLEM"
+  },
+  {
+    "Hypothyroidism": "PROBLEM"
+  },
+  {
     "Altered mental status": "PROBLEM"
   },
   {
@@ -109,9 +115,6 @@
   },
   {
     "diverticular disease": "PROBLEM"
-  },
-  {
-    "sigmoid colon": "PROBLEM"
   },
   {
     "hemorrhage": "PROBLEM"

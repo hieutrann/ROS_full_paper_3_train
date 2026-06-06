@@ -24,9 +24,6 @@
     "patient": "PROBLEM"
   },
   {
-    "patient": "PROBLEM"
-  },
-  {
     "appetite": "PROBLEM"
   },
   {
@@ -105,7 +102,7 @@
     "Norvasc": "DRUG"
   },
   {
-    "Wellbutrin SR": "DRUG"
+    "Wellbutrin": "DRUG"
   },
   {
     "O2": "TREATMENT"
@@ -126,13 +123,13 @@
     "Alcohol use": "PROBLEM"
   },
   {
-    "Tetanus": "PROBLEM"
+    "Tetanus Immunization": "TEST"
   },
   {
     "hysterectomy": "TREATMENT"
   },
   {
-    "FAMILY HISTORY": "PROBLEM"
+    "Noncontributory": "PROBLEM"
   },
   {
     "Temperature": "TEST"
@@ -147,25 +144,16 @@
     "BP": "TEST"
   },
   {
-    "well developed": "PROBLEM"
-  },
-  {
-    "well nourished": "PROBLEM"
-  },
-  {
-    "alert": "PROBLEM"
-  },
-  {
-    "cooperative": "PROBLEM"
-  },
-  {
     "nontoxic": "PROBLEM"
   },
   {
-    "hydrated": "PROBLEM"
+    "Warm": "TEST"
   },
   {
-    "Warm, dry, and good color": "TEST"
+    "dry": "TEST"
+  },
+  {
+    "good color": "TEST"
   },
   {
     "EOMI": "PROBLEM"
@@ -174,10 +162,10 @@
     "PERRL": "TEST"
   },
   {
-    "MOUTH": "PROBLEM"
+    "MOUTH": "TEST"
   },
   {
-    "Mucous membranes": "PROBLEM"
+    "mucous membranes": "PROBLEM"
   },
   {
     "Supple": "TEST"
@@ -186,40 +174,40 @@
     "JVD": "PROBLEM"
   },
   {
-    "faint expiratory wheeze": "PROBLEM"
+    "wheeze": "PROBLEM"
   },
   {
-    "posterior lung fields": "PROBLEM"
+    "lungs": "PROBLEM"
   },
   {
     "tachycardic": "PROBLEM"
   },
   {
-    "murmur": "PROBLEM"
+    "bowel sounds": "TEST"
   },
   {
     "bowel sounds": "TEST"
   },
   {
-    "bowel": "PROBLEM"
+    "abdomen": "PROBLEM"
+  },
+  {
+    "abdomen": "PROBLEM"
   },
   {
     "rebound": "PROBLEM"
   },
   {
-    "CVA tenderness": "PROBLEM"
+    "CVA": "PROBLEM"
   },
   {
-    "Moves all four extremities": "TEST"
+    "extremities": "PROBLEM"
   },
   {
     "pretibial edema": "PROBLEM"
   },
   {
-    "Cranial nerves II to XII": "PROBLEM"
-  },
-  {
-    "motor": "PROBLEM"
+    "Cranial nerves": "PROBLEM"
   },
   {
     "cerebellar": "PROBLEM"
@@ -240,10 +228,10 @@
     "eosinophils": "TEST"
   },
   {
-    "Hemoglobin": "PROBLEM"
+    "Hemoglobin": "TEST"
   },
   {
-    "Hematocrit": "PROBLEM"
+    "Hematocrit": "TEST"
   },
   {
     "sodium": "PROBLEM"
@@ -282,13 +270,16 @@
     "chronic changes": "PROBLEM"
   },
   {
-    "official report": "TEST"
-  },
-  {
     "COPD": "PROBLEM"
   },
   {
+    "O2 sat": "TEST"
+  },
+  {
     "sinus tachycardia": "PROBLEM"
+  },
+  {
+    "103": "TEST"
   },
   {
     "ectopy": "PROBLEM"
@@ -303,49 +294,43 @@
     "lung exam": "TEST"
   },
   {
-    "expiratory wheezing": "PROBLEM"
+    "wheezing": "PROBLEM"
+  },
+  {
+    "saline lock": "TREATMENT"
   },
   {
     "normal saline": "DRUG"
   },
   {
-    "normal saline": "DRUG"
+    "IV fluids": "TREATMENT"
   },
   {
-    "void urine": "TEST"
+    "urine": "TEST"
   },
   {
     "Rectal examination": "TEST"
   },
   {
-    "sphincter tone": "TEST"
+    "sphincter tone": "PROBLEM"
   },
   {
     "masses": "PROBLEM"
   },
   {
-    "heme negative": "PROBLEM"
+    "heme": "PROBLEM"
   },
   {
-    "patient": "PROBLEM"
-  },
-  {
-    "feels slightly better": "PROBLEM"
-  },
-  {
-    "ectopy": "PROBLEM"
+    "better": "PROBLEM"
   },
   {
     "sinus rhythm": "PROBLEM"
   },
   {
-    "rate": "TEST"
+    "ectopy": "PROBLEM"
   },
   {
     "Blood pressure": "TEST"
-  },
-  {
-    "patient": "PROBLEM"
   },
   {
     "history": "PROBLEM"
@@ -366,7 +351,7 @@
     "rectal bleeding": "PROBLEM"
   },
   {
-    "Dr": "TREATMENT"
+    "Dr.": "TREATMENT"
   },
   {
     "problems": "PROBLEM"
@@ -375,19 +360,19 @@
     "hemodynamically stable": "PROBLEM"
   },
   {
-    "Acute tiredness": "PROBLEM"
+    "tiredness": "PROBLEM"
   },
   {
-    "2": "TEST"
+    "2": "TREATMENT"
   },
   {
     "Anemia": "PROBLEM"
   },
   {
-    "3": "PROBLEM"
+    "3": "TREATMENT"
   },
   {
-    "Acute hyponatremia": "PROBLEM"
+    "hyponatremia": "PROBLEM"
   },
   {
     "salt": "TREATMENT"
@@ -399,7 +384,7 @@
     "Dr.": "TREATMENT"
   },
   {
-    "X": "PROBLEM"
+    "X": "TEST"
   },
   {
     "condition": "PROBLEM"
@@ -460,9 +445,6 @@
   },
   {
     "paresthesias": "PROBLEM"
-  },
-  {
-    "feeling faint": "PROBLEM"
   },
   {
     "saline lock": "TREATMENT"

@@ -24,7 +24,7 @@
     "cognitive linguistic deficits": "PROBLEM"
   },
   {
-    "mild difficulty with generative naming": "PROBLEM"
+    "difficulty with generative naming": "PROBLEM"
   },
   {
     "auditory comprehension": "PROBLEM"
@@ -36,10 +36,10 @@
     "skilled speech therapy": "TREATMENT"
   },
   {
-    "short-term therapy goals": "TREATMENT"
+    "cognitive linguistic abilities": "PROBLEM"
   },
   {
-    "long-term therapy goal": "TREATMENT"
+    "short-term therapy goals": "TREATMENT"
   },
   {
     "functional cognitive linguistic abilities": "PROBLEM"
@@ -64,5 +64,14 @@
   },
   {
     "linguistic impairment": "PROBLEM"
+  },
+  {
+    "cognitive linguistic": "PROBLEM"
+  },
+  {
+    "cognitive": "PROBLEM"
+  },
+  {
+    "linguistic": "PROBLEM"
   }
 ]

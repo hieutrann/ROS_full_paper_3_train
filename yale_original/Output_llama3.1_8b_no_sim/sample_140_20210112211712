@@ -1,12 +1,6 @@
 [
   {
-    "General Medicine": "TREATMENT"
-  },
-  {
-    "Normal Female Exam Template - 2": "TEST"
-  },
-  {
-    "routine normal female physical exam": "TEST"
+    "Female Exam": "TEST"
   },
   {
     "Blood pressure": "TEST"
@@ -36,31 +30,22 @@
     "PERRLA": "TEST"
   },
   {
-    "Sclerae": "PROBLEM"
+    "Sclerae": "TEST"
   },
   {
-    "lesions": "PROBLEM"
+    "conjunctivae": "PROBLEM"
   },
   {
     "Funduscopic examination": "TEST"
   },
   {
-    "TMs": "PROBLEM"
+    "TMs": "TEST"
   },
   {
     "Nose and Sinuses": "PROBLEM"
   },
   {
-    "Mouth": "PROBLEM"
-  },
-  {
-    "Tongue": "PROBLEM"
-  },
-  {
-    "Teeth": "PROBLEM"
-  },
-  {
-    "Throat": "PROBLEM"
+    "dental work": "TREATMENT"
   },
   {
     "JVD": "PROBLEM"
@@ -111,7 +96,7 @@
     "Chest wall": "PROBLEM"
   },
   {
-    "axillary or supraclavicular adenopathy": "PROBLEM"
+    "adenopathy": "PROBLEM"
   },
   {
     "BREASTS": "TEST"
@@ -141,19 +126,16 @@
     "intraabdominal bruit": "PROBLEM"
   },
   {
-    "EXTERNAL GENITALIA": "TEST"
+    "age": "TEST"
   },
   {
     "Hemoccult-negative stool": "TEST"
   },
   {
+    "gloved digital palpation": "TEST"
+  },
+  {
     "7 cm": "TEST"
-  },
-  {
-    "Negative": "TEST"
-  },
-  {
-    "deep venous thrombosis": "PROBLEM"
   },
   {
     "cyanosis": "PROBLEM"
@@ -162,13 +144,19 @@
     "clubbing": "PROBLEM"
   },
   {
-    "edema": "PROBLEM"
+    "deep venous thrombosis": "PROBLEM"
   },
   {
-    "nails of the hands and feet": "PROBLEM"
+    "hands": "PROBLEM"
   },
   {
-    "creases of the palms and soles": "PROBLEM"
+    "feet": "PROBLEM"
+  },
+  {
+    "palms": "PROBLEM"
+  },
+  {
+    "soles": "PROBLEM"
   },
   {
     "range of motion": "TEST"
@@ -192,7 +180,10 @@
     "Brudzinski": "TEST"
   },
   {
-    "cranial and peripheral nervous systems": "PROBLEM"
+    "cranial": "PROBLEM"
+  },
+  {
+    "peripheral nervous systems": "PROBLEM"
   },
   {
     "strength": "PROBLEM"
@@ -210,13 +201,16 @@
     "Speech": "TEST"
   },
   {
-    "lucid and rational": "PROBLEM"
+    "lucid": "PROBLEM"
   },
   {
-    "Gait": "TEST"
+    "gait": "PROBLEM"
   },
   {
-    "premalignant or malignant condition": "PROBLEM"
+    "premalignant condition": "PROBLEM"
+  },
+  {
+    "malignant condition": "PROBLEM"
   },
   {
     "hepatosplenomegaly": "PROBLEM"
@@ -243,7 +237,7 @@
     "adenopathy": "PROBLEM"
   },
   {
-    "chest": "PROBLEM"
+    "chest": "TEST"
   },
   {
     "percussion": "TEST"

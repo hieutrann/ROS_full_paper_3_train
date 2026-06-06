@@ -3,13 +3,19 @@
     "Right-sided facial droop": "PROBLEM"
   },
   {
-    "Right-sided weakness": "PROBLEM"
+    "right-sided weakness": "PROBLEM"
   },
   {
     "cerebrovascular accident": "PROBLEM"
   },
   {
     "CT scan": "TEST"
+  },
+  {
+    "urinary tract infection": "PROBLEM"
+  },
+  {
+    "PENICILLIN": "DRUG"
   },
   {
     "stroke": "PROBLEM"
@@ -19,12 +25,6 @@
   },
   {
     "expressive aphasia": "PROBLEM"
-  },
-  {
-    "urinary tract infection": "PROBLEM"
-  },
-  {
-    "PENICILLIN": "DRUG"
   },
   {
     "hypertension": "PROBLEM"
@@ -48,16 +48,16 @@
     "stool incontinence": "PROBLEM"
   },
   {
-    "facial droop": "PROBLEM"
+    "right-sided facial droop": "PROBLEM"
   },
   {
-    "blood pressure": "TEST"
+    "2/6 systolic murmur": "TEST"
   },
   {
-    "systolic murmur": "PROBLEM"
+    "bowel sound": "TEST"
   },
   {
-    "pressure ulcer": "PROBLEM"
+    "right-sided slight facial droop": "PROBLEM"
   },
   {
     "CT scan": "TEST"
@@ -84,7 +84,7 @@
     "glucose": "TEST"
   },
   {
-    "white blood cell count": "TEST"
+    "Total white blood cell count": "TEST"
   },
   {
     "hemoglobin": "TEST"
@@ -114,46 +114,7 @@
     "meropenem": "DRUG"
   },
   {
-    "Vasotec": "DRUG"
-  },
-  {
-    "Lovenox": "DRUG"
-  },
-  {
-    "Ecotrin": "DRUG"
-  },
-  {
-    "Aricept": "DRUG"
-  },
-  {
-    "Diovan": "DRUG"
-  },
-  {
-    "multivitamin": "DRUG"
-  },
-  {
-    "calcium": "DRUG"
-  },
-  {
-    "vitamin D": "DRUG"
-  },
-  {
-    "Tylenol": "DRUG"
-  },
-  {
-    "IV fluids": "TREATMENT"
-  },
-  {
-    "D5 normal saline": "TREATMENT"
-  },
-  {
-    "potassium": "DRUG"
-  },
-  {
     "cerebrovascular accident": "PROBLEM"
-  },
-  {
-    "weakness": "PROBLEM"
   },
   {
     "hypertension": "PROBLEM"
@@ -171,16 +132,10 @@
     "abnormality of gait": "PROBLEM"
   },
   {
-    "lower extremity weakness": "PROBLEM"
+    "IV Vasotec": "DRUG"
   },
   {
-    "NPO": "TREATMENT"
-  },
-  {
-    "IV": "TREATMENT"
-  },
-  {
-    "neuro check": "TEST"
+    "Neuro check": "TEST"
   },
   {
     "amikacin": "DRUG"
@@ -201,10 +156,7 @@
     "multivitamin": "DRUG"
   },
   {
-    "calcium": "DRUG"
-  },
-  {
-    "vitamin D": "DRUG"
+    "calcium with vitamin D": "DRUG"
   },
   {
     "Tylenol": "DRUG"
@@ -213,9 +165,33 @@
     "IV fluids": "TREATMENT"
   },
   {
-    "D5 normal saline": "TREATMENT"
+    "D5 normal saline": "DRUG"
   },
   {
     "potassium": "DRUG"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "right-sided weakness": "PROBLEM"
+  },
+  {
+    "facial droop": "PROBLEM"
+  },
+  {
+    "wheelchair bound": "PROBLEM"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "swallowing evaluation": "TEST"
+  },
+  {
+    "cerebrovascular accident": "PROBLEM"
+  },
+  {
+    "weakness": "PROBLEM"
   }
 ]

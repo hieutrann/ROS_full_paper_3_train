@@ -1,12 +1,9 @@
 [
   {
-    "Surgery": "TREATMENT"
-  },
-  {
     "Liver Biopsy": "TEST"
   },
   {
-    "Percutaneous liver biopsy": "TEST"
+    "Percutaneous liver biopsy": "TREATMENT"
   },
   {
     "maximal dullness": "PROBLEM"
@@ -45,9 +42,6 @@
     "death": "PROBLEM"
   },
   {
-    "procedure": "TREATMENT"
-  },
-  {
     "maximal dullness": "PROBLEM"
   },
   {
@@ -60,7 +54,7 @@
     "lidocaine": "DRUG"
   },
   {
-    "small incision": "TREATMENT"
+    "incision": "TREATMENT"
   },
   {
     "16-gauge modified Klatskin needle": "TREATMENT"
@@ -75,7 +69,7 @@
     "Pathology": "TEST"
   },
   {
-    "routine histologic study": "TEST"
+    "histologic study": "TEST"
   },
   {
     "medical treatment room": "TREATMENT"
@@ -130,5 +124,8 @@
   },
   {
     "biopsy": "TEST"
+  },
+  {
+    "liver": "PROBLEM"
   }
 ]

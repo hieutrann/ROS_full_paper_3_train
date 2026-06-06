@@ -15,7 +15,10 @@
     "symptoms": "PROBLEM"
   },
   {
-    "erection": "PROBLEM"
+    "firm erection": "PROBLEM"
+  },
+  {
+    "penetrate": "PROBLEM"
   },
   {
     "chest pain": "PROBLEM"
@@ -48,10 +51,10 @@
     "nocturia": "PROBLEM"
   },
   {
-    "good stream": "PROBLEM"
+    "stream": "TEST"
   },
   {
-    "PSA": "TEST"
+    "elevated PSA": "PROBLEM"
   },
   {
     "biopsy": "TEST"
@@ -108,16 +111,7 @@
     "Cialis": "DRUG"
   },
   {
-    "20 mg": "DRUG"
-  },
-  {
     "Levitra": "DRUG"
-  },
-  {
-    "10 mg": "DRUG"
-  },
-  {
-    "20 mg": "DRUG"
   },
   {
     "PSA": "TEST"
@@ -130,15 +124,6 @@
   },
   {
     "erectile dysfunction": "PROBLEM"
-  },
-  {
-    "erectile": "PROBLEM"
-  },
-  {
-    "dysfunction": "PROBLEM"
-  },
-  {
-    "dysfunction": "PROBLEM"
   },
   {
     "cialis": "DRUG"

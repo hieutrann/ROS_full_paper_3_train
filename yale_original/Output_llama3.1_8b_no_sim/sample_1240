@@ -60,7 +60,7 @@
     "Ms.": "PROBLEM"
   },
   {
-    "ABC": "PROBLEM"
+    "woman": "PROBLEM"
   },
   {
     "morbid obesity": "PROBLEM"
@@ -72,16 +72,19 @@
     "obstructive sleep apnea": "PROBLEM"
   },
   {
-    "Bariatric Surgical Center": "TEST"
+    "Bariatric Surgical Center": "TREATMENT"
+  },
+  {
+    "band": "TREATMENT"
   },
   {
     "cholelithiasis": "PROBLEM"
   },
   {
-    "gallbladder": "PROBLEM"
+    "gallbladder": "TREATMENT"
   },
   {
-    "band": "PROBLEM"
+    "band placement": "TREATMENT"
   },
   {
     "diabetes": "PROBLEM"
@@ -105,7 +108,7 @@
     "Ms.": "PROBLEM"
   },
   {
-    "ABC": "PROBLEM"
+    "Dr": "TREATMENT"
   },
   {
     "insulin": "DRUG"
@@ -117,7 +120,7 @@
     "laparoscopic cholecystectomy": "TREATMENT"
   },
   {
-    "intubation": "TEST"
+    "intubation": "TREATMENT"
   },
   {
     "chronic cholecystitis": "PROBLEM"
@@ -126,16 +129,16 @@
     "edema": "PROBLEM"
   },
   {
-    "adhesions of omentum": "PROBLEM"
+    "adhesions": "PROBLEM"
   },
   {
     "gallbladder": "PROBLEM"
   },
   {
-    "Postoperative Care Unit": "TEST"
+    "procedure": "TREATMENT"
   },
   {
-    "blood sugar": "PROBLEM"
+    "blood sugar": "TEST"
   },
   {
     "insulin": "DRUG"
@@ -156,13 +159,10 @@
     "lap band": "TREATMENT"
   },
   {
-    "shower": "TREATMENT"
-  },
-  {
     "wounds": "PROBLEM"
   },
   {
-    "heavy lifting": "PROBLEM"
+    "lifting": "TREATMENT"
   },
   {
     "narcotic pain medicines": "DRUG"
@@ -171,7 +171,7 @@
     "CPAP machine": "TREATMENT"
   },
   {
-    "sugars": "PROBLEM"
+    "sugars": "TEST"
   },
   {
     "hyperglycemia": "PROBLEM"
@@ -201,12 +201,9 @@
     "sleep apnea": "PROBLEM"
   },
   {
-    "diabetes": "PROBLEM"
-  },
-  {
     "medifast": "DRUG"
   },
   {
-    "medifast diet": "DRUG"
+    "medifast diet": "TREATMENT"
   }
 ]

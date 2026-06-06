@@ -1,6 +1,6 @@
 [
   {
-    "Pancreatic Mass": "PROBLEM"
+    "pancreatic mass": "PROBLEM"
   },
   {
     "abdominal pain": "PROBLEM"
@@ -39,10 +39,13 @@
     "stent": "TREATMENT"
   },
   {
-    "strictured pancreatic duct": "PROBLEM"
+    "pancreatic duct": "PROBLEM"
   },
   {
-    "strictured bile duct": "PROBLEM"
+    "bile duct": "PROBLEM"
+  },
+  {
+    "stent": "TREATMENT"
   },
   {
     "bilirubin": "TEST"
@@ -93,6 +96,9 @@
     "creatinine": "TEST"
   },
   {
+    "bilirubin": "TEST"
+  },
+  {
     "alk phos": "TEST"
   },
   {
@@ -123,6 +129,9 @@
     "metastatic pancreatic cancer": "PROBLEM"
   },
   {
+    "Phenergan": "DRUG"
+  },
+  {
     "Duragesic patch": "DRUG"
   },
   {
@@ -138,15 +147,12 @@
     "hypertension": "PROBLEM"
   },
   {
-    "stent occlusion": "PROBLEM"
-  },
-  {
     "fever": "PROBLEM"
   },
   {
-    "phenergan": "DRUG"
+    "bilirubin": "TEST"
   },
   {
-    "drainage": "TREATMENT"
+    "pain": "PROBLEM"
   }
 ]

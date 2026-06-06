@@ -1,5 +1,38 @@
 [
   {
+    "Suspicious calcifications": "PROBLEM"
+  },
+  {
+    "calcifications": "PROBLEM"
+  },
+  {
+    "false aneurysm": "PROBLEM"
+  },
+  {
+    "hematoma": "PROBLEM"
+  },
+  {
+    "ecchymosis": "PROBLEM"
+  },
+  {
+    "pulsatile mass": "PROBLEM"
+  },
+  {
+    "breast cancer": "PROBLEM"
+  },
+  {
+    "asthma": "PROBLEM"
+  },
+  {
+    "pneumonia": "PROBLEM"
+  },
+  {
+    "colon resection": "TREATMENT"
+  },
+  {
+    "sinus surgeries": "TREATMENT"
+  },
+  {
     "Plavix": "DRUG"
   },
   {
@@ -24,73 +57,16 @@
     "Lexapro": "DRUG"
   },
   {
-    "ASPIRIN": "DRUG"
+    "Aspirin": "DRUG"
   },
   {
-    "PENICILLIN": "DRUG"
+    "Penicillin": "DRUG"
   },
   {
-    "IODINE": "DRUG"
+    "Iodine": "DRUG"
   },
   {
-    "CODEINE": "DRUG"
-  },
-  {
-    "breast cancer": "PROBLEM"
-  },
-  {
-    "chronic obstructive lung disease": "PROBLEM"
-  },
-  {
-    "gastroesophageal reflux disease": "PROBLEM"
-  },
-  {
-    "anemia": "PROBLEM"
-  },
-  {
-    "sciatica": "PROBLEM"
-  },
-  {
-    "skin cancers": "PROBLEM"
-  },
-  {
-    "false aneurysm formation": "PROBLEM"
-  },
-  {
-    "hematoma": "PROBLEM"
-  },
-  {
-    "ecchymosis": "PROBLEM"
-  },
-  {
-    "pulsatile mass": "PROBLEM"
-  },
-  {
-    "colon cancer": "PROBLEM"
-  },
-  {
-    "heart disease": "PROBLEM"
-  },
-  {
-    "hypertension": "PROBLEM"
-  },
-  {
-    "cerebrovascular accidents": "PROBLEM"
-  },
-  {
-    "colon resection": "TREATMENT"
-  },
-  {
-    "sinus surgeries": "TREATMENT"
-  },
-  {
-    "Left breast excisional biopsy": "TREATMENT"
-  },
-  {
-    "preoperative guidewire localization": "TREATMENT"
-  },
-  {
-    "intraoperative specimen radiography": "TEST"
+    "Codeine": "DRUG"
   },
   {
     "stereotactic core needle biopsy": "TEST"
@@ -102,9 +78,15 @@
     "ultrasound guidance": "TEST"
   },
   {
-    "thrombin material": "DRUG"
+    "radiograph": "TEST"
+  },
+  {
+    "excisional biopsy": "TREATMENT"
   },
   {
     "guidewire localization": "TREATMENT"
+  },
+  {
+    "intraoperative specimen radiography": "TEST"
   }
 ]

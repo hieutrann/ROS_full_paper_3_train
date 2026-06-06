@@ -3,19 +3,10 @@
     "free air under the diaphragm": "PROBLEM"
   },
   {
-    "Air Under Diaphragm": "TEST"
-  },
-  {
-    "General Medicine": "TEST"
-  },
-  {
-    "free air under the diaphragm": "PROBLEM"
+    "free air under the right diaphragm": "PROBLEM"
   },
   {
     "shortness of breath": "PROBLEM"
-  },
-  {
-    "free air under the right diaphragm": "PROBLEM"
   },
   {
     "chest x-ray": "TEST"
@@ -27,7 +18,7 @@
     "free air under the diaphragm": "PROBLEM"
   },
   {
-    "77-year-old": "PROBLEM"
+    "77-year-old female": "PROBLEM"
   },
   {
     "Ativan": "DRUG"
@@ -36,10 +27,10 @@
     "obtunded": "PROBLEM"
   },
   {
-    "shortness of breath": "PROBLEM"
+    "free air under the right diaphragm": "PROBLEM"
   },
   {
-    "free air under the right diaphragm": "PROBLEM"
+    "shortness of breath": "PROBLEM"
   },
   {
     "chest x-ray": "TEST"
@@ -69,46 +60,46 @@
     "alcohol abuse": "PROBLEM"
   },
   {
-    "REVIEW OF SYSTEMS": "TEST"
+    "Unable to obtain": "PROBLEM"
   },
   {
-    "Temp 98.3": "TEST"
+    "Temp 98.3": "PROBLEM"
   },
   {
-    "heart rate 82": "TEST"
+    "heart rate 82": "PROBLEM"
   },
   {
-    "respiratory rate 24": "TEST"
+    "respiratory rate 24": "PROBLEM"
   },
   {
-    "blood pressure 141/70": "TEST"
+    "blood pressure 141/70": "PROBLEM"
   },
   {
     "obtunded": "PROBLEM"
   },
   {
-    "HEENT": "TEST"
+    "Atraumatic": "PROBLEM"
   },
   {
-    "NECK": "TEST"
+    "Soft and supple": "PROBLEM"
   },
   {
-    "LUNGS": "TEST"
+    "LUNGS": "PROBLEM"
   },
   {
-    "HEART": "TEST"
+    "HEART": "PROBLEM"
   },
   {
-    "ABDOMEN": "PROBLEM"
+    "deep palpation": "TEST"
   },
   {
     "tenderness": "PROBLEM"
   },
   {
-    "LABORATORY STUDIES": "TEST"
+    "white blood cell count": "TEST"
   },
   {
-    "white blood cell count": "TEST"
+    "Elevated AST": "PROBLEM"
   },
   {
     "AST": "TEST"
@@ -123,22 +114,19 @@
     "bilirubin": "TEST"
   },
   {
-    "Sodium": "TEST"
+    "Sodium": "PROBLEM"
   },
   {
-    "chloride": "TEST"
+    "chloride": "PROBLEM"
   },
   {
-    "potassium": "TEST"
+    "potassium": "PROBLEM"
   },
   {
     "free air": "PROBLEM"
   },
   {
     "CT scan": "TEST"
-  },
-  {
-    "physical examination": "TEST"
   },
   {
     "intra-abdominal pathology": "PROBLEM"
@@ -159,12 +147,6 @@
     "hyponatremia": "PROBLEM"
   },
   {
-    "admitted": "TREATMENT"
-  },
-  {
-    "medical service": "TREATMENT"
-  },
-  {
     "free air": "PROBLEM"
   },
   {
@@ -177,15 +159,6 @@
     "intra abdominal pathology": "PROBLEM"
   },
   {
-    "abdominal": "PROBLEM"
-  },
-  {
-    "pathology": "PROBLEM"
-  },
-  {
     "obtunded": "PROBLEM"
-  },
-  {
-    "diaphragm": "PROBLEM"
   }
 ]

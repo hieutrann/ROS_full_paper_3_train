@@ -39,34 +39,13 @@
     "coronary disease": "PROBLEM"
   },
   {
-    "stroke risk": "PROBLEM"
+    "stroke": "PROBLEM"
   },
   {
     "cardiac disease": "PROBLEM"
   },
   {
     "lipid panel": "TEST"
-  },
-  {
-    "Cholesterol": "TEST"
-  },
-  {
-    "triglycerides": "TEST"
-  },
-  {
-    "HDL": "TEST"
-  },
-  {
-    "LDL": "TEST"
-  },
-  {
-    "fasting glucose": "TEST"
-  },
-  {
-    "fasting insulin level": "TEST"
-  },
-  {
-    "nonfasting glucose": "TEST"
   },
   {
     "diabetes": "PROBLEM"
@@ -76,9 +55,6 @@
   },
   {
     "low back pain": "PROBLEM"
-  },
-  {
-    "X-ray of the low back": "TEST"
   },
   {
     "compression fracture of L1": "PROBLEM"
@@ -129,22 +105,13 @@
     "Bactrim": "DRUG"
   },
   {
-    "adhesive tape": "TREATMENT"
-  },
-  {
     "Depression": "PROBLEM"
   },
   {
     "Myofascitis of the feet": "PROBLEM"
   },
   {
-    "osteoarthritis of the knee": "PROBLEM"
-  },
-  {
     "melanoma": "PROBLEM"
-  },
-  {
-    "Removal of the melanoma": "TREATMENT"
   },
   {
     "Breast biopsy": "TEST"
@@ -159,25 +126,28 @@
     "Echocardiogram": "TEST"
   },
   {
-    "Vital signs": "TEST"
+    "overweight": "PROBLEM"
   },
   {
     "Blood pressure": "TEST"
   },
   {
-    "Pulse": "TEST"
+    "murmur": "PROBLEM"
   },
   {
-    "Respirations": "TEST"
+    "S3": "PROBLEM"
   },
   {
-    "Temperature": "TEST"
+    "S4": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
   },
   {
     "EKG": "TEST"
   },
   {
-    "sinus rhythm": "PROBLEM"
+    "sinus rhythm": "TEST"
   },
   {
     "first degree AV block": "PROBLEM"
@@ -192,7 +162,7 @@
     "chest x-ray": "TEST"
   },
   {
-    "C-reactive protein": "TEST"
+    "C-reactive protein cardiac": "TEST"
   },
   {
     "colonoscopy": "TEST"
@@ -201,6 +171,6 @@
     "Fosamax": "DRUG"
   },
   {
-    "beta-blocker": "DRUG"
+    "preoperative evaluation": "TEST"
   }
 ]

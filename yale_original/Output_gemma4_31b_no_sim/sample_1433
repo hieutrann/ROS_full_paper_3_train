@@ -6,9 +6,6 @@
     "Cialis": "DRUG"
   },
   {
-    "side effects": "PROBLEM"
-  },
-  {
     "erectile dysfunction": "PROBLEM"
   },
   {
@@ -46,9 +43,6 @@
   },
   {
     "chills": "PROBLEM"
-  },
-  {
-    "Daytime frequency": "PROBLEM"
   },
   {
     "nocturia": "PROBLEM"
@@ -124,6 +118,12 @@
   },
   {
     "erectile dysfunction": "PROBLEM"
+  },
+  {
+    "erectile": "PROBLEM"
+  },
+  {
+    "dysfunction": "PROBLEM"
   },
   {
     "cialis": "DRUG"

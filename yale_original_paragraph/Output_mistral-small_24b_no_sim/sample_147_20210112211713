@@ -3,19 +3,13 @@
     "free air": "PROBLEM"
   },
   {
+    "chest x-ray": "TEST"
+  },
+  {
     "shortness of breath": "PROBLEM"
   },
   {
-    "diaphragm": "PROBLEM"
-  },
-  {
-    "right diaphragm": "PROBLEM"
-  },
-  {
     "Ativan": "DRUG"
-  },
-  {
-    "chest x-ray": "TEST"
   },
   {
     "alcohol abuse": "PROBLEM"
@@ -42,21 +36,6 @@
     "blood pressure": "TEST"
   },
   {
-    "HEENT": "TEST"
-  },
-  {
-    "NECK": "TEST"
-  },
-  {
-    "LUNGS": "TEST"
-  },
-  {
-    "HEART": "TEST"
-  },
-  {
-    "ABDOMEN": "TEST"
-  },
-  {
     "white blood cell count": "TEST"
   },
   {
@@ -81,30 +60,12 @@
     "potassium": "TEST"
   },
   {
-    "chest": "TEST"
+    "X-ray": "TEST"
   },
   {
     "CT scan": "TEST"
   },
   {
     "hyponatremia": "PROBLEM"
-  },
-  {
-    "air under the diaphragm": "PROBLEM"
-  },
-  {
-    "intra-abdominal pathology": "PROBLEM"
-  },
-  {
-    "abdominal": "PROBLEM"
-  },
-  {
-    "pathology": "PROBLEM"
-  },
-  {
-    "obtunded": "PROBLEM"
-  },
-  {
-    "diaphragm": "PROBLEM"
   }
 ]

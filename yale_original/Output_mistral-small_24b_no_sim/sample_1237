@@ -3,6 +3,9 @@
     "morbid obesity": "PROBLEM"
   },
   {
+    "nonsurgical weight loss": "TREATMENT"
+  },
+  {
     "Morbid obesity": "PROBLEM"
   },
   {
@@ -27,13 +30,19 @@
     "pain": "PROBLEM"
   },
   {
+    "Ms.": "PROBLEM"
+  },
+  {
     "morbid obesity": "PROBLEM"
   },
   {
-    "weight loss": "PROBLEM"
+    "weight loss": "TREATMENT"
   },
   {
     "gastric bypass": "TREATMENT"
+  },
+  {
+    "Ms.": "PROBLEM"
   },
   {
     "hemodynamically stable": "PROBLEM"
@@ -48,22 +57,31 @@
     "clear liquid diet": "TREATMENT"
   },
   {
-    "p.o.": "DRUG"
+    "ambulated": "PROBLEM"
   },
   {
-    "pain": "PROBLEM"
+    "Pain": "PROBLEM"
   },
   {
-    "ambulating": "TEST"
+    "p.o.": "TREATMENT"
   },
   {
-    "liquid diet": "TREATMENT"
+    "pain medicine": "DRUG"
+  },
+  {
+    "ambulating": "TREATMENT"
   },
   {
     "Liquid diet": "TREATMENT"
   },
   {
-    "greater than 10 pounds": "TEST"
+    "pureed": "TREATMENT"
+  },
+  {
+    "soft": "TREATMENT"
+  },
+  {
+    "lifting": "TREATMENT"
   },
   {
     "strenuous activity": "PROBLEM"
@@ -73,6 +91,12 @@
   },
   {
     "narcotic pain medicine": "DRUG"
+  },
+  {
+    "wounds": "PROBLEM"
+  },
+  {
+    "postoperative evaluation": "TEST"
   },
   {
     "shortness of breath": "PROBLEM"
@@ -103,6 +127,9 @@
   },
   {
     "abdominal pain": "PROBLEM"
+  },
+  {
+    "discharge medications": "DRUG"
   },
   {
     "Lortab Elixir": "DRUG"

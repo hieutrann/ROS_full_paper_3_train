@@ -1,30 +1,21 @@
 [
   {
-    "Discharge Summary": "TEST"
+    "Hip Surgery": "TREATMENT"
   },
   {
-    "Hip Surgery": "TEST"
+    "hip surgery": "TREATMENT"
   },
   {
-    "Discharge Summary": "TEST"
+    "total hip replacement": "TREATMENT"
   },
   {
-    "Hip Surgery": "TEST"
-  },
-  {
-    "Decreased ability to perform daily living activity": "PROBLEM"
-  },
-  {
-    "right hip surgery": "PROBLEM"
-  },
-  {
-    "total hip replacement": "PROBLEM"
-  },
-  {
-    "low-grade fever": "PROBLEM"
+    "fever": "PROBLEM"
   },
   {
     "Transitional Care Unit": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
   },
   {
     "Coumadin": "DRUG"
@@ -39,10 +30,13 @@
     "bowel movement": "PROBLEM"
   },
   {
-    "right calf discomfort": "PROBLEM"
+    "surgery": "TREATMENT"
   },
   {
-    "right hip pain": "PROBLEM"
+    "calf discomfort": "PROBLEM"
+  },
+  {
+    "hip pain": "PROBLEM"
   },
   {
     "drug allergies": "PROBLEM"
@@ -54,16 +48,10 @@
     "depression": "PROBLEM"
   },
   {
-    "osteoarthritis": "PROBLEM"
+    "osteoporosis": "PROBLEM"
   },
   {
     "migraine headaches": "PROBLEM"
-  },
-  {
-    "sciatic pain": "PROBLEM"
-  },
-  {
-    "herniated disc": "PROBLEM"
   },
   {
     "appendectomy": "TREATMENT"
@@ -99,13 +87,10 @@
     "Paxil": "DRUG"
   },
   {
-    "FAMILY HISTORY": "TEST"
+    "Noncontributory": "PROBLEM"
   },
   {
     "smoking": "PROBLEM"
-  },
-  {
-    "REVIEW OF SYSTEMS": "TEST"
   },
   {
     "migraine headaches": "PROBLEM"
@@ -114,25 +99,25 @@
     "menstrual cycle": "PROBLEM"
   },
   {
+    "glasses": "TREATMENT"
+  },
+  {
     "floaters": "PROBLEM"
   },
   {
-    "low-grade temperature": "PROBLEM"
+    "temperature": "TEST"
   },
   {
-    "mild intermittent cough": "PROBLEM"
+    "cough": "PROBLEM"
   },
   {
-    "scratchy throat": "PROBLEM"
+    "throat": "PROBLEM"
   },
   {
-    "intermittent right calf pain": "PROBLEM"
+    "calf pain": "PROBLEM"
   },
   {
     "Homans sign": "TEST"
-  },
-  {
-    "cardiopulmonary symptoms": "PROBLEM"
   },
   {
     "chest pain": "PROBLEM"
@@ -168,6 +153,9 @@
     "bowel movement": "TEST"
   },
   {
+    "surgery": "TREATMENT"
+  },
+  {
     "dysuria": "PROBLEM"
   },
   {
@@ -178,6 +166,9 @@
   },
   {
     "voiding difficulties": "PROBLEM"
+  },
+  {
+    "menstrual cycle": "PROBLEM"
   },
   {
     "vasectomy": "TREATMENT"
@@ -198,19 +189,19 @@
     "O2 saturation": "TEST"
   },
   {
-    "acute distress": "PROBLEM"
+    "exam": "TEST"
   },
   {
-    "HEENT": "TEST"
+    "Normocephalic": "PROBLEM"
   },
   {
-    "Sclerae": "PROBLEM"
+    "Sclerae": "TEST"
   },
   {
     "EOMI": "PROBLEM"
   },
   {
-    "Dentition": "PROBLEM"
+    "Dentition": "TEST"
   },
   {
     "Trachea": "TEST"
@@ -219,34 +210,34 @@
     "LUNGS": "TEST"
   },
   {
-    "HEART": "PROBLEM"
+    "Regular rate and rhythm": "TEST"
   },
   {
     "Bowel sounds": "TEST"
   },
   {
-    "Soft and nontender": "PROBLEM"
+    "nontender": "PROBLEM"
   },
   {
-    "Right hip incision": "TREATMENT"
+    "hip incision": "TREATMENT"
   },
   {
-    "diffuse edema": "PROBLEM"
+    "edema": "PROBLEM"
   },
   {
     "calf tenderness": "PROBLEM"
   },
   {
-    "Homans sign": "PROBLEM"
+    "Homans sign": "TEST"
   },
   {
     "pedal edema": "PROBLEM"
   },
   {
-    "Alert and oriented x3": "TEST"
+    "oriented": "PROBLEM"
   },
   {
-    "pleasant and cooperative": "TEST"
+    "exam": "TEST"
   },
   {
     "chemistry panel": "TEST"
@@ -282,10 +273,10 @@
     "platelets": "TEST"
   },
   {
-    "IMPRESSION": "PROBLEM"
+    "IMPRESSION": "TEST"
   },
   {
-    "total hip replacement": "TREATMENT"
+    "hip replacement": "TREATMENT"
   },
   {
     "TCU": "TREATMENT"
@@ -297,7 +288,7 @@
     "Occupational Therapy": "TREATMENT"
   },
   {
-    "2": "TEST"
+    "2": "TREATMENT"
   },
   {
     "anemia": "PROBLEM"
@@ -306,16 +297,16 @@
     "Feosol": "DRUG"
   },
   {
-    "3": "PROBLEM"
+    "3": "TREATMENT"
   },
   {
-    "Pain management": "PROBLEM"
+    "Pain management": "TREATMENT"
   },
   {
     "Oxycodone SR": "DRUG"
   },
   {
-    "oxycodone IR": "DRUG"
+    "Oxycodone IR": "DRUG"
   },
   {
     "pain": "PROBLEM"
@@ -348,7 +339,7 @@
     "Celebrex": "DRUG"
   },
   {
-    "6": "PROBLEM"
+    "6": "TEST"
   },
   {
     "Protonix": "DRUG"
@@ -360,13 +351,7 @@
     "lactulose": "TREATMENT"
   },
   {
-    "basis": "DRUG"
-  },
-  {
     "Colace": "DRUG"
-  },
-  {
-    "7": "PROBLEM"
   },
   {
     "Arixtra": "DRUG"
@@ -384,19 +369,13 @@
     "8": "TEST"
   },
   {
-    "Right leg muscle spasm": "PROBLEM"
+    "muscle spasm": "PROBLEM"
   },
   {
     "calf pain": "PROBLEM"
   },
   {
     "DVT": "PROBLEM"
-  },
-  {
-    "discharge summary": "TREATMENT"
-  },
-  {
-    "decreased ability": "PROBLEM"
   },
   {
     "hip surgery": "TREATMENT"
@@ -409,5 +388,8 @@
   },
   {
     "occupational therapy": "TREATMENT"
+  },
+  {
+    "decreased ability": "PROBLEM"
   }
 ]

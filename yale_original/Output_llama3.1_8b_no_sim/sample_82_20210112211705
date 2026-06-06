@@ -1,0 +1,176 @@
+[
+  {
+    "COPD": "PROBLEM"
+  },
+  {
+    "bronchospasm": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "respiratory secretions": "PROBLEM"
+  },
+  {
+    "wheezings": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "COPD": "PROBLEM"
+  },
+  {
+    "bronchospasm": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "respiratory secretions": "PROBLEM"
+  },
+  {
+    "wheeze": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "asthmatic bronchitis": "PROBLEM"
+  },
+  {
+    "COPD": "PROBLEM"
+  },
+  {
+    "dyspneic": "PROBLEM"
+  },
+  {
+    "wheezing": "PROBLEM"
+  },
+  {
+    "smoking": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "diaphoresis": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "aortic valve implantation": "TREATMENT"
+  },
+  {
+    "Coumadin": "DRUG"
+  },
+  {
+    "COPD": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "cholesterol": "PROBLEM"
+  },
+  {
+    "mechanical click": "PROBLEM"
+  },
+  {
+    "rales": "PROBLEM"
+  },
+  {
+    "rhonchi": "PROBLEM"
+  },
+  {
+    "Sodium": "TEST"
+  },
+  {
+    "potassium": "TEST"
+  },
+  {
+    "BUN": "TEST"
+  },
+  {
+    "creatinine": "TEST"
+  },
+  {
+    "Hemoglobin": "TEST"
+  },
+  {
+    "Hematocrit": "TEST"
+  },
+  {
+    "intravenous antibiotics": "DRUG"
+  },
+  {
+    "Solu-Medrol": "DRUG"
+  },
+  {
+    "vigorous respiratory therapy": "TREATMENT"
+  },
+  {
+    "regimen": "TREATMENT"
+  },
+  {
+    "CHF": "PROBLEM"
+  },
+  {
+    "cortisone": "DRUG"
+  },
+  {
+    "Chronic obstructive pulmonary disease": "PROBLEM"
+  },
+  {
+    "acute asthmatic bronchitis": "PROBLEM"
+  },
+  {
+    "None": "PROBLEM"
+  },
+  {
+    "Guarded": "PROBLEM"
+  },
+  {
+    "Prednisone": "DRUG"
+  },
+  {
+    "Keflex": "DRUG"
+  },
+  {
+    "pneumococcal vaccination": "DRUG"
+  },
+  {
+    "asthmatic bronchitis": "PROBLEM"
+  },
+  {
+    "asthmatic bronchitis": "PROBLEM"
+  },
+  {
+    "asthmatic": "PROBLEM"
+  },
+  {
+    "copd": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "wheezings": "PROBLEM"
+  },
+  {
+    "respiratory secretions": "PROBLEM"
+  },
+  {
+    "respiratory": "PROBLEM"
+  },
+  {
+    "breath": "PROBLEM"
+  }
+]

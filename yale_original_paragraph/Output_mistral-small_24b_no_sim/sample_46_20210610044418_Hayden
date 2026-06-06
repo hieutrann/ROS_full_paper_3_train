@@ -1,6 +1,6 @@
 [
   {
-    "Bilateral l5 spondylolysis": "PROBLEM"
+    "spondylolysis": "PROBLEM"
   },
   {
     "pars defects": "PROBLEM"
@@ -21,7 +21,7 @@
     "buttock": "PROBLEM"
   },
   {
-    "bilateral leg pain": "PROBLEM"
+    "leg pain": "PROBLEM"
   },
   {
     "L5 Gill procedure": "TREATMENT"
@@ -48,33 +48,18 @@
     "pedicle fixation": "TREATMENT"
   },
   {
-    "p. o. fluids": "TREATMENT"
+    "pain medication": "DRUG"
+  },
+  {
+    "medications": "DRUG"
+  },
+  {
+    "fluids": "TREATMENT"
   },
   {
     "diet": "TREATMENT"
   },
   {
-    "preoperative pain medication": "DRUG"
-  },
-  {
-    "other medications": "DRUG"
-  },
-  {
-    "discharge summary": "TEST"
-  },
-  {
-    "spinal instability": "PROBLEM"
-  },
-  {
-    "pars defects": "PROBLEM"
-  },
-  {
-    "radiculopathy": "PROBLEM"
-  },
-  {
-    "spondylolysis": "PROBLEM"
-  },
-  {
-    "leg": "PROBLEM"
+    "wounds": "PROBLEM"
   }
 ]

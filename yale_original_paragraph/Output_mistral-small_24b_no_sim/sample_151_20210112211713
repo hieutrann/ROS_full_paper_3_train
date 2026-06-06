@@ -1,18 +1,18 @@
 [
   {
-    "Cholecystitis": "PROBLEM"
+    "cholecystitis": "PROBLEM"
   },
   {
     "choledocholithiasis": "PROBLEM"
   },
   {
-    "Laparoscopic cholecystectomy": "TREATMENT"
+    "laparoscopic cholecystectomy": "TREATMENT"
   },
   {
-    "laparoscopy": "TEST"
+    "laparoscopy": "TREATMENT"
   },
   {
-    "open common bile duct exploration": "TREATMENT"
+    "common bile duct exploration": "TREATMENT"
   },
   {
     "stone extraction": "TREATMENT"
@@ -24,16 +24,16 @@
     "choledocholithiasis": "PROBLEM"
   },
   {
-    "Roux-en-Y gastric bypass": "TREATMENT"
+    "roux-en-y gastric bypass": "TREATMENT"
   },
   {
-    "laparoscopic paraventral hernia": "PROBLEM"
+    "laparoscopic paraventral hernia": "TREATMENT"
   },
   {
     "sleep apnea": "PROBLEM"
   },
   {
-    "morbid obesity": "PROBLEM"
+    "Morbid obesity": "PROBLEM"
   },
   {
     "bmi": "TEST"
@@ -42,7 +42,7 @@
     "Laparoscopic cholecystectomy": "TREATMENT"
   },
   {
-    "laparoscopy": "TEST"
+    "laparoscopy": "TREATMENT"
   },
   {
     "open common bile duct exploration": "TREATMENT"
@@ -57,34 +57,7 @@
     "cholecystitis": "PROBLEM"
   },
   {
-    "common bile duct stone": "PROBLEM"
-  },
-  {
-    "abdominal pain": "PROBLEM"
-  },
-  {
-    "elevated bilirubin": "PROBLEM"
-  },
-  {
-    "gallstones": "PROBLEM"
-  },
-  {
-    "ultrasound": "TEST"
-  },
-  {
-    "dilated common bile duct": "PROBLEM"
-  },
-  {
     "cholangiogram": "TEST"
-  },
-  {
-    "ERCP": "TEST"
-  },
-  {
-    "stone extraction": "TREATMENT"
-  },
-  {
-    "common bile duct exploration": "TREATMENT"
   },
   {
     "Roux-en-Y gastric bypass": "TREATMENT"
@@ -99,22 +72,7 @@
     "common bile duct exploration": "TREATMENT"
   },
   {
-    "open operation": "TREATMENT"
-  },
-  {
-    "medical surgical unit": "TEST"
-  },
-  {
-    "incisional pain": "PROBLEM"
-  },
-  {
-    "nausea": "PROBLEM"
-  },
-  {
-    "Jackson-Pratt drain": "TEST"
-  },
-  {
-    "serosanguineous fluid": "PROBLEM"
+    "Jackson-Pratt drain": "TREATMENT"
   },
   {
     "white blood cell count": "TEST"
@@ -123,37 +81,13 @@
     "bilirubin": "TEST"
   },
   {
-    "liquid diet": "TREATMENT"
-  },
-  {
-    "Foley catheter": "TEST"
+    "Foley catheter": "TREATMENT"
   },
   {
     "bile leak": "PROBLEM"
   },
   {
-    "regular diet": "TREATMENT"
-  },
-  {
-    "bowels": "TEST"
-  },
-  {
-    "afebrile": "PROBLEM"
-  },
-  {
-    "pain control": "TREATMENT"
-  },
-  {
-    "oral pain medications": "DRUG"
-  },
-  {
-    "Jackson-Pratt drain": "TEST"
-  },
-  {
-    "wound": "PROBLEM"
-  },
-  {
-    "cystic duct": "PROBLEM"
+    "Jackson-Pratt drain": "TREATMENT"
   },
   {
     "laboratory studies": "TEST"
@@ -168,15 +102,39 @@
     "H&H": "TEST"
   },
   {
-    "Jackson-Pratt drain": "TEST"
+    "Jackson-Pratt drain": "TREATMENT"
   },
   {
-    "iron": "DRUG"
+    "iron 325 mg": "DRUG"
   },
   {
     "Lortab elixir": "DRUG"
   },
   {
-    "pain": "PROBLEM"
+    "laparoscopy": "TREATMENT"
+  },
+  {
+    "common bile duct exploration": "TREATMENT"
+  },
+  {
+    "laparoscopic cholecystectomy": "TREATMENT"
+  },
+  {
+    "bile duct": "PROBLEM"
+  },
+  {
+    "choledocholithiasis": "PROBLEM"
+  },
+  {
+    "cholecystectomy": "TREATMENT"
+  },
+  {
+    "cholecystitis": "PROBLEM"
+  },
+  {
+    "laparoscopic": "TREATMENT"
+  },
+  {
+    "hernia": "PROBLEM"
   }
 ]

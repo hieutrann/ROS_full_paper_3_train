@@ -33,37 +33,7 @@
     "Nausea": "PROBLEM"
   },
   {
-    "Vomiting": "PROBLEM"
-  },
-  {
-    "Joint pain": "PROBLEM"
-  },
-  {
-    "TIA": "PROBLEM"
-  },
-  {
-    "Seizure": "PROBLEM"
-  },
-  {
-    "Syncope": "PROBLEM"
-  },
-  {
-    "Cocaine": "PROBLEM"
-  },
-  {
-    "Pulse": "TEST"
-  },
-  {
-    "Blood pressure": "TEST"
-  },
-  {
-    "Weight": "TEST"
-  },
-  {
-    "Liver": "TEST"
-  },
-  {
-    "Pulse ox": "TEST"
+    "Ventricular tachycardia": "PROBLEM"
   },
   {
     "Lasix": "DRUG"
@@ -93,21 +63,6 @@
     "ALT": "TEST"
   },
   {
-    "Gastroenterologist": "TREATMENT"
-  },
-  {
-    "Primary care provider": "TREATMENT"
-  },
-  {
-    "Incision": "TREATMENT"
-  },
-  {
-    "Drainage": "TREATMENT"
-  },
-  {
-    "Medication changes": "TREATMENT"
-  },
-  {
-    "Gastroenterologist": "TREATMENT"
+    "Cocaine": "DRUG"
   }
 ]

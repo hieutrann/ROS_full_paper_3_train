@@ -1,0 +1,32 @@
+[
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "left-sided": "PROBLEM"
+  },
+  {
+    "severe chest tightness": "PROBLEM"
+  },
+  {
+    "psychosomatic": "PROBLEM"
+  },
+  {
+    "supraventricular tachycardia": "PROBLEM"
+  },
+  {
+    "psychological disorders": "PROBLEM"
+  },
+  {
+    "methadone": "DRUG"
+  },
+  {
+    "morphine": "DRUG"
+  },
+  {
+    "nitroglycerin": "TREATMENT"
+  },
+  {
+    "beta-hCG": "TEST"
+  }
+]

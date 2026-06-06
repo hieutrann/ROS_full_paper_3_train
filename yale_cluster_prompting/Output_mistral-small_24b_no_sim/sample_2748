@@ -27,7 +27,13 @@
     "toothache": "PROBLEM"
   },
   {
+    "dental appointments": "TREATMENT"
+  },
+  {
     "facial swelling": "PROBLEM"
+  },
+  {
+    "headache": "PROBLEM"
   },
   {
     "swelling": "PROBLEM"
@@ -36,7 +42,7 @@
     "sore throat": "PROBLEM"
   },
   {
-    "swallowing": "PROBLEM"
+    "difficulty swallowing": "PROBLEM"
   },
   {
     "neck pain": "PROBLEM"
@@ -51,7 +57,16 @@
     "chills": "PROBLEM"
   },
   {
-    "CONSTITUTIONAL": "TEST"
+    "problems": "PROBLEM"
+  },
+  {
+    "complaints": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "chills": "PROBLEM"
   },
   {
     "fatigue": "PROBLEM"
@@ -72,6 +87,9 @@
     "vision change": "PROBLEM"
   },
   {
+    "rhinorrhea": "PROBLEM"
+  },
+  {
     "sinus congestion": "PROBLEM"
   },
   {
@@ -90,19 +108,19 @@
     "toothache": "PROBLEM"
   },
   {
+    "left ear": "PROBLEM"
+  },
+  {
     "ear pain": "PROBLEM"
   },
   {
     "hearing change": "PROBLEM"
   },
   {
-    "ear": "PROBLEM"
+    "pressure": "PROBLEM"
   },
   {
     "chest pain": "PROBLEM"
-  },
-  {
-    "RESPIRATIONS": "TEST"
   },
   {
     "shortness of breath": "PROBLEM"
@@ -132,7 +150,7 @@
     "hearing": "PROBLEM"
   },
   {
-    "No speech change": "PROBLEM"
+    "speech change": "PROBLEM"
   },
   {
     "lymph node swelling": "PROBLEM"
@@ -141,10 +159,13 @@
     "ALLERGIES": "PROBLEM"
   },
   {
+    "DRUG ALLERGIES": "PROBLEM"
+  },
+  {
     "marijuana": "DRUG"
   },
   {
-    "VITAL SIGNS": "TEST"
+    "cigarettes": "DRUG"
   },
   {
     "Temperature": "TEST"
@@ -162,13 +183,34 @@
     "oxygen saturation": "TEST"
   },
   {
+    "room air": "TREATMENT"
+  },
+  {
+    "well nourished": "PROBLEM"
+  },
+  {
+    "well developed": "PROBLEM"
+  },
+  {
+    "acute distress": "PROBLEM"
+  },
+  {
+    "atraumatic": "PROBLEM"
+  },
+  {
+    "normocephalic": "PROBLEM"
+  },
+  {
+    "nontender": "PROBLEM"
+  },
+  {
+    "Eyes": "PROBLEM"
+  },
+  {
     "cornea": "PROBLEM"
   },
   {
     "conjunctivae": "PROBLEM"
-  },
-  {
-    "Nose": "PROBLEM"
   },
   {
     "rhinorrhea": "PROBLEM"
@@ -177,7 +219,7 @@
     "congestion": "PROBLEM"
   },
   {
-    "sinuses": "PROBLEM"
+    "tenderness": "PROBLEM"
   },
   {
     "infection": "PROBLEM"
@@ -190,6 +232,18 @@
   },
   {
     "Tympanic membranes": "TEST"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "bulging": "PROBLEM"
+  },
+  {
+    "air fluid levels": "PROBLEM"
+  },
+  {
+    "bubbles": "PROBLEM"
   },
   {
     "dental fracture": "PROBLEM"
@@ -222,6 +276,9 @@
     "tooth #18": "PROBLEM"
   },
   {
+    "tenderness": "PROBLEM"
+  },
+  {
     "infection": "PROBLEM"
   },
   {
@@ -237,34 +294,61 @@
     "swelling": "PROBLEM"
   },
   {
+    "mucous membranes": "PROBLEM"
+  },
+  {
     "tenderness": "PROBLEM"
   },
   {
     "swelling": "PROBLEM"
   },
   {
-    "lymphadenopathy": "PROBLEM"
+    "abscess": "PROBLEM"
+  },
+  {
+    "pre auricular lymphadenopathy": "PROBLEM"
+  },
+  {
+    "post auricular lymphadenopathy": "PROBLEM"
+  },
+  {
+    "Supple": "PROBLEM"
+  },
+  {
+    "range of motion": "TEST"
+  },
+  {
+    "meningismus": "PROBLEM"
   },
   {
     "cervical lymphadenopathy": "PROBLEM"
   },
   {
-    "JVD": "TEST"
+    "JVD": "PROBLEM"
   },
   {
-    "carotid artery": "TEST"
+    "carotid artery": "PROBLEM"
   },
   {
-    "vertebral artery": "TEST"
+    "vertebral artery": "PROBLEM"
   },
   {
     "bruits": "PROBLEM"
   },
   {
-    "Heart": "PROBLEM"
+    "murmur": "PROBLEM"
   },
   {
-    "RESPIRATIONS": "TEST"
+    "rub": "PROBLEM"
+  },
+  {
+    "gallop": "PROBLEM"
+  },
+  {
+    "RESPIRATIONS": "PROBLEM"
+  },
+  {
+    "auscultation": "TEST"
   },
   {
     "shortness of breath": "PROBLEM"
@@ -273,19 +357,49 @@
     "Abdomen": "PROBLEM"
   },
   {
+    "abnormalities": "PROBLEM"
+  },
+  {
+    "extremities": "PROBLEM"
+  },
+  {
     "rashes": "PROBLEM"
   },
   {
     "lesions": "PROBLEM"
   },
   {
-    "NEUROLOGIC": "TEST"
+    "NEUROLOGIC": "PROBLEM"
   },
   {
-    "alert and oriented x4": "TEST"
+    "Cranial nerves": "TEST"
+  },
+  {
+    "speech": "PROBLEM"
+  },
+  {
+    "ambulation": "PROBLEM"
+  },
+  {
+    "alert": "PROBLEM"
+  },
+  {
+    "oriented x4": "PROBLEM"
+  },
+  {
+    "mood": "PROBLEM"
+  },
+  {
+    "affect": "PROBLEM"
+  },
+  {
+    "clinical intoxification": "PROBLEM"
   },
   {
     "lymphadenitis": "PROBLEM"
+  },
+  {
+    "DIAGNOSES": "PROBLEM"
   },
   {
     "ACUTE LEFT JAW PAIN": "PROBLEM"
@@ -303,7 +417,13 @@
     "Stable": "PROBLEM"
   },
   {
-    "Motrin": "DRUG"
+    "dentist": "PROBLEM"
+  },
+  {
+    "reevaluation": "TEST"
+  },
+  {
+    "Motrin 400 mg q.6h": "DRUG"
   },
   {
     "pain": "PROBLEM"
@@ -312,7 +432,10 @@
     "Vicodin": "DRUG"
   },
   {
-    "pain": "PROBLEM"
+    "breakthrough pain": "PROBLEM"
+  },
+  {
+    "uncontrolled pain": "PROBLEM"
   },
   {
     "drowsiness": "PROBLEM"
@@ -330,13 +453,19 @@
     "toothache": "PROBLEM"
   },
   {
-    "emergency room": "TEST"
+    "emergency room": "TREATMENT"
+  },
+  {
+    "condition": "PROBLEM"
+  },
+  {
+    "symptoms": "PROBLEM"
   },
   {
     "jaw pain": "PROBLEM"
   },
   {
-    "dental appointment": "TEST"
+    "dental appointment": "TREATMENT"
   },
   {
     "ellis type ii fracture": "PROBLEM"

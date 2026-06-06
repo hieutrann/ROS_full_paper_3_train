@@ -27,19 +27,10 @@
     "anemia": "PROBLEM"
   },
   {
-    "port a cath": "TREATMENT"
+    "port a cath": "TEST"
   },
   {
-    "total knee arthroplasty": "TREATMENT"
-  },
-  {
-    "Neurontin": "DRUG"
-  },
-  {
-    "Anodyne physical therapy": "TREATMENT"
-  },
-  {
-    "Hemoccult cards": "TEST"
+    "total knee arthroplasty": "TEST"
   },
   {
     "CBC": "TEST"
@@ -51,9 +42,18 @@
     "ferritin": "TEST"
   },
   {
-    "DT immunization": "TREATMENT"
+    "Hemoccult cards": "TEST"
   },
   {
-    "flu shot": "TREATMENT"
+    "DT immunization": "TEST"
+  },
+  {
+    "Neurontin": "DRUG"
+  },
+  {
+    "Anodyne physical therapy": "TREATMENT"
+  },
+  {
+    "Ambien": "DRUG"
   }
 ]

@@ -1,8 +1,5 @@
 [
   {
-    "VITAL SIGNS": "TEST"
-  },
-  {
     "blood pressure": "TEST"
   },
   {
@@ -18,6 +15,24 @@
     "Funduscopic examination": "TEST"
   },
   {
+    "Tympanic membranes": "TEST"
+  },
+  {
+    "Trachea": "PROBLEM"
+  },
+  {
+    "Thyroid": "PROBLEM"
+  },
+  {
+    "nodes": "PROBLEM"
+  },
+  {
+    "auscultation": "TEST"
+  },
+  {
+    "respiratory rate": "TEST"
+  },
+  {
     "consolidation": "PROBLEM"
   },
   {
@@ -30,22 +45,43 @@
     "secondary muscle use": "PROBLEM"
   },
   {
+    "breath sounds": "TEST"
+  },
+  {
     "jugular venous distention": "PROBLEM"
   },
   {
     "carotid bruits": "PROBLEM"
   },
   {
+    "percussion": "TEST"
+  },
+  {
+    "heart size": "PROBLEM"
+  },
+  {
     "murmur": "PROBLEM"
   },
   {
+    "S1": "TEST"
+  },
+  {
+    "S2": "TEST"
+  },
+  {
     "gallop": "PROBLEM"
+  },
+  {
+    "palpation": "TEST"
   },
   {
     "organomegaly": "PROBLEM"
   },
   {
     "rebound tenderness": "PROBLEM"
+  },
+  {
+    "Bowel sounds": "TEST"
   },
   {
     "Obturator": "TEST"
@@ -60,7 +96,34 @@
     "flank pain": "PROBLEM"
   },
   {
+    "motor tone": "PROBLEM"
+  },
+  {
+    "strength": "PROBLEM"
+  },
+  {
+    "reflexes": "TEST"
+  },
+  {
+    "joint strength": "PROBLEM"
+  },
+  {
+    "sensation": "PROBLEM"
+  },
+  {
     "Glasgow Coma Scale": "TEST"
+  },
+  {
+    "Cranial nerves": "TEST"
+  },
+  {
+    "motor and cerebellar tests": "TEST"
+  },
+  {
+    "Reflexes": "TEST"
+  },
+  {
+    "lymph nodes": "PROBLEM"
   },
   {
     "bleeding": "PROBLEM"
@@ -79,11 +142,5 @@
   },
   {
     "suicidal ideations": "PROBLEM"
-  },
-  {
-    "jugular venous distention": "PROBLEM"
-  },
-  {
-    "tenderness": "PROBLEM"
   }
 ]

@@ -1,0 +1,92 @@
+[
+  {
+    "Crohn disease": "PROBLEM"
+  },
+  {
+    "Pneumonia": "PROBLEM"
+  },
+  {
+    "Anasarca": "PROBLEM"
+  },
+  {
+    "Anemia": "PROBLEM"
+  },
+  {
+    "protein-losing enteropathy": "PROBLEM"
+  },
+  {
+    "malnutrition": "PROBLEM"
+  },
+  {
+    "lower extremity edema": "PROBLEM"
+  },
+  {
+    "diarrhea": "PROBLEM"
+  },
+  {
+    "crampy abdominal pain": "PROBLEM"
+  },
+  {
+    "leukocytosis": "PROBLEM"
+  },
+  {
+    "Prednisone": "DRUG"
+  },
+  {
+    "Effexor": "DRUG"
+  },
+  {
+    "Folic acid": "DRUG"
+  },
+  {
+    "Norco": "DRUG"
+  },
+  {
+    "IV antibiotics": "DRUG"
+  },
+  {
+    "Streptococcus": "TEST"
+  },
+  {
+    "albumin": "TEST"
+  },
+  {
+    "B12": "TEST"
+  },
+  {
+    "folic acid": "TEST"
+  },
+  {
+    "white count": "TEST"
+  },
+  {
+    "hemoglobin": "TEST"
+  },
+  {
+    "platelet count": "TEST"
+  },
+  {
+    "sedimentation rate": "TEST"
+  },
+  {
+    "C-reactive protein": "TEST"
+  },
+  {
+    "LDH": "TEST"
+  },
+  {
+    "prealbumin": "TEST"
+  },
+  {
+    "thyroid": "TEST"
+  },
+  {
+    "iron studies": "TEST"
+  },
+  {
+    "diuretics": "TREATMENT"
+  },
+  {
+    "gastroenterologist": "TREATMENT"
+  }
+]

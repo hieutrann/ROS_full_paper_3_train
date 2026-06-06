@@ -111,6 +111,9 @@
     "jugular venous distension": "PROBLEM"
   },
   {
+    "organomegaly": "PROBLEM"
+  },
+  {
     "CVA tenderness": "PROBLEM"
   },
   {
@@ -126,13 +129,10 @@
     "edema": "PROBLEM"
   },
   {
-    "Diabetes type II uncontrolled": "PROBLEM"
+    "Diabetes type II": "PROBLEM"
   },
   {
     "Acute cystitis": "PROBLEM"
-  },
-  {
-    "Endocrinology Consult": "TREATMENT"
   },
   {
     "CBC": "TEST"
@@ -163,5 +163,8 @@
   },
   {
     "diabetes": "PROBLEM"
+  },
+  {
+    "abnormalities": "PROBLEM"
   }
 ]

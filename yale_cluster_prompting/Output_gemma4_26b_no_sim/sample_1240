@@ -66,7 +66,7 @@
     "obstructive sleep apnea": "PROBLEM"
   },
   {
-    "band": "TREATMENT"
+    "a band": "TREATMENT"
   },
   {
     "cholelithiasis": "PROBLEM"
@@ -81,7 +81,7 @@
     "diabetes": "PROBLEM"
   },
   {
-    "risk of infection": "PROBLEM"
+    "infection": "PROBLEM"
   },
   {
     "blood glucose check": "TEST"
@@ -90,16 +90,16 @@
     "hyperglycemic": "PROBLEM"
   },
   {
-    "sugar": "TEST"
+    "sugar was 438": "PROBLEM"
   },
   {
     "hyperglycemia": "PROBLEM"
   },
   {
-    "insulin drip": "TREATMENT"
+    "an insulin drip": "TREATMENT"
   },
   {
-    "Her sugars": "TEST"
+    "sugars": "PROBLEM"
   },
   {
     "laparoscopic cholecystectomy": "TREATMENT"
@@ -123,7 +123,7 @@
     "gallbladder": "PROBLEM"
   },
   {
-    "Her blood sugar": "TEST"
+    "blood sugar": "TEST"
   },
   {
     "insulin": "DRUG"
@@ -135,7 +135,7 @@
     "blood glucose": "TEST"
   },
   {
-    "lap band": "TREATMENT"
+    "her lap band": "TREATMENT"
   },
   {
     "wounds": "PROBLEM"

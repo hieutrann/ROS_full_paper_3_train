@@ -93,9 +93,6 @@
     "Atrial fibrillation": "PROBLEM"
   },
   {
-    "RNCA": "PROBLEM"
-  },
-  {
     "intracranial thrombolytic treatment": "TREATMENT"
   },
   {
@@ -171,13 +168,7 @@
     "lymphadenopathy": "PROBLEM"
   },
   {
-    "masses": "PROBLEM"
-  },
-  {
     "Pleural friction rub": "PROBLEM"
-  },
-  {
-    "organomegaly": "PROBLEM"
   },
   {
     "edema": "PROBLEM"
@@ -190,12 +181,6 @@
   },
   {
     "tenderness": "PROBLEM"
-  },
-  {
-    "pulses": "TEST"
-  },
-  {
-    "lesions": "PROBLEM"
   },
   {
     "ulcers": "PROBLEM"
@@ -246,7 +231,7 @@
     "chest pain": "PROBLEM"
   },
   {
-    "bilateral pleural effusion": "PROBLEM"
+    "pleural effusion": "PROBLEM"
   },
   {
     "CT of the chest": "TEST"
@@ -276,7 +261,7 @@
     "PET CT": "TEST"
   },
   {
-    "bilateral pleural pericardial effusions": "PROBLEM"
+    "pleural pericardial effusions": "PROBLEM"
   },
   {
     "lymphadenopathy": "PROBLEM"
@@ -285,13 +270,10 @@
     "acidic fluid": "PROBLEM"
   },
   {
-    "pectoral and intramammary lymph nodes": "PROBLEM"
+    "lymph nodes": "PROBLEM"
   },
   {
     "echocardiogram": "TEST"
-  },
-  {
-    "ejection fraction": "TEST"
   },
   {
     "chemotherapy": "TREATMENT"
@@ -325,41 +307,5 @@
   },
   {
     "INR": "TEST"
-  },
-  {
-    "mesothelioma": "PROBLEM"
-  },
-  {
-    "pleural effusion": "PROBLEM"
-  },
-  {
-    "atrial fibrillation": "PROBLEM"
-  },
-  {
-    "anemia": "PROBLEM"
-  },
-  {
-    "ascites": "PROBLEM"
-  },
-  {
-    "esophageal reflux": "PROBLEM"
-  },
-  {
-    "deep venous thrombosis": "PROBLEM"
-  },
-  {
-    "port-a-cath placement": "TREATMENT"
-  },
-  {
-    "venous thrombosis": "PROBLEM"
-  },
-  {
-    "thrombosis": "PROBLEM"
-  },
-  {
-    "lymphadenopathy": "PROBLEM"
-  },
-  {
-    "pericardectomy": "TREATMENT"
   }
 ]

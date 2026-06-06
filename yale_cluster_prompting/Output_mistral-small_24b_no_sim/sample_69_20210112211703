@@ -3,13 +3,13 @@
     "chest pain": "PROBLEM"
   },
   {
-    "abdominal surgery": "TREATMENT"
-  },
-  {
-    "chest pain": "PROBLEM"
+    "left-sided chest pain": "PROBLEM"
   },
   {
     "abdominal surgery": "TREATMENT"
+  },
+  {
+    "patient": "PROBLEM"
   },
   {
     "laparoscopic appendicectomy": "TREATMENT"
@@ -27,19 +27,13 @@
     "swelling": "PROBLEM"
   },
   {
-    "CONSTITUTIONAL SYMPTOMS": "PROBLEM"
+    "fever": "PROBLEM"
   },
   {
     "cough": "PROBLEM"
   },
   {
-    "left-sided chest pain": "PROBLEM"
-  },
-  {
-    "pain": "PROBLEM"
-  },
-  {
-    "RESPIRATORY": "TEST"
+    "chest pain": "PROBLEM"
   },
   {
     "heart problems": "PROBLEM"
@@ -72,13 +66,7 @@
     "TIA": "PROBLEM"
   },
   {
-    "SOCIAL HISTORY": "TEST"
-  },
-  {
-    "alcohol": "DRUG"
-  },
-  {
-    "PHYSICAL EXAMINATION": "TEST"
+    "87-year-old": "PROBLEM"
   },
   {
     "Oral mucosa": "PROBLEM"
@@ -90,10 +78,13 @@
     "wheezing": "PROBLEM"
   },
   {
+    "crepitations": "PROBLEM"
+  },
+  {
     "tenderness": "PROBLEM"
   },
   {
-    "CARDIOVASCULAR": "TEST"
+    "heart sounds": "TEST"
   },
   {
     "distended": "PROBLEM"
@@ -105,7 +96,10 @@
     "pedal swelling": "PROBLEM"
   },
   {
-    "NEUROLOGIC": "TEST"
+    "alert": "PROBLEM"
+  },
+  {
+    "oriented": "PROBLEM"
   },
   {
     "White count": "TEST"
@@ -129,16 +123,13 @@
     "albumin": "TEST"
   },
   {
-    "appendicitis": "PROBLEM"
+    "ASSESSMENT AND PLAN": "TEST"
   },
   {
-    "surgery": "TREATMENT"
+    "Ruptured appendicitis": "PROBLEM"
   },
   {
-    "oral fluids": "DRUG"
-  },
-  {
-    "bowels": "PROBLEM"
+    "bowels": "TEST"
   },
   {
     "Left-sided chest pain": "PROBLEM"
@@ -157,9 +148,6 @@
   },
   {
     "Fluid retention": "PROBLEM"
-  },
-  {
-    "surgeon": "TREATMENT"
   },
   {
     "Paralytic ileus": "PROBLEM"
@@ -187,8 +175,5 @@
   },
   {
     "laparoscopic appendicectomy": "TREATMENT"
-  },
-  {
-    "surgery": "TREATMENT"
   }
 ]

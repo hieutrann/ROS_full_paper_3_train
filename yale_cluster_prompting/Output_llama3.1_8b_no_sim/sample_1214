@@ -6,34 +6,34 @@
     "cough": "PROBLEM"
   },
   {
-    "increased work of breathing": "PROBLEM"
+    "work of breathing": "PROBLEM"
   },
   {
-    "ADMITTING DIAGNOSES": "TEST"
-  },
-  {
-    "Respiratory distress": "PROBLEM"
-  },
-  {
-    "2": "TREATMENT"
-  },
-  {
-    "Reactive airways disease": "PROBLEM"
-  },
-  {
-    "DISCHARGE DIAGNOSES": "TEST"
+    "ADMITTING DIAGNOSES": "PROBLEM"
   },
   {
     "Respiratory distress": "PROBLEM"
   },
   {
-    "2": "TREATMENT"
+    "2": "TEST"
   },
   {
     "Reactive airways disease": "PROBLEM"
   },
   {
-    "3": "TREATMENT"
+    "DISCHARGE DIAGNOSES": "PROBLEM"
+  },
+  {
+    "Respiratory distress": "PROBLEM"
+  },
+  {
+    "2": "TEST"
+  },
+  {
+    "Reactive airways disease": "PROBLEM"
+  },
+  {
+    "3": "PROBLEM"
   },
   {
     "Pneumonia": "PROBLEM"
@@ -48,46 +48,25 @@
     "increased work of breathing": "PROBLEM"
   },
   {
-    "asthma": "PROBLEM"
-  },
-  {
-    "reactive airways disease": "PROBLEM"
-  },
-  {
-    "nebulized treatments": "TREATMENT"
-  },
-  {
-    "Hospitalist Service": "TREATMENT"
-  },
-  {
-    "Children's Hospital": "TEST"
-  },
-  {
-    "ER": "TEST"
-  },
-  {
-    "emergency room": "TEST"
+    "Children's Hospital": "TREATMENT"
   },
   {
     "albuterol": "DRUG"
   },
   {
-    "respiratory distress": "PROBLEM"
-  },
-  {
-    "inhaled corticosteroids": "DRUG"
-  },
-  {
-    "systemic corticosteroids": "DRUG"
-  },
-  {
-    "x-ray": "TEST"
+    "corticosteroids": "DRUG"
   },
   {
     "infiltrate": "PROBLEM"
   },
   {
     "atelectasis": "PROBLEM"
+  },
+  {
+    "x-ray": "TEST"
+  },
+  {
+    "radiology": "TEST"
   },
   {
     "antibiotics": "DRUG"
@@ -100,12 +79,6 @@
   },
   {
     "CBC": "TEST"
-  },
-  {
-    "white count": "TEST"
-  },
-  {
-    "bands": "TEST"
   },
   {
     "pneumonia": "PROBLEM"
@@ -129,9 +102,6 @@
     "DISCHARGE PHYSICAL EXAMINATION": "TEST"
   },
   {
-    "acute distress": "PROBLEM"
-  },
-  {
     "Oropharynx": "PROBLEM"
   },
   {
@@ -147,7 +117,7 @@
     "Bilateral basilar wheezing": "PROBLEM"
   },
   {
-    "distress": "PROBLEM"
+    "No distress": "PROBLEM"
   },
   {
     "Regular rate and rhythm": "TEST"
@@ -156,7 +126,7 @@
     "murmurs": "PROBLEM"
   },
   {
-    "peripherally": "PROBLEM"
+    "peripherally": "TEST"
   },
   {
     "Bowel sounds": "TEST"
@@ -168,37 +138,34 @@
     "hepatosplenomegaly": "PROBLEM"
   },
   {
-    "masses": "PROBLEM"
-  },
-  {
     "palpation": "TEST"
   },
   {
-    "GENITOURINARY": "TEST"
+    "GENITOURINARY": "PROBLEM"
   },
   {
-    "EXTREMITIES": "TEST"
+    "EXTREMITIES": "PROBLEM"
   },
   {
-    "DISCHARGE INSTRUCTIONS": "TEST"
+    "DISCHARGE INSTRUCTIONS": "TREATMENT"
   },
   {
-    "regular": "TREATMENT"
+    "Activity": "TREATMENT"
   },
   {
-    "2": "TREATMENT"
+    "2": "TEST"
   },
   {
     "Diet": "PROBLEM"
   },
   {
-    "3": "TREATMENT"
+    "3": "PROBLEM"
   },
   {
     "Dr.": "TREATMENT"
   },
   {
-    "X in 2 days": "TEST"
+    "X": "PROBLEM"
   },
   {
     "DISCHARGE MEDICATIONS": "TREATMENT"
@@ -207,19 +174,19 @@
     "Xopenex MDI": "DRUG"
   },
   {
-    "2": "TREATMENT"
+    "2": "TEST"
   },
   {
     "QVAR 40": "DRUG"
   },
   {
-    "3": "TREATMENT"
+    "3": "PROBLEM"
   },
   {
     "Amoxicillin": "DRUG"
   },
   {
-    "daily": "TREATMENT"
+    "twice daily for 10 days": "TREATMENT"
   },
   {
     "4": "TREATMENT"
@@ -228,7 +195,7 @@
     "Zithromax": "DRUG"
   },
   {
-    "p.o.": "TREATMENT"
+    "75 mg": "DRUG"
   },
   {
     "daily for 4 more days": "TREATMENT"
@@ -246,18 +213,6 @@
     "reactive airways disease": "PROBLEM"
   },
   {
-    "respiratory distress": "PROBLEM"
-  },
-  {
     "asthma": "PROBLEM"
-  },
-  {
-    "discharge summary": "TEST"
-  },
-  {
-    "onset of cough": "TEST"
-  },
-  {
-    "respiratory": "TEST"
   }
 ]

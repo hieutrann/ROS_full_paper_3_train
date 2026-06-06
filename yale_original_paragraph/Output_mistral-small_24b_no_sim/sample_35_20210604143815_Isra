@@ -1,0 +1,137 @@
+[
+  {
+    "temperature": "TEST"
+  },
+  {
+    "hip pain": "PROBLEM"
+  },
+  {
+    "degenerative disk disease": "PROBLEM"
+  },
+  {
+    "inguinal nodes": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "chills": "PROBLEM"
+  },
+  {
+    "pelvic pain": "PROBLEM"
+  },
+  {
+    "blood studies": "TEST"
+  },
+  {
+    "cultures": "TEST"
+  },
+  {
+    "febrile agglutinins": "TEST"
+  },
+  {
+    "blood glucose": "TEST"
+  },
+  {
+    "x-rays": "TEST"
+  },
+  {
+    "MRIs": "TEST"
+  },
+  {
+    "diabetic": "PROBLEM"
+  },
+  {
+    "hypertensive": "PROBLEM"
+  },
+  {
+    "hyperlipidemia": "PROBLEM"
+  },
+  {
+    "thyroid problems": "PROBLEM"
+  },
+  {
+    "asthma": "PROBLEM"
+  },
+  {
+    "bronchitis": "PROBLEM"
+  },
+  {
+    "TB": "PROBLEM"
+  },
+  {
+    "emphysema": "PROBLEM"
+  },
+  {
+    "pneumonia": "PROBLEM"
+  },
+  {
+    "tuberculosis": "PROBLEM"
+  },
+  {
+    "breast tumors": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "cardiac problems": "PROBLEM"
+  },
+  {
+    "gallbladder surgery": "TREATMENT"
+  },
+  {
+    "gastritis": "PROBLEM"
+  },
+  {
+    "ulcers": "PROBLEM"
+  },
+  {
+    "kidney disease": "PROBLEM"
+  },
+  {
+    "hysterectomy": "TREATMENT"
+  },
+  {
+    "A&P repair": "TREATMENT"
+  },
+  {
+    "sacral abscess": "PROBLEM"
+  },
+  {
+    "spinal": "TREATMENT"
+  },
+  {
+    "pilonidal cyst": "PROBLEM"
+  },
+  {
+    "fractures": "PROBLEM"
+  },
+  {
+    "arthritis": "PROBLEM"
+  },
+  {
+    "bone scan": "TEST"
+  },
+  {
+    "infection": "PROBLEM"
+  },
+  {
+    "white count": "TEST"
+  },
+  {
+    "brucellosis": "PROBLEM"
+  },
+  {
+    "titers": "TEST"
+  },
+  {
+    "antibiotics": "DRUG"
+  },
+  {
+    "Motrin": "DRUG"
+  },
+  {
+    "Darvocet": "DRUG"
+  }
+]

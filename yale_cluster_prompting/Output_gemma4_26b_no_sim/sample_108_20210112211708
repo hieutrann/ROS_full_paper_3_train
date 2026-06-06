@@ -24,7 +24,7 @@
     "speech therapy": "TREATMENT"
   },
   {
-    "therapy": "TREATMENT"
+    "initial evaluation": "TEST"
   },
   {
     "oral mechanism examination": "TEST"
@@ -70,5 +70,8 @@
   },
   {
     "speech therapy": "TREATMENT"
+  },
+  {
+    "speech": "PROBLEM"
   }
 ]

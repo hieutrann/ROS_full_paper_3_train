@@ -63,10 +63,19 @@
     "obstructive sleep apnea": "PROBLEM"
   },
   {
+    "band": "TREATMENT"
+  },
+  {
     "cholelithiasis": "PROBLEM"
   },
   {
     "diabetes": "PROBLEM"
+  },
+  {
+    "infection": "PROBLEM"
+  },
+  {
+    "band": "TREATMENT"
   },
   {
     "blood glucose check": "TEST"
@@ -102,6 +111,9 @@
     "sliding scale insulin": "DRUG"
   },
   {
+    "Medifast diet": "TREATMENT"
+  },
+  {
     "blood glucose": "TEST"
   },
   {
@@ -117,13 +129,16 @@
     "sugars": "TEST"
   },
   {
-    "medifast diet": "TREATMENT"
+    "medifast": "TREATMENT"
   },
   {
     "hyperglycemia": "PROBLEM"
   },
   {
     "laparoscopic cholecystectomy": "TREATMENT"
+  },
+  {
+    "medifast diet": "TREATMENT"
   },
   {
     "cholecystitis": "PROBLEM"

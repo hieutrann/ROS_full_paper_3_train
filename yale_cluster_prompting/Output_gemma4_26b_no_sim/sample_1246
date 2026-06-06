@@ -54,13 +54,7 @@
     "PCA": "TREATMENT"
   },
   {
-    "pain": "PROBLEM"
-  },
-  {
     "CPAP": "TREATMENT"
-  },
-  {
-    "cardiopulmonary complaints": "PROBLEM"
   },
   {
     "labs": "TEST"
@@ -70,9 +64,6 @@
   },
   {
     "fever": "PROBLEM"
-  },
-  {
-    "symptoms": "PROBLEM"
   },
   {
     "drains": "TREATMENT"
@@ -99,12 +90,15 @@
     "roux-en-y": "TREATMENT"
   },
   {
+    "bariatric clear liquids": "TREATMENT"
+  },
+  {
     "gastric bypass": "TREATMENT"
   },
   {
     "laparoscopic": "TREATMENT"
   },
   {
-    "bypass": "TREATMENT"
+    "gastric bypass": "TREATMENT"
   }
 ]

@@ -1,0 +1,119 @@
+[
+  {
+    "Respiratory distress syndrome": "PROBLEM"
+  },
+  {
+    "intrauterine growth restriction": "PROBLEM"
+  },
+  {
+    "thrombocytopenia": "PROBLEM"
+  },
+  {
+    "hypoglycemia": "PROBLEM"
+  },
+  {
+    "retinal immaturity": "PROBLEM"
+  },
+  {
+    "low amniotic fluid index": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "preeclampsia": "PROBLEM"
+  },
+  {
+    "C-section": "TREATMENT"
+  },
+  {
+    "nonreassuring fetal status": "PROBLEM"
+  },
+  {
+    "Apgar scores": "TEST"
+  },
+  {
+    "TPN": "TREATMENT"
+  },
+  {
+    "abdominal distention": "PROBLEM"
+  },
+  {
+    "IV D10 water": "TREATMENT"
+  },
+  {
+    "Mylicon drops": "DRUG"
+  },
+  {
+    "glycerin suppositories": "DRUG"
+  },
+  {
+    "Abdominal ultrasound": "TEST"
+  },
+  {
+    "gaseous distention": "PROBLEM"
+  },
+  {
+    "obstruction": "PROBLEM"
+  },
+  {
+    "OG tube": "TREATMENT"
+  },
+  {
+    "Reglan": "DRUG"
+  },
+  {
+    "NeoSure": "DRUG"
+  },
+  {
+    "apnea spells": "PROBLEM"
+  },
+  {
+    "bradycardia": "PROBLEM"
+  },
+  {
+    "desaturations": "PROBLEM"
+  },
+  {
+    "hypoglycemic episodes": "PROBLEM"
+  },
+  {
+    "Blood glucose level": "TEST"
+  },
+  {
+    "D10": "DRUG"
+  },
+  {
+    "Diazoxide": "DRUG"
+  },
+  {
+    "fingersticks": "TEST"
+  },
+  {
+    "closed PDA": "PROBLEM"
+  },
+  {
+    "cardiac echograms": "TEST"
+  },
+  {
+    "head ultrasound": "TEST"
+  },
+  {
+    "intracranial abnormalities": "PROBLEM"
+  },
+  {
+    "intracranial hemorrhage": "PROBLEM"
+  },
+  {
+    "phototherapy": "TREATMENT"
+  },
+  {
+    "iron": "TREATMENT"
+  },
+  {
+    "immature retina": "PROBLEM"
+  },
+  {
+    "Calcium challenge": "TEST"
+  }
+]

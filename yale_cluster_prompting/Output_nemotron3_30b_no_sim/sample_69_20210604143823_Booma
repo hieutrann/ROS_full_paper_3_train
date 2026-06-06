@@ -1,0 +1,191 @@
+[
+  {
+    "Sample Type / Medical Specialty: General Medicine": "TEST"
+  },
+  {
+    "Sample Name: Normal Male Exam Template": "TEST"
+  },
+  {
+    "Description: Sample/template for a normal male multisystem exam.": "TEST"
+  },
+  {
+    "afebrile": "PROBLEM"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "heart rate": "TEST"
+  },
+  {
+    "alert": "PROBLEM"
+  },
+  {
+    "conjunctiva": "PROBLEM"
+  },
+  {
+    "pupil": "PROBLEM"
+  },
+  {
+    "ptosis": "PROBLEM"
+  },
+  {
+    "irides": "PROBLEM"
+  },
+  {
+    "EARS, NOSE AND THROAT": "PROBLEM"
+  },
+  {
+    "Hearing": "TEST"
+  },
+  {
+    "moist": "PROBLEM"
+  },
+  {
+    "lesion": "PROBLEM"
+  },
+  {
+    "tonsil or posterior pharynx": "PROBLEM"
+  },
+  {
+    "supple": "PROBLEM"
+  },
+  {
+    "thyroid gland": "PROBLEM"
+  },
+  {
+    "respiratory effort": "PROBLEM"
+  },
+  {
+    "Auscultation of the lung": "TEST"
+  },
+  {
+    "S1": "PROBLEM"
+  },
+  {
+    "S2": "PROBLEM"
+  },
+  {
+    "murmur": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "soft": "PROBLEM"
+  },
+  {
+    "nontender": "PROBLEM"
+  },
+  {
+    "rebound": "PROBLEM"
+  },
+  {
+    "guarding": "PROBLEM"
+  },
+  {
+    "enlarged liver": "PROBLEM"
+  },
+  {
+    "enlarged spleen": "PROBLEM"
+  },
+  {
+    "Bowel sounds": "PROBLEM"
+  },
+  {
+    "scrotal elements": "PROBLEM"
+  },
+  {
+    "testes": "PROBLEM"
+  },
+  {
+    "lesion": "PROBLEM"
+  },
+  {
+    "discharge": "PROBLEM"
+  },
+  {
+    "no appreciated node": "PROBLEM"
+  },
+  {
+    "inspection": "TEST"
+  },
+  {
+    "deformity": "PROBLEM"
+  },
+  {
+    "Range of motion": "PROBLEM"
+  },
+  {
+    "Inspection of the skin and subcutaneous tissues appeared to be normal": "PROBLEM"
+  },
+  {
+    "pink": "PROBLEM"
+  },
+  {
+    "warm": "PROBLEM"
+  },
+  {
+    "dry": "PROBLEM"
+  },
+  {
+    "symmetrical at the patellar area": "TEST"
+  },
+  {
+    "Sensation": "PROBLEM"
+  },
+  {
+    "oriented to time, place and person": "PROBLEM"
+  },
+  {
+    "judgment and insight": "PROBLEM"
+  },
+  {
+    "general medicine": "PROBLEM"
+  },
+  {
+    "within normal limits": "PROBLEM"
+  },
+  {
+    "conjunctiva": "PROBLEM"
+  },
+  {
+    "eyes": "PROBLEM"
+  },
+  {
+    "ears": "PROBLEM"
+  },
+  {
+    "nose": "PROBLEM"
+  },
+  {
+    "throat": "PROBLEM"
+  },
+  {
+    "male": "PROBLEM"
+  },
+  {
+    "multisystem": "PROBLEM"
+  },
+  {
+    "heart": "PROBLEM"
+  },
+  {
+    "respiratory": "PROBLEM"
+  },
+  {
+    "auscultation": "TEST"
+  },
+  {
+    "extremities": "TEST"
+  },
+  {
+    "oropharynx": "PROBLEM"
+  },
+  {
+    "neck": "PROBLEM"
+  },
+  {
+    "tongue": "PROBLEM"
+  }
+]

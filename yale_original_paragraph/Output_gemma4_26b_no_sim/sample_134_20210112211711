@@ -27,7 +27,10 @@
     "visual field defects": "PROBLEM"
   },
   {
-    "hearing or balance problems": "PROBLEM"
+    "hearing problems": "PROBLEM"
+  },
+  {
+    "balance problems": "PROBLEM"
   },
   {
     "runny nose": "PROBLEM"
@@ -40,6 +43,9 @@
   },
   {
     "dental problems": "PROBLEM"
+  },
+  {
+    "dentures": "TREATMENT"
   },
   {
     "bleeding gums": "PROBLEM"
@@ -63,6 +69,9 @@
     "irregular heartbeat": "PROBLEM"
   },
   {
+    "heart murmurs": "PROBLEM"
+  },
+  {
     "bad heart valves": "PROBLEM"
   },
   {
@@ -78,7 +87,7 @@
     "orthopnea": "PROBLEM"
   },
   {
-    "paroxysmal nocturnal dyspnea": "PROBLEM"
+    "paroxyscal nocturnal dyspnea": "PROBLEM"
   },
   {
     "stress test": "TEST"
@@ -246,7 +255,10 @@
     "thyroid": "PROBLEM"
   },
   {
-    "problems with cholesterol": "PROBLEM"
+    "cholesterol": "PROBLEM"
+  },
+  {
+    "hormones": "PROBLEM"
   },
   {
     "anemia": "PROBLEM"
@@ -277,32 +289,5 @@
   },
   {
     "leg ulcers": "PROBLEM"
-  },
-  {
-    "cough": "PROBLEM"
-  },
-  {
-    "sputum": "PROBLEM"
-  },
-  {
-    "shortness of breath": "PROBLEM"
-  },
-  {
-    "fever": "PROBLEM"
-  },
-  {
-    "fatigue": "PROBLEM"
-  },
-  {
-    "aching": "PROBLEM"
-  },
-  {
-    "swelling": "PROBLEM"
-  },
-  {
-    "incontinence": "PROBLEM"
-  },
-  {
-    "bleeding": "PROBLEM"
   }
 ]

@@ -36,16 +36,16 @@
     "Pap smears": "TEST"
   },
   {
+    "seven pregnancies": "PROBLEM"
+  },
+  {
+    "five term deliveries": "PROBLEM"
+  },
+  {
     "tobacco use": "PROBLEM"
   },
   {
-    "PHYSICAL EXAMINATION": "TEST"
-  },
-  {
     "cone biopsy": "TREATMENT"
-  },
-  {
-    "LABORATORY DATA AND DIAGNOSTIC STUDIES": "TEST"
   },
   {
     "Chest x-ray": "TEST"
@@ -60,7 +60,7 @@
     "general anesthesia": "TREATMENT"
   },
   {
-    "cystotomy": "TREATMENT"
+    "cystotomy": "PROBLEM"
   },
   {
     "cystogram": "TEST"
@@ -79,9 +79,6 @@
   },
   {
     "urinary tract infection": "PROBLEM"
-  },
-  {
-    "residual disease": "PROBLEM"
   },
   {
     "pap smear": "TEST"

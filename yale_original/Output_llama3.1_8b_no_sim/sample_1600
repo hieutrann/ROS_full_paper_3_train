@@ -6,10 +6,25 @@
     "Cesarean section": "TREATMENT"
   },
   {
+    "blood pressure": "TEST"
+  },
+  {
+    "delivery": "PROBLEM"
+  },
+  {
+    "cesarean section": "TREATMENT"
+  },
+  {
     "blood pressure": "PROBLEM"
   },
   {
-    "patient": "PROBLEM"
+    "blood pressure": "PROBLEM"
+  },
+  {
+    "blood pressure": "PROBLEM"
+  },
+  {
+    "delivery": "PROBLEM"
   },
   {
     "cesarean section": "TREATMENT"
@@ -21,19 +36,7 @@
     "blood pressure": "PROBLEM"
   },
   {
-    "blood pressure": "PROBLEM"
-  },
-  {
-    "patient": "PROBLEM"
-  },
-  {
-    "cesarean section": "TREATMENT"
-  },
-  {
-    "blood pressure": "PROBLEM"
-  },
-  {
-    "blood pressure": "PROBLEM"
+    "medications": "DRUG"
   },
   {
     "blood pressure": "PROBLEM"
@@ -57,22 +60,25 @@
     "surgery": "TREATMENT"
   },
   {
-    "intensive care unit": "PROBLEM"
+    "intensive care unit": "TREATMENT"
   },
   {
     "hypertension": "PROBLEM"
   },
   {
-    "gestational diabetes mellitus": "PROBLEM"
+    "diabetes mellitus": "PROBLEM"
   },
   {
-    "cholesterol": "PROBLEM"
+    "cholesterol": "TEST"
   },
   {
     "coronary artery disease": "PROBLEM"
   },
   {
-    "FAMILY HISTORY": "PROBLEM"
+    "coronary disease": "PROBLEM"
+  },
+  {
+    "FAMILY HISTORY": "TREATMENT"
   },
   {
     "C-section": "TREATMENT"
@@ -105,7 +111,7 @@
     "alcohol": "PROBLEM"
   },
   {
-    "recreational drug use": "PROBLEM"
+    "drug use": "PROBLEM"
   },
   {
     "Hypertension": "PROBLEM"
@@ -133,9 +139,6 @@
   },
   {
     "glaucoma": "PROBLEM"
-  },
-  {
-    "blurry vision": "PROBLEM"
   },
   {
     "congestive heart": "PROBLEM"
@@ -189,6 +192,9 @@
     "blood pressure": "TEST"
   },
   {
+    "afebrile": "TEST"
+  },
+  {
     "respiratory rate": "TEST"
   },
   {
@@ -210,7 +216,7 @@
     "S2": "TEST"
   },
   {
-    "ABDOMEN": "PROBLEM"
+    "Abdomen": "PROBLEM"
   },
   {
     "edema": "PROBLEM"
@@ -219,13 +225,13 @@
     "Pulses": "TEST"
   },
   {
-    "EKG": "TEST"
-  },
-  {
     "sinus tachycardia": "PROBLEM"
   },
   {
-    "nonspecific ST-T changes": "PROBLEM"
+    "ST-T changes": "PROBLEM"
+  },
+  {
+    "EKG": "TEST"
   },
   {
     "Labs": "TEST"
@@ -237,7 +243,7 @@
     "creatinine": "TEST"
   },
   {
-    "IMPRESSION": "PROBLEM"
+    "IMPRESSION": "TEST"
   },
   {
     "Preeclampsia": "PROBLEM"
@@ -246,13 +252,13 @@
     "Cesarean section": "TREATMENT"
   },
   {
-    "blood pressure": "PROBLEM"
-  },
-  {
-    "2": "TEST"
+    "blood pressure": "TEST"
   },
   {
     "gestational diabetes mellitus": "PROBLEM"
+  },
+  {
+    "cardiac disease": "PROBLEM"
   },
   {
     "RECOMMENDATIONS": "TREATMENT"
@@ -264,16 +270,10 @@
     "left ventricular function": "PROBLEM"
   },
   {
-    "2": "TEST"
-  },
-  {
     "labetalol": "DRUG"
   },
   {
     "hydralazine": "DRUG"
-  },
-  {
-    "3": "TEST"
   },
   {
     "medication": "DRUG"
@@ -282,27 +282,33 @@
     "plan of care": "TREATMENT"
   },
   {
+    "cardizem": "DRUG"
+  },
+  {
+    "metoprolol": "DRUG"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
     "gestational diabetes mellitus": "PROBLEM"
   },
   {
     "pre-eclampsia": "PROBLEM"
   },
   {
-    "hypertension": "PROBLEM"
+    "blood pressure": "TEST"
   },
   {
     "gestational diabetes": "PROBLEM"
   },
   {
-    "preeclampsia": "PROBLEM"
-  },
-  {
     "cesarean section": "TREATMENT"
   },
   {
-    "cardizem": "DRUG"
+    "blood": "TEST"
   },
   {
-    "metoprolol": "DRUG"
+    "preeclampsia": "PROBLEM"
   }
 ]

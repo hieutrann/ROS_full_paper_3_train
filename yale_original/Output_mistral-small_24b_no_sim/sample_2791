@@ -36,6 +36,9 @@
     "Stool": "TEST"
   },
   {
+    "dark brown": "PROBLEM"
+  },
+  {
     "OB": "TEST"
   },
   {
@@ -45,22 +48,19 @@
     "chest pain": "PROBLEM"
   },
   {
-    "GI complaints": "PROBLEM"
-  },
-  {
     "atrial fibrillation": "PROBLEM"
   },
   {
     "hypertension": "PROBLEM"
   },
   {
-    "osteoarthritis of the knees": "PROBLEM"
+    "osteoarthritis": "PROBLEM"
   },
   {
     "hypercholesterolemia": "PROBLEM"
   },
   {
-    "non-insulin-dependent diabetes mellitus": "PROBLEM"
+    "diabetes mellitus": "PROBLEM"
   },
   {
     "asthma": "PROBLEM"
@@ -69,10 +69,10 @@
     "hypothyroidism": "PROBLEM"
   },
   {
-    "VITAL SIGNS": "TEST"
+    "PHYSICAL EXAMINATION": "TEST"
   },
   {
-    "adenopathy": "PROBLEM"
+    "VITAL SIGNS": "TEST"
   },
   {
     "LUNGS": "PROBLEM"
@@ -87,13 +87,10 @@
     "bowel sounds": "TEST"
   },
   {
-    "masses": "PROBLEM"
+    "edema": "PROBLEM"
   },
   {
-    "organomegaly": "PROBLEM"
-  },
-  {
-    "lower extremity edema": "PROBLEM"
+    "upper endoscopy": "TEST"
   },
   {
     "erosive gastritis": "PROBLEM"
@@ -108,10 +105,28 @@
     "resected": "TREATMENT"
   },
   {
+    "transfused": "TREATMENT"
+  },
+  {
     "hemoglobin": "TEST"
   },
   {
     "Coumadin": "DRUG"
+  },
+  {
+    "Coumadin": "DRUG"
+  },
+  {
+    "PMD": "TREATMENT"
+  },
+  {
+    "GI": "TREATMENT"
+  },
+  {
+    "Cardiology": "TREATMENT"
+  },
+  {
+    "DISCHARGE DIAGNOSES": "TEST"
   },
   {
     "Upper gastrointestinal bleed": "PROBLEM"
@@ -135,7 +150,13 @@
     "Asthma": "PROBLEM"
   },
   {
+    "Stable": "PROBLEM"
+  },
+  {
     "Feosol": "DRUG"
+  },
+  {
+    "multivitamins": "DRUG"
   },
   {
     "Protonix": "DRUG"
@@ -162,7 +183,10 @@
     "lisinopril": "DRUG"
   },
   {
-    "1800-calorie ADA": "TREATMENT"
+    "ADA": "TREATMENT"
+  },
+  {
+    "ACTIVITY": "TREATMENT"
   },
   {
     "Coumadin": "DRUG"
@@ -174,6 +198,9 @@
     "INR": "TEST"
   },
   {
+    "discharge summary": "TEST"
+  },
+  {
     "gi bleed": "PROBLEM"
   },
   {
@@ -181,6 +208,9 @@
   },
   {
     "cbc": "TEST"
+  },
+  {
+    "gastrointestinal": "PROBLEM"
   },
   {
     "endoscopy": "TEST"

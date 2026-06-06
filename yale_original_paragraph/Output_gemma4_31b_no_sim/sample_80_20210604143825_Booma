@@ -1,5 +1,8 @@
 [
   {
+    "ENT Exam": "TEST"
+  },
+  {
     "lymphadenitis": "PROBLEM"
   },
   {
@@ -21,13 +24,7 @@
     "swelling": "PROBLEM"
   },
   {
-    "disruption": "PROBLEM"
-  },
-  {
     "infection": "PROBLEM"
-  },
-  {
-    "disruption": "PROBLEM"
   },
   {
     "inflammation": "PROBLEM"
@@ -36,10 +33,7 @@
     "acute traumatic lesions": "PROBLEM"
   },
   {
-    "disruption": "PROBLEM"
-  },
-  {
-    "abnormal swelling": "PROBLEM"
+    "swelling": "PROBLEM"
   },
   {
     "rhinorrhea": "PROBLEM"

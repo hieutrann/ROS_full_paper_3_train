@@ -1,311 +1,89 @@
 [
   {
-    "Eyelids": "TEST"
+    "abdominal": "PROBLEM"
   },
   {
-    "Conjunctivae": "TEST"
+    "anterior chamber": "TEST"
   },
   {
-    "Sclerae": "TEST"
+    "cardiovascular": "PROBLEM"
   },
   {
-    "Cornea": "TEST"
+    "chest": "PROBLEM"
   },
   {
-    "Pupils": "TEST"
+    "ear": "PROBLEM"
   },
   {
-    "Iris": "TEST"
+    "ear canal": "TEST"
   },
   {
-    "Anterior chamber": "TEST"
+    "eye": "PROBLEM"
   },
   {
-    "Lacrimal ducts": "TEST"
+    "eyelids": "TEST"
   },
   {
-    "Fundi": "TEST"
+    "female": "PROBLEM"
   },
   {
-    "External ear": "TEST"
+    "labia majora": "TEST"
   },
   {
-    "Ear canal": "TEST"
+    "labia minora": "TEST"
   },
   {
-    "Tympanic membranes": "TEST"
+    "nares": "TEST"
   },
   {
-    "Middle ear effusions": "TEST"
+    "neck symmetrical": "PROBLEM"
   },
   {
-    "External nose": "TEST"
+    "vaginal mucosa": "TEST"
   },
   {
-    "Nares": "TEST"
+    "crepitus": "PROBLEM"
   },
   {
-    "Turbinates": "TEST"
+    "ecchymosis": "PROBLEM"
   },
   {
-    "Mucus": "TEST"
+    "edema": "PROBLEM"
   },
   {
-    "Throat": "TEST"
+    "erythema": "PROBLEM"
   },
   {
-    "Buccal mucosa": "TEST"
+    "joint effusion": "PROBLEM"
   },
   {
-    "Lips": "TEST"
+    "normal range of motion": "TEST"
   },
   {
-    "Tongue": "TEST"
+    "shape and contour": "TEST"
   },
   {
-    "Hard and soft palate": "TEST"
+    "normal strength": "TEST"
   },
   {
-    "Teeth": "TEST"
+    "joint effusions": "PROBLEM"
   },
   {
-    "Adenopathy": "TEST"
+    "normal color": "TEST"
   },
   {
-    "Tonsils": "TEST"
+    "nontender": "TEST"
   },
   {
-    "Uvula": "TEST"
+    "lesions": "PROBLEM"
   },
   {
-    "Neck": "TEST"
+    "effusions": "PROBLEM"
   },
   {
-    "Trachea": "TEST"
+    "muscle": "PROBLEM"
   },
   {
-    "Chest": "TEST"
-  },
-  {
-    "Wheezing": "TEST"
-  },
-  {
-    "Rales": "TEST"
-  },
-  {
-    "Rhonchi": "TEST"
-  },
-  {
-    "Heart": "TEST"
-  },
-  {
-    "S3": "TEST"
-  },
-  {
-    "S4": "TEST"
-  },
-  {
-    "Abdominal": "TEST"
-  },
-  {
-    "Hepatomegaly": "TEST"
-  },
-  {
-    "Splenomegaly": "TEST"
-  },
-  {
-    "Bowel sounds": "TEST"
-  },
-  {
-    "Genital": "TEST"
-  },
-  {
-    "Labia majora": "TEST"
-  },
-  {
-    "Labia minora": "TEST"
-  },
-  {
-    "Clitoris": "TEST"
-  },
-  {
-    "Vaginal mucosa": "TEST"
-  },
-  {
-    "Cervix": "TEST"
-  },
-  {
-    "Ovaries": "TEST"
-  },
-  {
-    "Uterus": "TEST"
-  },
-  {
-    "Musculoskeletal": "TEST"
-  },
-  {
-    "Muscle groups": "TEST"
-  },
-  {
-    "Joints": "TEST"
-  },
-  {
-    "Foot": "TEST"
-  },
-  {
-    "Ankle": "TEST"
-  },
-  {
-    "Knee": "TEST"
-  },
-  {
-    "Wrist": "TEST"
-  },
-  {
-    "Elbow": "TEST"
-  },
-  {
-    "Hip": "TEST"
-  },
-  {
-    "Psychiatric": "TEST"
-  },
-  {
-    "Alert and oriented": "TEST"
-  },
-  {
-    "Delusions": "PROBLEM"
-  },
-  {
-    "Hallucinations": "PROBLEM"
-  },
-  {
-    "Loose associations": "PROBLEM"
-  },
-  {
-    "Flight of ideas": "PROBLEM"
-  },
-  {
-    "Tangentiality": "PROBLEM"
-  },
-  {
-    "Affect": "PROBLEM"
-  },
-  {
-    "Psychomotor slowing": "PROBLEM"
-  },
-  {
-    "Agitation": "PROBLEM"
-  },
-  {
-    "Eye contact": "PROBLEM"
-  },
-  {
-    "General medicine": "PROBLEM"
-  },
-  {
-    "Abdominal": "PROBLEM"
-  },
-  {
-    "Anterior chamber": "PROBLEM"
-  },
-  {
-    "Cardiovascular": "PROBLEM"
-  },
-  {
-    "Chest": "PROBLEM"
-  },
-  {
-    "Ear": "PROBLEM"
-  },
-  {
-    "Ear canal": "PROBLEM"
-  },
-  {
-    "Eye": "PROBLEM"
-  },
-  {
-    "Eyelids": "PROBLEM"
-  },
-  {
-    "Female": "PROBLEM"
-  },
-  {
-    "Labia majora": "PROBLEM"
-  },
-  {
-    "Labia minora": "PROBLEM"
-  },
-  {
-    "Nares": "PROBLEM"
-  },
-  {
-    "Neck symmetrical": "PROBLEM"
-  },
-  {
-    "Vaginal mucosa": "PROBLEM"
-  },
-  {
-    "Crepitus": "PROBLEM"
-  },
-  {
-    "Ecchymosis": "PROBLEM"
-  },
-  {
-    "Edema": "PROBLEM"
-  },
-  {
-    "Erythema": "PROBLEM"
-  },
-  {
-    "Joint effusion": "PROBLEM"
-  },
-  {
-    "Normal range of motion": "PROBLEM"
-  },
-  {
-    "Shape and contour": "PROBLEM"
-  },
-  {
-    "Normal strength": "PROBLEM"
-  },
-  {
-    "Joint effusions": "PROBLEM"
-  },
-  {
-    "Normal color": "PROBLEM"
-  },
-  {
-    "Nontender": "PROBLEM"
-  },
-  {
-    "Lesions": "PROBLEM"
-  },
-  {
-    "Effusions": "PROBLEM"
-  },
-  {
-    "Muscle": "PROBLEM"
-  },
-  {
-    "Joints": "PROBLEM"
-  },
-  {
-    "Normal color": "PROBLEM"
-  },
-  {
-    "Nontender": "PROBLEM"
-  },
-  {
-    "Lesions": "PROBLEM"
-  },
-  {
-    "Effusions": "PROBLEM"
-  },
-  {
-    "Muscle": "PROBLEM"
-  },
-  {
-    "Joints": "PROBLEM"
+    "joints": "PROBLEM"
   }
 ]

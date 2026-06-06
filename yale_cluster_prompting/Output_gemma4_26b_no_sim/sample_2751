@@ -3,25 +3,16 @@
     "Toothache": "PROBLEM"
   },
   {
-    "teeth": "PROBLEM"
-  },
-  {
     "dental disease": "PROBLEM"
-  },
-  {
-    "teeth pulled": "TREATMENT"
   },
   {
     "tooth pain": "PROBLEM"
   },
   {
-    "CHIEF COMPLAINT: Toothache": "PROBLEM"
+    "Toothache": "PROBLEM"
   },
   {
     "dental disease": "PROBLEM"
-  },
-  {
-    "teeth pulled": "TREATMENT"
   },
   {
     "tooth pain": "PROBLEM"
@@ -99,9 +90,6 @@
     "chest pain": "PROBLEM"
   },
   {
-    "RESPIRATIONS": "TEST"
-  },
-  {
     "shortness of breath": "PROBLEM"
   },
   {
@@ -123,19 +111,10 @@
     "back pain": "PROBLEM"
   },
   {
-    "muscle or joint aches": "PROBLEM"
-  },
-  {
     "rashes": "PROBLEM"
   },
   {
     "lesions": "PROBLEM"
-  },
-  {
-    "vision change": "PROBLEM"
-  },
-  {
-    "hearing change": "PROBLEM"
   },
   {
     "weakness": "PROBLEM"
@@ -165,9 +144,6 @@
     "smoker": "PROBLEM"
   },
   {
-    "VITAL SIGNS": "TEST"
-  },
-  {
     "Temperature": "TEST"
   },
   {
@@ -183,9 +159,6 @@
     "oxygen saturation": "TEST"
   },
   {
-    "overweight": "PROBLEM"
-  },
-  {
     "icterus": "PROBLEM"
   },
   {
@@ -198,19 +171,22 @@
     "Pupils": "TEST"
   },
   {
+    "reactive to light": "TEST"
+  },
+  {
     "light sensitivity": "PROBLEM"
   },
   {
     "photophobia": "PROBLEM"
   },
   {
-    "infection": "PROBLEM"
+    "Extraocular motions": "TEST"
   },
   {
     "erythema": "PROBLEM"
   },
   {
-    "swelling of canals": "PROBLEM"
+    "swelling": "PROBLEM"
   },
   {
     "erythema": "PROBLEM"
@@ -228,13 +204,10 @@
     "rhinorrhea": "PROBLEM"
   },
   {
-    "congestion": "PROBLEM"
+    "audible congestion": "PROBLEM"
   },
   {
-    "tenderness": "PROBLEM"
-  },
-  {
-    "sinuses": "PROBLEM"
+    "range of motion": "TEST"
   },
   {
     "meningismus": "PROBLEM"
@@ -243,13 +216,13 @@
     "cervical lymphadenopathy": "PROBLEM"
   },
   {
-    "JVD": "PROBLEM"
-  },
-  {
     "dental caries": "PROBLEM"
   },
   {
-    "tenderness": "PROBLEM"
+    "tenderness to tooth #12": "PROBLEM"
+  },
+  {
+    "tooth #21": "PROBLEM"
   },
   {
     "erythema": "PROBLEM"
@@ -258,16 +231,10 @@
     "swelling": "PROBLEM"
   },
   {
-    "purulent or other discharge": "PROBLEM"
-  },
-  {
     "abscess": "PROBLEM"
   },
   {
     "dental fractures": "PROBLEM"
-  },
-  {
-    "infection": "PROBLEM"
   },
   {
     "erythema": "PROBLEM"
@@ -297,9 +264,6 @@
     "gallop": "PROBLEM"
   },
   {
-    "RESPIRATIONS": "TEST"
-  },
-  {
     "shortness of breath": "PROBLEM"
   },
   {
@@ -312,16 +276,13 @@
     "Cranial nerves II through XII": "TEST"
   },
   {
-    "speech": "PROBLEM"
+    "speech": "TEST"
   },
   {
-    "ambulation": "PROBLEM"
+    "ambulation": "TEST"
   },
   {
     "cervical lymphadenopathy": "PROBLEM"
-  },
-  {
-    "pain": "PROBLEM"
   },
   {
     "Dilaudid": "DRUG"
@@ -352,9 +313,6 @@
   },
   {
     "extensive dental disease": "PROBLEM"
-  },
-  {
-    "teeth pulled": "TREATMENT"
   },
   {
     "cervical lymphadenopathy": "PROBLEM"

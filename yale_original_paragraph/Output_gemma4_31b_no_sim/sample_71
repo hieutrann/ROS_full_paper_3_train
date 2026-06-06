@@ -60,10 +60,10 @@
     "P": "TEST"
   },
   {
-    "frontal and maxillary sinus tenderness": "PROBLEM"
+    "sinus tenderness": "PROBLEM"
   },
   {
-    "right TM is slightly dull": "PROBLEM"
+    "TM": "TEST"
   },
   {
     "Hypercholesterolemia": "PROBLEM"
@@ -102,7 +102,13 @@
     "cancer": "PROBLEM"
   },
   {
-    "weight loss": "PROBLEM"
+    "Diet": "TREATMENT"
+  },
+  {
+    "exercise": "TREATMENT"
+  },
+  {
+    "weight loss": "TREATMENT"
   },
   {
     "diabetes mellitus": "PROBLEM"

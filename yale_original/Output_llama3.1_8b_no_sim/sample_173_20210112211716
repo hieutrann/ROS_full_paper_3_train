@@ -1,6 +1,6 @@
 [
   {
-    "Refractory Hypertension": "PROBLEM"
+    "Hypertension": "PROBLEM"
   },
   {
     "cardiac arrhythmia": "PROBLEM"
@@ -18,10 +18,7 @@
     "PROBLEM LIST": "PROBLEM"
   },
   {
-    "Refractory hypertension": "PROBLEM"
-  },
-  {
-    "2": "TEST"
+    "hypertension": "PROBLEM"
   },
   {
     "cardiac arrhythmia": "PROBLEM"
@@ -33,9 +30,6 @@
     "AV block": "PROBLEM"
   },
   {
-    "3": "TEST"
-  },
-  {
     "GI bleed": "PROBLEM"
   },
   {
@@ -45,10 +39,10 @@
     "depression": "PROBLEM"
   },
   {
-    "renal clinic": "PROBLEM"
+    "renal clinic": "TREATMENT"
   },
   {
-    "history": "PROBLEM"
+    "woman": "PROBLEM"
   },
   {
     "antihypertensive medications": "DRUG"
@@ -96,9 +90,6 @@
     "orthopnea": "PROBLEM"
   },
   {
-    "exercise capacity": "PROBLEM"
-  },
-  {
     "musculoskeletal": "PROBLEM"
   },
   {
@@ -111,19 +102,13 @@
     "extremity pain": "PROBLEM"
   },
   {
-    "CURRENT MEDICATIONS": "TREATMENT"
+    "MEDICATIONS": "DRUG"
   },
   {
     "Triamterene/hydrochlorothiazide": "DRUG"
   },
   {
-    "2": "TEST"
-  },
-  {
     "Norvasc": "DRUG"
-  },
-  {
-    "3": "TEST"
   },
   {
     "Atenolol": "DRUG"
@@ -153,13 +138,19 @@
     "blood pressure": "TEST"
   },
   {
+    "lungs": "PROBLEM"
+  },
+  {
     "adventitious sounds": "PROBLEM"
   },
   {
     "rate": "TEST"
   },
   {
-    "S1 and S2": "TEST"
+    "rhythm": "TEST"
+  },
+  {
+    "murmur": "PROBLEM"
   },
   {
     "S3": "PROBLEM"
@@ -180,10 +171,7 @@
     "blood pressure": "TEST"
   },
   {
-    "internist": "PROBLEM"
-  },
-  {
-    "GFR": "PROBLEM"
+    "GFR": "TEST"
   },
   {
     "blood pressure": "PROBLEM"
@@ -201,7 +189,7 @@
     "blood pressure": "TEST"
   },
   {
-    "pacemaker": "DRUG"
+    "pacemaker": "TREATMENT"
   },
   {
     "atenolol": "DRUG"

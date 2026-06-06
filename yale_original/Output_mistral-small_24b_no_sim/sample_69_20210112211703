@@ -1,27 +1,30 @@
 [
   {
-    "left-sided chest pain": "PROBLEM"
-  },
-  {
-    "abdominal surgery": "PROBLEM"
-  },
-  {
-    "left-sided chest pain": "PROBLEM"
+    "chest pain": "PROBLEM"
   },
   {
     "abdominal surgery": "TREATMENT"
   },
   {
-    "postoperative paralytic ileus": "PROBLEM"
+    "chest pain": "PROBLEM"
   },
   {
-    "left-sided chest pain": "PROBLEM"
+    "abdominal surgery": "TREATMENT"
+  },
+  {
+    "patient": "PROBLEM"
+  },
+  {
+    "laparoscopic appendicectomy": "TREATMENT"
+  },
+  {
+    "paralytic ileus": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
   },
   {
     "fluid retention": "PROBLEM"
-  },
-  {
-    "gain": "PROBLEM"
   },
   {
     "swelling": "PROBLEM"
@@ -33,16 +36,10 @@
     "cough": "PROBLEM"
   },
   {
-    "left-sided chest pain": "PROBLEM"
+    "chest pain": "PROBLEM"
   },
   {
     "pain": "PROBLEM"
-  },
-  {
-    "left posterior axillary line": "PROBLEM"
-  },
-  {
-    "fourth and fifth rib": "PROBLEM"
   },
   {
     "heart problems": "PROBLEM"
@@ -78,25 +75,25 @@
     "nonsmoker": "PROBLEM"
   },
   {
-    "GENERAL": "TEST"
+    "alcohol": "DRUG"
   },
   {
-    "CHEST": "TEST"
+    "87-year-old": "PROBLEM"
+  },
+  {
+    "Oral mucosa": "PROBLEM"
+  },
+  {
+    "CHEST": "PROBLEM"
   },
   {
     "wheezing": "PROBLEM"
-  },
-  {
-    "crepitations": "PROBLEM"
   },
   {
     "tenderness": "PROBLEM"
   },
   {
     "heart sounds": "TEST"
-  },
-  {
-    "murmurs": "PROBLEM"
   },
   {
     "distended": "PROBLEM"
@@ -108,7 +105,10 @@
     "pedal swelling": "PROBLEM"
   },
   {
-    "NEUROLOGIC": "PROBLEM"
+    "alert": "PROBLEM"
+  },
+  {
+    "oriented": "PROBLEM"
   },
   {
     "White count": "TEST"
@@ -135,10 +135,13 @@
     "Ruptured appendicitis": "PROBLEM"
   },
   {
-    "bowels": "PROBLEM"
+    "surgery": "TREATMENT"
   },
   {
-    "Left-sided chest pain": "PROBLEM"
+    "fluids": "TREATMENT"
+  },
+  {
+    "chest pain": "PROBLEM"
   },
   {
     "PE": "PROBLEM"
@@ -156,10 +159,16 @@
     "Fluid retention": "PROBLEM"
   },
   {
+    "surgeon": "TREATMENT"
+  },
+  {
     "Paralytic ileus": "PROBLEM"
   },
   {
     "Leukocytosis": "PROBLEM"
+  },
+  {
+    "general medicine": "TEST"
   },
   {
     "ruptured appendicitis": "PROBLEM"

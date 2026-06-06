@@ -18,7 +18,7 @@
     "obesity": "PROBLEM"
   },
   {
-    "1.1 cm lesion in the medial aspect of the right parietal lobe": "PROBLEM"
+    "lesion": "PROBLEM"
   },
   {
     "deconditioning": "PROBLEM"
@@ -46,6 +46,9 @@
   },
   {
     "Deconditioning": "PROBLEM"
+  },
+  {
+    "Cardiology": "TEST"
   },
   {
     "Echocardiogram": "TEST"
@@ -78,7 +81,7 @@
     "troponin": "TEST"
   },
   {
-    "An echocardiogram": "TEST"
+    "echocardiogram": "TEST"
   },
   {
     "concentric LVH": "PROBLEM"
@@ -99,7 +102,7 @@
     "MRI": "TEST"
   },
   {
-    "1 cm lesion": "PROBLEM"
+    "lesion": "PROBLEM"
   },
   {
     "right parietal lobe": "PROBLEM"
@@ -130,6 +133,9 @@
   },
   {
     "cardiac cath": "TEST"
+  },
+  {
+    "parietal lobe": "PROBLEM"
   },
   {
     "cardiac catheterization": "TEST"

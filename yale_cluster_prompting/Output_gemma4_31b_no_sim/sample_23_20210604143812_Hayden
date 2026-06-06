@@ -3,6 +3,12 @@
     "speech therapy": "TREATMENT"
   },
   {
+    "functional communication skills": "PROBLEM"
+  },
+  {
+    "swallowing function": "PROBLEM"
+  },
+  {
     "speech therapy": "TREATMENT"
   },
   {
@@ -15,10 +21,13 @@
     "global aphasia": "PROBLEM"
   },
   {
+    "aphasia quotient": "TEST"
+  },
+  {
     "Western Aphasia Battery": "TEST"
   },
   {
-    "outpatient speech therapy sessions": "TREATMENT"
+    "speech therapy sessions": "TREATMENT"
   },
   {
     "receptive communication": "PROBLEM"
@@ -48,10 +57,13 @@
     "feeding tube": "TREATMENT"
   },
   {
+    "removal of her feeding tube": "TREATMENT"
+  },
+  {
     "difficulty stating verbally": "PROBLEM"
   },
   {
-    "marked difficulty with her expressive language abilities": "PROBLEM"
+    "difficulty with her expressive language abilities": "PROBLEM"
   },
   {
     "aphasia quotient": "TEST"

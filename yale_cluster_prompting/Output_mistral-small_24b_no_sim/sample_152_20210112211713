@@ -6,25 +6,25 @@
     "dilatation and curettage": "TREATMENT"
   },
   {
-    "D&C": "TREATMENT"
-  },
-  {
     "myomectomy": "TREATMENT"
   },
   {
-    "menometrorrhagia": "PROBLEM"
+    "Severe menometrorrhagia": "PROBLEM"
   },
   {
     "medical therapy": "TREATMENT"
   },
   {
-    "anemia": "PROBLEM"
+    "severe anemia": "PROBLEM"
   },
   {
     "fibroid uterus": "PROBLEM"
   },
   {
-    "menometrorrhagia": "PROBLEM"
+    "ADMISSION DIAGNOSES": "PROBLEM"
+  },
+  {
+    "Severe menometrorrhagia": "PROBLEM"
   },
   {
     "medical therapy": "TREATMENT"
@@ -36,7 +36,10 @@
     "Fibroid uterus": "PROBLEM"
   },
   {
-    "menometrorrhagia": "PROBLEM"
+    "DISCHARGE DIAGNOSES": "PROBLEM"
+  },
+  {
+    "Severe menometrorrhagia": "PROBLEM"
   },
   {
     "medical therapy": "TREATMENT"
@@ -46,18 +49,21 @@
   },
   {
     "Fibroid uterus": "PROBLEM"
+  },
+  {
+    "OPERATIONS PERFORMED": "TREATMENT"
   },
   {
     "Hysteroscopy": "TEST"
   },
   {
-    "Dilatation and curettage": "TREATMENT"
+    "Dilatation and curettage (D&C)": "TREATMENT"
   },
   {
     "Myomectomy": "TREATMENT"
   },
   {
-    "fibroid": "PROBLEM"
+    "Large endometrial cavity fibroid": "PROBLEM"
   },
   {
     "dissection": "TREATMENT"
@@ -69,13 +75,10 @@
     "BLOOD TRANSFUSIONS": "TREATMENT"
   },
   {
-    "packed red blood cells": "DRUG"
+    "packed red blood cells": "TREATMENT"
   },
   {
-    "INFECTION": "PROBLEM"
-  },
-  {
-    "Posttransfusion": "TEST"
+    "None": "PROBLEM"
   },
   {
     "hematocrit": "TEST"
@@ -84,73 +87,79 @@
     "hemoglobin": "TEST"
   },
   {
-    "HOSPITAL COURSE AND TREATMENT": "TEST"
-  },
-  {
-    "surgical suite": "TEST"
-  },
-  {
-    "operating room": "TEST"
-  },
-  {
     "dilatation and curettage": "TREATMENT"
   },
   {
     "Hysteroscopy": "TEST"
   },
   {
-    "fibroid": "PROBLEM"
+    "a large endometrial cavity fibroid": "PROBLEM"
   },
   {
     "fibroid": "PROBLEM"
-  },
-  {
-    "shaving": "TREATMENT"
   },
   {
     "excision": "TREATMENT"
   },
   {
-    "removal": "TREATMENT"
-  },
-  {
-    "procedure": "TREATMENT"
+    "Hemostasis": "PROBLEM"
   },
   {
     "packed red blood cells": "DRUG"
   },
   {
-    "inoperative blood loss": "PROBLEM"
+    "intraoperative blood loss": "PROBLEM"
+  },
+  {
+    "ambulating": "PROBLEM"
   },
   {
     "diet": "TREATMENT"
   },
   {
+    "Stable": "PROBLEM"
+  },
+  {
+    "Regular diet": "TREATMENT"
+  },
+  {
     "bedrest": "TREATMENT"
   },
   {
-    "pelvic rest": "TREATMENT"
+    "Vicodin tablets": "DRUG"
   },
   {
-    "Vicodin": "DRUG"
+    "q.4-6 h. p.r.n.": "DRUG"
   },
   {
     "pain": "PROBLEM"
   },
   {
-    "vitamin": "DRUG"
+    "multiple vitamin 1 tab p.o.": "DRUG"
   },
   {
-    "ferrous sulfate": "DRUG"
+    "ferrous sulfate tablets": "DRUG"
+  },
+  {
+    "diarrhea": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "inability to eat": "PROBLEM"
   },
   {
     "assistance": "TREATMENT"
   },
   {
-    "X p.r.n.": "DRUG"
+    "X": "DRUG"
   },
   {
-    "d&c": "TREATMENT"
+    "discharge summary": "PROBLEM"
+  },
+  {
+    "(d&c)": "TREATMENT"
   },
   {
     "fibroid uterus": "PROBLEM"

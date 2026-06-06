@@ -1,21 +1,6 @@
 [
   {
-    "VITAL SIGNS": "TEST"
-  },
-  {
-    "Blood pressure": "TEST"
-  },
-  {
-    "pulse": "TEST"
-  },
-  {
-    "respirations": "TEST"
-  },
-  {
-    "temperature": "TEST"
-  },
-  {
-    "distress": "PROBLEM"
+    "apparent distress": "PROBLEM"
   },
   {
     "lesions": "PROBLEM"
@@ -31,6 +16,12 @@
   },
   {
     "thyroid abnormality": "PROBLEM"
+  },
+  {
+    "auscultation": "TEST"
+  },
+  {
+    "percussion": "TEST"
   },
   {
     "murmur": "PROBLEM"
@@ -75,10 +66,13 @@
     "guarding": "PROBLEM"
   },
   {
-    "aortic impulse": "TEST"
+    "bruit": "PROBLEM"
   },
   {
-    "intraabdominal bruit": "PROBLEM"
+    "digital palpation": "TEST"
+  },
+  {
+    "Hemoccult": "TEST"
   },
   {
     "edema": "PROBLEM"
@@ -93,33 +87,24 @@
     "deep venous thrombosis": "PROBLEM"
   },
   {
-    "spinous process tenderness": "PROBLEM"
+    "tenderness": "PROBLEM"
   },
   {
     "CVA tenderness": "PROBLEM"
   },
   {
-    "premalignant or malignant condition": "PROBLEM"
+    "straight-leg raising": "TEST"
   },
   {
-    "hepatosplenomegaly": "PROBLEM"
+    "Kernig": "TEST"
   },
   {
-    "mass": "PROBLEM"
+    "Brudzinski signs": "TEST"
   },
   {
-    "tenderness": "PROBLEM"
+    "premalignant condition": "PROBLEM"
   },
   {
-    "rebound": "PROBLEM"
-  },
-  {
-    "rigidity": "PROBLEM"
-  },
-  {
-    "bruit": "PROBLEM"
-  },
-  {
-    "adenopathy": "PROBLEM"
+    "malignant condition": "PROBLEM"
   }
 ]

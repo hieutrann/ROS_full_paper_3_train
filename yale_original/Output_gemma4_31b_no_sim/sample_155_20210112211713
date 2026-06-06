@@ -3,9 +3,6 @@
     "Sepsis": "PROBLEM"
   },
   {
-    "Sepsis": "PROBLEM"
-  },
-  {
     "CT scan": "TEST"
   },
   {
@@ -147,13 +144,7 @@
     "acute distress": "PROBLEM"
   },
   {
-    "Pupils": "TEST"
-  },
-  {
-    "Extraocular movements": "TEST"
-  },
-  {
-    "Mucous membranes are dry": "PROBLEM"
+    "dry": "PROBLEM"
   },
   {
     "thyromegaly": "PROBLEM"
@@ -168,13 +159,10 @@
     "brady": "PROBLEM"
   },
   {
-    "LUNGS": "TEST"
+    "normoactive bowel sounds": "PROBLEM"
   },
   {
-    "bowel sounds": "TEST"
-  },
-  {
-    "Tenderness in the suprapubic region": "PROBLEM"
+    "Tenderness": "PROBLEM"
   },
   {
     "clubbing": "PROBLEM"
@@ -184,9 +172,6 @@
   },
   {
     "edema": "PROBLEM"
-  },
-  {
-    "focality": "PROBLEM"
   },
   {
     "CT of the abdomen": "TEST"
@@ -285,6 +270,9 @@
     "Adrenal gland mass": "PROBLEM"
   },
   {
+    "urology consult": "TREATMENT"
+  },
+  {
     "Levaquin": "DRUG"
   },
   {
@@ -315,7 +303,7 @@
     "dementia": "PROBLEM"
   },
   {
-    "dementia medications": "DRUG"
+    "medications": "DRUG"
   },
   {
     "PPI": "DRUG"

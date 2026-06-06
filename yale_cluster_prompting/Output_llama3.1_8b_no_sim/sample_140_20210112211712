@@ -9,9 +9,6 @@
     "routine normal female physical exam": "TEST"
   },
   {
-    "VITAL SIGNS": "TEST"
-  },
-  {
     "Blood pressure": "TEST"
   },
   {
@@ -24,16 +21,7 @@
     "temperature": "TEST"
   },
   {
-    "Alert and in no apparent distress": "PROBLEM"
-  },
-  {
-    "calm": "PROBLEM"
-  },
-  {
-    "cooperative": "PROBLEM"
-  },
-  {
-    "communicative": "PROBLEM"
+    "apparent distress": "PROBLEM"
   },
   {
     "EOMI": "PROBLEM"
@@ -51,16 +39,43 @@
     "Funduscopic examination": "TEST"
   },
   {
-    "TMs": "TEST"
+    "TMs": "PROBLEM"
   },
   {
-    "hearing": "TEST"
+    "hearing": "PROBLEM"
+  },
+  {
+    "set": "TREATMENT"
+  },
+  {
+    "shape": "TREATMENT"
+  },
+  {
+    "canals": "TREATMENT"
   },
   {
     "Nose and Sinuses": "TEST"
   },
   {
+    "Mouth": "PROBLEM"
+  },
+  {
+    "Tongue": "PROBLEM"
+  },
+  {
+    "Teeth": "PROBLEM"
+  },
+  {
+    "Throat": "PROBLEM"
+  },
+  {
     "dental work": "TREATMENT"
+  },
+  {
+    "pain free": "PROBLEM"
+  },
+  {
+    "bruit": "PROBLEM"
   },
   {
     "JVD": "PROBLEM"
@@ -114,7 +129,7 @@
     "adenopathy": "PROBLEM"
   },
   {
-    "BREASTS": "TEST"
+    "unremarkable": "PROBLEM"
   },
   {
     "hepatosplenomegaly": "PROBLEM"
@@ -141,16 +156,16 @@
     "intraabdominal bruit": "PROBLEM"
   },
   {
-    "EXTERNAL GENITALIA": "TEST"
+    "Normal for age": "PROBLEM"
   },
   {
-    "Hemoccult-negative stool": "TEST"
+    "Hemoccult-negative stool": "PROBLEM"
+  },
+  {
+    "gloved digital palpation": "TEST"
   },
   {
     "7 cm": "TEST"
-  },
-  {
-    "digital palpation": "TEST"
   },
   {
     "distal pulse": "TEST"
@@ -180,7 +195,10 @@
     "range of motion": "TEST"
   },
   {
-    "BACK": "TEST"
+    "percussion": "TEST"
+  },
+  {
+    "inspection": "TEST"
   },
   {
     "spinous process tenderness": "PROBLEM"
@@ -198,10 +216,7 @@
     "Brudzinski": "TEST"
   },
   {
-    "cranial": "PROBLEM"
-  },
-  {
-    "peripheral nervous systems": "PROBLEM"
+    "cranial and peripheral nervous systems": "PROBLEM"
   },
   {
     "strength": "PROBLEM"
@@ -222,16 +237,19 @@
     "lucid and rational": "PROBLEM"
   },
   {
-    "gait": "PROBLEM"
+    "gait": "TEST"
   },
   {
-    "station": "PROBLEM"
+    "station": "TEST"
   },
   {
-    "premalignant or malignant condition": "PROBLEM"
+    "premalignant condition": "PROBLEM"
   },
   {
-    "normal changes for age": "PROBLEM"
+    "malignant condition": "PROBLEM"
+  },
+  {
+    "normal changes": "TEST"
   },
   {
     "hepatosplenomegaly": "PROBLEM"
@@ -249,16 +267,13 @@
     "rigidity": "PROBLEM"
   },
   {
+    "pulse": "TEST"
+  },
+  {
+    "bruit": "TEST"
+  },
+  {
     "adenopathy": "PROBLEM"
-  },
-  {
-    "hepatosplenomegaly": "PROBLEM"
-  },
-  {
-    "adenopathy": "PROBLEM"
-  },
-  {
-    "chest": "TEST"
   },
   {
     "percussion": "TEST"
@@ -270,12 +285,9 @@
     "palpation": "TEST"
   },
   {
-    "pulse": "TEST"
+    "signs": "TEST"
   },
   {
-    "bruit": "TEST"
-  },
-  {
-    "tongue": "TEST"
+    "tongue": "PROBLEM"
   }
 ]

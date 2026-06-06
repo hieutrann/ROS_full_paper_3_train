@@ -45,6 +45,12 @@
     "IV antibiotics": "DRUG"
   },
   {
+    "hydration": "TREATMENT"
+  },
+  {
+    "PAST MEDICAL HISTORY": "TEST"
+  },
+  {
     "CAD": "PROBLEM"
   },
   {
@@ -96,13 +102,13 @@
     "Detrol": "DRUG"
   },
   {
-    "Coreg": "DRUG"
+    "Coreg.": "DRUG"
   },
   {
     "Colace": "DRUG"
   },
   {
-    "Calcium": "DRUG"
+    "Calcium": "TEST"
   },
   {
     "Zantac": "DRUG"
@@ -120,7 +126,22 @@
     "Amoxicillin": "DRUG"
   },
   {
-    "afebrile": "TEST"
+    "board and care": "TREATMENT"
+  },
+  {
+    "tobacco": "DRUG"
+  },
+  {
+    "alcohol": "DRUG"
+  },
+  {
+    "IV drug": "DRUG"
+  },
+  {
+    "VITAL SIGNS": "TEST"
+  },
+  {
+    "afebrile": "PROBLEM"
   },
   {
     "Pulse": "TEST"
@@ -132,7 +153,13 @@
     "blood pressure": "TEST"
   },
   {
-    "Not oriented x3": "PROBLEM"
+    "saturating": "TEST"
+  },
+  {
+    "patient": "PROBLEM"
+  },
+  {
+    "oriented x3": "TEST"
   },
   {
     "HEENT": "TEST"
@@ -150,9 +177,6 @@
     "jugular venous distention": "PROBLEM"
   },
   {
-    "Irregularly irregular": "PROBLEM"
-  },
-  {
     "brady": "PROBLEM"
   },
   {
@@ -163,9 +187,6 @@
   },
   {
     "Tenderness": "PROBLEM"
-  },
-  {
-    "suprapubic region": "PROBLEM"
   },
   {
     "clubbing": "PROBLEM"
@@ -180,7 +201,7 @@
     "CT": "TEST"
   },
   {
-    "left inguinal hernia": "PROBLEM"
+    "inguinal hernia": "PROBLEM"
   },
   {
     "SBO": "PROBLEM"
@@ -192,13 +213,13 @@
     "outlet obstruction": "PROBLEM"
   },
   {
-    "bilateral hydronephrosis": "PROBLEM"
+    "hydronephrosis": "PROBLEM"
   },
   {
     "hydroureter": "PROBLEM"
   },
   {
-    "right adrenal gland mass": "PROBLEM"
+    "adrenal gland mass": "PROBLEM"
   },
   {
     "White count": "TEST"
@@ -267,16 +288,31 @@
     "Adrenal gland mass": "PROBLEM"
   },
   {
+    "urology consult": "TEST"
+  },
+  {
+    "X.": "TEST"
+  },
+  {
+    "renal consult": "TEST"
+  },
+  {
     "Levaquin": "DRUG"
   },
   {
     "gentamicin": "DRUG"
   },
   {
+    "synergy": "PROBLEM"
+  },
+  {
     "IV fluids": "TREATMENT"
   },
   {
-    "anticoagulation": "DRUG"
+    "hypertonic-hypotonic": "DRUG"
+  },
+  {
+    "anticoagulation": "TREATMENT"
   },
   {
     "SCD": "TREATMENT"
@@ -285,13 +321,16 @@
     "TED hose": "TREATMENT"
   },
   {
-    "atrial fibrillation": "PROBLEM"
+    "slow atrial fibrillation": "PROBLEM"
   },
   {
-    "digoxin": "DRUG"
+    "rate control medications": "DRUG"
   },
   {
-    "dementia": "PROBLEM"
+    "digoxin level": "TEST"
+  },
+  {
+    "dementia medications": "DRUG"
   },
   {
     "PPI": "DRUG"
@@ -318,6 +357,18 @@
     "ct scan": "TEST"
   },
   {
+    "adrenal gland": "PROBLEM"
+  },
+  {
+    "dilated bladder": "PROBLEM"
+  },
+  {
+    "bilateral hydronephrosis": "PROBLEM"
+  },
+  {
     "atrial fibrillation": "PROBLEM"
+  },
+  {
+    "sepsis": "PROBLEM"
   }
 ]

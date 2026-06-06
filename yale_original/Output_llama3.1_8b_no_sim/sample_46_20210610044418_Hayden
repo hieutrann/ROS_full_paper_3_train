@@ -1,6 +1,6 @@
 [
   {
-    "Bilateral l5 spondylolysis": "PROBLEM"
+    "spondylolysis": "PROBLEM"
   },
   {
     "pars defects": "PROBLEM"
@@ -15,7 +15,7 @@
     "Chronic pain syndrome": "PROBLEM"
   },
   {
-    "Bilateral l5 spondylolysis": "PROBLEM"
+    "spondylolysis": "PROBLEM"
   },
   {
     "pars defects": "PROBLEM"
@@ -33,7 +33,10 @@
     "L5 Gill procedure": "TREATMENT"
   },
   {
-    "interbody and posterolateral (360 degrees circumferential) arthrodesis": "TREATMENT"
+    "interbody arthrodesis": "TREATMENT"
+  },
+  {
+    "posterolateral arthrodesis": "TREATMENT"
   },
   {
     "cages": "TREATMENT"
@@ -63,40 +66,37 @@
     "bilateral leg pain": "PROBLEM"
   },
   {
-    "bilateral pars defects": "PROBLEM"
-  },
-  {
     "spondylolysis": "PROBLEM"
   },
   {
     "instability": "PROBLEM"
   },
   {
+    "pars defects": "PROBLEM"
+  },
+  {
+    "L5-S1": "TEST"
+  },
+  {
     "surgical procedure": "TREATMENT"
   },
   {
-    "postoperative period": "PROBLEM"
+    "ambulatory": "TREATMENT"
   },
   {
     "p. o. fluids": "TREATMENT"
   },
   {
-    "afebrile": "TEST"
+    "afebrile": "PROBLEM"
   },
   {
     "wounds": "PROBLEM"
   },
   {
-    "patient": "PROBLEM"
-  },
-  {
     "pain medication": "DRUG"
   },
   {
-    "weeks": "TEST"
-  },
-  {
-    "discharge plan": "TREATMENT"
+    "weeks": "TREATMENT"
   },
   {
     "chronic pain syndrome": "PROBLEM"
@@ -114,9 +114,6 @@
     "spondylolysis": "PROBLEM"
   },
   {
-    "discharge summary": "TEST"
-  },
-  {
-    "leg": "TEST"
+    "leg": "PROBLEM"
   }
 ]

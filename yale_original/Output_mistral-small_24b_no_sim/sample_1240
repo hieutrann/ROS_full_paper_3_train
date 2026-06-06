@@ -57,6 +57,9 @@
     "Surgery": "TREATMENT"
   },
   {
+    "ABC": "PROBLEM"
+  },
+  {
     "morbid obesity": "PROBLEM"
   },
   {
@@ -69,13 +72,16 @@
     "Bariatric Surgical Center": "TEST"
   },
   {
+    "band": "TREATMENT"
+  },
+  {
     "cholelithiasis": "PROBLEM"
   },
   {
     "gallbladder": "PROBLEM"
   },
   {
-    "band": "PROBLEM"
+    "band": "TREATMENT"
   },
   {
     "diabetes": "PROBLEM"
@@ -84,25 +90,25 @@
     "infection": "PROBLEM"
   },
   {
-    "removal": "TREATMENT"
-  },
-  {
-    "band placement": "TREATMENT"
-  },
-  {
-    "procedure": "TREATMENT"
+    "hyperglycemic": "PROBLEM"
   },
   {
     "blood glucose": "TEST"
-  },
-  {
-    "hyperglycemic": "PROBLEM"
   },
   {
     "sugar": "TEST"
   },
   {
     "hyperglycemia": "PROBLEM"
+  },
+  {
+    "treatment": "TREATMENT"
+  },
+  {
+    "Ms.": "PROBLEM"
+  },
+  {
+    "ABC": "PROBLEM"
   },
   {
     "insulin drip": "DRUG"
@@ -123,34 +129,43 @@
     "edema": "PROBLEM"
   },
   {
+    "mild edema": "PROBLEM"
+  },
+  {
     "adhesions": "PROBLEM"
-  },
-  {
-    "omentum": "PROBLEM"
-  },
-  {
-    "gallbladder": "PROBLEM"
   },
   {
     "blood sugar": "TEST"
   },
   {
-    "insulin": "DRUG"
+    "sliding scale insulin": "DRUG"
   },
   {
-    "Medifast": "DRUG"
+    "Medifast diet": "TREATMENT"
+  },
+  {
+    "blood glucose": "TEST"
   },
   {
     "lap band": "TREATMENT"
   },
   {
+    "wounds": "PROBLEM"
+  },
+  {
+    "lifting": "TREATMENT"
+  },
+  {
     "narcotic pain medicines": "DRUG"
   },
   {
-    "CPAP": "TREATMENT"
+    "CPAP machine": "TREATMENT"
   },
   {
     "sugars": "TEST"
+  },
+  {
+    "discharge summary": "TEST"
   },
   {
     "medifast": "DRUG"
@@ -160,6 +175,9 @@
   },
   {
     "laparoscopic cholecystectomy": "TREATMENT"
+  },
+  {
+    "medifast diet": "TREATMENT"
   },
   {
     "cholecystitis": "PROBLEM"

@@ -6,7 +6,7 @@
     "Percutaneous liver biopsy": "TEST"
   },
   {
-    "2% Lidocaine": "DRUG"
+    "Lidocaine": "DRUG"
   },
   {
     "iodine": "DRUG"
@@ -33,7 +33,10 @@
     "povidone iodine": "DRUG"
   },
   {
-    "2% lidocaine": "DRUG"
+    "Klatskin needle": "TREATMENT"
+  },
+  {
+    "Pathology": "TEST"
   },
   {
     "abdominal or chest pain": "PROBLEM"
@@ -60,7 +63,7 @@
     "pneumothorax": "PROBLEM"
   },
   {
-    "klatskin needle": "TEST"
+    "klatskin needle": "TREATMENT"
   },
   {
     "liver biopsy": "TEST"

@@ -87,7 +87,7 @@
     "smoker": "PROBLEM"
   },
   {
-    "heroin use": "PROBLEM"
+    "heroin": "DRUG"
   },
   {
     "alcohol abuse": "PROBLEM"
@@ -135,15 +135,6 @@
     "Pupils": "TEST"
   },
   {
-    "Extraoculars": "TEST"
-  },
-  {
-    "oropharynx": "TEST"
-  },
-  {
-    "LUNGS": "TEST"
-  },
-  {
     "wheezing": "PROBLEM"
   },
   {
@@ -168,7 +159,10 @@
     "MEDICAL EXAMINATION": "TEST"
   },
   {
-    "HEROIN": "DRUG"
+    "DETOXING": "TREATMENT"
+  },
+  {
+    "HEROIN": "PROBLEM"
   },
   {
     "clonidine": "DRUG"
@@ -192,7 +186,13 @@
     "detox": "TREATMENT"
   },
   {
-    "cocaine": "PROBLEM"
+    "heroin": "DRUG"
+  },
+  {
+    "alcohol": "DRUG"
+  },
+  {
+    "cocaine": "DRUG"
   },
   {
     "abuse": "PROBLEM"

@@ -30,7 +30,7 @@
     "CBC": "TEST"
   },
   {
-    "BMP": "TEST"
+    "x-ray": "TEST"
   },
   {
     "rapid influenza swab": "TEST"
@@ -45,7 +45,19 @@
     "pertussis culture": "TEST"
   },
   {
-    "Public Health Department": "TREATMENT"
+    "EGD": "TEST"
+  },
+  {
+    "colonoscopy": "TEST"
+  },
+  {
+    "barium enema": "TREATMENT"
+  },
+  {
+    "amoxicillin": "TREATMENT"
+  },
+  {
+    "Rocephin": "TREATMENT"
   },
   {
     "Zithromax": "TREATMENT"

@@ -1,0 +1,335 @@
+[
+  {
+    "Pneumonia": "PROBLEM"
+  },
+  {
+    "Crohn disease": "PROBLEM"
+  },
+  {
+    "protein-losing enteropathy": "PROBLEM"
+  },
+  {
+    "malnutrition": "PROBLEM"
+  },
+  {
+    "anasarca": "PROBLEM"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "leukocytosis": "PROBLEM"
+  },
+  {
+    "Crohn disease": "PROBLEM"
+  },
+  {
+    "pneumonia": "PROBLEM"
+  },
+  {
+    "Pneumonia": "PROBLEM"
+  },
+  {
+    "Crohn disease": "PROBLEM"
+  },
+  {
+    "Anasarca": "PROBLEM"
+  },
+  {
+    "Anemia": "PROBLEM"
+  },
+  {
+    "swelling": "PROBLEM"
+  },
+  {
+    "legs": "PROBLEM"
+  },
+  {
+    "Crohn disease": "PROBLEM"
+  },
+  {
+    "Crohn disease": "PROBLEM"
+  },
+  {
+    "steroids": "DRUG"
+  },
+  {
+    "crampy abdominal pain": "PROBLEM"
+  },
+  {
+    "diarrhea": "PROBLEM"
+  },
+  {
+    "low-grade fevers": "PROBLEM"
+  },
+  {
+    "pneumonia": "PROBLEM"
+  },
+  {
+    "IV antibiotics": "TREATMENT"
+  },
+  {
+    "Streptococcus": "PROBLEM"
+  },
+  {
+    "dyspneic": "PROBLEM"
+  },
+  {
+    "lower extremity edema": "PROBLEM"
+  },
+  {
+    "pain in his ankles": "PROBLEM"
+  },
+  {
+    "pain in his knees": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "edema in his entire body": "PROBLEM"
+  },
+  {
+    "diarrhea": "PROBLEM"
+  },
+  {
+    "malabsorption": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "dyspnea": "PROBLEM"
+  },
+  {
+    "Prednisone": "DRUG"
+  },
+  {
+    "Effexor": "DRUG"
+  },
+  {
+    "Folic acid": "DRUG"
+  },
+  {
+    "Norco": "DRUG"
+  },
+  {
+    "pain": "PROBLEM"
+  },
+  {
+    "anxiety": "PROBLEM"
+  },
+  {
+    "depression": "PROBLEM"
+  },
+  {
+    "Small bowel resections": "TREATMENT"
+  },
+  {
+    "Appendectomy": "TREATMENT"
+  },
+  {
+    "vasectomy": "TREATMENT"
+  },
+  {
+    "smoke": "PROBLEM"
+  },
+  {
+    "IPF": "PROBLEM"
+  },
+  {
+    "irritable bowel syndrome": "PROBLEM"
+  },
+  {
+    "respiratory distress": "PROBLEM"
+  },
+  {
+    "oxygen": "TEST"
+  },
+  {
+    "respiratory rate": "TEST"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "pulse": "TEST"
+  },
+  {
+    "weight": "TEST"
+  },
+  {
+    "jugular venous pressure distention": "PROBLEM"
+  },
+  {
+    "adenopathy": "PROBLEM"
+  },
+  {
+    "crackles": "PROBLEM"
+  },
+  {
+    "decreased breath sounds": "PROBLEM"
+  },
+  {
+    "protuberant": "PROBLEM"
+  },
+  {
+    "Bowel sounds": "TEST"
+  },
+  {
+    "tender": "PROBLEM"
+  },
+  {
+    "organomegaly": "PROBLEM"
+  },
+  {
+    "ascites": "PROBLEM"
+  },
+  {
+    "scrotal edema": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "pretibial and lateral feet": "PROBLEM"
+  },
+  {
+    "thin skin": "PROBLEM"
+  },
+  {
+    "ecchymosis": "PROBLEM"
+  },
+  {
+    "petechiae": "PROBLEM"
+  },
+  {
+    "total protein": "TEST"
+  },
+  {
+    "albumin": "TEST"
+  },
+  {
+    "M-spike": "PROBLEM"
+  },
+  {
+    "B12": "TEST"
+  },
+  {
+    "folic acid": "TEST"
+  },
+  {
+    "white count": "TEST"
+  },
+  {
+    "hemoglobin": "TEST"
+  },
+  {
+    "platelet count": "TEST"
+  },
+  {
+    "Pneumonia": "PROBLEM"
+  },
+  {
+    "Crohn disease": "PROBLEM"
+  },
+  {
+    "protein-losing enteropathy": "PROBLEM"
+  },
+  {
+    "malnutrition": "PROBLEM"
+  },
+  {
+    "anasarca": "PROBLEM"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "leukocytosis": "PROBLEM"
+  },
+  {
+    "Crohn disease": "PROBLEM"
+  },
+  {
+    "pneumonia": "PROBLEM"
+  },
+  {
+    "protein intake": "TREATMENT"
+  },
+  {
+    "dietary supplement": "TREATMENT"
+  },
+  {
+    "calorie count": "TEST"
+  },
+  {
+    "sedimentation rate": "TEST"
+  },
+  {
+    "C-reactive protein": "TEST"
+  },
+  {
+    "LDH": "TEST"
+  },
+  {
+    "prealbumin": "TEST"
+  },
+  {
+    "thyroid": "TEST"
+  },
+  {
+    "iron studies": "TEST"
+  },
+  {
+    "laboratory studies": "TEST"
+  },
+  {
+    "laboratory abnormalities": "PROBLEM"
+  },
+  {
+    "lower extremity edema": "PROBLEM"
+  },
+  {
+    "hypoalbuminemia": "PROBLEM"
+  },
+  {
+    "diuretics": "DRUG"
+  },
+  {
+    "anasarca": "PROBLEM"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "diarrhea": "PROBLEM"
+  },
+  {
+    "crampy": "PROBLEM"
+  },
+  {
+    "enteropathy": "PROBLEM"
+  },
+  {
+    "malnutrition": "PROBLEM"
+  },
+  {
+    "lower extremity edema": "PROBLEM"
+  },
+  {
+    "folic acid": "DRUG"
+  },
+  {
+    "crohn disease": "PROBLEM"
+  },
+  {
+    "pneumonia": "PROBLEM"
+  }
+]

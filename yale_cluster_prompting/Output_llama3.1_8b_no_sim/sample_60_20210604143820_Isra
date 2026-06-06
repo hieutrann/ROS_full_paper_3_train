@@ -1,12 +1,15 @@
 [
   {
-    "Upper respiratory illness": "PROBLEM"
-  },
-  {
     "apnea": "PROBLEM"
   },
   {
     "pertussis": "PROBLEM"
+  },
+  {
+    "Upper respiratory illness": "PROBLEM"
+  },
+  {
+    "a one plus-month-old female": "PROBLEM"
   },
   {
     "respiratory symptoms": "PROBLEM"
@@ -15,7 +18,7 @@
     "cough": "PROBLEM"
   },
   {
-    "emesis": "PROBLEM"
+    "post-tussive emesis": "PROBLEM"
   },
   {
     "fever": "PROBLEM"
@@ -27,7 +30,7 @@
     "apnea": "PROBLEM"
   },
   {
-    "pertussis": "PROBLEM"
+    "possible pertussis": "PROBLEM"
   },
   {
     "Upper respiratory illness": "PROBLEM"
@@ -36,25 +39,22 @@
     "apnea": "PROBLEM"
   },
   {
-    "pertussis": "PROBLEM"
+    "possible pertussis": "PROBLEM"
   },
   {
-    "COMPLICATIONS": "PROBLEM"
+    "None": "PROBLEM"
   },
   {
     "respiratory symptoms": "PROBLEM"
   },
   {
-    "female": "PROBLEM"
-  },
-  {
     "cough": "PROBLEM"
   },
   {
-    "emesis": "PROBLEM"
+    "post-tussive emesis": "PROBLEM"
   },
   {
-    "fever": "PROBLEM"
+    "questionable fever": "PROBLEM"
   },
   {
     "amoxicillin": "DRUG"
@@ -66,7 +66,7 @@
     "sats": "TEST"
   },
   {
-    "coughing spells": "PROBLEM"
+    "coughing": "PROBLEM"
   },
   {
     "apnea": "PROBLEM"
@@ -78,25 +78,16 @@
     "labs": "TEST"
   },
   {
-    "hospital": "TREATMENT"
-  },
-  {
-    "PHYSICAL EXAMINATION": "TEST"
-  },
-  {
-    "GENERAL": "TEST"
+    "baby": "PROBLEM"
   },
   {
     "nasal discharge": "PROBLEM"
   },
   {
-    "HEENT": "TEST"
+    "HEENT": "PROBLEM"
   },
   {
     "rhonchi": "PROBLEM"
-  },
-  {
-    "retractions": "PROBLEM"
   },
   {
     "coughing": "PROBLEM"
@@ -105,7 +96,7 @@
     "apnea": "PROBLEM"
   },
   {
-    "ABDOMEN": "PROBLEM"
+    "Benign": "PROBLEM"
   },
   {
     "cyanosis": "PROBLEM"
@@ -114,28 +105,28 @@
     "CBC": "TEST"
   },
   {
-    "white count": "TEST"
+    "a white count of 12.4": "TEST"
   },
   {
-    "differential": "TEST"
+    "a differential of 10 segs": "TEST"
   },
   {
-    "lymphs": "TEST"
+    "82 lymphs": "TEST"
   },
   {
-    "monos": "TEST"
+    "8 monos": "TEST"
   },
   {
-    "hemoglobin": "TEST"
+    "hemoglobin of 15": "TEST"
   },
   {
-    "hematocrit": "TEST"
+    "hematocrit 42": "TEST"
   },
   {
-    "platelets": "TEST"
+    "platelets 296,000": "TEST"
   },
   {
-    "BMP": "TEST"
+    "a normal BMP": "TEST"
   },
   {
     "x-ray": "TEST"
@@ -144,16 +135,10 @@
     "infiltrate": "PROBLEM"
   },
   {
-    "influenza swab": "TEST"
-  },
-  {
-    "influenza": "PROBLEM"
+    "rapid influenza swab": "TEST"
   },
   {
     "RSV": "TEST"
-  },
-  {
-    "negative": "TEST"
   },
   {
     "pertussis PCR swab": "TEST"
@@ -183,7 +168,7 @@
     "emesis": "PROBLEM"
   },
   {
-    "episodes": "PROBLEM"
+    "well": "PROBLEM"
   },
   {
     "apnea": "PROBLEM"

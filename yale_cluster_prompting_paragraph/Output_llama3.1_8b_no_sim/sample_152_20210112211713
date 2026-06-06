@@ -1,38 +1,47 @@
 [
   {
-    "menometrorrhagia": "PROBLEM"
+    "Severe menometrorrhagia unresponsive to medical therapy": "PROBLEM"
   },
   {
-    "anemia": "PROBLEM"
+    "Severe anemia": "PROBLEM"
   },
   {
-    "fibroid uterus": "PROBLEM"
+    "Fibroid uterus": "PROBLEM"
   },
   {
-    "hysteroscopy": "TEST"
+    "Hysteroscopy": "TEST"
   },
   {
-    "dilatation and curettage": "TEST"
+    "Dilatation and curettage (D&C)": "TEST"
   },
   {
-    "myomectomy": "TREATMENT"
+    "Myomectomy": "TREATMENT"
   },
   {
-    "Vicodin": "DRUG"
+    "Large endometrial cavity fibroid": "PROBLEM"
+  },
+  {
+    "Vicodin tablets": "DRUG"
   },
   {
     "multiple vitamin": "DRUG"
   },
   {
-    "ferrous sulfate": "DRUG"
+    "ferrous sulfate tablets": "DRUG"
   },
   {
-    "bedrest": "TREATMENT"
+    "a 2nd unit of packed red blood cells": "TREATMENT"
   },
   {
-    "pelvic rest": "TREATMENT"
+    "Hemostasis": "TREATMENT"
   },
   {
-    "Ambulate with assistance": "TREATMENT"
+    "Vicodin tablets 1 tablet p.o. q.4-6 h. p.r.n. pain": "TREATMENT"
+  },
+  {
+    "multiple vitamin 1 tab p.o. daily": "TREATMENT"
+  },
+  {
+    "ferrous sulfate tablets 1 tablet p.o. daily": "TREATMENT"
   }
 ]

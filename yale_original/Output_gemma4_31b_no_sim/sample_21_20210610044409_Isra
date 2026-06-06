@@ -1,9 +1,9 @@
 [
   {
-    "Nausea & Vomiting": "PROBLEM"
+    "nausea": "PROBLEM"
   },
   {
-    "intractable nausea and vomiting": "PROBLEM"
+    "vomiting": "PROBLEM"
   },
   {
     "blood-tinged vomit": "PROBLEM"
@@ -16,6 +16,18 @@
   },
   {
     "blood-tinged vomit": "PROBLEM"
+  },
+  {
+    "alcohol": "DRUG"
+  },
+  {
+    "drugs": "DRUG"
+  },
+  {
+    "tobacco": "DRUG"
+  },
+  {
+    "pregnancy": "PROBLEM"
   },
   {
     "low sodium": "PROBLEM"
@@ -31,9 +43,6 @@
   },
   {
     "total bilirubin": "TEST"
-  },
-  {
-    "urine": "TEST"
   },
   {
     "ketones": "TEST"
@@ -82,9 +91,6 @@
   },
   {
     "Maalox": "DRUG"
-  },
-  {
-    "fluids": "TREATMENT"
   },
   {
     "chemistry": "TEST"

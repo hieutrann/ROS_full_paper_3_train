@@ -1,15 +1,9 @@
 [
   {
-    "speech therapy": "TREATMENT"
-  },
-  {
-    "hemisphere disorder": "PROBLEM"
+    "right hemisphere disorder": "PROBLEM"
   },
   {
     "stroke": "PROBLEM"
-  },
-  {
-    "speech therapy sessions": "TREATMENT"
   },
   {
     "oral mechanism examination": "TEST"
@@ -19,9 +13,6 @@
   },
   {
     "swallowing": "PROBLEM"
-  },
-  {
-    "turn taking skills": "PROBLEM"
   },
   {
     "visual scanning": "PROBLEM"
@@ -42,9 +33,12 @@
     "comprehension": "PROBLEM"
   },
   {
-    "outpatient speech therapy sessions": "TREATMENT"
+    "outpatient speech therapy": "TREATMENT"
   },
   {
-    "discharge summary": "TEST"
+    "speech therapy": "TREATMENT"
+  },
+  {
+    "skilled speech therapy": "TREATMENT"
   }
 ]

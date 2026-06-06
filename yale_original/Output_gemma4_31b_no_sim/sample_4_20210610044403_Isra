@@ -60,7 +60,7 @@
     "Foley catheter": "TREATMENT"
   },
   {
-    "right - sided CVA": "PROBLEM"
+    "CVA": "PROBLEM"
   },
   {
     "atrial fibrillation": "PROBLEM"
@@ -183,7 +183,7 @@
     "Nystatin powder": "DRUG"
   },
   {
-    "oxygen": "DRUG"
+    "oxygen": "TREATMENT"
   },
   {
     "Blood pressure": "TEST"
@@ -213,19 +213,13 @@
     "rash": "PROBLEM"
   },
   {
-    "Regular rhythm": "PROBLEM"
-  },
-  {
     "pacemaker": "TREATMENT"
-  },
-  {
-    "CHEST": "TEST"
   },
   {
     "obese": "PROBLEM"
   },
   {
-    "Bilateral lower extremities edema": "PROBLEM"
+    "lower extremities edema": "PROBLEM"
   },
   {
     "aphasia": "PROBLEM"
@@ -267,10 +261,10 @@
     "culture": "TEST"
   },
   {
-    "guaiac negative status": "PROBLEM"
+    "guaiac": "TEST"
   },
   {
-    "mixed cultures": "PROBLEM"
+    "mixed cultures": "TEST"
   },
   {
     "allergic": "PROBLEM"
@@ -295,9 +289,6 @@
   },
   {
     "Coumadin": "DRUG"
-  },
-  {
-    "poor quality of life": "PROBLEM"
   },
   {
     "hospice": "TREATMENT"

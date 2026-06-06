@@ -3,9 +3,6 @@
     "cardiac catheterization": "TREATMENT"
   },
   {
-    "cardiac catheterization": "PROBLEM"
-  },
-  {
     "Coronary artery disease": "PROBLEM"
   },
   {
@@ -30,19 +27,19 @@
     "cardiac catheterization": "TREATMENT"
   },
   {
-    "TRANSFER DIAGNOSES": "PROBLEM"
+    "TRANSFER DIAGNOSES": "TREATMENT"
   },
   {
     "Coronary artery disease": "PROBLEM"
   },
   {
-    "2": "TEST"
+    "2": "TREATMENT"
   },
   {
     "Chest pain": "PROBLEM"
   },
   {
-    "3": "TEST"
+    "3": "TREATMENT"
   },
   {
     "diabetes": "PROBLEM"
@@ -54,25 +51,25 @@
     "hypertension": "PROBLEM"
   },
   {
-    "5": "PROBLEM"
+    "5": "TEST"
   },
   {
     "obesity": "PROBLEM"
   },
   {
-    "6": "PROBLEM"
+    "6": "TEST"
   },
   {
     "lesion": "PROBLEM"
   },
   {
-    "7": "PROBLEM"
+    "parietal lobe": "PROBLEM"
   },
   {
     "Deconditioning": "PROBLEM"
   },
   {
-    "Cardiology": "PROBLEM"
+    "Cardiology": "TREATMENT"
   },
   {
     "PROCEDURES": "TREATMENT"
@@ -81,16 +78,16 @@
     "Echocardiogram": "TEST"
   },
   {
-    "2": "TEST"
+    "2": "TREATMENT"
   },
   {
-    "MRI of the brain": "TEST"
+    "MRI": "TEST"
   },
   {
-    "3": "TEST"
+    "3": "TREATMENT"
   },
   {
-    "Lower extremity Duplex ultrasound": "TEST"
+    "Duplex ultrasound": "TEST"
   },
   {
     "diabetes": "PROBLEM"
@@ -129,7 +126,7 @@
     "stress test": "TEST"
   },
   {
-    "cardiac cath": "TREATMENT"
+    "cardiac cath": "TEST"
   },
   {
     "amaurosis fugax": "PROBLEM"
@@ -141,10 +138,10 @@
     "lesion": "PROBLEM"
   },
   {
-    "parietal lobe": "PROBLEM"
+    "MRI": "TEST"
   },
   {
-    "Neurology": "PROBLEM"
+    "Neurology": "TREATMENT"
   },
   {
     "ABCD": "TREATMENT"
@@ -153,7 +150,7 @@
     "cardiac cath": "TEST"
   },
   {
-    "ABCD": "DRUG"
+    "ABCD": "TREATMENT"
   },
   {
     "Stable": "PROBLEM"
@@ -165,22 +162,16 @@
     "Aspirin": "DRUG"
   },
   {
-    "daily": "PROBLEM"
-  },
-  {
-    "2": "TEST"
+    "2": "TREATMENT"
   },
   {
     "Lovenox": "DRUG"
   },
   {
-    "daily": "PROBLEM"
+    "3": "TREATMENT"
   },
   {
-    "3": "TEST"
-  },
-  {
-    "Regular Insulin": "DRUG"
+    "Insulin": "DRUG"
   },
   {
     "4": "TEST"
@@ -189,31 +180,25 @@
     "Novolin 70/30": "DRUG"
   },
   {
-    "5": "PROBLEM"
+    "5": "TEST"
   },
   {
     "Metformin": "DRUG"
   },
   {
-    "daily": "PROBLEM"
-  },
-  {
-    "6": "PROBLEM"
+    "6": "TEST"
   },
   {
     "Protonix": "DRUG"
-  },
-  {
-    "daily": "PROBLEM"
-  },
-  {
-    "cardiac cath": "TEST"
   },
   {
     "cardiac cath": "TEST"
   },
   {
     "cardiac catheterization": "TEST"
+  },
+  {
+    "cardiac cath": "TEST"
   },
   {
     "echocardiogram": "TEST"

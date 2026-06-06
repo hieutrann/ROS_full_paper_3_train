@@ -9,37 +9,16 @@
     "phlebotomist": "PROBLEM"
   },
   {
-    "respiratory therapist": "PROBLEM"
-  },
-  {
-    "Hospital": "TEST"
-  },
-  {
     "blood gas": "TEST"
   },
   {
-    "pulse": "TEST"
-  },
-  {
-    "needle": "TEST"
-  },
-  {
-    "protective clothing": "TREATMENT"
-  },
-  {
-    "gloves": "TREATMENT"
+    "pulse": "PROBLEM"
   },
   {
     "needle": "TREATMENT"
   },
   {
     "finger": "PROBLEM"
-  },
-  {
-    "emergency department": "TEST"
-  },
-  {
-    "baseline studies": "TEST"
   },
   {
     "injury": "PROBLEM"
@@ -51,10 +30,10 @@
     "hepatitis C": "PROBLEM"
   },
   {
-    "blood tests": "TEST"
+    "a blood tests": "TEST"
   },
   {
-    "final exam": "TEST"
+    "his final exam": "TEST"
   },
   {
     "viral illness": "PROBLEM"
@@ -84,9 +63,6 @@
     "congestion": "PROBLEM"
   },
   {
-    "cold": "PROBLEM"
-  },
-  {
     "coughing": "PROBLEM"
   },
   {
@@ -100,9 +76,6 @@
   },
   {
     "abdominal symptoms": "PROBLEM"
-  },
-  {
-    "abdominal pain": "PROBLEM"
   },
   {
     "urinary symptoms": "PROBLEM"
@@ -141,10 +114,7 @@
     "full duty work": "TREATMENT"
   },
   {
-    "PHYSICAL EXAMINATION": "TEST"
-  },
-  {
-    "He was seated upright": "TEST"
+    "awake": "PROBLEM"
   },
   {
     "ill": "PROBLEM"
@@ -156,16 +126,16 @@
     "hydrated": "PROBLEM"
   },
   {
-    "temperature": "TEST"
+    "temperature": "PROBLEM"
   },
   {
-    "pulse": "TEST"
+    "pulse": "PROBLEM"
   },
   {
-    "respirations": "TEST"
+    "respirations": "PROBLEM"
   },
   {
-    "blood pressure": "TEST"
+    "blood pressure": "PROBLEM"
   },
   {
     "HEENT exam": "TEST"
@@ -174,7 +144,7 @@
     "sclerae": "PROBLEM"
   },
   {
-    "movements": "TEST"
+    "Ocular movements": "PROBLEM"
   },
   {
     "oropharynx": "PROBLEM"
@@ -189,22 +159,10 @@
     "neck": "PROBLEM"
   },
   {
-    "supple": "TEST"
-  },
-  {
-    "nontender": "TEST"
-  },
-  {
     "masses": "PROBLEM"
   },
   {
     "adenopathy": "PROBLEM"
-  },
-  {
-    "cervical": "TEST"
-  },
-  {
-    "axillary": "TEST"
   },
   {
     "wheeze": "PROBLEM"
@@ -213,13 +171,7 @@
     "rales": "PROBLEM"
   },
   {
-    "Heart tones": "TEST"
-  },
-  {
-    "murmur": "PROBLEM"
-  },
-  {
-    "gallop": "PROBLEM"
+    "Heart tones": "PROBLEM"
   },
   {
     "abdomen": "PROBLEM"
@@ -243,16 +195,7 @@
     "needlestick": "PROBLEM"
   },
   {
-    "contaminated": "PROBLEM"
-  },
-  {
-    "index finger": "PROBLEM"
-  },
-  {
     "HIV": "PROBLEM"
-  },
-  {
-    "hepatitis C": "PROBLEM"
   },
   {
     "hepatitis C": "PROBLEM"
@@ -264,13 +207,13 @@
     "hepatitis B": "PROBLEM"
   },
   {
+    "a 3 shot series": "TREATMENT"
+  },
+  {
     "titers": "TEST"
   },
   {
-    "antibodies": "TEST"
-  },
-  {
-    "surgery": "TREATMENT"
+    "protected antibodies": "TEST"
   },
   {
     "tetanus": "DRUG"
@@ -300,9 +243,6 @@
     "Blood tests": "TEST"
   },
   {
-    "results": "TEST"
-  },
-  {
     "liver function test": "TEST"
   },
   {
@@ -313,9 +253,6 @@
   },
   {
     "acute intestinal illness": "PROBLEM"
-  },
-  {
-    "infection": "PROBLEM"
   },
   {
     "Blood-borne pathogen exposure": "PROBLEM"
@@ -339,7 +276,7 @@
     "gloves": "TREATMENT"
   },
   {
-    "intimate contacts": "PROBLEM"
+    "exposure": "PROBLEM"
   },
   {
     "regular work": "TREATMENT"
@@ -351,13 +288,22 @@
     "medically stationary": "PROBLEM"
   },
   {
-    "impairment": "PROBLEM"
-  },
-  {
     "hepatitis": "PROBLEM"
   },
   {
-    "pathogen exposure": "PROBLEM"
+    "nausea": "PROBLEM"
+  },
+  {
+    "viral illness": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "blood-borne": "PROBLEM"
+  },
+  {
+    "blood borne": "PROBLEM"
   },
   {
     "blood-borne": "PROBLEM"
@@ -367,20 +313,5 @@
   },
   {
     "needlestick": "PROBLEM"
-  },
-  {
-    "viral illness": "PROBLEM"
-  },
-  {
-    "nausea": "PROBLEM"
-  },
-  {
-    "vomiting": "PROBLEM"
-  },
-  {
-    "phlebotomist": "TREATMENT"
-  },
-  {
-    "full duty work": "TREATMENT"
   }
 ]

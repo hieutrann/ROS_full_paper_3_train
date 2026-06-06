@@ -1,6 +1,6 @@
 [
   {
-    "Pneumonia": "PROBLEM"
+    "Atypical pneumonia": "PROBLEM"
   },
   {
     "hypoxia": "PROBLEM"
@@ -9,7 +9,7 @@
     "rheumatoid arthritis": "PROBLEM"
   },
   {
-    "adrenal insufficiency": "PROBLEM"
+    "suspected mild stress-induced adrenal insufficiency": "PROBLEM"
   },
   {
     "cough": "PROBLEM"
@@ -24,10 +24,25 @@
     "chills": "PROBLEM"
   },
   {
-    "Atypical pneumonia": "PROBLEM"
+    "Pneumonia": "PROBLEM"
   },
   {
-    "x-ray": "TEST"
+    "Hypoxia": "PROBLEM"
+  },
+  {
+    "Rheumatoid arthritis": "PROBLEM"
+  },
+  {
+    "Suspected mild stress-induced adrenal insufficiency": "PROBLEM"
+  },
+  {
+    "Initial x-ray": "TEST"
+  },
+  {
+    "CT scan": "TEST"
+  },
+  {
+    "C. difficile toxin": "TEST"
   },
   {
     "Avelox": "DRUG"
@@ -42,15 +57,6 @@
     "azithromycin": "DRUG"
   },
   {
-    "O2 saturations": "TEST"
-  },
-  {
-    "CT scan": "TEST"
-  },
-  {
-    "C. difficile toxin": "TEST"
-  },
-  {
     "methotrexate": "DRUG"
   },
   {
@@ -60,6 +66,9 @@
     "prednisone": "DRUG"
   },
   {
-    "pneumonitis": "PROBLEM"
+    "Rocephin IV": "TREATMENT"
+  },
+  {
+    "azithromycin": "TREATMENT"
   }
 ]

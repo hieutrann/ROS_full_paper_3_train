@@ -1,6 +1,6 @@
 [
   {
-    "shoulder bursitis": "PROBLEM"
+    "bursitis": "PROBLEM"
   },
   {
     "pharyngitis": "PROBLEM"
@@ -36,6 +36,12 @@
     "numbness": "PROBLEM"
   },
   {
+    "shoulder": "PROBLEM"
+  },
+  {
+    "ADD": "PROBLEM"
+  },
+  {
     "ADHD": "PROBLEM"
   },
   {
@@ -60,9 +66,6 @@
     "tonsillectomy": "TREATMENT"
   },
   {
-    "incision": "TREATMENT"
-  },
-  {
-    "drainage": "TREATMENT"
+    "counseling": "TREATMENT"
   }
 ]

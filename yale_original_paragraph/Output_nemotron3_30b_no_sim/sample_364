@@ -1,0 +1,122 @@
+[
+  {
+    "Pap": "TEST"
+  },
+  {
+    "breast exam": "TREATMENT"
+  },
+  {
+    "chest": "PROBLEM"
+  },
+  {
+    "back": "PROBLEM"
+  },
+  {
+    "night": "PROBLEM"
+  },
+  {
+    "15 to 20 minutes": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "diaphoresis": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "two months": "PROBLEM"
+  },
+  {
+    "EKG": "TEST"
+  },
+  {
+    "foot surgery": "TREATMENT"
+  },
+  {
+    "Reactive airway disease": "PROBLEM"
+  },
+  {
+    "rheumatoid arthritis": "PROBLEM"
+  },
+  {
+    "surgery on her hands and feet": "TREATMENT"
+  },
+  {
+    "gravida 4, para 5": "PROBLEM"
+  },
+  {
+    "vaginal deliveries": "PROBLEM"
+  },
+  {
+    "iron deficiency anemia": "PROBLEM"
+  },
+  {
+    "osteoporosis": "PROBLEM"
+  },
+  {
+    "hypothyroidism": "PROBLEM"
+  },
+  {
+    "methotrexate": "DRUG"
+  },
+  {
+    "Fosamax": "DRUG"
+  },
+  {
+    "folic acid": "DRUG"
+  },
+  {
+    "amitriptyline": "DRUG"
+  },
+  {
+    "Synthroid": "DRUG"
+  },
+  {
+    "calcium": "DRUG"
+  },
+  {
+    "multivitamin": "DRUG"
+  },
+  {
+    "baby aspirin": "DRUG"
+  },
+  {
+    "Colace": "DRUG"
+  },
+  {
+    "Atrophic vaginal mucosa": "PROBLEM"
+  },
+  {
+    "cervical lesions": "PROBLEM"
+  },
+  {
+    "cervical motion tenderness": "PROBLEM"
+  },
+  {
+    "adnexal tenderness": "PROBLEM"
+  },
+  {
+    "masses palpated": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "GI reflux type symptoms": "PROBLEM"
+  },
+  {
+    "TSH": "TEST"
+  },
+  {
+    "DEXA": "TEST"
+  },
+  {
+    "mammogram": "TEST"
+  }
+]

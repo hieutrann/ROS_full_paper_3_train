@@ -1,0 +1,296 @@
+[
+  {
+    "Blood pressure": "TEST"
+  },
+  {
+    "pulse": "TEST"
+  },
+  {
+    "respirations": "TEST"
+  },
+  {
+    "temperature": "TEST"
+  },
+  {
+    "Alert and in no apparent distress": "PROBLEM"
+  },
+  {
+    "calm": "PROBLEM"
+  },
+  {
+    "cooperative": "PROBLEM"
+  },
+  {
+    "communicative": "PROBLEM"
+  },
+  {
+    "EOMI": "PROBLEM"
+  },
+  {
+    "PERRLA": "PROBLEM"
+  },
+  {
+    "Sclerae nonicteric": "PROBLEM"
+  },
+  {
+    "No lesions lids": "PROBLEM"
+  },
+  {
+    "lashes": "PROBLEM"
+  },
+  {
+    "brows": "PROBLEM"
+  },
+  {
+    "conjunctivae noted": "PROBLEM"
+  },
+  {
+    "Funduscopic examination unremarkable": "PROBLEM"
+  },
+  {
+    "No papilledema": "PROBLEM"
+  },
+  {
+    "glaucoma": "PROBLEM"
+  },
+  {
+    "cataracts": "PROBLEM"
+  },
+  {
+    "Ears: Normal set and shape with normal hearing and normal TMs": "PROBLEM"
+  },
+  {
+    "Nose and Sinus: Unremarkable": "PROBLEM"
+  },
+  {
+    "Mouth, Tongue, Teeth, and Throat: Negative except for dental work": "PROBLEM"
+  },
+  {
+    "Supple and pain free": "PROBLEM"
+  },
+  {
+    "no carotid bruit": "PROBLEM"
+  },
+  {
+    "JVD": "PROBLEM"
+  },
+  {
+    "significant cervical adenopathy": "PROBLEM"
+  },
+  {
+    "Trachea is midline": "PROBLEM"
+  },
+  {
+    "without stridor": "PROBLEM"
+  },
+  {
+    "shift": "PROBLEM"
+  },
+  {
+    "subcutaneous emphysema": "PROBLEM"
+  },
+  {
+    "Thyroid is palpable": "PROBLEM"
+  },
+  {
+    "nontender": "PROBLEM"
+  },
+  {
+    "not enlarged": "PROBLEM"
+  },
+  {
+    "free of nodularity": "PROBLEM"
+  },
+  {
+    "Lungs bilaterally clear to auscultation and percussion": "TEST"
+  },
+  {
+    "S1 and S2": "PROBLEM"
+  },
+  {
+    "Regular rate and rhythm": "PROBLEM"
+  },
+  {
+    "without murmur": "PROBLEM"
+  },
+  {
+    "heave": "PROBLEM"
+  },
+  {
+    "click": "PROBLEM"
+  },
+  {
+    "lift": "PROBLEM"
+  },
+  {
+    "thrill": "PROBLEM"
+  },
+  {
+    "rub": "PROBLEM"
+  },
+  {
+    "gallop": "PROBLEM"
+  },
+  {
+    "PMI is nondisplaced": "PROBLEM"
+  },
+  {
+    "Chest wall is unremarkable to inspection and palpation": "PROBLEM"
+  },
+  {
+    "No axillary or supraclavicular adenopathy detected": "PROBLEM"
+  },
+  {
+    "Normal male breast tissue": "PROBLEM"
+  },
+  {
+    "No hepatosplenomegaly": "PROBLEM"
+  },
+  {
+    "mass": "PROBLEM"
+  },
+  {
+    "tenderness": "PROBLEM"
+  },
+  {
+    "rebound": "PROBLEM"
+  },
+  {
+    "rigidity": "PROBLEM"
+  },
+  {
+    "guarding": "PROBLEM"
+  },
+  {
+    "widening of the aortic impulse": "PROBLEM"
+  },
+  {
+    "intraabdominal bruit": "PROBLEM"
+  },
+  {
+    "Normal penis": "PROBLEM"
+  },
+  {
+    "bilaterally descended testes": "PROBLEM"
+  },
+  {
+    "normal in size, shape, and contour": "PROBLEM"
+  },
+  {
+    "without evidence of hernia": "PROBLEM"
+  },
+  {
+    "hydrocele": "PROBLEM"
+  },
+  {
+    "Negative to 7 cm by gloved digital palpation": "PROBLEM"
+  },
+  {
+    "Hemoccult-negative stool": "PROBLEM"
+  },
+  {
+    "normal-sized prostate": "PROBLEM"
+  },
+  {
+    "free of nodularity or tenderness": "PROBLEM"
+  },
+  {
+    "No rectal masses palpated": "PROBLEM"
+  },
+  {
+    "Good distal pulse and perfusion": "PROBLEM"
+  },
+  {
+    "without evidence of edema": "PROBLEM"
+  },
+  {
+    "cyanosis": "PROBLEM"
+  },
+  {
+    "clubbing": "PROBLEM"
+  },
+  {
+    "deep venous thrombosis": "PROBLEM"
+  },
+  {
+    "Nails of the hands and feet, and creases of the palms and soles are unremarkable": "PROBLEM"
+  },
+  {
+    "Good active and passive range of motion of all major joints": "PROBLEM"
+  },
+  {
+    "Normal to inspection and percussion": "PROBLEM"
+  },
+  {
+    "Negative for spinous process tenderness": "PROBLEM"
+  },
+  {
+    "CVA tenderness": "PROBLEM"
+  },
+  {
+    "straight-leg raising": "PROBLEM"
+  },
+  {
+    "Kernig": "PROBLEM"
+  },
+  {
+    "Brudzinski signs": "PROBLEM"
+  },
+  {
+    "Nonfocal for cranial and peripheral nervous systems": "PROBLEM"
+  },
+  {
+    "strength": "PROBLEM"
+  },
+  {
+    "sensation": "PROBLEM"
+  },
+  {
+    "cerebellar function": "PROBLEM"
+  },
+  {
+    "Affect is normal": "PROBLEM"
+  },
+  {
+    "Speech is clear and fluent": "PROBLEM"
+  },
+  {
+    "Thought process is lucid and rational": "PROBLEM"
+  },
+  {
+    "Gait and station are unremarkable": "PROBLEM"
+  },
+  {
+    "Unremarkable for any premalignant or malignant condition": "PROBLEM"
+  },
+  {
+    "normal changes for age": "PROBLEM"
+  },
+  {
+    "general medicine": "TEST"
+  },
+  {
+    "digital palpation": "TEST"
+  },
+  {
+    "hemoccult-negative": "TEST"
+  },
+  {
+    "heent": "TEST"
+  },
+  {
+    "palpation": "TEST"
+  },
+  {
+    "breasts": "TEST"
+  },
+  {
+    "male": "TEST"
+  },
+  {
+    "tenderness": "TEST"
+  },
+  {
+    "tongue": "TEST"
+  }
+]

@@ -21,6 +21,9 @@
     "intubation": "TREATMENT"
   },
   {
+    "DIAGNOSES": "TEST"
+  },
+  {
     "Disseminated intravascular coagulation": "PROBLEM"
   },
   {
@@ -75,7 +78,7 @@
     "coagulopathy": "PROBLEM"
   },
   {
-    "drugs": "DRUG"
+    "illicit drugs": "DRUG"
   },
   {
     "sedated": "PROBLEM"
@@ -84,13 +87,10 @@
     "intubated": "TREATMENT"
   },
   {
-    "rate": "TEST"
+    "VITAL SIGNS": "TEST"
   },
   {
-    "blood pressure": "TEST"
-  },
-  {
-    "respiratory rate": "TEST"
+    "ventilator": "TREATMENT"
   },
   {
     "conjunctival hemorrhage": "PROBLEM"
@@ -114,10 +114,10 @@
     "HEART": "PROBLEM"
   },
   {
-    "ABDOMEN": "PROBLEM"
+    "bowel sounds": "TEST"
   },
   {
-    "central line": "PROBLEM"
+    "central line": "TEST"
   },
   {
     "clubbing": "PROBLEM"
@@ -132,7 +132,7 @@
     "compromise arterial blood flow": "PROBLEM"
   },
   {
-    "DIC": "PROBLEM"
+    "DIC": "TEST"
   },
   {
     "platelet count": "TEST"
@@ -162,25 +162,22 @@
     "factor replacement": "TREATMENT"
   },
   {
+    "factor replacement": "TREATMENT"
+  },
+  {
     "Xigris": "DRUG"
   },
   {
     "coagulopathy": "PROBLEM"
   },
   {
-    "fibrinogen": "TEST"
-  },
-  {
-    "coagulation times": "TEST"
-  },
-  {
     "heparin": "DRUG"
   },
   {
-    "coagulation routines": "TEST"
+    "laboratory studies": "TEST"
   },
   {
-    "laboratory studies": "TEST"
+    "general medicine": "TEST"
   },
   {
     "intravascular": "PROBLEM"
@@ -219,7 +216,7 @@
     "respiratory": "PROBLEM"
   },
   {
-    "oropharynx": "PROBLEM"
+    "oropharynx": "TEST"
   },
   {
     "sepsis": "PROBLEM"

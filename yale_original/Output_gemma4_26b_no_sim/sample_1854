@@ -6,13 +6,19 @@
     "CT cervical spine": "TEST"
   },
   {
-    "CT examination of the cervical spine": "TEST"
+    "CT examination": "TEST"
+  },
+  {
+    "cervical spine": "PROBLEM"
   },
   {
     "CT cervical spine (C-spine)": "TEST"
   },
   {
-    "CT examination of the cervical spine": "TEST"
+    "CT examination": "TEST"
+  },
+  {
+    "cervical spine": "PROBLEM"
   },
   {
     "fractures": "PROBLEM"
@@ -27,12 +33,24 @@
     "osseous central canal or foraminal narrowing": "PROBLEM"
   },
   {
+    "c-spine": "PROBLEM"
+  },
+  {
     "degenerative endplate": "PROBLEM"
   },
   {
     "ct examination": "TEST"
   },
   {
+    "cervical spine": "PROBLEM"
+  },
+  {
     "ct": "TEST"
+  },
+  {
+    "spine": "PROBLEM"
+  },
+  {
+    "cervical": "PROBLEM"
   }
 ]

@@ -39,13 +39,16 @@
     "increased work of breathing": "PROBLEM"
   },
   {
-    "nebulized albuterol": "DRUG"
+    "nebulized treatments": "TREATMENT"
+  },
+  {
+    "continuous nebulized albuterol": "TREATMENT"
   },
   {
     "respiratory distress": "PROBLEM"
   },
   {
-    "corticosteroids": "DRUG"
+    "systemic corticosteroids": "TREATMENT"
   },
   {
     "x-ray": "TEST"
@@ -75,9 +78,6 @@
     "white count": "TEST"
   },
   {
-    "bands": "PROBLEM"
-  },
-  {
     "pneumonia": "PROBLEM"
   },
   {
@@ -102,7 +102,10 @@
     "masses": "PROBLEM"
   },
   {
-    "wheezing": "PROBLEM"
+    "Bilateral basilar wheezing": "PROBLEM"
+  },
+  {
+    "Bowel sounds": "TEST"
   },
   {
     "hepatosplenomegaly": "PROBLEM"

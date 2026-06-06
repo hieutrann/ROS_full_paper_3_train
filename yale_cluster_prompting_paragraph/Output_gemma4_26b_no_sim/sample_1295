@@ -9,6 +9,9 @@
     "Innocent heart murmur": "PROBLEM"
   },
   {
+    "heart murmur": "PROBLEM"
+  },
+  {
     "congestion": "PROBLEM"
   },
   {
@@ -37,9 +40,6 @@
   },
   {
     "albuterol MDI": "DRUG"
-  },
-  {
-    "upper airway congestion": "PROBLEM"
   },
   {
     "systolic murmur": "PROBLEM"

@@ -1,5 +1,8 @@
 [
   {
+    "Fit for duty evaluation": "TEST"
+  },
+  {
     "right shoulder pain": "PROBLEM"
   },
   {
@@ -60,22 +63,10 @@
     "temperature": "TEST"
   },
   {
-    "acute distress": "PROBLEM"
-  },
-  {
     "Gross neurologic examination": "TEST"
   },
   {
     "ENT examination": "TEST"
-  },
-  {
-    "oropharynx": "TEST"
-  },
-  {
-    "nasopharynx": "TEST"
-  },
-  {
-    "tympanic membranes": "TEST"
   },
   {
     "adenopathy": "PROBLEM"
@@ -84,22 +75,13 @@
     "thyromegaly": "PROBLEM"
   },
   {
-    "Cardiovascular": "TEST"
-  },
-  {
-    "Lungs": "TEST"
-  },
-  {
     "tender": "PROBLEM"
-  },
-  {
-    "range of motion": "TEST"
   },
   {
     "pain": "PROBLEM"
   },
   {
-    "flexion": "TEST"
+    "flexion": "PROBLEM"
   },
   {
     "Neer's": "TEST"
@@ -120,7 +102,7 @@
     "Yergason's testing": "TEST"
   },
   {
-    "Two view x-rays": "TEST"
+    "x-rays": "TEST"
   },
   {
     "osseous abnormalities": "PROBLEM"

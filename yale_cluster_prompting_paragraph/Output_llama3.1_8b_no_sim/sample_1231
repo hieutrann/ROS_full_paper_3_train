@@ -12,6 +12,12 @@
     "pleurodesis": "TREATMENT"
   },
   {
+    "thoracic epidural placement": "TREATMENT"
+  },
+  {
+    "celiac plexuses/neurolytic block": "TREATMENT"
+  },
+  {
     "Dilaudid PCA": "DRUG"
   },
   {
@@ -25,14 +31,5 @@
   },
   {
     "Duragesic patch": "DRUG"
-  },
-  {
-    "thoracic epidural placement": "TREATMENT"
-  },
-  {
-    "celiac plexuses/neurolytic block": "TREATMENT"
-  },
-  {
-    "anxiety": "PROBLEM"
   }
 ]

@@ -12,22 +12,16 @@
     "fever": "PROBLEM"
   },
   {
-    "spitting up": "PROBLEM"
+    "Amoxil": "DRUG"
   },
   {
-    "difficulty breathing": "PROBLEM"
+    "Aldex": "DRUG"
   },
   {
-    "congestion": "PROBLEM"
+    "ear": "PROBLEM"
   },
   {
     "temperature": "TEST"
-  },
-  {
-    "right TM": "TEST"
-  },
-  {
-    "left TM": "TEST"
   },
   {
     "Amoxil": "DRUG"
@@ -36,22 +30,10 @@
     "Aldex": "DRUG"
   },
   {
-    "respiratory rate": "TEST"
-  },
-  {
-    "right TM": "TEST"
-  },
-  {
-    "nasal discharge": "PROBLEM"
-  },
-  {
-    "chem panel": "TEST"
-  },
-  {
     "RSV screen": "TEST"
   },
   {
-    "chest x-ray": "TEST"
+    "Chest x-ray": "TEST"
   },
   {
     "CBC": "TEST"

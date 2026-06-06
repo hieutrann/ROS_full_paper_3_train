@@ -12,6 +12,9 @@
     "intubated": "TREATMENT"
   },
   {
+    "fishbone": "PROBLEM"
+  },
+  {
     "foreign body": "PROBLEM"
   },
   {
@@ -22,6 +25,9 @@
   },
   {
     "intubated": "TREATMENT"
+  },
+  {
+    "fishbone": "PROBLEM"
   },
   {
     "diabetes": "PROBLEM"
@@ -42,6 +48,9 @@
     "cataract": "PROBLEM"
   },
   {
+    "ALLERGIES": "PROBLEM"
+  },
+  {
     "Prevacid": "DRUG"
   },
   {
@@ -58,6 +67,21 @@
   },
   {
     "Solu-Medrol": "DRUG"
+  },
+  {
+    "illicit drugs": "DRUG"
+  },
+  {
+    "alcohol": "DRUG"
+  },
+  {
+    "tobacco": "DRUG"
+  },
+  {
+    "PHYSICAL EXAMINATION": "TEST"
+  },
+  {
+    "hospital chart": "TEST"
   },
   {
     "airway compromise": "PROBLEM"
@@ -81,19 +105,13 @@
     "ventilatory support": "TREATMENT"
   },
   {
-    "operating room": "TEST"
-  },
-  {
     "airway": "PROBLEM"
-  },
-  {
-    "extubated": "TREATMENT"
   },
   {
     "p.o.s": "TEST"
   },
   {
-    "X": "TEST"
+    "general medicine": "TEST"
   },
   {
     "diabetes": "PROBLEM"

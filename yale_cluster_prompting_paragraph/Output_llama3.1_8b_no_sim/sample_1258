@@ -1,12 +1,18 @@
 [
   {
-    "Multiple contusions": "PROBLEM"
-  },
-  {
     "abdominal pain": "PROBLEM"
   },
   {
-    "Accutane": "DRUG"
+    "contusions": "PROBLEM"
+  },
+  {
+    "motor vehicle accident": "PROBLEM"
+  },
+  {
+    "motor vehicle collision": "PROBLEM"
+  },
+  {
+    "CT scan": "TEST"
   },
   {
     "Vicodin": "DRUG"
@@ -15,9 +21,33 @@
     "Flexeril": "DRUG"
   },
   {
-    "CT scan": "TEST"
+    "Tylenol": "DRUG"
   },
   {
-    "Tylenol": "DRUG"
+    "Accutane": "DRUG"
+  },
+  {
+    "multiple x-rays": "TEST"
+  },
+  {
+    "CT scan of the cervical spine": "TEST"
+  },
+  {
+    "CT scan of the brain": "TEST"
+  },
+  {
+    "CT scan of the abdomen": "TEST"
+  },
+  {
+    "urine pregnancy test": "TEST"
+  },
+  {
+    "urinalysis": "TEST"
+  },
+  {
+    "CBC": "TEST"
+  },
+  {
+    "prescription for Vicodin and Flexeril": "TREATMENT"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "Anemia": "PROBLEM"
+    "anemia": "PROBLEM"
   },
   {
     "transfusion": "TREATMENT"
@@ -15,7 +15,7 @@
     "transfusion": "TREATMENT"
   },
   {
-    "Refractory anemia": "PROBLEM"
+    "anemia": "PROBLEM"
   },
   {
     "transfusion": "TREATMENT"
@@ -54,10 +54,10 @@
     "transfusion": "TREATMENT"
   },
   {
-    "anemia": "PROBLEM"
+    "bleeding": "PROBLEM"
   },
   {
-    "bleeding": "PROBLEM"
+    "anemia": "PROBLEM"
   },
   {
     "blood transfusion": "TREATMENT"
@@ -90,7 +90,7 @@
     "fevers": "PROBLEM"
   },
   {
-    "night sweats": "PROBLEM"
+    "sweats": "PROBLEM"
   },
   {
     "bone pain": "PROBLEM"
@@ -138,7 +138,7 @@
     "Feosol": "DRUG"
   },
   {
-    "tobacco user": "PROBLEM"
+    "tobacco": "PROBLEM"
   },
   {
     "blood disorders": "PROBLEM"
@@ -147,13 +147,10 @@
     "cancer disorders": "PROBLEM"
   },
   {
-    "PHYSICAL EXAMINATION": "TEST"
+    "gentleman": "TREATMENT"
   },
   {
-    "GENERAL": "TEST"
-  },
-  {
-    "alert and oriented": "TEST"
+    "alert": "PROBLEM"
   },
   {
     "Blood pressure": "TEST"
@@ -168,10 +165,7 @@
     "temperature": "TEST"
   },
   {
-    "69 inches": "TEST"
-  },
-  {
-    "174 pounds": "TEST"
+    "tall": "PROBLEM"
   },
   {
     "arcus senilis": "PROBLEM"
@@ -183,7 +177,7 @@
     "pupils": "TEST"
   },
   {
-    "Extraocular movements": "TEST"
+    "movements": "TEST"
   },
   {
     "Oropharynx": "PROBLEM"
@@ -192,7 +186,7 @@
     "Supple": "TEST"
   },
   {
-    "Trachea": "TEST"
+    "Trachea": "PROBLEM"
   },
   {
     "jugular venous pressure distention": "PROBLEM"
@@ -201,13 +195,13 @@
     "adenopathy": "PROBLEM"
   },
   {
-    "CHEST": "TEST"
+    "Chest": "TEST"
   },
   {
-    "HEART": "PROBLEM"
+    "Regular rate and rhythm": "TEST"
   },
   {
-    "ABDOMEN": "PROBLEM"
+    "Abdomen": "PROBLEM"
   },
   {
     "spleen": "PROBLEM"
@@ -225,13 +219,16 @@
     "Noncontributory": "PROBLEM"
   },
   {
-    "DERMATOLOGIC": "PROBLEM"
+    "Dermatologic": "PROBLEM"
   },
   {
     "CARDIOVASCULAR": "PROBLEM"
   },
   {
-    "refractory anemia": "PROBLEM"
+    "anemia": "PROBLEM"
+  },
+  {
+    "transfusion": "TREATMENT"
   },
   {
     "B12": "DRUG"
@@ -252,6 +249,9 @@
     "blood loss": "PROBLEM"
   },
   {
+    "gastroduodenoscopy": "TEST"
+  },
+  {
     "creatinine": "TEST"
   },
   {
@@ -261,7 +261,7 @@
     "bone marrow failure": "PROBLEM"
   },
   {
-    "creatinine": "PROBLEM"
+    "creatinine": "TEST"
   },
   {
     "anemia": "PROBLEM"
@@ -294,7 +294,7 @@
     "bone marrow aspiration": "TREATMENT"
   },
   {
-    "biopsy": "TREATMENT"
+    "bone marrow biopsy": "TREATMENT"
   },
   {
     "refractory anemia": "PROBLEM"
@@ -306,19 +306,10 @@
     "therapeutic interventions": "TREATMENT"
   },
   {
-    "ultrasound": "TEST"
-  },
-  {
     "spleen": "PROBLEM"
   },
   {
-    "refractory anemia": "PROBLEM"
-  },
-  {
-    "anemia": "PROBLEM"
-  },
-  {
-    "myalgias": "PROBLEM"
+    "ultrasound": "TEST"
   },
   {
     "electrophoresis": "TEST"
@@ -345,9 +336,18 @@
     "blood transfusion": "TREATMENT"
   },
   {
+    "refractory anemia": "PROBLEM"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "myalgias": "PROBLEM"
+  },
+  {
     "bone marrow": "TEST"
   },
   {
-    "bone": "TEST"
+    "bone": "PROBLEM"
   }
 ]

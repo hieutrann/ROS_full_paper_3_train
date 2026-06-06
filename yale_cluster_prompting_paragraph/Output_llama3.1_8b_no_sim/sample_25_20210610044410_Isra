@@ -1,6 +1,117 @@
 [
   {
-    "VITAL SIGNS": "TEST"
+    "apparent distress": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "papilledema": "PROBLEM"
+  },
+  {
+    "glaucoma": "PROBLEM"
+  },
+  {
+    "cataracts": "PROBLEM"
+  },
+  {
+    "carotid bruit": "PROBLEM"
+  },
+  {
+    "JVD": "PROBLEM"
+  },
+  {
+    "cervical adenopathy": "PROBLEM"
+  },
+  {
+    "stridor": "PROBLEM"
+  },
+  {
+    "subcutaneous emphysema": "PROBLEM"
+  },
+  {
+    "nodularity": "PROBLEM"
+  },
+  {
+    "hepatosplenomegaly": "PROBLEM"
+  },
+  {
+    "mass": "PROBLEM"
+  },
+  {
+    "tenderness": "PROBLEM"
+  },
+  {
+    "rebound": "PROBLEM"
+  },
+  {
+    "rigidity": "PROBLEM"
+  },
+  {
+    "guarding": "PROBLEM"
+  },
+  {
+    "aortic impulse": "PROBLEM"
+  },
+  {
+    "intraabdominal bruit": "PROBLEM"
+  },
+  {
+    "hernia": "PROBLEM"
+  },
+  {
+    "hydrocele": "PROBLEM"
+  },
+  {
+    "rectal masses": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "cyanosis": "PROBLEM"
+  },
+  {
+    "clubbing": "PROBLEM"
+  },
+  {
+    "deep venous thrombosis": "PROBLEM"
+  },
+  {
+    "spinous process tenderness": "PROBLEM"
+  },
+  {
+    "CVA tenderness": "PROBLEM"
+  },
+  {
+    "Kernig": "PROBLEM"
+  },
+  {
+    "Brudzinski": "PROBLEM"
+  },
+  {
+    "cranial and peripheral nervous systems": "TEST"
+  },
+  {
+    "strength": "TEST"
+  },
+  {
+    "sensation": "TEST"
+  },
+  {
+    "cerebellar function": "TEST"
+  },
+  {
+    "speech": "TEST"
+  },
+  {
+    "thought process": "TEST"
+  },
+  {
+    "gait": "TEST"
+  },
+  {
+    "station": "TEST"
   },
   {
     "digital palpation": "TEST"
@@ -9,27 +120,222 @@
     "Hemoccult-negative": "TEST"
   },
   {
-    "HEENT": "TEST"
+    "auscultation": "TEST"
+  },
+  {
+    "percussion": "TEST"
+  },
+  {
+    "inspection": "TEST"
   },
   {
     "palpation": "TEST"
   },
   {
-    "breasts": "PROBLEM"
+    "breasts": "TEST"
   },
   {
-    "male": "PROBLEM"
+    "penis": "TEST"
   },
   {
-    "tenderness": "PROBLEM"
+    "testes": "TEST"
   },
   {
-    "tongue": "PROBLEM"
+    "prostate": "TEST"
   },
   {
-    "general medicine": "TREATMENT"
+    "stool": "TEST"
   },
   {
-    "normal": "TREATMENT"
+    "rectal examination": "TEST"
+  },
+  {
+    "extremities": "TEST"
+  },
+  {
+    "nails": "TEST"
+  },
+  {
+    "creases": "TEST"
+  },
+  {
+    "palms": "TEST"
+  },
+  {
+    "soles": "TEST"
+  },
+  {
+    "joints": "TEST"
+  },
+  {
+    "back": "TEST"
+  },
+  {
+    "inspection": "TEST"
+  },
+  {
+    "percussion": "TEST"
+  },
+  {
+    "skin": "TEST"
+  },
+  {
+    "premalignant": "TEST"
+  },
+  {
+    "malignant": "TEST"
+  },
+  {
+    "tongue": "TEST"
+  },
+  {
+    "teeth": "TEST"
+  },
+  {
+    "throat": "TEST"
+  },
+  {
+    "trachea": "TEST"
+  },
+  {
+    "thyroid": "TEST"
+  },
+  {
+    "chest wall": "TEST"
+  },
+  {
+    "axillary": "TEST"
+  },
+  {
+    "supraclavicular": "TEST"
+  },
+  {
+    "adenopathy": "TEST"
+  },
+  {
+    "abdomen": "TEST"
+  },
+  {
+    "intraabdominal": "TEST"
+  },
+  {
+    "aortic impulse": "TEST"
+  },
+  {
+    "intraabdominal bruit": "TEST"
+  },
+  {
+    "auscultation": "TEST"
+  },
+  {
+    "percussion": "TEST"
+  },
+  {
+    "inspection": "TEST"
+  },
+  {
+    "palpation": "TEST"
+  },
+  {
+    "rectal": "TEST"
+  },
+  {
+    "gloved digital palpation": "TEST"
+  },
+  {
+    "Hemoccult-negative": "TEST"
+  },
+  {
+    "stool": "TEST"
+  },
+  {
+    "prostate": "TEST"
+  },
+  {
+    "testes": "TEST"
+  },
+  {
+    "penis": "TEST"
+  },
+  {
+    "breasts": "TEST"
+  },
+  {
+    "male": "DRUG"
+  },
+  {
+    "tenderness": "DRUG"
+  },
+  {
+    "dental work": "DRUG"
+  },
+  {
+    "digital palpation": "TREATMENT"
+  },
+  {
+    "gloved digital palpation": "TREATMENT"
+  },
+  {
+    "auscultation": "TREATMENT"
+  },
+  {
+    "percussion": "TREATMENT"
+  },
+  {
+    "inspection": "TREATMENT"
+  },
+  {
+    "palpation": "TREATMENT"
+  },
+  {
+    "rectal examination": "TREATMENT"
+  },
+  {
+    "extremities": "TREATMENT"
+  },
+  {
+    "joints": "TREATMENT"
+  },
+  {
+    "back": "TREATMENT"
+  },
+  {
+    "skin": "TREATMENT"
+  },
+  {
+    "tongue": "TREATMENT"
+  },
+  {
+    "teeth": "TREATMENT"
+  },
+  {
+    "throat": "TREATMENT"
+  },
+  {
+    "trachea": "TREATMENT"
+  },
+  {
+    "chest wall": "TREATMENT"
+  },
+  {
+    "axillary": "TREATMENT"
+  },
+  {
+    "supraclavicular": "TREATMENT"
+  },
+  {
+    "adenopathy": "TREATMENT"
+  },
+  {
+    "abdomen": "TREATMENT"
+  },
+  {
+    "intraabdominal": "TREATMENT"
+  },
+  {
+    "aortic impulse": "TREATMENT"
+  },
+  {
+    "intraabdominal bruit": "TREATMENT"
   }
 ]

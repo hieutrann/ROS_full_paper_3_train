@@ -1,5 +1,8 @@
 [
   {
+    "female physical exam": "TEST"
+  },
+  {
     "Blood pressure": "TEST"
   },
   {
@@ -18,19 +21,7 @@
     "PERRLA": "TEST"
   },
   {
-    "Sclerae nonicteric": "PROBLEM"
-  },
-  {
-    "lesions of lids , lashes , brows , or conjunctivae": "PROBLEM"
-  },
-  {
     "Funduscopic examination": "TEST"
-  },
-  {
-    "TMs": "TEST"
-  },
-  {
-    "canals": "TEST"
   },
   {
     "hearing": "TEST"
@@ -49,9 +40,6 @@
   },
   {
     "thyroid abnormality": "PROBLEM"
-  },
-  {
-    "Lungs": "TEST"
   },
   {
     "S1": "TEST"
@@ -87,9 +75,6 @@
     "axillary or supraclavicular adenopathy": "PROBLEM"
   },
   {
-    "BREASTS": "TEST"
-  },
-  {
     "hepatosplenomegaly": "PROBLEM"
   },
   {
@@ -114,16 +99,13 @@
     "intraabdominal bruit": "PROBLEM"
   },
   {
-    "EXTERNAL GENITALIA": "TEST"
+    "digital palpation": "TEST"
   },
   {
     "Hemoccult": "TEST"
   },
   {
-    "distal pulse": "TEST"
-  },
-  {
-    "perfusion": "TEST"
+    "stool": "TEST"
   },
   {
     "edema": "PROBLEM"
@@ -136,9 +118,6 @@
   },
   {
     "deep venous thrombosis": "PROBLEM"
-  },
-  {
-    "range of motion": "TEST"
   },
   {
     "spinous process tenderness": "PROBLEM"
@@ -156,25 +135,10 @@
     "Brudzinski signs": "TEST"
   },
   {
-    "cranial and peripheral nervous systems": "TEST"
+    "premalignant": "PROBLEM"
   },
   {
-    "strength": "TEST"
-  },
-  {
-    "sensation": "TEST"
-  },
-  {
-    "cerebellar function": "TEST"
-  },
-  {
-    "Speech": "TEST"
-  },
-  {
-    "Gait and station": "TEST"
-  },
-  {
-    "premalignant or malignant condition": "PROBLEM"
+    "malignant condition": "PROBLEM"
   },
   {
     "hepatosplenomegaly": "PROBLEM"

@@ -18,7 +18,7 @@
     "angiography": "TEST"
   },
   {
-    "Left heart catheterization": "TREATMENT"
+    "Left heart catheterization": "TEST"
   },
   {
     "coronary angiography": "TEST"
@@ -36,10 +36,13 @@
     "Right femoral selective angiogram": "TEST"
   },
   {
-    "Angio-Seal": "DRUG"
+    "Closure device": "TREATMENT"
   },
   {
-    "Closure device": "TREATMENT"
+    "femoral arteriotomy": "PROBLEM"
+  },
+  {
+    "Angio-Seal": "DRUG"
   },
   {
     "coronary atherosclerotic heart disease": "PROBLEM"
@@ -102,7 +105,7 @@
     "angiography": "TEST"
   },
   {
-    "6-French JR4 diagnostic catheter": "TEST"
+    "6-French JR4 diagnostic catheter": "TREATMENT"
   },
   {
     "6-French angled pigtail catheter": "TREATMENT"
@@ -132,7 +135,7 @@
     "Perclose": "TREATMENT"
   },
   {
-    "6-French Angio-Seal": "DRUG"
+    "6-French Angio-Seal": "TREATMENT"
   },
   {
     "femoral arteriotomy": "PROBLEM"
@@ -153,7 +156,7 @@
     "end-diastolic pressure": "TEST"
   },
   {
-    "gradient across the aortic valve": "TEST"
+    "aortic valve": "PROBLEM"
   },
   {
     "Left ventricular ejection fraction": "TEST"
@@ -168,10 +171,13 @@
     "CORONARY ANGIOGRAM": "TEST"
   },
   {
-    "mild atherosclerotic plaque": "PROBLEM"
+    "atherosclerotic plaque": "PROBLEM"
   },
   {
-    "proximal LAD was 100% occluded": "PROBLEM"
+    "proximal LAD": "PROBLEM"
+  },
+  {
+    "occluded": "PROBLEM"
   },
   {
     "atherosclerotic plaque": "PROBLEM"
@@ -201,7 +207,7 @@
     "saphenous vein graft": "TREATMENT"
   },
   {
-    "native right coronary artery": "PROBLEM"
+    "right coronary artery": "PROBLEM"
   },
   {
     "saphenous vein graft": "TREATMENT"
@@ -210,10 +216,7 @@
     "PDA": "PROBLEM"
   },
   {
-    "PDA": "PROBLEM"
-  },
-  {
-    "native proximal PDA": "PROBLEM"
+    "proximal PDA": "PROBLEM"
   },
   {
     "PLV disease": "PROBLEM"
@@ -246,10 +249,10 @@
     "percutaneous intervention": "TREATMENT"
   },
   {
-    "mild to moderate distal disease": "PROBLEM"
+    "distal disease": "PROBLEM"
   },
   {
-    "moderate PLV and PDA disease": "PROBLEM"
+    "PLV and PDA disease": "PROBLEM"
   },
   {
     "saphenous vein graft": "TREATMENT"
@@ -265,12 +268,6 @@
   },
   {
     "left ventricular systolic function": "TEST"
-  },
-  {
-    "medical therapy": "TREATMENT"
-  },
-  {
-    "risk factor modification": "TREATMENT"
   },
   {
     "antihyperlipidemic": "DRUG"
@@ -322,6 +319,12 @@
   },
   {
     "ventricular pressure": "TEST"
+  },
+  {
+    "coronary artery": "PROBLEM"
+  },
+  {
+    "saphenous vein": "PROBLEM"
   },
   {
     "atherosclerotic": "PROBLEM"

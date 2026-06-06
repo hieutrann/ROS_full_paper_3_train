@@ -15,9 +15,6 @@
     "Cut on foot": "PROBLEM"
   },
   {
-    "piece of glass fall on to his right foot": "PROBLEM"
-  },
-  {
     "bleeding": "PROBLEM"
   },
   {
@@ -45,12 +42,6 @@
     "smoker": "PROBLEM"
   },
   {
-    "PHYSICAL EXAMINATION": "TEST"
-  },
-  {
-    "VITAL SIGNS": "TEST"
-  },
-  {
     "Temperature": "TEST"
   },
   {
@@ -66,16 +57,10 @@
     "Oxygen saturation": "TEST"
   },
   {
-    "acute distress": "PROBLEM"
-  },
-  {
     "Peripheral pulse": "TEST"
   },
   {
     "Capillary refills": "TEST"
-  },
-  {
-    "RESPIRATIONS": "TEST"
   },
   {
     "shortness of breath": "PROBLEM"
@@ -102,22 +87,22 @@
     "bleeding": "PROBLEM"
   },
   {
-    "tenderness to the foot": "PROBLEM"
-  },
-  {
-    "difficulty": "PROBLEM"
-  },
-  {
-    "discomfort": "PROBLEM"
-  },
-  {
-    "injuries": "PROBLEM"
+    "tenderness": "PROBLEM"
   },
   {
     "partial thickness laceration": "PROBLEM"
   },
   {
     "Motor": "TEST"
+  },
+  {
+    "light touch": "TEST"
+  },
+  {
+    "speech": "TEST"
+  },
+  {
+    "ambulation": "TEST"
   },
   {
     "active bleeding": "PROBLEM"
@@ -136,9 +121,6 @@
   },
   {
     "ACUTE RIGHT FOOT PAIN": "PROBLEM"
-  },
-  {
-    "Stable": "PROBLEM"
   },
   {
     "wound care": "TREATMENT"

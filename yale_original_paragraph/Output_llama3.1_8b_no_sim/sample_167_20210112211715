@@ -21,12 +21,6 @@
     "E. coli": "PROBLEM"
   },
   {
-    "facial droop": "PROBLEM"
-  },
-  {
-    "right-sided weakness": "PROBLEM"
-  },
-  {
     "Vasotec": "DRUG"
   },
   {
@@ -45,39 +39,93 @@
     "Diovan": "DRUG"
   },
   {
-    "multivitamin": "DRUG"
-  },
-  {
-    "calcium with vitamin D": "DRUG"
-  },
-  {
     "Tylenol": "DRUG"
   },
   {
     "IV fluids": "TREATMENT"
   },
   {
-    "swallowing evaluation": "TREATMENT"
+    "swallowing evaluation": "TEST"
   },
   {
-    "IV Vasotec": "TREATMENT"
+    "CT scan": "TEST"
   },
   {
-    "amputation": "TREATMENT"
+    "urinalysis": "TEST"
   },
   {
-    "Lovenox subcutaneously": "TREATMENT"
+    "culture": "TEST"
   },
   {
-    "Ecotrin": "TREATMENT"
+    "blood pressure": "TEST"
   },
   {
-    "IV fluids at 75 mL an hour": "TREATMENT"
+    "temperature": "TEST"
   },
   {
-    "D5 normal saline": "TREATMENT"
+    "pulse": "TEST"
   },
   {
-    "potassium 10 mEq per 1000 mL": "TREATMENT"
+    "respirations": "TEST"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "carotid bruit": "TEST"
+  },
+  {
+    "cervical adenopathy": "TEST"
+  },
+  {
+    "systolic murmur": "TEST"
+  },
+  {
+    "pedal edema": "TEST"
+  },
+  {
+    "fixed flexion deformity": "TEST"
+  },
+  {
+    "withdrawal of lower extremities": "TEST"
+  },
+  {
+    "pressure ulcer": "TEST"
+  },
+  {
+    "white blood cell count": "TEST"
+  },
+  {
+    "hemoglobin": "TEST"
+  },
+  {
+    "hematocrit": "TEST"
+  },
+  {
+    "platelet count": "TEST"
+  },
+  {
+    "sodium": "TEST"
+  },
+  {
+    "potassium": "TEST"
+  },
+  {
+    "chloride": "TEST"
+  },
+  {
+    "bicarbonate": "TEST"
+  },
+  {
+    "BUN": "TEST"
+  },
+  {
+    "creatinine": "TEST"
+  },
+  {
+    "glucose": "TEST"
+  },
+  {
+    "penicillin": "DRUG"
   }
 ]

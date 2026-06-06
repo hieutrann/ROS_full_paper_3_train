@@ -12,7 +12,7 @@
     "conjunctivitis": "PROBLEM"
   },
   {
-    "mild arthritis": "PROBLEM"
+    "arthritis": "PROBLEM"
   },
   {
     "edema": "PROBLEM"
@@ -33,33 +33,24 @@
     "ESR": "TEST"
   },
   {
-    "echocardiogram": "TEST"
-  },
-  {
-    "aspirin": "DRUG"
-  },
-  {
-    "aspirin": "DRUG"
+    "Echocardiogram": "TEST"
   },
   {
     "IVIG": "DRUG"
   },
   {
+    "aspirin": "DRUG"
+  },
+  {
     "Prevacid": "DRUG"
   },
   {
-    "ad-lib": "TREATMENT"
+    "vaccine": "DRUG"
   },
   {
-    "PO ad-lib": "TREATMENT"
+    "aspirin": "TREATMENT"
   },
   {
-    "Aspirin high dose": "TREATMENT"
-  },
-  {
-    "Aspirin low dose": "TREATMENT"
-  },
-  {
-    "Prevacid": "TREATMENT"
+    "IVIG": "TREATMENT"
   }
 ]

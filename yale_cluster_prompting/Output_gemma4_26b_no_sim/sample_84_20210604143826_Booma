@@ -1,12 +1,9 @@
 [
   {
-    "vaginal delivery": "TREATMENT"
+    "C-sections": "TREATMENT"
   },
   {
-    "C-sections": "PROBLEM"
-  },
-  {
-    "C-sections": "PROBLEM"
+    "C-sections": "TREATMENT"
   },
   {
     "ampicillin": "DRUG"
@@ -90,9 +87,6 @@
     "NeoSure": "DRUG"
   },
   {
-    "per os": "TREATMENT"
-  },
-  {
     "Ampicillin": "DRUG"
   },
   {
@@ -112,9 +106,6 @@
   },
   {
     "OG tube": "TREATMENT"
-  },
-  {
-    "feeds": "TREATMENT"
   },
   {
     "EBM": "TREATMENT"
@@ -139,9 +130,6 @@
   },
   {
     "NeoSure": "DRUG"
-  },
-  {
-    "Formula feeding schedule": "TREATMENT"
   },
   {
     "Ad lib feeding": "TREATMENT"

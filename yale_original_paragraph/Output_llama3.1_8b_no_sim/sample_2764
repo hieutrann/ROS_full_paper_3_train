@@ -1,27 +1,30 @@
 [
   {
-    "Pneumonia": "PROBLEM"
+    "pneumonia": "PROBLEM"
   },
   {
-    "Hypoxia": "PROBLEM"
+    "hypoxia": "PROBLEM"
   },
   {
-    "Rheumatoid arthritis": "PROBLEM"
+    "rheumatoid arthritis": "PROBLEM"
   },
   {
-    "Adrenal insufficiency": "PROBLEM"
+    "adrenal insufficiency": "PROBLEM"
   },
   {
-    "C. difficile toxin": "TEST"
+    "cough": "PROBLEM"
   },
   {
-    "CT scan": "TEST"
+    "fevers": "PROBLEM"
   },
   {
-    "Rocephin": "DRUG"
+    "weakness": "PROBLEM"
   },
   {
-    "Azithromycin": "DRUG"
+    "chills": "PROBLEM"
+  },
+  {
+    "loose stools": "PROBLEM"
   },
   {
     "Avelox": "DRUG"
@@ -30,24 +33,39 @@
     "Augmentin": "DRUG"
   },
   {
-    "Methotrexate": "DRUG"
+    "Rocephin": "DRUG"
+  },
+  {
+    "azithromycin": "DRUG"
+  },
+  {
+    "methotrexate": "DRUG"
   },
   {
     "Remicade": "DRUG"
   },
   {
-    "Prednisone": "DRUG"
+    "prednisone": "DRUG"
   },
   {
-    "Incision": "TREATMENT"
+    "CT scan": "TEST"
   },
   {
-    "Drainage": "TREATMENT"
-  },
-  {
-    "X-ray": "TEST"
+    "C. difficile toxin": "TEST"
   },
   {
     "O2 saturations": "TEST"
+  },
+  {
+    "x-ray": "TEST"
+  },
+  {
+    "azithromycin": "TREATMENT"
+  },
+  {
+    "Rocephin IV": "TREATMENT"
+  },
+  {
+    "prednisone therapy": "TREATMENT"
   }
 ]

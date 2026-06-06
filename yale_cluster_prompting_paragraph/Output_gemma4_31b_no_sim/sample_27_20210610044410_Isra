@@ -9,7 +9,7 @@
     "robotic - Assisted laparoscopic left renal cyst decortication": "TREATMENT"
   },
   {
-    "cystoscopy": "TREATMENT"
+    "cystoscopy": "TEST"
   },
   {
     "Left renal cell carcinoma": "PROBLEM"
@@ -33,7 +33,7 @@
     "Robotic - Assisted laparoscopic left renal cyst decortication": "TREATMENT"
   },
   {
-    "cystoscopy": "TREATMENT"
+    "cystoscopy": "TEST"
   },
   {
     "left renal cell carcinoma": "PROBLEM"
@@ -51,6 +51,9 @@
     "renal cell carcinoma": "PROBLEM"
   },
   {
+    "enhancing solid masses": "PROBLEM"
+  },
+  {
     "MRI": "TEST"
   },
   {
@@ -66,7 +69,7 @@
     "left renal cyst decortication": "TREATMENT"
   },
   {
-    "cystoscopy": "TREATMENT"
+    "cystoscopy": "TEST"
   },
   {
     "enlarged renal cysts": "PROBLEM"
@@ -87,7 +90,7 @@
     "abnormalities in the penile nor prostatic urethra": "PROBLEM"
   },
   {
-    "lesions": "PROBLEM"
+    "gross lesions": "PROBLEM"
   },
   {
     "bladder": "PROBLEM"
@@ -103,9 +106,6 @@
   },
   {
     "afebrile": "PROBLEM"
-  },
-  {
-    "vital signs": "TEST"
   },
   {
     "infection": "PROBLEM"
@@ -127,38 +127,5 @@
   },
   {
     "vomiting": "PROBLEM"
-  },
-  {
-    "decortication": "TREATMENT"
-  },
-  {
-    "cystoscopy": "TREATMENT"
-  },
-  {
-    "pain": "PROBLEM"
-  },
-  {
-    "nausea": "PROBLEM"
-  },
-  {
-    "vomiting": "PROBLEM"
-  },
-  {
-    "renal cyst decortication": "TREATMENT"
-  },
-  {
-    "renal cell carcinoma": "PROBLEM"
-  },
-  {
-    "renal cyst": "PROBLEM"
-  },
-  {
-    "nephrectomy": "TREATMENT"
-  },
-  {
-    "cysts": "PROBLEM"
-  },
-  {
-    "carcinoma": "PROBLEM"
   }
 ]

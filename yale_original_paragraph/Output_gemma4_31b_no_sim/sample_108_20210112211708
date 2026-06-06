@@ -1,15 +1,12 @@
 [
   {
-    "outpatient skilled speech therapy": "TREATMENT"
+    "speech therapy": "TREATMENT"
   },
   {
     "right hemisphere disorder": "PROBLEM"
   },
   {
     "stroke": "PROBLEM"
-  },
-  {
-    "outpatient skilled speech therapy": "TREATMENT"
   },
   {
     "outpatient skilled speech therapy": "TREATMENT"
@@ -24,7 +21,7 @@
     "swallowing": "PROBLEM"
   },
   {
-    "visual scanning": "TEST"
+    "visual scanning": "PROBLEM"
   },
   {
     "cancellation task": "TEST"
@@ -39,30 +36,9 @@
     "reading, comprehension": "PROBLEM"
   },
   {
-    "left neglect": "PROBLEM"
-  },
-  {
-    "outpatient speech therapy": "TREATMENT"
-  },
-  {
-    "outpatient speech therapy": "TREATMENT"
-  },
-  {
     "outpatient speech therapy": "TREATMENT"
   },
   {
     "swallow evaluation": "TEST"
-  },
-  {
-    "swallowing": "PROBLEM"
-  },
-  {
-    "skilled speech therapy": "TREATMENT"
-  },
-  {
-    "hemisphere disorder": "PROBLEM"
-  },
-  {
-    "speech therapy": "TREATMENT"
   }
 ]

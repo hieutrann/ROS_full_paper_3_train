@@ -1,12 +1,6 @@
 [
   {
-    "Gastric Bypass": "TREATMENT"
-  },
-  {
     "morbid obesity": "PROBLEM"
-  },
-  {
-    "nonsurgical weight loss": "TREATMENT"
   },
   {
     "Morbid obesity": "PROBLEM"
@@ -24,15 +18,6 @@
     "Laparoscopic gastric bypass": "TREATMENT"
   },
   {
-    "Surgery": "TREATMENT"
-  },
-  {
-    "Anesthesia": "TREATMENT"
-  },
-  {
-    "pain": "PROBLEM"
-  },
-  {
     "morbid obesity": "PROBLEM"
   },
   {
@@ -48,13 +33,10 @@
     "gastric bypass": "TREATMENT"
   },
   {
-    "procedure": "TREATMENT"
+    "hemodynamically stable": "PROBLEM"
   },
   {
-    "procedure": "TREATMENT"
-  },
-  {
-    "procedure": "TREATMENT"
+    "afebrile": "PROBLEM"
   },
   {
     "labs": "TEST"
@@ -69,9 +51,6 @@
     "pain medicine": "DRUG"
   },
   {
-    "liquid diet": "TREATMENT"
-  },
-  {
     "drain": "TREATMENT"
   },
   {
@@ -82,9 +61,6 @@
   },
   {
     "soft": "TREATMENT"
-  },
-  {
-    "heavy lifting": "TREATMENT"
   },
   {
     "narcotic pain medicine": "DRUG"
@@ -115,6 +91,9 @@
   },
   {
     "foul smelling drainage": "PROBLEM"
+  },
+  {
+    "wounds": "PROBLEM"
   },
   {
     "intractable nausea": "PROBLEM"

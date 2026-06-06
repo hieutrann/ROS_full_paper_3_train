@@ -1,5 +1,8 @@
 [
   {
+    "Female Physical Exam": "TEST"
+  },
+  {
     "edema": "PROBLEM"
   },
   {
@@ -15,7 +18,7 @@
     "jaundice": "PROBLEM"
   },
   {
-    "Pupils equally responsive to light": "TEST"
+    "Pupils": "TEST"
   },
   {
     "lesions": "PROBLEM"
@@ -39,10 +42,10 @@
     "lesions": "PROBLEM"
   },
   {
-    "Tympanic membranes": "TEST"
+    "middle ear effusions": "PROBLEM"
   },
   {
-    "middle ear effusions": "PROBLEM"
+    "Mucus": "PROBLEM"
   },
   {
     "erythema": "PROBLEM"
@@ -52,6 +55,9 @@
   },
   {
     "adenopathy": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
   },
   {
     "adenopathy": "PROBLEM"
@@ -72,9 +78,6 @@
     "rhonchi": "PROBLEM"
   },
   {
-    "Heart": "TEST"
-  },
-  {
     "S3": "TEST"
   },
   {
@@ -82,12 +85,6 @@
   },
   {
     "Heart rate": "TEST"
-  },
-  {
-    "Abdominal": "TEST"
-  },
-  {
-    "bowel sounds": "TEST"
   },
   {
     "hepatomegaly": "PROBLEM"
@@ -114,7 +111,7 @@
     "lesions": "PROBLEM"
   },
   {
-    "external hemorrhoids": "PROBLEM"
+    "hemorrhoids": "PROBLEM"
   },
   {
     "joint effusions": "PROBLEM"
@@ -123,7 +120,16 @@
     "erythema": "PROBLEM"
   },
   {
+    "edema": "PROBLEM"
+  },
+  {
+    "pain": "PROBLEM"
+  },
+  {
     "Anterior and posterior drawer test": "TEST"
+  },
+  {
+    "pain": "PROBLEM"
   },
   {
     "joint effusion": "PROBLEM"
@@ -144,9 +150,6 @@
     "tenderness": "PROBLEM"
   },
   {
-    "Knee: Normal range of motion.": "TEST"
-  },
-  {
     "joint effusion": "PROBLEM"
   },
   {
@@ -159,13 +162,7 @@
     "Lachman's test": "TEST"
   },
   {
-    "Bursas nontender": "PROBLEM"
-  },
-  {
     "edema": "PROBLEM"
-  },
-  {
-    "Wrist": "TEST"
   },
   {
     "edema": "PROBLEM"
@@ -174,10 +171,10 @@
     "effusion": "PROBLEM"
   },
   {
-    "Tinel and Phalen tests": "TEST"
+    "Tinel": "TEST"
   },
   {
-    "range of motion": "TEST"
+    "Phalen tests": "TEST"
   },
   {
     "joint effusion": "PROBLEM"
@@ -186,28 +183,22 @@
     "erythema": "PROBLEM"
   },
   {
-    "Olecranon bursa": "PROBLEM"
-  },
-  {
     "edema": "PROBLEM"
   },
   {
     "crepitus": "PROBLEM"
   },
   {
-    "Hip": "PROBLEM"
-  },
-  {
     "swinging test": "TEST"
   },
   {
-    "Trochanteric bursa nontender": "PROBLEM"
+    "Trochanteric bursa": "PROBLEM"
+  },
+  {
+    "pain": "PROBLEM"
   },
   {
     "crepitus": "PROBLEM"
-  },
-  {
-    "gait": "TEST"
   },
   {
     "delusions": "PROBLEM"
@@ -231,6 +222,51 @@
     "agitation": "PROBLEM"
   },
   {
+    "physical examination": "TEST"
+  },
+  {
+    "abdominal": "PROBLEM"
+  },
+  {
+    "anterior chamber": "PROBLEM"
+  },
+  {
+    "cardiovascular": "PROBLEM"
+  },
+  {
+    "chest": "PROBLEM"
+  },
+  {
+    "ear": "PROBLEM"
+  },
+  {
+    "ear canal": "PROBLEM"
+  },
+  {
+    "eye": "PROBLEM"
+  },
+  {
+    "eyelids": "PROBLEM"
+  },
+  {
+    "female physical examination": "TEST"
+  },
+  {
+    "labia majora": "PROBLEM"
+  },
+  {
+    "labia minora": "PROBLEM"
+  },
+  {
+    "nares": "PROBLEM"
+  },
+  {
+    "neck": "PROBLEM"
+  },
+  {
+    "vaginal mucosa": "PROBLEM"
+  },
+  {
     "crepitus": "PROBLEM"
   },
   {
@@ -244,6 +280,9 @@
   },
   {
     "joint effusion": "PROBLEM"
+  },
+  {
+    "normal range of motion": "TEST"
   },
   {
     "joint effusions": "PROBLEM"

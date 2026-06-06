@@ -33,7 +33,13 @@
     "spinal cord injury": "PROBLEM"
   },
   {
-    "cardiovascular and CNS side effects": "PROBLEM"
+    "cardiovascular": "PROBLEM"
+  },
+  {
+    "CNS side effects": "PROBLEM"
+  },
+  {
+    "medications": "DRUG"
   },
   {
     "sedatives": "DRUG"
@@ -66,6 +72,9 @@
     "betadine": "DRUG"
   },
   {
+    "sterile drapes": "TREATMENT"
+  },
+  {
     "needle placement": "TREATMENT"
   },
   {
@@ -84,6 +93,9 @@
     "fluoroscopic views": "TEST"
   },
   {
+    "needle placement": "TREATMENT"
+  },
+  {
     "non-ionic contrast agent": "DRUG"
   },
   {
@@ -96,6 +108,9 @@
     "radiculogram": "TEST"
   },
   {
+    "medications": "DRUG"
+  },
+  {
     "Sterile techniques": "TREATMENT"
   },
   {
@@ -105,7 +120,7 @@
     "oximetry": "TEST"
   },
   {
-    "ice the injection site": "TREATMENT"
+    "ice": "TREATMENT"
   },
   {
     "relative rest": "TREATMENT"

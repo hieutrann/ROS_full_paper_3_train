@@ -66,10 +66,7 @@
     "seizure": "PROBLEM"
   },
   {
-    "cocaine": "PROBLEM"
-  },
-  {
-    "Pulse": "TEST"
+    "cocaine": "DRUG"
   },
   {
     "blood pressure": "TEST"
@@ -130,26 +127,5 @@
   },
   {
     "ALT": "TEST"
-  },
-  {
-    "congestive heart failure": "PROBLEM"
-  },
-  {
-    "hypertension": "PROBLEM"
-  },
-  {
-    "cardiomyopathy": "PROBLEM"
-  },
-  {
-    "coronary artery disease": "PROBLEM"
-  },
-  {
-    "ventricular tachycardia": "PROBLEM"
-  },
-  {
-    "nonischemic cardiomyopathy": "PROBLEM"
-  },
-  {
-    "orthopnea": "PROBLEM"
   }
 ]

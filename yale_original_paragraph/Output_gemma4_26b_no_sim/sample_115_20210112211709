@@ -1,6 +1,6 @@
 [
   {
-    "advanced non-small cell lung carcinoma": "PROBLEM"
+    "non-small cell lung carcinoma": "PROBLEM"
   },
   {
     "left malignant pleural effusion": "PROBLEM"
@@ -63,16 +63,22 @@
     "left pleural effusion": "PROBLEM"
   },
   {
-    "extensive mediastinal mass": "PROBLEM"
+    "mediastinal mass": "PROBLEM"
   },
   {
     "left hilar adenopathy": "PROBLEM"
   },
   {
-    "complete obstruction of the left lower lobe and the lingula and the left pulmonary vein": "PROBLEM"
+    "obstruction of the left lower lobe": "PROBLEM"
   },
   {
-    "multiple nodules on the right side of his chest": "PROBLEM"
+    "obstruction of the lingula": "PROBLEM"
+  },
+  {
+    "obstruction of the left pulmonary vein": "PROBLEM"
+  },
+  {
+    "multiple nodules": "PROBLEM"
   },
   {
     "metastatic disease": "PROBLEM"
@@ -87,7 +93,7 @@
     "chest pain": "PROBLEM"
   },
   {
-    "left-sided chest tube": "TREATMENT"
+    "chest tube": "TREATMENT"
   },
   {
     "bronchoscopy": "TEST"
@@ -103,6 +109,9 @@
   },
   {
     "chemotherapy": "TREATMENT"
+  },
+  {
+    "withdrawal of the life support": "TREATMENT"
   },
   {
     "lung carcinoma": "PROBLEM"

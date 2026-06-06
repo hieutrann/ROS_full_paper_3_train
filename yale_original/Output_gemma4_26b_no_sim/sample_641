@@ -6,10 +6,13 @@
     "atrial fibrillation": "PROBLEM"
   },
   {
-    "large cardioembolic stroke": "PROBLEM"
+    "cardioembolic stroke": "PROBLEM"
   },
   {
-    "Medical management": "TREATMENT"
+    "right brain": "PROBLEM"
+  },
+  {
+    "medical management": "TREATMENT"
   },
   {
     "stroke": "PROBLEM"
@@ -39,6 +42,9 @@
     "Cardizem": "DRUG"
   },
   {
+    "study drug": "DRUG"
+  },
+  {
     "stroke": "PROBLEM"
   },
   {
@@ -54,7 +60,7 @@
     "intubation": "TREATMENT"
   },
   {
-    "paralyzation": "PROBLEM"
+    "paralyzation": "TREATMENT"
   },
   {
     "diastolic": "TEST"
@@ -69,16 +75,10 @@
     "clot": "PROBLEM"
   },
   {
-    "proximal left carotid": "PROBLEM"
-  },
-  {
     "distal clot": "PROBLEM"
   },
   {
-    "prognosis": "PROBLEM"
-  },
-  {
-    "STAT echocardiogram": "TEST"
+    "echocardiogram": "TEST"
   },
   {
     "large clot in the heart": "PROBLEM"
@@ -111,7 +111,7 @@
     "Tremor": "PROBLEM"
   },
   {
-    "early Parkinson's": "PROBLEM"
+    "Parkinson's": "PROBLEM"
   },
   {
     "GERD": "PROBLEM"
@@ -243,7 +243,7 @@
     "ABG": "TEST"
   },
   {
-    "Magnesium": "DRUG"
+    "Magnesium": "TEST"
   },
   {
     "ESR": "TEST"
@@ -258,7 +258,7 @@
     "Chest x-ray": "TEST"
   },
   {
-    "mild cardiomegaly": "PROBLEM"
+    "cardiomegaly": "PROBLEM"
   },
   {
     "atherosclerotic aorta": "PROBLEM"
@@ -276,7 +276,7 @@
     "Chest x-ray": "TEST"
   },
   {
-    "ET tube placement": "TREATMENT"
+    "ET tube": "TREATMENT"
   },
   {
     "cardiomegaly": "PROBLEM"
@@ -288,7 +288,10 @@
     "OGD": "PROBLEM"
   },
   {
-    "atherosclerosis of the aorta": "PROBLEM"
+    "atherosclerosis": "PROBLEM"
+  },
+  {
+    "aorta": "PROBLEM"
   },
   {
     "CT scan of the head": "TEST"
@@ -297,7 +300,10 @@
     "active bleeding": "PROBLEM"
   },
   {
-    "X-rays of the shoulders": "TEST"
+    "X-rays": "TEST"
+  },
+  {
+    "shoulders": "PROBLEM"
   },
   {
     "cardioembolic stroke": "PROBLEM"
@@ -309,13 +315,10 @@
     "fluctuating mental status": "PROBLEM"
   },
   {
-    "critical condition": "PROBLEM"
+    "strokes": "PROBLEM"
   },
   {
-    "multiple strokes": "PROBLEM"
-  },
-  {
-    "large clot burden": "PROBLEM"
+    "clot burden": "PROBLEM"
   },
   {
     "patent foramen ovale": "PROBLEM"
@@ -327,10 +330,7 @@
     "STAT echo": "TEST"
   },
   {
-    "large clot": "PROBLEM"
-  },
-  {
-    "distal clot": "PROBLEM"
+    "clot": "PROBLEM"
   },
   {
     "PFO": "PROBLEM"
@@ -346,6 +346,9 @@
   },
   {
     "emergency retrieval device": "TREATMENT"
+  },
+  {
+    "interventional radiology": "TEST"
   },
   {
     "Hypertension": "PROBLEM"
@@ -370,6 +373,12 @@
   },
   {
     "Cardizem drip": "DRUG"
+  },
+  {
+    "systolic": "TEST"
+  },
+  {
+    "diastolics": "TEST"
   },
   {
     "atrial fibrillation": "PROBLEM"
@@ -417,7 +426,7 @@
     "TSH": "TEST"
   },
   {
-    "STAT echo": "TEST"
+    "echo": "TEST"
   },
   {
     "ultrasound of the leg": "TEST"
@@ -427,6 +436,9 @@
   },
   {
     "ventilator": "TREATMENT"
+  },
+  {
+    "hyperventilate": "TREATMENT"
   },
   {
     "breathing machine": "TREATMENT"
@@ -456,10 +468,13 @@
     "alkalosis": "PROBLEM"
   },
   {
+    "electrolytes": "PROBLEM"
+  },
+  {
     "Deep vein thrombosis": "PROBLEM"
   },
   {
-    "TED hose": "TREATMENT"
+    "thigh-high TED hose": "TREATMENT"
   },
   {
     "SCDs": "TREATMENT"

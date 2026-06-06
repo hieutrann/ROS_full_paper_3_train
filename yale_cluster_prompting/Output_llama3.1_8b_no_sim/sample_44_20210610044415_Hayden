@@ -3,7 +3,7 @@
     "Total vaginal hysterectomy": "TREATMENT"
   },
   {
-    "Microinvasive carcinoma": "PROBLEM"
+    "Microinvasive carcinoma of the cervix": "PROBLEM"
   },
   {
     "Microinvasive carcinoma of the cervix": "PROBLEM"
@@ -18,19 +18,16 @@
     "tubal ligation": "TREATMENT"
   },
   {
-    "Pap smear": "TEST"
+    "an abnormal Pap smear": "PROBLEM"
   },
   {
     "microinvasive carcinoma": "PROBLEM"
   },
   {
-    "cervix": "PROBLEM"
+    "a cone biopsy": "TREATMENT"
   },
   {
-    "cone biopsy": "TREATMENT"
-  },
-  {
-    "microinvasive carcinoma": "PROBLEM"
+    "a biopsy": "TEST"
   },
   {
     "total vaginal hysterectomy": "TREATMENT"
@@ -69,37 +66,16 @@
     "general anesthesia": "TREATMENT"
   },
   {
-    "cystotomy": "TREATMENT"
+    "cystotomy": "PROBLEM"
   },
   {
-    "bladder flap": "TREATMENT"
-  },
-  {
-    "intraoperatively": "TEST"
-  },
-  {
-    "difficulty": "PROBLEM"
-  },
-  {
-    "Postoperative": "TREATMENT"
+    "intraoperatively": "TREATMENT"
   },
   {
     "Bowel and bladder function": "PROBLEM"
   },
   {
-    "ambulating": "TEST"
-  },
-  {
-    "diet": "TEST"
-  },
-  {
-    "postoperative instructions": "TREATMENT"
-  },
-  {
-    "cystogram": "TEST"
-  },
-  {
-    "catheter removal": "TREATMENT"
+    "ambulating": "PROBLEM"
   },
   {
     "cystogram": "TEST"
@@ -120,7 +96,7 @@
     "urinary tract infection": "PROBLEM"
   },
   {
-    "DISCHARGE CONDITION": "PROBLEM"
+    "Good": "PROBLEM"
   },
   {
     "residual disease": "PROBLEM"

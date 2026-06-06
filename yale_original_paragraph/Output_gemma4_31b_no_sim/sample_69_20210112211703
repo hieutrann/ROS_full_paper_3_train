@@ -9,7 +9,7 @@
     "laparoscopic appendicectomy": "TREATMENT"
   },
   {
-    "postoperative paralytic ileus": "PROBLEM"
+    "paralytic ileus": "PROBLEM"
   },
   {
     "left-sided chest pain": "PROBLEM"
@@ -28,9 +28,6 @@
   },
   {
     "left-sided chest pain": "PROBLEM"
-  },
-  {
-    "heart problems": "PROBLEM"
   },
   {
     "nausea": "PROBLEM"
@@ -66,7 +63,10 @@
     "crepitations": "PROBLEM"
   },
   {
-    "reproducible tenderness": "PROBLEM"
+    "tenderness": "PROBLEM"
+  },
+  {
+    "murmurs": "PROBLEM"
   },
   {
     "distended": "PROBLEM"
@@ -121,5 +121,26 @@
   },
   {
     "Leukocytosis": "PROBLEM"
+  },
+  {
+    "ruptured appendicitis": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "fluid retention": "PROBLEM"
+  },
+  {
+    "paralytic ileus": "PROBLEM"
+  },
+  {
+    "leukocytosis": "PROBLEM"
+  },
+  {
+    "abdominal surgery": "TREATMENT"
+  },
+  {
+    "laparoscopic appendicectomy": "TREATMENT"
   }
 ]

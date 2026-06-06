@@ -1,8 +1,5 @@
 [
   {
-    "prematurity": "PROBLEM"
-  },
-  {
     "wheezing": "PROBLEM"
   },
   {
@@ -48,10 +45,7 @@
     "childhood asthma": "PROBLEM"
   },
   {
-    "steroids": "DRUG"
-  },
-  {
-    "bronchodilator": "DRUG"
+    "alternate day steroids": "TREATMENT"
   },
   {
     "childhood asthma": "PROBLEM"

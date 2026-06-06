@@ -15,9 +15,6 @@
     "decrease in mental alertness": "PROBLEM"
   },
   {
-    "GI symptoms": "PROBLEM"
-  },
-  {
     "sweating": "PROBLEM"
   },
   {
@@ -36,22 +33,13 @@
     "hypertension": "PROBLEM"
   },
   {
-    "blood pressure": "PROBLEM"
-  },
-  {
     "blood pressure medication": "DRUG"
   },
   {
     "labetalol": "DRUG"
   },
   {
-    "IV": "TREATMENT"
-  },
-  {
     "Norvasc": "DRUG"
-  },
-  {
-    "blood pressure": "PROBLEM"
   },
   {
     "glucose supplement": "DRUG"
@@ -75,13 +63,40 @@
     "aspirin": "DRUG"
   },
   {
+    "acute distress": "PROBLEM"
+  },
+  {
+    "normocephalic": "PROBLEM"
+  },
+  {
+    "sinus tenderness": "PROBLEM"
+  },
+  {
+    "head injury": "PROBLEM"
+  },
+  {
+    "laceration": "PROBLEM"
+  },
+  {
+    "Extraocular movements": "TEST"
+  },
+  {
     "Dry mucosal linings": "PROBLEM"
   },
   {
-    "HEART": "PROBLEM"
+    "murmur": "PROBLEM"
   },
   {
-    "LUNGS": "PROBLEM"
+    "S1": "TEST"
+  },
+  {
+    "S2": "TEST"
+  },
+  {
+    "LUNGS": "TEST"
+  },
+  {
+    "rales": "TEST"
   },
   {
     "wheeze": "PROBLEM"
@@ -90,10 +105,22 @@
     "bowel sounds": "TEST"
   },
   {
+    "edema": "PROBLEM"
+  },
+  {
+    "clubbing": "PROBLEM"
+  },
+  {
+    "cyanosis": "PROBLEM"
+  },
+  {
     "CPK": "TEST"
   },
   {
     "troponin": "TEST"
+  },
+  {
+    "CMP": "TEST"
   },
   {
     "glucose": "TEST"
@@ -111,13 +138,16 @@
     "potassium": "TEST"
   },
   {
-    "specific gravity": "TEST"
+    "Urinalysis": "TEST"
   },
   {
     "CT of the brain": "TEST"
   },
   {
     "Chest x-ray": "TEST"
+  },
+  {
+    "cardiomegaly": "PROBLEM"
   },
   {
     "Hypoglycemia": "PROBLEM"
@@ -145,9 +175,6 @@
   },
   {
     "diabetic medication": "DRUG"
-  },
-  {
-    "general medicine": "PROBLEM"
   },
   {
     "diabetic medication": "DRUG"
@@ -187,9 +214,6 @@
   },
   {
     "blood pressure": "TEST"
-  },
-  {
-    "diabetic": "PROBLEM"
   },
   {
     "glucose": "TEST"

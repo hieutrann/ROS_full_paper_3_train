@@ -3,6 +3,9 @@
     "hysterectomy": "TREATMENT"
   },
   {
+    "ADMISSION DIAGNOSES": "TEST"
+  },
+  {
     "Menorrhagia": "PROBLEM"
   },
   {
@@ -45,7 +48,13 @@
     "total vaginal hysterectomy": "TREATMENT"
   },
   {
-    "Uterus": "PROBLEM"
+    "Uterus": "TEST"
+  },
+  {
+    "hospital": "TREATMENT"
+  },
+  {
+    "vitals": "TEST"
   },
   {
     "Laboratory studies": "TEST"
@@ -58,6 +67,9 @@
   },
   {
     "hematocrit": "TEST"
+  },
+  {
+    "chart": "TEST"
   },
   {
     "menorrhagia": "PROBLEM"
@@ -78,7 +90,7 @@
     "uterus": "PROBLEM"
   },
   {
-    "vaginal": "PROBLEM"
+    "vaginal": "TREATMENT"
   },
   {
     "hysterectomy": "TREATMENT"

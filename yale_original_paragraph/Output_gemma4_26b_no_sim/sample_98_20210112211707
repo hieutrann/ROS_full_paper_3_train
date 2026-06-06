@@ -114,6 +114,15 @@
     "loss of sensation": "PROBLEM"
   },
   {
+    "hair texture": "TEST"
+  },
+  {
+    "skin color": "TEST"
+  },
+  {
+    "appetite": "TEST"
+  },
+  {
     "swollen lymph nodes": "PROBLEM"
   },
   {
@@ -121,47 +130,5 @@
   },
   {
     "headaches": "PROBLEM"
-  },
-  {
-    "weight loss": "PROBLEM"
-  },
-  {
-    "fevers": "PROBLEM"
-  },
-  {
-    "chills": "PROBLEM"
-  },
-  {
-    "sweats": "PROBLEM"
-  },
-  {
-    "melena": "PROBLEM"
-  },
-  {
-    "nausea": "PROBLEM"
-  },
-  {
-    "vomiting": "PROBLEM"
-  },
-  {
-    "dysphagia": "PROBLEM"
-  },
-  {
-    "abdominal pain": "PROBLEM"
-  },
-  {
-    "diarrhea": "PROBLEM"
-  },
-  {
-    "constipation": "PROBLEM"
-  },
-  {
-    "itching throat": "PROBLEM"
-  },
-  {
-    "neck fullness": "PROBLEM"
-  },
-  {
-    "painful swallowing": "PROBLEM"
   }
 ]

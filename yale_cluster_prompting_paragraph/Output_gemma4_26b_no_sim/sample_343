@@ -1,0 +1,251 @@
+[
+  {
+    "Asthma": "PROBLEM"
+  },
+  {
+    "allergic rhinitis": "PROBLEM"
+  },
+  {
+    "asthma": "PROBLEM"
+  },
+  {
+    "Allegra": "DRUG"
+  },
+  {
+    "Flonase": "DRUG"
+  },
+  {
+    "Advair": "DRUG"
+  },
+  {
+    "vaginal irritation": "PROBLEM"
+  },
+  {
+    "irritability": "PROBLEM"
+  },
+  {
+    "PMS": "PROBLEM"
+  },
+  {
+    "menstrual cycle": "TEST"
+  },
+  {
+    "spotting": "PROBLEM"
+  },
+  {
+    "hot flashes": "PROBLEM"
+  },
+  {
+    "night sweats": "PROBLEM"
+  },
+  {
+    "urinary tract infection": "PROBLEM"
+  },
+  {
+    "cholesterol": "TEST"
+  },
+  {
+    "fevers": "PROBLEM"
+  },
+  {
+    "headaches": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "tightness": "PROBLEM"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "heartburn": "PROBLEM"
+  },
+  {
+    "constipation": "PROBLEM"
+  },
+  {
+    "diarrhea": "PROBLEM"
+  },
+  {
+    "dysuria": "PROBLEM"
+  },
+  {
+    "stress incontinence": "PROBLEM"
+  },
+  {
+    "muscle or joint pain": "PROBLEM"
+  },
+  {
+    "polyphagia": "PROBLEM"
+  },
+  {
+    "polydipsia": "PROBLEM"
+  },
+  {
+    "polyuria": "PROBLEM"
+  },
+  {
+    "cervical dysplasia": "PROBLEM"
+  },
+  {
+    "Proventil": "DRUG"
+  },
+  {
+    "Allegra": "DRUG"
+  },
+  {
+    "Sulfa": "DRUG"
+  },
+  {
+    "lymphadenopathy": "PROBLEM"
+  },
+  {
+    "thyromegaly": "PROBLEM"
+  },
+  {
+    "JVD": "PROBLEM"
+  },
+  {
+    "bowel sounds": "TEST"
+  },
+  {
+    "organomegaly": "PROBLEM"
+  },
+  {
+    "cyanosis": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "vaginal discharge": "PROBLEM"
+  },
+  {
+    "cervical motion tenderness": "TEST"
+  },
+  {
+    "adnexal tenderness": "TEST"
+  },
+  {
+    "Asthma": "PROBLEM"
+  },
+  {
+    "Proventil": "DRUG"
+  },
+  {
+    "Flovent": "DRUG"
+  },
+  {
+    "Advair": "DRUG"
+  },
+  {
+    "Singulair": "DRUG"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "Allergic rhinitis": "PROBLEM"
+  },
+  {
+    "Allegra": "DRUG"
+  },
+  {
+    "Flonase": "DRUG"
+  },
+  {
+    "Premenstrual dysphoric disorder": "PROBLEM"
+  },
+  {
+    "perimenopausal symptoms": "PROBLEM"
+  },
+  {
+    "fluoxetine": "DRUG"
+  },
+  {
+    "Hematuria": "PROBLEM"
+  },
+  {
+    "urinary tract infection": "PROBLEM"
+  },
+  {
+    "UA": "TEST"
+  },
+  {
+    "dysuria": "PROBLEM"
+  },
+  {
+    "Cervical dysplasia": "PROBLEM"
+  },
+  {
+    "Pap smear": "TEST"
+  },
+  {
+    "screening mammogram": "TEST"
+  },
+  {
+    "calcium": "DRUG"
+  },
+  {
+    "vitamin D": "DRUG"
+  },
+  {
+    "asthma": "PROBLEM"
+  },
+  {
+    "complete physical": "TEST"
+  },
+  {
+    "inhaler": "TREATMENT"
+  },
+  {
+    "allegra": "DRUG"
+  },
+  {
+    "night sweats": "PROBLEM"
+  },
+  {
+    "hot flashes": "PROBLEM"
+  },
+  {
+    "vaginal irritation": "PROBLEM"
+  },
+  {
+    "pms": "PROBLEM"
+  },
+  {
+    "menstrual cycle": "TEST"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "headaches": "PROBLEM"
+  },
+  {
+    "allergic rhinitis": "PROBLEM"
+  },
+  {
+    "cervical dysplasia": "PROBLEM"
+  },
+  {
+    "regular rate and rhythm without murmur": "TEST"
+  },
+  {
+    "proventil inhaler": "TREATMENT"
+  },
+  {
+    "flonase": "DRUG"
+  },
+  {
+    "premenstrual dysphoric disorder": "PROBLEM"
+  },
+  {
+    "pap smear": "TEST"
+  }
+]

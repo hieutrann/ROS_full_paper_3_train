@@ -3,19 +3,10 @@
     "speech therapy": "TREATMENT"
   },
   {
-    "functional communication skills": "PROBLEM"
-  },
-  {
-    "swallowing function": "PROBLEM"
-  },
-  {
     "speech therapy": "TREATMENT"
   },
   {
     "swallowing function": "PROBLEM"
-  },
-  {
-    "NPO": "TREATMENT"
   },
   {
     "G-tube": "TREATMENT"
@@ -48,22 +39,22 @@
     "modified barium swallow study": "TEST"
   },
   {
-    "aspiration": "PROBLEM"
-  },
-  {
     "G-tube": "TREATMENT"
   },
   {
-    "feeding tube": "PROBLEM"
+    "feeding tube": "TREATMENT"
+  },
+  {
+    "sentences": "PROBLEM"
+  },
+  {
+    "words": "PROBLEM"
   },
   {
     "difficulty stating verbally": "PROBLEM"
   },
   {
-    "yes or no": "PROBLEM"
-  },
-  {
-    "head gestures": "TEST"
+    "yes-no questions": "TEST"
   },
   {
     "expressive language abilities": "PROBLEM"
@@ -73,6 +64,18 @@
   },
   {
     "speech": "PROBLEM"
+  },
+  {
+    "communication device": "TREATMENT"
+  },
+  {
+    "expressive communication": "PROBLEM"
+  },
+  {
+    "augmented communication device": "TREATMENT"
+  },
+  {
+    "speech generating device": "TREATMENT"
   },
   {
     "g-tube": "TREATMENT"
@@ -87,10 +90,13 @@
     "western aphasia battery": "TEST"
   },
   {
-    "speech therapy": "TREATMENT"
+    "skilled speech therapy": "TREATMENT"
   },
   {
-    "swallowing function": "TEST"
+    "swallowing function": "PROBLEM"
+  },
+  {
+    "speech therapy": "TREATMENT"
   },
   {
     "therapy": "TREATMENT"

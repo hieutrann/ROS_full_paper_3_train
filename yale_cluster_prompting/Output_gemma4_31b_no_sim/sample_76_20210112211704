@@ -6,22 +6,16 @@
     "urinary tract infection": "PROBLEM"
   },
   {
-    "VITAL SIGNS": "TEST"
+    "Temperature": "TEST"
   },
   {
     "temperature": "TEST"
   },
   {
-    "Examination of the chest": "TEST"
-  },
-  {
-    "CARDIOVASCULAR": "TEST"
+    "heart sounds": "TEST"
   },
   {
     "murmurs": "PROBLEM"
-  },
-  {
-    "Benign": "PROBLEM"
   },
   {
     "tender": "PROBLEM"
@@ -31,12 +25,6 @@
   },
   {
     "swelling": "PROBLEM"
-  },
-  {
-    "Examination": "TEST"
-  },
-  {
-    "LABORATORY DATA": "TEST"
   },
   {
     "White count": "TEST"
@@ -81,7 +69,7 @@
     "doripenem": "DRUG"
   },
   {
-    "change Foley catheter": "TREATMENT"
+    "Foley catheter": "TREATMENT"
   },
   {
     "Hypotension": "PROBLEM"
@@ -99,7 +87,7 @@
     "Diabetes type 2": "PROBLEM"
   },
   {
-    "insulin sliding scale": "DRUG"
+    "insulin sliding scale": "TREATMENT"
   },
   {
     "pulmonary embolism": "PROBLEM"
@@ -115,9 +103,6 @@
   },
   {
     "Troponin": "TEST"
-  },
-  {
-    "medical treatment": "TREATMENT"
   },
   {
     "troponin": "TEST"
@@ -138,6 +123,6 @@
     "troponin": "TEST"
   },
   {
-    "infection": "PROBLEM"
+    "urinary infection": "PROBLEM"
   }
 ]

@@ -18,13 +18,13 @@
     "urticarial rash": "PROBLEM"
   },
   {
-    "persistent high fevers": "PROBLEM"
+    "high fevers": "PROBLEM"
   },
   {
     "infection": "PROBLEM"
   },
   {
-    "temperatures": "PROBLEM"
+    "temperatures": "TEST"
   },
   {
     "chest x-ray": "TEST"
@@ -48,7 +48,7 @@
     "CT chest": "TEST"
   },
   {
-    "mild bibasilar pleural-based interstitial changes": "PROBLEM"
+    "bibasilar pleural-based interstitial changes": "PROBLEM"
   },
   {
     "ground glass change": "PROBLEM"
@@ -87,7 +87,7 @@
     "CMV serology": "TEST"
   },
   {
-    "positive for IgM": "PROBLEM"
+    "IgM": "TEST"
   },
   {
     "IgG": "TEST"
@@ -159,6 +159,9 @@
     "CMV serologies": "TEST"
   },
   {
+    "antibiotic therapy": "TREATMENT"
+  },
+  {
     "methotrexate": "DRUG"
   },
   {
@@ -187,6 +190,9 @@
   },
   {
     "RBCs": "TEST"
+  },
+  {
+    "differential": "TEST"
   },
   {
     "neutrophils": "TEST"
@@ -247,6 +253,9 @@
   },
   {
     "cmv": "PROBLEM"
+  },
+  {
+    "illness": "PROBLEM"
   },
   {
     "interstitial": "PROBLEM"

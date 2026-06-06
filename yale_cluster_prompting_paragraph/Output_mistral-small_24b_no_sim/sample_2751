@@ -1,14 +1,5 @@
 [
   {
-    "General Medicine": "TEST"
-  },
-  {
-    "Toothache": "PROBLEM"
-  },
-  {
-    "ER Visit": "TEST"
-  },
-  {
     "dental disease": "PROBLEM"
   },
   {
@@ -18,7 +9,7 @@
     "tooth pain": "PROBLEM"
   },
   {
-    "upper and lower teeth": "PROBLEM"
+    "toothache": "PROBLEM"
   },
   {
     "OxyContin": "DRUG"
@@ -30,127 +21,10 @@
     "knee pain": "PROBLEM"
   },
   {
-    "fever": "PROBLEM"
-  },
-  {
-    "chills": "PROBLEM"
-  },
-  {
-    "fatigue": "PROBLEM"
-  },
-  {
-    "weakness": "PROBLEM"
-  },
-  {
-    "weight change": "PROBLEM"
-  },
-  {
-    "headache": "PROBLEM"
-  },
-  {
-    "neck pain": "PROBLEM"
-  },
-  {
-    "throat swelling": "PROBLEM"
-  },
-  {
-    "sore throat": "PROBLEM"
-  },
-  {
-    "difficulty swallowing": "PROBLEM"
-  },
-  {
-    "rhinorrhea": "PROBLEM"
-  },
-  {
-    "sinus congestion": "PROBLEM"
-  },
-  {
-    "sinus pressure": "PROBLEM"
-  },
-  {
-    "sinus pain": "PROBLEM"
-  },
-  {
-    "ear pain": "PROBLEM"
-  },
-  {
-    "hearing change": "PROBLEM"
-  },
-  {
-    "eye pain": "PROBLEM"
-  },
-  {
-    "vision change": "PROBLEM"
-  },
-  {
-    "chest pain": "PROBLEM"
-  },
-  {
-    "shortness of breath": "PROBLEM"
-  },
-  {
-    "cough": "PROBLEM"
-  },
-  {
-    "abdominal pain": "PROBLEM"
-  },
-  {
-    "nausea": "PROBLEM"
-  },
-  {
-    "vomiting": "PROBLEM"
-  },
-  {
-    "dysuria": "PROBLEM"
-  },
-  {
-    "back pain": "PROBLEM"
-  },
-  {
-    "muscle aches": "PROBLEM"
-  },
-  {
-    "joint aches": "PROBLEM"
-  },
-  {
-    "rashes": "PROBLEM"
-  },
-  {
-    "lesions": "PROBLEM"
-  },
-  {
-    "vision change": "PROBLEM"
-  },
-  {
-    "hearing change": "PROBLEM"
-  },
-  {
-    "focal weakness": "PROBLEM"
-  },
-  {
-    "numbness": "PROBLEM"
-  },
-  {
-    "lymph node swelling": "PROBLEM"
-  },
-  {
-    "Chronic knee pain": "PROBLEM"
-  },
-  {
     "PENICILLIN": "DRUG"
   },
   {
     "CODEINE": "DRUG"
-  },
-  {
-    "smoker": "PROBLEM"
-  },
-  {
-    "VITAL SIGNS": "TEST"
-  },
-  {
-    "Temperature": "TEST"
   },
   {
     "blood pressure": "TEST"
@@ -165,22 +39,19 @@
     "oxygen saturation": "TEST"
   },
   {
-    "room air": "TEST"
+    "denture": "PROBLEM"
   },
   {
-    "icterus": "PROBLEM"
+    "dental caries": "PROBLEM"
   },
   {
-    "injection": "PROBLEM"
+    "tooth #12": "PROBLEM"
   },
   {
-    "discharge": "PROBLEM"
+    "tooth #21": "PROBLEM"
   },
   {
-    "photophobia": "PROBLEM"
-  },
-  {
-    "extraocular motions": "TEST"
+    "gums": "PROBLEM"
   },
   {
     "erythema": "PROBLEM"
@@ -189,25 +60,10 @@
     "swelling": "PROBLEM"
   },
   {
-    "purulent": "PROBLEM"
-  },
-  {
-    "discharge": "PROBLEM"
-  },
-  {
-    "fluctuance": "PROBLEM"
-  },
-  {
-    "abscess": "PROBLEM"
-  },
-  {
-    "Ludwig's syndrome": "PROBLEM"
-  },
-  {
     "dental fractures": "PROBLEM"
   },
   {
-    "erythema": "PROBLEM"
+    "oropharynx": "PROBLEM"
   },
   {
     "exudate": "PROBLEM"
@@ -216,159 +72,24 @@
     "lesion": "PROBLEM"
   },
   {
-    "swelling": "PROBLEM"
-  },
-  {
-    "buccal membranes": "TEST"
-  },
-  {
-    "mucous membranes": "TEST"
-  },
-  {
-    "floor of the mouth": "TEST"
-  },
-  {
-    "heart": "TEST"
-  },
-  {
-    "murmur": "PROBLEM"
-  },
-  {
-    "rub": "PROBLEM"
-  },
-  {
-    "gallop": "PROBLEM"
-  },
-  {
-    "abdomen": "TEST"
-  },
-  {
-    "nontender": "PROBLEM"
-  },
-  {
-    "back": "TEST"
-  },
-  {
-    "arms": "TEST"
-  },
-  {
-    "legs": "TEST"
-  },
-  {
-    "extremities": "TEST"
-  },
-  {
-    "cranial nerves": "TEST"
-  },
-  {
-    "motor": "TEST"
-  },
-  {
-    "sensory": "TEST"
-  },
-  {
-    "speech": "TEST"
-  },
-  {
-    "ambulation": "TEST"
-  },
-  {
-    "alert": "PROBLEM"
-  },
-  {
-    "oriented": "PROBLEM"
-  },
-  {
-    "mood": "PROBLEM"
-  },
-  {
-    "affect": "PROBLEM"
-  },
-  {
-    "cervical lymphadenopathy": "PROBLEM"
+    "Ludwig's syndrome": "PROBLEM"
   },
   {
     "Dilaudid": "DRUG"
   },
   {
-    "IM": "TREATMENT"
+    "odontalgia": "PROBLEM"
   },
   {
-    "adverse reaction": "PROBLEM"
+    "multiple dental caries": "PROBLEM"
   },
   {
-    "ODONTALGIA": "PROBLEM"
-  },
-  {
-    "MULTIPLE DENTAL CARIES": "PROBLEM"
-  },
-  {
-    "dental clinics": "TEST"
+    "cervical lymphadenopathy": "PROBLEM"
   },
   {
     "Percocet": "DRUG"
   },
   {
     "clindamycin": "DRUG"
-  },
-  {
-    "drug precautions": "TREATMENT"
-  },
-  {
-    "discharge instructions": "TREATMENT"
-  },
-  {
-    "worsening": "PROBLEM"
-  },
-  {
-    "condition": "PROBLEM"
-  },
-  {
-    "symptoms": "PROBLEM"
-  },
-  {
-    "concern": "PROBLEM"
-  },
-  {
-    "odontalgi": "PROBLEM"
-  },
-  {
-    "dental caries": "PROBLEM"
-  },
-  {
-    "dentist": "TEST"
-  },
-  {
-    "dental disease": "PROBLEM"
-  },
-  {
-    "extensive dental disease": "PROBLEM"
-  },
-  {
-    "teeth pulled": "TREATMENT"
-  },
-  {
-    "lower teeth": "PROBLEM"
-  },
-  {
-    "cervical lymphadenopathy": "PROBLEM"
-  },
-  {
-    "dental caries": "PROBLEM"
-  },
-  {
-    "toothache": "PROBLEM"
-  },
-  {
-    "erythema": "PROBLEM"
-  },
-  {
-    "swelling": "PROBLEM"
-  },
-  {
-    "teeth": "PROBLEM"
-  },
-  {
-    "dental": "TEST"
   }
 ]

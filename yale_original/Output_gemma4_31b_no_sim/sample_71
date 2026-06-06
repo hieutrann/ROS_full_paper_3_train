@@ -48,7 +48,10 @@
     "nocturia": "PROBLEM"
   },
   {
-    "swelling in her ankles": "PROBLEM"
+    "swelling": "PROBLEM"
+  },
+  {
+    "Wt": "TEST"
   },
   {
     "B/P": "TEST"
@@ -70,15 +73,6 @@
   },
   {
     "slightly dull": "PROBLEM"
-  },
-  {
-    "Neck": "TEST"
-  },
-  {
-    "Heart": "TEST"
-  },
-  {
-    "Lungs": "TEST"
   },
   {
     "swelling": "PROBLEM"
@@ -130,9 +124,6 @@
   },
   {
     "weight loss": "TREATMENT"
-  },
-  {
-    "tests": "TEST"
   },
   {
     "diabetes mellitus": "PROBLEM"

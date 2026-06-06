@@ -1,0 +1,275 @@
+[
+  {
+    "Hypertension": "PROBLEM"
+  },
+  {
+    "nonsustained ventricular tachycardia": "PROBLEM"
+  },
+  {
+    "hepatitis C": "PROBLEM"
+  },
+  {
+    "Medical Transcription Sample Report": "TEST"
+  },
+  {
+    "Nonischemic cardiomyopathy": "PROBLEM"
+  },
+  {
+    "coronary artery disease": "PROBLEM"
+  },
+  {
+    "Congestive heart failure": "PROBLEM"
+  },
+  {
+    "nonsustained ventricular tachycardia": "PROBLEM"
+  },
+  {
+    "Hypertension": "PROBLEM"
+  },
+  {
+    "Hepatitis C": "PROBLEM"
+  },
+  {
+    "CHF": "PROBLEM"
+  },
+  {
+    "exacerbation": "PROBLEM"
+  },
+  {
+    "medications": "TREATMENT"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "orthopnea": "PROBLEM"
+  },
+  {
+    "PND": "PROBLEM"
+  },
+  {
+    "weight": "PROBLEM"
+  },
+  {
+    "palpitation": "PROBLEM"
+  },
+  {
+    "presyncope": "PROBLEM"
+  },
+  {
+    "syncope": "PROBLEM"
+  },
+  {
+    "right upper quadrant pain": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "appetite": "PROBLEM"
+  },
+  {
+    "TIA": "PROBLEM"
+  },
+  {
+    "seizure": "PROBLEM"
+  },
+  {
+    "syncope": "PROBLEM"
+  },
+  {
+    "unremarkable": "PROBLEM"
+  },
+  {
+    "cocaine": "PROBLEM"
+  },
+  {
+    "drug allergies": "PROBLEM"
+  },
+  {
+    "medication list": "DRUG"
+  },
+  {
+    "medications": "DRUG"
+  },
+  {
+    "discharge orders": "TREATMENT"
+  },
+  {
+    "Pulse 91 per minute and regular": "TEST"
+  },
+  {
+    "blood pressure 151/102 in the right arm and 152/104 in the left arm": "TEST"
+  },
+  {
+    "weight 172 pounds": "TEST"
+  },
+  {
+    "6 pounds more than last visit in 11/07": "TEST"
+  },
+  {
+    "Atraumatic": "PROBLEM"
+  },
+  {
+    "normocephalic": "PROBLEM"
+  },
+  {
+    "pallor": "PROBLEM"
+  },
+  {
+    "icterus": "PROBLEM"
+  },
+  {
+    "cyanosis": "PROBLEM"
+  },
+  {
+    "Supple.": "PROBLEM"
+  },
+  {
+    "Jugular venous distention 5 cm above the clavicle present": "PROBLEM"
+  },
+  {
+    "thyromegaly": "PROBLEM"
+  },
+  {
+    "LUNGS": "TEST"
+  },
+  {
+    "rales": "PROBLEM"
+  },
+  {
+    "rhonchi": "PROBLEM"
+  },
+  {
+    "Pulse oximetry": "TEST"
+  },
+  {
+    "S1": "PROBLEM"
+  },
+  {
+    "S2": "PROBLEM"
+  },
+  {
+    "S3": "PROBLEM"
+  },
+  {
+    "S4": "PROBLEM"
+  },
+  {
+    "Soft and nontender": "PROBLEM"
+  },
+  {
+    "Liver is palpable 5 cm below the right subcostal margin.": "PROBLEM"
+  },
+  {
+    "cyanosis": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "nonischemic cardiomyopathy": "PROBLEM"
+  },
+  {
+    "branch vessel coronary artery disease": "PROBLEM"
+  },
+  {
+    "NYHA Class III": "PROBLEM"
+  },
+  {
+    "volume overload": "PROBLEM"
+  },
+  {
+    "Lasix": "DRUG"
+  },
+  {
+    "Lasix 40 mg p.o.": "DRUG"
+  },
+  {
+    "b.i.d.": "DRUG"
+  },
+  {
+    "hydralazine": "DRUG"
+  },
+  {
+    "100 mg t.i.d.": "DRUG"
+  },
+  {
+    "Toprol": "DRUG"
+  },
+  {
+    "lisinopril": "DRUG"
+  },
+  {
+    "Aldactone 25 mg p.o.": "DRUG"
+  },
+  {
+    "cocaine": "PROBLEM"
+  },
+  {
+    "cocaine": "DRUG"
+  },
+  {
+    "primary care provider": "PROBLEM"
+  },
+  {
+    "BMP": "TEST"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "weight": "TEST"
+  },
+  {
+    "medication changes": "TREATMENT"
+  },
+  {
+    "hepatitis C": "PROBLEM"
+  },
+  {
+    "insurance": "PROBLEM"
+  },
+  {
+    "lipid profile": "TEST"
+  },
+  {
+    "AST": "TEST"
+  },
+  {
+    "ALT": "TEST"
+  },
+  {
+    "congestive heart failure": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "cardiomyopathy": "PROBLEM"
+  },
+  {
+    "coronary artery disease": "PROBLEM"
+  },
+  {
+    "ventricular tachycardia": "PROBLEM"
+  },
+  {
+    "nonischemic cardiomyopathy": "PROBLEM"
+  },
+  {
+    "nyha class": "TEST"
+  },
+  {
+    "nonischemic": "PROBLEM"
+  },
+  {
+    "tachycardia": "PROBLEM"
+  },
+  {
+    "orthopnea": "PROBLEM"
+  }
+]

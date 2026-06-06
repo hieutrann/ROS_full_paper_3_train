@@ -1,30 +1,9 @@
 [
   {
-    "EARS, NOSE, MOUTH AND THROAT": "TEST"
-  },
-  {
-    "EARS/NOSE": "TEST"
-  },
-  {
-    "auricles": "TEST"
-  },
-  {
     "lymphadenitis": "PROBLEM"
   },
   {
     "trauma": "PROBLEM"
-  },
-  {
-    "nose": "TEST"
-  },
-  {
-    "Otoscopic examination": "TEST"
-  },
-  {
-    "auditory canals": "TEST"
-  },
-  {
-    "tympanic membranes": "TEST"
   },
   {
     "mass lesion": "PROBLEM"
@@ -36,19 +15,31 @@
     "swelling": "PROBLEM"
   },
   {
+    "infection": "PROBLEM"
+  },
+  {
     "hearing": "TEST"
   },
   {
-    "speech": "TEST"
+    "Otoscopic examination": "TEST"
   },
   {
-    "mucous membranes": "TEST"
+    "mucous membranes": "PROBLEM"
   },
   {
-    "septum": "TEST"
+    "disruption": "PROBLEM"
   },
   {
-    "turbinate": "TEST"
+    "inflammation": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "disruption": "PROBLEM"
+  },
+  {
+    "swelling": "PROBLEM"
   },
   {
     "rhinorrhea": "PROBLEM"
@@ -57,9 +48,6 @@
     "bleeding": "PROBLEM"
   },
   {
-    "LIPS/TEETH/GUMS": "TEST"
-  },
-  {
     "infection": "PROBLEM"
   },
   {
@@ -67,83 +55,23 @@
   },
   {
     "traumatic lesions": "PROBLEM"
-  },
-  {
-    "teeth": "TEST"
-  },
-  {
-    "gingivae": "TEST"
-  },
-  {
-    "OROPHARYNX": "TEST"
-  },
-  {
-    "oral mucosa": "TEST"
-  },
-  {
-    "salivary glands": "TEST"
-  },
-  {
-    "hard and soft palates": "TEST"
-  },
-  {
-    "tongue": "TEST"
-  },
-  {
-    "tonsils": "TEST"
-  },
-  {
-    "posterior pharynx": "TEST"
-  },
-  {
-    "mass lesion": "PROBLEM"
-  },
-  {
-    "airway": "TEST"
-  },
-  {
-    "general medicine": "TEST"
-  },
-  {
-    "oral mucosa": "TEST"
-  },
-  {
-    "lips": "TEST"
-  },
-  {
-    "hearing": "TEST"
-  },
-  {
-    "auditory canals": "TEST"
-  },
-  {
-    "tympanic membranes": "TEST"
-  },
-  {
-    "traumatic lesions": "PROBLEM"
-  },
-  {
-    "mouth": "TEST"
-  },
-  {
-    "throat": "TEST"
-  },
-  {
-    "trauma": "PROBLEM"
-  },
-  {
-    "nose": "TEST"
-  },
-  {
-    "membranes": "TEST"
-  },
-  {
-    "inflammation": "PROBLEM"
   },
   {
     "infection": "PROBLEM"
   },
   {
     "swelling": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "swelling": "PROBLEM"
+  },
+  {
+    "inflammation": "PROBLEM"
+  },
+  {
+    "mass lesion": "PROBLEM"
   }
 ]

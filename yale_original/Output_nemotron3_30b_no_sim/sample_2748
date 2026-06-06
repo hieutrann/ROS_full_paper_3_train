@@ -1,0 +1,440 @@
+[
+  {
+    "toothache": "PROBLEM"
+  },
+  {
+    "jaw": "PROBLEM"
+  },
+  {
+    "ear": "PROBLEM"
+  },
+  {
+    "Ellis type II dental fracture": "PROBLEM"
+  },
+  {
+    "Jaw pain": "PROBLEM"
+  },
+  {
+    "toothache": "PROBLEM"
+  },
+  {
+    "jaw": "PROBLEM"
+  },
+  {
+    "ear": "PROBLEM"
+  },
+  {
+    "toothache": "PROBLEM"
+  },
+  {
+    "facial swelling": "PROBLEM"
+  },
+  {
+    "headache": "PROBLEM"
+  },
+  {
+    "No swelling to the throat.": "PROBLEM"
+  },
+  {
+    "sore throat": "PROBLEM"
+  },
+  {
+    "No difficulty swallowing liquids or solids": "PROBLEM"
+  },
+  {
+    "neck pain": "PROBLEM"
+  },
+  {
+    "No lymph node swelling": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "chills": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "chills": "PROBLEM"
+  },
+  {
+    "fatigue": "PROBLEM"
+  },
+  {
+    "weakness": "PROBLEM"
+  },
+  {
+    "headache": "PROBLEM"
+  },
+  {
+    "neck pain": "PROBLEM"
+  },
+  {
+    "eye pain": "PROBLEM"
+  },
+  {
+    "vision change": "PROBLEM"
+  },
+  {
+    "rhinorrhea": "PROBLEM"
+  },
+  {
+    "sinus congestion": "PROBLEM"
+  },
+  {
+    "pressure": "PROBLEM"
+  },
+  {
+    "pain": "PROBLEM"
+  },
+  {
+    "sore throat": "PROBLEM"
+  },
+  {
+    "No throat swelling.": "PROBLEM"
+  },
+  {
+    "toothache": "PROBLEM"
+  },
+  {
+    "ear pain": "PROBLEM"
+  },
+  {
+    "hearing change": "PROBLEM"
+  },
+  {
+    "No pressure in the ear.": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "back pain": "PROBLEM"
+  },
+  {
+    "rashes": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "vision": "PROBLEM"
+  },
+  {
+    "hearing": "PROBLEM"
+  },
+  {
+    "No speech change": "PROBLEM"
+  },
+  {
+    "lymph node swelling": "PROBLEM"
+  },
+  {
+    "None": "PROBLEM"
+  },
+  {
+    "None": "DRUG"
+  },
+  {
+    "NO KNOWN DRUG ALLERGIES": "DRUG"
+  },
+  {
+    "marijuana": "PROBLEM"
+  },
+  {
+    "cigarettes": "TREATMENT"
+  },
+  {
+    "Temperature": "TEST"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "pulse": "TEST"
+  },
+  {
+    "respirations": "TEST"
+  },
+  {
+    "oxygen saturation": "TEST"
+  },
+  {
+    "well nourished": "PROBLEM"
+  },
+  {
+    "well developed": "PROBLEM"
+  },
+  {
+    "healthy": "PROBLEM"
+  },
+  {
+    "calm": "PROBLEM"
+  },
+  {
+    "comfortable": "PROBLEM"
+  },
+  {
+    "no acute distress": "PROBLEM"
+  },
+  {
+    "looks well": "PROBLEM"
+  },
+  {
+    "Head is atraumatic, normocephalic, and nontender": "PROBLEM"
+  },
+  {
+    "cornea": "PROBLEM"
+  },
+  {
+    "conjunctivae": "PROBLEM"
+  },
+  {
+    "rhinorrhea": "PROBLEM"
+  },
+  {
+    "congestion": "PROBLEM"
+  },
+  {
+    "tenderness over the sinuses": "PROBLEM"
+  },
+  {
+    "infection": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "swelling": "PROBLEM"
+  },
+  {
+    "canals": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "bulging": "PROBLEM"
+  },
+  {
+    "air fluid levels": "PROBLEM"
+  },
+  {
+    "bubbles": "PROBLEM"
+  },
+  {
+    "dental fracture": "PROBLEM"
+  },
+  {
+    "fracture": "PROBLEM"
+  },
+  {
+    "caries": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "swelling": "PROBLEM"
+  },
+  {
+    "infection": "PROBLEM"
+  },
+  {
+    "fluctuance": "PROBLEM"
+  },
+  {
+    "tenderness of the tooth #18": "PROBLEM"
+  },
+  {
+    "infection": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "exudate": "PROBLEM"
+  },
+  {
+    "lesion": "PROBLEM"
+  },
+  {
+    "swelling": "PROBLEM"
+  },
+  {
+    "moist": "PROBLEM"
+  },
+  {
+    "tenderness": "PROBLEM"
+  },
+  {
+    "swelling": "PROBLEM"
+  },
+  {
+    "No suggestion of abscess": "PROBLEM"
+  },
+  {
+    "auricular lymphadenopathy": "PROBLEM"
+  },
+  {
+    "Supple.": "PROBLEM"
+  },
+  {
+    "Nontender.": "PROBLEM"
+  },
+  {
+    "Full range of motion.": "PROBLEM"
+  },
+  {
+    "meningismus": "PROBLEM"
+  },
+  {
+    "cervical lymphadenopathy": "PROBLEM"
+  },
+  {
+    "JVD": "PROBLEM"
+  },
+  {
+    "carotid artery": "PROBLEM"
+  },
+  {
+    "vertebral artery": "PROBLEM"
+  },
+  {
+    "gallop": "PROBLEM"
+  },
+  {
+    "Clear to auscultation bilaterally": "TEST"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "Abdomen is normal and nontender": "PROBLEM"
+  },
+  {
+    "back": "PROBLEM"
+  },
+  {
+    "arms": "PROBLEM"
+  },
+  {
+    "legs": "PROBLEM"
+  },
+  {
+    "normal use of the extremities": "PROBLEM"
+  },
+  {
+    "rashes": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "Cranial nerves II through XII are intact": "PROBLEM"
+  },
+  {
+    "speech": "PROBLEM"
+  },
+  {
+    "ambulation": "PROBLEM"
+  },
+  {
+    "alert and oriented x4": "PROBLEM"
+  },
+  {
+    "mood and affect": "PROBLEM"
+  },
+  {
+    "intoxication": "PROBLEM"
+  },
+  {
+    "lymphadenitis": "PROBLEM"
+  },
+  {
+    "ACUTE LEFT JAW PAIN": "PROBLEM"
+  },
+  {
+    "DENTAL FRACTURE": "PROBLEM"
+  },
+  {
+    "ELEVATED BLOOD PRESSURE": "PROBLEM"
+  },
+  {
+    "Stable": "PROBLEM"
+  },
+  {
+    "dentist": "TREATMENT"
+  },
+  {
+    "X in three to five days for reevaluation": "TREATMENT"
+  },
+  {
+    "Motrin 400 mg q.6h": "DRUG"
+  },
+  {
+    "pain": "PROBLEM"
+  },
+  {
+    "Vicodin": "DRUG"
+  },
+  {
+    "drowsiness": "PROBLEM"
+  },
+  {
+    "driving": "PROBLEM"
+  },
+  {
+    "medication": "DRUG"
+  },
+  {
+    "pen V": "DRUG"
+  },
+  {
+    "toothache": "PROBLEM"
+  },
+  {
+    "emergency room": "TEST"
+  },
+  {
+    "jaw pain": "PROBLEM"
+  },
+  {
+    "dental appointment": "TEST"
+  },
+  {
+    "ellis type ii fracture": "PROBLEM"
+  },
+  {
+    "ellis type": "PROBLEM"
+  },
+  {
+    "dental fracture": "PROBLEM"
+  },
+  {
+    "toothache": "PROBLEM"
+  },
+  {
+    "tenderness": "PROBLEM"
+  },
+  {
+    "pressure": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  }
+]

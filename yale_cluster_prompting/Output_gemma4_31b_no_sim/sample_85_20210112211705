@@ -42,10 +42,7 @@
     "temporary internal pacemaker": "TREATMENT"
   },
   {
-    "intensive care unit": "TREATMENT"
-  },
-  {
-    "temporary intracardiac pacemaker": "TREATMENT"
+    "intracardiac pacemaker": "TREATMENT"
   },
   {
     "permanent pacemaker": "TREATMENT"
@@ -72,7 +69,7 @@
     "right atrium appendage and right ventricular apex electrode placement": "TREATMENT"
   },
   {
-    "Medtronic pacemaker": "TREATMENT"
+    "pacemaker": "TREATMENT"
   },
   {
     "pain in the left side of the chest in the upper area": "PROBLEM"
@@ -150,7 +147,7 @@
     "Tylenol": "DRUG"
   },
   {
-    "pain": "PROBLEM"
+    "pain.": "PROBLEM"
   },
   {
     "Promethazine": "DRUG"

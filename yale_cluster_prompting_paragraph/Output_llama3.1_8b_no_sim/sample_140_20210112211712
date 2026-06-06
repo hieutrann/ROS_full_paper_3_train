@@ -1,90 +1,57 @@
 [
   {
-    "VITAL SIGNS": "TEST"
+    "apparent distress": "PROBLEM"
   },
   {
-    "EOMI": "PROBLEM"
+    "exudate": "PROBLEM"
   },
   {
-    "PERRLA": "PROBLEM"
+    "erythema": "PROBLEM"
   },
   {
-    "Sclerae nonicteric": "PROBLEM"
+    "tympany": "PROBLEM"
   },
   {
-    "lesions of lids, lashes, brows, or conjunctivae": "PROBLEM"
+    "Blood pressure": "TEST"
   },
   {
-    "Funduscopic examination unremarkable": "TEST"
+    "pulse": "TEST"
   },
   {
-    "Normal set, shape, TMs, canals and hearing": "PROBLEM"
+    "respirations": "TEST"
   },
   {
-    "Negative": "PROBLEM"
+    "temperature": "TEST"
   },
   {
-    "dental work": "TREATMENT"
+    "auscultation": "TEST"
   },
   {
-    "Supple and pain free": "PROBLEM"
+    "percussion": "TEST"
   },
   {
-    "bruit": "PROBLEM"
+    "auscultated": "TEST"
   },
   {
-    "JVD": "PROBLEM"
+    "Hemoccult-negative stool": "TEST"
   },
   {
-    "adenopathy": "PROBLEM"
+    "distal pulse": "TEST"
   },
   {
-    "thyroid abnormality": "PROBLEM"
+    "perfusion": "TEST"
   },
   {
-    "Lungs are bilaterally clear": "PROBLEM"
+    "edema": "PROBLEM"
   },
   {
-    "auscultation and percussion": "TEST"
+    "cyanosis": "PROBLEM"
   },
   {
-    "S1 and S2": "PROBLEM"
+    "clubbing": "PROBLEM"
   },
   {
-    "Regular rate and rhythm": "PROBLEM"
-  },
-  {
-    "murmur": "PROBLEM"
-  },
-  {
-    "heave": "PROBLEM"
-  },
-  {
-    "click": "PROBLEM"
-  },
-  {
-    "lift": "PROBLEM"
-  },
-  {
-    "thrill": "PROBLEM"
-  },
-  {
-    "rub": "PROBLEM"
-  },
-  {
-    "gallop": "PROBLEM"
-  },
-  {
-    "PMI nondisplaced": "PROBLEM"
-  },
-  {
-    "Chest wall unremarkable": "PROBLEM"
-  },
-  {
-    "axillary or supraclavicular adenopathy": "PROBLEM"
-  },
-  {
-    "In the seated and supine position unremarkable": "PROBLEM"
+    "deep venous thrombosis": "PROBLEM"
   },
   {
     "hepatosplenomegaly": "PROBLEM"
@@ -105,19 +72,13 @@
     "guarding": "PROBLEM"
   },
   {
+    "adenopathy": "PROBLEM"
+  },
+  {
     "aortic impulse": "PROBLEM"
   },
   {
     "intraabdominal bruit": "PROBLEM"
-  },
-  {
-    "Normal for age": "PROBLEM"
-  },
-  {
-    "Hemoccult-negative stool": "TEST"
-  },
-  {
-    "Good distal pulse and perfusion": "PROBLEM"
   },
   {
     "edema": "PROBLEM"
@@ -132,78 +93,48 @@
     "deep venous thrombosis": "PROBLEM"
   },
   {
-    "nails of the hands and feet": "PROBLEM"
-  },
-  {
-    "creases of the palms and soles": "PROBLEM"
-  },
-  {
-    "Good active and passive range of motion": "PROBLEM"
-  },
-  {
     "spinous process tenderness": "PROBLEM"
   },
   {
     "CVA tenderness": "PROBLEM"
   },
   {
-    "straight-leg raising": "PROBLEM"
+    "straight-leg raising": "TEST"
   },
   {
-    "Kernig": "PROBLEM"
+    "Kernig": "TEST"
   },
   {
-    "Brudzinski": "PROBLEM"
+    "Brudzinski": "TEST"
   },
   {
-    "Nonfocal for cranial and peripheral nervous systems": "PROBLEM"
+    "cranial and peripheral nervous systems": "TEST"
   },
   {
-    "strength": "PROBLEM"
+    "strength": "TEST"
   },
   {
-    "sensation": "PROBLEM"
+    "sensation": "TEST"
   },
   {
-    "cerebellar function": "PROBLEM"
+    "cerebellar function": "TEST"
   },
   {
-    "Affect is normal": "PROBLEM"
+    "affect": "TEST"
   },
   {
-    "Speech is clear and fluent": "PROBLEM"
+    "speech": "TEST"
   },
   {
-    "Thought process is lucid and rational": "PROBLEM"
+    "thought process": "TEST"
   },
   {
-    "Gait and station are unremarkable": "PROBLEM"
+    "gait": "TEST"
   },
   {
-    "Unremarkable for any premalignant or malignant condition": "PROBLEM"
+    "station": "TEST"
   },
   {
-    "pulse": "TEST"
-  },
-  {
-    "adenopathy": "PROBLEM"
-  },
-  {
-    "chest": "PROBLEM"
-  },
-  {
-    "percussion": "TEST"
-  },
-  {
-    "inspection": "TEST"
-  },
-  {
-    "palpation": "TEST"
-  },
-  {
-    "signs": "TEST"
-  },
-  {
-    "tongue": "PROBLEM"
+    "premalignant or malignant condition": "PROBLEM"
   }
 ]

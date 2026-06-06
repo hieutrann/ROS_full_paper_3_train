@@ -9,55 +9,43 @@
     "heart rate": "TEST"
   },
   {
-    "conjunctiva": "TEST"
+    "conjunctiva": "PROBLEM"
   },
   {
-    "pupil": "TEST"
+    "pupil": "PROBLEM"
   },
   {
     "ptosis": "PROBLEM"
   },
   {
-    "irides": "TEST"
+    "irides": "PROBLEM"
   },
   {
-    "ears": "TEST"
+    "ears": "PROBLEM"
   },
   {
-    "nose": "TEST"
+    "nose": "PROBLEM"
   },
   {
-    "throat": "TEST"
+    "throat": "PROBLEM"
   },
   {
-    "hearing": "TEST"
+    "mucosa": "PROBLEM"
   },
   {
-    "oropharynx": "TEST"
+    "palate": "PROBLEM"
   },
   {
-    "mucosa": "TEST"
+    "tongue": "PROBLEM"
   },
   {
-    "palate": "TEST"
+    "tonsil": "PROBLEM"
   },
   {
-    "tongue": "TEST"
+    "posterior pharynx": "PROBLEM"
   },
   {
-    "tonsil": "TEST"
-  },
-  {
-    "posterior pharynx": "TEST"
-  },
-  {
-    "thyroid gland": "TEST"
-  },
-  {
-    "neck": "TEST"
-  },
-  {
-    "thyroid gland": "TEST"
+    "thyroid gland": "PROBLEM"
   },
   {
     "respiratory effort": "TEST"
@@ -66,22 +54,13 @@
     "lung": "TEST"
   },
   {
-    "heart": "TEST"
-  },
-  {
     "S1": "TEST"
   },
   {
     "S2": "TEST"
   },
   {
-    "regular rate": "TEST"
-  },
-  {
     "murmur": "PROBLEM"
-  },
-  {
-    "extremities": "TEST"
   },
   {
     "edema": "PROBLEM"
@@ -90,67 +69,40 @@
     "abdomen": "TEST"
   },
   {
-    "rebound": "PROBLEM"
+    "liver": "TEST"
   },
   {
-    "guarding": "PROBLEM"
-  },
-  {
-    "enlarged liver": "PROBLEM"
-  },
-  {
-    "enlarged spleen": "PROBLEM"
+    "spleen": "TEST"
   },
   {
     "bowel sounds": "TEST"
   },
   {
-    "scrotal elements": "TEST"
+    "scrotal elements": "PROBLEM"
   },
   {
-    "testes": "TEST"
+    "testes": "PROBLEM"
   },
   {
-    "discrete mass": "PROBLEM"
+    "penis": "PROBLEM"
   },
   {
-    "penis": "TEST"
+    "lymph nodes": "PROBLEM"
   },
   {
-    "lesion": "PROBLEM"
+    "groin": "PROBLEM"
   },
   {
-    "discharge": "PROBLEM"
+    "neck area": "PROBLEM"
   },
   {
-    "lymph nodes": "TEST"
-  },
-  {
-    "groin": "TEST"
-  },
-  {
-    "neck area": "TEST"
-  },
-  {
-    "head": "TEST"
-  },
-  {
-    "neck": "TEST"
-  },
-  {
-    "deformity": "PROBLEM"
+    "head and neck": "TEST"
   },
   {
     "extremities": "TEST"
   },
   {
-    "range of motion": "TEST"
-  },
-  {
-    "upper extremities": "TEST"
-  },
-  {
-    "lower extremities": "TEST"
+    "sensation": "TEST"
   },
   {
     "skin": "TEST"
@@ -159,36 +111,15 @@
     "subcutaneous tissues": "TEST"
   },
   {
-    "temperature": "TEST"
-  },
-  {
     "deep tendon reflexes": "TEST"
   },
   {
     "patellar area": "TEST"
   },
   {
-    "sensation": "TEST"
+    "judgment": "PROBLEM"
   },
   {
-    "touch": "TEST"
-  },
-  {
-    "oriented": "TEST"
-  },
-  {
-    "time": "TEST"
-  },
-  {
-    "place": "TEST"
-  },
-  {
-    "person": "TEST"
-  },
-  {
-    "judgment": "TEST"
-  },
-  {
-    "insight": "TEST"
+    "insight": "PROBLEM"
   }
 ]

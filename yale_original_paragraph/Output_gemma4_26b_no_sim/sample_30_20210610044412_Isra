@@ -1,5 +1,8 @@
 [
   {
+    "Physical Exam": "TEST"
+  },
+  {
     "Blood pressure": "TEST"
   },
   {
@@ -33,6 +36,12 @@
     "retraction": "PROBLEM"
   },
   {
+    "tonsillar enlargement": "PROBLEM"
+  },
+  {
+    "crypt formation": "PROBLEM"
+  },
+  {
     "abscess": "PROBLEM"
   },
   {
@@ -42,10 +51,10 @@
     "JVD": "PROBLEM"
   },
   {
-    "egophony": "TEST"
+    "egophony": "PROBLEM"
   },
   {
-    "tactile fremitus": "TEST"
+    "tactile fremitus": "PROBLEM"
   },
   {
     "murmur": "PROBLEM"
@@ -87,7 +96,7 @@
     "effusion": "PROBLEM"
   },
   {
-    "diaphores": "PROBLEM"
+    "diaphoresis": "PROBLEM"
   },
   {
     "wound": "PROBLEM"
@@ -96,9 +105,15 @@
     "lymphadenopathy": "PROBLEM"
   },
   {
+    "delusions": "PROBLEM"
+  },
+  {
     "hallucinations": "PROBLEM"
   },
   {
-    "suicidal or homicidal ideation": "PROBLEM"
+    "suicidal ideation": "PROBLEM"
+  },
+  {
+    "homicidal ideation": "PROBLEM"
   }
 ]

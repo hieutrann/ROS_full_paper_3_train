@@ -1,6 +1,9 @@
 [
   {
-    "Nausea & Vomiting": "PROBLEM"
+    "Nausea": "PROBLEM"
+  },
+  {
+    "Vomiting": "PROBLEM"
   },
   {
     "intractable nausea and vomiting": "PROBLEM"
@@ -33,13 +36,10 @@
     "1+ esterase": "TEST"
   },
   {
-    "rbc too numerous to count": "TEST"
+    "rbc too numerous to count": "PROBLEM"
   },
   {
     "bacteria": "PROBLEM"
-  },
-  {
-    "H and H": "TEST"
   },
   {
     "Phenergan": "DRUG"

@@ -1,21 +1,27 @@
 [
   {
-    "CT": "TEST"
-  },
-  {
-    "cervical spine": "TEST"
-  },
-  {
-    "trauma": "PROBLEM"
+    "CT cervical spine": "TEST"
   },
   {
     "CT examination": "TEST"
+  },
+  {
+    "cervical spine": "PROBLEM"
+  },
+  {
+    "reformats": "TEST"
   },
   {
     "CT cervical spine": "TEST"
   },
   {
     "CT examination": "TEST"
+  },
+  {
+    "cervical spine": "PROBLEM"
+  },
+  {
+    "reformats": "TEST"
   },
   {
     "Cervical vertebral body height": "TEST"
@@ -33,7 +39,13 @@
     "destructive osseous lesions": "PROBLEM"
   },
   {
-    "degenerative endplate or facet changes": "PROBLEM"
+    "degenerative endplate": "PROBLEM"
+  },
+  {
+    "facet changes": "PROBLEM"
+  },
+  {
+    "narrowing": "PROBLEM"
   },
   {
     "cervical spine": "PROBLEM"
@@ -45,13 +57,16 @@
     "c-spine": "TEST"
   },
   {
+    "anatomical": "TEST"
+  },
+  {
     "degenerative endplate": "PROBLEM"
   },
   {
     "ct examination": "TEST"
   },
   {
-    "cervical spine": "PROBLEM"
+    "cervical spine": "TEST"
   },
   {
     "coronal": "TEST"
@@ -60,6 +75,9 @@
     "ct": "TEST"
   },
   {
-    "spine": "PROBLEM"
+    "spine": "TEST"
+  },
+  {
+    "cervical": "TEST"
   }
 ]

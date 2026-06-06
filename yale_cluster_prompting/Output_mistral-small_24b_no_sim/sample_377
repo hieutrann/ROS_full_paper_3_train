@@ -18,10 +18,7 @@
     "cardiovascular disease": "PROBLEM"
   },
   {
-    "symptoms": "PROBLEM"
-  },
-  {
-    "night": "PROBLEM"
+    "pressure": "PROBLEM"
   },
   {
     "chest": "PROBLEM"
@@ -36,16 +33,16 @@
     "stomach pains": "PROBLEM"
   },
   {
-    "epigastric area": "PROBLEM"
+    "mild": "PROBLEM"
+  },
+  {
+    "epigastric": "PROBLEM"
   },
   {
     "reflux": "PROBLEM"
   },
   {
     "Aciphex": "DRUG"
-  },
-  {
-    "symptoms": "PROBLEM"
   },
   {
     "Aciphex": "DRUG"
@@ -66,46 +63,28 @@
     "right flank pain": "PROBLEM"
   },
   {
-    "pain": "PROBLEM"
+    "dull achy pain": "PROBLEM"
   },
   {
     "spots": "PROBLEM"
   },
   {
-    "shoulder": "PROBLEM"
-  },
-  {
-    "elevated": "PROBLEM"
-  },
-  {
     "spots": "PROBLEM"
   },
   {
-    "urine": "PROBLEM"
+    "urgency of urine": "PROBLEM"
   },
   {
     "bladder": "PROBLEM"
   },
   {
-    "urge": "PROBLEM"
-  },
-  {
-    "restroom": "PROBLEM"
-  },
-  {
-    "leaking": "PROBLEM"
-  },
-  {
-    "pad": "TREATMENT"
-  },
-  {
     "colonoscopy": "TEST"
   },
   {
-    "routine labs": "TEST"
+    "chronic leukopenia": "PROBLEM"
   },
   {
-    "chronic leukopenia": "PROBLEM"
+    "labs": "TEST"
   },
   {
     "hepatitis titer": "TEST"
@@ -117,9 +96,6 @@
     "fine motor skills": "PROBLEM"
   },
   {
-    "months": "PROBLEM"
-  },
-  {
     "swelling": "PROBLEM"
   },
   {
@@ -129,7 +105,7 @@
     "trauma": "PROBLEM"
   },
   {
-    "eye doctor": "TEST"
+    "eye doctor": "TREATMENT"
   },
   {
     "hearing loss": "PROBLEM"
@@ -142,9 +118,6 @@
   },
   {
     "chronic cough": "PROBLEM"
-  },
-  {
-    "bowel movements": "PROBLEM"
   },
   {
     "black stools": "PROBLEM"
@@ -165,22 +138,16 @@
     "edema": "PROBLEM"
   },
   {
-    "lower extremity numbness": "PROBLEM"
+    "numbness": "PROBLEM"
   },
   {
     "tingling": "PROBLEM"
-  },
-  {
-    "nursing home": "PROBLEM"
   },
   {
     "weight": "PROBLEM"
   },
   {
     "diet": "TREATMENT"
-  },
-  {
-    "smoking": "PROBLEM"
   },
   {
     "type I diabetes": "PROBLEM"
@@ -204,10 +171,10 @@
     "Aciphex": "DRUG"
   },
   {
-    "aspirin": "DRUG"
+    "aspirin 81 mg q.d.": "DRUG"
   },
   {
-    "Vital Signs": "TEST"
+    "Weight": "TEST"
   },
   {
     "Blood pressure": "TEST"
@@ -216,7 +183,7 @@
     "Pulse": "TEST"
   },
   {
-    "HEENT": "TEST"
+    "pupils": "PROBLEM"
   },
   {
     "lymphadenopathy": "PROBLEM"
@@ -225,22 +192,13 @@
     "thyromegaly": "PROBLEM"
   },
   {
-    "Lungs": "PROBLEM"
+    "respiratory effort": "TEST"
   },
   {
-    "Heart": "PROBLEM"
-  },
-  {
-    "Radial pulses": "TEST"
-  },
-  {
-    "Abdomen": "PROBLEM"
+    "murmur": "PROBLEM"
   },
   {
     "tenderness": "PROBLEM"
-  },
-  {
-    "base of her thumbs": "PROBLEM"
   },
   {
     "PIP joint": "PROBLEM"
@@ -249,10 +207,7 @@
     "DIP joint": "PROBLEM"
   },
   {
-    "tinea versicolor": "PROBLEM"
-  },
-  {
-    "rash": "PROBLEM"
+    "tinea versicolor rash": "PROBLEM"
   },
   {
     "lesion": "PROBLEM"
@@ -270,22 +225,16 @@
     "edema": "PROBLEM"
   },
   {
-    "Pulses": "TEST"
+    "radial": "TEST"
   },
   {
-    "gait": "PROBLEM"
-  },
-  {
-    "affect": "PROBLEM"
-  },
-  {
-    "speech": "PROBLEM"
+    "posterior tibial": "TEST"
   },
   {
     "Chest pain": "PROBLEM"
   },
   {
-    "Murphys evaluation": "TEST"
+    "evaluation": "TEST"
   },
   {
     "reflux": "PROBLEM"
@@ -369,30 +318,18 @@
     "leukopenia": "PROBLEM"
   },
   {
-    "multiple problems": "PROBLEM"
-  },
-  {
-    "pulses are normal bilaterally": "TEST"
-  },
-  {
-    "lower extremities": "TEST"
-  },
-  {
     "tinea": "PROBLEM"
   },
   {
     "versicolor": "PROBLEM"
   },
   {
-    "pulses": "TEST"
-  },
-  {
-    "extremities": "TEST"
-  },
-  {
     "reflux": "PROBLEM"
   },
   {
     "aciphex": "DRUG"
+  },
+  {
+    "chest": "PROBLEM"
   }
 ]

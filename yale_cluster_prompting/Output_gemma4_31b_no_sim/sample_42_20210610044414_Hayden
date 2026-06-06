@@ -33,9 +33,6 @@
     "Total vaginal hysterectomy": "TREATMENT"
   },
   {
-    "vaginal deliveries": "TREATMENT"
-  },
-  {
     "menometrorrhagia": "PROBLEM"
   },
   {
@@ -45,7 +42,7 @@
     "Ultrasound": "TEST"
   },
   {
-    "uterine fibroid": "PROBLEM"
+    "small uterine fibroid": "PROBLEM"
   },
   {
     "oral contraceptives": "DRUG"
@@ -60,10 +57,10 @@
     "Tubal ligation": "TREATMENT"
   },
   {
-    "PHYSICAL EXAMINATION": "TEST"
+    "normal sized uterus": "PROBLEM"
   },
   {
-    "LABORATORY VALUES": "TEST"
+    "normal adnexa": "PROBLEM"
   },
   {
     "hemoglobin": "TEST"
@@ -73,12 +70,6 @@
   },
   {
     "general anesthesia": "TREATMENT"
-  },
-  {
-    "Bowel and bladder function": "PROBLEM"
-  },
-  {
-    "postoperative instructions": "TREATMENT"
   },
   {
     "Vicodin": "DRUG"
@@ -99,6 +90,6 @@
     "menometrorrhagia": "PROBLEM"
   },
   {
-    "fibroids": "PROBLEM"
+    "uterine, fibroids": "PROBLEM"
   }
 ]

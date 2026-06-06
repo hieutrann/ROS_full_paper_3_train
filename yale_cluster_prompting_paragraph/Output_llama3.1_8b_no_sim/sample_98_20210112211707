@@ -45,9 +45,6 @@
     "paroxysmal nocturnal dyspnea": "PROBLEM"
   },
   {
-    "chest pain with exertion": "PROBLEM"
-  },
-  {
     "cough": "PROBLEM"
   },
   {
@@ -93,7 +90,7 @@
     "tenderness": "PROBLEM"
   },
   {
-    "new numbness": "PROBLEM"
+    "numbness": "PROBLEM"
   },
   {
     "tingling": "PROBLEM"
@@ -117,13 +114,13 @@
     "sensation": "PROBLEM"
   },
   {
-    "changes in hair texture": "PROBLEM"
+    "hair texture": "PROBLEM"
   },
   {
-    "change in skin color": "PROBLEM"
+    "skin color": "PROBLEM"
   },
   {
-    "excessive or decreased appetite": "PROBLEM"
+    "appetite": "PROBLEM"
   },
   {
     "swollen lymph nodes": "PROBLEM"

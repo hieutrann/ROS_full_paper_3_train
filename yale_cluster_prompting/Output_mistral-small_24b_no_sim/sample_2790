@@ -1,15 +1,12 @@
 [
   {
-    "back pain": "PROBLEM"
+    "Back Pain": "PROBLEM"
   },
   {
     "chronic back pain": "PROBLEM"
   },
   {
-    "Decreased ability to perform daily living activities": "PROBLEM"
-  },
-  {
-    "exacerbation of chronic back pain": "PROBLEM"
+    "chronic back pain": "PROBLEM"
   },
   {
     "acute back pain": "PROBLEM"
@@ -18,13 +15,10 @@
     "back pain": "PROBLEM"
   },
   {
-    "severe back pain": "PROBLEM"
+    "back pain": "PROBLEM"
   },
   {
-    "IV": "DRUG"
-  },
-  {
-    "analgesics": "DRUG"
+    "IV analgesics": "DRUG"
   },
   {
     "Decadron": "DRUG"
@@ -52,6 +46,12 @@
   },
   {
     "bone scan": "TEST"
+  },
+  {
+    "bone scan": "TEST"
+  },
+  {
+    "oncologist": "PROBLEM"
   },
   {
     "PENICILLIN": "DRUG"
@@ -84,7 +84,7 @@
     "SAP FROM THE MANGO TREE": "PROBLEM"
   },
   {
-    "orchiectomy": "TREATMENT"
+    "mango product": "PROBLEM"
   },
   {
     "testicular cancer": "PROBLEM"
@@ -102,7 +102,7 @@
     "postnasal drip": "PROBLEM"
   },
   {
-    "bilateral carpal tunnel syndrome": "PROBLEM"
+    "carpal tunnel syndrome": "PROBLEM"
   },
   {
     "abdominal teratoma": "PROBLEM"
@@ -114,7 +114,10 @@
     "alcohol": "DRUG"
   },
   {
-    "IV drug use": "DRUG"
+    "IV drug use": "PROBLEM"
+  },
+  {
+    "IV drug abuse": "PROBLEM"
   },
   {
     "chills": "PROBLEM"
@@ -174,16 +177,13 @@
     "numbness and tingling": "PROBLEM"
   },
   {
-    "bilateral carpal tunnel syndrome": "PROBLEM"
+    "carpal tunnel syndrome": "PROBLEM"
   },
   {
     "seizure disorders": "PROBLEM"
   },
   {
     "dizziness": "PROBLEM"
-  },
-  {
-    "temperature": "TEST"
   },
   {
     "blood pressure": "TEST"
@@ -198,28 +198,58 @@
     "O2 saturation": "TEST"
   },
   {
-    "pounds": "TEST"
+    "Normocephalic": "PROBLEM"
+  },
+  {
+    "sclerae": "TEST"
+  },
+  {
+    "EOMI": "TEST"
   },
   {
     "thrush": "PROBLEM"
   },
   {
-    "auscultation": "TEST"
+    "Trachea": "PROBLEM"
   },
   {
-    "rate": "TEST"
+    "cervical nodes": "PROBLEM"
   },
   {
-    "rhythm": "TEST"
+    "axillary nodes": "PROBLEM"
+  },
+  {
+    "LUNGS": "TEST"
+  },
+  {
+    "rate and rhythm": "TEST"
+  },
+  {
+    "S1": "TEST"
+  },
+  {
+    "S2": "TEST"
   },
   {
     "Obese": "PROBLEM"
+  },
+  {
+    "clubbing": "PROBLEM"
+  },
+  {
+    "cyanosis": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
   },
   {
     "calf tenderness": "PROBLEM"
   },
   {
     "Bilateral strength": "TEST"
+  },
+  {
+    "right lower extremity": "PROBLEM"
   },
   {
     "alert": "PROBLEM"
@@ -231,7 +261,7 @@
     "Acute on chronic back pain": "PROBLEM"
   },
   {
-    "Joseph Health Services": "TREATMENT"
+    "rehabilitation therapy": "TREATMENT"
   },
   {
     "Physical Therapy": "TREATMENT"
@@ -246,10 +276,13 @@
     "Percocet": "DRUG"
   },
   {
-    "orchiectomy": "TREATMENT"
+    "right orchiectomy": "TREATMENT"
   },
   {
     "testicular cancer": "PROBLEM"
+  },
+  {
+    "bone scan": "TEST"
   },
   {
     "Gastroesophageal reflux disease": "PROBLEM"
@@ -270,16 +303,10 @@
     "Protonix": "DRUG"
   },
   {
-    "Deep vein thrombosis": "PROBLEM"
-  },
-  {
-    "prophylaxis": "TREATMENT"
+    "Deep vein thrombosis prophylaxis": "TREATMENT"
   },
   {
     "therapies": "TREATMENT"
-  },
-  {
-    "ambulating": "TREATMENT"
   },
   {
     "leg exercises": "TREATMENT"
@@ -288,25 +315,13 @@
     "Obesity": "PROBLEM"
   },
   {
-    "weighs": "TEST"
-  },
-  {
     "weight loss plan": "TREATMENT"
   },
   {
     "dietary consult": "TREATMENT"
   },
   {
-    "discharge summary": "TEST"
-  },
-  {
     "decreased ability": "PROBLEM"
-  },
-  {
-    "daily living activities": "PROBLEM"
-  },
-  {
-    "exacerbation": "PROBLEM"
   },
   {
     "back pain": "PROBLEM"

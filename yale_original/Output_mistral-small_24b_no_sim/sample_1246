@@ -3,6 +3,9 @@
     "laparoscopic Roux-en-Y gastric bypass": "TREATMENT"
   },
   {
+    "FINAL DIAGNOSES": "TEST"
+  },
+  {
     "Morbid obesity": "PROBLEM"
   },
   {
@@ -36,34 +39,22 @@
     "diagnostics": "TEST"
   },
   {
-    "preop Medifast induced weight loss": "TREATMENT"
+    "Medifast": "DRUG"
+  },
+  {
+    "weight loss": "TREATMENT"
   },
   {
     "bariatric surgery": "TREATMENT"
   },
   {
-    "OR": "TEST"
-  },
-  {
     "gastric bypass": "TREATMENT"
   },
   {
-    "PACU": "TEST"
+    "DVT prophylaxis": "TREATMENT"
   },
   {
-    "postoperative care": "TREATMENT"
-  },
-  {
-    "DVT": "PROBLEM"
-  },
-  {
-    "prophylaxis": "TREATMENT"
-  },
-  {
-    "subcu heparin": "DRUG"
-  },
-  {
-    "mobilization": "TREATMENT"
+    "heparin": "DRUG"
   },
   {
     "SCDs": "TREATMENT"
@@ -72,7 +63,7 @@
     "PCA": "TREATMENT"
   },
   {
-    "pain control": "PROBLEM"
+    "pain control": "TREATMENT"
   },
   {
     "CPAP": "TREATMENT"
@@ -81,13 +72,7 @@
     "cardiopulmonary complaints": "PROBLEM"
   },
   {
-    "bariatric": "TREATMENT"
-  },
-  {
-    "labs": "TEST"
-  },
-  {
-    "ambulatory": "PROBLEM"
+    "bariatric clear liquids": "TREATMENT"
   },
   {
     "cardiopulmonary complaints": "PROBLEM"
@@ -96,10 +81,13 @@
     "fever": "PROBLEM"
   },
   {
-    "symptoms": "PROBLEM"
+    "four ounces per hour": "TREATMENT"
   },
   {
-    "re-appointment": "TREATMENT"
+    "drains": "TREATMENT"
+  },
+  {
+    "complaints": "PROBLEM"
   },
   {
     "omeprazole": "DRUG"
@@ -108,7 +96,10 @@
     "Lortab": "DRUG"
   },
   {
-    "bariatric": "TREATMENT"
+    "Med rec sheet": "TEST"
+  },
+  {
+    "bariatric clear liquids": "TREATMENT"
   },
   {
     "shower": "TREATMENT"
@@ -120,21 +111,36 @@
     "wound care": "TREATMENT"
   },
   {
+    "complaints": "PROBLEM"
+  },
+  {
+    "discharge summary": "TEST"
+  },
+  {
+    "medifast": "DRUG"
+  },
+  {
     "laparoscopic roux-en-y gastric bypass": "TREATMENT"
   },
   {
     "roux-en-y": "TREATMENT"
   },
   {
+    "bariatric clear liquids": "TREATMENT"
+  },
+  {
     "gastric bypass": "TREATMENT"
   },
   {
-    "laparoscopic": "TEST"
+    "laparoscopic": "TREATMENT"
   },
   {
     "gastric": "PROBLEM"
   },
   {
-    "bariatric": "PROBLEM"
+    "bariatric": "TREATMENT"
+  },
+  {
+    "bypass": "TREATMENT"
   }
 ]

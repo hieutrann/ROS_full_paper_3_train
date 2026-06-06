@@ -1,0 +1,38 @@
+[
+  {
+    "pelvic pain": "PROBLEM"
+  },
+  {
+    "vaginal bleeding": "PROBLEM"
+  },
+  {
+    "Right ruptured ectopic pregnancy": "PROBLEM"
+  },
+  {
+    "hemoperitoneum": "PROBLEM"
+  },
+  {
+    "Anemia secondary to blood loss": "PROBLEM"
+  },
+  {
+    "hCG": "TEST"
+  },
+  {
+    "sonogram": "TEST"
+  },
+  {
+    "laparotomy": "TREATMENT"
+  },
+  {
+    "right salpingectomy": "TREATMENT"
+  },
+  {
+    "2 units of red packed cells": "TREATMENT"
+  },
+  {
+    "hemoglobin": "TEST"
+  },
+  {
+    "09/09/2007": "TEST"
+  }
+]

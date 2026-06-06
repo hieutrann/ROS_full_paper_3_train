@@ -1,12 +1,15 @@
 [
   {
+    "back pain": "PROBLEM"
+  },
+  {
     "chronic back pain": "PROBLEM"
   },
   {
     "acute back pain": "PROBLEM"
   },
   {
-    "back pain": "PROBLEM"
+    "severe back pain": "PROBLEM"
   },
   {
     "IV analgesics": "DRUG"
@@ -31,27 +34,6 @@
   },
   {
     "bone scan": "TEST"
-  },
-  {
-    "PENICILLIN": "DRUG"
-  },
-  {
-    "AMOXICILLIN": "DRUG"
-  },
-  {
-    "CEPHALOSPORIN": "DRUG"
-  },
-  {
-    "DOXYCYCLINE": "DRUG"
-  },
-  {
-    "IVP DYE": "DRUG"
-  },
-  {
-    "IODINE": "DRUG"
-  },
-  {
-    "SULFA": "DRUG"
   },
   {
     "HIVES": "PROBLEM"
@@ -141,21 +123,6 @@
     "dizziness": "PROBLEM"
   },
   {
-    "temperature": "TEST"
-  },
-  {
-    "blood pressure": "TEST"
-  },
-  {
-    "pulse": "TEST"
-  },
-  {
-    "respirations": "TEST"
-  },
-  {
-    "O2 saturation": "TEST"
-  },
-  {
     "Acute on chronic back pain": "PROBLEM"
   },
   {
@@ -174,9 +141,6 @@
     "Gastroesophageal reflux disease": "PROBLEM"
   },
   {
-    "gastrointestinal prophylaxis": "TREATMENT"
-  },
-  {
     "Colace": "DRUG"
   },
   {
@@ -186,7 +150,7 @@
     "Protonix": "DRUG"
   },
   {
-    "Deep vein thrombosis prophylaxis": "TREATMENT"
+    "Deep vein thrombosis": "PROBLEM"
   },
   {
     "Obesity": "PROBLEM"

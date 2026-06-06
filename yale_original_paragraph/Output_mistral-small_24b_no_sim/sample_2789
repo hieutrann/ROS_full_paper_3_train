@@ -1,18 +1,21 @@
 [
   {
-    "decreased ability to perform daily living activity": "PROBLEM"
-  },
-  {
     "right hip surgery": "PROBLEM"
   },
   {
-    "right total hip replacement": "PROBLEM"
+    "right total hip replacement": "TREATMENT"
   },
   {
-    "low-grade fever": "PROBLEM"
+    "fever": "PROBLEM"
   },
   {
-    "DVT": "PROBLEM"
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "Coumadin": "DRUG"
+  },
+  {
+    "Lovenox": "DRUG"
   },
   {
     "INR": "TEST"
@@ -27,7 +30,7 @@
     "right hip pain": "PROBLEM"
   },
   {
-    "anxiety": "PROBLEM"
+    "Anxiety": "PROBLEM"
   },
   {
     "depression": "PROBLEM"
@@ -46,12 +49,6 @@
   },
   {
     "appendectomy": "TREATMENT"
-  },
-  {
-    "Coumadin": "DRUG"
-  },
-  {
-    "Lovenox": "DRUG"
   },
   {
     "Paxil": "DRUG"
@@ -73,6 +70,72 @@
   },
   {
     "oxycodone": "DRUG"
+  },
+  {
+    "glasses": "TREATMENT"
+  },
+  {
+    "floaters": "PROBLEM"
+  },
+  {
+    "temperature": "TEST"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "scratchy throat": "PROBLEM"
+  },
+  {
+    "intubation": "TREATMENT"
+  },
+  {
+    "right calf pain": "PROBLEM"
+  },
+  {
+    "Homans sign": "TEST"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "palpitation": "PROBLEM"
+  },
+  {
+    "difficulty breathing": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "hemoptysis": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "diarrhea": "PROBLEM"
+  },
+  {
+    "constipated": "PROBLEM"
+  },
+  {
+    "dysuria": "PROBLEM"
+  },
+  {
+    "urinary frequency": "PROBLEM"
+  },
+  {
+    "incomplete bladder emptying": "PROBLEM"
+  },
+  {
+    "voiding difficulties": "PROBLEM"
+  },
+  {
+    "menstrual cycle": "PROBLEM"
   },
   {
     "temperature": "TEST"
@@ -105,6 +168,9 @@
     "creatinine": "TEST"
   },
   {
+    "INR": "TEST"
+  },
+  {
     "CBC": "TEST"
   },
   {
@@ -123,39 +189,57 @@
     "Feosol": "DRUG"
   },
   {
+    "Oxycodone SR": "DRUG"
+  },
+  {
+    "Oxycodone IR": "DRUG"
+  },
+  {
     "ice": "TREATMENT"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Klonopin": "DRUG"
+  },
+  {
+    "Celebrex": "DRUG"
   },
   {
     "Protonix": "DRUG"
   },
   {
-    "Dulcolax": "DRUG"
+    "Dulcolax suppository": "DRUG"
   },
   {
     "lactulose": "DRUG"
   },
   {
+    "Colace": "DRUG"
+  },
+  {
     "Arixtra": "DRUG"
+  },
+  {
+    "Coumadin": "DRUG"
+  },
+  {
+    "INR": "TEST"
+  },
+  {
+    "right leg muscle spasm": "PROBLEM"
+  },
+  {
+    "calf pain": "PROBLEM"
+  },
+  {
+    "DVT": "PROBLEM"
   },
   {
     "Physical Therapy": "TREATMENT"
   },
   {
     "Occupational Therapy": "TREATMENT"
-  },
-  {
-    "discharge summary": "PROBLEM"
-  },
-  {
-    "hip surgery": "PROBLEM"
-  },
-  {
-    "hip replacement": "PROBLEM"
-  },
-  {
-    "physical therapy": "TREATMENT"
-  },
-  {
-    "occupational therapy": "TREATMENT"
   }
 ]

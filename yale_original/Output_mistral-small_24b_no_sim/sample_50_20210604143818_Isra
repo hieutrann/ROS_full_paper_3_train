@@ -6,6 +6,9 @@
     "Abdominal pain": "PROBLEM"
   },
   {
+    "female": "PROBLEM"
+  },
+  {
     "abdominal pain": "PROBLEM"
   },
   {
@@ -42,6 +45,9 @@
     "melena": "PROBLEM"
   },
   {
+    "colonoscopy": "TEST"
+  },
+  {
     "fevers": "PROBLEM"
   },
   {
@@ -55,9 +61,6 @@
   },
   {
     "atrial fibrillation": "PROBLEM"
-  },
-  {
-    "sinus rhythm": "PROBLEM"
   },
   {
     "metoprolol": "DRUG"
@@ -75,7 +78,19 @@
     "hysterectomy": "TREATMENT"
   },
   {
+    "bladder prolapse": "PROBLEM"
+  },
+  {
+    "Chip Winkel": "PROBLEM"
+  },
+  {
     "MACRODANTIN": "DRUG"
+  },
+  {
+    "drink": "PROBLEM"
+  },
+  {
+    "smoke": "PROBLEM"
   },
   {
     "febrile illnesses": "PROBLEM"
@@ -90,19 +105,19 @@
     "elderly": "PROBLEM"
   },
   {
+    "thin": "PROBLEM"
+  },
+  {
     "temperature": "TEST"
   },
   {
     "Head": "TEST"
   },
   {
-    "anicteric": "PROBLEM"
+    "Sclerae": "PROBLEM"
   },
   {
-    "CHEST": "PROBLEM"
-  },
-  {
-    "HEART": "PROBLEM"
+    "conjunctivae": "PROBLEM"
   },
   {
     "ABDOMEN": "PROBLEM"
@@ -111,19 +126,16 @@
     "left lower quadrant": "PROBLEM"
   },
   {
-    "tender": "PROBLEM"
-  },
-  {
     "mass": "PROBLEM"
-  },
-  {
-    "tender": "PROBLEM"
   },
   {
     "CVA": "PROBLEM"
   },
   {
     "flank tenderness": "PROBLEM"
+  },
+  {
+    "left flank tenderness": "PROBLEM"
   },
   {
     "grade 4 urinary bladder prolapse": "PROBLEM"
@@ -162,9 +174,6 @@
     "abdominal pain": "PROBLEM"
   },
   {
-    "left lower quadrant": "PROBLEM"
-  },
-  {
     "abdomen": "PROBLEM"
   },
   {
@@ -183,7 +192,7 @@
     "pelvis": "TEST"
   },
   {
-    "nothing by mouth": "TREATMENT"
+    "Colorectal Surgery": "TREATMENT"
   },
   {
     "colonoscopy": "TEST"
@@ -199,6 +208,15 @@
   },
   {
     "abdominal pain": "PROBLEM"
+  },
+  {
+    "lower quadrant": "PROBLEM"
+  },
+  {
+    "abdominal": "PROBLEM"
+  },
+  {
+    "sigmoid": "PROBLEM"
   },
   {
     "diverticulitis": "PROBLEM"

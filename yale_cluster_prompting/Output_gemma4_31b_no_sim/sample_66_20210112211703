@@ -6,7 +6,7 @@
     "lower extremity cellulitis": "PROBLEM"
   },
   {
-    "antibiotic therapy": "DRUG"
+    "antibiotic therapy": "TREATMENT"
   },
   {
     "lower extremity cellulitis": "PROBLEM"
@@ -24,7 +24,7 @@
     "cellulitis of the lower extremities": "PROBLEM"
   },
   {
-    "oral Bactrim": "DRUG"
+    "Bactrim": "DRUG"
   },
   {
     "ciprofloxacin": "DRUG"
@@ -42,10 +42,7 @@
     "stage II ulcer": "PROBLEM"
   },
   {
-    "drainage": "PROBLEM"
-  },
-  {
-    "slight erythema": "PROBLEM"
+    "erythema": "PROBLEM"
   },
   {
     "lymphedema": "PROBLEM"
@@ -147,7 +144,10 @@
     "weight": "TEST"
   },
   {
-    "Extraocular movements intact": "PROBLEM"
+    "Pupils": "TEST"
+  },
+  {
+    "Extraocular movements": "TEST"
   },
   {
     "external ear exam": "TEST"
@@ -165,10 +165,16 @@
     "gallop": "PROBLEM"
   },
   {
-    "Heart sounds are little distant": "PROBLEM"
+    "Heart sounds": "TEST"
   },
   {
     "thick chest wall": "PROBLEM"
+  },
+  {
+    "auscultation": "TEST"
+  },
+  {
+    "percussion": "TEST"
   },
   {
     "Morbidly obese": "PROBLEM"
@@ -186,10 +192,10 @@
     "lymphadenopathy": "PROBLEM"
   },
   {
-    "extensive lymphedema": "PROBLEM"
+    "lymphedema": "PROBLEM"
   },
   {
-    "pinkish discoloration of the lower part of calf and shin areas": "PROBLEM"
+    "pinkish discoloration": "PROBLEM"
   },
   {
     "stasis dermatosis": "PROBLEM"
@@ -246,6 +252,18 @@
     "differential": "TEST"
   },
   {
+    "neutrophils": "TEST"
+  },
+  {
+    "lymphocytes": "TEST"
+  },
+  {
+    "monocytes": "TEST"
+  },
+  {
+    "eosinophils": "TEST"
+  },
+  {
     "basic electrolyte panel": "TEST"
   },
   {
@@ -291,16 +309,19 @@
     "bilateral lower extremity lymphedema": "PROBLEM"
   },
   {
-    "active cellulitis": "PROBLEM"
+    "cellulitis": "PROBLEM"
   },
   {
     "wound infection": "PROBLEM"
   },
   {
-    "active cellulitis": "PROBLEM"
+    "cellulitis": "PROBLEM"
   },
   {
     "antibiotic therapy": "TREATMENT"
+  },
+  {
+    "lymphedema": "PROBLEM"
   },
   {
     "lymphedema wraps": "TREATMENT"
@@ -325,6 +346,9 @@
   },
   {
     "lymphedema wraps": "TREATMENT"
+  },
+  {
+    "Lymphedema Management": "TREATMENT"
   },
   {
     "lower extremity cellulitis": "PROBLEM"

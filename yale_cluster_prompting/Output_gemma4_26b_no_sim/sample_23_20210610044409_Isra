@@ -1,9 +1,18 @@
 [
   {
-    "physical exam": "TEST"
+    "Blood pressure": "TEST"
   },
   {
-    "VITAL SIGNS": "TEST"
+    "pulse": "TEST"
+  },
+  {
+    "respirations": "TEST"
+  },
+  {
+    "temperature": "TEST"
+  },
+  {
+    "apparent distress": "PROBLEM"
   },
   {
     "EOMI": "TEST"
@@ -12,13 +21,13 @@
     "PERRLA": "TEST"
   },
   {
+    "Sclerae nonicteric": "PROBLEM"
+  },
+  {
     "lesions": "PROBLEM"
   },
   {
     "Funduscopic examination": "TEST"
-  },
-  {
-    "dental work": "TREATMENT"
   },
   {
     "bruit": "PROBLEM"
@@ -33,7 +42,16 @@
     "thyroid abnormality": "PROBLEM"
   },
   {
-    "S1 and S2": "TEST"
+    "auscultation": "TEST"
+  },
+  {
+    "percussion": "TEST"
+  },
+  {
+    "S1": "TEST"
+  },
+  {
+    "S2": "TEST"
   },
   {
     "murmur": "PROBLEM"
@@ -57,10 +75,10 @@
     "gallop": "PROBLEM"
   },
   {
-    "axillary or supraclavicular adenopathy": "PROBLEM"
+    "PMI nondisplaced": "PROBLEM"
   },
   {
-    "BREASTS": "PROBLEM"
+    "adenopathy": "PROBLEM"
   },
   {
     "hepatosplenomegaly": "PROBLEM"
@@ -81,7 +99,13 @@
     "guarding": "PROBLEM"
   },
   {
-    "aortic impulse": "TEST"
+    "widening of the aortic impulse": "PROBLEM"
+  },
+  {
+    "intraabdominal bruit": "PROBLEM"
+  },
+  {
+    "auscultated": "TEST"
   },
   {
     "7 cm by gloved digital palpation": "TEST"
@@ -90,10 +114,7 @@
     "Hemoccult": "TEST"
   },
   {
-    "negative stool": "TEST"
-  },
-  {
-    "distal pulse": "TEST"
+    "negative stool": "PROBLEM"
   },
   {
     "edema": "PROBLEM"
@@ -106,6 +127,12 @@
   },
   {
     "deep venous thrombosis": "PROBLEM"
+  },
+  {
+    "range of motion": "TEST"
+  },
+  {
+    "percussion": "TEST"
   },
   {
     "spinous process tenderness": "PROBLEM"
@@ -135,7 +162,10 @@
     "cerebellar function": "TEST"
   },
   {
-    "premalignant or malignant condition": "PROBLEM"
+    "premalignant condition": "PROBLEM"
+  },
+  {
+    "malignant condition": "PROBLEM"
   },
   {
     "hepatosplenomegaly": "PROBLEM"
@@ -156,7 +186,7 @@
     "pulse": "TEST"
   },
   {
-    "bruit": "TEST"
+    "bruit": "PROBLEM"
   },
   {
     "adenopathy": "PROBLEM"

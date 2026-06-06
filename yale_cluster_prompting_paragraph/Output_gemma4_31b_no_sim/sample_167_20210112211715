@@ -39,7 +39,7 @@
     "CT scan of the head": "TEST"
   },
   {
-    "new-onset cerebrovascular accident": "PROBLEM"
+    "cerebrovascular accident": "PROBLEM"
   },
   {
     "urinary tract infection": "PROBLEM"
@@ -75,7 +75,7 @@
     "Dementia": "PROBLEM"
   },
   {
-    "left mastectomy": "TREATMENT"
+    "mastectomy": "TREATMENT"
   },
   {
     "breast cancer": "PROBLEM"
@@ -93,18 +93,6 @@
     "stool incontinence": "PROBLEM"
   },
   {
-    "Temperature": "TEST"
-  },
-  {
-    "pulse": "TEST"
-  },
-  {
-    "respirations": "TEST"
-  },
-  {
-    "blood pressure": "TEST"
-  },
-  {
     "right-sided facial droop": "PROBLEM"
   },
   {
@@ -115,6 +103,9 @@
   },
   {
     "systolic murmur": "PROBLEM"
+  },
+  {
+    "Bowel sound": "TEST"
   },
   {
     "pedal edema": "PROBLEM"
@@ -174,9 +165,6 @@
     "culture": "TEST"
   },
   {
-    "E. coli": "PROBLEM"
-  },
-  {
     "amikacin": "DRUG"
   },
   {
@@ -189,7 +177,7 @@
     "meropenem": "DRUG"
   },
   {
-    "Recent cerebrovascular accident": "PROBLEM"
+    "cerebrovascular accident": "PROBLEM"
   },
   {
     "right-sided weakness": "PROBLEM"
@@ -231,6 +219,9 @@
     "Ecotrin": "DRUG"
   },
   {
+    "swallowing evaluation": "TEST"
+  },
+  {
     "Aricept": "DRUG"
   },
   {
@@ -256,5 +247,23 @@
   },
   {
     "potassium": "DRUG"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "right-sided weakness": "PROBLEM"
+  },
+  {
+    "facial droop": "PROBLEM"
+  },
+  {
+    "swallowing evaluation": "TEST"
+  },
+  {
+    "cerebrovascular accident": "PROBLEM"
+  },
+  {
+    "weakness": "PROBLEM"
   }
 ]

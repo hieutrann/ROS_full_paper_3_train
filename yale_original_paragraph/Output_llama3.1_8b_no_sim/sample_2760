@@ -18,7 +18,13 @@
     "congestive heart failure": "PROBLEM"
   },
   {
-    "dyspnea": "PROBLEM"
+    "Open reduction and internal fixation": "TREATMENT"
+  },
+  {
+    "CPM machine": "TREATMENT"
+  },
+  {
+    "Nebulizer treatment": "TREATMENT"
   },
   {
     "Lasix": "DRUG"
@@ -36,21 +42,6 @@
     "Zithromax": "DRUG"
   },
   {
-    "guaifenesin": "DRUG"
-  },
-  {
-    "Open reduction and internal fixation": "TREATMENT"
-  },
-  {
-    "meniscectomy": "TREATMENT"
-  },
-  {
-    "CPM machine": "TEST"
-  },
-  {
-    "nebulizer treatment": "TEST"
-  },
-  {
-    "Lasix": "TREATMENT"
+    "Guaifenesin": "DRUG"
   }
 ]

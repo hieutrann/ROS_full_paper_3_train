@@ -12,7 +12,7 @@
     "hemoperitoneum": "PROBLEM"
   },
   {
-    "anemia": "PROBLEM"
+    "Anemia": "PROBLEM"
   },
   {
     "blood loss": "PROBLEM"
@@ -36,7 +36,7 @@
     "salpingectomy": "TREATMENT"
   },
   {
-    "red packed cells": "DRUG"
+    "red packed cells": "TREATMENT"
   },
   {
     "pain medication": "DRUG"

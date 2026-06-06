@@ -15,13 +15,13 @@
     "tingling": "PROBLEM"
   },
   {
+    "pain": "PROBLEM"
+  },
+  {
     "pain in the toes": "PROBLEM"
   },
   {
-    "moderate pain": "PROBLEM"
-  },
-  {
-    "sharp quality pain": "PROBLEM"
+    "pain": "PROBLEM"
   },
   {
     "paraesthesias": "PROBLEM"
@@ -102,7 +102,7 @@
     "fracture": "PROBLEM"
   },
   {
-    "pins removed": "TREATMENT"
+    "pins": "TREATMENT"
   },
   {
     "colonoscopies": "TEST"
@@ -111,13 +111,13 @@
     "right total knee arthroplasty": "TREATMENT"
   },
   {
-    "synovitis of the left knee": "PROBLEM"
+    "synovitis": "PROBLEM"
   },
   {
     "zoster": "PROBLEM"
   },
   {
-    "infection of the left knee": "PROBLEM"
+    "infection": "PROBLEM"
   },
   {
     "labyrinthitis": "PROBLEM"
@@ -184,6 +184,9 @@
   },
   {
     "sore throat": "PROBLEM"
+  },
+  {
+    "glasses": "TREATMENT"
   },
   {
     "cough": "PROBLEM"
@@ -258,7 +261,13 @@
     "thyromegaly": "PROBLEM"
   },
   {
-    "Heart": "TEST"
+    "murmur": "PROBLEM"
+  },
+  {
+    "click": "PROBLEM"
+  },
+  {
+    "rub": "PROBLEM"
   },
   {
     "carotid bruits": "PROBLEM"
@@ -297,16 +306,10 @@
     "Pedal pulses": "TEST"
   },
   {
-    "Cranial nerves II-XII": "TEST"
-  },
-  {
     "Deep tendon reflexes": "TEST"
   },
   {
     "atrophic": "PROBLEM"
-  },
-  {
-    "Vaginal rugae": "PROBLEM"
   },
   {
     "atrophic": "PROBLEM"
@@ -318,13 +321,13 @@
     "Bimanual exam": "TEST"
   },
   {
-    "absence of uterus and cervix": "PROBLEM"
+    "absence of uterus": "PROBLEM"
+  },
+  {
+    "absence of cervix": "PROBLEM"
   },
   {
     "ovaries": "PROBLEM"
-  },
-  {
-    "Rectal: Exam": "TEST"
   },
   {
     "actinic keratosis": "PROBLEM"

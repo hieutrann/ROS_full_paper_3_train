@@ -3,13 +3,7 @@
     "Pyelonephritis": "PROBLEM"
   },
   {
-    "mucous plugging": "PROBLEM"
-  },
-  {
-    "indwelling Foley": "TREATMENT"
-  },
-  {
-    "ileal conduit": "TREATMENT"
+    "mucous plugging of indwelling Foley in the ileal conduit": "PROBLEM"
   },
   {
     "hypertension": "PROBLEM"
@@ -48,7 +42,7 @@
     "indwelling Foley": "TREATMENT"
   },
   {
-    "ileal conduit": "TREATMENT"
+    "ileal conduit": "PROBLEM"
   },
   {
     "Hypertension": "PROBLEM"
@@ -90,7 +84,7 @@
     "Bactrim": "DRUG"
   },
   {
-    "surgery": "TREATMENT"
+    "further surgery": "TREATMENT"
   },
   {
     "right knee pain": "PROBLEM"
@@ -99,7 +93,7 @@
     "effusion": "PROBLEM"
   },
   {
-    "tender to touch of the patellar tendon": "PROBLEM"
+    "exquisitely tender to touch of the patellar tendon": "PROBLEM"
   },
   {
     "intraarticular process": "PROBLEM"

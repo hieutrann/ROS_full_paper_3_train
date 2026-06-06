@@ -6,13 +6,16 @@
     "chest pain": "PROBLEM"
   },
   {
-    "60-year-old female": "PROBLEM"
+    "female": "PROBLEM"
   },
   {
     "chest pain": "PROBLEM"
   },
   {
-    "Murphy": "PROBLEM"
+    "Dr": "TREATMENT"
+  },
+  {
+    "cardiovascular disease": "PROBLEM"
   },
   {
     "treadmill": "TEST"
@@ -21,19 +24,13 @@
     "echocardiogram": "TEST"
   },
   {
-    "cardiovascular disease": "PROBLEM"
-  },
-  {
     "pressure": "PROBLEM"
   },
   {
     "chest": "PROBLEM"
   },
   {
-    "gets up": "PROBLEM"
-  },
-  {
-    "gone": "PROBLEM"
+    "minutes": "TEST"
   },
   {
     "fast heartbeats": "PROBLEM"
@@ -42,7 +39,7 @@
     "irregular heartbeats": "PROBLEM"
   },
   {
-    "2": "TEST"
+    "2": "TREATMENT"
   },
   {
     "stomach pains": "PROBLEM"
@@ -51,7 +48,7 @@
     "epigastric area": "PROBLEM"
   },
   {
-    "3": "PROBLEM"
+    "3": "TREATMENT"
   },
   {
     "reflux": "PROBLEM"
@@ -81,7 +78,7 @@
     "right flank pain": "PROBLEM"
   },
   {
-    "off and on": "PROBLEM"
+    "months": "PROBLEM"
   },
   {
     "achy pain": "PROBLEM"
@@ -96,7 +93,7 @@
     "painful": "PROBLEM"
   },
   {
-    "6": "PROBLEM"
+    "6": "TEST"
   },
   {
     "spots": "PROBLEM"
@@ -105,16 +102,13 @@
     "itchy": "PROBLEM"
   },
   {
-    "7": "PROBLEM"
-  },
-  {
-    "urgency of urine": "PROBLEM"
+    "urine": "PROBLEM"
   },
   {
     "urine leakage": "PROBLEM"
   },
   {
-    "pad": "PROBLEM"
+    "pad": "TREATMENT"
   },
   {
     "8": "TEST"
@@ -129,7 +123,7 @@
     "hepatitis titer": "TEST"
   },
   {
-    "9": "PROBLEM"
+    "9": "TEST"
   },
   {
     "pain": "PROBLEM"
@@ -150,7 +144,7 @@
     "trauma": "PROBLEM"
   },
   {
-    "eye doctor": "TEST"
+    "eye doctor": "TREATMENT"
   },
   {
     "hearing loss": "PROBLEM"
@@ -168,7 +162,10 @@
     "bowel movements": "PROBLEM"
   },
   {
-    "black or bloody stools": "PROBLEM"
+    "black stools": "PROBLEM"
+  },
+  {
+    "bloody stools": "PROBLEM"
   },
   {
     "diarrhea": "PROBLEM"
@@ -177,7 +174,7 @@
     "constipation": "PROBLEM"
   },
   {
-    "blood in her urine": "PROBLEM"
+    "urinary problems": "PROBLEM"
   },
   {
     "edema": "PROBLEM"
@@ -189,7 +186,7 @@
     "tingling": "PROBLEM"
   },
   {
-    "nursing home": "PROBLEM"
+    "nursing home": "TREATMENT"
   },
   {
     "nonsmoker": "PROBLEM"
@@ -228,7 +225,7 @@
     "aspirin": "DRUG"
   },
   {
-    "No known medical allergies": "PROBLEM"
+    "medical allergies": "PROBLEM"
   },
   {
     "Weight": "TEST"
@@ -240,7 +237,7 @@
     "Pulse": "TEST"
   },
   {
-    "adult": "PROBLEM"
+    "adult female": "PROBLEM"
   },
   {
     "pupils": "TEST"
@@ -255,7 +252,7 @@
     "Oropharynx": "PROBLEM"
   },
   {
-    "Dentition": "PROBLEM"
+    "Dentition": "TEST"
   },
   {
     "lymphadenopathy": "PROBLEM"
@@ -264,16 +261,25 @@
     "thyromegaly": "PROBLEM"
   },
   {
-    "Lungs": "PROBLEM"
+    "Lungs": "TEST"
   },
   {
-    "Heart": "PROBLEM"
+    "respiratory effort": "TEST"
   },
   {
-    "Radial pulses": "TEST"
+    "rhythm": "TEST"
   },
   {
-    "Abdomen": "PROBLEM"
+    "rate": "TEST"
+  },
+  {
+    "murmur": "PROBLEM"
+  },
+  {
+    "pulses": "TEST"
+  },
+  {
+    "organomegaly": "PROBLEM"
   },
   {
     "thumbs": "PROBLEM"
@@ -288,13 +294,13 @@
     "armpits": "TEST"
   },
   {
-    "tinea versicolor rash": "PROBLEM"
+    "tinea versicolor": "PROBLEM"
   },
   {
     "lesion": "PROBLEM"
   },
   {
-    "diffuse borders": "PROBLEM"
+    "shoulder": "TREATMENT"
   },
   {
     "red": "PROBLEM"
@@ -309,16 +315,13 @@
     "edema": "PROBLEM"
   },
   {
-    "Pulses": "TEST"
-  },
-  {
     "radial pulses": "TEST"
   },
   {
     "posterior tibial pulses": "TEST"
   },
   {
-    "gait": "TEST"
+    "gait": "PROBLEM"
   },
   {
     "affect": "PROBLEM"
@@ -342,6 +345,9 @@
     "symptoms": "PROBLEM"
   },
   {
+    "cardiac": "PROBLEM"
+  },
+  {
     "reflux": "PROBLEM"
   },
   {
@@ -354,31 +360,28 @@
     "symptoms": "PROBLEM"
   },
   {
-    "2": "TEST"
+    "2": "TREATMENT"
   },
   {
-    "Stomach pain": "PROBLEM"
+    "stomach pain": "PROBLEM"
   },
   {
     "chest pain": "PROBLEM"
   },
   {
-    "3": "PROBLEM"
+    "3": "TREATMENT"
   },
   {
-    "Suspicious lesions": "PROBLEM"
+    "lesions": "PROBLEM"
   },
   {
-    "punch biopsy": "TREATMENT"
+    "biopsy": "TEST"
   },
   {
     "4": "TEST"
   },
   {
     "Tinea versicolor": "PROBLEM"
-  },
-  {
-    "axillary": "PROBLEM"
   },
   {
     "selenium sulfide lotion": "DRUG"
@@ -390,25 +393,19 @@
     "Cystocele": "PROBLEM"
   },
   {
-    "Dr.": "TREATMENT"
+    "Dr": "TREATMENT"
   },
   {
     "urinary incontinence": "PROBLEM"
   },
   {
-    "6": "PROBLEM"
+    "6": "TEST"
   },
   {
     "leukopenia": "PROBLEM"
   },
   {
     "CBC": "TEST"
-  },
-  {
-    "7": "PROBLEM"
-  },
-  {
-    "Pain in the thumbs": "PROBLEM"
   },
   {
     "arthritic": "PROBLEM"
@@ -420,13 +417,13 @@
     "Screening": "TEST"
   },
   {
-    "Dr.": "TREATMENT"
+    "Dr": "TREATMENT"
   },
   {
     "colon cancer": "PROBLEM"
   },
   {
-    "9": "PROBLEM"
+    "9": "TEST"
   },
   {
     "Gastroesophageal reflux disease": "PROBLEM"
@@ -454,5 +451,20 @@
   },
   {
     "aciphex": "DRUG"
+  },
+  {
+    "pulses": "TEST"
+  },
+  {
+    "extremities": "TEST"
+  },
+  {
+    "reflux": "PROBLEM"
+  },
+  {
+    "tinea": "PROBLEM"
+  },
+  {
+    "versicolor": "PROBLEM"
   }
 ]

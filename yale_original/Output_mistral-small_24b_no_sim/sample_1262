@@ -45,9 +45,6 @@
     "decortication": "TREATMENT"
   },
   {
-    "lung": "PROBLEM"
-  },
-  {
     "pleural biopsy": "TEST"
   },
   {
@@ -57,13 +54,13 @@
     "thoracentesis": "TREATMENT"
   },
   {
-    "Port-A-Cath placement": "TREATMENT"
+    "Port-A-Cath": "TREATMENT"
   },
   {
     "cough": "PROBLEM"
   },
   {
-    "right-sided chest pain": "PROBLEM"
+    "chest pain": "PROBLEM"
   },
   {
     "fever": "PROBLEM"
@@ -84,7 +81,10 @@
     "Chest x-ray": "TEST"
   },
   {
-    "right-sided pleural effusion": "PROBLEM"
+    "pleural effusion": "PROBLEM"
+  },
+  {
+    "PAST MEDICAL HISTORY": "TEST"
   },
   {
     "Pericardectomy": "TREATMENT"
@@ -102,10 +102,7 @@
     "intracranial thrombolytic treatment": "TREATMENT"
   },
   {
-    "PTA": "TREATMENT"
-  },
-  {
-    "MCA": "PROBLEM"
+    "MCA": "TEST"
   },
   {
     "Mesenteric venous thrombosis": "PROBLEM"
@@ -117,7 +114,7 @@
     "Cholecystectomy": "TREATMENT"
   },
   {
-    "thoracentesis": "TREATMENT"
+    "thoracentesis": "TEST"
   },
   {
     "coronary artery disease": "PROBLEM"
@@ -138,6 +135,15 @@
     "cancer": "PROBLEM"
   },
   {
+    "tobacco": "DRUG"
+  },
+  {
+    "alcohol": "DRUG"
+  },
+  {
+    "illicit drug": "DRUG"
+  },
+  {
     "Coumadin": "DRUG"
   },
   {
@@ -154,9 +160,6 @@
   },
   {
     "tingling": "PROBLEM"
-  },
-  {
-    "left arm": "PROBLEM"
   },
   {
     "Blood pressure": "TEST"
@@ -192,10 +195,10 @@
     "Pleural friction rub": "PROBLEM"
   },
   {
-    "GI": "TEST"
+    "GI": "PROBLEM"
   },
   {
-    "bowel sounds": "PROBLEM"
+    "bowel sounds": "TEST"
   },
   {
     "edema": "PROBLEM"
@@ -210,22 +213,16 @@
     "tenderness": "PROBLEM"
   },
   {
-    "pulses": "TEST"
+    "breakdown": "PROBLEM"
   },
   {
-    "ulcers": "PROBLEM"
-  },
-  {
-    "focal deficits": "PROBLEM"
-  },
-  {
-    "Awake, alert, and oriented to person, place, and time": "TEST"
+    "lesions": "PROBLEM"
   },
   {
     "Labs": "TEST"
   },
   {
-    "right-sided pleural effusion": "PROBLEM"
+    "pleural effusion": "PROBLEM"
   },
   {
     "thoracentesis": "TREATMENT"
@@ -258,10 +255,16 @@
     "anticoagulated": "TREATMENT"
   },
   {
+    "pericardial fluid": "PROBLEM"
+  },
+  {
     "pericardectomy": "TREATMENT"
   },
   {
     "CT scan": "TEST"
+  },
+  {
+    "pericardectomy": "TREATMENT"
   },
   {
     "bilateral plural effusions": "PROBLEM"
@@ -270,13 +273,10 @@
     "pericardectomy": "TREATMENT"
   },
   {
-    "symptoms": "PROBLEM"
-  },
-  {
     "chest pain": "PROBLEM"
   },
   {
-    "bilateral pleural effusion": "PROBLEM"
+    "pleural effusion": "PROBLEM"
   },
   {
     "CT of the chest": "TEST"
@@ -288,9 +288,6 @@
     "mesothelioma": "PROBLEM"
   },
   {
-    "pericardectomy": "TREATMENT"
-  },
-  {
     "chest tube placement": "TREATMENT"
   },
   {
@@ -300,22 +297,16 @@
     "fluid": "TEST"
   },
   {
-    "biopsies": "TEST"
+    "thoracoscopy": "TEST"
+  },
+  {
+    "fluid biopsies": "TEST"
   },
   {
     "epithelioid malignant mesothelioma": "PROBLEM"
   },
   {
-    "thoracoscopy": "TEST"
-  },
-  {
     "PET CT": "TEST"
-  },
-  {
-    "chest": "PROBLEM"
-  },
-  {
-    "bilateral pleural pericardial effusions": "PROBLEM"
   },
   {
     "lymphadenopathy": "PROBLEM"
@@ -324,13 +315,13 @@
     "acidic fluid": "PROBLEM"
   },
   {
-    "pectoral and intramammary lymph nodes": "PROBLEM"
+    "pectoral": "PROBLEM"
   },
   {
-    "uptake": "TEST"
+    "intramammary lymph nodes": "PROBLEM"
   },
   {
-    "L4": "TEST"
+    "L4": "PROBLEM"
   },
   {
     "SUV": "TEST"
@@ -357,10 +348,13 @@
     "Port-A-Cath": "TREATMENT"
   },
   {
-    "chemotherapy": "TREATMENT"
+    "chemotherapy": "DRUG"
   },
   {
-    "Port-A-Cath": "TEST"
+    "IV fluid": "TREATMENT"
+  },
+  {
+    "Port-A-Cath": "TREATMENT"
   },
   {
     "heparin": "DRUG"
@@ -405,15 +399,6 @@
     "deep venous thrombosis": "PROBLEM"
   },
   {
-    "venous thrombosis": "PROBLEM"
-  },
-  {
-    "thrombosis": "PROBLEM"
-  },
-  {
-    "lymphadenopathy": "PROBLEM"
-  },
-  {
     "port-a-cath placement": "TREATMENT"
   },
   {
@@ -423,6 +408,30 @@
     "iv piggyback": "TREATMENT"
   },
   {
+    "venous thrombosis": "PROBLEM"
+  },
+  {
+    "atrial": "PROBLEM"
+  },
+  {
+    "thrombosis": "PROBLEM"
+  },
+  {
+    "pericardial": "PROBLEM"
+  },
+  {
+    "lymphadenopathy": "PROBLEM"
+  },
+  {
+    "fluid": "PROBLEM"
+  },
+  {
     "pericardectomy": "TREATMENT"
+  },
+  {
+    "chest": "PROBLEM"
+  },
+  {
+    "pleural": "PROBLEM"
   }
 ]

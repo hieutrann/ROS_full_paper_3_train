@@ -51,6 +51,12 @@
     "renal cell carcinoma": "PROBLEM"
   },
   {
+    "enhancing solid masses": "PROBLEM"
+  },
+  {
+    "MRI": "TEST"
+  },
+  {
     "Left partial nephrectomy": "TREATMENT"
   },
   {
@@ -75,6 +81,9 @@
     "pathology": "TEST"
   },
   {
+    "cystic fluid": "PROBLEM"
+  },
+  {
     "flexible cystoscopy": "TEST"
   },
   {
@@ -84,7 +93,10 @@
     "abnormalities in the penile nor prostatic urethra": "PROBLEM"
   },
   {
-    "lesions": "PROBLEM"
+    "gross lesions": "PROBLEM"
+  },
+  {
+    "bladder": "PROBLEM"
   },
   {
     "Jackson-Pratt drain": "TREATMENT"
@@ -94,6 +106,9 @@
   },
   {
     "voiding trial": "TEST"
+  },
+  {
+    "afebrile": "PROBLEM"
   },
   {
     "infection": "PROBLEM"
@@ -115,38 +130,5 @@
   },
   {
     "vomiting": "PROBLEM"
-  },
-  {
-    "decortication": "TREATMENT"
-  },
-  {
-    "cystoscopy": "TREATMENT"
-  },
-  {
-    "pain": "PROBLEM"
-  },
-  {
-    "nausea": "PROBLEM"
-  },
-  {
-    "vomiting": "PROBLEM"
-  },
-  {
-    "renal cyst decortication": "TREATMENT"
-  },
-  {
-    "renal cell carcinoma": "PROBLEM"
-  },
-  {
-    "renal cyst": "PROBLEM"
-  },
-  {
-    "nephrectomy": "TREATMENT"
-  },
-  {
-    "cysts": "PROBLEM"
-  },
-  {
-    "carcinoma": "PROBLEM"
   }
 ]

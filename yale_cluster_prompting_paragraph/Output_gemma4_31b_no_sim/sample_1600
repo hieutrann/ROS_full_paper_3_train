@@ -12,13 +12,13 @@
     "cesarean section": "TREATMENT"
   },
   {
-    "blood pressure": "TEST"
+    "blood pressure": "PROBLEM"
   },
   {
     "uncontrolled blood pressure": "PROBLEM"
   },
   {
-    "blood pressure": "TEST"
+    "blood pressure": "PROBLEM"
   },
   {
     "chest pain": "PROBLEM"
@@ -144,7 +144,7 @@
     "seizure disorder": "PROBLEM"
   },
   {
-    "blood pressure": "TEST"
+    "blood pressure 175/86": "TEST"
   },
   {
     "edema": "PROBLEM"
@@ -187,35 +187,5 @@
   },
   {
     "hydralazine": "DRUG"
-  },
-  {
-    "cardizem": "DRUG"
-  },
-  {
-    "metoprolol": "DRUG"
-  },
-  {
-    "hypertension": "PROBLEM"
-  },
-  {
-    "gestational diabetes mellitus": "PROBLEM"
-  },
-  {
-    "pre-eclampsia": "PROBLEM"
-  },
-  {
-    "blood pressure": "TEST"
-  },
-  {
-    "uncontrolled blood pressure": "PROBLEM"
-  },
-  {
-    "gestational diabetes": "PROBLEM"
-  },
-  {
-    "cesarean section": "TREATMENT"
-  },
-  {
-    "preeclampsia": "PROBLEM"
   }
 ]

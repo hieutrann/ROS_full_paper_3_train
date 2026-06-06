@@ -9,9 +9,6 @@
     "pain": "PROBLEM"
   },
   {
-    "medical problems": "PROBLEM"
-  },
-  {
     "numbness": "PROBLEM"
   },
   {
@@ -24,13 +21,10 @@
     "sharp quality pain": "PROBLEM"
   },
   {
+    "year": "TREATMENT"
+  },
+  {
     "paraesthesias": "PROBLEM"
-  },
-  {
-    "left toe": "PROBLEM"
-  },
-  {
-    "right foot": "PROBLEM"
   },
   {
     "bed": "PROBLEM"
@@ -40,6 +34,9 @@
   },
   {
     "shoulder pains": "PROBLEM"
+  },
+  {
+    "sinus allergies": "PROBLEM"
   },
   {
     "hypothyroidism": "PROBLEM"
@@ -90,6 +87,18 @@
     "right shoulder surgery": "TREATMENT"
   },
   {
+    "right shoulder surgery": "TREATMENT"
+  },
+  {
+    "right shoulder surgery": "TREATMENT"
+  },
+  {
+    "right shoulder surgery": "TREATMENT"
+  },
+  {
+    "left shoulder surgery": "TREATMENT"
+  },
+  {
     "left shoulder surgery": "TREATMENT"
   },
   {
@@ -99,16 +108,13 @@
     "Port-A-Cath": "TREATMENT"
   },
   {
-    "left total knee arthroplasty": "TREATMENT"
+    "total knee arthroplasty": "TREATMENT"
   },
   {
-    "left hip pinning": "TREATMENT"
+    "hip pinning": "TREATMENT"
   },
   {
     "fracture": "PROBLEM"
-  },
-  {
-    "pins": "TREATMENT"
   },
   {
     "colonoscopies": "TEST"
@@ -177,7 +183,19 @@
     "Lortab": "DRUG"
   },
   {
+    "p.r.n.": "DRUG"
+  },
+  {
+    "nonsmoker": "PROBLEM"
+  },
+  {
+    "nondrinker": "PROBLEM"
+  },
+  {
     "stroke": "PROBLEM"
+  },
+  {
+    "old age": "PROBLEM"
   },
   {
     "prostate cancer": "PROBLEM"
@@ -198,7 +216,13 @@
     "sore throat": "PROBLEM"
   },
   {
+    "glasses": "TREATMENT"
+  },
+  {
     "cough": "PROBLEM"
+  },
+  {
+    "allergies": "PROBLEM"
   },
   {
     "chest pain": "PROBLEM"
@@ -211,9 +235,6 @@
   },
   {
     "abdominal pain": "PROBLEM"
-  },
-  {
-    "blood in the stool": "PROBLEM"
   },
   {
     "dysuria": "PROBLEM"
@@ -234,6 +255,9 @@
     "spot": "PROBLEM"
   },
   {
+    "precancerous condition": "PROBLEM"
+  },
+  {
     "hypothyroidism": "PROBLEM"
   },
   {
@@ -241,6 +265,12 @@
   },
   {
     "anemia": "PROBLEM"
+  },
+  {
+    "elderly female": "PROBLEM"
+  },
+  {
+    "age": "TEST"
   },
   {
     "Temperature": "TEST"
@@ -264,10 +294,16 @@
     "Extraocular movements": "TEST"
   },
   {
-    "Fundi": "TEST"
+    "Fundi": "PROBLEM"
+  },
+  {
+    "TMs": "TEST"
   },
   {
     "adenopathy": "PROBLEM"
+  },
+  {
+    "thyromegaly": "PROBLEM"
   },
   {
     "Lungs": "TEST"
@@ -276,10 +312,7 @@
     "Heart": "PROBLEM"
   },
   {
-    "carotid bruits": "PROBLEM"
-  },
-  {
-    "Abdomen": "TEST"
+    "bowel sounds": "TEST"
   },
   {
     "hepatosplenomegaly": "PROBLEM"
@@ -288,10 +321,10 @@
     "Breasts": "PROBLEM"
   },
   {
-    "Port-A-Cath": "PROBLEM"
+    "Port-A-Cath": "TREATMENT"
   },
   {
-    "axillary adenopathy": "PROBLEM"
+    "adenopathy": "PROBLEM"
   },
   {
     "ankle edema": "PROBLEM"
@@ -306,10 +339,13 @@
     "Pedal pulses": "TEST"
   },
   {
-    "Cranial nerves II-XII": "TEST"
+    "Cranial nerves": "TEST"
   },
   {
     "Deep tendon reflexes": "TEST"
+  },
+  {
+    "neurologic deficits": "PROBLEM"
   },
   {
     "BUS": "TEST"
@@ -333,12 +369,6 @@
     "Rectal": "TEST"
   },
   {
-    "Exam": "TEST"
-  },
-  {
-    "brown stool": "PROBLEM"
-  },
-  {
     "actinic keratosis": "PROBLEM"
   },
   {
@@ -346,9 +376,6 @@
   },
   {
     "Peripheral neuropathy": "PROBLEM"
-  },
-  {
-    "right foot": "PROBLEM"
   },
   {
     "Hypertension": "PROBLEM"
@@ -369,10 +396,13 @@
     "Neurontin": "DRUG"
   },
   {
+    "p.r.n.": "DRUG"
+  },
+  {
     "peripheral neuropathy": "PROBLEM"
   },
   {
-    "Anodyne": "DRUG"
+    "Anodyne physical therapy": "TREATMENT"
   },
   {
     "peripheral neuropathy": "PROBLEM"
@@ -399,13 +429,19 @@
     "ferritin": "TEST"
   },
   {
+    "anemia": "PROBLEM"
+  },
+  {
     "Hemoccult cards": "TEST"
   },
   {
-    "DT": "DRUG"
+    "anemia": "PROBLEM"
   },
   {
-    "Ambien": "DRUG"
+    "DT immunization": "DRUG"
+  },
+  {
+    "Ambien 5 mg": "DRUG"
   },
   {
     "flu shot": "DRUG"
@@ -415,6 +451,9 @@
   },
   {
     "allergic rhinitis": "PROBLEM"
+  },
+  {
+    "hemoccult cards": "TEST"
   },
   {
     "hypertension": "PROBLEM"
@@ -435,6 +474,15 @@
     "tingling": "PROBLEM"
   },
   {
+    "port a cath": "TREATMENT"
+  },
+  {
+    "total knee arthroplasty": "TREATMENT"
+  },
+  {
+    "essential thrombocythemia": "PROBLEM"
+  },
+  {
     "anemia": "PROBLEM"
   },
   {
@@ -442,17 +490,5 @@
   },
   {
     "neuropathy": "PROBLEM"
-  },
-  {
-    "anodyne physical therapy": "TREATMENT"
-  },
-  {
-    "hemoccult cards": "TEST"
-  },
-  {
-    "port a cath": "TEST"
-  },
-  {
-    "total knee arthroplasty": "TREATMENT"
   }
 ]

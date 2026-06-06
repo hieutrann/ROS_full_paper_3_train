@@ -3,16 +3,13 @@
     "Elevated Blood Pressure": "PROBLEM"
   },
   {
-    "surgery": "TREATMENT"
-  },
-  {
     "blood pressure": "TEST"
   },
   {
     "IV labetalol": "DRUG"
   },
   {
-    "Blood pressure": "TEST"
+    "blood pressure": "TEST"
   },
   {
     "blood pressure": "TEST"
@@ -139,12 +136,6 @@
   },
   {
     "terazosin": "DRUG"
-  },
-  {
-    "acute distress": "PROBLEM"
-  },
-  {
-    "swelling": "PROBLEM"
   },
   {
     "Perioperative hypertension": "PROBLEM"

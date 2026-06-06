@@ -1,12 +1,9 @@
 [
   {
-    "pancreatic mass": "PROBLEM"
+    "abdominal pain": "PROBLEM"
   },
   {
     "jaundice": "PROBLEM"
-  },
-  {
-    "epigastric pain": "PROBLEM"
   },
   {
     "pancreatic mass": "PROBLEM"
@@ -27,10 +24,7 @@
     "nausea": "PROBLEM"
   },
   {
-    "VITAL SIGNS": "TEST"
-  },
-  {
-    "CT scan": "TEST"
+    "thin-slice CT scan": "TEST"
   },
   {
     "ERCP": "TEST"
@@ -42,10 +36,7 @@
     "Phenergan": "DRUG"
   },
   {
-    "oral hypoglycemics": "DRUG"
-  },
-  {
-    "insulin": "DRUG"
+    "enalapril": "DRUG"
   },
   {
     "Duragesic patch": "DRUG"
@@ -54,18 +45,12 @@
     "Benadryl": "DRUG"
   },
   {
-    "enalapril": "DRUG"
+    "insulin sliding scale": "TREATMENT"
   },
   {
-    "stent": "TREATMENT"
-  },
-  {
-    "placement of a stent": "TREATMENT"
+    "stent placement": "TREATMENT"
   },
   {
     "chemotherapy": "TREATMENT"
-  },
-  {
-    "ERCP": "TREATMENT"
   }
 ]

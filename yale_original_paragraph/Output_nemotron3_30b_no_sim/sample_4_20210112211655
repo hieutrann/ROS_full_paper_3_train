@@ -1,0 +1,56 @@
+[
+  {
+    "fever of unknown origin": "PROBLEM"
+  },
+  {
+    "methotrexate": "DRUG"
+  },
+  {
+    "prednisone": "DRUG"
+  },
+  {
+    "CMV": "PROBLEM"
+  },
+  {
+    "ganciclovir": "DRUG"
+  },
+  {
+    "CMV blood PCR": "TEST"
+  },
+  {
+    "chest x-ray": "TEST"
+  },
+  {
+    "CT scan of the chest": "TEST"
+  },
+  {
+    "CT scan of the abdomen and pelvis": "TEST"
+  },
+  {
+    "bronchoscopy": "TREATMENT"
+  },
+  {
+    "BAL": "TEST"
+  },
+  {
+    "transbronchial biopsies": "TEST"
+  },
+  {
+    "pneumocystis": "PROBLEM"
+  },
+  {
+    "fungal infection": "PROBLEM"
+  },
+  {
+    "AFB": "PROBLEM"
+  },
+  {
+    "interstitial infiltrates": "PROBLEM"
+  },
+  {
+    "ibuprofen": "TREATMENT"
+  },
+  {
+    "acetaminophen": "TREATMENT"
+  }
+]

@@ -123,27 +123,6 @@
     "labyrinthitis": "PROBLEM"
   },
   {
-    "Sulfa": "DRUG"
-  },
-  {
-    "aspirin": "DRUG"
-  },
-  {
-    "Darvon": "DRUG"
-  },
-  {
-    "codeine": "DRUG"
-  },
-  {
-    "NSAID": "DRUG"
-  },
-  {
-    "amoxicillin": "DRUG"
-  },
-  {
-    "quinine": "DRUG"
-  },
-  {
     "Hydroxyurea": "DRUG"
   },
   {
@@ -219,6 +198,9 @@
     "insomnia": "PROBLEM"
   },
   {
+    "spot on her right cheek": "PROBLEM"
+  },
+  {
     "precancerous condition": "PROBLEM"
   },
   {
@@ -231,16 +213,7 @@
     "anemia": "PROBLEM"
   },
   {
-    "Temperature": "TEST"
-  },
-  {
     "Blood pressure": "TEST"
-  },
-  {
-    "Pulse": "TEST"
-  },
-  {
-    "Weight": "TEST"
   },
   {
     "adenopathy": "PROBLEM"
@@ -249,13 +222,19 @@
     "thyromegaly": "PROBLEM"
   },
   {
-    "carotid bruits": "PROBLEM"
+    "bowel sounds": "TEST"
   },
   {
     "hepatosplenomegaly": "PROBLEM"
   },
   {
     "mass": "PROBLEM"
+  },
+  {
+    "Port-A-Cath": "TREATMENT"
+  },
+  {
+    "axillary adenopathy": "PROBLEM"
   },
   {
     "ankle edema": "PROBLEM"
@@ -265,6 +244,15 @@
   },
   {
     "cyst": "PROBLEM"
+  },
+  {
+    "Deep tendon reflexes": "TEST"
+  },
+  {
+    "focal neurologic deficits": "PROBLEM"
+  },
+  {
+    "atrophic": "PROBLEM"
   },
   {
     "atrophic": "PROBLEM"
@@ -297,7 +285,7 @@
     "peripheral neuropathy": "PROBLEM"
   },
   {
-    "Anodyne physical therapy": "TREATMENT"
+    "physical therapy": "TREATMENT"
   },
   {
     "peripheral neuropathy": "PROBLEM"
@@ -340,5 +328,29 @@
   },
   {
     "flu shot": "TREATMENT"
+  },
+  {
+    "allergic rhinitis": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "hypothyroidism": "PROBLEM"
+  },
+  {
+    "insomnia": "PROBLEM"
+  },
+  {
+    "peripheral neuropathy": "PROBLEM"
+  },
+  {
+    "thrombocythemia": "PROBLEM"
+  },
+  {
+    "essential thrombocythemia": "PROBLEM"
+  },
+  {
+    "anemia": "PROBLEM"
   }
 ]

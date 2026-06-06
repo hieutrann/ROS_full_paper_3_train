@@ -1,6 +1,6 @@
 [
   {
-    "GI Bleed": "PROBLEM"
+    "GI bleed": "PROBLEM"
   },
   {
     "Upper gastrointestinal bleed": "PROBLEM"
@@ -30,7 +30,7 @@
     "microcytic anemia": "PROBLEM"
   },
   {
-    "hemoglobin": "TEST"
+    "Stool dark brown": "PROBLEM"
   },
   {
     "OB": "TEST"
@@ -40,9 +40,6 @@
   },
   {
     "chest pain": "PROBLEM"
-  },
-  {
-    "GI complaints": "PROBLEM"
   },
   {
     "atrial fibrillation": "PROBLEM"
@@ -66,22 +63,28 @@
     "hypothyroidism": "PROBLEM"
   },
   {
-    "PHYSICAL EXAMINATION": "TEST"
+    "acute distress": "PROBLEM"
   },
   {
-    "VITAL SIGNS": "TEST"
+    "Stable": "PROBLEM"
+  },
+  {
+    "Benign": "PROBLEM"
+  },
+  {
+    "Supple": "PROBLEM"
   },
   {
     "adenopathy": "PROBLEM"
   },
   {
-    "LUNGS": "TEST"
+    "LUNGS": "PROBLEM"
   },
   {
     "Irregularly regular": "PROBLEM"
   },
   {
-    "bowel sounds": "TEST"
+    "bowel sounds": "PROBLEM"
   },
   {
     "masses": "PROBLEM"
@@ -93,7 +96,10 @@
     "lower extremity edema": "PROBLEM"
   },
   {
-    "gastritis": "PROBLEM"
+    "upper endoscopy": "TEST"
+  },
+  {
+    "erosive gastritis": "PROBLEM"
   },
   {
     "diverticulosis": "PROBLEM"
@@ -114,16 +120,25 @@
     "hemoglobin": "TEST"
   },
   {
+    "GI complaints": "PROBLEM"
+  },
+  {
     "Coumadin": "DRUG"
   },
   {
-    "PMD": "TEST"
+    "Coumadin": "DRUG"
   },
   {
-    "GI": "TEST"
+    "PMD": "TREATMENT"
   },
   {
-    "Cardiology": "TEST"
+    "GI": "TREATMENT"
+  },
+  {
+    "Cardiology": "TREATMENT"
+  },
+  {
+    "DISCHARGE DIAGNOSES": "PROBLEM"
   },
   {
     "Upper gastrointestinal bleed": "PROBLEM"
@@ -147,34 +162,43 @@
     "Asthma": "PROBLEM"
   },
   {
-    "Feosol": "DRUG"
+    "Stable": "PROBLEM"
   },
   {
-    "Protonix": "DRUG"
+    "Feosol 325 mg daily": "DRUG"
   },
   {
-    "KCl": "DRUG"
+    "multivitamins one daily": "DRUG"
   },
   {
-    "Lasix": "DRUG"
+    "Protonix 40 mg b.i.d.": "DRUG"
   },
   {
-    "atenolol": "DRUG"
+    "KCl 20 mEq daily": "DRUG"
   },
   {
-    "Synthroid": "DRUG"
+    "Lasix 40 mg b.i.d.": "DRUG"
   },
   {
-    "Actos": "DRUG"
+    "atenolol 50 mg daily": "DRUG"
   },
   {
-    "Mevacor": "DRUG"
+    "Synthroid 80 mcg daily": "DRUG"
   },
   {
-    "lisinopril": "DRUG"
+    "Actos 30 mg daily": "DRUG"
   },
   {
-    "ADA": "DRUG"
+    "Mevacor 40 mg daily": "DRUG"
+  },
+  {
+    "lisinopril 20 mg daily": "DRUG"
+  },
+  {
+    "1800-calorie ADA": "TREATMENT"
+  },
+  {
+    "As tolerated": "TREATMENT"
   },
   {
     "Coumadin": "DRUG"
@@ -186,7 +210,7 @@
     "INR": "TEST"
   },
   {
-    "discharge summary": "TEST"
+    "discharge summary": "PROBLEM"
   },
   {
     "gi bleed": "PROBLEM"

@@ -3,13 +3,19 @@
     "Pyelonephritis": "PROBLEM"
   },
   {
-    "mucous plugging of indwelling Foley in the ileal conduit": "PROBLEM"
+    "mucous plugging": "PROBLEM"
+  },
+  {
+    "indwelling Foley": "TREATMENT"
+  },
+  {
+    "ileal conduit": "TREATMENT"
   },
   {
     "hypertension": "PROBLEM"
   },
   {
-    "mild renal insufficiency": "PROBLEM"
+    "renal insufficiency": "PROBLEM"
   },
   {
     "anemia": "PROBLEM"
@@ -57,7 +63,16 @@
     "pyelonephritis": "PROBLEM"
   },
   {
-    "thick mucous plug": "PROBLEM"
+    "mucous plug": "PROBLEM"
+  },
+  {
+    "Foley": "TREATMENT"
+  },
+  {
+    "ileal conduit": "TREATMENT"
+  },
+  {
+    "irrigated": "TREATMENT"
   },
   {
     "IV antibiotics": "DRUG"
@@ -75,13 +90,16 @@
     "Bactrim": "DRUG"
   },
   {
+    "surgery": "TREATMENT"
+  },
+  {
     "right knee pain": "PROBLEM"
   },
   {
     "effusion": "PROBLEM"
   },
   {
-    "tender to touch of the patellar tendon": "PROBLEM"
+    "patellar tendon": "PROBLEM"
   },
   {
     "intraarticular process": "PROBLEM"

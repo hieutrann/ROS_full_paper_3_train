@@ -108,10 +108,7 @@
     "chest pain": "PROBLEM"
   },
   {
-    "dyspnea on exertion": "PROBLEM"
-  },
-  {
-    "palpations": "PROBLEM"
+    "dyspnea": "PROBLEM"
   },
   {
     "edema": "PROBLEM"
@@ -183,6 +180,9 @@
     "back pain": "PROBLEM"
   },
   {
+    "psychiatric evaluation": "TEST"
+  },
+  {
     "diabetes mellitus": "PROBLEM"
   },
   {
@@ -190,6 +190,30 @@
   },
   {
     "endocrinologic abnormalities": "PROBLEM"
+  },
+  {
+    "general medicine": "TEST"
+  },
+  {
+    "nose and throat": "TEST"
+  },
+  {
+    "cardiovascular": "TEST"
+  },
+  {
+    "integumentary": "TEST"
+  },
+  {
+    "weakness": "PROBLEM"
+  },
+  {
+    "neurologic": "TEST"
+  },
+  {
+    "throat": "TEST"
+  },
+  {
+    "psychiatric": "TEST"
   },
   {
     "weakness": "PROBLEM"

@@ -1,15 +1,12 @@
 [
   {
-    "vital signs": "TEST"
+    "Female Exam": "TEST"
   },
   {
     "afebrile": "PROBLEM"
   },
   {
-    "blood pressure": "TEST"
-  },
-  {
-    "heart rate": "TEST"
+    "alert": "PROBLEM"
   },
   {
     "conjunctiva": "PROBLEM"
@@ -21,7 +18,19 @@
     "ptosis": "PROBLEM"
   },
   {
-    "Hearing": "TEST"
+    "irides": "TEST"
+  },
+  {
+    "ears": "TEST"
+  },
+  {
+    "nose": "TEST"
+  },
+  {
+    "Hearing": "PROBLEM"
+  },
+  {
+    "mucosa": "PROBLEM"
   },
   {
     "lesion": "PROBLEM"
@@ -33,13 +42,13 @@
     "pharynx": "PROBLEM"
   },
   {
-    "neck": "PROBLEM"
+    "supple": "PROBLEM"
   },
   {
     "thyroid gland": "PROBLEM"
   },
   {
-    "respiratory effort": "PROBLEM"
+    "RESPIRATORY": "PROBLEM"
   },
   {
     "Auscultation": "TEST"
@@ -51,34 +60,25 @@
     "S2": "TEST"
   },
   {
-    "murmur": "PROBLEM"
-  },
-  {
     "edema": "PROBLEM"
   },
   {
-    "BREASTS": "PROBLEM"
+    "Breast inspection": "TEST"
   },
   {
-    "breasts": "TEST"
+    "breasts": "PROBLEM"
   },
   {
-    "axilla": "TEST"
+    "axilla": "PROBLEM"
   },
   {
-    "mass": "PROBLEM"
+    "abdomen": "PROBLEM"
   },
   {
-    "abdomen": "TEST"
+    "Bowel sounds": "TEST"
   },
   {
-    "liver": "PROBLEM"
-  },
-  {
-    "spleen": "PROBLEM"
-  },
-  {
-    "Bowel sounds": "PROBLEM"
+    "GU": "TEST"
   },
   {
     "pelvic exam": "TEST"
@@ -90,34 +90,40 @@
     "node": "PROBLEM"
   },
   {
-    "head and neck": "PROBLEM"
+    "deformity": "PROBLEM"
+  },
+  {
+    "extremities": "PROBLEM"
   },
   {
     "Range of motion": "TEST"
   },
   {
-    "pink": "PROBLEM"
+    "skin": "PROBLEM"
   },
   {
-    "warm": "PROBLEM"
-  },
-  {
-    "dry": "PROBLEM"
+    "skin": "PROBLEM"
   },
   {
     "Deep tendon reflexes": "TEST"
   },
   {
-    "time": "TEST"
+    "Sensation": "PROBLEM"
   },
   {
-    "place": "TEST"
-  },
-  {
-    "person": "TEST"
+    "general medicine": "TEST"
   },
   {
     "eyes": "TEST"
+  },
+  {
+    "constitutional": "TEST"
+  },
+  {
+    "tongue": "TEST"
+  },
+  {
+    "multisystem": "TEST"
   },
   {
     "heart": "TEST"

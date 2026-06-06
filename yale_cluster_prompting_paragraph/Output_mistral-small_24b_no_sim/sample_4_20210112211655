@@ -6,16 +6,10 @@
     "polymyositis/dermatomyositis": "PROBLEM"
   },
   {
-    "methotrexate": "DRUG"
-  },
-  {
-    "high-dose prednisone": "DRUG"
-  },
-  {
     "urticarial rash": "PROBLEM"
   },
   {
-    "fever": "PROBLEM"
+    "high fevers": "PROBLEM"
   },
   {
     "chest x-ray": "TEST"
@@ -27,40 +21,34 @@
     "transthoracic echocardiogram": "TEST"
   },
   {
-    "CT scan": "TEST"
+    "CT scan of the chest": "TEST"
   },
   {
-    "CT chest": "TEST"
+    "CT scan of the abdomen": "TEST"
   },
   {
-    "CT abdomen": "TEST"
+    "CT scan of the pelvis": "TEST"
   },
   {
-    "CT pelvis": "TEST"
-  },
-  {
-    "serologies": "TEST"
-  },
-  {
-    "CMV": "PROBLEM"
+    "serologies for CMV": "TEST"
   },
   {
     "CMV blood PCR": "TEST"
   },
   {
-    "EBV": "PROBLEM"
+    "serologies for EBV": "TEST"
   },
   {
-    "Legionella": "PROBLEM"
+    "serologies for Legionella": "TEST"
   },
   {
-    "Chlamydia": "PROBLEM"
+    "serologies for Chlamydia": "TEST"
   },
   {
-    "Mycoplasma": "PROBLEM"
+    "serologies for Mycoplasma": "TEST"
   },
   {
-    "Coccidioides": "PROBLEM"
+    "serologies for Coccidioides": "TEST"
   },
   {
     "cryptococcal antigen": "TEST"
@@ -69,13 +57,46 @@
     "PPD": "TEST"
   },
   {
-    "bronchoscopy": "TREATMENT"
+    "bronchoscopy": "TEST"
   },
   {
     "BAL": "TEST"
   },
   {
     "transbronchial biopsies": "TEST"
+  },
+  {
+    "methotrexate": "DRUG"
+  },
+  {
+    "prednisone": "DRUG"
+  },
+  {
+    "ganciclovir": "DRUG"
+  },
+  {
+    "ibuprofen": "DRUG"
+  },
+  {
+    "acetaminophen": "DRUG"
+  },
+  {
+    "folic acid": "DRUG"
+  },
+  {
+    "Advair 100/50": "DRUG"
+  },
+  {
+    "Disseminated CMV infection": "PROBLEM"
+  },
+  {
+    "CMV pneumonitis": "PROBLEM"
+  },
+  {
+    "polymyositis": "PROBLEM"
+  },
+  {
+    "CMV infection": "PROBLEM"
   },
   {
     "pneumocystis": "PROBLEM"
@@ -90,16 +111,40 @@
     "interstitial fibrosis": "PROBLEM"
   },
   {
-    "immunopathology": "TEST"
+    "interstitial infiltrates": "PROBLEM"
   },
   {
-    "ganciclovir": "DRUG"
+    "nonspecific interstitial fibrosis": "PROBLEM"
+  },
+  {
+    "CMV pneumonitis": "PROBLEM"
+  },
+  {
+    "infection": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "illness": "PROBLEM"
+  },
+  {
+    "interstitial": "PROBLEM"
+  },
+  {
+    "nondiagnostic": "PROBLEM"
+  },
+  {
+    "CMV": "PROBLEM"
   },
   {
     "methotrexate": "DRUG"
   },
   {
-    "chest x-ray": "TEST"
+    "prednisone": "DRUG"
+  },
+  {
+    "ganciclovir": "DRUG"
   },
   {
     "ibuprofen": "DRUG"
@@ -108,37 +153,16 @@
     "acetaminophen": "DRUG"
   },
   {
-    "fever": "PROBLEM"
+    "folic acid": "DRUG"
   },
   {
-    "WBCs": "TEST"
-  },
-  {
-    "RBCs": "TEST"
-  },
-  {
-    "neutrophils": "TEST"
-  },
-  {
-    "lymphocytes": "TEST"
-  },
-  {
-    "Disseminated CMV infection": "PROBLEM"
-  },
-  {
-    "CMV pneumonitis": "PROBLEM"
-  },
-  {
-    "polymyositis": "PROBLEM"
-  },
-  {
-    "immunosuppressive therapy": "TREATMENT"
+    "Advair 100/50": "DRUG"
   },
   {
     "ganciclovir": "DRUG"
   },
   {
-    "Advair": "DRUG"
+    "methotrexate": "DRUG"
   },
   {
     "ibuprofen": "DRUG"
@@ -148,51 +172,6 @@
   },
   {
     "folic acid": "DRUG"
-  },
-  {
-    "methotrexate": "DRUG"
-  },
-  {
-    "fever": "PROBLEM"
-  },
-  {
-    "general medicine": "TEST"
-  },
-  {
-    "fever of unknown origin": "PROBLEM"
-  },
-  {
-    "blood cultures": "TEST"
-  },
-  {
-    "transbronchial biopsies": "TEST"
-  },
-  {
-    "infection": "PROBLEM"
-  },
-  {
-    "cmv": "PROBLEM"
-  },
-  {
-    "admission": "TREATMENT"
-  },
-  {
-    "illness": "PROBLEM"
-  },
-  {
-    "interstitial": "PROBLEM"
-  },
-  {
-    "fever": "PROBLEM"
-  },
-  {
-    "serologies": "TEST"
-  },
-  {
-    "chest": "TEST"
-  },
-  {
-    "nondiagnostic": "TEST"
   },
   {
     "methotrexate": "DRUG"

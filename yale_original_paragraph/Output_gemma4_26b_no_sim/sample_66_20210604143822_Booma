@@ -9,13 +9,13 @@
     "Diarrhea": "PROBLEM"
   },
   {
-    "Cystoscopy": "TREATMENT"
+    "Cystoscopy": "TEST"
   },
   {
-    "bilaterally retrograde pyelograms": "TEST"
+    "retrograde pyelograms": "TEST"
   },
   {
-    "insertion of bilateral externalized ureteral stents": "TREATMENT"
+    "ureteral stents": "TREATMENT"
   },
   {
     "Exploratory laparotomy": "TREATMENT"
@@ -39,10 +39,10 @@
     "mitomycin-C": "DRUG"
   },
   {
-    "ureteral stent placement": "TREATMENT"
+    "tachycardia": "PROBLEM"
   },
   {
-    "tachycardia": "PROBLEM"
+    "extubation": "TREATMENT"
   },
   {
     "diarrhea": "PROBLEM"
@@ -72,9 +72,6 @@
     "Vicodin": "DRUG"
   },
   {
-    "pain": "PROBLEM"
-  },
-  {
     "Phenergan": "DRUG"
   },
   {
@@ -90,7 +87,13 @@
     "chills": "PROBLEM"
   },
   {
-    "nausea or vomitting": "PROBLEM"
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomitting": "PROBLEM"
+  },
+  {
+    "diarrhea": "PROBLEM"
   },
   {
     "redness": "PROBLEM"

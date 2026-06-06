@@ -1,0 +1,29 @@
+[
+  {
+    "asthma": "PROBLEM"
+  },
+  {
+    "allergic rhinitis": "PROBLEM"
+  },
+  {
+    "vaginal irritation": "PROBLEM"
+  },
+  {
+    "premenstrual dysphoric disorder": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "headaches": "PROBLEM"
+  },
+  {
+    "proventil inhaler": "DRUG"
+  },
+  {
+    "flonase": "DRUG"
+  },
+  {
+    "pap smear": "TEST"
+  }
+]

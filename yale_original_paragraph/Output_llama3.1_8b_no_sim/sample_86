@@ -6,13 +6,31 @@
     "high risk behavior": "PROBLEM"
   },
   {
-    "Major depression": "PROBLEM"
+    "RTC": "TREATMENT"
   },
   {
-    "psychosocial stressors": "PROBLEM"
+    "Seroquel": "DRUG"
   },
   {
-    "GAF": "TEST"
+    "Benadryl": "DRUG"
+  },
+  {
+    "Wellbutrin XL": "DRUG"
+  },
+  {
+    "vitamin E": "DRUG"
+  },
+  {
+    "Restoril": "DRUG"
+  },
+  {
+    "Risperdal": "DRUG"
+  },
+  {
+    "EEG": "TEST"
+  },
+  {
+    "EKG": "TEST"
   },
   {
     "CBC": "TEST"
@@ -36,54 +54,54 @@
     "T4": "TEST"
   },
   {
-    "EKG": "TEST"
+    "CBC": "TEST"
   },
   {
-    "sleep-deprived EEG": "TEST"
+    "Hematocrit": "TEST"
   },
   {
-    "Seroquel": "DRUG"
+    "absolute monocytes": "TEST"
   },
   {
-    "Benadryl": "DRUG"
+    "Basic metabolic panel": "TEST"
   },
   {
-    "Wellbutrin XL": "DRUG"
+    "CBC": "TEST"
   },
   {
-    "vitamin E": "DRUG"
+    "TSH": "TEST"
   },
   {
-    "Restoril": "DRUG"
+    "UA": "TEST"
   },
   {
-    "Risperdal": "DRUG"
+    "urine drug screen": "TEST"
   },
   {
-    "incision": "TREATMENT"
+    "thyroid panel": "TEST"
   },
   {
-    "drainage": "TREATMENT"
+    "T3": "TEST"
   },
   {
-    "therapy program": "TREATMENT"
+    "T4": "TEST"
   },
   {
-    "psychotropic medications": "TREATMENT"
+    "CBC": "TEST"
   },
   {
-    "evaluation for and management of psychotropic medications": "TREATMENT"
+    "Hematocrit": "TEST"
   },
   {
-    "individual, group, and family therapy": "TREATMENT"
+    "absolute monocytes": "TEST"
   },
   {
-    "group-oriented therapy program": "TREATMENT"
+    "Basic metabolic panel": "TEST"
   },
   {
-    "RTC level of care": "TREATMENT"
+    "psychotropic medications": "DRUG"
   },
   {
-    "Residential Treatment Center": "TREATMENT"
+    "galactorrhea": "PROBLEM"
   }
 ]

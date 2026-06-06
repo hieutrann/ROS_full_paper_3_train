@@ -99,10 +99,10 @@
     "Bactrim": "DRUG"
   },
   {
-    "Vital Signs": "TEST"
+    "jugular venous distension": "PROBLEM"
   },
   {
-    "jugular venous distension": "PROBLEM"
+    "bowel sounds": "TEST"
   },
   {
     "organomegaly": "PROBLEM"
@@ -123,7 +123,7 @@
     "edema": "PROBLEM"
   },
   {
-    "Diabetes type II uncontrolled": "PROBLEM"
+    "Diabetes type II": "PROBLEM"
   },
   {
     "Acute cystitis": "PROBLEM"
@@ -139,29 +139,5 @@
   },
   {
     "Bactrim": "DRUG"
-  },
-  {
-    "bactrim": "DRUG"
-  },
-  {
-    "micronase": "DRUG"
-  },
-  {
-    "abdominal pain": "PROBLEM"
-  },
-  {
-    "cbc": "TEST"
-  },
-  {
-    "diabetes type ii": "PROBLEM"
-  },
-  {
-    "acute cystitis": "PROBLEM"
-  },
-  {
-    "diabetes": "PROBLEM"
-  },
-  {
-    "abnormalities": "PROBLEM"
   }
 ]

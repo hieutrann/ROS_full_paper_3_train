@@ -9,16 +9,13 @@
     "dilated bladder": "PROBLEM"
   },
   {
-    "thick wall": "PROBLEM"
-  },
-  {
-    "obstruction": "PROBLEM"
-  },
-  {
     "bilateral hydronephrosis": "PROBLEM"
   },
   {
     "hydroureter": "PROBLEM"
+  },
+  {
+    "obstruction": "PROBLEM"
   },
   {
     "Sepsis": "PROBLEM"
@@ -36,16 +33,13 @@
     "dilated bladder": "PROBLEM"
   },
   {
-    "thick wall": "PROBLEM"
-  },
-  {
-    "obstruction": "PROBLEM"
-  },
-  {
     "bilateral hydronephrosis": "PROBLEM"
   },
   {
     "hydroureter": "PROBLEM"
+  },
+  {
+    "obstruction": "PROBLEM"
   },
   {
     "patient": "PROBLEM"
@@ -60,13 +54,13 @@
     "hydration": "TREATMENT"
   },
   {
-    "PAST MEDICAL HISTORY": "TEST"
+    "PAST MEDICAL HISTORY": "TREATMENT"
   },
   {
     "CAD": "PROBLEM"
   },
   {
-    "2": "TREATMENT"
+    "2": "TEST"
   },
   {
     "dementia": "PROBLEM"
@@ -78,25 +72,25 @@
     "CVA": "PROBLEM"
   },
   {
-    "4": "TEST"
+    "4": "TREATMENT"
   },
   {
     "nephrolithiasis": "PROBLEM"
   },
   {
-    "ALLERGIES": "PROBLEM"
+    "NONE": "PROBLEM"
   },
   {
-    "MEDICATIONS": "DRUG"
+    "MEDICATIONS": "TREATMENT"
   },
   {
     "Ambien": "DRUG"
   },
   {
-    "2": "TREATMENT"
+    "2": "TEST"
   },
   {
-    "milk of magnesia": "DRUG"
+    "Milk of magnesia": "TREATMENT"
   },
   {
     "3": "PROBLEM"
@@ -105,25 +99,22 @@
     "Tylenol": "DRUG"
   },
   {
-    "4": "TEST"
+    "4": "TREATMENT"
   },
   {
     "Tramadol": "DRUG"
   },
   {
-    "5": "TEST"
+    "5": "TREATMENT"
   },
   {
     "Soma": "DRUG"
   },
   {
-    "6": "PROBLEM"
+    "6": "TREATMENT"
   },
   {
     "Coumadin": "DRUG"
-  },
-  {
-    "7": "PROBLEM"
   },
   {
     "Zoloft": "DRUG"
@@ -135,7 +126,7 @@
     "Allopurinol": "DRUG"
   },
   {
-    "9": "TEST"
+    "9": "PROBLEM"
   },
   {
     "Digoxin": "DRUG"
@@ -159,9 +150,6 @@
     "BuSpar": "DRUG"
   },
   {
-    "13": "PROBLEM"
-  },
-  {
     "Detrol": "DRUG"
   },
   {
@@ -180,7 +168,7 @@
     "16": "PROBLEM"
   },
   {
-    "Calcium": "TEST"
+    "Calcium": "PROBLEM"
   },
   {
     "17": "PROBLEM"
@@ -213,10 +201,10 @@
     "Amoxicillin": "DRUG"
   },
   {
-    "FAMILY HISTORY": "TEST"
+    "Noncontributory": "PROBLEM"
   },
   {
-    "board and care": "PROBLEM"
+    "board and care": "TREATMENT"
   },
   {
     "tobacco": "PROBLEM"
@@ -229,12 +217,6 @@
   },
   {
     "history of present illness": "PROBLEM"
-  },
-  {
-    "otherwise unremarkable": "PROBLEM"
-  },
-  {
-    "VITAL SIGNS": "TEST"
   },
   {
     "afebrile": "TEST"
@@ -252,10 +234,10 @@
     "saturating": "TEST"
   },
   {
-    "patient": "PROBLEM"
+    "The patient": "PROBLEM"
   },
   {
-    "oriented": "PROBLEM"
+    "acute distress": "PROBLEM"
   },
   {
     "Pupils": "TEST"
@@ -264,10 +246,10 @@
     "Extraocular movements": "TEST"
   },
   {
-    "mucous membranes": "PROBLEM"
+    "Mucous membranes": "PROBLEM"
   },
   {
-    "NECK": "TEST"
+    "NECK": "PROBLEM"
   },
   {
     "thyromegaly": "PROBLEM"
@@ -282,13 +264,13 @@
     "brady": "PROBLEM"
   },
   {
-    "LUNGS": "TEST"
+    "auscultation": "TEST"
   },
   {
     "normoactive bowel sounds": "TEST"
   },
   {
-    "Soft": "PROBLEM"
+    "Soft": "TEST"
   },
   {
     "tenderness": "PROBLEM"
@@ -306,28 +288,19 @@
     "edema": "PROBLEM"
   },
   {
-    "NEUROLOGIC": "TEST"
+    "NEUROLOGIC": "PROBLEM"
   },
   {
     "focality": "PROBLEM"
   },
   {
-    "CT of the abdomen": "TEST"
-  },
-  {
     "left inguinal hernia": "PROBLEM"
-  },
-  {
-    "colon in sac": "PROBLEM"
   },
   {
     "SBO": "PROBLEM"
   },
   {
     "dilated bladder": "PROBLEM"
-  },
-  {
-    "thick wall": "PROBLEM"
   },
   {
     "possible outlet obstruction": "PROBLEM"
@@ -340,6 +313,9 @@
   },
   {
     "2.7 cm right adrenal gland mass": "PROBLEM"
+  },
+  {
+    "CT of the abdomen": "TEST"
   },
   {
     "White count": "TEST"
@@ -381,10 +357,7 @@
     "atrial fibrillation": "PROBLEM"
   },
   {
-    "EKG": "TEST"
-  },
-  {
-    "PROBLEM LIST": "TEST"
+    "PROBLEM LIST": "PROBLEM"
   },
   {
     "Urinary tract infection": "PROBLEM"
@@ -393,7 +366,7 @@
     "sepsis": "PROBLEM"
   },
   {
-    "2": "TREATMENT"
+    "2": "TEST"
   },
   {
     "Obstructive uropathy": "PROBLEM"
@@ -408,37 +381,34 @@
     "Atrial fibrillation": "PROBLEM"
   },
   {
-    "5": "TEST"
+    "5": "TREATMENT"
   },
   {
     "Anemia": "PROBLEM"
   },
   {
-    "6": "PROBLEM"
+    "6": "TREATMENT"
   },
   {
     "Adrenal gland mass": "PROBLEM"
   },
   {
-    "RECOMMENDATIONS": "TEST"
+    "RECOMMENDATIONS": "TREATMENT"
   },
   {
-    "urology consult": "TEST"
-  },
-  {
-    "Dr": "TREATMENT"
+    "urology consult": "TREATMENT"
   },
   {
     "X": "PROBLEM"
   },
   {
-    "2": "TREATMENT"
+    "2": "TEST"
   },
   {
     "renal consult": "TREATMENT"
   },
   {
-    "Y": "PROBLEM"
+    "Y.": "PROBLEM"
   },
   {
     "3": "PROBLEM"
@@ -447,19 +417,19 @@
     "Levaquin": "DRUG"
   },
   {
-    "4": "TEST"
+    "4": "TREATMENT"
   },
   {
     "gentamicin": "DRUG"
   },
   {
-    "5": "TEST"
+    "5": "TREATMENT"
   },
   {
     "hypertonic-hypotonic": "TEST"
   },
   {
-    "6": "PROBLEM"
+    "6": "TREATMENT"
   },
   {
     "anticoagulation": "TREATMENT"
@@ -471,34 +441,22 @@
     "TED hose": "TREATMENT"
   },
   {
-    "bilateral lower extremities": "PROBLEM"
-  },
-  {
-    "7": "PROBLEM"
-  },
-  {
     "atrial fibrillation": "PROBLEM"
   },
   {
-    "rate control medications": "DRUG"
-  },
-  {
-    "digoxin level": "TEST"
+    "digoxin": "DRUG"
   },
   {
     "8": "PROBLEM"
   },
   {
-    "dementia medications": "DRUG"
+    "dementia": "PROBLEM"
   },
   {
-    "9": "TEST"
+    "9": "PROBLEM"
   },
   {
     "PPI": "DRUG"
-  },
-  {
-    "PUD": "PROBLEM"
   },
   {
     "abdominal pain": "PROBLEM"
@@ -507,7 +465,7 @@
     "hydroureter": "PROBLEM"
   },
   {
-    "urology": "TEST"
+    "urology": "PROBLEM"
   },
   {
     "urinary tract infection with sepsis": "PROBLEM"
@@ -516,10 +474,10 @@
     "ct scan": "TEST"
   },
   {
-    "adrenal gland": "TEST"
+    "adrenal gland": "PROBLEM"
   },
   {
-    "dilated bladder": "TEST"
+    "dilated bladder": "PROBLEM"
   },
   {
     "bilateral hydronephrosis": "PROBLEM"

@@ -60,7 +60,7 @@
     "ERCP": "TREATMENT"
   },
   {
-    "placement of a stent": "TREATMENT"
+    "stent": "TREATMENT"
   },
   {
     "strictured pancreatic duct": "PROBLEM"
@@ -156,13 +156,10 @@
     "diabetes": "PROBLEM"
   },
   {
-    "end of life meetings": "TREATMENT"
-  },
-  {
     "chemotherapy": "TREATMENT"
   },
   {
-    "chemotherapy": "TREATMENT"
+    "chemotherapy": "DRUG"
   },
   {
     "metastatic pancreatic cancer": "PROBLEM"
@@ -201,10 +198,10 @@
     "fever": "PROBLEM"
   },
   {
-    "increased bilirubin": "PROBLEM"
+    "bilirubin": "TEST"
   },
   {
-    "worsening pain": "PROBLEM"
+    "pain": "PROBLEM"
   },
   {
     "abdominal pain": "PROBLEM"
@@ -219,7 +216,7 @@
     "pancreatic mass": "PROBLEM"
   },
   {
-    "chemotherapy": "TREATMENT"
+    "chemotherapy": "DRUG"
   },
   {
     "bilirubin": "TEST"

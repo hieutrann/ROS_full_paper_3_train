@@ -1,18 +1,6 @@
 [
   {
-    "decreased level of consciousness": "PROBLEM"
-  },
-  {
     "Parkinson disease": "PROBLEM"
-  },
-  {
-    "altered mental status": "PROBLEM"
-  },
-  {
-    "dehydration": "PROBLEM"
-  },
-  {
-    "elderly abuse": "PROBLEM"
   },
   {
     "Xanax": "DRUG"
@@ -30,6 +18,21 @@
     "Ambien": "DRUG"
   },
   {
+    "level of consciousness": "PROBLEM"
+  },
+  {
+    "altered mental status": "PROBLEM"
+  },
+  {
+    "dehydration": "PROBLEM"
+  },
+  {
+    "elderly abuse": "PROBLEM"
+  },
+  {
+    "decreased level of consciousness": "PROBLEM"
+  },
+  {
     "EKG": "TEST"
   },
   {
@@ -43,6 +46,9 @@
   },
   {
     "CBC": "TEST"
+  },
+  {
+    "physical examination": "TEST"
   },
   {
     "IV fluids": "TREATMENT"

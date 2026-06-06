@@ -3,22 +3,7 @@
     "Stasis Ulcer": "PROBLEM"
   },
   {
-    "Nonhealing right ankle stasis ulcer": "PROBLEM"
-  },
-  {
-    "hypertension": "PROBLEM"
-  },
-  {
-    "chronic intermittent bipedal edema": "PROBLEM"
-  },
-  {
-    "recurrent leg venous ulcers": "PROBLEM"
-  },
-  {
-    "vascular surgery": "TREATMENT"
-  },
-  {
-    "Nonhealing right ankle stasis ulcer": "PROBLEM"
+    "stasis ulcer": "PROBLEM"
   },
   {
     "hypertension": "PROBLEM"
@@ -63,9 +48,6 @@
     "Enterobacter": "PROBLEM"
   },
   {
-    "wound cultures": "TEST"
-  },
-  {
     "surgical management": "TREATMENT"
   },
   {
@@ -78,10 +60,13 @@
     "chills": "PROBLEM"
   },
   {
+    "visual acuity": "TEST"
+  },
+  {
     "diplopia": "PROBLEM"
   },
   {
-    "hearing disturbances": "PROBLEM"
+    "acute hearing disturbances": "PROBLEM"
   },
   {
     "sinus congestion": "PROBLEM"
@@ -183,33 +168,6 @@
     "cardiorespiratory distress": "PROBLEM"
   },
   {
-    "oral lesions": "PROBLEM"
-  },
-  {
-    "neck masses": "PROBLEM"
-  },
-  {
-    "crackles": "PROBLEM"
-  },
-  {
-    "wheezes": "PROBLEM"
-  },
-  {
-    "thrills": "PROBLEM"
-  },
-  {
-    "rubs": "PROBLEM"
-  },
-  {
-    "guarding": "PROBLEM"
-  },
-  {
-    "rigidity": "PROBLEM"
-  },
-  {
-    "cervical lymphadenopathy": "PROBLEM"
-  },
-  {
     "hyperpigmentation": "PROBLEM"
   },
   {
@@ -226,12 +184,6 @@
   },
   {
     "tenderness": "PROBLEM"
-  },
-  {
-    "wound": "PROBLEM"
-  },
-  {
-    "open wound": "PROBLEM"
   },
   {
     "White blood cell count": "TEST"
@@ -270,9 +222,6 @@
     "wound culture": "TEST"
   },
   {
-    "wound culture": "TEST"
-  },
-  {
     "Chest x-ray": "TEST"
   },
   {
@@ -294,66 +243,12 @@
     "Chronic recurrent bilateral ankle venous ulcers": "PROBLEM"
   },
   {
-    "wound cultures": "TEST"
-  },
-  {
-    "Pseudomonas": "PROBLEM"
-  },
-  {
-    "Enterococcus": "PROBLEM"
-  },
-  {
-    "Stenotrophomonas": "PROBLEM"
-  },
-  {
-    "Hypertension": "PROBLEM"
-  },
-  {
     "blood cultures": "TEST"
-  },
-  {
-    "daptomycin": "DRUG"
-  },
-  {
-    "Primaxin": "DRUG"
-  },
-  {
-    "wound cultures": "TEST"
   },
   {
     "MRI of the right ankle": "TEST"
   },
   {
     "osteomyelitis": "PROBLEM"
-  },
-  {
-    "fevers": "PROBLEM"
-  },
-  {
-    "cellulitis": "PROBLEM"
-  },
-  {
-    "venous ulcers": "PROBLEM"
-  },
-  {
-    "bipedal edema": "PROBLEM"
-  },
-  {
-    "stasis ulcer": "PROBLEM"
-  },
-  {
-    "wound cultures": "TEST"
-  },
-  {
-    "wound": "PROBLEM"
-  },
-  {
-    "ulcer": "PROBLEM"
-  },
-  {
-    "hypertension": "PROBLEM"
-  },
-  {
-    "ulcers": "PROBLEM"
   }
 ]

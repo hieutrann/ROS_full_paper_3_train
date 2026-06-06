@@ -3,9 +3,6 @@
     "chest pain": "PROBLEM"
   },
   {
-    "left-sided": "PROBLEM"
-  },
-  {
     "chest tightness": "PROBLEM"
   },
   {
@@ -13,9 +10,6 @@
   },
   {
     "chest pain": "PROBLEM"
-  },
-  {
-    "left-sided": "PROBLEM"
   },
   {
     "chest tightness": "PROBLEM"
@@ -31,6 +25,9 @@
   },
   {
     "workup": "TEST"
+  },
+  {
+    "emergency room": "TEST"
   },
   {
     "cardiac workup": "TEST"
@@ -87,7 +84,7 @@
     "lumpectomy": "TREATMENT"
   },
   {
-    "breast": "PROBLEM"
+    "breast augmentation surgery": "TREATMENT"
   },
   {
     "cholecystectomy": "TREATMENT"
@@ -96,10 +93,10 @@
     "cardiac ablation": "TREATMENT"
   },
   {
-    "knee": "PROBLEM"
+    "left knee surgery": "TREATMENT"
   },
   {
-    "pancreas": "PROBLEM"
+    "removal of half the pancreas": "TREATMENT"
   },
   {
     "Dilantin": "DRUG"
@@ -132,13 +129,22 @@
     "abortion": "PROBLEM"
   },
   {
-    "followup": "TEST"
+    "OB/GYN": "TEST"
   },
   {
     "tobacco abuse": "PROBLEM"
   },
   {
     "drug abuse": "PROBLEM"
+  },
+  {
+    "alert": "PROBLEM"
+  },
+  {
+    "awake": "PROBLEM"
+  },
+  {
+    "oriented": "PROBLEM"
   },
   {
     "blood pressure": "TEST"
@@ -168,22 +174,7 @@
     "LUNGS": "PROBLEM"
   },
   {
-    "rate": "TEST"
-  },
-  {
-    "rhythm": "TEST"
-  },
-  {
-    "Soft": "PROBLEM"
-  },
-  {
-    "nontender": "PROBLEM"
-  },
-  {
-    "nondistended": "PROBLEM"
-  },
-  {
-    "Bowel sounds": "PROBLEM"
+    "Bowel sounds": "TEST"
   },
   {
     "edema": "PROBLEM"
@@ -258,6 +249,12 @@
     "beta-hCG": "TEST"
   },
   {
+    "ASSESSMENT": "TEST"
+  },
+  {
+    "EVALUATION": "TEST"
+  },
+  {
     "Chest pains": "PROBLEM"
   },
   {
@@ -273,13 +270,16 @@
     "unstable angina": "PROBLEM"
   },
   {
-    "pregnancy": "PROBLEM"
+    "early pregnancy": "PROBLEM"
   },
   {
-    "OB/GYN": "PROBLEM"
+    "medications": "DRUG"
   },
   {
-    "PCP": "PROBLEM"
+    "OB/GYN": "TREATMENT"
+  },
+  {
+    "PCP": "TREATMENT"
   },
   {
     "pregnancy": "PROBLEM"
@@ -295,6 +295,9 @@
   },
   {
     "migraine headache": "PROBLEM"
+  },
+  {
+    "PCP": "TREATMENT"
   },
   {
     "acute coronary syndrome": "PROBLEM"

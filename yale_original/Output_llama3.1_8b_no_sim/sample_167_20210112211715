@@ -1,21 +1,24 @@
 [
   {
-    "Right-sided facial droop": "PROBLEM"
+    "facial droop": "PROBLEM"
   },
   {
-    "Right-sided weakness": "PROBLEM"
-  },
-  {
-    "cerebrovascular accident": "PROBLEM"
+    "weakness": "PROBLEM"
   },
   {
     "cerebrovascular accident": "PROBLEM"
   },
   {
-    "Right-sided facial droop": "PROBLEM"
+    "cerebrovascular accident": "PROBLEM"
   },
   {
-    "Right-sided weakness": "PROBLEM"
+    "CT scan": "TEST"
+  },
+  {
+    "facial droop": "PROBLEM"
+  },
+  {
+    "weakness": "PROBLEM"
   },
   {
     "stroke": "PROBLEM"
@@ -27,7 +30,7 @@
     "expressive aphasia": "PROBLEM"
   },
   {
-    "right-sided facial droop": "PROBLEM"
+    "facial droop": "PROBLEM"
   },
   {
     "upper extremity weakness": "PROBLEM"
@@ -45,22 +48,22 @@
     "CT scan": "TEST"
   },
   {
-    "bed": "TREATMENT"
-  },
-  {
-    "observation": "TREATMENT"
-  },
-  {
-    "treatment": "TREATMENT"
+    "medications": "DRUG"
   },
   {
     "PENICILLIN": "DRUG"
   },
   {
-    "skilled nursing facility": "PROBLEM"
+    "nondrinker": "PROBLEM"
   },
   {
-    "FAMILY HISTORY": "TEST"
+    "nonsmoker": "PROBLEM"
+  },
+  {
+    "skilled nursing facility": "TREATMENT"
+  },
+  {
+    "Noncontributory": "PROBLEM"
   },
   {
     "PAST MEDICAL HISTORY": "TREATMENT"
@@ -75,16 +78,16 @@
     "lower extremity weakness": "PROBLEM"
   },
   {
-    "2": "TEST"
+    "2": "TREATMENT"
   },
   {
     "Abnormality of gait": "PROBLEM"
   },
   {
-    "wheelchair bound": "PROBLEM"
+    "wheelchair": "TREATMENT"
   },
   {
-    "3": "PROBLEM"
+    "3": "TREATMENT"
   },
   {
     "Hypertension": "PROBLEM"
@@ -96,13 +99,13 @@
     "Chronic obstructive pulmonary disease": "PROBLEM"
   },
   {
-    "5": "PROBLEM"
+    "5": "TEST"
   },
   {
     "Anxiety disorder": "PROBLEM"
   },
   {
-    "6": "PROBLEM"
+    "6": "TEST"
   },
   {
     "Dementia": "PROBLEM"
@@ -114,10 +117,10 @@
     "knee replacement": "TREATMENT"
   },
   {
-    "osteoarthritis": "PROBLEM"
+    "mastectomy": "TREATMENT"
   },
   {
-    "mastectomy": "TREATMENT"
+    "osteoarthritis": "PROBLEM"
   },
   {
     "urine incontinence": "PROBLEM"
@@ -144,7 +147,7 @@
     "Pupils": "TEST"
   },
   {
-    "External ocular muscles": "TEST"
+    "ocular muscles": "PROBLEM"
   },
   {
     "Conjunctivae": "PROBLEM"
@@ -156,7 +159,10 @@
     "Oropharynx": "PROBLEM"
   },
   {
-    "Tympanic membranes": "PROBLEM"
+    "teeth": "PROBLEM"
+  },
+  {
+    "Tympanic membranes": "TEST"
   },
   {
     "Supple": "TEST"
@@ -168,10 +174,7 @@
     "cervical adenopathy": "PROBLEM"
   },
   {
-    "Regular rate and rhythm": "TEST"
-  },
-  {
-    "2/6 systolic murmur": "PROBLEM"
+    "systolic murmur": "PROBLEM"
   },
   {
     "apex": "TEST"
@@ -180,7 +183,7 @@
     "LUNGS": "TEST"
   },
   {
-    "ABDOMEN": "PROBLEM"
+    "tenderness": "PROBLEM"
   },
   {
     "Bowel sound": "TEST"
@@ -192,16 +195,19 @@
     "fixed flexion deformity": "PROBLEM"
   },
   {
-    "right-sided slight facial droop": "PROBLEM"
+    "facial droop": "PROBLEM"
   },
   {
-    "upper extremities": "TEST"
+    "upper extremities": "PROBLEM"
   },
   {
     "withdrawal": "PROBLEM"
   },
   {
     "pressure ulcer": "PROBLEM"
+  },
+  {
+    "ulcer": "PROBLEM"
   },
   {
     "CT scan": "TEST"
@@ -246,13 +252,10 @@
     "platelet count": "TEST"
   },
   {
-    "urinalysis": "TEST"
+    "white blood cells": "TEST"
   },
   {
-    "white blood cells": "PROBLEM"
-  },
-  {
-    "red blood cells": "PROBLEM"
+    "red blood cells": "TEST"
   },
   {
     "E. coli": "PROBLEM"
@@ -273,16 +276,16 @@
     "cerebrovascular accident": "PROBLEM"
   },
   {
-    "right-sided weakness": "PROBLEM"
+    "weakness": "PROBLEM"
   },
   {
-    "2": "TEST"
+    "2": "TREATMENT"
   },
   {
     "Hypertension": "PROBLEM"
   },
   {
-    "3": "TEST"
+    "3": "TREATMENT"
   },
   {
     "Dementia": "PROBLEM"
@@ -294,16 +297,16 @@
     "Anxiety": "PROBLEM"
   },
   {
-    "5": "PROBLEM"
+    "5": "TEST"
   },
   {
     "Urinary tract infection": "PROBLEM"
   },
   {
-    "6": "PROBLEM"
+    "6": "TEST"
   },
   {
-    "Abnormality of gait": "PROBLEM"
+    "gait": "PROBLEM"
   },
   {
     "lower extremity weakness": "PROBLEM"
@@ -315,7 +318,7 @@
     "Vasotec": "DRUG"
   },
   {
-    "systolic blood pressure": "PROBLEM"
+    "blood pressure": "PROBLEM"
   },
   {
     "Neuro check": "TEST"
@@ -339,7 +342,10 @@
     "multivitamin": "DRUG"
   },
   {
-    "calcium with vitamin D": "DRUG"
+    "calcium": "DRUG"
+  },
+  {
+    "vitamin D": "DRUG"
   },
   {
     "Ecotrin": "DRUG"
@@ -351,10 +357,10 @@
     "IV fluids": "TREATMENT"
   },
   {
-    "D5 normal saline": "TREATMENT"
+    "potassium": "DRUG"
   },
   {
-    "potassium": "DRUG"
+    "saline": "DRUG"
   },
   {
     "hypertension": "PROBLEM"
@@ -364,9 +370,6 @@
   },
   {
     "weakness": "PROBLEM"
-  },
-  {
-    "facial droop": "PROBLEM"
   },
   {
     "swallowing evaluation": "TEST"

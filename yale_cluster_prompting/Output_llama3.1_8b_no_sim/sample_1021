@@ -1,24 +1,30 @@
 [
   {
-    "Full-Field Digital Mammogram (FFDM)": "TEST"
-  },
-  {
     "Digital screening mammogram": "TEST"
   },
   {
     "Bilateral Screening Mammogram": "TEST"
   },
   {
+    "Full-Field Digital Mammography": "TEST"
+  },
+  {
     "Benign Findings": "PROBLEM"
   },
   {
-    "mammography": "TEST"
+    "51-year-old female": "PROBLEM"
+  },
+  {
+    "screening mammography": "TEST"
   },
   {
     "breast cancer": "PROBLEM"
   },
   {
     "Breast cancer": "PROBLEM"
+  },
+  {
+    "maternal aunt": "PROBLEM"
   },
   {
     "Craniocaudal": "TEST"
@@ -45,10 +51,16 @@
     "fibroglandular": "PROBLEM"
   },
   {
-    "Composition": "TEST"
+    "Composition": "PROBLEM"
   },
   {
     "calcifications": "PROBLEM"
+  },
+  {
+    "punctate": "PROBLEM"
+  },
+  {
+    "benign-appearing": "PROBLEM"
   },
   {
     "visualized": "TEST"
@@ -60,7 +72,10 @@
     "architecture distortion": "PROBLEM"
   },
   {
-    "Skin overlying both breasts": "PROBLEM"
+    "dominant mass": "PROBLEM"
+  },
+  {
+    "unremarkable": "PROBLEM"
   },
   {
     "mammographic findings": "PROBLEM"
@@ -73,6 +88,12 @@
   },
   {
     "MAMMOGRAPHY INFORMATION": "TEST"
+  },
+  {
+    "BIRADS Classification": "TEST"
+  },
+  {
+    "Benign": "PROBLEM"
   },
   {
     "cancers": "PROBLEM"
@@ -96,42 +117,30 @@
     "3": "TREATMENT"
   },
   {
-    "digital mammography equipment": "TEST"
+    "FDA-approved digital mammography equipment": "TEST"
   },
   {
     "iCAD SecondLook Software Version 7.2": "TEST"
   },
   {
-    "radiology": "TEST"
-  },
-  {
-    "mediolateral": "TEST"
-  },
-  {
-    "craniocaudal": "TEST"
-  },
-  {
-    "fibroglandular": "TEST"
-  },
-  {
-    "bilateral screening mammogram": "TEST"
-  },
-  {
     "breast cancer": "PROBLEM"
-  },
-  {
-    "screening mammogram": "TEST"
-  },
-  {
-    "mammographic": "TEST"
   },
   {
     "mammogram": "TEST"
   },
   {
-    "screening": "TEST"
+    "mammography": "TEST"
   },
   {
-    "mammography": "TEST"
+    "mammographic": "TEST"
+  },
+  {
+    "screening mammogram": "TEST"
+  },
+  {
+    "bilateral screening mammogram": "TEST"
+  },
+  {
+    "breasts": "PROBLEM"
   }
 ]

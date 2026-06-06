@@ -33,19 +33,19 @@
     "Levaquin": "DRUG"
   },
   {
-    "oral formulation": "DRUG"
-  },
-  {
     "debridement": "TREATMENT"
   },
   {
     "MRI": "TEST"
   },
   {
-    "a bone scan": "TEST"
+    "bone scan": "TEST"
   },
   {
     "osteomyelitis": "PROBLEM"
+  },
+  {
+    "wound care center": "TREATMENT"
   },
   {
     "wound care": "TREATMENT"
@@ -57,13 +57,10 @@
     "lacerated wound": "PROBLEM"
   },
   {
-    "the wound": "PROBLEM"
+    "wound": "PROBLEM"
   },
   {
     "stage IV": "PROBLEM"
-  },
-  {
-    "exam": "TEST"
   },
   {
     "osteomyelitis": "PROBLEM"
@@ -108,7 +105,10 @@
     "blood pressure": "TEST"
   },
   {
-    "Extraocular movements intact": "PROBLEM"
+    "Pupils": "TEST"
+  },
+  {
+    "Extraocular movements": "TEST"
   },
   {
     "External ear exam": "TEST"
@@ -126,7 +126,16 @@
     "gallop": "PROBLEM"
   },
   {
+    "auscultation": "TEST"
+  },
+  {
+    "percussion": "TEST"
+  },
+  {
     "organomegaly": "PROBLEM"
+  },
+  {
+    "bowel sounds": "TEST"
   },
   {
     "lymphadenopathy": "PROBLEM"
@@ -150,7 +159,7 @@
     "Tracking under the skin": "PROBLEM"
   },
   {
-    "the wound": "PROBLEM"
+    "wound": "PROBLEM"
   },
   {
     "osteomyelitis": "PROBLEM"
@@ -165,7 +174,7 @@
     "diabetes mellitus": "PROBLEM"
   },
   {
-    "accidental lawn mower-associated injury": "PROBLEM"
+    "lawn mower-associated injury": "PROBLEM"
   },
   {
     "debridement": "TREATMENT"
@@ -183,7 +192,7 @@
     "methicillin-sensitive Staphylococcus aureus": "PROBLEM"
   },
   {
-    "Right foot infected ulcer": "PROBLEM"
+    "infected ulcer": "PROBLEM"
   },
   {
     "osteomyelitis": "PROBLEM"

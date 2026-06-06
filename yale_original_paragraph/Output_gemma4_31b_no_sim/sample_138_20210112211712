@@ -15,16 +15,34 @@
     "stenosis": "PROBLEM"
   },
   {
-    "Neck pain with right upper extremity radiculopathy": "PROBLEM"
+    "Neck pain": "PROBLEM"
   },
   {
-    "Cervical spondylosis with herniated nucleus pulposus C4-C5, C5-C6, and C6-C7 with stenosis": "PROBLEM"
+    "right upper extremity radiculopathy": "PROBLEM"
   },
   {
-    "Neck pain with right upper extremity radiculopathy": "PROBLEM"
+    "Cervical spondylosis": "PROBLEM"
   },
   {
-    "Cervical spondylosis with herniated nucleus pulposus C4-C5, C5-C6, and C6-C7 with stenosis": "PROBLEM"
+    "herniated nucleus pulposus C4-C5, C5-C6, and C6-C7": "PROBLEM"
+  },
+  {
+    "stenosis": "PROBLEM"
+  },
+  {
+    "Neck pain": "PROBLEM"
+  },
+  {
+    "right upper extremity radiculopathy": "PROBLEM"
+  },
+  {
+    "Cervical spondylosis": "PROBLEM"
+  },
+  {
+    "herniated nucleus pulposus C4-C5, C5-C6, and C6-C7": "PROBLEM"
+  },
+  {
+    "stenosis": "PROBLEM"
   },
   {
     "Anterior cervical discectomy with decompression C4-C5, C5-C6, and C6-C7": "TREATMENT"
@@ -57,7 +75,7 @@
     "herniated disk": "PROBLEM"
   },
   {
-    "stenosis at C4-C5, C5-C6 and C6-C7": "PROBLEM"
+    "stenosis": "PROBLEM"
   },
   {
     "liver surgery": "TREATMENT"

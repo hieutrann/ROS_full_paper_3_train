@@ -42,7 +42,7 @@
     "cough": "PROBLEM"
   },
   {
-    "right TM": "PROBLEM"
+    "dry and hacky": "PROBLEM"
   },
   {
     "red": "PROBLEM"
@@ -55,6 +55,9 @@
   },
   {
     "Aldex": "DRUG"
+  },
+  {
+    "ear": "PROBLEM"
   },
   {
     "difficulty breathing": "PROBLEM"
@@ -81,6 +84,9 @@
     "Aldex": "DRUG"
   },
   {
+    "normal spontaneous vaginal delivery": "TREATMENT"
+  },
+  {
     "hearing screen": "TEST"
   },
   {
@@ -91,9 +97,6 @@
   },
   {
     "retractions": "PROBLEM"
-  },
-  {
-    "right TM": "PROBLEM"
   },
   {
     "red": "PROBLEM"

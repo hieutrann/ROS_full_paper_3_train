@@ -69,13 +69,10 @@
     "cardiac workup": "TEST"
   },
   {
-    "vital signs": "TEST"
-  },
-  {
     "myocardial infarction": "PROBLEM"
   },
   {
-    "troponin": "TEST"
+    "troponin x2": "TEST"
   },
   {
     "echocardiogram": "TEST"
@@ -84,7 +81,7 @@
     "concentric LVH": "PROBLEM"
   },
   {
-    "EF": "TEST"
+    "EF of 62%": "TEST"
   },
   {
     "stress test": "TEST"

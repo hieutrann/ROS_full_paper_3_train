@@ -69,13 +69,10 @@
     "diarrhea": "PROBLEM"
   },
   {
-    "Temperature": "TEST"
-  },
-  {
     "erythematous plaques": "PROBLEM"
   },
   {
-    "mild lichenification": "PROBLEM"
+    "lichenification": "PROBLEM"
   },
   {
     "effusion": "PROBLEM"
@@ -120,13 +117,7 @@
     "atopic dermatitis": "PROBLEM"
   },
   {
-    "serous": "PROBLEM"
-  },
-  {
     "otitis": "PROBLEM"
-  },
-  {
-    "atopic": "PROBLEM"
   },
   {
     "dermatitis": "PROBLEM"

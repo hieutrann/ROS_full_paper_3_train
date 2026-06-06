@@ -36,7 +36,10 @@
     "spinal cord injury": "PROBLEM"
   },
   {
-    "cardiovascular and CNS side effects": "PROBLEM"
+    "cardiovascular": "PROBLEM"
+  },
+  {
+    "CNS side effects": "PROBLEM"
   },
   {
     "sedatives": "DRUG"
@@ -78,7 +81,7 @@
     "non-ionic contrast agent": "DRUG"
   },
   {
-    "fluoroscopic observation": "TEST"
+    "fluoroscopic": "TEST"
   },
   {
     "epidurogram": "TEST"

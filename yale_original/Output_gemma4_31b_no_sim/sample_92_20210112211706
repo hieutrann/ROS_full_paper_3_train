@@ -1,9 +1,6 @@
 [
   {
-    "Stasis Ulcer": "PROBLEM"
-  },
-  {
-    "Nonhealing right ankle stasis ulcer": "PROBLEM"
+    "stasis ulcer": "PROBLEM"
   },
   {
     "hypertension": "PROBLEM"
@@ -18,7 +15,7 @@
     "vascular surgery": "TREATMENT"
   },
   {
-    "Nonhealing right ankle stasis ulcer": "PROBLEM"
+    "right ankle stasis ulcer": "PROBLEM"
   },
   {
     "hypertension": "PROBLEM"
@@ -192,25 +189,22 @@
     "cardiorespiratory distress": "PROBLEM"
   },
   {
+    "Height": "TEST"
+  },
+  {
+    "body weight": "TEST"
+  },
+  {
     "Pink conjunctivae": "PROBLEM"
   },
   {
-    "anicteric sclerae": "PROBLEM"
-  },
-  {
     "Pupils": "TEST"
-  },
-  {
-    "Moist oral mucosa": "PROBLEM"
   },
   {
     "oral lesions": "PROBLEM"
   },
   {
     "neck masses": "PROBLEM"
-  },
-  {
-    "Thyroid": "TEST"
   },
   {
     "crackles": "PROBLEM"
@@ -238,9 +232,6 @@
   },
   {
     "cervical lymphadenopathy": "PROBLEM"
-  },
-  {
-    "range of motion": "TEST"
   },
   {
     "hyperpigmentation": "PROBLEM"
@@ -315,9 +306,6 @@
     "Left leg wound culture": "TEST"
   },
   {
-    "young growth": "PROBLEM"
-  },
-  {
     "Chest x-ray": "TEST"
   },
   {
@@ -360,19 +348,16 @@
     "daptomycin": "DRUG"
   },
   {
-    "Primaxin": "DRUG"
+    "Primaxin IV": "DRUG"
   },
   {
     "wound cultures": "TEST"
   },
   {
-    "MRI of the right ankle": "TEST"
+    "MRI": "TEST"
   },
   {
     "osteomyelitis": "PROBLEM"
-  },
-  {
-    "ID recommendations": "TREATMENT"
   },
   {
     "fevers": "PROBLEM"

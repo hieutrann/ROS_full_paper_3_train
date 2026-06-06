@@ -69,21 +69,6 @@
     "low-grade fevers": "PROBLEM"
   },
   {
-    "diplopia": "PROBLEM"
-  },
-  {
-    "sinus congestion": "PROBLEM"
-  },
-  {
-    "sore throat": "PROBLEM"
-  },
-  {
-    "chest pain": "PROBLEM"
-  },
-  {
-    "cough": "PROBLEM"
-  },
-  {
     "nausea": "PROBLEM"
   },
   {
@@ -151,9 +136,6 @@
   },
   {
     "multivitamins with minerals": "DRUG"
-  },
-  {
-    "cardiorespiratory distress": "PROBLEM"
   },
   {
     "hyperpigmentation": "PROBLEM"
@@ -261,7 +243,7 @@
     "daptomycin": "DRUG"
   },
   {
-    "Primaxin": "DRUG"
+    "Primaxin IV": "DRUG"
   },
   {
     "wound cultures": "TEST"

@@ -21,16 +21,10 @@
     "bleeding": "PROBLEM"
   },
   {
-    "pain": "PROBLEM"
-  },
-  {
     "numbness": "PROBLEM"
   },
   {
     "weakness": "PROBLEM"
-  },
-  {
-    "discomfort": "PROBLEM"
   },
   {
     "injuries": "PROBLEM"
@@ -43,9 +37,6 @@
   },
   {
     "Albuterol": "DRUG"
-  },
-  {
-    "VITAL SIGNS": "TEST"
   },
   {
     "Temperature": "TEST"
@@ -61,9 +52,6 @@
   },
   {
     "Oxygen saturation": "TEST"
-  },
-  {
-    "acute distress": "PROBLEM"
   },
   {
     "shortness of breath": "PROBLEM"
@@ -87,9 +75,6 @@
     "tenderness": "PROBLEM"
   },
   {
-    "injuries": "PROBLEM"
-  },
-  {
     "partial thickness laceration": "PROBLEM"
   },
   {
@@ -108,7 +93,7 @@
     "bandage": "TREATMENT"
   },
   {
-    "A 4-MM LACERATION TO THE RIGHT FOOT": "PROBLEM"
+    "LACERATION": "PROBLEM"
   },
   {
     "ACUTE RIGHT FOOT PAIN": "PROBLEM"
@@ -121,26 +106,5 @@
   },
   {
     "infection": "PROBLEM"
-  },
-  {
-    "foot pain": "PROBLEM"
-  },
-  {
-    "cut on foot": "PROBLEM"
-  },
-  {
-    "foreign body": "PROBLEM"
-  },
-  {
-    "active bleeding": "PROBLEM"
-  },
-  {
-    "injuries": "PROBLEM"
-  },
-  {
-    "laceration": "PROBLEM"
-  },
-  {
-    "bleeding": "PROBLEM"
   }
 ]

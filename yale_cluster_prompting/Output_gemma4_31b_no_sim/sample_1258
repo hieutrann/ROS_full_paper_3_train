@@ -9,7 +9,10 @@
     "Motor vehicle accident": "PROBLEM"
   },
   {
-    "mild pain on the left aspect of her neck": "PROBLEM"
+    "motor vehicle collision": "PROBLEM"
+  },
+  {
+    "mild pain": "PROBLEM"
   },
   {
     "passed out": "PROBLEM"
@@ -24,7 +27,7 @@
     "pain": "PROBLEM"
   },
   {
-    "painful throughout the bones of her pelvis": "PROBLEM"
+    "painful": "PROBLEM"
   },
   {
     "backboard": "TREATMENT"
@@ -87,9 +90,6 @@
     "Accutane": "DRUG"
   },
   {
-    "acute distress": "PROBLEM"
-  },
-  {
     "backboard": "TREATMENT"
   },
   {
@@ -121,6 +121,9 @@
   },
   {
     "crepitus": "PROBLEM"
+  },
+  {
+    "bony step-offs": "PROBLEM"
   },
   {
     "lacerations": "PROBLEM"
@@ -159,7 +162,7 @@
     "stridor": "PROBLEM"
   },
   {
-    "Regular rate and rhythm": "PROBLEM"
+    "Clear S1 and S2.": "PROBLEM"
   },
   {
     "murmur": "PROBLEM"
@@ -171,6 +174,9 @@
     "gallop": "PROBLEM"
   },
   {
+    "Clear to auscultation": "PROBLEM"
+  },
+  {
     "wheezes": "PROBLEM"
   },
   {
@@ -180,13 +186,13 @@
     "rhonchi": "PROBLEM"
   },
   {
-    "mild-to-moderate tenderness in the bilateral lower pelvic quadrants": "PROBLEM"
+    "mild-to-moderate tenderness": "PROBLEM"
   },
   {
     "organomegaly": "PROBLEM"
   },
   {
-    "bowel sounds": "TEST"
+    "Positive bowel sounds": "PROBLEM"
   },
   {
     "rigidity": "PROBLEM"
@@ -204,13 +210,7 @@
     "Capillary refill": "TEST"
   },
   {
-    "dorsalis pedis": "TEST"
-  },
-  {
-    "radial pulses": "TEST"
-  },
-  {
-    "Cranial nerves II through XII": "TEST"
+    "dorsalis pedis and radial pulses": "TEST"
   },
   {
     "focal deficits": "PROBLEM"
@@ -225,9 +225,6 @@
     "adenopathy": "PROBLEM"
   },
   {
-    "pain free range of motion": "TEST"
-  },
-  {
     "mild tenderness": "PROBLEM"
   },
   {
@@ -237,7 +234,7 @@
     "abrasions": "PROBLEM"
   },
   {
-    "small abrasion": "PROBLEM"
+    "a small abrasion": "PROBLEM"
   },
   {
     "lacerations": "PROBLEM"
@@ -273,7 +270,7 @@
     "acute intracranial injury": "PROBLEM"
   },
   {
-    "mucus in the left sphenoid sinus": "PROBLEM"
+    "mucus": "PROBLEM"
   },
   {
     "CT scan without contrast of the abdomen": "TEST"
@@ -285,10 +282,13 @@
     "low density in the liver": "PROBLEM"
   },
   {
-    "CT scan with contrast": "TEST"
+    "artifact": "PROBLEM"
   },
   {
     "CT scan with contrast": "TEST"
+  },
+  {
+    "A CT scan with contrast": "TEST"
   },
   {
     "bleeding": "PROBLEM"
@@ -396,10 +396,19 @@
     "muscular pain": "PROBLEM"
   },
   {
+    "general medicine": "TREATMENT"
+  },
+  {
     "accutane": "DRUG"
   },
   {
     "contusions": "PROBLEM"
+  },
+  {
+    "motor vehicle accident": "PROBLEM"
+  },
+  {
+    "motor vehicle collision": "PROBLEM"
   },
   {
     "ct scan": "TEST"

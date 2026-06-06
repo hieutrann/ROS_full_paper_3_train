@@ -6,9 +6,6 @@
     "abdominal pain": "PROBLEM"
   },
   {
-    "hernia": "PROBLEM"
-  },
-  {
     "hemorrhoidectomy": "TREATMENT"
   },
   {
@@ -24,10 +21,28 @@
     "Remeron": "DRUG"
   },
   {
-    "hernia": "PROBLEM"
+    "beers": "TREATMENT"
+  },
+  {
+    "hepatitis": "PROBLEM"
+  },
+  {
+    "blood transfusions": "TREATMENT"
+  },
+  {
+    "scleral icterus": "PROBLEM"
+  },
+  {
+    "adenopathy": "PROBLEM"
   },
   {
     "EKG": "TEST"
+  },
+  {
+    "sinus rhythm": "TEST"
+  },
+  {
+    "QT": "TEST"
   },
   {
     "Chest x-ray": "TEST"
@@ -39,7 +54,7 @@
     "electrolytes": "TEST"
   },
   {
-    "creatinine": "TEST"
+    "Creatinine": "TEST"
   },
   {
     "White count": "TEST"
@@ -54,7 +69,7 @@
     "umbilical hernia": "PROBLEM"
   },
   {
-    "repair": "TREATMENT"
+    "emergency department": "TREATMENT"
   },
   {
     "mesh": "TREATMENT"

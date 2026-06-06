@@ -1,12 +1,9 @@
 [
   {
-    "Nausea & Vomiting": "PROBLEM"
+    "nausea": "PROBLEM"
   },
   {
-    "intractable nausea and vomiting": "PROBLEM"
-  },
-  {
-    "blood-tinged vomit": "PROBLEM"
+    "vomiting": "PROBLEM"
   },
   {
     "intractable nausea": "PROBLEM"
@@ -16,6 +13,24 @@
   },
   {
     "blood-tinged vomit": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "blood-tinged vomit": "PROBLEM"
+  },
+  {
+    "alcohol": "DRUG"
+  },
+  {
+    "drugs": "DRUG"
+  },
+  {
+    "tobacco": "DRUG"
   },
   {
     "low sodium": "PROBLEM"
@@ -57,6 +72,12 @@
     "Zofran": "DRUG"
   },
   {
+    "IV": "TREATMENT"
+  },
+  {
+    "hydration": "TREATMENT"
+  },
+  {
     "Rocephin": "DRUG"
   },
   {
@@ -70,6 +91,9 @@
   },
   {
     "Maalox": "DRUG"
+  },
+  {
+    "fluids": "TREATMENT"
   },
   {
     "AST": "TEST"
@@ -96,7 +120,7 @@
     "iv hydration": "TREATMENT"
   },
   {
-    "elevated alt": "PROBLEM"
+    "elevated alt": "TEST"
   },
   {
     "nausea": "PROBLEM"

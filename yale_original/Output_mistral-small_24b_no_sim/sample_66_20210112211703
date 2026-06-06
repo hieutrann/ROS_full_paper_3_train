@@ -1,12 +1,15 @@
 [
   {
-    "cellulitis": "PROBLEM"
+    "antibiotic therapy": "TREATMENT"
   },
   {
     "cellulitis": "PROBLEM"
   },
   {
-    "antibiotic therapy": "DRUG"
+    "antibiotic therapy": "TREATMENT"
+  },
+  {
+    "cellulitis": "PROBLEM"
   },
   {
     "morbid obesity": "PROBLEM"
@@ -15,7 +18,10 @@
     "chronic lower extremity lymphedema": "PROBLEM"
   },
   {
-    "lower extremity edema": "PROBLEM"
+    "wound care": "TREATMENT"
+  },
+  {
+    "edema": "PROBLEM"
   },
   {
     "cellulitis": "PROBLEM"
@@ -30,25 +36,16 @@
     "lymphedema": "PROBLEM"
   },
   {
-    "therapy": "TREATMENT"
-  },
-  {
-    "admission": "TREATMENT"
-  },
-  {
     "lymphedema management": "TREATMENT"
   },
   {
     "stage II ulcer": "PROBLEM"
   },
   {
-    "drainage": "PROBLEM"
-  },
-  {
     "erythema": "PROBLEM"
   },
   {
-    "lymphedema": "PROBLEM"
+    "lymphedema wraps": "TREATMENT"
   },
   {
     "lower extremity cellulitis": "PROBLEM"
@@ -69,7 +66,7 @@
     "knee arthritis": "PROBLEM"
   },
   {
-    "recurrent cellulitis": "PROBLEM"
+    "cellulitis": "PROBLEM"
   },
   {
     "hysterectomy": "TREATMENT"
@@ -78,7 +75,10 @@
     "cholecystectomy": "TREATMENT"
   },
   {
-    "smoking": "PROBLEM"
+    "smoker": "PROBLEM"
+  },
+  {
+    "wine": "DRUG"
   },
   {
     "recreational drugs": "DRUG"
@@ -99,13 +99,7 @@
     "ADHESIVE TAPE ALLERGIES": "PROBLEM"
   },
   {
-    "bilateral lower extremity lymphedema": "PROBLEM"
-  },
-  {
-    "right lower extremity": "PROBLEM"
-  },
-  {
-    "left lower extremity": "PROBLEM"
+    "lymphedema": "PROBLEM"
   },
   {
     "nausea": "PROBLEM"
@@ -127,9 +121,6 @@
   },
   {
     "drainage": "PROBLEM"
-  },
-  {
-    "lower extremities": "PROBLEM"
   },
   {
     "chest pain": "PROBLEM"
@@ -156,13 +147,22 @@
     "blood pressure": "TEST"
   },
   {
-    "HEENT": "TEST"
+    "weight": "TEST"
+  },
+  {
+    "Pupils": "TEST"
   },
   {
     "Extraocular movements": "TEST"
   },
   {
-    "Neck": "TEST"
+    "Head": "TEST"
+  },
+  {
+    "ear exam": "TEST"
+  },
+  {
+    "Neck": "PROBLEM"
   },
   {
     "lymphadenopathy": "PROBLEM"
@@ -171,25 +171,13 @@
     "heart": "PROBLEM"
   },
   {
-    "Heart sounds": "PROBLEM"
+    "chest wall": "PROBLEM"
   },
   {
     "Lungs": "PROBLEM"
   },
   {
-    "Abdomen": "PROBLEM"
-  },
-  {
-    "Morbidly obese": "PROBLEM"
-  },
-  {
-    "organomegaly": "PROBLEM"
-  },
-  {
-    "lymphedema": "PROBLEM"
-  },
-  {
-    "abdominal pannus": "PROBLEM"
+    "obese": "PROBLEM"
   },
   {
     "cutaneous candidiasis": "PROBLEM"
@@ -198,28 +186,16 @@
     "lymphadenopathy": "PROBLEM"
   },
   {
-    "lymphoedema": "PROBLEM"
+    "lymphedema": "PROBLEM"
   },
   {
     "stasis dermatosis": "PROBLEM"
   },
   {
-    "warmth": "PROBLEM"
-  },
-  {
-    "tenderness": "PROBLEM"
-  },
-  {
-    "skin breakdown": "PROBLEM"
-  },
-  {
-    "stage II chronic ulcer": "PROBLEM"
+    "ulcer": "PROBLEM"
   },
   {
     "serosanguineous drainage": "PROBLEM"
-  },
-  {
-    "erythema": "PROBLEM"
   },
   {
     "cellulitis": "PROBLEM"
@@ -238,15 +214,6 @@
   },
   {
     "Central nervous system": "PROBLEM"
-  },
-  {
-    "alert and oriented x3": "TEST"
-  },
-  {
-    "cranial nerves II through XII": "TEST"
-  },
-  {
-    "focal deficit": "PROBLEM"
   },
   {
     "White cell count": "TEST"
@@ -276,7 +243,7 @@
     "eosinophils": "TEST"
   },
   {
-    "electrolyte panel": "TEST"
+    "basic electrolyte panel": "TEST"
   },
   {
     "renal function": "TEST"
@@ -315,7 +282,7 @@
     "chronic lower extremity lymphedema": "PROBLEM"
   },
   {
-    "bilateral lower extremity lymphedema": "PROBLEM"
+    "lymphedema": "PROBLEM"
   },
   {
     "cellulitis": "PROBLEM"
@@ -330,16 +297,16 @@
     "antibiotic therapy": "TREATMENT"
   },
   {
-    "lymphedema": "PROBLEM"
+    "lymphedema wraps": "TREATMENT"
   },
   {
-    "lymph": "PROBLEM"
+    "lymph edema wraps": "TREATMENT"
   },
   {
     "cellulitis": "PROBLEM"
   },
   {
-    "antibiotic": "DRUG"
+    "antibiotic therapy": "TREATMENT"
   },
   {
     "stage II ulcer": "PROBLEM"
@@ -348,7 +315,22 @@
     "wound care": "TREATMENT"
   },
   {
-    "lymphedema": "PROBLEM"
+    "lymphedema wraps": "TREATMENT"
+  },
+  {
+    "Dr.": "TREATMENT"
+  },
+  {
+    "X's group": "DRUG"
+  },
+  {
+    "Plastic Surgery": "TREATMENT"
+  },
+  {
+    "Lymphedema Management Clinic": "TREATMENT"
+  },
+  {
+    "general medicine": "TEST"
   },
   {
     "lower extremity": "PROBLEM"
@@ -370,6 +352,9 @@
   },
   {
     "antibiotic therapy": "TREATMENT"
+  },
+  {
+    "lower extremity": "PROBLEM"
   },
   {
     "cellulitis": "PROBLEM"

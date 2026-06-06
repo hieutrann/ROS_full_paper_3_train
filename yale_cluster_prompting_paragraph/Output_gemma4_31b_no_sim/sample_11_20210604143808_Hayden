@@ -1,24 +1,18 @@
 [
   {
+    "Anemia": "PROBLEM"
+  },
+  {
     "Refractory anemia": "PROBLEM"
   },
   {
     "transfusion": "TREATMENT"
-  },
-  {
-    "anemia": "PROBLEM"
   },
   {
     "hemoglobin": "TEST"
   },
   {
-    "transfusion": "TREATMENT"
-  },
-  {
     "Refractory anemia": "PROBLEM"
-  },
-  {
-    "transfusion dependent": "PROBLEM"
   },
   {
     "blood transfusion": "TREATMENT"
@@ -45,13 +39,7 @@
     "anemia": "PROBLEM"
   },
   {
-    "hemoglobin": "TEST"
-  },
-  {
     "transfusion": "TREATMENT"
-  },
-  {
-    "bleeding": "PROBLEM"
   },
   {
     "blood transfusion": "TREATMENT"
@@ -135,25 +123,13 @@
     "Feosol": "DRUG"
   },
   {
-    "VITAL SIGNS": "TEST"
-  },
-  {
     "arcus senilis": "PROBLEM"
   },
   {
     "adenopathy": "PROBLEM"
   },
   {
-    "edema": "PROBLEM"
-  },
-  {
-    "cyanosis": "PROBLEM"
-  },
-  {
     "refractory anemia": "PROBLEM"
-  },
-  {
-    "transfusion dependent": "PROBLEM"
   },
   {
     "B12": "DRUG"
@@ -166,9 +142,6 @@
   },
   {
     "Procrit": "DRUG"
-  },
-  {
-    "blood loss": "PROBLEM"
   },
   {
     "esophagogastroduodenoscopy": "TEST"
@@ -213,16 +186,16 @@
     "erythropoietin level": "TEST"
   },
   {
-    "bone marrow aspiration and biopsy": "TEST"
+    "bone marrow aspiration": "TEST"
+  },
+  {
+    "biopsy": "TEST"
   },
   {
     "refractory anemia": "PROBLEM"
   },
   {
     "ultrasound of his abdomen": "TEST"
-  },
-  {
-    "fullness of the spleen": "PROBLEM"
   },
   {
     "electrophoresis": "TEST"

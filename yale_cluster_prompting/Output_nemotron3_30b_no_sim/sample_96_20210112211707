@@ -1,0 +1,359 @@
+[
+  {
+    "General Medicine": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "fatigue": "PROBLEM"
+  },
+  {
+    "weakness": "PROBLEM"
+  },
+  {
+    "weight gain": "PROBLEM"
+  },
+  {
+    "weight loss": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "fatigue": "PROBLEM"
+  },
+  {
+    "weakness": "PROBLEM"
+  },
+  {
+    "weight gain": "PROBLEM"
+  },
+  {
+    "weight loss": "PROBLEM"
+  },
+  {
+    "denies wearing glasses": "TREATMENT"
+  },
+  {
+    "Ears": "PROBLEM"
+  },
+  {
+    "nose": "PROBLEM"
+  },
+  {
+    "mouth": "PROBLEM"
+  },
+  {
+    "throat": "PROBLEM"
+  },
+  {
+    "ringing in the ears": "PROBLEM"
+  },
+  {
+    "loss of hearing": "PROBLEM"
+  },
+  {
+    "nosebleeds": "PROBLEM"
+  },
+  {
+    "loss of sense of smell": "PROBLEM"
+  },
+  {
+    "dry sinuses": "PROBLEM"
+  },
+  {
+    "sinusitis": "PROBLEM"
+  },
+  {
+    "post nasal drip": "PROBLEM"
+  },
+  {
+    "sore tongue": "PROBLEM"
+  },
+  {
+    "bleeding gums": "PROBLEM"
+  },
+  {
+    "sores in the mouth": "PROBLEM"
+  },
+  {
+    "loss of sense of taste": "PROBLEM"
+  },
+  {
+    "dry mouth": "PROBLEM"
+  },
+  {
+    "dentures or removable dental work": "PROBLEM"
+  },
+  {
+    "frequent sore throats": "PROBLEM"
+  },
+  {
+    "hoarseness or constant feeling of a need to clear the throat when nothing is there": "PROBLEM"
+  },
+  {
+    "waking up with acid or bitter fluid in the mouth or throat": "PROBLEM"
+  },
+  {
+    "food sticking in throat when swallows or painful swallowing": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "irregular heartbeats": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "difficulty breathing at night": "PROBLEM"
+  },
+  {
+    "swollen legs or feet": "PROBLEM"
+  },
+  {
+    "heart murmurs": "PROBLEM"
+  },
+  {
+    "high blood pressure": "PROBLEM"
+  },
+  {
+    "cramps in his legs with walking": "PROBLEM"
+  },
+  {
+    "pain in his feet or toes at night": "PROBLEM"
+  },
+  {
+    "varicose veins": "PROBLEM"
+  },
+  {
+    "chronic dry cough": "PROBLEM"
+  },
+  {
+    "coughing up blood": "PROBLEM"
+  },
+  {
+    "coughing up mucus": "PROBLEM"
+  },
+  {
+    "waking at night coughing or choking": "PROBLEM"
+  },
+  {
+    "repeated pneumonias": "PROBLEM"
+  },
+  {
+    "wheezing or night sweats": "PROBLEM"
+  },
+  {
+    "heartburn": "PROBLEM"
+  },
+  {
+    "regurgitation": "PROBLEM"
+  },
+  {
+    "frequent belching": "PROBLEM"
+  },
+  {
+    "stomach pain relieved by food": "PROBLEM"
+  },
+  {
+    "yellow jaundice": "PROBLEM"
+  },
+  {
+    "diarrhea": "PROBLEM"
+  },
+  {
+    "constipation": "PROBLEM"
+  },
+  {
+    "gas": "PROBLEM"
+  },
+  {
+    "blood in the stools": "PROBLEM"
+  },
+  {
+    "black tarry stools": "PROBLEM"
+  },
+  {
+    "hemorrhoids": "PROBLEM"
+  },
+  {
+    "kidney stones": "PROBLEM"
+  },
+  {
+    "rash": "PROBLEM"
+  },
+  {
+    "ulcers": "PROBLEM"
+  },
+  {
+    "sexual difficulties": "PROBLEM"
+  },
+  {
+    "impotence": "PROBLEM"
+  },
+  {
+    "prostate trouble": "PROBLEM"
+  },
+  {
+    "sexually transmitted diseases": "PROBLEM"
+  },
+  {
+    "arm": "PROBLEM"
+  },
+  {
+    "buttock": "PROBLEM"
+  },
+  {
+    "thigh": "PROBLEM"
+  },
+  {
+    "calf": "PROBLEM"
+  },
+  {
+    "cramps": "PROBLEM"
+  },
+  {
+    "joint or muscle pain": "PROBLEM"
+  },
+  {
+    "muscle weakness or tenderness": "PROBLEM"
+  },
+  {
+    "neck pain": "PROBLEM"
+  },
+  {
+    "back pain": "PROBLEM"
+  },
+  {
+    "skin redness": "PROBLEM"
+  },
+  {
+    "skin rash": "PROBLEM"
+  },
+  {
+    "hives": "PROBLEM"
+  },
+  {
+    "breast lump": "PROBLEM"
+  },
+  {
+    "breast pain": "PROBLEM"
+  },
+  {
+    "nipple discharge": "PROBLEM"
+  },
+  {
+    "headache": "PROBLEM"
+  },
+  {
+    "dizziness": "PROBLEM"
+  },
+  {
+    "fainting": "PROBLEM"
+  },
+  {
+    "muscle spasm": "PROBLEM"
+  },
+  {
+    "loss of consciousness": "PROBLEM"
+  },
+  {
+    "sensitivity": "PROBLEM"
+  },
+  {
+    "pain in the hands and feet": "PROBLEM"
+  },
+  {
+    "memory loss": "PROBLEM"
+  },
+  {
+    "depression": "PROBLEM"
+  },
+  {
+    "head telling ?": "PROBLEM"
+  },
+  {
+    "psychiatric counseling": "TREATMENT"
+  },
+  {
+    "intolerance to hot or cold temperature": "PROBLEM"
+  },
+  {
+    "flushing": "PROBLEM"
+  },
+  {
+    "fingernail changes": "PROBLEM"
+  },
+  {
+    "increased thirst": "PROBLEM"
+  },
+  {
+    "increased salt intake": "PROBLEM"
+  },
+  {
+    "decreased sexual desire": "PROBLEM"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "bleeding tendency": "PROBLEM"
+  },
+  {
+    "clotting tendency": "PROBLEM"
+  },
+  {
+    "rhinitis": "PROBLEM"
+  },
+  {
+    "asthma": "PROBLEM"
+  },
+  {
+    "skin sensitivity": "PROBLEM"
+  },
+  {
+    "latex allergies": "PROBLEM"
+  },
+  {
+    "sensitivity": "PROBLEM"
+  },
+  {
+    "cardiovascular": "PROBLEM"
+  },
+  {
+    "ears": "PROBLEM"
+  },
+  {
+    "eyes": "PROBLEM"
+  },
+  {
+    "gastrointestinal": "PROBLEM"
+  },
+  {
+    "head": "PROBLEM"
+  },
+  {
+    "nose": "PROBLEM"
+  },
+  {
+    "respiratory": "PROBLEM"
+  },
+  {
+    "review of systems": "PROBLEM"
+  },
+  {
+    "denies fever": "PROBLEM"
+  },
+  {
+    "blood": "PROBLEM"
+  },
+  {
+    "tongue": "PROBLEM"
+  },
+  {
+    "loss": "PROBLEM"
+  }
+]

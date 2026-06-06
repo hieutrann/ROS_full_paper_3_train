@@ -3,37 +3,10 @@
     "shoulder pain": "PROBLEM"
   },
   {
-    "shoulder": "PROBLEM"
+    "muscular strain": "PROBLEM"
   },
   {
-    "pain": "PROBLEM"
-  },
-  {
-    "cervical radiculopathies": "PROBLEM"
-  },
-  {
-    "cardiac": "PROBLEM"
-  },
-  {
-    "pulmonary": "PROBLEM"
-  },
-  {
-    "GI": "PROBLEM"
-  },
-  {
-    "GU": "PROBLEM"
-  },
-  {
-    "neurologic": "PROBLEM"
-  },
-  {
-    "musculoskeletal": "PROBLEM"
-  },
-  {
-    "endocrine": "PROBLEM"
-  },
-  {
-    "abnormalities": "PROBLEM"
+    "impingement": "PROBLEM"
   },
   {
     "Claritin": "DRUG"
@@ -52,51 +25,6 @@
   },
   {
     "temperature": "TEST"
-  },
-  {
-    "neurologic examination": "TEST"
-  },
-  {
-    "ENT examination": "TEST"
-  },
-  {
-    "oropharynx": "TEST"
-  },
-  {
-    "nasopharynx": "TEST"
-  },
-  {
-    "tympanic membranes": "TEST"
-  },
-  {
-    "Neck": "TEST"
-  },
-  {
-    "adenopathy": "PROBLEM"
-  },
-  {
-    "thyromegaly": "PROBLEM"
-  },
-  {
-    "Cardiovascular": "TEST"
-  },
-  {
-    "Lungs": "TEST"
-  },
-  {
-    "Abdomen": "TEST"
-  },
-  {
-    "shoulder": "PROBLEM"
-  },
-  {
-    "subacromial space": "PROBLEM"
-  },
-  {
-    "abduction": "TEST"
-  },
-  {
-    "flexion": "TEST"
   },
   {
     "Neer's": "TEST"
@@ -121,17 +49,5 @@
   },
   {
     "MRI": "TEST"
-  },
-  {
-    "muscular": "PROBLEM"
-  },
-  {
-    "strain": "PROBLEM"
-  },
-  {
-    "impingement": "PROBLEM"
-  },
-  {
-    "examination": "TEST"
   }
 ]

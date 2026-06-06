@@ -3,19 +3,16 @@
     "right knee surgery": "PROBLEM"
   },
   {
-    "right knee surgery": "PROBLEM"
+    "right knee surgery": "TREATMENT"
+  },
+  {
+    "right total knee replacement": "TREATMENT"
   },
   {
     "degenerative joint disease": "PROBLEM"
   },
   {
-    "autologous blood": "DRUG"
-  },
-  {
-    "DVT": "PROBLEM"
-  },
-  {
-    "prophylaxis": "TREATMENT"
+    "autologous blood": "TREATMENT"
   },
   {
     "Coumadin": "DRUG"
@@ -111,7 +108,13 @@
     "right knee pain": "PROBLEM"
   },
   {
-    "Sclerae nonicteric": "PROBLEM"
+    "sclerae": "PROBLEM"
+  },
+  {
+    "EOMI": "TEST"
+  },
+  {
+    "Dentition": "PROBLEM"
   },
   {
     "thrush": "PROBLEM"
@@ -135,16 +138,10 @@
     "S2": "TEST"
   },
   {
-    "Soft": "PROBLEM"
+    "right knee incision": "PROBLEM"
   },
   {
-    "nontender": "PROBLEM"
-  },
-  {
-    "nondistended": "PROBLEM"
-  },
-  {
-    "incision": "TREATMENT"
+    "Steri-Strips": "TREATMENT"
   },
   {
     "right knee edema": "PROBLEM"
@@ -162,10 +159,7 @@
     "anxious": "PROBLEM"
   },
   {
-    "alert": "PROBLEM"
-  },
-  {
-    "oriented": "PROBLEM"
+    "alert and oriented": "PROBLEM"
   },
   {
     "Physical Therapy": "TREATMENT"
@@ -195,6 +189,9 @@
     "Ativan": "DRUG"
   },
   {
+    "Ativan": "DRUG"
+  },
+  {
     "anxiety disorder": "PROBLEM"
   },
   {
@@ -204,19 +201,13 @@
     "rash": "PROBLEM"
   },
   {
-    "itchy": "PROBLEM"
-  },
-  {
     "gardening": "PROBLEM"
-  },
-  {
-    "surgery": "TREATMENT"
   },
   {
     "contact dermatitis": "PROBLEM"
   },
   {
-    "betamethasone": "DRUG"
+    "betamethasone cream": "DRUG"
   },
   {
     "rash": "PROBLEM"
@@ -231,16 +222,16 @@
     "Percocet": "DRUG"
   },
   {
-    "oxycodone SR": "DRUG"
+    "oxycodone SR 20 mg b.i.d.": "DRUG"
   },
   {
     "Percocet": "DRUG"
   },
   {
-    "DVT": "PROBLEM"
+    "DVT prophylaxis": "TREATMENT"
   },
   {
-    "Lovenox": "DRUG"
+    "Lovenox 40 mg": "DRUG"
   },
   {
     "INR": "TEST"
@@ -289,6 +280,12 @@
   },
   {
     "fasting glucose": "TEST"
+  },
+  {
+    "chemistries": "TEST"
+  },
+  {
+    "DISCHARGE DIAGNOSES": "TEST"
   },
   {
     "right total knee replacement": "TREATMENT"
@@ -354,16 +351,25 @@
     "right abdomen": "PROBLEM"
   },
   {
-    "oxycodone SR": "DRUG"
+    "oxycodone SR 20 mg p.o.": "DRUG"
   },
   {
     "oxycodone SR": "DRUG"
   },
   {
-    "Percocet": "DRUG"
+    "Percocet 5/325 mg": "DRUG"
   },
   {
-    "trazodone": "DRUG"
+    "p.r.n.": "TREATMENT"
+  },
+  {
+    "breakthrough pain": "PROBLEM"
+  },
+  {
+    "trazodone 50 mg p.o.": "DRUG"
+  },
+  {
+    "bedtime": "TREATMENT"
   },
   {
     "Ativan": "DRUG"
@@ -376,12 +382,6 @@
   },
   {
     "INRs": "TEST"
-  },
-  {
-    "Monday": "TEST"
-  },
-  {
-    "Thursday": "TEST"
   },
   {
     "Coumadin": "DRUG"

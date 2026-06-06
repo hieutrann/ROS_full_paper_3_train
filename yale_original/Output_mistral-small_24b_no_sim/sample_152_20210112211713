@@ -15,13 +15,19 @@
     "menometrorrhagia": "PROBLEM"
   },
   {
+    "medical therapy": "TREATMENT"
+  },
+  {
     "anemia": "PROBLEM"
   },
   {
     "fibroid uterus": "PROBLEM"
   },
   {
-    "Severe menometrorrhagia": "PROBLEM"
+    "ADMISSION DIAGNOSES": "TEST"
+  },
+  {
+    "menometrorrhagia": "PROBLEM"
   },
   {
     "medical therapy": "TREATMENT"
@@ -33,7 +39,10 @@
     "Fibroid uterus": "PROBLEM"
   },
   {
-    "Severe menometrorrhagia": "PROBLEM"
+    "DISCHARGE DIAGNOSES": "TEST"
+  },
+  {
+    "menometrorrhagia": "PROBLEM"
   },
   {
     "medical therapy": "TREATMENT"
@@ -43,6 +52,9 @@
   },
   {
     "Fibroid uterus": "PROBLEM"
+  },
+  {
+    "OPERATIONS PERFORMED": "TEST"
   },
   {
     "Hysteroscopy": "TEST"
@@ -54,13 +66,16 @@
     "Myomectomy": "TREATMENT"
   },
   {
-    "endometrial cavity fibroid": "PROBLEM"
+    "fibroid": "PROBLEM"
   },
   {
     "BLOOD TRANSFUSIONS": "TREATMENT"
   },
   {
-    "packed red blood cells": "DRUG"
+    "packed red blood cells": "TREATMENT"
+  },
+  {
+    "INFECTION": "PROBLEM"
   },
   {
     "hematocrit": "TEST"
@@ -72,25 +87,16 @@
     "dilatation and curettage": "TREATMENT"
   },
   {
+    "fibroid": "PROBLEM"
+  },
+  {
     "Hysteroscopy": "TEST"
   },
   {
     "fibroid": "PROBLEM"
   },
   {
-    "fibroid": "PROBLEM"
-  },
-  {
-    "shaving": "TREATMENT"
-  },
-  {
-    "excision": "TREATMENT"
-  },
-  {
-    "removal": "TREATMENT"
-  },
-  {
-    "fibroid": "PROBLEM"
+    "fibroid": "TREATMENT"
   },
   {
     "Hemostasis": "PROBLEM"
@@ -102,28 +108,40 @@
     "intraoperative blood loss": "PROBLEM"
   },
   {
+    "ambulating": "PROBLEM"
+  },
+  {
+    "Stable": "PROBLEM"
+  },
+  {
     "diet": "TREATMENT"
   },
   {
     "bedrest": "TREATMENT"
   },
   {
-    "pelvic rest": "TREATMENT"
+    "Vicodin tablets": "DRUG"
   },
   {
-    "Vicodin": "DRUG"
+    "q.4-6 h. p.r.n.": "DRUG"
   },
   {
     "pain": "PROBLEM"
   },
   {
-    "vitamin": "DRUG"
+    "multiple vitamin": "DRUG"
   },
   {
-    "ferrous sulfate": "DRUG"
+    "ferrous sulfate tablets": "DRUG"
   },
   {
-    "ambulate": "TREATMENT"
+    "assistance": "TREATMENT"
+  },
+  {
+    "X": "DRUG"
+  },
+  {
+    "discharge summary": "TEST"
   },
   {
     "d&c": "TREATMENT"

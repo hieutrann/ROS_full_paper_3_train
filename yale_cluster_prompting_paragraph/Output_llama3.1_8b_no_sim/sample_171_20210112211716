@@ -3,13 +3,10 @@
     "Nonischemic cardiomyopathy": "PROBLEM"
   },
   {
-    "branch vessel coronary artery disease": "PROBLEM"
+    "Branch vessel coronary artery disease": "PROBLEM"
   },
   {
     "Congestive heart failure": "PROBLEM"
-  },
-  {
-    "nonsustained ventricular tachycardia": "PROBLEM"
   },
   {
     "Hypertension": "PROBLEM"
@@ -18,25 +15,10 @@
     "Hepatitis C": "PROBLEM"
   },
   {
-    "CHF exacerbation": "PROBLEM"
+    "NYHA Class III": "PROBLEM"
   },
   {
-    "shortness of breath": "PROBLEM"
-  },
-  {
-    "orthopnea": "PROBLEM"
-  },
-  {
-    "PND": "PROBLEM"
-  },
-  {
-    "right upper quadrant pain": "PROBLEM"
-  },
-  {
-    "nausea": "PROBLEM"
-  },
-  {
-    "hypertension": "PROBLEM"
+    "nonsustained ventricular tachycardia": "PROBLEM"
   },
   {
     "Lasix": "DRUG"
@@ -66,57 +48,9 @@
     "ALT": "TEST"
   },
   {
-    "VITAL SIGNS": "TEST"
+    "physical therapy": "TREATMENT"
   },
   {
-    "pulse": "TEST"
-  },
-  {
-    "blood pressure": "TEST"
-  },
-  {
-    "weight": "TEST"
-  },
-  {
-    "pulse ox": "TEST"
-  },
-  {
-    "S1": "TEST"
-  },
-  {
-    "S2": "TEST"
-  },
-  {
-    "S3": "TEST"
-  },
-  {
-    "S4": "TEST"
-  },
-  {
-    "Liver": "TEST"
-  },
-  {
-    "EXTREMITIES": "TEST"
-  },
-  {
-    "1+ edema": "TEST"
-  },
-  {
-    "Lasix": "TREATMENT"
-  },
-  {
-    "hydralazine": "TREATMENT"
-  },
-  {
-    "Toprol": "TREATMENT"
-  },
-  {
-    "lisinopril": "TREATMENT"
-  },
-  {
-    "Aldactone": "TREATMENT"
-  },
-  {
-    "bypass surgery": "TREATMENT"
+    "gastroenterologist": "TREATMENT"
   }
 ]

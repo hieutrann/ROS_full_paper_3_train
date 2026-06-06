@@ -1,5 +1,11 @@
 [
   {
+    "laparoscopic Roux-en-Y gastric bypass": "TREATMENT"
+  },
+  {
+    "laparoscopic Roux-en-Y gastric bypass": "PROBLEM"
+  },
+  {
     "Morbid obesity": "PROBLEM"
   },
   {
@@ -30,16 +36,7 @@
     "Medifast": "DRUG"
   },
   {
-    "bariatric surgery": "TREATMENT"
-  },
-  {
-    "OR": "TEST"
-  },
-  {
-    "gastric bypass": "TREATMENT"
-  },
-  {
-    "PACU": "TEST"
+    "laparoscopic Roux-en-Y gastric bypass": "TREATMENT"
   },
   {
     "DVT prophylaxis": "TREATMENT"
@@ -63,9 +60,6 @@
     "bariatric clear liquids": "TREATMENT"
   },
   {
-    "discharge": "TREATMENT"
-  },
-  {
     "omeprazole": "DRUG"
   },
   {
@@ -73,11 +67,5 @@
   },
   {
     "bariatric clear liquids": "TREATMENT"
-  },
-  {
-    "drain site care": "TREATMENT"
-  },
-  {
-    "wound care": "TREATMENT"
   }
 ]

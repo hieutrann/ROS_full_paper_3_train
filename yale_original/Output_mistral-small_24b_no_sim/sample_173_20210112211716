@@ -6,6 +6,9 @@
     "cardiac arrhythmia": "PROBLEM"
   },
   {
+    "pacemaker": "TREATMENT"
+  },
+  {
     "AV block": "PROBLEM"
   },
   {
@@ -13,6 +16,9 @@
   },
   {
     "depression": "PROBLEM"
+  },
+  {
+    "PROBLEM LIST": "TEST"
   },
   {
     "Refractory hypertension": "PROBLEM"
@@ -31,6 +37,9 @@
   },
   {
     "depression": "PROBLEM"
+  },
+  {
+    "renal": "PROBLEM"
   },
   {
     "antihypertensive medications": "DRUG"
@@ -84,13 +93,10 @@
     "right buttock": "PROBLEM"
   },
   {
-    "spine": "PROBLEM"
-  },
-  {
     "extremity pain": "PROBLEM"
   },
   {
-    "Triamterene/hydrochlorothiazide": "DRUG"
+    "Triamterene/hydrochlorothiazide 37.5/25 mg.": "DRUG"
   },
   {
     "Norvasc": "DRUG"
@@ -108,22 +114,10 @@
     "Temperature": "TEST"
   },
   {
-    "pulse": "TEST"
-  },
-  {
-    "respirations": "TEST"
-  },
-  {
     "blood pressure": "TEST"
   },
   {
     "lungs": "PROBLEM"
-  },
-  {
-    "PA": "TEST"
-  },
-  {
-    "lateral": "TEST"
   },
   {
     "rate": "TEST"
@@ -132,22 +126,25 @@
     "rhythm": "TEST"
   },
   {
-    "S1 and S2": "TEST"
+    "murmur": "PROBLEM"
   },
   {
     "murmur": "PROBLEM"
   },
   {
-    "plane": "PROBLEM"
+    "ABDOMEN": "PROBLEM"
   },
   {
     "edema": "PROBLEM"
   },
   {
-    "hypertension": "PROBLEM"
+    "refractory hypertension": "PROBLEM"
   },
   {
     "blood pressure": "TEST"
+  },
+  {
+    "internist": "TREATMENT"
   },
   {
     "GFR": "TEST"

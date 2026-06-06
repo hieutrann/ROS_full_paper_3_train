@@ -1,6 +1,6 @@
 [
   {
-    "gastroenteritis": "PROBLEM"
+    "Gastroenteritis": "PROBLEM"
   },
   {
     "autism": "PROBLEM"
@@ -15,10 +15,10 @@
     "vomiting": "PROBLEM"
   },
   {
-    "weight loss": "PROBLEM"
+    "diarrhea": "PROBLEM"
   },
   {
-    "MiraLax": "DRUG"
+    "weight loss": "PROBLEM"
   },
   {
     "Adderall": "DRUG"
@@ -27,31 +27,13 @@
     "clonidine": "DRUG"
   },
   {
-    "Gastroenteritis": "PROBLEM"
+    "MiraLax": "DRUG"
   },
   {
-    "Autism": "PROBLEM"
+    "chest x-ray": "TEST"
   },
   {
-    "Regular for age": "TREATMENT"
-  },
-  {
-    "Adderall and clonidine": "DRUG"
-  },
-  {
-    "Follow up with Dr. X": "TREATMENT"
-  },
-  {
-    "IV fluids": "TREATMENT"
-  },
-  {
-    "clear liquids": "TREATMENT"
-  },
-  {
-    "regular diet": "TREATMENT"
-  },
-  {
-    "Thyroid peroxidase antibody studies": "TEST"
+    "abdominal films": "TEST"
   },
   {
     "sedimentation rate": "TEST"
@@ -64,12 +46,6 @@
   },
   {
     "free T4": "TEST"
-  },
-  {
-    "Chest x-ray": "TEST"
-  },
-  {
-    "abdominal films": "TEST"
   },
   {
     "Hemoglobin": "TEST"
@@ -87,49 +63,22 @@
     "Urinalysis": "TEST"
   },
   {
-    "Sodium": "TEST"
+    "Chest x-ray": "TEST"
   },
   {
-    "potassium": "TEST"
+    "abdominal films": "TEST"
   },
   {
-    "chloride": "TEST"
+    "IV fluids": "TREATMENT"
   },
   {
-    "CO2": "TEST"
+    "clear liquids": "TREATMENT"
   },
   {
-    "BUN": "TEST"
+    "regular diet": "TREATMENT"
   },
   {
-    "creatinine": "TEST"
-  },
-  {
-    "anion gap": "TEST"
-  },
-  {
-    "glucose": "TEST"
-  },
-  {
-    "total protein": "TEST"
-  },
-  {
-    "albumin": "TEST"
-  },
-  {
-    "calcium": "TEST"
-  },
-  {
-    "bilirubin": "TEST"
-  },
-  {
-    "AST": "TEST"
-  },
-  {
-    "ALT": "TEST"
-  },
-  {
-    "alkaline phosphatase": "TEST"
+    "barium enema": "TREATMENT"
   },
   {
     "thyroid peroxidase antibody studies": "TEST"

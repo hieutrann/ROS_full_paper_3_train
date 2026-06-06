@@ -6,13 +6,16 @@
     "atrial fibrillation": "PROBLEM"
   },
   {
-    "large cardioembolic stroke": "PROBLEM"
+    "cardioembolic stroke": "PROBLEM"
   },
   {
     "stroke": "PROBLEM"
   },
   {
     "CT scan of the head": "TEST"
+  },
+  {
+    "protocol medication": "DRUG"
   },
   {
     "TPA": "DRUG"
@@ -33,10 +36,16 @@
     "Cardizem": "DRUG"
   },
   {
-    "large stroke": "PROBLEM"
+    "study drug": "DRUG"
+  },
+  {
+    "stroke": "PROBLEM"
   },
   {
     "cardioembolic": "PROBLEM"
+  },
+  {
+    "study drug": "DRUG"
   },
   {
     "TPA": "DRUG"
@@ -69,13 +78,10 @@
     "distal clot": "PROBLEM"
   },
   {
-    "prognosis": "PROBLEM"
-  },
-  {
     "echocardiogram": "TEST"
   },
   {
-    "large clot in the heart": "PROBLEM"
+    "clot in the heart": "PROBLEM"
   },
   {
     "patent foramen ovale": "PROBLEM"
@@ -195,6 +201,9 @@
     "MI": "PROBLEM"
   },
   {
+    "VACCINATION STATUS": "TEST"
+  },
+  {
     "temperature": "TEST"
   },
   {
@@ -205,6 +214,12 @@
   },
   {
     "respirations": "TEST"
+  },
+  {
+    "vital signs": "TEST"
+  },
+  {
+    "physical exam": "TEST"
   },
   {
     "white count": "TEST"
@@ -363,6 +378,9 @@
     "Cardizem": "DRUG"
   },
   {
+    "Cardizem drip": "TREATMENT"
+  },
+  {
     "atrial fibrillation": "PROBLEM"
   },
   {
@@ -453,7 +471,7 @@
     "brain swelling": "PROBLEM"
   },
   {
-    "electrolytes": "TEST"
+    "electrolytes": "DRUG"
   },
   {
     "Deep vein thrombosis": "PROBLEM"
@@ -478,9 +496,6 @@
   },
   {
     "neurologic prognosis": "PROBLEM"
-  },
-  {
-    "medication treatment": "TREATMENT"
   },
   {
     "critical care": "TREATMENT"

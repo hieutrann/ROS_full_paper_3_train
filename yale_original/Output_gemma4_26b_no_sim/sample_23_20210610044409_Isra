@@ -1,5 +1,8 @@
 [
   {
+    "Female Exam": "TEST"
+  },
+  {
     "Blood pressure": "TEST"
   },
   {
@@ -12,13 +15,13 @@
     "temperature": "TEST"
   },
   {
-    "EOMI": "TEST"
-  },
-  {
     "PERRLA": "TEST"
   },
   {
     "Funduscopic examination": "TEST"
+  },
+  {
+    "dental work": "TREATMENT"
   },
   {
     "bruit": "PROBLEM"
@@ -33,34 +36,16 @@
     "thyroid abnormality": "PROBLEM"
   },
   {
-    "S1 and S2": "TEST"
+    "S1": "TEST"
   },
   {
-    "murmur": "PROBLEM"
-  },
-  {
-    "heave": "PROBLEM"
-  },
-  {
-    "click": "PROBLEM"
-  },
-  {
-    "lift": "PROBLEM"
-  },
-  {
-    "thrill": "PROBLEM"
-  },
-  {
-    "rub": "PROBLEM"
-  },
-  {
-    "gallop": "PROBLEM"
+    "S2": "TEST"
   },
   {
     "PMI nondisplaced": "PROBLEM"
   },
   {
-    "axillary or supraclavicular adenopathy": "PROBLEM"
+    "adenopathy": "PROBLEM"
   },
   {
     "hepatosplenomegaly": "PROBLEM"
@@ -81,16 +66,13 @@
     "guarding": "PROBLEM"
   },
   {
-    "intraabdominal bruit": "PROBLEM"
+    "aortic impulse": "TEST"
   },
   {
     "Hemoccult": "TEST"
   },
   {
-    "negative stool": "PROBLEM"
-  },
-  {
-    "distal pulse": "TEST"
+    "stool": "PROBLEM"
   },
   {
     "edema": "PROBLEM"
@@ -103,9 +85,6 @@
   },
   {
     "deep venous thrombosis": "PROBLEM"
-  },
-  {
-    "range of motion": "TEST"
   },
   {
     "spinous process tenderness": "PROBLEM"
@@ -123,19 +102,10 @@
     "Brudzinski signs": "TEST"
   },
   {
-    "cranial and peripheral nervous systems": "PROBLEM"
+    "premalignant condition": "PROBLEM"
   },
   {
-    "strength": "TEST"
-  },
-  {
-    "sensation": "TEST"
-  },
-  {
-    "cerebellar function": "TEST"
-  },
-  {
-    "Gait and station": "TEST"
+    "malignant condition": "PROBLEM"
   },
   {
     "hepatosplenomegaly": "PROBLEM"

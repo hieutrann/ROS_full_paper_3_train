@@ -1,11 +1,5 @@
 [
   {
-    "Radiology": "TEST"
-  },
-  {
-    "Full-Field Digital Mammogram": "TEST"
-  },
-  {
     "Bilateral Screening Mammogram": "TEST"
   },
   {
@@ -30,7 +24,10 @@
     "mediolateral oblique projections": "TEST"
   },
   {
-    "bilateral breasts": "PROBLEM"
+    "bilateral breasts": "TEST"
+  },
+  {
+    "iCAD Second Look proprietary software": "TEST"
   },
   {
     "breasts": "PROBLEM"
@@ -48,28 +45,37 @@
     "malignant-type calcifications": "PROBLEM"
   },
   {
+    "breasts": "PROBLEM"
+  },
+  {
     "mammographic findings": "PROBLEM"
   },
   {
     "mammographic screening": "TEST"
   },
   {
-    "BIRADS Classification": "TEST"
+    "BIRADS Classification 2": "TEST"
+  },
+  {
+    "Benign": "PROBLEM"
+  },
+  {
+    "MAMMOGRAPHY": "TEST"
   },
   {
     "cancers": "PROBLEM"
   },
   {
-    "biopsy": "TREATMENT"
+    "mammography": "TEST"
   },
   {
-    "malignancy": "PROBLEM"
+    "biopsy": "TEST"
   },
   {
     "mass": "PROBLEM"
   },
   {
-    "FDA-approved digital mammography equipment": "TEST"
+    "digital mammography": "TEST"
   },
   {
     "iCAD SecondLook Software Version 7.2": "TEST"

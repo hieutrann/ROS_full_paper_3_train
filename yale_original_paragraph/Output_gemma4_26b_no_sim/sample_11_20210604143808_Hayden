@@ -1,12 +1,9 @@
 [
   {
-    "Anemia": "PROBLEM"
-  },
-  {
-    "Refractory anemia": "PROBLEM"
-  },
-  {
     "anemia": "PROBLEM"
+  },
+  {
+    "refractory anemia": "PROBLEM"
   },
   {
     "hemoglobin": "TEST"
@@ -34,9 +31,6 @@
   },
   {
     "bleeding": "PROBLEM"
-  },
-  {
-    "blood transfusion": "TREATMENT"
   },
   {
     "B12": "DRUG"
@@ -76,9 +70,6 @@
   },
   {
     "myalgias": "PROBLEM"
-  },
-  {
-    "Diabetes": "PROBLEM"
   },
   {
     "Hernia repair": "TREATMENT"
@@ -129,22 +120,13 @@
     "cyanosis": "PROBLEM"
   },
   {
-    "refractory anemia": "PROBLEM"
-  },
-  {
-    "blood loss": "PROBLEM"
-  },
-  {
-    "esophagogastroduodenoscopy": "TEST"
-  },
-  {
-    "creatinine": "TEST"
-  },
-  {
     "myelodysplastic syndrome": "PROBLEM"
   },
   {
     "bone marrow failure": "PROBLEM"
+  },
+  {
+    "creatinine": "TEST"
   },
   {
     "reticulocyte count": "TEST"
@@ -172,38 +154,5 @@
   },
   {
     "ultrasound": "TEST"
-  },
-  {
-    "electrophoresis": "TEST"
-  },
-  {
-    "ldh": "TEST"
-  },
-  {
-    "b12": "DRUG"
-  },
-  {
-    "folate": "DRUG"
-  },
-  {
-    "erythropoietin level": "TEST"
-  },
-  {
-    "reticulocyte count": "TEST"
-  },
-  {
-    "serum protein": "TEST"
-  },
-  {
-    "blood transfusion": "TREATMENT"
-  },
-  {
-    "refractory anemia": "PROBLEM"
-  },
-  {
-    "anemia": "PROBLEM"
-  },
-  {
-    "myalgias": "PROBLEM"
   }
 ]

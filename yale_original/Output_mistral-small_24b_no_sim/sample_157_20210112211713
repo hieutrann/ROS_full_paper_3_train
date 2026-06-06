@@ -21,6 +21,9 @@
     "Abdominal pain": "PROBLEM"
   },
   {
+    "female": "PROBLEM"
+  },
+  {
     "abdominal pain": "PROBLEM"
   },
   {
@@ -51,13 +54,13 @@
     "hypertension": "PROBLEM"
   },
   {
-    "pollems": "PROBLEM"
+    "POLLENS": "PROBLEM"
   },
   {
     "alprazolam": "DRUG"
   },
   {
-    "p.r.n.": "DRUG"
+    "p.r.n.": "TREATMENT"
   },
   {
     "mirtazapine": "DRUG"
@@ -69,10 +72,10 @@
     "Namenda": "DRUG"
   },
   {
-    "b.i.d.": "DRUG"
+    "b.i.d.": "TREATMENT"
   },
   {
-    "Benicar": "DRUG"
+    "Benicar 40 mg": "DRUG"
   },
   {
     "Claritin": "DRUG"
@@ -81,13 +84,7 @@
     "dementia": "PROBLEM"
   },
   {
-    "awake": "TEST"
-  },
-  {
-    "alert": "TEST"
-  },
-  {
-    "acute distress": "PROBLEM"
+    "PHYSICAL EXAMINATION": "TEST"
   },
   {
     "Temperature": "TEST"
@@ -108,13 +105,22 @@
     "Pupils": "TEST"
   },
   {
-    "Throat": "PROBLEM"
+    "Sclerae": "TEST"
   },
   {
-    "jugular venous distention": "TEST"
+    "conjunctivae": "TEST"
   },
   {
-    "bruit": "PROBLEM"
+    "pharyngeal inflammation": "PROBLEM"
+  },
+  {
+    "exudate": "PROBLEM"
+  },
+  {
+    "Oral mucosa": "TEST"
+  },
+  {
+    "jugular venous distention": "PROBLEM"
   },
   {
     "Thyroid gland": "PROBLEM"
@@ -123,28 +129,28 @@
     "lymph nodes": "PROBLEM"
   },
   {
-    "S1 and S2": "TEST"
+    "S1": "TEST"
   },
   {
-    "murmur": "PROBLEM"
+    "S2": "TEST"
   },
   {
     "LUNGS": "PROBLEM"
   },
   {
-    "Soft": "PROBLEM"
-  },
-  {
     "tender": "PROBLEM"
   },
   {
-    "rebound": "TEST"
+    "rebound": "PROBLEM"
   },
   {
     "rigidity": "PROBLEM"
   },
   {
-    "Bowel sounds": "PROBLEM"
+    "Bowel sounds": "TEST"
+  },
+  {
+    "tenderness": "PROBLEM"
   },
   {
     "epigastric region": "PROBLEM"
@@ -154,6 +160,9 @@
   },
   {
     "dorsalis pedis pulsations": "TEST"
+  },
+  {
+    "BREASTS": "TEST"
   },
   {
     "decubitus": "PROBLEM"
@@ -234,19 +243,13 @@
     "lipase": "TEST"
   },
   {
-    "X-ray": "TEST"
-  },
-  {
-    "abdomen": "PROBLEM"
-  },
-  {
     "splenic granulomas": "PROBLEM"
   },
   {
     "degenerative spine changes": "PROBLEM"
   },
   {
-    "CT of the abdomen": "TEST"
+    "X-ray": "TEST"
   },
   {
     "acute pancreatitis": "PROBLEM"
@@ -258,10 +261,10 @@
     "right lung base atelectasis": "PROBLEM"
   },
   {
-    "Ultrasound": "TEST"
+    "CT": "TEST"
   },
   {
-    "abdomen": "TEST"
+    "Ultrasound": "TEST"
   },
   {
     "echogenic liver": "PROBLEM"
@@ -381,10 +384,7 @@
     "pain control": "TREATMENT"
   },
   {
-    "Zofran": "DRUG"
-  },
-  {
-    "IV": "DRUG"
+    "Zofran IV p.r.n.": "DRUG"
   },
   {
     "bedrest": "TREATMENT"
@@ -393,13 +393,10 @@
     "DVT prophylaxis": "TREATMENT"
   },
   {
-    "blood": "TEST"
+    "blood cultures": "TEST"
   },
   {
-    "urine": "TEST"
-  },
-  {
-    "cultures": "TEST"
+    "urine cultures": "TEST"
   },
   {
     "leukocytosis": "PROBLEM"
@@ -408,30 +405,33 @@
     "abdominal pain": "PROBLEM"
   },
   {
-    "acute pancreatitis": "PROBLEM"
-  },
-  {
-    "vomiting": "PROBLEM"
-  },
-  {
-    "abdominal": "PROBLEM"
-  },
-  {
-    "dementia": "PROBLEM"
-  },
-  {
-    "nausea": "PROBLEM"
-  },
-  {
     "lipase count": "TEST"
   },
   {
     "platelet count": "TEST"
   },
   {
-    "lipase": "TEST"
+    "potassium chloride": "DRUG"
+  },
+  {
+    "acute pancreatitis": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "dementia": "PROBLEM"
   },
   {
     "amylase": "TEST"
+  },
+  {
+    "lipase": "TEST"
+  },
+  {
+    "pancreatitis": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
   }
 ]

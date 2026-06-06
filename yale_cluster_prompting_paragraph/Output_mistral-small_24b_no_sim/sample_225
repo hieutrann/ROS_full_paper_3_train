@@ -9,19 +9,22 @@
     "pain": "PROBLEM"
   },
   {
-    "blurriness of vision": "PROBLEM"
+    "blurriness": "PROBLEM"
   },
   {
     "photophobia": "PROBLEM"
   },
   {
-    "foreign body sensation": "PROBLEM"
+    "ophthalmologic problems": "PROBLEM"
   },
   {
-    "foreign body OS": "PROBLEM"
+    "dislocated wrist": "PROBLEM"
   },
   {
-    "Vital signs": "TEST"
+    "cancer": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
   },
   {
     "Blood pressure": "TEST"
@@ -42,12 +45,9 @@
     "slit lamp examination": "TEST"
   },
   {
-    "surgeries": "TREATMENT"
-  },
-  {
     "pressure patch": "TREATMENT"
   },
   {
-    "closing visit": "TREATMENT"
+    "slit lamp": "TREATMENT"
   }
 ]

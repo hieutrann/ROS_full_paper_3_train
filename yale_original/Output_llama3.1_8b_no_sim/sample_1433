@@ -33,7 +33,7 @@
     "dysuria": "PROBLEM"
   },
   {
-    "gross hematuria": "PROBLEM"
+    "hematuria": "PROBLEM"
   },
   {
     "fever": "PROBLEM"
@@ -42,22 +42,22 @@
     "chills": "PROBLEM"
   },
   {
-    "Daytime frequency": "PROBLEM"
+    "frequency": "PROBLEM"
   },
   {
     "nocturia": "PROBLEM"
   },
   {
-    "good stream": "PROBLEM"
+    "stream": "TEST"
   },
   {
     "PSA": "PROBLEM"
   },
   {
-    "high grade PIN": "PROBLEM"
+    "biopsy": "TEST"
   },
   {
-    "biopsy": "TEST"
+    "PIN": "PROBLEM"
   },
   {
     "PSA": "TEST"
@@ -66,10 +66,7 @@
     "Dr.": "TREATMENT"
   },
   {
-    "X's notes": "PROBLEM"
-  },
-  {
-    "IMPRESSION": "PROBLEM"
+    "IMPRESSION": "TEST"
   },
   {
     "erectile dysfunction": "PROBLEM"
@@ -93,19 +90,25 @@
     "pump": "TREATMENT"
   },
   {
-    "2": "TEST"
+    "2": "TREATMENT"
   },
   {
-    "PSA": "PROBLEM"
+    "PSA": "TEST"
   },
   {
-    "high-grade PIN": "PROBLEM"
+    "biopsy": "TEST"
+  },
+  {
+    "PIN": "PROBLEM"
   },
   {
     "prostate ultrasound": "TEST"
   },
   {
     "biopsy": "TEST"
+  },
+  {
+    "Dr.": "TREATMENT"
   },
   {
     "biopsy": "TEST"
@@ -117,36 +120,36 @@
     "Levitra": "DRUG"
   },
   {
+    "them": "DRUG"
+  },
+  {
+    "Dr.": "TREATMENT"
+  },
+  {
     "PSA": "TEST"
   },
   {
-    "erectile dysfunction": "PROBLEM"
-  },
-  {
-    "erectile dysfunction": "PROBLEM"
-  },
-  {
-    "erectile dysfunction": "PROBLEM"
-  },
-  {
-    "erectile": "PROBLEM"
-  },
-  {
-    "erectile dysfunction": "PROBLEM"
-  },
-  {
-    "psa": "TEST"
+    "prostate ultrasound": "TEST"
   },
   {
     "biopsy": "TEST"
   },
   {
-    "urology": "PROBLEM"
+    "erectile dysfunction": "PROBLEM"
   },
   {
-    "improvement of erectile dysfunction": "PROBLEM"
+    "erectile dysfunction": "PROBLEM"
   },
   {
-    "cialis": "DRUG"
+    "erectile dysfunction": "PROBLEM"
+  },
+  {
+    "Cialis": "DRUG"
+  },
+  {
+    "PSA": "TEST"
+  },
+  {
+    "biopsy": "TEST"
   }
 ]

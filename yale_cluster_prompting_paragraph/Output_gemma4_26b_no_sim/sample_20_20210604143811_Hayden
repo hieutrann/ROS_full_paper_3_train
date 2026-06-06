@@ -6,7 +6,7 @@
     "hoarseness": "PROBLEM"
   },
   {
-    "skilled speech therapy": "TREATMENT"
+    "speech therapy": "TREATMENT"
   },
   {
     "voicing difficulties": "PROBLEM"
@@ -33,13 +33,10 @@
     "videostroboscopy": "TEST"
   },
   {
-    "vocal quality": "PROBLEM"
-  },
-  {
     "vocal hoarseness": "PROBLEM"
   },
   {
-    "difficulty": "PROBLEM"
+    "vocal quality": "PROBLEM"
   },
   {
     "vocal hygiene": "TREATMENT"

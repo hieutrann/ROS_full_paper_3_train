@@ -1,9 +1,15 @@
 [
   {
+    "toothache": "PROBLEM"
+  },
+  {
     "Jaw Pain": "PROBLEM"
   },
   {
-    "toothache": "PROBLEM"
+    "radiating into his jaw": "PROBLEM"
+  },
+  {
+    "towards his left ear": "PROBLEM"
   },
   {
     "Ellis type II dental fracture": "PROBLEM"
@@ -24,13 +30,13 @@
     "headache": "PROBLEM"
   },
   {
-    "swelling to the throat": "PROBLEM"
+    "swelling": "PROBLEM"
   },
   {
     "sore throat": "PROBLEM"
   },
   {
-    "difficulty swallowing liquids or solids": "PROBLEM"
+    "difficulty swallowing": "PROBLEM"
   },
   {
     "neck pain": "PROBLEM"
@@ -102,9 +108,6 @@
     "chest pain": "PROBLEM"
   },
   {
-    "RESPIRATIONS": "TEST"
-  },
-  {
     "shortness of breath": "PROBLEM"
   },
   {
@@ -138,13 +141,10 @@
     "lymph node swelling": "PROBLEM"
   },
   {
+    "DRUG ALLERGIES": "PROBLEM"
+  },
+  {
     "marijuana": "DRUG"
-  },
-  {
-    "PHYSICAL EXAMINATION": "TEST"
-  },
-  {
-    "VITAL SIGNS": "TEST"
   },
   {
     "Temperature": "TEST"
@@ -165,13 +165,22 @@
     "acute distress": "PROBLEM"
   },
   {
+    "atraumatic": "PROBLEM"
+  },
+  {
+    "normocephalic": "PROBLEM"
+  },
+  {
+    "nontender": "PROBLEM"
+  },
+  {
     "rhinorrhea": "PROBLEM"
   },
   {
     "audible congestion": "PROBLEM"
   },
   {
-    "tenderness over the sinuses": "PROBLEM"
+    "tenderness": "PROBLEM"
   },
   {
     "infection": "PROBLEM"
@@ -219,7 +228,7 @@
     "abscess": "PROBLEM"
   },
   {
-    "slight tenderness of the tooth #18": "PROBLEM"
+    "tenderness": "PROBLEM"
   },
   {
     "infection": "PROBLEM"
@@ -258,7 +267,10 @@
     "JVD": "PROBLEM"
   },
   {
-    "carotid artery or vertebral artery bruits": "PROBLEM"
+    "carotid artery bruits": "PROBLEM"
+  },
+  {
+    "vertebral artery bruits": "PROBLEM"
   },
   {
     "murmur": "PROBLEM"
@@ -270,13 +282,13 @@
     "gallop": "PROBLEM"
   },
   {
-    "RESPIRATIONS": "TEST"
+    "auscultation": "TEST"
   },
   {
     "shortness of breath": "PROBLEM"
   },
   {
-    "Abdomen": "TEST"
+    "nontender": "PROBLEM"
   },
   {
     "rashes": "PROBLEM"

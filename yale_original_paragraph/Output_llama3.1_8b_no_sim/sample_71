@@ -12,15 +12,6 @@
     "Accu-Cheks": "TEST"
   },
   {
-    "Allegra D": "DRUG"
-  },
-  {
-    "Allegra": "DRUG"
-  },
-  {
-    "colonoscopy": "TREATMENT"
-  },
-  {
     "A1c": "TEST"
   },
   {
@@ -33,15 +24,18 @@
     "TSH": "TEST"
   },
   {
+    "Allegra D": "DRUG"
+  },
+  {
+    "Allegra": "DRUG"
+  },
+  {
+    "colonoscopy": "TEST"
+  },
+  {
     "colonoscopy": "TREATMENT"
   },
   {
-    "weight loss": "TREATMENT"
-  },
-  {
-    "diet": "TREATMENT"
-  },
-  {
-    "exercise": "TREATMENT"
+    "colonoscopy": "PROBLEM"
   }
 ]

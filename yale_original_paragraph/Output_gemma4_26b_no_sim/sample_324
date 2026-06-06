@@ -1,5 +1,8 @@
 [
   {
+    "Female Physical Exam": "TEST"
+  },
+  {
     "edema": "PROBLEM"
   },
   {
@@ -18,10 +21,10 @@
     "lesions": "PROBLEM"
   },
   {
-    "discharge": "PROBLEM"
+    "effusions": "PROBLEM"
   },
   {
-    "middle ear effusions": "PROBLEM"
+    "exudates": "PROBLEM"
   },
   {
     "adenopathy": "PROBLEM"
@@ -42,10 +45,10 @@
     "rhonchi": "PROBLEM"
   },
   {
-    "S3": "TEST"
+    "S3": "PROBLEM"
   },
   {
-    "S4": "TEST"
+    "S4": "PROBLEM"
   },
   {
     "hepatomegaly": "PROBLEM"
@@ -75,16 +78,13 @@
     "tenderness": "PROBLEM"
   },
   {
-    "Anterior and posterior drawer test": "TEST"
-  },
-  {
     "Lachman's test": "TEST"
   },
   {
-    "Tinel": "TEST"
+    "Tinel test": "TEST"
   },
   {
-    "Phalen tests": "TEST"
+    "Phalen test": "TEST"
   },
   {
     "swinging test": "TEST"

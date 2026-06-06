@@ -9,25 +9,19 @@
     "reflux": "PROBLEM"
   },
   {
-    "right flank pain": "PROBLEM"
+    "tinea versicolor": "PROBLEM"
   },
   {
-    "spots on her shoulder": "PROBLEM"
+    "cystocele": "PROBLEM"
   },
   {
-    "spots in her armpits": "PROBLEM"
+    "leukopenia": "PROBLEM"
   },
   {
-    "urgency of urine": "PROBLEM"
+    "arthritic": "PROBLEM"
   },
   {
-    "pain in her thumbs": "PROBLEM"
-  },
-  {
-    "hearing loss": "PROBLEM"
-  },
-  {
-    "chronic cough": "PROBLEM"
+    "colon cancer": "PROBLEM"
   },
   {
     "Aciphex": "DRUG"
@@ -39,25 +33,16 @@
     "EGD": "TEST"
   },
   {
-    "punch biopsy": "TEST"
+    "colonoscopy": "TEST"
   },
   {
     "CBC": "TEST"
   },
   {
-    "colonoscopy": "TEST"
+    "punch biopsy": "TEST"
   },
   {
-    "hepatitis titer": "TEST"
-  },
-  {
-    "EGD": "TREATMENT"
-  },
-  {
-    "punch biopsy": "TREATMENT"
-  },
-  {
-    "colonoscopy": "TREATMENT"
+    "selenium sulfide lotion": "TREATMENT"
   },
   {
     "repair": "TREATMENT"

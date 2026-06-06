@@ -9,13 +9,13 @@
     "Morbid obesity": "PROBLEM"
   },
   {
-    "BMI": "TEST"
+    "BMI": "PROBLEM"
   },
   {
     "Morbid obesity": "PROBLEM"
   },
   {
-    "BMI": "TEST"
+    "BMI": "PROBLEM"
   },
   {
     "Laparoscopic gastric bypass": "TREATMENT"
@@ -25,9 +25,6 @@
   },
   {
     "Anesthesia": "TREATMENT"
-  },
-  {
-    "pain": "PROBLEM"
   },
   {
     "Ms.": "PROBLEM"
@@ -42,9 +39,6 @@
     "gastric bypass": "TREATMENT"
   },
   {
-    "gastric bypass": "TREATMENT"
-  },
-  {
     "procedure": "TREATMENT"
   },
   {
@@ -54,13 +48,7 @@
     "procedure": "TREATMENT"
   },
   {
-    "tolerated": "TREATMENT"
-  },
-  {
     "procedure": "TREATMENT"
-  },
-  {
-    "postoperative course": "PROBLEM"
   },
   {
     "hemodynamically stable": "PROBLEM"
@@ -78,22 +66,16 @@
     "ambulated": "TREATMENT"
   },
   {
-    "postoperative day 2": "TEST"
-  },
-  {
-    "p.o.": "TREATMENT"
+    "Pain": "PROBLEM"
   },
   {
     "pain medicine": "DRUG"
   },
   {
-    "ambulating without difficulty": "TEST"
+    "ambulating without difficulty": "TREATMENT"
   },
   {
-    "tolerating a liquid diet": "TEST"
-  },
-  {
-    "discharge": "TREATMENT"
+    "tolerating a liquid diet": "TREATMENT"
   },
   {
     "drain": "TREATMENT"
@@ -114,22 +96,16 @@
     "strenuous activity": "PROBLEM"
   },
   {
-    "mobility": "TREATMENT"
-  },
-  {
-    "driving": "TREATMENT"
+    "driving": "PROBLEM"
   },
   {
     "narcotic pain medicine": "DRUG"
   },
   {
-    "shower": "TREATMENT"
-  },
-  {
     "wounds": "PROBLEM"
   },
   {
-    "postoperative evaluation": "TEST"
+    "postoperative evaluation": "PROBLEM"
   },
   {
     "shortness of breath": "PROBLEM"
@@ -177,18 +153,15 @@
     "Colace": "DRUG"
   },
   {
-    "laparoscopic gastric bypass": "TREATMENT"
+    "morbid obesity": "PROBLEM"
   },
   {
     "gastric bypass": "TREATMENT"
   },
   {
-    "morbid obesity": "PROBLEM"
+    "laparoscopic gastric bypass": "TREATMENT"
   },
   {
     "liquid diet": "TREATMENT"
-  },
-  {
-    "bmi": "TEST"
   }
 ]

@@ -1,8 +1,5 @@
 [
   {
-    "Upper respiratory illness": "PROBLEM"
-  },
-  {
     "apnea": "PROBLEM"
   },
   {
@@ -21,16 +18,10 @@
     "fever": "PROBLEM"
   },
   {
-    "Upper respiratory illness": "PROBLEM"
-  },
-  {
     "apnea": "PROBLEM"
   },
   {
     "pertussis": "PROBLEM"
-  },
-  {
-    "Upper respiratory illness": "PROBLEM"
   },
   {
     "apnea": "PROBLEM"
@@ -54,6 +45,9 @@
     "fever": "PROBLEM"
   },
   {
+    "Temperature": "TEST"
+  },
+  {
     "amoxicillin": "DRUG"
   },
   {
@@ -63,25 +57,25 @@
     "sats": "TEST"
   },
   {
+    "coughing": "PROBLEM"
+  },
+  {
     "apnea": "PROBLEM"
   },
   {
     "Rocephin": "DRUG"
   },
   {
-    "GENERAL": "TEST"
+    "baby": "PROBLEM"
   },
   {
     "nasal discharge": "PROBLEM"
   },
   {
-    "HEENT": "PROBLEM"
+    "HEENT": "TEST"
   },
   {
     "rhonchi": "PROBLEM"
-  },
-  {
-    "retractions": "PROBLEM"
   },
   {
     "coughing": "PROBLEM"
@@ -90,7 +84,7 @@
     "apnea": "PROBLEM"
   },
   {
-    "ABDOMEN": "PROBLEM"
+    "Benign": "PROBLEM"
   },
   {
     "cyanosis": "PROBLEM"
@@ -123,13 +117,16 @@
     "BMP": "TEST"
   },
   {
-    "An x-ray": "TEST"
+    "x-ray": "TEST"
   },
   {
     "infiltrate": "PROBLEM"
   },
   {
-    "rapid influenza swab": "TEST"
+    "influenza": "PROBLEM"
+  },
+  {
+    "swab": "TEST"
   },
   {
     "RSV": "TEST"
@@ -147,22 +144,19 @@
     "pertussis": "PROBLEM"
   },
   {
+    "pertussis": "PROBLEM"
+  },
+  {
     "afebrile": "PROBLEM"
   },
   {
     "oxygen": "TREATMENT"
   },
   {
-    "fed": "PROBLEM"
-  },
-  {
     "coughing": "PROBLEM"
   },
   {
     "emesis": "PROBLEM"
-  },
-  {
-    "episodes": "PROBLEM"
   },
   {
     "apnea": "PROBLEM"
@@ -172,6 +166,12 @@
   },
   {
     "Zithromax": "DRUG"
+  },
+  {
+    "stable condition": "PROBLEM"
+  },
+  {
+    "good condition": "PROBLEM"
   },
   {
     "coughing": "PROBLEM"

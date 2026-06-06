@@ -36,9 +36,6 @@
     "CAT scan": "TEST"
   },
   {
-    "CAT scan of the chest": "TEST"
-  },
-  {
     "pneumonitis": "PROBLEM"
   },
   {
@@ -171,9 +168,6 @@
     "bleeding disorders": "PROBLEM"
   },
   {
-    "bleeding history": "PROBLEM"
-  },
-  {
     "obese": "PROBLEM"
   },
   {
@@ -187,6 +181,9 @@
   },
   {
     "Obese": "PROBLEM"
+  },
+  {
+    "Bowel sounds": "TEST"
   },
   {
     "organomegaly": "PROBLEM"

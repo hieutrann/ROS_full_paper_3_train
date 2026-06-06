@@ -21,10 +21,10 @@
     "mastoiditis": "PROBLEM"
   },
   {
-    "Right acute otitis media": "PROBLEM"
+    "acute otitis media": "PROBLEM"
   },
   {
-    "Severe ear pain": "PROBLEM"
+    "ear pain": "PROBLEM"
   },
   {
     "CT scan": "TEST"
@@ -36,13 +36,16 @@
     "ear pain": "PROBLEM"
   },
   {
-    "blood draining from the right ear": "PROBLEM"
+    "blood draining": "PROBLEM"
+  },
+  {
+    "right ear": "PROBLEM"
   },
   {
     "temperature": "PROBLEM"
   },
   {
-    "IV Unasyn": "DRUG"
+    "Unasyn": "DRUG"
   },
   {
     "Morphine": "DRUG"
@@ -57,7 +60,10 @@
     "pain": "PROBLEM"
   },
   {
-    "swelling of his cervical area": "PROBLEM"
+    "swelling": "PROBLEM"
+  },
+  {
+    "cervical area": "PROBLEM"
   },
   {
     "CT scan": "TEST"
@@ -102,7 +108,7 @@
     "redness": "PROBLEM"
   },
   {
-    "large posterior chains node": "PROBLEM"
+    "posterior chains node": "PROBLEM"
   },
   {
     "swelling": "PROBLEM"
@@ -124,12 +130,6 @@
   },
   {
     "tenderness": "PROBLEM"
-  },
-  {
-    "DISCHARGE WEIGHT": "TEST"
-  },
-  {
-    "Regular as tolerated": "TREATMENT"
   },
   {
     "Ciprodex Otic Solution": "DRUG"

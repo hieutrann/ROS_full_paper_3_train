@@ -12,10 +12,10 @@
     "shortness of breath": "PROBLEM"
   },
   {
-    "inhaled steroids": "DRUG"
+    "inhaled steroids": "TREATMENT"
   },
   {
-    "bronchodilator": "DRUG"
+    "bronchodilator": "TREATMENT"
   },
   {
     "cough": "PROBLEM"
@@ -36,13 +36,7 @@
     "childhood asthma": "PROBLEM"
   },
   {
-    "steroids": "DRUG"
-  },
-  {
-    "steroids": "DRUG"
-  },
-  {
-    "bronchodilator": "DRUG"
+    "bronchodilator": "TREATMENT"
   },
   {
     "childhood asthma": "PROBLEM"

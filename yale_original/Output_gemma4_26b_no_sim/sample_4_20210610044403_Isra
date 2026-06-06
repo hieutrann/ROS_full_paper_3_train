@@ -33,9 +33,6 @@
     "blood sugar": "TEST"
   },
   {
-    "40": "PROBLEM"
-  },
-  {
     "D50": "DRUG"
   },
   {
@@ -48,7 +45,7 @@
     "somnolent": "PROBLEM"
   },
   {
-    "recurrent UTIs": "PROBLEM"
+    "UTIs": "PROBLEM"
   },
   {
     "urinary tract infection": "PROBLEM"
@@ -63,7 +60,7 @@
     "Foley catheter": "TREATMENT"
   },
   {
-    "right - sided CVA": "PROBLEM"
+    "CVA": "PROBLEM"
   },
   {
     "atrial fibrillation": "PROBLEM"
@@ -90,7 +87,7 @@
     "cholecystectomy": "TREATMENT"
   },
   {
-    "colon cancer surgery": "TREATMENT"
+    "colon cancer": "PROBLEM"
   },
   {
     "pacemaker placement": "TREATMENT"
@@ -100,9 +97,6 @@
   },
   {
     "chills": "PROBLEM"
-  },
-  {
-    "weight loss": "PROBLEM"
   },
   {
     "cough": "PROBLEM"
@@ -124,6 +118,9 @@
   },
   {
     "vomiting": "PROBLEM"
+  },
+  {
+    "constipation": "PROBLEM"
   },
   {
     "bleeding per rectum": "PROBLEM"
@@ -204,16 +201,16 @@
     "rash": "PROBLEM"
   },
   {
-    "HEART": "TEST"
-  },
-  {
-    "Regular rhythm": "TEST"
+    "Regular rhythm": "PROBLEM"
   },
   {
     "pacemaker": "TREATMENT"
   },
   {
-    "Bilateral lower extremities edema": "PROBLEM"
+    "obese": "PROBLEM"
+  },
+  {
+    "lower extremities edema": "PROBLEM"
   },
   {
     "aphasia": "PROBLEM"
@@ -246,16 +243,13 @@
     "Urine": "TEST"
   },
   {
-    "white cells": "PROBLEM"
-  },
-  {
     "Cultures": "TEST"
   },
   {
     "culture": "TEST"
   },
   {
-    "guaiac negative status": "TEST"
+    "guaiac negative": "TEST"
   },
   {
     "Septra": "DRUG"
@@ -313,6 +307,9 @@
   },
   {
     "Neurontin": "DRUG"
+  },
+  {
+    "pain": "PROBLEM"
   },
   {
     "Percocet": "DRUG"

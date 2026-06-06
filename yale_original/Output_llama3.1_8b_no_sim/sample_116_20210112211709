@@ -12,7 +12,7 @@
     "thyroid goiter": "PROBLEM"
   },
   {
-    "Total thyroidectomy": "TREATMENT"
+    "thyroidectomy": "TREATMENT"
   },
   {
     "thyroid goiter": "PROBLEM"
@@ -24,6 +24,9 @@
     "thyroidectomy": "TREATMENT"
   },
   {
+    "thyroid hormone replacement": "TREATMENT"
+  },
+  {
     "thyroid hormone replacement": "DRUG"
   },
   {
@@ -33,7 +36,13 @@
     "narcotics": "DRUG"
   },
   {
-    "stable vital signs": "TEST"
+    "diet": "TREATMENT"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "vital signs": "TEST"
   },
   {
     "pain control": "TREATMENT"

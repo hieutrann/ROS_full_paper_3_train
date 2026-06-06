@@ -1,6 +1,6 @@
 [
   {
-    "Disseminated Intravascular Coagulation": "PROBLEM"
+    "Disseminated intravascular coagulation": "PROBLEM"
   },
   {
     "Streptococcal pneumonia with sepsis": "PROBLEM"
@@ -15,19 +15,7 @@
     "respiratory failure": "PROBLEM"
   },
   {
-    "Disseminated intravascular coagulation": "PROBLEM"
-  },
-  {
-    "prolonged partial thromboplastin time": "TEST"
-  },
-  {
-    "prothrombin time": "TEST"
-  },
-  {
-    "low fibrinogen": "TEST"
-  },
-  {
-    "elevated D-dimer": "TEST"
+    "mechanical ventilation": "TREATMENT"
   },
   {
     "factor replacement": "TREATMENT"
@@ -36,12 +24,24 @@
     "platelet infusion": "TREATMENT"
   },
   {
-    "mechanical ventilation": "TREATMENT"
+    "heparin": "DRUG"
   },
   {
     "Xigris": "DRUG"
   },
   {
-    "heparin": "DRUG"
+    "prothrombin time": "TEST"
+  },
+  {
+    "thromboplastin time": "TEST"
+  },
+  {
+    "fibrinogen": "TEST"
+  },
+  {
+    "D-dimer": "TEST"
+  },
+  {
+    "partial thromboplastin time": "TEST"
   }
 ]

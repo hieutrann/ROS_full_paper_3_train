@@ -48,16 +48,25 @@
     "lip laceration": "PROBLEM"
   },
   {
-    "dry": "PROBLEM"
-  },
-  {
     "thyromegaly": "PROBLEM"
   },
   {
     "lymphadenopathy": "PROBLEM"
   },
   {
+    "breath sounds": "TEST"
+  },
+  {
+    "bowel sounds": "TEST"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
     "EKG": "TEST"
+  },
+  {
+    "normal sinus rhythm": "TEST"
   },
   {
     "drug screen": "TEST"
@@ -70,9 +79,6 @@
   },
   {
     "RBCs": "TEST"
-  },
-  {
-    "potassium": "TEST"
   },
   {
     "CBC": "TEST"
@@ -96,6 +102,9 @@
     "Dehydration": "PROBLEM"
   },
   {
+    "poor p.o. intake": "PROBLEM"
+  },
+  {
     "IV fluids": "TREATMENT"
   },
   {
@@ -115,9 +124,6 @@
   },
   {
     "decreased level of consciousness": "PROBLEM"
-  },
-  {
-    "consciousness": "PROBLEM"
   },
   {
     "xanax": "DRUG"

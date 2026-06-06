@@ -1,9 +1,48 @@
 [
   {
-    "VITAL SIGNS": "TEST"
+    "physical exam": "TEST"
+  },
+  {
+    "Blood pressure": "TEST"
+  },
+  {
+    "pulse": "TEST"
+  },
+  {
+    "respirations": "TEST"
+  },
+  {
+    "temperature": "TEST"
+  },
+  {
+    "apparent distress": "PROBLEM"
+  },
+  {
+    "EOMI": "TEST"
   },
   {
     "PERRLA": "TEST"
+  },
+  {
+    "Sclerae nonicteric": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "lids": "PROBLEM"
+  },
+  {
+    "lashes": "PROBLEM"
+  },
+  {
+    "brows": "PROBLEM"
+  },
+  {
+    "conjunctivae": "PROBLEM"
+  },
+  {
+    "Funduscopic examination": "TEST"
   },
   {
     "papilledema": "PROBLEM"
@@ -15,28 +54,31 @@
     "cataracts": "PROBLEM"
   },
   {
-    "Ears": "TEST"
+    "hearing": "PROBLEM"
   },
   {
-    "Mouth": "TEST"
+    "TMs": "TEST"
   },
   {
-    "Tongue": "TEST"
+    "Unremarkable": "PROBLEM"
   },
   {
-    "Teeth": "TEST"
+    "dental work": "PROBLEM"
   },
   {
-    "Throat": "TEST"
+    "carotid bruit": "PROBLEM"
   },
   {
-    "dental work": "TREATMENT"
+    "JVD": "PROBLEM"
   },
   {
-    "NECK": "TEST"
+    "cervical adenopathy": "PROBLEM"
   },
   {
     "stridor": "PROBLEM"
+  },
+  {
+    "shift": "PROBLEM"
   },
   {
     "subcutaneous emphysema": "PROBLEM"
@@ -45,10 +87,25 @@
     "Thyroid": "PROBLEM"
   },
   {
-    "CHEST": "TEST"
+    "nontender": "PROBLEM"
   },
   {
-    "HEART": "PROBLEM"
+    "nodularity": "PROBLEM"
+  },
+  {
+    "Lungs": "PROBLEM"
+  },
+  {
+    "auscultation": "TEST"
+  },
+  {
+    "percussion": "TEST"
+  },
+  {
+    "S1": "TEST"
+  },
+  {
+    "S2": "TEST"
   },
   {
     "murmur": "PROBLEM"
@@ -72,7 +129,25 @@
     "gallop": "PROBLEM"
   },
   {
-    "BREASTS": "TEST"
+    "PMI": "PROBLEM"
+  },
+  {
+    "inspection": "TEST"
+  },
+  {
+    "palpation": "TEST"
+  },
+  {
+    "axillary adenopathy": "PROBLEM"
+  },
+  {
+    "supraclavicular adenopathy": "PROBLEM"
+  },
+  {
+    "BREASTS": "PROBLEM"
+  },
+  {
+    "breast tissue": "PROBLEM"
   },
   {
     "hepatosplenomegaly": "PROBLEM"
@@ -93,10 +168,16 @@
     "guarding": "PROBLEM"
   },
   {
-    "aortic impulse": "TEST"
+    "aortic impulse": "PROBLEM"
   },
   {
-    "intraabdominal bruit": "TEST"
+    "intraabdominal bruit": "PROBLEM"
+  },
+  {
+    "auscultation": "TEST"
+  },
+  {
+    "Normal for age": "PROBLEM"
   },
   {
     "hernia": "PROBLEM"
@@ -105,13 +186,22 @@
     "hydrocele": "PROBLEM"
   },
   {
-    "RECTAL": "TEST"
+    "Hemoccult": "TEST"
   },
   {
-    "Hemoccult-negative stool": "TEST"
+    "prostate": "PROBLEM"
+  },
+  {
+    "nodularity": "PROBLEM"
+  },
+  {
+    "tenderness": "PROBLEM"
   },
   {
     "rectal masses": "PROBLEM"
+  },
+  {
+    "palpated": "TEST"
   },
   {
     "edema": "PROBLEM"
@@ -126,7 +216,34 @@
     "deep venous thrombosis": "PROBLEM"
   },
   {
-    "BACK": "TEST"
+    "Nails": "PROBLEM"
+  },
+  {
+    "hands": "PROBLEM"
+  },
+  {
+    "feet": "PROBLEM"
+  },
+  {
+    "creases": "PROBLEM"
+  },
+  {
+    "palms": "PROBLEM"
+  },
+  {
+    "soles": "PROBLEM"
+  },
+  {
+    "range of motion": "TEST"
+  },
+  {
+    "BACK": "PROBLEM"
+  },
+  {
+    "inspection": "TEST"
+  },
+  {
+    "percussion": "TEST"
   },
   {
     "spinous process tenderness": "PROBLEM"
@@ -144,13 +261,52 @@
     "Brudzinski": "TEST"
   },
   {
-    "NEUROLOGIC": "TEST"
+    "cranial nervous systems": "PROBLEM"
   },
   {
-    "SKIN": "TEST"
+    "peripheral nervous systems": "PROBLEM"
   },
   {
-    "hemoccult": "TEST"
+    "strength": "PROBLEM"
+  },
+  {
+    "sensation": "PROBLEM"
+  },
+  {
+    "cerebellar function": "PROBLEM"
+  },
+  {
+    "Affect": "PROBLEM"
+  },
+  {
+    "Speech": "PROBLEM"
+  },
+  {
+    "lucid": "PROBLEM"
+  },
+  {
+    "rational": "PROBLEM"
+  },
+  {
+    "Gait": "TEST"
+  },
+  {
+    "station": "TEST"
+  },
+  {
+    "premalignant": "PROBLEM"
+  },
+  {
+    "malignant": "PROBLEM"
+  },
+  {
+    "general medicine": "TREATMENT"
+  },
+  {
+    "digital palpation": "TEST"
+  },
+  {
+    "hemoccult - negative": "TEST"
   },
   {
     "heent": "TEST"
@@ -159,6 +315,15 @@
     "palpation": "TEST"
   },
   {
+    "breasts": "PROBLEM"
+  },
+  {
+    "male": "PROBLEM"
+  },
+  {
     "tenderness": "PROBLEM"
+  },
+  {
+    "tongue": "PROBLEM"
   }
 ]

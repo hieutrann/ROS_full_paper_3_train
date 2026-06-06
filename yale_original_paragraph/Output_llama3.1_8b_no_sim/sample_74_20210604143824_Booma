@@ -1,29 +1,23 @@
 [
   {
-    "nose": "PROBLEM"
+    "ENT Exam": "TEST"
   },
   {
-    "ears": "PROBLEM"
-  },
-  {
-    "tympanic": "PROBLEM"
-  },
-  {
-    "mucosa": "PROBLEM"
-  },
-  {
-    "throat": "PROBLEM"
+    "tympanic membranes": "TEST"
   },
   {
     "erythema": "PROBLEM"
   },
   {
-    "tongue": "TEST"
+    "septal hematoma": "PROBLEM"
   },
   {
-    "tonsils": "TEST"
+    "infection": "PROBLEM"
   },
   {
-    "salivary glands": "TEST"
+    "masses": "PROBLEM"
+  },
+  {
+    "exudate": "PROBLEM"
   }
 ]

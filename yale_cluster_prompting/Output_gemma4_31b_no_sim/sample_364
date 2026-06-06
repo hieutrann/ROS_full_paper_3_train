@@ -1,6 +1,6 @@
 [
   {
-    "Physical Exam": "TEST"
+    "complete physical": "TEST"
   },
   {
     "Pap": "TEST"
@@ -48,7 +48,7 @@
     "rheumatoid arthritis": "PROBLEM"
   },
   {
-    "surgery": "TREATMENT"
+    "surgery on her hands and feet": "TREATMENT"
   },
   {
     "iron deficiency anemia": "PROBLEM"
@@ -87,22 +87,10 @@
     "Colace": "DRUG"
   },
   {
-    "Vital Signs": "TEST"
-  },
-  {
     "Blood pressure": "TEST"
   },
   {
-    "Pulse": "TEST"
-  },
-  {
-    "Respirations": "TEST"
-  },
-  {
     "Temperature": "TEST"
-  },
-  {
-    "acute distress": "PROBLEM"
   },
   {
     "lymphadenopathy": "PROBLEM"
@@ -111,10 +99,7 @@
     "thyromegaly": "PROBLEM"
   },
   {
-    "Cardiovascular": "TEST"
-  },
-  {
-    "bowel sounds": "TEST"
+    "Positive bowel sounds": "PROBLEM"
   },
   {
     "hepatosplenomegaly": "PROBLEM"
@@ -132,7 +117,7 @@
     "dimpling of the skin": "PROBLEM"
   },
   {
-    "axillary lymph nodes": "PROBLEM"
+    "axillary lymph nodes palpated": "TEST"
   },
   {
     "Self-breast exam": "TEST"
@@ -156,7 +141,7 @@
     "Normal sphincter tone": "PROBLEM"
   },
   {
-    "stool": "PROBLEM"
+    "No stool present in the vault": "PROBLEM"
   },
   {
     "rectal masses": "PROBLEM"
@@ -213,6 +198,9 @@
     "mammogram": "TEST"
   },
   {
+    "obstetrics / gynecology": "TREATMENT"
+  },
+  {
     "complete physical": "TEST"
   },
   {
@@ -232,6 +220,9 @@
   },
   {
     "lymphadenopathy": "PROBLEM"
+  },
+  {
+    "cervical": "PROBLEM"
   },
   {
     "tenderness": "PROBLEM"

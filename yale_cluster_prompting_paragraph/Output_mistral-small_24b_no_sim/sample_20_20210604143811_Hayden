@@ -12,16 +12,10 @@
     "voicing difficulties": "PROBLEM"
   },
   {
-    "Chronic laryngitis": "PROBLEM"
+    "resonant voice activities": "TREATMENT"
   },
   {
-    "hoarseness": "PROBLEM"
-  },
-  {
-    "speech therapy": "TREATMENT"
-  },
-  {
-    "voicing difficulties": "PROBLEM"
+    "vocal hygiene": "TREATMENT"
   },
   {
     "relaxation and stretching exercises": "TREATMENT"
@@ -36,34 +30,19 @@
     "videostroboscopy": "TEST"
   },
   {
-    "hoarseness": "PROBLEM"
+    "vocal quality": "PROBLEM"
   },
   {
-    "videostroboscopy": "TEST"
+    "vocal hoarseness": "PROBLEM"
   },
   {
-    "vocal hygiene": "TREATMENT"
-  },
-  {
-    "voice activities": "TREATMENT"
-  },
-  {
-    "hoarseness": "PROBLEM"
-  },
-  {
-    "speech therapy": "TREATMENT"
-  },
-  {
-    "chronic laryngitis": "PROBLEM"
+    "skilled speech therapy": "TREATMENT"
   },
   {
     "voice therapy": "TREATMENT"
   },
   {
-    "resonant voice": "TREATMENT"
-  },
-  {
-    "videostroboscopy": "TEST"
+    "resonant voice": "PROBLEM"
   },
   {
     "laryngitis": "PROBLEM"

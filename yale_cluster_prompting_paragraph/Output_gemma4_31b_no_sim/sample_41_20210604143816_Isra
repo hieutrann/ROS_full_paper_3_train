@@ -1,12 +1,9 @@
 [
   {
-    "severe nausea": "PROBLEM"
+    "nausea": "PROBLEM"
   },
   {
     "abdominal pain": "PROBLEM"
-  },
-  {
-    "severe pain": "PROBLEM"
   },
   {
     "nausea": "PROBLEM"
@@ -45,13 +42,16 @@
     "obese": "PROBLEM"
   },
   {
-    "mild distress": "PROBLEM"
-  },
-  {
     "scleral icterus": "PROBLEM"
   },
   {
-    "cervical, supraclavicular, or axillary adenopathy": "PROBLEM"
+    "cervical": "PROBLEM"
+  },
+  {
+    "supraclavicular": "PROBLEM"
+  },
+  {
+    "axillary adenopathy": "PROBLEM"
   },
   {
     "murmurs": "PROBLEM"
@@ -72,7 +72,7 @@
     "EKG": "TEST"
   },
   {
-    "Normal sinus rhythm": "PROBLEM"
+    "sinus rhythm": "TEST"
   },
   {
     "prolonged QT": "PROBLEM"

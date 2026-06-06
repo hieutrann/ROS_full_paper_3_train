@@ -1,26 +1,8 @@
 [
   {
-    "pulse": "TEST"
+    "Hemoccult": "TEST"
   },
   {
-    "bruit": "TEST"
-  },
-  {
-    "adenopathy": "PROBLEM"
-  },
-  {
-    "pulse": "TEST"
-  },
-  {
-    "percussion": "TEST"
-  },
-  {
-    "inspection": "TEST"
-  },
-  {
-    "palpation": "TEST"
-  },
-  {
-    "signs": "TEST"
+    "deep venous thrombosis": "PROBLEM"
   }
 ]

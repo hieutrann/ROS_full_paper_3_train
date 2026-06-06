@@ -1,11 +1,5 @@
 [
   {
-    "General Medicine": "TEST"
-  },
-  {
-    "Normal": "TEST"
-  },
-  {
     "weakness": "PROBLEM"
   },
   {
@@ -54,12 +48,6 @@
     "tremor": "PROBLEM"
   },
   {
-    "strokes": "PROBLEM"
-  },
-  {
-    "neurologic conditions": "PROBLEM"
-  },
-  {
     "visual changes": "PROBLEM"
   },
   {
@@ -97,15 +85,6 @@
   },
   {
     "edema": "PROBLEM"
-  },
-  {
-    "heart attack": "PROBLEM"
-  },
-  {
-    "arrhythmias": "PROBLEM"
-  },
-  {
-    "hypertension": "PROBLEM"
   },
   {
     "shortness of breath": "PROBLEM"

@@ -6,7 +6,7 @@
     "respiratory syncytial virus": "PROBLEM"
   },
   {
-    "Innocent heart murmur": "PROBLEM"
+    "heart murmur": "PROBLEM"
   },
   {
     "Bronchiolitis": "PROBLEM"
@@ -15,7 +15,7 @@
     "respiratory syncytial virus": "PROBLEM"
   },
   {
-    "Innocent heart murmur": "PROBLEM"
+    "heart murmur": "PROBLEM"
   },
   {
     "congestion": "PROBLEM"
@@ -25,9 +25,6 @@
   },
   {
     "acute bronchiolitis": "PROBLEM"
-  },
-  {
-    "room air": "TREATMENT"
   },
   {
     "RSV bronchiolitis": "PROBLEM"
@@ -45,13 +42,13 @@
     "perihilar infiltrate": "PROBLEM"
   },
   {
-    "increased respiratory distress": "PROBLEM"
+    "respiratory distress": "PROBLEM"
   },
   {
     "tachypnea": "PROBLEM"
   },
   {
-    "increased retractions": "PROBLEM"
+    "retractions": "PROBLEM"
   },
   {
     "grunting": "PROBLEM"
@@ -66,18 +63,6 @@
     "respiratory distress": "PROBLEM"
   },
   {
-    "VITAL SIGNS": "TEST"
-  },
-  {
-    "Vital signs": "TEST"
-  },
-  {
-    "room air": "TREATMENT"
-  },
-  {
-    "anterior fontanelle": "PROBLEM"
-  },
-  {
     "upper airway congestion": "PROBLEM"
   },
   {
@@ -87,28 +72,16 @@
     "femoral pulses": "TEST"
   },
   {
-    "capillary refill": "TEST"
-  },
-  {
     "coarseness": "PROBLEM"
-  },
-  {
-    "breath sounds": "TEST"
   },
   {
     "wheezes": "PROBLEM"
   },
   {
-    "scattered crackles": "PROBLEM"
+    "crackles": "PROBLEM"
   },
   {
     "respiratory distress": "PROBLEM"
-  },
-  {
-    "bowel sounds": "TEST"
-  },
-  {
-    "DISCHARGE WEIGHT": "TEST"
   },
   {
     "hand washings": "TREATMENT"
@@ -127,18 +100,6 @@
   },
   {
     "dyspnea": "PROBLEM"
-  },
-  {
-    "bulb suctioning": "TREATMENT"
-  },
-  {
-    "saline": "TREATMENT"
-  },
-  {
-    "difficulty breathing": "PROBLEM"
-  },
-  {
-    "stops breathing": "PROBLEM"
   },
   {
     "bronchiolitis": "PROBLEM"

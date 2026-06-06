@@ -45,16 +45,16 @@
     "PROCEDURES": "TREATMENT"
   },
   {
-    "decortication of the lung": "TREATMENT"
+    "decortication": "TREATMENT"
   },
   {
-    "pleural biopsy": "TREATMENT"
+    "pleural biopsy": "TEST"
   },
   {
     "transpleural fluoroscopy": "TEST"
   },
   {
-    "2": "TREATMENT"
+    "2": "PROBLEM"
   },
   {
     "thoracentesis": "TEST"
@@ -66,16 +66,7 @@
     "Port-A-Cath": "TREATMENT"
   },
   {
-    "nonproductive cough": "PROBLEM"
-  },
-  {
-    "Vietnamese": "PROBLEM"
-  },
-  {
-    "41-year-old": "PROBLEM"
-  },
-  {
-    "female": "PROBLEM"
+    "cough": "PROBLEM"
   },
   {
     "chest pain": "PROBLEM"
@@ -96,34 +87,28 @@
     "chest pain": "PROBLEM"
   },
   {
-    "urgent care center": "TEST"
-  },
-  {
     "pleural effusion": "PROBLEM"
   },
   {
-    "Chest x-ray": "TEST"
-  },
-  {
-    "PAST MEDICAL HISTORY": "TEST"
+    "PAST MEDICAL HISTORY": "TREATMENT"
   },
   {
     "Pericardectomy": "TREATMENT"
   },
   {
-    "2": "TREATMENT"
+    "2": "PROBLEM"
   },
   {
     "Pericarditis": "PROBLEM"
   },
   {
-    "2": "TREATMENT"
+    "2": "PROBLEM"
   },
   {
     "Atrial fibrillation": "PROBLEM"
   },
   {
-    "4": "TREATMENT"
+    "4": "PROBLEM"
   },
   {
     "intracranial thrombolytic treatment": "TREATMENT"
@@ -150,7 +135,7 @@
     "Cholecystectomy": "TREATMENT"
   },
   {
-    "9": "TEST"
+    "9": "PROBLEM"
   },
   {
     "thoracentesis": "TEST"
@@ -174,16 +159,13 @@
     "cancer": "PROBLEM"
   },
   {
-    "married": "PROBLEM"
-  },
-  {
     "tobacco": "PROBLEM"
   },
   {
     "alcohol": "PROBLEM"
   },
   {
-    "illicit drug use": "PROBLEM"
+    "illicit drug": "PROBLEM"
   },
   {
     "MEDICATIONS": "DRUG"
@@ -195,13 +177,10 @@
     "INR": "TEST"
   },
   {
-    "2": "TREATMENT"
+    "2": "PROBLEM"
   },
   {
     "Amiodarone": "DRUG"
-  },
-  {
-    "daily": "PROBLEM"
   },
   {
     "pulmonary": "PROBLEM"
@@ -213,40 +192,34 @@
     "tingling": "PROBLEM"
   },
   {
-    "left arm": "PROBLEM"
+    "blood pressure": "PROBLEM"
   },
   {
-    "VITAL SIGNS": "TEST"
+    "heart rate": "PROBLEM"
   },
   {
-    "Blood pressure": "TEST"
+    "respirations": "PROBLEM"
   },
   {
-    "heart rate": "TEST"
+    "temperature": "PROBLEM"
   },
   {
-    "respirations": "TEST"
+    "oxygen saturation": "PROBLEM"
   },
   {
-    "temperature": "TEST"
+    "cough": "PROBLEM"
   },
   {
-    "oxygen saturation": "TEST"
+    "pain": "PROBLEM"
   },
   {
-    "nonproductive cough": "PROBLEM"
+    "pupils": "PROBLEM"
   },
   {
-    "pain with coughing": "PROBLEM"
+    "tympanic membranes": "PROBLEM"
   },
   {
-    "HEENT": "TEST"
-  },
-  {
-    "Tympanic membranes": "TEST"
-  },
-  {
-    "NECK": "TEST"
+    "Supple": "PROBLEM"
   },
   {
     "lymphadenopathy": "PROBLEM"
@@ -258,10 +231,13 @@
     "Pleural friction rub": "PROBLEM"
   },
   {
-    "GI": "TEST"
+    "nondistended": "PROBLEM"
   },
   {
-    "bowel sounds": "TEST"
+    "nontender": "PROBLEM"
+  },
+  {
+    "bowel sounds": "PROBLEM"
   },
   {
     "organomegaly": "PROBLEM"
@@ -279,7 +255,7 @@
     "tenderness": "PROBLEM"
   },
   {
-    "Full range of motion": "TEST"
+    "motion": "PROBLEM"
   },
   {
     "pulses": "TEST"
@@ -294,7 +270,7 @@
     "ulcers": "PROBLEM"
   },
   {
-    "NEUROLOGIC": "TEST"
+    "intact": "PROBLEM"
   },
   {
     "focal deficits": "PROBLEM"
@@ -303,7 +279,7 @@
     "alert": "PROBLEM"
   },
   {
-    "LABORATORY DATA": "TEST"
+    "labs": "TEST"
   },
   {
     "pleural effusion": "PROBLEM"
@@ -318,10 +294,10 @@
     "echocardiogram": "TEST"
   },
   {
-    "Lovenox": "DRUG"
+    "DVT": "PROBLEM"
   },
   {
-    "DVT": "PROBLEM"
+    "Lovenox": "DRUG"
   },
   {
     "pericarditis": "PROBLEM"
@@ -336,16 +312,13 @@
     "thrombosis": "PROBLEM"
   },
   {
-    "anticoagulated": "DRUG"
+    "anticoagulated": "TREATMENT"
   },
   {
     "pericardial fluid": "PROBLEM"
   },
   {
     "pericardial fluid": "PROBLEM"
-  },
-  {
-    "Dr": "TEST"
   },
   {
     "pericardectomy": "TREATMENT"
@@ -357,7 +330,7 @@
     "CT scan": "TEST"
   },
   {
-    "bilateral plural effusions": "PROBLEM"
+    "plural effusions": "PROBLEM"
   },
   {
     "pericardectomy": "TREATMENT"
@@ -375,28 +348,25 @@
     "chest pain": "PROBLEM"
   },
   {
-    "CT of the chest": "TEST"
-  },
-  {
     "mediastinal lymph node": "PROBLEM"
-  },
-  {
-    "pathology": "TEST"
-  },
-  {
-    "pericardectomy": "TREATMENT"
   },
   {
     "mesothelioma": "PROBLEM"
   },
   {
-    "chest tube placement": "TREATMENT"
+    "pericardectomy": "TREATMENT"
   },
   {
-    "fluid biopsies": "TEST"
+    "pathology": "TEST"
   },
   {
-    "epithelioid malignant mesothelioma": "PROBLEM"
+    "mesothelioma": "PROBLEM"
+  },
+  {
+    "thoracoscopy": "TEST"
+  },
+  {
+    "biopsies": "TEST"
   },
   {
     "PET CT": "TEST"
@@ -423,7 +393,7 @@
     "SUV": "TEST"
   },
   {
-    "stage III disease": "PROBLEM"
+    "disease": "PROBLEM"
   },
   {
     "echocardiogram": "TEST"
@@ -432,28 +402,19 @@
     "ejection fraction": "TEST"
   },
   {
+    "chemotherapy": "TREATMENT"
+  },
+  {
     "cisplatin": "DRUG"
   },
   {
     "Alimta": "DRUG"
   },
   {
-    "chemotherapy": "TREATMENT"
-  },
-  {
-    "Oncology service": "TREATMENT"
-  },
-  {
     "Port-A-Cath": "TREATMENT"
   },
   {
-    "chemotherapy": "TREATMENT"
-  },
-  {
-    "IV fluid": "TREATMENT"
-  },
-  {
-    "IV": "TREATMENT"
+    "chemotherapy": "DRUG"
   },
   {
     "Port-A-Cath": "TREATMENT"
@@ -477,16 +438,7 @@
     "Vicodin": "DRUG"
   },
   {
-    "Dr.": "TREATMENT"
-  },
-  {
     "INR": "TEST"
-  },
-  {
-    "questions": "PROBLEM"
-  },
-  {
-    "concerns": "PROBLEM"
   },
   {
     "mesothelioma": "PROBLEM"
@@ -513,10 +465,10 @@
     "port-a-cath placement": "TREATMENT"
   },
   {
-    "port a cath": "DRUG"
+    "port a cath": "TREATMENT"
   },
   {
-    "iv piggyback": "DRUG"
+    "iv piggyback": "TREATMENT"
   },
   {
     "venous thrombosis": "PROBLEM"

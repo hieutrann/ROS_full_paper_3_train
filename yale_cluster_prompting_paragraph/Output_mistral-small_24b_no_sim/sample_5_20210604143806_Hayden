@@ -12,49 +12,13 @@
     "fever": "PROBLEM"
   },
   {
-    "spitting up": "PROBLEM"
-  },
-  {
-    "difficulty breathing": "PROBLEM"
-  },
-  {
-    "congestion": "PROBLEM"
-  },
-  {
-    "temperature": "TEST"
-  },
-  {
-    "right TM": "TEST"
-  },
-  {
-    "left TM": "TEST"
+    "right TM": "PROBLEM"
   },
   {
     "Amoxil": "DRUG"
   },
   {
     "Aldex": "DRUG"
-  },
-  {
-    "VITAL SIGNS": "TEST"
-  },
-  {
-    "respiratory rate": "TEST"
-  },
-  {
-    "RSV screen": "TEST"
-  },
-  {
-    "chest x-ray": "TEST"
-  },
-  {
-    "CBC": "TEST"
-  },
-  {
-    "RSV bronchiolitis": "PROBLEM"
-  },
-  {
-    "otitis media": "PROBLEM"
   },
   {
     "Orapred": "DRUG"
@@ -67,5 +31,44 @@
   },
   {
     "oxygen": "TREATMENT"
+  },
+  {
+    "RSV screen": "TEST"
+  },
+  {
+    "Chest x-ray": "TEST"
+  },
+  {
+    "CBC": "TEST"
+  },
+  {
+    "RSV bronchiolitis": "PROBLEM"
+  },
+  {
+    "otitis media": "PROBLEM"
+  },
+  {
+    "difficulty breathing": "PROBLEM"
+  },
+  {
+    "congestion": "PROBLEM"
+  },
+  {
+    "RSV": "PROBLEM"
+  },
+  {
+    "bronchiolitis": "PROBLEM"
+  },
+  {
+    "runny nose": "PROBLEM"
+  },
+  {
+    "difficulty breathing": "PROBLEM"
+  },
+  {
+    "congestion": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
   }
 ]

@@ -1,5 +1,8 @@
 [
   {
+    "ORIF": "TREATMENT"
+  },
+  {
     "Open reduction and internal fixation (ORIF)": "TREATMENT"
   },
   {
@@ -21,7 +24,7 @@
     "Open reduction and internal fixation (ORIF)": "TREATMENT"
   },
   {
-    "right Schatzker III tibial plateau fracture": "PROBLEM"
+    "Schatzker III tibial plateau fracture": "PROBLEM"
   },
   {
     "partial medial meniscectomy": "TREATMENT"
@@ -76,6 +79,9 @@
   },
   {
     "partial medial meniscectomy": "TREATMENT"
+  },
+  {
+    "Regular": "TREATMENT"
   },
   {
     "Nonweightbearing": "TREATMENT"
@@ -139,12 +145,6 @@
   },
   {
     "orif": "TREATMENT"
-  },
-  {
-    "fixation": "TREATMENT"
-  },
-  {
-    "reduction": "TREATMENT"
   },
   {
     "fracture": "PROBLEM"

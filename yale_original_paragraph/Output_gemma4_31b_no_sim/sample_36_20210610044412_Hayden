@@ -12,6 +12,12 @@
     "numbness": "PROBLEM"
   },
   {
+    "anti - inflammatories": "DRUG"
+  },
+  {
+    "pain relievers": "DRUG"
+  },
+  {
     "sore throat": "PROBLEM"
   },
   {
@@ -57,6 +63,15 @@
     "counseling": "TREATMENT"
   },
   {
+    "tonsils": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "exudate": "PROBLEM"
+  },
+  {
     "postnasal drip": "PROBLEM"
   },
   {
@@ -69,7 +84,10 @@
     "biceps tenderness": "PROBLEM"
   },
   {
-    "suicidal, homicidal ideations": "PROBLEM"
+    "suicidal": "PROBLEM"
+  },
+  {
+    "homicidal ideations": "PROBLEM"
   },
   {
     "hallucinations": "PROBLEM"
@@ -103,5 +121,14 @@
   },
   {
     "anger control": "PROBLEM"
+  },
+  {
+    "adhd": "PROBLEM"
+  },
+  {
+    "attention deficit disorde": "PROBLEM"
+  },
+  {
+    "bursitis": "PROBLEM"
   }
 ]

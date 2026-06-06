@@ -54,6 +54,9 @@
     "constipation": "PROBLEM"
   },
   {
+    "ADHD": "PROBLEM"
+  },
+  {
     "Adderall": "DRUG"
   },
   {
@@ -63,10 +66,25 @@
     "medication": "DRUG"
   },
   {
+    "weight": "PROBLEM"
+  },
+  {
+    "medications": "DRUG"
+  },
+  {
     "anger control": "PROBLEM"
   },
   {
     "anger outbursts": "PROBLEM"
+  },
+  {
+    "counseling": "TREATMENT"
+  },
+  {
+    "VSS": "TEST"
+  },
+  {
+    "A & Ox3": "DRUG"
   },
   {
     "Heart": "PROBLEM"
@@ -90,6 +108,9 @@
     "range of motion": "TEST"
   },
   {
+    "95 degrees": "TEST"
+  },
+  {
     "muscle weakness": "PROBLEM"
   },
   {
@@ -99,7 +120,7 @@
     "suicidal": "PROBLEM"
   },
   {
-    "homicidal": "PROBLEM"
+    "homicidal ideations": "PROBLEM"
   },
   {
     "hallucinations": "PROBLEM"
@@ -126,19 +147,19 @@
     "Pharyngitis": "PROBLEM"
   },
   {
-    "ENT": "TEST"
-  },
-  {
     "tonsillectomy": "TREATMENT"
   },
   {
     "Attention deficit disorder": "PROBLEM"
   },
   {
-    "anger control": "PROBLEM"
+    "anger control": "TREATMENT"
   },
   {
     "Prescriptions": "DRUG"
+  },
+  {
+    "anger issues": "PROBLEM"
   },
   {
     "adhd": "PROBLEM"
@@ -148,6 +169,12 @@
   },
   {
     "pharyngitis": "PROBLEM"
+  },
+  {
+    "anger control": "TREATMENT"
+  },
+  {
+    "anti-inflammatories": "DRUG"
   },
   {
     "bursitis": "PROBLEM"
@@ -168,6 +195,9 @@
     "rashes": "PROBLEM"
   },
   {
+    "shoulder": "PROBLEM"
+  },
+  {
     "strep throat": "PROBLEM"
   },
   {
@@ -180,15 +210,15 @@
     "deficit disorder": "PROBLEM"
   },
   {
-    "anti-inflammatories": "DRUG"
-  },
-  {
     "anti inflammatories": "DRUG"
   },
   {
-    "soap": "DRUG"
+    "soap": "TREATMENT"
   },
   {
     "anger": "PROBLEM"
+  },
+  {
+    "intermittent": "PROBLEM"
   }
 ]

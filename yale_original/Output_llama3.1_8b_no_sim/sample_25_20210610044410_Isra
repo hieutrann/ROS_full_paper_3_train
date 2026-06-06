@@ -1,12 +1,6 @@
 [
   {
-    "General Medicine": "TREATMENT"
-  },
-  {
-    "Normal Male Exam Template - 4": "TEST"
-  },
-  {
-    "routine normal male physical exam": "TEST"
+    "Male Exam": "TEST"
   },
   {
     "Blood pressure": "TEST"
@@ -21,7 +15,13 @@
     "temperature": "TEST"
   },
   {
-    "Alert and in no apparent distress": "PROBLEM"
+    "Alert": "TEST"
+  },
+  {
+    "distress": "PROBLEM"
+  },
+  {
+    "communicative": "TEST"
   },
   {
     "EOMI": "PROBLEM"
@@ -33,7 +33,7 @@
     "Sclerae": "PROBLEM"
   },
   {
-    "lesions": "PROBLEM"
+    "conjunctivae": "PROBLEM"
   },
   {
     "Funduscopic examination": "TEST"
@@ -54,16 +54,7 @@
     "Nose and Sinus": "PROBLEM"
   },
   {
-    "Mouth": "PROBLEM"
-  },
-  {
-    "Tongue": "PROBLEM"
-  },
-  {
-    "Teeth": "PROBLEM"
-  },
-  {
-    "Throat": "PROBLEM"
+    "dental work": "TREATMENT"
   },
   {
     "carotid bruit": "PROBLEM"
@@ -78,7 +69,7 @@
     "stridor": "PROBLEM"
   },
   {
-    "subcutaneous emphysema": "PROBLEM"
+    "emphysema": "PROBLEM"
   },
   {
     "Thyroid": "PROBLEM"
@@ -87,7 +78,10 @@
     "Lungs": "PROBLEM"
   },
   {
-    "HEART": "PROBLEM"
+    "S1": "TEST"
+  },
+  {
+    "S2": "TEST"
   },
   {
     "murmur": "PROBLEM"
@@ -117,10 +111,10 @@
     "Chest wall": "PROBLEM"
   },
   {
-    "axillary or supraclavicular adenopathy": "PROBLEM"
+    "adenopathy": "PROBLEM"
   },
   {
-    "Normal male breast tissue": "PROBLEM"
+    "male breast tissue": "PROBLEM"
   },
   {
     "hepatosplenomegaly": "PROBLEM"
@@ -147,13 +141,7 @@
     "intraabdominal bruit": "PROBLEM"
   },
   {
-    "EXTERNAL GENITALIA": "TEST"
-  },
-  {
-    "penis": "PROBLEM"
-  },
-  {
-    "testes": "PROBLEM"
+    "age": "TEST"
   },
   {
     "hernia": "PROBLEM"
@@ -162,7 +150,7 @@
     "hydrocele": "PROBLEM"
   },
   {
-    "Negative": "PROBLEM"
+    "Hemoccult-negative stool": "TEST"
   },
   {
     "nodularity": "PROBLEM"
@@ -171,19 +159,7 @@
     "tenderness": "PROBLEM"
   },
   {
-    "Hemoccult-negative": "TEST"
-  },
-  {
-    "palpation": "TEST"
-  },
-  {
-    "prostate": "TEST"
-  },
-  {
     "rectal masses": "PROBLEM"
-  },
-  {
-    "distal pulse": "TEST"
   },
   {
     "cyanosis": "PROBLEM"
@@ -195,19 +171,22 @@
     "deep venous thrombosis": "PROBLEM"
   },
   {
-    "edema": "PROBLEM"
+    "hands": "PROBLEM"
   },
   {
-    "nails of the hands and feet": "PROBLEM"
+    "feet": "PROBLEM"
   },
   {
-    "creases of the palms and soles": "PROBLEM"
+    "palms": "PROBLEM"
+  },
+  {
+    "soles": "PROBLEM"
   },
   {
     "range of motion": "TEST"
   },
   {
-    "BACK": "PROBLEM"
+    "BACK": "TEST"
   },
   {
     "spinous process tenderness": "PROBLEM"
@@ -225,7 +204,10 @@
     "Brudzinski": "TEST"
   },
   {
-    "cranial and peripheral nervous systems": "PROBLEM"
+    "cranial": "PROBLEM"
+  },
+  {
+    "peripheral nervous systems": "PROBLEM"
   },
   {
     "strength": "PROBLEM"
@@ -243,27 +225,39 @@
     "Speech": "PROBLEM"
   },
   {
-    "lucid and rational": "PROBLEM"
+    "lucid": "PROBLEM"
   },
   {
-    "Gait": "TEST"
+    "gait": "PROBLEM"
   },
   {
-    "premalignant or malignant condition": "PROBLEM"
+    "premalignant condition": "PROBLEM"
+  },
+  {
+    "malignant condition": "PROBLEM"
   },
   {
     "SKIN": "TEST"
   },
   {
+    "general medicine": "TREATMENT"
+  },
+  {
     "digital palpation": "TEST"
   },
   {
-    "hemoccult - negative": "TEST"
+    "hemoccult": "TEST"
   },
   {
     "tenderness": "PROBLEM"
   },
   {
     "tongue": "PROBLEM"
+  },
+  {
+    "breasts": "PROBLEM"
+  },
+  {
+    "male": "PROBLEM"
   }
 ]

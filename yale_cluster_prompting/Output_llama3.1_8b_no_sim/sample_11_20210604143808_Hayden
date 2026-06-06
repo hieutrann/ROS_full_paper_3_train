@@ -1,9 +1,6 @@
 [
   {
-    "anemia": "PROBLEM"
-  },
-  {
-    "transfusion": "TREATMENT"
+    "Anemia": "PROBLEM"
   },
   {
     "anemia": "PROBLEM"
@@ -54,10 +51,10 @@
     "transfusion": "TREATMENT"
   },
   {
-    "bleeding": "PROBLEM"
+    "anemia": "PROBLEM"
   },
   {
-    "anemia": "PROBLEM"
+    "bleeding": "PROBLEM"
   },
   {
     "blood transfusion": "TREATMENT"
@@ -111,7 +108,7 @@
     "Hernia repair": "TREATMENT"
   },
   {
-    "allergies": "PROBLEM"
+    "He has no allergies": "PROBLEM"
   },
   {
     "Coumadin": "DRUG"
@@ -141,9 +138,6 @@
     "tobacco user": "PROBLEM"
   },
   {
-    "He does not drink": "PROBLEM"
-  },
-  {
     "blood disorders": "PROBLEM"
   },
   {
@@ -159,16 +153,7 @@
     "acute distress": "PROBLEM"
   },
   {
-    "alert": "PROBLEM"
-  },
-  {
-    "oriented": "PROBLEM"
-  },
-  {
-    "questions": "TEST"
-  },
-  {
-    "appropriately": "TREATMENT"
+    "alert and oriented": "TEST"
   },
   {
     "Blood pressure": "TEST"
@@ -204,7 +189,7 @@
     "Oropharynx": "PROBLEM"
   },
   {
-    "NECK": "TEST"
+    "NECK": "PROBLEM"
   },
   {
     "Trachea": "PROBLEM"
@@ -219,19 +204,13 @@
     "CHEST": "TEST"
   },
   {
-    "HEART": "TEST"
+    "Regular rate and rhythm": "TEST"
   },
   {
-    "ABDOMEN": "TEST"
+    "ABDOMEN": "PROBLEM"
   },
   {
     "spleen": "PROBLEM"
-  },
-  {
-    "fullness": "PROBLEM"
-  },
-  {
-    "inspiration": "TEST"
   },
   {
     "clubbing": "PROBLEM"
@@ -243,19 +222,16 @@
     "cyanosis": "PROBLEM"
   },
   {
-    "NEUROLOGIC": "TEST"
+    "Noncontributory": "PROBLEM"
   },
   {
-    "DERMATOLOGIC": "TEST"
+    "DERMATOLOGIC": "PROBLEM"
   },
   {
-    "CARDIOVASCULAR": "PROBLEM"
+    "Noncontributory": "PROBLEM"
   },
   {
-    "anemia": "PROBLEM"
-  },
-  {
-    "transfusion": "TREATMENT"
+    "refractory anemia": "PROBLEM"
   },
   {
     "B12": "DRUG"
@@ -268,12 +244,6 @@
   },
   {
     "Procrit": "DRUG"
-  },
-  {
-    "esophagogastroduodenoscopy": "TEST"
-  },
-  {
-    "blood loss": "PROBLEM"
   },
   {
     "esophagogastroduodenoscopy": "TEST"
@@ -318,13 +288,10 @@
     "erythropoietin level": "TEST"
   },
   {
-    "bone marrow aspiration": "TREATMENT"
+    "bone marrow aspiration": "TEST"
   },
   {
-    "biopsy": "TREATMENT"
-  },
-  {
-    "procedure": "TREATMENT"
+    "bone marrow biopsy": "TEST"
   },
   {
     "refractory anemia": "PROBLEM"
@@ -336,16 +303,13 @@
     "therapeutic interventions": "TREATMENT"
   },
   {
-    "studies": "TEST"
-  },
-  {
     "ultrasound": "TEST"
   },
   {
     "spleen": "PROBLEM"
   },
   {
-    "hospitalization": "TREATMENT"
+    "hospitalization": "PROBLEM"
   },
   {
     "electrophoresis": "TEST"
@@ -381,9 +345,9 @@
     "myalgias": "PROBLEM"
   },
   {
-    "bone marrow": "TEST"
+    "bone marrow": "PROBLEM"
   },
   {
-    "general medicine": "TEST"
+    "bone": "PROBLEM"
   }
 ]

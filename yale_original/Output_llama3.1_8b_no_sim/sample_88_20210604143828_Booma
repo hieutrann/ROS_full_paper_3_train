@@ -81,7 +81,10 @@
     "Echocardiogram": "TEST"
   },
   {
-    "IVIG": "DRUG"
+    "IVIG": "TREATMENT"
+  },
+  {
+    "fever": "PROBLEM"
   },
   {
     "fever": "PROBLEM"
@@ -93,13 +96,16 @@
     "conjunctivitis": "PROBLEM"
   },
   {
-    "redness of mucous membranes": "PROBLEM"
+    "redness": "PROBLEM"
+  },
+  {
+    "p.o.": "TREATMENT"
   },
   {
     "cardiac followup": "TEST"
   },
   {
-    "DISCHARGE ACTIVITIES": "TREATMENT"
+    "Ad-lib": "TREATMENT"
   },
   {
     "PO ad-lib": "TREATMENT"
@@ -117,7 +123,7 @@
     "aspirin": "DRUG"
   },
   {
-    "once a day": "TREATMENT"
+    "day": "TREATMENT"
   },
   {
     "primary doctor": "TREATMENT"
@@ -135,15 +141,18 @@
     "fevers": "PROBLEM"
   },
   {
-    "Kawasaki disease": "PROBLEM"
+    "echo": "TEST"
   },
   {
     "conjunctivitis": "PROBLEM"
   },
   {
-    "aspirin": "DRUG"
+    "Kawasaki disease": "PROBLEM"
   },
   {
     "vaccine": "DRUG"
+  },
+  {
+    "aspirin": "DRUG"
   }
 ]

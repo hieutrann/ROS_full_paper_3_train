@@ -18,7 +18,7 @@
     "urticarial rash": "PROBLEM"
   },
   {
-    "high fevers": "PROBLEM"
+    "persistent high fevers": "PROBLEM"
   },
   {
     "infection": "PROBLEM"
@@ -102,7 +102,7 @@
     "CMV serology": "TEST"
   },
   {
-    "IgM": "TEST"
+    "IgM": "PROBLEM"
   },
   {
     "IgG": "TEST"
@@ -126,7 +126,7 @@
     "CAT scan": "TEST"
   },
   {
-    "bronchoscopy": "TREATMENT"
+    "bronchoscopy": "TEST"
   },
   {
     "BAL": "TEST"
@@ -156,6 +156,9 @@
     "CMV": "PROBLEM"
   },
   {
+    "nucleoli": "PROBLEM"
+  },
+  {
     "biopsy specimens": "TEST"
   },
   {
@@ -177,7 +180,7 @@
     "methotrexate": "DRUG"
   },
   {
-    "chest x-ray": "TEST"
+    "A chest x-ray": "TEST"
   },
   {
     "bibasilar disease": "PROBLEM"
@@ -262,6 +265,9 @@
   },
   {
     "cmv": "PROBLEM"
+  },
+  {
+    "interstitial": "PROBLEM"
   },
   {
     "fever": "PROBLEM"

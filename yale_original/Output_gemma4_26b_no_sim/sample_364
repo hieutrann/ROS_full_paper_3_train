@@ -111,7 +111,13 @@
     "nipple discharge": "PROBLEM"
   },
   {
-    "lumps or masses": "PROBLEM"
+    "lumps": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "axillary lymph nodes": "PROBLEM"
   },
   {
     "Self-breast exam": "TEST"
@@ -127,9 +133,6 @@
   },
   {
     "masses": "PROBLEM"
-  },
-  {
-    "rectal masses": "PROBLEM"
   },
   {
     "cyanosis": "PROBLEM"
@@ -148,6 +151,9 @@
   },
   {
     "ECG": "TEST"
+  },
+  {
+    "cardiac": "PROBLEM"
   },
   {
     "cardiac workup": "TEST"
@@ -180,9 +186,6 @@
     "mammogram": "TEST"
   },
   {
-    "complete physical": "TEST"
-  },
-  {
     "pap smear": "TEST"
   },
   {
@@ -192,12 +195,21 @@
     "rheumatoid arthritis": "PROBLEM"
   },
   {
-    "masses palpated": "PROBLEM"
-  },
-  {
     "lymphadenopathy": "PROBLEM"
   },
   {
     "tenderness": "PROBLEM"
+  },
+  {
+    "rheumatoid": "PROBLEM"
+  },
+  {
+    "arthritis": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "pap": "TEST"
   }
 ]

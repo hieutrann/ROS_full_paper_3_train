@@ -3,7 +3,13 @@
     "Jaw Pain": "PROBLEM"
   },
   {
-    "#18 Dental Fracture": "PROBLEM"
+    "toothache": "PROBLEM"
+  },
+  {
+    "dental fracture": "PROBLEM"
+  },
+  {
+    "Ellis type II fracture": "PROBLEM"
   },
   {
     "Elevated Blood Pressure": "PROBLEM"
@@ -15,48 +21,27 @@
     "Vicodin": "DRUG"
   },
   {
-    "Pen V": "DRUG"
-  },
-  {
-    "Toothache": "PROBLEM"
-  },
-  {
-    "Dental Fracture": "PROBLEM"
-  },
-  {
-    "Ellis Type II Fracture": "PROBLEM"
-  },
-  {
-    "Ellis Type": "PROBLEM"
-  },
-  {
-    "Vital Signs": "TEST"
+    "pen V": "DRUG"
   },
   {
     "Temperature": "TEST"
   },
   {
-    "Blood Pressure": "TEST"
+    "blood pressure": "TEST"
   },
   {
-    "Pulse": "TEST"
+    "pulse": "TEST"
   },
   {
-    "Respirations": "TEST"
+    "respirations": "TEST"
   },
   {
-    "Oxygen Saturation": "TEST"
+    "oxygen saturation": "TEST"
   },
   {
-    "Dental Appointment": "TEST"
+    "Dental Exam": "TEST"
   },
   {
-    "Tenderness": "PROBLEM"
-  },
-  {
-    "Pressure": "PROBLEM"
-  },
-  {
-    "Erythema": "PROBLEM"
+    "physical examination": "TEST"
   }
 ]

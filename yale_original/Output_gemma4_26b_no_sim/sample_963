@@ -24,6 +24,15 @@
     "Micronase": "DRUG"
   },
   {
+    "ear abnormalities": "PROBLEM"
+  },
+  {
+    "nose abnormalities": "PROBLEM"
+  },
+  {
+    "throat abnormalities": "PROBLEM"
+  },
+  {
     "elevated cholesterol": "PROBLEM"
   },
   {
@@ -90,6 +99,12 @@
     "Bactrim": "DRUG"
   },
   {
+    "drug abuse": "PROBLEM"
+  },
+  {
+    "alcohol abuse": "PROBLEM"
+  },
+  {
     "Height": "TEST"
   },
   {
@@ -111,25 +126,16 @@
     "Lung expansion": "TEST"
   },
   {
-    "regular rhythm": "TEST"
+    "SI": "TEST"
   },
   {
-    "SI and S2": "TEST"
-  },
-  {
-    "heart sounds": "TEST"
+    "S2": "TEST"
   },
   {
     "Blood pressure": "TEST"
   },
   {
     "bowel sounds": "TEST"
-  },
-  {
-    "The abdomen is soft": "TEST"
-  },
-  {
-    "The abdomen is nontender": "TEST"
   },
   {
     "organomegaly": "PROBLEM"
@@ -150,7 +156,7 @@
     "edema": "PROBLEM"
   },
   {
-    "Diabetes type II uncontrolled": "PROBLEM"
+    "Diabetes type II": "PROBLEM"
   },
   {
     "Acute cystitis": "PROBLEM"
@@ -159,7 +165,7 @@
     "Endocrinology Consult": "TREATMENT"
   },
   {
-    "complete CBC": "TEST"
+    "CBC": "TEST"
   },
   {
     "Micronase": "DRUG"

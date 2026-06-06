@@ -3,9 +3,6 @@
     "COPD exacerbation": "PROBLEM"
   },
   {
-    "COPD": "PROBLEM"
-  },
-  {
     "pneumonia": "PROBLEM"
   },
   {
@@ -87,19 +84,10 @@
     "Nexium": "DRUG"
   },
   {
-    "BiPAP": "TEST"
+    "BiPAP": "TREATMENT"
   },
   {
-    "endoscopy": "TEST"
-  },
-  {
-    "Bronchitis": "PROBLEM"
-  },
-  {
-    "Pulmonary": "TEST"
-  },
-  {
-    "Packed red blood cells": "TEST"
+    "antibiotics": "DRUG"
   },
   {
     "Lovenox": "DRUG"
@@ -108,6 +96,12 @@
     "Plavix": "DRUG"
   },
   {
-    "Darvocet-N": "DRUG"
+    "endoscopy": "TEST"
+  },
+  {
+    "pulmonary function test": "TEST"
+  },
+  {
+    "GI bleed": "PROBLEM"
   }
 ]

@@ -12,16 +12,13 @@
     "temperature": "TEST"
   },
   {
-    "Sclerae nonicteric": "PROBLEM"
+    "EOMI": "TEST"
+  },
+  {
+    "PERRLA": "TEST"
   },
   {
     "Funduscopic examination": "TEST"
-  },
-  {
-    "bruit": "PROBLEM"
-  },
-  {
-    "JVD": "PROBLEM"
   },
   {
     "adenopathy": "PROBLEM"
@@ -30,28 +27,7 @@
     "thyroid abnormality": "PROBLEM"
   },
   {
-    "murmur": "PROBLEM"
-  },
-  {
-    "heave": "PROBLEM"
-  },
-  {
-    "click": "PROBLEM"
-  },
-  {
-    "lift": "PROBLEM"
-  },
-  {
-    "thrill": "PROBLEM"
-  },
-  {
-    "rub": "PROBLEM"
-  },
-  {
-    "gallop": "PROBLEM"
-  },
-  {
-    "axillary or supraclavicular adenopathy": "PROBLEM"
+    "adenopathy": "PROBLEM"
   },
   {
     "hepatosplenomegaly": "PROBLEM"
@@ -75,9 +51,6 @@
     "aortic impulse": "TEST"
   },
   {
-    "intraabdominal bruit": "PROBLEM"
-  },
-  {
     "Hemoccult": "TEST"
   },
   {
@@ -97,6 +70,9 @@
   },
   {
     "CVA tenderness": "PROBLEM"
+  },
+  {
+    "straight - leg raising": "TEST"
   },
   {
     "Kernig": "TEST"
@@ -121,9 +97,6 @@
   },
   {
     "pulse": "TEST"
-  },
-  {
-    "bruit": "PROBLEM"
   },
   {
     "adenopathy": "PROBLEM"

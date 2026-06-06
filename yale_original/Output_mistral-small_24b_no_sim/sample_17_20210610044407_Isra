@@ -66,13 +66,10 @@
     "gouty attacks": "PROBLEM"
   },
   {
-    "emergency room": "TEST"
-  },
-  {
-    "diagnosed": "TEST"
-  },
-  {
     "chronic kidney disease": "PROBLEM"
+  },
+  {
+    "PAST MEDICAL HISTORY": "TEST"
   },
   {
     "Diabetes mellitus type 2": "PROBLEM"
@@ -81,7 +78,7 @@
     "Diabetic nephropathy": "PROBLEM"
   },
   {
-    "Chronic kidney disease, stage 4": "PROBLEM"
+    "Chronic kidney disease": "PROBLEM"
   },
   {
     "Hypertension": "PROBLEM"
@@ -97,6 +94,12 @@
   },
   {
     "PTA": "TREATMENT"
+  },
+  {
+    "smoking": "PROBLEM"
+  },
+  {
+    "drinking": "PROBLEM"
   },
   {
     "NovoLog": "DRUG"
@@ -129,12 +132,6 @@
     "calcitriol": "DRUG"
   },
   {
-    "right hand": "PROBLEM"
-  },
-  {
-    "left foot": "PROBLEM"
-  },
-  {
     "swollen": "PROBLEM"
   },
   {
@@ -144,7 +141,7 @@
     "urinate": "PROBLEM"
   },
   {
-    "Foley": "TEST"
+    "Foley": "TREATMENT"
   },
   {
     "steroids": "DRUG"
@@ -174,7 +171,10 @@
     "hematuria": "PROBLEM"
   },
   {
-    "urine output": "PROBLEM"
+    "urine output": "TEST"
+  },
+  {
+    "urinate": "PROBLEM"
   },
   {
     "cough": "PROBLEM"
@@ -195,6 +195,12 @@
     "paroxysmal nocturnal dyspnea": "PROBLEM"
   },
   {
+    "alert": "PROBLEM"
+  },
+  {
+    "oriented": "PROBLEM"
+  },
+  {
     "Blood pressure": "TEST"
   },
   {
@@ -207,31 +213,31 @@
     "respirations": "TEST"
   },
   {
+    "weight": "TEST"
+  },
+  {
+    "Head": "TEST"
+  },
+  {
+    "Neck": "PROBLEM"
+  },
+  {
+    "Lungs": "TEST"
+  },
+  {
     "Heart": "PROBLEM"
   },
   {
-    "Abdomen": "PROBLEM"
+    "Obese": "PROBLEM"
   },
   {
     "pretibial edema": "PROBLEM"
   },
   {
-    "left foot": "PROBLEM"
+    "edema": "PROBLEM"
   },
   {
-    "dorsum of left foot": "PROBLEM"
-  },
-  {
-    "right hand": "PROBLEM"
-  },
-  {
-    "toes": "PROBLEM"
-  },
-  {
-    "fingers": "PROBLEM"
-  },
-  {
-    "extremities": "PROBLEM"
+    "swollen": "PROBLEM"
   },
   {
     "urine culture": "TEST"
@@ -240,7 +246,19 @@
     "white cell": "TEST"
   },
   {
+    "12.7": "TEST"
+  },
+  {
     "hematocrit": "TEST"
+  },
+  {
+    "26.1": "TEST"
+  },
+  {
+    "segs": "TEST"
+  },
+  {
+    "bands": "TEST"
   },
   {
     "Serum sodium": "TEST"
@@ -276,16 +294,19 @@
     "BNP": "TEST"
   },
   {
-    "white cells": "TEST"
+    "Urinalysis": "TEST"
   },
   {
-    "protein": "TEST"
+    "white cells": "PROBLEM"
   },
   {
-    "blood": "TEST"
+    "protein": "PROBLEM"
   },
   {
-    "red blood cells": "TEST"
+    "blood": "PROBLEM"
+  },
+  {
+    "red blood cells": "PROBLEM"
   },
   {
     "Urinary tract infection": "PROBLEM"
@@ -315,6 +336,9 @@
     "Chronic kidney disease": "PROBLEM"
   },
   {
+    "treatment": "TREATMENT"
+  },
+  {
     "allopurinol": "DRUG"
   },
   {
@@ -336,6 +360,9 @@
     "hyperlipidemia": "PROBLEM"
   },
   {
+    "pta": "TREATMENT"
+  },
+  {
     "gouty attack": "PROBLEM"
   },
   {
@@ -355,8 +382,5 @@
   },
   {
     "disease": "PROBLEM"
-  },
-  {
-    "pta": "TEST"
   }
 ]

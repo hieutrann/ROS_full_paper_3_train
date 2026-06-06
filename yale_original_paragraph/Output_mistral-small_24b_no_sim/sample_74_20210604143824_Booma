@@ -1,9 +1,9 @@
 [
   {
-    "ears": "TEST"
+    "erythema": "PROBLEM"
   },
   {
-    "nose": "TEST"
+    "tympanic": "TEST"
   },
   {
     "mouth": "TEST"
@@ -12,12 +12,12 @@
     "throat": "TEST"
   },
   {
-    "erythema": "PROBLEM"
-  },
-  {
-    "tympanic": "TEST"
+    "ears": "TEST"
   },
   {
     "mucosa": "TEST"
+  },
+  {
+    "nose": "TEST"
   }
 ]

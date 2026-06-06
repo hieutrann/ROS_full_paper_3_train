@@ -1,6 +1,6 @@
 [
   {
-    "fever of unknown origin": "PROBLEM"
+    "fever": "PROBLEM"
   },
   {
     "polymyositis/dermatomyositis": "PROBLEM"
@@ -15,7 +15,13 @@
     "urticarial rash": "PROBLEM"
   },
   {
-    "high fevers": "PROBLEM"
+    "fevers": "PROBLEM"
+  },
+  {
+    "infection": "PROBLEM"
+  },
+  {
+    "temperatures": "TEST"
   },
   {
     "chest x-ray": "TEST"
@@ -33,7 +39,10 @@
     "CT chest": "TEST"
   },
   {
-    "bibasilar pleural-based interstitial changes": "PROBLEM"
+    "pleural-based interstitial changes": "PROBLEM"
+  },
+  {
+    "CT abdomen and pelvis": "TEST"
   },
   {
     "serologies for CMV": "TEST"
@@ -93,10 +102,16 @@
     "nonspecific interstitial fibrosis": "PROBLEM"
   },
   {
+    "immunopathology": "TEST"
+  },
+  {
+    "CMV infection": "PROBLEM"
+  },
+  {
     "ganciclovir": "DRUG"
   },
   {
-    "methotrexate": "DRUG"
+    "antibiotic therapy": "TREATMENT"
   },
   {
     "chest x-ray": "TEST"
@@ -120,6 +135,12 @@
     "RBCs": "TEST"
   },
   {
+    "neutrophils": "TEST"
+  },
+  {
+    "lymphocytes": "TEST"
+  },
+  {
     "Disseminated CMV infection": "PROBLEM"
   },
   {
@@ -127,6 +148,9 @@
   },
   {
     "Polymyositis": "PROBLEM"
+  },
+  {
+    "immunosuppressive therapy": "TREATMENT"
   },
   {
     "methotrexate": "DRUG"

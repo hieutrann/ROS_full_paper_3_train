@@ -1,0 +1,1 @@
+['[\n  {"abdominal pain": "PROBLEM"},\n  {"30-pound weight loss": "PROBLEM"},\n  {"jaundice": "PROBLEM"},\n  {"epigastric pain": "PROBLEM"},\n  {"pancreatic mass": "PROBLEM"},\n  {"liver metastases": "PROBLEM"},\n  {"CT scan": "TEST"},\n  {"ERCP": "TEST"},\n  {"stent": "TREATMENT"},\n  {"Zofran": "DRUG"},\n  {"Phenergan": "DRUG"},\n  {"insulin sliding scale": "TREATMENT"}\n]']

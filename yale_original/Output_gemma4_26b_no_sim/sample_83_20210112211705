@@ -48,19 +48,22 @@
     "sonogram": "TEST"
   },
   {
-    "no gestational sac": "PROBLEM"
-  },
-  {
-    "small mass within the uterus": "PROBLEM"
-  },
-  {
     "gestational sac": "PROBLEM"
+  },
+  {
+    "small mass": "PROBLEM"
+  },
+  {
+    "uterus": "PROBLEM"
   },
   {
     "hCG titer": "TEST"
   },
   {
     "ruptured ectopic pregnancy": "PROBLEM"
+  },
+  {
+    "surgery": "TREATMENT"
   },
   {
     "laparotomy": "TREATMENT"
@@ -78,10 +81,13 @@
     "hemoglobin": "TEST"
   },
   {
-    "severe abdominal pain": "PROBLEM"
+    "abdominal pain": "PROBLEM"
   },
   {
     "ectopic": "PROBLEM"
+  },
+  {
+    "surgery": "TREATMENT"
   },
   {
     "fever": "PROBLEM"
@@ -123,9 +129,6 @@
     "hemoperitoneum": "PROBLEM"
   },
   {
-    "ruptured pregnancy": "PROBLEM"
-  },
-  {
-    "ectopic": "PROBLEM"
+    "ectopic pregnancy": "PROBLEM"
   }
 ]

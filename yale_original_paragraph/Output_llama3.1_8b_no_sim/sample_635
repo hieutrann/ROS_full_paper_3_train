@@ -1,12 +1,6 @@
 [
   {
-    "coronary atherosclerotic heart disease": "PROBLEM"
-  },
-  {
-    "chest discomfort": "PROBLEM"
-  },
-  {
-    "saphenous vein graft": "TREATMENT"
+    "catheterization": "TREATMENT"
   },
   {
     "angiography": "TEST"
@@ -18,19 +12,19 @@
     "angio-seal": "DRUG"
   },
   {
-    "closure device": "TREATMENT"
+    "closure device": "DRUG"
   },
   {
-    "catheterization": "TEST"
+    "coronary atherosclerotic heart disease": "PROBLEM"
+  },
+  {
+    "saphenous vein graft": "TREATMENT"
   },
   {
     "ventricular pressure": "TEST"
   },
   {
     "coronary artery": "PROBLEM"
-  },
-  {
-    "saphenous vein": "PROBLEM"
   },
   {
     "bifurcation": "PROBLEM"
@@ -42,6 +36,6 @@
     "ventricular": "PROBLEM"
   },
   {
-    "lidocaine": "DRUG"
+    "saphenous": "PROBLEM"
   }
 ]

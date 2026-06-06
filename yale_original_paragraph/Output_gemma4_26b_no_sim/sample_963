@@ -15,6 +15,15 @@
     "Micronase": "DRUG"
   },
   {
+    "ear abnormalities": "PROBLEM"
+  },
+  {
+    "nose abnormalities": "PROBLEM"
+  },
+  {
+    "throat abnormalities": "PROBLEM"
+  },
+  {
     "elevated cholesterol": "PROBLEM"
   },
   {
@@ -34,6 +43,15 @@
   },
   {
     "lung lesions": "PROBLEM"
+  },
+  {
+    "colon abnormalities": "PROBLEM"
+  },
+  {
+    "gall bladder problems": "PROBLEM"
+  },
+  {
+    "liver abnormalities": "PROBLEM"
   },
   {
     "peptic ulcer disease": "PROBLEM"
@@ -69,10 +87,19 @@
     "Bactrim": "DRUG"
   },
   {
+    "drug or alcohol abuse": "PROBLEM"
+  },
+  {
+    "Height": "TEST"
+  },
+  {
+    "Weight": "TEST"
+  },
+  {
     "BP": "TEST"
   },
   {
-    "Pulse": "TEST"
+    "Resp": "TEST"
   },
   {
     "jugular venous distension": "PROBLEM"
@@ -102,6 +129,9 @@
     "Acute cystitis": "PROBLEM"
   },
   {
+    "Endocrinology Consult": "TREATMENT"
+  },
+  {
     "CBC": "TEST"
   },
   {
@@ -109,20 +139,5 @@
   },
   {
     "Bactrim": "DRUG"
-  },
-  {
-    "bactrim": "DRUG"
-  },
-  {
-    "micronase": "DRUG"
-  },
-  {
-    "abdominal pain": "PROBLEM"
-  },
-  {
-    "diabetes type ii": "PROBLEM"
-  },
-  {
-    "diabetes": "PROBLEM"
   }
 ]

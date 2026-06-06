@@ -1,5 +1,11 @@
 [
   {
+    "Physical Exam": "TEST"
+  },
+  {
+    "chronological age": "PROBLEM"
+  },
+  {
     "blood pressure": "TEST"
   },
   {
@@ -18,7 +24,7 @@
     "Funduscopic examination": "TEST"
   },
   {
-    "pharynx": "PROBLEM"
+    "Posterior pharynx": "TEST"
   },
   {
     "Tympanic membranes": "TEST"
@@ -39,16 +45,13 @@
     "respiratory rate": "TEST"
   },
   {
-    "consolidation": "PROBLEM"
+    "retractions": "PROBLEM"
   },
   {
-    "egophony": "TEST"
+    "breath sounds": "TEST"
   },
   {
-    "bilateral breath sounds": "PROBLEM"
-  },
-  {
-    "jugular venous distention": "TEST"
+    "jugular venous distention": "PROBLEM"
   },
   {
     "carotid bruits": "PROBLEM"
@@ -57,25 +60,22 @@
     "heart size": "PROBLEM"
   },
   {
-    "murmur": "PROBLEM"
-  },
-  {
-    "S1 and S2": "TEST"
-  },
-  {
-    "ABDOMEN": "PROBLEM"
+    "gallop": "PROBLEM"
   },
   {
     "organomegaly": "PROBLEM"
   },
   {
-    "tenderness": "PROBLEM"
+    "rebound tenderness": "PROBLEM"
   },
   {
     "Bowel sounds": "TEST"
   },
   {
-    "Obturator and psoas signs": "TEST"
+    "Obturator": "TEST"
+  },
+  {
+    "psoas": "TEST"
   },
   {
     "bladder tenderness": "PROBLEM"
@@ -84,10 +84,25 @@
     "flank pain": "PROBLEM"
   },
   {
+    "motor tone": "TEST"
+  },
+  {
+    "strength": "TEST"
+  },
+  {
+    "reflexes": "TEST"
+  },
+  {
+    "joint strength": "TEST"
+  },
+  {
+    "sensation": "TEST"
+  },
+  {
     "Glasgow Coma Scale": "TEST"
   },
   {
-    "Cranial nerves II through XII": "TEST"
+    "Cranial nerves": "TEST"
   },
   {
     "motor": "TEST"
@@ -96,13 +111,13 @@
     "cerebellar": "TEST"
   },
   {
-    "lymph nodes": "PROBLEM"
+    "Reflexes": "TEST"
   },
   {
     "bleeding": "PROBLEM"
   },
   {
-    "skin purpura": "PROBLEM"
+    "purpura": "PROBLEM"
   },
   {
     "petechiae": "PROBLEM"
@@ -129,15 +144,15 @@
     "tenderness": "PROBLEM"
   },
   {
-    "motor": "TEST"
+    "motor": "PROBLEM"
   },
   {
-    "strength": "TEST"
+    "strength": "PROBLEM"
   },
   {
-    "reflexes": "TEST"
+    "reflexes": "PROBLEM"
   },
   {
-    "sounds": "TEST"
+    "sounds": "PROBLEM"
   }
 ]

@@ -6,6 +6,9 @@
     "swallowing function": "PROBLEM"
   },
   {
+    "NPO": "TREATMENT"
+  },
+  {
     "G-tube": "TREATMENT"
   },
   {
@@ -30,6 +33,9 @@
     "multimodality communication skills": "PROBLEM"
   },
   {
+    "swallowing function and safety": "PROBLEM"
+  },
+  {
     "modified barium swallow study": "TEST"
   },
   {
@@ -39,24 +45,18 @@
     "feeding tube": "TREATMENT"
   },
   {
+    "expressive language abilities": "PROBLEM"
+  },
+  {
     "unintelligible speech": "PROBLEM"
   },
   {
-    "communication device": "TREATMENT"
+    "alternative communication device": "TREATMENT"
   },
   {
     "augmented communication device": "TREATMENT"
   },
   {
     "speech generating device": "TREATMENT"
-  },
-  {
-    "aphasia": "PROBLEM"
-  },
-  {
-    "language evaluation": "TEST"
-  },
-  {
-    "swallowing": "PROBLEM"
   }
 ]

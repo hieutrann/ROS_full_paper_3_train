@@ -1,8 +1,5 @@
 [
   {
-    "Respiratory Distress": "PROBLEM"
-  },
-  {
     "cough": "PROBLEM"
   },
   {
@@ -48,7 +45,7 @@
     "respiratory distress": "PROBLEM"
   },
   {
-    "corticosteroids": "DRUG"
+    "inhaled as well as systemic corticosteroids": "DRUG"
   },
   {
     "x-ray": "TEST"
@@ -90,9 +87,6 @@
     "Zithromax": "DRUG"
   },
   {
-    "room air": "TREATMENT"
-  },
-  {
     "bilateral wheezing": "PROBLEM"
   },
   {
@@ -100,9 +94,6 @@
   },
   {
     "acute distress": "PROBLEM"
-  },
-  {
-    "Oropharynx": "TEST"
   },
   {
     "lymphadenopathy": "PROBLEM"
@@ -117,16 +108,7 @@
     "Bilateral basilar wheezing": "PROBLEM"
   },
   {
-    "distress": "PROBLEM"
-  },
-  {
-    "CARDIOVASCULAR": "TEST"
-  },
-  {
     "murmurs": "PROBLEM"
-  },
-  {
-    "Well perfused peripherally": "PROBLEM"
   },
   {
     "Bowel sounds": "TEST"
@@ -136,9 +118,6 @@
   },
   {
     "masses": "PROBLEM"
-  },
-  {
-    "Nontender to palpation": "PROBLEM"
   },
   {
     "Xopenex MDI": "DRUG"

@@ -1,6 +1,6 @@
 [
   {
-    "contusions": "PROBLEM"
+    "Multiple contusions": "PROBLEM"
   },
   {
     "abdominal pain": "PROBLEM"
@@ -12,7 +12,7 @@
     "pain low in her abdomen": "PROBLEM"
   },
   {
-    "painful throughout the bones of her pelvis": "PROBLEM"
+    "pain throughout the bones of her pelvis": "PROBLEM"
   },
   {
     "chest pain": "PROBLEM"
@@ -42,6 +42,9 @@
     "chilled": "PROBLEM"
   },
   {
+    "pain in her abdomen": "PROBLEM"
+  },
+  {
     "oral birth control medications": "DRUG"
   },
   {
@@ -57,19 +60,22 @@
     "Accutane": "DRUG"
   },
   {
-    "Temperature": "TEST"
+    "capsular retractions": "PROBLEM"
   },
   {
-    "blood pressure": "TEST"
+    "labored respirations": "PROBLEM"
   },
   {
-    "pulse": "TEST"
+    "accessory muscle usage": "PROBLEM"
   },
   {
-    "respiratory rate": "TEST"
+    "crepitus": "PROBLEM"
   },
   {
-    "pulse oximetry": "TEST"
+    "bony step-offs": "PROBLEM"
+  },
+  {
+    "lacerations on the scalp": "PROBLEM"
   },
   {
     "papilledema": "PROBLEM"
@@ -79,6 +85,15 @@
   },
   {
     "entrapment": "PROBLEM"
+  },
+  {
+    "mucoid discharge": "PROBLEM"
+  },
+  {
+    "exudate": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
   },
   {
     "thyromegaly": "PROBLEM"
@@ -111,7 +126,7 @@
     "rhonchi": "PROBLEM"
   },
   {
-    "tenderness in the bilateral lower pelvic quadrants": "PROBLEM"
+    "mild-to-moderate tenderness in the bilateral lower pelvic quadrants": "PROBLEM"
   },
   {
     "organomegaly": "PROBLEM"
@@ -165,7 +180,7 @@
     "prevertibral soft tissue swelling": "PROBLEM"
   },
   {
-    "CT scan of the brain": "TEST"
+    "CT scan of the brain without contrast": "TEST"
   },
   {
     "acute intracranial injury": "PROBLEM"
@@ -174,7 +189,7 @@
     "mucus in the left sphenoid sinus": "PROBLEM"
   },
   {
-    "CT scan without contrast of the abdomen": "TEST"
+    "emergent CT scan without contrast of the abdomen": "TEST"
   },
   {
     "dependent atelectasis": "PROBLEM"
@@ -213,7 +228,19 @@
     "contusion": "PROBLEM"
   },
   {
-    "abrasion": "PROBLEM"
+    "abrasion to her abdomen": "PROBLEM"
+  },
+  {
+    "Multiple contusions": "PROBLEM"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
   },
   {
     "Vicodin": "DRUG"

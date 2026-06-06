@@ -1,6 +1,6 @@
 [
   {
-    "Mesothelioma": "PROBLEM"
+    "mesothelioma": "PROBLEM"
   },
   {
     "pleural effusion": "PROBLEM"
@@ -21,25 +21,31 @@
     "deep venous thrombosis": "PROBLEM"
   },
   {
-    "pericarditis": "PROBLEM"
-  },
-  {
-    "pericardectomy": "TREATMENT"
-  },
-  {
     "decortication of the lung": "TREATMENT"
   },
   {
-    "pleural biopsy": "TREATMENT"
+    "pleural biopsy": "TEST"
   },
   {
     "transpleural fluoroscopy": "TEST"
   },
   {
-    "thoracentesis": "TREATMENT"
+    "thoracentesis": "TEST"
   },
   {
     "Port-A-Cath placement": "TREATMENT"
+  },
+  {
+    "pericardectomy": "TREATMENT"
+  },
+  {
+    "pericardial window": "TREATMENT"
+  },
+  {
+    "cholecystectomy": "TREATMENT"
+  },
+  {
+    "left thoracentesis": "TEST"
   },
   {
     "Coumadin": "DRUG"
@@ -66,18 +72,18 @@
     "Vicodin": "DRUG"
   },
   {
-    "chest x-ray": "TEST"
+    "Lovenox 40 mg subcutaneously": "DRUG"
   },
   {
-    "echocardiogram": "TEST"
+    "cisplatin 75 mg/centimeter squared": "DRUG"
   },
   {
-    "CT scan": "TEST"
+    "Alimta 500 mg/ centimeter squared": "DRUG"
   },
   {
-    "PET CT": "TEST"
+    "IV piggyback": "TREATMENT"
   },
   {
-    "lab tests": "TEST"
+    "chemotherapy": "TREATMENT"
   }
 ]

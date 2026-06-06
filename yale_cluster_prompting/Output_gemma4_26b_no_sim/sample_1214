@@ -1,8 +1,5 @@
 [
   {
-    "Respiratory Distress": "PROBLEM"
-  },
-  {
     "cough": "PROBLEM"
   },
   {
@@ -42,7 +39,7 @@
     "nebulized treatments": "TREATMENT"
   },
   {
-    "continuous nebulized albuterol": "DRUG"
+    "albuterol": "DRUG"
   },
   {
     "respiratory distress": "PROBLEM"
@@ -63,9 +60,6 @@
     "atelectasis": "PROBLEM"
   },
   {
-    "antibiotics": "DRUG"
-  },
-  {
     "fever": "PROBLEM"
   },
   {
@@ -78,6 +72,9 @@
     "white count": "TEST"
   },
   {
+    "bands": "TEST"
+  },
+  {
     "pneumonia": "PROBLEM"
   },
   {
@@ -87,10 +84,7 @@
     "Zithromax": "DRUG"
   },
   {
-    "room air": "TEST"
-  },
-  {
-    "bilateral wheezing": "PROBLEM"
+    "wheezing": "PROBLEM"
   },
   {
     "tachypnea": "PROBLEM"
@@ -102,13 +96,13 @@
     "thyromegaly": "PROBLEM"
   },
   {
-    "masses": "PROBLEM"
+    "wheezing": "PROBLEM"
   },
   {
-    "Bilateral basilar wheezing": "PROBLEM"
+    "murmurs": "TEST"
   },
   {
-    "Bowel sounds": "TEST"
+    "bowel sounds": "TEST"
   },
   {
     "hepatosplenomegaly": "PROBLEM"
@@ -138,7 +132,7 @@
     "pneumonia": "PROBLEM"
   },
   {
-    "onset of cough": "PROBLEM"
+    "cough": "PROBLEM"
   },
   {
     "reactive airways disease": "PROBLEM"

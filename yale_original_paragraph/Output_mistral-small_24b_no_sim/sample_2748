@@ -1,15 +1,12 @@
 [
   {
-    "jaw pain": "PROBLEM"
-  },
-  {
     "toothache": "PROBLEM"
   },
   {
-    "jaw": "PROBLEM"
+    "jaw pain": "PROBLEM"
   },
   {
-    "ear": "PROBLEM"
+    "Ellis type II dental fracture": "PROBLEM"
   },
   {
     "facial swelling": "PROBLEM"
@@ -96,16 +93,31 @@
     "lesions": "PROBLEM"
   },
   {
-    "vision": "PROBLEM"
+    "vision change": "PROBLEM"
   },
   {
-    "hearing": "PROBLEM"
+    "hearing change": "PROBLEM"
   },
   {
     "speech change": "PROBLEM"
   },
   {
-    "lymph node": "PROBLEM"
+    "lymph node swelling": "PROBLEM"
+  },
+  {
+    "Temperature": "TEST"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "pulse": "TEST"
+  },
+  {
+    "respirations": "TEST"
+  },
+  {
+    "oxygen saturation": "TEST"
   },
   {
     "dental fracture": "PROBLEM"
@@ -123,6 +135,9 @@
     "infection": "PROBLEM"
   },
   {
+    "fluctuance": "PROBLEM"
+  },
+  {
     "abscess": "PROBLEM"
   },
   {
@@ -135,16 +150,25 @@
     "lesion": "PROBLEM"
   },
   {
+    "swelling": "PROBLEM"
+  },
+  {
+    "tenderness": "PROBLEM"
+  },
+  {
+    "swelling": "PROBLEM"
+  },
+  {
+    "abscess": "PROBLEM"
+  },
+  {
+    "lymphadenopathy": "PROBLEM"
+  },
+  {
     "meningismus": "PROBLEM"
   },
   {
     "JVD": "PROBLEM"
-  },
-  {
-    "carotid artery": "PROBLEM"
-  },
-  {
-    "vertebral artery": "PROBLEM"
   },
   {
     "bruits": "PROBLEM"
@@ -159,28 +183,31 @@
     "gallop": "PROBLEM"
   },
   {
-    "abdomen": "PROBLEM"
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "abdominal pain": "PROBLEM"
   },
   {
     "abnormalities": "PROBLEM"
   },
   {
-    "extremities": "PROBLEM"
+    "rashes": "PROBLEM"
   },
   {
-    "cranial nerves": "TEST"
+    "lesions": "PROBLEM"
   },
   {
-    "speech": "TEST"
+    "speech": "PROBLEM"
   },
   {
-    "ambulation": "TEST"
+    "ambulation": "PROBLEM"
   },
   {
-    "mood": "TEST"
+    "mood": "PROBLEM"
   },
   {
-    "affect": "TEST"
+    "affect": "PROBLEM"
   },
   {
     "intoxification": "PROBLEM"
@@ -189,28 +216,16 @@
     "lymphadenitis": "PROBLEM"
   },
   {
-    "blood pressure": "TEST"
+    "ACUTE LEFT JAW PAIN": "PROBLEM"
   },
   {
-    "temperature": "TEST"
+    "#18 DENTAL FRACTURE": "PROBLEM"
   },
   {
-    "pulse": "TEST"
+    "ELLIS TYPE II FRACTURE": "PROBLEM"
   },
   {
-    "respirations": "TEST"
-  },
-  {
-    "oxygen saturation": "TEST"
-  },
-  {
-    "dental appointment": "TEST"
-  },
-  {
-    "dental fracture": "PROBLEM"
-  },
-  {
-    "Ellis type II fracture": "PROBLEM"
+    "ELEVATED BLOOD PRESSURE": "PROBLEM"
   },
   {
     "Motrin": "DRUG"
@@ -222,66 +237,12 @@
     "pen V": "DRUG"
   },
   {
-    "dental": "PROBLEM"
+    "dental appointment": "TREATMENT"
   },
   {
-    "dentist": "PROBLEM"
+    "reevaluation": "TREATMENT"
   },
   {
     "discharge instructions": "TREATMENT"
-  },
-  {
-    "toothache": "PROBLEM"
-  },
-  {
-    "drowsiness": "PROBLEM"
-  },
-  {
-    "driving": "PROBLEM"
-  },
-  {
-    "condition": "PROBLEM"
-  },
-  {
-    "worsening": "PROBLEM"
-  },
-  {
-    "problems": "PROBLEM"
-  },
-  {
-    "symptoms": "PROBLEM"
-  },
-  {
-    "concern": "PROBLEM"
-  },
-  {
-    "general medicine": "PROBLEM"
-  },
-  {
-    "jaw pain": "PROBLEM"
-  },
-  {
-    "dental appointment": "PROBLEM"
-  },
-  {
-    "Ellis type II fracture": "PROBLEM"
-  },
-  {
-    "Ellis type": "PROBLEM"
-  },
-  {
-    "dental fracture": "PROBLEM"
-  },
-  {
-    "toothache": "PROBLEM"
-  },
-  {
-    "tenderness": "PROBLEM"
-  },
-  {
-    "pressure": "PROBLEM"
-  },
-  {
-    "erythema": "PROBLEM"
   }
 ]

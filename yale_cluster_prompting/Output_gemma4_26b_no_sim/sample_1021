@@ -3,7 +3,10 @@
     "Full-Field Digital Mammogram (FFDM)": "TEST"
   },
   {
-    "Bilateral Screening Mammogram Full-Field Digital Mammography (FFDM)": "TEST"
+    "Bilateral Screening Mammogram": "TEST"
+  },
+  {
+    "Full-Field Digital Mammography (FFDM)": "TEST"
   },
   {
     "Benign Findings": "PROBLEM"
@@ -12,7 +15,7 @@
     "Digital screening mammogram": "TEST"
   },
   {
-    "screening mammography": "TEST"
+    "mammography": "TEST"
   },
   {
     "breast cancer": "PROBLEM"
@@ -21,19 +24,13 @@
     "Breast cancer": "PROBLEM"
   },
   {
-    "Craniocaudal and mediolateral oblique projections of bilateral breasts": "TEST"
-  },
-  {
-    "iCAD Second Look proprietary software": "TEST"
-  },
-  {
-    "FINDINGS": "PROBLEM"
+    "Craniocaudal and mediolateral oblique projections": "TEST"
   },
   {
     "calcifications": "PROBLEM"
   },
   {
-    "mass": "PROBLEM"
+    "dominant mass": "PROBLEM"
   },
   {
     "architecture distortion": "PROBLEM"
@@ -42,13 +39,13 @@
     "malignant-type calcifications": "PROBLEM"
   },
   {
-    "mammographic findings": "TEST"
+    "mammographic findings": "PROBLEM"
   },
   {
     "mammographic screening": "TEST"
   },
   {
-    "BIRADS Classification 2": "TEST"
+    "BIRADS Classification 2": "PROBLEM"
   },
   {
     "Benign": "PROBLEM"
@@ -66,10 +63,10 @@
     "malignancy": "PROBLEM"
   },
   {
-    "biopsy": "TEST"
+    "biopsy": "TREATMENT"
   },
   {
-    "mass": "PROBLEM"
+    "clinically suspicious mass": "PROBLEM"
   },
   {
     "digital mammography": "TEST"

@@ -33,13 +33,13 @@
     "Laparoscopic cholecystectomy": "TREATMENT"
   },
   {
-    "DISCHARGE DIAGNOSES": "TEST"
+    "DISCHARGE DIAGNOSES": "PROBLEM"
   },
   {
-    "cholecystitis": "PROBLEM"
+    "Acute cholecystitis": "PROBLEM"
   },
   {
-    "2": "TREATMENT"
+    "2": "PROBLEM"
   },
   {
     "laparoscopic cholecystectomy": "TREATMENT"
@@ -48,19 +48,19 @@
     "3": "PROBLEM"
   },
   {
-    "renal disease": "PROBLEM"
+    "End-stage renal disease": "PROBLEM"
   },
   {
     "hemodialysis": "TREATMENT"
   },
   {
-    "4": "TREATMENT"
+    "4": "PROBLEM"
   },
   {
     "Hyperlipidemia": "PROBLEM"
   },
   {
-    "5": "TEST"
+    "5": "PROBLEM"
   },
   {
     "Hypertension": "PROBLEM"
@@ -69,7 +69,7 @@
     "6": "PROBLEM"
   },
   {
-    "heart failure": "PROBLEM"
+    "Congestive heart failure": "PROBLEM"
   },
   {
     "7": "PROBLEM"
@@ -114,40 +114,34 @@
     "nauseated feeling": "PROBLEM"
   },
   {
-    "vital signs": "TEST"
+    "temperature": "PROBLEM"
   },
   {
-    "temperature": "TEST"
+    "pulse": "PROBLEM"
   },
   {
-    "pulse": "TEST"
-  },
-  {
-    "blood pressure": "TEST"
-  },
-  {
-    "EKG": "TEST"
-  },
-  {
-    "ultrasound": "TEST"
+    "blood pressure": "PROBLEM"
   },
   {
     "renal cyst": "PROBLEM"
   },
   {
-    "abdomen": "PROBLEM"
+    "ultrasound": "TEST"
+  },
+  {
+    "EKG": "TEST"
   },
   {
     "sludge": "PROBLEM"
   },
   {
-    "stone": "PROBLEM"
+    "a stone": "PROBLEM"
   },
   {
     "Thickening of the gallbladder wall": "PROBLEM"
   },
   {
-    "Murphy sign": "TEST"
+    "positive Murphy sign": "PROBLEM"
   },
   {
     "cholecystitis": "PROBLEM"
@@ -159,25 +153,25 @@
     "nitrite": "PROBLEM"
   },
   {
-    "creatinine": "TEST"
+    "creatinine": "PROBLEM"
   },
   {
-    "sodium": "TEST"
+    "sodium": "PROBLEM"
   },
   {
-    "potassium": "TEST"
+    "potassium": "PROBLEM"
   },
   {
-    "lipase": "TEST"
+    "lipase": "PROBLEM"
   },
   {
-    "amylase": "TEST"
+    "amylase": "PROBLEM"
   },
   {
     "IV fluid": "TREATMENT"
   },
   {
-    "IV antibiotic": "DRUG"
+    "low-dose IV antibiotic": "DRUG"
   },
   {
     "2-D echocardiogram": "TEST"
@@ -189,19 +183,16 @@
     "CHF": "PROBLEM"
   },
   {
-    "workup": "TEST"
-  },
-  {
-    "surgical consult": "TREATMENT"
-  },
-  {
     "blood culture": "TEST"
   },
   {
     "urine culture": "TEST"
   },
   {
-    "Dr": "TREATMENT"
+    "surgical consult": "TREATMENT"
+  },
+  {
+    "Dr.": "TREATMENT"
   },
   {
     "cholecystectomy": "TREATMENT"
@@ -213,16 +204,7 @@
     "cardiologist": "PROBLEM"
   },
   {
-    "Dr.": "PROBLEM"
-  },
-  {
     "laparoscopic cholecystectomy": "TREATMENT"
-  },
-  {
-    "surgery": "TREATMENT"
-  },
-  {
-    "moderate risk": "PROBLEM"
   },
   {
     "dialysis": "TREATMENT"
@@ -234,10 +216,7 @@
     "white count": "TEST"
   },
   {
-    "afebrile": "PROBLEM"
-  },
-  {
-    "postop day #1": "TEST"
+    "postop day #1": "PROBLEM"
   },
   {
     "chronic bronchitis": "PROBLEM"
@@ -246,7 +225,7 @@
     "surgery": "TREATMENT"
   },
   {
-    "surgeon": "TREATMENT"
+    "surgeon": "PROBLEM"
   },
   {
     "Synthroid": "DRUG"
@@ -258,7 +237,7 @@
     "folic acid": "DRUG"
   },
   {
-    "Diovan": "DRUG"
+    "Diovan 80 mg": "DRUG"
   },
   {
     "Renagel": "DRUG"
@@ -291,13 +270,13 @@
     "Vicodin": "DRUG"
   },
   {
-    "p.r.n.": "TREATMENT"
+    "q.6 hours p.r.n.": "TREATMENT"
   },
   {
     "Levaquin": "DRUG"
   },
   {
-    "days": "TREATMENT"
+    "5 days": "TREATMENT"
   },
   {
     "Premarin": "DRUG"
@@ -309,16 +288,16 @@
     "stroke": "PROBLEM"
   },
   {
-    "Discharged home": "TREATMENT"
+    "home": "PROBLEM"
   },
   {
-    "laparoscopic cholecystectomy": "TREATMENT"
-  },
-  {
-    "cholecystitis": "PROBLEM"
+    "end-stage renal disease": "PROBLEM"
   },
   {
     "lymphoma": "PROBLEM"
+  },
+  {
+    "cholecystitis": "PROBLEM"
   },
   {
     "congestive heart failure": "PROBLEM"
@@ -327,12 +306,6 @@
     "skin lymphoma": "PROBLEM"
   },
   {
-    "end-stage renal disease": "PROBLEM"
-  },
-  {
-    "gallbladder wall": "PROBLEM"
-  },
-  {
-    "discharge summary": "TEST"
+    "laparoscopic cholecystectomy": "TREATMENT"
   }
 ]

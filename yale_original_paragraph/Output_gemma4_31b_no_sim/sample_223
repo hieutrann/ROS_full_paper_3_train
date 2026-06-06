@@ -9,6 +9,9 @@
     "shoulder pain": "PROBLEM"
   },
   {
+    "lateral and posterior shoulder pain": "PROBLEM"
+  },
+  {
     "cervical radiculopathies": "PROBLEM"
   },
   {
@@ -51,21 +54,6 @@
     "temperature": "TEST"
   },
   {
-    "neurologic examination": "TEST"
-  },
-  {
-    "ENT examination": "TEST"
-  },
-  {
-    "oropharynx": "TEST"
-  },
-  {
-    "nasopharynx": "TEST"
-  },
-  {
-    "tympanic membranes": "TEST"
-  },
-  {
     "adenopathy": "PROBLEM"
   },
   {
@@ -73,6 +61,9 @@
   },
   {
     "tender": "PROBLEM"
+  },
+  {
+    "pain": "PROBLEM"
   },
   {
     "Neer's": "TEST"

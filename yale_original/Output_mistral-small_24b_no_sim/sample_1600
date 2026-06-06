@@ -6,7 +6,22 @@
     "Cesarean section": "TREATMENT"
   },
   {
-    "blood pressure": "TEST"
+    "blood pressure": "PROBLEM"
+  },
+  {
+    "delivery": "PROBLEM"
+  },
+  {
+    "cesarean section": "TREATMENT"
+  },
+  {
+    "blood pressure": "PROBLEM"
+  },
+  {
+    "blood pressure": "PROBLEM"
+  },
+  {
+    "blood pressure": "PROBLEM"
   },
   {
     "delivery": "PROBLEM"
@@ -21,19 +36,7 @@
     "blood pressure": "PROBLEM"
   },
   {
-    "blood pressure": "PROBLEM"
-  },
-  {
-    "delivery": "PROBLEM"
-  },
-  {
-    "cesarean section": "TREATMENT"
-  },
-  {
-    "blood pressure": "PROBLEM"
-  },
-  {
-    "blood pressure": "PROBLEM"
+    "medications": "DRUG"
   },
   {
     "blood pressure": "PROBLEM"
@@ -57,6 +60,9 @@
     "surgery": "TREATMENT"
   },
   {
+    "intensive care unit": "TREATMENT"
+  },
+  {
     "hypertension": "PROBLEM"
   },
   {
@@ -67,6 +73,9 @@
   },
   {
     "coronary artery disease": "PROBLEM"
+  },
+  {
+    "coronary disease": "PROBLEM"
   },
   {
     "C-section": "TREATMENT"
@@ -90,6 +99,12 @@
     "insulin": "DRUG"
   },
   {
+    "Nonsmoker": "PROBLEM"
+  },
+  {
+    "recreational drug use": "PROBLEM"
+  },
+  {
     "Hypertension": "PROBLEM"
   },
   {
@@ -97,9 +112,6 @@
   },
   {
     "pre-eclampsia": "PROBLEM"
-  },
-  {
-    "child": "PROBLEM"
   },
   {
     "miscarriage": "PROBLEM"
@@ -133,9 +145,6 @@
   },
   {
     "valley fever": "PROBLEM"
-  },
-  {
-    "epigastric discomfort": "PROBLEM"
   },
   {
     "hematemesis": "PROBLEM"
@@ -177,16 +186,25 @@
     "respiratory rate": "TEST"
   },
   {
+    "Atraumatic": "PROBLEM"
+  },
+  {
+    "normocephalic": "PROBLEM"
+  },
+  {
     "Neck veins": "TEST"
   },
   {
-    "LUNGS": "TEST"
+    "LUNGS": "PROBLEM"
   },
   {
-    "S1 and S2": "TEST"
+    "S1": "TEST"
   },
   {
-    "ABDOMEN": "TEST"
+    "S2": "TEST"
+  },
+  {
+    "ABDOMEN": "PROBLEM"
   },
   {
     "edema": "PROBLEM"
@@ -201,7 +219,7 @@
     "sinus tachycardia": "PROBLEM"
   },
   {
-    "ST-T changes": "PROBLEM"
+    "Labs": "TEST"
   },
   {
     "BUN": "TEST"
@@ -216,7 +234,7 @@
     "Cesarean section": "TREATMENT"
   },
   {
-    "blood pressure": "TEST"
+    "blood pressure": "PROBLEM"
   },
   {
     "cardiac disease": "PROBLEM"
@@ -237,7 +255,10 @@
     "hydralazine": "DRUG"
   },
   {
-    "obstetrics / gynecology": "PROBLEM"
+    "medication": "DRUG"
+  },
+  {
+    "obstetrics / gynecology": "TEST"
   },
   {
     "cardizem": "DRUG"
@@ -268,6 +289,9 @@
   },
   {
     "blood": "TEST"
+  },
+  {
+    "nonsmoker": "PROBLEM"
   },
   {
     "gestational": "PROBLEM"

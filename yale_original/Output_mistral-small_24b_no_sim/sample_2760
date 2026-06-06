@@ -3,7 +3,7 @@
     "Open reduction and internal fixation": "TREATMENT"
   },
   {
-    "right Schatzker III tibial plateau fracture": "PROBLEM"
+    "Schatzker III tibial plateau fracture": "PROBLEM"
   },
   {
     "partial medial meniscectomy": "TREATMENT"
@@ -27,6 +27,9 @@
     "partial medial meniscectomy": "TREATMENT"
   },
   {
+    "rehab": "TREATMENT"
+  },
+  {
     "hypothyroid": "PROBLEM"
   },
   {
@@ -39,19 +42,13 @@
     "congestive heart failure": "PROBLEM"
   },
   {
-    "operation": "TREATMENT"
-  },
-  {
     "open reduction and internal fixation": "TREATMENT"
   },
   {
-    "right Schatzker III tibial plateau fracture": "PROBLEM"
+    "Schatzker III tibial plateau fracture": "PROBLEM"
   },
   {
     "partial medial meniscectomy": "TREATMENT"
-  },
-  {
-    "floor": "TREATMENT"
   },
   {
     "CPM machine": "TREATMENT"
@@ -63,19 +60,22 @@
     "bronchitis": "PROBLEM"
   },
   {
-    "thick secretions": "PROBLEM"
+    "secretions": "PROBLEM"
   },
   {
     "fluid overload": "PROBLEM"
   },
   {
-    "nebulizer": "TREATMENT"
+    "nebulizer treatment": "TREATMENT"
   },
   {
     "Lasix": "DRUG"
   },
   {
-    "problem": "PROBLEM"
+    "stabilized": "TREATMENT"
+  },
+  {
+    "ABCD": "TEST"
   },
   {
     "open reduction and internal fixation": "TREATMENT"
@@ -85,6 +85,9 @@
   },
   {
     "partial medial meniscectomy": "TREATMENT"
+  },
+  {
+    "Regular": "TREATMENT"
   },
   {
     "Nonweightbearing": "TREATMENT"
@@ -129,7 +132,13 @@
     "Zithromax": "DRUG"
   },
   {
-    "guaifenesin": "DRUG"
+    "guaifenesin long-acting": "DRUG"
+  },
+  {
+    "Dr.": "TREATMENT"
+  },
+  {
+    "Stable": "PROBLEM"
   },
   {
     "open reduction": "TREATMENT"

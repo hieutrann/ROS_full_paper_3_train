@@ -1,29 +1,32 @@
 [
   {
-    "Liver Biopsy": "TREATMENT"
+    "liver biopsy": "TREATMENT"
   },
   {
-    "Percutaneous liver biopsy": "TREATMENT"
+    "liver biopsy": "TEST"
   },
   {
-    "Lidocaine": "DRUG"
+    "bile peritonitis": "PROBLEM"
   },
   {
-    "Hepatitis A and B vaccines": "DRUG"
+    "bowel perforation": "PROBLEM"
   },
   {
-    "Bile peritonitis": "PROBLEM"
+    "pneumothorax": "PROBLEM"
   },
   {
-    "Bowel perforation": "PROBLEM"
+    "hepatitis A vaccine": "DRUG"
   },
   {
-    "Pneumothorax": "PROBLEM"
+    "hepatitis B vaccine": "DRUG"
+  },
+  {
+    "lidocaine": "DRUG"
   },
   {
     "Klatskin needle": "TEST"
   },
   {
-    "Liver": "PROBLEM"
+    "mid axillary": "TEST"
   }
 ]

@@ -18,16 +18,10 @@
     "hoarseness": "PROBLEM"
   },
   {
-    "voicing difficulties": "PROBLEM"
-  },
-  {
     "speech therapy": "TREATMENT"
   },
   {
-    "Medical Center": "TEST"
-  },
-  {
-    "Outpatient Rehabilitation Department": "TEST"
+    "voicing difficulties": "PROBLEM"
   },
   {
     "speech therapy": "TREATMENT"
@@ -42,16 +36,10 @@
     "therapy": "TREATMENT"
   },
   {
-    "therapy sessions": "TREATMENT"
-  },
-  {
-    "home activities": "TREATMENT"
-  },
-  {
     "voice": "PROBLEM"
   },
   {
-    "SHORT-TERM GOALS": "TEST"
+    "SHORT-TERM GOALS": "TREATMENT"
   },
   {
     "Lessac-Madsen Resonant Voice Therapy Protocol": "TREATMENT"
@@ -60,7 +48,7 @@
     "2": "TEST"
   },
   {
-    "therapy 3": "TREATMENT"
+    "short-term goal therapy": "TREATMENT"
   },
   {
     "resonant voice therapy": "TREATMENT"
@@ -69,7 +57,7 @@
     "3": "PROBLEM"
   },
   {
-    "short-term goal number 2": "PROBLEM"
+    "ratio": "TEST"
   },
   {
     "4": "TREATMENT"
@@ -82,9 +70,6 @@
   },
   {
     "videostroboscopy": "TEST"
-  },
-  {
-    "outpatient therapy": "TREATMENT"
   },
   {
     "vocal hoarseness": "PROBLEM"
@@ -105,30 +90,27 @@
     "voicing": "PROBLEM"
   },
   {
-    "vocal hygiene": "TREATMENT"
+    "chronic laryngitis": "PROBLEM"
   },
   {
-    "voice activities": "TREATMENT"
+    "laryngitis": "PROBLEM"
   },
   {
     "hoarseness": "PROBLEM"
   },
   {
-    "chronic laryngitis": "PROBLEM"
+    "vocal hygiene": "TEST"
+  },
+  {
+    "voice activities": "TEST"
+  },
+  {
+    "videostroboscopy": "TEST"
   },
   {
     "skilled speech therapy": "TREATMENT"
   },
   {
     "voice therapy": "TREATMENT"
-  },
-  {
-    "resonant voice": "TREATMENT"
-  },
-  {
-    "videostroboscopy": "TEST"
-  },
-  {
-    "laryngitis": "PROBLEM"
   }
 ]

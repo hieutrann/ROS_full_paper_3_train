@@ -21,9 +21,6 @@
     "gastric bypass": "TREATMENT"
   },
   {
-    "labs": "TEST"
-  },
-  {
     "clear liquid diet": "TREATMENT"
   },
   {
@@ -46,6 +43,9 @@
   },
   {
     "calf pain": "PROBLEM"
+  },
+  {
+    "temperature": "TEST"
   },
   {
     "redness": "PROBLEM"

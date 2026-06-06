@@ -63,10 +63,7 @@
     "metoprolol": "DRUG"
   },
   {
-    "Premarin": "DRUG"
-  },
-  {
-    "hormone replacement": "TREATMENT"
+    "Premarin hormone replacement": "DRUG"
   },
   {
     "cholecystectomy": "TREATMENT"
@@ -93,19 +90,19 @@
     "shortness of breath": "PROBLEM"
   },
   {
-    "temperature": "TEST"
-  },
-  {
-    "vital signs": "TEST"
+    "anicteric": "PROBLEM"
   },
   {
     "non-injected": "PROBLEM"
   },
   {
-    "Regular rate and rhythm": "PROBLEM"
+    "Clear": "PROBLEM"
   },
   {
     "focally tender": "PROBLEM"
+  },
+  {
+    "left lower quadrant": "PROBLEM"
   },
   {
     "palpable fullness or mass": "PROBLEM"
@@ -177,10 +174,10 @@
     "CT scan of the abdomen and pelvis": "TEST"
   },
   {
-    "Colorectal Surgery": "TREATMENT"
+    "colonoscopy": "TEST"
   },
   {
-    "colonoscopy": "TEST"
+    "nothing by mouth": "TREATMENT"
   },
   {
     "acute surgical intervention": "TREATMENT"

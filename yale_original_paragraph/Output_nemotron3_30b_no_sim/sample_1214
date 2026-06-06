@@ -1,0 +1,44 @@
+[
+  {
+    "Respiratory distress": "PROBLEM"
+  },
+  {
+    "Reactive airways disease": "PROBLEM"
+  },
+  {
+    "Pneumonia": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "work of breathing": "PROBLEM"
+  },
+  {
+    "respiratory distress": "PROBLEM"
+  },
+  {
+    "respiratory": "PROBLEM"
+  },
+  {
+    "asthma": "PROBLEM"
+  },
+  {
+    "albuterol": "DRUG"
+  },
+  {
+    "corticosteroids": "DRUG"
+  },
+  {
+    "Xopenex MDI": "TREATMENT"
+  },
+  {
+    "QVAR": "TREATMENT"
+  },
+  {
+    "Amoxicillin": "DRUG"
+  },
+  {
+    "Zithromax": "DRUG"
+  }
+]

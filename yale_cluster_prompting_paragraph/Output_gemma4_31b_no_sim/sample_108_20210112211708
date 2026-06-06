@@ -15,6 +15,18 @@
     "outpatient skilled speech therapy": "TREATMENT"
   },
   {
+    "right hemisphere disorder": "PROBLEM"
+  },
+  {
+    "stroke": "PROBLEM"
+  },
+  {
+    "outpatient skilled speech therapy": "TREATMENT"
+  },
+  {
+    "therapy": "TREATMENT"
+  },
+  {
     "oral mechanism examination": "TEST"
   },
   {
@@ -40,6 +52,9 @@
   },
   {
     "left neglect": "PROBLEM"
+  },
+  {
+    "outpatient speech therapy": "TREATMENT"
   },
   {
     "outpatient speech therapy": "TREATMENT"

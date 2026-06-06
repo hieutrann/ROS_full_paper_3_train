@@ -12,58 +12,46 @@
     "small uterine fibroids": "PROBLEM"
   },
   {
-    "ADMISSION DIAGNOSES": "PROBLEM"
+    "ADMISSION DIAGNOSES": "TREATMENT"
   },
   {
     "Menometrorrhagia": "PROBLEM"
   },
   {
-    "2": "TEST"
+    "2": "TREATMENT"
   },
   {
     "Dysmenorrhea": "PROBLEM"
   },
   {
-    "3": "TEST"
+    "3": "TREATMENT"
   },
   {
     "uterine fibroids": "PROBLEM"
   },
   {
-    "DISCHARGE DIAGNOSES": "PROBLEM"
+    "DISCHARGE DIAGNOSES": "TREATMENT"
   },
   {
     "Menorrhagia": "PROBLEM"
   },
   {
-    "2": "TEST"
+    "2": "TREATMENT"
   },
   {
     "Dysmenorrhea": "PROBLEM"
   },
   {
-    "3": "TEST"
+    "3": "TREATMENT"
   },
   {
     "uterine fibroids": "PROBLEM"
   },
   {
-    "Total vaginal hysterectomy": "TREATMENT"
+    "vaginal hysterectomy": "TREATMENT"
   },
   {
-    "42 year-old": "TEST"
-  },
-  {
-    "white female": "TEST"
-  },
-  {
-    "gravida 3": "TEST"
-  },
-  {
-    "para 2": "TEST"
-  },
-  {
-    "vaginal deliveries": "TEST"
+    "white female": "PROBLEM"
   },
   {
     "menometrorrhagia": "PROBLEM"
@@ -96,25 +84,28 @@
     "hemoglobin": "TEST"
   },
   {
-    "total vaginal hysterectomy": "TREATMENT"
+    "vaginal hysterectomy": "TREATMENT"
   },
   {
     "general anesthesia": "TREATMENT"
   },
   {
-    "Bowel and bladder function": "PROBLEM"
+    "bladder function": "PROBLEM"
   },
   {
-    "ambulating": "TEST"
+    "bowel function": "PROBLEM"
   },
   {
-    "follow up": "TREATMENT"
+    "ambulating": "TREATMENT"
+  },
+  {
+    "office": "TREATMENT"
   },
   {
     "Vicodin": "DRUG"
   },
   {
-    "DISCHARGE CONDITION": "PROBLEM"
+    "Good": "PROBLEM"
   },
   {
     "dysmenorrhea": "PROBLEM"
@@ -129,6 +120,9 @@
     "menometrorrhagia": "PROBLEM"
   },
   {
-    "total vaginal hysterectomy": "TREATMENT"
+    "hysterectomy": "TREATMENT"
+  },
+  {
+    "fibroids": "PROBLEM"
   }
 ]

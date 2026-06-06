@@ -6,16 +6,10 @@
     "pathology specimen": "TEST"
   },
   {
-    "discharge": "TREATMENT"
-  },
-  {
-    "FINAL DIAGNOSIS/REASON FOR ADMISSION": "PROBLEM"
-  },
-  {
     "Acute right lobar pneumonia": "PROBLEM"
   },
   {
-    "2": "TEST"
+    "2": "TREATMENT"
   },
   {
     "Hypoxemia": "PROBLEM"
@@ -24,10 +18,10 @@
     "Hypotension": "PROBLEM"
   },
   {
-    "pneumonia": "PROBLEM"
+    "Pneumonia": "PROBLEM"
   },
   {
-    "3": "PROBLEM"
+    "3": "TREATMENT"
   },
   {
     "Electrolyte abnormality": "PROBLEM"
@@ -42,13 +36,10 @@
     "4": "TEST"
   },
   {
-    "Elevated liver function tests": "PROBLEM"
-  },
-  {
     "liver function tests": "TEST"
   },
   {
-    "5": "PROBLEM"
+    "5": "TEST"
   },
   {
     "dementia": "PROBLEM"
@@ -57,16 +48,13 @@
     "Alzheimer's": "PROBLEM"
   },
   {
-    "6": "PROBLEM"
+    "6": "TEST"
   },
   {
     "Anemia": "PROBLEM"
   },
   {
     "iron deficiency": "PROBLEM"
-  },
-  {
-    "7": "PROBLEM"
   },
   {
     "Darkened mole": "PROBLEM"
@@ -96,10 +84,10 @@
     "Y's results": "TEST"
   },
   {
-    "long-term acute facility": "TREATMENT"
+    "Dr": "TREATMENT"
   },
   {
-    "CONDITION ON DISCHARGE": "PROBLEM"
+    "acute care": "TREATMENT"
   },
   {
     "Flagyl": "DRUG"
@@ -117,7 +105,7 @@
     "dizziness": "PROBLEM"
   },
   {
-    "nonproductive cough": "PROBLEM"
+    "cough": "PROBLEM"
   },
   {
     "chest x-ray": "TEST"
@@ -138,18 +126,6 @@
     "infection": "PROBLEM"
   },
   {
-    "Blood, sputum, and urine cultures": "TEST"
-  },
-  {
-    "culture": "TEST"
-  },
-  {
-    "sputum": "TEST"
-  },
-  {
-    "urine": "TEST"
-  },
-  {
     "Levaquin": "DRUG"
   },
   {
@@ -168,34 +144,25 @@
     "dizzy": "PROBLEM"
   },
   {
-    "systolic blood pressure": "PROBLEM"
-  },
-  {
-    "blood pressure": "PROBLEM"
+    "systolic blood pressure": "TEST"
   },
   {
     "IV fluid management": "TREATMENT"
   },
   {
-    "fluid": "TREATMENT"
+    "blood pressure": "TEST"
   },
   {
     "Dr": "TREATMENT"
   },
   {
-    "fluid": "PROBLEM"
+    "fluid": "TREATMENT"
   },
   {
     "pulmonary": "PROBLEM"
   },
   {
-    "treatment": "TREATMENT"
-  },
-  {
-    "elevated liver function tests": "PROBLEM"
-  },
-  {
-    "Dr": "TEST"
+    "elevated liver function tests": "TEST"
   },
   {
     "ultrasound": "TEST"
@@ -216,7 +183,16 @@
     "Liver functions": "TEST"
   },
   {
-    "Infectious Disease": "PROBLEM"
+    "Liver functions": "TEST"
+  },
+  {
+    "elevated": "PROBLEM"
+  },
+  {
+    "Liver functions": "TEST"
+  },
+  {
+    "Infectious Disease": "TREATMENT"
   },
   {
     "antibiotics": "DRUG"
@@ -225,7 +201,13 @@
     "hypoxemic": "PROBLEM"
   },
   {
-    "incentive spirometry": "TEST"
+    "pulse oximetry": "TEST"
+  },
+  {
+    "incentive spirometry": "TREATMENT"
+  },
+  {
+    "pulmonary function": "TEST"
   },
   {
     "white count": "TEST"
@@ -273,16 +255,16 @@
     "occult blood": "PROBLEM"
   },
   {
-    "Hepatitis B antigen": "PROBLEM"
+    "Hepatitis B antigen": "TEST"
   },
   {
-    "Hepatitis A antibody IgM": "PROBLEM"
+    "Hepatitis A antibody IgM": "TEST"
   },
   {
-    "Hepatitis B core IgM": "PROBLEM"
+    "Hepatitis B core IgM": "TEST"
   },
   {
-    "Hepatitis C core antibody": "PROBLEM"
+    "Hepatitis C core antibody": "TEST"
   },
   {
     "sodium": "TEST"
@@ -309,13 +291,7 @@
     "iron": "TEST"
   },
   {
-    "total iron unbound": "TEST"
-  },
-  {
     "ferritin": "TEST"
-  },
-  {
-    "discharge": "TREATMENT"
   },
   {
     "back discomfort": "PROBLEM"
@@ -330,7 +306,7 @@
     "compression fracture": "PROBLEM"
   },
   {
-    "Dr": "TEST"
+    "Dr": "TREATMENT"
   },
   {
     "pneumonia": "PROBLEM"

@@ -1,6 +1,9 @@
 [
   {
-    "hysterectomy": "TREATMENT"
+    "total vaginal hysterectomy": "TREATMENT"
+  },
+  {
+    "ADMISSION DIAGNOSES": "PROBLEM"
   },
   {
     "Menorrhagia": "PROBLEM"
@@ -12,7 +15,7 @@
     "Pelvic pain": "PROBLEM"
   },
   {
-    "vaginal hysterectomy": "TREATMENT"
+    "Status post vaginal hysterectomy": "PROBLEM"
   },
   {
     "abnormal menstrual bleeding": "PROBLEM"
@@ -30,9 +33,6 @@
     "dysuria": "PROBLEM"
   },
   {
-    "symptoms": "PROBLEM"
-  },
-  {
     "pelvic pain": "PROBLEM"
   },
   {
@@ -45,10 +45,13 @@
     "total vaginal hysterectomy": "TREATMENT"
   },
   {
+    "Uterus": "PROBLEM"
+  },
+  {
     "pathologic analysis": "TEST"
   },
   {
-    "postoperatively": "TREATMENT"
+    "2 days postoperatively": "TREATMENT"
   },
   {
     "Laboratory studies": "TEST"
@@ -63,7 +66,7 @@
     "hematocrit": "TEST"
   },
   {
-    "discharge summary": "TEST"
+    "discharge summary": "PROBLEM"
   },
   {
     "menorrhagia": "PROBLEM"

@@ -15,7 +15,7 @@
     "acute events": "PROBLEM"
   },
   {
-    "new-onset cerebrovascular accident": "PROBLEM"
+    "cerebrovascular accident": "PROBLEM"
   },
   {
     "Right-sided facial droop": "PROBLEM"
@@ -48,13 +48,10 @@
     "acute events": "PROBLEM"
   },
   {
-    "new-onset cerebrovascular accident": "PROBLEM"
+    "cerebrovascular accident": "PROBLEM"
   },
   {
     "urinary tract infection": "PROBLEM"
-  },
-  {
-    "oral medications": "DRUG"
   },
   {
     "PENICILLIN": "DRUG"
@@ -70,9 +67,6 @@
   },
   {
     "Abnormality of gait": "PROBLEM"
-  },
-  {
-    "wheelchair bound": "PROBLEM"
   },
   {
     "Hypertension": "PROBLEM"
@@ -120,6 +114,12 @@
     "blood pressure": "TEST"
   },
   {
+    "Pupils": "TEST"
+  },
+  {
+    "External ocular muscles": "TEST"
+  },
+  {
     "right-sided facial droop": "PROBLEM"
   },
   {
@@ -138,6 +138,9 @@
     "systolic murmur": "PROBLEM"
   },
   {
+    "Clear to auscultation": "TEST"
+  },
+  {
     "tenderness": "PROBLEM"
   },
   {
@@ -150,7 +153,7 @@
     "fixed flexion deformity": "PROBLEM"
   },
   {
-    "right-sided slight facial droop": "PROBLEM"
+    "facial droop": "PROBLEM"
   },
   {
     "withdrawal of both lower extremities": "PROBLEM"
@@ -252,7 +255,7 @@
     "swallowing evaluation": "TEST"
   },
   {
-    "IV Vasotec": "DRUG"
+    "Vasotec": "DRUG"
   },
   {
     "systolic blood pressure": "TEST"

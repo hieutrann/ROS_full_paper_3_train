@@ -1,12 +1,6 @@
 [
   {
-    "Bilateral l5 spondylolysis": "PROBLEM"
-  },
-  {
-    "pars defects": "PROBLEM"
-  },
-  {
-    "spinal instability": "PROBLEM"
+    "spondylolysis": "PROBLEM"
   },
   {
     "radiculopathy": "PROBLEM"
@@ -36,10 +30,7 @@
     "interbody": "TREATMENT"
   },
   {
-    "posterolateral": "TREATMENT"
-  },
-  {
-    "arthrodesis": "TREATMENT"
+    "posterolateral arthrodesis": "TREATMENT"
   },
   {
     "cages": "TREATMENT"
@@ -54,22 +45,13 @@
     "pedicle fixation": "TREATMENT"
   },
   {
-    "back": "PROBLEM"
+    "X": "DRUG"
   },
   {
-    "buttock": "PROBLEM"
+    "back, buttock, and bilateral leg pain": "PROBLEM"
   },
   {
-    "leg": "PROBLEM"
-  },
-  {
-    "pain": "PROBLEM"
-  },
-  {
-    "bilateral pars defects": "PROBLEM"
-  },
-  {
-    "L5-S1": "PROBLEM"
+    "pars defects": "PROBLEM"
   },
   {
     "spondylolysis": "PROBLEM"
@@ -78,7 +60,19 @@
     "instability": "PROBLEM"
   },
   {
+    "surgical procedure": "TREATMENT"
+  },
+  {
+    "fluids": "TREATMENT"
+  },
+  {
+    "diet": "TREATMENT"
+  },
+  {
     "afebrile": "PROBLEM"
+  },
+  {
+    "wounds": "PROBLEM"
   },
   {
     "pain medication": "DRUG"
@@ -97,5 +91,8 @@
   },
   {
     "spondylolysis": "PROBLEM"
+  },
+  {
+    "leg": "PROBLEM"
   }
 ]

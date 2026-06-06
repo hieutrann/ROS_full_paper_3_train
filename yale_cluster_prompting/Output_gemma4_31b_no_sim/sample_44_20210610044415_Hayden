@@ -18,7 +18,7 @@
     "tubal ligation": "TREATMENT"
   },
   {
-    "Pap smear": "TEST"
+    "abnormal Pap smear": "TEST"
   },
   {
     "Biopsy": "TEST"
@@ -45,9 +45,6 @@
     "cone biopsy": "TREATMENT"
   },
   {
-    "LABORATORY DATA AND DIAGNOSTIC STUDIES": "TEST"
-  },
-  {
     "Chest x-ray": "TEST"
   },
   {
@@ -60,19 +57,10 @@
     "general anesthesia": "TREATMENT"
   },
   {
-    "cystotomy": "PROBLEM"
+    "incidental cystotomy": "PROBLEM"
   },
   {
     "creation of the bladder flap": "TREATMENT"
-  },
-  {
-    "repaired": "TREATMENT"
-  },
-  {
-    "Bowel and bladder function": "PROBLEM"
-  },
-  {
-    "postoperative instructions": "TREATMENT"
   },
   {
     "cystogram": "TEST"

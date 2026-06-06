@@ -1,11 +1,5 @@
 [
   {
-    "Airway Compromise": "PROBLEM"
-  },
-  {
-    "Foreign Body": "PROBLEM"
-  },
-  {
     "foreign body": "PROBLEM"
   },
   {
@@ -66,6 +60,15 @@
     "Solu-Medrol": "DRUG"
   },
   {
+    "illicit drugs": "DRUG"
+  },
+  {
+    "alcohol": "DRUG"
+  },
+  {
+    "tobacco": "DRUG"
+  },
+  {
     "airway compromise": "PROBLEM"
   },
   {
@@ -103,6 +106,9 @@
   },
   {
     "cholecystectomy": "TREATMENT"
+  },
+  {
+    "fishbone": "PROBLEM"
   },
   {
     "foreign body": "PROBLEM"

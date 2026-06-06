@@ -1,5 +1,11 @@
 [
   {
+    "Congestion": "PROBLEM"
+  },
+  {
+    "Cough": "PROBLEM"
+  },
+  {
     "cold": "PROBLEM"
   },
   {
@@ -45,7 +51,7 @@
     "physical exam": "TEST"
   },
   {
-    "right TM": "PROBLEM"
+    "right TM": "TEST"
   },
   {
     "red": "PROBLEM"
@@ -72,7 +78,7 @@
     "appetite had decreased": "PROBLEM"
   },
   {
-    "temperature": "TEST"
+    "temperature": "PROBLEM"
   },
   {
     "trouble sleeping": "PROBLEM"
@@ -93,13 +99,7 @@
     "hearing screen": "TEST"
   },
   {
-    "IMMUNIZATIONS": "TREATMENT"
-  },
-  {
-    "PHYSICAL EXAMINATION": "TEST"
-  },
-  {
-    "VITAL SIGNS": "TEST"
+    "respiratory rate": "TEST"
   },
   {
     "congested": "PROBLEM"
@@ -108,16 +108,19 @@
     "retractions": "PROBLEM"
   },
   {
-    "right TM was still red and irritated": "PROBLEM"
+    "right TM": "TEST"
   },
   {
-    "no light reflex": "PROBLEM"
+    "red": "PROBLEM"
+  },
+  {
+    "irritated": "PROBLEM"
+  },
+  {
+    "light reflex": "TEST"
   },
   {
     "nasal discharge": "PROBLEM"
-  },
-  {
-    "CARDIOVASCULAR EXAM": "TEST"
   },
   {
     "tachycardic": "PROBLEM"
@@ -136,9 +139,6 @@
   },
   {
     "edema": "PROBLEM"
-  },
-  {
-    "LABORATORY DATA": "TEST"
   },
   {
     "chem panel": "TEST"

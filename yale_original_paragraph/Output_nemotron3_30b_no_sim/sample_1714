@@ -1,0 +1,122 @@
+[
+  {
+    "Transforaminal Epidural Steroid Injection": "TEST"
+  },
+  {
+    "lumbar": "PROBLEM"
+  },
+  {
+    "lidocaine": "DRUG"
+  },
+  {
+    "1 % lidocaine": "DRUG"
+  },
+  {
+    "fluoroscopy": "TEST"
+  },
+  {
+    "bony landmarks": "PROBLEM"
+  },
+  {
+    "facet joints": "PROBLEM"
+  },
+  {
+    "needle": "TREATMENT"
+  },
+  {
+    "non-ionic contrast agent": "TEST"
+  },
+  {
+    "steroids": "DRUG"
+  },
+  {
+    "corticosteroids": "DRUG"
+  },
+  {
+    "sedatives": "DRUG"
+  },
+  {
+    "narcotics": "DRUG"
+  },
+  {
+    "nonionic contrast agents": "TEST"
+  },
+  {
+    "anesthetics": "DRUG"
+  },
+  {
+    "vascular entry of medications": "PROBLEM"
+  },
+  {
+    "oxygen saturation": "TEST"
+  },
+  {
+    "vital signs": "TEST"
+  },
+  {
+    "prone position": "TREATMENT"
+  },
+  {
+    "betadine": "TREATMENT"
+  },
+  {
+    "sterile drapes": "TREATMENT"
+  },
+  {
+    "spinal needle": "TREATMENT"
+  },
+  {
+    "epidurogram": "PROBLEM"
+  },
+  {
+    "radiculogram": "PROBLEM"
+  },
+  {
+    "treatment solution": "TREATMENT"
+  },
+  {
+    "preservative free": "PROBLEM"
+  },
+  {
+    "sterile techniques": "TREATMENT"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "chills": "PROBLEM"
+  },
+  {
+    "increased pain": "PROBLEM"
+  },
+  {
+    "weakness": "PROBLEM"
+  },
+  {
+    "sensory or motor changes": "PROBLEM"
+  },
+  {
+    "changes in bowel or bladder function": "PROBLEM"
+  },
+  {
+    "relative rest": "TREATMENT"
+  },
+  {
+    "ice the injection site": "TREATMENT"
+  },
+  {
+    "aggressive activities": "PROBLEM"
+  },
+  {
+    "resume all medications": "TREATMENT"
+  },
+  {
+    "normal activities": "TREATMENT"
+  }
+]

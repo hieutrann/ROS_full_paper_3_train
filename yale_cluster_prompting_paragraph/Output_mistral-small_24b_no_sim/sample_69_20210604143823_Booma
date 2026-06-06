@@ -1,8 +1,5 @@
 [
   {
-    "vital signs": "TEST"
-  },
-  {
     "afebrile": "PROBLEM"
   },
   {
@@ -12,159 +9,147 @@
     "heart rate": "TEST"
   },
   {
-    "eyes": "TEST"
+    "conjunctiva": "PROBLEM"
   },
   {
-    "conjunctiva": "TEST"
-  },
-  {
-    "pupil": "TEST"
+    "pupil": "PROBLEM"
   },
   {
     "ptosis": "PROBLEM"
   },
   {
-    "irides": "TEST"
+    "irides": "PROBLEM"
   },
   {
-    "ears": "TEST"
+    "ears": "PROBLEM"
   },
   {
-    "nose": "TEST"
+    "nose": "PROBLEM"
   },
   {
-    "throat": "TEST"
+    "hearing": "PROBLEM"
   },
   {
-    "hearing": "TEST"
+    "oropharynx": "PROBLEM"
   },
   {
-    "oropharynx": "TEST"
+    "mucosa": "PROBLEM"
   },
   {
-    "mucosa": "TEST"
+    "lesion": "PROBLEM"
   },
   {
-    "palate": "TEST"
+    "palate": "PROBLEM"
   },
   {
-    "tongue": "TEST"
+    "tongue": "PROBLEM"
   },
   {
-    "tonsil": "TEST"
+    "tonsil": "PROBLEM"
   },
   {
-    "posterior pharynx": "TEST"
+    "posterior pharynx": "PROBLEM"
   },
   {
-    "neck": "TEST"
+    "neck": "PROBLEM"
   },
   {
-    "thyroid gland": "TEST"
+    "thyroid gland": "PROBLEM"
   },
   {
-    "respiratory effort": "TEST"
+    "respiratory effort": "PROBLEM"
   },
   {
-    "lung": "TEST"
+    "lung": "PROBLEM"
   },
   {
-    "heart": "TEST"
+    "air movement": "PROBLEM"
   },
   {
-    "S1": "TEST"
+    "heart": "PROBLEM"
   },
   {
-    "S2": "TEST"
+    "S1": "PROBLEM"
+  },
+  {
+    "S2": "PROBLEM"
+  },
+  {
+    "rate": "PROBLEM"
   },
   {
     "murmur": "PROBLEM"
   },
   {
-    "extremities": "TEST"
-  },
-  {
     "edema": "PROBLEM"
   },
   {
-    "abdomen": "TEST"
+    "abdomen": "PROBLEM"
   },
   {
-    "liver": "TEST"
+    "liver": "PROBLEM"
   },
   {
-    "spleen": "TEST"
+    "spleen": "PROBLEM"
   },
   {
-    "bowel sounds": "TEST"
+    "bowel sounds": "PROBLEM"
   },
   {
-    "scrotal elements": "TEST"
+    "scrotal elements": "PROBLEM"
   },
   {
-    "testes": "TEST"
+    "testes": "PROBLEM"
   },
   {
-    "penis": "TEST"
+    "mass": "PROBLEM"
   },
   {
-    "lymphatic": "TEST"
+    "penis": "PROBLEM"
   },
   {
-    "node": "TEST"
+    "discharge": "PROBLEM"
   },
   {
-    "groin": "TEST"
+    "node": "PROBLEM"
   },
   {
-    "head": "TEST"
+    "groin": "PROBLEM"
   },
   {
-    "neck": "TEST"
+    "head": "PROBLEM"
   },
   {
     "deformity": "PROBLEM"
   },
   {
-    "range of motion": "TEST"
+    "range of motion": "PROBLEM"
   },
   {
-    "upper extremities": "TEST"
+    "skin": "PROBLEM"
   },
   {
-    "lower extremities": "TEST"
+    "subcutaneous tissues": "PROBLEM"
   },
   {
-    "skin": "TEST"
+    "Deep tendon reflexes": "TEST"
   },
   {
-    "subcutaneous tissues": "TEST"
+    "sensation": "PROBLEM"
   },
   {
-    "deep tendon reflexes": "TEST"
+    "time": "PROBLEM"
   },
   {
-    "patellar area": "TEST"
+    "place": "PROBLEM"
   },
   {
-    "sensation": "TEST"
+    "person": "PROBLEM"
   },
   {
-    "touch": "TEST"
+    "judgment": "PROBLEM"
   },
   {
-    "time": "TEST"
-  },
-  {
-    "place": "TEST"
-  },
-  {
-    "person": "TEST"
-  },
-  {
-    "judgment": "TEST"
-  },
-  {
-    "insight": "TEST"
+    "insight": "PROBLEM"
   }
 ]

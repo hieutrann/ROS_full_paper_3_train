@@ -1,6 +1,6 @@
 [
   {
-    "cardiac catheterization": "TREATMENT"
+    "cardiac catheterization": "TEST"
   },
   {
     "Coronary artery disease": "PROBLEM"
@@ -24,7 +24,7 @@
     "deconditioning": "PROBLEM"
   },
   {
-    "cardiac catheterization": "TREATMENT"
+    "cardiac catheterization": "TEST"
   },
   {
     "Coronary artery disease": "PROBLEM"
@@ -42,13 +42,10 @@
     "obesity": "PROBLEM"
   },
   {
-    "lesion": "PROBLEM"
+    "A 1.1 cm lesion": "PROBLEM"
   },
   {
     "Deconditioning": "PROBLEM"
-  },
-  {
-    "Cardiology": "TREATMENT"
   },
   {
     "Echocardiogram": "TEST"
@@ -72,22 +69,19 @@
     "cardiac workup": "TEST"
   },
   {
-    "vital signs": "TEST"
-  },
-  {
     "myocardial infarction": "PROBLEM"
   },
   {
     "troponin x2": "TEST"
   },
   {
-    "echocardiogram": "TEST"
+    "An echocardiogram": "TEST"
   },
   {
     "concentric LVH": "PROBLEM"
   },
   {
-    "EF": "TEST"
+    "an EF of 62%": "TEST"
   },
   {
     "stress test": "TEST"
@@ -102,10 +96,13 @@
     "MRI": "TEST"
   },
   {
-    "1 cm lesion in the right parietal lobe": "PROBLEM"
+    "1 cm lesion": "PROBLEM"
   },
   {
-    "cardiac cath": "TREATMENT"
+    "cardiac cath": "TEST"
+  },
+  {
+    "Stable": "PROBLEM"
   },
   {
     "Aspirin": "DRUG"
@@ -120,7 +117,7 @@
     "Novolin 70/30": "DRUG"
   },
   {
-    "Metformin": "DRUG"
+    "Metformin 500 mg p.o.": "DRUG"
   },
   {
     "Protonix": "DRUG"

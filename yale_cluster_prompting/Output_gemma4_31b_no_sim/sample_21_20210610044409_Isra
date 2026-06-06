@@ -1,9 +1,9 @@
 [
   {
-    "Nausea & Vomiting": "PROBLEM"
+    "intractable nausea": "PROBLEM"
   },
   {
-    "intractable nausea and vomiting": "PROBLEM"
+    "vomiting": "PROBLEM"
   },
   {
     "blood-tinged vomit": "PROBLEM"
@@ -16,9 +16,6 @@
   },
   {
     "blood-tinged vomit": "PROBLEM"
-  },
-  {
-    "pregnancy": "PROBLEM"
   },
   {
     "low sodium": "PROBLEM"
@@ -36,22 +33,19 @@
     "total bilirubin": "TEST"
   },
   {
-    "urine": "TEST"
+    "3+ ketones": "TEST"
   },
   {
-    "ketones": "TEST"
+    "2+ protein": "TEST"
   },
   {
-    "protein": "TEST"
+    "1+ esterase": "TEST"
   },
   {
-    "esterase": "TEST"
+    "rbc too numerous to count": "TEST"
   },
   {
-    "rbc": "TEST"
-  },
-  {
-    "bacteria": "PROBLEM"
+    "moderate amount of bacteria": "PROBLEM"
   },
   {
     "H and H": "TEST"
@@ -85,12 +79,6 @@
   },
   {
     "Maalox": "DRUG"
-  },
-  {
-    "fluids": "TREATMENT"
-  },
-  {
-    "Followup chemistry": "TEST"
   },
   {
     "AST": "TEST"

@@ -1,38 +1,71 @@
 [
   {
-    "jugular venous distention": "PROBLEM"
+    "blood pressure": "TEST"
   },
   {
-    "flank": "PROBLEM"
+    "temperature": "TEST"
   },
   {
-    "bladder": "PROBLEM"
+    "respirations": "TEST"
   },
   {
-    "normal physical exam": "TEST"
+    "pulse": "TEST"
   },
   {
-    "neck": "TEST"
+    "thyroid": "PROBLEM"
   },
   {
-    "nodes": "TEST"
+    "pupils": "PROBLEM"
   },
   {
-    "respiratory": "TEST"
+    "lungs": "PROBLEM"
   },
   {
-    "tenderness": "TEST"
+    "heart size": "PROBLEM"
   },
   {
-    "motor": "TEST"
+    "murmur": "PROBLEM"
   },
   {
-    "strength": "TEST"
+    "S1": "PROBLEM"
   },
   {
-    "reflexes": "TEST"
+    "S2": "PROBLEM"
   },
   {
-    "sounds": "TEST"
+    "gallop": "PROBLEM"
+  },
+  {
+    "organomegaly": "PROBLEM"
+  },
+  {
+    "rebound tenderness": "PROBLEM"
+  },
+  {
+    "bladder tenderness": "PROBLEM"
+  },
+  {
+    "flank pain": "PROBLEM"
+  },
+  {
+    "lymph nodes": "PROBLEM"
+  },
+  {
+    "bleeding": "PROBLEM"
+  },
+  {
+    "skin purpura": "PROBLEM"
+  },
+  {
+    "petechiae": "PROBLEM"
+  },
+  {
+    "hemorrhage": "PROBLEM"
+  },
+  {
+    "depression": "PROBLEM"
+  },
+  {
+    "suicidal ideations": "PROBLEM"
   }
 ]

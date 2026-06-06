@@ -1,8 +1,5 @@
 [
   {
-    "vaginal delivery": "TREATMENT"
-  },
-  {
     "C-sections": "TREATMENT"
   },
   {
@@ -30,13 +27,7 @@
     "Apgar scores": "TEST"
   },
   {
-    "Fluid": "PROBLEM"
-  },
-  {
     "Nuchal cord": "PROBLEM"
-  },
-  {
-    "Prenatal": "TREATMENT"
   },
   {
     "Prenatal labs": "TEST"
@@ -123,12 +114,6 @@
     "NeoSure": "DRUG"
   },
   {
-    "room air": "TREATMENT"
-  },
-  {
-    "gaining weight": "PROBLEM"
-  },
-  {
     "Respiratory distress": "PROBLEM"
   },
   {
@@ -147,12 +132,24 @@
     "NeoSure": "DRUG"
   },
   {
-    "Ad lib feeding on demand": "TREATMENT"
+    "Ad lib feeding": "TREATMENT"
+  },
+  {
+    "gestation": "PROBLEM"
+  },
+  {
+    "preemie": "PROBLEM"
   },
   {
     "prematurity": "PROBLEM"
   },
   {
     "sepsis": "PROBLEM"
+  },
+  {
+    "neosure": "DRUG"
+  },
+  {
+    "feeds": "TREATMENT"
   }
 ]

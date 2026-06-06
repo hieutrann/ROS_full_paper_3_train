@@ -1,6 +1,6 @@
 [
   {
-    "mesothelioma": "PROBLEM"
+    "peritoneal mesothelioma": "PROBLEM"
   },
   {
     "bowel perforations": "PROBLEM"
@@ -10,6 +10,9 @@
   },
   {
     "bowel perforations": "PROBLEM"
+  },
+  {
+    "n.p.o.": "TREATMENT"
   },
   {
     "pleurodesis": "TREATMENT"
@@ -31,9 +34,6 @@
   },
   {
     "Tylenol": "DRUG"
-  },
-  {
-    "procedures": "TREATMENT"
   },
   {
     "abdominal pain": "PROBLEM"

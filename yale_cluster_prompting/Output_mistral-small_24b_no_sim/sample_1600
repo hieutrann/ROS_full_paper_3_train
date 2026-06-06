@@ -36,10 +36,10 @@
     "uncontrolled blood pressure": "PROBLEM"
   },
   {
-    "blood pressure": "PROBLEM"
+    "multiple medications": "DRUG"
   },
   {
-    "multiple medications": "DRUG"
+    "blood pressure": "PROBLEM"
   },
   {
     "chest pain": "PROBLEM"
@@ -69,7 +69,7 @@
     "gestational diabetes mellitus": "PROBLEM"
   },
   {
-    "cholesterol": "TEST"
+    "cholesterol": "PROBLEM"
   },
   {
     "coronary artery disease": "PROBLEM"
@@ -87,22 +87,10 @@
     "metoprolol": "DRUG"
   },
   {
-    "hydralazine": "DRUG"
+    "hydralazine 50 mg t.i.d.": "DRUG"
   },
   {
-    "50 mg": "DRUG"
-  },
-  {
-    "t.i.d.": "DRUG"
-  },
-  {
-    "labetalol": "DRUG"
-  },
-  {
-    "200 mg": "DRUG"
-  },
-  {
-    "b.i.d.": "DRUG"
+    "labetalol 200 mg b.i.d.": "DRUG"
   },
   {
     "hydrochlorothiazide": "DRUG"
@@ -112,6 +100,9 @@
   },
   {
     "Nonsmoker": "PROBLEM"
+  },
+  {
+    "recreational drug use": "PROBLEM"
   },
   {
     "Hypertension": "PROBLEM"
@@ -144,7 +135,10 @@
     "glaucoma": "PROBLEM"
   },
   {
-    "No congestive heart": "PROBLEM"
+    "congestive heart": "PROBLEM"
+  },
+  {
+    "arrhythmia": "PROBLEM"
   },
   {
     "pneumonia": "PROBLEM"
@@ -162,40 +156,70 @@
     "melena": "PROBLEM"
   },
   {
+    "frequency": "PROBLEM"
+  },
+  {
+    "urgency": "PROBLEM"
+  },
+  {
     "arthritis": "PROBLEM"
   },
   {
     "muscle weakness": "PROBLEM"
   },
   {
-    "No TIA": "PROBLEM"
+    "Nonsignificant": "PROBLEM"
   },
   {
-    "No CVA": "PROBLEM"
+    "TIA": "PROBLEM"
   },
   {
-    "No seizure disorder": "PROBLEM"
+    "CVA": "PROBLEM"
+  },
+  {
+    "seizure disorder": "PROBLEM"
+  },
+  {
+    "Pulse": "TEST"
   },
   {
     "blood pressure": "TEST"
   },
   {
-    "Neck veins": "TEST"
+    "afebrile": "PROBLEM"
+  },
+  {
+    "respiratory rate": "TEST"
+  },
+  {
+    "Atraumatic": "PROBLEM"
+  },
+  {
+    "normocephalic": "PROBLEM"
+  },
+  {
+    "Neck veins": "PROBLEM"
   },
   {
     "LUNGS": "PROBLEM"
   },
   {
-    "S1 and S2": "TEST"
+    "S1": "TEST"
   },
   {
-    "Soft and nontender": "PROBLEM"
+    "S2": "TEST"
   },
   {
-    "No edema": "PROBLEM"
+    "Soft": "PROBLEM"
   },
   {
-    "Pulses palpable": "PROBLEM"
+    "nontender": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "Pulses": "PROBLEM"
   },
   {
     "EKG": "TEST"
@@ -204,7 +228,7 @@
     "sinus tachycardia": "PROBLEM"
   },
   {
-    "ST-T changes": "PROBLEM"
+    "Labs": "TEST"
   },
   {
     "BUN": "TEST"
@@ -219,22 +243,28 @@
     "Cesarean section": "TREATMENT"
   },
   {
-    "blood pressure": "PROBLEM"
+    "uncontrolled blood pressure": "PROBLEM"
+  },
+  {
+    "cardiac disease": "PROBLEM"
   },
   {
     "gestational diabetes mellitus": "PROBLEM"
   },
   {
-    "echocardiogram": "TEST"
-  },
-  {
-    "left ventricular function": "PROBLEM"
+    "an echocardiogram": "TEST"
   },
   {
     "labetalol": "DRUG"
   },
   {
     "hydralazine": "DRUG"
+  },
+  {
+    "medication": "DRUG"
+  },
+  {
+    "obstetrics / gynecology": "PROBLEM"
   },
   {
     "cardizem": "DRUG"
@@ -252,7 +282,7 @@
     "pre-eclampsia": "PROBLEM"
   },
   {
-    "blood pressure": "TEST"
+    "blood pressure": "PROBLEM"
   },
   {
     "uncontrolled blood pressure": "PROBLEM"
@@ -261,7 +291,19 @@
     "gestational diabetes": "PROBLEM"
   },
   {
+    "preeclampsia": "PROBLEM"
+  },
+  {
     "cesarean section": "TREATMENT"
+  },
+  {
+    "blood": "TEST"
+  },
+  {
+    "nonsmoker": "PROBLEM"
+  },
+  {
+    "gestational": "PROBLEM"
   },
   {
     "cesarean": "TREATMENT"
@@ -273,9 +315,6 @@
     "delivery": "TREATMENT"
   },
   {
-    "pressure": "TEST"
-  },
-  {
-    "preeclampsia": "PROBLEM"
+    "pressure": "PROBLEM"
   }
 ]

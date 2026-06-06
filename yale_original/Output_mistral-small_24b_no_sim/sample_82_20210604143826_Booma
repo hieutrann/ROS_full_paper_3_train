@@ -36,10 +36,7 @@
     "fall": "PROBLEM"
   },
   {
-    "cardiology consultation": "TEST"
-  },
-  {
-    "left side": "PROBLEM"
+    "rock": "PROBLEM"
   },
   {
     "rapid atrial tachyarrhythmia": "PROBLEM"
@@ -48,13 +45,10 @@
     "Cardizem": "DRUG"
   },
   {
-    "heart rate": "TEST"
-  },
-  {
-    "EKGs": "TEST"
-  },
-  {
     "multifocal atrial tachycardia": "PROBLEM"
+  },
+  {
+    "EKG": "TEST"
   },
   {
     "EKG": "TEST"
@@ -66,9 +60,6 @@
     "ECG": "TEST"
   },
   {
-    "normal sinus rhythm": "PROBLEM"
-  },
-  {
     "APCs": "PROBLEM"
   },
   {
@@ -76,12 +67,6 @@
   },
   {
     "palpitations": "PROBLEM"
-  },
-  {
-    "pain": "PROBLEM"
-  },
-  {
-    "fall": "PROBLEM"
   },
   {
     "chest pain": "PROBLEM"
@@ -96,13 +81,13 @@
     "climb": "PROBLEM"
   },
   {
+    "Dr.": "TREATMENT"
+  },
+  {
     "tricuspid regurgitation": "PROBLEM"
   },
   {
     "PA pressure": "TEST"
-  },
-  {
-    "left and right ventricular systolic function": "TEST"
   },
   {
     "aortic sclerosis": "PROBLEM"
@@ -114,7 +99,7 @@
     "bi-atrial enlargement": "PROBLEM"
   },
   {
-    "Persantine Myoview nuclear rest-stress test scan": "TEST"
+    "Persantine Myoview nuclear rest-stress test": "TEST"
   },
   {
     "mitral valve regurgitation": "PROBLEM"
@@ -129,10 +114,13 @@
     "EKGs": "TEST"
   },
   {
-    "sinus rhythm": "PROBLEM"
+    "normal sinus rhythm": "PROBLEM"
   },
   {
     "APCs": "PROBLEM"
+  },
+  {
+    "wandering atrial pacemaker": "PROBLEM"
   },
   {
     "hypertension": "PROBLEM"
@@ -162,7 +150,7 @@
     "Felodipine": "DRUG"
   },
   {
-    "Klor-Con": "DRUG"
+    "Klor-Con 20 mEq": "DRUG"
   },
   {
     "Omeprazole": "DRUG"
@@ -180,7 +168,7 @@
     "PENICILLIN": "DRUG"
   },
   {
-    "Toprol": "DRUG"
+    "TOPROL": "DRUG"
   },
   {
     "shortness of breath": "PROBLEM"
@@ -190,6 +178,15 @@
   },
   {
     "MI": "PROBLEM"
+  },
+  {
+    "cigarettes": "DRUG"
+  },
+  {
+    "alcohol": "DRUG"
+  },
+  {
+    "illicit drugs": "DRUG"
   },
   {
     "stroke": "PROBLEM"
@@ -234,7 +231,7 @@
     "sleep apnea": "PROBLEM"
   },
   {
-    "home oxygen use": "TREATMENT"
+    "home oxygen": "TREATMENT"
   },
   {
     "peripheral edema": "PROBLEM"
@@ -250,9 +247,6 @@
   },
   {
     "depressed": "PROBLEM"
-  },
-  {
-    "rheumatologic conditions": "PROBLEM"
   },
   {
     "psoriasis": "PROBLEM"
@@ -285,7 +279,7 @@
     "O2 saturation": "TEST"
   },
   {
-    "hard of hearing": "PROBLEM"
+    "hearing": "PROBLEM"
   },
   {
     "cranium": "TEST"
@@ -297,28 +291,16 @@
     "Neck veins": "TEST"
   },
   {
-    "carotid bruits": "PROBLEM"
-  },
-  {
-    "Lungs": "PROBLEM"
+    "wheezes": "PROBLEM"
   },
   {
     "left hip fracture": "PROBLEM"
-  },
-  {
-    "S1": "TEST"
-  },
-  {
-    "S2": "TEST"
   },
   {
     "ectopic beats": "PROBLEM"
   },
   {
     "systolic ejection murmur": "PROBLEM"
-  },
-  {
-    "aortic component": "PROBLEM"
   },
   {
     "holosystolic murmur": "PROBLEM"
@@ -330,7 +312,10 @@
     "gallop": "PROBLEM"
   },
   {
-    "Abdomen": "TEST"
+    "PMI": "PROBLEM"
+  },
+  {
+    "Abdomen": "PROBLEM"
   },
   {
     "Bowel sounds": "TEST"
@@ -355,6 +340,9 @@
   },
   {
     "chest x-ray": "TEST"
+  },
+  {
+    "calcified aortic knob": "PROBLEM"
   },
   {
     "pulmonary vascular congestion": "PROBLEM"
@@ -450,13 +438,16 @@
     "surgery": "TREATMENT"
   },
   {
+    "Telemetry": "TEST"
+  },
+  {
     "sinus rhythm": "PROBLEM"
   },
   {
     "APCs": "PROBLEM"
   },
   {
-    "atrial tachycardia": "PROBLEM"
+    "multifocal atrial tachycardia": "PROBLEM"
   },
   {
     "hypokalemia": "PROBLEM"
@@ -477,6 +468,9 @@
     "multifocal atrial tachycardia": "PROBLEM"
   },
   {
+    "rate": "PROBLEM"
+  },
+  {
     "chest pain": "PROBLEM"
   },
   {
@@ -495,7 +489,7 @@
     "multifocal atrial tachycardia": "PROBLEM"
   },
   {
-    "electrolytes": "PROBLEM"
+    "electrolytes": "TEST"
   },
   {
     "beta-blockers": "DRUG"
@@ -517,6 +511,12 @@
   },
   {
     "cardiac risks": "PROBLEM"
+  },
+  {
+    "surgery": "TREATMENT"
+  },
+  {
+    "X": "DRUG"
   },
   {
     "thrombocytopenia": "PROBLEM"
@@ -546,10 +546,7 @@
     "hip fracture": "PROBLEM"
   },
   {
-    "atrial": "PROBLEM"
-  },
-  {
-    "tachycardia": "PROBLEM"
+    "atrial tachycardia": "PROBLEM"
   },
   {
     "rhythm": "PROBLEM"
@@ -558,16 +555,10 @@
     "apcs": "TEST"
   },
   {
-    "cardiac": "PROBLEM"
+    "cardiac regurgitation": "PROBLEM"
   },
   {
-    "regurgitation": "PROBLEM"
-  },
-  {
-    "aortic": "PROBLEM"
-  },
-  {
-    "hypertension": "PROBLEM"
+    "aortic hypertension": "PROBLEM"
   },
   {
     "pulmonary": "PROBLEM"

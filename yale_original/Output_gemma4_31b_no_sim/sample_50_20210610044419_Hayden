@@ -84,7 +84,7 @@
     "pathologic grade 2 leiomyosarcoma": "PROBLEM"
   },
   {
-    "preoperative chemotherapy": "TREATMENT"
+    "chemotherapy": "TREATMENT"
   },
   {
     "CIVI-CAD": "DRUG"
@@ -99,7 +99,7 @@
     "subdural hematoma": "PROBLEM"
   },
   {
-    "anticoagulation": "TREATMENT"
+    "anticoagulation": "DRUG"
   },
   {
     "surgical resection": "TREATMENT"
@@ -150,7 +150,7 @@
     "subdural hematoma": "PROBLEM"
   },
   {
-    "mild intermittent headaches": "PROBLEM"
+    "headaches": "PROBLEM"
   },
   {
     "headaches": "PROBLEM"
@@ -189,7 +189,10 @@
     "counts": "TEST"
   },
   {
-    "transfusion of red blood cells or platelets": "TREATMENT"
+    "transfusion of red blood cells": "TREATMENT"
+  },
+  {
+    "platelets": "TREATMENT"
   },
   {
     "ANC": "TEST"
@@ -223,6 +226,9 @@
   },
   {
     "lab work": "TEST"
+  },
+  {
+    "cancer": "PROBLEM"
   },
   {
     "fevers": "PROBLEM"

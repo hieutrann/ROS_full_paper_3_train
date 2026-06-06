@@ -24,13 +24,16 @@
     "stereotactic core needle biopsy": "TREATMENT"
   },
   {
+    "histologic diagnosis": "TEST"
+  },
+  {
     "focal fibrosis": "PROBLEM"
   },
   {
     "radiograph": "TEST"
   },
   {
-    "severe swelling": "PROBLEM"
+    "swelling": "PROBLEM"
   },
   {
     "pain": "PROBLEM"
@@ -54,7 +57,13 @@
     "hematoma": "PROBLEM"
   },
   {
-    "extensive ecchymosis": "PROBLEM"
+    "ecchymosis": "PROBLEM"
+  },
+  {
+    "pulsatile mass": "PROBLEM"
+  },
+  {
+    "mammography": "TEST"
   },
   {
     "breast cancer": "PROBLEM"
@@ -147,10 +156,22 @@
     "local excision": "TREATMENT"
   },
   {
+    "adenopathy": "PROBLEM"
+  },
+  {
     "wheezes": "PROBLEM"
   },
   {
+    "palpable abnormalities": "PROBLEM"
+  },
+  {
+    "palpable masses": "PROBLEM"
+  },
+  {
     "lymphadenopathy": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
   },
   {
     "Obese": "PROBLEM"

@@ -1,5 +1,11 @@
 [
   {
+    "Female Physical Exam": "TEST"
+  },
+  {
+    "FEMALE PHYSICAL EXAMINATION": "TEST"
+  },
+  {
     "edema": "PROBLEM"
   },
   {
@@ -48,7 +54,7 @@
     "lesions": "PROBLEM"
   },
   {
-    "internal lesions": "PROBLEM"
+    "lesions": "PROBLEM"
   },
   {
     "erythema": "PROBLEM"
@@ -115,6 +121,9 @@
   },
   {
     "erythema": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
   },
   {
     "lesions": "PROBLEM"
@@ -213,9 +222,6 @@
     "crepitus": "PROBLEM"
   },
   {
-    "Gait": "TEST"
-  },
-  {
     "delusions": "PROBLEM"
   },
   {
@@ -237,6 +243,9 @@
     "agitation": "PROBLEM"
   },
   {
+    "physical examination": "TEST"
+  },
+  {
     "crepitus": "PROBLEM"
   },
   {
@@ -250,6 +259,9 @@
   },
   {
     "joint effusion": "PROBLEM"
+  },
+  {
+    "joint effusions": "PROBLEM"
   },
   {
     "lesions": "PROBLEM"

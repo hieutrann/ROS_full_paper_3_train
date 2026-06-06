@@ -1,12 +1,12 @@
 [
   {
-    "exposure to ant bait": "PROBLEM"
+    "ant bait Exposure": "PROBLEM"
   },
   {
     "vomiting": "PROBLEM"
   },
   {
-    "exposure to ant bait": "PROBLEM"
+    "ant bait": "DRUG"
   },
   {
     "Borax": "DRUG"
@@ -33,12 +33,18 @@
     "nontoxic ingestion": "PROBLEM"
   },
   {
-    "Exposure to ant bait": "PROBLEM"
+    "ant bait": "DRUG"
   },
   {
     "vomiting": "PROBLEM"
   },
   {
+    "borax": "DRUG"
+  },
+  {
     "vomiting": "PROBLEM"
+  },
+  {
+    "ant bait": "DRUG"
   }
 ]

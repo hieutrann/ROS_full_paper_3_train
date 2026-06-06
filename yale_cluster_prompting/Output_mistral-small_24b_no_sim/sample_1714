@@ -9,10 +9,10 @@
     "lumbar": "PROBLEM"
   },
   {
-    "steroid": "DRUG"
+    "Fluoroscopy": "TEST"
   },
   {
-    "Fluoroscopy": "TEST"
+    "facet joints": "PROBLEM"
   },
   {
     "lidocaine": "DRUG"
@@ -21,10 +21,19 @@
     "Transforaminal Epidural": "TREATMENT"
   },
   {
+    "lumbar": "PROBLEM"
+  },
+  {
     "procedure": "TREATMENT"
   },
   {
     "procedure": "TREATMENT"
+  },
+  {
+    "indications": "PROBLEM"
+  },
+  {
+    "risks": "PROBLEM"
   },
   {
     "infection": "PROBLEM"
@@ -48,22 +57,10 @@
     "spinal cord injury": "PROBLEM"
   },
   {
-    "cardiovascular": "PROBLEM"
+    "cardiovascular and CNS side effects": "PROBLEM"
   },
   {
-    "CNS": "PROBLEM"
-  },
-  {
-    "side effects": "PROBLEM"
-  },
-  {
-    "vascular entry": "PROBLEM"
-  },
-  {
-    "procedure": "TREATMENT"
-  },
-  {
-    "medications": "DRUG"
+    "vascular entry of medications": "PROBLEM"
   },
   {
     "sedatives": "DRUG"
@@ -84,9 +81,6 @@
     "procedure": "TREATMENT"
   },
   {
-    "procedure": "TREATMENT"
-  },
-  {
     "Oxygen saturation": "TEST"
   },
   {
@@ -99,19 +93,31 @@
     "procedure": "TREATMENT"
   },
   {
+    "X-ray": "TEST"
+  },
+  {
+    "fluoroscopy": "TEST"
+  },
+  {
     "prone position": "TREATMENT"
   },
   {
     "treatment table": "TREATMENT"
   },
   {
-    "lordosis": "PROBLEM"
+    "pillow": "TREATMENT"
+  },
+  {
+    "lower abdomen": "PROBLEM"
+  },
+  {
+    "natural lumbar lordosis": "PROBLEM"
   },
   {
     "betadine": "DRUG"
   },
   {
-    "sterile drapes": "DRUG"
+    "sterile drapes": "TREATMENT"
   },
   {
     "needle placement": "TREATMENT"
@@ -129,10 +135,16 @@
     "fluoroscopy": "TEST"
   },
   {
+    "spinal needle": "TREATMENT"
+  },
+  {
     "fluoroscopic views": "TEST"
   },
   {
-    "non-ionic contrast agent": "DRUG"
+    "needle placement": "TEST"
+  },
+  {
+    "contrast agent": "DRUG"
   },
   {
     "fluoroscopic observation": "TEST"
@@ -144,7 +156,19 @@
     "radiculogram": "TEST"
   },
   {
+    "vascular dye pattern": "TEST"
+  },
+  {
+    "treatment solution": "TREATMENT"
+  },
+  {
     "medications": "DRUG"
+  },
+  {
+    "procedure": "TREATMENT"
+  },
+  {
+    "procedure": "TREATMENT"
   },
   {
     "vital signs": "TEST"
@@ -159,10 +183,13 @@
     "ice": "TREATMENT"
   },
   {
+    "aggressive activities": "PROBLEM"
+  },
+  {
     "medications": "DRUG"
   },
   {
-    "rest": "TREATMENT"
+    "relative rest": "TREATMENT"
   },
   {
     "shortness of breath": "PROBLEM"
@@ -177,7 +204,7 @@
     "chills": "PROBLEM"
   },
   {
-    "increased pain": "PROBLEM"
+    "pain": "PROBLEM"
   },
   {
     "weakness": "PROBLEM"
@@ -216,6 +243,6 @@
     "fluoroscopy": "TEST"
   },
   {
-    "needle": "TEST"
+    "needle": "TREATMENT"
   }
 ]

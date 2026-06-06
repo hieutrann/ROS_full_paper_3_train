@@ -18,13 +18,13 @@
     "Coumadin": "DRUG"
   },
   {
+    "fatigue": "PROBLEM"
+  },
+  {
     "microcytic anemia": "PROBLEM"
   },
   {
     "hemoglobin": "TEST"
-  },
-  {
-    "Stool": "PROBLEM"
   },
   {
     "OB": "TEST"
@@ -39,7 +39,7 @@
     "GI complaints": "PROBLEM"
   },
   {
-    "ABCD": "PROBLEM"
+    "ABCD": "TREATMENT"
   },
   {
     "atrial fibrillation": "PROBLEM"
@@ -69,7 +69,7 @@
     "VITAL SIGNS": "TEST"
   },
   {
-    "HEENT": "TEST"
+    "Benign": "PROBLEM"
   },
   {
     "Supple": "TEST"
@@ -81,13 +81,10 @@
     "LUNGS": "TEST"
   },
   {
-    "HEART": "PROBLEM"
+    "Irregularly regular": "PROBLEM"
   },
   {
     "gallops": "PROBLEM"
-  },
-  {
-    "bowel sounds": "TEST"
   },
   {
     "masses": "PROBLEM"
@@ -96,13 +93,13 @@
     "organomegaly": "PROBLEM"
   },
   {
-    "lower extremity edema": "PROBLEM"
+    "edema": "PROBLEM"
   },
   {
     "upper endoscopy": "TEST"
   },
   {
-    "erosive gastritis": "PROBLEM"
+    "gastritis": "PROBLEM"
   },
   {
     "diverticulosis": "PROBLEM"
@@ -111,10 +108,7 @@
     "polyp": "PROBLEM"
   },
   {
-    "Colonoscopy": "TEST"
-  },
-  {
-    "procedure": "TREATMENT"
+    "resected": "TREATMENT"
   },
   {
     "hemoglobin": "TEST"
@@ -135,19 +129,19 @@
     "Cardiology": "TREATMENT"
   },
   {
-    "DISCHARGE DIAGNOSES": "PROBLEM"
+    "DISCHARGE DIAGNOSES": "TREATMENT"
   },
   {
     "Upper gastrointestinal bleed": "PROBLEM"
   },
   {
-    "2": "TEST"
+    "2": "TREATMENT"
   },
   {
     "Anemia": "PROBLEM"
   },
   {
-    "3": "PROBLEM"
+    "3": "TREATMENT"
   },
   {
     "Atrial fibrillation": "PROBLEM"
@@ -156,28 +150,25 @@
     "4": "TEST"
   },
   {
-    "Non-insulin-dependent diabetes mellitus": "PROBLEM"
+    "diabetes mellitus": "PROBLEM"
   },
   {
-    "5": "PROBLEM"
+    "5": "TEST"
   },
   {
     "Hypertension": "PROBLEM"
   },
   {
-    "6": "PROBLEM"
+    "6": "TEST"
   },
   {
     "Hypothyroidism": "PROBLEM"
   },
   {
-    "7": "PROBLEM"
-  },
-  {
     "Asthma": "PROBLEM"
   },
   {
-    "CONDITION UPON DISCHARGE": "PROBLEM"
+    "Stable": "PROBLEM"
   },
   {
     "Feosol": "DRUG"
@@ -213,7 +204,7 @@
     "ALLERGIES": "PROBLEM"
   },
   {
-    "1800-calorie ADA": "TREATMENT"
+    "Diet": "TREATMENT"
   },
   {
     "ACTIVITY": "TREATMENT"

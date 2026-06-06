@@ -39,13 +39,16 @@
     "total knee replacement": "TREATMENT"
   },
   {
+    "lose weight": "PROBLEM"
+  },
+  {
     "surgery": "TREATMENT"
   },
   {
     "coronary disease": "PROBLEM"
   },
   {
-    "stroke risk": "PROBLEM"
+    "stroke": "PROBLEM"
   },
   {
     "cardiac disease": "PROBLEM"
@@ -91,9 +94,6 @@
   },
   {
     "mild compression fracture of L1": "PROBLEM"
-  },
-  {
-    "falls": "PROBLEM"
   },
   {
     "compression fracture": "PROBLEM"
@@ -159,9 +159,6 @@
     "vomiting": "PROBLEM"
   },
   {
-    "adhesive tape": "DRUG"
-  },
-  {
     "Hypertension": "PROBLEM"
   },
   {
@@ -204,9 +201,6 @@
     "overweight": "PROBLEM"
   },
   {
-    "Vital signs": "TEST"
-  },
-  {
     "Weight": "TEST"
   },
   {
@@ -223,6 +217,9 @@
   },
   {
     "Carotids": "TEST"
+  },
+  {
+    "auscultation": "TEST"
   },
   {
     "murmur": "PROBLEM"
@@ -273,6 +270,9 @@
     "Weight Watchers": "TREATMENT"
   },
   {
+    "dietician": "TREATMENT"
+  },
+  {
     "knee pain": "PROBLEM"
   },
   {
@@ -283,9 +283,6 @@
   },
   {
     "Fosamax": "DRUG"
-  },
-  {
-    "medications": "DRUG"
   },
   {
     "Fosamax": "DRUG"
@@ -340,8 +337,5 @@
   },
   {
     "osteoarthritis": "PROBLEM"
-  },
-  {
-    "compression": "PROBLEM"
   }
 ]

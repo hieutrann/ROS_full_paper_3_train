@@ -72,6 +72,12 @@
     "epigastric pain": "PROBLEM"
   },
   {
+    "prescription medications": "DRUG"
+  },
+  {
+    "afebrile": "PROBLEM"
+  },
+  {
     "heart rate": "TEST"
   },
   {
@@ -207,6 +213,12 @@
     "Morbidly obese": "PROBLEM"
   },
   {
+    "Height": "TEST"
+  },
+  {
+    "body weight": "TEST"
+  },
+  {
     "pale conjunctivae": "PROBLEM"
   },
   {
@@ -216,16 +228,10 @@
     "Pupils": "TEST"
   },
   {
-    "Moist oral mucosa": "PROBLEM"
-  },
-  {
     "oral lesions": "PROBLEM"
   },
   {
     "neck masses": "PROBLEM"
-  },
-  {
-    "Thyroid": "TEST"
   },
   {
     "crackles": "PROBLEM"
@@ -330,16 +336,16 @@
     "Urinalysis": "TEST"
   },
   {
-    "leucocyte esterase": "PROBLEM"
+    "leucocyte esterase": "TEST"
   },
   {
-    "nitrites": "PROBLEM"
+    "nitrites": "TEST"
   },
   {
-    "wbc's": "PROBLEM"
+    "wbc's": "TEST"
   },
   {
-    "rbc's": "PROBLEM"
+    "rbc's": "TEST"
   },
   {
     "bacteria": "PROBLEM"
@@ -432,7 +438,16 @@
     "paracentesis": "TREATMENT"
   },
   {
-    "ascitic fluid for cell count, differential and cultures": "TEST"
+    "ascitic fluid": "TEST"
+  },
+  {
+    "cell count": "TEST"
+  },
+  {
+    "differential": "TEST"
+  },
+  {
+    "cultures": "TEST"
   },
   {
     "blood cultures": "TEST"
@@ -441,10 +456,7 @@
     "urine culture": "TEST"
   },
   {
-    "hepatitis A vaccination": "DRUG"
-  },
-  {
-    "ID recommendations": "TREATMENT"
+    "hepatitis A vaccination": "TREATMENT"
   },
   {
     "sbp": "PROBLEM"

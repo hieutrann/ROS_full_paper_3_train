@@ -1,48 +1,27 @@
 [
   {
+    "Refractory anemia": "PROBLEM"
+  },
+  {
     "anemia": "PROBLEM"
   },
   {
-    "refractory anemia": "PROBLEM"
+    "myelodysplastic syndrome": "PROBLEM"
   },
   {
-    "hemoglobin": "TEST"
-  },
-  {
-    "B12": "DRUG"
-  },
-  {
-    "oral iron": "DRUG"
-  },
-  {
-    "Procrit": "DRUG"
-  },
-  {
-    "Coumadin": "DRUG"
-  },
-  {
-    "Lasix": "DRUG"
-  },
-  {
-    "metformin": "DRUG"
-  },
-  {
-    "folic acid": "DRUG"
-  },
-  {
-    "diltiazem": "DRUG"
-  },
-  {
-    "Prevacid": "DRUG"
-  },
-  {
-    "Feosol": "DRUG"
+    "bone marrow failure": "PROBLEM"
   },
   {
     "electrophoresis": "TEST"
   },
   {
     "LDH": "TEST"
+  },
+  {
+    "B12": "TEST"
+  },
+  {
+    "folate": "TEST"
   },
   {
     "erythropoietin level": "TEST"
@@ -54,21 +33,36 @@
     "serum protein": "TEST"
   },
   {
-    "bone marrow aspiration": "TREATMENT"
-  },
-  {
-    "bone marrow biopsy": "TREATMENT"
-  },
-  {
-    "ultrasound": "TEST"
+    "bone marrow aspiration and biopsy": "TREATMENT"
   },
   {
     "blood transfusion": "TREATMENT"
   },
   {
-    "myelodysplastic syndrome": "PROBLEM"
+    "Procrit": "DRUG"
   },
   {
-    "bone marrow failure": "PROBLEM"
+    "B12": "DRUG"
+  },
+  {
+    "folic acid": "DRUG"
+  },
+  {
+    "Feosol": "DRUG"
+  },
+  {
+    "Lasix": "DRUG"
+  },
+  {
+    "metformin": "DRUG"
+  },
+  {
+    "Coumadin": "DRUG"
+  },
+  {
+    "Prevacid": "DRUG"
+  },
+  {
+    "Diltiazem": "DRUG"
   }
 ]

@@ -1,9 +1,6 @@
 [
   {
-    "General Medicine": "TEST"
-  },
-  {
-    "blood-borne pathogen exposure": "PROBLEM"
+    "blood-borne pathogen": "PROBLEM"
   },
   {
     "Blood-borne pathogen exposure": "PROBLEM"
@@ -12,22 +9,16 @@
     "phlebotomist": "TREATMENT"
   },
   {
+    "respiratory therapist": "TREATMENT"
+  },
+  {
     "blood gas": "TEST"
   },
   {
-    "pulse": "TEST"
-  },
-  {
-    "needle": "TEST"
-  },
-  {
-    "jerked": "PROBLEM"
-  },
-  {
-    "arm": "PROBLEM"
-  },
-  {
     "finger": "PROBLEM"
+  },
+  {
+    "needle": "TREATMENT"
   },
   {
     "emergency department": "TEST"
@@ -51,16 +42,13 @@
     "final exam": "TEST"
   },
   {
-    "viral illness": "PROBLEM"
-  },
-  {
     "nausea": "PROBLEM"
   },
   {
     "vomiting": "PROBLEM"
   },
   {
-    "appetite": "PROBLEM"
+    "low appetite": "PROBLEM"
   },
   {
     "fevers": "PROBLEM"
@@ -78,6 +66,9 @@
     "cold": "PROBLEM"
   },
   {
+    "coughing": "PROBLEM"
+  },
+  {
     "sore throat": "PROBLEM"
   },
   {
@@ -90,13 +81,22 @@
     "abdominal symptoms": "PROBLEM"
   },
   {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "urinary symptoms": "PROBLEM"
+  },
+  {
+    "darkening of the skin": "PROBLEM"
+  },
+  {
+    "darkening of the eyes": "PROBLEM"
+  },
+  {
     "yellowing": "PROBLEM"
   },
   {
     "darkening": "PROBLEM"
-  },
-  {
-    "urine": "TEST"
   },
   {
     "rash": "PROBLEM"
@@ -114,7 +114,16 @@
     "IV contrast": "DRUG"
   },
   {
-    "PHYSICAL EXAMINATION": "TEST"
+    "awake": "PROBLEM"
+  },
+  {
+    "alert": "PROBLEM"
+  },
+  {
+    "ill": "PROBLEM"
+  },
+  {
+    "toxic": "PROBLEM"
   },
   {
     "temperature": "TEST"
@@ -132,13 +141,25 @@
     "HEENT exam": "TEST"
   },
   {
+    "Ocular movements": "TEST"
+  },
+  {
+    "oropharynx": "PROBLEM"
+  },
+  {
     "pharyngeal erythema": "PROBLEM"
   },
   {
     "tonsillar enlargement": "PROBLEM"
   },
   {
+    "neck": "PROBLEM"
+  },
+  {
     "masses": "PROBLEM"
+  },
+  {
+    "adenopathy": "PROBLEM"
   },
   {
     "wheeze": "PROBLEM"
@@ -150,10 +171,10 @@
     "Heart tones": "TEST"
   },
   {
-    "liver": "PROBLEM"
+    "enlargement of the liver": "PROBLEM"
   },
   {
-    "spleen": "PROBLEM"
+    "enlargement of the spleen": "PROBLEM"
   },
   {
     "rash": "PROBLEM"
@@ -162,19 +183,10 @@
     "edema": "PROBLEM"
   },
   {
-    "gait": "PROBLEM"
-  },
-  {
-    "balance": "PROBLEM"
-  },
-  {
     "ataxia": "PROBLEM"
   },
   {
-    "needlestick": "PROBLEM"
-  },
-  {
-    "evaluation": "TEST"
+    "contaminated needlestick": "PROBLEM"
   },
   {
     "HIV": "PROBLEM"
@@ -189,7 +201,7 @@
     "hepatitis B": "PROBLEM"
   },
   {
-    "3 shot series": "TREATMENT"
+    "a 3 shot series": "TREATMENT"
   },
   {
     "titers": "TEST"
@@ -213,7 +225,10 @@
     "acute hepatitis": "PROBLEM"
   },
   {
-    "lymphadenopathy": "PROBLEM"
+    "abdominal exam": "TEST"
+  },
+  {
+    "generalized lymphadenopathy": "PROBLEM"
   },
   {
     "fever": "PROBLEM"
@@ -231,9 +246,6 @@
     "HIV": "PROBLEM"
   },
   {
-    "infection": "PROBLEM"
-  },
-  {
     "acute intestinal illness": "PROBLEM"
   },
   {
@@ -243,19 +255,34 @@
     "needlestick": "PROBLEM"
   },
   {
+    "injury": "PROBLEM"
+  },
+  {
     "lab studies": "TEST"
   },
   {
-    "gloves": "DRUG"
+    "disease transmission": "PROBLEM"
   },
   {
-    "work": "PROBLEM"
+    "disease transmission": "PROBLEM"
+  },
+  {
+    "general medicine": "PROBLEM"
   },
   {
     "pathogen exposure": "PROBLEM"
   },
   {
+    "blood-borne": "PROBLEM"
+  },
+  {
     "blood gas": "TEST"
+  },
+  {
+    "contaminated": "PROBLEM"
+  },
+  {
+    "exposure": "PROBLEM"
   },
   {
     "nausea": "PROBLEM"
@@ -270,9 +297,15 @@
     "vomiting": "PROBLEM"
   },
   {
+    "blood borne": "PROBLEM"
+  },
+  {
     "borne pathogen": "PROBLEM"
   },
   {
     "hepatitis": "PROBLEM"
+  },
+  {
+    "blood": "TEST"
   }
 ]

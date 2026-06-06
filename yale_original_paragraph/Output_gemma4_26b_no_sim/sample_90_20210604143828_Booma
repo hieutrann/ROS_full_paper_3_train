@@ -1,6 +1,6 @@
 [
   {
-    "Mastoiditis": "PROBLEM"
+    "mastoiditis": "PROBLEM"
   },
   {
     "acute otitis media": "PROBLEM"
@@ -12,13 +12,7 @@
     "CT scan": "TEST"
   },
   {
-    "mastoiditis": "PROBLEM"
-  },
-  {
-    "ear pain": "PROBLEM"
-  },
-  {
-    "blood draining from the right ear": "PROBLEM"
+    "blood draining": "PROBLEM"
   },
   {
     "temperature": "TEST"
@@ -33,25 +27,16 @@
     "Vicodin": "DRUG"
   },
   {
-    "swelling of his cervical area": "PROBLEM"
+    "swelling": "PROBLEM"
   },
   {
-    "CT scan": "TEST"
-  },
-  {
-    "mastoiditis": "PROBLEM"
+    "cervical area": "PROBLEM"
   },
   {
     "IV fluid": "TREATMENT"
   },
   {
     "narcotics": "DRUG"
-  },
-  {
-    "Unasyn": "DRUG"
-  },
-  {
-    "swelling": "PROBLEM"
   },
   {
     "respiratory distress": "PROBLEM"
@@ -75,12 +60,6 @@
     "swelling": "PROBLEM"
   },
   {
-    "breath sounds": "TEST"
-  },
-  {
-    "murmur": "PROBLEM"
-  },
-  {
     "hepatosplenomegaly": "PROBLEM"
   },
   {
@@ -88,17 +67,5 @@
   },
   {
     "Augmentin": "DRUG"
-  },
-  {
-    "acute otitis media": "PROBLEM"
-  },
-  {
-    "ear pain": "PROBLEM"
-  },
-  {
-    "mastoiditis": "PROBLEM"
-  },
-  {
-    "otitis media": "PROBLEM"
   }
 ]

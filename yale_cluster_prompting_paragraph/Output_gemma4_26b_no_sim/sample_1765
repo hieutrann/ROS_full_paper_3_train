@@ -6,6 +6,15 @@
     "Percutaneous liver biopsy": "TEST"
   },
   {
+    "dullness": "PROBLEM"
+  },
+  {
+    "percussion": "TEST"
+  },
+  {
+    "Percutaneous liver biopsy": "TEST"
+  },
+  {
     "Lidocaine": "DRUG"
   },
   {
@@ -33,6 +42,12 @@
     "povidone iodine": "DRUG"
   },
   {
+    "lidocaine": "DRUG"
+  },
+  {
+    "Klatskin needle": "TEST"
+  },
+  {
     "abdominal or chest pain": "PROBLEM"
   },
   {
@@ -48,9 +63,6 @@
     "hepatitis A and B vaccines": "DRUG"
   },
   {
-    "surgery": "TREATMENT"
-  },
-  {
     "bile peritonitis": "PROBLEM"
   },
   {
@@ -58,6 +70,9 @@
   },
   {
     "pneumothorax": "PROBLEM"
+  },
+  {
+    "klatskin needle": "TEST"
   },
   {
     "liver biopsy": "TEST"

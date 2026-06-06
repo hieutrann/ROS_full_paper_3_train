@@ -1,9 +1,9 @@
 [
   {
-    "renal cell carcinoma": "PROBLEM"
+    "left renal cell carcinoma": "PROBLEM"
   },
   {
-    "renal cyst": "PROBLEM"
+    "left renal cyst": "PROBLEM"
   },
   {
     "robotic - Assisted laparoscopic left renal cyst decortication": "TREATMENT"
@@ -15,13 +15,13 @@
     "Left renal cell carcinoma": "PROBLEM"
   },
   {
-    "Left renal cyst": "PROBLEM"
+    "left renal cyst": "PROBLEM"
   },
   {
     "Left renal cell carcinoma": "PROBLEM"
   },
   {
-    "Left renal cyst": "PROBLEM"
+    "left renal cyst": "PROBLEM"
   },
   {
     "Chronic obstructive pulmonary disease": "PROBLEM"
@@ -33,7 +33,10 @@
     "Robotic - Assisted laparoscopic left renal cyst decortication": "TREATMENT"
   },
   {
-    "cystoscopy": "TREATMENT"
+    "cystoscopy": "TEST"
+  },
+  {
+    "HISTORY OF PRESENT ILLNESS": "TEST"
   },
   {
     "left renal cell carcinoma": "PROBLEM"
@@ -42,28 +45,28 @@
     "renal cysts": "PROBLEM"
   },
   {
-    "MRI": "TEST"
+    "MRI of the abdomen": "TEST"
   },
   {
-    "abdomen": "TEST"
-  },
-  {
-    "enhancing mass": "PROBLEM"
-  },
-  {
-    "left kidney": "PROBLEM"
+    "an enhancing mass": "PROBLEM"
   },
   {
     "renal cell carcinoma": "PROBLEM"
   },
   {
-    "nephrectomy": "TREATMENT"
+    "MRI": "TEST"
   },
   {
-    "nephrectomy": "TREATMENT"
+    "Left partial nephrectomy": "TREATMENT"
+  },
+  {
+    "Left radical nephrectomy": "TREATMENT"
   },
   {
     "Left renal cyst decortication": "TREATMENT"
+  },
+  {
+    "the latter procedure": "TREATMENT"
   },
   {
     "left renal cyst decortication": "TREATMENT"
@@ -72,16 +75,34 @@
     "cystoscopy": "TEST"
   },
   {
-    "renal cysts": "PROBLEM"
+    "four enlarged renal cysts": "PROBLEM"
+  },
+  {
+    "six smaller renal cysts": "PROBLEM"
+  },
+  {
+    "cyst wall": "PROBLEM"
+  },
+  {
+    "Multiple specimens of the cyst wall": "TEST"
+  },
+  {
+    "pathology": "TEST"
   },
   {
     "cystic fluid": "PROBLEM"
   },
   {
-    "procedure": "TREATMENT"
+    "renal bed": "PROBLEM"
   },
   {
-    "cystoscopy": "TEST"
+    "JP drain": "TREATMENT"
+  },
+  {
+    "flexible cystoscopy": "TEST"
+  },
+  {
+    "lesions": "PROBLEM"
   },
   {
     "flatus": "PROBLEM"
@@ -93,10 +114,13 @@
     "Jackson-Pratt drain": "TREATMENT"
   },
   {
-    "Foley catheter": "TEST"
+    "Foley catheter": "TREATMENT"
   },
   {
-    "vital signs": "TEST"
+    "voiding trial": "TEST"
+  },
+  {
+    "afebrile": "PROBLEM"
   },
   {
     "hemodynamic stability": "PROBLEM"
@@ -111,9 +135,6 @@
     "laxative": "DRUG"
   },
   {
-    "MEDICATIONS": "DRUG"
-  },
-  {
     "fever": "PROBLEM"
   },
   {
@@ -124,9 +145,6 @@
   },
   {
     "vomiting": "PROBLEM"
-  },
-  {
-    "discharge summary": "TEST"
   },
   {
     "decortication": "TREATMENT"
@@ -177,6 +195,6 @@
     "carcinoma": "PROBLEM"
   },
   {
-    "discharge": "TEST"
+    "discharge": "PROBLEM"
   }
 ]

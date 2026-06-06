@@ -9,7 +9,16 @@
     "cervical spondylosis": "PROBLEM"
   },
   {
-    "herniated nucleus pulposus C4-C5, C5-C6, and C6-C7": "PROBLEM"
+    "herniated nucleus pulposus": "PROBLEM"
+  },
+  {
+    "C4-C5": "PROBLEM"
+  },
+  {
+    "C5-C6": "PROBLEM"
+  },
+  {
+    "C6-C7": "PROBLEM"
   },
   {
     "stenosis": "PROBLEM"
@@ -24,7 +33,16 @@
     "Cervical spondylosis": "PROBLEM"
   },
   {
-    "herniated nucleus pulposus C4-C5, C5-C6, and C6-C7": "PROBLEM"
+    "herniated nucleus pulposus": "PROBLEM"
+  },
+  {
+    "C4-C5": "PROBLEM"
+  },
+  {
+    "C5-C6": "PROBLEM"
+  },
+  {
+    "C6-C7": "PROBLEM"
   },
   {
     "stenosis": "PROBLEM"
@@ -39,16 +57,37 @@
     "Cervical spondylosis": "PROBLEM"
   },
   {
-    "herniated nucleus pulposus C4-C5, C5-C6, and C6-C7": "PROBLEM"
+    "herniated nucleus pulposus": "PROBLEM"
+  },
+  {
+    "C4-C5": "PROBLEM"
+  },
+  {
+    "C5-C6": "PROBLEM"
+  },
+  {
+    "C6-C7": "PROBLEM"
   },
   {
     "stenosis": "PROBLEM"
   },
   {
-    "Anterior cervical discectomy with decompression C4-C5, C5-C6, and C6-C7": "TREATMENT"
+    "Anterior cervical discectomy with decompression": "TREATMENT"
   },
   {
-    "Arthrodesis with anterior interbody fusion C4-C5, C5-C6, and C6-C7": "TREATMENT"
+    "C4-C5": "PROBLEM"
+  },
+  {
+    "C5-C6": "PROBLEM"
+  },
+  {
+    "C6-C7": "PROBLEM"
+  },
+  {
+    "Arthrodesis": "TREATMENT"
+  },
+  {
+    "anterior interbody fusion": "TREATMENT"
   },
   {
     "Spinal instrumentation": "TREATMENT"
@@ -63,19 +102,22 @@
     "intense neck pain": "PROBLEM"
   },
   {
-    "right shoulder blade": "PROBLEM"
+    "radiating to the right shoulder blade": "PROBLEM"
   },
   {
-    "right shoulder": "PROBLEM"
+    "top of the right shoulder": "PROBLEM"
   },
   {
     "right upper extremity": "PROBLEM"
   },
   {
-    "hand": "PROBLEM"
+    "symptoms": "PROBLEM"
   },
   {
-    "subjective weakness of the right upper extremity": "PROBLEM"
+    "subjective weakness": "PROBLEM"
+  },
+  {
+    "right upper extremity": "PROBLEM"
   },
   {
     "imaging studies": "TEST"
@@ -105,10 +147,7 @@
     "pain": "PROBLEM"
   },
   {
-    "tingling of the right thumb": "PROBLEM"
-  },
-  {
-    "tingling of the right index finger": "PROBLEM"
+    "tingling": "PROBLEM"
   },
   {
     "dysphagia": "PROBLEM"
@@ -118,6 +157,9 @@
   },
   {
     "Medrol": "DRUG"
+  },
+  {
+    "pain": "PROBLEM"
   },
   {
     "Darvocet": "DRUG"
@@ -139,5 +181,8 @@
   },
   {
     "herniated nucleus pulposus": "PROBLEM"
+  },
+  {
+    "herniated": "PROBLEM"
   }
 ]

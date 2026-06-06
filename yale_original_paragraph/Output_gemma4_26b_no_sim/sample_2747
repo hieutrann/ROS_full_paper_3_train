@@ -3,10 +3,13 @@
     "Cut on Foot": "PROBLEM"
   },
   {
-    "4-mm laceration": "PROBLEM"
+    "laceration": "PROBLEM"
   },
   {
     "Acute foot pain": "PROBLEM"
+  },
+  {
+    "wound care": "TREATMENT"
   },
   {
     "Cut on foot": "PROBLEM"
@@ -42,12 +45,6 @@
     "Oxygen saturation": "TEST"
   },
   {
-    "Peripheral pulse": "TEST"
-  },
-  {
-    "Capillary refills": "TEST"
-  },
-  {
     "shortness of breath": "PROBLEM"
   },
   {
@@ -63,7 +60,10 @@
     "varicose vein": "PROBLEM"
   },
   {
-    "antibiotic ointment": "TREATMENT"
+    "bruising": "PROBLEM"
+  },
+  {
+    "antibiotic ointment": "DRUG"
   },
   {
     "bandage": "TREATMENT"
@@ -78,15 +78,12 @@
     "infection": "PROBLEM"
   },
   {
+    "piece of glass": "PROBLEM"
+  },
+  {
     "foot pain": "PROBLEM"
   },
   {
     "cut on foot": "PROBLEM"
-  },
-  {
-    "piece of glass": "PROBLEM"
-  },
-  {
-    "laceration": "PROBLEM"
   }
 ]

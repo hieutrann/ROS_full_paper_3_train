@@ -1,6 +1,6 @@
 [
   {
-    "foot": "PROBLEM"
+    "General Medicine": "PROBLEM"
   },
   {
     "laceration": "PROBLEM"
@@ -15,10 +15,7 @@
     "Cut on foot": "PROBLEM"
   },
   {
-    "foot": "PROBLEM"
-  },
-  {
-    "bleeding": "PROBLEM"
+    "glass": "PROBLEM"
   },
   {
     "bleeding": "PROBLEM"
@@ -45,37 +42,28 @@
     "Albuterol": "DRUG"
   },
   {
-    "ALLERGIES": "PROBLEM"
-  },
-  {
     "smoker": "PROBLEM"
-  },
-  {
-    "VITAL SIGNS": "TEST"
-  },
-  {
-    "Temperature": "TEST"
   },
   {
     "blood pressure": "TEST"
   },
   {
-    "pulse": "TEST"
-  },
-  {
-    "respirations": "TEST"
-  },
-  {
     "Oxygen saturation": "TEST"
   },
   {
-    "Eyes": "PROBLEM"
+    "normocephalic": "PROBLEM"
   },
   {
-    "conjunctiva": "PROBLEM"
+    "Eyes": "TEST"
   },
   {
-    "cornea": "PROBLEM"
+    "conjunctiva": "TEST"
+  },
+  {
+    "cornea": "TEST"
+  },
+  {
+    "range of motion": "TEST"
   },
   {
     "Peripheral pulse": "TEST"
@@ -84,13 +72,13 @@
     "Capillary refills": "TEST"
   },
   {
-    "RESPIRATIONS": "TEST"
-  },
-  {
     "shortness of breath": "PROBLEM"
   },
   {
-    "laceration": "PROBLEM"
+    "4-mm partial thickness laceration": "PROBLEM"
+  },
+  {
+    "foreign body": "PROBLEM"
   },
   {
     "bleeding": "PROBLEM"
@@ -123,31 +111,52 @@
     "foot": "PROBLEM"
   },
   {
-    "laceration": "PROBLEM"
+    "range of motion": "TEST"
   },
   {
-    "NEUROLOGIC": "TEST"
+    "partial thickness laceration": "PROBLEM"
   },
   {
-    "Sensory": "PROBLEM"
+    "Motor": "TEST"
   },
   {
-    "bleeding": "PROBLEM"
+    "Sensory": "TEST"
+  },
+  {
+    "speech": "TEST"
+  },
+  {
+    "ambulation": "TEST"
+  },
+  {
+    "alert": "PROBLEM"
+  },
+  {
+    "oriented": "PROBLEM"
+  },
+  {
+    "mood": "PROBLEM"
+  },
+  {
+    "affect": "PROBLEM"
+  },
+  {
+    "active bleeding": "PROBLEM"
+  },
+  {
+    "bruising": "PROBLEM"
   },
   {
     "antibiotic ointment": "DRUG"
   },
   {
-    "bandage": "TREATMENT"
+    "DIAGNOSES": "PROBLEM"
   },
   {
-    "laceration": "PROBLEM"
+    "4-MM LACERATION": "PROBLEM"
   },
   {
     "ACUTE RIGHT FOOT PAIN": "PROBLEM"
-  },
-  {
-    "Stable": "PROBLEM"
   },
   {
     "wound care": "TREATMENT"
@@ -162,13 +171,13 @@
     "infection": "PROBLEM"
   },
   {
-    "foot": "PROBLEM"
-  },
-  {
     "foot pain": "PROBLEM"
   },
   {
     "cut on foot": "PROBLEM"
+  },
+  {
+    "piece of glass": "PROBLEM"
   },
   {
     "foreign body": "PROBLEM"
@@ -177,15 +186,12 @@
     "active bleeding": "PROBLEM"
   },
   {
+    "laceration": "PROBLEM"
+  },
+  {
     "bleeding": "PROBLEM"
   },
   {
     "injuries": "PROBLEM"
-  },
-  {
-    "laceration": "PROBLEM"
-  },
-  {
-    "foot": "PROBLEM"
   }
 ]

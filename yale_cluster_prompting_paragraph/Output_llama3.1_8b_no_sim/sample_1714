@@ -1,14 +1,5 @@
 [
   {
-    "Transforaminal Epidural Steroid Injection - 1": "TREATMENT"
-  },
-  {
-    "Pain Management": "TREATMENT"
-  },
-  {
-    "lidocaine": "DRUG"
-  },
-  {
     "infection": "PROBLEM"
   },
   {
@@ -51,7 +42,10 @@
     "corticosteroids": "DRUG"
   },
   {
-    "oxygen saturation": "TEST"
+    "betadine": "DRUG"
+  },
+  {
+    "Oxygen saturation": "TEST"
   },
   {
     "vital signs": "TEST"
@@ -63,45 +57,15 @@
     "X-ray technician": "TEST"
   },
   {
-    "spinal needle": "TEST"
+    "spinal needle": "TREATMENT"
   },
   {
-    "non-ionic contrast agent": "TEST"
+    "non-ionic contrast agent": "TREATMENT"
   },
   {
-    "epidurogram": "TEST"
+    "treatment solution": "TREATMENT"
   },
   {
-    "radiculogram": "TEST"
-  },
-  {
-    "vascular dye pattern": "TEST"
-  },
-  {
-    "treatment solution": "DRUG"
-  },
-  {
-    "shortness of breath": "PROBLEM"
-  },
-  {
-    "chest pain": "PROBLEM"
-  },
-  {
-    "fever": "PROBLEM"
-  },
-  {
-    "chills": "PROBLEM"
-  },
-  {
-    "increased pain": "PROBLEM"
-  },
-  {
-    "weakness": "PROBLEM"
-  },
-  {
-    "sensory or motor changes": "PROBLEM"
-  },
-  {
-    "bowel or bladder function": "PROBLEM"
+    "lidocaine": "TREATMENT"
   }
 ]

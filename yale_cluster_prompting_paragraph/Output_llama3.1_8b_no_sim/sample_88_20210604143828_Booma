@@ -30,16 +30,13 @@
     "elevated CRP": "PROBLEM"
   },
   {
-    "elevated ESR": "PROBLEM"
+    "ESR": "PROBLEM"
   },
   {
     "aspirin": "DRUG"
   },
   {
     "IVIG": "DRUG"
-  },
-  {
-    "Prevacid": "DRUG"
   },
   {
     "Echocardiogram": "TEST"
@@ -51,6 +48,6 @@
     "aspirin": "TREATMENT"
   },
   {
-    "Prevacid": "TREATMENT"
+    "Prevacid": "DRUG"
   }
 ]

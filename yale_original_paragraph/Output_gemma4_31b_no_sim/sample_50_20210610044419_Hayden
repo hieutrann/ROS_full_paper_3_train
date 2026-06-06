@@ -30,7 +30,7 @@
     "pneumonia": "PROBLEM"
   },
   {
-    "CIVI-CAD": "TREATMENT"
+    "CIVI-CAD": "DRUG"
   },
   {
     "Cytoxan": "DRUG"
@@ -84,7 +84,7 @@
     "preoperative chemotherapy": "TREATMENT"
   },
   {
-    "CIVI-CAD": "TREATMENT"
+    "CIVI-CAD": "DRUG"
   },
   {
     "pulmonary embolus": "PROBLEM"
@@ -108,7 +108,7 @@
     "Leiomyosarcoma": "PROBLEM"
   },
   {
-    "continuous IV infusion Cytoxan": "DRUG"
+    "Cytoxan": "DRUG"
   },
   {
     "Adriamycin": "DRUG"
@@ -145,6 +145,9 @@
   },
   {
     "headaches": "PROBLEM"
+  },
+  {
+    "pain medication": "DRUG"
   },
   {
     "head CT": "TEST"
@@ -207,6 +210,9 @@
     "pneumonia": "PROBLEM"
   },
   {
+    "neutropenic": "TREATMENT"
+  },
+  {
     "lab work": "TEST"
   },
   {
@@ -252,7 +258,7 @@
     "pancytopenia": "PROBLEM"
   },
   {
-    "neutropenic": "PROBLEM"
+    "neutropenic": "TREATMENT"
   },
   {
     "subdural": "PROBLEM"

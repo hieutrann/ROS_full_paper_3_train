@@ -1,0 +1,104 @@
+[
+  {
+    "diabetes": "PROBLEM"
+  },
+  {
+    "morbid obesity": "PROBLEM"
+  },
+  {
+    "hepatitis C": "PROBLEM"
+  },
+  {
+    "cirrhosis": "PROBLEM"
+  },
+  {
+    "alcohol": "PROBLEM"
+  },
+  {
+    "cocaine": "PROBLEM"
+  },
+  {
+    "Sepsis": "PROBLEM"
+  },
+  {
+    "SBP": "PROBLEM"
+  },
+  {
+    "hematuria": "PROBLEM"
+  },
+  {
+    "epigastric pain": "PROBLEM"
+  },
+  {
+    "Zosyn": "DRUG"
+  },
+  {
+    "levofloxacin": "DRUG"
+  },
+  {
+    "Flagyl": "DRUG"
+  },
+  {
+    "vancomycin": "DRUG"
+  },
+  {
+    "doripenem": "DRUG"
+  },
+  {
+    "thiamine": "DRUG"
+  },
+  {
+    "Protonix": "DRUG"
+  },
+  {
+    "potassium chloride": "DRUG"
+  },
+  {
+    "magnesium": "DRUG"
+  },
+  {
+    "Zofran": "DRUG"
+  },
+  {
+    "norepinephrine": "DRUG"
+  },
+  {
+    "ascites": "PROBLEM"
+  },
+  {
+    "spontaneous bacterial peritonitis": "PROBLEM"
+  },
+  {
+    "cholangitis": "PROBLEM"
+  },
+  {
+    "alcoholic liver disease": "PROBLEM"
+  },
+  {
+    "thrombocytopenia": "PROBLEM"
+  },
+  {
+    "hepatitis": "PROBLEM"
+  },
+  {
+    "cryoglobulinemia": "PROBLEM"
+  },
+  {
+    "urinary tract infection": "PROBLEM"
+  },
+  {
+    "liver cirrhosis": "PROBLEM"
+  },
+  {
+    "portal hypertension": "PROBLEM"
+  },
+  {
+    "splenomegaly": "PROBLEM"
+  },
+  {
+    "ascites": "PROBLEM"
+  },
+  {
+    "spontaneous bacterial peritonitis": "PROBLEM"
+  }
+]

@@ -48,19 +48,22 @@
     "pedicle fixation": "TREATMENT"
   },
   {
-    "back, buttock, and bilateral leg pain": "PROBLEM"
+    "back": "PROBLEM"
   },
   {
-    "bilateral pars defects at L5-S1": "PROBLEM"
+    "buttock": "PROBLEM"
+  },
+  {
+    "bilateral leg pain": "PROBLEM"
+  },
+  {
+    "bilateral pars defects": "PROBLEM"
   },
   {
     "spondylolysis": "PROBLEM"
   },
   {
     "instability": "PROBLEM"
-  },
-  {
-    "surgical procedure": "TREATMENT"
   },
   {
     "chronic pain syndrome": "PROBLEM"

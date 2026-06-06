@@ -12,7 +12,10 @@
     "branch vessel coronary artery disease": "PROBLEM"
   },
   {
-    "congestive heart failure - NYHA Class III": "PROBLEM"
+    "congestive heart failure": "PROBLEM"
+  },
+  {
+    "NYHA Class III": "TEST"
   },
   {
     "nonsustained ventricular tachycardia": "PROBLEM"
@@ -90,6 +93,9 @@
     "syncope": "PROBLEM"
   },
   {
+    "smoking": "PROBLEM"
+  },
+  {
     "cocaine": "DRUG"
   },
   {
@@ -126,7 +132,10 @@
     "Pulse ox": "TEST"
   },
   {
-    "S1 and S2": "TEST"
+    "S1": "TEST"
+  },
+  {
+    "S2": "TEST"
   },
   {
     "S3": "PROBLEM"
@@ -144,7 +153,7 @@
     "cyanosis": "PROBLEM"
   },
   {
-    "1+ edema": "PROBLEM"
+    "edema": "PROBLEM"
   },
   {
     "hypertension": "PROBLEM"

@@ -3,12 +3,6 @@
     "foreign body": "PROBLEM"
   },
   {
-    "left eye": "PROBLEM"
-  },
-  {
-    "HISTORY OF PRESENT ILLNESS": "TEST"
-  },
-  {
     "foreign body": "PROBLEM"
   },
   {
@@ -57,7 +51,7 @@
     "immunologic": "PROBLEM"
   },
   {
-    "wrist": "PROBLEM"
+    "Dislocated wrist": "PROBLEM"
   },
   {
     "cigarettes": "DRUG"
@@ -67,9 +61,6 @@
   },
   {
     "hypertension": "PROBLEM"
-  },
-  {
-    "Vital signs": "TEST"
   },
   {
     "Blood pressure": "TEST"
@@ -93,10 +84,16 @@
     "Anterior chambers": "TEST"
   },
   {
+    "Lens": "TEST"
+  },
+  {
     "Conjunctiva": "PROBLEM"
   },
   {
     "foreign body": "PROBLEM"
+  },
+  {
+    "slit lamp": "TEST"
   },
   {
     "Foreign body": "PROBLEM"
@@ -105,25 +102,10 @@
     "foreign body": "PROBLEM"
   },
   {
-    "work": "TREATMENT"
-  },
-  {
     "pressure patch": "TREATMENT"
   },
   {
     "foreign body": "PROBLEM"
-  },
-  {
-    "anterior chambers": "TEST"
-  },
-  {
-    "conjunctiva": "TEST"
-  },
-  {
-    "lens": "TEST"
-  },
-  {
-    "lids": "TEST"
   },
   {
     "blurriness": "PROBLEM"
@@ -135,15 +117,9 @@
     "photophobia": "PROBLEM"
   },
   {
-    "sensation": "PROBLEM"
-  },
-  {
     "slit lamp examination": "TEST"
   },
   {
     "visual acuity": "TEST"
-  },
-  {
-    "foreign body": "PROBLEM"
   }
 ]

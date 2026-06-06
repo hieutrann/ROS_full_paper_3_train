@@ -1,0 +1,365 @@
+[
+  {
+    "chronic kidney disease": "PROBLEM"
+  },
+  {
+    "stage 4": "PROBLEM"
+  },
+  {
+    "diabetes mellitus": "PROBLEM"
+  },
+  {
+    "diabetic nephropathy": "PROBLEM"
+  },
+  {
+    "peripheral vascular disease": "PROBLEM"
+  },
+  {
+    "PTA of right leg": "TREATMENT"
+  },
+  {
+    "swelling of the right hand": "PROBLEM"
+  },
+  {
+    "swelling of the left foot": "PROBLEM"
+  },
+  {
+    "chronic kidney disease": "PROBLEM"
+  },
+  {
+    "stage 4": "PROBLEM"
+  },
+  {
+    "diabetes mellitus": "PROBLEM"
+  },
+  {
+    "diabetic nephropathy": "PROBLEM"
+  },
+  {
+    "peripheral vascular disease": "PROBLEM"
+  },
+  {
+    "recent PTA of right leg": "TREATMENT"
+  },
+  {
+    "right hand was very swollen": "PROBLEM"
+  },
+  {
+    "very painful": "PROBLEM"
+  },
+  {
+    "could not move the fingers": "PROBLEM"
+  },
+  {
+    "left foot was very swollen": "PROBLEM"
+  },
+  {
+    "very painful": "PROBLEM"
+  },
+  {
+    "could not move the toes": "PROBLEM"
+  },
+  {
+    "gout": "PROBLEM"
+  },
+  {
+    "gouty attacks": "PROBLEM"
+  },
+  {
+    "chronic kidney disease": "PROBLEM"
+  },
+  {
+    "Diabetes mellitus type 2.": "PROBLEM"
+  },
+  {
+    "Diabetic nephropathy.": "PROBLEM"
+  },
+  {
+    "Chronic kidney disease, stage 4.": "PROBLEM"
+  },
+  {
+    "Hypertension.": "PROBLEM"
+  },
+  {
+    "Hypercholesterolemia and hyperlipidemia": "PROBLEM"
+  },
+  {
+    "Peripheral vascular disease": "PROBLEM"
+  },
+  {
+    "PTA of right lower extremity": "TREATMENT"
+  },
+  {
+    "NovoLog 20 units with each meal": "DRUG"
+  },
+  {
+    "Lantus 30 units at bedtime": "DRUG"
+  },
+  {
+    "Crestor 10 mg daily": "DRUG"
+  },
+  {
+    "Micardis 80 mg daily": "DRUG"
+  },
+  {
+    "Imdur 30 mg daily": "DRUG"
+  },
+  {
+    "Amlodipine 10 mg daily": "DRUG"
+  },
+  {
+    "Coreg 12.5 mg b.i.d.": "DRUG"
+  },
+  {
+    "Lasix 20 mg daily": "DRUG"
+  },
+  {
+    "Ecotrin 325 mg daily": "DRUG"
+  },
+  {
+    "calcitriol 0.5 mcg daily": "DRUG"
+  },
+  {
+    "right hand": "PROBLEM"
+  },
+  {
+    "left foot": "PROBLEM"
+  },
+  {
+    "swollen": "PROBLEM"
+  },
+  {
+    "painful": "PROBLEM"
+  },
+  {
+    "urinate": "PROBLEM"
+  },
+  {
+    "Foley": "TEST"
+  },
+  {
+    "500 mL of urine": "TREATMENT"
+  },
+  {
+    "steroids": "TREATMENT"
+  },
+  {
+    "colchicine": "TREATMENT"
+  },
+  {
+    "dysuria": "PROBLEM"
+  },
+  {
+    "frequency": "PROBLEM"
+  },
+  {
+    "hematuria": "PROBLEM"
+  },
+  {
+    "decreased considerably": "PROBLEM"
+  },
+  {
+    "could not urinate": "PROBLEM"
+  },
+  {
+    "orthopnea": "PROBLEM"
+  },
+  {
+    "paroxysmal nocturnal dyspnea": "PROBLEM"
+  },
+  {
+    "alert and oriented": "PROBLEM"
+  },
+  {
+    "Blood pressure 126/67": "TEST"
+  },
+  {
+    "temperature 97.9": "TEST"
+  },
+  {
+    "pulse 71": "TEST"
+  },
+  {
+    "respirations 20": "TEST"
+  },
+  {
+    "105.6 kg": "TEST"
+  },
+  {
+    "Normocephalic": "PROBLEM"
+  },
+  {
+    "Supple": "PROBLEM"
+  },
+  {
+    "No adenopathy .": "PROBLEM"
+  },
+  {
+    "Chest : Symmetric .": "PROBLEM"
+  },
+  {
+    "Lungs": "TEST"
+  },
+  {
+    "RRR": "PROBLEM"
+  },
+  {
+    "Abdomen": "PROBLEM"
+  },
+  {
+    "pretibial edema": "PROBLEM"
+  },
+  {
+    "lower extremity": "PROBLEM"
+  },
+  {
+    "left foot": "PROBLEM"
+  },
+  {
+    "dorsum of left foot": "PROBLEM"
+  },
+  {
+    "right hand": "PROBLEM"
+  },
+  {
+    "swollen": "PROBLEM"
+  },
+  {
+    "very tender": "PROBLEM"
+  },
+  {
+    "move the toes": "PROBLEM"
+  },
+  {
+    "fingers": "PROBLEM"
+  },
+  {
+    "those extremities": "PROBLEM"
+  },
+  {
+    "urine culture": "TEST"
+  },
+  {
+    "white cell": "TEST"
+  },
+  {
+    "hematocrit": "TEST"
+  },
+  {
+    "90% segs": "PROBLEM"
+  },
+  {
+    "0% bands": "PROBLEM"
+  },
+  {
+    "133": "TEST"
+  },
+  {
+    "5.9": "TEST"
+  },
+  {
+    "100": "TEST"
+  },
+  {
+    "21": "TEST"
+  },
+  {
+    "348": "TEST"
+  },
+  {
+    "57": "TEST"
+  },
+  {
+    "2.39": "TEST"
+  },
+  {
+    "8.9": "TEST"
+  },
+  {
+    "10.9": "TEST"
+  },
+  {
+    "Sed rate was 121.": "TEST"
+  },
+  {
+    "BNP was 851.": "TEST"
+  },
+  {
+    "15 to 20 white cells": "TEST"
+  },
+  {
+    "3+ protein": "TEST"
+  },
+  {
+    "3+ blood": "TEST"
+  },
+  {
+    "25 to 30 red blood cells": "TEST"
+  },
+  {
+    "Urinary tract infection": "PROBLEM"
+  },
+  {
+    "Acute gouty attack": "PROBLEM"
+  },
+  {
+    "Diabetes mellitus with diabetic nephropathy": "PROBLEM"
+  },
+  {
+    "Hypertension": "PROBLEM"
+  },
+  {
+    "Hypercholesterolemia .": "PROBLEM"
+  },
+  {
+    "Peripheral vascular disease": "PROBLEM"
+  },
+  {
+    "PTA": "TREATMENT"
+  },
+  {
+    "Chronic kidney disease , stage 4.": "PROBLEM"
+  },
+  {
+    "treatment": "TREATMENT"
+  },
+  {
+    "allopurinol 50 mg daily": "DRUG"
+  },
+  {
+    "colchicine": "DRUG"
+  },
+  {
+    "Micardis": "DRUG"
+  },
+  {
+    "Lasix": "DRUG"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "hypercholesterolemia": "PROBLEM"
+  },
+  {
+    "hyperlipidemia": "PROBLEM"
+  },
+  {
+    "gouty attack": "PROBLEM"
+  },
+  {
+    "urinary tract infection": "PROBLEM"
+  },
+  {
+    "peripheral vascular disease": "PROBLEM"
+  },
+  {
+    "chronic kidney disease": "PROBLEM"
+  },
+  {
+    "diabetes mellitus": "PROBLEM"
+  },
+  {
+    "diabetic nephropathy": "PROBLEM"
+  }
+]

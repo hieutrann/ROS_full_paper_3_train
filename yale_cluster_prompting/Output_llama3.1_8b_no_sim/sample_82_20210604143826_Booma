@@ -33,22 +33,13 @@
     "atrial fibrillation": "PROBLEM"
   },
   {
-    "cardiology consultation": "TREATMENT"
-  },
-  {
     "rock": "PROBLEM"
   },
   {
-    "fall": "PROBLEM"
-  },
-  {
-    "rapid atrial tachyarrhythmia": "PROBLEM"
+    "tachyarrhythmia": "PROBLEM"
   },
   {
     "Cardizem": "DRUG"
-  },
-  {
-    "heart rate": "TEST"
   },
   {
     "multifocal atrial tachycardia": "PROBLEM"
@@ -57,7 +48,7 @@
     "wandering atrial pacemaker": "PROBLEM"
   },
   {
-    "EKGs": "TEST"
+    "EKG": "TEST"
   },
   {
     "EKG": "TEST"
@@ -66,22 +57,13 @@
     "ECG": "TEST"
   },
   {
-    "normal sinus rhythm": "PROBLEM"
+    "APCs": "PROBLEM"
   },
   {
-    "frequent APCs": "PROBLEM"
-  },
-  {
-    "potassium": "TEST"
+    "potassium": "PROBLEM"
   },
   {
     "palpitations": "PROBLEM"
-  },
-  {
-    "pain": "PROBLEM"
-  },
-  {
-    "fall": "PROBLEM"
   },
   {
     "chest pain": "PROBLEM"
@@ -90,22 +72,16 @@
     "shortness of breath": "PROBLEM"
   },
   {
-    "fall": "PROBLEM"
-  },
-  {
     "problems": "PROBLEM"
   },
   {
-    "2 flights of stairs": "TREATMENT"
-  },
-  {
-    "PAST CARDIAC HISTORY": "TEST"
+    "cardiac history": "PROBLEM"
   },
   {
     "tricuspid regurgitation": "PROBLEM"
   },
   {
-    "PA pressure": "TEST"
+    "PA pressure": "PROBLEM"
   },
   {
     "aortic sclerosis": "PROBLEM"
@@ -129,12 +105,6 @@
     "Persantine Myoview nuclear rest-stress test scan": "TEST"
   },
   {
-    "ABCD Medical Center": "TEST"
-  },
-  {
-    "07/06": "TEST"
-  },
-  {
     "mitral valve regurgitation": "PROBLEM"
   },
   {
@@ -147,16 +117,13 @@
     "EKGs": "TEST"
   },
   {
-    "APCs": "TEST"
+    "APCs": "PROBLEM"
   },
   {
     "wandering atrial pacemaker": "PROBLEM"
   },
   {
     "hypertension": "PROBLEM"
-  },
-  {
-    "dizzy spells": "PROBLEM"
   },
   {
     "syncope": "PROBLEM"
@@ -168,16 +135,13 @@
     "beta-blocker": "DRUG"
   },
   {
-    "MEDICATIONS ON ADMISSION": "TEST"
+    "MEDICATIONS ON ADMISSION": "TREATMENT"
   },
   {
     "Multivitamin": "DRUG"
   },
   {
-    "daily": "PROBLEM"
-  },
-  {
-    "2": "TEST"
+    "2": "PROBLEM"
   },
   {
     "Aspirin": "DRUG"
@@ -189,13 +153,13 @@
     "Lisinopril": "DRUG"
   },
   {
-    "4": "TEST"
+    "4": "PROBLEM"
   },
   {
     "Felodipine": "DRUG"
   },
   {
-    "5": "TEST"
+    "5": "PROBLEM"
   },
   {
     "Klor-Con 20 mEq": "DRUG"
@@ -213,28 +177,22 @@
     "GERD": "PROBLEM"
   },
   {
-    "7": "TEST"
+    "7": "PROBLEM"
   },
   {
     "MiraLax": "DRUG"
   },
   {
-    "daily": "PROBLEM"
-  },
-  {
-    "8": "TEST"
+    "8": "PROBLEM"
   },
   {
     "Lasix": "DRUG"
   },
   {
-    "daily": "PROBLEM"
-  },
-  {
     "PENICILLIN": "DRUG"
   },
   {
-    "TOPROL": "DRUG"
+    "TROPOL": "DRUG"
   },
   {
     "shortness of breath": "PROBLEM"
@@ -246,13 +204,7 @@
     "MI": "PROBLEM"
   },
   {
-    "cigarettes": "DRUG"
-  },
-  {
     "alcohol": "DRUG"
-  },
-  {
-    "illicit drugs": "DRUG"
   },
   {
     "stroke": "PROBLEM"
@@ -315,64 +267,43 @@
     "depressed": "PROBLEM"
   },
   {
-    "living alone": "PROBLEM"
-  },
-  {
-    "rheumatologic conditions": "PROBLEM"
-  },
-  {
     "psoriasis": "PROBLEM"
   },
   {
     "lupus": "PROBLEM"
   },
   {
-    "review of systems": "TEST"
+    "remission": "PROBLEM"
   },
   {
-    "Height": "TEST"
+    "height": "PROBLEM"
   },
   {
-    "weight": "TEST"
+    "weight": "PROBLEM"
   },
   {
-    "temperature": "TEST"
+    "temperature": "PROBLEM"
   },
   {
-    "blood pressure": "TEST"
+    "blood pressure": "PROBLEM"
   },
   {
-    "pulses": "TEST"
+    "pulse": "PROBLEM"
   },
   {
-    "respiratory rate": "TEST"
+    "respiratory rate": "PROBLEM"
   },
   {
-    "O2 saturation": "TEST"
+    "O2 saturation": "PROBLEM"
   },
   {
-    "general exam": "TEST"
+    "hard of hearing": "PROBLEM"
   },
   {
-    "hearing": "PROBLEM"
+    "cranium": "PROBLEM"
   },
   {
-    "alert": "PROBLEM"
-  },
-  {
-    "interactive": "PROBLEM"
-  },
-  {
-    "cranium": "TEST"
-  },
-  {
-    "normocephalic": "TEST"
-  },
-  {
-    "atraumatic": "TEST"
-  },
-  {
-    "moist mucosal membranes": "PROBLEM"
+    "mucosal membranes": "PROBLEM"
   },
   {
     "distended": "PROBLEM"
@@ -384,10 +315,16 @@
     "wheezes": "PROBLEM"
   },
   {
-    "auscultation": "TEST"
+    "hip fracture": "PROBLEM"
   },
   {
-    "left hip fracture": "PROBLEM"
+    "systolic ejection murmur": "PROBLEM"
+  },
+  {
+    "ectopic beats": "PROBLEM"
+  },
+  {
+    "aortic component of the second heart sound": "PROBLEM"
   },
   {
     "S1": "TEST"
@@ -396,13 +333,10 @@
     "S2": "TEST"
   },
   {
-    "ectopic beats": "PROBLEM"
+    "regular rate": "TEST"
   },
   {
-    "systolic ejection murmur": "PROBLEM"
-  },
-  {
-    "aortic component": "TEST"
+    "frequent": "TREATMENT"
   },
   {
     "holosystolic murmur": "PROBLEM"
@@ -417,10 +351,10 @@
     "PMI": "PROBLEM"
   },
   {
-    "Abdomen": "PROBLEM"
+    "nondistended": "PROBLEM"
   },
   {
-    "Bowel sounds": "TEST"
+    "Bowel sounds": "PROBLEM"
   },
   {
     "clubbing": "PROBLEM"
@@ -432,13 +366,10 @@
     "peripheral edema": "PROBLEM"
   },
   {
-    "Pulses": "TEST"
+    "pulses": "PROBLEM"
   },
   {
-    "Affect": "PROBLEM"
-  },
-  {
-    "skin warm and perfused": "PROBLEM"
+    "skin": "PROBLEM"
   },
   {
     "left hip fracture": "PROBLEM"
@@ -447,25 +378,22 @@
     "chest x-ray": "TEST"
   },
   {
-    "radiology report": "TEST"
-  },
-  {
     "calcified aortic knob": "PROBLEM"
   },
   {
     "pulmonary vascular congestion": "PROBLEM"
   },
   {
-    "Sodium": "TEST"
+    "Sodium": "PROBLEM"
   },
   {
-    "potassium": "TEST"
+    "potassium": "PROBLEM"
   },
   {
-    "chloride": "TEST"
+    "chloride": "PROBLEM"
   },
   {
-    "bicarbonate": "TEST"
+    "bicarbonate": "PROBLEM"
   },
   {
     "BUN": "TEST"
@@ -477,7 +405,7 @@
     "glucose": "TEST"
   },
   {
-    "magnesium": "TEST"
+    "magnesium": "PROBLEM"
   },
   {
     "Troponin": "TEST"
@@ -498,25 +426,19 @@
     "EKGs": "TEST"
   },
   {
-    "EKG": "TEST"
-  },
-  {
     "MAT": "PROBLEM"
   },
   {
-    "heart rate": "TEST"
-  },
-  {
-    "beats per minute": "TEST"
+    "EKG": "TEST"
   },
   {
     "ischemic changes": "PROBLEM"
   },
   {
-    "EKG": "TEST"
+    "wandering atrial pacemaker": "PROBLEM"
   },
   {
-    "atrial pacemaker": "PROBLEM"
+    "EKG": "TEST"
   },
   {
     "T-wave changes": "PROBLEM"
@@ -546,19 +468,13 @@
     "surgery": "TREATMENT"
   },
   {
-    "sinus rhythm": "PROBLEM"
-  },
-  {
-    "APCs": "PROBLEM"
+    "hypokalemia": "PROBLEM"
   },
   {
     "multifocal atrial tachycardia": "PROBLEM"
   },
   {
     "hypokalemia": "PROBLEM"
-  },
-  {
-    "telemetry": "TEST"
   },
   {
     "atrial fibrillation": "PROBLEM"
@@ -579,19 +495,22 @@
     "exercise capacity": "PROBLEM"
   },
   {
-    "left hip surgery": "TREATMENT"
+    "multifocal atrial tachycardia": "PROBLEM"
   },
   {
     "verapamil": "DRUG"
   },
   {
-    "multifocal atrial tachycardia": "PROBLEM"
+    "heart rate": "TEST"
   },
   {
-    "heart rate": "PROBLEM"
+    "left hip surgery": "TREATMENT"
   },
   {
-    "electrolytes": "TEST"
+    "cardiac standpoint": "PROBLEM"
+  },
+  {
+    "electrolytes": "PROBLEM"
   },
   {
     "beta-blockers": "DRUG"
@@ -612,16 +531,10 @@
     "cardiac risks": "PROBLEM"
   },
   {
-    "surgery": "TREATMENT"
-  },
-  {
     "cardiac evaluation": "TEST"
   },
   {
-    "Dr": "TREATMENT"
-  },
-  {
-    "X": "PROBLEM"
+    "discharge": "TREATMENT"
   },
   {
     "thrombocytopenia": "PROBLEM"
@@ -636,48 +549,30 @@
     "left hip fracture": "PROBLEM"
   },
   {
-    "orthopedist": "TEST"
+    "orthopedist": "TREATMENT"
   },
   {
     "hypokalemia": "PROBLEM"
   },
   {
-    "shortness of breath": "PROBLEM"
-  },
-  {
     "atrial tachycardia": "PROBLEM"
   },
   {
-    "sinus rhythm": "TEST"
+    "sinus rhythm": "PROBLEM"
   },
   {
     "hip fracture": "PROBLEM"
   },
   {
-    "atrial": "TEST"
+    "apcs": "PROBLEM"
   },
   {
-    "tachycardia": "TEST"
+    "cardiac regurgitation": "PROBLEM"
   },
   {
-    "rhythm": "TEST"
+    "aortic hypertension": "PROBLEM"
   },
   {
-    "apcs": "TEST"
-  },
-  {
-    "cardiac": "TEST"
-  },
-  {
-    "regurgitation": "PROBLEM"
-  },
-  {
-    "aortic": "TEST"
-  },
-  {
-    "hypertension": "PROBLEM"
-  },
-  {
-    "pulmonary": "TEST"
+    "pulmonary": "PROBLEM"
   }
 ]

@@ -3,10 +3,13 @@
     "Hysterectomy": "TREATMENT"
   },
   {
-    "Microinvasive carcinoma of the cervix": "PROBLEM"
+    "Microinvasive carcinoma": "PROBLEM"
   },
   {
-    "Microinvasive carcinoma of the cervix": "PROBLEM"
+    "cervix": "PROBLEM"
+  },
+  {
+    "carcinoma": "PROBLEM"
   },
   {
     "Microinvasive carcinoma of the cervix": "PROBLEM"
@@ -33,10 +36,16 @@
     "microinvasive carcinoma": "PROBLEM"
   },
   {
-    "total vaginal hysterectomy": "TREATMENT"
+    "hysterectomy": "TREATMENT"
   },
   {
     "Pap smears": "TEST"
+  },
+  {
+    "pregnancies": "PROBLEM"
+  },
+  {
+    "deliveries": "PROBLEM"
   },
   {
     "tobacco use": "PROBLEM"
@@ -54,10 +63,10 @@
     "Chest x-ray": "TEST"
   },
   {
-    "Discharge hemoglobin": "TEST"
+    "hemoglobin": "TEST"
   },
   {
-    "total vaginal hysterectomy": "TREATMENT"
+    "vaginal hysterectomy": "TREATMENT"
   },
   {
     "general anesthesia": "TREATMENT"
@@ -69,13 +78,22 @@
     "intraoperatively": "TEST"
   },
   {
-    "Bowel": "PROBLEM"
+    "Bowel function": "PROBLEM"
   },
   {
-    "ambulating": "TEST"
+    "bladder function": "PROBLEM"
   },
   {
-    "postoperative": "PROBLEM"
+    "ambulating": "TREATMENT"
+  },
+  {
+    "postoperative": "TREATMENT"
+  },
+  {
+    "cystogram": "TEST"
+  },
+  {
+    "catheter": "TREATMENT"
   },
   {
     "cystogram": "TEST"
@@ -96,7 +114,7 @@
     "urinary tract infection": "PROBLEM"
   },
   {
-    "DISCHARGE CONDITION": "PROBLEM"
+    "Good": "PROBLEM"
   },
   {
     "residual disease": "PROBLEM"
@@ -105,13 +123,7 @@
     "pap smear": "TEST"
   },
   {
-    "total vaginal hysterectomy": "TREATMENT"
-  },
-  {
     "hysterectomy": "TREATMENT"
-  },
-  {
-    "microinvasive": "PROBLEM"
   },
   {
     "carcinoma": "PROBLEM"

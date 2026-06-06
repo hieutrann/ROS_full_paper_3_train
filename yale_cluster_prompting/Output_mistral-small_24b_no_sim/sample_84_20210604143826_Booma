@@ -1,51 +1,30 @@
 [
   {
-    "1812 g": "TEST"
-  },
-  {
-    "baby boy": "PROBLEM"
+    "1812 g baby boy": "PROBLEM"
   },
   {
     "vaginal delivery": "TREATMENT"
   },
   {
-    "32-year-old": "TEST"
+    "32-year-old gravida 3, para 2": "PROBLEM"
   },
   {
-    "gravida 3, para 2": "TEST"
-  },
-  {
-    "34 weeks of gestation": "TEST"
+    "34 weeks of gestation": "PROBLEM"
   },
   {
     "C-sections": "TREATMENT"
   },
   {
-    "1812 g": "TEST"
-  },
-  {
     "baby boy": "PROBLEM"
   },
   {
     "vaginal delivery": "TREATMENT"
-  },
-  {
-    "32-year-old": "PROBLEM"
-  },
-  {
-    "gravida 3, para 2": "PROBLEM"
-  },
-  {
-    "34 weeks of gestation": "TEST"
   },
   {
     "C-sections": "TREATMENT"
   },
   {
     "ampicillin": "DRUG"
-  },
-  {
-    "delivery": "TREATMENT"
   },
   {
     "preterm contractions": "PROBLEM"
@@ -72,13 +51,13 @@
     "antibody negative": "TEST"
   },
   {
-    "rubella": "DRUG"
+    "rubella": "TEST"
   },
   {
     "RPR": "TEST"
   },
   {
-    "perineum": "PROBLEM"
+    "suctioned": "TREATMENT"
   },
   {
     "prematurity": "PROBLEM"
@@ -87,7 +66,7 @@
     "sepsis": "PROBLEM"
   },
   {
-    "NICU": "TREATMENT"
+    "retractions": "PROBLEM"
   },
   {
     "CBC": "TEST"
@@ -138,13 +117,7 @@
     "OG tube": "TREATMENT"
   },
   {
-    "p.o.": "TREATMENT"
-  },
-  {
-    "suck properly": "PROBLEM"
-  },
-  {
-    "feeds": "TREATMENT"
+    "suck": "PROBLEM"
   },
   {
     "EBM": "DRUG"
@@ -156,10 +129,7 @@
     "room air": "TREATMENT"
   },
   {
-    "p.o.": "TREATMENT"
-  },
-  {
-    "ad lib feeds": "TREATMENT"
+    "feeds": "TREATMENT"
   },
   {
     "Respiratory distress": "PROBLEM"
@@ -171,16 +141,31 @@
     "prematurity": "PROBLEM"
   },
   {
+    "Stable": "PROBLEM"
+  },
+  {
     "ex-34-week preemie": "PROBLEM"
+  },
+  {
+    "Dr.": "DRUG"
   },
   {
     "CPR teaching": "TREATMENT"
   },
   {
+    "breast": "TREATMENT"
+  },
+  {
     "NeoSure": "DRUG"
   },
   {
-    "Ad lib feeding": "TREATMENT"
+    "discharge summary": "PROBLEM"
+  },
+  {
+    "gestation": "PROBLEM"
+  },
+  {
+    "preemie": "PROBLEM"
   },
   {
     "prematurity": "PROBLEM"
@@ -189,6 +174,21 @@
     "sepsis": "PROBLEM"
   },
   {
+    "neosure": "DRUG"
+  },
+  {
+    "feeds": "TREATMENT"
+  },
+  {
+    "born": "PROBLEM"
+  },
+  {
     "delivery": "TREATMENT"
+  },
+  {
+    "perineum": "PROBLEM"
+  },
+  {
+    "discharge": "PROBLEM"
   }
 ]

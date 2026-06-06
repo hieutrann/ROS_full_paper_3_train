@@ -15,6 +15,21 @@
     "pneumonia": "PROBLEM"
   },
   {
+    "Leiomyosarcoma": "PROBLEM"
+  },
+  {
+    "pulmonary embolism": "PROBLEM"
+  },
+  {
+    "subdural hematoma": "PROBLEM"
+  },
+  {
+    "Pancytopenia": "PROBLEM"
+  },
+  {
+    "pneumonia": "PROBLEM"
+  },
+  {
     "CIVI-CAD": "TREATMENT"
   },
   {
@@ -28,6 +43,9 @@
   },
   {
     "CTA, chest PE study": "TEST"
+  },
+  {
+    "pulmonary embolism": "PROBLEM"
   },
   {
     "Head CT": "TEST"
@@ -54,10 +72,22 @@
     "partial resection": "TREATMENT"
   },
   {
+    "leiomyosarcoma": "PROBLEM"
+  },
+  {
     "preoperative chemotherapy": "TREATMENT"
   },
   {
+    "CIVI-CAD": "TREATMENT"
+  },
+  {
     "pulmonary embolus": "PROBLEM"
+  },
+  {
+    "pneumonia": "PROBLEM"
+  },
+  {
+    "subdural hematoma": "PROBLEM"
   },
   {
     "anticoagulation": "TREATMENT"
@@ -66,10 +96,34 @@
     "surgical resection": "TREATMENT"
   },
   {
+    "residual disease": "PROBLEM"
+  },
+  {
+    "Leiomyosarcoma": "PROBLEM"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "pulmonary embolism": "PROBLEM"
+  },
+  {
     "dyspnea on exertion": "PROBLEM"
   },
   {
     "chest pain": "PROBLEM"
+  },
+  {
+    "CTA": "TEST"
+  },
+  {
+    "pulmonary embolism": "PROBLEM"
   },
   {
     "Lovenox": "DRUG"
@@ -78,10 +132,28 @@
     "shortness of breath": "PROBLEM"
   },
   {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "subdural hematoma": "PROBLEM"
+  },
+  {
     "headaches": "PROBLEM"
   },
   {
+    "head CT": "TEST"
+  },
+  {
+    "acute intracranial abnormalities": "PROBLEM"
+  },
+  {
     "sinusitis": "PROBLEM"
+  },
+  {
+    "sinus CT scan": "TEST"
+  },
+  {
+    "Pancytopenia": "PROBLEM"
   },
   {
     "white blood count": "TEST"
@@ -102,9 +174,63 @@
     "transfusion of platelets": "TREATMENT"
   },
   {
+    "ANC": "TEST"
+  },
+  {
     "neutropenic diet": "TREATMENT"
   },
   {
+    "ANC": "TEST"
+  },
+  {
+    "neutropenic diet": "TREATMENT"
+  },
+  {
+    "white blood cell count": "TEST"
+  },
+  {
+    "hemoglobin": "TEST"
+  },
+  {
+    "platelet count": "TEST"
+  },
+  {
+    "pneumonia": "PROBLEM"
+  },
+  {
+    "pneumonia": "PROBLEM"
+  },
+  {
     "fevers": "PROBLEM"
+  },
+  {
+    "embolism": "PROBLEM"
+  },
+  {
+    "hematoma": "PROBLEM"
+  },
+  {
+    "pneumonia": "PROBLEM"
+  },
+  {
+    "acute intracranial abnormalities": "PROBLEM"
+  },
+  {
+    "white blood": "PROBLEM"
+  },
+  {
+    "platelet count": "TEST"
+  },
+  {
+    "subdural hematoma": "PROBLEM"
+  },
+  {
+    "pulmonary embolism": "PROBLEM"
+  },
+  {
+    "intracranial": "PROBLEM"
+  },
+  {
+    "pancytopenia": "PROBLEM"
   }
 ]

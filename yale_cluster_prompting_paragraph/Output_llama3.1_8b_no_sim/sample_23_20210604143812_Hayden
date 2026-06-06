@@ -3,10 +3,10 @@
     "aphasia": "PROBLEM"
   },
   {
-    "g-tube": "PROBLEM"
+    "global aphasia": "PROBLEM"
   },
   {
-    "speech therapy": "TREATMENT"
+    "aphasia quotient": "TEST"
   },
   {
     "Western Aphasia Battery": "TEST"
@@ -15,12 +15,24 @@
     "modified barium swallow study": "TEST"
   },
   {
+    "G-tube": "PROBLEM"
+  },
+  {
     "aspiration": "PROBLEM"
   },
   {
-    "speech": "PROBLEM"
+    "speech therapy": "TREATMENT"
   },
   {
-    "communication": "PROBLEM"
+    "skilled speech therapy": "TREATMENT"
+  },
+  {
+    "swallowing function": "PROBLEM"
+  },
+  {
+    "communication skills": "PROBLEM"
+  },
+  {
+    "language evaluation": "TEST"
   }
 ]

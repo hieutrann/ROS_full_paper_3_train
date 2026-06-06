@@ -6,6 +6,9 @@
     "Refractory anemia": "PROBLEM"
   },
   {
+    "transfusion": "TREATMENT"
+  },
+  {
     "anemia": "PROBLEM"
   },
   {
@@ -135,7 +138,7 @@
     "tobacco user": "PROBLEM"
   },
   {
-    "blood or cancer disorders": "PROBLEM"
+    "cancer disorders": "PROBLEM"
   },
   {
     "Blood pressure": "TEST"
@@ -150,6 +153,12 @@
     "temperature": "TEST"
   },
   {
+    "69 inches": "TEST"
+  },
+  {
+    "174 pounds": "TEST"
+  },
+  {
     "arcus senilis": "PROBLEM"
   },
   {
@@ -162,10 +171,10 @@
     "adenopathy": "PROBLEM"
   },
   {
-    "HEART": "TEST"
+    "fullness in the left upper quadrant": "PROBLEM"
   },
   {
-    "fullness in the left upper quadrant": "PROBLEM"
+    "spleen": "PROBLEM"
   },
   {
     "clubbing": "PROBLEM"
@@ -178,6 +187,9 @@
   },
   {
     "refractory anemia": "PROBLEM"
+  },
+  {
+    "transfusion": "TREATMENT"
   },
   {
     "B12": "DRUG"
@@ -213,6 +225,9 @@
     "anemia": "PROBLEM"
   },
   {
+    "serologic evaluation": "TEST"
+  },
+  {
     "reticulocyte count": "TEST"
   },
   {
@@ -238,6 +253,9 @@
   },
   {
     "biopsy": "TEST"
+  },
+  {
+    "bone marrow": "TREATMENT"
   },
   {
     "refractory anemia": "PROBLEM"

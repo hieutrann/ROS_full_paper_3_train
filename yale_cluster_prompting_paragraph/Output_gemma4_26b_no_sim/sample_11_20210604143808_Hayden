@@ -9,10 +9,10 @@
     "anemia": "PROBLEM"
   },
   {
-    "hemoglobin of 7.1": "TEST"
+    "hemoglobin": "TEST"
   },
   {
-    "transfusion": "TREATMENT"
+    "blood transfusion": "TREATMENT"
   },
   {
     "diabetes": "PROBLEM"
@@ -34,9 +34,6 @@
   },
   {
     "bleeding": "PROBLEM"
-  },
-  {
-    "blood transfusion": "TREATMENT"
   },
   {
     "B12": "DRUG"
@@ -72,7 +69,7 @@
     "rash": "PROBLEM"
   },
   {
-    "arthralgias": "PROBLEM"
+    "arthralgies": "PROBLEM"
   },
   {
     "myalgias": "PROBLEM"
@@ -102,7 +99,10 @@
     "Feosol": "DRUG"
   },
   {
-    "VITAL SIGNS": "TEST"
+    "arcus senilis": "PROBLEM"
+  },
+  {
+    "jugular venous pressure distention": "PROBLEM"
   },
   {
     "edema": "PROBLEM"
@@ -111,16 +111,16 @@
     "cyanosis": "PROBLEM"
   },
   {
-    "esophagogastroduodenoscopy": "TEST"
-  },
-  {
-    "creatinine": "TEST"
-  },
-  {
     "myelodysplastic syndrome": "PROBLEM"
   },
   {
     "bone marrow failure": "PROBLEM"
+  },
+  {
+    "esophagogastroduodenoscopy": "TEST"
+  },
+  {
+    "creatinine": "TEST"
   },
   {
     "reticulocyte count": "TEST"
@@ -144,18 +144,12 @@
     "bone marrow aspiration": "TEST"
   },
   {
-    "biopsy": "TEST"
+    "bone marrow biopsy": "TEST"
   },
   {
     "ultrasound": "TEST"
   },
   {
-    "ldh": "TEST"
-  },
-  {
-    "b12": "DRUG"
-  },
-  {
-    "refractory anemia": "PROBLEM"
+    "spleen": "PROBLEM"
   }
 ]

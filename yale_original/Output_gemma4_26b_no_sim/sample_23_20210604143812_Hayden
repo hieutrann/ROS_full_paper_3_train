@@ -12,12 +12,6 @@
     "speech therapy": "TREATMENT"
   },
   {
-    "functional communication skills": "PROBLEM"
-  },
-  {
-    "swallowing function": "PROBLEM"
-  },
-  {
     "G-tube": "TREATMENT"
   },
   {
@@ -57,13 +51,7 @@
     "feeding tube": "TREATMENT"
   },
   {
-    "difficulty stating verbally, yes or no, to questions": "PROBLEM"
-  },
-  {
-    "accurately using head gestures": "PROBLEM"
-  },
-  {
-    "respond to yes-no questions": "PROBLEM"
+    "difficulty stating verbally": "PROBLEM"
   },
   {
     "difficulty with her expressive language abilities": "PROBLEM"
@@ -76,6 +64,9 @@
   },
   {
     "expressive communication": "PROBLEM"
+  },
+  {
+    "speech generating device": "TREATMENT"
   },
   {
     "g-tube": "TREATMENT"

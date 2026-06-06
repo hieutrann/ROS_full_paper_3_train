@@ -78,12 +78,6 @@
     "azithromycin": "DRUG"
   },
   {
-    "O2 saturations": "TEST"
-  },
-  {
-    "pneumonia": "PROBLEM"
-  },
-  {
     "rheumatoid arthritis": "PROBLEM"
   },
   {
@@ -114,16 +108,13 @@
     "fever": "PROBLEM"
   },
   {
-    "O2 saturations": "TEST"
-  },
-  {
     "azithromycin": "DRUG"
   },
   {
-    "prednisone therapy": "DRUG"
+    "prednisone therapy": "TREATMENT"
   },
   {
-    "adrenal insufficient": "PROBLEM"
+    "mildly adrenal insufficient": "PROBLEM"
   },
   {
     "pneumonia": "PROBLEM"

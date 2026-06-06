@@ -15,7 +15,7 @@
     "Lantus": "DRUG"
   },
   {
-    "glucoses": "PROBLEM"
+    "glucoses": "TEST"
   },
   {
     "insulin": "DRUG"
@@ -36,19 +36,19 @@
     "Vitals": "TEST"
   },
   {
-    "distress": "PROBLEM"
-  },
-  {
     "Diabetes": "PROBLEM"
   },
   {
     "low blood glucoses": "PROBLEM"
   },
   {
+    "glucoses": "TEST"
+  },
+  {
     "Lantus insulin": "DRUG"
   },
   {
-    "55 units": "TREATMENT"
+    "units": "TEST"
   },
   {
     "Humalog": "DRUG"
@@ -69,7 +69,7 @@
     "insulin": "DRUG"
   },
   {
-    "glucoses": "PROBLEM"
+    "glucoses": "TEST"
   },
   {
     "sliding scale": "TREATMENT"

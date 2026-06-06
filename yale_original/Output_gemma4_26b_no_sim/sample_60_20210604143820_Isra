@@ -51,6 +51,9 @@
     "fever": "PROBLEM"
   },
   {
+    "99.7": "TEST"
+  },
+  {
     "amoxicillin": "DRUG"
   },
   {
@@ -84,6 +87,9 @@
     "apnea": "PROBLEM"
   },
   {
+    "cyanosis": "PROBLEM"
+  },
+  {
     "CBC": "TEST"
   },
   {
@@ -105,13 +111,13 @@
     "BMP": "TEST"
   },
   {
-    "An x-ray": "TEST"
+    "x-ray": "TEST"
   },
   {
     "infiltrate": "PROBLEM"
   },
   {
-    "rapid influenza swab": "TEST"
+    "influenza swab": "TEST"
   },
   {
     "RSV": "TEST"

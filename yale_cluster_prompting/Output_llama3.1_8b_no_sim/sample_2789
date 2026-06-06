@@ -3,6 +3,12 @@
     "right hip surgery": "PROBLEM"
   },
   {
+    "right hip surgery": "TREATMENT"
+  },
+  {
+    "Decreased ability to perform daily living activity": "PROBLEM"
+  },
+  {
     "right hip surgery": "PROBLEM"
   },
   {
@@ -12,7 +18,7 @@
     "low-grade fever": "PROBLEM"
   },
   {
-    "Transitional Care Unit": "TREATMENT"
+    "Transitional Care Unit": "PROBLEM"
   },
   {
     "DVT prophylaxis": "TREATMENT"
@@ -27,7 +33,10 @@
     "INR": "TEST"
   },
   {
-    "bowel movement": "PROBLEM"
+    "2.0 to 3.0": "TEST"
+  },
+  {
+    "surgery": "TREATMENT"
   },
   {
     "right calf discomfort": "PROBLEM"
@@ -45,7 +54,7 @@
     "depression": "PROBLEM"
   },
   {
-    "osteoporosis": "PROBLEM"
+    "osteoarthritis": "PROBLEM"
   },
   {
     "migraine headaches": "PROBLEM"
@@ -93,22 +102,10 @@
     "Noncontributory": "PROBLEM"
   },
   {
-    "patient": "PROBLEM"
-  },
-  {
-    "school nurse": "TREATMENT"
-  },
-  {
-    "cigarettes": "PROBLEM"
-  },
-  {
-    "REVIEW OF SYSTEMS": "TEST"
+    "smoking": "PROBLEM"
   },
   {
     "migraine headaches": "PROBLEM"
-  },
-  {
-    "menstrual cycle": "PROBLEM"
   },
   {
     "floaters": "PROBLEM"
@@ -126,7 +123,7 @@
     "intermittent right calf pain": "PROBLEM"
   },
   {
-    "Homans sign": "TEST"
+    "Homans sign": "PROBLEM"
   },
   {
     "cardiopulmonary symptoms": "PROBLEM"
@@ -162,7 +159,7 @@
     "constipation": "PROBLEM"
   },
   {
-    "bowel movement": "TEST"
+    "surgery": "TREATMENT"
   },
   {
     "dysuria": "PROBLEM"
@@ -180,22 +177,22 @@
     "vasectomy": "TREATMENT"
   },
   {
-    "temperature": "TEST"
+    "temperature": "PROBLEM"
   },
   {
-    "blood pressure": "TEST"
+    "blood pressure": "PROBLEM"
   },
   {
-    "heart rate": "TEST"
+    "heart rate": "PROBLEM"
   },
   {
-    "respirations": "TEST"
+    "respirations": "PROBLEM"
   },
   {
-    "O2 saturation": "TEST"
+    "O2 saturation": "PROBLEM"
   },
   {
-    "acute distress": "PROBLEM"
+    "exam": "TEST"
   },
   {
     "Normocephalic": "PROBLEM"
@@ -216,13 +213,13 @@
     "LUNGS": "PROBLEM"
   },
   {
-    "HEART": "TEST"
+    "Regular rate and rhythm": "PROBLEM"
   },
   {
-    "Bowel sounds": "TEST"
+    "Bowel sounds": "PROBLEM"
   },
   {
-    "Soft": "PROBLEM"
+    "Soft and nontender": "PROBLEM"
   },
   {
     "Right hip incision": "PROBLEM"
@@ -234,13 +231,13 @@
     "calf tenderness": "PROBLEM"
   },
   {
-    "Homans sign": "TEST"
+    "Homans sign": "PROBLEM"
   },
   {
     "pedal edema": "PROBLEM"
   },
   {
-    "Alert and oriented x3": "TEST"
+    "Alert and oriented x3": "PROBLEM"
   },
   {
     "chemistry panel": "TEST"
@@ -282,22 +279,25 @@
     "right total hip replacement": "TREATMENT"
   },
   {
+    "TCU": "TREATMENT"
+  },
+  {
     "Physical Therapy": "TREATMENT"
   },
   {
     "Occupational Therapy": "TREATMENT"
   },
   {
-    "2": "TREATMENT"
+    "2": "PROBLEM"
   },
   {
-    "Postoperative anemia": "PROBLEM"
+    "anemia": "PROBLEM"
   },
   {
     "Feosol 325 mg": "DRUG"
   },
   {
-    "3": "TREATMENT"
+    "3": "PROBLEM"
   },
   {
     "Pain management": "PROBLEM"
@@ -315,7 +315,7 @@
     "edema": "PROBLEM"
   },
   {
-    "4": "TREATMENT"
+    "4": "PROBLEM"
   },
   {
     "Depression": "PROBLEM"
@@ -330,7 +330,7 @@
     "Klonopin": "DRUG"
   },
   {
-    "5": "TREATMENT"
+    "5": "PROBLEM"
   },
   {
     "Osteoarthritis": "PROBLEM"
@@ -339,25 +339,22 @@
     "Celebrex": "DRUG"
   },
   {
-    "6": "TREATMENT"
+    "6": "PROBLEM"
   },
   {
     "Protonix": "DRUG"
   },
   {
-    "Dulcolax suppository": "TREATMENT"
+    "Dulcolax suppository": "DRUG"
   },
   {
-    "lactulose": "TREATMENT"
-  },
-  {
-    "basis": "DRUG"
+    "lactulose": "DRUG"
   },
   {
     "Colace": "DRUG"
   },
   {
-    "7": "TREATMENT"
+    "7": "PROBLEM"
   },
   {
     "DVT prophylaxis": "TREATMENT"
@@ -375,10 +372,10 @@
     "5 mg": "DRUG"
   },
   {
-    "8": "TREATMENT"
+    "8": "PROBLEM"
   },
   {
-    "Right leg muscle spasm": "PROBLEM"
+    "muscle spasm": "PROBLEM"
   },
   {
     "calf pain": "PROBLEM"

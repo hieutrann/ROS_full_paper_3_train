@@ -1,6 +1,6 @@
 [
   {
-    "speech therapy": "TREATMENT"
+    "outpatient skilled speech therapy": "TREATMENT"
   },
   {
     "right hemisphere disorder": "PROBLEM"
@@ -12,7 +12,7 @@
     "outpatient skilled speech therapy sessions": "TREATMENT"
   },
   {
-    "outpatient skilled speech therapy": "TREATMENT"
+    "speech therapy": "TREATMENT"
   },
   {
     "right hemisphere disorder": "PROBLEM"
@@ -21,7 +21,7 @@
     "stroke": "PROBLEM"
   },
   {
-    "skilled speech therapy sessions": "TREATMENT"
+    "outpatient skilled speech therapy sessions": "TREATMENT"
   },
   {
     "initial evaluation": "TEST"
@@ -79,5 +79,8 @@
   },
   {
     "speech therapy": "TREATMENT"
+  },
+  {
+    "speech": "PROBLEM"
   }
 ]

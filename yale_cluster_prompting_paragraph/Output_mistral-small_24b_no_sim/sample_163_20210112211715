@@ -1,12 +1,15 @@
 [
   {
-    "Discharge Summary": "TEST"
+    "scalp skin biopsy": "TREATMENT"
   },
   {
-    "pneumonia": "PROBLEM"
+    "pathology specimen": "TEST"
   },
   {
-    "hypoxemia": "PROBLEM"
+    "Acute right lobar pneumonia": "PROBLEM"
+  },
+  {
+    "Hypoxemia": "PROBLEM"
   },
   {
     "hypotension": "PROBLEM"
@@ -30,37 +33,28 @@
     "Alzheimer's type": "PROBLEM"
   },
   {
-    "anemia": "PROBLEM"
+    "Anemia": "PROBLEM"
   },
   {
     "iron deficiency": "PROBLEM"
   },
   {
-    "mole": "PROBLEM"
-  },
-  {
-    "skin biopsy": "TEST"
+    "scalp skin biopsy": "TREATMENT"
   },
   {
     "pathology report": "TEST"
   },
   {
-    "scalp skin biopsy": "TEST"
+    "thoracentesis": "TREATMENT"
   },
   {
-    "pathology specimen": "TEST"
-  },
-  {
-    "thoracentesis": "TEST"
-  },
-  {
-    "Flagyl": "DRUG"
+    "IV Flagyl": "DRUG"
   },
   {
     "Levaquin": "DRUG"
   },
   {
-    "fever": "PROBLEM"
+    "low-grade fever": "PROBLEM"
   },
   {
     "confusion": "PROBLEM"
@@ -69,7 +63,7 @@
     "dizziness": "PROBLEM"
   },
   {
-    "cough": "PROBLEM"
+    "nonproductive cough": "PROBLEM"
   },
   {
     "chest x-ray": "TEST"
@@ -84,16 +78,19 @@
     "vancomycin": "DRUG"
   },
   {
-    "blood": "TEST"
+    "blood cultures": "TEST"
   },
   {
-    "sputum": "TEST"
+    "sputum cultures": "TEST"
   },
   {
-    "urine": "TEST"
+    "urine cultures": "TEST"
   },
   {
-    "cultures": "TEST"
+    "IV Levaquin": "DRUG"
+  },
+  {
+    "IV Flagyl": "DRUG"
   },
   {
     "C. diff colitis": "PROBLEM"
@@ -108,7 +105,7 @@
     "systolic blood pressure": "TEST"
   },
   {
-    "IV fluid management": "TREATMENT"
+    "fluid management": "TREATMENT"
   },
   {
     "ultrasound": "TEST"
@@ -141,7 +138,7 @@
     "incentive spirometry": "TREATMENT"
   },
   {
-    "pulmonary function": "PROBLEM"
+    "pulmonary function": "TEST"
   },
   {
     "white count": "TEST"
@@ -159,19 +156,25 @@
     "thoracentesis culture": "TEST"
   },
   {
-    "packed red cells": "DRUG"
+    "packed red cells": "TREATMENT"
   },
   {
     "hemoglobin": "TEST"
-  },
-  {
-    "cardiovascular support": "TREATMENT"
   },
   {
     "GI bleeding": "PROBLEM"
   },
   {
     "blood work": "TEST"
+  },
+  {
+    "white count": "TEST"
+  },
+  {
+    "hemoglobin": "TEST"
+  },
+  {
+    "hematocrit": "TEST"
   },
   {
     "PT": "TEST"
@@ -192,7 +195,7 @@
     "Hepatitis B core IgM": "TEST"
   },
   {
-    "Hepatitis C core antibody": "TEST"
+    "hepatitis C core antibody": "TEST"
   },
   {
     "sodium": "TEST"
@@ -235,8 +238,5 @@
   },
   {
     "compression fracture": "PROBLEM"
-  },
-  {
-    "acute": "PROBLEM"
   }
 ]

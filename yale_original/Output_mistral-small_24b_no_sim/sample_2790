@@ -3,19 +3,13 @@
     "back pain": "PROBLEM"
   },
   {
-    "daily living activities": "PROBLEM"
+    "chronic back pain": "PROBLEM"
   },
   {
     "chronic back pain": "PROBLEM"
   },
   {
-    "Decreased ability to perform daily living activities": "PROBLEM"
-  },
-  {
-    "exacerbation of chronic back pain": "PROBLEM"
-  },
-  {
-    "acute back pain": "PROBLEM"
+    "back pain": "PROBLEM"
   },
   {
     "back pain": "PROBLEM"
@@ -24,10 +18,7 @@
     "back pain": "PROBLEM"
   },
   {
-    "IV": "TREATMENT"
-  },
-  {
-    "analgesics": "DRUG"
+    "IV analgesics": "DRUG"
   },
   {
     "Decadron": "DRUG"
@@ -36,7 +27,7 @@
     "physical therapy": "TREATMENT"
   },
   {
-    "ADLs": "TEST"
+    "ADLs": "PROBLEM"
   },
   {
     "back pain": "PROBLEM"
@@ -57,6 +48,12 @@
     "bone scan": "TEST"
   },
   {
+    "bone scan": "TEST"
+  },
+  {
+    "oncologist": "TREATMENT"
+  },
+  {
     "PENICILLIN": "DRUG"
   },
   {
@@ -69,7 +66,7 @@
     "DOXYCYCLINE": "DRUG"
   },
   {
-    "IVP DYE": "TEST"
+    "IVP DYE": "DRUG"
   },
   {
     "IODINE": "DRUG"
@@ -84,10 +81,13 @@
     "HIVES": "PROBLEM"
   },
   {
-    "SAP FROM THE MANGO TREE": "PROBLEM"
+    "SAP": "PROBLEM"
   },
   {
-    "orchiectomy": "TREATMENT"
+    "MANGO TREE": "PROBLEM"
+  },
+  {
+    "mango product": "PROBLEM"
   },
   {
     "testicular cancer": "PROBLEM"
@@ -108,16 +108,22 @@
     "carpal tunnel syndrome": "PROBLEM"
   },
   {
-    "teratoma": "PROBLEM"
+    "abdominal teratoma": "PROBLEM"
   },
   {
     "incisional hernia": "PROBLEM"
   },
   {
+    "right orchiectomy": "TREATMENT"
+  },
+  {
+    "excision": "TREATMENT"
+  },
+  {
     "alcohol": "DRUG"
   },
   {
-    "IV drug use": "PROBLEM"
+    "IV drug": "DRUG"
   },
   {
     "chills": "PROBLEM"
@@ -177,10 +183,7 @@
     "numbness and tingling": "PROBLEM"
   },
   {
-    "hands": "PROBLEM"
-  },
-  {
-    "bilateral carpal tunnel syndrome": "PROBLEM"
+    "carpal tunnel syndrome": "PROBLEM"
   },
   {
     "seizure disorders": "PROBLEM"
@@ -207,13 +210,16 @@
     "Sclerae": "PROBLEM"
   },
   {
+    "EOMI": "TEST"
+  },
+  {
     "thrush": "PROBLEM"
   },
   {
     "Trachea": "PROBLEM"
   },
   {
-    "cervical or axillary nodes": "PROBLEM"
+    "nodes": "PROBLEM"
   },
   {
     "LUNGS": "PROBLEM"
@@ -243,7 +249,7 @@
     "calf tenderness": "PROBLEM"
   },
   {
-    "Bilateral strength": "TEST"
+    "Bilateral strength": "PROBLEM"
   },
   {
     "right lower extremity": "PROBLEM"
@@ -258,6 +264,12 @@
     "Acute on chronic back pain": "PROBLEM"
   },
   {
+    "TCU": "TREATMENT"
+  },
+  {
+    "rehabilitation therapy": "TREATMENT"
+  },
+  {
     "Physical Therapy": "TREATMENT"
   },
   {
@@ -270,10 +282,19 @@
     "Percocet": "DRUG"
   },
   {
-    "right orchiectomy": "TREATMENT"
+    "p.r.n.": "DRUG"
+  },
+  {
+    "pain": "PROBLEM"
   },
   {
     "testicular cancer": "PROBLEM"
+  },
+  {
+    "orchiectomy": "TREATMENT"
+  },
+  {
+    "bone scan": "TEST"
   },
   {
     "Gastroesophageal reflux disease": "PROBLEM"
@@ -294,16 +315,10 @@
     "Protonix": "DRUG"
   },
   {
-    "Deep vein thrombosis": "PROBLEM"
-  },
-  {
-    "prophylaxis": "TREATMENT"
+    "Deep vein thrombosis prophylaxis": "TREATMENT"
   },
   {
     "therapies": "TREATMENT"
-  },
-  {
-    "ambulating": "TREATMENT"
   },
   {
     "leg exercises": "TREATMENT"
@@ -315,7 +330,19 @@
     "weight loss plan": "TREATMENT"
   },
   {
+    "dietary consult": "TREATMENT"
+  },
+  {
+    "discharge summary": "TEST"
+  },
+  {
     "decreased ability": "PROBLEM"
+  },
+  {
+    "daily living activities": "PROBLEM"
+  },
+  {
+    "exacerbation": "PROBLEM"
   },
   {
     "back pain": "PROBLEM"

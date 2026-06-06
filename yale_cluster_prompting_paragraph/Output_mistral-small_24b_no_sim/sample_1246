@@ -1,21 +1,27 @@
 [
   {
-    "Morbid obesity": "PROBLEM"
-  },
-  {
     "laparoscopic Roux-en-Y gastric bypass": "TREATMENT"
   },
   {
-    "Hypertension": "PROBLEM"
+    "laparoscopic Roux-en-Y gastric bypass": "PROBLEM"
   },
   {
-    "Obstructive sleep apnea": "PROBLEM"
+    "hypertension": "PROBLEM"
+  },
+  {
+    "obstructive sleep apnea": "PROBLEM"
   },
   {
     "CPAP": "TREATMENT"
   },
   {
-    "Laparoscopic Roux-en-Y gastric bypass": "TREATMENT"
+    "laparoscopic Roux-en-Y gastric bypass": "TREATMENT"
+  },
+  {
+    "morbid obesity": "PROBLEM"
+  },
+  {
+    "laparoscopic Roux-en-Y gastric bypass": "TREATMENT"
   },
   {
     "bariatric evaluation": "TEST"
@@ -27,22 +33,10 @@
     "diagnostics": "TEST"
   },
   {
-    "Medifast": "DRUG"
+    "preop Medifast": "TREATMENT"
   },
   {
-    "bariatric surgery": "TREATMENT"
-  },
-  {
-    "OR": "TEST"
-  },
-  {
-    "same day surgery": "TREATMENT"
-  },
-  {
-    "elective gastric bypass": "TREATMENT"
-  },
-  {
-    "PACU": "TEST"
+    "laparoscopic Roux-en-Y gastric bypass": "TREATMENT"
   },
   {
     "DVT prophylaxis": "TREATMENT"
@@ -57,13 +51,7 @@
     "PCA": "TREATMENT"
   },
   {
-    "pain control": "TREATMENT"
-  },
-  {
     "CPAP": "TREATMENT"
-  },
-  {
-    "cardiopulmonary complaints": "PROBLEM"
   },
   {
     "labs": "TEST"
@@ -72,117 +60,12 @@
     "bariatric clear liquids": "TREATMENT"
   },
   {
-    "postop day": "TEST"
-  },
-  {
-    "fever": "PROBLEM"
-  },
-  {
-    "symptoms": "PROBLEM"
-  },
-  {
-    "postoperative day": "TEST"
-  },
-  {
-    "discharge": "TREATMENT"
-  },
-  {
-    "stable": "PROBLEM"
-  },
-  {
-    "improved condition": "PROBLEM"
-  },
-  {
-    "drains": "TEST"
-  },
-  {
-    "re-appointment": "TREATMENT"
-  },
-  {
-    "office": "TEST"
-  },
-  {
-    "significant concerning complaints": "PROBLEM"
-  },
-  {
-    "Scripts": "DRUG"
-  },
-  {
     "omeprazole": "DRUG"
   },
   {
     "Lortab": "DRUG"
   },
   {
-    "Med rec sheet": "TEST"
-  },
-  {
-    "no meds": "DRUG"
-  },
-  {
     "bariatric clear liquids": "TREATMENT"
-  },
-  {
-    "home": "TEST"
-  },
-  {
-    "goal": "TEST"
-  },
-  {
-    "activity": "TEST"
-  },
-  {
-    "heavy lifting": "PROBLEM"
-  },
-  {
-    "straining": "PROBLEM"
-  },
-  {
-    "shower": "TREATMENT"
-  },
-  {
-    "drain site care": "TREATMENT"
-  },
-  {
-    "wound care": "TREATMENT"
-  },
-  {
-    "re-appoint": "TREATMENT"
-  },
-  {
-    "office": "TEST"
-  },
-  {
-    "significant concerning complaints": "PROBLEM"
-  },
-  {
-    "discharge summary": "TEST"
-  },
-  {
-    "medifast": "DRUG"
-  },
-  {
-    "laparoscopic roux-en-y gastric bypass": "TREATMENT"
-  },
-  {
-    "roux-en-y": "TREATMENT"
-  },
-  {
-    "bariatric clear liquids": "TREATMENT"
-  },
-  {
-    "gastric bypass": "TREATMENT"
-  },
-  {
-    "laparoscopic": "TREATMENT"
-  },
-  {
-    "gastric": "TREATMENT"
-  },
-  {
-    "bariatric": "TREATMENT"
-  },
-  {
-    "bypass": "TREATMENT"
   }
 ]

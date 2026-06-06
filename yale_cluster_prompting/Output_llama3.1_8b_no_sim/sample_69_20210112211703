@@ -3,22 +3,22 @@
     "left-sided chest pain": "PROBLEM"
   },
   {
-    "abdominal surgery": "TREATMENT"
+    "abdominal surgery": "PROBLEM"
   },
   {
     "left-sided chest pain": "PROBLEM"
   },
   {
-    "abdominal surgery": "TREATMENT"
+    "abdominal surgery": "PROBLEM"
   },
   {
     "None": "PROBLEM"
   },
   {
-    "patient": "PROBLEM"
+    "87-year-old patient": "PROBLEM"
   },
   {
-    "laparoscopic appendicectomy": "TREATMENT"
+    "appendicectomy": "TREATMENT"
   },
   {
     "paralytic ileus": "PROBLEM"
@@ -33,16 +33,22 @@
     "gain": "PROBLEM"
   },
   {
+    "swelling": "PROBLEM"
+  },
+  {
     "lower extremities": "PROBLEM"
   },
   {
     "fever": "PROBLEM"
   },
   {
-    "ENT": "TEST"
+    "ENT": "PROBLEM"
   },
   {
     "cough": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
   },
   {
     "left-sided chest pain": "PROBLEM"
@@ -51,7 +57,10 @@
     "left posterior axillary line": "PROBLEM"
   },
   {
-    "fourth and fifth rib": "PROBLEM"
+    "fourth rib": "PROBLEM"
+  },
+  {
+    "fifth rib": "PROBLEM"
   },
   {
     "heart problems": "PROBLEM"
@@ -64,9 +73,6 @@
   },
   {
     "laparoscopic appendicectomy": "TREATMENT"
-  },
-  {
-    "oral diet": "TREATMENT"
   },
   {
     "dysuria": "PROBLEM"
@@ -96,16 +102,10 @@
     "alcohol": "PROBLEM"
   },
   {
-    "FAMILY HISTORY": "TEST"
+    "Noncontributory": "PROBLEM"
   },
   {
-    "PHYSICAL EXAMINATION": "TEST"
-  },
-  {
-    "87-year-old gentleman": "PROBLEM"
-  },
-  {
-    "toxic looking": "PROBLEM"
+    "87-year-old gentleman": "TEST"
   },
   {
     "Oral mucosa": "PROBLEM"
@@ -123,9 +123,6 @@
     "tenderness": "PROBLEM"
   },
   {
-    "posterior-lateral axis": "PROBLEM"
-  },
-  {
     "heart sounds": "TEST"
   },
   {
@@ -138,16 +135,13 @@
     "Bowel sounds": "TEST"
   },
   {
-    "EXTREMITIES": "TEST"
-  },
-  {
     "pedal swelling": "PROBLEM"
   },
   {
-    "oriented": "PROBLEM"
+    "oriented": "TEST"
   },
   {
-    "Examination": "TEST"
+    "nonfocal": "PROBLEM"
   },
   {
     "White count": "TEST"
@@ -174,16 +168,13 @@
     "ruptured appendicitis": "PROBLEM"
   },
   {
-    "surgery": "TREATMENT"
+    "surgery": "PROBLEM"
   },
   {
-    "oral fluids": "TEST"
+    "bowels": "PROBLEM"
   },
   {
-    "bowels": "TEST"
-  },
-  {
-    "2": "PROBLEM"
+    "2": "TEST"
   },
   {
     "Left-sided chest pain": "PROBLEM"
@@ -207,13 +198,13 @@
     "Fluid retention": "PROBLEM"
   },
   {
-    "4": "PROBLEM"
+    "4": "TREATMENT"
   },
   {
     "Paralytic ileus": "PROBLEM"
   },
   {
-    "5": "PROBLEM"
+    "5": "TREATMENT"
   },
   {
     "Leukocytosis": "PROBLEM"
@@ -240,6 +231,12 @@
     "laparoscopic appendicectomy": "TREATMENT"
   },
   {
+    "abdominal": "TEST"
+  },
+  {
     "surgery": "TREATMENT"
+  },
+  {
+    "chest": "TEST"
   }
 ]

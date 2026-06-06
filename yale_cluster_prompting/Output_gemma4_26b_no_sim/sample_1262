@@ -147,12 +147,6 @@
     "tingling": "PROBLEM"
   },
   {
-    "left arm": "PROBLEM"
-  },
-  {
-    "VITAL SIGNS": "TEST"
-  },
-  {
     "Blood pressure": "TEST"
   },
   {
@@ -174,16 +168,10 @@
     "pain with coughing": "PROBLEM"
   },
   {
-    "Pupils": "TEST"
-  },
-  {
     "lymphadenopathy": "PROBLEM"
   },
   {
     "Pleural friction rub": "PROBLEM"
-  },
-  {
-    "bowel sounds": "TEST"
   },
   {
     "organomegaly": "PROBLEM"
@@ -201,19 +189,7 @@
     "tenderness": "PROBLEM"
   },
   {
-    "pulses": "TEST"
-  },
-  {
-    "breakdown": "PROBLEM"
-  },
-  {
-    "lesions": "PROBLEM"
-  },
-  {
     "ulcers": "PROBLEM"
-  },
-  {
-    "LABORATORY DATA": "TEST"
   },
   {
     "right-sided pleural effusion": "PROBLEM"
@@ -246,6 +222,9 @@
     "thrombosis": "PROBLEM"
   },
   {
+    "anticoagulated": "TREATMENT"
+  },
+  {
     "pericardial fluid": "PROBLEM"
   },
   {
@@ -276,9 +255,6 @@
     "large mediastinal lymph node": "PROBLEM"
   },
   {
-    "pathology": "TEST"
-  },
-  {
     "pericardectomy": "TREATMENT"
   },
   {
@@ -300,7 +276,7 @@
     "PET CT": "TEST"
   },
   {
-    "bilateral pleural pericardial effusions": "PROBLEM"
+    "pleural pericardial effusions": "PROBLEM"
   },
   {
     "lymphadenopathy": "PROBLEM"
@@ -312,19 +288,10 @@
     "pectoral and intramammary lymph nodes": "PROBLEM"
   },
   {
-    "uptake in L4": "PROBLEM"
-  },
-  {
-    "SUV of 4": "TEST"
-  },
-  {
-    "stage III disease": "PROBLEM"
+    "disease": "PROBLEM"
   },
   {
     "echocardiogram": "TEST"
-  },
-  {
-    "ejection fraction": "TEST"
   },
   {
     "chemotherapy": "TREATMENT"
@@ -339,7 +306,7 @@
     "Port-A-Cath": "TREATMENT"
   },
   {
-    "chemotherapy": "TREATMENT"
+    "chemotherapy": "DRUG"
   },
   {
     "IV fluid": "TREATMENT"
@@ -400,9 +367,6 @@
   },
   {
     "venous thrombosis": "PROBLEM"
-  },
-  {
-    "atrial": "PROBLEM"
   },
   {
     "thrombosis": "PROBLEM"

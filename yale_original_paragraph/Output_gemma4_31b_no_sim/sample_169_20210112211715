@@ -15,6 +15,9 @@
     "hepatitis C": "PROBLEM"
   },
   {
+    "screening": "TEST"
+  },
+  {
     "blood tests": "TEST"
   },
   {
@@ -60,19 +63,13 @@
     "troubled breathing": "PROBLEM"
   },
   {
-    "abdominal symptoms": "PROBLEM"
-  },
-  {
     "abdominal pain": "PROBLEM"
   },
   {
-    "urinary symptoms": "PROBLEM"
+    "darkening of the skin": "PROBLEM"
   },
   {
-    "darkening of the skin or eyes": "PROBLEM"
-  },
-  {
-    "yellowing or darkening of the urine": "PROBLEM"
+    "darkening of the urine": "PROBLEM"
   },
   {
     "rash": "PROBLEM"
@@ -87,7 +84,7 @@
     "Nexium": "DRUG"
   },
   {
-    "IV contrast": "DRUG"
+    "IV contrast": "PROBLEM"
   },
   {
     "temperature": "TEST"
@@ -123,22 +120,19 @@
     "gallop": "PROBLEM"
   },
   {
-    "enlargement of the liver or spleen": "PROBLEM"
+    "enlargement of the liver": "PROBLEM"
+  },
+  {
+    "enlargement of the spleen": "PROBLEM"
   },
   {
     "edema": "PROBLEM"
-  },
-  {
-    "gait": "TEST"
   },
   {
     "ataxia": "PROBLEM"
   },
   {
     "contaminated needlestick": "PROBLEM"
-  },
-  {
-    "blood testing": "TEST"
   },
   {
     "hepatitis B": "PROBLEM"
@@ -178,8 +172,5 @@
   },
   {
     "acute intestinal illness": "PROBLEM"
-  },
-  {
-    "lab studies": "TEST"
   }
 ]

@@ -12,13 +12,13 @@
     "diabetic neuropathy": "PROBLEM"
   },
   {
-    "NPH": "DRUG"
+    "NPH insulin": "DRUG"
   },
   {
     "Regular insulin": "DRUG"
   },
   {
-    "blood sugars": "PROBLEM"
+    "blood sugars": "TEST"
   },
   {
     "low blood sugar": "PROBLEM"
@@ -39,10 +39,10 @@
     "blood sugars": "PROBLEM"
   },
   {
-    "blood sugar": "TEST"
+    "glucometer": "TEST"
   },
   {
-    "Endocrinologist": "PROBLEM"
+    "Endocrinologist": "TREATMENT"
   },
   {
     "kidney damage": "PROBLEM"
@@ -72,6 +72,15 @@
     "alkaline phosphatase": "TEST"
   },
   {
+    "alcohol": "DRUG"
+  },
+  {
+    "drug": "DRUG"
+  },
+  {
+    "smoker": "PROBLEM"
+  },
+  {
     "drinking": "PROBLEM"
   },
   {
@@ -99,10 +108,16 @@
     "head": "PROBLEM"
   },
   {
+    "helmet": "TREATMENT"
+  },
+  {
     "headache": "PROBLEM"
   },
   {
     "scalp laceration": "PROBLEM"
+  },
+  {
+    "emergency room": "TREATMENT"
   },
   {
     "headache": "PROBLEM"
@@ -126,6 +141,9 @@
     "WN": "TEST"
   },
   {
+    "male": "PROBLEM"
+  },
+  {
     "Blood sugar": "TEST"
   },
   {
@@ -147,6 +165,18 @@
     "Wound": "PROBLEM"
   },
   {
+    "Normocephalic": "PROBLEM"
+  },
+  {
+    "PERRLA": "TEST"
+  },
+  {
+    "EOMI": "TEST"
+  },
+  {
+    "TMs": "TEST"
+  },
+  {
     "Nares": "TEST"
   },
   {
@@ -156,13 +186,10 @@
     "sinuses": "PROBLEM"
   },
   {
-    "NECK": "TEST"
+    "LAD": "TEST"
   },
   {
-    "LAD": "PROBLEM"
-  },
-  {
-    "RRR": "TEST"
+    "CARDIAC": "PROBLEM"
   },
   {
     "murmurs": "PROBLEM"
@@ -177,7 +204,7 @@
     "CTA": "TEST"
   },
   {
-    "Soft": "PROBLEM"
+    "HSM": "TEST"
   },
   {
     "lower extremity numbness": "PROBLEM"
@@ -198,16 +225,16 @@
     "contusion": "PROBLEM"
   },
   {
-    "Cranial nerves 2-12": "TEST"
+    "infection": "PROBLEM"
   },
   {
-    "Cerebellar function": "TEST"
+    "Cranial nerves": "TEST"
+  },
+  {
+    "RAM": "TEST"
   },
   {
     "Diabetes mellitus, type 1": "PROBLEM"
-  },
-  {
-    "poorly controlled": "PROBLEM"
   },
   {
     "diabetic neuropathy": "PROBLEM"
@@ -249,22 +276,19 @@
     "blood sugars": "TEST"
   },
   {
-    "Endocrinology": "PROBLEM"
+    "Endocrinology": "TREATMENT"
   },
   {
     "Prilosec OTC": "DRUG"
   },
   {
-    "GERD symptoms": "PROBLEM"
+    "GERD": "PROBLEM"
   },
   {
-    "Followup": "TEST"
+    "scooter accident": "PROBLEM"
   },
   {
     "Lacerations": "PROBLEM"
-  },
-  {
-    "signs": "PROBLEM"
   },
   {
     "heat": "PROBLEM"

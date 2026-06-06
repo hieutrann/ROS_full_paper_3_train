@@ -18,45 +18,51 @@
     "Prostatic hypertrophy": "PROBLEM"
   },
   {
-    "Bilateral inguinal hernia repair": "TREATMENT"
+    "Perioperative elevated blood pressure": "PROBLEM"
   },
   {
-    "Right shoulder surgery with reconstruction": "TREATMENT"
-  },
-  {
-    "Rotator cuff repair": "TREATMENT"
-  },
-  {
-    "Left knee arthroplasty": "TREATMENT"
-  },
-  {
-    "Transurethral resection of the prostate": "TREATMENT"
-  },
-  {
-    "Laser surgery for the prostate": "TREATMENT"
-  },
-  {
-    "IV labetalol": "DRUG"
+    "labetalol": "DRUG"
   },
   {
     "Synthroid": "DRUG"
   },
   {
-    "Aspirin": "DRUG"
+    "aspirin": "DRUG"
   },
   {
-    "Atenolol": "DRUG"
+    "atenolol": "DRUG"
   },
   {
-    "Lisinopril": "DRUG"
+    "lisinopril": "DRUG"
   },
   {
-    "Terazosin": "DRUG"
+    "terazosin": "DRUG"
   },
   {
-    "Perioperative hypertension": "PROBLEM"
+    "EGD": "TEST"
   },
   {
-    "Elevated blood pressure": "PROBLEM"
+    "colonoscopy": "TEST"
+  },
+  {
+    "barium enema": "TEST"
+  },
+  {
+    "laser surgery": "TREATMENT"
+  },
+  {
+    "transurethral resection of the prostate": "TREATMENT"
+  },
+  {
+    "bilateral inguinal hernia repair": "TREATMENT"
+  },
+  {
+    "right shoulder surgery with reconstruction": "TREATMENT"
+  },
+  {
+    "rotator cuff repair": "TREATMENT"
+  },
+  {
+    "left knee arthroplasty": "TREATMENT"
   }
 ]

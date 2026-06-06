@@ -27,25 +27,13 @@
     "intravenous narcotics": "DRUG"
   },
   {
-    "pain": "PROBLEM"
-  },
-  {
-    "fever": "PROBLEM"
-  },
-  {
     "Vicodin": "DRUG"
-  },
-  {
-    "pain": "PROBLEM"
   },
   {
     "Synthroid": "DRUG"
   },
   {
     "thyroid hormone": "DRUG"
-  },
-  {
-    "wound care": "TREATMENT"
   },
   {
     "nodular": "PROBLEM"

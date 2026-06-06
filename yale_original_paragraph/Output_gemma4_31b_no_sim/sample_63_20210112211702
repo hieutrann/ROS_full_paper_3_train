@@ -3,6 +3,12 @@
     "multiple trauma": "PROBLEM"
   },
   {
+    "injury": "PROBLEM"
+  },
+  {
+    "trauma": "PROBLEM"
+  },
+  {
     "Decubitus ulcer": "PROBLEM"
   },
   {
@@ -90,6 +96,9 @@
     "wound care": "TREATMENT"
   },
   {
+    "anemia": "PROBLEM"
+  },
+  {
     "iron treatment": "TREATMENT"
   },
   {
@@ -105,7 +114,19 @@
     "chronic pain medications": "DRUG"
   },
   {
-    "Calcium with vitamin D": "DRUG"
+    "alcohol rehab facility": "TREATMENT"
+  },
+  {
+    "wheeled walker": "TREATMENT"
+  },
+  {
+    "confusion": "PROBLEM"
+  },
+  {
+    "Calcium": "DRUG"
+  },
+  {
+    "vitamin D": "DRUG"
   },
   {
     "Ferrous sulfate": "DRUG"

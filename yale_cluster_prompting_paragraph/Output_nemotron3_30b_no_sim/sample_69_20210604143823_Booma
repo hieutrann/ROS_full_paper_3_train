@@ -1,0 +1,203 @@
+[
+  {
+    "afebrile": "PROBLEM"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "heart rate": "TEST"
+  },
+  {
+    "alert": "PROBLEM"
+  },
+  {
+    "conjunctiva": "PROBLEM"
+  },
+  {
+    "pupil": "PROBLEM"
+  },
+  {
+    "reactive": "PROBLEM"
+  },
+  {
+    "ptosis": "PROBLEM"
+  },
+  {
+    "irides": "PROBLEM"
+  },
+  {
+    "ears": "PROBLEM"
+  },
+  {
+    "nose": "PROBLEM"
+  },
+  {
+    "throat": "PROBLEM"
+  },
+  {
+    "hearing": "TEST"
+  },
+  {
+    "oropharynx": "PROBLEM"
+  },
+  {
+    "mucosa": "PROBLEM"
+  },
+  {
+    "lesion": "PROBLEM"
+  },
+  {
+    "palate": "PROBLEM"
+  },
+  {
+    "tongue": "PROBLEM"
+  },
+  {
+    "posterior pharynx": "PROBLEM"
+  },
+  {
+    "neck": "PROBLEM"
+  },
+  {
+    "thyroid gland": "PROBLEM"
+  },
+  {
+    "respiratory effort": "TEST"
+  },
+  {
+    "lung": "TEST"
+  },
+  {
+    "clear": "TEST"
+  },
+  {
+    "air movement": "TEST"
+  },
+  {
+    "heart": "TEST"
+  },
+  {
+    "S1": "TEST"
+  },
+  {
+    "S2": "TEST"
+  },
+  {
+    "murmur": "PROBLEM"
+  },
+  {
+    "extremities": "TEST"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "abdomen": "PROBLEM"
+  },
+  {
+    "soft": "PROBLEM"
+  },
+  {
+    "nontender": "PROBLEM"
+  },
+  {
+    "rebound": "PROBLEM"
+  },
+  {
+    "guarding": "PROBLEM"
+  },
+  {
+    "enlarged liver": "PROBLEM"
+  },
+  {
+    "enlarged spleen": "PROBLEM"
+  },
+  {
+    "bowel sounds": "TEST"
+  },
+  {
+    "scrotal elements": "PROBLEM"
+  },
+  {
+    "testes": "PROBLEM"
+  },
+  {
+    "penis": "PROBLEM"
+  },
+  {
+    "lesion": "PROBLEM"
+  },
+  {
+    "discharge": "PROBLEM"
+  },
+  {
+    "lymphatic": "PROBLEM"
+  },
+  {
+    "node": "PROBLEM"
+  },
+  {
+    "groin": "PROBLEM"
+  },
+  {
+    "neck area": "PROBLEM"
+  },
+  {
+    "head and neck": "PROBLEM"
+  },
+  {
+    "extremities": "PROBLEM"
+  },
+  {
+    "range of motion": "TEST"
+  },
+  {
+    "skin": "PROBLEM"
+  },
+  {
+    "subcutaneous tissues": "PROBLEM"
+  },
+  {
+    "pink": "PROBLEM"
+  },
+  {
+    "warm": "PROBLEM"
+  },
+  {
+    "dry": "PROBLEM"
+  },
+  {
+    "touch": "PROBLEM"
+  },
+  {
+    "Deep tendon reflexes": "TEST"
+  },
+  {
+    "patellar area": "TEST"
+  },
+  {
+    "sensation": "TEST"
+  },
+  {
+    "touch": "TEST"
+  },
+  {
+    "oriented": "PROBLEM"
+  },
+  {
+    "time": "PROBLEM"
+  },
+  {
+    "place": "PROBLEM"
+  },
+  {
+    "person": "PROBLEM"
+  },
+  {
+    "judgment": "PROBLEM"
+  },
+  {
+    "insight": "PROBLEM"
+  }
+]

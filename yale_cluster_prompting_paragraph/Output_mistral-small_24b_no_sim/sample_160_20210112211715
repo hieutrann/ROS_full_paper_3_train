@@ -30,9 +30,6 @@
     "hypothyroidism": "PROBLEM"
   },
   {
-    "left AV fistula": "TREATMENT"
-  },
-  {
     "epigastric pain": "PROBLEM"
   },
   {
@@ -45,31 +42,25 @@
     "nauseated feeling": "PROBLEM"
   },
   {
-    "vital signs": "TEST"
-  },
-  {
-    "temperature": "TEST"
-  },
-  {
-    "pulse": "TEST"
-  },
-  {
-    "blood pressure": "TEST"
-  },
-  {
     "EKG": "TEST"
   },
   {
-    "ultrasound": "TEST"
+    "ultrasound of the abdomen": "TEST"
   },
   {
     "renal cyst": "PROBLEM"
   },
   {
-    "gallbladder wall": "PROBLEM"
+    "sludge in the gallbladder wall": "PROBLEM"
   },
   {
-    "Murphy sign": "PROBLEM"
+    "stone in the gallbladder wall": "PROBLEM"
+  },
+  {
+    "thickening of the gallbladder wall": "PROBLEM"
+  },
+  {
+    "Murphy sign": "TEST"
   },
   {
     "cholecystitis": "PROBLEM"
@@ -120,7 +111,7 @@
     "urine culture": "TEST"
   },
   {
-    "cholecystectomy": "TREATMENT"
+    "laparoscopic cholecystectomy": "TREATMENT"
   },
   {
     "dialysis": "TREATMENT"
@@ -129,13 +120,7 @@
     "white count": "TEST"
   },
   {
-    "afebrile": "PROBLEM"
-  },
-  {
     "chronic bronchitis": "PROBLEM"
-  },
-  {
-    "nebulizer therapy": "TREATMENT"
   },
   {
     "Synthroid": "DRUG"
@@ -162,7 +147,13 @@
     "Coreg": "DRUG"
   },
   {
+    "nebulizer therapy": "TREATMENT"
+  },
+  {
     "Phenergan": "DRUG"
+  },
+  {
+    "nausea and vomiting": "PROBLEM"
   },
   {
     "Pepcid": "DRUG"
@@ -175,11 +166,5 @@
   },
   {
     "Premarin": "DRUG"
-  },
-  {
-    "heart disease": "PROBLEM"
-  },
-  {
-    "stroke": "PROBLEM"
   }
 ]

@@ -12,25 +12,25 @@
     "Coronary artery disease": "PROBLEM"
   },
   {
-    "Robotic-Assisted laparoscopic left renal cyst decortication and cystoscopy": "TREATMENT"
-  },
-  {
     "MRI": "TEST"
-  },
-  {
-    "partial nephrectomy": "TREATMENT"
-  },
-  {
-    "radical nephrectomy": "TREATMENT"
-  },
-  {
-    "renal cyst decortication": "TREATMENT"
   },
   {
     "cystoscopy": "TEST"
   },
   {
-    "pathology": "TEST"
+    "Robotic-Assisted laparoscopic left renal cyst decortication": "TREATMENT"
+  },
+  {
+    "cystoscopy": "TREATMENT"
+  },
+  {
+    "Left partial nephrectomy": "TREATMENT"
+  },
+  {
+    "Left radical nephrectomy": "TREATMENT"
+  },
+  {
+    "Left renal cyst decortication": "TREATMENT"
   },
   {
     "pain medications": "DRUG"

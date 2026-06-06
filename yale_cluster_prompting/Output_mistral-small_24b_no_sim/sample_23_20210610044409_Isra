@@ -1,33 +1,60 @@
 [
   {
-    "VITAL SIGNS": "TEST"
+    "routine normal female physical exam": "TREATMENT"
+  },
+  {
+    "Blood pressure": "TEST"
+  },
+  {
+    "pulse": "TEST"
+  },
+  {
+    "respirations": "TEST"
+  },
+  {
+    "temperature": "TEST"
+  },
+  {
+    "apparent distress": "PROBLEM"
+  },
+  {
+    "EOMI": "TEST"
   },
   {
     "PERRLA": "TEST"
   },
   {
+    "Sclerae nonicteric": "PROBLEM"
+  },
+  {
     "lesions": "PROBLEM"
   },
   {
-    "Ears": "TEST"
+    "lids": "PROBLEM"
   },
   {
-    "Mouth": "TEST"
+    "lashes": "PROBLEM"
   },
   {
-    "Tongue": "TEST"
+    "brows": "PROBLEM"
   },
   {
-    "Teeth": "TEST"
+    "conjunctivae": "PROBLEM"
   },
   {
-    "Throat": "TEST"
+    "Funduscopic examination": "TEST"
   },
   {
-    "dental work": "TREATMENT"
+    "hearing": "TEST"
   },
   {
-    "NECK": "TEST"
+    "Nose": "PROBLEM"
+  },
+  {
+    "Sinuses": "PROBLEM"
+  },
+  {
+    "dental work": "PROBLEM"
   },
   {
     "bruit": "PROBLEM"
@@ -42,10 +69,19 @@
     "thyroid abnormality": "PROBLEM"
   },
   {
-    "CHEST": "TEST"
+    "Lungs": "PROBLEM"
   },
   {
-    "HEART": "PROBLEM"
+    "auscultation": "TEST"
+  },
+  {
+    "percussion": "TEST"
+  },
+  {
+    "S1": "TEST"
+  },
+  {
+    "S2": "TEST"
   },
   {
     "murmur": "PROBLEM"
@@ -69,7 +105,25 @@
     "gallop": "PROBLEM"
   },
   {
-    "BREASTS": "TEST"
+    "PMI nondisplaced": "PROBLEM"
+  },
+  {
+    "Chest wall": "PROBLEM"
+  },
+  {
+    "inspection": "TEST"
+  },
+  {
+    "palpation": "TEST"
+  },
+  {
+    "axillary adenopathy": "PROBLEM"
+  },
+  {
+    "supraclavicular adenopathy": "PROBLEM"
+  },
+  {
+    "BREASTS": "PROBLEM"
   },
   {
     "hepatosplenomegaly": "PROBLEM"
@@ -90,10 +144,19 @@
     "guarding": "PROBLEM"
   },
   {
-    "RECTAL": "TEST"
+    "aortic impulse": "PROBLEM"
+  },
+  {
+    "intraabdominal bruit": "PROBLEM"
+  },
+  {
+    "Normal for age": "PROBLEM"
   },
   {
     "Hemoccult": "TEST"
+  },
+  {
+    "stool": "TEST"
   },
   {
     "edema": "PROBLEM"
@@ -108,7 +171,34 @@
     "deep venous thrombosis": "PROBLEM"
   },
   {
-    "BACK": "TEST"
+    "Nails": "PROBLEM"
+  },
+  {
+    "hands": "PROBLEM"
+  },
+  {
+    "feet": "PROBLEM"
+  },
+  {
+    "creases": "PROBLEM"
+  },
+  {
+    "palms": "PROBLEM"
+  },
+  {
+    "soles": "PROBLEM"
+  },
+  {
+    "range of motion": "TEST"
+  },
+  {
+    "BACK": "PROBLEM"
+  },
+  {
+    "inspection": "TEST"
+  },
+  {
+    "percussion": "TEST"
   },
   {
     "spinous process tenderness": "PROBLEM"
@@ -126,10 +216,52 @@
     "Brudzinski": "TEST"
   },
   {
-    "NEUROLOGIC": "TEST"
+    "cranial nervous systems": "PROBLEM"
   },
   {
-    "SKIN": "TEST"
+    "peripheral nervous systems": "PROBLEM"
+  },
+  {
+    "strength": "PROBLEM"
+  },
+  {
+    "sensation": "PROBLEM"
+  },
+  {
+    "cerebellar function": "PROBLEM"
+  },
+  {
+    "Affect": "PROBLEM"
+  },
+  {
+    "Speech": "PROBLEM"
+  },
+  {
+    "lucid": "PROBLEM"
+  },
+  {
+    "rational": "PROBLEM"
+  },
+  {
+    "Gait": "TEST"
+  },
+  {
+    "station": "TEST"
+  },
+  {
+    "premalignant": "PROBLEM"
+  },
+  {
+    "malignant": "PROBLEM"
+  },
+  {
+    "general medicine": "PROBLEM"
+  },
+  {
+    "heent": "TEST"
+  },
+  {
+    "general appearance": "TEST"
   },
   {
     "hepatosplenomegaly": "PROBLEM"
@@ -150,7 +282,7 @@
     "pulse": "TEST"
   },
   {
-    "bruit": "TEST"
+    "bruit": "PROBLEM"
   },
   {
     "adenopathy": "PROBLEM"

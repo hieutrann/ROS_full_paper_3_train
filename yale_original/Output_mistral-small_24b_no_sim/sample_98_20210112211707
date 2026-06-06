@@ -12,7 +12,7 @@
     "sweats": "PROBLEM"
   },
   {
-    "vision": "PROBLEM"
+    "blurring of the vision": "PROBLEM"
   },
   {
     "itching": "PROBLEM"
@@ -48,7 +48,7 @@
     "sweats": "PROBLEM"
   },
   {
-    "vision": "PROBLEM"
+    "blurring of the vision": "PROBLEM"
   },
   {
     "itching": "PROBLEM"
@@ -123,10 +123,13 @@
     "hematuria": "PROBLEM"
   },
   {
-    "excessive urination": "PROBLEM"
+    "urination": "PROBLEM"
   },
   {
     "muscle weakness": "PROBLEM"
+  },
+  {
+    "tenderness": "PROBLEM"
   },
   {
     "numbness": "PROBLEM"
@@ -141,13 +144,10 @@
     "arthritis": "PROBLEM"
   },
   {
+    "rashes": "PROBLEM"
+  },
+  {
     "fatigability": "PROBLEM"
-  },
-  {
-    "motor skills": "PROBLEM"
-  },
-  {
-    "sensation": "PROBLEM"
   },
   {
     "hair texture": "PROBLEM"
@@ -163,9 +163,6 @@
   },
   {
     "night sweats": "PROBLEM"
-  },
-  {
-    "headaches": "PROBLEM"
   },
   {
     "weight loss": "PROBLEM"
@@ -214,8 +211,5 @@
   },
   {
     "loss": "PROBLEM"
-  },
-  {
-    "neck": "PROBLEM"
   }
 ]

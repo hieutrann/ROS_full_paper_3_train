@@ -3,15 +3,6 @@
     "chest pain": "PROBLEM"
   },
   {
-    "left-sided": "PROBLEM"
-  },
-  {
-    "severe chest tightness": "PROBLEM"
-  },
-  {
-    "emotional argument": "PROBLEM"
-  },
-  {
     "psychological disorders": "PROBLEM"
   },
   {
@@ -19,33 +10,6 @@
   },
   {
     "coronary artery disease": "PROBLEM"
-  },
-  {
-    "workup": "TEST"
-  },
-  {
-    "ABC Medical Center": "TEST"
-  },
-  {
-    "cardiac workup": "TEST"
-  },
-  {
-    "telemetry unit": "TEST"
-  },
-  {
-    "drug screen": "TEST"
-  },
-  {
-    "methadone": "DRUG"
-  },
-  {
-    "morphine": "DRUG"
-  },
-  {
-    "EKG": "TEST"
-  },
-  {
-    "nitroglycerin": "DRUG"
   },
   {
     "seizure disorder": "PROBLEM"
@@ -57,13 +21,7 @@
     "CHF": "PROBLEM"
   },
   {
-    "coronary stenting": "TREATMENT"
-  },
-  {
     "mitral valve prolapse": "PROBLEM"
-  },
-  {
-    "pacemaker placement": "TREATMENT"
   },
   {
     "colon cancer": "PROBLEM"
@@ -72,82 +30,16 @@
     "breast cancer": "PROBLEM"
   },
   {
-    "lumpectomy": "TREATMENT"
+    "chest tightness": "PROBLEM"
   },
   {
-    "breast augmentation surgery": "TREATMENT"
+    "headaches": "PROBLEM"
   },
   {
-    "cholecystectomy": "TREATMENT"
+    "EKG": "TEST"
   },
   {
-    "cardiac ablation": "TREATMENT"
-  },
-  {
-    "left knee surgery": "TREATMENT"
-  },
-  {
-    "Dilantin": "DRUG"
-  },
-  {
-    "Klonopin": "DRUG"
-  },
-  {
-    "Elavil": "DRUG"
-  },
-  {
-    "nitroglycerin": "DRUG"
-  },
-  {
-    "Thorazine": "DRUG"
-  },
-  {
-    "Neurontin": "DRUG"
-  },
-  {
-    "Phenergan": "DRUG"
-  },
-  {
-    "abortion": "TREATMENT"
-  },
-  {
-    "tobacco abuse": "PROBLEM"
-  },
-  {
-    "illicit drug abuse": "PROBLEM"
-  },
-  {
-    "VITAL SIGNS": "TEST"
-  },
-  {
-    "blood pressure": "TEST"
-  },
-  {
-    "heart rate": "TEST"
-  },
-  {
-    "respiratory rate": "TEST"
-  },
-  {
-    "HEENT": "TEST"
-  },
-  {
-    "NECK": "TEST"
-  },
-  {
-    "LUNGS": "TEST"
-  },
-  {
-    "CARDIAC": "TEST"
-  },
-  {
-    "ABDOMEN": "TEST"
-  },
-  {
-    "LOWER EXTREMITIES": "TEST"
-  },
-  {
-    "NEUROLOGICAL": "TEST"
+    "drug screen": "TEST"
   },
   {
     "WBC count": "TEST"
@@ -195,15 +87,6 @@
     "myoglobulin": "TEST"
   },
   {
-    "EKG": "TEST"
-  },
-  {
-    "sinus rhythm": "TEST"
-  },
-  {
-    "ST-T wave changes": "TEST"
-  },
-  {
     "toxicology screen": "TEST"
   },
   {
@@ -213,51 +96,54 @@
     "beta-hCG level": "TEST"
   },
   {
-    "chest pains": "PROBLEM"
+    "Dilantin": "DRUG"
   },
   {
-    "psychosomatic": "PROBLEM"
+    "Klonopin": "DRUG"
   },
   {
-    "acute coronary syndrome": "PROBLEM"
+    "Elavil": "DRUG"
   },
   {
-    "unstable angina": "PROBLEM"
+    "nitroglycerin": "DRUG"
   },
   {
-    "early pregnancy": "PROBLEM"
+    "Thorazine": "DRUG"
   },
   {
-    "OB/GYN": "TEST"
+    "Neurontin": "DRUG"
   },
   {
-    "PCP": "TEST"
+    "Phenergan": "DRUG"
   },
   {
-    "migraine headaches": "PROBLEM"
+    "methadone": "DRUG"
   },
   {
-    "general medicine": "TEST"
+    "morphine": "DRUG"
   },
   {
-    "psychosomatic": "PROBLEM"
+    "marijuana": "DRUG"
   },
   {
-    "coronary artery disease": "PROBLEM"
+    "lumpectomy": "TREATMENT"
   },
   {
-    "chest tightness": "PROBLEM"
+    "breast augmentation surgery": "TREATMENT"
   },
   {
-    "emotional argument": "PROBLEM"
+    "cholecystectomy": "TREATMENT"
   },
   {
-    "psychological disorders": "PROBLEM"
+    "cardiac ablation": "TREATMENT"
   },
   {
-    "supraventricular tachycardia": "PROBLEM"
+    "left knee surgery": "TREATMENT"
   },
   {
-    "headaches": "PROBLEM"
+    "removal of half the pancreas": "TREATMENT"
+  },
+  {
+    "abortion": "TREATMENT"
   }
 ]

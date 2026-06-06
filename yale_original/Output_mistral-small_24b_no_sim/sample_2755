@@ -1,18 +1,12 @@
 [
   {
+    "Itchy Rash": "PROBLEM"
+  },
+  {
     "itchiness": "PROBLEM"
   },
   {
-    "rash": "PROBLEM"
-  },
-  {
-    "back": "PROBLEM"
-  },
-  {
-    "torso": "PROBLEM"
-  },
-  {
-    "arms": "PROBLEM"
+    "itchy rash": "PROBLEM"
   },
   {
     "Itchy rash": "PROBLEM"
@@ -21,13 +15,13 @@
     "itchiness": "PROBLEM"
   },
   {
-    "rash": "PROBLEM"
+    "itchy rash": "PROBLEM"
   },
   {
-    "facial swelling": "PROBLEM"
+    "tongue swelling": "PROBLEM"
   },
   {
-    "tongue or lip swelling": "PROBLEM"
+    "lip swelling": "PROBLEM"
   },
   {
     "shortness of breath": "PROBLEM"
@@ -36,7 +30,19 @@
     "wheezing": "PROBLEM"
   },
   {
-    "itchy": "PROBLEM"
+    "think": "PROBLEM"
+  },
+  {
+    "foods": "TREATMENT"
+  },
+  {
+    "medications": "DRUG"
+  },
+  {
+    "exposures": "TREATMENT"
+  },
+  {
+    "insulation": "PROBLEM"
   },
   {
     "back surgery": "TREATMENT"
@@ -48,7 +54,10 @@
     "oropharyngeal swelling": "PROBLEM"
   },
   {
-    "lip or tongue swelling": "PROBLEM"
+    "lip swelling": "PROBLEM"
+  },
+  {
+    "tongue swelling": "PROBLEM"
   },
   {
     "wheezing": "PROBLEM"
@@ -57,19 +66,7 @@
     "shortness of breath": "PROBLEM"
   },
   {
-    "headache": "PROBLEM"
-  },
-  {
-    "nausea": "PROBLEM"
-  },
-  {
     "itchy rash": "PROBLEM"
-  },
-  {
-    "torso": "PROBLEM"
-  },
-  {
-    "upper arms": "PROBLEM"
   },
   {
     "TORADOL": "DRUG"
@@ -84,16 +81,34 @@
     "AMPICILLIN": "DRUG"
   },
   {
-    "afebrile": "TEST"
+    "VITAL SIGNS": "TEST"
   },
   {
     "tachycardic": "PROBLEM"
   },
   {
-    "pharynx": "PROBLEM"
+    "blood pressure": "TEST"
   },
   {
-    "NECK": "TEST"
+    "respiratory rate": "TEST"
+  },
+  {
+    "distress": "PROBLEM"
+  },
+  {
+    "gurney": "TREATMENT"
+  },
+  {
+    "oral mucosa": "PROBLEM"
+  },
+  {
+    "Lips": "TEST"
+  },
+  {
+    "tongue": "TEST"
+  },
+  {
+    "Posterior pharynx": "TEST"
   },
   {
     "trachea": "PROBLEM"
@@ -117,13 +132,16 @@
     "tachycardia": "PROBLEM"
   },
   {
-    "Soft": "PROBLEM"
+    "ABDOMEN": "PROBLEM"
   },
   {
-    "erythematous, blanching rash": "PROBLEM"
+    "rash": "PROBLEM"
   },
   {
-    "papular, macular rash": "PROBLEM"
+    "rash": "PROBLEM"
+  },
+  {
+    "buttocks": "PROBLEM"
   },
   {
     "epinephrine": "DRUG"
@@ -171,9 +189,6 @@
     "tongue or lip swelling": "PROBLEM"
   },
   {
-    "evaluation": "TEST"
-  },
-  {
     "urticaria": "PROBLEM"
   },
   {
@@ -190,6 +205,9 @@
   },
   {
     "swelling": "PROBLEM"
+  },
+  {
+    "itchy": "PROBLEM"
   },
   {
     "rash": "PROBLEM"

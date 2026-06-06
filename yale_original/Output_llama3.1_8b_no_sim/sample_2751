@@ -24,13 +24,16 @@
     "toothache": "PROBLEM"
   },
   {
-    "dentist": "PROBLEM"
+    "dentist": "TREATMENT"
   },
   {
     "problems": "PROBLEM"
   },
   {
-    "recent illness": "PROBLEM"
+    "illness": "PROBLEM"
+  },
+  {
+    "injuries": "PROBLEM"
   },
   {
     "OxyContin": "DRUG"
@@ -54,13 +57,16 @@
     "fatigue": "PROBLEM"
   },
   {
-    "weakness": "PROBLEM"
-  },
-  {
     "weight change": "PROBLEM"
   },
   {
-    "toothache pain": "PROBLEM"
+    "headache": "PROBLEM"
+  },
+  {
+    "neck pain": "PROBLEM"
+  },
+  {
+    "toothache": "PROBLEM"
   },
   {
     "throat swelling": "PROBLEM"
@@ -81,10 +87,10 @@
     "sinus congestion": "PROBLEM"
   },
   {
-    "pressure": "PROBLEM"
+    "sinus pressure": "PROBLEM"
   },
   {
-    "pain": "PROBLEM"
+    "sinus pain": "PROBLEM"
   },
   {
     "ear pain": "PROBLEM"
@@ -123,7 +129,10 @@
     "back pain": "PROBLEM"
   },
   {
-    "muscle or joint aches": "PROBLEM"
+    "muscle aches": "PROBLEM"
+  },
+  {
+    "joint aches": "PROBLEM"
   },
   {
     "rashes": "PROBLEM"
@@ -132,13 +141,13 @@
     "lesions": "PROBLEM"
   },
   {
-    "vision": "PROBLEM"
+    "vision change": "PROBLEM"
   },
   {
-    "hearing": "PROBLEM"
+    "hearing change": "PROBLEM"
   },
   {
-    "focal weakness": "PROBLEM"
+    "weakness": "PROBLEM"
   },
   {
     "numbness": "PROBLEM"
@@ -150,7 +159,7 @@
     "lymph node swelling": "PROBLEM"
   },
   {
-    "Chronic knee pain": "PROBLEM"
+    "knee pain": "PROBLEM"
   },
   {
     "OxyContin": "DRUG"
@@ -183,7 +192,10 @@
     "oxygen saturation": "TEST"
   },
   {
-    "patient": "PROBLEM"
+    "well nourished": "PROBLEM"
+  },
+  {
+    "well developed": "PROBLEM"
   },
   {
     "overweight": "PROBLEM"
@@ -198,6 +210,9 @@
     "cornea": "PROBLEM"
   },
   {
+    "Eyes": "TEST"
+  },
+  {
     "icterus": "PROBLEM"
   },
   {
@@ -205,9 +220,6 @@
   },
   {
     "photophobia": "PROBLEM"
-  },
-  {
-    "light sensitivity": "PROBLEM"
   },
   {
     "Extraocular motions": "TEST"
@@ -220,9 +232,6 @@
   },
   {
     "swelling": "PROBLEM"
-  },
-  {
-    "Tympanic membranes": "PROBLEM"
   },
   {
     "erythema": "PROBLEM"
@@ -240,16 +249,16 @@
     "rhinorrhea": "PROBLEM"
   },
   {
-    "audible congestion": "PROBLEM"
+    "congestion": "PROBLEM"
   },
   {
     "sinuses": "PROBLEM"
   },
   {
-    "Supple": "TEST"
+    "Supple": "TREATMENT"
   },
   {
-    "nontender": "TEST"
+    "nontender": "TREATMENT"
   },
   {
     "full range of motion": "TEST"
@@ -264,13 +273,10 @@
     "JVD": "PROBLEM"
   },
   {
-    "Mouth": "PROBLEM"
-  },
-  {
     "dental caries": "PROBLEM"
   },
   {
-    "tenderness": "PROBLEM"
+    "denture": "TREATMENT"
   },
   {
     "tooth #12": "PROBLEM"
@@ -288,7 +294,7 @@
     "swelling": "PROBLEM"
   },
   {
-    "purulent or other discharge": "PROBLEM"
+    "discharge": "PROBLEM"
   },
   {
     "abscess": "PROBLEM"
@@ -327,6 +333,15 @@
     "Heart": "PROBLEM"
   },
   {
+    "murmur": "PROBLEM"
+  },
+  {
+    "rub": "PROBLEM"
+  },
+  {
+    "gallop": "PROBLEM"
+  },
+  {
     "shortness of breath": "PROBLEM"
   },
   {
@@ -351,10 +366,10 @@
     "lesions": "PROBLEM"
   },
   {
-    "Cranial nerves II through XII": "TEST"
+    "Cranial nerves": "PROBLEM"
   },
   {
-    "Motor and sensory": "TEST"
+    "extremities": "PROBLEM"
   },
   {
     "speech": "PROBLEM"
@@ -363,7 +378,7 @@
     "ambulation": "PROBLEM"
   },
   {
-    "alert and oriented x4": "TEST"
+    "oriented": "TEST"
   },
   {
     "mood": "PROBLEM"
@@ -375,6 +390,9 @@
     "cervical lymphadenopathy": "PROBLEM"
   },
   {
+    "pain shot": "TREATMENT"
+  },
+  {
     "Dilaudid": "DRUG"
   },
   {
@@ -384,22 +402,25 @@
     "ODONTALGIA": "PROBLEM"
   },
   {
-    "2": "TEST"
+    "2": "TREATMENT"
   },
   {
     "DENTAL CARIES": "PROBLEM"
   },
   {
-    "CONDITION UPON DISPOSITION": "PROBLEM"
+    "Stable": "PROBLEM"
   },
   {
     "home": "TREATMENT"
   },
   {
-    "dental clinics": "PROBLEM"
+    "dental clinics": "TREATMENT"
   },
   {
-    "reevaluation": "TEST"
+    "dentist": "TREATMENT"
+  },
+  {
+    "reevaluation": "TREATMENT"
   },
   {
     "Percocet": "DRUG"
@@ -414,19 +435,19 @@
     "toothache": "PROBLEM"
   },
   {
-    "worsening of his condition": "PROBLEM"
+    "condition": "PROBLEM"
   },
   {
     "problems": "PROBLEM"
   },
   {
-    "symptoms of concern": "PROBLEM"
+    "symptoms": "PROBLEM"
   },
   {
     "odontalgi": "PROBLEM"
   },
   {
-    "multiple dental caries": "PROBLEM"
+    "dental caries": "PROBLEM"
   },
   {
     "cervical lymphadenopathy": "PROBLEM"
@@ -441,13 +462,7 @@
     "swelling": "PROBLEM"
   },
   {
-    "teeth pulled": "TREATMENT"
-  },
-  {
-    "incision": "TREATMENT"
-  },
-  {
-    "drainage": "TREATMENT"
+    "teeth": "PROBLEM"
   },
   {
     "dental disease": "PROBLEM"
@@ -456,15 +471,12 @@
     "extensive dental disease": "PROBLEM"
   },
   {
-    "lower teeth": "PROBLEM"
+    "multiple dental caries": "PROBLEM"
   },
   {
-    "dental caries": "PROBLEM"
+    "dental": "TREATMENT"
   },
   {
-    "teeth": "PROBLEM"
-  },
-  {
-    "dental": "PROBLEM"
+    "teeth pulled": "TREATMENT"
   }
 ]

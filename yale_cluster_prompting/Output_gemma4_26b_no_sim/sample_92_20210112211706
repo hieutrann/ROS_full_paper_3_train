@@ -69,6 +69,9 @@
     "wound cultures": "TEST"
   },
   {
+    "surgical management": "TREATMENT"
+  },
+  {
     "malaise": "PROBLEM"
   },
   {
@@ -168,37 +171,25 @@
     "multivitamins with minerals": "DRUG"
   },
   {
-    "Heart rate": "TEST"
+    "Heart rate": "PROBLEM"
   },
   {
-    "respiratory rate": "TEST"
+    "respiratory rate": "PROBLEM"
   },
   {
-    "blood pressure": "TEST"
+    "blood pressure": "PROBLEM"
   },
   {
-    "temperature": "TEST"
+    "temperature": "PROBLEM"
   },
   {
-    "oxygen saturation": "TEST"
+    "oxygen saturation": "PROBLEM"
   },
   {
     "Pink conjunctivae": "PROBLEM"
   },
   {
     "anicteric sclerae": "PROBLEM"
-  },
-  {
-    "Pupils equal": "PROBLEM"
-  },
-  {
-    "brisk reaction to light": "PROBLEM"
-  },
-  {
-    "gross hearing": "TEST"
-  },
-  {
-    "Moist oral mucosa": "PROBLEM"
   },
   {
     "crackles": "PROBLEM"
@@ -210,7 +201,7 @@
     "Regular cardiac rhythm": "PROBLEM"
   },
   {
-    "bowel sounds": "TEST"
+    "bowel sounds": "PROBLEM"
   },
   {
     "guarding": "PROBLEM"
@@ -220,9 +211,6 @@
   },
   {
     "cervical lymphadenopathy": "PROBLEM"
-  },
-  {
-    "range of motion": "TEST"
   },
   {
     "hyperpigmentation": "PROBLEM"
@@ -243,7 +231,7 @@
     "warmth": "PROBLEM"
   },
   {
-    "tenderness": "PROBLEM"
+    "minimal tenderness": "PROBLEM"
   },
   {
     "wound": "PROBLEM"
@@ -258,7 +246,7 @@
     "White blood cell count": "TEST"
   },
   {
-    "neutrophils": "TEST"
+    "neutrophils": "PROBLEM"
   },
   {
     "H&H": "TEST"
@@ -291,7 +279,13 @@
     "wound culture": "TEST"
   },
   {
-    "Left leg wound culture": "TEST"
+    "right leg wound": "PROBLEM"
+  },
+  {
+    "Left leg wound": "PROBLEM"
+  },
+  {
+    "culture": "TEST"
   },
   {
     "Chest x-ray": "TEST"
@@ -342,7 +336,10 @@
     "wound cultures": "TEST"
   },
   {
-    "MRI": "TEST"
+    "an MRI": "TEST"
+  },
+  {
+    "right ankle": "PROBLEM"
   },
   {
     "osteomyelitis": "PROBLEM"
@@ -379,5 +376,8 @@
   },
   {
     "stasis": "PROBLEM"
+  },
+  {
+    "chronic": "PROBLEM"
   }
 ]

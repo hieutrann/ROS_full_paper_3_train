@@ -81,9 +81,6 @@
     "orthopnea": "PROBLEM"
   },
   {
-    "musculoskeletal": "PROBLEM"
-  },
-  {
     "pain in the right buttock": "PROBLEM"
   },
   {
@@ -108,37 +105,7 @@
     "Cardura": "DRUG"
   },
   {
-    "VITAL SIGNS": "TEST"
-  },
-  {
-    "Temperature": "TEST"
-  },
-  {
-    "pulse": "TEST"
-  },
-  {
-    "respirations": "TEST"
-  },
-  {
     "blood pressure": "TEST"
-  },
-  {
-    "lungs": "TEST"
-  },
-  {
-    "PA and lateral": "TEST"
-  },
-  {
-    "regular rate and rhythm": "PROBLEM"
-  },
-  {
-    "murmur": "PROBLEM"
-  },
-  {
-    "nontender": "PROBLEM"
-  },
-  {
-    "edema": "PROBLEM"
   },
   {
     "refractory hypertension": "PROBLEM"

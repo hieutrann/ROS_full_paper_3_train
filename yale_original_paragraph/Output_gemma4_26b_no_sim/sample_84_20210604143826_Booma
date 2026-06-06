@@ -1,5 +1,11 @@
 [
   {
+    "vaginal delivery": "TREATMENT"
+  },
+  {
+    "C-sections": "TREATMENT"
+  },
+  {
     "ampicillin": "DRUG"
   },
   {
@@ -21,13 +27,22 @@
     "Prenatal labs": "TEST"
   },
   {
+    "rubella immune": "PROBLEM"
+  },
+  {
+    "RPR": "TEST"
+  },
+  {
+    "NICU": "TREATMENT"
+  },
+  {
     "prematurity": "PROBLEM"
   },
   {
     "sepsis": "PROBLEM"
   },
   {
-    "mild retractions": "PROBLEM"
+    "retractions": "PROBLEM"
   },
   {
     "CBC": "TEST"
@@ -40,6 +55,9 @@
   },
   {
     "IV fluids": "TREATMENT"
+  },
+  {
+    "D10": "DRUG"
   },
   {
     "Ampicillin": "DRUG"
@@ -63,9 +81,6 @@
     "Respiratory distress": "PROBLEM"
   },
   {
-    "prematurity": "PROBLEM"
-  },
-  {
-    "NeoSure": "DRUG"
+    "preemie": "PROBLEM"
   }
 ]

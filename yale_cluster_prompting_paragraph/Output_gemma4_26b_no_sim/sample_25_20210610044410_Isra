@@ -1,18 +1,6 @@
 [
   {
-    "VITAL SIGNS": "TEST"
-  },
-  {
-    "Blood pressure": "TEST"
-  },
-  {
-    "pulse": "TEST"
-  },
-  {
-    "respirations": "TEST"
-  },
-  {
-    "temperature": "TEST"
+    "apparent distress": "PROBLEM"
   },
   {
     "papilledema": "PROBLEM"
@@ -84,7 +72,7 @@
     "guarding": "PROBLEM"
   },
   {
-    "aortic impulse": "TEST"
+    "aortic impulse widening": "PROBLEM"
   },
   {
     "intraabdominal bruit": "PROBLEM"
@@ -94,15 +82,6 @@
   },
   {
     "hydrocele": "PROBLEM"
-  },
-  {
-    "digital palpation": "TEST"
-  },
-  {
-    "Hemoccult-negative stool": "TEST"
-  },
-  {
-    "prostate": "TEST"
   },
   {
     "rectal masses": "PROBLEM"
@@ -126,21 +105,54 @@
     "CVA tenderness": "PROBLEM"
   },
   {
-    "Kernig": "TEST"
+    "premalignant condition": "PROBLEM"
   },
   {
-    "Brudzinski signs": "TEST"
+    "malignant condition": "PROBLEM"
   },
   {
-    "premalignant or malignant condition": "PROBLEM"
+    "Blood pressure": "TEST"
+  },
+  {
+    "pulse": "TEST"
+  },
+  {
+    "respirations": "TEST"
+  },
+  {
+    "temperature": "TEST"
+  },
+  {
+    "EOMI": "TEST"
+  },
+  {
+    "PERRLA": "TEST"
+  },
+  {
+    "Funduscopic examination": "TEST"
+  },
+  {
+    "auscultation": "TEST"
+  },
+  {
+    "percussion": "TEST"
+  },
+  {
+    "palpation": "TEST"
   },
   {
     "digital palpation": "TEST"
   },
   {
-    "hemoccult - negative": "TEST"
+    "Hemoccult": "TEST"
   },
   {
-    "tenderness": "PROBLEM"
+    "straight-leg raising": "TEST"
+  },
+  {
+    "Kernig sign": "TEST"
+  },
+  {
+    "Brudzinski sign": "TEST"
   }
 ]

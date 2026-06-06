@@ -1,5 +1,11 @@
 [
   {
+    "General Medicine": "TREATMENT"
+  },
+  {
+    "Gen Med Consult - 31": "TEST"
+  },
+  {
     "confused": "PROBLEM"
   },
   {
@@ -18,10 +24,7 @@
     "confused": "PROBLEM"
   },
   {
-    "garbled speech": "PROBLEM"
-  },
-  {
-    "baseline": "PROBLEM"
+    "speech": "PROBLEM"
   },
   {
     "decreased level of consciousness": "PROBLEM"
@@ -48,13 +51,13 @@
     "somnolent": "PROBLEM"
   },
   {
-    "alert": "PROBLEM"
-  },
-  {
     "urinary tract infection": "PROBLEM"
   },
   {
     "urinary tract infections": "PROBLEM"
+  },
+  {
+    "UTIs": "PROBLEM"
   },
   {
     "chronic incontinence": "PROBLEM"
@@ -141,9 +144,6 @@
     "urinary tract infection": "PROBLEM"
   },
   {
-    "symptoms": "PROBLEM"
-  },
-  {
     "ENDOCRINE": "PROBLEM"
   },
   {
@@ -186,13 +186,10 @@
     "Lipitor": "DRUG"
   },
   {
-    "Reglan": "DRUG"
-  },
-  {
     "Nystatin": "DRUG"
   },
   {
-    "oxygen": "TREATMENT"
+    "oxygen": "DRUG"
   },
   {
     "children": "PROBLEM"
@@ -207,7 +204,10 @@
     "Family history": "PROBLEM"
   },
   {
-    "alert": "PROBLEM"
+    "PHYSICAL EXAMINATION": "TEST"
+  },
+  {
+    "GENERAL": "TEST"
   },
   {
     "Blood pressure": "TEST"
@@ -219,7 +219,7 @@
     "temperature": "TEST"
   },
   {
-    "Weight": "TEST"
+    "Weight": "PROBLEM"
   },
   {
     "Urine output": "TEST"
@@ -228,10 +228,16 @@
     "Blood sugars": "TEST"
   },
   {
-    "Moist mucous membranes": "PROBLEM"
+    "HEENT": "PROBLEM"
   },
   {
-    "pallor": "PROBLEM"
+    "No pallor": "PROBLEM"
+  },
+  {
+    "NECK": "TEST"
+  },
+  {
+    "Supple": "TEST"
   },
   {
     "rash": "PROBLEM"
@@ -255,7 +261,7 @@
     "right side": "PROBLEM"
   },
   {
-    "power": "PROBLEM"
+    "power": "TEST"
   },
   {
     "aphasia": "PROBLEM"
@@ -279,25 +285,31 @@
     "hematocrit": "TEST"
   },
   {
-    "INR 1.1": "TEST"
+    "INR": "TEST"
   },
   {
-    "pro time 14": "TEST"
+    "pro time": "TEST"
+  },
+  {
+    "Urine": "TEST"
   },
   {
     "white cells": "TEST"
   },
   {
-    "Cultures": "TEST"
+    "cultures": "TEST"
   },
   {
-    "guaiac negative status": "PROBLEM"
+    "guaiac": "TEST"
   },
   {
-    "mixed cultures": "PROBLEM"
+    "culture": "TEST"
   },
   {
     "Septra": "DRUG"
+  },
+  {
+    "UTI": "PROBLEM"
   },
   {
     "IMPRESSION/PLAN": "TREATMENT"
@@ -306,25 +318,13 @@
     "Cerebrovascular accident": "PROBLEM"
   },
   {
-    "change in mental status": "PROBLEM"
-  },
-  {
-    "speech": "PROBLEM"
-  },
-  {
-    "recovered": "PROBLEM"
-  },
-  {
     "Coumadin": "DRUG"
   },
   {
     "Coumadin": "DRUG"
   },
   {
-    "hospice": "TREATMENT"
-  },
-  {
-    "comfort care": "TREATMENT"
+    "2": "TEST"
   },
   {
     "Recurrent urinary tract infection": "PROBLEM"
@@ -357,6 +357,9 @@
     "Percocet": "DRUG"
   },
   {
+    "5": "TREATMENT"
+  },
+  {
     "Hypothyroidism": "PROBLEM"
   },
   {
@@ -369,13 +372,7 @@
     "Lipitor": "DRUG"
   },
   {
-    "7": "TEST"
-  },
-  {
     "resuscitation": "PROBLEM"
-  },
-  {
-    "hospital course": "PROBLEM"
   },
   {
     "cerebrovascular accident": "PROBLEM"
@@ -405,13 +402,22 @@
     "urinary tract infection": "PROBLEM"
   },
   {
+    "decreased level": "PROBLEM"
+  },
+  {
+    "blood sugar": "TEST"
+  },
+  {
     "garbled speech": "PROBLEM"
   },
   {
-    "mental status": "PROBLEM"
+    "mental status": "TEST"
   },
   {
     "urinary tract": "PROBLEM"
+  },
+  {
+    "emergency department": "TEST"
   },
   {
     "coumadin": "DRUG"

@@ -1,8 +1,5 @@
 [
   {
-    "Antibiotic management": "TREATMENT"
-  },
-  {
     "right foot ulcer": "PROBLEM"
   },
   {
@@ -12,16 +9,19 @@
     "diabetes mellitus": "PROBLEM"
   },
   {
-    "MSSA": "PROBLEM"
-  },
-  {
     "methicillin-sensitive Staphylococcus aureus": "PROBLEM"
   },
   {
     "Levaquin": "DRUG"
   },
   {
-    "intravenous antibiotic therapy": "TREATMENT"
+    "Zyvox": "DRUG"
+  },
+  {
+    "Zosyn": "DRUG"
+  },
+  {
+    "Ancef": "DRUG"
   },
   {
     "debridement": "TREATMENT"
@@ -36,12 +36,6 @@
     "wound VAC placement": "TREATMENT"
   },
   {
-    "osteomyelitis of the right fifth toe": "PROBLEM"
-  },
-  {
-    "intravenous antibiotic therapy": "TREATMENT"
-  },
-  {
     "heart attack": "PROBLEM"
   },
   {
@@ -52,120 +46,6 @@
   },
   {
     "cerebral palsy": "PROBLEM"
-  },
-  {
-    "foot": "PROBLEM"
-  },
-  {
-    "wound": "PROBLEM"
-  },
-  {
-    "metatarsal bone": "PROBLEM"
-  },
-  {
-    "osteomyelitis": "PROBLEM"
-  },
-  {
-    "serosanguineous drainage": "PROBLEM"
-  },
-  {
-    "hemodynamic distress": "PROBLEM"
-  },
-  {
-    "temperature": "TEST"
-  },
-  {
-    "pulse": "TEST"
-  },
-  {
-    "respiratory rate": "TEST"
-  },
-  {
-    "blood pressure": "TEST"
-  },
-  {
-    "HEENT": "TEST"
-  },
-  {
-    "pupils": "TEST"
-  },
-  {
-    "extraocular movements": "TEST"
-  },
-  {
-    "head": "TEST"
-  },
-  {
-    "external ear exam": "TEST"
-  },
-  {
-    "neck": "TEST"
-  },
-  {
-    "lymphadenopathy": "TEST"
-  },
-  {
-    "cardiovascular": "TEST"
-  },
-  {
-    "heart": "TEST"
-  },
-  {
-    "lungs": "TEST"
-  },
-  {
-    "auscultation": "TEST"
-  },
-  {
-    "percussion": "TEST"
-  },
-  {
-    "abdomen": "TEST"
-  },
-  {
-    "organomegaly": "TEST"
-  },
-  {
-    "bowel sounds": "TEST"
-  },
-  {
-    "inguinal": "TEST"
-  },
-  {
-    "femoral area": "TEST"
-  },
-  {
-    "extremities": "TEST"
-  },
-  {
-    "cyanosis": "TEST"
-  },
-  {
-    "clubbing": "TEST"
-  },
-  {
-    "edema": "TEST"
-  },
-  {
-    "peripheral stigmata of endocarditis": "TEST"
-  },
-  {
-    "plantar aspect": "TEST"
-  },
-  {
-    "distal part": "TEST"
-  },
-  {
-    "proximal tracking": "TEST"
-  },
-  {
-    "central nervous system": "TEST"
-  },
-  {
-    "cranial nerves": "TEST"
-  },
-  {
-    "focal deficit": "TEST"
   },
   {
     "CBC with differential": "TEST"
@@ -183,39 +63,54 @@
     "C-reactive protein levels": "TEST"
   },
   {
-    "wound healing": "TEST"
+    "PICC line": "TREATMENT"
+  },
+  {
+    "wound healing": "TREATMENT"
   },
   {
     "wound care": "TREATMENT"
   },
   {
-    "PICC line": "TREATMENT"
+    "mssa": "PROBLEM"
   },
   {
-    "Ancef": "DRUG"
+    "methicillin-sensitive staphylococcus aureus": "PROBLEM"
   },
   {
-    "Zyvox": "DRUG"
+    "intravenous antibiotic therapy": "TREATMENT"
   },
   {
-    "Zosyn": "DRUG"
+    "foot ulcer": "PROBLEM"
   },
   {
-    "deep wound infection": "PROBLEM"
+    "antibiotic management": "TREATMENT"
   },
   {
-    "wound cultures": "TEST"
+    "staphylococcus aureus": "PROBLEM"
   },
   {
-    "deep wound cultures": "TEST"
-  },
-  {
-    "MRI": "TEST"
+    "intravenous antibiotic": "TREATMENT"
   },
   {
     "bone scan": "TEST"
   },
   {
-    "Hospital": "TEST"
+    "antibiotic therapy": "TREATMENT"
+  },
+  {
+    "wound care": "TREATMENT"
+  },
+  {
+    "injured": "PROBLEM"
+  },
+  {
+    "wound": "PROBLEM"
+  },
+  {
+    "antibiotic": "DRUG"
+  },
+  {
+    "osteomyelitis": "PROBLEM"
   }
 ]

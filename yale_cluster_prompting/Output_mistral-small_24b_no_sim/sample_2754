@@ -3,10 +3,7 @@
     "heroin": "DRUG"
   },
   {
-    "heroin": "DRUG"
-  },
-  {
-    "heroin": "DRUG"
+    "heroin": "PROBLEM"
   },
   {
     "cocaine": "DRUG"
@@ -16,9 +13,6 @@
   },
   {
     "heroin abuse": "PROBLEM"
-  },
-  {
-    "heroin": "DRUG"
   },
   {
     "heroin": "DRUG"
@@ -60,16 +54,10 @@
     "cocaine": "DRUG"
   },
   {
-    "under the influence": "PROBLEM"
-  },
-  {
     "headache": "PROBLEM"
   },
   {
     "visual complaints": "PROBLEM"
-  },
-  {
-    "hallucinations": "PROBLEM"
   },
   {
     "chest pain": "PROBLEM"
@@ -114,15 +102,6 @@
     "codeine": "DRUG"
   },
   {
-    "pain": "PROBLEM"
-  },
-  {
-    "PHYSICAL EXAMINATION": "TEST"
-  },
-  {
-    "VITAL SIGNS": "TEST"
-  },
-  {
     "afebrile": "PROBLEM"
   },
   {
@@ -138,37 +117,49 @@
     "jittery": "PROBLEM"
   },
   {
-    "Pupils": "PROBLEM"
+    "Pupils": "TEST"
   },
   {
-    "His trachea": "PROBLEM"
+    "Extraoculars": "TEST"
+  },
+  {
+    "oropharynx": "TEST"
+  },
+  {
+    "NECK": "PROBLEM"
   },
   {
     "LUNGS": "TEST"
   },
   {
+    "breath sounds": "TEST"
+  },
+  {
     "wheezing": "PROBLEM"
   },
   {
-    "rales": "PROBLEM"
+    "rales": "TEST"
   },
   {
-    "rhonchi": "PROBLEM"
+    "rhonchi": "TEST"
   },
   {
     "cough": "PROBLEM"
   },
   {
-    "CARDIAC": "PROBLEM"
-  },
-  {
-    "ABDOMEN": "TEST"
+    "murmur": "PROBLEM"
   },
   {
     "track marks": "PROBLEM"
   },
   {
-    "NEUROLOGIC": "PROBLEM"
+    "tattoos": "PROBLEM"
+  },
+  {
+    "abscesses": "PROBLEM"
+  },
+  {
+    "Nonfocal": "PROBLEM"
   },
   {
     "heroin": "DRUG"
@@ -180,22 +171,28 @@
     "Phenergan": "DRUG"
   },
   {
-    "symptomatic relief": "PROBLEM"
+    "phenergan": "DRUG"
   },
   {
-    "phenergan": "DRUG"
+    "detox from heroin": "TREATMENT"
+  },
+  {
+    "alcohol abuse": "PROBLEM"
+  },
+  {
+    "heroin abuse": "PROBLEM"
   },
   {
     "detox": "TREATMENT"
   },
   {
-    "heroin": "DRUG"
+    "heroin": "PROBLEM"
   },
   {
-    "alcohol": "DRUG"
+    "alcohol": "PROBLEM"
   },
   {
-    "cocaine": "DRUG"
+    "cocaine": "PROBLEM"
   },
   {
     "abuse": "PROBLEM"

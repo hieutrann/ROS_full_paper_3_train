@@ -1,6 +1,6 @@
 [
   {
-    "Decreased ability to perform daily living activities": "PROBLEM"
+    "Knee Surgery": "TREATMENT"
   },
   {
     "right knee surgery": "TREATMENT"
@@ -18,13 +18,13 @@
     "degenerative joint disease": "PROBLEM"
   },
   {
-    "transfused": "TREATMENT"
-  },
-  {
     "autologous blood": "DRUG"
   },
   {
-    "DVT": "PROBLEM"
+    "transfused": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
   },
   {
     "Coumadin": "DRUG"
@@ -39,13 +39,7 @@
     "TED stockings": "TREATMENT"
   },
   {
-    "evaluation": "TEST"
-  },
-  {
     "rehabilitation": "TREATMENT"
-  },
-  {
-    "bowel movement": "PROBLEM"
   },
   {
     "dysuria": "PROBLEM"
@@ -123,16 +117,10 @@
     "O2 saturation": "TEST"
   },
   {
-    "acute distress": "PROBLEM"
-  },
-  {
     "right knee pain": "PROBLEM"
   },
   {
     "Sclerae nonicteric": "PROBLEM"
-  },
-  {
-    "EOMI": "PROBLEM"
   },
   {
     "thrush": "PROBLEM"
@@ -141,13 +129,10 @@
     "thyroid enlargement": "PROBLEM"
   },
   {
-    "Trachea": "TEST"
-  },
-  {
     "LUNGS": "TEST"
   },
   {
-    "HEART": "TEST"
+    "Regular rate and rhythm": "PROBLEM"
   },
   {
     "S1": "TEST"
@@ -168,7 +153,7 @@
     "diffuse right knee edema": "PROBLEM"
   },
   {
-    "limited ecchymosis": "PROBLEM"
+    "ecchymosis": "PROBLEM"
   },
   {
     "calf tenderness": "PROBLEM"
@@ -178,6 +163,12 @@
   },
   {
     "anxious": "PROBLEM"
+  },
+  {
+    "evaluation": "TEST"
+  },
+  {
+    "rehabilitation": "TREATMENT"
   },
   {
     "Physical Therapy": "TREATMENT"
@@ -201,7 +192,7 @@
     "right knee pain": "PROBLEM"
   },
   {
-    "pain": "PROBLEM"
+    "pain management": "TREATMENT"
   },
   {
     "Ativan": "DRUG"
@@ -252,7 +243,7 @@
     "breakthrough pain": "PROBLEM"
   },
   {
-    "DVT": "PROBLEM"
+    "DVT prophylaxis": "TREATMENT"
   },
   {
     "Lovenox": "DRUG"
@@ -348,7 +339,7 @@
     "Gastroesophageal reflux disease": "PROBLEM"
   },
   {
-    "Morton neuroma of the feet bilaterally": "PROBLEM"
+    "Morton neuroma": "PROBLEM"
   },
   {
     "migraine headaches": "PROBLEM"
@@ -375,7 +366,7 @@
     "oxycodone SR": "DRUG"
   },
   {
-    "Percocet 5/325 mg": "DRUG"
+    "Percocet": "DRUG"
   },
   {
     "breakthrough pain": "PROBLEM"
@@ -415,6 +406,12 @@
   },
   {
     "rehabilitation": "TREATMENT"
+  },
+  {
+    "decreased ability": "PROBLEM"
+  },
+  {
+    "daily living activities": "PROBLEM"
   },
   {
     "knee surgery": "TREATMENT"

@@ -21,16 +21,19 @@
     "Flagyl": "DRUG"
   },
   {
-    "anorexia": "PROBLEM"
+    "nausea": "PROBLEM"
   },
   {
-    "obstipation": "PROBLEM"
+    "vomiting": "PROBLEM"
+  },
+  {
+    "anorexia": "PROBLEM"
   },
   {
     "flatus": "PROBLEM"
   },
   {
-    "bowel movement": "TEST"
+    "obstipation": "PROBLEM"
   },
   {
     "bright red blood per rectum": "PROBLEM"
@@ -40,12 +43,6 @@
   },
   {
     "colonoscopy": "TEST"
-  },
-  {
-    "fevers": "PROBLEM"
-  },
-  {
-    "chills": "PROBLEM"
   },
   {
     "jaundice": "PROBLEM"
@@ -72,13 +69,13 @@
     "hysterectomy": "TREATMENT"
   },
   {
-    "grade 4 bladder prolapse": "PROBLEM"
+    "bladder prolapse": "PROBLEM"
   },
   {
     "MACRODANTIN": "DRUG"
   },
   {
-    "drink": "PROBLEM"
+    "smoke": "PROBLEM"
   },
   {
     "febrile illnesses": "PROBLEM"
@@ -90,34 +87,43 @@
     "shortness of breath": "PROBLEM"
   },
   {
-    "patient": "PROBLEM"
+    "elderly": "PROBLEM"
   },
   {
-    "temperature": "TEST"
+    "thin": "PROBLEM"
   },
   {
-    "atraumatic": "PROBLEM"
+    "white": "PROBLEM"
   },
   {
-    "normocephalic": "PROBLEM"
+    "female": "PROBLEM"
   },
   {
-    "Sclerae are anicteric": "PROBLEM"
+    "temperature": "PROBLEM"
+  },
+  {
+    "Head": "PROBLEM"
+  },
+  {
+    "anicteric": "PROBLEM"
   },
   {
     "conjunctivae": "PROBLEM"
   },
   {
-    "Supple": "TEST"
+    "Supple": "PROBLEM"
   },
   {
-    "CHEST": "PROBLEM"
+    "Chest": "PROBLEM"
   },
   {
-    "HEART": "TEST"
+    "Regular rate and rhythm": "PROBLEM"
   },
   {
-    "ABDOMEN": "PROBLEM"
+    "nondistended": "PROBLEM"
+  },
+  {
+    "soft": "PROBLEM"
   },
   {
     "tender in the left lower quadrant": "PROBLEM"
@@ -141,7 +147,7 @@
     "urinary bladder prolapse": "PROBLEM"
   },
   {
-    "neurovascularly": "TEST"
+    "neurovascularly intact": "PROBLEM"
   },
   {
     "White blood cell count": "TEST"
@@ -153,28 +159,25 @@
     "platelet count": "TEST"
   },
   {
-    "Alkaline phosphatase": "TEST"
+    "Alkaline phosphatase elevated at 184": "PROBLEM"
   },
   {
     "Liver function tests": "TEST"
   },
   {
-    "Electrolytes": "TEST"
+    "Electrolytes": "PROBLEM"
   },
   {
-    "Glucose": "TEST"
+    "Glucose": "PROBLEM"
   },
   {
-    "BUN": "TEST"
+    "BUN": "PROBLEM"
   },
   {
-    "creatinine": "TEST"
+    "creatinine": "PROBLEM"
   },
   {
     "EKG": "TEST"
-  },
-  {
-    "normal sinus rhythm": "PROBLEM"
   },
   {
     "abdominal pain": "PROBLEM"
@@ -183,7 +186,7 @@
     "left lower quadrant": "PROBLEM"
   },
   {
-    "abdomen": "PROBLEM"
+    "nonacute abdomen": "PROBLEM"
   },
   {
     "sigmoid diverticulitis": "PROBLEM"
@@ -201,19 +204,25 @@
     "pelvis": "PROBLEM"
   },
   {
+    "CT scan": "TEST"
+  },
+  {
     "Dr": "TREATMENT"
   },
   {
-    "Colorectal Surgery": "TREATMENT"
-  },
-  {
-    "evaluation": "TEST"
+    "Y in Colorectal Surgery": "PROBLEM"
   },
   {
     "colonoscopy": "TEST"
   },
   {
-    "Dr": "PROBLEM"
+    "repeat colonoscopy": "TEST"
+  },
+  {
+    "nothing by mouth": "TREATMENT"
+  },
+  {
+    "primary care physician": "TREATMENT"
   },
   {
     "acute surgical intervention": "TREATMENT"

@@ -39,13 +39,7 @@
     "asthma": "PROBLEM"
   },
   {
-    "medication administration": "TREATMENT"
-  },
-  {
     "rhonchi": "PROBLEM"
-  },
-  {
-    "coughing": "PROBLEM"
   },
   {
     "asthma": "PROBLEM"
@@ -54,16 +48,10 @@
     "childhood asthma": "PROBLEM"
   },
   {
-    "hospitalization": "TREATMENT"
-  },
-  {
     "steroids": "DRUG"
   },
   {
     "steroids": "DRUG"
-  },
-  {
-    "bronchodilator": "DRUG"
   },
   {
     "childhood asthma": "PROBLEM"
@@ -85,5 +73,8 @@
   },
   {
     "asthma": "PROBLEM"
+  },
+  {
+    "bronchodilator": "DRUG"
   }
 ]

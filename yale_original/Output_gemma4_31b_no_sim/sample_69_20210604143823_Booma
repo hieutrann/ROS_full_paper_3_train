@@ -1,5 +1,8 @@
 [
   {
+    "Male Exam": "TEST"
+  },
+  {
     "vital signs": "TEST"
   },
   {
@@ -9,10 +12,7 @@
     "heart rate": "TEST"
   },
   {
-    "conjunctiva": "TEST"
-  },
-  {
-    "pupil": "TEST"
+    "conjunctiva": "PROBLEM"
   },
   {
     "ptosis": "PROBLEM"
@@ -30,7 +30,7 @@
     "posterior pharynx": "PROBLEM"
   },
   {
-    "thyroid gland": "TEST"
+    "thyroid gland": "PROBLEM"
   },
   {
     "respiratory effort": "TEST"
@@ -69,18 +69,6 @@
     "discharge": "PROBLEM"
   },
   {
-    "node": "PROBLEM"
-  },
-  {
-    "deformity": "PROBLEM"
-  },
-  {
-    "Range of motion": "TEST"
-  },
-  {
     "Deep tendon reflexes": "TEST"
-  },
-  {
-    "Sensation": "TEST"
   }
 ]

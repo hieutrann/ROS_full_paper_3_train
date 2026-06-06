@@ -78,7 +78,7 @@
     "crepitations": "PROBLEM"
   },
   {
-    "reproducible tenderness": "PROBLEM"
+    "tenderness": "PROBLEM"
   },
   {
     "heart sounds": "TEST"
@@ -118,6 +118,9 @@
   },
   {
     "Ruptured appendicitis": "PROBLEM"
+  },
+  {
+    "surgery": "TREATMENT"
   },
   {
     "Left-sided chest pain": "PROBLEM"

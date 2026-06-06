@@ -1,6 +1,6 @@
 [
   {
-    "outpatient skilled speech therapy": "TREATMENT"
+    "speech therapy": "TREATMENT"
   },
   {
     "right hemisphere disorder": "PROBLEM"
@@ -9,7 +9,7 @@
     "stroke": "PROBLEM"
   },
   {
-    "speech therapy": "TREATMENT"
+    "speech therapy sessions": "TREATMENT"
   },
   {
     "oral mechanism examination": "TEST"
@@ -21,10 +21,7 @@
     "swallowing": "PROBLEM"
   },
   {
-    "turn taking skills": "PROBLEM"
-  },
-  {
-    "visual scanning": "TEST"
+    "visual scanning": "PROBLEM"
   },
   {
     "cancellation task": "TEST"
@@ -33,18 +30,12 @@
     "left neglect": "PROBLEM"
   },
   {
-    "sustained attention": "TEST"
+    "sustained attention": "PROBLEM"
   },
   {
     "reading": "PROBLEM"
   },
   {
     "comprehension": "PROBLEM"
-  },
-  {
-    "outpatient speech therapy sessions": "TREATMENT"
-  },
-  {
-    "discharge summary": "TEST"
   }
 ]

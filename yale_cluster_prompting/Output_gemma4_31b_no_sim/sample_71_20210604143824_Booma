@@ -33,7 +33,7 @@
     "rash": "PROBLEM"
   },
   {
-    "glucose in 30 range": "TEST"
+    "glucose": "TEST"
   },
   {
     "hypertension": "PROBLEM"
@@ -72,9 +72,6 @@
     "aspirin": "DRUG"
   },
   {
-    "acute distress": "PROBLEM"
-  },
-  {
     "sinus tenderness": "PROBLEM"
   },
   {
@@ -84,16 +81,28 @@
     "laceration": "PROBLEM"
   },
   {
+    "Extraocular movements": "TEST"
+  },
+  {
     "Dry mucosal linings": "PROBLEM"
   },
   {
     "murmur": "PROBLEM"
   },
   {
+    "S1": "TEST"
+  },
+  {
+    "S2": "TEST"
+  },
+  {
     "rales": "PROBLEM"
   },
   {
     "wheeze": "PROBLEM"
+  },
+  {
+    "bowel sounds": "TEST"
   },
   {
     "organomegaly": "PROBLEM"
@@ -150,7 +159,7 @@
     "Chest x-ray": "TEST"
   },
   {
-    "acute cardiomegaly": "PROBLEM"
+    "cardiomegaly": "PROBLEM"
   },
   {
     "infiltrates": "PROBLEM"
@@ -183,9 +192,6 @@
     "diabetic medication": "DRUG"
   },
   {
-    "diabetic medication": "DRUG"
-  },
-  {
     "diabetes": "PROBLEM"
   },
   {
@@ -211,17 +217,5 @@
   },
   {
     "decrease in mental alertness": "PROBLEM"
-  },
-  {
-    "blood pressure medication": "DRUG"
-  },
-  {
-    "mental alertness": "TEST"
-  },
-  {
-    "blood pressure": "TEST"
-  },
-  {
-    "glucose": "TEST"
   }
 ]

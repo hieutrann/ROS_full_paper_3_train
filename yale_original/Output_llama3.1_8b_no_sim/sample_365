@@ -39,16 +39,16 @@
     "foot": "PROBLEM"
   },
   {
-    "They are not worse with walking": "PROBLEM"
+    "walking": "PROBLEM"
   },
   {
-    "bed": "PROBLEM"
+    "bed": "TREATMENT"
   },
   {
-    "pain": "PROBLEM"
+    "radiation": "PROBLEM"
   },
   {
-    "bilateral shoulder pains": "PROBLEM"
+    "shoulder pains": "PROBLEM"
   },
   {
     "sinus allergies": "PROBLEM"
@@ -99,10 +99,10 @@
     "Port-A-Cath": "TREATMENT"
   },
   {
-    "total knee arthroplasty": "TREATMENT"
+    "knee arthroplasty": "TREATMENT"
   },
   {
-    "left hip pinning": "TREATMENT"
+    "hip pinning": "TREATMENT"
   },
   {
     "fracture": "PROBLEM"
@@ -121,6 +121,9 @@
   },
   {
     "zoster": "PROBLEM"
+  },
+  {
+    "infection": "PROBLEM"
   },
   {
     "labyrinthitis": "PROBLEM"
@@ -171,7 +174,10 @@
     "p.r.n.": "TREATMENT"
   },
   {
-    "nonsmoker": "PROBLEM"
+    "nonsmoker": "TREATMENT"
+  },
+  {
+    "nondrinker": "TREATMENT"
   },
   {
     "stroke": "PROBLEM"
@@ -189,7 +195,7 @@
     "diabetes": "PROBLEM"
   },
   {
-    "REVIEW OF SYSTEMS": "TEST"
+    "General": "PROBLEM"
   },
   {
     "allergies": "PROBLEM"
@@ -201,7 +207,7 @@
     "sore throat": "PROBLEM"
   },
   {
-    "glasses": "PROBLEM"
+    "glasses": "TREATMENT"
   },
   {
     "cough": "PROBLEM"
@@ -226,9 +232,6 @@
   },
   {
     "frequency": "PROBLEM"
-  },
-  {
-    "empties": "PROBLEM"
   },
   {
     "paresthesias": "PROBLEM"
@@ -270,19 +273,25 @@
     "Weight": "TEST"
   },
   {
-    "normocephalic": "TEST"
+    "normocephalic": "PROBLEM"
   },
   {
-    "Pupils": "TEST"
+    "pupils": "TEST"
   },
   {
-    "Extraocular movements": "TEST"
+    "movements": "TEST"
   },
   {
     "Fundi": "PROBLEM"
   },
   {
     "TMs": "TEST"
+  },
+  {
+    "nares": "TEST"
+  },
+  {
+    "throat": "TEST"
   },
   {
     "adenopathy": "PROBLEM"
@@ -294,13 +303,25 @@
     "Lungs": "TEST"
   },
   {
-    "Heart": "PROBLEM"
+    "rhythm": "PROBLEM"
+  },
+  {
+    "rhythm": "PROBLEM"
+  },
+  {
+    "murmur": "PROBLEM"
+  },
+  {
+    "click": "PROBLEM"
+  },
+  {
+    "rub": "PROBLEM"
   },
   {
     "carotid bruits": "PROBLEM"
   },
   {
-    "Abdomen": "PROBLEM"
+    "bowel sounds": "TEST"
   },
   {
     "hepatosplenomegaly": "PROBLEM"
@@ -312,10 +333,10 @@
     "Breasts": "PROBLEM"
   },
   {
-    "Port-A-Cath": "PROBLEM"
+    "Port-A-Cath": "TREATMENT"
   },
   {
-    "axillary adenopathy": "PROBLEM"
+    "adenopathy": "PROBLEM"
   },
   {
     "ankle edema": "PROBLEM"
@@ -330,31 +351,28 @@
     "Pedal pulses": "TEST"
   },
   {
-    "Cranial nerves II-XII": "TEST"
+    "Cranial nerves": "TEST"
   },
   {
     "Deep tendon reflexes": "TEST"
   },
   {
-    "knees": "TEST"
+    "knees": "PROBLEM"
   },
   {
-    "focal neurologic deficits": "PROBLEM"
-  },
-  {
-    "Pelvic": "TEST"
+    "neurologic deficits": "PROBLEM"
   },
   {
     "BUS": "TEST"
   },
   {
-    "genitalia": "PROBLEM"
+    "atrophic": "PROBLEM"
   },
   {
     "Vaginal rugae": "PROBLEM"
   },
   {
-    "cervix": "PROBLEM"
+    "Cervix": "PROBLEM"
   },
   {
     "uterus": "PROBLEM"
@@ -364,9 +382,6 @@
   },
   {
     "ovaries": "PROBLEM"
-  },
-  {
-    "Rectal Exam": "TEST"
   },
   {
     "brown stool": "PROBLEM"
@@ -381,13 +396,13 @@
     "Peripheral neuropathy": "PROBLEM"
   },
   {
-    "2": "TEST"
+    "2": "TREATMENT"
   },
   {
     "Hypertension": "PROBLEM"
   },
   {
-    "3": "PROBLEM"
+    "3": "TREATMENT"
   },
   {
     "Hypothyroidism": "PROBLEM"
@@ -396,7 +411,7 @@
     "4": "TEST"
   },
   {
-    "Essential thrombocythemia": "PROBLEM"
+    "thrombocythemia": "PROBLEM"
   },
   {
     "5": "TEST"
@@ -405,7 +420,7 @@
     "Allergic rhinitis": "PROBLEM"
   },
   {
-    "6": "PROBLEM"
+    "6": "TEST"
   },
   {
     "Insomnia": "PROBLEM"
@@ -423,7 +438,7 @@
     "peripheral neuropathy": "PROBLEM"
   },
   {
-    "Anodyne": "DRUG"
+    "Anodyne": "TREATMENT"
   },
   {
     "peripheral neuropathy": "PROBLEM"
@@ -441,9 +456,6 @@
     "peripheral neuropathy": "PROBLEM"
   },
   {
-    "CBC": "TEST"
-  },
-  {
     "sed rate": "TEST"
   },
   {
@@ -453,16 +465,19 @@
     "Hemoccult cards": "TEST"
   },
   {
-    "DT immunization": "DRUG"
+    "DT immunization": "TREATMENT"
   },
   {
     "Ambien": "DRUG"
   },
   {
-    "for one year": "PROBLEM"
+    "flu shot": "TREATMENT"
   },
   {
-    "flu shot": "DRUG"
+    "numbness": "PROBLEM"
+  },
+  {
+    "allergic rhinitis": "PROBLEM"
   },
   {
     "anodyne physical therapy": "TREATMENT"
@@ -489,7 +504,7 @@
     "tingling": "PROBLEM"
   },
   {
-    "port a cath": "DRUG"
+    "port a cath": "TREATMENT"
   },
   {
     "total knee arthroplasty": "TREATMENT"

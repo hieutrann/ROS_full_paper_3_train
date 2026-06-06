@@ -1,12 +1,27 @@
 [
   {
-    "VITAL SIGNS": "TEST"
+    "Blood pressure": "TEST"
+  },
+  {
+    "pulse": "TEST"
+  },
+  {
+    "respirations": "TEST"
+  },
+  {
+    "temperature": "TEST"
+  },
+  {
+    "apparent distress": "PROBLEM"
   },
   {
     "EOMI": "TEST"
   },
   {
     "PERRLA": "TEST"
+  },
+  {
+    "Sclerae nonicteric": "PROBLEM"
   },
   {
     "lesions": "PROBLEM"
@@ -27,7 +42,16 @@
     "thyroid abnormality": "PROBLEM"
   },
   {
-    "S1 and S2": "TEST"
+    "auscultation": "TEST"
+  },
+  {
+    "percussion": "TEST"
+  },
+  {
+    "S1": "TEST"
+  },
+  {
+    "S2": "TEST"
   },
   {
     "murmur": "PROBLEM"
@@ -54,7 +78,10 @@
     "PMI nondisplaced": "PROBLEM"
   },
   {
-    "axillary or supraclavicular adenopathy": "PROBLEM"
+    "axillary adenopathy": "PROBLEM"
+  },
+  {
+    "supraclavicular adenopathy": "PROBLEM"
   },
   {
     "hepatosplenomegaly": "PROBLEM"
@@ -75,16 +102,13 @@
     "guarding": "PROBLEM"
   },
   {
-    "aortic impulse": "TEST"
+    "widening of the aortic impulse": "PROBLEM"
   },
   {
-    "7 cm by gloved digital palpation": "TEST"
+    "intraabdominal bruit": "PROBLEM"
   },
   {
-    "Hemoccult-negative stool": "TEST"
-  },
-  {
-    "distal pulse": "TEST"
+    "auscultated": "TEST"
   },
   {
     "edema": "PROBLEM"
@@ -100,6 +124,9 @@
   },
   {
     "range of motion": "TEST"
+  },
+  {
+    "percussion": "TEST"
   },
   {
     "spinous process tenderness": "PROBLEM"
@@ -129,13 +156,16 @@
     "cerebellar function": "TEST"
   },
   {
-    "premalignant or malignant condition": "PROBLEM"
+    "Gait": "TEST"
   },
   {
-    "heent": "TEST"
+    "station": "TEST"
   },
   {
-    "general appearance": "TEST"
+    "premalignant condition": "PROBLEM"
+  },
+  {
+    "malignant condition": "PROBLEM"
   },
   {
     "hepatosplenomegaly": "PROBLEM"
@@ -156,7 +186,7 @@
     "pulse": "TEST"
   },
   {
-    "bruit": "PROBLEM"
+    "bruit": "TEST"
   },
   {
     "adenopathy": "PROBLEM"

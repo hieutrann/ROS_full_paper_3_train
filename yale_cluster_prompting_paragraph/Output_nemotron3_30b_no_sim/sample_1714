@@ -1,0 +1,80 @@
+[
+  {
+    "lumbar": "PROBLEM"
+  },
+  {
+    "Fluoroscopy": "TEST"
+  },
+  {
+    "1 % lidocaine": "DRUG"
+  },
+  {
+    "non-ionic contrast agent": "TEST"
+  },
+  {
+    "treatment solution": "TREATMENT"
+  },
+  {
+    "preservative free": "TREATMENT"
+  },
+  {
+    "betadine": "TEST"
+  },
+  {
+    "sterile drapes": "TREATMENT"
+  },
+  {
+    "mid-pedicular line": "PROBLEM"
+  },
+  {
+    "radiculogram": "TEST"
+  },
+  {
+    "vascular dye pattern": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "chills": "PROBLEM"
+  },
+  {
+    "increased pain": "PROBLEM"
+  },
+  {
+    "weakness": "PROBLEM"
+  },
+  {
+    "sensory or motor changes": "PROBLEM"
+  },
+  {
+    "changes in bowel or bladder function": "PROBLEM"
+  },
+  {
+    "relative rest": "TREATMENT"
+  },
+  {
+    "ice the injection site": "TREATMENT"
+  },
+  {
+    "15-20 minutes": "TREATMENT"
+  },
+  {
+    "twice per hour": "TREATMENT"
+  },
+  {
+    "aggressive activities": "PROBLEM"
+  },
+  {
+    "resume all medications": "TREATMENT"
+  },
+  {
+    "normal activities": "TREATMENT"
+  }
+]

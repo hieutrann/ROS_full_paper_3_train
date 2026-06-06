@@ -1,9 +1,6 @@
 [
   {
-    "Abdominal Pain": "PROBLEM"
-  },
-  {
-    "Abdominal Pain - Consult": "TEST"
+    "abdominal pain": "PROBLEM"
   },
   {
     "Cipro": "DRUG"
@@ -12,78 +9,30 @@
     "Flagyl": "DRUG"
   },
   {
-    "Metoprolol": "DRUG"
+    "metoprolol": "DRUG"
   },
   {
     "Premarin": "DRUG"
   },
   {
-    "Macrodantin": "DRUG"
+    "MacroDantin": "DRUG"
   },
   {
-    "Atrial Fibrillation": "PROBLEM"
+    "CT scan": "TEST"
   },
   {
-    "Cholecystectomy": "TREATMENT"
-  },
-  {
-    "Appendectomy": "TREATMENT"
-  },
-  {
-    "Hysterectomy": "TREATMENT"
-  },
-  {
-    "Bladder Prolapse": "PROBLEM"
-  },
-  {
-    "Sigmoid Diverticulitis": "PROBLEM"
-  },
-  {
-    "CT Scan": "TEST"
-  },
-  {
-    "Colonoscopy": "TEST"
+    "colonoscopy": "TEST"
   },
   {
     "EKG": "TEST"
   },
   {
-    "Liver Function Tests": "TEST"
+    "sigmoid diverticulitis": "PROBLEM"
   },
   {
-    "Electrolytes": "TEST"
+    "sigmoid diverticulitis": "PROBLEM"
   },
   {
-    "Glucose": "TEST"
-  },
-  {
-    "BUN": "TEST"
-  },
-  {
-    "Creatinine": "TEST"
-  },
-  {
-    "White Blood Cell Count": "TEST"
-  },
-  {
-    "Hemoglobin": "TEST"
-  },
-  {
-    "Platelet Count": "TEST"
-  },
-  {
-    "Alkaline Phosphatase": "TEST"
-  },
-  {
-    "Sigmoid Diverticulitis": "PROBLEM"
-  },
-  {
-    "Tenderness": "PROBLEM"
-  },
-  {
-    "Lower Quadrant": "PROBLEM"
-  },
-  {
-    "Abdominal": "PROBLEM"
+    "colonoscopy": "TREATMENT"
   }
 ]

@@ -1,5 +1,8 @@
 [
   {
+    "Back & Leg Pain": "PROBLEM"
+  },
+  {
     "Bilateral l5 spondylolysis": "PROBLEM"
   },
   {
@@ -48,10 +51,19 @@
     "pedicle fixation": "TREATMENT"
   },
   {
-    "back, buttock, and bilateral leg pain": "PROBLEM"
+    "back": "PROBLEM"
   },
   {
-    "bilateral pars defects at L5-S1": "PROBLEM"
+    "buttock": "PROBLEM"
+  },
+  {
+    "bilateral leg pain": "PROBLEM"
+  },
+  {
+    "bilateral pars defects": "PROBLEM"
+  },
+  {
+    "L5-S1": "PROBLEM"
   },
   {
     "spondylolysis": "PROBLEM"
@@ -61,9 +73,6 @@
   },
   {
     "wounds": "PROBLEM"
-  },
-  {
-    "preoperative pain medication": "DRUG"
   },
   {
     "chronic pain syndrome": "PROBLEM"

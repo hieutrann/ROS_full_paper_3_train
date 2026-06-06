@@ -30,7 +30,7 @@
     "Nonischemic cardiomyopathy": "PROBLEM"
   },
   {
-    "Branch vessel coronary artery disease": "PROBLEM"
+    "coronary artery disease": "PROBLEM"
   },
   {
     "Congestive heart failure": "PROBLEM"
@@ -49,9 +49,6 @@
   },
   {
     "CHF exacerbation": "PROBLEM"
-  },
-  {
-    "medications": "DRUG"
   },
   {
     "shortness of breath": "PROBLEM"
@@ -96,22 +93,13 @@
     "syncope": "PROBLEM"
   },
   {
-    "smoking": "PROBLEM"
-  },
-  {
-    "cocaine": "DRUG"
-  },
-  {
-    "VITAL SIGNS": "TEST"
+    "cocaine": "PROBLEM"
   },
   {
     "Pulse": "TEST"
   },
   {
     "blood pressure": "TEST"
-  },
-  {
-    "weight": "TEST"
   },
   {
     "pallor": "PROBLEM"
@@ -132,10 +120,10 @@
     "LUNGS": "TEST"
   },
   {
-    "rales": "PROBLEM"
+    "rales": "TEST"
   },
   {
-    "rhonchi": "PROBLEM"
+    "rhonchi": "TEST"
   },
   {
     "Pulse ox": "TEST"

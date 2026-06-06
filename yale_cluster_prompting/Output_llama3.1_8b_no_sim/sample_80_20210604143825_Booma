@@ -3,7 +3,7 @@
     "ENT Exam": "TEST"
   },
   {
-    "auricles": "TEST"
+    "auricles": "PROBLEM"
   },
   {
     "lymphadenitis": "PROBLEM"
@@ -15,6 +15,15 @@
     "acute trauma": "PROBLEM"
   },
   {
+    "nose": "PROBLEM"
+  },
+  {
+    "palpation": "TEST"
+  },
+  {
+    "inspection": "TEST"
+  },
+  {
     "mass lesion": "PROBLEM"
   },
   {
@@ -24,13 +33,10 @@
     "swelling": "PROBLEM"
   },
   {
-    "tympanic membranes": "TEST"
-  },
-  {
     "auditory canals": "TEST"
   },
   {
-    "tympanic membranes": "PROBLEM"
+    "tympanic membranes": "TEST"
   },
   {
     "disruption": "PROBLEM"
@@ -39,7 +45,7 @@
     "infection": "PROBLEM"
   },
   {
-    "Hearing intact bilaterally to normal level speech": "TEST"
+    "Hearing": "TEST"
   },
   {
     "Nasal mucosa": "PROBLEM"
@@ -60,16 +66,13 @@
     "inflammation": "PROBLEM"
   },
   {
-    "septum": "PROBLEM"
-  },
-  {
     "acute traumatic lesions": "PROBLEM"
   },
   {
     "disruption": "PROBLEM"
   },
   {
-    "turbinates": "PROBLEM"
+    "abnormal swelling": "PROBLEM"
   },
   {
     "unusual rhinorrhea": "PROBLEM"
@@ -93,19 +96,13 @@
     "gingivae": "PROBLEM"
   },
   {
-    "OROPHARYNX": "TEST"
+    "oral mucosa": "PROBLEM"
   },
   {
-    "oral mucosa": "TEST"
-  },
-  {
-    "salivary glands": "PROBLEM"
+    "swelling": "PROBLEM"
   },
   {
     "palates": "PROBLEM"
-  },
-  {
-    "tongue": "PROBLEM"
   },
   {
     "masses": "PROBLEM"
@@ -114,7 +111,7 @@
     "swelling": "PROBLEM"
   },
   {
-    "movement": "PROBLEM"
+    "movement": "TEST"
   },
   {
     "inflammation": "PROBLEM"
@@ -126,7 +123,7 @@
     "mass lesion": "PROBLEM"
   },
   {
-    "oropharyngeal airway": "TEST"
+    "patent oropharyngeal airway": "TEST"
   },
   {
     "oral mucosa": "PROBLEM"

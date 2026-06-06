@@ -18,7 +18,7 @@
     "abnormal menstrual bleeding": "PROBLEM"
   },
   {
-    "increase in flow during her period": "PROBLEM"
+    "increase in flow": "PROBLEM"
   },
   {
     "back pain": "PROBLEM"
@@ -36,6 +36,12 @@
     "uterine enlargement": "PROBLEM"
   },
   {
+    "total vaginal hysterectomy": "TREATMENT"
+  },
+  {
+    "pathologic analysis": "TEST"
+  },
+  {
     "H&H": "TEST"
   },
   {
@@ -43,5 +49,20 @@
   },
   {
     "hematocrit": "TEST"
+  },
+  {
+    "menorrhagia": "PROBLEM"
+  },
+  {
+    "uterus enlargement": "PROBLEM"
+  },
+  {
+    "pelvic pain": "PROBLEM"
+  },
+  {
+    "total vaginal hysterectomy": "TREATMENT"
+  },
+  {
+    "vaginal hysterectomy": "TREATMENT"
   }
 ]

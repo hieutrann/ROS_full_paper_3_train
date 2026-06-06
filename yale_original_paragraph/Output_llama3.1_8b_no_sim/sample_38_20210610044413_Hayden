@@ -1,21 +1,18 @@
 [
   {
+    "pancreatic mass": "PROBLEM"
+  },
+  {
+    "jaundice": "PROBLEM"
+  },
+  {
     "abdominal pain": "PROBLEM"
   },
   {
     "weight loss": "PROBLEM"
   },
   {
-    "jaundice": "PROBLEM"
-  },
-  {
-    "pancreatic mass": "PROBLEM"
-  },
-  {
     "lymph nodes": "PROBLEM"
-  },
-  {
-    "ring enhancing lesions": "PROBLEM"
   },
   {
     "liver metastases": "PROBLEM"
@@ -30,10 +27,19 @@
     "strictured bile duct": "PROBLEM"
   },
   {
+    "bilirubin": "TEST"
+  },
+  {
+    "liver tests": "TEST"
+  },
+  {
     "Zofran": "DRUG"
   },
   {
     "Phenergan": "DRUG"
+  },
+  {
+    "enalapril": "DRUG"
   },
   {
     "Duragesic patch": "DRUG"
@@ -42,22 +48,13 @@
     "Benadryl": "DRUG"
   },
   {
-    "enalapril": "DRUG"
-  },
-  {
-    "ERCP": "TEST"
-  },
-  {
-    "CT scan": "TEST"
-  },
-  {
-    "stent": "TREATMENT"
-  },
-  {
-    "placement of a stent": "TREATMENT"
-  },
-  {
     "insulin sliding scale": "TREATMENT"
+  },
+  {
+    "ERCP": "TREATMENT"
+  },
+  {
+    "stent placement": "TREATMENT"
   },
   {
     "chemotherapy": "TREATMENT"

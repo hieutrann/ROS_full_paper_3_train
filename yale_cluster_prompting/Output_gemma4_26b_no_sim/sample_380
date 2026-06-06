@@ -33,7 +33,7 @@
     "diarrhea": "PROBLEM"
   },
   {
-    "severe osteoarthritis": "PROBLEM"
+    "osteoarthritis": "PROBLEM"
   },
   {
     "left knee": "PROBLEM"
@@ -42,16 +42,13 @@
     "total knee replacement": "TREATMENT"
   },
   {
-    "weight": "PROBLEM"
-  },
-  {
-    "surgery": "TREATMENT"
+    "lose weight": "PROBLEM"
   },
   {
     "coronary disease": "PROBLEM"
   },
   {
-    "stroke risk": "PROBLEM"
+    "stroke": "PROBLEM"
   },
   {
     "cardiac disease": "PROBLEM"
@@ -75,7 +72,7 @@
     "LDL": "TEST"
   },
   {
-    "Her fasting glucose": "TEST"
+    "fasting glucose": "TEST"
   },
   {
     "fasting insulin level": "TEST"
@@ -105,16 +102,10 @@
     "DEXA scan": "TEST"
   },
   {
-    "compression fracture": "PROBLEM"
-  },
-  {
-    "lumbar spine": "PROBLEM"
+    "compression fracture of the lumbar spine": "PROBLEM"
   },
   {
     "arthritis": "PROBLEM"
-  },
-  {
-    "bone density reading": "TEST"
   },
   {
     "DEXA scan": "TEST"
@@ -183,7 +174,7 @@
     "melanoma": "PROBLEM"
   },
   {
-    "Removal": "TREATMENT"
+    "Removal of the melanoma": "TREATMENT"
   },
   {
     "Breast biopsy": "TEST"
@@ -207,22 +198,16 @@
     "overweight": "PROBLEM"
   },
   {
-    "Vital signs": "TEST"
-  },
-  {
     "Blood pressure": "TEST"
   },
   {
     "Pulse": "TEST"
   },
   {
-    "Respirations": "TEST"
-  },
-  {
     "Temperature": "TEST"
   },
   {
-    "Carotids": "PROBLEM"
+    "Carotids": "TEST"
   },
   {
     "murmur": "PROBLEM"
@@ -282,7 +267,7 @@
     "screening colonoscopy": "TEST"
   },
   {
-    "colonoscopy": "TEST"
+    "screening colonoscopy": "TEST"
   },
   {
     "Fosamax": "DRUG"
@@ -297,7 +282,7 @@
     "EKG": "TEST"
   },
   {
-    "preoperative cardiac testing": "TEST"
+    "cardiac testing": "TEST"
   },
   {
     "beta-blocker": "DRUG"

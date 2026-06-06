@@ -21,15 +21,18 @@
     "steroids": "DRUG"
   },
   {
-    "Pediatric": "TEST"
+    "rhonchi": "PROBLEM"
   },
   {
-    "exam": "TEST"
+    "childhood asthma": "PROBLEM"
+  },
+  {
+    "pediatrics - neonatal": "TEST"
+  },
+  {
+    "gestation": "TEST"
   },
   {
     "alternate day steroids": "TREATMENT"
-  },
-  {
-    "incision": "TREATMENT"
   }
 ]

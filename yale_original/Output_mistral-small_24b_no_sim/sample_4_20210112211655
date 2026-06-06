@@ -36,7 +36,10 @@
     "chest x-ray": "TEST"
   },
   {
-    "high fevers": "PROBLEM"
+    "fevers": "PROBLEM"
+  },
+  {
+    "Cottonwood Hospital": "TEST"
   },
   {
     "CT scan": "TEST"
@@ -48,10 +51,16 @@
     "pleural-based interstitial changes": "PROBLEM"
   },
   {
+    "lung zones": "PROBLEM"
+  },
+  {
+    "ground glass change": "PROBLEM"
+  },
+  {
     "CT abdomen and pelvis": "TEST"
   },
   {
-    "serologies": "TEST"
+    "Infectious disease": "PROBLEM"
   },
   {
     "CMV": "PROBLEM"
@@ -99,7 +108,7 @@
     "Blood cultures": "TEST"
   },
   {
-    "CMV": "PROBLEM"
+    "CMV": "TEST"
   },
   {
     "PCR": "TEST"
@@ -114,10 +123,7 @@
     "BAL": "TEST"
   },
   {
-    "transbronchial biopsies": "TEST"
-  },
-  {
-    "transbronchial biopsies": "TEST"
+    "biopsies": "TEST"
   },
   {
     "pneumocystis": "PROBLEM"
@@ -132,16 +138,10 @@
     "interstitial fibrosis": "PROBLEM"
   },
   {
-    "XYZ": "TEST"
-  },
-  {
-    "immunopathology": "TEST"
-  },
-  {
     "CMV": "PROBLEM"
   },
   {
-    "nucleoli": "PROBLEM"
+    "immunopathology": "TEST"
   },
   {
     "biopsy": "TEST"
@@ -154,6 +154,9 @@
   },
   {
     "CMV serologies": "TEST"
+  },
+  {
+    "antibiotic therapy": "DRUG"
   },
   {
     "methotrexate": "DRUG"
@@ -177,6 +180,9 @@
     "fever": "PROBLEM"
   },
   {
+    "BAL fluid cell count": "TEST"
+  },
+  {
     "WBCs": "TEST"
   },
   {
@@ -189,6 +195,12 @@
     "lymphocytes": "TEST"
   },
   {
+    "rheumatologist": "TREATMENT"
+  },
+  {
+    "DISCHARGE DIAGNOSES": "TEST"
+  },
+  {
     "Disseminated CMV infection": "PROBLEM"
   },
   {
@@ -198,19 +210,19 @@
     "Polymyositis": "PROBLEM"
   },
   {
-    "immunosuppressive therapy": "TREATMENT"
-  },
-  {
     "methotrexate": "DRUG"
   },
   {
     "prednisone": "DRUG"
   },
   {
+    "DISCHARGE MEDICATIONS": "DRUG"
+  },
+  {
     "ganciclovir": "DRUG"
   },
   {
-    "Advair": "DRUG"
+    "Advair 100/50": "DRUG"
   },
   {
     "Ibuprofen": "DRUG"
@@ -228,6 +240,12 @@
     "methotrexate": "DRUG"
   },
   {
+    "XYZ": "DRUG"
+  },
+  {
+    "ophthalmologist": "TREATMENT"
+  },
+  {
     "fever of unknown origin": "PROBLEM"
   },
   {
@@ -243,6 +261,9 @@
     "cmv": "PROBLEM"
   },
   {
+    "illness": "PROBLEM"
+  },
+  {
     "interstitial": "PROBLEM"
   },
   {
@@ -250,6 +271,9 @@
   },
   {
     "serologies": "TEST"
+  },
+  {
+    "chest": "TEST"
   },
   {
     "methotrexate": "DRUG"

@@ -6,6 +6,9 @@
     "cardiac arrhythmia": "PROBLEM"
   },
   {
+    "pacemaker": "TREATMENT"
+  },
+  {
     "AV block": "PROBLEM"
   },
   {
@@ -30,33 +33,12 @@
     "Cardura": "DRUG"
   },
   {
-    "pulse": "TEST"
-  },
-  {
     "blood pressure": "TEST"
   },
   {
-    "temperature": "TEST"
+    "GFR": "TEST"
   },
   {
-    "respirations": "TEST"
-  },
-  {
-    "regular rate and rhythm": "TEST"
-  },
-  {
-    "S1 and S2 without murmur": "TEST"
-  },
-  {
-    "incision": "TREATMENT"
-  },
-  {
-    "drainage": "TREATMENT"
-  },
-  {
-    "pacemaker": "TREATMENT"
-  },
-  {
-    "atrial ventricular block": "TREATMENT"
+    "musculoskeletal pain": "PROBLEM"
   }
 ]

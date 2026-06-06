@@ -60,15 +60,6 @@
     "Oxygen saturation": "TEST"
   },
   {
-    "acute distress": "PROBLEM"
-  },
-  {
-    "Peripheral pulse": "TEST"
-  },
-  {
-    "Capillary refills": "TEST"
-  },
-  {
     "shortness of breath": "PROBLEM"
   },
   {
@@ -108,7 +99,7 @@
     "bandage": "TREATMENT"
   },
   {
-    "A 4-MM LACERATION TO THE RIGHT FOOT": "PROBLEM"
+    "LACERATION": "PROBLEM"
   },
   {
     "ACUTE RIGHT FOOT PAIN": "PROBLEM"
@@ -121,5 +112,26 @@
   },
   {
     "infection": "PROBLEM"
+  },
+  {
+    "foot pain": "PROBLEM"
+  },
+  {
+    "cut on foot": "PROBLEM"
+  },
+  {
+    "foreign body": "PROBLEM"
+  },
+  {
+    "active bleeding": "PROBLEM"
+  },
+  {
+    "injuries": "PROBLEM"
+  },
+  {
+    "laceration": "PROBLEM"
+  },
+  {
+    "bleeding": "PROBLEM"
   }
 ]

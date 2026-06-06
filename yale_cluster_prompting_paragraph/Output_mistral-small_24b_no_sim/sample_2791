@@ -6,16 +6,34 @@
     "Upper gastrointestinal bleed": "PROBLEM"
   },
   {
-    "CBC": "TEST"
-  },
-  {
     "microcytic anemia": "PROBLEM"
   },
   {
-    "hemoglobin": "TEST"
+    "anemia": "PROBLEM"
   },
   {
-    "stool": "TEST"
+    "atrial fibrillation": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "osteoarthritis of the knees": "PROBLEM"
+  },
+  {
+    "hypercholesterolemia": "PROBLEM"
+  },
+  {
+    "non-insulin-dependent diabetes mellitus": "PROBLEM"
+  },
+  {
+    "asthma": "PROBLEM"
+  },
+  {
+    "hypothyroidism": "PROBLEM"
+  },
+  {
+    "fatigue": "PROBLEM"
   },
   {
     "shortness of breath": "PROBLEM"
@@ -27,43 +45,7 @@
     "GI complaints": "PROBLEM"
   },
   {
-    "atrial fibrillation": "PROBLEM"
-  },
-  {
-    "Coumadin": "DRUG"
-  },
-  {
-    "fatigue": "PROBLEM"
-  },
-  {
-    "hypertension": "PROBLEM"
-  },
-  {
-    "osteoarthritis": "PROBLEM"
-  },
-  {
-    "hypercholesterolemia": "PROBLEM"
-  },
-  {
-    "diabetes mellitus": "PROBLEM"
-  },
-  {
-    "asthma": "PROBLEM"
-  },
-  {
-    "hypothyroidism": "PROBLEM"
-  },
-  {
-    "VITAL SIGNS": "TEST"
-  },
-  {
-    "upper endoscopy": "TEST"
-  },
-  {
     "erosive gastritis": "PROBLEM"
-  },
-  {
-    "colonoscopy": "TEST"
   },
   {
     "diverticulosis": "PROBLEM"
@@ -72,43 +54,13 @@
     "polyp": "PROBLEM"
   },
   {
-    "hemoglobin": "TEST"
+    "CBC": "TEST"
   },
   {
-    "Coumadin": "DRUG"
+    "upper endoscopy": "TEST"
   },
   {
-    "GI": "TEST"
-  },
-  {
-    "Feosol": "DRUG"
-  },
-  {
-    "multivitamins": "DRUG"
-  },
-  {
-    "Protonix": "DRUG"
-  },
-  {
-    "KCl": "DRUG"
-  },
-  {
-    "Lasix": "DRUG"
-  },
-  {
-    "atenolol": "DRUG"
-  },
-  {
-    "Synthroid": "DRUG"
-  },
-  {
-    "Actos": "DRUG"
-  },
-  {
-    "Mevacor": "DRUG"
-  },
-  {
-    "lisinopril": "DRUG"
+    "colonoscopy": "TEST"
   },
   {
     "CBC": "TEST"
@@ -118,5 +70,50 @@
   },
   {
     "Coumadin": "DRUG"
+  },
+  {
+    "Feosol 325 mg": "DRUG"
+  },
+  {
+    "multivitamins": "DRUG"
+  },
+  {
+    "Protonix 40 mg": "DRUG"
+  },
+  {
+    "KCl 20 mEq": "DRUG"
+  },
+  {
+    "Lasix 40 mg": "DRUG"
+  },
+  {
+    "atenolol 50 mg": "DRUG"
+  },
+  {
+    "Synthroid 80 mcg": "DRUG"
+  },
+  {
+    "Actos 30 mg": "DRUG"
+  },
+  {
+    "Mevacor 40 mg": "DRUG"
+  },
+  {
+    "lisinopril 20 mg": "DRUG"
+  },
+  {
+    "transfused": "TREATMENT"
+  },
+  {
+    "Coumadin": "TREATMENT"
+  },
+  {
+    "upper endoscopy": "TREATMENT"
+  },
+  {
+    "colonoscopy": "TREATMENT"
+  },
+  {
+    "polyp": "TREATMENT"
   }
 ]

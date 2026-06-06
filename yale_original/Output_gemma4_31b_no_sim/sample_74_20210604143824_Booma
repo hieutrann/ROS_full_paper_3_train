@@ -1,9 +1,6 @@
 [
   {
-    "Normal ENT Exam": "TEST"
-  },
-  {
-    "Examination of the canals": "TEST"
+    "ENT Exam": "TEST"
   },
   {
     "drainage": "PROBLEM"
@@ -18,16 +15,7 @@
     "septal hematoma": "PROBLEM"
   },
   {
-    "turbinates": "PROBLEM"
-  },
-  {
     "infection": "PROBLEM"
-  },
-  {
-    "masses": "PROBLEM"
-  },
-  {
-    "salivary glands": "TEST"
   },
   {
     "erythema": "PROBLEM"

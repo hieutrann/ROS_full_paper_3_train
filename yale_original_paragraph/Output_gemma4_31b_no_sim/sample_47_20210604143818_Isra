@@ -9,25 +9,19 @@
     "discomfort in the back": "PROBLEM"
   },
   {
-    "Stomach gets upset with pain": "PROBLEM"
+    "Stomach gets upset": "PROBLEM"
   },
   {
-    "extreme fatigue": "PROBLEM"
+    "pain": "PROBLEM"
   },
   {
-    "discomfort in the chest": "PROBLEM"
-  },
-  {
-    "discomfort in the back": "PROBLEM"
-  },
-  {
-    "Stomach gets upset with pain": "PROBLEM"
+    "supplements": "DRUG"
   },
   {
     "loose bowel movements": "PROBLEM"
   },
   {
-    "no bladder control": "PROBLEM"
+    "bladder control": "PROBLEM"
   },
   {
     "pain in her hips": "PROBLEM"
@@ -39,19 +33,22 @@
     "swelling": "PROBLEM"
   },
   {
-    "headaches in the back of her head": "PROBLEM"
+    "headaches": "PROBLEM"
   },
   {
     "Type II diabetes mellitus": "PROBLEM"
   },
   {
-    "Generalized fatigue and weakness": "PROBLEM"
+    "Generalized fatigue": "PROBLEM"
+  },
+  {
+    "weakness": "PROBLEM"
   },
   {
     "Hypertension": "PROBLEM"
   },
   {
-    "Peripheral neuropathy with atypical symptoms": "PROBLEM"
+    "Peripheral neuropathy": "PROBLEM"
   },
   {
     "Hypothyroidism": "PROBLEM"
@@ -60,10 +57,13 @@
     "Depression": "PROBLEM"
   },
   {
+    "Postmenopausal age-related symptoms": "PROBLEM"
+  },
+  {
     "Abdominal pain": "PROBLEM"
   },
   {
-    "nonspecific irritable bowel type symptoms": "PROBLEM"
+    "irritable bowel type symptoms": "PROBLEM"
   },
   {
     "intermittent diarrhea": "PROBLEM"
@@ -82,6 +82,9 @@
   },
   {
     "chills": "PROBLEM"
+  },
+  {
+    "weight change": "PROBLEM"
   },
   {
     "epistaxis": "PROBLEM"
@@ -135,7 +138,7 @@
     "Diarrhea": "PROBLEM"
   },
   {
-    "poor bladder control": "PROBLEM"
+    "bladder control": "PROBLEM"
   },
   {
     "dysuria": "PROBLEM"
@@ -171,7 +174,10 @@
     "itching": "PROBLEM"
   },
   {
-    "lumps or masses": "PROBLEM"
+    "lumps": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
   },
   {
     "bruising": "PROBLEM"
@@ -187,12 +193,6 @@
   },
   {
     "RESPIRATIONS": "TEST"
-  },
-  {
-    "tonsillar lesions": "PROBLEM"
-  },
-  {
-    "exudate": "PROBLEM"
   },
   {
     "thyromegaly": "PROBLEM"
@@ -235,12 +235,6 @@
   },
   {
     "rashes": "PROBLEM"
-  },
-  {
-    "cranial nerve testing": "TEST"
-  },
-  {
-    "gait": "TEST"
   },
   {
     "metformin": "DRUG"

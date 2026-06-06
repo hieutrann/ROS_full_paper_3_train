@@ -36,6 +36,9 @@
     "dryness": "PROBLEM"
   },
   {
+    "glasses": "TREATMENT"
+  },
+  {
     "ringing in the ears": "PROBLEM"
   },
   {
@@ -70,6 +73,12 @@
   },
   {
     "dry mouth": "PROBLEM"
+  },
+  {
+    "dentures": "TREATMENT"
+  },
+  {
+    "removable dental work": "TREATMENT"
   },
   {
     "frequent sore throats": "PROBLEM"
@@ -130,6 +139,15 @@
   },
   {
     "coughing up mucus": "PROBLEM"
+  },
+  {
+    "waking at night coughing or choking": "PROBLEM"
+  },
+  {
+    "repeated pneumonias": "PROBLEM"
+  },
+  {
+    "wheezing": "PROBLEM"
   },
   {
     "night sweats": "PROBLEM"
@@ -195,7 +213,13 @@
     "cloudy or smoky urine": "PROBLEM"
   },
   {
+    "frequent need to urinate": "PROBLEM"
+  },
+  {
     "urgency": "PROBLEM"
+  },
+  {
+    "inability to hold the urine": "PROBLEM"
   },
   {
     "discharge from the penis": "PROBLEM"
@@ -307,6 +331,12 @@
   },
   {
     "thoughts of suicide": "PROBLEM"
+  },
+  {
+    "voices in head": "PROBLEM"
+  },
+  {
+    "psychiatric counseling": "TREATMENT"
   },
   {
     "intolerance to hot or cold temperature": "PROBLEM"

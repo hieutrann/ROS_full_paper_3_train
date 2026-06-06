@@ -1,51 +1,12 @@
 [
   {
-    "chronic obstructive pulmonary disease": "PROBLEM"
-  },
-  {
-    "nasal oxygen": "TREATMENT"
-  },
-  {
-    "Anxiety disorder": "PROBLEM"
-  },
-  {
-    "Dementia": "PROBLEM"
-  },
-  {
-    "left mastectomy": "TREATMENT"
-  },
-  {
-    "breast cancer": "PROBLEM"
-  },
-  {
-    "right knee replacement": "TREATMENT"
-  },
-  {
-    "osteoarthritis": "PROBLEM"
-  },
-  {
-    "urine incontinence": "PROBLEM"
-  },
-  {
-    "stool incontinence": "PROBLEM"
-  },
-  {
     "pulse": "TEST"
   },
   {
+    "respirations": "TEST"
+  },
+  {
     "blood pressure": "TEST"
-  },
-  {
-    "right-sided facial droop": "PROBLEM"
-  },
-  {
-    "carotid bruit": "TEST"
-  },
-  {
-    "cervical adenopathy": "PROBLEM"
-  },
-  {
-    "systolic murmur": "PROBLEM"
   },
   {
     "pedal edema": "PROBLEM"
@@ -55,9 +16,6 @@
   },
   {
     "pressure ulcer": "PROBLEM"
-  },
-  {
-    "brain atrophy": "PROBLEM"
   },
   {
     "Sodium": "TEST"
@@ -96,12 +54,6 @@
     "urinalysis": "TEST"
   },
   {
-    "white blood cells": "PROBLEM"
-  },
-  {
-    "red blood cells": "PROBLEM"
-  },
-  {
     "E. coli": "PROBLEM"
   },
   {
@@ -117,34 +69,13 @@
     "meropenem": "DRUG"
   },
   {
-    "Hypertension": "PROBLEM"
-  },
-  {
-    "Dementia": "PROBLEM"
-  },
-  {
-    "Anxiety": "PROBLEM"
-  },
-  {
-    "Urinary tract infection": "PROBLEM"
-  },
-  {
-    "Abnormality of gait": "PROBLEM"
-  },
-  {
-    "lower extremity weakness": "PROBLEM"
-  },
-  {
     "swallowing evaluation": "TEST"
   },
   {
-    "Vasotec": "DRUG"
+    "IV Vasotec": "DRUG"
   },
   {
     "Neuro check": "TEST"
-  },
-  {
-    "amikacin": "DRUG"
   },
   {
     "Lovenox": "DRUG"
@@ -165,9 +96,6 @@
     "calcium with vitamin D": "DRUG"
   },
   {
-    "Ecotrin": "DRUG"
-  },
-  {
     "Tylenol": "DRUG"
   },
   {
@@ -178,29 +106,5 @@
   },
   {
     "potassium": "DRUG"
-  },
-  {
-    "hypertension": "PROBLEM"
-  },
-  {
-    "right-sided weakness": "PROBLEM"
-  },
-  {
-    "facial droop": "PROBLEM"
-  },
-  {
-    "wheelchair bound": "PROBLEM"
-  },
-  {
-    "blood pressure": "TEST"
-  },
-  {
-    "swallowing evaluation": "TEST"
-  },
-  {
-    "cerebrovascular accident": "PROBLEM"
-  },
-  {
-    "weakness": "PROBLEM"
   }
 ]

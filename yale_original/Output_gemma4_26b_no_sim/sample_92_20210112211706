@@ -1,9 +1,9 @@
 [
   {
-    "Stasis Ulcer": "PROBLEM"
+    "stasis ulcer": "PROBLEM"
   },
   {
-    "Nonhealing right ankle stasis ulcer": "PROBLEM"
+    "right ankle stasis ulcer": "PROBLEM"
   },
   {
     "hypertension": "PROBLEM"
@@ -18,7 +18,7 @@
     "vascular surgery": "TREATMENT"
   },
   {
-    "Nonhealing right ankle stasis ulcer": "PROBLEM"
+    "right ankle stasis ulcer": "PROBLEM"
   },
   {
     "hypertension": "PROBLEM"
@@ -36,7 +36,10 @@
     "nonhealing right ankle stasis ulcer": "PROBLEM"
   },
   {
-    "low-grade fever": "PROBLEM"
+    "fever": "PROBLEM"
+  },
+  {
+    "100.2": "TEST"
   },
   {
     "fever": "PROBLEM"
@@ -72,7 +75,7 @@
     "malaise": "PROBLEM"
   },
   {
-    "low-grade fevers": "PROBLEM"
+    "fevers": "PROBLEM"
   },
   {
     "visual acuity": "TEST"
@@ -126,7 +129,10 @@
     "chronic recurrent stasis ulcers": "PROBLEM"
   },
   {
-    "heavy alcohol drinking": "PROBLEM"
+    "alcohol drinking": "PROBLEM"
+  },
+  {
+    "cigarette smoker": "PROBLEM"
   },
   {
     "Primaxin": "DRUG"
@@ -183,10 +189,13 @@
     "oxygen saturation": "TEST"
   },
   {
-    "Pink conjunctivae": "PROBLEM"
+    "cardiorespiratory distress": "PROBLEM"
   },
   {
-    "anicteric sclerae": "PROBLEM"
+    "Height": "TEST"
+  },
+  {
+    "body weight": "TEST"
   },
   {
     "Pupils": "TEST"
@@ -198,19 +207,16 @@
     "neck masses": "PROBLEM"
   },
   {
+    "Thyroid": "PROBLEM"
+  },
+  {
     "crackles": "PROBLEM"
   },
   {
     "wheezes": "PROBLEM"
   },
   {
-    "cardiac rhythm": "TEST"
-  },
-  {
-    "thrills": "TEST"
-  },
-  {
-    "rubs": "TEST"
+    "cardiac rhythm": "PROBLEM"
   },
   {
     "bowel sounds": "TEST"
@@ -243,9 +249,6 @@
     "erythema": "PROBLEM"
   },
   {
-    "warmth": "PROBLEM"
-  },
-  {
     "tenderness": "PROBLEM"
   },
   {
@@ -255,13 +258,13 @@
     "open wound": "PROBLEM"
   },
   {
-    "Wound edges are poorly defined": "PROBLEM"
+    "Wound edges": "PROBLEM"
   },
   {
     "White blood cell count": "TEST"
   },
   {
-    "neutrophils": "TEST"
+    "neutrophils": "PROBLEM"
   },
   {
     "H&H": "TEST"
@@ -294,7 +297,13 @@
     "wound culture": "TEST"
   },
   {
-    "Left leg wound culture": "TEST"
+    "right leg wound": "PROBLEM"
+  },
+  {
+    "Left leg wound": "PROBLEM"
+  },
+  {
+    "culture": "TEST"
   },
   {
     "Chest x-ray": "TEST"
@@ -315,7 +324,7 @@
     "cellulitis": "PROBLEM"
   },
   {
-    "Chronic recurrent bilateral ankle venous ulcers": "PROBLEM"
+    "bilateral ankle venous ulcers": "PROBLEM"
   },
   {
     "wound cultures": "TEST"
@@ -372,6 +381,9 @@
     "wound cultures": "TEST"
   },
   {
+    "wound": "PROBLEM"
+  },
+  {
     "ulcer": "PROBLEM"
   },
   {
@@ -379,5 +391,11 @@
   },
   {
     "ulcers": "PROBLEM"
+  },
+  {
+    "stasis": "PROBLEM"
+  },
+  {
+    "chronic": "PROBLEM"
   }
 ]

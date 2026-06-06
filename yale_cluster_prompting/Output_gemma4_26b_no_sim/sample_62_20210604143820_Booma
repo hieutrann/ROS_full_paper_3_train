@@ -12,16 +12,10 @@
     "weak": "PROBLEM"
   },
   {
-    "salt": "TREATMENT"
-  },
-  {
     "Nausea": "PROBLEM"
   },
   {
     "feeling faint": "PROBLEM"
-  },
-  {
-    "appetite": "PROBLEM"
   },
   {
     "nausea": "PROBLEM"
@@ -84,7 +78,7 @@
     "weakness": "PROBLEM"
   },
   {
-    "paresthesias in extremities": "PROBLEM"
+    "paresthesias": "PROBLEM"
   },
   {
     "Diovan": "DRUG"
@@ -117,16 +111,10 @@
     "Tobacco use": "PROBLEM"
   },
   {
-    "Alcohol use": "PROBLEM"
-  },
-  {
     "TETANUS IMMUNIZATION": "DRUG"
   },
   {
     "hysterectomy": "TREATMENT"
-  },
-  {
-    "VITAL SIGNS": "TEST"
   },
   {
     "Temperature": "TEST"
@@ -147,25 +135,13 @@
     "PERRL.": "TEST"
   },
   {
-    "JVD": "PROBLEM"
-  },
-  {
-    "wheeze": "PROBLEM"
+    "expiratory wheeze": "PROBLEM"
   },
   {
     "tachycardic": "PROBLEM"
   },
   {
-    "murmur": "PROBLEM"
-  },
-  {
     "bowel sounds": "TEST"
-  },
-  {
-    "rebound": "PROBLEM"
-  },
-  {
-    "guarding": "PROBLEM"
   },
   {
     "CVA tenderness": "PROBLEM"
@@ -181,9 +157,6 @@
   },
   {
     "cerebellar": "TEST"
-  },
-  {
-    "LABORATORY STUDIES": "TEST"
   },
   {
     "WBC": "TEST"
@@ -240,12 +213,6 @@
     "hemoglobin": "TEST"
   },
   {
-    "hemoglobin": "TEST"
-  },
-  {
-    "hemoglobin": "TEST"
-  },
-  {
     "anemia": "PROBLEM"
   },
   {
@@ -273,34 +240,28 @@
     "small volume nebulizer treatment": "TREATMENT"
   },
   {
-    "lung exam": "TEST"
-  },
-  {
     "expiratory wheezing": "PROBLEM"
   },
   {
     "normal saline lock": "TREATMENT"
   },
   {
-    "IV fluids": "TREATMENT"
+    "normal saline": "DRUG"
   },
   {
-    "normal saline": "DRUG"
+    "IV fluids": "TREATMENT"
   },
   {
     "Rectal examination": "TEST"
   },
   {
-    "sphincter tone": "PROBLEM"
+    "sphincter tone": "TEST"
   },
   {
     "rectal secretions": "TEST"
   },
   {
-    "normal sinus rhythm": "PROBLEM"
-  },
-  {
-    "no ectopy": "PROBLEM"
+    "normal sinus rhythm": "TEST"
   },
   {
     "Blood pressure": "TEST"
@@ -328,9 +289,6 @@
   },
   {
     "Acute hyponatremia": "PROBLEM"
-  },
-  {
-    "salt": "TREATMENT"
   },
   {
     "anemia": "PROBLEM"

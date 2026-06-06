@@ -6,6 +6,9 @@
     "swallowing function": "PROBLEM"
   },
   {
+    "NPO": "PROBLEM"
+  },
+  {
     "G-tube": "TREATMENT"
   },
   {
@@ -15,10 +18,22 @@
     "global aphasia": "PROBLEM"
   },
   {
+    "aphasia quotient": "TEST"
+  },
+  {
     "Western Aphasia Battery": "TEST"
   },
   {
     "outpatient speech therapy sessions": "TREATMENT"
+  },
+  {
+    "receptive communication": "PROBLEM"
+  },
+  {
+    "expressive language": "PROBLEM"
+  },
+  {
+    "multimodality communication skills": "PROBLEM"
   },
   {
     "modified barium swallow study": "TEST"
@@ -36,6 +51,12 @@
     "expressive language abilities": "PROBLEM"
   },
   {
+    "receptive communication": "PROBLEM"
+  },
+  {
+    "aphasia quotient": "TEST"
+  },
+  {
     "unintelligible speech": "PROBLEM"
   },
   {
@@ -46,5 +67,35 @@
   },
   {
     "speech generating device": "TREATMENT"
+  },
+  {
+    "g-tube": "TREATMENT"
+  },
+  {
+    "aphasia": "PROBLEM"
+  },
+  {
+    "language evaluation": "TEST"
+  },
+  {
+    "western aphasia battery": "TEST"
+  },
+  {
+    "skilled speech therapy": "TREATMENT"
+  },
+  {
+    "swallowing function": "PROBLEM"
+  },
+  {
+    "speech therapy": "TREATMENT"
+  },
+  {
+    "therapy": "TREATMENT"
+  },
+  {
+    "swallowing": "PROBLEM"
+  },
+  {
+    "aspiration": "PROBLEM"
   }
 ]

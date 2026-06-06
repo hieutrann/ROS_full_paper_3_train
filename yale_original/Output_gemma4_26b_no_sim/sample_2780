@@ -1,5 +1,8 @@
 [
   {
+    "lesions": "PROBLEM"
+  },
+  {
     "Pancreatic and left adrenal lesions": "PROBLEM"
   },
   {
@@ -18,7 +21,10 @@
     "neoplasm": "PROBLEM"
   },
   {
-    "pancreatic and left adrenal lesions": "PROBLEM"
+    "pancreatic lesions": "PROBLEM"
+  },
+  {
+    "left adrenal lesions": "PROBLEM"
   },
   {
     "pancreatic lesion": "PROBLEM"
@@ -60,7 +66,7 @@
     "CAT scan": "TEST"
   },
   {
-    "1.8-cm lesion": "PROBLEM"
+    "lesion": "PROBLEM"
   },
   {
     "left adrenal gland": "PROBLEM"
@@ -165,10 +171,7 @@
     "chest pain": "PROBLEM"
   },
   {
-    "exertional shortness of breath": "PROBLEM"
-  },
-  {
-    "GI problems": "PROBLEM"
+    "shortness of breath": "PROBLEM"
   },
   {
     "frequent urination": "PROBLEM"
@@ -192,13 +195,16 @@
     "bruit": "PROBLEM"
   },
   {
-    "S3 or S4 gallop": "PROBLEM"
+    "S3 gallop": "PROBLEM"
+  },
+  {
+    "S4 gallop": "PROBLEM"
   },
   {
     "murmur": "PROBLEM"
   },
   {
-    "distant heart sounds": "PROBLEM"
+    "heart sounds": "PROBLEM"
   },
   {
     "Obese": "PROBLEM"
@@ -219,7 +225,10 @@
     "Bilateral peripheral pulses": "TEST"
   },
   {
-    "left adrenal and pancreatic lesions": "PROBLEM"
+    "left adrenal lesions": "PROBLEM"
+  },
+  {
+    "pancreatic lesions": "PROBLEM"
   },
   {
     "adrenal lesion": "PROBLEM"
@@ -243,16 +252,28 @@
     "ERCP": "TEST"
   },
   {
-    "biopsy": "TEST"
+    "biopsy": "TREATMENT"
   },
   {
     "x-rays": "TEST"
   },
   {
+    "Radiology": "TEST"
+  },
+  {
+    "operative intervention": "TREATMENT"
+  },
+  {
     "esophagogastroduodenoscopy": "TEST"
   },
   {
-    "pancreatic, adrenal, lesion": "PROBLEM"
+    "pancreatic": "PROBLEM"
+  },
+  {
+    "adrenal": "PROBLEM"
+  },
+  {
+    "lesion": "PROBLEM"
   },
   {
     "ercp": "TEST"

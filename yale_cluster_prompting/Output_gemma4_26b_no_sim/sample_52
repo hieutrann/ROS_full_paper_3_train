@@ -39,9 +39,6 @@
     "Fasting blood sugar": "TEST"
   },
   {
-    "VITAL SIGNS": "TEST"
-  },
-  {
     "Blood pressure": "TEST"
   },
   {
@@ -69,13 +66,13 @@
     "wheezing": "PROBLEM"
   },
   {
-    "Fine crepitations": "PROBLEM"
+    "crepitations": "PROBLEM"
   },
   {
     "PMI": "TEST"
   },
   {
-    "First and second heart sounds": "TEST"
+    "heart sounds": "TEST"
   },
   {
     "systolic murmur": "PROBLEM"
@@ -142,9 +139,6 @@
   },
   {
     "atherosclerotic coronary vascular disease": "PROBLEM"
-  },
-  {
-    "icd implantation": "TREATMENT"
   },
   {
     "atrial fibrillation": "PROBLEM"

@@ -1,9 +1,9 @@
 [
   {
-    "Stasis Ulcer": "PROBLEM"
+    "stasis ulcer": "PROBLEM"
   },
   {
-    "Nonhealing right ankle stasis ulcer": "PROBLEM"
+    "right ankle stasis ulcer": "PROBLEM"
   },
   {
     "hypertension": "PROBLEM"
@@ -18,7 +18,7 @@
     "vascular surgery": "TREATMENT"
   },
   {
-    "low-grade fever": "PROBLEM"
+    "fever": "PROBLEM"
   },
   {
     "ankle pain": "PROBLEM"
@@ -45,7 +45,16 @@
     "Enterobacter": "PROBLEM"
   },
   {
-    "low-grade fevers": "PROBLEM"
+    "malaise": "PROBLEM"
+  },
+  {
+    "fevers": "PROBLEM"
+  },
+  {
+    "chills": "PROBLEM"
+  },
+  {
+    "diplopia": "PROBLEM"
   },
   {
     "sinus congestion": "PROBLEM"
@@ -78,7 +87,10 @@
     "venous insufficiency": "PROBLEM"
   },
   {
-    "chronic recurrent stasis ulcers": "PROBLEM"
+    "stasis ulcers": "PROBLEM"
+  },
+  {
+    "alcohol drinking": "TREATMENT"
   },
   {
     "Primaxin": "DRUG"
@@ -117,7 +129,7 @@
     "Lortab": "DRUG"
   },
   {
-    "multivitamins with minerals": "DRUG"
+    "multivitamins": "DRUG"
   },
   {
     "Heart rate": "TEST"
@@ -135,9 +147,6 @@
     "oxygen saturation": "TEST"
   },
   {
-    "cervical lymphadenopathy": "PROBLEM"
-  },
-  {
     "hyperpigmentation": "PROBLEM"
   },
   {
@@ -145,9 +154,6 @@
   },
   {
     "erythema": "PROBLEM"
-  },
-  {
-    "tenderness": "PROBLEM"
   },
   {
     "White blood cell count": "TEST"
@@ -186,19 +192,10 @@
     "Chest x-ray": "TEST"
   },
   {
-    "chronic bibasilar subsegmental atelectasis": "PROBLEM"
+    "atelectasis": "PROBLEM"
   },
   {
     "chronic ileus": "PROBLEM"
-  },
-  {
-    "Fevers": "PROBLEM"
-  },
-  {
-    "Right leg/ankle cellulitis": "PROBLEM"
-  },
-  {
-    "Chronic recurrent bilateral ankle venous ulcers": "PROBLEM"
   },
   {
     "blood cultures": "TEST"

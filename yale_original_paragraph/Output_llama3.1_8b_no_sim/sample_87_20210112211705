@@ -15,18 +15,30 @@
     "white count": "TEST"
   },
   {
-    "antibiotics": "DRUG"
-  },
-  {
     "penicillin": "DRUG"
   },
   {
-    "LP": "TREATMENT"
+    "antibiotics": "DRUG"
   },
   {
-    "blood cultures": "TEST"
+    "LP": "TEST"
   },
   {
-    "CSF": "TEST"
+    "Gram-stain": "TEST"
+  },
+  {
+    "CSF glucose": "TEST"
+  },
+  {
+    "CSF protein": "TEST"
+  },
+  {
+    "CSF cells": "TEST"
+  },
+  {
+    "IV antibiotics": "TREATMENT"
+  },
+  {
+    "p.o. antibiotics": "TREATMENT"
   }
 ]

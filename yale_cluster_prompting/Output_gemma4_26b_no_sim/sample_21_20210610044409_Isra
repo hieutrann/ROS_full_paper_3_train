@@ -3,13 +3,16 @@
     "Nausea & Vomiting": "PROBLEM"
   },
   {
-    "intractable nausea and vomiting": "PROBLEM"
+    "intractable nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
   },
   {
     "blood-tinged vomit": "PROBLEM"
   },
   {
-    "intractable nausea": "PROBLEM"
+    "nausea": "PROBLEM"
   },
   {
     "vomiting": "PROBLEM"
@@ -33,16 +36,16 @@
     "total bilirubin": "TEST"
   },
   {
-    "ketones": "TEST"
+    "ketones": "PROBLEM"
   },
   {
-    "protein": "TEST"
+    "protein": "PROBLEM"
   },
   {
-    "esterase": "TEST"
+    "esterase": "PROBLEM"
   },
   {
-    "rbc": "TEST"
+    "rbc": "PROBLEM"
   },
   {
     "bacteria": "PROBLEM"
@@ -78,6 +81,9 @@
     "vomiting": "PROBLEM"
   },
   {
+    "vomiting": "PROBLEM"
+  },
+  {
     "Maalox": "DRUG"
   },
   {
@@ -108,7 +114,7 @@
     "iv hydration": "TREATMENT"
   },
   {
-    "elevated alt": "TEST"
+    "elevated alt": "PROBLEM"
   },
   {
     "nausea": "PROBLEM"

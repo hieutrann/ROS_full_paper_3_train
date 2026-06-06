@@ -9,7 +9,10 @@
     "paroxysmal nocturnal dyspnea": "PROBLEM"
   },
   {
-    "cough with greenish expectoration": "PROBLEM"
+    "cough": "PROBLEM"
+  },
+  {
+    "greenish expectoration": "PROBLEM"
   },
   {
     "shortness of breath": "PROBLEM"
@@ -31,9 +34,6 @@
   },
   {
     "Fasting blood sugar": "TEST"
-  },
-  {
-    "VITAL SIGNS": "TEST"
   },
   {
     "anemia": "PROBLEM"

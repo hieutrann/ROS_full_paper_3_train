@@ -18,9 +18,6 @@
     "dental disease": "PROBLEM"
   },
   {
-    "teeth pulled": "TREATMENT"
-  },
-  {
     "tooth pain": "PROBLEM"
   },
   {
@@ -34,9 +31,6 @@
   },
   {
     "knee pain": "PROBLEM"
-  },
-  {
-    "pain medicines": "DRUG"
   },
   {
     "toothache": "PROBLEM"
@@ -99,9 +93,6 @@
     "chest pain": "PROBLEM"
   },
   {
-    "RESPIRATIONS": "TEST"
-  },
-  {
     "shortness of breath": "PROBLEM"
   },
   {
@@ -123,7 +114,10 @@
     "back pain": "PROBLEM"
   },
   {
-    "muscle or joint aches": "PROBLEM"
+    "muscle aches": "PROBLEM"
+  },
+  {
+    "joint aches": "PROBLEM"
   },
   {
     "rashes": "PROBLEM"
@@ -132,7 +126,7 @@
     "lesions": "PROBLEM"
   },
   {
-    "vision change": "PROBLEM"
+    "vision": "TEST"
   },
   {
     "hearing change": "PROBLEM"
@@ -165,12 +159,6 @@
     "smoker": "PROBLEM"
   },
   {
-    "PHYSICAL EXAMINATION": "TEST"
-  },
-  {
-    "VITAL SIGNS": "TEST"
-  },
-  {
     "Temperature": "TEST"
   },
   {
@@ -189,9 +177,6 @@
     "overweight": "PROBLEM"
   },
   {
-    "acute distress": "PROBLEM"
-  },
-  {
     "icterus": "PROBLEM"
   },
   {
@@ -199,6 +184,9 @@
   },
   {
     "discharge": "PROBLEM"
+  },
+  {
+    "Pupils": "TEST"
   },
   {
     "light sensitivity": "PROBLEM"
@@ -237,7 +225,7 @@
     "audible congestion": "PROBLEM"
   },
   {
-    "tenderness over the sinuses": "PROBLEM"
+    "tenderness": "PROBLEM"
   },
   {
     "meningismus": "PROBLEM"
@@ -253,6 +241,9 @@
   },
   {
     "tenderness": "PROBLEM"
+  },
+  {
+    "gums": "TEST"
   },
   {
     "erythema": "PROBLEM"
@@ -306,12 +297,6 @@
     "shortness of breath": "PROBLEM"
   },
   {
-    "Abdomen": "TEST"
-  },
-  {
-    "abnormalities": "PROBLEM"
-  },
-  {
     "rashes": "PROBLEM"
   },
   {
@@ -321,28 +306,25 @@
     "Cranial nerves II through XII": "TEST"
   },
   {
+    "speech": "TEST"
+  },
+  {
+    "ambulation": "TEST"
+  },
+  {
     "cervical lymphadenopathy": "PROBLEM"
   },
   {
-    "pain shot": "TREATMENT"
+    "pain": "PROBLEM"
   },
   {
     "Dilaudid": "DRUG"
-  },
-  {
-    "adverse reaction": "PROBLEM"
   },
   {
     "ODONTALGIA": "PROBLEM"
   },
   {
     "MULTIPLE DENTAL CARIES": "PROBLEM"
-  },
-  {
-    "Stable": "PROBLEM"
-  },
-  {
-    "reevaluation": "TEST"
   },
   {
     "Percocet": "DRUG"

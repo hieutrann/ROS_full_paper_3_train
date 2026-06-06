@@ -81,6 +81,9 @@
     "swelling in the area": "PROBLEM"
   },
   {
+    "respiratory distress": "PROBLEM"
+  },
+  {
     "temperature": "TEST"
   },
   {
@@ -102,7 +105,16 @@
     "posterior chains node": "PROBLEM"
   },
   {
+    "nontender": "PROBLEM"
+  },
+  {
     "swelling in this area": "PROBLEM"
+  },
+  {
+    "breath sounds": "TEST"
+  },
+  {
+    "murmur": "PROBLEM"
   },
   {
     "hepatosplenomegaly": "PROBLEM"

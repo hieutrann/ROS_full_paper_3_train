@@ -1,12 +1,12 @@
 [
   {
-    "left renal cell carcinoma": "PROBLEM"
+    "renal cell carcinoma": "PROBLEM"
   },
   {
-    "left renal cyst": "PROBLEM"
+    "renal cyst": "PROBLEM"
   },
   {
-    "robotic - Assisted laparoscopic left renal cyst decortication": "TREATMENT"
+    "robotic-Assisted laparoscopic left renal cyst decortication": "TREATMENT"
   },
   {
     "cystoscopy": "TEST"
@@ -21,85 +21,49 @@
     "MRI": "TEST"
   },
   {
-    "abdomen": "TEST"
+    "left partial nephrectomy": "TREATMENT"
   },
   {
-    "Left partial nephrectomy": "TREATMENT"
+    "left radical nephrectomy": "TREATMENT"
   },
   {
-    "Left radical nephrectomy": "TREATMENT"
-  },
-  {
-    "Left renal cyst decortication": "TREATMENT"
+    "left renal cyst decortication": "TREATMENT"
   },
   {
     "renal cysts": "PROBLEM"
   },
   {
-    "cyst wall": "PROBLEM"
+    "cystoscopy": "TEST"
+  },
+  {
+    "renal cysts": "PROBLEM"
   },
   {
     "cystic fluid": "PROBLEM"
   },
   {
-    "renal bed": "PROBLEM"
-  },
-  {
     "hemostasis": "PROBLEM"
   },
   {
-    "JP drain": "PROBLEM"
+    "JP drain": "TREATMENT"
   },
   {
     "flexible cystoscopy": "TEST"
   },
   {
-    "penile": "PROBLEM"
+    "gross strictures": "PROBLEM"
   },
   {
-    "prostatic urethra": "PROBLEM"
+    "gross lesions": "PROBLEM"
   },
   {
-    "bladder": "PROBLEM"
+    "Jackson-Pratt drain": "TREATMENT"
   },
   {
-    "OR": "PROBLEM"
-  },
-  {
-    "PACU": "PROBLEM"
-  },
-  {
-    "postoperative": "PROBLEM"
-  },
-  {
-    "flatus": "PROBLEM"
-  },
-  {
-    "bowel movements": "PROBLEM"
-  },
-  {
-    "Jackson-Pratt drain": "PROBLEM"
-  },
-  {
-    "Foley catheter": "PROBLEM"
+    "Foley catheter": "TREATMENT"
   },
   {
     "voiding trial": "TEST"
-  },
-  {
-    "discharge": "PROBLEM"
-  },
-  {
-    "afebrile": "PROBLEM"
-  },
-  {
-    "vital signs": "TEST"
-  },
-  {
-    "hemodynamic stability": "PROBLEM"
-  },
-  {
-    "infection": "PROBLEM"
   },
   {
     "pain medications": "DRUG"
@@ -118,11 +82,5 @@
   },
   {
     "vomiting": "PROBLEM"
-  },
-  {
-    "concerns": "PROBLEM"
-  },
-  {
-    "postoperative check": "PROBLEM"
   }
 ]

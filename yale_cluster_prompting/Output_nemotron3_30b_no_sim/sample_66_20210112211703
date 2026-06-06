@@ -1,0 +1,356 @@
+[
+  {
+    "Antibiotic Therapy Consult": "TREATMENT"
+  },
+  {
+    "possible lower extremity cellulitis": "PROBLEM"
+  },
+  {
+    "morbid obesity": "PROBLEM"
+  },
+  {
+    "chronic lower extremity lymphedema": "PROBLEM"
+  },
+  {
+    "wound care center": "TREATMENT"
+  },
+  {
+    "lower extremity edema": "PROBLEM"
+  },
+  {
+    "cellulitis": "PROBLEM"
+  },
+  {
+    "Bactrim": "DRUG"
+  },
+  {
+    "ciprofloxacin": "DRUG"
+  },
+  {
+    "lymphedema": "PROBLEM"
+  },
+  {
+    "Long-Term Acute Care Facility": "TREATMENT"
+  },
+  {
+    "stage II ulcer": "PROBLEM"
+  },
+  {
+    "medial aspect of left leg": "PROBLEM"
+  },
+  {
+    "bilateral lower calf": "PROBLEM"
+  },
+  {
+    "shin areas": "PROBLEM"
+  },
+  {
+    "lymphedema wraps": "TREATMENT"
+  },
+  {
+    "lower extremity cellulitis": "PROBLEM"
+  },
+  {
+    "antibiotic therapy": "TREATMENT"
+  },
+  {
+    "morbid obesity": "PROBLEM"
+  },
+  {
+    "chronic lymphedema of the lower extremities": "PROBLEM"
+  },
+  {
+    "spastic colon": "PROBLEM"
+  },
+  {
+    "knee arthritis": "PROBLEM"
+  },
+  {
+    "recurrent cellulitis of the lower extremities": "PROBLEM"
+  },
+  {
+    "hysterectomy": "PROBLEM"
+  },
+  {
+    "cholecystectomy": "PROBLEM"
+  },
+  {
+    "ex-smoker": "PROBLEM"
+  },
+  {
+    "wine": "DRUG"
+  },
+  {
+    "recreational drugs": "PROBLEM"
+  },
+  {
+    "psychiatric aide": "PROBLEM"
+  },
+  {
+    "heart problems": "PROBLEM"
+  },
+  {
+    "alcoholism": "PROBLEM"
+  },
+  {
+    "leukemia": "PROBLEM"
+  },
+  {
+    "leukemia": "PROBLEM"
+  },
+  {
+    "ADHESIVE TAPE ALLERGIES": "PROBLEM"
+  },
+  {
+    "nonresolving bilateral lower extremity lymphedema": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "diarrhea": "PROBLEM"
+  },
+  {
+    "pain": "PROBLEM"
+  },
+  {
+    "tenderness": "PROBLEM"
+  },
+  {
+    "increased warmth": "PROBLEM"
+  },
+  {
+    "drainage": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "phlegm production": "PROBLEM"
+  },
+  {
+    "morbidly obese": "PROBLEM"
+  },
+  {
+    "temperature": "TEST"
+  },
+  {
+    "pulse": "TEST"
+  },
+  {
+    "respiratory rate": "TEST"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "Pupils are equal, round, and reactive to light": "TEST"
+  },
+  {
+    "Extraocular movements": "TEST"
+  },
+  {
+    "Head is normocephalic and external ear exam is normal.": "TEST"
+  },
+  {
+    "Neck: Supple.": "PROBLEM"
+  },
+  {
+    "lymphadenopathy": "PROBLEM"
+  },
+  {
+    "Regular rate and rhythm of the heart without any appreciable murmur, rub or gallop": "TEST"
+  },
+  {
+    "Heart sounds are little distant secondary to thick chest wall.": "TEST"
+  },
+  {
+    "Lungs: Clear to auscultation and percussion bilaterally.": "TEST"
+  },
+  {
+    "Morbidly obese": "PROBLEM"
+  },
+  {
+    "soft": "PROBLEM"
+  },
+  {
+    "nontender": "PROBLEM"
+  },
+  {
+    "nondistended": "PROBLEM"
+  },
+  {
+    "no percussible organomegaly": "PROBLEM"
+  },
+  {
+    "no evidence of lymphedema": "PROBLEM"
+  },
+  {
+    "lymphedema on the abdominal pannus": "PROBLEM"
+  },
+  {
+    "cutaneous candidiasis": "PROBLEM"
+  },
+  {
+    "palpable lymphadenopathy": "PROBLEM"
+  },
+  {
+    "lymphedema": "PROBLEM"
+  },
+  {
+    "stasis dermatosis": "PROBLEM"
+  },
+  {
+    "chronic ulcer": "PROBLEM"
+  },
+  {
+    "serosanguineous drainage": "PROBLEM"
+  },
+  {
+    "cellulitis": "PROBLEM"
+  },
+  {
+    "wound infection": "PROBLEM"
+  },
+  {
+    "cyanosis": "PROBLEM"
+  },
+  {
+    "clubbing": "PROBLEM"
+  },
+  {
+    "endocarditis": "PROBLEM"
+  },
+  {
+    "alert and oriented x3": "PROBLEM"
+  },
+  {
+    "cranial nerves II through XII": "PROBLEM"
+  },
+  {
+    "no focal deficit": "PROBLEM"
+  },
+  {
+    "White cell count": "TEST"
+  },
+  {
+    "hemoglobin": "TEST"
+  },
+  {
+    "hematocrit": "TEST"
+  },
+  {
+    "platelet count": "TEST"
+  },
+  {
+    "differential": "TEST"
+  },
+  {
+    "electrolyte panel": "TEST"
+  },
+  {
+    "BUN": "TEST"
+  },
+  {
+    "creatinine": "TEST"
+  },
+  {
+    "Liver function tests": "TEST"
+  },
+  {
+    "MRSA": "TEST"
+  },
+  {
+    "Urine culture": "TEST"
+  },
+  {
+    "pyuria": "PROBLEM"
+  },
+  {
+    "leucocyte esterase": "TEST"
+  },
+  {
+    "nitrites": "TEST"
+  },
+  {
+    "morbid obesity": "PROBLEM"
+  },
+  {
+    "chronic lower extremity lymphedema": "PROBLEM"
+  },
+  {
+    "bilateral lower extremity lymphedema": "PROBLEM"
+  },
+  {
+    "cellulitis": "PROBLEM"
+  },
+  {
+    "wound infection": "PROBLEM"
+  },
+  {
+    "cellulitis": "PROBLEM"
+  },
+  {
+    "lymphedema wraps": "TREATMENT"
+  },
+  {
+    "lymphedema wraps": "TREATMENT"
+  },
+  {
+    "cellulitis": "PROBLEM"
+  },
+  {
+    "antibiotic therapy": "TREATMENT"
+  },
+  {
+    "stage II ulcer on the right leg": "PROBLEM"
+  },
+  {
+    "lymphoma wraps": "TREATMENT"
+  },
+  {
+    "Plastic Surgery and Lymphedema Management Clinic": "PROBLEM"
+  },
+  {
+    "bilateral lower extremity": "PROBLEM"
+  },
+  {
+    "lower extremity cellulitis": "PROBLEM"
+  },
+  {
+    "lower extremity lymphedema": "PROBLEM"
+  },
+  {
+    "active cellulitis": "PROBLEM"
+  },
+  {
+    "morbid obesity": "PROBLEM"
+  },
+  {
+    "lymphedema wraps": "TREATMENT"
+  },
+  {
+    "antibiotic therapy": "TREATMENT"
+  },
+  {
+    "lower extremity": "PROBLEM"
+  },
+  {
+    "cellulitis": "PROBLEM"
+  },
+  {
+    "lymphedema": "PROBLEM"
+  },
+  {
+    "antibiotic": "DRUG"
+  },
+  {
+    "therapy": "TREATMENT"
+  }
+]

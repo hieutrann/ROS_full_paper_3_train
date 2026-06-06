@@ -33,10 +33,7 @@
     "blood sugar": "TEST"
   },
   {
-    "40": "PROBLEM"
-  },
-  {
-    "D50": "DRUG"
+    "D50": "TREATMENT"
   },
   {
     "mental status": "PROBLEM"
@@ -48,7 +45,7 @@
     "somnolent": "PROBLEM"
   },
   {
-    "recurrent UTIs": "PROBLEM"
+    "UTIs": "PROBLEM"
   },
   {
     "urinary tract infection": "PROBLEM"
@@ -63,7 +60,7 @@
     "Foley catheter": "TREATMENT"
   },
   {
-    "right - sided CVA": "PROBLEM"
+    "CVA": "PROBLEM"
   },
   {
     "atrial fibrillation": "PROBLEM"
@@ -171,7 +168,7 @@
     "Reglan": "DRUG"
   },
   {
-    "Nystatin": "DRUG"
+    "Nystatin powder": "DRUG"
   },
   {
     "oxygen": "TREATMENT"
@@ -186,9 +183,6 @@
     "temperature": "TEST"
   },
   {
-    "Weight": "TEST"
-  },
-  {
     "Urine output": "TEST"
   },
   {
@@ -198,16 +192,22 @@
     "rash": "PROBLEM"
   },
   {
-    "Regular rhythm": "PROBLEM"
+    "neck": "PROBLEM"
+  },
+  {
+    "Regular rhythm": "TEST"
   },
   {
     "pacemaker": "TREATMENT"
   },
   {
+    "obese": "PROBLEM"
+  },
+  {
     "Bilateral lower extremities edema": "PROBLEM"
   },
   {
-    "mild aphasia": "PROBLEM"
+    "aphasia": "PROBLEM"
   },
   {
     "BUN": "TEST"
@@ -243,10 +243,7 @@
     "Cultures": "TEST"
   },
   {
-    "culture": "TEST"
-  },
-  {
-    "guaiac negative status": "TEST"
+    "guaiac": "TEST"
   },
   {
     "Septra": "DRUG"
@@ -268,9 +265,6 @@
   },
   {
     "Coumadin": "DRUG"
-  },
-  {
-    "poor quality of life": "PROBLEM"
   },
   {
     "hospice": "TREATMENT"
@@ -307,9 +301,6 @@
   },
   {
     "Neurontin": "DRUG"
-  },
-  {
-    "pain": "PROBLEM"
   },
   {
     "Percocet": "DRUG"
@@ -349,6 +340,9 @@
   },
   {
     "decreased level of consciousness": "PROBLEM"
+  },
+  {
+    "level of consciousness": "TEST"
   },
   {
     "urinary tract infection": "PROBLEM"

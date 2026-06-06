@@ -1,33 +1,15 @@
 [
   {
-    "General Medicine": "TEST"
+    "General Medicine": "DRUG"
   },
   {
     "Normal Physical Exam Template": "TEST"
   },
   {
-    "Normal Physical Exam Template - 5": "TEST"
-  },
-  {
-    "Well developed": "PROBLEM"
-  },
-  {
-    "Well nourished": "PROBLEM"
-  },
-  {
-    "alert": "PROBLEM"
+    "General Medicine": "DRUG"
   },
   {
     "acute distress": "PROBLEM"
-  },
-  {
-    "Well developed": "TEST"
-  },
-  {
-    "Well nourished": "TEST"
-  },
-  {
-    "alert": "TEST"
   },
   {
     "acute distress": "PROBLEM"
@@ -36,10 +18,10 @@
     "GCS": "TEST"
   },
   {
-    "VITAL SIGNS": "TEST"
+    "nontoxic": "PROBLEM"
   },
   {
-    "Blood pressure": "TEST"
+    "blood pressure": "TEST"
   },
   {
     "pulse": "TEST"
@@ -54,22 +36,19 @@
     "Pulse oximetry": "TEST"
   },
   {
-    "HEENT": "TEST"
+    "Eyes": "PROBLEM"
   },
   {
-    "Eyes": "TEST"
+    "Lids": "PROBLEM"
   },
   {
-    "Lids": "TEST"
-  },
-  {
-    "conjunctiva": "TEST"
+    "conjunctiva": "PROBLEM"
   },
   {
     "lesions": "PROBLEM"
   },
   {
-    "pupils": "PROBLEM"
+    "Pupils": "TEST"
   },
   {
     "Irises": "PROBLEM"
@@ -84,19 +63,19 @@
     "discopathy": "PROBLEM"
   },
   {
-    "Ears": "PROBLEM"
-  },
-  {
-    "Nose": "PROBLEM"
-  },
-  {
-    "Mouth": "PROBLEM"
-  },
-  {
-    "throat": "PROBLEM"
-  },
-  {
     "lesions": "PROBLEM"
+  },
+  {
+    "ears": "TEST"
+  },
+  {
+    "nose": "TEST"
+  },
+  {
+    "mouth": "TEST"
+  },
+  {
+    "throat": "TEST"
   },
   {
     "Nares patent": "PROBLEM"
@@ -105,7 +84,16 @@
     "Septum": "PROBLEM"
   },
   {
-    "Tympanic membranes": "PROBLEM"
+    "tympanic membranes": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "bulging": "PROBLEM"
+  },
+  {
+    "retraction": "PROBLEM"
   },
   {
     "lesion": "PROBLEM"
@@ -114,16 +102,7 @@
     "Hearing": "PROBLEM"
   },
   {
-    "Lips": "PROBLEM"
-  },
-  {
-    "teeth": "PROBLEM"
-  },
-  {
-    "gums": "PROBLEM"
-  },
-  {
-    "palate": "PROBLEM"
+    "lesion": "PROBLEM"
   },
   {
     "erythema": "PROBLEM"
@@ -138,7 +117,10 @@
     "abscess": "PROBLEM"
   },
   {
-    "NECK": "TEST"
+    "Supple": "TREATMENT"
+  },
+  {
+    "symmetric": "TREATMENT"
   },
   {
     "masses": "PROBLEM"
@@ -153,16 +135,16 @@
     "JVD": "PROBLEM"
   },
   {
-    "Neck": "PROBLEM"
+    "nontender": "PROBLEM"
   },
   {
-    "Full range of motion": "TEST"
+    "range of motion": "TEST"
   },
   {
     "pain": "PROBLEM"
   },
   {
-    "RESPIRATORY": "TEST"
+    "respiratory effort": "TEST"
   },
   {
     "auscultation": "TEST"
@@ -171,7 +153,7 @@
     "percussion": "TEST"
   },
   {
-    "Chest": "TEST"
+    "Symmetrical rise and fall": "TEST"
   },
   {
     "Symmetrical expansion": "PROBLEM"
@@ -183,7 +165,10 @@
     "tactile fremitus": "PROBLEM"
   },
   {
-    "CARDIOVASCULAR": "PROBLEM"
+    "rate": "TEST"
+  },
+  {
+    "rhythm": "TEST"
   },
   {
     "murmur": "PROBLEM"
@@ -201,7 +186,7 @@
     "rub": "PROBLEM"
   },
   {
-    "Cardiac palpation": "TEST"
+    "palpation": "TEST"
   },
   {
     "carotid": "TEST"
@@ -228,7 +213,19 @@
     "Bowel sounds": "TEST"
   },
   {
-    "Abdomen": "PROBLEM"
+    "four quadrants": "TEST"
+  },
+  {
+    "nondistended": "PROBLEM"
+  },
+  {
+    "rebound": "PROBLEM"
+  },
+  {
+    "guarding": "PROBLEM"
+  },
+  {
+    "rigidity": "PROBLEM"
   },
   {
     "ecchymosis": "PROBLEM"
@@ -243,7 +240,10 @@
     "pathology": "PROBLEM"
   },
   {
-    "Extremities move": "TEST"
+    "Extremities": "PROBLEM"
+  },
+  {
+    "times four": "TEST"
   },
   {
     "tenderness": "PROBLEM"
@@ -252,7 +252,7 @@
     "effusion": "PROBLEM"
   },
   {
-    "motion": "PROBLEM"
+    "Range of motion": "TEST"
   },
   {
     "Strength": "TEST"
@@ -261,22 +261,19 @@
     "tone": "TEST"
   },
   {
-    "bilaterally": "TEST"
-  },
-  {
-    "stable": "TEST"
+    "percussion": "TEST"
   },
   {
     "Nontender": "PROBLEM"
   },
   {
-    "BACK": "TEST"
+    "midline": "PROBLEM"
   },
   {
-    "Full range of motion": "TEST"
+    "range of motion": "TEST"
   },
   {
-    "SKIN": "TEST"
+    "normal limits": "PROBLEM"
   },
   {
     "hydrated": "PROBLEM"
@@ -303,9 +300,6 @@
     "DTRs": "TEST"
   },
   {
-    "symmetric": "PROBLEM"
-  },
-  {
     "elbow": "TEST"
   },
   {
@@ -316,6 +310,15 @@
   },
   {
     "Motor strength": "TEST"
+  },
+  {
+    "4/4": "TEST"
+  },
+  {
+    "bilateral upper extremity": "PROBLEM"
+  },
+  {
+    "bilateral lower extremity": "PROBLEM"
   },
   {
     "Straight leg raise": "TEST"
@@ -366,24 +369,24 @@
     "strength": "TEST"
   },
   {
-    "lymph": "TEST"
+    "lymph": "PROBLEM"
   },
   {
-    "extremity": "TEST"
+    "extremity": "PROBLEM"
   },
   {
-    "midline": "TEST"
+    "midline": "PROBLEM"
   },
   {
-    "range": "TEST"
+    "range": "PROBLEM"
   },
   {
-    "motion": "TEST"
+    "motion": "PROBLEM"
   },
   {
     "lesions": "PROBLEM"
   },
   {
-    "symmetrical": "TEST"
+    "symmetrical": "PROBLEM"
   }
 ]

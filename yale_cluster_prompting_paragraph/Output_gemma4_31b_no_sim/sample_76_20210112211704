@@ -6,10 +6,10 @@
     "urinary tract infection": "PROBLEM"
   },
   {
-    "VITAL SIGNS": "TEST"
+    "Temperature": "TEST"
   },
   {
-    "Temperature": "TEST"
+    "heart sounds": "TEST"
   },
   {
     "murmurs": "PROBLEM"
@@ -18,10 +18,10 @@
     "Right renal angle is tender": "PROBLEM"
   },
   {
-    "swelling": "PROBLEM"
+    "Bowel sounds": "TEST"
   },
   {
-    "LABORATORY DATA": "TEST"
+    "swelling": "PROBLEM"
   },
   {
     "White count": "TEST"
@@ -115,8 +115,5 @@
   },
   {
     "troponin": "TEST"
-  },
-  {
-    "infection": "PROBLEM"
   }
 ]

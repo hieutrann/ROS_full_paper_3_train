@@ -1,0 +1,167 @@
+[
+  {
+    "MS": "PROBLEM"
+  },
+  {
+    "cognition": "PROBLEM"
+  },
+  {
+    "ambulation": "PROBLEM"
+  },
+  {
+    "MRI changes": "TEST"
+  },
+  {
+    "CSF": "TEST"
+  },
+  {
+    "OCB": "TEST"
+  },
+  {
+    "interferon": "DRUG"
+  },
+  {
+    "R leg drags": "PROBLEM"
+  },
+  {
+    "falls": "PROBLEM"
+  },
+  {
+    "heat sensitivity": "PROBLEM"
+  },
+  {
+    "betaseron": "DRUG"
+  },
+  {
+    "thyroid replacement": "TREATMENT"
+  },
+  {
+    "urinary frequency/urgency": "PROBLEM"
+  },
+  {
+    "oxybutynin": "DRUG"
+  },
+  {
+    "right leg weakness": "PROBLEM"
+  },
+  {
+    "numbness": "PROBLEM"
+  },
+  {
+    "MRI": "TEST"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "Penicillins": "DRUG"
+  },
+  {
+    "Flovent HFA": "DRUG"
+  },
+  {
+    "Levoxyl": "DRUG"
+  },
+  {
+    "ProAir HFA": "DRUG"
+  },
+  {
+    "COUGH": "PROBLEM"
+  },
+  {
+    "WHEEZE": "PROBLEM"
+  },
+  {
+    "Pantoprazole Sodium": "DRUG"
+  },
+  {
+    "Rebif": "DRUG"
+  },
+  {
+    "primary syphilis": "PROBLEM"
+  },
+  {
+    "Asthma": "PROBLEM"
+  },
+  {
+    "Hypertension": "PROBLEM"
+  },
+  {
+    "BMI": "TEST"
+  },
+  {
+    "BSA": "TEST"
+  },
+  {
+    "dysphasia/aphasia": "PROBLEM"
+  },
+  {
+    "visual acuity": "TEST"
+  },
+  {
+    "visual fields": "TEST"
+  },
+  {
+    "extraocular motions": "TEST"
+  },
+  {
+    "sensation": "TEST"
+  },
+  {
+    "masseter strength": "TEST"
+  },
+  {
+    "facial strength": "TEST"
+  },
+  {
+    "hearing": "TEST"
+  },
+  {
+    "tongue deviation": "PROBLEM"
+  },
+  {
+    "hypertonic": "PROBLEM"
+  },
+  {
+    "deep tendon reflexes": "TEST"
+  },
+  {
+    "Babinski reflex": "TEST"
+  },
+  {
+    "Ankle Clonus": "PROBLEM"
+  },
+  {
+    "Gait: spastic": "PROBLEM"
+  },
+  {
+    "response to touch stimulation": "TEST"
+  },
+  {
+    "response to stimulation by vibration": "TEST"
+  },
+  {
+    "response to pain and temperature stimulation": "TEST"
+  },
+  {
+    "CBC": "TEST"
+  },
+  {
+    "LFT": "TEST"
+  },
+  {
+    "Fe": "TEST"
+  },
+  {
+    "TIBC": "TEST"
+  },
+  {
+    "Multiple Sclerosis": "PROBLEM"
+  },
+  {
+    "Dyspepsia": "PROBLEM"
+  },
+  {
+    "relapsing-remitting MS": "PROBLEM"
+  }
+]

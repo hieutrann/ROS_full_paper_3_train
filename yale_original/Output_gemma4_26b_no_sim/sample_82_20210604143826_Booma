@@ -3,31 +3,31 @@
     "hypertension": "PROBLEM"
   },
   {
-    "severe tricuspid regurgitation": "PROBLEM"
+    "tricuspid regurgitation": "PROBLEM"
   },
   {
-    "mild pulmonary hypertension": "PROBLEM"
+    "pulmonary hypertension": "PROBLEM"
   },
   {
-    "mild aortic stenosis": "PROBLEM"
+    "aortic stenosis": "PROBLEM"
   },
   {
-    "moderate mitral regurgitation": "PROBLEM"
+    "mitral regurgitation": "PROBLEM"
   },
   {
     "hypertension": "PROBLEM"
   },
   {
-    "severe tricuspid regurgitation": "PROBLEM"
+    "tricuspid regurgitation": "PROBLEM"
   },
   {
-    "mild pulmonary hypertension": "PROBLEM"
+    "pulmonary hypertension": "PROBLEM"
   },
   {
-    "mild aortic stenosis": "PROBLEM"
+    "aortic stenosis": "PROBLEM"
   },
   {
-    "moderate mitral regurgitation": "PROBLEM"
+    "mitral regurgitation": "PROBLEM"
   },
   {
     "atrial fibrillation": "PROBLEM"
@@ -57,7 +57,7 @@
     "wandering atrial pacemaker": "PROBLEM"
   },
   {
-    "An ECG": "TEST"
+    "ECG": "TEST"
   },
   {
     "normal sinus rhythm": "PROBLEM"
@@ -81,10 +81,10 @@
     "shortness of breath": "PROBLEM"
   },
   {
-    "severe tricuspid regurgitation": "PROBLEM"
+    "tricuspid regurgitation": "PROBLEM"
   },
   {
-    "mild elevation and PA pressure": "PROBLEM"
+    "PA pressure": "TEST"
   },
   {
     "left and right ventricular systolic function": "TEST"
@@ -99,7 +99,10 @@
     "bi-atrial enlargement": "PROBLEM"
   },
   {
-    "Persantine Myoview nuclear rest-stress test scan": "TEST"
+    "Persantine": "DRUG"
+  },
+  {
+    "Myoview nuclear rest-stress test scan": "TEST"
   },
   {
     "mitral valve regurgitation": "PROBLEM"
@@ -117,7 +120,7 @@
     "normal sinus rhythm": "PROBLEM"
   },
   {
-    "frequent APCs": "PROBLEM"
+    "APCs": "PROBLEM"
   },
   {
     "wandering atrial pacemaker": "PROBLEM"
@@ -180,6 +183,15 @@
     "MI": "PROBLEM"
   },
   {
+    "cigarettes": "DRUG"
+  },
+  {
+    "alcohol": "DRUG"
+  },
+  {
+    "illicit drugs": "DRUG"
+  },
+  {
     "stroke": "PROBLEM"
   },
   {
@@ -220,6 +232,9 @@
   },
   {
     "sleep apnea": "PROBLEM"
+  },
+  {
+    "home oxygen use": "TREATMENT"
   },
   {
     "peripheral edema": "PROBLEM"
@@ -270,9 +285,6 @@
     "hard of hearing": "PROBLEM"
   },
   {
-    "Neck veins": "TEST"
-  },
-  {
     "carotid bruits": "PROBLEM"
   },
   {
@@ -288,16 +300,10 @@
     "frequent ectopic beats": "PROBLEM"
   },
   {
-    "2/6 systolic ejection murmur": "PROBLEM"
+    "systolic ejection murmur": "PROBLEM"
   },
   {
     "soft holosystolic murmur": "PROBLEM"
-  },
-  {
-    "rub": "TEST"
-  },
-  {
-    "gallop": "TEST"
   },
   {
     "PMI": "PROBLEM"
@@ -315,13 +321,13 @@
     "peripheral edema": "PROBLEM"
   },
   {
-    "Pulses": "TEST"
-  },
-  {
     "left hip fracture": "PROBLEM"
   },
   {
     "chest x-ray": "TEST"
+  },
+  {
+    "calcified aortic knob": "PROBLEM"
   },
   {
     "pulmonary vascular congestion": "PROBLEM"
@@ -402,13 +408,13 @@
     "hypertension": "PROBLEM"
   },
   {
-    "severe tricuspid regurgitation": "PROBLEM"
+    "tricuspid regurgitation": "PROBLEM"
   },
   {
-    "mild pulmonary hypertension": "PROBLEM"
+    "pulmonary hypertension": "PROBLEM"
   },
   {
-    "mild aortic stenosis": "PROBLEM"
+    "aortic stenosis": "PROBLEM"
   },
   {
     "fall": "PROBLEM"
@@ -453,6 +459,9 @@
     "shortness of breath": "PROBLEM"
   },
   {
+    "fall": "PROBLEM"
+  },
+  {
     "left hip surgery": "TREATMENT"
   },
   {
@@ -489,6 +498,9 @@
     "cardiac risks": "PROBLEM"
   },
   {
+    "cardiac evaluation": "TEST"
+  },
+  {
     "thrombocytopenia": "PROBLEM"
   },
   {
@@ -519,9 +531,15 @@
     "atrial tachycardia": "PROBLEM"
   },
   {
-    "cardiac regurgitation": "PROBLEM"
+    "regurgitation": "PROBLEM"
   },
   {
-    "aortic hypertension": "PROBLEM"
+    "aortic": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "pulmonary": "PROBLEM"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "General Medicine": "PROBLEM"
+    "General Medicine": "TEST"
   },
   {
     "shoulder bursitis": "PROBLEM"
@@ -66,7 +66,7 @@
     "Zoloft": "DRUG"
   },
   {
-    "He takes these once a day": "TREATMENT"
+    "day": "TREATMENT"
   },
   {
     "medication": "DRUG"
@@ -81,10 +81,10 @@
     "anger outbursts": "PROBLEM"
   },
   {
-    "PAST MEDICAL/SURGICAL/SOCIAL HISTORY": "TREATMENT"
+    "Medical/Surgical/Social History": "PROBLEM"
   },
   {
-    "VSS": "PROBLEM"
+    "VSS": "TEST"
   },
   {
     "A & Ox3": "DRUG"
@@ -93,10 +93,10 @@
     "NAD": "PROBLEM"
   },
   {
-    "Heart": "PROBLEM"
+    "Heart": "TEST"
   },
   {
-    "Lungs": "PROBLEM"
+    "Lungs": "TEST"
   },
   {
     "HEENT": "TEST"
@@ -114,22 +114,16 @@
     "postnasal drip": "PROBLEM"
   },
   {
-    "Limited in range of motion": "PROBLEM"
+    "range of motion": "PROBLEM"
   },
   {
-    "range of motion": "TEST"
-  },
-  {
-    "active on the right": "TEST"
-  },
-  {
-    "95 degrees": "TEST"
+    "Temperature": "TEST"
   },
   {
     "muscle weakness": "PROBLEM"
   },
   {
-    "Neurovascularly intact": "PROBLEM"
+    "Neurovascularly": "PROBLEM"
   },
   {
     "biceps tenderness": "PROBLEM"
@@ -141,16 +135,16 @@
     "homicidal ideations": "PROBLEM"
   },
   {
-    "questions": "PROBLEM"
+    "questions": "TEST"
   },
   {
     "hallucinations": "PROBLEM"
   },
   {
-    "A/P": "PROBLEM"
+    "A/P": "TREATMENT"
   },
   {
-    "Right shoulder bursitis": "PROBLEM"
+    "bursitis": "PROBLEM"
   },
   {
     "x-ray": "TEST"
@@ -159,13 +153,16 @@
     "fracture": "PROBLEM"
   },
   {
+    "physical therapy": "TREATMENT"
+  },
+  {
     "anti-inflammatories": "DRUG"
   },
   {
     "joint injections": "TREATMENT"
   },
   {
-    "2": "TEST"
+    "2": "TREATMENT"
   },
   {
     "Pharyngitis": "PROBLEM"
@@ -177,7 +174,7 @@
     "Dr.": "TREATMENT"
   },
   {
-    "3": "PROBLEM"
+    "3": "TREATMENT"
   },
   {
     "Attention deficit disorder": "PROBLEM"
@@ -189,60 +186,60 @@
     "management": "TREATMENT"
   },
   {
+    "Prescriptions": "TREATMENT"
+  },
+  {
+    "counseling": "TREATMENT"
+  },
+  {
     "anger issues": "PROBLEM"
   },
   {
     "RTC": "TREATMENT"
   },
   {
-    "adhd": "PROBLEM"
+    "ADHD": "PROBLEM"
   },
   {
-    "attention deficit disorde": "PROBLEM"
+    "Attention Deficit Disorder": "PROBLEM"
   },
   {
-    "pharyngitis": "PROBLEM"
+    "Pharyngitis": "PROBLEM"
   },
   {
-    "anger control": "PROBLEM"
+    "Strep Throat": "PROBLEM"
   },
   {
-    "bursitis": "PROBLEM"
+    "Bursitis": "PROBLEM"
   },
   {
-    "diarrhea": "PROBLEM"
+    "Diarrhea": "PROBLEM"
   },
   {
-    "fevers": "PROBLEM"
+    "Fevers": "PROBLEM"
   },
   {
-    "nausea": "PROBLEM"
+    "Nausea": "PROBLEM"
   },
   {
-    "rashes": "PROBLEM"
+    "Numbness": "PROBLEM"
   },
   {
-    "strep throat": "PROBLEM"
+    "Rashes": "PROBLEM"
   },
   {
-    "vomiting": "PROBLEM"
+    "Shoulder": "PROBLEM"
   },
   {
-    "attention deficit": "PROBLEM"
+    "Vomiting": "PROBLEM"
   },
   {
-    "deficit disorder": "PROBLEM"
+    "Anti-Inflammatories": "DRUG"
   },
   {
-    "anti inflammatories": "DRUG"
+    "Soap": "DRUG"
   },
   {
-    "anti-inflammatories": "DRUG"
-  },
-  {
-    "soap": "DRUG"
-  },
-  {
-    "anger": "PROBLEM"
+    "Anti-Inflammatories": "DRUG"
   }
 ]

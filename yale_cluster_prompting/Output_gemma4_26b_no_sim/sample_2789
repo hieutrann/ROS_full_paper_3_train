@@ -48,9 +48,6 @@
     "migraine headaches": "PROBLEM"
   },
   {
-    "menstrual cycle": "PROBLEM"
-  },
-  {
     "sciatic pain": "PROBLEM"
   },
   {
@@ -94,9 +91,6 @@
   },
   {
     "migraine headaches": "PROBLEM"
-  },
-  {
-    "menstrual cycle": "PROBLEM"
   },
   {
     "floaters": "PROBLEM"
@@ -165,28 +159,10 @@
     "voiding difficulties": "PROBLEM"
   },
   {
-    "temperature": "TEST"
+    "not pregnant": "PROBLEM"
   },
   {
-    "blood pressure": "TEST"
-  },
-  {
-    "heart rate": "TEST"
-  },
-  {
-    "respirations": "TEST"
-  },
-  {
-    "O2 saturation": "TEST"
-  },
-  {
-    "EOMI": "TEST"
-  },
-  {
-    "HEART": "TEST"
-  },
-  {
-    "Bowel sounds": "TEST"
+    "EOMI": "PROBLEM"
   },
   {
     "diffuse edema": "PROBLEM"
@@ -246,16 +222,16 @@
     "Postoperative anemia": "PROBLEM"
   },
   {
-    "Feosol": "DRUG"
+    "Feosol 325 mg": "DRUG"
   },
   {
     "Pain management": "TREATMENT"
   },
   {
-    "Oxycodone SR": "DRUG"
+    "Oxycodone SR 20 mg": "DRUG"
   },
   {
-    "oxycodone IR": "DRUG"
+    "oxycodone IR 5 mg": "DRUG"
   },
   {
     "pain": "PROBLEM"
@@ -300,6 +276,9 @@
     "Colace": "DRUG"
   },
   {
+    "100 mg": "TREATMENT"
+  },
+  {
     "DVT prophylaxis": "TREATMENT"
   },
   {
@@ -312,6 +291,9 @@
     "Coumadin": "DRUG"
   },
   {
+    "INR": "TEST"
+  },
+  {
     "Right leg muscle spasm": "PROBLEM"
   },
   {
@@ -319,6 +301,9 @@
   },
   {
     "DVT": "PROBLEM"
+  },
+  {
+    "decreased ability": "PROBLEM"
   },
   {
     "hip surgery": "TREATMENT"

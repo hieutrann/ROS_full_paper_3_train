@@ -51,6 +51,12 @@
     "depressed moods": "PROBLEM"
   },
   {
+    "tearful": "PROBLEM"
+  },
+  {
+    "homesick": "PROBLEM"
+  },
+  {
     "limited interaction with peers": "PROBLEM"
   },
   {
@@ -61,6 +67,9 @@
   },
   {
     "EKG": "TEST"
+  },
+  {
+    "psychiatric treatment": "TREATMENT"
   },
   {
     "basic metabolic panel": "TEST"
@@ -105,25 +114,31 @@
     "Hematocrit": "TEST"
   },
   {
-    "low": "PROBLEM"
-  },
-  {
     "absolute monocytes": "TEST"
   },
   {
-    "high": "PROBLEM"
+    "Major depression": "PROBLEM"
   },
   {
-    "Major depression, recurrent, with psychotic features": "PROBLEM"
+    "psychotic features": "PROBLEM"
+  },
+  {
+    "Psychosocial stressors": "PROBLEM"
   },
   {
     "GAF": "TEST"
   },
   {
+    "suicidal ideas": "PROBLEM"
+  },
+  {
+    "homicidal ideas": "PROBLEM"
+  },
+  {
     "perception disturbances": "PROBLEM"
   },
   {
-    "not responding to internal stimuli": "PROBLEM"
+    "internal stimuli": "PROBLEM"
   },
   {
     "RTC (Residential Treatment Center) program": "TREATMENT"
@@ -156,10 +171,16 @@
     "anxiety": "PROBLEM"
   },
   {
+    "16 pills": "TREATMENT"
+  },
+  {
     "galactorrhea": "PROBLEM"
   },
   {
     "galactorrhea": "PROBLEM"
+  },
+  {
+    "lactation": "PROBLEM"
   },
   {
     "Risperdal": "DRUG"

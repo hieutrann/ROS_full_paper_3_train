@@ -1,0 +1,35 @@
+[
+  {
+    "Refractory hypertension": "PROBLEM"
+  },
+  {
+    "cardiac arrhythmia": "PROBLEM"
+  },
+  {
+    "pacemaker": "TREATMENT"
+  },
+  {
+    "GI bleed": "PROBLEM"
+  },
+  {
+    "depression": "PROBLEM"
+  },
+  {
+    "Triamterene/hydrochlorothiazide": "DRUG"
+  },
+  {
+    "Norvasc": "DRUG"
+  },
+  {
+    "atenolol": "DRUG"
+  },
+  {
+    "Atacand": "DRUG"
+  },
+  {
+    "Cardura": "DRUG"
+  },
+  {
+    "blood pressure": "TEST"
+  }
+]

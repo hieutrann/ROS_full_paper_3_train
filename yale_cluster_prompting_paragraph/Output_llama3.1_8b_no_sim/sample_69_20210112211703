@@ -15,7 +15,7 @@
     "leukocytosis": "PROBLEM"
   },
   {
-    "laparoscopic appendicectomy": "TREATMENT"
+    "laparoscopic appendicectomy": "TEST"
   },
   {
     "ultrasound": "TEST"
@@ -24,10 +24,7 @@
     "CT angiogram": "TEST"
   },
   {
-    "laboratory data": "TEST"
-  },
-  {
-    "white count": "TEST"
+    "White count": "TEST"
   },
   {
     "hemoglobin": "TEST"
@@ -39,7 +36,7 @@
     "platelets": "TEST"
   },
   {
-    "glucose": "TEST"
+    "Glucose": "TEST"
   },
   {
     "total protein": "TEST"
@@ -48,6 +45,12 @@
     "albumin": "TEST"
   },
   {
-    "surgery": "TREATMENT"
+    "physical therapy": "TREATMENT"
+  },
+  {
+    "abdominal surgery": "TREATMENT"
+  },
+  {
+    "laparoscopic appendicectomy": "TREATMENT"
   }
 ]

@@ -27,10 +27,13 @@
     "PENICILLIN": "DRUG"
   },
   {
-    "right total knee arthroplasty": "TREATMENT"
+    "auscultation": "TEST"
   },
   {
-    "deep venous thrombosis (DVT) prophylaxis": "TREATMENT"
+    "deep venous thrombosis": "PROBLEM"
+  },
+  {
+    "DVT": "PROBLEM"
   },
   {
     "antibiotics": "DRUG"
@@ -42,13 +45,19 @@
     "Physical therapy": "TREATMENT"
   },
   {
-    "Continuous passive motion (CPM)": "TREATMENT"
+    "Continuous passive motion": "TREATMENT"
+  },
+  {
+    "CPM": "TREATMENT"
   },
   {
     "Percocet": "DRUG"
   },
   {
     "Coumadin": "DRUG"
+  },
+  {
+    "physical therapy": "TREATMENT"
   },
   {
     "PT": "TREATMENT"
@@ -58,5 +67,20 @@
   },
   {
     "Coumadin": "DRUG"
+  },
+  {
+    "total knee arthroplasty": "TREATMENT"
+  },
+  {
+    "conservative management": "TREATMENT"
+  },
+  {
+    "knee arthroplasty": "TREATMENT"
+  },
+  {
+    "arthroplasty": "TREATMENT"
+  },
+  {
+    "osteoarthrosis": "PROBLEM"
   }
 ]

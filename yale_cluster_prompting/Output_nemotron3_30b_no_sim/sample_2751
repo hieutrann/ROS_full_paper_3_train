@@ -1,0 +1,356 @@
+[
+  {
+    "toothache": "PROBLEM"
+  },
+  {
+    "dental disease": "PROBLEM"
+  },
+  {
+    "tooth pain": "PROBLEM"
+  },
+  {
+    "toothache": "PROBLEM"
+  },
+  {
+    "missed appointments": "PROBLEM"
+  },
+  {
+    "OxyContin": "DRUG"
+  },
+  {
+    "Vicodin": "DRUG"
+  },
+  {
+    "knee pain": "PROBLEM"
+  },
+  {
+    "CONSTITUTIONAL": "PROBLEM"
+  },
+  {
+    "fatigue": "PROBLEM"
+  },
+  {
+    "No recent weight change": "PROBLEM"
+  },
+  {
+    "headache": "PROBLEM"
+  },
+  {
+    "neck pain": "PROBLEM"
+  },
+  {
+    "toothache pain": "PROBLEM"
+  },
+  {
+    "throat swelling": "PROBLEM"
+  },
+  {
+    "sore throat": "PROBLEM"
+  },
+  {
+    "difficulty swallowing solids or liquids": "PROBLEM"
+  },
+  {
+    "rhinorrhea": "PROBLEM"
+  },
+  {
+    "sinus congestion": "PROBLEM"
+  },
+  {
+    "pressure": "PROBLEM"
+  },
+  {
+    "pain": "PROBLEM"
+  },
+  {
+    "ear pain": "PROBLEM"
+  },
+  {
+    "hearing change": "PROBLEM"
+  },
+  {
+    "eye pain": "PROBLEM"
+  },
+  {
+    "vision change": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "No shortness of breath or cough": "PROBLEM"
+  },
+  {
+    "GASTROINTESTINAL": "TEST"
+  },
+  {
+    "No nausea or vomiting": "PROBLEM"
+  },
+  {
+    "dysuria": "PROBLEM"
+  },
+  {
+    "back pain": "PROBLEM"
+  },
+  {
+    "No muscle or joint aches": "PROBLEM"
+  },
+  {
+    "SKIN": "PROBLEM"
+  },
+  {
+    "NEUROLOGIC": "PROBLEM"
+  },
+  {
+    "No focal weakness or numbness": "PROBLEM"
+  },
+  {
+    "lymph node swelling": "PROBLEM"
+  },
+  {
+    "Chronic knee pain": "PROBLEM"
+  },
+  {
+    "OxyContin": "DRUG"
+  },
+  {
+    "Vicodin": "DRUG"
+  },
+  {
+    "PENICILLIN AND CODEINE": "DRUG"
+  },
+  {
+    "smoker": "PROBLEM"
+  },
+  {
+    "Temperature 97.9 oral": "TEST"
+  },
+  {
+    "blood pressure is 146/83": "TEST"
+  },
+  {
+    "pulse is 74": "TEST"
+  },
+  {
+    "respirations 16": "TEST"
+  },
+  {
+    "oxygen saturation 98% on room air and interpreted as normal": "TEST"
+  },
+  {
+    "CONSTITUTIONAL": "PROBLEM"
+  },
+  {
+    "overweight": "PROBLEM"
+  },
+  {
+    "HEENT": "TEST"
+  },
+  {
+    "injection": "TEST"
+  },
+  {
+    "discharge": "TEST"
+  },
+  {
+    "Pupils are 3 mm and equally round and reactive to light bilaterally.": "TEST"
+  },
+  {
+    "light sensitivity": "PROBLEM"
+  },
+  {
+    "photophobia": "PROBLEM"
+  },
+  {
+    "Extraocular motions": "TEST"
+  },
+  {
+    "Ears are normal bilaterally without any sign of infection": "TEST"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "swelling of canals": "PROBLEM"
+  },
+  {
+    "Tympanic membranes": "TEST"
+  },
+  {
+    "rhinorrhea": "PROBLEM"
+  },
+  {
+    "audible congestion": "PROBLEM"
+  },
+  {
+    "tenderness over the sinuses": "PROBLEM"
+  },
+  {
+    "Supple": "PROBLEM"
+  },
+  {
+    "nontender": "PROBLEM"
+  },
+  {
+    "full range of motion": "PROBLEM"
+  },
+  {
+    "meningismus": "PROBLEM"
+  },
+  {
+    "cervical lymphadenopathy": "PROBLEM"
+  },
+  {
+    "JVD": "PROBLEM"
+  },
+  {
+    "Mouth and oropharynx": "PROBLEM"
+  },
+  {
+    "denture": "PROBLEM"
+  },
+  {
+    "dental caries": "PROBLEM"
+  },
+  {
+    "tenderness to tooth #12": "PROBLEM"
+  },
+  {
+    "tooth #21": "PROBLEM"
+  },
+  {
+    "gums": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "swelling": "PROBLEM"
+  },
+  {
+    "purulent or other discharge": "PROBLEM"
+  },
+  {
+    "fluctuance": "PROBLEM"
+  },
+  {
+    "abscess": "PROBLEM"
+  },
+  {
+    "dental fractures": "PROBLEM"
+  },
+  {
+    "infection": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "exudate": "PROBLEM"
+  },
+  {
+    "lesion": "PROBLEM"
+  },
+  {
+    "swelling": "PROBLEM"
+  },
+  {
+    "buccal membranes": "TEST"
+  },
+  {
+    "Mucous membranes are moist.": "TEST"
+  },
+  {
+    "abscess": "PROBLEM"
+  },
+  {
+    "Heart is regular rate and rhythm without murmur, rub, or gallop.": "TEST"
+  },
+  {
+    "Clear to auscultation bilaterally without shortness of breath": "TEST"
+  },
+  {
+    "nontender": "PROBLEM"
+  },
+  {
+    "MUSCULOSKELETAL": "PROBLEM"
+  },
+  {
+    "SKIN": "PROBLEM"
+  },
+  {
+    "NEUROLOGIC: Cranial nerves II through XII are intact.": "TEST"
+  },
+  {
+    "Motor and sensory": "TEST"
+  },
+  {
+    "speech": "PROBLEM"
+  },
+  {
+    "ambulation": "PROBLEM"
+  },
+  {
+    "alert and oriented x4": "PROBLEM"
+  },
+  {
+    "cervical lymphadenopathy": "PROBLEM"
+  },
+  {
+    "Dilaudid of 4 mg IM": "DRUG"
+  },
+  {
+    "ODONTALGIA": "PROBLEM"
+  },
+  {
+    "MULTIPLE DENTAL CARIES": "PROBLEM"
+  },
+  {
+    "Stable": "PROBLEM"
+  },
+  {
+    "dental clinics": "TREATMENT"
+  },
+  {
+    "Percocet": "DRUG"
+  },
+  {
+    "clindamycin": "DRUG"
+  },
+  {
+    "drug precautions": "TREATMENT"
+  },
+  {
+    "toothache": "PROBLEM"
+  },
+  {
+    "worsening of his condition": "PROBLEM"
+  },
+  {
+    "other problems": "PROBLEM"
+  },
+  {
+    "symptoms of concern": "PROBLEM"
+  },
+  {
+    "multiple dental caries": "PROBLEM"
+  },
+  {
+    "extensive dental disease": "PROBLEM"
+  },
+  {
+    "dental caries": "PROBLEM"
+  },
+  {
+    "toothache": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "swelling": "PROBLEM"
+  },
+  {
+    "dental": "PROBLEM"
+  }
+]

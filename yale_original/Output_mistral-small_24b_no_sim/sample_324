@@ -1,6 +1,6 @@
 [
   {
-    "Eye": "TEST"
+    "Female Physical Exam": "TEST"
   },
   {
     "erythema": "PROBLEM"
@@ -15,13 +15,13 @@
     "jaundice": "PROBLEM"
   },
   {
-    "Cornea": "TEST"
+    "Cornea": "PROBLEM"
   },
   {
     "Pupils": "TEST"
   },
   {
-    "lesions": "PROBLEM"
+    "Iris": "TEST"
   },
   {
     "Anterior chamber": "TEST"
@@ -42,7 +42,13 @@
     "lesions": "PROBLEM"
   },
   {
-    "Ear canal": "TEST"
+    "edema": "PROBLEM"
+  },
+  {
+    "discharge": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
   },
   {
     "Tympanic membranes": "TEST"
@@ -51,22 +57,31 @@
     "middle ear effusions": "PROBLEM"
   },
   {
+    "nose": "PROBLEM"
+  },
+  {
+    "skin lesions": "PROBLEM"
+  },
+  {
     "Nares": "TEST"
+  },
+  {
+    "Turbinates": "PROBLEM"
   },
   {
     "Mucus": "PROBLEM"
   },
   {
-    "internal lesions": "PROBLEM"
+    "erythema": "PROBLEM"
   },
   {
-    "erythema": "PROBLEM"
+    "exudates": "PROBLEM"
   },
   {
     "Buccal mucosa": "PROBLEM"
   },
   {
-    "Lips": "TEST"
+    "Lips": "PROBLEM"
   },
   {
     "Tongue": "TEST"
@@ -75,7 +90,10 @@
     "Hard and soft palate": "TEST"
   },
   {
-    "Tonsils": "TEST"
+    "Teeth": "PROBLEM"
+  },
+  {
+    "Tonsils": "PROBLEM"
   },
   {
     "Uvula": "PROBLEM"
@@ -84,13 +102,13 @@
     "lesions": "PROBLEM"
   },
   {
+    "Neck": "PROBLEM"
+  },
+  {
     "adenopathy": "PROBLEM"
   },
   {
     "thyromegaly": "PROBLEM"
-  },
-  {
-    "masses": "PROBLEM"
   },
   {
     "range of motion": "TEST"
@@ -117,22 +135,16 @@
     "lung excursion": "TEST"
   },
   {
-    "accessory muscle use": "PROBLEM"
+    "S3": "TEST"
   },
   {
-    "Heart": "PROBLEM"
-  },
-  {
-    "S3": "PROBLEM"
-  },
-  {
-    "S4": "PROBLEM"
+    "S4": "TEST"
   },
   {
     "Heart rate": "TEST"
   },
   {
-    "Abdominal": "TEST"
+    "Abdominal": "PROBLEM"
   },
   {
     "hepatomegaly": "PROBLEM"
@@ -147,10 +159,13 @@
     "bruits": "PROBLEM"
   },
   {
-    "Labia majora": "PROBLEM"
+    "erythema": "PROBLEM"
   },
   {
-    "Labia minora": "PROBLEM"
+    "lesions": "PROBLEM"
+  },
+  {
+    "Labia minora": "TEST"
   },
   {
     "erythema": "PROBLEM"
@@ -174,34 +189,37 @@
     "pelvic masses": "PROBLEM"
   },
   {
-    "Uterus": "PROBLEM"
+    "Uterus": "TEST"
   },
   {
     "hemorrhoids": "PROBLEM"
   },
   {
-    "Musculoskeletal": "TEST"
+    "strength": "PROBLEM"
   },
   {
     "range of motion": "TEST"
-  },
-  {
-    "joint effusions": "PROBLEM"
   },
   {
     "Joints": "PROBLEM"
   },
   {
-    "Foot": "PROBLEM"
-  },
-  {
-    "edema": "PROBLEM"
+    "erythema": "PROBLEM"
   },
   {
     "range of motion": "TEST"
   },
   {
-    "pain": "PROBLEM"
+    "inversion": "TEST"
+  },
+  {
+    "eversion": "TEST"
+  },
+  {
+    "plantar": "TEST"
+  },
+  {
+    "dorsiflexion": "TEST"
   },
   {
     "Anterior and posterior drawer test": "TEST"
@@ -222,9 +240,6 @@
     "Collateral ligaments": "PROBLEM"
   },
   {
-    "joint effusion": "PROBLEM"
-  },
-  {
     "erythema": "PROBLEM"
   },
   {
@@ -243,16 +258,13 @@
     "Knee": "PROBLEM"
   },
   {
-    "joint effusion": "PROBLEM"
-  },
-  {
     "erythema": "PROBLEM"
   },
   {
-    "nontender": "PROBLEM"
+    "Anterior drawer tests": "TEST"
   },
   {
-    "Anterior and posterior drawer tests": "TEST"
+    "posterior drawer tests": "TEST"
   },
   {
     "Lachman's test": "TEST"
@@ -264,7 +276,7 @@
     "Bursas": "PROBLEM"
   },
   {
-    "Wrist": "TEST"
+    "Wrist": "PROBLEM"
   },
   {
     "edema": "PROBLEM"
@@ -273,34 +285,31 @@
     "effusion": "PROBLEM"
   },
   {
-    "Tinel": "TEST"
+    "Tinel tests": "TEST"
   },
   {
-    "Phalen": "TEST"
+    "Phalen tests": "TEST"
   },
   {
-    "Normal strength": "TEST"
+    "muscle groups": "PROBLEM"
   },
   {
-    "Elbow": "PROBLEM"
-  },
-  {
-    "joint effusion": "PROBLEM"
+    "range of motion": "TEST"
   },
   {
     "erythema": "PROBLEM"
   },
   {
-    "Normal strength": "TEST"
+    "muscle groups": "PROBLEM"
   },
   {
     "Olecranon bursa": "PROBLEM"
   },
   {
-    "supination and pronation": "TEST"
+    "supination": "TREATMENT"
   },
   {
-    "crepitus": "PROBLEM"
+    "pronation": "TREATMENT"
   },
   {
     "swinging test": "TEST"
@@ -309,7 +318,7 @@
     "Trochanteric bursa": "PROBLEM"
   },
   {
-    "Normal strength": "TEST"
+    "muscle groups": "PROBLEM"
   },
   {
     "eversion": "TEST"
@@ -318,10 +327,10 @@
     "inversion": "TEST"
   },
   {
-    "crepitus": "PROBLEM"
+    "gait": "PROBLEM"
   },
   {
-    "Alert and oriented times four": "TEST"
+    "times four": "TEST"
   },
   {
     "delusions": "PROBLEM"
@@ -348,6 +357,45 @@
     "abdominal": "PROBLEM"
   },
   {
+    "anterior chamber": "TEST"
+  },
+  {
+    "cardiovascular": "PROBLEM"
+  },
+  {
+    "chest": "PROBLEM"
+  },
+  {
+    "ear": "PROBLEM"
+  },
+  {
+    "ear canal": "TEST"
+  },
+  {
+    "eye": "PROBLEM"
+  },
+  {
+    "eyelids": "PROBLEM"
+  },
+  {
+    "female physical examination": "TEST"
+  },
+  {
+    "labia majora": "TEST"
+  },
+  {
+    "labia minora": "TEST"
+  },
+  {
+    "nares": "TEST"
+  },
+  {
+    "neck symmetrical": "PROBLEM"
+  },
+  {
+    "vaginal mucosa": "TEST"
+  },
+  {
     "crepitus": "PROBLEM"
   },
   {
@@ -363,7 +411,22 @@
     "joint effusion": "PROBLEM"
   },
   {
+    "normal range of motion": "PROBLEM"
+  },
+  {
+    "shape and contour": "PROBLEM"
+  },
+  {
+    "normal strength": "PROBLEM"
+  },
+  {
     "joint effusions": "PROBLEM"
+  },
+  {
+    "normal color": "PROBLEM"
+  },
+  {
+    "nontender": "PROBLEM"
   },
   {
     "lesions": "PROBLEM"
@@ -372,51 +435,9 @@
     "effusions": "PROBLEM"
   },
   {
-    "physical examination": "TEST"
+    "muscle": "PROBLEM"
   },
   {
-    "anterior chamber": "TEST"
-  },
-  {
-    "cardiovascular": "TEST"
-  },
-  {
-    "chest": "TEST"
-  },
-  {
-    "ear": "TEST"
-  },
-  {
-    "ear canal": "TEST"
-  },
-  {
-    "eye": "TEST"
-  },
-  {
-    "eyelids": "TEST"
-  },
-  {
-    "nares": "TEST"
-  },
-  {
-    "neck": "TEST"
-  },
-  {
-    "vaginal mucosa": "TEST"
-  },
-  {
-    "joints": "TEST"
-  },
-  {
-    "range of motion": "TEST"
-  },
-  {
-    "shape and contour": "TEST"
-  },
-  {
-    "strength": "TEST"
-  },
-  {
-    "color": "TEST"
+    "joints": "PROBLEM"
   }
 ]

@@ -1,6 +1,9 @@
 [
   {
-    "severe nausea": "PROBLEM"
+    "General Medicine": "TREATMENT"
+  },
+  {
+    "nausea": "PROBLEM"
   },
   {
     "abdominal pain": "PROBLEM"
@@ -24,12 +27,6 @@
     "vomiting": "PROBLEM"
   },
   {
-    "emergency department": "TEST"
-  },
-  {
-    "Dr.": "TEST"
-  },
-  {
     "incarcerated umbilical hernia": "PROBLEM"
   },
   {
@@ -51,7 +48,7 @@
     "Ziac": "DRUG"
   },
   {
-    "Remeron": "DRUG"
+    "ReMerOn": "DRUG"
   },
   {
     "No allergies": "PROBLEM"
@@ -63,28 +60,19 @@
     "single": "PROBLEM"
   },
   {
-    "children": "PROBLEM"
-  },
-  {
     "drinks": "PROBLEM"
   },
   {
     "smokes": "PROBLEM"
   },
   {
-    "Salt Lake City": "PROBLEM"
-  },
-  {
-    "Harmony Music": "PROBLEM"
-  },
-  {
     "hepatitis": "PROBLEM"
   },
   {
-    "blood transfusions": "PROBLEM"
+    "obese": "PROBLEM"
   },
   {
-    "moderate to markedly obese gentleman": "PROBLEM"
+    "mild distress": "PROBLEM"
   },
   {
     "scleral icterus": "PROBLEM"
@@ -108,9 +96,6 @@
     "HEART": "PROBLEM"
   },
   {
-    "murmurs": "PROBLEM"
-  },
-  {
     "gallops": "PROBLEM"
   },
   {
@@ -120,10 +105,7 @@
     "bulging": "PROBLEM"
   },
   {
-    "umbilicus": "TEST"
-  },
-  {
-    "abdomen": "TEST"
+    "umbilicus": "PROBLEM"
   },
   {
     "herniated contents": "PROBLEM"
@@ -138,6 +120,9 @@
     "Normal sinus rhythm": "TEST"
   },
   {
+    "EKG": "TEST"
+  },
+  {
     "prolonged QT": "PROBLEM"
   },
   {
@@ -147,7 +132,7 @@
     "abdominal x-rays": "TEST"
   },
   {
-    "electrolytes": "PROBLEM"
+    "electrolytes": "TEST"
   },
   {
     "Creatinine": "TEST"
@@ -186,6 +171,9 @@
     "emergency department": "TEST"
   },
   {
-    "prolonged qt": "PROBLEM"
+    "general medicine": "TEST"
+  },
+  {
+    "ekg": "TEST"
   }
 ]

@@ -15,6 +15,9 @@
     "stroke": "PROBLEM"
   },
   {
+    "neurologist": "TREATMENT"
+  },
+  {
     "medications": "DRUG"
   },
   {
@@ -22,6 +25,9 @@
   },
   {
     "insulin": "DRUG"
+  },
+  {
+    "symptoms": "PROBLEM"
   },
   {
     "tobacco": "PROBLEM"
@@ -42,13 +48,10 @@
     "P": "TEST"
   },
   {
-    "acute distress": "PROBLEM"
+    "male": "PROBLEM"
   },
   {
     "dentition": "PROBLEM"
-  },
-  {
-    "Skin": "PROBLEM"
   },
   {
     "dry": "PROBLEM"
@@ -63,10 +66,16 @@
     "pedal pulse": "TEST"
   },
   {
-    "Lungs": "PROBLEM"
+    "Diminished": "PROBLEM"
   },
   {
     "Abdomen": "PROBLEM"
+  },
+  {
+    "prostate": "PROBLEM"
+  },
+  {
+    "Gill": "PROBLEM"
   },
   {
     "monofilament testing": "TEST"
@@ -108,16 +117,37 @@
     "Accu-Cheks": "TEST"
   },
   {
+    "general medicine": "TEST"
+  },
+  {
     "diabetes mellitus": "PROBLEM"
   },
   {
     "neuropathy": "PROBLEM"
   },
   {
+    "genernal medicine": "TEST"
+  },
+  {
     "post cerebrovascular accident": "PROBLEM"
   },
   {
+    "progerss note": "TEST"
+  },
+  {
+    "post cerebrovascular": "PROBLEM"
+  },
+  {
     "cerebrovascular accident": "PROBLEM"
+  },
+  {
+    "accident": "PROBLEM"
+  },
+  {
+    "cerebrovascular": "PROBLEM"
+  },
+  {
+    "neurologist": "TEST"
   },
   {
     "insulin": "DRUG"

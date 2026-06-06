@@ -51,6 +51,9 @@
     "PENICILLIN": "DRUG"
   },
   {
+    "PAST MEDICAL HISTORY": "PROBLEM"
+  },
+  {
     "Cerebrovascular accident": "PROBLEM"
   },
   {
@@ -61,6 +64,9 @@
   },
   {
     "Abnormality of gait": "PROBLEM"
+  },
+  {
+    "wheelchair bound": "PROBLEM"
   },
   {
     "Hypertension": "PROBLEM"
@@ -96,10 +102,7 @@
     "stool incontinence": "PROBLEM"
   },
   {
-    "wheelchair bound": "PROBLEM"
-  },
-  {
-    "non-communicable": "PROBLEM"
+    "83-year-old": "PROBLEM"
   },
   {
     "Temperature": "TEST"
@@ -114,16 +117,28 @@
     "blood pressure": "TEST"
   },
   {
-    "HEENT": "TEST"
+    "Pupils": "TEST"
   },
   {
-    "anicteric": "PROBLEM"
+    "External ocular muscles": "TEST"
+  },
+  {
+    "Conjunctivae anicteric": "PROBLEM"
   },
   {
     "right-sided facial droop": "PROBLEM"
   },
   {
-    "Oropharynx": "PROBLEM"
+    "teeth": "PROBLEM"
+  },
+  {
+    "Tympanic membranes": "TEST"
+  },
+  {
+    "carotid bruit": "PROBLEM"
+  },
+  {
+    "cervical adenopathy": "PROBLEM"
   },
   {
     "systolic murmur": "PROBLEM"
@@ -132,16 +147,19 @@
     "LUNGS": "TEST"
   },
   {
-    "ABDOMEN": "PROBLEM"
+    "Bowel sound": "TEST"
   },
   {
-    "Bowel sound": "TEST"
+    "pedal edema": "PROBLEM"
   },
   {
     "fixed flexion deformity": "PROBLEM"
   },
   {
     "right-sided slight facial droop": "PROBLEM"
+  },
+  {
+    "upper extremities": "PROBLEM"
   },
   {
     "withdrawal": "PROBLEM"
@@ -189,16 +207,19 @@
     "platelet count": "TEST"
   },
   {
+    "urinalysis": "TEST"
+  },
+  {
     "white blood cells": "TEST"
   },
   {
     "red blood cells": "TEST"
   },
   {
-    "colonies": "TEST"
+    "E. coli": "PROBLEM"
   },
   {
-    "E. coli": "PROBLEM"
+    "culture": "TEST"
   },
   {
     "amikacin": "DRUG"
@@ -237,16 +258,13 @@
     "lower extremity weakness": "PROBLEM"
   },
   {
-    "NPO": "TREATMENT"
-  },
-  {
     "swallowing evaluation": "TEST"
   },
   {
     "IV Vasotec": "DRUG"
   },
   {
-    "systolic blood pressure": "TEST"
+    "systolic blood pressure": "PROBLEM"
   },
   {
     "Neuro check": "TEST"
@@ -261,13 +279,13 @@
     "Ecotrin": "DRUG"
   },
   {
+    "swallowing evaluation": "TEST"
+  },
+  {
     "Aricept": "DRUG"
   },
   {
     "Diovan": "DRUG"
-  },
-  {
-    "daily": "DRUG"
   },
   {
     "multivitamin": "DRUG"
@@ -289,9 +307,6 @@
   },
   {
     "potassium": "DRUG"
-  },
-  {
-    "general medicine": "PROBLEM"
   },
   {
     "hypertension": "PROBLEM"

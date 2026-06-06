@@ -42,9 +42,6 @@
     "migraine headaches": "PROBLEM"
   },
   {
-    "menstrual cycle": "PROBLEM"
-  },
-  {
     "sciatic pain": "PROBLEM"
   },
   {
@@ -66,6 +63,9 @@
     "Celebrex": "DRUG"
   },
   {
+    "Coumadin": "DRUG"
+  },
+  {
     "Colace": "DRUG"
   },
   {
@@ -73,6 +73,15 @@
   },
   {
     "oxycodone": "DRUG"
+  },
+  {
+    "Klonopin": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "migraine headaches": "PROBLEM"
   },
   {
     "floaters": "PROBLEM"
@@ -100,6 +109,9 @@
   },
   {
     "palpitation": "PROBLEM"
+  },
+  {
+    "pain in the upper neck and down to her arm": "PROBLEM"
   },
   {
     "difficulty breathing": "PROBLEM"
@@ -138,22 +150,13 @@
     "vasectomy": "TREATMENT"
   },
   {
-    "temperature": "TEST"
-  },
-  {
-    "blood pressure": "TEST"
-  },
-  {
-    "heart rate": "TEST"
-  },
-  {
-    "respirations": "TEST"
-  },
-  {
-    "O2 saturation": "TEST"
-  },
-  {
     "diffuse edema": "PROBLEM"
+  },
+  {
+    "calf tenderness": "PROBLEM"
+  },
+  {
+    "Homans sign": "TEST"
   },
   {
     "pedal edema": "PROBLEM"
@@ -174,6 +177,9 @@
     "creatinine": "TEST"
   },
   {
+    "INR": "TEST"
+  },
+  {
     "CBC": "TEST"
   },
   {
@@ -187,6 +193,9 @@
   },
   {
     "platelets": "TEST"
+  },
+  {
+    "right total hip replacement": "TREATMENT"
   },
   {
     "Physical Therapy": "TREATMENT"
@@ -210,6 +219,30 @@
     "ice": "TREATMENT"
   },
   {
+    "edema": "PROBLEM"
+  },
+  {
+    "Depression": "PROBLEM"
+  },
+  {
+    "anxiety": "PROBLEM"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Klonopin": "DRUG"
+  },
+  {
+    "Osteoarthritis": "PROBLEM"
+  },
+  {
+    "Celebrex": "DRUG"
+  },
+  {
+    "GI prophylaxis": "TREATMENT"
+  },
+  {
     "Protonix": "DRUG"
   },
   {
@@ -219,7 +252,19 @@
     "lactulose": "DRUG"
   },
   {
+    "Colace": "DRUG"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
     "Arixtra": "DRUG"
+  },
+  {
+    "INR": "TEST"
+  },
+  {
+    "Coumadin": "DRUG"
   },
   {
     "Right leg muscle spasm/calf pain": "PROBLEM"

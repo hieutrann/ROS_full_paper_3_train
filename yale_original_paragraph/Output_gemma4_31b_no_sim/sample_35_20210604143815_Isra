@@ -1,0 +1,167 @@
+[
+  {
+    "temperature": "TEST"
+  },
+  {
+    "left sacroiliac type hip pain": "PROBLEM"
+  },
+  {
+    "degenerative disk disease": "PROBLEM"
+  },
+  {
+    "lumbar spine": "PROBLEM"
+  },
+  {
+    "hip pathology": "PROBLEM"
+  },
+  {
+    "swollen inguinal nodes": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "chills": "PROBLEM"
+  },
+  {
+    "left pelvic pain": "PROBLEM"
+  },
+  {
+    "pain in her left posterior pelvic and low back region": "PROBLEM"
+  },
+  {
+    "severe pain": "PROBLEM"
+  },
+  {
+    "blood studies": "TEST"
+  },
+  {
+    "cultures": "TEST"
+  },
+  {
+    "febrile agglutinins": "TEST"
+  },
+  {
+    "blood glucose": "TEST"
+  },
+  {
+    "insulin": "DRUG"
+  },
+  {
+    "diabetic": "PROBLEM"
+  },
+  {
+    "x-rays": "TEST"
+  },
+  {
+    "MRIs": "TEST"
+  },
+  {
+    "inflammatory process": "PROBLEM"
+  },
+  {
+    "hypertensive": "PROBLEM"
+  },
+  {
+    "hyperlipidemia": "PROBLEM"
+  },
+  {
+    "thyroid problems": "PROBLEM"
+  },
+  {
+    "asthma": "PROBLEM"
+  },
+  {
+    "bronchitis": "PROBLEM"
+  },
+  {
+    "TB": "PROBLEM"
+  },
+  {
+    "emphysema": "PROBLEM"
+  },
+  {
+    "pneumonia": "PROBLEM"
+  },
+  {
+    "tuberculosis": "PROBLEM"
+  },
+  {
+    "breast tumors": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "cardiac problems": "PROBLEM"
+  },
+  {
+    "gallbladder surgery": "TREATMENT"
+  },
+  {
+    "gastritis": "PROBLEM"
+  },
+  {
+    "ulcers": "PROBLEM"
+  },
+  {
+    "kidney disease": "PROBLEM"
+  },
+  {
+    "hysterectomy": "TREATMENT"
+  },
+  {
+    "A&P repair": "TREATMENT"
+  },
+  {
+    "sacral abscess": "PROBLEM"
+  },
+  {
+    "spinal": "TREATMENT"
+  },
+  {
+    "pilonidal cyst": "PROBLEM"
+  },
+  {
+    "fractures": "PROBLEM"
+  },
+  {
+    "arthritis": "PROBLEM"
+  },
+  {
+    "shivering": "PROBLEM"
+  },
+  {
+    "febrile": "PROBLEM"
+  },
+  {
+    "hip pain": "PROBLEM"
+  },
+  {
+    "posterior sacroiliac joint area": "PROBLEM"
+  },
+  {
+    "triple-phase bone scan": "TEST"
+  },
+  {
+    "infection": "PROBLEM"
+  },
+  {
+    "white count": "TEST"
+  },
+  {
+    "brucellosis": "PROBLEM"
+  },
+  {
+    "titers": "TEST"
+  },
+  {
+    "antibiotics": "DRUG"
+  },
+  {
+    "Motrin": "DRUG"
+  },
+  {
+    "Darvocet": "DRUG"
+  }
+]

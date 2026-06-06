@@ -1,5 +1,8 @@
 [
   {
+    "male physical exam": "TEST"
+  },
+  {
     "Blood pressure": "TEST"
   },
   {
@@ -16,12 +19,6 @@
   },
   {
     "PERRLA": "TEST"
-  },
-  {
-    "Sclerae nonicteric": "PROBLEM"
-  },
-  {
-    "lesions": "PROBLEM"
   },
   {
     "Funduscopic examination": "TEST"
@@ -57,19 +54,10 @@
     "stridor": "PROBLEM"
   },
   {
-    "shift": "PROBLEM"
-  },
-  {
     "subcutaneous emphysema": "PROBLEM"
   },
   {
-    "Thyroid": "TEST"
-  },
-  {
     "nodularity": "PROBLEM"
-  },
-  {
-    "Lungs": "TEST"
   },
   {
     "S1": "TEST"
@@ -129,7 +117,7 @@
     "intraabdominal bruit": "PROBLEM"
   },
   {
-    "EXTERNAL GENITALIA": "TEST"
+    "auscultation": "TEST"
   },
   {
     "hernia": "PROBLEM"
@@ -141,6 +129,12 @@
     "Hemoccult": "TEST"
   },
   {
+    "stool": "TEST"
+  },
+  {
+    "prostate": "PROBLEM"
+  },
+  {
     "nodularity": "PROBLEM"
   },
   {
@@ -148,12 +142,6 @@
   },
   {
     "rectal masses": "PROBLEM"
-  },
-  {
-    "distal pulse": "TEST"
-  },
-  {
-    "perfusion": "TEST"
   },
   {
     "edema": "PROBLEM"
@@ -166,9 +154,6 @@
   },
   {
     "deep venous thrombosis": "PROBLEM"
-  },
-  {
-    "range of motion": "TEST"
   },
   {
     "spinous process tenderness": "PROBLEM"
@@ -186,34 +171,16 @@
     "Brudzinski signs": "TEST"
   },
   {
-    "cranial and peripheral nervous systems": "TEST"
+    "premalignant": "PROBLEM"
   },
   {
-    "strength": "TEST"
-  },
-  {
-    "sensation": "TEST"
-  },
-  {
-    "cerebellar function": "TEST"
-  },
-  {
-    "Speech": "TEST"
-  },
-  {
-    "Gait and station": "TEST"
-  },
-  {
-    "premalignant or malignant condition": "PROBLEM"
+    "malignant condition": "PROBLEM"
   },
   {
     "digital palpation": "TEST"
   },
   {
     "hemoccult": "TEST"
-  },
-  {
-    "palpation": "TEST"
   },
   {
     "tenderness": "PROBLEM"

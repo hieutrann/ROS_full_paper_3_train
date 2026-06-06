@@ -15,7 +15,7 @@
     "clinical swallow evaluation": "TEST"
   },
   {
-    "swallowing": "TEST"
+    "swallowing": "PROBLEM"
   },
   {
     "visual scanning": "TEST"
@@ -24,15 +24,6 @@
     "left neglect": "PROBLEM"
   },
   {
-    "sustained attention": "TEST"
-  },
-  {
-    "reading": "TEST"
-  },
-  {
-    "comprehension": "TEST"
-  },
-  {
-    "swallow evaluation": "TEST"
+    "reading, comprehension": "PROBLEM"
   }
 ]

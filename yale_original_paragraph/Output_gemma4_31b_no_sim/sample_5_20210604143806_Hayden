@@ -21,27 +21,6 @@
     "spitting up": "PROBLEM"
   },
   {
-    "Congestion": "PROBLEM"
-  },
-  {
-    "cough": "PROBLEM"
-  },
-  {
-    "cold": "PROBLEM"
-  },
-  {
-    "cough": "PROBLEM"
-  },
-  {
-    "runny nose": "PROBLEM"
-  },
-  {
-    "fever": "PROBLEM"
-  },
-  {
-    "spitting up": "PROBLEM"
-  },
-  {
     "difficulty breathing": "PROBLEM"
   },
   {
@@ -102,10 +81,10 @@
     "right TM": "TEST"
   },
   {
-    "red and irritated": "PROBLEM"
+    "red": "PROBLEM"
   },
   {
-    "light reflex": "TEST"
+    "irritated": "PROBLEM"
   },
   {
     "nasal discharge": "PROBLEM"
@@ -163,29 +142,5 @@
   },
   {
     "oxygen": "TREATMENT"
-  },
-  {
-    "rsv": "PROBLEM"
-  },
-  {
-    "bronchiolitis": "PROBLEM"
-  },
-  {
-    "otitis media": "PROBLEM"
-  },
-  {
-    "runny nose": "PROBLEM"
-  },
-  {
-    "difficulty breathing": "PROBLEM"
-  },
-  {
-    "congestion": "PROBLEM"
-  },
-  {
-    "congested": "PROBLEM"
-  },
-  {
-    "cough": "PROBLEM"
   }
 ]

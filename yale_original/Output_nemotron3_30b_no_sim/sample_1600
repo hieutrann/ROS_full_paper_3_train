@@ -1,0 +1,290 @@
+[
+  {
+    "Preeclampsia": "PROBLEM"
+  },
+  {
+    "Cesarean section": "TREATMENT"
+  },
+  {
+    "delivery": "PROBLEM"
+  },
+  {
+    "cesarean section": "TREATMENT"
+  },
+  {
+    "blood pressure": "TREATMENT"
+  },
+  {
+    "blood pressure": "PROBLEM"
+  },
+  {
+    "blood pressure": "PROBLEM"
+  },
+  {
+    "delivery": "PROBLEM"
+  },
+  {
+    "cesarean section": "TREATMENT"
+  },
+  {
+    "blood pressure": "TREATMENT"
+  },
+  {
+    "blood pressure": "PROBLEM"
+  },
+  {
+    "multiple medications": "DRUG"
+  },
+  {
+    "blood pressure": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "fatigue": "PROBLEM"
+  },
+  {
+    "tiredness": "PROBLEM"
+  },
+  {
+    "congenital anomaly": "PROBLEM"
+  },
+  {
+    "surgery": "TREATMENT"
+  },
+  {
+    "intensive care unit": "TEST"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "gestational diabetes mellitus": "PROBLEM"
+  },
+  {
+    "cholesterol": "TEST"
+  },
+  {
+    "coronary artery disease": "PROBLEM"
+  },
+  {
+    "Nonsignificant": "PROBLEM"
+  },
+  {
+    "C-section": "TREATMENT"
+  },
+  {
+    "Cardizem": "DRUG"
+  },
+  {
+    "metoprolol": "DRUG"
+  },
+  {
+    "hydralazine 50 mg t.i.d.": "DRUG"
+  },
+  {
+    "labetalol 200 mg b.i.d.": "DRUG"
+  },
+  {
+    "hydrochlorothiazide": "DRUG"
+  },
+  {
+    "insulin supplementation": "DRUG"
+  },
+  {
+    "None": "PROBLEM"
+  },
+  {
+    "Nonsmoker": "PROBLEM"
+  },
+  {
+    "Does not consume alcohol": "PROBLEM"
+  },
+  {
+    "No history of recreational drug use": "PROBLEM"
+  },
+  {
+    "Hypertension": "PROBLEM"
+  },
+  {
+    "gestational diabetes mellitus": "PROBLEM"
+  },
+  {
+    "pre-eclampsia": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "rigors": "PROBLEM"
+  },
+  {
+    "chills": "PROBLEM"
+  },
+  {
+    "cataract": "PROBLEM"
+  },
+  {
+    "blurry vision": "PROBLEM"
+  },
+  {
+    "glaucoma": "PROBLEM"
+  },
+  {
+    "congestive heart": "PROBLEM"
+  },
+  {
+    "No arrhythmia": "PROBLEM"
+  },
+  {
+    "pneumonia": "PROBLEM"
+  },
+  {
+    "valley fever": "PROBLEM"
+  },
+  {
+    "hematemesis": "PROBLEM"
+  },
+  {
+    "melena": "PROBLEM"
+  },
+  {
+    "No frequency or urgency": "PROBLEM"
+  },
+  {
+    "No arthritis or muscle weakness": "PROBLEM"
+  },
+  {
+    "Nonsignificant": "PROBLEM"
+  },
+  {
+    "TIA": "PROBLEM"
+  },
+  {
+    "CVA": "PROBLEM"
+  },
+  {
+    "seizure disorder": "PROBLEM"
+  },
+  {
+    "Pulse of 86": "PROBLEM"
+  },
+  {
+    "blood pressure 175/86": "PROBLEM"
+  },
+  {
+    "afebrile": "PROBLEM"
+  },
+  {
+    "respiratory rate 16 per minute": "PROBLEM"
+  },
+  {
+    "Atraumatic": "PROBLEM"
+  },
+  {
+    "normocephalic": "PROBLEM"
+  },
+  {
+    "Neck veins": "PROBLEM"
+  },
+  {
+    "LUNGS": "TEST"
+  },
+  {
+    "S1": "TEST"
+  },
+  {
+    "S2": "TEST"
+  },
+  {
+    "Soft and nontender": "PROBLEM"
+  },
+  {
+    "No edema": "PROBLEM"
+  },
+  {
+    "Pulses palpable.": "PROBLEM"
+  },
+  {
+    "EKG": "TEST"
+  },
+  {
+    "BUN and creatinine": "TEST"
+  },
+  {
+    "Preeclampsia": "PROBLEM"
+  },
+  {
+    "Cesarean section": "TREATMENT"
+  },
+  {
+    "borderline gestational diabetes mellitus": "PROBLEM"
+  },
+  {
+    "echocardiogram": "TEST"
+  },
+  {
+    "labetalol": "DRUG"
+  },
+  {
+    "hydralazine": "DRUG"
+  },
+  {
+    "medication": "DRUG"
+  },
+  {
+    "cardizem": "DRUG"
+  },
+  {
+    "metoprolol": "DRUG"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "gestational diabetes mellitus": "PROBLEM"
+  },
+  {
+    "pre-eclampsia": "PROBLEM"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "uncontrolled blood pressure": "PROBLEM"
+  },
+  {
+    "gestational diabetes": "PROBLEM"
+  },
+  {
+    "cesarean section": "TREATMENT"
+  },
+  {
+    "blood": "TEST"
+  },
+  {
+    "nonsmoker": "PROBLEM"
+  },
+  {
+    "gestational": "PROBLEM"
+  },
+  {
+    "preeclampsia": "PROBLEM"
+  },
+  {
+    "cesarean": "TREATMENT"
+  },
+  {
+    "section": "TREATMENT"
+  },
+  {
+    "delivery": "TREATMENT"
+  },
+  {
+    "pressure": "TEST"
+  }
+]

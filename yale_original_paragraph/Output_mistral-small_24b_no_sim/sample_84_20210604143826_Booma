@@ -1,27 +1,18 @@
 [
   {
-    "vaginal delivery": "TREATMENT"
+    "prematurity": "PROBLEM"
   },
   {
-    "C-sections": "TREATMENT"
+    "sepsis": "PROBLEM"
   },
   {
-    "preterm contractions": "PROBLEM"
+    "ampicillin": "DRUG"
   },
   {
     "terbutaline": "DRUG"
   },
   {
     "magnesium sulfate": "DRUG"
-  },
-  {
-    "Apgar scores": "TEST"
-  },
-  {
-    "sepsis": "PROBLEM"
-  },
-  {
-    "prematurity": "PROBLEM"
   },
   {
     "CBC": "TEST"
@@ -36,39 +27,27 @@
     "IV fluids": "TREATMENT"
   },
   {
-    "D10": "DRUG"
-  },
-  {
-    "ampicillin": "DRUG"
+    "D10": "TREATMENT"
   },
   {
     "gentamicin": "DRUG"
   },
   {
-    "feeding issues": "PROBLEM"
+    "EBM 22": "TREATMENT"
   },
   {
-    "EBM 22": "DRUG"
-  },
-  {
-    "NeoSure": "DRUG"
+    "NeoSure": "TREATMENT"
   },
   {
     "OG tube": "TREATMENT"
   },
   {
-    "p.o. feeds": "TREATMENT"
+    "Respiratory distress": "PROBLEM"
   },
   {
-    "respiratory distress": "PROBLEM"
-  },
-  {
-    "preemie": "PROBLEM"
+    "Stable": "PROBLEM"
   },
   {
     "CPR": "TREATMENT"
-  },
-  {
-    "NeoSure 2 to 3 ounces per feed": "DRUG"
   }
 ]

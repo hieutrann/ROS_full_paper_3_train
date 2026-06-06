@@ -6,6 +6,9 @@
     "breast exam": "TEST"
   },
   {
+    "Pap smear": "TEST"
+  },
+  {
     "midchest pain": "PROBLEM"
   },
   {
@@ -69,18 +72,6 @@
     "Colace": "DRUG"
   },
   {
-    "Blood pressure": "TEST"
-  },
-  {
-    "Pulse": "TEST"
-  },
-  {
-    "Respirations": "TEST"
-  },
-  {
-    "Temperature": "TEST"
-  },
-  {
     "lymphadenopathy": "PROBLEM"
   },
   {
@@ -88,6 +79,9 @@
   },
   {
     "hepatosplenomegaly": "PROBLEM"
+  },
+  {
+    "nipple discharge": "PROBLEM"
   },
   {
     "Atrophic vaginal mucosa": "PROBLEM"
@@ -108,6 +102,9 @@
     "edema": "PROBLEM"
   },
   {
+    "rheumatoid arthritis of her hands": "PROBLEM"
+  },
+  {
     "Chest pain": "PROBLEM"
   },
   {
@@ -121,9 +118,6 @@
   },
   {
     "DEXA": "TEST"
-  },
-  {
-    "Pap smear": "TEST"
   },
   {
     "mammogram": "TEST"

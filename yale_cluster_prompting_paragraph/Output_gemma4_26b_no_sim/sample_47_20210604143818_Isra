@@ -108,7 +108,7 @@
     "stomach pain": "PROBLEM"
   },
   {
-    "nausea": "PROBLEM"
+    "Nausea": "PROBLEM"
   },
   {
     "vomiting": "PROBLEM"
@@ -159,16 +159,28 @@
     "bleeding-type symptoms": "PROBLEM"
   },
   {
-    "BP": "TEST"
+    "thyromegaly": "PROBLEM"
   },
   {
-    "PULSE": "TEST"
+    "adenopathy": "PROBLEM"
   },
   {
-    "RESPIRATIONS": "TEST"
+    "flank pain": "PROBLEM"
+  },
+  {
+    "cyanosis": "PROBLEM"
+  },
+  {
+    "clubbing": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
   },
   {
     "metformin": "DRUG"
+  },
+  {
+    "diuretics": "DRUG"
   },
   {
     "CBC": "TEST"
@@ -196,8 +208,5 @@
   },
   {
     "CT of the abdomen and pelvis": "TEST"
-  },
-  {
-    "diuretics": "DRUG"
   }
 ]

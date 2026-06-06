@@ -1,21 +1,18 @@
 [
   {
-    "surgery": "TREATMENT"
-  },
-  {
     "blood pressure": "TEST"
   },
   {
     "Elevated Blood Pressure": "PROBLEM"
   },
   {
-    "labetalol": "DRUG"
+    "IV labetalol": "DRUG"
   },
   {
-    "Blood pressure": "TEST"
+    "Blood pressure": "PROBLEM"
   },
   {
-    "blood pressure": "TEST"
+    "blood pressure": "PROBLEM"
   },
   {
     "elevated blood pressure": "PROBLEM"
@@ -66,19 +63,16 @@
     "prostate": "PROBLEM"
   },
   {
-    "surgery": "TREATMENT"
-  },
-  {
     "blood pressure": "TEST"
   },
   {
-    "labetalol": "DRUG"
+    "IV labetalol": "DRUG"
   },
   {
-    "Blood pressure": "TEST"
+    "Blood pressure": "PROBLEM"
   },
   {
-    "blood pressure": "TEST"
+    "blood pressure": "PROBLEM"
   },
   {
     "blood pressure": "TEST"
@@ -147,16 +141,10 @@
     "terazosin": "DRUG"
   },
   {
-    "PHYSICAL EXAMINATION": "TEST"
+    "Clear to auscultation": "PROBLEM"
   },
   {
-    "acute distress": "PROBLEM"
-  },
-  {
-    "CHEST": "TEST"
-  },
-  {
-    "CARDIOVASCULAR": "TEST"
+    "First and second heart sounds": "TEST"
   },
   {
     "murmur": "PROBLEM"
@@ -168,7 +156,7 @@
     "swelling": "PROBLEM"
   },
   {
-    "Examination": "TEST"
+    "nonfocal": "PROBLEM"
   },
   {
     "Perioperative hypertension": "PROBLEM"
@@ -180,10 +168,16 @@
     "blood pressure": "TEST"
   },
   {
+    "systolic of 150": "PROBLEM"
+  },
+  {
     "lisinopril": "DRUG"
   },
   {
-    "blood pressure": "TEST"
+    "blood pressure": "PROBLEM"
+  },
+  {
+    "150 systolic": "PROBLEM"
   },
   {
     "lisinopril": "DRUG"
@@ -193,9 +187,6 @@
   },
   {
     "laser surgery": "TREATMENT"
-  },
-  {
-    "procedure": "TREATMENT"
   },
   {
     "Graves disease": "PROBLEM"

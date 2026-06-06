@@ -3,7 +3,7 @@
     "itchy rash": "PROBLEM"
   },
   {
-    "itchiness": "PROBLEM"
+    "Itchy Rash": "PROBLEM"
   },
   {
     "back": "PROBLEM"
@@ -60,7 +60,7 @@
     "chronic medical problems": "PROBLEM"
   },
   {
-    "local physician": "PROBLEM"
+    "No local physician": "PROBLEM"
   },
   {
     "back surgery": "TREATMENT"
@@ -93,19 +93,13 @@
     "itchy rash": "PROBLEM"
   },
   {
-    "torso": "PROBLEM"
+    "patient": "PROBLEM"
   },
   {
-    "upper arms": "PROBLEM"
+    "FAMILY HISTORY": "PROBLEM"
   },
   {
-    "wife": "PROBLEM"
-  },
-  {
-    "FAMILY HISTORY": "TEST"
-  },
-  {
-    "MEDICATIONS": "DRUG"
+    "None": "DRUG"
   },
   {
     "TORADOL": "DRUG"
@@ -120,16 +114,13 @@
     "AMPICILLIN": "DRUG"
   },
   {
-    "VITAL SIGNS": "TEST"
-  },
-  {
     "afebrile": "TEST"
   },
   {
-    "distress": "PROBLEM"
+    "tachycardic": "PROBLEM"
   },
   {
-    "gurney": "TEST"
+    "distress": "PROBLEM"
   },
   {
     "HEENT": "TEST"
@@ -144,7 +135,7 @@
     "pharynx": "PROBLEM"
   },
   {
-    "NECK": "TEST"
+    "NECK": "PROBLEM"
   },
   {
     "trachea": "PROBLEM"
@@ -153,10 +144,7 @@
     "stridor": "PROBLEM"
   },
   {
-    "LUNGS": "TEST"
-  },
-  {
-    "breath sounds": "TEST"
+    "LUNGS": "PROBLEM"
   },
   {
     "wheezing": "PROBLEM"
@@ -165,34 +153,28 @@
     "air movement": "TEST"
   },
   {
-    "CARDIAC": "TEST"
+    "murmur": "PROBLEM"
   },
   {
     "tachycardia": "PROBLEM"
   },
   {
-    "ABDOMEN": "TEST"
+    "ABDOMEN": "PROBLEM"
   },
   {
-    "confluence erythematous": "PROBLEM"
+    "confluence erythematous, blanching rash": "PROBLEM"
   },
   {
-    "blanching rash": "PROBLEM"
+    "blotchy papular, macular rash": "PROBLEM"
   },
   {
-    "torso": "TEST"
-  },
-  {
-    "upper arms": "TEST"
-  },
-  {
-    "on his buttocks": "PROBLEM"
+    "buttocks": "PROBLEM"
   },
   {
     "exam": "TEST"
   },
   {
-    "epinephrine 1:1000": "DRUG"
+    "epinephrine": "DRUG"
   },
   {
     "Benadryl": "DRUG"
@@ -207,7 +189,7 @@
     "ACUTE ALLERGIC REACTION": "PROBLEM"
   },
   {
-    "URTIICARIA": "PROBLEM"
+    "URTIcaria": "PROBLEM"
   },
   {
     "PRURITUS": "PROBLEM"
@@ -216,7 +198,7 @@
     "allergic reaction": "PROBLEM"
   },
   {
-    "trigger": "PROBLEM"
+    "this": "PROBLEM"
   },
   {
     "antihistamine": "DRUG"
@@ -264,9 +246,6 @@
     "torso": "TEST"
   },
   {
-    "swelling": "PROBLEM"
-  },
-  {
-    "rash": "PROBLEM"
+    "swelling": "TEST"
   }
 ]

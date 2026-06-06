@@ -27,12 +27,6 @@
     "Diabetes mellitus type 2": "PROBLEM"
   },
   {
-    "Diabetic nephropathy": "PROBLEM"
-  },
-  {
-    "Chronic kidney disease": "PROBLEM"
-  },
-  {
     "Hypertension": "PROBLEM"
   },
   {
@@ -40,9 +34,6 @@
   },
   {
     "Hyperlipidemia": "PROBLEM"
-  },
-  {
-    "Peripheral vascular disease": "PROBLEM"
   },
   {
     "PTA": "TREATMENT"
@@ -84,18 +75,6 @@
     "colchicine": "DRUG"
   },
   {
-    "Blood pressure": "TEST"
-  },
-  {
-    "temperature": "TEST"
-  },
-  {
-    "pulse": "TEST"
-  },
-  {
-    "respirations": "TEST"
-  },
-  {
     "urine culture": "TEST"
   },
   {
@@ -105,13 +84,7 @@
     "hematocrit": "TEST"
   },
   {
-    "segs": "TEST"
-  },
-  {
-    "bands": "TEST"
-  },
-  {
-    "Serum sodium": "TEST"
+    "serum sodium": "TEST"
   },
   {
     "potassium": "TEST"
@@ -147,19 +120,7 @@
     "Urinalysis": "TEST"
   },
   {
-    "white cells": "TEST"
-  },
-  {
-    "protein": "TEST"
-  },
-  {
-    "blood": "TEST"
-  },
-  {
-    "red blood cells": "TEST"
-  },
-  {
-    "urinary tract infection": "PROBLEM"
+    "Urinary tract infection": "PROBLEM"
   },
   {
     "Acute gouty attack": "PROBLEM"
@@ -183,51 +144,18 @@
     "PTA": "TREATMENT"
   },
   {
-    "Chronic kidney disease": "PROBLEM"
+    "chronic kidney disease": "PROBLEM"
   },
   {
     "allopurinol": "DRUG"
+  },
+  {
+    "colchicine": "DRUG"
   },
   {
     "Micardis": "DRUG"
   },
   {
     "Lasix": "DRUG"
-  },
-  {
-    "general medicine": "PROBLEM"
-  },
-  {
-    "hypertension": "PROBLEM"
-  },
-  {
-    "hypercholesterolemia": "PROBLEM"
-  },
-  {
-    "hyperlipidemia": "PROBLEM"
-  },
-  {
-    "pta": "TREATMENT"
-  },
-  {
-    "gouty attack": "PROBLEM"
-  },
-  {
-    "urinary tract infection": "PROBLEM"
-  },
-  {
-    "peripheral vascular disease": "PROBLEM"
-  },
-  {
-    "chronic kidney disease": "PROBLEM"
-  },
-  {
-    "diabetes mellitus": "PROBLEM"
-  },
-  {
-    "diabetic nephropathy": "PROBLEM"
-  },
-  {
-    "disease": "PROBLEM"
   }
 ]

@@ -1,0 +1,50 @@
+[
+  {
+    "atypical pneumonia": "PROBLEM"
+  },
+  {
+    "hypoxia": "PROBLEM"
+  },
+  {
+    "rheumatoid arthritis": "PROBLEM"
+  },
+  {
+    "Suspected mild stress-induced adrenal insufficiency": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "fevers": "PROBLEM"
+  },
+  {
+    "weakness": "PROBLEM"
+  },
+  {
+    "chills": "PROBLEM"
+  },
+  {
+    "loose stools": "PROBLEM"
+  },
+  {
+    "Remicade": "DRUG"
+  },
+  {
+    "methotrexate": "DRUG"
+  },
+  {
+    "prednisone": "DRUG"
+  },
+  {
+    "Rocephin": "DRUG"
+  },
+  {
+    "azithromycin": "DRUG"
+  },
+  {
+    "CT scan": "TEST"
+  },
+  {
+    "C. difficile toxin": "TEST"
+  }
+]

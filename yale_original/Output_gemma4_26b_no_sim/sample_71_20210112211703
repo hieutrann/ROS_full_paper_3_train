@@ -1,6 +1,9 @@
 [
   {
-    "blood pressure": "PROBLEM"
+    "Elevated Blood Pressure": "PROBLEM"
+  },
+  {
+    "blood pressure": "TEST"
   },
   {
     "labetalol": "DRUG"
@@ -9,7 +12,10 @@
     "Blood pressure": "TEST"
   },
   {
-    "elevated blood pressure": "PROBLEM"
+    "blood pressure": "TEST"
+  },
+  {
+    "blood pressure": "PROBLEM"
   },
   {
     "Graves disease": "PROBLEM"
@@ -39,7 +45,10 @@
     "Bilateral inguinal hernia repair": "TREATMENT"
   },
   {
-    "right shoulder surgery with reconstruction": "TREATMENT"
+    "right shoulder surgery": "TREATMENT"
+  },
+  {
+    "reconstruction": "TREATMENT"
   },
   {
     "rotator cuff repair": "TREATMENT"
@@ -64,6 +73,9 @@
   },
   {
     "Blood pressure": "TEST"
+  },
+  {
+    "blood pressure": "TEST"
   },
   {
     "blood pressure": "TEST"
@@ -150,10 +162,16 @@
     "blood pressure": "TEST"
   },
   {
+    "systolic of 150": "TEST"
+  },
+  {
     "lisinopril": "DRUG"
   },
   {
     "blood pressure": "TEST"
+  },
+  {
+    "150 systolic": "PROBLEM"
   },
   {
     "lisinopril": "DRUG"

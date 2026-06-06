@@ -1,12 +1,12 @@
 [
   {
-    "left-sided chest pain": "PROBLEM"
+    "chest pain": "PROBLEM"
   },
   {
     "abdominal surgery": "TREATMENT"
   },
   {
-    "left-sided chest pain": "PROBLEM"
+    "chest pain": "PROBLEM"
   },
   {
     "abdominal surgery": "TREATMENT"
@@ -15,10 +15,10 @@
     "laparoscopic appendicectomy": "TREATMENT"
   },
   {
-    "postoperative paralytic ileus": "PROBLEM"
+    "paralytic ileus": "PROBLEM"
   },
   {
-    "left-sided chest pain": "PROBLEM"
+    "chest pain": "PROBLEM"
   },
   {
     "fluid retention": "PROBLEM"
@@ -81,7 +81,7 @@
     "heart sounds": "TEST"
   },
   {
-    "ABDOMEN": "PROBLEM"
+    "distended": "PROBLEM"
   },
   {
     "Bowel sounds": "TEST"

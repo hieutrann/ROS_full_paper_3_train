@@ -81,6 +81,9 @@
     "masses": "PROBLEM"
   },
   {
+    "nontender": "PROBLEM"
+  },
+  {
     "wheezing": "PROBLEM"
   },
   {
@@ -90,10 +93,22 @@
     "rhonchi": "PROBLEM"
   },
   {
+    "nontender": "PROBLEM"
+  },
+  {
+    "accessory muscle use": "PROBLEM"
+  },
+  {
     "S3": "PROBLEM"
   },
   {
     "S4": "PROBLEM"
+  },
+  {
+    "nontender": "PROBLEM"
+  },
+  {
+    "nondistended": "PROBLEM"
   },
   {
     "hepatomegaly": "PROBLEM"
@@ -115,6 +130,9 @@
   },
   {
     "erythema": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
   },
   {
     "lesions": "PROBLEM"
@@ -142,6 +160,9 @@
   },
   {
     "edema": "PROBLEM"
+  },
+  {
+    "Nontender": "PROBLEM"
   },
   {
     "pain": "PROBLEM"
@@ -177,10 +198,16 @@
     "erythema": "PROBLEM"
   },
   {
+    "nontender": "PROBLEM"
+  },
+  {
     "Anterior and posterior drawer tests": "TEST"
   },
   {
     "Lachman's test": "TEST"
+  },
+  {
+    "nontender": "PROBLEM"
   },
   {
     "edema": "PROBLEM"
@@ -192,13 +219,25 @@
     "effusion": "PROBLEM"
   },
   {
-    "Tinel and Phalen tests": "TEST"
+    "nontender": "PROBLEM"
+  },
+  {
+    "Tinel": "TEST"
+  },
+  {
+    "Phalen tests": "TEST"
   },
   {
     "joint effusion": "PROBLEM"
   },
   {
     "erythema": "PROBLEM"
+  },
+  {
+    "Nontender": "PROBLEM"
+  },
+  {
+    "nontender": "PROBLEM"
   },
   {
     "edema": "PROBLEM"
@@ -208,6 +247,12 @@
   },
   {
     "swinging test": "TEST"
+  },
+  {
+    "nontender": "PROBLEM"
+  },
+  {
+    "pain": "PROBLEM"
   },
   {
     "crepitus": "PROBLEM"
@@ -232,26 +277,5 @@
   },
   {
     "agitation": "PROBLEM"
-  },
-  {
-    "crepitus": "PROBLEM"
-  },
-  {
-    "ecchymosis": "PROBLEM"
-  },
-  {
-    "edema": "PROBLEM"
-  },
-  {
-    "erythema": "PROBLEM"
-  },
-  {
-    "joint effusion": "PROBLEM"
-  },
-  {
-    "lesions": "PROBLEM"
-  },
-  {
-    "effusions": "PROBLEM"
   }
 ]

@@ -6,9 +6,6 @@
     "partial medial meniscectomy": "TREATMENT"
   },
   {
-    "ORIF": "TREATMENT"
-  },
-  {
     "Right tibial plateau fracture": "PROBLEM"
   },
   {
@@ -45,16 +42,22 @@
     "Schatzker III tibial plateau fracture": "PROBLEM"
   },
   {
+    "partial medial meniscectomy": "TREATMENT"
+  },
+  {
     "open reduction and internal fixation": "TREATMENT"
   },
   {
-    "partial medial meniscectomy": "TREATMENT"
+    "recovery": "PROBLEM"
   },
   {
     "dyspnea": "PROBLEM"
   },
   {
     "bronchitis": "PROBLEM"
+  },
+  {
+    "thick secretions": "PROBLEM"
   },
   {
     "fluid overload": "PROBLEM"
@@ -69,10 +72,13 @@
     "Lasix": "DRUG"
   },
   {
-    "breathing well": "TEST"
+    "problem": "PROBLEM"
   },
   {
-    "ABCD": "TEST"
+    "breathing well": "PROBLEM"
+  },
+  {
+    "day #12": "PROBLEM"
   },
   {
     "open reduction and internal fixation": "TREATMENT"
@@ -84,7 +90,7 @@
     "partial medial meniscectomy": "TREATMENT"
   },
   {
-    "ABCD": "TEST"
+    "ABCD": "DRUG"
   },
   {
     "DIET": "TREATMENT"
@@ -135,10 +141,10 @@
     "guaifenesin": "DRUG"
   },
   {
-    "difficulty breathing": "PROBLEM"
+    "breathing": "PROBLEM"
   },
   {
-    "Follow up with Dr.": "TREATMENT"
+    "Dr.": "TREATMENT"
   },
   {
     "Y in 7 to 10 days": "TREATMENT"
@@ -147,39 +153,33 @@
     "CONDITION ON DISCHARGE": "PROBLEM"
   },
   {
-    "open reduction": "TREATMENT"
-  },
-  {
-    "internal fixation": "TREATMENT"
-  },
-  {
     "Schatzker III tibial plateau fracture": "PROBLEM"
   },
   {
     "meniscectomy": "TREATMENT"
   },
   {
-    "tibial plateau fracture": "PROBLEM"
+    "open reduction": "TREATMENT"
+  },
+  {
+    "internal fixation": "TREATMENT"
   },
   {
     "ORIF": "TREATMENT"
   },
   {
-    "Schatzker": "PROBLEM"
+    "Schatzker": "TEST"
   },
   {
-    "fixation": "TREATMENT"
-  },
-  {
-    "reduction": "TREATMENT"
-  },
-  {
-    "tibial": "PROBLEM"
+    "tibial plateau fracture": "PROBLEM"
   },
   {
     "fracture": "PROBLEM"
   },
   {
     "plateau": "PROBLEM"
+  },
+  {
+    "ORIF": "TREATMENT"
   }
 ]

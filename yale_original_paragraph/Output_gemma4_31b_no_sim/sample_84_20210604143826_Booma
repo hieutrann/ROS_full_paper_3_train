@@ -27,10 +27,16 @@
     "Prenatal labs": "TEST"
   },
   {
-    "rubella immune": "PROBLEM"
+    "O positive": "TEST"
   },
   {
-    "RPR": "TEST"
+    "antibody negative": "TEST"
+  },
+  {
+    "rubella immune": "TEST"
+  },
+  {
+    "RPR nonreactive": "TEST"
   },
   {
     "NICU": "TREATMENT"
@@ -42,7 +48,7 @@
     "sepsis": "PROBLEM"
   },
   {
-    "mild retractions": "PROBLEM"
+    "retractions": "PROBLEM"
   },
   {
     "CBC": "TEST"
@@ -69,6 +75,9 @@
     "feeding issues": "PROBLEM"
   },
   {
+    "EBM 22": "TREATMENT"
+  },
+  {
     "NeoSure": "DRUG"
   },
   {
@@ -85,6 +94,9 @@
   },
   {
     "OG tube": "TREATMENT"
+  },
+  {
+    "EBM 22": "TREATMENT"
   },
   {
     "NeoSure": "DRUG"

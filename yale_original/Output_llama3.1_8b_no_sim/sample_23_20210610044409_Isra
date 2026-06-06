@@ -1,6 +1,6 @@
 [
   {
-    "General Medicine": "TREATMENT"
+    "Female Exam": "TEST"
   },
   {
     "Blood pressure": "TEST"
@@ -15,7 +15,13 @@
     "temperature": "TEST"
   },
   {
-    "Alert and in no apparent distress": "PROBLEM"
+    "Alert": "TEST"
+  },
+  {
+    "distress": "PROBLEM"
+  },
+  {
+    "communicative": "TEST"
   },
   {
     "EOMI": "PROBLEM"
@@ -27,28 +33,22 @@
     "Sclerae": "PROBLEM"
   },
   {
-    "lesions": "PROBLEM"
+    "conjunctivae": "PROBLEM"
   },
   {
     "Funduscopic examination": "TEST"
   },
   {
-    "TMs": "PROBLEM"
+    "TMs": "TEST"
+  },
+  {
+    "hearing": "TEST"
   },
   {
     "Nose and Sinuses": "PROBLEM"
   },
   {
-    "Mouth": "PROBLEM"
-  },
-  {
-    "Tongue": "PROBLEM"
-  },
-  {
-    "Teeth": "PROBLEM"
-  },
-  {
-    "Throat": "PROBLEM"
+    "dental work": "TREATMENT"
   },
   {
     "JVD": "PROBLEM"
@@ -60,10 +60,16 @@
     "thyroid abnormality": "PROBLEM"
   },
   {
-    "Lungs": "PROBLEM"
+    "auscultation": "TEST"
   },
   {
-    "HEART": "PROBLEM"
+    "percussion": "TEST"
+  },
+  {
+    "S1": "TEST"
+  },
+  {
+    "S2": "TEST"
   },
   {
     "murmur": "PROBLEM"
@@ -93,10 +99,10 @@
     "Chest wall": "PROBLEM"
   },
   {
-    "axillary or supraclavicular adenopathy": "PROBLEM"
+    "adenopathy": "PROBLEM"
   },
   {
-    "BREASTS": "PROBLEM"
+    "BREASTS": "TEST"
   },
   {
     "hepatosplenomegaly": "PROBLEM"
@@ -123,7 +129,7 @@
     "intraabdominal bruit": "PROBLEM"
   },
   {
-    "EXTERNAL GENITALIA": "TEST"
+    "age": "TEST"
   },
   {
     "Hemoccult": "TEST"
@@ -132,13 +138,7 @@
     "stool": "TEST"
   },
   {
-    "Negative to 7 cm": "TEST"
-  },
-  {
-    "digital palpation": "TEST"
-  },
-  {
-    "distal pulse": "TEST"
+    "gloved digital palpation": "TEST"
   },
   {
     "cyanosis": "PROBLEM"
@@ -150,19 +150,22 @@
     "deep venous thrombosis": "PROBLEM"
   },
   {
-    "edema": "PROBLEM"
+    "hands": "PROBLEM"
   },
   {
-    "nails of the hands and feet": "PROBLEM"
+    "feet": "PROBLEM"
   },
   {
-    "creases of the palms and soles": "PROBLEM"
+    "palms": "PROBLEM"
+  },
+  {
+    "soles": "PROBLEM"
   },
   {
     "range of motion": "TEST"
   },
   {
-    "BACK": "PROBLEM"
+    "BACK": "TEST"
   },
   {
     "spinous process tenderness": "PROBLEM"
@@ -171,7 +174,7 @@
     "CVA tenderness": "PROBLEM"
   },
   {
-    "straight - leg raising": "TEST"
+    "straight-leg raising": "TEST"
   },
   {
     "Kernig": "TEST"
@@ -180,7 +183,10 @@
     "Brudzinski": "TEST"
   },
   {
-    "cranial and peripheral nervous systems": "PROBLEM"
+    "cranial": "PROBLEM"
+  },
+  {
+    "peripheral nervous systems": "PROBLEM"
   },
   {
     "strength": "PROBLEM"
@@ -198,13 +204,16 @@
     "Speech": "PROBLEM"
   },
   {
-    "lucid and rational": "PROBLEM"
+    "lucid": "PROBLEM"
   },
   {
-    "Gait": "TEST"
+    "gait": "PROBLEM"
   },
   {
-    "premalignant or malignant condition": "PROBLEM"
+    "premalignant condition": "PROBLEM"
+  },
+  {
+    "malignant condition": "PROBLEM"
   },
   {
     "SKIN": "TEST"
@@ -225,12 +234,30 @@
     "rigidity": "PROBLEM"
   },
   {
-    "adenopathy": "PROBLEM"
+    "pulse": "TEST"
   },
   {
     "bruit": "TEST"
   },
   {
-    "pulse": "TEST"
+    "adenopathy": "PROBLEM"
+  },
+  {
+    "chest": "TEST"
+  },
+  {
+    "percussion": "TEST"
+  },
+  {
+    "inspection": "TEST"
+  },
+  {
+    "palpation": "TEST"
+  },
+  {
+    "signs": "TEST"
+  },
+  {
+    "tongue": "TEST"
   }
 ]

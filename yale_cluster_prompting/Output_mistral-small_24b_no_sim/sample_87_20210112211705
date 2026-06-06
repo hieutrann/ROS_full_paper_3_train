@@ -9,7 +9,7 @@
     "vomiting": "PROBLEM"
   },
   {
-    "seizure": "PROBLEM"
+    "a probable seizure": "PROBLEM"
   },
   {
     "pneumonia": "PROBLEM"
@@ -18,10 +18,7 @@
     "blood count": "TEST"
   },
   {
-    "IV": "DRUG"
-  },
-  {
-    "antibiotics": "DRUG"
+    "IV antibiotics": "DRUG"
   },
   {
     "p.o.": "DRUG"
@@ -30,7 +27,7 @@
     "antibiotics": "DRUG"
   },
   {
-    "temperature": "TEST"
+    "temperature": "PROBLEM"
   },
   {
     "strep": "PROBLEM"
@@ -42,7 +39,7 @@
     "vomiting": "PROBLEM"
   },
   {
-    "seizure": "PROBLEM"
+    "a probable seizure": "PROBLEM"
   },
   {
     "Temperature": "TEST"
@@ -54,7 +51,7 @@
     "lethargic": "PROBLEM"
   },
   {
-    "LP": "TEST"
+    "an LP": "TEST"
   },
   {
     "blood cultures": "TEST"
@@ -63,34 +60,22 @@
     "CSF": "TEST"
   },
   {
-    "PHYSICAL EXAMINATION": "TEST"
+    "anesthesia": "TREATMENT"
   },
   {
-    "anesthesia": "DRUG"
+    "Head, eyes, ears, nose and throat": "TEST"
   },
   {
-    "auscultation": "TEST"
-  },
-  {
-    "percussion": "TEST"
-  },
-  {
-    "Abdomen": "PROBLEM"
+    "Chest": "PROBLEM"
   },
   {
     "White count": "TEST"
-  },
-  {
-    "emergency room": "TEST"
   },
   {
     "CSF glucose": "TEST"
   },
   {
     "protein": "TEST"
-  },
-  {
-    "cells": "TEST"
   },
   {
     "Gram-stain": "TEST"
@@ -103,6 +88,9 @@
   },
   {
     "white count": "TEST"
+  },
+  {
+    "general medicine": "TREATMENT"
   },
   {
     "antibiotics": "DRUG"

@@ -3,6 +3,9 @@
     "scalp skin biopsy": "TREATMENT"
   },
   {
+    "pathology specimen": "TEST"
+  },
+  {
     "Acute right lobar pneumonia": "PROBLEM"
   },
   {
@@ -24,7 +27,7 @@
     "hypokalemia": "PROBLEM"
   },
   {
-    "Elevated liver function tests": "PROBLEM"
+    "liver function tests": "TEST"
   },
   {
     "moderate-to-severe dementia": "PROBLEM"
@@ -51,10 +54,13 @@
     "scalp skin biopsy": "TREATMENT"
   },
   {
+    "pathology specimen": "TEST"
+  },
+  {
     "thoracentesis": "TREATMENT"
   },
   {
-    "acute care": "TREATMENT"
+    "Clinically improved": "PROBLEM"
   },
   {
     "Flagyl": "DRUG"
@@ -75,13 +81,10 @@
     "nonproductive cough": "PROBLEM"
   },
   {
-    "symptoms": "PROBLEM"
-  },
-  {
     "chest x-ray": "TEST"
   },
   {
-    "evolving right lobar infiltrate": "PROBLEM"
+    "right lobar infiltrate": "PROBLEM"
   },
   {
     "antibiotics": "DRUG"
@@ -102,10 +105,10 @@
     "infection": "PROBLEM"
   },
   {
-    "IV Levaquin": "DRUG"
+    "Levaquin": "DRUG"
   },
   {
-    "IV Flagyl": "DRUG"
+    "Flagyl": "DRUG"
   },
   {
     "C. diff colitis": "PROBLEM"
@@ -115,6 +118,9 @@
   },
   {
     "hypotensive": "PROBLEM"
+  },
+  {
+    "mild symptoms": "PROBLEM"
   },
   {
     "dizzy": "PROBLEM"
@@ -129,7 +135,10 @@
     "fluid and pulmonary treatment": "TREATMENT"
   },
   {
-    "elevated liver function tests": "TEST"
+    "elevated liver function tests": "PROBLEM"
+  },
+  {
+    "liver function tests": "TEST"
   },
   {
     "ultrasound": "TEST"
@@ -141,7 +150,7 @@
     "fluid circling the gallbladder": "PROBLEM"
   },
   {
-    "A HIDA scan": "TEST"
+    "HIDA scan": "TEST"
   },
   {
     "gallbladder dysfunction": "PROBLEM"
@@ -163,9 +172,6 @@
   },
   {
     "pulmonary function": "PROBLEM"
-  },
-  {
-    "LABORATORY TESTS": "TEST"
   },
   {
     "white count": "TEST"

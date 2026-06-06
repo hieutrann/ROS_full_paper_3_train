@@ -1,9 +1,9 @@
 [
   {
-    "Nausea & Vomiting": "PROBLEM"
+    "nausea": "PROBLEM"
   },
   {
-    "intractable nausea and vomiting": "PROBLEM"
+    "vomiting": "PROBLEM"
   },
   {
     "blood-tinged vomit": "PROBLEM"
@@ -63,7 +63,10 @@
     "bladder infection": "PROBLEM"
   },
   {
-    "nausea and vomiting": "PROBLEM"
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
   },
   {
     "vomiting": "PROBLEM"
@@ -90,6 +93,21 @@
     "elevated ALT": "PROBLEM"
   },
   {
-    "nausea and vomiting": "PROBLEM"
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "iv hydration": "TREATMENT"
+  },
+  {
+    "elevated alt": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
   }
 ]

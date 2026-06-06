@@ -3,28 +3,25 @@
     "abdominal pain": "PROBLEM"
   },
   {
-    "weight loss": "PROBLEM"
+    "jaundice": "PROBLEM"
   },
   {
-    "jaundice": "PROBLEM"
+    "Pancreatic Mass": "PROBLEM"
   },
   {
     "epigastric pain": "PROBLEM"
   },
   {
-    "CT scan": "TEST"
-  },
-  {
     "pancreatic mass": "PROBLEM"
   },
   {
-    "lymph nodes": "PROBLEM"
+    "liver metastases": "PROBLEM"
   },
   {
     "ring enhancing lesions": "PROBLEM"
   },
   {
-    "liver metastases": "PROBLEM"
+    "CT scan": "TEST"
   },
   {
     "abdominal pain": "PROBLEM"
@@ -39,16 +36,19 @@
     "epigastric pain": "PROBLEM"
   },
   {
-    "CT scan": "TEST"
-  },
-  {
     "pancreatic mass": "PROBLEM"
   },
   {
-    "lymph nodes": "PROBLEM"
+    "liver metastases": "PROBLEM"
   },
   {
-    "liver metastases": "PROBLEM"
+    "a 4x3x2 cm pancreatic mass": "PROBLEM"
+  },
+  {
+    "ring enhancing lesions": "PROBLEM"
+  },
+  {
+    "a thin - slice CT scan": "TEST"
   },
   {
     "pseudocyst": "PROBLEM"
@@ -57,25 +57,22 @@
     "pancreas": "PROBLEM"
   },
   {
-    "ERCP": "TREATMENT"
+    "ERCP": "TEST"
+  },
+  {
+    "a stent": "TREATMENT"
+  },
+  {
+    "strictured pancreatic duct": "PROBLEM"
+  },
+  {
+    "strictured bile duct": "PROBLEM"
   },
   {
     "stent": "TREATMENT"
   },
   {
-    "pancreatic duct": "PROBLEM"
-  },
-  {
-    "bile duct": "PROBLEM"
-  },
-  {
-    "stent": "TREATMENT"
-  },
-  {
-    "drainage": "TEST"
-  },
-  {
-    "bilirubin": "TEST"
+    "bilirubin": "PROBLEM"
   },
   {
     "liver tests": "TEST"
@@ -90,13 +87,10 @@
     "Phenergan": "DRUG"
   },
   {
-    "stent placement": "TREATMENT"
-  },
-  {
     "nausea": "PROBLEM"
   },
   {
-    "Phenergan": "DRUG"
+    "stent placement": "TREATMENT"
   },
   {
     "white count": "TEST"
@@ -114,16 +108,16 @@
     "platelet count": "TEST"
   },
   {
-    "sodium": "TEST"
+    "sodium": "PROBLEM"
   },
   {
-    "potassium": "TEST"
+    "potassium": "PROBLEM"
   },
   {
-    "chloride": "TEST"
+    "chloride": "PROBLEM"
   },
   {
-    "CO2": "TEST"
+    "CO2": "PROBLEM"
   },
   {
     "BUN": "TEST"
@@ -150,7 +144,7 @@
     "albumin": "TEST"
   },
   {
-    "diet": "TEST"
+    "a regular diet": "TREATMENT"
   },
   {
     "oral hypoglycemics": "DRUG"
@@ -159,13 +153,7 @@
     "insulin": "DRUG"
   },
   {
-    "sliding scale": "TREATMENT"
-  },
-  {
     "Pelican Bay": "TREATMENT"
-  },
-  {
-    "Dr": "TREATMENT"
   },
   {
     "X": "PROBLEM"
@@ -186,10 +174,7 @@
     "chemotherapy": "TREATMENT"
   },
   {
-    "morbidity": "PROBLEM"
-  },
-  {
-    "patient": "PROBLEM"
+    "Dr.": "TREATMENT"
   },
   {
     "DISCHARGE MEDICATIONS": "TREATMENT"
@@ -201,40 +186,31 @@
     "p.r.n.": "DRUG"
   },
   {
-    "2": "TEST"
+    "2": "PROBLEM"
   },
   {
-    "Duragesic patch": "DRUG"
-  },
-  {
-    "100 mcg": "DRUG"
-  },
-  {
-    "q.3.d.": "TREATMENT"
+    "Duragesic patch 100 mcg q.3.d.": "DRUG"
   },
   {
     "3": "PROBLEM"
   },
   {
-    "Benadryl": "DRUG"
+    "Benadryl 25-50 mg p.o.": "DRUG"
   },
   {
-    "q.i.d.": "TREATMENT"
+    "q.i.d.": "DRUG"
   },
   {
     "pruritus": "PROBLEM"
   },
   {
-    "4": "TEST"
+    "4": "PROBLEM"
   },
   {
-    "Sliding scale": "TREATMENT"
+    "Pelican Bay Infirmary": "PROBLEM"
   },
   {
-    "Pelican Bay Infirmary": "TEST"
-  },
-  {
-    "5": "TEST"
+    "5": "PROBLEM"
   },
   {
     "enalapril": "DRUG"
@@ -249,19 +225,19 @@
     "fever": "PROBLEM"
   },
   {
-    "bilirubin": "TEST"
+    "bilirubin": "PROBLEM"
   },
   {
-    "pain": "PROBLEM"
+    "worsening pain": "PROBLEM"
   },
   {
-    "ERCP": "TREATMENT"
+    "ERCP": "TEST"
   },
   {
-    "diet": "TREATMENT"
+    "repeat ERCP": "TREATMENT"
   },
   {
-    "activity": "TREATMENT"
+    "a regular diet": "TREATMENT"
   },
   {
     "abdominal pain": "PROBLEM"

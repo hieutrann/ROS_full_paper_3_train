@@ -1,18 +1,15 @@
 [
   {
-    "Transforaminal Epidural Steroid Injection": "TREATMENT"
+    "Transforaminal Epidural": "TREATMENT"
   },
   {
     "Transforaminal Epidural": "TREATMENT"
   },
   {
-    "lumbar": "PROBLEM"
-  },
-  {
     "fluoroscopy": "TEST"
   },
   {
-    "facet joints": "PROBLEM"
+    "lidocaine": "DRUG"
   },
   {
     "infection": "PROBLEM"
@@ -42,15 +39,6 @@
     "CNS": "PROBLEM"
   },
   {
-    "side effects": "PROBLEM"
-  },
-  {
-    "vascular entry": "PROBLEM"
-  },
-  {
-    "medications": "DRUG"
-  },
-  {
     "sedatives": "DRUG"
   },
   {
@@ -75,10 +63,13 @@
     "fluoroscopy": "TEST"
   },
   {
-    "betadine": "DRUG"
+    "lidocaine": "DRUG"
   },
   {
-    "spinal needle": "TEST"
+    "spinal needle": "TREATMENT"
+  },
+  {
+    "fluoroscopy": "TEST"
   },
   {
     "non-ionic contrast agent": "DRUG"
@@ -90,16 +81,13 @@
     "radiculogram": "TEST"
   },
   {
-    "treatment solution": "DRUG"
+    "treatment solution": "TREATMENT"
   },
   {
-    "preservative free": "DRUG"
+    "vital signs": "TEST"
   },
   {
-    "sterile techniques": "TREATMENT"
-  },
-  {
-    "injection site": "PROBLEM"
+    "oximetry": "TEST"
   },
   {
     "shortness of breath": "PROBLEM"
@@ -120,39 +108,15 @@
     "weakness": "PROBLEM"
   },
   {
-    "sensory or motor changes": "PROBLEM"
+    "sensory": "PROBLEM"
   },
   {
-    "bowel or bladder function": "PROBLEM"
+    "motor": "PROBLEM"
   },
   {
-    "pain management": "PROBLEM"
+    "bowel": "PROBLEM"
   },
   {
-    "epidural lumbar": "TREATMENT"
-  },
-  {
-    "facet joints": "PROBLEM"
-  },
-  {
-    "transforaminal epidural": "TREATMENT"
-  },
-  {
-    "injection": "TREATMENT"
-  },
-  {
-    "transforaminal": "TREATMENT"
-  },
-  {
-    "epidural": "TREATMENT"
-  },
-  {
-    "lumbar": "PROBLEM"
-  },
-  {
-    "fluoroscopy": "TEST"
-  },
-  {
-    "needle": "TEST"
+    "bladder": "PROBLEM"
   }
 ]

@@ -15,7 +15,7 @@
     "difficulties raising his arm over his head": "PROBLEM"
   },
   {
-    "intermittent numbness in his fingers": "PROBLEM"
+    "intermittent numbness": "PROBLEM"
   },
   {
     "anti - inflammatories": "DRUG"
@@ -60,9 +60,6 @@
     "Zoloft": "DRUG"
   },
   {
-    "medications": "DRUG"
-  },
-  {
     "anger control": "PROBLEM"
   },
   {
@@ -72,10 +69,10 @@
     "counseling": "TREATMENT"
   },
   {
-    "RRR": "PROBLEM"
+    "VSS": "TEST"
   },
   {
-    "CTA": "TEST"
+    "RRR": "PROBLEM"
   },
   {
     "tonsils": "PROBLEM"
@@ -139,6 +136,9 @@
   },
   {
     "anger issues": "PROBLEM"
+  },
+  {
+    "counseling": "TREATMENT"
   },
   {
     "adhd": "PROBLEM"

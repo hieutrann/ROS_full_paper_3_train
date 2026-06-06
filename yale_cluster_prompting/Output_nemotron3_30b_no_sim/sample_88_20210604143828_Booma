@@ -1,0 +1,146 @@
+[
+  {
+    "Kawasaki": "PROBLEM"
+  },
+  {
+    "Kawasaki with fever for more than 5 days": "PROBLEM"
+  },
+  {
+    "conjunctivitis": "PROBLEM"
+  },
+  {
+    "mild arthritis with edema": "PROBLEM"
+  },
+  {
+    "rash": "PROBLEM"
+  },
+  {
+    "elevated neutrophils": "PROBLEM"
+  },
+  {
+    "thrombocytosis": "PROBLEM"
+  },
+  {
+    "elevated CRP": "PROBLEM"
+  },
+  {
+    "ESR": "TEST"
+  },
+  {
+    "Kawasaki disease": "PROBLEM"
+  },
+  {
+    "Kawasaki disease": "PROBLEM"
+  },
+  {
+    "Kawasaki": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "conjunctivitis": "PROBLEM"
+  },
+  {
+    "mild arthritis with edema": "PROBLEM"
+  },
+  {
+    "rash": "PROBLEM"
+  },
+  {
+    "elevated neutrophils": "PROBLEM"
+  },
+  {
+    "thrombocytosis": "PROBLEM"
+  },
+  {
+    "elevated CRP": "PROBLEM"
+  },
+  {
+    "elevated ESR": "PROBLEM"
+  },
+  {
+    "fever of 102": "PROBLEM"
+  },
+  {
+    "high dose of aspirin": "DRUG"
+  },
+  {
+    "IVIG": "DRUG"
+  },
+  {
+    "Echocardiogram": "TEST"
+  },
+  {
+    "IVIG": "TREATMENT"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "rash": "PROBLEM"
+  },
+  {
+    "conjunctivitis": "PROBLEM"
+  },
+  {
+    "p.o.": "TREATMENT"
+  },
+  {
+    "cardiac followup": "TREATMENT"
+  },
+  {
+    "Ad-lib.": "TREATMENT"
+  },
+  {
+    "PO ad-lib.": "TREATMENT"
+  },
+  {
+    "Aspirin high dose 340 mg q.6h": "DRUG"
+  },
+  {
+    "aspirin low dose 40 mg q.d.": "DRUG"
+  },
+  {
+    "Prevacid": "DRUG"
+  },
+  {
+    "aspirin 15 mg p.o.": "DRUG"
+  },
+  {
+    "primary doctor": "TREATMENT"
+  },
+  {
+    "echo": "TEST"
+  },
+  {
+    "IVIG": "DRUG"
+  },
+  {
+    "any rashes": "PROBLEM"
+  },
+  {
+    "any fevers": "PROBLEM"
+  },
+  {
+    "mucous membranes": "PROBLEM"
+  },
+  {
+    "conjunctivitis": "PROBLEM"
+  },
+  {
+    "Kawasaki disease": "PROBLEM"
+  },
+  {
+    "vaccine": "DRUG"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "aspirin": "DRUG"
+  }
+]

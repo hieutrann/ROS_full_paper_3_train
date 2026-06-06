@@ -21,7 +21,7 @@
     "pancreatic mass": "PROBLEM"
   },
   {
-    "involved lymph nodes": "PROBLEM"
+    "lymph nodes": "PROBLEM"
   },
   {
     "ring enhancing lesions": "PROBLEM"
@@ -48,7 +48,7 @@
     "pancreatic mass": "PROBLEM"
   },
   {
-    "involved lymph nodes": "PROBLEM"
+    "lymph nodes": "PROBLEM"
   },
   {
     "ring enhancing lesions": "PROBLEM"
@@ -60,10 +60,10 @@
     "pseudocyst": "PROBLEM"
   },
   {
-    "tail of the pancreas": "PROBLEM"
+    "pancreas": "PROBLEM"
   },
   {
-    "ERCP": "TREATMENT"
+    "ERCP": "TEST"
   },
   {
     "stent": "TREATMENT"
@@ -183,6 +183,9 @@
     "pruritus": "PROBLEM"
   },
   {
+    "Sliding scale": "TREATMENT"
+  },
+  {
     "enalapril": "DRUG"
   },
   {
@@ -198,13 +201,19 @@
     "fever": "PROBLEM"
   },
   {
-    "increased bilirubin": "PROBLEM"
+    "bilirubin": "TEST"
   },
   {
-    "worsening pain": "PROBLEM"
+    "pain": "PROBLEM"
+  },
+  {
+    "regular diet": "TREATMENT"
   },
   {
     "abdominal pain": "PROBLEM"
+  },
+  {
+    "lymph nodes": "PROBLEM"
   },
   {
     "weight loss": "PROBLEM"

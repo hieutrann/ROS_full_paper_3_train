@@ -6,16 +6,16 @@
     "Total thyroidectomy": "TREATMENT"
   },
   {
-    "Symptomatic thyroid goiter": "PROBLEM"
+    "thyroid goiter": "PROBLEM"
   },
   {
-    "Symptomatic thyroid goiter": "PROBLEM"
+    "thyroid goiter": "PROBLEM"
   },
   {
     "Total thyroidectomy": "TREATMENT"
   },
   {
-    "goiter": "PROBLEM"
+    "thyroid goiter": "PROBLEM"
   },
   {
     "total thyroidectomy": "TREATMENT"
@@ -27,16 +27,10 @@
     "afebrile": "PROBLEM"
   },
   {
-    "vital signs": "TEST"
-  },
-  {
-    "intravenous narcotics": "DRUG"
+    "narcotics": "DRUG"
   },
   {
     "pain": "PROBLEM"
-  },
-  {
-    "discharge": "TREATMENT"
   },
   {
     "diet": "TREATMENT"
@@ -48,10 +42,10 @@
     "vital signs": "TEST"
   },
   {
-    "pain": "PROBLEM"
+    "pain control": "TREATMENT"
   },
   {
-    "drain": "TREATMENT"
+    "wound": "PROBLEM"
   },
   {
     "Vicodin": "DRUG"
@@ -63,16 +57,19 @@
     "Synthroid": "DRUG"
   },
   {
-    "thyroid": "PROBLEM"
-  },
-  {
-    "wound": "PROBLEM"
+    "thyroid hormone": "DRUG"
   },
   {
     "wound care": "TREATMENT"
   },
   {
-    "nodular symptomatic thyroid goiter": "PROBLEM"
+    "discharge summary": "TEST"
+  },
+  {
+    "nodular": "PROBLEM"
+  },
+  {
+    "symptomatic thyroid goiter": "PROBLEM"
   },
   {
     "thyroidectomy": "TREATMENT"

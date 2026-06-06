@@ -1,6 +1,6 @@
 [
   {
-    "Mesothelioma": "PROBLEM"
+    "mesothelioma": "PROBLEM"
   },
   {
     "pleural effusion": "PROBLEM"
@@ -36,7 +36,7 @@
     "Port-A-Cath placement": "TREATMENT"
   },
   {
-    "nonproductive cough": "PROBLEM"
+    "cough": "PROBLEM"
   },
   {
     "chest pain": "PROBLEM"
@@ -58,6 +58,9 @@
   },
   {
     "intracranial thrombolytic treatment": "TREATMENT"
+  },
+  {
+    "MCA": "PROBLEM"
   },
   {
     "Mesenteric venous thrombosis": "PROBLEM"
@@ -96,28 +99,10 @@
     "Amiodarone": "DRUG"
   },
   {
-    "numbness and tingling": "PROBLEM"
+    "numbness": "PROBLEM"
   },
   {
-    "VITAL SIGNS": "TEST"
-  },
-  {
-    "Blood pressure": "TEST"
-  },
-  {
-    "heart rate": "TEST"
-  },
-  {
-    "respirations": "TEST"
-  },
-  {
-    "temperature": "TEST"
-  },
-  {
-    "oxygen saturation": "TEST"
-  },
-  {
-    "pain with coughing": "PROBLEM"
+    "tingling": "PROBLEM"
   },
   {
     "lymphadenopathy": "PROBLEM"
@@ -169,9 +154,6 @@
   },
   {
     "fluid biopsies": "TEST"
-  },
-  {
-    "epithelioid malignant mesothelioma": "PROBLEM"
   },
   {
     "PET CT": "TEST"

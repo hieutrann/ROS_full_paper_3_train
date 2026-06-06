@@ -1,0 +1,122 @@
+[
+  {
+    "asthma": "PROBLEM"
+  },
+  {
+    "allergic rhinitis": "PROBLEM"
+  },
+  {
+    "cervical dysplasia": "PROBLEM"
+  },
+  {
+    "vaginal irritation": "PROBLEM"
+  },
+  {
+    "irritability": "PROBLEM"
+  },
+  {
+    "PMS": "PROBLEM"
+  },
+  {
+    "spotting": "PROBLEM"
+  },
+  {
+    "urinary tract infection": "PROBLEM"
+  },
+  {
+    "hematuria": "PROBLEM"
+  },
+  {
+    "premenstrual dysphoric disorder": "PROBLEM"
+  },
+  {
+    "hot flashes": "PROBLEM"
+  },
+  {
+    "night sweats": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "headaches": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "heartburn": "PROBLEM"
+  },
+  {
+    "constipation": "PROBLEM"
+  },
+  {
+    "diarrhea": "PROBLEM"
+  },
+  {
+    "dysuria": "PROBLEM"
+  },
+  {
+    "stress incontinence": "PROBLEM"
+  },
+  {
+    "polyphagia": "PROBLEM"
+  },
+  {
+    "polydipsia": "PROBLEM"
+  },
+  {
+    "polyuria": "PROBLEM"
+  },
+  {
+    "urinary tract infection": "PROBLEM"
+  },
+  {
+    "lab work": "TEST"
+  },
+  {
+    "cholesterol": "TEST"
+  },
+  {
+    "urine": "TEST"
+  },
+  {
+    "Proventil": "DRUG"
+  },
+  {
+    "Allegra": "DRUG"
+  },
+  {
+    "Flonase": "DRUG"
+  },
+  {
+    "Advair": "DRUG"
+  },
+  {
+    "Singulair": "DRUG"
+  },
+  {
+    "fluoxetine": "DRUG"
+  },
+  {
+    "calcium": "DRUG"
+  },
+  {
+    "vitamin D": "DRUG"
+  },
+  {
+    "Proventil inhaler": "DRUG"
+  },
+  {
+    "Flovent": "TREATMENT"
+  },
+  {
+    "pap smear": "TEST"
+  },
+  {
+    "screening mammogram": "TEST"
+  },
+  {
+    "self-breast exam": "TEST"
+  }
+]

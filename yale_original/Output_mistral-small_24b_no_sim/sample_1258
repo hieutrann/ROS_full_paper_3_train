@@ -12,13 +12,13 @@
     "Motor vehicle accident": "PROBLEM"
   },
   {
+    "Hispanic": "PROBLEM"
+  },
+  {
+    "motor vehicle collision": "PROBLEM"
+  },
+  {
     "seatbelt": "TREATMENT"
-  },
-  {
-    "airbag": "TREATMENT"
-  },
-  {
-    "head": "PROBLEM"
   },
   {
     "pain": "PROBLEM"
@@ -33,10 +33,7 @@
     "abdomen": "PROBLEM"
   },
   {
-    "steering wheel": "PROBLEM"
-  },
-  {
-    "airbag": "PROBLEM"
+    "airbag": "TREATMENT"
   },
   {
     "pain": "PROBLEM"
@@ -45,13 +42,7 @@
     "pain": "PROBLEM"
   },
   {
-    "painful": "PROBLEM"
-  },
-  {
-    "bones": "PROBLEM"
-  },
-  {
-    "walk": "PROBLEM"
+    "pelvis": "PROBLEM"
   },
   {
     "backboard": "TREATMENT"
@@ -63,7 +54,7 @@
     "difficulty breathing": "PROBLEM"
   },
   {
-    "open lacerations": "PROBLEM"
+    "lacerations": "PROBLEM"
   },
   {
     "abrasions": "PROBLEM"
@@ -81,25 +72,37 @@
     "feverish": "PROBLEM"
   },
   {
-    "chilled": "PROBLEM"
+    "pain": "PROBLEM"
   },
   {
-    "pain": "PROBLEM"
+    "abdomen": "PROBLEM"
   },
   {
     "menstrual cycle": "PROBLEM"
   },
   {
+    "pregnant": "PROBLEM"
+  },
+  {
+    "oral birth control medications": "DRUG"
+  },
+  {
+    "intrauterine device": "TREATMENT"
+  },
+  {
     "Accutane": "DRUG"
   },
   {
-    "birth control medications": "DRUG"
-  },
-  {
-    "intrauterine device": "DRUG"
-  },
-  {
     "acne": "PROBLEM"
+  },
+  {
+    "tobacco": "DRUG"
+  },
+  {
+    "alcohol": "DRUG"
+  },
+  {
+    "illicit drug": "DRUG"
   },
   {
     "Accutane": "DRUG"
@@ -112,6 +115,9 @@
   },
   {
     "cervical spine": "PROBLEM"
+  },
+  {
+    "collar": "TREATMENT"
   },
   {
     "capsular retractions": "PROBLEM"
@@ -138,13 +144,16 @@
     "pulse oximetry": "TEST"
   },
   {
-    "crepitus": "PROBLEM"
+    "Head": "TEST"
+  },
+  {
+    "lacerations": "PROBLEM"
+  },
+  {
+    "Sclerae": "TEST"
   },
   {
     "Fundoscopic exam": "TEST"
-  },
-  {
-    "External ocular movements": "TEST"
   },
   {
     "nystagmus": "PROBLEM"
@@ -153,10 +162,16 @@
     "entrapment": "PROBLEM"
   },
   {
-    "Nares": "TEST"
+    "mucoid discharge": "PROBLEM"
   },
   {
     "mucous membranes": "PROBLEM"
+  },
+  {
+    "exudate": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
   },
   {
     "thyromegaly": "PROBLEM"
@@ -177,7 +192,10 @@
     "HEART": "PROBLEM"
   },
   {
-    "Clear": "TEST"
+    "S1": "TEST"
+  },
+  {
+    "S2": "TEST"
   },
   {
     "murmur": "PROBLEM"
@@ -201,10 +219,10 @@
     "rhonchi": "PROBLEM"
   },
   {
-    "bilateral lower pelvic quadrants": "PROBLEM"
+    "tenderness": "PROBLEM"
   },
   {
-    "bowel sounds": "PROBLEM"
+    "bowel sounds": "TEST"
   },
   {
     "rigidity": "PROBLEM"
@@ -216,9 +234,6 @@
     "CVA tenderness": "PROBLEM"
   },
   {
-    "edema": "PROBLEM"
-  },
-  {
     "Capillary refill": "TEST"
   },
   {
@@ -228,16 +243,10 @@
     "radial pulses": "TEST"
   },
   {
-    "Alert": "TEST"
+    "Cranial nerves": "TEST"
   },
   {
-    "oriented": "TEST"
-  },
-  {
-    "Cranial nerves II through XII": "TEST"
-  },
-  {
-    "distal and proximal muscle group strength": "TEST"
+    "muscle group strength": "PROBLEM"
   },
   {
     "Romberg": "TEST"
@@ -249,19 +258,16 @@
     "adenopathy": "PROBLEM"
   },
   {
-    "pain free range of motion": "PROBLEM"
+    "pain": "PROBLEM"
   },
   {
     "tenderness": "PROBLEM"
   },
   {
-    "Warm": "PROBLEM"
+    "SKIN": "PROBLEM"
   },
   {
-    "dry": "PROBLEM"
-  },
-  {
-    "abrasions": "PROBLEM"
+    "abrasion": "PROBLEM"
   },
   {
     "abrasion": "PROBLEM"
@@ -273,6 +279,15 @@
     "umbilicus": "PROBLEM"
   },
   {
+    "lacerations": "PROBLEM"
+  },
+  {
+    "trauma": "PROBLEM"
+  },
+  {
+    "bleeding": "PROBLEM"
+  },
+  {
     "x-rays": "TEST"
   },
   {
@@ -282,7 +297,7 @@
     "pelvis": "TEST"
   },
   {
-    "right hip": "PROBLEM"
+    "right hip": "TEST"
   },
   {
     "CT scan": "TEST"
@@ -303,13 +318,7 @@
     "brain": "PROBLEM"
   },
   {
-    "acute intracranial injury": "PROBLEM"
-  },
-  {
     "mucus": "PROBLEM"
-  },
-  {
-    "left sphenoid sinus": "PROBLEM"
   },
   {
     "CT scan": "TEST"
@@ -322,6 +331,12 @@
   },
   {
     "CT scan": "TEST"
+  },
+  {
+    "contrast": "DRUG"
+  },
+  {
+    "laboratory studies": "TEST"
   },
   {
     "CBC": "TEST"
@@ -339,7 +354,13 @@
     "urine pregnancy test": "TEST"
   },
   {
-    "blood": "PROBLEM"
+    "urinalysis": "TEST"
+  },
+  {
+    "bony deformities": "PROBLEM"
+  },
+  {
+    "abnormalities": "PROBLEM"
   },
   {
     "Tylenol": "DRUG"
@@ -349,6 +370,9 @@
   },
   {
     "pain": "PROBLEM"
+  },
+  {
+    "medication": "DRUG"
   },
   {
     "CT scans": "TEST"
@@ -363,7 +387,10 @@
     "abrasion": "PROBLEM"
   },
   {
-    "abdomen": "PROBLEM"
+    "seatbelt": "TREATMENT"
+  },
+  {
+    "airbag": "TREATMENT"
   },
   {
     "abrasions": "PROBLEM"
@@ -381,13 +408,13 @@
     "motor vehicle collision": "PROBLEM"
   },
   {
-    "intraabdominal or pelvic abnormities": "PROBLEM"
-  },
-  {
     "CT scans": "TEST"
   },
   {
-    "scans": "TEST"
+    "brain": "TEST"
+  },
+  {
+    "C-spine": "TEST"
   },
   {
     "pain": "PROBLEM"
@@ -411,10 +438,16 @@
     "muscular pain": "PROBLEM"
   },
   {
+    "general medicine": "TEST"
+  },
+  {
     "accutane": "DRUG"
   },
   {
     "contusions": "PROBLEM"
+  },
+  {
+    "emergency department course": "TEST"
   },
   {
     "motor vehicle accident": "PROBLEM"
@@ -427,5 +460,8 @@
   },
   {
     "emergency department": "TEST"
+  },
+  {
+    "accident": "PROBLEM"
   }
 ]

@@ -1,9 +1,9 @@
 [
   {
-    "Right-sided facial droop": "PROBLEM"
+    "facial droop": "PROBLEM"
   },
   {
-    "Right-sided weakness": "PROBLEM"
+    "weakness": "PROBLEM"
   },
   {
     "cerebrovascular accident": "PROBLEM"
@@ -42,16 +42,25 @@
     "CT scan": "TEST"
   },
   {
-    "head": "TEST"
-  },
-  {
     "cerebrovascular accident": "PROBLEM"
   },
   {
     "urinary tract infection": "PROBLEM"
   },
   {
+    "medications": "DRUG"
+  },
+  {
     "PENICILLIN": "DRUG"
+  },
+  {
+    "nondrinker": "PROBLEM"
+  },
+  {
+    "nonsmoker": "PROBLEM"
+  },
+  {
+    "PAST MEDICAL HISTORY": "TEST"
   },
   {
     "Cerebrovascular accident": "PROBLEM"
@@ -63,7 +72,7 @@
     "lower extremity weakness": "PROBLEM"
   },
   {
-    "Abnormality of gait": "PROBLEM"
+    "gait": "PROBLEM"
   },
   {
     "Hypertension": "PROBLEM"
@@ -108,28 +117,22 @@
     "Temperature": "TEST"
   },
   {
-    "pulse": "TEST"
-  },
-  {
-    "respirations": "TEST"
-  },
-  {
     "blood pressure": "TEST"
   },
   {
-    "HEENT": "TEST"
+    "Pupils": "TEST"
   },
   {
     "External ocular muscles": "TEST"
   },
   {
-    "Conjunctivae anicteric": "PROBLEM"
+    "Conjunctivae": "TEST"
   },
   {
     "right-sided facial droop": "PROBLEM"
   },
   {
-    "Oropharynx": "PROBLEM"
+    "teeth": "PROBLEM"
   },
   {
     "Tympanic membranes": "TEST"
@@ -147,25 +150,16 @@
     "LUNGS": "PROBLEM"
   },
   {
-    "ABDOMEN": "PROBLEM"
-  },
-  {
-    "Bowel": "PROBLEM"
+    "Bowel sound": "TEST"
   },
   {
     "pedal edema": "PROBLEM"
   },
   {
-    "knees": "PROBLEM"
-  },
-  {
     "fixed flexion deformity": "PROBLEM"
   },
   {
-    "right-sided slight facial droop": "PROBLEM"
-  },
-  {
-    "upper extremities": "TEST"
+    "facial droop": "PROBLEM"
   },
   {
     "withdrawal": "PROBLEM"
@@ -216,13 +210,16 @@
     "urinalysis": "TEST"
   },
   {
-    "white blood cells": "PROBLEM"
+    "white blood cells": "TEST"
   },
   {
-    "red blood cells": "PROBLEM"
+    "red blood cells": "TEST"
   },
   {
     "E. coli": "PROBLEM"
+  },
+  {
+    "culture": "TEST"
   },
   {
     "amikacin": "DRUG"
@@ -240,7 +237,7 @@
     "cerebrovascular accident": "PROBLEM"
   },
   {
-    "right-sided weakness": "PROBLEM"
+    "weakness": "PROBLEM"
   },
   {
     "Hypertension": "PROBLEM"
@@ -261,13 +258,10 @@
     "lower extremity weakness": "PROBLEM"
   },
   {
-    "NPO": "TREATMENT"
-  },
-  {
     "swallowing evaluation": "TEST"
   },
   {
-    "IV Vasotec": "DRUG"
+    "Vasotec": "DRUG"
   },
   {
     "systolic blood pressure": "TEST"
@@ -277,6 +271,9 @@
   },
   {
     "amikacin": "DRUG"
+  },
+  {
+    "IV": "TREATMENT"
   },
   {
     "Lovenox": "DRUG"
@@ -294,16 +291,10 @@
     "Diovan": "DRUG"
   },
   {
-    "daily": "DRUG"
-  },
-  {
     "multivitamin": "DRUG"
   },
   {
-    "calcium": "DRUG"
-  },
-  {
-    "vitamin D": "DRUG"
+    "calcium with vitamin D": "DRUG"
   },
   {
     "Ecotrin": "DRUG"
@@ -330,7 +321,7 @@
     "facial droop": "PROBLEM"
   },
   {
-    "weakness": "PROBLEM"
+    "wheelchair bound": "PROBLEM"
   },
   {
     "blood pressure": "TEST"
@@ -340,5 +331,8 @@
   },
   {
     "cerebrovascular accident": "PROBLEM"
+  },
+  {
+    "weakness": "PROBLEM"
   }
 ]

@@ -3,7 +3,7 @@
     "chest pain": "PROBLEM"
   },
   {
-    "left-sided with severe chest tightness": "PROBLEM"
+    "chest tightness": "PROBLEM"
   },
   {
     "psychological disorders": "PROBLEM"
@@ -12,7 +12,7 @@
     "chest pain": "PROBLEM"
   },
   {
-    "left-sided with severe chest tightness": "PROBLEM"
+    "chest tightness": "PROBLEM"
   },
   {
     "psychological disorders": "PROBLEM"
@@ -25,9 +25,6 @@
   },
   {
     "cardiac workup": "TEST"
-  },
-  {
-    "drug screen": "TEST"
   },
   {
     "methadone": "DRUG"
@@ -126,9 +123,6 @@
     "illicit drug abuse": "PROBLEM"
   },
   {
-    "VITAL SIGNS": "TEST"
-  },
-  {
     "blood pressure": "TEST"
   },
   {
@@ -150,6 +144,9 @@
     "lymphadenopathy": "PROBLEM"
   },
   {
+    "LUNGS": "TEST"
+  },
+  {
     "regular rate and rhythm": "TEST"
   },
   {
@@ -160,9 +157,6 @@
   },
   {
     "Distal pulses": "TEST"
-  },
-  {
-    "LABORATORY DATA": "TEST"
   },
   {
     "WBC count": "TEST"
@@ -213,7 +207,7 @@
     "EKG": "TEST"
   },
   {
-    "sinus rhythm": "PROBLEM"
+    "sinus rhythm": "TEST"
   },
   {
     "ST-T wave changes": "PROBLEM"

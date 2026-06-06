@@ -90,18 +90,6 @@
     "nauseated feeling": "PROBLEM"
   },
   {
-    "vital signs": "TEST"
-  },
-  {
-    "temperature": "TEST"
-  },
-  {
-    "pulse": "TEST"
-  },
-  {
-    "blood pressure": "TEST"
-  },
-  {
     "EKG": "TEST"
   },
   {
@@ -183,9 +171,6 @@
     "dialysis": "TREATMENT"
   },
   {
-    "white count": "TEST"
-  },
-  {
     "chronic bronchitis": "PROBLEM"
   },
   {
@@ -241,23 +226,5 @@
   },
   {
     "stroke": "PROBLEM"
-  },
-  {
-    "end-stage renal disease": "PROBLEM"
-  },
-  {
-    "lymphoma": "PROBLEM"
-  },
-  {
-    "cholecystitis": "PROBLEM"
-  },
-  {
-    "congestive heart failure": "PROBLEM"
-  },
-  {
-    "skin lymphoma": "PROBLEM"
-  },
-  {
-    "laparoscopic cholecystectomy": "TREATMENT"
   }
 ]

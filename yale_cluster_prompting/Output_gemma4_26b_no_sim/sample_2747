@@ -15,7 +15,7 @@
     "Cut on foot": "PROBLEM"
   },
   {
-    "glass fall on to his right foot": "PROBLEM"
+    "right foot": "PROBLEM"
   },
   {
     "bleeding": "PROBLEM"
@@ -27,12 +27,6 @@
     "pain": "PROBLEM"
   },
   {
-    "numbness": "PROBLEM"
-  },
-  {
-    "weakness": "PROBLEM"
-  },
-  {
     "Asthma": "PROBLEM"
   },
   {
@@ -40,9 +34,6 @@
   },
   {
     "smoker": "PROBLEM"
-  },
-  {
-    "VITAL SIGNS": "TEST"
   },
   {
     "Temperature": "TEST"
@@ -60,43 +51,22 @@
     "Oxygen saturation": "TEST"
   },
   {
+    "range of motion": "TEST"
+  },
+  {
     "Peripheral pulse": "TEST"
   },
   {
     "Capillary refills": "TEST"
   },
   {
-    "RESPIRATIONS": "TEST"
-  },
-  {
     "shortness of breath": "PROBLEM"
   },
   {
-    "partial thickness laceration": "PROBLEM"
+    "4-mm partial thickness laceration": "PROBLEM"
   },
   {
     "foreign body": "PROBLEM"
-  },
-  {
-    "bleeding": "PROBLEM"
-  },
-  {
-    "exposed deeper tissues": "PROBLEM"
-  },
-  {
-    "exposed tendons": "PROBLEM"
-  },
-  {
-    "bone": "PROBLEM"
-  },
-  {
-    "muscle": "PROBLEM"
-  },
-  {
-    "nerves": "PROBLEM"
-  },
-  {
-    "vessels": "PROBLEM"
   },
   {
     "laceration": "PROBLEM"
@@ -108,22 +78,16 @@
     "bleeding": "PROBLEM"
   },
   {
-    "tenderness to the foot": "PROBLEM"
+    "range of motion": "TEST"
   },
   {
-    "4-mm partial thickness laceration": "PROBLEM"
+    "partial thickness laceration": "PROBLEM"
   },
   {
-    "NEUROLOGIC": "TEST"
+    "speech": "TEST"
   },
   {
-    "speech": "PROBLEM"
-  },
-  {
-    "ambulation": "PROBLEM"
-  },
-  {
-    "active bleeding": "PROBLEM"
+    "ambulation": "TEST"
   },
   {
     "bruising": "PROBLEM"
@@ -135,19 +99,13 @@
     "bandage": "TREATMENT"
   },
   {
-    "foot": "PROBLEM"
-  },
-  {
-    "A 4-MM LACERATION": "PROBLEM"
+    "4-MM LACERATION": "PROBLEM"
   },
   {
     "RIGHT FOOT": "PROBLEM"
   },
   {
     "ACUTE RIGHT FOOT PAIN": "PROBLEM"
-  },
-  {
-    "wound care": "TREATMENT"
   },
   {
     "infection": "PROBLEM"
@@ -163,9 +121,6 @@
   },
   {
     "cut on foot": "PROBLEM"
-  },
-  {
-    "piece of glass": "PROBLEM"
   },
   {
     "foreign body": "PROBLEM"

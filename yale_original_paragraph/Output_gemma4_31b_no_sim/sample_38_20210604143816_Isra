@@ -57,6 +57,9 @@
     "diarrhea": "PROBLEM"
   },
   {
+    "weight": "TEST"
+  },
+  {
     "vomiting": "PROBLEM"
   },
   {
@@ -105,7 +108,7 @@
     "Specific gravity": "TEST"
   },
   {
-    "protein": "TEST"
+    "protein": "PROBLEM"
   },
   {
     "Sodium": "TEST"
@@ -157,6 +160,15 @@
   },
   {
     "IV fluids": "TREATMENT"
+  },
+  {
+    "weight": "TEST"
+  },
+  {
+    "height": "TEST"
+  },
+  {
+    "temperature": "TEST"
   },
   {
     "pulse": "TEST"

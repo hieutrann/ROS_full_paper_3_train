@@ -3,13 +3,13 @@
     "hypertension": "PROBLEM"
   },
   {
-    "severe tricuspid regurgitation": "PROBLEM"
+    "tricuspid regurgitation": "PROBLEM"
   },
   {
-    "mild pulmonary hypertension": "PROBLEM"
+    "pulmonary hypertension": "PROBLEM"
   },
   {
-    "mild aortic stenosis": "PROBLEM"
+    "aortic stenosis": "PROBLEM"
   },
   {
     "mitral regurgitation": "PROBLEM"
@@ -24,10 +24,10 @@
     "wandering atrial pacemaker": "PROBLEM"
   },
   {
-    "shortness of breath": "PROBLEM"
+    "palpitations": "PROBLEM"
   },
   {
-    "palpitations": "PROBLEM"
+    "shortness of breath": "PROBLEM"
   },
   {
     "chest pain": "PROBLEM"
@@ -42,34 +42,16 @@
     "bradycardia": "PROBLEM"
   },
   {
-    "hypokalemia": "PROBLEM"
-  },
-  {
     "atrial tachycardia": "PROBLEM"
   },
   {
     "sinus rhythm": "PROBLEM"
   },
   {
-    "hip fracture": "PROBLEM"
-  },
-  {
-    "atrial": "PROBLEM"
-  },
-  {
-    "tachycardia": "PROBLEM"
-  },
-  {
-    "rhythm": "PROBLEM"
-  },
-  {
     "apcs": "PROBLEM"
   },
   {
-    "cardiac": "PROBLEM"
-  },
-  {
-    "regurgitation": "PROBLEM"
+    "cardiac regurgitation": "PROBLEM"
   },
   {
     "aortic": "PROBLEM"
@@ -81,60 +63,87 @@
     "pulmonary": "PROBLEM"
   },
   {
-    "Multivitamin": "DRUG"
+    "atrial": "PROBLEM"
   },
   {
-    "Aspirin": "DRUG"
+    "tachycardia": "PROBLEM"
   },
   {
-    "Lisinopril": "DRUG"
+    "rhythm": "PROBLEM"
   },
   {
-    "Felodipine": "DRUG"
+    "hip fracture": "PROBLEM"
   },
   {
-    "Klor-Con": "DRUG"
+    "left hip fracture": "PROBLEM"
   },
   {
-    "Omeprazole": "DRUG"
+    "cardizem": "DRUG"
   },
   {
-    "MiraLax": "DRUG"
+    "verapamil": "DRUG"
   },
   {
-    "Lasix": "DRUG"
+    "toprol": "DRUG"
   },
   {
-    "Cardizem": "DRUG"
+    "lisinopril": "DRUG"
   },
   {
-    "Verapamil": "DRUG"
+    "felodipine": "DRUG"
   },
   {
-    "Toprol": "DRUG"
+    "klor-con": "DRUG"
   },
   {
-    "Persantine": "DRUG"
+    "omeprazole": "DRUG"
   },
   {
-    "Myoview": "DRUG"
+    "miralax": "DRUG"
   },
   {
-    "ECG": "TEST"
+    "lasix": "DRUG"
   },
   {
-    "EKG": "TEST"
+    "aspirin": "DRUG"
+  },
+  {
+    "multivitamin": "DRUG"
+  },
+  {
+    "proton pump inhibitors": "DRUG"
   },
   {
     "chest x-ray": "TEST"
   },
   {
+    "radiology report": "TEST"
+  },
+  {
+    "EKG": "TEST"
+  },
+  {
     "telemetry": "TEST"
+  },
+  {
+    "stress test": "TEST"
+  },
+  {
+    "arteriogram": "TEST"
+  },
+  {
+    "pacemaker implantation": "TREATMENT"
   },
   {
     "surgery": "TREATMENT"
   },
   {
     "left hip surgery": "TREATMENT"
+  },
+  {
+    "beta-blockers": "TREATMENT"
+  },
+  {
+    "verapamil": "TREATMENT"
   }
 ]

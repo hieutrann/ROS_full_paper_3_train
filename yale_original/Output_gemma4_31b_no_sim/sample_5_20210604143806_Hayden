@@ -1,11 +1,5 @@
 [
   {
-    "Congestion": "PROBLEM"
-  },
-  {
-    "Cough": "PROBLEM"
-  },
-  {
     "cold": "PROBLEM"
   },
   {
@@ -51,10 +45,7 @@
     "physical exam": "TEST"
   },
   {
-    "right TM": "TEST"
-  },
-  {
-    "red": "PROBLEM"
+    "right TM": "PROBLEM"
   },
   {
     "Left TM": "TEST"
@@ -93,7 +84,7 @@
     "Aldex": "DRUG"
   },
   {
-    "normal spontaneous vaginal delivery": "TREATMENT"
+    "spontaneous vaginal delivery": "TREATMENT"
   },
   {
     "hearing screen": "TEST"
@@ -108,19 +99,13 @@
     "retractions": "PROBLEM"
   },
   {
-    "right TM": "TEST"
+    "red": "PROBLEM"
   },
   {
-    "red and irritated": "PROBLEM"
-  },
-  {
-    "light reflex": "TEST"
+    "irritated": "PROBLEM"
   },
   {
     "nasal discharge": "PROBLEM"
-  },
-  {
-    "NECK": "TEST"
   },
   {
     "tachycardic": "PROBLEM"

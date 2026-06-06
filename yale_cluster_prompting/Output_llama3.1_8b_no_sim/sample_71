@@ -1,15 +1,6 @@
 [
   {
-    "General Medicine": "TEST"
-  },
-  {
-    "Gen Med": "TEST"
-  },
-  {
-    "Progress Note": "TEST"
-  },
-  {
-    "General Medicine": "TEST"
+    "General Medicine": "PROBLEM"
   },
   {
     "diabetes mellitus": "PROBLEM"
@@ -27,9 +18,6 @@
     "Accu-Cheks": "TEST"
   },
   {
-    "feels well": "PROBLEM"
-  },
-  {
     "She walks 1-2 miles most days": "TREATMENT"
   },
   {
@@ -42,16 +30,7 @@
     "mammogram": "TEST"
   },
   {
-    "Baylis Building": "TEST"
-  },
-  {
-    "Dr.": "TREATMENT"
-  },
-  {
-    "gynecological care": "TREATMENT"
-  },
-  {
-    "nonsmoker": "PROBLEM"
+    "Dr": "TREATMENT"
   },
   {
     "abdominal pain": "PROBLEM"
@@ -78,22 +57,16 @@
     "nocturia": "PROBLEM"
   },
   {
-    "swelling in her ankles": "PROBLEM"
+    "swelling": "PROBLEM"
   },
   {
-    "feet": "PROBLEM"
+    "Refer to chart": "TREATMENT"
   },
   {
-    "PAST MEDICAL HISTORY": "TEST"
-  },
-  {
-    "MEDICATIONS": "DRUG"
+    "MEDICATIONS": "TREATMENT"
   },
   {
     "ALLERGIES": "PROBLEM"
-  },
-  {
-    "Vitals": "TEST"
   },
   {
     "Wt": "TEST"
@@ -114,28 +87,28 @@
     "70-year-old female": "PROBLEM"
   },
   {
-    "sinus tenderness": "PROBLEM"
+    "frontal sinus": "PROBLEM"
   },
   {
-    "palpation": "TEST"
+    "maxillary sinus": "PROBLEM"
   },
   {
     "TM": "PROBLEM"
   },
   {
-    "Neck": "TEST"
+    "Neck": "PROBLEM"
   },
   {
     "Heart": "PROBLEM"
   },
   {
-    "Lungs": "TEST"
+    "Lungs": "PROBLEM"
   },
   {
     "Abdomen": "PROBLEM"
   },
   {
-    "swelling": "PROBLEM"
+    "No swelling": "PROBLEM"
   },
   {
     "IMPRESSION": "TEST"
@@ -162,10 +135,10 @@
     "Allegra D": "DRUG"
   },
   {
-    "b.i.d.": "TREATMENT"
+    "b.i.d.": "TEST"
   },
   {
-    "days": "TEST"
+    "x 3 days": "TREATMENT"
   },
   {
     "2": "TEST"
@@ -189,31 +162,28 @@
     "TSH": "TEST"
   },
   {
-    "4": "TEST"
+    "4": "TREATMENT"
   },
   {
     "Partners in Prevention": "TREATMENT"
   },
   {
-    "5": "TEST"
+    "5": "TREATMENT"
   },
   {
     "colonoscopy": "TEST"
   },
   {
-    "6": "PROBLEM"
+    "6": "TEST"
   },
   {
-    "stools for occult blood": "TEST"
+    "occult blood": "TEST"
   },
   {
     "colonoscopy": "TEST"
   },
   {
     "cancer": "PROBLEM"
-  },
-  {
-    "7": "PROBLEM"
   },
   {
     "Diet": "TREATMENT"
@@ -231,13 +201,10 @@
     "8": "PROBLEM"
   },
   {
-    "prescriptions": "DRUG"
+    "prescriptions": "TREATMENT"
   },
   {
     "diabetes mellitus": "PROBLEM"
-  },
-  {
-    "accu-cheks": "DRUG"
   },
   {
     "sinusitis": "PROBLEM"
@@ -258,12 +225,15 @@
     "nausea": "PROBLEM"
   },
   {
-    "colonoscopy": "TEST"
+    "vomiting": "PROBLEM"
   },
   {
     "weight loss": "PROBLEM"
   },
   {
-    "diabetes": "PROBLEM"
+    "colonoscopy": "TEST"
+  },
+  {
+    "accu-cheks": "DRUG"
   }
 ]

@@ -36,13 +36,16 @@
     "Solu-Medrol": "DRUG"
   },
   {
-    "fishbone": "PROBLEM"
+    "airway compromise": "PROBLEM"
   },
   {
     "foreign body": "PROBLEM"
   },
   {
-    "airway compromise": "PROBLEM"
+    "fishbone": "PROBLEM"
+  },
+  {
+    "intubated": "TREATMENT"
   },
   {
     "tracheostomy": "TREATMENT"

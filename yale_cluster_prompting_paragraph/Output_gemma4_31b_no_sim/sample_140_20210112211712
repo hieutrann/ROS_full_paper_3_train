@@ -1,8 +1,5 @@
 [
   {
-    "VITAL SIGNS": "TEST"
-  },
-  {
     "Blood pressure": "TEST"
   },
   {
@@ -15,7 +12,25 @@
     "temperature": "TEST"
   },
   {
+    "apparent distress": "PROBLEM"
+  },
+  {
+    "EOMI": "TEST"
+  },
+  {
+    "PERRLA": "TEST"
+  },
+  {
+    "nonicteric": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
     "Funduscopic examination": "TEST"
+  },
+  {
+    "TMs": "TEST"
   },
   {
     "bruit": "PROBLEM"
@@ -28,6 +43,12 @@
   },
   {
     "thyroid abnormality": "PROBLEM"
+  },
+  {
+    "auscultation": "TEST"
+  },
+  {
+    "percussion": "TEST"
   },
   {
     "murmur": "PROBLEM"
@@ -51,7 +72,16 @@
     "gallop": "PROBLEM"
   },
   {
-    "axillary or supraclavicular adenopathy": "PROBLEM"
+    "inspection": "TEST"
+  },
+  {
+    "palpation": "TEST"
+  },
+  {
+    "axillary": "PROBLEM"
+  },
+  {
+    "supraclavicular adenopathy": "PROBLEM"
   },
   {
     "hepatosplenomegaly": "PROBLEM"
@@ -72,10 +102,22 @@
     "guarding": "PROBLEM"
   },
   {
+    "aortic impulse": "TEST"
+  },
+  {
     "intraabdominal bruit": "PROBLEM"
   },
   {
+    "digital palpation": "TEST"
+  },
+  {
     "Hemoccult-negative stool": "TEST"
+  },
+  {
+    "distal pulse": "TEST"
+  },
+  {
+    "perfusion": "TEST"
   },
   {
     "edema": "PROBLEM"
@@ -88,6 +130,9 @@
   },
   {
     "deep venous thrombosis": "PROBLEM"
+  },
+  {
+    "percussion": "TEST"
   },
   {
     "spinous process tenderness": "PROBLEM"
@@ -105,30 +150,9 @@
     "Brudzinski signs": "TEST"
   },
   {
-    "premalignant or malignant condition": "PROBLEM"
+    "premalignant": "PROBLEM"
   },
   {
-    "hepatosplenomegaly": "PROBLEM"
-  },
-  {
-    "mass": "PROBLEM"
-  },
-  {
-    "tenderness": "PROBLEM"
-  },
-  {
-    "rebound": "PROBLEM"
-  },
-  {
-    "rigidity": "PROBLEM"
-  },
-  {
-    "pulse": "TEST"
-  },
-  {
-    "bruit": "PROBLEM"
-  },
-  {
-    "adenopathy": "PROBLEM"
+    "malignant condition": "PROBLEM"
   }
 ]

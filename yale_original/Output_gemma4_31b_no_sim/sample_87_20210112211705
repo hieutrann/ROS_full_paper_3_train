@@ -24,7 +24,7 @@
     "antibiotics": "DRUG"
   },
   {
-    "temperature of 102": "PROBLEM"
+    "temperature": "TEST"
   },
   {
     "strep": "PROBLEM"
@@ -55,12 +55,6 @@
   },
   {
     "anesthesia": "TREATMENT"
-  },
-  {
-    "auscultation": "TEST"
-  },
-  {
-    "percussion": "TEST"
   },
   {
     "White count": "TEST"

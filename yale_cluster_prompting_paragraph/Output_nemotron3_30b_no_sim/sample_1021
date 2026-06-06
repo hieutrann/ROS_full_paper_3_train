@@ -1,0 +1,56 @@
+[
+  {
+    "bilateral screening mammogram": "TEST"
+  },
+  {
+    "craniocaudal": "TEST"
+  },
+  {
+    "mediolateral oblique": "TEST"
+  },
+  {
+    "fibroglandular": "PROBLEM"
+  },
+  {
+    "benign-appearing calcifications": "PROBLEM"
+  },
+  {
+    "dominant mass": "PROBLEM"
+  },
+  {
+    "architecture distortion": "PROBLEM"
+  },
+  {
+    "malignant-type calcifications": "PROBLEM"
+  },
+  {
+    "skin overlying both breasts": "PROBLEM"
+  },
+  {
+    "benign": "PROBLEM"
+  },
+  {
+    "mammographic": "PROBLEM"
+  },
+  {
+    "mammogram": "PROBLEM"
+  },
+  {
+    "breasts": "PROBLEM"
+  },
+  {
+    "screening": "PROBLEM"
+  },
+  {
+    "mammography": "PROBLEM"
+  },
+  {
+    "breast cancer": "PROBLEM"
+  },
+  {
+    "iCAD SecondLook Software Version 7.2": "TEST"
+  },
+  {
+    "FDA-approved digital mammography equipment": "TEST"
+  }
+]

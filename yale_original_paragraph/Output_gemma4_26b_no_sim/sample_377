@@ -42,9 +42,6 @@
     "right flank pain": "PROBLEM"
   },
   {
-    "spots on her shoulder": "PROBLEM"
-  },
-  {
     "urgency of urine": "PROBLEM"
   },
   {
@@ -60,7 +57,7 @@
     "hepatitis titer": "TEST"
   },
   {
-    "pain in her thumbs": "PROBLEM"
+    "pain in the thumbs": "PROBLEM"
   },
   {
     "swelling": "PROBLEM"
@@ -135,16 +132,7 @@
     "thyromegaly": "PROBLEM"
   },
   {
-    "murmur": "PROBLEM"
-  },
-  {
-    "Radial pulses": "TEST"
-  },
-  {
-    "organomegaly": "PROBLEM"
-  },
-  {
-    "tinea versicolor rash": "PROBLEM"
+    "tinea versicolor": "PROBLEM"
   },
   {
     "lesion": "PROBLEM"
@@ -153,16 +141,10 @@
     "cyanosis": "PROBLEM"
   },
   {
-    "posterior tibial pulses": "TEST"
-  },
-  {
-    "Gait": "TEST"
-  },
-  {
     "punch biopsy": "TEST"
   },
   {
-    "selenium sulfide lotion": "DRUG"
+    "selenium sulfide lotion": "TREATMENT"
   },
   {
     "Cystocele": "PROBLEM"
@@ -175,11 +157,5 @@
   },
   {
     "Gastroesophageal reflux disease": "PROBLEM"
-  },
-  {
-    "stomach pain": "PROBLEM"
-  },
-  {
-    "tinea versicolor": "PROBLEM"
   }
 ]

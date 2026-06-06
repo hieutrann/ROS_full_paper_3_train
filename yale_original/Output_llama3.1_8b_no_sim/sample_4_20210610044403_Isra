@@ -18,7 +18,7 @@
     "confused": "PROBLEM"
   },
   {
-    "garbled speech": "PROBLEM"
+    "speech": "PROBLEM"
   },
   {
     "decreased level of consciousness": "PROBLEM"
@@ -27,13 +27,10 @@
     "aphasia": "PROBLEM"
   },
   {
-    "unresponsive": "PROBLEM"
+    "blood sugar": "TEST"
   },
   {
-    "blood sugar": "PROBLEM"
-  },
-  {
-    "intake": "PROBLEM"
+    "intake": "TREATMENT"
   },
   {
     "D50": "DRUG"
@@ -69,7 +66,7 @@
     "pacemaker": "TREATMENT"
   },
   {
-    "type 2 diabetic": "PROBLEM"
+    "diabetes": "PROBLEM"
   },
   {
     "neuropathy": "PROBLEM"
@@ -84,7 +81,10 @@
     "cholecystectomy": "TREATMENT"
   },
   {
-    "colon cancer surgery": "TREATMENT"
+    "colon cancer": "PROBLEM"
+  },
+  {
+    "surgery": "TREATMENT"
   },
   {
     "pacemaker placement": "TREATMENT"
@@ -123,7 +123,7 @@
     "constipation": "PROBLEM"
   },
   {
-    "bleeding per rectum": "PROBLEM"
+    "bleeding": "PROBLEM"
   },
   {
     "melena": "PROBLEM"
@@ -135,7 +135,10 @@
     "urinary tract infection": "PROBLEM"
   },
   {
-    "ENDOCRINE": "PROBLEM"
+    "symptoms": "PROBLEM"
+  },
+  {
+    "bed-bound status": "PROBLEM"
   },
   {
     "Percocet": "DRUG"
@@ -183,7 +186,7 @@
     "Nystatin": "DRUG"
   },
   {
-    "oxygen": "DRUG"
+    "oxygen": "TREATMENT"
   },
   {
     "children": "PROBLEM"
@@ -198,10 +201,10 @@
     "Family history": "PROBLEM"
   },
   {
-    "alert": "TEST"
+    "alert": "PROBLEM"
   },
   {
-    "comfortable": "TEST"
+    "comfortable": "PROBLEM"
   },
   {
     "Blood pressure": "TEST"
@@ -222,7 +225,7 @@
     "Blood sugars": "TEST"
   },
   {
-    "HEENT": "TEST"
+    "mucous membranes": "PROBLEM"
   },
   {
     "pallor": "PROBLEM"
@@ -237,13 +240,16 @@
     "auscultation": "TEST"
   },
   {
-    "ABDOMEN": "PROBLEM"
+    "obese": "PROBLEM"
   },
   {
-    "Bilateral lower extremities edema": "PROBLEM"
+    "edema": "PROBLEM"
   },
   {
     "left side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
   },
   {
     "power": "TEST"
@@ -276,22 +282,16 @@
     "pro time": "TEST"
   },
   {
-    "Urine": "TEST"
-  },
-  {
-    "white cells": "PROBLEM"
+    "white cells": "TEST"
   },
   {
     "cultures": "TEST"
   },
   {
-    "culture": "TEST"
-  },
-  {
     "guaiac": "TEST"
   },
   {
-    "mixed cultures": "PROBLEM"
+    "culture": "TEST"
   },
   {
     "Septra": "DRUG"
@@ -300,7 +300,7 @@
     "UTI": "PROBLEM"
   },
   {
-    "IMPRESSION/PLAN": "PROBLEM"
+    "IMPRESSION/PLAN": "TREATMENT"
   },
   {
     "Cerebrovascular accident": "PROBLEM"
@@ -318,10 +318,7 @@
     "Coumadin": "DRUG"
   },
   {
-    "2": "TEST"
-  },
-  {
-    "Recurrent urinary tract infection": "PROBLEM"
+    "urinary tract infection": "PROBLEM"
   },
   {
     "Cipro": "DRUG"
@@ -331,6 +328,9 @@
   },
   {
     "hypoglycemia": "PROBLEM"
+  },
+  {
+    "blood sugar": "PROBLEM"
   },
   {
     "Humulin N": "DRUG"
@@ -348,9 +348,6 @@
     "Percocet": "DRUG"
   },
   {
-    "5": "TEST"
-  },
-  {
     "Hypothyroidism": "PROBLEM"
   },
   {
@@ -363,7 +360,7 @@
     "Lipitor": "DRUG"
   },
   {
-    "resuscitation": "PROBLEM"
+    "resuscitation": "TREATMENT"
   },
   {
     "cerebrovascular accident": "PROBLEM"
@@ -387,31 +384,22 @@
     "hyperlipidemia": "PROBLEM"
   },
   {
-    "decreased level of consciousness": "PROBLEM"
+    "level of consciousness": "TEST"
   },
   {
-    "urinary tract infection": "PROBLEM"
+    "urinary tract": "TEST"
   },
   {
-    "decreased level": "PROBLEM"
-  },
-  {
-    "blood sugar": "PROBLEM"
-  },
-  {
-    "garbled speech": "PROBLEM"
-  },
-  {
-    "mental status": "PROBLEM"
-  },
-  {
-    "urinary tract": "PROBLEM"
+    "blood sugar": "TEST"
   },
   {
     "coumadin": "DRUG"
   },
   {
     "blood": "TEST"
+  },
+  {
+    "emergency department": "TEST"
   },
   {
     "cultures": "TEST"

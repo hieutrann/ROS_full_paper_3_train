@@ -6,7 +6,7 @@
     "popping sensation": "PROBLEM"
   },
   {
-    "persistent shoulder pain": "PROBLEM"
+    "shoulder pain": "PROBLEM"
   },
   {
     "cervical radiculopathies": "PROBLEM"
@@ -16,18 +16,6 @@
   },
   {
     "Claritin": "DRUG"
-  },
-  {
-    "Blood pressure": "TEST"
-  },
-  {
-    "respirations": "TEST"
-  },
-  {
-    "pulse": "TEST"
-  },
-  {
-    "temperature": "TEST"
   },
   {
     "adenopathy": "PROBLEM"
@@ -58,5 +46,17 @@
   },
   {
     "MRI": "TEST"
+  },
+  {
+    "paresthesias": "PROBLEM"
+  },
+  {
+    "shoulder pain": "PROBLEM"
+  },
+  {
+    "strain": "PROBLEM"
+  },
+  {
+    "impingement": "PROBLEM"
   }
 ]

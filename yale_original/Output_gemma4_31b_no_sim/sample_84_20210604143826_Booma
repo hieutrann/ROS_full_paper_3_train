@@ -33,19 +33,19 @@
     "Nuchal cord": "PROBLEM"
   },
   {
+    "Prenatal": "TEST"
+  },
+  {
     "Prenatal labs": "TEST"
   },
   {
-    "O positive": "TEST"
+    "antibody": "TEST"
   },
   {
-    "antibody negative": "TEST"
+    "rubella immune": "PROBLEM"
   },
   {
-    "rubella immune": "TEST"
-  },
-  {
-    "RPR nonreactive": "TEST"
+    "RPR": "TEST"
   },
   {
     "suctioned": "TREATMENT"
@@ -111,7 +111,10 @@
     "OG tube": "TREATMENT"
   },
   {
-    "EBM": "DRUG"
+    "feeds": "TREATMENT"
+  },
+  {
+    "EBM": "TREATMENT"
   },
   {
     "NeoSure": "DRUG"
@@ -135,12 +138,24 @@
     "NeoSure": "DRUG"
   },
   {
-    "Ad lib feeding": "TREATMENT"
+    "feeding": "TREATMENT"
+  },
+  {
+    "gestation": "PROBLEM"
+  },
+  {
+    "preemie": "PROBLEM"
   },
   {
     "prematurity": "PROBLEM"
   },
   {
     "sepsis": "PROBLEM"
+  },
+  {
+    "neosure": "DRUG"
+  },
+  {
+    "feeds": "TREATMENT"
   }
 ]

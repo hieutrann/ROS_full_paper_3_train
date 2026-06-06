@@ -51,13 +51,10 @@
     "hypertension": "PROBLEM"
   },
   {
-    "POLLENS": "PROBLEM"
+    "polle": "PROBLEM"
   },
   {
     "alprazolam": "DRUG"
-  },
-  {
-    "p.r.n.": "DRUG"
   },
   {
     "mirtazapine": "DRUG"
@@ -69,22 +66,13 @@
     "Namenda": "DRUG"
   },
   {
-    "b.i.d.": "DRUG"
-  },
-  {
     "Benicar": "DRUG"
   },
   {
     "Claritin": "DRUG"
   },
   {
-    "moderate-to-severe dementia": "PROBLEM"
-  },
-  {
-    "awake": "PROBLEM"
-  },
-  {
-    "alert": "PROBLEM"
+    "dementia": "PROBLEM"
   },
   {
     "acute distress": "PROBLEM"
@@ -105,22 +93,61 @@
     "pulse ox": "TEST"
   },
   {
+    "Atraumatic": "PROBLEM"
+  },
+  {
     "Pupils": "TEST"
   },
   {
-    "Throat": "PROBLEM"
+    "Sclerae": "TEST"
+  },
+  {
+    "conjunctivae": "TEST"
+  },
+  {
+    "pharyngeal inflammation": "PROBLEM"
+  },
+  {
+    "exudate": "PROBLEM"
+  },
+  {
+    "Oral mucosa": "TEST"
+  },
+  {
+    "jugular venous distention": "PROBLEM"
+  },
+  {
+    "Carotids": "TEST"
+  },
+  {
+    "bruit": "TEST"
   },
   {
     "Thyroid gland": "PROBLEM"
   },
   {
-    "S1 and S2": "TEST"
+    "lymph nodes": "PROBLEM"
+  },
+  {
+    "S1": "TEST"
+  },
+  {
+    "S2": "TEST"
+  },
+  {
+    "murmur": "PROBLEM"
   },
   {
     "LUNGS": "TEST"
   },
   {
-    "diffusely tender": "PROBLEM"
+    "tender": "PROBLEM"
+  },
+  {
+    "rebound": "TEST"
+  },
+  {
+    "rigidity": "PROBLEM"
   },
   {
     "Bowel sounds": "TEST"
@@ -132,7 +159,13 @@
     "pedal edema": "PROBLEM"
   },
   {
+    "dorsalis pedis pulsations": "TEST"
+  },
+  {
     "BREASTS": "TEST"
+  },
+  {
+    "decubitus": "PROBLEM"
   },
   {
     "WBC": "TEST"
@@ -157,6 +190,9 @@
   },
   {
     "PTT": "TEST"
+  },
+  {
+    "Urinalysis": "TEST"
   },
   {
     "nitrite": "TEST"
@@ -207,7 +243,7 @@
     "lipase": "TEST"
   },
   {
-    "abdomen": "TEST"
+    "X-ray": "TEST"
   },
   {
     "splenic granulomas": "PROBLEM"
@@ -327,19 +363,10 @@
     "Osteoarthrosis": "PROBLEM"
   },
   {
-    "medical floor": "TREATMENT"
-  },
-  {
-    "NPO": "TREATMENT"
-  },
-  {
     "IV antibiotics": "DRUG"
   },
   {
     "IV fluids": "TREATMENT"
-  },
-  {
-    "p.o.": "TREATMENT"
   },
   {
     "medications": "DRUG"
@@ -351,10 +378,7 @@
     "pain control": "TREATMENT"
   },
   {
-    "Zofran": "DRUG"
-  },
-  {
-    "IV": "DRUG"
+    "Zofran IV p.r.n.": "DRUG"
   },
   {
     "bedrest": "TREATMENT"
@@ -363,16 +387,10 @@
     "DVT prophylaxis": "TREATMENT"
   },
   {
-    "blood": "TEST"
+    "blood cultures": "TEST"
   },
   {
-    "urine": "TEST"
-  },
-  {
-    "cultures": "TEST"
-  },
-  {
-    "general medicine": "PROBLEM"
+    "urine cultures": "TEST"
   },
   {
     "leukocytosis": "PROBLEM"
@@ -381,36 +399,30 @@
     "abdominal pain": "PROBLEM"
   },
   {
-    "lipase count": "TEST"
-  },
-  {
-    "platelet count": "TEST"
-  },
-  {
-    "potassium chloride": "DRUG"
-  },
-  {
     "acute pancreatitis": "PROBLEM"
   },
   {
     "vomiting": "PROBLEM"
   },
   {
-    "abdominal": "PROBLEM"
-  },
-  {
     "dementia": "PROBLEM"
   },
   {
-    "amylase": "TEST"
+    "nausea": "PROBLEM"
+  },
+  {
+    "lipase count": "TEST"
+  },
+  {
+    "platelet count": "TEST"
   },
   {
     "lipase": "TEST"
   },
   {
-    "pancreatitis": "PROBLEM"
+    "amylase": "TEST"
   },
   {
-    "nausea": "PROBLEM"
+    "potassium chloride": "DRUG"
   }
 ]

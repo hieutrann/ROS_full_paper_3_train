@@ -1,0 +1,197 @@
+[
+  {
+    "acute COPD exacerbation": "PROBLEM"
+  },
+  {
+    "ADMISSION DIAGNOSIS (ES)": "PROBLEM"
+  },
+  {
+    "Chronic obstructive pulmonary disease": "PROBLEM"
+  },
+  {
+    "Pneumonia": "PROBLEM"
+  },
+  {
+    "Congestive heart failure": "PROBLEM"
+  },
+  {
+    "Diabetes mellitus": "PROBLEM"
+  },
+  {
+    "Neuropathy.": "PROBLEM"
+  },
+  {
+    "Anxiety": "PROBLEM"
+  },
+  {
+    "Hypothyroidism": "PROBLEM"
+  },
+  {
+    "Depression.": "PROBLEM"
+  },
+  {
+    "Hypertension": "PROBLEM"
+  },
+  {
+    "Severe chronic obstructive pulmonary disease": "PROBLEM"
+  },
+  {
+    "Diabetes mellitus": "PROBLEM"
+  },
+  {
+    "Hypothyroidism": "PROBLEM"
+  },
+  {
+    "Altered mental status": "PROBLEM"
+  },
+  {
+    "somnolent": "PROBLEM"
+  },
+  {
+    "Lower gastrointestinal bleed": "PROBLEM"
+  },
+  {
+    "atrial fibrillation": "PROBLEM"
+  },
+  {
+    "Status post diverticular bleed.": "PROBLEM"
+  },
+  {
+    "DISCHARGE MEDICATIONS": "PROBLEM"
+  },
+  {
+    "Albuterol inhaler q.i.d.": "DRUG"
+  },
+  {
+    "Xanax 1 mg t.i.d.": "DRUG"
+  },
+  {
+    "Cardizem CD 120 mg daily.": "DRUG"
+  },
+  {
+    "Colace 100 mg b.i.d.": "DRUG"
+  },
+  {
+    "Iron sulfate 325 mg b.i.d.": "DRUG"
+  },
+  {
+    "NPH 10 units subcutaneous b.i.d.": "DRUG"
+  },
+  {
+    "Atrovent inhaler q.i.d.": "DRUG"
+  },
+  {
+    "Statin oral suspension p.o.": "DRUG"
+  },
+  {
+    "swish and spit": "TEST"
+  },
+  {
+    "Paxil 10 mg daily.": "DRUG"
+  },
+  {
+    "Prednisone 20 mg daily.": "DRUG"
+  },
+  {
+    "Darvocet": "DRUG"
+  },
+  {
+    "Darvocet-N 100": "DRUG"
+  },
+  {
+    "one q.4h PRN pain": "TREATMENT"
+  },
+  {
+    "Metamucil one pack b.i.d.": "DRUG"
+  },
+  {
+    "Synthroid 50 mcg daily.": "DRUG"
+  },
+  {
+    "Nexium 40 mg daily.": "DRUG"
+  },
+  {
+    "acute COPD exacerbation": "PROBLEM"
+  },
+  {
+    "BiPAP": "TEST"
+  },
+  {
+    "COPD": "PROBLEM"
+  },
+  {
+    "bronchitis": "PROBLEM"
+  },
+  {
+    "antibiotics": "DRUG"
+  },
+  {
+    "acute lower GI bleed": "PROBLEM"
+  },
+  {
+    "packed red blood cells": "TEST"
+  },
+  {
+    "diverticular disease of the sigmoid colon": "PROBLEM"
+  },
+  {
+    "Plavix": "DRUG"
+  },
+  {
+    "Lovenox": "DRUG"
+  },
+  {
+    "respiratory status": "PROBLEM"
+  },
+  {
+    "She is discharged and given the above noted medications.": "TREATMENT"
+  },
+  {
+    "Pesce, of diagnostic pulmonary, in the outpatient setting.": "PROBLEM"
+  },
+  {
+    "Pesce, in the outpatient setting.": "PROBLEM"
+  },
+  {
+    "chronic obstructive pulmonary disease": "PROBLEM"
+  },
+  {
+    "pneumonia": "PROBLEM"
+  },
+  {
+    "congestive heart failure": "PROBLEM"
+  },
+  {
+    "diabetes mellitus": "PROBLEM"
+  },
+  {
+    "neuropathy": "PROBLEM"
+  },
+  {
+    "anxiety": "PROBLEM"
+  },
+  {
+    "hypothyroidism": "PROBLEM"
+  },
+  {
+    "depression": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "obstructive pulmonary disease": "PROBLEM"
+  },
+  {
+    "pulmonary disease": "PROBLEM"
+  },
+  {
+    "exacerbation": "PROBLEM"
+  },
+  {
+    "breath": "PROBLEM"
+  }
+]

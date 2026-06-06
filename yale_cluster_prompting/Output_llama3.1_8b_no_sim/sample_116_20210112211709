@@ -6,58 +6,40 @@
     "thyroidectomy": "TREATMENT"
   },
   {
-    "thyroidectomy": "TREATMENT"
+    "Symptomatic thyroid goiter": "PROBLEM"
   },
   {
-    "thyroid goiter": "PROBLEM"
+    "Symptomatic thyroid goiter": "PROBLEM"
   },
   {
-    "thyroid goiter": "PROBLEM"
+    "Total thyroidectomy": "TREATMENT"
   },
   {
-    "thyroidectomy": "TREATMENT"
+    "large nodular thyroid goiter": "PROBLEM"
   },
   {
-    "thyroid goiter": "PROBLEM"
-  },
-  {
-    "surgery": "TREATMENT"
-  },
-  {
-    "procedure": "TREATMENT"
-  },
-  {
-    "risks": "PROBLEM"
-  },
-  {
-    "complications": "PROBLEM"
-  },
-  {
-    "risk-benefit ratio": "TEST"
+    "informed consent": "TREATMENT"
   },
   {
     "thyroidectomy": "TREATMENT"
-  },
-  {
-    "total thyroidectomy": "TREATMENT"
   },
   {
     "thyroid hormone replacement": "TREATMENT"
   },
   {
-    "vital signs": "TEST"
-  },
-  {
     "afebrile": "PROBLEM"
   },
   {
-    "narcotics": "DRUG"
+    "stable vital signs": "PROBLEM"
   },
   {
-    "stable vital signs": "TEST"
+    "intravenous narcotics": "DRUG"
   },
   {
-    "good pain control": "TREATMENT"
+    "stable vital signs": "PROBLEM"
+  },
+  {
+    "good pain control": "PROBLEM"
   },
   {
     "wound": "PROBLEM"
@@ -69,19 +51,10 @@
     "surgical office": "TREATMENT"
   },
   {
-    "discharge": "TREATMENT"
-  },
-  {
     "Vicodin": "DRUG"
   },
   {
     "Synthroid": "DRUG"
-  },
-  {
-    "pain": "PROBLEM"
-  },
-  {
-    "wound care": "TREATMENT"
   },
   {
     "nodular": "PROBLEM"

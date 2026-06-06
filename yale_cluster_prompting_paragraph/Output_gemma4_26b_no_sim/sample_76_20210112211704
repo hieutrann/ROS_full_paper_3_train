@@ -6,10 +6,19 @@
     "urinary tract infection": "PROBLEM"
   },
   {
-    "VITAL SIGNS": "TEST"
+    "auscultation": "TEST"
   },
   {
-    "Temperature": "TEST"
+    "heart sounds": "TEST"
+  },
+  {
+    "murmurs": "PROBLEM"
+  },
+  {
+    "Right renal angle is tender": "PROBLEM"
+  },
+  {
+    "Bowel sounds": "TEST"
   },
   {
     "White count": "TEST"
@@ -30,25 +39,10 @@
     "creatinine": "TEST"
   },
   {
-    "Sepsis": "PROBLEM"
-  },
-  {
-    "urinary tract infection": "PROBLEM"
-  },
-  {
-    "Urine culture": "TEST"
-  },
-  {
     "Escherichia coli": "PROBLEM"
   },
   {
     "Levaquin": "DRUG"
-  },
-  {
-    "doripenem": "DRUG"
-  },
-  {
-    "Urinary tract infection": "PROBLEM"
   },
   {
     "doripenem": "DRUG"
@@ -69,7 +63,7 @@
     "Diabetes type 2": "PROBLEM"
   },
   {
-    "insulin sliding scale": "TREATMENT"
+    "insulin": "DRUG"
   },
   {
     "pulmonary embolism": "PROBLEM"
@@ -85,23 +79,5 @@
   },
   {
     "Troponin": "TEST"
-  },
-  {
-    "troponin": "TEST"
-  },
-  {
-    "sepsis": "PROBLEM"
-  },
-  {
-    "escherichia coli": "PROBLEM"
-  },
-  {
-    "urinary tract infection": "PROBLEM"
-  },
-  {
-    "doripenem": "DRUG"
-  },
-  {
-    "troponin": "TEST"
   }
 ]

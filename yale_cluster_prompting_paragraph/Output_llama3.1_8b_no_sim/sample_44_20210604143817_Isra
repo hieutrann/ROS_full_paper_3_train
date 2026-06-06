@@ -9,13 +9,13 @@
     "asthma": "PROBLEM"
   },
   {
-    "cholecystectomy": "TREATMENT"
+    "cholecystectomy": "PROBLEM"
   },
   {
-    "total hysterectomy": "TREATMENT"
+    "total hysterectomy": "PROBLEM"
   },
   {
-    "cataract": "TREATMENT"
+    "cataract": "PROBLEM"
   },
   {
     "Prevacid": "DRUG"
@@ -36,42 +36,33 @@
     "Solu-Medrol": "DRUG"
   },
   {
-    "airway compromise": "PROBLEM"
+    "foreign body": "PROBLEM"
   },
   {
-    "foreign body": "PROBLEM"
+    "airway compromise": "PROBLEM"
   },
   {
     "fishbone": "PROBLEM"
   },
   {
-    "tracheostomy": "TREATMENT"
-  },
-  {
-    "IV antibiotics": "DRUG"
+    "intubated": "TEST"
   },
   {
     "ventilatory support": "TREATMENT"
   },
   {
-    "general medicine": "TEST"
+    "IV antibiotics": "TREATMENT"
   },
   {
-    "diabetes": "TEST"
+    "tracheostomy": "TREATMENT"
   },
   {
-    "hypertension": "TEST"
+    "physical examination": "TEST"
   },
   {
-    "asthma": "TEST"
+    "laboratory data": "TEST"
   },
   {
-    "cholecystectomy": "TEST"
-  },
-  {
-    "foreign body": "TEST"
-  },
-  {
-    "airway compromise": "TEST"
+    "physical therapy": "TREATMENT"
   }
 ]

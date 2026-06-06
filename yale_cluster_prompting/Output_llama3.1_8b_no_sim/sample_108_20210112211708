@@ -1,5 +1,14 @@
 [
   {
+    "right hemisphere disorder": "PROBLEM"
+  },
+  {
+    "stroke": "PROBLEM"
+  },
+  {
+    "speech therapy": "TREATMENT"
+  },
+  {
     "stroke": "PROBLEM"
   },
   {
@@ -7,21 +16,6 @@
   },
   {
     "speech therapy": "TREATMENT"
-  },
-  {
-    "speech therapy": "TREATMENT"
-  },
-  {
-    "stroke": "PROBLEM"
-  },
-  {
-    "right hemisphere disorder": "PROBLEM"
-  },
-  {
-    "speech therapy": "TREATMENT"
-  },
-  {
-    "skilled speech therapy": "TREATMENT"
   },
   {
     "speech therapy": "TREATMENT"
@@ -30,13 +24,13 @@
     "evaluation": "TEST"
   },
   {
-    "sessions": "TEST"
+    "sessions": "TREATMENT"
   },
   {
     "therapy": "TREATMENT"
   },
   {
-    "therapy goals": "TREATMENT"
+    "therapy": "TREATMENT"
   },
   {
     "oral mechanism examination": "TEST"
@@ -57,10 +51,7 @@
     "delay": "TEST"
   },
   {
-    "conversation": "TEST"
-  },
-  {
-    "visual scanning": "PROBLEM"
+    "difficulty with visual scanning": "PROBLEM"
   },
   {
     "left neglect": "PROBLEM"
@@ -78,7 +69,7 @@
     "minutes": "PROBLEM"
   },
   {
-    "independently": "PROBLEM"
+    "difficulty with reading": "PROBLEM"
   },
   {
     "left neglect": "PROBLEM"
@@ -93,10 +84,7 @@
     "followup sessions": "TREATMENT"
   },
   {
-    "services": "TREATMENT"
-  },
-  {
-    "discharge summary": "TEST"
+    "discharge summary": "TREATMENT"
   },
   {
     "outpatient speech therapy": "TREATMENT"

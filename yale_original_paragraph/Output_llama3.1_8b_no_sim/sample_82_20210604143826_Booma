@@ -24,13 +24,19 @@
     "wandering atrial pacemaker": "PROBLEM"
   },
   {
-    "palpitations": "PROBLEM"
+    "normal sinus rhythm": "PROBLEM"
   },
   {
-    "chest pain": "PROBLEM"
+    "frequent APCs": "PROBLEM"
+  },
+  {
+    "hypokalemia": "PROBLEM"
   },
   {
     "shortness of breath": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
   },
   {
     "dizzy spells": "PROBLEM"
@@ -45,13 +51,46 @@
     "atrial tachycardia": "PROBLEM"
   },
   {
-    "sinus rhythm": "TEST"
+    "sinus rhythm": "PROBLEM"
   },
   {
-    "ECG": "TEST"
+    "hip fracture": "PROBLEM"
+  },
+  {
+    "left hip fracture": "PROBLEM"
+  },
+  {
+    "atrial": "PROBLEM"
+  },
+  {
+    "tachycardia": "PROBLEM"
+  },
+  {
+    "rhythm": "PROBLEM"
+  },
+  {
+    "apcs": "PROBLEM"
+  },
+  {
+    "cardiac": "PROBLEM"
+  },
+  {
+    "regurgitation": "PROBLEM"
+  },
+  {
+    "aortic": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "pulmonary": "PROBLEM"
   },
   {
     "chest x-ray": "TEST"
+  },
+  {
+    "EKG": "TEST"
   },
   {
     "Troponin": "TEST"
@@ -69,13 +108,34 @@
     "platelet count": "TEST"
   },
   {
-    "EKG": "TEST"
+    "potassium": "TEST"
+  },
+  {
+    "sodium": "TEST"
+  },
+  {
+    "chloride": "TEST"
+  },
+  {
+    "bicarbonate": "TEST"
+  },
+  {
+    "BUN": "TEST"
+  },
+  {
+    "creatinine": "TEST"
+  },
+  {
+    "glucose": "TEST"
+  },
+  {
+    "magnesium": "TEST"
   },
   {
     "Cardizem": "DRUG"
   },
   {
-    "Verapamil": "DRUG"
+    "verapamil": "DRUG"
   },
   {
     "Lisinopril": "DRUG"
@@ -99,24 +159,33 @@
     "Toprol": "DRUG"
   },
   {
-    "Multivitamin": "DRUG"
-  },
-  {
-    "Aspirin": "DRUG"
-  },
-  {
     "Persantine": "DRUG"
   },
   {
     "Myoview": "DRUG"
   },
   {
-    "incision": "TREATMENT"
+    "beta-blocker": "DRUG"
   },
   {
-    "drainage": "TREATMENT"
+    "proton pump inhibitors": "DRUG"
+  },
+  {
+    "Multivitamin": "DRUG"
+  },
+  {
+    "Aspirin": "DRUG"
+  },
+  {
+    "Penicillin": "DRUG"
   },
   {
     "surgery": "TREATMENT"
+  },
+  {
+    "left hip surgery": "TREATMENT"
+  },
+  {
+    "cardiology consultation": "TREATMENT"
   }
 ]

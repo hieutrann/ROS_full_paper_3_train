@@ -27,7 +27,7 @@
     "weak knees": "PROBLEM"
   },
   {
-    "bilateral knee pain": "PROBLEM"
+    "knee pain": "PROBLEM"
   },
   {
     "hematuria": "PROBLEM"
@@ -73,9 +73,6 @@
   },
   {
     "prescription medications": "DRUG"
-  },
-  {
-    "afebrile": "TEST"
   },
   {
     "101.3": "TEST"
@@ -124,9 +121,6 @@
   },
   {
     "doripenem": "DRUG"
-  },
-  {
-    "antibiotic": "DRUG"
   },
   {
     "Hepatitis C": "PROBLEM"
@@ -189,10 +183,7 @@
     "Zofran": "DRUG"
   },
   {
-    "p.r.n.": "DRUG"
-  },
-  {
-    "norepinephrine": "DRUG"
+    "norepinephrine drip": "DRUG"
   },
   {
     "vitamin K": "DRUG"
@@ -219,6 +210,9 @@
     "oxygen saturation": "TEST"
   },
   {
+    "2 L nasal cannula": "TREATMENT"
+  },
+  {
     "drowsy": "PROBLEM"
   },
   {
@@ -228,31 +222,28 @@
     "Height": "TEST"
   },
   {
+    "weight": "TEST"
+  },
+  {
     "conjunctivae": "PROBLEM"
   },
   {
-    "icteric sclerae": "PROBLEM"
+    "sclerae": "PROBLEM"
   },
   {
     "Pupils": "TEST"
   },
   {
-    "EARS, NOSE, MOUTH AND THROAT": "TEST"
+    "hearing": "PROBLEM"
   },
   {
-    "Moist oral mucosa": "PROBLEM"
-  },
-  {
-    "No oral lesions": "PROBLEM"
-  },
-  {
-    "palpable neck masses": "PROBLEM"
+    "oral mucosa": "PROBLEM"
   },
   {
     "Thyroid": "PROBLEM"
   },
   {
-    "inspiratory effort": "TEST"
+    "inspiratory effort": "PROBLEM"
   },
   {
     "crackles": "PROBLEM"
@@ -273,7 +264,7 @@
     "bipedal edema": "PROBLEM"
   },
   {
-    "Globular abdomen": "PROBLEM"
+    "abdomen": "PROBLEM"
   },
   {
     "guarding": "PROBLEM"
@@ -288,9 +279,6 @@
     "epigastric area": "PROBLEM"
   },
   {
-    "palpation": "TEST"
-  },
-  {
     "right upper quadrant": "PROBLEM"
   },
   {
@@ -303,22 +291,16 @@
     "jaundice": "PROBLEM"
   },
   {
-    "palpable subcutaneous nodules": "PROBLEM"
+    "nodules": "PROBLEM"
   },
   {
-    "Poor judgment": "PROBLEM"
+    "judgment": "PROBLEM"
   },
   {
     "insight": "PROBLEM"
   },
   {
     "White blood cell count": "TEST"
-  },
-  {
-    "neutrophils": "TEST"
-  },
-  {
-    "bands": "TEST"
   },
   {
     "H&H": "TEST"
@@ -387,18 +369,6 @@
     "Chest x-ray": "TEST"
   },
   {
-    "heart": "PROBLEM"
-  },
-  {
-    "mediastinum": "PROBLEM"
-  },
-  {
-    "lung fields": "PROBLEM"
-  },
-  {
-    "bony or soft tissue structures": "PROBLEM"
-  },
-  {
     "Left knee x-rays": "TEST"
   },
   {
@@ -414,9 +384,6 @@
     "gallbladder": "PROBLEM"
   },
   {
-    "CAT scan": "TEST"
-  },
-  {
     "liver cirrhosis": "PROBLEM"
   },
   {
@@ -429,10 +396,10 @@
     "splenomegaly": "PROBLEM"
   },
   {
-    "dilated portal/splenic and superior mesenteric vein": "PROBLEM"
+    "CAT scan": "TEST"
   },
   {
-    "Appendix": "PROBLEM"
+    "abdomen": "TEST"
   },
   {
     "pericecal inflammation": "PROBLEM"
@@ -474,7 +441,7 @@
     "doripenem": "DRUG"
   },
   {
-    "paracentesis": "TREATMENT"
+    "paracentesis": "TEST"
   },
   {
     "ascitic fluid": "TEST"
@@ -495,13 +462,10 @@
     "urine culture": "TEST"
   },
   {
-    "hepatitis A": "PROBLEM"
+    "hepatitis A vaccination": "DRUG"
   },
   {
-    "vaccination": "DRUG"
-  },
-  {
-    "general medicine": "PROBLEM"
+    "general medicine": "TEST"
   },
   {
     "sbp": "PROBLEM"

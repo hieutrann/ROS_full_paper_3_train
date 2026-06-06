@@ -3,19 +3,16 @@
     "morbid obesity": "PROBLEM"
   },
   {
-    "nonsurgical weight loss": "TREATMENT"
+    "Morbid obesity": "PROBLEM"
+  },
+  {
+    "BMI": "PROBLEM"
   },
   {
     "Morbid obesity": "PROBLEM"
   },
   {
-    "BMI": "TEST"
-  },
-  {
-    "Morbid obesity": "PROBLEM"
-  },
-  {
-    "BMI": "TEST"
+    "BMI": "PROBLEM"
   },
   {
     "Laparoscopic gastric bypass": "TREATMENT"
@@ -33,31 +30,16 @@
     "morbid obesity": "PROBLEM"
   },
   {
-    "weight loss": "PROBLEM"
-  },
-  {
-    "preoperative workup": "TEST"
+    "nonsurgical weight loss": "TREATMENT"
   },
   {
     "gastric bypass": "TREATMENT"
-  },
-  {
-    "postoperative day 1": "PROBLEM"
-  },
-  {
-    "clear liquid diet": "TREATMENT"
   },
   {
     "Pain": "PROBLEM"
   },
   {
     "pain medicine": "DRUG"
-  },
-  {
-    "ambulating without difficulty": "PROBLEM"
-  },
-  {
-    "liquid diet": "TREATMENT"
   },
   {
     "drain": "TREATMENT"
@@ -72,9 +54,6 @@
     "wounds": "PROBLEM"
   },
   {
-    "postoperative evaluation": "TEST"
-  },
-  {
     "shortness of breath": "PROBLEM"
   },
   {
@@ -84,7 +63,7 @@
     "calf pain": "PROBLEM"
   },
   {
-    "temperature greater than 101.5": "TEST"
+    "temperature greater than 101.5": "PROBLEM"
   },
   {
     "redness": "PROBLEM"
@@ -106,9 +85,6 @@
   },
   {
     "abdominal pain": "PROBLEM"
-  },
-  {
-    "discharge medications": "DRUG"
   },
   {
     "Lortab Elixir": "DRUG"

@@ -15,43 +15,52 @@
     "right neck and shoulder stiffness and pain": "PROBLEM"
   },
   {
+    "right neck and shoulder stiffness and pain": "PROBLEM"
+  },
+  {
+    "46 y/o RHF": "PROBLEM"
+  },
+  {
     "symptoms": "PROBLEM"
   },
   {
     "numbness": "PROBLEM"
   },
   {
-    "RUE pain": "PROBLEM"
+    "pain": "PROBLEM"
+  },
+  {
+    "RUE": "PROBLEM"
   },
   {
     "throbbing pain": "PROBLEM"
   },
   {
-    "numbness in both lower extremities": "PROBLEM"
+    "numbness": "PROBLEM"
   },
   {
-    "pain in the coccygeal region": "PROBLEM"
+    "pain": "PROBLEM"
+  },
+  {
+    "coccygeal region": "PROBLEM"
   },
   {
     "pains": "PROBLEM"
   },
   {
-    "visual change": "PROBLEM"
-  },
-  {
-    "bowel difficulties": "PROBLEM"
-  },
-  {
-    "bladder difficulties": "PROBLEM"
-  },
-  {
-    "symptoms involving the LUE": "PROBLEM"
+    "LUE": "PROBLEM"
   },
   {
     "Lhermitte's phenomena": "PROBLEM"
   },
   {
-    "neck/back/head trauma": "PROBLEM"
+    "neck trauma": "PROBLEM"
+  },
+  {
+    "back trauma": "PROBLEM"
+  },
+  {
+    "head trauma": "PROBLEM"
   },
   {
     "Naprosyn": "DRUG"
@@ -72,34 +81,46 @@
     "unremarkable": "PROBLEM"
   },
   {
-    "full strength": "PROBLEM"
+    "Motor": "TEST"
   },
   {
-    "Normal tone": "PROBLEM"
+    "Normal tone": "TEST"
   },
   {
-    "muscle bulk": "PROBLEM"
+    "muscle bulk": "TEST"
   },
   {
-    "LT/PP/VIB/TEMP/PROP testing": "TEST"
+    "LT": "TEST"
   },
   {
-    "Unremarkable": "PROBLEM"
+    "PP": "TEST"
   },
   {
-    "2/2 in BUE": "TEST"
+    "VIB": "TEST"
   },
   {
-    "2+ at left biceps": "PROBLEM"
+    "TEMP": "TEST"
   },
   {
-    "1+/1+BLE": "PROBLEM"
+    "PROP": "TEST"
+  },
+  {
+    "Unremarkable": "TEST"
+  },
+  {
+    "Reflexes": "TEST"
+  },
+  {
+    "BUE": "TEST"
+  },
+  {
+    "1+/1+BLE": "TEST"
   },
   {
     "absent right ankle reflex": "PROBLEM"
   },
   {
-    "Plantar responses": "PROBLEM"
+    "Plantar responses": "TEST"
   },
   {
     "Rectal exam": "TEST"
@@ -108,40 +129,46 @@
     "C-spine lesion": "PROBLEM"
   },
   {
-    "MRI C-spine": "TEST"
+    "MRI": "TEST"
   },
   {
-    "C5-6 disk herniation": "PROBLEM"
+    "C-spine": "TEST"
+  },
+  {
+    "disk herniation": "PROBLEM"
   },
   {
     "spinal cord": "PROBLEM"
   },
   {
+    "C5-6": "PROBLEM"
+  },
+  {
     "EMG/NCV": "TEST"
   },
   {
-    "C5-6": "TEST"
+    "NCV": "TEST"
   },
   {
-    "C7-8": "TEST"
+    "sharps": "TEST"
   },
   {
-    "brachioradialis (C5-6)": "TEST"
+    "fibrillations": "TEST"
   },
   {
-    "triceps (C7-8)": "TEST"
+    "biceps": "PROBLEM"
   },
   {
-    "teres major": "TEST"
+    "brachioradialis": "PROBLEM"
   },
   {
-    "pronator terres": "TEST"
+    "triceps": "PROBLEM"
   },
   {
-    "sharps": "PROBLEM"
+    "teres major": "PROBLEM"
   },
   {
-    "fibrillations": "PROBLEM"
+    "pronator terres": "PROBLEM"
   },
   {
     "insertional activity": "PROBLEM"
@@ -153,19 +180,13 @@
     "C5-6 laminectomy": "TREATMENT"
   },
   {
-    "lhermitte's phenomena": "PROBLEM"
+    "disk herniation": "PROBLEM"
   },
   {
     "c-spine lesion": "PROBLEM"
   },
   {
-    "disk herniation": "PROBLEM"
-  },
-  {
-    "mri c spine": "TEST"
-  },
-  {
-    "disk herniation": "PROBLEM"
+    "lhermitte's phenomena": "PROBLEM"
   },
   {
     "shoulder pain": "PROBLEM"
@@ -177,12 +198,12 @@
     "numbness": "PROBLEM"
   },
   {
-    "reflexes": "TEST"
-  },
-  {
-    "biceps": "TEST"
+    "mri c spine": "TEST"
   },
   {
     "mri": "TEST"
+  },
+  {
+    "disk": "TEST"
   }
 ]

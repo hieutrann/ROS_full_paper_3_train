@@ -21,45 +21,6 @@
     "alcohol and cocaine abuse": "PROBLEM"
   },
   {
-    "ground-level fall": "PROBLEM"
-  },
-  {
-    "weak knees": "PROBLEM"
-  },
-  {
-    "bilateral knee pain": "PROBLEM"
-  },
-  {
-    "hematuria": "PROBLEM"
-  },
-  {
-    "epigastric pain": "PROBLEM"
-  },
-  {
-    "Sepsis": "PROBLEM"
-  },
-  {
-    "SBP": "PROBLEM"
-  },
-  {
-    "diabetes": "PROBLEM"
-  },
-  {
-    "morbid obesity": "PROBLEM"
-  },
-  {
-    "hepatitis C": "PROBLEM"
-  },
-  {
-    "cirrhosis": "PROBLEM"
-  },
-  {
-    "alcohol and cocaine abuse": "PROBLEM"
-  },
-  {
-    "ground-level fall": "PROBLEM"
-  },
-  {
     "weak knees": "PROBLEM"
   },
   {
@@ -94,9 +55,6 @@
   },
   {
     "hypotension": "PROBLEM"
-  },
-  {
-    "SBP": "PROBLEM"
   },
   {
     "vancomycin": "DRUG"
@@ -135,9 +93,6 @@
     "hepatic encephalopathy": "PROBLEM"
   },
   {
-    "alcohol abuse": "PROBLEM"
-  },
-  {
     "Vancomycin": "DRUG"
   },
   {
@@ -171,28 +126,7 @@
     "confused": "PROBLEM"
   },
   {
-    "VITAL SIGNS": "TEST"
-  },
-  {
-    "Heart rate": "TEST"
-  },
-  {
-    "respiratory rate": "TEST"
-  },
-  {
-    "blood pressure": "TEST"
-  },
-  {
-    "temperature": "TEST"
-  },
-  {
-    "oxygen saturation": "TEST"
-  },
-  {
     "nasal cannula": "TREATMENT"
-  },
-  {
-    "drowsy": "PROBLEM"
   },
   {
     "Morbidly obese": "PROBLEM"
@@ -219,7 +153,10 @@
     "bipedal edema": "PROBLEM"
   },
   {
-    "Tender on palpation": "PROBLEM"
+    "Tender on palpation of n right upper quadrant and epigastric area": "PROBLEM"
+  },
+  {
+    "Mildly tender on palpation of right upper quadrant and epigastric area": "PROBLEM"
   },
   {
     "cervical lymphadenopathy": "PROBLEM"

@@ -1,0 +1,53 @@
+[
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "midchest pain": "PROBLEM"
+  },
+  {
+    "Pap smear": "TEST"
+  },
+  {
+    "breast exam": "TEST"
+  },
+  {
+    "rheumatoid arthritis": "PROBLEM"
+  },
+  {
+    "osteoporosis": "PROBLEM"
+  },
+  {
+    "hypothyroidism": "PROBLEM"
+  },
+  {
+    "methotrexate": "DRUG"
+  },
+  {
+    "Fosamax": "DRUG"
+  },
+  {
+    "folic acid": "DRUG"
+  },
+  {
+    "amitriptyline": "DRUG"
+  },
+  {
+    "Synthroid": "DRUG"
+  },
+  {
+    "calcium": "DRUG"
+  },
+  {
+    "multivitamin": "DRUG"
+  },
+  {
+    "baby aspirin": "DRUG"
+  },
+  {
+    "Colace": "DRUG"
+  },
+  {
+    "DEXA": "TEST"
+  }
+]

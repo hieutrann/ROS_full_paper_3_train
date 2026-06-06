@@ -27,9 +27,6 @@
     "bariatric evaluation": "TEST"
   },
   {
-    "diagnostics": "TEST"
-  },
-  {
     "Medifast": "DRUG"
   },
   {
@@ -106,6 +103,9 @@
   },
   {
     "roux-en-y": "TREATMENT"
+  },
+  {
+    "bariatric clear liquids": "TREATMENT"
   },
   {
     "gastric bypass": "TREATMENT"

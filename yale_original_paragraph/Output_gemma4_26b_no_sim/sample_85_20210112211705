@@ -33,10 +33,10 @@
     "telemetry readings": "TEST"
   },
   {
-    "sinus rhythm": "TEST"
+    "sinus rhythm": "PROBLEM"
   },
   {
-    "severe bradycardias": "PROBLEM"
+    "bradycardias": "PROBLEM"
   },
   {
     "sick sinus syndrome": "PROBLEM"
@@ -55,9 +55,6 @@
   },
   {
     "Right femoral artery catheter": "TREATMENT"
-  },
-  {
-    "pulses": "TEST"
   },
   {
     "hematoma": "PROBLEM"
@@ -138,10 +135,10 @@
     "Tylenol": "DRUG"
   },
   {
-    "cefazolin": "DRUG"
+    "pain": "PROBLEM"
   },
   {
-    "pacemaker placement": "TREATMENT"
+    "cefazolin": "DRUG"
   },
   {
     "staple removal": "TREATMENT"

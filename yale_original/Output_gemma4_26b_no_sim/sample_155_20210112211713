@@ -48,7 +48,7 @@
     "hydroureter": "PROBLEM"
   },
   {
-    "IV antibiotics": "DRUG"
+    "antibiotics": "DRUG"
   },
   {
     "hydration": "TREATMENT"
@@ -183,7 +183,7 @@
     "left inguinal hernia": "PROBLEM"
   },
   {
-    "no SBO": "PROBLEM"
+    "SBO": "PROBLEM"
   },
   {
     "dilated bladder": "PROBLEM"
@@ -192,7 +192,7 @@
     "thick wall": "PROBLEM"
   },
   {
-    "possible outlet obstruction": "PROBLEM"
+    "outlet obstruction": "PROBLEM"
   },
   {
     "bilateral hydronephrosis": "PROBLEM"
@@ -225,28 +225,31 @@
     "leukocyte esterase": "TEST"
   },
   {
-    "Sodium 149": "TEST"
+    "Sodium": "TEST"
   },
   {
-    "potassium 4.1": "TEST"
+    "potassium": "TEST"
   },
   {
-    "chloride 116": "TEST"
+    "chloride": "TEST"
   },
   {
-    "CO2 19": "TEST"
+    "CO2": "TEST"
   },
   {
-    "BUN 89": "TEST"
+    "BUN": "TEST"
   },
   {
-    "creatinine 2.1": "TEST"
+    "creatinine": "TEST"
   },
   {
     "EKG": "TEST"
   },
   {
     "atrial fibrillation": "PROBLEM"
+  },
+  {
+    "slow rate": "PROBLEM"
   },
   {
     "Urinary tract infection": "PROBLEM"
@@ -276,7 +279,13 @@
     "gentamicin": "DRUG"
   },
   {
+    "urine": "TEST"
+  },
+  {
     "IV fluids": "TREATMENT"
+  },
+  {
+    "hypertonic-hypotonic": "TREATMENT"
   },
   {
     "anticoagulation": "TREATMENT"
@@ -315,7 +324,10 @@
     "hydroureter": "PROBLEM"
   },
   {
-    "urinary tract infection with sepsis": "PROBLEM"
+    "urinary tract infection": "PROBLEM"
+  },
+  {
+    "sepsis": "PROBLEM"
   },
   {
     "ct scan": "TEST"

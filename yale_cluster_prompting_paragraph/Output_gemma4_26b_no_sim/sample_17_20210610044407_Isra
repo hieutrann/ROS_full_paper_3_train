@@ -1,6 +1,6 @@
 [
   {
-    "chronic kidney disease , stage 4": "PROBLEM"
+    "chronic kidney disease": "PROBLEM"
   },
   {
     "diabetes mellitus": "PROBLEM"
@@ -12,22 +12,19 @@
     "peripheral vascular disease": "PROBLEM"
   },
   {
-    "PTA of right leg": "TREATMENT"
+    "PTA": "TREATMENT"
   },
   {
-    "swelling of the right hand and left foot": "PROBLEM"
+    "swelling of the right hand": "PROBLEM"
+  },
+  {
+    "swelling of the left foot": "PROBLEM"
   },
   {
     "swollen": "PROBLEM"
   },
   {
     "painful": "PROBLEM"
-  },
-  {
-    "could not move the fingers": "PROBLEM"
-  },
-  {
-    "could not move the toes": "PROBLEM"
   },
   {
     "gout": "PROBLEM"
@@ -46,9 +43,6 @@
   },
   {
     "hyperlipidemia": "PROBLEM"
-  },
-  {
-    "PTA of right lower extremity": "TREATMENT"
   },
   {
     "NovoLog": "DRUG"
@@ -81,7 +75,7 @@
     "calcitriol": "DRUG"
   },
   {
-    "could not urinate": "PROBLEM"
+    "urinate": "PROBLEM"
   },
   {
     "Foley": "TREATMENT"
@@ -108,9 +102,6 @@
     "hematuria": "PROBLEM"
   },
   {
-    "urine output was decreased": "PROBLEM"
-  },
-  {
     "cough": "PROBLEM"
   },
   {
@@ -127,21 +118,6 @@
   },
   {
     "paroxysmal nocturnal dyspnea": "PROBLEM"
-  },
-  {
-    "Blood pressure": "TEST"
-  },
-  {
-    "temperature": "TEST"
-  },
-  {
-    "pulse": "TEST"
-  },
-  {
-    "respirations": "TEST"
-  },
-  {
-    "weight": "TEST"
   },
   {
     "pretibial edema": "PROBLEM"
@@ -207,12 +183,9 @@
     "Acute gouty attack": "PROBLEM"
   },
   {
+    "Hypercholesterolemia": "PROBLEM"
+  },
+  {
     "allopurinol": "DRUG"
-  },
-  {
-    "hyperlipidemia": "PROBLEM"
-  },
-  {
-    "pta": "TREATMENT"
   }
 ]

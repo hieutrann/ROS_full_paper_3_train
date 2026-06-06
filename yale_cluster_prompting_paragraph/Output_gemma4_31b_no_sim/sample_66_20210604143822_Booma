@@ -15,7 +15,7 @@
     "Diarrhea": "PROBLEM"
   },
   {
-    "Cystoscopy": "TREATMENT"
+    "Cystoscopy": "TEST"
   },
   {
     "bilaterally retrograde pyelograms": "TEST"
@@ -57,7 +57,7 @@
     "ureteral stent placement": "TREATMENT"
   },
   {
-    "cystoscopy": "TREATMENT"
+    "cystoscopy": "TEST"
   },
   {
     "bilateral ureteral stent placement": "TREATMENT"
@@ -88,9 +88,6 @@
   },
   {
     "extubation": "TREATMENT"
-  },
-  {
-    "pain": "PROBLEM"
   },
   {
     "PCA pump": "TREATMENT"
@@ -126,9 +123,6 @@
     "meningococcal vaccines": "DRUG"
   },
   {
-    "vital signs": "TEST"
-  },
-  {
     "Multivitamins": "DRUG"
   },
   {
@@ -136,9 +130,6 @@
   },
   {
     "Vicodin": "DRUG"
-  },
-  {
-    "pain": "PROBLEM"
   },
   {
     "Phenergan": "DRUG"
@@ -166,38 +157,5 @@
   },
   {
     "continuing diarrhea": "PROBLEM"
-  },
-  {
-    "redness": "PROBLEM"
-  },
-  {
-    "drainage": "PROBLEM"
-  },
-  {
-    "warmth around his incision site": "PROBLEM"
-  },
-  {
-    "carcinomatosis from appendiceal primary": "PROBLEM"
-  },
-  {
-    "stent placement": "TREATMENT"
-  },
-  {
-    "ureteral stents": "TREATMENT"
-  },
-  {
-    "peritoneal carcinomatosis": "PROBLEM"
-  },
-  {
-    "appendiceal primary": "PROBLEM"
-  },
-  {
-    "hemicolectomy": "TREATMENT"
-  },
-  {
-    "splenectomy": "TREATMENT"
-  },
-  {
-    "carcinomatosis": "PROBLEM"
   }
 ]

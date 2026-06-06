@@ -21,6 +21,12 @@
     "significant past medical history": "PROBLEM"
   },
   {
+    "PHYSICAL EXAMINATION": "TEST"
+  },
+  {
+    "HEENT": "TEST"
+  },
+  {
     "ear abnormalities": "PROBLEM"
   },
   {
@@ -96,25 +102,16 @@
     "Bactrim": "DRUG"
   },
   {
-    "drug abuse": "PROBLEM"
+    "drug or alcohol abuse": "PROBLEM"
   },
   {
-    "alcohol abuse": "PROBLEM"
+    "Work, diet, and exercise patterns": "PROBLEM"
   },
   {
-    "Work": "PROBLEM"
+    "family history": "PROBLEM"
   },
   {
-    "diet": "PROBLEM"
-  },
-  {
-    "exercise": "PROBLEM"
-  },
-  {
-    "significant family history": "PROBLEM"
-  },
-  {
-    "REVIEW OF SYSTEMS": "TEST"
+    "Non-contributory": "PROBLEM"
   },
   {
     "Height": "TEST"
@@ -150,9 +147,6 @@
     "excursions": "TEST"
   },
   {
-    "symmetric": "TEST"
-  },
-  {
     "auscultation": "TEST"
   },
   {
@@ -171,7 +165,7 @@
     "abnormal heart sounds": "PROBLEM"
   },
   {
-    "Blood pressure": "TEST"
+    "blood pressure": "TEST"
   },
   {
     "bowel sounds": "TEST"
@@ -219,12 +213,6 @@
     "abdominal pain": "PROBLEM"
   },
   {
-    "endocrinology": "TEST"
-  },
-  {
-    "cbc": "TEST"
-  },
-  {
     "diabetes type ii": "PROBLEM"
   },
   {
@@ -232,6 +220,15 @@
   },
   {
     "diabetes": "PROBLEM"
+  },
+  {
+    "cbc": "TEST"
+  },
+  {
+    "endocrinology": "PROBLEM"
+  },
+  {
+    "general medicine": "PROBLEM"
   },
   {
     "abnormalities": "PROBLEM"

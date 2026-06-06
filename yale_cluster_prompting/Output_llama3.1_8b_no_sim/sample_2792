@@ -66,16 +66,16 @@
     "HI": "PROBLEM"
   },
   {
-    "patient": "PROBLEM"
+    "female": "PROBLEM"
   },
   {
-    "VITAL SIGNS": "TEST"
+    "Stable": "PROBLEM"
   },
   {
-    "HEENT": "TEST"
+    "HEENT": "PROBLEM"
   },
   {
-    "Supple": "TEST"
+    "Supple": "PROBLEM"
   },
   {
     "Carotid upstrokes": "PROBLEM"
@@ -84,19 +84,19 @@
     "LUNGS": "PROBLEM"
   },
   {
-    "HEART": "PROBLEM"
+    "Normal S1 and S2": "PROBLEM"
   },
   {
     "gallops": "PROBLEM"
   },
   {
-    "Rate": "TEST"
+    "Rate is regular": "PROBLEM"
   },
   {
     "ABDOMEN": "PROBLEM"
   },
   {
-    "bowel sounds": "TEST"
+    "bowel sounds": "PROBLEM"
   },
   {
     "Nontender": "PROBLEM"
@@ -144,37 +144,37 @@
     "depression": "PROBLEM"
   },
   {
-    "3": "TREATMENT"
+    "3": "PROBLEM"
   },
   {
     "Hypertension": "PROBLEM"
   },
   {
-    "4": "TREATMENT"
+    "4": "PROBLEM"
   },
   {
     "Hypercholesterolemia": "PROBLEM"
   },
   {
-    "5": "TREATMENT"
+    "5": "PROBLEM"
   },
   {
     "Coronary artery disease": "PROBLEM"
   },
   {
-    "6": "TREATMENT"
+    "6": "PROBLEM"
   },
   {
     "Osteoarthritis": "PROBLEM"
   },
   {
-    "7": "TREATMENT"
+    "7": "PROBLEM"
   },
   {
     "Chronic obstructive pulmonary disease": "PROBLEM"
   },
   {
-    "8": "TREATMENT"
+    "8": "PROBLEM"
   },
   {
     "Hypothyroidism": "PROBLEM"
@@ -243,13 +243,13 @@
     "verapamil": "DRUG"
   },
   {
-    "ALLERGIES": "PROBLEM"
+    "None": "PROBLEM"
   },
   {
-    "PT": "TREATMENT"
+    "Per PT": "TREATMENT"
   },
   {
-    "skilled nursing facility": "TREATMENT"
+    "a skilled nursing facility": "TREATMENT"
   },
   {
     "falls": "PROBLEM"

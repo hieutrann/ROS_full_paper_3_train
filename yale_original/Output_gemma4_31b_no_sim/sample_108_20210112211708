@@ -9,10 +9,10 @@
     "stroke": "PROBLEM"
   },
   {
-    "outpatient skilled speech therapy sessions": "TREATMENT"
+    "speech therapy": "TREATMENT"
   },
   {
-    "outpatient skilled speech therapy": "TREATMENT"
+    "speech therapy": "TREATMENT"
   },
   {
     "right hemisphere disorder": "PROBLEM"
@@ -27,7 +27,7 @@
     "therapy": "TREATMENT"
   },
   {
-    "short-term therapy goals": "TREATMENT"
+    "short-term therapy": "TREATMENT"
   },
   {
     "oral mechanism examination": "TEST"
@@ -36,7 +36,10 @@
     "clinical swallow evaluation": "TEST"
   },
   {
-    "visual scanning in cancellation task": "TEST"
+    "visual scanning": "PROBLEM"
+  },
+  {
+    "cancellation task": "TEST"
   },
   {
     "left neglect": "PROBLEM"

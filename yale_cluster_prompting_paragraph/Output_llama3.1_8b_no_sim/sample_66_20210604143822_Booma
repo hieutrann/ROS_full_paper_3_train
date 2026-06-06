@@ -1,12 +1,9 @@
 [
   {
-    "peritoneal carcinomatosis": "PROBLEM"
+    "peritoneal carcinomatosis from appendiceal primary": "PROBLEM"
   },
   {
-    "appendiceal primary": "PROBLEM"
-  },
-  {
-    "diarrhea": "PROBLEM"
+    "Diarrhea": "PROBLEM"
   },
   {
     "C. diff toxin": "TEST"
@@ -27,6 +24,15 @@
     "Imodium A-D": "DRUG"
   },
   {
+    "cystoscopy": "TEST"
+  },
+  {
+    "bilateral retrograde pyelograms": "TEST"
+  },
+  {
+    "insertion of bilateral externalized ureteral stents": "TREATMENT"
+  },
+  {
     "exploratory laparotomy": "TREATMENT"
   },
   {
@@ -45,39 +51,24 @@
     "IPHC with mitomycin-C": "TREATMENT"
   },
   {
-    "cystoscopy": "TREATMENT"
+    "pneumococcal vaccines": "TREATMENT"
   },
   {
-    "bilateral externalized ureteral stents": "TREATMENT"
+    "HiB vaccines": "TREATMENT"
   },
   {
-    "ureteral stent placement": "TREATMENT"
+    "meningococcal vaccines": "TREATMENT"
   },
   {
-    "postoperative day": "TEST"
+    "Lovenox 40 mg in 0.4 mL solution inject subcutaneously once daily for 14 days": "TREATMENT"
   },
   {
-    "postoperative": "TEST"
+    "Vicodin 5/500 mg and take one tablet by mouth every four hours as needed for pain": "TREATMENT"
   },
   {
-    "vaccines": "TREATMENT"
+    "Phenergan 12.5 mg tablets, take one tablet by mouth every six hours p.r.n. for nausea": "TREATMENT"
   },
   {
-    "pneumococcal": "TREATMENT"
-  },
-  {
-    "HiB": "TREATMENT"
-  },
-  {
-    "meningococcal": "TREATMENT"
-  },
-  {
-    "multivitamins": "TREATMENT"
-  },
-  {
-    "staples": "TREATMENT"
-  },
-  {
-    "follow-up appointment": "TEST"
+    "Imodium A-D tablets take one tablet by mouth b.i.d. as needed for diarrhea": "TREATMENT"
   }
 ]

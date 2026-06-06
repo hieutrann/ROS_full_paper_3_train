@@ -6,7 +6,7 @@
     "vomiting": "PROBLEM"
   },
   {
-    "ant bait": "DRUG"
+    "ant bait": "PROBLEM"
   },
   {
     "ant bait": "DRUG"
@@ -24,9 +24,6 @@
     "vomiting": "PROBLEM"
   },
   {
-    "symptoms": "PROBLEM"
-  },
-  {
     "afebrile": "PROBLEM"
   },
   {
@@ -34,6 +31,9 @@
   },
   {
     "pulse oximetry": "TEST"
+  },
+  {
+    "liquid": "PROBLEM"
   },
   {
     "Poison Control": "TEST"
@@ -45,22 +45,13 @@
     "vomiting": "PROBLEM"
   },
   {
-    "general medicine": "PROBLEM"
-  },
-  {
     "borax": "DRUG"
   },
   {
     "vomiting": "PROBLEM"
   },
   {
-    "exposure to ant bait": "PROBLEM"
-  },
-  {
     "ant bait": "DRUG"
-  },
-  {
-    "exposure": "PROBLEM"
   },
   {
     "symptoms": "PROBLEM"

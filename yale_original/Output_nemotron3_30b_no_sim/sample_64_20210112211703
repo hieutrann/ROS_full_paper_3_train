@@ -1,0 +1,335 @@
+[
+  {
+    "Antibiotic Management Consult": "TEST"
+  },
+  {
+    "right foot ulcer": "PROBLEM"
+  },
+  {
+    "osteomyelitis": "PROBLEM"
+  },
+  {
+    "Antibiotic management": "TREATMENT"
+  },
+  {
+    "right foot ulcer": "PROBLEM"
+  },
+  {
+    "osteomyelitis": "PROBLEM"
+  },
+  {
+    "diabetes mellitus": "PROBLEM"
+  },
+  {
+    "injured his right foot": "PROBLEM"
+  },
+  {
+    "Emergency Room": "TEST"
+  },
+  {
+    "methicillin-sensitive Staphylococcus aureus (MSSA)": "PROBLEM"
+  },
+  {
+    "Levaquin": "DRUG"
+  },
+  {
+    "intravenous antibiotic therapy": "TREATMENT"
+  },
+  {
+    "debridement": "TREATMENT"
+  },
+  {
+    "MRI": "TEST"
+  },
+  {
+    "bone scan": "TEST"
+  },
+  {
+    "osteomyelitis": "PROBLEM"
+  },
+  {
+    "wound care center": "TEST"
+  },
+  {
+    "wound VAC placement": "TREATMENT"
+  },
+  {
+    "lacerated wound": "PROBLEM"
+  },
+  {
+    "plantar aspect of the right foot": "PROBLEM"
+  },
+  {
+    "second metatarsal area": "PROBLEM"
+  },
+  {
+    "fifth metatarsal area": "PROBLEM"
+  },
+  {
+    "head of these bones": "TREATMENT"
+  },
+  {
+    "osteomyelitis": "PROBLEM"
+  },
+  {
+    "serosanguineous drainage": "PROBLEM"
+  },
+  {
+    "wound": "PROBLEM"
+  },
+  {
+    "skin": "PROBLEM"
+  },
+  {
+    "Positive for": "PROBLEM"
+  },
+  {
+    "Diabetes mellitus": "PROBLEM"
+  },
+  {
+    "Osteomyelitis of the right fifth toe": "PROBLEM"
+  },
+  {
+    "intravenous antibiotic therapy": "TREATMENT"
+  },
+  {
+    "heart attack": "PROBLEM"
+  },
+  {
+    "liver cancer": "PROBLEM"
+  },
+  {
+    "hypothyroidism": "PROBLEM"
+  },
+  {
+    "cerebral palsy": "PROBLEM"
+  },
+  {
+    "No known drug allergies": "PROBLEM"
+  },
+  {
+    "foot": "PROBLEM"
+  },
+  {
+    "negative": "PROBLEM"
+  },
+  {
+    "General": "PROBLEM"
+  },
+  {
+    "temperature": "TEST"
+  },
+  {
+    "pulse": "TEST"
+  },
+  {
+    "respiratory rate": "TEST"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "Pupils equal, round, reactive to light": "PROBLEM"
+  },
+  {
+    "Extraocular movements": "TEST"
+  },
+  {
+    "normocephalic": "PROBLEM"
+  },
+  {
+    "External ear exam is normal": "TEST"
+  },
+  {
+    "Supple": "PROBLEM"
+  },
+  {
+    "lymphadenopathy": "PROBLEM"
+  },
+  {
+    "murmur": "PROBLEM"
+  },
+  {
+    "rub": "PROBLEM"
+  },
+  {
+    "gallop": "PROBLEM"
+  },
+  {
+    "Lungs: Clear to auscultation and percussion bilaterally.": "TEST"
+  },
+  {
+    "bowel sounds": "PROBLEM"
+  },
+  {
+    "lymphadenopathy": "PROBLEM"
+  },
+  {
+    "cyanosis": "PROBLEM"
+  },
+  {
+    "clubbing": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "endocarditis": "PROBLEM"
+  },
+  {
+    "lacerated wound": "PROBLEM"
+  },
+  {
+    "palpable": "PROBLEM"
+  },
+  {
+    "wound": "PROBLEM"
+  },
+  {
+    "third metatarsal bone": "PROBLEM"
+  },
+  {
+    "osteomyelitis": "PROBLEM"
+  },
+  {
+    "alert": "PROBLEM"
+  },
+  {
+    "Cranial nerves II through XII are intact.": "PROBLEM"
+  },
+  {
+    "deficit": "PROBLEM"
+  },
+  {
+    "diabetes mellitus": "PROBLEM"
+  },
+  {
+    "lawn mower-associated injury": "PROBLEM"
+  },
+  {
+    "right foot": "PROBLEM"
+  },
+  {
+    "debridement": "TREATMENT"
+  },
+  {
+    "methicillin-sensitive Staphylococcus aureus": "PROBLEM"
+  },
+  {
+    "problems": "PROBLEM"
+  },
+  {
+    "treatments strategy": "TREATMENT"
+  },
+  {
+    "Right foot infected ulcer": "PROBLEM"
+  },
+  {
+    "osteomyelitis": "PROBLEM"
+  },
+  {
+    "MRI": "TEST"
+  },
+  {
+    "bone scan": "TEST"
+  },
+  {
+    "treatment": "TREATMENT"
+  },
+  {
+    "diagnosis": "PROBLEM"
+  },
+  {
+    "methicillin-sensitive Staphylococcus aureus": "PROBLEM"
+  },
+  {
+    "Levaquin": "DRUG"
+  },
+  {
+    "Zyvox": "DRUG"
+  },
+  {
+    "Zosyn": "DRUG"
+  },
+  {
+    "Ancef": "DRUG"
+  },
+  {
+    "osteomyelitis": "PROBLEM"
+  },
+  {
+    "deep wound infection": "PROBLEM"
+  },
+  {
+    "wound care": "TREATMENT"
+  },
+  {
+    "wound VAC placement": "TREATMENT"
+  },
+  {
+    "PICC line": "TREATMENT"
+  },
+  {
+    "6-week course of intravenous antibiotic therapy": "TREATMENT"
+  },
+  {
+    "CBC with differential": "TEST"
+  },
+  {
+    "chemistry 7 panel": "TEST"
+  },
+  {
+    "LFTs": "TEST"
+  },
+  {
+    "ESR": "TEST"
+  },
+  {
+    "C-reactive protein levels": "TEST"
+  },
+  {
+    "chemistry 7 panel": "TEST"
+  },
+  {
+    "CBC": "TEST"
+  },
+  {
+    "wound healing": "PROBLEM"
+  },
+  {
+    "wound care team": "TREATMENT"
+  },
+  {
+    "treatment plan": "TREATMENT"
+  },
+  {
+    "Other medical problems": "PROBLEM"
+  },
+  {
+    "X's group": "PROBLEM"
+  },
+  {
+    "hospitalization": "PROBLEM"
+  },
+  {
+    "deep wound cultures": "TEST"
+  },
+  {
+    "MRI": "TEST"
+  },
+  {
+    "bone scan": "TEST"
+  },
+  {
+    "methicillin-sensitive staphylococcus aureus": "PROBLEM"
+  },
+  {
+    "foot ulcer": "PROBLEM"
+  },
+  {
+    "bone scan": "TEST"
+  },
+  {
+    "osteomyelitis": "PROBLEM"
+  }
+]

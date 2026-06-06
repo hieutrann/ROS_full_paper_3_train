@@ -1,18 +1,6 @@
 [
   {
-    "Nonhealing right ankle stasis ulcer": "PROBLEM"
-  },
-  {
     "hypertension": "PROBLEM"
-  },
-  {
-    "chronic intermittent bipedal edema": "PROBLEM"
-  },
-  {
-    "recurrent leg venous ulcers": "PROBLEM"
-  },
-  {
-    "fevers": "PROBLEM"
   },
   {
     "cellulitis": "PROBLEM"
@@ -21,31 +9,25 @@
     "venous ulcers": "PROBLEM"
   },
   {
-    "bipedal edema": "PROBLEM"
-  },
-  {
     "stasis ulcer": "PROBLEM"
   },
   {
-    "wound cultures": "TEST"
+    "Pseudomonas": "PROBLEM"
   },
   {
-    "wound": "PROBLEM"
+    "Enterococcus": "PROBLEM"
   },
   {
-    "ankle": "PROBLEM"
+    "Stenotrophomonas": "PROBLEM"
   },
   {
-    "ulcer": "PROBLEM"
+    "Klebsiella": "PROBLEM"
   },
   {
-    "ulcers": "PROBLEM"
+    "Enterobacter": "PROBLEM"
   },
   {
-    "stasis": "PROBLEM"
-  },
-  {
-    "chronic": "PROBLEM"
+    "fevers": "PROBLEM"
   },
   {
     "Primaxin": "DRUG"
@@ -93,12 +75,18 @@
     "MRI": "TEST"
   },
   {
-    "incision": "TREATMENT"
+    "wound cultures": "TEST"
   },
   {
-    "drainage": "TREATMENT"
+    "blood cultures": "TEST"
   },
   {
-    "surgery": "TREATMENT"
+    "vascular surgery": "TREATMENT"
+  },
+  {
+    "exploratory laparotomy": "TREATMENT"
+  },
+  {
+    "cholecystectomy": "TREATMENT"
   }
 ]

@@ -1,12 +1,9 @@
 [
   {
-    "multiple trauma": "PROBLEM"
+    "Decubitus ulcer": "PROBLEM"
   },
   {
-    "motor vehicle accident": "PROBLEM"
-  },
-  {
-    "Decubitus ulcer, lower back": "PROBLEM"
+    "lower back": "PROBLEM"
   },
   {
     "Alcohol induced persisting dementia": "PROBLEM"
@@ -18,7 +15,10 @@
     "Hypokalemia": "PROBLEM"
   },
   {
-    "traumatic fracture of the lower arm": "PROBLEM"
+    "traumatic fracture": "PROBLEM"
+  },
+  {
+    "lower arm": "PROBLEM"
   },
   {
     "Alcohol abuse": "PROBLEM"
@@ -27,7 +27,10 @@
     "traumatic lower leg fracture": "PROBLEM"
   },
   {
-    "Open wound of the scalp": "PROBLEM"
+    "Open wound": "PROBLEM"
+  },
+  {
+    "scalp": "PROBLEM"
   },
   {
     "Cervical disk displacement": "PROBLEM"
@@ -57,6 +60,9 @@
     "Pain in joint pelvic region/thigh": "PROBLEM"
   },
   {
+    "motor vehicle accident": "PROBLEM"
+  },
+  {
     "multiple fractures": "PROBLEM"
   },
   {
@@ -75,13 +81,10 @@
     "head injury": "PROBLEM"
   },
   {
-    "ORIF": "TREATMENT"
+    "brace": "TREATMENT"
   },
   {
     "acute psychosis": "PROBLEM"
-  },
-  {
-    "alcohol abuse history": "PROBLEM"
   },
   {
     "sacral decubitus ulcer": "PROBLEM"
@@ -96,9 +99,6 @@
     "iron treatment": "TREATMENT"
   },
   {
-    "insomnia": "PROBLEM"
-  },
-  {
     "Seroquel": "DRUG"
   },
   {
@@ -108,10 +108,13 @@
     "agitation": "PROBLEM"
   },
   {
-    "anxiety": "PROBLEM"
+    "alcohol rehab facility": "TREATMENT"
   },
   {
-    "Calcium with vitamin D": "DRUG"
+    "Calcium": "DRUG"
+  },
+  {
+    "vitamin D": "DRUG"
   },
   {
     "Ferrous sulfate": "DRUG"
@@ -123,9 +126,6 @@
     "nicotine patch": "DRUG"
   },
   {
-    "Seroquel": "DRUG"
-  },
-  {
     "Xenaderm": "DRUG"
   },
   {
@@ -135,6 +135,6 @@
     "Vicodin": "DRUG"
   },
   {
-    "Ativan": "DRUG"
+    "anxiety": "PROBLEM"
   }
 ]

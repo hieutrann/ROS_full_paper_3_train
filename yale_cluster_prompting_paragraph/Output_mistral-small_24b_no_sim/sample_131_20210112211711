@@ -45,6 +45,9 @@
     "seizures": "PROBLEM"
   },
   {
+    "weakness": "PROBLEM"
+  },
+  {
     "tremor": "PROBLEM"
   },
   {
@@ -153,6 +156,9 @@
     "stiffness": "PROBLEM"
   },
   {
+    "weakness": "PROBLEM"
+  },
+  {
     "back pain": "PROBLEM"
   },
   {
@@ -163,47 +169,5 @@
   },
   {
     "endocrinologic abnormalities": "PROBLEM"
-  },
-  {
-    "GENERAL": "TEST"
-  },
-  {
-    "INTEGUMENTARY": "TEST"
-  },
-  {
-    "HEMATOPOIETIC": "TEST"
-  },
-  {
-    "NEUROLOGIC": "TEST"
-  },
-  {
-    "EYES": "TEST"
-  },
-  {
-    "EARS": "TEST"
-  },
-  {
-    "NOSE AND THROAT": "TEST"
-  },
-  {
-    "CARDIOVASCULAR": "TEST"
-  },
-  {
-    "RESPIRATORY": "TEST"
-  },
-  {
-    "GASTROINTESTINAL": "TEST"
-  },
-  {
-    "GENITOURINARY": "TEST"
-  },
-  {
-    "MUSCULOSKELETAL": "TEST"
-  },
-  {
-    "PSYCHIATRIC": "TEST"
-  },
-  {
-    "ENDOCRINE": "TEST"
   }
 ]

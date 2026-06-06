@@ -1,0 +1,74 @@
+[
+  {
+    "GI bleed": "PROBLEM"
+  },
+  {
+    "Upper gastrointestinal bleed": "PROBLEM"
+  },
+  {
+    "microcytic anemia": "PROBLEM"
+  },
+  {
+    "CBC": "TEST"
+  },
+  {
+    "hemoglobin": "TEST"
+  },
+  {
+    "dark brown": "TEST"
+  },
+  {
+    "OB positive": "TEST"
+  },
+  {
+    "atrial fibrillation": "PROBLEM"
+  },
+  {
+    "Coumadin": "DRUG"
+  },
+  {
+    "atrial fibrillation": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "osteoarthritis of the knees": "PROBLEM"
+  },
+  {
+    "non-insulin-dependent diabetes mellitus": "PROBLEM"
+  },
+  {
+    "asthma": "PROBLEM"
+  },
+  {
+    "hypothyroidism": "PROBLEM"
+  },
+  {
+    "Upper endoscopy": "TEST"
+  },
+  {
+    "erosive gastritis": "PROBLEM"
+  },
+  {
+    "Colonoscopy": "TEST"
+  },
+  {
+    "polyp": "TREATMENT"
+  },
+  {
+    "transfused": "TREATMENT"
+  },
+  {
+    "Coumadin": "DRUG"
+  },
+  {
+    "Outpatient PMD": "TEST"
+  },
+  {
+    "GI": "TEST"
+  },
+  {
+    "Cardiology": "TEST"
+  }
+]

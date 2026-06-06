@@ -1,0 +1,38 @@
+[
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "30-pound weight loss": "PROBLEM"
+  },
+  {
+    "jaundice": "PROBLEM"
+  },
+  {
+    "epigastric pain": "PROBLEM"
+  },
+  {
+    "pancreatic mass": "PROBLEM"
+  },
+  {
+    "liver metastases": "PROBLEM"
+  },
+  {
+    "CT scan": "TEST"
+  },
+  {
+    "ERCP": "TEST"
+  },
+  {
+    "stent": "TREATMENT"
+  },
+  {
+    "Zofran": "DRUG"
+  },
+  {
+    "Phenergan": "DRUG"
+  },
+  {
+    "insulin sliding scale": "TREATMENT"
+  }
+]

@@ -54,16 +54,13 @@
     "thoracentesis": "TREATMENT"
   },
   {
-    "Port-A-Cath placement": "TREATMENT"
-  },
-  {
-    "HISTORY AND PHYSICAL": "TEST"
+    "Port-A-Cath": "TREATMENT"
   },
   {
     "cough": "PROBLEM"
   },
   {
-    "right-sided chest pain": "PROBLEM"
+    "chest pain": "PROBLEM"
   },
   {
     "fever": "PROBLEM"
@@ -84,7 +81,7 @@
     "Chest x-ray": "TEST"
   },
   {
-    "right-sided pleural effusion": "PROBLEM"
+    "pleural effusion": "PROBLEM"
   },
   {
     "Pericardectomy": "TREATMENT"
@@ -102,10 +99,7 @@
     "intracranial thrombolytic treatment": "TREATMENT"
   },
   {
-    "PTA": "TREATMENT"
-  },
-  {
-    "MCA": "PROBLEM"
+    "MCA": "TEST"
   },
   {
     "Mesenteric venous thrombosis": "PROBLEM"
@@ -156,16 +150,13 @@
     "Amiodarone": "DRUG"
   },
   {
-    "REVIEW OF SYSTEMS": "TEST"
+    "pulmonary": "PROBLEM"
   },
   {
     "numbness": "PROBLEM"
   },
   {
     "tingling": "PROBLEM"
-  },
-  {
-    "VITAL SIGNS": "TEST"
   },
   {
     "Blood pressure": "TEST"
@@ -183,13 +174,13 @@
     "oxygen saturation": "TEST"
   },
   {
-    "cough": "PROBLEM"
+    "nonproductive cough": "PROBLEM"
   },
   {
     "pain": "PROBLEM"
   },
   {
-    "HEENT": "TEST"
+    "Pupils": "PROBLEM"
   },
   {
     "Tympanic membranes": "TEST"
@@ -201,7 +192,13 @@
     "Pleural friction rub": "PROBLEM"
   },
   {
-    "GI": "TEST"
+    "Soft": "PROBLEM"
+  },
+  {
+    "nondistended": "PROBLEM"
+  },
+  {
+    "nontender": "PROBLEM"
   },
   {
     "bowel sounds": "TEST"
@@ -219,22 +216,13 @@
     "tenderness": "PROBLEM"
   },
   {
-    "pulses": "TEST"
-  },
-  {
     "breakdown": "PROBLEM"
   },
   {
     "lesions": "PROBLEM"
   },
   {
-    "focal deficits": "PROBLEM"
-  },
-  {
-    "Awake, alert, and oriented to person, place, and time": "PROBLEM"
-  },
-  {
-    "LABORATORY DATA": "TEST"
+    "Labs": "TEST"
   },
   {
     "pleural effusion": "PROBLEM"
@@ -252,7 +240,7 @@
     "DVT": "PROBLEM"
   },
   {
-    "Lovenox": "DRUG"
+    "Lovenox 40 mg": "DRUG"
   },
   {
     "pericarditis": "PROBLEM"
@@ -267,7 +255,10 @@
     "thrombosis": "PROBLEM"
   },
   {
-    "anticoagulated": "DRUG"
+    "anticoagulated": "TREATMENT"
+  },
+  {
+    "pericardial fluid": "PROBLEM"
   },
   {
     "pericardectomy": "TREATMENT"
@@ -276,13 +267,13 @@
     "CT scan": "TEST"
   },
   {
+    "pericardectomy": "TREATMENT"
+  },
+  {
     "bilateral plural effusions": "PROBLEM"
   },
   {
     "pericardectomy": "TREATMENT"
-  },
-  {
-    "symptoms": "PROBLEM"
   },
   {
     "chest pain": "PROBLEM"
@@ -291,19 +282,10 @@
     "bilateral pleural effusion": "PROBLEM"
   },
   {
-    "CT": "TEST"
-  },
-  {
-    "chest": "TEST"
+    "CT of the chest": "TEST"
   },
   {
     "lymph node": "PROBLEM"
-  },
-  {
-    "pathology": "TEST"
-  },
-  {
-    "pericardectomy": "TREATMENT"
   },
   {
     "mesothelioma": "PROBLEM"
@@ -327,12 +309,6 @@
     "PET CT": "TEST"
   },
   {
-    "chest": "PROBLEM"
-  },
-  {
-    "bilateral pleural pericardial effusions": "PROBLEM"
-  },
-  {
     "lymphadenopathy": "PROBLEM"
   },
   {
@@ -345,10 +321,7 @@
     "intramammary lymph nodes": "PROBLEM"
   },
   {
-    "uptake": "TEST"
-  },
-  {
-    "L4": "TEST"
+    "L4": "PROBLEM"
   },
   {
     "SUV": "TEST"
@@ -360,10 +333,7 @@
     "echocardiogram": "TEST"
   },
   {
-    "Oncology": "PROBLEM"
-  },
-  {
-    "chemotherapy": "TREATMENT"
+    "chemotherapy": "DRUG"
   },
   {
     "cisplatin": "DRUG"
@@ -372,19 +342,16 @@
     "Alimta": "DRUG"
   },
   {
-    "IV": "TREATMENT"
-  },
-  {
     "Port-A-Cath": "TREATMENT"
   },
   {
-    "chemotherapy": "TREATMENT"
+    "chemotherapy": "DRUG"
   },
   {
     "IV fluid": "TREATMENT"
   },
   {
-    "Port-A-Cath": "TEST"
+    "Port-A-Cath": "TREATMENT"
   },
   {
     "heparin": "DRUG"
@@ -406,9 +373,6 @@
   },
   {
     "INR": "TEST"
-  },
-  {
-    "discharge summary": "TEST"
   },
   {
     "mesothelioma": "PROBLEM"
@@ -438,7 +402,7 @@
     "port a cath": "TREATMENT"
   },
   {
-    "iv piggyback": "DRUG"
+    "iv piggyback": "TREATMENT"
   },
   {
     "venous thrombosis": "PROBLEM"
@@ -463,5 +427,8 @@
   },
   {
     "chest": "PROBLEM"
+  },
+  {
+    "pleural": "PROBLEM"
   }
 ]

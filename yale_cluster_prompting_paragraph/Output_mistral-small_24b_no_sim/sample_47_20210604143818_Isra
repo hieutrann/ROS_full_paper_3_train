@@ -3,19 +3,13 @@
     "extreme fatigue": "PROBLEM"
   },
   {
-    "discomfort": "PROBLEM"
+    "discomfort in the chest": "PROBLEM"
   },
   {
-    "chest": "PROBLEM"
+    "discomfort in the back": "PROBLEM"
   },
   {
-    "back": "PROBLEM"
-  },
-  {
-    "stomach": "PROBLEM"
-  },
-  {
-    "pain": "PROBLEM"
+    "stomach pain": "PROBLEM"
   },
   {
     "loose bowel movements": "PROBLEM"
@@ -24,10 +18,7 @@
     "bladder control": "PROBLEM"
   },
   {
-    "pain": "PROBLEM"
-  },
-  {
-    "hips": "PROBLEM"
+    "pain in her hips": "PROBLEM"
   },
   {
     "peripheral neuropathy": "PROBLEM"
@@ -69,73 +60,16 @@
     "intermittent diarrhea": "PROBLEM"
   },
   {
-    "fever": "PROBLEM"
+    "MI": "PROBLEM"
   },
   {
-    "sweats": "PROBLEM"
+    "stroke": "PROBLEM"
   },
   {
-    "chills": "PROBLEM"
+    "chest pains": "PROBLEM"
   },
   {
-    "weight change": "PROBLEM"
-  },
-  {
-    "visual": "TEST"
-  },
-  {
-    "auditory function": "TEST"
-  },
-  {
-    "hearing": "TEST"
-  },
-  {
-    "epistaxis": "TEST"
-  },
-  {
-    "sore throat": "TEST"
-  },
-  {
-    "hoarseness": "TEST"
-  },
-  {
-    "palpitations": "TEST"
-  },
-  {
-    "PND": "TEST"
-  },
-  {
-    "orthopnea": "TEST"
-  },
-  {
-    "tenderness": "TEST"
-  },
-  {
-    "wheezing": "TEST"
-  },
-  {
-    "cough": "TEST"
-  },
-  {
-    "PND": "TEST"
-  },
-  {
-    "orthopnea": "TEST"
-  },
-  {
-    "Thromboembolic disease": "PROBLEM"
-  },
-  {
-    "stomach pain": "PROBLEM"
-  },
-  {
-    "nausea": "PROBLEM"
-  },
-  {
-    "vomiting": "PROBLEM"
-  },
-  {
-    "diarrhea": "PROBLEM"
+    "Diarrhea": "PROBLEM"
   },
   {
     "bladder control": "PROBLEM"
@@ -150,7 +84,7 @@
     "stones": "PROBLEM"
   },
   {
-    "peripheral neuropathy": "PROBLEM"
+    "Peripheral neuropathy": "PROBLEM"
   },
   {
     "muscle pain": "PROBLEM"
@@ -174,12 +108,6 @@
     "bleeding": "PROBLEM"
   },
   {
-    "lumps": "PROBLEM"
-  },
-  {
-    "masses": "PROBLEM"
-  },
-  {
     "CBC": "TEST"
   },
   {
@@ -195,33 +123,24 @@
     "UA": "TEST"
   },
   {
-    "Stool": "TEST"
-  },
-  {
-    "C&S": "TEST"
+    "Stool for C&S": "TEST"
   },
   {
     "Gram stain": "TEST"
   },
   {
-    "ova": "TEST"
+    "ova and parasites": "TEST"
   },
   {
-    "parasites": "TEST"
-  },
-  {
-    "CT": "TEST"
-  },
-  {
-    "abdomen": "TEST"
-  },
-  {
-    "pelvis": "TEST"
+    "CT of the abdomen and pelvis": "TEST"
   },
   {
     "metformin": "DRUG"
   },
   {
     "diuretics": "DRUG"
+  },
+  {
+    "physical therapy": "TREATMENT"
   }
 ]

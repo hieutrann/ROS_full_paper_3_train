@@ -1,18 +1,15 @@
 [
   {
-    "foreign body": "PROBLEM"
+    "General Medicine": "TREATMENT"
   },
   {
-    "airway compromise": "PROBLEM"
+    "Airway Compromise & Foreign Body": "PROBLEM"
   },
   {
-    "operating room": "TREATMENT"
+    "ER Visit": "TEST"
   },
   {
-    "intubated": "TREATMENT"
-  },
-  {
-    "fishbone": "PROBLEM"
+    "intubated": "TEST"
   },
   {
     "foreign body": "PROBLEM"
@@ -21,13 +18,7 @@
     "airway compromise": "PROBLEM"
   },
   {
-    "operating room": "TEST"
-  },
-  {
-    "intubated": "TREATMENT"
-  },
-  {
-    "fishbone": "PROBLEM"
+    "intubated": "TEST"
   },
   {
     "diabetes": "PROBLEM"
@@ -69,16 +60,16 @@
     "Solu-Medrol": "DRUG"
   },
   {
-    "FAMILY HISTORY": "TEST"
-  },
-  {
-    "illicit drugs": "PROBLEM"
+    "Noncontributory": "PROBLEM"
   },
   {
     "alcohol": "PROBLEM"
   },
   {
     "tobacco": "PROBLEM"
+  },
+  {
+    "illicit drugs": "PROBLEM"
   },
   {
     "PHYSICAL EXAMINATION": "TEST"
@@ -90,9 +81,6 @@
     "operating room": "TEST"
   },
   {
-    "Dr": "TREATMENT"
-  },
-  {
     "airway compromise": "PROBLEM"
   },
   {
@@ -102,13 +90,7 @@
     "ENT": "TEST"
   },
   {
-    "intubated": "TREATMENT"
-  },
-  {
-    "airway": "PROBLEM"
-  },
-  {
-    "extubated": "TREATMENT"
+    "intubated": "TEST"
   },
   {
     "tracheostomy": "TREATMENT"
@@ -120,25 +102,10 @@
     "ventilatory support": "TREATMENT"
   },
   {
-    "operating room": "TEST"
-  },
-  {
-    "airway sufficient": "PROBLEM"
-  },
-  {
-    "extubated": "TREATMENT"
+    "airway": "PROBLEM"
   },
   {
     "p.o.s": "TEST"
-  },
-  {
-    "airway": "TEST"
-  },
-  {
-    "voice": "TEST"
-  },
-  {
-    "discharge": "TREATMENT"
   },
   {
     "Dr.": "TREATMENT"
@@ -150,10 +117,7 @@
     "Dr.": "TREATMENT"
   },
   {
-    "discharged": "TREATMENT"
-  },
-  {
-    "week": "TREATMENT"
+    "Y": "PROBLEM"
   },
   {
     "diabetes": "PROBLEM"
@@ -165,18 +129,12 @@
     "asthma": "PROBLEM"
   },
   {
-    "cholecystectomy": "TREATMENT"
-  },
-  {
-    "fishbone": "PROBLEM"
+    "cholecystectomy": "PROBLEM"
   },
   {
     "foreign body": "PROBLEM"
   },
   {
     "airway compromise": "PROBLEM"
-  },
-  {
-    "airway": "PROBLEM"
   }
 ]

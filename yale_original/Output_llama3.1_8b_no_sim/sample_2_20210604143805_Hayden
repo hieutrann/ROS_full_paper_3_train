@@ -1,6 +1,9 @@
 [
   {
-    "Discharge Summary": "TREATMENT"
+    "Speech Therapy": "TREATMENT"
+  },
+  {
+    "speech therapy": "TREATMENT"
   },
   {
     "cognitive-linguistic deficits": "PROBLEM"
@@ -24,25 +27,25 @@
     "visuospatial skills": "PROBLEM"
   },
   {
-    "therapy": "TREATMENT"
+    "queuing": "PROBLEM"
   },
   {
-    "She is able to name 15 items in a broad category with minimal queuing": "PROBLEM"
+    "accuracy": "TEST"
   },
   {
-    "activities": "PROBLEM"
+    "visual scanning tasks": "TEST"
   },
   {
-    "direction": "PROBLEM"
+    "narrative": "TEST"
   },
   {
-    "narrative": "PROBLEM"
+    "delay": "TEST"
   },
   {
-    "delay": "PROBLEM"
+    "safety": "PROBLEM"
   },
   {
-    "patient": "PROBLEM"
+    "independence": "PROBLEM"
   },
   {
     "cognitive domains": "PROBLEM"
@@ -70,9 +73,6 @@
   },
   {
     "speech therapy": "TREATMENT"
-  },
-  {
-    "patient": "PROBLEM"
   },
   {
     "memory": "PROBLEM"

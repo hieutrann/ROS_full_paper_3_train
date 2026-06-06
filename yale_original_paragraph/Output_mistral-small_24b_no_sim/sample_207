@@ -1,8 +1,5 @@
 [
   {
-    "Pediatrics - Neonatal": "PROBLEM"
-  },
-  {
     "wheezing": "PROBLEM"
   },
   {
@@ -10,6 +7,9 @@
   },
   {
     "shortness of breath": "PROBLEM"
+  },
+  {
+    "prematurity": "PROBLEM"
   },
   {
     "inhaled steroids": "DRUG"
@@ -27,7 +27,7 @@
     "rhonchi": "PROBLEM"
   },
   {
-    "asthma management": "TREATMENT"
+    "coughing": "PROBLEM"
   },
   {
     "alternate day steroids": "DRUG"
@@ -37,5 +37,8 @@
   },
   {
     "wheezing cough": "PROBLEM"
+  },
+  {
+    "asthma": "PROBLEM"
   }
 ]

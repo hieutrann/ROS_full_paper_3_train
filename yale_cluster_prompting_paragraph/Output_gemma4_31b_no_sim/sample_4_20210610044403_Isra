@@ -24,6 +24,9 @@
     "D50": "DRUG"
   },
   {
+    "mental status": "PROBLEM"
+  },
+  {
     "somnolent": "PROBLEM"
   },
   {
@@ -112,6 +115,9 @@
   },
   {
     "melena": "PROBLEM"
+  },
+  {
+    "frequent urinary tract infection": "PROBLEM"
   },
   {
     "Percocet": "DRUG"
@@ -213,13 +219,37 @@
     "Cultures": "TEST"
   },
   {
+    "guaiac negative status": "TEST"
+  },
+  {
+    "mixed cultures": "TEST"
+  },
+  {
     "Septra": "DRUG"
   },
   {
     "Cerebrovascular accident": "PROBLEM"
   },
   {
+    "hospice": "TREATMENT"
+  },
+  {
+    "comfort care": "TREATMENT"
+  },
+  {
+    "Recurrent urinary tract infection": "PROBLEM"
+  },
+  {
+    "Diabetes": "PROBLEM"
+  },
+  {
     "hypoglycemia": "PROBLEM"
+  },
+  {
+    "Neuropathy": "PROBLEM"
+  },
+  {
+    "Hypothyroidism": "PROBLEM"
   },
   {
     "Hyperlipidemia": "PROBLEM"

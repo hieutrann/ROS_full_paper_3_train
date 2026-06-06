@@ -15,7 +15,7 @@
     "intraoperative specimen radiography": "TEST"
   },
   {
-    "Suspicious calcifications": "PROBLEM"
+    "calcifications": "PROBLEM"
   },
   {
     "screening mammography": "TEST"
@@ -57,7 +57,7 @@
     "pain": "PROBLEM"
   },
   {
-    "mass in the left breast": "PROBLEM"
+    "mass": "PROBLEM"
   },
   {
     "sonographic evaluation": "TEST"
@@ -69,6 +69,9 @@
     "stereotactic core needle biopsy": "TREATMENT"
   },
   {
+    "Interventional Radiology": "TREATMENT"
+  },
+  {
     "false aneurysm": "PROBLEM"
   },
   {
@@ -78,16 +81,16 @@
     "thrombin material": "DRUG"
   },
   {
-    "false aneurysm": "PROBLEM"
-  },
-  {
     "occlusion": "TREATMENT"
   },
   {
-    "large hematoma": "PROBLEM"
+    "false aneurysm": "PROBLEM"
   },
   {
-    "extensive ecchymosis": "PROBLEM"
+    "hematoma": "PROBLEM"
+  },
+  {
+    "ecchymosis": "PROBLEM"
   },
   {
     "stereotactic core needle biopsy": "TREATMENT"
@@ -105,7 +108,7 @@
     "mammography": "TEST"
   },
   {
-    "stereotactic core needle biopsy": "TEST"
+    "stereotactic core needle biopsy": "TREATMENT"
   },
   {
     "histologic diagnosis": "TEST"
@@ -120,7 +123,7 @@
     "guidewire localization": "TREATMENT"
   },
   {
-    "stereotactic core needle biopsy": "TEST"
+    "stereotactic core needle biopsy": "TREATMENT"
   },
   {
     "surgical intervention": "TREATMENT"
@@ -180,7 +183,7 @@
     "Fosamax": "DRUG"
   },
   {
-    "Advair.": "DRUG"
+    "Advair": "DRUG"
   },
   {
     "Singulair": "DRUG"
@@ -240,6 +243,12 @@
     "local excision": "TREATMENT"
   },
   {
+    "distress": "PROBLEM"
+  },
+  {
+    "PERRL": "TEST"
+  },
+  {
     "oral lesions": "PROBLEM"
   },
   {
@@ -249,7 +258,13 @@
     "Regular sinus rhythm": "PROBLEM"
   },
   {
+    "air entry": "TEST"
+  },
+  {
     "wheezes": "PROBLEM"
+  },
+  {
+    "examination": "TEST"
   },
   {
     "palpable abnormalities": "PROBLEM"
@@ -264,13 +279,16 @@
     "stereotactic core needle biopsy": "TEST"
   },
   {
-    "suspicious lymphadenopathy": "PROBLEM"
+    "lymphadenopathy": "PROBLEM"
   },
   {
     "masses": "PROBLEM"
   },
   {
     "Obese": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
   },
   {
     "bowel sounds": "TEST"
@@ -289,6 +307,9 @@
   },
   {
     "clustered calcifications": "PROBLEM"
+  },
+  {
+    "imaging": "TEST"
   },
   {
     "stereotactic core needle biopsy": "TREATMENT"
@@ -327,7 +348,13 @@
     "osteoporosis": "PROBLEM"
   },
   {
+    "medications": "DRUG"
+  },
+  {
     "anxiety": "PROBLEM"
+  },
+  {
+    "medications": "DRUG"
   },
   {
     "Left breast excisional biopsy": "TREATMENT"

@@ -9,10 +9,19 @@
     "attention deficit disorder": "PROBLEM"
   },
   {
+    "right shoulder": "PROBLEM"
+  },
+  {
     "difficulties raising his arm over his head": "PROBLEM"
   },
   {
-    "intermittent numbness in his fingers": "PROBLEM"
+    "numbness": "PROBLEM"
+  },
+  {
+    "anti - inflammatories": "DRUG"
+  },
+  {
+    "pain relievers": "DRUG"
   },
   {
     "sore throat": "PROBLEM"
@@ -57,13 +66,7 @@
     "anger outbursts": "PROBLEM"
   },
   {
-    "VSS": "TEST"
-  },
-  {
-    "Heart": "TEST"
-  },
-  {
-    "Lungs": "TEST"
+    "CTA": "TEST"
   },
   {
     "erythema": "PROBLEM"
@@ -85,6 +88,9 @@
   },
   {
     "suicidal, homicidal ideations": "PROBLEM"
+  },
+  {
+    "hallucinations": "PROBLEM"
   },
   {
     "Right shoulder bursitis": "PROBLEM"
@@ -129,6 +135,9 @@
     "pharyngitis": "PROBLEM"
   },
   {
+    "anti-inflammatories": "DRUG"
+  },
+  {
     "bursitis": "PROBLEM"
   },
   {
@@ -157,5 +166,8 @@
   },
   {
     "deficit disorder": "PROBLEM"
+  },
+  {
+    "anti inflammatories": "DRUG"
   }
 ]

@@ -1,11 +1,5 @@
 [
   {
-    "Chest Pain": "PROBLEM"
-  },
-  {
-    "chest pain": "PROBLEM"
-  },
-  {
     "chest pain": "PROBLEM"
   },
   {
@@ -48,9 +42,6 @@
     "right flank pain": "PROBLEM"
   },
   {
-    "dull achy pain": "PROBLEM"
-  },
-  {
     "spots on her shoulder": "PROBLEM"
   },
   {
@@ -84,9 +75,6 @@
     "redness": "PROBLEM"
   },
   {
-    "trauma": "PROBLEM"
-  },
-  {
     "hearing loss": "PROBLEM"
   },
   {
@@ -106,9 +94,6 @@
   },
   {
     "blood in her urine": "PROBLEM"
-  },
-  {
-    "urinary problems": "PROBLEM"
   },
   {
     "edema": "PROBLEM"
@@ -135,13 +120,10 @@
     "mild irritable bowel syndrome": "PROBLEM"
   },
   {
-    "Aciphex": "DRUG"
+    "Aciphex 20 mg": "DRUG"
   },
   {
-    "aspirin": "DRUG"
-  },
-  {
-    "Vital Signs": "TEST"
+    "aspirin 81 mg": "DRUG"
   },
   {
     "Blood pressure": "TEST"
@@ -154,6 +136,9 @@
   },
   {
     "thyromegaly": "PROBLEM"
+  },
+  {
+    "murmur": "PROBLEM"
   },
   {
     "tenderness at the base of her thumbs": "PROBLEM"
@@ -189,7 +174,7 @@
     "Suspicious lesions on the left shoulder": "PROBLEM"
   },
   {
-    "punch biopsy": "TREATMENT"
+    "punch biopsy": "TEST"
   },
   {
     "Tinea versicolor": "PROBLEM"
@@ -199,9 +184,6 @@
   },
   {
     "Cystocele": "PROBLEM"
-  },
-  {
-    "repair": "TREATMENT"
   },
   {
     "urinary incontinence": "PROBLEM"
@@ -223,38 +205,5 @@
   },
   {
     "Aciphex": "DRUG"
-  },
-  {
-    "cystocele": "PROBLEM"
-  },
-  {
-    "gastroesophageal reflux disease": "PROBLEM"
-  },
-  {
-    "stomach pain": "PROBLEM"
-  },
-  {
-    "tinea versicolor": "PROBLEM"
-  },
-  {
-    "chest pain": "PROBLEM"
-  },
-  {
-    "leukopenia": "PROBLEM"
-  },
-  {
-    "multiple problems": "PROBLEM"
-  },
-  {
-    "tinea": "PROBLEM"
-  },
-  {
-    "versicolor": "PROBLEM"
-  },
-  {
-    "reflux": "PROBLEM"
-  },
-  {
-    "aciphex": "DRUG"
   }
 ]

@@ -12,55 +12,16 @@
     "aching": "PROBLEM"
   },
   {
-    "glasses": "PROBLEM"
+    "glasses": "TREATMENT"
   },
   {
-    "cataracts": "PROBLEM"
+    "cough": "PROBLEM"
   },
   {
-    "glaucoma": "PROBLEM"
+    "sputum": "PROBLEM"
   },
   {
-    "retinopathy": "PROBLEM"
-  },
-  {
-    "irritation": "PROBLEM"
-  },
-  {
-    "visual field defects": "PROBLEM"
-  },
-  {
-    "hearing problems": "PROBLEM"
-  },
-  {
-    "balance problems": "PROBLEM"
-  },
-  {
-    "runny nose": "PROBLEM"
-  },
-  {
-    "sinus problems": "PROBLEM"
-  },
-  {
-    "nosebleeds": "PROBLEM"
-  },
-  {
-    "dental problems": "PROBLEM"
-  },
-  {
-    "dentures": "PROBLEM"
-  },
-  {
-    "bleeding gums": "PROBLEM"
-  },
-  {
-    "hoarseness": "PROBLEM"
-  },
-  {
-    "difficulty swallowing": "PROBLEM"
-  },
-  {
-    "sore throat": "PROBLEM"
+    "shortness of breath": "PROBLEM"
   },
   {
     "angina": "PROBLEM"
@@ -96,31 +57,10 @@
     "history of stress test": "PROBLEM"
   },
   {
-    "arteriogram": "PROBLEM"
+    "arteriogram": "TEST"
   },
   {
-    "pacemaker implantation": "PROBLEM"
-  },
-  {
-    "cough": "PROBLEM"
-  },
-  {
-    "sputum": "PROBLEM"
-  },
-  {
-    "shortness of breath": "PROBLEM"
-  },
-  {
-    "wheezing": "PROBLEM"
-  },
-  {
-    "asthma": "PROBLEM"
-  },
-  {
-    "emphysema": "PROBLEM"
-  },
-  {
-    "pain": "PROBLEM"
+    "pacemaker implantation": "TREATMENT"
   },
   {
     "vomiting": "PROBLEM"
@@ -270,10 +210,10 @@
     "blood disorders": "PROBLEM"
   },
   {
-    "steroids": "PROBLEM"
+    "steroids": "DRUG"
   },
   {
-    "chemotherapy": "PROBLEM"
+    "chemotherapy": "DRUG"
   },
   {
     "cancer": "PROBLEM"

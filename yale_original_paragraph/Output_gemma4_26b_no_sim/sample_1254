@@ -1,0 +1,74 @@
+[
+  {
+    "Abscess": "PROBLEM"
+  },
+  {
+    "Cellulitis": "PROBLEM"
+  },
+  {
+    "Incision and drainage": "TREATMENT"
+  },
+  {
+    "culture and sensitivity": "TEST"
+  },
+  {
+    "Abscess with cellulitis": "PROBLEM"
+  },
+  {
+    "I&D": "TREATMENT"
+  },
+  {
+    "painful left foot": "PROBLEM"
+  },
+  {
+    "Ancef": "DRUG"
+  },
+  {
+    "ACCUTANE": "DRUG"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "tenderness": "PROBLEM"
+  },
+  {
+    "White blood cell count": "TEST"
+  },
+  {
+    "X-ray": "TEST"
+  },
+  {
+    "osteomyelitis": "PROBLEM"
+  },
+  {
+    "vancomycin": "DRUG"
+  },
+  {
+    "Ancef": "DRUG"
+  },
+  {
+    "Aquacel Ag": "TREATMENT"
+  },
+  {
+    "dry dressing": "TREATMENT"
+  },
+  {
+    "IV antibiotics": "TREATMENT"
+  },
+  {
+    "Lorcet": "DRUG"
+  },
+  {
+    "PICC line": "TREATMENT"
+  },
+  {
+    "IV antibiotics": "TREATMENT"
+  },
+  {
+    "surgical shoe": "TREATMENT"
+  }
+]

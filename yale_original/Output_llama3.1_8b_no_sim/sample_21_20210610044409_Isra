@@ -1,18 +1,24 @@
 [
   {
-    "Nausea & Vomiting": "PROBLEM"
+    "Nausea": "PROBLEM"
   },
   {
-    "intractable nausea and vomiting": "PROBLEM"
+    "Vomiting": "PROBLEM"
   },
   {
-    "blood-tinged vomit": "PROBLEM"
+    "G1": "PROBLEM"
   },
   {
-    "G1": "TEST"
+    "ER Visit": "TEST"
   },
   {
-    "emergency room": "PROBLEM"
+    "General Medicine": "TEST"
+  },
+  {
+    "emergency room": "TREATMENT"
+  },
+  {
+    "admission": "TREATMENT"
   },
   {
     "intractable nausea": "PROBLEM"
@@ -24,13 +30,16 @@
     "blood-tinged vomit": "PROBLEM"
   },
   {
-    "emergency room": "PROBLEM"
+    "emergency room": "TREATMENT"
+  },
+  {
+    "admission": "TREATMENT"
   },
   {
     "Nonsignificant": "PROBLEM"
   },
   {
-    "None": "PROBLEM"
+    "surgical history": "PROBLEM"
   },
   {
     "alcohol": "PROBLEM"
@@ -45,7 +54,7 @@
     "pregnancy": "PROBLEM"
   },
   {
-    "PAST GYNECOLOGICAL HISTORY": "PROBLEM"
+    "Gyneecological History": "PROBLEM"
   },
   {
     "sodium": "PROBLEM"
@@ -78,9 +87,6 @@
     "bacteria": "PROBLEM"
   },
   {
-    "H and H": "TEST"
-  },
-  {
     "Phenergan": "DRUG"
   },
   {
@@ -91,6 +97,12 @@
   },
   {
     "bladder infection": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
   },
   {
     "Maalox": "DRUG"
@@ -108,24 +120,27 @@
     "hyperemesis gravidarum": "PROBLEM"
   },
   {
-    "2": "TEST"
+    "IV hydration": "TREATMENT"
   },
   {
-    "ALT": "PROBLEM"
-  },
-  {
-    "followup": "PROBLEM"
-  },
-  {
-    "elevated alt": "PROBLEM"
-  },
-  {
-    "iv hydration": "TREATMENT"
+    "ALT": "TEST"
   },
   {
     "nausea": "PROBLEM"
   },
   {
     "vomiting": "PROBLEM"
+  },
+  {
+    "elevated alt": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "iv hydration": "TREATMENT"
   }
 ]

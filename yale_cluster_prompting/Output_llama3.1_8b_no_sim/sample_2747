@@ -1,12 +1,12 @@
 [
   {
-    "glass": "PROBLEM"
+    "General Medicine": "TREATMENT"
   },
   {
-    "foot": "PROBLEM"
+    "Cut on Foot": "PROBLEM"
   },
   {
-    "glass": "PROBLEM"
+    "ER Visit": "TEST"
   },
   {
     "laceration": "PROBLEM"
@@ -42,13 +42,10 @@
     "discomfort": "PROBLEM"
   },
   {
-    "ambulate": "TREATMENT"
-  },
-  {
     "injuries": "PROBLEM"
   },
   {
-    "recent illness": "PROBLEM"
+    "illness": "PROBLEM"
   },
   {
     "problems": "PROBLEM"
@@ -66,31 +63,19 @@
     "smoker": "PROBLEM"
   },
   {
-    "Temperature 98.8 oral": "TEST"
+    "Temperature": "TEST"
   },
   {
-    "blood pressure 132/86": "TEST"
+    "blood pressure": "TEST"
   },
   {
-    "pulse is 76": "TEST"
+    "pulse": "TEST"
   },
   {
-    "respirations 16": "TEST"
+    "respirations": "TEST"
   },
   {
     "Oxygen saturation": "TEST"
-  },
-  {
-    "room air": "TEST"
-  },
-  {
-    "normal": "PROBLEM"
-  },
-  {
-    "well-nourished": "PROBLEM"
-  },
-  {
-    "well-developed": "PROBLEM"
   },
   {
     "healthy": "PROBLEM"
@@ -99,7 +84,7 @@
     "acute distress": "PROBLEM"
   },
   {
-    "HEENT": "TEST"
+    "Head": "PROBLEM"
   },
   {
     "conjunctiva": "PROBLEM"
@@ -108,10 +93,10 @@
     "cornea": "PROBLEM"
   },
   {
-    "Supple": "PROBLEM"
+    "Supple": "TEST"
   },
   {
-    "full range of motion": "PROBLEM"
+    "range of motion": "TEST"
   },
   {
     "Peripheral pulse": "TEST"
@@ -129,10 +114,10 @@
     "4-mm": "TEST"
   },
   {
-    "top of the right foot": "TEST"
+    "right foot": "PROBLEM"
   },
   {
-    "mid foot": "TEST"
+    "mid foot": "PROBLEM"
   },
   {
     "foreign body": "PROBLEM"
@@ -156,43 +141,28 @@
     "vessels": "PROBLEM"
   },
   {
-    "laceration": "PROBLEM"
-  },
-  {
     "varicose vein": "PROBLEM"
   },
   {
     "bleeding": "PROBLEM"
   },
   {
-    "tenderness to the foot": "PROBLEM"
+    "tenderness": "PROBLEM"
   },
   {
-    "full range of motion": "PROBLEM"
-  },
-  {
-    "joints": "PROBLEM"
-  },
-  {
-    "toes": "PROBLEM"
-  },
-  {
-    "ankles": "PROBLEM"
+    "full range of motion": "TEST"
   },
   {
     "ambulates": "TEST"
   },
   {
-    "injuries": "PROBLEM"
-  },
-  {
     "partial thickness laceration": "PROBLEM"
   },
   {
-    "4-mm": "TEST"
+    "laceration": "PROBLEM"
   },
   {
-    "right foot": "TEST"
+    "foot": "PROBLEM"
   },
   {
     "injuries": "PROBLEM"
@@ -210,19 +180,13 @@
     "dermatomes": "TEST"
   },
   {
-    "light touch": "TEST"
+    "speech": "TEST"
   },
   {
-    "foot": "PROBLEM"
+    "ambulation": "TEST"
   },
   {
-    "speech": "PROBLEM"
-  },
-  {
-    "ambulation": "PROBLEM"
-  },
-  {
-    "alert and oriented x4": "TEST"
+    "PSYCHIATRIC": "TREATMENT"
   },
   {
     "mood": "PROBLEM"
@@ -231,7 +195,7 @@
     "affect": "PROBLEM"
   },
   {
-    "active bleeding": "PROBLEM"
+    "bleeding": "PROBLEM"
   },
   {
     "bruising": "PROBLEM"
@@ -243,19 +207,19 @@
     "bandage": "TREATMENT"
   },
   {
-    "DIAGNOSES": "TEST"
+    "DIAGNOSES": "PROBLEM"
   },
   {
-    "LACERATION": "PROBLEM"
+    "A 4-MM LACERATION": "PROBLEM"
   },
   {
-    "2": "TREATMENT"
+    "2": "TEST"
   },
   {
     "ACUTE RIGHT FOOT PAIN": "PROBLEM"
   },
   {
-    "CONDITION UPON DISPOSITION": "PROBLEM"
+    "Stable": "PROBLEM"
   },
   {
     "home": "TREATMENT"
@@ -274,9 +238,6 @@
   },
   {
     "infection": "PROBLEM"
-  },
-  {
-    "foot": "PROBLEM"
   },
   {
     "foot pain": "PROBLEM"

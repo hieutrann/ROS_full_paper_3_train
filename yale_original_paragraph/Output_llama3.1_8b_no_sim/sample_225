@@ -3,25 +3,13 @@
     "foreign body": "PROBLEM"
   },
   {
-    "anterior chambers": "PROBLEM"
-  },
-  {
-    "conjunctiva": "PROBLEM"
-  },
-  {
-    "lens": "PROBLEM"
-  },
-  {
-    "lids": "PROBLEM"
+    "photophobia": "PROBLEM"
   },
   {
     "blurriness": "PROBLEM"
   },
   {
-    "photophobia": "PROBLEM"
-  },
-  {
-    "sensation": "PROBLEM"
+    "anterior chambers": "TEST"
   },
   {
     "slit lamp examination": "TEST"
@@ -30,21 +18,24 @@
     "visual acuity": "TEST"
   },
   {
-    "blood pressure": "TEST"
+    "lids": "TEST"
   },
   {
-    "respirations": "TEST"
+    "lacrimal apparatus": "TEST"
   },
   {
-    "pulse": "TEST"
+    "conjunctiva": "TEST"
   },
   {
-    "temperature": "TEST"
+    "lens": "TEST"
   },
   {
-    "foreign body OS": "PROBLEM"
+    "metallic": "DRUG"
   },
   {
-    "foreign body sensation": "PROBLEM"
+    "pressure patch": "TREATMENT"
+  },
+  {
+    "surgery": "TREATMENT"
   }
 ]

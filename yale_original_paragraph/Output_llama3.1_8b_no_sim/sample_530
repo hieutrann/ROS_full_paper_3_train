@@ -1,21 +1,15 @@
 [
   {
-    "MRI C-Spine - C5-6 Disk Herniation": "TEST"
+    "C5-6 Disk Herniation": "PROBLEM"
   },
   {
     "MRI C-spine": "TEST"
   },
   {
-    "C5-6 disk herniation": "PROBLEM"
+    "MRI C-spine": "TEST"
   },
   {
-    "right shoulder pain": "PROBLEM"
-  },
-  {
-    "C-spine lesion": "PROBLEM"
-  },
-  {
-    "disk herniation": "PROBLEM"
+    "EMG/NCV": "TEST"
   },
   {
     "Naprosyn": "DRUG"
@@ -24,6 +18,15 @@
     "Macrodantin": "DRUG"
   },
   {
+    "C-spine lesion": "PROBLEM"
+  },
+  {
     "C5-6 laminectomy": "TREATMENT"
+  },
+  {
+    "C6-7 radiculopathy": "PROBLEM"
+  },
+  {
+    "Lhermitte's phenomena": "PROBLEM"
   }
 ]

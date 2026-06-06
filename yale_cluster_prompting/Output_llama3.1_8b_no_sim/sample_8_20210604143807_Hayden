@@ -1,18 +1,21 @@
 [
   {
-    "decreased level of consciousness": "PROBLEM"
+    "General Medicine": "TREATMENT"
+  },
+  {
+    "Gen Med Consult - 28": "TEST"
   },
   {
     "decreased level of consciousness": "PROBLEM"
   },
   {
-    "decreased status": "PROBLEM"
+    "decreased level of consciousness": "PROBLEM"
+  },
+  {
+    "patient": "PROBLEM"
   },
   {
     "elderly abuse": "PROBLEM"
-  },
-  {
-    "face": "PROBLEM"
   },
   {
     "decreased consciousness": "PROBLEM"
@@ -21,16 +24,10 @@
     "lacerations": "PROBLEM"
   },
   {
-    "wheelchair": "TREATMENT"
-  },
-  {
     "Xanax": "DRUG"
   },
   {
-    "decreased mental status": "PROBLEM"
-  },
-  {
-    "wife": "PROBLEM"
+    "wife": "TREATMENT"
   },
   {
     "Sinemet": "DRUG"
@@ -57,7 +54,7 @@
     "drug allergies": "PROBLEM"
   },
   {
-    "wife": "PROBLEM"
+    "patient": "PROBLEM"
   },
   {
     "cachectic": "PROBLEM"
@@ -69,7 +66,7 @@
     "lethargic": "PROBLEM"
   },
   {
-    "minimally to only a few questions": "PROBLEM"
+    "He answers minimally to only a few questions": "PROBLEM"
   },
   {
     "commands": "PROBLEM"
@@ -84,7 +81,7 @@
     "lip laceration": "PROBLEM"
   },
   {
-    "Pupils": "PROBLEM"
+    "pupils": "TEST"
   },
   {
     "Extraocular movements": "TEST"
@@ -93,7 +90,7 @@
     "Mucous membranes": "PROBLEM"
   },
   {
-    "Supple": "TEST"
+    "NECK": "PROBLEM"
   },
   {
     "thyromegaly": "PROBLEM"
@@ -129,7 +126,7 @@
     "EKG": "TEST"
   },
   {
-    "normal sinus rhythm": "PROBLEM"
+    "sinus rhythm": "PROBLEM"
   },
   {
     "77 beats per minute": "TEST"
@@ -165,13 +162,13 @@
     "Recent fall": "PROBLEM"
   },
   {
-    "2.": "TREATMENT"
-  },
-  {
-    "Altered mental status": "PROBLEM"
+    "2": "TEST"
   },
   {
     "Parkinson": "PROBLEM"
+  },
+  {
+    "3": "PROBLEM"
   },
   {
     "Dehydration": "PROBLEM"
@@ -208,6 +205,9 @@
   },
   {
     "decreased level of consciousness": "PROBLEM"
+  },
+  {
+    "level of consciousness": "PROBLEM"
   },
   {
     "xanax": "DRUG"

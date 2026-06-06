@@ -1,8 +1,5 @@
 [
   {
-    "GI Bleed": "PROBLEM"
-  },
-  {
     "GI bleed": "PROBLEM"
   },
   {
@@ -24,13 +21,10 @@
     "fatigue": "PROBLEM"
   },
   {
-    "microcytic anemia": "PROBLEM"
-  },
-  {
     "hemoglobin": "TEST"
   },
   {
-    "Stool dark brown, strongly OB positive": "TEST"
+    "OB positive": "TEST"
   },
   {
     "shortness of breath": "PROBLEM"
@@ -39,16 +33,13 @@
     "chest pain": "PROBLEM"
   },
   {
-    "atrial fibrillation": "PROBLEM"
-  },
-  {
     "hypertension": "PROBLEM"
   },
   {
     "osteoarthritis of the knees": "PROBLEM"
   },
   {
-    "hypercholesterole": "PROBLEM"
+    "hypercholesterolemia": "PROBLEM"
   },
   {
     "non-insulin-dependent diabetes mellitus": "PROBLEM"
@@ -63,10 +54,7 @@
     "adenopathy": "PROBLEM"
   },
   {
-    "organomegaly": "PROBLEM"
-  },
-  {
-    "lower extremity edema": "PROBLEM"
+    "edema": "PROBLEM"
   },
   {
     "upper endoscopy": "TEST"
@@ -82,36 +70,6 @@
   },
   {
     "polyp": "PROBLEM"
-  },
-  {
-    "resected": "TREATMENT"
-  },
-  {
-    "transfused": "TREATMENT"
-  },
-  {
-    "hemoglobin": "TEST"
-  },
-  {
-    "Upper gastrointestinal bleed": "PROBLEM"
-  },
-  {
-    "Anemia": "PROBLEM"
-  },
-  {
-    "Atrial fibrillation": "PROBLEM"
-  },
-  {
-    "Non-insulin-dependent diabetes mellitus": "PROBLEM"
-  },
-  {
-    "Hypertension": "PROBLEM"
-  },
-  {
-    "Hypothyroidism": "PROBLEM"
-  },
-  {
-    "Asthma": "PROBLEM"
   },
   {
     "Feosol": "DRUG"
@@ -144,27 +102,6 @@
     "lisinopril": "DRUG"
   },
   {
-    "Coumadin": "DRUG"
-  },
-  {
-    "CBC": "TEST"
-  },
-  {
     "INR": "TEST"
-  },
-  {
-    "gi bleed": "PROBLEM"
-  },
-  {
-    "microcytic anemia": "PROBLEM"
-  },
-  {
-    "cbc": "TEST"
-  },
-  {
-    "endoscopy": "TEST"
-  },
-  {
-    "colonoscopy": "TEST"
   }
 ]

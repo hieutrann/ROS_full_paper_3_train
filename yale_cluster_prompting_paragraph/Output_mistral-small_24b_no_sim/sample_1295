@@ -9,16 +9,7 @@
     "Innocent heart murmur": "PROBLEM"
   },
   {
-    "RSV": "PROBLEM"
-  },
-  {
-    "bronchiolitis": "PROBLEM"
-  },
-  {
-    "congestion": "PROBLEM"
-  },
-  {
-    "heart murmur": "PROBLEM"
+    "RSV": "TEST"
   },
   {
     "chest x-ray": "TEST"
@@ -30,7 +21,7 @@
     "tachypnea": "PROBLEM"
   },
   {
-    "increased retractions": "PROBLEM"
+    "retractions": "PROBLEM"
   },
   {
     "grunting": "PROBLEM"
@@ -42,34 +33,7 @@
     "albuterol MDI": "DRUG"
   },
   {
-    "VITAL SIGNS": "TEST"
-  },
-  {
-    "HEENT": "TEST"
-  },
-  {
-    "CARDIOVASCULAR": "TEST"
-  },
-  {
-    "EXTREMITIES": "TEST"
-  },
-  {
-    "LUNGS": "TEST"
-  },
-  {
-    "ABDOMEN": "TEST"
-  },
-  {
-    "GENITOURINARY": "TEST"
-  },
-  {
-    "DISCHARGE WEIGHT": "TEST"
-  },
-  {
-    "albuterol MDI": "DRUG"
-  },
-  {
-    "cough": "PROBLEM"
+    "systolic murmur": "PROBLEM"
   },
   {
     "wheezes": "PROBLEM"
@@ -78,24 +42,15 @@
     "dyspnea": "PROBLEM"
   },
   {
-    "bulb suctioning": "TREATMENT"
-  },
-  {
-    "discharge summary": "TEST"
-  },
-  {
-    "bronchiolitis": "PROBLEM"
-  },
-  {
-    "syncytial virus": "PROBLEM"
-  },
-  {
-    "heart murmur": "PROBLEM"
+    "crackles": "PROBLEM"
   },
   {
     "respiratory distress": "PROBLEM"
   },
   {
-    "lungs": "PROBLEM"
+    "bulb suctioning": "TREATMENT"
+  },
+  {
+    "saline": "TREATMENT"
   }
 ]

@@ -6,9 +6,6 @@
     "decreased level of consciousness": "PROBLEM"
   },
   {
-    "decreased status": "PROBLEM"
-  },
-  {
     "injuries of the face": "PROBLEM"
   },
   {
@@ -18,7 +15,7 @@
     "decreased consciousness": "PROBLEM"
   },
   {
-    "lacerations on the face": "PROBLEM"
+    "lacerations": "PROBLEM"
   },
   {
     "Xanax": "DRUG"
@@ -60,9 +57,6 @@
     "lethargic": "PROBLEM"
   },
   {
-    "not able to follow commands": "PROBLEM"
-  },
-  {
     "lacerations": "PROBLEM"
   },
   {
@@ -75,10 +69,7 @@
     "Pupils": "TEST"
   },
   {
-    "Extraocular movements": "TEST"
-  },
-  {
-    "Mucous membranes are dry": "PROBLEM"
+    "dry": "PROBLEM"
   },
   {
     "thyromegaly": "PROBLEM"
@@ -96,9 +87,6 @@
     "murmurs": "PROBLEM"
   },
   {
-    "breath sounds": "TEST"
-  },
-  {
     "bowel sounds": "TEST"
   },
   {
@@ -109,9 +97,6 @@
   },
   {
     "normal sinus rhythm": "PROBLEM"
-  },
-  {
-    "Urine": "TEST"
   },
   {
     "drug screen": "TEST"
@@ -138,7 +123,7 @@
     "CBC": "TEST"
   },
   {
-    "elevation of the white count": "PROBLEM"
+    "white count": "TEST"
   },
   {
     "neutrophils": "TEST"
@@ -184,6 +169,9 @@
   },
   {
     "parkinson": "PROBLEM"
+  },
+  {
+    "consciousness": "TEST"
   },
   {
     "xanax": "DRUG"

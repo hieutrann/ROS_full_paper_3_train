@@ -1,6 +1,9 @@
 [
   {
-    "vital signs": "TEST"
+    "multisystem exam": "TEST"
+  },
+  {
+    "afebrile": "PROBLEM"
   },
   {
     "blood pressure": "TEST"
@@ -9,64 +12,22 @@
     "heart rate": "TEST"
   },
   {
-    "eyes": "TEST"
-  },
-  {
-    "conjunctiva": "TEST"
-  },
-  {
-    "pupil": "TEST"
-  },
-  {
     "ptosis": "PROBLEM"
-  },
-  {
-    "irides": "TEST"
-  },
-  {
-    "ears": "TEST"
-  },
-  {
-    "nose": "TEST"
-  },
-  {
-    "throat": "TEST"
   },
   {
     "hearing": "TEST"
   },
   {
-    "oropharynx": "TEST"
+    "lesion": "PROBLEM"
   },
   {
-    "mucosa": "TEST"
-  },
-  {
-    "palate": "TEST"
-  },
-  {
-    "tongue": "TEST"
-  },
-  {
-    "tonsil": "TEST"
-  },
-  {
-    "pharynx": "TEST"
-  },
-  {
-    "neck": "TEST"
-  },
-  {
-    "thyroid gland": "TEST"
+    "thyroid gland": "PROBLEM"
   },
   {
     "respiratory effort": "TEST"
   },
   {
-    "lung": "TEST"
-  },
-  {
-    "heart": "TEST"
+    "auscultation": "TEST"
   },
   {
     "S1": "TEST"
@@ -78,46 +39,37 @@
     "murmur": "PROBLEM"
   },
   {
-    "extremities": "TEST"
-  },
-  {
     "edema": "PROBLEM"
   },
   {
-    "abdomen": "TEST"
+    "abdomen": "PROBLEM"
   },
   {
-    "liver": "TEST"
+    "liver": "PROBLEM"
   },
   {
-    "spleen": "TEST"
+    "spleen": "PROBLEM"
   },
   {
     "bowel sounds": "TEST"
   },
   {
-    "scrotal elements": "TEST"
+    "scrotal elements": "PROBLEM"
   },
   {
-    "testes": "TEST"
+    "testes": "PROBLEM"
   },
   {
-    "penis": "TEST"
+    "mass": "PROBLEM"
   },
   {
-    "lymphatic": "TEST"
+    "penis": "PROBLEM"
+  },
+  {
+    "discharge": "PROBLEM"
   },
   {
     "node": "PROBLEM"
-  },
-  {
-    "groin": "TEST"
-  },
-  {
-    "head": "TEST"
-  },
-  {
-    "neck": "TEST"
   },
   {
     "deformity": "PROBLEM"
@@ -126,40 +78,10 @@
     "range of motion": "TEST"
   },
   {
-    "upper extremities": "TEST"
-  },
-  {
-    "lower extremities": "TEST"
-  },
-  {
-    "skin": "TEST"
-  },
-  {
-    "subcutaneous tissues": "TEST"
-  },
-  {
-    "deep tendon reflexes": "TEST"
-  },
-  {
-    "patellar area": "TEST"
+    "reflexes": "TEST"
   },
   {
     "sensation": "TEST"
-  },
-  {
-    "touch": "TEST"
-  },
-  {
-    "patient": "PROBLEM"
-  },
-  {
-    "time": "TEST"
-  },
-  {
-    "place": "TEST"
-  },
-  {
-    "person": "TEST"
   },
   {
     "judgment": "TEST"

@@ -51,6 +51,9 @@
     "dryness": "PROBLEM"
   },
   {
+    "glasses": "TREATMENT"
+  },
+  {
     "ringing in the ears": "PROBLEM"
   },
   {
@@ -87,6 +90,12 @@
     "dry mouth": "PROBLEM"
   },
   {
+    "dentures": "TREATMENT"
+  },
+  {
+    "removable dental work": "TREATMENT"
+  },
+  {
     "frequent sore throats": "PROBLEM"
   },
   {
@@ -111,9 +120,6 @@
     "irregular heartbeats": "PROBLEM"
   },
   {
-    "sudden changes in heartbeat": "PROBLEM"
-  },
-  {
     "palpitation": "PROBLEM"
   },
   {
@@ -132,10 +138,10 @@
     "high blood pressure": "PROBLEM"
   },
   {
-    "cramps in his legs with walking": "PROBLEM"
+    "cramps in his legs": "PROBLEM"
   },
   {
-    "pain in his feet or toes at night": "PROBLEM"
+    "pain in his feet or toes": "PROBLEM"
   },
   {
     "varicose veins": "PROBLEM"
@@ -300,7 +306,10 @@
     "tightness": "PROBLEM"
   },
   {
-    "nodules or bumps": "PROBLEM"
+    "nodules": "PROBLEM"
+  },
+  {
+    "bumps": "PROBLEM"
   },
   {
     "hair loss": "PROBLEM"
@@ -333,7 +342,7 @@
     "loss of consciousness": "PROBLEM"
   },
   {
-    "sensitivity or pain in the hands and feet": "PROBLEM"
+    "pain": "PROBLEM"
   },
   {
     "memory loss": "PROBLEM"
@@ -342,13 +351,13 @@
     "depression": "PROBLEM"
   },
   {
-    "thoughts of suicide": "PROBLEM"
+    "suicide": "PROBLEM"
   },
   {
     "voices": "PROBLEM"
   },
   {
-    "intolerance to hot or cold temperature": "PROBLEM"
+    "psychiatric counseling": "TREATMENT"
   },
   {
     "flushing": "PROBLEM"
@@ -358,9 +367,6 @@
   },
   {
     "increased thirst": "PROBLEM"
-  },
-  {
-    "increased salt intake": "PROBLEM"
   },
   {
     "decreased sexual desire": "PROBLEM"

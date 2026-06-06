@@ -1,18 +1,18 @@
 [
   {
-    "CT C-Spine - 2": "TEST"
-  },
-  {
     "CT cervical spine": "TEST"
   },
   {
     "trauma": "PROBLEM"
   },
   {
-    "CT examination of the cervical spine": "TEST"
+    "CT examination": "TEST"
   },
   {
     "cervical spine": "PROBLEM"
+  },
+  {
+    "contrast": "TEST"
   },
   {
     "Coronal and sagittal reformats": "TEST"
@@ -39,7 +39,7 @@
     "Coronal and sagittal reformats": "TEST"
   },
   {
-    "Cervical vertebral body height": "TEST"
+    "vertebral body height": "TEST"
   },
   {
     "alignment": "TEST"

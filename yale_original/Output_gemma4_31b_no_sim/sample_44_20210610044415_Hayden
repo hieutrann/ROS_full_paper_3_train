@@ -60,10 +60,7 @@
     "cystotomy": "PROBLEM"
   },
   {
-    "repaired": "TREATMENT"
-  },
-  {
-    "Bowel and bladder function": "PROBLEM"
+    "bladder flap": "TREATMENT"
   },
   {
     "cystogram": "TEST"
@@ -84,7 +81,7 @@
     "urinary tract infection": "PROBLEM"
   },
   {
-    "Final pathology report": "TEST"
+    "pathology report": "TEST"
   },
   {
     "residual disease": "PROBLEM"
@@ -99,7 +96,10 @@
     "hysterectomy": "TREATMENT"
   },
   {
-    "microinvasive carcinoma": "PROBLEM"
+    "microinvasive": "PROBLEM"
+  },
+  {
+    "carcinoma": "PROBLEM"
   },
   {
     "cervix": "PROBLEM"

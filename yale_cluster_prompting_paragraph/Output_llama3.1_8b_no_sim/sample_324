@@ -12,19 +12,19 @@
     "Cornea": "PROBLEM"
   },
   {
-    "Pupils": "PROBLEM"
+    "Pupils": "TEST"
   },
   {
     "Iris": "PROBLEM"
   },
   {
-    "Anterior chamber": "PROBLEM"
+    "Anterior chamber": "TEST"
   },
   {
-    "Lacrimal ducts": "PROBLEM"
+    "Lacrimal ducts": "TEST"
   },
   {
-    "Fundi": "PROBLEM"
+    "Fundi": "TEST"
   },
   {
     "External ear": "PROBLEM"
@@ -33,13 +33,16 @@
     "Ear canal": "PROBLEM"
   },
   {
-    "Tympanic membranes": "PROBLEM"
+    "Tympanic membranes": "TEST"
   },
   {
-    "Middle ear": "PROBLEM"
+    "Middle ear effusions": "PROBLEM"
   },
   {
-    "Nose": "PROBLEM"
+    "External nose": "PROBLEM"
+  },
+  {
+    "Nares": "PROBLEM"
   },
   {
     "Turbinates": "PROBLEM"
@@ -72,16 +75,19 @@
     "Uvula": "PROBLEM"
   },
   {
+    "Skin": "PROBLEM"
+  },
+  {
     "Neck": "PROBLEM"
   },
   {
-    "Trachea": "PROBLEM"
+    "Trachea": "TEST"
   },
   {
     "Chest": "PROBLEM"
   },
   {
-    "Heart": "PROBLEM"
+    "Heart": "TEST"
   },
   {
     "Abdominal": "PROBLEM"
@@ -91,9 +97,6 @@
   },
   {
     "Splenomegaly": "PROBLEM"
-  },
-  {
-    "Genital": "PROBLEM"
   },
   {
     "Labia majora": "PROBLEM"
@@ -139,182 +142,5 @@
   },
   {
     "Psychiatric": "PROBLEM"
-  },
-  {
-    "Anterior chamber": "TEST"
-  },
-  {
-    "Cardiovascular": "TEST"
-  },
-  {
-    "Chest": "TEST"
-  },
-  {
-    "Abdominal": "TEST"
-  },
-  {
-    "Genital": "TEST"
-  },
-  {
-    "Musculoskeletal": "TEST"
-  },
-  {
-    "Foot": "TEST"
-  },
-  {
-    "Ankle": "TEST"
-  },
-  {
-    "Knee": "TEST"
-  },
-  {
-    "Wrist": "TEST"
-  },
-  {
-    "Elbow": "TEST"
-  },
-  {
-    "Hip": "TEST"
-  },
-  {
-    "Normal range of motion": "TEST"
-  },
-  {
-    "Normal strength": "TEST"
-  },
-  {
-    "Joint effusions": "TEST"
-  },
-  {
-    "Lesions": "TEST"
-  },
-  {
-    "Effusions": "TEST"
-  },
-  {
-    "Crepitus": "TEST"
-  },
-  {
-    "Ecchymosis": "TEST"
-  },
-  {
-    "Edema": "TEST"
-  },
-  {
-    "Erythema": "TEST"
-  },
-  {
-    "Tinel": "TEST"
-  },
-  {
-    "Phalen": "TEST"
-  },
-  {
-    "Olecranon bursa": "TEST"
-  },
-  {
-    "Trochanteric bursa": "TEST"
-  },
-  {
-    "Swinging test": "TEST"
-  },
-  {
-    "Lachman's test": "TEST"
-  },
-  {
-    "Anterior and posterior drawer test": "TEST"
-  },
-  {
-    "Collateral ligaments": "TEST"
-  },
-  {
-    "Bursas": "TEST"
-  },
-  {
-    "Normal supination and pronation": "TEST"
-  },
-  {
-    "Normal gait": "TEST"
-  },
-  {
-    "Alert and oriented": "TEST"
-  },
-  {
-    "Delusions": "PROBLEM"
-  },
-  {
-    "Hallucinations": "PROBLEM"
-  },
-  {
-    "Loose associations": "PROBLEM"
-  },
-  {
-    "Flight of ideas": "PROBLEM"
-  },
-  {
-    "Tangentiality": "PROBLEM"
-  },
-  {
-    "Affect": "PROBLEM"
-  },
-  {
-    "Psychomotor slowing": "PROBLEM"
-  },
-  {
-    "Agitation": "PROBLEM"
-  },
-  {
-    "Eye contact": "PROBLEM"
-  },
-  {
-    "General medicine": "TREATMENT"
-  },
-  {
-    "Physical examination": "TREATMENT"
-  },
-  {
-    "Surgery": "TREATMENT"
-  },
-  {
-    "Bypass": "TREATMENT"
-  },
-  {
-    "Prior bypass surgery": "TREATMENT"
-  },
-  {
-    "Urinary tract infection": "PROBLEM"
-  },
-  {
-    "Fatigue and tiredness": "PROBLEM"
-  },
-  {
-    "Shortness of breath": "PROBLEM"
-  },
-  {
-    "Elevated psa": "PROBLEM"
-  },
-  {
-    "Fever": "PROBLEM"
-  },
-  {
-    "Coronary artery disease": "PROBLEM"
-  },
-  {
-    "Hypertension": "PROBLEM"
-  },
-  {
-    "Diabetes mellitus": "PROBLEM"
-  },
-  {
-    "Cholesterol": "PROBLEM"
-  },
-  {
-    "Artery": "PROBLEM"
-  },
-  {
-    "Cardiac": "PROBLEM"
-  },
-  {
-    "Infection": "PROBLEM"
   }
 ]

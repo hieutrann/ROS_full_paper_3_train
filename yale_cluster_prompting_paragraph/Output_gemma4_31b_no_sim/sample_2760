@@ -48,6 +48,9 @@
     "partial medial meniscectomy": "TREATMENT"
   },
   {
+    "CPM machine": "TREATMENT"
+  },
+  {
     "dyspnea": "PROBLEM"
   },
   {
@@ -109,32 +112,5 @@
   },
   {
     "guaifenesin long-acting": "DRUG"
-  },
-  {
-    "open reduction": "TREATMENT"
-  },
-  {
-    "internal fixation": "TREATMENT"
-  },
-  {
-    "schatzker iii tibial plateau fracture": "PROBLEM"
-  },
-  {
-    "meniscectomy": "TREATMENT"
-  },
-  {
-    "tibial plateau fracture": "PROBLEM"
-  },
-  {
-    "orif": "TREATMENT"
-  },
-  {
-    "fixation": "TREATMENT"
-  },
-  {
-    "reduction": "TREATMENT"
-  },
-  {
-    "fracture": "PROBLEM"
   }
 ]

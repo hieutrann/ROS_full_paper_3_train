@@ -1,8 +1,5 @@
 [
   {
-    "Percutaneous liver biopsy": "TEST"
-  },
-  {
     "bleeding": "PROBLEM"
   },
   {
@@ -18,19 +15,37 @@
     "death": "PROBLEM"
   },
   {
-    "2% Lidocaine": "DRUG"
+    "Lidocaine": "DRUG"
   },
   {
     "iodine": "DRUG"
   },
   {
-    "lidocaine": "DRUG"
-  },
-  {
     "codeine": "DRUG"
   },
   {
-    "Percutaneous liver biopsy": "TEST"
+    "povidone iodine": "DRUG"
+  },
+  {
+    "lidocaine": "DRUG"
+  },
+  {
+    "Bard-Parker #11 scalpel": "TREATMENT"
+  },
+  {
+    "Klatskin needle": "TREATMENT"
+  },
+  {
+    "liver biopsy": "TREATMENT"
+  },
+  {
+    "percutaneous liver biopsy": "TREATMENT"
+  },
+  {
+    "hepatitis A and B vaccines": "DRUG"
+  },
+  {
+    "liver biopsy": "TEST"
   },
   {
     "bleeding": "PROBLEM"
@@ -45,34 +60,10 @@
     "pneumothorax": "PROBLEM"
   },
   {
-    "death": "PROBLEM"
+    "abdominal pain": "PROBLEM"
   },
   {
-    "2% lidocaine": "DRUG"
-  },
-  {
-    "povidone iodine": "DRUG"
-  },
-  {
-    "2% lidocaine": "DRUG"
-  },
-  {
-    "Bard-Parker #11 scalpel": "TEST"
-  },
-  {
-    "16-gauge modified Klatskin needle": "TEST"
-  },
-  {
-    "liver cores": "TEST"
-  },
-  {
-    "Pathology": "TEST"
-  },
-  {
-    "histologic study": "TEST"
-  },
-  {
-    "severe abdominal or chest pain": "PROBLEM"
+    "chest pain": "PROBLEM"
   },
   {
     "fever": "PROBLEM"
@@ -84,48 +75,6 @@
     "light-headedness": "PROBLEM"
   },
   {
-    "unusual symptoms": "PROBLEM"
-  },
-  {
     "hepatitis A and B vaccines": "DRUG"
-  },
-  {
-    "vaccination": "TREATMENT"
-  },
-  {
-    "liver biopsy": "TEST"
-  },
-  {
-    "surgery": "TREATMENT"
-  },
-  {
-    "bile peritonitis": "PROBLEM"
-  },
-  {
-    "bowel perforation": "PROBLEM"
-  },
-  {
-    "pneumothorax": "PROBLEM"
-  },
-  {
-    "klatskin needle": "TEST"
-  },
-  {
-    "mid axillary": "TEST"
-  },
-  {
-    "liver biopsy": "TEST"
-  },
-  {
-    "percutaneous": "TEST"
-  },
-  {
-    "lidocaine": "DRUG"
-  },
-  {
-    "biopsy": "TREATMENT"
-  },
-  {
-    "liver": "PROBLEM"
   }
 ]

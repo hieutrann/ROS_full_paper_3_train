@@ -1,11 +1,5 @@
 [
   {
-    "right hemisphere disorder": "PROBLEM"
-  },
-  {
-    "stroke": "PROBLEM"
-  },
-  {
     "speech therapy": "TREATMENT"
   },
   {
@@ -16,6 +10,18 @@
   },
   {
     "speech therapy": "TREATMENT"
+  },
+  {
+    "right hemisphere disorder": "PROBLEM"
+  },
+  {
+    "stroke": "PROBLEM"
+  },
+  {
+    "speech therapy": "TREATMENT"
+  },
+  {
+    "therapy": "TREATMENT"
   },
   {
     "oral mechanism examination": "TEST"
@@ -24,10 +30,16 @@
     "clinical swallow evaluation": "TEST"
   },
   {
-    "swallowing": "PROBLEM"
+    "turn taking skills": "PROBLEM"
   },
   {
-    "turn taking skills": "PROBLEM"
+    "conversation": "TREATMENT"
+  },
+  {
+    "narrative": "TEST"
+  },
+  {
+    "three-minute delay": "TEST"
   },
   {
     "visual scanning": "PROBLEM"
@@ -51,12 +63,30 @@
     "left neglect": "PROBLEM"
   },
   {
+    "speech therapy": "TREATMENT"
+  },
+  {
+    "discharge summary": "TEST"
+  },
+  {
+    "speech therapy": "TREATMENT"
+  },
+  {
     "swallow evaluation": "TEST"
+  },
+  {
+    "swallowing": "PROBLEM"
+  },
+  {
+    "skilled speech therapy": "TREATMENT"
   },
   {
     "hemisphere disorder": "PROBLEM"
   },
   {
     "speech therapy": "TREATMENT"
+  },
+  {
+    "speech": "PROBLEM"
   }
 ]

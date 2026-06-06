@@ -1,15 +1,9 @@
 [
   {
-    "surgery": "TREATMENT"
+    "Elevated Blood Pressure": "PROBLEM"
   },
   {
     "blood pressure": "PROBLEM"
-  },
-  {
-    "General Medicine": "TEST"
-  },
-  {
-    "Perioperative Elevated Blood Pressure": "PROBLEM"
   },
   {
     "labetalol": "DRUG"
@@ -24,22 +18,16 @@
     "elevated blood pressure": "PROBLEM"
   },
   {
-    "PAST MEDICAL HISTORY": "TEST"
+    "PAST MEDICAL HISTORY": "TREATMENT"
   },
   {
     "Graves disease": "PROBLEM"
   },
   {
-    "2": "TREATMENT"
+    "2": "PROBLEM"
   },
   {
     "Paroxysmal atrial fibrillation": "PROBLEM"
-  },
-  {
-    "normal sinus rhythm": "PROBLEM"
-  },
-  {
-    "medication": "DRUG"
   },
   {
     "3": "PROBLEM"
@@ -75,7 +63,7 @@
     "right shoulder surgery with reconstruction": "TREATMENT"
   },
   {
-    "rotator cuff repair": "TREATMENT"
+    "both shoulders rotator cuff repair": "TREATMENT"
   },
   {
     "left knee arthroplasty": "TREATMENT"
@@ -84,19 +72,10 @@
     "transurethral resection of prostate": "TREATMENT"
   },
   {
-    "laser surgery": "TREATMENT"
+    "laser surgery for the prostate": "TREATMENT"
   },
   {
-    "prostate": "PROBLEM"
-  },
-  {
-    "71-year-old": "PROBLEM"
-  },
-  {
-    "surgery": "TREATMENT"
-  },
-  {
-    "blood pressure": "TEST"
+    "blood pressure": "PROBLEM"
   },
   {
     "labetalol": "DRUG"
@@ -108,10 +87,10 @@
     "180/100": "PROBLEM"
   },
   {
-    "blood pressure": "TEST"
+    "blood pressure": "PROBLEM"
   },
   {
-    "systolic": "TEST"
+    "systolic": "PROBLEM"
   },
   {
     "shortness of breath": "PROBLEM"
@@ -132,7 +111,7 @@
     "general malaise": "PROBLEM"
   },
   {
-    "ENT": "TEST"
+    "Unremarkable": "PROBLEM"
   },
   {
     "cough": "PROBLEM"
@@ -145,9 +124,6 @@
   },
   {
     "nausea": "PROBLEM"
-  },
-  {
-    "vomiting": "PROBLEM"
   },
   {
     "prostatic hypertrophy": "PROBLEM"
@@ -180,40 +156,34 @@
     "terazosin": "DRUG"
   },
   {
-    "cardiologist": "PROBLEM"
-  },
-  {
     "months": "PROBLEM"
   },
   {
     "71-year-old gentleman": "PROBLEM"
   },
   {
-    "acute distress": "PROBLEM"
-  },
-  {
     "auscultation": "TEST"
   },
   {
-    "heart sounds": "TEST"
+    "heart sounds": "PROBLEM"
   },
   {
     "murmur": "PROBLEM"
   },
   {
-    "ABDOMEN": "PROBLEM"
+    "Benign": "PROBLEM"
   },
   {
-    "EXTREMITIES": "TEST"
+    "swelling": "PROBLEM"
   },
   {
-    "oriented": "PROBLEM"
+    "alert and oriented x3": "PROBLEM"
   },
   {
-    "Examination": "TEST"
+    "nonfocal": "PROBLEM"
   },
   {
-    "hypertension": "PROBLEM"
+    "Perioperative hypertension": "PROBLEM"
   },
   {
     "lisinopril": "DRUG"
@@ -228,28 +198,25 @@
     "lisinopril": "DRUG"
   },
   {
-    "systolic": "PROBLEM"
+    "blood pressure": "PROBLEM"
   },
   {
-    "lisinopril": "DRUG"
+    "systolic": "PROBLEM"
   },
   {
     "daily": "PROBLEM"
   },
   {
-    "primary physician": "TREATMENT"
+    "Dr.": "TREATMENT"
   },
   {
-    "Y in 2 weeks' time": "TREATMENT"
+    "Y": "PROBLEM"
   },
   {
     "blood pressure": "PROBLEM"
   },
   {
     "lisinopril": "DRUG"
-  },
-  {
-    "primary physician": "TREATMENT"
   },
   {
     "2": "PROBLEM"
@@ -270,7 +237,7 @@
     "Graves disease": "PROBLEM"
   },
   {
-    "4": "TEST"
+    "4": "PROBLEM"
   },
   {
     "atrial fibrillation": "PROBLEM"
@@ -282,19 +249,10 @@
     "stable": "PROBLEM"
   },
   {
-    "home": "TREATMENT"
-  },
-  {
     "lisinopril": "DRUG"
   },
   {
     "blood pressure": "PROBLEM"
-  },
-  {
-    "lisinopril": "DRUG"
-  },
-  {
-    "general medicine": "TREATMENT"
   },
   {
     "elevated blood pressure": "PROBLEM"
@@ -315,15 +273,12 @@
     "transurethral resection of prostate": "TREATMENT"
   },
   {
-    "blood pressure": "TEST"
+    "blood pressure": "PROBLEM"
   },
   {
-    "blood": "TEST"
+    "blood": "PROBLEM"
   },
   {
-    "pressure": "TEST"
-  },
-  {
-    "perioperative": "TEST"
+    "pressure": "PROBLEM"
   }
 ]

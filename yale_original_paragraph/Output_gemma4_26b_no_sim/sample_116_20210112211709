@@ -1,12 +1,18 @@
 [
   {
-    "Symptomatic thyroid goiter": "PROBLEM"
+    "thyroid goiter": "PROBLEM"
   },
   {
     "Total thyroidectomy": "TREATMENT"
   },
   {
-    "thyroid goiter": "PROBLEM"
+    "Symptomatic thyroid goiter": "PROBLEM"
+  },
+  {
+    "Symptomatic thyroid goiter": "PROBLEM"
+  },
+  {
+    "Total thyroidectomy": "TREATMENT"
   },
   {
     "large nodular thyroid goiter": "PROBLEM"

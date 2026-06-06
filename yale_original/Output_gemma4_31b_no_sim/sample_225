@@ -3,7 +3,7 @@
     "foreign body in left eye": "PROBLEM"
   },
   {
-    "foreign body to his left eye": "PROBLEM"
+    "foreign body": "PROBLEM"
   },
   {
     "foreign body sensation": "PROBLEM"
@@ -25,9 +25,6 @@
   },
   {
     "photophobia": "PROBLEM"
-  },
-  {
-    "ophthalmologic problems": "PROBLEM"
   },
   {
     "Dislocated wrist": "PROBLEM"
@@ -57,12 +54,6 @@
     "slit lamp examination": "TEST"
   },
   {
-    "Anterior chambers": "TEST"
-  },
-  {
-    "Lens": "TEST"
-  },
-  {
     "Conjunctiva are severely injected": "PROBLEM"
   },
   {
@@ -72,7 +63,7 @@
     "slit lamp": "TEST"
   },
   {
-    "Foreign body OS": "PROBLEM"
+    "Foreign body": "PROBLEM"
   },
   {
     "removal of the foreign body": "TREATMENT"

@@ -1,54 +1,54 @@
 [
   {
-    "Aftercare of multiple trauma from an motor vehicle accident": "PROBLEM"
+    "multiple trauma": "PROBLEM"
   },
   {
-    "Decubitus ulcer": "PROBLEM"
+    "decubitus ulcer": "PROBLEM"
   },
   {
-    "Alcohol induced persisting dementia": "PROBLEM"
+    "alcohol induced persisting dementia": "PROBLEM"
   },
   {
-    "Anemia": "PROBLEM"
+    "anemia": "PROBLEM"
   },
   {
-    "Hypokalemia": "PROBLEM"
+    "hypokalemia": "PROBLEM"
   },
   {
-    "Aftercare healing traumatic fracture of the lower arm": "PROBLEM"
+    "traumatic fracture of the lower arm": "PROBLEM"
   },
   {
-    "Alcohol abuse": "PROBLEM"
+    "lower leg fracture": "PROBLEM"
   },
   {
-    "Open wound of the scalp": "PROBLEM"
+    "open wound of the scalp": "PROBLEM"
   },
   {
-    "Cervical disk displacement with myelopathy": "PROBLEM"
+    "cervical disk displacement with myelopathy": "PROBLEM"
   },
   {
-    "Episodic mood disorder": "PROBLEM"
+    "episodic mood disorder": "PROBLEM"
   },
   {
-    "Anxiety disorder": "PROBLEM"
+    "anxiety disorder": "PROBLEM"
   },
   {
-    "Nervousness": "PROBLEM"
+    "nervousness": "PROBLEM"
   },
   {
-    "Psychosis": "PROBLEM"
+    "psychosis": "PROBLEM"
   },
   {
-    "Generalized pain": "PROBLEM"
+    "generalized pain": "PROBLEM"
   },
   {
-    "Insomnia": "PROBLEM"
+    "insomnia": "PROBLEM"
   },
   {
-    "Pain in joint pelvic region/thigh": "PROBLEM"
+    "pain in joint pelvic region/thigh": "PROBLEM"
   },
   {
-    "Motor vehicle traffic accident": "PROBLEM"
+    "motor vehicle traffic accident": "PROBLEM"
   },
   {
     "Calcium with vitamin D": "DRUG"
@@ -60,7 +60,7 @@
     "Multivitamin": "DRUG"
   },
   {
-    "Nicotine patch": "DRUG"
+    "nicotine patch": "DRUG"
   },
   {
     "Seroquel": "DRUG"
@@ -78,10 +78,13 @@
     "ORIF": "TREATMENT"
   },
   {
-    "Wound care": "TREATMENT"
+    "wound care": "TREATMENT"
   },
   {
-    "Iron treatment": "TREATMENT"
+    "iron treatment": "TREATMENT"
+  },
+  {
+    "therapy": "TREATMENT"
   },
   {
     "Seroquel": "TREATMENT"
@@ -90,6 +93,18 @@
     "Ativan": "TREATMENT"
   },
   {
-    "Chronic pain medications": "TREATMENT"
+    "chronic pain medications": "TREATMENT"
+  },
+  {
+    "case management": "TREATMENT"
+  },
+  {
+    "orthopedic followup": "TREATMENT"
+  },
+  {
+    "outpatient therapy": "TREATMENT"
+  },
+  {
+    "primary care physician": "TREATMENT"
   }
 ]

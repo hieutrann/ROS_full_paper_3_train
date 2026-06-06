@@ -9,16 +9,13 @@
     "decreased status": "PROBLEM"
   },
   {
-    "injuries": "PROBLEM"
+    "face": "PROBLEM"
   },
   {
     "elderly abuse": "PROBLEM"
   },
   {
     "decreased consciousness": "PROBLEM"
-  },
-  {
-    "wheelchair": "PROBLEM"
   },
   {
     "lacerations": "PROBLEM"
@@ -60,28 +57,34 @@
     "lethargic": "PROBLEM"
   },
   {
-    "minimally": "PROBLEM"
-  },
-  {
-    "follow commands": "PROBLEM"
+    "answers": "TEST"
   },
   {
     "lacerations": "PROBLEM"
   },
   {
-    "forehead": "PROBLEM"
+    "sutured": "TREATMENT"
   },
   {
     "lip laceration": "PROBLEM"
   },
   {
-    "upper lip": "PROBLEM"
+    "Pupils": "TEST"
   },
   {
-    "reactive to light": "TEST"
+    "Extraocular movements": "TEST"
   },
   {
-    "dry": "PROBLEM"
+    "mucous membranes": "TEST"
+  },
+  {
+    "NECK": "PROBLEM"
+  },
+  {
+    "thyromegaly": "PROBLEM"
+  },
+  {
+    "lymphadenopathy": "PROBLEM"
   },
   {
     "S1": "TEST"
@@ -90,22 +93,22 @@
     "S2": "TEST"
   },
   {
-    "LUNGS": "PROBLEM"
-  },
-  {
-    "ABDOMEN": "PROBLEM"
+    "breath sounds": "TEST"
   },
   {
     "bowel sounds": "TEST"
   },
   {
+    "edema": "PROBLEM"
+  },
+  {
     "EKG": "TEST"
   },
   {
-    "sinus rhythm": "PROBLEM"
+    "drug screen": "TEST"
   },
   {
-    "drug screen": "TEST"
+    "UA": "TEST"
   },
   {
     "WBCs": "TEST"
@@ -114,7 +117,10 @@
     "RBCs": "TEST"
   },
   {
-    "specific gravity": "TEST"
+    "Specific gravity": "TEST"
+  },
+  {
+    "comprehensive panel": "TEST"
   },
   {
     "potassium": "TEST"
@@ -150,9 +156,6 @@
     "Sinemet": "DRUG"
   },
   {
-    "general medicine": "PROBLEM"
-  },
-  {
     "level of consciousness": "PROBLEM"
   },
   {
@@ -169,9 +172,6 @@
   },
   {
     "decreased level of consciousness": "PROBLEM"
-  },
-  {
-    "ems": "TEST"
   },
   {
     "parkinson": "PROBLEM"

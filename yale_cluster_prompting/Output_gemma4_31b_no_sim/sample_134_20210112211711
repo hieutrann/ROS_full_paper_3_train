@@ -24,6 +24,9 @@
     "aching": "PROBLEM"
   },
   {
+    "glasses": "TREATMENT"
+  },
+  {
     "cataracts": "PROBLEM"
   },
   {
@@ -52,6 +55,9 @@
   },
   {
     "dental problems": "PROBLEM"
+  },
+  {
+    "dentures": "TREATMENT"
   },
   {
     "bleeding gums": "PROBLEM"
@@ -282,7 +288,7 @@
     "steroids": "DRUG"
   },
   {
-    "chemotherapy": "TREATMENT"
+    "chemotherapy": "DRUG"
   },
   {
     "cancer": "PROBLEM"
@@ -328,5 +334,8 @@
   },
   {
     "bleeding": "PROBLEM"
+  },
+  {
+    "heartbeat": "TEST"
   }
 ]

@@ -3,7 +3,7 @@
     "Falls": "PROBLEM"
   },
   {
-    "anxiety": "PROBLEM"
+    "Anxiety": "PROBLEM"
   },
   {
     "depression": "PROBLEM"
@@ -24,40 +24,76 @@
     "Darvocet": "DRUG"
   },
   {
-    "anxiety": "PROBLEM"
-  },
-  {
-    "SI": "PROBLEM"
-  },
-  {
-    "HI": "PROBLEM"
-  },
-  {
-    "psychiatric evaluation": "TEST"
-  },
-  {
-    "depression": "PROBLEM"
-  },
-  {
-    "anxiety": "PROBLEM"
-  },
-  {
     "Paxil": "DRUG"
   },
   {
     "Xanax": "DRUG"
   },
   {
-    "Falls": "PROBLEM"
+    "Tylenol 650 mg q.6h. p.r.n.": "DRUG"
   },
   {
-    "anxiety": "PROBLEM"
+    "Xanax 0.5 q.4h. p.r.n.": "DRUG"
   },
   {
-    "depression": "PROBLEM"
+    "Lasix 80 mg daily": "DRUG"
   },
   {
-    "Hypertension": "PROBLEM"
+    "Isordil 10 mg t.i.d.": "DRUG"
+  },
+  {
+    "KCl 20 mEq b.i.d.": "DRUG"
+  },
+  {
+    "lactulose 10 g daily": "DRUG"
+  },
+  {
+    "Cozaar 50 mg daily": "DRUG"
+  },
+  {
+    "Synthroid 75 mcg daily": "DRUG"
+  },
+  {
+    "Singulair 10 mg daily": "DRUG"
+  },
+  {
+    "Lumigan one drop both eyes at bed time": "DRUG"
+  },
+  {
+    "NitroQuick p.r.n.": "DRUG"
+  },
+  {
+    "Pravachol 20 mg daily": "DRUG"
+  },
+  {
+    "Feldene 20 mg daily": "DRUG"
+  },
+  {
+    "Paxil 20 mg daily": "DRUG"
+  },
+  {
+    "Minipress 2 mg daily": "DRUG"
+  },
+  {
+    "Provera p.r.n.": "DRUG"
+  },
+  {
+    "Advair 250/50 one puff b.i.d.": "DRUG"
+  },
+  {
+    "Senokot one tablet b.i.d.": "DRUG"
+  },
+  {
+    "Timoptic one drop OU daily": "DRUG"
+  },
+  {
+    "verapamil 80 mg b.i.d.": "DRUG"
+  },
+  {
+    "psychiatric evaluation": "TEST"
+  },
+  {
+    "hypertension": "PROBLEM"
   },
   {
     "Hypercholesterolemia": "PROBLEM"
@@ -73,65 +109,5 @@
   },
   {
     "Hypothyroidism": "PROBLEM"
-  },
-  {
-    "Tylenol": "DRUG"
-  },
-  {
-    "Xanax": "DRUG"
-  },
-  {
-    "Lasix": "DRUG"
-  },
-  {
-    "Isordil": "DRUG"
-  },
-  {
-    "KCl": "DRUG"
-  },
-  {
-    "lactulose": "DRUG"
-  },
-  {
-    "Cozaar": "DRUG"
-  },
-  {
-    "Synthroid": "DRUG"
-  },
-  {
-    "Singulair": "DRUG"
-  },
-  {
-    "Lumigan": "DRUG"
-  },
-  {
-    "NitroQuick": "DRUG"
-  },
-  {
-    "Pravachol": "DRUG"
-  },
-  {
-    "Feldene": "DRUG"
-  },
-  {
-    "Paxil": "DRUG"
-  },
-  {
-    "Minipress": "DRUG"
-  },
-  {
-    "Provera": "DRUG"
-  },
-  {
-    "Advair": "DRUG"
-  },
-  {
-    "Senokot": "DRUG"
-  },
-  {
-    "Timoptic": "DRUG"
-  },
-  {
-    "verapamil": "DRUG"
   }
 ]

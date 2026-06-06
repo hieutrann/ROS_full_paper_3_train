@@ -1,0 +1,167 @@
+[
+  {
+    "cold symptoms": "PROBLEM"
+  },
+  {
+    "bronchitis": "PROBLEM"
+  },
+  {
+    "antibiotics": "DRUG"
+  },
+  {
+    "Acute respiratory failure": "PROBLEM"
+  },
+  {
+    "bronchitis": "PROBLEM"
+  },
+  {
+    "acute respiratory failure": "PROBLEM"
+  },
+  {
+    "Acute on chronic renal failure": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "Diastolic dysfunction": "PROBLEM"
+  },
+  {
+    "X-ray": "TEST"
+  },
+  {
+    "congestion": "PROBLEM"
+  },
+  {
+    "pro-BNP": "TEST"
+  },
+  {
+    "Hyperlipidemia": "PROBLEM"
+  },
+  {
+    "cardiac catheterization": "TEST"
+  },
+  {
+    "coronary artery disease": "PROBLEM"
+  },
+  {
+    "carcinoma of the breast": "PROBLEM"
+  },
+  {
+    "right nephrectomy": "TREATMENT"
+  },
+  {
+    "Allergic rhinitis": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "wheezing": "PROBLEM"
+  },
+  {
+    "crepitations": "PROBLEM"
+  },
+  {
+    "X-rays": "TEST"
+  },
+  {
+    "congestion": "PROBLEM"
+  },
+  {
+    "infiltrates": "PROBLEM"
+  },
+  {
+    "pro-BNP": "TEST"
+  },
+  {
+    "hypoxic": "PROBLEM"
+  },
+  {
+    "nasal cannula": "TREATMENT"
+  },
+  {
+    "IV steroids": "DRUG"
+  },
+  {
+    "IV Lasix": "DRUG"
+  },
+  {
+    "swab": "TEST"
+  },
+  {
+    "MRSA colonization": "PROBLEM"
+  },
+  {
+    "wheezing": "PROBLEM"
+  },
+  {
+    "crepitations": "PROBLEM"
+  },
+  {
+    "O2 saturation": "TEST"
+  },
+  {
+    "exercise oximetry": "TEST"
+  },
+  {
+    "nasal congestion": "PROBLEM"
+  },
+  {
+    "steroid nasal spray": "DRUG"
+  },
+  {
+    "beta blockers": "DRUG"
+  },
+  {
+    "diastolic dysfunction": "PROBLEM"
+  },
+  {
+    "IV steroids": "DRUG"
+  },
+  {
+    "oral steroids": "DRUG"
+  },
+  {
+    "Metoprolol": "DRUG"
+  },
+  {
+    "Simvastatin": "DRUG"
+  },
+  {
+    "Prednisone": "DRUG"
+  },
+  {
+    "Flonase nasal spray": "DRUG"
+  },
+  {
+    "oximetry": "TEST"
+  },
+  {
+    "acute respiratory failure": "PROBLEM"
+  },
+  {
+    "bronchitis": "PROBLEM"
+  },
+  {
+    "acute on chronic renal failure": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "diastolic dysfunction": "PROBLEM"
+  },
+  {
+    "cold symptoms": "PROBLEM"
+  },
+  {
+    "iv steroids": "DRUG"
+  },
+  {
+    "nasal spray": "DRUG"
+  },
+  {
+    "steroids": "DRUG"
+  }
+]

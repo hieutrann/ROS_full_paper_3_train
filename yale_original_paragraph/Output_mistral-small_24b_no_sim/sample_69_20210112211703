@@ -1,45 +1,18 @@
 [
   {
-    "left-sided chest pain": "PROBLEM"
+    "chest pain": "PROBLEM"
   },
   {
-    "abdominal surgery": "TREATMENT"
+    "abdominal surgery": "PROBLEM"
   },
   {
-    "laparoscopic appendicectomy": "TREATMENT"
-  },
-  {
-    "postoperative paralytic ileus": "PROBLEM"
-  },
-  {
-    "left-sided chest pain": "PROBLEM"
+    "paralytic ileus": "PROBLEM"
   },
   {
     "fluid retention": "PROBLEM"
   },
   {
-    "swelling": "PROBLEM"
-  },
-  {
-    "lower extremities": "PROBLEM"
-  },
-  {
-    "left-sided chest pain": "PROBLEM"
-  },
-  {
-    "inspiration": "PROBLEM"
-  },
-  {
-    "left posterior axillary line": "PROBLEM"
-  },
-  {
-    "fourth": "PROBLEM"
-  },
-  {
-    "fifth": "PROBLEM"
-  },
-  {
-    "ribs": "PROBLEM"
+    "cough": "PROBLEM"
   },
   {
     "heart problems": "PROBLEM"
@@ -49,12 +22,6 @@
   },
   {
     "vomiting": "PROBLEM"
-  },
-  {
-    "laparoscopic appendicectomy": "TREATMENT"
-  },
-  {
-    "oral diet": "TREATMENT"
   },
   {
     "dysuria": "PROBLEM"
@@ -75,49 +42,31 @@
     "TIA": "PROBLEM"
   },
   {
-    "toxic looking": "PROBLEM"
-  },
-  {
-    "oral mucosa": "TEST"
-  },
-  {
-    "auscultation": "TEST"
-  },
-  {
     "wheezing": "PROBLEM"
   },
   {
     "crepitations": "PROBLEM"
   },
   {
-    "tenderness": "PROBLEM"
-  },
-  {
-    "left posterior-lateral axis": "PROBLEM"
-  },
-  {
-    "heart sounds": "TEST"
-  },
-  {
     "murmurs": "PROBLEM"
-  },
-  {
-    "abdomen": "TEST"
-  },
-  {
-    "bowel sounds": "TEST"
   },
   {
     "pedal swelling": "PROBLEM"
   },
   {
-    "alert": "TEST"
+    "ruptured appendicitis": "PROBLEM"
   },
   {
-    "oriented": "TEST"
+    "PE": "PROBLEM"
   },
   {
-    "examination": "TEST"
+    "leukocytosis": "PROBLEM"
+  },
+  {
+    "ultrasound": "TEST"
+  },
+  {
+    "CT angiogram": "TEST"
   },
   {
     "White count": "TEST"
@@ -141,72 +90,6 @@
     "albumin": "TEST"
   },
   {
-    "ruptured appendicitis": "PROBLEM"
-  },
-  {
-    "surgery": "TREATMENT"
-  },
-  {
-    "oral fluids": "TREATMENT"
-  },
-  {
-    "bowels": "PROBLEM"
-  },
-  {
-    "PE": "PROBLEM"
-  },
-  {
-    "oxygen saturation": "TEST"
-  },
-  {
-    "ultrasound": "TEST"
-  },
-  {
-    "lower extremity": "TEST"
-  },
-  {
-    "CT angiogram": "TEST"
-  },
-  {
-    "fluid retention": "PROBLEM"
-  },
-  {
-    "surgeon": "TREATMENT"
-  },
-  {
-    "paralytic ileus": "PROBLEM"
-  },
-  {
-    "leukocytosis": "PROBLEM"
-  },
-  {
-    "general medicine": "PROBLEM"
-  },
-  {
-    "chest pain": "PROBLEM"
-  },
-  {
-    "fluid retention": "PROBLEM"
-  },
-  {
-    "paralytic ileus": "PROBLEM"
-  },
-  {
-    "leukocytosis": "PROBLEM"
-  },
-  {
-    "abdominal surgery": "TREATMENT"
-  },
-  {
     "laparoscopic appendicectomy": "TREATMENT"
-  },
-  {
-    "abdominal": "PROBLEM"
-  },
-  {
-    "surgery": "TREATMENT"
-  },
-  {
-    "chest": "PROBLEM"
   }
 ]

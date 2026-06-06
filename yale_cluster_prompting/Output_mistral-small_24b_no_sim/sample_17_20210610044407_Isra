@@ -3,6 +3,9 @@
     "chronic kidney disease": "PROBLEM"
   },
   {
+    "stage 4": "PROBLEM"
+  },
+  {
     "diabetes mellitus": "PROBLEM"
   },
   {
@@ -15,12 +18,18 @@
     "PTA": "TREATMENT"
   },
   {
-    "swelling": "PROBLEM"
+    "swelling of the right hand": "PROBLEM"
+  },
+  {
+    "left foot": "PROBLEM"
   },
   {
     "chronic kidney disease": "PROBLEM"
   },
   {
+    "stage 4": "PROBLEM"
+  },
+  {
     "diabetes mellitus": "PROBLEM"
   },
   {
@@ -33,7 +42,10 @@
     "PTA": "TREATMENT"
   },
   {
-    "swelling": "PROBLEM"
+    "swelling of the right hand": "PROBLEM"
+  },
+  {
+    "swelling of the left foot": "PROBLEM"
   },
   {
     "right hand": "PROBLEM"
@@ -66,12 +78,6 @@
     "gouty attacks": "PROBLEM"
   },
   {
-    "emergency room": "TEST"
-  },
-  {
-    "diagnosed": "TEST"
-  },
-  {
     "chronic kidney disease": "PROBLEM"
   },
   {
@@ -102,31 +108,58 @@
     "NovoLog": "DRUG"
   },
   {
+    "20 units": "DRUG"
+  },
+  {
     "Lantus": "DRUG"
+  },
+  {
+    "30 units": "DRUG"
   },
   {
     "Crestor": "DRUG"
   },
   {
+    "10 mg": "DRUG"
+  },
+  {
     "Micardis": "DRUG"
+  },
+  {
+    "80 mg": "DRUG"
   },
   {
     "Imdur": "DRUG"
   },
   {
+    "30 mg": "DRUG"
+  },
+  {
     "Amlodipine": "DRUG"
+  },
+  {
+    "10 mg": "DRUG"
   },
   {
     "Coreg": "DRUG"
   },
   {
-    "Lasix": "DRUG"
+    "12.5 mg": "DRUG"
   },
   {
-    "Ecotrin": "DRUG"
+    "Lasix 20 mg daily": "DRUG"
   },
   {
-    "calcitriol": "DRUG"
+    "Ecotrin 325 mg daily": "DRUG"
+  },
+  {
+    "calcitriol 0.5 mcg daily": "DRUG"
+  },
+  {
+    "right hand": "PROBLEM"
+  },
+  {
+    "left foot": "PROBLEM"
   },
   {
     "swollen": "PROBLEM"
@@ -138,7 +171,7 @@
     "urinate": "PROBLEM"
   },
   {
-    "Foley": "TEST"
+    "Foley": "TREATMENT"
   },
   {
     "steroids": "DRUG"
@@ -168,13 +201,7 @@
     "hematuria": "PROBLEM"
   },
   {
-    "urine output": "TEST"
-  },
-  {
-    "decreased": "PROBLEM"
-  },
-  {
-    "urinate": "PROBLEM"
+    "urine output": "PROBLEM"
   },
   {
     "cough": "PROBLEM"
@@ -198,22 +225,25 @@
     "Blood pressure": "TEST"
   },
   {
-    "temperature": "TEST"
+    "Normocephalic": "PROBLEM"
   },
   {
-    "pulse": "TEST"
+    "Neck": "PROBLEM"
   },
   {
-    "respirations": "TEST"
+    "Chest": "PROBLEM"
   },
   {
-    "weight": "TEST"
+    "Lungs": "TEST"
   },
   {
-    "RRR": "TEST"
+    "Heart": "PROBLEM"
   },
   {
-    "Abdomen": "PROBLEM"
+    "Obese": "PROBLEM"
+  },
+  {
+    "pretibial edema": "PROBLEM"
   },
   {
     "edema": "PROBLEM"
@@ -231,7 +261,19 @@
     "white cell": "TEST"
   },
   {
+    "12.7": "TEST"
+  },
+  {
     "hematocrit": "TEST"
+  },
+  {
+    "26.1": "TEST"
+  },
+  {
+    "90% segs": "TEST"
+  },
+  {
+    "0% bands": "TEST"
   },
   {
     "Serum sodium": "TEST"
@@ -267,16 +309,19 @@
     "BNP": "TEST"
   },
   {
-    "white cells": "TEST"
+    "Urinalysis": "TEST"
   },
   {
-    "protein": "TEST"
+    "white cells": "PROBLEM"
   },
   {
-    "blood": "TEST"
+    "protein": "PROBLEM"
   },
   {
-    "red blood cells": "TEST"
+    "blood": "PROBLEM"
+  },
+  {
+    "red blood cells": "PROBLEM"
   },
   {
     "Urinary tract infection": "PROBLEM"
@@ -306,7 +351,7 @@
     "Chronic kidney disease": "PROBLEM"
   },
   {
-    "allopurinol": "DRUG"
+    "allopurinol 50 mg daily": "DRUG"
   },
   {
     "colchicine": "DRUG"
@@ -318,9 +363,6 @@
     "Lasix": "DRUG"
   },
   {
-    "general medicine": "PROBLEM"
-  },
-  {
     "hypertension": "PROBLEM"
   },
   {
@@ -328,6 +370,9 @@
   },
   {
     "hyperlipidemia": "PROBLEM"
+  },
+  {
+    "pta": "PROBLEM"
   },
   {
     "gouty attack": "PROBLEM"

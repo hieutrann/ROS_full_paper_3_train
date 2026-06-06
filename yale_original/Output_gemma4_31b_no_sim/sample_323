@@ -1,12 +1,12 @@
 [
   {
-    "Pupils": "TEST"
+    "Female Physical Exam": "TEST"
   },
   {
-    "Extraocular movements": "TEST"
+    "FEMALE PHYSICAL EXAMINATION": "TEST"
   },
   {
-    "Sclerae": "TEST"
+    "anicteric": "PROBLEM"
   },
   {
     "TMs": "TEST"
@@ -24,16 +24,7 @@
     "thyromegaly": "PROBLEM"
   },
   {
-    "Carotids": "TEST"
-  },
-  {
     "jugular venous distention": "PROBLEM"
-  },
-  {
-    "Chest": "TEST"
-  },
-  {
-    "Regular rate and rhythm": "TEST"
   },
   {
     "S3": "PROBLEM"
@@ -69,9 +60,6 @@
     "Speculum exam": "TEST"
   },
   {
-    "vaginal mucosa": "PROBLEM"
-  },
-  {
     "Bimanual exam": "TEST"
   },
   {
@@ -82,9 +70,6 @@
   },
   {
     "Rectal Exam": "TEST"
-  },
-  {
-    "rectal tone": "TEST"
   },
   {
     "masses": "PROBLEM"
@@ -114,9 +99,6 @@
     "masses": "PROBLEM"
   },
   {
-    "skin changes": "PROBLEM"
-  },
-  {
     "masses": "PROBLEM"
   },
   {
@@ -135,13 +117,43 @@
     "rashes": "PROBLEM"
   },
   {
+    "female physical examination": "TEST"
+  },
+  {
     "bimanual exam": "TEST"
+  },
+  {
+    "heent": "TEST"
   },
   {
     "hemoccult": "TEST"
   },
   {
+    "breast tissue": "TEST"
+  },
+  {
+    "cardiovascular": "TEST"
+  },
+  {
+    "dermatologic": "TEST"
+  },
+  {
+    "external genitalia": "TEST"
+  },
+  {
+    "integumentary": "TEST"
+  },
+  {
+    "joint exam": "TEST"
+  },
+  {
     "lymphadenopathy": "PROBLEM"
+  },
+  {
+    "neurologic": "TEST"
+  },
+  {
+    "physical examination": "TEST"
   },
   {
     "rectal exam": "TEST"
@@ -153,6 +165,15 @@
     "speculum exam": "TEST"
   },
   {
+    "female physical": "TEST"
+  },
+  {
+    "extremities": "TEST"
+  },
+  {
     "masses": "PROBLEM"
+  },
+  {
+    "oropharynx": "TEST"
   }
 ]

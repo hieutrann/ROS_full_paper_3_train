@@ -21,9 +21,6 @@
     "hydroureter": "PROBLEM"
   },
   {
-    "demented": "PROBLEM"
-  },
-  {
     "abdominal pain": "PROBLEM"
   },
   {
@@ -72,6 +69,9 @@
     "Digoxin": "DRUG"
   },
   {
+    "Namenda": "DRUG"
+  },
+  {
     "Zocor": "DRUG"
   },
   {
@@ -105,31 +105,7 @@
     "Amoxicillin": "DRUG"
   },
   {
-    "VITAL SIGNS": "TEST"
-  },
-  {
-    "dry": "PROBLEM"
-  },
-  {
-    "thyromegaly": "PROBLEM"
-  },
-  {
-    "jugular venous distention": "PROBLEM"
-  },
-  {
-    "brady": "PROBLEM"
-  },
-  {
-    "Tenderness in the suprapubic region": "PROBLEM"
-  },
-  {
-    "clubbing": "PROBLEM"
-  },
-  {
-    "cyanosis": "PROBLEM"
-  },
-  {
-    "edema": "PROBLEM"
+    "bowel sounds": "TEST"
   },
   {
     "CT of the abdomen": "TEST"
@@ -138,13 +114,7 @@
     "left inguinal hernia": "PROBLEM"
   },
   {
-    "colon in sac": "PROBLEM"
-  },
-  {
-    "SBO": "PROBLEM"
-  },
-  {
-    "right adrenal gland mass": "PROBLEM"
+    "adrenal gland mass": "PROBLEM"
   },
   {
     "White count": "TEST"
@@ -201,9 +171,6 @@
     "Anemia": "PROBLEM"
   },
   {
-    "Adrenal gland mass": "PROBLEM"
-  },
-  {
     "Levaquin": "DRUG"
   },
   {
@@ -213,16 +180,10 @@
     "IV fluids": "TREATMENT"
   },
   {
-    "anticoagulation": "TREATMENT"
-  },
-  {
     "SCD": "TREATMENT"
   },
   {
     "TED hose": "TREATMENT"
-  },
-  {
-    "rate control medications": "DRUG"
   },
   {
     "digoxin level": "TEST"
@@ -234,15 +195,12 @@
     "PUD": "PROBLEM"
   },
   {
-    "abdominal pain": "PROBLEM"
-  },
-  {
     "hydronephrosis": "PROBLEM"
   },
   {
     "hydroureter": "PROBLEM"
   },
   {
-    "urinary tract infection with sepsis": "PROBLEM"
+    "atrial fibrillation": "PROBLEM"
   }
 ]

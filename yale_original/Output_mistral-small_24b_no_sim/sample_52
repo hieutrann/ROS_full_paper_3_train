@@ -1,5 +1,8 @@
 [
   {
+    "Cardiology": "TEST"
+  },
+  {
     "pneumonia": "PROBLEM"
   },
   {
@@ -48,10 +51,16 @@
     "Weight": "TEST"
   },
   {
+    "Head": "TEST"
+  },
+  {
     "anemia": "PROBLEM"
   },
   {
     "jaundice": "PROBLEM"
+  },
+  {
+    "Oral hygiene": "TEST"
   },
   {
     "JVP": "TEST"
@@ -63,7 +72,7 @@
     "wheezing": "PROBLEM"
   },
   {
-    "Fine crepitations": "PROBLEM"
+    "crepitations": "PROBLEM"
   },
   {
     "PMI": "TEST"
@@ -72,7 +81,7 @@
     "heart sounds": "TEST"
   },
   {
-    "II/VI systolic murmur": "PROBLEM"
+    "systolic murmur": "PROBLEM"
   },
   {
     "ABDOMEN": "TEST"
@@ -105,7 +114,7 @@
     "Toprol XL": "DRUG"
   },
   {
-    "Flovent": "DRUG"
+    "Flovent 100 mcg": "DRUG"
   },
   {
     "Atherosclerotic coronary vascular disease": "PROBLEM"
@@ -129,7 +138,7 @@
     "ICD implantation": "TREATMENT"
   },
   {
-    "New onset of atrial fibrillation": "PROBLEM"
+    "atrial fibrillation": "PROBLEM"
   },
   {
     "Coumadin": "DRUG"
@@ -162,6 +171,6 @@
     "systolic": "TEST"
   },
   {
-    "lungs": "TEST"
+    "lungs": "PROBLEM"
   }
 ]

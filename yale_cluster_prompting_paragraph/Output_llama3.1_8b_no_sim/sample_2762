@@ -45,10 +45,13 @@
     "diabetic gastroparesis": "PROBLEM"
   },
   {
-    "hospital course": "TEST"
+    "Noncontrast CT of the head": "TEST"
   },
   {
-    "Noncontrast CT of the head": "TEST"
+    "colonoscopy": "TEST"
+  },
+  {
+    "right hemicolectomy": "TREATMENT"
   },
   {
     "Lamictal": "DRUG"
@@ -112,21 +115,6 @@
   },
   {
     "Bactrim DS": "DRUG"
-  },
-  {
-    "Colonoscopy": "TREATMENT"
-  },
-  {
-    "Right hemicolectomy": "TREATMENT"
-  },
-  {
-    "Zosyn": "TREATMENT"
-  },
-  {
-    "Levaquin": "TREATMENT"
-  },
-  {
-    "vancomycin": "TREATMENT"
   },
   {
     "Coreg": "TREATMENT"

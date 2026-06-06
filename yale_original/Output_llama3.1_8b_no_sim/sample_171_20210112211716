@@ -1,15 +1,15 @@
 [
   {
-    "Nonischemic cardiomyopathy": "PROBLEM"
+    "cardiomyopathy": "PROBLEM"
   },
   {
-    "branch vessel coronary artery disease": "PROBLEM"
+    "coronary artery disease": "PROBLEM"
   },
   {
     "congestive heart failure": "PROBLEM"
   },
   {
-    "nonsustained ventricular tachycardia": "PROBLEM"
+    "ventricular tachycardia": "PROBLEM"
   },
   {
     "hypertension": "PROBLEM"
@@ -18,22 +18,13 @@
     "hepatitis C": "PROBLEM"
   },
   {
-    "NYHA Class III": "TEST"
-  },
-  {
     "PROBLEMS LIST": "TREATMENT"
   },
   {
-    "Nonischemic cardiomyopathy": "PROBLEM"
-  },
-  {
-    "2": "TEST"
+    "cardiomyopathy": "PROBLEM"
   },
   {
     "coronary artery disease": "PROBLEM"
-  },
-  {
-    "3": "TEST"
   },
   {
     "Congestive heart failure": "PROBLEM"
@@ -45,7 +36,7 @@
     "4": "TEST"
   },
   {
-    "nonsustained ventricular tachycardia": "PROBLEM"
+    "ventricular tachycardia": "PROBLEM"
   },
   {
     "5": "TEST"
@@ -54,13 +45,16 @@
     "Hypertension": "PROBLEM"
   },
   {
-    "6": "PROBLEM"
+    "6": "TEST"
   },
   {
     "Hepatitis C": "PROBLEM"
   },
   {
     "CHF": "PROBLEM"
+  },
+  {
+    "medications": "DRUG"
   },
   {
     "shortness of breath": "PROBLEM"
@@ -90,7 +84,7 @@
     "nausea": "PROBLEM"
   },
   {
-    "appetite": "PROBLEM"
+    "decreased": "PROBLEM"
   },
   {
     "TIA": "PROBLEM"
@@ -102,19 +96,19 @@
     "syncope": "PROBLEM"
   },
   {
-    "review of systems": "PROBLEM"
+    "review of systems": "TEST"
   },
   {
-    "past medical history": "PROBLEM"
+    "medical history": "PROBLEM"
   },
   {
-    "past surgical history": "PROBLEM"
+    "surgical history": "PROBLEM"
   },
   {
     "family history": "PROBLEM"
   },
   {
-    "cocaine": "PROBLEM"
+    "cocaine": "DRUG"
   },
   {
     "drug allergies": "PROBLEM"
@@ -126,7 +120,7 @@
     "medications": "DRUG"
   },
   {
-    "prescription": "DRUG"
+    "prescription": "TREATMENT"
   },
   {
     "Pulse": "TEST"
@@ -180,10 +174,13 @@
     "S2": "TEST"
   },
   {
-    "S3 and S4": "PROBLEM"
+    "S3": "PROBLEM"
   },
   {
-    "ABDOMEN": "PROBLEM"
+    "S4": "PROBLEM"
+  },
+  {
+    "Abdomen": "PROBLEM"
   },
   {
     "Liver": "PROBLEM"
@@ -204,7 +201,7 @@
     "nonischemic cardiomyopathy": "PROBLEM"
   },
   {
-    "branch vessel coronary artery disease": "PROBLEM"
+    "coronary artery disease": "PROBLEM"
   },
   {
     "NYHA Class III": "PROBLEM"
@@ -216,16 +213,13 @@
     "Lasix": "DRUG"
   },
   {
-    "b.i.d.": "TEST"
+    "b.i.d.": "TREATMENT"
   },
   {
     "hydralazine": "DRUG"
   },
   {
-    "t.i.d.": "TREATMENT"
-  },
-  {
-    "100 mg": "DRUG"
+    "mg": "TREATMENT"
   },
   {
     "Toprol": "DRUG"
@@ -246,7 +240,7 @@
     "cocaine": "DRUG"
   },
   {
-    "primary care provider": "PROBLEM"
+    "primary care provider": "TREATMENT"
   },
   {
     "BMP": "TEST"
@@ -258,13 +252,16 @@
     "weight": "TEST"
   },
   {
+    "medication": "DRUG"
+  },
+  {
     "hepatitis C": "PROBLEM"
   },
   {
     "insurance": "PROBLEM"
   },
   {
-    "fasting lipid profile": "TEST"
+    "lipid profile": "TEST"
   },
   {
     "AST": "TEST"
@@ -289,12 +286,6 @@
   },
   {
     "nonischemic cardiomyopathy": "PROBLEM"
-  },
-  {
-    "branch vessel": "PROBLEM"
-  },
-  {
-    "nyha class": "PROBLEM"
   },
   {
     "tachycardia": "PROBLEM"

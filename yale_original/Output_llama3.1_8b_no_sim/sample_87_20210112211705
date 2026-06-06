@@ -18,10 +18,7 @@
     "blood count": "TEST"
   },
   {
-    "IV antibiotics": "DRUG"
-  },
-  {
-    "p.o.": "DRUG"
+    "antibiotics": "DRUG"
   },
   {
     "antibiotics": "DRUG"
@@ -42,7 +39,10 @@
     "seizure": "PROBLEM"
   },
   {
-    "Temperature": "TEST"
+    "104.5": "TEST"
+  },
+  {
+    "lethargic": "PROBLEM"
   },
   {
     "LP": "TEST"
@@ -57,28 +57,31 @@
     "anesthesia": "PROBLEM"
   },
   {
-    "Head, eyes, ears, nose and throat": "TEST"
+    "Head, eyes, ears, nose and throat": "PROBLEM"
   },
   {
-    "Chest": "PROBLEM"
+    "auscultation": "TEST"
+  },
+  {
+    "percussion": "TEST"
   },
   {
     "Abdomen": "PROBLEM"
   },
   {
-    "Extremities": "TEST"
+    "Extremities": "PROBLEM"
   },
   {
     "White count": "TEST"
   },
   {
-    "CSF glucose": "TEST"
+    "White count": "TEST"
+  },
+  {
+    "glucose": "TEST"
   },
   {
     "protein": "TEST"
-  },
-  {
-    "cells": "PROBLEM"
   },
   {
     "Gram-stain": "TEST"
@@ -87,16 +90,13 @@
     "febrile seizure": "PROBLEM"
   },
   {
-    "temperature": "PROBLEM"
+    "temperature": "TEST"
   },
   {
     "white count": "TEST"
   },
   {
     "febrile seizure": "PROBLEM"
-  },
-  {
-    "pneumonia": "PROBLEM"
   },
   {
     "temperature": "TEST"
@@ -106,6 +106,12 @@
   },
   {
     "white count": "TEST"
+  },
+  {
+    "pneumonia": "PROBLEM"
+  },
+  {
+    "seizure": "PROBLEM"
   },
   {
     "antibiotics": "DRUG"

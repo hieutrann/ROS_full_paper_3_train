@@ -1,12 +1,9 @@
 [
   {
-    "Physical Exam": "TEST"
+    "acute distress": "PROBLEM"
   },
   {
-    "GCS": "TEST"
-  },
-  {
-    "VITAL SIGNS": "TEST"
+    "acute distress": "PROBLEM"
   },
   {
     "Blood pressure": "TEST"
@@ -24,7 +21,16 @@
     "Pulse oximetry": "TEST"
   },
   {
+    "lesions": "PROBLEM"
+  },
+  {
     "Pupils": "TEST"
+  },
+  {
+    "reactive to light": "TEST"
+  },
+  {
+    "accommodation": "TEST"
   },
   {
     "Funduscopic exam": "TEST"
@@ -36,6 +42,9 @@
     "discopathy": "PROBLEM"
   },
   {
+    "lesions": "PROBLEM"
+  },
+  {
     "erythema": "PROBLEM"
   },
   {
@@ -45,10 +54,16 @@
     "retraction": "PROBLEM"
   },
   {
+    "lesion": "PROBLEM"
+  },
+  {
     "erythema": "PROBLEM"
   },
   {
     "tonsillar enlargement": "PROBLEM"
+  },
+  {
+    "crypt formation": "PROBLEM"
   },
   {
     "abscess": "PROBLEM"
@@ -60,16 +75,13 @@
     "respiratory effort": "PROBLEM"
   },
   {
-    "Clear to percussion": "TEST"
+    "percussion": "TEST"
   },
   {
     "egophony": "PROBLEM"
   },
   {
-    "tactile fremitus": "PROBLEM"
-  },
-  {
-    "CARDIOVASCULAR": "TEST"
+    "tactile fremitus": "TEST"
   },
   {
     "murmur": "PROBLEM"
@@ -91,6 +103,9 @@
   },
   {
     "Pulses": "TEST"
+  },
+  {
+    "carotid": "PROBLEM"
   },
   {
     "Femoral and pedal pulses": "TEST"
@@ -129,25 +144,10 @@
     "effusion": "PROBLEM"
   },
   {
-    "Range of motion": "TEST"
-  },
-  {
-    "Full range of motion": "TEST"
-  },
-  {
-    "flexion": "TEST"
-  },
-  {
-    "extension": "TEST"
-  },
-  {
-    "sidebending": "TEST"
-  },
-  {
-    "Inspection": "TEST"
-  },
-  {
     "diaphoresis": "PROBLEM"
+  },
+  {
+    "wound": "PROBLEM"
   },
   {
     "Cervical lymph nodes": "PROBLEM"
@@ -168,6 +168,12 @@
     "Straight leg raise": "TEST"
   },
   {
+    "Judgment": "TEST"
+  },
+  {
+    "insight": "TEST"
+  },
+  {
     "delusions": "PROBLEM"
   },
   {
@@ -180,9 +186,6 @@
     "homicidal ideation": "PROBLEM"
   },
   {
-    "normal physical exam": "TEST"
-  },
-  {
     "pulses": "TEST"
   },
   {
@@ -193,6 +196,9 @@
   },
   {
     "lymph": "PROBLEM"
+  },
+  {
+    "range of motion": "TEST"
   },
   {
     "lesions": "PROBLEM"

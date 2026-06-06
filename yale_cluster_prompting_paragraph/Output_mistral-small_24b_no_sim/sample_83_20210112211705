@@ -27,16 +27,13 @@
     "hCG titer": "TEST"
   },
   {
-    "hemoglobin": "TEST"
-  },
-  {
     "laparotomy": "TREATMENT"
   },
   {
     "right salpingectomy": "TREATMENT"
   },
   {
-    "red packed cells": "DRUG"
+    "red packed cells": "TREATMENT"
   },
   {
     "pain medication": "DRUG"

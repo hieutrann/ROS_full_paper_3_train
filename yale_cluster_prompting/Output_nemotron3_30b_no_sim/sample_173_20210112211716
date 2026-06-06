@@ -1,0 +1,182 @@
+[
+  {
+    "Refractory hypertension": "PROBLEM"
+  },
+  {
+    "cardiac arrhythmia": "PROBLEM"
+  },
+  {
+    "pacemaker": "TREATMENT"
+  },
+  {
+    "GI bleed": "PROBLEM"
+  },
+  {
+    "depression": "PROBLEM"
+  },
+  {
+    "PROBLEM LIST": "PROBLEM"
+  },
+  {
+    "Refractory hypertension": "PROBLEM"
+  },
+  {
+    "cardiac arrhythmia": "PROBLEM"
+  },
+  {
+    "pacemaker": "TREATMENT"
+  },
+  {
+    "GI bleed": "PROBLEM"
+  },
+  {
+    "depression": "PROBLEM"
+  },
+  {
+    "renal clinic": "TREATMENT"
+  },
+  {
+    "history": "PROBLEM"
+  },
+  {
+    "antihypertensive medications": "DRUG"
+  },
+  {
+    "weakness": "PROBLEM"
+  },
+  {
+    "dizziness": "PROBLEM"
+  },
+  {
+    "lightheadedness": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "constipation": "PROBLEM"
+  },
+  {
+    "diarrhea": "PROBLEM"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "difficulty breathing": "PROBLEM"
+  },
+  {
+    "orthopnea": "PROBLEM"
+  },
+  {
+    "musculoskeletal": "PROBLEM"
+  },
+  {
+    "pain in the right buttock": "PROBLEM"
+  },
+  {
+    "spine": "PROBLEM"
+  },
+  {
+    "extremity pain": "PROBLEM"
+  },
+  {
+    "CURRENT MEDICATIONS": "DRUG"
+  },
+  {
+    "Triamterene/hydrochlorothiazide 37.5/25 mg.": "DRUG"
+  },
+  {
+    "Norvasc 10 mg daily.": "DRUG"
+  },
+  {
+    "Atenolol 50 mg a day.": "DRUG"
+  },
+  {
+    "Atacand 32 mg a day.": "DRUG"
+  },
+  {
+    "Cardura 4 mg a day.": "DRUG"
+  },
+  {
+    "Temperature": "PROBLEM"
+  },
+  {
+    "pulse": "TEST"
+  },
+  {
+    "respirations": "TEST"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "adventitious sounds": "PROBLEM"
+  },
+  {
+    "regular rate and rhythm": "PROBLEM"
+  },
+  {
+    "S1": "PROBLEM"
+  },
+  {
+    "S2": "PROBLEM"
+  },
+  {
+    "murmur": "PROBLEM"
+  },
+  {
+    "S3": "PROBLEM"
+  },
+  {
+    "murmur": "PROBLEM"
+  },
+  {
+    "ABDOMEN": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "refractory hypertension": "PROBLEM"
+  },
+  {
+    "blood pressure reading": "TEST"
+  },
+  {
+    "GFR": "PROBLEM"
+  },
+  {
+    "blood pressure": "PROBLEM"
+  },
+  {
+    "cardiac arrhythmia": "PROBLEM"
+  },
+  {
+    "av block": "PROBLEM"
+  },
+  {
+    "refractory hypertension": "PROBLEM"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "pacemaker": "TREATMENT"
+  },
+  {
+    "atenolol": "DRUG"
+  },
+  {
+    "arrhythmia": "PROBLEM"
+  }
+]

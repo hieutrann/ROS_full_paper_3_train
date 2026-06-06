@@ -3,6 +3,9 @@
     "Disseminated Intravascular Coagulation": "PROBLEM"
   },
   {
+    "Disseminated intravascular coagulation": "PROBLEM"
+  },
+  {
     "Streptococcal pneumonia": "PROBLEM"
   },
   {
@@ -12,6 +15,9 @@
     "pneumonia": "PROBLEM"
   },
   {
+    "sepsis": "PROBLEM"
+  },
+  {
     "respiratory failure": "PROBLEM"
   },
   {
@@ -19,6 +25,9 @@
   },
   {
     "mechanical ventilation": "TREATMENT"
+  },
+  {
+    "disseminated intravascular coagulation": "PROBLEM"
   },
   {
     "prolonged partial thromboplastin time": "TEST"
@@ -45,7 +54,10 @@
     "coagulopathy": "PROBLEM"
   },
   {
-    "VITAL SIGNS": "TEST"
+    "intubated": "TREATMENT"
+  },
+  {
+    "respiratory failure": "PROBLEM"
   },
   {
     "conjunctival hemorrhage": "PROBLEM"
@@ -54,13 +66,7 @@
     "petechiae": "PROBLEM"
   },
   {
-    "coarse breath sounds": "PROBLEM"
-  },
-  {
-    "oozing": "PROBLEM"
-  },
-  {
-    "clubbing": "PROBLEM"
+    "ET tube": "TREATMENT"
   },
   {
     "cyanosis": "PROBLEM"
@@ -84,12 +90,30 @@
     "D-dimer": "TEST"
   },
   {
+    "disseminated intravascular coagulation": "PROBLEM"
+  },
+  {
+    "sepsis": "PROBLEM"
+  },
+  {
     "pneumococcal disease": "PROBLEM"
+  },
+  {
+    "factor replacement": "TREATMENT"
   },
   {
     "Xigris": "DRUG"
   },
   {
-    "heparin": "DRUG"
+    "coagulopathy": "PROBLEM"
+  },
+  {
+    "elevated fibrinogen": "TEST"
+  },
+  {
+    "low-dose continuous infusion heparin": "DRUG"
+  },
+  {
+    "supportive infusions": "TREATMENT"
   }
 ]

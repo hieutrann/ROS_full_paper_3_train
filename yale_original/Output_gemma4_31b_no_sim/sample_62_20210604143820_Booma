@@ -12,16 +12,13 @@
     "weak": "PROBLEM"
   },
   {
-    "salt": "DRUG"
+    "salt": "TREATMENT"
   },
   {
     "Nausea": "PROBLEM"
   },
   {
     "feeling faint": "PROBLEM"
-  },
-  {
-    "appetite": "PROBLEM"
   },
   {
     "nausea": "PROBLEM"
@@ -84,7 +81,7 @@
     "weakness": "PROBLEM"
   },
   {
-    "paresthesias in extremities": "PROBLEM"
+    "paresthesias": "PROBLEM"
   },
   {
     "Diovan": "DRUG"
@@ -117,6 +114,9 @@
     "Tobacco use": "PROBLEM"
   },
   {
+    "cigarettes": "DRUG"
+  },
+  {
     "Alcohol use": "PROBLEM"
   },
   {
@@ -139,9 +139,6 @@
   },
   {
     "EOMI": "TEST"
-  },
-  {
-    "MOUTH": "TEST"
   },
   {
     "JVD": "PROBLEM"
@@ -174,16 +171,22 @@
     "Cranial nerves II to XII": "TEST"
   },
   {
-    "motor": "TEST"
-  },
-  {
-    "cerebellar": "TEST"
-  },
-  {
     "WBC": "TEST"
   },
   {
     "differential": "TEST"
+  },
+  {
+    "neutrophils": "TEST"
+  },
+  {
+    "lymphocytes": "TEST"
+  },
+  {
+    "monocytes": "TEST"
+  },
+  {
+    "eosinophils": "TEST"
   },
   {
     "Hemoglobin": "TEST"
@@ -261,7 +264,7 @@
     "expiratory wheezing": "PROBLEM"
   },
   {
-    "normal saline lock": "TREATMENT"
+    "normal saline": "DRUG"
   },
   {
     "IV fluids": "TREATMENT"
@@ -282,13 +285,7 @@
     "rectal secretions": "TEST"
   },
   {
-    "heme negative": "PROBLEM"
-  },
-  {
     "normal sinus rhythm": "PROBLEM"
-  },
-  {
-    "ectopy": "PROBLEM"
   },
   {
     "Blood pressure": "TEST"
@@ -303,22 +300,19 @@
     "tiredness": "PROBLEM"
   },
   {
-    "not feeling well": "PROBLEM"
-  },
-  {
     "rectal bleeding": "PROBLEM"
   },
   {
     "Acute tiredness": "PROBLEM"
   },
   {
-    "Anemia of unknown etiology": "PROBLEM"
+    "Anemia": "PROBLEM"
   },
   {
     "Acute hyponatremia": "PROBLEM"
   },
   {
-    "salt": "DRUG"
+    "salt": "TREATMENT"
   },
   {
     "anemia": "PROBLEM"

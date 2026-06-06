@@ -1,5 +1,8 @@
 [
   {
+    "General Medicine": "PROBLEM"
+  },
+  {
     "diabetes mellitus": "PROBLEM"
   },
   {
@@ -22,6 +25,9 @@
   },
   {
     "mammogram": "TEST"
+  },
+  {
+    "gynecological care": "TREATMENT"
   },
   {
     "abdominal pain": "PROBLEM"
@@ -66,16 +72,25 @@
     "P": "TEST"
   },
   {
+    "acute distress": "PROBLEM"
+  },
+  {
     "sinus tenderness": "PROBLEM"
   },
   {
-    "TM": "TEST"
+    "right TM": "PROBLEM"
+  },
+  {
+    "Neck": "PROBLEM"
+  },
+  {
+    "Heart": "PROBLEM"
   },
   {
     "Lungs": "TEST"
   },
   {
-    "Abdomen": "PROBLEM"
+    "Large": "PROBLEM"
   },
   {
     "Hypercholesterolemia": "PROBLEM"
@@ -129,13 +144,7 @@
     "tests": "TEST"
   },
   {
-    "prescriptions": "DRUG"
-  },
-  {
     "diabetes mellitus": "PROBLEM"
-  },
-  {
-    "accu-cheks": "TEST"
   },
   {
     "sinusitis": "PROBLEM"
@@ -163,5 +172,8 @@
   },
   {
     "colonoscopy": "TEST"
+  },
+  {
+    "diabetes": "PROBLEM"
   }
 ]

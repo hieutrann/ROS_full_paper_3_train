@@ -1,9 +1,9 @@
 [
   {
-    "Neck pain": "PROBLEM"
+    "neck pain": "PROBLEM"
   },
   {
-    "right upper extremity radiculopathy": "PROBLEM"
+    "radiculopathy": "PROBLEM"
   },
   {
     "cervical spondylosis": "PROBLEM"
@@ -13,27 +13,6 @@
   },
   {
     "stenosis": "PROBLEM"
-  },
-  {
-    "Anterior cervical discectomy": "TREATMENT"
-  },
-  {
-    "decompression": "TREATMENT"
-  },
-  {
-    "Arthrodesis": "TREATMENT"
-  },
-  {
-    "anterior interbody fusion": "TREATMENT"
-  },
-  {
-    "Spinal instrumentation": "TREATMENT"
-  },
-  {
-    "Implant": "TREATMENT"
-  },
-  {
-    "Allograft": "TREATMENT"
   },
   {
     "Decadron": "DRUG"
@@ -48,6 +27,18 @@
     "Flexeril": "DRUG"
   },
   {
-    "IV morphine": "DRUG"
+    "anterior cervical discectomy": "TREATMENT"
+  },
+  {
+    "arthrodesis": "TREATMENT"
+  },
+  {
+    "spinal instrumentation": "TREATMENT"
+  },
+  {
+    "implant": "TREATMENT"
+  },
+  {
+    "allograft": "TREATMENT"
   }
 ]

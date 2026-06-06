@@ -6,7 +6,7 @@
     "Normal ROS Template - 2": "TEST"
   },
   {
-    "Normal review of systems template": "TEST"
+    "review of systems": "TEST"
   },
   {
     "weakness": "PROBLEM"
@@ -87,9 +87,6 @@
     "neurologic conditions": "PROBLEM"
   },
   {
-    "visual changes": "PROBLEM"
-  },
-  {
     "diplopia": "PROBLEM"
   },
   {
@@ -135,9 +132,6 @@
     "hypertension": "PROBLEM"
   },
   {
-    "shortness of breath": "PROBLEM"
-  },
-  {
     "asthma": "PROBLEM"
   },
   {
@@ -160,12 +154,6 @@
   },
   {
     "abdominal pain": "PROBLEM"
-  },
-  {
-    "frequency": "TEST"
-  },
-  {
-    "urgency": "TEST"
   },
   {
     "dysuria": "PROBLEM"
@@ -204,30 +192,27 @@
     "endocrinologic abnormalities": "PROBLEM"
   },
   {
-    "general medicine": "PROBLEM"
+    "general medicine": "TREATMENT"
   },
   {
-    "nose and throat": "PROBLEM"
+    "nose and throat": "TREATMENT"
   },
   {
-    "cardiovascular": "PROBLEM"
+    "cardiovascular": "TREATMENT"
   },
   {
-    "integumentary": "PROBLEM"
+    "integumentary": "TREATMENT"
   },
   {
-    "negative weakness": "PROBLEM"
+    "weakness": "PROBLEM"
   },
   {
-    "neurologic": "PROBLEM"
+    "neurologic": "TREATMENT"
   },
   {
     "throat": "PROBLEM"
   },
   {
-    "psychiatric": "PROBLEM"
-  },
-  {
-    "weakness": "PROBLEM"
+    "psychiatric": "TREATMENT"
   }
 ]

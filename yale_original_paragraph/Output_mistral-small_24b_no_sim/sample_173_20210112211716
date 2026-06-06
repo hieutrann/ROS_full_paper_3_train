@@ -6,7 +6,7 @@
     "cardiac arrhythmia": "PROBLEM"
   },
   {
-    "pacemaker": "TEST"
+    "pacemaker": "TREATMENT"
   },
   {
     "AV block": "PROBLEM"
@@ -69,22 +69,28 @@
     "pain": "PROBLEM"
   },
   {
+    "buttock": "PROBLEM"
+  },
+  {
+    "spine": "PROBLEM"
+  },
+  {
     "extremity pain": "PROBLEM"
   },
   {
-    "Triamterene/hydrochlorothiazide": "DRUG"
+    "Triamterene/hydrochlorothiazide 37.5/25 mg": "DRUG"
   },
   {
-    "Norvasc": "DRUG"
+    "Norvasc 10 mg daily": "DRUG"
   },
   {
-    "Atenolol": "DRUG"
+    "Atenolol 50 mg a day": "DRUG"
   },
   {
-    "Atacand": "DRUG"
+    "Atacand 32 mg a day": "DRUG"
   },
   {
-    "Cardura": "DRUG"
+    "Cardura 4 mg a day": "DRUG"
   },
   {
     "Temperature": "TEST"
@@ -99,81 +105,9 @@
     "blood pressure": "TEST"
   },
   {
-    "lungs": "TEST"
-  },
-  {
-    "PA": "TEST"
-  },
-  {
-    "lateral": "TEST"
-  },
-  {
-    "adventitious sounds": "TEST"
-  },
-  {
-    "CARDIOVASCULAR": "TEST"
-  },
-  {
-    "rate": "TEST"
-  },
-  {
-    "rhythm": "TEST"
-  },
-  {
-    "S1": "TEST"
-  },
-  {
-    "S2": "TEST"
-  },
-  {
-    "murmur": "TEST"
-  },
-  {
-    "S3": "TEST"
-  },
-  {
-    "ABDOMEN": "TEST"
-  },
-  {
-    "plane": "TEST"
-  },
-  {
-    "nontender": "TEST"
-  },
-  {
-    "EXTREMITIES": "TEST"
-  },
-  {
-    "edema": "PROBLEM"
-  },
-  {
     "GFR": "TEST"
   },
   {
     "senior center": "TREATMENT"
-  },
-  {
-    "internist": "TREATMENT"
-  },
-  {
-    "followup": "TREATMENT"
-  },
-  {
-    "discharge": "TREATMENT"
-  },
-  {
-    "practice": "TREATMENT"
-  },
-  {
-    "confusion": "PROBLEM"
-  },
-  {
-    "difficulty": "PROBLEM"
-  },
-  {
-    "general medicine": "PROBLEM"
-  },
-  {
-    "arrhythmia": "PROBLEM"
   }
 ]

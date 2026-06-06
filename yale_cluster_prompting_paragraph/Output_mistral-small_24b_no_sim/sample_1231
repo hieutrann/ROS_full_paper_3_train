@@ -1,6 +1,6 @@
 [
   {
-    "end-stage peritoneal mesothelioma": "PROBLEM"
+    "peritoneal mesothelioma": "PROBLEM"
   },
   {
     "bowel perforations": "PROBLEM"
@@ -22,9 +22,6 @@
   },
   {
     "Tylenol": "DRUG"
-  },
-  {
-    "pleurodesis": "TREATMENT"
   },
   {
     "thoracic epidural placement": "TREATMENT"

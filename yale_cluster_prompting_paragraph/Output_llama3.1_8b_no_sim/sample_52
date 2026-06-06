@@ -9,7 +9,7 @@
     "paroxysmal nocturnal dyspnea": "PROBLEM"
   },
   {
-    "shortness of breath": "PROBLEM"
+    "cough with greenish expectoration": "PROBLEM"
   },
   {
     "atrial fibrillation": "PROBLEM"
@@ -21,13 +21,31 @@
     "end-stage LV systolic dysfunction": "PROBLEM"
   },
   {
-    "status post ICD implantation": "TREATMENT"
+    "status post ICD implantation": "PROBLEM"
   },
   {
-    "Coumadin": "DRUG"
+    "diabetes mellitus": "PROBLEM"
+  },
+  {
+    "diabetic nephropathy and renal failure": "PROBLEM"
+  },
+  {
+    "severe inspiratory and expiratory wheezing": "PROBLEM"
+  },
+  {
+    "fine crepitations": "PROBLEM"
+  },
+  {
+    "II/VI systolic murmur": "PROBLEM"
+  },
+  {
+    "1+ pedal edema": "PROBLEM"
   },
   {
     "Ambien": "DRUG"
+  },
+  {
+    "Coumadin": "DRUG"
   },
   {
     "Diovan": "DRUG"
@@ -48,12 +66,9 @@
     "Flovent": "DRUG"
   },
   {
-    "VITAL SIGNS": "TEST"
+    "ICD implantation": "TREATMENT"
   },
   {
-    "cardiology office visit": "TEST"
-  },
-  {
-    "cardiology office visit": "TEST"
+    "physical therapy": "TREATMENT"
   }
 ]

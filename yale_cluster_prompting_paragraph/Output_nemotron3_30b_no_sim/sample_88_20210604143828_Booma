@@ -1,0 +1,44 @@
+[
+  {
+    "Kawasaki disease": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "conjunctivitis": "PROBLEM"
+  },
+  {
+    "rash": "PROBLEM"
+  },
+  {
+    "elevated neutrophils": "PROBLEM"
+  },
+  {
+    "thrombocytosis": "PROBLEM"
+  },
+  {
+    "elevated CRP": "PROBLEM"
+  },
+  {
+    "elevated ESR": "PROBLEM"
+  },
+  {
+    "aspirin": "DRUG"
+  },
+  {
+    "IVIG": "DRUG"
+  },
+  {
+    "high dose of aspirin": "TREATMENT"
+  },
+  {
+    "low dose of aspirin": "TREATMENT"
+  },
+  {
+    "Prevacid": "DRUG"
+  },
+  {
+    "barium enema": "TREATMENT"
+  }
+]

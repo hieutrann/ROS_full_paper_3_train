@@ -159,9 +159,6 @@
     "sinus rhythm": "TEST"
   },
   {
-    "ST-T wave changes": "PROBLEM"
-  },
-  {
     "toxicology screen": "TEST"
   },
   {
@@ -181,8 +178,5 @@
   },
   {
     "pregnancy": "PROBLEM"
-  },
-  {
-    "headaches": "PROBLEM"
   }
 ]

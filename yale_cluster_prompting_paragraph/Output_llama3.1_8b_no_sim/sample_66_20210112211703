@@ -1,15 +1,18 @@
 [
   {
+    "lower extremity cellulitis": "PROBLEM"
+  },
+  {
+    "lower extremity lymphedema": "PROBLEM"
+  },
+  {
     "cellulitis": "PROBLEM"
   },
   {
     "lymphedema": "PROBLEM"
   },
   {
-    "Bactrim": "DRUG"
-  },
-  {
-    "ciprofloxacin": "DRUG"
+    "morbid obesity": "PROBLEM"
   },
   {
     "antibiotic therapy": "TREATMENT"
@@ -18,6 +21,9 @@
     "lymphedema wraps": "TREATMENT"
   },
   {
-    "ulcer": "PROBLEM"
+    "Bactrim": "DRUG"
+  },
+  {
+    "ciprofloxacin": "DRUG"
   }
 ]

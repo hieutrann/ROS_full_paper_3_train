@@ -15,9 +15,6 @@
     "decrease in mental alertness": "PROBLEM"
   },
   {
-    "GI symptoms": "PROBLEM"
-  },
-  {
     "sweating": "PROBLEM"
   },
   {
@@ -31,6 +28,9 @@
   },
   {
     "rash": "PROBLEM"
+  },
+  {
+    "glucose": "TEST"
   },
   {
     "hypertension": "PROBLEM"
@@ -60,16 +60,7 @@
     "hypertension": "PROBLEM"
   },
   {
-    "diabetic medication": "DRUG"
-  },
-  {
-    "blood pressure medication": "DRUG"
-  },
-  {
     "aspirin": "DRUG"
-  },
-  {
-    "sinus tenderness": "PROBLEM"
   },
   {
     "head injury": "PROBLEM"
@@ -78,16 +69,19 @@
     "laceration": "PROBLEM"
   },
   {
-    "Dry mucosal linings": "PROBLEM"
+    "Extraocular movements": "TEST"
   },
   {
-    "HEART": "TEST"
+    "Dry mucosal linings": "PROBLEM"
   },
   {
     "S1": "TEST"
   },
   {
     "S2": "TEST"
+  },
+  {
+    "rales": "PROBLEM"
   },
   {
     "bowel sounds": "TEST"
@@ -205,8 +199,5 @@
   },
   {
     "blood pressure": "TEST"
-  },
-  {
-    "glucose": "TEST"
   }
 ]

@@ -39,10 +39,10 @@
     "DTIC": "DRUG"
   },
   {
-    "CTA": "TEST"
+    "CTA, chest": "TEST"
   },
   {
-    "chest PE study": "TEST"
+    "PE study": "TEST"
   },
   {
     "pulmonary embolism": "PROBLEM"
@@ -55,6 +55,9 @@
   },
   {
     "Sinus CT": "TEST"
+  },
+  {
+    "mini-CT of the paranasal sinuses": "TEST"
   },
   {
     "mass": "PROBLEM"
@@ -78,10 +81,10 @@
     "partial resection": "TREATMENT"
   },
   {
-    "pathologic grade 2 leiomyosarcoma": "PROBLEM"
+    "leiomyosarcoma": "PROBLEM"
   },
   {
-    "preoperative chemotherapy": "TREATMENT"
+    "chemotherapy": "TREATMENT"
   },
   {
     "CIVI-CAD": "TREATMENT"
@@ -99,10 +102,10 @@
     "anticoagulation": "TREATMENT"
   },
   {
-    "residual disease": "PROBLEM"
+    "surgical resection": "TREATMENT"
   },
   {
-    "surgical resection": "TREATMENT"
+    "residual disease": "PROBLEM"
   },
   {
     "Leiomyosarcoma": "PROBLEM"
@@ -148,6 +151,9 @@
   },
   {
     "headaches": "PROBLEM"
+  },
+  {
+    "pain medication": "DRUG"
   },
   {
     "head CT": "TEST"
@@ -208,6 +214,12 @@
   },
   {
     "pneumonia": "PROBLEM"
+  },
+  {
+    "DIET": "TREATMENT"
+  },
+  {
+    "lab work": "TEST"
   },
   {
     "fevers": "PROBLEM"

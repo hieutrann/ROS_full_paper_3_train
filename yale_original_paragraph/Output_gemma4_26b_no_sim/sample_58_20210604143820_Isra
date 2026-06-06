@@ -1,26 +1,5 @@
 [
   {
-    "Breast Calcifications": "PROBLEM"
-  },
-  {
-    "suspicious calcifications": "PROBLEM"
-  },
-  {
-    "excisional biopsy": "TREATMENT"
-  },
-  {
-    "guidewire localization": "TREATMENT"
-  },
-  {
-    "specimen radiography": "TEST"
-  },
-  {
-    "mammography": "TEST"
-  },
-  {
-    "punctate calcifications": "PROBLEM"
-  },
-  {
     "stereotactic core needle biopsy": "TREATMENT"
   },
   {
@@ -45,6 +24,9 @@
     "thrombin": "DRUG"
   },
   {
+    "occlusion": "PROBLEM"
+  },
+  {
     "hematoma": "PROBLEM"
   },
   {
@@ -52,6 +34,9 @@
   },
   {
     "breast cancer": "PROBLEM"
+  },
+  {
+    "hormone replacement therapy": "TREATMENT"
   },
   {
     "ovarian cancer": "PROBLEM"
@@ -66,13 +51,13 @@
     "Colon resection": "TREATMENT"
   },
   {
+    "sinus surgeries": "TREATMENT"
+  },
+  {
     "Plavix": "DRUG"
   },
   {
     "Arava": "DRUG"
-  },
-  {
-    "Nexium": "DRUG"
   },
   {
     "Fosamax": "DRUG"
@@ -142,9 +127,6 @@
   },
   {
     "lymphadenopathy": "PROBLEM"
-  },
-  {
-    "cyanosis": "PROBLEM"
   },
   {
     "edema": "PROBLEM"

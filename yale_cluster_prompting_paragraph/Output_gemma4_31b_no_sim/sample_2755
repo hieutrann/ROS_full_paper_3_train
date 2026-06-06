@@ -48,19 +48,19 @@
     "AMPICILLIN": "DRUG"
   },
   {
-    "VITAL SIGNS": "TEST"
-  },
-  {
     "tachycardic": "PROBLEM"
   },
   {
     "stridor": "PROBLEM"
   },
   {
-    "Slight tachycardia": "PROBLEM"
+    "breath sounds": "TEST"
   },
   {
-    "confluence erythematous, blanching rash": "PROBLEM"
+    "Tachycardia": "PROBLEM"
+  },
+  {
+    "erythematous, blanching rash": "PROBLEM"
   },
   {
     "blotchy papular, macular rash": "PROBLEM"
@@ -88,23 +88,5 @@
   },
   {
     "respiratory complaints": "PROBLEM"
-  },
-  {
-    "urticaria": "PROBLEM"
-  },
-  {
-    "pruritus": "PROBLEM"
-  },
-  {
-    "lip swelling": "PROBLEM"
-  },
-  {
-    "swelling": "PROBLEM"
-  },
-  {
-    "itchy": "PROBLEM"
-  },
-  {
-    "rash": "PROBLEM"
   }
 ]

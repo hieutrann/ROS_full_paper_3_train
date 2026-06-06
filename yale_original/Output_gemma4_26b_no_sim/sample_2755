@@ -1,8 +1,5 @@
 [
   {
-    "Itchy Rash": "PROBLEM"
-  },
-  {
     "itchiness": "PROBLEM"
   },
   {
@@ -30,6 +27,9 @@
     "wheezing": "PROBLEM"
   },
   {
+    "itchy": "PROBLEM"
+  },
+  {
     "back surgery": "TREATMENT"
   },
   {
@@ -39,7 +39,10 @@
     "oropharyngeal swelling": "PROBLEM"
   },
   {
-    "lip or tongue swelling": "PROBLEM"
+    "lip swelling": "PROBLEM"
+  },
+  {
+    "tongue swelling": "PROBLEM"
   },
   {
     "wheezing": "PROBLEM"
@@ -69,6 +72,12 @@
     "AMPICILLIN": "DRUG"
   },
   {
+    "VITAL SIGNS": "TEST"
+  },
+  {
+    "afebrile": "PROBLEM"
+  },
+  {
     "tachycardic": "PROBLEM"
   },
   {
@@ -87,7 +96,7 @@
     "wheezing": "PROBLEM"
   },
   {
-    "Slight tachycardia": "PROBLEM"
+    "tachycardia": "PROBLEM"
   },
   {
     "erythematous, blanching rash": "PROBLEM"
@@ -96,7 +105,7 @@
     "blotchy papular, macular rash": "PROBLEM"
   },
   {
-    "epinephrine": "DRUG"
+    "epinephrine 1:1000": "DRUG"
   },
   {
     "Benadryl": "DRUG"

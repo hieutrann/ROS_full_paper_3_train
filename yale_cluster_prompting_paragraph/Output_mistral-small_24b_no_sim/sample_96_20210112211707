@@ -33,7 +33,7 @@
     "dryness": "PROBLEM"
   },
   {
-    "feeling that something is in the eye": "PROBLEM"
+    "glasses": "TREATMENT"
   },
   {
     "ringing in the ears": "PROBLEM"
@@ -72,7 +72,10 @@
     "dry mouth": "PROBLEM"
   },
   {
-    "dentures or removable dental work": "PROBLEM"
+    "dentures": "TREATMENT"
+  },
+  {
+    "removable dental work": "TREATMENT"
   },
   {
     "frequent sore throats": "PROBLEM"
@@ -81,10 +84,7 @@
     "hoarseness": "PROBLEM"
   },
   {
-    "constant feeling of a need to clear the throat when nothing is there": "PROBLEM"
-  },
-  {
-    "waking up with acid or bitter fluid in the mouth or throat": "PROBLEM"
+    "acid or bitter fluid in the mouth or throat": "PROBLEM"
   },
   {
     "food sticking in throat when swallows": "PROBLEM"
@@ -159,7 +159,10 @@
     "vomiting": "PROBLEM"
   },
   {
-    "vomiting blood or coffee ground material": "PROBLEM"
+    "vomiting blood": "PROBLEM"
+  },
+  {
+    "coffee ground material": "PROBLEM"
   },
   {
     "heartburn": "PROBLEM"
@@ -324,6 +327,9 @@
     "voices in ?? head telling ?? to do things": "PROBLEM"
   },
   {
+    "psychiatric counseling or treatment": "TREATMENT"
+  },
+  {
     "intolerance to hot or cold temperature": "PROBLEM"
   },
   {
@@ -361,50 +367,5 @@
   },
   {
     "latex allergies": "PROBLEM"
-  },
-  {
-    "sensitivity": "PROBLEM"
-  },
-  {
-    "REVIEW OF SYSTEMS": "TEST"
-  },
-  {
-    "GENERAL/CONSTITUTIONAL": "TEST"
-  },
-  {
-    "HEAD, EYES, EARS, NOSE AND THROAT": "TEST"
-  },
-  {
-    "CARDIOVASCULAR": "TEST"
-  },
-  {
-    "RESPIRATORY": "TEST"
-  },
-  {
-    "GASTROINTESTINAL": "TEST"
-  },
-  {
-    "GENITOURINARY": "TEST"
-  },
-  {
-    "MUSCULOSKELETAL": "TEST"
-  },
-  {
-    "SKIN AND BREASTS": "TEST"
-  },
-  {
-    "NEUROLOGIC": "TEST"
-  },
-  {
-    "PSYCHIATRIC": "TEST"
-  },
-  {
-    "ENDOCRINE": "TEST"
-  },
-  {
-    "HEMATOLOGIC/LYMPHATIC": "TEST"
-  },
-  {
-    "ALLERGIC/IMMUNOLOGIC": "TEST"
   }
 ]

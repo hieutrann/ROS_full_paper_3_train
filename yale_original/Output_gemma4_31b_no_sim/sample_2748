@@ -1,9 +1,12 @@
 [
   {
+    "toothache": "PROBLEM"
+  },
+  {
     "Jaw Pain": "PROBLEM"
   },
   {
-    "toothache": "PROBLEM"
+    "left ear": "PROBLEM"
   },
   {
     "Ellis type II dental fracture": "PROBLEM"
@@ -24,13 +27,13 @@
     "headache": "PROBLEM"
   },
   {
-    "swelling to the throat": "PROBLEM"
+    "swelling": "PROBLEM"
   },
   {
     "sore throat": "PROBLEM"
   },
   {
-    "difficulty swallowing liquids or solids": "PROBLEM"
+    "difficulty swallowing": "PROBLEM"
   },
   {
     "neck pain": "PROBLEM"
@@ -153,16 +156,13 @@
     "oxygen saturation": "TEST"
   },
   {
-    "acute distress": "PROBLEM"
-  },
-  {
     "rhinorrhea": "PROBLEM"
   },
   {
     "audible congestion": "PROBLEM"
   },
   {
-    "tenderness over the sinuses": "PROBLEM"
+    "tenderness": "PROBLEM"
   },
   {
     "infection": "PROBLEM"
@@ -171,7 +171,7 @@
     "erythema": "PROBLEM"
   },
   {
-    "swelling of the canals": "PROBLEM"
+    "swelling": "PROBLEM"
   },
   {
     "erythema": "PROBLEM"
@@ -210,7 +210,7 @@
     "abscess": "PROBLEM"
   },
   {
-    "tenderness of the tooth #18": "PROBLEM"
+    "tenderness": "PROBLEM"
   },
   {
     "infection": "PROBLEM"
@@ -237,7 +237,7 @@
     "abscess": "PROBLEM"
   },
   {
-    "pre or post auricular lymphadenopathy": "PROBLEM"
+    "lymphadenopathy": "PROBLEM"
   },
   {
     "meningismus": "PROBLEM"
@@ -249,7 +249,10 @@
     "JVD": "PROBLEM"
   },
   {
-    "carotid artery or vertebral artery bruits": "PROBLEM"
+    "carotid artery bruits": "PROBLEM"
+  },
+  {
+    "vertebral artery bruits": "PROBLEM"
   },
   {
     "murmur": "PROBLEM"
@@ -279,12 +282,6 @@
     "Cranial nerves II through XII": "TEST"
   },
   {
-    "speech": "TEST"
-  },
-  {
-    "ambulation": "TEST"
-  },
-  {
     "clinical intoxification": "PROBLEM"
   },
   {
@@ -312,7 +309,7 @@
     "Vicodin": "DRUG"
   },
   {
-    "breakthrough or uncontrolled pain": "PROBLEM"
+    "pain": "PROBLEM"
   },
   {
     "drowsiness": "PROBLEM"
@@ -328,6 +325,9 @@
   },
   {
     "ellis type ii fracture": "PROBLEM"
+  },
+  {
+    "ellis type": "PROBLEM"
   },
   {
     "dental fracture": "PROBLEM"

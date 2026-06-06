@@ -1,24 +1,21 @@
 [
   {
-    "General Medicine": "TEST"
-  },
-  {
-    "free air": "PROBLEM"
-  },
-  {
-    "shortness of breath": "PROBLEM"
+    "free air under the diaphragm": "PROBLEM"
   },
   {
     "chest x-ray": "TEST"
   },
   {
-    "free air": "PROBLEM"
+    "shortness of breath": "PROBLEM"
   },
   {
-    "intra-abdominal pathology": "PROBLEM"
+    "free air under the right diaphragm": "PROBLEM"
   },
   {
     "free air under the diaphragm": "PROBLEM"
+  },
+  {
+    "77-year-old": "PROBLEM"
   },
   {
     "Ativan": "DRUG"
@@ -27,13 +24,13 @@
     "obtunded": "PROBLEM"
   },
   {
-    "shortness of breath": "PROBLEM"
-  },
-  {
     "chest x-ray": "TEST"
   },
   {
-    "free air": "PROBLEM"
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "free air under the right diaphragm": "PROBLEM"
   },
   {
     "alcohol abuse": "PROBLEM"
@@ -48,19 +45,10 @@
     "right hip fracture": "PROBLEM"
   },
   {
-    "fall": "PROBLEM"
-  },
-  {
     "TAH/BSO": "TREATMENT"
   },
   {
     "alcohol abuse": "PROBLEM"
-  },
-  {
-    "REVIEW OF SYSTEMS": "TEST"
-  },
-  {
-    "VITAL SIGNS": "TEST"
   },
   {
     "Temp": "TEST"
@@ -78,16 +66,25 @@
     "obtunded": "PROBLEM"
   },
   {
-    "LUNGS": "PROBLEM"
+    "Atraumatic": "PROBLEM"
   },
   {
-    "HEART": "PROBLEM"
+    "Soft and supple": "PROBLEM"
   },
   {
-    "ABDOMEN": "TEST"
+    "Bilaterally diminished": "PROBLEM"
   },
   {
-    "LABORATORY STUDIES": "TEST"
+    "Regular": "PROBLEM"
+  },
+  {
+    "Soft": "PROBLEM"
+  },
+  {
+    "white blood cell count": "TEST"
+  },
+  {
+    "Elevated AST": "TEST"
   },
   {
     "AST": "TEST"
@@ -111,34 +108,40 @@
     "potassium": "TEST"
   },
   {
-    "X-ray": "TEST"
+    "X-ray of the chest": "TEST"
   },
   {
-    "chest": "PROBLEM"
+    "free air": "PROBLEM"
   },
   {
-    "CT scan": "TEST"
+    "a CT scan": "TEST"
   },
   {
     "intra-abdominal pathology": "PROBLEM"
   },
   {
-    "air": "PROBLEM"
+    "air under the diaphragm": "PROBLEM"
   },
   {
-    "diaphragm": "PROBLEM"
+    "colonic air": "PROBLEM"
   },
   {
-    "colon": "PROBLEM"
+    "dome of the diaphragm": "PROBLEM"
   },
   {
-    "liver": "PROBLEM"
+    "dome of the liver": "PROBLEM"
   },
   {
     "intra-abdominal pathology": "PROBLEM"
   },
   {
     "hyponatremia": "PROBLEM"
+  },
+  {
+    "treatment": "TREATMENT"
+  },
+  {
+    "general medicine": "PROBLEM"
   },
   {
     "free air": "PROBLEM"

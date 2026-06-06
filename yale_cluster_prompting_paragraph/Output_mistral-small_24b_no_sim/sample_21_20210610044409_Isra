@@ -1,104 +1,65 @@
 [
   {
-    "General Medicine": "TEST"
+    "nausea": "PROBLEM"
   },
   {
-    "Nausea": "PROBLEM"
-  },
-  {
-    "Vomiting": "PROBLEM"
+    "vomiting": "PROBLEM"
   },
   {
     "blood-tinged vomit": "PROBLEM"
   },
   {
-    "emergency room": "TEST"
+    "low sodium": "PROBLEM"
   },
   {
-    "sodium": "TEST"
+    "potassium slightly elevated": "PROBLEM"
   },
   {
-    "potassium": "TEST"
+    "ALT of 93": "TEST"
   },
   {
-    "ALT": "TEST"
+    "AST of 35": "TEST"
   },
   {
-    "AST": "TEST"
+    "total bilirubin is 1.2": "TEST"
   },
   {
-    "bilirubin": "TEST"
+    "3+ ketones": "TEST"
   },
   {
-    "ketones": "TEST"
+    "2+ protein": "TEST"
   },
   {
-    "protein": "TEST"
+    "1+ esterase": "TEST"
   },
   {
-    "esterase": "TEST"
+    "rbc too numerous to count": "TEST"
   },
   {
-    "rbc": "TEST"
+    "moderate amount of bacteria": "TEST"
   },
   {
-    "bacteria": "TEST"
-  },
-  {
-    "H and H": "TEST"
+    "H and H stable at 14.1 and 48.7": "TEST"
   },
   {
     "Phenergan": "DRUG"
   },
   {
-    "Zofran": "DRUG"
-  },
-  {
-    "IV": "TREATMENT"
-  },
-  {
-    "hydration": "TREATMENT"
+    "Zofran IV": "DRUG"
   },
   {
     "Rocephin": "DRUG"
   },
   {
-    "bladder infection": "PROBLEM"
-  },
-  {
     "Maalox": "DRUG"
-  },
-  {
-    "fluids": "TREATMENT"
-  },
-  {
-    "p.o. food": "TREATMENT"
-  },
-  {
-    "chemistry": "TEST"
-  },
-  {
-    "AST": "TEST"
-  },
-  {
-    "ALT": "TEST"
-  },
-  {
-    "hyperemesis gravidarum": "PROBLEM"
   },
   {
     "IV hydration": "TREATMENT"
   },
   {
+    "hyperemesis gravidarum": "PROBLEM"
+  },
+  {
     "elevated alt": "PROBLEM"
-  },
-  {
-    "emergency": "TEST"
-  },
-  {
-    "nausea": "PROBLEM"
-  },
-  {
-    "vomiting": "PROBLEM"
   }
 ]

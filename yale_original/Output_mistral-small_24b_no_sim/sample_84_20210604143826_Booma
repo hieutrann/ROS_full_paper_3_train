@@ -1,42 +1,24 @@
 [
   {
-    "1812 g": "PROBLEM"
+    "gravida": "PROBLEM"
   },
   {
-    "baby boy": "PROBLEM"
-  },
-  {
-    "vaginal delivery": "TREATMENT"
-  },
-  {
-    "32-year-old": "PROBLEM"
-  },
-  {
-    "gravida 3, para 2": "PROBLEM"
-  },
-  {
-    "34 weeks of gestation": "PROBLEM"
+    "para": "PROBLEM"
   },
   {
     "C-sections": "TREATMENT"
   },
   {
-    "1812 g": "PROBLEM"
-  },
-  {
     "baby boy": "PROBLEM"
   },
   {
     "vaginal delivery": "TREATMENT"
   },
   {
-    "32-year-old": "PROBLEM"
+    "gravida": "PROBLEM"
   },
   {
-    "gravida 3, para 2": "PROBLEM"
-  },
-  {
-    "34 weeks of gestation": "PROBLEM"
+    "para": "PROBLEM"
   },
   {
     "C-sections": "TREATMENT"
@@ -45,22 +27,25 @@
     "ampicillin": "DRUG"
   },
   {
+    "preterm contractions": "PROBLEM"
+  },
+  {
     "terbutaline": "DRUG"
   },
   {
     "magnesium sulfate": "DRUG"
   },
   {
-    "preterm contractions": "PROBLEM"
-  },
-  {
-    "labor": "PROBLEM"
-  },
-  {
     "Apgar scores": "TEST"
   },
   {
+    "Fluid": "TEST"
+  },
+  {
     "Nuchal cord": "PROBLEM"
+  },
+  {
+    "Prenatal": "TEST"
   },
   {
     "O positive": "TEST"
@@ -84,7 +69,7 @@
     "sepsis": "PROBLEM"
   },
   {
-    "NICU": "TEST"
+    "retractions": "PROBLEM"
   },
   {
     "CBC": "TEST"
@@ -97,6 +82,12 @@
   },
   {
     "IV fluids": "TREATMENT"
+  },
+  {
+    "D10": "DRUG"
+  },
+  {
+    "rate": "TEST"
   },
   {
     "Ampicillin": "DRUG"
@@ -141,7 +132,13 @@
     "NeoSure": "DRUG"
   },
   {
-    "p.o.": "DRUG"
+    "room air": "TREATMENT"
+  },
+  {
+    "p.o.": "TREATMENT"
+  },
+  {
+    "feeds": "TREATMENT"
   },
   {
     "Respiratory distress": "PROBLEM"
@@ -153,16 +150,19 @@
     "prematurity": "PROBLEM"
   },
   {
-    "Stable": "PROBLEM"
+    "preemie": "PROBLEM"
   },
   {
-    "34-week preemie": "PROBLEM"
-  },
-  {
-    "CPR": "TREATMENT"
+    "CPR teaching": "TREATMENT"
   },
   {
     "NeoSure": "DRUG"
+  },
+  {
+    "Ad lib feeding": "TREATMENT"
+  },
+  {
+    "discharge summary": "TEST"
   },
   {
     "gestation": "PROBLEM"
@@ -186,6 +186,6 @@
     "delivery": "TREATMENT"
   },
   {
-    "discharge": "TREATMENT"
+    "perineum": "PROBLEM"
   }
 ]

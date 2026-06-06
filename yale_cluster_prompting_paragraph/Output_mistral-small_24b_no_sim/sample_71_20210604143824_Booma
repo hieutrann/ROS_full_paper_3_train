@@ -3,43 +3,16 @@
     "decrease in mental alertness": "PROBLEM"
   },
   {
-    "Mental changes": "PROBLEM"
+    "mental changes": "PROBLEM"
   },
   {
     "diabetes": "PROBLEM"
-  },
-  {
-    "mental alertness": "PROBLEM"
-  },
-  {
-    "sweating": "PROBLEM"
-  },
-  {
-    "agitation": "PROBLEM"
   },
   {
     "hypertension": "PROBLEM"
   },
   {
     "glucose": "TEST"
-  },
-  {
-    "blood pressure medication": "DRUG"
-  },
-  {
-    "labetalol": "DRUG"
-  },
-  {
-    "Norvasc": "DRUG"
-  },
-  {
-    "glucose supplement": "DRUG"
-  },
-  {
-    "glucose": "TEST"
-  },
-  {
-    "blood pressure": "TEST"
   },
   {
     "CPK": "TEST"
@@ -66,36 +39,30 @@
     "Urinalysis": "TEST"
   },
   {
+    "specific gravity": "TEST"
+  },
+  {
     "CT of the brain": "TEST"
   },
   {
     "Chest x-ray": "TEST"
   },
   {
-    "hypoglycemia": "PROBLEM"
+    "labetalol": "DRUG"
   },
   {
-    "renal insufficiency": "PROBLEM"
+    "Norvasc": "DRUG"
   },
   {
-    "dehydration": "PROBLEM"
+    "glucose supplement": "DRUG"
   },
   {
-    "diabetic nephropathy": "PROBLEM"
+    "aspirin": "DRUG"
   },
   {
     "IV fluid": "TREATMENT"
   },
   {
-    "glucometer checks": "TEST"
-  },
-  {
-    "blood pressure medication": "DRUG"
-  },
-  {
-    "diabetic medication": "DRUG"
-  },
-  {
-    "aspirin": "DRUG"
+    "glucometer checks": "TREATMENT"
   }
 ]

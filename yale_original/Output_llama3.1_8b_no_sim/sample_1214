@@ -9,34 +9,37 @@
     "work of breathing": "PROBLEM"
   },
   {
-    "ADMITTING DIAGNOSES": "PROBLEM"
+    "Respiratory distress": "PROBLEM"
+  },
+  {
+    "2": "TREATMENT"
+  },
+  {
+    "airways disease": "PROBLEM"
+  },
+  {
+    "DISCHARGE DIAGNOSES": "TREATMENT"
   },
   {
     "Respiratory distress": "PROBLEM"
   },
   {
-    "2": "TEST"
+    "2": "TREATMENT"
   },
   {
-    "Reactive airways disease": "PROBLEM"
+    "airways disease": "PROBLEM"
   },
   {
-    "DISCHARGE DIAGNOSES": "PROBLEM"
-  },
-  {
-    "Respiratory distress": "PROBLEM"
-  },
-  {
-    "2": "TEST"
-  },
-  {
-    "Reactive airways disease": "PROBLEM"
-  },
-  {
-    "3": "TEST"
+    "3": "TREATMENT"
   },
   {
     "Pneumonia": "PROBLEM"
+  },
+  {
+    "asthma": "PROBLEM"
+  },
+  {
+    "reactive airways disease": "PROBLEM"
   },
   {
     "URI symptoms": "PROBLEM"
@@ -48,22 +51,16 @@
     "increased work of breathing": "PROBLEM"
   },
   {
-    "Children's Hospital": "TREATMENT"
-  },
-  {
     "nebulized treatments": "TREATMENT"
-  },
-  {
-    "ER": "TREATMENT"
   },
   {
     "Hospitalist Service": "TREATMENT"
   },
   {
-    "emergency room": "TEST"
+    "albuterol": "DRUG"
   },
   {
-    "albuterol": "DRUG"
+    "respiratory distress": "PROBLEM"
   },
   {
     "corticosteroids": "DRUG"
@@ -79,6 +76,9 @@
   },
   {
     "radiology": "TEST"
+  },
+  {
+    "antibiotics": "DRUG"
   },
   {
     "fever": "PROBLEM"
@@ -105,7 +105,7 @@
     "Zithromax": "DRUG"
   },
   {
-    "room air": "TEST"
+    "continuous": "TREATMENT"
   },
   {
     "bilateral wheezing": "PROBLEM"
@@ -129,7 +129,7 @@
     "masses": "PROBLEM"
   },
   {
-    "Bilateral basilar wheezing": "PROBLEM"
+    "wheezing": "PROBLEM"
   },
   {
     "distress": "PROBLEM"
@@ -141,7 +141,7 @@
     "murmurs": "PROBLEM"
   },
   {
-    "peripherally": "TEST"
+    "peripherally": "PROBLEM"
   },
   {
     "Bowel sounds": "TEST"
@@ -156,7 +156,7 @@
     "masses": "PROBLEM"
   },
   {
-    "Nontender to palpation": "PROBLEM"
+    "palpation": "TEST"
   },
   {
     "GENITOURINARY": "PROBLEM"
@@ -168,37 +168,43 @@
     "DISCHARGE INSTRUCTIONS": "TREATMENT"
   },
   {
-    "Activity": "TREATMENT"
+    "regular": "TREATMENT"
   },
   {
-    "2": "TEST"
+    "2": "TREATMENT"
   },
   {
-    "Diet": "PROBLEM"
+    "Diet": "TREATMENT"
   },
   {
-    "3": "PROBLEM"
+    "3": "TREATMENT"
   },
   {
     "Dr.": "TREATMENT"
   },
   {
-    "X": "PROBLEM"
+    "X": "TEST"
   },
   {
     "DISCHARGE MEDICATIONS": "TREATMENT"
   },
   {
-    "Xopenex MDI": "DRUG"
+    "Xopenex": "DRUG"
   },
   {
-    "2": "TEST"
+    "cough": "PROBLEM"
+  },
+  {
+    "wheeze": "PROBLEM"
+  },
+  {
+    "2": "TREATMENT"
   },
   {
     "QVAR 40": "DRUG"
   },
   {
-    "3": "PROBLEM"
+    "3": "TREATMENT"
   },
   {
     "Amoxicillin": "DRUG"
@@ -213,27 +219,27 @@
     "Zithromax": "DRUG"
   },
   {
-    "75 mg": "DRUG"
+    "p.o.": "TREATMENT"
   },
   {
-    "daily for 4 more days": "TREATMENT"
+    "days": "TEST"
   },
   {
-    "Total time for this discharge": "TEST"
+    "time": "TEST"
   },
   {
     "pneumonia": "PROBLEM"
   },
   {
-    "onset of cough": "PROBLEM"
+    "cough": "PROBLEM"
   },
   {
-    "reactive airways disease": "PROBLEM"
+    "asthma": "PROBLEM"
   },
   {
     "respiratory distress": "PROBLEM"
   },
   {
-    "asthma": "PROBLEM"
+    "reactive airways disease": "PROBLEM"
   }
 ]

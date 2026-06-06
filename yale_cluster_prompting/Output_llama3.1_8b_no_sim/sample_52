@@ -3,7 +3,7 @@
     "Cardiology": "TREATMENT"
   },
   {
-    "HISTORY OF PRESENT ILLNESS": "TEST"
+    "66-year-old white male": "PROBLEM"
   },
   {
     "pneumonia": "PROBLEM"
@@ -18,13 +18,10 @@
     "cough": "PROBLEM"
   },
   {
-    "greenish expectoration": "PROBLEM"
+    "expectoration": "PROBLEM"
   },
   {
     "shortness of breath": "PROBLEM"
-  },
-  {
-    "exercise tolerance": "PROBLEM"
   },
   {
     "Coumadin": "DRUG"
@@ -42,10 +39,7 @@
     "ICD implantation": "TREATMENT"
   },
   {
-    "blood sugar": "TEST"
-  },
-  {
-    "VITAL SIGNS": "TEST"
+    "Fasting blood sugar": "TEST"
   },
   {
     "Blood pressure": "TEST"
@@ -57,13 +51,10 @@
     "Heart rate": "TEST"
   },
   {
-    "irregular": "PROBLEM"
-  },
-  {
     "Weight": "TEST"
   },
   {
-    "HEENT": "TEST"
+    "Head": "PROBLEM"
   },
   {
     "anemia": "PROBLEM"
@@ -72,10 +63,7 @@
     "jaundice": "PROBLEM"
   },
   {
-    "oral hygiene": "PROBLEM"
-  },
-  {
-    "NECK": "TEST"
+    "NECK": "PROBLEM"
   },
   {
     "JVP": "TEST"
@@ -87,13 +75,7 @@
     "wheezing": "PROBLEM"
   },
   {
-    "lung fields": "TEST"
-  },
-  {
-    "crepitations": "PROBLEM"
-  },
-  {
-    "lungs": "PROBLEM"
+    "Fine crepitations": "PROBLEM"
   },
   {
     "PMI": "PROBLEM"
@@ -102,16 +84,10 @@
     "heart sounds": "TEST"
   },
   {
-    "systolic murmur": "PROBLEM"
+    "II/VI systolic murmur": "PROBLEM"
   },
   {
-    "II/VI": "TEST"
-  },
-  {
-    "apex": "TEST"
-  },
-  {
-    "ABDOMEN": "TEST"
+    "ABDOMEN": "PROBLEM"
   },
   {
     "hepatosplenomegaly": "PROBLEM"
@@ -120,7 +96,7 @@
     "pedal edema": "PROBLEM"
   },
   {
-    "MEDICATIONS": "DRUG"
+    "MEDICATIONS": "TREATMENT"
   },
   {
     "Ambien": "DRUG"
@@ -138,25 +114,22 @@
     "Diovan": "DRUG"
   },
   {
-    "4": "TEST"
+    "4": "TREATMENT"
   },
   {
     "Lantus insulin": "DRUG"
   },
   {
-    "5": "TEST"
+    "5": "TREATMENT"
   },
   {
     "Lasix": "DRUG"
   },
   {
-    "6": "PROBLEM"
+    "6": "TEST"
   },
   {
     "Novolin R": "DRUG"
-  },
-  {
-    "7": "PROBLEM"
   },
   {
     "Toprol XL": "DRUG"
@@ -168,7 +141,7 @@
     "Flovent": "DRUG"
   },
   {
-    "DIAGNOSES": "TEST"
+    "DIAGNOSES": "PROBLEM"
   },
   {
     "Atherosclerotic coronary vascular disease": "PROBLEM"
@@ -189,7 +162,7 @@
     "Diabetes mellitus": "PROBLEM"
   },
   {
-    "4": "TEST"
+    "4": "TREATMENT"
   },
   {
     "Diabetic nephropathy": "PROBLEM"
@@ -198,19 +171,16 @@
     "renal failure": "PROBLEM"
   },
   {
-    "5": "TEST"
+    "5": "TREATMENT"
   },
   {
     "ICD implantation": "TREATMENT"
   },
   {
-    "6": "PROBLEM"
+    "6": "TEST"
   },
   {
     "atrial fibrillation": "PROBLEM"
-  },
-  {
-    "7": "PROBLEM"
   },
   {
     "Coumadin": "DRUG"
@@ -234,9 +204,6 @@
     "atherosclerotic coronary vascular disease": "PROBLEM"
   },
   {
-    "icd implantation": "TREATMENT"
-  },
-  {
     "atrial fibrillation": "PROBLEM"
   },
   {
@@ -252,12 +219,9 @@
     "shortness of breath": "PROBLEM"
   },
   {
-    "cardiology office visit": "TEST"
+    "icd implantation": "TREATMENT"
   },
   {
-    "systolic": "TEST"
-  },
-  {
-    "lungs": "TEST"
+    "cardiology office visit": "TREATMENT"
   }
 ]

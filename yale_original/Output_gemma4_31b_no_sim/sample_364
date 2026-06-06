@@ -102,19 +102,10 @@
     "Temperature": "TEST"
   },
   {
-    "Neck": "TEST"
-  },
-  {
     "lymphadenopathy": "PROBLEM"
   },
   {
     "thyromegaly": "PROBLEM"
-  },
-  {
-    "Chest": "TEST"
-  },
-  {
-    "Cardiovascular": "TEST"
   },
   {
     "bowel sounds": "TEST"
@@ -126,7 +117,10 @@
     "nipple discharge": "PROBLEM"
   },
   {
-    "lumps or masses": "PROBLEM"
+    "lumps": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
   },
   {
     "dimpling of the skin": "PROBLEM"
@@ -136,6 +130,9 @@
   },
   {
     "Self-breast exam": "TEST"
+  },
+  {
+    "female genitalia": "TEST"
   },
   {
     "Atrophic vaginal mucosa": "PROBLEM"
@@ -241,5 +238,8 @@
   },
   {
     "masses": "PROBLEM"
+  },
+  {
+    "pap": "TEST"
   }
 ]

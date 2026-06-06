@@ -93,25 +93,7 @@
     "hypertension": "PROBLEM"
   },
   {
-    "Tobacco use": "PROBLEM"
-  },
-  {
     "hysterectomy": "TREATMENT"
-  },
-  {
-    "VITAL SIGNS": "TEST"
-  },
-  {
-    "Temperature": "TEST"
-  },
-  {
-    "pulse": "TEST"
-  },
-  {
-    "respirations": "TEST"
-  },
-  {
-    "BP": "TEST"
   },
   {
     "expiratory wheeze": "PROBLEM"
@@ -120,19 +102,10 @@
     "tachycardic": "PROBLEM"
   },
   {
+    "bowel sounds": "TEST"
+  },
+  {
     "WBC": "TEST"
-  },
-  {
-    "neutrophils": "TEST"
-  },
-  {
-    "lymphocytes": "TEST"
-  },
-  {
-    "monocytes": "TEST"
-  },
-  {
-    "eosinophils": "TEST"
   },
   {
     "Hemoglobin": "TEST"
@@ -162,7 +135,7 @@
     "lipase": "TEST"
   },
   {
-    "urinalysis": "TEST"
+    "Clean catch urinalysis": "TEST"
   },
   {
     "anemia": "PROBLEM"
@@ -171,19 +144,10 @@
     "Chest x-ray": "TEST"
   },
   {
-    "O2 sat": "TEST"
-  },
-  {
-    "COPD": "PROBLEM"
-  },
-  {
     "sinus tachycardia": "PROBLEM"
   },
   {
-    "albuterol": "DRUG"
-  },
-  {
-    "nebulizer treatment": "TREATMENT"
+    "albuterol unit dose small volume nebulizer treatment": "TREATMENT"
   },
   {
     "normal saline lock": "TREATMENT"
@@ -195,99 +159,15 @@
     "normal saline": "TREATMENT"
   },
   {
-    "anemia": "PROBLEM"
-  },
-  {
     "hyponatremia": "PROBLEM"
   },
   {
-    "tiredness": "PROBLEM"
-  },
-  {
-    "rectal bleeding": "PROBLEM"
-  },
-  {
-    "Acute tiredness": "PROBLEM"
-  },
-  {
-    "Anemia of unknown etiology": "PROBLEM"
+    "anemia of unknown etiology": "PROBLEM"
   },
   {
     "Acute hyponatremia": "PROBLEM"
   },
   {
-    "fever": "PROBLEM"
-  },
-  {
-    "chills": "PROBLEM"
-  },
-  {
-    "sweats": "PROBLEM"
-  },
-  {
-    "ear pain": "PROBLEM"
-  },
-  {
-    "uri symptoms": "PROBLEM"
-  },
-  {
-    "cough": "PROBLEM"
-  },
-  {
-    "dyspnea": "PROBLEM"
-  },
-  {
-    "chest pain": "PROBLEM"
-  },
-  {
-    "vomiting": "PROBLEM"
-  },
-  {
-    "diarrhea": "PROBLEM"
-  },
-  {
-    "abdominal pain": "PROBLEM"
-  },
-  {
-    "melena": "PROBLEM"
-  },
-  {
-    "hematochezia": "PROBLEM"
-  },
-  {
-    "urinary symptoms": "PROBLEM"
-  },
-  {
-    "headache": "PROBLEM"
-  },
-  {
-    "neck pain": "PROBLEM"
-  },
-  {
-    "back pain": "PROBLEM"
-  },
-  {
-    "weakness": "PROBLEM"
-  },
-  {
-    "paresthesias": "PROBLEM"
-  },
-  {
-    "feeling faint": "PROBLEM"
-  },
-  {
-    "saline lock": "TREATMENT"
-  },
-  {
-    "edema": "PROBLEM"
-  },
-  {
-    "hemoglobin": "TEST"
-  },
-  {
-    "nausea": "PROBLEM"
-  },
-  {
-    "wellbutrin": "DRUG"
+    "Acute tiredness": "PROBLEM"
   }
 ]

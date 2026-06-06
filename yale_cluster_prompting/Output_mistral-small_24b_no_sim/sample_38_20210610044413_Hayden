@@ -60,19 +60,16 @@
     "ERCP": "TEST"
   },
   {
-    "stent": "TREATMENT"
+    "placement of a stent": "TREATMENT"
   },
   {
-    "strictured pancreatic duct": "PROBLEM"
+    "a strictured pancreatic duct": "PROBLEM"
   },
   {
-    "strictured bile duct": "PROBLEM"
+    "a strictured bile duct": "PROBLEM"
   },
   {
-    "stent": "TREATMENT"
-  },
-  {
-    "comfortable": "PROBLEM"
+    "10-frenchx9 cm stent": "TREATMENT"
   },
   {
     "bilirubin": "TEST"
@@ -94,6 +91,9 @@
   },
   {
     "nausea": "PROBLEM"
+  },
+  {
+    "Phenergan": "DRUG"
   },
   {
     "white count": "TEST"
@@ -132,25 +132,46 @@
     "bilirubin": "TEST"
   },
   {
+    "17.1": "TEST"
+  },
+  {
     "alk phos": "TEST"
+  },
+  {
+    "273": "TEST"
   },
   {
     "AST": "TEST"
   },
   {
+    "104": "TEST"
+  },
+  {
     "ALT": "TEST"
+  },
+  {
+    "136": "TEST"
   },
   {
     "total protein": "TEST"
   },
   {
+    "7.8": "TEST"
+  },
+  {
     "albumin": "TEST"
+  },
+  {
+    "3.8": "TEST"
+  },
+  {
+    "a regular diet": "TREATMENT"
   },
   {
     "oral hypoglycemics": "DRUG"
   },
   {
-    "insulin sliding scale": "DRUG"
+    "insulin sliding scale": "TREATMENT"
   },
   {
     "diabetes": "PROBLEM"
@@ -168,13 +189,10 @@
     "metastatic pancreatic cancer": "PROBLEM"
   },
   {
-    "morbidity": "PROBLEM"
-  },
-  {
     "Phenergan": "DRUG"
   },
   {
-    "Duragesic patch": "DRUG"
+    "Duragesic patch 100 mcg q.3.d.": "DRUG"
   },
   {
     "Benadryl": "DRUG"
@@ -207,7 +225,10 @@
     "pain": "PROBLEM"
   },
   {
-    "discharge summary": "TEST"
+    "regular diet": "TREATMENT"
+  },
+  {
+    "discharge summary": "PROBLEM"
   },
   {
     "abdominal pain": "PROBLEM"

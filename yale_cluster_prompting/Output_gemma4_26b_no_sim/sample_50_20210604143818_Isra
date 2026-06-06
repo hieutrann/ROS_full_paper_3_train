@@ -1,6 +1,6 @@
 [
   {
-    "Abdominal Pain": "PROBLEM"
+    "abdominal pain": "PROBLEM"
   },
   {
     "Abdominal pain": "PROBLEM"
@@ -12,7 +12,7 @@
     "CT scan": "TEST"
   },
   {
-    "oral antibiotics": "DRUG"
+    "oral antibiotics": "TREATMENT"
   },
   {
     "Cipro": "DRUG"
@@ -60,9 +60,6 @@
     "atrial fibrillation": "PROBLEM"
   },
   {
-    "normal sinus rhythm": "PROBLEM"
-  },
-  {
     "metoprolol": "DRUG"
   },
   {
@@ -96,16 +93,10 @@
     "shortness of breath": "PROBLEM"
   },
   {
-    "temperature": "TEST"
+    "focally tender": "PROBLEM"
   },
   {
-    "Sclerae": "TEST"
-  },
-  {
-    "HEART": "TEST"
-  },
-  {
-    "focally tender in the left lower quadrant": "PROBLEM"
+    "left lower quadrant": "PROBLEM"
   },
   {
     "palpable fullness": "PROBLEM"
@@ -144,9 +135,6 @@
     "Liver function tests": "TEST"
   },
   {
-    "Electrolytes": "TEST"
-  },
-  {
     "Glucose": "TEST"
   },
   {
@@ -174,10 +162,10 @@
     "sigmoid diverticulitis": "PROBLEM"
   },
   {
-    "CT scan": "TEST"
+    "stat CT scan of the abdomen and pelvis": "TEST"
   },
   {
-    "abdomen and pelvis": "TEST"
+    "nothing by mouth": "TREATMENT"
   },
   {
     "colonoscopy": "TEST"
@@ -192,7 +180,10 @@
     "lower quadrant": "PROBLEM"
   },
   {
-    "sigmoid diverticulitis": "PROBLEM"
+    "sigmoid": "PROBLEM"
+  },
+  {
+    "diverticulitis": "PROBLEM"
   },
   {
     "tenderness": "PROBLEM"

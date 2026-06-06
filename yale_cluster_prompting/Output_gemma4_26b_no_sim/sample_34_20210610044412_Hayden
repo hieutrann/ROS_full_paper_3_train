@@ -1,8 +1,5 @@
 [
   {
-    "VITAL SIGNS": "TEST"
-  },
-  {
     "blood pressure": "TEST"
   },
   {
@@ -21,9 +18,6 @@
     "Funduscopic examination": "TEST"
   },
   {
-    "Lungs are clear to auscultation bilaterally": "TEST"
-  },
-  {
     "respiratory rate": "TEST"
   },
   {
@@ -39,6 +33,9 @@
     "secondary muscle use": "PROBLEM"
   },
   {
+    "breath sounds": "TEST"
+  },
+  {
     "jugular venous distention": "PROBLEM"
   },
   {
@@ -46,6 +43,9 @@
   },
   {
     "heart size": "PROBLEM"
+  },
+  {
+    "percussion": "TEST"
   },
   {
     "murmur": "PROBLEM"
@@ -66,13 +66,31 @@
     "Bowel sounds": "TEST"
   },
   {
-    "Obturator and psoas signs": "TEST"
+    "Obturator sign": "TEST"
+  },
+  {
+    "psoas sign": "TEST"
   },
   {
     "bladder tenderness": "PROBLEM"
   },
   {
     "flank pain": "PROBLEM"
+  },
+  {
+    "motor tone": "PROBLEM"
+  },
+  {
+    "strength": "PROBLEM"
+  },
+  {
+    "reflexes": "TEST"
+  },
+  {
+    "joint strength": "PROBLEM"
+  },
+  {
+    "sensation": "PROBLEM"
   },
   {
     "Glasgow Coma Scale": "TEST"
@@ -84,7 +102,10 @@
     "motor and cerebellar tests": "TEST"
   },
   {
-    "abnormal lymph nodes": "PROBLEM"
+    "Reflexes": "TEST"
+  },
+  {
+    "lymph nodes": "PROBLEM"
   },
   {
     "bleeding": "PROBLEM"
@@ -108,13 +129,7 @@
     "jugular venous distention": "PROBLEM"
   },
   {
-    "normal physical exam": "TEST"
-  },
-  {
     "tenderness": "PROBLEM"
-  },
-  {
-    "motor strength": "TEST"
   },
   {
     "reflexes": "TEST"

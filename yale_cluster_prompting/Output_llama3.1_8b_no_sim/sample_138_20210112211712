@@ -3,7 +3,7 @@
     "Neck pain": "PROBLEM"
   },
   {
-    "right upper extremity radiculopathy": "PROBLEM"
+    "radiculopathy": "PROBLEM"
   },
   {
     "cervical spondylosis": "PROBLEM"
@@ -36,7 +36,7 @@
     "stenosis": "PROBLEM"
   },
   {
-    "DISCHARGE DIAGNOSES": "PROBLEM"
+    "DISCHARGE DIAGNOSES": "TREATMENT"
   },
   {
     "Neck pain": "PROBLEM"
@@ -63,6 +63,15 @@
     "Anterior cervical discectomy with decompression": "TREATMENT"
   },
   {
+    "C4-C5": "TEST"
+  },
+  {
+    "C5-C6": "TEST"
+  },
+  {
+    "C6-C7": "TEST"
+  },
+  {
     "2": "TREATMENT"
   },
   {
@@ -84,7 +93,13 @@
     "3": "TREATMENT"
   },
   {
-    "Spinal instrumentation C4 through C7": "TREATMENT"
+    "Spinal instrumentation": "TREATMENT"
+  },
+  {
+    "C4": "TEST"
+  },
+  {
+    "C7": "TEST"
   },
   {
     "4": "TREATMENT"
@@ -108,16 +123,16 @@
     "right shoulder blade": "PROBLEM"
   },
   {
-    "right upper extremity": "PROBLEM"
+    "right shoulder": "PROBLEM"
   },
   {
-    "right shoulder": "PROBLEM"
+    "right upper extremity": "PROBLEM"
   },
   {
     "hand": "PROBLEM"
   },
   {
-    "persistent": "PROBLEM"
+    "persistent symptoms": "PROBLEM"
   },
   {
     "subjective weakness": "PROBLEM"
@@ -183,10 +198,13 @@
     "Flexeril": "DRUG"
   },
   {
+    "pain": "PROBLEM"
+  },
+  {
     "patient": "PROBLEM"
   },
   {
-    "Instructions": "TREATMENT"
+    "given": "DRUG"
   },
   {
     "radiculopathy": "PROBLEM"
@@ -199,6 +217,9 @@
   },
   {
     "herniated nucleus pulposus": "PROBLEM"
+  },
+  {
+    "cervical": "PROBLEM"
   },
   {
     "anterior cervical discectomy": "TREATMENT"

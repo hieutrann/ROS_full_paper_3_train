@@ -3,13 +3,10 @@
     "extreme fatigue": "PROBLEM"
   },
   {
-    "chest": "PROBLEM"
+    "chest discomfort": "PROBLEM"
   },
   {
-    "back": "PROBLEM"
-  },
-  {
-    "Stomach": "PROBLEM"
+    "back discomfort": "PROBLEM"
   },
   {
     "pain": "PROBLEM"
@@ -21,13 +18,10 @@
     "extreme fatigue": "PROBLEM"
   },
   {
-    "chest": "PROBLEM"
+    "chest discomfort": "PROBLEM"
   },
   {
-    "back": "PROBLEM"
-  },
-  {
-    "Stomach": "PROBLEM"
+    "back discomfort": "PROBLEM"
   },
   {
     "pain": "PROBLEM"
@@ -42,7 +36,7 @@
     "bladder control": "PROBLEM"
   },
   {
-    "pain in her hips": "PROBLEM"
+    "pain": "PROBLEM"
   },
   {
     "peripheral neuropathy": "PROBLEM"
@@ -57,10 +51,10 @@
     "DIAGNOSES": "PROBLEM"
   },
   {
-    "Type II diabetes mellitus": "PROBLEM"
+    "diabetes mellitus": "PROBLEM"
   },
   {
-    "2": "TEST"
+    "2": "TREATMENT"
   },
   {
     "fatigue": "PROBLEM"
@@ -69,7 +63,7 @@
     "weakness": "PROBLEM"
   },
   {
-    "3": "PROBLEM"
+    "3": "TREATMENT"
   },
   {
     "Hypertension": "PROBLEM"
@@ -84,31 +78,28 @@
     "atypical symptoms": "PROBLEM"
   },
   {
-    "5": "PROBLEM"
+    "5": "TEST"
   },
   {
     "Hypothyroidism": "PROBLEM"
   },
   {
-    "6": "PROBLEM"
+    "6": "TEST"
   },
   {
     "Depression": "PROBLEM"
   },
   {
-    "7": "PROBLEM"
-  },
-  {
-    "high-risk medications": "DRUG"
+    "medications": "DRUG"
   },
   {
     "8": "TEST"
   },
   {
-    "Postmenopausal age-related symptoms": "PROBLEM"
+    "Postmenopausal": "PROBLEM"
   },
   {
-    "9": "PROBLEM"
+    "9": "TEST"
   },
   {
     "Abdominal pain": "PROBLEM"
@@ -123,19 +114,16 @@
     "medicines": "DRUG"
   },
   {
-    "PAST SURGICAL HISTORY": "TREATMENT"
+    "surgical history": "TREATMENT"
   },
   {
-    "FAMILY HISTORY": "TEST"
+    "FAMILY HISTORY": "TREATMENT"
   },
   {
     "MI": "PROBLEM"
   },
   {
     "stroke": "PROBLEM"
-  },
-  {
-    "She has two sons and an adopted daughter": "PROBLEM"
   },
   {
     "fever": "PROBLEM"
@@ -156,10 +144,10 @@
     "188 pounds": "TEST"
   },
   {
-    "HEENT": "TEST"
+    "visual function": "PROBLEM"
   },
   {
-    "ENT": "PROBLEM"
+    "auditory function": "PROBLEM"
   },
   {
     "epistaxis": "PROBLEM"
@@ -183,7 +171,7 @@
     "chest pains": "PROBLEM"
   },
   {
-    "tenderness to palpation": "PROBLEM"
+    "tenderness": "PROBLEM"
   },
   {
     "wheezing": "PROBLEM"
@@ -193,6 +181,9 @@
   },
   {
     "PND": "PROBLEM"
+  },
+  {
+    "orthopnea": "PROBLEM"
   },
   {
     "Thromboembolic disease": "PROBLEM"
@@ -210,7 +201,7 @@
     "Diarrhea": "PROBLEM"
   },
   {
-    "poor bladder control": "PROBLEM"
+    "bladder control": "PROBLEM"
   },
   {
     "dysuria": "PROBLEM"
@@ -273,28 +264,28 @@
     "RESPIRATIONS": "TEST"
   },
   {
-    "Well developed": "TEST"
+    "Well developed": "TREATMENT"
   },
   {
-    "Well nourished": "TEST"
+    "Well nourished": "TREATMENT"
   },
   {
     "acute distress": "PROBLEM"
   },
   {
-    "Head": "TEST"
+    "normocephalic": "PROBLEM"
   },
   {
-    "Ears, nose, and throat": "PROBLEM"
+    "conjunctivae": "PROBLEM"
   },
   {
-    "Pupils": "TEST"
+    "pupils": "TEST"
   },
   {
     "Ear canals": "PROBLEM"
   },
   {
-    "TMs": "PROBLEM"
+    "TMs": "TEST"
   },
   {
     "Nose": "PROBLEM"
@@ -309,19 +300,25 @@
     "tonsillar lesions": "PROBLEM"
   },
   {
-    "Neck": "TEST"
+    "Neck": "PROBLEM"
   },
   {
     "thyromegaly": "PROBLEM"
   },
   {
-    "CHEST": "TEST"
+    "lungs": "PROBLEM"
   },
   {
-    "HEART": "PROBLEM"
+    "Rate": "TEST"
   },
   {
-    "S1 and S2": "TEST"
+    "rhythm": "TEST"
+  },
+  {
+    "S1": "TEST"
+  },
+  {
+    "S2": "TEST"
   },
   {
     "murmur": "PROBLEM"
@@ -330,7 +327,7 @@
     "gallop": "PROBLEM"
   },
   {
-    "ABDOMEN": "PROBLEM"
+    "Abdomen": "PROBLEM"
   },
   {
     "masses": "PROBLEM"
@@ -369,10 +366,7 @@
     "rashes": "PROBLEM"
   },
   {
-    "cranial nerve testing II through XII": "TEST"
-  },
-  {
-    "gait": "TEST"
+    "cranial nerve testing": "TEST"
   },
   {
     "motor": "TEST"
@@ -381,13 +375,16 @@
     "sensory": "TEST"
   },
   {
-    "random motion": "TEST"
+    "gait": "TEST"
+  },
+  {
+    "motion": "TEST"
   },
   {
     "metformin": "DRUG"
   },
   {
-    "As above": "PROBLEM"
+    "above": "PROBLEM"
   },
   {
     "PLAN": "TREATMENT"
@@ -408,7 +405,7 @@
     "UA": "TEST"
   },
   {
-    "Stool for C&S": "TEST"
+    "C&S": "TEST"
   },
   {
     "Gram stain": "TEST"
@@ -420,10 +417,10 @@
     "diarrhea": "PROBLEM"
   },
   {
-    "CT of the abdomen and pelvis": "TEST"
+    "CT": "TEST"
   },
   {
-    "2": "TEST"
+    "2": "TREATMENT"
   },
   {
     "medications": "DRUG"
@@ -432,22 +429,10 @@
     "diuretics": "DRUG"
   },
   {
-    "3": "PROBLEM"
+    "3": "TREATMENT"
   },
   {
     "months": "TEST"
-  },
-  {
-    "diabetes mellitus": "PROBLEM"
-  },
-  {
-    "hypertension": "PROBLEM"
-  },
-  {
-    "peripheral neuropathy": "PROBLEM"
-  },
-  {
-    "intermittent diarrhea": "PROBLEM"
   },
   {
     "fatigue": "PROBLEM"
@@ -459,6 +444,21 @@
     "loose bowel movements": "PROBLEM"
   },
   {
+    "diabetes mellitus": "PROBLEM"
+  },
+  {
     "weakness": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "peripheral neuropathy": "PROBLEM"
+  },
+  {
+    "intermittent diarrhea": "PROBLEM"
+  },
+  {
+    "symptoms": "PROBLEM"
   }
 ]

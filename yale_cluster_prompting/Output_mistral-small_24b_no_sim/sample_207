@@ -1,11 +1,5 @@
 [
   {
-    "Pediatrics": "TEST"
-  },
-  {
-    "Neonatal": "TEST"
-  },
-  {
     "wheezing": "PROBLEM"
   },
   {
@@ -15,7 +9,7 @@
     "shortness of breath": "PROBLEM"
   },
   {
-    "gestation": "PROBLEM"
+    "prematurity": "PROBLEM"
   },
   {
     "wheezing": "PROBLEM"
@@ -51,22 +45,13 @@
     "asthma": "PROBLEM"
   },
   {
-    "asthma": "PROBLEM"
+    "childhood asthma": "PROBLEM"
   },
   {
-    "hospitalization": "TREATMENT"
+    "hospitalization": "PROBLEM"
   },
   {
     "steroids": "DRUG"
-  },
-  {
-    "symptom": "PROBLEM"
-  },
-  {
-    "pediatrics": "PROBLEM"
-  },
-  {
-    "neonatal": "PROBLEM"
   },
   {
     "gestation": "PROBLEM"
@@ -75,13 +60,13 @@
     "bronchodilator": "DRUG"
   },
   {
-    "childhood": "PROBLEM"
-  },
-  {
     "childhood asthma": "PROBLEM"
   },
   {
     "cough": "PROBLEM"
+  },
+  {
+    "prematurity": "PROBLEM"
   },
   {
     "shortness of breath": "PROBLEM"

@@ -1,5 +1,8 @@
 [
   {
+    "Cardiac Catheterization - 5": "TEST"
+  },
+  {
     "Left heart catheterization": "TEST"
   },
   {
@@ -27,6 +30,12 @@
     "coronary atherosclerotic heart disease": "PROBLEM"
   },
   {
+    "coronary disease": "PROBLEM"
+  },
+  {
+    "coronary arteriogram": "TEST"
+  },
+  {
     "chest discomfort": "PROBLEM"
   },
   {
@@ -48,19 +57,19 @@
     "lidocaine": "DRUG"
   },
   {
+    "Coronary angiography": "TEST"
+  },
+  {
     "left ventricular measurement": "TEST"
   },
   {
     "angiography": "TEST"
   },
   {
-    "left ventricular pressures": "TEST"
-  },
-  {
     "left ventriculogram": "TEST"
   },
   {
-    "selective arteriography": "TEST"
+    "arteriography": "TEST"
   },
   {
     "atherosclerotic plaque": "PROBLEM"
@@ -75,7 +84,7 @@
     "hemostasis": "PROBLEM"
   },
   {
-    "Opening aortic pressure": "TEST"
+    "aortic pressure": "TEST"
   },
   {
     "left ventricular pressure": "TEST"
@@ -93,19 +102,10 @@
     "Mitral regurgitation": "PROBLEM"
   },
   {
-    "coronary artery": "PROBLEM"
-  },
-  {
     "atherosclerotic plaque": "PROBLEM"
   },
   {
-    "LAD": "PROBLEM"
-  },
-  {
-    "occluded": "PROBLEM"
-  },
-  {
-    "left circumflex": "PROBLEM"
+    "LAD was 100% occluded": "PROBLEM"
   },
   {
     "atherosclerotic plaque": "PROBLEM"
@@ -117,7 +117,7 @@
     "saphenous vein graft": "TREATMENT"
   },
   {
-    "stenosis": "PROBLEM"
+    "atherosclerotic plaque": "PROBLEM"
   },
   {
     "stenosis": "PROBLEM"
@@ -126,7 +126,25 @@
     "stenosis": "PROBLEM"
   },
   {
-    "occluded": "PROBLEM"
+    "stenosis": "PROBLEM"
+  },
+  {
+    "saphenous vein graft": "TREATMENT"
+  },
+  {
+    "saphenous vein graft": "TREATMENT"
+  },
+  {
+    "saphenous vein graft": "TREATMENT"
+  },
+  {
+    "saphenous vein graft": "TREATMENT"
+  },
+  {
+    "LAD": "PROBLEM"
+  },
+  {
+    "percutaneous intervention": "TREATMENT"
   },
   {
     "antihyperlipidemic": "DRUG"
@@ -135,57 +153,9 @@
     "antihypertensive": "DRUG"
   },
   {
-    "LDL": "TEST"
-  },
-  {
-    "triglyceride level": "TEST"
-  },
-  {
     "carotid duplex Doppler ultrasound": "TEST"
   },
   {
     "carotid bruits": "PROBLEM"
-  },
-  {
-    "catheterization": "TEST"
-  },
-  {
-    "vein graft": "TREATMENT"
-  },
-  {
-    "angiography": "TEST"
-  },
-  {
-    "angiogram": "TEST"
-  },
-  {
-    "angio-seal": "TREATMENT"
-  },
-  {
-    "closure device": "TREATMENT"
-  },
-  {
-    "coronary atherosclerotic heart disease": "PROBLEM"
-  },
-  {
-    "saphenous vein graft": "TREATMENT"
-  },
-  {
-    "ventricular pressure": "TEST"
-  },
-  {
-    "coronary artery": "PROBLEM"
-  },
-  {
-    "saphenous vein": "TREATMENT"
-  },
-  {
-    "atherosclerotic": "PROBLEM"
-  },
-  {
-    "coronary": "PROBLEM"
-  },
-  {
-    "artery": "PROBLEM"
   }
 ]

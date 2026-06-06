@@ -1,0 +1,434 @@
+[
+  {
+    "numbness": "PROBLEM"
+  },
+  {
+    "tingling": "PROBLEM"
+  },
+  {
+    "pain in the toes": "PROBLEM"
+  },
+  {
+    "several medical problems": "PROBLEM"
+  },
+  {
+    "numbness": "PROBLEM"
+  },
+  {
+    "tingling": "PROBLEM"
+  },
+  {
+    "pain in the toes primarily of her right foot described as a moderate pain": "PROBLEM"
+  },
+  {
+    "sharp quality pain": "PROBLEM"
+  },
+  {
+    "worsening": "PROBLEM"
+  },
+  {
+    "paraesthesias": "PROBLEM"
+  },
+  {
+    "worse": "PROBLEM"
+  },
+  {
+    "radiation of the pain up her leg": "PROBLEM"
+  },
+  {
+    "bilateral shoulder pains": "PROBLEM"
+  },
+  {
+    "hypothyroidism": "PROBLEM"
+  },
+  {
+    "thrombocythemia": "PROBLEM"
+  },
+  {
+    "insomnia": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "appendectomy": "PROBLEM"
+  },
+  {
+    "bladder obstruction surgery": "PROBLEM"
+  },
+  {
+    "gallbladder surgery": "PROBLEM"
+  },
+  {
+    "C-section": "PROBLEM"
+  },
+  {
+    "varicose vein surgery": "PROBLEM"
+  },
+  {
+    "thyroid gland surgery": "PROBLEM"
+  },
+  {
+    "hernia surgery": "PROBLEM"
+  },
+  {
+    "bilateral mastectomies": "PROBLEM"
+  },
+  {
+    "hysterectomy": "PROBLEM"
+  },
+  {
+    "right shoulder surgery": "PROBLEM"
+  },
+  {
+    "left shoulder surgery": "PROBLEM"
+  },
+  {
+    "laparoscopic bowel adhesion removal": "PROBLEM"
+  },
+  {
+    "Port-A-Cath": "TREATMENT"
+  },
+  {
+    "left total knee arthroplasty": "TREATMENT"
+  },
+  {
+    "left hip pinning": "TREATMENT"
+  },
+  {
+    "colonoscopies": "TEST"
+  },
+  {
+    "right total knee arthroplasty": "TREATMENT"
+  },
+  {
+    "synovitis of the left knee": "PROBLEM"
+  },
+  {
+    "zoster and infection of the left knee": "PROBLEM"
+  },
+  {
+    "labyrinthitis": "PROBLEM"
+  },
+  {
+    "Sulfa": "DRUG"
+  },
+  {
+    "aspirin": "DRUG"
+  },
+  {
+    "Darfvon": "DRUG"
+  },
+  {
+    "codeine": "DRUG"
+  },
+  {
+    "NSAID": "DRUG"
+  },
+  {
+    "amoxicillin": "DRUG"
+  },
+  {
+    "quinine": "DRUG"
+  },
+  {
+    "Hydroxyurea": "DRUG"
+  },
+  {
+    "Metamucil": "DRUG"
+  },
+  {
+    "amitriptyline": "DRUG"
+  },
+  {
+    "Synthroid": "DRUG"
+  },
+  {
+    "Ambien": "DRUG"
+  },
+  {
+    "triamterene/hydrochlorothiazide": "DRUG"
+  },
+  {
+    "Lortab": "DRUG"
+  },
+  {
+    "stroke": "PROBLEM"
+  },
+  {
+    "prostate cancer": "PROBLEM"
+  },
+  {
+    "heart disease": "PROBLEM"
+  },
+  {
+    "REVIEW OF SYSTEMS": "TEST"
+  },
+  {
+    "allergies": "PROBLEM"
+  },
+  {
+    "sneezing": "PROBLEM"
+  },
+  {
+    "sore throat": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "palpitations": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "dysuria or frequency": "PROBLEM"
+  },
+  {
+    "She empties okay.": "TEST"
+  },
+  {
+    "paresthesias to the toes of both feet": "PROBLEM"
+  },
+  {
+    "worse on the right": "PROBLEM"
+  },
+  {
+    "shoulder pain": "PROBLEM"
+  },
+  {
+    "insomnia": "PROBLEM"
+  },
+  {
+    "spot on her right cheek": "PROBLEM"
+  },
+  {
+    "hypothyroidism": "PROBLEM"
+  },
+  {
+    "essential thrombocythemia": "PROBLEM"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "elderly female": "PROBLEM"
+  },
+  {
+    "81": "PROBLEM"
+  },
+  {
+    "Temperature": "TEST"
+  },
+  {
+    "Blood pressure": "TEST"
+  },
+  {
+    "Pulse": "TEST"
+  },
+  {
+    "Weight": "TEST"
+  },
+  {
+    "Head was normocephalic": "PROBLEM"
+  },
+  {
+    "Pupils equal, round, and reactive to light": "TEST"
+  },
+  {
+    "Extraocular movements": "TEST"
+  },
+  {
+    "Fundi": "PROBLEM"
+  },
+  {
+    "TMs": "TEST"
+  },
+  {
+    "nares": "TEST"
+  },
+  {
+    "throat": "TEST"
+  },
+  {
+    "Supple": "PROBLEM"
+  },
+  {
+    "Lungs": "TEST"
+  },
+  {
+    "Heart: Regular rate and rhythm without murmur, click, or rub.": "TEST"
+  },
+  {
+    "carotid bruits": "PROBLEM"
+  },
+  {
+    "bowel sounds": "TEST"
+  },
+  {
+    "hepatosplenomegaly": "PROBLEM"
+  },
+  {
+    "Surgically absent": "PROBLEM"
+  },
+  {
+    "Port-A-Cath": "TREATMENT"
+  },
+  {
+    "axillary adenopathy": "PROBLEM"
+  },
+  {
+    "ankle edema": "PROBLEM"
+  },
+  {
+    "calf tenderness": "PROBLEM"
+  },
+  {
+    "cyst": "PROBLEM"
+  },
+  {
+    "Pedal pulses": "TEST"
+  },
+  {
+    "Cranial nerves II-XII": "PROBLEM"
+  },
+  {
+    "Deep tendon reflexes": "TEST"
+  },
+  {
+    "No focal neurologic deficits were observed": "TEST"
+  },
+  {
+    "BUS": "TEST"
+  },
+  {
+    "atrophic": "PROBLEM"
+  },
+  {
+    "Cervix was surgically absent.": "PROBLEM"
+  },
+  {
+    "Bimanual exam": "TEST"
+  },
+  {
+    "brown stool": "PROBLEM"
+  },
+  {
+    "actinic keratosis": "PROBLEM"
+  },
+  {
+    "Affect": "PROBLEM"
+  },
+  {
+    "Peripheral neuropathy primarily of the right foot.": "PROBLEM"
+  },
+  {
+    "Hypertension": "PROBLEM"
+  },
+  {
+    "Hypothyroidism": "PROBLEM"
+  },
+  {
+    "Essential thrombocythemia.": "PROBLEM"
+  },
+  {
+    "Allergic rhinitis": "PROBLEM"
+  },
+  {
+    "Insomnia": "PROBLEM"
+  },
+  {
+    "Neurontin": "DRUG"
+  },
+  {
+    "peripheral neuropathy": "PROBLEM"
+  },
+  {
+    "Anodyne physical therapy": "TREATMENT"
+  },
+  {
+    "peripheral neuropathy": "PROBLEM"
+  },
+  {
+    "essential thrombocythemia": "PROBLEM"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "essential thrombocythemia": "PROBLEM"
+  },
+  {
+    "sed rate": "TEST"
+  },
+  {
+    "peripheral neuropathy": "PROBLEM"
+  },
+  {
+    "ferritin": "TEST"
+  },
+  {
+    "Hemoccult cards": "TEST"
+  },
+  {
+    "DT immunization": "TEST"
+  },
+  {
+    "Ambien 5 mg": "DRUG"
+  },
+  {
+    "flu shot": "TEST"
+  },
+  {
+    "numbness": "PROBLEM"
+  },
+  {
+    "allergic rhinitis": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "hypothyroidism": "PROBLEM"
+  },
+  {
+    "insomnia": "PROBLEM"
+  },
+  {
+    "peripheral neuropathy": "PROBLEM"
+  },
+  {
+    "thrombocythemia": "PROBLEM"
+  },
+  {
+    "tingling": "PROBLEM"
+  },
+  {
+    "anodyne physical therapy": "TREATMENT"
+  },
+  {
+    "port a cath": "TEST"
+  },
+  {
+    "total knee arthroplasty": "PROBLEM"
+  },
+  {
+    "essential thrombocythemia": "PROBLEM"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "peripheral": "PROBLEM"
+  },
+  {
+    "neuropathy": "PROBLEM"
+  }
+]

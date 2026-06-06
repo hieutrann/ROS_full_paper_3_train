@@ -1,5 +1,8 @@
 [
   {
+    "Male Exam": "TEST"
+  },
+  {
     "vital signs": "TEST"
   },
   {
@@ -13,6 +16,9 @@
   },
   {
     "lesion": "PROBLEM"
+  },
+  {
+    "respiratory effort": "TEST"
   },
   {
     "Auscultation of the lung": "TEST"
@@ -36,16 +42,13 @@
     "enlarged liver": "PROBLEM"
   },
   {
-    "enlarged spleen": "PROBLEM"
+    "spleen": "PROBLEM"
   },
   {
     "Bowel sounds": "TEST"
   },
   {
     "discrete mass": "PROBLEM"
-  },
-  {
-    "lesion": "PROBLEM"
   },
   {
     "discharge": "PROBLEM"

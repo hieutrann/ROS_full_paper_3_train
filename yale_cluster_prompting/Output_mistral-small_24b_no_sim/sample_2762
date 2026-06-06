@@ -27,6 +27,9 @@
     "congestive heart failure": "PROBLEM"
   },
   {
+    "ADMISSION DIAGNOSES": "PROBLEM"
+  },
+  {
     "Seizure": "PROBLEM"
   },
   {
@@ -43,6 +46,9 @@
   },
   {
     "Edema": "PROBLEM"
+  },
+  {
+    "DISCHARGE DIAGNOSES": "PROBLEM"
   },
   {
     "Colon cancer": "PROBLEM"
@@ -64,6 +70,9 @@
   },
   {
     "Seizure disorder": "PROBLEM"
+  },
+  {
+    "PROCEDURES PERFORMED": "TREATMENT"
   },
   {
     "Colonoscopy": "TEST"
@@ -111,16 +120,13 @@
     "seizure disorder": "PROBLEM"
   },
   {
-    "Neurology": "TEST"
-  },
-  {
-    "CT": "TEST"
+    "Noncontrast CT of the head": "TEST"
   },
   {
     "Lamictal": "DRUG"
   },
   {
-    "intervention": "TREATMENT"
+    "200 mg b.i.d.": "DRUG"
   },
   {
     "hypoglycemia": "PROBLEM"
@@ -129,7 +135,7 @@
     "diabetic gastroparesis": "PROBLEM"
   },
   {
-    "J-tube": "TREATMENT"
+    "J-tube intermittent feedings": "TREATMENT"
   },
   {
     "insulin pump": "DRUG"
@@ -138,7 +144,7 @@
     "insulin pump": "DRUG"
   },
   {
-    "insulin pump": "DRUG"
+    "insulin pump": "TREATMENT"
   },
   {
     "hypoglycemia": "PROBLEM"
@@ -147,16 +153,10 @@
     "hyperglycemia": "PROBLEM"
   },
   {
-    "n.p.o.": "DRUG"
+    "tube feedings": "TREATMENT"
   },
   {
-    "insulin pump rate": "DRUG"
-  },
-  {
-    "3 units per hour": "DRUG"
-  },
-  {
-    "0.8 units per hour": "DRUG"
+    "insulin pump rate": "TREATMENT"
   },
   {
     "insulin": "DRUG"
@@ -168,7 +168,7 @@
     "anemia": "PROBLEM"
   },
   {
-    "gastroenterologists": "TREATMENT"
+    "gastroenterologists": "PROBLEM"
   },
   {
     "Hemoccult stools": "TEST"
@@ -180,13 +180,7 @@
     "mass": "PROBLEM"
   },
   {
-    "General Surgery": "TREATMENT"
-  },
-  {
     "right hemicolectomy": "TREATMENT"
-  },
-  {
-    "procedure": "TREATMENT"
   },
   {
     "tube feeds": "TREATMENT"
@@ -199,9 +193,6 @@
   },
   {
     "CT of the chest": "TEST"
-  },
-  {
-    "metastasis": "PROBLEM"
   },
   {
     "lung metastasis": "PROBLEM"
@@ -228,7 +219,7 @@
     "chest x-rays": "TEST"
   },
   {
-    "illness": "PROBLEM"
+    "Infectious Disease": "PROBLEM"
   },
   {
     "vancomycin": "DRUG"
@@ -237,13 +228,13 @@
     "MRSA": "PROBLEM"
   },
   {
-    "J-tube": "TEST"
+    "J-tube": "TREATMENT"
   },
   {
-    "p.o.": "DRUG"
+    "three additional days of p.o.": "TREATMENT"
   },
   {
-    "Levaquin": "DRUG"
+    "Levaquin 750 mg": "DRUG"
   },
   {
     "Bactrim DS": "DRUG"
@@ -255,7 +246,7 @@
     "MRSA": "PROBLEM"
   },
   {
-    "J-tube": "TEST"
+    "J-tube": "TREATMENT"
   },
   {
     "MRSA": "PROBLEM"
@@ -264,16 +255,10 @@
     "Bactrim": "DRUG"
   },
   {
-    "Coreg": "DRUG"
+    "Coreg 12.5 mg": "DRUG"
   },
   {
-    "12.5 mg": "DRUG"
-  },
-  {
-    "Lasix": "DRUG"
-  },
-  {
-    "40 mg": "DRUG"
+    "Lasix 40 mg": "DRUG"
   },
   {
     "congestive heart failure": "PROBLEM"
@@ -288,16 +273,16 @@
     "seizure disorder": "PROBLEM"
   },
   {
-    "strenuous activity": "PROBLEM"
+    "isotonic fiber feeding": "TREATMENT"
   },
   {
-    "diet": "TREATMENT"
+    "J-tube": "TREATMENT"
   },
   {
-    "Coreg": "DRUG"
+    "Coreg 12.5 mg p.o.": "DRUG"
   },
   {
-    "Lipitor": "DRUG"
+    "Lipitor 10 mg p.o.": "DRUG"
   },
   {
     "Nitro-Dur patch": "DRUG"
@@ -306,16 +291,16 @@
     "Phenergan syrup": "DRUG"
   },
   {
-    "Synthroid": "DRUG"
+    "Synthroid 0.175 mg p.o.": "DRUG"
   },
   {
-    "Zyrtec": "DRUG"
+    "Zyrtec 10 mg p.o.": "DRUG"
   },
   {
-    "Lamictal": "DRUG"
+    "Lamictal 100 mg p.o.": "DRUG"
   },
   {
-    "Lamictal": "DRUG"
+    "Lamictal 150 mg p.o.": "DRUG"
   },
   {
     "Ferrous sulfate drops": "DRUG"
@@ -324,7 +309,7 @@
     "PEG tube": "TREATMENT"
   },
   {
-    "Nexium": "DRUG"
+    "Nexium 40 mg p.o.": "DRUG"
   },
   {
     "Neurontin": "DRUG"
@@ -333,7 +318,7 @@
     "Lasix": "DRUG"
   },
   {
-    "Fentanyl": "DRUG"
+    "Fentanyl 50 mcg patch transdermal q.72h.": "DRUG"
   },
   {
     "Calcium and vitamin D combination": "DRUG"
@@ -342,25 +327,19 @@
     "calcium carbonate 500 mg/vitamin D 200 units one tab p.o.": "DRUG"
   },
   {
-    "Bactrim DS": "DRUG"
-  },
-  {
-    "800mg/160 mg": "DRUG"
-  },
-  {
-    "tablet": "DRUG"
-  },
-  {
-    "q.12h": "DRUG"
+    "Bactrim DS 800mg/160 mg tablet": "DRUG"
   },
   {
     "Levaquin": "DRUG"
   },
   {
-    "p.o.": "DRUG"
+    "medications": "DRUG"
   },
   {
-    "CBC": "TEST"
+    "Dr.": "DRUG"
+  },
+  {
+    "CBC with diff": "TEST"
   },
   {
     "CMP": "TEST"
@@ -369,10 +348,19 @@
     "colon cancer": "PROBLEM"
   },
   {
-    "lymph nodes": "PROBLEM"
+    "positive lymph nodes": "PROBLEM"
+  },
+  {
+    "endocrinologist": "PROBLEM"
+  },
+  {
+    "insulin pump": "TREATMENT"
   },
   {
     "J-tube": "TREATMENT"
+  },
+  {
+    "Stable": "PROBLEM"
   },
   {
     "seizure": "PROBLEM"

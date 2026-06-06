@@ -9,10 +9,13 @@
     "right shoulder pain": "PROBLEM"
   },
   {
-    "right neck and shoulder stiffness": "PROBLEM"
+    "C5-6 disk herniation": "PROBLEM"
   },
   {
-    "pain": "PROBLEM"
+    "Right shoulder pain": "PROBLEM"
+  },
+  {
+    "right neck and shoulder stiffness and pain": "PROBLEM"
   },
   {
     "numbness in the first and second fingers of her right hand": "PROBLEM"
@@ -42,6 +45,9 @@
     "Catamenial Headaches": "PROBLEM"
   },
   {
+    "Allergy to Macrodantin": "PROBLEM"
+  },
+  {
     "Macrodantin": "DRUG"
   },
   {
@@ -57,6 +63,9 @@
     "C-spine lesion": "PROBLEM"
   },
   {
+    "MRI C-spine": "TEST"
+  },
+  {
     "central C5-6 disk herniation": "PROBLEM"
   },
   {
@@ -64,6 +73,9 @@
   },
   {
     "EMG/NCV": "TEST"
+  },
+  {
+    "NCV": "TEST"
   },
   {
     "1+ sharps and fibrillations in the right biceps (C5-6), brachioradialis (C5-6), triceps (C7-8) and teres major": "PROBLEM"
@@ -79,5 +91,23 @@
   },
   {
     "C5-6 laminectomy": "TREATMENT"
+  },
+  {
+    "shoulder pain": "PROBLEM"
+  },
+  {
+    "stiffness": "PROBLEM"
+  },
+  {
+    "numbness": "PROBLEM"
+  },
+  {
+    "lhermitte's phenomena": "PROBLEM"
+  },
+  {
+    "c-spine lesion": "PROBLEM"
+  },
+  {
+    "disk herniation": "PROBLEM"
   }
 ]

@@ -9,9 +9,6 @@
     "Depression": "PROBLEM"
   },
   {
-    "High risk behavior": "PROBLEM"
-  },
-  {
     "depressed": "PROBLEM"
   },
   {
@@ -66,9 +63,6 @@
     "strange feelings and sensations": "PROBLEM"
   },
   {
-    "relapse": "PROBLEM"
-  },
-  {
     "sleep-deprived EEG": "TEST"
   },
   {
@@ -76,9 +70,6 @@
   },
   {
     "psychiatric treatment": "TREATMENT"
-  },
-  {
-    "basic blood work": "TEST"
   },
   {
     "basic metabolic panel": "TEST"
@@ -123,34 +114,13 @@
     "Hematocrit": "TEST"
   },
   {
-    "low": "PROBLEM"
-  },
-  {
     "absolute monocytes": "TEST"
-  },
-  {
-    "high": "PROBLEM"
-  },
-  {
-    "lab results": "TEST"
   },
   {
     "Major depression": "PROBLEM"
   },
   {
     "psychotic features": "PROBLEM"
-  },
-  {
-    "Psychosocial stressors": "PROBLEM"
-  },
-  {
-    "GAF": "TEST"
-  },
-  {
-    "suicidal ideas": "PROBLEM"
-  },
-  {
-    "homicidal ideas": "PROBLEM"
   },
   {
     "perception disturbances": "PROBLEM"
@@ -160,12 +130,6 @@
   },
   {
     "RTC (Residential Treatment Center) program": "TREATMENT"
-  },
-  {
-    "lab results": "TEST"
-  },
-  {
-    "medical conditions": "PROBLEM"
   },
   {
     "Seroquel": "DRUG"
@@ -195,16 +159,10 @@
     "anxiety": "PROBLEM"
   },
   {
-    "16 pills": "DRUG"
-  },
-  {
     "galactorrhea": "PROBLEM"
   },
   {
     "galactorrhea": "PROBLEM"
-  },
-  {
-    "lactation": "PROBLEM"
   },
   {
     "Risperdal": "DRUG"

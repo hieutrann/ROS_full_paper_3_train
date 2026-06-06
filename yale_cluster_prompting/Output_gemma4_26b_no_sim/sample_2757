@@ -1,12 +1,9 @@
 [
   {
-    "Ant Bait Exposure": "PROBLEM"
+    "ant bait exposure": "PROBLEM"
   },
   {
     "vomiting": "PROBLEM"
-  },
-  {
-    "exposure to ant bait": "PROBLEM"
   },
   {
     "Borax": "DRUG"
@@ -21,16 +18,10 @@
     "vomiting": "PROBLEM"
   },
   {
-    "VITAL SIGNS": "TEST"
-  },
-  {
     "pulse oximetry": "TEST"
   },
   {
     "nontoxic ingestion": "PROBLEM"
-  },
-  {
-    "Exposure to ant bait": "PROBLEM"
   },
   {
     "vomiting": "PROBLEM"

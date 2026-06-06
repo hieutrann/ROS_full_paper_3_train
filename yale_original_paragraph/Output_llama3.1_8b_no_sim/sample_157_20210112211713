@@ -18,7 +18,7 @@
     "anxiety": "PROBLEM"
   },
   {
-    "history of hypertension": "PROBLEM"
+    "hypertension": "PROBLEM"
   },
   {
     "abnormal electrocardiogram": "PROBLEM"
@@ -60,9 +60,1797 @@
     "NPO": "TREATMENT"
   },
   {
-    "hold p.o. medications": "TREATMENT"
+    "IV fluids": "TREATMENT"
   },
   {
-    "check blood and urine cultures": "TREATMENT"
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
   }
 ]

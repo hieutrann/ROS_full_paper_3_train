@@ -39,7 +39,7 @@
     "swelling": "PROBLEM"
   },
   {
-    "headaches in the back of her head": "PROBLEM"
+    "headaches": "PROBLEM"
   },
   {
     "Type II diabetes mellitus": "PROBLEM"
@@ -51,7 +51,7 @@
     "Hypertension": "PROBLEM"
   },
   {
-    "Peripheral neuropathy with atypical symptoms": "PROBLEM"
+    "Peripheral neuropathy": "PROBLEM"
   },
   {
     "Hypothyroidism": "PROBLEM"
@@ -63,7 +63,7 @@
     "Abdominal pain": "PROBLEM"
   },
   {
-    "nonspecific irritable bowel type symptoms": "PROBLEM"
+    "irritable bowel type symptoms": "PROBLEM"
   },
   {
     "intermittent diarrhea": "PROBLEM"
@@ -226,6 +226,9 @@
   },
   {
     "rashes": "PROBLEM"
+  },
+  {
+    "cranial nerve testing": "TEST"
   },
   {
     "metformin": "DRUG"

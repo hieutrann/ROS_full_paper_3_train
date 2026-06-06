@@ -1,15 +1,21 @@
 [
   {
-    "severe nausea": "PROBLEM"
+    "umbilical hernia": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
   },
   {
     "abdominal pain": "PROBLEM"
   },
   {
-    "incarcerated umbilical hernia": "PROBLEM"
+    "hemorrhoidectomy": "PROBLEM"
   },
   {
-    "hemorrhoidectomy": "TREATMENT"
+    "depression": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
   },
   {
     "Ziac": "DRUG"
@@ -42,12 +48,12 @@
     "platelet count": "TEST"
   },
   {
-    "sinus rhythm": "TEST"
+    "physical therapy": "TREATMENT"
   },
   {
-    "prolonged QT": "TEST"
+    "repair": "TREATMENT"
   },
   {
-    "umbilical hernia repair": "TREATMENT"
+    "mesh": "TREATMENT"
   }
 ]

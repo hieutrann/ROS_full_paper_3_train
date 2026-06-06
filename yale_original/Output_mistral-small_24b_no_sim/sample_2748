@@ -21,10 +21,13 @@
     "jaw": "PROBLEM"
   },
   {
-    "ear": "PROBLEM"
+    "left ear": "PROBLEM"
   },
   {
     "toothache": "PROBLEM"
+  },
+  {
+    "dental appointments": "TEST"
   },
   {
     "facial swelling": "PROBLEM"
@@ -37,9 +40,6 @@
   },
   {
     "sore throat": "PROBLEM"
-  },
-  {
-    "swallowing": "PROBLEM"
   },
   {
     "neck pain": "PROBLEM"
@@ -84,10 +84,10 @@
     "sinus congestion": "PROBLEM"
   },
   {
-    "pressure": "PROBLEM"
+    "sinus pressure": "PROBLEM"
   },
   {
-    "pain": "PROBLEM"
+    "sinus pain": "PROBLEM"
   },
   {
     "sore throat": "PROBLEM"
@@ -97,9 +97,6 @@
   },
   {
     "toothache": "PROBLEM"
-  },
-  {
-    "left ear": "PROBLEM"
   },
   {
     "ear pain": "PROBLEM"
@@ -141,10 +138,10 @@
     "hearing": "PROBLEM"
   },
   {
-    "speech change": "PROBLEM"
+    "lymph node swelling": "PROBLEM"
   },
   {
-    "lymph node swelling": "PROBLEM"
+    "ALLERGIES": "PROBLEM"
   },
   {
     "marijuana": "DRUG"
@@ -165,31 +162,31 @@
     "oxygen saturation": "TEST"
   },
   {
-    "Head": "TEST"
+    "distress": "PROBLEM"
   },
   {
-    "Eyes": "PROBLEM"
+    "Head": "PROBLEM"
   },
   {
-    "cornea": "PROBLEM"
+    "Eyes": "TEST"
   },
   {
-    "conjunctivae": "PROBLEM"
+    "rhinorrhea": "PROBLEM"
   },
   {
-    "Nose": "TEST"
+    "congestion": "PROBLEM"
   },
   {
     "sinuses": "PROBLEM"
+  },
+  {
+    "infection": "PROBLEM"
   },
   {
     "erythema": "PROBLEM"
   },
   {
     "swelling": "PROBLEM"
-  },
-  {
-    "Tympanic membranes": "TEST"
   },
   {
     "erythema": "PROBLEM"
@@ -210,6 +207,9 @@
     "fracture": "PROBLEM"
   },
   {
+    "dental caries": "PROBLEM"
+  },
+  {
     "erythema": "PROBLEM"
   },
   {
@@ -219,10 +219,13 @@
     "infection": "PROBLEM"
   },
   {
+    "abscess": "PROBLEM"
+  },
+  {
     "tooth #18": "PROBLEM"
   },
   {
-    "oropharynx": "PROBLEM"
+    "infection": "PROBLEM"
   },
   {
     "erythema": "PROBLEM"
@@ -237,19 +240,16 @@
     "swelling": "PROBLEM"
   },
   {
+    "mucous membranes": "PROBLEM"
+  },
+  {
     "tenderness": "PROBLEM"
   },
   {
     "swelling": "PROBLEM"
   },
   {
-    "pre or post auricular lymphadenopathy": "PROBLEM"
-  },
-  {
-    "NECK": "TEST"
-  },
-  {
-    "meningismus": "PROBLEM"
+    "lymphadenopathy": "PROBLEM"
   },
   {
     "cervical lymphadenopathy": "PROBLEM"
@@ -258,19 +258,16 @@
     "JVD": "PROBLEM"
   },
   {
-    "carotid artery": "TEST"
+    "carotid artery": "PROBLEM"
   },
   {
-    "vertebral artery": "TEST"
-  },
-  {
-    "bruits": "PROBLEM"
+    "vertebral artery": "PROBLEM"
   },
   {
     "Heart": "PROBLEM"
   },
   {
-    "auscultation": "TEST"
+    "RESPIRATIONS": "TEST"
   },
   {
     "shortness of breath": "PROBLEM"
@@ -279,19 +276,46 @@
     "Abdomen": "TEST"
   },
   {
+    "back": "PROBLEM"
+  },
+  {
+    "arms": "PROBLEM"
+  },
+  {
+    "legs": "PROBLEM"
+  },
+  {
     "rashes": "PROBLEM"
   },
   {
     "lesions": "PROBLEM"
   },
   {
-    "Cranial nerves II through XII": "TEST"
+    "Cranial nerves": "TEST"
   },
   {
-    "alert and oriented x4": "TEST"
+    "speech": "TEST"
+  },
+  {
+    "ambulation": "TEST"
+  },
+  {
+    "alert": "PROBLEM"
+  },
+  {
+    "oriented": "PROBLEM"
+  },
+  {
+    "mood": "PROBLEM"
+  },
+  {
+    "affect": "PROBLEM"
   },
   {
     "lymphadenitis": "PROBLEM"
+  },
+  {
+    "DIAGNOSES": "TEST"
   },
   {
     "ACUTE LEFT JAW PAIN": "PROBLEM"
@@ -306,7 +330,16 @@
     "ELEVATED BLOOD PRESSURE": "PROBLEM"
   },
   {
+    "Stable": "PROBLEM"
+  },
+  {
+    "dentist": "TREATMENT"
+  },
+  {
     "Motrin": "DRUG"
+  },
+  {
+    "pain": "PROBLEM"
   },
   {
     "Vicodin": "DRUG"
@@ -318,16 +351,28 @@
     "drowsiness": "PROBLEM"
   },
   {
+    "driving": "PROBLEM"
+  },
+  {
+    "medication": "DRUG"
+  },
+  {
     "pen V": "DRUG"
   },
   {
     "toothache": "PROBLEM"
   },
   {
-    "emergency room": "TEST"
+    "jaw pain": "PROBLEM"
   },
   {
-    "jaw pain": "PROBLEM"
+    "dental appointment": "TREATMENT"
+  },
+  {
+    "ellis type ii fracture": "PROBLEM"
+  },
+  {
+    "ellis type": "PROBLEM"
   },
   {
     "dental fracture": "PROBLEM"

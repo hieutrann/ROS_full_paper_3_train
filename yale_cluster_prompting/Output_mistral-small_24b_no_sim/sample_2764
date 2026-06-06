@@ -1,6 +1,6 @@
 [
   {
-    "pneumonia": "PROBLEM"
+    "Atypical pneumonia": "PROBLEM"
   },
   {
     "hypoxia": "PROBLEM"
@@ -9,7 +9,7 @@
     "rheumatoid arthritis": "PROBLEM"
   },
   {
-    "adrenal insufficiency": "PROBLEM"
+    "mild stress-induced adrenal insufficiency": "PROBLEM"
   },
   {
     "cough": "PROBLEM"
@@ -22,6 +22,9 @@
   },
   {
     "chills": "PROBLEM"
+  },
+  {
+    "ADMISSION DIAGNOSES": "PROBLEM"
   },
   {
     "Pneumonia": "PROBLEM"
@@ -36,6 +39,9 @@
     "Rheumatoid arthritis": "PROBLEM"
   },
   {
+    "DISCHARGE DIAGNOSES": "PROBLEM"
+  },
+  {
     "Atypical pneumonia": "PROBLEM"
   },
   {
@@ -48,7 +54,7 @@
     "Rheumatoid arthritis": "PROBLEM"
   },
   {
-    "adrenal insufficiency": "PROBLEM"
+    "mild stress-induced adrenal insufficiency": "PROBLEM"
   },
   {
     "cough": "PROBLEM"
@@ -63,10 +69,7 @@
     "chills": "PROBLEM"
   },
   {
-    "x-ray": "TEST"
-  },
-  {
-    "infiltrates": "PROBLEM"
+    "mild diffuse patchy infiltrates": "PROBLEM"
   },
   {
     "Avelox": "DRUG"
@@ -90,10 +93,10 @@
     "pneumonia": "PROBLEM"
   },
   {
-    "outpatient treatment": "TREATMENT"
+    "rheumatoid arthritis": "PROBLEM"
   },
   {
-    "rheumatoid arthritis": "PROBLEM"
+    "20 mg of methotrexate": "DRUG"
   },
   {
     "methotrexate": "DRUG"
@@ -108,6 +111,9 @@
     "CT scan": "TEST"
   },
   {
+    "pulmonologist": "TREATMENT"
+  },
+  {
     "viral etiology": "PROBLEM"
   },
   {
@@ -117,7 +123,7 @@
     "C. difficile toxin": "TEST"
   },
   {
-    "Rocephin": "DRUG"
+    "Rocephin IV": "DRUG"
   },
   {
     "azithromycin": "DRUG"
@@ -129,13 +135,10 @@
     "O2 saturations": "TEST"
   },
   {
-    "strength": "PROBLEM"
-  },
-  {
-    "clinical status": "PROBLEM"
-  },
-  {
     "azithromycin": "DRUG"
+  },
+  {
+    "two pills": "DRUG"
   },
   {
     "prednisone": "DRUG"
@@ -162,7 +165,7 @@
     "pneumonitis": "PROBLEM"
   },
   {
-    "discharge summary": "TEST"
+    "discharge summary": "PROBLEM"
   },
   {
     "adrenal insufficiency": "PROBLEM"
@@ -192,12 +195,12 @@
     "rheumatoid arthritis": "PROBLEM"
   },
   {
+    "azithromycin": "DRUG"
+  },
+  {
     "arthritis": "PROBLEM"
   },
   {
     "pneumonia": "PROBLEM"
-  },
-  {
-    "azithromycin": "DRUG"
   }
 ]

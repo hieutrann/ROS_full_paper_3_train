@@ -3,7 +3,7 @@
     "pneumonia": "PROBLEM"
   },
   {
-    "blood count": "TEST"
+    "positive blood count": "TEST"
   },
   {
     "vomiting": "PROBLEM"
@@ -15,16 +15,16 @@
     "pneumonia": "PROBLEM"
   },
   {
-    "blood count": "TEST"
+    "positive blood count": "TEST"
   },
   {
-    "IV antibiotics": "DRUG"
+    "IV antibiotics": "TREATMENT"
   },
   {
     "antibiotics": "DRUG"
   },
   {
-    "temperature of 102": "TEST"
+    "temperature of 102": "PROBLEM"
   },
   {
     "strep": "PROBLEM"
@@ -39,22 +39,16 @@
     "seizure": "PROBLEM"
   },
   {
-    "Temperature": "TEST"
+    "Temperature": "PROBLEM"
   },
   {
     "lethargic": "PROBLEM"
   },
   {
-    "LP": "TEST"
+    "an LP": "TEST"
   },
   {
     "blood cultures": "TEST"
-  },
-  {
-    "CSF": "TEST"
-  },
-  {
-    "PHYSICAL EXAMINATION": "TEST"
   },
   {
     "anesthesia": "TREATMENT"
@@ -69,7 +63,7 @@
     "protein": "TEST"
   },
   {
-    "cells": "TEST"
+    "cells": "PROBLEM"
   },
   {
     "Gram-stain": "TEST"

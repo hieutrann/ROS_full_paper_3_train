@@ -36,10 +36,7 @@
     "povidone iodine": "DRUG"
   },
   {
-    "lidocaine": "DRUG"
-  },
-  {
-    "incision": "TREATMENT"
+    "2% lidocaine": "DRUG"
   },
   {
     "histologic study": "TEST"
@@ -61,5 +58,23 @@
   },
   {
     "hepatitis A and B vaccines": "DRUG"
+  },
+  {
+    "surgery": "TREATMENT"
+  },
+  {
+    "bile peritonitis": "PROBLEM"
+  },
+  {
+    "bowel perforation": "PROBLEM"
+  },
+  {
+    "pneumothorax": "PROBLEM"
+  },
+  {
+    "lidocaine": "DRUG"
+  },
+  {
+    "biopsy": "TEST"
   }
 ]

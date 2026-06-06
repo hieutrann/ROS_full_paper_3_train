@@ -6,6 +6,12 @@
     "abdominal surgery": "TREATMENT"
   },
   {
+    "left-sided chest pain": "PROBLEM"
+  },
+  {
+    "abdominal surgery": "TREATMENT"
+  },
+  {
     "laparoscopic appendicectomy": "TREATMENT"
   },
   {
@@ -69,10 +75,13 @@
     "reproducible tenderness": "PROBLEM"
   },
   {
+    "heart sounds": "TEST"
+  },
+  {
     "murmurs": "PROBLEM"
   },
   {
-    "Slightly distended": "PROBLEM"
+    "Bowel sounds": "TEST"
   },
   {
     "pedal swelling": "PROBLEM"
@@ -102,9 +111,6 @@
     "Ruptured appendicitis": "PROBLEM"
   },
   {
-    "surgery": "TREATMENT"
-  },
-  {
     "Left-sided chest pain": "PROBLEM"
   },
   {
@@ -127,29 +133,5 @@
   },
   {
     "Leukocytosis": "PROBLEM"
-  },
-  {
-    "ruptured appendicitis": "PROBLEM"
-  },
-  {
-    "chest pain": "PROBLEM"
-  },
-  {
-    "fluid retention": "PROBLEM"
-  },
-  {
-    "paralytic ileus": "PROBLEM"
-  },
-  {
-    "leukocytosis": "PROBLEM"
-  },
-  {
-    "abdominal surgery": "TREATMENT"
-  },
-  {
-    "laparoscopic appendicectomy": "TREATMENT"
-  },
-  {
-    "surgery": "TREATMENT"
   }
 ]

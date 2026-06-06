@@ -1,8 +1,5 @@
 [
   {
-    "Kawasaki Disease": "PROBLEM"
-  },
-  {
     "Kawasaki": "PROBLEM"
   },
   {
@@ -108,13 +105,10 @@
     "redness of mucous membranes": "PROBLEM"
   },
   {
-    "cardiac followup": "TREATMENT"
-  },
-  {
     "Aspirin": "DRUG"
   },
   {
-    "aspirin": "DRUG"
+    "aspirin low dose 40 mg": "DRUG"
   },
   {
     "Prevacid": "DRUG"

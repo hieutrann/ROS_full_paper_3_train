@@ -1,12 +1,12 @@
 [
   {
-    "General Medicine": "TEST"
+    "General Medicine": "TREATMENT"
   },
   {
     "Normal ROS Template": "TEST"
   },
   {
-    "Normal review of systems template": "TEST"
+    "review of systems": "TEST"
   },
   {
     "fever": "PROBLEM"
@@ -39,31 +39,19 @@
     "weight loss": "PROBLEM"
   },
   {
-    "pain": "PROBLEM"
+    "glasses": "TREATMENT"
   },
   {
-    "redness": "PROBLEM"
+    "Ears": "PROBLEM"
   },
   {
-    "loss of vision": "PROBLEM"
+    "nose": "PROBLEM"
   },
   {
-    "double or blurred vision": "PROBLEM"
+    "mouth": "PROBLEM"
   },
   {
-    "flashing lights or spots": "PROBLEM"
-  },
-  {
-    "dryness": "PROBLEM"
-  },
-  {
-    "feeling that something is in the eye": "PROBLEM"
-  },
-  {
-    "wearing glasses": "TREATMENT"
-  },
-  {
-    "Ears, nose, mouth and throat": "PROBLEM"
+    "throat": "PROBLEM"
   },
   {
     "ringing in the ears": "PROBLEM"
@@ -114,7 +102,7 @@
     "hoarseness": "PROBLEM"
   },
   {
-    "sore throats": "PROBLEM"
+    "constant feeling of a need to clear the throat when nothing is there": "PROBLEM"
   },
   {
     "waking up with acid or bitter fluid in the mouth or throat": "PROBLEM"
@@ -132,9 +120,6 @@
     "irregular heartbeats": "PROBLEM"
   },
   {
-    "sudden changes in heartbeat": "PROBLEM"
-  },
-  {
     "palpitation": "PROBLEM"
   },
   {
@@ -144,10 +129,7 @@
     "difficulty breathing at night": "PROBLEM"
   },
   {
-    "swollen legs": "PROBLEM"
-  },
-  {
-    "swollen feet": "PROBLEM"
+    "swollen legs or feet": "PROBLEM"
   },
   {
     "heart murmurs": "PROBLEM"
@@ -159,10 +141,7 @@
     "cramps in his legs with walking": "PROBLEM"
   },
   {
-    "pain in his feet": "PROBLEM"
-  },
-  {
-    "pain in his toes": "PROBLEM"
+    "pain in his feet or toes at night": "PROBLEM"
   },
   {
     "varicose veins": "PROBLEM"
@@ -240,34 +219,13 @@
     "hemorrhoids": "PROBLEM"
   },
   {
-    "difficult urination": "PROBLEM"
-  },
-  {
-    "pain or burning with urination": "PROBLEM"
-  },
-  {
-    "blood in the urine": "PROBLEM"
-  },
-  {
-    "cloudy or smoky urine": "PROBLEM"
-  },
-  {
-    "frequent need to urinate": "PROBLEM"
-  },
-  {
-    "urgency": "PROBLEM"
-  },
-  {
-    "needing to urinate frequently at night": "PROBLEM"
-  },
-  {
-    "inability to hold the urine": "PROBLEM"
-  },
-  {
-    "discharge from the penis": "PROBLEM"
-  },
-  {
     "kidney stones": "PROBLEM"
+  },
+  {
+    "impotence": "PROBLEM"
+  },
+  {
+    "prostate trouble": "PROBLEM"
   },
   {
     "rash or ulcers": "PROBLEM"
@@ -276,22 +234,10 @@
     "sexual difficulties": "PROBLEM"
   },
   {
-    "impotence or prostate trouble": "PROBLEM"
-  },
-  {
     "sexually transmitted diseases": "PROBLEM"
   },
   {
-    "arm cramps": "PROBLEM"
-  },
-  {
-    "buttock cramps": "PROBLEM"
-  },
-  {
-    "thigh cramps": "PROBLEM"
-  },
-  {
-    "calf cramps": "PROBLEM"
+    "cramps": "PROBLEM"
   },
   {
     "joint pain": "PROBLEM"
@@ -327,12 +273,6 @@
     "nipple discharge": "PROBLEM"
   },
   {
-    "skin redness": "PROBLEM"
-  },
-  {
-    "skin rash": "PROBLEM"
-  },
-  {
     "hives": "PROBLEM"
   },
   {
@@ -349,9 +289,6 @@
   },
   {
     "color changes in the hands or feet with cold": "PROBLEM"
-  },
-  {
-    "easy bruising": "PROBLEM"
   },
   {
     "headache": "PROBLEM"
@@ -372,7 +309,10 @@
     "sensitivity": "PROBLEM"
   },
   {
-    "pain in the hands and feet": "PROBLEM"
+    "pain in the hands": "PROBLEM"
+  },
+  {
+    "pain in the feet": "PROBLEM"
   },
   {
     "memory loss": "PROBLEM"
@@ -388,9 +328,6 @@
   },
   {
     "?": "PROBLEM"
-  },
-  {
-    "head": "PROBLEM"
   },
   {
     "?": "PROBLEM"
@@ -444,37 +381,10 @@
     "latex sensitivity": "PROBLEM"
   },
   {
-    "general medicine": "PROBLEM"
-  },
-  {
-    "cardiovascular": "PROBLEM"
-  },
-  {
-    "ears": "PROBLEM"
-  },
-  {
-    "eyes": "PROBLEM"
-  },
-  {
-    "gastrointestinal": "PROBLEM"
-  },
-  {
-    "head": "PROBLEM"
-  },
-  {
-    "nose": "PROBLEM"
-  },
-  {
-    "respiratory": "PROBLEM"
-  },
-  {
-    "review of systems": "TEST"
-  },
-  {
     "fever": "PROBLEM"
   },
   {
-    "blood": "TEST"
+    "blood": "PROBLEM"
   },
   {
     "tongue": "PROBLEM"

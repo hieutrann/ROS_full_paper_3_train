@@ -1,6 +1,6 @@
 [
   {
-    "Diabetes Mellitus": "PROBLEM"
+    "diabetic control": "PROBLEM"
   },
   {
     "low blood glucoses": "PROBLEM"
@@ -12,18 +12,24 @@
     "Humalog insulin": "DRUG"
   },
   {
-    "glucoses": "TEST"
-  },
-  {
-    "Diabetes": "PROBLEM"
+    "diabetes": "PROBLEM"
   },
   {
     "mellitus": "PROBLEM"
   },
   {
-    "sliding scale": "TREATMENT"
+    "glucoses": "PROBLEM"
   },
   {
     "insulin prior to meals": "TREATMENT"
+  },
+  {
+    "sliding scale": "TREATMENT"
+  },
+  {
+    "Lantus": "DRUG"
+  },
+  {
+    "Humalog": "DRUG"
   }
 ]

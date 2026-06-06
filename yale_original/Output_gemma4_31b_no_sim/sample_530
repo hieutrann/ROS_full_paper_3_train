@@ -24,9 +24,6 @@
     "pain": "PROBLEM"
   },
   {
-    "symptoms": "PROBLEM"
-  },
-  {
     "numbness": "PROBLEM"
   },
   {
@@ -36,16 +33,13 @@
     "throbbing pain": "PROBLEM"
   },
   {
-    "numbness in both lower extremities": "PROBLEM"
+    "numbness": "PROBLEM"
   },
   {
-    "pain in the coccygeal region": "PROBLEM"
+    "pain": "PROBLEM"
   },
   {
     "pains": "PROBLEM"
-  },
-  {
-    "impaired sleep": "PROBLEM"
   },
   {
     "visual change": "PROBLEM"
@@ -78,22 +72,19 @@
     "Vital signs": "TEST"
   },
   {
-    "CN": "TEST"
+    "LT": "TEST"
   },
   {
-    "Motor": "TEST"
+    "PP": "TEST"
   },
   {
-    "tone": "TEST"
+    "VIB": "TEST"
   },
   {
-    "muscle bulk": "TEST"
+    "TEMP": "TEST"
   },
   {
-    "LT/PP/VIB/TEMP/PROP testing": "TEST"
-  },
-  {
-    "Coord/Gait/Station": "TEST"
+    "PROP testing": "TEST"
   },
   {
     "Reflexes": "TEST"
@@ -126,10 +117,16 @@
     "NCV": "TEST"
   },
   {
-    "sharps and fibrillations": "PROBLEM"
+    "sharps": "PROBLEM"
   },
   {
-    "sharps and fibrillations": "PROBLEM"
+    "fibrillations": "PROBLEM"
+  },
+  {
+    "sharps": "PROBLEM"
+  },
+  {
+    "fibrillations": "PROBLEM"
   },
   {
     "increased insertional activity": "PROBLEM"
@@ -166,6 +163,9 @@
   },
   {
     "reflexes": "TEST"
+  },
+  {
+    "biceps": "TEST"
   },
   {
     "mri": "TEST"

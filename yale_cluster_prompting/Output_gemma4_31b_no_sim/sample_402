@@ -81,16 +81,19 @@
     "erythematous plaques": "PROBLEM"
   },
   {
-    "mild lichenification": "PROBLEM"
+    "lichenification": "PROBLEM"
+  },
+  {
+    "PERRLA": "TEST"
   },
   {
     "effusion": "PROBLEM"
   },
   {
-    "Nasal mucosa": "PROBLEM"
+    "Right TM": "TEST"
   },
   {
-    "Nonerythematous": "PROBLEM"
+    "discharge": "PROBLEM"
   },
   {
     "tonsillar hypertrophy": "PROBLEM"
@@ -105,10 +108,7 @@
     "thyromegaly": "PROBLEM"
   },
   {
-    "Respirations": "TEST"
-  },
-  {
-    "rate": "TEST"
+    "Regular rate and rhythm": "TEST"
   },
   {
     "Serous otitis": "PROBLEM"
@@ -123,7 +123,7 @@
     "Duraphen II": "DRUG"
   },
   {
-    "Cutivate cream 0.05%": "DRUG"
+    "Cutivate cream": "DRUG"
   },
   {
     "left otalgia": "PROBLEM"
@@ -138,13 +138,7 @@
     "atopic dermatitis": "PROBLEM"
   },
   {
-    "serous": "PROBLEM"
-  },
-  {
     "otitis": "PROBLEM"
-  },
-  {
-    "atopic": "PROBLEM"
   },
   {
     "dermatitis": "PROBLEM"

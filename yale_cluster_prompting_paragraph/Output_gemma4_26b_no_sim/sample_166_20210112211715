@@ -66,9 +66,6 @@
     "cardiac ablation": "TREATMENT"
   },
   {
-    "left knee surgery": "TREATMENT"
-  },
-  {
     "removal of half the pancreas": "TREATMENT"
   },
   {
@@ -81,7 +78,7 @@
     "Elavil": "DRUG"
   },
   {
-    "nitroglycerin sublingual": "DRUG"
+    "nitroglycerin": "DRUG"
   },
   {
     "Thorazine": "DRUG"
@@ -102,19 +99,13 @@
     "drug abuse": "PROBLEM"
   },
   {
-    "VITAL SIGNS": "TEST"
-  },
-  {
-    "blood pressure": "TEST"
-  },
-  {
-    "heart rate": "TEST"
-  },
-  {
-    "respiratory rate": "TEST"
+    "carotid bruits": "TEST"
   },
   {
     "lymphadenopathy": "PROBLEM"
+  },
+  {
+    "Bowel sounds": "TEST"
   },
   {
     "WBC count": "TEST"
@@ -184,9 +175,6 @@
   },
   {
     "unstable angina": "PROBLEM"
-  },
-  {
-    "early pregnancy": "PROBLEM"
   },
   {
     "pregnancy": "PROBLEM"

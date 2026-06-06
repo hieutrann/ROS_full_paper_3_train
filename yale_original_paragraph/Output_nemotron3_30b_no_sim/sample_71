@@ -1,0 +1,44 @@
+[
+  {
+    "diabetes mellitus": "PROBLEM"
+  },
+  {
+    "hypercholesterolemia": "PROBLEM"
+  },
+  {
+    "sinusitis": "PROBLEM"
+  },
+  {
+    "Accu-Cheks": "TEST"
+  },
+  {
+    "sinus congestion": "PROBLEM"
+  },
+  {
+    "sinus drainage": "PROBLEM"
+  },
+  {
+    "mammogram": "TEST"
+  },
+  {
+    "Allegra D": "DRUG"
+  },
+  {
+    "Allegra 180 mg daily x 7 days": "DRUG"
+  },
+  {
+    "A1c": "TEST"
+  },
+  {
+    "BMP": "TEST"
+  },
+  {
+    "lipid profile": "TEST"
+  },
+  {
+    "TSH": "TEST"
+  },
+  {
+    "colonoscopy": "TREATMENT"
+  }
+]

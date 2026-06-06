@@ -9,9 +9,6 @@
     "attention deficit disorder": "PROBLEM"
   },
   {
-    "right shoulder": "PROBLEM"
-  },
-  {
     "Strep": "PROBLEM"
   },
   {
@@ -24,16 +21,28 @@
     "anger control": "PROBLEM"
   },
   {
-    "anti - inflammatories": "DRUG"
+    "right shoulder": "PROBLEM"
   },
   {
-    "pain relievers": "DRUG"
+    "numbness": "PROBLEM"
   },
   {
-    "Adderall": "DRUG"
+    "fevers": "PROBLEM"
   },
   {
-    "Zoloft": "DRUG"
+    "rashes": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "diarrhea": "PROBLEM"
+  },
+  {
+    "constipation": "PROBLEM"
   },
   {
     "x-ray": "TEST"
@@ -42,24 +51,21 @@
     "fracture": "PROBLEM"
   },
   {
-    "physical therapy": "TREATMENT"
+    "Adderall": "DRUG"
+  },
+  {
+    "Zoloft": "DRUG"
   },
   {
     "anti-inflammatories": "DRUG"
+  },
+  {
+    "physical therapy": "TREATMENT"
   },
   {
     "joint injections": "TREATMENT"
   },
   {
     "tonsillectomy": "TREATMENT"
-  },
-  {
-    "ENT": "TEST"
-  },
-  {
-    "counseling": "TREATMENT"
-  },
-  {
-    "RTC": "TREATMENT"
   }
 ]

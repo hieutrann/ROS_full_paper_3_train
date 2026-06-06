@@ -1,5 +1,8 @@
 [
   {
+    "Diabetes Mellitus": "PROBLEM"
+  },
+  {
     "diabetes mellitus, type 1": "PROBLEM"
   },
   {
@@ -10,6 +13,9 @@
   },
   {
     "Regular insulin": "DRUG"
+  },
+  {
+    "blood sugars": "TEST"
   },
   {
     "low blood sugar": "PROBLEM"
@@ -31,6 +37,9 @@
   },
   {
     "Lantus": "DRUG"
+  },
+  {
+    "CMP": "TEST"
   },
   {
     "alkaline phosphatase level": "TEST"
@@ -67,6 +76,9 @@
   },
   {
     "vomiting": "PROBLEM"
+  },
+  {
+    "neurological abnormalities": "PROBLEM"
   },
   {
     "Blood sugar": "TEST"
@@ -111,7 +123,7 @@
     "Scalp laceration": "PROBLEM"
   },
   {
-    "Elevated Alk Phos": "PROBLEM"
+    "alkaline phosphatase": "PROBLEM"
   },
   {
     "SGGT": "TEST"
@@ -130,14 +142,5 @@
   },
   {
     "GERD": "PROBLEM"
-  },
-  {
-    "Lacerations": "PROBLEM"
-  },
-  {
-    "swelling": "PROBLEM"
-  },
-  {
-    "infection": "PROBLEM"
   }
 ]

@@ -1,9 +1,6 @@
 [
   {
-    "Cardiology": "PROBLEM"
-  },
-  {
-    "66-year-old white male": "PROBLEM"
+    "Cardiology": "TREATMENT"
   },
   {
     "pneumonia": "PROBLEM"
@@ -18,7 +15,7 @@
     "cough": "PROBLEM"
   },
   {
-    "greenish expectoration": "PROBLEM"
+    "expectoration": "PROBLEM"
   },
   {
     "shortness of breath": "PROBLEM"
@@ -54,7 +51,7 @@
     "Weight": "TEST"
   },
   {
-    "Head": "TEST"
+    "Head normocephalic": "TEST"
   },
   {
     "anemia": "PROBLEM"
@@ -63,10 +60,7 @@
     "jaundice": "PROBLEM"
   },
   {
-    "Oral hygiene": "PROBLEM"
-  },
-  {
-    "NECK": "TEST"
+    "Supple": "TEST"
   },
   {
     "JVP": "TEST"
@@ -90,6 +84,9 @@
     "systolic murmur": "PROBLEM"
   },
   {
+    "murmur": "PROBLEM"
+  },
+  {
     "II/VI": "TEST"
   },
   {
@@ -108,13 +105,13 @@
     "Ambien": "DRUG"
   },
   {
-    "2": "TEST"
+    "2": "TREATMENT"
   },
   {
     "Coumadin": "DRUG"
   },
   {
-    "3": "TEST"
+    "3": "TREATMENT"
   },
   {
     "Diovan": "DRUG"
@@ -126,19 +123,16 @@
     "Lantus insulin": "DRUG"
   },
   {
-    "5": "PROBLEM"
+    "5": "TEST"
   },
   {
     "Lasix": "DRUG"
   },
   {
-    "6": "PROBLEM"
+    "6": "TEST"
   },
   {
     "Novolin R": "DRUG"
-  },
-  {
-    "7": "PROBLEM"
   },
   {
     "Toprol XL": "DRUG"
@@ -159,13 +153,13 @@
     "myocardial infarction": "PROBLEM"
   },
   {
-    "2": "TEST"
+    "2": "TREATMENT"
   },
   {
     "LV systolic dysfunction": "PROBLEM"
   },
   {
-    "3": "TEST"
+    "3": "TREATMENT"
   },
   {
     "Diabetes mellitus": "PROBLEM"
@@ -180,19 +174,16 @@
     "renal failure": "PROBLEM"
   },
   {
-    "5": "PROBLEM"
+    "5": "TEST"
   },
   {
     "ICD implantation": "TREATMENT"
   },
   {
-    "6": "PROBLEM"
+    "6": "TEST"
   },
   {
     "atrial fibrillation": "PROBLEM"
-  },
-  {
-    "7": "PROBLEM"
   },
   {
     "Coumadin": "DRUG"
@@ -204,7 +195,7 @@
     "therapy": "TREATMENT"
   },
   {
-    "2": "TEST"
+    "2": "TREATMENT"
   },
   {
     "weeks": "TEST"
@@ -235,5 +226,8 @@
   },
   {
     "lungs": "TEST"
+  },
+  {
+    "icd implantation": "TREATMENT"
   }
 ]

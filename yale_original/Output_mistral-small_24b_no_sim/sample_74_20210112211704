@@ -1,0 +1,203 @@
+[
+  {
+    "cold symptoms": "PROBLEM"
+  },
+  {
+    "bronchitis": "PROBLEM"
+  },
+  {
+    "antibiotics": "DRUG"
+  },
+  {
+    "DISCHARGE DIAGNOSES": "TEST"
+  },
+  {
+    "Acute respiratory failure": "PROBLEM"
+  },
+  {
+    "Severe bronchitis": "PROBLEM"
+  },
+  {
+    "acute respiratory failure": "PROBLEM"
+  },
+  {
+    "Acute on chronic renal failure": "PROBLEM"
+  },
+  {
+    "Severe hypertension": "PROBLEM"
+  },
+  {
+    "Diastolic dysfunction": "PROBLEM"
+  },
+  {
+    "X-ray": "TEST"
+  },
+  {
+    "pro-BNP": "TEST"
+  },
+  {
+    "SECONDARY DIAGNOSES": "PROBLEM"
+  },
+  {
+    "Hyperlipidemia": "PROBLEM"
+  },
+  {
+    "cardiac catheterization": "TEST"
+  },
+  {
+    "carcinoma": "PROBLEM"
+  },
+  {
+    "breast": "PROBLEM"
+  },
+  {
+    "nephrectomy": "TREATMENT"
+  },
+  {
+    "Allergic rhinitis": "PROBLEM"
+  },
+  {
+    "cold symptoms": "PROBLEM"
+  },
+  {
+    "bronchitis": "PROBLEM"
+  },
+  {
+    "antibiotics": "DRUG"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "wheezing": "PROBLEM"
+  },
+  {
+    "crepitations": "PROBLEM"
+  },
+  {
+    "X-rays": "TEST"
+  },
+  {
+    "pro-BNP": "TEST"
+  },
+  {
+    "hypoxic": "PROBLEM"
+  },
+  {
+    "nasal cannula": "TREATMENT"
+  },
+  {
+    "Intensive Care Unit": "TREATMENT"
+  },
+  {
+    "steroids": "DRUG"
+  },
+  {
+    "Lasix": "DRUG"
+  },
+  {
+    "MRSA": "PROBLEM"
+  },
+  {
+    "infectious disease": "PROBLEM"
+  },
+  {
+    "de-colonization": "TREATMENT"
+  },
+  {
+    "breathing": "PROBLEM"
+  },
+  {
+    "wheezing": "PROBLEM"
+  },
+  {
+    "crepitations": "PROBLEM"
+  },
+  {
+    "O2 saturation": "TEST"
+  },
+  {
+    "exercise oximetry": "TEST"
+  },
+  {
+    "nasal congestion": "PROBLEM"
+  },
+  {
+    "steroid nasal spray": "DRUG"
+  },
+  {
+    "Cardiology": "TEST"
+  },
+  {
+    "beta blockers": "DRUG"
+  },
+  {
+    "diastolic dysfunction": "PROBLEM"
+  },
+  {
+    "IV steroids": "DRUG"
+  },
+  {
+    "oral steroids": "DRUG"
+  },
+  {
+    "DISCHARGE MEDICATIONS": "DRUG"
+  },
+  {
+    "Metoprolol": "DRUG"
+  },
+  {
+    "b.i.d.": "TREATMENT"
+  },
+  {
+    "Simvastatin": "DRUG"
+  },
+  {
+    "Prednisone": "DRUG"
+  },
+  {
+    "Flonase nasal spray": "DRUG"
+  },
+  {
+    "oximetry": "TEST"
+  },
+  {
+    "home oxygen": "DRUG"
+  },
+  {
+    "Pulmonology": "TEST"
+  },
+  {
+    "cardiologist": "TREATMENT"
+  },
+  {
+    "acute respiratory failure": "PROBLEM"
+  },
+  {
+    "bronchitis": "PROBLEM"
+  },
+  {
+    "acute on chronic renal failure": "PROBLEM"
+  },
+  {
+    "severe hypertension": "PROBLEM"
+  },
+  {
+    "diastolic dysfunction": "PROBLEM"
+  },
+  {
+    "cold symptoms": "PROBLEM"
+  },
+  {
+    "iv steroids": "DRUG"
+  },
+  {
+    "nasal spray": "DRUG"
+  },
+  {
+    "nasal": "TREATMENT"
+  },
+  {
+    "steroids": "DRUG"
+  }
+]

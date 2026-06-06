@@ -3,7 +3,7 @@
     "Falls": "PROBLEM"
   },
   {
-    "Anxiety": "PROBLEM"
+    "anxiety": "PROBLEM"
   },
   {
     "depression": "PROBLEM"
@@ -27,16 +27,10 @@
     "Hypothyroidism": "PROBLEM"
   },
   {
-    "Darvocet": "DRUG"
-  },
-  {
-    "Paxil": "DRUG"
+    "Tylenol": "DRUG"
   },
   {
     "Xanax": "DRUG"
-  },
-  {
-    "Tylenol": "DRUG"
   },
   {
     "Lasix": "DRUG"
@@ -72,6 +66,9 @@
     "Feldene": "DRUG"
   },
   {
+    "Paxil": "DRUG"
+  },
+  {
     "Minipress": "DRUG"
   },
   {
@@ -90,12 +87,2100 @@
     "verapamil": "DRUG"
   },
   {
-    "P.R.N.": "TREATMENT"
+    "Paxil": "DRUG"
   },
   {
-    "Psychiatric evaluation": "TREATMENT"
+    "Xanax": "DRUG"
   },
   {
-    "Rehabilitation program": "TREATMENT"
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Paxil": "DRUG"
   }
 ]

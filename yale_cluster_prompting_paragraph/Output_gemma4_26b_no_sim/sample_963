@@ -48,9 +48,6 @@
     "Kidney disorder": "PROBLEM"
   },
   {
-    "diabetes": "PROBLEM"
-  },
-  {
     "hormonal irregularities": "PROBLEM"
   },
   {
@@ -66,34 +63,28 @@
     "skin lesions": "PROBLEM"
   },
   {
-    "Micronase": "DRUG"
-  },
-  {
     "Bactrim": "DRUG"
   },
   {
-    "drug or alcohol abuse": "PROBLEM"
-  },
-  {
-    "Vital Signs": "TEST"
-  },
-  {
-    "Upright BP": "TEST"
+    "BP": "TEST"
   },
   {
     "Pulse": "TEST"
   },
   {
-    "Resp": "TEST"
+    "jugular venous distension": "PROBLEM"
   },
   {
-    "jugular venous distension": "PROBLEM"
+    "Lung expansion": "TEST"
+  },
+  {
+    "bowel sounds": "TEST"
   },
   {
     "organomegaly": "PROBLEM"
   },
   {
-    "CVA tenderness": "PROBLEM"
+    "CVA tenderness": "TEST"
   },
   {
     "hernias": "PROBLEM"
@@ -108,10 +99,7 @@
     "edema": "PROBLEM"
   },
   {
-    "Diabetes type II": "PROBLEM"
-  },
-  {
-    "uncontrolled": "PROBLEM"
+    "Diabetes type II uncontrolled": "PROBLEM"
   },
   {
     "Acute cystitis": "PROBLEM"
@@ -120,33 +108,6 @@
     "Endocrinology Consult": "TREATMENT"
   },
   {
-    "complete CBC": "TEST"
-  },
-  {
-    "Micronase": "DRUG"
-  },
-  {
-    "Bactrim": "DRUG"
-  },
-  {
-    "bactrim": "DRUG"
-  },
-  {
-    "micronase": "DRUG"
-  },
-  {
-    "abdominal pain": "PROBLEM"
-  },
-  {
-    "cbc": "TEST"
-  },
-  {
-    "diabetes type ii": "PROBLEM"
-  },
-  {
-    "acute cystitis": "PROBLEM"
-  },
-  {
-    "diabetes": "PROBLEM"
+    "CBC": "TEST"
   }
 ]

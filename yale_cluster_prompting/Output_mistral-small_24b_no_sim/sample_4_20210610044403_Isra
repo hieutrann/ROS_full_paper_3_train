@@ -12,9 +12,6 @@
     "altered mental status": "PROBLEM"
   },
   {
-    "poorly": "PROBLEM"
-  },
-  {
     "confused": "PROBLEM"
   },
   {
@@ -30,6 +27,9 @@
     "blood sugar": "TEST"
   },
   {
+    "40": "TEST"
+  },
+  {
     "D50": "DRUG"
   },
   {
@@ -39,7 +39,10 @@
     "garbled speech": "PROBLEM"
   },
   {
-    "UTIs": "PROBLEM"
+    "somnolent": "PROBLEM"
+  },
+  {
+    "recurrent UTIs": "PROBLEM"
   },
   {
     "urinary tract infection": "PROBLEM"
@@ -84,9 +87,6 @@
     "colon cancer": "PROBLEM"
   },
   {
-    "colon cancer surgery": "TREATMENT"
-  },
-  {
     "pacemaker placement": "TREATMENT"
   },
   {
@@ -117,6 +117,15 @@
     "vomiting": "PROBLEM"
   },
   {
+    "constipation": "PROBLEM"
+  },
+  {
+    "bleeding": "PROBLEM"
+  },
+  {
+    "melena": "PROBLEM"
+  },
+  {
     "urinary tract infection": "PROBLEM"
   },
   {
@@ -126,13 +135,7 @@
     "Neurontin": "DRUG"
   },
   {
-    "600 mg": "DRUG"
-  },
-  {
     "Cipro": "DRUG"
-  },
-  {
-    "500 b.i.d.": "DRUG"
   },
   {
     "Humulin N": "DRUG"
@@ -168,7 +171,7 @@
     "Nystatin": "DRUG"
   },
   {
-    "oxygen": "DRUG"
+    "oxygen": "TREATMENT"
   },
   {
     "Blood pressure": "TEST"
@@ -180,10 +183,13 @@
     "temperature": "TEST"
   },
   {
-    "Weight": "TEST"
+    "Urine output": "TEST"
   },
   {
     "Blood sugars": "TEST"
+  },
+  {
+    "pallor": "PROBLEM"
   },
   {
     "rash": "PROBLEM"
@@ -192,10 +198,22 @@
     "pacemaker": "TREATMENT"
   },
   {
-    "CHEST": "PROBLEM"
+    "CHEST": "TEST"
+  },
+  {
+    "obese": "PROBLEM"
   },
   {
     "edema": "PROBLEM"
+  },
+  {
+    "left side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "power": "TEST"
   },
   {
     "mild aphasia": "PROBLEM"
@@ -216,6 +234,9 @@
     "hemoglobin": "TEST"
   },
   {
+    "hematocrit": "TEST"
+  },
+  {
     "INR": "TEST"
   },
   {
@@ -225,7 +246,13 @@
     "Urine": "TEST"
   },
   {
+    "white cells": "TEST"
+  },
+  {
     "culture": "TEST"
+  },
+  {
+    "guaiac": "TEST"
   },
   {
     "Septra": "DRUG"
@@ -237,7 +264,7 @@
     "Cerebrovascular accident": "PROBLEM"
   },
   {
-    "change in mental status": "PROBLEM"
+    "mental status": "PROBLEM"
   },
   {
     "speech": "PROBLEM"
@@ -247,9 +274,6 @@
   },
   {
     "Coumadin": "DRUG"
-  },
-  {
-    "quality of life": "PROBLEM"
   },
   {
     "hospice": "TREATMENT"
@@ -303,9 +327,6 @@
     "Lipitor": "DRUG"
   },
   {
-    "general medicine": "PROBLEM"
-  },
-  {
     "cerebrovascular accident": "PROBLEM"
   },
   {
@@ -339,7 +360,7 @@
     "decreased level": "PROBLEM"
   },
   {
-    "blood sugar": "PROBLEM"
+    "blood sugar": "TEST"
   },
   {
     "garbled speech": "PROBLEM"
@@ -351,7 +372,7 @@
     "urinary tract": "PROBLEM"
   },
   {
-    "emergency department": "PROBLEM"
+    "emergency department": "TEST"
   },
   {
     "decreased": "PROBLEM"
@@ -366,7 +387,7 @@
     "blood": "TEST"
   },
   {
-    "emergency": "PROBLEM"
+    "emergency": "TEST"
   },
   {
     "cultures": "TEST"

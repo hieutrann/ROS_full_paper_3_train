@@ -18,10 +18,7 @@
     "Foley": "DRUG"
   },
   {
-    "ileal conduit": "TEST"
-  },
-  {
-    "indwelling Foley": "TEST"
+    "ileal conduit": "TREATMENT"
   },
   {
     "ADMISSION DIAGNOSES": "PROBLEM"
@@ -30,13 +27,13 @@
     "Pyelonephritis": "PROBLEM"
   },
   {
-    "2": "TREATMENT"
+    "2": "PROBLEM"
   },
   {
     "uterine cancer": "PROBLEM"
   },
   {
-    "ileal conduit urinary diversion": "TREATMENT"
+    "ileal conduit urinary diversion": "PROBLEM"
   },
   {
     "3": "PROBLEM"
@@ -57,7 +54,7 @@
     "Anemia": "PROBLEM"
   },
   {
-    "DISCHARGE DIAGNOSES": "TEST"
+    "DISCHARGE DIAGNOSES": "PROBLEM"
   },
   {
     "Pyelonephritis": "PROBLEM"
@@ -69,10 +66,10 @@
     "Foley": "DRUG"
   },
   {
-    "ileal conduit": "TEST"
+    "ileal conduit": "PROBLEM"
   },
   {
-    "2": "TREATMENT"
+    "2": "PROBLEM"
   },
   {
     "Hypertension": "PROBLEM"
@@ -81,7 +78,7 @@
     "3": "PROBLEM"
   },
   {
-    "renal insufficiency": "PROBLEM"
+    "Mild renal insufficiency": "PROBLEM"
   },
   {
     "4": "PROBLEM"
@@ -93,7 +90,10 @@
     "pyelonephritis": "PROBLEM"
   },
   {
-    "Renal": "TREATMENT"
+    "Renal": "PROBLEM"
+  },
+  {
+    "a thick mucous plug": "PROBLEM"
   },
   {
     "Foley": "TEST"
@@ -102,7 +102,7 @@
     "ileal conduit": "TEST"
   },
   {
-    "mucous plug": "PROBLEM"
+    "irrigated": "TREATMENT"
   },
   {
     "IV antibiotics": "DRUG"
@@ -132,7 +132,7 @@
     "Y in 7-10 days": "PROBLEM"
   },
   {
-    "knee pain": "PROBLEM"
+    "right knee pain": "PROBLEM"
   },
   {
     "effusion": "PROBLEM"
@@ -147,6 +147,9 @@
     "ibuprofen": "DRUG"
   },
   {
+    "uterine cancer": "PROBLEM"
+  },
+  {
     "renal insufficiency": "PROBLEM"
   },
   {
@@ -156,9 +159,6 @@
     "mucous plugging": "PROBLEM"
   },
   {
-    "ileal conduit": "TREATMENT"
-  },
-  {
-    "uterine cancer": "PROBLEM"
+    "ileal conduit": "PROBLEM"
   }
 ]

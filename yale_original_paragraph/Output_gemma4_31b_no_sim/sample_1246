@@ -27,10 +27,16 @@
     "Medifast": "DRUG"
   },
   {
+    "bariatric surgery": "TREATMENT"
+  },
+  {
     "gastric bypass": "TREATMENT"
   },
   {
-    "heparin": "DRUG"
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "subcu heparin": "DRUG"
   },
   {
     "SCDs": "TREATMENT"
@@ -45,15 +51,24 @@
     "labs": "TEST"
   },
   {
+    "bariatric clear liquids": "TREATMENT"
+  },
+  {
     "fever": "PROBLEM"
   },
   {
-    "drains removed": "TREATMENT"
+    "drains": "TREATMENT"
   },
   {
     "omeprazole": "DRUG"
   },
   {
     "Lortab": "DRUG"
+  },
+  {
+    "bariatric clear liquids": "TREATMENT"
+  },
+  {
+    "wound care": "TREATMENT"
   }
 ]

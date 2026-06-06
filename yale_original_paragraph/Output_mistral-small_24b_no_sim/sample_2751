@@ -6,7 +6,25 @@
     "dental disease": "PROBLEM"
   },
   {
-    "teeth pulled": "TREATMENT"
+    "teeth": "PROBLEM"
+  },
+  {
+    "tooth pain": "PROBLEM"
+  },
+  {
+    "upper teeth": "PROBLEM"
+  },
+  {
+    "lower teeth": "PROBLEM"
+  },
+  {
+    "toothache": "PROBLEM"
+  },
+  {
+    "dental disease": "PROBLEM"
+  },
+  {
+    "teeth": "PROBLEM"
   },
   {
     "tooth pain": "PROBLEM"
@@ -15,13 +33,124 @@
     "toothache": "PROBLEM"
   },
   {
+    "upper teeth": "PROBLEM"
+  },
+  {
+    "lower teeth": "PROBLEM"
+  },
+  {
+    "toothache": "PROBLEM"
+  },
+  {
+    "knee pain": "PROBLEM"
+  },
+  {
+    "fatigue": "PROBLEM"
+  },
+  {
+    "weakness": "PROBLEM"
+  },
+  {
+    "weight change": "PROBLEM"
+  },
+  {
+    "headache": "PROBLEM"
+  },
+  {
+    "neck pain": "PROBLEM"
+  },
+  {
+    "toothache": "PROBLEM"
+  },
+  {
+    "throat swelling": "PROBLEM"
+  },
+  {
+    "sore throat": "PROBLEM"
+  },
+  {
+    "difficulty swallowing": "PROBLEM"
+  },
+  {
+    "rhinorrhea": "PROBLEM"
+  },
+  {
+    "sinus congestion": "PROBLEM"
+  },
+  {
+    "sinus pressure": "PROBLEM"
+  },
+  {
+    "sinus pain": "PROBLEM"
+  },
+  {
+    "ear pain": "PROBLEM"
+  },
+  {
+    "hearing change": "PROBLEM"
+  },
+  {
+    "eye pain": "PROBLEM"
+  },
+  {
+    "vision change": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "dysuria": "PROBLEM"
+  },
+  {
+    "back pain": "PROBLEM"
+  },
+  {
+    "muscle aches": "PROBLEM"
+  },
+  {
+    "joint aches": "PROBLEM"
+  },
+  {
+    "rash": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "vision change": "PROBLEM"
+  },
+  {
+    "hearing change": "PROBLEM"
+  },
+  {
+    "focal weakness": "PROBLEM"
+  },
+  {
+    "numbness": "PROBLEM"
+  },
+  {
+    "knee pain": "PROBLEM"
+  },
+  {
     "OxyContin": "DRUG"
   },
   {
     "Vicodin": "DRUG"
-  },
-  {
-    "knee pain": "PROBLEM"
   },
   {
     "PENICILLIN": "DRUG"
@@ -30,7 +159,7 @@
     "CODEINE": "DRUG"
   },
   {
-    "temperature": "TEST"
+    "Temperature": "TEST"
   },
   {
     "blood pressure": "TEST"
@@ -43,6 +172,174 @@
   },
   {
     "oxygen saturation": "TEST"
+  },
+  {
+    "icterus": "PROBLEM"
+  },
+  {
+    "injection": "PROBLEM"
+  },
+  {
+    "discharge": "PROBLEM"
+  },
+  {
+    "photophobia": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "swelling": "PROBLEM"
+  },
+  {
+    "infection": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "bulging": "PROBLEM"
+  },
+  {
+    "fluid levels": "PROBLEM"
+  },
+  {
+    "bubbles": "PROBLEM"
+  },
+  {
+    "rhinorrhea": "PROBLEM"
+  },
+  {
+    "audible congestion": "PROBLEM"
+  },
+  {
+    "tenderness": "PROBLEM"
+  },
+  {
+    "meningismus": "PROBLEM"
+  },
+  {
+    "cervical lymphadenopathy": "PROBLEM"
+  },
+  {
+    "JVD": "PROBLEM"
+  },
+  {
+    "denture": "PROBLEM"
+  },
+  {
+    "dental caries": "PROBLEM"
+  },
+  {
+    "tenderness": "PROBLEM"
+  },
+  {
+    "tooth": "PROBLEM"
+  },
+  {
+    "tooth": "PROBLEM"
+  },
+  {
+    "gums": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "swelling": "PROBLEM"
+  },
+  {
+    "purulent discharge": "PROBLEM"
+  },
+  {
+    "fluctuance": "PROBLEM"
+  },
+  {
+    "abscess": "PROBLEM"
+  },
+  {
+    "dental fractures": "PROBLEM"
+  },
+  {
+    "infection": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "exudate": "PROBLEM"
+  },
+  {
+    "lesion": "PROBLEM"
+  },
+  {
+    "swelling": "PROBLEM"
+  },
+  {
+    "Ludwig's syndrome": "PROBLEM"
+  },
+  {
+    "abscess": "PROBLEM"
+  },
+  {
+    "Ludwig's syndrome": "PROBLEM"
+  },
+  {
+    "murmur": "PROBLEM"
+  },
+  {
+    "rub": "PROBLEM"
+  },
+  {
+    "gallop": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "abdomen": "PROBLEM"
+  },
+  {
+    "abnormalities": "PROBLEM"
+  },
+  {
+    "back": "PROBLEM"
+  },
+  {
+    "arms": "PROBLEM"
+  },
+  {
+    "legs": "PROBLEM"
+  },
+  {
+    "rash": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "cranial nerves": "TEST"
+  },
+  {
+    "motor": "TEST"
+  },
+  {
+    "sensory": "TEST"
+  },
+  {
+    "speech": "TEST"
+  },
+  {
+    "ambulation": "TEST"
+  },
+  {
+    "mood": "TEST"
+  },
+  {
+    "affect": "TEST"
+  },
+  {
+    "cervical lymphadenopathy": "PROBLEM"
   },
   {
     "Dilaudid": "DRUG"

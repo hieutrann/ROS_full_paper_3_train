@@ -27,6 +27,15 @@
     "fluid overload": "PROBLEM"
   },
   {
+    "ORIF": "TREATMENT"
+  },
+  {
+    "Open reduction and internal fixation": "TREATMENT"
+  },
+  {
+    "partial medial meniscectomy": "TREATMENT"
+  },
+  {
     "nebulizer treatment": "TREATMENT"
   },
   {
@@ -48,27 +57,12 @@
     "guaifenesin": "DRUG"
   },
   {
-    "Open reduction and internal fixation": "TREATMENT"
+    "CPM machine": "TEST"
   },
   {
-    "ORIF": "TREATMENT"
+    "percussion": "TEST"
   },
   {
-    "CPM machine": "TREATMENT"
-  },
-  {
-    "antiembolic stockings": "TREATMENT"
-  },
-  {
-    "physical therapy": "TREATMENT"
-  },
-  {
-    "occupational therapy": "TREATMENT"
-  },
-  {
-    "social work consults": "TREATMENT"
-  },
-  {
-    "nursing consults": "TREATMENT"
+    "tendon reflexes": "TEST"
   }
 ]

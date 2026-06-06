@@ -132,6 +132,9 @@
     "heavy alcohol drinking": "PROBLEM"
   },
   {
+    "cigarette smoker": "PROBLEM"
+  },
+  {
     "Primaxin": "DRUG"
   },
   {
@@ -192,6 +195,12 @@
     "Pink conjunctivae": "PROBLEM"
   },
   {
+    "Pupils equal": "PROBLEM"
+  },
+  {
+    "brisk reaction to light": "PROBLEM"
+  },
+  {
     "Moist oral mucosa": "PROBLEM"
   },
   {
@@ -199,9 +208,6 @@
   },
   {
     "neck masses": "PROBLEM"
-  },
-  {
-    "Thyroid": "PROBLEM"
   },
   {
     "crackles": "PROBLEM"
@@ -234,10 +240,10 @@
     "hyperpigmentation": "PROBLEM"
   },
   {
-    "open wound": "PROBLEM"
+    "an open wound": "PROBLEM"
   },
   {
-    "serous drainage": "PROBLEM"
+    "minimal serous drainage": "PROBLEM"
   },
   {
     "hyperpigmented": "PROBLEM"
@@ -249,7 +255,7 @@
     "warmth": "PROBLEM"
   },
   {
-    "tenderness": "PROBLEM"
+    "minimal tenderness": "PROBLEM"
   },
   {
     "wound": "PROBLEM"
@@ -297,10 +303,19 @@
     "wound culture": "TEST"
   },
   {
-    "right leg wound culture": "TEST"
+    "right leg wound": "PROBLEM"
+  },
+  {
+    "wound culture": "TEST"
+  },
+  {
+    "young growth": "PROBLEM"
   },
   {
     "Left leg wound culture": "TEST"
+  },
+  {
+    "young growth": "PROBLEM"
   },
   {
     "Chest x-ray": "TEST"
@@ -351,7 +366,7 @@
     "wound cultures": "TEST"
   },
   {
-    "MRI of the right ankle": "TEST"
+    "an MRI of the right ankle": "TEST"
   },
   {
     "osteomyelitis": "PROBLEM"

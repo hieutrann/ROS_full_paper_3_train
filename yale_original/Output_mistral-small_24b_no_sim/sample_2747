@@ -6,16 +6,16 @@
     "laceration": "PROBLEM"
   },
   {
-    "Acute foot pain": "PROBLEM"
+    "foot pain": "PROBLEM"
   },
   {
     "wound care": "TREATMENT"
   },
   {
-    "Cut": "PROBLEM"
+    "foot": "PROBLEM"
   },
   {
-    "right foot": "PROBLEM"
+    "glass": "PROBLEM"
   },
   {
     "bleeding": "PROBLEM"
@@ -45,6 +45,9 @@
     "Albuterol": "DRUG"
   },
   {
+    "ALLERGIES": "PROBLEM"
+  },
+  {
     "smoker": "PROBLEM"
   },
   {
@@ -63,19 +66,16 @@
     "Oxygen saturation": "TEST"
   },
   {
-    "Head": "TEST"
+    "patient": "PROBLEM"
   },
   {
-    "Eyes": "PROBLEM"
+    "Head": "PROBLEM"
   },
   {
-    "conjunctiva": "PROBLEM"
+    "Eyes": "TEST"
   },
   {
-    "cornea": "PROBLEM"
-  },
-  {
-    "NECK": "PROBLEM"
+    "motion": "PROBLEM"
   },
   {
     "Peripheral pulse": "TEST"
@@ -88,6 +88,18 @@
   },
   {
     "laceration": "PROBLEM"
+  },
+  {
+    "foreign body": "PROBLEM"
+  },
+  {
+    "foreign body": "PROBLEM"
+  },
+  {
+    "bleeding": "PROBLEM"
+  },
+  {
+    "tendons": "PROBLEM"
   },
   {
     "bone": "PROBLEM"
@@ -111,19 +123,49 @@
     "bleeding": "PROBLEM"
   },
   {
+    "foot": "PROBLEM"
+  },
+  {
+    "joints": "PROBLEM"
+  },
+  {
+    "toes": "PROBLEM"
+  },
+  {
+    "ankles": "PROBLEM"
+  },
+  {
     "laceration": "PROBLEM"
   },
   {
     "Motor": "TEST"
   },
   {
-    "Sensory": "TEST"
+    "Sensory": "PROBLEM"
   },
   {
-    "alert and oriented x4": "TEST"
+    "speech": "PROBLEM"
+  },
+  {
+    "ambulation": "PROBLEM"
+  },
+  {
+    "alert": "PROBLEM"
+  },
+  {
+    "oriented": "PROBLEM"
+  },
+  {
+    "mood": "PROBLEM"
+  },
+  {
+    "affect": "PROBLEM"
   },
   {
     "bleeding": "PROBLEM"
+  },
+  {
+    "bruising": "PROBLEM"
   },
   {
     "antibiotic ointment": "DRUG"
@@ -132,10 +174,16 @@
     "bandage": "TREATMENT"
   },
   {
-    "4-MM LACERATION": "PROBLEM"
+    "DIAGNOSES": "TEST"
+  },
+  {
+    "laceration": "PROBLEM"
   },
   {
     "ACUTE RIGHT FOOT PAIN": "PROBLEM"
+  },
+  {
+    "Stable": "PROBLEM"
   },
   {
     "wound care": "TREATMENT"
@@ -147,9 +195,6 @@
     "glass": "PROBLEM"
   },
   {
-    "foot": "PROBLEM"
-  },
-  {
     "infection": "PROBLEM"
   },
   {
@@ -159,18 +204,27 @@
     "cut on foot": "PROBLEM"
   },
   {
+    "piece of glass": "PROBLEM"
+  },
+  {
     "foreign body": "PROBLEM"
   },
   {
     "active bleeding": "PROBLEM"
   },
   {
-    "bleeding": "PROBLEM"
+    "foot": "PROBLEM"
   },
   {
     "injuries": "PROBLEM"
   },
   {
     "laceration": "PROBLEM"
+  },
+  {
+    "bleeding": "PROBLEM"
+  },
+  {
+    "body": "PROBLEM"
   }
 ]

@@ -33,7 +33,7 @@
     "Hypertension": "PROBLEM"
   },
   {
-    "Severe chronic obstructive pulmonary disease": "PROBLEM"
+    "chronic obstructive pulmonary disease": "PROBLEM"
   },
   {
     "Diabetes mellitus": "PROBLEM"
@@ -43,6 +43,12 @@
   },
   {
     "Altered mental status": "PROBLEM"
+  },
+  {
+    "somnolent": "PROBLEM"
+  },
+  {
+    "medications": "DRUG"
   },
   {
     "Lower gastrointestinal bleed": "PROBLEM"
@@ -126,13 +132,19 @@
     "acute lower GI bleed": "PROBLEM"
   },
   {
-    "transfused packed red blood cells": "TREATMENT"
+    "transfused": "TREATMENT"
+  },
+  {
+    "packed red blood cells": "TREATMENT"
   },
   {
     "endoscopy": "TEST"
   },
   {
-    "diverticular disease of the sigmoid colon": "PROBLEM"
+    "diverticular disease": "PROBLEM"
+  },
+  {
+    "sigmoid colon": "PROBLEM"
   },
   {
     "hemorrhage": "PROBLEM"

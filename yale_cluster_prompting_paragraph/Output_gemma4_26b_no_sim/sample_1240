@@ -54,9 +54,6 @@
     "Laparoscopic cholecystectomy": "TREATMENT"
   },
   {
-    "Surgery": "TREATMENT"
-  },
-  {
     "morbid obesity": "PROBLEM"
   },
   {
@@ -90,19 +87,16 @@
     "hyperglycemic": "PROBLEM"
   },
   {
-    "sugar": "TEST"
-  },
-  {
     "hyperglycemia": "PROBLEM"
   },
   {
-    "insulin drip": "DRUG"
-  },
-  {
-    "sugars": "TEST"
+    "insulin drip": "TREATMENT"
   },
   {
     "laparoscopic cholecystectomy": "TREATMENT"
+  },
+  {
+    "difficult intubation": "PROBLEM"
   },
   {
     "chronic cholecystitis": "PROBLEM"
@@ -139,9 +133,6 @@
   },
   {
     "sugars": "TEST"
-  },
-  {
-    "medifast": "TREATMENT"
   },
   {
     "hyperglycemia": "PROBLEM"

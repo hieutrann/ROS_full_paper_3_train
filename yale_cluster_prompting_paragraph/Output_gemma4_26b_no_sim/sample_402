@@ -15,7 +15,7 @@
     "difficulty hearing": "PROBLEM"
   },
   {
-    "left-sided sinus pressure": "PROBLEM"
+    "sinus pressure": "PROBLEM"
   },
   {
     "teeth were hurting": "PROBLEM"
@@ -91,5 +91,14 @@
   },
   {
     "Cutivate cream": "DRUG"
+  },
+  {
+    "otalgia": "PROBLEM"
+  },
+  {
+    "otitis": "PROBLEM"
+  },
+  {
+    "dermatitis": "PROBLEM"
   }
 ]

@@ -1,0 +1,71 @@
+[
+  {
+    "Coronary Artery Disease": "PROBLEM"
+  },
+  {
+    "prior bypass surgery": "TREATMENT"
+  },
+  {
+    "elevated PSA": "PROBLEM"
+  },
+  {
+    "BPH": "PROBLEM"
+  },
+  {
+    "prostate biopsy": "TREATMENT"
+  },
+  {
+    "urinary tract infection": "PROBLEM"
+  },
+  {
+    "antibiotic": "DRUG"
+  },
+  {
+    "fatigue": "PROBLEM"
+  },
+  {
+    "tiredness": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "diabetes mellitus": "PROBLEM"
+  },
+  {
+    "elevated cholesterol": "PROBLEM"
+  },
+  {
+    "coronary artery bypass surgery": "TREATMENT"
+  },
+  {
+    "angioplasty": "TREATMENT"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "urinary tract infection": "PROBLEM"
+  },
+  {
+    "Metformin": "DRUG"
+  },
+  {
+    "Prilosec": "DRUG"
+  },
+  {
+    "Folic acid": "DRUG"
+  },
+  {
+    "Flomax": "DRUG"
+  },
+  {
+    "Metoprolol": "DRUG"
+  },
+  {
+    "Crestor": "DRUG"
+  },
+  {
+    "Claritin": "DRUG"
+  }
+]

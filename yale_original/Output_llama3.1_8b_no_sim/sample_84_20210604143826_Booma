@@ -1,51 +1,27 @@
 [
   {
-    "Discharge Summary": "TEST"
+    "gravida": "PROBLEM"
   },
   {
-    "Neonatal Discharge Summary": "TEST"
+    "para": "PROBLEM"
   },
   {
-    "1812 g": "TEST"
+    "gestation": "PROBLEM"
   },
   {
-    "baby boy": "TEST"
+    "C-sections": "TREATMENT"
   },
   {
-    "vaginal delivery": "TEST"
+    "gravida": "PROBLEM"
   },
   {
-    "32-year-old": "TEST"
+    "para": "PROBLEM"
   },
   {
-    "gravida 3": "TEST"
+    "gestation": "PROBLEM"
   },
   {
-    "para 2": "TEST"
-  },
-  {
-    "34 weeks of gestation": "TEST"
-  },
-  {
-    "C-sections": "PROBLEM"
-  },
-  {
-    "baby boy": "PROBLEM"
-  },
-  {
-    "gravida 3": "PROBLEM"
-  },
-  {
-    "para 2": "PROBLEM"
-  },
-  {
-    "34 weeks of gestation": "PROBLEM"
-  },
-  {
-    "C-sections": "PROBLEM"
-  },
-  {
-    "Baby": "PROBLEM"
+    "C-sections": "TREATMENT"
   },
   {
     "ampicillin": "DRUG"
@@ -90,7 +66,7 @@
     "sepsis": "PROBLEM"
   },
   {
-    "mild retractions": "PROBLEM"
+    "retractions": "PROBLEM"
   },
   {
     "CBC": "TEST"
@@ -114,7 +90,7 @@
     "feeding issues": "PROBLEM"
   },
   {
-    "EBM": "DRUG"
+    "EBM 22": "DRUG"
   },
   {
     "NeoSure": "DRUG"
@@ -129,7 +105,13 @@
     "feeding issues": "PROBLEM"
   },
   {
+    "NICU": "TREATMENT"
+  },
+  {
     "OG tube": "TREATMENT"
+  },
+  {
+    "p.o.": "TREATMENT"
   },
   {
     "feeds": "TREATMENT"
@@ -144,10 +126,16 @@
     "NeoSure": "DRUG"
   },
   {
-    "baby": "PROBLEM"
+    "room air": "TREATMENT"
   },
   {
-    "foods": "PROBLEM"
+    "p.o.": "TREATMENT"
+  },
+  {
+    "foods": "TREATMENT"
+  },
+  {
+    "feeds": "TREATMENT"
   },
   {
     "Respiratory distress": "PROBLEM"
@@ -165,19 +153,19 @@
     "Dr.": "TREATMENT"
   },
   {
-    "Dr.": "TREATMENT"
+    "Dr": "TREATMENT"
   },
   {
-    "X": "PROBLEM"
+    "appointment": "TREATMENT"
   },
   {
-    "CPR teaching": "TREATMENT"
+    "CPR": "TREATMENT"
   },
   {
     "NeoSure": "DRUG"
   },
   {
-    "Ad lib feeding": "TREATMENT"
+    "feeding": "TREATMENT"
   },
   {
     "gestation": "PROBLEM"
@@ -195,6 +183,15 @@
     "neosure": "DRUG"
   },
   {
-    "discharge": "PROBLEM"
+    "feeds": "TREATMENT"
+  },
+  {
+    "delivery": "TEST"
+  },
+  {
+    "perineum": "PROBLEM"
+  },
+  {
+    "discharge": "TEST"
   }
 ]

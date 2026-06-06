@@ -1,42 +1,36 @@
 [
   {
-    "ENT": "TEST"
+    "ear": "PROBLEM"
   },
   {
-    "ear": "TEST"
+    "nose": "PROBLEM"
   },
   {
-    "nose": "TEST"
+    "mouth": "PROBLEM"
   },
   {
-    "mouth": "TEST"
-  },
-  {
-    "throat": "TEST"
+    "throat": "PROBLEM"
   },
   {
     "exam": "TEST"
   },
   {
-    "EARS, NOSE, MOUTH AND THROAT": "TEST"
-  },
-  {
-    "EARS/NOSE": "TEST"
-  },
-  {
-    "auricles": "TEST"
-  },
-  {
     "lymphadenitis": "PROBLEM"
   },
   {
-    "Otoscopic examination": "TEST"
+    "acute trauma": "PROBLEM"
   },
   {
-    "auditory canals": "TEST"
+    "nose": "PROBLEM"
   },
   {
-    "tympanic membranes": "TEST"
+    "palpation": "TEST"
+  },
+  {
+    "inspection": "TEST"
+  },
+  {
+    "trauma": "PROBLEM"
   },
   {
     "mass lesion": "PROBLEM"
@@ -48,7 +42,19 @@
     "swelling": "PROBLEM"
   },
   {
+    "Otoscopic examination": "TEST"
+  },
+  {
+    "auditory canals": "TEST"
+  },
+  {
     "tympanic membranes": "TEST"
+  },
+  {
+    "disruption": "PROBLEM"
+  },
+  {
+    "infection": "PROBLEM"
   },
   {
     "Hearing": "PROBLEM"
@@ -57,7 +63,22 @@
     "mucous membranes": "PROBLEM"
   },
   {
-    "septum": "PROBLEM"
+    "disruption": "PROBLEM"
+  },
+  {
+    "inflammation": "PROBLEM"
+  },
+  {
+    "acute traumatic lesions": "PROBLEM"
+  },
+  {
+    "disruption": "PROBLEM"
+  },
+  {
+    "turbinates": "PROBLEM"
+  },
+  {
+    "swelling": "PROBLEM"
   },
   {
     "rhinorrhea": "PROBLEM"
@@ -78,7 +99,22 @@
     "infection": "PROBLEM"
   },
   {
+    "gingivae": "PROBLEM"
+  },
+  {
+    "palpation": "TEST"
+  },
+  {
+    "inspection": "TEST"
+  },
+  {
+    "oral mucosa": "PROBLEM"
+  },
+  {
     "swelling": "PROBLEM"
+  },
+  {
+    "palates": "PROBLEM"
   },
   {
     "tongue": "PROBLEM"
@@ -90,13 +126,55 @@
     "swelling": "PROBLEM"
   },
   {
-    "tonsils": "PROBLEM"
+    "movement": "PROBLEM"
   },
   {
-    "posterior pharynx": "TEST"
+    "inflammation": "PROBLEM"
+  },
+  {
+    "mass lesion": "PROBLEM"
+  },
+  {
+    "patent oropharyngeal airway": "PROBLEM"
+  },
+  {
+    "general medicine": "TREATMENT"
+  },
+  {
+    "oral mucosa": "PROBLEM"
+  },
+  {
+    "lips": "PROBLEM"
+  },
+  {
+    "hearing": "PROBLEM"
+  },
+  {
+    "auditory canals": "PROBLEM"
+  },
+  {
+    "tympanic membranes": "PROBLEM"
+  },
+  {
+    "traumatic lesions": "PROBLEM"
+  },
+  {
+    "mouth": "PROBLEM"
+  },
+  {
+    "throat": "PROBLEM"
   },
   {
     "trauma": "PROBLEM"
+  },
+  {
+    "nose": "PROBLEM"
+  },
+  {
+    "membranes": "PROBLEM"
+  },
+  {
+    "inflammation": "PROBLEM"
   },
   {
     "infection": "PROBLEM"

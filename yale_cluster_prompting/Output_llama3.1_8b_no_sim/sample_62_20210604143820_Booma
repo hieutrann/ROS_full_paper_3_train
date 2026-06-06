@@ -24,7 +24,7 @@
     "patient": "PROBLEM"
   },
   {
-    "vague historian": "PROBLEM"
+    "historian": "TEST"
   },
   {
     "appetite": "PROBLEM"
@@ -36,7 +36,7 @@
     "weak": "PROBLEM"
   },
   {
-    "complaints": "PROBLEM"
+    "No other specific complaints": "PROBLEM"
   },
   {
     "fever": "PROBLEM"
@@ -126,19 +126,16 @@
     "Alcohol use": "PROBLEM"
   },
   {
-    "TETANUS IMMUNIZATION": "TEST"
+    "tetanus immunization": "TEST"
   },
   {
-    "hysterectomy": "TREATMENT"
+    "hysterectomy": "PROBLEM"
   },
   {
-    "patient": "PROBLEM"
+    "married": "PROBLEM"
   },
   {
-    "FAMILY HISTORY": "TEST"
-  },
-  {
-    "VITAL SIGNS": "TEST"
+    "Noncontributory": "PROBLEM"
   },
   {
     "Temperature": "TEST"
@@ -171,7 +168,13 @@
     "hydrated": "PROBLEM"
   },
   {
-    "SKIN": "TEST"
+    "Warm": "PROBLEM"
+  },
+  {
+    "dry": "PROBLEM"
+  },
+  {
+    "good color": "PROBLEM"
   },
   {
     "EOMI": "PROBLEM"
@@ -180,13 +183,13 @@
     "PERRL": "TEST"
   },
   {
-    "MOUTH": "TEST"
+    "MOUTH": "PROBLEM"
   },
   {
-    "mucous membranes": "PROBLEM"
+    "Mucous membranes": "PROBLEM"
   },
   {
-    "NECK": "TEST"
+    "NECK": "PROBLEM"
   },
   {
     "JVD": "PROBLEM"
@@ -201,25 +204,10 @@
     "tachycardic": "PROBLEM"
   },
   {
-    "murmur": "PROBLEM"
-  },
-  {
-    "ABDOMEN": "TEST"
-  },
-  {
     "bowel sounds": "TEST"
-  },
-  {
-    "bowel sounds": "TEST"
-  },
-  {
-    "nontender": "PROBLEM"
   },
   {
     "rebound": "PROBLEM"
-  },
-  {
-    "guarding": "PROBLEM"
   },
   {
     "CVA": "PROBLEM"
@@ -231,13 +219,13 @@
     "pretibial edema": "PROBLEM"
   },
   {
-    "Cranial nerves II to XII": "PROBLEM"
+    "Cranial nerves II to XII": "TEST"
   },
   {
-    "motor": "PROBLEM"
+    "motor": "TEST"
   },
   {
-    "cerebellar": "PROBLEM"
+    "cerebellar": "TEST"
   },
   {
     "WBC": "TEST"
@@ -264,19 +252,19 @@
     "hematocrit": "TEST"
   },
   {
-    "sodium": "PROBLEM"
+    "decreased sodium": "PROBLEM"
   },
   {
-    "chloride": "PROBLEM"
+    "decreased chloride": "PROBLEM"
   },
   {
-    "calcium": "PROBLEM"
+    "calcium decreased": "PROBLEM"
   },
   {
-    "total protein": "PROBLEM"
+    "total protein decreased": "PROBLEM"
   },
   {
-    "albumin": "PROBLEM"
+    "albumin decreased": "PROBLEM"
   },
   {
     "Amylase": "TEST"
@@ -303,16 +291,10 @@
     "official report": "TEST"
   },
   {
-    "O2 sat": "TEST"
-  },
-  {
     "COPD": "PROBLEM"
   },
   {
     "sinus tachycardia": "PROBLEM"
-  },
-  {
-    "103": "TEST"
   },
   {
     "ectopy": "PROBLEM"
@@ -321,28 +303,7 @@
     "orthostatic vital sign changes": "PROBLEM"
   },
   {
-    "vital sign changes": "PROBLEM"
-  },
-  {
-    "orthostatic": "PROBLEM"
-  },
-  {
-    "vital sign": "TEST"
-  },
-  {
-    "sign changes": "TEST"
-  },
-  {
     "albuterol": "DRUG"
-  },
-  {
-    "nebulizer": "TREATMENT"
-  },
-  {
-    "unit dose small volume": "TREATMENT"
-  },
-  {
-    "lung exam": "TEST"
   },
   {
     "expiratory wheezing": "PROBLEM"
@@ -354,31 +315,16 @@
     "IV fluids": "TREATMENT"
   },
   {
-    "normal saline": "DRUG"
+    "normal saline": "TREATMENT"
   },
   {
-    "1L": "TEST"
-  },
-  {
-    "one hour": "TEST"
-  },
-  {
-    "urine": "TEST"
-  },
-  {
-    "void": "TEST"
-  },
-  {
-    "hydrated": "PROBLEM"
+    "void urine": "TEST"
   },
   {
     "Rectal examination": "TEST"
   },
   {
-    "female nurse": "TREATMENT"
-  },
-  {
-    "sphincter tone": "PROBLEM"
+    "sphincter tone": "TEST"
   },
   {
     "masses": "PROBLEM"
@@ -387,25 +333,10 @@
     "heme negative": "TEST"
   },
   {
-    "patient": "PROBLEM"
-  },
-  {
-    "feels slightly better": "PROBLEM"
-  },
-  {
-    "sinus rhythm": "PROBLEM"
-  },
-  {
     "ectopy": "PROBLEM"
   },
   {
-    "81": "TEST"
-  },
-  {
     "Blood pressure": "TEST"
-  },
-  {
-    "patient": "PROBLEM"
   },
   {
     "history": "PROBLEM"
@@ -435,13 +366,13 @@
     "hemodynamically stable": "PROBLEM"
   },
   {
-    "discharged": "TREATMENT"
+    "ASSESSMENT": "TREATMENT"
   },
   {
-    "tiredness": "PROBLEM"
+    "Acute tiredness": "PROBLEM"
   },
   {
-    "2": "TREATMENT"
+    "2": "TEST"
   },
   {
     "Anemia": "PROBLEM"
@@ -450,10 +381,10 @@
     "3": "PROBLEM"
   },
   {
-    "hyponatremia": "PROBLEM"
+    "Acute hyponatremia": "PROBLEM"
   },
   {
-    "salt": "DRUG"
+    "salt": "TREATMENT"
   },
   {
     "anemia": "PROBLEM"
@@ -462,7 +393,7 @@
     "Dr.": "TREATMENT"
   },
   {
-    "recheck": "TEST"
+    "X": "TEST"
   },
   {
     "condition": "PROBLEM"
@@ -481,9 +412,6 @@
   },
   {
     "ear pain": "PROBLEM"
-  },
-  {
-    "uri symptoms": "PROBLEM"
   },
   {
     "cough": "PROBLEM"

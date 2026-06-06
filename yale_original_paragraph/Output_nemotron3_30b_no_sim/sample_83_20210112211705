@@ -1,0 +1,68 @@
+[
+  {
+    "pelvic pain": "PROBLEM"
+  },
+  {
+    "vaginal bleeding": "PROBLEM"
+  },
+  {
+    "hemoperitoneum": "PROBLEM"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "blood loss": "PROBLEM"
+  },
+  {
+    "ruptured ectopic pregnancy": "PROBLEM"
+  },
+  {
+    "hemoperitoneum": "PROBLEM"
+  },
+  {
+    "ectopic pregnancy": "PROBLEM"
+  },
+  {
+    "gestational sac": "TEST"
+  },
+  {
+    "ectopic": "PROBLEM"
+  },
+  {
+    "ruptured": "PROBLEM"
+  },
+  {
+    "pregnancy": "PROBLEM"
+  },
+  {
+    "hemoperitoneum": "PROBLEM"
+  },
+  {
+    "blood loss": "PROBLEM"
+  },
+  {
+    "ruptured ectopic pregnancy": "PROBLEM"
+  },
+  {
+    "salpingectomy": "TREATMENT"
+  },
+  {
+    "red packed cells": "TREATMENT"
+  },
+  {
+    "hemoglobin": "TEST"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "pain medication": "TREATMENT"
+  },
+  {
+    "iron therapy": "TREATMENT"
+  }
+]

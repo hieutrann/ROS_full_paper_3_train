@@ -33,16 +33,13 @@
     "Ambien": "DRUG"
   },
   {
-    "PENICILLIN ALLERGIES": "PROBLEM"
+    "PENICILLIN": "DRUG"
   },
   {
-    "gait": "TEST"
+    "assistive devices": "TREATMENT"
   },
   {
     "CHEST": "TEST"
-  },
-  {
-    "Regular rate and rhythm": "PROBLEM"
   },
   {
     "operating room": "TREATMENT"
@@ -70,9 +67,6 @@
   },
   {
     "oral pain medication": "DRUG"
-  },
-  {
-    "Incision": "TREATMENT"
   },
   {
     "pain": "PROBLEM"

@@ -9,7 +9,7 @@
     "blood gas": "TEST"
   },
   {
-    "needle": "TREATMENT"
+    "inserting a needle": "TREATMENT"
   },
   {
     "protective clothing": "TREATMENT"
@@ -36,7 +36,7 @@
     "blood tests": "TEST"
   },
   {
-    "exam": "TEST"
+    "final exam": "TEST"
   },
   {
     "viral illness": "PROBLEM"
@@ -105,9 +105,6 @@
     "local infection": "PROBLEM"
   },
   {
-    "fingerstick": "TEST"
-  },
-  {
     "degenerative disc disease": "PROBLEM"
   },
   {
@@ -117,31 +114,7 @@
     "IV contrast": "DRUG"
   },
   {
-    "PHYSICAL EXAMINATION": "TEST"
-  },
-  {
-    "ill": "PROBLEM"
-  },
-  {
-    "toxic": "PROBLEM"
-  },
-  {
-    "temperature": "TEST"
-  },
-  {
-    "pulse": "TEST"
-  },
-  {
-    "respirations": "TEST"
-  },
-  {
-    "blood pressure": "TEST"
-  },
-  {
     "HEENT exam": "TEST"
-  },
-  {
-    "Ocular movements": "TEST"
   },
   {
     "pharyngeal erythema": "PROBLEM"
@@ -219,9 +192,6 @@
     "acute hepatitis": "PROBLEM"
   },
   {
-    "abdominal exam": "TEST"
-  },
-  {
     "generalized lymphadenopathy": "PROBLEM"
   },
   {
@@ -261,31 +231,13 @@
     "disease transmission": "PROBLEM"
   },
   {
-    "protective gear": "TREATMENT"
-  },
-  {
-    "gloves": "TREATMENT"
-  },
-  {
-    "disease transmission": "PROBLEM"
-  },
-  {
     "injury": "PROBLEM"
   },
   {
     "impairment": "PROBLEM"
   },
   {
-    "pathogen exposure": "PROBLEM"
-  },
-  {
-    "blood gas": "TEST"
-  },
-  {
     "nausea": "PROBLEM"
-  },
-  {
-    "needlestick": "PROBLEM"
   },
   {
     "viral illness": "PROBLEM"

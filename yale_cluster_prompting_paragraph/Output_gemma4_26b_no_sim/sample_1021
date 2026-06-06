@@ -3,7 +3,10 @@
     "Full-Field Digital Mammogram (FFDM)": "TEST"
   },
   {
-    "Bilateral Screening Mammogram Full-Field Digital Mammography (FFDM)": "TEST"
+    "Bilateral Screening Mammogram": "TEST"
+  },
+  {
+    "Full-Field Digital Mammography (FFDM)": "TEST"
   },
   {
     "Digital screening mammogram": "TEST"
@@ -12,10 +15,10 @@
     "breast cancer": "PROBLEM"
   },
   {
-    "Breast cancer": "PROBLEM"
+    "Craniocaudal and mediolateral oblique projections": "TEST"
   },
   {
-    "calcifications": "PROBLEM"
+    "benign-appearing calcifications": "PROBLEM"
   },
   {
     "mass": "PROBLEM"
@@ -28,20 +31,5 @@
   },
   {
     "biopsy": "TREATMENT"
-  },
-  {
-    "bilateral screening mammogram": "TEST"
-  },
-  {
-    "breast cancer": "PROBLEM"
-  },
-  {
-    "screening mammogram": "TEST"
-  },
-  {
-    "mammography": "TEST"
-  },
-  {
-    "mammogram": "TEST"
   }
 ]

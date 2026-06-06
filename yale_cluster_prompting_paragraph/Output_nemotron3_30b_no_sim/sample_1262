@@ -1,0 +1,80 @@
+[
+  {
+    "mesothelioma": "PROBLEM"
+  },
+  {
+    "pleural effusion": "PROBLEM"
+  },
+  {
+    "atrial fibrillation": "PROBLEM"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "ascites": "PROBLEM"
+  },
+  {
+    "esophageal reflux": "PROBLEM"
+  },
+  {
+    "deep venous thrombosis": "PROBLEM"
+  },
+  {
+    "chemotherapy": "TREATMENT"
+  },
+  {
+    "cisplatin": "DRUG"
+  },
+  {
+    "Alimta": "DRUG"
+  },
+  {
+    "Lovenox": "DRUG"
+  },
+  {
+    "Coumadin": "DRUG"
+  },
+  {
+    "Zofran": "DRUG"
+  },
+  {
+    "Phenergan": "DRUG"
+  },
+  {
+    "Vicodin": "DRUG"
+  },
+  {
+    "INR": "TEST"
+  },
+  {
+    "echocardiogram": "TEST"
+  },
+  {
+    "CT": "TEST"
+  },
+  {
+    "PET CT": "TEST"
+  },
+  {
+    "lymphadenopathy": "PROBLEM"
+  },
+  {
+    "pericardial": "PROBLEM"
+  },
+  {
+    "thoracic": "PROBLEM"
+  },
+  {
+    "pleural": "PROBLEM"
+  },
+  {
+    "fluid": "PROBLEM"
+  },
+  {
+    "chest": "PROBLEM"
+  },
+  {
+    "pleural": "PROBLEM"
+  }
+]

@@ -93,6 +93,9 @@
     "Atrial fibrillation": "PROBLEM"
   },
   {
+    "RNCA": "PROBLEM"
+  },
+  {
     "intracranial thrombolytic treatment": "TREATMENT"
   },
   {
@@ -111,7 +114,7 @@
     "Cholecystectomy": "TREATMENT"
   },
   {
-    "thoracentesis": "TREATMENT"
+    "Left thoracentesis": "TREATMENT"
   },
   {
     "coronary artery disease": "PROBLEM"
@@ -168,10 +171,7 @@
     "nonproductive cough": "PROBLEM"
   },
   {
-    "pain with coughing": "PROBLEM"
-  },
-  {
-    "Pupils": "TEST"
+    "pain": "PROBLEM"
   },
   {
     "Tympanic membranes": "TEST"
@@ -204,9 +204,6 @@
     "tenderness": "PROBLEM"
   },
   {
-    "pulses": "TEST"
-  },
-  {
     "breakdown": "PROBLEM"
   },
   {
@@ -217,6 +214,9 @@
   },
   {
     "focal deficits": "PROBLEM"
+  },
+  {
+    "Labs": "TEST"
   },
   {
     "right-sided pleural effusion": "PROBLEM"
@@ -270,9 +270,6 @@
     "pericardectomy": "TREATMENT"
   },
   {
-    "symptoms": "PROBLEM"
-  },
-  {
     "chest pain": "PROBLEM"
   },
   {
@@ -283,6 +280,9 @@
   },
   {
     "large mediastinal lymph node": "PROBLEM"
+  },
+  {
+    "pathology": "TEST"
   },
   {
     "pericardectomy": "TREATMENT"

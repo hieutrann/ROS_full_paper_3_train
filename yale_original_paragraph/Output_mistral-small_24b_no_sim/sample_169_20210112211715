@@ -6,6 +6,9 @@
     "blood gas": "TEST"
   },
   {
+    "gloves": "TREATMENT"
+  },
+  {
     "HIV": "PROBLEM"
   },
   {
@@ -33,84 +36,36 @@
     "temperature": "TEST"
   },
   {
-    "pulse": "TEST"
-  },
-  {
-    "respirations": "TEST"
-  },
-  {
     "blood pressure": "TEST"
   },
   {
     "HEENT exam": "TEST"
   },
   {
-    "adenopathy": "PROBLEM"
+    "hepatitis B": "PROBLEM"
   },
   {
-    "breath sounds": "TEST"
-  },
-  {
-    "heart tones": "TEST"
-  },
-  {
-    "abdomen": "TEST"
-  },
-  {
-    "extremities": "TEST"
-  },
-  {
-    "gait": "TEST"
-  },
-  {
-    "balance": "TEST"
-  },
-  {
-    "ataxia": "PROBLEM"
-  },
-  {
-    "needlestick": "PROBLEM"
-  },
-  {
-    "hepatitis B": "DRUG"
-  },
-  {
-    "tetanus": "DRUG"
+    "tetanus": "PROBLEM"
   },
   {
     "intestinal illness": "PROBLEM"
   },
   {
-    "squeakiness": "PROBLEM"
-  },
-  {
-    "vomiting": "PROBLEM"
-  },
-  {
-    "lymphadenopathy": "PROBLEM"
-  },
-  {
-    "fever": "PROBLEM"
-  },
-  {
-    "blood tests": "TEST"
+    "blood testing": "TEST"
   },
   {
     "liver function test": "TEST"
   },
   {
-    "hepatitis C": "PROBLEM"
+    "lab studies": "TEST"
   },
   {
-    "HIV": "PROBLEM"
+    "gloves": "TREATMENT"
   },
   {
-    "infection": "PROBLEM"
+    "hepatitis": "PROBLEM"
   },
   {
-    "gloves": "DRUG"
-  },
-  {
-    "intimate contacts": "PROBLEM"
+    "blood": "TEST"
   }
 ]

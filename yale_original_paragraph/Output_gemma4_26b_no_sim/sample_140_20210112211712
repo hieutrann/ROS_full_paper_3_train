@@ -12,15 +12,6 @@
     "temperature": "TEST"
   },
   {
-    "EOMI": "TEST"
-  },
-  {
-    "PERRLA": "TEST"
-  },
-  {
-    "Sclerae nonicteric": "PROBLEM"
-  },
-  {
     "Funduscopic examination": "TEST"
   },
   {
@@ -57,7 +48,7 @@
     "gallop": "PROBLEM"
   },
   {
-    "axillary or supraclavicular adenopathy": "PROBLEM"
+    "adenopathy": "PROBLEM"
   },
   {
     "hepatosplenomegaly": "PROBLEM"
@@ -75,19 +66,10 @@
     "rigidity": "PROBLEM"
   },
   {
-    "guarding": "PROBLEM"
+    "bruit": "PROBLEM"
   },
   {
-    "aortic impulse": "TEST"
-  },
-  {
-    "intraabdominal bruit": "PROBLEM"
-  },
-  {
-    "Hemoccult-negative stool": "TEST"
-  },
-  {
-    "distal pulse": "TEST"
+    "Hemoccult": "TEST"
   },
   {
     "edema": "PROBLEM"
@@ -112,6 +94,12 @@
   },
   {
     "Brudzinski signs": "TEST"
+  },
+  {
+    "premalignant condition": "PROBLEM"
+  },
+  {
+    "malignant condition": "PROBLEM"
   },
   {
     "hepatosplenomegaly": "PROBLEM"

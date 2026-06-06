@@ -15,10 +15,40 @@
     "stenosis": "PROBLEM"
   },
   {
-    "Anterior cervical discectomy with decompression": "TREATMENT"
+    "Neck pain": "PROBLEM"
   },
   {
-    "Arthrodesis with anterior interbody fusion": "TREATMENT"
+    "right upper extremity radiculopathy": "PROBLEM"
+  },
+  {
+    "Cervical spondylosis": "PROBLEM"
+  },
+  {
+    "herniated nucleus pulposus C4-C5, C5-C6, and C6-C7": "PROBLEM"
+  },
+  {
+    "stenosis": "PROBLEM"
+  },
+  {
+    "Neck pain": "PROBLEM"
+  },
+  {
+    "right upper extremity radiculopathy": "PROBLEM"
+  },
+  {
+    "Cervical spondylosis": "PROBLEM"
+  },
+  {
+    "herniated nucleus pulposus C4-C5, C5-C6, and C6-C7": "PROBLEM"
+  },
+  {
+    "stenosis": "PROBLEM"
+  },
+  {
+    "Anterior cervical discectomy with decompression C4-C5, C5-C6, and C6-C7": "TREATMENT"
+  },
+  {
+    "Arthrodesis with anterior interbody fusion C4-C5, C5-C6, and C6-C7": "TREATMENT"
   },
   {
     "Spinal instrumentation": "TREATMENT"
@@ -36,7 +66,13 @@
     "subjective weakness of the right upper extremity": "PROBLEM"
   },
   {
-    "cervical spondylosis with herniated disk and stenosis": "PROBLEM"
+    "cervical spondylosis": "PROBLEM"
+  },
+  {
+    "herniated disk": "PROBLEM"
+  },
+  {
+    "stenosis": "PROBLEM"
   },
   {
     "liver surgery": "TREATMENT"

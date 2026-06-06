@@ -1,36 +1,39 @@
 [
   {
-    "Hysteroscopy": "TEST"
+    "menometrorrhagia": "PROBLEM"
   },
   {
-    "dilatation and curettage (D&C)": "TREATMENT"
+    "medical therapy": "TREATMENT"
   },
   {
-    "myomectomy": "TREATMENT"
-  },
-  {
-    "Severe menometrorrhagia unresponsive to medical therapy": "PROBLEM"
-  },
-  {
-    "severe anemia": "PROBLEM"
+    "anemia": "PROBLEM"
   },
   {
     "fibroid uterus": "PROBLEM"
   },
   {
+    "Hysteroscopy": "TEST"
+  },
+  {
+    "dilatation and curettage": "TREATMENT"
+  },
+  {
+    "D&C": "TREATMENT"
+  },
+  {
+    "myomectomy": "TREATMENT"
+  },
+  {
     "fibroid": "PROBLEM"
-  },
-  {
-    "Large endometrial cavity fibroid": "PROBLEM"
-  },
-  {
-    "Two units of packed red blood cells": "DRUG"
   },
   {
     "hematocrit": "TEST"
   },
   {
     "hemoglobin": "TEST"
+  },
+  {
+    "packed red blood cells": "TREATMENT"
   },
   {
     "Vicodin tablets": "DRUG"
@@ -40,8 +43,5 @@
   },
   {
     "ferrous sulfate tablets": "DRUG"
-  },
-  {
-    "Dr. X": "DRUG"
   }
 ]

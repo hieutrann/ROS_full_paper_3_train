@@ -51,7 +51,7 @@
     "back, buttock, and bilateral leg pain": "PROBLEM"
   },
   {
-    "bilateral pars defects at L5-S1": "PROBLEM"
+    "bilateral pars defects": "PROBLEM"
   },
   {
     "spondylolysis": "PROBLEM"
@@ -67,6 +67,9 @@
   },
   {
     "wounds": "PROBLEM"
+  },
+  {
+    "pain medication": "DRUG"
   },
   {
     "chronic pain syndrome": "PROBLEM"

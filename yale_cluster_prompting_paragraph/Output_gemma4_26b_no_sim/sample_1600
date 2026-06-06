@@ -123,66 +123,15 @@
     "seizure disorder": "PROBLEM"
   },
   {
-    "blood pressure 175/86": "TEST"
-  },
-  {
     "sinus tachycardia": "PROBLEM"
   },
   {
     "ST-T changes": "PROBLEM"
   },
   {
-    "BUN": "TEST"
-  },
-  {
-    "creatinine": "TEST"
-  },
-  {
-    "gestational diabetes mellitus": "PROBLEM"
-  },
-  {
     "echocardiogram": "TEST"
   },
   {
-    "left ventricular function": "TEST"
-  },
-  {
-    "labetalol": "DRUG"
-  },
-  {
-    "hydralazine": "DRUG"
-  },
-  {
-    "cardizem": "DRUG"
-  },
-  {
-    "metoprolol": "DRUG"
-  },
-  {
-    "hypertension": "PROBLEM"
-  },
-  {
-    "gestational diabetes mellitus": "PROBLEM"
-  },
-  {
-    "pre-eclampsia": "PROBLEM"
-  },
-  {
-    "blood pressure": "PROBLEM"
-  },
-  {
-    "uncontrolled blood pressure": "PROBLEM"
-  },
-  {
     "gestational diabetes": "PROBLEM"
-  },
-  {
-    "cesarean section": "TREATMENT"
-  },
-  {
-    "preeclampsia": "PROBLEM"
-  },
-  {
-    "cesarean": "TREATMENT"
   }
 ]

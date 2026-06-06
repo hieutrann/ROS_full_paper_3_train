@@ -12,7 +12,7 @@
     "erectile dysfunction": "PROBLEM"
   },
   {
-    "Cialis 10 mg": "DRUG"
+    "Cialis": "DRUG"
   },
   {
     "chest pain": "PROBLEM"
@@ -45,7 +45,7 @@
     "nocturia": "PROBLEM"
   },
   {
-    "elevated PSA": "PROBLEM"
+    "PSA": "TEST"
   },
   {
     "biopsy": "TEST"
@@ -54,7 +54,7 @@
     "high grade PIN": "PROBLEM"
   },
   {
-    "PSA 11.6": "TEST"
+    "PSA": "TEST"
   },
   {
     "erectile dysfunction": "PROBLEM"
@@ -78,7 +78,7 @@
     "working pump": "TREATMENT"
   },
   {
-    "Elevated PSA": "PROBLEM"
+    "PSA": "TEST"
   },
   {
     "biopsy": "TEST"
@@ -93,13 +93,10 @@
     "biopsy": "TEST"
   },
   {
-    "biopsy": "TEST"
+    "Cialis": "DRUG"
   },
   {
-    "Cialis 20 mg": "DRUG"
-  },
-  {
-    "Levitra 10 mg": "DRUG"
+    "Levitra": "DRUG"
   },
   {
     "PSA": "TEST"

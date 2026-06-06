@@ -9,46 +9,16 @@
     "Acute foot pain": "PROBLEM"
   },
   {
-    "bleeding": "PROBLEM"
-  },
-  {
-    "numbness": "PROBLEM"
-  },
-  {
-    "weakness": "PROBLEM"
-  },
-  {
     "Asthma": "PROBLEM"
   },
   {
     "Albuterol": "DRUG"
   },
   {
-    "VITAL SIGNS": "TEST"
-  },
-  {
-    "Temperature": "TEST"
-  },
-  {
-    "blood pressure": "TEST"
-  },
-  {
-    "pulse": "TEST"
-  },
-  {
-    "respirations": "TEST"
-  },
-  {
-    "Oxygen saturation": "TEST"
-  },
-  {
     "shortness of breath": "PROBLEM"
   },
   {
     "4-mm partial thickness laceration": "PROBLEM"
-  },
-  {
-    "active bleeding": "PROBLEM"
   },
   {
     "varicose vein": "PROBLEM"
@@ -73,12 +43,6 @@
   },
   {
     "cut on foot": "PROBLEM"
-  },
-  {
-    "piece of glass": "PROBLEM"
-  },
-  {
-    "foreign body": "PROBLEM"
   },
   {
     "active bleeding": "PROBLEM"

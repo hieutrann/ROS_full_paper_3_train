@@ -3,6 +3,9 @@
     "vital signs": "TEST"
   },
   {
+    "afebrile": "PROBLEM"
+  },
+  {
     "blood pressure": "TEST"
   },
   {
@@ -12,10 +15,13 @@
     "ptosis": "PROBLEM"
   },
   {
+    "Hearing": "TEST"
+  },
+  {
     "lesion": "PROBLEM"
   },
   {
-    "enlarged": "PROBLEM"
+    "palpation": "TEST"
   },
   {
     "Auscultation of the lung": "TEST"
@@ -42,7 +48,10 @@
     "enlarged liver": "PROBLEM"
   },
   {
-    "enlarged spleen": "PROBLEM"
+    "spleen": "PROBLEM"
+  },
+  {
+    "Bowel sounds": "TEST"
   },
   {
     "discrete mass": "PROBLEM"
@@ -52,12 +61,6 @@
   },
   {
     "discharge": "PROBLEM"
-  },
-  {
-    "deformity": "PROBLEM"
-  },
-  {
-    "deformity": "PROBLEM"
   },
   {
     "Deep tendon reflexes": "TEST"

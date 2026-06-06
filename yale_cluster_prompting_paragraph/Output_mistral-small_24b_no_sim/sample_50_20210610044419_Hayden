@@ -21,16 +21,13 @@
     "rheumatoid arthritis": "PROBLEM"
   },
   {
-    "leiomyosarcoma": "PROBLEM"
-  },
-  {
     "pulmonary embolus": "PROBLEM"
   },
   {
-    "pneumonia": "PROBLEM"
+    "subdural hematoma": "PROBLEM"
   },
   {
-    "subdural hematoma": "PROBLEM"
+    "sinusitis": "PROBLEM"
   },
   {
     "dyspnea": "PROBLEM"
@@ -39,34 +36,13 @@
     "chest pain": "PROBLEM"
   },
   {
-    "shortness of breath": "PROBLEM"
-  },
-  {
-    "chest pain": "PROBLEM"
-  },
-  {
     "headaches": "PROBLEM"
-  },
-  {
-    "sinusitis": "PROBLEM"
   },
   {
     "pneumonia": "PROBLEM"
   },
   {
-    "CIVI-CAD": "DRUG"
-  },
-  {
-    "Cytoxan": "DRUG"
-  },
-  {
-    "Adriamycin": "DRUG"
-  },
-  {
-    "DTIC": "DRUG"
-  },
-  {
-    "Lovenox": "DRUG"
+    "fevers": "PROBLEM"
   },
   {
     "CIVI-CAD": "DRUG"
@@ -93,36 +69,24 @@
     "Sinus CT": "TEST"
   },
   {
+    "mini-CT": "TEST"
+  },
+  {
     "MRI": "TEST"
   },
   {
-    "CTA": "TEST"
-  },
-  {
-    "head CT": "TEST"
-  },
-  {
-    "sinus CT": "TEST"
-  },
-  {
-    "lab work": "TEST"
-  },
-  {
-    "Hem/Onco B Service": "TREATMENT"
-  },
-  {
-    "preoperative chemotherapy": "TREATMENT"
-  },
-  {
-    "surgical resection": "TREATMENT"
-  },
-  {
-    "continuous IV infusion": "TREATMENT"
-  },
-  {
-    "partial resection": "TREATMENT"
+    "Lovenox": "DRUG"
   },
   {
     "neutropenic diet": "TREATMENT"
+  },
+  {
+    "red blood cells": "TREATMENT"
+  },
+  {
+    "platelets": "TREATMENT"
+  },
+  {
+    "lab work": "TEST"
   }
 ]

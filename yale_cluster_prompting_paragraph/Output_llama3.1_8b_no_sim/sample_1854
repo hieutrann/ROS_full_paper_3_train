@@ -1,15 +1,12 @@
 [
   {
-    "CT C-Spine - 2": "TEST"
-  },
-  {
     "CT examination": "TEST"
   },
   {
-    "cervical spine": "PROBLEM"
+    "CT cervical spine": "TEST"
   },
   {
-    "trauma": "PROBLEM"
+    "cervical spine": "PROBLEM"
   },
   {
     "fractures": "PROBLEM"
@@ -28,5 +25,26 @@
   },
   {
     "foraminal narrowing": "PROBLEM"
+  },
+  {
+    "cervical vertebral body height": "TEST"
+  },
+  {
+    "alignment": "TEST"
+  },
+  {
+    "interspacing": "TEST"
+  },
+  {
+    "coronal": "TEST"
+  },
+  {
+    "sagittal": "TEST"
+  },
+  {
+    "radiology": "TEST"
+  },
+  {
+    "anatomical": "TEST"
   }
 ]

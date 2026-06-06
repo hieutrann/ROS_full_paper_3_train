@@ -1,0 +1,425 @@
+[
+  {
+    "fatigue": "PROBLEM"
+  },
+  {
+    "chest": "PROBLEM"
+  },
+  {
+    "back": "PROBLEM"
+  },
+  {
+    "Stomach gets upset with pain.": "PROBLEM"
+  },
+  {
+    "medical management": "TREATMENT"
+  },
+  {
+    "fatigue": "PROBLEM"
+  },
+  {
+    "chest": "PROBLEM"
+  },
+  {
+    "back": "PROBLEM"
+  },
+  {
+    "Stomach gets upset with pain.": "PROBLEM"
+  },
+  {
+    "supplements": "DRUG"
+  },
+  {
+    "loose bowel movements": "PROBLEM"
+  },
+  {
+    "bladder control": "PROBLEM"
+  },
+  {
+    "pain in her hips": "PROBLEM"
+  },
+  {
+    "peripheral neuropathy": "PROBLEM"
+  },
+  {
+    "swelling": "PROBLEM"
+  },
+  {
+    "headaches": "PROBLEM"
+  },
+  {
+    "Type II diabetes mellitus": "PROBLEM"
+  },
+  {
+    "fatigue": "PROBLEM"
+  },
+  {
+    "weakness": "PROBLEM"
+  },
+  {
+    "Hypertension": "PROBLEM"
+  },
+  {
+    "Peripheral neuropathy with atypical symptoms": "PROBLEM"
+  },
+  {
+    "Hypothyroidism.": "PROBLEM"
+  },
+  {
+    "Depression": "PROBLEM"
+  },
+  {
+    "Long-term use of high-risk medications": "DRUG"
+  },
+  {
+    "Postmenopausal age-related symptoms": "PROBLEM"
+  },
+  {
+    "Abdominal pain": "PROBLEM"
+  },
+  {
+    "irritable bowel type symptoms": "PROBLEM"
+  },
+  {
+    "intermittent diarrhea": "PROBLEM"
+  },
+  {
+    "Her list of medicines is as noted on 04/22/03.": "DRUG"
+  },
+  {
+    "lift": "TREATMENT"
+  },
+  {
+    "As listed on 04/22/04 along with allergies 04/22/04": "PROBLEM"
+  },
+  {
+    "Family History": "PROBLEM"
+  },
+  {
+    "MI": "PROBLEM"
+  },
+  {
+    "stroke": "PROBLEM"
+  },
+  {
+    "healthy": "PROBLEM"
+  },
+  {
+    "nonsmoker": "PROBLEM"
+  },
+  {
+    "nondrinker": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "sweats": "PROBLEM"
+  },
+  {
+    "chills": "PROBLEM"
+  },
+  {
+    "weight change": "PROBLEM"
+  },
+  {
+    "189 pounds": "TEST"
+  },
+  {
+    "188 pounds": "TEST"
+  },
+  {
+    "visual": "PROBLEM"
+  },
+  {
+    "auditory": "PROBLEM"
+  },
+  {
+    "hearing": "PROBLEM"
+  },
+  {
+    "epistaxis": "PROBLEM"
+  },
+  {
+    "sore throat": "PROBLEM"
+  },
+  {
+    "hoarseness": "PROBLEM"
+  },
+  {
+    "Chest": "PROBLEM"
+  },
+  {
+    "chest pains": "PROBLEM"
+  },
+  {
+    "tenderness to palpation": "PROBLEM"
+  },
+  {
+    "wheezing": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "PND": "PROBLEM"
+  },
+  {
+    "orthopnea": "PROBLEM"
+  },
+  {
+    "Thromboembolic disease": "PROBLEM"
+  },
+  {
+    "stomach pain": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "Diarrhea": "PROBLEM"
+  },
+  {
+    "bladder control": "PROBLEM"
+  },
+  {
+    "dysuria": "PROBLEM"
+  },
+  {
+    "hematuria": "PROBLEM"
+  },
+  {
+    "stones": "PROBLEM"
+  },
+  {
+    "Peripheral neuropathy": "PROBLEM"
+  },
+  {
+    "generalized muscle pain": "PROBLEM"
+  },
+  {
+    "joint pain": "PROBLEM"
+  },
+  {
+    "paresis": "PROBLEM"
+  },
+  {
+    "paresthesias": "PROBLEM"
+  },
+  {
+    "rashes": "PROBLEM"
+  },
+  {
+    "itching": "PROBLEM"
+  },
+  {
+    "changes in the nails": "PROBLEM"
+  },
+  {
+    "lumps or masses": "PROBLEM"
+  },
+  {
+    "No bruising or bleeding-type symptoms": "PROBLEM"
+  },
+  {
+    "WEIGHT": "TEST"
+  },
+  {
+    "BP: 140/80.": "TEST"
+  },
+  {
+    "PULSE": "TEST"
+  },
+  {
+    "20.": "TEST"
+  },
+  {
+    "GENERAL APPEARANCE": "TEST"
+  },
+  {
+    "No acute distress": "PROBLEM"
+  },
+  {
+    "normocephalic": "PROBLEM"
+  },
+  {
+    "conjunctivae": "PROBLEM"
+  },
+  {
+    "Pupils are reactive": "TEST"
+  },
+  {
+    "patent": "TEST"
+  },
+  {
+    "TMs": "TEST"
+  },
+  {
+    "Nose, nares patent.": "PROBLEM"
+  },
+  {
+    "Septum midline.": "PROBLEM"
+  },
+  {
+    "Oral mucosa": "PROBLEM"
+  },
+  {
+    "tonsillar lesions": "PROBLEM"
+  },
+  {
+    "exudate": "PROBLEM"
+  },
+  {
+    "asymmetry": "PROBLEM"
+  },
+  {
+    "Neck, adequate range of motion.": "PROBLEM"
+  },
+  {
+    "thyromegaly": "PROBLEM"
+  },
+  {
+    "adenopathy": "PROBLEM"
+  },
+  {
+    "Symmetric": "TEST"
+  },
+  {
+    "clear lungs": "TEST"
+  },
+  {
+    "clear to auscultation": "TEST"
+  },
+  {
+    "and percussion": "TEST"
+  },
+  {
+    "Rate and rhythm": "PROBLEM"
+  },
+  {
+    "S1 and S2 audible.": "TEST"
+  },
+  {
+    "gallop": "PROBLEM"
+  },
+  {
+    "Soft.": "PROBLEM"
+  },
+  {
+    "No masses": "PROBLEM"
+  },
+  {
+    "guarding": "PROBLEM"
+  },
+  {
+    "rigidity": "PROBLEM"
+  },
+  {
+    "tenderness": "PROBLEM"
+  },
+  {
+    "flank pain": "PROBLEM"
+  },
+  {
+    "No examined": "PROBLEM"
+  },
+  {
+    "cyanosis": "PROBLEM"
+  },
+  {
+    "clubbing": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "Intact": "PROBLEM"
+  },
+  {
+    "No lesions or rashes": "PROBLEM"
+  },
+  {
+    "Nonfocal": "PROBLEM"
+  },
+  {
+    "cranial nerve testing II through XII": "TEST"
+  },
+  {
+    "motor": "PROBLEM"
+  },
+  {
+    "sensory": "PROBLEM"
+  },
+  {
+    "gait": "PROBLEM"
+  },
+  {
+    "random motion": "PROBLEM"
+  },
+  {
+    "metformin": "DRUG"
+  },
+  {
+    "As above": "PROBLEM"
+  },
+  {
+    "CBC": "TEST"
+  },
+  {
+    "CMP": "TEST"
+  },
+  {
+    "A1c": "TEST"
+  },
+  {
+    "microalbumin": "TEST"
+  },
+  {
+    "UA": "TEST"
+  },
+  {
+    "Stool for C&S": "TEST"
+  },
+  {
+    "Gram stain": "TEST"
+  },
+  {
+    "ova and parasites": "TEST"
+  },
+  {
+    "intermittent diarrhea": "PROBLEM"
+  },
+  {
+    "CT of the abdomen and pelvis with and without": "TEST"
+  },
+  {
+    "current medications": "DRUG"
+  },
+  {
+    "diuretics": "DRUG"
+  },
+  {
+    "three months": "TEST"
+  },
+  {
+    "fatigue": "PROBLEM"
+  },
+  {
+    "loose bowel movements": "PROBLEM"
+  },
+  {
+    "diabetes mellitus": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "peripheral neuropathy": "PROBLEM"
+  },
+  {
+    "intermittent diarrhea": "PROBLEM"
+  }
+]

@@ -33,16 +33,19 @@
     "psychotropic medications": "DRUG"
   },
   {
-    "individual, group, and family therapy": "TREATMENT"
+    "individual therapy": "TREATMENT"
+  },
+  {
+    "group therapy": "TREATMENT"
+  },
+  {
+    "family therapy": "TREATMENT"
   },
   {
     "Perceptual disturbances": "PROBLEM"
   },
   {
     "disorganized thoughts": "PROBLEM"
-  },
-  {
-    "suspicious": "PROBLEM"
   },
   {
     "audiovisual hallucinations": "PROBLEM"
@@ -87,7 +90,7 @@
     "psychiatric treatment": "TREATMENT"
   },
   {
-    "Basic blood work": "TEST"
+    "basic blood work": "TEST"
   },
   {
     "basic metabolic panel": "TEST"
@@ -138,9 +141,6 @@
     "absolute monocytes": "TEST"
   },
   {
-    "lab results": "TEST"
-  },
-  {
     "Major depression, recurrent, with psychotic features": "PROBLEM"
   },
   {
@@ -159,7 +159,7 @@
     "responding to internal stimuli": "PROBLEM"
   },
   {
-    "RTC (Residential Treatment Center) program": "TREATMENT"
+    "Residential Treatment Center program": "TREATMENT"
   },
   {
     "lab results": "TEST"
@@ -217,9 +217,6 @@
   },
   {
     "psychosocial stressors": "PROBLEM"
-  },
-  {
-    "residential treatment center": "TREATMENT"
   },
   {
     "anxious": "PROBLEM"

@@ -1,29 +1,20 @@
 [
   {
-    "bilateral l5 spondylolysis with pars defects and spinal instability with radiculopathy": "PROBLEM"
+    "Bilateral l5 spondylolysis with pars defects and spinal instability with radiculopathy": "PROBLEM"
   },
   {
-    "chronic pain syndrome": "PROBLEM"
+    "Chronic pain syndrome": "PROBLEM"
   },
   {
-    "L5 Gill procedure with interbody and posterolateral (360 degrees circumferential) arthrodesis using cages, bone graft, recombinant bone morphogenic protein, and pedicle fixation": "TREATMENT"
+    "L5 Gill procedure": "TREATMENT"
   },
   {
-    "p. o. fluids": "TREATMENT"
+    "recombinant bone morphogenic protein": "DRUG"
   },
   {
-    "diet": "TREATMENT"
+    "p. o. fluids": "DRUG"
   },
   {
-    "bone graft": "TREATMENT"
-  },
-  {
-    "recombinant bone morphogenic protein": "TREATMENT"
-  },
-  {
-    "pedicle fixation": "TREATMENT"
-  },
-  {
-    "p. o.": "DRUG"
+    "pain medication": "DRUG"
   }
 ]

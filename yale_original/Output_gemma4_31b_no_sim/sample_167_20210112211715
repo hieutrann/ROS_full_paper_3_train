@@ -1,9 +1,9 @@
 [
   {
-    "Right-sided facial droop": "PROBLEM"
+    "facial droop": "PROBLEM"
   },
   {
-    "right-sided weakness": "PROBLEM"
+    "weakness": "PROBLEM"
   },
   {
     "cerebrovascular accident": "PROBLEM"
@@ -52,6 +52,9 @@
   },
   {
     "urinary tract infection": "PROBLEM"
+  },
+  {
+    "oral medications": "DRUG"
   },
   {
     "PENICILLIN": "DRUG"
@@ -112,12 +115,6 @@
   },
   {
     "blood pressure": "TEST"
-  },
-  {
-    "Pupils": "TEST"
-  },
-  {
-    "External ocular muscles": "TEST"
   },
   {
     "Conjunctivae anicteric": "PROBLEM"
@@ -207,10 +204,10 @@
     "urinalysis": "TEST"
   },
   {
-    "white blood cells": "PROBLEM"
+    "white blood cells": "TEST"
   },
   {
-    "red blood cells": "PROBLEM"
+    "red blood cells": "TEST"
   },
   {
     "culture": "TEST"

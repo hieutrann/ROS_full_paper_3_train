@@ -48,6 +48,9 @@
     "somnolent": "PROBLEM"
   },
   {
+    "medications": "DRUG"
+  },
+  {
     "Lower gastrointestinal bleed": "PROBLEM"
   },
   {
@@ -145,12 +148,6 @@
   },
   {
     "bleeding": "PROBLEM"
-  },
-  {
-    "respiratory status": "PROBLEM"
-  },
-  {
-    "diagnostic pulmonary": "TEST"
   },
   {
     "chronic obstructive pulmonary disease": "PROBLEM"

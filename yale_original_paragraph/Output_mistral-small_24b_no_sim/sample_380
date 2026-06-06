@@ -15,9 +15,6 @@
     "knee": "PROBLEM"
   },
   {
-    "chest pain": "PROBLEM"
-  },
-  {
     "shortness of breath": "PROBLEM"
   },
   {
@@ -33,19 +30,16 @@
     "diarrhea": "PROBLEM"
   },
   {
-    "coronary disease": "PROBLEM"
+    "osteoarthritis": "PROBLEM"
   },
   {
-    "stroke": "PROBLEM"
-  },
-  {
-    "cardiac disease": "PROBLEM"
+    "knee replacement": "TREATMENT"
   },
   {
     "lipid panel": "TEST"
   },
   {
-    "cholesterol": "TEST"
+    "Cholesterol": "TEST"
   },
   {
     "triglycerides": "TEST"
@@ -63,25 +57,28 @@
     "fasting insulin level": "TEST"
   },
   {
+    "nonfasting glucose": "TEST"
+  },
+  {
     "diabetes": "PROBLEM"
   },
   {
-    "DEXA scan": "TEST"
-  },
-  {
-    "bone density": "TEST"
-  },
-  {
-    "arthritis": "PROBLEM"
+    "knee pain": "PROBLEM"
   },
   {
     "low back pain": "PROBLEM"
   },
   {
-    "falls": "PROBLEM"
+    "X-ray": "TEST"
   },
   {
-    "compression fracture": "PROBLEM"
+    "DEXA scan": "TEST"
+  },
+  {
+    "arthritis": "PROBLEM"
+  },
+  {
+    "compression fractures": "PROBLEM"
   },
   {
     "osteoporosis": "PROBLEM"
@@ -102,7 +99,7 @@
     "vitamin E": "DRUG"
   },
   {
-    "calcium": "DRUG"
+    "calcium with D": "DRUG"
   },
   {
     "multivitamin": "DRUG"
@@ -123,22 +120,46 @@
     "adhesive tape": "DRUG"
   },
   {
-    "myofascitis": "PROBLEM"
+    "Hypertension": "PROBLEM"
+  },
+  {
+    "Depression": "PROBLEM"
+  },
+  {
+    "Myofascitis": "PROBLEM"
+  },
+  {
+    "osteoarthritis": "PROBLEM"
+  },
+  {
+    "knee": "PROBLEM"
   },
   {
     "melanoma": "PROBLEM"
   },
   {
-    "breast biopsy": "TEST"
+    "Breast biopsy": "TEST"
   },
   {
     "Holter monitor": "TEST"
   },
   {
-    "echocardiogram": "TEST"
+    "ectopic beat": "PROBLEM"
   },
   {
-    "ectopic beat": "PROBLEM"
+    "Echocardiogram": "TEST"
+  },
+  {
+    "compression fracture": "PROBLEM"
+  },
+  {
+    "DEXA scan": "TEST"
+  },
+  {
+    "Weight": "TEST"
+  },
+  {
+    "Blood pressure": "TEST"
   },
   {
     "Pulse": "TEST"
@@ -153,16 +174,7 @@
     "EKG": "TEST"
   },
   {
-    "sinus rhythm": "TEST"
-  },
-  {
-    "AV block": "PROBLEM"
-  },
-  {
-    "R-wave progression": "TEST"
-  },
-  {
-    "C-reactive protein": "TEST"
+    "C-reactive protein cardiac": "TEST"
   },
   {
     "Weight Watchers": "TREATMENT"
@@ -177,15 +189,42 @@
     "Fosamax": "DRUG"
   },
   {
-    "cardiologist": "TREATMENT"
-  },
-  {
-    "preoperative cardiac testing": "TEST"
-  },
-  {
     "beta-blocker": "DRUG"
   },
   {
-    "cardiac protection": "TREATMENT"
+    "hypertension": "PROBLEM"
+  },
+  {
+    "cerebrovascular accident": "PROBLEM"
+  },
+  {
+    "compression fracture": "PROBLEM"
+  },
+  {
+    "osteoarthritis": "PROBLEM"
+  },
+  {
+    "knee": "PROBLEM"
+  },
+  {
+    "chest x-ray": "TEST"
+  },
+  {
+    "DEXA scan": "TEST"
+  },
+  {
+    "DEXA": "TEST"
+  },
+  {
+    "osteoarthritis": "PROBLEM"
+  },
+  {
+    "cardiac": "PROBLEM"
+  },
+  {
+    "compression": "PROBLEM"
+  },
+  {
+    "knee": "PROBLEM"
   }
 ]

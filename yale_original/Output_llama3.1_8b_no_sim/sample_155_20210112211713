@@ -9,19 +9,19 @@
     "dilated bladder": "PROBLEM"
   },
   {
+    "thick wall": "PROBLEM"
+  },
+  {
+    "obstruction": "PROBLEM"
+  },
+  {
     "bilateral hydronephrosis": "PROBLEM"
   },
   {
     "hydroureter": "PROBLEM"
   },
   {
-    "obstruction": "PROBLEM"
-  },
-  {
     "Sepsis": "PROBLEM"
-  },
-  {
-    "demented": "PROBLEM"
   },
   {
     "abdominal pain": "PROBLEM"
@@ -39,10 +39,7 @@
     "hydroureter": "PROBLEM"
   },
   {
-    "patient": "PROBLEM"
-  },
-  {
-    "son": "PROBLEM"
+    "obstruction": "PROBLEM"
   },
   {
     "IV antibiotics": "DRUG"
@@ -57,13 +54,13 @@
     "CAD": "PROBLEM"
   },
   {
-    "2": "TEST"
+    "2": "TREATMENT"
   },
   {
     "dementia": "PROBLEM"
   },
   {
-    "3": "PROBLEM"
+    "3": "TREATMENT"
   },
   {
     "CVA": "PROBLEM"
@@ -75,7 +72,7 @@
     "nephrolithiasis": "PROBLEM"
   },
   {
-    "NONE": "PROBLEM"
+    "ALLERGIES": "PROBLEM"
   },
   {
     "MEDICATIONS": "DRUG"
@@ -84,13 +81,13 @@
     "Ambien": "DRUG"
   },
   {
-    "2": "TEST"
+    "2": "TREATMENT"
   },
   {
-    "Milk of magnesia": "DRUG"
+    "milk of magnesia": "TREATMENT"
   },
   {
-    "3": "PROBLEM"
+    "3": "TREATMENT"
   },
   {
     "Tylenol": "DRUG"
@@ -102,19 +99,16 @@
     "Tramadol": "DRUG"
   },
   {
-    "5": "PROBLEM"
+    "5": "TEST"
   },
   {
     "Soma": "DRUG"
   },
   {
-    "6": "PROBLEM"
+    "6": "TEST"
   },
   {
     "Coumadin": "DRUG"
-  },
-  {
-    "7": "PROBLEM"
   },
   {
     "Zoloft": "DRUG"
@@ -126,19 +120,19 @@
     "Allopurinol": "DRUG"
   },
   {
-    "9": "PROBLEM"
+    "9": "TEST"
   },
   {
     "Digoxin": "DRUG"
   },
   {
-    "10": "PROBLEM"
+    "10": "TEST"
   },
   {
     "Namenda": "DRUG"
   },
   {
-    "11": "PROBLEM"
+    "11": "TREATMENT"
   },
   {
     "Zocor": "DRUG"
@@ -150,19 +144,13 @@
     "BuSpar": "DRUG"
   },
   {
-    "13": "PROBLEM"
-  },
-  {
     "Detrol": "DRUG"
   },
   {
-    "14": "PROBLEM"
+    "14": "TEST"
   },
   {
     "Coreg": "DRUG"
-  },
-  {
-    "15": "PROBLEM"
   },
   {
     "Colace": "DRUG"
@@ -171,58 +159,52 @@
     "16": "TEST"
   },
   {
-    "Calcium": "PROBLEM"
+    "Calcium": "TEST"
   },
   {
-    "17": "PROBLEM"
+    "17": "TEST"
   },
   {
     "Zantac": "DRUG"
   },
   {
-    "18": "PROBLEM"
+    "18": "TEST"
   },
   {
     "Lasix": "DRUG"
   },
   {
-    "19": "PROBLEM"
+    "19": "TEST"
   },
   {
     "Seroquel": "DRUG"
   },
   {
-    "20": "PROBLEM"
+    "20.": "TEST"
   },
   {
     "Aldactone": "DRUG"
   },
   {
-    "21": "PROBLEM"
+    "21": "TEST"
   },
   {
     "Amoxicillin": "DRUG"
   },
   {
-    "FAMILY HISTORY": "TEST"
+    "Noncontributory": "PROBLEM"
   },
   {
-    "board and care": "PROBLEM"
+    "board and care": "TREATMENT"
   },
   {
-    "tobacco": "PROBLEM"
-  },
-  {
-    "alcohol": "PROBLEM"
-  },
-  {
-    "IV drug use": "PROBLEM"
+    "alcohol": "DRUG"
   },
   {
     "history of present illness": "PROBLEM"
   },
   {
-    "afebrile": "TEST"
+    "afebrile": "PROBLEM"
   },
   {
     "Pulse": "TEST"
@@ -240,16 +222,16 @@
     "patient": "PROBLEM"
   },
   {
-    "Not oriented": "PROBLEM"
+    "oriented": "PROBLEM"
   },
   {
-    "Pupils": "TEST"
+    "pupils": "TEST"
   },
   {
-    "Extraocular movements": "TEST"
+    "movements": "TEST"
   },
   {
-    "Mucous membranes": "PROBLEM"
+    "mucous membranes": "PROBLEM"
   },
   {
     "Supple": "TEST"
@@ -276,7 +258,10 @@
     "Soft": "PROBLEM"
   },
   {
-    "tenderness in the suprapubic region": "PROBLEM"
+    "tenderness": "PROBLEM"
+  },
+  {
+    "rebound": "PROBLEM"
   },
   {
     "cyanosis": "PROBLEM"
@@ -285,10 +270,7 @@
     "edema": "PROBLEM"
   },
   {
-    "clubbing": "PROBLEM"
-  },
-  {
-    "NEUROLOGIC": "TEST"
+    "NEUROLOGIC": "PROBLEM"
   },
   {
     "focality": "PROBLEM"
@@ -297,10 +279,16 @@
     "left inguinal hernia": "PROBLEM"
   },
   {
+    "colon in sac": "PROBLEM"
+  },
+  {
     "SBO": "PROBLEM"
   },
   {
     "dilated bladder": "PROBLEM"
+  },
+  {
+    "thick wall": "PROBLEM"
   },
   {
     "possible outlet obstruction": "PROBLEM"
@@ -316,9 +304,6 @@
   },
   {
     "CT of the abdomen": "TEST"
-  },
-  {
-    "colon in sac": "TEST"
   },
   {
     "White count": "TEST"
@@ -372,13 +357,13 @@
     "sepsis": "PROBLEM"
   },
   {
-    "2": "TEST"
+    "2": "TREATMENT"
   },
   {
     "Obstructive uropathy": "PROBLEM"
   },
   {
-    "3": "PROBLEM"
+    "3": "TREATMENT"
   },
   {
     "Dementia": "PROBLEM"
@@ -387,13 +372,13 @@
     "Atrial fibrillation": "PROBLEM"
   },
   {
-    "5": "PROBLEM"
+    "5": "TEST"
   },
   {
     "Anemia": "PROBLEM"
   },
   {
-    "6": "PROBLEM"
+    "6": "TEST"
   },
   {
     "Adrenal gland mass": "PROBLEM"
@@ -408,16 +393,16 @@
     "X": "PROBLEM"
   },
   {
-    "2": "TEST"
+    "2": "TREATMENT"
   },
   {
     "renal consult": "TREATMENT"
   },
   {
-    "Y.": "PROBLEM"
+    "Y": "PROBLEM"
   },
   {
-    "3": "PROBLEM"
+    "3": "TREATMENT"
   },
   {
     "Levaquin": "DRUG"
@@ -429,22 +414,22 @@
     "gentamicin": "DRUG"
   },
   {
-    "5": "PROBLEM"
+    "5": "TEST"
   },
   {
-    "hypertonic-hypotonic": "TEST"
+    "hypertonic-hypotonic": "TREATMENT"
   },
   {
-    "6": "PROBLEM"
+    "6": "TEST"
+  },
+  {
+    "anticoagulation": "TREATMENT"
   },
   {
     "SCD": "TREATMENT"
   },
   {
     "TED hose": "TREATMENT"
-  },
-  {
-    "7": "PROBLEM"
   },
   {
     "atrial fibrillation": "PROBLEM"
@@ -456,13 +441,10 @@
     "8": "TEST"
   },
   {
-    "dementia": "PROBLEM"
+    "dementia medications": "DRUG"
   },
   {
-    "medications": "DRUG"
-  },
-  {
-    "9": "PROBLEM"
+    "9": "TEST"
   },
   {
     "PPI": "DRUG"
@@ -474,10 +456,10 @@
     "abdominal pain": "PROBLEM"
   },
   {
-    "hydroureter": "PROBLEM"
+    "hydronephrosis": "PROBLEM"
   },
   {
-    "urology": "PROBLEM"
+    "hydroureter": "PROBLEM"
   },
   {
     "urinary tract infection": "PROBLEM"

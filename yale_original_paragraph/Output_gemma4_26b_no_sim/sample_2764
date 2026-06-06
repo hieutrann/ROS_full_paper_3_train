@@ -1,5 +1,8 @@
 [
   {
+    "Pneumonia": "PROBLEM"
+  },
+  {
     "Atypical pneumonia": "PROBLEM"
   },
   {
@@ -9,7 +12,7 @@
     "rheumatoid arthritis": "PROBLEM"
   },
   {
-    "stress-induced adrenal insufficiency": "PROBLEM"
+    "adrenal insufficiency": "PROBLEM"
   },
   {
     "cough": "PROBLEM"
@@ -22,27 +25,6 @@
   },
   {
     "chills": "PROBLEM"
-  },
-  {
-    "Pneumonia": "PROBLEM"
-  },
-  {
-    "Hypoxia": "PROBLEM"
-  },
-  {
-    "Rheumatoid arthritis": "PROBLEM"
-  },
-  {
-    "Atypical pneumonia": "PROBLEM"
-  },
-  {
-    "Hypoxia": "PROBLEM"
-  },
-  {
-    "Rheumatoid arthritis": "PROBLEM"
-  },
-  {
-    "stress-induced adrenal insufficiency": "PROBLEM"
   },
   {
     "x-ray": "TEST"
@@ -84,7 +66,7 @@
     "C. difficile toxin": "TEST"
   },
   {
-    "Rocephin": "DRUG"
+    "Rocephin IV": "DRUG"
   },
   {
     "azithromycin": "DRUG"
@@ -94,6 +76,9 @@
   },
   {
     "O2 saturations": "TEST"
+  },
+  {
+    "azithromycin": "DRUG"
   },
   {
     "prednisone": "DRUG"
@@ -124,6 +109,9 @@
   },
   {
     "cough": "PROBLEM"
+  },
+  {
+    "fevers": "DRUG"
   },
   {
     "weakness": "PROBLEM"

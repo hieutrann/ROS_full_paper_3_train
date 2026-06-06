@@ -1,30 +1,15 @@
 [
   {
-    "ear": "TEST"
-  },
-  {
-    "nose": "TEST"
-  },
-  {
-    "mouth": "TEST"
-  },
-  {
-    "throat": "TEST"
+    "ENT Exam": "TEST"
   },
   {
     "lymphadenitis": "PROBLEM"
   },
   {
+    "acute trauma": "PROBLEM"
+  },
+  {
     "nose": "PROBLEM"
-  },
-  {
-    "Otoscopic examination": "TEST"
-  },
-  {
-    "auditory canals": "PROBLEM"
-  },
-  {
-    "tympanic membranes": "PROBLEM"
   },
   {
     "mass lesion": "PROBLEM"
@@ -42,25 +27,13 @@
     "Hearing": "TEST"
   },
   {
-    "Nasal mucosa": "TEST"
-  },
-  {
-    "septum": "TEST"
-  },
-  {
-    "turbinate": "TEST"
-  },
-  {
-    "mucous membranes": "TEST"
-  },
-  {
-    "disruption": "PROBLEM"
-  },
-  {
-    "inflammation": "PROBLEM"
+    "mucous membranes": "PROBLEM"
   },
   {
     "septum": "PROBLEM"
+  },
+  {
+    "turbinates": "PROBLEM"
   },
   {
     "rhinorrhea": "PROBLEM"
@@ -78,7 +51,19 @@
     "traumatic lesions": "PROBLEM"
   },
   {
-    "swelling": "PROBLEM"
+    "teeth": "PROBLEM"
+  },
+  {
+    "gingivae": "PROBLEM"
+  },
+  {
+    "oral mucosa": "PROBLEM"
+  },
+  {
+    "salivary glands": "PROBLEM"
+  },
+  {
+    "palates": "PROBLEM"
   },
   {
     "tongue": "PROBLEM"
@@ -87,7 +72,46 @@
     "tonsils": "PROBLEM"
   },
   {
-    "posterior pharynx": "PROBLEM"
+    "mass lesion": "PROBLEM"
+  },
+  {
+    "oropharyngeal airway": "PROBLEM"
+  },
+  {
+    "general medicine": "TEST"
+  },
+  {
+    "oral mucosa": "PROBLEM"
+  },
+  {
+    "lips": "PROBLEM"
+  },
+  {
+    "hearing": "PROBLEM"
+  },
+  {
+    "auditory canals": "PROBLEM"
+  },
+  {
+    "tympanic membranes": "PROBLEM"
+  },
+  {
+    "traumatic lesions": "PROBLEM"
+  },
+  {
+    "mouth": "PROBLEM"
+  },
+  {
+    "throat": "PROBLEM"
+  },
+  {
+    "trauma": "PROBLEM"
+  },
+  {
+    "nose": "PROBLEM"
+  },
+  {
+    "membranes": "PROBLEM"
   },
   {
     "inflammation": "PROBLEM"

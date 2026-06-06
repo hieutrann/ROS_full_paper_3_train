@@ -18,6 +18,9 @@
     "hypoglycemia": "PROBLEM"
   },
   {
+    "glucometer": "TEST"
+  },
+  {
     "kidney damage": "PROBLEM"
   },
   {
@@ -30,7 +33,7 @@
     "Lantus": "DRUG"
   },
   {
-    "alkaline phosphatase level": "TEST"
+    "alkaline phosphatase": "TEST"
   },
   {
     "SGGT": "TEST"
@@ -66,21 +69,6 @@
     "vomiting": "PROBLEM"
   },
   {
-    "Blood sugar": "TEST"
-  },
-  {
-    "blood pressure": "TEST"
-  },
-  {
-    "heart rate": "TEST"
-  },
-  {
-    "respirations": "TEST"
-  },
-  {
-    "Microalbumin": "TEST"
-  },
-  {
     "skin lacerations": "PROBLEM"
   },
   {
@@ -97,9 +85,6 @@
   },
   {
     "Diabetes mellitus, type 1": "PROBLEM"
-  },
-  {
-    "diabetic neuropathy": "PROBLEM"
   },
   {
     "microalbuminuria": "PROBLEM"

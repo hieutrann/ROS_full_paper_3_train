@@ -27,19 +27,19 @@
     "visuospatial skills": "PROBLEM"
   },
   {
-    "attention": "TEST"
+    "attention": "PROBLEM"
   },
   {
-    "memory": "TEST"
+    "memory": "PROBLEM"
   },
   {
-    "executive functions": "TEST"
+    "executive functions": "PROBLEM"
   },
   {
-    "language": "TEST"
+    "language": "PROBLEM"
   },
   {
-    "visuospatial skill": "TEST"
+    "visuospatial skill": "PROBLEM"
   },
   {
     "cognitive-linguistic deficit": "PROBLEM"
@@ -51,6 +51,27 @@
     "speech therapy": "TREATMENT"
   },
   {
+    "memory": "PROBLEM"
+  },
+  {
+    "executive function": "PROBLEM"
+  },
+  {
+    "attention": "PROBLEM"
+  },
+  {
     "speech therapy": "TREATMENT"
+  },
+  {
+    "visuospatial": "PROBLEM"
+  },
+  {
+    "linguistic": "PROBLEM"
+  },
+  {
+    "cognitive": "PROBLEM"
+  },
+  {
+    "speech": "PROBLEM"
   }
 ]

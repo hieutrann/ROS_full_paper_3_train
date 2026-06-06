@@ -1,0 +1,332 @@
+[
+  {
+    "Right-sided facial droop": "PROBLEM"
+  },
+  {
+    "right-sided weakness": "PROBLEM"
+  },
+  {
+    "cerebrovascular accident": "PROBLEM"
+  },
+  {
+    "CT scan of the head": "TEST"
+  },
+  {
+    "Right-sided facial droop": "PROBLEM"
+  },
+  {
+    "right-sided weakness": "PROBLEM"
+  },
+  {
+    "stroke": "PROBLEM"
+  },
+  {
+    "dementia": "PROBLEM"
+  },
+  {
+    "expressive aphasia": "PROBLEM"
+  },
+  {
+    "right-sided facial droop": "PROBLEM"
+  },
+  {
+    "right-sided upper extremity weakness": "PROBLEM"
+  },
+  {
+    "right-sided facial droop": "PROBLEM"
+  },
+  {
+    "cerebrovascular accident": "PROBLEM"
+  },
+  {
+    "urinary tract infection": "PROBLEM"
+  },
+  {
+    "oral medications": "TREATMENT"
+  },
+  {
+    "PENICILLIN": "DRUG"
+  },
+  {
+    "nondrinker": "PROBLEM"
+  },
+  {
+    "nonsmoker": "PROBLEM"
+  },
+  {
+    "skilled nursing facility": "PROBLEM"
+  },
+  {
+    "Noncontributory": "PROBLEM"
+  },
+  {
+    "Cerebrovascular accident": "PROBLEM"
+  },
+  {
+    "expressive aphasia": "PROBLEM"
+  },
+  {
+    "lower extremity weakness": "PROBLEM"
+  },
+  {
+    "Abnormality of gait and wheelchair bound secondary to #1": "PROBLEM"
+  },
+  {
+    "Hypertension": "PROBLEM"
+  },
+  {
+    "Chronic obstructive pulmonary disease": "PROBLEM"
+  },
+  {
+    "Anxiety disorder": "PROBLEM"
+  },
+  {
+    "Dementia.": "PROBLEM"
+  },
+  {
+    "mastectomy": "TREATMENT"
+  },
+  {
+    "knee replacement": "TREATMENT"
+  },
+  {
+    "urine incontinence": "PROBLEM"
+  },
+  {
+    "stool incontinence": "PROBLEM"
+  },
+  {
+    "wheelchair bound": "TREATMENT"
+  },
+  {
+    "awake": "PROBLEM"
+  },
+  {
+    "non-communicable": "PROBLEM"
+  },
+  {
+    "Temperature": "TEST"
+  },
+  {
+    "pulse": "PROBLEM"
+  },
+  {
+    "respirations": "PROBLEM"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "Pupils are equal, round, and reactive to light": "PROBLEM"
+  },
+  {
+    "intact": "PROBLEM"
+  },
+  {
+    "Conjunctivae anicteric.": "PROBLEM"
+  },
+  {
+    "facial droop": "PROBLEM"
+  },
+  {
+    "Oropharynx": "PROBLEM"
+  },
+  {
+    "Tympanic membranes are clear.": "TEST"
+  },
+  {
+    "Supple.": "PROBLEM"
+  },
+  {
+    "carotid bruit": "PROBLEM"
+  },
+  {
+    "cervical adenopathy": "PROBLEM"
+  },
+  {
+    "Regular rate and rhythm": "PROBLEM"
+  },
+  {
+    "2/6 systolic murmur": "PROBLEM"
+  },
+  {
+    "apex": "PROBLEM"
+  },
+  {
+    "LUNGS": "TEST"
+  },
+  {
+    "Soft and no tenderness": "PROBLEM"
+  },
+  {
+    "Bowel sound is present.": "TEST"
+  },
+  {
+    "pedal edema": "PROBLEM"
+  },
+  {
+    "passively extendable": "TEST"
+  },
+  {
+    "fixed flexion deformity": "PROBLEM"
+  },
+  {
+    "facial droop": "PROBLEM"
+  },
+  {
+    "upper extremities": "PROBLEM"
+  },
+  {
+    "withdrawal of both lower extremities by touching her sole of the feet": "PROBLEM"
+  },
+  {
+    "pressure ulcer": "PROBLEM"
+  },
+  {
+    "CT scan of the head": "TEST"
+  },
+  {
+    "Sodium": "TEST"
+  },
+  {
+    "potassium": "TEST"
+  },
+  {
+    "chloride": "TEST"
+  },
+  {
+    "bicarbonate": "TEST"
+  },
+  {
+    "BUN": "TEST"
+  },
+  {
+    "creatinine": "TEST"
+  },
+  {
+    "glucose": "TEST"
+  },
+  {
+    "Total white blood cell count": "TEST"
+  },
+  {
+    "hemoglobin": "TEST"
+  },
+  {
+    "hematocrit": "TEST"
+  },
+  {
+    "platelet count": "TEST"
+  },
+  {
+    "white blood cells": "TEST"
+  },
+  {
+    "red blood cells": "TEST"
+  },
+  {
+    "E. coli": "PROBLEM"
+  },
+  {
+    "amikacin": "DRUG"
+  },
+  {
+    "nitrofurantoin": "DRUG"
+  },
+  {
+    "imipenem": "DRUG"
+  },
+  {
+    "meropenem": "DRUG"
+  },
+  {
+    "cerebrovascular accident": "PROBLEM"
+  },
+  {
+    "right-sided weakness": "PROBLEM"
+  },
+  {
+    "Hypertension": "PROBLEM"
+  },
+  {
+    "Dementia.": "PROBLEM"
+  },
+  {
+    "Anxiety.": "PROBLEM"
+  },
+  {
+    "Urinary tract infection": "PROBLEM"
+  },
+  {
+    "Abnormality of gait secondary to lower extremity weakness.": "PROBLEM"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "Vasotec": "DRUG"
+  },
+  {
+    "systolic blood pressure more than 170": "TEST"
+  },
+  {
+    "Neuro check every 4 hours for 24 hours": "TEST"
+  },
+  {
+    "amikacin IV": "DRUG"
+  },
+  {
+    "Lovenox": "DRUG"
+  },
+  {
+    "Ecotrin": "DRUG"
+  },
+  {
+    "Aricept 10 mg p.o.": "DRUG"
+  },
+  {
+    "Diovan 160 mg p.o.": "DRUG"
+  },
+  {
+    "multivitamin": "DRUG"
+  },
+  {
+    "calcium with vitamin D": "DRUG"
+  },
+  {
+    "Ecotrin": "DRUG"
+  },
+  {
+    "Tylenol": "DRUG"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "D5 normal saline": "TEST"
+  },
+  {
+    "potassium 10 mEq per 1000 mL": "TREATMENT"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "right-sided weakness": "PROBLEM"
+  },
+  {
+    "facial droop": "PROBLEM"
+  },
+  {
+    "wheelchair bound": "TREATMENT"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "cerebrovascular accident": "PROBLEM"
+  },
+  {
+    "weakness": "PROBLEM"
+  }
+]

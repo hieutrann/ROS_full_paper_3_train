@@ -1,18 +1,18 @@
 [
   {
-    "hip surgery": "PROBLEM"
-  },
-  {
-    "hip surgery": "TREATMENT"
+    "daily living activity": "PROBLEM"
   },
   {
     "right hip surgery": "PROBLEM"
   },
   {
-    "low-grade fever": "PROBLEM"
+    "right hip surgery": "TREATMENT"
   },
   {
-    "DVT": "PROBLEM"
+    "right total hip replacement": "TREATMENT"
+  },
+  {
+    "fever": "PROBLEM"
   },
   {
     "Coumadin": "DRUG"
@@ -33,6 +33,9 @@
     "right hip pain": "PROBLEM"
   },
   {
+    "ALLERGIES": "PROBLEM"
+  },
+  {
     "Anxiety": "PROBLEM"
   },
   {
@@ -43,9 +46,6 @@
   },
   {
     "migraine headaches": "PROBLEM"
-  },
-  {
-    "menstrual cycle": "PROBLEM"
   },
   {
     "sciatic pain": "PROBLEM"
@@ -90,28 +90,28 @@
     "smoking": "PROBLEM"
   },
   {
+    "cigarettes": "DRUG"
+  },
+  {
     "migraine headaches": "PROBLEM"
   },
   {
     "menstrual cycle": "PROBLEM"
   },
   {
-    "glasses": "PROBLEM"
+    "glasses": "TREATMENT"
   },
   {
     "floaters": "PROBLEM"
   },
   {
-    "temperature": "PROBLEM"
+    "temperature": "TEST"
   },
   {
     "cough": "PROBLEM"
   },
   {
     "throat": "PROBLEM"
-  },
-  {
-    "intubation": "TREATMENT"
   },
   {
     "calf pain": "PROBLEM"
@@ -126,7 +126,7 @@
     "palpitation": "PROBLEM"
   },
   {
-    "pain in the upper neck and down to her arm": "PROBLEM"
+    "pain": "PROBLEM"
   },
   {
     "difficulty breathing": "PROBLEM"
@@ -148,12 +148,6 @@
   },
   {
     "constipated": "PROBLEM"
-  },
-  {
-    "bowel movement": "PROBLEM"
-  },
-  {
-    "urinary symptoms": "PROBLEM"
   },
   {
     "dysuria": "PROBLEM"
@@ -195,6 +189,12 @@
     "Sclerae": "PROBLEM"
   },
   {
+    "EOMI": "TEST"
+  },
+  {
+    "Dentition": "PROBLEM"
+  },
+  {
     "Trachea": "PROBLEM"
   },
   {
@@ -204,7 +204,7 @@
     "HEART": "PROBLEM"
   },
   {
-    "Bowel sounds": "PROBLEM"
+    "Bowel sounds": "TEST"
   },
   {
     "Right hip incision": "PROBLEM"
@@ -222,7 +222,7 @@
     "pedal edema": "PROBLEM"
   },
   {
-    "Alert and oriented x3": "TEST"
+    "exam": "TEST"
   },
   {
     "chemistry panel": "TEST"
@@ -276,10 +276,10 @@
     "Pain management": "TREATMENT"
   },
   {
-    "Oxycodone SR": "DRUG"
+    "Oxycodone SR 20 mg b.i.d.": "DRUG"
   },
   {
-    "oxycodone IR": "DRUG"
+    "oxycodone IR 5 mg": "DRUG"
   },
   {
     "pain": "PROBLEM"
@@ -288,25 +288,22 @@
     "ice": "TREATMENT"
   },
   {
-    "edema": "PROBLEM"
-  },
-  {
     "Depression": "PROBLEM"
   },
   {
     "anxiety": "PROBLEM"
   },
   {
-    "Paxil": "DRUG"
+    "Paxil 40 mg daily": "DRUG"
   },
   {
-    "Klonopin": "DRUG"
+    "Klonopin 1 mg q.h.s.": "DRUG"
   },
   {
     "Osteoarthritis": "PROBLEM"
   },
   {
-    "Celebrex": "DRUG"
+    "Celebrex 200 mg b.i.d.": "DRUG"
   },
   {
     "GI prophylaxis": "TREATMENT"
@@ -315,16 +312,13 @@
     "Protonix": "DRUG"
   },
   {
-    "Dulcolax": "DRUG"
+    "Dulcolax suppository": "DRUG"
   },
   {
     "lactulose": "DRUG"
   },
   {
     "Colace": "DRUG"
-  },
-  {
-    "DVT": "PROBLEM"
   },
   {
     "Arixtra": "DRUG"
@@ -334,6 +328,9 @@
   },
   {
     "Coumadin": "DRUG"
+  },
+  {
+    "INR": "TEST"
   },
   {
     "5 mg": "DRUG"
@@ -346,6 +343,12 @@
   },
   {
     "DVT": "PROBLEM"
+  },
+  {
+    "discharge summary": "TEST"
+  },
+  {
+    "decreased ability": "PROBLEM"
   },
   {
     "hip surgery": "TREATMENT"

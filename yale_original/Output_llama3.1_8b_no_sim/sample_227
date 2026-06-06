@@ -3,16 +3,19 @@
     "Diabetes Mellitus": "PROBLEM"
   },
   {
+    "Diabetes Mellitus": "PROBLEM"
+  },
+  {
+    "Type 1": "PROBLEM"
+  },
+  {
     "diabetes mellitus": "PROBLEM"
   },
   {
     "diabetic neuropathy": "PROBLEM"
   },
   {
-    "NPH": "DRUG"
-  },
-  {
-    "Regular insulin": "DRUG"
+    "insulin": "DRUG"
   },
   {
     "low blood sugar": "PROBLEM"
@@ -30,13 +33,13 @@
     "glucometer": "TEST"
   },
   {
-    "Endocrinologist": "PROBLEM"
+    "Endocrinologist": "TREATMENT"
   },
   {
     "kidney damage": "PROBLEM"
   },
   {
-    "microalbumin": "PROBLEM"
+    "microalbumin": "TEST"
   },
   {
     "hemoglobin A1C": "TEST"
@@ -48,7 +51,13 @@
     "Lantus": "DRUG"
   },
   {
+    "hemoglobin A1C": "TEST"
+  },
+  {
     "alkaline phosphatase": "TEST"
+  },
+  {
+    "168": "TEST"
   },
   {
     "alcohol": "PROBLEM"
@@ -87,16 +96,10 @@
     "head": "PROBLEM"
   },
   {
-    "helmet": "PROBLEM"
-  },
-  {
     "headache": "PROBLEM"
   },
   {
     "scalp laceration": "PROBLEM"
-  },
-  {
-    "Patient": "PROBLEM"
   },
   {
     "headache": "PROBLEM"
@@ -120,10 +123,10 @@
     "WN": "TEST"
   },
   {
-    "Slender": "PROBLEM"
+    "male": "PROBLEM"
   },
   {
-    "Blood sugar": "TEST"
+    "blood sugar": "TEST"
   },
   {
     "blood pressure": "TEST"
@@ -138,10 +141,13 @@
     "Microalbumin": "TEST"
   },
   {
-    "skin lacerations": "PROBLEM"
+    "lacerations": "PROBLEM"
   },
   {
     "scalp": "PROBLEM"
+  },
+  {
+    "parietal region": "PROBLEM"
   },
   {
     "infection": "PROBLEM"
@@ -153,7 +159,7 @@
     "healing": "PROBLEM"
   },
   {
-    "HEENT": "TEST"
+    "Normocephalic": "PROBLEM"
   },
   {
     "PERRLA": "TEST"
@@ -162,13 +168,16 @@
     "EOMI": "PROBLEM"
   },
   {
-    "TMs": "PROBLEM"
+    "TMs": "TEST"
   },
   {
     "Nares": "PROBLEM"
   },
   {
-    "Throat": "PROBLEM"
+    "redness": "PROBLEM"
+  },
+  {
+    "swelling": "PROBLEM"
   },
   {
     "sinuses": "PROBLEM"
@@ -198,7 +207,7 @@
     "CTA": "TEST"
   },
   {
-    "ABDOMEN": "PROBLEM"
+    "Abdomen": "PROBLEM"
   },
   {
     "HSM": "PROBLEM"
@@ -225,7 +234,7 @@
     "contusion": "PROBLEM"
   },
   {
-    "shin": "TEST"
+    "shin": "PROBLEM"
   },
   {
     "inch": "TEST"
@@ -237,19 +246,16 @@
     "infection": "PROBLEM"
   },
   {
-    "Cranial nerves 2-12": "PROBLEM"
+    "Cranial nerves": "PROBLEM"
   },
   {
-    "Cerebellar function intact": "PROBLEM"
+    "Cerebellar function": "PROBLEM"
   },
   {
-    "RAM": "TEST"
+    "Diabetes mellitus, type 1": "PROBLEM"
   },
   {
-    "Diabetes mellitus": "PROBLEM"
-  },
-  {
-    "2": "TEST"
+    "2": "TREATMENT"
   },
   {
     "diabetic neuropathy": "PROBLEM"
@@ -258,7 +264,7 @@
     "microalbuminuria": "PROBLEM"
   },
   {
-    "3": "PROBLEM"
+    "3": "TREATMENT"
   },
   {
     "Scalp laceration": "PROBLEM"
@@ -267,10 +273,13 @@
     "motor vehicle accident": "PROBLEM"
   },
   {
+    "symptoms": "PROBLEM"
+  },
+  {
     "4": "TEST"
   },
   {
-    "Alk Phos": "PROBLEM"
+    "Alk Phos": "TEST"
   },
   {
     "PLAN": "TREATMENT"
@@ -288,7 +297,7 @@
     "hepatic function panel": "TEST"
   },
   {
-    "microalbumin": "PROBLEM"
+    "microalbumin": "TEST"
   },
   {
     "Ace Inhibitor": "DRUG"
@@ -300,7 +309,7 @@
     "blood sugars": "TEST"
   },
   {
-    "Endocrinology": "PROBLEM"
+    "Endocrinology": "TREATMENT"
   },
   {
     "Prilosec OTC": "DRUG"
@@ -309,16 +318,28 @@
     "GERD": "PROBLEM"
   },
   {
-    "2": "TEST"
+    "2": "TREATMENT"
   },
   {
     "scooter accident": "PROBLEM"
   },
   {
-    "Lacerations": "PROBLEM"
+    "lacerations": "PROBLEM"
+  },
+  {
+    "scalp": "PROBLEM"
+  },
+  {
+    "shin": "PROBLEM"
   },
   {
     "infection": "PROBLEM"
+  },
+  {
+    "swelling": "PROBLEM"
+  },
+  {
+    "heat": "PROBLEM"
   },
   {
     "feeling": "PROBLEM"
@@ -351,9 +372,6 @@
     "nausea": "PROBLEM"
   },
   {
-    "neurological": "PROBLEM"
-  },
-  {
     "vomiting": "PROBLEM"
   },
   {
@@ -366,9 +384,6 @@
     "blood": "TEST"
   },
   {
-    "diabetes": "PROBLEM"
-  },
-  {
-    "sugars": "TEST"
+    "glucometer": "TEST"
   }
 ]

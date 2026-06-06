@@ -12,10 +12,10 @@
     "seizure": "PROBLEM"
   },
   {
-    "IV antibiotics": "TREATMENT"
+    "IV antibiotics": "DRUG"
   },
   {
-    "p.o. antibiotics": "TREATMENT"
+    "p.o. antibiotics": "DRUG"
   },
   {
     "temperature": "TEST"
@@ -57,30 +57,6 @@
     "febrile seizure": "PROBLEM"
   },
   {
-    "febrile seizure": "PROBLEM"
-  },
-  {
-    "temperature": "TEST"
-  },
-  {
     "white count": "TEST"
-  },
-  {
-    "antibiotics": "TREATMENT"
-  },
-  {
-    "febrile seizure": "PROBLEM"
-  },
-  {
-    "temperature": "TEST"
-  },
-  {
-    "blood count": "TEST"
-  },
-  {
-    "pneumonia": "PROBLEM"
-  },
-  {
-    "seizure": "PROBLEM"
   }
 ]

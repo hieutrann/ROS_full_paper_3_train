@@ -60,10 +60,19 @@
     "Carotid upstrokes": "TEST"
   },
   {
-    "gallops": "PROBLEM"
+    "Clear": "PROBLEM"
   },
   {
-    "bowel sounds": "TEST"
+    "Normal S1 and S2": "PROBLEM"
+  },
+  {
+    "No gallops": "PROBLEM"
+  },
+  {
+    "Positive bowel sounds": "PROBLEM"
+  },
+  {
+    "Nontender": "PROBLEM"
   },
   {
     "edema": "PROBLEM"
@@ -91,9 +100,6 @@
   },
   {
     "Xanax": "DRUG"
-  },
-  {
-    "rehabilitation program": "TREATMENT"
   },
   {
     "falls": "PROBLEM"
@@ -124,6 +130,9 @@
   },
   {
     "Hypothyroidism": "PROBLEM"
+  },
+  {
+    "Stable": "PROBLEM"
   },
   {
     "Tylenol": "DRUG"
@@ -184,9 +193,6 @@
   },
   {
     "verapamil": "DRUG"
-  },
-  {
-    "PT": "TREATMENT"
   },
   {
     "rehabilitation": "TREATMENT"

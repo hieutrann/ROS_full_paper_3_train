@@ -45,6 +45,12 @@
     "Colon cancer": "PROBLEM"
   },
   {
+    "right hemicolectomy": "TREATMENT"
+  },
+  {
+    "Anemia": "PROBLEM"
+  },
+  {
     "Hospital-acquired pneumonia": "PROBLEM"
   },
   {
@@ -84,16 +90,31 @@
     "bipolar disorder": "PROBLEM"
   },
   {
+    "anemia": "PROBLEM"
+  },
+  {
     "seizure": "PROBLEM"
   },
   {
     "myoclonic jerks": "PROBLEM"
   },
   {
+    "hypoglycemia": "PROBLEM"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "seizure disorder": "PROBLEM"
+  },
+  {
     "Noncontrast CT of the head": "TEST"
   },
   {
     "Lamictal": "DRUG"
+  },
+  {
+    "hypoglycemia": "PROBLEM"
   },
   {
     "diabetic gastroparesis": "PROBLEM"
@@ -105,13 +126,22 @@
     "insulin pump": "TREATMENT"
   },
   {
+    "hypoglycemia": "PROBLEM"
+  },
+  {
     "hyperglycemia": "PROBLEM"
   },
   {
     "insulin pump rate": "TREATMENT"
   },
   {
+    "insulin": "DRUG"
+  },
+  {
     "NovoLog": "DRUG"
+  },
+  {
+    "anemia": "PROBLEM"
   },
   {
     "Hemoccult stools": "TEST"
@@ -120,7 +150,10 @@
     "colonoscopy": "TEST"
   },
   {
-    "mass at the right hepatic flexure": "PROBLEM"
+    "mass": "PROBLEM"
+  },
+  {
+    "right hemicolectomy": "TREATMENT"
   },
   {
     "cancer": "PROBLEM"
@@ -138,6 +171,9 @@
     "lung metastasis": "PROBLEM"
   },
   {
+    "hospital-acquired pneumonia": "PROBLEM"
+  },
+  {
     "Zosyn": "DRUG"
   },
   {
@@ -150,10 +186,22 @@
     "chest x-rays": "TEST"
   },
   {
-    "MRSA bacteria": "PROBLEM"
+    "vancomycin": "DRUG"
+  },
+  {
+    "MRSA": "PROBLEM"
+  },
+  {
+    "Levaquin": "DRUG"
   },
   {
     "Bactrim DS": "DRUG"
+  },
+  {
+    "MRSA": "PROBLEM"
+  },
+  {
+    "Bactrim": "DRUG"
   },
   {
     "MRSA": "PROBLEM"
@@ -168,10 +216,22 @@
     "Lasix": "DRUG"
   },
   {
+    "congestive heart failure": "PROBLEM"
+  },
+  {
     "Lipitor": "DRUG"
   },
   {
     "high cholesterol": "PROBLEM"
+  },
+  {
+    "seizure disorder": "PROBLEM"
+  },
+  {
+    "Coreg": "DRUG"
+  },
+  {
+    "Lipitor": "DRUG"
   },
   {
     "Nitro-Dur patch": "DRUG"
@@ -186,6 +246,12 @@
     "Zyrtec": "DRUG"
   },
   {
+    "Lamictal": "DRUG"
+  },
+  {
+    "Lamictal": "DRUG"
+  },
+  {
     "Ferrous sulfate": "DRUG"
   },
   {
@@ -195,16 +261,28 @@
     "Neurontin": "DRUG"
   },
   {
+    "Lasix": "DRUG"
+  },
+  {
     "Fentanyl": "DRUG"
   },
   {
     "calcium and vitamin D combination": "DRUG"
   },
   {
+    "Bactrim DS": "DRUG"
+  },
+  {
+    "Levaquin": "DRUG"
+  },
+  {
     "CBC with diff": "TEST"
   },
   {
     "CMP": "TEST"
+  },
+  {
+    "colon cancer": "PROBLEM"
   },
   {
     "lymph nodes": "PROBLEM"

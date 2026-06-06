@@ -12,6 +12,9 @@
     "osteoporosis": "PROBLEM"
   },
   {
+    "osteoarthritis of the knee": "PROBLEM"
+  },
+  {
     "chest pain": "PROBLEM"
   },
   {
@@ -21,9 +24,6 @@
     "shortness of breath": "PROBLEM"
   },
   {
-    "osteoarthritis of the knee": "PROBLEM"
-  },
-  {
     "DEXA scan": "TEST"
   },
   {
@@ -31,9 +31,6 @@
   },
   {
     "EKG": "TEST"
-  },
-  {
-    "C-reactive protein cardiac": "TEST"
   },
   {
     "Fosamax": "DRUG"
@@ -46,18 +43,6 @@
   },
   {
     "Vioxx": "DRUG"
-  },
-  {
-    "vitamin C": "DRUG"
-  },
-  {
-    "vitamin E": "DRUG"
-  },
-  {
-    "calcium with D": "DRUG"
-  },
-  {
-    "multivitamin": "DRUG"
   },
   {
     "aspirin": "DRUG"
@@ -78,18 +63,15 @@
     "screening colonoscopy": "TREATMENT"
   },
   {
-    "surgery": "TREATMENT"
+    "physical therapy": "TREATMENT"
   },
   {
-    "Fosamax 70 mg": "TREATMENT"
+    "cardiologist": "TREATMENT"
   },
   {
-    "preoperative evaluation": "TREATMENT"
+    "beta-blocker": "TREATMENT"
   },
   {
-    "preoperative cardiac testing": "TREATMENT"
-  },
-  {
-    "preoperative beta-blocker": "TREATMENT"
+    "Fosamax": "TREATMENT"
   }
 ]

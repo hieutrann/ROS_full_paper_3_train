@@ -129,7 +129,7 @@
     "insulin pump": "TREATMENT"
   },
   {
-    "insulin pump": "TREATMENT"
+    "insulin pump rate": "TREATMENT"
   },
   {
     "insulin pump": "TREATMENT"
@@ -156,13 +156,16 @@
     "anemia": "PROBLEM"
   },
   {
-    "Hemoccult stools": "TEST"
+    "positive Hemoccult stools": "TEST"
   },
   {
     "colonoscopy": "TEST"
   },
   {
     "mass": "PROBLEM"
+  },
+  {
+    "right hepatic flexure": "PROBLEM"
   },
   {
     "right hemicolectomy": "TREATMENT"
@@ -216,10 +219,7 @@
     "vancomycin": "DRUG"
   },
   {
-    "MRSA bacteria": "PROBLEM"
-  },
-  {
-    "J-tube site": "PROBLEM"
+    "MRSA": "PROBLEM"
   },
   {
     "Levaquin": "DRUG"
@@ -297,7 +297,7 @@
     "PEG tube": "TREATMENT"
   },
   {
-    "Nexium": "DRUG"
+    "Nexium 40 mg": "DRUG"
   },
   {
     "Neurontin": "DRUG"

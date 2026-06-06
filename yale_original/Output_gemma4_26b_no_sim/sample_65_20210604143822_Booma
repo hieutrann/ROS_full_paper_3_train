@@ -1,21 +1,12 @@
 [
   {
-    "vital signs": "TEST"
-  },
-  {
     "blood pressure": "TEST"
   },
   {
     "heart rate": "TEST"
   },
   {
-    "pupil": "TEST"
-  },
-  {
     "ptois": "PROBLEM"
-  },
-  {
-    "Hearing": "TEST"
   },
   {
     "lesion": "PROBLEM"
@@ -42,7 +33,10 @@
     "mass": "PROBLEM"
   },
   {
-    "enlarged liver or spleen": "PROBLEM"
+    "enlarged liver": "PROBLEM"
+  },
+  {
+    "enlarged spleen": "PROBLEM"
   },
   {
     "Bowel sounds": "TEST"
@@ -61,5 +55,35 @@
   },
   {
     "Deep tendon reflexes": "TEST"
+  },
+  {
+    "eyes": "TEST"
+  },
+  {
+    "tongue": "TEST"
+  },
+  {
+    "heart": "TEST"
+  },
+  {
+    "ears": "TEST"
+  },
+  {
+    "nose": "TEST"
+  },
+  {
+    "respiratory": "TEST"
+  },
+  {
+    "extremities": "TEST"
+  },
+  {
+    "breasts": "TEST"
+  },
+  {
+    "oropharynx": "TEST"
+  },
+  {
+    "neck": "TEST"
   }
 ]

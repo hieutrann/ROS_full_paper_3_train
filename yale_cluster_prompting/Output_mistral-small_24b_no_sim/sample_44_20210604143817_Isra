@@ -6,7 +6,7 @@
     "airway compromise": "PROBLEM"
   },
   {
-    "operating room": "TREATMENT"
+    "intubated": "TREATMENT"
   },
   {
     "fishbone": "PROBLEM"
@@ -18,7 +18,7 @@
     "airway compromise": "PROBLEM"
   },
   {
-    "operating room": "TREATMENT"
+    "intubated": "TREATMENT"
   },
   {
     "fishbone": "PROBLEM"
@@ -42,9 +42,6 @@
     "cataract": "PROBLEM"
   },
   {
-    "ALLERGIES": "PROBLEM"
-  },
-  {
     "Prevacid": "DRUG"
   },
   {
@@ -61,21 +58,6 @@
   },
   {
     "Solu-Medrol": "DRUG"
-  },
-  {
-    "illicit drugs": "DRUG"
-  },
-  {
-    "alcohol": "DRUG"
-  },
-  {
-    "tobacco": "DRUG"
-  },
-  {
-    "PHYSICAL EXAMINATION": "TEST"
-  },
-  {
-    "LABORATORY DATA": "TEST"
   },
   {
     "airway compromise": "PROBLEM"
@@ -99,16 +81,10 @@
     "ventilatory support": "TREATMENT"
   },
   {
-    "operating room": "TREATMENT"
-  },
-  {
     "airway": "PROBLEM"
   },
   {
     "p.o.s": "TEST"
-  },
-  {
-    "X": "TEST"
   },
   {
     "diabetes": "PROBLEM"

@@ -1,6 +1,6 @@
 [
   {
-    "left otalgia": "PROBLEM"
+    "otalgia": "PROBLEM"
   },
   {
     "serous otitis": "PROBLEM"
@@ -21,13 +21,16 @@
     "headache": "PROBLEM"
   },
   {
-    "difficulty hearing": "PROBLEM"
+    "hearing": "PROBLEM"
   },
   {
     "sinus pressure": "PROBLEM"
   },
   {
     "teeth": "PROBLEM"
+  },
+  {
+    "dental exam": "TEST"
   },
   {
     "jaw pain": "PROBLEM"
@@ -54,7 +57,7 @@
     "sinusitis": "PROBLEM"
   },
   {
-    "chronic left-sided headache": "PROBLEM"
+    "headache": "PROBLEM"
   },
   {
     "FAMILY HISTORY": "TEST"
@@ -69,7 +72,7 @@
     "nonsmoker": "PROBLEM"
   },
   {
-    "REVIEW OF SYSTEMS": "TEST"
+    "above": "TREATMENT"
   },
   {
     "nausea": "PROBLEM"
@@ -111,16 +114,19 @@
     "effusion": "PROBLEM"
   },
   {
-    "Right TM": "PROBLEM"
+    "TM": "TEST"
   },
   {
     "Canals": "PROBLEM"
   },
   {
-    "External auricles": "PROBLEM"
+    "auricles": "PROBLEM"
   },
   {
     "Nasal mucosa": "PROBLEM"
+  },
+  {
+    "discharge": "PROBLEM"
   },
   {
     "Throat": "PROBLEM"
@@ -147,10 +153,10 @@
     "Serous otitis": "PROBLEM"
   },
   {
-    "2": "TEST"
+    "2": "TREATMENT"
   },
   {
-    "Atopic dermatitis": "PROBLEM"
+    "atopic dermatitis": "PROBLEM"
   },
   {
     "PLAN": "TREATMENT"
@@ -159,22 +165,19 @@
     "Nasacort AQ": "DRUG"
   },
   {
-    "2": "TEST"
+    "2": "TREATMENT"
   },
   {
     "Duraphen II": "DRUG"
   },
   {
-    "3": "TEST"
+    "3": "TREATMENT"
   },
   {
     "Cutivate cream": "DRUG"
   },
   {
-    "p.r.n.": "TEST"
-  },
-  {
-    "atopic dermatitis": "PROBLEM"
+    "p.r.n.": "TREATMENT"
   },
   {
     "otalgia": "PROBLEM"
@@ -183,13 +186,10 @@
     "serous otitis": "PROBLEM"
   },
   {
-    "atopic": "PROBLEM"
+    "atopic dermatitis": "PROBLEM"
   },
   {
     "dermatitis": "PROBLEM"
-  },
-  {
-    "serous": "PROBLEM"
   },
   {
     "otitis": "PROBLEM"

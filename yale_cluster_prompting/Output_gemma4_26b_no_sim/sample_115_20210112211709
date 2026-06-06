@@ -63,7 +63,7 @@
     "malignancy": "PROBLEM"
   },
   {
-    "Elevated liver function tests": "TEST"
+    "Elevated liver function tests": "PROBLEM"
   },
   {
     "right hip pain": "PROBLEM"
@@ -84,7 +84,13 @@
     "left hilar adenopathy": "PROBLEM"
   },
   {
-    "complete obstruction of the left lower lobe and the lingula and the left pulmonary vein": "PROBLEM"
+    "complete obstruction of the left lower lobe": "PROBLEM"
+  },
+  {
+    "obstruction of the lingula": "PROBLEM"
+  },
+  {
+    "obstruction of the left pulmonary vein": "PROBLEM"
   },
   {
     "multiple nodules on the right side of his chest": "PROBLEM"
@@ -150,7 +156,7 @@
     "chemotherapy": "TREATMENT"
   },
   {
-    "ventilator": "TREATMENT"
+    "the ventilator": "TREATMENT"
   },
   {
     "DNR": "TREATMENT"

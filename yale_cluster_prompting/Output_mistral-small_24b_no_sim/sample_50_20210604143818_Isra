@@ -6,13 +6,13 @@
     "Abdominal pain": "PROBLEM"
   },
   {
+    "female": "PROBLEM"
+  },
+  {
     "abdominal pain": "PROBLEM"
   },
   {
     "CT scan": "TEST"
-  },
-  {
-    "oral antibiotics": "DRUG"
   },
   {
     "Cipro": "DRUG"
@@ -36,13 +36,13 @@
     "obstipation": "PROBLEM"
   },
   {
-    "bowel movement": "PROBLEM"
-  },
-  {
     "bright red blood per rectum": "PROBLEM"
   },
   {
     "melena": "PROBLEM"
+  },
+  {
+    "colonoscopy": "TEST"
   },
   {
     "fevers": "PROBLEM"
@@ -60,9 +60,6 @@
     "atrial fibrillation": "PROBLEM"
   },
   {
-    "sinus rhythm": "PROBLEM"
-  },
-  {
     "metoprolol": "DRUG"
   },
   {
@@ -78,7 +75,7 @@
     "hysterectomy": "TREATMENT"
   },
   {
-    "bladder prolapse": "PROBLEM"
+    "grade 4 bladder prolapse": "PROBLEM"
   },
   {
     "MACRODANTIN": "DRUG"
@@ -93,19 +90,34 @@
     "shortness of breath": "PROBLEM"
   },
   {
+    "elderly": "PROBLEM"
+  },
+  {
     "temperature": "TEST"
   },
   {
-    "rate": "TEST"
+    "Head": "PROBLEM"
   },
   {
-    "rhythm": "TEST"
+    "Sclerae": "PROBLEM"
+  },
+  {
+    "conjunctivae": "PROBLEM"
+  },
+  {
+    "Supple": "PROBLEM"
+  },
+  {
+    "CHEST": "TEST"
+  },
+  {
+    "Regular rate and rhythm": "PROBLEM"
+  },
+  {
+    "ABDOMEN": "PROBLEM"
   },
   {
     "left lower quadrant": "PROBLEM"
-  },
-  {
-    "tender": "PROBLEM"
   },
   {
     "mass": "PROBLEM"
@@ -117,7 +129,16 @@
     "flank tenderness": "PROBLEM"
   },
   {
+    "left flank tenderness": "PROBLEM"
+  },
+  {
     "grade 4 urinary bladder prolapse": "PROBLEM"
+  },
+  {
+    "Grossly": "TEST"
+  },
+  {
+    "neurovascularly": "TEST"
   },
   {
     "White blood cell count": "TEST"
@@ -153,7 +174,7 @@
     "abdominal pain": "PROBLEM"
   },
   {
-    "abdomen": "PROBLEM"
+    "nonacute abdomen": "PROBLEM"
   },
   {
     "sigmoid diverticulitis": "PROBLEM"
@@ -162,28 +183,28 @@
     "sigmoid diverticulitis": "PROBLEM"
   },
   {
-    "CT scan": "TEST"
+    "a repeat stat CT scan": "TEST"
   },
   {
-    "abdomen": "TEST"
+    "the abdomen": "TEST"
   },
   {
-    "pelvis": "TEST"
+    "the pelvis": "TEST"
   },
   {
-    "nothing by mouth": "TREATMENT"
-  },
-  {
-    "Y": "PROBLEM"
+    "Colorectal Surgery": "TREATMENT"
   },
   {
     "colonoscopy": "TEST"
   },
   {
-    "surgical intervention": "TREATMENT"
+    "nothing by mouth": "TREATMENT"
   },
   {
-    "general medicine": "PROBLEM"
+    "acute surgical intervention": "TREATMENT"
+  },
+  {
+    "diagnostic workup": "TEST"
   },
   {
     "abdominal pain": "PROBLEM"

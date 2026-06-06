@@ -3,13 +3,13 @@
     "Preeclampsia": "PROBLEM"
   },
   {
-    "uncontrolled blood pressure": "PROBLEM"
-  },
-  {
     "Cesarean section": "TREATMENT"
   },
   {
-    "blood pressure": "PROBLEM"
+    "uncontrolled blood pressure": "PROBLEM"
+  },
+  {
+    "blood pressure": "TEST"
   },
   {
     "chest pain": "PROBLEM"
@@ -27,6 +27,9 @@
     "congenital anomaly": "PROBLEM"
   },
   {
+    "surgery": "TREATMENT"
+  },
+  {
     "hypertension": "PROBLEM"
   },
   {
@@ -34,6 +37,9 @@
   },
   {
     "coronary artery disease": "PROBLEM"
+  },
+  {
+    "C-section": "TREATMENT"
   },
   {
     "Cardizem": "DRUG"
@@ -51,7 +57,7 @@
     "hydrochlorothiazide": "DRUG"
   },
   {
-    "insulin supplementation": "TREATMENT"
+    "insulin": "DRUG"
   },
   {
     "pre-eclampsia": "PROBLEM"
@@ -94,6 +100,12 @@
   },
   {
     "melena": "PROBLEM"
+  },
+  {
+    "frequency": "PROBLEM"
+  },
+  {
+    "urgency": "PROBLEM"
   },
   {
     "arthritis": "PROBLEM"
@@ -147,10 +159,10 @@
     "left ventricular function": "TEST"
   },
   {
-    "hydralazine": "DRUG"
+    "labetalol": "DRUG"
   },
   {
-    "labetalol": "DRUG"
+    "hydralazine": "DRUG"
   },
   {
     "cardizem": "DRUG"
@@ -168,7 +180,7 @@
     "pre-eclampsia": "PROBLEM"
   },
   {
-    "blood pressure": "PROBLEM"
+    "blood pressure": "TEST"
   },
   {
     "uncontrolled blood pressure": "PROBLEM"
@@ -181,5 +193,8 @@
   },
   {
     "preeclampsia": "PROBLEM"
+  },
+  {
+    "cesarean": "TREATMENT"
   }
 ]

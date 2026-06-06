@@ -15,7 +15,7 @@
     "tingling": "PROBLEM"
   },
   {
-    "pain in the toes": "PROBLEM"
+    "pain": "PROBLEM"
   },
   {
     "moderate pain": "PROBLEM"
@@ -49,6 +49,9 @@
   },
   {
     "appendectomy": "TREATMENT"
+  },
+  {
+    "bladder obstruction": "PROBLEM"
   },
   {
     "bladder obstruction surgery": "TREATMENT"
@@ -228,7 +231,7 @@
     "insomnia": "PROBLEM"
   },
   {
-    "spot on her right cheek": "PROBLEM"
+    "spot": "PROBLEM"
   },
   {
     "precancerous condition": "PROBLEM"
@@ -252,10 +255,22 @@
     "Pulse": "TEST"
   },
   {
-    "Weight": "TEST"
+    "Pupils": "TEST"
+  },
+  {
+    "Extraocular movements": "TEST"
   },
   {
     "benign": "PROBLEM"
+  },
+  {
+    "TMs": "TEST"
+  },
+  {
+    "nares": "TEST"
+  },
+  {
+    "throat": "TEST"
   },
   {
     "adenopathy": "PROBLEM"
@@ -324,22 +339,13 @@
     "Vaginal rugae were atrophic": "PROBLEM"
   },
   {
-    "Cervix was surgically absent": "PROBLEM"
+    "surgically absent": "PROBLEM"
   },
   {
     "Bimanual exam": "TEST"
   },
   {
-    "absence of uterus": "PROBLEM"
-  },
-  {
-    "absence of cervix": "PROBLEM"
-  },
-  {
-    "Rectal: Exam": "TEST"
-  },
-  {
-    "brown stool": "PROBLEM"
+    "Rectal Exam": "TEST"
   },
   {
     "actinic keratosis": "PROBLEM"

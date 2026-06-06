@@ -3,6 +3,9 @@
     "lower extremity cellulitis": "PROBLEM"
   },
   {
+    "antibiotic therapy": "TREATMENT"
+  },
+  {
     "morbid obesity": "PROBLEM"
   },
   {
@@ -10,6 +13,18 @@
   },
   {
     "cellulitis": "PROBLEM"
+  },
+  {
+    "Bactrim": "DRUG"
+  },
+  {
+    "ciprofloxacin": "DRUG"
+  },
+  {
+    "stage II ulcer": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
   },
   {
     "spastic colon": "PROBLEM"
@@ -21,58 +36,34 @@
     "recurrent cellulitis": "PROBLEM"
   },
   {
-    "heart problems": "PROBLEM"
+    "hysterectomy": "TREATMENT"
+  },
+  {
+    "cholecystectomy": "TREATMENT"
   },
   {
     "leukemia": "PROBLEM"
   },
   {
+    "heart problems": "PROBLEM"
+  },
+  {
+    "alcoholism": "PROBLEM"
+  },
+  {
+    "ADHESIVE TAPE ALLERGIES": "PROBLEM"
+  },
+  {
     "bilateral lower extremity lymphedema": "PROBLEM"
-  },
-  {
-    "nausea": "PROBLEM"
-  },
-  {
-    "vomiting": "PROBLEM"
-  },
-  {
-    "diarrhea": "PROBLEM"
-  },
-  {
-    "pain": "PROBLEM"
-  },
-  {
-    "tenderness": "PROBLEM"
-  },
-  {
-    "increased warmth": "PROBLEM"
-  },
-  {
-    "drainage": "PROBLEM"
-  },
-  {
-    "chest pain": "PROBLEM"
-  },
-  {
-    "cough": "PROBLEM"
-  },
-  {
-    "phlegm production": "PROBLEM"
-  },
-  {
-    "stage II ulcer": "PROBLEM"
-  },
-  {
-    "erythema": "PROBLEM"
   },
   {
     "stasis dermatosis": "PROBLEM"
   },
   {
-    "skin breakdown": "PROBLEM"
+    "cellulitis": "PROBLEM"
   },
   {
-    "serosanguineous drainage": "PROBLEM"
+    "wound infection": "PROBLEM"
   },
   {
     "cyanosis": "PROBLEM"
@@ -82,18 +73,6 @@
   },
   {
     "endocarditis": "PROBLEM"
-  },
-  {
-    "antibiotics": "DRUG"
-  },
-  {
-    "Bactrim": "DRUG"
-  },
-  {
-    "ciprofloxacin": "DRUG"
-  },
-  {
-    "antibiotic therapy": "DRUG"
   },
   {
     "White cell count": "TEST"
@@ -123,7 +102,7 @@
     "eosinophils": "TEST"
   },
   {
-    "electrolyte panel": "TEST"
+    "basic electrolyte panel": "TEST"
   },
   {
     "renal function": "TEST"
@@ -138,13 +117,10 @@
     "Liver function tests": "TEST"
   },
   {
-    "nasal screen": "TEST"
+    "nasal screen for MRSA": "TEST"
   },
   {
-    "MRSA": "TEST"
-  },
-  {
-    "urine culture": "TEST"
+    "Urine culture": "TEST"
   },
   {
     "urinalysis": "TEST"
@@ -159,12 +135,69 @@
     "nitrites": "TEST"
   },
   {
-    "incision and drainage": "TREATMENT"
+    "active cellulitis": "PROBLEM"
+  },
+  {
+    "wound infection": "PROBLEM"
+  },
+  {
+    "antibiotic therapy": "TREATMENT"
   },
   {
     "lymphedema wraps": "TREATMENT"
   },
   {
+    "cellulitis": "PROBLEM"
+  },
+  {
+    "antibiotic therapy": "TREATMENT"
+  },
+  {
+    "stage II ulcer": "PROBLEM"
+  },
+  {
     "wound care": "TREATMENT"
+  },
+  {
+    "lymphedema wraps": "TREATMENT"
+  },
+  {
+    "morbid obesity": "PROBLEM"
+  },
+  {
+    "chronic lower extremity lymphedema": "PROBLEM"
+  },
+  {
+    "lower extremity cellulitis": "PROBLEM"
+  },
+  {
+    "lower extremity lymphedema": "PROBLEM"
+  },
+  {
+    "active cellulitis": "PROBLEM"
+  },
+  {
+    "morbid obesity": "PROBLEM"
+  },
+  {
+    "lymphedema wraps": "TREATMENT"
+  },
+  {
+    "antibiotic therapy": "TREATMENT"
+  },
+  {
+    "lower extremity": "PROBLEM"
+  },
+  {
+    "cellulitis": "PROBLEM"
+  },
+  {
+    "lymphedema": "PROBLEM"
+  },
+  {
+    "antibiotic": "DRUG"
+  },
+  {
+    "therapy": "TREATMENT"
   }
 ]

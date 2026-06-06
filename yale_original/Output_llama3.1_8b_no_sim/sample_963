@@ -30,7 +30,7 @@
     "throat abnormalities": "PROBLEM"
   },
   {
-    "elevated cholesterol": "PROBLEM"
+    "cholesterol": "PROBLEM"
   },
   {
     "ASHD": "PROBLEM"
@@ -96,16 +96,16 @@
     "Bactrim": "DRUG"
   },
   {
-    "drug or alcohol abuse": "PROBLEM"
+    "drug abuse": "PROBLEM"
   },
   {
-    "Work": "PROBLEM"
+    "limits": "PROBLEM"
   },
   {
-    "significant family history": "PROBLEM"
+    "family history": "PROBLEM"
   },
   {
-    "REVIEW OF SYSTEMS": "TEST"
+    "Non-contributory": "PROBLEM"
   },
   {
     "Height": "TEST"
@@ -123,7 +123,7 @@
     "Resp": "TEST"
   },
   {
-    "afebrile": "TEST"
+    "afebrile": "PROBLEM"
   },
   {
     "Neck": "TEST"
@@ -138,16 +138,16 @@
     "Lung expansion": "TEST"
   },
   {
-    "excursions": "TEST"
+    "Lung excursions": "TEST"
   },
   {
-    "Lungs": "TEST"
+    "auscultation": "TEST"
   },
   {
-    "lungs": "PROBLEM"
+    "percussion": "TEST"
   },
   {
-    "Cardio": "TEST"
+    "rhythm": "PROBLEM"
   },
   {
     "SI": "TEST"
@@ -156,7 +156,7 @@
     "S2": "TEST"
   },
   {
-    "abnormal heart sounds": "PROBLEM"
+    "heart sounds": "TEST"
   },
   {
     "Blood pressure": "TEST"
@@ -186,9 +186,6 @@
     "Acute cystitis": "PROBLEM"
   },
   {
-    "Endocrinology Consult": "TREATMENT"
-  },
-  {
     "CBC": "TEST"
   },
   {
@@ -207,18 +204,15 @@
     "abdominal pain": "PROBLEM"
   },
   {
-    "acute cystitis": "PROBLEM"
-  },
-  {
     "diabetes type ii": "PROBLEM"
   },
   {
     "diabetes": "PROBLEM"
   },
   {
-    "cbc": "TEST"
+    "acute cystitis": "PROBLEM"
   },
   {
-    "endocrinology": "PROBLEM"
+    "cbc": "TEST"
   }
 ]

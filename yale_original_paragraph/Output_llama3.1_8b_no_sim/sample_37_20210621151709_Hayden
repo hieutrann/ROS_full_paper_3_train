@@ -9,21 +9,9 @@
     "Humalog insulin": "DRUG"
   },
   {
-    "glucoses": "PROBLEM"
+    "glucoses": "TEST"
   },
   {
-    "low blood glucoses": "PROBLEM"
-  },
-  {
-    "sliding scale": "TREATMENT"
-  },
-  {
-    "insulin prior to meals": "TREATMENT"
-  },
-  {
-    "diabetic control": "PROBLEM"
-  },
-  {
-    "mellitus": "PROBLEM"
+    "fatigued": "PROBLEM"
   }
 ]

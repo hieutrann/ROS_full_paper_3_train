@@ -18,13 +18,7 @@
     "swelling of the lower extremities": "PROBLEM"
   },
   {
-    "fever": "PROBLEM"
-  },
-  {
     "cough": "PROBLEM"
-  },
-  {
-    "heart problems": "PROBLEM"
   },
   {
     "nausea": "PROBLEM"
@@ -55,6 +49,9 @@
   },
   {
     "crepitations": "PROBLEM"
+  },
+  {
+    "Bowel sounds": "TEST"
   },
   {
     "pedal swelling": "PROBLEM"
@@ -96,27 +93,9 @@
     "CT angiogram": "TEST"
   },
   {
+    "Paralytic ileus": "PROBLEM"
+  },
+  {
     "Leukocytosis": "PROBLEM"
-  },
-  {
-    "ruptured appendicitis": "PROBLEM"
-  },
-  {
-    "chest pain": "PROBLEM"
-  },
-  {
-    "fluid retention": "PROBLEM"
-  },
-  {
-    "paralytic ileus": "PROBLEM"
-  },
-  {
-    "leukocytosis": "PROBLEM"
-  },
-  {
-    "abdominal surgery": "TREATMENT"
-  },
-  {
-    "laparoscopic appendicectomy": "TREATMENT"
   }
 ]

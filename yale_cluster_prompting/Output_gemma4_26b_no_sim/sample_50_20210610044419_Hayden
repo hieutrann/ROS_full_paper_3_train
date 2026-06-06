@@ -1,6 +1,6 @@
 [
   {
-    "leiomyosarcoma": "PROBLEM"
+    "Leiomyosarcoma": "PROBLEM"
   },
   {
     "pulmonary embolism": "PROBLEM"
@@ -186,9 +186,6 @@
     "ANC": "TEST"
   },
   {
-    "counts": "TEST"
-  },
-  {
     "red blood cells": "TREATMENT"
   },
   {
@@ -265,5 +262,8 @@
   },
   {
     "pancytopenia": "PROBLEM"
+  },
+  {
+    "neutropenic": "PROBLEM"
   }
 ]

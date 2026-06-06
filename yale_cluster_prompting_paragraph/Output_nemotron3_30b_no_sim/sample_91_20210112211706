@@ -1,0 +1,110 @@
+[
+  {
+    "Sepsis": "PROBLEM"
+  },
+  {
+    "possible SBP": "PROBLEM"
+  },
+  {
+    "diabetes": "PROBLEM"
+  },
+  {
+    "morbid obesity": "PROBLEM"
+  },
+  {
+    "hepatitis C": "PROBLEM"
+  },
+  {
+    "cirrhosis": "PROBLEM"
+  },
+  {
+    "coronary artery disease": "PROBLEM"
+  },
+  {
+    "hyperlipidemia": "PROBLEM"
+  },
+  {
+    "chronic venous stasis": "PROBLEM"
+  },
+  {
+    "gastroesophageal reflux disease": "PROBLEM"
+  },
+  {
+    "exploratory laparotomy": "PROBLEM"
+  },
+  {
+    "hepatic encephalopathy": "PROBLEM"
+  },
+  {
+    "septic shock": "PROBLEM"
+  },
+  {
+    "ascites": "PROBLEM"
+  },
+  {
+    "cholangitis": "PROBLEM"
+  },
+  {
+    "alcoholic liver disease": "PROBLEM"
+  },
+  {
+    "thrombocytopenia": "PROBLEM"
+  },
+  {
+    "hepatitis": "PROBLEM"
+  },
+  {
+    "cryoglobulinemia": "PROBLEM"
+  },
+  {
+    "vancomycin": "DRUG"
+  },
+  {
+    "doripenem": "DRUG"
+  },
+  {
+    "thiamine": "DRUG"
+  },
+  {
+    "Protonix": "DRUG"
+  },
+  {
+    "potassium chloride p.r.n.": "DRUG"
+  },
+  {
+    "magnesium p.r.n.": "DRUG"
+  },
+  {
+    "Zofran": "DRUG"
+  },
+  {
+    "norepinephrine drip": "DRUG"
+  },
+  {
+    "vancomycin and doripenem": "TREATMENT"
+  },
+  {
+    "paracentesis": "TREATMENT"
+  },
+  {
+    "ascitic fluid": "TEST"
+  },
+  {
+    "blood cultures": "TEST"
+  },
+  {
+    "urine culture": "TEST"
+  },
+  {
+    "CAT scan of the abdomen": "TEST"
+  },
+  {
+    "chest x-ray": "TEST"
+  },
+  {
+    "left knee x-rays": "TEST"
+  },
+  {
+    "abdominal ultrasound": "TEST"
+  }
+]

@@ -1,8 +1,5 @@
 [
   {
-    "FEMALE PHYSICAL EXAMINATION": "TEST"
-  },
-  {
     "edema": "PROBLEM"
   },
   {
@@ -18,13 +15,13 @@
     "jaundice": "PROBLEM"
   },
   {
-    "Pupils equally responsive to light": "TEST"
-  },
-  {
     "lesions": "PROBLEM"
   },
   {
-    "Lacrimal ducts": "TEST"
+    "Pupils": "TEST"
+  },
+  {
+    "lesions": "PROBLEM"
   },
   {
     "erythema": "PROBLEM"
@@ -48,10 +45,19 @@
     "Tympanic membranes": "PROBLEM"
   },
   {
+    "light reflex": "TEST"
+  },
+  {
     "middle ear effusions": "PROBLEM"
   },
   {
     "skin lesions": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "internal lesions": "PROBLEM"
   },
   {
     "erythema": "PROBLEM"
@@ -60,7 +66,19 @@
     "exudates": "PROBLEM"
   },
   {
+    "lesions": "PROBLEM"
+  },
+  {
+    "lesion": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
     "adenopathy": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
   },
   {
     "adenopathy": "PROBLEM"
@@ -81,7 +99,7 @@
     "rhonchi": "PROBLEM"
   },
   {
-    "Chest nontender": "PROBLEM"
+    "accessory muscle use": "PROBLEM"
   },
   {
     "S3": "PROBLEM"
@@ -117,6 +135,18 @@
     "lesions": "PROBLEM"
   },
   {
+    "lesions": "PROBLEM"
+  },
+  {
+    "discharge": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "pelvic masses": "PROBLEM"
+  },
+  {
     "external hemorrhoids": "PROBLEM"
   },
   {
@@ -129,7 +159,34 @@
     "edema": "PROBLEM"
   },
   {
+    "pain": "PROBLEM"
+  },
+  {
+    "inversion": "TEST"
+  },
+  {
+    "eversion": "TEST"
+  },
+  {
+    "plantar or dorsiflexion": "TEST"
+  },
+  {
     "Anterior and posterior drawer test": "TEST"
+  },
+  {
+    "pain": "PROBLEM"
+  },
+  {
+    "inversion": "TEST"
+  },
+  {
+    "eversion": "TEST"
+  },
+  {
+    "dorsiflexion": "TEST"
+  },
+  {
+    "plantar flexion": "TEST"
   },
   {
     "joint effusion": "PROBLEM"
@@ -150,6 +207,9 @@
     "tenderness": "PROBLEM"
   },
   {
+    "range of motion": "TEST"
+  },
+  {
     "joint effusion": "PROBLEM"
   },
   {
@@ -162,10 +222,10 @@
     "Lachman's test": "TEST"
   },
   {
-    "Bursas": "PROBLEM"
+    "edema": "PROBLEM"
   },
   {
-    "edema": "PROBLEM"
+    "range of motion": "TEST"
   },
   {
     "edema": "PROBLEM"
@@ -174,16 +234,16 @@
     "effusion": "PROBLEM"
   },
   {
-    "Tinel and Phalen tests": "TEST"
+    "Tinel": "TEST"
+  },
+  {
+    "Phalen tests": "TEST"
   },
   {
     "joint effusion": "PROBLEM"
   },
   {
     "erythema": "PROBLEM"
-  },
-  {
-    "Olecranon bursa": "PROBLEM"
   },
   {
     "edema": "PROBLEM"
@@ -223,9 +283,6 @@
   },
   {
     "agitation": "PROBLEM"
-  },
-  {
-    "physical examination": "TEST"
   },
   {
     "crepitus": "PROBLEM"

@@ -6,6 +6,9 @@
     "blood count": "TEST"
   },
   {
+    "vomiting": "PROBLEM"
+  },
+  {
     "seizure": "PROBLEM"
   },
   {
@@ -15,19 +18,13 @@
     "p.o. antibiotics": "DRUG"
   },
   {
-    "temperature": "PROBLEM"
+    "temperature": "TEST"
   },
   {
     "strep": "PROBLEM"
   },
   {
     "penicillin": "DRUG"
-  },
-  {
-    "seizure": "PROBLEM"
-  },
-  {
-    "temperature": "PROBLEM"
   },
   {
     "LP": "TEST"
@@ -39,31 +36,13 @@
     "CSF": "TEST"
   },
   {
-    "Head": "TEST"
+    "febrile seizure": "PROBLEM"
   },
   {
-    "eyes": "TEST"
+    "temperature": "TEST"
   },
   {
-    "ears": "TEST"
-  },
-  {
-    "nose": "TEST"
-  },
-  {
-    "throat": "TEST"
-  },
-  {
-    "Chest": "TEST"
-  },
-  {
-    "Abdomen": "TEST"
-  },
-  {
-    "Extremities": "TEST"
-  },
-  {
-    "White count": "TEST"
+    "white count": "TEST"
   },
   {
     "CSF glucose": "TEST"
@@ -78,15 +57,9 @@
     "febrile seizure": "PROBLEM"
   },
   {
-    "temperature": "PROBLEM"
+    "temperature": "TEST"
   },
   {
     "white count": "TEST"
-  },
-  {
-    "pneumonia": "PROBLEM"
-  },
-  {
-    "seizure": "PROBLEM"
   }
 ]

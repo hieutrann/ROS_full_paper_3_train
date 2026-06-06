@@ -1,6 +1,6 @@
 [
   {
-    "Pneumonia": "PROBLEM"
+    "pneumonia": "PROBLEM"
   },
   {
     "hypoxia": "PROBLEM"
@@ -22,12 +22,6 @@
   },
   {
     "chills": "PROBLEM"
-  },
-  {
-    "Atypical pneumonia": "PROBLEM"
-  },
-  {
-    "loose stools": "PROBLEM"
   },
   {
     "x-ray": "TEST"

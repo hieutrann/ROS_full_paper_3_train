@@ -3,9 +3,6 @@
     "right shoulder pain": "PROBLEM"
   },
   {
-    "stacks of cardboard": "PROBLEM"
-  },
-  {
     "popping sensation": "PROBLEM"
   },
   {
@@ -15,7 +12,13 @@
     "pain": "PROBLEM"
   },
   {
+    "shoulder": "PROBLEM"
+  },
+  {
     "shoulder pain": "PROBLEM"
+  },
+  {
+    "cervical radiculopathies": "PROBLEM"
   },
   {
     "chronic cardiac": "PROBLEM"
@@ -45,6 +48,9 @@
     "allergic rhinitis": "PROBLEM"
   },
   {
+    "Blood pressure": "TEST"
+  },
+  {
     "respirations": "TEST"
   },
   {
@@ -60,13 +66,19 @@
     "adenopathy": "PROBLEM"
   },
   {
-    "rate": "TEST"
+    "thyromegaly": "PROBLEM"
   },
   {
-    "rhythm": "TEST"
+    "Lungs": "TEST"
   },
   {
-    "mild to moderately tender": "PROBLEM"
+    "Abdomen": "PROBLEM"
+  },
+  {
+    "subacromial space": "PROBLEM"
+  },
+  {
+    "range of motion": "TEST"
   },
   {
     "pain": "PROBLEM"
@@ -84,7 +96,7 @@
     "sulcus": "TEST"
   },
   {
-    "apprehension": "PROBLEM"
+    "apprehension": "TEST"
   },
   {
     "Speed's": "TEST"
@@ -93,7 +105,13 @@
     "Yergason's": "TEST"
   },
   {
-    "x-rays": "TEST"
+    "Two view x-rays": "TEST"
+  },
+  {
+    "osseous abnormalities": "PROBLEM"
+  },
+  {
+    "degenerative changes": "PROBLEM"
   },
   {
     "Right shoulder pain": "PROBLEM"
@@ -108,54 +126,18 @@
     "MRI": "TEST"
   },
   {
-    "general medicine": "PROBLEM"
-  },
-  {
-    "return to work": "TREATMENT"
-  },
-  {
-    "consult": "TREATMENT"
-  },
-  {
-    "fit for duty": "TREATMENT"
-  },
-  {
-    "cleared for work": "TREATMENT"
-  },
-  {
-    "muscular": "PROBLEM"
-  },
-  {
-    "paresthesias": "PROBLEM"
-  },
-  {
-    "shoulder": "PROBLEM"
-  },
-  {
     "shoulder pain": "PROBLEM"
   },
   {
     "strain": "PROBLEM"
   },
   {
-    "waist": "PROBLEM"
-  },
-  {
     "x-rays": "TEST"
   },
   {
-    "waist level": "PROBLEM"
-  },
-  {
-    "neurologic": "PROBLEM"
-  },
-  {
-    "abnormalities": "PROBLEM"
+    "neurologic abnormalities": "PROBLEM"
   },
   {
     "impingement": "PROBLEM"
-  },
-  {
-    "examination": "TEST"
   }
 ]

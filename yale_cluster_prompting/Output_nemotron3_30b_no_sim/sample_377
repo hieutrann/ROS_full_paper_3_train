@@ -1,0 +1,386 @@
+[
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "chest pain at night": "PROBLEM"
+  },
+  {
+    "multiple problems": "PROBLEM"
+  },
+  {
+    "chest pain at night": "PROBLEM"
+  },
+  {
+    "treadmill": "TEST"
+  },
+  {
+    "echocardiogram": "TEST"
+  },
+  {
+    "pressure": "PROBLEM"
+  },
+  {
+    "chest": "PROBLEM"
+  },
+  {
+    "up": "PROBLEM"
+  },
+  {
+    "heartbeats": "PROBLEM"
+  },
+  {
+    "irregular heartbeats": "PROBLEM"
+  },
+  {
+    "stomach pains": "PROBLEM"
+  },
+  {
+    "mild in nature": "PROBLEM"
+  },
+  {
+    "reflux": "PROBLEM"
+  },
+  {
+    "Aciphex": "DRUG"
+  },
+  {
+    "Aciphex": "DRUG"
+  },
+  {
+    "right flank pain": "PROBLEM"
+  },
+  {
+    "off and on": "PROBLEM"
+  },
+  {
+    "dull achy pain": "PROBLEM"
+  },
+  {
+    "spots": "PROBLEM"
+  },
+  {
+    "shoulder": "PROBLEM"
+  },
+  {
+    "size": "PROBLEM"
+  },
+  {
+    "elevated": "PROBLEM"
+  },
+  {
+    "spots": "PROBLEM"
+  },
+  {
+    "itchy": "PROBLEM"
+  },
+  {
+    "urgency of urine": "PROBLEM"
+  },
+  {
+    "urge": "PROBLEM"
+  },
+  {
+    "leaking": "PROBLEM"
+  },
+  {
+    "pad": "TREATMENT"
+  },
+  {
+    "colonoscopy": "TEST"
+  },
+  {
+    "chronic leukopenia": "PROBLEM"
+  },
+  {
+    "hepatitis titer": "TEST"
+  },
+  {
+    "pain in her thumbs": "PROBLEM"
+  },
+  {
+    "swelling": "PROBLEM"
+  },
+  {
+    "redness": "PROBLEM"
+  },
+  {
+    "trauma": "PROBLEM"
+  },
+  {
+    "eye doctor": "TEST"
+  },
+  {
+    "hearing loss": "PROBLEM"
+  },
+  {
+    "swallowing": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "chronic cough": "PROBLEM"
+  },
+  {
+    "bowel movements": "PROBLEM"
+  },
+  {
+    "diarrhea": "PROBLEM"
+  },
+  {
+    "constipation": "PROBLEM"
+  },
+  {
+    "urine": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "lower extremity numbness": "PROBLEM"
+  },
+  {
+    "tingling": "PROBLEM"
+  },
+  {
+    "nursing home": "PROBLEM"
+  },
+  {
+    "weight": "PROBLEM"
+  },
+  {
+    "diet": "TREATMENT"
+  },
+  {
+    "smoking": "PROBLEM"
+  },
+  {
+    "type I diabetes": "PROBLEM"
+  },
+  {
+    "heart disease": "PROBLEM"
+  },
+  {
+    "heart attack": "PROBLEM"
+  },
+  {
+    "smoker": "PROBLEM"
+  },
+  {
+    "leukopenia": "PROBLEM"
+  },
+  {
+    "irritable bowel syndrome": "PROBLEM"
+  },
+  {
+    "Aciphex 20 mg q.d.": "DRUG"
+  },
+  {
+    "aspirin 81 mg q.d.": "DRUG"
+  },
+  {
+    "Weight": "PROBLEM"
+  },
+  {
+    "Blood pressure": "TEST"
+  },
+  {
+    "Pulse: 72.": "TEST"
+  },
+  {
+    "well-developed": "PROBLEM"
+  },
+  {
+    "pupils are equally round and reactive to light": "PROBLEM"
+  },
+  {
+    "Conjunctivae": "PROBLEM"
+  },
+  {
+    "TMs": "PROBLEM"
+  },
+  {
+    "Oropharynx appears to be normal.": "PROBLEM"
+  },
+  {
+    "Dentition": "PROBLEM"
+  },
+  {
+    "lymphadenopathy": "PROBLEM"
+  },
+  {
+    "respiratory effort": "PROBLEM"
+  },
+  {
+    "Heart: Regular rhythm and rate without murmur.": "PROBLEM"
+  },
+  {
+    "Radial pulses": "TEST"
+  },
+  {
+    "nondistended": "PROBLEM"
+  },
+  {
+    "tenderness": "PROBLEM"
+  },
+  {
+    "PIP joint": "PROBLEM"
+  },
+  {
+    "DIP joint": "PROBLEM"
+  },
+  {
+    "armpits": "PROBLEM"
+  },
+  {
+    "tinea versicolor": "PROBLEM"
+  },
+  {
+    "rash": "PROBLEM"
+  },
+  {
+    "armpits": "TEST"
+  },
+  {
+    "lesion": "PROBLEM"
+  },
+  {
+    "diffuse borders": "PROBLEM"
+  },
+  {
+    "slightly red": "PROBLEM"
+  },
+  {
+    "cyanosis": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "Pulses at the radial and posterior tibial pulses are normal bilaterally.": "TEST"
+  },
+  {
+    "gait": "PROBLEM"
+  },
+  {
+    "affect": "PROBLEM"
+  },
+  {
+    "grossly intact": "PROBLEM"
+  },
+  {
+    "coordination": "PROBLEM"
+  },
+  {
+    "Chest pain": "PROBLEM"
+  },
+  {
+    "noncardiac": "PROBLEM"
+  },
+  {
+    "reflux": "PROBLEM"
+  },
+  {
+    "Aciphex": "DRUG"
+  },
+  {
+    "EGD": "TEST"
+  },
+  {
+    "symptoms": "PROBLEM"
+  },
+  {
+    "severe episodes": "PROBLEM"
+  },
+  {
+    "Stomach pain": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "Suspicious lesions on the left shoulder.": "PROBLEM"
+  },
+  {
+    "punch biopsy": "TREATMENT"
+  },
+  {
+    "appointment": "TREATMENT"
+  },
+  {
+    "Tinea versicolor": "PROBLEM"
+  },
+  {
+    "selenium sulfide lotion": "TREATMENT"
+  },
+  {
+    "Cystocele.": "PROBLEM"
+  },
+  {
+    "urinary incontinence": "PROBLEM"
+  },
+  {
+    "leukopenia": "PROBLEM"
+  },
+  {
+    "CBC": "TEST"
+  },
+  {
+    "arthritic": "PROBLEM"
+  },
+  {
+    "colon cancer screening": "TEST"
+  },
+  {
+    "Gastroesophageal reflux disease.": "PROBLEM"
+  },
+  {
+    "Aciphex": "DRUG"
+  },
+  {
+    "cystocele": "PROBLEM"
+  },
+  {
+    "gastroesophageal reflux disease": "PROBLEM"
+  },
+  {
+    "stomach pain": "PROBLEM"
+  },
+  {
+    "tinea versicolor": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "leukopenia": "PROBLEM"
+  },
+  {
+    "multiple problems": "PROBLEM"
+  },
+  {
+    "pulses are normal bilaterally": "TEST"
+  },
+  {
+    "lower extremities": "TEST"
+  },
+  {
+    "tinea": "TEST"
+  },
+  {
+    "versicolor": "TEST"
+  },
+  {
+    "pulses": "TEST"
+  },
+  {
+    "extremities": "TEST"
+  },
+  {
+    "reflux": "TEST"
+  },
+  {
+    "aciphex": "DRUG"
+  }
+]

@@ -9,12 +9,6 @@
     "shortness of breath": "PROBLEM"
   },
   {
-    "prematurity": "PROBLEM"
-  },
-  {
-    "twin gestation": "PROBLEM"
-  },
-  {
     "Sample Doctor": "TREATMENT"
   },
   {
@@ -30,25 +24,22 @@
     "shortness of breath": "PROBLEM"
   },
   {
-    "inhaled steroids": "DRUG"
+    "steroids": "DRUG"
   },
   {
     "bronchodilator": "DRUG"
   },
   {
-    "cough": "PROBLEM"
+    "prednisolone": "DRUG"
   },
   {
-    "prednisolone": "DRUG"
+    "cough": "PROBLEM"
   },
   {
     "asthma": "PROBLEM"
   },
   {
     "medication": "DRUG"
-  },
-  {
-    "Abc": "PROBLEM"
   },
   {
     "rhonchi": "PROBLEM"
@@ -66,7 +57,16 @@
     "symptoms": "PROBLEM"
   },
   {
+    "milligrams": "TREATMENT"
+  },
+  {
+    "milliliters": "TREATMENT"
+  },
+  {
     "asthma": "PROBLEM"
+  },
+  {
+    "bronchodilator": "DRUG"
   },
   {
     "cough": "PROBLEM"
@@ -79,8 +79,5 @@
   },
   {
     "wheezing cough": "PROBLEM"
-  },
-  {
-    "bronchodilator": "DRUG"
   }
 ]

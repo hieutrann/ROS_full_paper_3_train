@@ -132,6 +132,12 @@
     "lymph node swelling": "PROBLEM"
   },
   {
+    "marijuana": "DRUG"
+  },
+  {
+    "cigarettes": "DRUG"
+  },
+  {
     "Temperature": "TEST"
   },
   {
@@ -150,7 +156,7 @@
     "rhinorrhea": "PROBLEM"
   },
   {
-    "audible congestion": "PROBLEM"
+    "congestion": "PROBLEM"
   },
   {
     "tenderness over the sinuses": "PROBLEM"
@@ -258,7 +264,7 @@
     "lesions": "PROBLEM"
   },
   {
-    "clinical intoxification": "PROBLEM"
+    "intoxification": "PROBLEM"
   },
   {
     "lymphadenitis": "PROBLEM"

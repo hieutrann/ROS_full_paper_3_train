@@ -1,6 +1,6 @@
 [
   {
-    "Left heart catheterization": "TEST"
+    "Cardiac Catheterization": "TEST"
   },
   {
     "coronary angiography": "TEST"
@@ -12,7 +12,10 @@
     "left ventricular pressure measurement": "TEST"
   },
   {
-    "angiography": "TEST"
+    "left ventricular angiography": "TEST"
+  },
+  {
+    "PROCEDURE PERFORMED": "TREATMENT"
   },
   {
     "Left heart catheterization": "TEST"
@@ -33,16 +36,10 @@
     "Right femoral selective angiogram": "TEST"
   },
   {
-    "femoral arteriotomy": "PROBLEM"
-  },
-  {
-    "Angio-Seal": "DRUG"
+    "Angio-Seal": "TREATMENT"
   },
   {
     "coronary atherosclerotic heart disease": "PROBLEM"
-  },
-  {
-    "coronary disease": "PROBLEM"
   },
   {
     "coronary arteriogram": "TEST"
@@ -63,22 +60,19 @@
     "hyperlipidemia": "PROBLEM"
   },
   {
-    "disease": "PROBLEM"
-  },
-  {
-    "disease progression": "PROBLEM"
-  },
-  {
     "percutaneous evaluation": "TEST"
   },
   {
     "intervention": "TREATMENT"
   },
   {
-    "cardiac catheterization": "TEST"
+    "disease": "PROBLEM"
   },
   {
-    "right groin": "PROBLEM"
+    "disease progression": "PROBLEM"
+  },
+  {
+    "cardiac catheterization": "TEST"
   },
   {
     "lidocaine": "DRUG"
@@ -99,10 +93,16 @@
     "left ventricular measurement": "TEST"
   },
   {
+    "angiography": "TEST"
+  },
+  {
+    "6-French JL4 diagnostic catheter": "TEST"
+  },
+  {
     "left coronary artery": "PROBLEM"
   },
   {
-    "6-French JR4 diagnostic catheter": "TEST"
+    "JR4 diagnostic catheter": "TEST"
   },
   {
     "right groin": "PROBLEM"
@@ -126,16 +126,10 @@
     "left ventriculogram": "TEST"
   },
   {
-    "selective arteriography": "TEST"
+    "arteriography": "TEST"
   },
   {
-    "right femoral artery": "PROBLEM"
-  },
-  {
-    "arteriotomy": "TREATMENT"
-  },
-  {
-    "bifurcation": "PROBLEM"
+    "femoral artery": "PROBLEM"
   },
   {
     "superficial femoral": "PROBLEM"
@@ -144,10 +138,16 @@
     "profunda femoris arteries": "PROBLEM"
   },
   {
+    "arteriotomy": "PROBLEM"
+  },
+  {
     "common femoral artery": "PROBLEM"
   },
   {
     "Perclose device": "TREATMENT"
+  },
+  {
+    "Perclose": "TREATMENT"
   },
   {
     "Angio-Seal": "DRUG"
@@ -159,7 +159,7 @@
     "hemostasis": "PROBLEM"
   },
   {
-    "Opening aortic pressure": "TEST"
+    "aortic pressure": "TEST"
   },
   {
     "left ventricular pressure": "TEST"
@@ -183,13 +183,10 @@
     "CORONARY ANGIOGRAM": "TEST"
   },
   {
-    "left main coronary artery": "PROBLEM"
-  },
-  {
     "atherosclerotic plaque": "PROBLEM"
   },
   {
-    "LAD": "PROBLEM"
+    "LAD": "TEST"
   },
   {
     "atherosclerotic plaque": "PROBLEM"
@@ -204,28 +201,19 @@
     "saphenous vein graft": "TREATMENT"
   },
   {
-    "OM": "PROBLEM"
-  },
-  {
     "right coronary artery": "PROBLEM"
   },
   {
     "atherosclerotic plaque": "PROBLEM"
   },
   {
-    "distal right coronary artery": "PROBLEM"
+    "stenosis": "PROBLEM"
   },
   {
     "stenosis": "PROBLEM"
   },
   {
-    "posterior left ventricular branch": "PROBLEM"
-  },
-  {
     "stenosis": "PROBLEM"
-  },
-  {
-    "PDA": "PROBLEM"
   },
   {
     "saphenous vein graft": "TREATMENT"
@@ -234,10 +222,10 @@
     "right PDA": "PROBLEM"
   },
   {
-    "native right coronary artery": "PROBLEM"
+    "right coronary artery": "PROBLEM"
   },
   {
-    "saphenous vein graft": "PROBLEM"
+    "saphenous vein graft": "TREATMENT"
   },
   {
     "PDA": "PROBLEM"
@@ -255,13 +243,16 @@
     "saphenous vein graft": "TREATMENT"
   },
   {
-    "LAD": "PROBLEM"
+    "left anterior descending": "PROBLEM"
   },
   {
-    "filling": "PROBLEM"
+    "LAD": "TEST"
   },
   {
-    "saphenous vein graft": "TEST"
+    "retrograde filling": "TEST"
+  },
+  {
+    "saphenous vein graft": "TREATMENT"
   },
   {
     "occluded": "PROBLEM"
@@ -276,7 +267,7 @@
     "OM": "PROBLEM"
   },
   {
-    "lesion": "PROBLEM"
+    "80% lesion": "PROBLEM"
   },
   {
     "kink": "PROBLEM"
@@ -288,16 +279,16 @@
     "disease": "PROBLEM"
   },
   {
-    "disease": "PROBLEM"
-  },
-  {
     "PLV": "PROBLEM"
   },
   {
     "PDA": "PROBLEM"
   },
   {
-    "saphenous vein graft": "PROBLEM"
+    "saphenous vein graft": "TREATMENT"
+  },
+  {
+    "OM": "TREATMENT"
   },
   {
     "saphenous vein graft": "TREATMENT"
@@ -309,7 +300,10 @@
     "LAD": "PROBLEM"
   },
   {
-    "left ventricular systolic function": "PROBLEM"
+    "left ventricular systolic function": "TEST"
+  },
+  {
+    "medical therapy": "TREATMENT"
   },
   {
     "antihyperlipidemic": "DRUG"
@@ -327,16 +321,16 @@
     "smoking": "PROBLEM"
   },
   {
-    "carotid duplex Doppler ultrasound": "TEST"
+    "bedrest": "TREATMENT"
   },
   {
-    "carotid bruits": "PROBLEM"
+    "carotid duplex Doppler ultrasound": "TEST"
   },
   {
     "surgery": "TREATMENT"
   },
   {
-    "catheterization": "TEST"
+    "catheterization": "TREATMENT"
   },
   {
     "vein graft": "TREATMENT"
@@ -348,7 +342,7 @@
     "angiogram": "TEST"
   },
   {
-    "angio-seal": "DRUG"
+    "angio-seal": "TREATMENT"
   },
   {
     "closure device": "TREATMENT"
@@ -366,7 +360,7 @@
     "coronary artery": "PROBLEM"
   },
   {
-    "saphenous vein": "PROBLEM"
+    "saphenous vein": "TREATMENT"
   },
   {
     "atherosclerotic": "PROBLEM"
@@ -387,6 +381,6 @@
     "ventricular": "PROBLEM"
   },
   {
-    "saphenous": "PROBLEM"
+    "saphenous": "TREATMENT"
   }
 ]

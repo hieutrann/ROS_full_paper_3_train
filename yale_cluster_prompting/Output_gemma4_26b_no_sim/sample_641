@@ -9,6 +9,9 @@
     "large cardioembolic stroke": "PROBLEM"
   },
   {
+    "right brain": "PROBLEM"
+  },
+  {
     "medical management": "TREATMENT"
   },
   {
@@ -57,7 +60,7 @@
     "intubation": "TREATMENT"
   },
   {
-    "paralyzation": "PROBLEM"
+    "paralyzation": "TREATMENT"
   },
   {
     "diastolic": "TEST"
@@ -81,7 +84,7 @@
     "prognosis": "PROBLEM"
   },
   {
-    "STAT echocardiogram": "TEST"
+    "echocardiogram": "TEST"
   },
   {
     "large clot in the heart": "PROBLEM"
@@ -114,7 +117,7 @@
     "Tremor": "PROBLEM"
   },
   {
-    "early Parkinson's": "PROBLEM"
+    "Parkinson's": "PROBLEM"
   },
   {
     "GERD": "PROBLEM"
@@ -204,9 +207,6 @@
     "MI": "PROBLEM"
   },
   {
-    "VITAL SIGNS": "TEST"
-  },
-  {
     "temperature": "TEST"
   },
   {
@@ -217,12 +217,6 @@
   },
   {
     "respirations": "TEST"
-  },
-  {
-    "vital signs": "TEST"
-  },
-  {
-    "physical exam": "TEST"
   },
   {
     "white count": "TEST"
@@ -300,7 +294,10 @@
     "OGD": "PROBLEM"
   },
   {
-    "atherosclerosis of the aorta": "PROBLEM"
+    "atherosclerosis": "PROBLEM"
+  },
+  {
+    "aorta": "PROBLEM"
   },
   {
     "CT scan of the head": "TEST"
@@ -309,22 +306,28 @@
     "active bleeding": "PROBLEM"
   },
   {
-    "X-rays of the shoulders": "TEST"
+    "X-rays": "TEST"
   },
   {
-    "Large cardioembolic stroke": "PROBLEM"
+    "shoulders": "PROBLEM"
   },
   {
-    "stroke into the left brain": "PROBLEM"
+    "cardioembolic stroke": "PROBLEM"
+  },
+  {
+    "stroke": "PROBLEM"
   },
   {
     "fluctuating mental status": "PROBLEM"
   },
   {
+    "critical condition": "PROBLEM"
+  },
+  {
     "multiple strokes": "PROBLEM"
   },
   {
-    "large clot burden": "PROBLEM"
+    "clot burden": "PROBLEM"
   },
   {
     "patent foramen ovale": "PROBLEM"
@@ -429,7 +432,7 @@
     "TSH": "TEST"
   },
   {
-    "STAT echo": "TEST"
+    "echo": "TEST"
   },
   {
     "ultrasound of the leg": "TEST"
@@ -474,7 +477,7 @@
     "brain swelling": "PROBLEM"
   },
   {
-    "electrolytes": "TEST"
+    "electrolytes": "PROBLEM"
   },
   {
     "Deep vein thrombosis": "PROBLEM"
@@ -490,9 +493,6 @@
   },
   {
     "DIC": "PROBLEM"
-  },
-  {
-    "SCDs": "TREATMENT"
   },
   {
     "CBCs": "TEST"
@@ -517,6 +517,9 @@
   },
   {
     "ct scan": "TEST"
+  },
+  {
+    "atrial": "PROBLEM"
   },
   {
     "echocardiogram": "TEST"

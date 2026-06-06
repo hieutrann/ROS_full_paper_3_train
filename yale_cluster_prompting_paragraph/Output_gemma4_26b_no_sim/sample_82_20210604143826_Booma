@@ -1,36 +1,15 @@
 [
   {
-    "hypertension": "PROBLEM"
-  },
-  {
-    "tricuspid regurgitation": "PROBLEM"
-  },
-  {
-    "pulmonary hypertension": "PROBLEM"
-  },
-  {
-    "aortic stenosis": "PROBLEM"
-  },
-  {
-    "mitral regurgitation": "PROBLEM"
-  },
-  {
-    "atrial fibrillation": "PROBLEM"
-  },
-  {
-    "fall": "PROBLEM"
-  },
-  {
-    "atrial tachyarrhythmia": "PROBLEM"
-  },
-  {
-    "Cardizem": "DRUG"
-  },
-  {
     "multifocal atrial tachycardia": "PROBLEM"
   },
   {
     "wandering atrial pacemaker": "PROBLEM"
+  },
+  {
+    "ECG": "TEST"
+  },
+  {
+    "normal sinus rhythm": "TEST"
   },
   {
     "APCs": "PROBLEM"
@@ -54,7 +33,10 @@
     "bi-atrial enlargement": "PROBLEM"
   },
   {
-    "Persantine Myoview nuclear rest-stress test": "TEST"
+    "Persantine Myoview nuclear rest-stress test scan": "TEST"
+  },
+  {
+    "echocardiogram": "TEST"
   },
   {
     "dizzy spells": "PROBLEM"
@@ -66,7 +48,7 @@
     "bradycardia": "PROBLEM"
   },
   {
-    "beta-blocker": "DRUG"
+    "beta-blocker therapy": "TREATMENT"
   },
   {
     "Multivitamin": "DRUG"
@@ -96,7 +78,7 @@
     "Lasix": "DRUG"
   },
   {
-    "PENICILLIN": "PROBLEM"
+    "PENICILLIN": "DRUG"
   },
   {
     "TOPROL": "DRUG"
@@ -165,15 +147,6 @@
     "blood pressure": "TEST"
   },
   {
-    "pulse": "TEST"
-  },
-  {
-    "respiratory rate": "TEST"
-  },
-  {
-    "O2 saturation": "TEST"
-  },
-  {
     "hip fracture": "PROBLEM"
   },
   {
@@ -213,13 +186,16 @@
     "INR": "TEST"
   },
   {
-    "white blood cell count": "TEST"
+    "white blood count": "TEST"
   },
   {
     "hematocrit": "TEST"
   },
   {
     "platelet count": "TEST"
+  },
+  {
+    "MAT": "PROBLEM"
   },
   {
     "hypokalemia": "PROBLEM"
@@ -232,5 +208,11 @@
   },
   {
     "proton pump inhibitors": "DRUG"
+  },
+  {
+    "gastroesophageal reflux disease": "PROBLEM"
+  },
+  {
+    "hypokalemia": "PROBLEM"
   }
 ]

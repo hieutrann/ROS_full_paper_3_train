@@ -1,24 +1,21 @@
 [
   {
-    "hysterectomy": "TREATMENT"
+    "Total vaginal hysterectomy": "TREATMENT"
   },
   {
     "Microinvasive carcinoma": "PROBLEM"
   },
   {
-    "Microinvasive carcinoma of the cervix": "PROBLEM"
+    "Microinvasive carcinoma": "PROBLEM"
   },
   {
-    "Microinvasive carcinoma of the cervix": "PROBLEM"
+    "Microinvasive carcinoma": "PROBLEM"
+  },
+  {
+    "cervix": "PROBLEM"
   },
   {
     "Total vaginal hysterectomy": "TREATMENT"
-  },
-  {
-    "gravida": "PROBLEM"
-  },
-  {
-    "para": "PROBLEM"
   },
   {
     "tubal ligation": "TREATMENT"
@@ -27,7 +24,10 @@
     "Pap smear": "TEST"
   },
   {
-    "carcinoma": "PROBLEM"
+    "followup": "TREATMENT"
+  },
+  {
+    "microinvasive carcinoma": "PROBLEM"
   },
   {
     "Biopsy": "TEST"
@@ -39,16 +39,16 @@
     "microinvasive carcinoma": "PROBLEM"
   },
   {
-    "vaginal hysterectomy": "TREATMENT"
+    "total vaginal hysterectomy": "TREATMENT"
   },
   {
     "Pap smears": "TEST"
   },
   {
-    "tobacco use": "PROBLEM"
+    "pregnancies": "PROBLEM"
   },
   {
-    "PHYSICAL EXAMINATION": "TEST"
+    "tobacco": "DRUG"
   },
   {
     "cone biopsy": "TREATMENT"
@@ -63,13 +63,22 @@
     "total vaginal hysterectomy": "TREATMENT"
   },
   {
-    "cystotomy": "TREATMENT"
+    "general anesthesia": "TREATMENT"
   },
   {
-    "Bowel": "PROBLEM"
+    "cystotomy": "PROBLEM"
   },
   {
-    "bladder": "PROBLEM"
+    "bladder flap": "TREATMENT"
+  },
+  {
+    "intraoperatively": "TREATMENT"
+  },
+  {
+    "Bowel and bladder function": "PROBLEM"
+  },
+  {
+    "ambulating": "PROBLEM"
   },
   {
     "cystogram": "TEST"
@@ -90,6 +99,9 @@
     "urinary tract infection": "PROBLEM"
   },
   {
+    "disease": "PROBLEM"
+  },
+  {
     "pap smear": "TEST"
   },
   {
@@ -99,7 +111,10 @@
     "hysterectomy": "TREATMENT"
   },
   {
-    "microinvasive carcinoma": "PROBLEM"
+    "microinvasive": "PROBLEM"
+  },
+  {
+    "carcinoma": "PROBLEM"
   },
   {
     "cervix": "PROBLEM"

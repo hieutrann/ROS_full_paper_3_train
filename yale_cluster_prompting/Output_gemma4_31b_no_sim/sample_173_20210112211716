@@ -3,9 +3,6 @@
     "Refractory Hypertension": "PROBLEM"
   },
   {
-    "Refractory hypertension": "PROBLEM"
-  },
-  {
     "cardiac arrhythmia": "PROBLEM"
   },
   {
@@ -108,16 +105,19 @@
     "Cardura": "DRUG"
   },
   {
-    "PHYSICAL EXAMINATION": "TEST"
+    "Temperature": "TEST"
   },
   {
-    "VITAL SIGNS": "TEST"
+    "pulse": "TEST"
   },
   {
-    "THORAX": "TEST"
+    "respirations": "TEST"
   },
   {
-    "CARDIOVASCULAR": "TEST"
+    "blood pressure": "TEST"
+  },
+  {
+    "PA and lateral": "TEST"
   },
   {
     "murmur": "PROBLEM"
@@ -127,9 +127,6 @@
   },
   {
     "murmur": "PROBLEM"
-  },
-  {
-    "nontender": "PROBLEM"
   },
   {
     "edema": "PROBLEM"
@@ -145,9 +142,6 @@
   },
   {
     "blood pressure": "PROBLEM"
-  },
-  {
-    "confusion": "PROBLEM"
   },
   {
     "cardiac arrhythmia": "PROBLEM"

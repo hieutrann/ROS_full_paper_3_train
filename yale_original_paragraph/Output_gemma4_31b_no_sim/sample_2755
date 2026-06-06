@@ -51,13 +51,19 @@
     "tachycardic": "PROBLEM"
   },
   {
+    "blood pressure": "TEST"
+  },
+  {
+    "respiratory rate": "TEST"
+  },
+  {
     "stridor": "PROBLEM"
   },
   {
     "Tachycardia": "PROBLEM"
   },
   {
-    "confluence erythematous, blanching rash": "PROBLEM"
+    "erythematous, blanching rash": "PROBLEM"
   },
   {
     "blotchy papular, macular rash": "PROBLEM"
@@ -82,5 +88,8 @@
   },
   {
     "antihistamine": "DRUG"
+  },
+  {
+    "respiratory complaints": "PROBLEM"
   }
 ]

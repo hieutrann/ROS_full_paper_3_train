@@ -1,0 +1,329 @@
+[
+  {
+    "Sample Type / Medical Specialty: Discharge Summary": "TEST"
+  },
+  {
+    "Sample Name: Discharge Summary - 17": "TEST"
+  },
+  {
+    "improved": "PROBLEM"
+  },
+  {
+    "FINAL DIAGNOSIS/REASON FOR ADMISSION": "PROBLEM"
+  },
+  {
+    "Acute right lobar pneumonia": "PROBLEM"
+  },
+  {
+    "Hypoxemia": "PROBLEM"
+  },
+  {
+    "hypotension": "PROBLEM"
+  },
+  {
+    "acute right lobar pneumonia": "PROBLEM"
+  },
+  {
+    "Electrolyte abnormality": "PROBLEM"
+  },
+  {
+    "hyponatremia": "PROBLEM"
+  },
+  {
+    "hypokalemia": "PROBLEM"
+  },
+  {
+    "Elevated liver function tests": "TEST"
+  },
+  {
+    "moderate-to-severe dementia": "PROBLEM"
+  },
+  {
+    "Alzheimer's type": "PROBLEM"
+  },
+  {
+    "Anemia secondary to current illness and possible iron deficiency": "PROBLEM"
+  },
+  {
+    "Darkened mole": "PROBLEM"
+  },
+  {
+    "skin biopsy": "TEST"
+  },
+  {
+    "pathology report": "TEST"
+  },
+  {
+    "thoracentesis": "TREATMENT"
+  },
+  {
+    "Y's results pending.": "TEST"
+  },
+  {
+    "DISPOSITION": "PROBLEM"
+  },
+  {
+    "clinically improved": "PROBLEM"
+  },
+  {
+    "IV Flagyl 500 mg every 8 hours": "DRUG"
+  },
+  {
+    "Levaquin 500 mg daily": "DRUG"
+  },
+  {
+    "low-grade fever": "PROBLEM"
+  },
+  {
+    "confusion": "PROBLEM"
+  },
+  {
+    "dizziness": "PROBLEM"
+  },
+  {
+    "nonproductive cough": "PROBLEM"
+  },
+  {
+    "symptoms": "PROBLEM"
+  },
+  {
+    "emergency room": "TEST"
+  },
+  {
+    "chest x-ray": "TEST"
+  },
+  {
+    "right lobar infiltrate": "PROBLEM"
+  },
+  {
+    "antibiotics": "DRUG"
+  },
+  {
+    "Infectious Disease": "PROBLEM"
+  },
+  {
+    "vancomycin": "DRUG"
+  },
+  {
+    "Blood, sputum, and urine cultures": "TEST"
+  },
+  {
+    "IV Levaquin": "DRUG"
+  },
+  {
+    "IV Flagyl": "DRUG"
+  },
+  {
+    "C. diff colitis": "PROBLEM"
+  },
+  {
+    "cholecystitis": "PROBLEM"
+  },
+  {
+    "hypotensive": "PROBLEM"
+  },
+  {
+    "mild symptoms": "PROBLEM"
+  },
+  {
+    "dizzy": "PROBLEM"
+  },
+  {
+    "upright positioning": "PROBLEM"
+  },
+  {
+    "systolic blood pressure": "PROBLEM"
+  },
+  {
+    "60-70 mmHg": "TEST"
+  },
+  {
+    "IV fluid management": "TREATMENT"
+  },
+  {
+    "250 mL an hour": "TEST"
+  },
+  {
+    "She": "PROBLEM"
+  },
+  {
+    "fluid": "TREATMENT"
+  },
+  {
+    "pulmonary": "TREATMENT"
+  },
+  {
+    "elevated liver function tests": "TEST"
+  },
+  {
+    "ultrasound": "TEST"
+  },
+  {
+    "CT scan of the chest and abdomen": "TEST"
+  },
+  {
+    "fluid circling the gallbladder": "PROBLEM"
+  },
+  {
+    "HIDA scan": "TEST"
+  },
+  {
+    "Liver functions": "TEST"
+  },
+  {
+    "elevated": "PROBLEM"
+  },
+  {
+    "1.5 times normal value": "PROBLEM"
+  },
+  {
+    "Infectious Disease": "PROBLEM"
+  },
+  {
+    "antibiotics": "DRUG"
+  },
+  {
+    "hypoxemic": "PROBLEM"
+  },
+  {
+    "room air pulse oximetry": "TEST"
+  },
+  {
+    "incentive spirometry": "TREATMENT"
+  },
+  {
+    "pulmonary function": "TEST"
+  },
+  {
+    "white count": "PROBLEM"
+  },
+  {
+    "Blood cultures": "TEST"
+  },
+  {
+    "Sputum culture": "TEST"
+  },
+  {
+    "Urine culture": "TEST"
+  },
+  {
+    "thoracentesis culture": "TEST"
+  },
+  {
+    "cardiovascular support": "TREATMENT"
+  },
+  {
+    "GI bleeding": "PROBLEM"
+  },
+  {
+    "white count": "TEST"
+  },
+  {
+    "hemoglobin": "TEST"
+  },
+  {
+    "hematocrit": "TEST"
+  },
+  {
+    "PT": "TEST"
+  },
+  {
+    "PTT": "TEST"
+  },
+  {
+    "Occult blood studies": "TEST"
+  },
+  {
+    "Hepatitis B antigen": "TEST"
+  },
+  {
+    "Hepatitis A antibody IgM": "TEST"
+  },
+  {
+    "Hepatitis B core IgM negative": "PROBLEM"
+  },
+  {
+    "hepatitis C core antibody was negative": "PROBLEM"
+  },
+  {
+    "sodium": "TEST"
+  },
+  {
+    "potassium": "TEST"
+  },
+  {
+    "calcium": "TEST"
+  },
+  {
+    "ALT": "TEST"
+  },
+  {
+    "AST": "TEST"
+  },
+  {
+    "direct bilirubin": "TEST"
+  },
+  {
+    "LDH": "TEST"
+  },
+  {
+    "serum iron": "TEST"
+  },
+  {
+    "total iron unbound": "TEST"
+  },
+  {
+    "ferritin level": "TEST"
+  },
+  {
+    "improved": "PROBLEM"
+  },
+  {
+    "back discomfort": "PROBLEM"
+  },
+  {
+    "lumbosacral back x-ray": "TEST"
+  },
+  {
+    "evidence of mild degenerative disk disease": "PROBLEM"
+  },
+  {
+    "compression fracture": "PROBLEM"
+  },
+  {
+    "pneumonia": "PROBLEM"
+  },
+  {
+    "hypoxemia": "PROBLEM"
+  },
+  {
+    "hypotension": "PROBLEM"
+  },
+  {
+    "electrolyte abnormality": "PROBLEM"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "scalp skin biopsy": "TEST"
+  },
+  {
+    "liver function tests": "TEST"
+  },
+  {
+    "lobar pneumonia": "PROBLEM"
+  },
+  {
+    "infectious disease": "PROBLEM"
+  },
+  {
+    "skin biopsy": "TEST"
+  },
+  {
+    "white count": "TEST"
+  },
+  {
+    "cultures": "TEST"
+  }
+]

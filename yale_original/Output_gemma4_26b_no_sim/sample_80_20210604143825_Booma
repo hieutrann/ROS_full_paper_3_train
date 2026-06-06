@@ -1,6 +1,12 @@
 [
   {
+    "ENT Exam": "TEST"
+  },
+  {
     "lymphadenitis": "PROBLEM"
+  },
+  {
+    "acute trauma": "PROBLEM"
   },
   {
     "Otoscopic examination": "TEST"
@@ -21,10 +27,10 @@
     "swelling": "PROBLEM"
   },
   {
-    "tympanic membranes": "TEST"
+    "infection": "PROBLEM"
   },
   {
-    "infection": "PROBLEM"
+    "inflammation": "PROBLEM"
   },
   {
     "swelling": "PROBLEM"
@@ -45,10 +51,16 @@
     "traumatic lesions": "PROBLEM"
   },
   {
+    "infection": "PROBLEM"
+  },
+  {
     "swelling": "PROBLEM"
   },
   {
     "swelling": "PROBLEM"
+  },
+  {
+    "inflammation": "PROBLEM"
   },
   {
     "traumatic lesions": "PROBLEM"

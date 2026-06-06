@@ -24,13 +24,13 @@
     "vomiting": "PROBLEM"
   },
   {
-    "incarcerated umbilical hernia": "PROBLEM"
+    "hernia": "PROBLEM"
   },
   {
     "pain": "PROBLEM"
   },
   {
-    "definitive repair": "TREATMENT"
+    "repair": "TREATMENT"
   },
   {
     "hemorrhoidectomy": "TREATMENT"
@@ -48,37 +48,40 @@
     "Remeron": "DRUG"
   },
   {
-    "No allergies": "PROBLEM"
+    "allergies": "PROBLEM"
   },
   {
     "cancer": "PROBLEM"
   },
   {
-    "drinks": "PROBLEM"
+    "beers": "DRUG"
+  },
+  {
+    "smokes": "TREATMENT"
+  },
+  {
+    "pack": "TREATMENT"
   },
   {
     "hepatitis": "PROBLEM"
   },
   {
+    "blood transfusions": "TREATMENT"
+  },
+  {
     "obese": "PROBLEM"
   },
   {
-    "mild distress": "PROBLEM"
+    "distress": "PROBLEM"
   },
   {
     "scleral icterus": "PROBLEM"
   },
   {
-    "cervical adenopathy": "PROBLEM"
+    "adenopathy": "PROBLEM"
   },
   {
-    "supraclavicular adenopathy": "PROBLEM"
-  },
-  {
-    "axillary adenopathy": "PROBLEM"
-  },
-  {
-    "LUNGS": "PROBLEM"
+    "LUNGS": "TEST"
   },
   {
     "HEART": "TEST"
@@ -99,7 +102,10 @@
     "umbilicus": "TEST"
   },
   {
-    "position": "TEST"
+    "obesity": "PROBLEM"
+  },
+  {
+    "herniated contents": "PROBLEM"
   },
   {
     "herniated contents": "PROBLEM"
@@ -111,10 +117,13 @@
     "umbilicus": "PROBLEM"
   },
   {
-    "Normal sinus rhythm": "TEST"
+    "sinus rhythm": "PROBLEM"
   },
   {
-    "prolonged QT": "PROBLEM"
+    "QT": "PROBLEM"
+  },
+  {
+    "EKG": "TEST"
   },
   {
     "Chest x-ray": "TEST"
@@ -123,7 +132,7 @@
     "abdominal x-rays": "TEST"
   },
   {
-    "electrolytes": "PROBLEM"
+    "electrolytes": "TEST"
   },
   {
     "Creatinine": "TEST"
@@ -138,16 +147,16 @@
     "platelet count": "TEST"
   },
   {
-    "incarcerated umbilical hernia": "PROBLEM"
+    "hernia": "PROBLEM"
   },
   {
     "mesh": "TREATMENT"
   },
   {
-    "prolonged qt": "PROBLEM"
+    "sinus rhythm": "PROBLEM"
   },
   {
-    "umbilical hernia": "PROBLEM"
+    "prolonged qt": "PROBLEM"
   },
   {
     "platelet count": "TEST"
@@ -156,21 +165,12 @@
     "hematocrit": "TEST"
   },
   {
-    "ekg": "TEST"
+    "umbilical hernia": "PROBLEM"
   },
   {
-    "sinus rhythm": "TEST"
+    "emergency department": "TREATMENT"
   },
   {
-    "emergency department": "TEST"
-  },
-  {
-    "general medicine": "TEST"
-  },
-  {
-    "incarcerated": "PROBLEM"
-  },
-  {
-    "intermittent": "PROBLEM"
+    "general medicine": "TREATMENT"
   }
 ]

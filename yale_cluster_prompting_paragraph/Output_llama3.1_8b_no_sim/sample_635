@@ -1,92 +1,53 @@
 [
   {
-    "Surgery": "TREATMENT"
-  },
-  {
-    "Cardiac Catheterization": "TEST"
-  },
-  {
-    "Left heart catheterization": "TEST"
-  },
-  {
-    "coronary angiography": "TEST"
-  },
-  {
-    "vein graft angiography": "TEST"
-  },
-  {
-    "left ventricular pressure measurement": "TEST"
-  },
-  {
-    "left ventricular angiography": "TEST"
-  },
-  {
-    "Right femoral selective angiogram": "TEST"
-  },
-  {
-    "Angio-Seal": "DRUG"
-  },
-  {
-    "Closure device": "DRUG"
-  },
-  {
     "coronary atherosclerotic heart disease": "PROBLEM"
   },
   {
-    "chest discomfort": "PROBLEM"
+    "catheterization": "TEST"
   },
   {
-    "current smoking": "PROBLEM"
+    "angiography": "TEST"
   },
   {
-    "diabetes": "PROBLEM"
+    "angiogram": "TEST"
   },
   {
-    "hypertension": "PROBLEM"
+    "angio-seal": "TREATMENT"
   },
   {
-    "hyperlipidemia": "PROBLEM"
+    "closure device": "TREATMENT"
   },
   {
-    "mitral regurgitation": "PROBLEM"
+    "saphenous vein graft": "TREATMENT"
   },
   {
-    "aortic valve": "PROBLEM"
-  },
-  {
-    "left ventricular ejection fraction": "PROBLEM"
-  },
-  {
-    "aortic pressure": "TEST"
-  },
-  {
-    "left ventricular pressure": "TEST"
-  },
-  {
-    "end-diastolic pressure": "TEST"
-  },
-  {
-    "gradient across the aortic valve": "TEST"
-  },
-  {
-    "left ventricular systolic function": "TEST"
+    "ventricular pressure": "TEST"
   },
   {
     "coronary artery": "PROBLEM"
   },
   {
-    "saphenous vein graft": "PROBLEM"
+    "saphenous vein": "PROBLEM"
+  },
+  {
+    "atherosclerotic": "PROBLEM"
+  },
+  {
+    "coronary": "PROBLEM"
+  },
+  {
+    "artery": "PROBLEM"
   },
   {
     "bifurcation": "PROBLEM"
   },
   {
-    "PDA": "PROBLEM"
+    "pda": "PROBLEM"
   },
   {
-    "PLV": "PROBLEM"
+    "ventricular": "PROBLEM"
   },
   {
-    "carotid bruits": "PROBLEM"
+    "saphenous": "PROBLEM"
   }
 ]

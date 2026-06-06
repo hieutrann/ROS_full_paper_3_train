@@ -24,16 +24,13 @@
     "microcytic anemia": "PROBLEM"
   },
   {
-    "hemoglobin": "TEST"
-  },
-  {
-    "8.9": "TEST"
+    "hemoglobin": "PROBLEM"
   },
   {
     "Stool": "PROBLEM"
   },
   {
-    "OB positive": "TEST"
+    "OB positive": "PROBLEM"
   },
   {
     "shortness of breath": "PROBLEM"
@@ -45,7 +42,7 @@
     "GI complaints": "PROBLEM"
   },
   {
-    "admitted": "TREATMENT"
+    "ABCD": "PROBLEM"
   },
   {
     "atrial fibrillation": "PROBLEM"
@@ -69,40 +66,31 @@
     "hypothyroidism": "PROBLEM"
   },
   {
-    "PHYSICAL EXAMINATION": "TEST"
-  },
-  {
     "acute distress": "PROBLEM"
   },
   {
-    "VITAL SIGNS": "TEST"
+    "Stable": "PROBLEM"
   },
   {
-    "HEENT": "TEST"
+    "Benign": "PROBLEM"
   },
   {
-    "NECK": "TEST"
+    "Supple": "PROBLEM"
   },
   {
     "adenopathy": "PROBLEM"
   },
   {
-    "LUNGS": "TEST"
+    "LUNGS": "PROBLEM"
   },
   {
-    "HEART": "TEST"
+    "Irregularly regular": "PROBLEM"
   },
   {
     "gallops": "PROBLEM"
   },
   {
-    "bowel sounds": "TEST"
-  },
-  {
-    "bowel": "PROBLEM"
-  },
-  {
-    "abdomen": "PROBLEM"
+    "bowel sounds": "PROBLEM"
   },
   {
     "masses": "PROBLEM"
@@ -117,16 +105,16 @@
     "upper endoscopy": "TEST"
   },
   {
-    "gastritis": "PROBLEM"
-  },
-  {
-    "Colonoscopy": "TEST"
+    "erosive gastritis": "PROBLEM"
   },
   {
     "diverticulosis": "PROBLEM"
   },
   {
     "polyp": "PROBLEM"
+  },
+  {
+    "Colonoscopy": "TEST"
   },
   {
     "resected": "TREATMENT"
@@ -138,16 +126,16 @@
     "transfused": "TREATMENT"
   },
   {
-    "hemoglobin": "TEST"
+    "hemoglobin": "PROBLEM"
   },
   {
-    "discharge": "TEST"
-  },
-  {
-    "hemoglobin": "TEST"
+    "10.7": "PROBLEM"
   },
   {
     "GI complaints": "PROBLEM"
+  },
+  {
+    "Coumadin": "DRUG"
   },
   {
     "Coumadin": "DRUG"
@@ -162,13 +150,13 @@
     "Cardiology": "TREATMENT"
   },
   {
-    "DISCHARGE DIAGNOSES": "TEST"
+    "DISCHARGE DIAGNOSES": "PROBLEM"
   },
   {
     "Upper gastrointestinal bleed": "PROBLEM"
   },
   {
-    "2": "TEST"
+    "2": "PROBLEM"
   },
   {
     "Anemia": "PROBLEM"
@@ -180,13 +168,13 @@
     "Atrial fibrillation": "PROBLEM"
   },
   {
-    "4": "TEST"
+    "4": "PROBLEM"
   },
   {
-    "diabetes mellitus": "PROBLEM"
+    "Non-insulin-dependent diabetes mellitus": "PROBLEM"
   },
   {
-    "5": "TEST"
+    "5": "PROBLEM"
   },
   {
     "Hypertension": "PROBLEM"
@@ -198,13 +186,13 @@
     "Hypothyroidism": "PROBLEM"
   },
   {
-    "7": "TEST"
+    "7": "PROBLEM"
   },
   {
     "Asthma": "PROBLEM"
   },
   {
-    "CONDITION UPON DISCHARGE": "PROBLEM"
+    "Stable": "PROBLEM"
   },
   {
     "Feosol": "DRUG"
@@ -237,13 +225,13 @@
     "lisinopril": "DRUG"
   },
   {
-    "ALLERGIES": "PROBLEM"
+    "None": "PROBLEM"
   },
   {
     "1800-calorie ADA": "TREATMENT"
   },
   {
-    "ACTIVITY": "TREATMENT"
+    "As tolerated": "TREATMENT"
   },
   {
     "Coumadin": "DRUG"
@@ -253,9 +241,6 @@
   },
   {
     "INR": "TEST"
-  },
-  {
-    "followup": "TREATMENT"
   },
   {
     "gi bleed": "PROBLEM"
@@ -273,9 +258,9 @@
     "endoscopy": "TEST"
   },
   {
-    "gi complaints": "PROBLEM"
+    "colonoscopy": "TEST"
   },
   {
-    "colonoscopy": "TEST"
+    "gi complaints": "PROBLEM"
   }
 ]

@@ -12,21 +12,24 @@
     "Biopsy": "TEST"
   },
   {
-    "Prostate Ultrasound": "TEST"
+    "Caverject": "DRUG"
   },
   {
     "Levitra": "DRUG"
   },
   {
-    "Nitroglycerin": "DRUG"
+    "Prostate Ultrasound": "TEST"
   },
   {
-    "Caverject": "DRUG"
+    "Nitroglycerin": "DRUG"
   },
   {
     "Penile Prosthesis": "TREATMENT"
   },
   {
-    "Prostate Ultrasound and Biopsy": "TREATMENT"
+    "Caverject Injection": "TREATMENT"
+  },
+  {
+    "Working Pump": "TREATMENT"
   }
 ]

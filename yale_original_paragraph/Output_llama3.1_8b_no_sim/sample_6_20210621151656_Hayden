@@ -1,0 +1,146 @@
+[
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "dementia": "PROBLEM"
+  },
+  {
+    "depression": "PROBLEM"
+  },
+  {
+    "cerebrovascular accidents": "PROBLEM"
+  },
+  {
+    "atrial fibrillation": "PROBLEM"
+  },
+  {
+    "glaucoma": "PROBLEM"
+  },
+  {
+    "degenerative arthritis": "PROBLEM"
+  },
+  {
+    "GERD": "PROBLEM"
+  },
+  {
+    "hypothyroidism": "PROBLEM"
+  },
+  {
+    "chronic rhinitis": "PROBLEM"
+  },
+  {
+    "urinary urge incontinence": "PROBLEM"
+  },
+  {
+    "chronic constipation": "PROBLEM"
+  },
+  {
+    "diabetes type II": "PROBLEM"
+  },
+  {
+    "painful bunions": "PROBLEM"
+  },
+  {
+    "Aspirin": "DRUG"
+  },
+  {
+    "Cymbalta": "DRUG"
+  },
+  {
+    "Diovan": "DRUG"
+  },
+  {
+    "felodipine": "DRUG"
+  },
+  {
+    "omeprazole": "DRUG"
+  },
+  {
+    "Toprol-XL": "DRUG"
+  },
+  {
+    "Levoxyl": "DRUG"
+  },
+  {
+    "Lantus insulin": "DRUG"
+  },
+  {
+    "simvastatin": "DRUG"
+  },
+  {
+    "AyrGel": "DRUG"
+  },
+  {
+    "Senna S": "DRUG"
+  },
+  {
+    "Timoptic": "DRUG"
+  },
+  {
+    "Tylenol": "DRUG"
+  },
+  {
+    "Xalatan": "DRUG"
+  },
+  {
+    "Tucks": "DRUG"
+  },
+  {
+    "ACE inhibitor": "DRUG"
+  },
+  {
+    "Cough": "PROBLEM"
+  },
+  {
+    "hemorrhoids": "PROBLEM"
+  },
+  {
+    "constipation": "PROBLEM"
+  },
+  {
+    "blood glucoses": "TEST"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "rib pain": "PROBLEM"
+  },
+  {
+    "breathing": "PROBLEM"
+  },
+  {
+    "neurologic complaints": "PROBLEM"
+  },
+  {
+    "pain": "PROBLEM"
+  },
+  {
+    "Tylenol": "DRUG"
+  },
+  {
+    "annulose": "DRUG"
+  },
+  {
+    "FiberCon": "DRUG"
+  },
+  {
+    "Metamucil": "DRUG"
+  },
+  {
+    "bowels": "TREATMENT"
+  },
+  {
+    "regimen": "TREATMENT"
+  },
+  {
+    "FiberCon tablets": "TREATMENT"
+  },
+  {
+    "Metamucil powder": "TREATMENT"
+  },
+  {
+    "annulose": "TREATMENT"
+  }
+]

@@ -9,7 +9,7 @@
     "conjunctivitis": "PROBLEM"
   },
   {
-    "mild arthritis": "PROBLEM"
+    "arthritis": "PROBLEM"
   },
   {
     "edema": "PROBLEM"
@@ -18,13 +18,13 @@
     "rash": "PROBLEM"
   },
   {
-    "elevated neutrophils": "PROBLEM"
+    "elevated neutrophils": "TEST"
   },
   {
     "thrombocytosis": "PROBLEM"
   },
   {
-    "elevated CRP": "PROBLEM"
+    "CRP": "TEST"
   },
   {
     "ESR": "TEST"
@@ -45,7 +45,7 @@
     "conjunctivitis": "PROBLEM"
   },
   {
-    "mild arthritis": "PROBLEM"
+    "arthritis": "PROBLEM"
   },
   {
     "edema": "PROBLEM"
@@ -54,13 +54,13 @@
     "rash": "PROBLEM"
   },
   {
-    "elevated neutrophils": "PROBLEM"
+    "elevated neutrophils": "TEST"
   },
   {
     "thrombocytosis": "PROBLEM"
   },
   {
-    "elevated CRP": "PROBLEM"
+    "CRP": "TEST"
   },
   {
     "ESR": "TEST"
@@ -96,6 +96,9 @@
     "redness of mucous membranes": "PROBLEM"
   },
   {
+    "cardiac followup": "TEST"
+  },
+  {
     "Aspirin": "DRUG"
   },
   {
@@ -115,9 +118,6 @@
   },
   {
     "vaccine": "DRUG"
-  },
-  {
-    "IVIG": "DRUG"
   },
   {
     "live virus vaccine": "DRUG"

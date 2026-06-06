@@ -1,6 +1,6 @@
 [
   {
-    "Leiomyosarcoma": "PROBLEM"
+    "leiomyosarcoma": "PROBLEM"
   },
   {
     "pulmonary embolism": "PROBLEM"
@@ -21,13 +21,13 @@
     "Leiomyosarcoma": "PROBLEM"
   },
   {
-    "2": "TEST"
+    "2": "TREATMENT"
   },
   {
     "pulmonary embolism": "PROBLEM"
   },
   {
-    "3": "PROBLEM"
+    "3": "TREATMENT"
   },
   {
     "subdural hematoma": "PROBLEM"
@@ -39,13 +39,13 @@
     "Pancytopenia": "PROBLEM"
   },
   {
-    "5": "PROBLEM"
+    "5": "TEST"
   },
   {
     "pneumonia": "PROBLEM"
   },
   {
-    "PROCEDURES DURING HOSPITALIZATION": "TREATMENT"
+    "HOSPITALIZATION": "TREATMENT"
   },
   {
     "CIVI-CAD": "TREATMENT"
@@ -60,19 +60,13 @@
     "DTIC": "DRUG"
   },
   {
-    "2": "TEST"
-  },
-  {
-    "CTA": "TEST"
-  },
-  {
-    "chest PE study": "TEST"
+    "2": "TREATMENT"
   },
   {
     "pulmonary embolism": "PROBLEM"
   },
   {
-    "3": "PROBLEM"
+    "3": "TREATMENT"
   },
   {
     "Head CT": "TEST"
@@ -90,13 +84,16 @@
     "paranasal sinuses": "PROBLEM"
   },
   {
-    "Ms.": "PROBLEM"
-  },
-  {
     "mass": "PROBLEM"
   },
   {
     "mass": "PROBLEM"
+  },
+  {
+    "physician": "TREATMENT"
+  },
+  {
+    "surgeon": "TREATMENT"
   },
   {
     "rheumatoid arthritis": "PROBLEM"
@@ -111,16 +108,16 @@
     "leiomyosarcoma": "PROBLEM"
   },
   {
-    "pathologic grade 2": "PROBLEM"
-  },
-  {
     "resection": "TREATMENT"
   },
   {
-    "partial resection": "TREATMENT"
+    "pathologic grade 2": "TEST"
   },
   {
-    "X": "PROBLEM"
+    "Dr": "TREATMENT"
+  },
+  {
+    "X": "TREATMENT"
   },
   {
     "chemotherapy": "TREATMENT"
@@ -144,22 +141,16 @@
     "surgical resection": "TREATMENT"
   },
   {
-    "residual disease": "PROBLEM"
-  },
-  {
-    "small area": "PROBLEM"
-  },
-  {
-    "clear margins": "PROBLEM"
+    "disease": "PROBLEM"
   },
   {
     "Leiomyosarcoma": "PROBLEM"
   },
   {
-    "Hem/Onco B Service": "TEST"
+    "Hem/Onco B Service": "TREATMENT"
   },
   {
-    "Dr.": "TEST"
+    "Dr.": "TREATMENT"
   },
   {
     "Cytoxan": "DRUG"
@@ -171,7 +162,7 @@
     "DTIC": "DRUG"
   },
   {
-    "2": "TEST"
+    "2": "TREATMENT"
   },
   {
     "pulmonary embolism": "PROBLEM"
@@ -181,9 +172,6 @@
   },
   {
     "chest pain": "PROBLEM"
-  },
-  {
-    "CTA": "TEST"
   },
   {
     "pulmonary embolism": "PROBLEM"
@@ -198,7 +186,7 @@
     "chest pain": "PROBLEM"
   },
   {
-    "3": "PROBLEM"
+    "3": "TREATMENT"
   },
   {
     "subdural hematoma": "PROBLEM"
@@ -208,6 +196,9 @@
   },
   {
     "headaches": "PROBLEM"
+  },
+  {
+    "pain medication": "DRUG"
   },
   {
     "head CT": "TEST"
@@ -220,9 +211,6 @@
   },
   {
     "sinus CT scan": "TEST"
-  },
-  {
-    "CT scan": "TEST"
   },
   {
     "4": "TEST"
@@ -267,7 +255,7 @@
     "platelet count": "TEST"
   },
   {
-    "5": "PROBLEM"
+    "5": "TEST"
   },
   {
     "pneumonia": "PROBLEM"
@@ -276,19 +264,19 @@
     "pneumonia": "PROBLEM"
   },
   {
-    "Home": "TREATMENT"
+    "stable condition": "PROBLEM"
   },
   {
     "neutropenic": "PROBLEM"
   },
   {
-    "ACTIVITY": "TREATMENT"
+    "activity": "TREATMENT"
   },
   {
     "lab work": "TEST"
   },
   {
-    "cancer center": "PROBLEM"
+    "cancer": "PROBLEM"
   },
   {
     "fevers": "PROBLEM"
@@ -306,7 +294,7 @@
     "pneumonia": "PROBLEM"
   },
   {
-    "acute intracranial abnormalities": "PROBLEM"
+    "intracranial abnormalities": "PROBLEM"
   },
   {
     "white blood": "TEST"
@@ -327,18 +315,18 @@
     "pulmonary embolism": "PROBLEM"
   },
   {
-    "intracranial": "TEST"
+    "intracranial": "PROBLEM"
   },
   {
     "pancytopenia": "PROBLEM"
   },
   {
-    "neutropenic": "TEST"
+    "neutropenic": "PROBLEM"
   },
   {
-    "subdural": "TEST"
+    "subdural": "PROBLEM"
   },
   {
-    "pulmonary": "TEST"
+    "pulmonary": "PROBLEM"
   }
 ]

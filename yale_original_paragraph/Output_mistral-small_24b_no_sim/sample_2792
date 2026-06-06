@@ -3,19 +3,10 @@
     "Falls": "PROBLEM"
   },
   {
-    "anxiety": "PROBLEM"
+    "Anxiety": "PROBLEM"
   },
   {
     "depression": "PROBLEM"
-  },
-  {
-    "chest pain": "PROBLEM"
-  },
-  {
-    "loss of consciousness": "PROBLEM"
-  },
-  {
-    "seizure activity": "PROBLEM"
   },
   {
     "Darvocet": "DRUG"
@@ -27,7 +18,31 @@
     "Xanax": "DRUG"
   },
   {
+    "psychiatric evaluation": "TEST"
+  },
+  {
+    "Hypertension": "PROBLEM"
+  },
+  {
+    "Hypercholesterolemia": "PROBLEM"
+  },
+  {
+    "Coronary artery disease": "PROBLEM"
+  },
+  {
+    "Osteoarthritis": "PROBLEM"
+  },
+  {
+    "Chronic obstructive pulmonary disease": "PROBLEM"
+  },
+  {
+    "Hypothyroidism": "PROBLEM"
+  },
+  {
     "Tylenol": "DRUG"
+  },
+  {
+    "Xanax": "DRUG"
   },
   {
     "Lasix": "DRUG"
@@ -63,6 +78,9 @@
     "Feldene": "DRUG"
   },
   {
+    "Paxil": "DRUG"
+  },
+  {
     "Minipress": "DRUG"
   },
   {
@@ -79,59 +97,5 @@
   },
   {
     "verapamil": "DRUG"
-  },
-  {
-    "Pulse": "TEST"
-  },
-  {
-    "blood pressure": "TEST"
-  },
-  {
-    "respiratory rate": "TEST"
-  },
-  {
-    "carotid upstrokes": "TEST"
-  },
-  {
-    "S1": "TEST"
-  },
-  {
-    "S2": "TEST"
-  },
-  {
-    "gallops": "TEST"
-  },
-  {
-    "bowel sounds": "TEST"
-  },
-  {
-    "edema": "TEST"
-  },
-  {
-    "ecchymosis": "TEST"
-  },
-  {
-    "metatarsal": "TEST"
-  },
-  {
-    "psychiatric evaluation": "TEST"
-  },
-  {
-    "hypertension": "PROBLEM"
-  },
-  {
-    "hypercholesterolemia": "PROBLEM"
-  },
-  {
-    "coronary artery disease": "PROBLEM"
-  },
-  {
-    "osteoarthritis": "PROBLEM"
-  },
-  {
-    "chronic obstructive pulmonary disease": "PROBLEM"
-  },
-  {
-    "hypothyroidism": "PROBLEM"
   }
 ]

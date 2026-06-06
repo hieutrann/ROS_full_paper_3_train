@@ -15,13 +15,34 @@
     "shoulder": "PROBLEM"
   },
   {
-    "lateral and posterior shoulder pain": "PROBLEM"
+    "upper extremity": "PROBLEM"
+  },
+  {
+    "shoulder pain": "PROBLEM"
   },
   {
     "cervical radiculopathies": "PROBLEM"
   },
   {
-    "chronic cardiac, pulmonary, GI, GU, neurologic, musculoskeletal, endocrine abnormalities": "PROBLEM"
+    "cardiac": "PROBLEM"
+  },
+  {
+    "pulmonary": "PROBLEM"
+  },
+  {
+    "GI": "PROBLEM"
+  },
+  {
+    "GU": "PROBLEM"
+  },
+  {
+    "neurologic": "PROBLEM"
+  },
+  {
+    "musculoskeletal": "PROBLEM"
+  },
+  {
+    "endocrine": "PROBLEM"
   },
   {
     "Claritin": "DRUG"
@@ -42,19 +63,7 @@
     "temperature": "TEST"
   },
   {
-    "Gross neurologic examination": "TEST"
-  },
-  {
     "ENT examination": "TEST"
-  },
-  {
-    "oropharynx": "PROBLEM"
-  },
-  {
-    "nasopharynx": "PROBLEM"
-  },
-  {
-    "tympanic membranes": "PROBLEM"
   },
   {
     "adenopathy": "PROBLEM"
@@ -63,19 +72,16 @@
     "thyromegaly": "PROBLEM"
   },
   {
-    "Regular rate and rhythm": "TEST"
-  },
-  {
     "tender": "PROBLEM"
-  },
-  {
-    "range of motion": "TEST"
   },
   {
     "pain": "PROBLEM"
   },
   {
-    "Neer's and Hawkins impingement testing": "TEST"
+    "Neer's": "TEST"
+  },
+  {
+    "Hawkins impingement testing": "TEST"
   },
   {
     "sulcus": "TEST"
@@ -91,6 +97,9 @@
   },
   {
     "x-rays": "TEST"
+  },
+  {
+    "shoulder": "PROBLEM"
   },
   {
     "Right shoulder pain": "PROBLEM"
@@ -118,9 +127,6 @@
   },
   {
     "x-rays": "TEST"
-  },
-  {
-    "neurologic abnormalities": "PROBLEM"
   },
   {
     "impingement": "PROBLEM"

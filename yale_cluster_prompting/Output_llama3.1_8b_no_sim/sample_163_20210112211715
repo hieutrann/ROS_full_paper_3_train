@@ -6,7 +6,7 @@
     "pathology specimen": "TEST"
   },
   {
-    "discharge": "TREATMENT"
+    "improved": "PROBLEM"
   },
   {
     "FINAL DIAGNOSIS/REASON FOR ADMISSION": "PROBLEM"
@@ -27,7 +27,7 @@
     "acute right lobar pneumonia": "PROBLEM"
   },
   {
-    "3": "PROBLEM"
+    "3": "TREATMENT"
   },
   {
     "Electrolyte abnormality": "PROBLEM"
@@ -39,13 +39,16 @@
     "hypokalemia": "PROBLEM"
   },
   {
-    "4": "TEST"
+    "4": "TREATMENT"
+  },
+  {
+    "Elevated liver function tests": "PROBLEM"
   },
   {
     "liver function tests": "TEST"
   },
   {
-    "5": "TEST"
+    "5": "TREATMENT"
   },
   {
     "dementia": "PROBLEM"
@@ -54,7 +57,7 @@
     "Alzheimer's": "PROBLEM"
   },
   {
-    "6": "PROBLEM"
+    "6": "TREATMENT"
   },
   {
     "Anemia": "PROBLEM"
@@ -63,7 +66,10 @@
     "iron deficiency": "PROBLEM"
   },
   {
-    "7": "PROBLEM"
+    "current illness": "PROBLEM"
+  },
+  {
+    "7": "TREATMENT"
   },
   {
     "Darkened mole": "PROBLEM"
@@ -87,6 +93,12 @@
     "thoracentesis": "TREATMENT"
   },
   {
+    "diagnostic": "TEST"
+  },
+  {
+    "therapeutic": "TREATMENT"
+  },
+  {
     "Dr.": "TREATMENT"
   },
   {
@@ -96,10 +108,10 @@
     "long-term acute facility": "TREATMENT"
   },
   {
-    "Dr": "TREATMENT"
+    "Dr.": "DRUG"
   },
   {
-    "acute care": "TREATMENT"
+    "acute care": "PROBLEM"
   },
   {
     "Flagyl": "DRUG"
@@ -120,13 +132,13 @@
     "nonproductive cough": "PROBLEM"
   },
   {
+    "symptoms": "PROBLEM"
+  },
+  {
     "chest x-ray": "TEST"
   },
   {
     "infiltrate": "PROBLEM"
-  },
-  {
-    "Brighton Gardens": "TREATMENT"
   },
   {
     "antibiotics": "DRUG"
@@ -141,13 +153,13 @@
     "infection": "PROBLEM"
   },
   {
-    "sputum": "TEST"
+    "blood cultures": "TEST"
   },
   {
-    "urine": "TEST"
+    "sputum cultures": "TEST"
   },
   {
-    "cultures": "TEST"
+    "urine cultures": "TEST"
   },
   {
     "Levaquin": "DRUG"
@@ -180,22 +192,25 @@
     "250 mL": "TREATMENT"
   },
   {
-    "hour": "TEST"
+    "an hour": "TREATMENT"
   },
   {
     "Dr": "TREATMENT"
   },
   {
-    "fluid": "TREATMENT"
+    "fluid": "PROBLEM"
   },
   {
     "pulmonary": "PROBLEM"
   },
   {
-    "elevated liver function tests": "TEST"
+    "treatment": "TREATMENT"
   },
   {
-    "Dr": "TREATMENT"
+    "elevated liver function tests": "PROBLEM"
+  },
+  {
+    "liver function tests": "TEST"
   },
   {
     "ultrasound": "TEST"
@@ -228,31 +243,28 @@
     "antibiotics": "DRUG"
   },
   {
-    "pulse oximetry": "TEST"
-  },
-  {
     "hypoxemic": "PROBLEM"
   },
   {
-    "incentive spirometry": "TEST"
+    "pulse oximetry": "TEST"
+  },
+  {
+    "incentive spirometry": "TREATMENT"
   },
   {
     "pulmonary function": "TEST"
-  },
-  {
-    "LABORATORY TESTS": "TEST"
-  },
-  {
-    "white count": "TEST"
-  },
-  {
-    "13,000": "TEST"
   },
   {
     "white count": "TEST"
   },
   {
     "Blood cultures": "TEST"
+  },
+  {
+    "negative": "TEST"
+  },
+  {
+    "5 days": "TEST"
   },
   {
     "sputum culture": "TEST"
@@ -270,10 +282,13 @@
     "hemoglobin": "TEST"
   },
   {
+    "cardiovascular support": "TREATMENT"
+  },
+  {
     "GI bleeding": "PROBLEM"
   },
   {
-    "cardiovascular support": "TREATMENT"
+    "blood work": "TEST"
   },
   {
     "white count": "TEST"
@@ -297,16 +312,16 @@
     "occult blood": "PROBLEM"
   },
   {
-    "Hepatitis B antigen": "TEST"
+    "Hepatitis B antigen": "PROBLEM"
   },
   {
     "Hepatitis A antibody IgM": "TEST"
   },
   {
-    "Hepatitis B core IgM": "TEST"
+    "Hepatitis B core IgM": "PROBLEM"
   },
   {
-    "Hepatitis C core antibody": "TEST"
+    "Hepatitis C core antibody": "PROBLEM"
   },
   {
     "sodium": "TEST"
@@ -339,7 +354,7 @@
     "ferritin level": "TEST"
   },
   {
-    "discharge": "TREATMENT"
+    "improved": "PROBLEM"
   },
   {
     "back discomfort": "PROBLEM"
@@ -354,7 +369,10 @@
     "compression fracture": "PROBLEM"
   },
   {
-    "Dr": "TREATMENT"
+    "acute": "PROBLEM"
+  },
+  {
+    "disk disease": "PROBLEM"
   },
   {
     "pneumonia": "PROBLEM"

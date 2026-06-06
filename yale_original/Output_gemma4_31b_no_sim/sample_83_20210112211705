@@ -51,7 +51,7 @@
     "gestational sac": "PROBLEM"
   },
   {
-    "small mass": "PROBLEM"
+    "mass": "PROBLEM"
   },
   {
     "uterus": "PROBLEM"
@@ -66,16 +66,19 @@
     "ruptured ectopic pregnancy": "PROBLEM"
   },
   {
+    "surgery": "TREATMENT"
+  },
+  {
     "laparotomy": "TREATMENT"
   },
   {
     "right ruptured ectopic pregnancy": "PROBLEM"
   },
   {
-    "right salpingectomy": "TREATMENT"
+    "salpingectomy": "TREATMENT"
   },
   {
-    "red packed cells": "DRUG"
+    "red packed cells": "TREATMENT"
   },
   {
     "hemoglobin": "TEST"
@@ -91,9 +94,6 @@
   },
   {
     "fever": "PROBLEM"
-  },
-  {
-    "bowel movement": "TEST"
   },
   {
     "Right ruptured ectopic pregnancy": "PROBLEM"
@@ -123,9 +123,15 @@
     "ruptured ectopic pregnancy": "PROBLEM"
   },
   {
+    "gestational sac": "PROBLEM"
+  },
+  {
     "ectopic pregnancy": "PROBLEM"
   },
   {
     "hemoperitoneum": "PROBLEM"
+  },
+  {
+    "ectopic": "PROBLEM"
   }
 ]

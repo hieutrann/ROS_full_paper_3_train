@@ -24,7 +24,7 @@
     "neoplasm": "PROBLEM"
   },
   {
-    "pancreatic": "PROBLEM"
+    "pancreatic lesions": "PROBLEM"
   },
   {
     "left adrenal lesions": "PROBLEM"
@@ -63,7 +63,7 @@
     "CAT scan": "TEST"
   },
   {
-    "1.8-cm lesion of his left adrenal gland": "PROBLEM"
+    "lesion of his left adrenal gland": "PROBLEM"
   },
   {
     "benign adenoma": "PROBLEM"
@@ -82,9 +82,6 @@
   },
   {
     "vomiting": "PROBLEM"
-  },
-  {
-    "bowel habits": "PROBLEM"
   },
   {
     "rectal bleeding": "PROBLEM"
@@ -153,9 +150,6 @@
     "fluticasone spray": "DRUG"
   },
   {
-    "surgery": "TREATMENT"
-  },
-  {
     "prostate cancer": "PROBLEM"
   },
   {
@@ -198,10 +192,13 @@
     "bruit": "PROBLEM"
   },
   {
-    "CHEST": "TEST"
+    "Normal excursion": "TEST"
   },
   {
-    "LUNGS": "TEST"
+    "auscultation": "TEST"
+  },
+  {
+    "percussion": "TEST"
   },
   {
     "S3": "PROBLEM"
@@ -228,9 +225,6 @@
     "organomegaly": "PROBLEM"
   },
   {
-    "RECTAL": "TEST"
-  },
-  {
     "pitting edema": "PROBLEM"
   },
   {
@@ -240,7 +234,10 @@
     "focal deficits": "PROBLEM"
   },
   {
-    "left adrenal and pancreatic lesions": "PROBLEM"
+    "left adrenal lesions": "PROBLEM"
+  },
+  {
+    "pancreatic lesions": "PROBLEM"
   },
   {
     "adrenal lesion": "PROBLEM"
@@ -274,12 +271,6 @@
   },
   {
     "esophagogastroduodenoscopy": "TEST"
-  },
-  {
-    "pancreatic": "PROBLEM"
-  },
-  {
-    "adrenal": "PROBLEM"
   },
   {
     "lesion": "PROBLEM"

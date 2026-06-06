@@ -1,0 +1,62 @@
+[
+  {
+    "Leiomyosarcoma": "PROBLEM"
+  },
+  {
+    "pulmonary embolism": "PROBLEM"
+  },
+  {
+    "subdural hematoma": "PROBLEM"
+  },
+  {
+    "pancytopenia": "PROBLEM"
+  },
+  {
+    "pneumonia": "PROBLEM"
+  },
+  {
+    "CTA": "TEST"
+  },
+  {
+    "CT": "TEST"
+  },
+  {
+    "CT scan": "TEST"
+  },
+  {
+    "CTA, chest PE study": "TEST"
+  },
+  {
+    "CTA, chest PE study showing no evidence for pulmonary embolism": "TEST"
+  },
+  {
+    "Head CT": "TEST"
+  },
+  {
+    "Head CT showing no evidence of acute intracranial abnormalities": "TEST"
+  },
+  {
+    "Sinus CT": "TEST"
+  },
+  {
+    "mini-CT of the paranasal sinuses": "TEST"
+  },
+  {
+    "CIVI-CAD": "TREATMENT"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "Lovenox": "DRUG"
+  },
+  {
+    "neutropenic diet": "TREATMENT"
+  }
+]

@@ -15,6 +15,9 @@
     "pain": "PROBLEM"
   },
   {
+    "supplements": "TREATMENT"
+  },
+  {
     "loose bowel movements": "PROBLEM"
   },
   {
@@ -75,6 +78,9 @@
     "chills": "PROBLEM"
   },
   {
+    "weight change": "PROBLEM"
+  },
+  {
     "epistaxis": "PROBLEM"
   },
   {
@@ -108,7 +114,7 @@
     "stomach pain": "PROBLEM"
   },
   {
-    "Nausea": "PROBLEM"
+    "nausea": "PROBLEM"
   },
   {
     "vomiting": "PROBLEM"
@@ -147,55 +153,22 @@
     "itching": "PROBLEM"
   },
   {
-    "lumps": "PROBLEM"
-  },
-  {
-    "masses": "PROBLEM"
-  },
-  {
     "bruising": "PROBLEM"
   },
   {
     "bleeding-type symptoms": "PROBLEM"
   },
   {
-    "thyromegaly": "PROBLEM"
+    "BP": "TEST"
   },
   {
-    "adenopathy": "PROBLEM"
+    "PULSE": "TEST"
   },
   {
-    "murmur": "PROBLEM"
-  },
-  {
-    "gallop": "PROBLEM"
-  },
-  {
-    "guarding": "PROBLEM"
-  },
-  {
-    "rigidity": "PROBLEM"
-  },
-  {
-    "tenderness": "PROBLEM"
-  },
-  {
-    "flank pain": "PROBLEM"
-  },
-  {
-    "cyanosis": "PROBLEM"
-  },
-  {
-    "clubbing": "PROBLEM"
-  },
-  {
-    "edema": "PROBLEM"
+    "RESPIRATIONS": "TEST"
   },
   {
     "metformin": "DRUG"
-  },
-  {
-    "diuretics": "DRUG"
   },
   {
     "CBC": "TEST"
@@ -223,5 +196,8 @@
   },
   {
     "CT of the abdomen and pelvis": "TEST"
+  },
+  {
+    "diuretics": "DRUG"
   }
 ]

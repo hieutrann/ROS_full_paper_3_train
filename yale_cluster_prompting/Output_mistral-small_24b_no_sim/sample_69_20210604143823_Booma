@@ -1,12 +1,6 @@
 [
   {
-    "MULTISYSTEM EXAM": "TEST"
-  },
-  {
-    "CONSTITUTIONAL": "TEST"
-  },
-  {
-    "vital signs": "TEST"
+    "multisystem exam": "TEST"
   },
   {
     "afebrile": "PROBLEM"
@@ -18,31 +12,58 @@
     "heart rate": "TEST"
   },
   {
+    "alert": "PROBLEM"
+  },
+  {
     "conjunctiva": "PROBLEM"
   },
   {
-    "pupil": "TEST"
+    "pupil": "PROBLEM"
   },
   {
     "ptosis": "PROBLEM"
   },
   {
+    "irides": "PROBLEM"
+  },
+  {
+    "EARS, NOSE AND THROAT": "TEST"
+  },
+  {
     "Hearing": "PROBLEM"
+  },
+  {
+    "mucosa": "PROBLEM"
   },
   {
     "lesion": "PROBLEM"
   },
   {
+    "palate": "PROBLEM"
+  },
+  {
+    "tongue": "PROBLEM"
+  },
+  {
     "tonsil": "PROBLEM"
   },
   {
-    "pharynx": "PROBLEM"
+    "posterior pharynx": "PROBLEM"
   },
   {
-    "RESPIRATORY": "TEST"
+    "supple": "PROBLEM"
+  },
+  {
+    "thyroid gland": "PROBLEM"
+  },
+  {
+    "respiratory effort": "PROBLEM"
   },
   {
     "Auscultation": "TEST"
+  },
+  {
+    "lung": "PROBLEM"
   },
   {
     "S1": "TEST"
@@ -60,7 +81,25 @@
     "abdomen": "PROBLEM"
   },
   {
+    "rebound": "PROBLEM"
+  },
+  {
+    "guarding": "PROBLEM"
+  },
+  {
+    "liver": "PROBLEM"
+  },
+  {
+    "spleen": "PROBLEM"
+  },
+  {
     "Bowel sounds": "PROBLEM"
+  },
+  {
+    "scrotal elements": "PROBLEM"
+  },
+  {
+    "mass": "PROBLEM"
   },
   {
     "lesion": "PROBLEM"
@@ -72,6 +111,21 @@
     "node": "PROBLEM"
   },
   {
+    "deformity": "PROBLEM"
+  },
+  {
+    "extremities": "PROBLEM"
+  },
+  {
+    "deformity": "PROBLEM"
+  },
+  {
+    "Range of motion": "TEST"
+  },
+  {
+    "Inspection": "TEST"
+  },
+  {
     "pink": "PROBLEM"
   },
   {
@@ -81,13 +135,22 @@
     "dry": "PROBLEM"
   },
   {
-    "NEUROLOGIC": "TEST"
+    "Deep tendon reflexes": "TEST"
+  },
+  {
+    "Sensation": "PROBLEM"
+  },
+  {
+    "oriented": "PROBLEM"
+  },
+  {
+    "judgment": "PROBLEM"
+  },
+  {
+    "insight": "PROBLEM"
   },
   {
     "general medicine": "PROBLEM"
-  },
-  {
-    "within normal limits": "TEST"
   },
   {
     "conjunctiva": "PROBLEM"

@@ -1,9 +1,9 @@
 [
   {
-    "Diabetes Mellitus": "PROBLEM"
+    "diabetes mellitus": "PROBLEM"
   },
   {
-    "diabetes mellitus, type 1": "PROBLEM"
+    "type 1": "PROBLEM"
   },
   {
     "diabetes mellitus, type 1": "PROBLEM"
@@ -22,6 +22,9 @@
   },
   {
     "low blood sugar": "PROBLEM"
+  },
+  {
+    "motor vehicle accident": "PROBLEM"
   },
   {
     "blood sugar dropped too low": "PROBLEM"
@@ -54,7 +57,7 @@
     "Lantus": "DRUG"
   },
   {
-    "blood sugars dropping too low": "PROBLEM"
+    "blood sugars": "TEST"
   },
   {
     "Lantus": "DRUG"
@@ -66,7 +69,7 @@
     "CMP": "TEST"
   },
   {
-    "alkaline phosphatase level": "TEST"
+    "alkaline phosphatase": "TEST"
   },
   {
     "SGGT": "TEST"
@@ -85,6 +88,9 @@
   },
   {
     "Viagra": "DRUG"
+  },
+  {
+    "scooter accident": "PROBLEM"
   },
   {
     "hit his head": "PROBLEM"
@@ -129,10 +135,10 @@
     "skin lacerations": "PROBLEM"
   },
   {
-    "Wound": "PROBLEM"
+    "infection": "PROBLEM"
   },
   {
-    "new granulation tissue": "PROBLEM"
+    "granulation tissue": "PROBLEM"
   },
   {
     "PERRLA": "TEST"
@@ -150,19 +156,7 @@
     "Nontender sinuses": "PROBLEM"
   },
   {
-    "Full ROM.": "TEST"
-  },
-  {
     "LAD": "PROBLEM"
-  },
-  {
-    "RRR": "TEST"
-  },
-  {
-    "murmurs, rubs, or gallops": "TEST"
-  },
-  {
-    "CTA": "TEST"
   },
   {
     "masses": "PROBLEM"
@@ -177,7 +171,10 @@
     "without sensation": "PROBLEM"
   },
   {
-    "calloused and dry": "PROBLEM"
+    "calloused": "PROBLEM"
+  },
+  {
+    "dry": "PROBLEM"
   },
   {
     "contusion": "PROBLEM"
@@ -186,16 +183,13 @@
     "infection": "PROBLEM"
   },
   {
-    "Cranial nerves 2-12": "TEST"
-  },
-  {
-    "Cerebellar function": "TEST"
+    "Cerebellar function": "PROBLEM"
   },
   {
     "RAM": "TEST"
   },
   {
-    "Diabetes mellitus, type 1, poorly controlled.": "PROBLEM"
+    "Diabetes mellitus, type 1": "PROBLEM"
   },
   {
     "diabetic neuropathy": "PROBLEM"
@@ -210,7 +204,7 @@
     "motor vehicle accident": "PROBLEM"
   },
   {
-    "Elevated Alk Phos": "PROBLEM"
+    "Alk Phos": "TEST"
   },
   {
     "Diabetes mellitus type 1": "PROBLEM"
@@ -237,7 +231,7 @@
     "blood sugars": "TEST"
   },
   {
-    "Prilosec": "DRUG"
+    "Prilosec OTC": "DRUG"
   },
   {
     "GERD": "PROBLEM"
@@ -246,13 +240,22 @@
     "Lacerations": "PROBLEM"
   },
   {
+    "scalp": "PROBLEM"
+  },
+  {
+    "shin": "PROBLEM"
+  },
+  {
+    "heat": "PROBLEM"
+  },
+  {
     "swelling": "PROBLEM"
   },
   {
     "infection": "PROBLEM"
   },
   {
-    "does not have feeling in the majority of his lower body": "PROBLEM"
+    "lower body": "PROBLEM"
   },
   {
     "diabetes mellitus": "PROBLEM"

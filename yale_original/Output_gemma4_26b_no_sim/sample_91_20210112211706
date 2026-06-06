@@ -18,7 +18,10 @@
     "cirrhosis": "PROBLEM"
   },
   {
-    "alcohol and cocaine abuse": "PROBLEM"
+    "alcohol abuse": "PROBLEM"
+  },
+  {
+    "cocaine abuse": "PROBLEM"
   },
   {
     "ground-level fall": "PROBLEM"
@@ -27,7 +30,7 @@
     "weak knees": "PROBLEM"
   },
   {
-    "bilateral knee pain": "PROBLEM"
+    "knee pain": "PROBLEM"
   },
   {
     "hematuria": "PROBLEM"
@@ -54,7 +57,10 @@
     "cirrhosis": "PROBLEM"
   },
   {
-    "alcohol and cocaine abuse": "PROBLEM"
+    "alcohol abuse": "PROBLEM"
+  },
+  {
+    "cocaine abuse": "PROBLEM"
   },
   {
     "ground-level fall": "PROBLEM"
@@ -63,13 +69,16 @@
     "weak knees": "PROBLEM"
   },
   {
-    "bilateral knee pain": "PROBLEM"
+    "knee pain": "PROBLEM"
   },
   {
     "hematuria": "PROBLEM"
   },
   {
     "epigastric pain": "PROBLEM"
+  },
+  {
+    "afebrile": "PROBLEM"
   },
   {
     "heart rate": "TEST"
@@ -141,6 +150,9 @@
     "hepatic encephalopathy": "PROBLEM"
   },
   {
+    "smoker": "PROBLEM"
+  },
+  {
     "cocaine": "DRUG"
   },
   {
@@ -195,7 +207,7 @@
     "oxygen saturation": "TEST"
   },
   {
-    "nasal cannula": "TREATMENT"
+    "2 L nasal cannula": "TREATMENT"
   },
   {
     "drowsy": "PROBLEM"
@@ -225,13 +237,16 @@
     "neck masses": "PROBLEM"
   },
   {
+    "Thyroid": "PROBLEM"
+  },
+  {
     "crackles": "PROBLEM"
   },
   {
     "wheezes": "PROBLEM"
   },
   {
-    "Regular cardiac rhythm": "TEST"
+    "cardiac rhythm": "PROBLEM"
   },
   {
     "rales": "PROBLEM"
@@ -252,10 +267,16 @@
     "rigidity": "PROBLEM"
   },
   {
-    "Tender on palpation of n right upper quadrant and epigastric area": "PROBLEM"
+    "Tender on palpation": "PROBLEM"
   },
   {
-    "tender on palpation of right upper quadrant and epigastric area": "PROBLEM"
+    "tender": "PROBLEM"
+  },
+  {
+    "right upper quadrant": "PROBLEM"
+  },
+  {
+    "epigastric area": "PROBLEM"
   },
   {
     "cervical lymphadenopathy": "PROBLEM"
@@ -267,16 +288,19 @@
     "subcutaneous nodules": "PROBLEM"
   },
   {
-    "Poor judgment and insight": "PROBLEM"
+    "Poor judgment": "PROBLEM"
+  },
+  {
+    "insight": "PROBLEM"
   },
   {
     "White blood cell count": "TEST"
   },
   {
-    "neutrophils": "TEST"
+    "neutrophils": "PROBLEM"
   },
   {
-    "bands": "TEST"
+    "bands": "PROBLEM"
   },
   {
     "H&H": "TEST"
@@ -348,7 +372,7 @@
     "Left knee x-rays": "TEST"
   },
   {
-    "advanced osteoarthritis": "PROBLEM"
+    "osteoarthritis": "PROBLEM"
   },
   {
     "Abdominal ultrasound": "TEST"
@@ -357,7 +381,7 @@
     "ascites": "PROBLEM"
   },
   {
-    "gallbladder with thickened ball": "PROBLEM"
+    "gallbladder": "PROBLEM"
   },
   {
     "pericholecystic fluid": "PROBLEM"
@@ -408,7 +432,7 @@
     "Thrombocytopenia": "PROBLEM"
   },
   {
-    "Hepatitis C.": "PROBLEM"
+    "Hepatitis C": "PROBLEM"
   },
   {
     "Cryoglobulinemia": "PROBLEM"
@@ -423,7 +447,7 @@
     "paracentesis": "TREATMENT"
   },
   {
-    "ascitic fluid": "TEST"
+    "ascitic fluid": "TREATMENT"
   },
   {
     "cell count": "TEST"
@@ -441,7 +465,10 @@
     "urine culture": "TEST"
   },
   {
-    "hepatitis A vaccination": "TREATMENT"
+    "hepatitis A": "PROBLEM"
+  },
+  {
+    "vaccination": "TREATMENT"
   },
   {
     "sbp": "TEST"

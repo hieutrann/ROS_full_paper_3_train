@@ -3,7 +3,7 @@
     "Refractory Hypertension": "PROBLEM"
   },
   {
-    "Refractory hypertension": "PROBLEM"
+    "refractory hypertension": "PROBLEM"
   },
   {
     "cardiac arrhythmia": "PROBLEM"
@@ -37,6 +37,9 @@
   },
   {
     "depression": "PROBLEM"
+  },
+  {
+    "antihypertensive medications": "DRUG"
   },
   {
     "blood pressure reading": "TEST"
@@ -117,30 +120,6 @@
     "blood pressure": "TEST"
   },
   {
-    "lungs": "TEST"
-  },
-  {
-    "regular rate and rhythm": "TEST"
-  },
-  {
-    "S1": "TEST"
-  },
-  {
-    "S2": "TEST"
-  },
-  {
-    "murmur": "PROBLEM"
-  },
-  {
-    "S3": "TEST"
-  },
-  {
-    "nontender": "PROBLEM"
-  },
-  {
-    "edema": "PROBLEM"
-  },
-  {
     "refractory hypertension": "PROBLEM"
   },
   {
@@ -150,7 +129,7 @@
     "GFR": "TEST"
   },
   {
-    "blood pressure": "PROBLEM"
+    "blood pressure": "TEST"
   },
   {
     "cardiac arrhythmia": "PROBLEM"

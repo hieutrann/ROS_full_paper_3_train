@@ -1,12 +1,30 @@
 [
   {
-    "Stasis Ulcer": "PROBLEM"
+    "stasis ulcer": "PROBLEM"
   },
   {
-    "Ankle": "PROBLEM"
+    "stasis ulcer": "PROBLEM"
   },
   {
-    "General Medicine": "TEST"
+    "ankle": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "bipedal edema": "PROBLEM"
+  },
+  {
+    "venous ulcers": "PROBLEM"
+  },
+  {
+    "vascular surgery": "TREATMENT"
+  },
+  {
+    "stasis ulcer": "PROBLEM"
+  },
+  {
+    "ankle": "PROBLEM"
   },
   {
     "hypertension": "PROBLEM"
@@ -21,28 +39,16 @@
     "vascular surgery": "TREATMENT"
   },
   {
-    "Nonhealing right ankle stasis ulcer": "PROBLEM"
+    "stasis ulcer": "PROBLEM"
   },
   {
-    "hypertension": "PROBLEM"
+    "ankle": "PROBLEM"
   },
   {
-    "bipedal edema": "PROBLEM"
+    "fever": "PROBLEM"
   },
   {
-    "leg venous ulcers": "PROBLEM"
-  },
-  {
-    "vascular surgery": "TREATMENT"
-  },
-  {
-    "nonhealing right ankle stasis ulcer": "PROBLEM"
-  },
-  {
-    "low-grade fever": "PROBLEM"
-  },
-  {
-    "patient": "PROBLEM"
+    "feels well": "PROBLEM"
   },
   {
     "fever": "PROBLEM"
@@ -51,7 +57,7 @@
     "ankle pain": "PROBLEM"
   },
   {
-    "leg cellulitis": "PROBLEM"
+    "cellulitis": "PROBLEM"
   },
   {
     "Pseudomonas": "PROBLEM"
@@ -69,10 +75,10 @@
     "Enterobacter": "PROBLEM"
   },
   {
-    "wound center": "TEST"
+    "wound center": "TREATMENT"
   },
   {
-    "Dr.": "TEST"
+    "Dr.": "TREATMENT"
   },
   {
     "surgical management": "TREATMENT"
@@ -126,22 +132,19 @@
     "exploratory laparotomy": "TREATMENT"
   },
   {
-    "abdominal obstruction": "PROBLEM"
-  },
-  {
     "cholecystectomy": "TREATMENT"
   },
   {
-    "chronic intermittent bipedal edema": "PROBLEM"
+    "bipedal edema": "PROBLEM"
   },
   {
     "venous insufficiency": "PROBLEM"
   },
   {
-    "chronic recurrent stasis ulcers": "PROBLEM"
+    "stasis ulcers": "PROBLEM"
   },
   {
-    "alcohol drinking": "PROBLEM"
+    "alcohol": "PROBLEM"
   },
   {
     "cigarette smoker": "PROBLEM"
@@ -213,31 +216,37 @@
     "body weight": "TEST"
   },
   {
-    "Pink conjunctivae": "PROBLEM"
+    "6 feet 1.5 inches": "TEST"
   },
   {
-    "anicteric sclerae": "PROBLEM"
+    "125.26 kilos": "TEST"
   },
   {
-    "Pupils": "TEST"
+    "conjunctivae": "PROBLEM"
+  },
+  {
+    "sclerae": "PROBLEM"
+  },
+  {
+    "pupils": "TEST"
   },
   {
     "hearing": "TEST"
   },
   {
-    "Moist oral mucosa": "PROBLEM"
+    "oral mucosa": "PROBLEM"
   },
   {
     "oral lesions": "PROBLEM"
   },
   {
-    "palpable neck masses": "PROBLEM"
+    "neck masses": "PROBLEM"
   },
   {
     "Thyroid": "PROBLEM"
   },
   {
-    "inspiratory effort": "TEST"
+    "inspiratory effort": "PROBLEM"
   },
   {
     "crackles": "PROBLEM"
@@ -246,13 +255,10 @@
     "wheezes": "PROBLEM"
   },
   {
-    "cardiac rhythm": "PROBLEM"
+    "cardiac rhythm": "TEST"
   },
   {
     "thrills": "PROBLEM"
-  },
-  {
-    "rubs": "PROBLEM"
   },
   {
     "bowel sounds": "TEST"
@@ -264,6 +270,9 @@
     "guarding": "PROBLEM"
   },
   {
+    "rigidity": "PROBLEM"
+  },
+  {
     "cervical lymphadenopathy": "PROBLEM"
   },
   {
@@ -273,13 +282,13 @@
     "hyperpigmentation": "PROBLEM"
   },
   {
-    "open wound": "PROBLEM"
+    "wound": "PROBLEM"
   },
   {
     "serous drainage": "PROBLEM"
   },
   {
-    "Periwound": "PROBLEM"
+    "hyperpigmentation": "PROBLEM"
   },
   {
     "erythema": "PROBLEM"
@@ -297,28 +306,16 @@
     "wound": "PROBLEM"
   },
   {
-    "malleolar": "TEST"
-  },
-  {
-    "malleolar": "TEST"
-  },
-  {
     "Wound edges": "PROBLEM"
-  },
-  {
-    "Appropriate mood": "PROBLEM"
-  },
-  {
-    "affect": "PROBLEM"
   },
   {
     "oriented": "TEST"
   },
   {
-    "judgment": "PROBLEM"
+    "White blood cell count": "TEST"
   },
   {
-    "White blood cell count": "TEST"
+    "neutrophils": "TEST"
   },
   {
     "H&H": "TEST"
@@ -327,7 +324,10 @@
     "platelet count": "TEST"
   },
   {
-    "BUN and creatinine": "TEST"
+    "BUN": "TEST"
+  },
+  {
+    "creatinine": "TEST"
   },
   {
     "Albumin": "TEST"
@@ -342,19 +342,19 @@
     "alk phos": "TEST"
   },
   {
-    "total bilirubin": "TEST"
+    "bilirubin": "TEST"
   },
   {
     "wound culture": "TEST"
   },
   {
-    "right leg": "PROBLEM"
+    "right leg wound": "PROBLEM"
   },
   {
     "young growth": "PROBLEM"
   },
   {
-    "Left leg wound culture": "TEST"
+    "wound": "PROBLEM"
   },
   {
     "culture": "TEST"
@@ -366,34 +366,34 @@
     "Chest x-ray": "TEST"
   },
   {
-    "chronic bibasilar subsegmental atelectasis": "PROBLEM"
+    "atelectasis": "PROBLEM"
   },
   {
-    "elevated hemidiaphragm": "PROBLEM"
+    "ileus": "PROBLEM"
   },
   {
-    "chronic ileus": "PROBLEM"
+    "hemidiaphragm": "PROBLEM"
   },
   {
-    "absolute findings": "PROBLEM"
+    "findings": "PROBLEM"
   },
   {
-    "IMPRESSION": "PROBLEM"
+    "IMPRESSION": "TEST"
   },
   {
     "Fevers": "PROBLEM"
   },
   {
-    "2": "TEST"
+    "2": "TREATMENT"
   },
   {
     "cellulitis": "PROBLEM"
   },
   {
-    "3": "PROBLEM"
+    "3": "TREATMENT"
   },
   {
-    "Chronic recurrent bilateral ankle venous ulcers": "PROBLEM"
+    "venous ulcers": "PROBLEM"
   },
   {
     "4": "TEST"
@@ -408,7 +408,7 @@
     "Stenotrophomonas": "PROBLEM"
   },
   {
-    "5": "PROBLEM"
+    "5": "TEST"
   },
   {
     "Hypertension": "PROBLEM"
@@ -420,7 +420,7 @@
     "blood cultures": "TEST"
   },
   {
-    "2": "TEST"
+    "2": "TREATMENT"
   },
   {
     "daptomycin": "DRUG"
@@ -429,7 +429,7 @@
     "Primaxin": "DRUG"
   },
   {
-    "3": "PROBLEM"
+    "3": "TREATMENT"
   },
   {
     "wound cultures": "TEST"
@@ -444,7 +444,10 @@
     "osteomyelitis": "PROBLEM"
   },
   {
-    "ID": "TREATMENT"
+    "ankle": "PROBLEM"
+  },
+  {
+    "followup": "TREATMENT"
   },
   {
     "fevers": "PROBLEM"
@@ -468,7 +471,7 @@
     "wound": "PROBLEM"
   },
   {
-    "ankle": "PROBLEM"
+    "ankle": "TREATMENT"
   },
   {
     "ulcer": "PROBLEM"

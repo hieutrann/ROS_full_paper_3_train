@@ -1,9 +1,21 @@
 [
   {
-    "HEENT": "TEST"
+    "Female Physical Exam": "TEST"
+  },
+  {
+    "Pupils": "TEST"
+  },
+  {
+    "Extraocular movements": "TEST"
+  },
+  {
+    "Sclerae": "PROBLEM"
   },
   {
     "anicteric": "PROBLEM"
+  },
+  {
+    "TMs": "TEST"
   },
   {
     "erythema": "PROBLEM"
@@ -27,16 +39,28 @@
     "Chest": "PROBLEM"
   },
   {
-    "S3": "TEST"
+    "auscultation": "TEST"
   },
   {
-    "S4": "TEST"
+    "S3": "PROBLEM"
+  },
+  {
+    "S4": "PROBLEM"
+  },
+  {
+    "murmurs": "PROBLEM"
+  },
+  {
+    "rubs": "PROBLEM"
   },
   {
     "Peripheral pulses": "TEST"
   },
   {
-    "Abdomen": "PROBLEM"
+    "bowel sounds": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
   },
   {
     "hepatomegaly": "PROBLEM"
@@ -45,7 +69,7 @@
     "splenomegaly": "PROBLEM"
   },
   {
-    "GU": "TEST"
+    "female external genitalia": "PROBLEM"
   },
   {
     "Speculum exam": "TEST"
@@ -60,10 +84,19 @@
     "Bimanual exam": "TEST"
   },
   {
+    "uterus": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
     "cervical motion tenderness": "PROBLEM"
   },
   {
     "Rectal Exam": "TEST"
+  },
+  {
+    "masses": "PROBLEM"
   },
   {
     "Hemoccult": "TEST"
@@ -84,19 +117,40 @@
     "breast tissue": "PROBLEM"
   },
   {
-    "Neurologic": "PROBLEM"
+    "lumps": "PROBLEM"
   },
   {
-    "times 3": "TEST"
+    "masses": "PROBLEM"
+  },
+  {
+    "skin changes": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "Cranial nerves": "TEST"
+  },
+  {
+    "Motor strength": "TEST"
+  },
+  {
+    "Deep tendon reflexes": "TEST"
+  },
+  {
+    "alert": "PROBLEM"
+  },
+  {
+    "oriented times 3": "PROBLEM"
+  },
+  {
+    "Psychiatric": "PROBLEM"
   },
   {
     "lesions": "PROBLEM"
   },
   {
     "rashes": "PROBLEM"
-  },
-  {
-    "female physical examination": "TEST"
   },
   {
     "bimanual exam": "TEST"
@@ -106,9 +160,6 @@
   },
   {
     "hemoccult": "TEST"
-  },
-  {
-    "ii through xii": "TEST"
   },
   {
     "breast tissue": "PROBLEM"

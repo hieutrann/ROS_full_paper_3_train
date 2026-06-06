@@ -1,6 +1,6 @@
 [
   {
-    "left otalgia": "PROBLEM"
+    "otalgia": "PROBLEM"
   },
   {
     "serous otitis": "PROBLEM"
@@ -15,7 +15,7 @@
     "atopic dermatitis": "PROBLEM"
   },
   {
-    "left otalgia": "PROBLEM"
+    "otalgia": "PROBLEM"
   },
   {
     "headache": "PROBLEM"
@@ -27,13 +27,13 @@
     "difficulty hearing": "PROBLEM"
   },
   {
-    "left-sided sinus pressure": "PROBLEM"
+    "sinus pressure": "PROBLEM"
   },
   {
     "teeth": "PROBLEM"
   },
   {
-    "left-sided jaw pain": "PROBLEM"
+    "jaw pain": "PROBLEM"
   },
   {
     "headache": "PROBLEM"
@@ -48,7 +48,7 @@
     "sore throat": "PROBLEM"
   },
   {
-    "Cutivate": "DRUG"
+    "Cutivate cream": "DRUG"
   },
   {
     "atopic dermatitis": "PROBLEM"
@@ -66,6 +66,9 @@
     "Ibuprofen": "DRUG"
   },
   {
+    "smoker": "PROBLEM"
+  },
+  {
     "nausea": "PROBLEM"
   },
   {
@@ -75,7 +78,7 @@
     "diarrhea": "PROBLEM"
   },
   {
-    "General": "TEST"
+    "female": "PROBLEM"
   },
   {
     "Weight": "TEST"
@@ -90,9 +93,6 @@
     "lichenification": "PROBLEM"
   },
   {
-    "nuchal region": "PROBLEM"
-  },
-  {
     "PERRLA": "TEST"
   },
   {
@@ -105,6 +105,12 @@
     "Right TM": "TEST"
   },
   {
+    "Canals": "TEST"
+  },
+  {
+    "External auricles": "TEST"
+  },
+  {
     "Nasal mucosa": "PROBLEM"
   },
   {
@@ -114,19 +120,22 @@
     "tonsillar hypertrophy": "PROBLEM"
   },
   {
+    "exudate": "PROBLEM"
+  },
+  {
     "adenopathy": "PROBLEM"
   },
   {
-    "Lungs": "PROBLEM"
+    "thyromegaly": "PROBLEM"
+  },
+  {
+    "Lungs": "TEST"
   },
   {
     "Respirations": "TEST"
   },
   {
     "Heart": "PROBLEM"
-  },
-  {
-    "rate": "TEST"
   },
   {
     "Serous otitis": "PROBLEM"
@@ -141,7 +150,13 @@
     "Duraphen II": "DRUG"
   },
   {
-    "Cutivate": "DRUG"
+    "Cutivate cream 0.05%": "DRUG"
+  },
+  {
+    "p.r.n.": "DRUG"
+  },
+  {
+    "general medicine": "TEST"
   },
   {
     "left otalgia": "PROBLEM"
@@ -153,13 +168,13 @@
     "serous otitis": "PROBLEM"
   },
   {
-    "atopic dermatitis": "PROBLEM"
-  },
-  {
     "serous": "PROBLEM"
   },
   {
     "otitis": "PROBLEM"
+  },
+  {
+    "atopic dermatitis": "PROBLEM"
   },
   {
     "atopic": "PROBLEM"

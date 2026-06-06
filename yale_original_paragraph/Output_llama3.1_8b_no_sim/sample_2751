@@ -1,12 +1,12 @@
 [
   {
-    "extensive dental disease": "PROBLEM"
-  },
-  {
     "toothache": "PROBLEM"
   },
   {
-    "multiple dental caries": "PROBLEM"
+    "dental disease": "PROBLEM"
+  },
+  {
+    "dental caries": "PROBLEM"
   },
   {
     "OxyContin": "DRUG"
@@ -24,24 +24,9 @@
     "Dilaudid": "DRUG"
   },
   {
-    "tooth #12": "TEST"
+    "tooth #12": "TREATMENT"
   },
   {
-    "tooth #21": "TEST"
-  },
-  {
-    "cervical lymphadenopathy": "PROBLEM"
-  },
-  {
-    "dental caries": "PROBLEM"
-  },
-  {
-    "erythema": "PROBLEM"
-  },
-  {
-    "swelling": "PROBLEM"
-  },
-  {
-    "teeth": "TEST"
+    "tooth #21": "TREATMENT"
   }
 ]

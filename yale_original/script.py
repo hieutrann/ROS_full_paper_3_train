@@ -42,7 +42,7 @@ from sklearn.model_selection import train_test_split
 
 train_notes, test_notes = train_test_split(
     os.listdir("notes"),
-    test_size=0.9,
+    test_size=0.97,
     random_state=42,
     shuffle=True
 )
@@ -76,7 +76,7 @@ embeddings = torch.stack(vecs)
 from sklearn.cluster import KMeans
 import numpy as np
 
-n_clusters = 5
+n_clusters = 4
 kmeans = KMeans(n_clusters=n_clusters, random_state=random_state)
 labels = kmeans.fit_predict(embeddings)
 

@@ -12,6 +12,15 @@
     "temperature": "TEST"
   },
   {
+    "EOMI": "TEST"
+  },
+  {
+    "PERRLA": "TEST"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
     "Funduscopic examination": "TEST"
   },
   {
@@ -100,9 +109,6 @@
   },
   {
     "Brudzinski signs": "TEST"
-  },
-  {
-    "Gait": "TEST"
   },
   {
     "premalignant or malignant condition": "PROBLEM"

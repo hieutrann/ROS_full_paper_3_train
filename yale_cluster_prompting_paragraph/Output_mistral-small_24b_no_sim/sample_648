@@ -1,8 +1,5 @@
 [
   {
-    "General Medicine": "TEST"
-  },
-  {
     "shortness of breath": "PROBLEM"
   },
   {
@@ -51,6 +48,24 @@
     "diverticular bleed": "PROBLEM"
   },
   {
+    "bronchitis": "PROBLEM"
+  },
+  {
+    "acute lower GI bleed": "PROBLEM"
+  },
+  {
+    "diverticular disease": "PROBLEM"
+  },
+  {
+    "hemorrhage": "PROBLEM"
+  },
+  {
+    "BiPAP": "TEST"
+  },
+  {
+    "endoscopy": "TEST"
+  },
+  {
     "Albuterol inhaler": "DRUG"
   },
   {
@@ -72,7 +87,7 @@
     "Atrovent inhaler": "DRUG"
   },
   {
-    "Statin": "DRUG"
+    "Statin oral suspension": "DRUG"
   },
   {
     "Paxil": "DRUG"
@@ -81,7 +96,7 @@
     "Prednisone": "DRUG"
   },
   {
-    "Darvocet": "DRUG"
+    "Darvocet Darvocet-N": "DRUG"
   },
   {
     "Metamucil": "DRUG"
@@ -93,22 +108,10 @@
     "Nexium": "DRUG"
   },
   {
-    "BiPAP": "TEST"
-  },
-  {
     "antibiotics": "DRUG"
   },
   {
-    "acute lower GI bleed": "PROBLEM"
-  },
-  {
-    "packed red blood cells": "TEST"
-  },
-  {
-    "endoscopy": "TEST"
-  },
-  {
-    "diverticular disease": "PROBLEM"
+    "packed red blood cells": "DRUG"
   },
   {
     "Plavix": "DRUG"
@@ -117,30 +120,9 @@
     "Lovenox": "DRUG"
   },
   {
-    "Dr. Pesce": "DRUG"
+    "pulmonary": "TREATMENT"
   },
   {
-    "diagnostic pulmonary": "TEST"
-  },
-  {
-    "COPD": "PROBLEM"
-  },
-  {
-    "bronchitis": "PROBLEM"
-  },
-  {
-    "GI": "TEST"
-  },
-  {
-    "sigmoid colon": "TEST"
-  },
-  {
-    "hemorrhage": "PROBLEM"
-  },
-  {
-    "respiratory status": "PROBLEM"
-  },
-  {
-    "outpatient setting": "TEST"
+    "endoscopy": "TREATMENT"
   }
 ]

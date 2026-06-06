@@ -9,7 +9,7 @@
     "vomiting": "PROBLEM"
   },
   {
-    "high amylase": "TEST"
+    "amylase": "TEST"
   },
   {
     "lipase count": "TEST"
@@ -30,13 +30,7 @@
     "hypertension": "PROBLEM"
   },
   {
-    "POLLENS": "PROBLEM"
-  },
-  {
     "alprazolam": "DRUG"
-  },
-  {
-    "mirtazapine": "DRUG"
   },
   {
     "Aricept": "DRUG"
@@ -54,15 +48,6 @@
     "dementia": "PROBLEM"
   },
   {
-    "Temperature": "TEST"
-  },
-  {
-    "pulse": "TEST"
-  },
-  {
-    "respirations": "TEST"
-  },
-  {
     "blood pressure": "TEST"
   },
   {
@@ -72,22 +57,7 @@
     "pharyngeal inflammation": "PROBLEM"
   },
   {
-    "exudate": "PROBLEM"
-  },
-  {
-    "jugular venous distention": "PROBLEM"
-  },
-  {
-    "bruit": "PROBLEM"
-  },
-  {
-    "tender": "PROBLEM"
-  },
-  {
-    "rebound": "PROBLEM"
-  },
-  {
-    "rigidity": "PROBLEM"
+    "Bowel sounds": "TEST"
   },
   {
     "pedal edema": "PROBLEM"
@@ -192,6 +162,9 @@
     "Ultrasound of the abdomen": "TEST"
   },
   {
+    "echogenic liver": "PROBLEM"
+  },
+  {
     "fatty infiltration": "PROBLEM"
   },
   {
@@ -205,6 +178,9 @@
   },
   {
     "EKG": "TEST"
+  },
+  {
+    "sinus rhythm": "TEST"
   },
   {
     "ventricular premature complexes": "PROBLEM"
@@ -240,6 +216,12 @@
     "IV fluids": "TREATMENT"
   },
   {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
     "Zofran": "DRUG"
   },
   {
@@ -250,5 +232,38 @@
   },
   {
     "blood and urine cultures": "TEST"
+  },
+  {
+    "leukocytosis": "PROBLEM"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "lipase count": "TEST"
+  },
+  {
+    "platelet count": "TEST"
+  },
+  {
+    "acute pancreatitis": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "dementia": "PROBLEM"
+  },
+  {
+    "amylase": "TEST"
+  },
+  {
+    "lipase": "TEST"
+  },
+  {
+    "pancreatitis": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
   }
 ]

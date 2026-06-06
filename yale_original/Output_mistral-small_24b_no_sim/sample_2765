@@ -6,7 +6,7 @@
     "mucous plugging": "PROBLEM"
   },
   {
-    "Foley": "TEST"
+    "Foley": "TREATMENT"
   },
   {
     "hypertension": "PROBLEM"
@@ -16,6 +16,9 @@
   },
   {
     "anemia": "PROBLEM"
+  },
+  {
+    "ADMISSION DIAGNOSES": "TEST"
   },
   {
     "Pyelonephritis": "PROBLEM"
@@ -36,16 +39,19 @@
     "Anemia": "PROBLEM"
   },
   {
+    "DISCHARGE DIAGNOSES": "TEST"
+  },
+  {
     "Pyelonephritis": "PROBLEM"
   },
   {
     "mucous plugging": "PROBLEM"
   },
   {
-    "Foley": "DRUG"
+    "Foley": "TREATMENT"
   },
   {
-    "ileal conduit": "PROBLEM"
+    "ileal conduit": "TREATMENT"
   },
   {
     "Hypertension": "PROBLEM"
@@ -60,7 +66,19 @@
     "pyelonephritis": "PROBLEM"
   },
   {
-    "Foley": "TEST"
+    "Renal": "PROBLEM"
+  },
+  {
+    "mucous plug": "PROBLEM"
+  },
+  {
+    "Foley": "TREATMENT"
+  },
+  {
+    "ileal conduit": "PROBLEM"
+  },
+  {
+    "symptoms": "PROBLEM"
   },
   {
     "IV antibiotics": "DRUG"
@@ -75,16 +93,22 @@
     "Bactrim": "DRUG"
   },
   {
-    "p.o.": "DRUG"
+    "p.o.": "TREATMENT"
   },
   {
-    "Bactrim": "DRUG"
+    "Bactrim.": "DRUG"
   },
   {
     "right knee pain": "PROBLEM"
   },
   {
-    "tender": "PROBLEM"
+    "effusion": "PROBLEM"
+  },
+  {
+    "patellar tendon": "PROBLEM"
+  },
+  {
+    "intraarticular process": "PROBLEM"
   },
   {
     "ibuprofen": "DRUG"

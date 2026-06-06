@@ -126,7 +126,7 @@
     "J-tube intermittent feedings": "TREATMENT"
   },
   {
-    "insulin pump": "DRUG"
+    "insulin pump": "TREATMENT"
   },
   {
     "insulin pump": "TREATMENT"
@@ -162,13 +162,16 @@
     "colonoscopy": "TEST"
   },
   {
-    "mass at the right hepatic flexure": "PROBLEM"
+    "mass": "PROBLEM"
   },
   {
     "right hemicolectomy": "TREATMENT"
   },
   {
     "tube feeds": "TREATMENT"
+  },
+  {
+    "cancer": "PROBLEM"
   },
   {
     "cancer": "PROBLEM"
@@ -223,9 +226,6 @@
   },
   {
     "MRSA": "PROBLEM"
-  },
-  {
-    "J-tube site": "PROBLEM"
   },
   {
     "MRSA": "PROBLEM"
@@ -327,7 +327,7 @@
     "positive lymph nodes": "PROBLEM"
   },
   {
-    "insulin pump adjustments": "TREATMENT"
+    "insulin pump": "TREATMENT"
   },
   {
     "J-tube": "TREATMENT"

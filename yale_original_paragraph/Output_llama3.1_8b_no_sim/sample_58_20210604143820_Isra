@@ -1,15 +1,9 @@
 [
   {
-    "Breast Calcifications": "PROBLEM"
-  },
-  {
-    "calcifications": "PROBLEM"
+    "breast calcifications": "PROBLEM"
   },
   {
     "stereotactic core needle biopsy": "TREATMENT"
-  },
-  {
-    "excisional biopsy": "TREATMENT"
   },
   {
     "guidewire localization": "TREATMENT"
@@ -54,37 +48,19 @@
     "Codeine": "DRUG"
   },
   {
-    "heart disease": "PROBLEM"
+    "colon resection": "TREATMENT"
   },
   {
-    "hypertension": "PROBLEM"
+    "sinus surgeries": "TREATMENT"
   },
   {
-    "cerebrovascular accidents": "PROBLEM"
+    "breast excisional biopsy": "TREATMENT"
   },
   {
-    "colon cancer": "PROBLEM"
+    "preoperative guidewire localization": "TREATMENT"
   },
   {
-    "breast cancer": "PROBLEM"
-  },
-  {
-    "chronic obstructive lung disease": "PROBLEM"
-  },
-  {
-    "gastroesophageal reflux disease": "PROBLEM"
-  },
-  {
-    "anemia": "PROBLEM"
-  },
-  {
-    "sciatica": "PROBLEM"
-  },
-  {
-    "skin cancers": "PROBLEM"
-  },
-  {
-    "arthritis": "PROBLEM"
+    "intraoperative specimen radiography": "TEST"
   },
   {
     "chronic obstructive lung disease": "PROBLEM"
@@ -93,15 +69,15 @@
     "gastroesophageal reflux disease": "PROBLEM"
   },
   {
-    "anemia": "PROBLEM"
+    "anxiety": "PROBLEM"
   },
   {
-    "sciatica": "PROBLEM"
+    "osteopenia": "PROBLEM"
   },
   {
-    "skin cancers": "PROBLEM"
+    "osteoporosis": "PROBLEM"
   },
   {
-    "arthritis": "PROBLEM"
+    "transient ischemic attack": "PROBLEM"
   }
 ]

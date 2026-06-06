@@ -9,9 +9,6 @@
     "blood-tinged vomit": "PROBLEM"
   },
   {
-    "emergency room": "TEST"
-  },
-  {
     "sodium": "TEST"
   },
   {
@@ -24,7 +21,7 @@
     "AST": "TEST"
   },
   {
-    "bilirubin": "TEST"
+    "total bilirubin": "TEST"
   },
   {
     "ketones": "TEST"
@@ -57,9 +54,12 @@
     "Maalox": "DRUG"
   },
   {
+    "hyperemesis gravidarum": "PROBLEM"
+  },
+  {
     "IV hydration": "TREATMENT"
   },
   {
-    "hyperemesis gravidarum": "PROBLEM"
+    "bladder infection": "PROBLEM"
   }
 ]

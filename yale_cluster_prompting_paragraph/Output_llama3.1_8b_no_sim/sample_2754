@@ -1,9 +1,6 @@
 [
   {
-    "heroin": "PROBLEM"
-  },
-  {
-    "cocaine": "PROBLEM"
+    "heroin abuse": "PROBLEM"
   },
   {
     "alcohol abuse": "PROBLEM"
@@ -12,7 +9,7 @@
     "chronic pain": "PROBLEM"
   },
   {
-    "VITAL SIGNS": "TEST"
+    "detox from heroin": "PROBLEM"
   },
   {
     "clonidine": "DRUG"
@@ -21,9 +18,12 @@
     "Phenergan": "DRUG"
   },
   {
-    "detox from heroin": "TREATMENT"
+    "cocaine": "PROBLEM"
   },
   {
     "detox": "TREATMENT"
+  },
+  {
+    "clonidine": "TREATMENT"
   }
 ]

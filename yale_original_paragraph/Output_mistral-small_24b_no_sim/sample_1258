@@ -1,8 +1,5 @@
 [
   {
-    "Motor Vehicle Accident": "PROBLEM"
-  },
-  {
     "contusions": "PROBLEM"
   },
   {
@@ -12,22 +9,7 @@
     "motor vehicle collision": "PROBLEM"
   },
   {
-    "neck": "PROBLEM"
-  },
-  {
-    "pelvis": "PROBLEM"
-  },
-  {
-    "Pulse": "TEST"
-  },
-  {
-    "blood pressure": "TEST"
-  },
-  {
-    "respiratory rate": "TEST"
-  },
-  {
-    "pulse oximetry": "TEST"
+    "Accutane": "DRUG"
   },
   {
     "x-rays": "TEST"
@@ -43,9 +25,6 @@
   },
   {
     "urinalysis": "TEST"
-  },
-  {
-    "Accutane": "DRUG"
   },
   {
     "Tylenol": "DRUG"

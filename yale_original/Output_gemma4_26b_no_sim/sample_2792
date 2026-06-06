@@ -1,6 +1,6 @@
 [
   {
-    "Falls at home": "PROBLEM"
+    "Falls": "PROBLEM"
   },
   {
     "Anxiety": "PROBLEM"
@@ -18,7 +18,7 @@
     "Falls at home": "PROBLEM"
   },
   {
-    "increased anxiety": "PROBLEM"
+    "anxiety": "PROBLEM"
   },
   {
     "anxious": "PROBLEM"
@@ -28,6 +28,9 @@
   },
   {
     "chest pain": "PROBLEM"
+  },
+  {
+    "pressure": "PROBLEM"
   },
   {
     "loss of consciousness": "PROBLEM"
@@ -57,9 +60,6 @@
     "Carotid upstrokes": "TEST"
   },
   {
-    "S1 and S2": "TEST"
-  },
-  {
     "bowel sounds": "TEST"
   },
   {
@@ -85,6 +85,12 @@
   },
   {
     "falls": "PROBLEM"
+  },
+  {
+    "rehabilitation program": "TREATMENT"
+  },
+  {
+    "Falls": "PROBLEM"
   },
   {
     "Anxiety": "PROBLEM"
@@ -153,7 +159,7 @@
     "Paxil": "DRUG"
   },
   {
-    "Minipesson": "DRUG"
+    "Minipress": "DRUG"
   },
   {
     "Provera": "DRUG"
@@ -169,6 +175,12 @@
   },
   {
     "verapamil": "DRUG"
+  },
+  {
+    "Per PT.": "TREATMENT"
+  },
+  {
+    "skilled nursing facility": "TREATMENT"
   },
   {
     "falls": "PROBLEM"

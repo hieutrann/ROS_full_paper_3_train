@@ -1,0 +1,41 @@
+[
+  {
+    "Acute respiratory failure": "PROBLEM"
+  },
+  {
+    "bronchitis": "PROBLEM"
+  },
+  {
+    "acute on chronic renal failure": "PROBLEM"
+  },
+  {
+    "severe hypertension": "PROBLEM"
+  },
+  {
+    "diastolic dysfunction": "PROBLEM"
+  },
+  {
+    "cold symptoms": "PROBLEM"
+  },
+  {
+    "iv steroids": "TREATMENT"
+  },
+  {
+    "nasal spray": "TREATMENT"
+  },
+  {
+    "steroids": "TREATMENT"
+  },
+  {
+    "Metoprolol": "DRUG"
+  },
+  {
+    "Simvastatin": "DRUG"
+  },
+  {
+    "Prednisone": "DRUG"
+  },
+  {
+    "Flonase nasal spray": "TREATMENT"
+  }
+]

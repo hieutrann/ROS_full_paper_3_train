@@ -1,6 +1,6 @@
 [
   {
-    "Right-sided facial droop": "PROBLEM"
+    "facial droop": "PROBLEM"
   },
   {
     "right-sided weakness": "PROBLEM"
@@ -15,7 +15,7 @@
     "new-onset cerebrovascular accident": "PROBLEM"
   },
   {
-    "Right-sided facial droop": "PROBLEM"
+    "facial droop": "PROBLEM"
   },
   {
     "right-sided weakness": "PROBLEM"
@@ -42,10 +42,13 @@
     "CT scan of the head": "TEST"
   },
   {
-    "new-onset cerebrovascular accident": "PROBLEM"
+    "cerebrovascular accident": "PROBLEM"
   },
   {
     "urinary tract infection": "PROBLEM"
+  },
+  {
+    "oral medications": "DRUG"
   },
   {
     "PENICILLIN": "DRUG"
@@ -61,6 +64,9 @@
   },
   {
     "Abnormality of gait": "PROBLEM"
+  },
+  {
+    "wheelchair bound": "PROBLEM"
   },
   {
     "Hypertension": "PROBLEM"
@@ -111,7 +117,7 @@
     "Pupils": "TEST"
   },
   {
-    "right-sided facial droop": "PROBLEM"
+    "facial droop": "PROBLEM"
   },
   {
     "missing teeth": "PROBLEM"
@@ -126,9 +132,6 @@
     "systolic murmur": "PROBLEM"
   },
   {
-    "tenderness": "PROBLEM"
-  },
-  {
     "Bowel sound": "TEST"
   },
   {
@@ -138,7 +141,10 @@
     "fixed flexion deformity": "PROBLEM"
   },
   {
-    "right-sided slight facial droop": "PROBLEM"
+    "facial droop": "PROBLEM"
+  },
+  {
+    "withdrawal of both lower extremities": "PROBLEM"
   },
   {
     "second-degree pressure ulcer": "PROBLEM"
@@ -184,6 +190,9 @@
   },
   {
     "urinalysis": "TEST"
+  },
+  {
+    "culture": "TEST"
   },
   {
     "E. coli": "PROBLEM"

@@ -18,6 +18,9 @@
     "lymph nodes": "PROBLEM"
   },
   {
+    "ring enhancing lesions": "PROBLEM"
+  },
+  {
     "liver metastases": "PROBLEM"
   },
   {
@@ -33,7 +36,13 @@
     "nausea": "PROBLEM"
   },
   {
-    "CT scan": "TEST"
+    "diabetes": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "thin-slice CT scan": "TEST"
   },
   {
     "ERCP": "TEST"
@@ -48,61 +57,7 @@
     "Phenergan": "DRUG"
   },
   {
-    "white count": "TEST"
-  },
-  {
-    "hemoglobin": "TEST"
-  },
-  {
-    "hematocrit": "TEST"
-  },
-  {
-    "MCV": "TEST"
-  },
-  {
-    "platelet count": "TEST"
-  },
-  {
-    "sodium": "TEST"
-  },
-  {
-    "potassium": "TEST"
-  },
-  {
-    "chloride": "TEST"
-  },
-  {
-    "CO2": "TEST"
-  },
-  {
-    "BUN": "TEST"
-  },
-  {
-    "creatinine": "TEST"
-  },
-  {
-    "bilirubin": "TEST"
-  },
-  {
-    "alk phos": "TEST"
-  },
-  {
-    "AST": "TEST"
-  },
-  {
-    "ALT": "TEST"
-  },
-  {
-    "total protein": "TEST"
-  },
-  {
-    "albumin": "TEST"
-  },
-  {
-    "oral hypoglycemics": "DRUG"
-  },
-  {
-    "insulin sliding scale": "DRUG"
+    "insulin sliding scale": "TREATMENT"
   },
   {
     "chemotherapy": "TREATMENT"
@@ -120,15 +75,6 @@
     "enalapril": "DRUG"
   },
   {
-    "hypertension": "PROBLEM"
-  },
-  {
-    "fever": "PROBLEM"
-  },
-  {
-    "increased bilirubin": "PROBLEM"
-  },
-  {
-    "worsening pain": "PROBLEM"
+    "ERCP": "TEST"
   }
 ]

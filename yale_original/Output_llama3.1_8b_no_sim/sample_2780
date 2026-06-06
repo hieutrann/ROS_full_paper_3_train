@@ -9,13 +9,10 @@
     "Pancreatic": "PROBLEM"
   },
   {
-    "adrenal lesion": "PROBLEM"
-  },
-  {
     "adenoma": "PROBLEM"
   },
   {
-    "pancreatic lesion": "PROBLEM"
+    "adenoma": "PROBLEM"
   },
   {
     "cystic lesion": "PROBLEM"
@@ -36,19 +33,19 @@
     "lesions": "PROBLEM"
   },
   {
-    "left adrenal gland": "PROBLEM"
+    "adrenal gland": "PROBLEM"
   },
   {
     "difficulty": "PROBLEM"
   },
   {
-    "suffocating feeling": "PROBLEM"
+    "suffocating": "PROBLEM"
   },
   {
     "feeling": "PROBLEM"
   },
   {
-    "sleeping in an upright position": "TEST"
+    "sleeping": "PROBLEM"
   },
   {
     "CAT scan": "TEST"
@@ -72,13 +69,16 @@
     "CAT scan": "TEST"
   },
   {
-    "lesion": "PROBLEM"
-  },
-  {
     "adenoma": "PROBLEM"
   },
   {
+    "benign": "PROBLEM"
+  },
+  {
     "adrenal gland": "PROBLEM"
+  },
+  {
+    "lesion": "PROBLEM"
   },
   {
     "pancreatic lesion": "PROBLEM"
@@ -87,7 +87,7 @@
     "pancreas": "PROBLEM"
   },
   {
-    "pancreatic lesion": "PROBLEM"
+    "cystic nature": "PROBLEM"
   },
   {
     "Neoplasm": "PROBLEM"
@@ -105,6 +105,12 @@
     "appetite": "PROBLEM"
   },
   {
+    "bowel habits": "PROBLEM"
+  },
+  {
+    "rectal bleeding": "PROBLEM"
+  },
+  {
     "melena": "PROBLEM"
   },
   {
@@ -114,7 +120,7 @@
     "frequent urination": "PROBLEM"
   },
   {
-    "urologist": "PROBLEM"
+    "urologist": "TREATMENT"
   },
   {
     "pancreatic cancer": "PROBLEM"
@@ -126,13 +132,13 @@
     "hypertension": "PROBLEM"
   },
   {
-    "type 2 diabetes mellitus": "PROBLEM"
+    "diabetes mellitus": "PROBLEM"
   },
   {
     "asthma": "PROBLEM"
   },
   {
-    "high cholesterol": "PROBLEM"
+    "cholesterol": "PROBLEM"
   },
   {
     "ENVIRONMENTAL": "PROBLEM"
@@ -171,7 +177,7 @@
     "fluticasone": "DRUG"
   },
   {
-    "surgery": "PROBLEM"
+    "surgery": "TREATMENT"
   },
   {
     "prostate cancer": "PROBLEM"
@@ -186,10 +192,10 @@
     "diabetes": "PROBLEM"
   },
   {
-    "non-cigarette smoker": "PROBLEM"
+    "cigarette": "TREATMENT"
   },
   {
-    "non-ETOH user": "PROBLEM"
+    "ETOH": "TREATMENT"
   },
   {
     "chemical": "PROBLEM"
@@ -198,7 +204,7 @@
     "chest pain": "PROBLEM"
   },
   {
-    "exertional shortness of breath": "PROBLEM"
+    "shortness of breath": "PROBLEM"
   },
   {
     "GI problems": "PROBLEM"
@@ -208,6 +214,9 @@
   },
   {
     "bleeding disorders": "PROBLEM"
+  },
+  {
+    "bleeding history": "PROBLEM"
   },
   {
     "obese": "PROBLEM"
@@ -228,31 +237,28 @@
     "adenopathy": "PROBLEM"
   },
   {
-    "bruit": "PROBLEM"
-  },
-  {
-    "CHEST": "TEST"
+    "Chest": "TEST"
   },
   {
     "LUNGS": "PROBLEM"
   },
   {
-    "COR": "PROBLEM"
+    "COR": "TREATMENT"
   },
   {
-    "S3 or S4 gallop": "PROBLEM"
+    "gallop": "PROBLEM"
   },
   {
     "murmur": "PROBLEM"
   },
   {
-    "HEART": "PROBLEM"
+    "heart sounds": "TEST"
   },
   {
     "Obese": "PROBLEM"
   },
   {
-    "It is soft": "PROBLEM"
+    "soft": "PROBLEM"
   },
   {
     "nontender": "PROBLEM"
@@ -270,7 +276,7 @@
     "organomegaly": "PROBLEM"
   },
   {
-    "GENITALIA": "PROBLEM"
+    "GENITALIA": "TEST"
   },
   {
     "RECTAL": "TEST"
@@ -285,22 +291,16 @@
     "focal deficits": "PROBLEM"
   },
   {
-    "alert and oriented": "TEST"
+    "adrenal lesions": "PROBLEM"
   },
   {
-    "adrenal": "PROBLEM"
-  },
-  {
-    "pancreatic": "PROBLEM"
-  },
-  {
-    "adrenal lesion": "PROBLEM"
+    "pancreatic lesions": "PROBLEM"
   },
   {
     "adenoma": "PROBLEM"
   },
   {
-    "pancreatic lesion": "PROBLEM"
+    "adenoma": "PROBLEM"
   },
   {
     "cystic lesion": "PROBLEM"
@@ -336,7 +336,7 @@
     "lesion": "PROBLEM"
   },
   {
-    "ercp": "TEST"
+    "ERCP": "TEST"
   },
   {
     "esophagogastroduodenoscopy": "TEST"

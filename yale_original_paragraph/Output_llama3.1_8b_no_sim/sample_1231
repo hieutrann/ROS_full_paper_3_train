@@ -1,21 +1,15 @@
 [
   {
-    "end-stage peritoneal mesothelioma": "PROBLEM"
-  },
-  {
-    "multiple bowel perforations": "PROBLEM"
-  },
-  {
-    "abdominal pain": "PROBLEM"
+    "mesothelioma": "PROBLEM"
   },
   {
     "pleurodesis": "TREATMENT"
   },
   {
-    "Dilaudid PCA": "DRUG"
+    "abdominal pain": "PROBLEM"
   },
   {
-    "Dilaudid boluses": "DRUG"
+    "Dilaudid": "DRUG"
   },
   {
     "Ativan": "DRUG"
@@ -24,7 +18,7 @@
     "Tylenol": "DRUG"
   },
   {
-    "Duragesic patch": "DRUG"
+    "Duragesic": "DRUG"
   },
   {
     "thoracic epidural placement": "TREATMENT"
@@ -36,6 +30,6 @@
     "peritoneal mesothelioma": "PROBLEM"
   },
   {
-    "mesothelioma": "PROBLEM"
+    "multiple bowel perforations": "PROBLEM"
   }
 ]

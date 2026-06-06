@@ -1,0 +1,83 @@
+[
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "tricuspid regurgitation": "PROBLEM"
+  },
+  {
+    "pulmonary hypertension": "PROBLEM"
+  },
+  {
+    "aortic stenosis": "PROBLEM"
+  },
+  {
+    "mitral regurgitation": "PROBLEM"
+  },
+  {
+    "atrial fibrillation": "PROBLEM"
+  },
+  {
+    "atrial tachyarrhythmia": "PROBLEM"
+  },
+  {
+    "multifocal atrial tachycardia": "PROBLEM"
+  },
+  {
+    "hypokalemia": "PROBLEM"
+  },
+  {
+    "atrial": "PROBLEM"
+  },
+  {
+    "tachycardia": "PROBLEM"
+  },
+  {
+    "apcs": "PROBLEM"
+  },
+  {
+    "cardiac": "PROBLEM"
+  },
+  {
+    "regurgitation": "PROBLEM"
+  },
+  {
+    "aortic": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "pulmonary": "PROBLEM"
+  },
+  {
+    "hip fracture": "PROBLEM"
+  },
+  {
+    "general medicine": "TEST"
+  },
+  {
+    "hypokalemia": "TEST"
+  },
+  {
+    "shortness of breath": "TEST"
+  },
+  {
+    "atrial tachycardia": "TEST"
+  },
+  {
+    "sinus rhythm": "TEST"
+  },
+  {
+    "apcs": "TEST"
+  },
+  {
+    "cardiac": "TEST"
+  },
+  {
+    "regurgitation": "TEST"
+  },
+  {
+    "aortic": "TEST"
+  }
+]

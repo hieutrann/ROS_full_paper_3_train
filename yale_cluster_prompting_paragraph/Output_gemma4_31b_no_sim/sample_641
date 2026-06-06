@@ -9,7 +9,10 @@
     "large cardioembolic stroke": "PROBLEM"
   },
   {
-    "stroke": "PROBLEM"
+    "large stroke": "PROBLEM"
+  },
+  {
+    "left body findings": "PROBLEM"
   },
   {
     "CT scan of the head": "TEST"
@@ -52,9 +55,6 @@
   },
   {
     "paralyzation": "TREATMENT"
-  },
-  {
-    "acute second stroke": "PROBLEM"
   },
   {
     "arteriogram": "TEST"
@@ -183,7 +183,10 @@
     "MI": "PROBLEM"
   },
   {
-    "VITAL SIGNS": "TEST"
+    "blood pressure": "TEST"
+  },
+  {
+    "heart rate": "TEST"
   },
   {
     "white count": "TEST"
@@ -244,6 +247,15 @@
   },
   {
     "CT scan of the head": "TEST"
+  },
+  {
+    "Chest x-ray": "TEST"
+  },
+  {
+    "ET tube placement": "TREATMENT"
+  },
+  {
+    "cardiomegaly": "PROBLEM"
   },
   {
     "interstitial opacities": "PROBLEM"

@@ -36,6 +36,9 @@
     "chills": "PROBLEM"
   },
   {
+    "frequency": "PROBLEM"
+  },
+  {
     "nocturia": "PROBLEM"
   },
   {
@@ -69,6 +72,9 @@
     "Caverject injection": "TREATMENT"
   },
   {
+    "working pump": "TREATMENT"
+  },
+  {
     "PSA": "TEST"
   },
   {
@@ -97,6 +103,21 @@
   },
   {
     "prostate ultrasound": "TEST"
+  },
+  {
+    "biopsy": "TEST"
+  },
+  {
+    "erectile dysfunction": "PROBLEM"
+  },
+  {
+    "erectile dysfunction": "PROBLEM"
+  },
+  {
+    "cialis": "DRUG"
+  },
+  {
+    "psa": "TEST"
   },
   {
     "biopsy": "TEST"

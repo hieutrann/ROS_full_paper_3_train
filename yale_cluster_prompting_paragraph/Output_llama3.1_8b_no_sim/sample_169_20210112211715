@@ -3,10 +3,10 @@
     "hepatitis C": "PROBLEM"
   },
   {
-    "HIV": "PROBLEM"
+    "hepatitis B": "PROBLEM"
   },
   {
-    "degenerative disc disease": "PROBLEM"
+    "HIV": "PROBLEM"
   },
   {
     "nausea": "PROBLEM"
@@ -15,13 +15,7 @@
     "vomiting": "PROBLEM"
   },
   {
-    "blood-borne pathogen exposure": "PROBLEM"
-  },
-  {
-    "needlestick": "PROBLEM"
-  },
-  {
-    "viral illness": "PROBLEM"
+    "degenerative disc disease": "PROBLEM"
   },
   {
     "Nexium": "DRUG"
@@ -33,9 +27,6 @@
     "tetanus": "DRUG"
   },
   {
-    "hepatitis B": "DRUG"
-  },
-  {
     "blood tests": "TEST"
   },
   {
@@ -45,6 +36,6 @@
     "needlestick": "TREATMENT"
   },
   {
-    "surgery": "TREATMENT"
+    "barium enema": "TREATMENT"
   }
 ]

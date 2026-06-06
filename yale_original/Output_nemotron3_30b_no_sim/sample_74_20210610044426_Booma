@@ -1,0 +1,323 @@
+[
+  {
+    "MS": "PROBLEM"
+  },
+  {
+    "cognition": "PROBLEM"
+  },
+  {
+    "ambulation": "PROBLEM"
+  },
+  {
+    "MRI": "TEST"
+  },
+  {
+    "CSF": "TEST"
+  },
+  {
+    "OCB": "TEST"
+  },
+  {
+    "interferon": "DRUG"
+  },
+  {
+    "symptoms": "PROBLEM"
+  },
+  {
+    "R leg drags at the end of the day.": "PROBLEM"
+  },
+  {
+    "falls": "PROBLEM"
+  },
+  {
+    "heat sensitivity": "PROBLEM"
+  },
+  {
+    "betaseron": "DRUG"
+  },
+  {
+    "thyroid replacement": "DRUG"
+  },
+  {
+    "hours 4 days a week": "PROBLEM"
+  },
+  {
+    "trouble": "PROBLEM"
+  },
+  {
+    "urinary frequency/urgency": "PROBLEM"
+  },
+  {
+    "pads": "TREATMENT"
+  },
+  {
+    "minor accidents": "PROBLEM"
+  },
+  {
+    "bathroom": "TEST"
+  },
+  {
+    "oxybutynin": "DRUG"
+  },
+  {
+    "right leg weakness": "PROBLEM"
+  },
+  {
+    "admitted": "TREATMENT"
+  },
+  {
+    "numbness": "PROBLEM"
+  },
+  {
+    "lesions typical for MS": "PROBLEM"
+  },
+  {
+    "blood studies": "TEST"
+  },
+  {
+    "Penicillins": "DRUG"
+  },
+  {
+    "Flovent HFA 44 MCG/ACT Inhalation Aerosol": "DRUG"
+  },
+  {
+    "INHALE 2 PUFFS EVERY 12 HOURS": "TREATMENT"
+  },
+  {
+    "Levoxyl 100 MCG Oral Tablet": "DRUG"
+  },
+  {
+    "TAKE 1 TABLET DAILY": "TREATMENT"
+  },
+  {
+    "ProAir HFA 108 (90 Base) MCG/ACT Inhalation Aerosol Solution": "DRUG"
+  },
+  {
+    "COUGH": "PROBLEM"
+  },
+  {
+    "wheeze": "PROBLEM"
+  },
+  {
+    "Therapy": "TREATMENT"
+  },
+  {
+    "Pantoprazole Sodium 40 MG Oral Tablet Delayed Release": "DRUG"
+  },
+  {
+    "Rebif 44 MCG/0.5ML Subcutaneous Solution": "DRUG"
+  },
+  {
+    "INJECT 0.5 ML 3 TIMES WEEKLY AS DIRECTED": "TREATMENT"
+  },
+  {
+    "Asthma V17.5": "PROBLEM"
+  },
+  {
+    "Hypertension V17.49": "PROBLEM"
+  },
+  {
+    "Divorced V61.0": "PROBLEM"
+  },
+  {
+    "Alcohol": "DRUG"
+  },
+  {
+    "Tobacco Use": "DRUG"
+  },
+  {
+    "bus": "TEST"
+  },
+  {
+    "Neuro Emphasis": "TEST"
+  },
+  {
+    "BMI Calculated": "TEST"
+  },
+  {
+    "BSA Calculated": "TEST"
+  },
+  {
+    "Height": "TEST"
+  },
+  {
+    "Weight": "TEST"
+  },
+  {
+    "Systolic": "TEST"
+  },
+  {
+    "Diastolic": "TEST"
+  },
+  {
+    "Heart Rate": "TEST"
+  },
+  {
+    "General Appearance": "PROBLEM"
+  },
+  {
+    "obese": "PROBLEM"
+  },
+  {
+    "Neck": "PROBLEM"
+  },
+  {
+    "Oropharynx": "TEST"
+  },
+  {
+    "Normal": "TEST"
+  },
+  {
+    "Normal": "TEST"
+  },
+  {
+    "Mental Status": "TEST"
+  },
+  {
+    "dysphasia/aphasia": "PROBLEM"
+  },
+  {
+    "visual acuity": "PROBLEM"
+  },
+  {
+    "visual fields": "PROBLEM"
+  },
+  {
+    "extraocular motions": "PROBLEM"
+  },
+  {
+    "masseter strength": "PROBLEM"
+  },
+  {
+    "facial strength": "PROBLEM"
+  },
+  {
+    "hearing": "PROBLEM"
+  },
+  {
+    "soft palate": "PROBLEM"
+  },
+  {
+    "gag": "PROBLEM"
+  },
+  {
+    "shoulder shrug": "PROBLEM"
+  },
+  {
+    "tongue deviation": "PROBLEM"
+  },
+  {
+    "Upper Extremities Normal": "PROBLEM"
+  },
+  {
+    "Lower Extremities: (4 to 5-, weaker on R)": "PROBLEM"
+  },
+  {
+    "hypertonic": "PROBLEM"
+  },
+  {
+    "abnormal": "PROBLEM"
+  },
+  {
+    "Biceps": "TREATMENT"
+  },
+  {
+    "right 3+": "TREATMENT"
+  },
+  {
+    "left 3+": "TREATMENT"
+  },
+  {
+    "Triceps: right 3+ andleft 3+.": "PROBLEM"
+  },
+  {
+    "Brachioradialis: right 3+ andleft 3+.": "TEST"
+  },
+  {
+    "Patella: right 4+ andleft 3+.": "PROBLEM"
+  },
+  {
+    "Ankle Jerk: right 3+ andleft 3+.": "TEST"
+  },
+  {
+    "Babinski reflex absent on the rightandabsent on the left.": "PROBLEM"
+  },
+  {
+    "Ankle Clonus 1-2 beats present on the right": "PROBLEM"
+  },
+  {
+    "Ankle Clonus 1-2 beats present on the left": "PROBLEM"
+  },
+  {
+    "spastic bilaterally": "PROBLEM"
+  },
+  {
+    "response to touch stimulation": "PROBLEM"
+  },
+  {
+    "response to stimulation by vibration": "PROBLEM"
+  },
+  {
+    "(5, 5, 2, 2).": "TEST"
+  },
+  {
+    "response to pain and temperature stimulation on the right side": "PROBLEM"
+  },
+  {
+    "CBC": "TEST"
+  },
+  {
+    "LFT": "TEST"
+  },
+  {
+    "Fe": "TEST"
+  },
+  {
+    "TIBC": "TEST"
+  },
+  {
+    "Multiple Sclerosis": "PROBLEM"
+  },
+  {
+    "Dyspepsia 536.8": "PROBLEM"
+  },
+  {
+    "Pantoprazole Sodium 40 MG Oral Tablet Delayed Release": "DRUG"
+  },
+  {
+    "17Aug2011 to (Evaluate: 13Feb2012)": "TEST"
+  },
+  {
+    "13Feb2012": "TEST"
+  },
+  {
+    "17Aug2011": "TEST"
+  },
+  {
+    "relapsing-remitting MS": "PROBLEM"
+  },
+  {
+    "rebif": "DRUG"
+  },
+  {
+    "tired": "PROBLEM"
+  },
+  {
+    "medication": "DRUG"
+  },
+  {
+    "rebif": "DRUG"
+  },
+  {
+    "CBC": "TEST"
+  },
+  {
+    "LFT": "TEST"
+  },
+  {
+    "rtc": "TREATMENT"
+  },
+  {
+    "JOHN LINDSEY, M.D.": "DRUG"
+  }
+]

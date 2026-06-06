@@ -1,0 +1,80 @@
+[
+  {
+    "Seizure": "PROBLEM"
+  },
+  {
+    "hypoglycemia": "PROBLEM"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "dyspnea": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "colon cancer": "PROBLEM"
+  },
+  {
+    "hospital-acquired pneumonia": "PROBLEM"
+  },
+  {
+    "congestive heart failure": "PROBLEM"
+  },
+  {
+    "seizure disorder": "PROBLEM"
+  },
+  {
+    "insulin pump": "TEST"
+  },
+  {
+    "Neurology": "TREATMENT"
+  },
+  {
+    "Lamictal": "DRUG"
+  },
+  {
+    "NovoLog": "DRUG"
+  },
+  {
+    "Zosyn": "DRUG"
+  },
+  {
+    "Levaquin": "DRUG"
+  },
+  {
+    "vancomycin": "DRUG"
+  },
+  {
+    "Bactrim DS": "DRUG"
+  },
+  {
+    "Levaquin 750 mg": "DRUG"
+  },
+  {
+    "Bactrim DS 800mg/160 mg tablet": "DRUG"
+  },
+  {
+    "Coreg 12.5 mg": "DRUG"
+  },
+  {
+    "Lasix 40 mg": "DRUG"
+  },
+  {
+    "Fentanyl 50 mcg patch": "DRUG"
+  },
+  {
+    "Calcium and vitamin D combination": "DRUG"
+  },
+  {
+    "Nexium 40 mg": "DRUG"
+  },
+  {
+    "Neurontin 400 mg": "DRUG"
+  },
+  {
+    "Lipitor 10 mg": "DRUG"
+  }
+]

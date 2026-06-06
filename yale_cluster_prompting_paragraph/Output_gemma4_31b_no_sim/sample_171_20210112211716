@@ -90,19 +90,7 @@
     "syncope": "PROBLEM"
   },
   {
-    "cocaine": "PROBLEM"
-  },
-  {
-    "VITAL SIGNS": "TEST"
-  },
-  {
-    "Pulse": "TEST"
-  },
-  {
     "blood pressure": "TEST"
-  },
-  {
-    "weight": "TEST"
   },
   {
     "pallor": "PROBLEM"
@@ -133,9 +121,6 @@
   },
   {
     "S4": "PROBLEM"
-  },
-  {
-    "Liver is palpable": "PROBLEM"
   },
   {
     "clubbing": "PROBLEM"
@@ -177,16 +162,10 @@
     "Aldactone": "DRUG"
   },
   {
-    "cocaine": "PROBLEM"
-  },
-  {
     "BMP": "TEST"
   },
   {
     "blood pressure": "TEST"
-  },
-  {
-    "weight": "TEST"
   },
   {
     "hepatitis C": "PROBLEM"

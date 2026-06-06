@@ -3,7 +3,7 @@
     "fever of unknown origin": "PROBLEM"
   },
   {
-    "fever of unknown origin": "PROBLEM"
+    "Fever of unknown origin": "PROBLEM"
   },
   {
     "polymyositis/dermatomyositis": "PROBLEM"
@@ -22,6 +22,9 @@
   },
   {
     "infection": "PROBLEM"
+  },
+  {
+    "temperatures": "TEST"
   },
   {
     "chest x-ray": "TEST"
@@ -135,6 +138,9 @@
     "CMV serologies": "TEST"
   },
   {
+    "antibiotic therapy": "TREATMENT"
+  },
+  {
     "methotrexate": "DRUG"
   },
   {
@@ -192,7 +198,7 @@
     "ganciclovir": "DRUG"
   },
   {
-    "Advair": "DRUG"
+    "Advair 100/50": "DRUG"
   },
   {
     "Ibuprofen": "DRUG"

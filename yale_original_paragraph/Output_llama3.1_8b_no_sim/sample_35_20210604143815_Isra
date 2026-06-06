@@ -1,0 +1,53 @@
+[
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "hip pain": "PROBLEM"
+  },
+  {
+    "degenerative disk disease": "PROBLEM"
+  },
+  {
+    "sacroiliac joint": "PROBLEM"
+  },
+  {
+    "ingual nodes": "PROBLEM"
+  },
+  {
+    "brucellosis": "PROBLEM"
+  },
+  {
+    "temperature": "TEST"
+  },
+  {
+    "blood studies": "TEST"
+  },
+  {
+    "cultures": "TEST"
+  },
+  {
+    "febrile agglutinins": "TEST"
+  },
+  {
+    "x-rays": "TEST"
+  },
+  {
+    "MRIs": "TEST"
+  },
+  {
+    "sliding scale insulin": "DRUG"
+  },
+  {
+    "antibiotics": "DRUG"
+  },
+  {
+    "Motrin": "DRUG"
+  },
+  {
+    "Darvocet": "DRUG"
+  },
+  {
+    "triple-phase bone scan": "TEST"
+  }
+]

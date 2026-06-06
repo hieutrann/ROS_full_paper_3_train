@@ -1,6 +1,21 @@
 [
   {
-    "Speech Therapy": "TREATMENT"
+    "speech therapy": "TREATMENT"
+  },
+  {
+    "speech therapy": "TREATMENT"
+  },
+  {
+    "swallowing function": "PROBLEM"
+  },
+  {
+    "swallowing function": "PROBLEM"
+  },
+  {
+    "safety": "PROBLEM"
+  },
+  {
+    "safety": "PROBLEM"
   },
   {
     "speech therapy": "TREATMENT"
@@ -15,7 +30,7 @@
     "safety": "PROBLEM"
   },
   {
-    "global aphasia": "PROBLEM"
+    "aphasia": "PROBLEM"
   },
   {
     "aphasia quotient": "TEST"
@@ -24,7 +39,7 @@
     "Western Aphasia Battery": "TEST"
   },
   {
-    "G-tube": "TEST"
+    "G-tube": "TREATMENT"
   },
   {
     "speech therapy": "TREATMENT"
@@ -42,9 +57,6 @@
     "safety": "PROBLEM"
   },
   {
-    "SHORT-TERM GOALS": "TREATMENT"
-  },
-  {
     "modified barium swallow study": "TEST"
   },
   {
@@ -54,49 +66,37 @@
     "G-tube": "TREATMENT"
   },
   {
-    "feeding tube": "PROBLEM"
-  },
-  {
-    "2": "TEST"
+    "feeding tube": "TREATMENT"
   },
   {
     "accuracy": "TEST"
   },
   {
-    "patient": "PROBLEM"
-  },
-  {
-    "read and understand simple sentences": "PROBLEM"
-  },
-  {
-    "write 10 words related to basic wants and needs": "PROBLEM"
+    "accuracy": "TEST"
   },
   {
     "difficulty stating verbally": "PROBLEM"
   },
   {
-    "head gestures": "PROBLEM"
+    "head gestures": "TREATMENT"
   },
   {
-    "yes-no questions": "PROBLEM"
+    "yes-no questions": "TREATMENT"
   },
   {
     "difficulty with her expressive language abilities": "PROBLEM"
   },
   {
-    "basic wants and needs": "PROBLEM"
-  },
-  {
-    "receptive communication": "PROBLEM"
+    "communication": "PROBLEM"
   },
   {
     "aphasia quotient": "TEST"
   },
   {
-    "unintelligible speech": "PROBLEM"
+    "speech": "PROBLEM"
   },
   {
-    "communication device": "PROBLEM"
+    "communication device": "TREATMENT"
   },
   {
     "augmented communication device": "TREATMENT"
@@ -105,22 +105,16 @@
     "speech generating device": "TREATMENT"
   },
   {
-    "plateau": "PROBLEM"
+    "progress": "PROBLEM"
   },
   {
     "aphasia": "PROBLEM"
   },
   {
-    "g-tube": "PROBLEM"
+    "g-tube": "TREATMENT"
   },
   {
-    "language evaluation": "TEST"
-  },
-  {
-    "western aphasia battery": "TEST"
-  },
-  {
-    "skilled speech therapy": "TREATMENT"
+    "Western Aphasia Battery": "TEST"
   },
   {
     "speech therapy": "TREATMENT"

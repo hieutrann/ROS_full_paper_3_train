@@ -57,7 +57,7 @@
     "neutrophils": "TEST"
   },
   {
-    "thrombocytosis": "PROBLEM"
+    "thrombocytosis": "TEST"
   },
   {
     "CRP": "TEST"
@@ -93,19 +93,25 @@
     "conjunctivitis": "PROBLEM"
   },
   {
-    "redness": "PROBLEM"
+    "calm": "PROBLEM"
+  },
+  {
+    "quiet": "PROBLEM"
+  },
+  {
+    "p.o.": "TREATMENT"
+  },
+  {
+    "PO ad-lib": "TREATMENT"
   },
   {
     "Aspirin": "DRUG"
   },
   {
-    "aspirin": "DRUG"
+    "aspirin low dose 40 mg q.d.": "DRUG"
   },
   {
     "Prevacid": "DRUG"
-  },
-  {
-    "GI": "PROBLEM"
   },
   {
     "aspirin": "DRUG"
@@ -120,16 +126,25 @@
     "IVIG": "DRUG"
   },
   {
+    "live virus vaccine": "DRUG"
+  },
+  {
     "rashes": "PROBLEM"
   },
   {
     "fevers": "PROBLEM"
   },
   {
+    "discharge summary": "TEST"
+  },
+  {
     "mucous membranes": "PROBLEM"
   },
   {
     "conjunctivitis": "PROBLEM"
+  },
+  {
+    "ad lib": "TREATMENT"
   },
   {
     "kawasaki disease": "PROBLEM"

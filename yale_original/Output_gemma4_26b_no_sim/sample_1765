@@ -3,16 +3,16 @@
     "Liver Biopsy": "TEST"
   },
   {
-    "Percutaneous liver biopsy": "TEST"
+    "Percutaneous liver biopsy": "TREATMENT"
   },
   {
-    "maximal dullness": "PROBLEM"
+    "dullness": "PROBLEM"
   },
   {
     "percussion": "TEST"
   },
   {
-    "Percutaneous liver biopsy": "TREATMENT"
+    "Percutaneous liver biopsy": "TEST"
   },
   {
     "Lidocaine": "DRUG"
@@ -42,7 +42,7 @@
     "death": "PROBLEM"
   },
   {
-    "maximal dullness": "PROBLEM"
+    "dullness": "PROBLEM"
   },
   {
     "percussion": "TEST"
@@ -57,10 +57,7 @@
     "incision": "TREATMENT"
   },
   {
-    "A 16-gauge modified Klatskin needle": "TREATMENT"
-  },
-  {
-    "incision": "TREATMENT"
+    "Klatskin needle": "TREATMENT"
   },
   {
     "Liver cores": "TEST"
@@ -81,10 +78,19 @@
     "liver biopsy": "TEST"
   },
   {
-    "hepatitis A and B vaccines": "DRUG"
+    "hepatitis A": "PROBLEM"
+  },
+  {
+    "hepatitis B": "PROBLEM"
+  },
+  {
+    "vaccines": "DRUG"
   },
   {
     "vaccination": "TREATMENT"
+  },
+  {
+    "surgery": "TREATMENT"
   },
   {
     "bile peritonitis": "PROBLEM"
@@ -94,6 +100,9 @@
   },
   {
     "pneumothorax": "PROBLEM"
+  },
+  {
+    "klatskin needle": "TREATMENT"
   },
   {
     "liver biopsy": "TEST"
@@ -106,5 +115,8 @@
   },
   {
     "biopsy": "TEST"
+  },
+  {
+    "liver": "PROBLEM"
   }
 ]

@@ -9,7 +9,7 @@
     "uncontrolled blood pressure": "PROBLEM"
   },
   {
-    "delivery": "TREATMENT"
+    "delivery": "PROBLEM"
   },
   {
     "cesarean section": "TREATMENT"
@@ -24,7 +24,7 @@
     "blood pressure": "PROBLEM"
   },
   {
-    "delivery": "TREATMENT"
+    "delivery": "PROBLEM"
   },
   {
     "cesarean section": "TREATMENT"
@@ -37,9 +37,6 @@
   },
   {
     "blood pressure": "PROBLEM"
-  },
-  {
-    "multiple medications": "DRUG"
   },
   {
     "chest pain": "PROBLEM"
@@ -60,7 +57,7 @@
     "surgery": "TREATMENT"
   },
   {
-    "intensive care unit": "TREATMENT"
+    "intensive care unit": "PROBLEM"
   },
   {
     "hypertension": "PROBLEM"
@@ -69,13 +66,10 @@
     "gestational diabetes mellitus": "PROBLEM"
   },
   {
-    "cholesterol": "TEST"
+    "cholesterol": "PROBLEM"
   },
   {
     "coronary artery disease": "PROBLEM"
-  },
-  {
-    "coronary disease": "PROBLEM"
   },
   {
     "Nonsignificant": "PROBLEM"
@@ -102,7 +96,7 @@
     "insulin": "DRUG"
   },
   {
-    "ALLERGIES": "PROBLEM"
+    "None": "PROBLEM"
   },
   {
     "Nonsmoker": "PROBLEM"
@@ -189,16 +183,16 @@
     "seizure disorder": "PROBLEM"
   },
   {
-    "Pulse of 86": "TEST"
+    "Pulse of 86": "PROBLEM"
   },
   {
-    "blood pressure 175/86": "TEST"
+    "blood pressure 175/86": "PROBLEM"
   },
   {
-    "afebrile": "TEST"
+    "afebrile": "PROBLEM"
   },
   {
-    "respiratory rate 16 per minute": "TEST"
+    "respiratory rate 16 per minute": "PROBLEM"
   },
   {
     "Atraumatic": "PROBLEM"
@@ -207,13 +201,16 @@
     "normocephalic": "PROBLEM"
   },
   {
-    "Neck veins": "TEST"
+    "Neck veins": "PROBLEM"
   },
   {
-    "LUNGS": "TEST"
+    "LUNGS": "PROBLEM"
   },
   {
-    "S1 and S2": "TEST"
+    "S1": "PROBLEM"
+  },
+  {
+    "S2": "PROBLEM"
   },
   {
     "ABDOMEN": "PROBLEM"
@@ -222,10 +219,7 @@
     "edema": "PROBLEM"
   },
   {
-    "pulses palpable": "PROBLEM"
-  },
-  {
-    "EKG": "TEST"
+    "Pulses palpable": "PROBLEM"
   },
   {
     "sinus tachycardia": "PROBLEM"
@@ -243,7 +237,7 @@
     "creatinine": "TEST"
   },
   {
-    "IMPRESSION": "TREATMENT"
+    "IMPRESSION": "PROBLEM"
   },
   {
     "Preeclampsia": "PROBLEM"
@@ -255,7 +249,13 @@
     "uncontrolled blood pressure": "PROBLEM"
   },
   {
+    "2": "PROBLEM"
+  },
+  {
     "gestational diabetes mellitus": "PROBLEM"
+  },
+  {
+    "RECOMMENDATIONS": "TREATMENT"
   },
   {
     "echocardiogram": "TEST"
@@ -264,10 +264,16 @@
     "left ventricular function": "PROBLEM"
   },
   {
+    "2": "PROBLEM"
+  },
+  {
     "labetalol": "DRUG"
   },
   {
     "hydralazine": "DRUG"
+  },
+  {
+    "3": "PROBLEM"
   },
   {
     "medication": "DRUG"
@@ -286,6 +292,9 @@
   },
   {
     "gestational diabetes": "PROBLEM"
+  },
+  {
+    "preeclampsia": "PROBLEM"
   },
   {
     "cesarean section": "TREATMENT"

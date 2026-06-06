@@ -1,6 +1,6 @@
 [
   {
-    "Cut on Foot": "PROBLEM"
+    "cut on Foot": "PROBLEM"
   },
   {
     "laceration": "PROBLEM"
@@ -9,10 +9,13 @@
     "Acute foot pain": "PROBLEM"
   },
   {
+    "wound care": "TREATMENT"
+  },
+  {
     "Cut on foot": "PROBLEM"
   },
   {
-    "right foot": "PROBLEM"
+    "glass": "TREATMENT"
   },
   {
     "bleeding": "PROBLEM"
@@ -63,13 +66,16 @@
     "shortness of breath": "PROBLEM"
   },
   {
-    "4-mm partial thickness laceration": "PROBLEM"
+    "partial thickness laceration": "PROBLEM"
+  },
+  {
+    "right foot": "PROBLEM"
   },
   {
     "foreign body": "PROBLEM"
   },
   {
-    "active bleeding": "PROBLEM"
+    "bleeding": "PROBLEM"
   },
   {
     "exposed deeper tissues": "PROBLEM"
@@ -99,22 +105,19 @@
     "bleeding": "PROBLEM"
   },
   {
-    "4-mm partial thickness laceration": "PROBLEM"
+    "tenderness": "PROBLEM"
+  },
+  {
+    "foot": "PROBLEM"
+  },
+  {
+    "partial thickness laceration": "PROBLEM"
   },
   {
     "right foot": "PROBLEM"
   },
   {
-    "Motor": "TEST"
-  },
-  {
-    "speech": "TEST"
-  },
-  {
-    "ambulation": "TEST"
-  },
-  {
-    "active bleeding": "PROBLEM"
+    "bleeding": "PROBLEM"
   },
   {
     "bruising": "PROBLEM"
@@ -126,7 +129,13 @@
     "bandage": "TREATMENT"
   },
   {
-    "A 4-MM LACERATION TO THE RIGHT FOOT": "PROBLEM"
+    "foot": "PROBLEM"
+  },
+  {
+    "4-MM LACERATION": "PROBLEM"
+  },
+  {
+    "RIGHT FOOT": "PROBLEM"
   },
   {
     "ACUTE RIGHT FOOT PAIN": "PROBLEM"
@@ -135,7 +144,10 @@
     "infection": "PROBLEM"
   },
   {
-    "glass retained in the foot": "PROBLEM"
+    "glass": "PROBLEM"
+  },
+  {
+    "foot": "PROBLEM"
   },
   {
     "infection": "PROBLEM"

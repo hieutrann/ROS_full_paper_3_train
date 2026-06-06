@@ -9,7 +9,7 @@
     "large cardioembolic stroke": "PROBLEM"
   },
   {
-    "Medical management": "TREATMENT"
+    "right brain": "PROBLEM"
   },
   {
     "special procedures": "TREATMENT"
@@ -19,9 +19,6 @@
   },
   {
     "stroke": "PROBLEM"
-  },
-  {
-    "right brain": "PROBLEM"
   },
   {
     "left body findings": "PROBLEM"
@@ -57,13 +54,13 @@
     "Cardizem": "DRUG"
   },
   {
-    "study drug": "DRUG"
-  },
-  {
     "stroke": "PROBLEM"
   },
   {
     "cardioembolic": "PROBLEM"
+  },
+  {
+    "study drug": "DRUG"
   },
   {
     "TPA": "DRUG"
@@ -78,7 +75,7 @@
     "paralyzation": "TREATMENT"
   },
   {
-    "diastolic": "TEST"
+    "diastolic": "PROBLEM"
   },
   {
     "stroke": "PROBLEM"
@@ -105,16 +102,10 @@
     "STAT echocardiogram": "TEST"
   },
   {
+    "large clot": "PROBLEM"
+  },
+  {
     "patent foramen ovale clot": "PROBLEM"
-  },
-  {
-    "clot in the heart": "PROBLEM"
-  },
-  {
-    "clot in the legs": "PROBLEM"
-  },
-  {
-    "Echo": "TEST"
   },
   {
     "arteriogram": "TEST"
@@ -123,7 +114,7 @@
     "lifesaving procedure": "TREATMENT"
   },
   {
-    "REVIEW OF SYSTEMS": "TEST"
+    "review of systems": "TEST"
   },
   {
     "bladder distension surgery": "TREATMENT"
@@ -216,7 +207,13 @@
     "Darvocet-N": "DRUG"
   },
   {
+    "drink": "PROBLEM"
+  },
+  {
     "smoke": "PROBLEM"
+  },
+  {
+    "Fayetteville": "PROBLEM"
   },
   {
     "cancer": "PROBLEM"
@@ -225,7 +222,7 @@
     "MI": "PROBLEM"
   },
   {
-    "VACCINATION STATUS": "TEST"
+    "VACCINATION STATUS": "PROBLEM"
   },
   {
     "temperature": "TEST"
@@ -261,7 +258,13 @@
     "blood sugar": "TEST"
   },
   {
+    "157": "TEST"
+  },
+  {
     "hemoglobin A1c": "TEST"
+  },
+  {
+    "pending": "TEST"
   },
   {
     "TSH": "TEST"
@@ -291,13 +294,13 @@
     "EKG": "TEST"
   },
   {
-    "Chest x-ray": "TEST"
-  },
-  {
     "cardiomegaly": "PROBLEM"
   },
   {
     "atherosclerotic aorta": "PROBLEM"
+  },
+  {
+    "Chest x-ray": "TEST"
   },
   {
     "Chest x-ray": "TEST"
@@ -318,13 +321,16 @@
     "cardiomegaly": "PROBLEM"
   },
   {
-    "aorta": "PROBLEM"
+    "interstitial opacities": "PROBLEM"
+  },
+  {
+    "OGD": "PROBLEM"
   },
   {
     "atherosclerosis": "PROBLEM"
   },
   {
-    "OGD": "PROBLEM"
+    "aorta": "PROBLEM"
   },
   {
     "CT scan of the head": "TEST"
@@ -336,7 +342,7 @@
     "radiologies": "TEST"
   },
   {
-    "ASSESSMENT/PLAN/PROBLEMS": "TEST"
+    "PROBLEMS": "PROBLEM"
   },
   {
     "cardioembolic stroke": "PROBLEM"
@@ -351,7 +357,7 @@
     "mental status": "PROBLEM"
   },
   {
-    "strokes": "PROBLEM"
+    "multiple strokes": "PROBLEM"
   },
   {
     "clot burden": "PROBLEM"
@@ -360,13 +366,19 @@
     "patent foramen ovale": "PROBLEM"
   },
   {
-    "cardiologist": "PROBLEM"
+    "cardiologist": "TREATMENT"
   },
   {
     "echocardiogram": "TEST"
   },
   {
     "echo": "TEST"
+  },
+  {
+    "clot burdened in the heart": "PROBLEM"
+  },
+  {
+    "distal clot": "PROBLEM"
   },
   {
     "PFO": "PROBLEM"
@@ -384,13 +396,13 @@
     "emergency retrieval device": "TREATMENT"
   },
   {
-    "anticoagulants": "DRUG"
+    "activated heroically": "TREATMENT"
   },
   {
     "interventional radiology": "TREATMENT"
   },
   {
-    "2": "TEST"
+    "percussion": "TEST"
   },
   {
     "Hypertension": "PROBLEM"
@@ -403,9 +415,6 @@
   },
   {
     "Parkinson's": "PROBLEM"
-  },
-  {
-    "beta-blockers": "DRUG"
   },
   {
     "atrial fibrillation": "PROBLEM"
@@ -438,7 +447,7 @@
     "Digoxin": "DRUG"
   },
   {
-    "vasospasm": "PROBLEM"
+    "beta-blocker": "DRUG"
   },
   {
     "calcium channel blocker": "DRUG"
@@ -471,16 +480,13 @@
     "ultrasound": "TEST"
   },
   {
-    "3": "PROBLEM"
+    "3": "TREATMENT"
+  },
+  {
+    "Respiratory failure": "PROBLEM"
   },
   {
     "ventilator": "TREATMENT"
-  },
-  {
-    "ventilator": "TREATMENT"
-  },
-  {
-    "respiratory failure": "PROBLEM"
   },
   {
     "hyperventilate": "TREATMENT"
@@ -510,37 +516,43 @@
     "alkalosis": "PROBLEM"
   },
   {
-    "hyperventilate": "TREATMENT"
+    "brain swelling": "PROBLEM"
   },
   {
-    "4": "TEST"
+    "4": "TREATMENT"
   },
   {
-    "electrolytes": "TEST"
+    "electrolytes": "PROBLEM"
   },
   {
-    "5": "TEST"
+    "5": "TREATMENT"
   },
   {
-    "Deep vein thrombosis prophylaxis": "TREATMENT"
+    "Deep vein thrombosis": "PROBLEM"
   },
   {
-    "thigh-high TED hose": "TREATMENT"
+    "prophylaxis": "TREATMENT"
   },
   {
-    "SCDs": "DRUG"
+    "TED hose": "TREATMENT"
+  },
+  {
+    "SCDs": "TREATMENT"
   },
   {
     "DIC": "PROBLEM"
   },
   {
-    "venom": "PROBLEM"
+    "venom": "DRUG"
+  },
+  {
+    "prophylaxis": "TREATMENT"
   },
   {
     "CBCs": "TEST"
   },
   {
-    "6": "PROBLEM"
+    "6": "TREATMENT"
   },
   {
     "tube feeds": "TREATMENT"
@@ -555,10 +567,7 @@
     "medication treatment": "TREATMENT"
   },
   {
-    "critical care": "TREATMENT"
-  },
-  {
-    "general medicine": "PROBLEM"
+    "general medicine": "TREATMENT"
   },
   {
     "medical management consult request": "TEST"

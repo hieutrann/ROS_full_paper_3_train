@@ -21,7 +21,7 @@
     "congestion": "PROBLEM"
   },
   {
-    "RSV": "TEST"
+    "RSV": "PROBLEM"
   },
   {
     "acute bronchiolitis": "PROBLEM"
@@ -42,7 +42,7 @@
     "perihilar infiltrate": "PROBLEM"
   },
   {
-    "increased respiratory distress": "PROBLEM"
+    "respiratory distress": "PROBLEM"
   },
   {
     "tachypnea": "PROBLEM"
@@ -102,9 +102,6 @@
     "bowel sounds": "TEST"
   },
   {
-    "Tanner I female": "PROBLEM"
-  },
-  {
     "weight": "TEST"
   },
   {
@@ -112,6 +109,9 @@
   },
   {
     "hand washings": "TREATMENT"
+  },
+  {
+    "Regular diet": "TREATMENT"
   },
   {
     "breast-feeding": "TREATMENT"

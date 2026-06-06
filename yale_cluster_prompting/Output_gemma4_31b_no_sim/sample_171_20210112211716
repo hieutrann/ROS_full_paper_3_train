@@ -15,9 +15,6 @@
     "congestive heart failure": "PROBLEM"
   },
   {
-    "NYHA Class III": "PROBLEM"
-  },
-  {
     "nonsustained ventricular tachycardia": "PROBLEM"
   },
   {
@@ -36,9 +33,6 @@
     "Congestive heart failure": "PROBLEM"
   },
   {
-    "NYHA Class III": "PROBLEM"
-  },
-  {
     "nonsustained ventricular tachycardia": "PROBLEM"
   },
   {
@@ -49,9 +43,6 @@
   },
   {
     "CHF exacerbation": "PROBLEM"
-  },
-  {
-    "prescriptions": "DRUG"
   },
   {
     "shortness of breath": "PROBLEM"
@@ -96,28 +87,13 @@
     "syncope": "PROBLEM"
   },
   {
-    "smoking": "PROBLEM"
-  },
-  {
-    "cocaine": "DRUG"
-  },
-  {
-    "medications": "DRUG"
-  },
-  {
-    "PHYSICAL EXAMINATION": "TEST"
-  },
-  {
-    "VITAL SIGNS": "TEST"
+    "cocaine": "PROBLEM"
   },
   {
     "Pulse": "TEST"
   },
   {
     "blood pressure": "TEST"
-  },
-  {
-    "weight": "TEST"
   },
   {
     "pallor": "PROBLEM"
@@ -135,7 +111,7 @@
     "thyromegaly": "PROBLEM"
   },
   {
-    "LUNGS": "TEST"
+    "Clear to auscultation": "TEST"
   },
   {
     "rales": "PROBLEM"

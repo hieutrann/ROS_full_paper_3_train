@@ -81,6 +81,9 @@
     "Tramadol": "DRUG"
   },
   {
+    "Soma": "DRUG"
+  },
+  {
     "Coumadin": "DRUG"
   },
   {
@@ -129,12 +132,6 @@
     "Amoxicillin": "DRUG"
   },
   {
-    "PHYSICAL EXAMINATION": "TEST"
-  },
-  {
-    "VITAL SIGNS": "TEST"
-  },
-  {
     "afebrile": "PROBLEM"
   },
   {
@@ -150,13 +147,13 @@
     "Not oriented x3": "PROBLEM"
   },
   {
-    "acute distress": "PROBLEM"
+    "Pupils": "TEST"
   },
   {
     "Extraocular movements": "TEST"
   },
   {
-    "Mucous membranes are dry": "PROBLEM"
+    "dry": "PROBLEM"
   },
   {
     "thyromegaly": "PROBLEM"
@@ -171,13 +168,10 @@
     "brady": "PROBLEM"
   },
   {
-    "LUNGS": "TEST"
+    "bowel sounds": "TEST"
   },
   {
-    "normoactive bowel sounds": "PROBLEM"
-  },
-  {
-    "Tenderness in the suprapubic region": "PROBLEM"
+    "Tenderness": "PROBLEM"
   },
   {
     "clubbing": "PROBLEM"
@@ -187,9 +181,6 @@
   },
   {
     "edema": "PROBLEM"
-  },
-  {
-    "focality": "PROBLEM"
   },
   {
     "CT of the abdomen": "TEST"
@@ -285,12 +276,6 @@
     "Adrenal gland mass": "PROBLEM"
   },
   {
-    "urology consult": "TREATMENT"
-  },
-  {
-    "renal consult": "TREATMENT"
-  },
-  {
     "Levaquin": "DRUG"
   },
   {
@@ -321,7 +306,7 @@
     "dementia": "PROBLEM"
   },
   {
-    "medications": "DRUG"
+    "dementia medications": "DRUG"
   },
   {
     "PPI": "DRUG"

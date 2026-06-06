@@ -87,9 +87,6 @@
     "apnea": "PROBLEM"
   },
   {
-    "ABDOMEN": "TEST"
-  },
-  {
     "cyanosis": "PROBLEM"
   },
   {
@@ -123,7 +120,7 @@
     "rapid influenza swab": "TEST"
   },
   {
-    "RSV": "TEST"
+    "rapid RSV": "TEST"
   },
   {
     "pertussis PCR swab": "TEST"
@@ -141,7 +138,7 @@
     "afebrile": "PROBLEM"
   },
   {
-    "oxygen": "DRUG"
+    "oxygen": "TREATMENT"
   },
   {
     "coughing": "PROBLEM"

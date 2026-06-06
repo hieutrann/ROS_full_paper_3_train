@@ -9,13 +9,13 @@
     "neuropathy": "PROBLEM"
   },
   {
+    "EMG studies": "TEST"
+  },
+  {
     "A1c": "TEST"
   },
   {
     "BMP": "TEST"
-  },
-  {
-    "Accu-Cheks": "TEST"
   },
   {
     "colonoscopy": "TEST"
@@ -30,30 +30,15 @@
     "insulin": "DRUG"
   },
   {
-    "Accu-Cheks": "DRUG"
+    "medications": "DRUG"
   },
   {
     "colonoscopy": "TREATMENT"
-  },
-  {
-    "stools for occult blood": "TREATMENT"
-  },
-  {
-    "incision and drainage": "TREATMENT"
-  },
-  {
-    "EMG studies": "TEST"
   },
   {
     "yearly eye exams": "TREATMENT"
   },
   {
     "foot exams": "TREATMENT"
-  },
-  {
-    "yearly foot exams": "TREATMENT"
-  },
-  {
-    "yearly eye exams": "TREATMENT"
   }
 ]

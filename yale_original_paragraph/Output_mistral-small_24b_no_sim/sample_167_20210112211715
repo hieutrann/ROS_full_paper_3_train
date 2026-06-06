@@ -1,9 +1,9 @@
 [
   {
-    "Right-sided facial droop": "PROBLEM"
+    "facial droop": "PROBLEM"
   },
   {
-    "Right-sided weakness": "PROBLEM"
+    "right-sided weakness": "PROBLEM"
   },
   {
     "cerebrovascular accident": "PROBLEM"
@@ -12,25 +12,22 @@
     "CT scan": "TEST"
   },
   {
-    "stroke": "PROBLEM"
-  },
-  {
-    "dementia": "PROBLEM"
-  },
-  {
-    "expressive aphasia": "PROBLEM"
-  },
-  {
     "urinary tract infection": "PROBLEM"
   },
   {
     "PENICILLIN": "DRUG"
   },
   {
+    "stroke": "PROBLEM"
+  },
+  {
+    "dementia": "PROBLEM"
+  },
+  {
     "hypertension": "PROBLEM"
   },
   {
-    "Chronic obstructive pulmonary disease": "PROBLEM"
+    "chronic obstructive pulmonary disease": "PROBLEM"
   },
   {
     "anxiety disorder": "PROBLEM"
@@ -48,28 +45,16 @@
     "stool incontinence": "PROBLEM"
   },
   {
-    "Pulse": "TEST"
-  },
-  {
-    "respirations": "TEST"
+    "Temperature": "TEST"
   },
   {
     "blood pressure": "TEST"
   },
   {
-    "facial droop": "PROBLEM"
-  },
-  {
-    "systolic murmur": "PROBLEM"
-  },
-  {
-    "pressure ulcer": "PROBLEM"
-  },
-  {
     "CT scan": "TEST"
   },
   {
-    "Sodium": "TEST"
+    "sodium": "TEST"
   },
   {
     "potassium": "TEST"
@@ -141,10 +126,7 @@
     "multivitamin": "DRUG"
   },
   {
-    "calcium": "DRUG"
-  },
-  {
-    "vitamin D": "DRUG"
+    "calcium with vitamin D": "DRUG"
   },
   {
     "Tylenol": "DRUG"
@@ -153,33 +135,15 @@
     "IV fluids": "TREATMENT"
   },
   {
-    "D5 normal saline": "DRUG"
+    "D5 normal saline": "TREATMENT"
   },
   {
     "potassium": "DRUG"
   },
   {
-    "hypertension": "PROBLEM"
-  },
-  {
-    "right-sided weakness": "PROBLEM"
-  },
-  {
-    "facial droop": "PROBLEM"
-  },
-  {
-    "wheelchair bound": "PROBLEM"
-  },
-  {
-    "blood pressure": "TEST"
-  },
-  {
     "swallowing evaluation": "TEST"
   },
   {
-    "cerebrovascular accident": "PROBLEM"
-  },
-  {
-    "weakness": "PROBLEM"
+    "neuro check": "TEST"
   }
 ]

@@ -1,33 +1,21 @@
 [
   {
-    "vaginal delivery": "TREATMENT"
+    "prematurity": "PROBLEM"
   },
   {
-    "C-sections": "TREATMENT"
+    "sepsis": "PROBLEM"
   },
   {
-    "preterm contractions": "PROBLEM"
+    "Respiratory distress": "PROBLEM"
+  },
+  {
+    "ampicillin": "DRUG"
   },
   {
     "terbutaline": "DRUG"
   },
   {
     "magnesium sulfate": "DRUG"
-  },
-  {
-    "Apgar scores": "TEST"
-  },
-  {
-    "sepsis": "PROBLEM"
-  },
-  {
-    "prematurity": "PROBLEM"
-  },
-  {
-    "prenatal": "TREATMENT"
-  },
-  {
-    "NICU": "TREATMENT"
   },
   {
     "CBC": "TEST"
@@ -39,25 +27,25 @@
     "blood cultures": "TEST"
   },
   {
+    "Apgar scores": "TEST"
+  },
+  {
     "IV fluids": "TREATMENT"
   },
   {
-    "D10": "DRUG"
+    "D10": "TREATMENT"
   },
   {
-    "ampicillin": "DRUG"
+    "Ampicillin": "DRUG"
   },
   {
     "gentamicin": "DRUG"
   },
   {
-    "feeding issues": "PROBLEM"
+    "EBM 22": "TREATMENT"
   },
   {
-    "EBM 22": "DRUG"
-  },
-  {
-    "NeoSure": "DRUG"
+    "NeoSure": "TREATMENT"
   },
   {
     "OG tube": "TREATMENT"
@@ -66,18 +54,15 @@
     "p.o. feeds": "TREATMENT"
   },
   {
-    "respiratory distress": "PROBLEM"
+    "CPR teaching": "TREATMENT"
   },
   {
-    "preemie": "PROBLEM"
+    "Formula feeding schedule": "TREATMENT"
   },
   {
-    "CPR": "TREATMENT"
+    "breast": "TREATMENT"
   },
   {
-    "NeoSure 2": "DRUG"
-  },
-  {
-    "ad lib feeds": "TREATMENT"
+    "NeoSure": "TREATMENT"
   }
 ]

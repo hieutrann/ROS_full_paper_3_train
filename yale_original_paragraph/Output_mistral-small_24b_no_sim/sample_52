@@ -15,6 +15,9 @@
     "shortness of breath": "PROBLEM"
   },
   {
+    "Coumadin": "DRUG"
+  },
+  {
     "atrial fibrillation": "PROBLEM"
   },
   {
@@ -25,9 +28,6 @@
   },
   {
     "ICD implantation": "TREATMENT"
-  },
-  {
-    "Coumadin": "DRUG"
   },
   {
     "blood sugar": "TEST"
@@ -42,19 +42,16 @@
     "Heart rate": "TEST"
   },
   {
+    "Weight": "TEST"
+  },
+  {
     "wheezing": "PROBLEM"
   },
   {
     "crepitations": "PROBLEM"
   },
   {
-    "PMI": "TEST"
-  },
-  {
     "systolic murmur": "PROBLEM"
-  },
-  {
-    "hepatosplenomegaly": "PROBLEM"
   },
   {
     "pedal edema": "PROBLEM"
@@ -108,6 +105,6 @@
     "atrial fibrillation": "PROBLEM"
   },
   {
-    "Coumadin therapy": "DRUG"
+    "Coumadin therapy": "TREATMENT"
   }
 ]

@@ -6,7 +6,7 @@
     "atrial fibrillation": "PROBLEM"
   },
   {
-    "stroke": "PROBLEM"
+    "cardioembolic stroke": "PROBLEM"
   },
   {
     "special procedures": "TREATMENT"
@@ -66,9 +66,6 @@
     "paralyzation": "TREATMENT"
   },
   {
-    "diastolic": "TEST"
-  },
-  {
     "stroke": "PROBLEM"
   },
   {
@@ -78,28 +75,19 @@
     "clot": "PROBLEM"
   },
   {
+    "carotid": "PROBLEM"
+  },
+  {
+    "prognosis": "PROBLEM"
+  },
+  {
     "clot": "PROBLEM"
   },
   {
-    "STAT echocardiogram": "TEST"
-  },
-  {
-    "clot": "PROBLEM"
-  },
-  {
-    "heart": "PROBLEM"
+    "echocardiogram": "TEST"
   },
   {
     "patent foramen ovale": "PROBLEM"
-  },
-  {
-    "clot": "PROBLEM"
-  },
-  {
-    "legs": "PROBLEM"
-  },
-  {
-    "heart": "PROBLEM"
   },
   {
     "Echo": "TEST"
@@ -138,7 +126,7 @@
     "TIA": "PROBLEM"
   },
   {
-    "atrial fibrillation": "PROBLEM"
+    "chronic atrial fibrillation": "PROBLEM"
   },
   {
     "Coumadin": "DRUG"
@@ -163,6 +151,9 @@
   },
   {
     "SULFAS": "DRUG"
+  },
+  {
+    "RASH": "PROBLEM"
   },
   {
     "PROZAC": "DRUG"
@@ -201,6 +192,12 @@
     "Darvocet-N": "DRUG"
   },
   {
+    "drink": "PROBLEM"
+  },
+  {
+    "smoke": "PROBLEM"
+  },
+  {
     "cancer": "PROBLEM"
   },
   {
@@ -219,6 +216,9 @@
     "respirations": "TEST"
   },
   {
+    "history": "TEST"
+  },
+  {
     "white count": "TEST"
   },
   {
@@ -226,6 +226,9 @@
   },
   {
     "blood sugar": "TEST"
+  },
+  {
+    "hemoglobin A1c": "TEST"
   },
   {
     "TSH": "TEST"
@@ -267,7 +270,7 @@
     "shoulder films": "TEST"
   },
   {
-    "CT scan": "TEST"
+    "CT scan of the head": "TEST"
   },
   {
     "Chest x-ray": "TEST"
@@ -279,13 +282,13 @@
     "interstitial opacities": "PROBLEM"
   },
   {
-    "OGD": "PROBLEM"
+    "OGD": "TEST"
   },
   {
     "atherosclerosis": "PROBLEM"
   },
   {
-    "CT scan": "TEST"
+    "CT scan of the head": "TEST"
   },
   {
     "X-rays": "TEST"
@@ -300,13 +303,19 @@
     "mental status": "PROBLEM"
   },
   {
+    "critical condition": "PROBLEM"
+  },
+  {
     "strokes": "PROBLEM"
   },
   {
-    "clot": "PROBLEM"
+    "clot burden": "PROBLEM"
   },
   {
-    "cardiologist": "PROBLEM"
+    "patent foramen ovale": "PROBLEM"
+  },
+  {
+    "cardiologist": "TREATMENT"
   },
   {
     "echocardiogram": "TEST"
@@ -333,6 +342,9 @@
     "emergency retrieval device": "TREATMENT"
   },
   {
+    "interventional radiology": "TREATMENT"
+  },
+  {
     "Hypertension": "PROBLEM"
   },
   {
@@ -348,13 +360,7 @@
     "atrial fibrillation": "PROBLEM"
   },
   {
-    "Cardizem": "DRUG"
-  },
-  {
-    "systolic": "TEST"
-  },
-  {
-    "diastolics": "TEST"
+    "Cardizem drip": "DRUG"
   },
   {
     "atrial fibrillation": "PROBLEM"
@@ -393,7 +399,10 @@
     "hypertension": "PROBLEM"
   },
   {
-    "Digoxin": "DRUG"
+    "cardiology": "PROBLEM"
+  },
+  {
+    "Digoxin level": "TEST"
   },
   {
     "TSH": "TEST"
@@ -406,6 +415,12 @@
   },
   {
     "Respiratory failure": "PROBLEM"
+  },
+  {
+    "ventilator": "TREATMENT"
+  },
+  {
+    "hyperventilate": "TREATMENT"
   },
   {
     "breathing machine": "TREATMENT"
@@ -432,6 +447,12 @@
     "cardiac arrhythmia": "PROBLEM"
   },
   {
+    "alkalosis": "PROBLEM"
+  },
+  {
+    "electrolytes": "TEST"
+  },
+  {
     "Deep vein thrombosis": "PROBLEM"
   },
   {
@@ -439,6 +460,9 @@
   },
   {
     "SCDs": "TREATMENT"
+  },
+  {
+    "vampire/venom": "PROBLEM"
   },
   {
     "DIC": "PROBLEM"
@@ -450,10 +474,13 @@
     "tube feeds": "TREATMENT"
   },
   {
-    "medication": "DRUG"
+    "updates": "TREATMENT"
   },
   {
-    "treatment": "TREATMENT"
+    "neurologic prognosis": "PROBLEM"
+  },
+  {
+    "medication treatment": "TREATMENT"
   },
   {
     "critical care": "TREATMENT"
@@ -468,13 +495,7 @@
     "echocardiogram": "TEST"
   },
   {
-    "foramen ovale": "PROBLEM"
-  },
-  {
-    "atrial fibrillation": "PROBLEM"
-  },
-  {
-    "heart": "PROBLEM"
+    "fibrillation": "PROBLEM"
   },
   {
     "clot": "PROBLEM"

@@ -3,6 +3,9 @@
     "Disseminated Intravascular Coagulation": "PROBLEM"
   },
   {
+    "Disseminated intravascular coagulation": "PROBLEM"
+  },
+  {
     "Streptococcal pneumonia": "PROBLEM"
   },
   {
@@ -54,16 +57,16 @@
     "disseminated intravascular coagulation": "PROBLEM"
   },
   {
-    "prolonged partial thromboplastin time": "TEST"
+    "prolonged partial thromboplastin time": "PROBLEM"
   },
   {
-    "prothrombin time": "TEST"
+    "prothrombin time": "PROBLEM"
   },
   {
-    "low fibrinogen": "TEST"
+    "low fibrinogen": "PROBLEM"
   },
   {
-    "elevated D-dimer": "TEST"
+    "elevated D-dimer": "PROBLEM"
   },
   {
     "Bleeding": "PROBLEM"
@@ -81,22 +84,16 @@
     "illicit drugs": "PROBLEM"
   },
   {
+    "sedated": "PROBLEM"
+  },
+  {
+    "no acute distress": "PROBLEM"
+  },
+  {
     "intubated": "TREATMENT"
   },
   {
-    "VITAL SIGNS": "TEST"
-  },
-  {
-    "rate": "TEST"
-  },
-  {
-    "blood pressure": "TEST"
-  },
-  {
-    "respiratory rate": "TEST"
-  },
-  {
-    "sclerae": "TEST"
+    "sclerae": "PROBLEM"
   },
   {
     "conjunctival hemorrhage": "PROBLEM"
@@ -114,12 +111,6 @@
     "Coarse breath sounds": "PROBLEM"
   },
   {
-    "HEART": "TEST"
-  },
-  {
-    "bowel sounds": "TEST"
-  },
-  {
     "oozing": "PROBLEM"
   },
   {
@@ -133,9 +124,6 @@
   },
   {
     "edema": "PROBLEM"
-  },
-  {
-    "compromise arterial blood flow": "PROBLEM"
   },
   {
     "DIC parameters": "TEST"
@@ -168,19 +156,22 @@
     "factor replacement": "TREATMENT"
   },
   {
+    "simple factor replacement": "TREATMENT"
+  },
+  {
     "Xigris": "DRUG"
   },
   {
     "coagulopathy": "PROBLEM"
   },
   {
-    "elevated fibrinogen": "TEST"
+    "elevated fibrinogen": "PROBLEM"
   },
   {
     "coagulation times": "TEST"
   },
   {
-    "low-dose continuous infusion heparin": "DRUG"
+    "low-dose continuous infusion heparin": "TREATMENT"
   },
   {
     "supportive infusions": "TREATMENT"

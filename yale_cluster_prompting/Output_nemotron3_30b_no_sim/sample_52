@@ -1,0 +1,176 @@
+[
+  {
+    "Cardiology Office Visit - 1": "TEST"
+  },
+  {
+    "HISTORY OF PRESENT ILLNESS": "PROBLEM"
+  },
+  {
+    "pneumonia": "PROBLEM"
+  },
+  {
+    "orthopnea": "PROBLEM"
+  },
+  {
+    "paroxysmal nocturnal dyspnea": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "greenish expectoration": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "Coumadin": "DRUG"
+  },
+  {
+    "atrial fibrillation": "PROBLEM"
+  },
+  {
+    "ischemic heart disease": "PROBLEM"
+  },
+  {
+    "end-stage LV systolic dysfunction": "PROBLEM"
+  },
+  {
+    "ICD implantation": "TREATMENT"
+  },
+  {
+    "Fasting blood sugar this morning is 130.": "TEST"
+  },
+  {
+    "VITAL SIGNS": "TEST"
+  },
+  {
+    "Respirations 18 per minute.": "TEST"
+  },
+  {
+    "Heart rate 75-85 beats per minute, irregular.": "TEST"
+  },
+  {
+    "Weight 207 pounds.": "TEST"
+  },
+  {
+    "Head normocephalic": "PROBLEM"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "Supple.": "PROBLEM"
+  },
+  {
+    "JVP is flat.": "TEST"
+  },
+  {
+    "Carotid upstroke": "TEST"
+  },
+  {
+    "wheezing": "PROBLEM"
+  },
+  {
+    "crepitations": "PROBLEM"
+  },
+  {
+    "PMI": "PROBLEM"
+  },
+  {
+    "First and second heart sounds are normal in character.": "TEST"
+  },
+  {
+    "II/VI systolic murmur": "PROBLEM"
+  },
+  {
+    "Soft": "PROBLEM"
+  },
+  {
+    "hepatosplenomegaly": "PROBLEM"
+  },
+  {
+    "pedal edema": "PROBLEM"
+  },
+  {
+    "Ambien 10 mg at bedtime p.r.n.": "DRUG"
+  },
+  {
+    "Coumadin": "DRUG"
+  },
+  {
+    "Diovan 320 mg daily.": "DRUG"
+  },
+  {
+    "Lantus insulin 50 units in the morning.": "DRUG"
+  },
+  {
+    "Lasix 80 mg daily.": "DRUG"
+  },
+  {
+    "Novolin R p.r.n.": "DRUG"
+  },
+  {
+    "Toprol XL 100 mg daily.": "DRUG"
+  },
+  {
+    "Flovent 100 mcg twice a day.": "DRUG"
+  },
+  {
+    "Atherosclerotic coronary vascular disease": "PROBLEM"
+  },
+  {
+    "old myocardial infarction": "PROBLEM"
+  },
+  {
+    "Moderate to severe LV systolic dysfunction": "PROBLEM"
+  },
+  {
+    "Diabetes mellitus": "PROBLEM"
+  },
+  {
+    "Diabetic nephropathy": "PROBLEM"
+  },
+  {
+    "renal failure": "PROBLEM"
+  },
+  {
+    "ICD implantation": "PROBLEM"
+  },
+  {
+    "atrial fibrillation": "PROBLEM"
+  },
+  {
+    "Chronic Coumadin therapy": "TREATMENT"
+  },
+  {
+    "present therapy": "TREATMENT"
+  },
+  {
+    "pneumonia": "PROBLEM"
+  },
+  {
+    "atherosclerotic coronary vascular disease": "PROBLEM"
+  },
+  {
+    "icd implantation": "TREATMENT"
+  },
+  {
+    "atrial fibrillation": "PROBLEM"
+  },
+  {
+    "myocardial infarction": "PROBLEM"
+  },
+  {
+    "orthopnea": "PROBLEM"
+  },
+  {
+    "paroxysmal nocturnal dyspnea": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "systolic": "PROBLEM"
+  }
+]

@@ -1,18 +1,12 @@
 [
   {
-    "Falls": "PROBLEM"
-  },
-  {
     "Anxiety": "PROBLEM"
   },
   {
     "depression": "PROBLEM"
   },
   {
-    "anxious": "PROBLEM"
-  },
-  {
-    "depressed": "PROBLEM"
+    "Falls": "PROBLEM"
   },
   {
     "chest pain": "PROBLEM"
@@ -28,9 +22,6 @@
   },
   {
     "Darvocet": "DRUG"
-  },
-  {
-    "anxiety": "PROBLEM"
   },
   {
     "depression": "PROBLEM"

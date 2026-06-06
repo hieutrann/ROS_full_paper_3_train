@@ -1,23 +1,29 @@
 [
   {
+    "ENT Exam": "TEST"
+  },
+  {
+    "ear, nose, mouth, and throat exam": "TEST"
+  },
+  {
     "erythema": "PROBLEM"
   },
   {
     "tympanic": "TEST"
   },
   {
-    "mouth": "TEST"
+    "mouth": "PROBLEM"
   },
   {
-    "throat": "TEST"
+    "throat": "PROBLEM"
   },
   {
-    "ears": "TEST"
+    "ears": "PROBLEM"
   },
   {
-    "mucosa": "TEST"
+    "mucosa": "PROBLEM"
   },
   {
-    "nose": "TEST"
+    "nose": "PROBLEM"
   }
 ]

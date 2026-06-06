@@ -60,7 +60,7 @@
     "Foley catheter": "TREATMENT"
   },
   {
-    "right - sided CVA": "PROBLEM"
+    "CVA": "PROBLEM"
   },
   {
     "atrial fibrillation": "PROBLEM"
@@ -216,13 +216,16 @@
     "pacemaker": "TREATMENT"
   },
   {
+    "Clear to auscultation": "TEST"
+  },
+  {
     "obese": "PROBLEM"
   },
   {
-    "Bilateral lower extremities edema": "PROBLEM"
+    "lower extremities edema": "PROBLEM"
   },
   {
-    "mild aphasia": "PROBLEM"
+    "aphasia": "PROBLEM"
   },
   {
     "BUN": "TEST"
@@ -261,10 +264,10 @@
     "culture": "TEST"
   },
   {
-    "guaiac negative status": "TEST"
+    "guaiac": "TEST"
   },
   {
-    "mixed cultures": "PROBLEM"
+    "allergic": "PROBLEM"
   },
   {
     "Septra": "DRUG"
@@ -309,7 +312,7 @@
     "Diabetes": "PROBLEM"
   },
   {
-    "episode of hypoglycemia": "PROBLEM"
+    "hypoglycemia": "PROBLEM"
   },
   {
     "blood sugar": "TEST"
@@ -369,7 +372,7 @@
     "decreased level of consciousness": "PROBLEM"
   },
   {
-    "level of consciousness": "PROBLEM"
+    "level of consciousness": "TEST"
   },
   {
     "urinary tract infection": "PROBLEM"
@@ -381,7 +384,7 @@
     "garbled speech": "PROBLEM"
   },
   {
-    "mental status": "PROBLEM"
+    "mental status": "TEST"
   },
   {
     "confused": "PROBLEM"

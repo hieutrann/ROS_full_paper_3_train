@@ -1,0 +1,119 @@
+[
+  {
+    "pneumonia": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "a probable seizure": "PROBLEM"
+  },
+  {
+    "pneumonia": "PROBLEM"
+  },
+  {
+    "IV antibiotics": "DRUG"
+  },
+  {
+    "p.o.": "TREATMENT"
+  },
+  {
+    "antibiotics": "DRUG"
+  },
+  {
+    "temperature of 102": "PROBLEM"
+  },
+  {
+    "strep": "PROBLEM"
+  },
+  {
+    "penicillin": "DRUG"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "a probable seizure": "PROBLEM"
+  },
+  {
+    "Temperature was 104.5": "PROBLEM"
+  },
+  {
+    "lethargic": "PROBLEM"
+  },
+  {
+    "LP": "TEST"
+  },
+  {
+    "blood cultures": "TEST"
+  },
+  {
+    "CSF": "TEST"
+  },
+  {
+    "alert": "PROBLEM"
+  },
+  {
+    "recovering from anesthesia": "PROBLEM"
+  },
+  {
+    "Head, eyes, ears, nose and throat are unremarkable.": "PROBLEM"
+  },
+  {
+    "Chest is clear to auscultation and percussion.": "TEST"
+  },
+  {
+    "Abdomen is soft.": "PROBLEM"
+  },
+  {
+    "unremarkable": "PROBLEM"
+  },
+  {
+    "White count": "TEST"
+  },
+  {
+    "CSF glucose": "TEST"
+  },
+  {
+    "protein": "TEST"
+  },
+  {
+    "cells": "TEST"
+  },
+  {
+    "Gram-stain": "TEST"
+  },
+  {
+    "febrile seizure": "PROBLEM"
+  },
+  {
+    "readmit the patient": "TREATMENT"
+  },
+  {
+    "her temperature": "PROBLEM"
+  },
+  {
+    "her white count": "PROBLEM"
+  },
+  {
+    "antibiotics": "DRUG"
+  },
+  {
+    "febrile seizure": "PROBLEM"
+  },
+  {
+    "temperature": "TEST"
+  },
+  {
+    "blood count": "TEST"
+  },
+  {
+    "white count": "TEST"
+  },
+  {
+    "pneumonia": "PROBLEM"
+  },
+  {
+    "seizure": "PROBLEM"
+  }
+]

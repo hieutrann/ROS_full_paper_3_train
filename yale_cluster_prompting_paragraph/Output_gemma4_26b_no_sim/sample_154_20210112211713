@@ -72,13 +72,10 @@
     "troponin": "TEST"
   },
   {
-    "Echocardiogram": "TEST"
+    "echocardiogram": "TEST"
   },
   {
     "concentric LVH": "PROBLEM"
-  },
-  {
-    "EF": "TEST"
   },
   {
     "stress test": "TEST"

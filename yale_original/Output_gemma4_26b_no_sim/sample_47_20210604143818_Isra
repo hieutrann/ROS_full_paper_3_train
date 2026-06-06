@@ -24,13 +24,19 @@
     "pain": "PROBLEM"
   },
   {
+    "supplements": "DRUG"
+  },
+  {
     "loose bowel movements": "PROBLEM"
   },
   {
     "bladder control": "PROBLEM"
   },
   {
-    "pain in her hips": "PROBLEM"
+    "pain": "PROBLEM"
+  },
+  {
+    "hips": "PROBLEM"
   },
   {
     "peripheral neuropathy": "PROBLEM"
@@ -45,7 +51,7 @@
     "Type II diabetes mellitus": "PROBLEM"
   },
   {
-    "Generalized fatigue": "PROBLEM"
+    "fatigue": "PROBLEM"
   },
   {
     "weakness": "PROBLEM"
@@ -72,10 +78,10 @@
     "Abdominal pain": "PROBLEM"
   },
   {
-    "nonspecific irritable bowel type symptoms": "PROBLEM"
+    "irritable bowel type symptoms": "PROBLEM"
   },
   {
-    "intermittent diarrhea": "PROBLEM"
+    "diarrhea": "PROBLEM"
   },
   {
     "MI": "PROBLEM"
@@ -99,7 +105,7 @@
     "visual or auditory function": "PROBLEM"
   },
   {
-    "hearing": "TEST"
+    "hearing": "PROBLEM"
   },
   {
     "epistaxis": "PROBLEM"
@@ -216,9 +222,6 @@
     "RESPIRATIONS": "TEST"
   },
   {
-    "Pupils": "TEST"
-  },
-  {
     "tonsillar lesions": "PROBLEM"
   },
   {
@@ -234,13 +237,10 @@
     "adenopathy": "PROBLEM"
   },
   {
-    "clear lungs": "PROBLEM"
+    "Rate": "TEST"
   },
   {
-    "Rate and rhythm": "TEST"
-  },
-  {
-    "S1 and S2": "TEST"
+    "rhythm": "TEST"
   },
   {
     "murmur": "PROBLEM"

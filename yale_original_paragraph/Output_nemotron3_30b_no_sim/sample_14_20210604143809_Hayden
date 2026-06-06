@@ -1,0 +1,125 @@
+[
+  {
+    "Pneumonia": "PROBLEM"
+  },
+  {
+    "Crohn disease": "PROBLEM"
+  },
+  {
+    "protein-losing enteropathy": "PROBLEM"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "anorexia": "PROBLEM"
+  },
+  {
+    "malnutrition": "PROBLEM"
+  },
+  {
+    "anasarca": "PROBLEM"
+  },
+  {
+    "lower extremity edema": "PROBLEM"
+  },
+  {
+    "diarrhea": "PROBLEM"
+  },
+  {
+    "crampy abdominal pain": "PROBLEM"
+  },
+  {
+    "low-grade fevers": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "dyspnea": "PROBLEM"
+  },
+  {
+    "hypoalbuminemia": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "pain in his ankles and knees": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "Streptococcus": "TEST"
+  },
+  {
+    "IV antibiotics": "TREATMENT"
+  },
+  {
+    "Prednisone": "DRUG"
+  },
+  {
+    "Effexor": "DRUG"
+  },
+  {
+    "Folic acid": "DRUG"
+  },
+  {
+    "Norco": "DRUG"
+  },
+  {
+    "small bowel resections": "TREATMENT"
+  },
+  {
+    "Appendectomy": "TREATMENT"
+  },
+  {
+    "vasectomy": "TREATMENT"
+  },
+  {
+    "crackles in the right chest": "TEST"
+  },
+  {
+    "respiratory rate": "TEST"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "pulse": "TEST"
+  },
+  {
+    "temperature": "TEST"
+  },
+  {
+    "white count": "TEST"
+  },
+  {
+    "hemoglobin": "TEST"
+  },
+  {
+    "platelet count": "TEST"
+  },
+  {
+    "sedimentation rate": "TEST"
+  },
+  {
+    "C-reactive protein": "TEST"
+  },
+  {
+    "LDH": "TEST"
+  },
+  {
+    "prealbumin": "TEST"
+  },
+  {
+    "thyroid": "TEST"
+  },
+  {
+    "iron studies": "TEST"
+  }
+]

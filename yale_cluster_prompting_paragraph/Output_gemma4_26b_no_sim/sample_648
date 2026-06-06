@@ -36,12 +36,6 @@
     "Severe chronic obstructive pulmonary disease": "PROBLEM"
   },
   {
-    "Diabetes mellitus": "PROBLEM"
-  },
-  {
-    "Hypothyroidism": "PROBLEM"
-  },
-  {
     "Altered mental status": "PROBLEM"
   },
   {
@@ -96,19 +90,7 @@
     "Nexium": "DRUG"
   },
   {
-    "shortness of breath": "PROBLEM"
-  },
-  {
-    "acute COPD exacerbation": "PROBLEM"
-  },
-  {
     "BiPAP": "TREATMENT"
-  },
-  {
-    "BiPAP": "TREATMENT"
-  },
-  {
-    "exacerbation of COPD": "PROBLEM"
   },
   {
     "bronchitis": "PROBLEM"
@@ -126,7 +108,10 @@
     "endoscopy": "TEST"
   },
   {
-    "diverticular disease of the sigmoid colon": "PROBLEM"
+    "diverticular disease": "PROBLEM"
+  },
+  {
+    "sigmoid colon": "PROBLEM"
   },
   {
     "hemorrhage": "PROBLEM"
@@ -136,9 +121,6 @@
   },
   {
     "Lovenox": "DRUG"
-  },
-  {
-    "bleeding": "PROBLEM"
   },
   {
     "chronic obstructive pulmonary disease": "PROBLEM"
@@ -175,5 +157,11 @@
   },
   {
     "pulmonary disease": "PROBLEM"
+  },
+  {
+    "copd": "PROBLEM"
+  },
+  {
+    "exacerbation": "PROBLEM"
   }
 ]

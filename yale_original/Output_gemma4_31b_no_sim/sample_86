@@ -33,16 +33,19 @@
     "psychotropic medications": "DRUG"
   },
   {
-    "individual, group, and family therapy": "TREATMENT"
+    "individual therapy": "TREATMENT"
+  },
+  {
+    "group therapy": "TREATMENT"
+  },
+  {
+    "family therapy": "TREATMENT"
   },
   {
     "Perceptual disturbances": "PROBLEM"
   },
   {
     "disorganized thoughts": "PROBLEM"
-  },
-  {
-    "suspicious": "PROBLEM"
   },
   {
     "audiovisual hallucinations": "PROBLEM"
@@ -126,6 +129,9 @@
     "heart murmur": "PROBLEM"
   },
   {
+    "H&P exam": "TEST"
+  },
+  {
     "CBC": "TEST"
   },
   {
@@ -136,9 +142,6 @@
   },
   {
     "Major depression, recurrent, with psychotic features": "PROBLEM"
-  },
-  {
-    "acute major medical conditions": "PROBLEM"
   },
   {
     "Psychosocial stressors": "PROBLEM"
@@ -153,10 +156,7 @@
     "perception disturbances": "PROBLEM"
   },
   {
-    "responding to internal stimuli": "PROBLEM"
-  },
-  {
-    "Residential Treatment Center program": "TREATMENT"
+    "Residential Treatment Center": "TREATMENT"
   },
   {
     "lab results": "TEST"

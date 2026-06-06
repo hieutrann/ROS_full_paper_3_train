@@ -18,7 +18,22 @@
     "Ambien": "DRUG"
   },
   {
-    "level of consciousness": "PROBLEM"
+    "EKG": "TEST"
+  },
+  {
+    "UA": "TEST"
+  },
+  {
+    "CBC": "TEST"
+  },
+  {
+    "comprehensive panel": "TEST"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "restart Sinemet": "TREATMENT"
   },
   {
     "altered mental status": "PROBLEM"
@@ -33,24 +48,6 @@
     "decreased level of consciousness": "PROBLEM"
   },
   {
-    "EKG": "TEST"
-  },
-  {
-    "urine": "TEST"
-  },
-  {
-    "UA": "TEST"
-  },
-  {
-    "comprehensive panel": "TEST"
-  },
-  {
-    "CBC": "TEST"
-  },
-  {
-    "IV fluids": "TREATMENT"
-  },
-  {
-    "restart Sinemet": "TREATMENT"
+    "level of consciousness": "TEST"
   }
 ]

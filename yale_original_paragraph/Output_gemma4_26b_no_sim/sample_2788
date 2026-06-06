@@ -1,8 +1,5 @@
 [
   {
-    "Decreased ability to perform daily living activities": "PROBLEM"
-  },
-  {
     "right knee surgery": "TREATMENT"
   },
   {
@@ -13,6 +10,9 @@
   },
   {
     "autologous blood": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
   },
   {
     "Coumadin": "DRUG"
@@ -78,10 +78,16 @@
     "trazodone": "DRUG"
   },
   {
+    "Temperature": "TEST"
+  },
+  {
     "blood pressure": "TEST"
   },
   {
     "pulse": "TEST"
+  },
+  {
+    "respiratory rate": "TEST"
   },
   {
     "O2 saturation": "TEST"
@@ -123,9 +129,6 @@
     "UA": "TEST"
   },
   {
-    "CBC": "TEST"
-  },
-  {
     "white count": "TEST"
   },
   {
@@ -160,9 +163,6 @@
   },
   {
     "Diprosone cream": "DRUG"
-  },
-  {
-    "Toprol-XL": "DRUG"
   },
   {
     "INR": "TEST"

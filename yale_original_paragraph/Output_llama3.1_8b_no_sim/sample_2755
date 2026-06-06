@@ -24,69 +24,27 @@
     "antihistamine": "DRUG"
   },
   {
-    "torso": "TEST"
+    "Toradol": "DRUG"
   },
   {
-    "rash": "TEST"
+    "Morphine": "DRUG"
   },
   {
-    "itchy": "TEST"
+    "Penicillin": "DRUG"
   },
   {
-    "urine": "TEST"
+    "Ampicillin": "DRUG"
   },
   {
-    "throat": "TEST"
+    "itchy rash": "PROBLEM"
   },
   {
-    "lungs": "TEST"
-  },
-  {
-    "cardiac": "TEST"
-  },
-  {
-    "abdomen": "TEST"
-  },
-  {
-    "skin": "TEST"
-  },
-  {
-    "throat": "TEST"
-  },
-  {
-    "lungs": "TEST"
-  },
-  {
-    "cardiac": "TEST"
-  },
-  {
-    "abdomen": "TEST"
-  },
-  {
-    "skin": "TEST"
-  },
-  {
-    "torso": "TEST"
-  },
-  {
-    "rash": "TEST"
-  },
-  {
-    "itchy": "TEST"
-  },
-  {
-    "epinephrine": "TREATMENT"
+    "torso": "TREATMENT"
   },
   {
     "Benadryl": "TREATMENT"
   },
   {
-    "antihistamine": "TREATMENT"
-  },
-  {
-    "incision": "TREATMENT"
-  },
-  {
-    "drainage": "TREATMENT"
+    "epinephrine": "TREATMENT"
   }
 ]

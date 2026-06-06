@@ -1,6 +1,6 @@
 [
   {
-    "severe nausea": "PROBLEM"
+    "nausea": "PROBLEM"
   },
   {
     "abdominal pain": "PROBLEM"
@@ -45,7 +45,16 @@
     "cancer": "PROBLEM"
   },
   {
+    "beers": "DRUG"
+  },
+  {
+    "smokes": "TREATMENT"
+  },
+  {
     "hepatitis": "PROBLEM"
+  },
+  {
+    "blood transfusions": "TREATMENT"
   },
   {
     "obese": "PROBLEM"
@@ -54,16 +63,7 @@
     "scleral icterus": "PROBLEM"
   },
   {
-    "cervical, supraclavicular, or axillary adenopathy": "PROBLEM"
-  },
-  {
-    "HEART": "TEST"
-  },
-  {
-    "murmurs": "PROBLEM"
-  },
-  {
-    "gallops": "PROBLEM"
+    "adenopathy": "PROBLEM"
   },
   {
     "obese": "PROBLEM"
@@ -111,10 +111,13 @@
     "incarcerated umbilical hernia": "PROBLEM"
   },
   {
-    "repair with mesh": "TREATMENT"
+    "repair": "TREATMENT"
   },
   {
-    "sinus rhythm": "TEST"
+    "mesh": "TREATMENT"
+  },
+  {
+    "sinus rhythm": "PROBLEM"
   },
   {
     "ekg": "TEST"

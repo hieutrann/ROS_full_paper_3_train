@@ -12,27 +12,6 @@
     "alcohol abuse": "PROBLEM"
   },
   {
-    "heroin abuse": "PROBLEM"
-  },
-  {
-    "Detox from heroin": "TREATMENT"
-  },
-  {
-    "heroin abuse": "PROBLEM"
-  },
-  {
-    "heroin": "DRUG"
-  },
-  {
-    "cocaine": "DRUG"
-  },
-  {
-    "alcohol abuse": "PROBLEM"
-  },
-  {
-    "heroin abuse": "PROBLEM"
-  },
-  {
     "chronic pain": "PROBLEM"
   },
   {
@@ -40,21 +19,6 @@
   },
   {
     "gunshot wounds": "PROBLEM"
-  },
-  {
-    "injuries": "PROBLEM"
-  },
-  {
-    "chronic pain": "PROBLEM"
-  },
-  {
-    "heroin": "DRUG"
-  },
-  {
-    "heroin": "DRUG"
-  },
-  {
-    "cocaine": "DRUG"
   },
   {
     "headache": "PROBLEM"
@@ -81,15 +45,6 @@
     "abscesses": "PROBLEM"
   },
   {
-    "heroin use": "PROBLEM"
-  },
-  {
-    "alcohol abuse": "PROBLEM"
-  },
-  {
-    "cocaine": "DRUG"
-  },
-  {
     "analgesics": "DRUG"
   },
   {
@@ -106,12 +61,6 @@
   },
   {
     "hypertensive": "PROBLEM"
-  },
-  {
-    "pulse": "TEST"
-  },
-  {
-    "cocaine": "DRUG"
   },
   {
     "jittery": "PROBLEM"
@@ -138,39 +87,9 @@
     "track marks": "PROBLEM"
   },
   {
-    "abscesses": "PROBLEM"
-  },
-  {
-    "DETOXING FROM HEROIN": "TREATMENT"
-  },
-  {
     "clonidine": "DRUG"
   },
   {
     "Phenergan": "DRUG"
-  },
-  {
-    "phenergan": "DRUG"
-  },
-  {
-    "detox from heroin": "TREATMENT"
-  },
-  {
-    "alcohol abuse": "PROBLEM"
-  },
-  {
-    "heroin abuse": "PROBLEM"
-  },
-  {
-    "detox": "TREATMENT"
-  },
-  {
-    "heroin": "DRUG"
-  },
-  {
-    "alcohol": "DRUG"
-  },
-  {
-    "cocaine": "DRUG"
   }
 ]

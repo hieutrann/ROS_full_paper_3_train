@@ -1,6 +1,6 @@
 [
   {
-    "chest pain": "PROBLEM"
+    "coronary artery disease": "PROBLEM"
   },
   {
     "chest tightness": "PROBLEM"
@@ -12,12 +12,6 @@
     "supraventricular tachycardia": "PROBLEM"
   },
   {
-    "coronary artery disease": "PROBLEM"
-  },
-  {
-    "headaches": "PROBLEM"
-  },
-  {
     "migraine headaches": "PROBLEM"
   },
   {
@@ -27,7 +21,7 @@
     "morphine": "DRUG"
   },
   {
-    "nitroglycerin": "DRUG"
+    "marijuana": "DRUG"
   },
   {
     "Dilantin": "DRUG"
@@ -39,6 +33,9 @@
     "Elavil": "DRUG"
   },
   {
+    "nitroglycerin": "DRUG"
+  },
+  {
     "Thorazine": "DRUG"
   },
   {
@@ -48,57 +45,33 @@
     "Phenergan": "DRUG"
   },
   {
-    "cardiac enzymes": "TEST"
-  },
-  {
-    "EKG": "TEST"
-  },
-  {
     "head CT": "TEST"
   },
   {
     "toxicology screen": "TEST"
   },
   {
+    "EKG": "TEST"
+  },
+  {
+    "cardiac enzymes": "TEST"
+  },
+  {
+    "troponin-I": "TEST"
+  },
+  {
+    "CPK-MB": "TEST"
+  },
+  {
+    "myoglobulin": "TEST"
+  },
+  {
     "beta-hCG level": "TEST"
   },
   {
-    "chest pains": "TREATMENT"
+    "physical therapy": "TREATMENT"
   },
   {
-    "psychosomatic component": "TREATMENT"
-  },
-  {
-    "cardiac ablation": "TREATMENT"
-  },
-  {
-    "cardiac stenting": "TREATMENT"
-  },
-  {
-    "mitral valve prolapse": "TREATMENT"
-  },
-  {
-    "pacemaker placement": "TREATMENT"
-  },
-  {
-    "colon cancer": "TREATMENT"
-  },
-  {
-    "breast cancer": "TREATMENT"
-  },
-  {
-    "lumpectomy": "TREATMENT"
-  },
-  {
-    "breast augmentation surgery": "TREATMENT"
-  },
-  {
-    "cholecystectomy": "TREATMENT"
-  },
-  {
-    "left knee surgery": "TREATMENT"
-  },
-  {
-    "removal of half the pancreas": "TREATMENT"
+    "nitroglycerin sublingual": "TREATMENT"
   }
 ]

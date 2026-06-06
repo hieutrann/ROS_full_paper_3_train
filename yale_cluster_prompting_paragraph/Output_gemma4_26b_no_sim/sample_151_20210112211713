@@ -9,10 +9,7 @@
     "Laparoscopic cholecystectomy": "TREATMENT"
   },
   {
-    "laparoscopy": "TREATMENT"
-  },
-  {
-    "open common bile duct exploration": "TREATMENT"
+    "laparoscopy converted to open common bile duct exploration": "TREATMENT"
   },
   {
     "stone extraction": "TREATMENT"
@@ -42,9 +39,6 @@
     "Morbid obesity": "PROBLEM"
   },
   {
-    "bmi of 39.4": "TEST"
-  },
-  {
     "Laparoscopic cholecystectomy": "TREATMENT"
   },
   {
@@ -54,7 +48,7 @@
     "stone extraction": "TREATMENT"
   },
   {
-    "elevated bilirubin": "TEST"
+    "elevated bilirubin": "PROBLEM"
   },
   {
     "common bile duct stone": "PROBLEM"
@@ -63,7 +57,7 @@
     "abdominal pain": "PROBLEM"
   },
   {
-    "elevated bilirubin": "TEST"
+    "elevated bilirubin": "PROBLEM"
   },
   {
     "gallstones": "PROBLEM"
@@ -105,10 +99,16 @@
     "common bile duct exploration": "TREATMENT"
   },
   {
+    "stone was extracted": "TREATMENT"
+  },
+  {
     "incisional pain": "PROBLEM"
   },
   {
     "nausea": "PROBLEM"
+  },
+  {
+    "Jackson-Pratt drain": "TREATMENT"
   },
   {
     "White blood cell count": "TEST"
@@ -135,6 +135,9 @@
     "oral pain medications": "DRUG"
   },
   {
+    "Jackson-Pratt drain": "TREATMENT"
+  },
+  {
     "laboratory studies": "TEST"
   },
   {
@@ -157,32 +160,5 @@
   },
   {
     "pain": "PROBLEM"
-  },
-  {
-    "laparoscopy": "TREATMENT"
-  },
-  {
-    "common bile duct exploration": "TREATMENT"
-  },
-  {
-    "laparoscopic cholecystectomy": "TREATMENT"
-  },
-  {
-    "bile duct": "PROBLEM"
-  },
-  {
-    "choledocholithiasis": "PROBLEM"
-  },
-  {
-    "cholecystectomy": "TREATMENT"
-  },
-  {
-    "cholecystitis": "PROBLEM"
-  },
-  {
-    "laparoscopic": "TREATMENT"
-  },
-  {
-    "hernia": "PROBLEM"
   }
 ]

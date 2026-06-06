@@ -1,0 +1,32 @@
+[
+  {
+    "diabetes mellitus": "PROBLEM"
+  },
+  {
+    "hypercholesterolemia": "PROBLEM"
+  },
+  {
+    "sinusitis": "PROBLEM"
+  },
+  {
+    "accu-cheks": "TEST"
+  },
+  {
+    "Abdominal pain": "PROBLEM"
+  },
+  {
+    "constipation": "PROBLEM"
+  },
+  {
+    "diarrhea": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "weight loss": "PROBLEM"
+  },
+  {
+    "colonoscopy": "TREATMENT"
+  }
+]

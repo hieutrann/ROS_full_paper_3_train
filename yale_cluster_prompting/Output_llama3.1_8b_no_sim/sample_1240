@@ -60,7 +60,7 @@
     "Ms.": "PROBLEM"
   },
   {
-    "ABC": "PROBLEM"
+    "57-year-old woman": "PROBLEM"
   },
   {
     "morbid obesity": "PROBLEM"
@@ -72,16 +72,13 @@
     "obstructive sleep apnea": "PROBLEM"
   },
   {
-    "Bariatric Surgical Center": "TREATMENT"
-  },
-  {
-    "band": "TREATMENT"
+    "placement of a band": "TREATMENT"
   },
   {
     "cholelithiasis": "PROBLEM"
   },
   {
-    "gallbladder": "TREATMENT"
+    "removal of her gallbladder": "TREATMENT"
   },
   {
     "band placement": "TREATMENT"
@@ -96,13 +93,10 @@
     "hyperglycemic": "PROBLEM"
   },
   {
-    "sugar": "TEST"
-  },
-  {
     "blood glucose check": "TEST"
   },
   {
-    "procedure": "TREATMENT"
+    "sugar": "PROBLEM"
   },
   {
     "hyperglycemia": "PROBLEM"
@@ -111,16 +105,13 @@
     "Ms.": "PROBLEM"
   },
   {
-    "hospital": "TEST"
-  },
-  {
     "Dr.": "TREATMENT"
   },
   {
     "insulin drip": "TREATMENT"
   },
   {
-    "sugars": "TEST"
+    "sugars": "PROBLEM"
   },
   {
     "laparoscopic cholecystectomy": "TREATMENT"
@@ -129,7 +120,7 @@
     "difficult intubation": "PROBLEM"
   },
   {
-    "cholecystitis": "PROBLEM"
+    "chronic cholecystitis": "PROBLEM"
   },
   {
     "edema": "PROBLEM"
@@ -138,22 +129,13 @@
     "adhesions of omentum": "PROBLEM"
   },
   {
-    "gallbladder": "PROBLEM"
+    "the procedure": "TREATMENT"
   },
   {
-    "procedure": "TREATMENT"
+    "Postoperative Care Unit": "PROBLEM"
   },
   {
-    "tolerated": "TREATMENT"
-  },
-  {
-    "Postoperative Care Unit": "TEST"
-  },
-  {
-    "floor": "TEST"
-  },
-  {
-    "blood sugar": "TEST"
+    "blood sugar": "PROBLEM"
   },
   {
     "insulin": "DRUG"
@@ -165,19 +147,13 @@
     "Medifast diet": "TREATMENT"
   },
   {
-    "blood glucose": "TEST"
+    "blood glucose": "PROBLEM"
   },
   {
     "Dr.": "TREATMENT"
   },
   {
-    "Friday": "TREATMENT"
-  },
-  {
     "lap band": "TREATMENT"
-  },
-  {
-    "shower": "TREATMENT"
   },
   {
     "wounds": "PROBLEM"
@@ -192,7 +168,10 @@
     "CPAP machine": "TREATMENT"
   },
   {
-    "sugars": "TEST"
+    "sugars": "PROBLEM"
+  },
+  {
+    "hyperglycemia": "PROBLEM"
   },
   {
     "laparoscopic cholecystectomy": "TREATMENT"
@@ -219,9 +198,9 @@
     "sleep apnea": "PROBLEM"
   },
   {
-    "medifast diet": "DRUG"
+    "medifast diet": "TREATMENT"
   },
   {
-    "hyperglycemia": "PROBLEM"
+    "diabetes": "PROBLEM"
   }
 ]

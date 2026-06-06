@@ -3,39 +3,30 @@
     "Hyperglycemia": "PROBLEM"
   },
   {
-    "cholelithiasis": "PROBLEM"
+    "Cholelithiasis": "PROBLEM"
   },
   {
-    "obstructive sleep apnea": "PROBLEM"
+    "Obstructive sleep apnea": "PROBLEM"
   },
   {
-    "diabetes mellitus": "PROBLEM"
+    "Diabetes mellitus": "PROBLEM"
   },
   {
-    "hypertension": "PROBLEM"
+    "Hypertension": "PROBLEM"
   },
   {
-    "cholecystitis": "PROBLEM"
+    "Cholecystitis": "PROBLEM"
   },
   {
-    "laparoscopic cholecystectomy": "TREATMENT"
+    "Laparoscopic cholecystectomy": "TREATMENT"
   },
   {
-    "insulin": "DRUG"
+    "Insulin": "DRUG"
   },
   {
     "CPAP machine": "TREATMENT"
   },
   {
-    "medifast diet": "TREATMENT"
-  },
-  {
-    "morbid obesity": "PROBLEM"
-  },
-  {
-    "sleep apnea": "PROBLEM"
-  },
-  {
-    "diabetes": "PROBLEM"
+    "Narcotic pain medicines": "DRUG"
   }
 ]

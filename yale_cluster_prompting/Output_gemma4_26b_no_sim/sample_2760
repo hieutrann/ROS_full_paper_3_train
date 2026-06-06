@@ -42,9 +42,6 @@
     "congestive heart failure": "PROBLEM"
   },
   {
-    "operation": "TREATMENT"
-  },
-  {
     "open reduction and internal fixation": "TREATMENT"
   },
   {
@@ -52,6 +49,9 @@
   },
   {
     "partial medial meniscectomy": "TREATMENT"
+  },
+  {
+    "nonweightbearing": "TREATMENT"
   },
   {
     "CPM machine": "TREATMENT"

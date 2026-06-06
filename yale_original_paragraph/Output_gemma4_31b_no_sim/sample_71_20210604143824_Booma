@@ -15,9 +15,6 @@
     "decrease in mental alertness": "PROBLEM"
   },
   {
-    "GI symptoms": "PROBLEM"
-  },
-  {
     "sweating": "PROBLEM"
   },
   {
@@ -126,6 +123,9 @@
     "Urinalysis": "TEST"
   },
   {
+    "specific gravity": "TEST"
+  },
+  {
     "CT of the brain": "TEST"
   },
   {
@@ -199,14 +199,5 @@
   },
   {
     "blood pressure medication": "DRUG"
-  },
-  {
-    "mental alertness": "PROBLEM"
-  },
-  {
-    "blood pressure": "TEST"
-  },
-  {
-    "glucose": "TEST"
   }
 ]

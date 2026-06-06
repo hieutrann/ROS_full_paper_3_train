@@ -1,12 +1,6 @@
 [
   {
-    "General Medicine": "PROBLEM"
-  },
-  {
-    "Stasis Ulcer": "PROBLEM"
-  },
-  {
-    "Nonhealing right ankle stasis ulcer": "PROBLEM"
+    "stasis ulcer": "PROBLEM"
   },
   {
     "hypertension": "PROBLEM"
@@ -19,6 +13,9 @@
   },
   {
     "vascular surgery": "TREATMENT"
+  },
+  {
+    "nonhealing right ankle stasis ulcer": "PROBLEM"
   },
   {
     "low-grade fever": "PROBLEM"
@@ -45,10 +42,13 @@
     "Enterobacter": "PROBLEM"
   },
   {
-    "wound center": "TEST"
+    "wound center": "TREATMENT"
   },
   {
-    "wound cultures": "TEST"
+    "surgical management": "TREATMENT"
+  },
+  {
+    "malaise": "PROBLEM"
   },
   {
     "fevers": "PROBLEM"
@@ -90,6 +90,9 @@
     "exploratory laparotomy": "TREATMENT"
   },
   {
+    "abdominal obstruction": "PROBLEM"
+  },
+  {
     "cholecystectomy": "TREATMENT"
   },
   {
@@ -99,10 +102,10 @@
     "stasis ulcers": "PROBLEM"
   },
   {
-    "alcohol drinking": "PROBLEM"
+    "alcohol drinking": "TREATMENT"
   },
   {
-    "cigarette smoker": "PROBLEM"
+    "cigarette smoker": "TREATMENT"
   },
   {
     "Primaxin": "DRUG"
@@ -144,7 +147,7 @@
     "multivitamins with minerals": "DRUG"
   },
   {
-    "Heart rate": "TEST"
+    "heart rate": "TEST"
   },
   {
     "respiratory rate": "TEST"
@@ -159,28 +162,31 @@
     "oxygen saturation": "TEST"
   },
   {
-    "cardiorespiratory distress": "PROBLEM"
+    "height": "TEST"
   },
   {
-    "pink conjunctivae": "PROBLEM"
+    "body weight": "TEST"
   },
   {
-    "anicteric sclerae": "PROBLEM"
+    "conjunctivae": "TEST"
+  },
+  {
+    "sclerae": "TEST"
   },
   {
     "pupils": "TEST"
   },
   {
-    "gross hearing": "TEST"
+    "hearing": "TEST"
   },
   {
     "oral mucosa": "TEST"
   },
   {
-    "oral lesions": "PROBLEM"
+    "oral lesions": "TEST"
   },
   {
-    "neck masses": "PROBLEM"
+    "neck masses": "TEST"
   },
   {
     "thyroid": "TEST"
@@ -189,31 +195,31 @@
     "inspiratory effort": "TEST"
   },
   {
-    "crackles": "PROBLEM"
+    "crackles": "TEST"
   },
   {
-    "wheezes": "PROBLEM"
+    "wheezes": "TEST"
   },
   {
     "cardiac rhythm": "TEST"
   },
   {
-    "thrills": "PROBLEM"
+    "thrills": "TEST"
   },
   {
-    "rubs": "PROBLEM"
+    "rubs": "TEST"
   },
   {
     "bowel sounds": "TEST"
   },
   {
-    "guarding": "PROBLEM"
+    "guarding": "TEST"
   },
   {
-    "rigidity": "PROBLEM"
+    "rigidity": "TEST"
   },
   {
-    "cervical lymphadenopathy": "PROBLEM"
+    "lymphadenopathy": "TEST"
   },
   {
     "range of motion": "TEST"
@@ -222,10 +228,22 @@
     "hyperpigmentation": "PROBLEM"
   },
   {
+    "open wound": "PROBLEM"
+  },
+  {
     "serous drainage": "PROBLEM"
   },
   {
+    "periwound": "PROBLEM"
+  },
+  {
     "erythema": "PROBLEM"
+  },
+  {
+    "warmth": "PROBLEM"
+  },
+  {
+    "tenderness": "PROBLEM"
   },
   {
     "wound edges": "PROBLEM"
@@ -235,9 +253,6 @@
   },
   {
     "affect": "TEST"
-  },
-  {
-    "oriented x3": "TEST"
   },
   {
     "judgment": "TEST"
@@ -264,7 +279,7 @@
     "creatinine": "TEST"
   },
   {
-    "albumin": "TEST"
+    "Albumin": "TEST"
   },
   {
     "AST": "TEST"
@@ -288,19 +303,10 @@
     "atelectasis": "PROBLEM"
   },
   {
-    "hemidiaphragm": "TEST"
+    "hemidiaphragm": "PROBLEM"
   },
   {
     "ileus": "PROBLEM"
-  },
-  {
-    "blood cultures": "TEST"
-  },
-  {
-    "MRI": "TEST"
-  },
-  {
-    "osteomyelitis": "PROBLEM"
   },
   {
     "fevers": "PROBLEM"
@@ -312,30 +318,15 @@
     "venous ulcers": "PROBLEM"
   },
   {
-    "bipedal edema": "PROBLEM"
+    "wound cultures": "TEST"
   },
   {
-    "stasis ulcer": "PROBLEM"
+    "blood cultures": "TEST"
   },
   {
-    "wound": "PROBLEM"
+    "MRI": "TEST"
   },
   {
-    "ankle": "PROBLEM"
-  },
-  {
-    "ulcer": "PROBLEM"
-  },
-  {
-    "hypertension": "PROBLEM"
-  },
-  {
-    "ulcers": "PROBLEM"
-  },
-  {
-    "stasis": "PROBLEM"
-  },
-  {
-    "chronic": "PROBLEM"
+    "osteomyelitis": "PROBLEM"
   }
 ]

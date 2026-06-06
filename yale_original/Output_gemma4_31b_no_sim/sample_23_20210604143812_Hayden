@@ -18,25 +18,16 @@
     "Western Aphasia Battery": "TEST"
   },
   {
-    "speech therapy sessions": "TREATMENT"
-  },
-  {
-    "receptive communication": "PROBLEM"
-  },
-  {
-    "expressive language": "PROBLEM"
-  },
-  {
-    "multimodality communication skills": "PROBLEM"
-  },
-  {
-    "swallowing function and safety": "PROBLEM"
+    "speech therapy": "TREATMENT"
   },
   {
     "modified barium swallow study": "TEST"
   },
   {
     "aspiration": "PROBLEM"
+  },
+  {
+    "medications": "DRUG"
   },
   {
     "G-tube": "TREATMENT"
@@ -48,13 +39,19 @@
     "difficulty stating verbally": "PROBLEM"
   },
   {
-    "marked difficulty with her expressive language abilities": "PROBLEM"
+    "difficulty with her expressive language abilities": "PROBLEM"
   },
   {
     "aphasia quotient": "TEST"
   },
   {
     "unintelligible speech": "PROBLEM"
+  },
+  {
+    "alternative communication device": "TREATMENT"
+  },
+  {
+    "communication device": "TREATMENT"
   },
   {
     "expressive communication": "PROBLEM"
@@ -90,7 +87,7 @@
     "therapy": "TREATMENT"
   },
   {
-    "swallowing": "TEST"
+    "swallowing": "PROBLEM"
   },
   {
     "aspiration": "PROBLEM"

@@ -1,9 +1,12 @@
 [
   {
-    "Toothache": "PROBLEM"
+    "toothache": "PROBLEM"
   },
   {
     "dental disease": "PROBLEM"
+  },
+  {
+    "teeth pulled": "TREATMENT"
   },
   {
     "tooth pain": "PROBLEM"
@@ -28,6 +31,9 @@
   },
   {
     "weakness": "PROBLEM"
+  },
+  {
+    "weight change": "PROBLEM"
   },
   {
     "headache": "PROBLEM"
@@ -64,6 +70,9 @@
   },
   {
     "shortness of breath": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
   },
   {
     "abdominal pain": "PROBLEM"
@@ -105,10 +114,16 @@
     "CODEINE": "DRUG"
   },
   {
+    "Temperature": "TEST"
+  },
+  {
     "blood pressure": "TEST"
   },
   {
     "pulse": "TEST"
+  },
+  {
+    "respirations": "TEST"
   },
   {
     "oxygen saturation": "TEST"
@@ -132,7 +147,7 @@
     "erythema": "PROBLEM"
   },
   {
-    "swelling of canals": "PROBLEM"
+    "swelling": "PROBLEM"
   },
   {
     "bulging": "PROBLEM"
@@ -141,25 +156,13 @@
     "fluid levels": "PROBLEM"
   },
   {
-    "tenderness over the sinuses": "PROBLEM"
+    "tenderness": "PROBLEM"
   },
   {
     "cervical lymphadenopathy": "PROBLEM"
   },
   {
     "dental caries": "PROBLEM"
-  },
-  {
-    "tenderness to tooth #12": "PROBLEM"
-  },
-  {
-    "tenderness to tooth #21": "PROBLEM"
-  },
-  {
-    "purulent or other discharge": "PROBLEM"
-  },
-  {
-    "fluctuance": "PROBLEM"
   },
   {
     "abscess": "PROBLEM"
@@ -169,9 +172,6 @@
   },
   {
     "exudate": "PROBLEM"
-  },
-  {
-    "lesion": "PROBLEM"
   },
   {
     "Ludwig's syndrome": "PROBLEM"

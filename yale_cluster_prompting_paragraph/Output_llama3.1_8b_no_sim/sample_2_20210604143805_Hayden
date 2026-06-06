@@ -3,6 +3,9 @@
     "cognitive-linguistic deficits": "PROBLEM"
   },
   {
+    "cognitive-linguistic deficit": "PROBLEM"
+  },
+  {
     "speech therapy": "TREATMENT"
   },
   {
@@ -22,14 +25,5 @@
   },
   {
     "accuracy": "TEST"
-  },
-  {
-    "linguistic": "PROBLEM"
-  },
-  {
-    "cognitive": "PROBLEM"
-  },
-  {
-    "speech": "TREATMENT"
   }
 ]

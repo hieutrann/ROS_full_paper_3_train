@@ -3,10 +3,7 @@
     "Liver Biopsy": "TEST"
   },
   {
-    "Percutaneous liver biopsy": "TEST"
-  },
-  {
-    "maximal dullness": "PROBLEM"
+    "Percutaneous liver biopsy": "TREATMENT"
   },
   {
     "percussion": "TEST"
@@ -42,19 +39,16 @@
     "death": "PROBLEM"
   },
   {
-    "maximal dullness": "PROBLEM"
-  },
-  {
     "percussion": "TEST"
   },
   {
-    "povidone iodine": "DRUG"
+    "povidone iodine": "TREATMENT"
   },
   {
     "lidocaine": "DRUG"
   },
   {
-    "incision": "TREATMENT"
+    "small incision": "TREATMENT"
   },
   {
     "modified Klatskin needle": "TREATMENT"
@@ -66,10 +60,7 @@
     "Liver cores": "TEST"
   },
   {
-    "Pathology": "TEST"
-  },
-  {
-    "routine histologic study": "TEST"
+    "histologic study": "TEST"
   },
   {
     "abdominal or chest pain": "PROBLEM"
@@ -93,6 +84,9 @@
     "vaccination": "TREATMENT"
   },
   {
+    "surgery": "TREATMENT"
+  },
+  {
     "bile peritonitis": "PROBLEM"
   },
   {
@@ -102,12 +96,21 @@
     "pneumothorax": "PROBLEM"
   },
   {
+    "klatskin needle": "TREATMENT"
+  },
+  {
     "liver biopsy": "TEST"
+  },
+  {
+    "percutaneous": "TREATMENT"
   },
   {
     "lidocaine": "DRUG"
   },
   {
     "biopsy": "TEST"
+  },
+  {
+    "liver": "PROBLEM"
   }
 ]

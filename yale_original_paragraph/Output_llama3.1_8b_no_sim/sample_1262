@@ -3,49 +3,37 @@
     "Mesothelioma": "PROBLEM"
   },
   {
-    "pleural effusion": "PROBLEM"
+    "Pleural effusion": "PROBLEM"
   },
   {
-    "atrial fibrillation": "PROBLEM"
+    "Atrial fibrillation": "PROBLEM"
   },
   {
-    "anemia": "PROBLEM"
+    "Anemia": "PROBLEM"
   },
   {
-    "ascites": "PROBLEM"
+    "Ascites": "PROBLEM"
   },
   {
-    "esophageal reflux": "PROBLEM"
+    "Esophageal reflux": "PROBLEM"
   },
   {
-    "deep venous thrombosis": "PROBLEM"
+    "Deep venous thrombosis": "PROBLEM"
   },
   {
-    "decortication of the lung": "TREATMENT"
+    "Decortication of the lung": "TREATMENT"
   },
   {
-    "pleural biopsy": "TREATMENT"
+    "Pleural biopsy": "TREATMENT"
   },
   {
-    "transpleural fluoroscopy": "TREATMENT"
+    "Transpleural fluoroscopy": "TREATMENT"
   },
   {
-    "thoracentesis": "TREATMENT"
+    "Thoracentesis": "TREATMENT"
   },
   {
     "Port-A-Cath placement": "TREATMENT"
-  },
-  {
-    "pericardectomy": "TREATMENT"
-  },
-  {
-    "pericardial window": "TREATMENT"
-  },
-  {
-    "cholecystectomy": "TREATMENT"
-  },
-  {
-    "left thoracentesis": "TREATMENT"
   },
   {
     "Coumadin": "DRUG"
@@ -54,10 +42,7 @@
     "Amiodarone": "DRUG"
   },
   {
-    "Lovenox": "DRUG"
-  },
-  {
-    "cisplatin": "DRUG"
+    "Cisplatin": "DRUG"
   },
   {
     "Alimta": "DRUG"
@@ -69,21 +54,9 @@
     "Phenergan": "DRUG"
   },
   {
+    "Lovenox": "DRUG"
+  },
+  {
     "Vicodin": "DRUG"
-  },
-  {
-    "chest x-ray": "TEST"
-  },
-  {
-    "echocardiogram": "TEST"
-  },
-  {
-    "CT scan": "TEST"
-  },
-  {
-    "PET CT": "TEST"
-  },
-  {
-    "repeat echocardiogram": "TEST"
   }
 ]

@@ -1,9 +1,9 @@
 [
   {
-    "Refractory anemia": "PROBLEM"
+    "Anemia": "PROBLEM"
   },
   {
-    "transfusion": "TREATMENT"
+    "Refractory anemia": "PROBLEM"
   },
   {
     "anemia": "PROBLEM"
@@ -16,9 +16,6 @@
   },
   {
     "Refractory anemia": "PROBLEM"
-  },
-  {
-    "transfusion": "TREATMENT"
   },
   {
     "blood transfusion": "TREATMENT"
@@ -55,9 +52,6 @@
   },
   {
     "bleeding": "PROBLEM"
-  },
-  {
-    "blood transfusion": "TREATMENT"
   },
   {
     "blood transfusion": "TREATMENT"
@@ -141,22 +135,25 @@
     "Feosol": "DRUG"
   },
   {
-    "tobacco user": "PROBLEM"
-  },
-  {
     "blood or cancer disorders": "PROBLEM"
   },
   {
-    "PHYSICAL EXAMINATION": "TEST"
+    "Blood pressure": "TEST"
   },
   {
-    "acute distress": "PROBLEM"
+    "pulse": "TEST"
   },
   {
-    "VITAL SIGNS": "TEST"
+    "respiratory rate": "TEST"
+  },
+  {
+    "temperature": "TEST"
   },
   {
     "arcus senilis": "PROBLEM"
+  },
+  {
+    "Pupils": "TEST"
   },
   {
     "Extraocular movements": "TEST"
@@ -168,7 +165,7 @@
     "adenopathy": "PROBLEM"
   },
   {
-    "CHEST": "TEST"
+    "Regular rate and rhythm": "TEST"
   },
   {
     "fullness in the left upper quadrant": "PROBLEM"
@@ -243,19 +240,16 @@
     "erythropoietin level": "TEST"
   },
   {
-    "bone marrow aspiration and biopsy": "TEST"
+    "bone marrow aspiration": "TEST"
   },
   {
-    "procedure": "TREATMENT"
+    "biopsy": "TEST"
   },
   {
     "bone marrow": "TEST"
   },
   {
     "refractory anemia": "PROBLEM"
-  },
-  {
-    "therapeutic interventions": "TREATMENT"
   },
   {
     "ultrasound of his abdomen": "TEST"
@@ -286,9 +280,6 @@
   },
   {
     "blood transfusion": "TREATMENT"
-  },
-  {
-    "bone marrow": "TEST"
   },
   {
     "refractory anemia": "PROBLEM"

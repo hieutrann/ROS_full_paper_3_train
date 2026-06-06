@@ -1,6 +1,6 @@
 [
   {
-    "non-small cell lung carcinoma": "PROBLEM"
+    "advanced non-small cell lung carcinoma": "PROBLEM"
   },
   {
     "left malignant pleural effusion": "PROBLEM"
@@ -99,15 +99,12 @@
     "mechanical ventilatory support": "TREATMENT"
   },
   {
+    "extubated": "TREATMENT"
+  },
+  {
     "chemotherapy": "TREATMENT"
   },
   {
     "withdrawal of the life support": "TREATMENT"
-  },
-  {
-    "lung carcinoma": "PROBLEM"
-  },
-  {
-    "pleural effusion": "PROBLEM"
   }
 ]

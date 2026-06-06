@@ -24,10 +24,7 @@
     "pain": "PROBLEM"
   },
   {
-    "symptoms": "PROBLEM"
-  },
-  {
-    "numbness in the first and second fingers of her right hand": "PROBLEM"
+    "numbness": "PROBLEM"
   },
   {
     "RUE pain": "PROBLEM"
@@ -36,10 +33,10 @@
     "throbbing pain": "PROBLEM"
   },
   {
-    "numbness in both lower extremities": "PROBLEM"
+    "numbness": "PROBLEM"
   },
   {
-    "pain in the coccygeal region": "PROBLEM"
+    "pain": "PROBLEM"
   },
   {
     "pains": "PROBLEM"
@@ -78,13 +75,16 @@
     "Vital signs": "TEST"
   },
   {
+    "unremarkable": "PROBLEM"
+  },
+  {
     "LT/PP/VIB/TEMP/PROP testing": "TEST"
   },
   {
     "Reflexes": "TEST"
   },
   {
-    "absent right ankle reflex": "PROBLEM"
+    "right ankle reflex": "TEST"
   },
   {
     "Plantar responses": "TEST"
@@ -111,10 +111,16 @@
     "NCV": "TEST"
   },
   {
-    "sharps and fibrillations": "PROBLEM"
+    "sharps": "PROBLEM"
   },
   {
-    "sharps and fibrillations": "PROBLEM"
+    "fibrillations": "PROBLEM"
+  },
+  {
+    "sharps": "PROBLEM"
+  },
+  {
+    "fibrillations": "PROBLEM"
   },
   {
     "increased insertional activity": "PROBLEM"
@@ -151,9 +157,6 @@
   },
   {
     "reflexes": "TEST"
-  },
-  {
-    "biceps": "TEST"
   },
   {
     "mri": "TEST"

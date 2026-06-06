@@ -1,12 +1,12 @@
 [
   {
-    "severe nausea": "PROBLEM"
+    "nausea": "PROBLEM"
   },
   {
     "abdominal pain": "PROBLEM"
   },
   {
-    "severe nausea": "PROBLEM"
+    "nausea": "PROBLEM"
   },
   {
     "abdominal pain": "PROBLEM"
@@ -27,9 +27,6 @@
     "pain": "PROBLEM"
   },
   {
-    "definitive repair": "TREATMENT"
-  },
-  {
     "hemorrhoidectomy": "TREATMENT"
   },
   {
@@ -45,16 +42,10 @@
     "Remeron": "DRUG"
   },
   {
-    "cancer": "PROBLEM"
-  },
-  {
     "hepatitis": "PROBLEM"
   },
   {
     "obese": "PROBLEM"
-  },
-  {
-    "mild distress": "PROBLEM"
   },
   {
     "scleral icterus": "PROBLEM"
@@ -63,7 +54,10 @@
     "adenopathy": "PROBLEM"
   },
   {
-    "HEART": "TEST"
+    "murmurs": "TEST"
+  },
+  {
+    "gallops": "TEST"
   },
   {
     "obese": "PROBLEM"
@@ -78,10 +72,7 @@
     "defect in the umbilicus": "PROBLEM"
   },
   {
-    "traction": "TREATMENT"
-  },
-  {
-    "Normal sinus rhythm": "PROBLEM"
+    "Normal sinus rhythm": "TEST"
   },
   {
     "EKG": "TEST"
@@ -117,7 +108,7 @@
     "repair with mesh": "TREATMENT"
   },
   {
-    "sinus rhythm": "PROBLEM"
+    "sinus rhythm": "TEST"
   },
   {
     "ekg": "TEST"
@@ -133,8 +124,5 @@
   },
   {
     "umbilical hernia": "PROBLEM"
-  },
-  {
-    "incarcerated": "PROBLEM"
   }
 ]

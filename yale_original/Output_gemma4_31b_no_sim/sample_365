@@ -15,7 +15,7 @@
     "tingling": "PROBLEM"
   },
   {
-    "pain in the toes": "PROBLEM"
+    "pain": "PROBLEM"
   },
   {
     "moderate pain": "PROBLEM"
@@ -99,16 +99,13 @@
     "Port-A-Cath": "TREATMENT"
   },
   {
-    "left total knee arthroplasty": "TREATMENT"
+    "total knee arthroplasty": "TREATMENT"
   },
   {
-    "left hip pinning": "TREATMENT"
+    "hip pinning": "TREATMENT"
   },
   {
     "fracture": "PROBLEM"
-  },
-  {
-    "pins removed": "TREATMENT"
   },
   {
     "colonoscopies": "TEST"
@@ -117,13 +114,13 @@
     "right total knee arthroplasty": "TREATMENT"
   },
   {
-    "synovitis of the left knee": "PROBLEM"
+    "synovitis": "PROBLEM"
   },
   {
     "zoster": "PROBLEM"
   },
   {
-    "infection of the left knee": "PROBLEM"
+    "infection": "PROBLEM"
   },
   {
     "labyrinthitis": "PROBLEM"
@@ -195,6 +192,9 @@
     "sore throat": "PROBLEM"
   },
   {
+    "glasses": "TREATMENT"
+  },
+  {
     "cough": "PROBLEM"
   },
   {
@@ -231,7 +231,7 @@
     "insomnia": "PROBLEM"
   },
   {
-    "spot on her right cheek": "PROBLEM"
+    "spot": "PROBLEM"
   },
   {
     "precancerous condition": "PROBLEM"
@@ -258,13 +258,7 @@
     "Weight": "TEST"
   },
   {
-    "Pupils": "TEST"
-  },
-  {
-    "Extraocular movements": "TEST"
-  },
-  {
-    "Fundi": "TEST"
+    "benign": "PROBLEM"
   },
   {
     "TMs": "TEST"
@@ -280,12 +274,6 @@
   },
   {
     "thyromegaly": "PROBLEM"
-  },
-  {
-    "Lungs": "TEST"
-  },
-  {
-    "Heart": "TEST"
   },
   {
     "murmur": "PROBLEM"
@@ -342,22 +330,22 @@
     "focal neurologic deficits": "PROBLEM"
   },
   {
-    "external genitalia were atrophic": "PROBLEM"
-  },
-  {
-    "Vaginal rugae": "TEST"
+    "external genitalia": "PROBLEM"
   },
   {
     "atrophic": "PROBLEM"
   },
   {
-    "Cervix was surgically absent": "PROBLEM"
+    "atrophic": "PROBLEM"
+  },
+  {
+    "surgically absent": "PROBLEM"
   },
   {
     "Bimanual exam": "TEST"
   },
   {
-    "absence of uterus": "PROBLEM"
+    "uterus": "PROBLEM"
   },
   {
     "cervix": "PROBLEM"
@@ -366,7 +354,7 @@
     "ovaries": "PROBLEM"
   },
   {
-    "Rectal": "TEST"
+    "Rectal Exam": "TEST"
   },
   {
     "brown stool": "PROBLEM"

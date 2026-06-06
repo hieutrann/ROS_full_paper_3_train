@@ -48,9 +48,6 @@
     "Norvasc": "DRUG"
   },
   {
-    "blood pressure": "TEST"
-  },
-  {
     "glucose supplement": "DRUG"
   },
   {
@@ -72,9 +69,6 @@
     "aspirin": "DRUG"
   },
   {
-    "acute distress": "PROBLEM"
-  },
-  {
     "sinus tenderness": "PROBLEM"
   },
   {
@@ -82,9 +76,6 @@
   },
   {
     "laceration": "PROBLEM"
-  },
-  {
-    "Extraocular movements": "TEST"
   },
   {
     "Dry mucosal linings": "PROBLEM"
@@ -99,16 +90,10 @@
     "S2": "TEST"
   },
   {
-    "LUNGS": "TEST"
-  },
-  {
     "rales": "PROBLEM"
   },
   {
     "wheeze": "PROBLEM"
-  },
-  {
-    "bowel sounds": "TEST"
   },
   {
     "organomegaly": "PROBLEM"
@@ -165,7 +150,7 @@
     "Chest x-ray": "TEST"
   },
   {
-    "acute cardiomegaly": "PROBLEM"
+    "cardiomegaly": "PROBLEM"
   },
   {
     "infiltrates": "PROBLEM"
@@ -231,6 +216,12 @@
     "blood pressure medication": "DRUG"
   },
   {
+    "mental alertness": "PROBLEM"
+  },
+  {
     "blood pressure": "TEST"
+  },
+  {
+    "glucose": "TEST"
   }
 ]

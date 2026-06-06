@@ -1,0 +1,62 @@
+[
+  {
+    "Cholecystitis": "PROBLEM"
+  },
+  {
+    "choledocholithiasis": "PROBLEM"
+  },
+  {
+    "Laparoscopic cholecystectomy": "TREATMENT"
+  },
+  {
+    "laparoscopy converted to open common bile duct exploration": "TREATMENT"
+  },
+  {
+    "common bile duct exploration": "TREATMENT"
+  },
+  {
+    "stone extraction": "TREATMENT"
+  },
+  {
+    "Roux-en-y gastric bypass": "TREATMENT"
+  },
+  {
+    "laparoscopic paraventral hernia": "PROBLEM"
+  },
+  {
+    "sleep apnea": "PROBLEM"
+  },
+  {
+    "morbid obesity": "PROBLEM"
+  },
+  {
+    "bmi of 39.4": "PROBLEM"
+  },
+  {
+    "HIDA scan": "TEST"
+  },
+  {
+    "cholangiogram": "TEST"
+  },
+  {
+    "Jackson-Pratt drain": "TREATMENT"
+  },
+  {
+    "Foley catheter": "TEST"
+  },
+  {
+    "liquid diet": "TREATMENT"
+  },
+  {
+    "regular diet": "TREATMENT"
+  },
+  {
+    "Jackson-Pratt drain discontinued": "TREATMENT"
+  },
+  {
+    "iron 325 mg p.o. t.i.d.": "TREATMENT"
+  },
+  {
+    "Lortab elixir 15 cc p.o. q.4 h. p.r.n. for pain": "TREATMENT"
+  }
+]

@@ -1,8 +1,5 @@
 [
   {
-    "Fit for duty evaluation": "TEST"
-  },
-  {
     "right shoulder pain": "PROBLEM"
   },
   {
@@ -15,10 +12,7 @@
     "pain": "PROBLEM"
   },
   {
-    "upper extremity": "PROBLEM"
-  },
-  {
-    "Focal lateral and posterior shoulder pain": "PROBLEM"
+    "shoulder pain": "PROBLEM"
   },
   {
     "cervical radiculopathies": "PROBLEM"
@@ -63,22 +57,19 @@
     "temperature": "TEST"
   },
   {
-    "acute distress": "PROBLEM"
-  },
-  {
     "Gross neurologic examination": "TEST"
   },
   {
     "ENT examination": "TEST"
   },
   {
-    "oropharynx": "PROBLEM"
+    "oropharynx": "TEST"
   },
   {
-    "nasopharynx": "PROBLEM"
+    "nasopharynx": "TEST"
   },
   {
-    "tympanic membranes": "PROBLEM"
+    "tympanic membranes": "TEST"
   },
   {
     "adenopathy": "PROBLEM"
@@ -87,13 +78,16 @@
     "thyromegaly": "PROBLEM"
   },
   {
-    "mild to moderately tender": "PROBLEM"
+    "tender": "PROBLEM"
+  },
+  {
+    "range of motion": "TEST"
   },
   {
     "pain": "PROBLEM"
   },
   {
-    "flexion of 120 degrees": "PROBLEM"
+    "flexion": "TEST"
   },
   {
     "Neer's": "TEST"
@@ -114,7 +108,7 @@
     "Yergason's testing": "TEST"
   },
   {
-    "Two view x-rays": "TEST"
+    "x-rays": "TEST"
   },
   {
     "osseous abnormalities": "PROBLEM"
@@ -150,7 +144,7 @@
     "x-rays": "TEST"
   },
   {
-    "neurologic abnormalities": "PROBLEM"
+    "abnormalities": "PROBLEM"
   },
   {
     "impingement": "PROBLEM"

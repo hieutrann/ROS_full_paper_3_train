@@ -1,5 +1,14 @@
 [
   {
+    "Physical Exam": "TEST"
+  },
+  {
+    "GCS": "TEST"
+  },
+  {
+    "Blood pressure": "TEST"
+  },
+  {
     "pulse": "TEST"
   },
   {
@@ -12,82 +21,28 @@
     "pulse oximetry": "TEST"
   },
   {
-    "GCS": "TEST"
-  },
-  {
-    "eyes": "TEST"
-  },
-  {
-    "pupils": "TEST"
-  },
-  {
-    "funduscopic exam": "TEST"
-  },
-  {
-    "ears": "TEST"
-  },
-  {
-    "nares": "TEST"
-  },
-  {
-    "septum": "TEST"
-  },
-  {
-    "tympanic membranes": "TEST"
-  },
-  {
-    "canals": "TEST"
+    "Funduscopic exam": "TEST"
   },
   {
     "hearing": "TEST"
   },
   {
-    "lips": "TEST"
-  },
-  {
-    "teeth": "TEST"
-  },
-  {
-    "gums": "TEST"
-  },
-  {
-    "palate": "TEST"
-  },
-  {
-    "posterior oropharynx": "TEST"
-  },
-  {
-    "tonsillar": "TEST"
-  },
-  {
-    "neck": "TEST"
-  },
-  {
-    "thyroid": "TEST"
+    "tympanic membranes": "TEST"
   },
   {
     "JVD": "TEST"
   },
   {
-    "respiratory": "TEST"
+    "respiratory effort": "TEST"
   },
   {
-    "auscultation": "TEST"
+    "egophony": "TEST"
   },
   {
-    "percussion": "TEST"
+    "tactile fremitus": "TEST"
   },
   {
-    "chest": "TEST"
-  },
-  {
-    "cardiovascular": "TEST"
-  },
-  {
-    "rate": "TEST"
-  },
-  {
-    "rhythm": "TEST"
+    "rate and rhythm": "TEST"
   },
   {
     "murmur": "TEST"
@@ -105,22 +60,13 @@
     "rub": "TEST"
   },
   {
-    "cardiac palpation": "TEST"
+    "Cardiac palpation": "TEST"
   },
   {
     "pulses": "TEST"
   },
   {
-    "femoral": "TEST"
-  },
-  {
-    "pedal": "TEST"
-  },
-  {
     "peripheral edema": "TEST"
-  },
-  {
-    "gastrointestinal": "TEST"
   },
   {
     "tenderness": "TEST"
@@ -138,9 +84,6 @@
     "bowel sounds": "TEST"
   },
   {
-    "abdomen": "TEST"
-  },
-  {
     "rebound": "TEST"
   },
   {
@@ -153,22 +96,19 @@
     "ecchymosis": "TEST"
   },
   {
-    "musculoskeletal": "TEST"
-  },
-  {
     "gait": "TEST"
   },
   {
     "station": "TEST"
   },
   {
+    "pathology": "TEST"
+  },
+  {
     "digits": "TEST"
   },
   {
     "nails": "TEST"
-  },
-  {
-    "extremities": "TEST"
   },
   {
     "effusion": "TEST"
@@ -183,9 +123,6 @@
     "tone": "TEST"
   },
   {
-    "back": "TEST"
-  },
-  {
     "flexion": "TEST"
   },
   {
@@ -195,25 +132,13 @@
     "sidebending": "TEST"
   },
   {
-    "skin": "TEST"
-  },
-  {
     "diaphoresis": "TEST"
   },
   {
     "wound": "TEST"
   },
   {
-    "lymph": "TEST"
-  },
-  {
-    "cervical lymph nodes": "TEST"
-  },
-  {
     "lymphadenopathy": "TEST"
-  },
-  {
-    "neurological": "TEST"
   },
   {
     "cranial nerves": "TEST"
@@ -222,13 +147,10 @@
     "DTRs": "TEST"
   },
   {
-    "motor strength": "TEST"
+    "Motor strength": "TEST"
   },
   {
-    "straight leg raise": "TEST"
-  },
-  {
-    "psychiatric": "TEST"
+    "Straight leg raise": "TEST"
   },
   {
     "judgment": "TEST"
@@ -243,15 +165,63 @@
     "mood": "TEST"
   },
   {
-    "delusions": "TEST"
+    "delusions": "PROBLEM"
   },
   {
-    "hallucinations": "TEST"
+    "hallucinations": "PROBLEM"
   },
   {
-    "suicidal": "TEST"
+    "suicidal ideation": "PROBLEM"
   },
   {
-    "homicidal": "TEST"
+    "homicidal ideation": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "bulging": "PROBLEM"
+  },
+  {
+    "retraction": "PROBLEM"
+  },
+  {
+    "hemorrhages": "PROBLEM"
+  },
+  {
+    "discopathy": "PROBLEM"
+  },
+  {
+    "tonsillar enlargement": "PROBLEM"
+  },
+  {
+    "crypt formation": "PROBLEM"
+  },
+  {
+    "abscess": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "JVD": "PROBLEM"
+  },
+  {
+    "tenderness": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "nondistended": "PROBLEM"
+  },
+  {
+    "nontender": "PROBLEM"
+  },
+  {
+    "pathology": "PROBLEM"
   }
 ]

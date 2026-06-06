@@ -1,9 +1,15 @@
 [
   {
+    "work": "PROBLEM"
+  },
+  {
+    "Fit for duty evaluation": "TEST"
+  },
+  {
     "right shoulder pain": "PROBLEM"
   },
   {
-    "week": "PROBLEM"
+    "cardboard": "PROBLEM"
   },
   {
     "popping sensation": "PROBLEM"
@@ -15,19 +21,13 @@
     "pain": "PROBLEM"
   },
   {
-    "posterior": "PROBLEM"
-  },
-  {
-    "lateral": "PROBLEM"
-  },
-  {
-    "shoulder": "PROBLEM"
-  },
-  {
     "shoulder pain": "PROBLEM"
   },
   {
-    "chronic cardiac": "PROBLEM"
+    "cervical radiculopathies": "PROBLEM"
+  },
+  {
+    "cardiac": "PROBLEM"
   },
   {
     "pulmonary": "PROBLEM"
@@ -66,10 +66,13 @@
     "temperature": "TEST"
   },
   {
+    "acute distress": "PROBLEM"
+  },
+  {
     "Skin": "PROBLEM"
   },
   {
-    "ENT": "TEST"
+    "ENT examination": "TEST"
   },
   {
     "adenopathy": "PROBLEM"
@@ -78,16 +81,10 @@
     "thyromegaly": "PROBLEM"
   },
   {
-    "Cardiovascular": "TEST"
-  },
-  {
     "Lungs": "TEST"
   },
   {
-    "Abdomen": "TEST"
-  },
-  {
-    "shoulder": "PROBLEM"
+    "Abdomen": "PROBLEM"
   },
   {
     "tender": "PROBLEM"
@@ -96,25 +93,22 @@
     "subacromial space": "PROBLEM"
   },
   {
-    "range of motion": "TEST"
-  },
-  {
-    "abduction": "TEST"
-  },
-  {
     "pain": "PROBLEM"
   },
   {
-    "flexion": "TEST"
+    "120 degrees": "TEST"
   },
   {
-    "Neer's": "TEST"
+    "flexion": "PROBLEM"
   },
   {
-    "Hawkins": "TEST"
+    "Neer's impingement testing": "TEST"
   },
   {
-    "sulcus": "TEST"
+    "Hawkins impingement testing": "TEST"
+  },
+  {
+    "sulcus": "PROBLEM"
   },
   {
     "apprehension": "PROBLEM"
@@ -144,7 +138,34 @@
     "impingement": "PROBLEM"
   },
   {
+    "pain": "PROBLEM"
+  },
+  {
     "MRI": "TEST"
+  },
+  {
+    "general medicine": "TEST"
+  },
+  {
+    "return to work": "TREATMENT"
+  },
+  {
+    "consult": "TREATMENT"
+  },
+  {
+    "fit for duty": "TREATMENT"
+  },
+  {
+    "cleared for work": "TREATMENT"
+  },
+  {
+    "muscular": "PROBLEM"
+  },
+  {
+    "paresthesias": "PROBLEM"
+  },
+  {
+    "shoulder": "PROBLEM"
   },
   {
     "shoulder pain": "PROBLEM"
@@ -153,10 +174,22 @@
     "strain": "PROBLEM"
   },
   {
+    "waist": "PROBLEM"
+  },
+  {
     "x-rays": "TEST"
   },
   {
-    "neurologic abnormalities": "PROBLEM"
+    "waist level": "PROBLEM"
+  },
+  {
+    "neurologic": "PROBLEM"
+  },
+  {
+    "abnormalities": "PROBLEM"
+  },
+  {
+    "impingement": "PROBLEM"
   },
   {
     "examination": "TEST"

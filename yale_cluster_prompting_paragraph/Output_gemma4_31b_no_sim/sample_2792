@@ -15,7 +15,16 @@
     "depressed": "PROBLEM"
   },
   {
+    "Falls": "PROBLEM"
+  },
+  {
     "increased anxiety": "PROBLEM"
+  },
+  {
+    "anxious": "PROBLEM"
+  },
+  {
+    "depressed": "PROBLEM"
   },
   {
     "chest pain": "PROBLEM"
@@ -36,7 +45,10 @@
     "Darvocet": "DRUG"
   },
   {
-    "decline": "PROBLEM"
+    "anxiety": "PROBLEM"
+  },
+  {
+    "depression": "PROBLEM"
   },
   {
     "SI": "PROBLEM"
@@ -54,13 +66,19 @@
     "psychiatric evaluation": "TEST"
   },
   {
+    "depression": "PROBLEM"
+  },
+  {
+    "anxiety": "PROBLEM"
+  },
+  {
     "Paxil": "DRUG"
   },
   {
     "Xanax": "DRUG"
   },
   {
-    "rehabilitation program": "TREATMENT"
+    "falls": "PROBLEM"
   },
   {
     "Falls": "PROBLEM"

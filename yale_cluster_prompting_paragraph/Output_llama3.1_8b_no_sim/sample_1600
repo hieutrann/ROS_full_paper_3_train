@@ -1,24 +1,18 @@
 [
   {
-    "preeclampsia": "PROBLEM"
-  },
-  {
-    "cesarean section": "TREATMENT"
-  },
-  {
-    "blood pressure": "PROBLEM"
-  },
-  {
-    "uncontrolled blood pressure": "PROBLEM"
-  },
-  {
-    "gestational diabetes mellitus": "PROBLEM"
+    "Preeclampsia": "PROBLEM"
   },
   {
     "hypertension": "PROBLEM"
   },
   {
-    "cardizem": "DRUG"
+    "gestational diabetes mellitus": "PROBLEM"
+  },
+  {
+    "cesarean section": "TREATMENT"
+  },
+  {
+    "Cardizem": "DRUG"
   },
   {
     "metoprolol": "DRUG"
@@ -39,6 +33,6 @@
     "echocardiogram": "TEST"
   },
   {
-    "left ventricular function": "TEST"
+    "lungs": "PROBLEM"
   }
 ]

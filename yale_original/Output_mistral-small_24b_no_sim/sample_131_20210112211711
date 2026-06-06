@@ -108,10 +108,7 @@
     "chest pain": "PROBLEM"
   },
   {
-    "dyspnea on exertion": "PROBLEM"
-  },
-  {
-    "palpations": "PROBLEM"
+    "dyspnea": "PROBLEM"
   },
   {
     "edema": "PROBLEM"
@@ -183,7 +180,7 @@
     "back pain": "PROBLEM"
   },
   {
-    "PSYCHIATRIC": "PROBLEM"
+    "psychiatric evaluation": "TEST"
   },
   {
     "diabetes mellitus": "PROBLEM"
@@ -196,5 +193,11 @@
   },
   {
     "weakness": "PROBLEM"
+  },
+  {
+    "weakness": "PROBLEM"
+  },
+  {
+    "neurologic": "PROBLEM"
   }
 ]

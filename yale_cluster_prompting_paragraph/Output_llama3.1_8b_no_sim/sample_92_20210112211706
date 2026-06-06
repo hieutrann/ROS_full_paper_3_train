@@ -1,6 +1,6 @@
 [
   {
-    "Crohn disease": "PROBLEM"
+    "stasis ulcer": "PROBLEM"
   },
   {
     "hypertension": "PROBLEM"
@@ -12,10 +12,16 @@
     "venous ulcers": "PROBLEM"
   },
   {
-    "stasis ulcer": "PROBLEM"
+    "bipedal edema": "PROBLEM"
   },
   {
     "fevers": "PROBLEM"
+  },
+  {
+    "wound cultures": "TEST"
+  },
+  {
+    "MRI": "TEST"
   },
   {
     "Primaxin": "DRUG"
@@ -57,19 +63,13 @@
     "multivitamins with minerals": "DRUG"
   },
   {
-    "chest x-ray": "TEST"
+    "an EGD": "TEST"
   },
   {
-    "MRI": "TEST"
+    "colonoscopy": "TEST"
   },
   {
-    "wound cultures": "TEST"
-  },
-  {
-    "blood cultures": "TEST"
-  },
-  {
-    "incision and drainage": "TREATMENT"
+    "barium enema": "TREATMENT"
   },
   {
     "vascular surgery": "TREATMENT"

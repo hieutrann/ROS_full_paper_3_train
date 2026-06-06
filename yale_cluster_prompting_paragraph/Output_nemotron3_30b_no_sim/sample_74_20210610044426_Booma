@@ -1,0 +1,1739 @@
+[
+  {
+    "Multiple Sclerosis": "PROBLEM"
+  },
+  {
+    "Dyspepsia": "PROBLEM"
+  },
+  {
+    "Rebif": "DRUG"
+  },
+  {
+    "Pantoprazole Sodium": "DRUG"
+  },
+  {
+    "Levoxyl": "DRUG"
+  },
+  {
+    "Flovent HFA": "DRUG"
+  },
+  {
+    "ProAir HFA": "DRUG"
+  },
+  {
+    "Accu-Chek Softclix Lancets": "TEST"
+  },
+  {
+    "Babinski reflex": "TEST"
+  },
+  {
+    "Ankle Clonus": "TEST"
+  },
+  {
+    "deep tendon reflexes": "TEST"
+  },
+  {
+    "Brachioradialis": "TEST"
+  },
+  {
+    "Biceps": "TEST"
+  },
+  {
+    "Triceps": "TEST"
+  },
+  {
+    "Patella": "TEST"
+  },
+  {
+    "Ankle Jerk": "TEST"
+  },
+  {
+    "Gait": "TEST"
+  },
+  {
+    "Motor Strength": "TEST"
+  },
+  {
+    "Motor Survey": "TEST"
+  },
+  {
+    "Cranial nerves II": "TEST"
+  },
+  {
+    "Cranial nerves III": "TEST"
+  },
+  {
+    "Cranial nerves IV": "TEST"
+  },
+  {
+    "Cranial nerves VI": "TEST"
+  },
+  {
+    "Cranial nerves V": "TEST"
+  },
+  {
+    "Cranial nerves VII": "TEST"
+  },
+  {
+    "Cranial nerves VIII": "TEST"
+  },
+  {
+    "Cranial nerves IX": "TEST"
+  },
+  {
+    "Cranial nerves X": "TEST"
+  },
+  {
+    "Cranial nerves XI": "TEST"
+  },
+  {
+    "Cranial nerves XII": "TEST"
+  },
+  {
+    "Upper Extremities": "TEST"
+  },
+  {
+    "Lower Extremities": "TEST"
+  },
+  {
+    "R leg drags": "PROBLEM"
+  },
+  {
+    "R leg": "PROBLEM"
+  },
+  {
+    "right leg weakness": "PROBLEM"
+  },
+  {
+    "right leg": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right axilla": "PROBLEM"
+  },
+  {
+    "right arm": "PROBLEM"
+  },
+  {
+    "right leg": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
+  }
+]

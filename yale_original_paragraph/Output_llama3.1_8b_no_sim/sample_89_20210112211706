@@ -1,0 +1,71 @@
+[
+  {
+    "Coronary Artery Disease": "PROBLEM"
+  },
+  {
+    "BPH": "PROBLEM"
+  },
+  {
+    "Urinary Tract Infection": "PROBLEM"
+  },
+  {
+    "Fever": "PROBLEM"
+  },
+  {
+    "Hypertension": "PROBLEM"
+  },
+  {
+    "Diabetes Mellitus": "PROBLEM"
+  },
+  {
+    "Cholesterol": "PROBLEM"
+  },
+  {
+    "Prostate Biopsy": "TEST"
+  },
+  {
+    "EKG": "TEST"
+  },
+  {
+    "Laboratory Data": "TEST"
+  },
+  {
+    "Metformin": "DRUG"
+  },
+  {
+    "Prilosec": "DRUG"
+  },
+  {
+    "Folic Acid": "DRUG"
+  },
+  {
+    "Flomax": "DRUG"
+  },
+  {
+    "Metoprolol": "DRUG"
+  },
+  {
+    "Crestor": "DRUG"
+  },
+  {
+    "Claritin": "DRUG"
+  },
+  {
+    "Demerol": "DRUG"
+  },
+  {
+    "Sulfa": "DRUG"
+  },
+  {
+    "Coronary Artery Bypass Surgery": "TREATMENT"
+  },
+  {
+    "Angioplasty": "TREATMENT"
+  },
+  {
+    "Prostate Surgery": "TREATMENT"
+  },
+  {
+    "Antibiotic": "TREATMENT"
+  }
+]

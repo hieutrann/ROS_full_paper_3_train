@@ -1,0 +1,254 @@
+[
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "labetalol": "DRUG"
+  },
+  {
+    "Blood pressure improved": "PROBLEM"
+  },
+  {
+    "blood pressure went up again to 180/100": "PROBLEM"
+  },
+  {
+    "Perioperative elevated blood pressure": "PROBLEM"
+  },
+  {
+    "Graves disease": "PROBLEM"
+  },
+  {
+    "atrial fibrillation": "PROBLEM"
+  },
+  {
+    "Diverticulosis": "PROBLEM"
+  },
+  {
+    "GERD": "PROBLEM"
+  },
+  {
+    "High blood pressure": "PROBLEM"
+  },
+  {
+    "Prostatic hypertrophy": "PROBLEM"
+  },
+  {
+    "transurethral resection of the prostate": "TREATMENT"
+  },
+  {
+    "Bilateral inguinal hernia repair": "TREATMENT"
+  },
+  {
+    "right shoulder surgery with reconstruction": "TREATMENT"
+  },
+  {
+    "both shoulders rotator cuff repair": "TREATMENT"
+  },
+  {
+    "left knee arthroplasty": "TREATMENT"
+  },
+  {
+    "transurethral resection of prostate": "TREATMENT"
+  },
+  {
+    "laser surgery": "TREATMENT"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "labetalol": "DRUG"
+  },
+  {
+    "Blood pressure improved": "PROBLEM"
+  },
+  {
+    "blood pressure went up again to 180/100": "PROBLEM"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "158/100": "TEST"
+  },
+  {
+    "155 systolic": "TEST"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "palpitations": "PROBLEM"
+  },
+  {
+    "dizziness": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "general malaise": "PROBLEM"
+  },
+  {
+    "Unremarkable": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "prostatic hypertrophy": "PROBLEM"
+  },
+  {
+    "laser surgery": "TREATMENT"
+  },
+  {
+    "diabetes": "PROBLEM"
+  },
+  {
+    "Graves disease": "PROBLEM"
+  },
+  {
+    "Synthroid": "DRUG"
+  },
+  {
+    "aspirin": "DRUG"
+  },
+  {
+    "Aspirin": "DRUG"
+  },
+  {
+    "atenolol": "DRUG"
+  },
+  {
+    "lisinopril": "DRUG"
+  },
+  {
+    "terazosin": "DRUG"
+  },
+  {
+    "several months ago": "PROBLEM"
+  },
+  {
+    "GENERAL": "TEST"
+  },
+  {
+    "CHEST": "TEST"
+  },
+  {
+    "First and second heart sounds": "PROBLEM"
+  },
+  {
+    "murmur": "PROBLEM"
+  },
+  {
+    "Benign": "PROBLEM"
+  },
+  {
+    "swelling": "PROBLEM"
+  },
+  {
+    "alert and oriented x3": "PROBLEM"
+  },
+  {
+    "Examination is nonfocal": "PROBLEM"
+  },
+  {
+    "Perioperative hypertension": "PROBLEM"
+  },
+  {
+    "lisinopril": "DRUG"
+  },
+  {
+    "20 mg p.o.": "DRUG"
+  },
+  {
+    "blood pressure": "PROBLEM"
+  },
+  {
+    "lisinopril": "DRUG"
+  },
+  {
+    "primary physician": "PROBLEM"
+  },
+  {
+    "Y in 2 weeks' time.": "TEST"
+  },
+  {
+    "blood pressure": "PROBLEM"
+  },
+  {
+    "lisinopril": "DRUG"
+  },
+  {
+    "Prostatic hypertrophy": "PROBLEM"
+  },
+  {
+    "laser surgery": "TREATMENT"
+  },
+  {
+    "procedure": "TREATMENT"
+  },
+  {
+    "Graves disease": "PROBLEM"
+  },
+  {
+    "atrial fibrillation": "PROBLEM"
+  },
+  {
+    "sinus rhythm": "PROBLEM"
+  },
+  {
+    "stable": "PROBLEM"
+  },
+  {
+    "lisinopril": "DRUG"
+  },
+  {
+    "blood pressure": "PROBLEM"
+  },
+  {
+    "elevated blood pressure": "PROBLEM"
+  },
+  {
+    "paroxysmal atrial fibrillation": "PROBLEM"
+  },
+  {
+    "prostatic hypertrophy": "PROBLEM"
+  },
+  {
+    "rotator cuff repair": "TREATMENT"
+  },
+  {
+    "left knee arthroplasty": "TREATMENT"
+  },
+  {
+    "transurethral resection of prostate": "TREATMENT"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "blood": "TEST"
+  },
+  {
+    "pressure": "TEST"
+  },
+  {
+    "perioperative": "TEST"
+  }
+]

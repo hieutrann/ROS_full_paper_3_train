@@ -1,0 +1,143 @@
+[
+  {
+    "Sample Type / Medical Specialty: General Medicine": "TEST"
+  },
+  {
+    "Sample Name: Gen Med Progress Note - 1": "TEST"
+  },
+  {
+    "Description: Sample progress note - Gen Med.": "TEST"
+  },
+  {
+    "diabetes mellitus": "PROBLEM"
+  },
+  {
+    "cerebrovascular accident": "PROBLEM"
+  },
+  {
+    "discomfort": "PROBLEM"
+  },
+  {
+    "EMG studies": "TEST"
+  },
+  {
+    "stroke": "PROBLEM"
+  },
+  {
+    "neurologist": "TEST"
+  },
+  {
+    "medications": "PROBLEM"
+  },
+  {
+    "blood sugars": "TEST"
+  },
+  {
+    "insulin": "DRUG"
+  },
+  {
+    "past history of heavy tobacco and alcohol usage": "PROBLEM"
+  },
+  {
+    "Wt": "TEST"
+  },
+  {
+    "108/72": "TEST"
+  },
+  {
+    "96.5": "TEST"
+  },
+  {
+    "80": "TEST"
+  },
+  {
+    "regular": "TEST"
+  },
+  {
+    "General: A 70-year-old male who does not appear to be in acute distress but does look older than his stated age.": "PROBLEM"
+  },
+  {
+    "missing dentition": "PROBLEM"
+  },
+  {
+    "Dry and flaky": "PROBLEM"
+  },
+  {
+    "Heart tones are okay": "PROBLEM"
+  },
+  {
+    "pedal pulse": "TEST"
+  },
+  {
+    "Diminished but clear": "PROBLEM"
+  },
+  {
+    "Scaphoid": "PROBLEM"
+  },
+  {
+    "prostate check": "PROBLEM"
+  },
+  {
+    "Sensation with monofilament testing": "TEST"
+  },
+  {
+    "Diabetes mellitus": "PROBLEM"
+  },
+  {
+    "Neuropathy.": "PROBLEM"
+  },
+  {
+    "Status post cerebrovascular accident": "PROBLEM"
+  },
+  {
+    "Refill his medications x 3 months.": "TREATMENT"
+  },
+  {
+    "A1c": "TEST"
+  },
+  {
+    "BMP": "TEST"
+  },
+  {
+    "colonoscopy": "TEST"
+  },
+  {
+    "PSA": "TEST"
+  },
+  {
+    "yearly eye exams": "TEST"
+  },
+  {
+    "foot exams": "TEST"
+  },
+  {
+    "Accu-Cheks": "TEST"
+  },
+  {
+    "diabetes mellitus": "PROBLEM"
+  },
+  {
+    "neuropathy": "PROBLEM"
+  },
+  {
+    "post cerebrovascular accident": "PROBLEM"
+  },
+  {
+    "post cerebrovascular": "PROBLEM"
+  },
+  {
+    "cerebrovascular accident": "PROBLEM"
+  },
+  {
+    "accident": "PROBLEM"
+  },
+  {
+    "cerebrovascular": "PROBLEM"
+  },
+  {
+    "neurologist": "DRUG"
+  },
+  {
+    "insulin": "DRUG"
+  }
+]

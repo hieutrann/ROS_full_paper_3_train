@@ -6,6 +6,9 @@
     "erythema": "PROBLEM"
   },
   {
+    "foreign body": "PROBLEM"
+  },
+  {
     "lacerations": "PROBLEM"
   },
   {
@@ -66,10 +69,13 @@
     "joint effusion": "PROBLEM"
   },
   {
+    "crepitus": "PROBLEM"
+  },
+  {
     "ecchymosis": "PROBLEM"
   },
   {
-    "crepitus": "PROBLEM"
+    "tenderness": "PROBLEM"
   },
   {
     "delusions": "PROBLEM"
@@ -93,18 +99,24 @@
     "agitation": "PROBLEM"
   },
   {
-    "Anterior and posterior drawer test": "TEST"
+    "light reflex": "TEST"
+  },
+  {
+    "auscultation": "TEST"
+  },
+  {
+    "anterior and posterior drawer test": "TEST"
   },
   {
     "Lachman's test": "TEST"
   },
   {
-    "Tinel and Phalen tests": "TEST"
+    "Tinel test": "TEST"
+  },
+  {
+    "Phalen test": "TEST"
   },
   {
     "swinging test": "TEST"
-  },
-  {
-    "physical examination": "TEST"
   }
 ]

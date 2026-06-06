@@ -87,9 +87,6 @@
     "exploratory laparotomy": "TREATMENT"
   },
   {
-    "stab wounds": "PROBLEM"
-  },
-  {
     "chronic recurrent leg wounds": "PROBLEM"
   },
   {
@@ -120,19 +117,19 @@
     "blood pressure": "TEST"
   },
   {
+    "temperature": "TEST"
+  },
+  {
     "oxygen saturation": "TEST"
   },
   {
     "nasal cannula": "TREATMENT"
   },
   {
-    "pale conjunctivae": "PROBLEM"
-  },
-  {
-    "icteric sclerae": "PROBLEM"
-  },
-  {
     "bipedal edema": "PROBLEM"
+  },
+  {
+    "cervical lymphadenopathy": "PROBLEM"
   },
   {
     "jaundice": "PROBLEM"
@@ -190,5 +187,65 @@
   },
   {
     "nitrites": "TEST"
+  },
+  {
+    "wbc's": "TEST"
+  },
+  {
+    "rbc's": "TEST"
+  },
+  {
+    "bacteria": "PROBLEM"
+  },
+  {
+    "blood cultures": "TEST"
+  },
+  {
+    "Chest x-ray": "TEST"
+  },
+  {
+    "Left knee x-rays": "TEST"
+  },
+  {
+    "osteoarthritis": "PROBLEM"
+  },
+  {
+    "CAT scan": "TEST"
+  },
+  {
+    "portal hypertension": "PROBLEM"
+  },
+  {
+    "splenomegaly": "PROBLEM"
+  },
+  {
+    "Septic shock": "PROBLEM"
+  },
+  {
+    "urinary tract infection": "PROBLEM"
+  },
+  {
+    "spontaneous bacterial peritenonitis": "PROBLEM"
+  },
+  {
+    "Hyperbilirubinemia": "PROBLEM"
+  },
+  {
+    "cholangitis": "PROBLEM"
+  },
+  {
+    "Alcoholic liver disease": "PROBLEM"
+  },
+  {
+    "Thrombocytopenia": "PROBLEM"
+  },
+  {
+    "Cryoglobulinemia": "PROBLEM"
+  },
+  {
+    "paracentesis": "TREATMENT"
+  },
+  {
+    "hepatitis A vaccination": "TREATMENT"
   }
 ]

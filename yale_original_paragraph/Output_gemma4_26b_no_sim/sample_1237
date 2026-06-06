@@ -3,10 +3,22 @@
     "morbid obesity": "PROBLEM"
   },
   {
+    "BMI": "TEST"
+  },
+  {
     "Laparoscopic gastric bypass": "TREATMENT"
   },
   {
-    "Pain": "PROBLEM"
+    "gastric bypass": "TREATMENT"
+  },
+  {
+    "clear liquid diet": "TREATMENT"
+  },
+  {
+    "liquid diet": "TREATMENT"
+  },
+  {
+    "narcotic pain medicine": "DRUG"
   },
   {
     "shortness of breath": "PROBLEM"
@@ -18,6 +30,9 @@
     "calf pain": "PROBLEM"
   },
   {
+    "temperature": "TEST"
+  },
+  {
     "redness": "PROBLEM"
   },
   {
@@ -27,7 +42,7 @@
     "foul smelling drainage": "PROBLEM"
   },
   {
-    "intractable nausea": "PROBLEM"
+    "nausea": "PROBLEM"
   },
   {
     "vomiting": "PROBLEM"

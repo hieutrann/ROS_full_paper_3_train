@@ -24,7 +24,10 @@
     "irides": "PROBLEM"
   },
   {
-    "EARS, NOSE AND THROAT": "TEST"
+    "ears": "PROBLEM"
+  },
+  {
+    "nose": "PROBLEM"
   },
   {
     "Hearing": "PROBLEM"
@@ -33,22 +36,25 @@
     "mucosa": "PROBLEM"
   },
   {
+    "oropharynx": "TEST"
+  },
+  {
     "lesion": "PROBLEM"
   },
   {
-    "palate": "TEST"
+    "palate": "TREATMENT"
   },
   {
-    "tongue": "TEST"
+    "tongue": "TREATMENT"
   },
   {
     "tonsil": "PROBLEM"
   },
   {
-    "posterior pharynx": "PROBLEM"
+    "pharynx": "PROBLEM"
   },
   {
-    "neck": "PROBLEM"
+    "supple": "PROBLEM"
   },
   {
     "thyroid gland": "PROBLEM"
@@ -57,13 +63,10 @@
     "respiratory effort": "TEST"
   },
   {
-    "Auscultation of the lung": "TEST"
-  },
-  {
     "lung": "PROBLEM"
   },
   {
-    "air movement": "PROBLEM"
+    "air movement": "TEST"
   },
   {
     "S1": "TEST"
@@ -78,40 +81,25 @@
     "edema": "PROBLEM"
   },
   {
-    "BREASTS": "TEST"
-  },
-  {
     "nipple discharge": "PROBLEM"
   },
   {
-    "Palpation of the breasts and axilla": "TEST"
+    "breast inspection": "TEST"
   },
   {
     "mass": "PROBLEM"
   },
   {
-    "abdomen": "PROBLEM"
+    "enlarged liver": "PROBLEM"
   },
   {
-    "rebound": "PROBLEM"
-  },
-  {
-    "guarding": "PROBLEM"
-  },
-  {
-    "liver": "PROBLEM"
-  },
-  {
-    "spleen": "PROBLEM"
+    "enlarged spleen": "PROBLEM"
   },
   {
     "Bowel sounds": "TEST"
   },
   {
-    "GU": "TEST"
-  },
-  {
-    "pelvic exam": "TEST"
+    "external genitalia": "PROBLEM"
   },
   {
     "adnexal masses": "PROBLEM"
@@ -123,16 +111,13 @@
     "uterus": "PROBLEM"
   },
   {
-    "LYMPHATIC": "TEST"
-  },
-  {
-    "node": "PROBLEM"
+    "appreciated node": "PROBLEM"
   },
   {
     "groin": "PROBLEM"
   },
   {
-    "neck": "PROBLEM"
+    "neck area": "PROBLEM"
   },
   {
     "deformity": "PROBLEM"
@@ -162,13 +147,19 @@
     "Deep tendon reflexes": "TEST"
   },
   {
-    "patellar area": "TEST"
+    "patellar area": "PROBLEM"
   },
   {
-    "sensation": "PROBLEM"
+    "Sensation": "TEST"
   },
   {
-    "oriented to time, place and person": "TEST"
+    "oriented to time": "TEST"
+  },
+  {
+    "oriented to place": "TEST"
+  },
+  {
+    "oriented to person": "TEST"
   },
   {
     "judgment": "PROBLEM"
@@ -177,13 +168,28 @@
     "insight": "PROBLEM"
   },
   {
-    "general medicine": "PROBLEM"
+    "general medicine": "TREATMENT"
   },
   {
     "eyes": "PROBLEM"
   },
   {
     "tongue": "PROBLEM"
+  },
+  {
+    "heart": "PROBLEM"
+  },
+  {
+    "ears": "PROBLEM"
+  },
+  {
+    "nose": "PROBLEM"
+  },
+  {
+    "respiratory": "PROBLEM"
+  },
+  {
+    "extremities": "PROBLEM"
   },
   {
     "breasts": "PROBLEM"
@@ -196,5 +202,8 @@
   },
   {
     "within normal limits": "TEST"
+  },
+  {
+    "multisystem": "PROBLEM"
   }
 ]

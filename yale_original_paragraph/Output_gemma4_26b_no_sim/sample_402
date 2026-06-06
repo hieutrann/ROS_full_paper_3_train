@@ -15,13 +15,10 @@
     "difficulty hearing": "PROBLEM"
   },
   {
-    "left-sided sinus pressure": "PROBLEM"
+    "sinus pressure": "PROBLEM"
   },
   {
-    "teeth were hurting": "PROBLEM"
-  },
-  {
-    "left-sided jaw pain": "PROBLEM"
+    "jaw pain": "PROBLEM"
   },
   {
     "fever": "PROBLEM"
@@ -33,7 +30,7 @@
     "sore throat": "PROBLEM"
   },
   {
-    "Cutivate cream": "DRUG"
+    "Cutivate cream": "TREATMENT"
   },
   {
     "sinusitis": "PROBLEM"
@@ -78,33 +75,9 @@
     "thyromegaly": "PROBLEM"
   },
   {
-    "Serous otitis": "PROBLEM"
-  },
-  {
-    "Atopic dermatitis": "PROBLEM"
-  },
-  {
     "Nasacort AQ": "DRUG"
   },
   {
     "Duraphen II": "DRUG"
-  },
-  {
-    "left otalgia": "PROBLEM"
-  },
-  {
-    "otalgia": "PROBLEM"
-  },
-  {
-    "serous otitis": "PROBLEM"
-  },
-  {
-    "atopic dermatitis": "PROBLEM"
-  },
-  {
-    "otitis": "PROBLEM"
-  },
-  {
-    "dermatitis": "PROBLEM"
   }
 ]

@@ -1,0 +1,173 @@
+[
+  {
+    "cold symptoms": "PROBLEM"
+  },
+  {
+    "bronchitis": "PROBLEM"
+  },
+  {
+    "antibiotics": "TREATMENT"
+  },
+  {
+    "DISCHARGE DIAGNOSES": "PROBLEM"
+  },
+  {
+    "Acute respiratory failure": "PROBLEM"
+  },
+  {
+    "Severe bronchitis leading to acute respiratory failure": "PROBLEM"
+  },
+  {
+    "Acute on chronic renal failure": "PROBLEM"
+  },
+  {
+    "Severe hypertension": "PROBLEM"
+  },
+  {
+    "Diastolic dysfunction": "PROBLEM"
+  },
+  {
+    "X-ray on discharge": "TEST"
+  },
+  {
+    "Hyperlipidemia.": "PROBLEM"
+  },
+  {
+    "cardiac catheterization": "TEST"
+  },
+  {
+    "coronary artery disease": "PROBLEM"
+  },
+  {
+    "carcinoma of the breast": "PROBLEM"
+  },
+  {
+    "right nephrectomy": "PROBLEM"
+  },
+  {
+    "Allergic rhinitis": "PROBLEM"
+  },
+  {
+    "bronchitis": "PROBLEM"
+  },
+  {
+    "antibiotics": "DRUG"
+  },
+  {
+    "progressive shortness of breath": "PROBLEM"
+  },
+  {
+    "severe bilateral wheezing": "PROBLEM"
+  },
+  {
+    "crepitations": "PROBLEM"
+  },
+  {
+    "X-rays": "TEST"
+  },
+  {
+    "pro-BNP": "TEST"
+  },
+  {
+    "hypoxic": "PROBLEM"
+  },
+  {
+    "4L nasal cannula": "TREATMENT"
+  },
+  {
+    "Intensive Care Unit": "TEST"
+  },
+  {
+    "IV steroids": "TREATMENT"
+  },
+  {
+    "IV Lasix": "TREATMENT"
+  },
+  {
+    "MRSA colonization": "PROBLEM"
+  },
+  {
+    "de-colonization": "PROBLEM"
+  },
+  {
+    "breathing": "PROBLEM"
+  },
+  {
+    "wheezing": "PROBLEM"
+  },
+  {
+    "crepitations": "PROBLEM"
+  },
+  {
+    "O2 saturation": "TEST"
+  },
+  {
+    "exercise oximetry": "TEST"
+  },
+  {
+    "nasal congestion": "PROBLEM"
+  },
+  {
+    "steroid nasal spray": "TREATMENT"
+  },
+  {
+    "Cardiology": "PROBLEM"
+  },
+  {
+    "beta blockers": "DRUG"
+  },
+  {
+    "IV steroids": "TREATMENT"
+  },
+  {
+    "oral steroids": "TREATMENT"
+  },
+  {
+    "DISCHARGE MEDICATIONS": "PROBLEM"
+  },
+  {
+    "Metoprolol 25 mg p.o.": "DRUG"
+  },
+  {
+    "Simvastatin 20 mg p.o.": "DRUG"
+  },
+  {
+    "Prednisone 20 mg p.o.": "DRUG"
+  },
+  {
+    "Flonase nasal spray": "DRUG"
+  },
+  {
+    "oximetry": "TEST"
+  },
+  {
+    "Pulmonology": "PROBLEM"
+  },
+  {
+    "acute respiratory failure": "PROBLEM"
+  },
+  {
+    "bronchitis": "PROBLEM"
+  },
+  {
+    "acute on chronic renal failure": "PROBLEM"
+  },
+  {
+    "severe hypertension": "PROBLEM"
+  },
+  {
+    "diastolic dysfunction": "PROBLEM"
+  },
+  {
+    "cold symptoms": "PROBLEM"
+  },
+  {
+    "iv steroids": "TREATMENT"
+  },
+  {
+    "nasal spray": "TEST"
+  },
+  {
+    "nasal": "TEST"
+  }
+]

@@ -1,5 +1,8 @@
 [
   {
+    "Breast Calcifications": "PROBLEM"
+  },
+  {
     "Suspicious calcifications": "PROBLEM"
   },
   {
@@ -12,6 +15,9 @@
     "intraoperative specimen radiography": "TEST"
   },
   {
+    "Suspicious calcifications": "PROBLEM"
+  },
+  {
     "screening mammography": "TEST"
   },
   {
@@ -21,6 +27,9 @@
     "imaging studies": "TEST"
   },
   {
+    "calcifications": "PROBLEM"
+  },
+  {
     "stereotactic core needle biopsy": "TREATMENT"
   },
   {
@@ -28,6 +37,9 @@
   },
   {
     "radiograph": "TEST"
+  },
+  {
+    "stereotactic core needle biopsy": "TREATMENT"
   },
   {
     "swelling": "PROBLEM"
@@ -45,10 +57,16 @@
     "false aneurysm formation": "PROBLEM"
   },
   {
+    "stereotactic core needle biopsy": "TREATMENT"
+  },
+  {
     "false aneurysm": "PROBLEM"
   },
   {
     "thrombin material": "DRUG"
+  },
+  {
+    "false aneurysm": "PROBLEM"
   },
   {
     "hematoma": "PROBLEM"
@@ -57,10 +75,52 @@
     "ecchymosis": "PROBLEM"
   },
   {
+    "stereotactic core needle biopsy": "TREATMENT"
+  },
+  {
+    "false aneurysm": "PROBLEM"
+  },
+  {
+    "pulsatile mass": "PROBLEM"
+  },
+  {
+    "suspicious calcifications": "PROBLEM"
+  },
+  {
+    "mammography": "TEST"
+  },
+  {
+    "stereotactic core needle biopsy": "TREATMENT"
+  },
+  {
+    "excisional biopsy": "TREATMENT"
+  },
+  {
+    "guidewire localization": "TREATMENT"
+  },
+  {
+    "stereotactic core needle biopsy": "TREATMENT"
+  },
+  {
+    "excision of the left breast tissue": "TREATMENT"
+  },
+  {
+    "preoperative guidewire localization": "TREATMENT"
+  },
+  {
+    "suspicious calcifications": "PROBLEM"
+  },
+  {
+    "stereotactic core needle biopsy": "TREATMENT"
+  },
+  {
     "breast cancer": "PROBLEM"
   },
   {
     "hormone replacement therapy": "TREATMENT"
+  },
+  {
+    "breast cancer": "PROBLEM"
   },
   {
     "ovarian cancer": "PROBLEM"
@@ -126,6 +186,9 @@
     "colon cancer": "PROBLEM"
   },
   {
+    "breast cancer": "PROBLEM"
+  },
+  {
     "chronic obstructive lung disease": "PROBLEM"
   },
   {
@@ -153,16 +216,22 @@
     "wheezes": "PROBLEM"
   },
   {
+    "palpable masses": "PROBLEM"
+  },
+  {
+    "stereotactic core needle biopsy": "TREATMENT"
+  },
+  {
     "lymphadenopathy": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
   },
   {
     "Obese": "PROBLEM"
   },
   {
     "CVA tenderness": "PROBLEM"
-  },
-  {
-    "clubbing": "PROBLEM"
   },
   {
     "cyanosis": "PROBLEM"
@@ -172,6 +241,24 @@
   },
   {
     "clustered calcifications": "PROBLEM"
+  },
+  {
+    "stereotactic core needle biopsy": "TREATMENT"
+  },
+  {
+    "excision of the tissue": "TREATMENT"
+  },
+  {
+    "preoperative guidewire localization": "TREATMENT"
+  },
+  {
+    "chronic obstructive lung disease": "PROBLEM"
+  },
+  {
+    "asthma": "PROBLEM"
+  },
+  {
+    "gastroesophageal reflux disease": "PROBLEM"
   },
   {
     "transient ischemic attack": "PROBLEM"
@@ -184,5 +271,26 @@
   },
   {
     "anxiety": "PROBLEM"
+  },
+  {
+    "Left breast excisional biopsy": "TREATMENT"
+  },
+  {
+    "preoperative guidewire localization": "TREATMENT"
+  },
+  {
+    "intraoperative specimen radiography": "TEST"
+  },
+  {
+    "gastroesophageal reflux": "PROBLEM"
+  },
+  {
+    "needle biopsy": "TREATMENT"
+  },
+  {
+    "calcifications": "PROBLEM"
+  },
+  {
+    "biopsy": "TEST"
   }
 ]

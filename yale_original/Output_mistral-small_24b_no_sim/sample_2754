@@ -1,9 +1,6 @@
 [
   {
-    "heroin": "DRUG"
-  },
-  {
-    "heroin": "DRUG"
+    "Heroin": "DRUG"
   },
   {
     "heroin": "DRUG"
@@ -24,7 +21,7 @@
     "heroin": "DRUG"
   },
   {
-    "heroin": "DRUG"
+    "heroin abuse": "PROBLEM"
   },
   {
     "cocaine": "DRUG"
@@ -57,9 +54,6 @@
     "cocaine": "DRUG"
   },
   {
-    "under the influence": "PROBLEM"
-  },
-  {
     "headache": "PROBLEM"
   },
   {
@@ -87,10 +81,10 @@
     "smoker": "PROBLEM"
   },
   {
-    "heroin use": "PROBLEM"
+    "heroin": "DRUG"
   },
   {
-    "alcohol abuse": "PROBLEM"
+    "alcohol": "DRUG"
   },
   {
     "cocaine": "DRUG"
@@ -111,16 +105,13 @@
     "codeine": "DRUG"
   },
   {
-    "afebrile": "TEST"
+    "pain": "PROBLEM"
+  },
+  {
+    "VITAL SIGNS": "TEST"
   },
   {
     "hypertensive": "PROBLEM"
-  },
-  {
-    "175/104": "TEST"
-  },
-  {
-    "pulse": "TEST"
   },
   {
     "cocaine": "DRUG"
@@ -135,13 +126,16 @@
     "Pupils": "TEST"
   },
   {
-    "NECK": "TEST"
+    "Extraoculars": "TEST"
+  },
+  {
+    "oropharynx": "PROBLEM"
   },
   {
     "trachea": "PROBLEM"
   },
   {
-    "LUNGS": "TEST"
+    "LUNGS": "PROBLEM"
   },
   {
     "wheezing": "PROBLEM"
@@ -159,10 +153,13 @@
     "murmur": "PROBLEM"
   },
   {
-    "Soft and nontender": "PROBLEM"
+    "ABDOMEN": "PROBLEM"
   },
   {
     "track marks": "PROBLEM"
+  },
+  {
+    "tattoos": "PROBLEM"
   },
   {
     "heroin": "DRUG"
@@ -174,10 +171,22 @@
     "Phenergan": "DRUG"
   },
   {
-    "prescription": "DRUG"
+    "prescription": "TREATMENT"
+  },
+  {
+    "general medicine": "TEST"
   },
   {
     "phenergan": "DRUG"
+  },
+  {
+    "detox from heroin": "TREATMENT"
+  },
+  {
+    "alcohol abuse": "PROBLEM"
+  },
+  {
+    "heroin abuse": "PROBLEM"
   },
   {
     "detox": "TREATMENT"

@@ -93,9 +93,6 @@
     "pain": "PROBLEM"
   },
   {
-    "vital signs": "TEST"
-  },
-  {
     "temperature": "TEST"
   },
   {
@@ -120,7 +117,7 @@
     "gallbladder wall": "PROBLEM"
   },
   {
-    "stone": "PROBLEM"
+    "a stone": "PROBLEM"
   },
   {
     "gallbladder wall": "PROBLEM"
@@ -129,7 +126,7 @@
     "Thickening of the gallbladder wall": "PROBLEM"
   },
   {
-    "Murphy sign": "TEST"
+    "positive Murphy sign": "PROBLEM"
   },
   {
     "cholecystitis": "PROBLEM"
@@ -162,7 +159,7 @@
     "IV fluid": "TREATMENT"
   },
   {
-    "IV antibiotic": "DRUG"
+    "low-dose IV antibiotic": "DRUG"
   },
   {
     "2-D echocardiogram": "TEST"
@@ -172,12 +169,6 @@
   },
   {
     "CHF": "PROBLEM"
-  },
-  {
-    "workup": "TEST"
-  },
-  {
-    "Surgical consult": "TREATMENT"
   },
   {
     "blood culture": "TEST"
@@ -190,12 +181,6 @@
   },
   {
     "dialysis": "TREATMENT"
-  },
-  {
-    "surgery": "TREATMENT"
-  },
-  {
-    "moderate risk": "PROBLEM"
   },
   {
     "laparoscopic cholecystectomy": "TREATMENT"
@@ -211,9 +196,6 @@
   },
   {
     "chronic bronchitis": "PROBLEM"
-  },
-  {
-    "surgery": "TREATMENT"
   },
   {
     "Synthroid": "DRUG"

@@ -1,15 +1,12 @@
 [
   {
-    "Jaw Pain": "PROBLEM"
-  },
-  {
     "toothache": "PROBLEM"
   },
   {
-    "Jaw": "PROBLEM"
+    "Jaw Pain": "PROBLEM"
   },
   {
-    "ear": "PROBLEM"
+    "ER Visit": "TEST"
   },
   {
     "Ellis type II dental fracture": "PROBLEM"
@@ -24,10 +21,16 @@
     "jaw": "PROBLEM"
   },
   {
-    "left ear": "PROBLEM"
+    "ear": "PROBLEM"
   },
   {
     "toothache": "PROBLEM"
+  },
+  {
+    "dental appointments": "TREATMENT"
+  },
+  {
+    "dentist": "TREATMENT"
   },
   {
     "facial swelling": "PROBLEM"
@@ -42,7 +45,10 @@
     "sore throat": "PROBLEM"
   },
   {
-    "difficulty swallowing liquids or solids": "PROBLEM"
+    "difficulty swallowing liquids": "PROBLEM"
+  },
+  {
+    "difficulty swallowing solids": "PROBLEM"
   },
   {
     "neck pain": "PROBLEM"
@@ -57,7 +63,7 @@
     "chills": "PROBLEM"
   },
   {
-    "any other problems": "PROBLEM"
+    "problems": "PROBLEM"
   },
   {
     "fever": "PROBLEM"
@@ -67,9 +73,6 @@
   },
   {
     "fatigue": "PROBLEM"
-  },
-  {
-    "weakness": "PROBLEM"
   },
   {
     "headache": "PROBLEM"
@@ -138,10 +141,10 @@
     "lesions": "PROBLEM"
   },
   {
-    "vision": "PROBLEM"
+    "vision change": "PROBLEM"
   },
   {
-    "hearing": "PROBLEM"
+    "hearing change": "PROBLEM"
   },
   {
     "speech change": "PROBLEM"
@@ -153,19 +156,19 @@
     "None": "PROBLEM"
   },
   {
-    "None": "PROBLEM"
+    "surgical history": "PROBLEM"
   },
   {
     "None": "DRUG"
   },
   {
-    "NO KNOWN DRUG ALLERGIES": "PROBLEM"
+    "drug allergies": "PROBLEM"
   },
   {
-    "marijuana": "PROBLEM"
+    "marijuana": "DRUG"
   },
   {
-    "smoke cigarettes": "PROBLEM"
+    "cigarettes": "PROBLEM"
   },
   {
     "Temperature": "TEST"
@@ -189,19 +192,31 @@
     "well developed": "PROBLEM"
   },
   {
-    "patient": "PROBLEM"
-  },
-  {
     "acute distress": "PROBLEM"
   },
   {
-    "Head": "TEST"
+    "Head": "PROBLEM"
+  },
+  {
+    "atraumatic": "PROBLEM"
+  },
+  {
+    "normocephalic": "PROBLEM"
+  },
+  {
+    "nontender": "PROBLEM"
+  },
+  {
+    "cornea": "PROBLEM"
   },
   {
     "conjunctivae": "PROBLEM"
   },
   {
-    "Nose": "PROBLEM"
+    "rhinorrhea": "PROBLEM"
+  },
+  {
+    "congestion": "PROBLEM"
   },
   {
     "sinuses": "PROBLEM"
@@ -211,9 +226,6 @@
   },
   {
     "erythema": "PROBLEM"
-  },
-  {
-    "Tympanic membranes": "PROBLEM"
   },
   {
     "erythema": "PROBLEM"
@@ -241,9 +253,6 @@
   },
   {
     "erythema": "PROBLEM"
-  },
-  {
-    "swelling": "PROBLEM"
   },
   {
     "infection": "PROBLEM"
@@ -291,7 +300,7 @@
     "Nontender": "PROBLEM"
   },
   {
-    "Full range of motion": "TEST"
+    "motion": "PROBLEM"
   },
   {
     "meningismus": "PROBLEM"
@@ -312,6 +321,15 @@
     "Heart": "PROBLEM"
   },
   {
+    "murmur": "PROBLEM"
+  },
+  {
+    "rub": "PROBLEM"
+  },
+  {
+    "gallop": "PROBLEM"
+  },
+  {
     "auscultation": "TEST"
   },
   {
@@ -321,10 +339,16 @@
     "Abdomen": "PROBLEM"
   },
   {
-    "abnormalities": "PROBLEM"
+    "back": "PROBLEM"
   },
   {
-    "normal use of the extremities": "TEST"
+    "arms": "PROBLEM"
+  },
+  {
+    "legs": "PROBLEM"
+  },
+  {
+    "extremities": "PROBLEM"
   },
   {
     "rashes": "PROBLEM"
@@ -333,7 +357,7 @@
     "lesions": "PROBLEM"
   },
   {
-    "Cranial nerves II through XII": "TEST"
+    "Cranial nerves": "PROBLEM"
   },
   {
     "speech": "PROBLEM"
@@ -342,7 +366,7 @@
     "ambulation": "PROBLEM"
   },
   {
-    "alert and oriented x4": "TEST"
+    "oriented": "TEST"
   },
   {
     "mood": "PROBLEM"
@@ -351,7 +375,7 @@
     "affect": "PROBLEM"
   },
   {
-    "clinical intoxication": "PROBLEM"
+    "intoxification": "PROBLEM"
   },
   {
     "lymphadenitis": "PROBLEM"
@@ -360,34 +384,34 @@
     "DIAGNOSES": "PROBLEM"
   },
   {
-    "ACUTE LEFT JAW PAIN": "PROBLEM"
+    "JAW PAIN": "PROBLEM"
   },
   {
-    "2": "TEST"
+    "2": "TREATMENT"
   },
   {
     "DENTAL FRACTURE": "PROBLEM"
   },
   {
-    "ELLIS TYPE II FRACTURE": "PROBLEM"
+    "Ellis Type II Fracture": "PROBLEM"
   },
   {
-    "3": "PROBLEM"
+    "3": "TREATMENT"
   },
   {
-    "ELEVATED BLOOD PRESSURE": "PROBLEM"
+    "BLOOD PRESSURE": "PROBLEM"
   },
   {
-    "CONDITION UPON DISPOSITION": "PROBLEM"
+    "Stable": "PROBLEM"
   },
   {
-    "DISPOSITION": "TREATMENT"
+    "Home": "TREATMENT"
   },
   {
-    "dentist": "PROBLEM"
+    "dentist": "TREATMENT"
   },
   {
-    "X": "PROBLEM"
+    "X": "TREATMENT"
   },
   {
     "Motrin": "DRUG"
@@ -402,19 +426,22 @@
     "drowsiness": "PROBLEM"
   },
   {
+    "driving": "TREATMENT"
+  },
+  {
     "pen V": "DRUG"
   },
   {
     "toothache": "PROBLEM"
   },
   {
-    "emergency room": "TEST"
+    "emergency room": "TREATMENT"
   },
   {
     "jaw pain": "PROBLEM"
   },
   {
-    "dental appointment": "TEST"
+    "dental appointment": "TREATMENT"
   },
   {
     "ellis type ii fracture": "PROBLEM"

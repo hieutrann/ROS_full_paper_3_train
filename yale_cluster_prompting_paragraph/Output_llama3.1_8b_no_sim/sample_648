@@ -1,11 +1,5 @@
 [
   {
-    "shortness of breath": "PROBLEM"
-  },
-  {
-    "acute COPD exacerbation": "PROBLEM"
-  },
-  {
     "Chronic obstructive pulmonary disease": "PROBLEM"
   },
   {
@@ -45,7 +39,7 @@
     "Status post diverticular bleed": "PROBLEM"
   },
   {
-    "Albuterol inhaler": "DRUG"
+    "Albuterol": "DRUG"
   },
   {
     "Xanax": "DRUG"
@@ -63,7 +57,7 @@
     "NPH": "DRUG"
   },
   {
-    "Atrovent inhaler": "DRUG"
+    "Atrovent": "DRUG"
   },
   {
     "Statin oral suspension": "DRUG"
@@ -75,7 +69,7 @@
     "Prednisone": "DRUG"
   },
   {
-    "Darvocet Darvocet-N": "DRUG"
+    "Darvocet": "DRUG"
   },
   {
     "Metamucil": "DRUG"
@@ -93,25 +87,19 @@
     "Bronchitis": "PROBLEM"
   },
   {
-    "Plavix": "DRUG"
-  },
-  {
-    "Lovenox": "DRUG"
-  },
-  {
     "Endoscopy": "TEST"
   },
   {
     "Packed red blood cells": "TEST"
   },
   {
-    "Diverticular disease": "PROBLEM"
+    "Plavix": "DRUG"
   },
   {
-    "Sigmoid colon": "PROBLEM"
+    "Lovenox": "DRUG"
   },
   {
-    "Hemorrhage": "PROBLEM"
+    "Physical therapy": "TREATMENT"
   },
   {
     "Pulmonary": "TEST"

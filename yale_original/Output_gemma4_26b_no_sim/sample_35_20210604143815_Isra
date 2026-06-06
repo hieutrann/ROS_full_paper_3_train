@@ -1,0 +1,248 @@
+[
+  {
+    "temperature": "TEST"
+  },
+  {
+    "left sacroiliac type hip pain": "PROBLEM"
+  },
+  {
+    "degenerative disk disease": "PROBLEM"
+  },
+  {
+    "lumbar spine": "PROBLEM"
+  },
+  {
+    "hip pathology": "PROBLEM"
+  },
+  {
+    "swollen inguinal nodes": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "chills": "PROBLEM"
+  },
+  {
+    "left pelvic pain": "PROBLEM"
+  },
+  {
+    "pain": "PROBLEM"
+  },
+  {
+    "left posterior pelvic and low back region": "PROBLEM"
+  },
+  {
+    "pain": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "temperature": "TEST"
+  },
+  {
+    "left sacroiliac type hip pain": "PROBLEM"
+  },
+  {
+    "blood studies": "TEST"
+  },
+  {
+    "cultures": "TEST"
+  },
+  {
+    "febrile agglutinins": "TEST"
+  },
+  {
+    "blood glucose": "TEST"
+  },
+  {
+    "sliding scale insulin": "DRUG"
+  },
+  {
+    "diabetic": "PROBLEM"
+  },
+  {
+    "x-rays": "TEST"
+  },
+  {
+    "discomfort": "PROBLEM"
+  },
+  {
+    "MRIs": "TEST"
+  },
+  {
+    "lumbar spine": "PROBLEM"
+  },
+  {
+    "pelvis": "PROBLEM"
+  },
+  {
+    "thighs": "PROBLEM"
+  },
+  {
+    "inflammatory process": "PROBLEM"
+  },
+  {
+    "degenerative disk disease": "PROBLEM"
+  },
+  {
+    "lumbar spine": "PROBLEM"
+  },
+  {
+    "hip pathology": "PROBLEM"
+  },
+  {
+    "swollen inguinal nodes": "PROBLEM"
+  },
+  {
+    "diabetic": "PROBLEM"
+  },
+  {
+    "hypertensive": "PROBLEM"
+  },
+  {
+    "hyperlipidemia": "PROBLEM"
+  },
+  {
+    "thyroid problems": "PROBLEM"
+  },
+  {
+    "asthma": "PROBLEM"
+  },
+  {
+    "bronchitis": "PROBLEM"
+  },
+  {
+    "TB": "PROBLEM"
+  },
+  {
+    "emphysema": "PROBLEM"
+  },
+  {
+    "pneumonia": "PROBLEM"
+  },
+  {
+    "tuberculosis": "PROBLEM"
+  },
+  {
+    "breast tumors": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "cardiac problems": "PROBLEM"
+  },
+  {
+    "gallbladder surgery": "TREATMENT"
+  },
+  {
+    "gastritis": "PROBLEM"
+  },
+  {
+    "ulcers": "PROBLEM"
+  },
+  {
+    "kidney disease": "PROBLEM"
+  },
+  {
+    "hysterectomy": "TREATMENT"
+  },
+  {
+    "A&P repair": "TREATMENT"
+  },
+  {
+    "sacral abscess": "PROBLEM"
+  },
+  {
+    "pilonidal cyst": "PROBLEM"
+  },
+  {
+    "operations": "TREATMENT"
+  },
+  {
+    "fractures": "PROBLEM"
+  },
+  {
+    "arthritis": "PROBLEM"
+  },
+  {
+    "shivering": "PROBLEM"
+  },
+  {
+    "febrile": "PROBLEM"
+  },
+  {
+    "hip pain": "PROBLEM"
+  },
+  {
+    "pain": "PROBLEM"
+  },
+  {
+    "sacroiliac joint": "PROBLEM"
+  },
+  {
+    "severe pain": "PROBLEM"
+  },
+  {
+    "knee reflexes": "TEST"
+  },
+  {
+    "ankle reflexes": "TEST"
+  },
+  {
+    "bounding tibial pulses": "TEST"
+  },
+  {
+    "scar": "PROBLEM"
+  },
+  {
+    "bruising": "PROBLEM"
+  },
+  {
+    "triple-phase bone scan": "TEST"
+  },
+  {
+    "infection": "PROBLEM"
+  },
+  {
+    "left sacroiliac joint": "PROBLEM"
+  },
+  {
+    "bacterium": "PROBLEM"
+  },
+  {
+    "white count": "TEST"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "brucellosis": "PROBLEM"
+  },
+  {
+    "titers": "TEST"
+  },
+  {
+    "antibiotics": "DRUG"
+  },
+  {
+    "Motrin": "DRUG"
+  },
+  {
+    "Darvocet": "DRUG"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "lumbar spine": "TEST"
+  },
+  {
+    "sacroiliac joint": "TEST"
+  },
+  {
+    "hip": "TEST"
+  }
+]

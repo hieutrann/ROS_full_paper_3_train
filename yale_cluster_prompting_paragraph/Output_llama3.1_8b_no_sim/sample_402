@@ -9,6 +9,9 @@
     "atopic dermatitis": "PROBLEM"
   },
   {
+    "Ibuprofen": "DRUG"
+  },
+  {
     "Nasacort AQ": "DRUG"
   },
   {
@@ -16,23 +19,5 @@
   },
   {
     "Cutivate cream": "DRUG"
-  },
-  {
-    "Ibuprofen": "DRUG"
-  },
-  {
-    "TM with some effusion": "TEST"
-  },
-  {
-    "PERRLA": "TEST"
-  },
-  {
-    "Nasacort AQ two sprays each nostril daily": "TREATMENT"
-  },
-  {
-    "Duraphen II one b.i.d.": "TREATMENT"
-  },
-  {
-    "Refills Cutivate cream 0.05% to apply to affected areas b.i.d.": "TREATMENT"
   }
 ]

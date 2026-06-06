@@ -1,0 +1,32 @@
+[
+  {
+    "Chest pain": "PROBLEM"
+  },
+  {
+    "stomach pains": "PROBLEM"
+  },
+  {
+    "reflux": "PROBLEM"
+  },
+  {
+    "Aciphex": "DRUG"
+  },
+  {
+    "colonoscopy": "TEST"
+  },
+  {
+    "CBC": "TEST"
+  },
+  {
+    "punch biopsy": "TREATMENT"
+  },
+  {
+    "selenium sulfide lotion": "TREATMENT"
+  },
+  {
+    "cystocele": "PROBLEM"
+  },
+  {
+    "thumbs": "PROBLEM"
+  }
+]

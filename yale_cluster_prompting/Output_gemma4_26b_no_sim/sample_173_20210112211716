@@ -39,7 +39,7 @@
     "antihypertensive medications": "DRUG"
   },
   {
-    "blood pressure reading": "TEST"
+    "blood pressure": "TEST"
   },
   {
     "weakness": "PROBLEM"
@@ -78,12 +78,6 @@
     "orthopnea": "PROBLEM"
   },
   {
-    "exercise capacity": "PROBLEM"
-  },
-  {
-    "musculoskeletal": "PROBLEM"
-  },
-  {
     "pain in the right buttock": "PROBLEM"
   },
   {
@@ -108,28 +102,10 @@
     "Cardura": "DRUG"
   },
   {
-    "VITAL SIGNS": "TEST"
-  },
-  {
-    "Temperature": "TEST"
-  },
-  {
-    "pulse": "TEST"
-  },
-  {
-    "respirations": "TEST"
-  },
-  {
     "blood pressure": "TEST"
   },
   {
-    "lungs": "PROBLEM"
-  },
-  {
     "PA and lateral": "TEST"
-  },
-  {
-    "regular rate and rhythm": "TEST"
   },
   {
     "S3": "PROBLEM"
@@ -141,19 +117,16 @@
     "edema": "PROBLEM"
   },
   {
-    "refractory hypertension": "PROBLEM"
+    "hypertension": "PROBLEM"
   },
   {
-    "blood pressure reading": "TEST"
+    "blood pressure": "TEST"
   },
   {
     "GFR": "TEST"
   },
   {
     "blood pressure": "PROBLEM"
-  },
-  {
-    "confusion": "PROBLEM"
   },
   {
     "cardiac arrhythmia": "PROBLEM"

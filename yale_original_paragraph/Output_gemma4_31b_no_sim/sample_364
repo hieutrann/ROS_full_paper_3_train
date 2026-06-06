@@ -78,6 +78,9 @@
     "Colace": "DRUG"
   },
   {
+    "Weight": "TEST"
+  },
+  {
     "Blood pressure": "TEST"
   },
   {
@@ -102,16 +105,10 @@
     "nipple discharge": "PROBLEM"
   },
   {
-    "lumps or masses": "PROBLEM"
+    "lumps": "PROBLEM"
   },
   {
-    "dimpling of the skin": "PROBLEM"
-  },
-  {
-    "axillary lymph nodes": "TEST"
-  },
-  {
-    "Self-breast exam": "TEST"
+    "masses": "PROBLEM"
   },
   {
     "Atrophic vaginal mucosa": "PROBLEM"
@@ -123,7 +120,7 @@
     "cervical motion tenderness": "PROBLEM"
   },
   {
-    "adnexal tenderness or masses": "PROBLEM"
+    "adnexal tenderness": "PROBLEM"
   },
   {
     "rectal masses": "PROBLEM"
@@ -147,7 +144,7 @@
     "ECG": "TEST"
   },
   {
-    "GI reflux type symptoms": "PROBLEM"
+    "GI reflux": "PROBLEM"
   },
   {
     "Hypothyroidism": "PROBLEM"

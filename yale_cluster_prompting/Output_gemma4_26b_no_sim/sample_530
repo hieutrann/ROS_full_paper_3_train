@@ -27,7 +27,7 @@
     "numbness": "PROBLEM"
   },
   {
-    "RUE pain": "PROBLEM"
+    "pain": "PROBLEM"
   },
   {
     "throbbing pain": "PROBLEM"
@@ -45,15 +45,6 @@
     "impaired sleep": "PROBLEM"
   },
   {
-    "visual change": "PROBLEM"
-  },
-  {
-    "bowel or bladder difficulties": "PROBLEM"
-  },
-  {
-    "symptoms involving the LUE": "PROBLEM"
-  },
-  {
     "electric shock like sensation": "PROBLEM"
   },
   {
@@ -69,19 +60,13 @@
     "Macrodantin": "DRUG"
   },
   {
-    "Vital signs": "TEST"
-  },
-  {
     "LT/PP/VIB/TEMP/PROP testing": "TEST"
-  },
-  {
-    "Coord/Gait/Station": "TEST"
   },
   {
     "Reflexes": "TEST"
   },
   {
-    "absent right ankle reflex": "PROBLEM"
+    "right ankle reflex": "TEST"
   },
   {
     "Plantar responses": "TEST"
@@ -108,13 +93,10 @@
     "NCV": "TEST"
   },
   {
-    "sharps and fibrillations in the right biceps (C5-6), brachioradialis (C5-6), triceps (C7-8) and teres major": "PROBLEM"
+    "sharps and fibrillations": "PROBLEM"
   },
   {
-    "sharps and fibrillations in the right pronator terres": "PROBLEM"
-  },
-  {
-    "increased insertional activity": "PROBLEM"
+    "sharps and fibrillations": "PROBLEM"
   },
   {
     "C6-7 radiculopathy": "PROBLEM"
@@ -150,9 +132,6 @@
     "mri": "TEST"
   },
   {
-    "disk": "PROBLEM"
-  },
-  {
-    "herniation": "PROBLEM"
+    "disk herniation": "PROBLEM"
   }
 ]

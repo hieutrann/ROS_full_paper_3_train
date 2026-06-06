@@ -57,9 +57,6 @@
     "Oxygen saturation": "TEST"
   },
   {
-    "acute distress": "PROBLEM"
-  },
-  {
     "Peripheral pulse": "TEST"
   },
   {
@@ -90,31 +87,13 @@
     "bleeding": "PROBLEM"
   },
   {
-    "tenderness to the foot": "PROBLEM"
-  },
-  {
-    "difficulty": "PROBLEM"
-  },
-  {
-    "discomfort": "PROBLEM"
+    "tenderness": "PROBLEM"
   },
   {
     "partial thickness laceration": "PROBLEM"
   },
   {
-    "Motor": "TEST"
-  },
-  {
-    "Sensory": "TEST"
-  },
-  {
-    "speech": "TEST"
-  },
-  {
-    "ambulation": "TEST"
-  },
-  {
-    "active bleeding": "PROBLEM"
+    "bleeding": "PROBLEM"
   },
   {
     "bruising": "PROBLEM"
@@ -145,6 +124,9 @@
   },
   {
     "cut on foot": "PROBLEM"
+  },
+  {
+    "piece of glass": "PROBLEM"
   },
   {
     "foreign body": "PROBLEM"

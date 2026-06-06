@@ -12,6 +12,12 @@
     "postoperative paralytic ileus": "PROBLEM"
   },
   {
+    "paralytic ileus": "PROBLEM"
+  },
+  {
+    "left-sided chest pain": "PROBLEM"
+  },
+  {
     "fluid retention": "PROBLEM"
   },
   {
@@ -24,7 +30,7 @@
     "cough": "PROBLEM"
   },
   {
-    "heart problems": "PROBLEM"
+    "left-sided chest pain": "PROBLEM"
   },
   {
     "nausea": "PROBLEM"
@@ -55,6 +61,12 @@
   },
   {
     "crepitations": "PROBLEM"
+  },
+  {
+    "tenderness": "PROBLEM"
+  },
+  {
+    "distended": "PROBLEM"
   },
   {
     "pedal swelling": "PROBLEM"
@@ -96,6 +108,9 @@
     "CT angiogram": "TEST"
   },
   {
+    "Fluid retention": "PROBLEM"
+  },
+  {
     "Paralytic ileus": "PROBLEM"
   },
   {
@@ -106,6 +121,9 @@
   },
   {
     "chest pain": "PROBLEM"
+  },
+  {
+    "fluid retention": "PROBLEM"
   },
   {
     "paralytic ileus": "PROBLEM"

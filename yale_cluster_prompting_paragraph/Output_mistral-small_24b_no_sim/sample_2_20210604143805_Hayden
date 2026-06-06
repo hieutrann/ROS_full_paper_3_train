@@ -3,7 +3,7 @@
     "cognitive-linguistic deficits": "PROBLEM"
   },
   {
-    "speech therapy": "TREATMENT"
+    "cognitive-linguistic deficits": "PROBLEM"
   },
   {
     "memory": "PROBLEM"
@@ -21,13 +21,31 @@
     "speech therapy": "TREATMENT"
   },
   {
-    "memory": "PROBLEM"
+    "speech therapy": "TREATMENT"
   },
   {
-    "executive function": "PROBLEM"
+    "speech therapy": "TREATMENT"
+  },
+  {
+    "speech therapy": "TREATMENT"
+  },
+  {
+    "cognitive-linguistic ability": "PROBLEM"
+  },
+  {
+    "cognitive-linguistic deficit": "PROBLEM"
+  },
+  {
+    "cognitive domains": "PROBLEM"
   },
   {
     "attention": "PROBLEM"
+  },
+  {
+    "memory": "PROBLEM"
+  },
+  {
+    "executive functions": "PROBLEM"
   },
   {
     "language": "PROBLEM"
@@ -42,10 +60,22 @@
     "speech therapy": "TREATMENT"
   },
   {
-    "discharge summary": "TEST"
+    "speech therapy": "TREATMENT"
   },
   {
-    "narrative": "TEST"
+    "speech therapy": "TREATMENT"
+  },
+  {
+    "speech therapy": "TREATMENT"
+  },
+  {
+    "speech therapy": "TREATMENT"
+  },
+  {
+    "cognitive-linguistic deficits": "PROBLEM"
+  },
+  {
+    "speech therapy": "TREATMENT"
   },
   {
     "memory": "PROBLEM"
@@ -57,13 +87,7 @@
     "attention": "PROBLEM"
   },
   {
-    "speech therapy": "TREATMENT"
-  },
-  {
     "visuospatial": "PROBLEM"
-  },
-  {
-    "accuracy": "TEST"
   },
   {
     "linguistic": "PROBLEM"

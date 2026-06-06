@@ -57,6 +57,12 @@
     "Surgery": "TREATMENT"
   },
   {
+    "HISTORY OF PRESENT ILLNESS": "TEST"
+  },
+  {
+    "57-year-old": "PROBLEM"
+  },
+  {
     "morbid obesity": "PROBLEM"
   },
   {
@@ -69,49 +75,40 @@
     "Bariatric Surgical Center": "TEST"
   },
   {
-    "band": "TREATMENT"
+    "a band": "TREATMENT"
   },
   {
     "cholelithiasis": "PROBLEM"
   },
   {
-    "gallbladder": "PROBLEM"
-  },
-  {
-    "band": "PROBLEM"
-  },
-  {
-    "diabetes": "PROBLEM"
-  },
-  {
-    "infection": "PROBLEM"
-  },
-  {
-    "removal": "TREATMENT"
+    "removal of her gallbladder": "TREATMENT"
   },
   {
     "band placement": "TREATMENT"
   },
   {
-    "procedure": "TREATMENT"
-  },
-  {
-    "blood glucose": "TEST"
+    "diabetes": "PROBLEM"
   },
   {
     "hyperglycemic": "PROBLEM"
   },
   {
-    "sugar": "TEST"
+    "blood glucose check": "TEST"
   },
   {
     "hyperglycemia": "PROBLEM"
   },
   {
-    "insulin": "DRUG"
+    "treatment": "TREATMENT"
   },
   {
-    "sugars": "TEST"
+    "Ms.": "PROBLEM"
+  },
+  {
+    "an insulin drip": "TREATMENT"
+  },
+  {
+    "sugars": "PROBLEM"
   },
   {
     "laparoscopic cholecystectomy": "TREATMENT"
@@ -126,25 +123,19 @@
     "edema": "PROBLEM"
   },
   {
-    "adhesions": "PROBLEM"
+    "mild edema": "PROBLEM"
   },
   {
-    "procedure": "TREATMENT"
-  },
-  {
-    "Postoperative Care Unit": "TREATMENT"
+    "adhesions of omentum": "PROBLEM"
   },
   {
     "blood sugar": "TEST"
   },
   {
-    "insulin": "DRUG"
+    "sliding scale insulin": "DRUG"
   },
   {
-    "procedure": "TREATMENT"
-  },
-  {
-    "Medifast": "DRUG"
+    "Medifast diet": "TREATMENT"
   },
   {
     "blood glucose": "TEST"
@@ -153,25 +144,16 @@
     "lap band": "TREATMENT"
   },
   {
-    "wounds": "PROBLEM"
-  },
-  {
-    "heavy lifting": "TREATMENT"
-  },
-  {
     "narcotic pain medicines": "DRUG"
   },
   {
     "CPAP machine": "TREATMENT"
   },
   {
-    "sugars": "TEST"
+    "sugars": "PROBLEM"
   },
   {
-    "discharge summary": "TEST"
-  },
-  {
-    "medifast": "DRUG"
+    "discharge summary": "PROBLEM"
   },
   {
     "hyperglycemia": "PROBLEM"
@@ -180,7 +162,7 @@
     "laparoscopic cholecystectomy": "TREATMENT"
   },
   {
-    "medifast diet": "DRUG"
+    "medifast diet": "TREATMENT"
   },
   {
     "cholecystitis": "PROBLEM"

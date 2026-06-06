@@ -1,9 +1,9 @@
 [
   {
-    "Liver Biopsy": "TEST"
+    "Liver Biopsy": "TREATMENT"
   },
   {
-    "Percutaneous liver biopsy": "TEST"
+    "Percutaneous liver biopsy": "TREATMENT"
   },
   {
     "Lidocaine": "DRUG"
@@ -15,7 +15,7 @@
     "Codeine": "DRUG"
   },
   {
-    "Hepatitis A and B vaccines": "DRUG"
+    "Bleeding": "PROBLEM"
   },
   {
     "Bile peritonitis": "PROBLEM"
@@ -27,18 +27,15 @@
     "Pneumothorax": "PROBLEM"
   },
   {
+    "Death": "PROBLEM"
+  },
+  {
+    "Percussion": "TEST"
+  },
+  {
+    "Klatskin needle": "TEST"
+  },
+  {
     "Liver": "PROBLEM"
-  },
-  {
-    "Klatskin needle": "TREATMENT"
-  },
-  {
-    "Bard-Parker #11 scalpel": "TREATMENT"
-  },
-  {
-    "Povidone iodine": "TREATMENT"
-  },
-  {
-    "Surgery": "TREATMENT"
   }
 ]

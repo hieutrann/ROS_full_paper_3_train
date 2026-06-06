@@ -24,13 +24,10 @@
     "coronary artery disease": "PROBLEM"
   },
   {
-    "workup": "TEST"
-  },
-  {
     "cardiac workup": "TEST"
   },
   {
-    "telemetry unit": "TEST"
+    "telemetry unit": "TREATMENT"
   },
   {
     "drug screen": "TEST"
@@ -132,12 +129,6 @@
     "illicit drug abuse": "PROBLEM"
   },
   {
-    "PHYSICAL EXAMINATION": "TEST"
-  },
-  {
-    "VITAL SIGNS": "TEST"
-  },
-  {
     "blood pressure": "TEST"
   },
   {
@@ -145,6 +136,12 @@
   },
   {
     "respiratory rate": "TEST"
+  },
+  {
+    "Pupils": "TEST"
+  },
+  {
+    "Extraocular muscles": "TEST"
   },
   {
     "oropharyngeal lesions": "PROBLEM"
@@ -159,10 +156,7 @@
     "lymphadenopathy": "PROBLEM"
   },
   {
-    "LUNGS": "TEST"
-  },
-  {
-    "CARDIAC": "TEST"
+    "regular rate and rhythm": "PROBLEM"
   },
   {
     "Bowel sounds": "TEST"
@@ -172,9 +166,6 @@
   },
   {
     "Distal pulses": "TEST"
-  },
-  {
-    "LABORATORY DATA": "TEST"
   },
   {
     "WBC count": "TEST"
@@ -274,9 +265,6 @@
   },
   {
     "Migraine headaches": "PROBLEM"
-  },
-  {
-    "headaches": "PROBLEM"
   },
   {
     "migraine headache": "PROBLEM"

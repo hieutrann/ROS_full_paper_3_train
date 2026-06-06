@@ -18,88 +18,25 @@
     "sick sinus syndrome": "PROBLEM"
   },
   {
-    "Bradycardia": "PROBLEM"
-  },
-  {
-    "Dizziness": "PROBLEM"
-  },
-  {
-    "Diabetes": "PROBLEM"
-  },
-  {
-    "Hypertension": "PROBLEM"
-  },
-  {
-    "Abdominal pain": "PROBLEM"
-  },
-  {
-    "Sick sinus syndrome": "PROBLEM"
-  },
-  {
-    "Permanent pacemaker": "TREATMENT"
+    "permanent pacemaker": "TREATMENT"
   },
   {
     "temporary internal pacemaker": "TREATMENT"
   },
   {
-    "Permanent pacemaker": "TREATMENT"
-  },
-  {
     "electrocardiograms": "TEST"
   },
   {
-    "telemetry readings": "TEST"
+    "telemetry": "TEST"
   },
   {
-    "sinus rhythm": "PROBLEM"
-  },
-  {
-    "severe bradycardias": "PROBLEM"
-  },
-  {
-    "Permanent pacemaker": "TREATMENT"
-  },
-  {
-    "right atrium appendage": "TREATMENT"
-  },
-  {
-    "right ventricular apex": "TREATMENT"
-  },
-  {
-    "Medtronic pacemaker": "DRUG"
-  },
-  {
-    "pain": "PROBLEM"
-  },
-  {
-    "blood pressure": "TEST"
+    "Medtronic pacemaker": "TREATMENT"
   },
   {
     "benazepril": "DRUG"
   },
   {
     "Norvasc": "DRUG"
-  },
-  {
-    "blood pressure": "TEST"
-  },
-  {
-    "Sick sinus syndrome": "PROBLEM"
-  },
-  {
-    "Diabetes mellitus": "PROBLEM"
-  },
-  {
-    "History of peptic ulcer disease": "PROBLEM"
-  },
-  {
-    "Hypertension": "PROBLEM"
-  },
-  {
-    "Insomnia": "PROBLEM"
-  },
-  {
-    "Osteoarthritis": "PROBLEM"
   },
   {
     "Actos": "DRUG"
@@ -136,44 +73,5 @@
   },
   {
     "cefazolin": "DRUG"
-  },
-  {
-    "staple removal": "TREATMENT"
-  },
-  {
-    "discharge summary": "TEST"
-  },
-  {
-    "bradycardia": "PROBLEM"
-  },
-  {
-    "abdominal pain": "PROBLEM"
-  },
-  {
-    "diabetes": "PROBLEM"
-  },
-  {
-    "dizziness": "PROBLEM"
-  },
-  {
-    "hypertension": "PROBLEM"
-  },
-  {
-    "sick sinus syndrome": "PROBLEM"
-  },
-  {
-    "permanent pacemaker": "TREATMENT"
-  },
-  {
-    "abdominal": "PROBLEM"
-  },
-  {
-    "syndrome": "PROBLEM"
-  },
-  {
-    "sinus": "PROBLEM"
-  },
-  {
-    "pacemaker": "TREATMENT"
   }
 ]

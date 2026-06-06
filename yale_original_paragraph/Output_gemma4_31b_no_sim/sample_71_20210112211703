@@ -1,8 +1,5 @@
 [
   {
-    "Blood Pressure": "TEST"
-  },
-  {
     "blood pressure": "TEST"
   },
   {
@@ -22,9 +19,6 @@
   },
   {
     "Paroxysmal atrial fibrillation": "PROBLEM"
-  },
-  {
-    "normal sinus rhythm": "PROBLEM"
   },
   {
     "Diverticulosis": "PROBLEM"
@@ -138,9 +132,6 @@
     "terazosin": "DRUG"
   },
   {
-    "swelling": "PROBLEM"
-  },
-  {
     "Perioperative hypertension": "PROBLEM"
   },
   {
@@ -169,9 +160,6 @@
   },
   {
     "atrial fibrillation": "PROBLEM"
-  },
-  {
-    "normal sinus rhythm": "PROBLEM"
   },
   {
     "lisinopril": "DRUG"

@@ -84,6 +84,15 @@
     "fever": "PROBLEM"
   },
   {
+    "IVIG": "TREATMENT"
+  },
+  {
+    "IVIG": "TREATMENT"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
     "fever": "PROBLEM"
   },
   {
@@ -96,16 +105,16 @@
     "redness of mucous membranes": "PROBLEM"
   },
   {
-    "cardiac followup": "TREATMENT"
+    "cardiac followup": "TEST"
   },
   {
-    "PO ad-lib": "TREATMENT"
+    "PO ad-lib.": "TREATMENT"
   },
   {
     "Aspirin": "DRUG"
   },
   {
-    "aspirin": "DRUG"
+    "aspirin low dose 40 mg": "DRUG"
   },
   {
     "Prevacid": "DRUG"

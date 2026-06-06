@@ -1,9 +1,9 @@
 [
   {
-    "Obstetrics / Gynecology": "TEST"
+    "Pap": "TEST"
   },
   {
-    "Physical Exam and Pap -2": "TEST"
+    "breast exam": "TEST"
   },
   {
     "Pap": "TEST"
@@ -12,19 +12,13 @@
     "breast exam": "TEST"
   },
   {
-    "patient": "PROBLEM"
-  },
-  {
-    "Pap": "TEST"
-  },
-  {
-    "breast": "TEST"
-  },
-  {
     "Pap smear": "TEST"
   },
   {
     "midchest pain": "PROBLEM"
+  },
+  {
+    "back pain": "PROBLEM"
   },
   {
     "awakened": "PROBLEM"
@@ -48,9 +42,6 @@
     "foot surgery": "TREATMENT"
   },
   {
-    "Clayton": "PROBLEM"
-  },
-  {
     "rheumatoid arthritis": "PROBLEM"
   },
   {
@@ -61,6 +52,9 @@
   },
   {
     "hypothyroidism": "PROBLEM"
+  },
+  {
+    "surgery": "TREATMENT"
   },
   {
     "reactive airway disease": "PROBLEM"
@@ -105,37 +99,37 @@
     "drug": "PROBLEM"
   },
   {
-    "FAMILY HISTORY": "TEST"
+    "FAMILY HISTORY": "TREATMENT"
   },
   {
-    "HEENT": "PROBLEM"
+    "HEENT": "TEST"
   },
   {
-    "pulmonary": "PROBLEM"
+    "pulmonary": "TEST"
   },
   {
-    "cardiovascular": "PROBLEM"
+    "cardiovascular": "TEST"
   },
   {
-    "GI": "PROBLEM"
+    "GI": "TEST"
   },
   {
-    "GU": "PROBLEM"
+    "GU": "TEST"
   },
   {
-    "musculoskeletal": "PROBLEM"
+    "musculoskeletal": "TEST"
   },
   {
-    "neurologic": "PROBLEM"
+    "neurologic": "TEST"
   },
   {
-    "dermatologic": "PROBLEM"
+    "dermatologic": "TEST"
   },
   {
-    "constitutional": "PROBLEM"
+    "constitutional": "TEST"
   },
   {
-    "psychiatric": "PROBLEM"
+    "psychiatric": "TEST"
   },
   {
     "HPI": "PROBLEM"
@@ -171,7 +165,7 @@
     "thyromegaly": "PROBLEM"
   },
   {
-    "Chest": "PROBLEM"
+    "auscultation": "TEST"
   },
   {
     "Cardiovascular": "PROBLEM"
@@ -180,7 +174,13 @@
     "bowel sounds": "TEST"
   },
   {
-    "Abdomen": "PROBLEM"
+    "bowel sounds": "PROBLEM"
+  },
+  {
+    "abdomen": "PROBLEM"
+  },
+  {
+    "abdomen": "TREATMENT"
   },
   {
     "hepatosplenomegaly": "PROBLEM"
@@ -189,22 +189,25 @@
     "nipple discharge": "PROBLEM"
   },
   {
-    "lumps or masses": "PROBLEM"
+    "lumps": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
   },
   {
     "dimpling of the skin": "PROBLEM"
   },
   {
-    "axillary lymph nodes": "PROBLEM"
+    "lymph nodes": "PROBLEM"
   },
   {
     "Self-breast exam": "TEST"
   },
   {
-    "female genitalia": "PROBLEM"
+    "female genitalia": "TEST"
   },
   {
-    "Atrophic vaginal mucosa": "PROBLEM"
+    "vaginal mucosa": "PROBLEM"
   },
   {
     "cervical lesions": "PROBLEM"
@@ -219,7 +222,7 @@
     "masses": "PROBLEM"
   },
   {
-    "Normal sphincter tone": "TEST"
+    "sphincter tone": "TEST"
   },
   {
     "stool": "PROBLEM"
@@ -240,13 +243,10 @@
     "rheumatoid arthritis": "PROBLEM"
   },
   {
-    "Neurologic": "TEST"
+    "Neurologic": "PROBLEM"
   },
   {
     "Chest pain": "PROBLEM"
-  },
-  {
-    "eating": "PROBLEM"
   },
   {
     "ECG": "TEST"
@@ -261,7 +261,7 @@
     "GI reflux": "PROBLEM"
   },
   {
-    "2": "TEST"
+    "2": "TREATMENT"
   },
   {
     "Hypothyroidism": "PROBLEM"
@@ -270,16 +270,16 @@
     "TSH": "TEST"
   },
   {
-    "3": "PROBLEM"
+    "medication": "DRUG"
+  },
+  {
+    "3": "TREATMENT"
   },
   {
     "Rheumatoid arthritis": "PROBLEM"
   },
   {
     "methotrexate": "DRUG"
-  },
-  {
-    "Mortensen": "PROBLEM"
   },
   {
     "XYZ": "DRUG"
@@ -306,10 +306,13 @@
     "rheumatoid arthritis": "PROBLEM"
   },
   {
-    "lymphadenopathy": "PROBLEM"
+    "pap smear": "TEST"
   },
   {
-    "chest": "PROBLEM"
+    "breast exam": "TEST"
+  },
+  {
+    "lymphadenopathy": "PROBLEM"
   },
   {
     "cervical": "PROBLEM"
@@ -318,25 +321,10 @@
     "tenderness": "PROBLEM"
   },
   {
-    "rectal": "PROBLEM"
+    "rectal": "TEST"
   },
   {
-    "cardiac": "PROBLEM"
-  },
-  {
-    "pap smear": "TEST"
-  },
-  {
-    "breast exam": "TEST"
-  },
-  {
-    "complete physical": "TEST"
-  },
-  {
-    "pap": "TEST"
-  },
-  {
-    "smear": "TEST"
+    "cardiac": "TEST"
   },
   {
     "rheumatoid": "PROBLEM"

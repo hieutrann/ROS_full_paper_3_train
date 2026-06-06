@@ -6,9 +6,6 @@
     "feeling faint": "PROBLEM"
   },
   {
-    "nausea": "PROBLEM"
-  },
-  {
     "weak": "PROBLEM"
   },
   {
@@ -78,7 +75,7 @@
     "Norvasc": "DRUG"
   },
   {
-    "Wellbutrin SR": "DRUG"
+    "Wellbutrin SR inhaler": "DRUG"
   },
   {
     "O2": "TREATMENT"
@@ -87,13 +84,19 @@
     "MORPHINE": "DRUG"
   },
   {
-    "VOMITING": "PROBLEM"
-  },
-  {
     "COPD": "PROBLEM"
   },
   {
     "hypertension": "PROBLEM"
+  },
+  {
+    "Tobacco use": "PROBLEM"
+  },
+  {
+    "hysterectomy": "TREATMENT"
+  },
+  {
+    "Temperature": "TEST"
   },
   {
     "pulse": "TEST"
@@ -112,6 +115,18 @@
   },
   {
     "WBC": "TEST"
+  },
+  {
+    "neutrophils": "TEST"
+  },
+  {
+    "lymphocytes": "TEST"
+  },
+  {
+    "monocytes": "TEST"
+  },
+  {
+    "eosinophils": "TEST"
   },
   {
     "Hemoglobin": "TEST"
@@ -156,16 +171,19 @@
     "sinus tachycardia": "PROBLEM"
   },
   {
-    "albuterol": "DRUG"
+    "albuterol unit dose small volume nebulizer treatment": "TREATMENT"
   },
   {
-    "saline lock": "TREATMENT"
+    "normal saline lock": "TREATMENT"
   },
   {
     "IV fluids": "TREATMENT"
   },
   {
     "normal saline": "TREATMENT"
+  },
+  {
+    "anemia": "PROBLEM"
   },
   {
     "hyponatremia": "PROBLEM"
@@ -180,7 +198,7 @@
     "Acute tiredness": "PROBLEM"
   },
   {
-    "Anemia": "PROBLEM"
+    "Anemia of unknown etiology": "PROBLEM"
   },
   {
     "Acute hyponatremia": "PROBLEM"

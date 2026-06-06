@@ -27,7 +27,7 @@
     "throat abnormalities": "PROBLEM"
   },
   {
-    "elevated cholesterol": "PROBLEM"
+    "cholesterol": "PROBLEM"
   },
   {
     "ASHD": "PROBLEM"
@@ -90,7 +90,22 @@
     "Micronase": "DRUG"
   },
   {
-    "Bactrim": "DRUG"
+    "Bactrim 400/80 Tab PO BID #30": "DRUG"
+  },
+  {
+    "drug": "DRUG"
+  },
+  {
+    "alcohol": "DRUG"
+  },
+  {
+    "Work": "TEST"
+  },
+  {
+    "diet": "TREATMENT"
+  },
+  {
+    "exercise": "TREATMENT"
   },
   {
     "Height": "TEST"
@@ -111,40 +126,40 @@
     "afebrile": "PROBLEM"
   },
   {
-    "neck": "PROBLEM"
+    "supple": "PROBLEM"
   },
   {
     "jugular venous distension": "PROBLEM"
   },
   {
-    "nontender": "PROBLEM"
+    "thyroid": "PROBLEM"
   },
   {
     "Lung expansion": "TEST"
   },
   {
-    "auscultation": "TEST"
+    "excursions": "TEST"
   },
   {
-    "percussion": "TEST"
+    "lungs": "PROBLEM"
   },
   {
-    "rhythm": "PROBLEM"
+    "Cardio": "TEST"
+  },
+  {
+    "SI": "TEST"
+  },
+  {
+    "S2": "TEST"
+  },
+  {
+    "heart sounds": "TEST"
   },
   {
     "Blood pressure": "TEST"
   },
   {
     "bowel sounds": "TEST"
-  },
-  {
-    "abdomen": "TEST"
-  },
-  {
-    "abdomen": "TEST"
-  },
-  {
-    "organomegaly": "PROBLEM"
   },
   {
     "CVA tenderness": "PROBLEM"
@@ -171,10 +186,13 @@
     "CBC": "TEST"
   },
   {
-    "Micronase": "DRUG"
+    "Micronase 2.5 mg Tab PO QAM #30": "DRUG"
   },
   {
-    "Bactrim": "DRUG"
+    "Bactrim 400/80 Tab PO BID #30": "DRUG"
+  },
+  {
+    "general medicine": "TEST"
   },
   {
     "bactrim": "DRUG"
@@ -186,15 +204,21 @@
     "abdominal pain": "PROBLEM"
   },
   {
+    "endocrinology": "TEST"
+  },
+  {
     "cbc": "TEST"
   },
   {
     "diabetes type ii": "PROBLEM"
   },
   {
+    "acute cystitis": "PROBLEM"
+  },
+  {
     "diabetes": "PROBLEM"
   },
   {
-    "acute cystitis": "PROBLEM"
+    "abnormalities": "PROBLEM"
   }
 ]

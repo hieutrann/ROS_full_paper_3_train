@@ -1,12 +1,12 @@
 [
   {
-    "General Medicine": "PROBLEM"
-  },
-  {
     "shortness of breath": "PROBLEM"
   },
   {
-    "acute COPD exacerbation": "PROBLEM"
+    "COPD": "PROBLEM"
+  },
+  {
+    "COPD exacerbation": "PROBLEM"
   },
   {
     "Chronic obstructive pulmonary disease": "PROBLEM"
@@ -51,6 +51,33 @@
     "Diverticular bleed": "PROBLEM"
   },
   {
+    "Bronchitis": "PROBLEM"
+  },
+  {
+    "BiPAP": "TREATMENT"
+  },
+  {
+    "antibiotics": "DRUG"
+  },
+  {
+    "packed red blood cells": "TREATMENT"
+  },
+  {
+    "endoscopy": "TEST"
+  },
+  {
+    "diverticular disease": "PROBLEM"
+  },
+  {
+    "hemorrhage": "PROBLEM"
+  },
+  {
+    "Plavix": "DRUG"
+  },
+  {
+    "Lovenox": "DRUG"
+  },
+  {
     "Albuterol inhaler": "DRUG"
   },
   {
@@ -72,7 +99,7 @@
     "Atrovent inhaler": "DRUG"
   },
   {
-    "Statin": "DRUG"
+    "Statin oral suspension": "DRUG"
   },
   {
     "Paxil": "DRUG"
@@ -84,6 +111,9 @@
     "Darvocet": "DRUG"
   },
   {
+    "Darvocet-N": "DRUG"
+  },
+  {
     "Metamucil": "DRUG"
   },
   {
@@ -91,89 +121,5 @@
   },
   {
     "Nexium": "DRUG"
-  },
-  {
-    "BiPAP": "TEST"
-  },
-  {
-    "antibiotics": "DRUG"
-  },
-  {
-    "acute lower GI bleed": "PROBLEM"
-  },
-  {
-    "packed red blood cells": "TEST"
-  },
-  {
-    "endoscopy": "TEST"
-  },
-  {
-    "diverticular disease": "PROBLEM"
-  },
-  {
-    "Plavix": "DRUG"
-  },
-  {
-    "Lovenox": "DRUG"
-  },
-  {
-    "Dr. Pesce": "PROBLEM"
-  },
-  {
-    "diagnostic pulmonary": "PROBLEM"
-  },
-  {
-    "chronic obstructive pulmonary disease": "PROBLEM"
-  },
-  {
-    "pneumonia": "PROBLEM"
-  },
-  {
-    "congestive heart failure": "PROBLEM"
-  },
-  {
-    "diabetes mellitus": "PROBLEM"
-  },
-  {
-    "neuropathy": "PROBLEM"
-  },
-  {
-    "anxiety": "PROBLEM"
-  },
-  {
-    "hypothyroidism": "PROBLEM"
-  },
-  {
-    "depression": "PROBLEM"
-  },
-  {
-    "hypertension": "PROBLEM"
-  },
-  {
-    "shortness of breath": "PROBLEM"
-  },
-  {
-    "obstructive pulmonary disease": "PROBLEM"
-  },
-  {
-    "pulmonary disease": "PROBLEM"
-  },
-  {
-    "discharge": "PROBLEM"
-  },
-  {
-    "inhaler": "DRUG"
-  },
-  {
-    "copd": "PROBLEM"
-  },
-  {
-    "exacerbation": "PROBLEM"
-  },
-  {
-    "pulmonary": "PROBLEM"
-  },
-  {
-    "breath": "PROBLEM"
   }
 ]

@@ -1,21 +1,27 @@
 [
   {
-    "microinvasive carcinoma of the cervix": "PROBLEM"
+    "Total vaginal hysterectomy": "TREATMENT"
+  },
+  {
+    "Microinvasive carcinoma of the cervix": "PROBLEM"
+  },
+  {
+    "Microinvasive carcinoma of the cervix": "PROBLEM"
+  },
+  {
+    "Microinvasive carcinoma of the cervix": "PROBLEM"
   },
   {
     "microinvasive carcinoma": "PROBLEM"
   },
   {
-    "Total vaginal hysterectomy": "TREATMENT"
+    "microinvasive carcinoma": "PROBLEM"
   },
   {
     "Pap smear": "TEST"
   },
   {
-    "biopsy": "TEST"
-  },
-  {
-    "cone biopsy": "TEST"
+    "Pap smears": "TEST"
   },
   {
     "Chest x-ray": "TEST"
@@ -24,10 +30,7 @@
     "hemoglobin": "TEST"
   },
   {
-    "cystotomy": "PROBLEM"
-  },
-  {
-    "bladder flap": "PROBLEM"
+    "total vaginal hysterectomy": "TREATMENT"
   },
   {
     "Vicodin": "DRUG"
@@ -40,11 +43,5 @@
   },
   {
     "urinary tract infection": "PROBLEM"
-  },
-  {
-    "cystogram": "TEST"
-  },
-  {
-    "catheter": "TEST"
   }
 ]

@@ -1,15 +1,12 @@
 [
   {
-    "Mastoiditis": "PROBLEM"
-  },
-  {
     "mastoiditis": "PROBLEM"
   },
   {
-    "right acute otitis media": "PROBLEM"
+    "acute otitis media": "PROBLEM"
   },
   {
-    "severe ear pain": "PROBLEM"
+    "ear pain": "PROBLEM"
   },
   {
     "CT scan": "TEST"
@@ -24,7 +21,7 @@
     "acute otitis media": "PROBLEM"
   },
   {
-    "Severe ear pain": "PROBLEM"
+    "ear pain": "PROBLEM"
   },
   {
     "CT scan": "TEST"
@@ -42,7 +39,7 @@
     "temperature": "TEST"
   },
   {
-    "Unasyn": "DRUG"
+    "IV Unasyn": "DRUG"
   },
   {
     "Morphine": "DRUG"
@@ -57,7 +54,10 @@
     "pain": "PROBLEM"
   },
   {
-    "swelling of his cervical area": "PROBLEM"
+    "swelling": "PROBLEM"
+  },
+  {
+    "cervical area": "PROBLEM"
   },
   {
     "CT scan": "TEST"
@@ -82,6 +82,9 @@
   },
   {
     "swelling": "PROBLEM"
+  },
+  {
+    "respiratory distress": "PROBLEM"
   },
   {
     "temperature": "TEST"

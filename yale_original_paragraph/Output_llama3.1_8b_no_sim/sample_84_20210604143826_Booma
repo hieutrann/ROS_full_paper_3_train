@@ -21,25 +21,16 @@
     "D10": "DRUG"
   },
   {
-    "terbutaline": "DRUG"
-  },
-  {
-    "magnesium sulfate": "DRUG"
-  },
-  {
     "CPR": "TREATMENT"
   },
   {
-    "incision": "TREATMENT"
+    "NICU": "TREATMENT"
   },
   {
-    "drainage": "TREATMENT"
+    "OG tube": "TREATMENT"
   },
   {
-    "suctioned": "TREATMENT"
-  },
-  {
-    "IV fluids": "TREATMENT"
+    "prenatal": "TEST"
   },
   {
     "CBC": "TEST"
@@ -51,12 +42,12 @@
     "blood cultures": "TEST"
   },
   {
+    "IV fluids": "TEST"
+  },
+  {
     "Apgar scores": "TEST"
   },
   {
     "gestation": "TEST"
-  },
-  {
-    "weight": "TEST"
   }
 ]

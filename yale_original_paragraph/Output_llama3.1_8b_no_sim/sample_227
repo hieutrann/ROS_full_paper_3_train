@@ -1,21 +1,24 @@
 [
   {
-    "Diabetes Mellitus": "PROBLEM"
+    "diabetes mellitus": "PROBLEM"
   },
   {
-    "Diabetic Neuropathy": "PROBLEM"
+    "diabetic neuropathy": "PROBLEM"
   },
   {
-    "Scalp Laceration": "PROBLEM"
+    "microalbuminuria": "PROBLEM"
   },
   {
-    "Elevated Alk Phos": "PROBLEM"
+    "scalp laceration": "PROBLEM"
+  },
+  {
+    "elevated Alk Phos": "PROBLEM"
   },
   {
     "SGGT": "TEST"
   },
   {
-    "Hepatic Panel": "TEST"
+    "hepatic panel": "TEST"
   },
   {
     "Ace Inhibitor": "DRUG"
@@ -27,57 +30,30 @@
     "Prilosec OTC": "DRUG"
   },
   {
-    "NPH": "DRUG"
-  },
-  {
-    "Regular Insulin": "DRUG"
-  },
-  {
     "Nexium": "DRUG"
   },
   {
     "Viagra": "DRUG"
   },
   {
-    "Microalbumin": "TEST"
+    "NPH": "DRUG"
   },
   {
-    "Glucometer": "TEST"
+    "Regular insulin": "DRUG"
   },
   {
-    "Low Dose Ace Inhibitor": "TREATMENT"
+    "glucometer": "TEST"
+  },
+  {
+    "low dose Ace Inhibitor": "TREATMENT"
   },
   {
     "Prior Authorization for Lantus": "TREATMENT"
   },
   {
-    "Incision and Drainage": "TREATMENT"
+    "referral to Endocrinology": "TREATMENT"
   },
   {
-    "Incision": "TREATMENT"
-  },
-  {
-    "Drainage": "TREATMENT"
-  },
-  {
-    "Scooter Accident": "PROBLEM"
-  },
-  {
-    "Headache": "PROBLEM"
-  },
-  {
-    "Dizziness": "PROBLEM"
-  },
-  {
-    "Nausea": "PROBLEM"
-  },
-  {
-    "Vomiting": "PROBLEM"
-  },
-  {
-    "Neurological": "PROBLEM"
-  },
-  {
-    "GERD Symptoms": "PROBLEM"
+    "GERD symptoms": "PROBLEM"
   }
 ]

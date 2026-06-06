@@ -3,40 +3,55 @@
     "Hypertension": "PROBLEM"
   },
   {
-    "cerebrovascular accident": "PROBLEM"
+    "CVA": "PROBLEM"
   },
   {
     "Compression fracture of L1": "PROBLEM"
   },
   {
-    "osteoporosis": "PROBLEM"
+    "Osteoarthritis of knee": "PROBLEM"
   },
   {
-    "chest pain": "PROBLEM"
+    "Coronary disease": "PROBLEM"
   },
   {
-    "lightheadedness": "PROBLEM"
+    "Stroke risk": "PROBLEM"
   },
   {
-    "shortness of breath": "PROBLEM"
+    "Cardiac disease": "PROBLEM"
   },
   {
-    "osteoarthritis of the knee": "PROBLEM"
+    "Shortness of breath": "PROBLEM"
+  },
+  {
+    "Lightheadedness": "PROBLEM"
+  },
+  {
+    "Nausea": "PROBLEM"
+  },
+  {
+    "Vomiting": "PROBLEM"
+  },
+  {
+    "Diarrhea": "PROBLEM"
+  },
+  {
+    "Total knee replacement": "TREATMENT"
   },
   {
     "DEXA scan": "TEST"
   },
   {
-    "EKG": "TEST"
-  },
-  {
-    "chest x-ray": "TEST"
+    "Echocardiogram": "TEST"
   },
   {
     "Holter monitor": "TEST"
   },
   {
-    "Echocardiogram": "TEST"
+    "C-reactive protein cardiac": "TEST"
+  },
+  {
+    "Colonoscopy": "TEST"
   },
   {
     "Fosamax": "DRUG"
@@ -51,19 +66,19 @@
     "Vioxx": "DRUG"
   },
   {
-    "vitamin C": "DRUG"
+    "Vitamin C": "DRUG"
   },
   {
-    "vitamin E": "DRUG"
+    "Vitamin E": "DRUG"
   },
   {
-    "calcium with D": "DRUG"
+    "Calcium with D": "DRUG"
   },
   {
-    "multivitamin": "DRUG"
+    "Multivitamin": "DRUG"
   },
   {
-    "aspirin": "DRUG"
+    "Aspirin": "DRUG"
   },
   {
     "Monopril": "DRUG"
@@ -75,30 +90,18 @@
     "Bactrim": "DRUG"
   },
   {
-    "incision and drainage": "TREATMENT"
-  },
-  {
-    "total knee replacement": "TREATMENT"
+    "Adhesive tape": "DRUG"
   },
   {
     "Weight Watchers": "TREATMENT"
   },
   {
-    "dietician": "TREATMENT"
-  },
-  {
-    "screening colonoscopy": "TREATMENT"
+    "Dietician": "TREATMENT"
   },
   {
     "Fosamax": "TREATMENT"
   },
   {
-    "preoperative evaluation": "TREATMENT"
-  },
-  {
-    "preoperative cardiac testing": "TREATMENT"
-  },
-  {
-    "preoperative beta-blocker": "TREATMENT"
+    "Beta-blocker": "TREATMENT"
   }
 ]

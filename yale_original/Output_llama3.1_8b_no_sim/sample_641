@@ -6,28 +6,34 @@
     "atrial fibrillation": "PROBLEM"
   },
   {
-    "large cardioembolic stroke": "PROBLEM"
+    "cardioembolic stroke": "PROBLEM"
   },
   {
-    "right brain": "PROBLEM"
+    "Medical management": "TREATMENT"
   },
   {
-    "special procedures": "TREATMENT"
+    "procedures": "TREATMENT"
   },
   {
-    "HISTORY OF PRESENT ILLNESS": "TEST"
+    "Dr": "TREATMENT"
   },
   {
     "stroke": "PROBLEM"
   },
   {
-    "left body findings": "PROBLEM"
+    "brain": "PROBLEM"
+  },
+  {
+    "body": "PROBLEM"
   },
   {
     "CT scan": "TEST"
   },
   {
     "head": "PROBLEM"
+  },
+  {
+    "protocol medication": "DRUG"
   },
   {
     "TPA": "DRUG"
@@ -63,7 +69,10 @@
     "paralyzation": "TREATMENT"
   },
   {
-    "diastolic": "PROBLEM"
+    "diastolic": "TEST"
+  },
+  {
+    "stroke": "PROBLEM"
   },
   {
     "arteriogram": "TEST"
@@ -81,10 +90,7 @@
     "Dr.": "TREATMENT"
   },
   {
-    "prognosis": "PROBLEM"
-  },
-  {
-    "STAT echocardiogram": "TEST"
+    "echocardiogram": "TEST"
   },
   {
     "clot": "PROBLEM"
@@ -96,7 +102,13 @@
     "arteriogram": "TEST"
   },
   {
-    "Complete review of systems": "PROBLEM"
+    "Echo": "TEST"
+  },
+  {
+    "lifesaving procedure": "TREATMENT"
+  },
+  {
+    "review of systems": "TEST"
   },
   {
     "bladder distension surgery": "TREATMENT"
@@ -138,7 +150,7 @@
     "Cholecystectomy": "TREATMENT"
   },
   {
-    "TAH 33": "TREATMENT"
+    "TAH": "TREATMENT"
   },
   {
     "gallstones": "PROBLEM"
@@ -198,7 +210,7 @@
     "MI": "PROBLEM"
   },
   {
-    "VACCINATION STATUS": "PROBLEM"
+    "VACCINATION": "TEST"
   },
   {
     "temperature": "TEST"
@@ -214,12 +226,6 @@
   },
   {
     "alert": "PROBLEM"
-  },
-  {
-    "vital signs": "TEST"
-  },
-  {
-    "physical exam": "TEST"
   },
   {
     "white count": "TEST"
@@ -255,6 +261,9 @@
     "ESR": "TEST"
   },
   {
+    "coags": "TEST"
+  },
+  {
     "EKG": "TEST"
   },
   {
@@ -270,28 +279,37 @@
     "shoulder films": "TEST"
   },
   {
-    "CT scan of the head": "TEST"
+    "CT scan": "TEST"
+  },
+  {
+    "head": "PROBLEM"
   },
   {
     "Chest x-ray": "TEST"
   },
   {
-    "ET tube placement": "TEST"
+    "ET tube": "TREATMENT"
   },
   {
     "cardiomegaly": "PROBLEM"
   },
   {
-    "OGD": "PROBLEM"
+    "aorta": "PROBLEM"
   },
   {
     "atherosclerosis": "PROBLEM"
+  },
+  {
+    "OGD": "TEST"
   },
   {
     "CT scan": "TEST"
   },
   {
     "X-rays": "TEST"
+  },
+  {
+    "radiologies": "TEST"
   },
   {
     "cardioembolic stroke": "PROBLEM"
@@ -312,7 +330,7 @@
     "patent foramen ovale": "PROBLEM"
   },
   {
-    "cardiologist": "PROBLEM"
+    "cardiologist": "TREATMENT"
   },
   {
     "echocardiogram": "TEST"
@@ -336,10 +354,10 @@
     "emergency retrieval device": "TREATMENT"
   },
   {
-    "interventional radiology": "TREATMENT"
+    "radiology": "TEST"
   },
   {
-    "2": "TEST"
+    "2": "TREATMENT"
   },
   {
     "Hypertension": "PROBLEM"
@@ -360,10 +378,13 @@
     "Cardizem": "DRUG"
   },
   {
-    "atrial fibrillation": "PROBLEM"
+    "systolic": "TEST"
   },
   {
-    "heart block": "PROBLEM"
+    "diastolics": "TEST"
+  },
+  {
+    "atrial fibrillation": "PROBLEM"
   },
   {
     "Digoxin": "DRUG"
@@ -396,7 +417,7 @@
     "hypertension": "PROBLEM"
   },
   {
-    "cardiology": "PROBLEM"
+    "cardiology": "TREATMENT"
   },
   {
     "Digoxin": "DRUG"
@@ -409,12 +430,6 @@
   },
   {
     "ultrasound": "TEST"
-  },
-  {
-    "3": "TEST"
-  },
-  {
-    "Respiratory failure": "PROBLEM"
   },
   {
     "ventilator": "TREATMENT"
@@ -438,10 +453,10 @@
     "pH": "TEST"
   },
   {
-    "cardiac arrhythmia": "PROBLEM"
+    "alkalosis": "PROBLEM"
   },
   {
-    "alkalosis": "PROBLEM"
+    "cardiac arrhythmia": "PROBLEM"
   },
   {
     "4": "TEST"
@@ -465,19 +480,10 @@
     "DIC": "PROBLEM"
   },
   {
-    "venom": "DRUG"
-  },
-  {
-    "vampire": "DRUG"
-  },
-  {
-    "prophylaxis": "TREATMENT"
-  },
-  {
     "CBCs": "TEST"
   },
   {
-    "6": "PROBLEM"
+    "6": "TEST"
   },
   {
     "tube feeds": "TREATMENT"
@@ -486,16 +492,13 @@
     "Dr": "TREATMENT"
   },
   {
-    "Devlin's": "PROBLEM"
+    "neurologic": "PROBLEM"
   },
   {
     "medication treatment": "TREATMENT"
   },
   {
     "fibrillation": "PROBLEM"
-  },
-  {
-    "foramen ovale": "PROBLEM"
   },
   {
     "atrial": "PROBLEM"
@@ -507,6 +510,9 @@
     "clot": "PROBLEM"
   },
   {
+    "foramen ovale": "PROBLEM"
+  },
+  {
     "chest x ray": "TEST"
   },
   {
@@ -516,7 +522,7 @@
     "echocardiogram": "TEST"
   },
   {
-    "general medicine": "PROBLEM"
+    "general medicine": "TREATMENT"
   },
   {
     "medical management": "TREATMENT"
@@ -529,8 +535,5 @@
   },
   {
     "consult request": "TREATMENT"
-  },
-  {
-    "review of systems": "TEST"
   }
 ]

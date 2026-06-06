@@ -1,36 +1,36 @@
 [
   {
-    "Sepsis": "PROBLEM"
+    "sepsis": "PROBLEM"
   },
   {
-    "Obstructive uropathy": "PROBLEM"
+    "obstructive uropathy": "PROBLEM"
   },
   {
-    "Dementia": "PROBLEM"
+    "dementia": "PROBLEM"
   },
   {
-    "Atrial fibrillation": "PROBLEM"
+    "atrial fibrillation": "PROBLEM"
   },
   {
-    "Anemia": "PROBLEM"
+    "anemia": "PROBLEM"
   },
   {
-    "Adrenal gland mass": "PROBLEM"
+    "adrenal gland mass": "PROBLEM"
   },
   {
-    "Urinary tract infection": "PROBLEM"
+    "urinary tract infection": "PROBLEM"
   },
   {
     "Levaquin": "DRUG"
   },
   {
-    "Gentamicin": "DRUG"
+    "gentamicin": "DRUG"
   },
   {
     "IV fluids": "TREATMENT"
   },
   {
-    "Hypertonic-hypotonic": "TREATMENT"
+    "anticoagulation": "TREATMENT"
   },
   {
     "SCD": "TREATMENT"
@@ -39,85 +39,13 @@
     "TED hose": "TREATMENT"
   },
   {
-    "Digoxin": "DRUG"
+    "digoxin": "DRUG"
   },
   {
-    "Aldactone": "DRUG"
+    "dementia medications": "DRUG"
   },
   {
-    "Amoxicillin": "DRUG"
-  },
-  {
-    "Lasix": "DRUG"
-  },
-  {
-    "Seroquel": "DRUG"
-  },
-  {
-    "Aldactone": "DRUG"
-  },
-  {
-    "Ambien": "DRUG"
-  },
-  {
-    "Milk of magnesia": "DRUG"
-  },
-  {
-    "Tylenol": "DRUG"
-  },
-  {
-    "Tramadol": "DRUG"
-  },
-  {
-    "Soma": "DRUG"
-  },
-  {
-    "Coumadin": "DRUG"
-  },
-  {
-    "Zoloft": "DRUG"
-  },
-  {
-    "Allopurinol": "DRUG"
-  },
-  {
-    "Digoxin": "DRUG"
-  },
-  {
-    "Namenda": "DRUG"
-  },
-  {
-    "Zocor": "DRUG"
-  },
-  {
-    "BuSpar": "DRUG"
-  },
-  {
-    "Detrol": "DRUG"
-  },
-  {
-    "Coreg": "DRUG"
-  },
-  {
-    "Colace": "DRUG"
-  },
-  {
-    "Calcium": "DRUG"
-  },
-  {
-    "Zantac": "DRUG"
-  },
-  {
-    "Lasix": "DRUG"
-  },
-  {
-    "Seroquel": "DRUG"
-  },
-  {
-    "Aldactone": "DRUG"
-  },
-  {
-    "Amoxicillin": "DRUG"
+    "PPI": "DRUG"
   },
   {
     "CT scan": "TEST"
@@ -132,19 +60,19 @@
     "White count": "TEST"
   },
   {
-    "Hemoglobin": "TEST"
+    "hemoglobin": "TEST"
   },
   {
-    "Platelet count": "TEST"
+    "platelet count": "TEST"
   },
   {
     "Sodium": "TEST"
   },
   {
-    "Potassium": "TEST"
+    "potassium": "TEST"
   },
   {
-    "Chloride": "TEST"
+    "chloride": "TEST"
   },
   {
     "CO2": "TEST"
@@ -153,6 +81,6 @@
     "BUN": "TEST"
   },
   {
-    "Creatinine": "TEST"
+    "creatinine": "TEST"
   }
 ]

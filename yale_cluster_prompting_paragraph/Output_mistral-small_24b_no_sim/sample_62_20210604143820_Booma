@@ -1,15 +1,18 @@
 [
   {
-    "Nausea": "PROBLEM"
-  },
-  {
-    "faint": "PROBLEM"
-  },
-  {
     "nausea": "PROBLEM"
   },
   {
+    "feeling faint": "PROBLEM"
+  },
+  {
     "weak": "PROBLEM"
+  },
+  {
+    "COPD": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
   },
   {
     "fever": "PROBLEM"
@@ -69,106 +72,7 @@
     "paresthesias": "PROBLEM"
   },
   {
-    "faint": "PROBLEM"
-  },
-  {
-    "VITAL SIGNS": "TEST"
-  },
-  {
-    "Temperature": "TEST"
-  },
-  {
-    "pulse": "TEST"
-  },
-  {
-    "respirations": "TEST"
-  },
-  {
-    "BP": "TEST"
-  },
-  {
-    "WBC": "TEST"
-  },
-  {
-    "differential": "TEST"
-  },
-  {
-    "neutrophils": "TEST"
-  },
-  {
-    "lymphocytes": "TEST"
-  },
-  {
-    "monocytes": "TEST"
-  },
-  {
-    "eosinophils": "TEST"
-  },
-  {
-    "Hemoglobin": "TEST"
-  },
-  {
-    "hematocrit": "TEST"
-  },
-  {
-    "Comprehensive medical profile": "TEST"
-  },
-  {
-    "sodium": "TEST"
-  },
-  {
-    "chloride": "TEST"
-  },
-  {
-    "calcium": "TEST"
-  },
-  {
-    "total protein": "TEST"
-  },
-  {
-    "albumin": "TEST"
-  },
-  {
-    "Amylase": "TEST"
-  },
-  {
-    "lipase": "TEST"
-  },
-  {
-    "Clean catch urinalysis": "TEST"
-  },
-  {
-    "Chest x-ray": "TEST"
-  },
-  {
-    "O2 sat": "TEST"
-  },
-  {
-    "ED STUDIES": "TEST"
-  },
-  {
-    "ED COURSE": "TEST"
-  },
-  {
-    "albuterol": "DRUG"
-  },
-  {
-    "small volume nebulizer treatment": "TREATMENT"
-  },
-  {
-    "normal saline lock": "DRUG"
-  },
-  {
-    "IV fluids": "DRUG"
-  },
-  {
-    "normal saline": "DRUG"
-  },
-  {
-    "rectal examination": "TEST"
-  },
-  {
-    "hemoglobin": "TEST"
+    "tiredness": "PROBLEM"
   },
   {
     "anemia": "PROBLEM"
@@ -177,16 +81,7 @@
     "hyponatremia": "PROBLEM"
   },
   {
-    "tiredness": "PROBLEM"
-  },
-  {
-    "Acute tiredness": "PROBLEM"
-  },
-  {
-    "Anemia of unknown etiology": "PROBLEM"
-  },
-  {
-    "Acute hyponatremia": "PROBLEM"
+    "rectal bleeding": "PROBLEM"
   },
   {
     "Diovan": "DRUG"
@@ -207,39 +102,48 @@
     "MORPHINE": "DRUG"
   },
   {
-    "COPD": "PROBLEM"
+    "tetanus immunization": "DRUG"
   },
   {
-    "hypertension": "PROBLEM"
+    "albuterol unit dose small volume nebulizer treatment": "TREATMENT"
   },
   {
-    "Tobacco use": "PROBLEM"
+    "normal saline lock": "TREATMENT"
   },
   {
-    "Alcohol use": "PROBLEM"
+    "IV fluids": "TREATMENT"
   },
   {
-    "TETANUS IMMUNIZATION": "DRUG"
+    "rectal examination": "TEST"
   },
   {
-    "hysterectomy": "TREATMENT"
+    "WBC": "TEST"
   },
   {
-    "salt": "DRUG"
+    "differential": "TEST"
   },
   {
     "hemoglobin": "TEST"
   },
   {
-    "saline lock": "DRUG"
+    "hematocrit": "TEST"
   },
   {
-    "edema": "PROBLEM"
+    "comprehensive medical profile": "TEST"
   },
   {
-    "nausea": "PROBLEM"
+    "amylase": "TEST"
   },
   {
-    "Wellbutrin": "DRUG"
+    "lipase": "TEST"
+  },
+  {
+    "clean catch urinalysis": "TEST"
+  },
+  {
+    "O2 sat": "TEST"
+  },
+  {
+    "chest x-ray": "TEST"
   }
 ]

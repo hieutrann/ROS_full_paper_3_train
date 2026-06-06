@@ -12,13 +12,10 @@
     "total knee replacement": "TREATMENT"
   },
   {
-    "ABCD Hospital": "TREATMENT"
+    "ABCD Hospital": "DRUG"
   },
   {
     "autologous blood": "DRUG"
-  },
-  {
-    "DVT prophylaxis": "TREATMENT"
   },
   {
     "Coumadin": "DRUG"
@@ -33,10 +30,10 @@
     "TED stockings": "TREATMENT"
   },
   {
-    "postoperative course": "PROBLEM"
+    "DVT prophylaxis": "TREATMENT"
   },
   {
-    "ABCD Hospital": "TREATMENT"
+    "ABCD Hospital": "DRUG"
   },
   {
     "XYZ Services": "TREATMENT"
@@ -60,7 +57,7 @@
     "right knee pain": "PROBLEM"
   },
   {
-    "NKDA": "DRUG"
+    "NKDA": "PROBLEM"
   },
   {
     "Hypertension": "PROBLEM"
@@ -111,22 +108,31 @@
     "trazodone": "DRUG"
   },
   {
-    "Temperature": "TEST"
+    "Temperature 96.5": "PROBLEM"
   },
   {
-    "blood pressure": "TEST"
+    "blood pressure 127/72": "PROBLEM"
   },
   {
-    "pulse": "TEST"
+    "pulse 70": "PROBLEM"
   },
   {
-    "respiratory rate": "TEST"
+    "respiratory rate 20": "PROBLEM"
   },
   {
-    "O2 saturation": "TEST"
+    "95% O2 saturation": "PROBLEM"
   },
   {
     "right knee pain": "PROBLEM"
+  },
+  {
+    "right knee pain": "PROBLEM"
+  },
+  {
+    "certain position": "PROBLEM"
+  },
+  {
+    "Normocephalic": "PROBLEM"
   },
   {
     "Sclerae nonicteric": "PROBLEM"
@@ -150,19 +156,28 @@
     "LUNGS": "PROBLEM"
   },
   {
-    "HEART": "TEST"
+    "Regular rate and rhythm": "PROBLEM"
   },
   {
-    "Normal S1 and S2": "TEST"
+    "S1": "PROBLEM"
   },
   {
-    "ABDOMEN": "PROBLEM"
+    "S2": "PROBLEM"
+  },
+  {
+    "Soft": "PROBLEM"
+  },
+  {
+    "nontender": "PROBLEM"
+  },
+  {
+    "nondistended": "PROBLEM"
   },
   {
     "organomegaly": "PROBLEM"
   },
   {
-    "right knee incision": "PROBLEM"
+    "right knee": "PROBLEM"
   },
   {
     "Steri-Strips": "TREATMENT"
@@ -171,22 +186,19 @@
     "diffuse right knee edema": "PROBLEM"
   },
   {
-    "limited ecchymosis": "PROBLEM"
+    "ecchymosis": "PROBLEM"
   },
   {
     "calf tenderness": "PROBLEM"
   },
   {
-    "Pedal pulses": "TEST"
+    "Pedal pulses": "PROBLEM"
   },
   {
     "anxious": "PROBLEM"
   },
   {
-    "alert": "TEST"
-  },
-  {
-    "oriented": "TEST"
+    "exam": "TEST"
   },
   {
     "Transitional Care Unit": "TREATMENT"
@@ -204,10 +216,10 @@
     "CPM machine": "TREATMENT"
   },
   {
-    "CPM": "TREATMENT"
+    "knee pain": "PROBLEM"
   },
   {
-    "right knee pain": "PROBLEM"
+    "CPM": "TREATMENT"
   },
   {
     "pain management": "TREATMENT"
@@ -228,7 +240,13 @@
     "contact dermatitis": "PROBLEM"
   },
   {
-    "gardening activities": "PROBLEM"
+    "gardening": "PROBLEM"
+  },
+  {
+    "surgery": "TEST"
+  },
+  {
+    "gardening activities": "TREATMENT"
   },
   {
     "betamethasone cream": "DRUG"
@@ -246,7 +264,13 @@
     "right knee pain": "PROBLEM"
   },
   {
-    "oxycodone SR 20 mg b.i.d.": "DRUG"
+    "Percocet": "DRUG"
+  },
+  {
+    "oxycodone SR 20 mg": "DRUG"
+  },
+  {
+    "Pain": "PROBLEM"
   },
   {
     "Percocet": "DRUG"
@@ -261,7 +285,16 @@
     "INR": "TEST"
   },
   {
+    "Lovenox 40 mg subcu": "DRUG"
+  },
+  {
+    "INR": "TEST"
+  },
+  {
     "Coumadin": "DRUG"
+  },
+  {
+    "INRs": "TEST"
   },
   {
     "DVT": "PROBLEM"
@@ -271,6 +304,9 @@
   },
   {
     "UA": "TEST"
+  },
+  {
+    "CBC": "TEST"
   },
   {
     "white count": "TEST"
@@ -288,16 +324,16 @@
     "Chemistries": "TEST"
   },
   {
-    "Creatinine": "TEST"
+    "Creatinine": "PROBLEM"
   },
   {
-    "BUN": "TEST"
+    "BUN": "PROBLEM"
   },
   {
-    "anion gap": "TEST"
+    "anion gap": "PROBLEM"
   },
   {
-    "fasting glucose": "TEST"
+    "fasting glucose": "PROBLEM"
   },
   {
     "chemistries": "TEST"
@@ -315,13 +351,13 @@
     "degenerative joint disease": "PROBLEM"
   },
   {
-    "2.": "TREATMENT"
+    "2": "PROBLEM"
   },
   {
     "Anxiety disorder": "PROBLEM"
   },
   {
-    "3": "TREATMENT"
+    "3": "PROBLEM"
   },
   {
     "Insomnia": "PROBLEM"
@@ -333,55 +369,52 @@
     "anxiety": "PROBLEM"
   },
   {
-    "4": "TREATMENT"
+    "4": "PROBLEM"
   },
   {
-    "Postoperative constipation": "PROBLEM"
+    "constipation": "PROBLEM"
   },
   {
-    "5": "TREATMENT"
+    "5": "PROBLEM"
   },
   {
     "Contact dermatitis": "PROBLEM"
   },
   {
-    "preoperative gardening activities": "PROBLEM"
-  },
-  {
-    "6": "TREATMENT"
+    "6": "PROBLEM"
   },
   {
     "Hypertension": "PROBLEM"
   },
   {
-    "7": "TREATMENT"
+    "7": "PROBLEM"
   },
   {
     "Hypothyroidism": "PROBLEM"
   },
   {
-    "8": "TREATMENT"
+    "8": "PROBLEM"
   },
   {
     "Gastroesophageal reflux disease": "PROBLEM"
   },
   {
-    "9": "TREATMENT"
+    "9": "PROBLEM"
   },
   {
     "Morton neuroma": "PROBLEM"
   },
   {
-    "10": "TREATMENT"
+    "10": "PROBLEM"
   },
   {
     "migraine headaches": "PROBLEM"
   },
   {
-    "Celebrex": "DRUG"
+    "Celebrex 200 mg daily": "DRUG"
   },
   {
-    "Colace": "DRUG"
+    "Colace 100 mg b.i.d.": "DRUG"
   },
   {
     "Protonix": "DRUG"
@@ -399,7 +432,7 @@
     "q.12h.": "TEST"
   },
   {
-    "oxycodone SR": "DRUG"
+    "oxycodone SR 10 mg p.o.": "DRUG"
   },
   {
     "q.12h.": "TEST"
@@ -408,13 +441,10 @@
     "Percocet": "DRUG"
   },
   {
-    "p.r.n.": "TREATMENT"
-  },
-  {
     "trazodone": "DRUG"
   },
   {
-    "p.r.n.": "TREATMENT"
+    "p.r.n.": "DRUG"
   },
   {
     "Ativan": "DRUG"
@@ -435,10 +465,10 @@
     "Thursday": "TEST"
   },
   {
-    "Dr": "TREATMENT"
+    "Dr.": "TREATMENT"
   },
   {
-    "831-5926": "TEST"
+    "A": "PROBLEM"
   },
   {
     "Coumadin": "DRUG"
@@ -453,37 +483,19 @@
     "Coumadin": "DRUG"
   },
   {
-    "Dr": "TREATMENT"
+    "a followup appointment": "TREATMENT"
   },
   {
-    "A": "PROBLEM"
+    "primary care physician": "PROBLEM"
   },
   {
-    "primary care physician": "TREATMENT"
-  },
-  {
-    "total knee replacement": "TREATMENT"
+    "total knee replacement": "PROBLEM"
   },
   {
     "therapies": "TREATMENT"
   },
   {
     "rehabilitation": "TREATMENT"
-  },
-  {
-    "total knee replacement": "TREATMENT"
-  },
-  {
-    "coumadin": "DRUG"
-  },
-  {
-    "lovenox": "DRUG"
-  },
-  {
-    "scd boots": "TREATMENT"
-  },
-  {
-    "ted stockings": "TREATMENT"
   },
   {
     "hypertension": "PROBLEM"
@@ -495,15 +507,24 @@
     "degenerative joint disease": "PROBLEM"
   },
   {
-    "gerd": "PROBLEM"
+    "GERD": "PROBLEM"
   },
   {
     "anxiety disorder": "PROBLEM"
   },
   {
-    "morten neuroma": "PROBLEM"
+    "Morton neuroma": "PROBLEM"
   },
   {
-    "decreased ability": "PROBLEM"
+    "coumadin": "DRUG"
+  },
+  {
+    "lovenox": "DRUG"
+  },
+  {
+    "SCD boots": "TREATMENT"
+  },
+  {
+    "TED stockings": "TREATMENT"
   }
 ]

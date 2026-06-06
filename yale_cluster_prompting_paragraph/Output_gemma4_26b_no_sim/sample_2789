@@ -24,7 +24,7 @@
     "right calf discomfort": "PROBLEM"
   },
   {
-    "postoperative right hip pain": "PROBLEM"
+    "right hip pain": "PROBLEM"
   },
   {
     "Anxiety": "PROBLEM"
@@ -72,13 +72,19 @@
     "floaters": "PROBLEM"
   },
   {
-    "mild intermittent cough": "PROBLEM"
+    "low-grade temperature": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
   },
   {
     "scratchy throat": "PROBLEM"
   },
   {
-    "intermittent right calf pain": "PROBLEM"
+    "intubation": "TREATMENT"
+  },
+  {
+    "right calf pain": "PROBLEM"
   },
   {
     "Homans sign": "TEST"
@@ -90,7 +96,10 @@
     "palpitation": "PROBLEM"
   },
   {
-    "pain in the upper neck and down to her arm": "PROBLEM"
+    "pain in the upper neck": "PROBLEM"
+  },
+  {
+    "pain in her arm": "PROBLEM"
   },
   {
     "difficulty breathing": "PROBLEM"
@@ -124,27 +133,6 @@
   },
   {
     "voiding difficulties": "PROBLEM"
-  },
-  {
-    "temperature": "TEST"
-  },
-  {
-    "blood pressure": "TEST"
-  },
-  {
-    "heart rate": "TEST"
-  },
-  {
-    "respirations": "TEST"
-  },
-  {
-    "O2 saturation": "TEST"
-  },
-  {
-    "diffuse edema": "PROBLEM"
-  },
-  {
-    "pedal edema": "PROBLEM"
   },
   {
     "chemistry panel": "TEST"
@@ -189,7 +177,13 @@
     "Oxycodone SR": "DRUG"
   },
   {
+    "oxycodone IR": "DRUG"
+  },
+  {
     "ice": "TREATMENT"
+  },
+  {
+    "edema": "PROBLEM"
   },
   {
     "Protonix": "DRUG"
@@ -211,11 +205,5 @@
   },
   {
     "DVT": "PROBLEM"
-  },
-  {
-    "Physical Therapy": "TREATMENT"
-  },
-  {
-    "Occupational Therapy": "TREATMENT"
   }
 ]

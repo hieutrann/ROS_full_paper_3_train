@@ -18,10 +18,10 @@
     "blood count": "TEST"
   },
   {
-    "IV": "DRUG"
+    "IV antibiotics": "DRUG"
   },
   {
-    "p.o.": "DRUG"
+    "p.o.": "TREATMENT"
   },
   {
     "antibiotics": "DRUG"
@@ -57,7 +57,13 @@
     "blood cultures": "TEST"
   },
   {
+    "CSF": "TEST"
+  },
+  {
     "anesthesia": "DRUG"
+  },
+  {
+    "Head, eyes, ears, nose and throat": "TEST"
   },
   {
     "Chest": "PROBLEM"
@@ -75,7 +81,7 @@
     "protein": "TEST"
   },
   {
-    "cells": "TEST"
+    "Gram-stain": "TEST"
   },
   {
     "febrile seizure": "PROBLEM"
@@ -85,6 +91,9 @@
   },
   {
     "white count": "TEST"
+  },
+  {
+    "general medicine": "TEST"
   },
   {
     "antibiotics": "DRUG"

@@ -3,6 +3,9 @@
     "blood-borne pathogen exposure": "PROBLEM"
   },
   {
+    "Blood-borne pathogen exposure": "PROBLEM"
+  },
+  {
     "blood gas": "TEST"
   },
   {
@@ -15,7 +18,7 @@
     "hepatitis C": "PROBLEM"
   },
   {
-    "screening": "TEST"
+    "periodic screening": "TEST"
   },
   {
     "blood tests": "TEST"
@@ -93,18 +96,6 @@
     "IV contrast": "DRUG"
   },
   {
-    "temperature": "TEST"
-  },
-  {
-    "pulse": "TEST"
-  },
-  {
-    "respirations": "TEST"
-  },
-  {
-    "blood pressure": "TEST"
-  },
-  {
     "pharyngeal erythema": "PROBLEM"
   },
   {
@@ -162,16 +153,13 @@
     "intestinal illness": "PROBLEM"
   },
   {
-    "squeakiness": "PROBLEM"
-  },
-  {
     "vomiting": "PROBLEM"
   },
   {
     "acute hepatitis": "PROBLEM"
   },
   {
-    "lymphadenopathy": "PROBLEM"
+    "generalized lymphadenopathy": "PROBLEM"
   },
   {
     "fever": "PROBLEM"

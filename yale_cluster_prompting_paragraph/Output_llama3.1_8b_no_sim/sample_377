@@ -9,25 +9,28 @@
     "reflux": "PROBLEM"
   },
   {
-    "right flank pain": "PROBLEM"
+    "tinea versicolor": "PROBLEM"
   },
   {
-    "spots on her shoulder": "PROBLEM"
+    "cystocele": "PROBLEM"
   },
   {
-    "spots in her armpits": "PROBLEM"
+    "leukopenia": "PROBLEM"
   },
   {
-    "urgency of urine": "PROBLEM"
+    "arthritic": "PROBLEM"
   },
   {
-    "colonoscopy": "TEST"
+    "colon cancer": "PROBLEM"
   },
   {
-    "labs": "TEST"
+    "gastroesophageal reflux disease": "PROBLEM"
   },
   {
-    "hepatitis titer": "TEST"
+    "treadmill": "TEST"
+  },
+  {
+    "echocardiogram": "TEST"
   },
   {
     "Aciphex": "DRUG"
@@ -36,27 +39,21 @@
     "aspirin": "DRUG"
   },
   {
-    "selenium sulfide lotion": "DRUG"
+    "selenium sulfide lotion": "TREATMENT"
   },
   {
-    "EGD": "TEST"
-  },
-  {
-    "punch biopsy": "TEST"
+    "punch biopsy": "TREATMENT"
   },
   {
     "repair": "TREATMENT"
   },
   {
-    "arthritic": "PROBLEM"
+    "colonoscopy": "TEST"
   },
   {
-    "gastroesophageal reflux disease": "PROBLEM"
+    "CBC": "TEST"
   },
   {
-    "cystocele": "PROBLEM"
-  },
-  {
-    "colon cancer screening": "TEST"
+    "EGD": "TEST"
   }
 ]

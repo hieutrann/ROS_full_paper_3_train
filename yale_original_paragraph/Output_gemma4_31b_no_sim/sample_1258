@@ -6,13 +6,19 @@
     "abdominal pain": "PROBLEM"
   },
   {
-    "mild pain on the left aspect of her neck": "PROBLEM"
+    "pain on the left aspect of her neck": "PROBLEM"
   },
   {
     "pain low in her abdomen": "PROBLEM"
   },
   {
-    "pain throughout the bones of her pelvis": "PROBLEM"
+    "pain in her knees, ankles, or feet": "PROBLEM"
+  },
+  {
+    "pain in her shoulders, elbows, and wrists": "PROBLEM"
+  },
+  {
+    "painful throughout the bones of her pelvis": "PROBLEM"
   },
   {
     "chest pain": "PROBLEM"
@@ -42,6 +48,9 @@
     "chilled": "PROBLEM"
   },
   {
+    "pain in her abdomen": "PROBLEM"
+  },
+  {
     "oral birth control medications": "DRUG"
   },
   {
@@ -55,15 +64,6 @@
   },
   {
     "Accutane": "DRUG"
-  },
-  {
-    "capsular retractions": "PROBLEM"
-  },
-  {
-    "labored respirations": "PROBLEM"
-  },
-  {
-    "accessory muscle usage": "PROBLEM"
   },
   {
     "Temperature": "TEST"
@@ -165,25 +165,22 @@
     "focal deficits": "PROBLEM"
   },
   {
-    "Romberg": "TEST"
-  },
-  {
-    "pronator drift": "TEST"
-  },
-  {
     "adenopathy": "PROBLEM"
   },
   {
-    "mild tenderness over palpation of the bilateral iliac crests": "PROBLEM"
+    "tenderness over palpation of the bilateral iliac crests": "PROBLEM"
   },
   {
     "lacerations": "PROBLEM"
   },
   {
-    "abrasions": "PROBLEM"
+    "abrasion": "PROBLEM"
   },
   {
-    "abrasion on the patient's abdomen": "PROBLEM"
+    "trauma": "PROBLEM"
+  },
+  {
+    "bleeding": "PROBLEM"
   },
   {
     "x-rays": "TEST"
@@ -213,7 +210,7 @@
     "CT scan without contrast of the abdomen": "TEST"
   },
   {
-    "dependent atelectasis": "PROBLEM"
+    "atelectasis": "PROBLEM"
   },
   {
     "low density in the liver": "PROBLEM"
@@ -255,10 +252,25 @@
     "abrasion": "PROBLEM"
   },
   {
+    "abrasions": "PROBLEM"
+  },
+  {
+    "lacerations": "PROBLEM"
+  },
+  {
     "contusions": "PROBLEM"
   },
   {
     "abdominal pain": "PROBLEM"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
   },
   {
     "Vicodin": "DRUG"

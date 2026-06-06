@@ -1,6 +1,6 @@
 [
   {
-    "VITAL SIGNS": "TEST"
+    "acute distress": "PROBLEM"
   },
   {
     "Blood pressure": "TEST"
@@ -16,6 +16,9 @@
   },
   {
     "Pulse oximetry": "TEST"
+  },
+  {
+    "lesions": "PROBLEM"
   },
   {
     "Funduscopic exam": "TEST"
@@ -34,6 +37,12 @@
   },
   {
     "retraction": "PROBLEM"
+  },
+  {
+    "lesion": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
   },
   {
     "tonsillar enlargement": "PROBLEM"
@@ -111,12 +120,21 @@
     "lymphadenopathy": "PROBLEM"
   },
   {
+    "DTRs": "TEST"
+  },
+  {
+    "Straight leg raise": "TEST"
+  },
+  {
     "delusions": "PROBLEM"
   },
   {
     "hallucinations": "PROBLEM"
   },
   {
-    "suicidal or homicidal ideation": "PROBLEM"
+    "suicidal ideation": "PROBLEM"
+  },
+  {
+    "homicidal ideation": "PROBLEM"
   }
 ]

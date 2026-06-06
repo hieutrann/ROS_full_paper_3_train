@@ -6,7 +6,7 @@
     "diabetic neuropathy": "PROBLEM"
   },
   {
-    "Scalp Laceration": "PROBLEM"
+    "Scalp laceration": "PROBLEM"
   },
   {
     "Elevated Alk Phos": "PROBLEM"
@@ -27,45 +27,21 @@
     "Prilosec OTC": "DRUG"
   },
   {
-    "NPH": "DRUG"
-  },
-  {
-    "Regular Insulin": "DRUG"
-  },
-  {
     "Nexium": "DRUG"
   },
   {
     "Viagra": "DRUG"
   },
   {
+    "NPH": "DRUG"
+  },
+  {
+    "Regular insulin": "DRUG"
+  },
+  {
     "low dose Ace Inhibitor": "TREATMENT"
   },
   {
-    "Prior Authorization for Lantus": "TREATMENT"
-  },
-  {
-    "Scooter Accident": "PROBLEM"
-  },
-  {
-    "Gastroparesis": "PROBLEM"
-  },
-  {
-    "Impotence": "PROBLEM"
-  },
-  {
-    "GERD symptoms": "PROBLEM"
-  },
-  {
-    "Microalbumin": "TEST"
-  },
-  {
-    "Hemoglobin A1C": "TEST"
-  },
-  {
-    "CMP": "TEST"
-  },
-  {
-    "Glucometer": "TEST"
+    "physical therapy": "TREATMENT"
   }
 ]

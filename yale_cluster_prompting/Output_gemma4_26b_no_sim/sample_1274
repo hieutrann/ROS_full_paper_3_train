@@ -12,9 +12,6 @@
     "knee osteoarthrosis": "PROBLEM"
   },
   {
-    "conservative management": "TREATMENT"
-  },
-  {
     "Right knee surgery": "TREATMENT"
   },
   {
@@ -36,7 +33,7 @@
     "PENICILLIN": "DRUG"
   },
   {
-    "Regular rate and rhythm": "TEST"
+    "gait": "TEST"
   },
   {
     "right total knee arthroplasty": "TREATMENT"
@@ -45,10 +42,10 @@
     "deep venous thrombosis (DVT)": "PROBLEM"
   },
   {
-    "prophylaxis": "TREATMENT"
+    "Mechanical and chemical deep venous thrombosis (DVT) prophylaxis": "TREATMENT"
   },
   {
-    "antibiotics": "DRUG"
+    "postoperative antibiotics": "DRUG"
   },
   {
     "Hemovac drain": "TREATMENT"
@@ -69,7 +66,7 @@
     "Coumadin": "DRUG"
   },
   {
-    "Home physical therapy": "TREATMENT"
+    "physical therapy": "TREATMENT"
   },
   {
     "PT": "TREATMENT"

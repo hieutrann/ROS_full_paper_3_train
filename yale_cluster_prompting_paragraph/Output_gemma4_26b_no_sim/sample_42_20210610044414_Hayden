@@ -1,6 +1,6 @@
 [
   {
-    "total vaginal hysterectomy": "TREATMENT"
+    "Total vaginal hysterectomy": "TREATMENT"
   },
   {
     "Menometrorrhagia": "PROBLEM"
@@ -12,15 +12,6 @@
     "small uterine fibroids": "PROBLEM"
   },
   {
-    "Menometrorrhagia": "PROBLEM"
-  },
-  {
-    "Dysmenorrhea": "PROBLEM"
-  },
-  {
-    "Small uterine fibroids": "PROBLEM"
-  },
-  {
     "Menorrhagia": "PROBLEM"
   },
   {
@@ -30,10 +21,7 @@
     "Small uterine fibroids": "PROBLEM"
   },
   {
-    "Total vaginal hysterectomy": "TREATMENT"
-  },
-  {
-    "menometrorrhagia": "PROBLEM"
+    "Menometrorrhagia": "PROBLEM"
   },
   {
     "dysmenorrhea": "PROBLEM"
@@ -48,16 +36,10 @@
     "oral contraceptives": "DRUG"
   },
   {
-    "surgical therapy": "TREATMENT"
-  },
-  {
     "reflux": "PROBLEM"
   },
   {
     "Tubal ligation": "TREATMENT"
-  },
-  {
-    "hemoglobin": "TEST"
   },
   {
     "total vaginal hysterectomy": "TREATMENT"
@@ -82,6 +64,9 @@
   },
   {
     "menometrorrhagia": "PROBLEM"
+  },
+  {
+    "uterine": "PROBLEM"
   },
   {
     "fibroids": "PROBLEM"

@@ -1,18 +1,15 @@
 [
   {
+    "male multisystem exam": "TEST"
+  },
+  {
     "blood pressure": "TEST"
   },
   {
     "heart rate": "TEST"
   },
   {
-    "pupil": "TEST"
-  },
-  {
     "ptois": "PROBLEM"
-  },
-  {
-    "Hearing": "TEST"
   },
   {
     "lesion": "PROBLEM"
@@ -33,7 +30,10 @@
     "edema": "PROBLEM"
   },
   {
-    "enlarged liver or spleen": "PROBLEM"
+    "enlarged liver": "PROBLEM"
+  },
+  {
+    "enlarged spleen": "PROBLEM"
   },
   {
     "Bowel sounds": "TEST"
@@ -49,5 +49,38 @@
   },
   {
     "Deep tendon reflexes": "TEST"
+  },
+  {
+    "eyes": "TEST"
+  },
+  {
+    "ears": "TEST"
+  },
+  {
+    "nose": "TEST"
+  },
+  {
+    "throat": "TEST"
+  },
+  {
+    "heart": "TEST"
+  },
+  {
+    "respiratory": "TEST"
+  },
+  {
+    "auscultation": "TEST"
+  },
+  {
+    "extremities": "TEST"
+  },
+  {
+    "oropharynx": "TEST"
+  },
+  {
+    "neck": "TEST"
+  },
+  {
+    "tongue": "TEST"
   }
 ]

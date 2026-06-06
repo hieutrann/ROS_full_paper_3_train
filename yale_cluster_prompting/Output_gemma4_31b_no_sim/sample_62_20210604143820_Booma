@@ -12,16 +12,13 @@
     "weak": "PROBLEM"
   },
   {
-    "salt": "DRUG"
+    "salt": "TREATMENT"
   },
   {
     "Nausea": "PROBLEM"
   },
   {
     "feeling faint": "PROBLEM"
-  },
-  {
-    "appetite": "PROBLEM"
   },
   {
     "nausea": "PROBLEM"
@@ -84,7 +81,7 @@
     "weakness": "PROBLEM"
   },
   {
-    "paresthesias in extremities": "PROBLEM"
+    "paresthesias": "PROBLEM"
   },
   {
     "Diovan": "DRUG"
@@ -99,7 +96,7 @@
     "Wellbutrin SR inhaler": "DRUG"
   },
   {
-    "home O2": "TREATMENT"
+    "O2": "DRUG"
   },
   {
     "MORPHINE": "DRUG"
@@ -120,16 +117,10 @@
     "Alcohol use": "PROBLEM"
   },
   {
-    "TETANUS IMMUNIZATION": "DRUG"
+    "TETANUS IMMUNIZATION": "TREATMENT"
   },
   {
     "hysterectomy": "TREATMENT"
-  },
-  {
-    "PHYSICAL EXAMINATION": "TEST"
-  },
-  {
-    "VITAL SIGNS": "TEST"
   },
   {
     "Temperature": "TEST"
@@ -186,9 +177,6 @@
     "cerebellar": "TEST"
   },
   {
-    "LABORATORY STUDIES": "TEST"
-  },
-  {
     "WBC": "TEST"
   },
   {
@@ -237,16 +225,10 @@
     "anemia": "PROBLEM"
   },
   {
-    "RADIOLOGY STUDIES": "TEST"
-  },
-  {
     "Chest x-ray": "TEST"
   },
   {
     "chronic changes": "PROBLEM"
-  },
-  {
-    "ED STUDIES": "TEST"
   },
   {
     "O2 sat": "TEST"
@@ -288,28 +270,16 @@
     "Rectal examination": "TEST"
   },
   {
-    "Good sphincter tone": "PROBLEM"
-  },
-  {
-    "masses": "PROBLEM"
+    "sphincter tone": "TEST"
   },
   {
     "rectal secretions": "TEST"
   },
   {
-    "Monitor": "TEST"
-  },
-  {
     "normal sinus rhythm": "PROBLEM"
   },
   {
-    "ectopy": "PROBLEM"
-  },
-  {
     "Blood pressure": "TEST"
-  },
-  {
-    "Laboratory evaluation": "TEST"
   },
   {
     "anemia": "PROBLEM"
@@ -336,7 +306,7 @@
     "Acute hyponatremia": "PROBLEM"
   },
   {
-    "salt": "DRUG"
+    "salt": "TREATMENT"
   },
   {
     "anemia": "PROBLEM"

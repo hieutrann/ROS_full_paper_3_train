@@ -1,5 +1,8 @@
 [
   {
+    "Female Exam": "TEST"
+  },
+  {
     "Blood pressure": "TEST"
   },
   {
@@ -12,37 +15,31 @@
     "temperature": "TEST"
   },
   {
+    "EOMI": "TEST"
+  },
+  {
     "PERRLA": "TEST"
+  },
+  {
+    "Sclerae": "PROBLEM"
   },
   {
     "lesions": "PROBLEM"
   },
   {
-    "Ears": "TEST"
+    "Funduscopic examination": "TEST"
   },
   {
-    "Mouth": "PROBLEM"
+    "TMs": "TEST"
   },
   {
-    "Tongue": "PROBLEM"
+    "Nose": "PROBLEM"
   },
   {
-    "Teeth": "PROBLEM"
-  },
-  {
-    "Throat": "PROBLEM"
+    "Sinuses": "PROBLEM"
   },
   {
     "dental work": "TREATMENT"
-  },
-  {
-    "NECK": "TEST"
-  },
-  {
-    "bruit": "PROBLEM"
-  },
-  {
-    "JVD": "PROBLEM"
   },
   {
     "adenopathy": "PROBLEM"
@@ -54,7 +51,10 @@
     "Lungs": "PROBLEM"
   },
   {
-    "HEART": "PROBLEM"
+    "S1": "TEST"
+  },
+  {
+    "S2": "TEST"
   },
   {
     "murmur": "PROBLEM"
@@ -78,7 +78,16 @@
     "gallop": "PROBLEM"
   },
   {
-    "axillary or supraclavicular adenopathy": "PROBLEM"
+    "PMI nondisplaced": "PROBLEM"
+  },
+  {
+    "Chest wall": "PROBLEM"
+  },
+  {
+    "adenopathy": "PROBLEM"
+  },
+  {
+    "BREASTS": "PROBLEM"
   },
   {
     "hepatosplenomegaly": "PROBLEM"
@@ -105,7 +114,7 @@
     "intraabdominal bruit": "TEST"
   },
   {
-    "RECTAL": "TEST"
+    "EXTERNAL GENITALIA": "TEST"
   },
   {
     "Hemoccult": "TEST"
@@ -121,6 +130,9 @@
   },
   {
     "deep venous thrombosis": "PROBLEM"
+  },
+  {
+    "BACK": "TEST"
   },
   {
     "spinous process tenderness": "PROBLEM"
@@ -141,25 +153,16 @@
     "NEUROLOGIC": "PROBLEM"
   },
   {
-    "cranial": "PROBLEM"
+    "lucid": "PROBLEM"
   },
   {
-    "peripheral": "PROBLEM"
+    "rational": "PROBLEM"
   },
   {
-    "nervous": "PROBLEM"
+    "premalignant": "PROBLEM"
   },
   {
-    "strength": "TEST"
-  },
-  {
-    "sensation": "TEST"
-  },
-  {
-    "cerebellar": "TEST"
-  },
-  {
-    "SKIN": "PROBLEM"
+    "malignant": "PROBLEM"
   },
   {
     "hepatosplenomegaly": "PROBLEM"
@@ -186,7 +189,7 @@
     "adenopathy": "PROBLEM"
   },
   {
-    "chest": "PROBLEM"
+    "chest": "TEST"
   },
   {
     "percussion": "TEST"
@@ -198,6 +201,9 @@
     "palpation": "TEST"
   },
   {
-    "signs": "PROBLEM"
+    "signs": "TEST"
+  },
+  {
+    "tongue": "TEST"
   }
 ]

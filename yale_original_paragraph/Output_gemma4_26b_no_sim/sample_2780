@@ -1,5 +1,14 @@
 [
   {
+    "pancreatic and left adrenal lesions": "PROBLEM"
+  },
+  {
+    "adrenal lesion": "PROBLEM"
+  },
+  {
+    "benign adenoma": "PROBLEM"
+  },
+  {
     "pancreatic lesion": "PROBLEM"
   },
   {
@@ -150,22 +159,28 @@
     "GI problems": "PROBLEM"
   },
   {
-    "frequent urination": "PROBLEM"
-  },
-  {
     "bleeding disorders": "PROBLEM"
   },
   {
-    "adenopathy": "PROBLEM"
-  },
-  {
-    "bruit": "PROBLEM"
-  },
-  {
-    "organomegaly": "PROBLEM"
-  },
-  {
     "pitting edema": "PROBLEM"
+  },
+  {
+    "left adrenal and pancreatic lesions": "PROBLEM"
+  },
+  {
+    "adrenal lesion": "PROBLEM"
+  },
+  {
+    "benign adenoma": "PROBLEM"
+  },
+  {
+    "pancreatic lesion": "PROBLEM"
+  },
+  {
+    "cystic lesion": "PROBLEM"
+  },
+  {
+    "Neoplasm": "PROBLEM"
   },
   {
     "ERCP": "TEST"
@@ -175,21 +190,6 @@
   },
   {
     "x-rays": "TEST"
-  },
-  {
-    "esophagogastroduodenoscopy": "TEST"
-  },
-  {
-    "pancreatic": "PROBLEM"
-  },
-  {
-    "adrenal": "PROBLEM"
-  },
-  {
-    "lesion": "PROBLEM"
-  },
-  {
-    "ercp": "TEST"
   },
   {
     "esophagogastroduodenoscopy": "TEST"

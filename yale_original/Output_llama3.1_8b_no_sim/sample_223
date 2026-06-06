@@ -1,6 +1,6 @@
 [
   {
-    "General Medicine": "PROBLEM"
+    "General Medicine": "TREATMENT"
   },
   {
     "right shoulder pain": "PROBLEM"
@@ -9,16 +9,10 @@
     "cardboard": "PROBLEM"
   },
   {
-    "cardboard": "PROBLEM"
-  },
-  {
     "popping sensation": "PROBLEM"
   },
   {
-    "persistent shoulder pain": "PROBLEM"
-  },
-  {
-    "pain": "PROBLEM"
+    "shoulder pain": "PROBLEM"
   },
   {
     "shoulder": "PROBLEM"
@@ -27,7 +21,7 @@
     "upper extremity": "PROBLEM"
   },
   {
-    "lateral and posterior shoulder pain": "PROBLEM"
+    "shoulder pain": "PROBLEM"
   },
   {
     "cervical radiculopathies": "PROBLEM"
@@ -75,7 +69,10 @@
     "acute distress": "PROBLEM"
   },
   {
-    "Skin": "PROBLEM"
+    "warm": "PROBLEM"
+  },
+  {
+    "dry": "PROBLEM"
   },
   {
     "neurologic examination": "TEST"
@@ -84,13 +81,13 @@
     "ENT examination": "TEST"
   },
   {
-    "oropharynx": "TEST"
+    "oropharynx": "PROBLEM"
   },
   {
-    "nasopharynx": "TEST"
+    "nasopharynx": "PROBLEM"
   },
   {
-    "tympanic membranes": "TEST"
+    "tympanic membranes": "PROBLEM"
   },
   {
     "adenopathy": "PROBLEM"
@@ -114,7 +111,7 @@
     "subacromial space": "PROBLEM"
   },
   {
-    "abduction": "TEST"
+    "abduction": "PROBLEM"
   },
   {
     "pain": "PROBLEM"
@@ -123,13 +120,13 @@
     "degrees": "TEST"
   },
   {
-    "flexion": "TEST"
+    "flexion": "PROBLEM"
   },
   {
-    "Neer's impingement testing": "TEST"
+    "Neer's": "TEST"
   },
   {
-    "Hawkins impingement testing": "TEST"
+    "Hawkins": "TEST"
   },
   {
     "sulcus": "PROBLEM"
@@ -162,13 +159,10 @@
     "impingement": "PROBLEM"
   },
   {
-    "patient": "PROBLEM"
+    "work": "TREATMENT"
   },
   {
     "MRI": "TEST"
-  },
-  {
-    "general medicine": "PROBLEM"
   },
   {
     "paresthesias": "PROBLEM"
@@ -180,9 +174,6 @@
     "strain": "PROBLEM"
   },
   {
-    "waist": "PROBLEM"
-  },
-  {
     "x-rays": "TEST"
   },
   {
@@ -190,8 +181,5 @@
   },
   {
     "impingement": "PROBLEM"
-  },
-  {
-    "examination": "TEST"
   }
 ]

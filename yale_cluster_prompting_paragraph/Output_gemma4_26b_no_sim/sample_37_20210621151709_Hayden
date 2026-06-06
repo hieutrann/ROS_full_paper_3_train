@@ -1,8 +1,5 @@
 [
   {
-    "Diabetes Mellitus": "PROBLEM"
-  },
-  {
     "diabetic control": "PROBLEM"
   },
   {
@@ -12,13 +9,13 @@
     "Lantus insulin": "DRUG"
   },
   {
-    "Humalog insulin": "DRUG"
+    "sliding scale Humalog insulin": "DRUG"
   },
   {
     "low blood glucoses": "PROBLEM"
   },
   {
-    "glucoses": "TEST"
+    "glucoses": "PROBLEM"
   },
   {
     "Lantus insulin": "DRUG"
@@ -51,15 +48,12 @@
     "lantus insulin": "DRUG"
   },
   {
-    "diabetes": "PROBLEM"
-  },
-  {
-    "mellitus": "PROBLEM"
+    "diabetes, mellitus": "PROBLEM"
   },
   {
     "lantus": "DRUG"
   },
   {
-    "glucoses": "TEST"
+    "glucoses": "PROBLEM"
   }
 ]

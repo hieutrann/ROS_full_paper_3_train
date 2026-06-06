@@ -1,41 +1,164 @@
 [
   {
-    "General Medicine": "PROBLEM"
+    "General Medicine": "TREATMENT"
   },
   {
-    "respiratory": "PROBLEM"
+    "Normal Physical Exam": "TEST"
   },
   {
-    "abdomen": "PROBLEM"
+    "Pulse oximetry": "TEST"
   },
   {
-    "pulses": "TEST"
+    "Funduscopic exam": "TEST"
   },
   {
-    "tenderness": "PROBLEM"
+    "GCS": "TEST"
   },
   {
-    "strength": "TEST"
+    "Blood pressure": "TEST"
   },
   {
-    "lymph": "PROBLEM"
+    "pulse": "TEST"
   },
   {
-    "extremity": "TEST"
+    "respirations": "TEST"
   },
   {
-    "midline": "TEST"
+    "temperature": "TEST"
   },
   {
-    "range": "TEST"
+    "Ears": "TEST"
   },
   {
-    "motion": "TEST"
+    "Nose": "TEST"
   },
   {
-    "lesions": "PROBLEM"
+    "Mouth": "TEST"
   },
   {
-    "symmetrical": "TEST"
+    "throat": "TEST"
+  },
+  {
+    "External ears": "TEST"
+  },
+  {
+    "Nares": "TEST"
+  },
+  {
+    "Septum": "TEST"
+  },
+  {
+    "Tympanic membranes": "TEST"
+  },
+  {
+    "Canals": "TEST"
+  },
+  {
+    "Hearing": "TEST"
+  },
+  {
+    "Lips": "TEST"
+  },
+  {
+    "teeth": "TEST"
+  },
+  {
+    "gums": "TEST"
+  },
+  {
+    "palate": "TEST"
+  },
+  {
+    "Posterior oropharynx": "TEST"
+  },
+  {
+    "Neck": "TEST"
+  },
+  {
+    "Thyroid": "TEST"
+  },
+  {
+    "JVD": "TEST"
+  },
+  {
+    "Cardiac palpation": "TEST"
+  },
+  {
+    "Pulses": "TEST"
+  },
+  {
+    "Femoral and pedal pulses": "TEST"
+  },
+  {
+    "peripheral edema": "TEST"
+  },
+  {
+    "GASTROINTESTINAL": "TREATMENT"
+  },
+  {
+    "Hepatosplenomegaly": "PROBLEM"
+  },
+  {
+    "Hernia": "PROBLEM"
+  },
+  {
+    "Bowel sounds": "TEST"
+  },
+  {
+    "Abdomen": "TEST"
+  },
+  {
+    "MUSCULOSKELETAL": "TREATMENT"
+  },
+  {
+    "Normal gait and station": "TEST"
+  },
+  {
+    "Extremities": "TEST"
+  },
+  {
+    "Range of motion": "TEST"
+  },
+  {
+    "Strength and tone": "TEST"
+  },
+  {
+    "BACK": "TREATMENT"
+  },
+  {
+    "SKIN": "TREATMENT"
+  },
+  {
+    "LYMPH": "TREATMENT"
+  },
+  {
+    "Cervical lymph nodes": "TEST"
+  },
+  {
+    "DTRs": "TEST"
+  },
+  {
+    "Motor strength": "TEST"
+  },
+  {
+    "Straight leg raise": "TEST"
+  },
+  {
+    "PSYCHIATRIC": "TREATMENT"
+  },
+  {
+    "Judgment and insight": "TEST"
+  },
+  {
+    "Memory and mood": "TEST"
+  },
+  {
+    "delusions": "PROBLEM"
+  },
+  {
+    "hallucinations": "PROBLEM"
+  },
+  {
+    "suicidal or homicidal ideation": "PROBLEM"
   }
 ]

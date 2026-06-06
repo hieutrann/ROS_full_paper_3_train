@@ -1,21 +1,12 @@
 [
   {
-    "General Medicine": "TEST"
-  },
-  {
-    "Air Under Diaphragm": "PROBLEM"
+    "free air": "PROBLEM"
   },
   {
     "shortness of breath": "PROBLEM"
   },
   {
-    "free air": "PROBLEM"
-  },
-  {
-    "right diaphragm": "PROBLEM"
-  },
-  {
-    "Ativan": "DRUG"
+    "alcohol abuse": "PROBLEM"
   },
   {
     "appendectomy": "TREATMENT"
@@ -27,99 +18,18 @@
     "TAH/BSO": "TREATMENT"
   },
   {
-    "alcohol abuse": "PROBLEM"
+    "Ativan": "DRUG"
   },
   {
-    "VITAL SIGNS": "TEST"
+    "chest x-ray": "TEST"
   },
   {
-    "Temp": "TEST"
-  },
-  {
-    "heart rate": "TEST"
-  },
-  {
-    "respiratory rate": "TEST"
-  },
-  {
-    "blood pressure": "TEST"
-  },
-  {
-    "HEENT": "TEST"
-  },
-  {
-    "NECK": "TEST"
-  },
-  {
-    "LUNGS": "TEST"
-  },
-  {
-    "HEART": "TEST"
-  },
-  {
-    "ABDOMEN": "TEST"
-  },
-  {
-    "LABORATORY STUDIES": "TEST"
-  },
-  {
-    "white blood cell count": "TEST"
-  },
-  {
-    "AST": "TEST"
-  },
-  {
-    "ALT": "TEST"
-  },
-  {
-    "Alkaline phosphatase": "TEST"
-  },
-  {
-    "bilirubin": "TEST"
-  },
-  {
-    "Sodium": "TEST"
-  },
-  {
-    "chloride": "TEST"
-  },
-  {
-    "potassium": "TEST"
-  },
-  {
-    "X-ray": "TEST"
+    "hyponatremia": "PROBLEM"
   },
   {
     "CT scan": "TEST"
   },
   {
     "hyponatremia": "PROBLEM"
-  },
-  {
-    "general medicine": "TEST"
-  },
-  {
-    "free air": "PROBLEM"
-  },
-  {
-    "hyponatremia": "PROBLEM"
-  },
-  {
-    "air under the diaphragm": "PROBLEM"
-  },
-  {
-    "intra abdominal pathology": "PROBLEM"
-  },
-  {
-    "abdominal": "PROBLEM"
-  },
-  {
-    "pathology": "PROBLEM"
-  },
-  {
-    "obtunded": "PROBLEM"
-  },
-  {
-    "diaphragm": "PROBLEM"
   }
 ]

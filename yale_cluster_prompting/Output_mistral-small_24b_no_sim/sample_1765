@@ -1,21 +1,21 @@
 [
   {
-    "Surgery": "TREATMENT"
+    "Percutaneous liver biopsy": "TEST"
   },
   {
-    "Liver Biopsy": "TEST"
-  },
-  {
-    "supine position": "TEST"
+    "supine position": "PROBLEM"
   },
   {
     "dullness": "PROBLEM"
   },
   {
+    "percussion": "TEST"
+  },
+  {
     "Percutaneous liver biopsy": "TREATMENT"
   },
   {
-    "Lidocaine": "DRUG"
+    "2% Lidocaine": "DRUG"
   },
   {
     "iodine": "DRUG"
@@ -25,6 +25,9 @@
   },
   {
     "codeine": "DRUG"
+  },
+  {
+    "PROCEDURE": "TREATMENT"
   },
   {
     "bleeding": "PROBLEM"
@@ -42,10 +45,16 @@
     "death": "PROBLEM"
   },
   {
-    "supine position": "TEST"
+    "procedure": "TREATMENT"
+  },
+  {
+    "supine position": "PROBLEM"
   },
   {
     "dullness": "PROBLEM"
+  },
+  {
+    "percussion": "TEST"
   },
   {
     "povidone iodine": "DRUG"
@@ -54,10 +63,10 @@
     "lidocaine": "DRUG"
   },
   {
-    "Bard-Parker #11 scalpel": "DRUG"
+    "Bard-Parker #11 scalpel": "TREATMENT"
   },
   {
-    "16-gauge modified Klatskin needle": "TEST"
+    "16-gauge modified Klatskin needle": "TREATMENT"
   },
   {
     "incision": "TREATMENT"
@@ -72,13 +81,22 @@
     "Liver cores": "TEST"
   },
   {
+    "Pathology": "TEST"
+  },
+  {
+    "histologic study": "TEST"
+  },
+  {
+    "observation": "TREATMENT"
+  },
+  {
     "medical treatment room": "TREATMENT"
   },
   {
     "medication": "DRUG"
   },
   {
-    "severe abdominal pain": "PROBLEM"
+    "abdominal pain": "PROBLEM"
   },
   {
     "chest pain": "PROBLEM"
@@ -99,13 +117,10 @@
     "liver biopsy": "TEST"
   },
   {
-    "hepatitis A": "PROBLEM"
+    "management": "TREATMENT"
   },
   {
-    "hepatitis B": "PROBLEM"
-  },
-  {
-    "vaccines": "DRUG"
+    "hepatitis A and B vaccines": "DRUG"
   },
   {
     "vaccination": "DRUG"
@@ -124,6 +139,9 @@
   },
   {
     "klatskin needle": "TEST"
+  },
+  {
+    "mid axillary": "TEST"
   },
   {
     "liver biopsy": "TEST"

@@ -1,24 +1,30 @@
 [
   {
-    "ENT": "TEST"
+    "ear": "PROBLEM"
   },
   {
-    "ear": "TEST"
+    "nose": "PROBLEM"
   },
   {
-    "nose": "TEST"
+    "mouth": "PROBLEM"
   },
   {
-    "mouth": "TEST"
-  },
-  {
-    "throat": "TEST"
+    "throat": "PROBLEM"
   },
   {
     "exam": "TEST"
   },
   {
-    "EARS, NOSE, MOUTH AND THROAT": "TEST"
+    "deformity": "PROBLEM"
+  },
+  {
+    "pinna": "PROBLEM"
+  },
+  {
+    "Examination": "TEST"
+  },
+  {
+    "canals": "PROBLEM"
   },
   {
     "drainage": "PROBLEM"
@@ -27,10 +33,52 @@
     "erythema": "PROBLEM"
   },
   {
+    "tympanic membranes": "TEST"
+  },
+  {
     "Hearing": "PROBLEM"
   },
   {
+    "finger rubbing": "TEST"
+  },
+  {
+    "whisper": "TEST"
+  },
+  {
+    "nasal mucosa": "PROBLEM"
+  },
+  {
+    "septum": "PROBLEM"
+  },
+  {
     "septal hematoma": "PROBLEM"
+  },
+  {
+    "turbinates": "PROBLEM"
+  },
+  {
+    "abnormalities": "PROBLEM"
+  },
+  {
+    "teeth": "PROBLEM"
+  },
+  {
+    "infection": "PROBLEM"
+  },
+  {
+    "oral mucosa": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "uvula": "PROBLEM"
+  },
+  {
+    "salivary glands": "PROBLEM"
+  },
+  {
+    "tongue": "PROBLEM"
   },
   {
     "erythema": "PROBLEM"
@@ -39,9 +87,30 @@
     "exudate": "PROBLEM"
   },
   {
+    "tonsils": "PROBLEM"
+  },
+  {
+    "general medicine": "PROBLEM"
+  },
+  {
     "erythema": "PROBLEM"
   },
   {
     "tympanic": "TEST"
+  },
+  {
+    "mouth": "PROBLEM"
+  },
+  {
+    "throat": "PROBLEM"
+  },
+  {
+    "ears": "PROBLEM"
+  },
+  {
+    "mucosa": "PROBLEM"
+  },
+  {
+    "nose": "PROBLEM"
   }
 ]

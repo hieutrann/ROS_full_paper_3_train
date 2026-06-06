@@ -9,7 +9,7 @@
     "pain": "PROBLEM"
   },
   {
-    "problems": "PROBLEM"
+    "medical problems": "PROBLEM"
   },
   {
     "numbness": "PROBLEM"
@@ -27,19 +27,13 @@
     "paraesthesias": "PROBLEM"
   },
   {
-    "left toe": "PROBLEM"
-  },
-  {
-    "right foot": "PROBLEM"
-  },
-  {
-    "bed": "PROBLEM"
-  },
-  {
     "pain": "PROBLEM"
   },
   {
     "bilateral shoulder pains": "PROBLEM"
+  },
+  {
+    "sinus allergies": "PROBLEM"
   },
   {
     "hypothyroidism": "PROBLEM"
@@ -63,13 +57,7 @@
     "gallbladder surgery": "TREATMENT"
   },
   {
-    "gallbladder surgery": "TREATMENT"
-  },
-  {
     "C-section": "TREATMENT"
-  },
-  {
-    "varicose vein surgery": "TREATMENT"
   },
   {
     "varicose vein surgery": "TREATMENT"
@@ -106,9 +94,6 @@
   },
   {
     "fracture": "PROBLEM"
-  },
-  {
-    "pins": "TREATMENT"
   },
   {
     "colonoscopies": "TEST"
@@ -177,6 +162,12 @@
     "prostate cancer": "PROBLEM"
   },
   {
+    "heart disease": "PROBLEM"
+  },
+  {
+    "diabetes": "PROBLEM"
+  },
+  {
     "allergies": "PROBLEM"
   },
   {
@@ -202,6 +193,9 @@
   },
   {
     "abdominal pain": "PROBLEM"
+  },
+  {
+    "blood in the stool": "PROBLEM"
   },
   {
     "dysuria": "PROBLEM"
@@ -231,6 +225,9 @@
     "anemia": "PROBLEM"
   },
   {
+    "age": "PROBLEM"
+  },
+  {
     "Temperature": "TEST"
   },
   {
@@ -240,22 +237,55 @@
     "Pulse": "TEST"
   },
   {
-    "Weight": "TEST"
+    "normocephalic": "PROBLEM"
   },
   {
     "Pupils": "TEST"
   },
   {
-    "Heart": "TEST"
+    "Extraocular movements": "TEST"
+  },
+  {
+    "Fundi": "TEST"
+  },
+  {
+    "TMs": "TEST"
+  },
+  {
+    "nares": "TEST"
+  },
+  {
+    "throat": "TEST"
+  },
+  {
+    "adenopathy": "PROBLEM"
+  },
+  {
+    "thyromegaly": "PROBLEM"
+  },
+  {
+    "Lungs": "TEST"
+  },
+  {
+    "Heart": "PROBLEM"
+  },
+  {
+    "carotid bruits": "TEST"
   },
   {
     "bowel sounds": "TEST"
   },
   {
+    "hepatosplenomegaly": "PROBLEM"
+  },
+  {
     "Breasts": "PROBLEM"
   },
   {
-    "Port-A-Cath": "DRUG"
+    "Port-A-Cath": "TREATMENT"
+  },
+  {
+    "axillary adenopathy": "PROBLEM"
   },
   {
     "ankle edema": "PROBLEM"
@@ -270,13 +300,19 @@
     "Pedal pulses": "TEST"
   },
   {
+    "Cranial nerves": "TEST"
+  },
+  {
     "Deep tendon reflexes": "TEST"
+  },
+  {
+    "focal neurologic deficits": "PROBLEM"
   },
   {
     "BUS": "TEST"
   },
   {
-    "atrophic": "PROBLEM"
+    "Vaginal rugae": "PROBLEM"
   },
   {
     "Cervix": "PROBLEM"
@@ -291,10 +327,13 @@
     "ovaries": "PROBLEM"
   },
   {
-    "Exam": "TEST"
+    "Rectal": "TEST"
   },
   {
     "actinic keratosis": "PROBLEM"
+  },
+  {
+    "Affect": "PROBLEM"
   },
   {
     "Peripheral neuropathy": "PROBLEM"
@@ -348,10 +387,16 @@
     "ferritin": "TEST"
   },
   {
+    "anemia": "PROBLEM"
+  },
+  {
     "Hemoccult cards": "TEST"
   },
   {
-    "DT": "DRUG"
+    "anemia": "PROBLEM"
+  },
+  {
+    "DT immunization": "DRUG"
   },
   {
     "Ambien": "DRUG"
@@ -360,19 +405,10 @@
     "flu shot": "DRUG"
   },
   {
-    "general medicine": "PROBLEM"
-  },
-  {
     "numbness": "PROBLEM"
   },
   {
     "allergic rhinitis": "PROBLEM"
-  },
-  {
-    "anodyne physical therapy": "TREATMENT"
-  },
-  {
-    "hemoccult cards": "TEST"
   },
   {
     "hypertension": "PROBLEM"
@@ -393,24 +429,21 @@
     "tingling": "PROBLEM"
   },
   {
-    "port a cath": "TREATMENT"
-  },
-  {
-    "total knee arthroplasty": "TREATMENT"
-  },
-  {
     "essential thrombocythemia": "PROBLEM"
-  },
-  {
-    "toes": "PROBLEM"
   },
   {
     "anemia": "PROBLEM"
   },
   {
-    "peripheral": "PROBLEM"
+    "anodyne physical therapy": "TREATMENT"
   },
   {
-    "neuropathy": "PROBLEM"
+    "hemoccult cards": "TEST"
+  },
+  {
+    "port a cath": "TREATMENT"
+  },
+  {
+    "total knee arthroplasty": "TREATMENT"
   }
 ]

@@ -1,21 +1,9 @@
 [
   {
-    "General Medicine": "TEST"
-  },
-  {
-    "Nausea": "PROBLEM"
+    "nausea": "PROBLEM"
   },
   {
     "Vomiting": "PROBLEM"
-  },
-  {
-    "ER Visit Description": "TEST"
-  },
-  {
-    "intractable nausea": "PROBLEM"
-  },
-  {
-    "vomiting": "PROBLEM"
   },
   {
     "blood-tinged vomit": "PROBLEM"
@@ -30,15 +18,6 @@
     "blood-tinged vomit": "PROBLEM"
   },
   {
-    "alcohol": "DRUG"
-  },
-  {
-    "drugs": "DRUG"
-  },
-  {
-    "tobacco": "DRUG"
-  },
-  {
     "sodium": "TEST"
   },
   {
@@ -51,22 +30,19 @@
     "AST": "TEST"
   },
   {
-    "bilirubin": "TEST"
+    "total bilirubin": "TEST"
   },
   {
-    "ketones": "TEST"
+    "3+ ketones": "TEST"
   },
   {
-    "protein": "TEST"
+    "2+ protein": "TEST"
   },
   {
-    "esterase": "TEST"
+    "1+ esterase": "TEST"
   },
   {
     "rbc": "TEST"
-  },
-  {
-    "bacteria": "PROBLEM"
   },
   {
     "H and H": "TEST"
@@ -76,9 +52,6 @@
   },
   {
     "Zofran": "DRUG"
-  },
-  {
-    "IV": "TREATMENT"
   },
   {
     "IV": "TREATMENT"
@@ -102,13 +75,16 @@
     "Maalox": "DRUG"
   },
   {
-    "fluids": "TREATMENT"
+    "chemistry": "TEST"
   },
   {
     "AST": "TEST"
   },
   {
     "ALT": "TEST"
+  },
+  {
+    "lab variables": "TEST"
   },
   {
     "hyperemesis gravidarum": "PROBLEM"
@@ -126,13 +102,13 @@
     "vomiting": "PROBLEM"
   },
   {
-    "general medicine": "PROBLEM"
+    "general medicine": "TREATMENT"
   },
   {
     "iv hydration": "TREATMENT"
   },
   {
-    "elevated alt": "TEST"
+    "elevated alt": "PROBLEM"
   },
   {
     "emergency": "PROBLEM"

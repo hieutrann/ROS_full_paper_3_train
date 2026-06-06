@@ -15,7 +15,7 @@
     "atopic dermatitis": "PROBLEM"
   },
   {
-    "left otalgia": "PROBLEM"
+    "otalgia": "PROBLEM"
   },
   {
     "headache": "PROBLEM"
@@ -27,13 +27,13 @@
     "sinus pressure": "PROBLEM"
   },
   {
-    "teeth were hurting": "PROBLEM"
+    "teeth": "PROBLEM"
   },
   {
-    "sinus pressure": "PROBLEM"
+    "dental exam": "TEST"
   },
   {
-    "left-sided jaw pain": "PROBLEM"
+    "jaw pain": "PROBLEM"
   },
   {
     "headache": "PROBLEM"
@@ -48,10 +48,10 @@
     "sore throat": "PROBLEM"
   },
   {
-    "atopic dermatitis": "PROBLEM"
+    "Cutivate cream": "DRUG"
   },
   {
-    "Cutivate cream": "DRUG"
+    "atopic dermatitis": "PROBLEM"
   },
   {
     "sinusitis": "PROBLEM"
@@ -72,7 +72,7 @@
     "nonsmoker": "PROBLEM"
   },
   {
-    "above": "PROBLEM"
+    "REVIEW OF SYSTEMS": "TEST"
   },
   {
     "nausea": "PROBLEM"
@@ -90,13 +90,19 @@
     "Weight": "TEST"
   },
   {
-    "97.9 degrees": "TEST"
+    "Temperature": "TEST"
   },
   {
     "erythematous plaques": "PROBLEM"
   },
   {
     "lichenification": "PROBLEM"
+  },
+  {
+    "nuchal region": "PROBLEM"
+  },
+  {
+    "knees": "PROBLEM"
   },
   {
     "PERRLA": "TEST"
@@ -117,22 +123,19 @@
     "auricles": "PROBLEM"
   },
   {
-    "Nasal mucosa": "PROBLEM"
+    "Nasal mucosa": "TEST"
   },
   {
-    "discharge": "PROBLEM"
-  },
-  {
-    "Nonerythematous": "PROBLEM"
+    "Throat": "PROBLEM"
   },
   {
     "tonsillar hypertrophy": "PROBLEM"
   },
   {
-    "adenopathy": "PROBLEM"
+    "thyromegaly": "PROBLEM"
   },
   {
-    "thyromegaly": "PROBLEM"
+    "adenopathy": "PROBLEM"
   },
   {
     "Lungs": "PROBLEM"
@@ -141,7 +144,7 @@
     "Respirations": "TEST"
   },
   {
-    "Heart rate": "TEST"
+    "Heart": "PROBLEM"
   },
   {
     "ASSESSMENT": "TREATMENT"
@@ -150,7 +153,7 @@
     "Serous otitis": "PROBLEM"
   },
   {
-    "2.": "TREATMENT"
+    "2": "TEST"
   },
   {
     "Atopic dermatitis": "PROBLEM"
@@ -162,19 +165,19 @@
     "Nasacort AQ": "DRUG"
   },
   {
-    "2.": "TREATMENT"
+    "2": "TEST"
   },
   {
     "Duraphen II": "DRUG"
   },
   {
-    "3": "TREATMENT"
+    "3": "PROBLEM"
   },
   {
-    "Cutivate cream 0.05%": "DRUG"
+    "Cutivate cream": "DRUG"
   },
   {
-    "p.r.n.": "TREATMENT"
+    "p.r.n.": "TEST"
   },
   {
     "left otalgia": "PROBLEM"

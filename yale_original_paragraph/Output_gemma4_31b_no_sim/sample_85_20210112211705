@@ -54,10 +54,7 @@
     "telemetry readings": "TEST"
   },
   {
-    "sinus rhythm": "PROBLEM"
-  },
-  {
-    "severe bradycardias": "PROBLEM"
+    "bradycardias": "PROBLEM"
   },
   {
     "sick sinus syndrome": "PROBLEM"
@@ -76,9 +73,6 @@
   },
   {
     "Right femoral artery catheter": "TREATMENT"
-  },
-  {
-    "pulses": "TEST"
   },
   {
     "hematoma": "PROBLEM"
@@ -196,5 +190,8 @@
   },
   {
     "permanent pacemaker": "TREATMENT"
+  },
+  {
+    "pacemaker": "TREATMENT"
   }
 ]

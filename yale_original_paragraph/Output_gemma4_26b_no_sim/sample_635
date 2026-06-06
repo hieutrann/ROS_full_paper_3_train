@@ -1,6 +1,9 @@
 [
   {
-    "Left heart catheterization": "TEST"
+    "Cardiac Catheterization": "TEST"
+  },
+  {
+    "left heart catheterization": "TEST"
   },
   {
     "coronary angiography": "TEST"
@@ -21,9 +24,6 @@
     "Closure device": "TREATMENT"
   },
   {
-    "Angio-Seal": "TREATMENT"
-  },
-  {
     "coronary atherosclerotic heart disease": "PROBLEM"
   },
   {
@@ -39,16 +39,28 @@
     "diabetes": "PROBLEM"
   },
   {
+    "hypertension": "PROBLEM"
+  },
+  {
     "hyperlipidemia": "PROBLEM"
   },
   {
     "percutaneous evaluation": "TEST"
   },
   {
+    "percutaneous intervention": "TREATMENT"
+  },
+  {
     "lidocaine": "DRUG"
   },
   {
+    "coronary angiography": "TEST"
+  },
+  {
     "left ventricular measurement": "TEST"
+  },
+  {
+    "angiography": "TEST"
   },
   {
     "left ventricular pressures": "TEST"
@@ -66,6 +78,9 @@
     "Perclose device": "TREATMENT"
   },
   {
+    "Angio-Seal": "TREATMENT"
+  },
+  {
     "hemostasis": "PROBLEM"
   },
   {
@@ -78,13 +93,31 @@
     "end-diastolic pressure": "TEST"
   },
   {
+    "aortic valve": "PROBLEM"
+  },
+  {
     "Left ventricular ejection fraction": "TEST"
   },
   {
     "Mitral regurgitation": "PROBLEM"
   },
   {
-    "proximal LAD was 100% occluded": "PROBLEM"
+    "coronary artery": "PROBLEM"
+  },
+  {
+    "atherosclerotic plaque": "PROBLEM"
+  },
+  {
+    "LAD": "PROBLEM"
+  },
+  {
+    "occluded": "PROBLEM"
+  },
+  {
+    "left circumflex": "PROBLEM"
+  },
+  {
+    "atherosclerotic plaque": "PROBLEM"
   },
   {
     "stenosis": "PROBLEM"
@@ -93,24 +126,18 @@
     "saphenous vein graft": "TREATMENT"
   },
   {
-    "occluded": "PROBLEM"
+    "stenosis": "PROBLEM"
+  },
+  {
+    "stenosis": "PROBLEM"
+  },
+  {
+    "stenosis": "PROBLEM"
   },
   {
     "carotid duplex Doppler ultrasound": "TEST"
   },
   {
     "carotid bruits": "PROBLEM"
-  },
-  {
-    "ventricular pressure": "TEST"
-  },
-  {
-    "coronary artery": "PROBLEM"
-  },
-  {
-    "saphenous vein": "TREATMENT"
-  },
-  {
-    "atherosclerotic": "PROBLEM"
   }
 ]

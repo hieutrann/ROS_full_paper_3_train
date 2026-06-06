@@ -3,7 +3,7 @@
     "Breast Calcifications": "PROBLEM"
   },
   {
-    "Suspicious calcifications": "PROBLEM"
+    "calcifications": "PROBLEM"
   },
   {
     "Left breast excisional biopsy": "TREATMENT"
@@ -66,6 +66,9 @@
     "stereotactic core needle biopsy": "TREATMENT"
   },
   {
+    "Interventional Radiology": "TREATMENT"
+  },
+  {
     "false aneurysm": "PROBLEM"
   },
   {
@@ -75,10 +78,10 @@
     "thrombin material": "DRUG"
   },
   {
-    "false aneurysm": "PROBLEM"
+    "occlusion": "TREATMENT"
   },
   {
-    "occlusion": "TREATMENT"
+    "false aneurysm": "PROBLEM"
   },
   {
     "hematoma": "PROBLEM"
@@ -249,25 +252,16 @@
     "Regular sinus rhythm": "PROBLEM"
   },
   {
-    "CHEST": "TEST"
-  },
-  {
     "wheezes": "PROBLEM"
-  },
-  {
-    "palpable abnormalities": "PROBLEM"
   },
   {
     "palpable masses": "PROBLEM"
   },
   {
-    "tissue changes": "PROBLEM"
-  },
-  {
     "stereotactic core needle biopsy": "TEST"
   },
   {
-    "suspicious lymphadenopathy": "PROBLEM"
+    "lymphadenopathy": "PROBLEM"
   },
   {
     "masses": "PROBLEM"
@@ -300,7 +294,7 @@
     "imaging": "TEST"
   },
   {
-    "stereotactic core needle biopsy": "TREATMENT"
+    "stereotactic core needle biopsy": "TEST"
   },
   {
     "left breast": "PROBLEM"
@@ -324,7 +318,13 @@
     "gastroesophageal reflux disease": "PROBLEM"
   },
   {
+    "medications": "DRUG"
+  },
+  {
     "transient ischemic attack": "PROBLEM"
+  },
+  {
+    "medications": "DRUG"
   },
   {
     "osteopenia": "PROBLEM"
@@ -333,7 +333,13 @@
     "osteoporosis": "PROBLEM"
   },
   {
+    "medications": "DRUG"
+  },
+  {
     "anxiety": "PROBLEM"
+  },
+  {
+    "medications": "DRUG"
   },
   {
     "Left breast excisional biopsy": "TREATMENT"
@@ -343,6 +349,9 @@
   },
   {
     "intraoperative specimen radiography": "TEST"
+  },
+  {
+    "breast mound": "PROBLEM"
   },
   {
     "stereotactic core needle biopsy": "TREATMENT"

@@ -1,8 +1,5 @@
 [
   {
-    "Speech therapy": "TREATMENT"
-  },
-  {
     "skilled speech therapy": "TREATMENT"
   },
   {
@@ -33,7 +30,16 @@
     "therapy": "TREATMENT"
   },
   {
+    "therapy goals": "TREATMENT"
+  },
+  {
     "visual scanning tasks": "TEST"
+  },
+  {
+    "functional": "PROBLEM"
+  },
+  {
+    "cognitive-linguistic ability": "PROBLEM"
   },
   {
     "attention": "TEST"
@@ -54,12 +60,36 @@
     "mild cognitive-linguistic deficit": "PROBLEM"
   },
   {
+    "initial evaluation": "TEST"
+  },
+  {
     "severe impairment": "PROBLEM"
   },
   {
     "skilled speech therapy": "TREATMENT"
   },
   {
+    "memory": "PROBLEM"
+  },
+  {
+    "executive function": "PROBLEM"
+  },
+  {
+    "attention": "PROBLEM"
+  },
+  {
     "speech therapy": "TREATMENT"
+  },
+  {
+    "visuospatial": "PROBLEM"
+  },
+  {
+    "linguistic": "PROBLEM"
+  },
+  {
+    "cognitive": "PROBLEM"
+  },
+  {
+    "speech": "PROBLEM"
   }
 ]

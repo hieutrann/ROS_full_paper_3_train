@@ -1,11 +1,5 @@
 [
   {
-    "MULTISYSTEM EXAM": "TEST"
-  },
-  {
-    "vital signs": "TEST"
-  },
-  {
     "blood pressure": "TEST"
   },
   {
@@ -15,10 +9,7 @@
     "pupil": "TEST"
   },
   {
-    "ptois": "PROBLEM"
-  },
-  {
-    "oropharynx": "PROBLEM"
+    "ptosis": "PROBLEM"
   },
   {
     "lesion": "PROBLEM"
@@ -27,10 +18,16 @@
     "thyroid gland": "PROBLEM"
   },
   {
-    "respiratory effort": "TEST"
+    "palpation": "TEST"
   },
   {
-    "Auscultation of the lung": "TEST"
+    "Auscultation": "TEST"
+  },
+  {
+    "lung": "PROBLEM"
+  },
+  {
+    "air movement": "PROBLEM"
   },
   {
     "Auscultation of the heart": "TEST"
@@ -57,22 +54,31 @@
     "Bowel sounds": "TEST"
   },
   {
+    "mass": "PROBLEM"
+  },
+  {
     "lesion": "PROBLEM"
   },
   {
     "discharge": "PROBLEM"
   },
   {
-    "LYMPHATIC": "TEST"
+    "deformity": "PROBLEM"
+  },
+  {
+    "deformity": "PROBLEM"
   },
   {
     "Range of motion": "TEST"
   },
   {
-    "Inspection of the skin and subcutaneous tissues": "TEST"
+    "Deep tendon reflexes": "TEST"
   },
   {
-    "Deep tendon reflexes": "TEST"
+    "Sensation": "PROBLEM"
+  },
+  {
+    "conjunctiva": "PROBLEM"
   },
   {
     "auscultation": "TEST"

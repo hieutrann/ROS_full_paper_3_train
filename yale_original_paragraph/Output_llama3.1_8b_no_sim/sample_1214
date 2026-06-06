@@ -39,24 +39,9 @@
     "nebulized treatments": "TREATMENT"
   },
   {
-    "incision": "TREATMENT"
-  },
-  {
-    "drainage": "TREATMENT"
-  },
-  {
-    "nebulized albuterol": "TREATMENT"
-  },
-  {
-    "inhaled corticosteroids": "TREATMENT"
+    "inhalation": "TREATMENT"
   },
   {
     "systemic corticosteroids": "TREATMENT"
-  },
-  {
-    "amoxicillin": "TREATMENT"
-  },
-  {
-    "Zithromax": "TREATMENT"
   }
 ]

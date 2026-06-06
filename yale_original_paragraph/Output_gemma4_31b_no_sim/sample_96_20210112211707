@@ -48,6 +48,9 @@
     "dryness": "PROBLEM"
   },
   {
+    "glasses": "TREATMENT"
+  },
+  {
     "ringing in the ears": "PROBLEM"
   },
   {
@@ -84,13 +87,16 @@
     "dry mouth": "PROBLEM"
   },
   {
-    "frequent sore throats": "PROBLEM"
+    "dentures": "TREATMENT"
+  },
+  {
+    "removable dental work": "TREATMENT"
+  },
+  {
+    "sore throats": "PROBLEM"
   },
   {
     "hoarseness": "PROBLEM"
-  },
-  {
-    "constant feeling of a need to clear the throat": "PROBLEM"
   },
   {
     "acid or bitter fluid in the mouth or throat": "PROBLEM"
@@ -147,10 +153,10 @@
     "coughing up mucus": "PROBLEM"
   },
   {
-    "waking at night coughing or choking": "PROBLEM"
+    "choking": "PROBLEM"
   },
   {
-    "repeated pneumonias": "PROBLEM"
+    "pneumonias": "PROBLEM"
   },
   {
     "wheezing": "PROBLEM"
@@ -169,9 +175,6 @@
   },
   {
     "vomiting blood": "PROBLEM"
-  },
-  {
-    "coffee ground material": "PROBLEM"
   },
   {
     "heartburn": "PROBLEM"
@@ -276,7 +279,7 @@
     "back pain": "PROBLEM"
   },
   {
-    "major orthopedic injuries": "PROBLEM"
+    "orthopedic injuries": "PROBLEM"
   },
   {
     "easy bruising": "PROBLEM"
@@ -342,7 +345,7 @@
     "thoughts of suicide": "PROBLEM"
   },
   {
-    "voices in ?? head": "PROBLEM"
+    "psychiatric counseling or treatment": "TREATMENT"
   },
   {
     "intolerance to hot or cold temperature": "PROBLEM"
@@ -382,8 +385,5 @@
   },
   {
     "latex allergies": "PROBLEM"
-  },
-  {
-    "sensitivity": "PROBLEM"
   }
 ]

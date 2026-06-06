@@ -1,0 +1,176 @@
+[
+  {
+    "Pneumonia": "PROBLEM"
+  },
+  {
+    "Crohn disease": "PROBLEM"
+  },
+  {
+    "protein-losing enteropathy": "PROBLEM"
+  },
+  {
+    "malnutrition": "PROBLEM"
+  },
+  {
+    "anasarca": "PROBLEM"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "leukocytosis": "PROBLEM"
+  },
+  {
+    "swelling in my legs": "PROBLEM"
+  },
+  {
+    "crampy abdominal pain": "PROBLEM"
+  },
+  {
+    "diarrhea": "PROBLEM"
+  },
+  {
+    "fevers": "PROBLEM"
+  },
+  {
+    "Streptococcus": "PROBLEM"
+  },
+  {
+    "dyspneic": "PROBLEM"
+  },
+  {
+    "lower extremity edema": "PROBLEM"
+  },
+  {
+    "pain in his ankles and knees": "PROBLEM"
+  },
+  {
+    "edema in his entire body": "PROBLEM"
+  },
+  {
+    "malabsorption": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "dyspnea": "PROBLEM"
+  },
+  {
+    "Prednisone": "DRUG"
+  },
+  {
+    "Effexor": "DRUG"
+  },
+  {
+    "Folic acid": "DRUG"
+  },
+  {
+    "Norco": "DRUG"
+  },
+  {
+    "anxiety": "PROBLEM"
+  },
+  {
+    "depression": "PROBLEM"
+  },
+  {
+    "Small bowel resections": "TREATMENT"
+  },
+  {
+    "Appendectomy": "TREATMENT"
+  },
+  {
+    "vasectomy": "TREATMENT"
+  },
+  {
+    "IPF": "PROBLEM"
+  },
+  {
+    "irritable bowel syndrome": "PROBLEM"
+  },
+  {
+    "respiratory distress": "PROBLEM"
+  },
+  {
+    "crackles": "TEST"
+  },
+  {
+    "decreased breath sounds": "TEST"
+  },
+  {
+    "Bowel sounds": "TEST"
+  },
+  {
+    "ascites": "PROBLEM"
+  },
+  {
+    "scrotal edema": "PROBLEM"
+  },
+  {
+    "edema at pretibial and lateral feet": "PROBLEM"
+  },
+  {
+    "ecchymosis": "PROBLEM"
+  },
+  {
+    "petechiae": "PROBLEM"
+  },
+  {
+    "total protein": "TEST"
+  },
+  {
+    "albumin": "TEST"
+  },
+  {
+    "M-spike": "TEST"
+  },
+  {
+    "B12": "TEST"
+  },
+  {
+    "white count": "TEST"
+  },
+  {
+    "hemoglobin": "TEST"
+  },
+  {
+    "platelet count": "TEST"
+  },
+  {
+    "dietary supplement": "TREATMENT"
+  },
+  {
+    "sedimentation rate": "TEST"
+  },
+  {
+    "C-reactive protein": "TEST"
+  },
+  {
+    "LDH": "TEST"
+  },
+  {
+    "prealbumin": "TEST"
+  },
+  {
+    "thyroid": "TEST"
+  },
+  {
+    "iron studies": "TEST"
+  },
+  {
+    "hypoalbuminemia": "PROBLEM"
+  },
+  {
+    "diuretics": "DRUG"
+  },
+  {
+    "enteropathy": "PROBLEM"
+  }
+]

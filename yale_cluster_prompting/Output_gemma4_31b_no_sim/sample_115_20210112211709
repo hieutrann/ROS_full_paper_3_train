@@ -63,7 +63,7 @@
     "malignancy": "PROBLEM"
   },
   {
-    "liver function tests": "TEST"
+    "Elevated liver function tests": "PROBLEM"
   },
   {
     "right hip pain": "PROBLEM"
@@ -87,10 +87,10 @@
     "complete obstruction of the left lower lobe": "PROBLEM"
   },
   {
-    "complete obstruction of the lingula": "PROBLEM"
+    "the lingula": "PROBLEM"
   },
   {
-    "complete obstruction of the left pulmonary vein": "PROBLEM"
+    "the left pulmonary vein": "PROBLEM"
   },
   {
     "multiple nodules on the right side of his chest": "PROBLEM"
@@ -108,13 +108,13 @@
     "left large pleural effusion": "PROBLEM"
   },
   {
-    "shortness of breath": "PROBLEM"
+    "severe shortness of breath": "PROBLEM"
   },
   {
     "chest pain": "PROBLEM"
   },
   {
-    "chest tube": "TREATMENT"
+    "left-sided chest tube": "TREATMENT"
   },
   {
     "pleural effusion": "PROBLEM"
@@ -129,7 +129,7 @@
     "metastatic disease": "PROBLEM"
   },
   {
-    "bronchoscopy": "TREATMENT"
+    "bronchoscopy": "TEST"
   },
   {
     "non-small cell lung CA": "PROBLEM"
@@ -172,12 +172,6 @@
   },
   {
     "expired": "PROBLEM"
-  },
-  {
-    "dnr": "TREATMENT"
-  },
-  {
-    "extubated": "TREATMENT"
   },
   {
     "lung carcinoma": "PROBLEM"

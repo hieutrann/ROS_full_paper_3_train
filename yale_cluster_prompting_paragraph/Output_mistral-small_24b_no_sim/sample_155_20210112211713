@@ -18,27 +18,6 @@
     "hydroureter": "PROBLEM"
   },
   {
-    "Sepsis": "PROBLEM"
-  },
-  {
-    "abdominal pain": "PROBLEM"
-  },
-  {
-    "CT scan": "TEST"
-  },
-  {
-    "dilated bladder": "PROBLEM"
-  },
-  {
-    "outlet obstruction": "PROBLEM"
-  },
-  {
-    "bilateral hydronephrosis": "PROBLEM"
-  },
-  {
-    "hydroureter": "PROBLEM"
-  },
-  {
     "IV antibiotics": "DRUG"
   },
   {
@@ -120,40 +99,28 @@
     "Amoxicillin": "DRUG"
   },
   {
-    "VITAL SIGNS": "TEST"
-  },
-  {
-    "pulse": "TEST"
-  },
-  {
-    "respirations": "TEST"
-  },
-  {
-    "blood pressure": "TEST"
-  },
-  {
-    "saturating": "TEST"
-  },
-  {
-    "HEENT": "TEST"
-  },
-  {
-    "HEART": "TEST"
-  },
-  {
-    "LUNGS": "TEST"
-  },
-  {
-    "ABDOMEN": "TEST"
-  },
-  {
-    "EXTREMITIES": "TEST"
-  },
-  {
-    "NEUROLOGIC": "TEST"
-  },
-  {
     "CT of the abdomen": "TEST"
+  },
+  {
+    "left inguinal hernia": "PROBLEM"
+  },
+  {
+    "SBO": "PROBLEM"
+  },
+  {
+    "dilated bladder": "PROBLEM"
+  },
+  {
+    "outlet obstruction": "PROBLEM"
+  },
+  {
+    "bilateral hydronephrosis": "PROBLEM"
+  },
+  {
+    "hydroureter": "PROBLEM"
+  },
+  {
+    "right adrenal gland mass": "PROBLEM"
   },
   {
     "White count": "TEST"
@@ -201,24 +168,6 @@
     "atrial fibrillation": "PROBLEM"
   },
   {
-    "urinary tract infection with sepsis": "PROBLEM"
-  },
-  {
-    "Obstructive uropathy": "PROBLEM"
-  },
-  {
-    "dementia": "PROBLEM"
-  },
-  {
-    "atrial fibrillation": "PROBLEM"
-  },
-  {
-    "anemia": "PROBLEM"
-  },
-  {
-    "adrenal gland mass": "PROBLEM"
-  },
-  {
     "urology consult": "TREATMENT"
   },
   {
@@ -244,6 +193,9 @@
   },
   {
     "TED hose": "TREATMENT"
+  },
+  {
+    "rate control medications": "DRUG"
   },
   {
     "digoxin level": "TEST"

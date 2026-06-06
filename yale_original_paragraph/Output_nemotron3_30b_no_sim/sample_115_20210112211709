@@ -1,0 +1,56 @@
+[
+  {
+    "non-small cell lung carcinoma": "PROBLEM"
+  },
+  {
+    "left malignant pleural effusion": "PROBLEM"
+  },
+  {
+    "chest tube insertion": "TREATMENT"
+  },
+  {
+    "chemical pleurodesis": "TREATMENT"
+  },
+  {
+    "Respiratory failure": "PROBLEM"
+  },
+  {
+    "postobstructive pneumonia": "PROBLEM"
+  },
+  {
+    "Gastrointestinal bleed": "PROBLEM"
+  },
+  {
+    "Thrombocytopenia": "PROBLEM"
+  },
+  {
+    "Acute renal failure": "PROBLEM"
+  },
+  {
+    "Hyponatremia": "PROBLEM"
+  },
+  {
+    "Hypercalcemia": "PROBLEM"
+  },
+  {
+    "Leukemoid reaction": "PROBLEM"
+  },
+  {
+    "Elevated liver function tests": "TEST"
+  },
+  {
+    "CT scan of the chest": "TEST"
+  },
+  {
+    "bronchoscopy": "TEST"
+  },
+  {
+    "malignant cells": "PROBLEM"
+  },
+  {
+    "DNR": "TREATMENT"
+  },
+  {
+    "withdrawal of the life support": "TREATMENT"
+  }
+]

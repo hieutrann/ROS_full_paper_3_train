@@ -27,10 +27,10 @@
     "weak knees": "PROBLEM"
   },
   {
-    "ground-level fall": "PROBLEM"
+    "knees": "PROBLEM"
   },
   {
-    "bilateral knee pain": "PROBLEM"
+    "knee pain": "PROBLEM"
   },
   {
     "hematuria": "PROBLEM"
@@ -66,7 +66,7 @@
     "weak knees": "PROBLEM"
   },
   {
-    "bilateral knee pain": "PROBLEM"
+    "knee pain": "PROBLEM"
   },
   {
     "hematuria": "PROBLEM"
@@ -81,7 +81,7 @@
     "afebrile": "PROBLEM"
   },
   {
-    "101.3": "TEST"
+    "101.3": "PROBLEM"
   },
   {
     "heart rate": "TEST"
@@ -147,28 +147,19 @@
     "gastroesophageal reflux disease": "PROBLEM"
   },
   {
-    "exploratory laparotomy": "TREATMENT"
-  },
-  {
-    "stab wounds": "PROBLEM"
-  },
-  {
-    "chronic recurrent leg wounds": "PROBLEM"
-  },
-  {
     "hepatic encephalopathy": "PROBLEM"
   },
   {
     "smoker": "PROBLEM"
   },
   {
-    "cocaine": "DRUG"
+    "cocaine": "PROBLEM"
   },
   {
     "alcohol abuse": "PROBLEM"
   },
   {
-    "ALLERGIES": "PROBLEM"
+    "None known": "PROBLEM"
   },
   {
     "Vancomycin": "DRUG"
@@ -198,12 +189,6 @@
     "vitamin K": "DRUG"
   },
   {
-    "drowsy": "PROBLEM"
-  },
-  {
-    "confused": "PROBLEM"
-  },
-  {
     "Heart rate": "TEST"
   },
   {
@@ -219,13 +204,10 @@
     "oxygen saturation": "TEST"
   },
   {
-    "nasal cannula": "TEST"
-  },
-  {
     "drowsy": "PROBLEM"
   },
   {
-    "obese": "PROBLEM"
+    "Morbidly obese": "PROBLEM"
   },
   {
     "Height": "TEST"
@@ -243,25 +225,22 @@
     "icteric sclerae": "PROBLEM"
   },
   {
-    "pale conjunctivae": "PROBLEM"
+    "conjunctivae": "PROBLEM"
   },
   {
     "pupils": "TEST"
   },
   {
-    "reaction to light": "TEST"
-  },
-  {
     "hearing": "TEST"
   },
   {
-    "oral mucosa": "PROBLEM"
+    "Moist oral mucosa": "PROBLEM"
   },
   {
     "oral lesions": "PROBLEM"
   },
   {
-    "palpable neck masses": "PROBLEM"
+    "neck masses": "PROBLEM"
   },
   {
     "Thyroid": "PROBLEM"
@@ -282,16 +261,13 @@
     "rales": "PROBLEM"
   },
   {
-    "rubs": "PROBLEM"
-  },
-  {
     "bipedal edema": "PROBLEM"
   },
   {
     "Globular abdomen": "PROBLEM"
   },
   {
-    "Soft": "PROBLEM"
+    "Soft": "TEST"
   },
   {
     "guarding": "PROBLEM"
@@ -304,9 +280,6 @@
   },
   {
     "epigastric area": "PROBLEM"
-  },
-  {
-    "tender on palpation": "PROBLEM"
   },
   {
     "right upper quadrant": "PROBLEM"
@@ -324,10 +297,7 @@
     "subcutaneous nodules": "PROBLEM"
   },
   {
-    "Poor judgment": "PROBLEM"
-  },
-  {
-    "insight": "PROBLEM"
+    "Poor judgment and insight": "PROBLEM"
   },
   {
     "White blood cell count": "TEST"
@@ -402,22 +372,13 @@
     "Chest x-ray": "TEST"
   },
   {
-    "pathologic abnormalities": "PROBLEM"
-  },
-  {
-    "mediastinum": "PROBLEM"
-  },
-  {
-    "lung fields": "PROBLEM"
-  },
-  {
-    "bony or soft tissue structures": "PROBLEM"
+    "advanced osteoarthritis": "PROBLEM"
   },
   {
     "Left knee x-rays": "TEST"
   },
   {
-    "advanced osteoarthritis": "PROBLEM"
+    "01/07/09": "TEST"
   },
   {
     "liver cirrhosis": "PROBLEM"
@@ -426,13 +387,13 @@
     "portal hypertension": "PROBLEM"
   },
   {
-    "ascites": "PROBLEM"
+    "mild ascites": "PROBLEM"
   },
   {
     "splenomegaly": "PROBLEM"
   },
   {
-    "portal/splenic and superior mesenteric vein": "TEST"
+    "dilated portal/splenic and superior mesenteric vein": "PROBLEM"
   },
   {
     "CAT scan": "TEST"
@@ -465,7 +426,7 @@
     "spontaneous bacterial peritenonitis": "PROBLEM"
   },
   {
-    "4": "TEST"
+    "4": "TREATMENT"
   },
   {
     "Hyperbilirubinemia": "PROBLEM"
@@ -474,19 +435,16 @@
     "cholangitis": "PROBLEM"
   },
   {
-    "5": "TEST"
+    "5": "TREATMENT"
   },
   {
     "Alcoholic liver disease": "PROBLEM"
   },
   {
-    "6": "PROBLEM"
+    "6": "TREATMENT"
   },
   {
     "Thrombocytopenia": "PROBLEM"
-  },
-  {
-    "7": "PROBLEM"
   },
   {
     "Hepatitis C": "PROBLEM"
@@ -498,7 +456,7 @@
     "Cryoglobulinemia": "PROBLEM"
   },
   {
-    "RECOMMENDATIONS": "TEST"
+    "RECOMMENDATIONS": "TREATMENT"
   },
   {
     "vancomycin": "DRUG"
@@ -510,7 +468,7 @@
     "2": "TEST"
   },
   {
-    "paracentesis": "TREATMENT"
+    "paracentesis": "TEST"
   },
   {
     "3": "PROBLEM"
@@ -519,37 +477,28 @@
     "ascitic fluid": "TEST"
   },
   {
-    "cell count": "TEST"
-  },
-  {
-    "differential": "TEST"
-  },
-  {
-    "cultures": "TEST"
-  },
-  {
-    "4": "TEST"
+    "4": "TREATMENT"
   },
   {
     "blood cultures": "TEST"
   },
   {
-    "5": "TEST"
+    "5": "TREATMENT"
   },
   {
     "urine culture": "TEST"
   },
   {
-    "6": "PROBLEM"
+    "6": "TREATMENT"
   },
   {
     "hepatitis A vaccination": "TREATMENT"
   },
   {
-    "ID": "TREATMENT"
+    "followup": "TREATMENT"
   },
   {
-    "sbp": "TEST"
+    "sbp": "PROBLEM"
   },
   {
     "diabetes": "PROBLEM"
@@ -574,9 +523,6 @@
   },
   {
     "gastroesophageal reflux disease": "PROBLEM"
-  },
-  {
-    "exploratory laparotomy": "TREATMENT"
   },
   {
     "hepatic encephalopathy": "PROBLEM"

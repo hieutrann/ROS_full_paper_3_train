@@ -48,10 +48,7 @@
     "dryness": "PROBLEM"
   },
   {
-    "feeling that something is in the eye": "PROBLEM"
-  },
-  {
-    "HEAD, EYES, EARS, NOSE AND THROAT": "TEST"
+    "glasses": "TREATMENT"
   },
   {
     "Ears": "PROBLEM"
@@ -102,10 +99,10 @@
     "dry mouth": "PROBLEM"
   },
   {
-    "dentures": "PROBLEM"
+    "dentures": "TREATMENT"
   },
   {
-    "removable dental work": "PROBLEM"
+    "removable dental work": "TREATMENT"
   },
   {
     "frequent sore throats": "PROBLEM"
@@ -114,16 +111,13 @@
     "hoarseness": "PROBLEM"
   },
   {
-    "constant feeling of a need to clear the throat": "PROBLEM"
+    "constant feeling of a need to clear the throat when nothing is there": "PROBLEM"
   },
   {
-    "waking up with acid": "PROBLEM"
+    "waking up with acid or bitter fluid in the mouth or throat": "PROBLEM"
   },
   {
-    "bitter fluid": "PROBLEM"
-  },
-  {
-    "food sticking in throat": "PROBLEM"
+    "food sticking in throat when swallows": "PROBLEM"
   },
   {
     "painful swallowing": "PROBLEM"
@@ -144,13 +138,10 @@
     "shortness of breath": "PROBLEM"
   },
   {
-    "difficulty breathing": "PROBLEM"
+    "difficulty breathing at night": "PROBLEM"
   },
   {
-    "swollen legs": "PROBLEM"
-  },
-  {
-    "swollen feet": "PROBLEM"
+    "swollen legs or feet": "PROBLEM"
   },
   {
     "heart murmurs": "PROBLEM"
@@ -159,10 +150,10 @@
     "high blood pressure": "PROBLEM"
   },
   {
-    "cramps": "PROBLEM"
+    "cramps in his legs with walking": "PROBLEM"
   },
   {
-    "pain": "PROBLEM"
+    "pain in his feet or toes at night": "PROBLEM"
   },
   {
     "varicose veins": "PROBLEM"
@@ -177,10 +168,7 @@
     "coughing up mucus": "PROBLEM"
   },
   {
-    "waking at night coughing": "PROBLEM"
-  },
-  {
-    "waking at night choking": "PROBLEM"
+    "waking at night coughing or choking": "PROBLEM"
   },
   {
     "repeated pneumonias": "PROBLEM"
@@ -285,18 +273,6 @@
     "sexually transmitted diseases": "PROBLEM"
   },
   {
-    "arm": "PROBLEM"
-  },
-  {
-    "buttock": "PROBLEM"
-  },
-  {
-    "thigh": "PROBLEM"
-  },
-  {
-    "calf": "PROBLEM"
-  },
-  {
     "cramps": "PROBLEM"
   },
   {
@@ -375,10 +351,7 @@
     "loss of consciousness": "PROBLEM"
   },
   {
-    "sensitivity": "PROBLEM"
-  },
-  {
-    "pain": "PROBLEM"
+    "sensitivity or pain in the hands and feet": "PROBLEM"
   },
   {
     "memory loss": "PROBLEM"
@@ -387,19 +360,10 @@
     "depression": "PROBLEM"
   },
   {
-    "suicide": "PROBLEM"
-  },
-  {
-    "voices": "PROBLEM"
-  },
-  {
     "psychiatric counseling": "TREATMENT"
   },
   {
     "treatment": "TREATMENT"
-  },
-  {
-    "intolerance to hot or cold temperature": "PROBLEM"
   },
   {
     "flushing": "PROBLEM"
@@ -432,12 +396,15 @@
     "asthma": "PROBLEM"
   },
   {
+    "skin sensitivity": "PROBLEM"
+  },
+  {
     "latex allergies": "PROBLEM"
   },
   {
-    "fever": "PROBLEM"
+    "sensitivity": "PROBLEM"
   },
   {
-    "blood": "TEST"
+    "fever": "PROBLEM"
   }
 ]

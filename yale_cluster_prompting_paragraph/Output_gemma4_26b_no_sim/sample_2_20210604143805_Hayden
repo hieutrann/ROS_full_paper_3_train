@@ -1,9 +1,9 @@
 [
   {
-    "speech therapy": "TREATMENT"
+    "cognitive-linguistic deficits": "PROBLEM"
   },
   {
-    "cognitive-linguistic deficits": "PROBLEM"
+    "speech therapy": "TREATMENT"
   },
   {
     "memory": "PROBLEM"
@@ -25,5 +25,8 @@
   },
   {
     "cognitive-linguistic deficit": "PROBLEM"
+  },
+  {
+    "severe impairment": "PROBLEM"
   }
 ]

@@ -24,6 +24,9 @@
     "aching": "PROBLEM"
   },
   {
+    "glasses": "TREATMENT"
+  },
+  {
     "cataracts": "PROBLEM"
   },
   {
@@ -54,6 +57,9 @@
     "dental problems": "PROBLEM"
   },
   {
+    "dentures": "TREATMENT"
+  },
+  {
     "bleeding gums": "PROBLEM"
   },
   {
@@ -69,7 +75,7 @@
     "angina": "PROBLEM"
   },
   {
-    "previous MI": "PROBLEM"
+    "MI": "PROBLEM"
   },
   {
     "irregular heartbeat": "PROBLEM"
@@ -261,9 +267,6 @@
     "diabetes": "PROBLEM"
   },
   {
-    "thyroid": "PROBLEM"
-  },
-  {
     "cholesterol": "PROBLEM"
   },
   {
@@ -282,7 +285,7 @@
     "steroids": "DRUG"
   },
   {
-    "chemotherapy": "TREATMENT"
+    "chemotherapy": "DRUG"
   },
   {
     "cancer": "PROBLEM"
@@ -303,9 +306,6 @@
     "cough": "PROBLEM"
   },
   {
-    "sputum": "PROBLEM"
-  },
-  {
     "shortness of breath": "PROBLEM"
   },
   {
@@ -315,9 +315,6 @@
     "fatigue": "PROBLEM"
   },
   {
-    "aching": "PROBLEM"
-  },
-  {
     "swelling": "PROBLEM"
   },
   {
@@ -325,5 +322,8 @@
   },
   {
     "bleeding": "PROBLEM"
+  },
+  {
+    "heartbeat": "TEST"
   }
 ]

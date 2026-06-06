@@ -9,7 +9,7 @@
     "attention deficit disorder": "PROBLEM"
   },
   {
-    "numbness in his fingers": "PROBLEM"
+    "numbness": "PROBLEM"
   },
   {
     "sore throat": "PROBLEM"
@@ -57,15 +57,6 @@
     "postnasal drip": "PROBLEM"
   },
   {
-    "Limited in range of motion": "PROBLEM"
-  },
-  {
-    "muscle weakness": "PROBLEM"
-  },
-  {
-    "biceps tenderness": "PROBLEM"
-  },
-  {
     "x-ray": "TEST"
   },
   {
@@ -84,12 +75,57 @@
     "tonsillectomy": "TREATMENT"
   },
   {
+    "anger issues": "PROBLEM"
+  },
+  {
+    "adhd": "PROBLEM"
+  },
+  {
     "attention deficit disorde": "PROBLEM"
   },
   {
-    "anger": "PROBLEM"
+    "pharyngitis": "PROBLEM"
+  },
+  {
+    "anger control": "PROBLEM"
+  },
+  {
+    "anti-inflammatories": "DRUG"
+  },
+  {
+    "bursitis": "PROBLEM"
+  },
+  {
+    "diarrhea": "PROBLEM"
+  },
+  {
+    "fevers": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
   },
   {
     "numbness": "PROBLEM"
+  },
+  {
+    "rashes": "PROBLEM"
+  },
+  {
+    "strep throat": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "attention deficit": "PROBLEM"
+  },
+  {
+    "deficit disorder": "PROBLEM"
+  },
+  {
+    "anti inflammatories": "DRUG"
+  },
+  {
+    "anger": "PROBLEM"
   }
 ]

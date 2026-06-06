@@ -6,19 +6,7 @@
     "cardiac arrhythmia": "PROBLEM"
   },
   {
-    "AV block": "PROBLEM"
-  },
-  {
-    "GI bleed": "PROBLEM"
-  },
-  {
-    "depression": "PROBLEM"
-  },
-  {
-    "Refractory hypertension": "PROBLEM"
-  },
-  {
-    "cardiac arrhythmia": "PROBLEM"
+    "pacemaker": "TREATMENT"
   },
   {
     "AV block": "PROBLEM"
@@ -28,6 +16,9 @@
   },
   {
     "depression": "PROBLEM"
+  },
+  {
+    "antihypertensive medications": "DRUG"
   },
   {
     "blood pressure": "TEST"
@@ -93,6 +84,9 @@
     "Cardura": "DRUG"
   },
   {
+    "Temperature": "TEST"
+  },
+  {
     "pulse": "TEST"
   },
   {
@@ -108,10 +102,7 @@
     "edema": "PROBLEM"
   },
   {
-    "refractory hypertension": "PROBLEM"
-  },
-  {
-    "blood pressure": "TEST"
+    "GFR": "TEST"
   },
   {
     "cardiac arrhythmia": "PROBLEM"
@@ -124,9 +115,6 @@
   },
   {
     "blood pressure": "TEST"
-  },
-  {
-    "atenolol": "DRUG"
   },
   {
     "arrhythmia": "PROBLEM"

@@ -1,24 +1,12 @@
 [
   {
-    "auricles": "TEST"
+    "auricles": "TREATMENT"
   },
   {
     "lymphadenitis": "PROBLEM"
   },
   {
-    "acute trauma": "PROBLEM"
-  },
-  {
-    "nose": "TEST"
-  },
-  {
-    "otoscopic examination": "TEST"
-  },
-  {
-    "auditory canals": "TEST"
-  },
-  {
-    "tympanic membranes": "TEST"
+    "trauma": "PROBLEM"
   },
   {
     "mass lesion": "PROBLEM"
@@ -30,40 +18,25 @@
     "swelling": "PROBLEM"
   },
   {
+    "infection": "PROBLEM"
+  },
+  {
     "hearing": "TEST"
+  },
+  {
+    "tympanic membranes": "TEST"
   },
   {
     "nasal mucosa": "TEST"
   },
   {
-    "septum": "TEST"
-  },
-  {
     "turbinate": "TEST"
   },
   {
-    "rhinorrhea": "PROBLEM"
+    "rhinorrhea": "TEST"
   },
   {
-    "bleeding": "PROBLEM"
-  },
-  {
-    "lips": "TEST"
-  },
-  {
-    "infection": "PROBLEM"
-  },
-  {
-    "mass lesion": "PROBLEM"
-  },
-  {
-    "traumatic lesions": "PROBLEM"
-  },
-  {
-    "teeth": "TEST"
-  },
-  {
-    "gingivae": "TEST"
+    "bleeding": "TEST"
   },
   {
     "oral mucosa": "TEST"
@@ -72,27 +45,30 @@
     "salivary glands": "TEST"
   },
   {
-    "hard palate": "TEST"
-  },
-  {
-    "soft palate": "TEST"
+    "palates": "TEST"
   },
   {
     "tongue": "TEST"
   },
   {
-    "masses": "PROBLEM"
-  },
-  {
-    "swelling": "PROBLEM"
-  },
-  {
     "tonsils": "TEST"
   },
   {
-    "posterior pharynx": "TEST"
+    "pharynx": "TEST"
   },
   {
-    "oropharyngeal airway": "TEST"
+    "airway": "TEST"
+  },
+  {
+    "lips": "TREATMENT"
+  },
+  {
+    "teeth": "TREATMENT"
+  },
+  {
+    "gingivae": "TREATMENT"
+  },
+  {
+    "glands": "TREATMENT"
   }
 ]

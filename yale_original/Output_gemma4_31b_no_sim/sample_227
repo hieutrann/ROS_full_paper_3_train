@@ -24,10 +24,7 @@
     "low blood sugar": "PROBLEM"
   },
   {
-    "motor vehicle accident": "PROBLEM"
-  },
-  {
-    "blood sugar dropped too low": "PROBLEM"
+    "blood sugar": "TEST"
   },
   {
     "blood sugars": "TEST"
@@ -138,16 +135,7 @@
     "granulation tissue": "PROBLEM"
   },
   {
-    "PERRLA": "TEST"
-  },
-  {
-    "EOMI": "PROBLEM"
-  },
-  {
     "TMs": "TEST"
-  },
-  {
-    "Nares": "TEST"
   },
   {
     "redness": "PROBLEM"
@@ -204,9 +192,6 @@
     "Cranial nerves 2-12": "TEST"
   },
   {
-    "Cerebellar function": "TEST"
-  },
-  {
     "RAM": "TEST"
   },
   {
@@ -252,7 +237,7 @@
     "Prilosec OTC": "DRUG"
   },
   {
-    "GERD symptoms": "PROBLEM"
+    "GERD": "PROBLEM"
   },
   {
     "scooter accident": "PROBLEM"
@@ -310,5 +295,8 @@
   },
   {
     "diabetes": "PROBLEM"
+  },
+  {
+    "mellitus": "PROBLEM"
   }
 ]

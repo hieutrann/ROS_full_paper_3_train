@@ -9,19 +9,16 @@
     "speech therapy": "TREATMENT"
   },
   {
+    "voicing difficulties": "PROBLEM"
+  },
+  {
     "Chronic laryngitis": "PROBLEM"
   },
   {
     "hoarseness": "PROBLEM"
   },
   {
-    "HISTORY": "TEST"
-  },
-  {
     "speech therapy": "TREATMENT"
-  },
-  {
-    "voicing difficulties": "PROBLEM"
   },
   {
     "speech therapy": "TREATMENT"
@@ -51,7 +48,10 @@
     "therapy": "TREATMENT"
   },
   {
-    "voice therapy": "TREATMENT"
+    "resonant voice therapy": "TREATMENT"
+  },
+  {
+    "short-term goal": "TREATMENT"
   },
   {
     "videostroboscopy": "TEST"
@@ -63,13 +63,10 @@
     "videostroboscopy": "TEST"
   },
   {
-    "outpatient therapy": "TREATMENT"
+    "therapy": "TREATMENT"
   },
   {
     "vocal hoarseness": "PROBLEM"
-  },
-  {
-    "difficulty": "PROBLEM"
   },
   {
     "voice": "PROBLEM"
@@ -81,13 +78,7 @@
     "voicing": "PROBLEM"
   },
   {
-    "discharge summary": "TEST"
-  },
-  {
     "vocal hygiene": "TREATMENT"
-  },
-  {
-    "voice activities": "TREATMENT"
   },
   {
     "hoarseness": "PROBLEM"
@@ -102,7 +93,7 @@
     "voice therapy": "TREATMENT"
   },
   {
-    "resonant voice": "PROBLEM"
+    "resonant voice": "TREATMENT"
   },
   {
     "videostroboscopy": "TEST"

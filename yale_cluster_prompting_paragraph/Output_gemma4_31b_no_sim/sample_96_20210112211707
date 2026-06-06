@@ -48,6 +48,9 @@
     "dryness": "PROBLEM"
   },
   {
+    "glasses": "TREATMENT"
+  },
+  {
     "ringing in the ears": "PROBLEM"
   },
   {
@@ -82,6 +85,12 @@
   },
   {
     "dry mouth": "PROBLEM"
+  },
+  {
+    "dentures": "TREATMENT"
+  },
+  {
+    "removable dental work": "TREATMENT"
   },
   {
     "frequent sore throats": "PROBLEM"
@@ -382,8 +391,5 @@
   },
   {
     "latex allergies": "PROBLEM"
-  },
-  {
-    "sensitivity": "PROBLEM"
   }
 ]

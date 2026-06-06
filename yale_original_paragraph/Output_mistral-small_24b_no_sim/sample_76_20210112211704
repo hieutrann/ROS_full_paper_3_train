@@ -1,18 +1,30 @@
 [
   {
-    "Sepsis": "PROBLEM"
+    "sepsis": "PROBLEM"
   },
   {
     "urinary tract infection": "PROBLEM"
   },
   {
-    "urinary tract infection": "PROBLEM"
+    "Temperature": "TEST"
   },
   {
-    "urinary": "PROBLEM"
+    "White count": "TEST"
   },
   {
-    "infection": "PROBLEM"
+    "Hemoglobin": "TEST"
+  },
+  {
+    "hematocrit": "TEST"
+  },
+  {
+    "platelets": "TEST"
+  },
+  {
+    "BUN": "TEST"
+  },
+  {
+    "creatinine": "TEST"
   },
   {
     "urine culture": "TEST"
@@ -27,28 +39,22 @@
     "doripenem": "DRUG"
   },
   {
-    "doripenem": "DRUG"
-  },
-  {
-    "urinary tract infection": "PROBLEM"
-  },
-  {
     "Foley catheter": "TREATMENT"
   },
   {
-    "Hypotension": "PROBLEM"
+    "hypotension": "PROBLEM"
   },
   {
     "intravenous fluids": "TREATMENT"
   },
   {
-    "Ischemic cardiomyopathy": "PROBLEM"
+    "ischemic cardiomyopathy": "PROBLEM"
   },
   {
-    "Diabetes type 2": "PROBLEM"
+    "diabetes type 2": "PROBLEM"
   },
   {
-    "insulin sliding scale": "DRUG"
+    "insulin sliding scale": "TREATMENT"
   },
   {
     "pulmonary embolism": "PROBLEM"
@@ -64,32 +70,5 @@
   },
   {
     "troponin": "TEST"
-  },
-  {
-    "troponin": "PROBLEM"
-  },
-  {
-    "general medicine": "PROBLEM"
-  },
-  {
-    "sepsis": "PROBLEM"
-  },
-  {
-    "escherichia coli": "PROBLEM"
-  },
-  {
-    "urinary tract infection": "PROBLEM"
-  },
-  {
-    "doripenem": "DRUG"
-  },
-  {
-    "troponin": "TEST"
-  },
-  {
-    "urinary": "PROBLEM"
-  },
-  {
-    "infection": "PROBLEM"
   }
 ]

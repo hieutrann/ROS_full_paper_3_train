@@ -1,15 +1,15 @@
 [
   {
-    "Abdominal Pain": "PROBLEM"
-  },
-  {
     "Abdominal pain": "PROBLEM"
   },
   {
     "sigmoid diverticulitis": "PROBLEM"
   },
   {
-    "sigmoid diverticulitis": "PROBLEM"
+    "Abdominal pain": "PROBLEM"
+  },
+  {
+    "CT scan": "TEST"
   },
   {
     "Cipro": "DRUG"
@@ -24,24 +24,21 @@
     "Premarin": "DRUG"
   },
   {
-    "MacroDantin": "DRUG"
-  },
-  {
-    "CT scan": "TEST"
-  },
-  {
-    "EKG": "TEST"
-  },
-  {
     "colonoscopy": "TEST"
+  },
+  {
+    "EGD": "TEST"
+  },
+  {
+    "barium enema": "TREATMENT"
+  },
+  {
+    "sigmoid diverticulitis": "PROBLEM"
   },
   {
     "stat CT scan": "TEST"
   },
   {
     "colonoscopy": "TREATMENT"
-  },
-  {
-    "sigmoid diverticulitis": "TREATMENT"
   }
 ]

@@ -1,0 +1,170 @@
+[
+  {
+    "temperature of 104 degrees F": "PROBLEM"
+  },
+  {
+    "left sacroiliac type hip pain": "PROBLEM"
+  },
+  {
+    "degenerative disk disease": "PROBLEM"
+  },
+  {
+    "swollen inguinal nodes": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "chills": "PROBLEM"
+  },
+  {
+    "left pelvic pain": "PROBLEM"
+  },
+  {
+    "pain in her left posterior pelvic and low back region": "PROBLEM"
+  },
+  {
+    "severe pain": "PROBLEM"
+  },
+  {
+    "blood studies": "TEST"
+  },
+  {
+    "cultures": "TEST"
+  },
+  {
+    "febrile agglutinins": "TEST"
+  },
+  {
+    "blood glucose": "TEST"
+  },
+  {
+    "insulin": "DRUG"
+  },
+  {
+    "diabetic": "PROBLEM"
+  },
+  {
+    "x-rays": "TEST"
+  },
+  {
+    "MRIs of the lumbar spine and the pelvis and both thighs": "TEST"
+  },
+  {
+    "inflammatory process": "PROBLEM"
+  },
+  {
+    "hypertensive": "PROBLEM"
+  },
+  {
+    "hyperlipidemia": "PROBLEM"
+  },
+  {
+    "thyroid problems": "PROBLEM"
+  },
+  {
+    "asthma": "PROBLEM"
+  },
+  {
+    "bronchitis": "PROBLEM"
+  },
+  {
+    "TB": "PROBLEM"
+  },
+  {
+    "emphysema": "PROBLEM"
+  },
+  {
+    "pneumonia": "PROBLEM"
+  },
+  {
+    "tuberculosis": "PROBLEM"
+  },
+  {
+    "breast tumors": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "cardiac problems": "PROBLEM"
+  },
+  {
+    "gallbladder surgery": "TREATMENT"
+  },
+  {
+    "gastritis": "PROBLEM"
+  },
+  {
+    "ulcers": "PROBLEM"
+  },
+  {
+    "kidney disease": "PROBLEM"
+  },
+  {
+    "hysterectomy": "TREATMENT"
+  },
+  {
+    "A&P repair": "TREATMENT"
+  },
+  {
+    "sacral abscess": "PROBLEM"
+  },
+  {
+    "pilonidal cyst": "PROBLEM"
+  },
+  {
+    "fractures": "PROBLEM"
+  },
+  {
+    "arthritis": "PROBLEM"
+  },
+  {
+    "shivering": "PROBLEM"
+  },
+  {
+    "febrile to 101 degrees F": "PROBLEM"
+  },
+  {
+    "hip pain in the posterior sacroiliac joint area": "PROBLEM"
+  },
+  {
+    "knee reflexes": "TEST"
+  },
+  {
+    "ankle reflexes": "TEST"
+  },
+  {
+    "bounding tibial pulses": "TEST"
+  },
+  {
+    "sensory deficit": "PROBLEM"
+  },
+  {
+    "bruising around the buttocks": "PROBLEM"
+  },
+  {
+    "triple-phase bone scan": "TEST"
+  },
+  {
+    "infection": "PROBLEM"
+  },
+  {
+    "white count": "TEST"
+  },
+  {
+    "brucellosis": "PROBLEM"
+  },
+  {
+    "titers": "TEST"
+  },
+  {
+    "antibiotics": "DRUG"
+  },
+  {
+    "Motrin": "DRUG"
+  },
+  {
+    "Darvocet": "DRUG"
+  }
+]

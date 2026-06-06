@@ -39,7 +39,10 @@
     "increased work of breathing": "PROBLEM"
   },
   {
-    "continuous nebulized albuterol": "DRUG"
+    "nebulized treatments": "TREATMENT"
+  },
+  {
+    "albuterol": "DRUG"
   },
   {
     "respiratory distress": "PROBLEM"
@@ -48,7 +51,7 @@
     "corticosteroids": "DRUG"
   },
   {
-    "An x-ray": "TEST"
+    "x-ray": "TEST"
   },
   {
     "infiltrate": "PROBLEM"
@@ -58,6 +61,9 @@
   },
   {
     "atelectasis": "PROBLEM"
+  },
+  {
+    "antibiotics": "DRUG"
   },
   {
     "fever": "PROBLEM"
@@ -81,7 +87,10 @@
     "Zithromax": "DRUG"
   },
   {
-    "bilateral wheezing": "PROBLEM"
+    "room air": "TREATMENT"
+  },
+  {
+    "wheezing": "PROBLEM"
   },
   {
     "tachypnea": "PROBLEM"
@@ -96,7 +105,7 @@
     "masses": "PROBLEM"
   },
   {
-    "Bilateral basilar wheezing": "PROBLEM"
+    "wheezing": "PROBLEM"
   },
   {
     "Bowel sounds": "TEST"
@@ -117,7 +126,7 @@
     "wheeze": "PROBLEM"
   },
   {
-    "QVAR 40": "DRUG"
+    "QVAR": "DRUG"
   },
   {
     "Amoxicillin": "DRUG"
@@ -129,7 +138,7 @@
     "pneumonia": "PROBLEM"
   },
   {
-    "onset of cough": "PROBLEM"
+    "cough": "PROBLEM"
   },
   {
     "reactive airways disease": "PROBLEM"

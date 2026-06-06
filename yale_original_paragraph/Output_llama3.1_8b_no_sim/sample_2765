@@ -3,6 +3,9 @@
     "Pyelonephritis": "PROBLEM"
   },
   {
+    "uterine cancer": "PROBLEM"
+  },
+  {
     "Hypertension": "PROBLEM"
   },
   {
@@ -10,9 +13,6 @@
   },
   {
     "Anemia": "PROBLEM"
-  },
-  {
-    "Pyelonephritis": "PROBLEM"
   },
   {
     "Klebsiella": "PROBLEM"
@@ -27,30 +27,15 @@
     "IV antibiotics": "DRUG"
   },
   {
-    "p.o. Bactrim": "DRUG"
+    "Foley": "TREATMENT"
   },
   {
-    "Foley in the ileal conduit": "TEST"
-  },
-  {
-    "Klebsiella in the urine": "TEST"
-  },
-  {
-    "Irrigation of the Foley in the ileal conduit": "TREATMENT"
-  },
-  {
-    "IV antibiotics": "TREATMENT"
-  },
-  {
-    "Ibuprofen": "TREATMENT"
-  },
-  {
-    "Irrigation of the Foley in the ileal conduit": "TREATMENT"
+    "Irrigation": "TREATMENT"
   },
   {
     "Surgery": "TREATMENT"
   },
   {
-    "Use of ibuprofen": "TREATMENT"
+    "Ileal conduit urinary diversion": "TREATMENT"
   }
 ]

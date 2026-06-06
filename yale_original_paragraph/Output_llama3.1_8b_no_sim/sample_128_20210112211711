@@ -1,0 +1,65 @@
+[
+  {
+    "Respiratory distress syndrome": "PROBLEM"
+  },
+  {
+    "intrauterine growth restriction": "PROBLEM"
+  },
+  {
+    "thrombocytopenia": "PROBLEM"
+  },
+  {
+    "hypoglycemia": "PROBLEM"
+  },
+  {
+    "retinal immaturity": "PROBLEM"
+  },
+  {
+    "D10": "DRUG"
+  },
+  {
+    "Diazoxide": "DRUG"
+  },
+  {
+    "Mylicon drops": "DRUG"
+  },
+  {
+    "glycerin suppositories": "DRUG"
+  },
+  {
+    "Reglan": "DRUG"
+  },
+  {
+    "NeoSure": "DRUG"
+  },
+  {
+    "TPN": "TREATMENT"
+  },
+  {
+    "p.o. feeds": "TREATMENT"
+  },
+  {
+    "IV D10 water": "TREATMENT"
+  },
+  {
+    "Abdominal ultrasound": "TEST"
+  },
+  {
+    "OG tube": "TEST"
+  },
+  {
+    "Cardiac echograms": "TEST"
+  },
+  {
+    "head ultrasound": "TEST"
+  },
+  {
+    "blood glucose level": "TEST"
+  },
+  {
+    "fingersticks": "TEST"
+  },
+  {
+    "Calcium challenge": "TEST"
+  }
+]

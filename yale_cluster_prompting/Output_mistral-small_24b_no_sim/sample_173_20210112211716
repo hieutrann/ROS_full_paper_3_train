@@ -1,6 +1,6 @@
 [
   {
-    "hypertension": "PROBLEM"
+    "Refractory hypertension": "PROBLEM"
   },
   {
     "cardiac arrhythmia": "PROBLEM"
@@ -18,7 +18,10 @@
     "depression": "PROBLEM"
   },
   {
-    "hypertension": "PROBLEM"
+    "PROBLEM LIST": "PROBLEM"
+  },
+  {
+    "Refractory hypertension": "PROBLEM"
   },
   {
     "cardiac arrhythmia": "PROBLEM"
@@ -34,12 +37,15 @@
   },
   {
     "depression": "PROBLEM"
+  },
+  {
+    "renal": "PROBLEM"
   },
   {
     "antihypertensive medications": "DRUG"
   },
   {
-    "blood pressure": "TEST"
+    "blood pressure": "PROBLEM"
   },
   {
     "weakness": "PROBLEM"
@@ -84,9 +90,6 @@
     "pain": "PROBLEM"
   },
   {
-    "spine": "PROBLEM"
-  },
-  {
     "extremity pain": "PROBLEM"
   },
   {
@@ -99,67 +102,43 @@
     "Atenolol": "DRUG"
   },
   {
-    "Atacand": "DRUG"
+    "Atacand 32 mg a day.": "DRUG"
   },
   {
     "Cardura": "DRUG"
   },
   {
-    "VITAL SIGNS": "TEST"
-  },
-  {
-    "Temperature": "TEST"
-  },
-  {
-    "pulse": "TEST"
-  },
-  {
-    "respirations": "TEST"
-  },
-  {
     "blood pressure": "TEST"
   },
   {
-    "THORAX": "TEST"
+    "lungs": "PROBLEM"
   },
   {
-    "CARDIOVASCULAR": "TEST"
-  },
-  {
-    "S1 and S2": "TEST"
+    "rate and rhythm": "TEST"
   },
   {
     "murmur": "PROBLEM"
   },
   {
-    "ABDOMEN": "PROBLEM"
+    "murmur": "PROBLEM"
   },
   {
     "edema": "PROBLEM"
   },
   {
-    "hypertension": "PROBLEM"
+    "refractory hypertension": "PROBLEM"
   },
   {
-    "blood pressure": "TEST"
+    "blood pressure": "PROBLEM"
+  },
+  {
+    "internist": "TREATMENT"
   },
   {
     "GFR": "TEST"
   },
   {
     "blood pressure": "PROBLEM"
-  },
-  {
-    "confusion": "PROBLEM"
-  },
-  {
-    "difficulty": "PROBLEM"
-  },
-  {
-    "followup": "TREATMENT"
-  },
-  {
-    "general medicine": "PROBLEM"
   },
   {
     "cardiac arrhythmia": "PROBLEM"
@@ -171,7 +150,7 @@
     "refractory hypertension": "PROBLEM"
   },
   {
-    "blood pressure": "TEST"
+    "blood pressure": "PROBLEM"
   },
   {
     "pacemaker": "TREATMENT"

@@ -6,9 +6,6 @@
     "multiple trauma": "PROBLEM"
   },
   {
-    "motor vehicle accident": "PROBLEM"
-  },
-  {
     "surgery": "TREATMENT"
   },
   {
@@ -33,7 +30,7 @@
     "traumatic fracture of the lower arm": "PROBLEM"
   },
   {
-    "Alcohol abuse, not otherwise specified": "PROBLEM"
+    "Alcohol abuse": "PROBLEM"
   },
   {
     "traumatic lower leg fracture": "PROBLEM"
@@ -144,10 +141,7 @@
     "agitation": "PROBLEM"
   },
   {
-    "chronic pain": "PROBLEM"
-  },
-  {
-    "pain medications": "DRUG"
+    "chronic pain medications": "DRUG"
   },
   {
     "acute alcohol rehab facility": "TREATMENT"
@@ -168,16 +162,10 @@
     "outpatient therapy": "TREATMENT"
   },
   {
-    "ambulatory status": "TEST"
-  },
-  {
     "wheeled walker": "TREATMENT"
   },
   {
     "pain level": "PROBLEM"
-  },
-  {
-    "moods": "PROBLEM"
   },
   {
     "agitation": "PROBLEM"
@@ -189,7 +177,10 @@
     "anemia": "PROBLEM"
   },
   {
-    "Calcium with vitamin D": "DRUG"
+    "Calcium": "DRUG"
+  },
+  {
+    "vitamin D": "DRUG"
   },
   {
     "Ferrous sulfate": "DRUG"

@@ -1,21 +1,12 @@
 [
   {
-    "Obstetrics": "TEST"
-  },
-  {
-    "Gynecology": "TEST"
-  },
-  {
-    "Physical Exam": "TEST"
-  },
-  {
     "Pap": "TEST"
   },
   {
     "breast exam": "TEST"
   },
   {
-    "physical": "TEST"
+    "complete physical": "TEST"
   },
   {
     "Pap": "TEST"
@@ -42,7 +33,7 @@
     "shortness of breath": "PROBLEM"
   },
   {
-    "EKG": "TEST"
+    "a normal EKG": "TEST"
   },
   {
     "foot surgery": "TREATMENT"
@@ -52,9 +43,6 @@
   },
   {
     "rheumatoid arthritis": "PROBLEM"
-  },
-  {
-    "surgery": "TREATMENT"
   },
   {
     "iron deficiency anemia": "PROBLEM"
@@ -69,7 +57,13 @@
     "Methotrexate": "DRUG"
   },
   {
+    "2.5 mg": "DRUG"
+  },
+  {
     "Fosamax": "DRUG"
+  },
+  {
+    "70 mg": "DRUG"
   },
   {
     "folic acid": "DRUG"
@@ -78,7 +72,13 @@
     "amitriptyline": "DRUG"
   },
   {
+    "15 mg": "DRUG"
+  },
+  {
     "Synthroid": "DRUG"
+  },
+  {
+    "0.088 mg": "DRUG"
   },
   {
     "calcium": "DRUG"
@@ -132,12 +132,6 @@
     "psychiatric": "TEST"
   },
   {
-    "HPI": "PROBLEM"
-  },
-  {
-    "Vital Signs": "TEST"
-  },
-  {
     "Blood pressure": "TEST"
   },
   {
@@ -150,31 +144,52 @@
     "Temperature": "TEST"
   },
   {
+    "well-developed": "PROBLEM"
+  },
+  {
+    "well-nourished": "PROBLEM"
+  },
+  {
+    "Grossly within normal limits": "PROBLEM"
+  },
+  {
+    "Neck": "PROBLEM"
+  },
+  {
     "lymphadenopathy": "PROBLEM"
   },
   {
     "thyromegaly": "PROBLEM"
   },
   {
-    "Chest": "TEST"
+    "Chest": "PROBLEM"
   },
   {
-    "Cardiovascular": "TEST"
+    "rate": "PROBLEM"
   },
   {
-    "bowel sounds": "TEST"
+    "rhythm": "PROBLEM"
+  },
+  {
+    "bowel sounds": "PROBLEM"
   },
   {
     "hepatosplenomegaly": "PROBLEM"
   },
   {
-    "Breasts": "TEST"
+    "nipple discharge": "PROBLEM"
+  },
+  {
+    "lumps": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
   },
   {
     "dimpling of the skin": "PROBLEM"
   },
   {
-    "axillary lymph nodes": "TEST"
+    "axillary lymph nodes": "PROBLEM"
   },
   {
     "Self-breast exam": "TEST"
@@ -193,6 +208,9 @@
   },
   {
     "adnexal tenderness": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
   },
   {
     "Rectal": "TEST"
@@ -216,10 +234,13 @@
     "rheumatoid arthritis": "PROBLEM"
   },
   {
+    "Grossly intact": "PROBLEM"
+  },
+  {
     "Chest pain": "PROBLEM"
   },
   {
-    "ECG": "TEST"
+    "normal ECG": "TEST"
   },
   {
     "cardiac workup": "TEST"
@@ -249,13 +270,16 @@
     "DEXA": "TEST"
   },
   {
+    "Health care maintenance": "TREATMENT"
+  },
+  {
     "Pap smear": "TEST"
   },
   {
     "mammogram": "TEST"
   },
   {
-    "obstetrics / gynecology": "TEST"
+    "obstetrics / gynecology": "PROBLEM"
   },
   {
     "complete physical": "TEST"

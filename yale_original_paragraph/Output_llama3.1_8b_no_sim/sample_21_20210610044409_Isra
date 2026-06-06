@@ -3,34 +3,43 @@
     "Nausea & Vomiting": "PROBLEM"
   },
   {
-    "hyperemesis gravidarum": "PROBLEM"
+    "blood-tinged vomit": "PROBLEM"
   },
   {
-    "elevated ALT": "PROBLEM"
+    "sodium": "TEST"
   },
   {
-    "slight low sodium": "PROBLEM"
+    "potassium": "TEST"
   },
   {
-    "potassium slightly elevated": "PROBLEM"
+    "ALT": "TEST"
   },
   {
-    "AST of 93": "TEST"
+    "AST": "TEST"
   },
   {
-    "total bilirubin is 1.2": "TEST"
+    "total bilirubin": "TEST"
   },
   {
-    "3+ ketones": "TEST"
+    "ketones": "TEST"
   },
   {
-    "2+ protein": "TEST"
+    "protein": "TEST"
   },
   {
-    "1+ esterase": "TEST"
+    "esterase": "TEST"
   },
   {
-    "rbc too numerous to count": "TEST"
+    "rbc": "TEST"
+  },
+  {
+    "bacteria": "TEST"
+  },
+  {
+    "H": "TEST"
+  },
+  {
+    "H": "TEST"
   },
   {
     "Phenergan": "DRUG"
@@ -48,6 +57,6 @@
     "IV hydration": "TREATMENT"
   },
   {
-    "incision": "TREATMENT"
+    "hyperemesis gravidarum": "PROBLEM"
   }
 ]

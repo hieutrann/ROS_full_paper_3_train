@@ -1,0 +1,293 @@
+[
+  {
+    "MS": "PROBLEM"
+  },
+  {
+    "cognition": "PROBLEM"
+  },
+  {
+    "ambulation": "PROBLEM"
+  },
+  {
+    "MRI": "TEST"
+  },
+  {
+    "CSF": "TEST"
+  },
+  {
+    "OCB": "TEST"
+  },
+  {
+    "interferon": "DRUG"
+  },
+  {
+    "symptoms": "PROBLEM"
+  },
+  {
+    "R leg drags": "PROBLEM"
+  },
+  {
+    "betaseron": "DRUG"
+  },
+  {
+    "thyroid replacement": "DRUG"
+  },
+  {
+    "urinary frequency/urgency": "PROBLEM"
+  },
+  {
+    "pads": "TREATMENT"
+  },
+  {
+    "oxybutynin": "DRUG"
+  },
+  {
+    "right leg weakness": "PROBLEM"
+  },
+  {
+    "numbness": "PROBLEM"
+  },
+  {
+    "MRI": "TEST"
+  },
+  {
+    "lesions typical for MS": "PROBLEM"
+  },
+  {
+    "blood studies": "TEST"
+  },
+  {
+    "Penicillins": "DRUG"
+  },
+  {
+    "Flovent HFA 44 MCG/ACT Inhalation Aerosol": "DRUG"
+  },
+  {
+    "Levoxyl 100 MCG Oral Tablet": "DRUG"
+  },
+  {
+    "ProAir HFA 108 (90 Base) MCG/ACT Inhalation Aerosol Solution": "DRUG"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "wheeze": "PROBLEM"
+  },
+  {
+    "Accu-Chek Softclix Lancets": "DRUG"
+  },
+  {
+    "Pantoprazole Sodium 40 MG Oral Tablet Delayed Release": "DRUG"
+  },
+  {
+    "Rebif 44 MCG/0.5ML Subcutaneous Solution": "DRUG"
+  },
+  {
+    "primary syphilis": "PROBLEM"
+  },
+  {
+    "Asthma": "PROBLEM"
+  },
+  {
+    "Hypertension": "PROBLEM"
+  },
+  {
+    "V17.49": "PROBLEM"
+  },
+  {
+    "Divorced": "PROBLEM"
+  },
+  {
+    "V61.0": "PROBLEM"
+  },
+  {
+    "Alcohol": "PROBLEM"
+  },
+  {
+    "Behavioral History": "PROBLEM"
+  },
+  {
+    "Drug Use": "PROBLEM"
+  },
+  {
+    "Tobacco Use": "PROBLEM"
+  },
+  {
+    "Neuro": "PROBLEM"
+  },
+  {
+    "Vitals": "TEST"
+  },
+  {
+    "Adult Vital Signs": "TEST"
+  },
+  {
+    "BMI Calculated": "TEST"
+  },
+  {
+    "BSA Calculated": "TEST"
+  },
+  {
+    "Height": "TEST"
+  },
+  {
+    "Weight": "TEST"
+  },
+  {
+    "Systolic": "TEST"
+  },
+  {
+    "Diastolic": "TEST"
+  },
+  {
+    "Heart Rate": "TEST"
+  },
+  {
+    "Physical Exam": "TEST"
+  },
+  {
+    "Constitutional": "TEST"
+  },
+  {
+    "General Appearance": "TEST"
+  },
+  {
+    "obese": "PROBLEM"
+  },
+  {
+    "Neck": "PROBLEM"
+  },
+  {
+    "Oropharynx": "TEST"
+  },
+  {
+    "Auscultation of lungs": "TEST"
+  },
+  {
+    "Auscultation of heart": "TEST"
+  },
+  {
+    "Mental Status": "TEST"
+  },
+  {
+    "dysphasia/aphasia": "PROBLEM"
+  },
+  {
+    "visual acuity": "TEST"
+  },
+  {
+    "visual fields": "TEST"
+  },
+  {
+    "Cranial nerves III, IV, and VI": "TEST"
+  },
+  {
+    "Cranial nerves V": "TEST"
+  },
+  {
+    "Cranial nerves VII": "TEST"
+  },
+  {
+    "hearing": "TEST"
+  },
+  {
+    "Cranial nerves IX and X": "TEST"
+  },
+  {
+    "shoulder shrug": "TEST"
+  },
+  {
+    "tongue deviation": "PROBLEM"
+  },
+  {
+    "Motor Strength": "TEST"
+  },
+  {
+    "hypertonic": "PROBLEM"
+  },
+  {
+    "R worse": "PROBLEM"
+  },
+  {
+    "deep tendon reflexes": "TEST"
+  },
+  {
+    "Biceps": "TEST"
+  },
+  {
+    "Triceps": "TEST"
+  },
+  {
+    "Brachioradialis": "TEST"
+  },
+  {
+    "Patella": "PROBLEM"
+  },
+  {
+    "Ankle Jerk": "TEST"
+  },
+  {
+    "Babinski reflex": "TEST"
+  },
+  {
+    "Ankle Clonus": "TEST"
+  },
+  {
+    "spastic": "PROBLEM"
+  },
+  {
+    "Decreased response to touch stimulation": "PROBLEM"
+  },
+  {
+    "Decreased response to stimulation by vibration": "PROBLEM"
+  },
+  {
+    "pain": "PROBLEM"
+  },
+  {
+    "temperature": "TEST"
+  },
+  {
+    "CBC": "TEST"
+  },
+  {
+    "LFT": "TEST"
+  },
+  {
+    "Fe": "TEST"
+  },
+  {
+    "TIBC": "TEST"
+  },
+  {
+    "Multiple Sclerosis": "PROBLEM"
+  },
+  {
+    "Dyspepsia": "PROBLEM"
+  },
+  {
+    "Pantoprazole Sodium 40 MG Oral Tablet Delayed Release": "DRUG"
+  },
+  {
+    "relapsing-remitting MS": "PROBLEM"
+  },
+  {
+    "rebif": "DRUG"
+  },
+  {
+    "rebif": "DRUG"
+  },
+  {
+    "CBC": "TEST"
+  },
+  {
+    "LFT": "TEST"
+  },
+  {
+    "short term disability": "PROBLEM"
+  },
+  {
+    "physical therapy": "TREATMENT"
+  }
+]

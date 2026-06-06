@@ -36,40 +36,7 @@
     "epigastric pain": "PROBLEM"
   },
   {
-    "Sepsis": "PROBLEM"
-  },
-  {
-    "SBP": "PROBLEM"
-  },
-  {
-    "diabetes": "PROBLEM"
-  },
-  {
-    "morbid obesity": "PROBLEM"
-  },
-  {
-    "hepatitis C": "PROBLEM"
-  },
-  {
-    "cirrhosis": "PROBLEM"
-  },
-  {
-    "alcohol": "PROBLEM"
-  },
-  {
-    "cocaine": "PROBLEM"
-  },
-  {
-    "weak knees": "PROBLEM"
-  },
-  {
-    "bilateral knee pain": "PROBLEM"
-  },
-  {
-    "hematuria": "PROBLEM"
-  },
-  {
-    "epigastric pain": "PROBLEM"
+    "prescription medications": "DRUG"
   },
   {
     "Zosyn": "DRUG"
@@ -85,12 +52,6 @@
   },
   {
     "doripenem": "DRUG"
-  },
-  {
-    "hepatitis C": "PROBLEM"
-  },
-  {
-    "cirrhosis": "PROBLEM"
   },
   {
     "coronary artery disease": "PROBLEM"
@@ -114,22 +75,10 @@
     "hepatic encephalopathy": "PROBLEM"
   },
   {
-    "smoker": "PROBLEM"
-  },
-  {
     "cocaine": "PROBLEM"
   },
   {
     "alcohol": "PROBLEM"
-  },
-  {
-    "vancomycin": "DRUG"
-  },
-  {
-    "doripenem": "DRUG"
-  },
-  {
-    "thiamine": "DRUG"
   },
   {
     "Protonix": "DRUG"
@@ -144,7 +93,7 @@
     "Zofran": "DRUG"
   },
   {
-    "norepinephrine": "DRUG"
+    "norepinephrine drip": "DRUG"
   },
   {
     "vitamin K": "DRUG"
@@ -166,6 +115,36 @@
   },
   {
     "White blood cell count": "TEST"
+  },
+  {
+    "platelet count": "TEST"
+  },
+  {
+    "Abdominal ultrasound": "TEST"
+  },
+  {
+    "ascites": "PROBLEM"
+  },
+  {
+    "Zosyn": "DRUG"
+  },
+  {
+    "levofloxacin": "DRUG"
+  },
+  {
+    "Flagyl": "DRUG"
+  },
+  {
+    "vancomycin": "DRUG"
+  },
+  {
+    "doripenem": "DRUG"
+  },
+  {
+    "White blood cell count": "TEST"
+  },
+  {
+    "H&H": "TEST"
   },
   {
     "platelet count": "TEST"
@@ -207,7 +186,22 @@
     "myoglobin": "TEST"
   },
   {
-    "urinalysis": "TEST"
+    "Urinalysis": "TEST"
+  },
+  {
+    "leucocyte esterase": "TEST"
+  },
+  {
+    "nitrites": "TEST"
+  },
+  {
+    "wbc's": "TEST"
+  },
+  {
+    "rbc's": "TEST"
+  },
+  {
+    "bacteria": "TEST"
   },
   {
     "blood cultures": "TEST"
@@ -216,7 +210,7 @@
     "Chest x-ray": "TEST"
   },
   {
-    "Left knee x-rays": "TEST"
+    "knee x-rays": "TEST"
   },
   {
     "Abdominal ultrasound": "TEST"
@@ -231,7 +225,7 @@
     "urinary tract infection": "PROBLEM"
   },
   {
-    "Ascites": "PROBLEM"
+    "ascites": "PROBLEM"
   },
   {
     "spontaneous bacterial peritenonitis": "PROBLEM"
@@ -243,7 +237,7 @@
     "cholangitis": "PROBLEM"
   },
   {
-    "Alcoholic liver disease": "PROBLEM"
+    "alcoholic liver disease": "PROBLEM"
   },
   {
     "Thrombocytopenia": "PROBLEM"
@@ -267,6 +261,15 @@
     "ascitic fluid": "TEST"
   },
   {
+    "cell count": "TEST"
+  },
+  {
+    "differential": "TEST"
+  },
+  {
+    "cultures": "TEST"
+  },
+  {
     "blood cultures": "TEST"
   },
   {
@@ -274,59 +277,5 @@
   },
   {
     "hepatitis A vaccination": "DRUG"
-  },
-  {
-    "general medicine": "PROBLEM"
-  },
-  {
-    "SBP": "PROBLEM"
-  },
-  {
-    "diabetes": "PROBLEM"
-  },
-  {
-    "morbid obesity": "PROBLEM"
-  },
-  {
-    "hepatitis c": "PROBLEM"
-  },
-  {
-    "cirrhosis": "PROBLEM"
-  },
-  {
-    "coronary artery disease": "PROBLEM"
-  },
-  {
-    "hyperlipidemia": "PROBLEM"
-  },
-  {
-    "chronic venous stasis": "PROBLEM"
-  },
-  {
-    "gastroesophageal reflux disease": "PROBLEM"
-  },
-  {
-    "exploratory laparotomy": "TREATMENT"
-  },
-  {
-    "hepatic encephalopathy": "PROBLEM"
-  },
-  {
-    "septic shock": "PROBLEM"
-  },
-  {
-    "cell count": "TEST"
-  },
-  {
-    "hepatitis": "PROBLEM"
-  },
-  {
-    "sepsis": "PROBLEM"
-  },
-  {
-    "cultures": "TEST"
-  },
-  {
-    "ascites": "PROBLEM"
   }
 ]

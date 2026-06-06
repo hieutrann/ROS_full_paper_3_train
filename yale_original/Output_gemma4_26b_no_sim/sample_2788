@@ -3,6 +3,9 @@
     "Decreased ability to perform daily living activities": "PROBLEM"
   },
   {
+    "right knee surgery": "TREATMENT"
+  },
+  {
     "Decreased ability to perform daily living activities": "PROBLEM"
   },
   {
@@ -16,6 +19,9 @@
   },
   {
     "autologous blood": "TREATMENT"
+  },
+  {
+    "DVT": "PROBLEM"
   },
   {
     "Coumadin": "DRUG"
@@ -57,7 +63,7 @@
     "anxiety disorder": "PROBLEM"
   },
   {
-    "Morton neuroma of her feet bilaterally": "PROBLEM"
+    "Morton neuroma": "PROBLEM"
   },
   {
     "migraine headaches": "PROBLEM"
@@ -117,22 +123,19 @@
     "thyroid enlargement": "PROBLEM"
   },
   {
-    "HEART": "TEST"
-  },
-  {
-    "S1 and S2": "TEST"
-  },
-  {
     "organomegaly": "PROBLEM"
+  },
+  {
+    "right knee incision": "PROBLEM"
   },
   {
     "Steri-Strips": "TREATMENT"
   },
   {
-    "diffuse right knee edema": "PROBLEM"
+    "right knee edema": "PROBLEM"
   },
   {
-    "limited ecchymosis": "PROBLEM"
+    "ecchymosis": "PROBLEM"
   },
   {
     "calf tenderness": "PROBLEM"
@@ -157,6 +160,9 @@
   },
   {
     "right knee pain": "PROBLEM"
+  },
+  {
+    "pain management": "TREATMENT"
   },
   {
     "Ativan": "DRUG"
@@ -195,7 +201,7 @@
     "Percocet": "DRUG"
   },
   {
-    "oxycodone SR 20 mg b.i.d.": "DRUG"
+    "oxycodone SR": "DRUG"
   },
   {
     "Percocet": "DRUG"
@@ -282,7 +288,7 @@
     "anxiety": "PROBLEM"
   },
   {
-    "Postoperative constipation": "PROBLEM"
+    "constipation": "PROBLEM"
   },
   {
     "Contact dermatitis": "PROBLEM"
@@ -297,7 +303,7 @@
     "Gastroesophageal reflux disease": "PROBLEM"
   },
   {
-    "Morton neuroma of the feet bilaterally": "PROBLEM"
+    "Morton neuroma": "PROBLEM"
   },
   {
     "migraine headaches": "PROBLEM"
@@ -324,7 +330,7 @@
     "oxycodone SR": "DRUG"
   },
   {
-    "Percocet 5/325 mg": "DRUG"
+    "Percocet": "DRUG"
   },
   {
     "breakthrough pain": "PROBLEM"
@@ -351,13 +357,19 @@
     "Coumadin": "DRUG"
   },
   {
-    "An INR": "TEST"
+    "INR": "TEST"
   },
   {
     "Coumadin": "DRUG"
   },
   {
     "right total knee replacement": "TREATMENT"
+  },
+  {
+    "therapies": "TREATMENT"
+  },
+  {
+    "rehabilitation": "TREATMENT"
   },
   {
     "decreased ability, daily living activities": "PROBLEM"

@@ -9,12 +9,6 @@
     "pain": "PROBLEM"
   },
   {
-    "toes": "PROBLEM"
-  },
-  {
-    "foot": "PROBLEM"
-  },
-  {
     "paraesthesias": "PROBLEM"
   },
   {
@@ -60,7 +54,10 @@
     "hysterectomy": "TREATMENT"
   },
   {
-    "shoulder surgery": "TREATMENT"
+    "right shoulder surgery": "TREATMENT"
+  },
+  {
+    "left shoulder surgery": "TREATMENT"
   },
   {
     "laparoscopic bowel adhesion removal": "TREATMENT"
@@ -69,13 +66,16 @@
     "Port-A-Cath": "TREATMENT"
   },
   {
-    "total knee arthroplasty": "TREATMENT"
+    "left total knee arthroplasty": "TREATMENT"
   },
   {
-    "hip pinning": "TREATMENT"
+    "left hip pinning": "TREATMENT"
   },
   {
     "colonoscopies": "TEST"
+  },
+  {
+    "right total knee arthroplasty": "TREATMENT"
   },
   {
     "synovitis": "PROBLEM"
@@ -132,25 +132,7 @@
     "Lortab": "DRUG"
   },
   {
-    "stroke": "PROBLEM"
-  },
-  {
-    "prostate cancer": "PROBLEM"
-  },
-  {
-    "heart disease": "PROBLEM"
-  },
-  {
-    "diabetes": "PROBLEM"
-  },
-  {
-    "allergies": "PROBLEM"
-  },
-  {
-    "sneezing": "PROBLEM"
-  },
-  {
-    "sore throat": "PROBLEM"
+    "glasses": "TREATMENT"
   },
   {
     "cough": "PROBLEM"
@@ -160,6 +142,9 @@
   },
   {
     "palpitations": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
   },
   {
     "abdominal pain": "PROBLEM"
@@ -186,9 +171,6 @@
     "spot": "PROBLEM"
   },
   {
-    "precancerous condition": "PROBLEM"
-  },
-  {
     "hypothyroidism": "PROBLEM"
   },
   {
@@ -198,52 +180,46 @@
     "anemia": "PROBLEM"
   },
   {
-    "Pulse": "TEST"
+    "Temperature": "TEST"
   },
   {
     "Blood pressure": "TEST"
   },
   {
-    "Temperature": "TEST"
+    "Pulse": "TEST"
   },
   {
     "Weight": "TEST"
   },
   {
-    "Port-A-Cath": "TREATMENT"
+    "cranial nerves": "TEST"
   },
   {
-    "axillary adenopathy": "PROBLEM"
-  },
-  {
-    "ankle edema": "PROBLEM"
-  },
-  {
-    "calf tenderness": "PROBLEM"
-  },
-  {
-    "cyst": "PROBLEM"
-  },
-  {
-    "pedal pulses": "TEST"
-  },
-  {
-    "Cranial nerves": "TEST"
-  },
-  {
-    "deep tendon reflexes": "TEST"
+    "Deep tendon reflexes": "TEST"
   },
   {
     "focal neurologic deficits": "TEST"
   },
   {
-    "bimanual exam": "TEST"
+    "BUS": "TEST"
   },
   {
-    "ovaries": "PROBLEM"
+    "external genitalia": "TEST"
   },
   {
-    "brown stool": "PROBLEM"
+    "vaginal rugae": "TEST"
+  },
+  {
+    "cervix": "TEST"
+  },
+  {
+    "uterus": "TEST"
+  },
+  {
+    "ovaries": "TEST"
+  },
+  {
+    "brown stool": "TEST"
   },
   {
     "actinic keratosis": "PROBLEM"
@@ -252,10 +228,31 @@
     "affect": "TEST"
   },
   {
-    "peripheral neuropathy": "PROBLEM"
+    "Peripheral neuropathy": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "hypothyroidism": "PROBLEM"
+  },
+  {
+    "essential thrombocythemia": "PROBLEM"
   },
   {
     "allergic rhinitis": "PROBLEM"
+  },
+  {
+    "insomnia": "PROBLEM"
+  },
+  {
+    "Neurontin": "DRUG"
+  },
+  {
+    "Anodyne physical therapy": "TREATMENT"
+  },
+  {
+    "peripheral neuropathy": "PROBLEM"
   },
   {
     "CBC": "TEST"
@@ -273,12 +270,9 @@
     "DT immunization": "TREATMENT"
   },
   {
+    "Ambien": "DRUG"
+  },
+  {
     "flu shot": "TREATMENT"
-  },
-  {
-    "Neurontin": "DRUG"
-  },
-  {
-    "Anodyne physical therapy": "TREATMENT"
   }
 ]

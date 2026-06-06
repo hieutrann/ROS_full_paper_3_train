@@ -12,19 +12,13 @@
     "right shoulder": "PROBLEM"
   },
   {
-    "fell": "PROBLEM"
+    "shoulder": "PROBLEM"
   },
   {
-    "arm": "PROBLEM"
+    "raising his arm over his head": "PROBLEM"
   },
   {
     "numbness": "PROBLEM"
-  },
-  {
-    "anti - inflammatories": "DRUG"
-  },
-  {
-    "pain relievers": "DRUG"
   },
   {
     "sore throat": "PROBLEM"
@@ -75,6 +69,9 @@
     "counseling": "TREATMENT"
   },
   {
+    "A & Ox3": "PROBLEM"
+  },
+  {
     "RRR": "TEST"
   },
   {
@@ -93,16 +90,16 @@
     "postnasal drip": "PROBLEM"
   },
   {
-    "Limited in range of motion": "PROBLEM"
+    "range of motion": "PROBLEM"
   },
   {
     "biceps tenderness": "PROBLEM"
   },
   {
-    "suicidal": "PROBLEM"
+    "suicidal ideations": "PROBLEM"
   },
   {
-    "homicidal": "PROBLEM"
+    "homicidal ideations": "PROBLEM"
   },
   {
     "Right shoulder bursitis": "PROBLEM"
@@ -126,9 +123,6 @@
     "Pharyngitis": "PROBLEM"
   },
   {
-    "ENT": "TREATMENT"
-  },
-  {
     "tonsillectomy": "TREATMENT"
   },
   {
@@ -141,7 +135,7 @@
     "Prescriptions": "DRUG"
   },
   {
-    "general medicine": "PROBLEM"
+    "anger issues": "PROBLEM"
   },
   {
     "adhd": "PROBLEM"
@@ -154,9 +148,6 @@
   },
   {
     "anger control": "PROBLEM"
-  },
-  {
-    "anti-inflammatories": "DRUG"
   },
   {
     "bursitis": "PROBLEM"
@@ -177,9 +168,6 @@
     "rashes": "PROBLEM"
   },
   {
-    "shoulder": "PROBLEM"
-  },
-  {
     "strep throat": "PROBLEM"
   },
   {
@@ -192,15 +180,12 @@
     "deficit disorder": "PROBLEM"
   },
   {
+    "anti-inflammatories": "DRUG"
+  },
+  {
     "anti inflammatories": "DRUG"
   },
   {
-    "soap": "DRUG"
-  },
-  {
     "anger": "PROBLEM"
-  },
-  {
-    "intermittent": "PROBLEM"
   }
 ]

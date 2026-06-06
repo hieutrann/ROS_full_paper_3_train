@@ -3,9 +3,6 @@
     "scalp skin biopsy": "TREATMENT"
   },
   {
-    "pathology specimen": "TEST"
-  },
-  {
     "Acute right lobar pneumonia": "PROBLEM"
   },
   {
@@ -27,13 +24,10 @@
     "hypokalemia": "PROBLEM"
   },
   {
-    "Elevated liver function tests": "TEST"
+    "Elevated liver function tests": "PROBLEM"
   },
   {
-    "moderate-to-severe dementia": "PROBLEM"
-  },
-  {
-    "Alzheimer's type": "PROBLEM"
+    "moderate-to-severe dementia, Alzheimer's type": "PROBLEM"
   },
   {
     "Anemia": "PROBLEM"
@@ -52,9 +46,6 @@
   },
   {
     "scalp skin biopsy": "TREATMENT"
-  },
-  {
-    "pathology specimen": "TEST"
   },
   {
     "thoracentesis": "TREATMENT"
@@ -123,13 +114,16 @@
     "IV fluid management": "TREATMENT"
   },
   {
-    "elevated liver function tests": "TEST"
+    "elevated liver function tests": "PROBLEM"
   },
   {
     "ultrasound": "TEST"
   },
   {
     "CT scan of the chest and abdomen": "TEST"
+  },
+  {
+    "fluid circling the gallbladder": "PROBLEM"
   },
   {
     "HIDA scan": "TEST"
@@ -175,9 +169,6 @@
   },
   {
     "GI bleeding": "PROBLEM"
-  },
-  {
-    "blood work": "TEST"
   },
   {
     "white count": "TEST"
@@ -249,42 +240,9 @@
     "lumbosacral back x-ray": "TEST"
   },
   {
-    "mild degenerative disk disease": "PROBLEM"
+    "degenerative disk disease": "PROBLEM"
   },
   {
     "compression fracture": "PROBLEM"
-  },
-  {
-    "pneumonia": "PROBLEM"
-  },
-  {
-    "hypoxemia": "PROBLEM"
-  },
-  {
-    "hypotension": "PROBLEM"
-  },
-  {
-    "electrolyte abnormality": "PROBLEM"
-  },
-  {
-    "anemia": "PROBLEM"
-  },
-  {
-    "scalp skin biopsy": "TREATMENT"
-  },
-  {
-    "liver function tests": "TEST"
-  },
-  {
-    "lobar pneumonia": "PROBLEM"
-  },
-  {
-    "skin biopsy": "TREATMENT"
-  },
-  {
-    "white count": "TEST"
-  },
-  {
-    "cultures": "TEST"
   }
 ]

@@ -60,7 +60,7 @@
     "nonproductive cough": "PROBLEM"
   },
   {
-    "right-sided chest pain": "PROBLEM"
+    "chest pain": "PROBLEM"
   },
   {
     "fever": "PROBLEM"
@@ -75,13 +75,13 @@
     "cough": "PROBLEM"
   },
   {
-    "right-sided chest pain": "PROBLEM"
+    "chest pain": "PROBLEM"
   },
   {
     "Chest x-ray": "TEST"
   },
   {
-    "right-sided pleural effusion": "PROBLEM"
+    "pleural effusion": "PROBLEM"
   },
   {
     "Pericardectomy": "TREATMENT"
@@ -141,10 +141,10 @@
     "Amiodarone": "DRUG"
   },
   {
-    "numbness and tingling of her left arm": "PROBLEM"
+    "numbness": "PROBLEM"
   },
   {
-    "VITAL SIGNS": "TEST"
+    "tingling": "PROBLEM"
   },
   {
     "nonproductive cough": "PROBLEM"
@@ -174,7 +174,7 @@
     "ulcers": "PROBLEM"
   },
   {
-    "right-sided pleural effusion": "PROBLEM"
+    "pleural effusion": "PROBLEM"
   },
   {
     "thoracentesis": "TREATMENT"
@@ -204,16 +204,13 @@
     "thrombosis": "PROBLEM"
   },
   {
-    "pericardial fluid": "PROBLEM"
-  },
-  {
     "pericardectomy": "TREATMENT"
   },
   {
     "CT scan": "TEST"
   },
   {
-    "bilateral plural effusions": "PROBLEM"
+    "plural effusions": "PROBLEM"
   },
   {
     "pericardectomy": "TREATMENT"
@@ -222,13 +219,13 @@
     "chest pain": "PROBLEM"
   },
   {
-    "bilateral pleural effusion": "PROBLEM"
+    "pleural effusion": "PROBLEM"
   },
   {
     "CT of the chest": "TEST"
   },
   {
-    "large mediastinal lymph node": "PROBLEM"
+    "mediastinal lymph node": "PROBLEM"
   },
   {
     "pericardectomy": "TREATMENT"
@@ -252,7 +249,7 @@
     "PET CT": "TEST"
   },
   {
-    "bilateral pleural pericardial effusions": "PROBLEM"
+    "pleural pericardial effusions": "PROBLEM"
   },
   {
     "lymphadenopathy": "PROBLEM"
@@ -262,9 +259,6 @@
   },
   {
     "pectoral and intramammary lymph nodes": "PROBLEM"
-  },
-  {
-    "stage III disease": "PROBLEM"
   },
   {
     "echocardiogram": "TEST"
@@ -277,6 +271,12 @@
   },
   {
     "Alimta": "DRUG"
+  },
+  {
+    "Port-A-Cath": "TREATMENT"
+  },
+  {
+    "chemotherapy": "TREATMENT"
   },
   {
     "Port-A-Cath": "TREATMENT"
@@ -301,44 +301,5 @@
   },
   {
     "INR": "TEST"
-  },
-  {
-    "mesothelioma": "PROBLEM"
-  },
-  {
-    "pleural effusion": "PROBLEM"
-  },
-  {
-    "atrial fibrillation": "PROBLEM"
-  },
-  {
-    "anemia": "PROBLEM"
-  },
-  {
-    "ascites": "PROBLEM"
-  },
-  {
-    "esophageal reflux": "PROBLEM"
-  },
-  {
-    "deep venous thrombosis": "PROBLEM"
-  },
-  {
-    "port-a-cath placement": "TREATMENT"
-  },
-  {
-    "port a cath": "TREATMENT"
-  },
-  {
-    "venous thrombosis": "PROBLEM"
-  },
-  {
-    "thrombosis": "PROBLEM"
-  },
-  {
-    "lymphadenopathy": "PROBLEM"
-  },
-  {
-    "pericardectomy": "TREATMENT"
   }
 ]

@@ -1,8 +1,5 @@
 [
   {
-    "Normal ENT Exam": "TEST"
-  },
-  {
     "lymphadenitis": "PROBLEM"
   },
   {
@@ -76,20 +73,5 @@
   },
   {
     "mass lesion": "PROBLEM"
-  },
-  {
-    "traumatic lesions": "PROBLEM"
-  },
-  {
-    "trauma": "PROBLEM"
-  },
-  {
-    "inflammation": "PROBLEM"
-  },
-  {
-    "infection": "PROBLEM"
-  },
-  {
-    "swelling": "PROBLEM"
   }
 ]

@@ -15,7 +15,7 @@
     "blood pressure": "PROBLEM"
   },
   {
-    "uncontrolled blood pressure": "PROBLEM"
+    "blood pressure": "PROBLEM"
   },
   {
     "blood pressure": "PROBLEM"
@@ -27,7 +27,7 @@
     "blood pressure": "PROBLEM"
   },
   {
-    "uncontrolled blood pressure": "PROBLEM"
+    "blood pressure": "PROBLEM"
   },
   {
     "blood pressure": "PROBLEM"
@@ -150,9 +150,6 @@
     "TIA": "PROBLEM"
   },
   {
-    "CVA": "PROBLEM"
-  },
-  {
     "seizure disorder": "PROBLEM"
   },
   {
@@ -165,10 +162,7 @@
     "respiratory rate": "TEST"
   },
   {
-    "Neck veins": "TEST"
-  },
-  {
-    "S1 and S2": "TEST"
+    "Neck veins": "PROBLEM"
   },
   {
     "edema": "PROBLEM"
@@ -184,6 +178,9 @@
   },
   {
     "nonspecific ST-T changes": "PROBLEM"
+  },
+  {
+    "Labs": "TEST"
   },
   {
     "BUN": "TEST"
@@ -247,5 +244,11 @@
   },
   {
     "preeclampsia": "PROBLEM"
+  },
+  {
+    "cesarean": "TREATMENT"
+  },
+  {
+    "delivery": "TREATMENT"
   }
 ]

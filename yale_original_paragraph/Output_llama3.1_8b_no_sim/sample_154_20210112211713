@@ -3,7 +3,7 @@
     "Coronary artery disease": "PROBLEM"
   },
   {
-    "chest pain": "PROBLEM"
+    "Chest pain": "PROBLEM"
   },
   {
     "diabetes": "PROBLEM"
@@ -18,7 +18,7 @@
     "lesion in the medial aspect of the right parietal lobe": "PROBLEM"
   },
   {
-    "deconditioning": "PROBLEM"
+    "Deconditioning": "PROBLEM"
   },
   {
     "Echocardiogram": "TEST"
@@ -51,9 +51,6 @@
     "cardiac catheterization": "TREATMENT"
   },
   {
-    "incision": "TREATMENT"
-  },
-  {
-    "drainage": "TREATMENT"
+    "cardiac cath": "TREATMENT"
   }
 ]

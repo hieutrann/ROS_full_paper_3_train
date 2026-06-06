@@ -1,8 +1,5 @@
 [
   {
-    "Diabetes Mellitus": "PROBLEM"
-  },
-  {
     "diabetes mellitus": "PROBLEM"
   },
   {
@@ -12,10 +9,13 @@
     "diabetic neuropathy": "PROBLEM"
   },
   {
-    "blood sugars": "TEST"
+    "NPH": "DRUG"
   },
   {
-    "blood sugar": "TEST"
+    "Regular insulin": "DRUG"
+  },
+  {
+    "blood sugars": "TEST"
   },
   {
     "glucometer": "TEST"
@@ -34,9 +34,6 @@
   },
   {
     "Lantus": "DRUG"
-  },
-  {
-    "blood sugars": "TEST"
   },
   {
     "CMP": "TEST"
@@ -61,6 +58,9 @@
   },
   {
     "Viagra": "DRUG"
+  },
+  {
+    "Health Plan": "TREATMENT"
   },
   {
     "scooter accident": "PROBLEM"
@@ -105,91 +105,28 @@
     "granulation tissue": "PROBLEM"
   },
   {
-    "HEENT": "TEST"
+    "headache": "PROBLEM"
   },
   {
-    "PERRLA": "TEST"
+    "dizziness": "PROBLEM"
   },
   {
-    "EOMI": "TEST"
+    "nausea": "PROBLEM"
   },
   {
-    "TMs": "TEST"
+    "vomiting": "PROBLEM"
   },
   {
-    "Nares": "TEST"
+    "neurological abnormalities": "PROBLEM"
   },
   {
-    "Throat": "TEST"
+    "scalp laceration": "PROBLEM"
   },
   {
-    "NECK": "TEST"
-  },
-  {
-    "CARDIAC": "TEST"
-  },
-  {
-    "RRR": "TEST"
-  },
-  {
-    "murmurs": "TEST"
-  },
-  {
-    "rubs": "TEST"
-  },
-  {
-    "gallops": "TEST"
-  },
-  {
-    "RESPIRATORY": "TEST"
-  },
-  {
-    "CTA": "TEST"
-  },
-  {
-    "ABDOMEN": "TEST"
-  },
-  {
-    "HSM": "TEST"
-  },
-  {
-    "NEURO": "TEST"
-  },
-  {
-    "lower extremity numbness": "PROBLEM"
-  },
-  {
-    "Microfilament test": "TEST"
-  },
-  {
-    "cranial nerves": "TEST"
-  },
-  {
-    "RAM": "TEST"
-  },
-  {
-    "Diabetes mellitus": "PROBLEM"
-  },
-  {
-    "type 1": "PROBLEM"
-  },
-  {
-    "diabetic neuropathy": "PROBLEM"
-  },
-  {
-    "microalbuminuria": "PROBLEM"
-  },
-  {
-    "Scalp laceration": "PROBLEM"
+    "motor vehicle accident": "PROBLEM"
   },
   {
     "Alk Phos": "TEST"
-  },
-  {
-    "SGGT": "TEST"
-  },
-  {
-    "hepatic function panel": "TEST"
   },
   {
     "Ace Inhibitor": "DRUG"
@@ -216,7 +153,7 @@
     "lacerations": "PROBLEM"
   },
   {
-    "shin": "PROBLEM"
+    "infection": "PROBLEM"
   },
   {
     "heat": "PROBLEM"
@@ -226,8 +163,5 @@
   },
   {
     "infection": "PROBLEM"
-  },
-  {
-    "lower body": "PROBLEM"
   }
 ]

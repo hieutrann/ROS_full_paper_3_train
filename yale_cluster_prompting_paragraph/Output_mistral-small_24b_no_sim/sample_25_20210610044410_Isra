@@ -1,33 +1,12 @@
 [
   {
-    "VITAL SIGNS": "TEST"
-  },
-  {
-    "HEENT": "TEST"
-  },
-  {
-    "EOMI": "TEST"
-  },
-  {
-    "PERRLA": "TEST"
-  },
-  {
-    "Funduscopic examination": "TEST"
-  },
-  {
-    "papilledema": "PROBLEM"
+    "apparent distress": "PROBLEM"
   },
   {
     "glaucoma": "PROBLEM"
   },
   {
     "cataracts": "PROBLEM"
-  },
-  {
-    "TMs": "TEST"
-  },
-  {
-    "NECK": "TEST"
   },
   {
     "carotid bruit": "PROBLEM"
@@ -45,49 +24,7 @@
     "subcutaneous emphysema": "PROBLEM"
   },
   {
-    "Thyroid": "PROBLEM"
-  },
-  {
-    "CHEST": "TEST"
-  },
-  {
-    "HEART": "TEST"
-  },
-  {
-    "S1": "TEST"
-  },
-  {
-    "S2": "TEST"
-  },
-  {
-    "murmur": "PROBLEM"
-  },
-  {
-    "heave": "PROBLEM"
-  },
-  {
-    "click": "PROBLEM"
-  },
-  {
-    "lift": "PROBLEM"
-  },
-  {
-    "thrill": "PROBLEM"
-  },
-  {
-    "rub": "PROBLEM"
-  },
-  {
-    "gallop": "PROBLEM"
-  },
-  {
-    "PMI": "TEST"
-  },
-  {
-    "BREASTS": "TEST"
-  },
-  {
-    "ABDOMEN": "TEST"
+    "nodularity": "PROBLEM"
   },
   {
     "hepatosplenomegaly": "PROBLEM"
@@ -114,31 +51,10 @@
     "intraabdominal bruit": "PROBLEM"
   },
   {
-    "EXTERNAL GENITALIA": "TEST"
-  },
-  {
     "hernia": "PROBLEM"
   },
   {
     "hydrocele": "PROBLEM"
-  },
-  {
-    "RECTAL": "TEST"
-  },
-  {
-    "Hemoccult-negative": "TEST"
-  },
-  {
-    "prostate": "PROBLEM"
-  },
-  {
-    "nodularity": "PROBLEM"
-  },
-  {
-    "rectal masses": "PROBLEM"
-  },
-  {
-    "EXTREMITIES": "TEST"
   },
   {
     "edema": "PROBLEM"
@@ -153,13 +69,118 @@
     "deep venous thrombosis": "PROBLEM"
   },
   {
-    "BACK": "TEST"
-  },
-  {
     "spinous process tenderness": "PROBLEM"
   },
   {
     "CVA tenderness": "PROBLEM"
+  },
+  {
+    "Kernig": "TEST"
+  },
+  {
+    "Brudzinski": "TEST"
+  },
+  {
+    "Hemoccult": "TEST"
+  },
+  {
+    "digital palpation": "TEST"
+  },
+  {
+    "auscultation": "TEST"
+  },
+  {
+    "percussion": "TEST"
+  },
+  {
+    "EOMI": "TEST"
+  },
+  {
+    "PERRLA": "TEST"
+  },
+  {
+    "Funduscopic examination": "TEST"
+  },
+  {
+    "papilledema": "TEST"
+  },
+  {
+    "glaucoma": "TEST"
+  },
+  {
+    "cataracts": "TEST"
+  },
+  {
+    "hearing": "TEST"
+  },
+  {
+    "TMs": "TEST"
+  },
+  {
+    "JVD": "TEST"
+  },
+  {
+    "cervical adenopathy": "TEST"
+  },
+  {
+    "stridor": "TEST"
+  },
+  {
+    "subcutaneous emphysema": "TEST"
+  },
+  {
+    "thyroid": "TEST"
+  },
+  {
+    "nodularity": "TEST"
+  },
+  {
+    "hepatosplenomegaly": "TEST"
+  },
+  {
+    "mass": "TEST"
+  },
+  {
+    "tenderness": "TEST"
+  },
+  {
+    "rebound": "TEST"
+  },
+  {
+    "rigidity": "TEST"
+  },
+  {
+    "guarding": "TEST"
+  },
+  {
+    "aortic impulse": "TEST"
+  },
+  {
+    "intraabdominal bruit": "TEST"
+  },
+  {
+    "hernia": "TEST"
+  },
+  {
+    "hydrocele": "TEST"
+  },
+  {
+    "edema": "TEST"
+  },
+  {
+    "cyanosis": "TEST"
+  },
+  {
+    "clubbing": "TEST"
+  },
+  {
+    "deep venous thrombosis": "TEST"
+  },
+  {
+    "spinous process tenderness": "TEST"
+  },
+  {
+    "CVA tenderness": "TEST"
   },
   {
     "straight-leg raising": "TEST"
@@ -171,40 +192,28 @@
     "Brudzinski": "TEST"
   },
   {
-    "NEUROLOGIC": "TEST"
+    "strength": "TEST"
   },
   {
-    "cranial nervous systems": "PROBLEM"
+    "sensation": "TEST"
   },
   {
-    "peripheral nervous systems": "PROBLEM"
+    "cerebellar function": "TEST"
   },
   {
-    "strength": "PROBLEM"
+    "affect": "TEST"
   },
   {
-    "sensation": "PROBLEM"
+    "speech": "TEST"
   },
   {
-    "cerebellar function": "PROBLEM"
+    "thought process": "TEST"
   },
   {
-    "affect": "PROBLEM"
+    "gait": "TEST"
   },
   {
-    "speech": "PROBLEM"
-  },
-  {
-    "thought process": "PROBLEM"
-  },
-  {
-    "gait": "PROBLEM"
-  },
-  {
-    "station": "PROBLEM"
-  },
-  {
-    "SKIN": "TEST"
+    "station": "TEST"
   },
   {
     "premalignant": "PROBLEM"
@@ -213,24 +222,102 @@
     "malignant": "PROBLEM"
   },
   {
-    "digital palpation": "TREATMENT"
+    "lesions": "PROBLEM"
   },
   {
-    "hemoccult - negative": "TEST"
+    "exudate": "PROBLEM"
   },
   {
-    "heent": "TEST"
+    "erythema": "PROBLEM"
   },
   {
-    "palpation": "TREATMENT"
+    "papilledema": "PROBLEM"
   },
   {
-    "breasts": "PROBLEM"
+    "glaucoma": "PROBLEM"
   },
   {
-    "male": "PROBLEM"
+    "cataracts": "PROBLEM"
   },
   {
-    "tongue": "PROBLEM"
+    "dental work": "PROBLEM"
+  },
+  {
+    "carotid bruit": "PROBLEM"
+  },
+  {
+    "JVD": "PROBLEM"
+  },
+  {
+    "cervical adenopathy": "PROBLEM"
+  },
+  {
+    "stridor": "PROBLEM"
+  },
+  {
+    "subcutaneous emphysema": "PROBLEM"
+  },
+  {
+    "nodularity": "PROBLEM"
+  },
+  {
+    "hepatosplenomegaly": "PROBLEM"
+  },
+  {
+    "mass": "PROBLEM"
+  },
+  {
+    "tenderness": "PROBLEM"
+  },
+  {
+    "rebound": "PROBLEM"
+  },
+  {
+    "rigidity": "PROBLEM"
+  },
+  {
+    "guarding": "PROBLEM"
+  },
+  {
+    "aortic impulse": "PROBLEM"
+  },
+  {
+    "intraabdominal bruit": "PROBLEM"
+  },
+  {
+    "hernia": "PROBLEM"
+  },
+  {
+    "hydrocele": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "cyanosis": "PROBLEM"
+  },
+  {
+    "clubbing": "PROBLEM"
+  },
+  {
+    "deep venous thrombosis": "PROBLEM"
+  },
+  {
+    "spinous process tenderness": "PROBLEM"
+  },
+  {
+    "CVA tenderness": "PROBLEM"
+  },
+  {
+    "Kernig": "PROBLEM"
+  },
+  {
+    "Brudzinski": "PROBLEM"
+  },
+  {
+    "premalignant": "PROBLEM"
+  },
+  {
+    "malignant": "PROBLEM"
   }
 ]

@@ -3,10 +3,13 @@
     "mesothelioma": "PROBLEM"
   },
   {
+    "peritoneal mesothelioma": "PROBLEM"
+  },
+  {
     "bowel perforations": "PROBLEM"
   },
   {
-    "end-stage peritoneal mesothelioma": "PROBLEM"
+    "mesothelioma": "PROBLEM"
   },
   {
     "bowel perforations": "PROBLEM"
@@ -21,13 +24,13 @@
     "abdominal pain": "PROBLEM"
   },
   {
-    "Duragesic": "DRUG"
+    "Duragesic patch": "DRUG"
   },
   {
     "Dilaudid PCA": "DRUG"
   },
   {
-    "Dilaudid boluses": "DRUG"
+    "Dilaudid": "DRUG"
   },
   {
     "Ativan": "DRUG"
@@ -45,10 +48,16 @@
     "sympathetic block": "TREATMENT"
   },
   {
-    "pain control": "PROBLEM"
+    "pain control": "TREATMENT"
   },
   {
     "celiac plexuses/neurolytic block": "TREATMENT"
+  },
+  {
+    "pain procedures": "TREATMENT"
+  },
+  {
+    "Pain Service": "TREATMENT"
   },
   {
     "anxiety": "PROBLEM"

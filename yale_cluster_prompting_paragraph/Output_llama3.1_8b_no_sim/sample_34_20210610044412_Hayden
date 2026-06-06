@@ -1,6 +1,6 @@
 [
   {
-    "Normal physical exam template": "TEST"
+    "chronically ill": "PROBLEM"
   },
   {
     "blood pressure": "TEST"
@@ -21,13 +21,25 @@
     "Funduscopic examination": "TEST"
   },
   {
-    "thyroid": "TEST"
+    "pharynx": "TEST"
+  },
+  {
+    "tympanic membranes": "TEST"
   },
   {
     "trachea": "TEST"
   },
   {
+    "thyroid": "TEST"
+  },
+  {
+    "neck": "TEST"
+  },
+  {
     "lungs": "TEST"
+  },
+  {
+    "auscultation": "TEST"
   },
   {
     "respiratory rate": "TEST"
@@ -42,9 +54,6 @@
     "retractions": "PROBLEM"
   },
   {
-    "muscle use": "PROBLEM"
-  },
-  {
     "jugular venous distention": "PROBLEM"
   },
   {
@@ -57,10 +66,16 @@
     "murmur": "PROBLEM"
   },
   {
-    "S1 and S2 sounds": "TEST"
+    "S1": "TEST"
+  },
+  {
+    "S2": "TEST"
   },
   {
     "gallop": "PROBLEM"
+  },
+  {
+    "abdomen": "TEST"
   },
   {
     "organomegaly": "PROBLEM"
@@ -72,10 +87,13 @@
     "bowel sounds": "TEST"
   },
   {
-    "obturator and psoas signs": "TEST"
+    "obturator": "TEST"
   },
   {
-    "bladder tenderness": "PROBLEM"
+    "psoas": "TEST"
+  },
+  {
+    "bladder": "TEST"
   },
   {
     "flank pain": "PROBLEM"
@@ -108,15 +126,21 @@
     "hemorrhage": "PROBLEM"
   },
   {
-    "skin purpura": "PROBLEM"
+    "purpura": "PROBLEM"
   },
   {
     "petechiae": "PROBLEM"
   },
   {
-    "suicidal ideations": "PROBLEM"
+    "bleeding": "PROBLEM"
+  },
+  {
+    "skin": "TEST"
   },
   {
     "depression": "PROBLEM"
+  },
+  {
+    "suicidal ideations": "PROBLEM"
   }
 ]

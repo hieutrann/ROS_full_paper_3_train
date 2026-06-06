@@ -1,6 +1,6 @@
 [
   {
-    "Discharge Summary": "TEST"
+    "Discharge Summary": "TREATMENT"
   },
   {
     "Speech Therapy": "TREATMENT"
@@ -9,13 +9,13 @@
     "cognitive-linguistic deficits": "PROBLEM"
   },
   {
-    "speech therapy": "TREATMENT"
-  },
-  {
-    "speech therapy": "TREATMENT"
-  },
-  {
     "cognitive-linguistic deficits": "PROBLEM"
+  },
+  {
+    "speech therapy": "TREATMENT"
+  },
+  {
+    "Medical Center": "DRUG"
   },
   {
     "speech therapy": "TREATMENT"
@@ -36,25 +36,31 @@
     "therapy": "TREATMENT"
   },
   {
-    "She is able to name 15 items in a broad category with minimal queuing": "PROBLEM"
+    "minimal queuing": "PROBLEM"
   },
   {
-    "activities": "PROBLEM"
+    "sequence activities": "TEST"
   },
   {
     "direction": "TREATMENT"
   },
   {
-    "visual scanning tasks": "TREATMENT"
+    "accuracy": "TEST"
+  },
+  {
+    "scanning tasks": "TEST"
   },
   {
     "narrative": "TEST"
   },
   {
-    "recall": "TEST"
+    "delay": "TEST"
   },
   {
-    "delay": "TEST"
+    "functional ability": "PROBLEM"
+  },
+  {
+    "cognitive-linguistic ability": "PROBLEM"
   },
   {
     "safety": "PROBLEM"
@@ -64,12 +70,6 @@
   },
   {
     "patient": "PROBLEM"
-  },
-  {
-    "husband": "PROBLEM"
-  },
-  {
-    "activities": "PROBLEM"
   },
   {
     "cognitive domains": "PROBLEM"
@@ -99,10 +99,7 @@
     "speech therapy": "TREATMENT"
   },
   {
-    "patient's discharge": "TREATMENT"
-  },
-  {
-    "speech therapy": "TREATMENT"
+    "patient": "PROBLEM"
   },
   {
     "memory": "PROBLEM"
@@ -114,7 +111,7 @@
     "attention": "PROBLEM"
   },
   {
-    "speech": "PROBLEM"
+    "speech therapy": "TREATMENT"
   },
   {
     "visuospatial": "PROBLEM"
@@ -127,5 +124,8 @@
   },
   {
     "cognitive": "PROBLEM"
+  },
+  {
+    "speech": "PROBLEM"
   }
 ]

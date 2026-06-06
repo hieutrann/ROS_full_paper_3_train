@@ -1,12 +1,15 @@
 [
   {
-    "Airway Compromise": "PROBLEM"
+    "foreign body": "PROBLEM"
   },
   {
-    "Foreign Body": "PROBLEM"
+    "airway compromise": "PROBLEM"
   },
   {
     "intubated": "TREATMENT"
+  },
+  {
+    "fishbone": "PROBLEM"
   },
   {
     "foreign body": "PROBLEM"
@@ -16,6 +19,9 @@
   },
   {
     "intubated": "TREATMENT"
+  },
+  {
+    "fishbone": "PROBLEM"
   },
   {
     "diabetes": "PROBLEM"
@@ -54,6 +60,15 @@
     "Solu-Medrol": "DRUG"
   },
   {
+    "drugs": "PROBLEM"
+  },
+  {
+    "alcohol": "PROBLEM"
+  },
+  {
+    "tobacco": "PROBLEM"
+  },
+  {
     "airway compromise": "PROBLEM"
   },
   {
@@ -76,6 +91,9 @@
   },
   {
     "ventilatory support": "TREATMENT"
+  },
+  {
+    "operating room": "TREATMENT"
   },
   {
     "extubated": "TREATMENT"

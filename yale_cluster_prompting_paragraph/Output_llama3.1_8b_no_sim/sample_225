@@ -15,6 +15,9 @@
     "lids": "TEST"
   },
   {
+    "lacrimal apparatus": "TEST"
+  },
+  {
     "slit lamp examination": "TEST"
   },
   {
@@ -27,27 +30,9 @@
     "sensation": "PROBLEM"
   },
   {
-    "blurriness": "PROBLEM"
-  },
-  {
     "visual acuity": "TEST"
   },
   {
-    "hypertension": "PROBLEM"
-  },
-  {
-    "cancer": "PROBLEM"
-  },
-  {
-    "dislocated wrist": "PROBLEM"
-  },
-  {
     "foreign body OS": "PROBLEM"
-  },
-  {
-    "pressure patch": "TREATMENT"
-  },
-  {
-    "slit lamp": "TREATMENT"
   }
 ]

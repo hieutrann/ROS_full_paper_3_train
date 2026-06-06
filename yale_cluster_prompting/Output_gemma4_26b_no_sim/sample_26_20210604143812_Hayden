@@ -36,10 +36,10 @@
     "speech therapy": "TREATMENT"
   },
   {
-    "speech therapy": "TREATMENT"
+    "cognitive linguistic abilities": "PROBLEM"
   },
   {
-    "therapy": "TREATMENT"
+    "speech therapy": "TREATMENT"
   },
   {
     "stroke": "PROBLEM"
@@ -58,5 +58,11 @@
   },
   {
     "cognitive linguistic": "PROBLEM"
+  },
+  {
+    "cognitive": "PROBLEM"
+  },
+  {
+    "linguistic": "PROBLEM"
   }
 ]

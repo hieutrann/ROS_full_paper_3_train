@@ -15,6 +15,9 @@
     "decrease in mental alertness": "PROBLEM"
   },
   {
+    "GI symptoms": "PROBLEM"
+  },
+  {
     "sweating": "PROBLEM"
   },
   {
@@ -81,22 +84,7 @@
     "Dry mucosal linings": "PROBLEM"
   },
   {
-    "HEART": "TEST"
-  },
-  {
-    "S1": "TEST"
-  },
-  {
-    "S2": "TEST"
-  },
-  {
     "rales": "PROBLEM"
-  },
-  {
-    "wheeze": "PROBLEM"
-  },
-  {
-    "bowel sounds": "TEST"
   },
   {
     "organomegaly": "PROBLEM"
@@ -109,9 +97,6 @@
   },
   {
     "cyanosis": "PROBLEM"
-  },
-  {
-    "rash": "PROBLEM"
   },
   {
     "CPK": "TEST"
@@ -217,5 +202,11 @@
   },
   {
     "glucose": "TEST"
+  },
+  {
+    "blood": "TEST"
+  },
+  {
+    "pressure": "TEST"
   }
 ]

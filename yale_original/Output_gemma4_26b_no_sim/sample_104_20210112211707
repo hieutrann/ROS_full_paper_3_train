@@ -33,6 +33,9 @@
     "sepsis": "PROBLEM"
   },
   {
+    "intubated": "TREATMENT"
+  },
+  {
     "respiratory failure": "PROBLEM"
   },
   {
@@ -54,16 +57,16 @@
     "disseminated intravascular coagulation": "PROBLEM"
   },
   {
-    "prolonged partial thromboplastin time": "PROBLEM"
+    "prolonged partial thromboplastin time": "TEST"
   },
   {
     "prothrombin time": "TEST"
   },
   {
-    "low fibrinogen": "PROBLEM"
+    "low fibrinogen": "TEST"
   },
   {
-    "elevated D-dimer": "PROBLEM"
+    "elevated D-dimer": "TEST"
   },
   {
     "Bleeding": "PROBLEM"
@@ -78,7 +81,10 @@
     "coagulopathy": "PROBLEM"
   },
   {
-    "illicit drugs": "PROBLEM"
+    "illicit drugs": "DRUG"
+  },
+  {
+    "intubated": "TREATMENT"
   },
   {
     "rate": "TEST"
@@ -90,7 +96,7 @@
     "respiratory rate": "TEST"
   },
   {
-    "sclerae": "TEST"
+    "ventilator": "TREATMENT"
   },
   {
     "conjunctival hemorrhage": "PROBLEM"
@@ -108,13 +114,10 @@
     "Coarse breath sounds": "PROBLEM"
   },
   {
-    "HEART": "TEST"
-  },
-  {
-    "bowel sounds": "TEST"
-  },
-  {
     "oozing": "PROBLEM"
+  },
+  {
+    "central line": "TREATMENT"
   },
   {
     "clubbing": "PROBLEM"
@@ -162,7 +165,7 @@
     "coagulopathy": "PROBLEM"
   },
   {
-    "elevated fibrinogen": "PROBLEM"
+    "fibrinogen": "TEST"
   },
   {
     "coagulation times": "TEST"
@@ -195,7 +198,13 @@
     "intravascular coagulation": "PROBLEM"
   },
   {
+    "infusion": "TREATMENT"
+  },
+  {
     "coagulopathy": "PROBLEM"
+  },
+  {
+    "fibrinogen": "TEST"
   },
   {
     "sepsis": "PROBLEM"

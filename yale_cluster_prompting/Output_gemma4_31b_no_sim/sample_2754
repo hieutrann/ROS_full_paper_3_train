@@ -117,12 +117,6 @@
     "pain": "PROBLEM"
   },
   {
-    "PHYSICAL EXAMINATION": "TEST"
-  },
-  {
-    "VITAL SIGNS": "TEST"
-  },
-  {
     "afebrile": "PROBLEM"
   },
   {
@@ -138,10 +132,13 @@
     "jittery": "PROBLEM"
   },
   {
-    "Pupils are actually moderately dilated": "PROBLEM"
+    "Pupils": "TEST"
   },
   {
-    "LUNGS": "TEST"
+    "Extraoculars": "TEST"
+  },
+  {
+    "breath sounds": "TEST"
   },
   {
     "wheezing": "PROBLEM"
@@ -168,10 +165,7 @@
     "MEDICAL EXAMINATION": "TEST"
   },
   {
-    "DETOXING": "TREATMENT"
-  },
-  {
-    "HEROIN": "DRUG"
+    "HEROIN": "PROBLEM"
   },
   {
     "clonidine": "DRUG"
@@ -193,17 +187,5 @@
   },
   {
     "detox": "TREATMENT"
-  },
-  {
-    "heroin": "PROBLEM"
-  },
-  {
-    "alcohol": "PROBLEM"
-  },
-  {
-    "cocaine": "PROBLEM"
-  },
-  {
-    "abuse": "PROBLEM"
   }
 ]

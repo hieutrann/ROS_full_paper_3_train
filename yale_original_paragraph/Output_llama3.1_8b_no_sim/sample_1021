@@ -1,50 +1,20 @@
 [
   {
-    "Full-Field Digital Mammogram (FFDM)": "TEST"
+    "mammogram": "TEST"
   },
   {
     "breast cancer": "PROBLEM"
   },
   {
-    "radiology": "TEST"
+    "calcifications": "PROBLEM"
   },
   {
-    "mammogram": "TEST"
+    "radiology": "TEST"
   },
   {
     "mammography": "TEST"
   },
   {
-    "breasts": "PROBLEM"
-  },
-  {
-    "calcifications": "PROBLEM"
-  },
-  {
-    "mass": "PROBLEM"
-  },
-  {
-    "architecture distortion": "PROBLEM"
-  },
-  {
-    "malignant-type calcifications": "PROBLEM"
-  },
-  {
-    "skin": "PROBLEM"
-  },
-  {
-    "radiographic evidence": "TEST"
-  },
-  {
-    "biopsy": "TREATMENT"
-  },
-  {
-    "iCAD Second Look proprietary software": "TEST"
-  },
-  {
-    "FDA-approved digital mammography equipment": "TEST"
-  },
-  {
-    "iCAD SecondLook Software Version 7.2": "TEST"
+    "iCAD SecondLook Software": "TREATMENT"
   }
 ]

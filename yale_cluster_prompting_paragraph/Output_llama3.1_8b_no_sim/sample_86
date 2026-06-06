@@ -1,36 +1,15 @@
 [
   {
-    "depression": "PROBLEM"
-  },
-  {
-    "high risk behavior": "PROBLEM"
-  },
-  {
     "Major depression, recurrent, with psychotic features": "PROBLEM"
   },
   {
+    "High risk behavior": "PROBLEM"
+  },
+  {
+    "Depression": "PROBLEM"
+  },
+  {
     "psychosocial stressors": "PROBLEM"
-  },
-  {
-    "GAF: 50 to 60": "PROBLEM"
-  },
-  {
-    "Seroquel": "DRUG"
-  },
-  {
-    "Benadryl": "DRUG"
-  },
-  {
-    "Wellbutrin XL": "DRUG"
-  },
-  {
-    "vitamin E": "DRUG"
-  },
-  {
-    "Restoril": "DRUG"
-  },
-  {
-    "Risperdal": "DRUG"
   },
   {
     "sleep-deprived EEG": "TEST"
@@ -39,10 +18,10 @@
     "EKG": "TEST"
   },
   {
-    "basic metabolic panel": "TEST"
+    "CBC": "TEST"
   },
   {
-    "CBC": "TEST"
+    "basic metabolic panel": "TEST"
   },
   {
     "TSH": "TEST"
@@ -63,10 +42,25 @@
     "T4": "TEST"
   },
   {
-    "H&P": "TEST"
+    "Seroquel": "DRUG"
   },
   {
-    "RTC program": "TREATMENT"
+    "Benadryl": "DRUG"
+  },
+  {
+    "Wellbutrin XL": "DRUG"
+  },
+  {
+    "vitamin E": "DRUG"
+  },
+  {
+    "Restoril": "DRUG"
+  },
+  {
+    "Risperdal": "DRUG"
+  },
+  {
+    "physical therapy": "TREATMENT"
   },
   {
     "group-oriented therapy program": "TREATMENT"
@@ -75,24 +69,6 @@
     "individual, group, and family therapy": "TREATMENT"
   },
   {
-    "psychotropic medications": "TREATMENT"
-  },
-  {
-    "Seroquel 25 mg p.o. a.m. #30 pills no refills": "TREATMENT"
-  },
-  {
-    "Seroquel 50 mg p.o. q.h.s": "TREATMENT"
-  },
-  {
-    "Benadryl 50 mg p.o. q. 6h p.r.n. for anxiety or agitation #30 pills": "TREATMENT"
-  },
-  {
-    "Wellbutrin XL 300 mg p.o. q.a.m.": "TREATMENT"
-  },
-  {
-    "vitamin E 400 IU p.o. q.d. #30 pills": "TREATMENT"
-  },
-  {
-    "Restoril 25 mg p.o. p.r.n. for anxiety #16 pills": "TREATMENT"
+    "RTC (Residential Treatment Center) program": "TREATMENT"
   }
 ]

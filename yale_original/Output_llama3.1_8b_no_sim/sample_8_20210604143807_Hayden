@@ -1,21 +1,12 @@
 [
   {
-    "General Medicine": "TREATMENT"
-  },
-  {
-    "Gen Med Consult - 28": "TEST"
-  },
-  {
     "decreased level of consciousness": "PROBLEM"
   },
   {
     "decreased level of consciousness": "PROBLEM"
   },
   {
-    "patient": "PROBLEM"
-  },
-  {
-    "injuries of the face": "PROBLEM"
+    "status": "PROBLEM"
   },
   {
     "elderly abuse": "PROBLEM"
@@ -27,10 +18,10 @@
     "lacerations": "PROBLEM"
   },
   {
-    "Xanax": "DRUG"
+    "wheelchair": "TREATMENT"
   },
   {
-    "patient": "PROBLEM"
+    "Xanax": "DRUG"
   },
   {
     "Sinemet": "DRUG"
@@ -69,7 +60,7 @@
     "He answers minimally to only a few questions": "PROBLEM"
   },
   {
-    "He is not able to follow commands": "PROBLEM"
+    "commands": "PROBLEM"
   },
   {
     "lacerations": "PROBLEM"
@@ -81,13 +72,13 @@
     "lip laceration": "PROBLEM"
   },
   {
-    "Pupils": "TEST"
+    "light": "TEST"
   },
   {
-    "Extraocular movements": "TEST"
+    "movements": "TEST"
   },
   {
-    "Mucous membranes": "PROBLEM"
+    "mucous membranes": "PROBLEM"
   },
   {
     "Supple": "TEST"
@@ -111,7 +102,7 @@
     "LUNGS": "PROBLEM"
   },
   {
-    "ABDOMEN": "PROBLEM"
+    "Abdomen": "PROBLEM"
   },
   {
     "bowel sounds": "TEST"
@@ -120,7 +111,7 @@
     "edema": "PROBLEM"
   },
   {
-    "NEUROLOGIC": "TEST"
+    "NEUROLOGIC": "PROBLEM"
   },
   {
     "EKG": "TEST"
@@ -159,22 +150,19 @@
     "fall": "PROBLEM"
   },
   {
-    "2": "TEST"
-  },
-  {
-    "Altered mental status": "PROBLEM"
+    "2": "TREATMENT"
   },
   {
     "Parkinson": "PROBLEM"
   },
   {
-    "3": "PROBLEM"
+    "3": "TREATMENT"
   },
   {
     "Dehydration": "PROBLEM"
   },
   {
-    "intake": "PROBLEM"
+    "intake": "TREATMENT"
   },
   {
     "4": "TEST"
@@ -183,7 +171,7 @@
     "elderly abuse": "PROBLEM"
   },
   {
-    "regular medical floor": "TREATMENT"
+    "medical floor": "TREATMENT"
   },
   {
     "IV fluids": "TREATMENT"

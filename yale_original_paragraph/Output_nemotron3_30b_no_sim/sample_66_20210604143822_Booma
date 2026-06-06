@@ -1,0 +1,56 @@
+[
+  {
+    "carcinomatosis": "PROBLEM"
+  },
+  {
+    "appendiceal": "PROBLEM"
+  },
+  {
+    "peritoneal": "PROBLEM"
+  },
+  {
+    "appendiceal primary": "PROBLEM"
+  },
+  {
+    "diarrhea": "PROBLEM"
+  },
+  {
+    "cystoscopy": "TREATMENT"
+  },
+  {
+    "bilateral ureteral stents": "TREATMENT"
+  },
+  {
+    "exploratory laparotomy": "TREATMENT"
+  },
+  {
+    "right hemicolectomy": "TREATMENT"
+  },
+  {
+    "cholecystectomy": "TREATMENT"
+  },
+  {
+    "splenectomy": "TREATMENT"
+  },
+  {
+    "omentectomy": "TREATMENT"
+  },
+  {
+    "mitomycin-C": "TREATMENT"
+  },
+  {
+    "Imodium": "TREATMENT"
+  },
+  {
+    "Lovenox": "DRUG"
+  },
+  {
+    "Vicodin": "DRUG"
+  },
+  {
+    "Phenergan": "DRUG"
+  },
+  {
+    "Multivitamins": "DRUG"
+  }
+]

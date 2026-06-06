@@ -1,0 +1,20 @@
+[
+  {
+    "Sepsis": "PROBLEM"
+  },
+  {
+    "urinary tract infection": "PROBLEM"
+  },
+  {
+    "Escherichia coli": "TEST"
+  },
+  {
+    "doripenem": "DRUG"
+  },
+  {
+    "troponin": "TEST"
+  },
+  {
+    "Coumadin": "DRUG"
+  }
+]

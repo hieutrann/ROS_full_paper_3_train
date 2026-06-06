@@ -1,6 +1,6 @@
 [
   {
-    "Neck pain": "PROBLEM"
+    "Neck Pain": "PROBLEM"
   },
   {
     "right upper extremity radiculopathy": "PROBLEM"
@@ -9,7 +9,7 @@
     "cervical spondylosis": "PROBLEM"
   },
   {
-    "herniated nucleus pulposus C4-C5, C5-C6, and C6-C7": "PROBLEM"
+    "herniated nucleus pulposus": "PROBLEM"
   },
   {
     "stenosis": "PROBLEM"
@@ -48,7 +48,10 @@
     "Anterior cervical discectomy with decompression": "TREATMENT"
   },
   {
-    "Arthrodesis with anterior interbody fusion C4-C5, C5-C6, and C6-C7": "TREATMENT"
+    "Arthrodesis": "TREATMENT"
+  },
+  {
+    "anterior interbody fusion": "TREATMENT"
   },
   {
     "Spinal instrumentation": "TREATMENT"
@@ -60,7 +63,7 @@
     "Allograft": "TREATMENT"
   },
   {
-    "intense neck pain": "PROBLEM"
+    "neck pain": "PROBLEM"
   },
   {
     "subjective weakness of the right upper extremity": "PROBLEM"
@@ -90,10 +93,10 @@
     "IV morphine": "DRUG"
   },
   {
-    "pain down the arm": "PROBLEM"
+    "pain": "PROBLEM"
   },
   {
-    "tingling of the right thumb and right index finger": "PROBLEM"
+    "tingling": "PROBLEM"
   },
   {
     "dysphagia": "PROBLEM"

@@ -3,13 +3,16 @@
     "right foot ulcer": "PROBLEM"
   },
   {
-    "possible osteomyelitis": "PROBLEM"
+    "osteomyelitis": "PROBLEM"
+  },
+  {
+    "Antibiotic": "DRUG"
   },
   {
     "right foot ulcer": "PROBLEM"
   },
   {
-    "possible osteomyelitis": "PROBLEM"
+    "osteomyelitis": "PROBLEM"
   },
   {
     "diabetes mellitus": "PROBLEM"
@@ -60,6 +63,9 @@
     "stage IV": "PROBLEM"
   },
   {
+    "third metatarsal bone": "PROBLEM"
+  },
+  {
     "osteomyelitis": "PROBLEM"
   },
   {
@@ -72,7 +78,10 @@
     "Diabetes mellitus": "PROBLEM"
   },
   {
-    "Osteomyelitis of the right fifth toe": "PROBLEM"
+    "Osteomyelitis": "PROBLEM"
+  },
+  {
+    "right fifth toe": "PROBLEM"
   },
   {
     "intravenous antibiotic therapy": "TREATMENT"
@@ -141,19 +150,22 @@
     "lacerated wound": "PROBLEM"
   },
   {
+    "Tracking under the skin": "PROBLEM"
+  },
+  {
     "wound": "PROBLEM"
+  },
+  {
+    "third metatarsal bone": "PROBLEM"
   },
   {
     "osteomyelitis": "PROBLEM"
   },
   {
-    "Cranial nerves II through XII": "TEST"
-  },
-  {
     "diabetes mellitus": "PROBLEM"
   },
   {
-    "accidental lawn mower-associated injury": "PROBLEM"
+    "lawn mower-associated injury": "PROBLEM"
   },
   {
     "right foot": "PROBLEM"
@@ -162,10 +174,7 @@
     "debridement": "TREATMENT"
   },
   {
-    "Culture": "TEST"
-  },
-  {
-    "debridement": "TREATMENT"
+    "debridement procedure": "TREATMENT"
   },
   {
     "Wound cultures": "TEST"
@@ -216,6 +225,9 @@
     "PICC line": "TREATMENT"
   },
   {
+    "intravenous antibiotic therapy": "TREATMENT"
+  },
+  {
     "CBC with differential": "TEST"
   },
   {
@@ -237,7 +249,13 @@
     "CBC": "TEST"
   },
   {
+    "antibiotic therapy": "TREATMENT"
+  },
+  {
     "wound healing": "PROBLEM"
+  },
+  {
+    "Wound care": "TREATMENT"
   },
   {
     "deep wound cultures": "TEST"
@@ -247,9 +265,6 @@
   },
   {
     "bone scan": "TEST"
-  },
-  {
-    "mssa": "PROBLEM"
   },
   {
     "methicillin-sensitive staphylococcus aureus": "PROBLEM"

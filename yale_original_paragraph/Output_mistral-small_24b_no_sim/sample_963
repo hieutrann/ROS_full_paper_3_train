@@ -9,13 +9,7 @@
     "Micronase": "DRUG"
   },
   {
-    "diabetes": "PROBLEM"
-  },
-  {
-    "Micronase": "DRUG"
-  },
-  {
-    "cholesterol": "PROBLEM"
+    "elevated cholesterol": "PROBLEM"
   },
   {
     "ASHD": "PROBLEM"
@@ -81,91 +75,19 @@
     "Bactrim": "DRUG"
   },
   {
-    "diabetes type II": "PROBLEM"
-  },
-  {
-    "acute cystitis": "PROBLEM"
-  },
-  {
-    "diabetes": "PROBLEM"
-  },
-  {
-    "abnormalities": "PROBLEM"
-  },
-  {
-    "BP": "TEST"
-  },
-  {
-    "Pulse": "TEST"
-  },
-  {
-    "Resp": "TEST"
-  },
-  {
-    "Neck": "TEST"
-  },
-  {
-    "jugular venous distension": "PROBLEM"
-  },
-  {
-    "thyroid": "PROBLEM"
-  },
-  {
-    "Lungs": "TEST"
-  },
-  {
-    "Cardio": "TEST"
-  },
-  {
-    "SI": "TEST"
-  },
-  {
-    "S2": "TEST"
-  },
-  {
-    "heart sounds": "TEST"
-  },
-  {
-    "blood pressure": "TEST"
-  },
-  {
-    "Abdomen": "TEST"
-  },
-  {
-    "bowel sounds": "TEST"
-  },
-  {
-    "organomegaly": "PROBLEM"
-  },
-  {
-    "CVA tenderness": "PROBLEM"
-  },
-  {
-    "hernias": "PROBLEM"
-  },
-  {
-    "Extremities": "TEST"
-  },
-  {
-    "clubbing": "PROBLEM"
-  },
-  {
-    "cyanosis": "PROBLEM"
-  },
-  {
-    "edema": "PROBLEM"
-  },
-  {
-    "diabetes type II": "PROBLEM"
-  },
-  {
-    "acute cystitis": "PROBLEM"
-  },
-  {
     "Endocrinology Consult": "TREATMENT"
   },
   {
     "CBC": "TEST"
+  },
+  {
+    "Diabetes type II": "PROBLEM"
+  },
+  {
+    "Acute cystitis": "PROBLEM"
+  },
+  {
+    "diabetes": "PROBLEM"
   },
   {
     "Micronase": "DRUG"

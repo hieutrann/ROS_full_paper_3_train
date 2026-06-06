@@ -15,10 +15,10 @@
     "right total hip replacement": "TREATMENT"
   },
   {
-    "low-grade fever": "PROBLEM"
+    "fever": "PROBLEM"
   },
   {
-    "DVT prophylaxis": "TREATMENT"
+    "DVT": "PROBLEM"
   },
   {
     "Coumadin": "DRUG"
@@ -28,6 +28,9 @@
   },
   {
     "INR": "TEST"
+  },
+  {
+    "surgery": "TREATMENT"
   },
   {
     "right calf discomfort": "PROBLEM"
@@ -46,6 +49,9 @@
   },
   {
     "migraine headaches": "PROBLEM"
+  },
+  {
+    "menstrual cycle": "PROBLEM"
   },
   {
     "sciatic pain": "PROBLEM"
@@ -87,16 +93,25 @@
     "Paxil": "DRUG"
   },
   {
+    "smoking": "PROBLEM"
+  },
+  {
     "migraine headaches": "PROBLEM"
+  },
+  {
+    "menstrual cycle": "PROBLEM"
+  },
+  {
+    "glasses": "TREATMENT"
   },
   {
     "floaters": "PROBLEM"
   },
   {
-    "low-grade temperature": "PROBLEM"
+    "temperature": "TEST"
   },
   {
-    "mild intermittent cough": "PROBLEM"
+    "cough": "PROBLEM"
   },
   {
     "scratchy throat": "PROBLEM"
@@ -105,13 +120,10 @@
     "intubation": "TREATMENT"
   },
   {
-    "intermittent right calf pain": "PROBLEM"
+    "right calf pain": "PROBLEM"
   },
   {
-    "sharp": "PROBLEM"
-  },
-  {
-    "negative Homans sign": "TEST"
+    "Homans sign": "TEST"
   },
   {
     "chest pain": "PROBLEM"
@@ -144,6 +156,9 @@
     "constipated": "PROBLEM"
   },
   {
+    "surgery": "TREATMENT"
+  },
+  {
     "dysuria": "PROBLEM"
   },
   {
@@ -154,6 +169,12 @@
   },
   {
     "voiding difficulties": "PROBLEM"
+  },
+  {
+    "pregnant": "PROBLEM"
+  },
+  {
+    "vasectomy": "TREATMENT"
   },
   {
     "temperature": "TEST"
@@ -174,10 +195,10 @@
     "EOMI": "TEST"
   },
   {
-    "HEART": "TEST"
+    "Bowel sounds": "TEST"
   },
   {
-    "Bowel sounds": "TEST"
+    "Right hip incision": "PROBLEM"
   },
   {
     "diffuse edema": "PROBLEM"
@@ -303,10 +324,7 @@
     "Coumadin": "DRUG"
   },
   {
-    "INR": "TEST"
-  },
-  {
-    "Right leg muscle spasm": "PROBLEM"
+    "muscle spasm": "PROBLEM"
   },
   {
     "calf pain": "PROBLEM"

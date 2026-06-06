@@ -18,9 +18,6 @@
     "chest pain": "PROBLEM"
   },
   {
-    "pressure": "PROBLEM"
-  },
-  {
     "loss of consciousness": "PROBLEM"
   },
   {
@@ -31,6 +28,12 @@
   },
   {
     "Darvocet": "DRUG"
+  },
+  {
+    "anxiety": "PROBLEM"
+  },
+  {
+    "depression": "PROBLEM"
   },
   {
     "SI": "PROBLEM"

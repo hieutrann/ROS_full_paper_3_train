@@ -1,6 +1,6 @@
 [
   {
-    "General Medicine": "TREATMENT"
+    "General Medicine": "PROBLEM"
   },
   {
     "shoulder bursitis": "PROBLEM"
@@ -18,13 +18,10 @@
     "shoulder": "PROBLEM"
   },
   {
-    "issues": "PROBLEM"
+    "arm over his head": "PROBLEM"
   },
   {
-    "difficulties raising his arm over his head": "PROBLEM"
-  },
-  {
-    "intermittent numbness": "PROBLEM"
+    "numbness": "PROBLEM"
   },
   {
     "anti-inflammatories": "DRUG"
@@ -75,9 +72,6 @@
     "medication": "DRUG"
   },
   {
-    "socializing well": "PROBLEM"
-  },
-  {
     "medications": "DRUG"
   },
   {
@@ -87,25 +81,19 @@
     "anger outbursts": "PROBLEM"
   },
   {
-    "His mom is concerned": "PROBLEM"
-  },
-  {
-    "counseling": "TREATMENT"
-  },
-  {
     "PAST MEDICAL/SURGICAL/SOCIAL HISTORY": "TREATMENT"
   },
   {
     "VSS": "PROBLEM"
   },
   {
-    "A & Ox3": "DRUG"
+    "A & Ox3": "PROBLEM"
   },
   {
     "NAD": "PROBLEM"
   },
   {
-    "Heart": "TEST"
+    "Heart": "PROBLEM"
   },
   {
     "Lungs": "PROBLEM"
@@ -129,16 +117,19 @@
     "Limited in range of motion": "PROBLEM"
   },
   {
+    "range of motion": "TEST"
+  },
+  {
     "95 degrees": "TEST"
   },
   {
     "muscle weakness": "PROBLEM"
   },
   {
-    "Neurovascularly intact": "PROBLEM"
+    "Neurovascularly intact": "TEST"
   },
   {
-    "Negative biceps tenderness": "PROBLEM"
+    "biceps tenderness": "PROBLEM"
   },
   {
     "suicidal ideations": "PROBLEM"
@@ -147,7 +138,7 @@
     "homicidal ideations": "PROBLEM"
   },
   {
-    "questions": "PROBLEM"
+    "Answering questions appropriately": "TEST"
   },
   {
     "hallucinations": "PROBLEM"
@@ -174,7 +165,7 @@
     "joint injections": "TREATMENT"
   },
   {
-    "2.": "TREATMENT"
+    "2": "TEST"
   },
   {
     "Pharyngitis": "PROBLEM"
@@ -183,13 +174,10 @@
     "tonsillectomy": "TREATMENT"
   },
   {
-    "Dr.": "PROBLEM"
+    "Dr.": "TREATMENT"
   },
   {
-    "name": "PROBLEM"
-  },
-  {
-    "3": "TREATMENT"
+    "3": "PROBLEM"
   },
   {
     "Attention deficit disorder": "PROBLEM"
@@ -207,48 +195,54 @@
     "RTC": "TREATMENT"
   },
   {
-    "ADHD": "PROBLEM"
+    "adhd": "PROBLEM"
   },
   {
-    "Attention Deficit Disorder": "PROBLEM"
+    "attention deficit disorde": "PROBLEM"
   },
   {
-    "Pharyngitis": "PROBLEM"
+    "pharyngitis": "PROBLEM"
   },
   {
-    "Bursitis": "PROBLEM"
+    "bursitis": "PROBLEM"
   },
   {
-    "Diarrhea": "PROBLEM"
+    "diarrhea": "PROBLEM"
   },
   {
-    "Fever": "PROBLEM"
+    "fevers": "PROBLEM"
   },
   {
-    "Nausea": "PROBLEM"
+    "nausea": "PROBLEM"
   },
   {
-    "Numbness": "PROBLEM"
+    "numbness": "PROBLEM"
   },
   {
-    "Rashes": "PROBLEM"
+    "rashes": "PROBLEM"
   },
   {
-    "Strep Throat": "PROBLEM"
+    "strep throat": "PROBLEM"
   },
   {
-    "Vomiting": "PROBLEM"
+    "vomiting": "PROBLEM"
   },
   {
-    "Anti-Inflammatories": "DRUG"
+    "attention deficit": "PROBLEM"
   },
   {
-    "Soap": "DRUG"
+    "deficit disorder": "PROBLEM"
   },
   {
-    "Anger": "PROBLEM"
+    "anti inflammatories": "DRUG"
   },
   {
-    "Intermittent": "PROBLEM"
+    "anti-inflammatories": "DRUG"
+  },
+  {
+    "soap": "DRUG"
+  },
+  {
+    "anger control": "TREATMENT"
   }
 ]

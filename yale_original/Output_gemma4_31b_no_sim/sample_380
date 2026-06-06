@@ -33,13 +33,10 @@
     "diarrhea": "PROBLEM"
   },
   {
-    "severe osteoarthritis of the left knee": "PROBLEM"
+    "osteoarthritis": "PROBLEM"
   },
   {
     "total knee replacement": "TREATMENT"
-  },
-  {
-    "lose weight": "PROBLEM"
   },
   {
     "surgery": "TREATMENT"
@@ -159,7 +156,7 @@
     "vomiting": "PROBLEM"
   },
   {
-    "adhesive tape": "DRUG"
+    "adhesive tape": "TREATMENT"
   },
   {
     "Hypertension": "PROBLEM"
@@ -219,12 +216,6 @@
     "Temperature": "TEST"
   },
   {
-    "Neck": "TEST"
-  },
-  {
-    "Carotids": "TEST"
-  },
-  {
     "Chest": "TEST"
   },
   {
@@ -267,16 +258,13 @@
     "chest x-ray": "TEST"
   },
   {
-    "C-reactive protein cardiac": "TEST"
+    "C-reactive protein": "TEST"
   },
   {
-    "weight loss": "PROBLEM"
+    "weight loss": "TREATMENT"
   },
   {
     "Weight Watchers": "TREATMENT"
-  },
-  {
-    "dietician": "TREATMENT"
   },
   {
     "knee pain": "PROBLEM"
@@ -289,6 +277,9 @@
   },
   {
     "Fosamax": "DRUG"
+  },
+  {
+    "medications": "DRUG"
   },
   {
     "Fosamax": "DRUG"

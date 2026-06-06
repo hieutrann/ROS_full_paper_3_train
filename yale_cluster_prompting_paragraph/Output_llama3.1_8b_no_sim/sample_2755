@@ -15,39 +15,42 @@
     "allergic reaction": "PROBLEM"
   },
   {
-    "Benadryl": "DRUG"
+    "epinephrine": "DRUG"
   },
   {
-    "epinephrine": "DRUG"
+    "Benadryl": "DRUG"
   },
   {
     "antihistamine": "DRUG"
   },
   {
-    "VITAL SIGNS": "TEST"
+    "physical examination": "TEST"
   },
   {
-    "PHYSICAL EXAMINATION": "TEST"
+    "vital signs": "TEST"
   },
   {
-    "ED COURSE": "TEST"
+    "HEENT": "TEST"
   },
   {
-    "IMPRESSION": "TEST"
+    "NECK": "TEST"
   },
   {
-    "ASSESSMENT AND PLAN": "TEST"
+    "LUNGS": "TEST"
   },
   {
-    "torso": "TREATMENT"
+    "CARDIAC": "TEST"
+  },
+  {
+    "ABDOMEN": "TEST"
+  },
+  {
+    "SKIN": "TEST"
   },
   {
     "Benadryl": "TREATMENT"
   },
   {
     "epinephrine": "TREATMENT"
-  },
-  {
-    "antihistamine": "TREATMENT"
   }
 ]

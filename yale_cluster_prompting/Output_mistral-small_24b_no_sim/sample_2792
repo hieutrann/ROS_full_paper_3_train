@@ -30,6 +30,21 @@
     "attention": "PROBLEM"
   },
   {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "pressure": "PROBLEM"
+  },
+  {
+    "exercise tolerance": "PROBLEM"
+  },
+  {
+    "loss of consciousness": "PROBLEM"
+  },
+  {
+    "incontinence": "PROBLEM"
+  },
+  {
     "seizure activity": "PROBLEM"
   },
   {
@@ -42,31 +57,61 @@
     "anxiety": "PROBLEM"
   },
   {
-    "medications": "DRUG"
+    "numerous medications": "DRUG"
   },
   {
     "depression": "PROBLEM"
   },
   {
-    "upstrokes": "TEST"
+    "SI": "PROBLEM"
+  },
+  {
+    "HI": "PROBLEM"
+  },
+  {
+    "82-year-old female": "PROBLEM"
+  },
+  {
+    "Stable": "PROBLEM"
+  },
+  {
+    "Negative": "PROBLEM"
+  },
+  {
+    "Supple": "PROBLEM"
+  },
+  {
+    "Carotid upstrokes": "PROBLEM"
   },
   {
     "LUNGS": "PROBLEM"
   },
   {
-    "S1 and S2": "TEST"
+    "S1": "TEST"
   },
   {
-    "Rate": "TEST"
+    "S2": "TEST"
   },
   {
-    "bowel sounds": "TEST"
+    "Soft": "PROBLEM"
+  },
+  {
+    "Positive bowel sounds": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
   },
   {
     "ecchymosis": "PROBLEM"
   },
   {
-    "tender": "PROBLEM"
+    "area": "PROBLEM"
+  },
+  {
+    "metatarsal": "PROBLEM"
+  },
+  {
+    "Grossly nonfocal": "PROBLEM"
   },
   {
     "depression": "PROBLEM"
@@ -82,6 +127,9 @@
   },
   {
     "falls": "PROBLEM"
+  },
+  {
+    "DISCHARGE DIAGNOSES": "PROBLEM"
   },
   {
     "Falls": "PROBLEM"
@@ -111,64 +159,67 @@
     "Hypothyroidism": "PROBLEM"
   },
   {
+    "Stable": "PROBLEM"
+  },
+  {
     "Tylenol": "DRUG"
   },
   {
     "Xanax": "DRUG"
   },
   {
-    "Lasix": "DRUG"
+    "Lasix 80 mg daily": "DRUG"
   },
   {
-    "Isordil": "DRUG"
+    "Isordil 10 mg t.i.d.": "DRUG"
   },
   {
-    "KCl": "DRUG"
+    "KCl 20 mEq b.i.d.": "DRUG"
   },
   {
-    "lactulose": "DRUG"
+    "lactulose 10 g daily": "DRUG"
   },
   {
-    "Cozaar": "DRUG"
+    "Cozaar 50 mg daily": "DRUG"
   },
   {
-    "Synthroid": "DRUG"
+    "Synthroid 75 mcg daily": "DRUG"
   },
   {
-    "Singulair": "DRUG"
+    "Singulair 10 mg daily": "DRUG"
   },
   {
-    "Lumigan": "DRUG"
+    "Lumigan one drop both eyes at bed time": "DRUG"
   },
   {
-    "NitroQuick": "DRUG"
+    "NitroQuick p.r.n.": "DRUG"
   },
   {
-    "Pravachol": "DRUG"
+    "Pravachol 20 mg daily": "DRUG"
   },
   {
-    "Feldene": "DRUG"
+    "Feldene 20 mg daily": "DRUG"
   },
   {
-    "Paxil": "DRUG"
+    "Paxil 20 mg daily": "DRUG"
   },
   {
-    "Minipress": "DRUG"
+    "Minipress 2 mg daily": "DRUG"
   },
   {
-    "Provera": "DRUG"
+    "Provera p.r.n.": "DRUG"
   },
   {
-    "Advair": "DRUG"
+    "Advair 250/50 one puff b.i.d.": "DRUG"
   },
   {
-    "Senokot": "DRUG"
+    "Senokot one tablet b.i.d.": "DRUG"
   },
   {
-    "Timoptic": "DRUG"
+    "Timoptic one drop OU daily": "DRUG"
   },
   {
-    "verapamil": "DRUG"
+    "verapamil 80 mg b.i.d.": "DRUG"
   },
   {
     "discharge summary": "PROBLEM"

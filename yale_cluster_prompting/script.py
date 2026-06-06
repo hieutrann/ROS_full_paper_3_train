@@ -42,7 +42,7 @@ from sklearn.model_selection import train_test_split
 
 train_notes, test_notes = train_test_split(
     os.listdir("notes"),
-    test_size=0.9,
+    test_size=0.97,
     random_state=42,
     shuffle=True
 )
@@ -72,7 +72,7 @@ df_train['filename'] = df_train['note'].str[0]
 df_train['text'] = df_train['note'].str[1]
 train_embeddings = model_enc.encode(df_train['text'].tolist(), convert_to_tensor=True)
 
-n_clusters = 5
+n_clusters = 4
 kmeans = KMeans(n_clusters=n_clusters, random_state=random_state)
 labels = kmeans.fit_predict(train_embeddings.to('cpu').numpy())
 df_train['cluster'] = labels
@@ -176,7 +176,8 @@ for idx, t in enumerate(sorted(zip(df_test['filename'], df_test['cluster']))):
         ])
         
         matches = few_shots_generation(labels_pool_df, sentences_pool, cluster=cluster)
-        
+        print(matches)
+
         few_shots = []
         for idx, i in enumerate(matches):
             test_text = f"Example {idx+1}\n"

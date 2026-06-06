@@ -1,0 +1,38 @@
+[
+  {
+    "Multiple contusions": "PROBLEM"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "motor vehicle collision": "PROBLEM"
+  },
+  {
+    "CT scan": "TEST"
+  },
+  {
+    "CT scan of the cervical spine": "TEST"
+  },
+  {
+    "CT scan of the brain": "TEST"
+  },
+  {
+    "CT scan without contrast": "TEST"
+  },
+  {
+    "CT scan with contrast": "TEST"
+  },
+  {
+    "abdominal CT scan": "TEST"
+  },
+  {
+    "Tylenol": "TREATMENT"
+  },
+  {
+    "Vicodin": "TREATMENT"
+  },
+  {
+    "Flexeril": "TREATMENT"
+  }
+]

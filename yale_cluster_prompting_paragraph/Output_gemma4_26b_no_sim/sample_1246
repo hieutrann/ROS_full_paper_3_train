@@ -6,9 +6,6 @@
     "Morbid obesity": "PROBLEM"
   },
   {
-    "laparoscopic Roux-en-Y gastric bypass": "TREATMENT"
-  },
-  {
     "Hypertension": "PROBLEM"
   },
   {
@@ -27,9 +24,6 @@
     "Medifast": "TREATMENT"
   },
   {
-    "bariatric surgery": "TREATMENT"
-  },
-  {
     "gastric bypass": "TREATMENT"
   },
   {
@@ -37,9 +31,6 @@
   },
   {
     "heparin": "DRUG"
-  },
-  {
-    "mobilization": "TREATMENT"
   },
   {
     "SCDs": "TREATMENT"
@@ -51,22 +42,10 @@
     "CPAP": "TREATMENT"
   },
   {
-    "labs": "TEST"
-  },
-  {
-    "bariatric clear liquids": "TREATMENT"
-  },
-  {
-    "fever": "PROBLEM"
-  },
-  {
     "omeprazole": "DRUG"
   },
   {
     "Lortab": "DRUG"
-  },
-  {
-    "bariatric clear liquids": "TREATMENT"
   },
   {
     "laparoscopic roux-en-y gastric bypass": "TREATMENT"
@@ -75,15 +54,6 @@
     "roux-en-y": "TREATMENT"
   },
   {
-    "bariatric clear liquids": "TREATMENT"
-  },
-  {
     "gastric bypass": "TREATMENT"
-  },
-  {
-    "laparoscopic": "TREATMENT"
-  },
-  {
-    "bypass": "TREATMENT"
   }
 ]

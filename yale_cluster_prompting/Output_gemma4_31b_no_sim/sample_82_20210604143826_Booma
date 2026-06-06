@@ -1,5 +1,8 @@
 [
   {
+    "Hypertension": "PROBLEM"
+  },
+  {
     "hypertension": "PROBLEM"
   },
   {
@@ -39,9 +42,6 @@
     "fall": "PROBLEM"
   },
   {
-    "fell": "PROBLEM"
-  },
-  {
     "rapid atrial tachyarrhythmia": "PROBLEM"
   },
   {
@@ -69,7 +69,7 @@
     "normal sinus rhythm": "PROBLEM"
   },
   {
-    "frequent APCs": "PROBLEM"
+    "APCs": "PROBLEM"
   },
   {
     "potassium": "TEST"
@@ -81,16 +81,10 @@
     "pain": "PROBLEM"
   },
   {
-    "fall": "PROBLEM"
-  },
-  {
     "chest pain": "PROBLEM"
   },
   {
     "shortness of breath": "PROBLEM"
-  },
-  {
-    "fall": "PROBLEM"
   },
   {
     "severe tricuspid regurgitation": "PROBLEM"
@@ -114,10 +108,7 @@
     "bi-atrial enlargement": "PROBLEM"
   },
   {
-    "Persantine": "DRUG"
-  },
-  {
-    "Myoview nuclear rest-stress test scan": "TEST"
+    "Persantine Myoview nuclear rest-stress test scan": "TEST"
   },
   {
     "mitral valve regurgitation": "PROBLEM"
@@ -135,7 +126,7 @@
     "normal sinus rhythm": "PROBLEM"
   },
   {
-    "frequent APCs": "PROBLEM"
+    "APCs": "PROBLEM"
   },
   {
     "wandering atrial pacemaker": "PROBLEM"
@@ -258,16 +249,13 @@
     "depressed": "PROBLEM"
   },
   {
+    "rheumatologic conditions": "PROBLEM"
+  },
+  {
     "psoriasis": "PROBLEM"
   },
   {
     "lupus": "PROBLEM"
-  },
-  {
-    "PHYSICAL EXAM": "TEST"
-  },
-  {
-    "temperature": "TEST"
   },
   {
     "blood pressure": "TEST"
@@ -303,13 +291,10 @@
     "left hip fracture": "PROBLEM"
   },
   {
-    "Cardiac Exam": "TEST"
+    "ectopic beats": "PROBLEM"
   },
   {
-    "frequent ectopic beats": "PROBLEM"
-  },
-  {
-    "2/6 systolic ejection murmur": "PROBLEM"
+    "systolic ejection murmur": "PROBLEM"
   },
   {
     "soft holosystolic murmur": "PROBLEM"
@@ -393,7 +378,7 @@
     "EKGs": "TEST"
   },
   {
-    "Initial EKG": "TEST"
+    "EKG": "TEST"
   },
   {
     "MAT": "PROBLEM"
@@ -414,13 +399,13 @@
     "lateral T-wave changes": "PROBLEM"
   },
   {
-    "Followup EKG": "TEST"
+    "EKG": "TEST"
   },
   {
     "normal sinus rhythm": "PROBLEM"
   },
   {
-    "frequent APCs": "PROBLEM"
+    "APCs": "PROBLEM"
   },
   {
     "hypertension": "PROBLEM"
@@ -465,12 +450,6 @@
     "troponins": "TEST"
   },
   {
-    "stress": "PROBLEM"
-  },
-  {
-    "fall": "PROBLEM"
-  },
-  {
     "multifocal atrial tachycardia": "PROBLEM"
   },
   {
@@ -478,9 +457,6 @@
   },
   {
     "shortness of breath": "PROBLEM"
-  },
-  {
-    "fall": "PROBLEM"
   },
   {
     "left hip surgery": "TREATMENT"
@@ -498,7 +474,7 @@
     "heart rate": "TEST"
   },
   {
-    "electrolytes": "TEST"
+    "electrolytes": "DRUG"
   },
   {
     "beta-blockers": "DRUG"
@@ -555,15 +531,30 @@
     "hip fracture": "PROBLEM"
   },
   {
+    "atrial": "PROBLEM"
+  },
+  {
     "tachycardia": "PROBLEM"
+  },
+  {
+    "rhythm": "TEST"
   },
   {
     "apcs": "PROBLEM"
   },
   {
+    "cardiac": "PROBLEM"
+  },
+  {
     "regurgitation": "PROBLEM"
   },
   {
+    "aortic": "PROBLEM"
+  },
+  {
     "hypertension": "PROBLEM"
+  },
+  {
+    "pulmonary": "PROBLEM"
   }
 ]

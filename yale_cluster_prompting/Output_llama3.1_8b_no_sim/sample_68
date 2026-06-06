@@ -1,15 +1,6 @@
 [
   {
-    "General Medicine": "TEST"
-  },
-  {
-    "Gen Med": "TEST"
-  },
-  {
-    "Progress Note": "TEST"
-  },
-  {
-    "General Medicine": "TEST"
+    "General Medicine": "TREATMENT"
   },
   {
     "diabetes mellitus": "PROBLEM"
@@ -18,10 +9,7 @@
     "cerebrovascular accident": "PROBLEM"
   },
   {
-    "discomfort": "PROBLEM"
-  },
-  {
-    "right side": "PROBLEM"
+    "70-year-old male": "PROBLEM"
   },
   {
     "EMG studies": "TEST"
@@ -33,7 +21,7 @@
     "neurologist": "PROBLEM"
   },
   {
-    "medications": "DRUG"
+    "medications": "PROBLEM"
   },
   {
     "blood sugars": "TEST"
@@ -51,13 +39,10 @@
     "alcohol": "PROBLEM"
   },
   {
-    "MEDICATIONS": "DRUG"
+    "MEDICATIONS": "TREATMENT"
   },
   {
     "ALLERGIES": "PROBLEM"
-  },
-  {
-    "Vitals": "TEST"
   },
   {
     "Wt": "TEST"
@@ -93,7 +78,7 @@
     "1+ pedal pulse": "TEST"
   },
   {
-    "Lungs": "PROBLEM"
+    "Diminished but clear": "TEST"
   },
   {
     "Abdomen": "PROBLEM"
@@ -102,13 +87,10 @@
     "prostate check": "TEST"
   },
   {
-    "Gill": "PROBLEM"
+    "Gill.": "PROBLEM"
   },
   {
     "monofilament testing": "TEST"
-  },
-  {
-    "sensation": "PROBLEM"
   },
   {
     "IMPRESSION": "TEST"
@@ -117,7 +99,7 @@
     "Diabetes mellitus": "PROBLEM"
   },
   {
-    "2": "PROBLEM"
+    "2": "TEST"
   },
   {
     "Neuropathy": "PROBLEM"
@@ -129,13 +111,16 @@
     "cerebrovascular accident": "PROBLEM"
   },
   {
-    "medications": "DRUG"
+    "medications": "TREATMENT"
   },
   {
     "A1c": "TEST"
   },
   {
     "BMP": "TEST"
+  },
+  {
+    "colonoscopy": "TEST"
   },
   {
     "colonoscopy": "TEST"
@@ -156,7 +141,7 @@
     "Accu-Cheks": "TEST"
   },
   {
-    "p.r.n.": "TREATMENT"
+    "p.r.n.": "TEST"
   },
   {
     "diabetes mellitus": "PROBLEM"
@@ -169,9 +154,6 @@
   },
   {
     "cerebrovascular accident": "PROBLEM"
-  },
-  {
-    "progerss note": "TREATMENT"
   },
   {
     "insulin": "DRUG"

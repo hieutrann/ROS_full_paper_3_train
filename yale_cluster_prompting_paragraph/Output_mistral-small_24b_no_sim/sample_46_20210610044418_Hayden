@@ -15,13 +15,22 @@
     "Chronic pain syndrome": "PROBLEM"
   },
   {
-    "back": "PROBLEM"
+    "back pain": "PROBLEM"
   },
   {
     "buttock": "PROBLEM"
   },
   {
     "bilateral leg pain": "PROBLEM"
+  },
+  {
+    "pars defects": "PROBLEM"
+  },
+  {
+    "spondylolysis": "PROBLEM"
+  },
+  {
+    "instability": "PROBLEM"
   },
   {
     "L5 Gill procedure": "TREATMENT"
@@ -48,15 +57,15 @@
     "pedicle fixation": "TREATMENT"
   },
   {
-    "p. o. fluids": "DRUG"
-  },
-  {
-    "diet": "DRUG"
-  },
-  {
     "preoperative pain medication": "DRUG"
   },
   {
-    "other medications": "DRUG"
+    "discharge medications": "DRUG"
+  },
+  {
+    "fluids": "DRUG"
+  },
+  {
+    "diet": "DRUG"
   }
 ]

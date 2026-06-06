@@ -6,13 +6,13 @@
     "urinary tract infection": "PROBLEM"
   },
   {
-    "patient": "PROBLEM"
+    "feeling a bit better": "PROBLEM"
   },
   {
     "Temperature": "TEST"
   },
   {
-    "102.1": "TEST"
+    "temperature": "TEST"
   },
   {
     "auscultation": "TEST"
@@ -24,7 +24,7 @@
     "murmurs": "PROBLEM"
   },
   {
-    "ABDOMEN": "PROBLEM"
+    "Benign": "PROBLEM"
   },
   {
     "renal angle": "PROBLEM"
@@ -45,13 +45,19 @@
     "White count": "TEST"
   },
   {
+    "15.5": "TEST"
+  },
+  {
+    "35,000": "TEST"
+  },
+  {
     "Hemoglobin": "TEST"
   },
   {
-    "hematocrit": "TEST"
+    "Hematocrit": "TEST"
   },
   {
-    "platelets": "TEST"
+    "Platelets": "TEST"
   },
   {
     "BUN": "TEST"
@@ -75,7 +81,7 @@
     "doripenem": "DRUG"
   },
   {
-    "2": "TEST"
+    "2": "TREATMENT"
   },
   {
     "Urinary tract infection": "PROBLEM"
@@ -102,7 +108,7 @@
     "decompensation": "PROBLEM"
   },
   {
-    "5": "PROBLEM"
+    "5": "TEST"
   },
   {
     "Diabetes": "PROBLEM"
@@ -114,9 +120,6 @@
     "insulin": "DRUG"
   },
   {
-    "6": "PROBLEM"
-  },
-  {
     "pulmonary embolism": "PROBLEM"
   },
   {
@@ -126,19 +129,16 @@
     "Coumadin": "DRUG"
   },
   {
-    "7": "PROBLEM"
-  },
-  {
     "coronary artery disease": "PROBLEM"
   },
   {
-    "Troponin": "PROBLEM"
+    "Troponin": "TEST"
   },
   {
-    "Cardiologist": "PROBLEM"
+    "Cardiologist": "TREATMENT"
   },
   {
-    "medical treatment": "TREATMENT"
+    "treatment": "TREATMENT"
   },
   {
     "troponin": "PROBLEM"
@@ -159,7 +159,7 @@
     "troponin": "TEST"
   },
   {
-    "urinary": "PROBLEM"
+    "urinary": "TEST"
   },
   {
     "infection": "PROBLEM"

@@ -12,16 +12,10 @@
     "herniated nucleus pulposus": "PROBLEM"
   },
   {
-    "C4-C5": "PROBLEM"
-  },
-  {
-    "C5-C6": "PROBLEM"
-  },
-  {
-    "C6-C7": "PROBLEM"
-  },
-  {
     "stenosis": "PROBLEM"
+  },
+  {
+    "ADMISSION DIAGNOSES": "TEST"
   },
   {
     "Neck pain": "PROBLEM"
@@ -37,6 +31,9 @@
   },
   {
     "stenosis": "PROBLEM"
+  },
+  {
+    "DISCHARGE DIAGNOSES": "TEST"
   },
   {
     "Neck pain": "PROBLEM"
@@ -58,15 +55,6 @@
   },
   {
     "decompression": "TREATMENT"
-  },
-  {
-    "C4-C5": "PROBLEM"
-  },
-  {
-    "C5-C6": "PROBLEM"
-  },
-  {
-    "C6-C7": "PROBLEM"
   },
   {
     "Arthrodesis": "TREATMENT"
@@ -96,16 +84,13 @@
     "hand": "PROBLEM"
   },
   {
-    "symptoms": "PROBLEM"
-  },
-  {
     "weakness": "PROBLEM"
   },
   {
     "right upper extremity": "PROBLEM"
   },
   {
-    "imaging studies": "TEST"
+    "medications": "DRUG"
   },
   {
     "cervical spondylosis": "PROBLEM"
@@ -117,13 +102,7 @@
     "stenosis": "PROBLEM"
   },
   {
-    "C4-C5": "PROBLEM"
-  },
-  {
-    "C5-C6": "PROBLEM"
-  },
-  {
-    "C6-C7": "PROBLEM"
+    "imaging studies": "TEST"
   },
   {
     "liver surgery": "TREATMENT"
@@ -142,12 +121,6 @@
   },
   {
     "tingling": "PROBLEM"
-  },
-  {
-    "right thumb": "PROBLEM"
-  },
-  {
-    "right index finger": "PROBLEM"
   },
   {
     "dysphagia": "PROBLEM"
@@ -183,7 +156,7 @@
     "cervical": "PROBLEM"
   },
   {
-    "anterior": "PROBLEM"
+    "anterior": "TREATMENT"
   },
   {
     "herniated": "PROBLEM"

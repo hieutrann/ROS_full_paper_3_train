@@ -3,9 +3,6 @@
     "morbid obesity": "PROBLEM"
   },
   {
-    "BMI": "TEST"
-  },
-  {
     "Laparoscopic gastric bypass": "TREATMENT"
   },
   {
@@ -21,6 +18,6 @@
     "Colace": "DRUG"
   },
   {
-    "liquid diet": "TREATMENT"
+    "BMI": "TEST"
   }
 ]

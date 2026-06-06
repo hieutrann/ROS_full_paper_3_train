@@ -15,16 +15,13 @@
     "stenosis": "PROBLEM"
   },
   {
-    "ADMISSION DIAGNOSES": "PROBLEM"
-  },
-  {
     "Neck pain": "PROBLEM"
   },
   {
-    "right upper extremity radiculopathy": "PROBLEM"
+    "radiculopathy": "PROBLEM"
   },
   {
-    "2": "TEST"
+    "2": "TREATMENT"
   },
   {
     "Cervical spondylosis": "PROBLEM"
@@ -36,16 +33,16 @@
     "stenosis": "PROBLEM"
   },
   {
-    "DISCHARGE DIAGNOSES": "PROBLEM"
+    "DISCHARGE DIAGNOSES": "TREATMENT"
   },
   {
     "Neck pain": "PROBLEM"
   },
   {
-    "right upper extremity radiculopathy": "PROBLEM"
+    "radiculopathy": "PROBLEM"
   },
   {
-    "2": "TEST"
+    "2": "TREATMENT"
   },
   {
     "Cervical spondylosis": "PROBLEM"
@@ -60,10 +57,22 @@
     "OPERATIVE PROCEDURES": "TREATMENT"
   },
   {
-    "Anterior cervical discectomy with decompression": "TREATMENT"
+    "cervical discectomy": "TREATMENT"
   },
   {
-    "2": "TEST"
+    "decompression": "TREATMENT"
+  },
+  {
+    "C4-C5": "TEST"
+  },
+  {
+    "C5-C6": "TEST"
+  },
+  {
+    "C6-C7": "TEST"
+  },
+  {
+    "2": "TREATMENT"
   },
   {
     "Arthrodesis": "TREATMENT"
@@ -81,7 +90,7 @@
     "C6-C7": "TEST"
   },
   {
-    "3": "PROBLEM"
+    "3": "TREATMENT"
   },
   {
     "Spinal instrumentation": "TREATMENT"
@@ -105,7 +114,7 @@
     "neck pain": "PROBLEM"
   },
   {
-    "right shoulder blade": "PROBLEM"
+    "shoulder blade": "PROBLEM"
   },
   {
     "right shoulder": "PROBLEM"
@@ -114,16 +123,10 @@
     "right upper extremity": "PROBLEM"
   },
   {
-    "hand": "PROBLEM"
-  },
-  {
-    "persistent symptoms": "PROBLEM"
+    "right hand": "PROBLEM"
   },
   {
     "weakness": "PROBLEM"
-  },
-  {
-    "upper extremity": "PROBLEM"
   },
   {
     "medications": "DRUG"
@@ -153,19 +156,22 @@
     "IV morphine": "DRUG"
   },
   {
-    "right shoulder pain": "PROBLEM"
+    "shoulder pain": "PROBLEM"
   },
   {
     "operative site soreness": "PROBLEM"
   },
   {
-    "pain down the arm": "PROBLEM"
+    "pain": "PROBLEM"
   },
   {
-    "tingling of the right thumb": "PROBLEM"
+    "tingling": "PROBLEM"
   },
   {
-    "tingling of the right index finger": "PROBLEM"
+    "thumb": "PROBLEM"
+  },
+  {
+    "finger": "PROBLEM"
   },
   {
     "dysphagia": "PROBLEM"
@@ -183,9 +189,6 @@
     "Flexeril": "DRUG"
   },
   {
-    "Instructions": "TREATMENT"
-  },
-  {
     "radiculopathy": "PROBLEM"
   },
   {
@@ -195,9 +198,12 @@
     "neck pain": "PROBLEM"
   },
   {
+    "anterior cervical discectomy": "TREATMENT"
+  },
+  {
     "herniated nucleus pulposus": "PROBLEM"
   },
   {
-    "anterior cervical discectomy": "TREATMENT"
+    "cervical": "PROBLEM"
   }
 ]

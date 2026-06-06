@@ -9,22 +9,13 @@
     "pain in the toes": "PROBLEM"
   },
   {
-    "right foot": "PROBLEM"
-  },
-  {
-    "moderate pain": "PROBLEM"
-  },
-  {
-    "sharp quality pain": "PROBLEM"
-  },
-  {
     "paraesthesias": "PROBLEM"
   },
   {
     "radiation of the pain": "PROBLEM"
   },
   {
-    "bilateral shoulder pains": "PROBLEM"
+    "shoulder pains": "PROBLEM"
   },
   {
     "sinus allergies": "PROBLEM"
@@ -63,13 +54,16 @@
     "hernia surgery": "TREATMENT"
   },
   {
-    "bilateral mastectomies": "TREATMENT"
-  },
-  {
-    "benign disease": "PROBLEM"
+    "mastectomies": "TREATMENT"
   },
   {
     "hysterectomy": "TREATMENT"
+  },
+  {
+    "right shoulder surgery": "TREATMENT"
+  },
+  {
+    "left shoulder surgery": "TREATMENT"
   },
   {
     "laparoscopic bowel adhesion removal": "TREATMENT"
@@ -93,7 +87,7 @@
     "right total knee arthroplasty": "TREATMENT"
   },
   {
-    "synovitis of the left knee": "PROBLEM"
+    "synovitis": "PROBLEM"
   },
   {
     "zoster": "PROBLEM"
@@ -147,9 +141,6 @@
     "Lortab": "DRUG"
   },
   {
-    "stroke": "PROBLEM"
-  },
-  {
     "prostate cancer": "PROBLEM"
   },
   {
@@ -189,7 +180,7 @@
     "frequency": "PROBLEM"
   },
   {
-    "paresthesias to the toes": "PROBLEM"
+    "paresthesias": "PROBLEM"
   },
   {
     "shoulder pain": "PROBLEM"
@@ -202,18 +193,6 @@
   },
   {
     "anemia": "PROBLEM"
-  },
-  {
-    "Temperature": "TEST"
-  },
-  {
-    "Blood pressure": "TEST"
-  },
-  {
-    "Pulse": "TEST"
-  },
-  {
-    "Weight": "TEST"
   },
   {
     "adenopathy": "PROBLEM"
@@ -231,16 +210,16 @@
     "rub": "PROBLEM"
   },
   {
-    "carotid bruits": "PROBLEM"
+    "carotid bruits": "TEST"
   },
   {
-    "hepatosplenomegaly": "PROBLEM"
+    "bowel sounds": "TEST"
+  },
+  {
+    "hepatosplenomeglyaly": "PROBLEM"
   },
   {
     "mass": "PROBLEM"
-  },
-  {
-    "axillary adenopathy": "PROBLEM"
   },
   {
     "ankle edema": "PROBLEM"
@@ -250,6 +229,9 @@
   },
   {
     "cyst": "PROBLEM"
+  },
+  {
+    "Deep tendon reflexes": "TEST"
   },
   {
     "atrophic": "PROBLEM"

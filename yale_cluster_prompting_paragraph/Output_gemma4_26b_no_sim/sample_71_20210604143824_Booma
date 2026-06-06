@@ -9,9 +9,6 @@
     "diabetes": "PROBLEM"
   },
   {
-    "diabetic medication": "DRUG"
-  },
-  {
     "sweating": "PROBLEM"
   },
   {
@@ -60,6 +57,9 @@
     "wheeze": "PROBLEM"
   },
   {
+    "bowel sounds": "TEST"
+  },
+  {
     "organomegaly": "PROBLEM"
   },
   {
@@ -72,9 +72,6 @@
     "cyanosis": "PROBLEM"
   },
   {
-    "rash": "PROBLEM"
-  },
-  {
     "CPK": "TEST"
   },
   {
@@ -82,12 +79,6 @@
   },
   {
     "CMP": "TEST"
-  },
-  {
-    "glucose": "TEST"
-  },
-  {
-    "BMP": "TEST"
   },
   {
     "BUN": "TEST"
@@ -100,9 +91,6 @@
   },
   {
     "Urinalysis": "TEST"
-  },
-  {
-    "specific gravity": "TEST"
   },
   {
     "CT of the brain": "TEST"

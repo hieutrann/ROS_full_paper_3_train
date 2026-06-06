@@ -6,6 +6,9 @@
     "high risk behavior": "PROBLEM"
   },
   {
+    "IDENTIFIED PROBLEMS/OUTCOMES": "PROBLEM"
+  },
+  {
     "Depression": "PROBLEM"
   },
   {
@@ -21,16 +24,13 @@
     "paranoia": "PROBLEM"
   },
   {
-    "relapse": "PROBLEM"
-  },
-  {
-    "RTC": "TEST"
-  },
-  {
-    "therapy program": "TREATMENT"
+    "group-oriented therapy program": "TREATMENT"
   },
   {
     "psychotropic medications": "DRUG"
+  },
+  {
+    "individual, group, and family therapy": "TREATMENT"
   },
   {
     "Perceptual disturbances": "PROBLEM"
@@ -45,7 +45,7 @@
     "audiovisual hallucinations": "PROBLEM"
   },
   {
-    "affect": "PROBLEM"
+    "flat affect": "PROBLEM"
   },
   {
     "irritable": "PROBLEM"
@@ -63,10 +63,13 @@
     "homesick": "PROBLEM"
   },
   {
+    "limited interaction with peers": "PROBLEM"
+  },
+  {
     "strange feelings and sensations": "PROBLEM"
   },
   {
-    "DIAGNOSTIC AND THERAPEUTIC TEST/EVALUATIONS": "TEST"
+    "relapse": "PROBLEM"
   },
   {
     "sleep-deprived EEG": "TEST"
@@ -75,13 +78,7 @@
     "EKG": "TEST"
   },
   {
-    "H&P": "TEST"
-  },
-  {
     "psychiatric treatment": "TREATMENT"
-  },
-  {
-    "Basic blood work": "TEST"
   },
   {
     "basic metabolic panel": "TEST"
@@ -120,16 +117,13 @@
     "heart murmur": "PROBLEM"
   },
   {
-    "H&P exam": "TEST"
-  },
-  {
     "CBC": "TEST"
   },
   {
     "Hematocrit": "TEST"
   },
   {
-    "monocytes": "TEST"
+    "absolute monocytes": "TEST"
   },
   {
     "Major depression": "PROBLEM"
@@ -138,40 +132,28 @@
     "psychotic features": "PROBLEM"
   },
   {
-    "acute major medical conditions": "PROBLEM"
+    "Deferred": "PROBLEM"
   },
   {
     "Psychosocial stressors": "PROBLEM"
   },
   {
-    "alert": "PROBLEM"
-  },
-  {
-    "oriented": "PROBLEM"
-  },
-  {
-    "suicidal ideas": "PROBLEM"
-  },
-  {
-    "homicidal ideas": "PROBLEM"
+    "GAF": "TEST"
   },
   {
     "perception disturbances": "PROBLEM"
   },
   {
-    "treatment": "TREATMENT"
-  },
-  {
     "RTC": "TREATMENT"
   },
   {
-    "doctor": "TREATMENT"
+    "family doctor": "TREATMENT"
   },
   {
     "cardiologist": "TREATMENT"
   },
   {
-    "OB/GYN": "TREATMENT"
+    "OB/GYN doctor": "TREATMENT"
   },
   {
     "lab results": "TEST"
@@ -181,9 +163,6 @@
   },
   {
     "Seroquel": "DRUG"
-  },
-  {
-    "#30 pills": "DRUG"
   },
   {
     "Seroquel": "DRUG"
@@ -204,16 +183,10 @@
     "vitamin E": "DRUG"
   },
   {
-    "#30 pills": "DRUG"
-  },
-  {
     "Restoril": "DRUG"
   },
   {
     "anxiety": "PROBLEM"
-  },
-  {
-    "pills": "DRUG"
   },
   {
     "galactorrhea": "PROBLEM"
@@ -229,9 +202,6 @@
   },
   {
     "Risperdal": "DRUG"
-  },
-  {
-    "discharge summary": "TEST"
   },
   {
     "psychiatric": "PROBLEM"
@@ -259,11 +229,5 @@
   },
   {
     "sleep-deprived eeg": "TEST"
-  },
-  {
-    "discharge": "TREATMENT"
-  },
-  {
-    "oriented": "PROBLEM"
   }
 ]

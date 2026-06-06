@@ -1,6 +1,18 @@
 [
   {
-    "VITAL SIGNS": "TEST"
+    "Blood pressure": "TEST"
+  },
+  {
+    "pulse": "TEST"
+  },
+  {
+    "respirations": "TEST"
+  },
+  {
+    "temperature": "TEST"
+  },
+  {
+    "apparent distress": "PROBLEM"
   },
   {
     "EOMI": "TEST"
@@ -9,7 +21,7 @@
     "PERRLA": "TEST"
   },
   {
-    "Sclerae nonicteric": "PROBLEM"
+    "nonicteric": "PROBLEM"
   },
   {
     "lesions": "PROBLEM"
@@ -36,6 +48,9 @@
     "dental work": "TREATMENT"
   },
   {
+    "pain": "PROBLEM"
+  },
+  {
     "carotid bruit": "PROBLEM"
   },
   {
@@ -52,6 +67,15 @@
   },
   {
     "subcutaneous emphysema": "PROBLEM"
+  },
+  {
+    "nodularity": "PROBLEM"
+  },
+  {
+    "auscultation": "TEST"
+  },
+  {
+    "percussion": "TEST"
   },
   {
     "S1": "TEST"
@@ -84,7 +108,16 @@
     "PMI": "TEST"
   },
   {
-    "axillary or supraclavicular adenopathy": "PROBLEM"
+    "inspection": "TEST"
+  },
+  {
+    "palpation": "TEST"
+  },
+  {
+    "axillary adenopathy": "PROBLEM"
+  },
+  {
+    "supraclavicular adenopathy": "PROBLEM"
   },
   {
     "hepatosplenomegaly": "PROBLEM"
@@ -138,6 +171,12 @@
     "rectal masses": "PROBLEM"
   },
   {
+    "distal pulse": "TEST"
+  },
+  {
+    "perfusion": "TEST"
+  },
+  {
     "edema": "PROBLEM"
   },
   {
@@ -148,6 +187,12 @@
   },
   {
     "deep venous thrombosis": "PROBLEM"
+  },
+  {
+    "active and passive range of motion": "TEST"
+  },
+  {
+    "percussion": "TEST"
   },
   {
     "spinous process tenderness": "PROBLEM"
@@ -165,7 +210,25 @@
     "Brudzinski signs": "TEST"
   },
   {
-    "premalignant or malignant condition": "PROBLEM"
+    "cranial and peripheral nervous systems": "TEST"
+  },
+  {
+    "strength": "TEST"
+  },
+  {
+    "sensation": "TEST"
+  },
+  {
+    "cerebellar function": "TEST"
+  },
+  {
+    "Gait and station": "TEST"
+  },
+  {
+    "premalignant": "PROBLEM"
+  },
+  {
+    "malignant condition": "PROBLEM"
   },
   {
     "digital palpation": "TEST"

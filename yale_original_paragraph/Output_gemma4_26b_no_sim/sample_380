@@ -39,7 +39,7 @@
     "coronary disease": "PROBLEM"
   },
   {
-    "stroke": "PROBLEM"
+    "stroke risk": "PROBLEM"
   },
   {
     "cardiac disease": "PROBLEM"
@@ -64,6 +64,9 @@
   },
   {
     "fasting insulin level": "TEST"
+  },
+  {
+    "nonfasting glucose": "TEST"
   },
   {
     "diabetes": "PROBLEM"
@@ -126,6 +129,9 @@
     "Bactrim": "DRUG"
   },
   {
+    "adhesive tape": "TREATMENT"
+  },
+  {
     "Depression": "PROBLEM"
   },
   {
@@ -150,6 +156,12 @@
     "Echocardiogram": "TEST"
   },
   {
+    "Compression fracture of L1": "PROBLEM"
+  },
+  {
+    "Weight": "TEST"
+  },
+  {
     "Blood pressure": "TEST"
   },
   {
@@ -162,27 +174,54 @@
     "Temperature": "TEST"
   },
   {
+    "murmur": "PROBLEM"
+  },
+  {
+    "S3": "PROBLEM"
+  },
+  {
+    "S4": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
     "EKG": "TEST"
   },
   {
-    "sinus rhythm": "TEST"
+    "sinus rhythm": "PROBLEM"
   },
   {
     "first degree AV block": "PROBLEM"
   },
   {
+    "R-wave progression": "PROBLEM"
+  },
+  {
     "cerebrovascular accident": "PROBLEM"
+  },
+  {
+    "Compression fracture of L1": "PROBLEM"
+  },
+  {
+    "Osteoarthritis of the knee": "PROBLEM"
   },
   {
     "chest x-ray": "TEST"
   },
   {
-    "C-reactive protein cardiac": "TEST"
+    "C-reactive protein": "TEST"
   },
   {
     "colonoscopy": "TEST"
   },
   {
     "Fosamax": "DRUG"
+  },
+  {
+    "preoperative evaluation": "TEST"
+  },
+  {
+    "beta-blocker": "DRUG"
   }
 ]

@@ -1,5 +1,8 @@
 [
   {
+    "Female Physical Exam": "TEST"
+  },
+  {
     "Pupils": "TEST"
   },
   {
@@ -18,37 +21,19 @@
     "jugular venous distention": "PROBLEM"
   },
   {
-    "Regular rate and rhythm": "TEST"
-  },
-  {
-    "S3": "TEST"
-  },
-  {
-    "S4": "TEST"
-  },
-  {
-    "murmurs": "PROBLEM"
-  },
-  {
-    "rubs": "PROBLEM"
-  },
-  {
     "Peripheral pulses": "TEST"
   },
   {
-    "Abdomen": "TEST"
-  },
-  {
     "bowel sounds": "TEST"
-  },
-  {
-    "masses": "PROBLEM"
   },
   {
     "hepatomegaly": "PROBLEM"
   },
   {
     "splenomegaly": "PROBLEM"
+  },
+  {
+    "female external genitalia": "PROBLEM"
   },
   {
     "Speculum exam": "TEST"
@@ -75,6 +60,9 @@
     "edema": "PROBLEM"
   },
   {
+    "Joint Exam": "TEST"
+  },
+  {
     "tenosynovitis": "PROBLEM"
   },
   {
@@ -84,9 +72,6 @@
     "masses": "PROBLEM"
   },
   {
-    "Motor strength": "TEST"
-  },
-  {
     "Deep tendon reflexes": "TEST"
   },
   {
@@ -94,6 +79,9 @@
   },
   {
     "rashes": "PROBLEM"
+  },
+  {
+    "female physical examination": "TEST"
   },
   {
     "bimanual exam": "TEST"

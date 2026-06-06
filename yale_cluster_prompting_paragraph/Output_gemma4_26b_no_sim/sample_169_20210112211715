@@ -3,6 +3,9 @@
     "blood-borne pathogen exposure": "PROBLEM"
   },
   {
+    "Blood-borne pathogen exposure": "PROBLEM"
+  },
+  {
     "blood gas": "TEST"
   },
   {
@@ -36,7 +39,7 @@
     "malaise": "PROBLEM"
   },
   {
-    "headache": "PROBLEM"
+    "Headache": "PROBLEM"
   },
   {
     "congestion": "PROBLEM"
@@ -45,7 +48,7 @@
     "cold": "PROBLEM"
   },
   {
-    "coughing": "PROBLEM"
+    "Coughing": "PROBLEM"
   },
   {
     "sore throat": "PROBLEM"
@@ -84,22 +87,10 @@
     "IV contrast": "DRUG"
   },
   {
-    "temperature": "TEST"
-  },
-  {
-    "pulse": "TEST"
-  },
-  {
-    "respirations": "TEST"
-  },
-  {
-    "blood pressure": "TEST"
-  },
-  {
     "pharyngeal erythema": "PROBLEM"
   },
   {
-    "tonsillar enlargement": "PROBLEM"
+    "Tonsillar enlargement": "PROBLEM"
   },
   {
     "adenopathy": "PROBLEM"
@@ -150,6 +141,6 @@
     "liver function test": "TEST"
   },
   {
-    "pathogen exposure": "PROBLEM"
+    "Hepatitis C": "PROBLEM"
   }
 ]

@@ -1,12 +1,12 @@
 [
   {
-    "Jaw Pain": "PROBLEM"
-  },
-  {
     "toothache": "PROBLEM"
   },
   {
-    "ER Visit": "TEST"
+    "jaw": "PROBLEM"
+  },
+  {
+    "ear": "PROBLEM"
   },
   {
     "Ellis type II dental fracture": "PROBLEM"
@@ -39,7 +39,7 @@
     "headache": "PROBLEM"
   },
   {
-    "swelling to the throat": "PROBLEM"
+    "swelling": "PROBLEM"
   },
   {
     "sore throat": "PROBLEM"
@@ -111,7 +111,10 @@
     "toothache": "PROBLEM"
   },
   {
-    "ear": "PROBLEM"
+    "left lower side": "PROBLEM"
+  },
+  {
+    "left ear": "PROBLEM"
   },
   {
     "ear pain": "PROBLEM"
@@ -162,7 +165,7 @@
     "None": "PROBLEM"
   },
   {
-    "surgical history": "TREATMENT"
+    "surgical history": "PROBLEM"
   },
   {
     "None": "DRUG"
@@ -174,25 +177,22 @@
     "marijuana": "DRUG"
   },
   {
-    "cigarettes": "PROBLEM"
+    "smoke cigarettes": "PROBLEM"
   },
   {
-    "VITAL SIGNS": "TEST"
+    "Temperature": "TEST"
   },
   {
-    "Temperature 98.2 oral": "TEST"
+    "blood pressure": "TEST"
   },
   {
-    "blood pressure is 168/84": "TEST"
+    "pulse": "TEST"
   },
   {
-    "pulse is 87": "TEST"
+    "respirations": "TEST"
   },
   {
-    "respirations 16": "TEST"
-  },
-  {
-    "oxygen saturation is 100% on room air": "TEST"
+    "oxygen saturation": "TEST"
   },
   {
     "well nourished": "PROBLEM"
@@ -201,13 +201,25 @@
     "well developed": "PROBLEM"
   },
   {
-    "patient": "PROBLEM"
+    "healthy": "PROBLEM"
   },
   {
     "acute distress": "PROBLEM"
   },
   {
-    "HEENT": "TEST"
+    "pleasant": "PROBLEM"
+  },
+  {
+    "cooperative": "PROBLEM"
+  },
+  {
+    "atraumatic": "PROBLEM"
+  },
+  {
+    "normocephalic": "PROBLEM"
+  },
+  {
+    "nontender": "PROBLEM"
   },
   {
     "cornea": "PROBLEM"
@@ -222,6 +234,9 @@
     "audible congestion": "PROBLEM"
   },
   {
+    "Nose": "TEST"
+  },
+  {
     "sinuses": "PROBLEM"
   },
   {
@@ -234,7 +249,7 @@
     "swelling": "PROBLEM"
   },
   {
-    "Tympanic membranes": "PROBLEM"
+    "tympanic membranes": "PROBLEM"
   },
   {
     "erythema": "PROBLEM"
@@ -249,6 +264,9 @@
     "bubbles": "PROBLEM"
   },
   {
+    "percussion": "TEST"
+  },
+  {
     "dental fracture": "PROBLEM"
   },
   {
@@ -261,6 +279,9 @@
     "dental caries": "PROBLEM"
   },
   {
+    "gums": "PROBLEM"
+  },
+  {
     "erythema": "PROBLEM"
   },
   {
@@ -268,6 +289,9 @@
   },
   {
     "infection": "PROBLEM"
+  },
+  {
+    "fluctuance": "PROBLEM"
   },
   {
     "abscess": "PROBLEM"
@@ -303,19 +327,22 @@
     "swelling": "PROBLEM"
   },
   {
+    "mouth": "TEST"
+  },
+  {
     "abscess": "PROBLEM"
   },
   {
     "lymphadenopathy": "PROBLEM"
   },
   {
-    "NECK": "TEST"
+    "Supple": "PROBLEM"
   },
   {
     "Nontender": "PROBLEM"
   },
   {
-    "Full range of motion": "TEST"
+    "range of motion": "TEST"
   },
   {
     "meningismus": "PROBLEM"
@@ -333,9 +360,6 @@
     "vertebral artery bruits": "PROBLEM"
   },
   {
-    "Heart is regular rate and rhythm without murmur": "TEST"
-  },
-  {
     "murmur": "PROBLEM"
   },
   {
@@ -345,7 +369,13 @@
     "gallop": "PROBLEM"
   },
   {
-    "RESPIRATIONS": "TEST"
+    "Heart rate": "TEST"
+  },
+  {
+    "Heart rhythm": "TEST"
+  },
+  {
+    "auscultation": "TEST"
   },
   {
     "shortness of breath": "PROBLEM"
@@ -354,19 +384,13 @@
     "Abdomen": "PROBLEM"
   },
   {
+    "nontender": "PROBLEM"
+  },
+  {
     "abnormalities": "PROBLEM"
   },
   {
-    "back": "PROBLEM"
-  },
-  {
-    "arms": "PROBLEM"
-  },
-  {
-    "legs": "PROBLEM"
-  },
-  {
-    "normal use of the extremities": "PROBLEM"
+    "normal use of the extremities": "TEST"
   },
   {
     "rashes": "PROBLEM"
@@ -378,13 +402,13 @@
     "Cranial nerves II through XII": "TEST"
   },
   {
-    "speech": "PROBLEM"
+    "speech": "TEST"
   },
   {
-    "ambulation": "PROBLEM"
+    "ambulation": "TEST"
   },
   {
-    "alert and oriented x4": "TEST"
+    "oriented": "TEST"
   },
   {
     "mood": "PROBLEM"
@@ -399,7 +423,7 @@
     "lymphadenitis": "PROBLEM"
   },
   {
-    "DIAGNOSES": "TEST"
+    "DIAGNOSES": "PROBLEM"
   },
   {
     "ACUTE LEFT JAW PAIN": "PROBLEM"
@@ -414,7 +438,7 @@
     "ELLIS TYPE II FRACTURE": "PROBLEM"
   },
   {
-    "3": "PROBLEM"
+    "3": "TREATMENT"
   },
   {
     "ELEVATED BLOOD PRESSURE": "PROBLEM"
@@ -423,10 +447,13 @@
     "CONDITION UPON DISPOSITION": "PROBLEM"
   },
   {
-    "DISPOSITION": "TEST"
+    "DISPOSITION": "TREATMENT"
   },
   {
     "dentist": "TREATMENT"
+  },
+  {
+    "dentist Dr.": "TREATMENT"
   },
   {
     "X": "TREATMENT"
@@ -444,9 +471,6 @@
     "drowsiness": "PROBLEM"
   },
   {
-    "drowsiness": "PROBLEM"
-  },
-  {
     "driving": "PROBLEM"
   },
   {
@@ -459,16 +483,19 @@
     "toothache": "PROBLEM"
   },
   {
-    "emergency room": "TEST"
+    "worsening of his condition": "PROBLEM"
   },
   {
-    "pen V": "DRUG"
+    "problems": "PROBLEM"
+  },
+  {
+    "symptoms of concern": "PROBLEM"
   },
   {
     "jaw pain": "PROBLEM"
   },
   {
-    "dental appointment": "TEST"
+    "dental appointment": "TREATMENT"
   },
   {
     "ellis type ii fracture": "PROBLEM"

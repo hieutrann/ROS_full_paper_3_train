@@ -9,7 +9,7 @@
     "swallowing function": "PROBLEM"
   },
   {
-    "safety": "PROBLEM"
+    "swallowing function and safety": "PROBLEM"
   },
   {
     "speech therapy": "TREATMENT"
@@ -18,7 +18,13 @@
     "swallowing function": "PROBLEM"
   },
   {
+    "functional communication skills": "PROBLEM"
+  },
+  {
     "safety": "PROBLEM"
+  },
+  {
+    "global aphasia": "PROBLEM"
   },
   {
     "aphasia quotient": "TEST"
@@ -30,25 +36,25 @@
     "G-tube": "TREATMENT"
   },
   {
-    "global aphasia": "PROBLEM"
+    "speech therapy sessions": "TREATMENT"
   },
   {
-    "speech therapy": "TREATMENT"
+    "receptive communication": "PROBLEM"
   },
   {
-    "communication": "PROBLEM"
+    "expressive language": "PROBLEM"
   },
   {
-    "language": "PROBLEM"
+    "multimodality communication skills": "PROBLEM"
   },
   {
     "swallowing function": "PROBLEM"
   },
   {
-    "safety": "PROBLEM"
+    "swallowing safety": "PROBLEM"
   },
   {
-    "SHORT-TERM GOALS": "TEST"
+    "SHORT-TERM GOALS": "TREATMENT"
   },
   {
     "modified barium swallow study": "TEST"
@@ -84,10 +90,10 @@
     "difficulty stating verbally": "PROBLEM"
   },
   {
-    "head gestures": "PROBLEM"
+    "difficulty using head gestures": "PROBLEM"
   },
   {
-    "yes-no questions": "PROBLEM"
+    "respond to yes-no questions": "PROBLEM"
   },
   {
     "difficulty with her expressive language abilities": "PROBLEM"
@@ -132,22 +138,13 @@
     "aphasia": "PROBLEM"
   },
   {
-    "g-tube": "PROBLEM"
+    "g-tube": "TREATMENT"
   },
   {
-    "language evaluation": "TEST"
-  },
-  {
-    "western aphasia battery": "TEST"
-  },
-  {
-    "skilled speech therapy": "TREATMENT"
+    "Western Aphasia Battery": "TEST"
   },
   {
     "speech therapy": "TREATMENT"
-  },
-  {
-    "therapy": "TREATMENT"
   },
   {
     "swallowing function": "TEST"

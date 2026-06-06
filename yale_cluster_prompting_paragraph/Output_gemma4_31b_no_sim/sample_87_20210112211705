@@ -9,7 +9,13 @@
     "vomiting": "PROBLEM"
   },
   {
-    "seizure": "PROBLEM"
+    "probable seizure": "PROBLEM"
+  },
+  {
+    "pneumonia": "PROBLEM"
+  },
+  {
+    "blood count": "TEST"
   },
   {
     "IV antibiotics": "DRUG"
@@ -18,7 +24,7 @@
     "p.o. antibiotics": "DRUG"
   },
   {
-    "temperature": "TEST"
+    "temperature of 102": "PROBLEM"
   },
   {
     "strep": "PROBLEM"
@@ -30,10 +36,10 @@
     "vomiting": "PROBLEM"
   },
   {
-    "seizure": "PROBLEM"
+    "probable seizure": "PROBLEM"
   },
   {
-    "Temperature": "TEST"
+    "Temperature was 104.5": "PROBLEM"
   },
   {
     "lethargic": "PROBLEM"
@@ -48,10 +54,10 @@
     "CSF": "TEST"
   },
   {
-    "anesthesia": "DRUG"
+    "White count": "TEST"
   },
   {
-    "White count": "TEST"
+    "slight shift": "PROBLEM"
   },
   {
     "CSF glucose": "TEST"
@@ -66,10 +72,13 @@
     "febrile seizure": "PROBLEM"
   },
   {
-    "temperature": "TEST"
+    "temperature": "PROBLEM"
   },
   {
     "white count": "TEST"
+  },
+  {
+    "general medicine": "TREATMENT"
   },
   {
     "antibiotics": "DRUG"
@@ -78,7 +87,7 @@
     "febrile seizure": "PROBLEM"
   },
   {
-    "temperature": "TEST"
+    "temperature": "PROBLEM"
   },
   {
     "blood count": "TEST"

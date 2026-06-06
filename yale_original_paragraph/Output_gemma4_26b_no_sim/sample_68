@@ -6,7 +6,7 @@
     "cerebrovascular accident": "PROBLEM"
   },
   {
-    "discomfort on his right side": "PROBLEM"
+    "discomfort": "PROBLEM"
   },
   {
     "EMG studies": "TEST"
@@ -21,10 +21,25 @@
     "insulin": "DRUG"
   },
   {
+    "tobacco": "TREATMENT"
+  },
+  {
+    "alcohol": "TREATMENT"
+  },
+  {
+    "Wt": "TEST"
+  },
+  {
     "B/P": "TEST"
   },
   {
-    "pedal pulse": "TEST"
+    "T": "TEST"
+  },
+  {
+    "P": "TEST"
+  },
+  {
+    "dentition": "PROBLEM"
   },
   {
     "monofilament testing": "TEST"
@@ -63,16 +78,7 @@
     "Accu-Cheks": "TEST"
   },
   {
-    "diabetes mellitus": "PROBLEM"
-  },
-  {
-    "neuropathy": "PROBLEM"
-  },
-  {
-    "post cerebrovascular accident": "PROBLEM"
-  },
-  {
-    "cerebrovascular accident": "PROBLEM"
+    "neurologist": "TREATMENT"
   },
   {
     "insulin": "DRUG"

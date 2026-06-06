@@ -15,16 +15,13 @@
     "peripheral vascular disease": "PROBLEM"
   },
   {
-    "PTA": "TREATMENT"
+    "PTA of right leg": "TREATMENT"
   },
   {
-    "swelling": "PROBLEM"
+    "swelling of the right hand": "PROBLEM"
   },
   {
-    "right hand": "PROBLEM"
-  },
-  {
-    "left foot": "PROBLEM"
+    "swelling of the left foot": "PROBLEM"
   },
   {
     "gout": "PROBLEM"
@@ -36,12 +33,6 @@
     "Diabetes mellitus type 2": "PROBLEM"
   },
   {
-    "Diabetic nephropathy": "PROBLEM"
-  },
-  {
-    "Chronic kidney disease": "PROBLEM"
-  },
-  {
     "Hypertension": "PROBLEM"
   },
   {
@@ -51,13 +42,7 @@
     "Hyperlipidemia": "PROBLEM"
   },
   {
-    "Peripheral vascular disease": "PROBLEM"
-  },
-  {
-    "PTA": "TREATMENT"
-  },
-  {
-    "right lower extremity": "PROBLEM"
+    "PTA of right lower extremity": "TREATMENT"
   },
   {
     "NovoLog": "DRUG"
@@ -96,54 +81,6 @@
     "colchicine": "DRUG"
   },
   {
-    "fever": "PROBLEM"
-  },
-  {
-    "chills": "PROBLEM"
-  },
-  {
-    "dysuria": "PROBLEM"
-  },
-  {
-    "frequency": "PROBLEM"
-  },
-  {
-    "hematuria": "PROBLEM"
-  },
-  {
-    "cough": "PROBLEM"
-  },
-  {
-    "hemoptysis": "PROBLEM"
-  },
-  {
-    "sputum production": "PROBLEM"
-  },
-  {
-    "chest pain": "PROBLEM"
-  },
-  {
-    "orthopnea": "PROBLEM"
-  },
-  {
-    "paroxysmal nocturnal dyspnea": "PROBLEM"
-  },
-  {
-    "Blood pressure": "TEST"
-  },
-  {
-    "temperature": "TEST"
-  },
-  {
-    "pulse": "TEST"
-  },
-  {
-    "respirations": "TEST"
-  },
-  {
-    "weight": "TEST"
-  },
-  {
     "urine culture": "TEST"
   },
   {
@@ -153,13 +90,7 @@
     "hematocrit": "TEST"
   },
   {
-    "segs": "TEST"
-  },
-  {
-    "bands": "TEST"
-  },
-  {
-    "Serum sodium": "TEST"
+    "serum sodium": "TEST"
   },
   {
     "potassium": "TEST"
@@ -195,49 +126,13 @@
     "Urinalysis": "TEST"
   },
   {
-    "white cells": "TEST"
-  },
-  {
-    "protein": "TEST"
-  },
-  {
-    "blood": "TEST"
-  },
-  {
-    "red blood cells": "TEST"
-  },
-  {
     "Urinary tract infection": "PROBLEM"
   },
   {
     "Acute gouty attack": "PROBLEM"
   },
   {
-    "Diabetes mellitus": "PROBLEM"
-  },
-  {
-    "Diabetic nephropathy": "PROBLEM"
-  },
-  {
-    "Hypertension": "PROBLEM"
-  },
-  {
-    "Hypercholesterolemia": "PROBLEM"
-  },
-  {
-    "Peripheral vascular disease": "PROBLEM"
-  },
-  {
-    "PTA": "TREATMENT"
-  },
-  {
-    "Chronic kidney disease": "PROBLEM"
-  },
-  {
     "allopurinol": "DRUG"
-  },
-  {
-    "colchicine": "DRUG"
   },
   {
     "Micardis": "DRUG"

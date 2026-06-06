@@ -6,13 +6,19 @@
     "atrial fibrillation": "PROBLEM"
   },
   {
-    "large cardioembolic stroke": "PROBLEM"
+    "cardioembolic stroke": "PROBLEM"
   },
   {
     "stroke": "PROBLEM"
   },
   {
     "CT scan of the head": "TEST"
+  },
+  {
+    "protocol medication": "DRUG"
+  },
+  {
+    "TPA": "DRUG"
   },
   {
     "atrial fibrillation": "PROBLEM"
@@ -27,7 +33,7 @@
     "Cardizem": "DRUG"
   },
   {
-    "large stroke": "PROBLEM"
+    "stroke": "PROBLEM"
   },
   {
     "cardioembolic": "PROBLEM"
@@ -45,7 +51,7 @@
     "paralyzation": "TREATMENT"
   },
   {
-    "acute second stroke": "PROBLEM"
+    "stroke": "PROBLEM"
   },
   {
     "arteriogram": "TEST"
@@ -54,16 +60,13 @@
     "clot": "PROBLEM"
   },
   {
-    "distal clot": "PROBLEM"
+    "echocardiogram": "TEST"
   },
   {
-    "STAT echocardiogram": "TEST"
+    "clot": "PROBLEM"
   },
   {
-    "clot in the heart": "PROBLEM"
-  },
-  {
-    "patent foramen ovale clot": "PROBLEM"
+    "patent foramen ovale": "PROBLEM"
   },
   {
     "Echo": "TEST"
@@ -78,7 +81,7 @@
     "Coumadin": "DRUG"
   },
   {
-    "chronic AFib": "PROBLEM"
+    "AFib": "PROBLEM"
   },
   {
     "Tremor": "PROBLEM"
@@ -246,6 +249,15 @@
     "CT scan of the head": "TEST"
   },
   {
+    "Chest x-ray": "TEST"
+  },
+  {
+    "ET tube placement": "TREATMENT"
+  },
+  {
+    "cardiomegaly": "PROBLEM"
+  },
+  {
     "interstitial opacities": "PROBLEM"
   },
   {
@@ -261,13 +273,13 @@
     "X-rays of the shoulders": "TEST"
   },
   {
-    "Large cardioembolic stroke": "PROBLEM"
+    "cardioembolic stroke": "PROBLEM"
   },
   {
     "stroke": "PROBLEM"
   },
   {
-    "fluctuating mental status": "PROBLEM"
+    "mental status": "PROBLEM"
   },
   {
     "clot burden": "PROBLEM"
@@ -276,16 +288,13 @@
     "patent foramen ovale": "PROBLEM"
   },
   {
-    "echocardiogram report": "TEST"
+    "echocardiogram": "TEST"
   },
   {
-    "STAT echo": "TEST"
+    "echo": "TEST"
   },
   {
-    "clot burdened in the heart": "PROBLEM"
-  },
-  {
-    "distal clot": "PROBLEM"
+    "clot": "PROBLEM"
   },
   {
     "PFO": "PROBLEM"
@@ -306,7 +315,13 @@
     "beta-blocker": "DRUG"
   },
   {
-    "Cardizem drip": "DRUG"
+    "Parkinson's": "PROBLEM"
+  },
+  {
+    "atrial fibrillation": "PROBLEM"
+  },
+  {
+    "Cardizem": "DRUG"
   },
   {
     "atrial fibrillation": "PROBLEM"
@@ -321,13 +336,16 @@
     "beta-blocker": "DRUG"
   },
   {
+    "beta-blocker": "DRUG"
+  },
+  {
     "calcium channel blocker": "DRUG"
   },
   {
     "Brevibloc": "DRUG"
   },
   {
-    "Esmolol drip": "DRUG"
+    "Esmolol": "DRUG"
   },
   {
     "beta-blocker": "DRUG"
@@ -336,13 +354,13 @@
     "hypertension": "PROBLEM"
   },
   {
-    "Digoxin level": "TEST"
+    "Digoxin": "TEST"
   },
   {
     "TSH": "TEST"
   },
   {
-    "STAT echo": "TEST"
+    "echo": "TEST"
   },
   {
     "ultrasound of the leg": "TEST"
@@ -357,10 +375,13 @@
     "brain swelling": "PROBLEM"
   },
   {
-    "Deep vein thrombosis prophylaxis": "TREATMENT"
+    "electrolytes": "TEST"
   },
   {
-    "thigh-high TED hose": "TREATMENT"
+    "Deep vein thrombosis": "PROBLEM"
+  },
+  {
+    "TED hose": "TREATMENT"
   },
   {
     "SCDs": "TREATMENT"

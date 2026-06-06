@@ -36,18 +36,12 @@
     "Duraphen II": "DRUG"
   },
   {
-    "serous otitis": "PROBLEM"
+    "effusion": "TEST"
   },
   {
-    "atopic dermatitis": "PROBLEM"
+    "adenopathy": "TEST"
   },
   {
-    "weight": "TEST"
-  },
-  {
-    "temperature": "TEST"
-  },
-  {
-    "rate": "TEST"
+    "thyromegaly": "TEST"
   }
 ]

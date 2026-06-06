@@ -1,11 +1,5 @@
 [
   {
-    "MULTISYSTEM EXAM": "TEST"
-  },
-  {
-    "vital signs": "TEST"
-  },
-  {
     "afebrile": "PROBLEM"
   },
   {
@@ -15,31 +9,61 @@
     "heart rate": "TEST"
   },
   {
+    "alert": "PROBLEM"
+  },
+  {
     "conjunctiva": "PROBLEM"
   },
   {
-    "pupil": "TEST"
+    "pupil": "PROBLEM"
   },
   {
     "ptosis": "PROBLEM"
   },
   {
+    "irides": "PROBLEM"
+  },
+  {
+    "ears": "PROBLEM"
+  },
+  {
+    "nose": "PROBLEM"
+  },
+  {
     "Hearing": "PROBLEM"
+  },
+  {
+    "mucosa": "PROBLEM"
   },
   {
     "lesion": "PROBLEM"
   },
   {
+    "palate": "PROBLEM"
+  },
+  {
+    "tongue": "PROBLEM"
+  },
+  {
     "tonsil": "PROBLEM"
   },
   {
-    "pharynx": "PROBLEM"
+    "posterior pharynx": "PROBLEM"
   },
   {
-    "RESPIRATORY": "TEST"
+    "supple": "PROBLEM"
+  },
+  {
+    "thyroid gland": "PROBLEM"
+  },
+  {
+    "respiratory effort": "PROBLEM"
   },
   {
     "Auscultation": "TEST"
+  },
+  {
+    "lung": "PROBLEM"
   },
   {
     "S1": "TEST"
@@ -54,13 +78,7 @@
     "edema": "PROBLEM"
   },
   {
-    "BREASTS": "TEST"
-  },
-  {
-    "breasts": "TEST"
-  },
-  {
-    "axilla": "TEST"
+    "nipple discharge": "PROBLEM"
   },
   {
     "mass": "PROBLEM"
@@ -69,19 +87,52 @@
     "abdomen": "PROBLEM"
   },
   {
+    "rebound": "PROBLEM"
+  },
+  {
+    "guarding": "PROBLEM"
+  },
+  {
+    "liver": "PROBLEM"
+  },
+  {
+    "spleen": "PROBLEM"
+  },
+  {
     "Bowel sounds": "PROBLEM"
+  },
+  {
+    "external genitalia": "PROBLEM"
   },
   {
     "pelvic exam": "TEST"
   },
   {
+    "adnexal masses": "PROBLEM"
+  },
+  {
     "uterus": "PROBLEM"
+  },
+  {
+    "cervical motion tenderness": "PROBLEM"
   },
   {
     "node": "PROBLEM"
   },
   {
-    "MUSCULOSKELETAL": "TEST"
+    "deformity": "PROBLEM"
+  },
+  {
+    "extremities": "PROBLEM"
+  },
+  {
+    "deformity": "PROBLEM"
+  },
+  {
+    "Range of motion": "TEST"
+  },
+  {
+    "Inspection": "TEST"
   },
   {
     "pink": "PROBLEM"
@@ -93,36 +144,57 @@
     "dry": "PROBLEM"
   },
   {
-    "NEUROLOGIC": "TEST"
+    "Deep tendon reflexes": "TEST"
   },
   {
-    "eyes": "TEST"
+    "Sensation": "PROBLEM"
   },
   {
-    "tongue": "TEST"
+    "oriented": "PROBLEM"
   },
   {
-    "heart": "TEST"
+    "judgment": "PROBLEM"
   },
   {
-    "ears": "TEST"
+    "insight": "PROBLEM"
   },
   {
-    "nose": "TEST"
+    "general medicine": "PROBLEM"
   },
   {
-    "respiratory": "TEST"
+    "eyes": "PROBLEM"
   },
   {
-    "extremities": "TEST"
+    "constitutional": "PROBLEM"
   },
   {
-    "breasts": "TEST"
+    "tongue": "PROBLEM"
   },
   {
-    "oropharynx": "TEST"
+    "multisystem": "PROBLEM"
   },
   {
-    "neck": "TEST"
+    "heart": "PROBLEM"
+  },
+  {
+    "ears": "PROBLEM"
+  },
+  {
+    "nose": "PROBLEM"
+  },
+  {
+    "respiratory": "PROBLEM"
+  },
+  {
+    "extremities": "PROBLEM"
+  },
+  {
+    "breasts": "PROBLEM"
+  },
+  {
+    "oropharynx": "PROBLEM"
+  },
+  {
+    "neck": "PROBLEM"
   }
 ]

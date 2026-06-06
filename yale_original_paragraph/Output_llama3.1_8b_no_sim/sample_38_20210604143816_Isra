@@ -1,6 +1,6 @@
 [
   {
-    "Gastroenteritis": "PROBLEM"
+    "gastroenteritis": "PROBLEM"
   },
   {
     "autism": "PROBLEM"
@@ -12,7 +12,19 @@
     "hyperactivity": "PROBLEM"
   },
   {
-    "weight loss": "PROBLEM"
+    "MiraLax": "DRUG"
+  },
+  {
+    "Adderall": "DRUG"
+  },
+  {
+    "clonidine": "DRUG"
+  },
+  {
+    "Gastroenteritis": "PROBLEM"
+  },
+  {
+    "Autism": "PROBLEM"
   },
   {
     "Adderall": "DRUG"
@@ -24,10 +36,10 @@
     "MiraLax": "DRUG"
   },
   {
-    "chest x-ray": "TEST"
+    "TSH": "TEST"
   },
   {
-    "abdominal films": "TEST"
+    "free T4": "TEST"
   },
   {
     "sedimentation rate": "TEST"
@@ -36,10 +48,10 @@
     "magnesium level": "TEST"
   },
   {
-    "TSH": "TEST"
+    "Chest x-ray": "TEST"
   },
   {
-    "free T4": "TEST"
+    "abdominal films": "TEST"
   },
   {
     "Hemoglobin": "TEST"
@@ -103,17 +115,5 @@
   },
   {
     "Thyroid peroxidase antibody studies": "TEST"
-  },
-  {
-    "IV fluids": "TREATMENT"
-  },
-  {
-    "clear liquids": "TREATMENT"
-  },
-  {
-    "regular diet": "TREATMENT"
-  },
-  {
-    "incision and drainage": "TREATMENT"
   }
 ]

@@ -1,9 +1,18 @@
 [
   {
+    "Speech Therapy": "TREATMENT"
+  },
+  {
+    "speech therapy": "TREATMENT"
+  },
+  {
     "cognitive-linguistic deficits": "PROBLEM"
   },
   {
     "cognitive-linguistic deficits": "PROBLEM"
+  },
+  {
+    "speech therapy": "TREATMENT"
   },
   {
     "speech therapy": "TREATMENT"
@@ -21,34 +30,34 @@
     "visuospatial skills": "PROBLEM"
   },
   {
-    "3 step direction": "TEST"
+    "visual scanning": "TEST"
   },
   {
-    "visual scanning tasks": "TEST"
+    "cognitive-linguistic ability": "PROBLEM"
   },
   {
-    "narrative": "TEST"
+    "attention": "PROBLEM"
   },
   {
-    "attention": "TEST"
+    "memory": "PROBLEM"
   },
   {
-    "memory": "TEST"
+    "executive functions": "PROBLEM"
   },
   {
-    "executive functions": "TEST"
+    "language": "PROBLEM"
   },
   {
-    "language": "TEST"
-  },
-  {
-    "visuospatial skill": "TEST"
+    "visuospatial skill": "PROBLEM"
   },
   {
     "cognitive-linguistic deficit": "PROBLEM"
   },
   {
-    "severe impairment": "PROBLEM"
+    "evaluation": "TEST"
+  },
+  {
+    "speech therapy": "TREATMENT"
   },
   {
     "memory": "PROBLEM"
@@ -61,5 +70,20 @@
   },
   {
     "speech therapy": "TREATMENT"
+  },
+  {
+    "visuospatial": "PROBLEM"
+  },
+  {
+    "accuracy": "PROBLEM"
+  },
+  {
+    "linguistic": "PROBLEM"
+  },
+  {
+    "cognitive": "PROBLEM"
+  },
+  {
+    "speech": "PROBLEM"
   }
 ]

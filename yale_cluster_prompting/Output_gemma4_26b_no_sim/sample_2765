@@ -54,7 +54,7 @@
     "Hypertension": "PROBLEM"
   },
   {
-    "renal insufficiency": "PROBLEM"
+    "Mild renal insufficiency": "PROBLEM"
   },
   {
     "Anemia": "PROBLEM"
@@ -66,13 +66,7 @@
     "thick mucous plug": "PROBLEM"
   },
   {
-    "Foley": "TREATMENT"
-  },
-  {
-    "ileal conduit": "TREATMENT"
-  },
-  {
-    "irrigated": "TREATMENT"
+    "symptoms": "PROBLEM"
   },
   {
     "IV antibiotics": "DRUG"
@@ -97,6 +91,9 @@
   },
   {
     "effusion": "PROBLEM"
+  },
+  {
+    "tender to touch": "PROBLEM"
   },
   {
     "patellar tendon": "PROBLEM"

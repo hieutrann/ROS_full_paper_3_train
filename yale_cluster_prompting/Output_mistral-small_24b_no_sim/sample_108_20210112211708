@@ -1,17 +1,5 @@
 [
   {
-    "stroke": "PROBLEM"
-  },
-  {
-    "right hemisphere disorder": "PROBLEM"
-  },
-  {
-    "speech therapy": "TREATMENT"
-  },
-  {
-    "speech therapy": "TREATMENT"
-  },
-  {
     "right hemisphere disorder": "PROBLEM"
   },
   {
@@ -19,6 +7,27 @@
   },
   {
     "speech therapy": "TREATMENT"
+  },
+  {
+    "speech therapy": "TREATMENT"
+  },
+  {
+    "right hemisphere disorder": "PROBLEM"
+  },
+  {
+    "stroke": "PROBLEM"
+  },
+  {
+    "speech therapy": "TREATMENT"
+  },
+  {
+    "speech therapy": "TREATMENT"
+  },
+  {
+    "therapy": "TREATMENT"
+  },
+  {
+    "therapy": "TREATMENT"
   },
   {
     "oral mechanism examination": "TEST"
@@ -33,6 +42,15 @@
     "turn taking skills": "PROBLEM"
   },
   {
+    "conversation": "PROBLEM"
+  },
+  {
+    "narrative": "TEST"
+  },
+  {
+    "three-minute delay": "TEST"
+  },
+  {
     "visual scanning": "PROBLEM"
   },
   {
@@ -42,7 +60,10 @@
     "left neglect": "PROBLEM"
   },
   {
-    "sustained attention goal": "PROBLEM"
+    "sustained attention": "PROBLEM"
+  },
+  {
+    "tasks": "TREATMENT"
   },
   {
     "reading": "PROBLEM"
@@ -57,7 +78,10 @@
     "speech therapy": "TREATMENT"
   },
   {
-    "discharge summary": "TEST"
+    "followup sessions": "TREATMENT"
+  },
+  {
+    "discharge summary": "TREATMENT"
   },
   {
     "outpatient speech therapy": "TREATMENT"

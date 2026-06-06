@@ -6,9 +6,6 @@
     "left-sided chest tightness": "PROBLEM"
   },
   {
-    "emotional argument": "PROBLEM"
-  },
-  {
     "psychological disorders": "PROBLEM"
   },
   {
@@ -16,9 +13,6 @@
   },
   {
     "left-sided chest tightness": "PROBLEM"
-  },
-  {
-    "emotional argument": "PROBLEM"
   },
   {
     "psychological disorders": "PROBLEM"
@@ -30,19 +24,10 @@
     "coronary artery disease": "PROBLEM"
   },
   {
-    "workup": "TEST"
-  },
-  {
-    "ABC Medical Center": "TEST"
-  },
-  {
-    "emergency room": "TEST"
-  },
-  {
     "cardiac workup": "TEST"
   },
   {
-    "telemetry unit": "TEST"
+    "telemetry unit": "TREATMENT"
   },
   {
     "methadone": "DRUG"
@@ -51,13 +36,13 @@
     "morphine": "DRUG"
   },
   {
-    "EKG": "TEST"
-  },
-  {
     "nitroglycerin": "DRUG"
   },
   {
     "chest pain": "PROBLEM"
+  },
+  {
+    "EKG": "TEST"
   },
   {
     "seizure disorder": "PROBLEM"
@@ -85,9 +70,6 @@
   },
   {
     "breast cancer": "PROBLEM"
-  },
-  {
-    "coronary stenting": "TREATMENT"
   },
   {
     "lumpectomy": "TREATMENT"
@@ -138,13 +120,10 @@
     "abortion": "PROBLEM"
   },
   {
-    "OB/GYN": "PROBLEM"
+    "Noncontributory": "PROBLEM"
   },
   {
-    "FAMILY HISTORY": "TEST"
-  },
-  {
-    "boyfriend": "PROBLEM"
+    "boyfriend": "TREATMENT"
   },
   {
     "tobacco abuse": "PROBLEM"
@@ -153,46 +132,31 @@
     "illicit drug abuse": "PROBLEM"
   },
   {
-    "REVIEW OF SYSTEMS": "TEST"
-  },
-  {
     "PHYSICAL EXAMINATION": "TEST"
   },
   {
-    "alert": "TEST"
+    "GENERAL": "TEST"
   },
   {
-    "awake": "TEST"
+    "blood pressure": "PROBLEM"
   },
   {
-    "oriented": "TEST"
+    "heart rate": "PROBLEM"
   },
   {
-    "blood pressure": "TEST"
+    "respiratory rate": "PROBLEM"
   },
   {
-    "heart rate": "TEST"
+    "head": "PROBLEM"
   },
   {
-    "respiratory rate": "TEST"
+    "pupils": "TEST"
   },
   {
-    "HEENT": "TEST"
+    "Extraocular muscles": "TEST"
   },
   {
-    "pupils": "PROBLEM"
-  },
-  {
-    "Extraocular muscles": "PROBLEM"
-  },
-  {
-    "oropharyngeal lesions": "PROBLEM"
-  },
-  {
-    "JV distention": "PROBLEM"
-  },
-  {
-    "carotid bruits": "PROBLEM"
+    "oxygen saturation": "PROBLEM"
   },
   {
     "lymphadenopathy": "PROBLEM"
@@ -201,10 +165,10 @@
     "auscultation": "TEST"
   },
   {
-    "CARDIAC": "TEST"
+    "CARDIAC": "PROBLEM"
   },
   {
-    "ABDOMEN": "TEST"
+    "ABDOMEN": "PROBLEM"
   },
   {
     "Bowel sounds": "TEST"
@@ -213,7 +177,7 @@
     "edema": "PROBLEM"
   },
   {
-    "pulses": "TEST"
+    "Distal pulses": "TEST"
   },
   {
     "nonfocal": "PROBLEM"
@@ -252,9 +216,6 @@
     "liver function tests": "TEST"
   },
   {
-    "cardiac enzymes": "TEST"
-  },
-  {
     "troponin-I": "TEST"
   },
   {
@@ -265,12 +226,6 @@
   },
   {
     "EKG": "TEST"
-  },
-  {
-    "sinus rhythm": "PROBLEM"
-  },
-  {
-    "ST-T wave changes": "PROBLEM"
   },
   {
     "morphine": "DRUG"
@@ -291,9 +246,6 @@
     "Chest pains": "PROBLEM"
   },
   {
-    "psychosomatic component": "PROBLEM"
-  },
-  {
     "chest pain": "PROBLEM"
   },
   {
@@ -303,10 +255,10 @@
     "unstable angina": "PROBLEM"
   },
   {
-    "2": "TREATMENT"
+    "2": "TEST"
   },
   {
-    "pregnancy": "PROBLEM"
+    "early pregnancy": "PROBLEM"
   },
   {
     "OB/GYN": "TREATMENT"
@@ -315,16 +267,13 @@
     "medications": "DRUG"
   },
   {
-    "OB/GYN": "PROBLEM"
-  },
-  {
-    "PCP": "PROBLEM"
-  },
-  {
     "pregnancy": "PROBLEM"
   },
   {
-    "prenatal visits": "TREATMENT"
+    "OB/GYN": "TREATMENT"
+  },
+  {
+    "PCP": "TREATMENT"
   },
   {
     "3": "PROBLEM"
@@ -333,13 +282,7 @@
     "Migraine headaches": "PROBLEM"
   },
   {
-    "medications": "DRUG"
-  },
-  {
     "migraine headache": "PROBLEM"
-  },
-  {
-    "PCP": "TEST"
   },
   {
     "prognosis": "PROBLEM"
@@ -348,16 +291,10 @@
     "acute coronary syndrome": "PROBLEM"
   },
   {
-    "psychosomatic": "PROBLEM"
-  },
-  {
     "coronary artery disease": "PROBLEM"
   },
   {
     "chest tightness": "PROBLEM"
-  },
-  {
-    "emotional argument": "PROBLEM"
   },
   {
     "psychological disorders": "PROBLEM"

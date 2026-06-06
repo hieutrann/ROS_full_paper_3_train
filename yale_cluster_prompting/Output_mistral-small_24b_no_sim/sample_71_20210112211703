@@ -1,18 +1,12 @@
 [
   {
-    "blood pressure": "TEST"
-  },
-  {
-    "surgery": "TREATMENT"
+    "blood pressure": "PROBLEM"
   },
   {
     "IV labetalol": "DRUG"
   },
   {
-    "Blood pressure": "TEST"
-  },
-  {
-    "postsurgery": "TREATMENT"
+    "Blood pressure": "PROBLEM"
   },
   {
     "Perioperative elevated blood pressure": "PROBLEM"
@@ -48,10 +42,10 @@
     "Bilateral inguinal hernia repair": "TREATMENT"
   },
   {
-    "right shoulder surgery": "TREATMENT"
+    "right shoulder surgery with reconstruction": "TREATMENT"
   },
   {
-    "rotator cuff repair": "TREATMENT"
+    "both shoulders rotator cuff repair": "TREATMENT"
   },
   {
     "left knee arthroplasty": "TREATMENT"
@@ -63,22 +57,16 @@
     "laser surgery": "TREATMENT"
   },
   {
-    "surgery": "TREATMENT"
-  },
-  {
     "blood pressure": "TEST"
   },
   {
     "IV labetalol": "DRUG"
   },
   {
-    "Blood pressure": "TEST"
+    "Blood pressure": "PROBLEM"
   },
   {
-    "postsurgery": "TREATMENT"
-  },
-  {
-    "blood pressure": "TEST"
+    "blood pressure": "PROBLEM"
   },
   {
     "shortness of breath": "PROBLEM"
@@ -93,13 +81,16 @@
     "dizziness": "PROBLEM"
   },
   {
-    "CONSTITUTIONAL": "TEST"
-  },
-  {
     "fever": "PROBLEM"
   },
   {
     "general malaise": "PROBLEM"
+  },
+  {
+    "Unremarkable": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
   },
   {
     "shortness of breath": "PROBLEM"
@@ -144,55 +135,58 @@
     "terazosin": "DRUG"
   },
   {
-    "cardiologist": "PROBLEM"
+    "71-year-old": "PROBLEM"
   },
   {
-    "PHYSICAL EXAMINATION": "TEST"
+    "CHEST": "PROBLEM"
   },
   {
-    "CHEST": "TEST"
+    "First and second heart sounds": "TEST"
   },
   {
-    "CARDIOVASCULAR": "TEST"
-  },
-  {
-    "ABDOMEN": "PROBLEM"
+    "Benign": "PROBLEM"
   },
   {
     "swelling": "PROBLEM"
   },
   {
-    "NEUROLOGICAL": "TEST"
+    "alert": "PROBLEM"
   },
   {
-    "hypertension": "PROBLEM"
+    "oriented x3": "PROBLEM"
   },
   {
-    "lisinopril": "DRUG"
+    "Examination": "TEST"
   },
   {
-    "20 mg p.o.": "DRUG"
+    "ASSESSMENT": "PROBLEM"
   },
   {
-    "blood pressure": "TEST"
-  },
-  {
-    "systolic": "TEST"
+    "Perioperative hypertension": "PROBLEM"
   },
   {
     "lisinopril": "DRUG"
   },
   {
-    "blood pressure": "TEST"
+    "20 mg": "DRUG"
   },
   {
-    "150 systolic": "TEST"
+    "blood pressure": "PROBLEM"
+  },
+  {
+    "systolic": "PROBLEM"
   },
   {
     "lisinopril": "DRUG"
   },
   {
-    "primary physician": "PROBLEM"
+    "blood pressure": "PROBLEM"
+  },
+  {
+    "150 systolic": "PROBLEM"
+  },
+  {
+    "40 mg of lisinopril": "DRUG"
   },
   {
     "Prostatic hypertrophy": "PROBLEM"
@@ -207,13 +201,13 @@
     "atrial fibrillation": "PROBLEM"
   },
   {
-    "sinus rhythm": "TEST"
+    "normal sinus rhythm": "PROBLEM"
   },
   {
     "lisinopril": "DRUG"
   },
   {
-    "blood pressure": "TEST"
+    "blood pressure": "PROBLEM"
   },
   {
     "elevated blood pressure": "PROBLEM"
@@ -234,15 +228,12 @@
     "transurethral resection of prostate": "TREATMENT"
   },
   {
-    "blood pressure": "TEST"
+    "blood pressure": "PROBLEM"
   },
   {
     "blood": "TEST"
   },
   {
-    "pressure": "TEST"
-  },
-  {
-    "perioperative": "TEST"
+    "pressure": "PROBLEM"
   }
 ]

@@ -6,19 +6,22 @@
     "stroke": "PROBLEM"
   },
   {
-    "cognitive linguistic deficits": "PROBLEM"
-  },
-  {
     "speech therapy": "TREATMENT"
   },
   {
-    "Cognitive linguistic impairment": "PROBLEM"
+    "cognitive linguistic deficits": "PROBLEM"
   },
   {
     "stroke": "PROBLEM"
   },
   {
+    "cognitive linguistic impairment": "PROBLEM"
+  },
+  {
     "cognitive linguistic deficits": "PROBLEM"
+  },
+  {
+    "speech therapy": "TREATMENT"
   },
   {
     "difficulty with generative naming": "PROBLEM"
@@ -33,25 +36,40 @@
     "speech therapy": "TREATMENT"
   },
   {
-    "therapy": "TREATMENT"
+    "cognitive linguistic abilities": "PROBLEM"
   },
   {
-    "functional mass tasks": "TEST"
+    "functional mass tasks": "PROBLEM"
   },
   {
-    "narrative": "PROBLEM"
+    "narrative": "TEST"
   },
   {
-    "newspaper article": "PROBLEM"
+    "delay": "TEST"
   },
   {
-    "She is able to state 15 items in a broad category within a minute and a half independently": "TEST"
+    "details": "TEST"
+  },
+  {
+    "newspaper article": "TEST"
   },
   {
     "mental flexibility": "PROBLEM"
   },
   {
     "cognitive linguistic abilities": "PROBLEM"
+  },
+  {
+    "therapy": "TREATMENT"
+  },
+  {
+    "teaching": "TREATMENT"
+  },
+  {
+    "independence": "PROBLEM"
+  },
+  {
+    "safety": "PROBLEM"
   },
   {
     "speech therapy": "TREATMENT"

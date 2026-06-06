@@ -1,51 +1,48 @@
 [
   {
-    "Nausea & Vomiting": "PROBLEM"
+    "intractable nausea": "PROBLEM"
   },
   {
-    "intractable nausea and vomiting": "PROBLEM"
+    "vomiting": "PROBLEM"
   },
   {
     "blood-tinged vomit": "PROBLEM"
+  },
+  {
+    "Nausea & Vomiting": "PROBLEM"
   },
   {
     "ER Visit": "TEST"
   },
   {
-    "G1": "TEST"
+    "General Medicine": "TEST"
   },
   {
-    "8 plus weeks": "TEST"
+    "emergency room": "PROBLEM"
   },
   {
-    "28-year-old": "TEST"
+    "admission": "PROBLEM"
   },
   {
-    "emergency room": "TEST"
+    "intractable nausea": "PROBLEM"
   },
   {
-    "admission": "TEST"
-  },
-  {
-    "intractable nausea and vomiting": "PROBLEM"
+    "vomiting": "PROBLEM"
   },
   {
     "blood-tinged vomit": "PROBLEM"
   },
   {
-    "HISTORY OF PRESENT ILLNESS": "TEST"
+    "emergency room": "PROBLEM"
   },
   {
-    "emergency room": "TEST"
-  },
-  {
-    "admission": "TEST"
+    "admission": "PROBLEM"
   },
   {
     "Nonsignificant": "PROBLEM"
   },
   {
-    "surgery": "TREATMENT"
+    "None": "PROBLEM"
   },
   {
     "alcohol": "PROBLEM"
@@ -60,7 +57,7 @@
     "pregnancy": "PROBLEM"
   },
   {
-    "GYNECOLOGICAL HISTORY": "PROBLEM"
+    "GyneCOLOGICAL HISTORY": "PROBLEM"
   },
   {
     "sodium": "PROBLEM"
@@ -93,7 +90,7 @@
     "bacteria": "PROBLEM"
   },
   {
-    "H and H": "TEST"
+    "H": "PROBLEM"
   },
   {
     "Phenergan": "DRUG"
@@ -102,28 +99,19 @@
     "Zofran": "DRUG"
   },
   {
-    "Rocephin": "DRUG"
-  },
-  {
     "bladder infection": "PROBLEM"
   },
   {
-    "hydration": "TREATMENT"
-  },
-  {
-    "Maalox": "DRUG"
-  },
-  {
-    "vomiting": "PROBLEM"
+    "Rocephin": "DRUG"
   },
   {
     "nausea": "PROBLEM"
   },
   {
-    "fluids": "TREATMENT"
+    "vomiting": "PROBLEM"
   },
   {
-    "p.o.": "TEST"
+    "Maalox": "DRUG"
   },
   {
     "food": "PROBLEM"
@@ -141,7 +129,7 @@
     "IV hydration": "TREATMENT"
   },
   {
-    "ALT": "TEST"
+    "ALT": "PROBLEM"
   },
   {
     "nausea": "PROBLEM"
@@ -150,16 +138,7 @@
     "vomiting": "PROBLEM"
   },
   {
-    "followup": "TEST"
-  },
-  {
-    "elevated alt": "TEST"
-  },
-  {
-    "iv hydration": "TREATMENT"
-  },
-  {
-    "emergency": "PROBLEM"
+    "elevated alt": "PROBLEM"
   },
   {
     "nausea": "PROBLEM"

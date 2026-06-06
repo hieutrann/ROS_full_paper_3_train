@@ -183,7 +183,7 @@
     "back pain": "PROBLEM"
   },
   {
-    "PSYCHIATRIC": "PROBLEM"
+    "psychiatric evaluation": "TEST"
   },
   {
     "diabetes mellitus": "PROBLEM"
@@ -193,6 +193,9 @@
   },
   {
     "endocrinologic abnormalities": "PROBLEM"
+  },
+  {
+    "weakness": "PROBLEM"
   },
   {
     "weakness": "PROBLEM"

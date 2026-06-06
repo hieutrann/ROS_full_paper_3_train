@@ -6,6 +6,9 @@
     "vomiting": "PROBLEM"
   },
   {
+    "ant bait": "PROBLEM"
+  },
+  {
     "Borax": "DRUG"
   },
   {
@@ -18,6 +21,12 @@
     "vomiting": "PROBLEM"
   },
   {
+    "VITAL SIGNS": "TEST"
+  },
+  {
+    "afebrile": "PROBLEM"
+  },
+  {
     "pulse oximetry": "TEST"
   },
   {
@@ -28,6 +37,9 @@
   },
   {
     "vomiting": "PROBLEM"
+  },
+  {
+    "borax": "DRUG"
   },
   {
     "vomiting": "PROBLEM"

@@ -9,15 +9,6 @@
     "increased work of breathing": "PROBLEM"
   },
   {
-    "Respiratory distress": "PROBLEM"
-  },
-  {
-    "Reactive airways disease": "PROBLEM"
-  },
-  {
-    "Respiratory distress": "PROBLEM"
-  },
-  {
     "Reactive airways disease": "PROBLEM"
   },
   {
@@ -27,22 +18,13 @@
     "asthma": "PROBLEM"
   },
   {
-    "reactive airways disease": "PROBLEM"
-  },
-  {
     "URI symptoms": "PROBLEM"
   },
   {
-    "cough": "PROBLEM"
+    "nebulized treatments": "TREATMENT"
   },
   {
-    "increased work of breathing": "PROBLEM"
-  },
-  {
-    "nebulized albuterol": "DRUG"
-  },
-  {
-    "respiratory distress": "PROBLEM"
+    "albuterol": "DRUG"
   },
   {
     "corticosteroids": "DRUG"
@@ -54,10 +36,10 @@
     "infiltrate": "PROBLEM"
   },
   {
-    "right upper lobe infiltrate": "PROBLEM"
+    "atelectasis": "PROBLEM"
   },
   {
-    "atelectasis": "PROBLEM"
+    "antibiotics": "DRUG"
   },
   {
     "fever": "PROBLEM"
@@ -70,9 +52,6 @@
   },
   {
     "white count": "TEST"
-  },
-  {
-    "pneumonia": "PROBLEM"
   },
   {
     "amoxicillin": "DRUG"
@@ -93,25 +72,13 @@
     "thyromegaly": "PROBLEM"
   },
   {
-    "masses": "PROBLEM"
-  },
-  {
     "wheezing": "PROBLEM"
   },
   {
     "hepatosplenomegaly": "PROBLEM"
   },
   {
-    "masses": "PROBLEM"
-  },
-  {
     "Xopenex MDI": "DRUG"
-  },
-  {
-    "cough": "PROBLEM"
-  },
-  {
-    "wheeze": "PROBLEM"
   },
   {
     "QVAR 40": "DRUG"
@@ -121,20 +88,5 @@
   },
   {
     "Zithromax": "DRUG"
-  },
-  {
-    "pneumonia": "PROBLEM"
-  },
-  {
-    "onset of cough": "PROBLEM"
-  },
-  {
-    "reactive airways disease": "PROBLEM"
-  },
-  {
-    "respiratory distress": "PROBLEM"
-  },
-  {
-    "asthma": "PROBLEM"
   }
 ]

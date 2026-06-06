@@ -3,9 +3,6 @@
     "foreign body in left eye": "PROBLEM"
   },
   {
-    "foreign body": "PROBLEM"
-  },
-  {
     "foreign body sensation": "PROBLEM"
   },
   {
@@ -30,10 +27,10 @@
     "Dislocated wrist": "PROBLEM"
   },
   {
-    "Cancer": "PROBLEM"
+    "hypertension": "PROBLEM"
   },
   {
-    "hypertension": "PROBLEM"
+    "Cancer": "PROBLEM"
   },
   {
     "Blood pressure": "TEST"
@@ -60,33 +57,30 @@
     "metallic foreign body": "PROBLEM"
   },
   {
-    "removed with the aid of the slit lamp": "TREATMENT"
-  },
-  {
-    "Foreign body OS": "PROBLEM"
-  },
-  {
     "pressure patch": "TREATMENT"
   },
   {
     "foreign body": "PROBLEM"
   },
   {
-    "blurriness": "PROBLEM"
+    "anterior chambers": "TEST"
   },
   {
-    "pain": "PROBLEM"
+    "conjunctiva": "TEST"
+  },
+  {
+    "lens": "TEST"
+  },
+  {
+    "lids": "TEST"
+  },
+  {
+    "blurriness": "PROBLEM"
   },
   {
     "photophobia": "PROBLEM"
   },
   {
-    "sensation": "PROBLEM"
-  },
-  {
-    "slit lamp examination": "TEST"
-  },
-  {
-    "visual acuity": "TEST"
+    "pain": "PROBLEM"
   }
 ]

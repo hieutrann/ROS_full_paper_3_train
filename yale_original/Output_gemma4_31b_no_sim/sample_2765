@@ -9,7 +9,7 @@
     "indwelling Foley": "TREATMENT"
   },
   {
-    "ileal conduit": "TREATMENT"
+    "ileal conduit": "PROBLEM"
   },
   {
     "hypertension": "PROBLEM"
@@ -45,7 +45,7 @@
     "mucous plugging": "PROBLEM"
   },
   {
-    "indwelling Foley": "TREATMENT"
+    "Foley": "TREATMENT"
   },
   {
     "ileal conduit": "PROBLEM"
@@ -66,7 +66,7 @@
     "thick mucous plug": "PROBLEM"
   },
   {
-    "Foley": "TEST"
+    "Foley": "TREATMENT"
   },
   {
     "ileal conduit": "PROBLEM"
@@ -99,7 +99,10 @@
     "effusion": "PROBLEM"
   },
   {
-    "tender to touch of the patellar tendon": "PROBLEM"
+    "tender to touch": "PROBLEM"
+  },
+  {
+    "patellar tendon": "PROBLEM"
   },
   {
     "intraarticular process": "PROBLEM"

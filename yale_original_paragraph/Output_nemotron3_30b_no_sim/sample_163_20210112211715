@@ -1,0 +1,50 @@
+[
+  {
+    "Acute right lobar pneumonia": "PROBLEM"
+  },
+  {
+    "Hypoxemia": "PROBLEM"
+  },
+  {
+    "hypotension": "PROBLEM"
+  },
+  {
+    "Electrolyte abnormality": "PROBLEM"
+  },
+  {
+    "hyponatremia": "PROBLEM"
+  },
+  {
+    "hypokalemia": "PROBLEM"
+  },
+  {
+    "Anemia": "PROBLEM"
+  },
+  {
+    "iron deficiency": "PROBLEM"
+  },
+  {
+    "darkened mole on the scalp": "PROBLEM"
+  },
+  {
+    "scalp skin biopsy": "TREATMENT"
+  },
+  {
+    "liver function tests": "TEST"
+  },
+  {
+    "lobar pneumonia": "PROBLEM"
+  },
+  {
+    "infectious disease": "TREATMENT"
+  },
+  {
+    "skin biopsy": "TREATMENT"
+  },
+  {
+    "white count": "TEST"
+  },
+  {
+    "cultures": "TEST"
+  }
+]

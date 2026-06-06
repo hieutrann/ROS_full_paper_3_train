@@ -12,6 +12,18 @@
     "hemoglobin": "TEST"
   },
   {
+    "transfusion": "TREATMENT"
+  },
+  {
+    "Refractory anemia": "PROBLEM"
+  },
+  {
+    "transfusion dependent": "PROBLEM"
+  },
+  {
+    "blood transfusion": "TREATMENT"
+  },
+  {
     "diabetes": "PROBLEM"
   },
   {
@@ -30,10 +42,25 @@
     "neuropathy": "PROBLEM"
   },
   {
+    "anemia": "PROBLEM"
+  },
+  {
+    "hemoglobin": "TEST"
+  },
+  {
+    "transfusion": "TREATMENT"
+  },
+  {
     "bleeding": "PROBLEM"
   },
   {
     "blood transfusion": "TREATMENT"
+  },
+  {
+    "transfusion": "TREATMENT"
+  },
+  {
+    "anemia": "PROBLEM"
   },
   {
     "B12": "DRUG"
@@ -43,6 +70,9 @@
   },
   {
     "Procrit": "DRUG"
+  },
+  {
+    "anemia": "PROBLEM"
   },
   {
     "fatigue": "PROBLEM"
@@ -120,9 +150,6 @@
     "arcus senilis": "PROBLEM"
   },
   {
-    "jugular venous pressure distention": "PROBLEM"
-  },
-  {
     "adenopathy": "PROBLEM"
   },
   {
@@ -133,6 +160,9 @@
   },
   {
     "refractory anemia": "PROBLEM"
+  },
+  {
+    "transfusion dependent": "PROBLEM"
   },
   {
     "B12": "DRUG"
@@ -165,6 +195,9 @@
     "creatinine": "TEST"
   },
   {
+    "anemia": "PROBLEM"
+  },
+  {
     "serologic evaluation": "TEST"
   },
   {
@@ -195,6 +228,45 @@
     "biopsy": "TEST"
   },
   {
+    "refractory anemia": "PROBLEM"
+  },
+  {
     "ultrasound of his abdomen": "TEST"
+  },
+  {
+    "fullness of the spleen": "PROBLEM"
+  },
+  {
+    "electrophoresis": "TEST"
+  },
+  {
+    "ldh": "TEST"
+  },
+  {
+    "b12": "TEST"
+  },
+  {
+    "folate": "TEST"
+  },
+  {
+    "erythropoietin level": "TEST"
+  },
+  {
+    "reticulocyte count": "TEST"
+  },
+  {
+    "serum protein": "TEST"
+  },
+  {
+    "blood transfusion": "TREATMENT"
+  },
+  {
+    "refractory anemia": "PROBLEM"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "myalgias": "PROBLEM"
   }
 ]

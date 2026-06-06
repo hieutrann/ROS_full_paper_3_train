@@ -6,13 +6,13 @@
     "cognitive-linguistic deficits": "PROBLEM"
   },
   {
-    "skilled speech therapy": "TREATMENT"
+    "speech therapy": "TREATMENT"
   },
   {
     "cognitive-linguistic deficits": "PROBLEM"
   },
   {
-    "Outpatient skilled speech therapy": "TREATMENT"
+    "speech therapy": "TREATMENT"
   },
   {
     "memory": "PROBLEM"
@@ -54,6 +54,18 @@
     "severe impairment": "PROBLEM"
   },
   {
-    "skilled speech therapy": "TREATMENT"
+    "speech therapy": "TREATMENT"
+  },
+  {
+    "memory": "PROBLEM"
+  },
+  {
+    "executive function": "PROBLEM"
+  },
+  {
+    "attention": "PROBLEM"
+  },
+  {
+    "speech therapy": "TREATMENT"
   }
 ]

@@ -1,15 +1,12 @@
 [
   {
+    "General Medicine": "TREATMENT"
+  },
+  {
     "foreign body": "PROBLEM"
   },
   {
     "left eye": "PROBLEM"
-  },
-  {
-    "General Medicine": "TEST"
-  },
-  {
-    "Gen Med Consult - 2": "TEST"
   },
   {
     "foreign body": "PROBLEM"
@@ -21,22 +18,10 @@
     "persistent pain": "PROBLEM"
   },
   {
-    "flush": "TREATMENT"
-  },
-  {
-    "blurriness of vision": "PROBLEM"
-  },
-  {
     "photophobia": "PROBLEM"
   },
   {
     "left eye pain": "PROBLEM"
-  },
-  {
-    "visual acuity": "TEST"
-  },
-  {
-    "photophobia": "PROBLEM"
   },
   {
     "ophthalmologic problems": "PROBLEM"
@@ -66,7 +51,7 @@
     "immunologic": "PROBLEM"
   },
   {
-    "surgies": "TREATMENT"
+    "Surgeries": "TREATMENT"
   },
   {
     "Dislocated wrist": "PROBLEM"
@@ -75,16 +60,13 @@
     "Illnesses": "PROBLEM"
   },
   {
-    "MEDICATIONS": "DRUG"
+    "None": "DRUG"
   },
   {
-    "ALLERGIES": "PROBLEM"
+    "None": "PROBLEM"
   },
   {
     "cigarettes": "PROBLEM"
-  },
-  {
-    "social drinker": "PROBLEM"
   },
   {
     "Computers": "PROBLEM"
@@ -94,9 +76,6 @@
   },
   {
     "hypertension": "PROBLEM"
-  },
-  {
-    "Vital signs": "TEST"
   },
   {
     "Blood pressure": "TEST"
@@ -114,28 +93,7 @@
     "Visual acuity": "TEST"
   },
   {
-    "Bilateral": "TEST"
-  },
-  {
-    "20/25": "TEST"
-  },
-  {
-    "left": "TEST"
-  },
-  {
-    "20/30": "TEST"
-  },
-  {
-    "right": "TEST"
-  },
-  {
     "slit lamp examination": "TEST"
-  },
-  {
-    "lids": "PROBLEM"
-  },
-  {
-    "lacrimal apparatus": "PROBLEM"
   },
   {
     "Anterior chambers": "TEST"
@@ -183,18 +141,24 @@
     "blurriness": "PROBLEM"
   },
   {
+    "photophobia": "PROBLEM"
+  },
+  {
+    "sensation": "PROBLEM"
+  },
+  {
     "slit lamp examination": "TEST"
   },
   {
-    "social drinker": "PROBLEM"
+    "visual acuity": "TEST"
   },
   {
-    "worker": "PROBLEM"
+    "initial clinic visit": "TEST"
   },
   {
-    "foreign": "PROBLEM"
+    "social drinker": "TREATMENT"
   },
   {
-    "body": "PROBLEM"
+    "worker": "TREATMENT"
   }
 ]

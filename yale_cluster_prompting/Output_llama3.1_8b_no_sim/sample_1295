@@ -6,13 +6,10 @@
     "respiratory syncytial virus": "PROBLEM"
   },
   {
-    "Bronchiolitis - Discharge Summary": "TEST"
-  },
-  {
     "heart murmur": "PROBLEM"
   },
   {
-    "DIAGNOSES": "TEST"
+    "DIAGNOSES": "PROBLEM"
   },
   {
     "Bronchiolitis": "PROBLEM"
@@ -21,49 +18,28 @@
     "respiratory syncytial virus": "PROBLEM"
   },
   {
-    "virus": "PROBLEM"
-  },
-  {
-    "2": "TREATMENT"
+    "2": "PROBLEM"
   },
   {
     "heart murmur": "PROBLEM"
   },
   {
-    "acute onset of congestion": "PROBLEM"
+    "congestion": "PROBLEM"
   },
   {
     "RSV": "PROBLEM"
   },
   {
     "bronchiolitis": "PROBLEM"
-  },
-  {
-    "hospital": "TREATMENT"
   },
   {
     "RSV bronchiolitis": "PROBLEM"
-  },
-  {
-    "RSV": "PROBLEM"
-  },
-  {
-    "bronchiolitis": "PROBLEM"
-  },
-  {
-    "RSV": "PROBLEM"
   },
   {
     "pathway orders": "TREATMENT"
   },
   {
     "trouble": "PROBLEM"
-  },
-  {
-    "eating well": "PROBLEM"
-  },
-  {
-    "parents live far away": "PROBLEM"
   },
   {
     "heart murmur": "PROBLEM"
@@ -78,7 +54,7 @@
     "perihilar infiltrate": "PROBLEM"
   },
   {
-    "right upper lobe": "PROBLEM"
+    "infiltrate": "PROBLEM"
   },
   {
     "lungs": "PROBLEM"
@@ -87,22 +63,10 @@
     "heart": "PROBLEM"
   },
   {
-    "hospitalization": "TEST"
-  },
-  {
-    "stable": "PROBLEM"
-  },
-  {
-    "eating better": "PROBLEM"
-  },
-  {
-    "admission": "TEST"
-  },
-  {
     "tachypnea": "PROBLEM"
   },
   {
-    "increased retractions": "PROBLEM"
+    "retractions": "PROBLEM"
   },
   {
     "grunting": "PROBLEM"
@@ -114,31 +78,13 @@
     "albuterol": "DRUG"
   },
   {
-    "MDI": "TEST"
-  },
-  {
-    "outpatient care": "TREATMENT"
-  },
-  {
     "respiratory distress": "PROBLEM"
   },
   {
-    "doses": "TREATMENT"
+    "afebrile": "PROBLEM"
   },
   {
-    "DISCHARGE PHYSICAL EXAMINATION": "TEST"
-  },
-  {
-    "VITAL SIGNS": "TEST"
-  },
-  {
-    "afebrile": "TEST"
-  },
-  {
-    "Vital signs": "TEST"
-  },
-  {
-    "room air": "TEST"
+    "normal limits": "PROBLEM"
   },
   {
     "acute distress": "PROBLEM"
@@ -153,22 +99,22 @@
     "systolic murmur": "PROBLEM"
   },
   {
-    "bilateral axilla": "TEST"
+    "axilla": "TREATMENT"
   },
   {
-    "back": "TEST"
+    "back": "TREATMENT"
   },
   {
     "femoral pulses": "TEST"
   },
   {
-    "extremities": "TEST"
+    "extremities": "PROBLEM"
   },
   {
     "capillary refill": "TEST"
   },
   {
-    "lungs": "PROBLEM"
+    "coarseness": "PROBLEM"
   },
   {
     "breath sounds": "TEST"
@@ -189,22 +135,16 @@
     "nondistended": "PROBLEM"
   },
   {
-    "Tanner I": "PROBLEM"
+    "female": "PROBLEM"
   },
   {
-    "weight": "TEST"
+    "weight": "PROBLEM"
   },
   {
-    "admission": "TEST"
-  },
-  {
-    "discharge": "TEST"
+    "admission": "PROBLEM"
   },
   {
     "smoke": "PROBLEM"
-  },
-  {
-    "The patient": "PROBLEM"
   },
   {
     "smoke": "PROBLEM"
@@ -216,13 +156,13 @@
     "hand washings": "TREATMENT"
   },
   {
-    "Regular diet": "TREATMENT"
+    "diet": "TREATMENT"
   },
   {
     "breast-feeding": "TREATMENT"
   },
   {
-    "albuterol MDI": "DRUG"
+    "albuterol": "DRUG"
   },
   {
     "cough": "PROBLEM"
@@ -243,10 +183,13 @@
     "difficulty breathing": "PROBLEM"
   },
   {
-    "stops breathing": "PROBLEM"
+    "breathing": "PROBLEM"
   },
   {
-    "does not want to eat": "PROBLEM"
+    "difficulty breathing": "PROBLEM"
+  },
+  {
+    "saline": "DRUG"
   },
   {
     "bronchiolitis": "PROBLEM"
@@ -259,6 +202,9 @@
   },
   {
     "chest x ray": "TEST"
+  },
+  {
+    "syncytial virus": "PROBLEM"
   },
   {
     "heart murmur": "PROBLEM"

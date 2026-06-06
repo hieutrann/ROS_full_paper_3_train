@@ -3,6 +3,9 @@
     "morbid obesity": "PROBLEM"
   },
   {
+    "nonsurgical weight loss": "TREATMENT"
+  },
+  {
     "Morbid obesity": "PROBLEM"
   },
   {
@@ -18,6 +21,12 @@
     "Laparoscopic gastric bypass": "TREATMENT"
   },
   {
+    "Anesthesia": "TREATMENT"
+  },
+  {
+    "pain": "PROBLEM"
+  },
+  {
     "morbid obesity": "PROBLEM"
   },
   {
@@ -25,6 +34,9 @@
   },
   {
     "gastric bypass": "TREATMENT"
+  },
+  {
+    "clear liquid diet": "TREATMENT"
   },
   {
     "Pain": "PROBLEM"
@@ -54,7 +66,7 @@
     "calf pain": "PROBLEM"
   },
   {
-    "temperature greater than 101.5": "TEST"
+    "temperature": "TEST"
   },
   {
     "redness": "PROBLEM"
@@ -76,6 +88,9 @@
   },
   {
     "abdominal pain": "PROBLEM"
+  },
+  {
+    "discharge medications": "DRUG"
   },
   {
     "Lortab Elixir": "DRUG"

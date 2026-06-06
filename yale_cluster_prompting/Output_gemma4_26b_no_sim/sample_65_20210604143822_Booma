@@ -1,24 +1,15 @@
 [
   {
-    "MULTISYSTEM EXAM": "TEST"
-  },
-  {
-    "vital signs": "TEST"
-  },
-  {
     "blood pressure": "TEST"
   },
   {
     "heart rate": "TEST"
   },
   {
-    "The pupil": "TEST"
+    "pupil": "TEST"
   },
   {
-    "ptois": "PROBLEM"
-  },
-  {
-    "oropharynx": "PROBLEM"
+    "ptosis": "PROBLEM"
   },
   {
     "lesion": "PROBLEM"
@@ -27,10 +18,16 @@
     "thyroid gland": "PROBLEM"
   },
   {
-    "respiratory effort": "TEST"
+    "palpation": "TEST"
   },
   {
-    "Auscultation of the lung": "TEST"
+    "Auscultation": "TEST"
+  },
+  {
+    "lung": "PROBLEM"
+  },
+  {
+    "air movement": "PROBLEM"
   },
   {
     "Auscultation of the heart": "TEST"
@@ -51,10 +48,7 @@
     "nipple discharge": "PROBLEM"
   },
   {
-    "Palpation of the breasts and axilla": "TEST"
-  },
-  {
-    "abdomen": "TEST"
+    "mass": "PROBLEM"
   },
   {
     "enlarged liver": "PROBLEM"
@@ -75,9 +69,18 @@
     "cervical motion tenderness": "PROBLEM"
   },
   {
+    "deformity": "PROBLEM"
+  },
+  {
+    "deformity": "PROBLEM"
+  },
+  {
     "Range of motion": "TEST"
   },
   {
     "Deep tendon reflexes": "TEST"
+  },
+  {
+    "Sensation": "PROBLEM"
   }
 ]

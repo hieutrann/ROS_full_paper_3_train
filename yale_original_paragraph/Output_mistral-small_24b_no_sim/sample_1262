@@ -21,19 +21,46 @@
     "deep venous thrombosis": "PROBLEM"
   },
   {
+    "Mesothelioma": "PROBLEM"
+  },
+  {
+    "Pleural effusion": "PROBLEM"
+  },
+  {
+    "atrial fibrillation": "PROBLEM"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "ascites": "PROBLEM"
+  },
+  {
+    "esophageal reflux": "PROBLEM"
+  },
+  {
+    "deep venous thrombosis": "PROBLEM"
+  },
+  {
     "decortication": "TREATMENT"
   },
   {
-    "pleural biopsy": "TEST"
+    "pleural biopsy": "TREATMENT"
   },
   {
-    "transpleural fluoroscopy": "TEST"
+    "transpleural fluoroscopy": "TREATMENT"
   },
   {
     "thoracentesis": "TREATMENT"
   },
   {
     "Port-A-Cath placement": "TREATMENT"
+  },
+  {
+    "pericardectomy": "TREATMENT"
+  },
+  {
+    "pericarditis": "PROBLEM"
   },
   {
     "cough": "PROBLEM"
@@ -51,12 +78,6 @@
     "pericardectomy": "TREATMENT"
   },
   {
-    "chest x-ray": "TEST"
-  },
-  {
-    "pericardectomy": "TREATMENT"
-  },
-  {
     "atrial fibrillation": "PROBLEM"
   },
   {
@@ -66,7 +87,7 @@
     "intracranial thrombolytic treatment": "TREATMENT"
   },
   {
-    "PTA": "TREATMENT"
+    "PTA": "TEST"
   },
   {
     "MCA": "TEST"
@@ -81,10 +102,7 @@
     "cholecystectomy": "TREATMENT"
   },
   {
-    "thoracentesis": "TREATMENT"
-  },
-  {
-    "cancer": "PROBLEM"
+    "left thoracentesis": "TREATMENT"
   },
   {
     "Coumadin": "DRUG"
@@ -168,7 +186,7 @@
     "focal deficits": "PROBLEM"
   },
   {
-    "echocardiogram": "TEST"
+    "Labs": "TEST"
   },
   {
     "DVT": "PROBLEM"
@@ -177,16 +195,31 @@
     "Lovenox": "DRUG"
   },
   {
+    "pericarditis": "PROBLEM"
+  },
+  {
     "mesenteric pain": "PROBLEM"
   },
   {
-    "pericardial fluid": "PROBLEM"
+    "thrombosis": "PROBLEM"
+  },
+  {
+    "pericardial window": "TREATMENT"
+  },
+  {
+    "mesenteric pain": "PROBLEM"
+  },
+  {
+    "thrombosis": "PROBLEM"
+  },
+  {
+    "pericardectomy": "TREATMENT"
   },
   {
     "CT scan": "TEST"
   },
   {
-    "bilateral plural effusions": "PROBLEM"
+    "plural effusions": "PROBLEM"
   },
   {
     "pericardectomy": "TREATMENT"
@@ -195,22 +228,16 @@
     "chest pain": "PROBLEM"
   },
   {
-    "bilateral pleural effusion": "PROBLEM"
+    "pleural effusion": "PROBLEM"
   },
   {
-    "mediastinal lymph node": "PROBLEM"
-  },
-  {
-    "pathology": "TEST"
-  },
-  {
-    "mesothelioma": "PROBLEM"
+    "CT": "TEST"
   },
   {
     "chest tube placement": "TREATMENT"
   },
   {
-    "thoracoscopy": "TEST"
+    "thoracoscopy": "TREATMENT"
   },
   {
     "fluid biopsies": "TEST"
@@ -228,7 +255,7 @@
     "acidic fluid": "PROBLEM"
   },
   {
-    "pectoral": "PROBLEM"
+    "pectoral lymph nodes": "PROBLEM"
   },
   {
     "intramammary lymph nodes": "PROBLEM"
@@ -238,6 +265,9 @@
   },
   {
     "stage III disease": "PROBLEM"
+  },
+  {
+    "echocardiogram": "TEST"
   },
   {
     "ejection fraction": "TEST"
@@ -252,7 +282,16 @@
     "Alimta": "DRUG"
   },
   {
+    "Port-A-Cath": "TREATMENT"
+  },
+  {
     "IV piggyback": "TREATMENT"
+  },
+  {
+    "IV fluid": "TREATMENT"
+  },
+  {
+    "IV": "TREATMENT"
   },
   {
     "heparin": "DRUG"

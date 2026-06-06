@@ -15,9 +15,6 @@
     "trauma": "PROBLEM"
   },
   {
-    "surgery": "TREATMENT"
-  },
-  {
     "Decubitus ulcer": "PROBLEM"
   },
   {
@@ -30,7 +27,10 @@
     "Hypokalemia": "PROBLEM"
   },
   {
-    "traumatic fracture of the lower arm": "PROBLEM"
+    "traumatic fracture": "PROBLEM"
+  },
+  {
+    "lower arm": "PROBLEM"
   },
   {
     "Alcohol abuse": "PROBLEM"
@@ -66,7 +66,7 @@
     "Insomnia": "PROBLEM"
   },
   {
-    "Pain in joint pelvic region/thigh.": "PROBLEM"
+    "Pain in joint pelvic region/thigh": "PROBLEM"
   },
   {
     "Motor vehicle traffic accident": "PROBLEM"
@@ -96,10 +96,7 @@
     "ORIF": "TREATMENT"
   },
   {
-    "right forearm": "PROBLEM"
-  },
-  {
-    "brace": "TREATMENT"
+    "a brace": "TREATMENT"
   },
   {
     "left tibial plateau fracture": "PROBLEM"
@@ -163,12 +160,6 @@
   },
   {
     "therapy": "TREATMENT"
-  },
-  {
-    "outpatient therapy": "TREATMENT"
-  },
-  {
-    "wheeled walker": "TREATMENT"
   },
   {
     "pain level": "PROBLEM"

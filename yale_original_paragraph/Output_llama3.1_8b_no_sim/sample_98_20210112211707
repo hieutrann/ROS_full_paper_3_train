@@ -1,8 +1,5 @@
 [
   {
-    "weight loss": "PROBLEM"
-  },
-  {
     "fevers": "PROBLEM"
   },
   {
@@ -18,7 +15,10 @@
     "itching": "PROBLEM"
   },
   {
-    "throat or neck pain": "PROBLEM"
+    "throat pain": "PROBLEM"
+  },
+  {
+    "neck pain": "PROBLEM"
   },
   {
     "neck fullness": "PROBLEM"

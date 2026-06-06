@@ -1,0 +1,236 @@
+[
+  {
+    "Disseminated Intravascular Coagulation": "PROBLEM"
+  },
+  {
+    "Streptococcal pneumonia": "PROBLEM"
+  },
+  {
+    "sepsis": "PROBLEM"
+  },
+  {
+    "pneumonia": "PROBLEM"
+  },
+  {
+    "sepsis": "PROBLEM"
+  },
+  {
+    "respiratory failure": "PROBLEM"
+  },
+  {
+    "intubation": "TREATMENT"
+  },
+  {
+    "DIAGNOSES": "PROBLEM"
+  },
+  {
+    "Disseminated intravascular coagulation": "PROBLEM"
+  },
+  {
+    "Streptococcal pneumonia with sepsis.": "PROBLEM"
+  },
+  {
+    "respiratory failure": "PROBLEM"
+  },
+  {
+    "pneumonia": "PROBLEM"
+  },
+  {
+    "sepsis": "PROBLEM"
+  },
+  {
+    "respiratory failure": "PROBLEM"
+  },
+  {
+    "intubation": "TREATMENT"
+  },
+  {
+    "mechanical ventilation": "TREATMENT"
+  },
+  {
+    "disseminated intravascular coagulation": "PROBLEM"
+  },
+  {
+    "prolonged partial thromboplastin time": "TEST"
+  },
+  {
+    "prothrombin time": "TEST"
+  },
+  {
+    "low fibrinogen": "TEST"
+  },
+  {
+    "elevated D-dimer": "TEST"
+  },
+  {
+    "treatment": "TREATMENT"
+  },
+  {
+    "improved clinically": "PROBLEM"
+  },
+  {
+    "Bleeding": "PROBLEM"
+  },
+  {
+    "factor replacement": "TREATMENT"
+  },
+  {
+    "platelet infusion": "TREATMENT"
+  },
+  {
+    "coagulopathy": "PROBLEM"
+  },
+  {
+    "Past surgical history": "PROBLEM"
+  },
+  {
+    "illicit drugs": "DRUG"
+  },
+  {
+    "REVIEW OF SYSTEMS": "PROBLEM"
+  },
+  {
+    "sedated": "PROBLEM"
+  },
+  {
+    "young": "PROBLEM"
+  },
+  {
+    "black": "PROBLEM"
+  },
+  {
+    "sedated, young black female": "PROBLEM"
+  },
+  {
+    "rate": "PROBLEM"
+  },
+  {
+    "blood pressure": "PROBLEM"
+  },
+  {
+    "respiratory rate": "PROBLEM"
+  },
+  {
+    "conjunctival hemorrhage": "PROBLEM"
+  },
+  {
+    "petechiae": "PROBLEM"
+  },
+  {
+    "nasal vestibules": "PROBLEM"
+  },
+  {
+    "ET tube": "TREATMENT"
+  },
+  {
+    "jugular venous pressure distention": "PROBLEM"
+  },
+  {
+    "Coarse breath sounds bilaterally": "PROBLEM"
+  },
+  {
+    "Regular rate and rhythm": "PROBLEM"
+  },
+  {
+    "Soft and nontender with good bowel sounds": "PROBLEM"
+  },
+  {
+    "oozing": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "compromise arterial blood flow": "PROBLEM"
+  },
+  {
+    "platelet count": "TEST"
+  },
+  {
+    "INR": "TEST"
+  },
+  {
+    "PTT": "TEST"
+  },
+  {
+    "fibrinogen": "TEST"
+  },
+  {
+    "D-dimer": "TEST"
+  },
+  {
+    "disseminated intravascular coagulation": "PROBLEM"
+  },
+  {
+    "sepsis": "PROBLEM"
+  },
+  {
+    "pneumococcal disease": "PROBLEM"
+  },
+  {
+    "factor replacement": "TREATMENT"
+  },
+  {
+    "reversing": "PROBLEM"
+  },
+  {
+    "simple factor replacement": "TREATMENT"
+  },
+  {
+    "Xigris": "DRUG"
+  },
+  {
+    "coagulopathy": "PROBLEM"
+  },
+  {
+    "fibrinogen": "TEST"
+  },
+  {
+    "coagulation times": "TEST"
+  },
+  {
+    "heparin": "DRUG"
+  },
+  {
+    "low-dose continuous infusion heparin": "TREATMENT"
+  },
+  {
+    "laboratory studies": "TEST"
+  },
+  {
+    "pneumonia": "PROBLEM"
+  },
+  {
+    "thromboplastin time": "TEST"
+  },
+  {
+    "prothrombin time": "TEST"
+  },
+  {
+    "disseminated intravascular coagulation": "PROBLEM"
+  },
+  {
+    "streptococcal pneumonia": "PROBLEM"
+  },
+  {
+    "infusion": "TREATMENT"
+  },
+  {
+    "coagulopathy": "PROBLEM"
+  },
+  {
+    "fibrinogen": "TEST"
+  },
+  {
+    "respiratory": "TEST"
+  },
+  {
+    "oropharynx": "TEST"
+  },
+  {
+    "sepsis": "PROBLEM"
+  },
+  {
+    "disseminated": "PROBLEM"
+  }
+]

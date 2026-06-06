@@ -18,6 +18,9 @@
     "global aphasia": "PROBLEM"
   },
   {
+    "aphasia quotient": "TEST"
+  },
+  {
     "Western Aphasia Battery": "TEST"
   },
   {
@@ -28,6 +31,12 @@
   },
   {
     "expressive language": "PROBLEM"
+  },
+  {
+    "multimodality communication skills": "PROBLEM"
+  },
+  {
+    "swallowing function": "PROBLEM"
   },
   {
     "modified barium swallow study": "TEST"
@@ -46,6 +55,9 @@
   },
   {
     "receptive communication": "PROBLEM"
+  },
+  {
+    "aphasia quotient": "TEST"
   },
   {
     "unintelligible speech": "PROBLEM"

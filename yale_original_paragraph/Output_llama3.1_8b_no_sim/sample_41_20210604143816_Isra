@@ -6,16 +6,13 @@
     "abdominal pain": "PROBLEM"
   },
   {
-    "umbilical hernia": "PROBLEM"
-  },
-  {
-    "hemorrhoidectomy": "PROBLEM"
-  },
-  {
-    "depression": "PROBLEM"
+    "hernia": "PROBLEM"
   },
   {
     "hypertension": "PROBLEM"
+  },
+  {
+    "depression": "PROBLEM"
   },
   {
     "Ziac": "DRUG"
@@ -48,9 +45,9 @@
     "platelet count": "TEST"
   },
   {
-    "incarcerated umbilical hernia": "TREATMENT"
+    "umbilical hernia repair": "TREATMENT"
   },
   {
-    "repair with mesh": "TREATMENT"
+    "mesh": "TREATMENT"
   }
 ]

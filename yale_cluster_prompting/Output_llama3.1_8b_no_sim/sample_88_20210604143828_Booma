@@ -18,10 +18,10 @@
     "rash": "PROBLEM"
   },
   {
-    "neutrophils": "TEST"
+    "neutrophils": "PROBLEM"
   },
   {
-    "thrombocytosis": "TEST"
+    "thrombocytosis": "PROBLEM"
   },
   {
     "CRP": "TEST"
@@ -54,10 +54,10 @@
     "rash": "PROBLEM"
   },
   {
-    "neutrophils": "TEST"
+    "neutrophils": "PROBLEM"
   },
   {
-    "thrombocytosis": "TEST"
+    "thrombocytosis": "PROBLEM"
   },
   {
     "CRP": "TEST"
@@ -84,6 +84,9 @@
     "fever": "PROBLEM"
   },
   {
+    "IVIG": "TREATMENT"
+  },
+  {
     "fever": "PROBLEM"
   },
   {
@@ -93,16 +96,13 @@
     "conjunctivitis": "PROBLEM"
   },
   {
-    "redness of mucous membranes": "PROBLEM"
+    "He is more calm and quite and taking good p.o.": "TREATMENT"
   },
   {
-    "good p.o.": "TREATMENT"
+    "cardiac followup": "TREATMENT"
   },
   {
-    "cardiac followup": "TEST"
-  },
-  {
-    "DISCHARGE ACTIVITIES": "TREATMENT"
+    "Ad-lib": "TREATMENT"
   },
   {
     "PO ad-lib": "TREATMENT"
@@ -117,7 +117,10 @@
     "Prevacid": "DRUG"
   },
   {
-    "day": "TREATMENT"
+    "aspirin": "DRUG"
+  },
+  {
+    "a day": "PROBLEM"
   },
   {
     "primary doctor": "TREATMENT"
@@ -135,6 +138,9 @@
     "fevers": "PROBLEM"
   },
   {
+    "echo": "TEST"
+  },
+  {
     "conjunctivitis": "PROBLEM"
   },
   {
@@ -145,5 +151,8 @@
   },
   {
     "aspirin": "DRUG"
+  },
+  {
+    "fever": "PROBLEM"
   }
 ]

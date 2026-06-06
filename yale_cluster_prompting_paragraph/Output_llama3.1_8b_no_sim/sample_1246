@@ -1,21 +1,18 @@
 [
   {
+    "morbid obesity": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "obstructive sleep apnea": "PROBLEM"
+  },
+  {
     "laparoscopic Roux-en-Y gastric bypass": "TREATMENT"
   },
   {
-    "Morbid obesity": "PROBLEM"
-  },
-  {
-    "Hypertension": "PROBLEM"
-  },
-  {
-    "Obstructive sleep apnea": "PROBLEM"
-  },
-  {
-    "CPAP": "TEST"
-  },
-  {
-    "Laparoscopic Roux-en-Y gastric bypass": "TREATMENT"
+    "CPAP": "TREATMENT"
   },
   {
     "DVT prophylaxis": "TREATMENT"
@@ -24,27 +21,12 @@
     "subcu heparin": "DRUG"
   },
   {
-    "PCA": "TEST"
+    "PCA": "TREATMENT"
   },
   {
     "omeprazole": "DRUG"
   },
   {
     "Lortab": "DRUG"
-  },
-  {
-    "bariatric clear liquids": "TEST"
-  },
-  {
-    "gastric bypass": "TREATMENT"
-  },
-  {
-    "laparoscopic": "TEST"
-  },
-  {
-    "gastric": "TEST"
-  },
-  {
-    "bypass": "TREATMENT"
   }
 ]

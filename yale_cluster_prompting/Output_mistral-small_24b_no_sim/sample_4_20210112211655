@@ -12,19 +12,19 @@
     "methotrexate": "DRUG"
   },
   {
-    "prednisone": "DRUG"
+    "high-dose prednisone": "DRUG"
   },
   {
     "urticarial rash": "PROBLEM"
   },
   {
-    "fevers": "PROBLEM"
-  },
-  {
-    "infection": "PROBLEM"
+    "persistent high fevers": "PROBLEM"
   },
   {
     "temperatures": "PROBLEM"
+  },
+  {
+    "Alta View Emergency Department": "TREATMENT"
   },
   {
     "chest x-ray": "TEST"
@@ -33,7 +33,7 @@
     "blood cultures": "TEST"
   },
   {
-    "transthoracic echocardiogram": "TEST"
+    "a transthoracic echocardiogram": "TEST"
   },
   {
     "chest x-ray": "TEST"
@@ -42,7 +42,13 @@
     "high fevers": "PROBLEM"
   },
   {
-    "CT scan": "TEST"
+    "CT scan of the chest": "TEST"
+  },
+  {
+    "CT scan of the abdomen": "TEST"
+  },
+  {
+    "CT scan of the pelvis": "TEST"
   },
   {
     "CT chest": "TEST"
@@ -51,10 +57,16 @@
     "pleural-based interstitial changes": "PROBLEM"
   },
   {
+    "mid and lower lung zones": "PROBLEM"
+  },
+  {
+    "ground glass change": "PROBLEM"
+  },
+  {
     "CT abdomen and pelvis": "TEST"
   },
   {
-    "Infectious disease consultation": "TREATMENT"
+    "Infectious disease": "PROBLEM"
   },
   {
     "serologies": "TEST"
@@ -63,7 +75,7 @@
     "CMV": "PROBLEM"
   },
   {
-    "CMV blood PCR": "TEST"
+    "a CMV blood PCR": "TEST"
   },
   {
     "EBV": "TEST"
@@ -99,6 +111,9 @@
     "CMV blood PCR": "TEST"
   },
   {
+    "serologies": "TEST"
+  },
+  {
     "PPD": "TEST"
   },
   {
@@ -114,10 +129,13 @@
     "CAT scan": "TEST"
   },
   {
-    "bronchoscopy": "TREATMENT"
+    "a bronchoscopy": "TREATMENT"
   },
   {
     "BAL": "TEST"
+  },
+  {
+    "transbronchial biopsies": "TEST"
   },
   {
     "transbronchial biopsies": "TEST"
@@ -132,7 +150,7 @@
     "AFB": "TEST"
   },
   {
-    "interstitial fibrosis": "PROBLEM"
+    "nonspecific interstitial fibrosis": "PROBLEM"
   },
   {
     "XYZ": "TEST"
@@ -144,10 +162,7 @@
     "CMV": "PROBLEM"
   },
   {
-    "nucleoli": "TEST"
-  },
-  {
-    "biopsy specimens": "TEST"
+    "biopsy": "TEST"
   },
   {
     "CMV infection": "PROBLEM"
@@ -157,6 +172,9 @@
   },
   {
     "CMV serologies": "TEST"
+  },
+  {
+    "antibiotic therapy": "DRUG"
   },
   {
     "methotrexate": "DRUG"
@@ -180,6 +198,9 @@
     "fever": "PROBLEM"
   },
   {
+    "BAL fluid cell count": "TEST"
+  },
+  {
     "WBCs": "TEST"
   },
   {
@@ -192,7 +213,10 @@
     "lymphocytes": "TEST"
   },
   {
-    "XYZ": "PROBLEM"
+    "rheumatologist": "PROBLEM"
+  },
+  {
+    "DISCHARGE DIAGNOSES": "PROBLEM"
   },
   {
     "Disseminated CMV infection": "PROBLEM"
@@ -204,9 +228,6 @@
     "Polymyositis": "PROBLEM"
   },
   {
-    "immunosuppressive therapy": "TREATMENT"
-  },
-  {
     "methotrexate": "DRUG"
   },
   {
@@ -216,7 +237,7 @@
     "ganciclovir": "DRUG"
   },
   {
-    "IV": "TREATMENT"
+    "275 mg IV q.12 h.": "TREATMENT"
   },
   {
     "Advair 100/50": "DRUG"
@@ -235,6 +256,12 @@
   },
   {
     "methotrexate": "DRUG"
+  },
+  {
+    "XYZ": "DRUG"
+  },
+  {
+    "ophthalmologist": "PROBLEM"
   },
   {
     "fever of unknown origin": "PROBLEM"
@@ -262,6 +289,9 @@
   },
   {
     "serologies": "TEST"
+  },
+  {
+    "chest": "PROBLEM"
   },
   {
     "methotrexate": "DRUG"

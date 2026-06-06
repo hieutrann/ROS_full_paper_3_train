@@ -1,5 +1,11 @@
 [
   {
+    "Female Exam": "TEST"
+  },
+  {
+    "multisystem exam": "TEST"
+  },
+  {
     "vital signs": "TEST"
   },
   {
@@ -42,10 +48,7 @@
     "enlarged liver": "PROBLEM"
   },
   {
-    "spleen": "PROBLEM"
-  },
-  {
-    "Bowel sounds": "TEST"
+    "enlarged spleen": "PROBLEM"
   },
   {
     "pelvic exam": "TEST"

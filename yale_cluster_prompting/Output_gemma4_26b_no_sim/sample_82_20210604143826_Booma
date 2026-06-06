@@ -3,46 +3,40 @@
     "hypertension": "PROBLEM"
   },
   {
-    "severe tricuspid regurgitation": "PROBLEM"
+    "tricuspid regurgitation": "PROBLEM"
   },
   {
-    "mild pulmonary hypertension": "PROBLEM"
+    "pulmonary hypertension": "PROBLEM"
   },
   {
-    "mild aortic stenosis": "PROBLEM"
+    "aortic stenosis": "PROBLEM"
   },
   {
-    "moderate mitral regurgitation": "PROBLEM"
+    "mitral regurgitation": "PROBLEM"
   },
   {
     "hypertension": "PROBLEM"
   },
   {
-    "severe tricuspid regurgitation": "PROBLEM"
+    "tricuspid regurgitation": "PROBLEM"
   },
   {
-    "mild pulmonary hypertension": "PROBLEM"
+    "pulmonary hypertension": "PROBLEM"
   },
   {
-    "mild aortic stenosis": "PROBLEM"
+    "aortic stenosis": "PROBLEM"
   },
   {
-    "moderate mitral regurgitation": "PROBLEM"
+    "mitral regurgitation": "PROBLEM"
   },
   {
     "atrial fibrillation": "PROBLEM"
-  },
-  {
-    "fall": "PROBLEM"
   },
   {
     "rapid atrial tachyarrhythmia": "PROBLEM"
   },
   {
     "Cardizem": "DRUG"
-  },
-  {
-    "heart rate": "TEST"
   },
   {
     "EKGs": "TEST"
@@ -57,7 +51,7 @@
     "wandering atrial pacemaker": "PROBLEM"
   },
   {
-    "An ECG": "TEST"
+    "ECG": "TEST"
   },
   {
     "normal sinus rhythm": "PROBLEM"
@@ -72,25 +66,16 @@
     "palpitations": "PROBLEM"
   },
   {
-    "pain": "PROBLEM"
-  },
-  {
-    "fall": "PROBLEM"
-  },
-  {
     "chest pain": "PROBLEM"
   },
   {
     "shortness of breath": "PROBLEM"
   },
   {
-    "PAST CARDIAC HISTORY": "PROBLEM"
+    "tricuspid regurgitation": "PROBLEM"
   },
   {
-    "severe tricuspid regurgitation": "PROBLEM"
-  },
-  {
-    "mild elevation and PA pressure": "PROBLEM"
+    "PA pressure": "PROBLEM"
   },
   {
     "left and right ventricular systolic function": "TEST"
@@ -99,13 +84,16 @@
     "aortic sclerosis": "PROBLEM"
   },
   {
-    "mild aortic stenosis": "PROBLEM"
+    "aortic stenosis": "PROBLEM"
   },
   {
     "bi-atrial enlargement": "PROBLEM"
   },
   {
-    "Persantine Myoview nuclear rest-stress test scan": "TEST"
+    "Persantine": "DRUG"
+  },
+  {
+    "Myoview nuclear rest-stress test scan": "TEST"
   },
   {
     "mitral valve regurgitation": "PROBLEM"
@@ -123,7 +111,7 @@
     "normal sinus rhythm": "PROBLEM"
   },
   {
-    "frequent APCs": "PROBLEM"
+    "APCs": "PROBLEM"
   },
   {
     "wandering atrial pacemaker": "PROBLEM"
@@ -252,12 +240,6 @@
     "lupus": "PROBLEM"
   },
   {
-    "PHYSICAL EXAM": "TEST"
-  },
-  {
-    "temperature": "TEST"
-  },
-  {
     "blood pressure": "TEST"
   },
   {
@@ -273,15 +255,6 @@
     "O2 saturation": "TEST"
   },
   {
-    "hard of hearing": "PROBLEM"
-  },
-  {
-    "moist mucosal membranes": "PROBLEM"
-  },
-  {
-    "Neck veins": "TEST"
-  },
-  {
     "carotid bruits": "PROBLEM"
   },
   {
@@ -291,28 +264,19 @@
     "left hip fracture": "PROBLEM"
   },
   {
-    "Cardiac Exam": "TEST"
-  },
-  {
     "frequent ectopic beats": "PROBLEM"
   },
   {
-    "2/6 systolic ejection murmur": "PROBLEM"
+    "systolic ejection murmur": "PROBLEM"
   },
   {
-    "soft holosystolic murmur": "PROBLEM"
+    "holosystolic murmur": "PROBLEM"
   },
   {
     "rub": "PROBLEM"
   },
   {
     "gallop": "PROBLEM"
-  },
-  {
-    "PMI": "PROBLEM"
-  },
-  {
-    "Bowel sounds": "TEST"
   },
   {
     "clubbing": "PROBLEM"
@@ -324,16 +288,7 @@
     "peripheral edema": "PROBLEM"
   },
   {
-    "Pulses": "TEST"
-  },
-  {
     "left hip fracture": "PROBLEM"
-  },
-  {
-    "DIAGNOSTIC STUDIES/LAB DATA": "TEST"
-  },
-  {
-    "labs": "TEST"
   },
   {
     "chest x-ray": "TEST"
@@ -390,9 +345,6 @@
     "MAT": "PROBLEM"
   },
   {
-    "heart rate": "TEST"
-  },
-  {
     "ischemic changes": "PROBLEM"
   },
   {
@@ -417,13 +369,13 @@
     "hypertension": "PROBLEM"
   },
   {
-    "severe tricuspid regurgitation": "PROBLEM"
+    "tricuspid regurgitation": "PROBLEM"
   },
   {
-    "mild pulmonary hypertension": "PROBLEM"
+    "pulmonary hypertension": "PROBLEM"
   },
   {
-    "mild aortic stenosis": "PROBLEM"
+    "aortic stenosis": "PROBLEM"
   },
   {
     "fall": "PROBLEM"
@@ -456,9 +408,6 @@
     "troponins": "TEST"
   },
   {
-    "stress": "PROBLEM"
-  },
-  {
     "multifocal atrial tachycardia": "PROBLEM"
   },
   {
@@ -469,9 +418,6 @@
   },
   {
     "shortness of breath": "PROBLEM"
-  },
-  {
-    "fall": "PROBLEM"
   },
   {
     "left hip surgery": "TREATMENT"
@@ -505,15 +451,6 @@
   },
   {
     "verapamil": "DRUG"
-  },
-  {
-    "cardiac risks": "PROBLEM"
-  },
-  {
-    "surgery": "TREATMENT"
-  },
-  {
-    "cardiac evaluation": "TEST"
   },
   {
     "thrombocytopenia": "PROBLEM"

@@ -1,8 +1,5 @@
 [
   {
-    "Chest Pain": "PROBLEM"
-  },
-  {
     "chest pain": "PROBLEM"
   },
   {
@@ -24,7 +21,7 @@
     "pressure": "PROBLEM"
   },
   {
-    "mild-to-moderate in the middle of her chest": "PROBLEM"
+    "mild-to-moderate": "PROBLEM"
   },
   {
     "fast heartbeats": "PROBLEM"
@@ -34,6 +31,9 @@
   },
   {
     "stomach pains": "PROBLEM"
+  },
+  {
+    "mid epigastric area": "PROBLEM"
   },
   {
     "reflux": "PROBLEM"
@@ -63,13 +63,10 @@
     "dull achy pain": "PROBLEM"
   },
   {
-    "spots on her shoulder": "PROBLEM"
-  },
-  {
     "spots": "PROBLEM"
   },
   {
-    "itchy": "PROBLEM"
+    "spots": "PROBLEM"
   },
   {
     "urgency of urine": "PROBLEM"
@@ -79,6 +76,9 @@
   },
   {
     "leaking": "PROBLEM"
+  },
+  {
+    "pad": "TREATMENT"
   },
   {
     "colonoscopy": "TEST"
@@ -156,9 +156,6 @@
     "heart attack": "PROBLEM"
   },
   {
-    "smoker": "PROBLEM"
-  },
-  {
     "Episodic leukopenia": "PROBLEM"
   },
   {
@@ -169,9 +166,6 @@
   },
   {
     "aspirin": "DRUG"
-  },
-  {
-    "Vital Signs": "TEST"
   },
   {
     "Blood pressure": "TEST"
@@ -189,7 +183,7 @@
     "thyromegaly": "PROBLEM"
   },
   {
-    "Lungs": "TEST"
+    "Regular rhythm and rate": "PROBLEM"
   },
   {
     "murmur": "PROBLEM"
@@ -202,9 +196,6 @@
   },
   {
     "tenderness": "PROBLEM"
-  },
-  {
-    "examined": "TEST"
   },
   {
     "tinea versicolor rash": "PROBLEM"
@@ -231,7 +222,7 @@
     "Chest pain": "PROBLEM"
   },
   {
-    "noncardiac": "PROBLEM"
+    "symptoms": "PROBLEM"
   },
   {
     "reflux": "PROBLEM"
@@ -243,6 +234,9 @@
     "EGD": "TEST"
   },
   {
+    "symptoms": "PROBLEM"
+  },
+  {
     "Stomach pain": "PROBLEM"
   },
   {
@@ -252,7 +246,7 @@
     "Suspicious lesions": "PROBLEM"
   },
   {
-    "punch biopsy": "TREATMENT"
+    "punch biopsy": "TEST"
   },
   {
     "Tinea versicolor": "PROBLEM"
@@ -280,9 +274,6 @@
   },
   {
     "arthritic": "PROBLEM"
-  },
-  {
-    "Screening": "TEST"
   },
   {
     "colon cancer screening": "TEST"

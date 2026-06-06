@@ -9,9 +9,6 @@
     "runny nose": "PROBLEM"
   },
   {
-    "fever": "PROBLEM"
-  },
-  {
     "spitting up": "PROBLEM"
   },
   {
@@ -21,7 +18,7 @@
     "dry and hacky cough": "PROBLEM"
   },
   {
-    "red TM": "PROBLEM"
+    "red right TM": "PROBLEM"
   },
   {
     "congested": "PROBLEM"
@@ -33,25 +30,19 @@
     "Aldex": "DRUG"
   },
   {
-    "difficulty breathing": "PROBLEM"
-  },
-  {
-    "temperature of 102.6": "TEST"
+    "temperature of 102.6": "PROBLEM"
   },
   {
     "trouble sleeping": "PROBLEM"
   },
   {
-    "congestion": "PROBLEM"
-  },
-  {
-    "VITAL SIGNS": "TEST"
-  },
-  {
     "respiratory rate": "TEST"
   },
   {
-    "red and irritated TM": "PROBLEM"
+    "retractions": "PROBLEM"
+  },
+  {
+    "red and irritated right TM": "PROBLEM"
   },
   {
     "nasal discharge": "PROBLEM"

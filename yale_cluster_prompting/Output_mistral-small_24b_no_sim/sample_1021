@@ -1,24 +1,18 @@
 [
   {
-    "Radiology": "TEST"
-  },
-  {
-    "Full-Field Digital Mammogram": "TEST"
-  },
-  {
     "Bilateral Screening Mammogram": "TEST"
   },
   {
     "Full-Field Digital Mammography": "TEST"
   },
   {
-    "Benign Findings": "PROBLEM"
-  },
-  {
     "Digital screening mammogram": "TEST"
   },
   {
-    "mammography": "TEST"
+    "Benign Findings": "PROBLEM"
+  },
+  {
+    "screening mammography": "TEST"
   },
   {
     "breast cancer": "PROBLEM"
@@ -33,37 +27,67 @@
     "mediolateral oblique projections": "TEST"
   },
   {
-    "bilateral breasts": "TEST"
+    "bilateral breasts": "PROBLEM"
   },
   {
-    "breasts": "PROBLEM"
+    "iCAD Second Look proprietary software": "TEST"
+  },
+  {
+    "adipose": "PROBLEM"
+  },
+  {
+    "fibroglandular": "PROBLEM"
   },
   {
     "calcifications": "PROBLEM"
   },
   {
-    "mammographic findings": "TEST"
+    "mass": "PROBLEM"
+  },
+  {
+    "architecture distortion": "PROBLEM"
+  },
+  {
+    "malignant-type calcifications": "PROBLEM"
+  },
+  {
+    "breasts": "PROBLEM"
+  },
+  {
+    "Stable": "PROBLEM"
+  },
+  {
+    "benign mammographic findings": "PROBLEM"
   },
   {
     "mammographic screening": "TEST"
   },
   {
-    "BIRADS Classification": "TEST"
+    "BIRADS Classification 2": "TEST"
+  },
+  {
+    "Benign": "PROBLEM"
+  },
+  {
+    "MAMMOGRAPHY": "TEST"
   },
   {
     "cancers": "PROBLEM"
   },
   {
-    "biopsy": "TREATMENT"
+    "mammography": "TEST"
   },
   {
-    "malignancy": "PROBLEM"
+    "radiographic evidence of malignancy": "TEST"
   },
   {
-    "mass": "PROBLEM"
+    "biopsy": "TEST"
   },
   {
-    "FDA-approved digital mammography equipment": "TEST"
+    "clinically suspicious mass": "PROBLEM"
+  },
+  {
+    "FDA-approved digital mammography": "TEST"
   },
   {
     "iCAD SecondLook Software Version 7.2": "TEST"
@@ -78,7 +102,7 @@
     "craniocaudal": "TEST"
   },
   {
-    "fibroglandular": "TEST"
+    "fibroglandular": "PROBLEM"
   },
   {
     "bilateral screening mammogram": "TEST"
@@ -96,7 +120,7 @@
     "mammogram": "TEST"
   },
   {
-    "breasts": "TEST"
+    "breasts": "PROBLEM"
   },
   {
     "screening": "TEST"

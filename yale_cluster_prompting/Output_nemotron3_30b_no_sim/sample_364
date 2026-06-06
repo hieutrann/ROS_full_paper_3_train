@@ -1,0 +1,278 @@
+[
+  {
+    "Physical Exam and Pap": "TEST"
+  },
+  {
+    "breast exam": "TEST"
+  },
+  {
+    "complete physical": "TEST"
+  },
+  {
+    "Pap": "TEST"
+  },
+  {
+    "breast exam": "TEST"
+  },
+  {
+    "Pap smear": "TEST"
+  },
+  {
+    "midchest pain": "PROBLEM"
+  },
+  {
+    "night": "PROBLEM"
+  },
+  {
+    "Denies nausea, vomiting, diaphoresis or shortness of breath with it.": "PROBLEM"
+  },
+  {
+    "EKG": "TEST"
+  },
+  {
+    "foot surgery": "TREATMENT"
+  },
+  {
+    "Reactive airway disease": "PROBLEM"
+  },
+  {
+    "rheumatoid arthritis": "PROBLEM"
+  },
+  {
+    "recent surgery on her hands and feet": "PROBLEM"
+  },
+  {
+    "iron deficiency anemia": "PROBLEM"
+  },
+  {
+    "osteoporosis": "PROBLEM"
+  },
+  {
+    "hypothyroidism": "PROBLEM"
+  },
+  {
+    "Methotrexate 2.5 mg five weekly": "DRUG"
+  },
+  {
+    "Fosamax 70 mg weekly": "DRUG"
+  },
+  {
+    "folic acid daily": "DRUG"
+  },
+  {
+    "amitriptyline 15 mg daily": "DRUG"
+  },
+  {
+    "Synthroid 0.088 mg daily": "DRUG"
+  },
+  {
+    "calcium two in the morning and two at noon": "DRUG"
+  },
+  {
+    "multivitamin daily": "DRUG"
+  },
+  {
+    "baby aspirin daily": "DRUG"
+  },
+  {
+    "Colace one to three b.i.d.": "DRUG"
+  },
+  {
+    "married": "PROBLEM"
+  },
+  {
+    "tobacco": "PROBLEM"
+  },
+  {
+    "alcohol": "PROBLEM"
+  },
+  {
+    "drug": "PROBLEM"
+  },
+  {
+    "HEENT": "PROBLEM"
+  },
+  {
+    "pulmonary": "PROBLEM"
+  },
+  {
+    "cardiovascular": "PROBLEM"
+  },
+  {
+    "GI": "PROBLEM"
+  },
+  {
+    "GU": "PROBLEM"
+  },
+  {
+    "musculoskeletal": "PROBLEM"
+  },
+  {
+    "neurologic": "PROBLEM"
+  },
+  {
+    "dermatologic": "PROBLEM"
+  },
+  {
+    "constitutional": "PROBLEM"
+  },
+  {
+    "psychiatric": "PROBLEM"
+  },
+  {
+    "Weight 146.": "TEST"
+  },
+  {
+    "Blood pressure 100/64.": "TEST"
+  },
+  {
+    "Pulse 80.": "TEST"
+  },
+  {
+    "16.": "PROBLEM"
+  },
+  {
+    "Temperature 97.7.": "TEST"
+  },
+  {
+    "well-developed": "PROBLEM"
+  },
+  {
+    "well-nourished": "PROBLEM"
+  },
+  {
+    "white": "PROBLEM"
+  },
+  {
+    "no acute distress": "PROBLEM"
+  },
+  {
+    "Grossly within normal limits": "PROBLEM"
+  },
+  {
+    "Supple.": "PROBLEM"
+  },
+  {
+    "No lymphadenopathy.": "PROBLEM"
+  },
+  {
+    "No thyromegaly.": "PROBLEM"
+  },
+  {
+    "Clear to auscultation bilaterally": "TEST"
+  },
+  {
+    "Regular rate and rhythm": "PROBLEM"
+  },
+  {
+    "soft and nontender": "PROBLEM"
+  },
+  {
+    "No hepatosplenomegaly.": "PROBLEM"
+  },
+  {
+    "No nipple discharge": "PROBLEM"
+  },
+  {
+    "No lumps or masses palpated": "PROBLEM"
+  },
+  {
+    "No dimpling of the skin.": "PROBLEM"
+  },
+  {
+    "axillary lymph nodes": "PROBLEM"
+  },
+  {
+    "Self-breast exam discussed and encouraged.": "PROBLEM"
+  },
+  {
+    "Normal female genitalia": "PROBLEM"
+  },
+  {
+    "Atrophic vaginal mucosa.": "PROBLEM"
+  },
+  {
+    "No cervical lesions.": "PROBLEM"
+  },
+  {
+    "cervical motion tenderness": "PROBLEM"
+  },
+  {
+    "adnexal tenderness": "PROBLEM"
+  },
+  {
+    "Normal sphincter tone": "PROBLEM"
+  },
+  {
+    "No stool present in the vault.": "PROBLEM"
+  },
+  {
+    "No rectal masses palpated": "PROBLEM"
+  },
+  {
+    "No cyanosis": "PROBLEM"
+  },
+  {
+    "rheumatoid arthritis of her hands": "PROBLEM"
+  },
+  {
+    "Grossly intact": "PROBLEM"
+  },
+  {
+    "Chest pain": "PROBLEM"
+  },
+  {
+    "normal ECG": "TEST"
+  },
+  {
+    "cardiac": "PROBLEM"
+  },
+  {
+    "cardiac workup": "TEST"
+  },
+  {
+    "GI reflux type symptoms": "PROBLEM"
+  },
+  {
+    "Hypothyroidism.": "PROBLEM"
+  },
+  {
+    "TSH": "TEST"
+  },
+  {
+    "Rheumatoid arthritis.": "PROBLEM"
+  },
+  {
+    "methotrexate": "DRUG"
+  },
+  {
+    "Osteoporosis.": "PROBLEM"
+  },
+  {
+    "repeat DEXA": "TEST"
+  },
+  {
+    "Pap smear": "TEST"
+  },
+  {
+    "mammogram": "TEST"
+  },
+  {
+    "rheumatoid arthritis": "PROBLEM"
+  },
+  {
+    "masses palpated": "PROBLEM"
+  },
+  {
+    "pap smear": "TEST"
+  },
+  {
+    "breast exam": "TEST"
+  },
+  {
+    "complete physical": "TEST"
+  },
+  {
+    "obstetrics / gynecology": "PROBLEM"
+  }
+]

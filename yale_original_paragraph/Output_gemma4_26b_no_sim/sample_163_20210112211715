@@ -1,6 +1,6 @@
 [
   {
-    "scalp skin biopsy": "TREATMENT"
+    "scalp skin biopsy": "TEST"
   },
   {
     "Acute right lobar pneumonia": "PROBLEM"
@@ -48,7 +48,7 @@
     "Levaquin": "DRUG"
   },
   {
-    "low-grade fever": "PROBLEM"
+    "fever": "PROBLEM"
   },
   {
     "confusion": "PROBLEM"
@@ -64,6 +64,9 @@
   },
   {
     "right lobar infiltrate": "PROBLEM"
+  },
+  {
+    "antibiotics": "TREATMENT"
   },
   {
     "vancomycin": "DRUG"
@@ -87,7 +90,7 @@
     "ultrasound": "TEST"
   },
   {
-    "CT scan of the chest and abdomen": "TEST"
+    "CT scan": "TEST"
   },
   {
     "HIDA scan": "TEST"
@@ -124,6 +127,9 @@
   },
   {
     "GI bleeding": "PROBLEM"
+  },
+  {
+    "hematocrit": "TEST"
   },
   {
     "PT": "TEST"

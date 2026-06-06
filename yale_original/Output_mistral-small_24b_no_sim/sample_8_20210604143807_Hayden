@@ -6,7 +6,7 @@
     "decreased level of consciousness": "PROBLEM"
   },
   {
-    "decreased status": "PROBLEM"
+    "status": "PROBLEM"
   },
   {
     "face": "PROBLEM"
@@ -18,13 +18,13 @@
     "decreased consciousness": "PROBLEM"
   },
   {
-    "wheelchair": "PROBLEM"
+    "wheelchair": "TREATMENT"
   },
   {
     "lacerations": "PROBLEM"
   },
   {
-    "face": "PROBLEM"
+    "Xanax": "DRUG"
   },
   {
     "Xanax": "DRUG"
@@ -34,6 +34,9 @@
   },
   {
     "Sinemet": "DRUG"
+  },
+  {
+    "medications": "DRUG"
   },
   {
     "Parkinson disease": "PROBLEM"
@@ -54,6 +57,9 @@
     "Xanax": "DRUG"
   },
   {
+    "ALLERGIES": "PROBLEM"
+  },
+  {
     "cachectic": "PROBLEM"
   },
   {
@@ -63,10 +69,10 @@
     "lethargic": "PROBLEM"
   },
   {
-    "answers minimally": "PROBLEM"
+    "questions": "TEST"
   },
   {
-    "follow commands": "TEST"
+    "commands": "TEST"
   },
   {
     "lacerations": "PROBLEM"
@@ -75,13 +81,7 @@
     "sutured": "TREATMENT"
   },
   {
-    "forehead": "PROBLEM"
-  },
-  {
     "lip laceration": "PROBLEM"
-  },
-  {
-    "upper lip": "PROBLEM"
   },
   {
     "Pupils": "TEST"
@@ -105,16 +105,13 @@
     "S2": "TEST"
   },
   {
-    "murmurs": "PROBLEM"
-  },
-  {
     "LUNGS": "PROBLEM"
   },
   {
     "ABDOMEN": "PROBLEM"
   },
   {
-    "bowel sounds": "PROBLEM"
+    "bowel sounds": "TEST"
   },
   {
     "edema": "PROBLEM"
@@ -135,7 +132,10 @@
     "RBCs": "TEST"
   },
   {
-    "specific gravity": "TEST"
+    "Specific gravity": "TEST"
+  },
+  {
+    "comprehensive panel": "TEST"
   },
   {
     "potassium": "TEST"
@@ -162,10 +162,13 @@
     "Dehydration": "PROBLEM"
   },
   {
-    "p.o.": "DRUG"
+    "p.o.": "TREATMENT"
   },
   {
     "elderly abuse": "PROBLEM"
+  },
+  {
+    "regular medical floor": "TREATMENT"
   },
   {
     "IV fluids": "TREATMENT"
@@ -174,7 +177,7 @@
     "Sinemet": "DRUG"
   },
   {
-    "general medicine": "PROBLEM"
+    "general medicine": "TEST"
   },
   {
     "level of consciousness": "PROBLEM"
@@ -193,6 +196,9 @@
   },
   {
     "decreased level of consciousness": "PROBLEM"
+  },
+  {
+    "ems": "TEST"
   },
   {
     "parkinson": "PROBLEM"

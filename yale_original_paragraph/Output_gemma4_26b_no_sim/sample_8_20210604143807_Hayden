@@ -9,7 +9,7 @@
     "elderly abuse": "PROBLEM"
   },
   {
-    "lacerations on the face": "PROBLEM"
+    "lacerations": "PROBLEM"
   },
   {
     "Xanax": "DRUG"
@@ -46,6 +46,9 @@
   },
   {
     "lip laceration": "PROBLEM"
+  },
+  {
+    "dry": "PROBLEM"
   },
   {
     "thyromegaly": "PROBLEM"
@@ -114,12 +117,6 @@
     "decreased level of consciousness": "PROBLEM"
   },
   {
-    "parkinson": "PROBLEM"
-  },
-  {
-    "xanax": "DRUG"
-  },
-  {
-    "sinemet": "DRUG"
+    "consciousness": "PROBLEM"
   }
 ]

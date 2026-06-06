@@ -1,0 +1,65 @@
+[
+  {
+    "Respiratory distress syndrome": "PROBLEM"
+  },
+  {
+    "intrauterine growth restriction": "PROBLEM"
+  },
+  {
+    "thrombocytopenia": "PROBLEM"
+  },
+  {
+    "hypoglycemia": "PROBLEM"
+  },
+  {
+    "retinal immaturity": "PROBLEM"
+  },
+  {
+    "preterm": "PROBLEM"
+  },
+  {
+    "low amniotic fluid index": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "preeclampsia": "PROBLEM"
+  },
+  {
+    "TPN": "TREATMENT"
+  },
+  {
+    "IV D10 water": "TREATMENT"
+  },
+  {
+    "Mylicon drops": "TREATMENT"
+  },
+  {
+    "glycerin suppositories": "TREATMENT"
+  },
+  {
+    "Reglan": "TREATMENT"
+  },
+  {
+    "NeoSure": "TREATMENT"
+  },
+  {
+    "D10": "TREATMENT"
+  },
+  {
+    "diazoxide": "TREATMENT"
+  },
+  {
+    "phototherapy": "TREATMENT"
+  },
+  {
+    "iron": "TREATMENT"
+  },
+  {
+    "CPR": "TREATMENT"
+  },
+  {
+    "Kid's Care": "TEST"
+  }
+]

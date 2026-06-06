@@ -1,6 +1,6 @@
 [
   {
-    "Knee Osteoarthrosis": "PROBLEM"
+    "knee osteoarthrosis": "PROBLEM"
   },
   {
     "Total knee arthroplasty": "TREATMENT"
@@ -27,7 +27,7 @@
     "physical therapy": "TREATMENT"
   },
   {
-    "Continuous passive motion (CPM)": "TREATMENT"
+    "Continuous passive motion": "TREATMENT"
   },
   {
     "Hemovac drain": "TREATMENT"
@@ -37,11 +37,5 @@
   },
   {
     "Mechanical and chemical deep venous thrombosis (DVT) prophylaxis": "TREATMENT"
-  },
-  {
-    "Knee": "TEST"
-  },
-  {
-    "Gait": "TEST"
   }
 ]

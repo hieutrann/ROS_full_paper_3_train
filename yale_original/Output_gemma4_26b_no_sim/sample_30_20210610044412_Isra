@@ -1,5 +1,8 @@
 [
   {
+    "Physical Exam": "TEST"
+  },
+  {
     "GCS": "TEST"
   },
   {
@@ -19,6 +22,9 @@
   },
   {
     "Pupils": "TEST"
+  },
+  {
+    "Funduscopic exam": "TEST"
   },
   {
     "hemorrhages": "PROBLEM"
@@ -42,31 +48,34 @@
     "tonsillar enlargement": "PROBLEM"
   },
   {
+    "crypt formation": "PROBLEM"
+  },
+  {
     "abscess": "PROBLEM"
   },
   {
     "JVD": "PROBLEM"
   },
   {
-    "egophony": "TEST"
+    "egophony": "PROBLEM"
   },
   {
-    "tactile fremitus": "TEST"
+    "tactile fremitus": "PROBLEM"
   },
   {
-    "murmur": "TEST"
+    "murmur": "PROBLEM"
   },
   {
-    "gallops": "TEST"
+    "gallops": "PROBLEM"
   },
   {
-    "clicks": "TEST"
+    "clicks": "PROBLEM"
   },
   {
-    "heaves": "TEST"
+    "heaves": "PROBLEM"
   },
   {
-    "rub": "TEST"
+    "rub": "PROBLEM"
   },
   {
     "Cardiac palpation": "TEST"
@@ -105,16 +114,10 @@
     "ecchymosis": "PROBLEM"
   },
   {
-    "gait": "TEST"
-  },
-  {
     "tenderness": "PROBLEM"
   },
   {
     "effusion": "PROBLEM"
-  },
-  {
-    "Range of motion": "TEST"
   },
   {
     "diaphoresis": "PROBLEM"
@@ -124,9 +127,6 @@
   },
   {
     "lymphadenopathy": "PROBLEM"
-  },
-  {
-    "Cranial nerves II - XII": "TEST"
   },
   {
     "DTRs": "TEST"
@@ -144,7 +144,13 @@
     "hallucinations": "PROBLEM"
   },
   {
-    "suicidal or homicidal ideation": "PROBLEM"
+    "suicidal ideation": "PROBLEM"
+  },
+  {
+    "homicidal ideation": "PROBLEM"
+  },
+  {
+    "normal physical exam": "TEST"
   },
   {
     "pulses": "TEST"
@@ -154,6 +160,9 @@
   },
   {
     "strength": "TEST"
+  },
+  {
+    "lymph": "PROBLEM"
   },
   {
     "lesions": "PROBLEM"

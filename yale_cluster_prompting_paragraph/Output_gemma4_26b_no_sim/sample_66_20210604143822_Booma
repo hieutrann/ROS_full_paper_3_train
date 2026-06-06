@@ -15,7 +15,7 @@
     "bilaterally retrograde pyelograms": "TEST"
   },
   {
-    "ureteral stents": "TREATMENT"
+    "externalized ureteral stents": "TREATMENT"
   },
   {
     "Exploratory laparotomy": "TREATMENT"
@@ -37,6 +37,12 @@
   },
   {
     "mitomycin-C": "DRUG"
+  },
+  {
+    "bowel prep": "TREATMENT"
+  },
+  {
+    "ureteral stent placement": "TREATMENT"
   },
   {
     "tachycardia": "PROBLEM"
@@ -88,17 +94,5 @@
   },
   {
     "vomitting": "PROBLEM"
-  },
-  {
-    "diarrhea": "PROBLEM"
-  },
-  {
-    "redness": "PROBLEM"
-  },
-  {
-    "drainage": "PROBLEM"
-  },
-  {
-    "warmth": "PROBLEM"
   }
 ]

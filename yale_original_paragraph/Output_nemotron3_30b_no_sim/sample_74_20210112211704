@@ -1,0 +1,41 @@
+[
+  {
+    "cold symptoms": "PROBLEM"
+  },
+  {
+    "bronchitis": "PROBLEM"
+  },
+  {
+    "acute respiratory failure": "PROBLEM"
+  },
+  {
+    "acute on chronic renal failure": "PROBLEM"
+  },
+  {
+    "severe hypertension": "PROBLEM"
+  },
+  {
+    "diastolic dysfunction": "PROBLEM"
+  },
+  {
+    "iv steroids": "TREATMENT"
+  },
+  {
+    "nasal spray": "TREATMENT"
+  },
+  {
+    "steroids": "TREATMENT"
+  },
+  {
+    "MRSA colonization": "PROBLEM"
+  },
+  {
+    "beta blockers": "TREATMENT"
+  },
+  {
+    "Prednisone": "DRUG"
+  },
+  {
+    "Flonase nasal spray": "TREATMENT"
+  }
+]

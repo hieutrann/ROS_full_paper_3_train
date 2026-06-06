@@ -18,6 +18,9 @@
     "sick sinus syndrome": "PROBLEM"
   },
   {
+    "ADMITTING DIAGNOSES": "PROBLEM"
+  },
+  {
     "Bradycardia": "PROBLEM"
   },
   {
@@ -45,13 +48,13 @@
     "intensive care unit": "TREATMENT"
   },
   {
-    "pacemaker": "TREATMENT"
+    "intracardiac pacemaker": "TREATMENT"
   },
   {
     "electrocardiograms": "TEST"
   },
   {
-    "telemetry readings": "TEST"
+    "telemetry": "TEST"
   },
   {
     "pacemaker": "TREATMENT"
@@ -69,13 +72,13 @@
     "pacemaker": "TREATMENT"
   },
   {
-    "Medtronic pacemaker": "DRUG"
+    "Medtronic pacemaker": "TREATMENT"
   },
   {
     "pain": "PROBLEM"
   },
   {
-    "Right femoral artery catheter": "TEST"
+    "Right femoral artery catheter": "TREATMENT"
   },
   {
     "pulses": "TEST"
@@ -111,22 +114,31 @@
     "Osteoarthritis": "PROBLEM"
   },
   {
+    "home medications": "DRUG"
+  },
+  {
     "Actos": "DRUG"
   },
   {
     "Bisacodyl": "DRUG"
   },
   {
+    "daily p.r.n.": "DRUG"
+  },
+  {
     "constipation": "PROBLEM"
   },
   {
-    "Cosopt": "DRUG"
+    "Cosopt eye drops": "DRUG"
   },
   {
     "Famotidine": "DRUG"
   },
   {
-    "Lotemax": "DRUG"
+    "b.i.d.": "TREATMENT"
+  },
+  {
+    "Lotemax 0.5% eye drops": "DRUG"
   },
   {
     "Lotensin": "DRUG"
@@ -138,16 +150,16 @@
     "Triazolam": "DRUG"
   },
   {
-    "Milk of Magnesia": "DRUG"
+    "Milk of Magnesia suspension": "DRUG"
   },
   {
     "constipation": "PROBLEM"
   },
   {
-    "Tylenol": "DRUG"
+    "Tylenol No.": "DRUG"
   },
   {
-    "3, one to two tablets every 6 hours p.r.n.": "DRUG"
+    "tablets": "DRUG"
   },
   {
     "pain": "PROBLEM"
@@ -165,6 +177,9 @@
     "Tylenol": "DRUG"
   },
   {
+    "pain": "PROBLEM"
+  },
+  {
     "cefazolin": "DRUG"
   },
   {
@@ -172,6 +187,15 @@
   },
   {
     "staple removal": "TREATMENT"
+  },
+  {
+    "starch": "DRUG"
+  },
+  {
+    "sugar": "DRUG"
+  },
+  {
+    "discharge summary": "TEST"
   },
   {
     "bradycardia": "PROBLEM"
@@ -193,5 +217,17 @@
   },
   {
     "permanent pacemaker": "TREATMENT"
+  },
+  {
+    "abdominal": "PROBLEM"
+  },
+  {
+    "syndrome": "PROBLEM"
+  },
+  {
+    "sinus": "PROBLEM"
+  },
+  {
+    "pacemaker": "TREATMENT"
   }
 ]

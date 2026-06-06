@@ -9,9 +9,6 @@
     "discomfort in the back": "PROBLEM"
   },
   {
-    "Stomach gets upset": "PROBLEM"
-  },
-  {
     "pain": "PROBLEM"
   },
   {
@@ -24,22 +21,16 @@
     "discomfort in the back": "PROBLEM"
   },
   {
-    "Stomach gets upset": "PROBLEM"
-  },
-  {
     "pain": "PROBLEM"
   },
   {
     "loose bowel movements": "PROBLEM"
   },
   {
-    "bladder control": "PROBLEM"
+    "no bladder control": "PROBLEM"
   },
   {
-    "pain": "PROBLEM"
-  },
-  {
-    "hips": "PROBLEM"
+    "pain in her hips": "PROBLEM"
   },
   {
     "peripheral neuropathy": "PROBLEM"
@@ -81,7 +72,7 @@
     "Abdominal pain": "PROBLEM"
   },
   {
-    "nonspecific irritable bowel type symptoms": "PROBLEM"
+    "irritable bowel type symptoms": "PROBLEM"
   },
   {
     "intermittent diarrhea": "PROBLEM"
@@ -105,10 +96,7 @@
     "weight change": "PROBLEM"
   },
   {
-    "visual or auditory function": "PROBLEM"
-  },
-  {
-    "hearing": "PROBLEM"
+    "hearing": "TEST"
   },
   {
     "epistaxis": "PROBLEM"
@@ -130,9 +118,6 @@
   },
   {
     "chest pains": "PROBLEM"
-  },
-  {
-    "tenderness to palpation": "PROBLEM"
   },
   {
     "wheezing": "PROBLEM"
@@ -213,16 +198,10 @@
     "bleeding-type symptoms": "PROBLEM"
   },
   {
-    "WEIGHT": "TEST"
-  },
-  {
     "BP": "TEST"
   },
   {
     "PULSE": "TEST"
-  },
-  {
-    "RESPIRATIONS": "TEST"
   },
   {
     "Pupils": "TEST"
@@ -237,16 +216,34 @@
     "asymmetry": "PROBLEM"
   },
   {
+    "range of motion": "TEST"
+  },
+  {
     "thyromegaly": "PROBLEM"
   },
   {
     "adenopathy": "PROBLEM"
   },
   {
-    "clear lungs": "PROBLEM"
+    "lungs": "PROBLEM"
+  },
+  {
+    "auscultation": "TEST"
+  },
+  {
+    "percussion": "TEST"
   },
   {
     "Rate and rhythm": "TEST"
+  },
+  {
+    "S1 and S2": "TEST"
+  },
+  {
+    "murmur": "TEST"
+  },
+  {
+    "gallop": "TEST"
   },
   {
     "masses": "PROBLEM"

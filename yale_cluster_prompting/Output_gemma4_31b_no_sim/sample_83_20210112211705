@@ -1,8 +1,5 @@
 [
   {
-    "Ectopic Pregnancy": "PROBLEM"
-  },
-  {
     "pelvic pain": "PROBLEM"
   },
   {
@@ -45,16 +42,16 @@
     "rupture of corpus luteal cyst": "PROBLEM"
   },
   {
-    "observation": "TREATMENT"
-  },
-  {
     "sonogram": "TEST"
   },
   {
     "gestational sac": "PROBLEM"
   },
   {
-    "small mass within the uterus": "PROBLEM"
+    "small mass": "PROBLEM"
+  },
+  {
+    "uterus": "PROBLEM"
   },
   {
     "gestational sac": "PROBLEM"
@@ -64,9 +61,6 @@
   },
   {
     "ruptured ectopic pregnancy": "PROBLEM"
-  },
-  {
-    "surgery": "TREATMENT"
   },
   {
     "laparotomy": "TREATMENT"
@@ -94,6 +88,9 @@
   },
   {
     "fever": "PROBLEM"
+  },
+  {
+    "bowel movement": "PROBLEM"
   },
   {
     "Right ruptured ectopic pregnancy": "PROBLEM"

@@ -6,12 +6,6 @@
     "mucous plugging": "PROBLEM"
   },
   {
-    "indwelling Foley": "TREATMENT"
-  },
-  {
-    "ileal conduit": "TREATMENT"
-  },
-  {
     "hypertension": "PROBLEM"
   },
   {
@@ -21,13 +15,37 @@
     "anemia": "PROBLEM"
   },
   {
+    "Pyelonephritis": "PROBLEM"
+  },
+  {
     "uterine cancer": "PROBLEM"
   },
   {
     "ileal conduit urinary diversion": "TREATMENT"
   },
   {
+    "Hypertension": "PROBLEM"
+  },
+  {
+    "Renal insufficiency": "PROBLEM"
+  },
+  {
+    "Anemia": "PROBLEM"
+  },
+  {
+    "pyelonephritis": "PROBLEM"
+  },
+  {
+    "mucous plug": "PROBLEM"
+  },
+  {
+    "IV antibiotics": "TREATMENT"
+  },
+  {
     "Klebsiella": "PROBLEM"
+  },
+  {
+    "Bactrim": "DRUG"
   },
   {
     "Bactrim": "DRUG"
@@ -43,5 +61,17 @@
   },
   {
     "ibuprofen": "DRUG"
+  },
+  {
+    "uterine cancer": "PROBLEM"
+  },
+  {
+    "renal insufficiency": "PROBLEM"
+  },
+  {
+    "pyelonephritis": "PROBLEM"
+  },
+  {
+    "mucous plugging": "PROBLEM"
   }
 ]

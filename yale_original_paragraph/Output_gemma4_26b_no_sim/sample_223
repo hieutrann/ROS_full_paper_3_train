@@ -21,7 +21,13 @@
     "Blood pressure": "TEST"
   },
   {
+    "respirations": "TEST"
+  },
+  {
     "pulse": "TEST"
+  },
+  {
+    "temperature": "TEST"
   },
   {
     "adenopathy": "PROBLEM"
@@ -33,10 +39,22 @@
     "subacromial space tenderness": "PROBLEM"
   },
   {
-    "Neer's and Hawkins impingement testing": "TEST"
+    "Neer's testing": "TEST"
   },
   {
-    "sulcus, apprehension, Speed's and Yergason's testing": "TEST"
+    "Hawkins impingement testing": "TEST"
+  },
+  {
+    "sulcus testing": "TEST"
+  },
+  {
+    "apprehension testing": "TEST"
+  },
+  {
+    "Speed's testing": "TEST"
+  },
+  {
+    "Yergason's testing": "TEST"
   },
   {
     "x-rays": "TEST"
@@ -55,6 +73,12 @@
   },
   {
     "paresthesias": "PROBLEM"
+  },
+  {
+    "shoulder pain": "PROBLEM"
+  },
+  {
+    "strain": "PROBLEM"
   },
   {
     "impingement": "PROBLEM"

@@ -6,7 +6,7 @@
     "abdominal surgery": "TREATMENT"
   },
   {
-    "chest pain": "PROBLEM"
+    "left-sided chest pain": "PROBLEM"
   },
   {
     "abdominal surgery": "TREATMENT"
@@ -39,9 +39,6 @@
     "left-sided chest pain": "PROBLEM"
   },
   {
-    "heart problems": "PROBLEM"
-  },
-  {
     "nausea": "PROBLEM"
   },
   {
@@ -69,25 +66,16 @@
     "TIA": "PROBLEM"
   },
   {
-    "CHEST": "TEST"
-  },
-  {
-    "wheezing": "PROBLEM"
-  },
-  {
-    "crepitations": "PROBLEM"
-  },
-  {
     "tenderness": "PROBLEM"
   },
   {
     "heart sounds": "TEST"
   },
   {
-    "murmurs": "PROBLEM"
+    "murmurs": "TEST"
   },
   {
-    "Slightly distended": "PROBLEM"
+    "distended": "PROBLEM"
   },
   {
     "Bowel sounds": "TEST"
@@ -120,7 +108,7 @@
     "Ruptured appendicitis": "PROBLEM"
   },
   {
-    "surgery": "TREATMENT"
+    "bowels": "TEST"
   },
   {
     "Left-sided chest pain": "PROBLEM"
@@ -166,8 +154,5 @@
   },
   {
     "laparoscopic appendicectomy": "TREATMENT"
-  },
-  {
-    "surgery": "TREATMENT"
   }
 ]

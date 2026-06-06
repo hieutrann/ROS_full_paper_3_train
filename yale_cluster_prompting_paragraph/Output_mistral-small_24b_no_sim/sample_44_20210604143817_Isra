@@ -6,15 +6,6 @@
     "airway compromise": "PROBLEM"
   },
   {
-    "operating room": "TREATMENT"
-  },
-  {
-    "intubated": "TREATMENT"
-  },
-  {
-    "fishbone": "PROBLEM"
-  },
-  {
     "diabetes": "PROBLEM"
   },
   {
@@ -51,9 +42,6 @@
     "Solu-Medrol": "DRUG"
   },
   {
-    "airway compromise": "PROBLEM"
-  },
-  {
     "fishbone": "PROBLEM"
   },
   {
@@ -63,28 +51,13 @@
     "airway": "PROBLEM"
   },
   {
+    "tracheostomy": "TREATMENT"
+  },
+  {
     "IV antibiotics": "DRUG"
   },
   {
     "ventilatory support": "TREATMENT"
-  },
-  {
-    "airway": "PROBLEM"
-  },
-  {
-    "extubated": "TREATMENT"
-  },
-  {
-    "tracheostomy": "TREATMENT"
-  },
-  {
-    "airway": "PROBLEM"
-  },
-  {
-    "extubated": "TREATMENT"
-  },
-  {
-    "airway": "PROBLEM"
   },
   {
     "airway": "PROBLEM"

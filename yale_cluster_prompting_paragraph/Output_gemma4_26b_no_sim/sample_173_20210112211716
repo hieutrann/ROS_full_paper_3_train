@@ -60,7 +60,13 @@
     "orthopnea": "PROBLEM"
   },
   {
-    "musculoskeletal pain": "PROBLEM"
+    "pain in the right buttock": "PROBLEM"
+  },
+  {
+    "spine": "PROBLEM"
+  },
+  {
+    "extremity pain": "PROBLEM"
   },
   {
     "Triamterene/hydrochlorothiazide": "DRUG"
@@ -78,25 +84,10 @@
     "Cardura": "DRUG"
   },
   {
-    "VITAL SIGNS": "TEST"
-  },
-  {
-    "Temperature": "TEST"
-  },
-  {
-    "pulse": "TEST"
-  },
-  {
-    "respirations": "TEST"
-  },
-  {
-    "blood pressure": "TEST"
+    "murmur": "PROBLEM"
   },
   {
     "edema": "PROBLEM"
-  },
-  {
-    "GFR": "TEST"
   },
   {
     "cardiac arrhythmia": "PROBLEM"
@@ -109,9 +100,6 @@
   },
   {
     "blood pressure": "TEST"
-  },
-  {
-    "pacemaker": "TREATMENT"
   },
   {
     "atenolol": "DRUG"

@@ -1,12 +1,36 @@
 [
   {
-    "Neck Pain": "PROBLEM"
+    "Neck pain": "PROBLEM"
   },
   {
     "right upper extremity radiculopathy": "PROBLEM"
   },
   {
     "cervical spondylosis": "PROBLEM"
+  },
+  {
+    "herniated nucleus pulposus": "PROBLEM"
+  },
+  {
+    "C4-C5": "PROBLEM"
+  },
+  {
+    "C5-C6": "PROBLEM"
+  },
+  {
+    "C6-C7": "PROBLEM"
+  },
+  {
+    "stenosis": "PROBLEM"
+  },
+  {
+    "Neck pain": "PROBLEM"
+  },
+  {
+    "right upper extremity radiculopathy": "PROBLEM"
+  },
+  {
+    "Cervical spondylosis": "PROBLEM"
   },
   {
     "herniated nucleus pulposus": "PROBLEM"
@@ -24,22 +48,7 @@
     "Cervical spondylosis": "PROBLEM"
   },
   {
-    "herniated nucleus pulposus C4-C5, C5-C6, and C6-C7": "PROBLEM"
-  },
-  {
-    "stenosis": "PROBLEM"
-  },
-  {
-    "Neck pain": "PROBLEM"
-  },
-  {
-    "right upper extremity radiculopathy": "PROBLEM"
-  },
-  {
-    "Cervical spondylosis": "PROBLEM"
-  },
-  {
-    "herniated nucleus pulposus C4-C5, C5-C6, and C6-C7": "PROBLEM"
+    "herniated nucleus pulposus": "PROBLEM"
   },
   {
     "stenosis": "PROBLEM"
@@ -63,13 +72,25 @@
     "Allograft": "TREATMENT"
   },
   {
-    "intense neck pain": "PROBLEM"
+    "neck pain": "PROBLEM"
   },
   {
     "right shoulder blade": "PROBLEM"
   },
   {
+    "right shoulder": "PROBLEM"
+  },
+  {
+    "right upper extremity": "PROBLEM"
+  },
+  {
+    "hand": "PROBLEM"
+  },
+  {
     "weakness of the right upper extremity": "PROBLEM"
+  },
+  {
+    "imaging studies": "TEST"
   },
   {
     "cervical spondylosis": "PROBLEM"
@@ -90,7 +111,7 @@
     "operative site soreness": "PROBLEM"
   },
   {
-    "morphine": "DRUG"
+    "IV morphine": "DRUG"
   },
   {
     "pain": "PROBLEM"
@@ -127,8 +148,5 @@
   },
   {
     "herniated nucleus pulposus": "PROBLEM"
-  },
-  {
-    "herniated": "PROBLEM"
   }
 ]

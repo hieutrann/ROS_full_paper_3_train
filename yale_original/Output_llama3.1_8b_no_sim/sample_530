@@ -1,21 +1,27 @@
 [
   {
-    "MRI C-Spine - C5-6 Disk Herniation": "PROBLEM"
+    "C5-6 Disk Herniation": "PROBLEM"
   },
   {
-    "C5-6 disk herniation": "PROBLEM"
+    "MRI C-Spine": "TEST"
   },
   {
-    "MRI C-spine": "TEST"
+    "MRI C-Spine": "TEST"
   },
   {
-    "C-spine": "TEST"
+    "C5-6 Disk Herniation": "PROBLEM"
+  },
+  {
+    "right shoulder pain": "PROBLEM"
   },
   {
     "Right shoulder pain": "PROBLEM"
   },
   {
-    "right neck and shoulder stiffness and pain": "PROBLEM"
+    "neck stiffness": "PROBLEM"
+  },
+  {
+    "shoulder pain": "PROBLEM"
   },
   {
     "symptoms": "PROBLEM"
@@ -51,13 +57,13 @@
     "bladder difficulties": "PROBLEM"
   },
   {
-    "symptoms involving the LUE": "PROBLEM"
+    "LUE": "PROBLEM"
   },
   {
     "Lhermitte's phenomena": "PROBLEM"
   },
   {
-    "neck/back/head trauma": "PROBLEM"
+    "trauma": "PROBLEM"
   },
   {
     "Naprosyn": "DRUG"
@@ -69,7 +75,7 @@
     "Macrodantin": "DRUG"
   },
   {
-    "Smokes": "PROBLEM"
+    "cigarettes": "PROBLEM"
   },
   {
     "Vital signs": "TEST"
@@ -84,22 +90,19 @@
     "tone": "PROBLEM"
   },
   {
-    "LT/PP/VIB/TEMP/PROP testing": "TEST"
+    "TEMP": "TEST"
   },
   {
-    "Gait": "TEST"
-  },
-  {
-    "Reflexes": "TEST"
+    "Unremarkable": "PROBLEM"
   },
   {
     "2/2": "TEST"
   },
   {
-    "BUE": "TEST"
+    "2+": "TEST"
   },
   {
-    "2+": "TEST"
+    "BUE": "TEST"
   },
   {
     "left biceps": "PROBLEM"
@@ -108,7 +111,7 @@
     "BLE": "PROBLEM"
   },
   {
-    "right ankle reflex": "PROBLEM"
+    "ankle reflex": "PROBLEM"
   },
   {
     "Plantar responses": "TEST"
@@ -120,13 +123,19 @@
     "C-spine lesion": "PROBLEM"
   },
   {
-    "MRI C-spine": "TEST"
+    "MRI": "TEST"
   },
   {
-    "C5-6 disk herniation": "PROBLEM"
+    "C-spine": "TEST"
+  },
+  {
+    "disk herniation": "PROBLEM"
   },
   {
     "spinal cord": "PROBLEM"
+  },
+  {
+    "compression": "PROBLEM"
   },
   {
     "EMG/NCV": "TEST"
@@ -135,22 +144,25 @@
     "NCV": "TEST"
   },
   {
-    "sharps and fibrillations": "PROBLEM"
+    "sharps": "PROBLEM"
   },
   {
-    "biceps": "TEST"
+    "fibrillations": "PROBLEM"
   },
   {
-    "brachioradialis": "TEST"
+    "biceps": "TREATMENT"
   },
   {
-    "triceps": "TEST"
+    "brachioradialis": "TREATMENT"
   },
   {
-    "teres major": "TEST"
+    "triceps": "TREATMENT"
   },
   {
-    "pronator terres": "TEST"
+    "teres major": "TREATMENT"
+  },
+  {
+    "pronator terres": "TREATMENT"
   },
   {
     "insertional activity": "PROBLEM"
@@ -160,9 +172,6 @@
   },
   {
     "C5-6 laminectomy": "TREATMENT"
-  },
-  {
-    "symptoms": "PROBLEM"
   },
   {
     "lhermitte's phenomena": "PROBLEM"
@@ -175,9 +184,6 @@
   },
   {
     "mri c spine": "TEST"
-  },
-  {
-    "mri": "TEST"
   },
   {
     "disk": "PROBLEM"
@@ -196,5 +202,8 @@
   },
   {
     "biceps": "TEST"
+  },
+  {
+    "mri": "TEST"
   }
 ]

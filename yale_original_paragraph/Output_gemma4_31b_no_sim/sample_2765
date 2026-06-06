@@ -6,7 +6,7 @@
     "mucous plugging": "PROBLEM"
   },
   {
-    "indwelling Foley": "TREATMENT"
+    "Foley": "TREATMENT"
   },
   {
     "ileal conduit": "TREATMENT"
@@ -15,7 +15,7 @@
     "hypertension": "PROBLEM"
   },
   {
-    "mild renal insufficiency": "PROBLEM"
+    "renal insufficiency": "PROBLEM"
   },
   {
     "anemia": "PROBLEM"
@@ -45,7 +45,7 @@
     "mucous plugging": "PROBLEM"
   },
   {
-    "indwelling Foley": "TREATMENT"
+    "Foley": "TREATMENT"
   },
   {
     "ileal conduit": "TREATMENT"
@@ -72,9 +72,6 @@
     "ileal conduit": "TREATMENT"
   },
   {
-    "irrigated": "TREATMENT"
-  },
-  {
     "IV antibiotics": "DRUG"
   },
   {
@@ -87,7 +84,7 @@
     "Bactrim": "DRUG"
   },
   {
-    "p.o. Bactrim": "DRUG"
+    "Bactrim": "DRUG"
   },
   {
     "surgery": "TREATMENT"

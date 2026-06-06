@@ -51,6 +51,21 @@
     "instability": "PROBLEM"
   },
   {
+    "pain medication": "DRUG"
+  },
+  {
     "chronic pain syndrome": "PROBLEM"
+  },
+  {
+    "spinal instability": "PROBLEM"
+  },
+  {
+    "pars defects": "PROBLEM"
+  },
+  {
+    "radiculopathy": "PROBLEM"
+  },
+  {
+    "spondylolysis": "PROBLEM"
   }
 ]

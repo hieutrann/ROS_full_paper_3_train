@@ -3,7 +3,7 @@
     "Nausea": "PROBLEM"
   },
   {
-    "feeling faint": "PROBLEM"
+    "faint": "PROBLEM"
   },
   {
     "nausea": "PROBLEM"
@@ -12,10 +12,16 @@
     "weak": "PROBLEM"
   },
   {
+    "salt": "DRUG"
+  },
+  {
     "Nausea": "PROBLEM"
   },
   {
-    "feeling faint": "PROBLEM"
+    "faint": "PROBLEM"
+  },
+  {
+    "female": "PROBLEM"
   },
   {
     "appetite": "PROBLEM"
@@ -31,6 +37,9 @@
   },
   {
     "chills": "PROBLEM"
+  },
+  {
+    "sweats": "PROBLEM"
   },
   {
     "ear pain": "PROBLEM"
@@ -90,16 +99,16 @@
     "Norvasc": "DRUG"
   },
   {
-    "Wellbutrin SR": "DRUG"
+    "Wellbutrin SR inhaler": "DRUG"
   },
   {
-    "O2": "DRUG"
+    "home O2": "TREATMENT"
   },
   {
     "MORPHINE": "DRUG"
   },
   {
-    "vomiting": "PROBLEM"
+    "VOMITING": "PROBLEM"
   },
   {
     "COPD": "PROBLEM"
@@ -108,7 +117,7 @@
     "hypertension": "PROBLEM"
   },
   {
-    "Tobacco use": "PROBLEM"
+    "Tobacco": "PROBLEM"
   },
   {
     "Alcohol use": "PROBLEM"
@@ -132,10 +141,25 @@
     "BP": "TEST"
   },
   {
+    "alert": "PROBLEM"
+  },
+  {
+    "cooperative": "PROBLEM"
+  },
+  {
+    "nontoxic": "PROBLEM"
+  },
+  {
+    "hydrated": "PROBLEM"
+  },
+  {
     "Warm": "PROBLEM"
   },
   {
     "dry": "PROBLEM"
+  },
+  {
+    "color": "PROBLEM"
   },
   {
     "EOMI": "TEST"
@@ -144,7 +168,7 @@
     "PERRL": "TEST"
   },
   {
-    "MOUTH": "TEST"
+    "MOUTH": "PROBLEM"
   },
   {
     "mucous membranes": "PROBLEM"
@@ -162,46 +186,22 @@
     "bowel sounds": "TEST"
   },
   {
-    "rebound": "TEST"
-  },
-  {
-    "guarding": "TEST"
-  },
-  {
     "CVA tenderness": "PROBLEM"
   },
   {
-    "extremities": "TEST"
+    "extremities": "PROBLEM"
   },
   {
     "pretibial edema": "PROBLEM"
   },
   {
-    "Cranial nerves II to XII": "TEST"
-  },
-  {
-    "motor": "TEST"
-  },
-  {
-    "cerebellar": "TEST"
+    "NEURO": "TEST"
   },
   {
     "WBC": "TEST"
   },
   {
     "differential": "TEST"
-  },
-  {
-    "neutrophils": "TEST"
-  },
-  {
-    "lymphocytes": "TEST"
-  },
-  {
-    "monocytes": "TEST"
-  },
-  {
-    "eosinophils": "TEST"
   },
   {
     "Hemoglobin": "TEST"
@@ -252,16 +252,19 @@
     "COPD": "PROBLEM"
   },
   {
+    "O2 sat": "TEST"
+  },
+  {
     "sinus tachycardia": "PROBLEM"
   },
   {
-    "orthostatic vital sign changes": "TEST"
+    "orthostatic vital sign changes": "PROBLEM"
   },
   {
     "albuterol": "DRUG"
   },
   {
-    "unit dose small volume nebulizer treatment": "TREATMENT"
+    "small volume nebulizer": "TREATMENT"
   },
   {
     "expiratory wheezing": "PROBLEM"
@@ -279,10 +282,10 @@
     "urine": "TEST"
   },
   {
-    "sphincter tone": "TEST"
+    "sphincter tone": "PROBLEM"
   },
   {
-    "rectal secretions": "PROBLEM"
+    "rectal secretions": "TEST"
   },
   {
     "better": "PROBLEM"
@@ -303,16 +306,16 @@
     "hyponatremia": "PROBLEM"
   },
   {
-    "Laboratory evaluation": "TEST"
-  },
-  {
     "tiredness": "PROBLEM"
   },
   {
-    "not feeling well": "PROBLEM"
+    "rectal bleeding": "PROBLEM"
   },
   {
-    "rectal bleeding": "PROBLEM"
+    "X": "TEST"
+  },
+  {
+    "hemodynamically stable": "PROBLEM"
   },
   {
     "Acute tiredness": "PROBLEM"
@@ -330,10 +333,19 @@
     "anemia": "PROBLEM"
   },
   {
+    "Dr.": "TREATMENT"
+  },
+  {
+    "condition": "PROBLEM"
+  },
+  {
     "fever": "PROBLEM"
   },
   {
     "chills": "PROBLEM"
+  },
+  {
+    "sweats": "PROBLEM"
   },
   {
     "ear pain": "PROBLEM"
@@ -385,6 +397,9 @@
   },
   {
     "feeling faint": "PROBLEM"
+  },
+  {
+    "saline lock": "TREATMENT"
   },
   {
     "edema": "PROBLEM"

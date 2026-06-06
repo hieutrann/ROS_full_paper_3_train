@@ -12,7 +12,7 @@
     "conjunctivitis": "PROBLEM"
   },
   {
-    "mild arthritis": "PROBLEM"
+    "arthritis": "PROBLEM"
   },
   {
     "edema": "PROBLEM"
@@ -21,13 +21,13 @@
     "rash": "PROBLEM"
   },
   {
-    "elevated neutrophils": "PROBLEM"
+    "neutrophils": "TEST"
   },
   {
     "thrombocytosis": "PROBLEM"
   },
   {
-    "elevated CRP": "TEST"
+    "CRP": "TEST"
   },
   {
     "ESR": "TEST"
@@ -48,7 +48,7 @@
     "conjunctivitis": "PROBLEM"
   },
   {
-    "mild arthritis": "PROBLEM"
+    "arthritis": "PROBLEM"
   },
   {
     "edema": "PROBLEM"
@@ -136,6 +136,9 @@
   },
   {
     "fevers": "PROBLEM"
+  },
+  {
+    "mucous membranes": "PROBLEM"
   },
   {
     "conjunctivitis": "PROBLEM"

@@ -63,7 +63,7 @@
     "obstructive sleep apnea": "PROBLEM"
   },
   {
-    "placement of a band": "TREATMENT"
+    "band": "TREATMENT"
   },
   {
     "cholelithiasis": "PROBLEM"
@@ -102,7 +102,7 @@
     "laparoscopic cholecystectomy": "TREATMENT"
   },
   {
-    "difficult intubation": "PROBLEM"
+    "intubation": "PROBLEM"
   },
   {
     "chronic cholecystitis": "PROBLEM"
@@ -124,6 +124,9 @@
   },
   {
     "insulin": "DRUG"
+  },
+  {
+    "Medifast diet": "TREATMENT"
   },
   {
     "blood glucose": "TEST"
@@ -148,6 +151,9 @@
   },
   {
     "laparoscopic cholecystectomy": "TREATMENT"
+  },
+  {
+    "medifast diet": "TREATMENT"
   },
   {
     "cholecystitis": "PROBLEM"

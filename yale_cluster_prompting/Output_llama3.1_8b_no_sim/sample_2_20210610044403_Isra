@@ -3,15 +3,6 @@
     "General Medicine": "TREATMENT"
   },
   {
-    "Normal": "TEST"
-  },
-  {
-    "Normal": "TEST"
-  },
-  {
-    "review of systems template": "TEST"
-  },
-  {
     "weakness": "PROBLEM"
   },
   {
@@ -33,25 +24,25 @@
     "allergies": "PROBLEM"
   },
   {
-    "Negative weakness": "PROBLEM"
+    "weakness": "PROBLEM"
   },
   {
-    "Negative fatigue": "PROBLEM"
+    "fatigue": "PROBLEM"
   },
   {
-    "native malaise": "PROBLEM"
+    "malaise": "PROBLEM"
   },
   {
-    "Negative chills": "PROBLEM"
+    "chills": "PROBLEM"
   },
   {
-    "Negative fever": "PROBLEM"
+    "fever": "PROBLEM"
   },
   {
-    "Negative night sweats": "PROBLEM"
+    "night sweats": "PROBLEM"
   },
   {
-    "Negative allergies": "PROBLEM"
+    "allergies": "PROBLEM"
   },
   {
     "rash": "PROBLEM"
@@ -138,9 +129,6 @@
     "hypertension": "PROBLEM"
   },
   {
-    "shortness of breath": "PROBLEM"
-  },
-  {
     "asthma": "PROBLEM"
   },
   {
@@ -165,16 +153,16 @@
     "abdominal pain": "PROBLEM"
   },
   {
-    "Negative frequency": "PROBLEM"
+    "frequency": "PROBLEM"
   },
   {
-    "Negative urgency": "PROBLEM"
+    "urgency": "PROBLEM"
   },
   {
-    "Negative dysuria": "PROBLEM"
+    "dysuria": "PROBLEM"
   },
   {
-    "Negative incontinence": "PROBLEM"
+    "incontinence": "PROBLEM"
   },
   {
     "STDs": "PROBLEM"
@@ -207,30 +195,24 @@
     "endocrinologic abnormalities": "PROBLEM"
   },
   {
-    "general medicine": "PROBLEM"
+    "general medicine": "TREATMENT"
   },
   {
-    "nose and throat": "PROBLEM"
+    "nose and throat": "TREATMENT"
   },
   {
-    "cardiovascular": "PROBLEM"
+    "cardiovascular": "TREATMENT"
   },
   {
-    "integumentary": "PROBLEM"
-  },
-  {
-    "negative weakness": "PROBLEM"
-  },
-  {
-    "neurologic": "PROBLEM"
-  },
-  {
-    "throat": "PROBLEM"
-  },
-  {
-    "psychiatric": "PROBLEM"
+    "integumentary": "TREATMENT"
   },
   {
     "weakness": "PROBLEM"
+  },
+  {
+    "neurologic": "TREATMENT"
+  },
+  {
+    "psychiatric": "TREATMENT"
   }
 ]

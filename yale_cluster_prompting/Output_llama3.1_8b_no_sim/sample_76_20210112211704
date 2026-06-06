@@ -6,16 +6,13 @@
     "urinary tract infection": "PROBLEM"
   },
   {
-    "feeling a bit better": "PROBLEM"
-  },
-  {
-    "VITAL SIGNS": "TEST"
+    "patient": "PROBLEM"
   },
   {
     "Temperature": "TEST"
   },
   {
-    "temperature": "TEST"
+    "102.1": "PROBLEM"
   },
   {
     "auscultation": "TEST"
@@ -27,7 +24,7 @@
     "murmurs": "PROBLEM"
   },
   {
-    "ABDOMEN": "PROBLEM"
+    "Benign": "PROBLEM"
   },
   {
     "renal angle": "PROBLEM"
@@ -36,22 +33,22 @@
     "Bowel sounds": "TEST"
   },
   {
-    "EXTREMITIES": "TEST"
+    "swelling": "PROBLEM"
   },
   {
-    "oriented": "PROBLEM"
+    "oriented": "TEST"
   },
   {
-    "Examination": "TEST"
+    "nonfocal": "PROBLEM"
   },
   {
     "White count": "TEST"
   },
   {
-    "15.5": "TEST"
+    "35,000": "TEST"
   },
   {
-    "35,000": "TEST"
+    "15.5": "TEST"
   },
   {
     "Hemoglobin": "TEST"
@@ -102,7 +99,7 @@
     "intravenous fluids": "TREATMENT"
   },
   {
-    "4": "TEST"
+    "4": "TREATMENT"
   },
   {
     "Ischemic cardiomyopathy": "PROBLEM"
@@ -111,7 +108,7 @@
     "decompensation": "PROBLEM"
   },
   {
-    "5": "TEST"
+    "5": "TREATMENT"
   },
   {
     "Diabetes type 2": "PROBLEM"
@@ -123,7 +120,7 @@
     "insulin": "DRUG"
   },
   {
-    "6": "PROBLEM"
+    "6": "TREATMENT"
   },
   {
     "pulmonary embolism": "PROBLEM"
@@ -135,25 +132,19 @@
     "Coumadin": "DRUG"
   },
   {
-    "7": "TEST"
-  },
-  {
     "coronary artery disease": "PROBLEM"
   },
   {
     "Troponin": "TEST"
   },
   {
-    "workup": "TEST"
+    "Cardiologist": "TREATMENT"
   },
   {
-    "treatment": "TREATMENT"
+    "medical treatment": "TREATMENT"
   },
   {
-    "troponin": "TEST"
-  },
-  {
-    "impaired clearance": "PROBLEM"
+    "troponin": "PROBLEM"
   },
   {
     "sepsis": "PROBLEM"
@@ -171,7 +162,7 @@
     "troponin": "TEST"
   },
   {
-    "urinary": "TEST"
+    "urinary": "PROBLEM"
   },
   {
     "infection": "PROBLEM"

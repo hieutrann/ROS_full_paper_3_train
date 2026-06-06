@@ -72,9 +72,6 @@
     "epigastric pain": "PROBLEM"
   },
   {
-    "prescription medications": "DRUG"
-  },
-  {
     "afebrile": "PROBLEM"
   },
   {
@@ -93,7 +90,7 @@
     "Abdominal ultrasound": "TEST"
   },
   {
-    "mild-to-moderate ascites": "PROBLEM"
+    "ascites": "PROBLEM"
   },
   {
     "Zosyn": "DRUG"
@@ -147,9 +144,6 @@
     "hepatic encephalopathy": "PROBLEM"
   },
   {
-    "smoker": "PROBLEM"
-  },
-  {
     "cocaine": "DRUG"
   },
   {
@@ -189,12 +183,6 @@
     "confused": "PROBLEM"
   },
   {
-    "PHYSICAL EXAMINATION": "TEST"
-  },
-  {
-    "VITAL SIGNS": "TEST"
-  },
-  {
     "Heart rate": "TEST"
   },
   {
@@ -225,13 +213,7 @@
     "icteric sclerae": "PROBLEM"
   },
   {
-    "Pupils": "TEST"
-  },
-  {
-    "gross hearing": "TEST"
-  },
-  {
-    "Moist oral mucosa": "PROBLEM"
+    "reaction to light": "TEST"
   },
   {
     "oral lesions": "PROBLEM"
@@ -270,7 +252,7 @@
     "Tender on palpation": "PROBLEM"
   },
   {
-    "Mildly tender": "PROBLEM"
+    "tender": "PROBLEM"
   },
   {
     "cervical lymphadenopathy": "PROBLEM"
@@ -342,10 +324,10 @@
     "Urinalysis": "TEST"
   },
   {
-    "leucocyte esterase": "TEST"
+    "leucocyte esterase": "PROBLEM"
   },
   {
-    "nitrites": "TEST"
+    "nitrites": "PROBLEM"
   },
   {
     "wbc's": "TEST"
@@ -444,7 +426,16 @@
     "paracentesis": "TREATMENT"
   },
   {
-    "ascitic fluid for cell count, differential and cultures": "TEST"
+    "ascitic fluid": "TEST"
+  },
+  {
+    "cell count": "TEST"
+  },
+  {
+    "differential": "TEST"
+  },
+  {
+    "cultures": "TEST"
   },
   {
     "blood cultures": "TEST"
@@ -454,9 +445,6 @@
   },
   {
     "hepatitis A vaccination": "TREATMENT"
-  },
-  {
-    "ID recommendations": "TREATMENT"
   },
   {
     "sbp": "PROBLEM"

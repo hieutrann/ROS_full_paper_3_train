@@ -3,7 +3,7 @@
     "stasis ulcer": "PROBLEM"
   },
   {
-    "Nonhealing right ankle stasis ulcer": "PROBLEM"
+    "right ankle stasis ulcer": "PROBLEM"
   },
   {
     "hypertension": "PROBLEM"
@@ -18,7 +18,7 @@
     "vascular surgery": "TREATMENT"
   },
   {
-    "low-grade fever": "PROBLEM"
+    "fever": "PROBLEM"
   },
   {
     "ankle pain": "PROBLEM"
@@ -45,19 +45,10 @@
     "Enterobacter": "PROBLEM"
   },
   {
+    "surgical management": "TREATMENT"
+  },
+  {
     "low-grade fevers": "PROBLEM"
-  },
-  {
-    "sinus congestion": "PROBLEM"
-  },
-  {
-    "sore throat": "PROBLEM"
-  },
-  {
-    "chest pain": "PROBLEM"
-  },
-  {
-    "cough": "PROBLEM"
   },
   {
     "nausea": "PROBLEM"
@@ -67,6 +58,9 @@
   },
   {
     "diarrhea": "PROBLEM"
+  },
+  {
+    "exploratory laparotomy": "TREATMENT"
   },
   {
     "abdominal obstruction": "PROBLEM"
@@ -120,10 +114,19 @@
     "multivitamins with minerals": "DRUG"
   },
   {
+    "hyperpigmentation": "PROBLEM"
+  },
+  {
+    "open wound": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
     "White blood cell count": "TEST"
   },
   {
-    "neutrophils": "TEST"
+    "neutrophils": "PROBLEM"
   },
   {
     "H&H": "TEST"

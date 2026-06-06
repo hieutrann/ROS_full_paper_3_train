@@ -51,9 +51,6 @@
     "diarrhea": "PROBLEM"
   },
   {
-    "weight": "TEST"
-  },
-  {
     "lost all this weight": "PROBLEM"
   },
   {
@@ -105,7 +102,7 @@
     "Specific gravity": "TEST"
   },
   {
-    "protein": "TEST"
+    "protein": "PROBLEM"
   },
   {
     "Sodium": "TEST"
@@ -168,22 +165,19 @@
     "weight loss": "PROBLEM"
   },
   {
-    "weight": "TEST"
+    "weight": "PROBLEM"
   },
   {
-    "height": "TEST"
+    "temperature": "PROBLEM"
   },
   {
-    "temperature": "TEST"
+    "pulse": "PROBLEM"
   },
   {
-    "pulse": "TEST"
+    "respirations": "PROBLEM"
   },
   {
-    "respirations": "TEST"
-  },
-  {
-    "blood pressure": "TEST"
+    "blood pressure": "PROBLEM"
   },
   {
     "blood pressure": "TEST"
@@ -205,6 +199,9 @@
   },
   {
     "The free T4": "TEST"
+  },
+  {
+    "borderline high": "PROBLEM"
   },
   {
     "Graves disease": "PROBLEM"

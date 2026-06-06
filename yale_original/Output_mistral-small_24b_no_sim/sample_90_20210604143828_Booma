@@ -3,16 +3,19 @@
     "mastoiditis": "PROBLEM"
   },
   {
-    "right acute otitis media": "PROBLEM"
+    "otitis media": "PROBLEM"
   },
   {
     "ear pain": "PROBLEM"
   },
   {
+    "mastoiditis": "PROBLEM"
+  },
+  {
     "CT scan": "TEST"
   },
   {
-    "mastoiditis": "PROBLEM"
+    "DISCHARGE DIAGNOSES": "TEST"
   },
   {
     "mastoiditis": "PROBLEM"
@@ -21,7 +24,7 @@
     "Right acute otitis media": "PROBLEM"
   },
   {
-    "Severe ear pain": "PROBLEM"
+    "ear pain": "PROBLEM"
   },
   {
     "mastoiditis": "PROBLEM"
@@ -36,13 +39,10 @@
     "blood draining": "PROBLEM"
   },
   {
-    "right ear": "PROBLEM"
+    "temperature": "TEST"
   },
   {
-    "temperature": "PROBLEM"
-  },
-  {
-    "IV Unasyn": "DRUG"
+    "Unasyn": "DRUG"
   },
   {
     "Morphine": "DRUG"
@@ -54,13 +54,13 @@
     "pain": "PROBLEM"
   },
   {
-    "pain": "PROBLEM"
-  },
-  {
     "swelling": "PROBLEM"
   },
   {
-    "cervical area": "PROBLEM"
+    "ENT": "TEST"
+  },
+  {
+    "CT scan": "TEST"
   },
   {
     "CT scan": "TEST"
@@ -87,7 +87,10 @@
     "swelling": "PROBLEM"
   },
   {
-    "respiratory distress": "PROBLEM"
+    "p.o.": "TREATMENT"
+  },
+  {
+    "alert": "PROBLEM"
   },
   {
     "temperature": "TEST"
@@ -108,13 +111,10 @@
     "ear": "PROBLEM"
   },
   {
-    "posterior chains node": "PROBLEM"
+    "chains node": "PROBLEM"
   },
   {
-    "swelling": "PROBLEM"
-  },
-  {
-    "CHEST": "PROBLEM"
+    "breath sounds": "TEST"
   },
   {
     "S1": "TEST"
@@ -132,13 +132,28 @@
     "tenderness": "PROBLEM"
   },
   {
-    "SKIN": "TEST"
+    "DISCHARGE WEIGHT": "TEST"
+  },
+  {
+    "Regular": "TREATMENT"
+  },
+  {
+    "DISCHARGE MEDICATIONS": "DRUG"
   },
   {
     "Ciprodex Otic Solution": "DRUG"
   },
   {
-    "Augmentin": "DRUG"
+    "ear": "PROBLEM"
+  },
+  {
+    "Augmentin 500 mg three times daily x10 days": "DRUG"
+  },
+  {
+    "ENT": "TEST"
+  },
+  {
+    "discharge summary": "TEST"
   },
   {
     "acute otitis media": "PROBLEM"
@@ -151,5 +166,11 @@
   },
   {
     "otitis media": "PROBLEM"
+  },
+  {
+    "discharge": "PROBLEM"
+  },
+  {
+    "ear": "PROBLEM"
   }
 ]

@@ -27,7 +27,7 @@
     "weak knees": "PROBLEM"
   },
   {
-    "bilateral knee pain": "PROBLEM"
+    "knee pain": "PROBLEM"
   },
   {
     "hematuria": "PROBLEM"
@@ -63,7 +63,7 @@
     "weak knees": "PROBLEM"
   },
   {
-    "bilateral knee pain": "PROBLEM"
+    "knee pain": "PROBLEM"
   },
   {
     "hematuria": "PROBLEM"
@@ -75,10 +75,10 @@
     "afebrile": "PROBLEM"
   },
   {
-    "heart rate": "TEST"
+    "heart rate of 130": "TEST"
   },
   {
-    "respiratory rate": "TEST"
+    "respiratory rate of 24": "TEST"
   },
   {
     "White blood cell count": "TEST"
@@ -103,9 +103,6 @@
   },
   {
     "hypotension": "PROBLEM"
-  },
-  {
-    "SBP": "TEST"
   },
   {
     "vancomycin": "DRUG"
@@ -142,9 +139,6 @@
   },
   {
     "hepatic encephalopathy": "PROBLEM"
-  },
-  {
-    "former smoker": "PROBLEM"
   },
   {
     "cocaine": "DRUG"
@@ -186,12 +180,6 @@
     "confused": "PROBLEM"
   },
   {
-    "PHYSICAL EXAMINATION": "TEST"
-  },
-  {
-    "CONSTITUTIONAL/VITAL SIGNS": "TEST"
-  },
-  {
     "Heart rate": "TEST"
   },
   {
@@ -207,19 +195,13 @@
     "oxygen saturation": "TEST"
   },
   {
-    "2 L nasal cannula": "TREATMENT"
+    "nasal cannula": "TREATMENT"
   },
   {
     "drowsy": "PROBLEM"
   },
   {
     "Morbidly obese": "PROBLEM"
-  },
-  {
-    "Height": "TEST"
-  },
-  {
-    "body weight": "TEST"
   },
   {
     "pale conjunctivae": "PROBLEM"
@@ -234,37 +216,25 @@
     "gross hearing": "TEST"
   },
   {
-    "Moist oral mucosa": "PROBLEM"
+    "crackles": "TEST"
   },
   {
-    "neck masses": "PROBLEM"
+    "wheezes": "TEST"
   },
   {
-    "Thyroid": "PROBLEM"
+    "cardiac rhythm": "TEST"
   },
   {
-    "crackles": "PROBLEM"
+    "rales": "TEST"
   },
   {
-    "wheezes": "PROBLEM"
-  },
-  {
-    "cardiac rhythm": "PROBLEM"
-  },
-  {
-    "rales": "PROBLEM"
-  },
-  {
-    "rubs": "PROBLEM"
+    "rubs": "TEST"
   },
   {
     "bipedal edema": "PROBLEM"
   },
   {
     "Globular abdomen": "PROBLEM"
-  },
-  {
-    "guarding": "PROBLEM"
   },
   {
     "rigidity": "PROBLEM"
@@ -345,21 +315,6 @@
     "Urinalysis": "TEST"
   },
   {
-    "leucocyte esterase": "TEST"
-  },
-  {
-    "nitrites": "TEST"
-  },
-  {
-    "wbc's": "TEST"
-  },
-  {
-    "rbc's": "TEST"
-  },
-  {
-    "bacteria": "PROBLEM"
-  },
-  {
     "blood cultures": "TEST"
   },
   {
@@ -378,10 +333,7 @@
     "ascites": "PROBLEM"
   },
   {
-    "mild prominence of the gallbladder": "PROBLEM"
-  },
-  {
-    "thickened ball": "PROBLEM"
+    "gallbladder with thickened ball": "PROBLEM"
   },
   {
     "pericholecystic fluid": "PROBLEM"
@@ -432,7 +384,7 @@
     "Thrombocytopenia": "PROBLEM"
   },
   {
-    "Hepatitis C": "PROBLEM"
+    "Hepatitis C.": "PROBLEM"
   },
   {
     "Cryoglobulinemia": "PROBLEM"
@@ -468,7 +420,7 @@
     "hepatitis A vaccination": "TREATMENT"
   },
   {
-    "sbp": "TEST"
+    "sbp": "PROBLEM"
   },
   {
     "diabetes": "PROBLEM"

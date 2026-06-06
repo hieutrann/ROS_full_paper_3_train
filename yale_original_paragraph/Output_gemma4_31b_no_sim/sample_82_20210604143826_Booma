@@ -30,6 +30,9 @@
     "moderate mitral regurgitation": "PROBLEM"
   },
   {
+    "cardiology consultation": "TEST"
+  },
+  {
     "atrial fibrillation": "PROBLEM"
   },
   {
@@ -60,7 +63,7 @@
     "normal sinus rhythm": "PROBLEM"
   },
   {
-    "frequent APCs": "PROBLEM"
+    "APCs": "PROBLEM"
   },
   {
     "potassium": "TEST"
@@ -81,7 +84,7 @@
     "PA pressure": "TEST"
   },
   {
-    "preserved left and right ventricular systolic function": "PROBLEM"
+    "left and right ventricular systolic function": "TEST"
   },
   {
     "aortic sclerosis": "PROBLEM"
@@ -96,7 +99,7 @@
     "Persantine Myoview nuclear rest-stress test scan": "TEST"
   },
   {
-    "significant mitral valve regurgitation": "PROBLEM"
+    "mitral valve regurgitation": "PROBLEM"
   },
   {
     "moderate": "PROBLEM"
@@ -114,13 +117,13 @@
     "normal sinus rhythm": "PROBLEM"
   },
   {
-    "frequent APCs": "PROBLEM"
+    "APCs": "PROBLEM"
   },
   {
     "wandering atrial pacemaker": "PROBLEM"
   },
   {
-    "significant hypertension": "PROBLEM"
+    "hypertension": "PROBLEM"
   },
   {
     "dizzy spells": "PROBLEM"
@@ -219,6 +222,9 @@
     "sleep apnea": "PROBLEM"
   },
   {
+    "home oxygen use": "TREATMENT"
+  },
+  {
     "peripheral edema": "PROBLEM"
   },
   {
@@ -241,6 +247,9 @@
   },
   {
     "lupus": "PROBLEM"
+  },
+  {
+    "temperature": "TEST"
   },
   {
     "blood pressure": "TEST"
@@ -270,7 +279,7 @@
     "left hip fracture": "PROBLEM"
   },
   {
-    "frequent ectopic beats": "PROBLEM"
+    "ectopic beats": "PROBLEM"
   },
   {
     "systolic ejection murmur": "PROBLEM"
@@ -283,6 +292,12 @@
   },
   {
     "gallop": "PROBLEM"
+  },
+  {
+    "clubbing": "PROBLEM"
+  },
+  {
+    "cyanosis": "PROBLEM"
   },
   {
     "peripheral edema": "PROBLEM"
@@ -354,7 +369,7 @@
     "wandering atrial pacemaker": "PROBLEM"
   },
   {
-    "lateral T-wave changes": "PROBLEM"
+    "T-wave changes": "PROBLEM"
   },
   {
     "EKG": "TEST"
@@ -363,7 +378,7 @@
     "normal sinus rhythm": "PROBLEM"
   },
   {
-    "frequent APCs": "PROBLEM"
+    "APCs": "PROBLEM"
   },
   {
     "hypertension": "PROBLEM"
@@ -390,7 +405,7 @@
     "normal sinus rhythm": "PROBLEM"
   },
   {
-    "frequent APCs": "PROBLEM"
+    "APCs": "PROBLEM"
   },
   {
     "multifocal atrial tachycardia": "PROBLEM"
@@ -438,7 +453,7 @@
     "surgery": "TREATMENT"
   },
   {
-    "mild thrombocytopenia": "PROBLEM"
+    "thrombocytopenia": "PROBLEM"
   },
   {
     "proton pump inhibitors": "DRUG"

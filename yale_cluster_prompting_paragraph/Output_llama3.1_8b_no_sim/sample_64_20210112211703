@@ -1,5 +1,8 @@
 [
   {
+    "diabetes mellitus": "PROBLEM"
+  },
+  {
     "osteomyelitis": "PROBLEM"
   },
   {
@@ -18,16 +21,19 @@
     "Ancef": "DRUG"
   },
   {
-    "wound care": "TREATMENT"
+    "wound VAC placement": "TREATMENT"
   },
   {
-    "wound VAC placement": "TREATMENT"
+    "debridement": "TREATMENT"
   },
   {
     "PICC line": "TREATMENT"
   },
   {
-    "debridement": "TREATMENT"
+    "antibiotic therapy": "TREATMENT"
+  },
+  {
+    "wound care": "TREATMENT"
   },
   {
     "MRI": "TEST"

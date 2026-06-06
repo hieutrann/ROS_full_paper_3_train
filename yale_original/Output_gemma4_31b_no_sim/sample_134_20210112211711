@@ -1,15 +1,6 @@
 [
   {
-    "fever": "PROBLEM"
-  },
-  {
-    "weight change": "PROBLEM"
-  },
-  {
-    "fatigue": "PROBLEM"
-  },
-  {
-    "aching": "PROBLEM"
+    "review of systems": "TEST"
   },
   {
     "fever": "PROBLEM"
@@ -22,6 +13,21 @@
   },
   {
     "aching": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "weight change": "PROBLEM"
+  },
+  {
+    "fatigue": "PROBLEM"
+  },
+  {
+    "aching": "PROBLEM"
+  },
+  {
+    "glasses": "TREATMENT"
   },
   {
     "cataracts": "PROBLEM"
@@ -52,6 +58,9 @@
   },
   {
     "dental problems": "PROBLEM"
+  },
+  {
+    "dentures": "TREATMENT"
   },
   {
     "bleeding gums": "PROBLEM"

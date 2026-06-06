@@ -15,9 +15,6 @@
     "Stomach": "PROBLEM"
   },
   {
-    "upset": "PROBLEM"
-  },
-  {
     "pain": "PROBLEM"
   },
   {
@@ -34,9 +31,6 @@
   },
   {
     "Stomach": "PROBLEM"
-  },
-  {
-    "upset": "PROBLEM"
   },
   {
     "pain": "PROBLEM"
@@ -66,7 +60,7 @@
     "Type II diabetes mellitus": "PROBLEM"
   },
   {
-    "Generalized fatigue": "PROBLEM"
+    "fatigue": "PROBLEM"
   },
   {
     "weakness": "PROBLEM"
@@ -78,7 +72,7 @@
     "Peripheral neuropathy": "PROBLEM"
   },
   {
-    "atypical symptoms": "PROBLEM"
+    "symptoms": "PROBLEM"
   },
   {
     "Hypothyroidism": "PROBLEM"
@@ -96,16 +90,28 @@
     "Abdominal pain": "PROBLEM"
   },
   {
-    "irritable bowel type symptoms": "PROBLEM"
+    "irritable bowel": "PROBLEM"
+  },
+  {
+    "symptoms": "PROBLEM"
   },
   {
     "diarrhea": "PROBLEM"
+  },
+  {
+    "medicines": "DRUG"
   },
   {
     "MI": "PROBLEM"
   },
   {
     "stroke": "PROBLEM"
+  },
+  {
+    "smoker": "PROBLEM"
+  },
+  {
+    "drinker": "PROBLEM"
   },
   {
     "fever": "PROBLEM"
@@ -120,7 +126,7 @@
     "weight change": "PROBLEM"
   },
   {
-    "visual or auditory function": "PROBLEM"
+    "HEENT": "TEST"
   },
   {
     "hearing": "PROBLEM"
@@ -147,7 +153,7 @@
     "chest pains": "PROBLEM"
   },
   {
-    "tenderness": "PROBLEM"
+    "tenderness to palpation": "PROBLEM"
   },
   {
     "wheezing": "PROBLEM"
@@ -213,9 +219,6 @@
     "itching": "PROBLEM"
   },
   {
-    "changes in the nails": "PROBLEM"
-  },
-  {
     "lumps": "PROBLEM"
   },
   {
@@ -240,7 +243,7 @@
     "RESPIRATIONS": "TEST"
   },
   {
-    "normocephalic": "PROBLEM"
+    "Head": "TEST"
   },
   {
     "Ears, nose, and throat": "TEST"
@@ -252,13 +255,28 @@
     "Ear canals": "TEST"
   },
   {
+    "TMs": "TEST"
+  },
+  {
     "Nose": "PROBLEM"
   },
   {
-    "Septum": "PROBLEM"
+    "nares": "PROBLEM"
+  },
+  {
+    "Septum midline": "PROBLEM"
+  },
+  {
+    "Oral mucosa": "TEST"
   },
   {
     "tonsillar lesions": "PROBLEM"
+  },
+  {
+    "exudate": "PROBLEM"
+  },
+  {
+    "asymmetry": "PROBLEM"
   },
   {
     "Neck": "PROBLEM"
@@ -270,22 +288,22 @@
     "adenopathy": "PROBLEM"
   },
   {
-    "CHEST": "PROBLEM"
+    "lungs": "PROBLEM"
   },
   {
-    "Rate and rhythm": "TEST"
+    "HEART": "PROBLEM"
   },
   {
-    "S1 and S2": "TEST"
+    "S1": "TEST"
+  },
+  {
+    "S2": "TEST"
   },
   {
     "murmur": "PROBLEM"
   },
   {
     "gallop": "PROBLEM"
-  },
-  {
-    "ABDOMEN": "TEST"
   },
   {
     "masses": "PROBLEM"
@@ -312,25 +330,16 @@
     "edema": "PROBLEM"
   },
   {
+    "SKIN AND INTEGUMENTS": "PROBLEM"
+  },
+  {
     "lesions": "PROBLEM"
   },
   {
     "rashes": "PROBLEM"
   },
   {
-    "NEUROLOGIC": "TEST"
-  },
-  {
-    "cranial nerve testing": "TEST"
-  },
-  {
-    "motor": "TEST"
-  },
-  {
-    "sensory": "TEST"
-  },
-  {
-    "gait": "TEST"
+    "NEUROLOGIC": "PROBLEM"
   },
   {
     "metformin": "DRUG"
@@ -364,6 +373,15 @@
   },
   {
     "CT": "TEST"
+  },
+  {
+    "abdomen": "TEST"
+  },
+  {
+    "pelvis": "TEST"
+  },
+  {
+    "medications": "DRUG"
   },
   {
     "diuretics": "DRUG"

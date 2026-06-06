@@ -57,6 +57,9 @@
     "appendiceal primary": "PROBLEM"
   },
   {
+    "preoperative evaluation": "TEST"
+  },
+  {
     "baseline labs": "TEST"
   },
   {
@@ -96,6 +99,15 @@
     "tachycardia": "PROBLEM"
   },
   {
+    "extubation": "TREATMENT"
+  },
+  {
+    "clear liquid diet": "TREATMENT"
+  },
+  {
+    "regular health select diet": "TREATMENT"
+  },
+  {
     "pain": "PROBLEM"
   },
   {
@@ -105,13 +117,16 @@
     "pain medicines": "DRUG"
   },
   {
+    "pain control": "TREATMENT"
+  },
+  {
     "diarrhea": "PROBLEM"
   },
   {
     "right hemicolectomy": "TREATMENT"
   },
   {
-    "C. diff toxin": "TEST"
+    "A C. diff toxin": "TEST"
   },
   {
     "Imodium": "DRUG"
@@ -132,13 +147,10 @@
     "vital signs": "TEST"
   },
   {
-    "abdomen": "TEST"
+    "midline incision": "PROBLEM"
   },
   {
-    "bowel sounds": "TEST"
-  },
-  {
-    "midline incision": "TREATMENT"
+    "staples": "TREATMENT"
   },
   {
     "Multivitamins": "DRUG"
@@ -147,7 +159,7 @@
     "Lovenox": "DRUG"
   },
   {
-    "Vicodin 5/500 mg": "DRUG"
+    "Vicodin": "DRUG"
   },
   {
     "pain": "PROBLEM"
@@ -159,7 +171,7 @@
     "nausea": "PROBLEM"
   },
   {
-    "Imodium A-D tablets": "DRUG"
+    "Imodium A-D": "DRUG"
   },
   {
     "diarrhea": "PROBLEM"
@@ -189,7 +201,7 @@
     "warmth": "PROBLEM"
   },
   {
-    "incision site": "TREATMENT"
+    "incision site": "PROBLEM"
   },
   {
     "staples": "TREATMENT"

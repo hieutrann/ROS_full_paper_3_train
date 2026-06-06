@@ -1,5 +1,101 @@
 [
   {
+    "Hypertension": "PROBLEM"
+  },
+  {
+    "atrial fibrillation": "PROBLEM"
+  },
+  {
+    "large cardioembolic stroke": "PROBLEM"
+  },
+  {
+    "medical management": "TREATMENT"
+  },
+  {
+    "stroke": "PROBLEM"
+  },
+  {
+    "left body findings": "PROBLEM"
+  },
+  {
+    "CT scan of the head": "TEST"
+  },
+  {
+    "atrial fibrillation": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "labetalol": "DRUG"
+  },
+  {
+    "Cardizem": "DRUG"
+  },
+  {
+    "large stroke": "PROBLEM"
+  },
+  {
+    "cardioembolic": "PROBLEM"
+  },
+  {
+    "comatose": "PROBLEM"
+  },
+  {
+    "intubation": "TREATMENT"
+  },
+  {
+    "paralyzation": "PROBLEM"
+  },
+  {
+    "acute second stroke": "PROBLEM"
+  },
+  {
+    "arteriogram": "TEST"
+  },
+  {
+    "clot": "PROBLEM"
+  },
+  {
+    "proximal left carotid": "PROBLEM"
+  },
+  {
+    "distal clot": "PROBLEM"
+  },
+  {
+    "echocardiogram": "TEST"
+  },
+  {
+    "patent foramen ovale": "PROBLEM"
+  },
+  {
+    "clot in the legs": "PROBLEM"
+  },
+  {
+    "Echo": "TEST"
+  },
+  {
+    "arteriogram": "TEST"
+  },
+  {
+    "bladder distension surgery": "TREATMENT"
+  },
+  {
+    "Coumadin": "DRUG"
+  },
+  {
+    "AFib": "PROBLEM"
+  },
+  {
+    "Tremor": "PROBLEM"
+  },
+  {
+    "Parkinson's": "PROBLEM"
+  },
+  {
+    "GERD": "PROBLEM"
+  },
+  {
     "hypertension": "PROBLEM"
   },
   {
@@ -12,13 +108,16 @@
     "TIA": "PROBLEM"
   },
   {
-    "chronic atrial fibrillation": "PROBLEM"
+    "atrial fibrillation": "PROBLEM"
   },
   {
     "Coumadin": "DRUG"
   },
   {
     "Cholecystectomy": "TREATMENT"
+  },
+  {
+    "TAH 33": "TREATMENT"
   },
   {
     "gallstones": "PROBLEM"
@@ -81,16 +180,7 @@
     "MI": "PROBLEM"
   },
   {
-    "VITAL SIGNS": "TEST"
-  },
-  {
     "blood pressure": "TEST"
-  },
-  {
-    "heart rate": "TEST"
-  },
-  {
-    "respirations": "TEST"
   },
   {
     "white count": "TEST"
@@ -114,7 +204,7 @@
     "cholesterol": "TEST"
   },
   {
-    "Digoxin": "TEST"
+    "Digoxin": "DRUG"
   },
   {
     "CPK": "TEST"
@@ -123,7 +213,7 @@
     "ABG": "TEST"
   },
   {
-    "Magnesium": "TEST"
+    "Magnesium": "DRUG"
   },
   {
     "ESR": "TEST"
@@ -153,28 +243,13 @@
     "CT scan of the head": "TEST"
   },
   {
-    "ET tube": "TREATMENT"
-  },
-  {
-    "CT scan of the head": "TEST"
-  },
-  {
-    "bleeding": "PROBLEM"
+    "active bleeding": "PROBLEM"
   },
   {
     "X-rays of the shoulders": "TEST"
   },
   {
-    "Large cardioembolic stroke": "PROBLEM"
-  },
-  {
-    "stroke": "PROBLEM"
-  },
-  {
-    "fluctuating mental status": "PROBLEM"
-  },
-  {
-    "clot burden": "PROBLEM"
+    "large clot burden": "PROBLEM"
   },
   {
     "patent foramen ovale": "PROBLEM"
@@ -204,6 +279,9 @@
     "Parkinson's": "PROBLEM"
   },
   {
+    "atrial fibrillation": "PROBLEM"
+  },
+  {
     "Cardizem": "DRUG"
   },
   {
@@ -225,7 +303,10 @@
     "Digoxin": "DRUG"
   },
   {
-    "beta-block": "DRUG"
+    "beta-blocker": "DRUG"
+  },
+  {
+    "vasospasm": "PROBLEM"
   },
   {
     "calcium channel blocker": "DRUG"
@@ -237,7 +318,7 @@
     "Esmolol": "DRUG"
   },
   {
-    "beta-blocker": "DRUG"
+    "hypertension": "PROBLEM"
   },
   {
     "Digoxin level": "TEST"
@@ -261,6 +342,9 @@
     "brain swelling": "PROBLEM"
   },
   {
+    "alkalosis": "PROBLEM"
+  },
+  {
     "brain swelling": "PROBLEM"
   },
   {
@@ -280,8 +364,5 @@
   },
   {
     "CBCs": "TEST"
-  },
-  {
-    "tube feeds": "TREATMENT"
   }
 ]

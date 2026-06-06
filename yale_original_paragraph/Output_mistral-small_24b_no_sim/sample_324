@@ -1,12 +1,6 @@
 [
   {
-    "eye": "TEST"
-  },
-  {
-    "eyelids": "TEST"
-  },
-  {
-    "conjunctivae": "TEST"
+    "Female Physical Exam": "TEST"
   },
   {
     "erythema": "PROBLEM"
@@ -18,112 +12,25 @@
     "lacerations": "PROBLEM"
   },
   {
-    "sclerae": "TEST"
-  },
-  {
     "jaundice": "PROBLEM"
-  },
-  {
-    "cornea": "TEST"
   },
   {
     "lesions": "PROBLEM"
   },
   {
-    "pupils": "TEST"
-  },
-  {
-    "iris": "TEST"
-  },
-  {
-    "anterior chamber": "TEST"
-  },
-  {
-    "lacrimal ducts": "TEST"
-  },
-  {
-    "fundi": "TEST"
-  },
-  {
-    "ear": "TEST"
-  },
-  {
-    "external ear": "TEST"
-  },
-  {
     "edema": "PROBLEM"
   },
   {
-    "ear canal": "TEST"
+    "discharge": "PROBLEM"
   },
   {
-    "tympanic membranes": "TEST"
-  },
-  {
-    "middle ear effusions": "PROBLEM"
-  },
-  {
-    "nose": "TEST"
-  },
-  {
-    "external nose": "TEST"
-  },
-  {
-    "nares": "TEST"
-  },
-  {
-    "turbinates": "TEST"
-  },
-  {
-    "mucus": "TEST"
-  },
-  {
-    "throat": "TEST"
-  },
-  {
-    "erythema": "PROBLEM"
-  },
-  {
-    "exudates": "PROBLEM"
-  },
-  {
-    "buccal mucosa": "TEST"
-  },
-  {
-    "lips": "TEST"
-  },
-  {
-    "tongue": "TEST"
-  },
-  {
-    "hard and soft palate": "TEST"
-  },
-  {
-    "teeth": "TEST"
+    "effusions": "PROBLEM"
   },
   {
     "adenopathy": "PROBLEM"
   },
   {
-    "tonsils": "TEST"
-  },
-  {
-    "uvula": "TEST"
-  },
-  {
-    "neck": "TEST"
-  },
-  {
     "thyromegaly": "PROBLEM"
-  },
-  {
-    "masses": "PROBLEM"
-  },
-  {
-    "trachea": "TEST"
-  },
-  {
-    "chest": "TEST"
   },
   {
     "wheezing": "PROBLEM"
@@ -135,22 +42,10 @@
     "rhonchi": "PROBLEM"
   },
   {
-    "accessory muscle use": "PROBLEM"
-  },
-  {
-    "cardiovascular": "TEST"
-  },
-  {
-    "heart": "TEST"
-  },
-  {
     "S3": "PROBLEM"
   },
   {
     "S4": "PROBLEM"
-  },
-  {
-    "abdominal": "TEST"
   },
   {
     "hepatomegaly": "PROBLEM"
@@ -162,100 +57,25 @@
     "bruits": "PROBLEM"
   },
   {
-    "genital": "TEST"
-  },
-  {
-    "labia majora": "TEST"
-  },
-  {
-    "labia minora": "TEST"
-  },
-  {
-    "clitoris": "TEST"
-  },
-  {
-    "vaginal mucosa": "TEST"
-  },
-  {
     "discharge": "PROBLEM"
   },
   {
-    "cervix": "TEST"
+    "hemorrhoids": "PROBLEM"
   },
   {
-    "ovaries": "TEST"
+    "effusions": "PROBLEM"
   },
   {
-    "pelvic masses": "PROBLEM"
+    "crepitus": "PROBLEM"
   },
   {
-    "uterus": "TEST"
+    "ecchymosis": "PROBLEM"
   },
   {
-    "external hemorrhoids": "PROBLEM"
+    "tenderness": "PROBLEM"
   },
   {
-    "musculoskeletal": "TEST"
-  },
-  {
-    "muscle groups": "TEST"
-  },
-  {
-    "joints": "TEST"
-  },
-  {
-    "joint effusions": "PROBLEM"
-  },
-  {
-    "foot": "TEST"
-  },
-  {
-    "ankle": "TEST"
-  },
-  {
-    "drawer test": "TEST"
-  },
-  {
-    "knee": "TEST"
-  },
-  {
-    "lachman's test": "TEST"
-  },
-  {
-    "collateral ligaments": "TEST"
-  },
-  {
-    "bursas": "TEST"
-  },
-  {
-    "wrist": "TEST"
-  },
-  {
-    "tinel": "TEST"
-  },
-  {
-    "phalen tests": "TEST"
-  },
-  {
-    "elbow": "TEST"
-  },
-  {
-    "olecranon bursa": "TEST"
-  },
-  {
-    "hip": "TEST"
-  },
-  {
-    "swinging test": "TEST"
-  },
-  {
-    "trochanteric bursa": "TEST"
-  },
-  {
-    "gait": "TEST"
-  },
-  {
-    "psychiatric": "TEST"
+    "effusion": "PROBLEM"
   },
   {
     "delusions": "PROBLEM"
@@ -279,45 +99,6 @@
     "agitation": "PROBLEM"
   },
   {
-    "eye contact": "TEST"
-  },
-  {
-    "crepitus": "PROBLEM"
-  },
-  {
-    "ecchymosis": "PROBLEM"
-  },
-  {
-    "joint effusion": "PROBLEM"
-  },
-  {
-    "normal range of motion": "TEST"
-  },
-  {
-    "shape and contour": "TEST"
-  },
-  {
-    "normal strength": "TEST"
-  },
-  {
-    "joint effusions": "PROBLEM"
-  },
-  {
-    "normal color": "TEST"
-  },
-  {
-    "nontender": "TEST"
-  },
-  {
-    "lesions": "PROBLEM"
-  },
-  {
-    "effusions": "PROBLEM"
-  },
-  {
-    "muscle": "TEST"
-  },
-  {
-    "joints": "TEST"
+    "glasses": "TREATMENT"
   }
 ]

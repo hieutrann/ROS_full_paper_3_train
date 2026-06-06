@@ -12,34 +12,46 @@
     "temperature": "TEST"
   },
   {
-    "EOMI": "TEST"
+    "EOMI": "PROBLEM"
   },
   {
-    "PERRLA": "TEST"
+    "PERRLA": "PROBLEM"
+  },
+  {
+    "icteric": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
   },
   {
     "Funduscopic examination": "TEST"
   },
   {
-    "TMs": "TEST"
+    "TMs": "PROBLEM"
   },
   {
-    "canals": "TEST"
+    "canals": "PROBLEM"
   },
   {
     "hearing": "TEST"
   },
   {
-    "Nose and Sinuses": "TEST"
+    "Nose and Sinuses": "PROBLEM"
   },
   {
-    "Mouth, Tongue, Teeth, and Throat": "TEST"
+    "Mouth, Tongue, Teeth, and Throat": "PROBLEM"
   },
   {
     "dental work": "TREATMENT"
   },
   {
-    "Supple and pain free": "TEST"
+    "Supple": "PROBLEM"
+  },
+  {
+    "pain free": "PROBLEM"
+  },
+  {
+    "bruit": "PROBLEM"
   },
   {
     "JVD": "PROBLEM"
@@ -51,7 +63,7 @@
     "thyroid abnormality": "PROBLEM"
   },
   {
-    "Lungs are bilaterally clear": "TEST"
+    "Lungs": "PROBLEM"
   },
   {
     "auscultation": "TEST"
@@ -60,28 +72,55 @@
     "percussion": "TEST"
   },
   {
-    "S1 and S2": "TEST"
+    "HEART": "PROBLEM"
   },
   {
-    "Regular rate and rhythm": "TEST"
+    "S1": "PROBLEM"
   },
   {
-    "PMI nondisplaced": "TEST"
+    "S2": "PROBLEM"
   },
   {
-    "Chest wall unremarkable": "TEST"
+    "murmur": "PROBLEM"
   },
   {
-    "axillary or supraclavicular adenopathy": "PROBLEM"
+    "heave": "PROBLEM"
   },
   {
-    "BREASTS": "TEST"
+    "click": "PROBLEM"
   },
   {
-    "ABDOMEN": "TEST"
+    "lift": "PROBLEM"
   },
   {
-    "hepatosplenomegaly": "PROBLEM"
+    "thrill": "PROBLEM"
+  },
+  {
+    "rub": "PROBLEM"
+  },
+  {
+    "gallop": "PROBLEM"
+  },
+  {
+    "PMI": "PROBLEM"
+  },
+  {
+    "Chest wall": "PROBLEM"
+  },
+  {
+    "axillary": "PROBLEM"
+  },
+  {
+    "supraclavicular": "PROBLEM"
+  },
+  {
+    "adenopathy": "PROBLEM"
+  },
+  {
+    "BREASTS": "PROBLEM"
+  },
+  {
+    "HEPATOSPLENOMEGALY": "PROBLEM"
   },
   {
     "mass": "PROBLEM"
@@ -99,13 +138,19 @@
     "guarding": "PROBLEM"
   },
   {
-    "EXTREMITIES": "TEST"
+    "aortic impulse": "PROBLEM"
   },
   {
-    "distal pulse": "TEST"
+    "intraabdominal bruit": "PROBLEM"
   },
   {
-    "perfusion": "TEST"
+    "EXTERNAL GENITALIA": "PROBLEM"
+  },
+  {
+    "RECTAL": "PROBLEM"
+  },
+  {
+    "EXTREMITIES": "PROBLEM"
   },
   {
     "edema": "PROBLEM"
@@ -120,13 +165,7 @@
     "deep venous thrombosis": "PROBLEM"
   },
   {
-    "Nails of the hands and feet": "TEST"
-  },
-  {
-    "creases of the palms and soles": "TEST"
-  },
-  {
-    "BACK": "TEST"
+    "BACK": "PROBLEM"
   },
   {
     "spinous process tenderness": "PROBLEM"
@@ -135,45 +174,36 @@
     "CVA tenderness": "PROBLEM"
   },
   {
-    "straight-leg raising": "TEST"
+    "straight-leg raising": "PROBLEM"
   },
   {
-    "Kernig": "TEST"
+    "Kernig": "PROBLEM"
   },
   {
-    "Brudzinski": "TEST"
+    "Brudzinski": "PROBLEM"
   },
   {
-    "NEUROLOGIC": "TEST"
+    "NEUROLOGIC": "PROBLEM"
   },
   {
-    "cranial and peripheral nervous systems": "TEST"
+    "cranial": "PROBLEM"
   },
   {
-    "strength": "TEST"
+    "peripheral nervous systems": "PROBLEM"
   },
   {
-    "sensation": "TEST"
+    "strength": "PROBLEM"
   },
   {
-    "cerebellar function": "TEST"
+    "sensation": "PROBLEM"
   },
   {
-    "Affect is normal": "TEST"
+    "cerebellar function": "PROBLEM"
   },
   {
-    "Speech is clear and fluent": "TEST"
+    "Speech": "PROBLEM"
   },
   {
-    "Thought process is lucid and rational": "TEST"
-  },
-  {
-    "Gait and station are unremarkable": "TEST"
-  },
-  {
-    "SKIN": "TEST"
-  },
-  {
-    "premalignant or malignant condition": "PROBLEM"
+    "SKIN": "PROBLEM"
   }
 ]

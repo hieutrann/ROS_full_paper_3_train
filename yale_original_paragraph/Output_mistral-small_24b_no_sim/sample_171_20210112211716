@@ -21,7 +21,7 @@
     "hepatitis C": "PROBLEM"
   },
   {
-    "CHF": "PROBLEM"
+    "CHF exacerbation": "PROBLEM"
   },
   {
     "shortness of breath": "PROBLEM"
@@ -33,61 +33,13 @@
     "PND": "PROBLEM"
   },
   {
-    "palpitation": "PROBLEM"
-  },
-  {
-    "presyncope": "PROBLEM"
-  },
-  {
-    "syncope": "PROBLEM"
-  },
-  {
     "right upper quadrant pain": "PROBLEM"
   },
   {
     "nausea": "PROBLEM"
   },
   {
-    "vomiting": "PROBLEM"
-  },
-  {
-    "joint pain": "PROBLEM"
-  },
-  {
-    "TIA": "PROBLEM"
-  },
-  {
-    "seizure": "PROBLEM"
-  },
-  {
     "cocaine": "DRUG"
-  },
-  {
-    "Pulse": "TEST"
-  },
-  {
-    "blood pressure": "TEST"
-  },
-  {
-    "weight": "TEST"
-  },
-  {
-    "HEENT": "TEST"
-  },
-  {
-    "NECK": "TEST"
-  },
-  {
-    "LUNGS": "TEST"
-  },
-  {
-    "CVS": "TEST"
-  },
-  {
-    "ABDOMEN": "TEST"
-  },
-  {
-    "EXTREMITIES": "TEST"
   },
   {
     "Lasix": "DRUG"
@@ -112,15 +64,6 @@
   },
   {
     "weight": "TEST"
-  },
-  {
-    "gastroenterologist": "TREATMENT"
-  },
-  {
-    "hepatitis C": "PROBLEM"
-  },
-  {
-    "Medicaid": "PROBLEM"
   },
   {
     "fasting lipid profile": "TEST"

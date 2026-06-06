@@ -1,11 +1,5 @@
 [
   {
-    "Back Pain": "PROBLEM"
-  },
-  {
-    "Decreased ability to perform daily living activities": "PROBLEM"
-  },
-  {
     "chronic back pain": "PROBLEM"
   },
   {
@@ -21,7 +15,7 @@
     "back pain": "PROBLEM"
   },
   {
-    "severe back pain": "PROBLEM"
+    "back pain": "PROBLEM"
   },
   {
     "IV analgesics": "TREATMENT"
@@ -102,16 +96,13 @@
     "postnasal drip": "PROBLEM"
   },
   {
-    "bilateral carpal tunnel syndrome": "PROBLEM"
+    "carpal tunnel syndrome": "PROBLEM"
   },
   {
     "excision of abdominal teratoma": "TREATMENT"
   },
   {
     "incisional hernia": "PROBLEM"
-  },
-  {
-    "alcohol": "DRUG"
   },
   {
     "chills": "PROBLEM"
@@ -168,7 +159,7 @@
     "numbness and tingling": "PROBLEM"
   },
   {
-    "bilateral carpal tunnel syndrome": "PROBLEM"
+    "carpal tunnel syndrome": "PROBLEM"
   },
   {
     "seizure disorders": "PROBLEM"
@@ -192,13 +183,16 @@
     "O2 saturation": "TEST"
   },
   {
-    "EOMI": "TEST"
-  },
-  {
     "thrush": "PROBLEM"
   },
   {
-    "HEART": "TEST"
+    "LUNGS": "TEST"
+  },
+  {
+    "heart rate": "TEST"
+  },
+  {
+    "heart rhythm": "TEST"
   },
   {
     "S1 and S2": "TEST"
@@ -219,7 +213,10 @@
     "calf tenderness": "PROBLEM"
   },
   {
-    "Acute on chronic back pain": "PROBLEM"
+    "Bilateral strength": "TEST"
+  },
+  {
+    "back pain": "PROBLEM"
   },
   {
     "rehabilitation therapy": "TREATMENT"
@@ -277,12 +274,6 @@
   },
   {
     "Obesity": "PROBLEM"
-  },
-  {
-    "decreased ability, daily living activities": "PROBLEM"
-  },
-  {
-    "exacerbation": "PROBLEM"
   },
   {
     "back pain": "PROBLEM"

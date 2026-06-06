@@ -24,15 +24,6 @@
     "Micronase": "DRUG"
   },
   {
-    "ear abnormalities": "PROBLEM"
-  },
-  {
-    "nose abnormalities": "PROBLEM"
-  },
-  {
-    "throat abnormalities": "PROBLEM"
-  },
-  {
     "elevated cholesterol": "PROBLEM"
   },
   {
@@ -99,12 +90,6 @@
     "Bactrim": "DRUG"
   },
   {
-    "drug or alcohol abuse": "PROBLEM"
-  },
-  {
-    "Vital Signs": "TEST"
-  },
-  {
     "Upright BP": "TEST"
   },
   {
@@ -117,7 +102,16 @@
     "Lung expansion": "TEST"
   },
   {
-    "regular rhythm": "PROBLEM"
+    "excursions": "TEST"
+  },
+  {
+    "auscultation": "TEST"
+  },
+  {
+    "percussion": "TEST"
+  },
+  {
+    "regular rhythm": "TEST"
   },
   {
     "SI and S2": "TEST"
@@ -132,19 +126,10 @@
     "bowel sounds": "TEST"
   },
   {
-    "The abdomen is soft": "TEST"
-  },
-  {
-    "The abdomen is nontender": "TEST"
-  },
-  {
     "organomegaly": "PROBLEM"
   },
   {
     "CVA tenderness": "PROBLEM"
-  },
-  {
-    "hernias": "PROBLEM"
   },
   {
     "clubbing": "PROBLEM"
@@ -193,8 +178,5 @@
   },
   {
     "diabetes": "PROBLEM"
-  },
-  {
-    "abnormalities": "PROBLEM"
   }
 ]

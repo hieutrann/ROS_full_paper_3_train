@@ -1,11 +1,5 @@
 [
   {
-    "Normal ENT Exam": "TEST"
-  },
-  {
-    "ear, nose, mouth, and throat exam": "TEST"
-  },
-  {
     "deformity": "PROBLEM"
   },
   {
@@ -28,8 +22,5 @@
   },
   {
     "exudate": "PROBLEM"
-  },
-  {
-    "erythema": "PROBLEM"
   }
 ]

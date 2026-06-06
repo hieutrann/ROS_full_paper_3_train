@@ -51,16 +51,7 @@
     "swelling in her ankles": "PROBLEM"
   },
   {
-    "PHYSICAL EXAMINATION": "TEST"
-  },
-  {
-    "Vitals": "TEST"
-  },
-  {
     "B/P": "TEST"
-  },
-  {
-    "acute distress": "PROBLEM"
   },
   {
     "frontal and maxillary sinus tenderness": "PROBLEM"
@@ -70,6 +61,9 @@
   },
   {
     "slightly dull": "PROBLEM"
+  },
+  {
+    "Large": "PROBLEM"
   },
   {
     "swelling": "PROBLEM"
@@ -121,9 +115,6 @@
   },
   {
     "weight loss": "TREATMENT"
-  },
-  {
-    "tests": "TEST"
   },
   {
     "diabetes mellitus": "PROBLEM"

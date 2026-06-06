@@ -3,10 +3,10 @@
     "extensive dental disease": "PROBLEM"
   },
   {
-    "multiple dental caries": "PROBLEM"
+    "toothache": "PROBLEM"
   },
   {
-    "toothache": "PROBLEM"
+    "multiple dental caries": "PROBLEM"
   },
   {
     "OxyContin": "DRUG"
@@ -24,42 +24,15 @@
     "Dilaudid": "DRUG"
   },
   {
-    "tooth #12": "TREATMENT"
+    "physical examination": "TREATMENT"
   },
   {
-    "tooth #21": "TREATMENT"
+    "emergency department course": "TREATMENT"
   },
   {
-    "PAST MEDICAL HISTORY": "TREATMENT"
+    "pain shot": "TREATMENT"
   },
   {
-    "CURRENT MEDICATIONS": "TREATMENT"
-  },
-  {
-    "ALLERGIES": "TREATMENT"
-  },
-  {
-    "SOCIAL HISTORY": "TREATMENT"
-  },
-  {
-    "PHYSICAL EXAMINATION": "TEST"
-  },
-  {
-    "VITAL SIGNS": "TEST"
-  },
-  {
-    "REVIEW OF SYSTEMS": "TEST"
-  },
-  {
-    "DIAGNOSES": "TEST"
-  },
-  {
-    "CONDITION UPON DISPOSITION": "TEST"
-  },
-  {
-    "DISPOSITION": "TEST"
-  },
-  {
-    "PLAN": "TEST"
+    "prescription": "TREATMENT"
   }
 ]

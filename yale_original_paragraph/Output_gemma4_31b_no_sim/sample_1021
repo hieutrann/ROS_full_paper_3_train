@@ -24,13 +24,19 @@
     "Breast cancer": "PROBLEM"
   },
   {
-    "Craniocaudal and mediolateral oblique projections": "TEST"
+    "Craniocaudal": "TEST"
   },
   {
-    "iCAD Second Look proprietary software": "TEST"
+    "mediolateral oblique projections": "TEST"
   },
   {
-    "adipose and fibroglandular elements": "PROBLEM"
+    "iCAD Second Look": "TEST"
+  },
+  {
+    "adipose": "PROBLEM"
+  },
+  {
+    "fibroglandular elements": "PROBLEM"
   },
   {
     "punctate benign-appearing calcifications": "PROBLEM"
@@ -39,7 +45,7 @@
     "dominant mass": "PROBLEM"
   },
   {
-    "areas of architecture distortion": "PROBLEM"
+    "architecture distortion": "PROBLEM"
   },
   {
     "malignant-type calcifications": "PROBLEM"
@@ -57,6 +63,9 @@
     "Benign": "PROBLEM"
   },
   {
+    "cancers": "PROBLEM"
+  },
+  {
     "mammography": "TEST"
   },
   {
@@ -72,7 +81,7 @@
     "digital mammography": "TEST"
   },
   {
-    "iCAD SecondLook Software Version 7.2": "TEST"
+    "iCAD SecondLook Software": "TEST"
   },
   {
     "bilateral screening mammogram": "TEST"

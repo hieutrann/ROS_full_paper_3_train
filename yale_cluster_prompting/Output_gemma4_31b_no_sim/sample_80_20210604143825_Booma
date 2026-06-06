@@ -1,8 +1,5 @@
 [
   {
-    "ENT Exam": "TEST"
-  },
-  {
     "lymphadenitis": "PROBLEM"
   },
   {
@@ -28,6 +25,9 @@
   },
   {
     "infection": "PROBLEM"
+  },
+  {
+    "Hearing": "TEST"
   },
   {
     "disruption": "PROBLEM"
@@ -63,7 +63,10 @@
     "infection": "PROBLEM"
   },
   {
-    "oral mucosa": "PROBLEM"
+    "palpation": "TEST"
+  },
+  {
+    "inspection": "TEST"
   },
   {
     "swelling": "PROBLEM"
@@ -81,10 +84,37 @@
     "mass lesion": "PROBLEM"
   },
   {
+    "oral mucosa": "PROBLEM"
+  },
+  {
+    "lips": "PROBLEM"
+  },
+  {
+    "hearing": "PROBLEM"
+  },
+  {
+    "auditory canals": "PROBLEM"
+  },
+  {
+    "tympanic membranes": "PROBLEM"
+  },
+  {
     "traumatic lesions": "PROBLEM"
   },
   {
+    "mouth": "PROBLEM"
+  },
+  {
+    "throat": "PROBLEM"
+  },
+  {
     "trauma": "PROBLEM"
+  },
+  {
+    "nose": "PROBLEM"
+  },
+  {
+    "membranes": "PROBLEM"
   },
   {
     "inflammation": "PROBLEM"

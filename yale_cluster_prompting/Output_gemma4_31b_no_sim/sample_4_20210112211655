@@ -12,13 +12,13 @@
     "methotrexate": "DRUG"
   },
   {
-    "prednisone": "DRUG"
+    "high-dose prednisone": "DRUG"
   },
   {
-    "urticarial rash": "PROBLEM"
+    "an urticarial rash": "PROBLEM"
   },
   {
-    "high fevers": "PROBLEM"
+    "persistent high fevers": "PROBLEM"
   },
   {
     "infection": "PROBLEM"
@@ -33,7 +33,7 @@
     "blood cultures": "TEST"
   },
   {
-    "transthoracic echocardiogram": "TEST"
+    "a transthoracic echocardiogram": "TEST"
   },
   {
     "chest x-ray": "TEST"
@@ -55,9 +55,6 @@
   },
   {
     "CT abdomen and pelvis": "TEST"
-  },
-  {
-    "Infectious disease consultation": "TEST"
   },
   {
     "serologies for CMV": "TEST"
@@ -84,13 +81,10 @@
     "cryptococcal antigen": "TEST"
   },
   {
-    "PPD": "TEST"
+    "a PPD": "TEST"
   },
   {
     "CMV serology": "TEST"
-  },
-  {
-    "IgM": "TEST"
   },
   {
     "IgG": "TEST"
@@ -117,7 +111,7 @@
     "CAT scan": "TEST"
   },
   {
-    "bronchoscopy": "TREATMENT"
+    "bronchoscopy": "TEST"
   },
   {
     "BAL": "TEST"
@@ -168,7 +162,7 @@
     "methotrexate": "DRUG"
   },
   {
-    "chest x-ray": "TEST"
+    "A chest x-ray": "TEST"
   },
   {
     "bibasilar disease": "PROBLEM"
@@ -243,6 +237,9 @@
     "methotrexate": "DRUG"
   },
   {
+    "general medicine": "PROBLEM"
+  },
+  {
     "fever of unknown origin": "PROBLEM"
   },
   {
@@ -268,6 +265,9 @@
   },
   {
     "serologies": "TEST"
+  },
+  {
+    "chest": "TEST"
   },
   {
     "methotrexate": "DRUG"

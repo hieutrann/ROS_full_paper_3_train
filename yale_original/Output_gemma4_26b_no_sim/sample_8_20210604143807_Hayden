@@ -15,7 +15,7 @@
     "decreased consciousness": "PROBLEM"
   },
   {
-    "lacerations on the face": "PROBLEM"
+    "lacerations": "PROBLEM"
   },
   {
     "Xanax": "DRUG"
@@ -105,10 +105,10 @@
     "UA": "TEST"
   },
   {
-    "WBCs": "TEST"
+    "WBCs": "PROBLEM"
   },
   {
-    "RBCs": "TEST"
+    "RBCs": "PROBLEM"
   },
   {
     "Specific gravity": "TEST"
@@ -120,19 +120,19 @@
     "CBC": "TEST"
   },
   {
-    "elevation of the white count": "PROBLEM"
+    "white count": "PROBLEM"
   },
   {
-    "neutrophils 89%": "PROBLEM"
+    "neutrophils": "PROBLEM"
   },
   {
-    "Recent fall": "PROBLEM"
+    "fall": "PROBLEM"
   },
   {
     "Altered mental status": "PROBLEM"
   },
   {
-    "exacerbation of Parkinson": "PROBLEM"
+    "Parkinson": "PROBLEM"
   },
   {
     "Dehydration": "PROBLEM"

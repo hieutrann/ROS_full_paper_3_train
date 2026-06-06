@@ -66,7 +66,7 @@
     "CMP": "TEST"
   },
   {
-    "elevated alkaline phosphatase level": "PROBLEM"
+    "alkaline phosphatase level": "TEST"
   },
   {
     "SGGT": "TEST"
@@ -135,7 +135,13 @@
     "granulation tissue": "PROBLEM"
   },
   {
-    "TMs pearly gray": "PROBLEM"
+    "PERRLA": "TEST"
+  },
+  {
+    "EOMI": "TEST"
+  },
+  {
+    "TMs": "TEST"
   },
   {
     "redness": "PROBLEM"
@@ -147,10 +153,7 @@
     "Nontender sinuses": "PROBLEM"
   },
   {
-    "LAD": "PROBLEM"
-  },
-  {
-    "RRR": "PROBLEM"
+    "RRR": "TEST"
   },
   {
     "murmurs": "PROBLEM"
@@ -192,13 +195,16 @@
     "Cranial nerves 2-12": "TEST"
   },
   {
+    "Cerebellar function": "TEST"
+  },
+  {
     "RAM": "TEST"
   },
   {
-    "Diabetes mellitus, type 1, poorly controlled": "PROBLEM"
+    "Diabetes mellitus, type 1": "PROBLEM"
   },
   {
-    "Significant diabetic neuropathy": "PROBLEM"
+    "diabetic neuropathy": "PROBLEM"
   },
   {
     "microalbuminuria": "PROBLEM"
@@ -243,10 +249,7 @@
     "scooter accident": "PROBLEM"
   },
   {
-    "Lacerations on scalp": "PROBLEM"
-  },
-  {
-    "shin": "PROBLEM"
+    "Lacerations": "PROBLEM"
   },
   {
     "heat": "PROBLEM"
@@ -258,7 +261,7 @@
     "infection": "PROBLEM"
   },
   {
-    "does not have feeling in the majority of his lower body": "PROBLEM"
+    "does not have feeling": "PROBLEM"
   },
   {
     "diabetes mellitus": "PROBLEM"
@@ -294,18 +297,9 @@
     "vomiting": "PROBLEM"
   },
   {
-    "mellitus type": "PROBLEM"
-  },
-  {
     "blood sugars": "TEST"
   },
   {
     "diabetes": "PROBLEM"
-  },
-  {
-    "mellitus": "PROBLEM"
-  },
-  {
-    "sugars": "TEST"
   }
 ]

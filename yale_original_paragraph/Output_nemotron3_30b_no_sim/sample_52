@@ -1,0 +1,68 @@
+[
+  {
+    "pneumonia": "PROBLEM"
+  },
+  {
+    "orthopnea": "PROBLEM"
+  },
+  {
+    "paroxysmal nocturnal dyspnea": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "atrial fibrillation": "PROBLEM"
+  },
+  {
+    "ischemic heart disease": "PROBLEM"
+  },
+  {
+    "end-stage LV systolic dysfunction": "PROBLEM"
+  },
+  {
+    "ICD implantation": "PROBLEM"
+  },
+  {
+    "atrial fibrillation": "PROBLEM"
+  },
+  {
+    "Coumadin": "DRUG"
+  },
+  {
+    "Diovan": "DRUG"
+  },
+  {
+    "Lantus insulin": "DRUG"
+  },
+  {
+    "Lasix": "DRUG"
+  },
+  {
+    "Novolin R": "DRUG"
+  },
+  {
+    "Toprol XL": "DRUG"
+  },
+  {
+    "Flovent": "DRUG"
+  },
+  {
+    "atherosclerotic coronary vascular disease": "PROBLEM"
+  },
+  {
+    "old myocardial infarction": "PROBLEM"
+  },
+  {
+    "moderate to severe LV systolic dysfunction": "PROBLEM"
+  },
+  {
+    "Diabetic nephropathy": "PROBLEM"
+  },
+  {
+    "renal failure": "PROBLEM"
+  },
+  {
+    "chronic Coumadin therapy": "PROBLEM"
+  }
+]

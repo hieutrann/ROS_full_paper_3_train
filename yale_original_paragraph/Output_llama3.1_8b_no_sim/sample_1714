@@ -1,89 +1,68 @@
 [
   {
-    "Transforaminal Epidural Steroid Injection - 1": "TREATMENT"
+    "Epidural Steroid Injection": "TREATMENT"
   },
   {
-    "Pain Management": "PROBLEM"
+    "Lidocaine": "DRUG"
   },
   {
-    "lidocaine": "DRUG"
+    "Corticosteroids": "DRUG"
   },
   {
-    "infection": "PROBLEM"
+    "Sedatives": "DRUG"
   },
   {
-    "bleeding": "PROBLEM"
+    "Narcotics": "DRUG"
   },
   {
-    "allergic reaction": "PROBLEM"
+    "Nonionic Contrast Agents": "DRUG"
   },
   {
-    "dural puncture": "PROBLEM"
+    "Anesthetics": "DRUG"
   },
   {
-    "headache": "PROBLEM"
+    "Fluoroscopy": "TEST"
   },
   {
-    "nerve injuries": "PROBLEM"
+    "X-ray": "TEST"
   },
   {
-    "spinal cord injury": "PROBLEM"
+    "Oxygen Saturation": "TEST"
   },
   {
-    "cardiovascular and CNS side effects": "PROBLEM"
+    "Vital Signs": "TEST"
   },
   {
-    "vascular entry of medications": "PROBLEM"
+    "Pain": "PROBLEM"
   },
   {
-    "sedatives": "DRUG"
+    "Infection": "PROBLEM"
   },
   {
-    "narcotics": "DRUG"
+    "Bleeding": "PROBLEM"
   },
   {
-    "nonionic contrast agents": "DRUG"
+    "Allergic Reaction": "PROBLEM"
   },
   {
-    "anesthetics": "DRUG"
+    "Dural Puncture": "PROBLEM"
   },
   {
-    "corticosteroids": "DRUG"
+    "Headache": "PROBLEM"
   },
   {
-    "betadine": "DRUG"
+    "Nerve Injuries": "PROBLEM"
   },
   {
-    "fluoroscopy": "TEST"
+    "Spinal Cord Injury": "PROBLEM"
   },
   {
-    "spinal needle": "TEST"
+    "Cardiovascular Side Effects": "PROBLEM"
   },
   {
-    "non-ionic contrast agent": "TEST"
+    "CNS Side Effects": "PROBLEM"
   },
   {
-    "epidurogram": "TEST"
-  },
-  {
-    "radiculogram": "TEST"
-  },
-  {
-    "vascular dye pattern": "TEST"
-  },
-  {
-    "vital signs": "TEST"
-  },
-  {
-    "oximetry": "TEST"
-  },
-  {
-    "weakness": "PROBLEM"
-  },
-  {
-    "sensory or motor changes": "PROBLEM"
-  },
-  {
-    "bowel or bladder function": "PROBLEM"
+    "Vascular Entry of Medications": "PROBLEM"
   }
 ]

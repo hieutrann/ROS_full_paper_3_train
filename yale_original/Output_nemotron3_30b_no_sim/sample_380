@@ -1,0 +1,359 @@
+[
+  {
+    "Hypertension": "PROBLEM"
+  },
+  {
+    "CVA": "PROBLEM"
+  },
+  {
+    "Compression fracture of L1": "PROBLEM"
+  },
+  {
+    "osteoarthritis of knee": "PROBLEM"
+  },
+  {
+    "followup": "PROBLEM"
+  },
+  {
+    "55-year-old Caucasian female": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "lightheadedness": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "diarrhea": "PROBLEM"
+  },
+  {
+    "osteoarthritis of the left knee": "PROBLEM"
+  },
+  {
+    "total knee replacement": "TREATMENT"
+  },
+  {
+    "January": "TEST"
+  },
+  {
+    "weight": "PROBLEM"
+  },
+  {
+    "coronary disease": "PROBLEM"
+  },
+  {
+    "stroke risk": "PROBLEM"
+  },
+  {
+    "shortness of breath with exertion": "PROBLEM"
+  },
+  {
+    "lipid panel": "TEST"
+  },
+  {
+    "Cholesterol": "TEST"
+  },
+  {
+    "triglycerides": "TEST"
+  },
+  {
+    "HDL": "TEST"
+  },
+  {
+    "LDL": "TEST"
+  },
+  {
+    "nonsmoker": "PROBLEM"
+  },
+  {
+    "glucose": "TEST"
+  },
+  {
+    "normal": "TEST"
+  },
+  {
+    "glucose": "TEST"
+  },
+  {
+    "diabetes": "PROBLEM"
+  },
+  {
+    "knee pain": "PROBLEM"
+  },
+  {
+    "low back pain": "PROBLEM"
+  },
+  {
+    "compression fracture of L1": "PROBLEM"
+  },
+  {
+    "falls": "PROBLEM"
+  },
+  {
+    "DEXA scan": "TEST"
+  },
+  {
+    "compression fracture": "PROBLEM"
+  },
+  {
+    "lumbar spine": "PROBLEM"
+  },
+  {
+    "arthritis": "PROBLEM"
+  },
+  {
+    "treatment": "TREATMENT"
+  },
+  {
+    "prevention": "TREATMENT"
+  },
+  {
+    "compression fractures": "PROBLEM"
+  },
+  {
+    "osteoporosis": "PROBLEM"
+  },
+  {
+    "Hydrochlorothiazide 12.5 mg a day": "DRUG"
+  },
+  {
+    "Prozac 20 mg a day": "DRUG"
+  },
+  {
+    "Vioxx 25 mg a day": "DRUG"
+  },
+  {
+    "vitamin C 250 mg daily": "DRUG"
+  },
+  {
+    "vitamin E three to four tablets daily": "DRUG"
+  },
+  {
+    "calcium with D 1500 mg daily": "DRUG"
+  },
+  {
+    "multivitamin daily": "DRUG"
+  },
+  {
+    "aspirin 81 mg daily": "DRUG"
+  },
+  {
+    "Monopril 40 mg daily": "DRUG"
+  },
+  {
+    "Celexa p.r.n.": "DRUG"
+  },
+  {
+    "Bactrim": "DRUG"
+  },
+  {
+    "nausea and vomiting": "PROBLEM"
+  },
+  {
+    "Hypertension": "PROBLEM"
+  },
+  {
+    "Depression": "PROBLEM"
+  },
+  {
+    "Myofascitis of the feet.": "PROBLEM"
+  },
+  {
+    "osteoarthritis of the knee": "PROBLEM"
+  },
+  {
+    "melanoma": "PROBLEM"
+  },
+  {
+    "Breast biopsy": "TREATMENT"
+  },
+  {
+    "Holter monitor": "TEST"
+  },
+  {
+    "Echocardiogram": "TEST"
+  },
+  {
+    "Compression fracture of L1": "PROBLEM"
+  },
+  {
+    "injury": "PROBLEM"
+  },
+  {
+    "DEXA scan": "TEST"
+  },
+  {
+    "nonsmoker": "PROBLEM"
+  },
+  {
+    "nondrinker": "PROBLEM"
+  },
+  {
+    "HPI": "TEST"
+  },
+  {
+    "overweight": "PROBLEM"
+  },
+  {
+    "Weight": "TEST"
+  },
+  {
+    "Blood pressure": "TEST"
+  },
+  {
+    "Pulse": "TEST"
+  },
+  {
+    "Respirations": "TEST"
+  },
+  {
+    "Temperature": "TEST"
+  },
+  {
+    "Supple": "PROBLEM"
+  },
+  {
+    "Carotids": "TEST"
+  },
+  {
+    "Chest: Clear to auscultation.": "TEST"
+  },
+  {
+    "S3": "TREATMENT"
+  },
+  {
+    "S4": "TREATMENT"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "Grossly intact": "PROBLEM"
+  },
+  {
+    "EKG": "TEST"
+  },
+  {
+    "sinus rhythm": "PROBLEM"
+  },
+  {
+    "first degree AV block": "PROBLEM"
+  },
+  {
+    "R-wave progression": "PROBLEM"
+  },
+  {
+    "Hypertension": "PROBLEM"
+  },
+  {
+    "cerebrovascular accident": "PROBLEM"
+  },
+  {
+    "Compression fracture of L1, mild.": "PROBLEM"
+  },
+  {
+    "Osteoarthritis of the knee.": "PROBLEM"
+  },
+  {
+    "Mildly abnormal chest x-ray.": "TEST"
+  },
+  {
+    "C-reactive protein cardiac": "TEST"
+  },
+  {
+    "weight loss": "PROBLEM"
+  },
+  {
+    "Weight Watchers": "TREATMENT"
+  },
+  {
+    "dietician": "TREATMENT"
+  },
+  {
+    "knee pain": "PROBLEM"
+  },
+  {
+    "screening colonoscopy": "TEST"
+  },
+  {
+    "canceled her appointment": "TREATMENT"
+  },
+  {
+    "colonoscopy": "TEST"
+  },
+  {
+    "Fosamax 70 mg once weekly": "DRUG"
+  },
+  {
+    "full glass of water": "TEST"
+  },
+  {
+    "Fosamax": "DRUG"
+  },
+  {
+    "cardiologist": "TREATMENT"
+  },
+  {
+    "preoperative cardiac testing": "TEST"
+  },
+  {
+    "beta-blocker": "DRUG"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "lightheadedness": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "osteoporosis": "PROBLEM"
+  },
+  {
+    "cerebrovascular accident": "PROBLEM"
+  },
+  {
+    "compression fracture": "PROBLEM"
+  },
+  {
+    "chest x-ray": "TEST"
+  },
+  {
+    "osteoarthritis of the knee": "PROBLEM"
+  },
+  {
+    "dexa scan": "TEST"
+  },
+  {
+    "dexa": "TEST"
+  },
+  {
+    "osteoarthritis": "PROBLEM"
+  },
+  {
+    "cardiac": "PROBLEM"
+  },
+  {
+    "compression": "PROBLEM"
+  },
+  {
+    "knee": "PROBLEM"
+  }
+]

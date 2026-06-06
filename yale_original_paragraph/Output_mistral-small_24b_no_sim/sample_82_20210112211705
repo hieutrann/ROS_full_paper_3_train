@@ -1,0 +1,110 @@
+[
+  {
+    "COPD": "PROBLEM"
+  },
+  {
+    "bronchospasm": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "respiratory secretions": "PROBLEM"
+  },
+  {
+    "wheezings": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "dyspneic": "PROBLEM"
+  },
+  {
+    "acute asthmatic bronchitis": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "diaphoresis": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "artificial aortic valve implantation": "TREATMENT"
+  },
+  {
+    "Coumadin": "DRUG"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "elevated cholesterol": "PROBLEM"
+  },
+  {
+    "heart tones": "TEST"
+  },
+  {
+    "mechanical click": "TEST"
+  },
+  {
+    "breath sounds": "TEST"
+  },
+  {
+    "rales": "TEST"
+  },
+  {
+    "rhonchi": "TEST"
+  },
+  {
+    "Sodium": "TEST"
+  },
+  {
+    "potassium": "TEST"
+  },
+  {
+    "BUN": "TEST"
+  },
+  {
+    "creatinine": "TEST"
+  },
+  {
+    "Hemoglobin": "TEST"
+  },
+  {
+    "hematocrit": "TEST"
+  },
+  {
+    "intravenous antibiotics": "DRUG"
+  },
+  {
+    "respiratory therapy": "TREATMENT"
+  },
+  {
+    "intravenous Solu-Medrol": "DRUG"
+  },
+  {
+    "CHF": "PROBLEM"
+  },
+  {
+    "cortisone": "DRUG"
+  },
+  {
+    "oxygenation": "TEST"
+  },
+  {
+    "Prednisone": "DRUG"
+  },
+  {
+    "Keflex": "DRUG"
+  },
+  {
+    "pneumococcal vaccination": "DRUG"
+  }
+]

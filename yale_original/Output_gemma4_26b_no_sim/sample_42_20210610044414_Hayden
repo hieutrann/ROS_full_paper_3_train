@@ -63,6 +63,9 @@
     "total vaginal hysterectomy": "TREATMENT"
   },
   {
+    "general anesthesia": "TREATMENT"
+  },
+  {
     "Vicodin": "DRUG"
   },
   {
@@ -81,6 +84,6 @@
     "menometrorrhagia": "PROBLEM"
   },
   {
-    "uterine fibroids": "PROBLEM"
+    "fibroids": "PROBLEM"
   }
 ]

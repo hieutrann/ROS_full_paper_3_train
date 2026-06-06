@@ -15,16 +15,19 @@
     "Total vaginal hysterectomy": "TREATMENT"
   },
   {
-    "Ultrasound": "TEST"
+    "Menometrorrhagia": "PROBLEM"
+  },
+  {
+    "dysmenorrhea": "PROBLEM"
   },
   {
     "small uterine fibroid": "PROBLEM"
   },
   {
-    "oral contraceptives": "DRUG"
+    "Ultrasound": "TEST"
   },
   {
-    "surgical therapy": "TREATMENT"
+    "small uterine fibroid": "PROBLEM"
   },
   {
     "reflux": "PROBLEM"
@@ -36,9 +39,9 @@
     "hemoglobin": "TEST"
   },
   {
-    "Vicodin": "DRUG"
+    "total vaginal hysterectomy": "TREATMENT"
   },
   {
-    "pain": "PROBLEM"
+    "Vicodin": "DRUG"
   }
 ]

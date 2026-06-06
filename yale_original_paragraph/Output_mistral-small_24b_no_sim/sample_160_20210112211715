@@ -1,18 +1,9 @@
 [
   {
-    "Laparoscopic cholecystectomy": "TREATMENT"
-  },
-  {
-    "Acute cholecystitis": "PROBLEM"
-  },
-  {
-    "laparoscopic cholecystectomy": "TREATMENT"
+    "cholecystitis": "PROBLEM"
   },
   {
     "end-stage renal disease": "PROBLEM"
-  },
-  {
-    "hemodialysis": "TREATMENT"
   },
   {
     "hyperlipidemia": "PROBLEM"
@@ -30,21 +21,6 @@
     "hypothyroidism": "PROBLEM"
   },
   {
-    "hypertension": "PROBLEM"
-  },
-  {
-    "end-stage renal disease": "PROBLEM"
-  },
-  {
-    "hyperlipidemia": "PROBLEM"
-  },
-  {
-    "hypothyroidism": "PROBLEM"
-  },
-  {
-    "skin lymphoma": "PROBLEM"
-  },
-  {
     "epigastric pain": "PROBLEM"
   },
   {
@@ -60,28 +36,25 @@
     "temperature": "TEST"
   },
   {
-    "pulse": "TEST"
-  },
-  {
-    "blood pressure": "TEST"
-  },
-  {
     "EKG": "TEST"
   },
   {
-    "ultrasound": "TEST"
+    "ultrasound of the abdomen": "TEST"
   },
   {
     "renal cyst": "PROBLEM"
   },
   {
-    "gallbladder wall": "PROBLEM"
+    "sludge in the gallbladder wall": "PROBLEM"
+  },
+  {
+    "stone in the gallbladder wall": "PROBLEM"
+  },
+  {
+    "thickening of the gallbladder wall": "PROBLEM"
   },
   {
     "Murphy sign": "TEST"
-  },
-  {
-    "cholecystitis": "PROBLEM"
   },
   {
     "urine": "TEST"
@@ -111,7 +84,7 @@
     "IV fluid": "TREATMENT"
   },
   {
-    "IV antibiotic": "DRUG"
+    "IV antibiotic": "TREATMENT"
   },
   {
     "2-D echocardiogram": "TEST"
@@ -120,25 +93,16 @@
     "EKG": "TEST"
   },
   {
-    "CHF": "PROBLEM"
-  },
-  {
     "blood culture": "TEST"
   },
   {
     "urine culture": "TEST"
   },
   {
-    "cholecystectomy": "TREATMENT"
-  },
-  {
     "dialysis": "TREATMENT"
   },
   {
     "white count": "TEST"
-  },
-  {
-    "afebrile": "TEST"
   },
   {
     "chronic bronchitis": "PROBLEM"
@@ -184,32 +148,5 @@
   },
   {
     "Premarin": "DRUG"
-  },
-  {
-    "heart disease": "PROBLEM"
-  },
-  {
-    "stroke": "PROBLEM"
-  },
-  {
-    "end-stage renal disease": "PROBLEM"
-  },
-  {
-    "lymphoma": "PROBLEM"
-  },
-  {
-    "cholecystitis": "PROBLEM"
-  },
-  {
-    "congestive heart failure": "PROBLEM"
-  },
-  {
-    "skin lymphoma": "PROBLEM"
-  },
-  {
-    "gallbladder wall": "PROBLEM"
-  },
-  {
-    "laparoscopic cholecystectomy": "TREATMENT"
   }
 ]

@@ -1,12 +1,15 @@
 [
   {
-    "chronic back pain": "PROBLEM"
+    "back pain": "PROBLEM"
   },
   {
     "acute back pain": "PROBLEM"
   },
   {
-    "back pain": "PROBLEM"
+    "chronic problem with back pain": "PROBLEM"
+  },
+  {
+    "severe back pain": "PROBLEM"
   },
   {
     "IV analgesics": "DRUG"
@@ -16,6 +19,9 @@
   },
   {
     "physical therapy": "TREATMENT"
+  },
+  {
+    "back pain secondary to intravertebral lumbar disk disease": "PROBLEM"
   },
   {
     "intravertebral lumbar disk disease": "PROBLEM"
@@ -157,6 +163,9 @@
   },
   {
     "thrush": "PROBLEM"
+  },
+  {
+    "Obese": "PROBLEM"
   },
   {
     "clubbing": "PROBLEM"

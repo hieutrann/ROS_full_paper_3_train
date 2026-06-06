@@ -1,21 +1,15 @@
 [
   {
-    "Discharge Summary": "TEST"
+    "Knee Surgery": "TREATMENT"
   },
   {
-    "Knee Surgery": "TEST"
+    "knee surgery": "TREATMENT"
   },
   {
-    "right knee surgery": "PROBLEM"
-  },
-  {
-    "right knee surgery": "PROBLEM"
+    "knee replacement": "TREATMENT"
   },
   {
     "degenerative joint disease": "PROBLEM"
-  },
-  {
-    "A": "PROBLEM"
   },
   {
     "autologous blood": "TREATMENT"
@@ -42,9 +36,6 @@
     "bowel movement": "PROBLEM"
   },
   {
-    "urological symptoms": "PROBLEM"
-  },
-  {
     "dysuria": "PROBLEM"
   },
   {
@@ -54,7 +45,7 @@
     "voiding difficulties": "PROBLEM"
   },
   {
-    "right knee pain": "PROBLEM"
+    "knee pain": "PROBLEM"
   },
   {
     "NKDA": "PROBLEM"
@@ -123,19 +114,22 @@
     "O2 saturation": "TEST"
   },
   {
-    "right knee pain": "PROBLEM"
+    "knee pain": "PROBLEM"
   },
   {
-    "Normocephalic": "PROBLEM"
+    "knee pain": "PROBLEM"
   },
   {
-    "Sclerae": "PROBLEM"
+    "HEENT": "TEST"
+  },
+  {
+    "Sclerae": "TEST"
   },
   {
     "EOMI": "PROBLEM"
   },
   {
-    "Dentition": "PROBLEM"
+    "Dentition": "TEST"
   },
   {
     "thrust": "PROBLEM"
@@ -144,13 +138,13 @@
     "thyroid enlargement": "PROBLEM"
   },
   {
-    "Trachea": "TEST"
+    "Trachea": "PROBLEM"
   },
   {
     "LUNGS": "TEST"
   },
   {
-    "HEART": "PROBLEM"
+    "Regular rate and rhythm": "TEST"
   },
   {
     "S1": "TEST"
@@ -159,19 +153,19 @@
     "S2": "TEST"
   },
   {
-    "ABDOMEN": "PROBLEM"
+    "Abdomen": "PROBLEM"
   },
   {
     "organomegaly": "PROBLEM"
   },
   {
-    "knee incision": "TREATMENT"
+    "knee": "PROBLEM"
   },
   {
     "Steri-Strips": "TREATMENT"
   },
   {
-    "diffuse right knee edema": "PROBLEM"
+    "knee edema": "PROBLEM"
   },
   {
     "ecchymosis": "PROBLEM"
@@ -180,7 +174,7 @@
     "calf tenderness": "PROBLEM"
   },
   {
-    "Pedal pulses": "TEST"
+    "pulses": "TEST"
   },
   {
     "anxious": "PROBLEM"
@@ -189,7 +183,13 @@
     "exam": "TEST"
   },
   {
-    "patient": "PROBLEM"
+    "Transitional Care Unit": "TREATMENT"
+  },
+  {
+    "evaluation": "TREATMENT"
+  },
+  {
+    "rehabilitation": "TREATMENT"
   },
   {
     "Physical Therapy": "TREATMENT"
@@ -198,19 +198,16 @@
     "Occupational Therapy": "TREATMENT"
   },
   {
-    "rehabilitation": "TREATMENT"
-  },
-  {
     "CPM machine": "TREATMENT"
-  },
-  {
-    "CPM": "TREATMENT"
   },
   {
     "knee pain": "PROBLEM"
   },
   {
-    "pain management": "PROBLEM"
+    "CPM": "TREATMENT"
+  },
+  {
+    "pain management": "TREATMENT"
   },
   {
     "Ativan": "DRUG"
@@ -222,19 +219,19 @@
     "rashes": "PROBLEM"
   },
   {
+    "extremity": "TREATMENT"
+  },
+  {
     "rash": "PROBLEM"
   },
   {
-    "contact dermatitis": "PROBLEM"
+    "dermatitis": "PROBLEM"
+  },
+  {
+    "gardening": "TREATMENT"
   },
   {
     "betamethasone cream": "DRUG"
-  },
-  {
-    "rash": "PROBLEM"
-  },
-  {
-    "therapy": "TREATMENT"
   },
   {
     "insomnia": "PROBLEM"
@@ -261,9 +258,6 @@
     "INR": "TEST"
   },
   {
-    "DVT": "PROBLEM"
-  },
-  {
     "Coumadin": "DRUG"
   },
   {
@@ -271,6 +265,9 @@
   },
   {
     "venous Doppler study": "TEST"
+  },
+  {
+    "DVT": "PROBLEM"
   },
   {
     "UA": "TEST"
@@ -303,7 +300,7 @@
     "anion gap": "TEST"
   },
   {
-    "fasting glucose": "TEST"
+    "glucose": "TEST"
   },
   {
     "chemistries": "TEST"
@@ -312,31 +309,28 @@
     "therapies": "TREATMENT"
   },
   {
-    "DISCHARGE DIAGNOSES": "PROBLEM"
+    "DISCHARGE DIAGNOSES": "TREATMENT"
   },
   {
-    "right total knee replacement": "TREATMENT"
+    "knee replacement": "TREATMENT"
   },
   {
     "degenerative joint disease": "PROBLEM"
   },
   {
-    "2": "TEST"
+    "2": "TREATMENT"
   },
   {
     "Anxiety disorder": "PROBLEM"
   },
   {
-    "3": "PROBLEM"
-  },
-  {
-    "Insomnia": "PROBLEM"
-  },
-  {
-    "pain": "PROBLEM"
+    "3": "TREATMENT"
   },
   {
     "anxiety": "PROBLEM"
+  },
+  {
+    "pain": "PROBLEM"
   },
   {
     "4": "TEST"
@@ -345,19 +339,19 @@
     "constipation": "PROBLEM"
   },
   {
-    "5": "PROBLEM"
+    "5": "TEST"
   },
   {
-    "Contact dermatitis": "PROBLEM"
+    "dermatitis": "PROBLEM"
   },
   {
-    "6": "PROBLEM"
+    "gardening": "TREATMENT"
+  },
+  {
+    "6": "TEST"
   },
   {
     "Hypertension": "PROBLEM"
-  },
-  {
-    "7": "PROBLEM"
   },
   {
     "Hypothyroidism": "PROBLEM"
@@ -369,13 +363,13 @@
     "Gastroesophageal reflux disease": "PROBLEM"
   },
   {
-    "9": "PROBLEM"
+    "9": "TEST"
   },
   {
     "Morton neuroma": "PROBLEM"
   },
   {
-    "10": "PROBLEM"
+    "10": "TEST"
   },
   {
     "migraine headaches": "PROBLEM"
@@ -393,16 +387,16 @@
     "Synthroid": "DRUG"
   },
   {
-    "Diprosone cream": "DRUG"
+    "Diprosone": "DRUG"
   },
   {
-    "oxycodone SR": "DRUG"
+    "oxycodone": "DRUG"
   },
   {
     "q.12h.": "TEST"
   },
   {
-    "oxycodone SR": "DRUG"
+    "oxycodone": "DRUG"
   },
   {
     "q.12h.": "TEST"
@@ -411,7 +405,7 @@
     "Percocet": "DRUG"
   },
   {
-    "to be used p.r.n.": "TREATMENT"
+    "p.r.n.": "TREATMENT"
   },
   {
     "trazodone": "DRUG"
@@ -432,16 +426,7 @@
     "INRs": "TEST"
   },
   {
-    "Monday": "TEST"
-  },
-  {
-    "Thursday": "TEST"
-  },
-  {
-    "Dr.": "TEST"
-  },
-  {
-    "A": "PROBLEM"
+    "fax number": "TEST"
   },
   {
     "Coumadin": "DRUG"
@@ -456,31 +441,25 @@
     "Coumadin": "DRUG"
   },
   {
-    "Dr": "TREATMENT"
+    "Dr.": "TREATMENT"
   },
   {
-    "primary care physician": "PROBLEM"
+    "primary care physician": "TREATMENT"
   },
   {
-    "total knee replacement": "PROBLEM"
+    "knee replacement": "TREATMENT"
   },
   {
-    "hypertension": "PROBLEM"
+    "therapies": "TREATMENT"
   },
   {
-    "hypothyroidism": "PROBLEM"
+    "rehabilitation": "TREATMENT"
   },
   {
-    "degenerative joint disease": "PROBLEM"
+    "knee surgery": "TREATMENT"
   },
   {
-    "GERD": "PROBLEM"
-  },
-  {
-    "anxiety disorder": "PROBLEM"
-  },
-  {
-    "Morton neuroma": "PROBLEM"
+    "total knee replacement": "TREATMENT"
   },
   {
     "coumadin": "DRUG"
@@ -495,9 +474,21 @@
     "ted stockings": "TREATMENT"
   },
   {
-    "total knee replacement": "TREATMENT"
+    "hypertension": "PROBLEM"
   },
   {
-    "knee surgery": "TREATMENT"
+    "hypothyroidism": "PROBLEM"
+  },
+  {
+    "degenerative joint disease": "PROBLEM"
+  },
+  {
+    "gerd": "PROBLEM"
+  },
+  {
+    "anxiety disorder": "PROBLEM"
+  },
+  {
+    "mortons neuroma": "PROBLEM"
   }
 ]

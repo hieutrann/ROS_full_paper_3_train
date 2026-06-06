@@ -3,10 +3,19 @@
     "acute pancreatitis": "PROBLEM"
   },
   {
-    "high amylase": "TEST"
+    "amylase": "TEST"
   },
   {
-    "lipase count": "TEST"
+    "lipase": "TEST"
+  },
+  {
+    "pancreatitis": "PROBLEM"
+  },
+  {
+    "Abdominal pain": "PROBLEM"
+  },
+  {
+    "Dr": "TREATMENT"
   },
   {
     "abdominal pain": "PROBLEM"
@@ -18,31 +27,13 @@
     "vomiting": "PROBLEM"
   },
   {
-    "Abdominal pain": "PROBLEM"
-  },
-  {
-    "female": "PROBLEM"
-  },
-  {
-    "persistent abdominal pain": "PROBLEM"
-  },
-  {
-    "nausea": "PROBLEM"
-  },
-  {
-    "vomiting": "PROBLEM"
-  },
-  {
-    "yesterday": "PROBLEM"
-  },
-  {
     "acute pancreatitis": "PROBLEM"
   },
   {
-    "high amylase": "TEST"
+    "amylase": "TEST"
   },
   {
-    "lipase count": "TEST"
+    "lipase": "TEST"
   },
   {
     "dementia of Alzheimer type": "PROBLEM"
@@ -57,7 +48,7 @@
     "hypertension": "PROBLEM"
   },
   {
-    "POLLENS": "DRUG"
+    "POLLENS": "PROBLEM"
   },
   {
     "alprazolam": "DRUG"
@@ -87,9 +78,6 @@
     "Not available": "PROBLEM"
   },
   {
-    "skilled nursing facility": "PROBLEM"
-  },
-  {
     "dementia": "PROBLEM"
   },
   {
@@ -117,7 +105,10 @@
     "pupils": "TEST"
   },
   {
-    "conjunctivae": "PROBLEM"
+    "Sclerae": "TEST"
+  },
+  {
+    "conjunctivae": "TEST"
   },
   {
     "pharyngeal inflammation": "PROBLEM"
@@ -126,13 +117,13 @@
     "exudate": "PROBLEM"
   },
   {
-    "oral mucosa": "PROBLEM"
+    "Oral mucosa": "PROBLEM"
   },
   {
     "jugular venous distention": "PROBLEM"
   },
   {
-    "Carotids": "PROBLEM"
+    "Carotids": "TEST"
   },
   {
     "bruit": "PROBLEM"
@@ -153,7 +144,7 @@
     "murmur": "PROBLEM"
   },
   {
-    "LUNGS": "PROBLEM"
+    "auscultation": "TEST"
   },
   {
     "diffusely tender": "PROBLEM"
@@ -163,9 +154,6 @@
   },
   {
     "Bowel sounds": "TEST"
-  },
-  {
-    "tenderness": "PROBLEM"
   },
   {
     "epigastric region": "PROBLEM"
@@ -210,16 +198,16 @@
     "PTT": "TEST"
   },
   {
-    "nitrite": "PROBLEM"
-  },
-  {
-    "wbc's": "PROBLEM"
-  },
-  {
-    "bacteria": "PROBLEM"
-  },
-  {
     "Urinalysis": "TEST"
+  },
+  {
+    "nitrite": "TEST"
+  },
+  {
+    "wbc's": "TEST"
+  },
+  {
+    "bacteria": "TEST"
   },
   {
     "Sodium": "TEST"
@@ -276,10 +264,10 @@
     "cardiomegaly": "PROBLEM"
   },
   {
-    "right lung base atelectasis": "PROBLEM"
+    "atelectasis": "PROBLEM"
   },
   {
-    "CT of the abdomen": "TEST"
+    "CT": "TEST"
   },
   {
     "echogenic liver": "PROBLEM"
@@ -339,7 +327,7 @@
     "cultures": "TEST"
   },
   {
-    "sinus rhythm": "PROBLEM"
+    "sinus rhythm": "TEST"
   },
   {
     "ventricular premature complexes": "PROBLEM"
@@ -357,13 +345,13 @@
     "Acute pancreatitis": "PROBLEM"
   },
   {
-    "2": "TREATMENT"
+    "2": "TEST"
   },
   {
     "Leukocytosis": "PROBLEM"
   },
   {
-    "3": "TREATMENT"
+    "3": "PROBLEM"
   },
   {
     "Urinary tract infection": "PROBLEM"
@@ -381,28 +369,31 @@
     "Dementia": "PROBLEM"
   },
   {
-    "6": "TREATMENT"
+    "6": "TEST"
   },
   {
     "Anxiety": "PROBLEM"
   },
   {
-    "7": "TREATMENT"
-  },
-  {
     "hypertension": "PROBLEM"
   },
   {
-    "8": "TREATMENT"
+    "8": "PROBLEM"
   },
   {
-    "Abnormal electrocardiogram": "PROBLEM"
+    "electrocardiogram": "TEST"
   },
   {
-    "9": "TREATMENT"
+    "9": "PROBLEM"
   },
   {
     "Osteoarthrosis": "PROBLEM"
+  },
+  {
+    "Admit the patient to medical floor": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
   },
   {
     "IV antibiotics": "DRUG"
@@ -411,19 +402,19 @@
     "IV fluids": "DRUG"
   },
   {
-    "p.o.": "TREATMENT"
+    "hold p.o.": "TREATMENT"
   },
   {
-    "medications": "DRUG"
+    "medications": "TREATMENT"
   },
   {
-    "GI consult": "TEST"
+    "GI consult": "TREATMENT"
   },
   {
     "pain control": "TREATMENT"
   },
   {
-    "Zofran IV p.r.n.": "DRUG"
+    "Zofran IV": "DRUG"
   },
   {
     "bedrest": "TREATMENT"
@@ -432,10 +423,10 @@
     "DVT prophylaxis": "TREATMENT"
   },
   {
-    "check blood and urine cultures": "TEST"
+    "blood cultures": "TEST"
   },
   {
-    "patient's son": "TREATMENT"
+    "urine cultures": "TEST"
   },
   {
     "leukocytosis": "PROBLEM"

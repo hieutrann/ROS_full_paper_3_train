@@ -18,54 +18,63 @@
     "cholecystitis": "PROBLEM"
   },
   {
-    "Laparoscopic cholecystectomy": "TREATMENT"
-  },
-  {
-    "morbid obesity": "PROBLEM"
-  },
-  {
-    "diabetes": "PROBLEM"
-  },
-  {
     "Hyperglycemia": "PROBLEM"
   },
   {
-    "blood glucose": "TEST"
+    "cholelithiasis": "PROBLEM"
   },
   {
-    "insulin drip": "DRUG"
+    "obstructive sleep apnea": "PROBLEM"
   },
   {
-    "laparoscopic cholecystectomy": "TREATMENT"
+    "diabetes mellitus": "PROBLEM"
   },
   {
-    "intubation": "TREATMENT"
+    "hypertension": "PROBLEM"
   },
   {
     "cholecystitis": "PROBLEM"
   },
   {
-    "edema": "PROBLEM"
+    "Laparoscopic cholecystectomy": "TREATMENT"
   },
   {
-    "adhesions": "PROBLEM"
-  },
-  {
-    "blood sugar": "TEST"
+    "insulin drip": "DRUG"
   },
   {
     "sliding scale insulin": "DRUG"
   },
   {
-    "Medifast diet": "TREATMENT"
-  },
-  {
-    "blood glucose": "TEST"
-  },
-  {
     "CPAP machine": "TREATMENT"
   },
   {
-    "sugars": "TEST"
+    "Hyperglycemia": "PROBLEM"
+  },
+  {
+    "laparoscopic cholecystectomy": "TREATMENT"
+  },
+  {
+    "cholecystitis": "PROBLEM"
+  },
+  {
+    "cholelithiasis": "PROBLEM"
+  },
+  {
+    "diabetes mellitus": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "morbid obesity": "PROBLEM"
+  },
+  {
+    "obstructive sleep apnea": "PROBLEM"
+  },
+  {
+    "sleep apnea": "PROBLEM"
+  },
+  {
+    "diabetes": "PROBLEM"
   }
 ]

@@ -54,9 +54,6 @@
     "thoracentesis": "TREATMENT"
   },
   {
-    "acute care": "TREATMENT"
-  },
-  {
     "Flagyl": "DRUG"
   },
   {
@@ -159,9 +156,6 @@
     "incentive spirometry": "TREATMENT"
   },
   {
-    "pulmonary function": "TEST"
-  },
-  {
     "white count": "TEST"
   },
   {
@@ -184,9 +178,6 @@
   },
   {
     "hemoglobin": "TEST"
-  },
-  {
-    "cardiovascular support": "TREATMENT"
   },
   {
     "GI bleeding": "PROBLEM"

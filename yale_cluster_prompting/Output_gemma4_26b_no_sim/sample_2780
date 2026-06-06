@@ -1,8 +1,5 @@
 [
   {
-    "Lesions - Adrenal and Pancreatic": "PROBLEM"
-  },
-  {
     "Pancreatic and left adrenal lesions": "PROBLEM"
   },
   {
@@ -66,7 +63,7 @@
     "CAT scan": "TEST"
   },
   {
-    "1.8-cm lesion": "PROBLEM"
+    "lesion": "PROBLEM"
   },
   {
     "left adrenal gland": "PROBLEM"
@@ -76,9 +73,6 @@
   },
   {
     "pancreatic lesion": "PROBLEM"
-  },
-  {
-    "cystic nature": "PROBLEM"
   },
   {
     "Neoplasm": "PROBLEM"
@@ -91,9 +85,6 @@
   },
   {
     "vomiting": "PROBLEM"
-  },
-  {
-    "bowel habits": "PROBLEM"
   },
   {
     "rectal bleeding": "PROBLEM"
@@ -177,10 +168,7 @@
     "chest pain": "PROBLEM"
   },
   {
-    "shortness of breath": "PROBLEM"
-  },
-  {
-    "GI problems": "PROBLEM"
+    "exertional shortness of breath": "PROBLEM"
   },
   {
     "frequent urination": "PROBLEM"
@@ -204,16 +192,16 @@
     "bruit": "PROBLEM"
   },
   {
-    "S3": "PROBLEM"
+    "S3": "TEST"
   },
   {
-    "S4 gallop": "PROBLEM"
+    "S4 gallop": "TEST"
   },
   {
-    "murmur": "PROBLEM"
+    "murmur": "TEST"
   },
   {
-    "distant heart sounds": "PROBLEM"
+    "heart sounds": "TEST"
   },
   {
     "Obese": "PROBLEM"
@@ -232,9 +220,6 @@
   },
   {
     "Bilateral peripheral pulses": "TEST"
-  },
-  {
-    "focal deficits": "PROBLEM"
   },
   {
     "left adrenal lesions": "PROBLEM"

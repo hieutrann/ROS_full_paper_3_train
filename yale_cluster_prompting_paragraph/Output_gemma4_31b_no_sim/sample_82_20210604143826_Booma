@@ -1,6 +1,6 @@
 [
   {
-    "hypertension": "PROBLEM"
+    "Hypertension": "PROBLEM"
   },
   {
     "severe tricuspid regurgitation": "PROBLEM"
@@ -51,7 +51,7 @@
     "multifocal atrial tachycardia": "PROBLEM"
   },
   {
-    "EKG": "TEST"
+    "followup EKG": "TEST"
   },
   {
     "wandering atrial pacemaker": "PROBLEM"
@@ -76,9 +76,6 @@
   },
   {
     "shortness of breath": "PROBLEM"
-  },
-  {
-    "fall": "PROBLEM"
   },
   {
     "severe tricuspid regurgitation": "PROBLEM"
@@ -258,12 +255,6 @@
     "pulses": "TEST"
   },
   {
-    "respiratory rate": "TEST"
-  },
-  {
-    "O2 saturation": "TEST"
-  },
-  {
     "hard of hearing": "PROBLEM"
   },
   {
@@ -289,6 +280,12 @@
   },
   {
     "gallop": "PROBLEM"
+  },
+  {
+    "clubbing": "PROBLEM"
+  },
+  {
+    "cyanosis": "PROBLEM"
   },
   {
     "peripheral edema": "PROBLEM"
@@ -354,7 +351,7 @@
     "ischemic changes": "PROBLEM"
   },
   {
-    "EKG": "TEST"
+    "followup EKG": "TEST"
   },
   {
     "wandering atrial pacemaker": "PROBLEM"
@@ -363,7 +360,7 @@
     "lateral T-wave changes": "PROBLEM"
   },
   {
-    "EKG": "TEST"
+    "Followup EKG": "TEST"
   },
   {
     "normal sinus rhythm": "PROBLEM"
@@ -454,26 +451,5 @@
   },
   {
     "left hip fracture": "PROBLEM"
-  },
-  {
-    "hypokalemia": "PROBLEM"
-  },
-  {
-    "shortness of breath": "PROBLEM"
-  },
-  {
-    "atrial tachycardia": "PROBLEM"
-  },
-  {
-    "sinus rhythm": "PROBLEM"
-  },
-  {
-    "hip fracture": "PROBLEM"
-  },
-  {
-    "regurgitation": "PROBLEM"
-  },
-  {
-    "hypertension": "PROBLEM"
   }
 ]

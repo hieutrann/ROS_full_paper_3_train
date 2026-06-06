@@ -1,51 +1,12 @@
 [
   {
+    "Sepsis": "PROBLEM"
+  },
+  {
     "urinary tract infection": "PROBLEM"
   },
   {
-    "sepsis": "PROBLEM"
-  },
-  {
     "Escherichia coli": "PROBLEM"
-  },
-  {
-    "hypotension": "PROBLEM"
-  },
-  {
-    "Ischemic cardiomyopathy": "PROBLEM"
-  },
-  {
-    "Diabetes type 2": "PROBLEM"
-  },
-  {
-    "Recent pulmonary embolism": "PROBLEM"
-  },
-  {
-    "coronary artery disease": "PROBLEM"
-  },
-  {
-    "VITAL SIGNS": "TEST"
-  },
-  {
-    "Temperature": "TEST"
-  },
-  {
-    "White count": "TEST"
-  },
-  {
-    "Hemoglobin": "TEST"
-  },
-  {
-    "Hematocrit": "TEST"
-  },
-  {
-    "Platelets": "TEST"
-  },
-  {
-    "BUN": "TEST"
-  },
-  {
-    "Creatinine": "TEST"
   },
   {
     "Levaquin": "DRUG"
@@ -54,21 +15,27 @@
     "doripenem": "DRUG"
   },
   {
-    "Coumadin": "DRUG"
-  },
-  {
-    "insulin": "DRUG"
-  },
-  {
     "Foley catheter": "TREATMENT"
   },
   {
     "intravenous fluids": "TREATMENT"
   },
   {
-    "monitor": "TREATMENT"
+    "insulin sliding scale": "TREATMENT"
   },
   {
-    "change Foley catheter": "TREATMENT"
+    "Coumadin": "DRUG"
+  },
+  {
+    "coronary artery disease": "PROBLEM"
+  },
+  {
+    "troponin": "TEST"
+  },
+  {
+    "urinary": "PROBLEM"
+  },
+  {
+    "infection": "PROBLEM"
   }
 ]

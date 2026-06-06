@@ -42,7 +42,7 @@
     "temporary internal pacemaker": "TREATMENT"
   },
   {
-    "temporary intracardiac pacemaker": "TREATMENT"
+    "intracardiac pacemaker": "TREATMENT"
   },
   {
     "permanent pacemaker": "TREATMENT"
@@ -66,19 +66,19 @@
     "Permanent pacemaker": "TREATMENT"
   },
   {
-    "right atrium appendage and right ventricular apex electrode placement": "TREATMENT"
+    "right atrium appendage": "PROBLEM"
   },
   {
-    "Medtronic pacemaker": "TREATMENT"
+    "right ventricular apex electrode placement": "TREATMENT"
+  },
+  {
+    "pacemaker": "TREATMENT"
   },
   {
     "pain in the left side of the chest in the upper area": "PROBLEM"
   },
   {
     "Right femoral artery catheter": "TREATMENT"
-  },
-  {
-    "pulses": "TEST"
   },
   {
     "hematoma": "PROBLEM"
@@ -202,6 +202,9 @@
   },
   {
     "syndrome": "PROBLEM"
+  },
+  {
+    "sinus": "PROBLEM"
   },
   {
     "pacemaker": "TREATMENT"

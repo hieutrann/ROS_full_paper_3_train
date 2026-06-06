@@ -6,6 +6,9 @@
     "Fluoroscopy": "TEST"
   },
   {
+    "facet joints": "PROBLEM"
+  },
+  {
     "lidocaine": "DRUG"
   },
   {
@@ -36,6 +39,9 @@
     "cardiovascular and CNS side effects": "PROBLEM"
   },
   {
+    "vascular entry": "PROBLEM"
+  },
+  {
     "sedatives": "DRUG"
   },
   {
@@ -57,13 +63,28 @@
     "vital signs": "TEST"
   },
   {
+    "X-ray": "TEST"
+  },
+  {
     "fluoroscopy machine": "TEST"
+  },
+  {
+    "lumbar lordosis": "PROBLEM"
   },
   {
     "betadine": "TREATMENT"
   },
   {
+    "sterile drapes": "TREATMENT"
+  },
+  {
+    "needle placement": "TREATMENT"
+  },
+  {
     "Fluoroscopy": "TEST"
+  },
+  {
+    "facet joints": "PROBLEM"
   },
   {
     "lidocaine": "DRUG"
@@ -75,7 +96,10 @@
     "spinal needle": "TREATMENT"
   },
   {
-    "Multiple fluoroscopic views": "TEST"
+    "fluoroscopic views": "TEST"
+  },
+  {
+    "needle placement": "TREATMENT"
   },
   {
     "non-ionic contrast agent": "DRUG"
@@ -88,6 +112,9 @@
   },
   {
     "radiculogram": "TEST"
+  },
+  {
+    "Sterile techniques": "TREATMENT"
   },
   {
     "vital signs": "TEST"
@@ -144,7 +171,7 @@
     "epidural": "TREATMENT"
   },
   {
-    "lumbar": "PROBLEM"
+    "lumbar": "TREATMENT"
   },
   {
     "fluoroscopy": "TEST"

@@ -3,13 +3,7 @@
     "General Medicine": "TREATMENT"
   },
   {
-    "Normal Physical Exam Template": "TEST"
-  },
-  {
-    "Normal physical exam template": "TEST"
-  },
-  {
-    "chronological age": "TEST"
+    "chronically ill": "PROBLEM"
   },
   {
     "blood pressure": "TEST"
@@ -36,7 +30,7 @@
     "pharynx": "PROBLEM"
   },
   {
-    "Tympanic membranes": "PROBLEM"
+    "Tympanic membranes": "TEST"
   },
   {
     "Trachea": "TEST"
@@ -45,22 +39,25 @@
     "Thyroid": "PROBLEM"
   },
   {
-    "neck": "PROBLEM"
+    "supple": "PROBLEM"
   },
   {
     "nodes": "PROBLEM"
   },
   {
-    "auscultation": "TEST"
+    "Lungs": "PROBLEM"
+  },
+  {
+    "respiratory rate": "TEST"
+  },
+  {
+    "consolidation": "PROBLEM"
   },
   {
     "egophony": "PROBLEM"
   },
   {
-    "retractions": "PROBLEM"
-  },
-  {
-    "bilateral breath sounds": "TEST"
+    "breath sounds": "TEST"
   },
   {
     "jugular venous distention": "PROBLEM"
@@ -78,7 +75,7 @@
     "gallop": "PROBLEM"
   },
   {
-    "ABDOMEN": "PROBLEM"
+    "palpation": "TEST"
   },
   {
     "organomegaly": "PROBLEM"
@@ -90,7 +87,10 @@
     "Bowel sounds": "TEST"
   },
   {
-    "Obturator and psoas signs": "PROBLEM"
+    "Obturator signs": "PROBLEM"
+  },
+  {
+    "psoas signs": "PROBLEM"
   },
   {
     "bladder tenderness": "PROBLEM"
@@ -99,31 +99,31 @@
     "flank pain": "PROBLEM"
   },
   {
-    "Extremities": "TEST"
+    "motor tone": "PROBLEM"
   },
   {
-    "motor tone": "TEST"
+    "strength": "PROBLEM"
   },
   {
-    "strength": "TEST"
+    "reflexes": "PROBLEM"
   },
   {
-    "reflexes": "TEST"
+    "joint strength": "PROBLEM"
   },
   {
-    "joint strength": "TEST"
-  },
-  {
-    "sensation": "TEST"
+    "sensation": "PROBLEM"
   },
   {
     "Glasgow Coma Scale": "TEST"
   },
   {
-    "Cranial nerves II through XII": "PROBLEM"
+    "Cranial nerves": "TEST"
   },
   {
-    "motor and cerebellar tests": "TEST"
+    "motor": "TREATMENT"
+  },
+  {
+    "cerebellar": "TREATMENT"
   },
   {
     "Reflexes": "TEST"
@@ -144,7 +144,7 @@
     "hemorrhage": "PROBLEM"
   },
   {
-    "overt depression": "PROBLEM"
+    "depression": "PROBLEM"
   },
   {
     "suicidal ideations": "PROBLEM"
@@ -159,15 +159,6 @@
     "bladder": "PROBLEM"
   },
   {
-    "neck": "PROBLEM"
-  },
-  {
-    "nodes": "PROBLEM"
-  },
-  {
-    "respiratory": "PROBLEM"
-  },
-  {
     "tenderness": "PROBLEM"
   },
   {
@@ -180,6 +171,15 @@
     "reflexes": "PROBLEM"
   },
   {
-    "sounds": "PROBLEM"
+    "sounds": "TEST"
+  },
+  {
+    "neck": "PROBLEM"
+  },
+  {
+    "nodes": "PROBLEM"
+  },
+  {
+    "respiratory": "PROBLEM"
   }
 ]

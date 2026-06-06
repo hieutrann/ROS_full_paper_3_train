@@ -1,6 +1,6 @@
 [
   {
-    "contusions": "PROBLEM"
+    "Multiple contusions": "PROBLEM"
   },
   {
     "abdominal pain": "PROBLEM"
@@ -12,7 +12,16 @@
     "Motor vehicle accident": "PROBLEM"
   },
   {
-    "airbag": "TEST"
+    "Hispanic": "PROBLEM"
+  },
+  {
+    "motor vehicle collision": "PROBLEM"
+  },
+  {
+    "seatbelt": "TREATMENT"
+  },
+  {
+    "hitting her head": "PROBLEM"
   },
   {
     "mild pain": "PROBLEM"
@@ -24,16 +33,19 @@
     "pain": "PROBLEM"
   },
   {
-    "pain": "PROBLEM"
+    "steering wheel": "PROBLEM"
+  },
+  {
+    "airbag": "PROBLEM"
   },
   {
     "pain": "PROBLEM"
   },
   {
-    "painful": "PROBLEM"
+    "pain": "PROBLEM"
   },
   {
-    "backboard": "TEST"
+    "painful throughout the bones of her pelvis": "PROBLEM"
   },
   {
     "chest pain": "PROBLEM"
@@ -42,7 +54,7 @@
     "difficulty breathing": "PROBLEM"
   },
   {
-    "lacerations": "PROBLEM"
+    "open lacerations": "PROBLEM"
   },
   {
     "abrasions": "PROBLEM"
@@ -66,13 +78,16 @@
     "pain": "PROBLEM"
   },
   {
-    "menstrual cycle": "PROBLEM"
+    "last menstrual cycle": "PROBLEM"
   },
   {
-    "birth control medications": "DRUG"
+    "pregnant": "PROBLEM"
   },
   {
-    "intrauterine device": "DRUG"
+    "oral birth control medications": "DRUG"
+  },
+  {
+    "an intrauterine device": "TREATMENT"
   },
   {
     "Accutane": "DRUG"
@@ -93,6 +108,9 @@
     "Accutane": "DRUG"
   },
   {
+    "Hispanic": "PROBLEM"
+  },
+  {
     "backboard": "TREATMENT"
   },
   {
@@ -108,6 +126,12 @@
     "labored respirations": "PROBLEM"
   },
   {
+    "accessory muscle usage": "PROBLEM"
+  },
+  {
+    "Temperature": "TEST"
+  },
+  {
     "blood pressure": "TEST"
   },
   {
@@ -120,22 +144,73 @@
     "pulse oximetry": "TEST"
   },
   {
+    "normocephalic": "PROBLEM"
+  },
+  {
+    "crepitus": "PROBLEM"
+  },
+  {
+    "lacerations": "PROBLEM"
+  },
+  {
+    "Sclerae": "PROBLEM"
+  },
+  {
     "Fundoscopic exam": "TEST"
+  },
+  {
+    "External ocular movements": "TEST"
   },
   {
     "nystagmus": "PROBLEM"
   },
   {
+    "entrapment": "PROBLEM"
+  },
+  {
+    "mucoid discharge": "PROBLEM"
+  },
+  {
+    "mucous membranes": "PROBLEM"
+  },
+  {
+    "NECK": "PROBLEM"
+  },
+  {
+    "thyromegaly": "PROBLEM"
+  },
+  {
+    "carotid bruits": "PROBLEM"
+  },
+  {
+    "Trachea": "PROBLEM"
+  },
+  {
     "stridor": "PROBLEM"
   },
   {
-    "HEART": "TEST"
+    "rate": "PROBLEM"
   },
   {
-    "Clear": "TEST"
+    "rhythm": "PROBLEM"
   },
   {
-    "auscultation": "TEST"
+    "S1": "TEST"
+  },
+  {
+    "S2": "TEST"
+  },
+  {
+    "murmur": "PROBLEM"
+  },
+  {
+    "rub": "PROBLEM"
+  },
+  {
+    "gallop": "PROBLEM"
+  },
+  {
+    "LUNGS": "PROBLEM"
   },
   {
     "wheezes": "PROBLEM"
@@ -150,10 +225,19 @@
     "mild-to-moderate tenderness": "PROBLEM"
   },
   {
-    "bowel sounds": "TEST"
+    "Positive bowel sounds": "PROBLEM"
   },
   {
     "CVA tenderness": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "bony abnormalities": "PROBLEM"
+  },
+  {
+    "deformities": "PROBLEM"
   },
   {
     "Capillary refill": "TEST"
@@ -168,19 +252,55 @@
     "Alert": "PROBLEM"
   },
   {
-    "Cranial nerves": "TEST"
+    "oriented": "PROBLEM"
+  },
+  {
+    "Cranial nerves II through XII": "TEST"
   },
   {
     "Romberg": "TEST"
   },
   {
+    "pronator drift": "TEST"
+  },
+  {
+    "adenopathy": "PROBLEM"
+  },
+  {
     "pain free range of motion": "PROBLEM"
   },
   {
-    "tenderness": "PROBLEM"
+    "bony abnormalities": "PROBLEM"
   },
   {
-    "abrasion": "PROBLEM"
+    "mild tenderness": "PROBLEM"
+  },
+  {
+    "Warm": "PROBLEM"
+  },
+  {
+    "dry": "PROBLEM"
+  },
+  {
+    "intact": "PROBLEM"
+  },
+  {
+    "lacerations": "PROBLEM"
+  },
+  {
+    "abrasions": "PROBLEM"
+  },
+  {
+    "a small abrasion": "PROBLEM"
+  },
+  {
+    "lacerations": "PROBLEM"
+  },
+  {
+    "sites of trauma": "PROBLEM"
+  },
+  {
+    "bleeding": "PROBLEM"
   },
   {
     "x-rays": "TEST"
@@ -189,10 +309,16 @@
     "x-ray": "TEST"
   },
   {
+    "pelvis": "PROBLEM"
+  },
+  {
+    "right hip": "PROBLEM"
+  },
+  {
     "CT scan": "TEST"
   },
   {
-    "cervical spine": "TEST"
+    "cervical spine": "PROBLEM"
   },
   {
     "prevertibral soft tissue swelling": "PROBLEM"
@@ -204,22 +330,25 @@
     "CT scan": "TEST"
   },
   {
+    "brain": "PROBLEM"
+  },
+  {
     "mucus": "PROBLEM"
   },
   {
-    "left sphenoid sinus": "PROBLEM"
+    "CT scan": "TEST"
+  },
+  {
+    "dependent atelectasis": "PROBLEM"
   },
   {
     "CT scan": "TEST"
   },
   {
-    "atelectasis": "PROBLEM"
-  },
-  {
     "CT scan": "TEST"
   },
   {
-    "CT scan": "TEST"
+    "a CT scan with contrast": "TEST"
   },
   {
     "laboratory studies": "TEST"
@@ -234,16 +363,31 @@
     "urinalysis": "TEST"
   },
   {
+    "bony deformities": "PROBLEM"
+  },
+  {
+    "abnormalities": "PROBLEM"
+  },
+  {
     "Tylenol": "DRUG"
   },
   {
-    "pain": "PROBLEM"
+    "her pain": "PROBLEM"
   },
   {
     "pain": "PROBLEM"
+  },
+  {
+    "medication": "DRUG"
+  },
+  {
+    "backboard": "TREATMENT"
   },
   {
     "CT scans": "TEST"
+  },
+  {
+    "bleeding": "PROBLEM"
   },
   {
     "contusion": "PROBLEM"
@@ -252,7 +396,13 @@
     "abrasion": "PROBLEM"
   },
   {
-    "contusions": "PROBLEM"
+    "abrasions": "PROBLEM"
+  },
+  {
+    "lacerations": "PROBLEM"
+  },
+  {
+    "Multiple contusions": "PROBLEM"
   },
   {
     "abdominal pain": "PROBLEM"
@@ -270,7 +420,10 @@
     "CT scans": "TEST"
   },
   {
-    "scans": "TEST"
+    "scans of the brain": "TEST"
+  },
+  {
+    "C-spine": "TEST"
   },
   {
     "pain": "PROBLEM"

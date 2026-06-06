@@ -1,18 +1,12 @@
 [
   {
-    "General Medicine": "TREATMENT"
-  },
-  {
     "Female Physical Exam": "TEST"
-  },
-  {
-    "General Medicine": "TREATMENT"
   },
   {
     "Pupils": "TEST"
   },
   {
-    "Extraocular movements": "TEST"
+    "movements": "TEST"
   },
   {
     "Sclerae": "PROBLEM"
@@ -21,7 +15,10 @@
     "TMs": "TEST"
   },
   {
-    "Oropharynx": "PROBLEM"
+    "erythema": "PROBLEM"
+  },
+  {
+    "exudate": "PROBLEM"
   },
   {
     "lymphadenopathy": "PROBLEM"
@@ -36,7 +33,7 @@
     "jugular venous distention": "PROBLEM"
   },
   {
-    "Chest": "PROBLEM"
+    "auscultation": "TEST"
   },
   {
     "S3": "PROBLEM"
@@ -66,7 +63,7 @@
     "splenomegaly": "PROBLEM"
   },
   {
-    "female external genitalia": "PROBLEM"
+    "female external genitalia": "TEST"
   },
   {
     "Speculum exam": "TEST"
@@ -84,7 +81,7 @@
     "uterus": "PROBLEM"
   },
   {
-    "Adnexa": "PROBLEM"
+    "masses": "PROBLEM"
   },
   {
     "cervical motion tenderness": "PROBLEM"
@@ -93,7 +90,7 @@
     "Rectal Exam": "TEST"
   },
   {
-    "Normal rectal tone": "PROBLEM"
+    "rectal tone": "TEST"
   },
   {
     "masses": "PROBLEM"
@@ -117,13 +114,22 @@
     "breast tissue": "PROBLEM"
   },
   {
-    "skin changes": "PROBLEM"
+    "breast tissue": "PROBLEM"
   },
   {
-    "Axillae": "PROBLEM"
+    "lumps": "PROBLEM"
   },
   {
-    "Cranial nerves II through XII": "PROBLEM"
+    "masses": "PROBLEM"
+  },
+  {
+    "breasts": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "Cranial nerves": "PROBLEM"
   },
   {
     "Motor strength": "TEST"
@@ -135,13 +141,13 @@
     "+2/4": "TEST"
   },
   {
-    "bilateral": "TEST"
+    "equal bilaterally": "TEST"
   },
   {
-    "alert and oriented times 3": "TEST"
+    "alert": "PROBLEM"
   },
   {
-    "Psychiatric": "PROBLEM"
+    "Psychiatric": "TEST"
   },
   {
     "lesions": "PROBLEM"
@@ -150,10 +156,16 @@
     "rashes": "PROBLEM"
   },
   {
-    "lymphadenopathy": "PROBLEM"
+    "female physical examination": "TEST"
   },
   {
-    "neck": "PROBLEM"
+    "bimanual exam": "TEST"
+  },
+  {
+    "HEENT": "TEST"
+  },
+  {
+    "Hemoccult": "TEST"
   },
   {
     "breast tissue": "PROBLEM"
@@ -174,27 +186,33 @@
     "joint exam": "TEST"
   },
   {
-    "hemoccult": "TEST"
+    "lymphadenopathy": "PROBLEM"
   },
   {
-    "speculum exam": "TEST"
+    "neck": "PROBLEM"
+  },
+  {
+    "neurologic": "PROBLEM"
+  },
+  {
+    "physical examination": "TEST"
   },
   {
     "rectal exam": "TEST"
   },
   {
-    "bimanual exam": "TEST"
+    "skin changes": "PROBLEM"
   },
   {
-    "heent": "TEST"
+    "speculum exam": "TEST"
   },
   {
-    "ii through xii": "TEST"
+    "extremities": "PROBLEM"
   },
   {
-    "female physical examination": "TEST"
+    "masses": "PROBLEM"
   },
   {
-    "physical examination": "TEST"
+    "oropharynx": "PROBLEM"
   }
 ]

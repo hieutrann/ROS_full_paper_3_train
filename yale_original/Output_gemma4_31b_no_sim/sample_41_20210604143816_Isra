@@ -1,6 +1,6 @@
 [
   {
-    "severe nausea": "PROBLEM"
+    "nausea": "PROBLEM"
   },
   {
     "abdominal pain": "PROBLEM"
@@ -63,13 +63,13 @@
     "scleral icterus": "PROBLEM"
   },
   {
-    "cervical, supraclavicular, or axillary adenopathy": "PROBLEM"
+    "cervical adenopathy": "PROBLEM"
   },
   {
-    "LUNGS": "TEST"
+    "supraclavicular adenopathy": "PROBLEM"
   },
   {
-    "HEART": "TEST"
+    "axillary adenopathy": "PROBLEM"
   },
   {
     "murmurs": "PROBLEM"
@@ -90,7 +90,7 @@
     "palpable defect in the umbilicus": "PROBLEM"
   },
   {
-    "Normal sinus rhythm": "PROBLEM"
+    "sinus rhythm": "PROBLEM"
   },
   {
     "EKG": "TEST"

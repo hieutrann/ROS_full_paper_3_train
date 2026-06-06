@@ -36,6 +36,9 @@
     "Dislocated wrist": "PROBLEM"
   },
   {
+    "smokes": "PROBLEM"
+  },
+  {
     "Cancer": "PROBLEM"
   },
   {
@@ -60,7 +63,7 @@
     "slit lamp examination": "TEST"
   },
   {
-    "Conjunctiva are severely injected": "PROBLEM"
+    "injected": "PROBLEM"
   },
   {
     "metallic foreign body": "PROBLEM"
@@ -69,10 +72,10 @@
     "slit lamp": "TEST"
   },
   {
-    "Foreign body OS.": "PROBLEM"
+    "Foreign body OS": "PROBLEM"
   },
   {
-    "removal of the foreign body": "TREATMENT"
+    "foreign body": "PROBLEM"
   },
   {
     "pressure patch": "TREATMENT"
@@ -81,13 +84,37 @@
     "foreign body": "PROBLEM"
   },
   {
+    "anterior chambers": "PROBLEM"
+  },
+  {
+    "conjunctiva": "PROBLEM"
+  },
+  {
+    "lens": "PROBLEM"
+  },
+  {
+    "lids": "PROBLEM"
+  },
+  {
     "blurriness": "PROBLEM"
+  },
+  {
+    "eye": "PROBLEM"
+  },
+  {
+    "lacrimal apparatus": "PROBLEM"
+  },
+  {
+    "metallic": "PROBLEM"
   },
   {
     "pain": "PROBLEM"
   },
   {
     "photophobia": "PROBLEM"
+  },
+  {
+    "sensation": "PROBLEM"
   },
   {
     "slit lamp examination": "TEST"

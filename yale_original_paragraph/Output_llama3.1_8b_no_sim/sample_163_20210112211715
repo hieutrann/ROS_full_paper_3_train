@@ -12,16 +12,10 @@
     "Elevated liver function tests, etiology undetermined": "PROBLEM"
   },
   {
-    "The patient has a history of moderate-to-severe dementia, Alzheimer's type": "PROBLEM"
-  },
-  {
     "Anemia secondary to current illness and possible iron deficiency": "PROBLEM"
   },
   {
     "Darkened mole on the scalp, status post skin biopsy, pending pathology report": "PROBLEM"
-  },
-  {
-    "vancomycin": "DRUG"
   },
   {
     "Flagyl": "DRUG"
@@ -30,22 +24,16 @@
     "Levaquin": "DRUG"
   },
   {
-    "scalp skin biopsy": "TEST"
+    "vancomycin": "DRUG"
+  },
+  {
+    "C. diff colitis": "PROBLEM"
+  },
+  {
+    "cholecystitis": "PROBLEM"
   },
   {
     "chest x-ray": "TEST"
-  },
-  {
-    "blood cultures": "TEST"
-  },
-  {
-    "sputum cultures": "TEST"
-  },
-  {
-    "urine cultures": "TEST"
-  },
-  {
-    "thoracentesis": "TEST"
   },
   {
     "CT scan of the chest and abdomen": "TEST"
@@ -54,12 +42,93 @@
     "HIDA scan": "TEST"
   },
   {
-    "incentive spirometry": "TEST"
+    "ultrasound": "TEST"
+  },
+  {
+    "liver functions": "TEST"
+  },
+  {
+    "incentive spirometry": "TREATMENT"
   },
   {
     "scalp skin biopsy": "TREATMENT"
   },
   {
-    "incision and drainage": "TREATMENT"
+    "thoracentesis": "TREATMENT"
+  },
+  {
+    "packed red cells": "TREATMENT"
+  },
+  {
+    "IV fluid management": "TREATMENT"
+  },
+  {
+    "antibiotics": "DRUG"
+  },
+  {
+    "white count": "TEST"
+  },
+  {
+    "blood cultures": "TEST"
+  },
+  {
+    "sputum culture": "TEST"
+  },
+  {
+    "urine culture": "TEST"
+  },
+  {
+    "thoracentesis culture": "TEST"
+  },
+  {
+    "Hepatitis B antigen": "TEST"
+  },
+  {
+    "Hepatitis A antibody IgM": "TEST"
+  },
+  {
+    "Hepatitis B core IgM": "TEST"
+  },
+  {
+    "Hepatitis C core antibody": "TEST"
+  },
+  {
+    "sodium": "TEST"
+  },
+  {
+    "potassium": "TEST"
+  },
+  {
+    "calcium": "TEST"
+  },
+  {
+    "ALT": "TEST"
+  },
+  {
+    "AST": "TEST"
+  },
+  {
+    "direct bilirubin": "TEST"
+  },
+  {
+    "LDH": "TEST"
+  },
+  {
+    "serum iron": "TEST"
+  },
+  {
+    "total iron unbound": "TEST"
+  },
+  {
+    "ferritin level": "TEST"
+  },
+  {
+    "lumbosacral back x-ray": "TEST"
+  },
+  {
+    "back discomfort": "PROBLEM"
+  },
+  {
+    "mild degenerative disk disease": "PROBLEM"
   }
 ]

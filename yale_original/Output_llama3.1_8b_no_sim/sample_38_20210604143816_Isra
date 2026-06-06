@@ -1,6 +1,6 @@
 [
   {
-    "Gastroenteritis": "PROBLEM"
+    "gastroenteritis": "PROBLEM"
   },
   {
     "autism": "PROBLEM"
@@ -12,19 +12,19 @@
     "MiraLax": "DRUG"
   },
   {
-    "FINAL DIAGNOSES": "TEST"
+    "FINAL DIAGNOSES": "TREATMENT"
   },
   {
     "Gastroenteritis": "PROBLEM"
   },
   {
-    "2": "TEST"
+    "2": "TREATMENT"
   },
   {
     "Autism": "PROBLEM"
   },
   {
-    "Regular for age": "PROBLEM"
+    "Diet": "TREATMENT"
   },
   {
     "Adderall": "DRUG"
@@ -36,13 +36,13 @@
     "attention deficit hyperactivity disorder": "PROBLEM"
   },
   {
-    "ACTIVITY ON DISCHARGE": "TREATMENT"
+    "ACTIVITY": "TREATMENT"
   },
   {
     "Dr.": "TREATMENT"
   },
   {
-    "X in ABC Office in 1 to 2 weeks": "PROBLEM"
+    "X": "TREATMENT"
   },
   {
     "autism": "PROBLEM"
@@ -52,6 +52,9 @@
   },
   {
     "clonidine": "DRUG"
+  },
+  {
+    "hyperactivity": "PROBLEM"
   },
   {
     "constipation": "PROBLEM"
@@ -66,19 +69,25 @@
     "voided": "TEST"
   },
   {
-    "weight": "PROBLEM"
+    "weight": "TEST"
   },
   {
-    "124 pounds": "PROBLEM"
+    "pounds": "TEST"
   },
   {
-    "151.5 pounds": "PROBLEM"
+    "151.5 pounds": "TEST"
   },
   {
-    "137.5 pounds": "PROBLEM"
+    "09/11/2007": "TEST"
   },
   {
-    "persistent vomiting": "PROBLEM"
+    "137.5 pounds": "TEST"
+  },
+  {
+    "05/30/2007": "TEST"
+  },
+  {
+    "vomiting": "PROBLEM"
   },
   {
     "weight loss": "PROBLEM"
@@ -108,13 +117,13 @@
     "Hemoglobin": "TEST"
   },
   {
-    "hematocrit": "TEST"
+    "Hematocrit": "TEST"
   },
   {
-    "platelet count": "TEST"
+    "Platelet count": "TEST"
   },
   {
-    "white blood count": "TEST"
+    "White blood count": "TEST"
   },
   {
     "ketones": "PROBLEM"
@@ -207,13 +216,13 @@
     "hypertension": "PROBLEM"
   },
   {
-    "labile": "PROBLEM"
-  },
-  {
     "blood pressure": "TEST"
   },
   {
-    "unexplained weight loss": "PROBLEM"
+    "excitement": "PROBLEM"
+  },
+  {
+    "weight loss": "PROBLEM"
   },
   {
     "Adderall": "DRUG"
@@ -228,7 +237,7 @@
     "free T4": "TEST"
   },
   {
-    "studies": "TEST"
+    "Graves disease": "PROBLEM"
   },
   {
     "gastroenteritis": "PROBLEM"

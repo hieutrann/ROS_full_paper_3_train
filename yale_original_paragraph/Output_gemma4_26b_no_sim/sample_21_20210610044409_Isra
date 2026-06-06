@@ -48,6 +48,9 @@
     "Zofran": "DRUG"
   },
   {
+    "IV": "TREATMENT"
+  },
+  {
     "hydration": "TREATMENT"
   },
   {
@@ -55,9 +58,6 @@
   },
   {
     "bladder infection": "PROBLEM"
-  },
-  {
-    "nausea and vomiting": "PROBLEM"
   },
   {
     "Maalox": "DRUG"

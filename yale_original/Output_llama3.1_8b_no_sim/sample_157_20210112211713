@@ -1,5 +1,14 @@
 [
   {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
     "acute pancreatitis": "PROBLEM"
   },
   {
@@ -12,10 +21,7 @@
     "Abdominal pain": "PROBLEM"
   },
   {
-    "86-year-old female": "PROBLEM"
-  },
-  {
-    "Dr.": "TEST"
+    "female": "PROBLEM"
   },
   {
     "abdominal pain": "PROBLEM"
@@ -42,7 +48,7 @@
     "anxiety": "PROBLEM"
   },
   {
-    "osteoarthritis": "PROBLEM"
+    "osteoporosis": "PROBLEM"
   },
   {
     "hypertension": "PROBLEM"
@@ -72,10 +78,7 @@
     "FAMILY HISTORY": "PROBLEM"
   },
   {
-    "SOCIAL HISTORY": "TEST"
-  },
-  {
-    "patient": "PROBLEM"
+    "Not available": "PROBLEM"
   },
   {
     "dementia": "PROBLEM"
@@ -99,13 +102,16 @@
     "pulse ox": "TEST"
   },
   {
-    "HEENT": "TEST"
+    "Atraumatic": "PROBLEM"
   },
   {
-    "pupils": "TEST"
+    "light": "TEST"
   },
   {
-    "Sclerae and conjunctivae": "PROBLEM"
+    "Sclerae": "TREATMENT"
+  },
+  {
+    "conjunctivae": "TREATMENT"
   },
   {
     "pharyngeal inflammation": "PROBLEM"
@@ -144,10 +150,13 @@
     "LUNGS": "TEST"
   },
   {
-    "ABDOMEN": "PROBLEM"
+    "tender": "PROBLEM"
   },
   {
-    "rebound": "PROBLEM"
+    "diffusely": "TREATMENT"
+  },
+  {
+    "rigidity": "PROBLEM"
   },
   {
     "Bowel sounds": "TEST"
@@ -255,16 +264,16 @@
     "X-ray": "TEST"
   },
   {
-    "acute pancreatitis": "PROBLEM"
+    "pancreatitis": "PROBLEM"
   },
   {
     "cardiomegaly": "PROBLEM"
   },
   {
-    "right lung base atelectasis": "PROBLEM"
+    "atelectasis": "PROBLEM"
   },
   {
-    "CT of the abdomen": "TEST"
+    "CT": "TEST"
   },
   {
     "echogenic liver": "PROBLEM"
@@ -324,10 +333,10 @@
     "cultures": "TEST"
   },
   {
-    "ventricular premature complexes": "PROBLEM"
+    "sinus rhythm": "PROBLEM"
   },
   {
-    "sinus rhythm": "PROBLEM"
+    "ventricular premature complexes": "PROBLEM"
   },
   {
     "EKG": "TEST"
@@ -342,13 +351,7 @@
     "Acute pancreatitis": "PROBLEM"
   },
   {
-    "2": "TEST"
-  },
-  {
     "Leukocytosis": "PROBLEM"
-  },
-  {
-    "3": "PROBLEM"
   },
   {
     "Urinary tract infection": "PROBLEM"
@@ -360,19 +363,16 @@
     "Hyponatremia": "PROBLEM"
   },
   {
-    "5": "PROBLEM"
+    "5": "TEST"
   },
   {
     "Dementia": "PROBLEM"
   },
   {
-    "6": "PROBLEM"
+    "6": "TEST"
   },
   {
     "Anxiety": "PROBLEM"
-  },
-  {
-    "7": "PROBLEM"
   },
   {
     "hypertension": "PROBLEM"
@@ -381,10 +381,10 @@
     "8": "TEST"
   },
   {
-    "Abnormal electrocardiogram": "PROBLEM"
+    "electrocardiogram": "TEST"
   },
   {
-    "9": "PROBLEM"
+    "9": "TEST"
   },
   {
     "Osteoarthrosis": "PROBLEM"
@@ -399,13 +399,22 @@
     "p.o.": "TREATMENT"
   },
   {
-    "medications": "PROBLEM"
+    "medications": "TREATMENT"
   },
   {
     "Zofran": "DRUG"
   },
   {
     "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "GI consult": "TEST"
   },
   {
     "blood cultures": "TEST"

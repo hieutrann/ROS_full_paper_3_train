@@ -24,7 +24,7 @@
     "hypokalemia": "PROBLEM"
   },
   {
-    "Elevated liver function tests": "TEST"
+    "Elevated liver function tests": "PROBLEM"
   },
   {
     "dementia": "PROBLEM"
@@ -42,7 +42,10 @@
     "iron deficiency": "PROBLEM"
   },
   {
-    "Darkened mole on the scalp": "PROBLEM"
+    "Darkened mole": "PROBLEM"
+  },
+  {
+    "scalp": "PROBLEM"
   },
   {
     "skin biopsy": "TEST"
@@ -51,7 +54,7 @@
     "pathology report": "TEST"
   },
   {
-    "scalp skin biopsy": "TEST"
+    "scalp skin biopsy": "TREATMENT"
   },
   {
     "thoracentesis": "TREATMENT"
@@ -75,10 +78,13 @@
     "nonproductive cough": "PROBLEM"
   },
   {
+    "symptoms": "PROBLEM"
+  },
+  {
     "chest x-ray": "TEST"
   },
   {
-    "evolving right lobar infiltrate": "PROBLEM"
+    "right lobar infiltrate": "PROBLEM"
   },
   {
     "antibiotics": "DRUG"
@@ -93,10 +99,10 @@
     "infection": "PROBLEM"
   },
   {
-    "Levaquin": "DRUG"
+    "IV Levaquin": "DRUG"
   },
   {
-    "Flagyl": "DRUG"
+    "IV Flagyl": "DRUG"
   },
   {
     "C. diff colitis": "PROBLEM"
@@ -111,7 +117,7 @@
     "dizzy": "PROBLEM"
   },
   {
-    "systolic blood pressure": "TEST"
+    "systolic blood pressure": "PROBLEM"
   },
   {
     "IV fluid management": "TREATMENT"
@@ -123,7 +129,7 @@
     "pulmonary treatment": "TREATMENT"
   },
   {
-    "elevated liver function tests": "TEST"
+    "liver function tests": "TEST"
   },
   {
     "ultrasound": "TEST"
@@ -132,7 +138,7 @@
     "CT scan of the chest and abdomen": "TEST"
   },
   {
-    "suspicion of fluid circling the gallbladder": "PROBLEM"
+    "fluid circling the gallbladder": "PROBLEM"
   },
   {
     "A HIDA scan": "TEST"
@@ -142,6 +148,9 @@
   },
   {
     "Liver functions": "TEST"
+  },
+  {
+    "elevated": "PROBLEM"
   },
   {
     "antibiotics": "DRUG"
@@ -157,9 +166,6 @@
   },
   {
     "pulmonary function": "TEST"
-  },
-  {
-    "LABORATORY TESTS": "TEST"
   },
   {
     "white count": "TEST"
@@ -207,6 +213,9 @@
     "Occult blood studies": "TEST"
   },
   {
+    "occult blood": "PROBLEM"
+  },
+  {
     "Hepatitis B antigen": "TEST"
   },
   {
@@ -216,13 +225,13 @@
     "Hepatitis B core IgM": "TEST"
   },
   {
-    "negative": "TEST"
+    "negative": "PROBLEM"
   },
   {
     "hepatitis C core antibody": "TEST"
   },
   {
-    "negative": "TEST"
+    "negative": "PROBLEM"
   },
   {
     "sodium": "TEST"
@@ -264,7 +273,7 @@
     "mild degenerative disk disease": "PROBLEM"
   },
   {
-    "compression fracture acute": "PROBLEM"
+    "compression fracture": "PROBLEM"
   },
   {
     "pneumonia": "PROBLEM"
@@ -289,6 +298,9 @@
   },
   {
     "lobar pneumonia": "PROBLEM"
+  },
+  {
+    "infectious disease": "PROBLEM"
   },
   {
     "skin biopsy": "TEST"

@@ -1,11 +1,5 @@
 [
   {
-    "Pain Management": "PROBLEM"
-  },
-  {
-    "Transforaminal Epidural Steroid Injection": "TREATMENT"
-  },
-  {
     "Transforaminal Epidural": "TREATMENT"
   },
   {
@@ -18,13 +12,10 @@
     "facet joints": "PROBLEM"
   },
   {
+    "needle approach": "TEST"
+  },
+  {
     "1 % lidocaine": "DRUG"
-  },
-  {
-    "Transforaminal Epidural": "TREATMENT"
-  },
-  {
-    "lumbar": "PROBLEM"
   },
   {
     "infection": "PROBLEM"
@@ -51,16 +42,10 @@
     "cardiovascular": "PROBLEM"
   },
   {
-    "CNS": "PROBLEM"
-  },
-  {
-    "side effects": "PROBLEM"
+    "CNS side effects": "PROBLEM"
   },
   {
     "vascular entry": "PROBLEM"
-  },
-  {
-    "medications": "DRUG"
   },
   {
     "sedatives": "DRUG"
@@ -87,10 +72,22 @@
     "fluoroscopy": "TEST"
   },
   {
-    "betadine": "DRUG"
+    "boney landmarks": "PROBLEM"
+  },
+  {
+    "facet joints": "PROBLEM"
+  },
+  {
+    "needle approach": "TEST"
+  },
+  {
+    "1 % lidocaine": "DRUG"
   },
   {
     "spinal needle": "TEST"
+  },
+  {
+    "fluoroscopy": "TEST"
   },
   {
     "non-ionic contrast agent": "DRUG"
@@ -102,6 +99,9 @@
     "radiculogram": "TEST"
   },
   {
+    "vascular dye pattern": "TEST"
+  },
+  {
     "treatment solution": "TREATMENT"
   },
   {
@@ -109,6 +109,12 @@
   },
   {
     "sterile techniques": "TREATMENT"
+  },
+  {
+    "vital signs": "TEST"
+  },
+  {
+    "oximetry": "TEST"
   },
   {
     "shortness of breath": "PROBLEM"
@@ -133,35 +139,5 @@
   },
   {
     "bowel or bladder function": "PROBLEM"
-  },
-  {
-    "pain management": "PROBLEM"
-  },
-  {
-    "epidural lumbar": "PROBLEM"
-  },
-  {
-    "facet joints": "PROBLEM"
-  },
-  {
-    "transforaminal epidural": "TREATMENT"
-  },
-  {
-    "injection": "TREATMENT"
-  },
-  {
-    "transforaminal": "TREATMENT"
-  },
-  {
-    "epidural": "TREATMENT"
-  },
-  {
-    "lumbar": "PROBLEM"
-  },
-  {
-    "fluoroscopy": "TEST"
-  },
-  {
-    "needle": "TEST"
   }
 ]

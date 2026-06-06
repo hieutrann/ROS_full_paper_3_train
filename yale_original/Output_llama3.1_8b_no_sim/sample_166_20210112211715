@@ -24,13 +24,13 @@
     "coronary artery disease": "PROBLEM"
   },
   {
-    "emergency room": "TEST"
+    "workup": "TREATMENT"
   },
   {
     "cardiac workup": "TEST"
   },
   {
-    "telemetry unit": "TEST"
+    "telemetry unit": "TREATMENT"
   },
   {
     "methadone": "DRUG"
@@ -39,13 +39,13 @@
     "morphine": "DRUG"
   },
   {
-    "EKG": "TEST"
-  },
-  {
     "nitroglycerin": "DRUG"
   },
   {
     "chest pain": "PROBLEM"
+  },
+  {
+    "EKG": "TEST"
   },
   {
     "seizure disorder": "PROBLEM"
@@ -123,7 +123,10 @@
     "abortion": "PROBLEM"
   },
   {
-    "FAMILY HISTORY": "PROBLEM"
+    "OB/GYN": "TREATMENT"
+  },
+  {
+    "Noncontributory": "PROBLEM"
   },
   {
     "tobacco abuse": "PROBLEM"
@@ -132,16 +135,13 @@
     "illicit drug abuse": "PROBLEM"
   },
   {
-    "REVIEW OF SYSTEMS": "TEST"
+    "alert": "PROBLEM"
   },
   {
-    "alert": "TEST"
+    "awake": "PROBLEM"
   },
   {
-    "awake": "TEST"
-  },
-  {
-    "oriented": "TEST"
+    "oriented": "PROBLEM"
   },
   {
     "blood pressure": "TEST"
@@ -156,25 +156,25 @@
     "head": "PROBLEM"
   },
   {
-    "Pupils": "TEST"
+    "pupils": "TEST"
   },
   {
     "Extraocular muscles": "PROBLEM"
   },
   {
-    "oropharyngeal lesions": "PROBLEM"
-  },
-  {
-    "JV distention": "PROBLEM"
-  },
-  {
-    "carotid bruits": "PROBLEM"
+    "lesions": "PROBLEM"
   },
   {
     "lymphadenopathy": "PROBLEM"
   },
   {
-    "LUNGS": "PROBLEM"
+    "carotid bruits": "PROBLEM"
+  },
+  {
+    "distention": "PROBLEM"
+  },
+  {
+    "auscultation": "TEST"
   },
   {
     "rate": "TEST"
@@ -183,7 +183,7 @@
     "rhythm": "TEST"
   },
   {
-    "ABDOMEN": "PROBLEM"
+    "Abdomen": "PROBLEM"
   },
   {
     "Bowel sounds": "TEST"
@@ -192,7 +192,7 @@
     "edema": "PROBLEM"
   },
   {
-    "Distal pulses": "TEST"
+    "pulses": "TEST"
   },
   {
     "nonfocal": "PROBLEM"
@@ -276,13 +276,13 @@
     "unstable angina": "PROBLEM"
   },
   {
-    "2": "TEST"
+    "2": "TREATMENT"
   },
   {
-    "early pregnancy": "PROBLEM"
+    "pregnancy": "PROBLEM"
   },
   {
-    "OB/GYN": "PROBLEM"
+    "OB/GYN": "TREATMENT"
   },
   {
     "medications": "DRUG"
@@ -291,19 +291,16 @@
     "pregnancy": "PROBLEM"
   },
   {
-    "OB/GYN": "PROBLEM"
+    "OB/GYN": "TREATMENT"
   },
   {
-    "PCP": "PROBLEM"
+    "PCP": "TREATMENT"
   },
   {
-    "3": "PROBLEM"
+    "3": "TREATMENT"
   },
   {
     "Migraine": "PROBLEM"
-  },
-  {
-    "headaches": "PROBLEM"
   },
   {
     "medications": "DRUG"
@@ -312,7 +309,7 @@
     "migraine headache": "PROBLEM"
   },
   {
-    "prognosis": "PROBLEM"
+    "PCP": "TREATMENT"
   },
   {
     "acute coronary syndrome": "PROBLEM"

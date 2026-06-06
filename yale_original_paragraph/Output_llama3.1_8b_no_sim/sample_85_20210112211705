@@ -3,28 +3,28 @@
     "Bradycardia": "PROBLEM"
   },
   {
-    "dizziness": "PROBLEM"
+    "Dizziness": "PROBLEM"
   },
   {
-    "diabetes": "PROBLEM"
+    "Diabetes": "PROBLEM"
   },
   {
-    "hypertension": "PROBLEM"
+    "Hypertension": "PROBLEM"
   },
   {
-    "abdominal pain": "PROBLEM"
+    "Abdominal pain": "PROBLEM"
   },
   {
-    "sick sinus syndrome": "PROBLEM"
+    "Sick sinus syndrome": "PROBLEM"
   },
   {
     "Permanent pacemaker": "TREATMENT"
   },
   {
-    "cefazolin": "DRUG"
+    "Cefazolin": "DRUG"
   },
   {
-    "benazepril": "DRUG"
+    "Benazepril": "DRUG"
   },
   {
     "Norvasc": "DRUG"
@@ -54,72 +54,39 @@
     "Milk of Magnesia": "DRUG"
   },
   {
-    "Tylenol No. 3": "DRUG"
+    "Tylenol": "DRUG"
   },
   {
     "Promethazine": "DRUG"
   },
   {
-    "Tylenol": "DRUG"
+    "Electrocardiograms": "TEST"
   },
   {
-    "catheter": "TREATMENT"
+    "Telemetry readings": "TEST"
   },
   {
-    "pacemaker placement": "TREATMENT"
+    "Pacemaker placement": "TREATMENT"
   },
   {
-    "electrocardiograms": "TEST"
+    "Temporary internal pacemaker": "TREATMENT"
   },
   {
-    "telemetry readings": "TEST"
+    "Temporary intracardiac pacemaker": "TREATMENT"
   },
   {
-    "right atrium appendage": "TEST"
+    "Right atrium appendage": "TREATMENT"
   },
   {
-    "right ventricular apex electrode placement": "TEST"
+    "Right ventricular apex electrode placement": "TREATMENT"
   },
   {
     "Medtronic pacemaker": "TREATMENT"
   },
   {
-    "benazepril 20 mg": "DRUG"
+    "Right femoral artery catheter": "TREATMENT"
   },
   {
-    "Norvasc 5 mg": "DRUG"
-  },
-  {
-    "Actos 45 mg": "DRUG"
-  },
-  {
-    "Bisacodyl 10 mg": "DRUG"
-  },
-  {
-    "Cosopt eye drops": "DRUG"
-  },
-  {
-    "Famotidine 20 mg": "DRUG"
-  },
-  {
-    "Lotemax 0.5% eye drops": "DRUG"
-  },
-  {
-    "Lotensin (benazepril)": "DRUG"
-  },
-  {
-    "Triazolam 0.125 mg": "DRUG"
-  },
-  {
-    "Milk of Magnesia suspension": "DRUG"
-  },
-  {
-    "Tylenol No. 3": "DRUG"
-  },
-  {
-    "Promethazine 25 mg": "DRUG"
-  },
-  {
-    "Tylenol 325 mg": "DRUG"
+    "Blood pressure": "TEST"
   }
 ]

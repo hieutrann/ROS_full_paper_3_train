@@ -9,37 +9,13 @@
     "attention deficit disorder": "PROBLEM"
   },
   {
-    "anger control": "PROBLEM"
-  },
-  {
-    "Strep": "PROBLEM"
-  },
-  {
     "Strep throat": "PROBLEM"
   },
   {
-    "fevers": "PROBLEM"
+    "ADHD": "PROBLEM"
   },
   {
-    "rashes": "PROBLEM"
-  },
-  {
-    "nausea": "PROBLEM"
-  },
-  {
-    "vomiting": "PROBLEM"
-  },
-  {
-    "diarrhea": "PROBLEM"
-  },
-  {
-    "numbness": "PROBLEM"
-  },
-  {
-    "bursitis": "PROBLEM"
-  },
-  {
-    "pharyngitis": "PROBLEM"
+    "anger control": "PROBLEM"
   },
   {
     "Adderall": "DRUG"
@@ -54,10 +30,10 @@
     "physical therapy": "TREATMENT"
   },
   {
-    "joint injections": "TREATMENT"
+    "tonsillectomy": "TREATMENT"
   },
   {
-    "tonsillectomy": "TREATMENT"
+    "joint injections": "TREATMENT"
   },
   {
     "counseling": "TREATMENT"

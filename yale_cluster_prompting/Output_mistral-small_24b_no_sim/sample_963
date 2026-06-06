@@ -9,9 +9,6 @@
     "abdominal pain": "PROBLEM"
   },
   {
-    "diabetes": "PROBLEM"
-  },
-  {
     "Micronase": "DRUG"
   },
   {
@@ -24,7 +21,13 @@
     "Micronase": "DRUG"
   },
   {
-    "PHYSICAL EXAMINATION": "TEST"
+    "ear abnormalities": "PROBLEM"
+  },
+  {
+    "nose abnormalities": "PROBLEM"
+  },
+  {
+    "throat abnormalities": "PROBLEM"
   },
   {
     "elevated cholesterol": "PROBLEM"
@@ -93,31 +96,10 @@
     "Bactrim": "DRUG"
   },
   {
-    "Tab": "DRUG"
+    "Height": "TEST"
   },
   {
-    "PO": "DRUG"
-  },
-  {
-    "BID": "DRUG"
-  },
-  {
-    "#30": "DRUG"
-  },
-  {
-    "drug": "DRUG"
-  },
-  {
-    "alcohol": "DRUG"
-  },
-  {
-    "Vital Signs": "TEST"
-  },
-  {
-    "Weight": "TEST"
-  },
-  {
-    "BP": "TEST"
+    "Upright BP": "TEST"
   },
   {
     "Pulse": "TEST"
@@ -129,22 +111,37 @@
     "afebrile": "PROBLEM"
   },
   {
+    "neck": "PROBLEM"
+  },
+  {
     "jugular venous distension": "PROBLEM"
   },
   {
-    "Cardio": "TEST"
+    "thyroid": "PROBLEM"
+  },
+  {
+    "Lung expansion": "TEST"
+  },
+  {
+    "excursions": "TEST"
+  },
+  {
+    "lungs": "PROBLEM"
+  },
+  {
+    "regular rhythm": "PROBLEM"
+  },
+  {
+    "SI and S2": "TEST"
+  },
+  {
+    "heart sounds": "TEST"
   },
   {
     "Blood pressure": "TEST"
   },
   {
     "bowel sounds": "TEST"
-  },
-  {
-    "abdomen": "PROBLEM"
-  },
-  {
-    "abdomen": "PROBLEM"
   },
   {
     "organomegaly": "PROBLEM"
@@ -195,10 +192,10 @@
     "diabetes type ii": "PROBLEM"
   },
   {
-    "acute cystitis": "PROBLEM"
+    "diabetes": "PROBLEM"
   },
   {
-    "diabetes": "PROBLEM"
+    "acute cystitis": "PROBLEM"
   },
   {
     "abnormalities": "PROBLEM"

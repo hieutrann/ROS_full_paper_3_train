@@ -63,10 +63,7 @@
     "obtunded": "PROBLEM"
   },
   {
-    "LUNGS": "TEST"
-  },
-  {
-    "HEART": "TEST"
+    "diminished": "PROBLEM"
   },
   {
     "white blood cell count": "TEST"
@@ -102,6 +99,12 @@
     "CT scan": "TEST"
   },
   {
+    "physical examination": "TEST"
+  },
+  {
+    "intra-abdominal pathology": "PROBLEM"
+  },
+  {
     "air under the diaphragm": "PROBLEM"
   },
   {
@@ -118,5 +121,8 @@
   },
   {
     "intra abdominal pathology": "PROBLEM"
+  },
+  {
+    "obtunded": "PROBLEM"
   }
 ]

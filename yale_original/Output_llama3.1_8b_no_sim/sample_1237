@@ -1,8 +1,5 @@
 [
   {
-    "morbid obesity": "PROBLEM"
-  },
-  {
     "Gastric Bypass": "TREATMENT"
   },
   {
@@ -18,13 +15,16 @@
     "BMI": "TEST"
   },
   {
-    "Laparoscopic gastric bypass": "TREATMENT"
+    "gastric bypass": "TREATMENT"
   },
   {
     "Surgery": "TREATMENT"
   },
   {
     "Anesthesia": "TREATMENT"
+  },
+  {
+    "pain": "PROBLEM"
   },
   {
     "Ms.": "PROBLEM"
@@ -42,31 +42,28 @@
     "Ms.": "PROBLEM"
   },
   {
-    "A": "PROBLEM"
+    "procedure": "TREATMENT"
   },
   {
     "procedure": "TREATMENT"
   },
   {
-    "hemodynamically stable": "PROBLEM"
-  },
-  {
     "afebrile": "PROBLEM"
   },
   {
-    "normal labs": "TEST"
+    "lab": "TEST"
   },
   {
-    "clear liquid diet": "TREATMENT"
+    "diet": "TREATMENT"
   },
   {
-    "ambulated": "TEST"
+    "ambulated": "TREATMENT"
   },
   {
-    "Pain": "PROBLEM"
+    "p.o.": "TREATMENT"
   },
   {
-    "pain medicine": "TREATMENT"
+    "pain medicine": "DRUG"
   },
   {
     "drain": "TREATMENT"
@@ -81,25 +78,22 @@
     "soft": "TREATMENT"
   },
   {
-    "heavy lifting": "PROBLEM"
+    "lifting": "TREATMENT"
   },
   {
-    "strenuous activity": "PROBLEM"
+    "mobility": "TREATMENT"
   },
   {
-    "driving": "PROBLEM"
+    "driving": "TREATMENT"
   },
   {
     "narcotic pain medicine": "DRUG"
   },
   {
-    "shower": "TREATMENT"
-  },
-  {
     "wounds": "PROBLEM"
   },
   {
-    "postoperative evaluation": "PROBLEM"
+    "postoperative evaluation": "TEST"
   },
   {
     "shortness of breath": "PROBLEM"
@@ -111,7 +105,7 @@
     "calf pain": "PROBLEM"
   },
   {
-    "temperature greater than 101.5": "PROBLEM"
+    "temperature greater than 101.5": "TEST"
   },
   {
     "redness": "PROBLEM"
@@ -132,7 +126,7 @@
     "abdominal pain": "PROBLEM"
   },
   {
-    "discharge medications": "DRUG"
+    "medications": "DRUG"
   },
   {
     "Lortab Elixir": "DRUG"
@@ -147,10 +141,10 @@
     "Colace": "DRUG"
   },
   {
-    "laparoscopic gastric bypass": "TREATMENT"
+    "gastric bypass": "TREATMENT"
   },
   {
-    "gastric bypass": "TREATMENT"
+    "laparoscopic gastric bypass": "TREATMENT"
   },
   {
     "morbid obesity": "PROBLEM"

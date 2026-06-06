@@ -1,6 +1,9 @@
 [
   {
-    "diabetes mellitus, type 1": "PROBLEM"
+    "diabetes mellitus": "PROBLEM"
+  },
+  {
+    "type 1": "PROBLEM"
   },
   {
     "diabetes mellitus, type 1": "PROBLEM"
@@ -19,6 +22,9 @@
   },
   {
     "low blood sugar": "PROBLEM"
+  },
+  {
+    "motor vehicle accident": "PROBLEM"
   },
   {
     "blood sugar dropped too low": "PROBLEM"
@@ -51,7 +57,7 @@
     "Lantus": "DRUG"
   },
   {
-    "blood sugars dropping too low": "PROBLEM"
+    "blood sugars": "TEST"
   },
   {
     "Lantus": "DRUG"
@@ -61,6 +67,9 @@
   },
   {
     "CMP": "TEST"
+  },
+  {
+    "alkaline phosphatase level": "TEST"
   },
   {
     "elevated alkaline phosphatase level": "PROBLEM"
@@ -82,6 +91,12 @@
   },
   {
     "Viagra": "DRUG"
+  },
+  {
+    "scooter accident": "PROBLEM"
+  },
+  {
+    "fell off his scooter": "PROBLEM"
   },
   {
     "hit his head": "PROBLEM"
@@ -132,16 +147,25 @@
     "PERRLA": "TEST"
   },
   {
-    "EOMI": "TEST"
-  },
-  {
-    "Nontender sinuses": "PROBLEM"
-  },
-  {
-    "Full ROM.": "TEST"
+    "LAD": "PROBLEM"
   },
   {
     "RRR": "TEST"
+  },
+  {
+    "murmurs": "TEST"
+  },
+  {
+    "rubs": "TEST"
+  },
+  {
+    "gallops": "TEST"
+  },
+  {
+    "HSM": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
   },
   {
     "lower extremity numbness": "PROBLEM"
@@ -153,22 +177,19 @@
     "without sensation": "PROBLEM"
   },
   {
-    "calloused": "PROBLEM"
+    "calloused and dry": "PROBLEM"
   },
   {
-    "dry": "PROBLEM"
+    "contusion": "PROBLEM"
   },
   {
-    "small contusion": "PROBLEM"
+    "Cranial nerves 2-12": "TEST"
   },
   {
-    "right shin": "PROBLEM"
+    "Cerebellar function": "TEST"
   },
   {
-    "infection": "PROBLEM"
-  },
-  {
-    "Cerebellar function": "PROBLEM"
+    "RAM": "TEST"
   },
   {
     "Diabetes mellitus, type 1, poorly controlled.": "PROBLEM"
@@ -186,7 +207,7 @@
     "motor vehicle accident": "PROBLEM"
   },
   {
-    "Elevated Alk Phos": "PROBLEM"
+    "Alk Phos": "TEST"
   },
   {
     "Diabetes mellitus type 1": "PROBLEM"
@@ -213,16 +234,13 @@
     "blood sugars": "TEST"
   },
   {
-    "Prilosec OTC": "DRUG"
+    "Prilosec": "DRUG"
   },
   {
     "GERD": "PROBLEM"
   },
   {
-    "scooter accident": "PROBLEM"
-  },
-  {
-    "Lacerations on scalp and shin": "PROBLEM"
+    "Lacerations": "PROBLEM"
   },
   {
     "heat": "PROBLEM"

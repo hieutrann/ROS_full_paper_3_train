@@ -1,18 +1,24 @@
 [
   {
+    "Pain Management": "TREATMENT"
+  },
+  {
     "Transforaminal Epidural Steroid Injection": "TREATMENT"
   },
   {
-    "Pain Management": "TEST"
+    "Epidural": "TREATMENT"
   },
   {
-    "lumbar": "PROBLEM"
+    "Steroid Injection": "TREATMENT"
+  },
+  {
+    "Lumbar": "PROBLEM"
   },
   {
     "Fluoroscopy": "TEST"
   },
   {
-    "boney landmarks": "PROBLEM"
+    "boney landmarks": "TEST"
   },
   {
     "facet joints": "PROBLEM"
@@ -36,7 +42,7 @@
     "procedure": "TREATMENT"
   },
   {
-    "indications": "PROBLEM"
+    "indications": "TREATMENT"
   },
   {
     "risks": "PROBLEM"
@@ -75,7 +81,7 @@
     "medications": "DRUG"
   },
   {
-    "procedure": "TREATMENT"
+    "medications": "DRUG"
   },
   {
     "sedatives": "DRUG"
@@ -93,7 +99,7 @@
     "corticosteroids": "DRUG"
   },
   {
-    "procedure": "TREATMENT"
+    "informed consent": "TREATMENT"
   },
   {
     "Oxygen saturation": "TEST"
@@ -117,13 +123,13 @@
     "pillow": "TREATMENT"
   },
   {
+    "lower abdomen": "TREATMENT"
+  },
+  {
     "lumbar lordosis": "PROBLEM"
   },
   {
     "betadine": "DRUG"
-  },
-  {
-    "sterile drapes": "TREATMENT"
   },
   {
     "needle placement": "TREATMENT"
@@ -132,7 +138,7 @@
     "Fluoroscopy": "TEST"
   },
   {
-    "boney landmarks": "PROBLEM"
+    "boney landmarks": "TEST"
   },
   {
     "facet joints": "PROBLEM"
@@ -144,10 +150,10 @@
     "lidocaine": "DRUG"
   },
   {
-    "fluoroscopy": "TEST"
+    "spinal needle": "TREATMENT"
   },
   {
-    "spinal needle": "TREATMENT"
+    "fluoroscopy": "TEST"
   },
   {
     "superior-anterior neuroforamin": "PROBLEM"
@@ -162,7 +168,7 @@
     "needle placement": "TEST"
   },
   {
-    "non-ionic contrast agent": "DRUG"
+    "contrast agent": "DRUG"
   },
   {
     "joint": "PROBLEM"
@@ -183,13 +189,13 @@
     "treatment solution": "TREATMENT"
   },
   {
-    "medications": "DRUG"
+    "preservative free": "DRUG"
   },
   {
     "procedure": "TREATMENT"
   },
   {
-    "COMPLICATIONS": "PROBLEM"
+    "None": "PROBLEM"
   },
   {
     "complications": "PROBLEM"
@@ -210,7 +216,7 @@
     "ice": "TREATMENT"
   },
   {
-    "aggressive activities": "PROBLEM"
+    "aggressive activities": "TREATMENT"
   },
   {
     "medications": "DRUG"
@@ -253,6 +259,9 @@
   },
   {
     "facet joints": "PROBLEM"
+  },
+  {
+    "transforaminal epidural": "TREATMENT"
   },
   {
     "injection": "TREATMENT"

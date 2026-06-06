@@ -3,7 +3,7 @@
     "heroin abuse": "PROBLEM"
   },
   {
-    "cocaine": "DRUG"
+    "cocaine": "PROBLEM"
   },
   {
     "alcohol abuse": "PROBLEM"
@@ -36,15 +36,6 @@
     "abscesses": "PROBLEM"
   },
   {
-    "smoker": "PROBLEM"
-  },
-  {
-    "analgesics": "DRUG"
-  },
-  {
-    "pain medications": "DRUG"
-  },
-  {
     "Klonopin": "DRUG"
   },
   {
@@ -52,9 +43,6 @@
   },
   {
     "codeine": "DRUG"
-  },
-  {
-    "VITAL SIGNS": "TEST"
   },
   {
     "hypertensive": "PROBLEM"
@@ -72,36 +60,9 @@
     "cough": "PROBLEM"
   },
   {
-    "track marks": "PROBLEM"
-  },
-  {
     "clonidine": "DRUG"
   },
   {
     "Phenergan": "DRUG"
-  },
-  {
-    "phenergan": "DRUG"
-  },
-  {
-    "detox from heroin": "TREATMENT"
-  },
-  {
-    "alcohol abuse": "PROBLEM"
-  },
-  {
-    "heroin abuse": "PROBLEM"
-  },
-  {
-    "detox": "TREATMENT"
-  },
-  {
-    "heroin": "DRUG"
-  },
-  {
-    "alcohol": "DRUG"
-  },
-  {
-    "cocaine": "DRUG"
   }
 ]

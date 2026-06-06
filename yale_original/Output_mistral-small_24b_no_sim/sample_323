@@ -1,18 +1,24 @@
 [
   {
+    "Female Physical Exam": "TEST"
+  },
+  {
     "HEENT": "TEST"
   },
   {
     "Extraocular movements": "TEST"
   },
   {
-    "anicteric": "PROBLEM"
+    "Sclerae": "PROBLEM"
   },
   {
     "TMs": "TEST"
   },
   {
-    "Oropharynx": "PROBLEM"
+    "erythema": "PROBLEM"
+  },
+  {
+    "exudate": "PROBLEM"
   },
   {
     "lymphadenopathy": "PROBLEM"
@@ -30,22 +36,19 @@
     "Chest": "PROBLEM"
   },
   {
-    "S3": "PROBLEM"
+    "S3": "TEST"
   },
   {
-    "S4": "PROBLEM"
+    "S4": "TEST"
   },
   {
-    "murmurs": "PROBLEM"
+    "Peripheral pulses": "TEST"
   },
   {
-    "rubs": "PROBLEM"
+    "bowel sounds": "TEST"
   },
   {
-    "pulses": "TEST"
-  },
-  {
-    "Abdomen": "PROBLEM"
+    "masses": "PROBLEM"
   },
   {
     "hepatomegaly": "PROBLEM"
@@ -54,10 +57,10 @@
     "splenomegaly": "PROBLEM"
   },
   {
-    "GU": "TEST"
+    "female external genitalia": "TEST"
   },
   {
-    "vaginal mucosa": "PROBLEM"
+    "Speculum exam": "TEST"
   },
   {
     "Cervix": "PROBLEM"
@@ -66,7 +69,7 @@
     "Bimanual exam": "TEST"
   },
   {
-    "Adnexa": "PROBLEM"
+    "masses": "PROBLEM"
   },
   {
     "cervical motion tenderness": "PROBLEM"
@@ -93,10 +96,13 @@
     "breast tissue": "PROBLEM"
   },
   {
-    "Axillae": "TEST"
+    "breasts": "PROBLEM"
   },
   {
-    "Cranial nerves II through XII": "TEST"
+    "masses": "PROBLEM"
+  },
+  {
+    "Cranial nerves": "TEST"
   },
   {
     "Motor strength": "TEST"
@@ -105,13 +111,19 @@
     "Deep tendon reflexes": "TEST"
   },
   {
-    "alert and oriented times 3": "PROBLEM"
+    "alert": "PROBLEM"
+  },
+  {
+    "oriented": "PROBLEM"
   },
   {
     "lesions": "PROBLEM"
   },
   {
     "rashes": "PROBLEM"
+  },
+  {
+    "female physical examination": "TEST"
   },
   {
     "bimanual exam": "TEST"
@@ -123,19 +135,19 @@
     "hemoccult": "TEST"
   },
   {
-    "breast tissue": "PROBLEM"
+    "ii through xii": "TEST"
   },
   {
-    "cardiovascular": "PROBLEM"
+    "cardiovascular": "TEST"
   },
   {
-    "dermatologic": "PROBLEM"
+    "dermatologic": "TEST"
   },
   {
-    "external genitalia": "PROBLEM"
+    "external genitalia": "TEST"
   },
   {
-    "integumentary": "PROBLEM"
+    "integumentary": "TEST"
   },
   {
     "joint exam": "TEST"
@@ -144,10 +156,10 @@
     "lymphadenopathy": "PROBLEM"
   },
   {
-    "neck": "PROBLEM"
+    "neck": "TEST"
   },
   {
-    "neurologic": "PROBLEM"
+    "neurologic": "TEST"
   },
   {
     "physical examination": "TEST"
@@ -156,21 +168,18 @@
     "rectal exam": "TEST"
   },
   {
-    "skin changes": "PROBLEM"
-  },
-  {
     "speculum exam": "TEST"
   },
   {
     "female physical": "TEST"
   },
   {
-    "extremities": "PROBLEM"
+    "extremities": "TEST"
   },
   {
     "masses": "PROBLEM"
   },
   {
-    "oropharynx": "PROBLEM"
+    "oropharynx": "TEST"
   }
 ]

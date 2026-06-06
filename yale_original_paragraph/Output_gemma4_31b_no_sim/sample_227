@@ -27,6 +27,9 @@
     "blood sugar": "TEST"
   },
   {
+    "blood sugars": "TEST"
+  },
+  {
     "hypoglycemia": "PROBLEM"
   },
   {
@@ -60,7 +63,7 @@
     "CMP": "TEST"
   },
   {
-    "alkaline phosphatase level": "TEST"
+    "alkaline phosphatase": "TEST"
   },
   {
     "SGGT": "TEST"
@@ -123,15 +126,6 @@
     "infection": "PROBLEM"
   },
   {
-    "redness": "PROBLEM"
-  },
-  {
-    "swelling": "PROBLEM"
-  },
-  {
-    "LAD": "PROBLEM"
-  },
-  {
     "lower extremity numbness": "PROBLEM"
   },
   {
@@ -186,13 +180,10 @@
     "Prilosec OTC": "DRUG"
   },
   {
-    "GERD symptoms": "PROBLEM"
+    "GERD": "PROBLEM"
   },
   {
     "Lacerations": "PROBLEM"
-  },
-  {
-    "swelling": "PROBLEM"
   },
   {
     "infection": "PROBLEM"

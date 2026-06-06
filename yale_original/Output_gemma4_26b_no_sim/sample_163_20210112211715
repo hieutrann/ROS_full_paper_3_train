@@ -24,10 +24,10 @@
     "hypokalemia": "PROBLEM"
   },
   {
-    "Elevated liver function tests": "TEST"
+    "liver function tests": "TEST"
   },
   {
-    "moderate-to-severe dementia": "PROBLEM"
+    "dementia": "PROBLEM"
   },
   {
     "Alzheimer's type": "PROBLEM"
@@ -39,7 +39,10 @@
     "iron deficiency": "PROBLEM"
   },
   {
-    "Darkened mole on the scalp": "PROBLEM"
+    "Darkened mole": "PROBLEM"
+  },
+  {
+    "scalp": "PROBLEM"
   },
   {
     "skin biopsy": "TEST"
@@ -48,19 +51,19 @@
     "pathology report": "TEST"
   },
   {
-    "scalp skin biopsy": "TREATMENT"
+    "scalp skin biopsy": "TEST"
   },
   {
     "thoracentesis": "TREATMENT"
   },
   {
-    "Flagyl": "DRUG"
+    "IV Flagyl": "DRUG"
   },
   {
     "Levaquin": "DRUG"
   },
   {
-    "low-grade fever": "PROBLEM"
+    "fever": "PROBLEM"
   },
   {
     "confusion": "PROBLEM"
@@ -75,7 +78,7 @@
     "chest x-ray": "TEST"
   },
   {
-    "evolving right lobar infiltrate": "PROBLEM"
+    "right lobar infiltrate": "PROBLEM"
   },
   {
     "antibiotics": "DRUG"
@@ -90,10 +93,10 @@
     "infection": "PROBLEM"
   },
   {
-    "IV Levaquin": "DRUG"
+    "Levaquin": "DRUG"
   },
   {
-    "IV Flagyl": "DRUG"
+    "Flagyl": "DRUG"
   },
   {
     "C. diff colitis": "PROBLEM"
@@ -114,10 +117,13 @@
     "IV fluid management": "TREATMENT"
   },
   {
-    "fluid and pulmonary treatment": "TREATMENT"
+    "fluid": "TREATMENT"
   },
   {
-    "elevated liver function tests": "TEST"
+    "pulmonary treatment": "TREATMENT"
+  },
+  {
+    "liver function tests": "TEST"
   },
   {
     "ultrasound": "TEST"
@@ -136,6 +142,9 @@
   },
   {
     "Liver functions": "TEST"
+  },
+  {
+    "antibiotics": "DRUG"
   },
   {
     "hypoxemic": "PROBLEM"
@@ -189,7 +198,10 @@
     "PTT": "TEST"
   },
   {
-    "Occult blood studies": "TEST"
+    "occult blood studies": "TEST"
+  },
+  {
+    "occult blood": "PROBLEM"
   },
   {
     "Hepatitis B antigen": "TEST"
@@ -201,13 +213,7 @@
     "Hepatitis B core IgM": "TEST"
   },
   {
-    "negative": "TEST"
-  },
-  {
     "hepatitis C core antibody": "TEST"
-  },
-  {
-    "negative": "TEST"
   },
   {
     "sodium": "TEST"
@@ -246,10 +252,10 @@
     "lumbosacral back x-ray": "TEST"
   },
   {
-    "mild degenerative disk disease": "PROBLEM"
+    "degenerative disk disease": "PROBLEM"
   },
   {
-    "compression fracture acute": "PROBLEM"
+    "compression fracture": "PROBLEM"
   },
   {
     "pneumonia": "PROBLEM"

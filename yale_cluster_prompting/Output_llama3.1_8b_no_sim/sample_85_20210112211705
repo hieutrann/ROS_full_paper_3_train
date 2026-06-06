@@ -18,16 +18,16 @@
     "sick sinus syndrome": "PROBLEM"
   },
   {
-    "ADMITTING DIAGNOSES": "TEST"
+    "ADMITTING DIAGNOSES": "PROBLEM"
   },
   {
     "Bradycardia": "PROBLEM"
   },
   {
-    "2": "TREATMENT"
+    "2": "PROBLEM"
   },
   {
-    "Dizziness": "PROBLEM"
+    "dizziness": "PROBLEM"
   },
   {
     "3": "PROBLEM"
@@ -51,16 +51,10 @@
     "Sick sinus syndrome": "PROBLEM"
   },
   {
-    "past medical history": "PROBLEM"
+    "pacemaker": "TREATMENT"
   },
   {
-    "Permanent pacemaker placement": "TREATMENT"
-  },
-  {
-    "temporary internal pacemaker": "TREATMENT"
-  },
-  {
-    "intensive care unit": "TEST"
+    "intensive care unit": "TREATMENT"
   },
   {
     "Dr.": "TREATMENT"
@@ -69,13 +63,13 @@
     "X": "PROBLEM"
   },
   {
-    "intracardiac pacemaker": "TREATMENT"
+    "pacemaker": "TREATMENT"
   },
   {
-    "Dr.": "TREATMENT"
+    "Dr": "TREATMENT"
   },
   {
-    "permanent pacemaker": "TREATMENT"
+    "pacemaker": "TREATMENT"
   },
   {
     "electrocardiograms": "TEST"
@@ -87,10 +81,7 @@
     "sinus rhythm": "PROBLEM"
   },
   {
-    "severe bradycardias": "PROBLEM"
-  },
-  {
-    "one to one transmission": "TEST"
+    "bradycardias": "PROBLEM"
   },
   {
     "sick sinus syndrome": "PROBLEM"
@@ -99,22 +90,13 @@
     "pacemaker": "TREATMENT"
   },
   {
-    "atrium appendage": "TREATMENT"
+    "pacemaker": "TREATMENT"
   },
   {
-    "ventricular apex electrode": "TREATMENT"
-  },
-  {
-    "Medtronic pacemaker": "DRUG"
-  },
-  {
-    "pain in the left side of the chest in the upper area": "PROBLEM"
+    "chest pain": "PROBLEM"
   },
   {
     "femoral artery catheter": "TREATMENT"
-  },
-  {
-    "pulses": "TEST"
   },
   {
     "hematoma": "PROBLEM"
@@ -129,19 +111,16 @@
     "Norvasc": "DRUG"
   },
   {
-    "blood pressure": "TEST"
+    "blood pressure": "PROBLEM"
   },
   {
     "Sick sinus syndrome": "PROBLEM"
   },
   {
-    "past medical history": "PROBLEM"
-  },
-  {
     "Diabetes mellitus": "PROBLEM"
   },
   {
-    "2": "TREATMENT"
+    "2": "PROBLEM"
   },
   {
     "peptic ulcer disease": "PROBLEM"
@@ -156,7 +135,7 @@
     "4": "PROBLEM"
   },
   {
-    "Insomnia": "PROBLEM"
+    "insomnia": "PROBLEM"
   },
   {
     "5": "PROBLEM"
@@ -165,22 +144,19 @@
     "Osteoarthritis": "PROBLEM"
   },
   {
-    "home medications": "TREATMENT"
-  },
-  {
-    "previous home medications": "TREATMENT"
+    "medications": "DRUG"
   },
   {
     "Actos": "DRUG"
   },
   {
-    "2": "TREATMENT"
+    "2": "PROBLEM"
   },
   {
     "Bisacodyl": "DRUG"
   },
   {
-    "p.r.n.": "DRUG"
+    "p.r.n.": "TREATMENT"
   },
   {
     "constipation": "PROBLEM"
@@ -207,12 +183,6 @@
     "Lotemax": "DRUG"
   },
   {
-    "eye drops": "DRUG"
-  },
-  {
-    "surgery": "TREATMENT"
-  },
-  {
     "6": "PROBLEM"
   },
   {
@@ -226,9 +196,6 @@
   },
   {
     "Triazolam": "DRUG"
-  },
-  {
-    "bedtime": "TREATMENT"
   },
   {
     "8": "PROBLEM"
@@ -246,7 +213,7 @@
     "Tylenol": "DRUG"
   },
   {
-    "one to two tablets": "DRUG"
+    "p.r.n.": "TREATMENT"
   },
   {
     "pain": "PROBLEM"
@@ -258,7 +225,10 @@
     "Promethazine": "DRUG"
   },
   {
-    "nausea or vomiting": "PROBLEM"
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
   },
   {
     "11": "PROBLEM"
@@ -267,19 +237,13 @@
     "Tylenol": "DRUG"
   },
   {
-    "325 mg": "DRUG"
-  },
-  {
-    "pain": "PROBLEM"
-  },
-  {
     "12": "PROBLEM"
   },
   {
     "cefazolin": "DRUG"
   },
   {
-    "pacemaker placement": "TREATMENT"
+    "pacemaker": "TREATMENT"
   },
   {
     "staple removal": "TREATMENT"

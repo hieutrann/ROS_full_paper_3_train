@@ -198,12 +198,6 @@
     "tenderness": "PROBLEM"
   },
   {
-    "pulses": "TEST"
-  },
-  {
-    "breakdown": "PROBLEM"
-  },
-  {
     "lesions": "PROBLEM"
   },
   {
@@ -238,6 +232,9 @@
   },
   {
     "thrombosis": "PROBLEM"
+  },
+  {
+    "anticoagulated": "TREATMENT"
   },
   {
     "pericardial fluid": "PROBLEM"
@@ -291,7 +288,7 @@
     "PET CT": "TEST"
   },
   {
-    "bilateral pleural pericardial effusions": "PROBLEM"
+    "pleural pericardial effusions": "PROBLEM"
   },
   {
     "lymphadenopathy": "PROBLEM"
@@ -303,7 +300,10 @@
     "pectoral and intramammary lymph nodes": "PROBLEM"
   },
   {
-    "stage III disease": "PROBLEM"
+    "SUV of 4": "TEST"
+  },
+  {
+    "disease": "PROBLEM"
   },
   {
     "echocardiogram": "TEST"
@@ -328,6 +328,9 @@
   },
   {
     "IV fluid": "TREATMENT"
+  },
+  {
+    "IV": "TREATMENT"
   },
   {
     "Port-A-Cath": "TREATMENT"
@@ -381,10 +384,25 @@
     "port a cath": "TREATMENT"
   },
   {
+    "iv piggyback": "TREATMENT"
+  },
+  {
     "venous thrombosis": "PROBLEM"
   },
   {
+    "atrial": "PROBLEM"
+  },
+  {
+    "thrombosis": "PROBLEM"
+  },
+  {
+    "pericardial": "PROBLEM"
+  },
+  {
     "lymphadenopathy": "PROBLEM"
+  },
+  {
+    "fluid": "PROBLEM"
   },
   {
     "pericardectomy": "TREATMENT"

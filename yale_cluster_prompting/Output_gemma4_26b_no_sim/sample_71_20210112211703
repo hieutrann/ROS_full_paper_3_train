@@ -1,27 +1,24 @@
 [
   {
-    "Elevated Blood Pressure": "PROBLEM"
+    "blood pressure": "PROBLEM"
   },
   {
-    "surgery": "TREATMENT"
+    "IV labetalol": "DRUG"
   },
   {
-    "blood pressure": "TEST"
+    "Blood pressure": "PROBLEM"
   },
   {
-    "labetalol": "DRUG"
-  },
-  {
-    "Blood pressure": "TEST"
-  },
-  {
-    "postsurgery": "PROBLEM"
-  },
-  {
-    "elevated blood pressure": "PROBLEM"
+    "Perioperative elevated blood pressure": "PROBLEM"
   },
   {
     "Graves disease": "PROBLEM"
+  },
+  {
+    "Paroxysmal atrial fibrillation": "PROBLEM"
+  },
+  {
+    "normal sinus rhythm": "PROBLEM"
   },
   {
     "Diverticulosis": "PROBLEM"
@@ -63,25 +60,16 @@
     "prostate": "PROBLEM"
   },
   {
-    "surgery": "TREATMENT"
+    "blood pressure": "PROBLEM"
   },
   {
-    "blood pressure": "TEST"
+    "IV labetalol": "DRUG"
   },
   {
-    "labetalol": "DRUG"
+    "Blood pressure": "PROBLEM"
   },
   {
-    "Blood pressure": "TEST"
-  },
-  {
-    "postsurgery": "TREATMENT"
-  },
-  {
-    "blood pressure": "TEST"
-  },
-  {
-    "blood pressure": "TEST"
+    "blood pressure": "PROBLEM"
   },
   {
     "shortness of breath": "PROBLEM"
@@ -147,13 +135,10 @@
     "terazosin": "DRUG"
   },
   {
-    "CHEST": "TEST"
+    "First and second heart sounds": "PROBLEM"
   },
   {
-    "heart sounds": "TEST"
-  },
-  {
-    "murmur": "PROBLEM"
+    "No murmur": "PROBLEM"
   },
   {
     "swelling": "PROBLEM"
@@ -165,16 +150,16 @@
     "lisinopril": "DRUG"
   },
   {
-    "blood pressure": "TEST"
+    "blood pressure": "PROBLEM"
   },
   {
-    "systolic of 150": "TEST"
+    "systolic of 150": "PROBLEM"
   },
   {
     "lisinopril": "DRUG"
   },
   {
-    "blood pressure": "TEST"
+    "blood pressure": "PROBLEM"
   },
   {
     "150 systolic": "PROBLEM"
@@ -201,7 +186,7 @@
     "lisinopril": "DRUG"
   },
   {
-    "blood pressure": "TEST"
+    "blood pressure": "PROBLEM"
   },
   {
     "elevated blood pressure": "PROBLEM"
@@ -222,6 +207,6 @@
     "transurethral resection of prostate": "TREATMENT"
   },
   {
-    "blood pressure": "TEST"
+    "blood pressure": "PROBLEM"
   }
 ]

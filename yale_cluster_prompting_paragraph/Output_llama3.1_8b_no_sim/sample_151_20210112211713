@@ -1,9 +1,9 @@
 [
   {
-    "cholecystitis": "PROBLEM"
+    "choledocholithiasis": "PROBLEM"
   },
   {
-    "choledocholithiasis": "PROBLEM"
+    "cholecystitis": "PROBLEM"
   },
   {
     "laparoscopic cholecystectomy": "TREATMENT"
@@ -15,54 +15,21 @@
     "cholecystectomy": "TREATMENT"
   },
   {
-    "cholecystitis": "PROBLEM"
-  },
-  {
-    "choledocholithiasis": "PROBLEM"
-  },
-  {
     "laparoscopy": "TEST"
-  },
-  {
-    "laparoscopic": "TEST"
-  },
-  {
-    "hernia": "PROBLEM"
-  },
-  {
-    "sleep apnea": "PROBLEM"
-  },
-  {
-    "morbid obesity": "PROBLEM"
-  },
-  {
-    "bilirubin": "TEST"
   },
   {
     "HIDA scan": "TEST"
   },
   {
-    "cholangiogram": "TEST"
-  },
-  {
     "ERCP": "TEST"
-  },
-  {
-    "stone extraction": "TREATMENT"
   },
   {
     "Roux-en-Y gastric bypass": "TREATMENT"
   },
   {
-    "open common bile duct exploration": "TREATMENT"
+    "iron 325 mg p.o. t.i.d.": "DRUG"
   },
   {
-    "open procedure": "TREATMENT"
-  },
-  {
-    "iron": "DRUG"
-  },
-  {
-    "Lortab elixir": "DRUG"
+    "Lortab elixir 15 cc p.o. q.4 h. p.r.n.": "DRUG"
   }
 ]

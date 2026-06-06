@@ -27,6 +27,9 @@
     "cardiac catheterization": "TEST"
   },
   {
+    "TRANSFER DIAGNOSES": "PROBLEM"
+  },
+  {
     "Coronary artery disease": "PROBLEM"
   },
   {
@@ -45,10 +48,13 @@
     "lesion": "PROBLEM"
   },
   {
+    "right parietal lobe": "PROBLEM"
+  },
+  {
     "Deconditioning": "PROBLEM"
   },
   {
-    "Cardiology": "PROBLEM"
+    "Cardiology": "TEST"
   },
   {
     "Echocardiogram": "TEST"
@@ -66,7 +72,7 @@
     "chest pressure": "PROBLEM"
   },
   {
-    "short of breath": "PROBLEM"
+    "breath": "PROBLEM"
   },
   {
     "cardiac workup": "TEST"
@@ -84,7 +90,10 @@
     "LVH": "PROBLEM"
   },
   {
-    "EF": "TEST"
+    "Cardiology": "TEST"
+  },
+  {
+    "stress test": "TEST"
   },
   {
     "cardiac cath": "TEST"
@@ -99,7 +108,16 @@
     "lesion": "PROBLEM"
   },
   {
+    "Neurology": "TEST"
+  },
+  {
     "cardiac cath": "TEST"
+  },
+  {
+    "Stable": "PROBLEM"
+  },
+  {
+    "DISCHARGE MEDICATIONS": "DRUG"
   },
   {
     "Aspirin": "DRUG"
@@ -114,7 +132,7 @@
     "Novolin 70/30": "DRUG"
   },
   {
-    "Metformin": "DRUG"
+    "Metformin 500 mg p.o.": "DRUG"
   },
   {
     "Protonix": "DRUG"
@@ -126,7 +144,13 @@
     "cardiac cath": "TEST"
   },
   {
+    "parietal lobe": "PROBLEM"
+  },
+  {
     "cardiac catheterization": "TEST"
+  },
+  {
+    "cardiology": "PROBLEM"
   },
   {
     "echocardiogram": "TEST"

@@ -33,6 +33,9 @@
     "Laparoscopic cholecystectomy": "TREATMENT"
   },
   {
+    "DISCHARGE DIAGNOSES": "PROBLEM"
+  },
+  {
     "Acute cholecystitis": "PROBLEM"
   },
   {
@@ -90,15 +93,6 @@
     "nauseated feeling": "PROBLEM"
   },
   {
-    "pain": "PROBLEM"
-  },
-  {
-    "emergency room": "TEST"
-  },
-  {
-    "vital signs": "TEST"
-  },
-  {
     "temperature": "TEST"
   },
   {
@@ -117,7 +111,10 @@
     "renal cyst": "PROBLEM"
   },
   {
-    "gallbladder wall": "PROBLEM"
+    "sludge in the gallbladder wall": "PROBLEM"
+  },
+  {
+    "a stone in the gallbladder wall": "PROBLEM"
   },
   {
     "Thickening of the gallbladder wall": "PROBLEM"
@@ -142,9 +139,6 @@
   },
   {
     "amylase": "TEST"
-  },
-  {
-    "Med/Surg floor": "TEST"
   },
   {
     "IV fluid": "TREATMENT"
@@ -177,13 +171,13 @@
     "cholecystectomy": "TREATMENT"
   },
   {
-    "surgery": "TREATMENT"
+    "dialysis": "TREATMENT"
   },
   {
     "laparoscopic cholecystectomy": "TREATMENT"
   },
   {
-    "nephrologist": "TREATMENT"
+    "nephrologist": "PROBLEM"
   },
   {
     "dialysis": "TREATMENT"
@@ -204,40 +198,37 @@
     "surgery": "TREATMENT"
   },
   {
-    "discharge": "TREATMENT"
+    "Synthroid 0.5 mg 1 tablet p.o.": "DRUG"
   },
   {
-    "Synthroid": "DRUG"
-  },
-  {
-    "Plavix": "DRUG"
+    "Plavix 75 mg p.o.": "DRUG"
   },
   {
     "folic acid": "DRUG"
   },
   {
-    "Diovan": "DRUG"
+    "Diovan 80 mg p.o.": "DRUG"
   },
   {
     "Renagel": "DRUG"
   },
   {
-    "Lasix": "DRUG"
+    "Lasix 40 mg p.o.": "DRUG"
   },
   {
-    "2 tablets twice a day": "DRUG"
+    "2 tablets twice a day": "TREATMENT"
   },
   {
-    "lovastatin": "DRUG"
+    "lovastatin 20 mg p.o.": "DRUG"
   },
   {
-    "Coreg": "DRUG"
+    "Coreg 3.125 mg p.o.": "DRUG"
   },
   {
     "nebulizer therapy": "TREATMENT"
   },
   {
-    "Phenergan": "DRUG"
+    "Phenergan 25 mg": "DRUG"
   },
   {
     "nausea": "PROBLEM"
@@ -246,16 +237,19 @@
     "vomiting": "PROBLEM"
   },
   {
-    "Pepcid": "DRUG"
+    "Pepcid 20 mg": "DRUG"
   },
   {
     "Vicodin": "DRUG"
   },
   {
-    "p.r.n.": "DRUG"
+    "q.6 hours p.r.n.": "DRUG"
   },
   {
-    "Levaquin": "DRUG"
+    "as needed": "DRUG"
+  },
+  {
+    "Levaquin 250 mg p.o.": "DRUG"
   },
   {
     "Premarin": "DRUG"
@@ -267,7 +261,7 @@
     "stroke": "PROBLEM"
   },
   {
-    "discharge summary": "TEST"
+    "discharge summary": "PROBLEM"
   },
   {
     "end-stage renal disease": "PROBLEM"

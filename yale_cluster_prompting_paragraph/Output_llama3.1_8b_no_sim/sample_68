@@ -18,15 +18,30 @@
     "BMP": "TEST"
   },
   {
+    "colonoscopy": "TEST"
+  },
+  {
     "PSA": "TEST"
   },
   {
-    "colonoscopy": "TREATMENT"
+    "Accu-Cheks": "TEST"
   },
   {
     "insulin": "DRUG"
   },
   {
-    "medications": "DRUG"
+    "physical examination": "TREATMENT"
+  },
+  {
+    "refill his medications": "TREATMENT"
+  },
+  {
+    "colonoscopy": "TREATMENT"
+  },
+  {
+    "yearly eye exams": "TREATMENT"
+  },
+  {
+    "foot exams": "TREATMENT"
   }
 ]

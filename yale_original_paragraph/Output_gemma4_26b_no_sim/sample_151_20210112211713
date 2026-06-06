@@ -24,7 +24,7 @@
     "choledocholithiasis": "PROBLEM"
   },
   {
-    "roux-en-y gastric bypass": "PROBLEM"
+    "roux-en-y gastric bypass": "TREATMENT"
   },
   {
     "Laparoscopic paraventral hernia": "PROBLEM"
@@ -36,6 +36,18 @@
     "Morbid obesity": "PROBLEM"
   },
   {
+    "bmi": "TEST"
+  },
+  {
+    "Laparoscopic cholecystectomy": "TREATMENT"
+  },
+  {
+    "laparoscopy converted to open common bile duct exploration": "TREATMENT"
+  },
+  {
+    "stone extraction": "TREATMENT"
+  },
+  {
     "bilirubin": "TEST"
   },
   {
@@ -43,6 +55,9 @@
   },
   {
     "abdominal pain": "PROBLEM"
+  },
+  {
+    "bilirubin": "TEST"
   },
   {
     "gallstones": "PROBLEM"
@@ -72,6 +87,9 @@
     "distal common bile duct stone": "PROBLEM"
   },
   {
+    "Roux-en-Y gastric bypass": "TREATMENT"
+  },
+  {
     "ERCP": "TEST"
   },
   {
@@ -96,10 +114,40 @@
     "bilirubin": "TEST"
   },
   {
+    "liquid diet": "TREATMENT"
+  },
+  {
     "Foley catheter": "TREATMENT"
   },
   {
     "bile leak": "PROBLEM"
+  },
+  {
+    "regular diet": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "oral pain medications": "DRUG"
+  },
+  {
+    "Jackson-Pratt drain": "TREATMENT"
+  },
+  {
+    "laboratory studies": "TEST"
+  },
+  {
+    "bilirubin": "TEST"
+  },
+  {
+    "white blood cell count": "TEST"
+  },
+  {
+    "H&H": "TEST"
+  },
+  {
+    "staple removal": "TREATMENT"
   },
   {
     "iron": "DRUG"
@@ -111,6 +159,30 @@
     "pain": "PROBLEM"
   },
   {
-    "staple removal": "TREATMENT"
+    "laparoscopy": "TREATMENT"
+  },
+  {
+    "common bile duct exploration": "TREATMENT"
+  },
+  {
+    "laparoscopic cholecystectomy": "TREATMENT"
+  },
+  {
+    "bile duct": "PROBLEM"
+  },
+  {
+    "choledocholithiasis": "PROBLEM"
+  },
+  {
+    "cholecystectomy": "TREATMENT"
+  },
+  {
+    "cholecystitis": "PROBLEM"
+  },
+  {
+    "laparoscopic": "TREATMENT"
+  },
+  {
+    "hernia": "PROBLEM"
   }
 ]

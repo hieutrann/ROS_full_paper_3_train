@@ -9,15 +9,6 @@
     "diabetes": "PROBLEM"
   },
   {
-    "diabetic medication": "DRUG"
-  },
-  {
-    "decrease in mental alertness": "PROBLEM"
-  },
-  {
-    "GI symptoms": "PROBLEM"
-  },
-  {
     "sweating": "PROBLEM"
   },
   {
@@ -39,9 +30,6 @@
     "hypertension": "PROBLEM"
   },
   {
-    "blood pressure medication": "DRUG"
-  },
-  {
     "labetalol": "DRUG"
   },
   {
@@ -51,19 +39,10 @@
     "glucose supplement": "TREATMENT"
   },
   {
-    "glucose": "TEST"
-  },
-  {
     "Diabetes": "PROBLEM"
   },
   {
     "hypertension": "PROBLEM"
-  },
-  {
-    "diabetic medication": "DRUG"
-  },
-  {
-    "blood pressure medication": "DRUG"
   },
   {
     "aspirin": "DRUG"
@@ -78,10 +57,19 @@
     "laceration": "PROBLEM"
   },
   {
+    "Dry mucosal linings": "PROBLEM"
+  },
+  {
+    "murmur": "PROBLEM"
+  },
+  {
     "rales": "PROBLEM"
   },
   {
     "wheeze": "PROBLEM"
+  },
+  {
+    "bowel sounds": "TEST"
   },
   {
     "organomegaly": "PROBLEM"
@@ -163,44 +151,5 @@
   },
   {
     "glucometer checks": "TEST"
-  },
-  {
-    "blood pressure medication": "DRUG"
-  },
-  {
-    "diabetic medication": "DRUG"
-  },
-  {
-    "diabetic medication": "DRUG"
-  },
-  {
-    "diabetes": "PROBLEM"
-  },
-  {
-    "hypertension": "PROBLEM"
-  },
-  {
-    "hypoglycemia": "PROBLEM"
-  },
-  {
-    "renal insufficiency": "PROBLEM"
-  },
-  {
-    "diabetic nephropathy": "PROBLEM"
-  },
-  {
-    "dehydration": "PROBLEM"
-  },
-  {
-    "iv fluid": "TREATMENT"
-  },
-  {
-    "glucometer checks": "TEST"
-  },
-  {
-    "decrease in mental alertness": "PROBLEM"
-  },
-  {
-    "blood pressure medication": "DRUG"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "hysterectomy": "TREATMENT"
+    "Hysterectomy": "TREATMENT"
   },
   {
     "Menometrorrhagia": "PROBLEM"
@@ -9,7 +9,10 @@
     "dysmenorrhea": "PROBLEM"
   },
   {
-    "small uterine fibroids": "PROBLEM"
+    "uterine fibroids": "PROBLEM"
+  },
+  {
+    "ADMISSION DIAGNOSES": "TEST"
   },
   {
     "Menometrorrhagia": "PROBLEM"
@@ -19,6 +22,9 @@
   },
   {
     "uterine fibroids": "PROBLEM"
+  },
+  {
+    "DISCHARGE DIAGNOSES": "PROBLEM"
   },
   {
     "Menorrhagia": "PROBLEM"
@@ -66,10 +72,22 @@
     "uterus": "PROBLEM"
   },
   {
+    "adnexa": "PROBLEM"
+  },
+  {
     "hemoglobin": "TEST"
   },
   {
     "total vaginal hysterectomy": "TREATMENT"
+  },
+  {
+    "general anesthesia": "TREATMENT"
+  },
+  {
+    "Bowel and bladder function": "PROBLEM"
+  },
+  {
+    "ambulating": "PROBLEM"
   },
   {
     "Vicodin": "DRUG"
@@ -81,9 +99,18 @@
     "uterine fibroids": "PROBLEM"
   },
   {
-    "menometrorrhagia": "PROBLEM"
+    "vaginal": "TREATMENT"
   },
   {
     "total vaginal hysterectomy": "TREATMENT"
+  },
+  {
+    "menometrorrhagia": "PROBLEM"
+  },
+  {
+    "uterine": "PROBLEM"
+  },
+  {
+    "fibroids": "PROBLEM"
   }
 ]

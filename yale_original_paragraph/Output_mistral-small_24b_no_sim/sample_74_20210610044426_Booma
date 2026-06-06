@@ -1,0 +1,101 @@
+[
+  {
+    "MS": "PROBLEM"
+  },
+  {
+    "cognition": "PROBLEM"
+  },
+  {
+    "ambulation": "PROBLEM"
+  },
+  {
+    "MRI": "TEST"
+  },
+  {
+    "CSF": "TEST"
+  },
+  {
+    "OCB": "TEST"
+  },
+  {
+    "interferon": "DRUG"
+  },
+  {
+    "thyroid replacement": "TREATMENT"
+  },
+  {
+    "urinary frequency/urgency": "PROBLEM"
+  },
+  {
+    "numbness": "PROBLEM"
+  },
+  {
+    "axilla": "PROBLEM"
+  },
+  {
+    "arm": "PROBLEM"
+  },
+  {
+    "leg": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "Penicillins": "DRUG"
+  },
+  {
+    "Flovent HFA 44 MCG/ACT Inhalation Aerosol": "DRUG"
+  },
+  {
+    "Levoxyl 100 MCG Oral Tablet": "DRUG"
+  },
+  {
+    "ProAir HFA 108 (90 Base) MCG/ACT Inhalation Aerosol Solution": "DRUG"
+  },
+  {
+    "Accu-Chek Softclix Lancets": "DRUG"
+  },
+  {
+    "Pantoprazole Sodium 40 MG Oral Tablet Delayed Release": "DRUG"
+  },
+  {
+    "Rebif 44 MCG/0.5ML Subcutaneous Solution": "DRUG"
+  },
+  {
+    "primary syphilis": "PROBLEM"
+  },
+  {
+    "Asthma": "PROBLEM"
+  },
+  {
+    "Hypertension": "PROBLEM"
+  },
+  {
+    "CBC": "TEST"
+  },
+  {
+    "LFT": "TEST"
+  },
+  {
+    "Fe": "TEST"
+  },
+  {
+    "TIBC": "TEST"
+  },
+  {
+    "Multiple Sclerosis": "PROBLEM"
+  },
+  {
+    "Dyspepsia": "PROBLEM"
+  },
+  {
+    "rebif": "DRUG"
+  },
+  {
+    "CBC": "TEST"
+  },
+  {
+    "LFT": "TEST"
+  }
+]

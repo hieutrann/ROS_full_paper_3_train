@@ -1,5 +1,14 @@
 [
   {
+    "Airway Compromise": "PROBLEM"
+  },
+  {
+    "Foreign Body": "PROBLEM"
+  },
+  {
+    "intubated": "TREATMENT"
+  },
+  {
     "foreign body": "PROBLEM"
   },
   {
@@ -7,9 +16,6 @@
   },
   {
     "intubated": "TREATMENT"
-  },
-  {
-    "fishbone": "PROBLEM"
   },
   {
     "diabetes": "PROBLEM"
@@ -51,9 +57,6 @@
     "airway compromise": "PROBLEM"
   },
   {
-    "fishbone": "PROBLEM"
-  },
-  {
     "intubated": "TREATMENT"
   },
   {
@@ -82,9 +85,6 @@
   },
   {
     "cholecystectomy": "TREATMENT"
-  },
-  {
-    "fishbone": "PROBLEM"
   },
   {
     "foreign body": "PROBLEM"

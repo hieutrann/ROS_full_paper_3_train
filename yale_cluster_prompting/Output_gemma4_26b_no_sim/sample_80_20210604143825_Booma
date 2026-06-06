@@ -1,8 +1,5 @@
 [
   {
-    "ear, nose, mouth, and throat exam": "TEST"
-  },
-  {
     "lymphadenitis": "PROBLEM"
   },
   {
@@ -15,12 +12,6 @@
     "Otoscopic examination": "TEST"
   },
   {
-    "auditory canals": "TEST"
-  },
-  {
-    "tympanic membranes": "TEST"
-  },
-  {
     "mass lesion": "PROBLEM"
   },
   {
@@ -30,13 +21,10 @@
     "swelling": "PROBLEM"
   },
   {
-    "tympanic membranes": "PROBLEM"
+    "disruption": "PROBLEM"
   },
   {
     "infection": "PROBLEM"
-  },
-  {
-    "Nasal mucosa, septum and turbinate examination": "TEST"
   },
   {
     "inflammation": "PROBLEM"
@@ -48,7 +36,7 @@
     "disruption": "PROBLEM"
   },
   {
-    "abnormal swelling": "PROBLEM"
+    "swelling": "PROBLEM"
   },
   {
     "rhinorrhea": "PROBLEM"
@@ -72,7 +60,16 @@
     "swelling": "PROBLEM"
   },
   {
+    "masses": "PROBLEM"
+  },
+  {
+    "swelling": "PROBLEM"
+  },
+  {
     "inflammation": "PROBLEM"
+  },
+  {
+    "mass lesion": "PROBLEM"
   },
   {
     "traumatic lesions": "PROBLEM"

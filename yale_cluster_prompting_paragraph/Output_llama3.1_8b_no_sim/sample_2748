@@ -1,6 +1,6 @@
 [
   {
-    "Jaw Pain": "PROBLEM"
+    "Jaw pain": "PROBLEM"
   },
   {
     "toothache": "PROBLEM"
@@ -9,10 +9,7 @@
     "dental fracture": "PROBLEM"
   },
   {
-    "Elevated Blood Pressure": "PROBLEM"
-  },
-  {
-    "Vital Signs": "TEST"
+    "Elevated blood pressure": "PROBLEM"
   },
   {
     "Motrin": "DRUG"
@@ -24,9 +21,9 @@
     "pen V": "DRUG"
   },
   {
-    "Dental Appointment": "TREATMENT"
+    "Dental appointment": "TREATMENT"
   },
   {
-    "Surgery": "TREATMENT"
+    "Ellis type II fracture": "PROBLEM"
   }
 ]

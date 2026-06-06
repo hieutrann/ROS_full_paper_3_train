@@ -3,49 +3,82 @@
     "Seizure": "PROBLEM"
   },
   {
-    "hypoglycemia": "PROBLEM"
+    "Hypoglycemia": "PROBLEM"
   },
   {
-    "anemia": "PROBLEM"
+    "Anemia": "PROBLEM"
   },
   {
-    "dyspnea": "PROBLEM"
+    "Dyspnea": "PROBLEM"
   },
   {
-    "edema": "PROBLEM"
+    "Edema": "PROBLEM"
   },
   {
-    "colon cancer": "PROBLEM"
+    "Colon cancer": "PROBLEM"
   },
   {
-    "hospital-acquired pneumonia": "PROBLEM"
+    "Hospital-acquired pneumonia": "PROBLEM"
   },
   {
-    "congestive heart failure": "PROBLEM"
+    "Congestive heart failure": "PROBLEM"
   },
   {
-    "seizure disorder": "PROBLEM"
+    "Seizure disorder": "PROBLEM"
   },
   {
-    "diabetes mellitus": "PROBLEM"
+    "Diabetes mellitus": "PROBLEM"
   },
   {
-    "previous MI": "PROBLEM"
+    "Previous MI": "PROBLEM"
   },
   {
-    "coronary artery disease": "PROBLEM"
+    "Coronary artery disease": "PROBLEM"
   },
   {
     "GERD": "PROBLEM"
   },
   {
-    "bipolar disorder": "PROBLEM"
+    "Bipolar disorder": "PROBLEM"
   },
   {
-    "diabetic gastroparesis": "PROBLEM"
+    "Diabetic gastroparesis": "PROBLEM"
   },
   {
-    "MRSA": "PROBLEM"
+    "Noncontrast CT": "TEST"
+  },
+  {
+    "Colonoscopy": "TEST"
+  },
+  {
+    "Right hemicolectomy": "TREATMENT"
+  },
+  {
+    "Lamictal": "DRUG"
+  },
+  {
+    "NovoLog": "DRUG"
+  },
+  {
+    "Zosyn": "DRUG"
+  },
+  {
+    "Levaquin": "DRUG"
+  },
+  {
+    "Vancomycin": "DRUG"
+  },
+  {
+    "Bactrim": "DRUG"
+  },
+  {
+    "Coreg": "DRUG"
+  },
+  {
+    "Lasix": "DRUG"
+  },
+  {
+    "Lipitor": "DRUG"
   },
   {
     "Nitro-Dur": "DRUG"
@@ -60,9 +93,6 @@
     "Zyrtec": "DRUG"
   },
   {
-    "Lamictal": "DRUG"
-  },
-  {
     "Ferrous sulfate": "DRUG"
   },
   {
@@ -72,81 +102,15 @@
     "Neurontin": "DRUG"
   },
   {
-    "Lasix": "DRUG"
-  },
-  {
     "Fentanyl": "DRUG"
   },
   {
     "Calcium and vitamin D combination": "DRUG"
   },
   {
-    "Bactrim": "DRUG"
-  },
-  {
-    "Levaquin": "DRUG"
-  },
-  {
-    "Coreg": "DRUG"
-  },
-  {
-    "Lipitor": "DRUG"
-  },
-  {
-    "vancomycin": "DRUG"
-  },
-  {
-    "Zosyn": "DRUG"
-  },
-  {
-    "Levaquin": "DRUG"
-  },
-  {
-    "Colonoscopy": "TEST"
-  },
-  {
-    "Right hemicolectomy": "TEST"
-  },
-  {
-    "Noncontrast CT of the head": "TEST"
-  },
-  {
-    "CT of the abdomen and pelvis": "TEST"
-  },
-  {
-    "CT of the chest": "TEST"
-  },
-  {
-    "Serial chest x-rays": "TEST"
-  },
-  {
     "CBC with diff": "TEST"
   },
   {
     "CMP": "TEST"
-  },
-  {
-    "Colonoscopy": "TREATMENT"
-  },
-  {
-    "Right hemicolectomy": "TREATMENT"
-  },
-  {
-    "Incision and drainage": "TREATMENT"
-  },
-  {
-    "Lamictal": "TREATMENT"
-  },
-  {
-    "Insulin pump": "TREATMENT"
-  },
-  {
-    "Zosyn": "TREATMENT"
-  },
-  {
-    "Levaquin": "TREATMENT"
-  },
-  {
-    "vancomycin": "TREATMENT"
   }
 ]

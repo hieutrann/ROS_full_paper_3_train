@@ -21,7 +21,7 @@
     "hypokalemia": "PROBLEM"
   },
   {
-    "Elevated liver function tests": "TEST"
+    "liver function tests": "TEST"
   },
   {
     "dementia": "PROBLEM"
@@ -66,16 +66,13 @@
     "right lobar infiltrate": "PROBLEM"
   },
   {
-    "antibiotics": "DRUG"
+    "antibiotics": "TREATMENT"
   },
   {
     "vancomycin": "DRUG"
   },
   {
     "Blood, sputum, and urine cultures": "TEST"
-  },
-  {
-    "infection": "PROBLEM"
   },
   {
     "C. diff colitis": "PROBLEM"
@@ -93,13 +90,16 @@
     "ultrasound": "TEST"
   },
   {
-    "CT scan of the chest and abdomen": "TEST"
+    "CT scan": "TEST"
   },
   {
     "HIDA scan": "TEST"
   },
   {
     "gallbladder dysfunction": "PROBLEM"
+  },
+  {
+    "hypoxemic": "PROBLEM"
   },
   {
     "pulse oximetry": "TEST"
@@ -130,6 +130,9 @@
   },
   {
     "GI bleeding": "PROBLEM"
+  },
+  {
+    "hematocrit": "TEST"
   },
   {
     "PT": "TEST"

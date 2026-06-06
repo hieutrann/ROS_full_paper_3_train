@@ -1,0 +1,44 @@
+[
+  {
+    "Respiratory distress": "PROBLEM"
+  },
+  {
+    "sepsis": "PROBLEM"
+  },
+  {
+    "prematurity": "PROBLEM"
+  },
+  {
+    "Apgar": "TEST"
+  },
+  {
+    "CBC": "TEST"
+  },
+  {
+    "CRP": "TEST"
+  },
+  {
+    "blood cultures": "TEST"
+  },
+  {
+    "D10": "TEST"
+  },
+  {
+    "ampicillin": "DRUG"
+  },
+  {
+    "gentamicin": "DRUG"
+  },
+  {
+    "EBM 22": "TREATMENT"
+  },
+  {
+    "NeoSure": "TREATMENT"
+  },
+  {
+    "OG tube": "TREATMENT"
+  },
+  {
+    "ad lib feeds": "TREATMENT"
+  }
+]

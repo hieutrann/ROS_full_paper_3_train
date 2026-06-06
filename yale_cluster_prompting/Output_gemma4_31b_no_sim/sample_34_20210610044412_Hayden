@@ -1,6 +1,6 @@
 [
   {
-    "VITAL SIGNS": "TEST"
+    "chronically ill": "PROBLEM"
   },
   {
     "blood pressure": "TEST"
@@ -18,16 +18,19 @@
     "chronically ill": "PROBLEM"
   },
   {
+    "pupils": "TEST"
+  },
+  {
     "Funduscopic examination": "TEST"
   },
   {
     "Tympanic membranes": "TEST"
   },
   {
-    "Trachea": "PROBLEM"
+    "Negative nodes": "PROBLEM"
   },
   {
-    "Lungs are clear to auscultation": "TEST"
+    "auscultation": "TEST"
   },
   {
     "respiratory rate": "TEST"
@@ -45,7 +48,7 @@
     "secondary muscle use": "PROBLEM"
   },
   {
-    "bilateral breath sounds": "TEST"
+    "breath sounds": "TEST"
   },
   {
     "jugular venous distention": "PROBLEM"
@@ -54,7 +57,7 @@
     "carotid bruits": "PROBLEM"
   },
   {
-    "heart size": "TEST"
+    "heart size": "PROBLEM"
   },
   {
     "percussion": "TEST"
@@ -63,10 +66,16 @@
     "murmur": "PROBLEM"
   },
   {
-    "Normal S1 and S2 sounds": "TEST"
+    "S1": "TEST"
+  },
+  {
+    "S2": "TEST"
   },
   {
     "gallop": "PROBLEM"
+  },
+  {
+    "palpation": "TEST"
   },
   {
     "organomegaly": "PROBLEM"
@@ -78,7 +87,10 @@
     "Bowel sounds": "TEST"
   },
   {
-    "Obturator and psoas signs": "TEST"
+    "Obturator signs": "TEST"
+  },
+  {
+    "psoas signs": "TEST"
   },
   {
     "bladder tenderness": "PROBLEM"
@@ -141,6 +153,21 @@
     "normal physical exam": "TEST"
   },
   {
+    "nodes": "PROBLEM"
+  },
+  {
     "tenderness": "PROBLEM"
+  },
+  {
+    "motor": "TEST"
+  },
+  {
+    "strength": "TEST"
+  },
+  {
+    "reflexes": "TEST"
+  },
+  {
+    "sounds": "TEST"
   }
 ]

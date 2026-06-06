@@ -48,7 +48,7 @@
     "dryness": "PROBLEM"
   },
   {
-    "the feeling that something is in the eye": "PROBLEM"
+    "glasses": "TREATMENT"
   },
   {
     "ringing in the ears": "PROBLEM"
@@ -87,6 +87,12 @@
     "dry mouth": "PROBLEM"
   },
   {
+    "dentures": "TREATMENT"
+  },
+  {
+    "removable dental work": "TREATMENT"
+  },
+  {
     "frequent sore throats": "PROBLEM"
   },
   {
@@ -96,7 +102,7 @@
     "constant feeling of a need to clear the throat": "PROBLEM"
   },
   {
-    "waking up with acid or bitter fluid in the mouth or throat": "PROBLEM"
+    "acid or bitter fluid in the mouth or throat": "PROBLEM"
   },
   {
     "food sticking in throat when swallows": "PROBLEM"
@@ -111,7 +117,7 @@
     "irregular heartbeats": "PROBLEM"
   },
   {
-    "sudden changes in heartbeat": "PROBLEM"
+    "heartbeat": "PROBLEM"
   },
   {
     "palpitation": "PROBLEM"
@@ -240,7 +246,10 @@
     "kidney stones": "PROBLEM"
   },
   {
-    "rash or ulcers": "PROBLEM"
+    "rash": "PROBLEM"
+  },
+  {
+    "ulcers": "PROBLEM"
   },
   {
     "sexual difficulties": "PROBLEM"
@@ -276,7 +285,7 @@
     "back pain": "PROBLEM"
   },
   {
-    "major orthopedic injuries": "PROBLEM"
+    "orthopedic injuries": "PROBLEM"
   },
   {
     "easy bruising": "PROBLEM"
@@ -343,9 +352,6 @@
   },
   {
     "thoughts of suicide": "PROBLEM"
-  },
-  {
-    "voices": "PROBLEM"
   },
   {
     "psychiatric counseling": "TREATMENT"

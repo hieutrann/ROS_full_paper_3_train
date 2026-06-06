@@ -45,19 +45,10 @@
     "right hip fracture": "PROBLEM"
   },
   {
-    "fall": "PROBLEM"
-  },
-  {
     "TAH/BSO": "TREATMENT"
   },
   {
     "alcohol abuse": "PROBLEM"
-  },
-  {
-    "PHYSICAL EXAM": "TEST"
-  },
-  {
-    "VITAL SIGNS": "TEST"
   },
   {
     "obtunded": "PROBLEM"
@@ -66,16 +57,16 @@
     "Bilaterally diminished": "PROBLEM"
   },
   {
-    "tenderness": "PROBLEM"
-  },
-  {
-    "LABORATORY STUDIES": "TEST"
-  },
-  {
     "white blood cell count": "TEST"
   },
   {
+    "Elevated AST": "PROBLEM"
+  },
+  {
     "AST": "TEST"
+  },
+  {
+    "normal ALT": "PROBLEM"
   },
   {
     "ALT": "TEST"
@@ -102,7 +93,7 @@
     "free air": "PROBLEM"
   },
   {
-    "CT scan": "TEST"
+    "a CT scan": "TEST"
   },
   {
     "physical examination": "TEST"
@@ -135,7 +126,7 @@
     "intra abdominal pathology": "PROBLEM"
   },
   {
-    "pathology": "PROBLEM"
+    "abdominal pathology": "PROBLEM"
   },
   {
     "obtunded": "PROBLEM"

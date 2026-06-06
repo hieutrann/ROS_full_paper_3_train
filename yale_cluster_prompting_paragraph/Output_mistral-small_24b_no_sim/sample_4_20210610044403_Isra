@@ -36,6 +36,12 @@
     "urinary tract infection": "PROBLEM"
   },
   {
+    "chronic incontinence": "PROBLEM"
+  },
+  {
+    "bladder atony": "PROBLEM"
+  },
+  {
     "Foley catheter": "TREATMENT"
   },
   {
@@ -52,6 +58,9 @@
   },
   {
     "neuropathy": "PROBLEM"
+  },
+  {
+    "pain": "PROBLEM"
   },
   {
     "hypothyroidism": "PROBLEM"
@@ -150,37 +159,13 @@
     "Nystatin powder": "DRUG"
   },
   {
-    "oxygen": "DRUG"
-  },
-  {
-    "blood pressure": "TEST"
-  },
-  {
-    "pulse": "TEST"
-  },
-  {
-    "temperature": "TEST"
-  },
-  {
-    "weight": "TEST"
-  },
-  {
-    "urine output": "TEST"
-  },
-  {
-    "blood sugars": "TEST"
-  },
-  {
-    "moist mucous membranes": "TEST"
-  },
-  {
-    "pallor": "TEST"
+    "oxygen": "TREATMENT"
   },
   {
     "rash": "PROBLEM"
   },
   {
-    "pacemaker": "TEST"
+    "pacemaker": "TREATMENT"
   },
   {
     "BUN": "TEST"
@@ -190,9 +175,6 @@
   },
   {
     "LFTs": "TEST"
-  },
-  {
-    "anemic": "PROBLEM"
   },
   {
     "hemoglobin": "TEST"
@@ -213,13 +195,10 @@
     "guaiac": "TEST"
   },
   {
-    "mixed cultures": "TEST"
-  },
-  {
     "Septra": "DRUG"
   },
   {
-    "cerebrovascular accident": "PROBLEM"
+    "Cerebrovascular accident": "PROBLEM"
   },
   {
     "Coumadin": "DRUG"
@@ -231,7 +210,19 @@
     "comfort care": "TREATMENT"
   },
   {
+    "urinary tract infection": "PROBLEM"
+  },
+  {
     "Cipro": "DRUG"
+  },
+  {
+    "diabetes": "PROBLEM"
+  },
+  {
+    "hypoglycemia": "PROBLEM"
+  },
+  {
+    "blood sugar": "TEST"
   },
   {
     "Humulin N": "DRUG"
@@ -240,18 +231,84 @@
     "Avandia": "DRUG"
   },
   {
+    "neuropathy": "PROBLEM"
+  },
+  {
     "Neurontin": "DRUG"
   },
   {
     "Percocet": "DRUG"
   },
   {
+    "hypothyroidism": "PROBLEM"
+  },
+  {
     "Synthroid": "DRUG"
+  },
+  {
+    "hyperlipidemia": "PROBLEM"
   },
   {
     "Lipitor": "DRUG"
   },
   {
-    "resuscitated": "TREATMENT"
+    "hypoglycemia": "PROBLEM"
+  },
+  {
+    "neuropathy": "PROBLEM"
+  },
+  {
+    "hypothyroidism": "PROBLEM"
+  },
+  {
+    "hyperlipidemia": "PROBLEM"
+  },
+  {
+    "decreased level of consciousness": "PROBLEM"
+  },
+  {
+    "level of consciousness": "PROBLEM"
+  },
+  {
+    "urinary tract infection": "PROBLEM"
+  },
+  {
+    "decreased level": "PROBLEM"
+  },
+  {
+    "blood sugar": "TEST"
+  },
+  {
+    "garbled speech": "PROBLEM"
+  },
+  {
+    "mental status": "PROBLEM"
+  },
+  {
+    "urinary tract": "PROBLEM"
+  },
+  {
+    "emergency department": "TEST"
+  },
+  {
+    "decreased": "PROBLEM"
+  },
+  {
+    "confused": "PROBLEM"
+  },
+  {
+    "coumadin": "DRUG"
+  },
+  {
+    "blood": "TEST"
+  },
+  {
+    "emergency": "TEST"
+  },
+  {
+    "cultures": "TEST"
+  },
+  {
+    "intake": "TEST"
   }
 ]

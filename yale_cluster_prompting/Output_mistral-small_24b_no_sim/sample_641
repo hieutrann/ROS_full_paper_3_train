@@ -6,13 +6,13 @@
     "atrial fibrillation": "PROBLEM"
   },
   {
-    "stroke": "PROBLEM"
+    "cardioembolic stroke": "PROBLEM"
   },
   {
-    "right brain": "PROBLEM"
+    "special procedures": "TREATMENT"
   },
   {
-    "Medical management": "TREATMENT"
+    "HISTORY OF PRESENT ILLNESS": "TEST"
   },
   {
     "stroke": "PROBLEM"
@@ -72,6 +72,9 @@
     "paralyzation": "TREATMENT"
   },
   {
+    "diastolic": "PROBLEM"
+  },
+  {
     "stroke": "PROBLEM"
   },
   {
@@ -81,10 +84,10 @@
     "clot": "PROBLEM"
   },
   {
-    "clot": "PROBLEM"
+    "carotid": "PROBLEM"
   },
   {
-    "prognosis": "PROBLEM"
+    "extremely guarded and critical prognosis": "PROBLEM"
   },
   {
     "STAT echocardiogram": "TEST"
@@ -93,19 +96,10 @@
     "clot": "PROBLEM"
   },
   {
-    "heart": "PROBLEM"
-  },
-  {
     "patent foramen ovale": "PROBLEM"
   },
   {
     "clot": "PROBLEM"
-  },
-  {
-    "legs": "PROBLEM"
-  },
-  {
-    "heart": "PROBLEM"
   },
   {
     "Echo": "TEST"
@@ -123,7 +117,7 @@
     "Coumadin": "DRUG"
   },
   {
-    "chronic AFib": "PROBLEM"
+    "AFib": "PROBLEM"
   },
   {
     "Tremor": "PROBLEM"
@@ -147,7 +141,7 @@
     "TIA": "PROBLEM"
   },
   {
-    "atrial fibrillation": "PROBLEM"
+    "chronic atrial fibrillation": "PROBLEM"
   },
   {
     "Coumadin": "DRUG"
@@ -174,40 +168,43 @@
     "SULFAS": "DRUG"
   },
   {
+    "RASH": "PROBLEM"
+  },
+  {
     "PROZAC": "DRUG"
   },
   {
-    "Lanoxin": "DRUG"
+    "Lanoxin 0.25 daily": "DRUG"
   },
   {
-    "Inderal LA": "DRUG"
+    "Inderal LA 80 daily": "DRUG"
   },
   {
-    "MOBIC": "DRUG"
+    "MOBIC 7.5 daily": "DRUG"
   },
   {
-    "Robaxin": "DRUG"
+    "Robaxin 750 q.8": "DRUG"
   },
   {
-    "aspirin": "DRUG"
+    "aspirin 80 one daily": "DRUG"
   },
   {
-    "acyclovir": "DRUG"
+    "acyclovir dose unknown daily": "DRUG"
   },
   {
-    "potassium": "DRUG"
+    "potassium, dose unknown": "DRUG"
   },
   {
-    "oxazepam": "DRUG"
+    "oxazepam 15 mg daily": "DRUG"
   },
   {
-    "aspirin": "DRUG"
+    "aspirin 80 one daily": "DRUG"
   },
   {
-    "ibuprofen": "DRUG"
+    "ibuprofen PRN": "DRUG"
   },
   {
-    "Darvocet-N": "DRUG"
+    "Darvocet-N 100 PRN": "DRUG"
   },
   {
     "drink": "PROBLEM"
@@ -222,7 +219,7 @@
     "MI": "PROBLEM"
   },
   {
-    "VITAL SIGNS": "TEST"
+    "VACCINATION STATUS": "TEST"
   },
   {
     "temperature": "TEST"
@@ -237,7 +234,19 @@
     "respirations": "TEST"
   },
   {
+    "alert": "PROBLEM"
+  },
+  {
+    "vital signs": "TEST"
+  },
+  {
+    "physical exam": "TEST"
+  },
+  {
     "white count": "TEST"
+  },
+  {
+    "13": "TEST"
   },
   {
     "neutrophils": "TEST"
@@ -249,10 +258,16 @@
     "blood sugar": "TEST"
   },
   {
+    "157": "TEST"
+  },
+  {
+    "hemoglobin A1c": "TEST"
+  },
+  {
     "TSH": "TEST"
   },
   {
-    "cholesterol": "PROBLEM"
+    "cholesterol": "TEST"
   },
   {
     "Digoxin": "DRUG"
@@ -264,10 +279,16 @@
     "ABG": "TEST"
   },
   {
+    "7.47/32/459": "TEST"
+  },
+  {
     "Magnesium": "DRUG"
   },
   {
     "ESR": "TEST"
+  },
+  {
+    "coags": "TEST"
   },
   {
     "EKG": "TEST"
@@ -288,13 +309,16 @@
     "shoulder films": "TEST"
   },
   {
-    "CT scan": "TEST"
+    "CT scan of the head": "TEST"
   },
   {
     "Chest x-ray": "TEST"
   },
   {
-    "cardiomegaly": "PROBLEM"
+    "ET tube": "TREATMENT"
+  },
+  {
+    "mild cardiomegaly": "PROBLEM"
   },
   {
     "interstitial opacities": "PROBLEM"
@@ -309,13 +333,22 @@
     "CT scan": "TEST"
   },
   {
-    "head": "TEST"
+    "head": "PROBLEM"
   },
   {
     "bleeding": "PROBLEM"
   },
   {
     "X-rays": "TEST"
+  },
+  {
+    "shoulders": "PROBLEM"
+  },
+  {
+    "PROBLEMS": "PROBLEM"
+  },
+  {
+    "Large cardioembolic stroke": "PROBLEM"
   },
   {
     "stroke": "PROBLEM"
@@ -327,6 +360,9 @@
     "mental status": "PROBLEM"
   },
   {
+    "critical condition": "PROBLEM"
+  },
+  {
     "strokes": "PROBLEM"
   },
   {
@@ -336,7 +372,10 @@
     "heart": "PROBLEM"
   },
   {
-    "foramen ovale": "PROBLEM"
+    "patent foramen ovale": "PROBLEM"
+  },
+  {
+    "STAT": "TEST"
   },
   {
     "cardiologist": "PROBLEM"
@@ -349,6 +388,9 @@
   },
   {
     "clot burdened": "PROBLEM"
+  },
+  {
+    "clot": "PROBLEM"
   },
   {
     "PFO": "PROBLEM"
@@ -366,6 +408,9 @@
     "emergency retrieval device": "TREATMENT"
   },
   {
+    "interventional radiology": "TREATMENT"
+  },
+  {
     "Hypertension": "PROBLEM"
   },
   {
@@ -381,13 +426,13 @@
     "atrial fibrillation": "PROBLEM"
   },
   {
-    "Cardizem": "DRUG"
+    "Cardizem drip": "DRUG"
   },
   {
-    "systolic": "TEST"
+    "systolic": "PROBLEM"
   },
   {
-    "diastolics": "TEST"
+    "diastolics": "PROBLEM"
   },
   {
     "atrial fibrillation": "PROBLEM"
@@ -403,9 +448,6 @@
   },
   {
     "beta-blocker": "DRUG"
-  },
-  {
-    "Digoxin": "DRUG"
   },
   {
     "vasospasm": "PROBLEM"
@@ -426,19 +468,25 @@
     "hypertension": "PROBLEM"
   },
   {
+    "cardiology": "PROBLEM"
+  },
+  {
     "Digoxin level": "TEST"
   },
   {
     "TSH": "TEST"
   },
   {
-    "echo": "TEST"
+    "STAT echo": "TEST"
   },
   {
     "ultrasound": "TEST"
   },
   {
     "Respiratory failure": "PROBLEM"
+  },
+  {
+    "ventilator": "TREATMENT"
   },
   {
     "hyperventilate": "TREATMENT"
@@ -471,19 +519,19 @@
     "alkalosis": "PROBLEM"
   },
   {
-    "electrolytes": "PROBLEM"
+    "electrolytes": "TEST"
   },
   {
     "Deep vein thrombosis": "PROBLEM"
   },
   {
-    "prophylaxis": "TREATMENT"
+    "thigh-high TED hose": "TREATMENT"
   },
   {
-    "TED hose": "DRUG"
+    "SCDs": "TREATMENT"
   },
   {
-    "SCDs": "DRUG"
+    "vampire/venom": "DRUG"
   },
   {
     "DIC": "PROBLEM"
@@ -495,13 +543,13 @@
     "tube feeds": "TREATMENT"
   },
   {
+    "updates": "TREATMENT"
+  },
+  {
     "neurologic prognosis": "PROBLEM"
   },
   {
-    "medication": "DRUG"
-  },
-  {
-    "treatment": "TREATMENT"
+    "medication treatment": "TREATMENT"
   },
   {
     "critical care": "TREATMENT"
@@ -520,9 +568,6 @@
   },
   {
     "atrial fibrillation": "PROBLEM"
-  },
-  {
-    "heart": "PROBLEM"
   },
   {
     "clot": "PROBLEM"

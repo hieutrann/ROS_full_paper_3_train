@@ -1,5 +1,14 @@
 [
   {
+    "Female Physical Exam": "TEST"
+  },
+  {
+    "female physical exam": "TEST"
+  },
+  {
+    "FEMALE PHYSICAL EXAMINATION": "TEST"
+  },
+  {
     "edema": "PROBLEM"
   },
   {
@@ -18,19 +27,7 @@
     "lesions": "PROBLEM"
   },
   {
-    "Pupils": "TEST"
-  },
-  {
     "lesions": "PROBLEM"
-  },
-  {
-    "Anterior chamber": "TEST"
-  },
-  {
-    "Lacrimal ducts": "TEST"
-  },
-  {
-    "Fundi": "TEST"
   },
   {
     "erythema": "PROBLEM"
@@ -63,10 +60,7 @@
     "lesions": "PROBLEM"
   },
   {
-    "Turbinates": "TEST"
-  },
-  {
-    "Mucus clear": "PROBLEM"
+    "Mucus": "PROBLEM"
   },
   {
     "internal lesions": "PROBLEM"
@@ -90,9 +84,6 @@
     "adenopathy": "PROBLEM"
   },
   {
-    "Tonsils": "TEST"
-  },
-  {
     "lesions": "PROBLEM"
   },
   {
@@ -105,9 +96,6 @@
     "masses": "PROBLEM"
   },
   {
-    "Chest": "TEST"
-  },
-  {
     "wheezing": "PROBLEM"
   },
   {
@@ -115,9 +103,6 @@
   },
   {
     "rhonchi": "PROBLEM"
-  },
-  {
-    "Chest nontender": "PROBLEM"
   },
   {
     "lung excursion": "TEST"
@@ -133,9 +118,6 @@
   },
   {
     "Heart rate": "TEST"
-  },
-  {
-    "bowel sounds": "TEST"
   },
   {
     "hepatomegaly": "PROBLEM"
@@ -165,28 +147,16 @@
     "lesions": "PROBLEM"
   },
   {
-    "discharge": "PROBLEM"
-  },
-  {
     "lesions": "PROBLEM"
   },
   {
     "pelvic masses": "PROBLEM"
   },
   {
-    "Uterus": "TEST"
-  },
-  {
     "external hemorrhoids": "PROBLEM"
   },
   {
-    "range of motion": "TEST"
-  },
-  {
     "joint effusions": "PROBLEM"
-  },
-  {
-    "Joints": "TEST"
   },
   {
     "muscle masses": "PROBLEM"
@@ -225,7 +195,7 @@
     "tenderness": "PROBLEM"
   },
   {
-    "Knee": "TEST"
+    "range of motion": "TEST"
   },
   {
     "joint effusion": "PROBLEM"
@@ -243,7 +213,7 @@
     "edema": "PROBLEM"
   },
   {
-    "Wrist": "TEST"
+    "range of motion": "TEST"
   },
   {
     "edema": "PROBLEM"
@@ -258,7 +228,7 @@
     "Phalen tests": "TEST"
   },
   {
-    "Elbow": "TEST"
+    "range of motion": "TEST"
   },
   {
     "joint effusion": "PROBLEM"
@@ -267,13 +237,7 @@
     "erythema": "PROBLEM"
   },
   {
-    "Olecranon bursa": "PROBLEM"
-  },
-  {
     "edema": "PROBLEM"
-  },
-  {
-    "supination and pronation of forearm": "TEST"
   },
   {
     "crepitus": "PROBLEM"
@@ -282,19 +246,13 @@
     "swinging test": "TEST"
   },
   {
-    "Trochanteric bursa": "PROBLEM"
-  },
-  {
-    "range of motion": "TEST"
+    "Trochanteric bursa nontender": "PROBLEM"
   },
   {
     "pain": "PROBLEM"
   },
   {
     "crepitus": "PROBLEM"
-  },
-  {
-    "gait": "TEST"
   },
   {
     "delusions": "PROBLEM"
@@ -316,6 +274,12 @@
   },
   {
     "agitation": "PROBLEM"
+  },
+  {
+    "physical examination": "TEST"
+  },
+  {
+    "anterior chamber": "TEST"
   },
   {
     "crepitus": "PROBLEM"

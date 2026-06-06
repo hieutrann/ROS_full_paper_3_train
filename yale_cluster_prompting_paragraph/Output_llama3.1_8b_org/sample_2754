@@ -1,1 +1,1 @@
-['[\n  {"heroin": "PROBLEM"},\n  {"cocaine": "PROBLEM"},\n  {"alcohol abuse": "PROBLEM"},\n  {"chronic pain": "PROBLEM"},\n  {"VITAL SIGNS": "TEST"},\n  {"clonidine": "DRUG"},\n  {"Phenergan": "DRUG"},\n  {"detox from heroin": "TREATMENT"},\n  {"detox": "TREATMENT"}\n]']
+['[\n  {"heroin abuse": "PROBLEM"},\n  {"alcohol abuse": "PROBLEM"},\n  {"chronic pain": "PROBLEM"},\n  {"detox from heroin": "PROBLEM"},\n  {"clonidine": "DRUG"},\n  {"Phenergan": "DRUG"},\n  {"cocaine": "PROBLEM"},\n  {"detox": "TREATMENT"},\n  {"clonidine": "TREATMENT"}\n]']

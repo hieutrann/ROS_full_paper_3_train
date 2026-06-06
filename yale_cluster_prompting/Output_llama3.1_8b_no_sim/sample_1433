@@ -15,9 +15,6 @@
     "symptoms": "PROBLEM"
   },
   {
-    "side effect": "PROBLEM"
-  },
-  {
     "erection": "PROBLEM"
   },
   {
@@ -36,7 +33,7 @@
     "dysuria": "PROBLEM"
   },
   {
-    "hematuria": "PROBLEM"
+    "gross hematuria": "PROBLEM"
   },
   {
     "fever": "PROBLEM"
@@ -51,7 +48,7 @@
     "nocturia": "PROBLEM"
   },
   {
-    "good stream": "PROBLEM"
+    "good stream": "TEST"
   },
   {
     "elevated PSA": "PROBLEM"
@@ -63,16 +60,13 @@
     "biopsy": "TEST"
   },
   {
-    "June": "TEST"
+    "PSA": "TEST"
   },
   {
     "PSA": "TEST"
   },
   {
     "Dr.": "TREATMENT"
-  },
-  {
-    "notes": "TEST"
   },
   {
     "IMPRESSION": "TEST"
@@ -93,7 +87,7 @@
     "penile prosthesis": "TREATMENT"
   },
   {
-    "Caverject injection": "DRUG"
+    "Caverject injection": "TREATMENT"
   },
   {
     "pump": "TREATMENT"
@@ -102,7 +96,7 @@
     "medication": "DRUG"
   },
   {
-    "2": "TREATMENT"
+    "2": "TEST"
   },
   {
     "Elevated PSA": "PROBLEM"
@@ -111,19 +105,13 @@
     "high-grade PIN": "PROBLEM"
   },
   {
-    "biopsy": "TEST"
-  },
-  {
-    "PSA": "TEST"
-  },
-  {
     "prostate ultrasound": "TEST"
   },
   {
     "biopsy": "TEST"
   },
   {
-    "Dr.": "TREATMENT"
+    "Dr": "TREATMENT"
   },
   {
     "biopsy": "TEST"
@@ -135,13 +123,7 @@
     "Levitra": "DRUG"
   },
   {
-    "them": "DRUG"
-  },
-  {
-    "concern": "PROBLEM"
-  },
-  {
-    "Dr.": "TREATMENT"
+    "Dr": "TREATMENT"
   },
   {
     "PSA": "TEST"
@@ -153,12 +135,6 @@
     "biopsy": "TEST"
   },
   {
-    "scheduling": "TREATMENT"
-  },
-  {
-    "urology": "PROBLEM"
-  },
-  {
     "erectile dysfunction": "PROBLEM"
   },
   {
@@ -168,15 +144,21 @@
     "erectile dysfunction": "PROBLEM"
   },
   {
-    "erectile dysfunction": "PROBLEM"
+    "erectile": "PROBLEM"
   },
   {
-    "Cialis": "DRUG"
+    "dysfunction": "PROBLEM"
+  },
+  {
+    "erectile dysfunction": "PROBLEM"
   },
   {
     "psa": "TEST"
   },
   {
     "biopsy": "TEST"
+  },
+  {
+    "cialis": "DRUG"
   }
 ]

@@ -6,16 +6,16 @@
     "bowel perforations": "PROBLEM"
   },
   {
-    "end-stage peritoneal mesothelioma": "PROBLEM"
+    "peritoneal mesothelioma": "PROBLEM"
   },
   {
     "bowel perforations": "PROBLEM"
   },
   {
-    "n.p.o.": "TEST"
+    "n.p.o.": "TREATMENT"
   },
   {
-    "pleurodesis": "PROBLEM"
+    "pleurodesis": "TREATMENT"
   },
   {
     "abdominal pain": "PROBLEM"
@@ -24,7 +24,7 @@
     "Duragesic patch": "DRUG"
   },
   {
-    "Dilaudid PCA": "TREATMENT"
+    "Dilaudid": "DRUG"
   },
   {
     "Dilaudid": "DRUG"
@@ -42,22 +42,16 @@
     "thoracic epidural placement": "TREATMENT"
   },
   {
-    "sympathetic block": "TREATMENT"
-  },
-  {
     "celiac plexuses/neurolytic block": "TREATMENT"
   },
   {
-    "pain procedures": "PROBLEM"
+    "pain procedures": "TREATMENT"
   },
   {
-    "medical management": "PROBLEM"
+    "Dr": "TREATMENT"
   },
   {
-    "Dr.": "TREATMENT"
-  },
-  {
-    "Pain Service": "PROBLEM"
+    "Pain Service": "TREATMENT"
   },
   {
     "anxiety": "PROBLEM"

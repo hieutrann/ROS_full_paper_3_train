@@ -141,6 +141,9 @@
     "saturating": "TEST"
   },
   {
+    "dry": "PROBLEM"
+  },
+  {
     "thyromegaly": "PROBLEM"
   },
   {
@@ -277,6 +280,9 @@
   },
   {
     "digoxin level": "TEST"
+  },
+  {
+    "dementia medications": "DRUG"
   },
   {
     "PPI": "DRUG"

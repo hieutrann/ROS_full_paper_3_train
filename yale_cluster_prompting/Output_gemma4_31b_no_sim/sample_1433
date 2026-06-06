@@ -87,7 +87,7 @@
     "working pump": "TREATMENT"
   },
   {
-    "Elevated PSA": "TEST"
+    "Elevated PSA": "PROBLEM"
   },
   {
     "biopsy": "TEST"
@@ -124,12 +124,6 @@
   },
   {
     "erectile dysfunction": "PROBLEM"
-  },
-  {
-    "erectile": "PROBLEM"
-  },
-  {
-    "dysfunction": "PROBLEM"
   },
   {
     "cialis": "DRUG"

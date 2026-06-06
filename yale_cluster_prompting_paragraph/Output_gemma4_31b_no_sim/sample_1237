@@ -9,19 +9,22 @@
     "BMI": "TEST"
   },
   {
-    "Laparoscopic gastric bypass": "TREATMENT"
+    "Morbid obesity": "PROBLEM"
   },
   {
-    "Surgery": "TREATMENT"
+    "BMI": "TEST"
+  },
+  {
+    "Laparoscopic gastric bypass": "TREATMENT"
   },
   {
     "morbid obesity": "PROBLEM"
   },
   {
-    "gastric bypass": "TREATMENT"
+    "preoperative workup": "TEST"
   },
   {
-    "labs": "TEST"
+    "gastric bypass": "TREATMENT"
   },
   {
     "clear liquid diet": "TREATMENT"
@@ -48,7 +51,7 @@
     "calf pain": "PROBLEM"
   },
   {
-    "temperature": "TEST"
+    "temperature greater than 101.5": "PROBLEM"
   },
   {
     "redness": "PROBLEM"
@@ -79,20 +82,5 @@
   },
   {
     "Colace": "DRUG"
-  },
-  {
-    "laparoscopic gastric bypass": "TREATMENT"
-  },
-  {
-    "gastric bypass": "TREATMENT"
-  },
-  {
-    "morbid obesity": "PROBLEM"
-  },
-  {
-    "liquid diet": "TREATMENT"
-  },
-  {
-    "bmi": "TEST"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "end-stage peritoneal mesothelioma": "PROBLEM"
+    "peritoneal mesothelioma": "PROBLEM"
   },
   {
     "bowel perforations": "PROBLEM"
@@ -9,7 +9,7 @@
     "end-stage peritoneal mesothelioma": "PROBLEM"
   },
   {
-    "multiple bowel perforations": "PROBLEM"
+    "bowel perforations": "PROBLEM"
   },
   {
     "pleurodesis": "TREATMENT"
@@ -22,6 +22,9 @@
   },
   {
     "Dilaudid": "DRUG"
+  },
+  {
+    "PCA": "TREATMENT"
   },
   {
     "Dilaudid": "DRUG"

@@ -9,7 +9,10 @@
     "paroxysmal nocturnal dyspnea": "PROBLEM"
   },
   {
-    "cough with greenish expectoration": "PROBLEM"
+    "cough": "PROBLEM"
+  },
+  {
+    "greenish expectoration": "PROBLEM"
   },
   {
     "shortness of breath": "PROBLEM"
@@ -106,29 +109,5 @@
   },
   {
     "atrial fibrillation": "PROBLEM"
-  },
-  {
-    "pneumonia": "PROBLEM"
-  },
-  {
-    "atherosclerotic coronary vascular disease": "PROBLEM"
-  },
-  {
-    "icd implantation": "TREATMENT"
-  },
-  {
-    "atrial fibrillation": "PROBLEM"
-  },
-  {
-    "myocardial infarction": "PROBLEM"
-  },
-  {
-    "orthopnea": "PROBLEM"
-  },
-  {
-    "paroxysmal nocturnal dyspnea": "PROBLEM"
-  },
-  {
-    "shortness of breath": "PROBLEM"
   }
 ]

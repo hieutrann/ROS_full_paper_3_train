@@ -1,8 +1,5 @@
 [
   {
-    "GI Bleed": "PROBLEM"
-  },
-  {
     "GI bleed": "PROBLEM"
   },
   {
@@ -36,19 +33,16 @@
     "hemoglobin": "TEST"
   },
   {
-    "Stool": "TEST"
+    "Stool dark brown": "PROBLEM"
   },
   {
-    "OB positive": "PROBLEM"
+    "OB positive": "TEST"
   },
   {
     "shortness of breath": "PROBLEM"
   },
   {
     "chest pain": "PROBLEM"
-  },
-  {
-    "GI complaints": "PROBLEM"
   },
   {
     "atrial fibrillation": "PROBLEM"
@@ -72,28 +66,22 @@
     "hypothyroidism": "PROBLEM"
   },
   {
-    "PHYSICAL EXAMINATION": "TEST"
-  },
-  {
-    "acute distress": "PROBLEM"
-  },
-  {
-    "VITAL SIGNS": "TEST"
+    "Benign": "PROBLEM"
   },
   {
     "adenopathy": "PROBLEM"
   },
   {
-    "LUNGS": "TEST"
+    "Clear": "PROBLEM"
   },
   {
     "Irregularly regular": "PROBLEM"
   },
   {
-    "gallops": "PROBLEM"
+    "No gallops": "PROBLEM"
   },
   {
-    "bowel sounds": "TEST"
+    "Positive bowel sounds": "PROBLEM"
   },
   {
     "masses": "PROBLEM"
@@ -105,7 +93,7 @@
     "lower extremity edema": "PROBLEM"
   },
   {
-    "upper endoscopy": "TREATMENT"
+    "upper endoscopy": "TEST"
   },
   {
     "erosive gastritis": "PROBLEM"
@@ -123,16 +111,10 @@
     "resected": "TREATMENT"
   },
   {
-    "procedure": "TREATMENT"
-  },
-  {
     "transfused": "TREATMENT"
   },
   {
     "hemoglobin": "TEST"
-  },
-  {
-    "GI complaints": "PROBLEM"
   },
   {
     "Coumadin": "DRUG"
@@ -160,6 +142,9 @@
   },
   {
     "Asthma": "PROBLEM"
+  },
+  {
+    "Stable": "PROBLEM"
   },
   {
     "Feosol": "DRUG"

@@ -3,13 +3,10 @@
     "Laparoscopic cholecystectomy": "TREATMENT"
   },
   {
-    "Acute cholecystitis": "PROBLEM"
+    "cholecystitis": "PROBLEM"
   },
   {
     "laparoscopic cholecystectomy": "TREATMENT"
-  },
-  {
-    "end-stage renal disease": "PROBLEM"
   },
   {
     "hemodialysis": "TREATMENT"
@@ -30,28 +27,19 @@
     "hypothyroidism": "PROBLEM"
   },
   {
-    "Laparoscopic cholecystectomy": "TREATMENT"
+    "cholecystectomy": "TREATMENT"
   },
   {
-    "DISCHARGE DIAGNOSES": "PROBLEM"
+    "DISCHARGE DIAGNOSES": "TREATMENT"
   },
   {
     "Acute cholecystitis": "PROBLEM"
   },
   {
-    "2": "TEST"
-  },
-  {
     "laparoscopic cholecystectomy": "TREATMENT"
   },
   {
-    "3": "TEST"
-  },
-  {
-    "End-stage renal disease": "PROBLEM"
-  },
-  {
-    "hemodialysis": "TREATMENT"
+    "renal disease": "PROBLEM"
   },
   {
     "4": "TEST"
@@ -66,13 +54,10 @@
     "Hypertension": "PROBLEM"
   },
   {
-    "6": "PROBLEM"
+    "6": "TEST"
   },
   {
-    "Congestive heart failure": "PROBLEM"
-  },
-  {
-    "7": "PROBLEM"
+    "heart failure": "PROBLEM"
   },
   {
     "Skin lymphoma": "PROBLEM"
@@ -138,10 +123,10 @@
     "stone": "PROBLEM"
   },
   {
-    "Thickening of the gallbladder wall": "PROBLEM"
+    "gallbladder wall thickening": "PROBLEM"
   },
   {
-    "Murphy sign": "PROBLEM"
+    "Murphy sign": "TEST"
   },
   {
     "cholecystitis": "PROBLEM"
@@ -171,7 +156,7 @@
     "IV fluid": "TREATMENT"
   },
   {
-    "low-dose IV antibiotic": "DRUG"
+    "IV antibiotic": "DRUG"
   },
   {
     "2-D echocardiogram": "TEST"
@@ -189,22 +174,22 @@
     "urine culture": "TEST"
   },
   {
-    "Dr": "TREATMENT"
-  },
-  {
     "cholecystectomy": "TREATMENT"
   },
   {
     "dialysis": "TREATMENT"
   },
   {
-    "cardiologist": "DRUG"
+    "cardiologist": "PROBLEM"
   },
   {
     "laparoscopic cholecystectomy": "TREATMENT"
   },
   {
     "dialysis": "TREATMENT"
+  },
+  {
+    "nephrologist": "PROBLEM"
   },
   {
     "white count": "TEST"
@@ -219,7 +204,7 @@
     "surgery": "TREATMENT"
   },
   {
-    "surgeon": "PROBLEM"
+    "surgeon": "TREATMENT"
   },
   {
     "Synthroid": "DRUG"
@@ -246,7 +231,16 @@
     "Coreg": "DRUG"
   },
   {
+    "nebulizer therapy": "TREATMENT"
+  },
+  {
     "Phenergan": "DRUG"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
   },
   {
     "Pepcid": "DRUG"
@@ -255,13 +249,13 @@
     "Vicodin": "DRUG"
   },
   {
-    "q.6 hours p.r.n.": "TEST"
+    "p.r.n.": "TREATMENT"
   },
   {
     "Levaquin": "DRUG"
   },
   {
-    "every other day for the next 5 days": "TREATMENT"
+    "days": "TEST"
   },
   {
     "Premarin": "DRUG"
@@ -273,10 +267,7 @@
     "stroke": "PROBLEM"
   },
   {
-    "Discharged home": "TREATMENT"
-  },
-  {
-    "end-stage renal disease": "PROBLEM"
+    "home": "TREATMENT"
   },
   {
     "lymphoma": "PROBLEM"

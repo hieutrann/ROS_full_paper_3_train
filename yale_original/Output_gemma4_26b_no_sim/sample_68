@@ -6,7 +6,7 @@
     "cerebrovascular accident": "PROBLEM"
   },
   {
-    "discomfort on his right side": "PROBLEM"
+    "discomfort": "PROBLEM"
   },
   {
     "EMG studies": "TEST"
@@ -21,7 +21,10 @@
     "insulin": "DRUG"
   },
   {
-    "heavy tobacco and alcohol usage": "PROBLEM"
+    "tobacco usage": "PROBLEM"
+  },
+  {
+    "alcohol usage": "PROBLEM"
   },
   {
     "Wt": "TEST"
@@ -39,7 +42,10 @@
     "missing dentition": "PROBLEM"
   },
   {
-    "Skin: Dry and flaky": "PROBLEM"
+    "Dry": "PROBLEM"
+  },
+  {
+    "flaky": "PROBLEM"
   },
   {
     "Heart tones": "TEST"
@@ -51,16 +57,16 @@
     "pedal pulse": "TEST"
   },
   {
-    "Lungs": "TEST"
+    "Lungs": "PROBLEM"
   },
   {
-    "Abdomen": "TEST"
+    "Abdomen": "PROBLEM"
   },
   {
     "prostate check": "TEST"
   },
   {
-    "Sensation with monofilament testing": "TEST"
+    "monofilament testing": "TEST"
   },
   {
     "Diabetes mellitus": "PROBLEM"
@@ -103,9 +109,6 @@
   },
   {
     "post cerebrovascular accident": "PROBLEM"
-  },
-  {
-    "post cerebrovascular": "PROBLEM"
   },
   {
     "cerebrovascular accident": "PROBLEM"

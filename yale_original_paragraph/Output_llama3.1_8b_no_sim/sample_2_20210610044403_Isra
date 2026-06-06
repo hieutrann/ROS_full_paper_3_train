@@ -1,6 +1,9 @@
 [
   {
-    "Normal": "PROBLEM"
+    "General Medicine": "TEST"
+  },
+  {
+    "Normal": "TEST"
   },
   {
     "weakness": "PROBLEM"
@@ -127,9 +130,6 @@
   },
   {
     "incontinence": "PROBLEM"
-  },
-  {
-    "STDs": "PROBLEM"
   },
   {
     "myalgia": "PROBLEM"

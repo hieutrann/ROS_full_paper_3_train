@@ -45,7 +45,7 @@
     "IV antibiotics": "DRUG"
   },
   {
-    "hydration": "TREATMENT"
+    "PAST MEDICAL HISTORY": "PROBLEM"
   },
   {
     "CAD": "PROBLEM"
@@ -123,19 +123,7 @@
     "Amoxicillin": "DRUG"
   },
   {
-    "board and care": "PROBLEM"
-  },
-  {
-    "tobacco": "DRUG"
-  },
-  {
-    "alcohol": "DRUG"
-  },
-  {
-    "IV drug use": "DRUG"
-  },
-  {
-    "VITAL SIGNS": "TEST"
+    "afebrile": "PROBLEM"
   },
   {
     "Pulse": "TEST"
@@ -150,13 +138,22 @@
     "saturating": "TEST"
   },
   {
+    "awake": "PROBLEM"
+  },
+  {
     "Not oriented x3": "PROBLEM"
   },
   {
     "HEENT": "TEST"
   },
   {
-    "dry": "PROBLEM"
+    "Extraocular movements": "TEST"
+  },
+  {
+    "mucous membranes": "TEST"
+  },
+  {
+    "NECK": "PROBLEM"
   },
   {
     "thyromegaly": "PROBLEM"
@@ -180,9 +177,6 @@
     "Tenderness": "PROBLEM"
   },
   {
-    "suprapubic region": "PROBLEM"
-  },
-  {
     "clubbing": "PROBLEM"
   },
   {
@@ -195,25 +189,25 @@
     "CT": "TEST"
   },
   {
-    "hernia": "PROBLEM"
+    "left inguinal hernia": "PROBLEM"
   },
   {
     "SBO": "PROBLEM"
   },
   {
-    "bladder": "PROBLEM"
+    "dilated bladder": "PROBLEM"
   },
   {
     "outlet obstruction": "PROBLEM"
   },
   {
-    "hydronephrosis": "PROBLEM"
+    "bilateral hydronephrosis": "PROBLEM"
   },
   {
     "hydroureter": "PROBLEM"
   },
   {
-    "adrenal gland mass": "PROBLEM"
+    "right adrenal gland mass": "PROBLEM"
   },
   {
     "White count": "TEST"
@@ -282,7 +276,10 @@
     "Adrenal gland mass": "PROBLEM"
   },
   {
-    "Dr.": "PROBLEM"
+    "urology consult": "TREATMENT"
+  },
+  {
+    "renal consult": "TREATMENT"
   },
   {
     "Levaquin": "DRUG"
@@ -291,10 +288,19 @@
     "gentamicin": "DRUG"
   },
   {
+    "synergy": "PROBLEM"
+  },
+  {
+    "urine": "TEST"
+  },
+  {
     "IV fluids": "TREATMENT"
   },
   {
-    "anticoagulation": "DRUG"
+    "hypertonic-hypotonic": "DRUG"
+  },
+  {
+    "anticoagulation": "TREATMENT"
   },
   {
     "SCD": "TREATMENT"
@@ -303,7 +309,7 @@
     "TED hose": "TREATMENT"
   },
   {
-    "atrial fibrillation": "PROBLEM"
+    "slow atrial fibrillation": "PROBLEM"
   },
   {
     "rate control medications": "DRUG"
@@ -312,10 +318,7 @@
     "digoxin level": "TEST"
   },
   {
-    "dementia": "PROBLEM"
-  },
-  {
-    "medications": "DRUG"
+    "dementia medications": "DRUG"
   },
   {
     "PPI": "DRUG"
@@ -333,15 +336,21 @@
     "hydroureter": "PROBLEM"
   },
   {
-    "urinary tract infection": "PROBLEM"
-  },
-  {
-    "sepsis": "PROBLEM"
+    "urinary tract infection with sepsis": "PROBLEM"
   },
   {
     "ct scan": "TEST"
   },
   {
+    "dilated bladder": "PROBLEM"
+  },
+  {
+    "bilateral hydronephrosis": "PROBLEM"
+  },
+  {
     "atrial fibrillation": "PROBLEM"
+  },
+  {
+    "sepsis": "PROBLEM"
   }
 ]

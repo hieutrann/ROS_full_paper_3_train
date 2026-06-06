@@ -15,7 +15,16 @@
     "PTA": "TREATMENT"
   },
   {
-    "swelling of the right hand and left foot": "PROBLEM"
+    "swelling of the right hand": "PROBLEM"
+  },
+  {
+    "swelling of the right hand": "PROBLEM"
+  },
+  {
+    "swelling of the right hand": "PROBLEM"
+  },
+  {
+    "left foot": "PROBLEM"
   },
   {
     "chronic kidney disease , stage 4": "PROBLEM"
@@ -33,7 +42,16 @@
     "PTA": "TREATMENT"
   },
   {
-    "swelling of the right hand and left foot": "PROBLEM"
+    "swelling of the right hand": "PROBLEM"
+  },
+  {
+    "left foot": "PROBLEM"
+  },
+  {
+    "swollen": "PROBLEM"
+  },
+  {
+    "painful": "PROBLEM"
   },
   {
     "swollen": "PROBLEM"
@@ -165,16 +183,28 @@
     "respirations": "TEST"
   },
   {
+    "weight": "TEST"
+  },
+  {
     "JVD": "TEST"
   },
   {
     "adenopathy": "PROBLEM"
   },
   {
+    "murmur": "PROBLEM"
+  },
+  {
+    "Obese": "PROBLEM"
+  },
+  {
     "pretibial edema": "PROBLEM"
   },
   {
     "swollen": "PROBLEM"
+  },
+  {
+    "tender": "PROBLEM"
   },
   {
     "urine culture": "TEST"

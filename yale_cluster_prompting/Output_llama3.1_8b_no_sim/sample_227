@@ -6,22 +6,10 @@
     "diabetes mellitus": "PROBLEM"
   },
   {
-    "type 1": "PROBLEM"
-  },
-  {
     "diabetic neuropathy": "PROBLEM"
   },
   {
-    "insurance": "PROBLEM"
-  },
-  {
-    "NPH": "DRUG"
-  },
-  {
-    "Regular": "DRUG"
-  },
-  {
-    "blood sugars": "PROBLEM"
+    "insulin": "DRUG"
   },
   {
     "low blood sugar": "PROBLEM"
@@ -45,7 +33,7 @@
     "kidney damage": "PROBLEM"
   },
   {
-    "microalbumin": "PROBLEM"
+    "microalbumin": "TEST"
   },
   {
     "hemoglobin A1C": "TEST"
@@ -55,21 +43,15 @@
   },
   {
     "Lantus": "DRUG"
-  },
-  {
-    "hemoglobin A1C": "TEST"
   },
   {
     "alkaline phosphatase": "TEST"
   },
   {
-    "168": "TEST"
+    "alcohol": "PROBLEM"
   },
   {
-    "alcohol use": "PROBLEM"
-  },
-  {
-    "drug use": "PROBLEM"
+    "drug": "PROBLEM"
   },
   {
     "smoker": "PROBLEM"
@@ -135,10 +117,10 @@
     "WN": "TEST"
   },
   {
-    "male": "PROBLEM"
+    "Slender": "PROBLEM"
   },
   {
-    "blood sugar": "TEST"
+    "Blood sugar": "TEST"
   },
   {
     "blood pressure": "TEST"
@@ -159,19 +141,16 @@
     "lacerations": "PROBLEM"
   },
   {
-    "scalp": "PROBLEM"
-  },
-  {
     "infection": "PROBLEM"
   },
   {
-    "Wound": "PROBLEM"
+    "granulation tissue": "PROBLEM"
   },
   {
     "healing": "PROBLEM"
   },
   {
-    "Normocephalic": "PROBLEM"
+    "Normocephalic": "TEST"
   },
   {
     "PERRLA": "TEST"
@@ -180,7 +159,7 @@
     "EOMI": "PROBLEM"
   },
   {
-    "pearly gray": "PROBLEM"
+    "TMs": "TEST"
   },
   {
     "Nares patent": "PROBLEM"
@@ -192,10 +171,10 @@
     "sinuses": "PROBLEM"
   },
   {
-    "Supple": "TEST"
+    "NECK": "PROBLEM"
   },
   {
-    "ROM": "TEST"
+    "Full ROM": "TEST"
   },
   {
     "LAD": "PROBLEM"
@@ -204,16 +183,10 @@
     "RRR": "TEST"
   },
   {
-    "murmurs": "PROBLEM"
-  },
-  {
-    "rubs": "PROBLEM"
-  },
-  {
     "gallops": "PROBLEM"
   },
   {
-    "RESPIRATORY": "PROBLEM"
+    "CTA": "TEST"
   },
   {
     "ABDOMEN": "PROBLEM"
@@ -226,9 +199,6 @@
   },
   {
     "Microfilament test": "TEST"
-  },
-  {
-    "sensation": "PROBLEM"
   },
   {
     "calloused": "PROBLEM"
@@ -255,10 +225,10 @@
     "infection": "PROBLEM"
   },
   {
-    "Cranial nerves 2-12 grossly nonfocal": "PROBLEM"
+    "Cranial nerves 2-12": "TEST"
   },
   {
-    "Cerebellar function intact": "PROBLEM"
+    "Cerebellar function": "TEST"
   },
   {
     "RAM": "TEST"
@@ -270,7 +240,7 @@
     "Diabetes mellitus, type 1": "PROBLEM"
   },
   {
-    "2.": "TREATMENT"
+    "2": "TEST"
   },
   {
     "diabetic neuropathy": "PROBLEM"
@@ -279,7 +249,7 @@
     "microalbuminuria": "PROBLEM"
   },
   {
-    "3": "TREATMENT"
+    "3": "PROBLEM"
   },
   {
     "Scalp laceration": "PROBLEM"
@@ -312,7 +282,7 @@
     "hepatic function panel": "TEST"
   },
   {
-    "microalbumin": "PROBLEM"
+    "microalbumin": "TEST"
   },
   {
     "Ace Inhibitor": "DRUG"
@@ -324,25 +294,22 @@
     "blood sugars": "TEST"
   },
   {
-    "Patient agrees to this": "TREATMENT"
-  },
-  {
     "Endocrinology": "PROBLEM"
   },
   {
     "Prilosec OTC": "DRUG"
   },
   {
-    "GERD": "PROBLEM"
+    "GERD symptoms": "PROBLEM"
   },
   {
-    "2.": "TREATMENT"
+    "2": "TEST"
   },
   {
     "scooter accident": "PROBLEM"
   },
   {
-    "Lacerations on scalp and shin": "PROBLEM"
+    "lacerations": "PROBLEM"
   },
   {
     "infection": "PROBLEM"
@@ -393,9 +360,6 @@
     "blood": "TEST"
   },
   {
-    "diabetes": "PROBLEM"
-  },
-  {
-    "sugars": "TEST"
+    "glucometer": "TEST"
   }
 ]

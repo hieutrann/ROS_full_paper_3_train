@@ -12,16 +12,28 @@
     "depressed": "PROBLEM"
   },
   {
+    "anxious": "PROBLEM"
+  },
+  {
     "Falls": "PROBLEM"
   },
   {
     "anxiety": "PROBLEM"
   },
   {
+    "anxious": "PROBLEM"
+  },
+  {
     "depressed": "PROBLEM"
   },
   {
     "chest pain": "PROBLEM"
+  },
+  {
+    "pressure": "PROBLEM"
+  },
+  {
+    "exercise tolerance": "PROBLEM"
   },
   {
     "loss of consciousness": "PROBLEM"
@@ -33,10 +45,10 @@
     "seizure activity": "PROBLEM"
   },
   {
-    "tripped": "PROBLEM"
+    "Darvocet": "DRUG"
   },
   {
-    "Darvocet": "DRUG"
+    "anxiety": "PROBLEM"
   },
   {
     "medications": "DRUG"
@@ -51,7 +63,7 @@
     "HI": "PROBLEM"
   },
   {
-    "patient": "PROBLEM"
+    "female": "PROBLEM"
   },
   {
     "VITAL SIGNS": "TEST"
@@ -66,7 +78,7 @@
     "Carotid upstrokes": "TEST"
   },
   {
-    "LUNGS": "PROBLEM"
+    "LUNGS": "TEST"
   },
   {
     "S1": "TEST"
@@ -81,7 +93,7 @@
     "Rate": "TEST"
   },
   {
-    "ABDOMEN": "PROBLEM"
+    "Abdomen": "PROBLEM"
   },
   {
     "bowel sounds": "TEST"
@@ -94,6 +106,9 @@
   },
   {
     "ecchymosis": "PROBLEM"
+  },
+  {
+    "tender": "PROBLEM"
   },
   {
     "metatarsal": "PROBLEM"
@@ -117,7 +132,7 @@
     "falls": "PROBLEM"
   },
   {
-    "DISCHARGE DIAGNOSES": "PROBLEM"
+    "DISCHARGE DIAGNOSES": "TREATMENT"
   },
   {
     "Falls": "PROBLEM"
@@ -129,7 +144,7 @@
     "depression": "PROBLEM"
   },
   {
-    "3": "PROBLEM"
+    "3": "TREATMENT"
   },
   {
     "Hypertension": "PROBLEM"
@@ -141,19 +156,16 @@
     "Hypercholesterolemia": "PROBLEM"
   },
   {
-    "5": "PROBLEM"
+    "5": "TEST"
   },
   {
     "Coronary artery disease": "PROBLEM"
   },
   {
-    "6": "PROBLEM"
+    "6": "TEST"
   },
   {
     "Osteoarthritis": "PROBLEM"
-  },
-  {
-    "7": "PROBLEM"
   },
   {
     "Chronic obstructive pulmonary disease": "PROBLEM"
@@ -165,7 +177,7 @@
     "Hypothyroidism": "PROBLEM"
   },
   {
-    "CONDITION UPON DISCHARGE": "PROBLEM"
+    "Stable": "PROBLEM"
   },
   {
     "Tylenol": "DRUG"
@@ -231,19 +243,10 @@
     "ALLERGIES": "PROBLEM"
   },
   {
-    "ACTIVITY": "TREATMENT"
+    "PT": "TREATMENT"
   },
   {
-    "patient": "PROBLEM"
-  },
-  {
-    "loss of consciousness": "PROBLEM"
-  },
-  {
-    "depression": "PROBLEM"
-  },
-  {
-    "anxiety": "PROBLEM"
+    "skilled nursing facility": "TREATMENT"
   },
   {
     "falls": "PROBLEM"
@@ -253,5 +256,14 @@
   },
   {
     "depressed": "PROBLEM"
+  },
+  {
+    "anxiety": "PROBLEM"
+  },
+  {
+    "loss of consciousness": "PROBLEM"
+  },
+  {
+    "depression": "PROBLEM"
   }
 ]

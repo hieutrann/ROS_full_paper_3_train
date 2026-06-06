@@ -6,12 +6,6 @@
     "Cialis": "DRUG"
   },
   {
-    "erectile dysfunction": "PROBLEM"
-  },
-  {
-    "Cialis": "DRUG"
-  },
-  {
     "chest pain": "PROBLEM"
   },
   {
@@ -30,16 +24,10 @@
     "gross hematuria": "PROBLEM"
   },
   {
-    "fever": "PROBLEM"
-  },
-  {
-    "chills": "PROBLEM"
-  },
-  {
     "nocturia": "PROBLEM"
   },
   {
-    "elevated PSA": "TEST"
+    "elevated PSA": "PROBLEM"
   },
   {
     "biopsy": "TEST"
@@ -51,72 +39,18 @@
     "PSA": "TEST"
   },
   {
-    "erectile dysfunction": "PROBLEM"
-  },
-  {
-    "Cialis": "DRUG"
-  },
-  {
-    "nitroglycerin": "DRUG"
-  },
-  {
-    "cardiac issues": "PROBLEM"
-  },
-  {
     "penile prosthesis": "TREATMENT"
   },
   {
-    "Caverject injection": "DRUG"
+    "Caverject injection": "TREATMENT"
   },
   {
     "working pump": "TREATMENT"
   },
   {
-    "Elevated PSA": "TEST"
-  },
-  {
-    "biopsy": "TEST"
-  },
-  {
-    "high-grade PIN": "PROBLEM"
-  },
-  {
     "prostate ultrasound": "TEST"
-  },
-  {
-    "biopsy": "TEST"
-  },
-  {
-    "biopsy": "TEST"
-  },
-  {
-    "Cialis": "DRUG"
   },
   {
     "Levitra": "DRUG"
-  },
-  {
-    "PSA": "TEST"
-  },
-  {
-    "prostate ultrasound": "TEST"
-  },
-  {
-    "biopsy": "TEST"
-  },
-  {
-    "improvement of erectile dysfunction": "PROBLEM"
-  },
-  {
-    "erectile dysfunction": "PROBLEM"
-  },
-  {
-    "cialis": "DRUG"
-  },
-  {
-    "psa": "TEST"
-  },
-  {
-    "biopsy": "TEST"
   }
 ]

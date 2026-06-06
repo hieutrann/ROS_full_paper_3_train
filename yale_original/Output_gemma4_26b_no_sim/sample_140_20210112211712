@@ -1,5 +1,8 @@
 [
   {
+    "Female Exam": "TEST"
+  },
+  {
     "Blood pressure": "TEST"
   },
   {
@@ -18,7 +21,13 @@
     "PERRLA": "TEST"
   },
   {
+    "lesions": "PROBLEM"
+  },
+  {
     "Funduscopic examination": "TEST"
+  },
+  {
+    "dental work": "TREATMENT"
   },
   {
     "bruit": "PROBLEM"
@@ -33,7 +42,10 @@
     "thyroid abnormality": "PROBLEM"
   },
   {
-    "S1 and S2": "TEST"
+    "S1": "TEST"
+  },
+  {
+    "S2": "TEST"
   },
   {
     "murmur": "PROBLEM"
@@ -60,7 +72,7 @@
     "PMI nondisplaced": "PROBLEM"
   },
   {
-    "axillary or supraclavicular adenopathy": "PROBLEM"
+    "adenopathy": "PROBLEM"
   },
   {
     "hepatosplenomegaly": "PROBLEM"
@@ -81,16 +93,10 @@
     "guarding": "PROBLEM"
   },
   {
-    "intraabdominal bruit": "PROBLEM"
+    "aortic impulse": "TEST"
   },
   {
-    "7 cm by gloved digital palpation": "TEST"
-  },
-  {
-    "Hemoccult-negative stool": "TEST"
-  },
-  {
-    "distal pulse": "TEST"
+    "Hemoccult": "TEST"
   },
   {
     "edema": "PROBLEM"
@@ -103,9 +109,6 @@
   },
   {
     "deep venous thrombosis": "PROBLEM"
-  },
-  {
-    "range of motion": "TEST"
   },
   {
     "spinous process tenderness": "PROBLEM"
@@ -123,6 +126,9 @@
     "Brudzinski signs": "TEST"
   },
   {
+    "cranial and peripheral nervous systems": "PROBLEM"
+  },
+  {
     "strength": "TEST"
   },
   {
@@ -132,7 +138,10 @@
     "cerebellar function": "TEST"
   },
   {
-    "Gait and station": "TEST"
+    "premalignant condition": "PROBLEM"
+  },
+  {
+    "malignant condition": "PROBLEM"
   },
   {
     "hepatosplenomegaly": "PROBLEM"
@@ -157,5 +166,14 @@
   },
   {
     "adenopathy": "PROBLEM"
+  },
+  {
+    "percussion": "TEST"
+  },
+  {
+    "inspection": "TEST"
+  },
+  {
+    "palpation": "TEST"
   }
 ]

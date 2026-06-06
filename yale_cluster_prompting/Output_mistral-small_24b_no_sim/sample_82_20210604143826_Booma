@@ -33,16 +33,10 @@
     "atrial fibrillation": "PROBLEM"
   },
   {
-    "fall": "PROBLEM"
+    "rock": "PROBLEM"
   },
   {
-    "cardiology consultation": "TEST"
-  },
-  {
-    "left side": "PROBLEM"
-  },
-  {
-    "atrial tachyarrhythmia": "PROBLEM"
+    "rapid atrial tachyarrhythmia": "PROBLEM"
   },
   {
     "Cardizem": "DRUG"
@@ -51,10 +45,10 @@
     "heart rate": "TEST"
   },
   {
-    "EKGs": "TEST"
+    "multifocal atrial tachycardia": "PROBLEM"
   },
   {
-    "multifocal atrial tachycardia": "PROBLEM"
+    "EKG": "TEST"
   },
   {
     "EKG": "TEST"
@@ -66,22 +60,10 @@
     "ECG": "TEST"
   },
   {
-    "normal sinus rhythm": "PROBLEM"
-  },
-  {
-    "APCs": "PROBLEM"
-  },
-  {
     "potassium": "TEST"
   },
   {
     "palpitations": "PROBLEM"
-  },
-  {
-    "pain": "PROBLEM"
-  },
-  {
-    "fall": "PROBLEM"
   },
   {
     "chest pain": "PROBLEM"
@@ -90,22 +72,10 @@
     "shortness of breath": "PROBLEM"
   },
   {
-    "fall": "PROBLEM"
-  },
-  {
-    "problems": "PROBLEM"
-  },
-  {
     "tricuspid regurgitation": "PROBLEM"
   },
   {
     "PA pressure": "TEST"
-  },
-  {
-    "left ventricular systolic function": "TEST"
-  },
-  {
-    "right ventricular systolic function": "TEST"
   },
   {
     "aortic sclerosis": "PROBLEM"
@@ -138,6 +108,9 @@
     "APCs": "PROBLEM"
   },
   {
+    "wandering atrial pacemaker": "PROBLEM"
+  },
+  {
     "hypertension": "PROBLEM"
   },
   {
@@ -153,19 +126,22 @@
     "beta-blocker": "DRUG"
   },
   {
-    "Multivitamin": "DRUG"
+    "Multivitamin p.o.": "DRUG"
   },
   {
-    "Aspirin": "DRUG"
+    "Aspirin 325 mg once a day": "DRUG"
   },
   {
-    "Lisinopril": "DRUG"
+    "Lisinopril 40 mg once a day": "DRUG"
   },
   {
     "Felodipine": "DRUG"
   },
   {
-    "Klor-Con": "DRUG"
+    "Klor-Con 20 mEq p.o.": "DRUG"
+  },
+  {
+    "b.i.d.": "TREATMENT"
   },
   {
     "Omeprazole": "DRUG"
@@ -186,7 +162,7 @@
     "TOPROL": "DRUG"
   },
   {
-    "SHORTNESS OF BREATH": "PROBLEM"
+    "shortness of breath": "PROBLEM"
   },
   {
     "BRADYCARDIA": "PROBLEM"
@@ -201,7 +177,7 @@
     "alcohol": "DRUG"
   },
   {
-    "drugs": "DRUG"
+    "illicit drugs": "DRUG"
   },
   {
     "stroke": "PROBLEM"
@@ -264,16 +240,10 @@
     "depressed": "PROBLEM"
   },
   {
-    "rheumatologic conditions": "PROBLEM"
-  },
-  {
     "psoriasis": "PROBLEM"
   },
   {
     "lupus": "PROBLEM"
-  },
-  {
-    "PHYSICAL EXAM": "TEST"
   },
   {
     "blood pressure": "TEST"
@@ -294,22 +264,10 @@
     "hard of hearing": "PROBLEM"
   },
   {
-    "cranium": "TEST"
-  },
-  {
     "mucosal membranes": "PROBLEM"
   },
   {
-    "Neck veins": "TEST"
-  },
-  {
-    "carotid bruits": "PROBLEM"
-  },
-  {
-    "Lungs": "TEST"
-  },
-  {
-    "auscultation": "TEST"
+    "distended": "PROBLEM"
   },
   {
     "wheezes": "PROBLEM"
@@ -318,31 +276,28 @@
     "left hip fracture": "PROBLEM"
   },
   {
-    "S1": "TEST"
-  },
-  {
-    "S2": "TEST"
-  },
-  {
     "ectopic beats": "PROBLEM"
   },
   {
     "systolic ejection murmur": "PROBLEM"
   },
   {
-    "aortic component": "PROBLEM"
+    "aortic component of the second heart sound": "PROBLEM"
   },
   {
     "holosystolic murmur": "PROBLEM"
   },
   {
+    "rub": "PROBLEM"
+  },
+  {
+    "gallop": "PROBLEM"
+  },
+  {
     "PMI": "PROBLEM"
   },
   {
-    "Abdomen": "PROBLEM"
-  },
-  {
-    "Bowel sounds": "PROBLEM"
+    "Bowel sounds": "TEST"
   },
   {
     "clubbing": "PROBLEM"
@@ -354,9 +309,6 @@
     "peripheral edema": "PROBLEM"
   },
   {
-    "Pulses": "TEST"
-  },
-  {
     "skin": "PROBLEM"
   },
   {
@@ -364,12 +316,6 @@
   },
   {
     "chest x-ray": "TEST"
-  },
-  {
-    "radiology report": "TEST"
-  },
-  {
-    "calcified aortic knob": "PROBLEM"
   },
   {
     "pulmonary vascular congestion": "PROBLEM"
@@ -438,7 +384,7 @@
     "EKG": "TEST"
   },
   {
-    "normal sinus rhythm": "PROBLEM"
+    "sinus rhythm": "PROBLEM"
   },
   {
     "APCs": "PROBLEM"
@@ -454,9 +400,6 @@
   },
   {
     "aortic stenosis": "PROBLEM"
-  },
-  {
-    "fall": "PROBLEM"
   },
   {
     "left hip fracture": "PROBLEM"
@@ -501,7 +444,7 @@
     "shortness of breath": "PROBLEM"
   },
   {
-    "fall": "PROBLEM"
+    "exercise capacity": "PROBLEM"
   },
   {
     "left hip surgery": "TREATMENT"
@@ -538,9 +481,6 @@
   },
   {
     "cardiac risks": "PROBLEM"
-  },
-  {
-    "surgery": "TREATMENT"
   },
   {
     "thrombocytopenia": "PROBLEM"

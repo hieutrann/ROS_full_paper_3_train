@@ -9,7 +9,13 @@
     "blood gas": "TEST"
   },
   {
-    "pulse": "TEST"
+    "needle": "TREATMENT"
+  },
+  {
+    "protective clothing": "TREATMENT"
+  },
+  {
+    "gloves": "TREATMENT"
   },
   {
     "baseline studies": "TEST"
@@ -84,9 +90,6 @@
     "urinary symptoms": "PROBLEM"
   },
   {
-    "darkening of the skin or eyes": "PROBLEM"
-  },
-  {
     "yellowing or darkening of the urine": "PROBLEM"
   },
   {
@@ -123,12 +126,6 @@
     "HEENT exam": "TEST"
   },
   {
-    "Ocular movements": "TEST"
-  },
-  {
-    "oropharynx": "TEST"
-  },
-  {
     "pharyngeal erythema": "PROBLEM"
   },
   {
@@ -147,9 +144,6 @@
     "rales": "PROBLEM"
   },
   {
-    "Heart tones": "TEST"
-  },
-  {
     "murmur": "PROBLEM"
   },
   {
@@ -166,12 +160,6 @@
   },
   {
     "edema": "PROBLEM"
-  },
-  {
-    "gait": "TEST"
-  },
-  {
-    "balance": "TEST"
   },
   {
     "ataxia": "PROBLEM"
@@ -201,9 +189,6 @@
     "intestinal illness": "PROBLEM"
   },
   {
-    "squeakiness": "PROBLEM"
-  },
-  {
     "vomiting": "PROBLEM"
   },
   {
@@ -231,7 +216,7 @@
     "HIV": "PROBLEM"
   },
   {
-    "local signs of infection": "PROBLEM"
+    "infection": "PROBLEM"
   },
   {
     "acute intestinal illness": "PROBLEM"
@@ -243,7 +228,16 @@
     "contaminated needlestick": "PROBLEM"
   },
   {
+    "injury": "PROBLEM"
+  },
+  {
     "lab studies": "TEST"
+  },
+  {
+    "protective gear": "TREATMENT"
+  },
+  {
+    "gloves": "TREATMENT"
   },
   {
     "disease transmission": "PROBLEM"

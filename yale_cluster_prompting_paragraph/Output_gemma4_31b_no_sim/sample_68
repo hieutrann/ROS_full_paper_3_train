@@ -6,7 +6,7 @@
     "cerebrovascular accident": "PROBLEM"
   },
   {
-    "discomfort on his right side": "PROBLEM"
+    "discomfort": "PROBLEM"
   },
   {
     "EMG studies": "TEST"
@@ -21,18 +21,6 @@
     "insulin": "DRUG"
   },
   {
-    "tobacco": "PROBLEM"
-  },
-  {
-    "alcohol usage": "PROBLEM"
-  },
-  {
-    "Vitals": "TEST"
-  },
-  {
-    "acute distress": "PROBLEM"
-  },
-  {
     "missing dentition": "PROBLEM"
   },
   {
@@ -42,7 +30,7 @@
     "prostate check": "TEST"
   },
   {
-    "monofilament testing": "TEST"
+    "Sensation with monofilament testing": "TEST"
   },
   {
     "Diabetes mellitus": "PROBLEM"

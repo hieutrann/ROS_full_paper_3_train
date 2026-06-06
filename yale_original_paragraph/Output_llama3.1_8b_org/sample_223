@@ -1,1 +1,1 @@
-['[\n  {"right shoulder pain": "PROBLEM"},\n  {"muscular strain": "PROBLEM"},\n  {"impingement": "PROBLEM"},\n  {"Claritin": "DRUG"},\n  {"x-rays": "TEST"},\n  {"MRI": "TEST"},\n  {"Neer\'s testing": "TEST"},\n  {"Hawkins impingement testing": "TEST"},\n  {"sulcus testing": "TEST"},\n  {"apprehension testing": "TEST"},\n  {"Speed\'s testing": "TEST"},\n  {"Yergason\'s testing": "TEST"},\n  {"incision": "TREATMENT"}\n]']
+['[\n  {"shoulder pain": "PROBLEM"},\n  {"muscular strain": "PROBLEM"},\n  {"impingement": "PROBLEM"},\n  {"x-rays": "TEST"},\n  {"Claritin": "DRUG"}\n]']

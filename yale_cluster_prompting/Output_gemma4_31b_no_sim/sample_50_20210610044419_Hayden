@@ -30,7 +30,7 @@
     "pneumonia": "PROBLEM"
   },
   {
-    "CIVI-CAD": "DRUG"
+    "CIVI-CAD": "TREATMENT"
   },
   {
     "Cytoxan": "DRUG"
@@ -63,7 +63,7 @@
     "mass": "PROBLEM"
   },
   {
-    "the mass": "PROBLEM"
+    "mass": "PROBLEM"
   },
   {
     "MRI": "TEST"
@@ -75,7 +75,7 @@
     "rheumatoid arthritis": "PROBLEM"
   },
   {
-    "the mass": "PROBLEM"
+    "mass": "PROBLEM"
   },
   {
     "partial resection": "TREATMENT"
@@ -99,7 +99,7 @@
     "subdural hematoma": "PROBLEM"
   },
   {
-    "anticoagulation": "DRUG"
+    "anticoagulation": "TREATMENT"
   },
   {
     "surgical resection": "TREATMENT"

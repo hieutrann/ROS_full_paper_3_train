@@ -15,6 +15,12 @@
     "PTA": "TREATMENT"
   },
   {
+    "swelling of the right hand": "PROBLEM"
+  },
+  {
+    "swelling of the left foot": "PROBLEM"
+  },
+  {
     "chronic kidney disease": "PROBLEM"
   },
   {
@@ -36,10 +42,13 @@
     "gouty attacks": "PROBLEM"
   },
   {
-    "gout": "PROBLEM"
+    "swollen": "PROBLEM"
   },
   {
-    "gouty attacks": "PROBLEM"
+    "painful": "PROBLEM"
+  },
+  {
+    "gout": "PROBLEM"
   },
   {
     "chronic kidney disease": "PROBLEM"
@@ -60,9 +69,6 @@
     "stage 4": "PROBLEM"
   },
   {
-    "4": "TREATMENT"
-  },
-  {
     "Hypertension": "PROBLEM"
   },
   {
@@ -75,7 +81,7 @@
     "Peripheral vascular disease": "PROBLEM"
   },
   {
-    "PTA of right lower extremity": "TREATMENT"
+    "PTA": "TREATMENT"
   },
   {
     "smoking": "PROBLEM"
@@ -120,6 +126,9 @@
     "painful": "PROBLEM"
   },
   {
+    "swollen and painful": "PROBLEM"
+  },
+  {
     "right hand": "PROBLEM"
   },
   {
@@ -129,10 +138,10 @@
     "Foley": "TREATMENT"
   },
   {
-    "urine": "PROBLEM"
+    "urinate": "PROBLEM"
   },
   {
-    "urinate": "PROBLEM"
+    "urine": "PROBLEM"
   },
   {
     "steroids": "DRUG"
@@ -159,7 +168,7 @@
     "decreased urine output": "PROBLEM"
   },
   {
-    "urine output": "TEST"
+    "urine output": "PROBLEM"
   },
   {
     "urinate": "PROBLEM"
@@ -186,19 +195,19 @@
     "acute distress": "PROBLEM"
   },
   {
-    "Blood pressure": "TEST"
+    "Blood pressure": "PROBLEM"
   },
   {
-    "temperature": "TEST"
+    "temperature": "PROBLEM"
   },
   {
-    "pulse": "TEST"
+    "pulse": "PROBLEM"
   },
   {
-    "respirations": "TEST"
+    "respirations": "PROBLEM"
   },
   {
-    "weight": "TEST"
+    "weight": "PROBLEM"
   },
   {
     "Normocephalic": "PROBLEM"
@@ -213,7 +222,7 @@
     "adenopathy": "PROBLEM"
   },
   {
-    "Symmetric": "PROBLEM"
+    "Chest": "PROBLEM"
   },
   {
     "Lungs": "PROBLEM"
@@ -240,6 +249,12 @@
     "pretibial edema": "PROBLEM"
   },
   {
+    "edema": "PROBLEM"
+  },
+  {
+    "lower extremity": "PROBLEM"
+  },
+  {
     "left foot": "PROBLEM"
   },
   {
@@ -249,22 +264,25 @@
     "right hand": "PROBLEM"
   },
   {
-    "fingers": "PROBLEM"
+    "swollen": "PROBLEM"
+  },
+  {
+    "tender": "PROBLEM"
   },
   {
     "urine culture": "TEST"
   },
   {
-    "white cell": "TEST"
+    "white cell": "PROBLEM"
   },
   {
-    "hematocrit": "TEST"
+    "hematocrit": "PROBLEM"
   },
   {
-    "90% segs": "TEST"
+    "90% segs": "PROBLEM"
   },
   {
-    "0% bands": "TEST"
+    "0% bands": "PROBLEM"
   },
   {
     "Serum sodium": "TEST"
@@ -339,9 +357,6 @@
     "PTA": "TREATMENT"
   },
   {
-    "7": "TEST"
-  },
-  {
     "Chronic kidney disease": "PROBLEM"
   },
   {
@@ -361,9 +376,6 @@
   },
   {
     "Lasix": "DRUG"
-  },
-  {
-    "lab results": "TEST"
   },
   {
     "hypertension": "PROBLEM"

@@ -12,10 +12,16 @@
     "MiraLax": "DRUG"
   },
   {
+    "FINAL DIAGNOSES": "TEST"
+  },
+  {
     "Gastroenteritis": "PROBLEM"
   },
   {
     "Autism": "PROBLEM"
+  },
+  {
+    "Regular": "TREATMENT"
   },
   {
     "Adderall": "DRUG"
@@ -30,13 +36,13 @@
     "autism": "PROBLEM"
   },
   {
-    "hyperactivity": "PROBLEM"
-  },
-  {
     "Adderall": "DRUG"
   },
   {
     "clonidine": "DRUG"
+  },
+  {
+    "hyperactivity": "PROBLEM"
   },
   {
     "constipation": "PROBLEM"
@@ -54,7 +60,13 @@
     "voided": "PROBLEM"
   },
   {
-    "weight": "PROBLEM"
+    "weight": "TEST"
+  },
+  {
+    "weight": "TEST"
+  },
+  {
+    "weight": "TEST"
   },
   {
     "vomiting": "PROBLEM"
@@ -97,6 +109,9 @@
   },
   {
     "Urinalysis": "TEST"
+  },
+  {
+    "ketones": "TEST"
   },
   {
     "Specific gravity": "TEST"
@@ -153,6 +168,12 @@
     "IV fluids": "TREATMENT"
   },
   {
+    "clear liquids": "TREATMENT"
+  },
+  {
+    "regular diet": "TREATMENT"
+  },
+  {
     "weight loss": "PROBLEM"
   },
   {
@@ -174,10 +195,10 @@
     "blood pressure": "TEST"
   },
   {
-    "hypertension": "PROBLEM"
+    "blood pressure": "TEST"
   },
   {
-    "blood pressure": "TEST"
+    "hypertension": "PROBLEM"
   },
   {
     "weight loss": "PROBLEM"

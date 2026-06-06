@@ -1,0 +1,74 @@
+[
+  {
+    "General Medicine": "TEST"
+  },
+  {
+    "Normal ENT Exam": "TEST"
+  },
+  {
+    "Sample normal ear, nose, mouth, and throat exam": "TEST"
+  },
+  {
+    "ears": "PROBLEM"
+  },
+  {
+    "pinna": "PROBLEM"
+  },
+  {
+    "canals": "PROBLEM"
+  },
+  {
+    "drainage": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "tympanic": "PROBLEM"
+  },
+  {
+    "hearing": "PROBLEM"
+  },
+  {
+    "nasal mucosa": "PROBLEM"
+  },
+  {
+    "septum": "PROBLEM"
+  },
+  {
+    "septal hematoma": "PROBLEM"
+  },
+  {
+    "turbinates": "PROBLEM"
+  },
+  {
+    "lips": "PROBLEM"
+  },
+  {
+    "teeth": "PROBLEM"
+  },
+  {
+    "gingivae": "PROBLEM"
+  },
+  {
+    "oral mucosa": "PROBLEM"
+  },
+  {
+    "palate": "PROBLEM"
+  },
+  {
+    "uvula": "PROBLEM"
+  },
+  {
+    "salivary glands": "PROBLEM"
+  },
+  {
+    "tongue": "PROBLEM"
+  },
+  {
+    "posterior pharynx": "PROBLEM"
+  },
+  {
+    "tonsils": "PROBLEM"
+  }
+]

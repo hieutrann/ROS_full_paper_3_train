@@ -3,7 +3,40 @@
     "non-small cell lung carcinoma": "PROBLEM"
   },
   {
-    "pleural effusion": "PROBLEM"
+    "left malignant pleural effusion": "PROBLEM"
+  },
+  {
+    "Respiratory failure": "PROBLEM"
+  },
+  {
+    "postobstructive pneumonia": "PROBLEM"
+  },
+  {
+    "Gastrointestinal bleed": "PROBLEM"
+  },
+  {
+    "Thrombocytopenia": "PROBLEM"
+  },
+  {
+    "Acute renal failure": "PROBLEM"
+  },
+  {
+    "Hyponatremia": "PROBLEM"
+  },
+  {
+    "Hypercalcemia": "PROBLEM"
+  },
+  {
+    "Leukemoid reaction": "PROBLEM"
+  },
+  {
+    "Elevated liver function tests": "PROBLEM"
+  },
+  {
+    "CT scan of the chest": "TEST"
+  },
+  {
+    "bronchoscopy": "TEST"
   },
   {
     "chest tube insertion": "TREATMENT"
@@ -12,54 +45,12 @@
     "chemical pleurodesis": "TREATMENT"
   },
   {
-    "respiratory failure": "PROBLEM"
-  },
-  {
-    "postobstructive pneumonia": "PROBLEM"
-  },
-  {
-    "gastrointestinal bleed": "PROBLEM"
-  },
-  {
-    "thrombocytopenia": "PROBLEM"
-  },
-  {
-    "acute renal failure": "PROBLEM"
-  },
-  {
-    "hyponatremia": "PROBLEM"
-  },
-  {
-    "hypercalcemia": "PROBLEM"
-  },
-  {
-    "paraneoplastic syndrome": "PROBLEM"
-  },
-  {
-    "leukemoid reaction": "PROBLEM"
-  },
-  {
-    "elevated liver function tests": "TEST"
-  },
-  {
-    "CT scan": "TEST"
-  },
-  {
-    "bronchoscopy": "TEST"
-  },
-  {
     "intubation": "TREATMENT"
   },
   {
     "mechanical ventilatory support": "TREATMENT"
   },
   {
-    "DNR": "TREATMENT"
-  },
-  {
-    "withdrawal of life support": "TREATMENT"
-  },
-  {
-    "chemotherapy": "TREATMENT"
+    "withdrawal of the life support": "TREATMENT"
   }
 ]

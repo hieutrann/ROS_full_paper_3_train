@@ -27,9 +27,6 @@
     "visual field defects": "PROBLEM"
   },
   {
-    "hearing or balance problems": "PROBLEM"
-  },
-  {
     "runny nose": "PROBLEM"
   },
   {
@@ -40,6 +37,9 @@
   },
   {
     "dental problems": "PROBLEM"
+  },
+  {
+    "dentures": "TREATMENT"
   },
   {
     "bleeding gums": "PROBLEM"
@@ -57,7 +57,7 @@
     "angina": "PROBLEM"
   },
   {
-    "previous MI": "PROBLEM"
+    "MI": "PROBLEM"
   },
   {
     "irregular heartbeat": "PROBLEM"
@@ -69,7 +69,7 @@
     "bad heart valves": "PROBLEM"
   },
   {
-    "palpitations": "PROBLEM"
+    "palpitulos": "PROBLEM"
   },
   {
     "swelling of feet": "PROBLEM"
@@ -264,7 +264,7 @@
     "steroids": "DRUG"
   },
   {
-    "chemotherapy": "TREATMENT"
+    "chemotherapy": "DRUG"
   },
   {
     "cancer": "PROBLEM"
@@ -280,5 +280,8 @@
   },
   {
     "leg ulcers": "PROBLEM"
+  },
+  {
+    "heartbeat": "TEST"
   }
 ]

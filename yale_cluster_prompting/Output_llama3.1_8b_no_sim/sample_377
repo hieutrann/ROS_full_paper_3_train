@@ -1,24 +1,18 @@
 [
   {
-    "Chest Pain": "PROBLEM"
+    "chest pain": "PROBLEM"
   },
   {
     "chest pain": "PROBLEM"
   },
   {
-    "60-year-old female": "PROBLEM"
+    "female": "PROBLEM"
   },
   {
     "chest pain": "PROBLEM"
-  },
-  {
-    "year": "PROBLEM"
   },
   {
     "Dr": "TREATMENT"
-  },
-  {
-    "Murphy": "TREATMENT"
   },
   {
     "treadmill": "TEST"
@@ -30,43 +24,28 @@
     "cardiovascular disease": "PROBLEM"
   },
   {
-    "symptoms": "PROBLEM"
-  },
-  {
     "pressure": "PROBLEM"
-  },
-  {
-    "mild-to-moderate": "PROBLEM"
   },
   {
     "chest": "PROBLEM"
   },
   {
-    "gets up": "PROBLEM"
-  },
-  {
-    "gone": "PROBLEM"
-  },
-  {
-    "fast heartbeats": "PROBLEM"
+    "symptoms": "PROBLEM"
   },
   {
     "irregular heartbeats": "PROBLEM"
   },
   {
-    "2": "TEST"
+    "fast heartbeats": "PROBLEM"
+  },
+  {
+    "2": "PROBLEM"
   },
   {
     "stomach pains": "PROBLEM"
   },
   {
-    "foods": "PROBLEM"
-  },
-  {
     "epigastric area": "PROBLEM"
-  },
-  {
-    "week": "TEST"
   },
   {
     "3": "PROBLEM"
@@ -76,9 +55,6 @@
   },
   {
     "Aciphex": "DRUG"
-  },
-  {
-    "symptoms": "PROBLEM"
   },
   {
     "Aciphex": "DRUG"
@@ -96,31 +72,19 @@
     "heartburn": "PROBLEM"
   },
   {
-    "4": "TEST"
+    "4": "PROBLEM"
   },
   {
     "right flank pain": "PROBLEM"
   },
   {
-    "months": "PROBLEM"
-  },
-  {
     "achy pain": "PROBLEM"
   },
   {
-    "mild": "PROBLEM"
-  },
-  {
-    "5": "TEST"
+    "5": "PROBLEM"
   },
   {
     "spots": "PROBLEM"
-  },
-  {
-    "elevated": "PROBLEM"
-  },
-  {
-    "painful": "PROBLEM"
   },
   {
     "6": "PROBLEM"
@@ -129,28 +93,19 @@
     "spots": "PROBLEM"
   },
   {
-    "itchy": "PROBLEM"
-  },
-  {
-    "7": "TEST"
+    "7": "PROBLEM"
   },
   {
     "urine": "PROBLEM"
   },
   {
-    "urinary tract infection": "PROBLEM"
-  },
-  {
-    "leaking": "PROBLEM"
-  },
-  {
-    "bladder full": "PROBLEM"
+    "urine leakage": "PROBLEM"
   },
   {
     "pad": "TREATMENT"
   },
   {
-    "8": "TEST"
+    "8": "PROBLEM"
   },
   {
     "colonoscopy": "TEST"
@@ -162,16 +117,16 @@
     "hepatitis titer": "TEST"
   },
   {
-    "9": "TEST"
+    "9": "PROBLEM"
   },
   {
-    "pain in her thumbs": "PROBLEM"
+    "pain": "PROBLEM"
+  },
+  {
+    "thumbs": "PROBLEM"
   },
   {
     "fine motor skills": "PROBLEM"
-  },
-  {
-    "several months": "PROBLEM"
   },
   {
     "swelling": "PROBLEM"
@@ -183,7 +138,7 @@
     "trauma": "PROBLEM"
   },
   {
-    "eye doctor": "TEST"
+    "eye doctor": "TREATMENT"
   },
   {
     "hearing loss": "PROBLEM"
@@ -225,19 +180,13 @@
     "tingling": "PROBLEM"
   },
   {
-    "nursing home": "TEST"
-  },
-  {
-    "nonsmoker": "PROBLEM"
+    "nursing home": "PROBLEM"
   },
   {
     "weight": "PROBLEM"
   },
   {
     "diet": "TREATMENT"
-  },
-  {
-    "smoking": "PROBLEM"
   },
   {
     "type I diabetes": "PROBLEM"
@@ -264,28 +213,25 @@
     "aspirin": "DRUG"
   },
   {
-    "medical allergies": "PROBLEM"
+    "allergies": "PROBLEM"
   },
   {
-    "Vital Signs": "TEST"
+    "Weight": "PROBLEM"
   },
   {
-    "Weight": "TEST"
-  },
-  {
-    "Blood pressure": "TEST"
+    "blood pressure": "PROBLEM"
   },
   {
     "Pulse": "TEST"
   },
   {
-    "adult female": "PROBLEM"
+    "adult": "PROBLEM"
   },
   {
-    "pupils": "TEST"
+    "pupils": "PROBLEM"
   },
   {
-    "Conjunctivae": "PROBLEM"
+    "conjunctivae": "PROBLEM"
   },
   {
     "TMs": "TEST"
@@ -294,34 +240,22 @@
     "Oropharynx": "PROBLEM"
   },
   {
-    "Dentition": "PROBLEM"
-  },
-  {
     "lymphadenopathy": "PROBLEM"
   },
   {
     "thyromegaly": "PROBLEM"
   },
   {
-    "Lungs": "TEST"
+    "respiratory effort": "PROBLEM"
   },
   {
-    "respiratory effort": "TEST"
+    "murmur": "PROBLEM"
   },
   {
-    "Heart: Regular rhythm and rate without murmur": "TEST"
-  },
-  {
-    "Radial pulses": "TEST"
-  },
-  {
-    "Abdomen": "PROBLEM"
+    "pulses": "TEST"
   },
   {
     "organomegaly": "PROBLEM"
-  },
-  {
-    "tenderness": "PROBLEM"
   },
   {
     "thumbs": "PROBLEM"
@@ -342,19 +276,10 @@
     "rash": "PROBLEM"
   },
   {
-    "armpits": "PROBLEM"
-  },
-  {
     "lesion": "PROBLEM"
   },
   {
-    "shoulder": "PROBLEM"
-  },
-  {
-    "diffuse borders": "PROBLEM"
-  },
-  {
-    "red": "PROBLEM"
+    "redness": "PROBLEM"
   },
   {
     "brown spots": "PROBLEM"
@@ -366,10 +291,7 @@
     "edema": "PROBLEM"
   },
   {
-    "radial pulses": "TEST"
-  },
-  {
-    "posterior tibial pulses": "TEST"
+    "pulses": "TEST"
   },
   {
     "gait": "PROBLEM"
@@ -378,7 +300,7 @@
     "affect": "PROBLEM"
   },
   {
-    "Neurological": "TEST"
+    "intact": "PROBLEM"
   },
   {
     "speech": "PROBLEM"
@@ -390,7 +312,7 @@
     "Chest pain": "PROBLEM"
   },
   {
-    "Murphys evaluation": "TEST"
+    "Murphys evaluation": "TREATMENT"
   },
   {
     "symptoms": "PROBLEM"
@@ -405,19 +327,13 @@
     "Aciphex": "DRUG"
   },
   {
-    "Dr": "TREATMENT"
-  },
-  {
     "EGD": "TEST"
   },
   {
     "symptoms": "PROBLEM"
   },
   {
-    "episodes": "PROBLEM"
-  },
-  {
-    "2": "TEST"
+    "2": "PROBLEM"
   },
   {
     "stomach pain": "PROBLEM"
@@ -432,10 +348,10 @@
     "lesions": "PROBLEM"
   },
   {
-    "punch biopsy": "TEST"
+    "biopsy": "TEST"
   },
   {
-    "4": "TEST"
+    "4": "PROBLEM"
   },
   {
     "Tinea versicolor": "PROBLEM"
@@ -444,7 +360,7 @@
     "selenium sulfide lotion": "DRUG"
   },
   {
-    "5": "TEST"
+    "5": "PROBLEM"
   },
   {
     "Cystocele": "PROBLEM"
@@ -465,16 +381,13 @@
     "CBC": "TEST"
   },
   {
-    "7": "TEST"
+    "7": "PROBLEM"
   },
   {
     "arthritic": "PROBLEM"
   },
   {
-    "pain": "PROBLEM"
-  },
-  {
-    "8": "TEST"
+    "8": "PROBLEM"
   },
   {
     "Screening": "TEST"
@@ -486,7 +399,7 @@
     "colon cancer": "PROBLEM"
   },
   {
-    "9": "TEST"
+    "9": "PROBLEM"
   },
   {
     "Gastroesophageal reflux disease": "PROBLEM"
@@ -513,9 +426,6 @@
     "leukopenia": "PROBLEM"
   },
   {
-    "multiple problems": "PROBLEM"
-  },
-  {
     "aciphex": "DRUG"
   },
   {
@@ -526,8 +436,5 @@
   },
   {
     "reflux": "PROBLEM"
-  },
-  {
-    "versicolor": "PROBLEM"
   }
 ]

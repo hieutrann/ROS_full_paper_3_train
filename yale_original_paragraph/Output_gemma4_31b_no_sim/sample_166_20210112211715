@@ -15,6 +15,9 @@
     "coronary artery disease": "PROBLEM"
   },
   {
+    "cardiac workup": "TEST"
+  },
+  {
     "drug screen": "TEST"
   },
   {
@@ -25,9 +28,6 @@
   },
   {
     "EKG": "TEST"
-  },
-  {
-    "chest pain": "PROBLEM"
   },
   {
     "nitroglycerin": "DRUG"
@@ -120,9 +120,6 @@
     "respiratory rate": "TEST"
   },
   {
-    "oropharyngeal lesions": "PROBLEM"
-  },
-  {
     "JV distention": "PROBLEM"
   },
   {
@@ -133,9 +130,6 @@
   },
   {
     "edema": "PROBLEM"
-  },
-  {
-    "Distal pulses": "TEST"
   },
   {
     "WBC count": "TEST"
@@ -220,8 +214,5 @@
   },
   {
     "Migraine headaches": "PROBLEM"
-  },
-  {
-    "acute coronary syndrome": "PROBLEM"
   }
 ]

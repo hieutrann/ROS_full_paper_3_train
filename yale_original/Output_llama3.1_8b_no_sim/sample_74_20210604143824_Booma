@@ -3,19 +3,16 @@
     "ENT Exam": "TEST"
   },
   {
-    "nose": "PROBLEM"
+    "deformity": "PROBLEM"
   },
   {
-    "ears": "PROBLEM"
+    "pinna": "PROBLEM"
   },
   {
     "canals": "PROBLEM"
   },
   {
     "erythema": "PROBLEM"
-  },
-  {
-    "tympanic membranes": "PROBLEM"
   },
   {
     "whisper": "TEST"
@@ -39,7 +36,7 @@
     "teeth": "PROBLEM"
   },
   {
-    "gingivae": "PROBLEM"
+    "infection": "PROBLEM"
   },
   {
     "oral mucosa": "PROBLEM"

@@ -1,15 +1,9 @@
 [
   {
-    "Ant Bait Exposure": "PROBLEM"
-  },
-  {
-    "exposure to ant bait": "PROBLEM"
+    "ant bait": "TREATMENT"
   },
   {
     "vomiting": "PROBLEM"
-  },
-  {
-    "Borax": "DRUG"
   },
   {
     "coughing": "PROBLEM"
@@ -25,20 +19,5 @@
   },
   {
     "exposure to ant bait": "PROBLEM"
-  },
-  {
-    "borax": "DRUG"
-  },
-  {
-    "vomiting": "PROBLEM"
-  },
-  {
-    "exposure to ant bait": "PROBLEM"
-  },
-  {
-    "ant bait": "PROBLEM"
-  },
-  {
-    "exposure": "PROBLEM"
   }
 ]

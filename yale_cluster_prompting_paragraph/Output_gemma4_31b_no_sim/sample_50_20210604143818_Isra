@@ -1,6 +1,6 @@
 [
   {
-    "Abdominal Pain": "PROBLEM"
+    "abdominal pain": "PROBLEM"
   },
   {
     "abdominal pain": "PROBLEM"
@@ -33,7 +33,7 @@
     "anorexia": "PROBLEM"
   },
   {
-    "obstipation": "PROBLEM"
+    "obstipation symptoms": "PROBLEM"
   },
   {
     "bright red blood per rectum": "PROBLEM"
@@ -66,10 +66,7 @@
     "metoprolol": "DRUG"
   },
   {
-    "Premarin": "DRUG"
-  },
-  {
-    "hormone replacement": "TREATMENT"
+    "Premarin hormone replacement": "DRUG"
   },
   {
     "cholecystectomy": "TREATMENT"
@@ -96,13 +93,13 @@
     "shortness of breath": "PROBLEM"
   },
   {
-    "temperature": "TEST"
-  },
-  {
     "focally tender": "PROBLEM"
   },
   {
     "palpable fullness or mass": "PROBLEM"
+  },
+  {
+    "focally tender": "PROBLEM"
   },
   {
     "rebound tenderness": "PROBLEM"
@@ -159,21 +156,9 @@
     "sigmoid diverticulitis": "PROBLEM"
   },
   {
-    "CT scan of the abdomen and pelvis": "TEST"
+    "stat CT scan of the abdomen and pelvis": "TEST"
   },
   {
     "colonoscopy": "TEST"
-  },
-  {
-    "surgical intervention": "TREATMENT"
-  },
-  {
-    "abdominal pain": "PROBLEM"
-  },
-  {
-    "diverticulitis": "PROBLEM"
-  },
-  {
-    "tenderness": "PROBLEM"
   }
 ]

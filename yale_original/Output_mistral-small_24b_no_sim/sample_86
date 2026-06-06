@@ -24,10 +24,16 @@
     "relapse": "PROBLEM"
   },
   {
+    "RTC": "TREATMENT"
+  },
+  {
     "therapy program": "TREATMENT"
   },
   {
     "psychotropic medications": "DRUG"
+  },
+  {
+    "therapy": "TREATMENT"
   },
   {
     "Perceptual disturbances": "PROBLEM"
@@ -63,19 +69,19 @@
     "strange feelings and sensations": "PROBLEM"
   },
   {
+    "relapse": "PROBLEM"
+  },
+  {
     "sleep-deprived EEG": "TEST"
   },
   {
     "EKG": "TEST"
   },
   {
-    "H&P": "TEST"
+    "psychiatric treatment": "TREATMENT"
   },
   {
-    "basic blood work": "TEST"
-  },
-  {
-    "basic metabolic panel": "TEST"
+    "Basic metabolic panel": "TEST"
   },
   {
     "CBC": "TEST"
@@ -111,9 +117,6 @@
     "heart murmur": "PROBLEM"
   },
   {
-    "H&P exam": "TEST"
-  },
-  {
     "CBC": "TEST"
   },
   {
@@ -129,46 +132,64 @@
     "psychotic features": "PROBLEM"
   },
   {
+    "AXIS II": "TEST"
+  },
+  {
     "Psychosocial stressors": "PROBLEM"
   },
   {
-    "suicidal": "PROBLEM"
+    "GAF": "TEST"
   },
   {
-    "homicidal": "PROBLEM"
+    "suicidal ideas": "PROBLEM"
+  },
+  {
+    "homicidal ideas": "PROBLEM"
   },
   {
     "perception disturbances": "PROBLEM"
   },
   {
+    "internal stimuli": "PROBLEM"
+  },
+  {
+    "Guarded": "PROBLEM"
+  },
+  {
+    "treatment": "TREATMENT"
+  },
+  {
     "RTC": "TREATMENT"
   },
   {
-    "doctor": "PROBLEM"
+    "family doctor": "TREATMENT"
   },
   {
-    "doctor": "PROBLEM"
+    "cardiologist": "TREATMENT"
   },
   {
-    "doctor": "PROBLEM"
-  },
-  {
-    "cardiologist": "PROBLEM"
-  },
-  {
-    "OB/GYN": "PROBLEM"
+    "OB/GYN doctor": "TREATMENT"
   },
   {
     "lab results": "TEST"
   },
   {
-    "Seroquel": "DRUG"
+    "physical": "TEST"
   },
   {
     "Seroquel": "DRUG"
+  },
+  {
+    "#30 pills no refills": "TREATMENT"
+  },
+  {
+    "Seroquel 50 mg": "DRUG"
   },
   {
     "Benadryl": "DRUG"
+  },
+  {
+    "6h p.r.n.": "TREATMENT"
   },
   {
     "anxiety": "PROBLEM"
@@ -184,6 +205,9 @@
   },
   {
     "Restoril": "DRUG"
+  },
+  {
+    "p.r.n.": "DRUG"
   },
   {
     "anxiety": "PROBLEM"
@@ -210,10 +234,19 @@
     "depression": "PROBLEM"
   },
   {
+    "gaf": "TEST"
+  },
+  {
     "high risk behavior": "PROBLEM"
   },
   {
     "psychosocial stressors": "PROBLEM"
+  },
+  {
+    "rtc": "TREATMENT"
+  },
+  {
+    "residential treatment center": "TREATMENT"
   },
   {
     "anxious": "PROBLEM"
@@ -229,5 +262,17 @@
   },
   {
     "sleep-deprived eeg": "TEST"
+  },
+  {
+    "legal guardian": "TREATMENT"
+  },
+  {
+    "discharge": "TREATMENT"
+  },
+  {
+    "oriented": "PROBLEM"
+  },
+  {
+    "axis": "TEST"
   }
 ]

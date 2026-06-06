@@ -1,9 +1,9 @@
 [
   {
-    "ENT Exam": "TEST"
+    "deformity": "PROBLEM"
   },
   {
-    "ear, nose, mouth, and throat exam": "TEST"
+    "drainage": "PROBLEM"
   },
   {
     "erythema": "PROBLEM"
@@ -15,9 +15,12 @@
     "infection": "PROBLEM"
   },
   {
-    "exudate": "PROBLEM"
+    "masses": "PROBLEM"
   },
   {
     "erythema": "PROBLEM"
+  },
+  {
+    "exudate": "PROBLEM"
   }
 ]

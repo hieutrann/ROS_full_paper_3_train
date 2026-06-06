@@ -1,12 +1,15 @@
 [
   {
+    "General Medicine": "TREATMENT"
+  },
+  {
     "Ant Bait Exposure": "PROBLEM"
   },
   {
-    "vomiting": "PROBLEM"
+    "ER Visit": "TEST"
   },
   {
-    "ant bait": "PROBLEM"
+    "vomiting": "PROBLEM"
   },
   {
     "ant bait": "PROBLEM"
@@ -24,16 +27,10 @@
     "ingested": "PROBLEM"
   },
   {
-    "evaluation": "TEST"
-  },
-  {
     "symptoms": "PROBLEM"
   },
   {
     "Negative": "PROBLEM"
-  },
-  {
-    "healthy": "PROBLEM"
   },
   {
     "coughing": "PROBLEM"
@@ -45,22 +42,19 @@
     "vomiting": "PROBLEM"
   },
   {
-    "normal": "PROBLEM"
+    "spilled": "PROBLEM"
   },
   {
-    "spilled it": "PROBLEM"
-  },
-  {
-    "ingested any": "PROBLEM"
-  },
-  {
-    "MEDICATIONS": "DRUG"
+    "None": "DRUG"
   },
   {
     "NONE": "PROBLEM"
   },
   {
-    "afebrile": "PROBLEM"
+    "afebrile": "TEST"
+  },
+  {
+    "vital signs": "TEST"
   },
   {
     "pulse oximetry": "TEST"
@@ -72,19 +66,10 @@
     "HEENT": "TEST"
   },
   {
-    "Oral mucosa": "PROBLEM"
+    "Oral mucosa": "TEST"
   },
   {
-    "liquid": "PROBLEM"
-  },
-  {
-    "substance": "PROBLEM"
-  },
-  {
-    "some": "PROBLEM"
-  },
-  {
-    "nontoxic ingestion": "PROBLEM"
+    "Poison Control": "TEST"
   },
   {
     "ant bait": "PROBLEM"

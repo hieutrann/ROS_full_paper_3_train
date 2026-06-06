@@ -3,9 +3,6 @@
     "Transforaminal Epidural Steroid Injection": "TREATMENT"
   },
   {
-    "Transforaminal Epidural": "TREATMENT"
-  },
-  {
     "Fluoroscopy": "TEST"
   },
   {
@@ -13,12 +10,6 @@
   },
   {
     "Transforaminal Epidural": "TREATMENT"
-  },
-  {
-    "procedure": "TREATMENT"
-  },
-  {
-    "procedure": "TREATMENT"
   },
   {
     "infection": "PROBLEM"
@@ -42,7 +33,10 @@
     "spinal cord injury": "PROBLEM"
   },
   {
-    "cardiovascular and CNS side effects": "PROBLEM"
+    "cardiovascular side effects": "PROBLEM"
+  },
+  {
+    "CNS side effects": "PROBLEM"
   },
   {
     "medications": "DRUG"
@@ -75,16 +69,19 @@
     "procedure": "TREATMENT"
   },
   {
-    "fluoroscopy machine": "TEST"
+    "X-ray": "TEST"
   },
   {
-    "prone position": "TREATMENT"
+    "fluoroscopy": "TEST"
   },
   {
     "lumbar lordosis": "PROBLEM"
   },
   {
     "betadine": "DRUG"
+  },
+  {
+    "sterile drapes": "TREATMENT"
   },
   {
     "needle placement": "TREATMENT"
@@ -102,10 +99,7 @@
     "spinal needle": "TREATMENT"
   },
   {
-    "Multiple fluoroscopic views": "TEST"
-  },
-  {
-    "needle placement": "TREATMENT"
+    "fluoroscopic views": "TEST"
   },
   {
     "non-ionic contrast agent": "DRUG"
@@ -118,6 +112,12 @@
   },
   {
     "radiculogram": "TEST"
+  },
+  {
+    "vascular dye pattern": "PROBLEM"
+  },
+  {
+    "treatment solution": "TREATMENT"
   },
   {
     "medications": "DRUG"
@@ -190,5 +190,8 @@
   },
   {
     "fluoroscopy": "TEST"
+  },
+  {
+    "needle": "TREATMENT"
   }
 ]

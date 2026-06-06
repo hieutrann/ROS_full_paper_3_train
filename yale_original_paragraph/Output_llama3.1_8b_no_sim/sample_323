@@ -1,5 +1,26 @@
 [
   {
+    "bimanual exam": "TREATMENT"
+  },
+  {
+    "HEENT": "TEST"
+  },
+  {
+    "Hemoccult": "TEST"
+  },
+  {
+    "Speculum exam": "TEST"
+  },
+  {
+    "Rectal Exam": "TEST"
+  },
+  {
+    "Joint Exam": "TEST"
+  },
+  {
+    "Extremities": "TEST"
+  },
+  {
     "Pupils": "TEST"
   },
   {
@@ -18,55 +39,34 @@
     "Neck": "TEST"
   },
   {
-    "Carotids": "TEST"
-  },
-  {
-    "Jugular venous distention": "PROBLEM"
-  },
-  {
     "Chest": "TEST"
   },
   {
     "Cardiovascular": "TEST"
   },
   {
-    "Peripheral pulses": "TEST"
-  },
-  {
     "Abdomen": "TEST"
-  },
-  {
-    "Bowel sounds": "TEST"
   },
   {
     "GU": "TEST"
   },
   {
-    "Speculum exam": "TEST"
-  },
-  {
-    "Cervix": "TEST"
-  },
-  {
-    "Bimanual exam": "TEST"
+    "Uterus": "TEST"
   },
   {
     "Adnexa": "TEST"
   },
   {
-    "Rectal Exam": "TEST"
+    "Cervix": "TEST"
   },
   {
-    "Extremities": "TEST"
+    "Vaginal mucosa": "TEST"
   },
   {
-    "Joint Exam": "TEST"
+    "Breast tissue": "TEST"
   },
   {
-    "Integumentary": "TEST"
-  },
-  {
-    "Neurologic": "TEST"
+    "Axillae": "TEST"
   },
   {
     "Cranial nerves": "TEST"
@@ -78,7 +78,25 @@
     "Deep tendon reflexes": "TEST"
   },
   {
-    "Hemoccult": "TEST"
+    "Patient": "TEST"
+  },
+  {
+    "Alert": "TEST"
+  },
+  {
+    "Oriented": "TEST"
+  },
+  {
+    "Grossly normal": "TEST"
+  },
+  {
+    "Dermatologic": "TEST"
+  },
+  {
+    "Lesions": "PROBLEM"
+  },
+  {
+    "Rashes": "PROBLEM"
   },
   {
     "Lymphadenopathy": "PROBLEM"
@@ -88,6 +106,12 @@
   },
   {
     "Jugular venous distention": "PROBLEM"
+  },
+  {
+    "S3": "PROBLEM"
+  },
+  {
+    "S4": "PROBLEM"
   },
   {
     "Murmurs": "PROBLEM"
@@ -108,12 +132,27 @@
     "Tenosynovitis": "PROBLEM"
   },
   {
+    "Clubbing": "PROBLEM"
+  },
+  {
+    "Cyanosis": "PROBLEM"
+  },
+  {
+    "Edema": "PROBLEM"
+  },
+  {
     "Skin changes": "PROBLEM"
   },
   {
-    "Lesions": "PROBLEM"
+    "Breast lumps": "PROBLEM"
   },
   {
-    "Rashes": "PROBLEM"
+    "Skin rashes": "PROBLEM"
+  },
+  {
+    "General medicine": "DRUG"
+  },
+  {
+    "Female physical examination": "DRUG"
   }
 ]

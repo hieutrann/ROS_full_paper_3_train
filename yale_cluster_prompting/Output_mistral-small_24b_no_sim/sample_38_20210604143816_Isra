@@ -12,6 +12,9 @@
     "MiraLax": "DRUG"
   },
   {
+    "FINAL DIAGNOSES": "PROBLEM"
+  },
+  {
     "Gastroenteritis": "PROBLEM"
   },
   {
@@ -51,13 +54,16 @@
     "diarrhea": "PROBLEM"
   },
   {
-    "voided": "PROBLEM"
+    "She voided": "PROBLEM"
   },
   {
-    "weight": "TEST"
+    "weight": "PROBLEM"
   },
   {
-    "vomiting": "PROBLEM"
+    "10 pounds": "PROBLEM"
+  },
+  {
+    "persistent vomiting": "PROBLEM"
   },
   {
     "weight loss": "PROBLEM"
@@ -97,6 +103,9 @@
   },
   {
     "Urinalysis": "TEST"
+  },
+  {
+    "ketones": "PROBLEM"
   },
   {
     "Specific gravity": "TEST"
@@ -153,22 +162,31 @@
     "IV fluids": "TREATMENT"
   },
   {
+    "clear liquids": "TREATMENT"
+  },
+  {
+    "regular diet": "TREATMENT"
+  },
+  {
     "weight loss": "PROBLEM"
   },
   {
-    "weight": "TEST"
+    "124 pounds": "TEST"
   },
   {
-    "height": "TEST"
+    "58 inches": "TEST"
   },
   {
-    "temperature": "TEST"
+    "98.0 degree F": "TEST"
   },
   {
-    "pulse": "TEST"
+    "123": "TEST"
   },
   {
-    "respirations": "TEST"
+    "18": "TEST"
+  },
+  {
+    "148/94": "TEST"
   },
   {
     "blood pressure": "TEST"
@@ -177,10 +195,7 @@
     "hypertension": "PROBLEM"
   },
   {
-    "blood pressure": "TEST"
-  },
-  {
-    "weight loss": "PROBLEM"
+    "unexplained weight loss": "PROBLEM"
   },
   {
     "Adderall": "DRUG"
@@ -195,6 +210,9 @@
     "Graves disease": "PROBLEM"
   },
   {
+    "discharge summary": "PROBLEM"
+  },
+  {
     "gastroenteritis": "PROBLEM"
   },
   {
@@ -207,7 +225,7 @@
     "hyperactivity": "PROBLEM"
   },
   {
-    "blood pressure": "TEST"
+    "blood pressure": "PROBLEM"
   },
   {
     "weight loss": "PROBLEM"

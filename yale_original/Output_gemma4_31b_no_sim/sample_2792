@@ -18,7 +18,7 @@
     "Falls": "PROBLEM"
   },
   {
-    "increased anxiety": "PROBLEM"
+    "anxiety": "PROBLEM"
   },
   {
     "anxious": "PROBLEM"
@@ -57,19 +57,19 @@
     "HI": "PROBLEM"
   },
   {
+    "VITAL SIGNS": "TEST"
+  },
+  {
     "Carotid upstrokes": "TEST"
   },
   {
-    "LUNGS": "TEST"
+    "S1": "TEST"
   },
   {
-    "HEART": "TEST"
+    "S2": "TEST"
   },
   {
     "gallops": "PROBLEM"
-  },
-  {
-    "Rate": "TEST"
   },
   {
     "bowel sounds": "TEST"
@@ -84,7 +84,7 @@
     "tender": "PROBLEM"
   },
   {
-    "metatarsal is nontender": "PROBLEM"
+    "nontender": "PROBLEM"
   },
   {
     "psychiatric evaluation": "TEST"
@@ -100,6 +100,9 @@
   },
   {
     "Xanax": "DRUG"
+  },
+  {
+    "rehabilitation program": "TREATMENT"
   },
   {
     "falls": "PROBLEM"

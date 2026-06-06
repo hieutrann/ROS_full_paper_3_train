@@ -3,7 +3,19 @@
     "heroin abuse": "PROBLEM"
   },
   {
-    "heroin": "DRUG"
+    "cocaine": "DRUG"
+  },
+  {
+    "alcohol abuse": "PROBLEM"
+  },
+  {
+    "heroin abuse": "PROBLEM"
+  },
+  {
+    "Detox from heroin": "TREATMENT"
+  },
+  {
+    "heroin abuse": "PROBLEM"
   },
   {
     "cocaine": "DRUG"
@@ -12,7 +24,7 @@
     "alcohol abuse": "PROBLEM"
   },
   {
-    "Detox from heroin": "TREATMENT"
+    "heroin abuse": "PROBLEM"
   },
   {
     "chronic pain": "PROBLEM"
@@ -24,7 +36,13 @@
     "gunshot wounds": "PROBLEM"
   },
   {
-    "injuries": "PROBLEM"
+    "chronic pain": "PROBLEM"
+  },
+  {
+    "heroin": "DRUG"
+  },
+  {
+    "cocaine": "DRUG"
   },
   {
     "headache": "PROBLEM"
@@ -51,7 +69,13 @@
     "abscesses": "PROBLEM"
   },
   {
-    "smoker": "PROBLEM"
+    "heroin use": "PROBLEM"
+  },
+  {
+    "alcohol abuse": "PROBLEM"
+  },
+  {
+    "cocaine": "DRUG"
   },
   {
     "analgesics": "DRUG"
@@ -69,16 +93,13 @@
     "codeine": "DRUG"
   },
   {
-    "VITAL SIGNS": "TEST"
-  },
-  {
     "hypertensive": "PROBLEM"
   },
   {
-    "jittery": "PROBLEM"
+    "cocaine": "DRUG"
   },
   {
-    "dilated": "PROBLEM"
+    "breath sounds": "TEST"
   },
   {
     "wheezing": "PROBLEM"
@@ -126,9 +147,12 @@
     "detox": "TREATMENT"
   },
   {
+    "heroin": "DRUG"
+  },
+  {
     "alcohol": "DRUG"
   },
   {
-    "abuse": "PROBLEM"
+    "cocaine": "DRUG"
   }
 ]

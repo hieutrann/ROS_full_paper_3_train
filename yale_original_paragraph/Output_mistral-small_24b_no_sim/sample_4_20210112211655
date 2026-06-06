@@ -1,6 +1,6 @@
 [
   {
-    "fever of unknown origin": "PROBLEM"
+    "fever": "PROBLEM"
   },
   {
     "polymyositis/dermatomyositis": "PROBLEM"
@@ -12,7 +12,10 @@
     "prednisone": "DRUG"
   },
   {
-    "fever": "PROBLEM"
+    "urticarial rash": "PROBLEM"
+  },
+  {
+    "fevers": "PROBLEM"
   },
   {
     "chest x-ray": "TEST"
@@ -27,37 +30,25 @@
     "CT scan": "TEST"
   },
   {
-    "CT chest": "TEST"
-  },
-  {
-    "CT abdomen": "TEST"
-  },
-  {
-    "CT pelvis": "TEST"
-  },
-  {
     "serologies": "TEST"
-  },
-  {
-    "CMV": "PROBLEM"
   },
   {
     "CMV blood PCR": "TEST"
   },
   {
-    "EBV": "PROBLEM"
+    "EBV": "TEST"
   },
   {
-    "Legionella": "PROBLEM"
+    "Legionella": "TEST"
   },
   {
-    "Chlamydia": "PROBLEM"
+    "Chlamydia": "TEST"
   },
   {
-    "Mycoplasma": "PROBLEM"
+    "Mycoplasma": "TEST"
   },
   {
-    "Coccidioides": "PROBLEM"
+    "Coccidioides": "TEST"
   },
   {
     "cryptococcal antigen": "TEST"
@@ -66,7 +57,13 @@
     "PPD": "TEST"
   },
   {
-    "bronchoscopy": "TREATMENT"
+    "CMV serology": "TEST"
+  },
+  {
+    "CMV blood PCR": "TEST"
+  },
+  {
+    "bronchoscopy": "TEST"
   },
   {
     "BAL": "TEST"
@@ -85,12 +82,6 @@
   },
   {
     "interstitial fibrosis": "PROBLEM"
-  },
-  {
-    "CMV infection": "PROBLEM"
-  },
-  {
-    "CMV pneumonitis": "PROBLEM"
   },
   {
     "ganciclovir": "DRUG"
@@ -123,6 +114,21 @@
     "lymphocytes": "TEST"
   },
   {
+    "Disseminated CMV infection": "PROBLEM"
+  },
+  {
+    "CMV pneumonitis": "PROBLEM"
+  },
+  {
+    "polymyositis": "PROBLEM"
+  },
+  {
+    "methotrexate": "DRUG"
+  },
+  {
+    "prednisone": "DRUG"
+  },
+  {
     "ganciclovir": "DRUG"
   },
   {
@@ -136,27 +142,6 @@
   },
   {
     "folic acid": "DRUG"
-  },
-  {
-    "methotrexate": "DRUG"
-  },
-  {
-    "fever": "PROBLEM"
-  },
-  {
-    "infection": "PROBLEM"
-  },
-  {
-    "interstitial": "PROBLEM"
-  },
-  {
-    "serologies": "TEST"
-  },
-  {
-    "chest": "TEST"
-  },
-  {
-    "nondiagnostic": "TEST"
   },
   {
     "methotrexate": "DRUG"

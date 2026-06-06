@@ -3,7 +3,7 @@
     "Transforaminal Epidural Steroid Injection": "TREATMENT"
   },
   {
-    "Transforaminal Epidural, lumbar": "TREATMENT"
+    "Transforaminal Epidural": "TREATMENT"
   },
   {
     "Fluoroscopy": "TEST"
@@ -12,7 +12,7 @@
     "lidocaine": "DRUG"
   },
   {
-    "Transforaminal Epidural, lumbar": "TREATMENT"
+    "Transforaminal Epidural": "TREATMENT"
   },
   {
     "infection": "PROBLEM"
@@ -115,6 +115,12 @@
   },
   {
     "changes in bowel or bladder function": "PROBLEM"
+  },
+  {
+    "pain management": "TREATMENT"
+  },
+  {
+    "epidural lumbar": "TREATMENT"
   },
   {
     "transforaminal epidural": "TREATMENT"

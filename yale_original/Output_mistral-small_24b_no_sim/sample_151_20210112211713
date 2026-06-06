@@ -9,10 +9,10 @@
     "Laparoscopic cholecystectomy": "TREATMENT"
   },
   {
-    "laparoscopy": "TEST"
+    "laparoscopy": "TREATMENT"
   },
   {
-    "open common bile duct exploration": "TREATMENT"
+    "common bile duct exploration": "TREATMENT"
   },
   {
     "stone extraction": "TREATMENT"
@@ -33,7 +33,7 @@
     "roux-en-y gastric bypass": "TREATMENT"
   },
   {
-    "Laparoscopic paraventral hernia": "PROBLEM"
+    "Laparoscopic paraventral hernia": "TREATMENT"
   },
   {
     "sleep apnea": "PROBLEM"
@@ -45,22 +45,19 @@
     "Morbid obesity": "PROBLEM"
   },
   {
-    "bmi": "TEST"
-  },
-  {
     "Laparoscopic cholecystectomy": "TREATMENT"
   },
   {
-    "laparoscopy": "TEST"
+    "laparoscopy": "TREATMENT"
   },
   {
-    "open common bile duct exploration": "TREATMENT"
+    "common bile duct exploration": "TREATMENT"
   },
   {
     "stone extraction": "TREATMENT"
   },
   {
-    "elevated bilirubin": "PROBLEM"
+    "bilirubin": "TEST"
   },
   {
     "common bile duct stone": "PROBLEM"
@@ -126,10 +123,19 @@
     "stone": "PROBLEM"
   },
   {
+    "open operation": "TREATMENT"
+  },
+  {
     "incisional pain": "PROBLEM"
   },
   {
+    "nausea": "PROBLEM"
+  },
+  {
     "Jackson-Pratt drain": "TREATMENT"
+  },
+  {
+    "serosanguineous fluid": "PROBLEM"
   },
   {
     "White blood cell count": "TEST"
@@ -144,6 +150,15 @@
     "Foley catheter": "TREATMENT"
   },
   {
+    "bile leak": "PROBLEM"
+  },
+  {
+    "regular diet": "TREATMENT"
+  },
+  {
+    "diet": "TREATMENT"
+  },
+  {
     "bowels": "PROBLEM"
   },
   {
@@ -153,13 +168,16 @@
     "pain": "PROBLEM"
   },
   {
-    "oral pain medications": "DRUG"
+    "pain medications": "DRUG"
   },
   {
     "Jackson-Pratt drain": "TREATMENT"
   },
   {
     "Jackson-Pratt drain": "TREATMENT"
+  },
+  {
+    "laboratory studies": "TEST"
   },
   {
     "bilirubin": "TEST"
@@ -171,13 +189,22 @@
     "H&H": "TEST"
   },
   {
+    "Jackson-Pratt drain": "TREATMENT"
+  },
+  {
     "staple removal": "TREATMENT"
   },
   {
-    "iron": "DRUG"
+    "iron 325 mg": "DRUG"
   },
   {
-    "Lortab": "DRUG"
+    "Lortab elixir": "DRUG"
+  },
+  {
+    "q.4 h. p.r.n.": "DRUG"
+  },
+  {
+    "pain": "PROBLEM"
   },
   {
     "laparoscopy": "TREATMENT"

@@ -9,9 +9,6 @@
     "dilated bladder": "PROBLEM"
   },
   {
-    "thick wall": "PROBLEM"
-  },
-  {
     "outlet obstruction": "PROBLEM"
   },
   {
@@ -108,10 +105,13 @@
     "Pulse": "TEST"
   },
   {
+    "respirations": "TEST"
+  },
+  {
     "blood pressure": "TEST"
   },
   {
-    "dry": "PROBLEM"
+    "saturating": "TEST"
   },
   {
     "thyromegaly": "PROBLEM"
@@ -123,15 +123,6 @@
     "brady": "PROBLEM"
   },
   {
-    "Tenderness in the suprapubic region": "PROBLEM"
-  },
-  {
-    "clubbing": "PROBLEM"
-  },
-  {
-    "cyanosis": "PROBLEM"
-  },
-  {
     "edema": "PROBLEM"
   },
   {
@@ -139,9 +130,6 @@
   },
   {
     "left inguinal hernia": "PROBLEM"
-  },
-  {
-    "colon in sac": "PROBLEM"
   },
   {
     "SBO": "PROBLEM"
@@ -204,9 +192,6 @@
     "Anemia": "PROBLEM"
   },
   {
-    "Adrenal gland mass": "PROBLEM"
-  },
-  {
     "Levaquin": "DRUG"
   },
   {
@@ -216,7 +201,7 @@
     "IV fluids": "TREATMENT"
   },
   {
-    "hypertonic-hypotonic": "TREATMENT"
+    "anticoagulation": "TREATMENT"
   },
   {
     "SCD": "TREATMENT"
@@ -232,35 +217,5 @@
   },
   {
     "PUD": "PROBLEM"
-  },
-  {
-    "abdominal pain": "PROBLEM"
-  },
-  {
-    "hydronephrosis": "PROBLEM"
-  },
-  {
-    "hydroureter": "PROBLEM"
-  },
-  {
-    "urinary tract infection with sepsis": "PROBLEM"
-  },
-  {
-    "ct scan": "TEST"
-  },
-  {
-    "adrenal gland": "PROBLEM"
-  },
-  {
-    "dilated bladder": "PROBLEM"
-  },
-  {
-    "bilateral hydronephrosis": "PROBLEM"
-  },
-  {
-    "atrial fibrillation": "PROBLEM"
-  },
-  {
-    "sepsis": "PROBLEM"
   }
 ]

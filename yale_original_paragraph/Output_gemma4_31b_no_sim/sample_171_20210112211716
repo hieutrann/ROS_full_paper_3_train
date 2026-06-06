@@ -90,7 +90,7 @@
     "syncope": "PROBLEM"
   },
   {
-    "cocaine": "PROBLEM"
+    "cocaine": "DRUG"
   },
   {
     "Pulse": "TEST"
@@ -132,6 +132,9 @@
     "S4": "PROBLEM"
   },
   {
+    "Liver is palpable": "PROBLEM"
+  },
+  {
     "clubbing": "PROBLEM"
   },
   {
@@ -159,6 +162,9 @@
     "Lasix": "DRUG"
   },
   {
+    "Lasix": "DRUG"
+  },
+  {
     "hydralazine": "DRUG"
   },
   {
@@ -171,7 +177,10 @@
     "Aldactone": "DRUG"
   },
   {
-    "cocaine": "PROBLEM"
+    "cocaine": "DRUG"
+  },
+  {
+    "cocaine": "DRUG"
   },
   {
     "BMP": "TEST"

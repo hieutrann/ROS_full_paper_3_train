@@ -1,5 +1,8 @@
 [
   {
+    "Physical Exam": "TEST"
+  },
+  {
     "blood pressure": "TEST"
   },
   {
@@ -12,10 +15,13 @@
     "pulse": "TEST"
   },
   {
-    "pupils": "TEST"
+    "Funduscopic examination": "TEST"
   },
   {
-    "Funduscopic examination": "TEST"
+    "Thyroid": "PROBLEM"
+  },
+  {
+    "nodes": "PROBLEM"
   },
   {
     "respiratory rate": "TEST"
@@ -31,9 +37,6 @@
   },
   {
     "secondary muscle use": "PROBLEM"
-  },
-  {
-    "bilateral breath sounds": "TEST"
   },
   {
     "jugular venous distention": "PROBLEM"
@@ -63,7 +66,10 @@
     "Bowel sounds": "TEST"
   },
   {
-    "Obturator and psoas signs": "TEST"
+    "Obturator sign": "TEST"
+  },
+  {
+    "psoas sign": "TEST"
   },
   {
     "bladder tenderness": "PROBLEM"
@@ -75,13 +81,13 @@
     "Glasgow Coma Scale": "TEST"
   },
   {
-    "Cranial nerves II through XII": "TEST"
-  },
-  {
     "motor and cerebellar tests": "TEST"
   },
   {
-    "Reflexes": "TEST"
+    "lymph nodes": "PROBLEM"
+  },
+  {
+    "bleeding": "PROBLEM"
   },
   {
     "skin purpura": "PROBLEM"
@@ -102,12 +108,9 @@
     "jugular venous distention": "PROBLEM"
   },
   {
+    "normal physical exam": "TEST"
+  },
+  {
     "tenderness": "PROBLEM"
-  },
-  {
-    "motor strength": "TEST"
-  },
-  {
-    "reflexes": "TEST"
   }
 ]

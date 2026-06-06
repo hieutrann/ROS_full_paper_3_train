@@ -6,12 +6,6 @@
     "mucous plugging": "PROBLEM"
   },
   {
-    "Foley": "TEST"
-  },
-  {
-    "ileal conduit": "TEST"
-  },
-  {
     "hypertension": "PROBLEM"
   },
   {
@@ -19,15 +13,12 @@
   },
   {
     "anemia": "PROBLEM"
-  },
-  {
-    "pyelonephritis": "PROBLEM"
   },
   {
     "uterine cancer": "PROBLEM"
   },
   {
-    "ileal conduit": "TEST"
+    "Pyelonephritis": "PROBLEM"
   },
   {
     "hypertension": "PROBLEM"
@@ -39,19 +30,19 @@
     "anemia": "PROBLEM"
   },
   {
-    "pyelonephritis": "PROBLEM"
+    "Pyelonephritis": "PROBLEM"
   },
   {
-    "mucous plugging": "PROBLEM"
+    "hypertension": "PROBLEM"
   },
   {
-    "Foley": "TEST"
+    "renal insufficiency": "PROBLEM"
   },
   {
-    "ileal conduit": "TEST"
+    "anemia": "PROBLEM"
   },
   {
-    "renal": "TEST"
+    "Pyelonephritis": "PROBLEM"
   },
   {
     "IV antibiotics": "DRUG"
@@ -60,51 +51,15 @@
     "Klebsiella": "PROBLEM"
   },
   {
-    "urine": "TEST"
-  },
-  {
     "Bactrim": "DRUG"
   },
   {
     "p.o. Bactrim": "DRUG"
   },
   {
-    "surgery": "TREATMENT"
-  },
-  {
     "right knee pain": "PROBLEM"
   },
   {
-    "right knee": "TEST"
-  },
-  {
-    "effusion": "PROBLEM"
-  },
-  {
-    "patellar tendon": "TEST"
-  },
-  {
-    "intraarticular process": "PROBLEM"
-  },
-  {
     "ibuprofen": "DRUG"
-  },
-  {
-    "discharge summary": "TEST"
-  },
-  {
-    "uterine cancer": "PROBLEM"
-  },
-  {
-    "renal insufficiency": "PROBLEM"
-  },
-  {
-    "pyelonephritis": "PROBLEM"
-  },
-  {
-    "mucous plugging": "PROBLEM"
-  },
-  {
-    "ileal conduit": "TEST"
   }
 ]

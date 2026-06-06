@@ -1,15 +1,21 @@
 [
   {
-    "free air": "PROBLEM"
+    "free air under the diaphragm": "PROBLEM"
   },
   {
     "shortness of breath": "PROBLEM"
   },
   {
-    "hyponatremia": "PROBLEM"
+    "obtunded": "PROBLEM"
   },
   {
-    "intra-abdominal pathology": "PROBLEM"
+    "alcohol abuse": "PROBLEM"
+  },
+  {
+    "appendectomy": "TREATMENT"
+  },
+  {
+    "TAH/BSO": "TREATMENT"
   },
   {
     "chest x-ray": "TEST"
@@ -21,12 +27,6 @@
     "Ativan": "DRUG"
   },
   {
-    "appendectomy": "TREATMENT"
-  },
-  {
-    "TAH/BSO": "TREATMENT"
-  },
-  {
-    "admission": "TREATMENT"
+    "hyponatremia": "PROBLEM"
   }
 ]

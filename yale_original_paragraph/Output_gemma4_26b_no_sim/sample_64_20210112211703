@@ -1,6 +1,6 @@
 [
   {
-    "right foot ulcer": "PROBLEM"
+    "foot ulcer": "PROBLEM"
   },
   {
     "osteomyelitis": "PROBLEM"
@@ -27,9 +27,6 @@
     "bone scan": "TEST"
   },
   {
-    "wound care": "TREATMENT"
-  },
-  {
     "wound VAC placement": "TREATMENT"
   },
   {
@@ -51,7 +48,13 @@
     "cerebral palsy": "PROBLEM"
   },
   {
+    "temperature": "TEST"
+  },
+  {
     "pulse": "TEST"
+  },
+  {
+    "respiratory rate": "TEST"
   },
   {
     "blood pressure": "TEST"
@@ -84,13 +87,10 @@
     "Ancef": "DRUG"
   },
   {
-    "deep wound infection": "PROBLEM"
-  },
-  {
     "PICC line": "TREATMENT"
   },
   {
-    "CBC with differential": "TEST"
+    "CBC": "TEST"
   },
   {
     "chemistry 7 panel": "TEST"

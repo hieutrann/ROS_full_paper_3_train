@@ -1,8 +1,5 @@
 [
   {
-    "GI Bleed": "PROBLEM"
-  },
-  {
     "GI bleed": "PROBLEM"
   },
   {
@@ -15,6 +12,9 @@
     "microcytic anemia": "PROBLEM"
   },
   {
+    "GI bleed": "PROBLEM"
+  },
+  {
     "atrial fibrillation": "PROBLEM"
   },
   {
@@ -24,13 +24,16 @@
     "fatigue": "PROBLEM"
   },
   {
+    "CBC": "TEST"
+  },
+  {
     "microcytic anemia": "PROBLEM"
   },
   {
-    "hemoglobin": "TEST"
+    "hemoglobin of 8.9": "TEST"
   },
   {
-    "Stool dark brown, strongly OB positive": "TEST"
+    "OB positive": "TEST"
   },
   {
     "shortness of breath": "PROBLEM"
@@ -63,7 +66,7 @@
     "adenopathy": "PROBLEM"
   },
   {
-    "lower extremity edema": "PROBLEM"
+    "edema": "PROBLEM"
   },
   {
     "upper endoscopy": "TEST"
@@ -85,9 +88,6 @@
   },
   {
     "transfused": "TREATMENT"
-  },
-  {
-    "hemoglobin": "TEST"
   },
   {
     "Upper gastrointestinal bleed": "PROBLEM"
@@ -148,20 +148,5 @@
   },
   {
     "INR": "TEST"
-  },
-  {
-    "gi bleed": "PROBLEM"
-  },
-  {
-    "microcytic anemia": "PROBLEM"
-  },
-  {
-    "cbc": "TEST"
-  },
-  {
-    "endoscopy": "TEST"
-  },
-  {
-    "colonoscopy": "TEST"
   }
 ]

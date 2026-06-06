@@ -1,5 +1,11 @@
 [
   {
+    "Female Exam": "TEST"
+  },
+  {
+    "Multisystem Exam": "TEST"
+  },
+  {
     "afebrile": "PROBLEM"
   },
   {
@@ -30,16 +36,19 @@
     "nose": "PROBLEM"
   },
   {
-    "Hearing": "PROBLEM"
+    "Hearing": "TEST"
   },
   {
-    "oropharynx": "PROBLEM"
+    "mucosa": "PROBLEM"
   },
   {
-    "lesion": "PROBLEM"
+    "palate": "PROBLEM"
   },
   {
-    "tonsil or posterior pharynx": "PROBLEM"
+    "tongue": "PROBLEM"
+  },
+  {
+    "tonsil": "PROBLEM"
   },
   {
     "neck": "PROBLEM"
@@ -48,7 +57,7 @@
     "thyroid gland": "PROBLEM"
   },
   {
-    "respiratory effort": "TEST"
+    "respiratory effort": "PROBLEM"
   },
   {
     "lung": "PROBLEM"
@@ -66,9 +75,6 @@
     "edema": "PROBLEM"
   },
   {
-    "BREASTS": "TEST"
-  },
-  {
     "nipple discharge": "PROBLEM"
   },
   {
@@ -78,25 +84,16 @@
     "axilla": "PROBLEM"
   },
   {
-    "abdomen": "PROBLEM"
+    "enlarged liver": "PROBLEM"
   },
   {
-    "rebound": "PROBLEM"
-  },
-  {
-    "guarding": "PROBLEM"
-  },
-  {
-    "liver": "PROBLEM"
-  },
-  {
-    "spleen": "PROBLEM"
+    "enlarged spleen": "PROBLEM"
   },
   {
     "Bowel sounds": "TEST"
   },
   {
-    "external genitalia": "PROBLEM"
+    "genitalia": "PROBLEM"
   },
   {
     "adnexal masses": "PROBLEM"
@@ -108,69 +105,72 @@
     "uterus": "PROBLEM"
   },
   {
-    "node": "PROBLEM"
+    "lymphatic": "PROBLEM"
   },
   {
-    "head and neck": "PROBLEM"
+    "deformity": "PROBLEM"
   },
   {
-    "extremities": "PROBLEM"
+    "deformity": "PROBLEM"
   },
   {
-    "Range of motion": "TEST"
-  },
-  {
-    "skin": "PROBLEM"
+    "motion": "TEST"
   },
   {
     "skin": "PROBLEM"
+  },
+  {
+    "pink": "PROBLEM"
   },
   {
     "Deep tendon reflexes": "TEST"
   },
   {
-    "patellar": "TEST"
+    "patellar": "PROBLEM"
   },
   {
     "Sensation": "PROBLEM"
   },
   {
-    "oriented to time, place and person": "TEST"
+    "oriented": "TREATMENT"
   },
   {
     "judgment": "PROBLEM"
   },
   {
-    "general medicine": "PROBLEM"
+    "insight": "PROBLEM"
   },
   {
-    "eyes": "PROBLEM"
+    "general medicine": "TREATMENT"
   },
   {
-    "tongue": "PROBLEM"
+    "eyes": "TEST"
   },
   {
-    "heart": "PROBLEM"
+    "tongue": "TEST"
   },
   {
-    "ears": "PROBLEM"
+    "heart": "TEST"
   },
   {
-    "nose": "PROBLEM"
+    "ears": "TEST"
   },
   {
-    "respiratory": "PROBLEM"
+    "nose": "TEST"
   },
   {
-    "extremities": "PROBLEM"
+    "respiratory": "TEST"
   },
   {
-    "breasts": "PROBLEM"
+    "extremities": "TEST"
   },
   {
-    "oropharynx": "PROBLEM"
+    "breasts": "TEST"
   },
   {
-    "neck": "PROBLEM"
+    "oropharynx": "TEST"
+  },
+  {
+    "neck": "TEST"
   }
 ]

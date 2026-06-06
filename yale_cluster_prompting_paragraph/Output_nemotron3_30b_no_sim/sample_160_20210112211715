@@ -1,0 +1,95 @@
+[
+  {
+    "Acute cholecystitis": "PROBLEM"
+  },
+  {
+    "Status post laparoscopic cholecystectomy": "PROBLEM"
+  },
+  {
+    "End-stage renal disease": "PROBLEM"
+  },
+  {
+    "Hemodialysis": "TREATMENT"
+  },
+  {
+    "Hyperlipidemia": "PROBLEM"
+  },
+  {
+    "Hypertension": "PROBLEM"
+  },
+  {
+    "Congestive heart failure": "PROBLEM"
+  },
+  {
+    "Skin lymphoma": "PROBLEM"
+  },
+  {
+    "Hypothyroidism": "PROBLEM"
+  },
+  {
+    "IV fluid": "TREATMENT"
+  },
+  {
+    "low-dose IV antibiotic": "TREATMENT"
+  },
+  {
+    "2-D echocardiogram": "TEST"
+  },
+  {
+    "EKG": "TEST"
+  },
+  {
+    "Ultrasound of the abdomen": "TEST"
+  },
+  {
+    "Cholecystitis": "PROBLEM"
+  },
+  {
+    "IV antibiotic": "TREATMENT"
+  },
+  {
+    "Blood culture": "TEST"
+  },
+  {
+    "Urine culture": "TEST"
+  },
+  {
+    "CHF": "PROBLEM"
+  },
+  {
+    "Dialysis": "TREATMENT"
+  },
+  {
+    "Coreg": "DRUG"
+  },
+  {
+    "Synthroid": "DRUG"
+  },
+  {
+    "Plavix": "DRUG"
+  },
+  {
+    "Folic acid": "DRUG"
+  },
+  {
+    "Diovan": "DRUG"
+  },
+  {
+    "Renagel": "DRUG"
+  },
+  {
+    "Lasix": "DRUG"
+  },
+  {
+    "Lovastatin": "DRUG"
+  },
+  {
+    "Vicodin": "DRUG"
+  },
+  {
+    "Levaquin": "DRUG"
+  },
+  {
+    "Premarin": "DRUG"
+  }
+]

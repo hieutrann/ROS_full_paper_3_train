@@ -27,7 +27,7 @@
     "vomiting": "PROBLEM"
   },
   {
-    "weight": "TEST"
+    "weight loss": "PROBLEM"
   },
   {
     "autistic spectrum disorder": "PROBLEM"
@@ -66,7 +66,7 @@
     "Urinalysis": "TEST"
   },
   {
-    "sodium": "TEST"
+    "Sodium": "TEST"
   },
   {
     "potassium": "TEST"
@@ -123,12 +123,18 @@
     "regular diet": "TREATMENT"
   },
   {
-    "blood pressure": "TEST"
+    "blood pressure": "PROBLEM"
   },
   {
     "hypertension": "PROBLEM"
   },
   {
     "Graves disease": "PROBLEM"
+  },
+  {
+    "Adderall": "DRUG"
+  },
+  {
+    "clonidine": "DRUG"
   }
 ]

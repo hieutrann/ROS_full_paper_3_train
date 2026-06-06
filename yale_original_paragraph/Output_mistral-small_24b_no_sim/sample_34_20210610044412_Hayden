@@ -1,5 +1,8 @@
 [
   {
+    "Physical Exam": "TEST"
+  },
+  {
     "blood pressure": "TEST"
   },
   {
@@ -12,49 +15,10 @@
     "pulse": "TEST"
   },
   {
-    "pupils": "TEST"
-  },
-  {
     "Funduscopic examination": "TEST"
   },
   {
-    "posterior pharynx": "TEST"
-  },
-  {
     "Tympanic membranes": "TEST"
-  },
-  {
-    "Trachea": "TEST"
-  },
-  {
-    "Thyroid": "TEST"
-  },
-  {
-    "neck": "TEST"
-  },
-  {
-    "nodes": "TEST"
-  },
-  {
-    "Lungs": "TEST"
-  },
-  {
-    "respiratory rate": "TEST"
-  },
-  {
-    "consolidation": "PROBLEM"
-  },
-  {
-    "egophony": "TEST"
-  },
-  {
-    "retractions": "PROBLEM"
-  },
-  {
-    "secondary muscle use": "PROBLEM"
-  },
-  {
-    "breath sounds": "TEST"
   },
   {
     "jugular venous distention": "PROBLEM"
@@ -63,22 +27,10 @@
     "carotid bruits": "PROBLEM"
   },
   {
-    "heart size": "TEST"
-  },
-  {
     "murmur": "PROBLEM"
   },
   {
-    "S1": "TEST"
-  },
-  {
-    "S2": "TEST"
-  },
-  {
     "gallop": "PROBLEM"
-  },
-  {
-    "abdomen": "TEST"
   },
   {
     "organomegaly": "PROBLEM"
@@ -87,22 +39,16 @@
     "rebound tenderness": "PROBLEM"
   },
   {
-    "bowel sounds": "TEST"
+    "Obturator": "PROBLEM"
   },
   {
-    "Obturator": "TEST"
-  },
-  {
-    "psoas": "TEST"
+    "psoas": "PROBLEM"
   },
   {
     "bladder tenderness": "PROBLEM"
   },
   {
     "flank pain": "PROBLEM"
-  },
-  {
-    "extremities": "TEST"
   },
   {
     "motor tone": "TEST"
@@ -132,7 +78,7 @@
     "cerebellar tests": "TEST"
   },
   {
-    "HEME/LYMPH": "TEST"
+    "reflexes": "TEST"
   },
   {
     "lymph nodes": "TEST"
@@ -148,9 +94,6 @@
   },
   {
     "hemorrhage": "PROBLEM"
-  },
-  {
-    "PSYCHIATRIC": "TEST"
   },
   {
     "depression": "PROBLEM"

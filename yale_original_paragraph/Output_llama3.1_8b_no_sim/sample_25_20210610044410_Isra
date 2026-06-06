@@ -30,16 +30,7 @@
     "cataracts": "PROBLEM"
   },
   {
-    "Normal set and shape": "TEST"
-  },
-  {
-    "Normal hearing": "TEST"
-  },
-  {
-    "Normal TMs": "TEST"
-  },
-  {
-    "Unremarkable": "TEST"
+    "dental work": "TREATMENT"
   },
   {
     "carotid bruit": "PROBLEM"
@@ -54,19 +45,7 @@
     "stridor": "PROBLEM"
   },
   {
-    "shift": "PROBLEM"
-  },
-  {
     "subcutaneous emphysema": "PROBLEM"
-  },
-  {
-    "nondisplaced": "TEST"
-  },
-  {
-    "axillary or supraclavicular adenopathy": "PROBLEM"
-  },
-  {
-    "Normal male breast tissue": "TEST"
   },
   {
     "hepatosplenomegaly": "PROBLEM"
@@ -87,93 +66,81 @@
     "guarding": "PROBLEM"
   },
   {
-    "aortic impulse": "TEST"
+    "aortic impulse": "PROBLEM"
   },
   {
     "intraabdominal bruit": "PROBLEM"
   },
   {
-    "Normal for age": "TEST"
+    "hernia": "PROBLEM"
   },
   {
-    "Normal penis": "TEST"
-  },
-  {
-    "bilaterally descended testes": "TEST"
-  },
-  {
-    "Hemoccult-negative": "TEST"
-  },
-  {
-    "normal-sized prostate": "TEST"
-  },
-  {
-    "nodularity": "PROBLEM"
-  },
-  {
-    "tenderness": "PROBLEM"
+    "hydrocele": "PROBLEM"
   },
   {
     "rectal masses": "PROBLEM"
   },
   {
-    "edema": "PROBLEM"
-  },
-  {
-    "cyanosis": "PROBLEM"
+    "deep venous thrombosis": "PROBLEM"
   },
   {
     "clubbing": "PROBLEM"
   },
   {
-    "deep venous thrombosis": "PROBLEM"
+    "cyanosis": "PROBLEM"
   },
   {
-    "creases of the palms and soles": "TEST"
-  },
-  {
-    "Good active and passive range of motion": "TEST"
-  },
-  {
-    "spinous process tenderness": "PROBLEM"
+    "edema": "PROBLEM"
   },
   {
     "CVA tenderness": "PROBLEM"
   },
   {
-    "straight-leg raising": "TEST"
+    "spinous process tenderness": "PROBLEM"
   },
   {
-    "Kernig": "TEST"
+    "Kernig": "PROBLEM"
   },
   {
-    "Brudzinski": "TEST"
+    "Brudzinski": "PROBLEM"
   },
   {
-    "cranial and peripheral nervous systems": "TEST"
+    "cranial and peripheral nervous systems": "PROBLEM"
   },
   {
-    "strength": "TEST"
+    "cerebellar function": "PROBLEM"
   },
   {
-    "sensation": "TEST"
+    "speech": "PROBLEM"
   },
   {
-    "cerebellar function": "TEST"
+    "thought process": "PROBLEM"
   },
   {
-    "Affect is normal": "TEST"
+    "gait": "PROBLEM"
   },
   {
-    "Speech is clear and fluent": "TEST"
+    "station": "PROBLEM"
   },
   {
-    "Thought process is lucid and rational": "TEST"
+    "digital palpation": "TEST"
   },
   {
-    "Gait and station are unremarkable": "TEST"
+    "Hemoccult-negative": "TEST"
   },
   {
-    "premalignant or malignant condition": "PROBLEM"
+    "general medicine": "TREATMENT"
+  },
+  {
+    "palpation": "TEST"
+  },
+  {
+    "male": "TREATMENT"
+  },
+  {
+    "tenderness": "PROBLEM"
+  },
+  {
+    "tongue": "PROBLEM"
   }
 ]

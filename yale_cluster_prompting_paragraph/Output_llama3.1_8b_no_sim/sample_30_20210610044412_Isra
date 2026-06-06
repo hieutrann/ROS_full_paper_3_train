@@ -1,236 +1,203 @@
 [
   {
-    "Normal Physical Exam Template": "TEST"
+    "acute distress": "PROBLEM"
   },
   {
-    "General Medicine": "TEST"
+    "lesions": "PROBLEM"
   },
   {
-    "GCS": "TEST"
+    "erythema": "PROBLEM"
+  },
+  {
+    "hemorrhages": "PROBLEM"
+  },
+  {
+    "discopathy": "PROBLEM"
+  },
+  {
+    "tympanic membranes": "TEST"
+  },
+  {
+    "funduscopic exam": "TEST"
   },
   {
     "pulse oximetry": "TEST"
   },
   {
-    "Funduscopic exam": "TEST"
+    "GCS": "TEST"
   },
   {
-    "Pupils": "TEST"
+    "blood pressure": "TEST"
   },
   {
-    "Irises": "TEST"
+    "pulse": "TEST"
   },
   {
-    "Ears": "TEST"
+    "respirations": "TEST"
   },
   {
-    "Nares": "TEST"
+    "temperature": "TEST"
   },
   {
-    "Tympanic membranes": "TEST"
+    "pupils": "TEST"
   },
   {
-    "Hearing": "TEST"
+    "irises": "TEST"
   },
   {
-    "Lips": "TEST"
+    "funduscopic": "TEST"
   },
   {
-    "Teeth": "TEST"
+    "tympanic membranes": "TEST"
   },
   {
-    "Gums": "TEST"
+    "hearing": "TEST"
   },
   {
-    "Palate": "TEST"
+    "lips": "TEST"
   },
   {
-    "Posterior oropharynx": "TEST"
+    "teeth": "TEST"
   },
   {
-    "Thyroid": "TEST"
+    "gums": "TEST"
+  },
+  {
+    "palate": "TEST"
+  },
+  {
+    "posterior oropharynx": "TEST"
+  },
+  {
+    "tonsillar enlargement": "TEST"
+  },
+  {
+    "crypt formation": "TEST"
+  },
+  {
+    "abscess": "TEST"
+  },
+  {
+    "neck": "TEST"
+  },
+  {
+    "thyroid": "TEST"
   },
   {
     "JVD": "TEST"
   },
   {
-    "Cardiac palpation": "TEST"
+    "cardiac palpation": "TEST"
   },
   {
-    "Pulses": "TEST"
+    "pulses": "TEST"
   },
   {
-    "Femoral and pedal pulses": "TEST"
+    "femoral": "TEST"
   },
   {
-    "Peripheral edema": "TEST"
+    "pedal": "TEST"
   },
   {
-    "Hepatosplenomegaly": "TEST"
+    "peripheral edema": "TEST"
   },
   {
-    "Hernia": "TEST"
+    "tenderness": "TEST"
   },
   {
-    "Bowel sounds": "TEST"
+    "hepatosplenomegaly": "TEST"
   },
   {
-    "Abdomen": "TEST"
+    "hernia": "TEST"
   },
   {
-    "Rebound": "TEST"
+    "bowel sounds": "TEST"
   },
   {
-    "Guarding": "TEST"
+    "abdomen": "TEST"
   },
   {
-    "Rigidity": "TEST"
+    "rebound": "TEST"
   },
   {
-    "Ecchymosis": "TEST"
+    "guarding": "TEST"
   },
   {
-    "Gait": "TEST"
+    "rigidity": "TEST"
   },
   {
-    "Station": "TEST"
+    "ecchymosis": "TEST"
   },
   {
-    "Digits": "TEST"
+    "gait": "TEST"
   },
   {
-    "Nails": "TEST"
+    "station": "TEST"
   },
   {
-    "Extremities": "TEST"
+    "digits": "TEST"
   },
   {
-    "Tenderness": "TEST"
+    "nails": "TEST"
   },
   {
-    "Effusion": "TEST"
+    "extremities": "TEST"
   },
   {
-    "Range of motion": "TEST"
+    "tenderness": "TEST"
   },
   {
-    "Strength": "TEST"
+    "effusion": "TEST"
   },
   {
-    "Tone": "TEST"
+    "range of motion": "TEST"
   },
   {
-    "Back": "TEST"
+    "strength": "TEST"
   },
   {
-    "Flexion": "TEST"
+    "tone": "TEST"
   },
   {
-    "Extension": "TEST"
+    "back": "TEST"
   },
   {
-    "Sidebending": "TEST"
+    "midline": "TEST"
   },
   {
-    "Skin": "TEST"
-  },
-  {
-    "Hydration": "TEST"
-  },
-  {
-    "Diaphoresis": "TEST"
-  },
-  {
-    "Wound": "TEST"
-  },
-  {
-    "LYMPH": "TEST"
-  },
-  {
-    "Cervical lymph nodes": "TEST"
-  },
-  {
-    "Lymphadenopathy": "TEST"
-  },
-  {
-    "Cranial nerves": "TEST"
+    "cranial nerves": "TEST"
   },
   {
     "DTRs": "TEST"
   },
   {
-    "Motor strength": "TEST"
+    "motor strength": "TEST"
   },
   {
-    "Straight leg raise": "TEST"
+    "straight leg raise": "TEST"
   },
   {
-    "Judgment": "TEST"
+    "judgment": "TEST"
   },
   {
-    "Insight": "TEST"
+    "insight": "TEST"
   },
   {
-    "Alert": "TEST"
+    "memory": "TEST"
   },
   {
-    "Oriented": "TEST"
+    "mood": "TEST"
   },
   {
-    "Memory": "TEST"
+    "delusions": "TEST"
   },
   {
-    "Mood": "TEST"
+    "hallucinations": "TEST"
   },
   {
-    "Delusions": "TEST"
+    "suicidal ideation": "TEST"
   },
   {
-    "Hallucinations": "TEST"
-  },
-  {
-    "Suicidal ideation": "TEST"
-  },
-  {
-    "Homicidal ideation": "TEST"
-  },
-  {
-    "General Medicine": "PROBLEM"
-  },
-  {
-    "Respiratory": "PROBLEM"
-  },
-  {
-    "Abdomen": "PROBLEM"
-  },
-  {
-    "Pulses": "PROBLEM"
-  },
-  {
-    "Tenderness": "PROBLEM"
-  },
-  {
-    "Strength": "PROBLEM"
-  },
-  {
-    "Lymph": "PROBLEM"
-  },
-  {
-    "Extremity": "PROBLEM"
-  },
-  {
-    "Midline": "PROBLEM"
-  },
-  {
-    "Range": "PROBLEM"
-  },
-  {
-    "Motion": "PROBLEM"
-  },
-  {
-    "Lesions": "PROBLEM"
-  },
-  {
-    "Symmetrical": "PROBLEM"
+    "homicidal ideation": "TEST"
   }
 ]

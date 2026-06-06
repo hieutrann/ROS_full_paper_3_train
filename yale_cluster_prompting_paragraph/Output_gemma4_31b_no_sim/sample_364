@@ -9,9 +9,6 @@
     "breast exam": "TEST"
   },
   {
-    "complete physical": "TEST"
-  },
-  {
     "Pap smear": "TEST"
   },
   {
@@ -81,40 +78,10 @@
     "Colace": "DRUG"
   },
   {
-    "Vital Signs": "TEST"
-  },
-  {
-    "Blood pressure": "TEST"
-  },
-  {
-    "Pulse": "TEST"
-  },
-  {
-    "Respirations": "TEST"
-  },
-  {
-    "Temperature": "TEST"
-  },
-  {
     "lymphadenopathy": "PROBLEM"
   },
   {
     "thyromegaly": "PROBLEM"
-  },
-  {
-    "nipple discharge": "PROBLEM"
-  },
-  {
-    "lumps or masses": "PROBLEM"
-  },
-  {
-    "dimpling of the skin": "PROBLEM"
-  },
-  {
-    "axillary lymph nodes": "PROBLEM"
-  },
-  {
-    "Self-breast exam": "TEST"
   },
   {
     "Atrophic vaginal mucosa": "PROBLEM"
@@ -129,12 +96,6 @@
     "adnexal tenderness": "PROBLEM"
   },
   {
-    "masses palpated": "PROBLEM"
-  },
-  {
-    "rectal masses": "PROBLEM"
-  },
-  {
     "cyanosis": "PROBLEM"
   },
   {
@@ -144,7 +105,7 @@
     "edema": "PROBLEM"
   },
   {
-    "rheumatoid arthritis of her hands": "PROBLEM"
+    "rheumatoid arthritis": "PROBLEM"
   },
   {
     "Chest pain": "PROBLEM"

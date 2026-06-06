@@ -15,9 +15,6 @@
     "coronary artery disease": "PROBLEM"
   },
   {
-    "cardiac workup": "TEST"
-  },
-  {
     "drug screen": "TEST"
   },
   {
@@ -90,7 +87,7 @@
     "Elavil": "DRUG"
   },
   {
-    "nitroglycerin sublingual": "DRUG"
+    "nitroglycerin": "DRUG"
   },
   {
     "Thorazine": "DRUG"
@@ -111,9 +108,6 @@
     "illicit drug abuse": "PROBLEM"
   },
   {
-    "VITAL SIGNS": "TEST"
-  },
-  {
     "blood pressure": "TEST"
   },
   {
@@ -130,6 +124,9 @@
   },
   {
     "lymphadenopathy": "PROBLEM"
+  },
+  {
+    "Bowel sounds": "TEST"
   },
   {
     "edema": "PROBLEM"
@@ -217,26 +214,5 @@
   },
   {
     "Migraine headaches": "PROBLEM"
-  },
-  {
-    "acute coronary syndrome": "PROBLEM"
-  },
-  {
-    "psychosomatic": "PROBLEM"
-  },
-  {
-    "coronary artery disease": "PROBLEM"
-  },
-  {
-    "chest tightness": "PROBLEM"
-  },
-  {
-    "psychological disorders": "PROBLEM"
-  },
-  {
-    "supraventricular tachycardia": "PROBLEM"
-  },
-  {
-    "headaches": "PROBLEM"
   }
 ]

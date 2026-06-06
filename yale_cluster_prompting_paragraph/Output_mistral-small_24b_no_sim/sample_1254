@@ -1,0 +1,38 @@
+[
+  {
+    "Abscess": "PROBLEM"
+  },
+  {
+    "cellulitis": "PROBLEM"
+  },
+  {
+    "Incision and drainage": "TREATMENT"
+  },
+  {
+    "culture and sensitivity": "TEST"
+  },
+  {
+    "Ancef": "DRUG"
+  },
+  {
+    "vancomycin": "DRUG"
+  },
+  {
+    "Aquacel Ag": "TREATMENT"
+  },
+  {
+    "Lorcet": "DRUG"
+  },
+  {
+    "Ancef": "DRUG"
+  },
+  {
+    "White blood cell count": "TEST"
+  },
+  {
+    "X-ray": "TEST"
+  },
+  {
+    "osteomyelitis": "PROBLEM"
+  }
+]

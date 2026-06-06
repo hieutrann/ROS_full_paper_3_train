@@ -1,24 +1,27 @@
 [
   {
-    "Hysteroscopy": "TREATMENT"
+    "Hysteroscopy": "TEST"
   },
   {
-    "dilatation and curettage (D&C)": "TREATMENT"
+    "dilatation and curettage": "TREATMENT"
+  },
+  {
+    "D&C": "TREATMENT"
   },
   {
     "myomectomy": "TREATMENT"
   },
   {
-    "Severe menometrorrhagia": "PROBLEM"
+    "menometrorrhagia": "PROBLEM"
   },
   {
-    "severe anemia": "PROBLEM"
+    "anemia": "PROBLEM"
   },
   {
     "fibroid uterus": "PROBLEM"
   },
   {
-    "Severe menometrorrhagia": "PROBLEM"
+    "menometrorrhagia": "PROBLEM"
   },
   {
     "Severe anemia": "PROBLEM"
@@ -27,7 +30,7 @@
     "Fibroid uterus": "PROBLEM"
   },
   {
-    "Severe menometrorrhagia": "PROBLEM"
+    "menometrorrhagia": "PROBLEM"
   },
   {
     "Severe anemia": "PROBLEM"
@@ -54,10 +57,7 @@
     "excision": "TREATMENT"
   },
   {
-    "BLOOD TRANSFUSIONS": "TREATMENT"
-  },
-  {
-    "packed red blood cells": "TREATMENT"
+    "packed red blood cells": "DRUG"
   },
   {
     "hematocrit": "TEST"
@@ -75,13 +75,13 @@
     "endometrial cavity fibroid": "PROBLEM"
   },
   {
-    "fibroid": "PROBLEM"
-  },
-  {
     "shaving": "TREATMENT"
   },
   {
     "excision": "TREATMENT"
+  },
+  {
+    "fibroid": "PROBLEM"
   },
   {
     "removal": "TREATMENT"
@@ -108,10 +108,16 @@
     "pain": "PROBLEM"
   },
   {
-    "multiple vitamin 1 tab p.o.": "DRUG"
+    "multiple vitamin 1 tab p.o.": "TREATMENT"
   },
   {
     "ferrous sulfate": "DRUG"
+  },
+  {
+    "ferrous sulfate tablets": "DRUG"
+  },
+  {
+    "d&c": "TREATMENT"
   },
   {
     "fibroid uterus": "PROBLEM"

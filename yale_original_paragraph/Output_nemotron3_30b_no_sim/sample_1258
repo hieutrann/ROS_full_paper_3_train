@@ -1,0 +1,47 @@
+[
+  {
+    "contusions": "PROBLEM"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "motor vehicle accident": "PROBLEM"
+  },
+  {
+    "motor vehicle collision": "PROBLEM"
+  },
+  {
+    "CT scan": "TEST"
+  },
+  {
+    "CT scan of the cervical spine": "TEST"
+  },
+  {
+    "CT scan of the brain": "TEST"
+  },
+  {
+    "CT scan with contrast": "TEST"
+  },
+  {
+    "abdominal CT scan": "TEST"
+  },
+  {
+    "CBC": "TEST"
+  },
+  {
+    "urine pregnancy test": "TEST"
+  },
+  {
+    "urinalysis": "TEST"
+  },
+  {
+    "Tylenol": "DRUG"
+  },
+  {
+    "Vicodin": "DRUG"
+  },
+  {
+    "Flexeril": "DRUG"
+  }
+]

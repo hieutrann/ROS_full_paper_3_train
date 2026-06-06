@@ -27,24 +27,6 @@
     "hepatitis C": "PROBLEM"
   },
   {
-    "Nonischemic cardiomyopathy": "PROBLEM"
-  },
-  {
-    "Branch vessel coronary artery disease": "PROBLEM"
-  },
-  {
-    "Congestive heart failure, NYHA Class III": "PROBLEM"
-  },
-  {
-    "History of nonsustained ventricular tachycardia": "PROBLEM"
-  },
-  {
-    "Hypertension": "PROBLEM"
-  },
-  {
-    "Hepatitis C": "PROBLEM"
-  },
-  {
     "CHF exacerbation": "PROBLEM"
   },
   {
@@ -84,16 +66,7 @@
     "seizure": "PROBLEM"
   },
   {
-    "syncope": "PROBLEM"
-  },
-  {
     "cocaine": "PROBLEM"
-  },
-  {
-    "VITAL SIGNS": "TEST"
-  },
-  {
-    "blood pressure": "TEST"
   },
   {
     "pallor": "PROBLEM"
@@ -108,31 +81,22 @@
     "Jugular venous distention": "PROBLEM"
   },
   {
+    "thyromegaly": "PROBLEM"
+  },
+  {
     "rales": "PROBLEM"
   },
   {
     "rhonchi": "PROBLEM"
   },
   {
-    "Pulse ox": "TEST"
+    "clubbing": "PROBLEM"
   },
   {
     "edema": "PROBLEM"
   },
   {
-    "hypertension": "PROBLEM"
-  },
-  {
-    "nonischemic cardiomyopathy": "PROBLEM"
-  },
-  {
-    "branch vessel coronary artery disease": "PROBLEM"
-  },
-  {
     "volume overload": "PROBLEM"
-  },
-  {
-    "Lasix": "DRUG"
   },
   {
     "Lasix": "DRUG"
@@ -150,13 +114,7 @@
     "Aldactone": "DRUG"
   },
   {
-    "cocaine": "PROBLEM"
-  },
-  {
     "BMP": "TEST"
-  },
-  {
-    "blood pressure": "TEST"
   },
   {
     "fasting lipid profile": "TEST"

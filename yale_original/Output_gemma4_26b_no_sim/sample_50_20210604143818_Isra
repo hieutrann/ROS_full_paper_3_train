@@ -1,6 +1,6 @@
 [
   {
-    "Abdominal Pain": "PROBLEM"
+    "abdominal pain": "PROBLEM"
   },
   {
     "Abdominal pain": "PROBLEM"
@@ -10,6 +10,9 @@
   },
   {
     "CT scan": "TEST"
+  },
+  {
+    "antibiotics": "DRUG"
   },
   {
     "Cipro": "DRUG"
@@ -75,7 +78,7 @@
     "hysterectomy": "TREATMENT"
   },
   {
-    "grade 4 bladder prolapse": "PROBLEM"
+    "bladder prolapse": "PROBLEM"
   },
   {
     "MACRODANTIN": "DRUG"
@@ -90,16 +93,13 @@
     "shortness of breath": "PROBLEM"
   },
   {
-    "VITAL SIGNS": "TEST"
-  },
-  {
     "temperature": "TEST"
   },
   {
-    "HEART": "TEST"
+    "tender": "PROBLEM"
   },
   {
-    "focally tender in the left lower quadrant": "PROBLEM"
+    "left lower quadrant": "PROBLEM"
   },
   {
     "palpable fullness": "PROBLEM"
@@ -120,7 +120,7 @@
     "left flank tenderness": "PROBLEM"
   },
   {
-    "grade 4 urinary bladder prolapse": "PROBLEM"
+    "urinary bladder prolapse": "PROBLEM"
   },
   {
     "White blood cell count": "TEST"
@@ -159,7 +159,7 @@
     "abdominal pain": "PROBLEM"
   },
   {
-    "nonacute abdomen": "PROBLEM"
+    "abdomen": "PROBLEM"
   },
   {
     "sigmoid diverticulitis": "PROBLEM"
@@ -168,13 +168,22 @@
     "sigmoid diverticulitis": "PROBLEM"
   },
   {
-    "CT scan of the abdomen and pelvis": "TEST"
+    "CT scan": "TEST"
+  },
+  {
+    "abdomen": "PROBLEM"
+  },
+  {
+    "pelvis": "PROBLEM"
   },
   {
     "nothing by mouth": "TREATMENT"
   },
   {
     "colonoscopy": "TEST"
+  },
+  {
+    "nothing by mouth": "TREATMENT"
   },
   {
     "abdominal pain": "PROBLEM"

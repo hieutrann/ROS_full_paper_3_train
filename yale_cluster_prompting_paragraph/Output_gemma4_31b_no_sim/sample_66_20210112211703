@@ -6,12 +6,6 @@
     "lower extremity cellulitis": "PROBLEM"
   },
   {
-    "antibiotic therapy": "TREATMENT"
-  },
-  {
-    "lower extremity cellulitis": "PROBLEM"
-  },
-  {
     "morbid obesity": "PROBLEM"
   },
   {
@@ -30,9 +24,6 @@
     "ciprofloxacin": "DRUG"
   },
   {
-    "lymphedema": "PROBLEM"
-  },
-  {
     "lymphedema management": "TREATMENT"
   },
   {
@@ -42,16 +33,7 @@
     "erythema": "PROBLEM"
   },
   {
-    "lymphedema wraps": "TREATMENT"
-  },
-  {
     "lower extremity cellulitis": "PROBLEM"
-  },
-  {
-    "antibiotic therapy": "TREATMENT"
-  },
-  {
-    "morbid obesity": "PROBLEM"
   },
   {
     "chronic lymphedema of the lower extremities": "PROBLEM"
@@ -87,7 +69,7 @@
     "ADHESIVE TAPE ALLERGIES": "PROBLEM"
   },
   {
-    "nonresolving bilateral lower extremity lymphedema": "PROBLEM"
+    "bilateral lower extremity lymphedema": "PROBLEM"
   },
   {
     "nausea": "PROBLEM"
@@ -126,28 +108,10 @@
     "lymphadenopathy": "PROBLEM"
   },
   {
-    "murmur": "PROBLEM"
-  },
-  {
-    "rub": "PROBLEM"
-  },
-  {
-    "gallop": "PROBLEM"
-  },
-  {
-    "Morbidly obese": "PROBLEM"
-  },
-  {
     "organomegaly": "PROBLEM"
   },
   {
-    "lymphedema": "PROBLEM"
-  },
-  {
     "cutaneous candidiasis": "PROBLEM"
-  },
-  {
-    "lymphadenopathy": "PROBLEM"
   },
   {
     "lymphedema": "PROBLEM"
@@ -159,22 +123,7 @@
     "stasis dermatosis": "PROBLEM"
   },
   {
-    "warmth": "PROBLEM"
-  },
-  {
-    "tenderness": "PROBLEM"
-  },
-  {
-    "skin breakdown": "PROBLEM"
-  },
-  {
     "stage II chronic ulcer": "PROBLEM"
-  },
-  {
-    "serosanguineous drainage": "PROBLEM"
-  },
-  {
-    "erythema": "PROBLEM"
   },
   {
     "cellulitis": "PROBLEM"
@@ -189,7 +138,7 @@
     "clubbing": "PROBLEM"
   },
   {
-    "peripheral stigmata of endocarditis": "PROBLEM"
+    "endocarditis": "PROBLEM"
   },
   {
     "White cell count": "TEST"
@@ -252,45 +201,15 @@
     "nitrites": "PROBLEM"
   },
   {
-    "morbid obesity": "PROBLEM"
-  },
-  {
-    "chronic lower extremity lymphedema": "PROBLEM"
-  },
-  {
-    "bilateral lower extremity lymphedema": "PROBLEM"
-  },
-  {
-    "cellulitis": "PROBLEM"
+    "active cellulitis": "PROBLEM"
   },
   {
     "wound infection": "PROBLEM"
   },
   {
-    "cellulitis": "PROBLEM"
-  },
-  {
-    "antibiotic therapy": "TREATMENT"
-  },
-  {
     "lymphedema wraps": "TREATMENT"
-  },
-  {
-    "lymphedema wraps": "TREATMENT"
-  },
-  {
-    "cellulitis": "PROBLEM"
-  },
-  {
-    "antibiotic therapy": "TREATMENT"
-  },
-  {
-    "stage II ulcer": "PROBLEM"
   },
   {
     "wound care": "TREATMENT"
-  },
-  {
-    "lymphedema wraps": "TREATMENT"
   }
 ]

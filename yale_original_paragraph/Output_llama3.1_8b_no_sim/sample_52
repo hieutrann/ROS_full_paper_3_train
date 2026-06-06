@@ -12,7 +12,16 @@
     "cough": "PROBLEM"
   },
   {
+    "expectoration": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
     "atrial fibrillation": "PROBLEM"
+  },
+  {
+    "myocardial infarction": "PROBLEM"
   },
   {
     "ischemic heart disease": "PROBLEM"
@@ -21,10 +30,13 @@
     "end-stage LV systolic dysfunction": "PROBLEM"
   },
   {
-    "ICD implantation": "TREATMENT"
+    "status post ICD implantation": "TREATMENT"
   },
   {
     "Coumadin": "DRUG"
+  },
+  {
+    "Ambien": "DRUG"
   },
   {
     "Diovan": "DRUG"
@@ -45,10 +57,7 @@
     "Flovent": "DRUG"
   },
   {
-    "Ambien": "DRUG"
-  },
-  {
-    "Vital Signs": "TEST"
+    "Fasting blood sugar": "TEST"
   },
   {
     "Blood pressure": "TEST"
@@ -63,27 +72,6 @@
     "Weight": "TEST"
   },
   {
-    "Fasting blood sugar": "TEST"
-  },
-  {
-    "Cardiovascular": "TEST"
-  },
-  {
-    "Lungs": "TEST"
-  },
-  {
-    "PMI": "TEST"
-  },
-  {
-    "First and second heart sounds": "TEST"
-  },
-  {
-    "systolic murmur": "TEST"
-  },
-  {
-    "Hepatosplenomegaly": "PROBLEM"
-  },
-  {
-    "pedal edema": "PROBLEM"
+    "Vital Signs": "TEST"
   }
 ]

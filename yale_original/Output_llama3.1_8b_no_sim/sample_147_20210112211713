@@ -6,10 +6,13 @@
     "shortness of breath": "PROBLEM"
   },
   {
-    "free air under the right diaphragm": "PROBLEM"
+    "chest x-ray": "TEST"
   },
   {
-    "chest x-ray": "TEST"
+    "free air": "PROBLEM"
+  },
+  {
+    "diaphragm": "PROBLEM"
   },
   {
     "intra-abdominal pathology": "PROBLEM"
@@ -27,10 +30,13 @@
     "shortness of breath": "PROBLEM"
   },
   {
-    "free air under the right diaphragm": "PROBLEM"
+    "chest x-ray": "TEST"
   },
   {
-    "chest x-ray": "TEST"
+    "free air": "PROBLEM"
+  },
+  {
+    "diaphragm": "PROBLEM"
   },
   {
     "alcohol abuse": "PROBLEM"
@@ -42,10 +48,10 @@
     "appendectomy": "TREATMENT"
   },
   {
-    "TAH/BSO": "TREATMENT"
+    "hip fracture": "PROBLEM"
   },
   {
-    "right hip fracture": "PROBLEM"
+    "TAH/BSO": "TREATMENT"
   },
   {
     "MEDICATIONS": "DRUG"
@@ -57,7 +63,7 @@
     "alcohol abuse": "PROBLEM"
   },
   {
-    "REVIEW OF SYSTEMS": "TEST"
+    "Unable to obtain": "PROBLEM"
   },
   {
     "Temp": "TEST"
@@ -75,7 +81,7 @@
     "obtunded": "PROBLEM"
   },
   {
-    "HEENT": "TEST"
+    "Atraumatic": "PROBLEM"
   },
   {
     "Soft and supple": "TEST"
@@ -87,7 +93,7 @@
     "HEART": "TEST"
   },
   {
-    "ABDOMEN": "PROBLEM"
+    "palpation": "TEST"
   },
   {
     "tenderness": "PROBLEM"
@@ -151,6 +157,9 @@
   },
   {
     "intra abdominal pathology": "PROBLEM"
+  },
+  {
+    "abdominal pathology": "PROBLEM"
   },
   {
     "obtunded": "PROBLEM"

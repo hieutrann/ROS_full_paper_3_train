@@ -1,12 +1,15 @@
 [
   {
-    "Surgery": "TREATMENT"
-  },
-  {
     "Liver Biopsy": "TEST"
   },
   {
     "Percutaneous liver biopsy": "TEST"
+  },
+  {
+    "dullness": "PROBLEM"
+  },
+  {
+    "percussion": "TEST"
   },
   {
     "Percutaneous liver biopsy": "TEST"
@@ -39,13 +42,19 @@
     "death": "PROBLEM"
   },
   {
+    "dullness": "PROBLEM"
+  },
+  {
+    "percussion": "TEST"
+  },
+  {
     "povidone iodine": "DRUG"
   },
   {
-    "2% lidocaine": "DRUG"
+    "lidocaine": "DRUG"
   },
   {
-    "Liver cores": "TEST"
+    "liver biopsy": "TEST"
   },
   {
     "histologic study": "TEST"
@@ -63,13 +72,16 @@
     "light-headedness": "PROBLEM"
   },
   {
+    "unusual symptoms": "PROBLEM"
+  },
+  {
     "liver biopsy": "TEST"
   },
   {
     "hepatitis A and B vaccines": "DRUG"
   },
   {
-    "surgery": "TREATMENT"
+    "vaccination": "TREATMENT"
   },
   {
     "bile peritonitis": "PROBLEM"

@@ -45,6 +45,9 @@
     "seizures": "PROBLEM"
   },
   {
+    "weakness": "PROBLEM"
+  },
+  {
     "tremor": "PROBLEM"
   },
   {
@@ -151,6 +154,9 @@
   },
   {
     "stiffness": "PROBLEM"
+  },
+  {
+    "weakness": "PROBLEM"
   },
   {
     "back pain": "PROBLEM"

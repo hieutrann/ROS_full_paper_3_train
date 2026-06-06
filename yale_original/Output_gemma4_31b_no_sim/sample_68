@@ -6,7 +6,7 @@
     "cerebrovascular accident": "PROBLEM"
   },
   {
-    "discomfort on his right side": "PROBLEM"
+    "discomfort": "PROBLEM"
   },
   {
     "EMG studies": "TEST"
@@ -24,7 +24,13 @@
     "symptoms": "PROBLEM"
   },
   {
-    "heavy tobacco and alcohol usage": "PROBLEM"
+    "tobacco": "DRUG"
+  },
+  {
+    "alcohol": "DRUG"
+  },
+  {
+    "Wt": "TEST"
   },
   {
     "B/P": "TEST"
@@ -42,7 +48,10 @@
     "missing dentition": "PROBLEM"
   },
   {
-    "Dry and flaky": "PROBLEM"
+    "Dry": "PROBLEM"
+  },
+  {
+    "flaky": "PROBLEM"
   },
   {
     "Heart tones": "TEST"
@@ -54,10 +63,7 @@
     "pedal pulse": "TEST"
   },
   {
-    "Lungs": "TEST"
-  },
-  {
-    "Diminished but clear": "PROBLEM"
+    "Diminished": "PROBLEM"
   },
   {
     "Scaphoid": "PROBLEM"

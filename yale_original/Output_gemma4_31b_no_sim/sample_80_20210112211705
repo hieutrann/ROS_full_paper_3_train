@@ -30,9 +30,6 @@
     "dysuria": "PROBLEM"
   },
   {
-    "symptoms": "PROBLEM"
-  },
-  {
     "pelvic pain": "PROBLEM"
   },
   {
@@ -49,6 +46,9 @@
   },
   {
     "vitals": "TEST"
+  },
+  {
+    "Laboratory studies": "TEST"
   },
   {
     "H&H": "TEST"

@@ -1,0 +1,431 @@
+[
+  {
+    "Seizure": "PROBLEM"
+  },
+  {
+    "hypoglycemia": "PROBLEM"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "dyspnea": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "colon cancer": "PROBLEM"
+  },
+  {
+    "right hemicolecty": "TREATMENT"
+  },
+  {
+    "pneumonia": "PROBLEM"
+  },
+  {
+    "congestive heart failure": "PROBLEM"
+  },
+  {
+    "ADMISSION DIAGNOSES": "PROBLEM"
+  },
+  {
+    "Seizure": "PROBLEM"
+  },
+  {
+    "Hypoglycemia": "PROBLEM"
+  },
+  {
+    "Anemia": "PROBLEM"
+  },
+  {
+    "Hypotension": "PROBLEM"
+  },
+  {
+    "Dyspnea": "PROBLEM"
+  },
+  {
+    "Edema": "PROBLEM"
+  },
+  {
+    "DISCHARGE DIAGNOSES": "PROBLEM"
+  },
+  {
+    "Colon cancer": "PROBLEM"
+  },
+  {
+    "right hemicolectomy": "TREATMENT"
+  },
+  {
+    "Anemia": "PROBLEM"
+  },
+  {
+    "Hospital-acquired pneumonia": "PROBLEM"
+  },
+  {
+    "Hypertension": "PROBLEM"
+  },
+  {
+    "Congestive heart failure": "PROBLEM"
+  },
+  {
+    "Seizure disorder": "PROBLEM"
+  },
+  {
+    "PROCEDURES PERFORMED": "TREATMENT"
+  },
+  {
+    "Colonoscopy": "TEST"
+  },
+  {
+    "Right hemicolectomy": "TREATMENT"
+  },
+  {
+    "diabetes mellitus": "PROBLEM"
+  },
+  {
+    "insulin": "DRUG"
+  },
+  {
+    "MI": "PROBLEM"
+  },
+  {
+    "coronary artery disease": "PROBLEM"
+  },
+  {
+    "seizure disorder": "PROBLEM"
+  },
+  {
+    "GERD": "PROBLEM"
+  },
+  {
+    "bipolar disorder": "PROBLEM"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "seizure": "PROBLEM"
+  },
+  {
+    "myoclonic jerks": "PROBLEM"
+  },
+  {
+    "hypoglycemia": "PROBLEM"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "seizure disorder": "PROBLEM"
+  },
+  {
+    "Noncontrast CT of the head": "TEST"
+  },
+  {
+    "Lamictal": "DRUG"
+  },
+  {
+    "hypoglycemia": "PROBLEM"
+  },
+  {
+    "diabetic gastroparesis": "PROBLEM"
+  },
+  {
+    "J-tube intermittent feedings": "TREATMENT"
+  },
+  {
+    "insulin pump": "DRUG"
+  },
+  {
+    "insulin pump rate": "TREATMENT"
+  },
+  {
+    "insulin pump rate": "TREATMENT"
+  },
+  {
+    "hypoglycemia": "PROBLEM"
+  },
+  {
+    "hyperglycemia": "PROBLEM"
+  },
+  {
+    "n.p.o.": "TREATMENT"
+  },
+  {
+    "tube feedings": "TREATMENT"
+  },
+  {
+    "endocrinologist": "TREATMENT"
+  },
+  {
+    "insulin pump rate": "TREATMENT"
+  },
+  {
+    "NovoLog": "DRUG"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "Hemoccult stools": "TEST"
+  },
+  {
+    "mass": "PROBLEM"
+  },
+  {
+    "General Surgery": "TREATMENT"
+  },
+  {
+    "right hemicolectomy": "TREATMENT"
+  },
+  {
+    "procedure": "TREATMENT"
+  },
+  {
+    "tube feeds": "TREATMENT"
+  },
+  {
+    "predischarge rates of 120 per hour": "TREATMENT"
+  },
+  {
+    "cancer": "PROBLEM"
+  },
+  {
+    "CT of the abdomen and pelvis revealed no metastasis": "TEST"
+  },
+  {
+    "CT of the chest revealed possible lung metastasis": "TEST"
+  },
+  {
+    "septic-like picture": "PROBLEM"
+  },
+  {
+    "hospital-acquired pneumonia": "PROBLEM"
+  },
+  {
+    "Zosyn": "DRUG"
+  },
+  {
+    "Levaquin": "DRUG"
+  },
+  {
+    "vancomycin": "DRUG"
+  },
+  {
+    "illness": "PROBLEM"
+  },
+  {
+    "chest x-rays": "TEST"
+  },
+  {
+    "Infectious Disease specialist": "TREATMENT"
+  },
+  {
+    "vancomycin": "DRUG"
+  },
+  {
+    "MRSA": "PROBLEM"
+  },
+  {
+    "J-tube site": "TEST"
+  },
+  {
+    "p.o.": "TREATMENT"
+  },
+  {
+    "Levaquin 750 mg as well as three additional days of Bactrim DS every 12 hours": "DRUG"
+  },
+  {
+    "Bactrim": "DRUG"
+  },
+  {
+    "MRSA": "PROBLEM"
+  },
+  {
+    "Bactrim": "DRUG"
+  },
+  {
+    "Coreg 12.5 mg daily": "DRUG"
+  },
+  {
+    "Lasix 40 mg twice a day": "DRUG"
+  },
+  {
+    "Lipitor": "DRUG"
+  },
+  {
+    "seizure disorder": "PROBLEM"
+  },
+  {
+    "100 mg": "DRUG"
+  },
+  {
+    "150 mg": "DRUG"
+  },
+  {
+    "outpatient": "TREATMENT"
+  },
+  {
+    "discharge to home": "TREATMENT"
+  },
+  {
+    "strenuous activity": "PROBLEM"
+  },
+  {
+    "isotonic fiber feeding": "TREATMENT"
+  },
+  {
+    "discharge medications": "TREATMENT"
+  },
+  {
+    "Coreg 12.5 mg p.o.": "DRUG"
+  },
+  {
+    "b.i.d.": "DRUG"
+  },
+  {
+    "Lipitor 10 mg p.o.": "DRUG"
+  },
+  {
+    "Nitro-Dur patch 0.3 mg per hour one patch daily.": "DRUG"
+  },
+  {
+    "Phenergan syrup 6.25 mg p.o.": "DRUG"
+  },
+  {
+    "p.r.n.": "DRUG"
+  },
+  {
+    "Synthroid 0.175 mg p.o.": "DRUG"
+  },
+  {
+    "Zyrtec 10 mg p.o.": "DRUG"
+  },
+  {
+    "Lamictal 100 mg p.o.": "DRUG"
+  },
+  {
+    "Lamictal 150 mg p.o.": "DRUG"
+  },
+  {
+    "Ferrous sulfate drops 325 mg": "DRUG"
+  },
+  {
+    "PEG tube": "TREATMENT"
+  },
+  {
+    "Nexium 40 mg p.o.": "DRUG"
+  },
+  {
+    "Neurontin 400 mg p.o.": "DRUG"
+  },
+  {
+    "t.i.d.": "TREATMENT"
+  },
+  {
+    "Lasix 40 mg p.o.": "DRUG"
+  },
+  {
+    "b.i.d.": "DRUG"
+  },
+  {
+    "Fentanyl 50 mcg patch transdermal q.72h.": "DRUG"
+  },
+  {
+    "Calcium and vitamin D combination": "DRUG"
+  },
+  {
+    "calcium carbonate 500 mg/vitamin D 200 units one tab p.o.": "DRUG"
+  },
+  {
+    "t.i.d.": "TREATMENT"
+  },
+  {
+    "Bactrim DS 800mg/160 mg tablet one tablet q.12h.": "DRUG"
+  },
+  {
+    "x3 days.": "PROBLEM"
+  },
+  {
+    "Levaquin 750 mg one tablet p.o.": "DRUG"
+  },
+  {
+    "x3 days.": "PROBLEM"
+  },
+  {
+    "p.o.": "DRUG"
+  },
+  {
+    "J-tube": "TREATMENT"
+  },
+  {
+    "X": "TEST"
+  },
+  {
+    "CBC with diff": "TEST"
+  },
+  {
+    "CMP": "TEST"
+  },
+  {
+    "Dr.": "TREATMENT"
+  },
+  {
+    "colon cancer": "PROBLEM"
+  },
+  {
+    "lymph nodes": "PROBLEM"
+  },
+  {
+    "followup appointment": "TREATMENT"
+  },
+  {
+    "endocrinologist": "PROBLEM"
+  },
+  {
+    "insulin pump adjustments": "TREATMENT"
+  },
+  {
+    "J-tube": "TREATMENT"
+  },
+  {
+    "Stable": "PROBLEM"
+  },
+  {
+    "seizure": "PROBLEM"
+  },
+  {
+    "hypoglycemia": "PROBLEM"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "dyspnea": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "colon cancer": "PROBLEM"
+  },
+  {
+    "right hemicolectomy": "TREATMENT"
+  },
+  {
+    "hospital-acquired pneumonia": "PROBLEM"
+  },
+  {
+    "congestive heart failure": "PROBLEM"
+  },
+  {
+    "seizure disorder": "PROBLEM"
+  },
+  {
+    "insulin pump": "TREATMENT"
+  },
+  {
+    "neurology": "TREATMENT"
+  }
+]

@@ -6,7 +6,7 @@
     "motor vehicle accident": "PROBLEM"
   },
   {
-    "Aftercare": "TREATMENT"
+    "Aftercare following surgery for injury and trauma": "TREATMENT"
   },
   {
     "Decubitus ulcer": "PROBLEM"
@@ -24,28 +24,19 @@
     "Hypokalemia": "PROBLEM"
   },
   {
-    "traumatic fracture": "PROBLEM"
-  },
-  {
-    "lower arm": "PROBLEM"
+    "Aftercare healing traumatic fracture of the lower arm": "TREATMENT"
   },
   {
     "Alcohol abuse": "PROBLEM"
   },
   {
-    "traumatic lower leg fracture": "PROBLEM"
+    "Aftercare healing traumatic lower leg fracture": "TREATMENT"
   },
   {
-    "Open wound": "PROBLEM"
+    "Open wound of the scalp": "PROBLEM"
   },
   {
-    "scalp": "PROBLEM"
-  },
-  {
-    "Cervical disk displacement": "PROBLEM"
-  },
-  {
-    "myelopathy": "PROBLEM"
+    "Cervical disk displacement with myelopathy": "PROBLEM"
   },
   {
     "Episodic mood disorder": "PROBLEM"
@@ -66,10 +57,7 @@
     "Insomnia": "PROBLEM"
   },
   {
-    "Pain": "PROBLEM"
-  },
-  {
-    "joint pelvic region/thigh": "PROBLEM"
+    "Pain in joint pelvic region/thigh": "PROBLEM"
   },
   {
     "Motor vehicle traffic accident": "PROBLEM"
@@ -78,25 +66,43 @@
     "ORIF": "TREATMENT"
   },
   {
-    "head laceration": "PROBLEM"
-  },
-  {
     "head injury": "PROBLEM"
   },
   {
-    "sacral decubitus ulcer": "PROBLEM"
+    "rehab": "TREATMENT"
+  },
+  {
+    "acute psychosis": "PROBLEM"
+  },
+  {
+    "alcohol abuse": "PROBLEM"
+  },
+  {
+    "decubitus ulcer": "PROBLEM"
   },
   {
     "wound care": "TREATMENT"
   },
   {
+    "anemia": "PROBLEM"
+  },
+  {
     "iron treatment": "TREATMENT"
+  },
+  {
+    "insomnia": "PROBLEM"
   },
   {
     "Seroquel": "DRUG"
   },
   {
+    "moods": "PROBLEM"
+  },
+  {
     "Ativan": "DRUG"
+  },
+  {
+    "agitation": "PROBLEM"
   },
   {
     "chronic pain medications": "DRUG"
@@ -108,7 +114,7 @@
     "psychologist": "TREATMENT"
   },
   {
-    "acute alcohol rehab facility": "TREATMENT"
+    "acute alcohol rehab": "TREATMENT"
   },
   {
     "orthopedic followup": "TREATMENT"
@@ -117,13 +123,7 @@
     "therapy": "TREATMENT"
   },
   {
-    "primary care physician": "TREATMENT"
-  },
-  {
-    "ambulatory status": "TEST"
-  },
-  {
-    "wheeled walker": "TEST"
+    "wheeled walker": "TREATMENT"
   },
   {
     "left leg": "PROBLEM"
@@ -141,9 +141,6 @@
     "confusion": "PROBLEM"
   },
   {
-    "baseline": "TEST"
-  },
-  {
     "anemia": "PROBLEM"
   },
   {
@@ -159,33 +156,18 @@
     "nicotine patch": "DRUG"
   },
   {
+    "Seroquel": "DRUG"
+  },
+  {
     "Xenaderm": "DRUG"
   },
   {
     "Vicodin": "DRUG"
   },
   {
-    "orthopedist": "TREATMENT"
+    "Ativan": "DRUG"
   },
   {
-    "discharge summary": "TEST"
-  },
-  {
-    "injury": "PROBLEM"
-  },
-  {
-    "trauma": "PROBLEM"
-  },
-  {
-    "vehicle accident": "PROBLEM"
-  },
-  {
-    "discharge": "TREATMENT"
-  },
-  {
-    "aftercare": "TREATMENT"
-  },
-  {
-    "healing": "TREATMENT"
+    "anxiety": "PROBLEM"
   }
 ]

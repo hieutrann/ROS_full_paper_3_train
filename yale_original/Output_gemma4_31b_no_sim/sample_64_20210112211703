@@ -1,9 +1,15 @@
 [
   {
+    "Antibiotic": "DRUG"
+  },
+  {
     "right foot ulcer": "PROBLEM"
   },
   {
     "osteomyelitis": "PROBLEM"
+  },
+  {
+    "Antibiotic": "DRUG"
   },
   {
     "right foot ulcer": "PROBLEM"
@@ -21,6 +27,9 @@
     "Cultures": "TEST"
   },
   {
+    "wound": "PROBLEM"
+  },
+  {
     "methicillin-sensitive Staphylococcus aureus (MSSA)": "PROBLEM"
   },
   {
@@ -30,7 +39,13 @@
     "Levaquin": "DRUG"
   },
   {
+    "oral formulation": "DRUG"
+  },
+  {
     "debridement": "TREATMENT"
+  },
+  {
+    "wound": "PROBLEM"
   },
   {
     "MRI": "TEST"
@@ -57,7 +72,7 @@
     "stage IV": "PROBLEM"
   },
   {
-    "third metatarsal bone is palpable": "PROBLEM"
+    "exam": "TEST"
   },
   {
     "osteomyelitis": "PROBLEM"
@@ -66,10 +81,13 @@
     "serosanguineous drainage": "PROBLEM"
   },
   {
+    "wound": "PROBLEM"
+  },
+  {
     "Diabetes mellitus": "PROBLEM"
   },
   {
-    "Osteomyelitis of the right fifth toe": "PROBLEM"
+    "Osteomyelitis": "PROBLEM"
   },
   {
     "intravenous antibiotic therapy": "TREATMENT"
@@ -102,16 +120,7 @@
     "blood pressure": "TEST"
   },
   {
-    "Pupils": "TEST"
-  },
-  {
-    "Extraocular movements": "TEST"
-  },
-  {
     "External ear exam": "TEST"
-  },
-  {
-    "Neck": "TEST"
   },
   {
     "lymphadenopathy": "PROBLEM"
@@ -124,9 +133,6 @@
   },
   {
     "gallop": "PROBLEM"
-  },
-  {
-    "Lungs": "TEST"
   },
   {
     "organomegaly": "PROBLEM"
@@ -147,7 +153,7 @@
     "edema": "PROBLEM"
   },
   {
-    "peripheral stigmata of endocarditis": "PROBLEM"
+    "endocarditis": "PROBLEM"
   },
   {
     "lacerated wound": "PROBLEM"
@@ -189,7 +195,7 @@
     "methicillin-sensitive Staphylococcus aureus": "PROBLEM"
   },
   {
-    "Right foot infected ulcer": "PROBLEM"
+    "infected ulcer": "PROBLEM"
   },
   {
     "osteomyelitis": "PROBLEM"

@@ -1,0 +1,344 @@
+[
+  {
+    "cardiac catheterization": "TEST"
+  },
+  {
+    "coronary angiography": "TEST"
+  },
+  {
+    "vein graft angiography": "TEST"
+  },
+  {
+    "left ventricular pressure measurement": "TEST"
+  },
+  {
+    "angiography": "TEST"
+  },
+  {
+    "PROCEDURE PERFORMED": "TEST"
+  },
+  {
+    "Left heart catheterization with coronary angiography, vein graft angiography and left ventricular pressure measurement and angiography": "TREATMENT"
+  },
+  {
+    "angiogram": "TEST"
+  },
+  {
+    "Angio-Seal": "TREATMENT"
+  },
+  {
+    "coronary atherosclerotic heart disease": "PROBLEM"
+  },
+  {
+    "coronary disease": "PROBLEM"
+  },
+  {
+    "coronary arteriogram": "TEST"
+  },
+  {
+    "chest discomfort": "PROBLEM"
+  },
+  {
+    "smoking": "PROBLEM"
+  },
+  {
+    "diabetes": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "hyperlipidemia": "PROBLEM"
+  },
+  {
+    "disease": "PROBLEM"
+  },
+  {
+    "intervention": "TREATMENT"
+  },
+  {
+    "procedure": "TREATMENT"
+  },
+  {
+    "right groin": "PROBLEM"
+  },
+  {
+    "1% lidocaine": "DRUG"
+  },
+  {
+    "6-French sheath": "TREATMENT"
+  },
+  {
+    "right femoral artery": "TEST"
+  },
+  {
+    "Coronary angiography": "TEST"
+  },
+  {
+    "left ventricular measurement": "TREATMENT"
+  },
+  {
+    "left coronary artery": "PROBLEM"
+  },
+  {
+    "JR4": "TEST"
+  },
+  {
+    "saphenous vein graft conduit": "TREATMENT"
+  },
+  {
+    "pigtail catheter": "TREATMENT"
+  },
+  {
+    "left ventricular pressures": "TEST"
+  },
+  {
+    "power injection": "TREATMENT"
+  },
+  {
+    "left ventriculogram": "TEST"
+  },
+  {
+    "30 mL": "TEST"
+  },
+  {
+    "arteriography": "TREATMENT"
+  },
+  {
+    "right femoral artery": "TEST"
+  },
+  {
+    "bifurcation": "PROBLEM"
+  },
+  {
+    "arteriotomy": "TREATMENT"
+  },
+  {
+    "common femoral artery": "TREATMENT"
+  },
+  {
+    "Perclose device": "TREATMENT"
+  },
+  {
+    "Perclose": "TREATMENT"
+  },
+  {
+    "Angio-Seal": "TREATMENT"
+  },
+  {
+    "bedrest": "PROBLEM"
+  },
+  {
+    "Opening aortic pressure 125/60": "TEST"
+  },
+  {
+    "left ventricular pressure 108/4": "TEST"
+  },
+  {
+    "end-diastolic pressure 16": "TEST"
+  },
+  {
+    "pullback": "TEST"
+  },
+  {
+    "Left ventricular ejection fraction": "TEST"
+  },
+  {
+    "Mitral regurgitation": "PROBLEM"
+  },
+  {
+    "wall motion": "TEST"
+  },
+  {
+    "CORONARY ANGIOGRAM": "TEST"
+  },
+  {
+    "LAD": "TEST"
+  },
+  {
+    "circumflex": "PROBLEM"
+  },
+  {
+    "80% stenosis": "PROBLEM"
+  },
+  {
+    "saphenous vein graft": "TREATMENT"
+  },
+  {
+    "1.5-mm": "TEST"
+  },
+  {
+    "dominant": "PROBLEM"
+  },
+  {
+    "proximal": "PROBLEM"
+  },
+  {
+    "mid": "PROBLEM"
+  },
+  {
+    "atherosclerotic plaque": "PROBLEM"
+  },
+  {
+    "40% stenosis": "PROBLEM"
+  },
+  {
+    "50 to 60% stenosis": "PROBLEM"
+  },
+  {
+    "stenosis": "PROBLEM"
+  },
+  {
+    "saphenous vein graft to the right PDA is widely patent": "TREATMENT"
+  },
+  {
+    "saphenous vein graft": "TREATMENT"
+  },
+  {
+    "PLV disease": "PROBLEM"
+  },
+  {
+    "retrograde filling": "PROBLEM"
+  },
+  {
+    "saphenous vein graft": "TREATMENT"
+  },
+  {
+    "vessel": "PROBLEM"
+  },
+  {
+    "retrograde filling": "TEST"
+  },
+  {
+    "occluded": "PROBLEM"
+  },
+  {
+    "proximal LAD": "PROBLEM"
+  },
+  {
+    "left circumflex disease": "PROBLEM"
+  },
+  {
+    "OM": "PROBLEM"
+  },
+  {
+    "small-caliber vessel": "PROBLEM"
+  },
+  {
+    "80% lesion": "PROBLEM"
+  },
+  {
+    "kink": "PROBLEM"
+  },
+  {
+    "no amenable to percutaneous intervention": "PROBLEM"
+  },
+  {
+    "PLV": "PROBLEM"
+  },
+  {
+    "PDA": "PROBLEM"
+  },
+  {
+    "occluded": "PROBLEM"
+  },
+  {
+    "saphenous vein graft to the PDA": "TREATMENT"
+  },
+  {
+    "saphenous vein graft to the LAD": "TREATMENT"
+  },
+  {
+    "Normal left ventricular systolic function": "PROBLEM"
+  },
+  {
+    "medical therapy": "TREATMENT"
+  },
+  {
+    "risk factor modification": "TREATMENT"
+  },
+  {
+    "Aggressive antihyperlipidemic and antihypertensive control": "TREATMENT"
+  },
+  {
+    "LDL": "PROBLEM"
+  },
+  {
+    "triglyceride": "PROBLEM"
+  },
+  {
+    "smoking": "PROBLEM"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "home": "TREATMENT"
+  },
+  {
+    "office": "TREATMENT"
+  },
+  {
+    "month": "TREATMENT"
+  },
+  {
+    "carotid duplex Doppler ultrasound": "TEST"
+  },
+  {
+    "surgery": "TREATMENT"
+  },
+  {
+    "catheterization": "TREATMENT"
+  },
+  {
+    "vein graft": "TREATMENT"
+  },
+  {
+    "angiography": "TEST"
+  },
+  {
+    "angiogram": "TEST"
+  },
+  {
+    "angio-seal": "TREATMENT"
+  },
+  {
+    "closure device": "TREATMENT"
+  },
+  {
+    "coronary atherosclerotic heart disease": "PROBLEM"
+  },
+  {
+    "saphenous vein graft": "TREATMENT"
+  },
+  {
+    "ventricular pressure": "TEST"
+  },
+  {
+    "coronary artery": "TEST"
+  },
+  {
+    "saphenous vein": "TEST"
+  },
+  {
+    "atherosclerotic": "PROBLEM"
+  },
+  {
+    "coronary": "PROBLEM"
+  },
+  {
+    "artery": "TEST"
+  },
+  {
+    "bifurcation": "TEST"
+  },
+  {
+    "pda": "TEST"
+  },
+  {
+    "ventricular": "TEST"
+  },
+  {
+    "saphenous": "TEST"
+  }
+]

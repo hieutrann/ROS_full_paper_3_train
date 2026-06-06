@@ -3,7 +3,10 @@
     "scalp skin biopsy": "TEST"
   },
   {
-    "pathology specimen": "TEST"
+    "improved": "PROBLEM"
+  },
+  {
+    "admission": "TREATMENT"
   },
   {
     "Acute right lobar pneumonia": "PROBLEM"
@@ -39,9 +42,6 @@
     "Anemia": "PROBLEM"
   },
   {
-    "illness": "PROBLEM"
-  },
-  {
     "iron deficiency": "PROBLEM"
   },
   {
@@ -54,10 +54,16 @@
     "pathology report": "TEST"
   },
   {
-    "scalp skin biopsy": "TREATMENT"
+    "scalp skin biopsy": "TEST"
   },
   {
     "thoracentesis": "TREATMENT"
+  },
+  {
+    "Y's results": "TEST"
+  },
+  {
+    "long-term acute facility": "TREATMENT"
   },
   {
     "acute care": "TREATMENT"
@@ -69,7 +75,7 @@
     "Levaquin": "DRUG"
   },
   {
-    "low-grade fever": "PROBLEM"
+    "fever": "PROBLEM"
   },
   {
     "confusion": "PROBLEM"
@@ -93,6 +99,9 @@
     "antibiotics": "DRUG"
   },
   {
+    "Infectious Disease": "PROBLEM"
+  },
+  {
     "vancomycin": "DRUG"
   },
   {
@@ -102,19 +111,16 @@
     "sputum": "TEST"
   },
   {
-    "urine": "TEST"
-  },
-  {
-    "cultures": "TEST"
+    "urine cultures": "TEST"
   },
   {
     "infection": "PROBLEM"
   },
   {
-    "Levaquin": "DRUG"
+    "IV Levaquin": "DRUG"
   },
   {
-    "Flagyl": "DRUG"
+    "IV Flagyl": "DRUG"
   },
   {
     "C. diff colitis": "PROBLEM"
@@ -132,19 +138,13 @@
     "systolic blood pressure": "TEST"
   },
   {
-    "IV fluid management": "TREATMENT"
+    "IV fluid": "TREATMENT"
   },
   {
-    "Y": "PROBLEM"
+    "fluid": "TREATMENT"
   },
   {
-    "fluid": "PROBLEM"
-  },
-  {
-    "pulmonary": "PROBLEM"
-  },
-  {
-    "treatment": "TREATMENT"
+    "pulmonary treatment": "TREATMENT"
   },
   {
     "liver function tests": "TEST"
@@ -156,13 +156,7 @@
     "CT scan": "TEST"
   },
   {
-    "chest": "PROBLEM"
-  },
-  {
-    "abdomen": "PROBLEM"
-  },
-  {
-    "fluid circling the gallbladder": "PROBLEM"
+    "fluid": "PROBLEM"
   },
   {
     "HIDA scan": "TEST"
@@ -189,7 +183,10 @@
     "incentive spirometry": "TREATMENT"
   },
   {
-    "pulmonary function": "PROBLEM"
+    "pulmonary function": "TEST"
+  },
+  {
+    "white count": "TEST"
   },
   {
     "white count": "TEST"
@@ -204,10 +201,10 @@
     "Urine culture": "TEST"
   },
   {
-    "thoracentesis culture": "TEST"
+    "thoracentesis": "TEST"
   },
   {
-    "packed red cells": "DRUG"
+    "packed red cells": "TREATMENT"
   },
   {
     "hemoglobin": "TEST"
@@ -217,9 +214,6 @@
   },
   {
     "GI bleeding": "PROBLEM"
-  },
-  {
-    "blood work": "TEST"
   },
   {
     "white count": "TEST"
@@ -282,6 +276,9 @@
     "ferritin level": "TEST"
   },
   {
+    "improved": "PROBLEM"
+  },
+  {
     "back discomfort": "PROBLEM"
   },
   {
@@ -289,9 +286,6 @@
   },
   {
     "degenerative disk disease": "PROBLEM"
-  },
-  {
-    "compression fracture": "PROBLEM"
   },
   {
     "pneumonia": "PROBLEM"

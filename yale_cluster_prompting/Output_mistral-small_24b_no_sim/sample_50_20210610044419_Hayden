@@ -15,6 +15,9 @@
     "pneumonia": "PROBLEM"
   },
   {
+    "ADMITTING DIAGNOSES": "PROBLEM"
+  },
+  {
     "Leiomyosarcoma": "PROBLEM"
   },
   {
@@ -30,7 +33,10 @@
     "pneumonia": "PROBLEM"
   },
   {
-    "CIVI-CAD": "TREATMENT"
+    "PROCEDURES DURING HOSPITALIZATION": "TREATMENT"
+  },
+  {
+    "CIVI-CAD": "DRUG"
   },
   {
     "Cytoxan": "DRUG"
@@ -54,10 +60,16 @@
     "Head CT": "TEST"
   },
   {
+    "acute intracranial abnormalities": "PROBLEM"
+  },
+  {
     "Sinus CT": "TEST"
   },
   {
     "mini-CT": "TEST"
+  },
+  {
+    "ILLNESS": "PROBLEM"
   },
   {
     "mass": "PROBLEM"
@@ -81,7 +93,7 @@
     "partial resection": "TREATMENT"
   },
   {
-    "leiomyosarcoma": "PROBLEM"
+    "pathologic grade 2 leiomyosarcoma": "PROBLEM"
   },
   {
     "chemotherapy": "TREATMENT"
@@ -105,16 +117,13 @@
     "surgical resection": "TREATMENT"
   },
   {
-    "disease": "PROBLEM"
+    "residual disease": "PROBLEM"
   },
   {
     "Leiomyosarcoma": "PROBLEM"
   },
   {
-    "XYZ": "DRUG"
-  },
-  {
-    "IV": "TREATMENT"
+    "Hem/Onco": "TREATMENT"
   },
   {
     "Cytoxan": "DRUG"
@@ -153,7 +162,7 @@
     "subdural hematoma": "PROBLEM"
   },
   {
-    "headaches": "PROBLEM"
+    "mild intermittent headaches": "PROBLEM"
   },
   {
     "headaches": "PROBLEM"
@@ -163,6 +172,9 @@
   },
   {
     "head CT": "TEST"
+  },
+  {
+    "acute intracranial abnormalities": "PROBLEM"
   },
   {
     "sinusitis": "PROBLEM"
@@ -186,10 +198,13 @@
     "ANC": "TEST"
   },
   {
-    "red blood cells": "TEST"
+    "counts": "TEST"
   },
   {
-    "platelets": "TEST"
+    "red blood cells": "TREATMENT"
+  },
+  {
+    "platelets": "TREATMENT"
   },
   {
     "ANC": "TEST"
@@ -219,13 +234,25 @@
     "pneumonia": "PROBLEM"
   },
   {
+    "Regular": "TREATMENT"
+  },
+  {
     "neutropenic": "PROBLEM"
   },
   {
     "activity": "TREATMENT"
   },
   {
+    "lab work": "TEST"
+  },
+  {
     "fevers": "PROBLEM"
+  },
+  {
+    "100.5": "PROBLEM"
+  },
+  {
+    "discharge summary": "TREATMENT"
   },
   {
     "leiomyosarcoma": "PROBLEM"
@@ -252,7 +279,7 @@
     "blood cells": "TEST"
   },
   {
-    "neutropenic diet": "DRUG"
+    "neutropenic diet": "TREATMENT"
   },
   {
     "subdural hematoma": "PROBLEM"

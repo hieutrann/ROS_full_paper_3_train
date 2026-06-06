@@ -6,19 +6,22 @@
     "high risk behavior": "PROBLEM"
   },
   {
+    "Medical Transcription Sample Report": "TEST"
+  },
+  {
     "DISCHARGE SUMMARY": "TEST"
   },
   {
     "SUMMARY OF TREATMENT PLANNING": "TEST"
   },
   {
-    "IDENTIFIED PROBLEMS/OUTCOMES": "PROBLEM"
+    "PROBLEMS/OUTCOMES": "PROBLEM"
   },
   {
     "Depression": "PROBLEM"
   },
   {
-    "2": "TREATMENT"
+    "2": "TEST"
   },
   {
     "High risk behavior": "PROBLEM"
@@ -36,28 +39,13 @@
     "relapse": "PROBLEM"
   },
   {
-    "RTC": "TREATMENT"
+    "RTC": "PROBLEM"
   },
   {
     "therapy program": "TREATMENT"
   },
   {
-    "primary treatment modality": "TREATMENT"
-  },
-  {
-    "psychiatrist": "TREATMENT"
-  },
-  {
     "psychotropic medications": "DRUG"
-  },
-  {
-    "evaluation": "TEST"
-  },
-  {
-    "management": "TREATMENT"
-  },
-  {
-    "psychotropic": "PROBLEM"
   },
   {
     "therapy": "TREATMENT"
@@ -72,25 +60,16 @@
     "disorganized thoughts": "PROBLEM"
   },
   {
-    "suspicious": "PROBLEM"
-  },
-  {
     "audiovisual hallucinations": "PROBLEM"
-  },
-  {
-    "flat affect": "PROBLEM"
-  },
-  {
-    "irritable": "PROBLEM"
-  },
-  {
-    "anxious": "PROBLEM"
   },
   {
     "depressed moods": "PROBLEM"
   },
   {
-    "tearful": "PROBLEM"
+    "anxious": "PROBLEM"
+  },
+  {
+    "irritable": "PROBLEM"
   },
   {
     "homesick": "PROBLEM"
@@ -99,31 +78,22 @@
     "limited interaction with peers": "PROBLEM"
   },
   {
-    "groups": "TEST"
-  },
-  {
-    "issues": "PROBLEM"
+    "groups": "PROBLEM"
   },
   {
     "strange feelings and sensations": "PROBLEM"
   },
   {
-    "improvement": "PROBLEM"
+    "general": "PROBLEM"
   },
   {
     "relapse": "PROBLEM"
-  },
-  {
-    "discharge": "TREATMENT"
   },
   {
     "RTC program": "TREATMENT"
   },
   {
     "sleep-deprived EEG": "TEST"
-  },
-  {
-    "normal": "TEST"
   },
   {
     "EKG": "TEST"
@@ -174,16 +144,13 @@
     "heart murmur": "PROBLEM"
   },
   {
-    "H&P exam": "TEST"
-  },
-  {
     "Hematocrit": "TEST"
   },
   {
     "monocytes": "TEST"
   },
   {
-    "CBC": "TEST"
+    "lab results": "TEST"
   },
   {
     "Major depression": "PROBLEM"
@@ -231,25 +198,19 @@
     "internal stimuli": "PROBLEM"
   },
   {
-    "safety": "PROBLEM"
+    "Guarded": "PROBLEM"
   },
   {
-    "PROGNOSIS": "PROBLEM"
-  },
-  {
-    "family's request": "PROBLEM"
+    "family": "PROBLEM"
   },
   {
     "hospital": "TREATMENT"
   },
   {
-    "appointment": "TREATMENT"
+    "07/21/04": "TEST"
   },
   {
     "RTC (Residential Treatment Center)": "TREATMENT"
-  },
-  {
-    "legal guardian": "PROBLEM"
   },
   {
     "cardiologist": "PROBLEM"
@@ -279,22 +240,13 @@
     "Benadryl": "DRUG"
   },
   {
-    "q": "PROBLEM"
+    "q.": "TEST"
   },
   {
-    "p.r.n.": "TREATMENT"
-  },
-  {
-    "anxiety or agitation": "PROBLEM"
+    "p.r.n.": "TEST"
   },
   {
     "Wellbutrin XL": "DRUG"
-  },
-  {
-    "300 mg": "TREATMENT"
-  },
-  {
-    "p.o.": "TREATMENT"
   },
   {
     "q.a.m.": "TEST"
@@ -303,19 +255,16 @@
     "vitamin E": "DRUG"
   },
   {
-    "q.d.": "DRUG"
+    "q.d.": "TEST"
   },
   {
     "Restoril": "DRUG"
   },
   {
-    "p.r.n.": "DRUG"
+    "p.r.n.": "TEST"
   },
   {
     "anxiety": "PROBLEM"
-  },
-  {
-    "#16 pills": "DRUG"
   },
   {
     "galactorrhea": "PROBLEM"
@@ -342,46 +291,19 @@
     "nursing staff": "TREATMENT"
   },
   {
-    "psychiatric": "PROBLEM"
-  },
-  {
     "depression": "PROBLEM"
   },
   {
-    "gaf": "TEST"
-  },
-  {
-    "high risk behavior": "PROBLEM"
-  },
-  {
-    "psychosocial stressors": "PROBLEM"
-  },
-  {
-    "rtc": "TEST"
-  },
-  {
-    "residential treatment center": "TEST"
-  },
-  {
-    "anxious": "PROBLEM"
-  },
-  {
-    "paranoia": "PROBLEM"
+    "psychiatric treatment": "TREATMENT"
   },
   {
     "psychotropic medications": "DRUG"
   },
   {
-    "sleep-deprived eeg": "TEST"
+    "RTC": "TREATMENT"
   },
   {
-    "legal guardian": "TEST"
-  },
-  {
-    "discharge": "TEST"
-  },
-  {
-    "oriented": "TEST"
+    "EEG": "TEST"
   },
   {
     "axis": "TEST"

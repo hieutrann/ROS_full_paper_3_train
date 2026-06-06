@@ -33,19 +33,19 @@
     "nausea": "PROBLEM"
   },
   {
+    "diabetes": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
     "CT scan": "TEST"
   },
   {
     "ERCP": "TEST"
   },
   {
-    "stent": "TREATMENT"
-  },
-  {
-    "Zofran": "DRUG"
-  },
-  {
-    "Phenergan": "DRUG"
+    "stent": "TEST"
   },
   {
     "white count": "TEST"
@@ -99,10 +99,10 @@
     "albumin": "TEST"
   },
   {
-    "insulin sliding scale": "TREATMENT"
+    "oral hypoglycemics": "DRUG"
   },
   {
-    "chemotherapy": "TREATMENT"
+    "insulin sliding scale": "DRUG"
   },
   {
     "Phenergan": "DRUG"
@@ -117,6 +117,18 @@
     "enalapril": "DRUG"
   },
   {
-    "ERCP": "TREATMENT"
+    "chemotherapy": "TREATMENT"
+  },
+  {
+    "stent placement": "TREATMENT"
+  },
+  {
+    "drainage": "TREATMENT"
+  },
+  {
+    "regular diet": "TREATMENT"
+  },
+  {
+    "activity": "TREATMENT"
   }
 ]

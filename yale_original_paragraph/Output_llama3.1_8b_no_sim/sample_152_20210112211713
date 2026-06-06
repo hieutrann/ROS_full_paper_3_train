@@ -1,21 +1,21 @@
 [
   {
-    "Severe menometrorrhagia unresponsive to medical therapy": "PROBLEM"
+    "menometrorrhagia": "PROBLEM"
   },
   {
-    "Severe anemia": "PROBLEM"
+    "anemia": "PROBLEM"
   },
   {
-    "Fibroid uterus": "PROBLEM"
+    "fibroid uterus": "PROBLEM"
   },
   {
-    "Hysteroscopy": "TEST"
+    "hysteroscopy": "TEST"
   },
   {
-    "Dilatation and curettage (D&C)": "TEST"
+    "dilatation and curettage": "TEST"
   },
   {
-    "Myomectomy": "TREATMENT"
+    "myomectomy": "TREATMENT"
   },
   {
     "Vicodin": "DRUG"
@@ -25,5 +25,17 @@
   },
   {
     "ferrous sulfate": "DRUG"
+  },
+  {
+    "blood transfusions": "TREATMENT"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "pelvic rest": "TREATMENT"
+  },
+  {
+    "Ambulate": "TREATMENT"
   }
 ]

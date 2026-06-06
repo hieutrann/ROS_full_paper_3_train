@@ -18,16 +18,19 @@
     "respiratory illness": "PROBLEM"
   },
   {
-    "Zithromax": "DRUG"
-  },
-  {
     "amoxicillin": "DRUG"
   },
   {
     "Rocephin": "DRUG"
   },
   {
+    "Zithromax": "DRUG"
+  },
+  {
     "CBC": "TEST"
+  },
+  {
+    "BMP": "TEST"
   },
   {
     "x-ray": "TEST"
@@ -43,14 +46,5 @@
   },
   {
     "pertussis culture": "TEST"
-  },
-  {
-    "incision": "TREATMENT"
-  },
-  {
-    "drainage": "TREATMENT"
-  },
-  {
-    "Zithromax": "TREATMENT"
   }
 ]

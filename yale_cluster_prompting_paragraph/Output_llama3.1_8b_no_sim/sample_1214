@@ -21,25 +21,28 @@
     "Zithromax": "DRUG"
   },
   {
-    "Xopenex MDI": "DRUG"
+    "Xopenex": "DRUG"
   },
   {
-    "QVAR 40": "DRUG"
-  },
-  {
-    "CRP": "TEST"
-  },
-  {
-    "CBC": "TEST"
-  },
-  {
-    "x-ray": "TEST"
+    "QVAR": "DRUG"
   },
   {
     "nebulized treatments": "TREATMENT"
   },
   {
-    "surgery": "TREATMENT"
+    "physical therapy": "TREATMENT"
+  },
+  {
+    "x-ray": "TEST"
+  },
+  {
+    "CBC": "TEST"
+  },
+  {
+    "CRP": "TEST"
+  },
+  {
+    "CRP": "TEST"
   },
   {
     "nebulized albuterol": "TREATMENT"
@@ -52,5 +55,35 @@
   },
   {
     "antibiotics": "TREATMENT"
+  },
+  {
+    "physical examination": "TEST"
+  },
+  {
+    "bowel sounds": "TEST"
+  },
+  {
+    "hepatosplenomegaly": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "lymphadenopathy": "PROBLEM"
+  },
+  {
+    "thyromegaly": "PROBLEM"
+  },
+  {
+    "tachypnea": "PROBLEM"
+  },
+  {
+    "wheezing": "PROBLEM"
+  },
+  {
+    "bilateral wheezing": "PROBLEM"
+  },
+  {
+    "bilateral basilar wheezing": "PROBLEM"
   }
 ]

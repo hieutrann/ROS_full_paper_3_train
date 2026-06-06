@@ -1,6 +1,6 @@
 [
   {
-    "Disseminated Intravascular Coagulation": "PROBLEM"
+    "Disseminated intravascular coagulation": "PROBLEM"
   },
   {
     "Streptococcal pneumonia": "PROBLEM"
@@ -9,16 +9,22 @@
     "sepsis": "PROBLEM"
   },
   {
+    "respiratory failure": "PROBLEM"
+  },
+  {
     "pneumonia": "PROBLEM"
+  },
+  {
+    "sepsis": "PROBLEM"
   },
   {
     "respiratory failure": "PROBLEM"
   },
   {
-    "intubation": "TREATMENT"
+    "mechanical ventilation": "TREATMENT"
   },
   {
-    "mechanical ventilation": "TREATMENT"
+    "disseminated intravascular coagulation": "PROBLEM"
   },
   {
     "partial thromboplastin time": "TEST"
@@ -42,24 +48,6 @@
     "coagulopathy": "PROBLEM"
   },
   {
-    "bleeding": "PROBLEM"
-  },
-  {
-    "VITAL SIGNS": "TEST"
-  },
-  {
-    "conjunctival hemorrhage": "PROBLEM"
-  },
-  {
-    "ET tube": "TEST"
-  },
-  {
-    "jugular venous pressure": "TEST"
-  },
-  {
-    "coarse breath sounds": "PROBLEM"
-  },
-  {
     "DIC parameters": "TEST"
   },
   {
@@ -76,6 +64,18 @@
   },
   {
     "D-dimer": "TEST"
+  },
+  {
+    "disseminated intravascular coagulation": "PROBLEM"
+  },
+  {
+    "sepsis": "PROBLEM"
+  },
+  {
+    "pneumococcal disease": "PROBLEM"
+  },
+  {
+    "factor replacement": "TREATMENT"
   },
   {
     "Xigris": "DRUG"

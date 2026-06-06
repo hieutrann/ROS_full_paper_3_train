@@ -48,7 +48,7 @@
     "high grade PIN": "PROBLEM"
   },
   {
-    "PSA 11.6": "TEST"
+    "PSA": "TEST"
   },
   {
     "erectile dysfunction": "PROBLEM"
@@ -60,15 +60,6 @@
     "nitroglycerin": "DRUG"
   },
   {
-    "cardiac issues": "PROBLEM"
-  },
-  {
-    "medication": "DRUG"
-  },
-  {
-    "medications": "DRUG"
-  },
-  {
     "penile prosthesis": "TREATMENT"
   },
   {
@@ -78,13 +69,10 @@
     "working pump": "TREATMENT"
   },
   {
-    "Elevated PSA": "TEST"
+    "PSA": "TEST"
   },
   {
     "high-grade PIN": "PROBLEM"
-  },
-  {
-    "biopsy": "TEST"
   },
   {
     "prostate ultrasound": "TEST"
@@ -109,9 +97,6 @@
   },
   {
     "biopsy": "TEST"
-  },
-  {
-    "erectile dysfunction": "PROBLEM"
   },
   {
     "erectile dysfunction": "PROBLEM"

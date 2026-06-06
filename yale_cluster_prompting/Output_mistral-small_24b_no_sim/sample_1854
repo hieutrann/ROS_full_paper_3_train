@@ -1,11 +1,5 @@
 [
   {
-    "Radiology": "TEST"
-  },
-  {
-    "CT C-Spine": "TEST"
-  },
-  {
     "CT cervical spine": "TEST"
   },
   {
@@ -15,13 +9,34 @@
     "CT examination": "TEST"
   },
   {
+    "cervical spine": "PROBLEM"
+  },
+  {
+    "contrast": "DRUG"
+  },
+  {
+    "reformats": "TEST"
+  },
+  {
     "CT cervical spine": "TEST"
+  },
+  {
+    "C-spine": "TEST"
   },
   {
     "trauma": "PROBLEM"
   },
   {
     "CT examination": "TEST"
+  },
+  {
+    "cervical spine": "PROBLEM"
+  },
+  {
+    "contrast": "DRUG"
+  },
+  {
+    "reformats": "TEST"
   },
   {
     "Cervical vertebral body height": "TEST"
@@ -39,6 +54,18 @@
     "destructive osseous lesions": "PROBLEM"
   },
   {
+    "degenerative endplate": "PROBLEM"
+  },
+  {
+    "facet changes": "PROBLEM"
+  },
+  {
+    "central canal narrowing": "PROBLEM"
+  },
+  {
+    "foraminal narrowing": "PROBLEM"
+  },
+  {
     "cervical spine": "PROBLEM"
   },
   {
@@ -46,6 +73,9 @@
   },
   {
     "c-spine": "TEST"
+  },
+  {
+    "anatomical": "PROBLEM"
   },
   {
     "degenerative endplate": "PROBLEM"
@@ -64,5 +94,8 @@
   },
   {
     "spine": "PROBLEM"
+  },
+  {
+    "cervical": "PROBLEM"
   }
 ]

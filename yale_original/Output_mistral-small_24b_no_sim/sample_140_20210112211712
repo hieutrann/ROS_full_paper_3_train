@@ -1,5 +1,8 @@
 [
   {
+    "Female Exam": "TEST"
+  },
+  {
     "Blood pressure": "TEST"
   },
   {
@@ -15,43 +18,25 @@
     "EOMI": "TEST"
   },
   {
-    "Sclerae nonicteric": "PROBLEM"
+    "PERRLA": "TEST"
+  },
+  {
+    "sclerae": "PROBLEM"
   },
   {
     "lesions": "PROBLEM"
   },
   {
-    "Funduscopic examination": "TEST"
+    "hearing": "TEST"
   },
   {
-    "Ears": "TEST"
+    "Nose": "PROBLEM"
   },
   {
-    "Mouth": "PROBLEM"
-  },
-  {
-    "Tongue": "PROBLEM"
-  },
-  {
-    "Teeth": "PROBLEM"
-  },
-  {
-    "Throat": "PROBLEM"
+    "Sinuses": "PROBLEM"
   },
   {
     "dental work": "TREATMENT"
-  },
-  {
-    "NECK": "TEST"
-  },
-  {
-    "pain": "PROBLEM"
-  },
-  {
-    "bruit": "PROBLEM"
-  },
-  {
-    "JVD": "PROBLEM"
   },
   {
     "adenopathy": "PROBLEM"
@@ -63,7 +48,10 @@
     "Lungs": "PROBLEM"
   },
   {
-    "S1 and S2": "TEST"
+    "S1": "TEST"
+  },
+  {
+    "S2": "TEST"
   },
   {
     "murmur": "PROBLEM"
@@ -87,13 +75,16 @@
     "gallop": "PROBLEM"
   },
   {
-    "PMI": "PROBLEM"
+    "PMI nondisplaced": "PROBLEM"
   },
   {
     "Chest wall": "PROBLEM"
   },
   {
-    "axillary or supraclavicular adenopathy": "PROBLEM"
+    "adenopathy": "PROBLEM"
+  },
+  {
+    "BREASTS": "TEST"
   },
   {
     "hepatosplenomegaly": "PROBLEM"
@@ -120,9 +111,6 @@
     "intraabdominal bruit": "TEST"
   },
   {
-    "RECTAL": "TEST"
-  },
-  {
     "Hemoccult": "TEST"
   },
   {
@@ -138,7 +126,13 @@
     "deep venous thrombosis": "PROBLEM"
   },
   {
+    "Nails": "TEST"
+  },
+  {
     "range of motion": "TEST"
+  },
+  {
+    "BACK": "TEST"
   },
   {
     "spinous process tenderness": "PROBLEM"
@@ -156,16 +150,34 @@
     "Brudzinski": "TEST"
   },
   {
-    "NEUROLOGIC": "PROBLEM"
+    "cranial nervous systems": "PROBLEM"
   },
   {
-    "Speech": "TEST"
+    "peripheral nervous systems": "PROBLEM"
   },
   {
-    "Gait": "TEST"
+    "strength": "PROBLEM"
   },
   {
-    "SKIN": "PROBLEM"
+    "sensation": "PROBLEM"
+  },
+  {
+    "cerebellar function": "PROBLEM"
+  },
+  {
+    "Speech": "PROBLEM"
+  },
+  {
+    "lucid": "PROBLEM"
+  },
+  {
+    "rational": "PROBLEM"
+  },
+  {
+    "premalignant": "PROBLEM"
+  },
+  {
+    "malignant": "PROBLEM"
   },
   {
     "hepatosplenomegaly": "PROBLEM"
@@ -192,7 +204,7 @@
     "adenopathy": "PROBLEM"
   },
   {
-    "chest": "PROBLEM"
+    "chest": "TEST"
   },
   {
     "percussion": "TEST"
@@ -202,5 +214,8 @@
   },
   {
     "palpation": "TEST"
+  },
+  {
+    "signs": "TEST"
   }
 ]

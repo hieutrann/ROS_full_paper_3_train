@@ -12,10 +12,10 @@
     "intraoperative specimen radiography": "TEST"
   },
   {
-    "Suspicious calcifications upper outer quadrant, left breast": "PROBLEM"
+    "calcifications": "PROBLEM"
   },
   {
-    "screening mammography": "TEST"
+    "mammography": "TEST"
   },
   {
     "punctate calcifications": "PROBLEM"
@@ -75,10 +75,10 @@
     "false aneurysm": "PROBLEM"
   },
   {
-    "large hematoma": "PROBLEM"
+    "hematoma": "PROBLEM"
   },
   {
-    "extensive ecchymosis": "PROBLEM"
+    "ecchymosis": "PROBLEM"
   },
   {
     "stereotactic core needle biopsy": "TEST"
@@ -102,7 +102,7 @@
     "histologic diagnosis": "TEST"
   },
   {
-    "excisional biopsy": "TREATMENT"
+    "excisional biopsy": "TEST"
   },
   {
     "guidewire localization": "TREATMENT"
@@ -111,19 +111,19 @@
     "stereotactic core needle biopsy": "TEST"
   },
   {
+    "surgical intervention": "TREATMENT"
+  },
+  {
     "excision of the left breast tissue": "TREATMENT"
   },
   {
-    "preoperative guidewire localization": "TEST"
+    "preoperative guidewire localization": "TREATMENT"
   },
   {
     "suspicious calcifications": "PROBLEM"
   },
   {
     "stereotactic core needle biopsy": "TEST"
-  },
-  {
-    "benign histologic findings": "PROBLEM"
   },
   {
     "breast cancer": "PROBLEM"
@@ -231,22 +231,22 @@
     "adenopathy": "PROBLEM"
   },
   {
-    "Regular sinus rhythm": "TEST"
+    "Regular sinus rhythm": "PROBLEM"
   },
   {
-    "air entry": "TEST"
+    "air entry": "PROBLEM"
   },
   {
     "wheezes": "PROBLEM"
   },
   {
-    "tissue changes": "PROBLEM"
+    "palpable masses": "PROBLEM"
   },
   {
     "stereotactic core needle biopsy": "TEST"
   },
   {
-    "Axillary examination": "TEST"
+    "tissue changes": "PROBLEM"
   },
   {
     "lymphadenopathy": "PROBLEM"
@@ -306,6 +306,9 @@
     "transient ischemic attack": "PROBLEM"
   },
   {
+    "medications": "DRUG"
+  },
+  {
     "osteopenia": "PROBLEM"
   },
   {
@@ -313,6 +316,9 @@
   },
   {
     "anxiety": "PROBLEM"
+  },
+  {
+    "medications": "DRUG"
   },
   {
     "Left breast excisional biopsy": "TREATMENT"

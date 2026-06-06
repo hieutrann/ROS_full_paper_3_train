@@ -18,9 +18,6 @@
     "Refractory anemia": "PROBLEM"
   },
   {
-    "transfusion": "TREATMENT"
-  },
-  {
     "blood transfusion": "TREATMENT"
   },
   {
@@ -61,6 +58,9 @@
   },
   {
     "anemia": "PROBLEM"
+  },
+  {
+    "blood transfusion": "TREATMENT"
   },
   {
     "B12": "DRUG"
@@ -135,19 +135,16 @@
     "Feosol": "DRUG"
   },
   {
-    "tobacco": "DRUG"
+    "tobacco": "PROBLEM"
   },
   {
-    "blood disorders": "PROBLEM"
+    "blood": "PROBLEM"
   },
   {
-    "cancer disorders": "PROBLEM"
+    "cancer": "PROBLEM"
   },
   {
-    "PHYSICAL EXAMINATION": "TEST"
-  },
-  {
-    "VITAL SIGNS": "TEST"
+    "elderly": "PROBLEM"
   },
   {
     "Blood pressure": "TEST"
@@ -165,28 +162,40 @@
     "arcus senilis": "PROBLEM"
   },
   {
+    "Pupils": "TEST"
+  },
+  {
+    "Extraocular movements": "TEST"
+  },
+  {
+    "Oropharynx": "TEST"
+  },
+  {
+    "NECK": "PROBLEM"
+  },
+  {
     "jugular venous pressure distention": "PROBLEM"
+  },
+  {
+    "adenopathy": "PROBLEM"
   },
   {
     "CHEST": "TEST"
   },
   {
-    "HEART": "TEST"
+    "rate and rhythm": "TEST"
   },
   {
-    "ABDOMEN": "TEST"
-  },
-  {
-    "fullness": "PROBLEM"
+    "spleen": "PROBLEM"
   },
   {
     "edema": "PROBLEM"
   },
   {
-    "refractory anemia": "PROBLEM"
+    "cyanosis": "PROBLEM"
   },
   {
-    "transfusion": "TREATMENT"
+    "refractory anemia": "PROBLEM"
   },
   {
     "B12": "DRUG"
@@ -199,6 +208,9 @@
   },
   {
     "Procrit": "DRUG"
+  },
+  {
+    "blood loss": "PROBLEM"
   },
   {
     "esophagogastroduodenoscopy": "TEST"
@@ -249,16 +261,10 @@
     "biopsy": "TEST"
   },
   {
-    "treatment": "TREATMENT"
-  },
-  {
-    "bone marrow": "TEST"
-  },
-  {
     "refractory anemia": "PROBLEM"
   },
   {
-    "therapeutic interventions": "TREATMENT"
+    "bone marrow": "TEST"
   },
   {
     "ultrasound": "TEST"
@@ -267,10 +273,7 @@
     "abdomen": "TEST"
   },
   {
-    "spleen": "PROBLEM"
-  },
-  {
-    "follow up": "TREATMENT"
+    "fullness of the spleen": "PROBLEM"
   },
   {
     "electrophoresis": "TEST"

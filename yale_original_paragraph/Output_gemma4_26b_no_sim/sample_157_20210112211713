@@ -30,7 +30,7 @@
     "hypertension": "PROBLEM"
   },
   {
-    "POLLENS": "PROBLEM"
+    "POLLENS": "TREATMENT"
   },
   {
     "alprazolam": "DRUG"
@@ -54,6 +54,9 @@
     "dementia": "PROBLEM"
   },
   {
+    "Temperature": "TEST"
+  },
+  {
     "pulse": "TEST"
   },
   {
@@ -70,33 +73,6 @@
   },
   {
     "exudate": "PROBLEM"
-  },
-  {
-    "jugular venous distention": "PROBLEM"
-  },
-  {
-    "bruit": "PROBLEM"
-  },
-  {
-    "lymph nodes": "TEST"
-  },
-  {
-    "murmur": "PROBLEM"
-  },
-  {
-    "tender": "PROBLEM"
-  },
-  {
-    "rebound": "PROBLEM"
-  },
-  {
-    "rigidity": "PROBLEM"
-  },
-  {
-    "pedal edema": "PROBLEM"
-  },
-  {
-    "decubitus": "PROBLEM"
   },
   {
     "WBC": "TEST"
@@ -195,9 +171,6 @@
     "Ultrasound of the abdomen": "TEST"
   },
   {
-    "echogenic liver": "PROBLEM"
-  },
-  {
     "fatty infiltration": "PROBLEM"
   },
   {
@@ -214,9 +187,6 @@
   },
   {
     "EKG": "TEST"
-  },
-  {
-    "sinus rhythm": "TEST"
   },
   {
     "ventricular premature complexes": "PROBLEM"
@@ -262,44 +232,5 @@
   },
   {
     "blood and urine cultures": "TEST"
-  },
-  {
-    "leukocytosis": "PROBLEM"
-  },
-  {
-    "abdominal pain": "PROBLEM"
-  },
-  {
-    "lipase count": "TEST"
-  },
-  {
-    "platelet count": "TEST"
-  },
-  {
-    "potassium chloride": "TEST"
-  },
-  {
-    "acute pancreatitis": "PROBLEM"
-  },
-  {
-    "vomiting": "PROBLEM"
-  },
-  {
-    "abdominal": "PROBLEM"
-  },
-  {
-    "dementia": "PROBLEM"
-  },
-  {
-    "amylase": "TEST"
-  },
-  {
-    "lipase": "TEST"
-  },
-  {
-    "pancreatitis": "PROBLEM"
-  },
-  {
-    "nausea": "PROBLEM"
   }
 ]

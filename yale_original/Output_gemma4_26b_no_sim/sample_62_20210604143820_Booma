@@ -12,6 +12,9 @@
     "weak": "PROBLEM"
   },
   {
+    "salt": "TREATMENT"
+  },
+  {
     "Nausea": "PROBLEM"
   },
   {
@@ -81,7 +84,7 @@
     "weakness": "PROBLEM"
   },
   {
-    "paresthesias in extremities": "PROBLEM"
+    "paresthesias": "PROBLEM"
   },
   {
     "Diovan": "DRUG"
@@ -117,7 +120,7 @@
     "Alcohol use": "PROBLEM"
   },
   {
-    "LAST TETANUS IMMUNIZATION": "TEST"
+    "TETANUS IMMUNIZATION": "TREATMENT"
   },
   {
     "hysterectomy": "TREATMENT"
@@ -133,9 +136,6 @@
   },
   {
     "BP": "TEST"
-  },
-  {
-    "EOMI": "TEST"
   },
   {
     "PERRL.": "TEST"
@@ -163,15 +163,6 @@
   },
   {
     "pretibial edema": "PROBLEM"
-  },
-  {
-    "Cranial nerves II to XII": "TEST"
-  },
-  {
-    "motor": "TEST"
-  },
-  {
-    "cerebellar": "TEST"
   },
   {
     "WBC": "TEST"
@@ -228,6 +219,12 @@
     "hemoglobin": "TEST"
   },
   {
+    "hemoglobin": "TEST"
+  },
+  {
+    "hemoglobin": "TEST"
+  },
+  {
     "anemia": "PROBLEM"
   },
   {
@@ -246,16 +243,16 @@
     "sinus tachycardia": "PROBLEM"
   },
   {
-    "ectopy": "PROBLEM"
-  },
-  {
-    "orthostatic vital sign changes": "TEST"
+    "orthostatic vital sign changes": "PROBLEM"
   },
   {
     "albuterol": "DRUG"
   },
   {
-    "small volume nebulizer treatment": "TREATMENT"
+    "unit dose small volume nebulizer treatment": "TREATMENT"
+  },
+  {
+    "lung exam": "TEST"
   },
   {
     "expiratory wheezing": "PROBLEM"
@@ -273,19 +270,13 @@
     "Rectal examination": "TEST"
   },
   {
-    "sphincter tone": "TEST"
-  },
-  {
     "rectal secretions": "TEST"
   },
   {
     "normal sinus rhythm": "PROBLEM"
   },
   {
-    "rate 81": "TEST"
-  },
-  {
-    "no ectopy": "PROBLEM"
+    "ectopy": "PROBLEM"
   },
   {
     "Blood pressure": "TEST"
@@ -309,10 +300,13 @@
     "Acute tiredness": "PROBLEM"
   },
   {
-    "Anemia of unknown etiology": "PROBLEM"
+    "Anemia": "PROBLEM"
   },
   {
     "Acute hyponatremia": "PROBLEM"
+  },
+  {
+    "salt": "TREATMENT"
   },
   {
     "anemia": "PROBLEM"

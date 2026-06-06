@@ -9,10 +9,10 @@
     "vomiting": "PROBLEM"
   },
   {
-    "high amylase": "TEST"
+    "amylase": "TEST"
   },
   {
-    "lipase count": "TEST"
+    "lipase": "TEST"
   },
   {
     "acute pancreatitis": "PROBLEM"
@@ -90,31 +90,43 @@
     "pulse ox": "TEST"
   },
   {
-    "Pupils are equal and reactive to light": "TEST"
+    "Pupils": "TEST"
+  },
+  {
+    "pharyngeal inflammation": "PROBLEM"
+  },
+  {
+    "exudate": "PROBLEM"
   },
   {
     "jugular venous distention": "PROBLEM"
   },
   {
-    "bruit": "PROBLEM"
+    "Carotids": "TEST"
   },
   {
-    "Thyroid gland is not palpable": "PROBLEM"
+    "bruit": "TEST"
   },
   {
-    "diffusely tender": "PROBLEM"
+    "Thyroid gland": "PROBLEM"
   },
   {
-    "rigidity": "PROBLEM"
+    "S1 and S2": "TEST"
+  },
+  {
+    "murmur": "PROBLEM"
+  },
+  {
+    "LUNGS": "TEST"
+  },
+  {
+    "tender": "PROBLEM"
   },
   {
     "Bowel sounds": "TEST"
   },
   {
     "tenderness": "PROBLEM"
-  },
-  {
-    "epigastric region": "PROBLEM"
   },
   {
     "pedal edema": "PROBLEM"
@@ -154,6 +166,15 @@
   },
   {
     "Urinalysis": "TEST"
+  },
+  {
+    "nitrite": "TEST"
+  },
+  {
+    "wbc's": "TEST"
+  },
+  {
+    "bacteria": "PROBLEM"
   },
   {
     "Sodium": "TEST"
@@ -312,7 +333,7 @@
     "hypertension": "PROBLEM"
   },
   {
-    "Abnormal electrocardiogram": "TEST"
+    "electrocardiogram": "TEST"
   },
   {
     "Osteoarthrosis": "PROBLEM"
@@ -321,19 +342,10 @@
     "NPO": "TREATMENT"
   },
   {
-    "IV antibiotics": "DRUG"
+    "IV antibiotics": "TREATMENT"
   },
   {
     "IV fluids": "TREATMENT"
-  },
-  {
-    "medications": "DRUG"
-  },
-  {
-    "GI consult": "TREATMENT"
-  },
-  {
-    "pain control": "TREATMENT"
   },
   {
     "Zofran": "DRUG"
@@ -345,7 +357,10 @@
     "DVT prophylaxis": "TREATMENT"
   },
   {
-    "blood and urine cultures": "TEST"
+    "blood cultures": "TEST"
+  },
+  {
+    "urine cultures": "TEST"
   },
   {
     "leukocytosis": "PROBLEM"

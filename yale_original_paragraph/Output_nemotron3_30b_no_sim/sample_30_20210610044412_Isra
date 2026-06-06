@@ -1,0 +1,272 @@
+[
+  {
+    "General Medicine": "TEST"
+  },
+  {
+    "Normal Physical Exam Template - 5": "TEST"
+  },
+  {
+    "Well developed": "PROBLEM"
+  },
+  {
+    "well nourished": "PROBLEM"
+  },
+  {
+    "alert": "PROBLEM"
+  },
+  {
+    "no acute distress": "PROBLEM"
+  },
+  {
+    "GCS 50": "TEST"
+  },
+  {
+    "nontoxic": "PROBLEM"
+  },
+  {
+    "Blood pressure": "TEST"
+  },
+  {
+    "pulse": "TEST"
+  },
+  {
+    "respirations": "TEST"
+  },
+  {
+    "temperature": "TEST"
+  },
+  {
+    "Pulse oximetry": "TEST"
+  },
+  {
+    "Eyes": "TEST"
+  },
+  {
+    "Lids and conjunctiva": "TEST"
+  },
+  {
+    "No lesions": "PROBLEM"
+  },
+  {
+    "Pupils equal": "PROBLEM"
+  },
+  {
+    "round": "PROBLEM"
+  },
+  {
+    "reactive to light and accommodation": "PROBLEM"
+  },
+  {
+    "Irises symmetrical": "PROBLEM"
+  },
+  {
+    "undilated": "PROBLEM"
+  },
+  {
+    "Funduscopic exam reveals no hemorrhages or discopathy": "PROBLEM"
+  },
+  {
+    "External ears without lesions": "PROBLEM"
+  },
+  {
+    "Nares patent": "PROBLEM"
+  },
+  {
+    "Septum midline": "PROBLEM"
+  },
+  {
+    "Tympanic membranes without erythema, bulging or retraction": "PROBLEM"
+  },
+  {
+    "Canals without lesion": "PROBLEM"
+  },
+  {
+    "Hearing is grossly intact": "PROBLEM"
+  },
+  {
+    "Lips, teeth, gums, palate without lesion": "PROBLEM"
+  },
+  {
+    "Posterior oropharynx: No erythema": "PROBLEM"
+  },
+  {
+    "No tonsillar enlargement, crypt formation or abscess": "PROBLEM"
+  },
+  {
+    "Neck: Supple and symmetric": "PROBLEM"
+  },
+  {
+    "No masses": "PROBLEM"
+  },
+  {
+    "Thyroid midline, non enlarged": "PROBLEM"
+  },
+  {
+    "No JVD": "PROBLEM"
+  },
+  {
+    "Neck is nontender": "PROBLEM"
+  },
+  {
+    "Full range of motion without pain": "PROBLEM"
+  },
+  {
+    "Good respiratory effort": "PROBLEM"
+  },
+  {
+    "Clear to auscultation": "PROBLEM"
+  },
+  {
+    "Clear to percussion": "PROBLEM"
+  },
+  {
+    "Chest: Symmetrical rise and fall": "PROBLEM"
+  },
+  {
+    "Symmetrical expansion": "PROBLEM"
+  },
+  {
+    "No egophony or tactile fremitus": "PROBLEM"
+  },
+  {
+    "Regular rate and rhythm": "PROBLEM"
+  },
+  {
+    "No murmur, gallops, clicks, heaves or rub": "PROBLEM"
+  },
+  {
+    "Cardiac palpation within normal limits": "PROBLEM"
+  },
+  {
+    "Pulses equal at carotid": "PROBLEM"
+  },
+  {
+    "Femoral and pedal pulses: No peripheral edema": "PROBLEM"
+  },
+  {
+    "No tenderness or mass": "PROBLEM"
+  },
+  {
+    "No hepatosplenomegaly": "PROBLEM"
+  },
+  {
+    "No hernia": "PROBLEM"
+  },
+  {
+    "Bowel sounds equal times four quadrants": "PROBLEM"
+  },
+  {
+    "Abdomen is nondistended": "PROBLEM"
+  },
+  {
+    "No rebound, guarding, rigidity or ecchymosis": "PROBLEM"
+  },
+  {
+    "Normal gait and station": "PROBLEM"
+  },
+  {
+    "No pathology to digits or nails": "PROBLEM"
+  },
+  {
+    "Extremities move times four": "PROBLEM"
+  },
+  {
+    "No tenderness or effusion": "PROBLEM"
+  },
+  {
+    "Range of motion adequate": "PROBLEM"
+  },
+  {
+    "Strength and tone equal bilaterally, stable": "PROBLEM"
+  },
+  {
+    "Back: Nontender on midline": "PROBLEM"
+  },
+  {
+    "Full range of motion with flexion, extension and sidebending": "PROBLEM"
+  },
+  {
+    "Skin: Inspection within normal limits": "PROBLEM"
+  },
+  {
+    "Well hydrated": "PROBLEM"
+  },
+  {
+    "No diaphoresis": "PROBLEM"
+  },
+  {
+    "No obvious wound": "PROBLEM"
+  },
+  {
+    "Cervical lymph nodes: No lymphadenopathy": "PROBLEM"
+  },
+  {
+    "NEUROLOGICAL: Cranial nerves II - XII grossly intact": "PROBLEM"
+  },
+  {
+    "DTRs symmetric 2 out of 4 bilateral upper and lower extremity": "PROBLEM"
+  },
+  {
+    "Motor strength 4/4 bilateral upper and lower extremity": "PROBLEM"
+  },
+  {
+    "Straight leg raise is negative bilaterally": "PROBLEM"
+  },
+  {
+    "Judgment and insight adequate": "PROBLEM"
+  },
+  {
+    "Alert and oriented times three": "PROBLEM"
+  },
+  {
+    "Memory and mood within normal limits": "PROBLEM"
+  },
+  {
+    "No delusions, hallucinations": "PROBLEM"
+  },
+  {
+    "No suicidal or homicidal ideation": "PROBLEM"
+  },
+  {
+    "general medicine": "TEST"
+  },
+  {
+    "respiratory": "TEST"
+  },
+  {
+    "abdomen": "TEST"
+  },
+  {
+    "normal physical exam": "TEST"
+  },
+  {
+    "pulses": "TEST"
+  },
+  {
+    "tenderness": "TEST"
+  },
+  {
+    "strength": "TEST"
+  },
+  {
+    "lymph": "TEST"
+  },
+  {
+    "extremity": "TEST"
+  },
+  {
+    "midline": "TEST"
+  },
+  {
+    "range": "TEST"
+  },
+  {
+    "motion": "TEST"
+  },
+  {
+    "lesions": "TEST"
+  },
+  {
+    "symmetrical": "TEST"
+  }
+]

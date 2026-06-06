@@ -27,7 +27,7 @@
     "numbness": "PROBLEM"
   },
   {
-    "pain": "PROBLEM"
+    "RUE pain": "PROBLEM"
   },
   {
     "throbbing pain": "PROBLEM"
@@ -42,16 +42,28 @@
     "pains": "PROBLEM"
   },
   {
+    "impaired sleep": "PROBLEM"
+  },
+  {
     "visual change": "PROBLEM"
   },
   {
-    "bowel or bladder difficulties": "PROBLEM"
+    "bowel difficulties": "PROBLEM"
   },
   {
-    "electric shock like sensation shooting down her spine": "PROBLEM"
+    "bladder difficulties": "PROBLEM"
+  },
+  {
+    "symptoms involving the LUE": "PROBLEM"
+  },
+  {
+    "electric shock like sensation": "PROBLEM"
   },
   {
     "Lhermitte's phenomena": "PROBLEM"
+  },
+  {
+    "neck/back/head trauma": "PROBLEM"
   },
   {
     "Naprosyn": "DRUG"
@@ -61,6 +73,9 @@
   },
   {
     "Macrodantin": "DRUG"
+  },
+  {
+    "cigarettes": "DRUG"
   },
   {
     "Vital signs": "TEST"
@@ -75,7 +90,7 @@
     "Reflexes": "TEST"
   },
   {
-    "right ankle reflex": "TEST"
+    "absent right ankle reflex": "PROBLEM"
   },
   {
     "Plantar responses": "TEST"
@@ -100,12 +115,6 @@
   },
   {
     "NCV": "TEST"
-  },
-  {
-    "1+ sharps and fibrillations in the right biceps (C5-6), brachioradialis (C5-6), triceps (C7-8) and teres major": "PROBLEM"
-  },
-  {
-    "2+ sharps and fibrillations in the right pronator terres": "PROBLEM"
   },
   {
     "increased insertional activity": "PROBLEM"

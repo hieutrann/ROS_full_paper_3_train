@@ -1,5 +1,8 @@
 [
   {
+    "Female Physical Exam": "TEST"
+  },
+  {
     "Pupils": "TEST"
   },
   {
@@ -144,13 +147,16 @@
     "Neurologic": "TEST"
   },
   {
-    "Cranial nerves II through XII": "TEST"
+    "Cranial nerves": "TEST"
   },
   {
     "Motor strength": "TEST"
   },
   {
     "Deep tendon reflexes": "TEST"
+  },
+  {
+    "Psychiatric": "TEST"
   },
   {
     "Dermatologic": "TEST"
@@ -160,14 +166,5 @@
   },
   {
     "rashes": "PROBLEM"
-  },
-  {
-    "bimanual exam": "TEST"
-  },
-  {
-    "hemoccult": "TEST"
-  },
-  {
-    "speculum exam": "TEST"
   }
 ]

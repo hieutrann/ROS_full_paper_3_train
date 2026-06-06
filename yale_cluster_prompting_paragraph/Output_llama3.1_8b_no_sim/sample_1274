@@ -21,21 +21,21 @@
     "Coumadin": "DRUG"
   },
   {
-    "Penicillin": "DRUG"
+    "physical therapy": "TREATMENT"
   },
   {
     "Continuous passive motion (CPM)": "TREATMENT"
   },
   {
-    "Physical therapy": "TREATMENT"
+    "deep venous thrombosis (DVT) prophylaxis": "TREATMENT"
   },
   {
-    "Hemovac drain": "TREATMENT"
+    "routine postoperative antibiotics": "TREATMENT"
   },
   {
-    "Routine postoperative antibiotics": "TREATMENT"
+    "Hemovac drain": "TEST"
   },
   {
-    "Mechanical and chemical deep venous thrombosis (DVT) prophylaxis": "TREATMENT"
+    "INR": "TEST"
   }
 ]

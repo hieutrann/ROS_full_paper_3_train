@@ -1,6 +1,6 @@
 [
   {
-    "decrease in mental alertness": "PROBLEM"
+    "mental alertness": "PROBLEM"
   },
   {
     "Mental changes": "PROBLEM"
@@ -9,13 +9,13 @@
     "diabetes": "PROBLEM"
   },
   {
+    "meal": "TREATMENT"
+  },
+  {
     "diabetic medication": "DRUG"
   },
   {
-    "decrease in mental alertness": "PROBLEM"
-  },
-  {
-    "GI symptoms": "PROBLEM"
+    "mental alertness": "PROBLEM"
   },
   {
     "sweating": "PROBLEM"
@@ -30,13 +30,22 @@
     "chills": "PROBLEM"
   },
   {
+    "symptoms": "PROBLEM"
+  },
+  {
+    "emergency department": "TREATMENT"
+  },
+  {
     "glucose": "TEST"
   },
   {
     "hypertension": "PROBLEM"
   },
   {
-    "blood pressure": "TEST"
+    "blood pressure medication": "DRUG"
+  },
+  {
+    "symptoms": "PROBLEM"
   },
   {
     "labetalol": "DRUG"
@@ -45,10 +54,7 @@
     "Norvasc": "DRUG"
   },
   {
-    "blood pressure": "PROBLEM"
-  },
-  {
-    "glucose supplement": "DRUG"
+    "glucose supplement": "TREATMENT"
   },
   {
     "glucose": "TEST"
@@ -58,6 +64,12 @@
   },
   {
     "hypertension": "PROBLEM"
+  },
+  {
+    "ALLERGIES": "PROBLEM"
+  },
+  {
+    "MEDICATIONS": "DRUG"
   },
   {
     "diabetic medication": "DRUG"
@@ -102,9 +114,6 @@
     "LUNGS": "PROBLEM"
   },
   {
-    "No rales": "PROBLEM"
-  },
-  {
     "wheeze": "PROBLEM"
   },
   {
@@ -118,9 +127,6 @@
   },
   {
     "cyanosis": "PROBLEM"
-  },
-  {
-    "rash": "PROBLEM"
   },
   {
     "CPK": "TEST"
@@ -150,6 +156,9 @@
     "Urinalysis": "TEST"
   },
   {
+    "specific gravity": "TEST"
+  },
+  {
     "CT": "TEST"
   },
   {
@@ -166,9 +175,6 @@
   },
   {
     "Hypoglycemia": "PROBLEM"
-  },
-  {
-    "eating her meals": "PROBLEM"
   },
   {
     "Hypertension": "PROBLEM"
@@ -193,6 +199,9 @@
   },
   {
     "diabetic medication": "DRUG"
+  },
+  {
+    "general medicine": "TEST"
   },
   {
     "diabetic medication": "DRUG"

@@ -12,28 +12,13 @@
     "free air under the right diaphragm": "PROBLEM"
   },
   {
-    "intra-abdominal pathology": "PROBLEM"
-  },
-  {
-    "free air under the diaphragm": "PROBLEM"
-  },
-  {
     "Ativan": "DRUG"
   },
   {
     "obtunded": "PROBLEM"
   },
   {
-    "shortness of breath": "PROBLEM"
-  },
-  {
-    "free air under the right diaphragm": "PROBLEM"
-  },
-  {
     "alcohol abuse": "PROBLEM"
-  },
-  {
-    "obtunded": "PROBLEM"
   },
   {
     "appendectomy": "TREATMENT"
@@ -42,16 +27,7 @@
     "right hip fracture": "PROBLEM"
   },
   {
-    "fall": "PROBLEM"
-  },
-  {
     "TAH/BSO": "TREATMENT"
-  },
-  {
-    "alcohol abuse": "PROBLEM"
-  },
-  {
-    "VITAL SIGNS": "TEST"
   },
   {
     "white blood cell count": "TEST"
@@ -78,36 +54,9 @@
     "potassium": "TEST"
   },
   {
-    "X-ray of the chest": "TEST"
-  },
-  {
-    "free air": "PROBLEM"
-  },
-  {
     "CT scan": "TEST"
   },
   {
-    "intra-abdominal pathology": "PROBLEM"
-  },
-  {
-    "air under the diaphragm": "PROBLEM"
-  },
-  {
     "hyponatremia": "PROBLEM"
-  },
-  {
-    "free air": "PROBLEM"
-  },
-  {
-    "hyponatremia": "PROBLEM"
-  },
-  {
-    "air under the diaphragm": "PROBLEM"
-  },
-  {
-    "intra abdominal pathology": "PROBLEM"
-  },
-  {
-    "obtunded": "PROBLEM"
   }
 ]

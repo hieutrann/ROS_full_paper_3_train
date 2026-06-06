@@ -1,68 +1,5 @@
 [
   {
-    "Right-sided facial droop": "PROBLEM"
-  },
-  {
-    "right-sided weakness": "PROBLEM"
-  },
-  {
-    "cerebrovascular accident": "PROBLEM"
-  },
-  {
-    "CT scan of the head": "TEST"
-  },
-  {
-    "stroke": "PROBLEM"
-  },
-  {
-    "dementia": "PROBLEM"
-  },
-  {
-    "expressive aphasia": "PROBLEM"
-  },
-  {
-    "right-sided upper extremity weakness": "PROBLEM"
-  },
-  {
-    "urinary tract infection": "PROBLEM"
-  },
-  {
-    "PENICILLIN": "DRUG"
-  },
-  {
-    "lower extremity weakness": "PROBLEM"
-  },
-  {
-    "Abnormality of gait": "PROBLEM"
-  },
-  {
-    "wheelchair bound": "PROBLEM"
-  },
-  {
-    "Hypertension": "PROBLEM"
-  },
-  {
-    "Chronic obstructive pulmonary disease": "PROBLEM"
-  },
-  {
-    "nasal oxygen": "TREATMENT"
-  },
-  {
-    "Anxiety disorder": "PROBLEM"
-  },
-  {
-    "Dementia": "PROBLEM"
-  },
-  {
-    "left mastectomy": "TREATMENT"
-  },
-  {
-    "breast cancer": "PROBLEM"
-  },
-  {
-    "right knee replacement": "TREATMENT"
-  },
-  {
     "osteoarthritis": "PROBLEM"
   },
   {
@@ -72,19 +9,13 @@
     "stool incontinence": "PROBLEM"
   },
   {
-    "Temperature": "TEST"
-  },
-  {
-    "pulse": "TEST"
-  },
-  {
-    "respirations": "TEST"
-  },
-  {
     "blood pressure": "TEST"
   },
   {
     "systolic murmur": "PROBLEM"
+  },
+  {
+    "Bowel sound": "TEST"
   },
   {
     "pedal edema": "PROBLEM"
@@ -135,12 +66,6 @@
     "urinalysis": "TEST"
   },
   {
-    "white blood cells": "PROBLEM"
-  },
-  {
-    "red blood cells": "PROBLEM"
-  },
-  {
     "E. coli": "PROBLEM"
   },
   {
@@ -156,13 +81,13 @@
     "meropenem": "DRUG"
   },
   {
-    "Anxiety": "PROBLEM"
-  },
-  {
     "swallowing evaluation": "TEST"
   },
   {
-    "IV Vasotec": "DRUG"
+    "Vasotec": "DRUG"
+  },
+  {
+    "Neuro check": "TEST"
   },
   {
     "Lovenox": "DRUG"
@@ -190,8 +115,5 @@
   },
   {
     "D5 normal saline": "TREATMENT"
-  },
-  {
-    "potassium": "DRUG"
   }
 ]

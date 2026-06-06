@@ -3,10 +3,10 @@
     "knee osteoarthrosis": "PROBLEM"
   },
   {
-    "Knee osteoarthrosis": "PROBLEM"
+    "knee osteoarthrosis": "PROBLEM"
   },
   {
-    "Total knee arthroplasty": "TREATMENT"
+    "knee arthroplasty": "TREATMENT"
   },
   {
     "knee osteoarthrosis": "PROBLEM"
@@ -16,9 +16,6 @@
   },
   {
     "treatment options": "TREATMENT"
-  },
-  {
-    "informed consent": "PROBLEM"
   },
   {
     "knee surgery": "TREATMENT"
@@ -39,19 +36,19 @@
     "Ambien": "DRUG"
   },
   {
-    "PENICILLIN": "DRUG"
+    "penicillin": "DRUG"
   },
   {
     "Female": "PROBLEM"
   },
   {
-    "gait": "TEST"
+    "gait": "PROBLEM"
   },
   {
-    "Normocephalic": "TEST"
+    "Normocephalic": "PROBLEM"
   },
   {
-    "atraumatic": "TEST"
+    "atraumatic": "PROBLEM"
   },
   {
     "auscultation": "TEST"
@@ -63,19 +60,16 @@
     "ABDOMEN": "PROBLEM"
   },
   {
-    "neurovascularly intact": "TEST"
+    "neurovascularly intact": "PROBLEM"
   },
   {
-    "operating room": "TEST"
+    "operating room": "TREATMENT"
   },
   {
     "knee arthroplasty": "TREATMENT"
   },
   {
-    "recovery room": "TEST"
-  },
-  {
-    "deep venous thrombosis (DVT)": "PROBLEM"
+    "DVT": "PROBLEM"
   },
   {
     "prophylaxis": "TREATMENT"
@@ -90,7 +84,7 @@
     "therapy": "TREATMENT"
   },
   {
-    "Continuous passive motion (CPM)": "TREATMENT"
+    "Continuous passive motion": "TREATMENT"
   },
   {
     "void": "TEST"
@@ -99,13 +93,10 @@
     "oral pain medication": "DRUG"
   },
   {
-    "incision": "TREATMENT"
+    "incision": "PROBLEM"
   },
   {
-    "pain": "PROBLEM"
-  },
-  {
-    "03/19/2007": "TEST"
+    "calf squeeze": "TEST"
   },
   {
     "Discharged": "TREATMENT"
@@ -129,7 +120,7 @@
     "INR": "TEST"
   },
   {
-    "PT": "TEST"
+    "PT": "TREATMENT"
   },
   {
     "knee osteoarthrosis": "PROBLEM"
@@ -142,5 +133,8 @@
   },
   {
     "conservative management": "TREATMENT"
+  },
+  {
+    "total knee arthroplasty": "TREATMENT"
   }
 ]

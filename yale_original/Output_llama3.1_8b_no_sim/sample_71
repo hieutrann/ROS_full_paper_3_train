@@ -1,6 +1,6 @@
 [
   {
-    "General Medicine": "PROBLEM"
+    "General Medicine": "TREATMENT"
   },
   {
     "diabetes mellitus": "PROBLEM"
@@ -18,10 +18,10 @@
     "Accu-Cheks": "TEST"
   },
   {
-    "feels well": "PROBLEM"
+    "well": "PROBLEM"
   },
   {
-    "She walks 1-2 miles most days": "TREATMENT"
+    "She walks 1-2 miles most days.": "TREATMENT"
   },
   {
     "sinus congestion": "PROBLEM"
@@ -36,7 +36,7 @@
     "Dr.": "TREATMENT"
   },
   {
-    "nonsmoker": "PROBLEM"
+    "gynecological care": "TREATMENT"
   },
   {
     "abdominal pain": "PROBLEM"
@@ -66,7 +66,10 @@
     "swelling": "PROBLEM"
   },
   {
-    "PAST MEDICAL HISTORY": "TREATMENT"
+    "feet": "PROBLEM"
+  },
+  {
+    "chart": "TEST"
   },
   {
     "MEDICATIONS": "DRUG"
@@ -84,19 +87,28 @@
     "120/56": "TEST"
   },
   {
-    "T": "TEST"
+    "Temperature": "TEST"
   },
   {
-    "70-year-old female": "PROBLEM"
+    "Pulse": "TEST"
   },
   {
-    "frontal and maxillary sinus tenderness": "PROBLEM"
+    "female": "PROBLEM"
+  },
+  {
+    "sinus tenderness": "PROBLEM"
+  },
+  {
+    "sinus tenderness": "PROBLEM"
+  },
+  {
+    "palpation": "TEST"
   },
   {
     "TM": "PROBLEM"
   },
   {
-    "Neck": "TEST"
+    "Supple": "TEST"
   },
   {
     "Heart": "PROBLEM"
@@ -111,19 +123,19 @@
     "swelling": "PROBLEM"
   },
   {
-    "IMPRESSION": "PROBLEM"
+    "IMPRESSION": "TREATMENT"
   },
   {
     "Hypercholesterolemia": "PROBLEM"
   },
   {
-    "2": "TEST"
+    "2": "TREATMENT"
   },
   {
     "Diabetes mellitus": "PROBLEM"
   },
   {
-    "3": "TEST"
+    "3": "TREATMENT"
   },
   {
     "Sinusitis": "PROBLEM"
@@ -135,19 +147,19 @@
     "Allegra D": "DRUG"
   },
   {
-    "b.i.d.": "TEST"
+    "b.i.d.": "TREATMENT"
   },
   {
-    "x 3 days": "PROBLEM"
+    "days": "TEST"
   },
   {
-    "2": "TEST"
+    "2": "TREATMENT"
   },
   {
     "Allegra": "DRUG"
   },
   {
-    "3": "TEST"
+    "3": "TREATMENT"
   },
   {
     "A1c": "TEST"
@@ -174,16 +186,19 @@
     "colonoscopy": "TEST"
   },
   {
-    "6": "PROBLEM"
+    "6": "TEST"
   },
   {
-    "occult blood": "TEST"
+    "stools": "TEST"
+  },
+  {
+    "blood": "PROBLEM"
   },
   {
     "colonoscopy": "TEST"
   },
   {
-    "7": "PROBLEM"
+    "cancer": "PROBLEM"
   },
   {
     "Diet": "TREATMENT"

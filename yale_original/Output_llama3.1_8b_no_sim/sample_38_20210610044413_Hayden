@@ -48,9 +48,6 @@
     "liver metastases": "PROBLEM"
   },
   {
-    "ring enhancing lesions": "PROBLEM"
-  },
-  {
     "CT scan": "TEST"
   },
   {
@@ -60,7 +57,10 @@
     "pancreas": "PROBLEM"
   },
   {
-    "ERCP": "TREATMENT"
+    "ERCP": "TEST"
+  },
+  {
+    "stent": "TREATMENT"
   },
   {
     "pancreatic duct": "PROBLEM"
@@ -85,6 +85,12 @@
   },
   {
     "Phenergan": "DRUG"
+  },
+  {
+    "stent": "TREATMENT"
+  },
+  {
+    "nausea": "PROBLEM"
   },
   {
     "white count": "TEST"
@@ -138,7 +144,7 @@
     "albumin": "TEST"
   },
   {
-    "diet": "PROBLEM"
+    "diet": "TREATMENT"
   },
   {
     "oral hypoglycemics": "DRUG"
@@ -147,7 +153,7 @@
     "insulin": "DRUG"
   },
   {
-    "Pelican Bay": "PROBLEM"
+    "Pelican Bay": "TREATMENT"
   },
   {
     "X": "PROBLEM"
@@ -162,10 +168,10 @@
     "chemotherapy": "TREATMENT"
   },
   {
-    "metastatic pancreatic cancer": "PROBLEM"
+    "pancreatic cancer": "PROBLEM"
   },
   {
-    "chemotherapy": "TREATMENT"
+    "chemotherapy": "DRUG"
   },
   {
     "Dr": "TREATMENT"
@@ -180,19 +186,19 @@
     "p.r.n.": "TREATMENT"
   },
   {
-    "2": "TEST"
+    "2": "TREATMENT"
   },
   {
     "Duragesic patch": "DRUG"
   },
   {
-    "3": "TEST"
+    "3": "TREATMENT"
   },
   {
     "Benadryl": "DRUG"
   },
   {
-    "q.i.d.": "TEST"
+    "q.i.d.": "TREATMENT"
   },
   {
     "pruritus": "PROBLEM"
@@ -201,10 +207,10 @@
     "4": "TEST"
   },
   {
-    "Pelican Bay Infirmary": "PROBLEM"
+    "Pelican Bay Infirmary": "TREATMENT"
   },
   {
-    "5": "PROBLEM"
+    "5": "TEST"
   },
   {
     "enalapril": "DRUG"
@@ -225,13 +231,10 @@
     "pain": "PROBLEM"
   },
   {
-    "ERCP": "TEST"
+    "ERCP": "TREATMENT"
   },
   {
     "diet": "TREATMENT"
-  },
-  {
-    "pancreatic mass": "PROBLEM"
   },
   {
     "abdominal pain": "PROBLEM"
@@ -241,6 +244,12 @@
   },
   {
     "weight loss": "PROBLEM"
+  },
+  {
+    "pancreatic mass": "PROBLEM"
+  },
+  {
+    "chemotherapy": "DRUG"
   },
   {
     "bilirubin": "TEST"
@@ -253,8 +262,5 @@
   },
   {
     "drainage": "TREATMENT"
-  },
-  {
-    "chemotherapy": "TREATMENT"
   }
 ]

@@ -18,13 +18,13 @@
     "colon cancer": "PROBLEM"
   },
   {
+    "hemicolectomy": "TREATMENT"
+  },
+  {
     "pneumonia": "PROBLEM"
   },
   {
     "heart failure": "PROBLEM"
-  },
-  {
-    "hemicolectomy": "TREATMENT"
   },
   {
     "ADMISSION DIAGNOSES": "PROBLEM"
@@ -33,13 +33,13 @@
     "Seizure": "PROBLEM"
   },
   {
-    "2": "TEST"
+    "2": "TREATMENT"
   },
   {
     "Hypoglycemia": "PROBLEM"
   },
   {
-    "3": "PROBLEM"
+    "3": "TREATMENT"
   },
   {
     "Anemia": "PROBLEM"
@@ -51,19 +51,19 @@
     "Hypotension": "PROBLEM"
   },
   {
-    "5": "PROBLEM"
+    "5": "TEST"
   },
   {
     "Dyspnea": "PROBLEM"
   },
   {
-    "6": "PROBLEM"
+    "6": "TEST"
   },
   {
     "Edema": "PROBLEM"
   },
   {
-    "DISCHARGE DIAGNOSES": "PROBLEM"
+    "DISCHARGE DIAGNOSES": "TREATMENT"
   },
   {
     "Colon cancer": "PROBLEM"
@@ -72,13 +72,13 @@
     "right hemicolectomy": "TREATMENT"
   },
   {
-    "2": "TEST"
+    "2": "TREATMENT"
   },
   {
     "Anemia": "PROBLEM"
   },
   {
-    "3": "PROBLEM"
+    "3": "TREATMENT"
   },
   {
     "Hospital-acquired pneumonia": "PROBLEM"
@@ -90,13 +90,13 @@
     "Hypertension": "PROBLEM"
   },
   {
-    "5": "PROBLEM"
+    "5": "TEST"
   },
   {
-    "Congestive heart failure": "PROBLEM"
+    "heart failure": "PROBLEM"
   },
   {
-    "6": "PROBLEM"
+    "6": "TEST"
   },
   {
     "Seizure disorder": "PROBLEM"
@@ -108,13 +108,16 @@
     "Colonoscopy": "TEST"
   },
   {
-    "2": "TEST"
+    "2": "TREATMENT"
   },
   {
-    "Right hemicolectomy": "TREATMENT"
+    "hemicolectomy": "TREATMENT"
   },
   {
     "diabetes mellitus": "PROBLEM"
+  },
+  {
+    "insulin": "DRUG"
   },
   {
     "MI": "PROBLEM"
@@ -150,7 +153,7 @@
     "seizure disorder": "PROBLEM"
   },
   {
-    "Noncontrast CT of the head": "TEST"
+    "CT": "TEST"
   },
   {
     "Lamictal": "DRUG"
@@ -162,19 +165,25 @@
     "diabetic gastroparesis": "PROBLEM"
   },
   {
-    "J-tube": "TEST"
-  },
-  {
-    "feedings": "TEST"
+    "J-tube": "TREATMENT"
   },
   {
     "insulin pump": "TREATMENT"
   },
   {
-    "insulin pump rate": "TREATMENT"
+    "basal rate": "TEST"
   },
   {
-    "insulin pump rate": "TREATMENT"
+    "insulin": "DRUG"
+  },
+  {
+    "insulin pump": "TREATMENT"
+  },
+  {
+    "insulin": "DRUG"
+  },
+  {
+    "insulin pump": "TREATMENT"
   },
   {
     "hypoglycemia": "PROBLEM"
@@ -183,25 +192,28 @@
     "hyperglycemia": "PROBLEM"
   },
   {
-    "n.p.o.": "PROBLEM"
+    "n.p.o.": "TREATMENT"
   },
   {
-    "endocrinologist": "PROBLEM"
+    "tube feedings": "TREATMENT"
   },
   {
-    "insulin pump rate": "TREATMENT"
+    "endocrinologist": "TREATMENT"
   },
   {
-    "insulin": "DRUG"
-  },
-  {
-    "units per hour": "TEST"
-  },
-  {
-    "until 6 p.m.": "TEST"
+    "insulin pump": "TREATMENT"
   },
   {
     "insulin": "DRUG"
+  },
+  {
+    "rate": "TEST"
+  },
+  {
+    "units": "DRUG"
+  },
+  {
+    "NovoLog": "DRUG"
   },
   {
     "anemia": "PROBLEM"
@@ -228,16 +240,16 @@
     "cancer": "PROBLEM"
   },
   {
-    "CT of the abdomen and pelvis": "TEST"
-  },
-  {
     "metastasis": "PROBLEM"
   },
   {
-    "CT of the chest": "TEST"
+    "lung metastasis": "PROBLEM"
   },
   {
-    "lung metastasis": "PROBLEM"
+    "CT of the abdomen and pelvis": "TEST"
+  },
+  {
+    "CT of the chest": "TEST"
   },
   {
     "hospital-acquired pneumonia": "PROBLEM"
@@ -267,7 +279,7 @@
     "MRSA": "PROBLEM"
   },
   {
-    "J-tube site": "PROBLEM"
+    "J-tube": "TREATMENT"
   },
   {
     "p.o.": "TREATMENT"
@@ -276,7 +288,7 @@
     "Levaquin": "DRUG"
   },
   {
-    "Bactrim DS": "DRUG"
+    "Bactrim": "DRUG"
   },
   {
     "Bactrim": "DRUG"
@@ -303,6 +315,9 @@
     "Lipitor": "DRUG"
   },
   {
+    "cholesterol": "PROBLEM"
+  },
+  {
     "seizure disorder": "PROBLEM"
   },
   {
@@ -312,10 +327,10 @@
     "150 mg": "DRUG"
   },
   {
-    "dosage": "TEST"
+    "dosage": "TREATMENT"
   },
   {
-    "DISCHARGE INSTRUCTIONS/MEDICATIONS": "TREATMENT"
+    "patient": "PROBLEM"
   },
   {
     "strenuous activity": "PROBLEM"
@@ -324,31 +339,25 @@
     "isotonic fiber": "DRUG"
   },
   {
-    "J-tube": "TEST"
+    "J-tube": "TREATMENT"
   },
   {
-    "120 per hour": "TEST"
-  },
-  {
-    "discharge medications": "TREATMENT"
+    "medications": "DRUG"
   },
   {
     "Coreg": "DRUG"
   },
   {
-    "b.i.d.": "TEST"
+    "b.i.d.": "TREATMENT"
   },
   {
-    "2": "TEST"
+    "2": "TREATMENT"
   },
   {
     "Lipitor": "DRUG"
   },
   {
-    "bedtime": "TEST"
-  },
-  {
-    "3": "PROBLEM"
+    "3": "TREATMENT"
   },
   {
     "Nitro-Dur patch": "DRUG"
@@ -366,31 +375,19 @@
     "p.r.n.": "TREATMENT"
   },
   {
-    "5": "PROBLEM"
+    "5": "TEST"
   },
   {
     "Synthroid": "DRUG"
   },
   {
-    "daily": "PROBLEM"
-  },
-  {
-    "6": "PROBLEM"
+    "6": "TEST"
   },
   {
     "Zyrtec": "DRUG"
   },
   {
-    "daily": "PROBLEM"
-  },
-  {
-    "7": "PROBLEM"
-  },
-  {
     "Lamictal": "DRUG"
-  },
-  {
-    "daily": "PROBLEM"
   },
   {
     "8": "TEST"
@@ -399,34 +396,28 @@
     "Lamictal": "DRUG"
   },
   {
-    "bedtime": "TEST"
+    "9": "TEST"
   },
   {
-    "9": "PROBLEM"
-  },
-  {
-    "Ferrous sulfate drops": "DRUG"
+    "Ferrous sulfate": "DRUG"
   },
   {
     "PEG tube": "TREATMENT"
   },
   {
-    "10": "PROBLEM"
+    "10": "TEST"
   },
   {
     "Nexium": "DRUG"
   },
   {
-    "breakfast": "TEST"
-  },
-  {
-    "11": "PROBLEM"
+    "11": "TREATMENT"
   },
   {
     "Neurontin": "DRUG"
   },
   {
-    "t.i.d.": "TEST"
+    "t.i.d.": "TREATMENT"
   },
   {
     "12": "TEST"
@@ -435,37 +426,28 @@
     "Lasix": "DRUG"
   },
   {
-    "b.i.d.": "TEST"
-  },
-  {
-    "13": "PROBLEM"
+    "b.i.d.": "TREATMENT"
   },
   {
     "Fentanyl": "DRUG"
   },
   {
-    "14": "PROBLEM"
-  },
-  {
-    "Calcium and vitamin D combination": "DRUG"
+    "14": "TEST"
   },
   {
     "Calcium carbonate": "DRUG"
   },
   {
-    "vitamin D": "DRUG"
+    "Vitamin D": "DRUG"
   },
   {
-    "t.i.d.": "TEST"
+    "t.i.d.": "TREATMENT"
   },
   {
-    "15": "PROBLEM"
+    "Bactrim": "DRUG"
   },
   {
-    "Bactrim DS 800mg/160 mg tablet": "DRUG"
-  },
-  {
-    "x3 days": "PROBLEM"
+    "days": "TEST"
   },
   {
     "16": "TEST"
@@ -474,19 +456,19 @@
     "Levaquin": "DRUG"
   },
   {
-    "x3 days": "PROBLEM"
+    "days": "TEST"
   },
   {
     "medications": "DRUG"
   },
   {
-    "J-tube": "TEST"
+    "J-tube": "TREATMENT"
   },
   {
-    "Dr": "TREATMENT"
+    "Dr.": "TREATMENT"
   },
   {
-    "X": "PROBLEM"
+    "X": "TEST"
   },
   {
     "CBC with diff": "TEST"
@@ -507,22 +489,22 @@
     "lymph nodes": "PROBLEM"
   },
   {
-    "Dr.": "PROBLEM"
+    "Dr.": "TREATMENT"
   },
   {
-    "telephone number": "TEST"
+    "telephone number": "TREATMENT"
   },
   {
-    "endocrinologist": "PROBLEM"
+    "endocrinologist": "TREATMENT"
   },
   {
     "insulin pump": "TREATMENT"
   },
   {
-    "J-tube": "PROBLEM"
+    "J-tube": "TREATMENT"
   },
   {
-    "CONDITION ON DISCHARGE": "PROBLEM"
+    "Stable": "PROBLEM"
   },
   {
     "seizure": "PROBLEM"
@@ -543,6 +525,9 @@
     "colon cancer": "PROBLEM"
   },
   {
+    "hemicolectomy": "TREATMENT"
+  },
+  {
     "hospital-acquired pneumonia": "PROBLEM"
   },
   {
@@ -552,9 +537,12 @@
     "seizure disorder": "PROBLEM"
   },
   {
+    "insulin pump": "DRUG"
+  },
+  {
     "hemicolectomy": "TREATMENT"
   },
   {
-    "insulin pump": "DRUG"
+    "neurology": "TEST"
   }
 ]

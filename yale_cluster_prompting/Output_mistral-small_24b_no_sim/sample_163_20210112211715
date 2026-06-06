@@ -3,6 +3,15 @@
     "scalp skin biopsy": "TEST"
   },
   {
+    "pathology specimen": "TEST"
+  },
+  {
+    "improved": "PROBLEM"
+  },
+  {
+    "admission": "TREATMENT"
+  },
+  {
     "Acute right lobar pneumonia": "PROBLEM"
   },
   {
@@ -27,16 +36,16 @@
     "Elevated liver function tests": "TEST"
   },
   {
-    "dementia": "PROBLEM"
+    "etiology": "PROBLEM"
   },
   {
-    "Alzheimer's": "PROBLEM"
+    "moderate-to-severe dementia": "PROBLEM"
+  },
+  {
+    "Alzheimer's type": "PROBLEM"
   },
   {
     "Anemia": "PROBLEM"
-  },
-  {
-    "illness": "PROBLEM"
   },
   {
     "iron deficiency": "PROBLEM"
@@ -51,7 +60,7 @@
     "pathology report": "TEST"
   },
   {
-    "biopsy": "TEST"
+    "scalp skin biopsy": "TEST"
   },
   {
     "pathology specimen": "TEST"
@@ -60,16 +69,28 @@
     "thoracentesis": "TREATMENT"
   },
   {
+    "diagnostic": "TEST"
+  },
+  {
+    "therapeutic": "TREATMENT"
+  },
+  {
+    "Y's results": "TEST"
+  },
+  {
+    "long-term acute facility": "TREATMENT"
+  },
+  {
     "acute care": "TREATMENT"
   },
   {
-    "Flagyl": "DRUG"
+    "IV Flagyl 500 mg every 8 hours": "DRUG"
   },
   {
-    "Levaquin": "DRUG"
+    "Levaquin 500 mg daily": "DRUG"
   },
   {
-    "fever": "PROBLEM"
+    "low-grade fever": "PROBLEM"
   },
   {
     "confusion": "PROBLEM"
@@ -78,7 +99,7 @@
     "dizziness": "PROBLEM"
   },
   {
-    "cough": "PROBLEM"
+    "nonproductive cough": "PROBLEM"
   },
   {
     "symptoms": "PROBLEM"
@@ -105,25 +126,16 @@
     "sputum": "TEST"
   },
   {
-    "urine": "TEST"
-  },
-  {
-    "cultures": "TEST"
+    "urine cultures": "TEST"
   },
   {
     "infection": "PROBLEM"
   },
   {
-    "Levaquin": "DRUG"
+    "IV Levaquin": "DRUG"
   },
   {
-    "IV": "DRUG"
-  },
-  {
-    "Flagyl": "DRUG"
-  },
-  {
-    "IV": "DRUG"
+    "IV Flagyl": "DRUG"
   },
   {
     "C. diff colitis": "PROBLEM"
@@ -135,10 +147,19 @@
     "hypotensive": "PROBLEM"
   },
   {
+    "symptoms": "PROBLEM"
+  },
+  {
     "dizzy": "PROBLEM"
   },
   {
+    "positioning": "TREATMENT"
+  },
+  {
     "systolic blood pressure": "TEST"
+  },
+  {
+    "mmHg": "TEST"
   },
   {
     "IV fluid management": "TREATMENT"
@@ -147,7 +168,7 @@
     "fluid": "TREATMENT"
   },
   {
-    "pulmonary": "TREATMENT"
+    "pulmonary treatment": "TREATMENT"
   },
   {
     "elevated liver function tests": "TEST"
@@ -157,12 +178,6 @@
   },
   {
     "CT scan": "TEST"
-  },
-  {
-    "chest": "TEST"
-  },
-  {
-    "abdomen": "TEST"
   },
   {
     "fluid": "PROBLEM"
@@ -193,6 +208,15 @@
   },
   {
     "pulmonary function": "PROBLEM"
+  },
+  {
+    "white count": "TEST"
+  },
+  {
+    "13,000": "TEST"
+  },
+  {
+    "white count": "TEST"
   },
   {
     "white count": "TEST"
@@ -243,10 +267,19 @@
     "Occult blood studies": "TEST"
   },
   {
+    "occult blood": "PROBLEM"
+  },
+  {
     "Hepatitis B antigen": "TEST"
   },
   {
+    "negative": "PROBLEM"
+  },
+  {
     "Hepatitis A antibody IgM": "TEST"
+  },
+  {
+    "negative": "TEST"
   },
   {
     "Hepatitis B core IgM": "TEST"
@@ -285,6 +318,9 @@
     "ferritin level": "TEST"
   },
   {
+    "improved": "PROBLEM"
+  },
+  {
     "back discomfort": "PROBLEM"
   },
   {
@@ -295,9 +331,6 @@
   },
   {
     "compression fracture": "PROBLEM"
-  },
-  {
-    "discharge summary": "TEST"
   },
   {
     "pneumonia": "PROBLEM"
@@ -315,16 +348,16 @@
     "anemia": "PROBLEM"
   },
   {
-    "scalp skin biopsy": "TEST"
-  },
-  {
-    "liver function tests": "TEST"
-  },
-  {
     "lobar pneumonia": "PROBLEM"
   },
   {
     "infectious disease": "PROBLEM"
+  },
+  {
+    "scalp skin biopsy": "TEST"
+  },
+  {
+    "liver function tests": "TEST"
   },
   {
     "skin biopsy": "TEST"

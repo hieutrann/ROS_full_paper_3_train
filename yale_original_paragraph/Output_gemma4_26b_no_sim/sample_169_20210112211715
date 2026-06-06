@@ -1,6 +1,6 @@
 [
   {
-    "Blood-borne pathogen exposure": "PROBLEM"
+    "blood-borne pathogen exposure": "PROBLEM"
   },
   {
     "blood gas": "TEST"
@@ -81,10 +81,16 @@
     "Nexium": "DRUG"
   },
   {
-    "IV contrast": "DRUG"
+    "IV contrast": "TREATMENT"
+  },
+  {
+    "Temperature": "TEST"
   },
   {
     "pulse": "TEST"
+  },
+  {
+    "respirations": "TEST"
   },
   {
     "blood pressure": "TEST"
@@ -121,9 +127,6 @@
   },
   {
     "hepatitis B": "PROBLEM"
-  },
-  {
-    "titers": "TEST"
   },
   {
     "tetanus": "TREATMENT"

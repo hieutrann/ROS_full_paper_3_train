@@ -18,12 +18,6 @@
     "cardiovascular disease": "PROBLEM"
   },
   {
-    "pressure": "PROBLEM"
-  },
-  {
-    "fast heartbeats": "PROBLEM"
-  },
-  {
     "irregular heartbeats": "PROBLEM"
   },
   {
@@ -60,13 +54,7 @@
     "spots": "PROBLEM"
   },
   {
-    "elevated": "PROBLEM"
-  },
-  {
     "spots": "PROBLEM"
-  },
-  {
-    "itchy": "PROBLEM"
   },
   {
     "urgency of urine": "PROBLEM"
@@ -138,12 +126,6 @@
     "tingling": "PROBLEM"
   },
   {
-    "weight": "PROBLEM"
-  },
-  {
-    "smoking": "PROBLEM"
-  },
-  {
     "type I diabetes": "PROBLEM"
   },
   {
@@ -151,9 +133,6 @@
   },
   {
     "heart attack": "PROBLEM"
-  },
-  {
-    "smoker": "PROBLEM"
   },
   {
     "leukopenia": "PROBLEM"
@@ -168,19 +147,10 @@
     "aspirin": "DRUG"
   },
   {
-    "Weight": "TEST"
-  },
-  {
     "Blood pressure": "TEST"
   },
   {
     "Pulse": "TEST"
-  },
-  {
-    "pupils": "TEST"
-  },
-  {
-    "TMs": "TEST"
   },
   {
     "lymphadenopathy": "PROBLEM"
@@ -192,16 +162,10 @@
     "murmur": "PROBLEM"
   },
   {
-    "Radial pulses": "TEST"
-  },
-  {
     "organomegaly": "PROBLEM"
   },
   {
     "tenderness": "PROBLEM"
-  },
-  {
-    "base of her thumbs": "PROBLEM"
   },
   {
     "PIP joint": "PROBLEM"
@@ -210,13 +174,13 @@
     "DIP joint": "PROBLEM"
   },
   {
-    "tinea versicolor rash": "PROBLEM"
+    "tinea versicolor": "PROBLEM"
+  },
+  {
+    "rash": "PROBLEM"
   },
   {
     "lesion": "PROBLEM"
-  },
-  {
-    "red": "PROBLEM"
   },
   {
     "cyanosis": "PROBLEM"
@@ -225,10 +189,10 @@
     "edema": "PROBLEM"
   },
   {
-    "Pulses": "TEST"
+    "radial": "TEST"
   },
   {
-    "radial and posterior tibial pulses": "TEST"
+    "posterior tibial pulses": "TEST"
   },
   {
     "Chest pain": "PROBLEM"
@@ -279,7 +243,7 @@
     "arthritic": "PROBLEM"
   },
   {
-    "colon cancer screening": "TEST"
+    "colon cancer": "PROBLEM"
   },
   {
     "Gastroesophageal reflux disease": "PROBLEM"
@@ -304,9 +268,6 @@
   },
   {
     "leukopenia": "PROBLEM"
-  },
-  {
-    "pulses": "TEST"
   },
   {
     "tinea": "PROBLEM"

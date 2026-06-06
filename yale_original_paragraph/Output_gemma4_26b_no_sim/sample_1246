@@ -6,6 +6,9 @@
     "Morbid obesity": "PROBLEM"
   },
   {
+    "laparoscopic Roux-en-Y gastric bypass": "TREATMENT"
+  },
+  {
     "Hypertension": "PROBLEM"
   },
   {
@@ -27,6 +30,9 @@
     "gastric bypass": "TREATMENT"
   },
   {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
     "heparin": "DRUG"
   },
   {
@@ -39,16 +45,25 @@
     "CPAP": "TREATMENT"
   },
   {
+    "fever": "PROBLEM"
+  },
+  {
     "omeprazole": "DRUG"
   },
   {
     "Lortab": "DRUG"
   },
   {
+    "bariatric clear liquids": "TREATMENT"
+  },
+  {
     "laparoscopic roux-en-y gastric bypass": "TREATMENT"
   },
   {
     "roux-en-y": "TREATMENT"
+  },
+  {
+    "bariatric clear liquids": "TREATMENT"
   },
   {
     "gastric bypass": "TREATMENT"

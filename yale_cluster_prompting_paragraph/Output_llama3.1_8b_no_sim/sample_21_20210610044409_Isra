@@ -1,42 +1,42 @@
 [
   {
-    "Nausea & Vomiting": "PROBLEM"
+    "intractable nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
   },
   {
     "blood-tinged vomit": "PROBLEM"
   },
   {
-    "sodium": "PROBLEM"
+    "slight low sodium": "PROBLEM"
   },
   {
-    "potassium": "PROBLEM"
+    "potassium slightly elevated": "PROBLEM"
   },
   {
-    "ALT": "TEST"
+    "ALT of 93": "PROBLEM"
   },
   {
-    "AST": "TEST"
+    "AST of 35": "PROBLEM"
   },
   {
-    "total bilirubin": "TEST"
+    "total bilirubin is 1.2": "PROBLEM"
   },
   {
-    "ketones": "TEST"
+    "3+ ketones": "PROBLEM"
   },
   {
-    "protein": "TEST"
+    "2+ protein": "PROBLEM"
   },
   {
-    "esterase": "TEST"
+    "1+ esterase": "PROBLEM"
   },
   {
-    "rbc": "TEST"
+    "rbc too numerous to count": "PROBLEM"
   },
   {
-    "bacteria": "TEST"
-  },
-  {
-    "H": "TEST"
+    "bacteria": "PROBLEM"
   },
   {
     "Phenergan": "DRUG"
@@ -51,9 +51,15 @@
     "Maalox": "DRUG"
   },
   {
-    "IV hydration": "TREATMENT"
+    "EGD": "TEST"
   },
   {
-    "hyperemesis gravidarum": "PROBLEM"
+    "colonoscopy": "TEST"
+  },
+  {
+    "barium enema": "TREATMENT"
+  },
+  {
+    "IV hydration": "TREATMENT"
   }
 ]

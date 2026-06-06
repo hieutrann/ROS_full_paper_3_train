@@ -48,31 +48,19 @@
     "bipolar disorder": "PROBLEM"
   },
   {
-    "seizure": "PROBLEM"
-  },
-  {
-    "myoclonic jerks": "PROBLEM"
-  },
-  {
-    "hypoglycemia": "PROBLEM"
-  },
-  {
-    "anemia": "PROBLEM"
+    "Lamictal": "DRUG"
   },
   {
     "Noncontrast CT": "TEST"
   },
   {
-    "Lamictal": "DRUG"
-  },
-  {
     "diabetic gastroparesis": "PROBLEM"
   },
   {
-    "J-tube": "TEST"
+    "J-tube": "TREATMENT"
   },
   {
-    "insulin pump": "DRUG"
+    "insulin pump": "TREATMENT"
   },
   {
     "hypoglycemia": "PROBLEM"
@@ -81,22 +69,19 @@
     "hyperglycemia": "PROBLEM"
   },
   {
-    "n.p.o.": "TEST"
+    "n.p.o.": "TREATMENT"
   },
   {
-    "endocrinologist": "DRUG"
+    "tube feedings": "TREATMENT"
+  },
+  {
+    "endocrinologist": "TREATMENT"
   },
   {
     "NovoLog": "DRUG"
   },
   {
-    "anemia": "PROBLEM"
-  },
-  {
-    "gastroenterologists": "DRUG"
-  },
-  {
-    "Hemoccult": "TEST"
+    "Hemoccult stools": "TEST"
   },
   {
     "colonoscopy": "TEST"
@@ -108,7 +93,7 @@
     "right hepatic flexure": "PROBLEM"
   },
   {
-    "General Surgery": "DRUG"
+    "General Surgery": "TREATMENT"
   },
   {
     "right hemicolectomy": "TREATMENT"
@@ -117,34 +102,22 @@
     "tube feeds": "TREATMENT"
   },
   {
-    "cancer": "PROBLEM"
-  },
-  {
-    "nodes": "PROBLEM"
-  },
-  {
     "CT": "TEST"
   },
   {
-    "abdomen": "PROBLEM"
+    "abdomen": "TEST"
   },
   {
-    "pelvis": "PROBLEM"
+    "pelvis": "TEST"
   },
   {
-    "metastasis": "PROBLEM"
-  },
-  {
-    "chest": "PROBLEM"
+    "chest": "TEST"
   },
   {
     "lung metastasis": "PROBLEM"
   },
   {
     "septic-like picture": "PROBLEM"
-  },
-  {
-    "hospital-acquired pneumonia": "PROBLEM"
   },
   {
     "Zosyn": "DRUG"
@@ -156,25 +129,19 @@
     "vancomycin": "DRUG"
   },
   {
+    "chest x-rays": "TEST"
+  },
+  {
+    "Infectious Disease specialist": "TREATMENT"
+  },
+  {
     "MRSA": "PROBLEM"
   },
   {
     "J-tube site": "PROBLEM"
   },
   {
-    "Infectious Disease": "DRUG"
-  },
-  {
-    "vancomycin": "DRUG"
-  },
-  {
-    "Levaquin": "DRUG"
-  },
-  {
-    "Bactrim": "DRUG"
-  },
-  {
-    "MRSA": "PROBLEM"
+    "Bactrim DS": "DRUG"
   },
   {
     "Coreg": "DRUG"
@@ -183,16 +150,13 @@
     "Lasix": "DRUG"
   },
   {
-    "congestive heart failure": "PROBLEM"
-  },
-  {
     "Lipitor": "DRUG"
   },
   {
-    "high cholesterol": "PROBLEM"
+    "seizure disorder": "PROBLEM"
   },
   {
-    "seizure disorder": "PROBLEM"
+    "Lamictal": "DRUG"
   },
   {
     "Coreg": "DRUG"
@@ -201,10 +165,10 @@
     "Lipitor": "DRUG"
   },
   {
-    "Nitro-Dur": "DRUG"
+    "Nitro-Dur patch": "DRUG"
   },
   {
-    "Phenergan": "DRUG"
+    "Phenergan syrup": "DRUG"
   },
   {
     "Synthroid": "DRUG"
@@ -216,10 +180,7 @@
     "Lamictal": "DRUG"
   },
   {
-    "Ferrous sulfate": "DRUG"
-  },
-  {
-    "PEG tube": "TEST"
+    "Ferrous sulfate drops": "DRUG"
   },
   {
     "Nexium": "DRUG"
@@ -234,54 +195,45 @@
     "Fentanyl": "DRUG"
   },
   {
-    "Calcium": "DRUG"
-  },
-  {
-    "vitamin D": "DRUG"
+    "Calcium and vitamin D combination": "DRUG"
   },
   {
     "calcium carbonate": "DRUG"
   },
   {
-    "Bactrim": "DRUG"
+    "vitamin D": "DRUG"
+  },
+  {
+    "Bactrim DS": "DRUG"
   },
   {
     "Levaquin": "DRUG"
   },
   {
-    "CBC": "TEST"
-  },
-  {
-    "diff": "TEST"
+    "CBC with diff": "TEST"
   },
   {
     "CMP": "TEST"
   },
   {
-    "Dr. X": "DRUG"
+    "colon cancer": "PROBLEM"
   },
   {
-    "Dr. Y": "DRUG"
+    "lymph nodes": "PROBLEM"
   },
   {
-    "Dr. Z": "DRUG"
+    "oncologist": "TREATMENT"
   },
   {
-    "oncologist": "DRUG"
+    "endocrinologist": "TREATMENT"
   },
   {
-    "Dr. A": "DRUG"
+    "insulin pump": "TREATMENT"
   },
   {
-    "endocrinologist": "DRUG"
+    "gastroenterologist": "TREATMENT"
   },
   {
-    "Dr. B": "DRUG"
-  },
-  {
-    "gastroenterologist": "DRUG"
-  },
-  {
-    "J-tube": "TEST"
+    "J-tube": "TREATMENT"
   }
 ]

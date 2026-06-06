@@ -12,7 +12,7 @@
     "intraoperative specimen radiography": "TEST"
   },
   {
-    "Suspicious calcifications upper outer quadrant, left breast": "PROBLEM"
+    "calcifications": "PROBLEM"
   },
   {
     "screening mammography": "TEST"
@@ -21,10 +21,13 @@
     "punctate calcifications": "PROBLEM"
   },
   {
+    "imaging studies": "TEST"
+  },
+  {
     "calcifications": "PROBLEM"
   },
   {
-    "stereotactic core needle biopsy": "TEST"
+    "stereotactic core needle biopsy": "TREATMENT"
   },
   {
     "focal fibrosis": "PROBLEM"
@@ -48,7 +51,10 @@
     "pain": "PROBLEM"
   },
   {
-    "mass in the left breast": "PROBLEM"
+    "mass": "PROBLEM"
+  },
+  {
+    "left breast": "PROBLEM"
   },
   {
     "sonographic evaluation": "TEST"
@@ -72,10 +78,10 @@
     "false aneurysm": "PROBLEM"
   },
   {
-    "large hematoma": "PROBLEM"
+    "hematoma": "PROBLEM"
   },
   {
-    "extensive ecchymosis": "PROBLEM"
+    "ecchymosis": "PROBLEM"
   },
   {
     "stereotactic core needle biopsy": "TEST"
@@ -93,7 +99,7 @@
     "mammography": "TEST"
   },
   {
-    "stereotactic core needle biopsy": "TEST"
+    "stereotactic core needle biopsy": "TREATMENT"
   },
   {
     "histologic diagnosis": "TEST"
@@ -111,7 +117,10 @@
     "surgical intervention": "TREATMENT"
   },
   {
-    "excision of the left breast tissue": "TREATMENT"
+    "excision": "TREATMENT"
+  },
+  {
+    "left breast tissue": "PROBLEM"
   },
   {
     "preoperative guidewire localization": "TEST"
@@ -120,7 +129,7 @@
     "suspicious calcifications": "PROBLEM"
   },
   {
-    "stereotactic core needle biopsy": "TEST"
+    "stereotactic core needle biopsy": "TREATMENT"
   },
   {
     "benign histologic findings": "PROBLEM"
@@ -222,7 +231,13 @@
     "local excision": "TREATMENT"
   },
   {
+    "distress": "PROBLEM"
+  },
+  {
     "PERRL": "TEST"
+  },
+  {
+    "oral lesions": "PROBLEM"
   },
   {
     "adenopathy": "PROBLEM"
@@ -237,16 +252,13 @@
     "wheezes": "PROBLEM"
   },
   {
-    "no palpable masses": "PROBLEM"
+    "masses": "PROBLEM"
   },
   {
     "tissue changes": "PROBLEM"
   },
   {
     "stereotactic core needle biopsy": "TEST"
-  },
-  {
-    "Axillary examination": "TEST"
   },
   {
     "lymphadenopathy": "PROBLEM"
@@ -273,7 +285,10 @@
     "edema": "PROBLEM"
   },
   {
-    "Left breast mound clustered calcifications": "PROBLEM"
+    "clustered calcifications": "PROBLEM"
+  },
+  {
+    "imaging": "TEST"
   },
   {
     "stereotactic core needle biopsy": "TEST"
@@ -285,7 +300,7 @@
     "calcifications": "PROBLEM"
   },
   {
-    "excision of the tissue": "TREATMENT"
+    "excision": "TREATMENT"
   },
   {
     "preoperative guidewire localization": "TREATMENT"
@@ -303,13 +318,22 @@
     "transient ischemic attack": "PROBLEM"
   },
   {
+    "medications": "DRUG"
+  },
+  {
     "osteopenia": "PROBLEM"
   },
   {
     "osteoporosis": "PROBLEM"
   },
   {
+    "medications": "DRUG"
+  },
+  {
     "anxiety": "PROBLEM"
+  },
+  {
+    "medications": "DRUG"
   },
   {
     "Left breast excisional biopsy": "TREATMENT"
@@ -321,18 +345,18 @@
     "intraoperative specimen radiography": "TEST"
   },
   {
-    "stereotactic core needle biopsy": "TEST"
+    "stereotactic core needle biopsy": "TREATMENT"
   },
   {
     "gastroesophageal reflux": "PROBLEM"
   },
   {
-    "needle biopsy": "TEST"
+    "needle biopsy": "TREATMENT"
   },
   {
     "calcifications": "PROBLEM"
   },
   {
-    "biopsy": "TEST"
+    "biopsy": "TREATMENT"
   }
 ]

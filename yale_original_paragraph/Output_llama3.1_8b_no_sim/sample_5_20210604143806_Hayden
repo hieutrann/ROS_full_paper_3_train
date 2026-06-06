@@ -9,18 +9,6 @@
     "otitis media": "PROBLEM"
   },
   {
-    "runny nose": "PROBLEM"
-  },
-  {
-    "difficulty breathing": "PROBLEM"
-  },
-  {
-    "congestion": "PROBLEM"
-  },
-  {
-    "cough": "PROBLEM"
-  },
-  {
     "Amoxil": "DRUG"
   },
   {
@@ -33,7 +21,10 @@
     "Rocephin": "DRUG"
   },
   {
-    "RSV screen": "TEST"
+    "nebulizer treatments": "TREATMENT"
+  },
+  {
+    "oxygen": "TREATMENT"
   },
   {
     "Chest x-ray": "TEST"
@@ -45,9 +36,6 @@
     "chem panel": "TEST"
   },
   {
-    "nebulizer treatments": "TREATMENT"
-  },
-  {
-    "oxygen": "TREATMENT"
+    "RSV screen": "TEST"
   }
 ]

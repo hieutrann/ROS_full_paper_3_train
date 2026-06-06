@@ -1,12 +1,12 @@
 [
   {
-    "General Medicine": "TEST"
+    "General Medicine": "TREATMENT"
   },
   {
     "Normal Female Exam Template": "TEST"
   },
   {
-    "VITAL SIGNS": "TEST"
+    "routine normal female physical exam": "TEST"
   },
   {
     "Blood pressure": "TEST"
@@ -21,7 +21,10 @@
     "temperature": "TEST"
   },
   {
-    "GENERAL APPEARANCE": "TEST"
+    "apparent distress": "PROBLEM"
+  },
+  {
+    "percussion": "TEST"
   },
   {
     "EOMI": "PROBLEM"
@@ -39,31 +42,34 @@
     "Funduscopic examination": "TEST"
   },
   {
-    "Ears": "TEST"
+    "TMs": "PROBLEM"
   },
   {
-    "TMs": "TEST"
+    "hearing": "PROBLEM"
   },
   {
-    "canals": "TEST"
+    "set": "TREATMENT"
   },
   {
-    "hearing": "TEST"
+    "shape": "TREATMENT"
+  },
+  {
+    "canals": "TREATMENT"
   },
   {
     "Nose and Sinuses": "PROBLEM"
   },
   {
-    "Mouth": "TEST"
+    "Mouth": "PROBLEM"
   },
   {
-    "Tongue": "TEST"
+    "Tongue": "PROBLEM"
   },
   {
-    "Teeth": "TEST"
+    "Teeth": "PROBLEM"
   },
   {
-    "Throat": "TEST"
+    "Throat": "PROBLEM"
   },
   {
     "dental work": "TREATMENT"
@@ -78,10 +84,22 @@
     "thyroid abnormality": "PROBLEM"
   },
   {
+    "bruit": "PROBLEM"
+  },
+  {
+    "Supple": "TEST"
+  },
+  {
+    "pain free": "TEST"
+  },
+  {
     "auscultation": "TEST"
   },
   {
     "percussion": "TEST"
+  },
+  {
+    "Lungs": "PROBLEM"
   },
   {
     "S1": "TEST"
@@ -114,13 +132,13 @@
     "PMI": "PROBLEM"
   },
   {
-    "Chest wall unremarkable": "PROBLEM"
+    "Chest wall": "PROBLEM"
   },
   {
     "adenopathy": "PROBLEM"
   },
   {
-    "BREASTS": "TEST"
+    "BREASTS": "PROBLEM"
   },
   {
     "hepatosplenomegaly": "PROBLEM"
@@ -147,7 +165,7 @@
     "intraabdominal bruit": "PROBLEM"
   },
   {
-    "EXTERNAL GENITALIA": "TEST"
+    "Normal for age": "PROBLEM"
   },
   {
     "Hemoccult": "TEST"
@@ -156,10 +174,10 @@
     "stool": "TEST"
   },
   {
-    "digital palpation": "TEST"
+    "palpation": "TEST"
   },
   {
-    "7 cm": "TEST"
+    "Negative": "TEST"
   },
   {
     "distal pulse": "TEST"
@@ -189,7 +207,10 @@
     "range of motion": "TEST"
   },
   {
-    "BACK": "TEST"
+    "percussion": "TEST"
+  },
+  {
+    "inspection": "TEST"
   },
   {
     "spinous process tenderness": "PROBLEM"
@@ -231,10 +252,13 @@
     "Gait and station": "TEST"
   },
   {
-    "premalignant or malignant condition": "PROBLEM"
+    "premalignant condition": "PROBLEM"
   },
   {
-    "normal changes for age": "PROBLEM"
+    "malignant condition": "PROBLEM"
+  },
+  {
+    "normal changes": "TEST"
   },
   {
     "hepatosplenomegaly": "PROBLEM"
@@ -261,9 +285,6 @@
     "adenopathy": "PROBLEM"
   },
   {
-    "chest": "TEST"
-  },
-  {
     "percussion": "TEST"
   },
   {
@@ -273,15 +294,6 @@
     "palpation": "TEST"
   },
   {
-    "signs": "TEST"
-  },
-  {
-    "tongue": "TEST"
-  },
-  {
-    "heent": "TEST"
-  },
-  {
-    "general appearance": "TEST"
+    "tongue": "PROBLEM"
   }
 ]

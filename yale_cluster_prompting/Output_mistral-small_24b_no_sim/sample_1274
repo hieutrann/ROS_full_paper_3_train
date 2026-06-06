@@ -3,6 +3,9 @@
     "knee osteoarthrosis": "PROBLEM"
   },
   {
+    "conservative management": "TREATMENT"
+  },
+  {
     "Knee osteoarthrosis": "PROBLEM"
   },
   {
@@ -12,7 +15,7 @@
     "knee osteoarthrosis": "PROBLEM"
   },
   {
-    "Failed": "TREATMENT"
+    "conservative management": "TREATMENT"
   },
   {
     "Right knee surgery": "TREATMENT"
@@ -33,10 +36,16 @@
     "Ambien": "DRUG"
   },
   {
-    "penicillin": "DRUG"
+    "PENICILLIN": "DRUG"
   },
   {
-    "auscultation": "TEST"
+    "Female": "PROBLEM"
+  },
+  {
+    "Normocephalic": "PROBLEM"
+  },
+  {
+    "CHEST": "TEST"
   },
   {
     "rate": "TEST"
@@ -45,34 +54,40 @@
     "rhythm": "TEST"
   },
   {
+    "neurovascularly intact": "TEST"
+  },
+  {
     "operating room": "TREATMENT"
   },
   {
     "right total knee arthroplasty": "TREATMENT"
   },
   {
-    "Mechanical and chemical deep venous thrombosis": "PROBLEM"
+    "Mechanical and chemical deep venous thrombosis": "TREATMENT"
   },
   {
-    "DVT": "PROBLEM"
+    "DVT prophylaxis": "TREATMENT"
   },
   {
-    "prophylaxis": "TREATMENT"
-  },
-  {
-    "antibiotics": "DRUG"
+    "Routine postoperative antibiotics": "DRUG"
   },
   {
     "Hemovac drain": "TREATMENT"
   },
   {
-    "therapy": "TREATMENT"
+    "Physical therapy": "TREATMENT"
   },
   {
     "Continuous passive motion (CPM)": "TREATMENT"
   },
   {
+    "void": "TEST"
+  },
+  {
     "oral pain medication": "DRUG"
+  },
+  {
+    "calf squeeze": "TEST"
   },
   {
     "Percocet": "DRUG"
@@ -81,7 +96,7 @@
     "Coumadin": "DRUG"
   },
   {
-    "physical therapy": "TREATMENT"
+    "Home physical therapy": "TREATMENT"
   },
   {
     "PT": "TREATMENT"
@@ -91,9 +106,6 @@
   },
   {
     "Coumadin": "DRUG"
-  },
-  {
-    "discharge summary": "TEST"
   },
   {
     "total knee arthroplasty": "TREATMENT"
@@ -115,8 +127,5 @@
   },
   {
     "osteoarthrosis": "PROBLEM"
-  },
-  {
-    "knee": "PROBLEM"
   }
 ]

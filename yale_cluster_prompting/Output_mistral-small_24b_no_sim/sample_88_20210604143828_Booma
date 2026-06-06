@@ -1,5 +1,8 @@
 [
   {
+    "Kawasaki": "PROBLEM"
+  },
+  {
     "fever": "PROBLEM"
   },
   {
@@ -7,6 +10,9 @@
   },
   {
     "arthritis": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
   },
   {
     "rash": "PROBLEM"
@@ -30,6 +36,9 @@
     "Kawasaki disease": "PROBLEM"
   },
   {
+    "Kawasaki": "PROBLEM"
+  },
+  {
     "fever": "PROBLEM"
   },
   {
@@ -37,6 +46,9 @@
   },
   {
     "arthritis": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
   },
   {
     "rash": "PROBLEM"
@@ -69,6 +81,12 @@
     "IVIG": "DRUG"
   },
   {
+    "IVIG": "DRUG"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
     "fever": "PROBLEM"
   },
   {
@@ -81,25 +99,37 @@
     "conjunctivitis": "PROBLEM"
   },
   {
-    "Aspirin": "DRUG"
+    "calm": "PROBLEM"
   },
   {
-    "aspirin": "DRUG"
+    "quiet": "PROBLEM"
+  },
+  {
+    "cardiac followup": "TREATMENT"
+  },
+  {
+    "PO ad-lib": "TREATMENT"
+  },
+  {
+    "Aspirin high dose 340 mg q.6h": "DRUG"
+  },
+  {
+    "aspirin low dose 40 mg q.d.": "DRUG"
   },
   {
     "Prevacid": "DRUG"
   },
   {
-    "GI": "PROBLEM"
+    "aspirin": "DRUG"
   },
   {
     "echo": "TEST"
   },
   {
-    "vaccine": "DRUG"
+    "IVIG": "DRUG"
   },
   {
-    "IVIG": "DRUG"
+    "live virus vaccine": "DRUG"
   },
   {
     "rashes": "PROBLEM"
@@ -108,16 +138,13 @@
     "fevers": "PROBLEM"
   },
   {
-    "discharge summary": "TEST"
+    "discharge summary": "PROBLEM"
   },
   {
     "mucous membranes": "PROBLEM"
   },
   {
     "conjunctivitis": "PROBLEM"
-  },
-  {
-    "ad lib": "DRUG"
   },
   {
     "kawasaki disease": "PROBLEM"

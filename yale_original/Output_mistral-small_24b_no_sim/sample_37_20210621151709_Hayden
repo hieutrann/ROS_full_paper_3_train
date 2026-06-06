@@ -3,7 +3,7 @@
     "Diabetes Mellitus": "PROBLEM"
   },
   {
-    "diabetic control": "PROBLEM"
+    "diabetic": "PROBLEM"
   },
   {
     "insulins": "DRUG"
@@ -18,10 +18,10 @@
     "insulin": "DRUG"
   },
   {
-    "glucoses": "PROBLEM"
+    "blood glucoses": "TEST"
   },
   {
-    "Lantus": "DRUG"
+    "Lantus insulin": "DRUG"
   },
   {
     "glucoses": "TEST"
@@ -33,6 +33,9 @@
     "fatigued": "PROBLEM"
   },
   {
+    "Vitals": "TEST"
+  },
+  {
     "Diabetes": "PROBLEM"
   },
   {
@@ -42,19 +45,25 @@
     "Lantus insulin": "DRUG"
   },
   {
+    "55 units": "DRUG"
+  },
+  {
     "Humalog sliding scale insulin": "DRUG"
   },
   {
     "blood glucoses": "TEST"
   },
   {
-    "diabetic control": "PROBLEM"
+    "diabetic control": "TREATMENT"
   },
   {
     "insulin": "DRUG"
   },
   {
     "low blood glucoses": "PROBLEM"
+  },
+  {
+    "sliding scale": "TREATMENT"
   },
   {
     "lantus insulin": "DRUG"

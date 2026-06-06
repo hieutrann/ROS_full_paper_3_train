@@ -1,27 +1,36 @@
 [
   {
-    "pancreatic": "PROBLEM"
+    "Pancreatic and left adrenal lesions": "PROBLEM"
   },
   {
-    "adrenal": "PROBLEM"
+    "Pancreatic lesion": "PROBLEM"
   },
   {
     "lesions": "PROBLEM"
   },
   {
-    "adenoma": "PROBLEM"
-  },
-  {
-    "neoplasm": "PROBLEM"
+    "left adrenal gland": "PROBLEM"
   },
   {
     "pneumonitis": "PROBLEM"
   },
   {
-    "CAT scan": "TEST"
+    "left adrenal nodule": "PROBLEM"
   },
   {
-    "MRI": "TEST"
+    "small pancreatic lesion": "PROBLEM"
+  },
+  {
+    "benign adenoma": "PROBLEM"
+  },
+  {
+    "pancreatic lesion": "PROBLEM"
+  },
+  {
+    "cystic nature": "PROBLEM"
+  },
+  {
+    "neoplasm": "PROBLEM"
   },
   {
     "abdominal pain": "PROBLEM"
@@ -42,13 +51,10 @@
     "melena": "PROBLEM"
   },
   {
-    "colonoscopy": "TEST"
-  },
-  {
     "adenomatous polyps": "PROBLEM"
   },
   {
-    "urination": "PROBLEM"
+    "frequent urination": "PROBLEM"
   },
   {
     "hypertension": "PROBLEM"
@@ -61,6 +67,42 @@
   },
   {
     "high cholesterol": "PROBLEM"
+  },
+  {
+    "prostate cancer": "PROBLEM"
+  },
+  {
+    "brain cancer": "PROBLEM"
+  },
+  {
+    "heart disease": "PROBLEM"
+  },
+  {
+    "diabetes": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "exertional shortness of breath": "PROBLEM"
+  },
+  {
+    "GI problems": "PROBLEM"
+  },
+  {
+    "bleeding disorders": "PROBLEM"
+  },
+  {
+    "bleeding history": "PROBLEM"
+  },
+  {
+    "CAT scan": "TEST"
+  },
+  {
+    "MRI": "TEST"
+  },
+  {
+    "colonoscopy": "TEST"
   },
   {
     "glipizide": "DRUG"
@@ -94,33 +136,6 @@
   },
   {
     "fluticasone spray": "DRUG"
-  },
-  {
-    "prostate cancer": "PROBLEM"
-  },
-  {
-    "brain cancer": "PROBLEM"
-  },
-  {
-    "heart disease": "PROBLEM"
-  },
-  {
-    "diabetes": "PROBLEM"
-  },
-  {
-    "chest pain": "PROBLEM"
-  },
-  {
-    "shortness of breath": "PROBLEM"
-  },
-  {
-    "GI problems": "PROBLEM"
-  },
-  {
-    "bleeding disorders": "PROBLEM"
-  },
-  {
-    "bleeding history": "PROBLEM"
   },
   {
     "ERCP": "TREATMENT"

@@ -30,22 +30,19 @@
     "pain": "PROBLEM"
   },
   {
+    "HISTORY OF PRESENT ILLNESS": "TEST"
+  },
+  {
     "morbid obesity": "PROBLEM"
   },
   {
-    "weight loss": "PROBLEM"
+    "nonsurgical weight loss": "TREATMENT"
   },
   {
     "gastric bypass": "TREATMENT"
   },
   {
-    "procedure": "TREATMENT"
-  },
-  {
-    "procedure": "TREATMENT"
-  },
-  {
-    "postoperative day": "TEST"
+    "Ms.": "PROBLEM"
   },
   {
     "hemodynamically stable": "PROBLEM"
@@ -57,10 +54,13 @@
     "normal labs": "TEST"
   },
   {
-    "clear liquid diet": "TREATMENT"
+    "a clear liquid diet": "TREATMENT"
   },
   {
-    "p.o.": "DRUG"
+    "ambulated": "TREATMENT"
+  },
+  {
+    "Pain": "PROBLEM"
   },
   {
     "pain medicine": "DRUG"
@@ -69,37 +69,25 @@
     "ambulating without difficulty": "PROBLEM"
   },
   {
-    "liquid diet": "TREATMENT"
+    "a liquid diet": "TREATMENT"
+  },
+  {
+    "Her drain": "TREATMENT"
   },
   {
     "Liquid diet": "TREATMENT"
   },
   {
-    "pureed": "TREATMENT"
+    "No heavy lifting": "TREATMENT"
   },
   {
-    "soft": "TREATMENT"
+    "strenuous activity": "TREATMENT"
   },
   {
-    "heavy lifting": "TREATMENT"
-  },
-  {
-    "strenuous activity": "PROBLEM"
-  },
-  {
-    "mobility": "PROBLEM"
-  },
-  {
-    "driving": "TREATMENT"
+    "No driving": "TREATMENT"
   },
   {
     "narcotic pain medicine": "DRUG"
-  },
-  {
-    "wounds": "PROBLEM"
-  },
-  {
-    "postoperative evaluation": "TEST"
   },
   {
     "shortness of breath": "PROBLEM"
@@ -111,7 +99,7 @@
     "calf pain": "PROBLEM"
   },
   {
-    "temperature": "PROBLEM"
+    "temperature greater than 101.5": "PROBLEM"
   },
   {
     "redness": "PROBLEM"
@@ -120,10 +108,10 @@
     "swelling": "PROBLEM"
   },
   {
-    "drainage": "PROBLEM"
+    "foul smelling drainage": "PROBLEM"
   },
   {
-    "nausea": "PROBLEM"
+    "intractable nausea": "PROBLEM"
   },
   {
     "vomiting": "PROBLEM"
@@ -147,7 +135,7 @@
     "Colace": "DRUG"
   },
   {
-    "discharge summary": "TEST"
+    "discharge summary": "PROBLEM"
   },
   {
     "laparoscopic gastric bypass": "TREATMENT"
@@ -163,8 +151,5 @@
   },
   {
     "bmi": "TEST"
-  },
-  {
-    "discharge": "TEST"
   }
 ]

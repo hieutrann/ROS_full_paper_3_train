@@ -18,13 +18,13 @@
     "blood count": "TEST"
   },
   {
-    "IV antibiotics": "TREATMENT"
+    "antibiotics": "DRUG"
   },
   {
     "antibiotics": "DRUG"
   },
   {
-    "temperature of 102": "PROBLEM"
+    "temperature": "TEST"
   },
   {
     "strep": "PROBLEM"
@@ -51,6 +51,9 @@
     "blood cultures": "TEST"
   },
   {
+    "anesthesia": "TREATMENT"
+  },
+  {
     "White count": "TEST"
   },
   {
@@ -69,10 +72,13 @@
     "febrile seizure": "PROBLEM"
   },
   {
-    "temperature": "PROBLEM"
+    "temperature": "TEST"
   },
   {
     "white count": "TEST"
+  },
+  {
+    "antibiotics": "DRUG"
   },
   {
     "febrile seizure": "PROBLEM"

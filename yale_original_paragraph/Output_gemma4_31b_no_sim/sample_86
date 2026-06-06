@@ -60,7 +60,16 @@
     "tearful": "PROBLEM"
   },
   {
+    "homesick": "PROBLEM"
+  },
+  {
     "strange feelings and sensations": "PROBLEM"
+  },
+  {
+    "relapse": "PROBLEM"
+  },
+  {
+    "RTC program": "TREATMENT"
   },
   {
     "sleep-deprived EEG": "TEST"
@@ -112,6 +121,9 @@
   },
   {
     "heart murmur": "PROBLEM"
+  },
+  {
+    "H&P exam": "TEST"
   },
   {
     "CBC": "TEST"
@@ -168,7 +180,10 @@
     "galactorrhea": "PROBLEM"
   },
   {
-    "galactorrhea (lactation)": "PROBLEM"
+    "galactorrhea": "PROBLEM"
+  },
+  {
+    "lactation": "PROBLEM"
   },
   {
     "Risperdal": "DRUG"

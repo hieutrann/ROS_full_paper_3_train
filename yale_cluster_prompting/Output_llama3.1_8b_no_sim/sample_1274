@@ -12,13 +12,13 @@
     "knee osteoarthrosis": "PROBLEM"
   },
   {
-    "Failed conservative management": "PROBLEM"
+    "conservative management": "TREATMENT"
   },
   {
     "treatment options": "TREATMENT"
   },
   {
-    "informed consent": "TREATMENT"
+    "informed consent": "PROBLEM"
   },
   {
     "Right knee surgery": "TREATMENT"
@@ -39,55 +39,46 @@
     "Ambien": "DRUG"
   },
   {
-    "PENICILLIN": "DRUG"
+    "PENICILLIN": "PROBLEM"
   },
   {
     "Female": "PROBLEM"
   },
   {
-    "gait": "PROBLEM"
+    "gait": "TEST"
   },
   {
-    "Normocephalic": "PROBLEM"
+    "Normocephalic": "TEST"
   },
   {
-    "atraumatic": "PROBLEM"
+    "atraumatic": "TEST"
   },
   {
     "auscultation": "TEST"
   },
   {
-    "rate": "TEST"
-  },
-  {
-    "rhythm": "TEST"
+    "Regular rate and rhythm": "TEST"
   },
   {
     "ABDOMEN": "PROBLEM"
   },
   {
-    "neurovascularly intact": "PROBLEM"
+    "neurovascularly": "TEST"
   },
   {
-    "operating room": "TREATMENT"
+    "operating room": "TEST"
   },
   {
-    "total knee arthroplasty": "TREATMENT"
-  },
-  {
-    "well": "PROBLEM"
-  },
-  {
-    "recovery room": "PROBLEM"
+    "knee arthroplasty": "TREATMENT"
   },
   {
     "surgical floor": "TREATMENT"
   },
   {
-    "deep venous thrombosis (DVT)": "PROBLEM"
+    "deep venous thrombosis": "PROBLEM"
   },
   {
-    "prophylaxis": "TREATMENT"
+    "DVT": "PROBLEM"
   },
   {
     "antibiotics": "DRUG"
@@ -96,13 +87,13 @@
     "Hemovac drain": "TREATMENT"
   },
   {
-    "therapy": "TREATMENT"
+    "physical therapy": "TREATMENT"
   },
   {
-    "Continuous passive motion (CPM)": "TREATMENT"
+    "Continuous passive motion": "TREATMENT"
   },
   {
-    "void": "PROBLEM"
+    "void": "TEST"
   },
   {
     "oral pain medication": "DRUG"
@@ -114,10 +105,10 @@
     "calf squeeze": "TEST"
   },
   {
-    "home": "TREATMENT"
+    "discharge home": "TREATMENT"
   },
   {
-    "Discharged to home": "TREATMENT"
+    "Discharged": "TREATMENT"
   },
   {
     "Dr": "TREATMENT"
@@ -138,18 +129,18 @@
     "INR": "TEST"
   },
   {
-    "PT": "TREATMENT"
+    "physical therapy": "TREATMENT"
   },
   {
-    "knee osteoarthrosis": "PROBLEM"
+    "PT": "TREATMENT"
   },
   {
     "knee arthroplasty": "TREATMENT"
   },
   {
-    "physical therapy": "TREATMENT"
+    "knee osteoarthrosis": "PROBLEM"
   },
   {
-    "conservative management": "TREATMENT"
+    "physical therapy": "TREATMENT"
   }
 ]

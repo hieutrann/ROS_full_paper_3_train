@@ -1,0 +1,50 @@
+[
+  {
+    "cough": "TEST"
+  },
+  {
+    "sputum": "TEST"
+  },
+  {
+    "shortness of breath": "TEST"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "weight": "PROBLEM"
+  },
+  {
+    "fatigue": "PROBLEM"
+  },
+  {
+    "aching": "PROBLEM"
+  },
+  {
+    "nose": "PROBLEM"
+  },
+  {
+    "throat": "PROBLEM"
+  },
+  {
+    "swelling": "PROBLEM"
+  },
+  {
+    "disease": "PROBLEM"
+  },
+  {
+    "incontinence": "PROBLEM"
+  },
+  {
+    "bleeding": "PROBLEM"
+  },
+  {
+    "heartbeat": "TEST"
+  },
+  {
+    "blood": "TEST"
+  },
+  {
+    "joint": "PROBLEM"
+  }
+]

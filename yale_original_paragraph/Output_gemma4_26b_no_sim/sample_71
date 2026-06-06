@@ -48,7 +48,16 @@
     "swelling in her ankles": "PROBLEM"
   },
   {
+    "Wt": "TEST"
+  },
+  {
     "B/P": "TEST"
+  },
+  {
+    "T": "TEST"
+  },
+  {
+    "P": "TEST"
   },
   {
     "frontal and maxillary sinus tenderness": "PROBLEM"
@@ -64,6 +73,9 @@
   },
   {
     "Allegra D": "DRUG"
+  },
+  {
+    "Allegra": "DRUG"
   },
   {
     "A1c": "TEST"
@@ -87,7 +99,7 @@
     "cancer": "PROBLEM"
   },
   {
-    "weight loss": "PROBLEM"
+    "weight loss": "TREATMENT"
   },
   {
     "diabetes mellitus": "PROBLEM"
@@ -117,7 +129,10 @@
     "vomiting": "PROBLEM"
   },
   {
-    "weight loss": "PROBLEM"
+    "weight loss": "TREATMENT"
+  },
+  {
+    "colonoscopy": "TEST"
   },
   {
     "diabetes": "PROBLEM"

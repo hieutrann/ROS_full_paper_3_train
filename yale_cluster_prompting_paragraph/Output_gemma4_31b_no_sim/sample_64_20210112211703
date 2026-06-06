@@ -1,12 +1,6 @@
 [
   {
-    "right foot ulcer": "PROBLEM"
-  },
-  {
-    "osteomyelitis": "PROBLEM"
-  },
-  {
-    "right foot ulcer": "PROBLEM"
+    "foot ulcer": "PROBLEM"
   },
   {
     "osteomyelitis": "PROBLEM"
@@ -18,7 +12,10 @@
     "Cultures": "TEST"
   },
   {
-    "methicillin-sensitive Staphylococcus aureus (MSSA)": "PROBLEM"
+    "methicillin-sensitive Staphylococcus aureus": "PROBLEM"
+  },
+  {
+    "MSSA": "PROBLEM"
   },
   {
     "intravenous antibiotic therapy": "TREATMENT"
@@ -27,16 +24,13 @@
     "Levaquin": "DRUG"
   },
   {
-    "debridement of the wound": "TREATMENT"
+    "debridement": "TREATMENT"
   },
   {
     "MRI": "TEST"
   },
   {
     "bone scan": "TEST"
-  },
-  {
-    "osteomyelitis": "PROBLEM"
   },
   {
     "wound care": "TREATMENT"
@@ -48,9 +42,6 @@
     "lacerated wound": "PROBLEM"
   },
   {
-    "osteomyelitis": "PROBLEM"
-  },
-  {
     "serosanguineous drainage": "PROBLEM"
   },
   {
@@ -58,9 +49,6 @@
   },
   {
     "Osteomyelitis of the right fifth toe": "PROBLEM"
-  },
-  {
-    "intravenous antibiotic therapy": "TREATMENT"
   },
   {
     "heart attack": "PROBLEM"
@@ -75,40 +63,25 @@
     "cerebral palsy": "PROBLEM"
   },
   {
-    "lacerated wound": "PROBLEM"
+    "lymphadenopathy": "PROBLEM"
   },
   {
-    "osteomyelitis": "PROBLEM"
+    "bowel sounds": "TEST"
   },
   {
-    "diabetes mellitus": "PROBLEM"
+    "cyanosis": "PROBLEM"
   },
   {
-    "debridement": "TREATMENT"
+    "clubbing": "PROBLEM"
   },
   {
-    "Culture results": "TEST"
+    "edema": "PROBLEM"
   },
   {
-    "methicillin-sensitive Staphylococcus aureus": "PROBLEM"
+    "endocarditis": "PROBLEM"
   },
   {
     "Right foot infected ulcer": "PROBLEM"
-  },
-  {
-    "osteomyelitis": "PROBLEM"
-  },
-  {
-    "MRI": "TEST"
-  },
-  {
-    "bone scan": "TEST"
-  },
-  {
-    "methicillin-sensitive Staphylococcus aureus": "PROBLEM"
-  },
-  {
-    "Levaquin": "DRUG"
   },
   {
     "Zyvox": "DRUG"
@@ -120,22 +93,10 @@
     "Ancef": "DRUG"
   },
   {
-    "osteomyelitis": "PROBLEM"
-  },
-  {
     "deep wound infection": "PROBLEM"
   },
   {
-    "wound care": "TREATMENT"
-  },
-  {
-    "wound VAC placement": "TREATMENT"
-  },
-  {
     "PICC line": "TREATMENT"
-  },
-  {
-    "intravenous antibiotic therapy": "TREATMENT"
   },
   {
     "CBC with differential": "TEST"
@@ -153,18 +114,6 @@
     "C-reactive protein levels": "TEST"
   },
   {
-    "chemistry 7 panel": "TEST"
-  },
-  {
     "CBC": "TEST"
-  },
-  {
-    "deep wound cultures": "TEST"
-  },
-  {
-    "MRI": "TEST"
-  },
-  {
-    "bone scan": "TEST"
   }
 ]

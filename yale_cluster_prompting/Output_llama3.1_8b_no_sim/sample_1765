@@ -3,19 +3,19 @@
     "Liver Biopsy": "TEST"
   },
   {
+    "Percutaneous liver biopsy": "TEST"
+  },
+  {
+    "Liver Biopsy": "TREATMENT"
+  },
+  {
     "Percutaneous liver biopsy": "TREATMENT"
   },
   {
-    "Surgery": "TREATMENT"
-  },
-  {
-    "supine position": "TEST"
+    "maximal dullness": "PROBLEM"
   },
   {
     "percussion": "TEST"
-  },
-  {
-    "maximal dullness": "PROBLEM"
   },
   {
     "mid-axillary location": "PROBLEM"
@@ -27,7 +27,7 @@
     "Lidocaine": "DRUG"
   },
   {
-    "iodine": "PROBLEM"
+    "iodine": "DRUG"
   },
   {
     "lidocaine": "DRUG"
@@ -57,13 +57,10 @@
     "procedure": "TREATMENT"
   },
   {
-    "supine position": "TEST"
+    "maximal dullness": "PROBLEM"
   },
   {
     "percussion": "TEST"
-  },
-  {
-    "maximal dullness": "PROBLEM"
   },
   {
     "mid-axillary location": "PROBLEM"
@@ -90,7 +87,7 @@
     "liver": "PROBLEM"
   },
   {
-    "deep expiration": "TEST"
+    "expiration": "TEST"
   },
   {
     "Liver cores": "TEST"
@@ -99,10 +96,19 @@
     "Pathology": "TEST"
   },
   {
-    "routine histologic study": "TEST"
+    "histologic study": "TEST"
+  },
+  {
+    "close observation": "TREATMENT"
   },
   {
     "medical treatment room": "TREATMENT"
+  },
+  {
+    "four to six hours": "TREATMENT"
+  },
+  {
+    "discharged home": "TREATMENT"
   },
   {
     "medication": "DRUG"
@@ -111,7 +117,7 @@
     "tomorrow": "TREATMENT"
   },
   {
-    "abdominal pain": "PROBLEM"
+    "severe abdominal pain": "PROBLEM"
   },
   {
     "chest pain": "PROBLEM"
@@ -135,16 +141,16 @@
     "management decisions": "TREATMENT"
   },
   {
-    "COMPLICATIONS": "PROBLEM"
+    "liver biopsy": "TEST"
+  },
+  {
+    "None": "PROBLEM"
   },
   {
     "hepatitis A and B vaccines": "DRUG"
   },
   {
     "vaccination": "TREATMENT"
-  },
-  {
-    "vaccination": "TEST"
   },
   {
     "surgery": "TREATMENT"
@@ -159,16 +165,7 @@
     "pneumothorax": "PROBLEM"
   },
   {
-    "klatskin needle": "TEST"
-  },
-  {
-    "mid axillary": "TEST"
-  },
-  {
-    "liver biopsy": "TEST"
-  },
-  {
-    "percutaneous": "TEST"
+    "klatskin needle": "DRUG"
   },
   {
     "lidocaine": "DRUG"
@@ -177,6 +174,12 @@
     "biopsy": "TEST"
   },
   {
-    "liver": "PROBLEM"
+    "liver biopsy": "TEST"
+  },
+  {
+    "percussion": "TEST"
+  },
+  {
+    "percutaneous": "TEST"
   }
 ]

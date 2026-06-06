@@ -33,7 +33,7 @@
     "Hypertension": "PROBLEM"
   },
   {
-    "Severe chronic obstructive pulmonary disease": "PROBLEM"
+    "chronic obstructive pulmonary disease": "PROBLEM"
   },
   {
     "Diabetes mellitus": "PROBLEM"
@@ -43,12 +43,6 @@
   },
   {
     "Altered mental status": "PROBLEM"
-  },
-  {
-    "somnolent": "PROBLEM"
-  },
-  {
-    "medications": "DRUG"
   },
   {
     "Lower gastrointestinal bleed": "PROBLEM"
@@ -76,12 +70,6 @@
   },
   {
     "NPH": "DRUG"
-  },
-  {
-    "10 units": "DRUG"
-  },
-  {
-    "subcutaneous": "TREATMENT"
   },
   {
     "Atrovent inhaler": "DRUG"
@@ -138,19 +126,13 @@
     "acute lower GI bleed": "PROBLEM"
   },
   {
-    "transfused": "TREATMENT"
-  },
-  {
-    "packed red blood cells": "TREATMENT"
+    "transfused packed red blood cells": "TREATMENT"
   },
   {
     "endoscopy": "TEST"
   },
   {
-    "diverticular disease": "PROBLEM"
-  },
-  {
-    "sigmoid colon": "PROBLEM"
+    "diverticular disease of the sigmoid colon": "PROBLEM"
   },
   {
     "hemorrhage": "PROBLEM"
@@ -163,9 +145,6 @@
   },
   {
     "bleeding": "PROBLEM"
-  },
-  {
-    "respiratory status": "PROBLEM"
   },
   {
     "chronic obstructive pulmonary disease": "PROBLEM"
@@ -204,7 +183,7 @@
     "pulmonary disease": "PROBLEM"
   },
   {
-    "inhaler": "DRUG"
+    "inhaler": "TREATMENT"
   },
   {
     "copd": "PROBLEM"

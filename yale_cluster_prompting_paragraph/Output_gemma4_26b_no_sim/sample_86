@@ -45,19 +45,10 @@
     "anxious and depressed moods": "PROBLEM"
   },
   {
-    "tearful": "PROBLEM"
-  },
-  {
-    "homesick": "PROBLEM"
-  },
-  {
     "sleep-deprived EEG": "TEST"
   },
   {
     "EKG": "TEST"
-  },
-  {
-    "basic blood work": "TEST"
   },
   {
     "basic metabolic panel": "TEST"
@@ -87,19 +78,10 @@
     "T4": "TEST"
   },
   {
-    "TSH": "TEST"
-  },
-  {
     "asthma": "PROBLEM"
   },
   {
     "heart murmur": "PROBLEM"
-  },
-  {
-    "Hematocrit": "TEST"
-  },
-  {
-    "absolute monocytes": "TEST"
   },
   {
     "Major depression, recurrent, with psychotic features": "PROBLEM"

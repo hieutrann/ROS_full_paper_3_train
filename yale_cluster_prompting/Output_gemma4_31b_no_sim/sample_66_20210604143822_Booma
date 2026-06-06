@@ -21,13 +21,7 @@
     "Diarrhea": "PROBLEM"
   },
   {
-    "General surgery": "TREATMENT"
-  },
-  {
-    "Surgery Oncology": "TREATMENT"
-  },
-  {
-    "Cystoscopy": "TREATMENT"
+    "Cystoscopy": "TEST"
   },
   {
     "bilaterally retrograde pyelograms": "TEST"
@@ -72,7 +66,7 @@
     "ureteral stent placement": "TREATMENT"
   },
   {
-    "cystoscopy": "TREATMENT"
+    "cystoscopy": "TEST"
   },
   {
     "bilateral ureteral stent placement": "TREATMENT"
@@ -99,9 +93,6 @@
     "mitomycin-C": "DRUG"
   },
   {
-    "procedure": "TREATMENT"
-  },
-  {
     "tachycardia": "PROBLEM"
   },
   {
@@ -123,7 +114,7 @@
     "pain medicines": "DRUG"
   },
   {
-    "diarrhea": "PROBLEM"
+    "mild diarrhea": "PROBLEM"
   },
   {
     "right hemicolectomy": "TREATMENT"
@@ -138,9 +129,6 @@
     "diarrhea": "PROBLEM"
   },
   {
-    "post-splenectomy vaccines": "DRUG"
-  },
-  {
     "pneumococcal": "DRUG"
   },
   {
@@ -153,16 +141,19 @@
     "afebrile": "PROBLEM"
   },
   {
-    "vital signs": "TEST"
+    "abdomen was soft": "PROBLEM"
   },
   {
-    "physical exam": "TEST"
+    "nondistended": "PROBLEM"
   },
   {
-    "midline incision": "TREATMENT"
+    "nontender": "PROBLEM"
   },
   {
-    "staples": "TREATMENT"
+    "bowel sounds present throughout": "PROBLEM"
+  },
+  {
+    "midline incision": "PROBLEM"
   },
   {
     "staples": "TREATMENT"
@@ -174,7 +165,7 @@
     "Lovenox": "DRUG"
   },
   {
-    "Vicodin": "DRUG"
+    "Vicodin 5/500 mg": "DRUG"
   },
   {
     "pain": "PROBLEM"
@@ -213,7 +204,7 @@
     "drainage": "PROBLEM"
   },
   {
-    "warmth": "PROBLEM"
+    "warmth around his incision site": "PROBLEM"
   },
   {
     "staples will be removed": "TREATMENT"

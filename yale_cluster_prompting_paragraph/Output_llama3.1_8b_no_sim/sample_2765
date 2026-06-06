@@ -6,13 +6,13 @@
     "mucous plugging": "PROBLEM"
   },
   {
-    "hypertension": "PROBLEM"
+    "Hypertension": "PROBLEM"
   },
   {
     "renal insufficiency": "PROBLEM"
   },
   {
-    "anemia": "PROBLEM"
+    "Anemia": "PROBLEM"
   },
   {
     "Klebsiella": "PROBLEM"
@@ -21,13 +21,25 @@
     "Bactrim": "DRUG"
   },
   {
+    "IV antibiotics": "DRUG"
+  },
+  {
     "p.o. Bactrim": "DRUG"
   },
   {
     "ibuprofen": "DRUG"
   },
   {
-    "IV antibiotics": "DRUG"
+    "EGD": "TEST"
+  },
+  {
+    "colonoscopy": "TEST"
+  },
+  {
+    "barium enema": "TEST"
+  },
+  {
+    "urine": "TEST"
   },
   {
     "surgery": "TREATMENT"
@@ -36,24 +48,12 @@
     "irrigated": "TREATMENT"
   },
   {
-    "urine": "TEST"
+    "IV antibiotics": "TREATMENT"
   },
   {
-    "urinary diversion": "TEST"
+    "p.o. Bactrim": "TREATMENT"
   },
   {
-    "ileal conduit": "TEST"
-  },
-  {
-    "Foley": "TEST"
-  },
-  {
-    "right knee pain": "PROBLEM"
-  },
-  {
-    "effusion": "PROBLEM"
-  },
-  {
-    "patellar tendon": "TEST"
+    "ibuprofen": "TREATMENT"
   }
 ]

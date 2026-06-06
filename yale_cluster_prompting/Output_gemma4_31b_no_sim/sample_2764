@@ -9,7 +9,7 @@
     "rheumatoid arthritis": "PROBLEM"
   },
   {
-    "mild stress-induced adrenal insufficiency": "PROBLEM"
+    "suspected mild stress-induced adrenal insufficiency": "PROBLEM"
   },
   {
     "cough": "PROBLEM"
@@ -25,9 +25,6 @@
   },
   {
     "Pneumonia": "PROBLEM"
-  },
-  {
-    "outpatient treatment": "TREATMENT"
   },
   {
     "Hypoxia": "PROBLEM"
@@ -63,7 +60,7 @@
     "chills": "PROBLEM"
   },
   {
-    "x-ray": "TEST"
+    "Initial x-ray": "TEST"
   },
   {
     "mild diffuse patchy infiltrates": "PROBLEM"
@@ -88,9 +85,6 @@
   },
   {
     "O2 saturations": "TEST"
-  },
-  {
-    "outpatient treatment": "TREATMENT"
   },
   {
     "pneumonia": "PROBLEM"
@@ -120,7 +114,7 @@
     "C. difficile toxin": "TEST"
   },
   {
-    "Rocephin": "DRUG"
+    "Rocephin IV": "DRUG"
   },
   {
     "azithromycin": "DRUG"

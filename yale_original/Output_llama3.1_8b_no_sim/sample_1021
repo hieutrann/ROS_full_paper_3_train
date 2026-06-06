@@ -3,19 +3,16 @@
     "Digital screening mammogram": "TEST"
   },
   {
-    "Full-Field Digital Mammogram (FFDM)": "TEST"
+    "Full-Field Digital Mammogram": "TEST"
   },
   {
     "Bilateral Screening Mammogram": "TEST"
   },
   {
-    "Full-Field Digital Mammography (FFDM)": "TEST"
+    "Full-Field Digital Mammography": "TEST"
   },
   {
-    "Benign Findings": "PROBLEM"
-  },
-  {
-    "51-year-old female": "TEST"
+    "mammography": "TEST"
   },
   {
     "breast cancer": "PROBLEM"
@@ -24,37 +21,25 @@
     "Breast cancer": "PROBLEM"
   },
   {
-    "Craniocaudal": "TEST"
-  },
-  {
-    "mediolateral oblique": "TEST"
-  },
-  {
-    "projections": "TEST"
-  },
-  {
-    "bilateral breasts": "TEST"
+    "breasts": "TEST"
   },
   {
     "previous performed": "TEST"
   },
   {
-    "iCAD Second Look proprietary software": "TEST"
+    "iCAD Second Look": "TEST"
   },
   {
     "breasts": "PROBLEM"
   },
   {
-    "Composition": "PROBLEM"
+    "calcifications": "PROBLEM"
   },
   {
     "calcifications": "PROBLEM"
   },
   {
-    "malignant-type calcifications": "PROBLEM"
-  },
-  {
-    "Skin overlying both breasts": "PROBLEM"
+    "Skin": "PROBLEM"
   },
   {
     "mammographic findings": "PROBLEM"
@@ -69,25 +54,31 @@
     "cancers": "PROBLEM"
   },
   {
-    "2": "TEST"
+    "mammography": "TEST"
   },
   {
-    "radiographic evidence of malignancy": "PROBLEM"
+    "2": "TREATMENT"
+  },
+  {
+    "malignancy": "PROBLEM"
   },
   {
     "biopsy": "TREATMENT"
   },
   {
-    "mass": "PROBLEM"
+    "radiographic": "TEST"
   },
   {
-    "3": "PROBLEM"
+    "3": "TREATMENT"
   },
   {
-    "FDA-approved digital mammography equipment": "TEST"
+    "digital mammography": "TEST"
   },
   {
-    "iCAD SecondLook Software Version 7.2": "TEST"
+    "SecondLook Software": "TEST"
+  },
+  {
+    "Version 7.2": "TEST"
   },
   {
     "breast cancer": "PROBLEM"

@@ -6,10 +6,10 @@
     "partial medial meniscectomy": "TREATMENT"
   },
   {
-    "Right tibial plateau fracture": "PROBLEM"
+    "tibial plateau fracture": "PROBLEM"
   },
   {
-    "Right tibial plateau fracture": "PROBLEM"
+    "tibial plateau fracture": "PROBLEM"
   },
   {
     "medial meniscus tear": "PROBLEM"
@@ -45,19 +45,19 @@
     "partial medial meniscectomy": "TREATMENT"
   },
   {
+    "open reduction and internal fixation": "TREATMENT"
+  },
+  {
     "dyspnea": "PROBLEM"
   },
   {
     "bronchitis": "PROBLEM"
   },
   {
-    "thick secretions": "PROBLEM"
-  },
-  {
     "fluid overload": "PROBLEM"
   },
   {
-    "CPM machine": "TEST"
+    "CPM machine": "TREATMENT"
   },
   {
     "nebulizer treatment": "TREATMENT"
@@ -66,10 +66,10 @@
     "Lasix": "DRUG"
   },
   {
-    "breathing": "PROBLEM"
+    "breathing": "TEST"
   },
   {
-    "ABCD": "TEST"
+    "ABCD": "TREATMENT"
   },
   {
     "tibial plateau fracture": "PROBLEM"
@@ -81,10 +81,10 @@
     "open reduction and internal fixation": "TREATMENT"
   },
   {
-    "DIET": "TREATMENT"
+    "Diet": "TREATMENT"
   },
   {
-    "Nonweightbearing": "TREATMENT"
+    "lower extremity": "PROBLEM"
   },
   {
     "CPM machine": "TREATMENT"
@@ -102,7 +102,7 @@
     "occupational therapy": "TREATMENT"
   },
   {
-    "social work consults": "TREATMENT"
+    "social work": "TREATMENT"
   },
   {
     "Lasix": "DRUG"
@@ -114,9 +114,6 @@
     "Vicodin": "DRUG"
   },
   {
-    "pain": "PROBLEM"
-  },
-  {
     "Combivent": "DRUG"
   },
   {
@@ -126,45 +123,54 @@
     "guaifenesin": "DRUG"
   },
   {
+    "pain": "PROBLEM"
+  },
+  {
+    "breathing": "PROBLEM"
+  },
+  {
     "Dr.": "TREATMENT"
   },
   {
-    "Y": "TEST"
+    "Y in 7 to 10 days": "TEST"
   },
   {
-    "CONDITION ON DISCHARGE": "PROBLEM"
+    "Stable": "PROBLEM"
   },
   {
-    "Schatzker III tibial plateau fracture": "PROBLEM"
+    "Schatzker III Tibial Plateau Fracture": "PROBLEM"
   },
   {
-    "meniscectomy": "TREATMENT"
+    "Meniscectomy": "TREATMENT"
   },
   {
-    "open reduction": "TREATMENT"
+    "Open Reduction": "TREATMENT"
   },
   {
-    "internal fixation": "TREATMENT"
-  },
-  {
-    "ORIF": "TREATMENT"
+    "Internal Fixation": "TREATMENT"
   },
   {
     "Schatzker": "PROBLEM"
   },
   {
-    "tibial plateau fracture": "PROBLEM"
-  },
-  {
-    "reduction": "TREATMENT"
-  },
-  {
-    "fixation": "TREATMENT"
-  },
-  {
-    "meniscectomy": "TREATMENT"
+    "Tibial Plateau Fracture": "PROBLEM"
   },
   {
     "ORIF": "TREATMENT"
+  },
+  {
+    "Reduction": "TREATMENT"
+  },
+  {
+    "Fixation": "TREATMENT"
+  },
+  {
+    "Tibial": "PROBLEM"
+  },
+  {
+    "Fracture": "PROBLEM"
+  },
+  {
+    "Plateau": "PROBLEM"
   }
 ]

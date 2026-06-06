@@ -1,9 +1,9 @@
 [
   {
-    "advanced non-small cell lung carcinoma": "PROBLEM"
+    "non-small cell lung carcinoma": "PROBLEM"
   },
   {
-    "left malignant pleural effusion": "PROBLEM"
+    "malignant pleural effusion": "PROBLEM"
   },
   {
     "chest tube insertion": "TREATMENT"
@@ -102,10 +102,7 @@
     "osseous metastatic disease": "PROBLEM"
   },
   {
-    "right scapula": "PROBLEM"
-  },
-  {
-    "left large pleural effusion": "PROBLEM"
+    "pleural effusion": "PROBLEM"
   },
   {
     "shortness of breath": "PROBLEM"
@@ -129,7 +126,7 @@
     "metastatic disease": "PROBLEM"
   },
   {
-    "bronchoscopy": "TREATMENT"
+    "bronchoscopy": "TEST"
   },
   {
     "non-small cell lung CA": "PROBLEM"
@@ -166,6 +163,12 @@
   },
   {
     "withdrawal of the life support": "TREATMENT"
+  },
+  {
+    "extubated": "TREATMENT"
+  },
+  {
+    "dnr": "TREATMENT"
   },
   {
     "extubated": "TREATMENT"

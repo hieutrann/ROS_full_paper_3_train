@@ -12,7 +12,7 @@
     "methicillin-sensitive Staphylococcus aureus": "PROBLEM"
   },
   {
-    "MSSA": "PROBLEM"
+    "MSSSA": "PROBLEM"
   },
   {
     "Levaquin": "DRUG"
@@ -51,6 +51,27 @@
     "cerebral palsy": "PROBLEM"
   },
   {
+    "lymphadenopathy": "PROBLEM"
+  },
+  {
+    "organomegaly": "PROBLEM"
+  },
+  {
+    "bowel sounds": "TEST"
+  },
+  {
+    "cyanosis": "PROBLEM"
+  },
+  {
+    "clubbing": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "endocarditis": "PROBLEM"
+  },
+  {
     "Zyvox": "DRUG"
   },
   {
@@ -58,9 +79,6 @@
   },
   {
     "Ancef": "DRUG"
-  },
-  {
-    "deep wound infection": "PROBLEM"
   },
   {
     "PICC line": "TREATMENT"

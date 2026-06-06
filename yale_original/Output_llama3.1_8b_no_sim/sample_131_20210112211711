@@ -3,12 +3,6 @@
     "General Medicine": "TREATMENT"
   },
   {
-    "Normal ROS Template - 2": "TEST"
-  },
-  {
-    "Normal review of systems template": "TEST"
-  },
-  {
     "weakness": "PROBLEM"
   },
   {
@@ -162,6 +156,12 @@
     "abdominal pain": "PROBLEM"
   },
   {
+    "frequency": "PROBLEM"
+  },
+  {
+    "urgency": "PROBLEM"
+  },
+  {
     "dysuria": "PROBLEM"
   },
   {
@@ -186,7 +186,7 @@
     "back pain": "PROBLEM"
   },
   {
-    "PSYCHIATRIC": "PROBLEM"
+    "psychiatric evaluation": "TEST"
   },
   {
     "diabetes mellitus": "PROBLEM"
@@ -198,30 +198,27 @@
     "endocrinologic abnormalities": "PROBLEM"
   },
   {
-    "general medicine": "PROBLEM"
+    "general medicine": "TREATMENT"
   },
   {
-    "nose and throat": "PROBLEM"
+    "nose and throat": "TREATMENT"
   },
   {
-    "cardiovascular": "PROBLEM"
+    "cardiovascular": "TREATMENT"
   },
   {
-    "integumentary": "PROBLEM"
+    "integumentary": "TREATMENT"
   },
   {
-    "negative weakness": "PROBLEM"
+    "weakness": "PROBLEM"
   },
   {
-    "neurologic": "PROBLEM"
+    "neurologic": "TREATMENT"
   },
   {
     "throat": "PROBLEM"
   },
   {
-    "psychiatric": "PROBLEM"
-  },
-  {
-    "weakness": "PROBLEM"
+    "psychiatric": "TREATMENT"
   }
 ]

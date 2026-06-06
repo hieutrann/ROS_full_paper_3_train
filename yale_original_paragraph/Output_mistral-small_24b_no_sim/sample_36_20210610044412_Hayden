@@ -9,13 +9,7 @@
     "attention deficit disorder": "PROBLEM"
   },
   {
-    "shoulder": "PROBLEM"
-  },
-  {
-    "numbness": "PROBLEM"
-  },
-  {
-    "sore throat": "PROBLEM"
+    "Strep": "PROBLEM"
   },
   {
     "strep throat": "PROBLEM"
@@ -27,10 +21,22 @@
     "anger control": "PROBLEM"
   },
   {
+    "x-ray": "TEST"
+  },
+  {
+    "fracture": "PROBLEM"
+  },
+  {
+    "physical therapy": "TREATMENT"
+  },
+  {
     "anti-inflammatories": "DRUG"
   },
   {
-    "pain relievers": "DRUG"
+    "joint injections": "TREATMENT"
+  },
+  {
+    "tonsillectomy": "TREATMENT"
   },
   {
     "Adderall": "DRUG"
@@ -39,18 +45,72 @@
     "Zoloft": "DRUG"
   },
   {
-    "x-ray": "TEST"
-  },
-  {
-    "tonsillectomy": "TREATMENT"
-  },
-  {
-    "joint injections": "TREATMENT"
-  },
-  {
-    "physical therapy": "TREATMENT"
-  },
-  {
     "counseling": "TREATMENT"
+  },
+  {
+    "fevers": "PROBLEM"
+  },
+  {
+    "rashes": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "diarrhea": "PROBLEM"
+  },
+  {
+    "constipation": "PROBLEM"
+  },
+  {
+    "numbness": "PROBLEM"
+  },
+  {
+    "anti-inflammatories": "DRUG"
+  },
+  {
+    "bursitis": "PROBLEM"
+  },
+  {
+    "diarrhea": "PROBLEM"
+  },
+  {
+    "fevers": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "numbness": "PROBLEM"
+  },
+  {
+    "rashes": "PROBLEM"
+  },
+  {
+    "strep throat": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "attention deficit": "PROBLEM"
+  },
+  {
+    "deficit disorder": "PROBLEM"
+  },
+  {
+    "anti inflammatories": "DRUG"
+  },
+  {
+    "soap": "TEST"
+  },
+  {
+    "anger": "PROBLEM"
+  },
+  {
+    "intermittent": "PROBLEM"
   }
 ]

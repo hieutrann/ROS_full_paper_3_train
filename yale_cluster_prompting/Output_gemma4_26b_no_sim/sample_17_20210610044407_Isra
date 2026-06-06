@@ -18,10 +18,7 @@
     "PTA": "TREATMENT"
   },
   {
-    "swelling of the right hand": "PROBLEM"
-  },
-  {
-    "swelling of the left foot": "PROBLEM"
+    "swelling": "PROBLEM"
   },
   {
     "chronic kidney disease": "PROBLEM"
@@ -42,10 +39,7 @@
     "PTA": "TREATMENT"
   },
   {
-    "swelling of the right hand": "PROBLEM"
-  },
-  {
-    "swelling of the left foot": "PROBLEM"
+    "swelling": "PROBLEM"
   },
   {
     "swollen": "PROBLEM"
@@ -94,6 +88,12 @@
   },
   {
     "Peripheral vascular disease": "PROBLEM"
+  },
+  {
+    "PTA": "TREATMENT"
+  },
+  {
+    "right lower extremity": "PROBLEM"
   },
   {
     "NovoLog": "DRUG"
@@ -168,7 +168,7 @@
     "urine output": "PROBLEM"
   },
   {
-    "decreased considerably": "PROBLEM"
+    "decreased": "PROBLEM"
   },
   {
     "could not urinate": "PROBLEM"
@@ -192,25 +192,7 @@
     "paroxysmal nocturnal dyspnea": "PROBLEM"
   },
   {
-    "Blood pressure": "TEST"
-  },
-  {
-    "temperature": "TEST"
-  },
-  {
-    "pulse": "TEST"
-  },
-  {
-    "respirations": "TEST"
-  },
-  {
-    "weight": "TEST"
-  },
-  {
-    "JVD": "PROBLEM"
-  },
-  {
-    "murmur": "PROBLEM"
+    "No adenopathy": "PROBLEM"
   },
   {
     "Obese": "PROBLEM"
@@ -234,10 +216,10 @@
     "hematocrit": "TEST"
   },
   {
-    "segs": "TEST"
+    "90% segs": "PROBLEM"
   },
   {
-    "bands": "TEST"
+    "0% bands": "PROBLEM"
   },
   {
     "Serum sodium": "TEST"
@@ -325,9 +307,6 @@
   },
   {
     "Lasix": "DRUG"
-  },
-  {
-    "lab results": "TEST"
   },
   {
     "hypertension": "PROBLEM"

@@ -9,37 +9,37 @@
     "cholecystectomy": "TREATMENT"
   },
   {
-    "common bile duct exploration": "TREATMENT"
+    "bile duct exploration": "TREATMENT"
   },
   {
     "stone extraction": "TREATMENT"
   },
   {
+    "choledocholithiasis": "PROBLEM"
+  },
+  {
+    "cholecystitis": "PROBLEM"
+  },
+  {
     "Cholecystitis": "PROBLEM"
   },
   {
     "choledocholithiasis": "PROBLEM"
   },
   {
-    "Cholecystitis": "PROBLEM"
+    "ADDITIONAL DIAGNOSES": "TREATMENT"
   },
   {
-    "choledocholithiasis": "PROBLEM"
+    "gastric bypass": "TREATMENT"
   },
   {
-    "ADDITIONAL DIAGNOSES": "PROBLEM"
+    "2": "TREATMENT"
   },
   {
-    "Roux-en-Y gastric bypass": "TREATMENT"
+    "paraventral hernia": "PROBLEM"
   },
   {
-    "2": "TEST"
-  },
-  {
-    "Laparoscopic paraventral hernia": "PROBLEM"
-  },
-  {
-    "3": "TEST"
+    "3": "TREATMENT"
   },
   {
     "sleep apnea": "PROBLEM"
@@ -48,13 +48,10 @@
     "4": "TEST"
   },
   {
-    "Morbid obesity": "PROBLEM"
+    "obesity": "PROBLEM"
   },
   {
-    "bmi": "TEST"
-  },
-  {
-    "Laparoscopic cholecystectomy": "TREATMENT"
+    "cholecystectomy": "TREATMENT"
   },
   {
     "laparoscopy": "TREATMENT"
@@ -66,10 +63,10 @@
     "stone extraction": "TREATMENT"
   },
   {
-    "bilirubin": "PROBLEM"
+    "bilirubin": "TEST"
   },
   {
-    "common bile duct stone": "PROBLEM"
+    "bile duct stone": "PROBLEM"
   },
   {
     "abdominal pain": "PROBLEM"
@@ -102,7 +99,7 @@
     "laparoscopic cholecystectomy": "TREATMENT"
   },
   {
-    "laparoscopic cholecystectomy": "TREATMENT"
+    "cholecystectomy": "TREATMENT"
   },
   {
     "cholangiogram": "TEST"
@@ -138,7 +135,7 @@
     "operation": "TREATMENT"
   },
   {
-    "medical surgical unit": "PROBLEM"
+    "surgical": "TREATMENT"
   },
   {
     "incisional pain": "PROBLEM"
@@ -148,6 +145,9 @@
   },
   {
     "Jackson-Pratt drain": "TREATMENT"
+  },
+  {
+    "serosanguineous fluid": "PROBLEM"
   },
   {
     "White blood cell count": "TEST"
@@ -165,10 +165,10 @@
     "bile leak": "PROBLEM"
   },
   {
-    "postoperative day #3": "TEST"
+    "diet": "TREATMENT"
   },
   {
-    "diet": "PROBLEM"
+    "diet": "TREATMENT"
   },
   {
     "bowels": "PROBLEM"
@@ -210,13 +210,13 @@
     "iron": "DRUG"
   },
   {
-    "t.i.d.": "TEST"
+    "t.i.d.": "TREATMENT"
   },
   {
-    "Lortab elixir": "DRUG"
+    "Lortab": "DRUG"
   },
   {
-    "q.4 h. p.r.n.": "TEST"
+    "q.4 h. p.r.n.": "TREATMENT"
   },
   {
     "pain": "PROBLEM"
@@ -228,18 +228,18 @@
     "cholecystitis": "PROBLEM"
   },
   {
-    "laparoscopy": "TEST"
-  },
-  {
-    "common bile duct exploration": "TEST"
-  },
-  {
     "laparoscopic cholecystectomy": "TREATMENT"
   },
   {
     "cholecystectomy": "TREATMENT"
   },
   {
-    "hernia": "PROBLEM"
+    "laparoscopy": "TEST"
+  },
+  {
+    "common bile duct exploration": "TEST"
+  },
+  {
+    "laparoscopic": "TEST"
   }
 ]

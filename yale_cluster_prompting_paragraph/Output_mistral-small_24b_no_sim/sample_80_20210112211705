@@ -9,6 +9,12 @@
     "Pelvic pain": "PROBLEM"
   },
   {
+    "Status post vaginal hysterectomy": "PROBLEM"
+  },
+  {
+    "abnormal menstrual bleeding": "PROBLEM"
+  },
+  {
     "back pain": "PROBLEM"
   },
   {
@@ -18,10 +24,25 @@
     "dysuria": "PROBLEM"
   },
   {
+    "pelvic pain": "PROBLEM"
+  },
+  {
+    "uterine enlargement": "PROBLEM"
+  },
+  {
     "total vaginal hysterectomy": "TREATMENT"
   },
   {
     "vaginal hysterectomy": "TREATMENT"
+  },
+  {
+    "total vaginal hysterectomy": "TREATMENT"
+  },
+  {
+    "Uterus": "TEST"
+  },
+  {
+    "Laboratory studies": "TEST"
   },
   {
     "H&H": "TEST"
@@ -31,5 +52,8 @@
   },
   {
     "hematocrit": "TEST"
+  },
+  {
+    "Laboratory findings": "TEST"
   }
 ]

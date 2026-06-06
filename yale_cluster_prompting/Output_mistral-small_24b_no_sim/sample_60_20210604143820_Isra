@@ -57,9 +57,6 @@
     "coughing": "PROBLEM"
   },
   {
-    "ER": "TEST"
-  },
-  {
     "sats": "TEST"
   },
   {
@@ -75,13 +72,13 @@
     "labs": "TEST"
   },
   {
-    "hospital": "TREATMENT"
-  },
-  {
-    "PHYSICAL EXAMINATION": "TEST"
+    "baby": "PROBLEM"
   },
   {
     "nasal discharge": "PROBLEM"
+  },
+  {
+    "HEENT": "TEST"
   },
   {
     "rhonchi": "PROBLEM"
@@ -93,7 +90,7 @@
     "apnea": "PROBLEM"
   },
   {
-    "ABDOMEN": "PROBLEM"
+    "Benign": "PROBLEM"
   },
   {
     "cyanosis": "PROBLEM"
@@ -108,15 +105,6 @@
     "differential": "TEST"
   },
   {
-    "segs": "TEST"
-  },
-  {
-    "lymphs": "TEST"
-  },
-  {
-    "monos": "TEST"
-  },
-  {
     "hemoglobin": "TEST"
   },
   {
@@ -129,10 +117,16 @@
     "BMP": "TEST"
   },
   {
-    "influenza swab": "TEST"
+    "An x-ray": "TEST"
   },
   {
-    "RSV": "TEST"
+    "infiltrate": "PROBLEM"
+  },
+  {
+    "rapid influenza swab": "TEST"
+  },
+  {
+    "rapid RSV": "TEST"
   },
   {
     "pertussis PCR swab": "TEST"
@@ -150,28 +144,19 @@
     "afebrile": "PROBLEM"
   },
   {
-    "oxygen": "DRUG"
-  },
-  {
     "coughing": "PROBLEM"
   },
   {
     "emesis": "PROBLEM"
   },
   {
-    "Zithromax": "DRUG"
-  },
-  {
-    "condition": "PROBLEM"
-  },
-  {
-    "exam": "TEST"
+    "apnea": "PROBLEM"
   },
   {
     "Zithromax": "DRUG"
   },
   {
-    "followed up": "TREATMENT"
+    "Zithromax": "DRUG"
   },
   {
     "coughing": "PROBLEM"
@@ -183,7 +168,7 @@
     "apnea": "PROBLEM"
   },
   {
-    "discharge summary": "TEST"
+    "discharge summary": "PROBLEM"
   },
   {
     "emesis": "PROBLEM"

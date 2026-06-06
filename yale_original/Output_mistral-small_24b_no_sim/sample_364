@@ -1,21 +1,6 @@
 [
   {
-    "Obstetrics": "PROBLEM"
-  },
-  {
-    "Gynecology": "PROBLEM"
-  },
-  {
-    "Physical": "TEST"
-  },
-  {
     "Pap": "TEST"
-  },
-  {
-    "breast exam": "TEST"
-  },
-  {
-    "physical": "TEST"
   },
   {
     "Pap": "TEST"
@@ -45,6 +30,9 @@
     "EKG": "TEST"
   },
   {
+    "foot surgery": "TREATMENT"
+  },
+  {
     "Reactive airway disease": "PROBLEM"
   },
   {
@@ -52,24 +40,6 @@
   },
   {
     "surgery": "TREATMENT"
-  },
-  {
-    "hands": "PROBLEM"
-  },
-  {
-    "feet": "PROBLEM"
-  },
-  {
-    "gravida": "PROBLEM"
-  },
-  {
-    "para": "PROBLEM"
-  },
-  {
-    "twins": "PROBLEM"
-  },
-  {
-    "vaginal deliveries": "PROBLEM"
   },
   {
     "iron deficiency anemia": "PROBLEM"
@@ -108,34 +78,46 @@
     "Colace": "DRUG"
   },
   {
+    "tobacco": "DRUG"
+  },
+  {
+    "alcohol": "DRUG"
+  },
+  {
+    "drug": "DRUG"
+  },
+  {
     "HEENT": "TEST"
   },
   {
-    "pulmonary": "TEST"
+    "pulmonary": "PROBLEM"
   },
   {
-    "cardiovascular": "TEST"
+    "cardiovascular": "PROBLEM"
   },
   {
-    "GI": "TEST"
+    "GI": "PROBLEM"
   },
   {
-    "GU": "TEST"
+    "GU": "PROBLEM"
   },
   {
-    "musculoskeletal": "TEST"
+    "musculoskeletal": "PROBLEM"
   },
   {
-    "neurologic": "TEST"
+    "neurologic": "PROBLEM"
   },
   {
-    "dermatologic": "TEST"
+    "dermatologic": "PROBLEM"
   },
   {
-    "constitutional": "TEST"
+    "constitutional": "PROBLEM"
   },
   {
-    "psychiatric": "TEST"
+    "psychiatric": "PROBLEM"
+  },
+  {
+    "HPI": "PROBLEM"
   },
   {
     "Weight": "TEST"
@@ -159,25 +141,13 @@
     "well-nourished": "PROBLEM"
   },
   {
-    "acute distress": "PROBLEM"
-  },
-  {
-    "Neck": "TEST"
-  },
-  {
     "lymphadenopathy": "PROBLEM"
   },
   {
     "thyromegaly": "PROBLEM"
   },
   {
-    "Chest": "PROBLEM"
-  },
-  {
-    "rate": "TEST"
-  },
-  {
-    "rhythm": "TEST"
+    "Chest": "TEST"
   },
   {
     "bowel sounds": "TEST"
@@ -187,9 +157,6 @@
   },
   {
     "nipple discharge": "PROBLEM"
-  },
-  {
-    "lumps or masses": "PROBLEM"
   },
   {
     "dimpling of the skin": "PROBLEM"
@@ -214,6 +181,9 @@
   },
   {
     "adnexal tenderness": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
   },
   {
     "Rectal": "TEST"
@@ -255,10 +225,16 @@
     "TSH": "TEST"
   },
   {
+    "medication": "DRUG"
+  },
+  {
     "Rheumatoid arthritis": "PROBLEM"
   },
   {
     "methotrexate": "DRUG"
+  },
+  {
+    "XYZ": "DRUG"
   },
   {
     "Osteoporosis": "PROBLEM"
@@ -273,7 +249,7 @@
     "mammogram": "TEST"
   },
   {
-    "obstetrics / gynecology": "PROBLEM"
+    "obstetrics / gynecology": "TEST"
   },
   {
     "complete physical": "TEST"
@@ -297,19 +273,19 @@
     "lymphadenopathy": "PROBLEM"
   },
   {
-    "chest": "PROBLEM"
+    "chest": "TEST"
   },
   {
-    "cervical": "PROBLEM"
+    "cervical": "TEST"
   },
   {
     "tenderness": "PROBLEM"
   },
   {
-    "rectal": "PROBLEM"
+    "rectal": "TEST"
   },
   {
-    "cardiac": "PROBLEM"
+    "cardiac": "TEST"
   },
   {
     "physical": "TEST"
@@ -324,10 +300,10 @@
     "masses": "PROBLEM"
   },
   {
-    "breast": "PROBLEM"
+    "breast": "TEST"
   },
   {
-    "palpated": "PROBLEM"
+    "palpated": "TEST"
   },
   {
     "pap": "TEST"

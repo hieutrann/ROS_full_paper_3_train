@@ -72,9 +72,6 @@
     "diarrhea": "PROBLEM"
   },
   {
-    "Weight": "TEST"
-  },
-  {
     "Temperature": "TEST"
   },
   {
@@ -102,10 +99,7 @@
     "thyromegaly": "PROBLEM"
   },
   {
-    "Respirations": "TEST"
-  },
-  {
-    "Heart Rate": "TEST"
+    "Heart rate": "TEST"
   },
   {
     "Serous otitis": "PROBLEM"
@@ -120,7 +114,7 @@
     "Duraphen II": "DRUG"
   },
   {
-    "Cutivate cream": "DRUG"
+    "Cutivate cream 0.05%": "DRUG"
   },
   {
     "left otalgia": "PROBLEM"
@@ -135,13 +129,7 @@
     "atopic dermatitis": "PROBLEM"
   },
   {
-    "serous": "PROBLEM"
-  },
-  {
     "otitis": "PROBLEM"
-  },
-  {
-    "atopic": "PROBLEM"
   },
   {
     "dermatitis": "PROBLEM"

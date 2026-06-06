@@ -9,7 +9,7 @@
     "vomiting": "PROBLEM"
   },
   {
-    "seizure": "PROBLEM"
+    "a probable seizure": "PROBLEM"
   },
   {
     "pneumonia": "PROBLEM"
@@ -24,7 +24,7 @@
     "antibiotics": "DRUG"
   },
   {
-    "temperature": "TEST"
+    "temperature of 102": "PROBLEM"
   },
   {
     "strep": "PROBLEM"
@@ -36,7 +36,7 @@
     "vomiting": "PROBLEM"
   },
   {
-    "seizure": "PROBLEM"
+    "a probable seizure": "PROBLEM"
   },
   {
     "Temperature": "TEST"
@@ -45,7 +45,7 @@
     "lethargic": "PROBLEM"
   },
   {
-    "LP": "TEST"
+    "an LP": "TEST"
   },
   {
     "blood cultures": "TEST"
@@ -54,13 +54,7 @@
     "CSF": "TEST"
   },
   {
-    "PHYSICAL EXAMINATION": "TEST"
-  },
-  {
-    "anesthesia": "DRUG"
-  },
-  {
-    "LAB STUDIES": "TEST"
+    "anesthesia": "TREATMENT"
   },
   {
     "White count": "TEST"
@@ -70,9 +64,6 @@
   },
   {
     "protein": "TEST"
-  },
-  {
-    "cells": "TEST"
   },
   {
     "Gram-stain": "TEST"

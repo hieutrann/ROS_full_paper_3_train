@@ -3,79 +3,25 @@
     "morbid obesity": "PROBLEM"
   },
   {
-    "nonsurgical weight loss": "TREATMENT"
-  },
-  {
-    "gastric bypass": "TREATMENT"
-  },
-  {
     "BMI": "TEST"
   },
   {
     "Laparoscopic gastric bypass": "TREATMENT"
   },
   {
-    "Surgery": "TREATMENT"
+    "gastric bypass": "TREATMENT"
   },
   {
-    "Anesthesia": "TREATMENT"
+    "Lortab Elixir": "DRUG"
   },
   {
-    "pain": "PROBLEM"
+    "Flexeril": "DRUG"
   },
   {
-    "procedure": "TREATMENT"
+    "ursodiol": "DRUG"
   },
   {
-    "postoperative": "TREATMENT"
-  },
-  {
-    "hemodynamically stable": "TEST"
-  },
-  {
-    "afebrile": "TEST"
-  },
-  {
-    "normal labs": "TEST"
-  },
-  {
-    "clear liquid diet": "TREATMENT"
-  },
-  {
-    "ambulated": "TREATMENT"
-  },
-  {
-    "postoperative day 1": "TEST"
-  },
-  {
-    "postoperative day 2": "TEST"
-  },
-  {
-    "pain medicine": "DRUG"
-  },
-  {
-    "liquid diet": "TREATMENT"
-  },
-  {
-    "heavy lifting": "TREATMENT"
-  },
-  {
-    "strenuous activity": "TREATMENT"
-  },
-  {
-    "mobility": "TREATMENT"
-  },
-  {
-    "driving": "TREATMENT"
-  },
-  {
-    "narcotic pain medicine": "DRUG"
-  },
-  {
-    "shower": "TREATMENT"
-  },
-  {
-    "wounds": "PROBLEM"
+    "Colace": "DRUG"
   },
   {
     "shortness of breath": "PROBLEM"
@@ -106,20 +52,5 @@
   },
   {
     "abdominal pain": "PROBLEM"
-  },
-  {
-    "discharge medications": "DRUG"
-  },
-  {
-    "Lortab Elixir": "DRUG"
-  },
-  {
-    "Flexeril": "DRUG"
-  },
-  {
-    "ursodiol": "DRUG"
-  },
-  {
-    "Colace": "DRUG"
   }
 ]

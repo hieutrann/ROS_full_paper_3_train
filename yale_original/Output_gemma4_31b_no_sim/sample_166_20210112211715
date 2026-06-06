@@ -30,6 +30,9 @@
     "cardiac workup": "TEST"
   },
   {
+    "telemetry unit": "TREATMENT"
+  },
+  {
     "drug screen": "TEST"
   },
   {
@@ -117,6 +120,9 @@
     "Phenergan": "DRUG"
   },
   {
+    "last menstrual period": "TEST"
+  },
+  {
     "abortion": "TREATMENT"
   },
   {
@@ -138,12 +144,6 @@
     "respiratory rate": "TEST"
   },
   {
-    "Pupils": "TEST"
-  },
-  {
-    "Extraocular muscles": "TEST"
-  },
-  {
     "oropharyngeal lesions": "PROBLEM"
   },
   {
@@ -157,9 +157,6 @@
   },
   {
     "LUNGS": "TEST"
-  },
-  {
-    "CARDIAC": "TEST"
   },
   {
     "Bowel sounds": "TEST"
@@ -268,6 +265,9 @@
   },
   {
     "Migraine headaches": "PROBLEM"
+  },
+  {
+    "headaches": "PROBLEM"
   },
   {
     "migraine headache": "PROBLEM"

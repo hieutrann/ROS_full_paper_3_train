@@ -1,6 +1,6 @@
 [
   {
-    "Physical Exam": "TEST"
+    "physical": "TEST"
   },
   {
     "Pap": "TEST"
@@ -48,9 +48,6 @@
     "rheumatoid arthritis": "PROBLEM"
   },
   {
-    "surgery": "TREATMENT"
-  },
-  {
     "iron deficiency anemia": "PROBLEM"
   },
   {
@@ -87,46 +84,22 @@
     "Colace": "DRUG"
   },
   {
-    "Vital Signs": "TEST"
-  },
-  {
-    "Weight": "TEST"
-  },
-  {
-    "Blood pressure": "TEST"
-  },
-  {
-    "Pulse": "TEST"
-  },
-  {
-    "Respirations": "TEST"
-  },
-  {
-    "Temperature 97.7": "TEST"
-  },
-  {
-    "lymphadenopathy": "PROBLEM"
+    "No lymphadenopathy": "PROBLEM"
   },
   {
     "thyromegaly": "PROBLEM"
   },
   {
-    "bowel sounds": "TEST"
+    "bowel sounds": "PROBLEM"
   },
   {
-    "hepatosplenomegaly": "PROBLEM"
+    "No hepatosplenomegaly": "PROBLEM"
   },
   {
     "nipple discharge": "PROBLEM"
   },
   {
-    "lumps": "PROBLEM"
-  },
-  {
-    "masses": "PROBLEM"
-  },
-  {
-    "axillary lymph nodes": "PROBLEM"
+    "No axillary lymph nodes palpated": "PROBLEM"
   },
   {
     "Self-breast exam": "TEST"
@@ -138,16 +111,10 @@
     "cervical motion tenderness": "PROBLEM"
   },
   {
-    "adnexal tenderness": "PROBLEM"
+    "No adnexal tenderness": "PROBLEM"
   },
   {
     "masses": "PROBLEM"
-  },
-  {
-    "No stool present": "PROBLEM"
-  },
-  {
-    "rectal masses": "PROBLEM"
   },
   {
     "cyanosis": "PROBLEM"
@@ -216,9 +183,18 @@
     "masses palpated": "PROBLEM"
   },
   {
+    "smear": "TEST"
+  },
+  {
     "lymphadenopathy": "PROBLEM"
   },
   {
     "tenderness": "PROBLEM"
+  },
+  {
+    "rheumatoid arthritis": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
   }
 ]

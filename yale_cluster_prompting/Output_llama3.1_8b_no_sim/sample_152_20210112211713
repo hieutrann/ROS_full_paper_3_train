@@ -24,7 +24,7 @@
     "menometrorrhagia": "PROBLEM"
   },
   {
-    "2": "TEST"
+    "2": "PROBLEM"
   },
   {
     "anemia": "PROBLEM"
@@ -36,13 +36,13 @@
     "Fibroid uterus": "PROBLEM"
   },
   {
-    "DISCHARGE DIAGNOSES": "TEST"
+    "DISCHARGE DIAGNOSES": "PROBLEM"
   },
   {
     "menometrorrhagia": "PROBLEM"
   },
   {
-    "2": "TEST"
+    "2": "PROBLEM"
   },
   {
     "anemia": "PROBLEM"
@@ -54,16 +54,16 @@
     "Fibroid uterus": "PROBLEM"
   },
   {
-    "OPERATIONS PERFORMED": "TEST"
+    "OPERATIONS PERFORMED": "TREATMENT"
   },
   {
     "Hysteroscopy": "TEST"
   },
   {
-    "2": "TEST"
+    "2": "PROBLEM"
   },
   {
-    "Dilatation and curettage": "TREATMENT"
+    "Dilatation and curettage (D&C)": "TREATMENT"
   },
   {
     "3": "PROBLEM"
@@ -75,28 +75,28 @@
     "Large endometrial cavity fibroid": "PROBLEM"
   },
   {
-    "dissection": "TREATMENT"
-  },
-  {
-    "excision": "TREATMENT"
-  },
-  {
-    "BLOOD TRANSFUSIONS": "TEST"
-  },
-  {
-    "packed red blood cells": "DRUG"
+    "packed red blood cells": "TREATMENT"
   },
   {
     "INFECTION": "PROBLEM"
   },
   {
+    "Posttransfusion": "TREATMENT"
+  },
+  {
+    "2nd unit": "TREATMENT"
+  },
+  {
     "hematocrit": "TEST"
+  },
+  {
+    "of 25": "TEST"
   },
   {
     "hemoglobin": "TEST"
   },
   {
-    "dilatation and curettage": "TREATMENT"
+    "of 8.3": "TEST"
   },
   {
     "D&C": "TREATMENT"
@@ -105,25 +105,16 @@
     "Hysteroscopy": "TEST"
   },
   {
-    "endometrial cavity fibroid": "PROBLEM"
+    "a large endometrial cavity fibroid": "PROBLEM"
   },
   {
     "fibroid": "PROBLEM"
   },
   {
-    "shaving": "TREATMENT"
-  },
-  {
-    "excision": "TREATMENT"
-  },
-  {
-    "removal": "TREATMENT"
+    "fibroid": "PROBLEM"
   },
   {
     "Hemostasis": "PROBLEM"
-  },
-  {
-    "patient": "PROBLEM"
   },
   {
     "packed red blood cells": "DRUG"
@@ -135,16 +126,10 @@
     "ambulating": "TREATMENT"
   },
   {
-    "diet": "TREATMENT"
-  },
-  {
     "patient": "PROBLEM"
   },
   {
-    "patient": "PROBLEM"
-  },
-  {
-    "DISCHARGE CONDITION": "PROBLEM"
+    "Stable": "PROBLEM"
   },
   {
     "pelvic rest": "TREATMENT"
@@ -153,10 +138,10 @@
     "bedrest": "TREATMENT"
   },
   {
-    "diet": "TREATMENT"
+    "Regular diet": "TREATMENT"
   },
   {
-    "Vicodin": "DRUG"
+    "Vicodin tablets": "DRUG"
   },
   {
     "q.4-6 h. p.r.n.": "TREATMENT"
@@ -168,13 +153,13 @@
     "multiple vitamin": "DRUG"
   },
   {
-    "tab": "TREATMENT"
+    "1 tab": "TREATMENT"
   },
   {
     "p.o.": "TREATMENT"
   },
   {
-    "ferrous sulfate": "DRUG"
+    "ferrous sulfate tablets": "DRUG"
   },
   {
     "daily": "PROBLEM"
@@ -189,9 +174,6 @@
     "X p.r.n.": "DRUG"
   },
   {
-    "Tuesday": "TEST"
-  },
-  {
     "postop": "TREATMENT"
   },
   {
@@ -199,9 +181,6 @@
   },
   {
     "d&c": "TREATMENT"
-  },
-  {
-    "fibroid uterus": "PROBLEM"
   },
   {
     "myomectomy": "TREATMENT"
@@ -216,12 +195,9 @@
     "menometrorrhagia": "PROBLEM"
   },
   {
+    "fibroid uterus": "PROBLEM"
+  },
+  {
     "hysteroscopy": "TEST"
-  },
-  {
-    "fibroid": "PROBLEM"
-  },
-  {
-    "uterus": "PROBLEM"
   }
 ]

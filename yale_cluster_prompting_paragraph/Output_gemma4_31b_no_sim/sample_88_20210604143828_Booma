@@ -1,8 +1,5 @@
 [
   {
-    "Kawasaki Disease": "PROBLEM"
-  },
-  {
     "Kawasaki": "PROBLEM"
   },
   {
@@ -36,7 +33,10 @@
     "Kawasaki disease": "PROBLEM"
   },
   {
-    "Kawasaki disease, resolving": "PROBLEM"
+    "Kawasaki disease": "PROBLEM"
+  },
+  {
+    "Kawasaki": "PROBLEM"
   },
   {
     "fever": "PROBLEM"
@@ -78,13 +78,16 @@
     "Echocardiogram": "TEST"
   },
   {
-    "IVIG": "DRUG"
+    "IVIG": "TREATMENT"
+  },
+  {
+    "IVIG": "TREATMENT"
   },
   {
     "fever": "PROBLEM"
   },
   {
-    "IVIG": "DRUG"
+    "IVIG": "TREATMENT"
   },
   {
     "fever": "PROBLEM"
@@ -102,10 +105,10 @@
     "redness of mucous membranes": "PROBLEM"
   },
   {
-    "Aspirin": "DRUG"
+    "Aspirin high dose": "DRUG"
   },
   {
-    "aspirin": "DRUG"
+    "aspirin low dose": "DRUG"
   },
   {
     "Prevacid": "DRUG"
@@ -114,7 +117,7 @@
     "aspirin": "DRUG"
   },
   {
-    "echo": "TEST"
+    "echo followup": "TEST"
   },
   {
     "vaccine": "DRUG"

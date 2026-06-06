@@ -9,9 +9,6 @@
     "chest pain": "PROBLEM"
   },
   {
-    "chest pain": "PROBLEM"
-  },
-  {
     "treadmill": "TEST"
   },
   {
@@ -22,9 +19,6 @@
   },
   {
     "pressure": "PROBLEM"
-  },
-  {
-    "middle of her chest": "PROBLEM"
   },
   {
     "fast heartbeats": "PROBLEM"
@@ -72,6 +66,9 @@
     "spots": "PROBLEM"
   },
   {
+    "itchy": "PROBLEM"
+  },
+  {
     "urgency of urine": "PROBLEM"
   },
   {
@@ -79,6 +76,9 @@
   },
   {
     "leaking": "PROBLEM"
+  },
+  {
+    "pad": "TREATMENT"
   },
   {
     "colonoscopy": "TEST"
@@ -93,7 +93,7 @@
     "hepatitis titer": "TEST"
   },
   {
-    "pain in her thumbs": "PROBLEM"
+    "pain": "PROBLEM"
   },
   {
     "swelling": "PROBLEM"
@@ -115,9 +115,6 @@
   },
   {
     "chronic cough": "PROBLEM"
-  },
-  {
-    "bowel movements": "TEST"
   },
   {
     "black or bloody stools": "PROBLEM"
@@ -142,6 +139,9 @@
   },
   {
     "tingling": "PROBLEM"
+  },
+  {
+    "diet": "TREATMENT"
   },
   {
     "type I diabetes": "PROBLEM"
@@ -177,9 +177,6 @@
     "Pulse": "TEST"
   },
   {
-    "pupils": "TEST"
-  },
-  {
     "TMs": "TEST"
   },
   {
@@ -190,12 +187,6 @@
   },
   {
     "Lungs": "TEST"
-  },
-  {
-    "Heart": "TEST"
-  },
-  {
-    "Regular rhythm and rate": "PROBLEM"
   },
   {
     "murmur": "PROBLEM"
@@ -219,7 +210,7 @@
     "diffuse borders": "PROBLEM"
   },
   {
-    "slightly red": "PROBLEM"
+    "red": "PROBLEM"
   },
   {
     "cyanosis": "PROBLEM"
@@ -228,13 +219,10 @@
     "edema": "PROBLEM"
   },
   {
-    "radial and posterior tibial pulses": "TEST"
+    "radial": "TEST"
   },
   {
-    "gait": "TEST"
-  },
-  {
-    "coordination of upper and lower extremities": "TEST"
+    "posterior tibial pulses": "TEST"
   },
   {
     "Chest pain": "PROBLEM"
@@ -253,9 +241,6 @@
   },
   {
     "EGD": "TEST"
-  },
-  {
-    "symptoms": "PROBLEM"
   },
   {
     "Stomach pain": "PROBLEM"
@@ -279,6 +264,9 @@
     "Cystocele": "PROBLEM"
   },
   {
+    "repair": "TREATMENT"
+  },
+  {
     "urinary incontinence": "PROBLEM"
   },
   {
@@ -292,9 +280,6 @@
   },
   {
     "arthritic": "PROBLEM"
-  },
-  {
-    "Screening": "TEST"
   },
   {
     "colon cancer screening": "TEST"
@@ -322,9 +307,6 @@
   },
   {
     "leukopenia": "PROBLEM"
-  },
-  {
-    "pulses": "TEST"
   },
   {
     "tinea": "PROBLEM"

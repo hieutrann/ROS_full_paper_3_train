@@ -42,16 +42,13 @@
     "low blood glucoses": "PROBLEM"
   },
   {
-    "Lantus": "DRUG"
-  },
-  {
-    "insulin": "DRUG"
+    "Lantus insulin": "DRUG"
   },
   {
     "Humalog": "DRUG"
   },
   {
-    "insulin": "DRUG"
+    "sliding scale insulin": "TREATMENT"
   },
   {
     "blood glucoses": "TEST"
@@ -66,15 +63,18 @@
     "low blood glucoses": "PROBLEM"
   },
   {
+    "sliding scale": "TREATMENT"
+  },
+  {
     "lantus insulin": "DRUG"
   },
   {
-    "diabetes, mellitus": "PROBLEM"
+    "diabetes mellitus": "PROBLEM"
   },
   {
     "lantus": "DRUG"
   },
   {
-    "glucoses": "TEST"
+    "glucoses": "PROBLEM"
   }
 ]

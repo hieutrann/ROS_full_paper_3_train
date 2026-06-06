@@ -1,8 +1,5 @@
 [
   {
-    "Pneumonia": "PROBLEM"
-  },
-  {
     "Atypical pneumonia": "PROBLEM"
   },
   {
@@ -12,7 +9,7 @@
     "rheumatoid arthritis": "PROBLEM"
   },
   {
-    "stress-induced adrenal insufficiency": "PROBLEM"
+    "mild stress-induced adrenal insufficiency": "PROBLEM"
   },
   {
     "cough": "PROBLEM"
@@ -28,6 +25,9 @@
   },
   {
     "Pneumonia": "PROBLEM"
+  },
+  {
+    "outpatient treatment": "TREATMENT"
   },
   {
     "Hypoxia": "PROBLEM"
@@ -48,7 +48,7 @@
     "Rheumatoid arthritis": "PROBLEM"
   },
   {
-    "stress-induced adrenal insufficiency": "PROBLEM"
+    "mild stress-induced adrenal insufficiency": "PROBLEM"
   },
   {
     "cough": "PROBLEM"
@@ -66,10 +66,13 @@
     "x-ray": "TEST"
   },
   {
-    "diffuse patchy infiltrates": "PROBLEM"
+    "mild diffuse patchy infiltrates": "PROBLEM"
   },
   {
     "Avelox": "DRUG"
+  },
+  {
+    "reaction": "PROBLEM"
   },
   {
     "Augmentin": "DRUG"
@@ -88,6 +91,9 @@
   },
   {
     "pneumonia": "PROBLEM"
+  },
+  {
+    "outpatient treatment": "TREATMENT"
   },
   {
     "rheumatoid arthritis": "PROBLEM"
@@ -114,7 +120,7 @@
     "C. difficile toxin": "TEST"
   },
   {
-    "Rocephin": "DRUG"
+    "Rocephin IV": "DRUG"
   },
   {
     "azithromycin": "DRUG"
@@ -139,6 +145,9 @@
   },
   {
     "prednisone": "DRUG"
+  },
+  {
+    "increased dose of prednisone": "TREATMENT"
   },
   {
     "methotrexate": "DRUG"

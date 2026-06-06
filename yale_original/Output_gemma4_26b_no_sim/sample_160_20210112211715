@@ -78,18 +78,6 @@
     "left AV fistula": "TREATMENT"
   },
   {
-    "epigastric pain": "PROBLEM"
-  },
-  {
-    "right upper quadrant pain": "PROBLEM"
-  },
-  {
-    "mid abdominal pain": "PROBLEM"
-  },
-  {
-    "nauseated feeling": "PROBLEM"
-  },
-  {
     "temperature": "TEST"
   },
   {
@@ -123,10 +111,7 @@
     "cholecystitis": "PROBLEM"
   },
   {
-    "Urine": "TEST"
-  },
-  {
-    "glucose": "TEST"
+    "glucose": "PROBLEM"
   },
   {
     "nitrite": "TEST"
@@ -162,6 +147,9 @@
     "CHF": "PROBLEM"
   },
   {
+    "Surgical consult": "TREATMENT"
+  },
+  {
     "blood culture": "TEST"
   },
   {
@@ -174,6 +162,9 @@
     "dialysis": "TREATMENT"
   },
   {
+    "surgery": "TREATMENT"
+  },
+  {
     "laparoscopic cholecystectomy": "TREATMENT"
   },
   {
@@ -181,6 +172,9 @@
   },
   {
     "white count": "TEST"
+  },
+  {
+    "afebrile": "PROBLEM"
   },
   {
     "chronic bronchitis": "PROBLEM"

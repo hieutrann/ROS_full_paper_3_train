@@ -1,6 +1,6 @@
 [
   {
-    "Multiple contusions": "PROBLEM"
+    "contusions": "PROBLEM"
   },
   {
     "abdominal pain": "PROBLEM"
@@ -9,10 +9,31 @@
     "motor vehicle collision": "PROBLEM"
   },
   {
-    "mild pain on the left aspect of her neck": "PROBLEM"
+    "pain": "PROBLEM"
   },
   {
     "pain low in her abdomen": "PROBLEM"
+  },
+  {
+    "pain in her knees": "PROBLEM"
+  },
+  {
+    "pain in her ankles": "PROBLEM"
+  },
+  {
+    "pain in her feet": "PROBLEM"
+  },
+  {
+    "pain in her shoulders": "PROBLEM"
+  },
+  {
+    "pain in her elbows": "PROBLEM"
+  },
+  {
+    "pain in her wrists": "PROBLEM"
+  },
+  {
+    "painful throughout the bones of her pelvis": "PROBLEM"
   },
   {
     "chest pain": "PROBLEM"
@@ -36,6 +57,12 @@
     "vomiting": "PROBLEM"
   },
   {
+    "birth control medications": "DRUG"
+  },
+  {
+    "intrauterine device": "TREATMENT"
+  },
+  {
     "Accutane": "DRUG"
   },
   {
@@ -45,16 +72,19 @@
     "labored respirations": "PROBLEM"
   },
   {
+    "Temperature": "TEST"
+  },
+  {
     "blood pressure": "TEST"
   },
   {
     "pulse": "TEST"
   },
   {
-    "pulse oximetry": "TEST"
+    "respiratory rate": "TEST"
   },
   {
-    "lacerations on the scalp": "PROBLEM"
+    "pulse oximetry": "TEST"
   },
   {
     "papilledema": "PROBLEM"
@@ -78,37 +108,10 @@
     "tenderness in the bilateral lower pelvic quadrants": "PROBLEM"
   },
   {
-    "rigidity": "PROBLEM"
-  },
-  {
-    "guarding": "PROBLEM"
-  },
-  {
-    "CVA tenderness": "PROBLEM"
-  },
-  {
     "edema": "PROBLEM"
   },
   {
-    "CT scan of the cervical spine": "TEST"
-  },
-  {
-    "prevertibral soft tissue swelling": "PROBLEM"
-  },
-  {
-    "CT scan of the brain": "TEST"
-  },
-  {
-    "intracranial injury": "PROBLEM"
-  },
-  {
-    "CT scan without contrast of the abdomen": "TEST"
-  },
-  {
     "atelectasis": "PROBLEM"
-  },
-  {
-    "CBC": "TEST"
   },
   {
     "anemia": "PROBLEM"
@@ -133,5 +136,26 @@
   },
   {
     "Flexeril": "DRUG"
+  },
+  {
+    "muscular pain": "PROBLEM"
+  },
+  {
+    "x-rays": "TEST"
+  },
+  {
+    "CT scan of the cervical spine": "TEST"
+  },
+  {
+    "CT scan of the brain": "TEST"
+  },
+  {
+    "CT scan of the abdomen": "TEST"
+  },
+  {
+    "CT scan with contrast": "TEST"
+  },
+  {
+    "CBC": "TEST"
   }
 ]

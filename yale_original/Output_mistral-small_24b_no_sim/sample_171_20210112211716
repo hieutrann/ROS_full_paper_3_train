@@ -21,10 +21,13 @@
     "hepatitis C": "PROBLEM"
   },
   {
+    "PROBLEMS LIST": "PROBLEM"
+  },
+  {
     "Nonischemic cardiomyopathy": "PROBLEM"
   },
   {
-    "Branch vessel coronary artery disease": "PROBLEM"
+    "coronary artery disease": "PROBLEM"
   },
   {
     "Congestive heart failure": "PROBLEM"
@@ -42,7 +45,13 @@
     "Hepatitis C": "PROBLEM"
   },
   {
-    "CHF": "PROBLEM"
+    "CHF exacerbation": "PROBLEM"
+  },
+  {
+    "medications": "DRUG"
+  },
+  {
+    "prescriptions": "DRUG"
   },
   {
     "shortness of breath": "PROBLEM"
@@ -72,6 +81,9 @@
     "nausea": "PROBLEM"
   },
   {
+    "vomiting": "PROBLEM"
+  },
+  {
     "appetite": "PROBLEM"
   },
   {
@@ -87,13 +99,22 @@
     "syncope": "PROBLEM"
   },
   {
-    "smoking": "PROBLEM"
-  },
-  {
     "cocaine": "DRUG"
   },
   {
+    "drug allergies": "PROBLEM"
+  },
+  {
+    "medication list": "TEST"
+  },
+  {
     "medications": "DRUG"
+  },
+  {
+    "discharge orders": "TREATMENT"
+  },
+  {
+    "prescription": "DRUG"
   },
   {
     "Pulse": "TEST"
@@ -105,7 +126,7 @@
     "weight": "TEST"
   },
   {
-    "Atraumatic": "PROBLEM"
+    "normocephalic": "PROBLEM"
   },
   {
     "pallor": "PROBLEM"
@@ -135,16 +156,16 @@
     "Pulse ox": "TEST"
   },
   {
-    "S1": "TEST"
+    "CVS": "TEST"
   },
   {
-    "S2": "TEST"
+    "S3": "PROBLEM"
   },
   {
-    "S3 and S4": "TEST"
+    "S4": "PROBLEM"
   },
   {
-    "Soft and nontender": "PROBLEM"
+    "ABDOMEN": "PROBLEM"
   },
   {
     "Liver": "PROBLEM"
@@ -183,6 +204,9 @@
     "hydralazine": "DRUG"
   },
   {
+    "100 mg": "DRUG"
+  },
+  {
     "Toprol": "DRUG"
   },
   {
@@ -204,10 +228,16 @@
     "blood pressure": "TEST"
   },
   {
-    "gastroenterologist": "TREATMENT"
+    "weight": "TEST"
+  },
+  {
+    "medication": "DRUG"
   },
   {
     "hepatitis C": "PROBLEM"
+  },
+  {
+    "gastroenterologist": "TREATMENT"
   },
   {
     "fasting lipid profile": "TEST"

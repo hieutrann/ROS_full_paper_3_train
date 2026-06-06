@@ -6,33 +6,21 @@
     "Cialis": "DRUG"
   },
   {
-    "Cialis 10 mg": "DRUG"
-  },
-  {
-    "Cialis 20 mg": "DRUG"
-  },
-  {
-    "Levitra 10 mg": "DRUG"
-  },
-  {
-    "Levitra 20 mg": "DRUG"
-  },
-  {
     "PSA": "TEST"
   },
   {
-    "Biopsy": "TEST"
+    "biopsy": "TEST"
   },
   {
-    "Prostate Ultrasound": "TEST"
+    "Caverject": "DRUG"
   },
   {
-    "Penile Prosthesis": "TREATMENT"
+    "Levitra": "DRUG"
   },
   {
-    "Caverject Injection": "TREATMENT"
+    "prostate ultrasound": "TEST"
   },
   {
-    "Working Pump": "TREATMENT"
+    "physical examination": "TEST"
   }
 ]

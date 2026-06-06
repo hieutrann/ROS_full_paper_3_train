@@ -1,33 +1,18 @@
 [
   {
-    "General Medicine": "TEST"
+    "General Medicine": "TREATMENT"
   },
   {
     "Female Physical Exam - 2": "TEST"
   },
   {
-    "General Medicine": "TEST"
-  },
-  {
-    "HEENT": "TEST"
-  },
-  {
     "Pupils": "TEST"
-  },
-  {
-    "round": "PROBLEM"
-  },
-  {
-    "light": "PROBLEM"
-  },
-  {
-    "accommodation": "PROBLEM"
   },
   {
     "Extraocular movements": "TEST"
   },
   {
-    "Sclerae": "PROBLEM"
+    "anicteric": "PROBLEM"
   },
   {
     "TMs": "TEST"
@@ -57,13 +42,10 @@
     "auscultation": "TEST"
   },
   {
-    "Regular rate and rhythm": "TEST"
+    "S3": "PROBLEM"
   },
   {
-    "S3": "TEST"
-  },
-  {
-    "S4": "TEST"
+    "S4": "PROBLEM"
   },
   {
     "murmurs": "PROBLEM"
@@ -81,6 +63,9 @@
     "bowel sounds": "TEST"
   },
   {
+    "masses": "PROBLEM"
+  },
+  {
     "hepatomegaly": "PROBLEM"
   },
   {
@@ -94,6 +79,9 @@
   },
   {
     "vaginal mucosa": "PROBLEM"
+  },
+  {
+    "pink": "PROBLEM"
   },
   {
     "rugous": "PROBLEM"
@@ -111,13 +99,13 @@
     "Adnexa": "PROBLEM"
   },
   {
+    "masses": "PROBLEM"
+  },
+  {
     "cervical motion tenderness": "PROBLEM"
   },
   {
-    "Rectal Exam": "TEST"
-  },
-  {
-    "rectal tone": "PROBLEM"
+    "rectal tone": "TEST"
   },
   {
     "masses": "PROBLEM"
@@ -150,6 +138,9 @@
     "skin changes": "PROBLEM"
   },
   {
+    "breasts": "PROBLEM"
+  },
+  {
     "masses": "PROBLEM"
   },
   {
@@ -165,13 +156,13 @@
     "+2/4": "TEST"
   },
   {
-    "equal bilaterally": "TEST"
+    "alert": "PROBLEM"
   },
   {
-    "alert and oriented": "TEST"
+    "oriented": "PROBLEM"
   },
   {
-    "Psychiatric": "TEST"
+    "Grossly normal": "PROBLEM"
   },
   {
     "lesions": "PROBLEM"
@@ -180,31 +171,31 @@
     "rashes": "PROBLEM"
   },
   {
-    "bimanual exam": "TEST"
-  },
-  {
-    "heent": "TEST"
-  },
-  {
-    "hemoccult": "TEST"
-  },
-  {
-    "ii through xii": "TEST"
+    "lymphadenopathy": "PROBLEM"
   },
   {
     "breast tissue": "PROBLEM"
   },
   {
-    "lymphadenopathy": "PROBLEM"
+    "masses": "PROBLEM"
   },
   {
-    "skin changes": "PROBLEM"
+    "oropharynx": "PROBLEM"
   },
   {
-    "female physical examination": "TEST"
+    "hemoccult": "TEST"
   },
   {
     "speculum exam": "TEST"
+  },
+  {
+    "bimanual exam": "TEST"
+  },
+  {
+    "joint exam": "TEST"
+  },
+  {
+    "rectal exam": "TEST"
   },
   {
     "cardiovascular": "TEST"
@@ -213,33 +204,24 @@
     "dermatologic": "TEST"
   },
   {
-    "external genitalia": "TEST"
-  },
-  {
-    "integumentary": "TEST"
-  },
-  {
-    "joint exam": "TEST"
-  },
-  {
-    "neck": "TEST"
-  },
-  {
     "neurologic": "TEST"
   },
   {
-    "physical examination": "TEST"
+    "heent": "TEST"
   },
   {
-    "rectal exam": "TEST"
+    "ii through xii": "TEST"
+  },
+  {
+    "female physical": "TEST"
   },
   {
     "extremities": "TEST"
   },
   {
-    "masses": "PROBLEM"
+    "neck": "TEST"
   },
   {
-    "oropharynx": "TEST"
+    "skin changes": "PROBLEM"
   }
 ]

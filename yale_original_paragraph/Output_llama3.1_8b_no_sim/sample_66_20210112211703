@@ -1,11 +1,5 @@
 [
   {
-    "lower extremity cellulitis": "PROBLEM"
-  },
-  {
-    "lower extremity lymphedema": "PROBLEM"
-  },
-  {
     "cellulitis": "PROBLEM"
   },
   {
@@ -24,39 +18,6 @@
     "lymphedema wraps": "TREATMENT"
   },
   {
-    "antibiotic": "DRUG"
-  },
-  {
-    "therapy": "TREATMENT"
-  },
-  {
-    "White cell count": "TEST"
-  },
-  {
-    "hemoglobin": "TEST"
-  },
-  {
-    "hematocrit": "TEST"
-  },
-  {
-    "platelet count": "TEST"
-  },
-  {
-    "basic electrolyte panel": "TEST"
-  },
-  {
-    "renal function": "TEST"
-  },
-  {
-    "liver function tests": "TEST"
-  },
-  {
-    "nasal screen for MRSA": "TEST"
-  },
-  {
-    "urine culture": "TEST"
-  },
-  {
-    "urinalysis": "TEST"
+    "ulcer": "PROBLEM"
   }
 ]

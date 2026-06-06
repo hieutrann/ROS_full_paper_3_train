@@ -1,12 +1,12 @@
 [
   {
+    "fever of unknown origin": "PROBLEM"
+  },
+  {
     "polymyositis/dermatomyositis": "PROBLEM"
   },
   {
     "urticarial rash": "PROBLEM"
-  },
-  {
-    "fever of unknown origin": "PROBLEM"
   },
   {
     "chest x-ray": "TEST"
@@ -18,10 +18,10 @@
     "transthoracic echocardiogram": "TEST"
   },
   {
-    "CT scan of the chest, abdomen, and pelvis": "TEST"
+    "CT scan": "TEST"
   },
   {
-    "serologies for CMV": "TEST"
+    "serologies": "TEST"
   },
   {
     "CMV blood PCR": "TEST"
@@ -33,7 +33,10 @@
     "bronchoscopy": "TEST"
   },
   {
-    "BAL and transbronchial biopsies": "TEST"
+    "BAL": "TEST"
+  },
+  {
+    "transbronchial biopsies": "TEST"
   },
   {
     "ganciclovir": "DRUG"
@@ -57,25 +60,7 @@
     "folic acid": "DRUG"
   },
   {
-    "incision": "TREATMENT"
-  },
-  {
-    "drainage": "TREATMENT"
-  },
-  {
-    "bronchoscopy": "TREATMENT"
-  },
-  {
-    "BAL and transbronchial biopsies": "TREATMENT"
-  },
-  {
-    "transbronchial biopsies": "TREATMENT"
-  },
-  {
-    "BAL fluid cell count": "TEST"
-  },
-  {
-    "ganciclovir 275 mg IV q.12 h": "TREATMENT"
+    "ganciclovir": "TREATMENT"
   },
   {
     "methotrexate": "TREATMENT"
@@ -84,15 +69,21 @@
     "prednisone": "TREATMENT"
   },
   {
-    "Advair 100/50, 1 puff b.i.d": "TREATMENT"
+    "bronchoscopy": "TREATMENT"
   },
   {
-    "Ibuprofen p.r.n": "TREATMENT"
+    "BAL": "TREATMENT"
   },
   {
-    "Tylenol p.r.n": "TREATMENT"
+    "transbronchial biopsies": "TREATMENT"
   },
   {
-    "folic acid": "TREATMENT"
+    "ganciclovir": "TREATMENT"
+  },
+  {
+    "methotrexate": "TREATMENT"
+  },
+  {
+    "prednisone": "TREATMENT"
   }
 ]

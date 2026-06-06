@@ -18,24 +18,15 @@
     "Allegra": "DRUG"
   },
   {
-    "A1c": "TEST"
-  },
-  {
-    "BMP": "TEST"
-  },
-  {
-    "lipid profile": "TEST"
-  },
-  {
-    "TSH": "TEST"
-  },
-  {
     "colonoscopy": "TREATMENT"
   },
   {
-    "colonoscopy": "TEST"
+    "weight loss": "TREATMENT"
   },
   {
-    "colonoscopy": "PROBLEM"
+    "diet": "TREATMENT"
+  },
+  {
+    "exercise": "TREATMENT"
   }
 ]

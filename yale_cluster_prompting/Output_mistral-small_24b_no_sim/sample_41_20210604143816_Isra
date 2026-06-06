@@ -6,10 +6,19 @@
     "abdominal pain": "PROBLEM"
   },
   {
-    "severe nausea": "PROBLEM"
+    "nausea": "PROBLEM"
   },
   {
     "abdominal pain": "PROBLEM"
+  },
+  {
+    "pain": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
   },
   {
     "incarcerated umbilical hernia": "PROBLEM"
@@ -39,16 +48,28 @@
     "hepatitis": "PROBLEM"
   },
   {
-    "moderate to markedly obese": "PROBLEM"
+    "blood transfusions": "TREATMENT"
   },
   {
-    "mild distress": "PROBLEM"
+    "obese": "PROBLEM"
   },
   {
-    "LUNGS": "PROBLEM"
+    "scleral icterus": "PROBLEM"
+  },
+  {
+    "adenopathy": "PROBLEM"
+  },
+  {
+    "LUNGS": "TEST"
   },
   {
     "HEART": "PROBLEM"
+  },
+  {
+    "murmurs": "PROBLEM"
+  },
+  {
+    "gallops": "PROBLEM"
   },
   {
     "obese": "PROBLEM"
@@ -57,16 +78,22 @@
     "herniated contents": "PROBLEM"
   },
   {
+    "defect": "PROBLEM"
+  },
+  {
     "EKG": "TEST"
   },
   {
-    "prolonged QT": "PROBLEM"
+    "QT": "TEST"
   },
   {
     "Chest x-ray": "TEST"
   },
   {
     "abdominal x-rays": "TEST"
+  },
+  {
+    "electrolytes": "TEST"
   },
   {
     "Creatinine": "TEST"
@@ -90,10 +117,7 @@
     "mesh": "TREATMENT"
   },
   {
-    "general medicine": "PROBLEM"
-  },
-  {
-    "sinus rhythm": "PROBLEM"
+    "sinus rhythm": "TEST"
   },
   {
     "ekg": "TEST"
@@ -111,6 +135,6 @@
     "umbilical hernia": "PROBLEM"
   },
   {
-    "emergency department": "TEST"
+    "emergency department": "TREATMENT"
   }
 ]

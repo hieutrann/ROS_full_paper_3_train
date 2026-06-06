@@ -1,0 +1,230 @@
+[
+  {
+    "General Medicine": "TEST"
+  },
+  {
+    "Normal Physical Exam Template - 6": "TEST"
+  },
+  {
+    "Normal physical exam template": "TEST"
+  },
+  {
+    "Normal appearance for chronological age": "PROBLEM"
+  },
+  {
+    "chronically ill": "PROBLEM"
+  },
+  {
+    "pupils": "TREATMENT"
+  },
+  {
+    "reactive": "TREATMENT"
+  },
+  {
+    "Funduscopic examination": "TEST"
+  },
+  {
+    "normal": "PROBLEM"
+  },
+  {
+    "Posterior pharynx": "PROBLEM"
+  },
+  {
+    "Tympanic membranes": "PROBLEM"
+  },
+  {
+    "clear": "PROBLEM"
+  },
+  {
+    "Trachea": "TREATMENT"
+  },
+  {
+    "midline": "TREATMENT"
+  },
+  {
+    "Thyroid": "TREATMENT"
+  },
+  {
+    "supple": "TREATMENT"
+  },
+  {
+    "nodes": "TREATMENT"
+  },
+  {
+    "Lungs": "TREATMENT"
+  },
+  {
+    "clear to auscultation": "TREATMENT"
+  },
+  {
+    "bilaterally": "TREATMENT"
+  },
+  {
+    "respiratory rate": "TREATMENT"
+  },
+  {
+    "consolidation": "TREATMENT"
+  },
+  {
+    "egophony": "TREATMENT"
+  },
+  {
+    "retractions": "TREATMENT"
+  },
+  {
+    "secondary muscle use": "TREATMENT"
+  },
+  {
+    "Good bilateral breath sounds": "TREATMENT"
+  },
+  {
+    "No jugular venous distention": "TREATMENT"
+  },
+  {
+    "carotid bruits": "TREATMENT"
+  },
+  {
+    "increase in heart size": "TREATMENT"
+  },
+  {
+    "percussion": "TREATMENT"
+  },
+  {
+    "murmur": "TREATMENT"
+  },
+  {
+    "S1": "TREATMENT"
+  },
+  {
+    "S2": "TREATMENT"
+  },
+  {
+    "gallop": "TREATMENT"
+  },
+  {
+    "Soft to palpation": "TREATMENT"
+  },
+  {
+    "all four quadrants": "TREATMENT"
+  },
+  {
+    "organomegaly": "TREATMENT"
+  },
+  {
+    "rebound tenderness": "TREATMENT"
+  },
+  {
+    "Bowel sounds": "TREATMENT"
+  },
+  {
+    "Obturator": "TREATMENT"
+  },
+  {
+    "psoas": "TREATMENT"
+  },
+  {
+    "signs": "TREATMENT"
+  },
+  {
+    "negative": "TREATMENT"
+  },
+  {
+    "bladder": "TREATMENT"
+  },
+  {
+    "flank": "TREATMENT"
+  },
+  {
+    "Extremities": "TREATMENT"
+  },
+  {
+    "motor tone": "TREATMENT"
+  },
+  {
+    "strength": "TREATMENT"
+  },
+  {
+    "reflexes": "TREATMENT"
+  },
+  {
+    "joint strength": "TREATMENT"
+  },
+  {
+    "sensation": "TREATMENT"
+  },
+  {
+    "Glasgow Coma Scale": "TEST"
+  },
+  {
+    "Cranial nerves II through XII": "PROBLEM"
+  },
+  {
+    "grossly intact": "PROBLEM"
+  },
+  {
+    "motor": "TREATMENT"
+  },
+  {
+    "cerebellar tests": "TREATMENT"
+  },
+  {
+    "Reflexes": "TREATMENT"
+  },
+  {
+    "skin purpura": "PROBLEM"
+  },
+  {
+    "petechiae": "PROBLEM"
+  },
+  {
+    "hemorrhage": "PROBLEM"
+  },
+  {
+    "Psychiatric": "TEST"
+  },
+  {
+    "overt depression": "PROBLEM"
+  },
+  {
+    "suicidal ideations": "PROBLEM"
+  },
+  {
+    "general medicine": "TEST"
+  },
+  {
+    "jugular venous distention": "TREATMENT"
+  },
+  {
+    "flank": "TREATMENT"
+  },
+  {
+    "bladder": "TREATMENT"
+  },
+  {
+    "normal physical exam": "TEST"
+  },
+  {
+    "neck": "TREATMENT"
+  },
+  {
+    "nodes": "TREATMENT"
+  },
+  {
+    "respiratory": "TREATMENT"
+  },
+  {
+    "tenderness": "TREATMENT"
+  },
+  {
+    "motor": "TREATMENT"
+  },
+  {
+    "strength": "TREATMENT"
+  },
+  {
+    "reflexes": "TREATMENT"
+  },
+  {
+    "sounds": "TREATMENT"
+  }
+]

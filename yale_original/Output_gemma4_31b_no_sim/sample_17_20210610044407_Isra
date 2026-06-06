@@ -126,10 +126,10 @@
     "calcitriol": "DRUG"
   },
   {
-    "right hand and left foot was very swollen": "PROBLEM"
+    "swollen": "PROBLEM"
   },
   {
-    "very painful": "PROBLEM"
+    "painful": "PROBLEM"
   },
   {
     "urinate": "PROBLEM"
@@ -168,9 +168,6 @@
     "urine output was decreased": "PROBLEM"
   },
   {
-    "could not urinate": "PROBLEM"
-  },
-  {
     "cough": "PROBLEM"
   },
   {
@@ -189,9 +186,6 @@
     "paroxysmal nocturnal dyspnea": "PROBLEM"
   },
   {
-    "acute distress": "PROBLEM"
-  },
-  {
     "Blood pressure": "TEST"
   },
   {
@@ -207,25 +201,13 @@
     "weight": "TEST"
   },
   {
-    "Neck": "TEST"
-  },
-  {
     "JVD": "PROBLEM"
   },
   {
     "adenopathy": "PROBLEM"
   },
   {
-    "Chest": "TEST"
-  },
-  {
     "retractions": "PROBLEM"
-  },
-  {
-    "Lungs": "TEST"
-  },
-  {
-    "Heart": "TEST"
   },
   {
     "murmur": "PROBLEM"

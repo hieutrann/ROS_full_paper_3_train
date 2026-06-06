@@ -1,21 +1,15 @@
 [
   {
-    "ear": "TEST"
-  },
-  {
-    "nose": "TEST"
-  },
-  {
-    "mouth": "TEST"
-  },
-  {
-    "throat": "TEST"
+    "ENT Exam": "TEST"
   },
   {
     "nose": "PROBLEM"
   },
   {
-    "canals": "TEST"
+    "ears": "PROBLEM"
+  },
+  {
+    "Examination": "TEST"
   },
   {
     "drainage": "PROBLEM"
@@ -33,24 +27,63 @@
     "nasal mucosa": "PROBLEM"
   },
   {
+    "septum": "PROBLEM"
+  },
+  {
     "septal hematoma": "PROBLEM"
+  },
+  {
+    "turbinates": "PROBLEM"
   },
   {
     "abnormalities": "PROBLEM"
   },
   {
+    "teeth": "PROBLEM"
+  },
+  {
+    "gingivae": "PROBLEM"
+  },
+  {
     "oral mucosa": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
   },
   {
     "uvula": "PROBLEM"
   },
   {
-    "posterior pharynx": "PROBLEM"
+    "salivary glands": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "exudate": "PROBLEM"
+  },
+  {
+    "tonsils": "PROBLEM"
   },
   {
     "erythema": "PROBLEM"
   },
   {
     "tympanic": "TEST"
+  },
+  {
+    "mouth": "PROBLEM"
+  },
+  {
+    "throat": "PROBLEM"
+  },
+  {
+    "ears": "PROBLEM"
+  },
+  {
+    "mucosa": "PROBLEM"
+  },
+  {
+    "nose": "PROBLEM"
   }
 ]

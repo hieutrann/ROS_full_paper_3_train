@@ -1,6 +1,9 @@
 [
   {
-    "VITAL SIGNS": "TEST"
+    "Physical Exam": "TEST"
+  },
+  {
+    "GCS": "TEST"
   },
   {
     "Blood pressure": "TEST"
@@ -18,7 +21,13 @@
     "Pulse oximetry": "TEST"
   },
   {
+    "Eyes": "TEST"
+  },
+  {
     "Pupils": "TEST"
+  },
+  {
+    "Irises": "TEST"
   },
   {
     "Funduscopic exam": "TEST"
@@ -36,7 +45,28 @@
     "throat": "PROBLEM"
   },
   {
-    "Tympanic membranes": "TEST"
+    "lesions": "PROBLEM"
+  },
+  {
+    "Nares": "TEST"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "bulging": "PROBLEM"
+  },
+  {
+    "retraction": "PROBLEM"
+  },
+  {
+    "lesion": "PROBLEM"
+  },
+  {
+    "Hearing": "PROBLEM"
+  },
+  {
+    "lesion": "PROBLEM"
   },
   {
     "erythema": "PROBLEM"
@@ -51,16 +81,16 @@
     "abscess": "PROBLEM"
   },
   {
-    "Thyroid midline": "TEST"
+    "Thyroid": "PROBLEM"
   },
   {
-    "respiratory": "PROBLEM"
+    "pain": "PROBLEM"
   },
   {
-    "egophony": "TEST"
+    "respiratory effort": "PROBLEM"
   },
   {
-    "tactile fremitus": "TEST"
+    "Chest": "PROBLEM"
   },
   {
     "CARDIOVASCULAR": "PROBLEM"
@@ -87,13 +117,19 @@
     "Pulses": "TEST"
   },
   {
-    "Femoral and pedal pulses": "TEST"
+    "edema": "PROBLEM"
   },
   {
     "tenderness": "PROBLEM"
   },
   {
+    "mass": "PROBLEM"
+  },
+  {
     "hepatosplenomegaly": "PROBLEM"
+  },
+  {
+    "Bowel sounds": "TEST"
   },
   {
     "rebound": "PROBLEM"
@@ -108,22 +144,28 @@
     "ecchymosis": "PROBLEM"
   },
   {
-    "gait": "TEST"
+    "gait": "PROBLEM"
   },
   {
-    "tenderness": "PROBLEM"
+    "station": "PROBLEM"
   },
   {
-    "diaphoresis": "PROBLEM"
+    "pathology": "PROBLEM"
   },
   {
-    "LYMPH": "PROBLEM"
+    "Extremities": "PROBLEM"
+  },
+  {
+    "BACK": "PROBLEM"
+  },
+  {
+    "Cervical lymph nodes": "PROBLEM"
   },
   {
     "lymphadenopathy": "PROBLEM"
   },
   {
-    "NEUROLOGICAL": "PROBLEM"
+    "cranial nerves": "TEST"
   },
   {
     "DTRs": "TEST"
@@ -135,10 +177,40 @@
     "Straight leg raise": "TEST"
   },
   {
+    "Judgment": "PROBLEM"
+  },
+  {
+    "insight": "PROBLEM"
+  },
+  {
+    "Memory": "TEST"
+  },
+  {
+    "mood": "TEST"
+  },
+  {
     "delusions": "PROBLEM"
   },
   {
     "hallucinations": "PROBLEM"
+  },
+  {
+    "suicidal ideation": "PROBLEM"
+  },
+  {
+    "homicidal ideation": "PROBLEM"
+  },
+  {
+    "general medicine": "TEST"
+  },
+  {
+    "respiratory": "PROBLEM"
+  },
+  {
+    "abdomen": "PROBLEM"
+  },
+  {
+    "normal physical exam": "TEST"
   },
   {
     "pulses": "TEST"
@@ -150,12 +222,24 @@
     "strength": "TEST"
   },
   {
-    "lymph": "TEST"
+    "lymph": "PROBLEM"
+  },
+  {
+    "extremity": "PROBLEM"
+  },
+  {
+    "midline": "PROBLEM"
+  },
+  {
+    "range": "TEST"
+  },
+  {
+    "motion": "TEST"
   },
   {
     "lesions": "PROBLEM"
   },
   {
-    "motion": "TEST"
+    "symmetrical": "TEST"
   }
 ]

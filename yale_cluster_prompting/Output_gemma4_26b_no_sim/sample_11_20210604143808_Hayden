@@ -138,9 +138,6 @@
     "blood or cancer disorders": "PROBLEM"
   },
   {
-    "VITAL SIGNS": "TEST"
-  },
-  {
     "Blood pressure": "TEST"
   },
   {
@@ -159,16 +156,19 @@
     "Pupils": "TEST"
   },
   {
+    "Extraocular movements": "TEST"
+  },
+  {
     "jugular venous pressure distention": "PROBLEM"
   },
   {
     "adenopathy": "PROBLEM"
   },
   {
-    "CHEST": "TEST"
+    "heart rate": "TEST"
   },
   {
-    "HEART": "TEST"
+    "heart rhythm": "TEST"
   },
   {
     "fullness in the left upper quadrant": "PROBLEM"
@@ -184,9 +184,6 @@
   },
   {
     "refractory anemia": "PROBLEM"
-  },
-  {
-    "transfusion": "TREATMENT"
   },
   {
     "B12": "DRUG"
@@ -253,6 +250,9 @@
   },
   {
     "refractory anemia": "PROBLEM"
+  },
+  {
+    "bone marrow": "TREATMENT"
   },
   {
     "ultrasound of his abdomen": "TEST"

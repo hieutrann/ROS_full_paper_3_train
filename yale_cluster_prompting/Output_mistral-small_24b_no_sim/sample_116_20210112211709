@@ -15,10 +15,7 @@
     "Total thyroidectomy": "TREATMENT"
   },
   {
-    "surgery": "TREATMENT"
-  },
-  {
-    "thyroid goiter": "PROBLEM"
+    "large nodular thyroid goiter": "PROBLEM"
   },
   {
     "total thyroidectomy": "TREATMENT"
@@ -27,19 +24,7 @@
     "thyroid hormone replacement": "DRUG"
   },
   {
-    "afebrile": "PROBLEM"
-  },
-  {
-    "vital signs": "TEST"
-  },
-  {
     "intravenous narcotics": "DRUG"
-  },
-  {
-    "pain control": "PROBLEM"
-  },
-  {
-    "discharge": "TREATMENT"
   },
   {
     "diet": "TREATMENT"
@@ -54,7 +39,10 @@
     "pain control": "TREATMENT"
   },
   {
-    "surgical": "TREATMENT"
+    "wound": "PROBLEM"
+  },
+  {
+    "drain": "TREATMENT"
   },
   {
     "Vicodin": "DRUG"
@@ -72,7 +60,7 @@
     "wound care": "TREATMENT"
   },
   {
-    "discharge summary": "TEST"
+    "discharge summary": "PROBLEM"
   },
   {
     "nodular": "PROBLEM"

@@ -1,18 +1,15 @@
 [
   {
-    "Surgery": "TREATMENT"
+    "coronary atherosclerotic heart disease": "PROBLEM"
   },
   {
-    "Cardiac Catheterization": "TEST"
+    "coronary arteriogram": "TEST"
   },
   {
-    "Left heart catheterization": "TEST"
+    "lidocaine": "DRUG"
   },
   {
     "coronary angiography": "TEST"
-  },
-  {
-    "vein graft angiography": "TEST"
   },
   {
     "left ventricular pressure measurement": "TEST"
@@ -21,70 +18,19 @@
     "angiography": "TEST"
   },
   {
-    "Right femoral selective angiogram": "TEST"
+    "right femoral selective angiogram": "TEST"
   },
   {
-    "Closure device": "TEST"
+    "Angio-Seal": "TREATMENT"
   },
   {
-    "Angio-Seal": "DRUG"
+    "closure device": "TREATMENT"
   },
   {
-    "femoral arteriotomy": "TEST"
+    "femoral arteriotomy": "PROBLEM"
   },
   {
-    "coronary atherosclerotic heart disease": "PROBLEM"
-  },
-  {
-    "chest discomfort": "PROBLEM"
-  },
-  {
-    "smoking": "PROBLEM"
-  },
-  {
-    "diabetes": "PROBLEM"
-  },
-  {
-    "hypertension": "PROBLEM"
-  },
-  {
-    "hyperlipidemia": "PROBLEM"
-  },
-  {
-    "percutaneous evaluation": "TREATMENT"
-  },
-  {
-    "intervention": "TREATMENT"
-  },
-  {
-    "disease progression": "PROBLEM"
-  },
-  {
-    "lidocaine": "DRUG"
-  },
-  {
-    "femoral artery": "TEST"
-  },
-  {
-    "guide wire": "TEST"
-  },
-  {
-    "coronary angiography": "TEST"
-  },
-  {
-    "left ventricular measurement": "TEST"
-  },
-  {
-    "left coronary artery": "TEST"
-  },
-  {
-    "right groin": "TEST"
-  },
-  {
-    "saphenous vein graft conduit": "TEST"
-  },
-  {
-    "angled pigtail catheter": "TEST"
+    "Perclose device": "TREATMENT"
   },
   {
     "left ventricular pressures": "TEST"
@@ -93,37 +39,7 @@
     "left ventriculogram": "TEST"
   },
   {
-    "femoral artery": "TEST"
-  },
-  {
-    "atherosclerotic plaque": "PROBLEM"
-  },
-  {
-    "bifurcation": "TEST"
-  },
-  {
-    "superficial femoral": "TEST"
-  },
-  {
-    "profunda femoris arteries": "TEST"
-  },
-  {
-    "arteriotomy": "TEST"
-  },
-  {
-    "Perclose device": "DRUG"
-  },
-  {
-    "Angio-Seal": "DRUG"
-  },
-  {
-    "hemostasis": "TREATMENT"
-  },
-  {
-    "MAC Unit": "TEST"
-  },
-  {
-    "bedrest": "TREATMENT"
+    "hemodynamic data": "TEST"
   },
   {
     "aortic pressure": "TEST"
@@ -135,10 +51,7 @@
     "end-diastolic pressure": "TEST"
   },
   {
-    "aortic valve": "TEST"
-  },
-  {
-    "left ventricle": "TEST"
+    "gradient": "TEST"
   },
   {
     "left ventricular ejection fraction": "TEST"
@@ -150,91 +63,43 @@
     "wall motion": "TEST"
   },
   {
-    "RAO projection": "TEST"
-  },
-  {
-    "left main coronary artery": "TEST"
+    "coronary angiogram": "TEST"
   },
   {
     "atherosclerotic plaque": "PROBLEM"
   },
   {
-    "LAD": "TEST"
-  },
-  {
-    "left circumflex": "TEST"
-  },
-  {
-    "obtuse marginal branch": "TEST"
-  },
-  {
-    "OM-2": "TEST"
-  },
-  {
     "stenosis": "PROBLEM"
   },
   {
-    "kink": "PROBLEM"
+    "anastomosis": "PROBLEM"
   },
   {
-    "anastomosis": "TREATMENT"
+    "right coronary artery": "PROBLEM"
   },
   {
-    "saphenous vein graft": "TEST"
+    "posterior left ventricular branch": "PROBLEM"
   },
   {
-    "right coronary artery": "TEST"
+    "PDA": "PROBLEM"
   },
   {
-    "proximal": "TEST"
-  },
-  {
-    "mid": "TEST"
-  },
-  {
-    "distal": "TEST"
-  },
-  {
-    "posterior left ventricular branch": "TEST"
-  },
-  {
-    "PDA": "TEST"
+    "saphenous vein graft": "PROBLEM"
   },
   {
     "competitive flow": "PROBLEM"
   },
   {
-    "runoff": "TEST"
+    "runoff": "PROBLEM"
   },
   {
     "retrograde filling": "PROBLEM"
   },
   {
-    "diagonal branch": "TEST"
+    "diagonal branch": "PROBLEM"
   },
   {
-    "saphenous vein graft": "TEST"
-  },
-  {
-    "native right coronary artery": "TEST"
-  },
-  {
-    "proximal PDA": "TEST"
-  },
-  {
-    "PLV": "TEST"
-  },
-  {
-    "native proximal PDA": "TEST"
-  },
-  {
-    "PLV disease": "PROBLEM"
-  },
-  {
-    "carotid duplex Doppler ultrasound": "TEST"
-  },
-  {
-    "carotid bruits": "PROBLEM"
+    "left ventricular systolic function": "TEST"
   },
   {
     "antihyperlipidemic": "DRUG"
@@ -249,6 +114,9 @@
     "triglyceride level": "TEST"
   },
   {
-    "smoking": "PROBLEM"
+    "carotid duplex Doppler ultrasound": "TEST"
+  },
+  {
+    "carotid bruits": "PROBLEM"
   }
 ]

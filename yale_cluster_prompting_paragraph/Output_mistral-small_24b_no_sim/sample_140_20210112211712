@@ -1,6 +1,6 @@
 [
   {
-    "VITAL SIGNS": "TEST"
+    "apparent distress": "PROBLEM"
   },
   {
     "hepatosplenomegaly": "PROBLEM"
@@ -21,13 +21,10 @@
     "pulse": "TEST"
   },
   {
-    "bruit": "PROBLEM"
+    "bruit": "TEST"
   },
   {
     "adenopathy": "PROBLEM"
-  },
-  {
-    "chest": "PROBLEM"
   },
   {
     "percussion": "TEST"
@@ -40,8 +37,5 @@
   },
   {
     "signs": "PROBLEM"
-  },
-  {
-    "tongue": "PROBLEM"
   }
 ]

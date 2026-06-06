@@ -1,21 +1,12 @@
 [
   {
-    "Abdominal Pain": "PROBLEM"
-  },
-  {
-    "abdominal pain": "PROBLEM"
-  },
-  {
-    "abdominal pain": "PROBLEM"
-  },
-  {
-    "Abdominal pain": "PROBLEM"
-  },
-  {
     "abdominal pain": "PROBLEM"
   },
   {
     "CT scan": "TEST"
+  },
+  {
+    "oral antibiotics": "DRUG"
   },
   {
     "Cipro": "DRUG"
@@ -69,6 +60,9 @@
     "Premarin": "DRUG"
   },
   {
+    "hormone replacement": "TREATMENT"
+  },
+  {
     "cholecystectomy": "TREATMENT"
   },
   {
@@ -93,10 +87,16 @@
     "shortness of breath": "PROBLEM"
   },
   {
+    "temperature": "TEST"
+  },
+  {
     "focally tender": "PROBLEM"
   },
   {
-    "palpable fullness or mass": "PROBLEM"
+    "palpable fullness": "PROBLEM"
+  },
+  {
+    "mass": "PROBLEM"
   },
   {
     "rebound tenderness": "PROBLEM"
@@ -141,30 +141,12 @@
     "EKG": "TEST"
   },
   {
-    "normal sinus rhythm": "PROBLEM"
-  },
-  {
-    "abdominal pain": "PROBLEM"
-  },
-  {
-    "sigmoid diverticulitis": "PROBLEM"
-  },
-  {
     "sigmoid diverticulitis": "PROBLEM"
   },
   {
     "CT scan of the abdomen and pelvis": "TEST"
   },
   {
-    "colonoscopy": "TEST"
-  },
-  {
-    "abdominal pain": "PROBLEM"
-  },
-  {
-    "diverticulitis": "PROBLEM"
-  },
-  {
-    "tenderness": "PROBLEM"
+    "nothing by mouth": "TREATMENT"
   }
 ]

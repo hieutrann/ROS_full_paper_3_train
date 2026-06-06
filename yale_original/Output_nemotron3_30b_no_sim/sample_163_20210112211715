@@ -1,0 +1,266 @@
+[
+  {
+    "scalp skin biopsy": "TREATMENT"
+  },
+  {
+    "FINAL DIAGNOSIS/REASON FOR ADMISSION": "PROBLEM"
+  },
+  {
+    "Acute right lobar pneumonia": "PROBLEM"
+  },
+  {
+    "Hypoxemia": "PROBLEM"
+  },
+  {
+    "hypotension": "PROBLEM"
+  },
+  {
+    "acute right lobar pneumonia": "PROBLEM"
+  },
+  {
+    "hyponatremia": "PROBLEM"
+  },
+  {
+    "hypokalemia": "PROBLEM"
+  },
+  {
+    "Elevated liver function tests": "TEST"
+  },
+  {
+    "dementia": "PROBLEM"
+  },
+  {
+    "Alzheimer's type": "PROBLEM"
+  },
+  {
+    "Anemia secondary to current illness and possible iron deficiency": "PROBLEM"
+  },
+  {
+    "Darkened mole on the scalp": "PROBLEM"
+  },
+  {
+    "thoracentesis": "TREATMENT"
+  },
+  {
+    "Y's results pending.": "TEST"
+  },
+  {
+    "DISPOSITION": "PROBLEM"
+  },
+  {
+    "Clinically improved": "PROBLEM"
+  },
+  {
+    "Flagyl": "DRUG"
+  },
+  {
+    "Levaquin": "DRUG"
+  },
+  {
+    "low-grade fever": "PROBLEM"
+  },
+  {
+    "confusion": "PROBLEM"
+  },
+  {
+    "dizziness": "PROBLEM"
+  },
+  {
+    "nonproductive cough": "PROBLEM"
+  },
+  {
+    "chest x-ray": "TEST"
+  },
+  {
+    "antibiotics": "DRUG"
+  },
+  {
+    "Infectious Disease": "PROBLEM"
+  },
+  {
+    "vancomycin": "DRUG"
+  },
+  {
+    "infection": "PROBLEM"
+  },
+  {
+    "Levaquin": "DRUG"
+  },
+  {
+    "Flagyl": "DRUG"
+  },
+  {
+    "C. diff colitis": "PROBLEM"
+  },
+  {
+    "cholecystitis": "PROBLEM"
+  },
+  {
+    "hypotensive": "PROBLEM"
+  },
+  {
+    "dizzy": "PROBLEM"
+  },
+  {
+    "blood pressure": "PROBLEM"
+  },
+  {
+    "IV fluid management": "TREATMENT"
+  },
+  {
+    "fluid and pulmonary treatment": "TREATMENT"
+  },
+  {
+    "elevated liver function tests": "TEST"
+  },
+  {
+    "CT scan of the chest and abdomen": "TEST"
+  },
+  {
+    "fluid circling the gallbladder": "PROBLEM"
+  },
+  {
+    "HIDA scan": "TEST"
+  },
+  {
+    "Liver functions": "TEST"
+  },
+  {
+    "antibiotics": "DRUG"
+  },
+  {
+    "hypoxemic": "PROBLEM"
+  },
+  {
+    "pulse oximetry": "TEST"
+  },
+  {
+    "incentive spirometry": "TREATMENT"
+  },
+  {
+    "white count": "TEST"
+  },
+  {
+    "Blood cultures": "TEST"
+  },
+  {
+    "Sputum culture": "TEST"
+  },
+  {
+    "Urine culture": "TEST"
+  },
+  {
+    "thoracentesis culture": "TEST"
+  },
+  {
+    "packed red cells": "DRUG"
+  },
+  {
+    "hemoglobin drop": "PROBLEM"
+  },
+  {
+    "cardiovascular support": "TREATMENT"
+  },
+  {
+    "white count": "TEST"
+  },
+  {
+    "hemoglobin": "TEST"
+  },
+  {
+    "hematocrit": "TEST"
+  },
+  {
+    "PT": "TEST"
+  },
+  {
+    "PTT": "TEST"
+  },
+  {
+    "Occult blood": "TEST"
+  },
+  {
+    "Hepatitis B antigen": "TEST"
+  },
+  {
+    "Hepatitis A antibody IgM": "TEST"
+  },
+  {
+    "Hepatitis B core IgM negative": "PROBLEM"
+  },
+  {
+    "hepatitis C core antibody": "PROBLEM"
+  },
+  {
+    "ALT": "TEST"
+  },
+  {
+    "AST": "TEST"
+  },
+  {
+    "calcium": "TEST"
+  },
+  {
+    "ferritin level": "TEST"
+  },
+  {
+    "iron": "TEST"
+  },
+  {
+    "LDH": "TEST"
+  },
+  {
+    "potassium": "TEST"
+  },
+  {
+    "serum iron": "TEST"
+  },
+  {
+    "sodium": "TEST"
+  },
+  {
+    "back discomfort": "PROBLEM"
+  },
+  {
+    "lumbosacral back x-ray": "TEST"
+  },
+  {
+    "degenerative disk disease": "PROBLEM"
+  },
+  {
+    "pneumonia": "PROBLEM"
+  },
+  {
+    "hypoxemia": "PROBLEM"
+  },
+  {
+    "hypotension": "PROBLEM"
+  },
+  {
+    "electrolyte abnormality": "PROBLEM"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "scalp skin biopsy": "TEST"
+  },
+  {
+    "liver function tests": "TEST"
+  },
+  {
+    "lobar pneumonia": "PROBLEM"
+  },
+  {
+    "infectious disease": "PROBLEM"
+  },
+  {
+    "skin biopsy": "TEST"
+  },
+  {
+    "white count": "TEST"
+  },
+  {
+    "cultures": "TEST"
+  }
+]

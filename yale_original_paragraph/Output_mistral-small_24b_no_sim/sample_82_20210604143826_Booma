@@ -18,16 +18,19 @@
     "atrial fibrillation": "PROBLEM"
   },
   {
-    "fall": "PROBLEM"
-  },
-  {
-    "rapid atrial tachyarrhythmia": "PROBLEM"
+    "atrial tachyarrhythmia": "PROBLEM"
   },
   {
     "multifocal atrial tachycardia": "PROBLEM"
   },
   {
     "wandering atrial pacemaker": "PROBLEM"
+  },
+  {
+    "normal sinus rhythm": "PROBLEM"
+  },
+  {
+    "APCs": "PROBLEM"
   },
   {
     "palpitations": "PROBLEM"
@@ -46,6 +49,21 @@
   },
   {
     "bradycardia": "PROBLEM"
+  },
+  {
+    "GERD": "PROBLEM"
+  },
+  {
+    "peripheral edema": "PROBLEM"
+  },
+  {
+    "depression": "PROBLEM"
+  },
+  {
+    "psoriasis": "PROBLEM"
+  },
+  {
+    "lupus": "PROBLEM"
   },
   {
     "stroke": "PROBLEM"
@@ -93,28 +111,13 @@
     "home oxygen use": "PROBLEM"
   },
   {
-    "peripheral edema": "PROBLEM"
-  },
-  {
     "MI": "PROBLEM"
   },
   {
     "diabetes": "PROBLEM"
   },
   {
-    "GERD": "PROBLEM"
-  },
-  {
-    "depressed": "PROBLEM"
-  },
-  {
     "rheumatologic conditions": "PROBLEM"
-  },
-  {
-    "psoriasis": "PROBLEM"
-  },
-  {
-    "lupus": "PROBLEM"
   },
   {
     "left hip fracture": "PROBLEM"
@@ -123,16 +126,13 @@
     "hypokalemia": "PROBLEM"
   },
   {
+    "thrombocytopenia": "PROBLEM"
+  },
+  {
+    "gastroesophageal reflux disease": "PROBLEM"
+  },
+  {
     "Cardizem": "DRUG"
-  },
-  {
-    "Persantine Myoview nuclear rest-stress test scan": "TEST"
-  },
-  {
-    "EKGs": "TEST"
-  },
-  {
-    "EKG": "TEST"
   },
   {
     "Multivitamin": "DRUG"
@@ -165,28 +165,34 @@
     "verapamil": "DRUG"
   },
   {
-    "PENICILLIN": "DRUG"
+    "proton pump inhibitors": "DRUG"
   },
   {
-    "Pulse": "TEST"
+    "EKGs": "TEST"
+  },
+  {
+    "ECG": "TEST"
+  },
+  {
+    "Persantine Myoview nuclear rest-stress test scan": "TEST"
+  },
+  {
+    "echocardiogram": "TEST"
+  },
+  {
+    "chest x-ray": "TEST"
   },
   {
     "blood pressure": "TEST"
   },
   {
-    "temperature": "TEST"
+    "pulses": "TEST"
   },
   {
     "respiratory rate": "TEST"
   },
   {
     "O2 saturation": "TEST"
-  },
-  {
-    "chest x-ray": "TEST"
-  },
-  {
-    "radiology report": "TEST"
   },
   {
     "sodium": "TEST"
@@ -228,15 +234,12 @@
     "platelet count": "TEST"
   },
   {
-    "telemetry": "TEST"
+    "Telemetry": "TEST"
   },
   {
-    "surgery": "TREATMENT"
+    "cardiology consultation": "TREATMENT"
   },
   {
-    "incision": "TREATMENT"
-  },
-  {
-    "drainage": "TREATMENT"
+    "left hip surgery": "TREATMENT"
   }
 ]

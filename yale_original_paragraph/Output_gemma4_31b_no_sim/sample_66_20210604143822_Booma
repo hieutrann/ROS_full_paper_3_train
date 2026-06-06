@@ -6,13 +6,22 @@
     "appendiceal primary": "PROBLEM"
   },
   {
-    "Peritoneal carcinomatosis from appendiceal primary": "PROBLEM"
+    "Peritoneal carcinomatosis": "PROBLEM"
+  },
+  {
+    "appendiceal primary": "PROBLEM"
+  },
+  {
+    "Peritoneal carcinomatosis": "PROBLEM"
+  },
+  {
+    "appendiceal primary": "PROBLEM"
   },
   {
     "Diarrhea": "PROBLEM"
   },
   {
-    "Cystoscopy": "TREATMENT"
+    "Cystoscopy": "TEST"
   },
   {
     "bilaterally retrograde pyelograms": "TEST"
@@ -42,6 +51,12 @@
     "mitomycin-C": "DRUG"
   },
   {
+    "peritoneal carcinomatosis": "PROBLEM"
+  },
+  {
+    "appendiceal primary": "PROBLEM"
+  },
+  {
     "baseline labs": "TEST"
   },
   {
@@ -51,7 +66,7 @@
     "ureteral stent placement": "TREATMENT"
   },
   {
-    "cystoscopy": "TREATMENT"
+    "cystoscopy": "TEST"
   },
   {
     "bilateral ureteral stent placement": "TREATMENT"
@@ -120,6 +135,9 @@
     "Vicodin": "DRUG"
   },
   {
+    "pain": "PROBLEM"
+  },
+  {
     "Phenergan": "DRUG"
   },
   {
@@ -144,15 +162,30 @@
     "vomitting": "PROBLEM"
   },
   {
-    "continuing diarrhea": "PROBLEM"
+    "diarrhea": "PROBLEM"
   },
   {
-    "redness": "PROBLEM"
+    "carcinomatosis from appendiceal primary": "PROBLEM"
   },
   {
-    "drainage": "PROBLEM"
+    "stent placement": "TREATMENT"
   },
   {
-    "warmth around his incision site": "PROBLEM"
+    "ureteral stents": "TREATMENT"
+  },
+  {
+    "peritoneal carcinomatosis": "PROBLEM"
+  },
+  {
+    "appendiceal primary": "PROBLEM"
+  },
+  {
+    "hemicolectomy": "TREATMENT"
+  },
+  {
+    "splenectomy": "TREATMENT"
+  },
+  {
+    "carcinomatosis": "PROBLEM"
   }
 ]

@@ -3,48 +3,30 @@
     "foot pain": "PROBLEM"
   },
   {
-    "cut on foot": "PROBLEM"
-  },
-  {
-    "piece of glass": "PROBLEM"
-  },
-  {
-    "foreign body": "PROBLEM"
-  },
-  {
-    "active bleeding": "PROBLEM"
-  },
-  {
     "laceration": "PROBLEM"
   },
   {
-    "Asthma": "PROBLEM"
+    "glass": "TREATMENT"
   },
   {
     "Albuterol": "DRUG"
   },
   {
-    "Temperature": "TEST"
+    "foot": "PROBLEM"
   },
   {
-    "blood pressure": "TEST"
+    "injuries": "PROBLEM"
   },
   {
-    "pulse": "TEST"
-  },
-  {
-    "respirations": "TEST"
-  },
-  {
-    "Oxygen saturation": "TEST"
-  },
-  {
-    "4-mm partial thickness laceration": "TREATMENT"
+    "bandage": "TREATMENT"
   },
   {
     "antibiotic ointment": "TREATMENT"
   },
   {
-    "bandage": "TREATMENT"
+    "4-MM LACERATION TO THE RIGHT FOOT": "PROBLEM"
+  },
+  {
+    "ACUTE RIGHT FOOT PAIN, NOW RESOLVED": "PROBLEM"
   }
 ]

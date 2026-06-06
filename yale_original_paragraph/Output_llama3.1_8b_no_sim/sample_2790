@@ -3,9 +3,6 @@
     "back pain": "PROBLEM"
   },
   {
-    "bulging disk": "PROBLEM"
-  },
-  {
     "Decadron": "DRUG"
   },
   {
@@ -21,13 +18,22 @@
     "Protonix": "DRUG"
   },
   {
+    "bone scan": "TEST"
+  },
+  {
     "IV analgesics": "TREATMENT"
   },
   {
     "physical therapy": "TREATMENT"
   },
   {
-    "incisional hernia": "PROBLEM"
+    "right orchiectomy": "TREATMENT"
+  },
+  {
+    "excision of abdominal teratoma": "TREATMENT"
+  },
+  {
+    "incisional hernia": "TREATMENT"
   },
   {
     "testicular cancer": "PROBLEM"
@@ -45,63 +51,9 @@
     "bilateral carpal tunnel syndrome": "PROBLEM"
   },
   {
-    "abdominal teratoma": "PROBLEM"
-  },
-  {
     "deep vein thrombosis": "PROBLEM"
   },
   {
     "obesity": "PROBLEM"
-  },
-  {
-    "bone scan": "TEST"
-  },
-  {
-    "chest pain": "PROBLEM"
-  },
-  {
-    "palpitations": "PROBLEM"
-  },
-  {
-    "hemoptysis": "PROBLEM"
-  },
-  {
-    "shortness of breath": "PROBLEM"
-  },
-  {
-    "nausea": "PROBLEM"
-  },
-  {
-    "vomiting": "PROBLEM"
-  },
-  {
-    "diarrhea": "PROBLEM"
-  },
-  {
-    "constipation": "PROBLEM"
-  },
-  {
-    "hematemesis": "PROBLEM"
-  },
-  {
-    "dysuria": "PROBLEM"
-  },
-  {
-    "frequency": "PROBLEM"
-  },
-  {
-    "incomplete bladder emptying": "PROBLEM"
-  },
-  {
-    "voiding difficulties": "PROBLEM"
-  },
-  {
-    "numbness and tingling": "PROBLEM"
-  },
-  {
-    "dizziness": "PROBLEM"
-  },
-  {
-    "seizure disorders": "PROBLEM"
   }
 ]

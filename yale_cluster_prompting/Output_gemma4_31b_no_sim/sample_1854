@@ -30,16 +30,19 @@
     "destructive osseous lesions": "PROBLEM"
   },
   {
-    "degenerative endplate or facet changes": "PROBLEM"
+    "degenerative endplate changes": "PROBLEM"
   },
   {
-    "osseous central canal or foraminal narrowing": "PROBLEM"
+    "facet changes": "PROBLEM"
+  },
+  {
+    "osseous central canal narrowing": "PROBLEM"
+  },
+  {
+    "foraminal narrowing": "PROBLEM"
   },
   {
     "cervical spine": "TEST"
-  },
-  {
-    "radiology": "TEST"
   },
   {
     "c-spine": "TEST"

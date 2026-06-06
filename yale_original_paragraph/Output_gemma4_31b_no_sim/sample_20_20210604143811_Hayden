@@ -12,16 +12,7 @@
     "voicing difficulties": "PROBLEM"
   },
   {
-    "Chronic laryngitis": "PROBLEM"
-  },
-  {
-    "hoarseness": "PROBLEM"
-  },
-  {
-    "speech therapy": "TREATMENT"
-  },
-  {
-    "voicing difficulties": "PROBLEM"
+    "initial evaluation": "TEST"
   },
   {
     "outpatient speech therapy sessions": "TREATMENT"
@@ -66,10 +57,10 @@
     "outpatient skilled speech therapy": "TREATMENT"
   },
   {
-    "vocal hygiene": "TREATMENT"
+    "home program": "TREATMENT"
   },
   {
-    "voice activities": "TREATMENT"
+    "vocal hygiene": "TREATMENT"
   },
   {
     "hoarseness": "PROBLEM"

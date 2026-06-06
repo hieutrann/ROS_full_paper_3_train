@@ -1,0 +1,299 @@
+[
+  {
+    "General Medicine": "PROBLEM"
+  },
+  {
+    "Physical Examination": "PROBLEM"
+  },
+  {
+    "Female Physical Exam": "PROBLEM"
+  },
+  {
+    "Female Physical Examination": "PROBLEM"
+  },
+  {
+    "Eye": "TEST"
+  },
+  {
+    "Eyelids": "TEST"
+  },
+  {
+    "Conjunctivae": "TEST"
+  },
+  {
+    "Sclerae": "TEST"
+  },
+  {
+    "Cornea": "TEST"
+  },
+  {
+    "Pupils": "TEST"
+  },
+  {
+    "Iris": "TEST"
+  },
+  {
+    "Anterior chamber": "TEST"
+  },
+  {
+    "Lacrimal ducts": "TEST"
+  },
+  {
+    "Fundi": "TEST"
+  },
+  {
+    "Ear": "TEST"
+  },
+  {
+    "External ear": "TEST"
+  },
+  {
+    "Ear canal": "TEST"
+  },
+  {
+    "Tympanic membranes": "TEST"
+  },
+  {
+    "Middle ear effusions": "TEST"
+  },
+  {
+    "Nose": "TEST"
+  },
+  {
+    "External nose": "TEST"
+  },
+  {
+    "Nares": "TEST"
+  },
+  {
+    "Turbinates": "TEST"
+  },
+  {
+    "Mucus": "TEST"
+  },
+  {
+    "Throat": "TEST"
+  },
+  {
+    "Buccal mucosa": "TEST"
+  },
+  {
+    "Lips": "TEST"
+  },
+  {
+    "Tongue": "TEST"
+  },
+  {
+    "Hard and soft palate": "TEST"
+  },
+  {
+    "Teeth": "TEST"
+  },
+  {
+    "Adenopathy": "TEST"
+  },
+  {
+    "Tonsils": "TEST"
+  },
+  {
+    "Uvula": "TEST"
+  },
+  {
+    "Neck": "TEST"
+  },
+  {
+    "Skin": "TEST"
+  },
+  {
+    "Adenopathy": "TEST"
+  },
+  {
+    "Thyromegaly": "TEST"
+  },
+  {
+    "Masses": "TEST"
+  },
+  {
+    "Range of motion": "TEST"
+  },
+  {
+    "Chest": "TEST"
+  },
+  {
+    "Lung": "TEST"
+  },
+  {
+    "Lung excursion": "TEST"
+  },
+  {
+    "Accessory muscle use": "TEST"
+  },
+  {
+    "Cardiovascular": "TEST"
+  },
+  {
+    "Heart": "TEST"
+  },
+  {
+    "Heart rate": "TEST"
+  },
+  {
+    "Abdominal": "TEST"
+  },
+  {
+    "Bowel sounds": "TEST"
+  },
+  {
+    "Hepatomegaly": "TEST"
+  },
+  {
+    "Splenomegaly": "TEST"
+  },
+  {
+    "Masses": "TEST"
+  },
+  {
+    "Bruits": "TEST"
+  },
+  {
+    "Genital": "TEST"
+  },
+  {
+    "Labia majora": "TEST"
+  },
+  {
+    "Labia minora": "TEST"
+  },
+  {
+    "Clitoris": "TEST"
+  },
+  {
+    "Vaginal mucosa": "TEST"
+  },
+  {
+    "Discharge": "TEST"
+  },
+  {
+    "Cervix": "TEST"
+  },
+  {
+    "Ovaries": "TEST"
+  },
+  {
+    "Pelvic masses": "TEST"
+  },
+  {
+    "Uterus": "TEST"
+  },
+  {
+    "External hemorrhoids": "TEST"
+  },
+  {
+    "Musculoskeletal": "TEST"
+  },
+  {
+    "Strength": "TEST"
+  },
+  {
+    "Range of motion": "TEST"
+  },
+  {
+    "Joint effusions": "TEST"
+  },
+  {
+    "Joint shape and contour": "TEST"
+  },
+  {
+    "Foot": "TEST"
+  },
+  {
+    "Edema": "TEST"
+  },
+  {
+    "Pain": "TEST"
+  },
+  {
+    "Ankle": "TEST"
+  },
+  {
+    "Drawer test": "TEST"
+  },
+  {
+    "Ligaments": "TEST"
+  },
+  {
+    "Knee": "TEST"
+  },
+  {
+    "Lachman's test": "TEST"
+  },
+  {
+    "Bursas": "TEST"
+  },
+  {
+    "Wrist": "TEST"
+  },
+  {
+    "Edema": "TEST"
+  },
+  {
+    "Effusion": "TEST"
+  },
+  {
+    "Tinel test": "TEST"
+  },
+  {
+    "Phalen test": "TEST"
+  },
+  {
+    "Elbow": "TEST"
+  },
+  {
+    "Olecranon bursa": "TEST"
+  },
+  {
+    "Hip": "TEST"
+  },
+  {
+    "Swinging test": "TEST"
+  },
+  {
+    "Trochanteric bursa": "TEST"
+  },
+  {
+    "Gait": "TEST"
+  },
+  {
+    "Psychiatric": "TEST"
+  },
+  {
+    "Alert and oriented": "TEST"
+  },
+  {
+    "Delusions": "TEST"
+  },
+  {
+    "Hallucinations": "TEST"
+  },
+  {
+    "Loose associations": "TEST"
+  },
+  {
+    "Flight of ideas": "TEST"
+  },
+  {
+    "Tangentiality": "TEST"
+  },
+  {
+    "Affect": "TEST"
+  },
+  {
+    "Psychomotor slowing": "TEST"
+  },
+  {
+    "Agitation": "TEST"
+  },
+  {
+    "Eye contact": "TEST"
+  }
+]

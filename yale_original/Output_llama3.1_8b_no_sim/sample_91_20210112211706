@@ -9,7 +9,7 @@
     "diabetes": "PROBLEM"
   },
   {
-    "morbid obesity": "PROBLEM"
+    "obesity": "PROBLEM"
   },
   {
     "hepatitis C": "PROBLEM"
@@ -24,10 +24,10 @@
     "cocaine abuse": "PROBLEM"
   },
   {
-    "weak knees": "PROBLEM"
+    "knees": "PROBLEM"
   },
   {
-    "bilateral knee pain": "PROBLEM"
+    "knee pain": "PROBLEM"
   },
   {
     "hematuria": "PROBLEM"
@@ -60,10 +60,7 @@
     "cocaine abuse": "PROBLEM"
   },
   {
-    "weak knees": "PROBLEM"
-  },
-  {
-    "bilateral knee pain": "PROBLEM"
+    "knee pain": "PROBLEM"
   },
   {
     "hematuria": "PROBLEM"
@@ -75,22 +72,13 @@
     "prescription medications": "DRUG"
   },
   {
-    "afebrile": "TEST"
-  },
-  {
-    "101.3": "TEST"
+    "fever": "PROBLEM"
   },
   {
     "heart rate": "TEST"
   },
   {
-    "130": "TEST"
-  },
-  {
     "respiratory rate": "TEST"
-  },
-  {
-    "24": "TEST"
   },
   {
     "White blood cell count": "TEST"
@@ -144,6 +132,9 @@
     "gastroesophageal reflux disease": "PROBLEM"
   },
   {
+    "exploratory laparotomy": "TREATMENT"
+  },
+  {
     "hepatic encephalopathy": "PROBLEM"
   },
   {
@@ -180,7 +171,7 @@
     "Zofran": "DRUG"
   },
   {
-    "norepinephrine drip": "TREATMENT"
+    "norepinephrine": "DRUG"
   },
   {
     "vitamin K": "DRUG"
@@ -222,28 +213,28 @@
     "icteric sclerae": "PROBLEM"
   },
   {
-    "pale conjunctivae": "PROBLEM"
+    "conjunctivae": "PROBLEM"
   },
   {
-    "Pupils": "TEST"
+    "pupils": "TEST"
   },
   {
     "hearing": "TEST"
   },
   {
-    "Moist oral mucosa": "PROBLEM"
+    "oral mucosa": "PROBLEM"
   },
   {
     "oral lesions": "PROBLEM"
   },
   {
-    "palpable neck masses": "PROBLEM"
+    "neck masses": "PROBLEM"
   },
   {
     "Thyroid": "PROBLEM"
   },
   {
-    "inspiratory effort": "TEST"
+    "inspiratory effort": "PROBLEM"
   },
   {
     "crackles": "PROBLEM"
@@ -252,7 +243,7 @@
     "wheezes": "PROBLEM"
   },
   {
-    "cardiac rhythm": "PROBLEM"
+    "cardiac rhythm": "TEST"
   },
   {
     "rales": "PROBLEM"
@@ -282,16 +273,22 @@
     "epigastric area": "PROBLEM"
   },
   {
-    "right upper quadrant": "PROBLEM"
+    "tender": "PROBLEM"
   },
   {
-    "epigastric area": "PROBLEM"
+    "palpation": "TEST"
+  },
+  {
+    "epigastric": "PROBLEM"
+  },
+  {
+    "area": "PROBLEM"
   },
   {
     "cervical lymphadenopathy": "PROBLEM"
   },
   {
-    "diffuse jaundice": "PROBLEM"
+    "jaundice": "PROBLEM"
   },
   {
     "subcutaneous nodules": "PROBLEM"
@@ -324,7 +321,10 @@
     "PTT": "TEST"
   },
   {
-    "BUN and creatinine": "TEST"
+    "BUN": "TEST"
+  },
+  {
+    "creatinine": "TEST"
   },
   {
     "AST": "TEST"
@@ -351,9 +351,6 @@
     "myoglobin": "TEST"
   },
   {
-    "Urinalysis": "TEST"
-  },
-  {
     "leucocyte esterase": "TEST"
   },
   {
@@ -366,7 +363,7 @@
     "rbc's": "TEST"
   },
   {
-    "bacteria": "PROBLEM"
+    "bacteria": "TEST"
   },
   {
     "blood cultures": "TEST"
@@ -387,25 +384,16 @@
     "lung fields": "PROBLEM"
   },
   {
-    "bony or soft tissue structures": "PROBLEM"
+    "bony tissue": "PROBLEM"
   },
   {
-    "advanced osteoarthritis": "PROBLEM"
+    "soft tissue": "PROBLEM"
   },
   {
-    "Left knee x-rays": "TEST"
+    "knee x-rays": "TEST"
   },
   {
-    "01/07/09": "TEST"
-  },
-  {
-    "ascites": "PROBLEM"
-  },
-  {
-    "gallbladder": "PROBLEM"
-  },
-  {
-    "pericholecystic fluid": "PROBLEM"
+    "osteoporosis": "PROBLEM"
   },
   {
     "liver cirrhosis": "PROBLEM"
@@ -414,16 +402,16 @@
     "portal hypertension": "PROBLEM"
   },
   {
-    "mild ascites": "PROBLEM"
+    "ascites": "PROBLEM"
   },
   {
     "splenomegaly": "PROBLEM"
   },
   {
-    "dilated portal/splenic and superior mesenteric vein": "PROBLEM"
+    "CAT scan": "TEST"
   },
   {
-    "CAT scan": "TEST"
+    "abdomen": "TEST"
   },
   {
     "Appendix": "PROBLEM"
@@ -432,19 +420,19 @@
     "pericecal inflammation": "PROBLEM"
   },
   {
-    "IMPRESSION": "PROBLEM"
+    "IMPRESSION": "TEST"
   },
   {
     "Septic shock": "PROBLEM"
   },
   {
-    "2": "TEST"
+    "2": "TREATMENT"
   },
   {
     "urinary tract infection": "PROBLEM"
   },
   {
-    "3": "PROBLEM"
+    "3": "TREATMENT"
   },
   {
     "Ascites": "PROBLEM"
@@ -462,19 +450,16 @@
     "cholangitis": "PROBLEM"
   },
   {
-    "5": "PROBLEM"
+    "5": "TEST"
   },
   {
     "Alcoholic liver disease": "PROBLEM"
   },
   {
-    "6": "PROBLEM"
+    "6": "TEST"
   },
   {
     "Thrombocytopenia": "PROBLEM"
-  },
-  {
-    "7": "PROBLEM"
   },
   {
     "Hepatitis C": "PROBLEM"
@@ -495,16 +480,25 @@
     "doripenem": "DRUG"
   },
   {
-    "2": "TEST"
+    "2": "TREATMENT"
   },
   {
-    "paracentesis": "TEST"
+    "paracentesis": "TREATMENT"
   },
   {
-    "3": "PROBLEM"
+    "3": "TREATMENT"
   },
   {
     "ascitic fluid": "TEST"
+  },
+  {
+    "cell count": "TEST"
+  },
+  {
+    "differential": "TEST"
+  },
+  {
+    "cultures": "TEST"
   },
   {
     "4": "TEST"
@@ -513,19 +507,28 @@
     "blood cultures": "TEST"
   },
   {
-    "5": "PROBLEM"
+    "5": "TEST"
   },
   {
     "urine culture": "TEST"
   },
   {
-    "6": "PROBLEM"
+    "6": "TEST"
   },
   {
-    "hepatitis A vaccination": "DRUG"
+    "hepatitis A vaccination": "TREATMENT"
   },
   {
-    "ID": "TREATMENT"
+    "followup": "TREATMENT"
+  },
+  {
+    "sbp": "TEST"
+  },
+  {
+    "diabetes": "PROBLEM"
+  },
+  {
+    "morbid obesity": "PROBLEM"
   },
   {
     "hepatitis c": "PROBLEM"
@@ -565,14 +568,5 @@
   },
   {
     "ascites": "PROBLEM"
-  },
-  {
-    "sbp": "TEST"
-  },
-  {
-    "diabetes": "PROBLEM"
-  },
-  {
-    "morbid obesity": "PROBLEM"
   }
 ]

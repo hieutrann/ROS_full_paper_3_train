@@ -36,10 +36,10 @@
     "depression": "PROBLEM"
   },
   {
-    "blood pressure": "TEST"
+    "antihypertensive medications": "DRUG"
   },
   {
-    "antihypertensive medications": "DRUG"
+    "blood pressure": "TEST"
   },
   {
     "weakness": "PROBLEM"
@@ -123,13 +123,10 @@
     "PA and lateral": "TEST"
   },
   {
-    "regular rate and rhythm": "TEST"
-  },
-  {
     "murmur": "PROBLEM"
   },
   {
-    "S3": "TEST"
+    "S3": "PROBLEM"
   },
   {
     "murmur": "PROBLEM"
@@ -138,7 +135,7 @@
     "edema": "PROBLEM"
   },
   {
-    "refractory hypertension": "PROBLEM"
+    "hypertension": "PROBLEM"
   },
   {
     "blood pressure": "TEST"
@@ -148,6 +145,9 @@
   },
   {
     "blood pressure": "PROBLEM"
+  },
+  {
+    "confusion": "PROBLEM"
   },
   {
     "cardiac arrhythmia": "PROBLEM"

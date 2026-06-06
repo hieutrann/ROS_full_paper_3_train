@@ -1,8 +1,5 @@
 [
   {
-    "Disseminated Intravascular Coagulation": "PROBLEM"
-  },
-  {
     "Disseminated intravascular coagulation": "PROBLEM"
   },
   {
@@ -15,7 +12,7 @@
     "pneumonia": "PROBLEM"
   },
   {
-    "sepsis": "PROBLEM"
+    "rapid sepsis": "PROBLEM"
   },
   {
     "respiratory failure": "PROBLEM"
@@ -31,9 +28,6 @@
   },
   {
     "sepsis": "PROBLEM"
-  },
-  {
-    "intubated": "TREATMENT"
   },
   {
     "respiratory failure": "PROBLEM"
@@ -52,9 +46,6 @@
   },
   {
     "mechanical ventilation": "TREATMENT"
-  },
-  {
-    "supportive measures": "TREATMENT"
   },
   {
     "disseminated intravascular coagulation": "PROBLEM"
@@ -87,25 +78,10 @@
     "illicit drugs": "DRUG"
   },
   {
-    "PHYSICAL EXAMINATION": "TEST"
-  },
-  {
     "sedated": "PROBLEM"
   },
   {
-    "acute distress": "PROBLEM"
-  },
-  {
     "intubated": "TREATMENT"
-  },
-  {
-    "VITAL SIGNS": "TEST"
-  },
-  {
-    "blood pressure": "TEST"
-  },
-  {
-    "respiratory rate": "TEST"
   },
   {
     "ventilator": "TREATMENT"
@@ -126,7 +102,13 @@
     "Coarse breath sounds": "PROBLEM"
   },
   {
-    "ABDOMEN": "TEST"
+    "Soft": "PROBLEM"
+  },
+  {
+    "nontender": "PROBLEM"
+  },
+  {
+    "good bowel sounds": "PROBLEM"
   },
   {
     "oozing": "PROBLEM"
@@ -142,12 +124,6 @@
   },
   {
     "edema": "PROBLEM"
-  },
-  {
-    "compromise arterial blood flow": "PROBLEM"
-  },
-  {
-    "LABORATORY STUDIES": "TEST"
   },
   {
     "DIC parameters": "TEST"

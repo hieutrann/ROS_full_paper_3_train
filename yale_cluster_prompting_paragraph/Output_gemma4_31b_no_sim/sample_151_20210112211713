@@ -45,7 +45,7 @@
     "Morbid obesity": "PROBLEM"
   },
   {
-    "bmi": "TEST"
+    "bmi of 39.4": "TEST"
   },
   {
     "Laparoscopic cholecystectomy": "TREATMENT"
@@ -60,7 +60,7 @@
     "stone extraction": "TREATMENT"
   },
   {
-    "bilirubin": "TEST"
+    "elevated bilirubin": "TEST"
   },
   {
     "common bile duct stone": "PROBLEM"
@@ -69,7 +69,7 @@
     "abdominal pain": "PROBLEM"
   },
   {
-    "bilirubin": "TEST"
+    "elevated bilirubin": "TEST"
   },
   {
     "gallstones": "PROBLEM"
@@ -114,7 +114,7 @@
     "common bile duct exploration": "TREATMENT"
   },
   {
-    "stone": "PROBLEM"
+    "stone was extracted": "TREATMENT"
   },
   {
     "open operation": "TREATMENT"
@@ -127,6 +127,9 @@
   },
   {
     "Jackson-Pratt drain": "TREATMENT"
+  },
+  {
+    "serosanguineous fluid": "PROBLEM"
   },
   {
     "White blood cell count": "TEST"
@@ -174,33 +177,12 @@
     "staple removal": "TREATMENT"
   },
   {
-    "iron": "DRUG"
+    "iron 325 mg": "DRUG"
   },
   {
     "Lortab elixir": "DRUG"
   },
   {
     "pain": "PROBLEM"
-  },
-  {
-    "laparoscopy": "TREATMENT"
-  },
-  {
-    "common bile duct exploration": "TREATMENT"
-  },
-  {
-    "laparoscopic cholecystectomy": "TREATMENT"
-  },
-  {
-    "choledocholithiasis": "PROBLEM"
-  },
-  {
-    "cholecystectomy": "TREATMENT"
-  },
-  {
-    "cholecystitis": "PROBLEM"
-  },
-  {
-    "hernia": "PROBLEM"
   }
 ]

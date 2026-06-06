@@ -36,13 +36,10 @@
     "swelling": "PROBLEM"
   },
   {
-    "throat": "PROBLEM"
-  },
-  {
     "sore throat": "PROBLEM"
   },
   {
-    "difficulty swallowing liquids or solids": "PROBLEM"
+    "difficulty swallowing": "PROBLEM"
   },
   {
     "neck pain": "PROBLEM"
@@ -117,9 +114,6 @@
     "chest pain": "PROBLEM"
   },
   {
-    "RESPIRATIONS": "TEST"
-  },
-  {
     "shortness of breath": "PROBLEM"
   },
   {
@@ -147,13 +141,13 @@
     "hearing change": "PROBLEM"
   },
   {
+    "speech change": "PROBLEM"
+  },
+  {
     "lymph node swelling": "PROBLEM"
   },
   {
     "marijuana": "DRUG"
-  },
-  {
-    "VITAL SIGNS": "TEST"
   },
   {
     "Temperature": "TEST"
@@ -169,6 +163,9 @@
   },
   {
     "oxygen saturation": "TEST"
+  },
+  {
+    "acute distress": "PROBLEM"
   },
   {
     "rhinorrhea": "PROBLEM"
@@ -192,6 +189,18 @@
     "swelling": "PROBLEM"
   },
   {
+    "erythema": "PROBLEM"
+  },
+  {
+    "bulging": "PROBLEM"
+  },
+  {
+    "air fluid levels": "PROBLEM"
+  },
+  {
+    "bubbles": "PROBLEM"
+  },
+  {
     "dental fracture": "PROBLEM"
   },
   {
@@ -208,6 +217,9 @@
   },
   {
     "infection": "PROBLEM"
+  },
+  {
+    "fluctuance": "PROBLEM"
   },
   {
     "abscess": "PROBLEM"
@@ -240,7 +252,7 @@
     "abscess": "PROBLEM"
   },
   {
-    "pre or post auricular lymphadenopathy": "PROBLEM"
+    "lymphadenopathy": "PROBLEM"
   },
   {
     "meningismus": "PROBLEM"
@@ -252,7 +264,7 @@
     "JVD": "PROBLEM"
   },
   {
-    "carotid artery or vertebral artery bruits": "PROBLEM"
+    "bruits": "PROBLEM"
   },
   {
     "murmur": "PROBLEM"
@@ -262,9 +274,6 @@
   },
   {
     "gallop": "PROBLEM"
-  },
-  {
-    "RESPIRATIONS": "TEST"
   },
   {
     "shortness of breath": "PROBLEM"
@@ -279,10 +288,7 @@
     "Cranial nerves II through XII": "TEST"
   },
   {
-    "speech": "PROBLEM"
-  },
-  {
-    "ambulation": "PROBLEM"
+    "clinical intoxification": "PROBLEM"
   },
   {
     "lymphadenitis": "PROBLEM"
@@ -309,7 +315,7 @@
     "Vicodin": "DRUG"
   },
   {
-    "pain": "PROBLEM"
+    "breakthrough or uncontrolled pain": "PROBLEM"
   },
   {
     "drowsiness": "PROBLEM"
@@ -337,6 +343,9 @@
   },
   {
     "tenderness": "PROBLEM"
+  },
+  {
+    "pressure": "PROBLEM"
   },
   {
     "erythema": "PROBLEM"

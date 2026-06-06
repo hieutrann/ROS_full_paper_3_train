@@ -12,6 +12,9 @@
     "MiraLax": "DRUG"
   },
   {
+    "constipation": "PROBLEM"
+  },
+  {
     "Adderall": "DRUG"
   },
   {
@@ -21,13 +24,37 @@
     "attention deficit hyperactivity disorder": "PROBLEM"
   },
   {
+    "autism": "PROBLEM"
+  },
+  {
+    "Adderall": "DRUG"
+  },
+  {
+    "clonidine": "DRUG"
+  },
+  {
     "hyperactivity": "PROBLEM"
+  },
+  {
+    "constipation": "PROBLEM"
+  },
+  {
+    "MiraLax": "DRUG"
+  },
+  {
+    "constipation": "PROBLEM"
   },
   {
     "vomiting": "PROBLEM"
   },
   {
     "diarrhea": "PROBLEM"
+  },
+  {
+    "weight loss": "PROBLEM"
+  },
+  {
+    "persistent vomiting": "PROBLEM"
   },
   {
     "weight loss": "PROBLEM"
@@ -129,10 +156,19 @@
     "IV fluids": "TREATMENT"
   },
   {
-    "blood pressure": "TEST"
+    "hypertension": "PROBLEM"
   },
   {
-    "hypertension": "PROBLEM"
+    "weight loss": "PROBLEM"
+  },
+  {
+    "Adderall": "DRUG"
+  },
+  {
+    "weight loss": "PROBLEM"
+  },
+  {
+    "free T4": "TEST"
   },
   {
     "Graves disease": "PROBLEM"

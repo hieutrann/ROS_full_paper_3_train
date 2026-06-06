@@ -1,6 +1,6 @@
 [
   {
-    "Leiomyosarcoma": "PROBLEM"
+    "leiomyosarcoma": "PROBLEM"
   },
   {
     "pulmonary embolism": "PROBLEM"
@@ -13,6 +13,9 @@
   },
   {
     "pneumonia": "PROBLEM"
+  },
+  {
+    "ADMITTING DIAGNOSES": "TEST"
   },
   {
     "Leiomyosarcoma": "PROBLEM"
@@ -30,7 +33,7 @@
     "pneumonia": "PROBLEM"
   },
   {
-    "CIVI-CAD": "TREATMENT"
+    "CIVI-CAD": "DRUG"
   },
   {
     "Cytoxan": "DRUG"
@@ -60,6 +63,9 @@
     "mini-CT": "TEST"
   },
   {
+    "Ms.": "PROBLEM"
+  },
+  {
     "mass": "PROBLEM"
   },
   {
@@ -78,10 +84,7 @@
     "mass": "PROBLEM"
   },
   {
-    "partial resection": "TREATMENT"
-  },
-  {
-    "pathologic grade 2 leiomyosarcoma": "PROBLEM"
+    "leiomyosarcoma": "PROBLEM"
   },
   {
     "chemotherapy": "TREATMENT"
@@ -109,6 +112,9 @@
   },
   {
     "Leiomyosarcoma": "PROBLEM"
+  },
+  {
+    "Hem/Onco": "TREATMENT"
   },
   {
     "Cytoxan": "DRUG"
@@ -180,10 +186,22 @@
     "ANC": "TEST"
   },
   {
-    "ANC": "TEST"
+    "red blood cells": "TREATMENT"
+  },
+  {
+    "platelets": "TREATMENT"
   },
   {
     "ANC": "TEST"
+  },
+  {
+    "neutropenic diet": "TREATMENT"
+  },
+  {
+    "ANC": "TEST"
+  },
+  {
+    "neutropenic diet": "TREATMENT"
   },
   {
     "white blood cell count": "TEST"
@@ -204,7 +222,16 @@
     "neutropenic": "PROBLEM"
   },
   {
+    "activity": "TREATMENT"
+  },
+  {
+    "lab work": "TEST"
+  },
+  {
     "fevers": "PROBLEM"
+  },
+  {
+    "100.5": "TEST"
   },
   {
     "leiomyosarcoma": "PROBLEM"

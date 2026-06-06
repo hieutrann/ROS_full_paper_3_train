@@ -6,6 +6,9 @@
     "CT scan": "TEST"
   },
   {
+    "oral antibiotics": "TREATMENT"
+  },
+  {
     "Cipro": "DRUG"
   },
   {
@@ -66,7 +69,7 @@
     "hysterectomy": "TREATMENT"
   },
   {
-    "grade 4 bladder prolapse": "PROBLEM"
+    "bladder prolapse": "PROBLEM"
   },
   {
     "MACRODANTIN": "DRUG"
@@ -78,10 +81,22 @@
     "shortness of breath": "PROBLEM"
   },
   {
-    "temperature": "TEST"
+    "tender in the left lower quadrant": "PROBLEM"
+  },
+  {
+    "palpable fullness or mass": "PROBLEM"
+  },
+  {
+    "rebound tenderness": "PROBLEM"
+  },
+  {
+    "CVA tenderness": "PROBLEM"
   },
   {
     "flank tenderness": "PROBLEM"
+  },
+  {
+    "urinary bladder prolapse": "PROBLEM"
   },
   {
     "White blood cell count": "TEST"

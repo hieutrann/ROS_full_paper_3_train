@@ -3,13 +3,22 @@
     "morbid obesity": "PROBLEM"
   },
   {
+    "Morbid obesity": "PROBLEM"
+  },
+  {
+    "BMI": "TEST"
+  },
+  {
+    "Morbid obesity": "PROBLEM"
+  },
+  {
     "BMI": "TEST"
   },
   {
     "Laparoscopic gastric bypass": "TREATMENT"
   },
   {
-    "Surgery": "TREATMENT"
+    "gastric bypass": "TREATMENT"
   },
   {
     "clear liquid diet": "TREATMENT"
@@ -39,7 +48,7 @@
     "foul smelling drainage": "PROBLEM"
   },
   {
-    "intractable nausea": "PROBLEM"
+    "nausea": "PROBLEM"
   },
   {
     "vomiting": "PROBLEM"

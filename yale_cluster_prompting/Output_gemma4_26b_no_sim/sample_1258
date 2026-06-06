@@ -9,10 +9,7 @@
     "Motor vehicle accident": "PROBLEM"
   },
   {
-    "motor vehicle collision": "PROBLEM"
-  },
-  {
-    "mild pain": "PROBLEM"
+    "pain": "PROBLEM"
   },
   {
     "passed out": "PROBLEM"
@@ -37,6 +34,15 @@
   },
   {
     "pain": "PROBLEM"
+  },
+  {
+    "shoulders": "PROBLEM"
+  },
+  {
+    "elbows": "PROBLEM"
+  },
+  {
+    "wrists": "PROBLEM"
   },
   {
     "painful throughout the bones of her pelvis": "PROBLEM"
@@ -81,10 +87,7 @@
     "abdomen": "PROBLEM"
   },
   {
-    "pregnant": "PROBLEM"
-  },
-  {
-    "birth control medications": "DRUG"
+    "oral birth control medications": "DRUG"
   },
   {
     "intrauterine device": "TREATMENT"
@@ -102,7 +105,7 @@
     "backboard": "TREATMENT"
   },
   {
-    "cervical spine is immobilized": "TREATMENT"
+    "cervical spine": "PROBLEM"
   },
   {
     "collar": "TREATMENT"
@@ -138,9 +141,6 @@
     "lacerations": "PROBLEM"
   },
   {
-    "scalp": "PROBLEM"
-  },
-  {
     "Fundoscopic exam": "TEST"
   },
   {
@@ -153,9 +153,6 @@
     "entrapment": "PROBLEM"
   },
   {
-    "mucoid discharge": "PROBLEM"
-  },
-  {
     "thyromegaly": "PROBLEM"
   },
   {
@@ -163,12 +160,6 @@
   },
   {
     "stridor": "PROBLEM"
-  },
-  {
-    "HEART": "TEST"
-  },
-  {
-    "S1 and S2": "TEST"
   },
   {
     "wheezes": "PROBLEM"
@@ -180,13 +171,13 @@
     "rhonchi": "PROBLEM"
   },
   {
-    "mild-to-moderate tenderness in the bilateral lower pelvic quadrants": "PROBLEM"
+    "tenderness in the bilateral lower pelvic quadrants": "PROBLEM"
   },
   {
     "organomegaly": "PROBLEM"
   },
   {
-    "bowel sounds": "TEST"
+    "bowel sounds": "PROBLEM"
   },
   {
     "rigidity": "PROBLEM"
@@ -201,10 +192,10 @@
     "edema": "PROBLEM"
   },
   {
-    "Capillary refill": "TEST"
+    "dorsalis pedis": "PROBLEM"
   },
   {
-    "dorsalis pedis and radial pulses": "TEST"
+    "radial pulses": "PROBLEM"
   },
   {
     "Romberg": "TEST"
@@ -213,19 +204,25 @@
     "pronator drift": "TEST"
   },
   {
-    "adenopathy": "PROBLEM"
+    "No appreciable adenopathy": "PROBLEM"
   },
   {
-    "pain free range of motion": "PROBLEM"
-  },
-  {
-    "mild tenderness": "PROBLEM"
+    "tenderness": "PROBLEM"
   },
   {
     "abrasions": "PROBLEM"
   },
   {
     "small abrasion": "PROBLEM"
+  },
+  {
+    "lacerations": "PROBLEM"
+  },
+  {
+    "trauma": "PROBLEM"
+  },
+  {
+    "bleeding": "PROBLEM"
   },
   {
     "x-rays": "TEST"
@@ -241,6 +238,9 @@
   },
   {
     "acute traumatic bony injury": "PROBLEM"
+  },
+  {
+    "cervical spine": "PROBLEM"
   },
   {
     "prevertibral soft tissue swelling": "PROBLEM"
@@ -273,7 +273,7 @@
     "CT scan with contrast": "TEST"
   },
   {
-    "CT scan with contrast": "TEST"
+    "A CT scan with contrast": "TEST"
   },
   {
     "bleeding": "PROBLEM"
@@ -378,12 +378,12 @@
     "contusions": "PROBLEM"
   },
   {
-    "ct scan": "TEST"
-  },
-  {
     "motor vehicle accident": "PROBLEM"
   },
   {
     "motor vehicle collision": "PROBLEM"
+  },
+  {
+    "ct scan": "TEST"
   }
 ]

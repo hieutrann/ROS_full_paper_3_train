@@ -1,0 +1,218 @@
+[
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "30-pound weight loss": "PROBLEM"
+  },
+  {
+    "jaundice": "PROBLEM"
+  },
+  {
+    "epigastric pain": "PROBLEM"
+  },
+  {
+    "CT scan": "TEST"
+  },
+  {
+    "pancreatic mass": "PROBLEM"
+  },
+  {
+    "lymph nodes": "PROBLEM"
+  },
+  {
+    "liver metastases": "PROBLEM"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "30 - pound weight loss": "PROBLEM"
+  },
+  {
+    "jaundice": "PROBLEM"
+  },
+  {
+    "epigastric pain": "PROBLEM"
+  },
+  {
+    "4x3x2 cm pancreatic mass": "PROBLEM"
+  },
+  {
+    "involved lymph nodes": "PROBLEM"
+  },
+  {
+    "ring enhancing lesions": "PROBLEM"
+  },
+  {
+    "liver metastases": "PROBLEM"
+  },
+  {
+    "questionable pseudocyst": "PROBLEM"
+  },
+  {
+    "ERCP": "TEST"
+  },
+  {
+    "stent": "TREATMENT"
+  },
+  {
+    "strictured pancreatic duct": "PROBLEM"
+  },
+  {
+    "strictured bile duct": "PROBLEM"
+  },
+  {
+    "10-frenchx9 cm stent": "TREATMENT"
+  },
+  {
+    "bilirubin": "PROBLEM"
+  },
+  {
+    "liver tests": "TEST"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "Zofran": "DRUG"
+  },
+  {
+    "Phenergan": "DRUG"
+  },
+  {
+    "stent placement": "TREATMENT"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "white count": "TEST"
+  },
+  {
+    "hemoglobin": "TEST"
+  },
+  {
+    "hematocrit": "TEST"
+  },
+  {
+    "MCV": "TEST"
+  },
+  {
+    "platelet count": "TEST"
+  },
+  {
+    "His sodium was 132, potassium 4.1, chloride 95, CO2 27, BUN of 8 with a creatinine of 0.3.": "TEST"
+  },
+  {
+    "bilirubin": "TEST"
+  },
+  {
+    "alk phos": "TEST"
+  },
+  {
+    "AST": "TEST"
+  },
+  {
+    "ALT": "TEST"
+  },
+  {
+    "total protein": "TEST"
+  },
+  {
+    "albumin": "TEST"
+  },
+  {
+    "regular diet": "TREATMENT"
+  },
+  {
+    "oral hypoglycemics": "DRUG"
+  },
+  {
+    "insulin sliding scale": "TREATMENT"
+  },
+  {
+    "X at the infirmary.": "TEST"
+  },
+  {
+    "diabetes": "PROBLEM"
+  },
+  {
+    "end of life meetings": "PROBLEM"
+  },
+  {
+    "chemotherapy": "TREATMENT"
+  },
+  {
+    "chemotherapy": "TREATMENT"
+  },
+  {
+    "morbidity": "PROBLEM"
+  },
+  {
+    "DISCHARGE MEDICATIONS": "TREATMENT"
+  },
+  {
+    "Phenergan 25 mg q.6.": "DRUG"
+  },
+  {
+    "p.r.n.": "DRUG"
+  },
+  {
+    "Duragesic patch 100 mcg q.3.d.": "DRUG"
+  },
+  {
+    "Benadryl 25-50 mg p.o.": "DRUG"
+  },
+  {
+    "q.i.d.": "DRUG"
+  },
+  {
+    "pruritus": "PROBLEM"
+  },
+  {
+    "Sliding scale will be discontinued at the time of discharge and will be reinstituted on arrival at Pelican Bay Infirmary": "TREATMENT"
+  },
+  {
+    "enalapril": "DRUG"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "ERCP": "TREATMENT"
+  },
+  {
+    "regular diet": "TREATMENT"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "lymph nodes": "PROBLEM"
+  },
+  {
+    "weight loss": "PROBLEM"
+  },
+  {
+    "pancreatic mass": "PROBLEM"
+  },
+  {
+    "chemotherapy": "TREATMENT"
+  },
+  {
+    "abdominal": "PROBLEM"
+  },
+  {
+    "bilirubin": "PROBLEM"
+  },
+  {
+    "phenergan": "DRUG"
+  },
+  {
+    "stent": "TREATMENT"
+  },
+  {
+    "drainage": "TREATMENT"
+  }
+]

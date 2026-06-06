@@ -1,6 +1,6 @@
 [
   {
-    "left otalgia": "PROBLEM"
+    "otalgia": "PROBLEM"
   },
   {
     "serous otitis": "PROBLEM"
@@ -9,7 +9,7 @@
     "atopic dermatitis": "PROBLEM"
   },
   {
-    "Cutivate cream": "DRUG"
+    "Ibuprofen": "DRUG"
   },
   {
     "Nasacort AQ": "DRUG"
@@ -18,31 +18,19 @@
     "Duraphen II": "DRUG"
   },
   {
-    "Ibuprofen": "DRUG"
+    "Cutivate cream": "DRUG"
   },
   {
-    "cephalexin": "DRUG"
+    "Temperature": "TEST"
+  },
+  {
+    "Weight": "TEST"
   },
   {
     "PERRLA": "TEST"
   },
   {
     "TM": "TEST"
-  },
-  {
-    "nasal mucosa": "TEST"
-  },
-  {
-    "throat": "TEST"
-  },
-  {
-    "neck": "TEST"
-  },
-  {
-    "lungs": "TEST"
-  },
-  {
-    "heart": "TEST"
   },
   {
     "Nasacort AQ": "TREATMENT"
@@ -52,8 +40,5 @@
   },
   {
     "Cutivate cream": "TREATMENT"
-  },
-  {
-    "incision": "TREATMENT"
   }
 ]

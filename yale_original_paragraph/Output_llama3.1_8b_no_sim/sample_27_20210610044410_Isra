@@ -18,13 +18,10 @@
     "cystoscopy": "TEST"
   },
   {
-    "Robotic-Assisted laparoscopic left renal cyst decortication": "TREATMENT"
+    "laparoscopic left renal cyst decortication": "TREATMENT"
   },
   {
     "cystoscopy": "TREATMENT"
-  },
-  {
-    "incision and drainage": "TREATMENT"
   },
   {
     "pain medications": "DRUG"

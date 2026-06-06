@@ -1,12 +1,12 @@
 [
   {
-    "Transforaminal Epidural Steroid Injection": "TREATMENT"
+    "Transforaminal Epidural": "TREATMENT"
   },
   {
     "Transforaminal Epidural": "TREATMENT"
   },
   {
-    "lumbar": "PROBLEM"
+    "Steroid": "DRUG"
   },
   {
     "Fluoroscopy": "TEST"
@@ -16,6 +16,12 @@
   },
   {
     "Transforaminal Epidural": "TREATMENT"
+  },
+  {
+    "lumbar": "PROBLEM"
+  },
+  {
+    "procedure": "TREATMENT"
   },
   {
     "infection": "PROBLEM"
@@ -39,16 +45,10 @@
     "spinal cord injury": "PROBLEM"
   },
   {
-    "cardiovascular": "PROBLEM"
+    "cardiovascular and CNS side effects": "PROBLEM"
   },
   {
-    "CNS": "PROBLEM"
-  },
-  {
-    "side effects": "PROBLEM"
-  },
-  {
-    "vascular entry": "PROBLEM"
+    "vascular entry of medications": "PROBLEM"
   },
   {
     "medications": "DRUG"
@@ -75,16 +75,22 @@
     "vital signs": "TEST"
   },
   {
-    "procedure": "TREATMENT"
+    "fluoroscopy": "TEST"
   },
   {
-    "prone position": "TREATMENT"
+    "treatment table": "TREATMENT"
+  },
+  {
+    "pillow": "TREATMENT"
+  },
+  {
+    "lumbar lordosis": "PROBLEM"
   },
   {
     "betadine": "DRUG"
   },
   {
-    "needle placement": "TREATMENT"
+    "sterile drapes": "TREATMENT"
   },
   {
     "Fluoroscopy": "TEST"
@@ -93,13 +99,16 @@
     "lidocaine": "DRUG"
   },
   {
+    "spinal needle": "TREATMENT"
+  },
+  {
     "fluoroscopy": "TEST"
   },
   {
     "fluoroscopic views": "TEST"
   },
   {
-    "non-ionic contrast agent": "DRUG"
+    "contrast agent": "DRUG"
   },
   {
     "fluoroscopic observation": "TEST"
@@ -111,6 +120,15 @@
     "radiculogram": "TEST"
   },
   {
+    "treatment solution": "TREATMENT"
+  },
+  {
+    "medications": "DRUG"
+  },
+  {
+    "Sterile techniques": "TREATMENT"
+  },
+  {
     "vital signs": "TEST"
   },
   {
@@ -118,6 +136,12 @@
   },
   {
     "injection site": "PROBLEM"
+  },
+  {
+    "ice": "TREATMENT"
+  },
+  {
+    "medications": "DRUG"
   },
   {
     "shortness of breath": "PROBLEM"
@@ -132,7 +156,7 @@
     "chills": "PROBLEM"
   },
   {
-    "increased pain": "PROBLEM"
+    "pain": "PROBLEM"
   },
   {
     "weakness": "PROBLEM"
@@ -141,7 +165,7 @@
     "sensory or motor changes": "PROBLEM"
   },
   {
-    "bowel or bladder function": "PROBLEM"
+    "changes in bowel or bladder function": "PROBLEM"
   },
   {
     "pain management": "TREATMENT"
@@ -165,12 +189,12 @@
     "epidural": "TREATMENT"
   },
   {
-    "lumbar": "PROBLEM"
+    "lumbar": "TREATMENT"
   },
   {
     "fluoroscopy": "TEST"
   },
   {
-    "needle": "TEST"
+    "needle": "TREATMENT"
   }
 ]

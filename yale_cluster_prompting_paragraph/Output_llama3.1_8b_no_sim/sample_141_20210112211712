@@ -1,0 +1,221 @@
+[
+  {
+    "apparent distress": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "papilledema": "PROBLEM"
+  },
+  {
+    "glaucoma": "PROBLEM"
+  },
+  {
+    "cataracts": "PROBLEM"
+  },
+  {
+    "carotid bruit": "PROBLEM"
+  },
+  {
+    "JVD": "PROBLEM"
+  },
+  {
+    "cervical adenopathy": "PROBLEM"
+  },
+  {
+    "stridor": "PROBLEM"
+  },
+  {
+    "subcutaneous emphysema": "PROBLEM"
+  },
+  {
+    "nodularity": "PROBLEM"
+  },
+  {
+    "hepatosplenomegaly": "PROBLEM"
+  },
+  {
+    "mass": "PROBLEM"
+  },
+  {
+    "tenderness": "PROBLEM"
+  },
+  {
+    "rebound": "PROBLEM"
+  },
+  {
+    "rigidity": "PROBLEM"
+  },
+  {
+    "guarding": "PROBLEM"
+  },
+  {
+    "aortic impulse": "PROBLEM"
+  },
+  {
+    "intraabdominal bruit": "PROBLEM"
+  },
+  {
+    "hernia": "PROBLEM"
+  },
+  {
+    "hydrocele": "PROBLEM"
+  },
+  {
+    "rectal masses": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "cyanosis": "PROBLEM"
+  },
+  {
+    "clubbing": "PROBLEM"
+  },
+  {
+    "deep venous thrombosis": "PROBLEM"
+  },
+  {
+    "spinous process tenderness": "PROBLEM"
+  },
+  {
+    "CVA tenderness": "PROBLEM"
+  },
+  {
+    "straight-leg raising": "PROBLEM"
+  },
+  {
+    "Kernig": "PROBLEM"
+  },
+  {
+    "Brudzinski": "PROBLEM"
+  },
+  {
+    "cranial and peripheral nervous systems": "TEST"
+  },
+  {
+    "strength": "TEST"
+  },
+  {
+    "sensation": "TEST"
+  },
+  {
+    "cerebellar function": "TEST"
+  },
+  {
+    "speech": "TEST"
+  },
+  {
+    "thought process": "TEST"
+  },
+  {
+    "gait and station": "TEST"
+  },
+  {
+    "auscultation": "TEST"
+  },
+  {
+    "percussion": "TEST"
+  },
+  {
+    "digital palpation": "TEST"
+  },
+  {
+    "Hemoccult-negative": "TEST"
+  },
+  {
+    "prostate": "TEST"
+  },
+  {
+    "normal-sized": "TEST"
+  },
+  {
+    "palpation": "TEST"
+  },
+  {
+    "inspection": "TEST"
+  },
+  {
+    "creases of the palms and soles": "TEST"
+  },
+  {
+    "range of motion": "TEST"
+  },
+  {
+    "inspection": "TEST"
+  },
+  {
+    "percussion": "TEST"
+  },
+  {
+    "straight-leg raising": "TEST"
+  },
+  {
+    "Kernig": "TEST"
+  },
+  {
+    "Brudzinski": "TEST"
+  },
+  {
+    "cranial and peripheral nervous systems": "TEST"
+  },
+  {
+    "strength": "TEST"
+  },
+  {
+    "sensation": "TEST"
+  },
+  {
+    "cerebellar function": "TEST"
+  },
+  {
+    "speech": "TEST"
+  },
+  {
+    "thought process": "TEST"
+  },
+  {
+    "gait and station": "TEST"
+  },
+  {
+    "digital palpation": "DRUG"
+  },
+  {
+    "Hemoccult-negative": "DRUG"
+  },
+  {
+    "tongue": "TREATMENT"
+  },
+  {
+    "tenderness": "TREATMENT"
+  },
+  {
+    "rebound": "TREATMENT"
+  },
+  {
+    "rigidity": "TREATMENT"
+  },
+  {
+    "guarding": "TREATMENT"
+  },
+  {
+    "auscultation": "TREATMENT"
+  },
+  {
+    "percussion": "TREATMENT"
+  },
+  {
+    "palpation": "TREATMENT"
+  },
+  {
+    "inspection": "TREATMENT"
+  },
+  {
+    "creases of the palms and soles": "TREATMENT"
+  },
+  {
+    "range of motion": "TREATMENT"
+  }
+]

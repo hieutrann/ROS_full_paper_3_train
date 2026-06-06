@@ -33,6 +33,9 @@
     "Laparoscopic cholecystectomy": "TREATMENT"
   },
   {
+    "DISCHARGE DIAGNOSES": "TEST"
+  },
+  {
     "Acute cholecystitis": "PROBLEM"
   },
   {
@@ -90,13 +93,7 @@
     "nauseated feeling": "PROBLEM"
   },
   {
-    "pain": "PROBLEM"
-  },
-  {
     "temperature": "TEST"
-  },
-  {
-    "pulse": "TEST"
   },
   {
     "blood pressure": "TEST"
@@ -111,7 +108,7 @@
     "renal cyst": "PROBLEM"
   },
   {
-    "gallbladder wall": "PROBLEM"
+    "sludge": "PROBLEM"
   },
   {
     "stone": "PROBLEM"
@@ -133,6 +130,12 @@
   },
   {
     "creatinine": "TEST"
+  },
+  {
+    "sodium": "TEST"
+  },
+  {
+    "potassium": "TEST"
   },
   {
     "lipase": "TEST"
@@ -159,6 +162,9 @@
     "workup": "TEST"
   },
   {
+    "Surgical consult": "TREATMENT"
+  },
+  {
     "blood culture": "TEST"
   },
   {
@@ -168,10 +174,16 @@
     "cholecystectomy": "TREATMENT"
   },
   {
+    "dialysis": "TREATMENT"
+  },
+  {
+    "surgery": "TREATMENT"
+  },
+  {
     "laparoscopic cholecystectomy": "TREATMENT"
   },
   {
-    "nephrologist": "PROBLEM"
+    "nephrologist": "TREATMENT"
   },
   {
     "dialysis": "TREATMENT"
@@ -183,10 +195,16 @@
     "eating": "PROBLEM"
   },
   {
-    "walking": "PROBLEM"
+    "walking": "TREATMENT"
   },
   {
     "chronic bronchitis": "PROBLEM"
+  },
+  {
+    "surgery": "TREATMENT"
+  },
+  {
+    "surgeon": "TREATMENT"
   },
   {
     "Synthroid": "DRUG"
@@ -216,7 +234,7 @@
     "nebulizer therapy": "TREATMENT"
   },
   {
-    "Phenergan": "DRUG"
+    "Phenergan 25 mg": "DRUG"
   },
   {
     "nausea": "PROBLEM"
@@ -225,10 +243,13 @@
     "vomiting": "PROBLEM"
   },
   {
-    "Pepcid": "DRUG"
+    "Pepcid 20 mg": "DRUG"
   },
   {
     "Vicodin": "DRUG"
+  },
+  {
+    "q.6 hours p.r.n.": "DRUG"
   },
   {
     "Levaquin": "DRUG"

@@ -3,7 +3,7 @@
     "non-small cell lung carcinoma": "PROBLEM"
   },
   {
-    "pleural effusion": "PROBLEM"
+    "left malignant pleural effusion": "PROBLEM"
   },
   {
     "chest tube insertion": "TREATMENT"
@@ -12,7 +12,10 @@
     "chemical pleurodesis": "TREATMENT"
   },
   {
-    "Advanced non-small cell lung carcinoma": "PROBLEM"
+    "DISCHARGE DIAGNOSES": "TEST"
+  },
+  {
+    "non-small cell lung carcinoma": "PROBLEM"
   },
   {
     "left malignant pleural effusion": "PROBLEM"
@@ -84,15 +87,6 @@
     "obstruction": "PROBLEM"
   },
   {
-    "lower lobe": "PROBLEM"
-  },
-  {
-    "lingula": "PROBLEM"
-  },
-  {
-    "pulmonary vein": "PROBLEM"
-  },
-  {
     "nodules": "PROBLEM"
   },
   {
@@ -114,7 +108,7 @@
     "chest pain": "PROBLEM"
   },
   {
-    "chest tube": "TEST"
+    "chest tube": "TREATMENT"
   },
   {
     "pleural effusion": "PROBLEM"
@@ -154,6 +148,9 @@
   },
   {
     "DNR": "TREATMENT"
+  },
+  {
+    "expired": "PROBLEM"
   },
   {
     "discharge summary": "TEST"

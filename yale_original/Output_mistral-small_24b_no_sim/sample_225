@@ -1,9 +1,9 @@
 [
   {
-    "left eye": "PROBLEM"
+    "foreign body": "PROBLEM"
   },
   {
-    "left eye": "PROBLEM"
+    "foreign body": "PROBLEM"
   },
   {
     "foreign body sensation": "PROBLEM"
@@ -51,10 +51,13 @@
     "immunologic": "PROBLEM"
   },
   {
-    "wrist": "PROBLEM"
+    "Dislocated wrist": "PROBLEM"
   },
   {
-    "smokes": "PROBLEM"
+    "cigarettes": "DRUG"
+  },
+  {
+    "drinker": "PROBLEM"
   },
   {
     "Cancer": "PROBLEM"
@@ -84,10 +87,16 @@
     "Anterior chambers": "TEST"
   },
   {
+    "Lens": "TEST"
+  },
+  {
     "Conjunctiva": "PROBLEM"
   },
   {
     "foreign body": "PROBLEM"
+  },
+  {
+    "slit lamp": "TEST"
   },
   {
     "Foreign body": "PROBLEM"
@@ -97,6 +106,9 @@
   },
   {
     "pressure patch": "TREATMENT"
+  },
+  {
+    "general medicine": "TEST"
   },
   {
     "foreign body": "PROBLEM"
@@ -123,6 +135,9 @@
     "lacrimal apparatus": "TEST"
   },
   {
+    "metallic": "PROBLEM"
+  },
+  {
     "pain": "PROBLEM"
   },
   {
@@ -135,7 +150,19 @@
     "slit lamp examination": "TEST"
   },
   {
+    "smokes": "PROBLEM"
+  },
+  {
+    "social drinker": "PROBLEM"
+  },
+  {
     "visual acuity": "TEST"
+  },
+  {
+    "initial clinic visit": "TEST"
+  },
+  {
+    "worker": "PROBLEM"
   },
   {
     "foreign body": "PROBLEM"

@@ -9,37 +9,25 @@
     "tooth pain": "PROBLEM"
   },
   {
-    "dental disease": "PROBLEM"
-  },
-  {
-    "CHIEF COMPLAINT": "TEST"
-  },
-  {
     "extensive dental disease": "PROBLEM"
   },
   {
     "teeth": "PROBLEM"
   },
   {
-    "dental disease": "PROBLEM"
+    "tooth pain": "PROBLEM"
   },
   {
-    "tooth pain": "PROBLEM"
+    "toothache": "PROBLEM"
   },
   {
     "dentist": "PROBLEM"
   },
   {
-    "appointments": "PROBLEM"
-  },
-  {
     "problems": "PROBLEM"
   },
   {
-    "recent illness": "PROBLEM"
-  },
-  {
-    "injuries": "PROBLEM"
+    "illness": "PROBLEM"
   },
   {
     "OxyContin": "DRUG"
@@ -72,12 +60,6 @@
     "toothache pain": "PROBLEM"
   },
   {
-    "headache": "PROBLEM"
-  },
-  {
-    "neck pain": "PROBLEM"
-  },
-  {
     "throat swelling": "PROBLEM"
   },
   {
@@ -96,10 +78,10 @@
     "sinus congestion": "PROBLEM"
   },
   {
-    "pressure": "PROBLEM"
+    "sinus pressure": "PROBLEM"
   },
   {
-    "pain": "PROBLEM"
+    "sinus pain": "PROBLEM"
   },
   {
     "ear pain": "PROBLEM"
@@ -150,10 +132,10 @@
     "lesions": "PROBLEM"
   },
   {
-    "vision change": "PROBLEM"
+    "vision": "PROBLEM"
   },
   {
-    "hearing change": "PROBLEM"
+    "hearing": "PROBLEM"
   },
   {
     "focal weakness": "PROBLEM"
@@ -168,7 +150,7 @@
     "lymph node swelling": "PROBLEM"
   },
   {
-    "knee pain": "PROBLEM"
+    "Chronic knee pain": "PROBLEM"
   },
   {
     "OxyContin": "DRUG"
@@ -186,40 +168,19 @@
     "smoker": "PROBLEM"
   },
   {
-    "VITAL SIGNS": "TEST"
-  },
-  {
-    "Temperature 97.9 oral": "TEST"
+    "Temperature": "TEST"
   },
   {
     "blood pressure": "TEST"
   },
   {
-    "146/83": "TEST"
-  },
-  {
     "pulse": "TEST"
-  },
-  {
-    "74": "TEST"
   },
   {
     "respirations": "TEST"
   },
   {
-    "16": "TEST"
-  },
-  {
     "oxygen saturation": "TEST"
-  },
-  {
-    "98%": "TEST"
-  },
-  {
-    "room air": "TEST"
-  },
-  {
-    "normal": "TEST"
   },
   {
     "well nourished": "PROBLEM"
@@ -234,22 +195,13 @@
     "acute distress": "PROBLEM"
   },
   {
-    "Eyes": "TEST"
+    "conjunctiva": "PROBLEM"
   },
   {
-    "conjunctiva": "TEST"
-  },
-  {
-    "cornea": "TEST"
+    "cornea": "PROBLEM"
   },
   {
     "icterus": "PROBLEM"
-  },
-  {
-    "injection": "PROBLEM"
-  },
-  {
-    "discharge": "PROBLEM"
   },
   {
     "pupils": "TEST"
@@ -273,22 +225,7 @@
     "swelling": "PROBLEM"
   },
   {
-    "canals": "PROBLEM"
-  },
-  {
     "Tympanic membranes": "PROBLEM"
-  },
-  {
-    "erythema": "PROBLEM"
-  },
-  {
-    "bulging": "PROBLEM"
-  },
-  {
-    "fluid levels": "PROBLEM"
-  },
-  {
-    "bubbles": "PROBLEM"
   },
   {
     "rhinorrhea": "PROBLEM"
@@ -300,13 +237,7 @@
     "sinuses": "PROBLEM"
   },
   {
-    "Supple": "PROBLEM"
-  },
-  {
-    "nontender": "PROBLEM"
-  },
-  {
-    "full range of motion": "PROBLEM"
+    "range of motion": "TEST"
   },
   {
     "meningismus": "PROBLEM"
@@ -316,9 +247,6 @@
   },
   {
     "JVD": "PROBLEM"
-  },
-  {
-    "Mouth": "PROBLEM"
   },
   {
     "dental caries": "PROBLEM"
@@ -339,13 +267,7 @@
     "erythema": "PROBLEM"
   },
   {
-    "swelling": "PROBLEM"
-  },
-  {
-    "purulent discharge": "PROBLEM"
-  },
-  {
-    "discharge": "PROBLEM"
+    "purulent": "PROBLEM"
   },
   {
     "abscess": "PROBLEM"
@@ -372,34 +294,16 @@
     "buccal membranes": "TEST"
   },
   {
-    "mucous membranes": "PROBLEM"
-  },
-  {
-    "abscess": "PROBLEM"
+    "Mucous membranes": "PROBLEM"
   },
   {
     "Ludwig's syndrome": "PROBLEM"
   },
   {
-    "Heart is regular rate and rhythm without murmur": "TEST"
-  },
-  {
-    "murmur": "TEST"
-  },
-  {
-    "rub": "TEST"
-  },
-  {
-    "gallop": "TEST"
+    "Heart": "PROBLEM"
   },
   {
     "shortness of breath": "PROBLEM"
-  },
-  {
-    "auscultation": "TEST"
-  },
-  {
-    "RESPIRATIONS": "TEST"
   },
   {
     "Abdomen": "PROBLEM"
@@ -414,7 +318,7 @@
     "legs": "PROBLEM"
   },
   {
-    "normal use of his extremities": "PROBLEM"
+    "extremities": "PROBLEM"
   },
   {
     "rashes": "PROBLEM"
@@ -423,19 +327,19 @@
     "lesions": "PROBLEM"
   },
   {
-    "Cranial nerves II through XII": "TEST"
+    "Cranial nerves": "TEST"
   },
   {
-    "extremities": "PROBLEM"
+    "Motor and sensory are intact to the extremities": "TEST"
   },
   {
-    "speech": "PROBLEM"
+    "speech": "TEST"
   },
   {
-    "ambulation": "PROBLEM"
+    "ambulation": "TEST"
   },
   {
-    "alert and oriented": "PROBLEM"
+    "PSYCHIATRIC": "TREATMENT"
   },
   {
     "mood": "PROBLEM"
@@ -447,13 +351,10 @@
     "cervical lymphadenopathy": "PROBLEM"
   },
   {
-    "pain shot": "TREATMENT"
-  },
-  {
     "Dilaudid": "DRUG"
   },
   {
-    "DIAGNOSES": "TEST"
+    "DIAGNOSES": "PROBLEM"
   },
   {
     "ODONTALGIA": "PROBLEM"
@@ -465,7 +366,7 @@
     "DENTAL CARIES": "PROBLEM"
   },
   {
-    "CONDITION UPON DISPOSITION": "PROBLEM"
+    "Stable": "PROBLEM"
   },
   {
     "home": "TREATMENT"
@@ -486,16 +387,10 @@
     "clindamycin": "DRUG"
   },
   {
-    "drug precautions": "TREATMENT"
-  },
-  {
     "medicines": "DRUG"
   },
   {
     "toothache": "PROBLEM"
-  },
-  {
-    "instructions": "TREATMENT"
   },
   {
     "worsening of his condition": "PROBLEM"
@@ -513,12 +408,6 @@
     "multiple dental caries": "PROBLEM"
   },
   {
-    "dental disease": "PROBLEM"
-  },
-  {
-    "extensive dental disease": "PROBLEM"
-  },
-  {
     "cervical lymphadenopathy": "PROBLEM"
   },
   {
@@ -531,15 +420,21 @@
     "swelling": "PROBLEM"
   },
   {
-    "teeth pulled": "TREATMENT"
+    "dental disease": "PROBLEM"
+  },
+  {
+    "extensive dental disease": "PROBLEM"
   },
   {
     "dental caries": "PROBLEM"
   },
   {
-    "dental": "PROBLEM"
+    "teeth pulled": "TREATMENT"
   },
   {
-    "general medicine": "TEST"
+    "teeth": "PROBLEM"
+  },
+  {
+    "dental": "PROBLEM"
   }
 ]

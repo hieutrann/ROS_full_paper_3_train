@@ -1,5 +1,8 @@
 [
   {
+    "General Medicine": "TREATMENT"
+  },
+  {
     "numbness": "PROBLEM"
   },
   {
@@ -108,7 +111,7 @@
     "total knee arthroplasty": "TREATMENT"
   },
   {
-    "left hip pinning": "TREATMENT"
+    "hip pinning": "TREATMENT"
   },
   {
     "fracture": "PROBLEM"
@@ -117,16 +120,16 @@
     "colonoscopies": "TEST"
   },
   {
-    "total knee arthroplasty": "TREATMENT"
+    "knee arthroplasty": "TREATMENT"
   },
   {
-    "synovitis of the left knee": "PROBLEM"
+    "synovitis": "PROBLEM"
   },
   {
     "zoster": "PROBLEM"
   },
   {
-    "infection of the left knee": "PROBLEM"
+    "infection": "PROBLEM"
   },
   {
     "labyrinthitis": "PROBLEM"
@@ -174,22 +177,10 @@
     "Lortab": "DRUG"
   },
   {
-    "p.r.n.": "TREATMENT"
+    "p.r.n.": "TEST"
   },
   {
     "nonsmoker": "PROBLEM"
-  },
-  {
-    "nondrinker": "PROBLEM"
-  },
-  {
-    "widowed": "PROBLEM"
-  },
-  {
-    "She lives alone at home": "PROBLEM"
-  },
-  {
-    "running a restaurant": "PROBLEM"
   },
   {
     "stroke": "PROBLEM"
@@ -201,16 +192,13 @@
     "prostate cancer": "PROBLEM"
   },
   {
-    "She has one brother living": "PROBLEM"
-  },
-  {
     "heart disease": "PROBLEM"
   },
   {
     "diabetes": "PROBLEM"
   },
   {
-    "Negative": "PROBLEM"
+    "General": "PROBLEM"
   },
   {
     "allergies": "PROBLEM"
@@ -249,7 +237,7 @@
     "frequency": "PROBLEM"
   },
   {
-    "She empties okay": "PROBLEM"
+    "empties": "TEST"
   },
   {
     "paresthesias": "PROBLEM"
@@ -276,7 +264,7 @@
     "female": "PROBLEM"
   },
   {
-    "age": "TEST"
+    "age": "PROBLEM"
   },
   {
     "Temperature": "TEST"
@@ -288,13 +276,13 @@
     "Pulse": "TEST"
   },
   {
-    "Weight": "TEST"
+    "Weight": "PROBLEM"
   },
   {
-    "normocephalic": "PROBLEM"
+    "Head": "PROBLEM"
   },
   {
-    "pupils": "PROBLEM"
+    "pupils": "TEST"
   },
   {
     "Extraocular movements": "TEST"
@@ -303,10 +291,7 @@
     "Fundi": "PROBLEM"
   },
   {
-    "nares": "PROBLEM"
-  },
-  {
-    "adenopathy": "PROBLEM"
+    "TMs": "TEST"
   },
   {
     "thyromegaly": "PROBLEM"
@@ -315,7 +300,16 @@
     "Lungs": "PROBLEM"
   },
   {
-    "Heart: Regular rate and rhythm without murmur, click, or rub": "TEST"
+    "Regular rate and rhythm": "TEST"
+  },
+  {
+    "murmur": "PROBLEM"
+  },
+  {
+    "click": "PROBLEM"
+  },
+  {
+    "rub": "PROBLEM"
   },
   {
     "carotid bruits": "PROBLEM"
@@ -327,16 +321,13 @@
     "hepatosplenomegaly": "PROBLEM"
   },
   {
-    "mass": "PROBLEM"
-  },
-  {
-    "Surgically absent": "PROBLEM"
+    "Breasts": "PROBLEM"
   },
   {
     "Port-A-Cath": "TREATMENT"
   },
   {
-    "adenopathy": "PROBLEM"
+    "axillary adenopathy": "PROBLEM"
   },
   {
     "ankle edema": "PROBLEM"
@@ -360,19 +351,16 @@
     "neurologic deficits": "PROBLEM"
   },
   {
-    "Pelvic": "TEST"
-  },
-  {
     "BUS": "TEST"
-  },
-  {
-    "genitalia": "PROBLEM"
   },
   {
     "Vaginal rugae": "PROBLEM"
   },
   {
     "Cervix": "PROBLEM"
+  },
+  {
+    "bimanual exam": "TEST"
   },
   {
     "uterus": "PROBLEM"
@@ -384,13 +372,19 @@
     "ovaries": "PROBLEM"
   },
   {
+    "Rectal": "TEST"
+  },
+  {
     "brown stool": "PROBLEM"
+  },
+  {
+    "rectal vault": "PROBLEM"
   },
   {
     "actinic keratosis": "PROBLEM"
   },
   {
-    "Affect": "PROBLEM"
+    "Affect": "TEST"
   },
   {
     "ASSESSMENT": "TREATMENT"
@@ -399,13 +393,13 @@
     "Peripheral neuropathy": "PROBLEM"
   },
   {
-    "2.": "TREATMENT"
+    "2": "TEST"
   },
   {
     "Hypertension": "PROBLEM"
   },
   {
-    "3": "TREATMENT"
+    "3": "PROBLEM"
   },
   {
     "Hypothyroidism": "PROBLEM"
@@ -435,7 +429,7 @@
     "q.h.s.": "TEST"
   },
   {
-    "p.r.n.": "TREATMENT"
+    "p.r.n.": "TEST"
   },
   {
     "peripheral neuropathy": "PROBLEM"
@@ -459,6 +453,9 @@
     "peripheral neuropathy": "PROBLEM"
   },
   {
+    "CBC": "TEST"
+  },
+  {
     "sed rate": "TEST"
   },
   {
@@ -468,22 +465,13 @@
     "Hemoccult cards": "TEST"
   },
   {
-    "CBC": "TEST"
-  },
-  {
     "DT immunization": "DRUG"
-  },
-  {
-    "months": "TEST"
   },
   {
     "Ambien": "DRUG"
   },
   {
-    "one year": "PROBLEM"
-  },
-  {
-    "flu shot": "TREATMENT"
+    "flu shot": "DRUG"
   },
   {
     "numbness": "PROBLEM"
@@ -516,10 +504,10 @@
     "hemoccult cards": "TEST"
   },
   {
-    "port a cath": "TREATMENT"
+    "port a cath": "TEST"
   },
   {
-    "total knee arthroplasty": "TREATMENT"
+    "total knee arthroplasty": "TEST"
   },
   {
     "essential thrombocythemia": "PROBLEM"
@@ -529,11 +517,5 @@
   },
   {
     "peripheral": "PROBLEM"
-  },
-  {
-    "neuropathy": "PROBLEM"
-  },
-  {
-    "toes": "PROBLEM"
   }
 ]

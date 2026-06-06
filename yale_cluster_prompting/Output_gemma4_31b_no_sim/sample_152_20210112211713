@@ -12,9 +12,6 @@
     "Severe menometrorrhagia": "PROBLEM"
   },
   {
-    "medical therapy": "TREATMENT"
-  },
-  {
     "severe anemia": "PROBLEM"
   },
   {
@@ -24,9 +21,6 @@
     "Severe menometrorrhagia": "PROBLEM"
   },
   {
-    "medical therapy": "TREATMENT"
-  },
-  {
     "Severe anemia": "PROBLEM"
   },
   {
@@ -36,16 +30,13 @@
     "Severe menometrorrhagia": "PROBLEM"
   },
   {
-    "medical therapy": "TREATMENT"
-  },
-  {
     "Severe anemia": "PROBLEM"
   },
   {
     "Fibroid uterus": "PROBLEM"
   },
   {
-    "Hysteroscopy": "TREATMENT"
+    "Hysteroscopy": "TEST"
   },
   {
     "Dilatation and curettage (D&C)": "TREATMENT"
@@ -63,16 +54,7 @@
     "excision": "TREATMENT"
   },
   {
-    "BLOOD TRANSFUSIONS": "TREATMENT"
-  },
-  {
-    "packed red blood cells": "DRUG"
-  },
-  {
-    "INFECTION": "PROBLEM"
-  },
-  {
-    "Posttransfusion": "TREATMENT"
+    "packed red blood cells": "TREATMENT"
   },
   {
     "hematocrit": "TEST"
@@ -87,10 +69,10 @@
     "Hysteroscopy": "TEST"
   },
   {
-    "endometrial cavity fibroid": "PROBLEM"
+    "large endometrial cavity fibroid": "PROBLEM"
   },
   {
-    "shaving": "TREATMENT"
+    "Careful shaving": "TREATMENT"
   },
   {
     "excision": "TREATMENT"
@@ -105,13 +87,13 @@
     "Hemostasis": "PROBLEM"
   },
   {
-    "procedure": "TREATMENT"
-  },
-  {
     "packed red blood cells": "DRUG"
   },
   {
     "intraoperative blood loss": "PROBLEM"
+  },
+  {
+    "Stable": "PROBLEM"
   },
   {
     "Regular diet": "TREATMENT"

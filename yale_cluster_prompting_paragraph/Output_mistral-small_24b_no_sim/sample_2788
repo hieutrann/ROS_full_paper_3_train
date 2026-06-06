@@ -3,7 +3,7 @@
     "decreased ability to perform daily living activities": "PROBLEM"
   },
   {
-    "right knee surgery": "TREATMENT"
+    "right knee surgery": "PROBLEM"
   },
   {
     "right total knee replacement": "TREATMENT"
@@ -12,7 +12,7 @@
     "degenerative joint disease": "PROBLEM"
   },
   {
-    "autologous blood": "TEST"
+    "autologous blood": "TREATMENT"
   },
   {
     "DVT prophylaxis": "TREATMENT"
@@ -31,15 +31,6 @@
   },
   {
     "right knee pain": "PROBLEM"
-  },
-  {
-    "dysuria": "PROBLEM"
-  },
-  {
-    "incomplete bladder emptying": "PROBLEM"
-  },
-  {
-    "voiding difficulties": "PROBLEM"
   },
   {
     "hypertension": "PROBLEM"
@@ -81,9 +72,6 @@
     "trazodone": "DRUG"
   },
   {
-    "temperature": "TEST"
-  },
-  {
     "blood pressure": "TEST"
   },
   {
@@ -96,22 +84,13 @@
     "O2 saturation": "TEST"
   },
   {
-    "right knee incision": "TEST"
-  },
-  {
     "CPM machine": "TREATMENT"
   },
   {
     "Ativan": "DRUG"
   },
   {
-    "contact dermatitis": "PROBLEM"
-  },
-  {
     "betamethasone cream": "DRUG"
-  },
-  {
-    "oxycodone SR": "DRUG"
   },
   {
     "venous Doppler study": "TEST"
@@ -153,12 +132,12 @@
     "INR": "TEST"
   },
   {
-    "Diprosone cream": "DRUG"
+    "oxycodone SR": "DRUG"
   },
   {
     "Protonix": "DRUG"
   },
   {
-    "Coumadin": "DRUG"
+    "Diprosone cream": "DRUG"
   }
 ]

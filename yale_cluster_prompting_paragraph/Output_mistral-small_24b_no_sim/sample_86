@@ -6,13 +6,10 @@
     "high risk behavior": "PROBLEM"
   },
   {
-    "depressed": "PROBLEM"
-  },
-  {
-    "anxious": "PROBLEM"
-  },
-  {
     "paranoia": "PROBLEM"
+  },
+  {
+    "RTC": "TREATMENT"
   },
   {
     "Perceptual disturbances": "PROBLEM"
@@ -30,6 +27,9 @@
     "irritable": "PROBLEM"
   },
   {
+    "anxious": "PROBLEM"
+  },
+  {
     "depressed moods": "PROBLEM"
   },
   {
@@ -39,7 +39,7 @@
     "homesick": "PROBLEM"
   },
   {
-    "limited interaction": "PROBLEM"
+    "limited interaction with peers": "PROBLEM"
   },
   {
     "strange feelings and sensations": "PROBLEM"
@@ -49,9 +49,6 @@
   },
   {
     "EKG": "TEST"
-  },
-  {
-    "H&P": "TEST"
   },
   {
     "basic metabolic panel": "TEST"
@@ -69,6 +66,9 @@
     "urine drug screen": "TEST"
   },
   {
+    "thyroid dysfunction": "PROBLEM"
+  },
+  {
     "thyroid panel": "TEST"
   },
   {
@@ -78,7 +78,7 @@
     "T4": "TEST"
   },
   {
-    "thyroid dysfunction": "PROBLEM"
+    "TSH": "TEST"
   },
   {
     "asthma": "PROBLEM"
@@ -90,46 +90,28 @@
     "Hematocrit": "TEST"
   },
   {
-    "monocytes": "TEST"
+    "absolute monocytes": "TEST"
   },
   {
     "Major depression": "PROBLEM"
   },
   {
+    "recurrent": "PROBLEM"
+  },
+  {
     "psychotic features": "PROBLEM"
   },
   {
-    "psychosocial stressors": "PROBLEM"
+    "Psychosocial stressors": "PROBLEM"
   },
   {
     "GAF": "TEST"
-  },
-  {
-    "suicidal": "PROBLEM"
-  },
-  {
-    "homicidal": "PROBLEM"
   },
   {
     "perception disturbances": "PROBLEM"
   },
   {
     "internal stimuli": "PROBLEM"
-  },
-  {
-    "RTC": "TREATMENT"
-  },
-  {
-    "Residential Treatment Center": "TREATMENT"
-  },
-  {
-    "family doctor": "TREATMENT"
-  },
-  {
-    "cardiologist": "TREATMENT"
-  },
-  {
-    "OB/GYN doctor": "TREATMENT"
   },
   {
     "Seroquel": "DRUG"

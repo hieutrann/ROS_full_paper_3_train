@@ -1,9 +1,9 @@
 [
   {
-    "mesothelioma": "PROBLEM"
+    "peritoneal mesothelioma": "PROBLEM"
   },
   {
-    "peritoneal mesothelioma": "PROBLEM"
+    "mesothelioma": "PROBLEM"
   },
   {
     "bowel perforations": "PROBLEM"
@@ -12,25 +12,22 @@
     "abdominal pain": "PROBLEM"
   },
   {
-    "pain": "PROBLEM"
+    "pleurodesis": "TREATMENT"
   },
   {
-    "anxiety": "PROBLEM"
+    "Duragesic patch": "DRUG"
   },
   {
-    "Duragesic": "DRUG"
+    "Dilaudid PCA": "DRUG"
   },
   {
-    "Dilaudid": "DRUG"
+    "Dilaudid boluses": "DRUG"
   },
   {
     "Ativan": "DRUG"
   },
   {
     "Tylenol": "DRUG"
-  },
-  {
-    "pleurodesis": "TREATMENT"
   },
   {
     "thoracic epidural placement": "TREATMENT"
@@ -42,6 +39,6 @@
     "celiac plexuses/neurolytic block": "TREATMENT"
   },
   {
-    "pain procedures": "TREATMENT"
+    "anxiety": "PROBLEM"
   }
 ]

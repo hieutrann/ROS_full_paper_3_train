@@ -42,6 +42,9 @@
     "nauseated feeling": "PROBLEM"
   },
   {
+    "temperature": "TEST"
+  },
+  {
     "pulse": "TEST"
   },
   {
@@ -178,8 +181,5 @@
   },
   {
     "stroke": "PROBLEM"
-  },
-  {
-    "lymphoma": "PROBLEM"
   }
 ]

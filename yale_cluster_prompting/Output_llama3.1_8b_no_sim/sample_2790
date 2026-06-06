@@ -1,6 +1,6 @@
 [
   {
-    "chronic back pain": "PROBLEM"
+    "back pain": "PROBLEM"
   },
   {
     "chronic back pain": "PROBLEM"
@@ -9,31 +9,19 @@
     "acute back pain": "PROBLEM"
   },
   {
-    "chronic problem with back pain": "PROBLEM"
+    "back pain": "PROBLEM"
   },
   {
     "back pain": "PROBLEM"
   },
   {
-    "severe back pain": "PROBLEM"
-  },
-  {
-    "ABCD Hospital Emergency Room": "TEST"
+    "ABCD Hospital Emergency Room": "TREATMENT"
   },
   {
     "Decadron": "DRUG"
   },
   {
-    "IV analgesics": "DRUG"
-  },
-  {
     "physical therapy": "TREATMENT"
-  },
-  {
-    "ADLs": "PROBLEM"
-  },
-  {
-    "TCU": "PROBLEM"
   },
   {
     "Joseph Health Services": "TREATMENT"
@@ -60,7 +48,7 @@
     "bone scan": "TEST"
   },
   {
-    "oncologist": "PROBLEM"
+    "oncologist": "TREATMENT"
   },
   {
     "PENICILLIN": "DRUG"
@@ -102,10 +90,10 @@
     "irritable bowel syndrome": "PROBLEM"
   },
   {
-    "seasonal asthma": "PROBLEM"
+    "asthma": "PROBLEM"
   },
   {
-    "bilateral carpal tunnel syndrome": "PROBLEM"
+    "carpal tunnel syndrome": "PROBLEM"
   },
   {
     "abdominal teratoma": "PROBLEM"
@@ -114,37 +102,22 @@
     "incisional hernia": "PROBLEM"
   },
   {
-    "right orchiectomy": "TREATMENT"
-  },
-  {
-    "excision": "TREATMENT"
-  },
-  {
     "Noncontributory": "PROBLEM"
   },
   {
-    "patient": "PROBLEM"
+    "finance department": "PROBLEM"
   },
   {
     "nonsmoker": "PROBLEM"
   },
   {
-    "alcoholic beverages": "DRUG"
+    "alcohol": "PROBLEM"
   },
   {
     "IV drug use": "PROBLEM"
   },
   {
     "fever": "PROBLEM"
-  },
-  {
-    "chills": "PROBLEM"
-  },
-  {
-    "shakes": "PROBLEM"
-  },
-  {
-    "tremors": "PROBLEM"
   },
   {
     "chest pain": "PROBLEM"
@@ -189,7 +162,7 @@
     "voiding difficulties": "PROBLEM"
   },
   {
-    "bilateral carpal tunnel syndrome": "PROBLEM"
+    "carpal tunnel syndrome": "PROBLEM"
   },
   {
     "numbness and tingling": "PROBLEM"
@@ -216,16 +189,13 @@
     "O2 saturation": "TEST"
   },
   {
-    "260 pounds": "TEST"
-  },
-  {
-    "5 feet and 10 inches tall": "TEST"
+    "patient": "PROBLEM"
   },
   {
     "acute distress": "PROBLEM"
   },
   {
-    "Normocephalic": "PROBLEM"
+    "Normocephalic": "TEST"
   },
   {
     "Sclerae": "PROBLEM"
@@ -237,25 +207,31 @@
     "thrust": "PROBLEM"
   },
   {
-    "Trachea": "PROBLEM"
+    "Trachea": "TEST"
   },
   {
-    "LYMPHATICS": "PROBLEM"
+    "cervical nodes": "PROBLEM"
   },
   {
-    "LUNGS": "PROBLEM"
+    "axillary nodes": "PROBLEM"
   },
   {
-    "HEART": "TEST"
+    "auscultation": "TEST"
   },
   {
-    "Normal S1 and S2": "TEST"
+    "Regular rate and rhythm": "TEST"
+  },
+  {
+    "S1": "TEST"
+  },
+  {
+    "S2": "TEST"
   },
   {
     "Obese": "PROBLEM"
   },
   {
-    "softly protuberant": "PROBLEM"
+    "protuberant": "PROBLEM"
   },
   {
     "nontender": "PROBLEM"
@@ -273,28 +249,31 @@
     "calf tenderness": "PROBLEM"
   },
   {
-    "5/5": "TEST"
+    "Bilateral strength": "TEST"
   },
   {
-    "right lower extremity": "PROBLEM"
+    "upper extremities": "TEST"
+  },
+  {
+    "left lower extremity": "TEST"
+  },
+  {
+    "4-5/5": "TEST"
   },
   {
     "alert and oriented": "TEST"
   },
   {
-    "examination": "TREATMENT"
-  },
-  {
     "ASSESSMENT": "TREATMENT"
   },
   {
-    "Acute on chronic back pain": "PROBLEM"
+    "back pain": "PROBLEM"
   },
   {
-    "TCU": "TREATMENT"
+    "TCU": "TEST"
   },
   {
-    "rehabilitation therapy": "TREATMENT"
+    "Joseph Health Services": "TREATMENT"
   },
   {
     "Physical Therapy": "TREATMENT"
@@ -309,13 +288,13 @@
     "Percocet": "DRUG"
   },
   {
-    "p.r.n.": "TREATMENT"
+    "p.r.n.": "TEST"
   },
   {
     "pain": "PROBLEM"
   },
   {
-    "2": "TREATMENT"
+    "2": "TEST"
   },
   {
     "testicular cancer": "PROBLEM"
@@ -324,7 +303,10 @@
     "bone scan": "TEST"
   },
   {
-    "B": "PROBLEM"
+    "B.": "PROBLEM"
+  },
+  {
+    "3": "PROBLEM"
   },
   {
     "Gastroesophageal reflux disease": "PROBLEM"
@@ -336,7 +318,7 @@
     "gastrointestinal prophylaxis": "TREATMENT"
   },
   {
-    "Colace 100 mg b.i.d.": "DRUG"
+    "Colace": "DRUG"
   },
   {
     "lactulose": "DRUG"
@@ -351,12 +333,6 @@
     "Deep vein thrombosis prophylaxis": "TREATMENT"
   },
   {
-    "ambulating": "TREATMENT"
-  },
-  {
-    "leg exercises": "TREATMENT"
-  },
-  {
     "5": "TREATMENT"
   },
   {
@@ -369,15 +345,12 @@
     "dietary consult": "TREATMENT"
   },
   {
-    "discharge summary": "TREATMENT"
+    "discharge summary": "TEST"
   },
   {
     "exacerbation": "PROBLEM"
   },
   {
     "back pain": "PROBLEM"
-  },
-  {
-    "daily living activities": "PROBLEM"
   }
 ]

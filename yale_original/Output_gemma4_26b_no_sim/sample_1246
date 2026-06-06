@@ -39,13 +39,16 @@
     "gastric bypass": "TREATMENT"
   },
   {
-    "DVT prophylaxis": "TREATMENT"
+    "postoperative care": "TREATMENT"
+  },
+  {
+    "DVT": "PROBLEM"
   },
   {
     "subcu heparin": "DRUG"
   },
   {
-    "early and frequent mobilization": "TREATMENT"
+    "mobilization": "TREATMENT"
   },
   {
     "SCDs": "TREATMENT"
@@ -81,13 +84,13 @@
     "Lortab": "DRUG"
   },
   {
+    "bariatric clear liquids": "TREATMENT"
+  },
+  {
     "drain site care": "TREATMENT"
   },
   {
     "wound care": "TREATMENT"
-  },
-  {
-    "medifast": "DRUG"
   },
   {
     "laparoscopic roux-en-y gastric bypass": "TREATMENT"
@@ -105,9 +108,6 @@
     "laparoscopic": "TREATMENT"
   },
   {
-    "gastric": "PROBLEM"
-  },
-  {
-    "bariatric": "PROBLEM"
+    "gastric bypass": "TREATMENT"
   }
 ]

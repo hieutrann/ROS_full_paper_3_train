@@ -1,8 +1,5 @@
 [
   {
-    "VITAL SIGNS": "TEST"
-  },
-  {
     "blood pressure": "TEST"
   },
   {
@@ -15,28 +12,88 @@
     "pulse": "TEST"
   },
   {
+    "Funduscopic examination": "TEST"
+  },
+  {
+    "tympanic membranes": "TEST"
+  },
+  {
     "jugular venous distention": "PROBLEM"
   },
   {
-    "flank": "PROBLEM"
+    "carotid bruits": "PROBLEM"
   },
   {
-    "bladder": "PROBLEM"
+    "heart size": "PROBLEM"
   },
   {
-    "tenderness": "PROBLEM"
+    "murmur": "PROBLEM"
   },
   {
-    "motor": "PROBLEM"
+    "gallop": "PROBLEM"
   },
   {
-    "strength": "PROBLEM"
+    "organomegaly": "PROBLEM"
   },
   {
-    "reflexes": "PROBLEM"
+    "rebound tenderness": "PROBLEM"
   },
   {
-    "sounds": "PROBLEM"
+    "Obturator": "PROBLEM"
+  },
+  {
+    "psoas": "PROBLEM"
+  },
+  {
+    "bladder tenderness": "PROBLEM"
+  },
+  {
+    "flank pain": "PROBLEM"
+  },
+  {
+    "motor tone": "TEST"
+  },
+  {
+    "strength": "TEST"
+  },
+  {
+    "reflexes": "TEST"
+  },
+  {
+    "joint strength": "TEST"
+  },
+  {
+    "sensation": "TEST"
+  },
+  {
+    "Glasgow Coma Scale": "TEST"
+  },
+  {
+    "cranial nerves": "TEST"
+  },
+  {
+    "motor": "TEST"
+  },
+  {
+    "cerebellar tests": "TEST"
+  },
+  {
+    "reflexes": "TEST"
+  },
+  {
+    "lymph nodes": "PROBLEM"
+  },
+  {
+    "bleeding": "PROBLEM"
+  },
+  {
+    "skin purpura": "PROBLEM"
+  },
+  {
+    "petechiae": "PROBLEM"
+  },
+  {
+    "hemorrhage": "PROBLEM"
   },
   {
     "depression": "PROBLEM"

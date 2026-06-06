@@ -15,6 +15,18 @@
     "depressed": "PROBLEM"
   },
   {
+    "Falls": "PROBLEM"
+  },
+  {
+    "anxiety": "PROBLEM"
+  },
+  {
+    "anxious": "PROBLEM"
+  },
+  {
+    "depressed": "PROBLEM"
+  },
+  {
     "chest pain": "PROBLEM"
   },
   {
@@ -31,6 +43,9 @@
   },
   {
     "Darvocet": "DRUG"
+  },
+  {
+    "anxiety": "PROBLEM"
   },
   {
     "depression": "PROBLEM"
@@ -151,9 +166,6 @@
   },
   {
     "verapamil": "DRUG"
-  },
-  {
-    "rehabilitation": "TREATMENT"
   },
   {
     "falls": "PROBLEM"

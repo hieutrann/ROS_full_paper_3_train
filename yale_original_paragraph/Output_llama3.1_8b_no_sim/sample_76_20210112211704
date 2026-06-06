@@ -9,6 +9,12 @@
     "Escherichia coli": "PROBLEM"
   },
   {
+    "Levaquin": "DRUG"
+  },
+  {
+    "doripenem": "DRUG"
+  },
+  {
     "Hypotension": "PROBLEM"
   },
   {
@@ -21,7 +27,10 @@
     "Recent pulmonary embolism": "PROBLEM"
   },
   {
-    "History of coronary artery disease": "PROBLEM"
+    "Coumadin": "DRUG"
+  },
+  {
+    "Troponin": "TEST"
   },
   {
     "Temperature": "TEST"
@@ -48,24 +57,12 @@
     "Foley catheter": "TREATMENT"
   },
   {
-    "doripenem": "DRUG"
-  },
-  {
-    "Levaquin": "DRUG"
-  },
-  {
-    "Coumadin": "DRUG"
-  },
-  {
-    "insulin": "DRUG"
+    "insulin sliding scale": "TREATMENT"
   },
   {
     "intravenous fluids": "TREATMENT"
   },
   {
-    "cardiologist": "TREATMENT"
-  },
-  {
-    "troponin": "TEST"
+    "Coumadin": "TREATMENT"
   }
 ]

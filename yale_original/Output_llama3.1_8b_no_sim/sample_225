@@ -3,6 +3,9 @@
     "foreign body": "PROBLEM"
   },
   {
+    "left eye": "PROBLEM"
+  },
+  {
     "foreign body": "PROBLEM"
   },
   {
@@ -12,13 +15,16 @@
     "persistent pain": "PROBLEM"
   },
   {
-    "blurriness of vision": "PROBLEM"
-  },
-  {
     "photophobia": "PROBLEM"
   },
   {
     "left eye pain": "PROBLEM"
+  },
+  {
+    "visual acuity": "TEST"
+  },
+  {
+    "photophobia": "PROBLEM"
   },
   {
     "ophthalmologic problems": "PROBLEM"
@@ -63,10 +69,10 @@
     "ALLERGIES": "PROBLEM"
   },
   {
-    "smokes": "PROBLEM"
+    "cigarettes": "PROBLEM"
   },
   {
-    "Computers": "PROBLEM"
+    "Computers": "TREATMENT"
   },
   {
     "Cancer": "PROBLEM"
@@ -87,34 +93,16 @@
     "temperature": "TEST"
   },
   {
-    "Visual acuity": "TEST"
-  },
-  {
-    "Bilateral": "TEST"
-  },
-  {
     "20/25": "TEST"
-  },
-  {
-    "left": "TEST"
   },
   {
     "20/30": "TEST"
   },
   {
-    "right": "TEST"
-  },
-  {
-    "slit lamp examination": "TEST"
-  },
-  {
-    "lids": "TEST"
-  },
-  {
     "lacrimal apparatus": "TEST"
   },
   {
-    "Anterior chambers": "PROBLEM"
+    "Anterior chambers": "TEST"
   },
   {
     "Lens clear": "TEST"
@@ -171,15 +159,12 @@
     "visual acuity": "TEST"
   },
   {
-    "initial clinic visit": "TEST"
+    "metallic": "DRUG"
   },
   {
-    "social drinker": "TEST"
+    "social drinker": "TREATMENT"
   },
   {
-    "worker": "TEST"
-  },
-  {
-    "metallic": "PROBLEM"
+    "worker": "TREATMENT"
   }
 ]

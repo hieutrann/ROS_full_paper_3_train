@@ -1,6 +1,6 @@
 [
   {
-    "Erectile Dysfunction": "PROBLEM"
+    "erectile dysfunction": "PROBLEM"
   },
   {
     "Cialis": "DRUG"
@@ -39,7 +39,10 @@
     "nocturia": "PROBLEM"
   },
   {
-    "elevated PSA": "TEST"
+    "PSA": "TEST"
+  },
+  {
+    "biopsy": "TEST"
   },
   {
     "high grade PIN": "PROBLEM"
@@ -60,6 +63,12 @@
     "cardiac issues": "PROBLEM"
   },
   {
+    "medication": "DRUG"
+  },
+  {
+    "medications": "DRUG"
+  },
+  {
     "penile prosthesis": "TREATMENT"
   },
   {
@@ -70,6 +79,9 @@
   },
   {
     "PSA": "TEST"
+  },
+  {
+    "biopsy": "TEST"
   },
   {
     "high-grade PIN": "PROBLEM"

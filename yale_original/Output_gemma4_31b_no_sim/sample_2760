@@ -3,7 +3,7 @@
     "Open reduction and internal fixation (ORIF)": "TREATMENT"
   },
   {
-    "right Schatzker III tibial plateau fracture": "PROBLEM"
+    "Schatzker III tibial plateau fracture": "PROBLEM"
   },
   {
     "partial medial meniscectomy": "TREATMENT"
@@ -21,7 +21,7 @@
     "Open reduction and internal fixation (ORIF)": "TREATMENT"
   },
   {
-    "right Schatzker III tibial plateau fracture": "PROBLEM"
+    "Schatzker III tibial plateau fracture": "PROBLEM"
   },
   {
     "partial medial meniscectomy": "TREATMENT"
@@ -42,7 +42,7 @@
     "open reduction and internal fixation": "TREATMENT"
   },
   {
-    "right Schatzker III tibial plateau fracture": "PROBLEM"
+    "Schatzker III tibial plateau fracture": "PROBLEM"
   },
   {
     "partial medial meniscectomy": "TREATMENT"
@@ -108,10 +108,7 @@
     "pain": "PROBLEM"
   },
   {
-    "Combivent": "DRUG"
-  },
-  {
-    "nebulizer": "TREATMENT"
+    "Combivent nebulizer": "DRUG"
   },
   {
     "difficulty breathing": "PROBLEM"

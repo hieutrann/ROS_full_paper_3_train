@@ -1,8 +1,5 @@
 [
   {
-    "Refractory anemia": "PROBLEM"
-  },
-  {
     "anemia": "PROBLEM"
   },
   {
@@ -25,9 +22,6 @@
   },
   {
     "metformin": "DRUG"
-  },
-  {
-    "diltiazem": "DRUG"
   },
   {
     "Prevacid": "DRUG"
@@ -55,5 +49,14 @@
   },
   {
     "ultrasound of his abdomen": "TEST"
+  },
+  {
+    "bone marrow failure": "PROBLEM"
+  },
+  {
+    "myelodysplastic syndrome": "PROBLEM"
+  },
+  {
+    "myalgias": "PROBLEM"
   }
 ]

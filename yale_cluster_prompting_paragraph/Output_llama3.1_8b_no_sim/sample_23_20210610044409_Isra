@@ -1,42 +1,15 @@
 [
   {
-    "General Medicine": "TREATMENT"
+    "apparent distress": "PROBLEM"
   },
   {
-    "Normal Female Exam Template": "TEST"
+    "exudate": "PROBLEM"
   },
   {
-    "VITAL SIGNS": "TEST"
+    "erythema": "PROBLEM"
   },
   {
-    "Blood pressure": "TEST"
-  },
-  {
-    "pulse": "TEST"
-  },
-  {
-    "respirations": "TEST"
-  },
-  {
-    "temperature": "TEST"
-  },
-  {
-    "GENERAL APPEARANCE": "TEST"
-  },
-  {
-    "Alert and in no apparent distress": "TEST"
-  },
-  {
-    "calm": "TEST"
-  },
-  {
-    "cooperative": "TEST"
-  },
-  {
-    "communicative": "TEST"
-  },
-  {
-    "HEENT": "TEST"
+    "tympany": "PROBLEM"
   },
   {
     "EOMI": "TEST"
@@ -45,85 +18,7 @@
     "PERRLA": "TEST"
   },
   {
-    "Sclerae nonicteric": "TEST"
-  },
-  {
-    "No lesions of lids": "TEST"
-  },
-  {
-    "lashes": "TEST"
-  },
-  {
-    "brows": "TEST"
-  },
-  {
-    "conjunctivae": "TEST"
-  },
-  {
-    "Funduscopic examination unremarkable": "TEST"
-  },
-  {
-    "Ears": "TEST"
-  },
-  {
-    "Normal set": "TEST"
-  },
-  {
-    "shape": "TEST"
-  },
-  {
-    "TMs": "TEST"
-  },
-  {
-    "canals": "TEST"
-  },
-  {
-    "hearing": "TEST"
-  },
-  {
-    "Nose and Sinuses": "TEST"
-  },
-  {
-    "Negative": "TEST"
-  },
-  {
-    "Mouth": "TEST"
-  },
-  {
-    "Tongue": "TEST"
-  },
-  {
-    "Teeth": "TEST"
-  },
-  {
-    "Throat": "TEST"
-  },
-  {
-    "Negative except for dental work": "TEST"
-  },
-  {
-    "NECK": "TEST"
-  },
-  {
-    "Supple and pain free": "TEST"
-  },
-  {
-    "without bruit": "TEST"
-  },
-  {
-    "JVD": "TEST"
-  },
-  {
-    "adenopathy": "TEST"
-  },
-  {
-    "or thyroid abnormality": "TEST"
-  },
-  {
-    "CHEST": "TEST"
-  },
-  {
-    "Lungs are bilaterally clear": "TEST"
+    "Funduscopic examination": "TEST"
   },
   {
     "auscultation": "TEST"
@@ -132,208 +27,37 @@
     "percussion": "TEST"
   },
   {
-    "HEART": "TEST"
+    "S1": "TEST"
   },
   {
-    "S1 and S2": "TEST"
+    "S2": "TEST"
   },
   {
-    "Regular rate and rhythm": "TEST"
+    "auscultation": "TEST"
   },
   {
-    "without murmur": "TEST"
+    "palpation": "TEST"
   },
   {
-    "heave": "TEST"
-  },
-  {
-    "click": "TEST"
-  },
-  {
-    "lift": "TEST"
-  },
-  {
-    "thrill": "TEST"
-  },
-  {
-    "rub": "TEST"
-  },
-  {
-    "or gallop": "TEST"
-  },
-  {
-    "PMI nondisplaced": "TEST"
-  },
-  {
-    "Chest wall unremarkable": "TEST"
-  },
-  {
-    "No axillary or supraclavicular adenopathy": "TEST"
-  },
-  {
-    "detected": "TEST"
-  },
-  {
-    "BREASTS": "TEST"
-  },
-  {
-    "In the seated and supine position": "TEST"
-  },
-  {
-    "unremarkable": "TEST"
-  },
-  {
-    "ABDOMEN": "TEST"
-  },
-  {
-    "No hepatosplenomegaly": "TEST"
-  },
-  {
-    "mass": "TEST"
-  },
-  {
-    "tenderness": "TEST"
-  },
-  {
-    "rebound": "TEST"
-  },
-  {
-    "rigidity": "TEST"
-  },
-  {
-    "or guarding": "TEST"
-  },
-  {
-    "No widening of the aortic impulse": "TEST"
-  },
-  {
-    "and no intraabdominal bruit": "TEST"
-  },
-  {
-    "auscultated": "TEST"
-  },
-  {
-    "EXTERNAL GENITALIA": "TEST"
-  },
-  {
-    "Normal for age": "TEST"
-  },
-  {
-    "RECTAL": "TEST"
-  },
-  {
-    "Negative to 7 cm": "TEST"
-  },
-  {
-    "by gloved digital palpation": "TEST"
+    "inspection": "TEST"
   },
   {
     "Hemoccult": "TEST"
   },
   {
-    "negative stool": "TEST"
+    "stool": "TEST"
   },
   {
-    "EXTREMITIES": "TEST"
+    "pulse": "TEST"
   },
   {
-    "Good distal pulse": "TEST"
+    "percussion": "TEST"
   },
   {
-    "and perfusion": "TEST"
+    "inspection": "TEST"
   },
   {
-    "without evidence of edema": "TEST"
-  },
-  {
-    "cyanosis": "TEST"
-  },
-  {
-    "clubbing": "TEST"
-  },
-  {
-    "or deep venous thrombosis": "TEST"
-  },
-  {
-    "Nails of the hands and feet": "TEST"
-  },
-  {
-    "and creases of the palms and soles": "TEST"
-  },
-  {
-    "are unremarkable": "TEST"
-  },
-  {
-    "Good active and passive range of motion": "TEST"
-  },
-  {
-    "of all major joints": "TEST"
-  },
-  {
-    "BACK": "TEST"
-  },
-  {
-    "Normal to inspection": "TEST"
-  },
-  {
-    "and percussion": "TEST"
-  },
-  {
-    "Negative for spinous process tenderness": "TEST"
-  },
-  {
-    "or CVA tenderness": "TEST"
-  },
-  {
-    "Negative straight - leg raising": "TEST"
-  },
-  {
-    "Kernig": "TEST"
-  },
-  {
-    "and Brudzinski signs": "TEST"
-  },
-  {
-    "NEUROLOGIC": "TEST"
-  },
-  {
-    "Nonfocal for cranial and peripheral nervous systems": "TEST"
-  },
-  {
-    "strength": "TEST"
-  },
-  {
-    "sensation": "TEST"
-  },
-  {
-    "and cerebellar function": "TEST"
-  },
-  {
-    "Affect is normal": "TEST"
-  },
-  {
-    "Speech is clear and fluent": "TEST"
-  },
-  {
-    "Thought process is lucid and rational": "TEST"
-  },
-  {
-    "Gait and station are unremarkable": "TEST"
-  },
-  {
-    "SKIN": "TEST"
-  },
-  {
-    "Unremarkable for any premalignant or malignant condition": "TEST"
-  },
-  {
-    "with normal changes for age": "TEST"
-  },
-  {
-    "hepatosplenomegaly": "PROBLEM"
-  },
-  {
-    "mass": "PROBLEM"
+    "palpation": "TEST"
   },
   {
     "tenderness": "PROBLEM"
@@ -345,24 +69,75 @@
     "rigidity": "PROBLEM"
   },
   {
+    "guarding": "PROBLEM"
+  },
+  {
+    "hepatosplenomegaly": "PROBLEM"
+  },
+  {
+    "mass": "PROBLEM"
+  },
+  {
     "adenopathy": "PROBLEM"
   },
   {
-    "chest": "PROBLEM"
+    "bruit": "PROBLEM"
   },
   {
-    "percussion": "PROBLEM"
+    "cyanosis": "PROBLEM"
   },
   {
-    "inspection": "PROBLEM"
+    "clubbing": "PROBLEM"
   },
   {
-    "palpation": "PROBLEM"
+    "deep venous thrombosis": "PROBLEM"
   },
   {
-    "signs": "PROBLEM"
+    "edema": "PROBLEM"
   },
   {
-    "tongue": "PROBLEM"
+    "CVA tenderness": "PROBLEM"
+  },
+  {
+    "spinous process tenderness": "PROBLEM"
+  },
+  {
+    "Kernig": "TEST"
+  },
+  {
+    "Brudzinski": "TEST"
+  },
+  {
+    "straight-leg raising": "TEST"
+  },
+  {
+    "cranial and peripheral nervous systems": "TEST"
+  },
+  {
+    "strength": "TEST"
+  },
+  {
+    "sensation": "TEST"
+  },
+  {
+    "cerebellar function": "TEST"
+  },
+  {
+    "affect": "TEST"
+  },
+  {
+    "speech": "TEST"
+  },
+  {
+    "thought process": "TEST"
+  },
+  {
+    "gait": "TEST"
+  },
+  {
+    "station": "TEST"
+  },
+  {
+    "premalignant or malignant condition": "PROBLEM"
   }
 ]

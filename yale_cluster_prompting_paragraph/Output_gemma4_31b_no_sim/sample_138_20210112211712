@@ -1,6 +1,6 @@
 [
   {
-    "Neck Pain": "PROBLEM"
+    "Neck pain": "PROBLEM"
   },
   {
     "right upper extremity radiculopathy": "PROBLEM"
@@ -15,16 +15,34 @@
     "stenosis": "PROBLEM"
   },
   {
-    "Neck pain with right upper extremity radiculopathy": "PROBLEM"
+    "Neck pain": "PROBLEM"
   },
   {
-    "Cervical spondylosis with herniated nucleus pulposus C4-C5, C5-C6, and C6-C7 with stenosis": "PROBLEM"
+    "right upper extremity radiculopathy": "PROBLEM"
   },
   {
-    "Neck pain with right upper extremity radiculopathy": "PROBLEM"
+    "Cervical spondylosis": "PROBLEM"
   },
   {
-    "Cervical spondylosis with herniated nucleus pulposus C4-C5, C5-C6, and C6-C7 with stenosis": "PROBLEM"
+    "herniated nucleus pulposus C4-C5, C5-C6, and C6-C7": "PROBLEM"
+  },
+  {
+    "stenosis": "PROBLEM"
+  },
+  {
+    "Neck pain": "PROBLEM"
+  },
+  {
+    "right upper extremity radiculopathy": "PROBLEM"
+  },
+  {
+    "Cervical spondylosis": "PROBLEM"
+  },
+  {
+    "herniated nucleus pulposus C4-C5, C5-C6, and C6-C7": "PROBLEM"
+  },
+  {
+    "stenosis": "PROBLEM"
   },
   {
     "Anterior cervical discectomy with decompression C4-C5, C5-C6, and C6-C7": "TREATMENT"
@@ -42,7 +60,7 @@
     "Allograft": "TREATMENT"
   },
   {
-    "intense neck pain": "PROBLEM"
+    "neck pain": "PROBLEM"
   },
   {
     "subjective weakness of the right upper extremity": "PROBLEM"
@@ -70,6 +88,9 @@
   },
   {
     "IV morphine": "DRUG"
+  },
+  {
+    "pain down the arm": "PROBLEM"
   },
   {
     "tingling of the right thumb and right index finger": "PROBLEM"

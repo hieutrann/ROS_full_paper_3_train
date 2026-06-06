@@ -1,15 +1,15 @@
 [
   {
-    "Surgery": "TREATMENT"
-  },
-  {
     "Liver Biopsy": "TEST"
   },
   {
-    "Percutaneous liver biopsy": "TEST"
+    "Percutaneous liver biopsy": "TREATMENT"
   },
   {
-    "maximal dullness": "PROBLEM"
+    "dullness": "PROBLEM"
+  },
+  {
+    "percussion": "TEST"
   },
   {
     "Percutaneous liver biopsy": "TREATMENT"
@@ -42,7 +42,10 @@
     "death": "PROBLEM"
   },
   {
-    "maximal dullness": "PROBLEM"
+    "dullness": "PROBLEM"
+  },
+  {
+    "percussion": "TEST"
   },
   {
     "povidone iodine": "TREATMENT"
@@ -54,13 +57,25 @@
     "incision": "TREATMENT"
   },
   {
-    "16-gauge modified Klatskin needle": "TREATMENT"
+    "A 16-gauge modified Klatskin needle": "TREATMENT"
+  },
+  {
+    "incision": "TREATMENT"
+  },
+  {
+    "liver": "PROBLEM"
   },
   {
     "Liver cores": "TEST"
   },
   {
-    "abdominal or chest pain": "PROBLEM"
+    "routine histologic study": "TEST"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
   },
   {
     "fever": "PROBLEM"
@@ -78,7 +93,13 @@
     "liver biopsy": "TEST"
   },
   {
-    "hepatitis A and B vaccines": "DRUG"
+    "hepatitis A": "PROBLEM"
+  },
+  {
+    "hepatitis B": "PROBLEM"
+  },
+  {
+    "vaccines": "DRUG"
   },
   {
     "vaccination": "TREATMENT"
@@ -97,9 +118,6 @@
   },
   {
     "klatskin needle": "TREATMENT"
-  },
-  {
-    "mid axillary": "TEST"
   },
   {
     "liver biopsy": "TEST"

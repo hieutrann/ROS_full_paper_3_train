@@ -1,6 +1,6 @@
 [
   {
-    "bilateral l5 spondylolysis": "PROBLEM"
+    "Bilateral l5 spondylolysis": "PROBLEM"
   },
   {
     "pars defects": "PROBLEM"
@@ -63,19 +63,19 @@
     "bilateral leg pain": "PROBLEM"
   },
   {
-    "bilateral pars defects": "PROBLEM"
-  },
-  {
     "spondylolysis": "PROBLEM"
   },
   {
     "instability": "PROBLEM"
   },
   {
+    "pars defects": "PROBLEM"
+  },
+  {
     "surgical procedure": "TREATMENT"
   },
   {
-    "ambulatory": "PROBLEM"
+    "postoperative period": "PROBLEM"
   },
   {
     "p. o. fluids": "TREATMENT"
@@ -87,16 +87,10 @@
     "wounds": "PROBLEM"
   },
   {
-    "patient": "PROBLEM"
-  },
-  {
     "pain medication": "DRUG"
   },
   {
     "six weeks' time": "TREATMENT"
-  },
-  {
-    "discharge plan": "TREATMENT"
   },
   {
     "chronic pain syndrome": "PROBLEM"

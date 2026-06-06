@@ -21,16 +21,16 @@
     "hepatitis C": "PROBLEM"
   },
   {
+    "PROBLEMS LIST": "PROBLEM"
+  },
+  {
     "Nonischemic cardiomyopathy": "PROBLEM"
   },
   {
-    "coronary artery disease": "PROBLEM"
+    "Branch vessel coronary artery disease": "PROBLEM"
   },
   {
     "Congestive heart failure": "PROBLEM"
-  },
-  {
-    "NYHA Class III": "PROBLEM"
   },
   {
     "nonsustained ventricular tachycardia": "PROBLEM"
@@ -81,9 +81,6 @@
     "appetite": "PROBLEM"
   },
   {
-    "joint pain": "PROBLEM"
-  },
-  {
     "TIA": "PROBLEM"
   },
   {
@@ -93,37 +90,16 @@
     "syncope": "PROBLEM"
   },
   {
-    "smoking": "PROBLEM"
-  },
-  {
     "cocaine": "DRUG"
-  },
-  {
-    "drug allergies": "PROBLEM"
-  },
-  {
-    "MEDICATIONS": "DRUG"
   },
   {
     "medications": "DRUG"
   },
   {
-    "discharge orders": "TREATMENT"
-  },
-  {
-    "prescription": "DRUG"
-  },
-  {
-    "VITAL SIGNS": "TEST"
-  },
-  {
-    "Pulse": "TEST"
-  },
-  {
     "blood pressure": "TEST"
   },
   {
-    "weight": "TEST"
+    "normocephalic": "PROBLEM"
   },
   {
     "pallor": "PROBLEM"
@@ -144,25 +120,22 @@
     "LUNGS": "TEST"
   },
   {
-    "rales": "PROBLEM"
+    "rales": "TEST"
   },
   {
-    "rhonchi": "PROBLEM"
+    "rhonchi": "TEST"
   },
   {
     "Pulse ox": "TEST"
   },
   {
-    "S1": "TEST"
+    "S1 and S2": "TEST"
   },
   {
-    "S2": "TEST"
+    "S3": "TEST"
   },
   {
-    "S3 and S4": "TEST"
-  },
-  {
-    "ABDOMEN": "TEST"
+    "S4": "TEST"
   },
   {
     "Liver": "PROBLEM"
@@ -201,9 +174,6 @@
     "hydralazine": "DRUG"
   },
   {
-    "100 mg t.i.d.": "DRUG"
-  },
-  {
     "Toprol": "DRUG"
   },
   {
@@ -225,10 +195,7 @@
     "blood pressure": "TEST"
   },
   {
-    "medication": "DRUG"
-  },
-  {
-    "gastroenterologist": "TREATMENT"
+    "weight": "TEST"
   },
   {
     "hepatitis C": "PROBLEM"

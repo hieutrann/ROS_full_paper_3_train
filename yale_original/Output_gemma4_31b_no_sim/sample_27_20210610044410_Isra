@@ -39,7 +39,7 @@
     "left renal cell carcinoma": "PROBLEM"
   },
   {
-    "multiple renal cysts": "PROBLEM"
+    "renal cysts": "PROBLEM"
   },
   {
     "MRI of the abdomen": "TEST"
@@ -63,10 +63,7 @@
     "Left radical nephrectomy": "TREATMENT"
   },
   {
-    "Left renal cyst": "PROBLEM"
-  },
-  {
-    "decortication": "TREATMENT"
+    "Left renal cyst decortication": "TREATMENT"
   },
   {
     "left renal cyst decortication": "TREATMENT"
@@ -99,22 +96,19 @@
     "cystic fluid": "PROBLEM"
   },
   {
-    "procedure": "TREATMENT"
+    "drained": "TREATMENT"
   },
   {
     "hemostasis": "PROBLEM"
   },
   {
-    "Single JP drain": "TREATMENT"
+    "JP drain": "TREATMENT"
   },
   {
     "flexible cystoscopy": "TEST"
   },
   {
-    "gross strictures": "PROBLEM"
-  },
-  {
-    "abnormalities": "PROBLEM"
+    "strictures": "PROBLEM"
   },
   {
     "gross lesions": "PROBLEM"
@@ -139,9 +133,6 @@
   },
   {
     "vital signs": "TEST"
-  },
-  {
-    "hemodynamic stability": "PROBLEM"
   },
   {
     "infection": "PROBLEM"

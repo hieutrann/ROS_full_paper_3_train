@@ -1,102 +1,108 @@
 [
   {
-    "Acute right lobar pneumonia": "PROBLEM"
+    "scalp skin biopsy": "TEST"
+  },
+  {
+    "pathology specimen": "TEST"
+  },
+  {
+    "acute right lobar pneumonia": "PROBLEM"
   },
   {
     "Hypoxemia": "PROBLEM"
   },
   {
-    "Hypotension": "PROBLEM"
+    "hypotension": "PROBLEM"
   },
   {
-    "Electrolyte abnormality": "PROBLEM"
+    "electrolyte abnormality": "PROBLEM"
   },
   {
-    "Hyponatremia": "PROBLEM"
+    "hyponatremia": "PROBLEM"
   },
   {
-    "Hypokalemia": "PROBLEM"
+    "hypokalemia": "PROBLEM"
   },
   {
-    "Liver function tests": "TEST"
+    "liver function tests": "TEST"
   },
   {
-    "Dementia": "PROBLEM"
+    "dementia": "PROBLEM"
   },
   {
     "Alzheimer's type": "PROBLEM"
   },
   {
-    "Anemia": "PROBLEM"
+    "anemia": "PROBLEM"
   },
   {
-    "Iron deficiency": "PROBLEM"
+    "iron deficiency": "PROBLEM"
   },
   {
-    "Scalp skin biopsy": "TEST"
+    "mole": "PROBLEM"
   },
   {
-    "Pathology report": "TEST"
+    "skin biopsy": "TEST"
   },
   {
-    "Thoracentesis": "TEST"
+    "pathology report": "TEST"
   },
   {
-    "Low-grade fever": "PROBLEM"
+    "thoracentesis": "TEST"
   },
   {
-    "Confusion": "PROBLEM"
-  },
-  {
-    "Dizziness": "PROBLEM"
-  },
-  {
-    "Cough": "PROBLEM"
-  },
-  {
-    "Chest x-ray": "TEST"
-  },
-  {
-    "Right lobar infiltrate": "PROBLEM"
-  },
-  {
-    "Antibiotics": "DRUG"
-  },
-  {
-    "Vancomycin": "DRUG"
-  },
-  {
-    "Blood": "TEST"
-  },
-  {
-    "Sputum": "TEST"
-  },
-  {
-    "Urine cultures": "TEST"
+    "IV Flagyl": "DRUG"
   },
   {
     "Levaquin": "DRUG"
   },
   {
-    "Flagyl": "DRUG"
+    "low-grade fever": "PROBLEM"
+  },
+  {
+    "confusion": "PROBLEM"
+  },
+  {
+    "dizziness": "PROBLEM"
+  },
+  {
+    "nonproductive cough": "PROBLEM"
+  },
+  {
+    "chest x-ray": "TEST"
+  },
+  {
+    "right lobar infiltrate": "PROBLEM"
+  },
+  {
+    "antibiotics": "DRUG"
+  },
+  {
+    "vancomycin": "DRUG"
+  },
+  {
+    "blood cultures": "TEST"
+  },
+  {
+    "sputum cultures": "TEST"
+  },
+  {
+    "urine cultures": "TEST"
   },
   {
     "C. diff colitis": "PROBLEM"
   },
   {
-    "Cholecystitis": "PROBLEM"
+    "cholecystitis": "PROBLEM"
   },
   {
-    "Hypotensive": "PROBLEM"
+    "hypotensive": "PROBLEM"
   },
   {
-    "Systolic blood pressure": "TEST"
+    "fluid management": "TREATMENT"
   },
   {
-    "IV fluid management": "TREATMENT"
-  },
-  {
-    "Ultrasound": "TEST"
+    "ultrasound": "TEST"
   },
   {
     "CT scan": "TEST"
@@ -105,43 +111,58 @@
     "HIDA scan": "TEST"
   },
   {
-    "Gallbladder dysfunction": "PROBLEM"
+    "gallbladder dysfunction": "PROBLEM"
   },
   {
-    "Liver functions": "TEST"
+    "liver functions": "TEST"
   },
   {
-    "Incentive spirometry": "TREATMENT"
+    "Infectious Disease": "TEST"
   },
   {
-    "Pulmonary function": "TEST"
+    "antibiotics": "DRUG"
   },
   {
-    "White count": "TEST"
+    "pulse oximetry": "TEST"
   },
   {
-    "Blood cultures": "TEST"
+    "incentive spirometry": "TREATMENT"
   },
   {
-    "Sputum culture": "TEST"
+    "pulmonary function": "TEST"
   },
   {
-    "Urine culture": "TEST"
+    "white count": "TEST"
   },
   {
-    "Thoracentesis culture": "TEST"
+    "blood cultures": "TEST"
   },
   {
-    "Packed red cells": "TREATMENT"
+    "sputum culture": "TEST"
   },
   {
-    "Hemoglobin": "TEST"
+    "urine culture": "TEST"
   },
   {
-    "Cardiovascular support": "TREATMENT"
+    "thoracentesis culture": "TEST"
+  },
+  {
+    "packed red cells": "TREATMENT"
+  },
+  {
+    "hemoglobin": "TEST"
   },
   {
     "GI bleeding": "PROBLEM"
+  },
+  {
+    "blood work": "TEST"
+  },
+  {
+    "hemoglobin": "TEST"
+  },
+  {
+    "hematocrit": "TEST"
   },
   {
     "PT": "TEST"
@@ -150,7 +171,7 @@
     "PTT": "TEST"
   },
   {
-    "Occult blood studies": "TEST"
+    "occult blood studies": "TEST"
   },
   {
     "Hepatitis B antigen": "TEST"
@@ -162,16 +183,16 @@
     "Hepatitis B core IgM": "TEST"
   },
   {
-    "Hepatitis C core antibody": "TEST"
+    "hepatitis C core antibody": "TEST"
   },
   {
-    "Sodium": "TEST"
+    "sodium": "TEST"
   },
   {
-    "Potassium": "TEST"
+    "potassium": "TEST"
   },
   {
-    "Calcium": "TEST"
+    "calcium": "TEST"
   },
   {
     "ALT": "TEST"
@@ -180,30 +201,30 @@
     "AST": "TEST"
   },
   {
-    "Direct bilirubin": "TEST"
+    "direct bilirubin": "TEST"
   },
   {
     "LDH": "TEST"
   },
   {
-    "Serum iron": "TEST"
+    "serum iron": "TEST"
   },
   {
-    "Total iron unbound": "TEST"
+    "total iron unbound": "TEST"
   },
   {
-    "Ferritin level": "TEST"
+    "ferritin level": "TEST"
   },
   {
-    "Back discomfort": "PROBLEM"
+    "back discomfort": "PROBLEM"
   },
   {
-    "Lumbosacral back x-ray": "TEST"
+    "lumbosacral back x-ray": "TEST"
   },
   {
-    "Degenerative disk disease": "PROBLEM"
+    "degenerative disk disease": "PROBLEM"
   },
   {
-    "Compression fracture": "PROBLEM"
+    "compression fracture": "PROBLEM"
   }
 ]

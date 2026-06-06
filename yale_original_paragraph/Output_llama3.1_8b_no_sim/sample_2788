@@ -1,9 +1,18 @@
 [
   {
-    "right knee surgery": "PROBLEM"
+    "degenerative joint disease": "PROBLEM"
   },
   {
-    "degenerative joint disease": "PROBLEM"
+    "anxiety disorder": "PROBLEM"
+  },
+  {
+    "insomnia": "PROBLEM"
+  },
+  {
+    "postoperative constipation": "PROBLEM"
+  },
+  {
+    "contact dermatitis": "PROBLEM"
   },
   {
     "hypertension": "PROBLEM"
@@ -12,40 +21,64 @@
     "hypothyroidism": "PROBLEM"
   },
   {
-    "GERD": "PROBLEM"
+    "gastroesophageal reflux disease": "PROBLEM"
   },
   {
-    "anxiety disorder": "PROBLEM"
+    "morton neuroma": "PROBLEM"
   },
   {
-    "Morton neuroma": "PROBLEM"
+    "migraine headaches": "PROBLEM"
   },
   {
-    "distant history of migraine headaches": "PROBLEM"
+    "Coumadin": "DRUG"
   },
   {
-    "contact dermatitis": "PROBLEM"
+    "Lovenox": "DRUG"
   },
   {
-    "postoperative constipation": "PROBLEM"
+    "Celebrex": "DRUG"
   },
   {
-    "insomnia": "PROBLEM"
+    "Colace": "DRUG"
   },
   {
-    "status post right total knee replacement": "PROBLEM"
+    "Synthroid": "DRUG"
   },
   {
-    "Knee Surgery - Discharge Summary": "TEST"
+    "Protonix": "DRUG"
+  },
+  {
+    "Diprosone cream": "DRUG"
+  },
+  {
+    "oxycodone SR": "DRUG"
+  },
+  {
+    "Percocet": "DRUG"
+  },
+  {
+    "trazodone": "DRUG"
+  },
+  {
+    "Ativan": "DRUG"
+  },
+  {
+    "Toprol-XL": "DRUG"
+  },
+  {
+    "betamethasone cream": "DRUG"
+  },
+  {
+    "CPM machine": "TREATMENT"
+  },
+  {
+    "venous Doppler study": "TEST"
   },
   {
     "UA": "TEST"
   },
   {
     "CBC": "TEST"
-  },
-  {
-    "venous Doppler study": "TEST"
   },
   {
     "Creatinine": "TEST"
@@ -60,96 +93,30 @@
     "fasting glucose": "TEST"
   },
   {
-    "UA on 08/28/2007": "TEST"
+    "INR": "TEST"
   },
   {
-    "CBC showed a white count of 6.3": "TEST"
+    "venous Doppler study": "TEST"
   },
   {
-    "hemoglobin was 12.1": "TEST"
+    "knee surgery": "TREATMENT"
   },
   {
-    "hematocrit was 35.3": "TEST"
-  },
-  {
-    "platelets were 278,000": "TEST"
-  },
-  {
-    "Chemistries were within normal limits": "TEST"
-  },
-  {
-    "Creatinine was 0.8": "TEST"
-  },
-  {
-    "BUN was 8": "TEST"
-  },
-  {
-    "anion gap was slightly decreased at 5": "TEST"
-  },
-  {
-    "fasting glucose was 102": "TEST"
-  },
-  {
-    "Celebrex": "DRUG"
-  },
-  {
-    "Coumadin": "DRUG"
-  },
-  {
-    "Colace": "DRUG"
-  },
-  {
-    "Synthroid": "DRUG"
-  },
-  {
-    "Lovenox": "DRUG"
-  },
-  {
-    "Percocet": "DRUG"
-  },
-  {
-    "Toprol XL": "DRUG"
-  },
-  {
-    "niacin": "DRUG"
-  },
-  {
-    "trazodone": "DRUG"
-  },
-  {
-    "Ativan": "DRUG"
-  },
-  {
-    "oxycodone SR": "DRUG"
-  },
-  {
-    "Diprosone cream": "DRUG"
-  },
-  {
-    "Protonix": "DRUG"
-  },
-  {
-    "betamethasone cream": "DRUG"
-  },
-  {
-    "CPM machine": "TREATMENT"
-  },
-  {
-    "incision and drainage": "TREATMENT"
-  },
-  {
-    "incision": "TREATMENT"
-  },
-  {
-    "drainage": "TREATMENT"
-  },
-  {
-    "transfusion with 2 units of autologous blood": "TREATMENT"
+    "total knee replacement": "TREATMENT"
   },
   {
     "DVT prophylaxis": "TREATMENT"
   },
   {
-    "Coumadin, Lovenox, SCD boots, and TED stockings": "TREATMENT"
+    "SCD boots": "TREATMENT"
+  },
+  {
+    "TED stockings": "TREATMENT"
+  },
+  {
+    "betamethasone cream": "TREATMENT"
+  },
+  {
+    "CPM machine": "TREATMENT"
   }
 ]

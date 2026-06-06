@@ -1,8 +1,5 @@
 [
   {
-    "vital signs": "TEST"
-  },
-  {
     "blood pressure": "TEST"
   },
   {
@@ -34,9 +31,6 @@
   },
   {
     "guarding": "PROBLEM"
-  },
-  {
-    "enlarged liver or spleen": "PROBLEM"
   },
   {
     "pelvic exam": "TEST"

@@ -1,5 +1,11 @@
 [
   {
+    "cough": "PROBLEM"
+  },
+  {
+    "work of breathing": "PROBLEM"
+  },
+  {
     "Respiratory distress": "PROBLEM"
   },
   {
@@ -9,49 +15,13 @@
     "Pneumonia": "PROBLEM"
   },
   {
+    "asthma": "PROBLEM"
+  },
+  {
     "URI symptoms": "PROBLEM"
   },
   {
-    "cough": "PROBLEM"
-  },
-  {
-    "work of breathing": "PROBLEM"
-  },
-  {
-    "asthma": "PROBLEM"
-  },
-  {
-    "respiratory distress": "PROBLEM"
-  },
-  {
-    "reactive airways disease": "PROBLEM"
-  },
-  {
-    "pneumonia": "PROBLEM"
-  },
-  {
-    "onset of cough": "PROBLEM"
-  },
-  {
-    "respiratory distress": "PROBLEM"
-  },
-  {
-    "respiratory": "PROBLEM"
-  },
-  {
-    "asthma": "PROBLEM"
-  },
-  {
     "nebulized treatments": "TREATMENT"
-  },
-  {
-    "albuterol": "DRUG"
-  },
-  {
-    "inhaled corticosteroids": "DRUG"
-  },
-  {
-    "systemic corticosteroids": "DRUG"
   },
   {
     "x-ray": "TEST"
@@ -61,12 +31,6 @@
   },
   {
     "atelectasis": "PROBLEM"
-  },
-  {
-    "antibiotics": "DRUG"
-  },
-  {
-    "fever": "PROBLEM"
   },
   {
     "CRP": "TEST"
@@ -87,7 +51,22 @@
     "Zithromax": "DRUG"
   },
   {
-    "bilateral wheezing": "PROBLEM"
+    "continuous nebulized albuterol": "TREATMENT"
+  },
+  {
+    "inhaled corticosteroids": "TREATMENT"
+  },
+  {
+    "systemic corticosteroids": "TREATMENT"
+  },
+  {
+    "antibiotics": "DRUG"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "wheezing": "PROBLEM"
   },
   {
     "tachypnea": "PROBLEM"

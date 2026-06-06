@@ -3,28 +3,22 @@
     "diabetes mellitus": "PROBLEM"
   },
   {
-    "diabetes mellitus": "PROBLEM"
+    "cerebrovascular accident": "PROBLEM"
   },
   {
-    "cerebrovascular accident": "PROBLEM"
+    "EMG studies": "TEST"
   },
   {
     "stroke": "PROBLEM"
   },
   {
-    "neurologist": "TEST"
-  },
-  {
-    "blood sugars": "TEST"
+    "neurologist": "TREATMENT"
   },
   {
     "insulin": "DRUG"
   },
   {
-    "tobacco": "PROBLEM"
-  },
-  {
-    "alcohol": "PROBLEM"
+    "blood sugars": "TEST"
   },
   {
     "Wt": "TEST"
@@ -39,40 +33,13 @@
     "P": "TEST"
   },
   {
-    "Heart": "TEST"
+    "dentition": "PROBLEM"
   },
   {
-    "carotid pulsations": "TEST"
+    "pedal pulse": "PROBLEM"
   },
   {
-    "pedal pulse": "TEST"
-  },
-  {
-    "Lungs": "TEST"
-  },
-  {
-    "Abdomen": "TEST"
-  },
-  {
-    "Rectal": "TEST"
-  },
-  {
-    "prostate": "TEST"
-  },
-  {
-    "Neuro": "TEST"
-  },
-  {
-    "monofilament testing": "TEST"
-  },
-  {
-    "diabetes mellitus": "PROBLEM"
-  },
-  {
-    "neuropathy": "PROBLEM"
-  },
-  {
-    "cerebrovascular accident": "PROBLEM"
+    "Neuropathy": "PROBLEM"
   },
   {
     "A1c": "TEST"
@@ -84,7 +51,7 @@
     "colonoscopy": "TEST"
   },
   {
-    "stools": "TEST"
+    "stools for occult blood": "TEST"
   },
   {
     "PSA": "TEST"
@@ -97,8 +64,5 @@
   },
   {
     "Accu-Cheks": "TEST"
-  },
-  {
-    "insulin": "DRUG"
   }
 ]

@@ -3,31 +3,25 @@
     "Liver Biopsy": "TEST"
   },
   {
-    "Percutaneous liver biopsy": "TEST"
+    "Percutaneous liver biopsy": "TREATMENT"
   },
   {
-    "Liver": "PROBLEM"
-  },
-  {
-    "Biopsy": "TREATMENT"
-  },
-  {
-    "maximal dullness": "PROBLEM"
-  },
-  {
-    "mid-axillary location": "PROBLEM"
+    "supine position": "TREATMENT"
   },
   {
     "percussion": "TEST"
   },
   {
-    "Percutaneous liver biopsy": "TREATMENT"
+    "mid-axillary location": "PROBLEM"
   },
   {
-    "2% Lidocaine": "DRUG"
+    "liver biopsy": "TREATMENT"
   },
   {
-    "iodine": "PROBLEM"
+    "Lidocaine": "DRUG"
+  },
+  {
+    "iodine": "DRUG"
   },
   {
     "lidocaine": "DRUG"
@@ -57,13 +51,13 @@
     "procedure": "TREATMENT"
   },
   {
-    "maximal dullness": "PROBLEM"
-  },
-  {
-    "mid-axillary location": "PROBLEM"
+    "supine position": "TREATMENT"
   },
   {
     "percussion": "TEST"
+  },
+  {
+    "mid-axillary location": "PROBLEM"
   },
   {
     "povidone iodine": "DRUG"
@@ -72,31 +66,37 @@
     "lidocaine": "DRUG"
   },
   {
-    "liver": "PROBLEM"
-  },
-  {
     "Bard-Parker #11 scalpel": "TREATMENT"
   },
   {
     "16-gauge modified Klatskin needle": "TREATMENT"
   },
   {
-    "incision": "TREATMENT"
-  },
-  {
     "liver": "PROBLEM"
   },
   {
-    "Klatskin needle": "TREATMENT"
+    "patient": "PROBLEM"
   },
   {
     "Liver cores": "TEST"
   },
   {
-    "medical treatment room": "TREATMENT"
+    "Pathology": "TEST"
+  },
+  {
+    "histologic study": "TEST"
   },
   {
     "medication": "DRUG"
+  },
+  {
+    "medical treatment room": "TREATMENT"
+  },
+  {
+    "home": "TREATMENT"
+  },
+  {
+    "tomorrow": "TEST"
   },
   {
     "abdominal pain": "PROBLEM"
@@ -114,7 +114,7 @@
     "light-headedness": "PROBLEM"
   },
   {
-    "unusual symptoms": "PROBLEM"
+    "symptoms": "PROBLEM"
   },
   {
     "liver biopsy": "TEST"
@@ -126,10 +126,13 @@
     "None": "PROBLEM"
   },
   {
-    "hepatitis A and B vaccines": "DRUG"
+    "hepatitis A vaccine": "DRUG"
   },
   {
-    "vaccination": "PROBLEM"
+    "hepatitis B vaccine": "DRUG"
+  },
+  {
+    "vaccination": "TREATMENT"
   },
   {
     "bile peritonitis": "PROBLEM"
@@ -141,18 +144,27 @@
     "pneumothorax": "PROBLEM"
   },
   {
-    "klatskin needle": "TEST"
+    "klatskin needle": "TREATMENT"
   },
   {
     "lidocaine": "DRUG"
   },
   {
-    "biopsy": "TEST"
-  },
-  {
     "liver biopsy": "TEST"
   },
   {
+    "biopsy": "TEST"
+  },
+  {
+    "surgery": "TREATMENT"
+  },
+  {
     "percutaneous": "TREATMENT"
+  },
+  {
+    "mid axillary": "TREATMENT"
+  },
+  {
+    "liver": "PROBLEM"
   }
 ]

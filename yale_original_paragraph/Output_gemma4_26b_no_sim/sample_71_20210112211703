@@ -36,9 +36,6 @@
     "shoulder surgery": "TREATMENT"
   },
   {
-    "reconstruction": "TREATMENT"
-  },
-  {
     "rotator cuff repair": "TREATMENT"
   },
   {
@@ -87,9 +84,6 @@
     "aspirin": "DRUG"
   },
   {
-    "Aspirin": "DRUG"
-  },
-  {
     "atenolol": "DRUG"
   },
   {
@@ -99,21 +93,9 @@
     "terazosin": "DRUG"
   },
   {
-    "swelling": "PROBLEM"
-  },
-  {
     "Perioperative hypertension": "PROBLEM"
   },
   {
     "atrial fibrillation": "PROBLEM"
-  },
-  {
-    "elevated blood pressure": "PROBLEM"
-  },
-  {
-    "paroxysmal atrial fibrillation": "PROBLEM"
-  },
-  {
-    "prostatic hypertrophy": "PROBLEM"
   }
 ]

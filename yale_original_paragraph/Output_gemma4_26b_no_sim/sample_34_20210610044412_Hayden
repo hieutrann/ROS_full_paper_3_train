@@ -15,12 +15,6 @@
     "Funduscopic examination": "TEST"
   },
   {
-    "Tympanic membranes": "TEST"
-  },
-  {
-    "Lungs": "TEST"
-  },
-  {
     "consolidation": "PROBLEM"
   },
   {
@@ -36,9 +30,6 @@
     "carotid bruits": "PROBLEM"
   },
   {
-    "heart size": "TEST"
-  },
-  {
     "murmur": "PROBLEM"
   },
   {
@@ -48,46 +39,10 @@
     "rebound tenderness": "PROBLEM"
   },
   {
-    "Bowel sounds": "TEST"
-  },
-  {
-    "Obturator and psoas signs": "TEST"
-  },
-  {
     "bladder tenderness": "PROBLEM"
   },
   {
     "flank pain": "PROBLEM"
-  },
-  {
-    "motor tone": "TEST"
-  },
-  {
-    "strength": "TEST"
-  },
-  {
-    "reflexes": "TEST"
-  },
-  {
-    "joint strength": "TEST"
-  },
-  {
-    "sensation": "TEST"
-  },
-  {
-    "Glasgow Coma Scale": "TEST"
-  },
-  {
-    "Cranial nerves": "TEST"
-  },
-  {
-    "motor and cerebellar tests": "TEST"
-  },
-  {
-    "lymph nodes": "TEST"
-  },
-  {
-    "bleeding": "PROBLEM"
   },
   {
     "skin purpura": "PROBLEM"
@@ -103,17 +58,5 @@
   },
   {
     "suicidal ideations": "PROBLEM"
-  },
-  {
-    "jugular venous distention": "PROBLEM"
-  },
-  {
-    "flank": "PROBLEM"
-  },
-  {
-    "nodes": "TEST"
-  },
-  {
-    "tenderness": "PROBLEM"
   }
 ]

@@ -24,7 +24,7 @@
     "voicing difficulties": "PROBLEM"
   },
   {
-    "outpatient speech therapy sessions": "TREATMENT"
+    "speech therapy sessions": "TREATMENT"
   },
   {
     "resonant voice activities": "TREATMENT"
@@ -72,9 +72,6 @@
     "vocal hygiene": "TREATMENT"
   },
   {
-    "voice activities": "TREATMENT"
-  },
-  {
     "hoarseness": "PROBLEM"
   },
   {
@@ -85,9 +82,6 @@
   },
   {
     "voice therapy": "TREATMENT"
-  },
-  {
-    "resonant voice": "TREATMENT"
   },
   {
     "videostroboscopy": "TEST"

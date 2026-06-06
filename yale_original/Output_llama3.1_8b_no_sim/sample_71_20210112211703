@@ -1,12 +1,6 @@
 [
   {
-    "General Medicine": "TREATMENT"
-  },
-  {
-    "Perioperative Elevated Blood Pressure": "PROBLEM"
-  },
-  {
-    "blood pressure": "TEST"
+    "Blood Pressure": "TEST"
   },
   {
     "labetalol": "DRUG"
@@ -24,7 +18,7 @@
     "Graves disease": "PROBLEM"
   },
   {
-    "2": "TEST"
+    "2": "TREATMENT"
   },
   {
     "Paroxysmal atrial fibrillation": "PROBLEM"
@@ -33,7 +27,7 @@
     "medication": "DRUG"
   },
   {
-    "3": "PROBLEM"
+    "3": "TREATMENT"
   },
   {
     "Diverticulosis": "PROBLEM"
@@ -45,13 +39,13 @@
     "GERD": "PROBLEM"
   },
   {
-    "5": "PROBLEM"
+    "5": "TEST"
   },
   {
-    "High blood pressure": "PROBLEM"
+    "blood pressure": "PROBLEM"
   },
   {
-    "6": "PROBLEM"
+    "6": "TEST"
   },
   {
     "Prostatic hypertrophy": "PROBLEM"
@@ -60,16 +54,16 @@
     "transurethral resection of the prostate": "TREATMENT"
   },
   {
-    "Bilateral inguinal hernia repair": "TREATMENT"
+    "hernia repair": "TREATMENT"
   },
   {
-    "right shoulder surgery with reconstruction": "TREATMENT"
+    "shoulder surgery": "TREATMENT"
   },
   {
-    "both shoulders rotator cuff repair": "TREATMENT"
+    "rotator cuff repair": "TREATMENT"
   },
   {
-    "left knee arthroplasty": "TREATMENT"
+    "knee arthroplasty": "TREATMENT"
   },
   {
     "transurethral resection of prostate": "TREATMENT"
@@ -88,6 +82,9 @@
   },
   {
     "blood pressure": "TEST"
+  },
+  {
+    "systolic": "TEST"
   },
   {
     "shortness of breath": "PROBLEM"
@@ -156,9 +153,6 @@
     "terazosin": "DRUG"
   },
   {
-    "months": "TEST"
-  },
-  {
     "71-year-old gentleman": "PROBLEM"
   },
   {
@@ -171,46 +165,40 @@
     "murmur": "PROBLEM"
   },
   {
-    "ABDOMEN": "PROBLEM"
+    "Benign": "PROBLEM"
   },
   {
     "swelling": "PROBLEM"
   },
   {
-    "alert and oriented x3": "TEST"
+    "oriented": "TEST"
   },
   {
     "nonfocal": "PROBLEM"
   },
   {
-    "Perioperative hypertension": "PROBLEM"
+    "hypertension": "PROBLEM"
   },
   {
     "lisinopril": "DRUG"
   },
   {
-    "20 mg": "DRUG"
-  },
-  {
-    "daily": "PROBLEM"
+    "p.o.": "TREATMENT"
   },
   {
     "lisinopril": "DRUG"
   },
   {
-    "daily": "PROBLEM"
+    "primary physician": "TREATMENT"
   },
   {
-    "Dr.": "TREATMENT"
-  },
-  {
-    "Y": "PROBLEM"
+    "Y": "TEST"
   },
   {
     "lisinopril": "DRUG"
   },
   {
-    "2": "TEST"
+    "2": "TREATMENT"
   },
   {
     "Prostatic hypertrophy": "PROBLEM"
@@ -219,10 +207,7 @@
     "laser surgery": "TREATMENT"
   },
   {
-    "procedure": "TREATMENT"
-  },
-  {
-    "3": "PROBLEM"
+    "3": "TREATMENT"
   },
   {
     "Graves disease": "PROBLEM"
@@ -243,9 +228,6 @@
     "lisinopril": "DRUG"
   },
   {
-    "elevated blood pressure": "PROBLEM"
-  },
-  {
     "paroxysmal atrial fibrillation": "PROBLEM"
   },
   {
@@ -261,12 +243,12 @@
     "transurethral resection of prostate": "TREATMENT"
   },
   {
+    "elevated blood pressure": "PROBLEM"
+  },
+  {
     "blood pressure": "TEST"
   },
   {
     "blood": "TEST"
-  },
-  {
-    "perioperative": "TEST"
   }
 ]

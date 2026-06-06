@@ -1,8 +1,5 @@
 [
   {
-    "FEMALE PHYSICAL EXAMINATION": "TEST"
-  },
-  {
     "erythema": "PROBLEM"
   },
   {
@@ -30,6 +27,9 @@
     "rubs": "PROBLEM"
   },
   {
+    "masses": "PROBLEM"
+  },
+  {
     "hepatomegaly": "PROBLEM"
   },
   {
@@ -46,6 +46,9 @@
   },
   {
     "Rectal Exam": "TEST"
+  },
+  {
+    "masses": "PROBLEM"
   },
   {
     "Hemoccult": "TEST"
@@ -75,45 +78,15 @@
     "skin changes": "PROBLEM"
   },
   {
+    "masses": "PROBLEM"
+  },
+  {
+    "Deep tendon reflexes": "TEST"
+  },
+  {
     "lesions": "PROBLEM"
   },
   {
     "rashes": "PROBLEM"
-  },
-  {
-    "female physical examination": "TEST"
-  },
-  {
-    "bimanual exam": "TEST"
-  },
-  {
-    "hemoccult": "TEST"
-  },
-  {
-    "joint exam": "TEST"
-  },
-  {
-    "lymphadenopathy": "PROBLEM"
-  },
-  {
-    "neurologic": "TEST"
-  },
-  {
-    "physical examination": "TEST"
-  },
-  {
-    "rectal exam": "TEST"
-  },
-  {
-    "skin changes": "PROBLEM"
-  },
-  {
-    "speculum exam": "TEST"
-  },
-  {
-    "masses": "PROBLEM"
-  },
-  {
-    "oropharynx": "TEST"
   }
 ]

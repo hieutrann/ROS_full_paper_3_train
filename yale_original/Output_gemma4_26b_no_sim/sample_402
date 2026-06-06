@@ -84,10 +84,13 @@
     "lichenification": "PROBLEM"
   },
   {
-    "PERRLA": "TEST"
+    "Eyes": "TEST"
   },
   {
     "effusion": "PROBLEM"
+  },
+  {
+    "discharge": "PROBLEM"
   },
   {
     "tonsillar hypertrophy": "PROBLEM"
@@ -105,7 +108,10 @@
     "Respirations": "TEST"
   },
   {
-    "Heart": "TEST"
+    "Heart": "PROBLEM"
+  },
+  {
+    "rate of 100 beats per minute": "TEST"
   },
   {
     "Serous otitis": "PROBLEM"
@@ -142,5 +148,8 @@
   },
   {
     "atopic dermatitis": "PROBLEM"
+  },
+  {
+    "dermatitis": "PROBLEM"
   }
 ]

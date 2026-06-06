@@ -3,10 +3,10 @@
     "Falls": "PROBLEM"
   },
   {
-    "anxiety": "PROBLEM"
+    "Anxiety": "PROBLEM"
   },
   {
-    "depression": "PROBLEM"
+    "Depression": "PROBLEM"
   },
   {
     "Hypertension": "PROBLEM"
@@ -85,62 +85,5 @@
   },
   {
     "verapamil": "DRUG"
-  },
-  {
-    "Darvocet": "DRUG"
-  },
-  {
-    "Pulse": "TEST"
-  },
-  {
-    "blood pressure": "TEST"
-  },
-  {
-    "afebrile": "TEST"
-  },
-  {
-    "respiratory rate": "TEST"
-  },
-  {
-    "VITAL SIGNS": "TEST"
-  },
-  {
-    "GENERAL": "TEST"
-  },
-  {
-    "HEENT": "TEST"
-  },
-  {
-    "NECK": "TEST"
-  },
-  {
-    "LUNGS": "TEST"
-  },
-  {
-    "HEART": "TEST"
-  },
-  {
-    "ABDOMEN": "TEST"
-  },
-  {
-    "EXTREMITIES": "TEST"
-  },
-  {
-    "NEUROLOGICAL": "TEST"
-  },
-  {
-    "Grossly nonfocal": "TEST"
-  },
-  {
-    "incision": "TREATMENT"
-  },
-  {
-    "drainage": "TREATMENT"
-  },
-  {
-    "Paxil": "TREATMENT"
-  },
-  {
-    "Xanax": "TREATMENT"
   }
 ]

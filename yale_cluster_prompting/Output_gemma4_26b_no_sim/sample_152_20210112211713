@@ -1,24 +1,18 @@
 [
   {
-    "Hysteroscopy": "TREATMENT"
+    "Hysteroscopy": "TEST"
   },
   {
-    "dilatation and curettage": "TREATMENT"
-  },
-  {
-    "D&C": "TREATMENT"
+    "dilatation and curettage (D&C)": "TREATMENT"
   },
   {
     "myomectomy": "TREATMENT"
   },
   {
-    "menometrorrhagia": "PROBLEM"
+    "Severe menometrorrhagia": "PROBLEM"
   },
   {
-    "medical therapy": "TREATMENT"
-  },
-  {
-    "anemia": "PROBLEM"
+    "severe anemia": "PROBLEM"
   },
   {
     "fibroid uterus": "PROBLEM"
@@ -72,9 +66,6 @@
     "packed red blood cells": "TREATMENT"
   },
   {
-    "INFECTION": "PROBLEM"
-  },
-  {
     "hematocrit": "TEST"
   },
   {
@@ -90,16 +81,19 @@
     "endometrial cavity fibroid": "PROBLEM"
   },
   {
-    "fibroid": "PROBLEM"
-  },
-  {
     "shaving": "TREATMENT"
   },
   {
     "excision": "TREATMENT"
   },
   {
-    "removal": "TREATMENT"
+    "fibroid": "PROBLEM"
+  },
+  {
+    "removal of the fibroid": "TREATMENT"
+  },
+  {
+    "Hemostasis": "PROBLEM"
   },
   {
     "packed red blood cells": "TREATMENT"
@@ -129,7 +123,7 @@
     "ferrous sulfate": "DRUG"
   },
   {
-    "X": "DRUG"
+    "tablets": "DRUG"
   },
   {
     "d&c": "TREATMENT"
@@ -145,6 +139,9 @@
   },
   {
     "menometrorrhagia": "PROBLEM"
+  },
+  {
+    "uterus": "PROBLEM"
   },
   {
     "hysteroscopy": "TEST"

@@ -9,9 +9,6 @@
     "uncontrolled blood pressure": "PROBLEM"
   },
   {
-    "blood pressure": "TEST"
-  },
-  {
     "cesarean section": "TREATMENT"
   },
   {
@@ -46,6 +43,9 @@
   },
   {
     "gestational diabetes mellitus": "PROBLEM"
+  },
+  {
+    "cholesterol": "TEST"
   },
   {
     "coronary artery disease": "PROBLEM"
@@ -153,6 +153,9 @@
     "blood pressure": "TEST"
   },
   {
+    "respiratory rate": "TEST"
+  },
+  {
     "edema": "PROBLEM"
   },
   {
@@ -193,32 +196,5 @@
   },
   {
     "hydralazine": "DRUG"
-  },
-  {
-    "cardizem": "DRUG"
-  },
-  {
-    "metoprolol": "DRUG"
-  },
-  {
-    "hypertension": "PROBLEM"
-  },
-  {
-    "gestational diabetes mellitus": "PROBLEM"
-  },
-  {
-    "pre-eclampsia": "PROBLEM"
-  },
-  {
-    "uncontrolled blood pressure": "PROBLEM"
-  },
-  {
-    "gestational diabetes": "PROBLEM"
-  },
-  {
-    "cesarean section": "TREATMENT"
-  },
-  {
-    "preeclampsia": "PROBLEM"
   }
 ]

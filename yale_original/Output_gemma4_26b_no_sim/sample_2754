@@ -3,6 +3,9 @@
     "heroin abuse": "PROBLEM"
   },
   {
+    "heroin": "DRUG"
+  },
+  {
     "cocaine": "DRUG"
   },
   {
@@ -60,6 +63,9 @@
     "visual complaints": "PROBLEM"
   },
   {
+    "hallucinations": "PROBLEM"
+  },
+  {
     "chest pain": "PROBLEM"
   },
   {
@@ -105,10 +111,19 @@
     "pain": "PROBLEM"
   },
   {
+    "VITAL SIGNS": "TEST"
+  },
+  {
+    "afebrile": "PROBLEM"
+  },
+  {
     "hypertensive": "PROBLEM"
   },
   {
-    "pulse": "TEST"
+    "175/104": "TEST"
+  },
+  {
+    "pulse 117": "TEST"
   },
   {
     "cocaine": "DRUG"

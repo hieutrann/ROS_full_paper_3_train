@@ -30,13 +30,10 @@
     "pain": "PROBLEM"
   },
   {
-    "supplements": "DRUG"
-  },
-  {
     "loose bowel movements": "PROBLEM"
   },
   {
-    "no bladder control": "PROBLEM"
+    "bladder control": "PROBLEM"
   },
   {
     "pain in her hips": "PROBLEM"
@@ -66,9 +63,6 @@
     "Peripheral neuropathy": "PROBLEM"
   },
   {
-    "atypical symptoms": "PROBLEM"
-  },
-  {
     "Hypothyroidism": "PROBLEM"
   },
   {
@@ -84,7 +78,7 @@
     "Abdominal pain": "PROBLEM"
   },
   {
-    "nonspecific irritable bowel type symptoms": "PROBLEM"
+    "irritable bowel type symptoms": "PROBLEM"
   },
   {
     "intermittent diarrhea": "PROBLEM"
@@ -105,7 +99,10 @@
     "chills": "PROBLEM"
   },
   {
-    "hearing": "PROBLEM"
+    "weight change": "PROBLEM"
+  },
+  {
+    "hearing": "TEST"
   },
   {
     "epistaxis": "PROBLEM"
@@ -207,9 +204,6 @@
     "bleeding-type symptoms": "PROBLEM"
   },
   {
-    "WEIGHT": "TEST"
-  },
-  {
     "BP": "TEST"
   },
   {
@@ -220,6 +214,12 @@
   },
   {
     "acute distress": "PROBLEM"
+  },
+  {
+    "Pupils": "TEST"
+  },
+  {
+    "Ear canals": "TEST"
   },
   {
     "TMs": "TEST"
@@ -234,6 +234,9 @@
     "asymmetry": "PROBLEM"
   },
   {
+    "range of motion": "TEST"
+  },
+  {
     "thyromegaly": "PROBLEM"
   },
   {
@@ -244,6 +247,12 @@
   },
   {
     "Rate and rhythm": "TEST"
+  },
+  {
+    "S1": "TEST"
+  },
+  {
+    "S2": "TEST"
   },
   {
     "murmur": "PROBLEM"

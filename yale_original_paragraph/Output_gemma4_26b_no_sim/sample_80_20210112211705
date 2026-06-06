@@ -1,5 +1,11 @@
 [
   {
+    "hysterectomy": "TREATMENT"
+  },
+  {
+    "total vaginal hysterectomy": "TREATMENT"
+  },
+  {
     "Menorrhagia": "PROBLEM"
   },
   {
@@ -9,16 +15,10 @@
     "Pelvic pain": "PROBLEM"
   },
   {
-    "total vaginal hysterectomy": "TREATMENT"
-  },
-  {
     "vaginal hysterectomy": "TREATMENT"
   },
   {
     "abnormal menstrual bleeding": "PROBLEM"
-  },
-  {
-    "increase in flow": "PROBLEM"
   },
   {
     "back pain": "PROBLEM"

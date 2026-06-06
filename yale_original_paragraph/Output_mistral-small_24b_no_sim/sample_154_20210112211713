@@ -1,6 +1,6 @@
 [
   {
-    "cardiac catheterization": "TREATMENT"
+    "cardiac catheterization": "TEST"
   },
   {
     "Coronary artery disease": "PROBLEM"
@@ -21,31 +21,7 @@
     "lesion": "PROBLEM"
   },
   {
-    "deconditioning": "PROBLEM"
-  },
-  {
-    "cardiac catheterization": "TREATMENT"
-  },
-  {
-    "Coronary artery disease": "PROBLEM"
-  },
-  {
-    "chest pain": "PROBLEM"
-  },
-  {
-    "diabetes": "PROBLEM"
-  },
-  {
-    "hypertension": "PROBLEM"
-  },
-  {
-    "obesity": "PROBLEM"
-  },
-  {
-    "lesion": "PROBLEM"
-  },
-  {
-    "deconditioning": "PROBLEM"
+    "Deconditioning": "PROBLEM"
   },
   {
     "Cardiology": "TEST"
@@ -57,6 +33,9 @@
     "MRI": "TEST"
   },
   {
+    "brain": "TEST"
+  },
+  {
     "Lower extremity Duplex ultrasound": "TEST"
   },
   {
@@ -64,6 +43,9 @@
   },
   {
     "chest pressure": "PROBLEM"
+  },
+  {
+    "breath": "PROBLEM"
   },
   {
     "myocardial infarction": "PROBLEM"
@@ -84,9 +66,6 @@
     "Cardiology": "TEST"
   },
   {
-    "cardiac cath": "TREATMENT"
-  },
-  {
     "amaurosis fugax": "PROBLEM"
   },
   {
@@ -99,7 +78,7 @@
     "Neurology": "TEST"
   },
   {
-    "cardiac cath": "TREATMENT"
+    "cardiac cath": "TEST"
   },
   {
     "Aspirin": "DRUG"
@@ -120,6 +99,6 @@
     "Protonix": "DRUG"
   },
   {
-    "cardiac cath": "TREATMENT"
+    "cardiac cath": "TEST"
   }
 ]

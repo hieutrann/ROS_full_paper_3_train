@@ -33,7 +33,7 @@
     "amylase": "TEST"
   },
   {
-    "lipase count": "TEST"
+    "lipase": "TEST"
   },
   {
     "acute pancreatitis": "PROBLEM"
@@ -102,25 +102,16 @@
     "jugular venous distention": "PROBLEM"
   },
   {
-    "Carotids": "TEST"
-  },
-  {
     "bruit": "PROBLEM"
   },
   {
     "Thyroid gland": "PROBLEM"
   },
   {
-    "palpable lymph nodes": "PROBLEM"
+    "lymph nodes": "PROBLEM"
   },
   {
-    "S1 and S2": "TEST"
-  },
-  {
-    "ABDOMEN": "TEST"
-  },
-  {
-    "diffusely tender": "PROBLEM"
+    "tender": "PROBLEM"
   },
   {
     "rebound": "PROBLEM"
@@ -139,9 +130,6 @@
   },
   {
     "pedal edema": "PROBLEM"
-  },
-  {
-    "dorsalis pedis pulsations": "TEST"
   },
   {
     "decubitus": "PROBLEM"
@@ -175,6 +163,15 @@
   },
   {
     "Urinalysis": "TEST"
+  },
+  {
+    "nitrite": "TEST"
+  },
+  {
+    "wbc's": "TEST"
+  },
+  {
+    "bacteria": "PROBLEM"
   },
   {
     "Sodium": "TEST"
@@ -246,7 +243,7 @@
     "fatty infiltration": "PROBLEM"
   },
   {
-    "CBC": "TEST"
+    "Repeat CBC": "TEST"
   },
   {
     "white count": "TEST"
@@ -267,31 +264,31 @@
     "bands": "TEST"
   },
   {
-    "Sodium 132": "TEST"
+    "Sodium": "TEST"
   },
   {
-    "potassium 4.0": "TEST"
+    "potassium": "TEST"
   },
   {
-    "chloride 98": "TEST"
+    "chloride": "TEST"
   },
   {
-    "bicarbonate 22": "TEST"
+    "bicarbonate": "TEST"
   },
   {
-    "glucose 184": "TEST"
+    "glucose": "TEST"
   },
   {
-    "ALT 314": "TEST"
+    "ALT": "TEST"
   },
   {
-    "AST 382": "TEST"
+    "AST": "TEST"
   },
   {
-    "amylase 918": "TEST"
+    "amylase": "TEST"
   },
   {
-    "lipase 1331": "TEST"
+    "lipase": "TEST"
   },
   {
     "cultures": "TEST"
@@ -333,7 +330,7 @@
     "hypertension": "PROBLEM"
   },
   {
-    "Abnormal electrocardiogram": "TEST"
+    "electrocardiogram": "TEST"
   },
   {
     "Osteoarthrosis": "PROBLEM"
@@ -357,7 +354,10 @@
     "DVT prophylaxis": "TREATMENT"
   },
   {
-    "blood and urine cultures": "TEST"
+    "blood cultures": "TEST"
+  },
+  {
+    "urine cultures": "TEST"
   },
   {
     "leukocytosis": "PROBLEM"

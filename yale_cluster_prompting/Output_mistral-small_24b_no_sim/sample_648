@@ -6,6 +6,9 @@
     "acute COPD exacerbation": "PROBLEM"
   },
   {
+    "ADMISSION DIAGNOSIS (ES)": "PROBLEM"
+  },
+  {
     "Chronic obstructive pulmonary disease": "PROBLEM"
   },
   {
@@ -33,6 +36,9 @@
     "Hypertension": "PROBLEM"
   },
   {
+    "DISCHARGE DIAGNOSIS (ES)": "PROBLEM"
+  },
+  {
     "Severe chronic obstructive pulmonary disease": "PROBLEM"
   },
   {
@@ -48,9 +54,6 @@
     "somnolent": "PROBLEM"
   },
   {
-    "medications": "DRUG"
-  },
-  {
     "Lower gastrointestinal bleed": "PROBLEM"
   },
   {
@@ -58,6 +61,9 @@
   },
   {
     "diverticular bleed": "PROBLEM"
+  },
+  {
+    "DISCHARGE MEDICATIONS": "DRUG"
   },
   {
     "Albuterol inhaler": "DRUG"
@@ -84,22 +90,13 @@
     "Statin oral suspension": "DRUG"
   },
   {
-    "q.i.d.": "DRUG"
-  },
-  {
     "Paxil": "DRUG"
   },
   {
     "Prednisone": "DRUG"
   },
   {
-    "Darvocet": "DRUG"
-  },
-  {
-    "Darvocet-N 100": "DRUG"
-  },
-  {
-    "pain": "PROBLEM"
+    "Darvocet Darvocet-N 100": "DRUG"
   },
   {
     "Metamucil": "DRUG"
@@ -114,7 +111,7 @@
     "shortness of breath": "PROBLEM"
   },
   {
-    "COPD": "PROBLEM"
+    "COPD exacerbation": "PROBLEM"
   },
   {
     "BiPAP": "TREATMENT"
@@ -135,25 +132,16 @@
     "acute lower GI bleed": "PROBLEM"
   },
   {
-    "intensive care unit": "TREATMENT"
-  },
-  {
-    "packed red blood cells": "DRUG"
-  },
-  {
-    "GI": "PROBLEM"
-  },
-  {
-    "endoscopy": "TEST"
+    "packed red blood cells": "TREATMENT"
   },
   {
     "diverticular disease": "PROBLEM"
   },
   {
-    "sigmoid colon": "PROBLEM"
+    "hemorrhage": "PROBLEM"
   },
   {
-    "hemorrhage": "PROBLEM"
+    "endoscopy": "TEST"
   },
   {
     "Plavix": "DRUG"
@@ -168,7 +156,7 @@
     "respiratory status": "PROBLEM"
   },
   {
-    "She": "PROBLEM"
+    "diagnostic pulmonary": "TEST"
   },
   {
     "chronic obstructive pulmonary disease": "PROBLEM"
@@ -205,9 +193,6 @@
   },
   {
     "pulmonary disease": "PROBLEM"
-  },
-  {
-    "discharge": "TREATMENT"
   },
   {
     "inhaler": "DRUG"

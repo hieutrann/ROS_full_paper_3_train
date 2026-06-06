@@ -12,6 +12,9 @@
     "osteoarthritis": "PROBLEM"
   },
   {
+    "Caucasian": "PROBLEM"
+  },
+  {
     "hypertension": "PROBLEM"
   },
   {
@@ -36,7 +39,7 @@
     "osteoarthritis": "PROBLEM"
   },
   {
-    "knee": "PROBLEM"
+    "left knee": "PROBLEM"
   },
   {
     "total knee replacement": "TREATMENT"
@@ -51,10 +54,10 @@
     "stroke": "PROBLEM"
   },
   {
-    "shortness of breath": "PROBLEM"
+    "cardiac disease": "PROBLEM"
   },
   {
-    "cardiac disease": "PROBLEM"
+    "shortness of breath": "PROBLEM"
   },
   {
     "lipid panel": "TEST"
@@ -70,6 +73,9 @@
   },
   {
     "LDL": "TEST"
+  },
+  {
+    "nonsmoker": "PROBLEM"
   },
   {
     "fasting glucose": "TEST"
@@ -91,9 +97,6 @@
   },
   {
     "X-ray": "TEST"
-  },
-  {
-    "low back": "PROBLEM"
   },
   {
     "compression fracture": "PROBLEM"
@@ -120,16 +123,13 @@
     "arthritis": "PROBLEM"
   },
   {
-    "bone density": "PROBLEM"
+    "DEXA scan": "TEST"
   },
   {
     "compression fractures": "PROBLEM"
   },
   {
     "osteoporosis": "PROBLEM"
-  },
-  {
-    "treatment": "TREATMENT"
   },
   {
     "Hydrochlorothiazide": "DRUG"
@@ -171,6 +171,12 @@
     "vomiting": "PROBLEM"
   },
   {
+    "adhesive tape": "TREATMENT"
+  },
+  {
+    "PAST MEDICAL HISTORY": "TEST"
+  },
+  {
     "Hypertension": "PROBLEM"
   },
   {
@@ -180,7 +186,7 @@
     "Myofascitis": "PROBLEM"
   },
   {
-    "Severe osteoarthritis": "PROBLEM"
+    "osteoarthritis": "PROBLEM"
   },
   {
     "knee": "PROBLEM"
@@ -195,22 +201,28 @@
     "Holter monitor": "TEST"
   },
   {
-    "ectopic beat": "PROBLEM"
-  },
-  {
     "Echocardiogram": "TEST"
   },
   {
     "Compression fracture": "PROBLEM"
   },
   {
-    "L1": "PROBLEM"
-  },
-  {
     "DEXA scan": "TEST"
   },
   {
+    "nonsmoker": "PROBLEM"
+  },
+  {
+    "nondrinker": "PROBLEM"
+  },
+  {
+    "HPI": "TEST"
+  },
+  {
     "overweight": "PROBLEM"
+  },
+  {
+    "Weight": "TEST"
   },
   {
     "Blood pressure": "TEST"
@@ -225,22 +237,13 @@
     "Temperature": "TEST"
   },
   {
-    "Neck": "TEST"
+    "Neck": "PROBLEM"
   },
   {
     "Carotids": "TEST"
   },
   {
     "Chest": "PROBLEM"
-  },
-  {
-    "rate": "TEST"
-  },
-  {
-    "rhythm": "TEST"
-  },
-  {
-    "murmur": "PROBLEM"
   },
   {
     "S3": "TEST"
@@ -259,9 +262,6 @@
   },
   {
     "AV block": "PROBLEM"
-  },
-  {
-    "R-wave progression": "TEST"
   },
   {
     "Hypertension": "PROBLEM"
@@ -306,7 +306,13 @@
     "Fosamax": "DRUG"
   },
   {
+    "water": "TREATMENT"
+  },
+  {
     "Fosamax": "DRUG"
+  },
+  {
+    "medications": "DRUG"
   },
   {
     "EKG": "TEST"
@@ -339,19 +345,22 @@
     "compression fracture": "PROBLEM"
   },
   {
-    "osteoarthritis of the knee": "PROBLEM"
-  },
-  {
-    "osteoarthritis": "PROBLEM"
-  },
-  {
     "chest x-ray": "TEST"
+  },
+  {
+    "osteoarthritis of the knee": "PROBLEM"
   },
   {
     "dexa scan": "TEST"
   },
   {
     "dexa": "TEST"
+  },
+  {
+    "osteoarthritis": "PROBLEM"
+  },
+  {
+    "cardiac": "PROBLEM"
   },
   {
     "compression": "PROBLEM"

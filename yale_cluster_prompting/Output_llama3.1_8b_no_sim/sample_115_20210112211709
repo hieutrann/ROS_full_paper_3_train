@@ -12,10 +12,10 @@
     "chemical pleurodesis": "TREATMENT"
   },
   {
-    "patient pronounced expired": "PROBLEM"
+    "expired": "PROBLEM"
   },
   {
-    "DISCHARGE DIAGNOSES": "TEST"
+    "DISCHARGE DIAGNOSES": "PROBLEM"
   },
   {
     "non-small cell lung carcinoma": "PROBLEM"
@@ -30,25 +30,25 @@
     "chemical pleurodesis": "TREATMENT"
   },
   {
-    "2": "TREATMENT"
+    "2": "PROBLEM"
   },
   {
     "Respiratory failure": "PROBLEM"
   },
   {
-    "3": "TREATMENT"
+    "3": "PROBLEM"
   },
   {
     "postobstructive pneumonia": "PROBLEM"
   },
   {
-    "4": "TREATMENT"
+    "4": "PROBLEM"
   },
   {
     "Gastrointestinal bleed": "PROBLEM"
   },
   {
-    "5": "TEST"
+    "5": "PROBLEM"
   },
   {
     "Thrombocytopenia": "PROBLEM"
@@ -60,13 +60,13 @@
     "Acute renal failure": "PROBLEM"
   },
   {
-    "7": "TREATMENT"
+    "7": "PROBLEM"
   },
   {
     "Hyponatremia": "PROBLEM"
   },
   {
-    "8": "TEST"
+    "8": "PROBLEM"
   },
   {
     "Hypercalcemia": "PROBLEM"
@@ -84,7 +84,7 @@
     "bones": "PROBLEM"
   },
   {
-    "9": "TEST"
+    "9": "PROBLEM"
   },
   {
     "Leukemoid reaction": "PROBLEM"
@@ -96,19 +96,10 @@
     "10": "PROBLEM"
   },
   {
-    "liver function tests": "TEST"
+    "Elevated liver function tests": "PROBLEM"
   },
   {
-    "African American": "PROBLEM"
-  },
-  {
-    "male": "PROBLEM"
-  },
-  {
-    "Dr": "PROBLEM"
-  },
-  {
-    "X": "PROBLEM"
+    "This is a 53-year-old African American male patient": "PROBLEM"
   },
   {
     "right hip pain": "PROBLEM"
@@ -117,31 +108,28 @@
     "cough": "PROBLEM"
   },
   {
-    "CT scan": "TEST"
-  },
-  {
     "pleural effusion": "PROBLEM"
   },
   {
     "mediastinal mass": "PROBLEM"
   },
   {
-    "adenopathy": "PROBLEM"
+    "hilar adenopathy": "PROBLEM"
   },
   {
-    "obstruction": "PROBLEM"
+    "obstruction of the left lower lobe": "PROBLEM"
   },
   {
-    "nodules": "PROBLEM"
+    "obstruction of the lingula": "PROBLEM"
   },
   {
-    "lingula": "PROBLEM"
+    "obstruction of the left pulmonary vein": "PROBLEM"
   },
   {
-    "pulmonary vein": "PROBLEM"
+    "multiple nodules": "PROBLEM"
   },
   {
-    "hilar": "PROBLEM"
+    "CT scan": "TEST"
   },
   {
     "metastatic disease": "PROBLEM"
@@ -150,13 +138,13 @@
     "osseous metastatic disease": "PROBLEM"
   },
   {
-    "scapula": "PROBLEM"
+    "the right scapula": "PROBLEM"
   },
   {
-    "pleural effusion": "PROBLEM"
+    "a left large pleural effusion": "PROBLEM"
   },
   {
-    "shortness of breath": "PROBLEM"
+    "severe shortness of breath": "PROBLEM"
   },
   {
     "chest pain": "PROBLEM"
@@ -168,7 +156,7 @@
     "malignant cells": "PROBLEM"
   },
   {
-    "left-sided chest tube": "TREATMENT"
+    "a left-sided chest tube": "TREATMENT"
   },
   {
     "right hip pain": "PROBLEM"
@@ -183,9 +171,6 @@
     "non-small cell lung CA": "PROBLEM"
   },
   {
-    "consultants": "TREATMENT"
-  },
-  {
     "respiratory failure": "PROBLEM"
   },
   {
@@ -198,16 +183,10 @@
     "respiratory failure": "PROBLEM"
   },
   {
-    "respiratory failure": "PROBLEM"
-  },
-  {
-    "Dr": "TREATMENT"
+    "Dr.": "TREATMENT"
   },
   {
     "chemotherapy": "TREATMENT"
-  },
-  {
-    "ventilator": "TREATMENT"
   },
   {
     "deteriorated": "PROBLEM"
@@ -228,12 +207,9 @@
     "pleural effusion": "PROBLEM"
   },
   {
-    "dnr": "TREATMENT"
+    "death summary": "PROBLEM"
   },
   {
-    "death summary": "TEST"
-  },
-  {
-    "extubated": "TREATMENT"
+    "dnr": "PROBLEM"
   }
 ]

@@ -27,9 +27,6 @@
     "photophobia": "PROBLEM"
   },
   {
-    "Surgeries": "TREATMENT"
-  },
-  {
     "Dislocated wrist": "PROBLEM"
   },
   {
@@ -37,12 +34,6 @@
   },
   {
     "hypertension": "PROBLEM"
-  },
-  {
-    "PHYSICAL EXAMINATION": "TEST"
-  },
-  {
-    "Vital signs": "TEST"
   },
   {
     "Blood pressure": "TEST"
@@ -66,16 +57,13 @@
     "Conjunctiva are severely injected": "PROBLEM"
   },
   {
-    "small metallic foreign body": "PROBLEM"
+    "metallic foreign body": "PROBLEM"
   },
   {
     "slit lamp": "TEST"
   },
   {
-    "Foreign body OS": "PROBLEM"
-  },
-  {
-    "removal of the foreign body": "TREATMENT"
+    "Foreign body": "PROBLEM"
   },
   {
     "foreign body": "PROBLEM"

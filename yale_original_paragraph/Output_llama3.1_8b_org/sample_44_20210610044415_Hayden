@@ -1,1 +1,1 @@
-['[\n  {"Microinvasive carcinoma of the cervix": "PROBLEM"},\n  {"Total vaginal hysterectomy": "TREATMENT"},\n  {"Vicodin": "DRUG"},\n  {"Motrin": "DRUG"},\n  {"Macrodantin": "DRUG"}\n]']
+['[\n  {"cervix": "PROBLEM"},\n  {"Vicodin": "DRUG"},\n  {"Motrin": "DRUG"},\n  {"Macrodantin": "DRUG"},\n  {"Chest x-ray": "TEST"},\n  {"hysterectomy": "TREATMENT"},\n  {"cone biopsy": "TEST"},\n  {"Pap smear": "TEST"}\n]']

@@ -1,0 +1,119 @@
+[
+  {
+    "cold symptoms": "PROBLEM"
+  },
+  {
+    "bronchitis": "PROBLEM"
+  },
+  {
+    "antibiotics": "TREATMENT"
+  },
+  {
+    "Acute respiratory failure": "PROBLEM"
+  },
+  {
+    "Severe bronchitis": "PROBLEM"
+  },
+  {
+    "acute respiratory failure": "PROBLEM"
+  },
+  {
+    "Acute on chronic renal failure": "PROBLEM"
+  },
+  {
+    "Severe hypertension": "PROBLEM"
+  },
+  {
+    "Diastolic dysfunction": "PROBLEM"
+  },
+  {
+    "X-ray": "TEST"
+  },
+  {
+    "congestion": "PROBLEM"
+  },
+  {
+    "pro-BNP": "TEST"
+  },
+  {
+    "Hyperlipidemia": "PROBLEM"
+  },
+  {
+    "cardiac catheterization": "TEST"
+  },
+  {
+    "coronary artery disease": "PROBLEM"
+  },
+  {
+    "carcinoma of the breast": "PROBLEM"
+  },
+  {
+    "right nephrectomy": "TREATMENT"
+  },
+  {
+    "Allergic rhinitis": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "wheezing": "PROBLEM"
+  },
+  {
+    "crepitations": "PROBLEM"
+  },
+  {
+    "X-rays": "TEST"
+  },
+  {
+    "infiltrates": "PROBLEM"
+  },
+  {
+    "hypoxic": "PROBLEM"
+  },
+  {
+    "nasal cannula": "TREATMENT"
+  },
+  {
+    "IV steroids": "TREATMENT"
+  },
+  {
+    "IV Lasix": "DRUG"
+  },
+  {
+    "MRSA colonization": "PROBLEM"
+  },
+  {
+    "O2 saturation": "TEST"
+  },
+  {
+    "exercise oximetry": "TEST"
+  },
+  {
+    "nasal congestion": "PROBLEM"
+  },
+  {
+    "steroid nasal spray": "TREATMENT"
+  },
+  {
+    "beta blockers": "DRUG"
+  },
+  {
+    "diastolic dysfunction": "PROBLEM"
+  },
+  {
+    "oral steroids": "DRUG"
+  },
+  {
+    "Metoprolol": "DRUG"
+  },
+  {
+    "Simvastatin": "DRUG"
+  },
+  {
+    "Prednisone": "DRUG"
+  },
+  {
+    "Flonase nasal spray": "DRUG"
+  }
+]

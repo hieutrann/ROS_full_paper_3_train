@@ -12,15 +12,21 @@
     "Claritin": "DRUG"
   },
   {
+    "x-rays": "TEST"
+  },
+  {
+    "physical examination": "TEST"
+  },
+  {
     "Neer's and Hawkins impingement testing": "TEST"
   },
   {
     "sulcus, apprehension, Speed's and Yergason's testing": "TEST"
   },
   {
-    "Two view x-rays": "TEST"
+    "MRI": "TEST"
   },
   {
-    "MRI": "TEST"
+    "physical therapy": "TREATMENT"
   }
 ]

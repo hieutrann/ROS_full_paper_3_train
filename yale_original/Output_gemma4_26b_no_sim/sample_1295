@@ -18,13 +18,16 @@
     "Innocent heart murmur": "PROBLEM"
   },
   {
-    "acute onset of congestion": "PROBLEM"
+    "congestion": "PROBLEM"
   },
   {
     "RSV": "PROBLEM"
   },
   {
     "acute bronchiolitis": "PROBLEM"
+  },
+  {
+    "room air": "TREATMENT"
   },
   {
     "RSV bronchiolitis": "PROBLEM"
@@ -48,7 +51,7 @@
     "tachypnea": "PROBLEM"
   },
   {
-    "increased retractions": "PROBLEM"
+    "retractions": "PROBLEM"
   },
   {
     "grunting": "PROBLEM"
@@ -63,9 +66,6 @@
     "respiratory distress": "PROBLEM"
   },
   {
-    "anterior fontanelle": "PROBLEM"
-  },
-  {
     "upper airway congestion": "PROBLEM"
   },
   {
@@ -78,13 +78,16 @@
     "capillary refill": "TEST"
   },
   {
+    "coarseness": "PROBLEM"
+  },
+  {
     "breath sounds": "TEST"
   },
   {
     "wheezes": "PROBLEM"
   },
   {
-    "scattered crackles": "PROBLEM"
+    "crackles": "PROBLEM"
   },
   {
     "respiratory distress": "PROBLEM"
@@ -96,7 +99,19 @@
     "DISCHARGE WEIGHT": "TEST"
   },
   {
+    "smoke": "PROBLEM"
+  },
+  {
+    "hand washings": "TREATMENT"
+  },
+  {
     "Regular diet": "TREATMENT"
+  },
+  {
+    "breast-feeding": "TREATMENT"
+  },
+  {
+    "oral intake": "TREATMENT"
   },
   {
     "albuterol MDI": "DRUG"
@@ -109,18 +124,6 @@
   },
   {
     "dyspnea": "PROBLEM"
-  },
-  {
-    "bulb suctioning": "TREATMENT"
-  },
-  {
-    "saline": "TREATMENT"
-  },
-  {
-    "difficulty breathing": "PROBLEM"
-  },
-  {
-    "stops breathing": "PROBLEM"
   },
   {
     "bronchiolitis": "PROBLEM"

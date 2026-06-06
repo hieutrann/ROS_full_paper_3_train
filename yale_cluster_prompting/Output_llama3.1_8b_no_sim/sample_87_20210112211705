@@ -3,19 +3,19 @@
     "pneumonia": "PROBLEM"
   },
   {
-    "blood count": "TEST"
+    "positive blood count": "TEST"
   },
   {
     "vomiting": "PROBLEM"
   },
   {
-    "seizure": "PROBLEM"
+    "a probable seizure": "PROBLEM"
   },
   {
     "pneumonia": "PROBLEM"
   },
   {
-    "blood count": "TEST"
+    "positive blood count": "TEST"
   },
   {
     "IV antibiotics": "DRUG"
@@ -27,7 +27,7 @@
     "antibiotics": "DRUG"
   },
   {
-    "temperature": "TEST"
+    "temperature of 102": "PROBLEM"
   },
   {
     "strep": "PROBLEM"
@@ -39,28 +39,25 @@
     "vomiting": "PROBLEM"
   },
   {
-    "seizure": "PROBLEM"
+    "a probable seizure": "PROBLEM"
   },
   {
-    "Temperature": "TEST"
+    "104.5": "PROBLEM"
   },
   {
-    "lethargic": "PROBLEM"
-  },
-  {
-    "LP": "TEST"
+    "an LP": "TEST"
   },
   {
     "blood cultures": "TEST"
   },
   {
-    "CSF": "TEST"
+    "CSF": "PROBLEM"
   },
   {
-    "anesthesia": "TREATMENT"
+    "anesthesia": "PROBLEM"
   },
   {
-    "Head, eyes, ears, nose and throat": "TEST"
+    "Head, eyes, ears, nose and throat": "PROBLEM"
   },
   {
     "auscultation": "TEST"
@@ -72,22 +69,22 @@
     "Abdomen": "PROBLEM"
   },
   {
-    "Extremities": "PROBLEM"
+    "unremarkable": "PROBLEM"
   },
   {
     "White count": "TEST"
   },
   {
-    "shift": "PROBLEM"
+    "a slight shift": "TEST"
   },
   {
-    "CSF glucose": "TEST"
+    "CSF glucose": "PROBLEM"
   },
   {
-    "protein": "TEST"
+    "protein": "PROBLEM"
   },
   {
-    "cells": "TEST"
+    "cells": "PROBLEM"
   },
   {
     "Gram-stain": "TEST"
@@ -96,22 +93,19 @@
     "febrile seizure": "PROBLEM"
   },
   {
-    "temperature": "TEST"
+    "temperature": "PROBLEM"
   },
   {
     "white count": "TEST"
   },
   {
-    "overnight": "TREATMENT"
-  },
-  {
-    "general medicine": "PROBLEM"
-  },
-  {
-    "antibiotics": "DRUG"
-  },
-  {
     "febrile seizure": "PROBLEM"
+  },
+  {
+    "pneumonia": "PROBLEM"
+  },
+  {
+    "seizure": "PROBLEM"
   },
   {
     "temperature": "TEST"
@@ -123,9 +117,6 @@
     "white count": "TEST"
   },
   {
-    "pneumonia": "PROBLEM"
-  },
-  {
-    "seizure": "PROBLEM"
+    "antibiotics": "DRUG"
   }
 ]

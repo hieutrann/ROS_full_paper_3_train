@@ -6,10 +6,13 @@
     "stroke": "PROBLEM"
   },
   {
+    "cognitive linguistic deficits": "PROBLEM"
+  },
+  {
     "speech therapy": "TREATMENT"
   },
   {
-    "cognitive linguistic deficits": "PROBLEM"
+    "skilled speech therapy": "TREATMENT"
   },
   {
     "Cognitive linguistic impairment": "PROBLEM"
@@ -18,16 +21,13 @@
     "stroke": "PROBLEM"
   },
   {
-    "speech therapy": "TREATMENT"
-  },
-  {
     "cognitive linguistic deficits": "PROBLEM"
   },
   {
-    "Medical Center": "TEST"
+    "speech therapy": "TREATMENT"
   },
   {
-    "Outpatient Rehabilitation Department": "TEST"
+    "skilled speech therapy": "TREATMENT"
   },
   {
     "difficulty with generative naming": "PROBLEM"
@@ -45,10 +45,10 @@
     "cognitive linguistic abilities": "PROBLEM"
   },
   {
-    "therapy goals": "TREATMENT"
+    "therapy": "TREATMENT"
   },
   {
-    "functional mass tasks": "PROBLEM"
+    "functional mass tasks": "TEST"
   },
   {
     "narrative": "TEST"
@@ -60,16 +60,10 @@
     "details": "TEST"
   },
   {
-    "newspaper article": "TEST"
+    "newspaper article": "PROBLEM"
   },
   {
-    "15 minute delay": "TEST"
-  },
-  {
-    "independently": "TREATMENT"
-  },
-  {
-    "independently": "TREATMENT"
+    "state 15 items in a broad category": "TEST"
   },
   {
     "mental flexibility": "PROBLEM"
@@ -84,10 +78,10 @@
     "teaching": "TREATMENT"
   },
   {
-    "independence": "PROBLEM"
+    "independence": "TREATMENT"
   },
   {
-    "safety": "PROBLEM"
+    "safety": "TREATMENT"
   },
   {
     "speech therapy": "TREATMENT"
@@ -103,9 +97,6 @@
   },
   {
     "speech therapy": "TREATMENT"
-  },
-  {
-    "skilled speech therapy": "TREATMENT"
   },
   {
     "linguistic impairment": "PROBLEM"

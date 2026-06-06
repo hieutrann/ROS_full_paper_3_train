@@ -45,9 +45,6 @@
     "stroke risk": "PROBLEM"
   },
   {
-    "cardiac disease": "PROBLEM"
-  },
-  {
     "shortness of breath with exertion": "PROBLEM"
   },
   {
@@ -100,9 +97,6 @@
   },
   {
     "arthritis": "PROBLEM"
-  },
-  {
-    "bone density reading on DEXA scan": "TEST"
   },
   {
     "osteoporosis": "PROBLEM"
@@ -159,9 +153,6 @@
     "Severe osteoarthritis of the knee": "PROBLEM"
   },
   {
-    "Removal of the melanoma": "TREATMENT"
-  },
-  {
     "melanoma": "PROBLEM"
   },
   {
@@ -186,9 +177,6 @@
     "overweight": "PROBLEM"
   },
   {
-    "Vital signs": "TEST"
-  },
-  {
     "Blood pressure": "TEST"
   },
   {
@@ -207,10 +195,10 @@
     "normal sinus rhythm": "PROBLEM"
   },
   {
-    "first degree AV block": "PROBLEM"
+    "borderline first degree AV block": "PROBLEM"
   },
   {
-    "poor R-wave progression": "PROBLEM"
+    "poor R-wave progression in the anterior leads": "PROBLEM"
   },
   {
     "Hypertension": "PROBLEM"
@@ -240,51 +228,9 @@
     "Fosamax": "DRUG"
   },
   {
-    "preoperative evaluation": "TEST"
-  },
-  {
     "EKG": "TEST"
   },
   {
-    "preoperative cardiac testing": "TEST"
-  },
-  {
     "beta-blocker": "DRUG"
-  },
-  {
-    "hypertension": "PROBLEM"
-  },
-  {
-    "chest pain": "PROBLEM"
-  },
-  {
-    "lightheadedness": "PROBLEM"
-  },
-  {
-    "shortness of breath": "PROBLEM"
-  },
-  {
-    "osteoporosis": "PROBLEM"
-  },
-  {
-    "cerebrovascular accident": "PROBLEM"
-  },
-  {
-    "compression fracture": "PROBLEM"
-  },
-  {
-    "chest x-ray": "TEST"
-  },
-  {
-    "osteoarthritis of the knee": "PROBLEM"
-  },
-  {
-    "dexa scan": "TEST"
-  },
-  {
-    "dexa": "TEST"
-  },
-  {
-    "osteoarthritis": "PROBLEM"
   }
 ]

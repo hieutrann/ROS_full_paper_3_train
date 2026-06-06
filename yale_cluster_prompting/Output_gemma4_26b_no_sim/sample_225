@@ -24,7 +24,7 @@
     "photophobia": "PROBLEM"
   },
   {
-    "Focal left eye pain": "PROBLEM"
+    "left eye pain": "PROBLEM"
   },
   {
     "visual acuity": "TEST"
@@ -33,43 +33,13 @@
     "photophobia": "PROBLEM"
   },
   {
-    "cardiac": "PROBLEM"
-  },
-  {
-    "pulmonary": "PROBLEM"
-  },
-  {
-    "GI": "PROBLEM"
-  },
-  {
-    "GU": "PROBLEM"
-  },
-  {
-    "neurologic": "PROBLEM"
-  },
-  {
-    "musculoskeletal": "PROBLEM"
-  },
-  {
-    "endocrine": "PROBLEM"
-  },
-  {
-    "immunologic": "PROBLEM"
-  },
-  {
     "Dislocated wrist": "PROBLEM"
-  },
-  {
-    "smokes": "PROBLEM"
   },
   {
     "Cancer": "PROBLEM"
   },
   {
     "hypertension": "PROBLEM"
-  },
-  {
-    "Vital signs": "TEST"
   },
   {
     "Blood pressure": "TEST"
@@ -90,7 +60,7 @@
     "slit lamp examination": "TEST"
   },
   {
-    "Conjunctiva are severely injected": "PROBLEM"
+    "injected": "PROBLEM"
   },
   {
     "metallic foreign body": "PROBLEM"
@@ -99,7 +69,7 @@
     "slit lamp": "TEST"
   },
   {
-    "Foreign body OS": "PROBLEM"
+    "Foreign body OS.": "PROBLEM"
   },
   {
     "removal of the foreign body": "TREATMENT"

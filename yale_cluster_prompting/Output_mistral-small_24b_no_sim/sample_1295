@@ -9,6 +9,9 @@
     "Innocent heart murmur": "PROBLEM"
   },
   {
+    "DIAGNOSES": "PROBLEM"
+  },
+  {
     "Bronchiolitis": "PROBLEM"
   },
   {
@@ -30,7 +33,7 @@
     "RSV bronchiolitis": "PROBLEM"
   },
   {
-    "eating well": "PROBLEM"
+    "eating": "PROBLEM"
   },
   {
     "heart murmur": "PROBLEM"
@@ -45,13 +48,13 @@
     "perihilar infiltrate": "PROBLEM"
   },
   {
-    "increased respiratory distress": "PROBLEM"
+    "lungs": "PROBLEM"
   },
   {
     "tachypnea": "PROBLEM"
   },
   {
-    "increased retractions": "PROBLEM"
+    "retractions": "PROBLEM"
   },
   {
     "grunting": "PROBLEM"
@@ -63,25 +66,16 @@
     "albuterol MDI": "DRUG"
   },
   {
-    "doses": "DRUG"
-  },
-  {
     "respiratory distress": "PROBLEM"
   },
   {
-    "VITAL SIGNS": "TEST"
+    "afebrile": "PROBLEM"
   },
   {
-    "Vital signs": "TEST"
-  },
-  {
-    "fontanelle": "PROBLEM"
+    "anterior fontanelle": "PROBLEM"
   },
   {
     "upper airway congestion": "PROBLEM"
-  },
-  {
-    "CARDIOVASCULAR": "TEST"
   },
   {
     "systolic murmur": "PROBLEM"
@@ -90,10 +84,7 @@
     "femoral pulses": "TEST"
   },
   {
-    "extremities": "TEST"
-  },
-  {
-    "LUNGS": "TEST"
+    "coarseness": "PROBLEM"
   },
   {
     "wheezes": "PROBLEM"
@@ -102,16 +93,10 @@
     "crackles": "PROBLEM"
   },
   {
-    "respiratory distress": "PROBLEM"
+    "Tanner I": "PROBLEM"
   },
   {
-    "ABDOMEN": "TEST"
-  },
-  {
-    "Tanner I": "TEST"
-  },
-  {
-    "DISCHARGE WEIGHT": "TEST"
+    "weight": "PROBLEM"
   },
   {
     "smoke": "PROBLEM"
@@ -123,7 +108,7 @@
     "breast-feeding": "TREATMENT"
   },
   {
-    "albuterol": "DRUG"
+    "albuterol MDI": "DRUG"
   },
   {
     "cough": "PROBLEM"
@@ -135,13 +120,16 @@
     "dyspnea": "PROBLEM"
   },
   {
-    "difficulty breathing": "PROBLEM"
+    "bulb suctioning": "TREATMENT"
   },
   {
     "saline": "DRUG"
   },
   {
-    "discharge summary": "TEST"
+    "difficulty breathing": "PROBLEM"
+  },
+  {
+    "stops breathing": "PROBLEM"
   },
   {
     "bronchiolitis": "PROBLEM"

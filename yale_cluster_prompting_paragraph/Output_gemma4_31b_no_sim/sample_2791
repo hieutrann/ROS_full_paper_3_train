@@ -1,6 +1,6 @@
 [
   {
-    "GI Bleed": "PROBLEM"
+    "GI bleed": "PROBLEM"
   },
   {
     "Upper gastrointestinal bleed": "PROBLEM"
@@ -33,7 +33,10 @@
     "hemoglobin": "TEST"
   },
   {
-    "Stool": "TEST"
+    "Stool dark brown": "PROBLEM"
+  },
+  {
+    "OB positive": "TEST"
   },
   {
     "shortness of breath": "PROBLEM"
@@ -66,10 +69,16 @@
     "hypothyroidism": "PROBLEM"
   },
   {
-    "VITAL SIGNS": "TEST"
+    "adenopathy": "PROBLEM"
   },
   {
-    "adenopathy": "PROBLEM"
+    "Irregularly regular": "PROBLEM"
+  },
+  {
+    "gallops": "PROBLEM"
+  },
+  {
+    "organomegaly": "PROBLEM"
   },
   {
     "lower extremity edema": "PROBLEM"
@@ -166,23 +175,5 @@
   },
   {
     "INR": "TEST"
-  },
-  {
-    "gi bleed": "PROBLEM"
-  },
-  {
-    "microcytic anemia": "PROBLEM"
-  },
-  {
-    "cbc": "TEST"
-  },
-  {
-    "endoscopy": "TEST"
-  },
-  {
-    "gi complaints": "PROBLEM"
-  },
-  {
-    "colonoscopy": "TEST"
   }
 ]

@@ -6,21 +6,24 @@
     "stroke": "PROBLEM"
   },
   {
-    "swallowing": "PROBLEM"
-  },
-  {
     "speech therapy": "TREATMENT"
   },
   {
-    "outpatient skilled speech therapy": "TREATMENT"
+    "swallow evaluation": "TEST"
   },
   {
-    "oral mechanism examination": "TEST"
+    "swallowing": "PROBLEM"
   },
   {
-    "clinical swallow evaluation": "TEST"
+    "visual scanning": "PROBLEM"
   },
   {
-    "discharge summary": "TEST"
+    "sustained attention": "PROBLEM"
+  },
+  {
+    "reading": "PROBLEM"
+  },
+  {
+    "comprehension": "PROBLEM"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "decreased ability to perform daily living activities": "PROBLEM"
+    "degenerative joint disease": "PROBLEM"
   },
   {
     "right knee surgery": "PROBLEM"
@@ -9,10 +9,7 @@
     "right total knee replacement": "TREATMENT"
   },
   {
-    "degenerative joint disease": "PROBLEM"
-  },
-  {
-    "DVT prophylaxis": "TREATMENT"
+    "autologous blood": "TREATMENT"
   },
   {
     "Coumadin": "DRUG"
@@ -27,16 +24,7 @@
     "TED stockings": "TREATMENT"
   },
   {
-    "blood pressure": "TEST"
-  },
-  {
-    "pulse": "TEST"
-  },
-  {
-    "respiratory rate": "TEST"
-  },
-  {
-    "O2 saturation": "TEST"
+    "DVT": "PROBLEM"
   },
   {
     "right knee pain": "PROBLEM"
@@ -81,19 +69,28 @@
     "trazodone": "DRUG"
   },
   {
-    "right knee incision": "PROBLEM"
+    "Temperature": "TEST"
   },
   {
-    "right knee edema": "PROBLEM"
+    "blood pressure": "TEST"
   },
   {
-    "ecchymosis": "PROBLEM"
+    "pulse": "TEST"
   },
   {
-    "calf tenderness": "PROBLEM"
+    "respiratory rate": "TEST"
   },
   {
-    "venous Doppler study": "TEST"
+    "O2 saturation": "TEST"
+  },
+  {
+    "CPM machine": "TREATMENT"
+  },
+  {
+    "Ativan": "DRUG"
+  },
+  {
+    "betamethasone cream": "DRUG"
   },
   {
     "UA": "TEST"
@@ -114,10 +111,10 @@
     "platelets": "TEST"
   },
   {
-    "chemistries": "TEST"
+    "Chemistries": "TEST"
   },
   {
-    "creatinine": "TEST"
+    "Creatinine": "TEST"
   },
   {
     "BUN": "TEST"
@@ -129,13 +126,16 @@
     "fasting glucose": "TEST"
   },
   {
-    "Ativan": "DRUG"
+    "venous Doppler study": "TEST"
   },
   {
-    "betamethasone cream": "DRUG"
+    "DVT": "PROBLEM"
   },
   {
     "oxycodone SR": "DRUG"
+  },
+  {
+    "INR": "TEST"
   },
   {
     "Protonix": "DRUG"
@@ -144,24 +144,21 @@
     "Diprosone cream": "DRUG"
   },
   {
+    "trazodone": "DRUG"
+  },
+  {
+    "Ativan": "DRUG"
+  },
+  {
+    "Toprol-XL": "DRUG"
+  },
+  {
+    "Coumadin": "DRUG"
+  },
+  {
     "INR": "TEST"
   },
   {
-    "anxiety": "PROBLEM"
-  },
-  {
-    "insomnia": "PROBLEM"
-  },
-  {
-    "postoperative constipation": "PROBLEM"
-  },
-  {
-    "contact dermatitis": "PROBLEM"
-  },
-  {
-    "gastroesophageal reflux disease": "PROBLEM"
-  },
-  {
-    "migraine headaches": "PROBLEM"
+    "followup appointment": "TREATMENT"
   }
 ]

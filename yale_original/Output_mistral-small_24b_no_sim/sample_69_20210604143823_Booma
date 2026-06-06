@@ -1,15 +1,15 @@
 [
   {
+    "Male Exam": "TEST"
+  },
+  {
     "vital signs": "TEST"
   },
   {
     "afebrile": "PROBLEM"
   },
   {
-    "blood pressure": "TEST"
-  },
-  {
-    "heart rate": "TEST"
+    "alert": "PROBLEM"
   },
   {
     "conjunctiva": "PROBLEM"
@@ -21,7 +21,19 @@
     "ptosis": "PROBLEM"
   },
   {
-    "Hearing": "TEST"
+    "irides": "TEST"
+  },
+  {
+    "ears": "TEST"
+  },
+  {
+    "nose": "TEST"
+  },
+  {
+    "Hearing": "PROBLEM"
+  },
+  {
+    "mucosa": "PROBLEM"
   },
   {
     "lesion": "PROBLEM"
@@ -33,13 +45,13 @@
     "pharynx": "PROBLEM"
   },
   {
-    "neck": "PROBLEM"
+    "supple": "PROBLEM"
   },
   {
     "thyroid gland": "PROBLEM"
   },
   {
-    "respiratory effort": "PROBLEM"
+    "RESPIRATORY": "PROBLEM"
   },
   {
     "Auscultation": "TEST"
@@ -51,25 +63,22 @@
     "S2": "TEST"
   },
   {
-    "murmur": "PROBLEM"
-  },
-  {
     "edema": "PROBLEM"
   },
   {
-    "abdomen": "TEST"
+    "abdomen": "PROBLEM"
   },
   {
-    "liver": "PROBLEM"
+    "Bowel sounds": "TEST"
   },
   {
-    "spleen": "PROBLEM"
+    "scrotal": "PROBLEM"
   },
   {
-    "Bowel sounds": "PROBLEM"
+    "testes": "PROBLEM"
   },
   {
-    "scrotal elements": "PROBLEM"
+    "penis": "PROBLEM"
   },
   {
     "lesion": "PROBLEM"
@@ -81,31 +90,49 @@
     "node": "PROBLEM"
   },
   {
-    "head and neck": "PROBLEM"
+    "deformity": "PROBLEM"
+  },
+  {
+    "extremities": "PROBLEM"
   },
   {
     "Range of motion": "TEST"
   },
   {
-    "pink": "PROBLEM"
+    "skin": "PROBLEM"
   },
   {
-    "warm": "PROBLEM"
-  },
-  {
-    "dry": "PROBLEM"
+    "skin": "PROBLEM"
   },
   {
     "Deep tendon reflexes": "TEST"
   },
   {
-    "time": "TEST"
+    "Sensation": "PROBLEM"
   },
   {
-    "place": "TEST"
+    "general medicine": "TEST"
   },
   {
-    "person": "TEST"
+    "conjunctiva": "PROBLEM"
+  },
+  {
+    "eyes": "PROBLEM"
+  },
+  {
+    "ears": "PROBLEM"
+  },
+  {
+    "nose": "PROBLEM"
+  },
+  {
+    "throat": "PROBLEM"
+  },
+  {
+    "male": "PROBLEM"
+  },
+  {
+    "multisystem": "PROBLEM"
   },
   {
     "heart": "PROBLEM"
@@ -117,12 +144,15 @@
     "auscultation": "TEST"
   },
   {
-    "extremities": "TEST"
+    "extremities": "PROBLEM"
   },
   {
-    "oropharynx": "TEST"
+    "oropharynx": "PROBLEM"
   },
   {
-    "neck": "TEST"
+    "neck": "PROBLEM"
+  },
+  {
+    "tongue": "PROBLEM"
   }
 ]

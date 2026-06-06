@@ -1,0 +1,41 @@
+[
+  {
+    "Acute right lobar pneumonia": "PROBLEM"
+  },
+  {
+    "Hypoxemia": "PROBLEM"
+  },
+  {
+    "hypotension": "PROBLEM"
+  },
+  {
+    "Electrolyte abnormality": "PROBLEM"
+  },
+  {
+    "hyponatremia": "PROBLEM"
+  },
+  {
+    "hypokalemia": "PROBLEM"
+  },
+  {
+    "Anemia": "PROBLEM"
+  },
+  {
+    "iron deficiency": "PROBLEM"
+  },
+  {
+    "liver function tests": "TEST"
+  },
+  {
+    "lobar pneumonia": "PROBLEM"
+  },
+  {
+    "Infectious Disease": "TREATMENT"
+  },
+  {
+    "white count": "TEST"
+  },
+  {
+    "cultures": "TEST"
+  }
+]

@@ -1,8 +1,5 @@
 [
   {
-    "C-sections": "PROBLEM"
-  },
-  {
     "ampicillin": "DRUG"
   },
   {
@@ -13,9 +10,6 @@
   },
   {
     "magnesium sulfate": "DRUG"
-  },
-  {
-    "Apgar scores": "TEST"
   },
   {
     "Nuchal cord": "PROBLEM"
@@ -63,12 +57,36 @@
     "NeoSure": "DRUG"
   },
   {
+    "gentamicin": "DRUG"
+  },
+  {
+    "blood cultures": "TEST"
+  },
+  {
+    "feeding issues": "PROBLEM"
+  },
+  {
     "OG tube": "TREATMENT"
+  },
+  {
+    "EBM 22": "DRUG"
+  },
+  {
+    "NeoSure": "DRUG"
   },
   {
     "Respiratory distress": "PROBLEM"
   },
   {
+    "sepsis": "PROBLEM"
+  },
+  {
+    "prematurity": "PROBLEM"
+  },
+  {
     "preemie": "PROBLEM"
+  },
+  {
+    "NeoSure": "DRUG"
   }
 ]

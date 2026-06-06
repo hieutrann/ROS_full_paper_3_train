@@ -1,9 +1,9 @@
 [
   {
-    "pancreatic lesions": "PROBLEM"
+    "pancreatic": "PROBLEM"
   },
   {
-    "adrenal lesions": "PROBLEM"
+    "adrenal": "PROBLEM"
   },
   {
     "adenoma": "PROBLEM"
@@ -30,9 +30,6 @@
     "gallstone pancreatitis": "PROBLEM"
   },
   {
-    "pancreatitis": "PROBLEM"
-  },
-  {
     "prostate cancer": "PROBLEM"
   },
   {
@@ -43,15 +40,6 @@
   },
   {
     "diabetes": "PROBLEM"
-  },
-  {
-    "CAT scan": "TEST"
-  },
-  {
-    "MRI": "TEST"
-  },
-  {
-    "colonoscopy": "TEST"
   },
   {
     "glipizide": "DRUG"
@@ -87,12 +75,24 @@
     "fluticasone": "DRUG"
   },
   {
-    "ERCP": "TREATMENT"
+    "CAT scan": "TEST"
   },
   {
-    "esophagogastroduodenoscopy": "TREATMENT"
+    "MRI": "TEST"
+  },
+  {
+    "colonoscopy": "TEST"
+  },
+  {
+    "esophagogastroduodenoscopy": "TEST"
+  },
+  {
+    "ERCP": "TEST"
   },
   {
     "operative intervention": "TREATMENT"
+  },
+  {
+    "physical therapy": "TREATMENT"
   }
 ]

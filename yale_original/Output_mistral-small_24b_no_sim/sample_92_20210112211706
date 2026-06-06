@@ -1,6 +1,6 @@
 [
   {
-    "right ankle stasis ulcer": "PROBLEM"
+    "stasis ulcer": "PROBLEM"
   },
   {
     "hypertension": "PROBLEM"
@@ -15,7 +15,7 @@
     "vascular surgery": "TREATMENT"
   },
   {
-    "right ankle stasis ulcer": "PROBLEM"
+    "stasis ulcer": "PROBLEM"
   },
   {
     "hypertension": "PROBLEM"
@@ -30,10 +30,13 @@
     "vascular surgery": "TREATMENT"
   },
   {
-    "right ankle stasis ulcer": "PROBLEM"
+    "stasis ulcer": "PROBLEM"
   },
   {
-    "low-grade fever": "PROBLEM"
+    "fever": "PROBLEM"
+  },
+  {
+    "100.2": "TEST"
   },
   {
     "fever": "PROBLEM"
@@ -72,7 +75,7 @@
     "malaise": "PROBLEM"
   },
   {
-    "low-grade fevers": "PROBLEM"
+    "fevers": "PROBLEM"
   },
   {
     "visual acuity": "TEST"
@@ -91,6 +94,9 @@
   },
   {
     "chest pain": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
   },
   {
     "nausea": "PROBLEM"
@@ -123,10 +129,10 @@
     "chronic recurrent stasis ulcers": "PROBLEM"
   },
   {
-    "alcohol drinking": "PROBLEM"
+    "alcohol": "DRUG"
   },
   {
-    "cigarette smoker": "PROBLEM"
+    "cigarette": "DRUG"
   },
   {
     "Primaxin": "DRUG"
@@ -189,31 +195,28 @@
     "Height": "TEST"
   },
   {
-    "Pink conjunctivae": "PROBLEM"
+    "body weight": "TEST"
   },
   {
-    "anicteric sclerae": "PROBLEM"
+    "conjunctivae": "PROBLEM"
   },
   {
     "Pupils": "TEST"
   },
   {
-    "EARS, NOSE, MOUTH AND THROAT": "TEST"
+    "hearing": "PROBLEM"
   },
   {
-    "Moist oral mucosa": "PROBLEM"
+    "oral mucosa": "PROBLEM"
   },
   {
-    "No oral lesions": "PROBLEM"
-  },
-  {
-    "palpable neck masses": "PROBLEM"
+    "masses": "PROBLEM"
   },
   {
     "Thyroid": "PROBLEM"
   },
   {
-    "inspiratory effort": "TEST"
+    "inspiratory effort": "PROBLEM"
   },
   {
     "crackles": "PROBLEM"
@@ -232,12 +235,6 @@
   },
   {
     "bowel sounds": "TEST"
-  },
-  {
-    "guarding": "PROBLEM"
-  },
-  {
-    "rigidity": "PROBLEM"
   },
   {
     "cervical lymphadenopathy": "PROBLEM"
@@ -264,13 +261,7 @@
     "erythema": "PROBLEM"
   },
   {
-    "right lower leg": "PROBLEM"
-  },
-  {
     "warmth": "PROBLEM"
-  },
-  {
-    "tenderness": "PROBLEM"
   },
   {
     "wound": "PROBLEM"
@@ -288,7 +279,10 @@
     "affect": "PROBLEM"
   },
   {
-    "oriented x3": "TEST"
+    "judgment": "PROBLEM"
+  },
+  {
+    "insight": "PROBLEM"
   },
   {
     "White blood cell count": "TEST"
@@ -321,40 +315,28 @@
     "total bilirubin": "TEST"
   },
   {
-    "wound": "PROBLEM"
-  },
-  {
-    "wound": "PROBLEM"
-  },
-  {
     "wound culture": "TEST"
   },
   {
+    "right leg wound": "PROBLEM"
+  },
+  {
     "wound culture": "TEST"
-  },
-  {
-    "Left leg wound": "PROBLEM"
-  },
-  {
-    "culture": "TEST"
-  },
-  {
-    "Chest x-ray": "TEST"
   },
   {
     "atelectasis": "PROBLEM"
   },
   {
-    "hemidiaphragm": "PROBLEM"
+    "ileus": "PROBLEM"
   },
   {
-    "ileus": "PROBLEM"
+    "Chest x-ray": "TEST"
   },
   {
     "Fevers": "PROBLEM"
   },
   {
-    "Right leg/ankle cellulitis": "PROBLEM"
+    "cellulitis": "PROBLEM"
   },
   {
     "ankle venous ulcers": "PROBLEM"
@@ -408,15 +390,6 @@
     "stasis ulcer": "PROBLEM"
   },
   {
-    "ulcers": "PROBLEM"
-  },
-  {
-    "stasis": "PROBLEM"
-  },
-  {
-    "chronic": "PROBLEM"
-  },
-  {
     "wound cultures": "TEST"
   },
   {
@@ -430,5 +403,14 @@
   },
   {
     "hypertension": "PROBLEM"
+  },
+  {
+    "ulcers": "PROBLEM"
+  },
+  {
+    "stasis": "PROBLEM"
+  },
+  {
+    "chronic": "PROBLEM"
   }
 ]

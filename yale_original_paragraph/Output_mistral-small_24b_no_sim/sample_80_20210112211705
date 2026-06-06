@@ -24,27 +24,21 @@
     "vaginal hysterectomy": "TREATMENT"
   },
   {
-    "uterus": "PROBLEM"
-  },
-  {
-    "vaginal": "PROBLEM"
-  },
-  {
     "hysterectomy": "TREATMENT"
   },
   {
-    "Pulse": "TEST"
+    "uterus": "PROBLEM"
   },
   {
-    "blood pressure": "TEST"
+    "Laboratory studies": "TEST"
+  },
+  {
+    "H&H": "TEST"
   },
   {
     "hemoglobin": "TEST"
   },
   {
     "hematocrit": "TEST"
-  },
-  {
-    "H&H": "TEST"
   }
 ]

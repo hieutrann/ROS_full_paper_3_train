@@ -18,7 +18,7 @@
     "Falls at home": "PROBLEM"
   },
   {
-    "anxiety": "PROBLEM"
+    "increased anxiety": "PROBLEM"
   },
   {
     "anxious": "PROBLEM"
@@ -28,6 +28,9 @@
   },
   {
     "chest pain": "PROBLEM"
+  },
+  {
+    "pressure": "PROBLEM"
   },
   {
     "loss of consciousness": "PROBLEM"
@@ -54,13 +57,10 @@
     "HI": "PROBLEM"
   },
   {
-    "Carotid upstrokes": "TEST"
+    "Carotid upstrokes": "PROBLEM"
   },
   {
-    "Rate": "TEST"
-  },
-  {
-    "bowel sounds": "TEST"
+    "bowel sounds": "PROBLEM"
   },
   {
     "edema": "PROBLEM"
@@ -70,6 +70,9 @@
   },
   {
     "tender": "PROBLEM"
+  },
+  {
+    "psychiatric evaluation": "TEST"
   },
   {
     "depression": "PROBLEM"
@@ -172,9 +175,6 @@
   },
   {
     "verapamil": "DRUG"
-  },
-  {
-    "Per PT.": "TREATMENT"
   },
   {
     "rehabilitation": "TREATMENT"

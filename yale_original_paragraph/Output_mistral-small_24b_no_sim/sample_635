@@ -1,29 +1,5 @@
 [
   {
-    "Left heart catheterization": "TEST"
-  },
-  {
-    "coronary angiography": "TEST"
-  },
-  {
-    "vein graft angiography": "TEST"
-  },
-  {
-    "left ventricular pressure measurement": "TEST"
-  },
-  {
-    "angiography": "TEST"
-  },
-  {
-    "Right femoral selective angiogram": "TEST"
-  },
-  {
-    "Angio-Seal": "DRUG"
-  },
-  {
-    "femoral arteriotomy": "PROBLEM"
-  },
-  {
     "coronary atherosclerotic heart disease": "PROBLEM"
   },
   {
@@ -42,70 +18,31 @@
     "hyperlipidemia": "PROBLEM"
   },
   {
-    "percutaneous evaluation": "TREATMENT"
-  },
-  {
-    "intervention": "TREATMENT"
-  },
-  {
-    "lidocaine": "DRUG"
-  },
-  {
-    "femoral artery": "PROBLEM"
-  },
-  {
-    "guide wire": "TEST"
+    "Left heart catheterization": "TEST"
   },
   {
     "coronary angiography": "TEST"
   },
   {
-    "left ventricular measurement": "TEST"
+    "vein graft angiography": "TEST"
   },
   {
-    "left coronary artery": "PROBLEM"
+    "left ventricular pressure measurement": "TEST"
   },
   {
-    "right groin": "PROBLEM"
+    "angiography": "TEST"
   },
   {
-    "artery": "PROBLEM"
+    "Right femoral selective angiogram": "TEST"
   },
   {
-    "saphenous vein graft conduit": "PROBLEM"
-  },
-  {
-    "left ventricular pressures": "TEST"
-  },
-  {
-    "left ventriculogram": "TEST"
-  },
-  {
-    "femoral artery": "PROBLEM"
-  },
-  {
-    "superficial femoral": "PROBLEM"
-  },
-  {
-    "profunda femoris arteries": "PROBLEM"
-  },
-  {
-    "arteriotomy": "PROBLEM"
-  },
-  {
-    "Perclose device": "DRUG"
+    "lidocaine": "DRUG"
   },
   {
     "Angio-Seal": "DRUG"
   },
   {
-    "hemostasis": "PROBLEM"
-  },
-  {
-    "MAC Unit": "PROBLEM"
-  },
-  {
-    "bedrest": "TREATMENT"
+    "Perclose device": "DRUG"
   },
   {
     "aortic pressure": "TEST"
@@ -114,22 +51,10 @@
     "left ventricular pressure": "TEST"
   },
   {
-    "end-diastolic pressure": "TEST"
+    "Mitral regurgitation": "PROBLEM"
   },
   {
-    "aortic valve": "PROBLEM"
-  },
-  {
-    "left ventricular ejection fraction": "TEST"
-  },
-  {
-    "mitral regurgitation": "PROBLEM"
-  },
-  {
-    "wall motion": "TEST"
-  },
-  {
-    "RAO projection": "TEST"
+    "Left ventricular ejection fraction": "TEST"
   },
   {
     "left main coronary artery": "PROBLEM"
@@ -144,66 +69,18 @@
     "obtuse marginal branch": "PROBLEM"
   },
   {
-    "saphenous vein graft": "PROBLEM"
-  },
-  {
     "right coronary artery": "PROBLEM"
-  },
-  {
-    "native right coronary artery": "PROBLEM"
-  },
-  {
-    "distal right coronary artery": "PROBLEM"
   },
   {
     "posterior left ventricular branch": "PROBLEM"
   },
   {
-    "proximal PDA": "PROBLEM"
-  },
-  {
-    "saphenous vein graft": "PROBLEM"
-  },
-  {
-    "native right coronary artery": "PROBLEM"
-  },
-  {
-    "native proximal PDA": "PROBLEM"
-  },
-  {
-    "PLV": "PROBLEM"
-  },
-  {
-    "right coronary artery": "PROBLEM"
-  },
-  {
-    "saphenous vein graft": "PROBLEM"
-  },
-  {
-    "LAD": "PROBLEM"
-  },
-  {
-    "diagonal branch": "PROBLEM"
-  },
-  {
-    "saphenous vein graft": "PROBLEM"
-  },
-  {
-    "OM": "PROBLEM"
-  },
-  {
-    "saphenous vein graft": "PROBLEM"
-  },
-  {
     "PDA": "PROBLEM"
   },
   {
-    "LAD": "PROBLEM"
+    "saphenous vein graft": "PROBLEM"
   },
   {
     "carotid duplex Doppler ultrasound": "TEST"
-  },
-  {
-    "carotid bruits": "PROBLEM"
   }
 ]

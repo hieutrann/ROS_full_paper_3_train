@@ -18,28 +18,16 @@
     "magnesium sulfate": "DRUG"
   },
   {
-    "Apgar scores": "TEST"
-  },
-  {
     "Nuchal cord": "PROBLEM"
   },
   {
     "Prenatal labs": "TEST"
   },
   {
-    "O positive": "TEST"
+    "rubella immune": "PROBLEM"
   },
   {
-    "antibody negative": "TEST"
-  },
-  {
-    "rubella immune": "TEST"
-  },
-  {
-    "RPR nonreactive": "TEST"
-  },
-  {
-    "NICU": "TREATMENT"
+    "RPR": "TEST"
   },
   {
     "prematurity": "PROBLEM"
@@ -88,9 +76,6 @@
   },
   {
     "feeding issues": "PROBLEM"
-  },
-  {
-    "will not suck properly": "PROBLEM"
   },
   {
     "OG tube": "TREATMENT"

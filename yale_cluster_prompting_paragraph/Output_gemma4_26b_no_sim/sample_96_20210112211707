@@ -36,6 +36,9 @@
     "dryness": "PROBLEM"
   },
   {
+    "glasses": "TREATMENT"
+  },
+  {
     "ringing in the ears": "PROBLEM"
   },
   {
@@ -70,6 +73,12 @@
   },
   {
     "dry mouth": "PROBLEM"
+  },
+  {
+    "dentures": "TREATMENT"
+  },
+  {
+    "removable dental work": "TREATMENT"
   },
   {
     "frequent sore throats": "PROBLEM"
@@ -127,6 +136,9 @@
   },
   {
     "coughing up blood": "PROBLEM"
+  },
+  {
+    "coughing up mucus": "PROBLEM"
   },
   {
     "waking at night coughing or choking": "PROBLEM"
@@ -207,7 +219,7 @@
     "urgency": "PROBLEM"
   },
   {
-    "needing to urinate frequently at night": "PROBLEM"
+    "urinate frequently at night": "PROBLEM"
   },
   {
     "inability to hold the urine": "PROBLEM"
@@ -327,6 +339,12 @@
     "voices in head": "PROBLEM"
   },
   {
+    "psychiatric counseling": "TREATMENT"
+  },
+  {
+    "psychiatric treatment": "TREATMENT"
+  },
+  {
     "intolerance to hot or cold temperature": "PROBLEM"
   },
   {
@@ -364,8 +382,5 @@
   },
   {
     "latex allergies": "PROBLEM"
-  },
-  {
-    "sensitivity": "PROBLEM"
   }
 ]

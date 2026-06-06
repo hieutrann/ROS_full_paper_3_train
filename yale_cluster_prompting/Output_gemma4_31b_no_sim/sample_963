@@ -24,9 +24,6 @@
     "Micronase": "DRUG"
   },
   {
-    "PHYSICAL EXAMINATION": "TEST"
-  },
-  {
     "ear abnormalities": "PROBLEM"
   },
   {
@@ -99,16 +96,10 @@
     "Micronase": "DRUG"
   },
   {
-    "Bactrim 400/80 Tab": "DRUG"
+    "Bactrim": "DRUG"
   },
   {
     "drug or alcohol abuse": "PROBLEM"
-  },
-  {
-    "Vital Signs": "TEST"
-  },
-  {
-    "Weight": "TEST"
   },
   {
     "Upright BP": "TEST"
@@ -123,10 +114,28 @@
     "jugular venous distension": "PROBLEM"
   },
   {
-    "SI and S2": "TEST"
+    "Lung expansion": "TEST"
   },
   {
-    "abnormal heart sounds": "PROBLEM"
+    "excursions": "TEST"
+  },
+  {
+    "auscultation": "TEST"
+  },
+  {
+    "percussion": "TEST"
+  },
+  {
+    "regular rhythm": "PROBLEM"
+  },
+  {
+    "S1": "TEST"
+  },
+  {
+    "S2": "TEST"
+  },
+  {
+    "heart sounds": "TEST"
   },
   {
     "Blood pressure": "TEST"
@@ -190,8 +199,5 @@
   },
   {
     "diabetes": "PROBLEM"
-  },
-  {
-    "abnormalities": "PROBLEM"
   }
 ]

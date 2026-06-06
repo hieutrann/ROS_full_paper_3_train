@@ -129,19 +129,16 @@
     "Amoxicillin": "DRUG"
   },
   {
-    "VITAL SIGNS": "TEST"
+    "thyromegaly": "PROBLEM"
   },
   {
-    "dry": "PROBLEM"
+    "jugular venous distention": "PROBLEM"
   },
   {
-    "Irregularly irregular": "PROBLEM"
+    "bowel sounds": "TEST"
   },
   {
-    "brady": "PROBLEM"
-  },
-  {
-    "Tenderness in the suprapubic region": "PROBLEM"
+    "Tenderness": "PROBLEM"
   },
   {
     "clubbing": "PROBLEM"
@@ -151,9 +148,6 @@
   },
   {
     "edema": "PROBLEM"
-  },
-  {
-    "LABORATORY STUDIES": "TEST"
   },
   {
     "CT of the abdomen": "TEST"
@@ -267,19 +261,13 @@
     "slow atrial fibrillation": "PROBLEM"
   },
   {
-    "rate control medications": "DRUG"
-  },
-  {
     "digoxin level": "TEST"
-  },
-  {
-    "dementia medications": "DRUG"
   },
   {
     "PPI": "DRUG"
   },
   {
-    "PUD prophylaxis": "TREATMENT"
+    "PUD": "PROBLEM"
   },
   {
     "abdominal pain": "PROBLEM"

@@ -1,21 +1,15 @@
 [
   {
-    "FEMALE PHYSICAL EXAMINATION": "TEST"
-  },
-  {
-    "Pupils": "TEST"
+    "pupils": "TEST"
   },
   {
     "Extraocular movements": "TEST"
   },
   {
-    "Sclerae": "TEST"
+    "Sclerae are anicteric": "PROBLEM"
   },
   {
     "TMs": "TEST"
-  },
-  {
-    "Oropharynx": "TEST"
   },
   {
     "erythema": "PROBLEM"
@@ -30,16 +24,19 @@
     "thyromegaly": "PROBLEM"
   },
   {
-    "Carotids": "TEST"
+    "Carotids are silent": "TEST"
   },
   {
     "jugular venous distention": "PROBLEM"
   },
   {
-    "S3": "TEST"
+    "auscultation": "TEST"
   },
   {
-    "S4": "TEST"
+    "S3": "PROBLEM"
+  },
+  {
+    "S4": "PROBLEM"
   },
   {
     "murmurs": "PROBLEM"
@@ -49,9 +46,6 @@
   },
   {
     "Peripheral pulses": "TEST"
-  },
-  {
-    "bowel sounds": "TEST"
   },
   {
     "masses": "PROBLEM"
@@ -66,28 +60,16 @@
     "Speculum exam": "TEST"
   },
   {
-    "vaginal mucosa": "TEST"
-  },
-  {
-    "Cervix": "TEST"
-  },
-  {
     "Bimanual exam": "TEST"
   },
   {
-    "uterus": "TEST"
-  },
-  {
-    "Adnexa": "TEST"
+    "masses": "PROBLEM"
   },
   {
     "cervical motion tenderness": "PROBLEM"
   },
   {
     "Rectal Exam": "TEST"
-  },
-  {
-    "rectal tone": "TEST"
   },
   {
     "Hemoccult": "TEST"
@@ -108,27 +90,6 @@
     "tenosynovitis": "PROBLEM"
   },
   {
-    "Integumentary": "TEST"
-  },
-  {
-    "breast tissue": "TEST"
-  },
-  {
-    "lumps": "PROBLEM"
-  },
-  {
-    "masses": "PROBLEM"
-  },
-  {
-    "skin changes": "PROBLEM"
-  },
-  {
-    "Axillae": "TEST"
-  },
-  {
-    "Neurologic": "TEST"
-  },
-  {
     "Cranial nerves II through XII": "TEST"
   },
   {
@@ -138,24 +99,9 @@
     "Deep tendon reflexes": "TEST"
   },
   {
-    "Dermatologic": "TEST"
-  },
-  {
     "lesions": "PROBLEM"
   },
   {
     "rashes": "PROBLEM"
-  },
-  {
-    "bimanual exam": "TEST"
-  },
-  {
-    "hemoccult": "TEST"
-  },
-  {
-    "speculum exam": "TEST"
-  },
-  {
-    "rectal exam": "TEST"
   }
 ]

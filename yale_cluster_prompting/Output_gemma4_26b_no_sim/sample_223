@@ -3,9 +3,6 @@
     "right shoulder pain": "PROBLEM"
   },
   {
-    "popping sensation": "PROBLEM"
-  },
-  {
     "shoulder pain": "PROBLEM"
   },
   {
@@ -15,13 +12,13 @@
     "shoulder": "PROBLEM"
   },
   {
-    "Focal lateral and posterior shoulder pain": "PROBLEM"
+    "shoulder pain": "PROBLEM"
   },
   {
     "cervical radiculopathies": "PROBLEM"
   },
   {
-    "chronic cardiac": "PROBLEM"
+    "cardiac": "PROBLEM"
   },
   {
     "pulmonary": "PROBLEM"
@@ -63,25 +60,22 @@
     "Gross neurologic examination": "TEST"
   },
   {
-    "ENT examination": "TEST"
+    "oropharynx": "TEST"
   },
   {
-    "oropharynx": "PROBLEM"
+    "nasopharynx": "TEST"
   },
   {
-    "nasopharynx": "PROBLEM"
+    "tympanic membranes": "TEST"
   },
   {
-    "tympanic membranes": "PROBLEM"
+    "range of motion": "TEST"
   },
   {
     "adenopathy": "PROBLEM"
   },
   {
     "thyromegaly": "PROBLEM"
-  },
-  {
-    "Regular rate and rhythm": "TEST"
   },
   {
     "tender": "PROBLEM"
@@ -96,10 +90,10 @@
     "Neer's and Hawkins impingement testing": "TEST"
   },
   {
-    "negative sulcus": "TEST"
+    "sulcus": "TEST"
   },
   {
-    "apprehension": "PROBLEM"
+    "apprehension": "TEST"
   },
   {
     "Speed's": "TEST"
@@ -120,7 +114,7 @@
     "impingement": "PROBLEM"
   },
   {
-    "persistent pain": "PROBLEM"
+    "pain": "PROBLEM"
   },
   {
     "MRI": "TEST"
@@ -136,9 +130,6 @@
   },
   {
     "x-rays": "TEST"
-  },
-  {
-    "neurologic abnormalities": "PROBLEM"
   },
   {
     "impingement": "PROBLEM"

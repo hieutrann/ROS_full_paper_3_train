@@ -1,0 +1,32 @@
+[
+  {
+    "Diabetes mellitus, type 1": "PROBLEM"
+  },
+  {
+    "diabetic neuropathy": "PROBLEM"
+  },
+  {
+    "microalbuminuria": "PROBLEM"
+  },
+  {
+    "NPH": "DRUG"
+  },
+  {
+    "Regular insulin": "DRUG"
+  },
+  {
+    "Lantus": "DRUG"
+  },
+  {
+    "SGGT": "TEST"
+  },
+  {
+    "CMP": "TEST"
+  },
+  {
+    "Prilosec OTC": "TREATMENT"
+  },
+  {
+    "scooter accident": "TREATMENT"
+  }
+]

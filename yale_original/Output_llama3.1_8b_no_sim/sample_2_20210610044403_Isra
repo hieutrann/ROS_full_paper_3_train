@@ -3,9 +3,6 @@
     "General Medicine": "TREATMENT"
   },
   {
-    "Normal": "PROBLEM"
-  },
-  {
     "weakness": "PROBLEM"
   },
   {
@@ -42,7 +39,7 @@
     "fever": "PROBLEM"
   },
   {
-    "night sweats": "PROBLEM"
+    "sweats": "PROBLEM"
   },
   {
     "allergies": "PROBLEM"
@@ -54,13 +51,13 @@
     "jaundice": "PROBLEM"
   },
   {
-    "Negative bleeding": "PROBLEM"
+    "bleeding": "PROBLEM"
   },
   {
-    "Negative lymph node enlargement": "PROBLEM"
+    "lymph node enlargement": "PROBLEM"
   },
   {
-    "Negative bruisability": "PROBLEM"
+    "bruisability": "PROBLEM"
   },
   {
     "headaches": "PROBLEM"
@@ -84,16 +81,16 @@
     "neurologic conditions": "PROBLEM"
   },
   {
-    "Negative visual changes": "PROBLEM"
+    "visual changes": "PROBLEM"
   },
   {
-    "Negative diplopia": "PROBLEM"
+    "diplopia": "PROBLEM"
   },
   {
-    "Negative scotomata": "PROBLEM"
+    "scotomata": "PROBLEM"
   },
   {
-    "Negative impaired vision": "PROBLEM"
+    "impaired vision": "PROBLEM"
   },
   {
     "tinnitus": "PROBLEM"
@@ -159,6 +156,12 @@
     "abdominal pain": "PROBLEM"
   },
   {
+    "frequency": "PROBLEM"
+  },
+  {
+    "urgency": "PROBLEM"
+  },
+  {
     "dysuria": "PROBLEM"
   },
   {
@@ -183,7 +186,7 @@
     "back pain": "PROBLEM"
   },
   {
-    "PSYCHIATRIC": "PROBLEM"
+    "psychiatric evaluation": "TEST"
   },
   {
     "diabetes mellitus": "PROBLEM"
@@ -195,9 +198,27 @@
     "endocrinologic abnormalities": "PROBLEM"
   },
   {
-    "negative weakness": "PROBLEM"
+    "general medicine": "TREATMENT"
+  },
+  {
+    "nose and throat": "TREATMENT"
+  },
+  {
+    "cardiovascular": "TREATMENT"
+  },
+  {
+    "integumentary": "TREATMENT"
   },
   {
     "weakness": "PROBLEM"
+  },
+  {
+    "neurologic": "TREATMENT"
+  },
+  {
+    "throat": "PROBLEM"
+  },
+  {
+    "psychiatric": "TREATMENT"
   }
 ]

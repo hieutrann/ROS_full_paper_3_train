@@ -39,9 +39,6 @@
     "pain": "PROBLEM"
   },
   {
-    "heart problems": "PROBLEM"
-  },
-  {
     "nausea": "PROBLEM"
   },
   {
@@ -69,10 +66,7 @@
     "TIA": "PROBLEM"
   },
   {
-    "PHYSICAL EXAMINATION": "TEST"
-  },
-  {
-    "CHEST": "TEST"
+    "auscultation": "TEST"
   },
   {
     "wheezing": "PROBLEM"
@@ -81,10 +75,10 @@
     "crepitations": "PROBLEM"
   },
   {
-    "reproducible tenderness": "PROBLEM"
+    "tenderness": "PROBLEM"
   },
   {
-    "CARDIOVASCULAR": "TEST"
+    "heart sounds": "TEST"
   },
   {
     "murmurs": "PROBLEM"
@@ -97,12 +91,6 @@
   },
   {
     "pedal swelling": "PROBLEM"
-  },
-  {
-    "Examination": "TEST"
-  },
-  {
-    "LABORATORY DATA": "TEST"
   },
   {
     "White count": "TEST"
@@ -175,8 +163,5 @@
   },
   {
     "laparoscopic appendicectomy": "TREATMENT"
-  },
-  {
-    "surgery": "TREATMENT"
   }
 ]

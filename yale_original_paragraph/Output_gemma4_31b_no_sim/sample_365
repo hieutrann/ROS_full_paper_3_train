@@ -9,15 +9,6 @@
     "pain in the toes": "PROBLEM"
   },
   {
-    "numbness": "PROBLEM"
-  },
-  {
-    "tingling": "PROBLEM"
-  },
-  {
-    "pain in the toes": "PROBLEM"
-  },
-  {
     "moderate pain": "PROBLEM"
   },
   {
@@ -57,13 +48,7 @@
     "gallbladder surgery": "TREATMENT"
   },
   {
-    "gallbladder surgery": "TREATMENT"
-  },
-  {
     "C-section": "TREATMENT"
-  },
-  {
-    "varicose vein surgery": "TREATMENT"
   },
   {
     "varicose vein surgery": "TREATMENT"
@@ -111,7 +96,7 @@
     "right total knee arthroplasty": "TREATMENT"
   },
   {
-    "synovitis of the left knee": "PROBLEM"
+    "synovitis": "PROBLEM"
   },
   {
     "zoster": "PROBLEM"
@@ -165,6 +150,18 @@
     "Lortab": "DRUG"
   },
   {
+    "stroke": "PROBLEM"
+  },
+  {
+    "prostate cancer": "PROBLEM"
+  },
+  {
+    "heart disease": "PROBLEM"
+  },
+  {
+    "diabetes": "PROBLEM"
+  },
+  {
     "allergies": "PROBLEM"
   },
   {
@@ -174,6 +171,9 @@
     "sore throat": "PROBLEM"
   },
   {
+    "glasses": "TREATMENT"
+  },
+  {
     "cough": "PROBLEM"
   },
   {
@@ -181,9 +181,6 @@
   },
   {
     "palpitations": "PROBLEM"
-  },
-  {
-    "hypertension": "PROBLEM"
   },
   {
     "abdominal pain": "PROBLEM"
@@ -204,16 +201,10 @@
     "shoulder pain": "PROBLEM"
   },
   {
-    "insomnia": "PROBLEM"
-  },
-  {
     "spot on her right cheek": "PROBLEM"
   },
   {
     "precancerous condition": "PROBLEM"
-  },
-  {
-    "hypothyroidism": "PROBLEM"
   },
   {
     "essential thrombocythemia": "PROBLEM"
@@ -258,22 +249,13 @@
     "mass": "PROBLEM"
   },
   {
-    "axillary adenopathy": "PROBLEM"
-  },
-  {
     "ankle edema": "PROBLEM"
   },
   {
     "calf tenderness": "PROBLEM"
   },
   {
-    "cyst on the anterior portion of the right ankle": "PROBLEM"
-  },
-  {
-    "Deep tendon reflexes": "TEST"
-  },
-  {
-    "focal neurologic deficits": "PROBLEM"
+    "cyst": "PROBLEM"
   },
   {
     "atrophic": "PROBLEM"
@@ -285,67 +267,28 @@
     "Peripheral neuropathy": "PROBLEM"
   },
   {
-    "Hypertension": "PROBLEM"
-  },
-  {
-    "Hypothyroidism": "PROBLEM"
-  },
-  {
-    "Essential thrombocythemia": "PROBLEM"
-  },
-  {
     "Allergic rhinitis": "PROBLEM"
-  },
-  {
-    "Insomnia": "PROBLEM"
   },
   {
     "Neurontin": "DRUG"
   },
   {
-    "peripheral neuropathy": "PROBLEM"
-  },
-  {
     "Anodyne physical therapy": "TREATMENT"
-  },
-  {
-    "peripheral neuropathy": "PROBLEM"
-  },
-  {
-    "essential thrombocythemia": "PROBLEM"
   },
   {
     "CBC": "TEST"
   },
   {
-    "anemia": "PROBLEM"
-  },
-  {
-    "essential thrombocythemia": "PROBLEM"
-  },
-  {
     "sed rate": "TEST"
-  },
-  {
-    "peripheral neuropathy": "PROBLEM"
   },
   {
     "ferritin": "TEST"
   },
   {
-    "anemia": "PROBLEM"
-  },
-  {
     "Hemoccult cards": "TEST"
   },
   {
-    "anemia": "PROBLEM"
-  },
-  {
     "DT immunization": "TREATMENT"
-  },
-  {
-    "Ambien": "DRUG"
   },
   {
     "flu shot": "TREATMENT"

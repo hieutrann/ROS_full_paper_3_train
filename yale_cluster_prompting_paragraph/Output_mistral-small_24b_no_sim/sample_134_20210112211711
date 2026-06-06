@@ -12,7 +12,7 @@
     "aching": "PROBLEM"
   },
   {
-    "glasses": "TEST"
+    "glasses": "TREATMENT"
   },
   {
     "cataracts": "PROBLEM"
@@ -33,7 +33,7 @@
     "hearing": "TEST"
   },
   {
-    "balance problems": "PROBLEM"
+    "balance": "TEST"
   },
   {
     "runny nose": "PROBLEM"
@@ -48,7 +48,7 @@
     "dental problems": "PROBLEM"
   },
   {
-    "dentures": "TEST"
+    "dentures": "TREATMENT"
   },
   {
     "bleeding gums": "PROBLEM"
@@ -105,7 +105,7 @@
     "cough": "PROBLEM"
   },
   {
-    "sputum": "TEST"
+    "sputum": "PROBLEM"
   },
   {
     "shortness of breath": "PROBLEM"
@@ -292,5 +292,8 @@
   },
   {
     "leg ulcers": "PROBLEM"
+  },
+  {
+    "heartbeat": "TEST"
   }
 ]

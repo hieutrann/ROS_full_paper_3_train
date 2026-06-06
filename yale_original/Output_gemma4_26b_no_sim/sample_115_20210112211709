@@ -1,6 +1,6 @@
 [
   {
-    "advanced non-small cell lung carcinoma": "PROBLEM"
+    "non-small cell lung carcinoma": "PROBLEM"
   },
   {
     "left malignant pleural effusion": "PROBLEM"
@@ -51,7 +51,10 @@
     "non-small cell lung CA": "PROBLEM"
   },
   {
-    "metastases to the bones": "PROBLEM"
+    "metastases": "PROBLEM"
+  },
+  {
+    "bones": "PROBLEM"
   },
   {
     "Leukemoid reaction": "PROBLEM"
@@ -81,7 +84,13 @@
     "left hilar adenopathy": "PROBLEM"
   },
   {
-    "complete obstruction of the left lower lobe and the lingula and the left pulmonary vein": "PROBLEM"
+    "complete obstruction of the left lower lobe": "PROBLEM"
+  },
+  {
+    "obstruction of the lingula": "PROBLEM"
+  },
+  {
+    "obstruction of the left pulmonary vein": "PROBLEM"
   },
   {
     "multiple nodules on the right side of his chest": "PROBLEM"
@@ -153,7 +162,10 @@
     "DNR": "TREATMENT"
   },
   {
-    "withdrawal of the life support": "TREATMENT"
+    "life support": "TREATMENT"
+  },
+  {
+    "dnr": "TREATMENT"
   },
   {
     "lung carcinoma": "PROBLEM"

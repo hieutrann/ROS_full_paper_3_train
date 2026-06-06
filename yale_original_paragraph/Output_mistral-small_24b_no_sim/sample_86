@@ -6,13 +6,25 @@
     "high risk behavior": "PROBLEM"
   },
   {
-    "depressed": "PROBLEM"
-  },
-  {
-    "anxious": "PROBLEM"
-  },
-  {
     "paranoia": "PROBLEM"
+  },
+  {
+    "RTC": "TREATMENT"
+  },
+  {
+    "group-oriented therapy": "TREATMENT"
+  },
+  {
+    "psychotropic medications": "DRUG"
+  },
+  {
+    "individual therapy": "TREATMENT"
+  },
+  {
+    "group therapy": "TREATMENT"
+  },
+  {
+    "family therapy": "TREATMENT"
   },
   {
     "Perceptual disturbances": "PROBLEM"
@@ -27,7 +39,7 @@
     "flat affect": "PROBLEM"
   },
   {
-    "irritable": "PROBLEM"
+    "anxious": "PROBLEM"
   },
   {
     "depressed moods": "PROBLEM"
@@ -49,9 +61,6 @@
   },
   {
     "EKG": "TEST"
-  },
-  {
-    "H&P": "TEST"
   },
   {
     "basic metabolic panel": "TEST"
@@ -78,19 +87,13 @@
     "T4": "TEST"
   },
   {
-    "thyroid dysfunction": "PROBLEM"
+    "TSH": "TEST"
   },
   {
     "asthma": "PROBLEM"
   },
   {
     "heart murmur": "PROBLEM"
-  },
-  {
-    "Hematocrit": "TEST"
-  },
-  {
-    "monocytes": "TEST"
   },
   {
     "Major depression": "PROBLEM"
@@ -103,33 +106,6 @@
   },
   {
     "GAF": "TEST"
-  },
-  {
-    "suicidal": "PROBLEM"
-  },
-  {
-    "homicidal": "PROBLEM"
-  },
-  {
-    "perception disturbances": "PROBLEM"
-  },
-  {
-    "internal stimuli": "PROBLEM"
-  },
-  {
-    "RTC": "TREATMENT"
-  },
-  {
-    "Residential Treatment Center": "TREATMENT"
-  },
-  {
-    "family doctor": "TREATMENT"
-  },
-  {
-    "cardiologist": "TREATMENT"
-  },
-  {
-    "OB/GYN doctor": "TREATMENT"
   },
   {
     "Seroquel": "DRUG"

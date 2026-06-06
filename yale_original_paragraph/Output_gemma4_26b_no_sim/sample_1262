@@ -72,6 +72,9 @@
     "Cholecystectomy": "TREATMENT"
   },
   {
+    "Left thoracentesis": "TREATMENT"
+  },
+  {
     "coronary artery disease": "PROBLEM"
   },
   {
@@ -99,7 +102,10 @@
     "Amiodarone": "DRUG"
   },
   {
-    "numbness and tingling": "PROBLEM"
+    "numbness": "PROBLEM"
+  },
+  {
+    "tingling": "PROBLEM"
   },
   {
     "Blood pressure": "TEST"
@@ -123,7 +129,7 @@
     "lymphadenopathy": "PROBLEM"
   },
   {
-    "Pleural friction rub": "TEST"
+    "Pleural friction rub": "PROBLEM"
   },
   {
     "organomegaly": "PROBLEM"
@@ -141,10 +147,10 @@
     "echocardiogram": "TEST"
   },
   {
-    "DVT": "PROBLEM"
+    "Lovenox": "DRUG"
   },
   {
-    "Lovenox": "DRUG"
+    "DVT": "PROBLEM"
   },
   {
     "mesenteric pain": "PROBLEM"
@@ -159,13 +165,7 @@
     "mediastinal lymph node": "PROBLEM"
   },
   {
-    "pathology": "TEST"
-  },
-  {
     "chest tube placement": "TREATMENT"
-  },
-  {
-    "drainage": "TREATMENT"
   },
   {
     "thoracoscopy": "TEST"
@@ -178,9 +178,6 @@
   },
   {
     "PET CT": "TEST"
-  },
-  {
-    "chemotherapy": "TREATMENT"
   },
   {
     "cisplatin": "DRUG"

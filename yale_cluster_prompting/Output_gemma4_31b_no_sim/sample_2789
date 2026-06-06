@@ -51,6 +51,9 @@
     "migraine headaches": "PROBLEM"
   },
   {
+    "menstrual cycle": "PROBLEM"
+  },
+  {
     "sciatic pain": "PROBLEM"
   },
   {
@@ -93,6 +96,9 @@
     "migraine headaches": "PROBLEM"
   },
   {
+    "glasses": "TREATMENT"
+  },
+  {
     "floaters": "PROBLEM"
   },
   {
@@ -106,9 +112,6 @@
   },
   {
     "intubation": "TREATMENT"
-  },
-  {
-    "surgery": "TREATMENT"
   },
   {
     "intermittent right calf pain": "PROBLEM"
@@ -147,12 +150,6 @@
     "constipated": "PROBLEM"
   },
   {
-    "surgery": "TREATMENT"
-  },
-  {
-    "urinary symptoms": "PROBLEM"
-  },
-  {
     "dysuria": "PROBLEM"
   },
   {
@@ -168,31 +165,28 @@
     "vasectomy": "TREATMENT"
   },
   {
-    "temperature": "TEST"
-  },
-  {
-    "blood pressure": "TEST"
-  },
-  {
-    "heart rate": "TEST"
-  },
-  {
-    "respirations": "TEST"
-  },
-  {
-    "O2 saturation": "TEST"
-  },
-  {
     "acute distress": "PROBLEM"
   },
   {
-    "Regular rate and rhythm": "PROBLEM"
+    "nonicteric": "PROBLEM"
+  },
+  {
+    "EOMI": "PROBLEM"
+  },
+  {
+    "Clear to auscultation": "PROBLEM"
   },
   {
     "Bowel sounds": "TEST"
   },
   {
-    "Right hip incision": "TREATMENT"
+    "Soft": "PROBLEM"
+  },
+  {
+    "nontender": "PROBLEM"
+  },
+  {
+    "Right hip incision": "PROBLEM"
   },
   {
     "diffuse edema": "PROBLEM"
@@ -264,7 +258,7 @@
     "oxycodone IR": "DRUG"
   },
   {
-    "pain.": "PROBLEM"
+    "pain": "PROBLEM"
   },
   {
     "ice": "TREATMENT"
@@ -316,6 +310,9 @@
   },
   {
     "Coumadin": "DRUG"
+  },
+  {
+    "INR": "TEST"
   },
   {
     "Right leg muscle spasm": "PROBLEM"

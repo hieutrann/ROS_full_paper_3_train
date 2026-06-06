@@ -1,24 +1,63 @@
 [
   {
-    "VITAL SIGNS": "TEST"
+    "apparent distress": "PROBLEM"
   },
   {
-    "Blood pressure": "TEST"
+    "Sclerae nonicteric": "PROBLEM"
   },
   {
-    "pulse": "TEST"
-  },
-  {
-    "respirations": "TEST"
-  },
-  {
-    "temperature": "TEST"
+    "lesions": "PROBLEM"
   },
   {
     "Funduscopic examination": "TEST"
   },
   {
+    "bruit": "PROBLEM"
+  },
+  {
+    "JVD": "PROBLEM"
+  },
+  {
+    "adenopathy": "PROBLEM"
+  },
+  {
     "thyroid abnormality": "PROBLEM"
+  },
+  {
+    "auscultation": "TEST"
+  },
+  {
+    "percussion": "TEST"
+  },
+  {
+    "murmur": "PROBLEM"
+  },
+  {
+    "heave": "PROBLEM"
+  },
+  {
+    "click": "PROBLEM"
+  },
+  {
+    "lift": "PROBLEM"
+  },
+  {
+    "thrill": "PROBLEM"
+  },
+  {
+    "rub": "PROBLEM"
+  },
+  {
+    "gallop": "PROBLEM"
+  },
+  {
+    "inspection": "TEST"
+  },
+  {
+    "palpation": "TEST"
+  },
+  {
+    "adenopathy": "PROBLEM"
   },
   {
     "hepatosplenomegaly": "PROBLEM"
@@ -37,6 +76,15 @@
   },
   {
     "guarding": "PROBLEM"
+  },
+  {
+    "aortic impulse": "PROBLEM"
+  },
+  {
+    "bruit": "PROBLEM"
+  },
+  {
+    "digital palpation": "TEST"
   },
   {
     "Hemoccult": "TEST"
@@ -60,33 +108,18 @@
     "CVA tenderness": "PROBLEM"
   },
   {
-    "Kernig sign": "TEST"
+    "straight - leg raising": "TEST"
   },
   {
-    "Brudzinski sign": "TEST"
+    "Kernig": "TEST"
+  },
+  {
+    "Brudzinski signs": "TEST"
   },
   {
     "premalignant condition": "PROBLEM"
   },
   {
     "malignant condition": "PROBLEM"
-  },
-  {
-    "hepatosplenomegaly": "PROBLEM"
-  },
-  {
-    "mass": "PROBLEM"
-  },
-  {
-    "tenderness": "PROBLEM"
-  },
-  {
-    "rebound": "PROBLEM"
-  },
-  {
-    "rigidity": "PROBLEM"
-  },
-  {
-    "pulse": "TEST"
   }
 ]

@@ -1,0 +1,140 @@
+[
+  {
+    "Sepsis due to urinary tract infection": "PROBLEM"
+  },
+  {
+    "Medical Transcription Sample Report": "PROBLEM"
+  },
+  {
+    "Temperature": "TEST"
+  },
+  {
+    "102.1": "TEST"
+  },
+  {
+    "CHEST: Examination of the chest is clear to auscultation.": "TEST"
+  },
+  {
+    "First and second heart sounds": "TEST"
+  },
+  {
+    "No murmurs appreciated": "PROBLEM"
+  },
+  {
+    "Benign": "PROBLEM"
+  },
+  {
+    "Right renal angle": "PROBLEM"
+  },
+  {
+    "Bowel sounds": "TEST"
+  },
+  {
+    "swelling": "PROBLEM"
+  },
+  {
+    "NEUROLOGIC": "TEST"
+  },
+  {
+    "Examination is nonfocal": "TEST"
+  },
+  {
+    "White count": "TEST"
+  },
+  {
+    "Hemoglobin": "TEST"
+  },
+  {
+    "hematocrit": "TEST"
+  },
+  {
+    "platelets": "TEST"
+  },
+  {
+    "BUN": "TEST"
+  },
+  {
+    "creatinine": "TEST"
+  },
+  {
+    "Sepsis due to urinary tract infection": "PROBLEM"
+  },
+  {
+    "Escherichia coli": "PROBLEM"
+  },
+  {
+    "Levaquin": "DRUG"
+  },
+  {
+    "doripenem": "DRUG"
+  },
+  {
+    "Urinary tract infection": "PROBLEM"
+  },
+  {
+    "doripenem": "DRUG"
+  },
+  {
+    "Foley catheter": "TREATMENT"
+  },
+  {
+    "Hypotension": "PROBLEM"
+  },
+  {
+    "intravenous fluids": "TREATMENT"
+  },
+  {
+    "Ischemic cardiomyopathy": "PROBLEM"
+  },
+  {
+    "Diabetes type 2.": "PROBLEM"
+  },
+  {
+    "Uncontrolled.": "PROBLEM"
+  },
+  {
+    "insulin sliding scale": "TREATMENT"
+  },
+  {
+    "Recent pulmonary embolism": "PROBLEM"
+  },
+  {
+    "INR": "TEST"
+  },
+  {
+    "therapeutic range": "PROBLEM"
+  },
+  {
+    "Coumadin": "DRUG"
+  },
+  {
+    "coronary artery disease": "PROBLEM"
+  },
+  {
+    "Troponin indeterminate.": "TEST"
+  },
+  {
+    "Cardiologist": "PROBLEM"
+  },
+  {
+    "Continue medical treatment": "TREATMENT"
+  },
+  {
+    "troponin": "PROBLEM"
+  },
+  {
+    "sepsis": "PROBLEM"
+  },
+  {
+    "escherichia coli": "PROBLEM"
+  },
+  {
+    "urinary tract infection": "PROBLEM"
+  },
+  {
+    "doripenem": "DRUG"
+  },
+  {
+    "troponin": "TEST"
+  }
+]

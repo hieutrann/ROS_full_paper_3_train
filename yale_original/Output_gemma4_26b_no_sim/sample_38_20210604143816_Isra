@@ -12,6 +12,9 @@
     "MiraLax": "DRUG"
   },
   {
+    "constipation": "PROBLEM"
+  },
+  {
     "Gastroenteritis": "PROBLEM"
   },
   {
@@ -45,6 +48,9 @@
     "MiraLax": "DRUG"
   },
   {
+    "constipation": "PROBLEM"
+  },
+  {
     "vomiting": "PROBLEM"
   },
   {
@@ -54,10 +60,7 @@
     "weight": "TEST"
   },
   {
-    "lost all this weight": "PROBLEM"
-  },
-  {
-    "persistent vomiting": "PROBLEM"
+    "vomiting": "PROBLEM"
   },
   {
     "weight loss": "PROBLEM"
@@ -159,6 +162,12 @@
     "IV fluids": "TREATMENT"
   },
   {
+    "clear liquids": "TREATMENT"
+  },
+  {
+    "regular diet": "TREATMENT"
+  },
+  {
     "weight loss": "PROBLEM"
   },
   {
@@ -186,7 +195,7 @@
     "hypertension": "PROBLEM"
   },
   {
-    "unexplained weight loss": "PROBLEM"
+    "weight loss": "PROBLEM"
   },
   {
     "Adderall": "DRUG"

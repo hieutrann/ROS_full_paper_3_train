@@ -1,9 +1,6 @@
 [
   {
-    "Thyroidectomy": "TREATMENT"
-  },
-  {
-    "Symptomatic thyroid goiter": "PROBLEM"
+    "thyroid goiter": "PROBLEM"
   },
   {
     "Total thyroidectomy": "TREATMENT"
@@ -27,12 +24,6 @@
     "thyroid hormone replacement": "TREATMENT"
   },
   {
-    "afebrile": "PROBLEM"
-  },
-  {
-    "vital signs": "TEST"
-  },
-  {
     "intravenous narcotics": "DRUG"
   },
   {
@@ -42,16 +33,13 @@
     "fever": "PROBLEM"
   },
   {
-    "vital signs": "TEST"
-  },
-  {
-    "pain control": "PROBLEM"
+    "pain": "PROBLEM"
   },
   {
     "wound": "PROBLEM"
   },
   {
-    "drain": "TREATMENT"
+    "The drain": "TREATMENT"
   },
   {
     "Vicodin": "DRUG"

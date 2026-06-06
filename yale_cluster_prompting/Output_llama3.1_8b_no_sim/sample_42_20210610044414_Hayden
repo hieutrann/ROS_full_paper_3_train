@@ -18,7 +18,7 @@
     "Menometrorrhagia": "PROBLEM"
   },
   {
-    "2": "TEST"
+    "2": "PROBLEM"
   },
   {
     "Dysmenorrhea": "PROBLEM"
@@ -27,16 +27,16 @@
     "3": "PROBLEM"
   },
   {
-    "uterine fibroids": "PROBLEM"
+    "Small uterine fibroids": "PROBLEM"
   },
   {
-    "DISCHARGE DIAGNOSES": "TEST"
+    "DISCHARGE DIAGNOSES": "PROBLEM"
   },
   {
     "Menorrhagia": "PROBLEM"
   },
   {
-    "2": "TEST"
+    "2": "PROBLEM"
   },
   {
     "Dysmenorrhea": "PROBLEM"
@@ -45,7 +45,7 @@
     "3": "PROBLEM"
   },
   {
-    "uterine fibroids": "PROBLEM"
+    "Small uterine fibroids": "PROBLEM"
   },
   {
     "Total vaginal hysterectomy": "TREATMENT"
@@ -54,28 +54,13 @@
     "42 year-old": "PROBLEM"
   },
   {
-    "white female": "PROBLEM"
-  },
-  {
-    "gravida 3": "PROBLEM"
-  },
-  {
-    "para 2": "PROBLEM"
-  },
-  {
-    "vaginal deliveries": "TREATMENT"
-  },
-  {
     "menometrorrhagia": "PROBLEM"
   },
   {
     "dysmenorrhea": "PROBLEM"
   },
   {
-    "ultrasound": "TEST"
-  },
-  {
-    "uterine fibroid": "PROBLEM"
+    "a small uterine fibroid": "PROBLEM"
   },
   {
     "oral contraceptives": "DRUG"
@@ -90,13 +75,13 @@
     "Tubal ligation": "TREATMENT"
   },
   {
-    "uterus": "PROBLEM"
+    "a top normal sized uterus": "PROBLEM"
   },
   {
-    "adnexa": "PROBLEM"
+    "normal adnexa": "PROBLEM"
   },
   {
-    "discharge hemoglobin": "TEST"
+    "hemoglobin": "TEST"
   },
   {
     "total vaginal hysterectomy": "TREATMENT"
@@ -105,19 +90,13 @@
     "general anesthesia": "TREATMENT"
   },
   {
-    "Postoperatively": "TEST"
+    "Bowel function": "PROBLEM"
   },
   {
-    "Bowel and bladder function": "PROBLEM"
+    "bladder function": "PROBLEM"
   },
   {
-    "ambulating": "TEST"
-  },
-  {
-    "diet": "TEST"
-  },
-  {
-    "postoperative instructions": "TREATMENT"
+    "ambulating": "PROBLEM"
   },
   {
     "follow up": "TREATMENT"
@@ -126,7 +105,7 @@
     "Vicodin": "DRUG"
   },
   {
-    "DISCHARGE CONDITION": "PROBLEM"
+    "Good": "PROBLEM"
   },
   {
     "dysmenorrhea": "PROBLEM"
@@ -138,9 +117,6 @@
     "vaginal": "PROBLEM"
   },
   {
-    "total vaginal hysterectomy": "TREATMENT"
-  },
-  {
     "menometrorrhagia": "PROBLEM"
   },
   {
@@ -148,5 +124,8 @@
   },
   {
     "fibroids": "PROBLEM"
+  },
+  {
+    "total vaginal hysterectomy": "TREATMENT"
   }
 ]

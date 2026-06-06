@@ -18,10 +18,10 @@
     "lesions": "PROBLEM"
   },
   {
-    "lesions": "PROBLEM"
+    "Pupils equally responsive to light": "TEST"
   },
   {
-    "Anterior chamber clear": "TEST"
+    "lesions": "PROBLEM"
   },
   {
     "Fundi clear": "PROBLEM"
@@ -45,7 +45,10 @@
     "lesions": "PROBLEM"
   },
   {
-    "Tympanic membranes": "TEST"
+    "Tympanic membranes": "PROBLEM"
+  },
+  {
+    "light reflex": "TEST"
   },
   {
     "middle ear effusions": "PROBLEM"
@@ -93,10 +96,13 @@
     "masses": "PROBLEM"
   },
   {
-    "Normal range of motion": "PROBLEM"
+    "range of motion": "TEST"
   },
   {
     "nontender": "PROBLEM"
+  },
+  {
+    "auscultation": "TEST"
   },
   {
     "wheezing": "PROBLEM"
@@ -108,10 +114,10 @@
     "rhonchi": "PROBLEM"
   },
   {
-    "Chest nontender": "PROBLEM"
+    "nontender": "PROBLEM"
   },
   {
-    "Normal lung excursion": "TEST"
+    "lung excursion": "TEST"
   },
   {
     "accessory muscle use": "PROBLEM"
@@ -124,6 +130,15 @@
   },
   {
     "Heart rate": "TEST"
+  },
+  {
+    "nontender": "PROBLEM"
+  },
+  {
+    "nondistended": "PROBLEM"
+  },
+  {
+    "bowel sounds": "TEST"
   },
   {
     "hepatomegaly": "PROBLEM"
@@ -175,9 +190,6 @@
   },
   {
     "edema": "PROBLEM"
-  },
-  {
-    "Nontender": "PROBLEM"
   },
   {
     "pain": "PROBLEM"
@@ -234,6 +246,9 @@
     "effusion": "PROBLEM"
   },
   {
+    "nontender": "PROBLEM"
+  },
+  {
     "Tinel": "TEST"
   },
   {
@@ -249,7 +264,10 @@
     "erythema": "PROBLEM"
   },
   {
-    "Nontender": "PROBLEM"
+    "Olecranon bursa flat": "PROBLEM"
+  },
+  {
+    "nontender": "PROBLEM"
   },
   {
     "edema": "PROBLEM"
@@ -261,16 +279,13 @@
     "swinging test": "TEST"
   },
   {
-    "Trochanteric bursa nontender": "PROBLEM"
+    "nontender": "PROBLEM"
   },
   {
     "pain": "PROBLEM"
   },
   {
     "crepitus": "PROBLEM"
-  },
-  {
-    "Normal gait": "PROBLEM"
   },
   {
     "delusions": "PROBLEM"
@@ -294,9 +309,6 @@
     "agitation": "PROBLEM"
   },
   {
-    "physical examination": "TEST"
-  },
-  {
     "crepitus": "PROBLEM"
   },
   {
@@ -313,6 +325,9 @@
   },
   {
     "joint effusions": "PROBLEM"
+  },
+  {
+    "nontender": "PROBLEM"
   },
   {
     "lesions": "PROBLEM"

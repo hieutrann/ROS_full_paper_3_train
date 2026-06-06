@@ -1,18 +1,33 @@
 [
   {
-    "Neck pain with right upper extremity radiculopathy": "PROBLEM"
+    "Neck pain": "PROBLEM"
   },
   {
-    "Cervical spondylosis with herniated nucleus pulposus C4-C5, C5-C6, and C6-C7 with stenosis": "PROBLEM"
+    "right upper extremity radiculopathy": "PROBLEM"
   },
   {
-    "Anterior cervical discectomy with decompression C4-C5, C5-C6, and C6-C7": "TREATMENT"
+    "cervical spondylosis": "PROBLEM"
   },
   {
-    "Arthrodesis with anterior interbody fusion C4-C5, C5-C6, and C6-C7": "TREATMENT"
+    "herniated nucleus pulposus": "PROBLEM"
   },
   {
-    "Spinal instrumentation C4 through C7": "TREATMENT"
+    "stenosis": "PROBLEM"
+  },
+  {
+    "Anterior cervical discectomy": "TREATMENT"
+  },
+  {
+    "decompression": "TREATMENT"
+  },
+  {
+    "Arthrodesis": "TREATMENT"
+  },
+  {
+    "anterior interbody fusion": "TREATMENT"
+  },
+  {
+    "Spinal instrumentation": "TREATMENT"
   },
   {
     "Implant": "TREATMENT"
@@ -33,9 +48,12 @@
     "Flexeril": "DRUG"
   },
   {
+    "liver surgery": "TREATMENT"
+  },
+  {
     "IV morphine": "DRUG"
   },
   {
-    "Liver surgery": "TREATMENT"
+    "dysphagia": "PROBLEM"
   }
 ]

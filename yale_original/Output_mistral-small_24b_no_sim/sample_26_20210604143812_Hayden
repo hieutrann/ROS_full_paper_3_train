@@ -1,6 +1,12 @@
 [
   {
+    "Cognitive linguistic impairment": "PROBLEM"
+  },
+  {
     "stroke": "PROBLEM"
+  },
+  {
+    "speech therapy": "TREATMENT"
   },
   {
     "cognitive linguistic deficits": "PROBLEM"
@@ -15,25 +21,28 @@
     "cognitive linguistic deficits": "PROBLEM"
   },
   {
-    "difficulty": "PROBLEM"
+    "generative naming": "PROBLEM"
   },
   {
-    "generative naming": "TEST"
+    "auditory comprehension": "PROBLEM"
   },
   {
-    "auditory comprehension": "TEST"
+    "recall": "PROBLEM"
   },
   {
-    "recall": "TEST"
+    "skilled speech therapy": "TREATMENT"
+  },
+  {
+    "newspaper article": "TEST"
+  },
+  {
+    "cognitive linguistic abilities": "PROBLEM"
   },
   {
     "speech therapy": "TREATMENT"
   },
   {
-    "narrative": "TEST"
-  },
-  {
-    "newspaper article": "TEST"
+    "therapy": "TREATMENT"
   },
   {
     "stroke": "PROBLEM"
@@ -48,6 +57,6 @@
     "linguistic impairment": "PROBLEM"
   },
   {
-    "cognitive": "PROBLEM"
+    "cognitive linguistic": "PROBLEM"
   }
 ]

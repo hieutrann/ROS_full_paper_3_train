@@ -18,7 +18,7 @@
     "obesity": "PROBLEM"
   },
   {
-    "a 1.1 cm lesion in the medial aspect of the right parietal lobe": "PROBLEM"
+    "lesion in the medial aspect of the right parietal lobe": "PROBLEM"
   },
   {
     "deconditioning": "PROBLEM"
@@ -42,7 +42,7 @@
     "obesity": "PROBLEM"
   },
   {
-    "A 1.1 cm lesion in the medial aspect of the right parietal lobe": "PROBLEM"
+    "lesion in the medial aspect of the right parietal lobe": "PROBLEM"
   },
   {
     "Deconditioning": "PROBLEM"
@@ -64,6 +64,9 @@
   },
   {
     "short of breath": "PROBLEM"
+  },
+  {
+    "cardiac workup": "TEST"
   },
   {
     "myocardial infarction": "PROBLEM"
@@ -93,7 +96,7 @@
     "MRI": "TEST"
   },
   {
-    "1 cm lesion in the right parietal lobe": "PROBLEM"
+    "lesion in the right parietal lobe": "PROBLEM"
   },
   {
     "cardiac cath": "TREATMENT"

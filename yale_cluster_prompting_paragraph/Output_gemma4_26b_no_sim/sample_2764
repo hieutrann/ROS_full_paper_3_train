@@ -1,8 +1,5 @@
 [
   {
-    "Pneumonia": "PROBLEM"
-  },
-  {
     "Atypical pneumonia": "PROBLEM"
   },
   {
@@ -45,7 +42,7 @@
     "Rheumatoid arthritis": "PROBLEM"
   },
   {
-    "stress-induced adrenal insufficiency": "PROBLEM"
+    "mild stress-induced adrenal insufficiency": "PROBLEM"
   },
   {
     "cough": "PROBLEM"
@@ -105,7 +102,7 @@
     "C. difficile toxin": "TEST"
   },
   {
-    "Rocephin": "DRUG"
+    "Rocephin IV": "DRUG"
   },
   {
     "azithromycin": "DRUG"
@@ -135,7 +132,7 @@
     "methotrexate": "DRUG"
   },
   {
-    "methotrexate": "DRUG"
+    "Methotrexate": "DRUG"
   },
   {
     "pneumonitis": "PROBLEM"

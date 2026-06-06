@@ -1,0 +1,437 @@
+[
+  {
+    "Hypertension": "PROBLEM"
+  },
+  {
+    "atrial fibrillation": "PROBLEM"
+  },
+  {
+    "large cardioembolic stroke": "PROBLEM"
+  },
+  {
+    "medical management": "TREATMENT"
+  },
+  {
+    "special procedures": "TREATMENT"
+  },
+  {
+    "stroke": "PROBLEM"
+  },
+  {
+    "CT scan of the head": "TEST"
+  },
+  {
+    "protocol medication": "DRUG"
+  },
+  {
+    "TPA": "DRUG"
+  },
+  {
+    "atrial fibrillation": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "labetalol": "DRUG"
+  },
+  {
+    "130": "TEST"
+  },
+  {
+    "Cardizem": "DRUG"
+  },
+  {
+    "stroke": "PROBLEM"
+  },
+  {
+    "TPA": "DRUG"
+  },
+  {
+    "comatose": "PROBLEM"
+  },
+  {
+    "intubation": "TREATMENT"
+  },
+  {
+    "paralyzation": "TREATMENT"
+  },
+  {
+    "diastolic": "PROBLEM"
+  },
+  {
+    "190": "TEST"
+  },
+  {
+    "acute second stroke": "PROBLEM"
+  },
+  {
+    "arteriogram": "TEST"
+  },
+  {
+    "clot": "PROBLEM"
+  },
+  {
+    "proximal left carotid": "PROBLEM"
+  },
+  {
+    "extremely guarded and critical prognosis": "PROBLEM"
+  },
+  {
+    "echocardiogram": "TEST"
+  },
+  {
+    "patent foramen ovale": "PROBLEM"
+  },
+  {
+    "arteriogram": "TEST"
+  },
+  {
+    "review of systems": "TEST"
+  },
+  {
+    "bladder distension surgery": "TREATMENT"
+  },
+  {
+    "Coumadin": "DRUG"
+  },
+  {
+    "AFib": "PROBLEM"
+  },
+  {
+    "Tremor": "PROBLEM"
+  },
+  {
+    "Parkinson's": "PROBLEM"
+  },
+  {
+    "GERD": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "arthritis": "PROBLEM"
+  },
+  {
+    "Parkinson's": "PROBLEM"
+  },
+  {
+    "TIA": "PROBLEM"
+  },
+  {
+    "chronic atrial fibrillation": "PROBLEM"
+  },
+  {
+    "Coumadin": "DRUG"
+  },
+  {
+    "Cholecystectomy": "TREATMENT"
+  },
+  {
+    "TAH 33": "TREATMENT"
+  },
+  {
+    "gallstones": "PROBLEM"
+  },
+  {
+    "back surgery 1998": "TREATMENT"
+  },
+  {
+    "thoracotomy for unknown reason at present": "TREATMENT"
+  },
+  {
+    "MORPHINE": "DRUG"
+  },
+  {
+    "SULFAS (RASH)": "PROBLEM"
+  },
+  {
+    "PROZAC": "DRUG"
+  },
+  {
+    "Lanoxin": "DRUG"
+  },
+  {
+    "Inderal LA": "DRUG"
+  },
+  {
+    "MOBIC": "DRUG"
+  },
+  {
+    "Robaxin": "DRUG"
+  },
+  {
+    "aspirin": "DRUG"
+  },
+  {
+    "acyclovir": "DRUG"
+  },
+  {
+    "potassium": "DRUG"
+  },
+  {
+    "oxazepam": "DRUG"
+  },
+  {
+    "ibuprofen": "DRUG"
+  },
+  {
+    "Darvocet-N": "DRUG"
+  },
+  {
+    "smoke": "PROBLEM"
+  },
+  {
+    "drink": "PROBLEM"
+  },
+  {
+    "cancer": "PROBLEM"
+  },
+  {
+    "MI": "PROBLEM"
+  },
+  {
+    "VACCINATION STATUS": "TEST"
+  },
+  {
+    "temperature": "TEST"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "heart rate": "TEST"
+  },
+  {
+    "respirations": "TEST"
+  },
+  {
+    "alert": "PROBLEM"
+  },
+  {
+    "vital signs": "TEST"
+  },
+  {
+    "white count": "PROBLEM"
+  },
+  {
+    "76 neutrophils": "TEST"
+  },
+  {
+    "blood sugar": "PROBLEM"
+  },
+  {
+    "hemoglobin A1c": "TEST"
+  },
+  {
+    "TSH 2.1": "TEST"
+  },
+  {
+    "cholesterol 165": "TEST"
+  },
+  {
+    "Digoxin 1.24": "DRUG"
+  },
+  {
+    "CPK 57": "TEST"
+  },
+  {
+    "ABG 7.47/32/459 on 100%.": "TEST"
+  },
+  {
+    "Magnesium 1.5.": "TEST"
+  },
+  {
+    "ESR 9": "TEST"
+  },
+  {
+    "EKG": "TEST"
+  },
+  {
+    "cardiomegaly": "PROBLEM"
+  },
+  {
+    "aortic atherosclerosis": "PROBLEM"
+  },
+  {
+    "Chest x-ray, shoulder films and CT scan of the head": "TEST"
+  },
+  {
+    "ET tube placement": "TEST"
+  },
+  {
+    "cardiomegaly": "PROBLEM"
+  },
+  {
+    "OGD": "TEST"
+  },
+  {
+    "atherosclerosis": "PROBLEM"
+  },
+  {
+    "CT scan of the head": "TEST"
+  },
+  {
+    "X-rays of the shoulders": "TEST"
+  },
+  {
+    "stroke": "PROBLEM"
+  },
+  {
+    "critical condition": "PROBLEM"
+  },
+  {
+    "multiple strokes": "PROBLEM"
+  },
+  {
+    "clot burden": "PROBLEM"
+  },
+  {
+    "prior cardiologist": "PROBLEM"
+  },
+  {
+    "prior echocardiogram report": "TEST"
+  },
+  {
+    "echo": "TEST"
+  },
+  {
+    "clot burdened": "PROBLEM"
+  },
+  {
+    "PFO": "PROBLEM"
+  },
+  {
+    "anticoagulants": "DRUG"
+  },
+  {
+    "study drug": "DRUG"
+  },
+  {
+    "interventional radiology": "TEST"
+  },
+  {
+    "Hypertension/atrial fibrillation": "PROBLEM"
+  },
+  {
+    "beta-blocker": "DRUG"
+  },
+  {
+    "Parkinson's": "PROBLEM"
+  },
+  {
+    "beta-blockers": "DRUG"
+  },
+  {
+    "Cardizem drip": "DRUG"
+  },
+  {
+    "atrial fibrillation": "PROBLEM"
+  },
+  {
+    "Digoxin": "DRUG"
+  },
+  {
+    "beta-blocker": "DRUG"
+  },
+  {
+    "beta-blocker": "DRUG"
+  },
+  {
+    "beta-blocker": "TREATMENT"
+  },
+  {
+    "Digoxin": "DRUG"
+  },
+  {
+    "calcium channel blocker": "TREATMENT"
+  },
+  {
+    "Brevibloc": "DRUG"
+  },
+  {
+    "Esmolol drip": "TREATMENT"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "cardiology": "TREATMENT"
+  },
+  {
+    "Digoxin": "DRUG"
+  },
+  {
+    "TSH": "TEST"
+  },
+  {
+    "STAT echo": "TEST"
+  },
+  {
+    "ultrasound of the leg": "TEST"
+  },
+  {
+    "Respiratory failure requiring ventilator": "PROBLEM"
+  },
+  {
+    "hyperventilate": "PROBLEM"
+  },
+  {
+    "breathing machine": "TREATMENT"
+  },
+  {
+    "pH": "TEST"
+  },
+  {
+    "CO2": "TEST"
+  },
+  {
+    "hyperventilate": "TREATMENT"
+  },
+  {
+    "pCO2": "TEST"
+  },
+  {
+    "pH": "TEST"
+  },
+  {
+    "electrolytes": "PROBLEM"
+  },
+  {
+    "Deep vein thrombosis prophylaxis": "TREATMENT"
+  },
+  {
+    "thigh-high TED hose": "TREATMENT"
+  },
+  {
+    "SCDs": "TREATMENT"
+  },
+  {
+    "DIC": "PROBLEM"
+  },
+  {
+    "CBCs": "TEST"
+  },
+  {
+    "tube feeds": "TREATMENT"
+  },
+  {
+    "neurologic": "PROBLEM"
+  },
+  {
+    "medication treatment": "TREATMENT"
+  },
+  {
+    "foramen ovale": "PROBLEM"
+  },
+  {
+    "medical management": "TREATMENT"
+  },
+  {
+    "ct scan": "TEST"
+  },
+  {
+    "echocardiogram": "TEST"
+  }
+]

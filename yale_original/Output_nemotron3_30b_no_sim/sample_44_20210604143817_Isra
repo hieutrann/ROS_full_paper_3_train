@@ -1,0 +1,146 @@
+[
+  {
+    "Airway Compromise": "PROBLEM"
+  },
+  {
+    "Foreign Body": "PROBLEM"
+  },
+  {
+    "ER Visit": "TEST"
+  },
+  {
+    "intubated": "TREATMENT"
+  },
+  {
+    "fishbone": "PROBLEM"
+  },
+  {
+    "foreign body": "PROBLEM"
+  },
+  {
+    "airway compromise": "PROBLEM"
+  },
+  {
+    "operating room": "TREATMENT"
+  },
+  {
+    "intubated": "TREATMENT"
+  },
+  {
+    "fishbone": "PROBLEM"
+  },
+  {
+    "diabetes": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "asthma": "PROBLEM"
+  },
+  {
+    "cholecystectomy": "TREATMENT"
+  },
+  {
+    "total hysterectomy": "TREATMENT"
+  },
+  {
+    "cataract": "PROBLEM"
+  },
+  {
+    "No known drug allergies": "PROBLEM"
+  },
+  {
+    "Prevacid": "DRUG"
+  },
+  {
+    "Humulin": "DRUG"
+  },
+  {
+    "Diprivan": "DRUG"
+  },
+  {
+    "Proventil": "DRUG"
+  },
+  {
+    "Unasyn": "DRUG"
+  },
+  {
+    "Solu-Medrol": "DRUG"
+  },
+  {
+    "Noncontributory": "PROBLEM"
+  },
+  {
+    "illicit drugs": "PROBLEM"
+  },
+  {
+    "alcohol": "PROBLEM"
+  },
+  {
+    "tobacco": "PROBLEM"
+  },
+  {
+    "PHYSICAL EXAMINATION": "TEST"
+  },
+  {
+    "LABORATORY DATA": "TEST"
+  },
+  {
+    "Operating room": "TREATMENT"
+  },
+  {
+    "airway compromise": "PROBLEM"
+  },
+  {
+    "fishbone": "TREATMENT"
+  },
+  {
+    "intubated": "TREATMENT"
+  },
+  {
+    "airway": "PROBLEM"
+  },
+  {
+    "tracheostomy": "PROBLEM"
+  },
+  {
+    "IV antibiotics": "DRUG"
+  },
+  {
+    "ventilatory support": "TREATMENT"
+  },
+  {
+    "operating room": "TREATMENT"
+  },
+  {
+    "p.o.s": "TREATMENT"
+  },
+  {
+    "discharged": "PROBLEM"
+  },
+  {
+    "diabetes": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "asthma": "PROBLEM"
+  },
+  {
+    "cholecystectomy": "TREATMENT"
+  },
+  {
+    "fishbone": "PROBLEM"
+  },
+  {
+    "foreign body": "PROBLEM"
+  },
+  {
+    "airway compromise": "PROBLEM"
+  },
+  {
+    "airway": "PROBLEM"
+  }
+]

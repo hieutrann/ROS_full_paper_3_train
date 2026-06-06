@@ -9,16 +9,16 @@
     "chest pain": "PROBLEM"
   },
   {
-    "diabetes": "PROBLEM"
+    "history of diabetes": "PROBLEM"
   },
   {
-    "hypertension": "PROBLEM"
+    "history of hypertension": "PROBLEM"
   },
   {
-    "obesity": "PROBLEM"
+    "history of obesity": "PROBLEM"
   },
   {
-    "1.1 cm lesion in the medial aspect of the right parietal lobe": "PROBLEM"
+    "a 1.1 cm lesion in the medial aspect of the right parietal lobe": "PROBLEM"
   },
   {
     "deconditioning": "PROBLEM"
@@ -42,13 +42,13 @@
     "obesity": "PROBLEM"
   },
   {
-    "1.1 cm lesion": "PROBLEM"
+    "lesion": "PROBLEM"
   },
   {
-    "Deconditioning": "PROBLEM"
+    "Deconditioning.": "PROBLEM"
   },
   {
-    "Cardiology": "TEST"
+    "Cardiology": "PROBLEM"
   },
   {
     "Echocardiogram": "TEST"
@@ -72,9 +72,6 @@
     "cardiac workup": "TEST"
   },
   {
-    "vital signs": "TEST"
-  },
-  {
     "myocardial infarction": "PROBLEM"
   },
   {
@@ -85,9 +82,6 @@
   },
   {
     "concentric LVH": "PROBLEM"
-  },
-  {
-    "EF": "TEST"
   },
   {
     "stress test": "TEST"
@@ -102,7 +96,10 @@
     "MRI": "TEST"
   },
   {
-    "lesion": "PROBLEM"
+    "1 cm lesion": "PROBLEM"
+  },
+  {
+    "right parietal lobe": "PROBLEM"
   },
   {
     "cardiac cath": "TEST"

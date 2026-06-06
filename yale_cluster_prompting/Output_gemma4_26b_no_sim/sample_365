@@ -9,6 +9,9 @@
     "pain in the toes": "PROBLEM"
   },
   {
+    "several medical problems": "PROBLEM"
+  },
+  {
     "numbness": "PROBLEM"
   },
   {
@@ -21,7 +24,7 @@
     "moderate pain": "PROBLEM"
   },
   {
-    "sharp quality pain": "PROBLEM"
+    "pain": "PROBLEM"
   },
   {
     "paraesthesias": "PROBLEM"
@@ -100,9 +103,6 @@
   },
   {
     "fracture": "PROBLEM"
-  },
-  {
-    "pins removed": "TREATMENT"
   },
   {
     "colonoscopies": "TEST"
@@ -243,13 +243,10 @@
     "Pulse": "TEST"
   },
   {
-    "Weight": "TEST"
-  },
-  {
     "Pupils": "TEST"
   },
   {
-    "benign": "PROBLEM"
+    "Extraocular movements": "TEST"
   },
   {
     "adenopathy": "PROBLEM"
@@ -258,19 +255,22 @@
     "thyromegaly": "PROBLEM"
   },
   {
-    "Heart": "TEST"
+    "murmur": "PROBLEM"
   },
   {
-    "carotid bruits": "PROBLEM"
+    "click": "PROBLEM"
+  },
+  {
+    "rub": "PROBLEM"
+  },
+  {
+    "carotid bruits": "TEST"
   },
   {
     "bowel sounds": "TEST"
   },
   {
     "hepatosplenomegaly": "PROBLEM"
-  },
-  {
-    "mass": "PROBLEM"
   },
   {
     "Breasts: Surgically absent.": "PROBLEM"
@@ -297,28 +297,28 @@
     "Pedal pulses": "TEST"
   },
   {
+    "Cranial nerves II-XII": "TEST"
+  },
+  {
     "Deep tendon reflexes": "TEST"
   },
   {
     "atrophic": "PROBLEM"
   },
   {
-    "atrophic": "PROBLEM"
-  },
-  {
-    "Cervix": "PROBLEM"
+    "Vaginal rugae": "PROBLEM"
   },
   {
     "Bimanual exam": "TEST"
   },
   {
-    "absence of uterus and cervix": "PROBLEM"
+    "absence of uterus": "PROBLEM"
+  },
+  {
+    "absence of cervix": "PROBLEM"
   },
   {
     "ovaries": "PROBLEM"
-  },
-  {
-    "brown stool": "PROBLEM"
   },
   {
     "actinic keratosis": "PROBLEM"
@@ -435,6 +435,6 @@
     "anemia": "PROBLEM"
   },
   {
-    "peripheral neuropathy": "PROBLEM"
+    "neuropathy": "PROBLEM"
   }
 ]

@@ -60,16 +60,16 @@
     "fluoroscopy machine": "TEST"
   },
   {
-    "betadine": "TREATMENT"
+    "betadine": "DRUG"
+  },
+  {
+    "non-ionic contrast agent": "DRUG"
   },
   {
     "epidurogram": "TEST"
   },
   {
     "radiculogram": "TEST"
-  },
-  {
-    "ice": "TREATMENT"
   },
   {
     "shortness of breath": "PROBLEM"

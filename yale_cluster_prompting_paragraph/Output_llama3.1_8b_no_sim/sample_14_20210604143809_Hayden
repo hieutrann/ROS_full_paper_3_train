@@ -1,0 +1,101 @@
+[
+  {
+    "Crohn disease": "PROBLEM"
+  },
+  {
+    "Pneumonia": "PROBLEM"
+  },
+  {
+    "Anasarca": "PROBLEM"
+  },
+  {
+    "Anemia": "PROBLEM"
+  },
+  {
+    "protein-losing enteropathy": "PROBLEM"
+  },
+  {
+    "malnutrition": "PROBLEM"
+  },
+  {
+    "lower extremity edema": "PROBLEM"
+  },
+  {
+    "diarrhea": "PROBLEM"
+  },
+  {
+    "crampy abdominal pain": "PROBLEM"
+  },
+  {
+    "enteropathy": "PROBLEM"
+  },
+  {
+    "Prednisone": "DRUG"
+  },
+  {
+    "Effexor": "DRUG"
+  },
+  {
+    "Folic acid": "DRUG"
+  },
+  {
+    "Norco": "DRUG"
+  },
+  {
+    "IV antibiotics": "DRUG"
+  },
+  {
+    "Streptococcus": "TEST"
+  },
+  {
+    "sedimentation rate": "TEST"
+  },
+  {
+    "C-reactive protein": "TEST"
+  },
+  {
+    "LDH": "TEST"
+  },
+  {
+    "prealbumin": "TEST"
+  },
+  {
+    "thyroid": "TEST"
+  },
+  {
+    "iron studies": "TEST"
+  },
+  {
+    "physical examination": "TEST"
+  },
+  {
+    "vital signs": "TEST"
+  },
+  {
+    "laboratory studies": "TEST"
+  },
+  {
+    "protein intake": "TREATMENT"
+  },
+  {
+    "dietary supplement": "TREATMENT"
+  },
+  {
+    "calorie count": "TREATMENT"
+  },
+  {
+    "diuretics": "TREATMENT"
+  },
+  {
+    "physical therapy": "TREATMENT"
+  },
+  {
+    "gastroenterologist": "TREATMENT"
+  },
+  {
+    "Crohn disease": "TREATMENT"
+  },
+  {
+    "pneumonia": "TREATMENT"
+  }
+]

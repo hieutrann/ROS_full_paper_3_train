@@ -1,9 +1,9 @@
 [
   {
-    "heroin": "PROBLEM"
+    "heroin": "DRUG"
   },
   {
-    "cocaine": "PROBLEM"
+    "cocaine": "DRUG"
   },
   {
     "alcohol abuse": "PROBLEM"
@@ -36,7 +36,13 @@
     "chronic pain": "PROBLEM"
   },
   {
-    "ABC": "PROBLEM"
+    "gunshot wounds": "PROBLEM"
+  },
+  {
+    "stab wounds": "PROBLEM"
+  },
+  {
+    "ABC": "TREATMENT"
   },
   {
     "heroin": "DRUG"
@@ -72,16 +78,16 @@
     "smoker": "PROBLEM"
   },
   {
-    "heroin use": "PROBLEM"
+    "heroin": "DRUG"
   },
   {
-    "alcohol abuse": "PROBLEM"
+    "alcohol": "DRUG"
   },
   {
     "cocaine": "DRUG"
   },
   {
-    "FAMILY HISTORY": "TEST"
+    "Noncontributory": "PROBLEM"
   },
   {
     "analgesics": "DRUG"
@@ -99,10 +105,10 @@
     "codeine": "DRUG"
   },
   {
-    "NONE": "PROBLEM"
+    "ALLERGIES": "PROBLEM"
   },
   {
-    "afebrile": "TEST"
+    "afebrile": "PROBLEM"
   },
   {
     "hypertensive": "PROBLEM"
@@ -120,7 +126,7 @@
     "HEENT": "TEST"
   },
   {
-    "Pupils": "TEST"
+    "pupils": "PROBLEM"
   },
   {
     "Extraoculars": "TEST"
@@ -132,10 +138,10 @@
     "Supple": "TEST"
   },
   {
-    "trachea": "TEST"
+    "trachea": "PROBLEM"
   },
   {
-    "LUNGS": "PROBLEM"
+    "LUNGS": "TEST"
   },
   {
     "wheezing": "PROBLEM"
@@ -153,7 +159,7 @@
     "murmur": "PROBLEM"
   },
   {
-    "ABDOMEN": "PROBLEM"
+    "Abdomen": "PROBLEM"
   },
   {
     "track marks": "PROBLEM"
@@ -168,10 +174,10 @@
     "Nonfocal": "PROBLEM"
   },
   {
-    "HEROIN": "PROBLEM"
+    "HEROIN": "DRUG"
   },
   {
-    "XYZ": "PROBLEM"
+    "XYZ": "TREATMENT"
   },
   {
     "clonidine": "DRUG"
@@ -183,13 +189,7 @@
     "stable condition": "PROBLEM"
   },
   {
-    "heroin abuse": "PROBLEM"
-  },
-  {
     "heroin": "PROBLEM"
-  },
-  {
-    "alcohol abuse": "PROBLEM"
   },
   {
     "alcohol": "PROBLEM"

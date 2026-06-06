@@ -9,16 +9,16 @@
     "Chronic obstructive pulmonary disease": "PROBLEM"
   },
   {
-    "2": "TEST"
+    "2": "TREATMENT"
   },
   {
     "Pneumonia": "PROBLEM"
   },
   {
-    "3": "PROBLEM"
+    "3": "TREATMENT"
   },
   {
-    "Congestive heart failure": "PROBLEM"
+    "heart failure": "PROBLEM"
   },
   {
     "4": "TEST"
@@ -27,19 +27,16 @@
     "Diabetes mellitus": "PROBLEM"
   },
   {
-    "5": "PROBLEM"
+    "5": "TEST"
   },
   {
     "Neuropathy": "PROBLEM"
   },
   {
-    "6": "PROBLEM"
+    "6": "TEST"
   },
   {
     "Anxiety": "PROBLEM"
-  },
-  {
-    "7": "PROBLEM"
   },
   {
     "Hypothyroidism": "PROBLEM"
@@ -51,25 +48,25 @@
     "Depression": "PROBLEM"
   },
   {
-    "9": "PROBLEM"
+    "9": "TEST"
   },
   {
     "Hypertension": "PROBLEM"
   },
   {
-    "DISCHARGE DIAGNOSIS (ES)": "PROBLEM"
+    "DISCHARGE DIAGNOSIS": "TREATMENT"
   },
   {
     "chronic obstructive pulmonary disease": "PROBLEM"
   },
   {
-    "2": "TEST"
+    "2": "TREATMENT"
   },
   {
     "Diabetes mellitus": "PROBLEM"
   },
   {
-    "3": "PROBLEM"
+    "3": "TREATMENT"
   },
   {
     "Hypothyroidism": "PROBLEM"
@@ -78,25 +75,25 @@
     "4": "TEST"
   },
   {
-    "altered mental status": "PROBLEM"
+    "medications": "DRUG"
   },
   {
     "medications": "DRUG"
   },
   {
-    "5": "PROBLEM"
+    "medications": "DRUG"
+  },
+  {
+    "5": "TEST"
   },
   {
     "Lower gastrointestinal bleed": "PROBLEM"
   },
   {
-    "6": "PROBLEM"
+    "6": "TEST"
   },
   {
     "atrial fibrillation": "PROBLEM"
-  },
-  {
-    "7": "PROBLEM"
   },
   {
     "diverticular bleed": "PROBLEM"
@@ -105,16 +102,16 @@
     "DISCHARGE MEDICATIONS": "TREATMENT"
   },
   {
-    "Albuterol inhaler": "DRUG"
+    "Albuterol": "DRUG"
   },
   {
-    "2": "TEST"
+    "2": "TREATMENT"
   },
   {
     "Xanax": "DRUG"
   },
   {
-    "3": "PROBLEM"
+    "3": "TREATMENT"
   },
   {
     "Cardizem CD": "DRUG"
@@ -126,19 +123,16 @@
     "Colace": "DRUG"
   },
   {
-    "5": "PROBLEM"
+    "5": "TEST"
   },
   {
     "Iron sulfate": "DRUG"
   },
   {
-    "6": "PROBLEM"
+    "6": "TEST"
   },
   {
-    "NPH 10 units subcutaneous b.i.d.": "DRUG"
-  },
-  {
-    "7": "PROBLEM"
+    "NPH 10 units": "DRUG"
   },
   {
     "Atrovent": "DRUG"
@@ -150,25 +144,31 @@
     "Statins": "DRUG"
   },
   {
-    "q.i.d., swish and spit": "TREATMENT"
+    "swish": "TREATMENT"
   },
   {
-    "9": "PROBLEM"
+    "9": "TEST"
   },
   {
     "Paxil": "DRUG"
   },
   {
-    "10": "PROBLEM"
+    "10": "TEST"
   },
   {
     "Prednisone": "DRUG"
   },
   {
-    "11": "PROBLEM"
+    "11": "TREATMENT"
   },
   {
-    "Darvocet Darvocet-N 100": "DRUG"
+    "Darvocet": "DRUG"
+  },
+  {
+    "Darvocet-N": "DRUG"
+  },
+  {
+    "pain": "PROBLEM"
   },
   {
     "12": "TEST"
@@ -177,13 +177,10 @@
     "Metamucil": "DRUG"
   },
   {
-    "13": "PROBLEM"
-  },
-  {
     "Synthroid": "DRUG"
   },
   {
-    "14": "PROBLEM"
+    "14": "TEST"
   },
   {
     "Nexium": "DRUG"
@@ -192,13 +189,16 @@
     "COPD exacerbation": "PROBLEM"
   },
   {
-    "BiPAP": "TEST"
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "BiPAP": "TREATMENT"
   },
   {
     "COPD": "PROBLEM"
   },
   {
-    "BiPAP": "TEST"
+    "BiPAP": "TREATMENT"
   },
   {
     "bronchitis": "PROBLEM"
@@ -249,7 +249,10 @@
     "Dr.": "TREATMENT"
   },
   {
-    "Pesce": "PROBLEM"
+    "pulmonary": "PROBLEM"
+  },
+  {
+    "Dr.": "TREATMENT"
   },
   {
     "chronic obstructive pulmonary disease": "PROBLEM"
@@ -288,21 +291,12 @@
     "pulmonary disease": "PROBLEM"
   },
   {
-    "discharge": "TREATMENT"
+    "exacerbation": "PROBLEM"
   },
   {
     "inhaler": "DRUG"
   },
   {
     "copd": "PROBLEM"
-  },
-  {
-    "exacerbation": "PROBLEM"
-  },
-  {
-    "pulmonary": "PROBLEM"
-  },
-  {
-    "breath": "PROBLEM"
   }
 ]

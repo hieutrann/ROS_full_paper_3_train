@@ -1,9 +1,9 @@
 [
   {
-    "Acute Cystitis": "PROBLEM"
+    "Diabetes Type II": "PROBLEM"
   },
   {
-    "Diabetes Type II": "PROBLEM"
+    "Acute Cystitis": "PROBLEM"
   },
   {
     "Micronase": "DRUG"
@@ -12,12 +12,12 @@
     "Bactrim": "DRUG"
   },
   {
-    "abdominal pain": "PROBLEM"
+    "Abdominal Pain": "PROBLEM"
   },
   {
     "CBC": "TEST"
   },
   {
-    "Diabetes": "PROBLEM"
+    "Endocrinology": "TREATMENT"
   }
 ]

@@ -1,27 +1,54 @@
 [
   {
-    "VITAL SIGNS": "TEST"
+    "physical exam": "TEST"
   },
   {
-    "HEENT": "TEST"
+    "chronically ill": "PROBLEM"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "temperature": "TEST"
+  },
+  {
+    "respirations": "TEST"
+  },
+  {
+    "pulse": "TEST"
+  },
+  {
+    "chronically ill": "PROBLEM"
+  },
+  {
+    "pupils": "TEST"
   },
   {
     "Funduscopic examination": "TEST"
   },
   {
-    "pharynx": "PROBLEM"
+    "Posterior pharynx": "PROBLEM"
   },
   {
     "Tympanic membranes": "TEST"
   },
   {
+    "Trachea": "PROBLEM"
+  },
+  {
     "Thyroid": "PROBLEM"
   },
   {
-    "The neck is supple": "PROBLEM"
+    "supple": "PROBLEM"
   },
   {
-    "Lungs": "TEST"
+    "nodes": "PROBLEM"
+  },
+  {
+    "Lungs": "PROBLEM"
+  },
+  {
+    "auscultation": "TEST"
   },
   {
     "respiratory rate": "TEST"
@@ -33,13 +60,25 @@
     "egophony": "TEST"
   },
   {
+    "retractions": "PROBLEM"
+  },
+  {
+    "secondary muscle use": "PROBLEM"
+  },
+  {
+    "bilateral breath sounds": "PROBLEM"
+  },
+  {
     "jugular venous distention": "PROBLEM"
   },
   {
     "carotid bruits": "PROBLEM"
   },
   {
-    "heart size": "PROBLEM"
+    "percussion": "TEST"
+  },
+  {
+    "murmur": "PROBLEM"
   },
   {
     "S1": "TEST"
@@ -54,10 +93,16 @@
     "ABDOMEN": "PROBLEM"
   },
   {
+    "palpation": "TEST"
+  },
+  {
     "organomegaly": "PROBLEM"
   },
   {
-    "Bowel sounds": "PROBLEM"
+    "rebound tenderness": "PROBLEM"
+  },
+  {
+    "Bowel sounds": "TEST"
   },
   {
     "Obturator": "TEST"
@@ -72,10 +117,25 @@
     "flank pain": "PROBLEM"
   },
   {
-    "NEUROLOGIC": "TEST"
+    "motor tone": "TEST"
   },
   {
-    "Cranial nerves II through XII": "TEST"
+    "strength": "TEST"
+  },
+  {
+    "reflexes": "TEST"
+  },
+  {
+    "joint strength": "TEST"
+  },
+  {
+    "sensation": "TEST"
+  },
+  {
+    "Glasgow Coma Scale": "TEST"
+  },
+  {
+    "Cranial nerves": "TEST"
   },
   {
     "motor": "TEST"
@@ -84,10 +144,16 @@
     "cerebellar": "TEST"
   },
   {
+    "Reflexes": "TEST"
+  },
+  {
+    "lymph nodes": "PROBLEM"
+  },
+  {
     "bleeding": "PROBLEM"
   },
   {
-    "purpura": "PROBLEM"
+    "skin purpura": "PROBLEM"
   },
   {
     "petechiae": "PROBLEM"
@@ -102,6 +168,9 @@
     "suicidal ideations": "PROBLEM"
   },
   {
+    "general medicine": "PROBLEM"
+  },
+  {
     "jugular venous distention": "PROBLEM"
   },
   {
@@ -111,7 +180,7 @@
     "bladder": "PROBLEM"
   },
   {
-    "physical exam": "TEST"
+    "normal physical exam": "TEST"
   },
   {
     "neck": "PROBLEM"
@@ -132,7 +201,7 @@
     "strength": "PROBLEM"
   },
   {
-    "reflexes": "PROBLEM"
+    "reflexes": "TEST"
   },
   {
     "sounds": "PROBLEM"

@@ -6,19 +6,25 @@
     "chest pain": "PROBLEM"
   },
   {
-    "diabetes": "PROBLEM"
+    "history of diabetes": "PROBLEM"
   },
   {
-    "hypertension": "PROBLEM"
+    "history of hypertension": "PROBLEM"
   },
   {
-    "obesity": "PROBLEM"
+    "history of obesity": "PROBLEM"
   },
   {
-    "lesion in the medial aspect of the right parietal lobe": "PROBLEM"
+    "a 1.1 cm lesion in the medial aspect of the right parietal lobe": "PROBLEM"
   },
   {
     "deconditioning": "PROBLEM"
+  },
+  {
+    "Need for cardiac catheterization": "TREATMENT"
+  },
+  {
+    "cardiac catheterization": "TREATMENT"
   },
   {
     "Echocardiogram": "TEST"
@@ -28,9 +34,6 @@
   },
   {
     "Lower extremity Duplex ultrasound": "TEST"
-  },
-  {
-    "cardiac catheterization": "TREATMENT"
   },
   {
     "Aspirin": "DRUG"
@@ -49,5 +52,20 @@
   },
   {
     "Protonix": "DRUG"
+  },
+  {
+    "cardiac cath": "TREATMENT"
+  },
+  {
+    "cardiac catheterization done at ABCD": "TREATMENT"
+  },
+  {
+    "cardiology": "TREATMENT"
+  },
+  {
+    "an echocardiogram": "TEST"
+  },
+  {
+    "an MRI": "TEST"
   }
 ]

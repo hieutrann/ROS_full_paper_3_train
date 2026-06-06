@@ -30,10 +30,7 @@
     "Ambien": "DRUG"
   },
   {
-    "PENICILLIN ALLERGIES": "PROBLEM"
-  },
-  {
-    "gait": "TEST"
+    "PENICILLIN": "DRUG"
   },
   {
     "right total knee arthroplasty": "TREATMENT"
@@ -42,7 +39,7 @@
     "deep venous thrombosis (DVT)": "PROBLEM"
   },
   {
-    "postoperative antibiotics": "DRUG"
+    "antibiotics": "DRUG"
   },
   {
     "Hemovac drain": "TREATMENT"
@@ -66,10 +63,10 @@
     "Coumadin": "DRUG"
   },
   {
-    "Home physical therapy": "TREATMENT"
+    "physical therapy": "TREATMENT"
   },
   {
-    "PT": "TEST"
+    "PT": "TREATMENT"
   },
   {
     "INR": "TEST"

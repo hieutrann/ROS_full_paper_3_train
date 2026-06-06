@@ -6,9 +6,6 @@
     "decreased level of consciousness": "PROBLEM"
   },
   {
-    "decreased status": "PROBLEM"
-  },
-  {
     "injuries of the face": "PROBLEM"
   },
   {
@@ -18,7 +15,7 @@
     "decreased consciousness": "PROBLEM"
   },
   {
-    "lacerations on the face": "PROBLEM"
+    "lacerations": "PROBLEM"
   },
   {
     "Xanax": "DRUG"
@@ -66,7 +63,10 @@
     "lip laceration": "PROBLEM"
   },
   {
-    "Pupils are reactive to light": "TEST"
+    "Pupils": "TEST"
+  },
+  {
+    "Extraocular movements": "TEST"
   },
   {
     "Mucous membranes are dry": "PROBLEM"
@@ -75,10 +75,16 @@
     "thyromegaly": "PROBLEM"
   },
   {
-    "No lymphadenopathy": "PROBLEM"
+    "lymphadenopathy": "PROBLEM"
   },
   {
-    "S1, S2": "TEST"
+    "S1": "TEST"
+  },
+  {
+    "S2": "TEST"
+  },
+  {
+    "murmurs": "TEST"
   },
   {
     "breath sounds": "TEST"
@@ -96,22 +102,16 @@
     "normal sinus rhythm": "PROBLEM"
   },
   {
-    "rate of 77 beats per minute": "TEST"
-  },
-  {
-    "Urine": "TEST"
-  },
-  {
     "drug screen": "TEST"
   },
   {
     "UA": "TEST"
   },
   {
-    "WBCs": "PROBLEM"
+    "WBCs": "TEST"
   },
   {
-    "RBCs": "PROBLEM"
+    "RBCs": "TEST"
   },
   {
     "Specific gravity": "TEST"
@@ -129,7 +129,7 @@
     "neutrophils 89%": "TEST"
   },
   {
-    "Recent fall.": "PROBLEM"
+    "fall": "PROBLEM"
   },
   {
     "Altered mental status": "PROBLEM"
@@ -169,9 +169,6 @@
   },
   {
     "parkinson": "PROBLEM"
-  },
-  {
-    "consciousness": "TEST"
   },
   {
     "xanax": "DRUG"

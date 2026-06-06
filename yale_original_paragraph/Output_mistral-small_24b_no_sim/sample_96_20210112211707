@@ -33,7 +33,7 @@
     "dryness": "PROBLEM"
   },
   {
-    "feeling that something is in the eye": "PROBLEM"
+    "glasses": "TREATMENT"
   },
   {
     "ringing in the ears": "PROBLEM"
@@ -72,16 +72,19 @@
     "dry mouth": "PROBLEM"
   },
   {
+    "dentures": "TREATMENT"
+  },
+  {
+    "removable dental work": "TREATMENT"
+  },
+  {
     "frequent sore throats": "PROBLEM"
   },
   {
     "hoarseness": "PROBLEM"
   },
   {
-    "constant feeling of a need to clear the throat": "PROBLEM"
-  },
-  {
-    "waking up with acid or bitter fluid in the mouth or throat": "PROBLEM"
+    "acid or bitter fluid": "PROBLEM"
   },
   {
     "food sticking in throat": "PROBLEM"
@@ -117,10 +120,10 @@
     "high blood pressure": "PROBLEM"
   },
   {
-    "cramps in his legs with walking": "PROBLEM"
+    "cramps in his legs": "PROBLEM"
   },
   {
-    "pain in his feet or toes at night": "PROBLEM"
+    "pain in his feet or toes": "PROBLEM"
   },
   {
     "varicose veins": "PROBLEM"
@@ -246,10 +249,7 @@
     "joint or muscle pain": "PROBLEM"
   },
   {
-    "muscle weakness": "PROBLEM"
-  },
-  {
-    "muscle tenderness": "PROBLEM"
+    "muscle weakness or tenderness": "PROBLEM"
   },
   {
     "joint swelling": "PROBLEM"
@@ -330,6 +330,9 @@
     "voices in ?? head telling ?? to do things": "PROBLEM"
   },
   {
+    "psychiatric counseling or treatment": "TREATMENT"
+  },
+  {
     "intolerance to hot or cold temperature": "PROBLEM"
   },
   {
@@ -367,8 +370,5 @@
   },
   {
     "latex allergies": "PROBLEM"
-  },
-  {
-    "sensitivity": "PROBLEM"
   }
 ]

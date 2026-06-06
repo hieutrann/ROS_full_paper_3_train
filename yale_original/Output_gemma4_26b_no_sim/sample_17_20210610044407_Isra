@@ -126,10 +126,13 @@
     "painful": "PROBLEM"
   },
   {
-    "could not urinate": "PROBLEM"
+    "urinate": "PROBLEM"
   },
   {
     "Foley": "TREATMENT"
+  },
+  {
+    "urine": "TEST"
   },
   {
     "steroids": "DRUG"
@@ -162,7 +165,7 @@
     "urine output": "TEST"
   },
   {
-    "decreased considerably": "PROBLEM"
+    "decreased": "PROBLEM"
   },
   {
     "could not urinate": "PROBLEM"
@@ -198,13 +201,13 @@
     "respirations": "TEST"
   },
   {
+    "weight": "TEST"
+  },
+  {
     "JVD": "PROBLEM"
   },
   {
     "adenopathy": "PROBLEM"
-  },
-  {
-    "murmur": "PROBLEM"
   },
   {
     "Obese": "PROBLEM"
@@ -228,10 +231,10 @@
     "hematocrit": "TEST"
   },
   {
-    "90% segs": "TEST"
+    "segs": "TEST"
   },
   {
-    "0% bands": "TEST"
+    "bands": "TEST"
   },
   {
     "Serum sodium": "TEST"
@@ -270,6 +273,18 @@
     "Urinalysis": "TEST"
   },
   {
+    "white cells": "PROBLEM"
+  },
+  {
+    "protein": "PROBLEM"
+  },
+  {
+    "blood": "PROBLEM"
+  },
+  {
+    "red blood cells": "PROBLEM"
+  },
+  {
     "Urinary tract infection": "PROBLEM"
   },
   {
@@ -294,7 +309,7 @@
     "PTA": "TREATMENT"
   },
   {
-    "Chronic kidney disease , stage 4.": "PROBLEM"
+    "Chronic kidney disease": "PROBLEM"
   },
   {
     "allopurinol": "DRUG"

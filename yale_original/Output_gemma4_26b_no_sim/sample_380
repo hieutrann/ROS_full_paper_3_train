@@ -42,7 +42,10 @@
     "total knee replacement": "TREATMENT"
   },
   {
-    "lose weight": "PROBLEM"
+    "weight": "PROBLEM"
+  },
+  {
+    "surgery": "TREATMENT"
   },
   {
     "coronary disease": "PROBLEM"
@@ -102,7 +105,10 @@
     "DEXA scan": "TEST"
   },
   {
-    "compression fracture of the lumbar spine": "PROBLEM"
+    "compression fracture": "PROBLEM"
+  },
+  {
+    "lumbar spine": "PROBLEM"
   },
   {
     "arthritis": "PROBLEM"
@@ -156,7 +162,7 @@
     "vomiting": "PROBLEM"
   },
   {
-    "adhesive tape": "DRUG"
+    "adhesive tape": "TREATMENT"
   },
   {
     "Hypertension": "PROBLEM"
@@ -168,7 +174,7 @@
     "Myofascitis of the feet": "PROBLEM"
   },
   {
-    "Severe osteoarthritis of the knee": "PROBLEM"
+    "osteoarthritis of the knee": "PROBLEM"
   },
   {
     "melanoma": "PROBLEM"
@@ -211,9 +217,6 @@
   },
   {
     "Temperature": "TEST"
-  },
-  {
-    "regular rate and rhythm": "TEST"
   },
   {
     "murmur": "PROBLEM"
@@ -261,10 +264,16 @@
     "weight loss": "PROBLEM"
   },
   {
+    "Weight Watchers": "TREATMENT"
+  },
+  {
+    "dietician": "TREATMENT"
+  },
+  {
     "knee pain": "PROBLEM"
   },
   {
-    "screening colonoscopy": "TEST"
+    "colonoscopy": "TEST"
   },
   {
     "colonoscopy": "TEST"
@@ -286,6 +295,9 @@
   },
   {
     "beta-blocker": "DRUG"
+  },
+  {
+    "cardiac protection": "TREATMENT"
   },
   {
     "hypertension": "PROBLEM"

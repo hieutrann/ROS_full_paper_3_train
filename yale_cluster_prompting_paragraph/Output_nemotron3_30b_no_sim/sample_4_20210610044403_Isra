@@ -1,0 +1,53 @@
+[
+  {
+    "cerebrovascular accident": "PROBLEM"
+  },
+  {
+    "recurrent urinary tract infection": "PROBLEM"
+  },
+  {
+    "diabetes": "PROBLEM"
+  },
+  {
+    "hypoglycemia": "PROBLEM"
+  },
+  {
+    "neuropathy": "PROBLEM"
+  },
+  {
+    "hypothyroidism": "PROBLEM"
+  },
+  {
+    "hyperlipidemia": "PROBLEM"
+  },
+  {
+    "decreased level of consciousness": "PROBLEM"
+  },
+  {
+    "garbled speech": "PROBLEM"
+  },
+  {
+    "mental status": "PROBLEM"
+  },
+  {
+    "blood sugar": "PROBLEM"
+  },
+  {
+    "confused": "PROBLEM"
+  },
+  {
+    "coumadin": "DRUG"
+  },
+  {
+    "blood": "PROBLEM"
+  },
+  {
+    "emergency department": "TEST"
+  },
+  {
+    "cultures": "TEST"
+  },
+  {
+    "intake": "TEST"
+  }
+]

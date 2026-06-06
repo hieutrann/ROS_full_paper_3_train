@@ -9,7 +9,7 @@
     "cervical spondylosis": "PROBLEM"
   },
   {
-    "herniated nucleus pulposus C4-C5, C5-C6, and C6-C7": "PROBLEM"
+    "herniated nucleus pulposus": "PROBLEM"
   },
   {
     "stenosis": "PROBLEM"
@@ -18,25 +18,64 @@
     "Anterior cervical discectomy with decompression": "TREATMENT"
   },
   {
-    "Arthrodesis with anterior interbody fusion": "TREATMENT"
+    "Arthrodesis": "TREATMENT"
+  },
+  {
+    "anterior interbody fusion": "TREATMENT"
   },
   {
     "Spinal instrumentation": "TREATMENT"
   },
   {
+    "Implant": "TREATMENT"
+  },
+  {
+    "Allograft": "TREATMENT"
+  },
+  {
     "neck pain": "PROBLEM"
+  },
+  {
+    "right upper extremity radiculopathy": "PROBLEM"
   },
   {
     "Cervical spondylosis": "PROBLEM"
   },
   {
+    "herniated nucleus pulposus": "PROBLEM"
+  },
+  {
+    "stenosis": "PROBLEM"
+  },
+  {
     "Neck pain": "PROBLEM"
+  },
+  {
+    "right upper extremity radiculopathy": "PROBLEM"
+  },
+  {
+    "Cervical spondylosis": "PROBLEM"
+  },
+  {
+    "herniated nucleus pulposus": "PROBLEM"
+  },
+  {
+    "stenosis": "PROBLEM"
+  },
+  {
+    "neck pain": "PROBLEM"
   },
   {
     "weakness of the right upper extremity": "PROBLEM"
   },
   {
+    "cervical spondylosis": "PROBLEM"
+  },
+  {
     "herniated disk": "PROBLEM"
+  },
+  {
+    "stenosis": "PROBLEM"
   },
   {
     "right shoulder pain": "PROBLEM"
@@ -67,6 +106,12 @@
   },
   {
     "radiculopathy": "PROBLEM"
+  },
+  {
+    "cervical spondylosis": "PROBLEM"
+  },
+  {
+    "neck pain": "PROBLEM"
   },
   {
     "anterior cervical discectomy": "TREATMENT"

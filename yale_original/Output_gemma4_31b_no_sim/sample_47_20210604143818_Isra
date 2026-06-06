@@ -9,9 +9,6 @@
     "discomfort in the back": "PROBLEM"
   },
   {
-    "Stomach gets upset": "PROBLEM"
-  },
-  {
     "pain": "PROBLEM"
   },
   {
@@ -22,9 +19,6 @@
   },
   {
     "discomfort in the back": "PROBLEM"
-  },
-  {
-    "Stomach gets upset": "PROBLEM"
   },
   {
     "pain": "PROBLEM"
@@ -66,9 +60,6 @@
     "Peripheral neuropathy": "PROBLEM"
   },
   {
-    "atypical symptoms": "PROBLEM"
-  },
-  {
     "Hypothyroidism": "PROBLEM"
   },
   {
@@ -84,10 +75,10 @@
     "Abdominal pain": "PROBLEM"
   },
   {
-    "nonspecific irritable bowel type symptoms": "PROBLEM"
+    "irritable bowel type symptoms": "PROBLEM"
   },
   {
-    "intermittent diarrhea": "PROBLEM"
+    "diarrhea": "PROBLEM"
   },
   {
     "MI": "PROBLEM"
@@ -108,10 +99,7 @@
     "weight change": "PROBLEM"
   },
   {
-    "visual or auditory function": "TEST"
-  },
-  {
-    "hearing": "TEST"
+    "hearing": "PROBLEM"
   },
   {
     "epistaxis": "PROBLEM"
@@ -201,7 +189,10 @@
     "itching": "PROBLEM"
   },
   {
-    "lumps or masses": "PROBLEM"
+    "lumps": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
   },
   {
     "bruising": "PROBLEM"
@@ -228,16 +219,10 @@
     "Pupils": "TEST"
   },
   {
-    "Ear canals": "TEST"
-  },
-  {
     "TMs": "TEST"
   },
   {
-    "Nose": "TEST"
-  },
-  {
-    "nares": "TEST"
+    "nares patent": "PROBLEM"
   },
   {
     "tonsillar lesions": "PROBLEM"
@@ -249,9 +234,6 @@
     "asymmetry": "PROBLEM"
   },
   {
-    "range of motion": "TEST"
-  },
-  {
     "thyromegaly": "PROBLEM"
   },
   {
@@ -261,13 +243,10 @@
     "clear lungs": "PROBLEM"
   },
   {
-    "Rate and rhythm": "TEST"
+    "Rate": "TEST"
   },
   {
-    "S1": "TEST"
-  },
-  {
-    "S2": "TEST"
+    "rhythm": "TEST"
   },
   {
     "murmur": "PROBLEM"

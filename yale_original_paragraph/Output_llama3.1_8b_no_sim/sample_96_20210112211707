@@ -24,13 +24,25 @@
     "loss of vision": "PROBLEM"
   },
   {
-    "double or blurred vision": "PROBLEM"
+    "double vision": "PROBLEM"
   },
   {
-    "flashing lights or spots": "PROBLEM"
+    "blurred vision": "PROBLEM"
+  },
+  {
+    "flashing lights": "PROBLEM"
+  },
+  {
+    "spots": "PROBLEM"
   },
   {
     "dryness": "PROBLEM"
+  },
+  {
+    "feeling something in the eye": "PROBLEM"
+  },
+  {
+    "wearing glasses": "TREATMENT"
   },
   {
     "ringing in the ears": "PROBLEM"
@@ -43,6 +55,9 @@
   },
   {
     "loss of sense of smell": "PROBLEM"
+  },
+  {
+    "dry sinuses": "PROBLEM"
   },
   {
     "sinusitis": "PROBLEM"
@@ -66,13 +81,28 @@
     "dry mouth": "PROBLEM"
   },
   {
-    "dentures or removable dental work": "PROBLEM"
+    "dentures": "TREATMENT"
+  },
+  {
+    "removable dental work": "TREATMENT"
   },
   {
     "frequent sore throats": "PROBLEM"
   },
   {
     "hoarseness": "PROBLEM"
+  },
+  {
+    "constant feeling of need to clear throat": "PROBLEM"
+  },
+  {
+    "acid or bitter fluid in mouth or throat": "PROBLEM"
+  },
+  {
+    "food sticking in throat": "PROBLEM"
+  },
+  {
+    "painful swallowing": "PROBLEM"
   },
   {
     "chest pain": "PROBLEM"
@@ -93,7 +123,10 @@
     "difficulty breathing at night": "PROBLEM"
   },
   {
-    "swollen legs or feet": "PROBLEM"
+    "swollen legs": "PROBLEM"
+  },
+  {
+    "swollen feet": "PROBLEM"
   },
   {
     "heart murmurs": "PROBLEM"
@@ -102,10 +135,10 @@
     "high blood pressure": "PROBLEM"
   },
   {
-    "cramps in his legs with walking": "PROBLEM"
+    "cramps in legs": "PROBLEM"
   },
   {
-    "pain in his feet or toes at night": "PROBLEM"
+    "pain in feet or toes": "PROBLEM"
   },
   {
     "varicose veins": "PROBLEM"
@@ -159,7 +192,7 @@
     "frequent belching": "PROBLEM"
   },
   {
-    "stomach pain relieved by food": "PROBLEM"
+    "stomach pain": "PROBLEM"
   },
   {
     "yellow jaundice": "PROBLEM"
@@ -174,7 +207,7 @@
     "gas": "PROBLEM"
   },
   {
-    "blood in the stools": "PROBLEM"
+    "blood in stools": "PROBLEM"
   },
   {
     "black tarry stools": "PROBLEM"
@@ -189,7 +222,7 @@
     "pain or burning with urination": "PROBLEM"
   },
   {
-    "blood in the urine": "PROBLEM"
+    "blood in urine": "PROBLEM"
   },
   {
     "cloudy or smoky urine": "PROBLEM"
@@ -204,16 +237,19 @@
     "needing to urinate frequently at night": "PROBLEM"
   },
   {
-    "inability to hold the urine": "PROBLEM"
+    "inability to hold urine": "PROBLEM"
   },
   {
-    "discharge from the penis": "PROBLEM"
+    "discharge from penis": "PROBLEM"
   },
   {
     "kidney stones": "PROBLEM"
   },
   {
-    "rash or ulcers": "PROBLEM"
+    "rash": "PROBLEM"
+  },
+  {
+    "ulcers": "PROBLEM"
   },
   {
     "sexual difficulties": "PROBLEM"
@@ -240,7 +276,10 @@
     "joint or muscle pain": "PROBLEM"
   },
   {
-    "muscle weakness or tenderness": "PROBLEM"
+    "muscle weakness": "PROBLEM"
+  },
+  {
+    "muscle tenderness": "PROBLEM"
   },
   {
     "joint swelling": "PROBLEM"
@@ -279,7 +318,7 @@
     "hair loss": "PROBLEM"
   },
   {
-    "color changes in the hands or feet with cold": "PROBLEM"
+    "color changes in hands or feet with cold": "PROBLEM"
   },
   {
     "breast lump": "PROBLEM"
@@ -306,7 +345,7 @@
     "loss of consciousness": "PROBLEM"
   },
   {
-    "sensitivity or pain in the hands and feet": "PROBLEM"
+    "sensitivity or pain in hands and feet": "PROBLEM"
   },
   {
     "memory loss": "PROBLEM"

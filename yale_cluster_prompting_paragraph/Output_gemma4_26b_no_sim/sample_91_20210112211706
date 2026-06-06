@@ -60,6 +60,9 @@
     "hypotension": "PROBLEM"
   },
   {
+    "SBP": "PROBLEM"
+  },
+  {
     "vancomycin": "DRUG"
   },
   {
@@ -90,12 +93,6 @@
     "hepatic encephalopathy": "PROBLEM"
   },
   {
-    "cocaine abuse": "PROBLEM"
-  },
-  {
-    "alcohol abuse": "PROBLEM"
-  },
-  {
     "thiamine": "DRUG"
   },
   {
@@ -117,15 +114,6 @@
     "vitamin K": "DRUG"
   },
   {
-    "blood pressure": "TEST"
-  },
-  {
-    "oxygen saturation": "TEST"
-  },
-  {
-    "nasal cannula": "TREATMENT"
-  },
-  {
     "pale conjunctivae": "PROBLEM"
   },
   {
@@ -138,6 +126,9 @@
     "jaundice": "PROBLEM"
   },
   {
+    "White blood cell count": "TEST"
+  },
+  {
     "neutrophils": "TEST"
   },
   {
@@ -145,6 +136,9 @@
   },
   {
     "H&H": "TEST"
+  },
+  {
+    "platelet count": "TEST"
   },
   {
     "INR": "TEST"
@@ -231,10 +225,16 @@
     "dilated portal/splenic and superior mesenteric vein": "PROBLEM"
   },
   {
+    "pericecal inflammation": "PROBLEM"
+  },
+  {
     "Septic shock": "PROBLEM"
   },
   {
     "urinary tract infection": "PROBLEM"
+  },
+  {
+    "Ascites": "PROBLEM"
   },
   {
     "spontaneous bacterial peritenonitis": "PROBLEM"
@@ -250,6 +250,9 @@
   },
   {
     "Thrombocytopenia": "PROBLEM"
+  },
+  {
+    "Hepatitis C": "PROBLEM"
   },
   {
     "Cryoglobulinemia": "PROBLEM"
@@ -279,15 +282,51 @@
     "sbp": "PROBLEM"
   },
   {
+    "diabetes": "PROBLEM"
+  },
+  {
+    "morbid obesity": "PROBLEM"
+  },
+  {
     "hepatitis c": "PROBLEM"
   },
   {
+    "cirrhosis": "PROBLEM"
+  },
+  {
+    "coronary artery disease": "PROBLEM"
+  },
+  {
+    "hyperlipidemia": "PROBLEM"
+  },
+  {
+    "chronic venous stasis": "PROBLEM"
+  },
+  {
+    "gastroesophageal reflux disease": "PROBLEM"
+  },
+  {
+    "exploratory laparotomy": "TREATMENT"
+  },
+  {
+    "hepatic encephalopathy": "PROBLEM"
+  },
+  {
     "septic shock": "PROBLEM"
+  },
+  {
+    "cell count": "TEST"
   },
   {
     "hepatitis": "PROBLEM"
   },
   {
     "sepsis": "PROBLEM"
+  },
+  {
+    "cultures": "TEST"
+  },
+  {
+    "ascites": "PROBLEM"
   }
 ]

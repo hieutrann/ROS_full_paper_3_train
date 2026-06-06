@@ -15,7 +15,7 @@
     "Peritoneal carcinomatosis": "PROBLEM"
   },
   {
-    "appendiceal primary": "PROBLEM"
+    "appendiceal": "PROBLEM"
   },
   {
     "Diarrhea": "PROBLEM"
@@ -24,10 +24,13 @@
     "General surgery": "TREATMENT"
   },
   {
-    "Surgery": "TREATMENT"
+    "Surgery Oncology": "TREATMENT"
   },
   {
-    "Urology": "TREATMENT"
+    "Urology": "TEST"
+  },
+  {
+    "On MM/DD/YYYY": "TREATMENT"
   },
   {
     "Cystoscopy": "TEST"
@@ -66,15 +69,6 @@
     "appendiceal primary": "PROBLEM"
   },
   {
-    "workup": "TEST"
-  },
-  {
-    "General Surgery": "TREATMENT"
-  },
-  {
-    "preoperative evaluation": "TEST"
-  },
-  {
     "baseline labs": "TEST"
   },
   {
@@ -93,10 +87,10 @@
     "bilateral ureteral stent placement": "TREATMENT"
   },
   {
-    "laparotomy": "TREATMENT"
+    "exploratory laparotomy": "TREATMENT"
   },
   {
-    "hemicolectomy": "TREATMENT"
+    "right hemicolectomy": "TREATMENT"
   },
   {
     "cholecystectomy": "TREATMENT"
@@ -114,12 +108,6 @@
     "mitomycin-C": "DRUG"
   },
   {
-    "procedure": "TREATMENT"
-  },
-  {
-    "ICU": "TEST"
-  },
-  {
     "tachycardia": "PROBLEM"
   },
   {
@@ -129,7 +117,7 @@
     "flatus": "PROBLEM"
   },
   {
-    "clear liquid diet": "TREATMENT"
+    "a clear liquid diet": "TREATMENT"
   },
   {
     "regular health select diet": "TREATMENT"
@@ -138,16 +126,16 @@
     "pain": "PROBLEM"
   },
   {
-    "PCA pump": "DRUG"
+    "PCA pump": "TREATMENT"
   },
   {
     "pain medicines": "DRUG"
   },
   {
-    "out of bed": "TREATMENT"
+    "postoperative": "PROBLEM"
   },
   {
-    "diarrhea": "PROBLEM"
+    "mild diarrhea": "PROBLEM"
   },
   {
     "right hemicolectomy": "TREATMENT"
@@ -156,10 +144,10 @@
     "C. diff toxin": "TEST"
   },
   {
-    "diarrhea": "PROBLEM"
+    "Imodium": "DRUG"
   },
   {
-    "Imodium": "DRUG"
+    "diarrhea": "PROBLEM"
   },
   {
     "pneumococcal": "DRUG"
@@ -171,16 +159,7 @@
     "meningococcal": "DRUG"
   },
   {
-    "vaccines": "DRUG"
-  },
-  {
-    "splenectomy": "TREATMENT"
-  },
-  {
     "afebrile": "PROBLEM"
-  },
-  {
-    "vital signs": "TEST"
   },
   {
     "abdomen": "PROBLEM"
@@ -189,43 +168,37 @@
     "midline incision": "PROBLEM"
   },
   {
-    "postop": "TREATMENT"
+    "six days postop": "PROBLEM"
   },
   {
     "staples": "TREATMENT"
   },
   {
-    "follow-up": "TEST"
-  },
-  {
     "Multivitamins": "DRUG"
   },
   {
-    "Lovenox": "DRUG"
-  },
-  {
-    "0.4 mL": "DRUG"
-  },
-  {
-    "14 days": "DRUG"
+    "Lovenox 40 mg in 0.4 mL solution inject subcutaneously once daily for 14 days": "DRUG"
   },
   {
     "Vicodin 5/500 mg": "DRUG"
   },
   {
-    "Phenergan": "DRUG"
+    "Phenergan 12.5 mg tablets": "DRUG"
   },
   {
     "nausea": "PROBLEM"
   },
   {
-    "Imodium A-D": "DRUG"
+    "Imodium A-D tablets": "DRUG"
   },
   {
     "diarrhea": "PROBLEM"
   },
   {
     "fevers": "PROBLEM"
+  },
+  {
+    "101.4": "PROBLEM"
   },
   {
     "chills": "PROBLEM"
@@ -249,13 +222,19 @@
     "warmth": "PROBLEM"
   },
   {
-    "incision site": "PROBLEM"
+    "FOLLOW-UP APPOINTMENT": "TREATMENT"
   },
   {
-    "carcinomatosis": "PROBLEM"
+    "carcinomatosis from appendiceal primary": "PROBLEM"
+  },
+  {
+    "peritoneal carcinomatosis": "PROBLEM"
   },
   {
     "appendiceal primary": "PROBLEM"
+  },
+  {
+    "tablet by mouth": "DRUG"
   },
   {
     "stent placement": "TREATMENT"
@@ -264,24 +243,9 @@
     "ureteral stents": "TREATMENT"
   },
   {
-    "peritoneal carcinomatosis": "PROBLEM"
-  },
-  {
-    "appendiceal": "PROBLEM"
-  },
-  {
     "hemicolectomy": "TREATMENT"
   },
   {
     "splenectomy": "TREATMENT"
-  },
-  {
-    "peritoneal": "PROBLEM"
-  },
-  {
-    "carcinomatosis": "PROBLEM"
-  },
-  {
-    "oncology": "PROBLEM"
   }
 ]

@@ -6,16 +6,10 @@
     "discomfort": "PROBLEM"
   },
   {
-    "chest": "PROBLEM"
-  },
-  {
-    "back": "PROBLEM"
-  },
-  {
-    "stomach": "PROBLEM"
-  },
-  {
     "pain": "PROBLEM"
+  },
+  {
+    "supplements": "DRUG"
   },
   {
     "bowel movements": "PROBLEM"
@@ -24,7 +18,7 @@
     "bladder control": "PROBLEM"
   },
   {
-    "hips": "PROBLEM"
+    "pain": "PROBLEM"
   },
   {
     "neuropathy": "PROBLEM"
@@ -51,22 +45,25 @@
     "neuropathy": "PROBLEM"
   },
   {
-    "symptoms": "PROBLEM"
-  },
-  {
-    "hypothyroidism": "PROBLEM"
-  },
-  {
     "depression": "PROBLEM"
   },
   {
-    "medications": "PROBLEM"
+    "medications": "DRUG"
   },
   {
     "symptoms": "PROBLEM"
   },
   {
     "diarrhea": "PROBLEM"
+  },
+  {
+    "medicines": "DRUG"
+  },
+  {
+    "MI": "PROBLEM"
+  },
+  {
+    "stroke": "PROBLEM"
   },
   {
     "fever": "PROBLEM"
@@ -78,16 +75,16 @@
     "chills": "PROBLEM"
   },
   {
-    "weight": "PROBLEM"
+    "weight change": "PROBLEM"
   },
   {
-    "visual": "PROBLEM"
+    "visual function": "TEST"
   },
   {
-    "auditory": "PROBLEM"
+    "auditory function": "TEST"
   },
   {
-    "hearing": "PROBLEM"
+    "hearing": "TEST"
   },
   {
     "epistaxis": "PROBLEM"
@@ -108,7 +105,7 @@
     "orthopnea": "PROBLEM"
   },
   {
-    "tenderness": "PROBLEM"
+    "chest pains": "PROBLEM"
   },
   {
     "wheezing": "PROBLEM"
@@ -123,7 +120,7 @@
     "orthopnea": "PROBLEM"
   },
   {
-    "disease": "PROBLEM"
+    "thromboembolic disease": "PROBLEM"
   },
   {
     "stomach pain": "PROBLEM"
@@ -174,9 +171,6 @@
     "itching": "PROBLEM"
   },
   {
-    "nails": "PROBLEM"
-  },
-  {
     "lumps": "PROBLEM"
   },
   {
@@ -204,186 +198,21 @@
     "UA": "TEST"
   },
   {
-    "Stool": "TEST"
-  },
-  {
-    "C&S": "TEST"
+    "Stool for C&S": "TEST"
   },
   {
     "Gram stain": "TEST"
   },
   {
-    "ova": "TEST"
-  },
-  {
-    "parasites": "TEST"
+    "ova and parasites": "TEST"
   },
   {
     "CT": "TEST"
   },
   {
-    "abdomen": "TEST"
-  },
-  {
-    "pelvis": "TEST"
-  },
-  {
-    "metformin": "DRUG"
-  },
-  {
     "diuretics": "DRUG"
   },
   {
-    "Pulse": "TEST"
-  },
-  {
-    "BP": "TEST"
-  },
-  {
-    "RESPIRATIONS": "TEST"
-  },
-  {
-    "HEENT": "TEST"
-  },
-  {
-    "Ears": "TEST"
-  },
-  {
-    "nose": "TEST"
-  },
-  {
-    "throat": "TEST"
-  },
-  {
-    "conjunctivae": "TEST"
-  },
-  {
-    "pupils": "TEST"
-  },
-  {
-    "ear canals": "TEST"
-  },
-  {
-    "TMs": "TEST"
-  },
-  {
-    "nares": "TEST"
-  },
-  {
-    "septum": "TEST"
-  },
-  {
-    "oral mucosa": "TEST"
-  },
-  {
-    "tonsillar": "TEST"
-  },
-  {
-    "exudate": "TEST"
-  },
-  {
-    "asymmetry": "TEST"
-  },
-  {
-    "neck": "TEST"
-  },
-  {
-    "thyromegaly": "TEST"
-  },
-  {
-    "adenopathy": "TEST"
-  },
-  {
-    "chest": "TEST"
-  },
-  {
-    "lungs": "TEST"
-  },
-  {
-    "auscultation": "TEST"
-  },
-  {
-    "percussion": "TEST"
-  },
-  {
-    "heart": "TEST"
-  },
-  {
-    "rate": "TEST"
-  },
-  {
-    "rhythm": "TEST"
-  },
-  {
-    "S1": "TEST"
-  },
-  {
-    "S2": "TEST"
-  },
-  {
-    "murmur": "TEST"
-  },
-  {
-    "gallop": "TEST"
-  },
-  {
-    "abdomen": "TEST"
-  },
-  {
-    "masses": "TEST"
-  },
-  {
-    "guarding": "TEST"
-  },
-  {
-    "rigidity": "TEST"
-  },
-  {
-    "tenderness": "TEST"
-  },
-  {
-    "flank pain": "TEST"
-  },
-  {
-    "GU": "TEST"
-  },
-  {
-    "extremities": "TEST"
-  },
-  {
-    "cyanosis": "TEST"
-  },
-  {
-    "clubbing": "TEST"
-  },
-  {
-    "edema": "TEST"
-  },
-  {
-    "skin": "TEST"
-  },
-  {
-    "lesions": "TEST"
-  },
-  {
-    "rashes": "TEST"
-  },
-  {
-    "neurologic": "TEST"
-  },
-  {
-    "cranial nerve": "TEST"
-  },
-  {
-    "motor": "TEST"
-  },
-  {
-    "sensory": "TEST"
-  },
-  {
-    "gait": "TEST"
-  },
-  {
-    "random motion": "TEST"
+    "metformin": "DRUG"
   }
 ]

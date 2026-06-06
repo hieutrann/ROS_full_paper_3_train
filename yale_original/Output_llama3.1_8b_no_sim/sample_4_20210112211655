@@ -1,9 +1,9 @@
 [
   {
-    "fever of unknown origin": "PROBLEM"
+    "fever": "PROBLEM"
   },
   {
-    "Fever of unknown origin": "PROBLEM"
+    "Fever": "PROBLEM"
   },
   {
     "polymyositis/dermatomyositis": "PROBLEM"
@@ -21,10 +21,10 @@
     "fevers": "PROBLEM"
   },
   {
-    "103": "PROBLEM"
+    "temperatures": "TEST"
   },
   {
-    "Alta View Emergency Department": "TEST"
+    "103": "TEST"
   },
   {
     "chest x-ray": "TEST"
@@ -45,22 +45,22 @@
     "CT scan": "TEST"
   },
   {
-    "chest": "PROBLEM"
+    "chest": "TEST"
   },
   {
-    "abdomen": "PROBLEM"
+    "abdomen": "TEST"
   },
   {
-    "pelvis": "PROBLEM"
+    "pelvis": "TEST"
   },
   {
     "CT chest": "TEST"
   },
   {
-    "bibasilar pleural-based interstitial changes": "PROBLEM"
+    "pleural-based interstitial changes": "PROBLEM"
   },
   {
-    "lung": "PROBLEM"
+    "lung zones": "PROBLEM"
   },
   {
     "diffuse": "PROBLEM"
@@ -76,9 +76,6 @@
   },
   {
     "Dr.": "TREATMENT"
-  },
-  {
-    "XYZ": "DRUG"
   },
   {
     "CMV": "PROBLEM"
@@ -153,7 +150,7 @@
     "interstitial fibrosis": "PROBLEM"
   },
   {
-    "pathologist": "PROBLEM"
+    "pathologist": "TREATMENT"
   },
   {
     "CMV": "PROBLEM"
@@ -174,7 +171,7 @@
     "CMV": "PROBLEM"
   },
   {
-    "antibiotic therapy": "DRUG"
+    "antibiotic therapy": "TREATMENT"
   },
   {
     "methotrexate": "DRUG"
@@ -210,13 +207,16 @@
     "lymphocytes": "TEST"
   },
   {
-    "XYZ": "DRUG"
+    "Dr.": "TREATMENT"
+  },
+  {
+    "Dr.": "TREATMENT"
   },
   {
     "rheumatologist": "TREATMENT"
   },
   {
-    "DISCHARGE DIAGNOSES": "PROBLEM"
+    "DISCHARGE DIAGNOSES": "TREATMENT"
   },
   {
     "CMV infection": "PROBLEM"
@@ -225,7 +225,7 @@
     "CMV pneumonitis": "PROBLEM"
   },
   {
-    "2": "TEST"
+    "2": "TREATMENT"
   },
   {
     "Polymyositis": "PROBLEM"
@@ -243,13 +243,13 @@
     "ganciclovir": "DRUG"
   },
   {
-    "2": "TEST"
+    "2": "TREATMENT"
   },
   {
     "Advair": "DRUG"
   },
   {
-    "3": "PROBLEM"
+    "3": "TREATMENT"
   },
   {
     "Ibuprofen": "DRUG"
@@ -267,13 +267,13 @@
     "methotrexate": "DRUG"
   },
   {
-    "August 22, 2007": "TEST"
+    "Dr": "TREATMENT"
   },
   {
-    "XYZ": "PROBLEM"
+    "XYZ": "TREATMENT"
   },
   {
-    "XYZ": "PROBLEM"
+    "XYZ": "TREATMENT"
   },
   {
     "ophthalmologist": "PROBLEM"
@@ -289,6 +289,9 @@
   },
   {
     "transbronchial biopsies": "TEST"
+  },
+  {
+    "infection": "PROBLEM"
   },
   {
     "cmv": "PROBLEM"

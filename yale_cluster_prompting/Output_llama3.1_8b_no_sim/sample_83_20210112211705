@@ -1,6 +1,9 @@
 [
   {
-    "Ectopic Pregnancy": "PROBLEM"
+    "pelvic pain": "PROBLEM"
+  },
+  {
+    "vaginal bleeding": "PROBLEM"
   },
   {
     "ruptured ectopic pregnancy": "PROBLEM"
@@ -36,19 +39,16 @@
     "rupture of corpus luteal cyst": "PROBLEM"
   },
   {
-    "observation": "TREATMENT"
+    "observation": "PROBLEM"
   },
   {
     "gestational sac": "PROBLEM"
   },
   {
-    "small mass": "PROBLEM"
+    "a small mass": "PROBLEM"
   },
   {
     "sonogram": "TEST"
-  },
-  {
-    "hospital": "PROBLEM"
   },
   {
     "hCG titer": "TEST"
@@ -57,7 +57,10 @@
     "ruptured ectopic pregnancy": "PROBLEM"
   },
   {
-    "ruptured ectopic pregnancy": "PROBLEM"
+    "ectopic pregnancy": "PROBLEM"
+  },
+  {
+    "laparotomy": "TREATMENT"
   },
   {
     "salpingectomy": "TREATMENT"
@@ -69,6 +72,15 @@
     "hemoglobin": "PROBLEM"
   },
   {
+    "8.1": "PROBLEM"
+  },
+  {
+    "7.9": "PROBLEM"
+  },
+  {
+    "12.9": "PROBLEM"
+  },
+  {
     "severe abdominal pain": "PROBLEM"
   },
   {
@@ -78,19 +90,16 @@
     "surgery": "TREATMENT"
   },
   {
-    "hospital course": "PROBLEM"
-  },
-  {
     "fever": "PROBLEM"
   },
   {
     "abdomen": "PROBLEM"
   },
   {
-    "bowel movement": "PROBLEM"
+    "a normal bowel movement": "PROBLEM"
   },
   {
-    "days": "TEST"
+    "dismissed": "TREATMENT"
   },
   {
     "FINAL DIAGNOSES": "PROBLEM"
@@ -102,7 +111,7 @@
     "hemoperitoneum": "PROBLEM"
   },
   {
-    "2": "TREATMENT"
+    "2": "PROBLEM"
   },
   {
     "Anemia": "PROBLEM"
@@ -123,7 +132,7 @@
     "ruptured ectopic pregnancy": "PROBLEM"
   },
   {
-    "gestational sac": "TEST"
+    "gestational sac": "PROBLEM"
   },
   {
     "ectopic pregnancy": "PROBLEM"
@@ -132,15 +141,15 @@
     "hemoperitoneum": "PROBLEM"
   },
   {
-    "gestational": "TEST"
+    "gestational": "PROBLEM"
   },
   {
-    "ruptured": "TEST"
+    "ruptured": "PROBLEM"
   },
   {
     "pregnancy": "PROBLEM"
   },
   {
-    "ectopic": "TEST"
+    "ectopic": "PROBLEM"
   }
 ]

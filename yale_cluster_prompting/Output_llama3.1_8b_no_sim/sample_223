@@ -1,6 +1,6 @@
 [
   {
-    "General Medicine": "DRUG"
+    "General Medicine": "TREATMENT"
   },
   {
     "right shoulder pain": "PROBLEM"
@@ -21,10 +21,16 @@
     "pain": "PROBLEM"
   },
   {
+    "shoulder": "PROBLEM"
+  },
+  {
     "upper extremity": "PROBLEM"
   },
   {
     "cervical radiculopathies": "PROBLEM"
+  },
+  {
+    "shoulder pain": "PROBLEM"
   },
   {
     "cardiac": "PROBLEM"
@@ -69,7 +75,7 @@
     "acute distress": "PROBLEM"
   },
   {
-    "warm and dry": "PROBLEM"
+    "Skin": "PROBLEM"
   },
   {
     "neurologic examination": "TEST"
@@ -78,13 +84,13 @@
     "ENT examination": "TEST"
   },
   {
-    "oropharynx": "PROBLEM"
+    "oropharynx": "TEST"
   },
   {
-    "nasopharynx": "PROBLEM"
+    "nasopharynx": "TEST"
   },
   {
-    "tympanic membranes": "PROBLEM"
+    "tympanic membranes": "TEST"
   },
   {
     "adenopathy": "PROBLEM"
@@ -93,10 +99,7 @@
     "thyromegaly": "PROBLEM"
   },
   {
-    "rate": "TEST"
-  },
-  {
-    "rhythm": "TEST"
+    "Regular rate and rhythm": "TEST"
   },
   {
     "Lungs": "PROBLEM"
@@ -108,16 +111,16 @@
     "subacromial space": "PROBLEM"
   },
   {
-    "abduction": "PROBLEM"
+    "range of motion": "TEST"
   },
   {
-    "degrees": "TEST"
+    "pain": "PROBLEM"
   },
   {
-    "flexion of 120 degrees": "TEST"
+    "push": "TEST"
   },
   {
-    "it": "PROBLEM"
+    "flexion": "TEST"
   },
   {
     "Neer's": "TEST"
@@ -126,7 +129,7 @@
     "Hawkins impingement testing": "TEST"
   },
   {
-    "negative sulcus": "PROBLEM"
+    "sulcus": "PROBLEM"
   },
   {
     "apprehension": "PROBLEM"
@@ -159,13 +162,13 @@
     "work": "TREATMENT"
   },
   {
-    "plant shutdown": "PROBLEM"
-  },
-  {
     "persistent pain": "PROBLEM"
   },
   {
     "MRI": "TEST"
+  },
+  {
+    "general medicine": "PROBLEM"
   },
   {
     "paresthesias": "PROBLEM"
@@ -180,9 +183,39 @@
     "x-rays": "TEST"
   },
   {
+    "examination": "TEST"
+  },
+  {
+    "muscular": "PROBLEM"
+  },
+  {
+    "neurologic": "PROBLEM"
+  },
+  {
     "abnormalities": "PROBLEM"
   },
   {
     "impingement": "PROBLEM"
+  },
+  {
+    "waist": "PROBLEM"
+  },
+  {
+    "waist level": "PROBLEM"
+  },
+  {
+    "return to work": "TREATMENT"
+  },
+  {
+    "consult": "TREATMENT"
+  },
+  {
+    "fit for duty": "TREATMENT"
+  },
+  {
+    "cleared for work": "TREATMENT"
+  },
+  {
+    "physical": "TREATMENT"
   }
 ]

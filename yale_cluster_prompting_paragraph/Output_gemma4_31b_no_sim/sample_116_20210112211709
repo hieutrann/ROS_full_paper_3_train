@@ -24,9 +24,6 @@
     "thyroid hormone replacement": "TREATMENT"
   },
   {
-    "vital signs": "TEST"
-  },
-  {
     "intravenous narcotics": "DRUG"
   },
   {
@@ -36,12 +33,6 @@
     "fever": "PROBLEM"
   },
   {
-    "vital signs": "TEST"
-  },
-  {
-    "pain": "PROBLEM"
-  },
-  {
     "Vicodin": "DRUG"
   },
   {
@@ -49,6 +40,9 @@
   },
   {
     "Synthroid thyroid hormone": "DRUG"
+  },
+  {
+    "nodular": "PROBLEM"
   },
   {
     "symptomatic thyroid goiter": "PROBLEM"

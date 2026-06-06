@@ -30,7 +30,7 @@
     "ESR": "TEST"
   },
   {
-    "echocardiogram": "TEST"
+    "fever": "PROBLEM"
   },
   {
     "aspirin": "DRUG"
@@ -39,7 +39,7 @@
     "IVIG": "DRUG"
   },
   {
-    "aspirin": "DRUG"
+    "Echocardiogram": "TEST"
   },
   {
     "aspirin": "DRUG"
@@ -49,6 +49,9 @@
   },
   {
     "vaccine": "DRUG"
+  },
+  {
+    "aspirin": "DRUG"
   },
   {
     "fever": "PROBLEM"
@@ -63,24 +66,12 @@
     "mucous membranes": "PROBLEM"
   },
   {
-    "discharge summary": "PROBLEM"
-  },
-  {
-    "conjunctivitis": "PROBLEM"
-  },
-  {
-    "fever": "PROBLEM"
-  },
-  {
-    "aspirin": "DRUG"
-  },
-  {
-    "vaccine": "DRUG"
-  },
-  {
     "fever": "PROBLEM"
   },
   {
     "rash": "PROBLEM"
+  },
+  {
+    "vaccine": "DRUG"
   }
 ]

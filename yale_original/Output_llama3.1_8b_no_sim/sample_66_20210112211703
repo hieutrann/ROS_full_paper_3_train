@@ -1,9 +1,9 @@
 [
   {
-    "Antibiotic Therapy": "TREATMENT"
+    "cellulitis": "PROBLEM"
   },
   {
-    "cellulitis": "PROBLEM"
+    "antibiotic therapy": "TREATMENT"
   },
   {
     "cellulitis": "PROBLEM"
@@ -12,13 +12,13 @@
     "morbid obesity": "PROBLEM"
   },
   {
-    "chronic lower extremity lymphedema": "PROBLEM"
+    "lymphedema": "PROBLEM"
   },
   {
-    "wound care center": "TEST"
+    "wound care center": "TREATMENT"
   },
   {
-    "Hospital": "TEST"
+    "Hospital": "TREATMENT"
   },
   {
     "edema": "PROBLEM"
@@ -39,22 +39,25 @@
     "therapy": "TREATMENT"
   },
   {
-    "Long-Term Acute Care Facility": "TEST"
+    "Long-Term Acute Care Facility": "TREATMENT"
   },
   {
-    "lymphedema management": "TREATMENT"
-  },
-  {
-    "stage II ulcer": "PROBLEM"
+    "ulcer": "PROBLEM"
   },
   {
     "erythema": "PROBLEM"
   },
   {
-    "lymphedema wraps": "TREATMENT"
+    "lymphedema": "PROBLEM"
+  },
+  {
+    "wraps": "TREATMENT"
   },
   {
     "cellulitis": "PROBLEM"
+  },
+  {
+    "antibiotic therapy": "TREATMENT"
   },
   {
     "morbid obesity": "PROBLEM"
@@ -69,7 +72,7 @@
     "knee arthritis": "PROBLEM"
   },
   {
-    "recurrent cellulitis": "PROBLEM"
+    "cellulitis": "PROBLEM"
   },
   {
     "hysterectomy": "TREATMENT"
@@ -81,13 +84,13 @@
     "cats": "PROBLEM"
   },
   {
-    "smoker": "PROBLEM"
+    "smoking": "PROBLEM"
   },
   {
-    "wine": "PROBLEM"
+    "wine": "DRUG"
   },
   {
-    "recreational drugs": "PROBLEM"
+    "drugs": "DRUG"
   },
   {
     "heart problems": "PROBLEM"
@@ -105,13 +108,16 @@
     "ADHESIVE TAPE ALLERGIES": "PROBLEM"
   },
   {
-    "nonresolving bilateral lower extremity lymphedema": "PROBLEM"
-  },
-  {
     "lymphedema": "PROBLEM"
   },
   {
-    "lower extremity": "PROBLEM"
+    "bilateral lower extremity lymphedema": "PROBLEM"
+  },
+  {
+    "right lower extremity lymphedema": "PROBLEM"
+  },
+  {
+    "left lower extremity lymphedema": "PROBLEM"
   },
   {
     "nausea": "PROBLEM"
@@ -168,16 +174,16 @@
     "Pupils": "TEST"
   },
   {
-    "Extraocular movements": "TEST"
+    "movements": "TEST"
   },
   {
-    "normocephalic": "TEST"
+    "normocephalic": "PROBLEM"
   },
   {
     "external ear exam": "TEST"
   },
   {
-    "Neck": "TEST"
+    "Supple": "TEST"
   },
   {
     "lymphadenopathy": "PROBLEM"
@@ -189,22 +195,25 @@
     "thick chest wall": "PROBLEM"
   },
   {
-    "distant heart sounds": "PROBLEM"
+    "Heart sounds": "TEST"
   },
   {
-    "Lungs": "PROBLEM"
+    "auscultation": "TEST"
   },
   {
-    "Abdomen": "PROBLEM"
+    "percussion": "TEST"
   },
   {
     "lymphedema": "PROBLEM"
   },
   {
-    "organomegaly": "PROBLEM"
+    "pannus": "PROBLEM"
   },
   {
-    "cutaneous candidiasis": "PROBLEM"
+    "obese": "PROBLEM"
+  },
+  {
+    "candidiasis": "PROBLEM"
   },
   {
     "lymphadenopathy": "PROBLEM"
@@ -219,7 +228,10 @@
     "chronic ulcer": "PROBLEM"
   },
   {
-    "stage II chronic ulcer": "PROBLEM"
+    "ulcer": "PROBLEM"
+  },
+  {
+    "tenderness": "PROBLEM"
   },
   {
     "serosanguineous drainage": "PROBLEM"
@@ -243,10 +255,10 @@
     "endocarditis": "PROBLEM"
   },
   {
-    "cranial nerves II through XII": "TEST"
+    "cranial nerves": "TEST"
   },
   {
-    "focal deficit": "PROBLEM"
+    "cerebral deficit": "PROBLEM"
   },
   {
     "White cell count": "TEST"
@@ -291,19 +303,19 @@
     "pyuria": "PROBLEM"
   },
   {
-    "leucocyte esterase": "PROBLEM"
+    "leucocyte esterase": "TEST"
   },
   {
-    "nitrites": "PROBLEM"
+    "nitrites": "TEST"
   },
   {
     "morbid obesity": "PROBLEM"
   },
   {
-    "chronic lower extremity lymphedema": "PROBLEM"
+    "lymphedema": "PROBLEM"
   },
   {
-    "bilateral lower extremity lymphedema": "PROBLEM"
+    "lymphedema": "PROBLEM"
   },
   {
     "cellulitis": "PROBLEM"
@@ -315,7 +327,7 @@
     "cellulitis": "PROBLEM"
   },
   {
-    "lymphedema wraps": "TREATMENT"
+    "lymphedema": "PROBLEM"
   },
   {
     "lymphedema": "PROBLEM"
@@ -324,54 +336,48 @@
     "wraps": "TREATMENT"
   },
   {
-    "changes": "TREATMENT"
-  },
-  {
     "cellulitis": "PROBLEM"
   },
   {
-    "stage II ulcer": "PROBLEM"
+    "antibiotic": "DRUG"
   },
   {
-    "lymphedema wraps": "TREATMENT"
+    "ulcer": "PROBLEM"
+  },
+  {
+    "infection": "PROBLEM"
   },
   {
     "wound care": "TREATMENT"
   },
   {
-    "medical problems": "PROBLEM"
+    "lymphedema wraps": "TREATMENT"
   },
   {
-    "hospitalization": "PROBLEM"
+    "medical problems": "PROBLEM"
   },
   {
     "Dr.": "TREATMENT"
   },
   {
-    "Lymphedema": "PROBLEM"
+    "Plastic Surgery": "TREATMENT"
   },
   {
-    "Long-Term Acute Care Facility": "PROBLEM"
+    "Lymphedema Management Clinic": "TREATMENT"
   },
   {
-    "lower extremity cellulitis": "PROBLEM"
+    "Long-Term Acute Care Facility": "TREATMENT"
   },
   {
-    "lower extremity lymphedema": "PROBLEM"
+    "cellulitis": "PROBLEM"
   },
   {
-    "active cellulitis": "PROBLEM"
-  },
-  {
-    "morbid obesity": "PROBLEM"
-  },
-  {
-    "lymphedema wraps": "TREATMENT"
-  },
-  {
-    "antibiotic therapy": "TREATMENT"
+    "lymphedema": "PROBLEM"
   },
   {
     "antibiotic": "DRUG"
+  },
+  {
+    "therapy": "TREATMENT"
   }
 ]

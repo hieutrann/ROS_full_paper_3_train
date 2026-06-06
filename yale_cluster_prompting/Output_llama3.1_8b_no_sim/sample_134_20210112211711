@@ -3,22 +3,10 @@
     "General Medicine": "TREATMENT"
   },
   {
-    "Normal Female ROS Template": "TEST"
+    "Normal Female ROS Template": "TREATMENT"
   },
   {
-    "Normal female review of systems template": "TEST"
-  },
-  {
-    "fever": "PROBLEM"
-  },
-  {
-    "weight change": "PROBLEM"
-  },
-  {
-    "fatigue": "PROBLEM"
-  },
-  {
-    "aching": "PROBLEM"
+    "review of systems": "TREATMENT"
   },
   {
     "fever": "PROBLEM"
@@ -33,7 +21,19 @@
     "aching": "PROBLEM"
   },
   {
-    "glasses": "PROBLEM"
+    "fever": "PROBLEM"
+  },
+  {
+    "weight change": "PROBLEM"
+  },
+  {
+    "fatigue": "PROBLEM"
+  },
+  {
+    "aching": "PROBLEM"
+  },
+  {
+    "glasses": "TREATMENT"
   },
   {
     "cataracts": "PROBLEM"
@@ -87,7 +87,7 @@
     "angina": "PROBLEM"
   },
   {
-    "previous MI": "PROBLEM"
+    "MI": "PROBLEM"
   },
   {
     "irregular heartbeat": "PROBLEM"
@@ -123,25 +123,10 @@
     "pacemaker implantation": "TREATMENT"
   },
   {
-    "cough": "PROBLEM"
-  },
-  {
-    "sputum": "PROBLEM"
-  },
-  {
-    "shortness of breath": "PROBLEM"
-  },
-  {
-    "wheezing": "PROBLEM"
-  },
-  {
     "asthma": "PROBLEM"
   },
   {
     "emphysema": "PROBLEM"
-  },
-  {
-    "PULMONARY": "TEST"
   },
   {
     "peptic ulcer disease": "PROBLEM"
@@ -160,21 +145,6 @@
   },
   {
     "bleeding": "PROBLEM"
-  },
-  {
-    "heartburn": "PROBLEM"
-  },
-  {
-    "rectal pain": "PROBLEM"
-  },
-  {
-    "change in stool": "PROBLEM"
-  },
-  {
-    "vomiting": "PROBLEM"
-  },
-  {
-    "pain": "PROBLEM"
   },
   {
     "incontinence": "PROBLEM"
@@ -201,13 +171,10 @@
     "nipple discharge": "PROBLEM"
   },
   {
-    "skin or nipple changes": "PROBLEM"
+    "yeast infections": "PROBLEM"
   },
   {
     "sexually transmitted diseases": "PROBLEM"
-  },
-  {
-    "yeast infections": "PROBLEM"
   },
   {
     "itching": "PROBLEM"
@@ -291,19 +258,16 @@
     "anemia": "PROBLEM"
   },
   {
-    "swollen glands": "PROBLEM"
-  },
-  {
     "blood disorders": "PROBLEM"
   },
   {
-    "steroids": "DRUG"
-  },
-  {
-    "chemotherapy": "DRUG"
+    "swollen glands": "PROBLEM"
   },
   {
     "cancer": "PROBLEM"
+  },
+  {
+    "chemotherapy": "DRUG"
   },
   {
     "varicose veins": "PROBLEM"
@@ -318,9 +282,6 @@
     "leg ulcers": "PROBLEM"
   },
   {
-    "VASCULAR": "TEST"
-  },
-  {
     "cough": "PROBLEM"
   },
   {
@@ -333,7 +294,7 @@
     "fever": "PROBLEM"
   },
   {
-    "weight": "TEST"
+    "weight": "PROBLEM"
   },
   {
     "fatigue": "PROBLEM"
@@ -342,10 +303,10 @@
     "aching": "PROBLEM"
   },
   {
-    "nose": "TEST"
+    "nose": "PROBLEM"
   },
   {
-    "throat": "TEST"
+    "throat": "PROBLEM"
   },
   {
     "swelling": "PROBLEM"
@@ -363,9 +324,9 @@
     "heartbeat": "TEST"
   },
   {
-    "blood": "TEST"
+    "blood": "PROBLEM"
   },
   {
-    "joint": "TEST"
+    "joint": "PROBLEM"
   }
 ]

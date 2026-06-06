@@ -6,16 +6,13 @@
     "chronic back pain": "PROBLEM"
   },
   {
-    "acute back pain": "PROBLEM"
-  },
-  {
-    "bulging disk": "PROBLEM"
-  },
-  {
     "intravertebral lumbar disk disease": "PROBLEM"
   },
   {
     "degenerative changes": "PROBLEM"
+  },
+  {
+    "bulging disk": "PROBLEM"
   },
   {
     "testicular cancer": "PROBLEM"
@@ -33,19 +30,10 @@
     "bilateral carpal tunnel syndrome": "PROBLEM"
   },
   {
-    "status post excision of abdominal teratoma": "PROBLEM"
+    "abdominal teratoma": "PROBLEM"
   },
   {
     "incisional hernia": "PROBLEM"
-  },
-  {
-    "numbness and tingling": "PROBLEM"
-  },
-  {
-    "HIVES": "PROBLEM"
-  },
-  {
-    "SAP FROM THE MANGO TREE": "PROBLEM"
   },
   {
     "Decadron": "DRUG"
@@ -63,10 +51,13 @@
     "Protonix": "DRUG"
   },
   {
-    "IV analgesics": "TREATMENT"
+    "physical therapy": "TREATMENT"
   },
   {
-    "physical therapy": "TREATMENT"
+    "Occupational Therapy": "TREATMENT"
+  },
+  {
+    "IV analgesics": "TREATMENT"
   },
   {
     "bone scan": "TEST"
@@ -91,20 +82,5 @@
   },
   {
     "height": "TEST"
-  },
-  {
-    "BMI": "TEST"
-  },
-  {
-    "BSA": "TEST"
-  },
-  {
-    "Heart Rate": "TEST"
-  },
-  {
-    "Systolic": "TEST"
-  },
-  {
-    "Diastolic": "TEST"
   }
 ]

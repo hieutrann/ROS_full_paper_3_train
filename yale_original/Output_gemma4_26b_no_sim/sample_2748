@@ -1,8 +1,5 @@
 [
   {
-    "Jaw Pain": "PROBLEM"
-  },
-  {
     "toothache": "PROBLEM"
   },
   {
@@ -39,10 +36,13 @@
     "swelling": "PROBLEM"
   },
   {
+    "throat": "PROBLEM"
+  },
+  {
     "sore throat": "PROBLEM"
   },
   {
-    "difficulty swallowing liquids or solids": "PROBLEM"
+    "difficulty swallowing": "PROBLEM"
   },
   {
     "neck pain": "PROBLEM"
@@ -108,6 +108,9 @@
     "hearing change": "PROBLEM"
   },
   {
+    "pressure in the ear": "PROBLEM"
+  },
+  {
     "chest pain": "PROBLEM"
   },
   {
@@ -132,7 +135,10 @@
     "lesions": "PROBLEM"
   },
   {
-    "vision or hearing change": "PROBLEM"
+    "vision change": "PROBLEM"
+  },
+  {
+    "hearing change": "PROBLEM"
   },
   {
     "lymph node swelling": "PROBLEM"
@@ -159,10 +165,13 @@
     "rhinorrhea": "PROBLEM"
   },
   {
-    "audible congestion": "PROBLEM"
+    "congestion": "PROBLEM"
   },
   {
-    "tenderness over the sinuses": "PROBLEM"
+    "tenderness": "PROBLEM"
+  },
+  {
+    "sinuses": "PROBLEM"
   },
   {
     "infection": "PROBLEM"
@@ -172,18 +181,6 @@
   },
   {
     "swelling": "PROBLEM"
-  },
-  {
-    "erythema": "PROBLEM"
-  },
-  {
-    "bulging": "PROBLEM"
-  },
-  {
-    "air fluid levels": "PROBLEM"
-  },
-  {
-    "bubbles": "PROBLEM"
   },
   {
     "dental fracture": "PROBLEM"
@@ -207,7 +204,10 @@
     "abscess": "PROBLEM"
   },
   {
-    "tenderness of the tooth #18": "PROBLEM"
+    "tenderness": "PROBLEM"
+  },
+  {
+    "infection": "PROBLEM"
   },
   {
     "erythema": "PROBLEM"
@@ -231,7 +231,7 @@
     "abscess": "PROBLEM"
   },
   {
-    "pre or post auricular lymphadenopathy": "PROBLEM"
+    "lymphadenopathy": "PROBLEM"
   },
   {
     "meningismus": "PROBLEM"
@@ -243,10 +243,10 @@
     "JVD": "PROBLEM"
   },
   {
-    "carotid artery or vertebral artery bruits": "PROBLEM"
+    "carotid artery bruits": "PROBLEM"
   },
   {
-    "Heart": "TEST"
+    "vertebral artery bruits": "PROBLEM"
   },
   {
     "murmur": "PROBLEM"
@@ -258,9 +258,6 @@
     "gallop": "PROBLEM"
   },
   {
-    "RESPIRATIONS": "TEST"
-  },
-  {
     "shortness of breath": "PROBLEM"
   },
   {
@@ -268,12 +265,6 @@
   },
   {
     "lesions": "PROBLEM"
-  },
-  {
-    "speech": "TEST"
-  },
-  {
-    "ambulation": "TEST"
   },
   {
     "lymphadenitis": "PROBLEM"
@@ -325,6 +316,9 @@
   },
   {
     "tenderness": "PROBLEM"
+  },
+  {
+    "pressure": "PROBLEM"
   },
   {
     "erythema": "PROBLEM"

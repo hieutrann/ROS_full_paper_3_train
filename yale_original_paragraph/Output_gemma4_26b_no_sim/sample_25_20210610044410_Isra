@@ -36,6 +36,9 @@
     "subcutaneous emphysema": "PROBLEM"
   },
   {
+    "nodularity": "PROBLEM"
+  },
+  {
     "murmur": "PROBLEM"
   },
   {
@@ -90,13 +93,10 @@
     "hydrocele": "PROBLEM"
   },
   {
-    "digital palpation": "TEST"
-  },
-  {
     "Hemoccult-negative stool": "TEST"
   },
   {
-    "rectal masses": "PROBLEM"
+    "prostate": "TEST"
   },
   {
     "edema": "PROBLEM"
@@ -117,15 +117,15 @@
     "CVA tenderness": "PROBLEM"
   },
   {
-    "straight-leg raising": "TEST"
-  },
-  {
     "Kernig": "TEST"
   },
   {
     "Brudzinski signs": "TEST"
   },
   {
-    "tenderness": "PROBLEM"
+    "digital palpation": "TEST"
+  },
+  {
+    "hemoccult - negative": "TEST"
   }
 ]

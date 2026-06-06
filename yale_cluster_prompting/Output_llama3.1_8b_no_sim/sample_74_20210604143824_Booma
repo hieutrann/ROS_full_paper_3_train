@@ -3,16 +3,16 @@
     "ENT Exam": "TEST"
   },
   {
-    "EARS, NOSE, MOUTH AND THROAT": "TEST"
-  },
-  {
     "deformity": "PROBLEM"
   },
   {
-    "ears": "PROBLEM"
+    "pinna": "PROBLEM"
   },
   {
-    "canals": "TEST"
+    "canals": "PROBLEM"
+  },
+  {
+    "percussion": "TEST"
   },
   {
     "drainage": "PROBLEM"
@@ -36,6 +36,9 @@
     "whisper": "TEST"
   },
   {
+    "finger rubbing": "TEST"
+  },
+  {
     "nasal mucosa": "PROBLEM"
   },
   {
@@ -48,7 +51,7 @@
     "turbinates": "PROBLEM"
   },
   {
-    "abnormalities": "PROBLEM"
+    "obvious abnormalities": "PROBLEM"
   },
   {
     "teeth": "PROBLEM"
@@ -60,7 +63,16 @@
     "oral mucosa": "PROBLEM"
   },
   {
-    "masses": "PROBLEM"
+    "moist": "PROBLEM"
+  },
+  {
+    "pink": "PROBLEM"
+  },
+  {
+    "obvious masses": "PROBLEM"
+  },
+  {
+    "palate": "PROBLEM"
   },
   {
     "uvula": "PROBLEM"

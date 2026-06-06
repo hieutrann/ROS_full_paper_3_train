@@ -1,9 +1,9 @@
 [
   {
-    "end-stage peritoneal mesothelioma": "PROBLEM"
+    "peritoneal mesothelioma": "PROBLEM"
   },
   {
-    "multiple bowel perforations": "PROBLEM"
+    "bowel perforations": "PROBLEM"
   },
   {
     "pleurodesis": "TREATMENT"
@@ -39,18 +39,12 @@
     "anxiety": "PROBLEM"
   },
   {
-    "pleurodesis": "TREATMENT"
-  },
-  {
-    "abdominal pain": "PROBLEM"
-  },
-  {
-    "multiple bowel perforations": "PROBLEM"
+    "mesothelioma": "PROBLEM"
   },
   {
     "peritoneal mesothelioma": "PROBLEM"
   },
   {
-    "mesothelioma": "PROBLEM"
+    "bowel perforations": "PROBLEM"
   }
 ]

@@ -84,25 +84,19 @@
     "trazodone": "DRUG"
   },
   {
-    "Temperature": "TEST"
-  },
-  {
-    "blood pressure": "TEST"
-  },
-  {
-    "pulse": "TEST"
-  },
-  {
-    "respiratory rate": "TEST"
-  },
-  {
-    "thrush": "PROBLEM"
-  },
-  {
     "right knee edema": "PROBLEM"
   },
   {
     "ecchymosis": "PROBLEM"
+  },
+  {
+    "Physical Therapy": "TREATMENT"
+  },
+  {
+    "Occupational Therapy": "TREATMENT"
+  },
+  {
+    "CPM machine": "TREATMENT"
   },
   {
     "Ativan": "DRUG"
@@ -132,46 +126,13 @@
     "UA": "TEST"
   },
   {
-    "white count": "TEST"
-  },
-  {
-    "hemoglobin": "TEST"
-  },
-  {
-    "hematocrit": "TEST"
-  },
-  {
-    "platelets": "TEST"
-  },
-  {
-    "Creatinine": "TEST"
-  },
-  {
-    "BUN": "TEST"
-  },
-  {
-    "anion gap": "TEST"
-  },
-  {
-    "fasting glucose": "TEST"
-  },
-  {
-    "Anxiety disorder": "PROBLEM"
+    "CBC": "TEST"
   },
   {
     "Postoperative constipation": "PROBLEM"
   },
   {
-    "Contact dermatitis": "PROBLEM"
-  },
-  {
     "Gastroesophageal reflux disease": "PROBLEM"
-  },
-  {
-    "Morton neuroma of the feet": "PROBLEM"
-  },
-  {
-    "migraine headaches": "PROBLEM"
   },
   {
     "Protonix": "DRUG"
@@ -184,8 +145,5 @@
   },
   {
     "Toprol-XL": "DRUG"
-  },
-  {
-    "INR": "TEST"
   }
 ]

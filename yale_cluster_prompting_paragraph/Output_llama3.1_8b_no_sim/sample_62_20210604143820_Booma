@@ -42,48 +42,60 @@
     "normal saline lock": "TREATMENT"
   },
   {
-    "rectal examination": "TREATMENT"
+    "physical examination": "TEST"
   },
   {
-    "rectal secretions": "TEST"
+    "vital signs": "TEST"
   },
   {
-    "WBC": "TEST"
-  },
-  {
-    "differential": "TEST"
-  },
-  {
-    "hemoglobin": "TEST"
-  },
-  {
-    "hematocrit": "TEST"
-  },
-  {
-    "comprehensive medical profile": "TEST"
-  },
-  {
-    "clean catch urinalysis": "TEST"
+    "laboratory studies": "TEST"
   },
   {
     "chest x-ray": "TEST"
   },
   {
-    "O2 sat": "TEST"
+    "clean catch urinalysis": "TEST"
   },
   {
-    "monitor": "TEST"
+    "ED studies": "TEST"
   },
   {
-    "ED COURSE": "TEST"
+    "rectal examination": "TEST"
   },
   {
-    "MEDICAL DECISION MAKING": "TEST"
+    "rectal secretions": "TEST"
   },
   {
-    "ASSESSMENT": "TEST"
+    "rectal examination was performed": "TEST"
   },
   {
-    "PLAN": "TEST"
+    "rectal examination was performed with female nurse in attendance": "TEST"
+  },
+  {
+    "rectal examination was performed with female nurse in attendance. Good sphincter tone": "TEST"
+  },
+  {
+    "rectal examination was performed with female nurse in attendance. Good sphincter tone. No masses": "TEST"
+  },
+  {
+    "rectal examination was performed with female nurse in attendance. Good sphincter tone. No masses. The rectal secretions were heme negative": "TEST"
+  },
+  {
+    "rectal examination was performed with female nurse in attendance. Good sphincter tone. No masses. The rectal secretions were heme negative. The patient was reassessed": "TEST"
+  },
+  {
+    "rectal examination was performed with female nurse in attendance. Good sphincter tone. No masses. The rectal secretions were heme negative. The patient was reassessed. She feels slightly better": "TEST"
+  },
+  {
+    "rectal examination was performed with female nurse in attendance. Good sphincter tone. No masses. The rectal secretions were heme negative. The patient was reassessed. She feels slightly better. Monitor now shows normal sinus rhythm, rate 81, no ectopy": "TEST"
+  },
+  {
+    "rectal examination was performed with female nurse in attendance. Good sphincter tone. No masses. The rectal secretions were heme negative. The patient was reassessed. She feels slightly better. Monitor now shows normal sinus rhythm, rate 81, no ectopy. Blood pressure is 136/66": "TEST"
+  },
+  {
+    "rectal examination was performed with female nurse in attendance. Good sphincter tone. No masses. The rectal secretions were heme negative. The patient was reassessed. She feels slightly better. Monitor now shows normal sinus rhythm, rate 81, no ectopy. Blood pressure is 136/66. The patient is stable and will be discharged": "TEST"
+  },
+  {
+    "physical therapy": "TREATMENT"
   }
 ]

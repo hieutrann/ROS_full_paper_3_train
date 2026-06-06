@@ -15,7 +15,7 @@
     "trauma": "PROBLEM"
   },
   {
-    "Decubitus ulcer, lower back": "PROBLEM"
+    "Decubitus ulcer": "PROBLEM"
   },
   {
     "Alcohol induced persisting dementia": "PROBLEM"
@@ -27,10 +27,13 @@
     "Hypokalemia": "PROBLEM"
   },
   {
-    "traumatic fracture of the lower arm": "PROBLEM"
+    "traumatic fracture": "PROBLEM"
   },
   {
-    "Alcohol abuse, not otherwise specified.": "PROBLEM"
+    "lower arm": "PROBLEM"
+  },
+  {
+    "Alcohol abuse": "PROBLEM"
   },
   {
     "traumatic lower leg fracture": "PROBLEM"
@@ -72,6 +75,9 @@
     "multiple fractures": "PROBLEM"
   },
   {
+    "motor vehicle accident": "PROBLEM"
+  },
+  {
     "left tibial plateau fracture": "PROBLEM"
   },
   {
@@ -88,6 +94,9 @@
   },
   {
     "ORIF": "TREATMENT"
+  },
+  {
+    "right forearm": "PROBLEM"
   },
   {
     "brace": "TREATMENT"
@@ -114,10 +123,16 @@
     "sacral decubitus ulcer": "PROBLEM"
   },
   {
+    "wound care": "TREATMENT"
+  },
+  {
     "anemia": "PROBLEM"
   },
   {
     "iron treatment": "TREATMENT"
+  },
+  {
+    "therapy": "TREATMENT"
   },
   {
     "confusion": "PROBLEM"
@@ -135,13 +150,34 @@
     "agitation": "PROBLEM"
   },
   {
-    "chronic pain": "PROBLEM"
+    "pain medications": "DRUG"
+  },
+  {
+    "acute alcohol rehab facility": "TREATMENT"
+  },
+  {
+    "orthopedic followup": "TREATMENT"
+  },
+  {
+    "right leg brace": "TREATMENT"
   },
   {
     "therapy": "TREATMENT"
   },
   {
+    "therapy": "TREATMENT"
+  },
+  {
+    "outpatient therapy": "TREATMENT"
+  },
+  {
+    "wheeled walker": "TREATMENT"
+  },
+  {
     "pain level": "PROBLEM"
+  },
+  {
+    "moods": "PROBLEM"
   },
   {
     "agitation": "PROBLEM"
@@ -153,7 +189,10 @@
     "anemia": "PROBLEM"
   },
   {
-    "Calcium with vitamin D": "DRUG"
+    "Calcium": "DRUG"
+  },
+  {
+    "vitamin D": "DRUG"
   },
   {
     "Ferrous sulfate": "DRUG"

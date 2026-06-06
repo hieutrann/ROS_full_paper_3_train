@@ -45,6 +45,9 @@
     "Heart rate": "TEST"
   },
   {
+    "Weight": "TEST"
+  },
+  {
     "anemia": "PROBLEM"
   },
   {
@@ -54,7 +57,7 @@
     "JVP": "TEST"
   },
   {
-    "inspiratory and expiratory wheezing": "PROBLEM"
+    "wheezing": "PROBLEM"
   },
   {
     "Fine crepitations": "PROBLEM"
@@ -118,5 +121,29 @@
   },
   {
     "Coumadin": "DRUG"
+  },
+  {
+    "pneumonia": "PROBLEM"
+  },
+  {
+    "atherosclerotic coronary vascular disease": "PROBLEM"
+  },
+  {
+    "icd implantation": "TREATMENT"
+  },
+  {
+    "atrial fibrillation": "PROBLEM"
+  },
+  {
+    "myocardial infarction": "PROBLEM"
+  },
+  {
+    "orthopnea": "PROBLEM"
+  },
+  {
+    "paroxysmal nocturnal dyspnea": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
   }
 ]

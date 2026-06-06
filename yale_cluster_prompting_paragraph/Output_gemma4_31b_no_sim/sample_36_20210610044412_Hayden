@@ -12,12 +12,6 @@
     "numbness": "PROBLEM"
   },
   {
-    "anti - inflammatories": "DRUG"
-  },
-  {
-    "pain relievers": "DRUG"
-  },
-  {
     "sore throat": "PROBLEM"
   },
   {
@@ -66,12 +60,6 @@
     "postnasal drip": "PROBLEM"
   },
   {
-    "Limited in range of motion": "PROBLEM"
-  },
-  {
-    "biceps tenderness": "PROBLEM"
-  },
-  {
     "Right shoulder bursitis": "PROBLEM"
   },
   {
@@ -91,5 +79,20 @@
   },
   {
     "tonsillectomy": "TREATMENT"
+  },
+  {
+    "Attention deficit disorder": "PROBLEM"
+  },
+  {
+    "anger control": "PROBLEM"
+  },
+  {
+    "adhd": "PROBLEM"
+  },
+  {
+    "attention deficit disorde": "PROBLEM"
+  },
+  {
+    "bursitis": "PROBLEM"
   }
 ]

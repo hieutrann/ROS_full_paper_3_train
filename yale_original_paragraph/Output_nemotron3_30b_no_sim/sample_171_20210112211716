@@ -1,0 +1,38 @@
+[
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "nonischemic cardiomyopathy": "PROBLEM"
+  },
+  {
+    "branch vessel coronary artery disease": "PROBLEM"
+  },
+  {
+    "congestive heart failure": "PROBLEM"
+  },
+  {
+    "nonsustained ventricular tachycardia": "PROBLEM"
+  },
+  {
+    "hepatitis C": "PROBLEM"
+  },
+  {
+    "Lasix": "DRUG"
+  },
+  {
+    "hydralazine": "DRUG"
+  },
+  {
+    "Toprol": "DRUG"
+  },
+  {
+    "lisinopril": "DRUG"
+  },
+  {
+    "Aldactone": "DRUG"
+  },
+  {
+    "cocaine": "TREATMENT"
+  }
+]

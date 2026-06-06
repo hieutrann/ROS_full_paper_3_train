@@ -54,9 +54,6 @@
     "Laparoscopic cholecystectomy": "TREATMENT"
   },
   {
-    "Surgery": "TREATMENT"
-  },
-  {
     "morbid obesity": "PROBLEM"
   },
   {
@@ -84,16 +81,10 @@
     "infection of the band": "PROBLEM"
   },
   {
-    "procedure": "TREATMENT"
-  },
-  {
     "blood glucose check": "TEST"
   },
   {
     "hyperglycemic": "PROBLEM"
-  },
-  {
-    "sugar": "TEST"
   },
   {
     "hyperglycemia": "PROBLEM"
@@ -102,16 +93,13 @@
     "insulin drip": "TREATMENT"
   },
   {
-    "Her sugars": "TEST"
+    "sugars": "TEST"
   },
   {
     "laparoscopic cholecystectomy": "TREATMENT"
   },
   {
     "difficult intubation": "PROBLEM"
-  },
-  {
-    "procedure": "TREATMENT"
   },
   {
     "chronic cholecystitis": "PROBLEM"
@@ -126,16 +114,10 @@
     "adhesions of omentum": "PROBLEM"
   },
   {
-    "the procedure": "TREATMENT"
-  },
-  {
     "blood sugar": "TEST"
   },
   {
-    "insulin": "DRUG"
-  },
-  {
-    "procedure": "TREATMENT"
+    "sliding scale insulin": "DRUG"
   },
   {
     "Medifast diet": "TREATMENT"

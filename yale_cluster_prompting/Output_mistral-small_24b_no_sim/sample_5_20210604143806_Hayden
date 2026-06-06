@@ -42,13 +42,13 @@
     "spitting up": "PROBLEM"
   },
   {
-    "breathing": "PROBLEM"
+    "difficulty breathing": "PROBLEM"
   },
   {
     "cough": "PROBLEM"
   },
   {
-    "TM": "TEST"
+    "right TM": "PROBLEM"
   },
   {
     "Left TM": "TEST"
@@ -66,10 +66,7 @@
     "ear": "PROBLEM"
   },
   {
-    "worse": "PROBLEM"
-  },
-  {
-    "breathing": "PROBLEM"
+    "difficulty breathing": "PROBLEM"
   },
   {
     "congested": "PROBLEM"
@@ -81,13 +78,7 @@
     "temperature": "TEST"
   },
   {
-    "trouble sleeping": "PROBLEM"
-  },
-  {
     "congestion": "PROBLEM"
-  },
-  {
-    "drug allergies": "PROBLEM"
   },
   {
     "Amoxil": "DRUG"
@@ -96,19 +87,13 @@
     "Aldex": "DRUG"
   },
   {
-    "Woman's": "TEST"
-  },
-  {
-    "VITAL SIGNS": "TEST"
+    "hearing screen": "TEST"
   },
   {
     "respiratory rate": "TEST"
   },
   {
     "congested": "PROBLEM"
-  },
-  {
-    "retractions": "PROBLEM"
   },
   {
     "right TM": "PROBLEM"
@@ -120,16 +105,16 @@
     "throat": "PROBLEM"
   },
   {
-    "CARDIOVASCULAR EXAM": "TEST"
+    "extraocular muscles": "TEST"
+  },
+  {
+    "range of motion": "TEST"
   },
   {
     "tachycardic": "PROBLEM"
   },
   {
     "wheezing": "PROBLEM"
-  },
-  {
-    "ABDOMEN": "TEST"
   },
   {
     "clubbing": "PROBLEM"
@@ -159,10 +144,10 @@
     "otitis media": "PROBLEM"
   },
   {
-    "Oral Orapred": "DRUG"
+    "Orapred": "DRUG"
   },
   {
-    "IV Rocephin": "DRUG"
+    "Rocephin": "DRUG"
   },
   {
     "nebulizer treatments": "TREATMENT"
@@ -186,7 +171,7 @@
     "difficulty breathing": "PROBLEM"
   },
   {
-    "congested": "PROBLEM"
+    "congestion": "PROBLEM"
   },
   {
     "cough": "PROBLEM"

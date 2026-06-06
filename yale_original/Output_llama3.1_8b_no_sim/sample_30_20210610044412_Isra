@@ -3,19 +3,13 @@
     "General Medicine": "TREATMENT"
   },
   {
-    "Well developed": "TEST"
-  },
-  {
-    "well nourished": "TEST"
-  },
-  {
-    "alert": "TEST"
-  },
-  {
-    "acute distress": "PROBLEM"
+    "alert": "PROBLEM"
   },
   {
     "alert": "PROBLEM"
+  },
+  {
+    "acute distress": "PROBLEM"
   },
   {
     "GCS": "TEST"
@@ -36,13 +30,19 @@
     "Pulse oximetry": "TEST"
   },
   {
-    "Lids and conjunctiva": "PROBLEM"
+    "Eyes": "PROBLEM"
+  },
+  {
+    "Lids": "PROBLEM"
+  },
+  {
+    "conjunctiva": "PROBLEM"
   },
   {
     "lesions": "PROBLEM"
   },
   {
-    "Pupils": "TEST"
+    "pupils": "TEST"
   },
   {
     "Irises": "PROBLEM"
@@ -57,46 +57,37 @@
     "discopathy": "PROBLEM"
   },
   {
-    "Ears": "PROBLEM"
-  },
-  {
-    "Nose": "PROBLEM"
-  },
-  {
-    "Mouth": "PROBLEM"
-  },
-  {
-    "throat": "PROBLEM"
+    "lesions": "PROBLEM"
   },
   {
     "Nares": "PROBLEM"
   },
   {
-    "Septum midline": "PROBLEM"
+    "Septum": "PROBLEM"
   },
   {
     "Tympanic membranes": "PROBLEM"
   },
   {
-    "Canals": "PROBLEM"
+    "lesion": "PROBLEM"
   },
   {
-    "Hearing": "PROBLEM"
+    "Hearing": "TEST"
   },
   {
-    "Lips": "TEST"
+    "Lips": "PROBLEM"
   },
   {
-    "teeth": "TEST"
+    "teeth": "PROBLEM"
   },
   {
-    "gums": "TEST"
+    "gums": "PROBLEM"
   },
   {
-    "palate": "TEST"
+    "palate": "PROBLEM"
   },
   {
-    "Posterior oropharynx": "PROBLEM"
+    "erythema": "PROBLEM"
   },
   {
     "tonsillar enlargement": "PROBLEM"
@@ -108,13 +99,16 @@
     "abscess": "PROBLEM"
   },
   {
-    "NECK": "TEST"
+    "Supple": "TREATMENT"
+  },
+  {
+    "symmetric": "TREATMENT"
   },
   {
     "masses": "PROBLEM"
   },
   {
-    "Thyroid midline": "PROBLEM"
+    "Thyroid": "PROBLEM"
   },
   {
     "JVD": "PROBLEM"
@@ -123,19 +117,19 @@
     "Neck": "PROBLEM"
   },
   {
-    "Full range of motion without pain": "PROBLEM"
+    "pain": "PROBLEM"
   },
   {
-    "Good respiratory effort": "TEST"
+    "respiratory effort": "PROBLEM"
   },
   {
     "auscultation": "TEST"
   },
   {
-    "Clear to percussion": "TEST"
+    "percussion": "TEST"
   },
   {
-    "Chest": "PROBLEM"
+    "Chest": "TEST"
   },
   {
     "Symmetrical expansion": "PROBLEM"
@@ -147,7 +141,10 @@
     "tactile fremitus": "PROBLEM"
   },
   {
-    "Regular rate and rhythm": "TEST"
+    "rate": "TEST"
+  },
+  {
+    "rhythm": "TEST"
   },
   {
     "murmur": "PROBLEM"
@@ -165,22 +162,22 @@
     "rub": "PROBLEM"
   },
   {
-    "Cardiac palpation": "TEST"
+    "palpation": "TEST"
   },
   {
-    "carotid": "TEST"
+    "carotid": "PROBLEM"
   },
   {
-    "Femoral and pedal pulses": "TEST"
+    "Femoral pulses": "TEST"
   },
   {
-    "peripheral edema": "PROBLEM"
+    "Pedal pulses": "TEST"
   },
   {
-    "tenderness": "PROBLEM"
+    "Peripheral edema": "PROBLEM"
   },
   {
-    "mass": "PROBLEM"
+    "GASTROINTESTINAL": "PROBLEM"
   },
   {
     "hepatosplenomegaly": "PROBLEM"
@@ -207,16 +204,13 @@
     "pathology": "PROBLEM"
   },
   {
-    "Extremities": "TEST"
-  },
-  {
-    "tenderness": "PROBLEM"
+    "Extremities": "PROBLEM"
   },
   {
     "effusion": "PROBLEM"
   },
   {
-    "Range of motion": "TEST"
+    "motion": "PROBLEM"
   },
   {
     "Strength": "TEST"
@@ -228,13 +222,19 @@
     "BACK": "PROBLEM"
   },
   {
-    "Full range of motion": "TEST"
+    "flexion": "PROBLEM"
+  },
+  {
+    "extension": "PROBLEM"
+  },
+  {
+    "sidebending": "PROBLEM"
   },
   {
     "SKIN": "PROBLEM"
   },
   {
-    "Well hydrated": "PROBLEM"
+    "hydrated": "PROBLEM"
   },
   {
     "diaphoresis": "PROBLEM"
@@ -249,7 +249,7 @@
     "lymphadenopathy": "PROBLEM"
   },
   {
-    "Cranial nerves II - XII": "PROBLEM"
+    "Cranial nerves": "TREATMENT"
   },
   {
     "DTRs": "TEST"
@@ -270,10 +270,13 @@
     "Straight leg raise": "TEST"
   },
   {
-    "Judgment and insight": "PROBLEM"
+    "Judgment": "TREATMENT"
   },
   {
-    "Alert and oriented times three": "TEST"
+    "Alert": "PROBLEM"
+  },
+  {
+    "oriented": "PROBLEM"
   },
   {
     "Memory": "PROBLEM"
@@ -288,19 +291,28 @@
     "hallucinations": "PROBLEM"
   },
   {
-    "suicidal or homicidal ideation": "PROBLEM"
+    "ideation": "PROBLEM"
   },
   {
-    "lesions": "PROBLEM"
+    "general medicine": "TREATMENT"
   },
   {
-    "tenderness": "PROBLEM"
+    "respiratory": "PROBLEM"
   },
   {
-    "strength": "PROBLEM"
+    "abdomen": "PROBLEM"
   },
   {
-    "lymph": "PROBLEM"
+    "pulses": "TEST"
+  },
+  {
+    "tenderness": "TEST"
+  },
+  {
+    "strength": "TEST"
+  },
+  {
+    "lymph": "TEST"
   },
   {
     "extremity": "TEST"
@@ -315,9 +327,9 @@
     "motion": "TEST"
   },
   {
-    "abdomen": "TEST"
+    "lesions": "PROBLEM"
   },
   {
-    "pulses": "TEST"
+    "symmetrical": "TEST"
   }
 ]

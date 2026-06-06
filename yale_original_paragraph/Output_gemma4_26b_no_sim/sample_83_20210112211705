@@ -42,10 +42,13 @@
     "gestational sac": "PROBLEM"
   },
   {
-    "laparotomy": "TREATMENT"
+    "ruptured ectopic pregnancy": "PROBLEM"
   },
   {
-    "right ruptured ectopic pregnancy": "PROBLEM"
+    "surgery": "TREATMENT"
+  },
+  {
+    "laparotomy": "TREATMENT"
   },
   {
     "right salpingectomy": "TREATMENT"
@@ -57,28 +60,10 @@
     "hemoglobin": "TEST"
   },
   {
-    "severe abdominal pain": "PROBLEM"
+    "abdominal pain": "PROBLEM"
   },
   {
     "fever": "PROBLEM"
-  },
-  {
-    "anemia": "PROBLEM"
-  },
-  {
-    "blood loss": "PROBLEM"
-  },
-  {
-    "ruptured ectopic pregnancy": "PROBLEM"
-  },
-  {
-    "gestational sac": "PROBLEM"
-  },
-  {
-    "ectopic pregnancy": "PROBLEM"
-  },
-  {
-    "hemoperitoneum": "PROBLEM"
   },
   {
     "pain medication": "DRUG"

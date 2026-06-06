@@ -6,24 +6,21 @@
     "stroke": "PROBLEM"
   },
   {
-    "linguistic deficits": "PROBLEM"
+    "generative naming": "PROBLEM"
   },
   {
-    "speech therapy": "TREATMENT"
+    "auditory comprehension": "PROBLEM"
+  },
+  {
+    "recall": "PROBLEM"
   },
   {
     "skilled speech therapy": "TREATMENT"
   },
   {
-    "linguistic impairment": "PROBLEM"
+    "speech therapy": "TREATMENT"
   },
   {
-    "cognitive linguistic": "PROBLEM"
-  },
-  {
-    "cognitive": "PROBLEM"
-  },
-  {
-    "linguistic": "PROBLEM"
+    "cognitive linguistic abilities": "TREATMENT"
   }
 ]

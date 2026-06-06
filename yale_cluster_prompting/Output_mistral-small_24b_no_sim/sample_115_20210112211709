@@ -12,10 +12,13 @@
     "chemical pleurodesis": "TREATMENT"
   },
   {
-    "carcinoma": "PROBLEM"
+    "DISCHARGE DIAGNOSES": "PROBLEM"
   },
   {
-    "pleural effusion": "PROBLEM"
+    "Advanced non-small cell lung carcinoma": "PROBLEM"
+  },
+  {
+    "left malignant pleural effusion": "PROBLEM"
   },
   {
     "chest tube insertion": "TREATMENT"
@@ -63,6 +66,9 @@
     "Elevated liver function tests": "TEST"
   },
   {
+    "53-year-old": "PROBLEM"
+  },
+  {
     "right hip pain": "PROBLEM"
   },
   {
@@ -72,28 +78,28 @@
     "CT scan": "TEST"
   },
   {
-    "pleural effusion": "PROBLEM"
+    "left pleural effusion": "PROBLEM"
   },
   {
-    "mediastinal mass": "PROBLEM"
+    "extensive mediastinal mass": "PROBLEM"
   },
   {
-    "hilar adenopathy": "PROBLEM"
+    "left hilar adenopathy": "PROBLEM"
   },
   {
-    "obstruction": "PROBLEM"
+    "complete obstruction": "PROBLEM"
   },
   {
-    "lower lobe": "PROBLEM"
+    "left lower lobe": "PROBLEM"
   },
   {
     "lingula": "PROBLEM"
   },
   {
-    "pulmonary vein": "PROBLEM"
+    "left pulmonary vein": "PROBLEM"
   },
   {
-    "nodules": "PROBLEM"
+    "multiple nodules": "PROBLEM"
   },
   {
     "metastatic disease": "PROBLEM"
@@ -114,7 +120,7 @@
     "chest pain": "PROBLEM"
   },
   {
-    "chest tube": "TREATMENT"
+    "a left-sided chest tube": "TREATMENT"
   },
   {
     "pleural effusion": "PROBLEM"
@@ -144,12 +150,6 @@
     "mechanical ventilatory support": "TREATMENT"
   },
   {
-    "extubated": "TREATMENT"
-  },
-  {
-    "re-intubated": "TREATMENT"
-  },
-  {
     "respiratory failure": "PROBLEM"
   },
   {
@@ -162,16 +162,16 @@
     "DNR": "TREATMENT"
   },
   {
-    "life support": "TREATMENT"
+    "withdrawal of the life support": "TREATMENT"
   },
   {
-    "extubated": "TREATMENT"
+    "expired": "PROBLEM"
   },
   {
-    "discharge summary": "TEST"
+    "discharge summary": "PROBLEM"
   },
   {
-    "dnr": "TREATMENT"
+    "dnr": "PROBLEM"
   },
   {
     "pronounced expired": "PROBLEM"
@@ -180,7 +180,7 @@
     "extubated": "TREATMENT"
   },
   {
-    "death summary": "TEST"
+    "death summary": "PROBLEM"
   },
   {
     "lung carcinoma": "PROBLEM"

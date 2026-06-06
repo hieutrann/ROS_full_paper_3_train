@@ -1,8 +1,5 @@
 [
   {
-    "Elevated Blood Pressure": "PROBLEM"
-  },
-  {
     "blood pressure": "TEST"
   },
   {
@@ -61,6 +58,9 @@
   },
   {
     "prostate": "PROBLEM"
+  },
+  {
+    "surgery": "TREATMENT"
   },
   {
     "blood pressure": "TEST"
@@ -148,9 +148,6 @@
   },
   {
     "murmur": "PROBLEM"
-  },
-  {
-    "ABDOMEN": "TEST"
   },
   {
     "swelling": "PROBLEM"

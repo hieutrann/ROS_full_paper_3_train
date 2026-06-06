@@ -1,8 +1,5 @@
 [
   {
-    "General Medicine": "TEST"
-  },
-  {
     "Acute Cystitis": "PROBLEM"
   },
   {
@@ -18,202 +15,13 @@
     "Micronase": "DRUG"
   },
   {
-    "HISTORY OF PRESENT ILLNESS": "TEST"
-  },
-  {
-    "abdominal pain": "PROBLEM"
-  },
-  {
-    "diabetes": "PROBLEM"
-  },
-  {
-    "Micronase": "DRUG"
-  },
-  {
-    "PAST MEDICAL HISTORY": "TEST"
-  },
-  {
-    "HEENT": "TEST"
-  },
-  {
-    "Cardio": "TEST"
-  },
-  {
-    "elevated cholesterol": "PROBLEM"
-  },
-  {
-    "ASHD": "PROBLEM"
-  },
-  {
-    "hypertension": "PROBLEM"
-  },
-  {
-    "PVD": "PROBLEM"
-  },
-  {
-    "Resp": "TEST"
-  },
-  {
-    "asthma": "PROBLEM"
-  },
-  {
-    "lung infections": "PROBLEM"
-  },
-  {
-    "lung lesions": "PROBLEM"
-  },
-  {
-    "GI": "TEST"
-  },
-  {
-    "colon abnormalities": "PROBLEM"
-  },
-  {
-    "gall bladder problems": "PROBLEM"
-  },
-  {
-    "liver abnormalities": "PROBLEM"
-  },
-  {
-    "peptic ulcer disease": "PROBLEM"
-  },
-  {
-    "GU": "TEST"
-  },
-  {
-    "Urinary tract disorder": "PROBLEM"
-  },
-  {
-    "Bladder disorder": "PROBLEM"
-  },
-  {
-    "Kidney disorder": "PROBLEM"
-  },
-  {
-    "Endocrine": "TEST"
-  },
-  {
-    "diabetes": "PROBLEM"
-  },
-  {
-    "hormonal irregularities": "PROBLEM"
-  },
-  {
-    "thyroid abnormalities": "PROBLEM"
-  },
-  {
-    "Dermatology": "TEST"
-  },
-  {
-    "allergic reactions": "PROBLEM"
-  },
-  {
-    "rashes": "PROBLEM"
-  },
-  {
-    "skin lesions": "PROBLEM"
-  },
-  {
-    "MEDS": "TEST"
+    "Bactrim": "DRUG"
   },
   {
     "Micronase": "DRUG"
   },
   {
     "Bactrim": "DRUG"
-  },
-  {
-    "SOCIAL HISTORY": "TEST"
-  },
-  {
-    "FAMILY HISTORY": "TEST"
-  },
-  {
-    "REVIEW OF SYSTEMS": "TEST"
-  },
-  {
-    "Vital Signs": "TEST"
-  },
-  {
-    "Height": "TEST"
-  },
-  {
-    "Weight": "TEST"
-  },
-  {
-    "Upright BP": "TEST"
-  },
-  {
-    "Pulse": "TEST"
-  },
-  {
-    "Resp": "TEST"
-  },
-  {
-    "Neck": "TEST"
-  },
-  {
-    "jugular venous distension": "PROBLEM"
-  },
-  {
-    "thyroid": "PROBLEM"
-  },
-  {
-    "Lungs": "TEST"
-  },
-  {
-    "lung expansion": "PROBLEM"
-  },
-  {
-    "lung excursions": "PROBLEM"
-  },
-  {
-    "Cardio": "TEST"
-  },
-  {
-    "SI": "TEST"
-  },
-  {
-    "S2": "TEST"
-  },
-  {
-    "Abdomen": "TEST"
-  },
-  {
-    "bowel sounds": "PROBLEM"
-  },
-  {
-    "organomegaly": "PROBLEM"
-  },
-  {
-    "CVA tenderness": "PROBLEM"
-  },
-  {
-    "hernias": "PROBLEM"
-  },
-  {
-    "Extremities": "TEST"
-  },
-  {
-    "clubbing": "PROBLEM"
-  },
-  {
-    "cyanosis": "PROBLEM"
-  },
-  {
-    "edema": "PROBLEM"
-  },
-  {
-    "ASSESSMENT": "TEST"
-  },
-  {
-    "Diabetes type II": "PROBLEM"
-  },
-  {
-    "Acute cystitis": "PROBLEM"
-  },
-  {
-    "PLAN": "TEST"
   },
   {
     "Endocrinology Consult": "TREATMENT"
@@ -222,42 +30,9 @@
     "CBC": "TEST"
   },
   {
-    "RX": "TEST"
-  },
-  {
     "Micronase": "DRUG"
   },
   {
     "Bactrim": "DRUG"
-  },
-  {
-    "general medicine": "TEST"
-  },
-  {
-    "bactrim": "DRUG"
-  },
-  {
-    "micronase": "DRUG"
-  },
-  {
-    "abdominal pain": "PROBLEM"
-  },
-  {
-    "endocrinology": "TEST"
-  },
-  {
-    "cbc": "TEST"
-  },
-  {
-    "diabetes type ii": "PROBLEM"
-  },
-  {
-    "acute cystitis": "PROBLEM"
-  },
-  {
-    "diabetes": "PROBLEM"
-  },
-  {
-    "abnormalities": "PROBLEM"
   }
 ]

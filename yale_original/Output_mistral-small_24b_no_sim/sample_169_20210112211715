@@ -1,27 +1,27 @@
 [
   {
-    "General Medicine": "PROBLEM"
+    "blood-borne pathogen": "PROBLEM"
   },
   {
     "Blood-borne pathogen exposure": "PROBLEM"
   },
   {
+    "phlebotomist": "TREATMENT"
+  },
+  {
+    "respiratory therapist": "TREATMENT"
+  },
+  {
     "blood gas": "TEST"
   },
   {
-    "finger": "TEST"
+    "pulse": "TEST"
   },
   {
-    "needle": "TEST"
+    "gloves": "TREATMENT"
   },
   {
-    "jerked": "PROBLEM"
-  },
-  {
-    "arm": "PROBLEM"
-  },
-  {
-    "finger": "PROBLEM"
+    "needle": "TREATMENT"
   },
   {
     "emergency department": "TEST"
@@ -87,16 +87,19 @@
     "abdominal symptoms": "PROBLEM"
   },
   {
-    "darkening of the skin or eyes": "PROBLEM"
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "darkening of the skin": "PROBLEM"
+  },
+  {
+    "darkening of the eyes": "PROBLEM"
   },
   {
     "yellowing": "PROBLEM"
   },
   {
     "darkening": "PROBLEM"
-  },
-  {
-    "urine": "TEST"
   },
   {
     "rash": "PROBLEM"
@@ -114,19 +117,28 @@
     "IV contrast": "DRUG"
   },
   {
+    "PHYSICAL EXAMINATION": "TEST"
+  },
+  {
+    "ill": "PROBLEM"
+  },
+  {
+    "toxic": "PROBLEM"
+  },
+  {
     "temperature": "TEST"
-  },
-  {
-    "pulse": "TEST"
-  },
-  {
-    "respirations": "TEST"
   },
   {
     "blood pressure": "TEST"
   },
   {
     "HEENT exam": "TEST"
+  },
+  {
+    "Ocular movements": "TEST"
+  },
+  {
+    "oropharynx": "PROBLEM"
   },
   {
     "pharyngeal erythema": "PROBLEM"
@@ -165,12 +177,6 @@
     "edema": "PROBLEM"
   },
   {
-    "gait": "TEST"
-  },
-  {
-    "balance": "TEST"
-  },
-  {
     "ataxia": "PROBLEM"
   },
   {
@@ -187,9 +193,6 @@
   },
   {
     "hepatitis B": "PROBLEM"
-  },
-  {
-    "3 shot series": "TREATMENT"
   },
   {
     "titers": "TEST"
@@ -210,10 +213,10 @@
     "vomiting": "PROBLEM"
   },
   {
-    "acute hepatitis": "PROBLEM"
+    "hepatitis": "PROBLEM"
   },
   {
-    "lymphadenopathy": "PROBLEM"
+    "abdominal exam": "TEST"
   },
   {
     "fever": "PROBLEM"
@@ -231,7 +234,10 @@
     "HIV": "PROBLEM"
   },
   {
-    "acute intestinal illness": "PROBLEM"
+    "infection": "PROBLEM"
+  },
+  {
+    "intestinal illness": "PROBLEM"
   },
   {
     "Blood-borne pathogen exposure": "PROBLEM"
@@ -240,7 +246,19 @@
     "needlestick": "PROBLEM"
   },
   {
-    "gloves": "DRUG"
+    "gloves": "TREATMENT"
+  },
+  {
+    "transmission": "PROBLEM"
+  },
+  {
+    "work": "TEST"
+  },
+  {
+    "disease transmission": "PROBLEM"
+  },
+  {
+    "general medicine": "TEST"
   },
   {
     "pathogen exposure": "PROBLEM"
@@ -258,10 +276,16 @@
     "exposure": "PROBLEM"
   },
   {
+    "full duty work": "TREATMENT"
+  },
+  {
     "nausea": "PROBLEM"
   },
   {
     "needlestick": "PROBLEM"
+  },
+  {
+    "phlebotomist": "TREATMENT"
   },
   {
     "viral illness": "PROBLEM"

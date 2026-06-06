@@ -12,18 +12,6 @@
     "weak": "PROBLEM"
   },
   {
-    "Nausea": "PROBLEM"
-  },
-  {
-    "feeling faint": "PROBLEM"
-  },
-  {
-    "nausea": "PROBLEM"
-  },
-  {
-    "weak": "PROBLEM"
-  },
-  {
     "fever": "PROBLEM"
   },
   {
@@ -93,7 +81,7 @@
     "Wellbutrin SR inhaler": "DRUG"
   },
   {
-    "home O2": "TREATMENT"
+    "O2": "TREATMENT"
   },
   {
     "MORPHINE": "DRUG"
@@ -106,6 +94,9 @@
   },
   {
     "hypertension": "PROBLEM"
+  },
+  {
+    "TETANUS IMMUNIZATION": "TEST"
   },
   {
     "hysterectomy": "TREATMENT"
@@ -136,9 +127,6 @@
   },
   {
     "WBC": "TEST"
-  },
-  {
-    "differential": "TEST"
   },
   {
     "Hemoglobin": "TEST"
@@ -172,9 +160,6 @@
   },
   {
     "urinalysis": "TEST"
-  },
-  {
-    "hemoglobin": "TEST"
   },
   {
     "anemia": "PROBLEM"
@@ -219,7 +204,7 @@
     "heme negative": "TEST"
   },
   {
-    "sinus rhythm": "TEST"
+    "normal sinus rhythm": "PROBLEM"
   },
   {
     "Blood pressure": "TEST"
@@ -247,80 +232,5 @@
   },
   {
     "anemia": "PROBLEM"
-  },
-  {
-    "fever": "PROBLEM"
-  },
-  {
-    "chills": "PROBLEM"
-  },
-  {
-    "sweats": "PROBLEM"
-  },
-  {
-    "ear pain": "PROBLEM"
-  },
-  {
-    "uri symptoms": "PROBLEM"
-  },
-  {
-    "cough": "PROBLEM"
-  },
-  {
-    "dyspnea": "PROBLEM"
-  },
-  {
-    "chest pain": "PROBLEM"
-  },
-  {
-    "vomiting": "PROBLEM"
-  },
-  {
-    "diarrhea": "PROBLEM"
-  },
-  {
-    "abdominal pain": "PROBLEM"
-  },
-  {
-    "melena": "PROBLEM"
-  },
-  {
-    "hematochezia": "PROBLEM"
-  },
-  {
-    "urinary symptoms": "PROBLEM"
-  },
-  {
-    "headache": "PROBLEM"
-  },
-  {
-    "neck pain": "PROBLEM"
-  },
-  {
-    "back pain": "PROBLEM"
-  },
-  {
-    "weakness": "PROBLEM"
-  },
-  {
-    "paresthesias": "PROBLEM"
-  },
-  {
-    "feeling faint": "PROBLEM"
-  },
-  {
-    "saline lock": "TREATMENT"
-  },
-  {
-    "edema": "PROBLEM"
-  },
-  {
-    "hemoglobin": "TEST"
-  },
-  {
-    "nausea": "PROBLEM"
-  },
-  {
-    "wellbutrin": "DRUG"
   }
 ]

@@ -15,9 +15,6 @@
     "sinus congestion": "PROBLEM"
   },
   {
-    "sinus drainage": "PROBLEM"
-  },
-  {
     "mammogram": "TEST"
   },
   {
@@ -48,34 +45,10 @@
     "swelling in her ankles": "PROBLEM"
   },
   {
-    "Wt": "TEST"
-  },
-  {
-    "B/P": "TEST"
-  },
-  {
-    "T": "TEST"
-  },
-  {
-    "P": "TEST"
-  },
-  {
-    "frontal and maxillary sinus tenderness": "PROBLEM"
-  },
-  {
-    "right TM": "TEST"
-  },
-  {
-    "Hypercholesterolemia": "PROBLEM"
-  },
-  {
-    "Diabetes mellitus": "PROBLEM"
-  },
-  {
-    "Sinusitis": "PROBLEM"
-  },
-  {
     "Allegra D": "DRUG"
+  },
+  {
+    "Allegra": "DRUG"
   },
   {
     "A1c": "TEST"
@@ -90,12 +63,27 @@
     "TSH": "TEST"
   },
   {
+    "Partners in Prevention": "TREATMENT"
+  },
+  {
     "colonoscopy": "TEST"
   },
   {
     "stools for occult blood": "TEST"
   },
   {
-    "diabetes": "PROBLEM"
+    "cancer": "PROBLEM"
+  },
+  {
+    "diet": "TREATMENT"
+  },
+  {
+    "exercise": "TREATMENT"
+  },
+  {
+    "weight loss": "TREATMENT"
+  },
+  {
+    "prescriptions": "DRUG"
   }
 ]

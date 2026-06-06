@@ -6,10 +6,16 @@
     "work of breathing": "PROBLEM"
   },
   {
+    "ADMITTING DIAGNOSES": "PROBLEM"
+  },
+  {
     "Respiratory distress": "PROBLEM"
   },
   {
     "Reactive airways disease": "PROBLEM"
+  },
+  {
+    "DISCHARGE DIAGNOSES": "TEST"
   },
   {
     "Respiratory distress": "PROBLEM"
@@ -21,13 +27,13 @@
     "Pneumonia": "PROBLEM"
   },
   {
-    "URI symptoms": "PROBLEM"
-  },
-  {
     "asthma": "PROBLEM"
   },
   {
     "reactive airways disease": "PROBLEM"
+  },
+  {
+    "URI symptoms": "PROBLEM"
   },
   {
     "cough": "PROBLEM"
@@ -39,7 +45,7 @@
     "nebulized treatments": "TREATMENT"
   },
   {
-    "hospitalist": "TREATMENT"
+    "hospitalist system": "TREATMENT"
   },
   {
     "albuterol": "DRUG"
@@ -63,6 +69,9 @@
     "atelectasis": "PROBLEM"
   },
   {
+    "antibiotics": "DRUG"
+  },
+  {
     "fever": "PROBLEM"
   },
   {
@@ -70,9 +79,6 @@
   },
   {
     "CBC": "TEST"
-  },
-  {
-    "white count": "TEST"
   },
   {
     "bands": "TEST"
@@ -87,13 +93,16 @@
     "Zithromax": "DRUG"
   },
   {
-    "bilateral wheezing": "PROBLEM"
+    "continuous": "TREATMENT"
+  },
+  {
+    "wheezing": "PROBLEM"
   },
   {
     "tachypnea": "PROBLEM"
   },
   {
-    "running": "PROBLEM"
+    "distress": "PROBLEM"
   },
   {
     "Oropharynx": "TEST"
@@ -105,25 +114,13 @@
     "thyromegaly": "PROBLEM"
   },
   {
-    "masses": "PROBLEM"
+    "wheezing": "PROBLEM"
   },
   {
-    "Bilateral basilar wheezing": "PROBLEM"
-  },
-  {
-    "rate": "TEST"
-  },
-  {
-    "rhythm": "TEST"
-  },
-  {
-    "murmurs": "PROBLEM"
+    "peripherally": "PROBLEM"
   },
   {
     "Bowel sounds": "TEST"
-  },
-  {
-    "abdomen": "PROBLEM"
   },
   {
     "hepatosplenomegaly": "PROBLEM"
@@ -132,13 +129,22 @@
     "masses": "PROBLEM"
   },
   {
-    "Nontender": "PROBLEM"
+    "Deferred": "TREATMENT"
   },
   {
-    "Activity": "PROBLEM"
+    "EXTREMITIES": "PROBLEM"
   },
   {
-    "Xopenex": "DRUG"
+    "Activity": "TREATMENT"
+  },
+  {
+    "X": "DRUG"
+  },
+  {
+    "DISCHARGE MEDICATIONS": "DRUG"
+  },
+  {
+    "Xopenex MDI": "DRUG"
   },
   {
     "cough": "PROBLEM"
@@ -153,7 +159,13 @@
     "Amoxicillin": "DRUG"
   },
   {
+    "twice daily": "TREATMENT"
+  },
+  {
     "Zithromax": "DRUG"
+  },
+  {
+    "75 mg": "DRUG"
   },
   {
     "pneumonia": "PROBLEM"

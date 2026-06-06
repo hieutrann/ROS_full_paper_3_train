@@ -1,39 +1,24 @@
 [
   {
-    "decrease in mental alertness": "PROBLEM"
-  },
-  {
-    "Mental changes": "PROBLEM"
+    "mental alertness": "PROBLEM"
   },
   {
     "diabetes": "PROBLEM"
   },
   {
-    "GI symptoms": "PROBLEM"
+    "diabetic medication": "DRUG"
   },
   {
-    "sweating": "PROBLEM"
+    "blood pressure medication": "DRUG"
   },
   {
-    "agitation": "PROBLEM"
-  },
-  {
-    "fever": "PROBLEM"
-  },
-  {
-    "chills": "PROBLEM"
-  },
-  {
-    "rash": "PROBLEM"
+    "aspirin": "DRUG"
   },
   {
     "glucose": "TEST"
   },
   {
     "hypertension": "PROBLEM"
-  },
-  {
-    "blood pressure": "TEST"
   },
   {
     "labetalol": "DRUG"
@@ -42,13 +27,7 @@
     "Norvasc": "DRUG"
   },
   {
-    "glucose": "TEST"
-  },
-  {
-    "Diabetes": "PROBLEM"
-  },
-  {
-    "hypertension": "PROBLEM"
+    "glucose supplement": "DRUG"
   },
   {
     "CPK": "TEST"
@@ -58,9 +37,6 @@
   },
   {
     "CMP": "TEST"
-  },
-  {
-    "glucose": "TEST"
   },
   {
     "BMP": "TEST"
@@ -81,16 +57,13 @@
     "specific gravity": "TEST"
   },
   {
-    "CT": "TEST"
-  },
-  {
-    "brain": "TEST"
-  },
-  {
-    "hemorrhage": "PROBLEM"
+    "CT of the brain": "TEST"
   },
   {
     "Chest x-ray": "TEST"
+  },
+  {
+    "hemorrhage": "PROBLEM"
   },
   {
     "cardiomegaly": "PROBLEM"
@@ -102,6 +75,18 @@
     "Hypoglycemia": "PROBLEM"
   },
   {
+    "meals": "TREATMENT"
+  },
+  {
+    "IV fluid": "TREATMENT"
+  },
+  {
+    "glucometer checks": "TREATMENT"
+  },
+  {
+    "blood pressure": "PROBLEM"
+  },
+  {
     "renal insufficiency": "PROBLEM"
   },
   {
@@ -111,39 +96,33 @@
     "diabetic nephropathy": "PROBLEM"
   },
   {
-    "IV fluid": "TREATMENT"
+    "medical ward": "TREATMENT"
   },
   {
-    "glucometer checks": "TEST"
+    "mental changes": "PROBLEM"
   },
   {
-    "blood pressure medication": "DRUG"
+    "GI symptoms": "PROBLEM"
   },
   {
-    "diabetic medication": "DRUG"
+    "sweating": "PROBLEM"
   },
   {
-    "mental alertness": "PROBLEM"
+    "agitation": "PROBLEM"
   },
   {
-    "blood pressure": "TEST"
+    "fever": "PROBLEM"
   },
   {
-    "diabetic": "PROBLEM"
+    "chills": "PROBLEM"
   },
   {
-    "glucose": "TEST"
+    "rash": "PROBLEM"
   },
   {
-    "blood": "TEST"
+    "glucose in 30 range": "TEST"
   },
   {
-    "pressure": "TEST"
-  },
-  {
-    "medication": "DRUG"
-  },
-  {
-    "alertness": "PROBLEM"
+    "glucose in the 175 range": "TEST"
   }
 ]

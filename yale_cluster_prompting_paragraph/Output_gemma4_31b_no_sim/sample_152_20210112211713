@@ -60,7 +60,7 @@
     "dilatation and curettage (D&C)": "TREATMENT"
   },
   {
-    "Hysteroscopy": "TREATMENT"
+    "Hysteroscopy": "TEST"
   },
   {
     "large endometrial cavity fibroid": "PROBLEM"
@@ -79,29 +79,5 @@
   },
   {
     "ferrous sulfate tablets": "DRUG"
-  },
-  {
-    "(d&c)": "TREATMENT"
-  },
-  {
-    "fibroid uterus": "PROBLEM"
-  },
-  {
-    "myomectomy": "TREATMENT"
-  },
-  {
-    "dilatation": "TREATMENT"
-  },
-  {
-    "curettage": "TREATMENT"
-  },
-  {
-    "menometrorrhagia": "PROBLEM"
-  },
-  {
-    "hysteroscopy": "TREATMENT"
-  },
-  {
-    "fibroid": "PROBLEM"
   }
 ]

@@ -15,7 +15,7 @@
     "atopic dermatitis": "PROBLEM"
   },
   {
-    "left otalgia": "PROBLEM"
+    "otalgia": "PROBLEM"
   },
   {
     "headache": "PROBLEM"
@@ -87,25 +87,16 @@
     "PERRLA": "TEST"
   },
   {
-    "Conjunctivae": "TEST"
-  },
-  {
     "effusion": "PROBLEM"
   },
   {
     "Right TM": "TEST"
   },
   {
-    "External auricles": "TEST"
-  },
-  {
-    "Nasal mucosa": "TEST"
-  },
-  {
     "discharge": "PROBLEM"
   },
   {
-    "Throat": "TEST"
+    "Nonerythematous": "PROBLEM"
   },
   {
     "tonsillar hypertrophy": "PROBLEM"
@@ -118,9 +109,6 @@
   },
   {
     "thyromegaly": "PROBLEM"
-  },
-  {
-    "Lungs": "TEST"
   },
   {
     "Respirations": "TEST"
@@ -141,7 +129,7 @@
     "Duraphen II": "DRUG"
   },
   {
-    "Cutivate cream": "DRUG"
+    "Cutivate cream 0.05%": "DRUG"
   },
   {
     "left otalgia": "PROBLEM"

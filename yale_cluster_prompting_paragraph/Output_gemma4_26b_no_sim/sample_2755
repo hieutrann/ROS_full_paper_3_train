@@ -1,12 +1,9 @@
 [
   {
-    "Itchy Rash": "PROBLEM"
+    "itchy rash": "PROBLEM"
   },
   {
     "itchiness": "PROBLEM"
-  },
-  {
-    "itchy rash": "PROBLEM"
   },
   {
     "facial swelling": "PROBLEM"
@@ -33,19 +30,10 @@
     "lip or tongue swelling": "PROBLEM"
   },
   {
-    "wheezing": "PROBLEM"
-  },
-  {
-    "shortness of breath": "PROBLEM"
-  },
-  {
     "headache": "PROBLEM"
   },
   {
     "nausea": "PROBLEM"
-  },
-  {
-    "itchy rash": "PROBLEM"
   },
   {
     "TORADOL": "DRUG"
@@ -60,16 +48,22 @@
     "AMPICILLIN": "DRUG"
   },
   {
-    "VITAL SIGNS": "TEST"
-  },
-  {
     "tachycardic": "PROBLEM"
   },
   {
     "stridor": "PROBLEM"
   },
   {
+    "breath sounds": "TEST"
+  },
+  {
     "wheezing": "PROBLEM"
+  },
+  {
+    "murmur": "PROBLEM"
+  },
+  {
+    "tachycardia": "PROBLEM"
   },
   {
     "erythematous, blanching rash": "PROBLEM"
@@ -99,21 +93,6 @@
     "antihistamine": "DRUG"
   },
   {
-    "Benadryl": "DRUG"
-  },
-  {
-    "epinephrine": "DRUG"
-  },
-  {
-    "shortness of breath": "PROBLEM"
-  },
-  {
-    "wheezing": "PROBLEM"
-  },
-  {
-    "tongue or lip swelling": "PROBLEM"
-  },
-  {
     "urticaria": "PROBLEM"
   },
   {
@@ -130,9 +109,6 @@
   },
   {
     "swelling": "PROBLEM"
-  },
-  {
-    "itchy": "PROBLEM"
   },
   {
     "rash": "PROBLEM"

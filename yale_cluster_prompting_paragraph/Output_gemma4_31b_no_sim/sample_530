@@ -21,7 +21,7 @@
     "right neck and shoulder stiffness and pain": "PROBLEM"
   },
   {
-    "numbness in the first and second fingers of her right hand": "PROBLEM"
+    "numbness": "PROBLEM"
   },
   {
     "RUE pain": "PROBLEM"
@@ -30,13 +30,10 @@
     "throbbing pain": "PROBLEM"
   },
   {
-    "numbness in both lower extremities": "PROBLEM"
+    "numbness": "PROBLEM"
   },
   {
     "pain in the coccygeal region": "PROBLEM"
-  },
-  {
-    "electric shock like sensation shooting down her spine": "PROBLEM"
   },
   {
     "Lhermitte's phenomena": "PROBLEM"
@@ -54,7 +51,19 @@
     "Macrodantin": "DRUG"
   },
   {
+    "Vital signs": "TEST"
+  },
+  {
+    "Reflexes": "TEST"
+  },
+  {
     "absent right ankle reflex": "PROBLEM"
+  },
+  {
+    "Plantar responses": "TEST"
+  },
+  {
+    "Rectal exam": "TEST"
   },
   {
     "C-spine lesion": "PROBLEM"
@@ -75,10 +84,7 @@
     "NCV": "TEST"
   },
   {
-    "sharps and fibrillations in the right biceps (C5-6), brachioradialis (C5-6), triceps (C7-8) and teres major": "PROBLEM"
-  },
-  {
-    "sharps and fibrillations in the right pronator terres": "PROBLEM"
+    "sharps and fibrillations": "PROBLEM"
   },
   {
     "increased insertional activity": "PROBLEM"

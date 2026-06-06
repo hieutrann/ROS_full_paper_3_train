@@ -1,0 +1,80 @@
+[
+  {
+    "Asthma": "PROBLEM"
+  },
+  {
+    "Allergic Rhinitis": "PROBLEM"
+  },
+  {
+    "Cervical Dysplasia": "PROBLEM"
+  },
+  {
+    "Premenstrual Dysphoric Disorder": "PROBLEM"
+  },
+  {
+    "Urinary Tract Infection": "PROBLEM"
+  },
+  {
+    "Vaginal Irritation": "PROBLEM"
+  },
+  {
+    "Hot Flashes": "PROBLEM"
+  },
+  {
+    "Night Sweats": "PROBLEM"
+  },
+  {
+    "Shortness of Breath": "PROBLEM"
+  },
+  {
+    "Headaches": "PROBLEM"
+  },
+  {
+    "PMS": "PROBLEM"
+  },
+  {
+    "Menstrual Cycle": "PROBLEM"
+  },
+  {
+    "Proventil": "DRUG"
+  },
+  {
+    "Allegra": "DRUG"
+  },
+  {
+    "Flonase": "DRUG"
+  },
+  {
+    "Flovent": "DRUG"
+  },
+  {
+    "Singulair": "DRUG"
+  },
+  {
+    "Fluoxetine": "DRUG"
+  },
+  {
+    "Proventil Inhaler": "TREATMENT"
+  },
+  {
+    "Flovent 44 mcg": "TREATMENT"
+  },
+  {
+    "Pap Smear": "TEST"
+  },
+  {
+    "UA": "TEST"
+  },
+  {
+    "Screening Mammogram": "TEST"
+  },
+  {
+    "Self-Breast Exam": "TEST"
+  },
+  {
+    "Calcium": "TREATMENT"
+  },
+  {
+    "Vitamin D": "TREATMENT"
+  }
+]

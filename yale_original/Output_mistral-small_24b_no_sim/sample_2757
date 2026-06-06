@@ -1,6 +1,6 @@
 [
   {
-    "General Medicine": "PROBLEM"
+    "Ant Bait": "PROBLEM"
   },
   {
     "vomiting": "PROBLEM"
@@ -24,10 +24,7 @@
     "vomiting": "PROBLEM"
   },
   {
-    "symptoms": "PROBLEM"
-  },
-  {
-    "afebrile": "TEST"
+    "VITAL SIGNS": "TEST"
   },
   {
     "vital signs": "TEST"
@@ -36,7 +33,22 @@
     "pulse oximetry": "TEST"
   },
   {
+    "active": "PROBLEM"
+  },
+  {
+    "cheerful": "PROBLEM"
+  },
+  {
+    "Oral mucosa": "TEST"
+  },
+  {
+    "Poison Control": "TEST"
+  },
+  {
     "ant bait": "DRUG"
+  },
+  {
+    "amount": "TEST"
   },
   {
     "vomiting": "PROBLEM"
@@ -48,6 +60,12 @@
     "vomiting": "PROBLEM"
   },
   {
+    "ant bait": "DRUG"
+  },
+  {
     "exposure": "PROBLEM"
+  },
+  {
+    "symptoms": "PROBLEM"
   }
 ]

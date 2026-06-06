@@ -1,6 +1,9 @@
 [
   {
-    "MRI C-spine": "TEST"
+    "MRI C-Spine": "TEST"
+  },
+  {
+    "C5-6 Disk Herniation": "PROBLEM"
   },
   {
     "right shoulder pain": "PROBLEM"
@@ -12,7 +15,10 @@
     "Right shoulder pain": "PROBLEM"
   },
   {
-    "right neck and shoulder stiffness and pain": "PROBLEM"
+    "right neck and shoulder stiffness": "PROBLEM"
+  },
+  {
+    "right neck and shoulder pain": "PROBLEM"
   },
   {
     "numbness": "PROBLEM"
@@ -33,13 +39,10 @@
     "pains": "PROBLEM"
   },
   {
-    "sleep": "PROBLEM"
-  },
-  {
     "visual change": "PROBLEM"
   },
   {
-    "bowel": "PROBLEM"
+    "bowel difficulties": "PROBLEM"
   },
   {
     "bladder difficulties": "PROBLEM"
@@ -48,10 +51,10 @@
     "symptoms involving the LUE": "PROBLEM"
   },
   {
-    "electric shock like sensation": "PROBLEM"
+    "Lhermitte's phenomena": "PROBLEM"
   },
   {
-    "Lhermitte's phenomena": "PROBLEM"
+    "neck/back/head trauma": "PROBLEM"
   },
   {
     "Naprosyn": "DRUG"
@@ -69,16 +72,31 @@
     "Vital signs": "TEST"
   },
   {
+    "Motor": "PROBLEM"
+  },
+  {
+    "Normal tone and muscle bulk": "TEST"
+  },
+  {
+    "Sensory": "TEST"
+  },
+  {
+    "deficits": "PROBLEM"
+  },
+  {
     "LT/PP/VIB/TEMP/PROP testing": "TEST"
   },
   {
-    "BUE": "TEST"
+    "Unremarkable": "PROBLEM"
   },
   {
-    "1+/1+BLE": "TEST"
+    "Reflexes": "TEST"
   },
   {
-    "flexor": "PROBLEM"
+    "Deep tendon reflexes": "TEST"
+  },
+  {
+    "Plantar responses": "TEST"
   },
   {
     "Rectal exam": "TEST"
@@ -87,19 +105,19 @@
     "C-spine lesion": "PROBLEM"
   },
   {
-    "MRI": "TEST"
+    "MRI C-spine": "TEST"
   },
   {
-    "C-spine": "TEST"
+    "central C5-6 disk herniation": "PROBLEM"
   },
   {
-    "disk herniation": "PROBLEM"
-  },
-  {
-    "spinal cord": "PROBLEM"
+    "compression of the spinal cord": "PROBLEM"
   },
   {
     "EMG/NCV": "TEST"
+  },
+  {
+    "NCV": "TEST"
   },
   {
     "sharps": "PROBLEM"
@@ -108,31 +126,13 @@
     "fibrillations": "PROBLEM"
   },
   {
-    "right biceps": "PROBLEM"
+    "sharps": "PROBLEM"
   },
   {
-    "C5-6": "PROBLEM"
+    "fibrillations": "PROBLEM"
   },
   {
-    "brachioradialis": "PROBLEM"
-  },
-  {
-    "C5-6": "PROBLEM"
-  },
-  {
-    "triceps": "PROBLEM"
-  },
-  {
-    "C7-8": "PROBLEM"
-  },
-  {
-    "teres major": "PROBLEM"
-  },
-  {
-    "right pronator terres": "PROBLEM"
-  },
-  {
-    "increased insertional activity": "PROBLEM"
+    "increased insertional activity": "TEST"
   },
   {
     "C6-7 radiculopathy": "PROBLEM"
@@ -142,9 +142,6 @@
   },
   {
     "symptoms": "PROBLEM"
-  },
-  {
-    "radiology": "TEST"
   },
   {
     "shoulder pain": "PROBLEM"

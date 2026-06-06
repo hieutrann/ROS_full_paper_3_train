@@ -12,6 +12,9 @@
     "altered mental status": "PROBLEM"
   },
   {
+    "poorly": "PROBLEM"
+  },
+  {
     "confused": "PROBLEM"
   },
   {
@@ -24,7 +27,16 @@
     "aphasia": "PROBLEM"
   },
   {
+    "unresponsive": "PROBLEM"
+  },
+  {
     "blood sugar": "TEST"
+  },
+  {
+    "40": "TEST"
+  },
+  {
+    "p.o.": "DRUG"
   },
   {
     "D50": "DRUG"
@@ -39,13 +51,22 @@
     "garbled speech": "PROBLEM"
   },
   {
+    "somnolent": "PROBLEM"
+  },
+  {
+    "awake": "PROBLEM"
+  },
+  {
+    "alert": "PROBLEM"
+  },
+  {
     "UTIs": "PROBLEM"
   },
   {
     "urinary tract infection": "PROBLEM"
   },
   {
-    "chronic incontinence": "PROBLEM"
+    "incontinence": "PROBLEM"
   },
   {
     "bladder atony": "PROBLEM"
@@ -54,7 +75,7 @@
     "Foley catheter": "TREATMENT"
   },
   {
-    "right - sided CVA": "PROBLEM"
+    "CVA": "PROBLEM"
   },
   {
     "atrial fibrillation": "PROBLEM"
@@ -69,10 +90,10 @@
     "neuropathy": "PROBLEM"
   },
   {
-    "pain": "PROBLEM"
+    "stroke": "PROBLEM"
   },
   {
-    "stroke": "PROBLEM"
+    "pain": "PROBLEM"
   },
   {
     "hypothyroidism": "PROBLEM"
@@ -132,9 +153,6 @@
     "urinary tract infection": "PROBLEM"
   },
   {
-    "bed - bound status": "PROBLEM"
-  },
-  {
     "Percocet": "DRUG"
   },
   {
@@ -147,6 +165,9 @@
     "Humulin N": "DRUG"
   },
   {
+    "24 units": "DRUG"
+  },
+  {
     "MiraLax": "DRUG"
   },
   {
@@ -156,10 +177,10 @@
     "Flexeril": "DRUG"
   },
   {
-    "Synthroid": "DRUG"
+    "Synthroid 125 mcg daily": "DRUG"
   },
   {
-    "Coumadin": "DRUG"
+    "Coumadin 5 mg": "DRUG"
   },
   {
     "ibuprofen": "DRUG"
@@ -174,10 +195,16 @@
     "Reglan": "DRUG"
   },
   {
-    "Nystatin": "DRUG"
+    "Nystatin powder": "DRUG"
   },
   {
     "oxygen": "DRUG"
+  },
+  {
+    "alcohol": "PROBLEM"
+  },
+  {
+    "alert": "PROBLEM"
   },
   {
     "Blood pressure": "TEST"
@@ -187,6 +214,12 @@
   },
   {
     "temperature": "TEST"
+  },
+  {
+    "Weight": "TEST"
+  },
+  {
+    "Urine output": "TEST"
   },
   {
     "Blood sugars": "TEST"
@@ -201,25 +234,22 @@
     "rash": "PROBLEM"
   },
   {
-    "HEART": "PROBLEM"
-  },
-  {
-    "pacemaker": "PROBLEM"
+    "pacemaker": "TREATMENT"
   },
   {
     "CHEST": "PROBLEM"
   },
   {
-    "Soft": "PROBLEM"
-  },
-  {
     "obese": "PROBLEM"
   },
   {
-    "nontender": "PROBLEM"
+    "edema": "PROBLEM"
   },
   {
-    "edema": "PROBLEM"
+    "left side": "PROBLEM"
+  },
+  {
+    "right side": "PROBLEM"
   },
   {
     "aphasia": "PROBLEM"
@@ -252,7 +282,13 @@
     "Urine": "TEST"
   },
   {
+    "Cultures": "TEST"
+  },
+  {
     "culture": "TEST"
+  },
+  {
+    "guaiac": "TEST"
   },
   {
     "Septra": "DRUG"
@@ -264,7 +300,7 @@
     "Cerebrovascular accident": "PROBLEM"
   },
   {
-    "change in mental status": "PROBLEM"
+    "mental status": "PROBLEM"
   },
   {
     "speech": "PROBLEM"
@@ -276,7 +312,10 @@
     "Coumadin": "DRUG"
   },
   {
-    "quality of life": "PROBLEM"
+    "hospice": "TREATMENT"
+  },
+  {
+    "comfort care": "TREATMENT"
   },
   {
     "urinary tract infection": "PROBLEM"
@@ -327,7 +366,7 @@
     "cerebrovascular accident": "PROBLEM"
   },
   {
-    "urinary tract infection": "PROBLEM"
+    "recurrent urinary tract infection": "PROBLEM"
   },
   {
     "diabetes": "PROBLEM"
@@ -351,13 +390,13 @@
     "level of consciousness": "PROBLEM"
   },
   {
-    "urinary tract": "PROBLEM"
+    "urinary tract infection": "PROBLEM"
   },
   {
-    "decreased": "PROBLEM"
+    "decreased level": "PROBLEM"
   },
   {
-    "confused": "PROBLEM"
+    "blood sugar": "TEST"
   },
   {
     "garbled speech": "PROBLEM"
@@ -366,7 +405,16 @@
     "mental status": "PROBLEM"
   },
   {
-    "blood sugar": "PROBLEM"
+    "urinary tract": "PROBLEM"
+  },
+  {
+    "emergency department": "TEST"
+  },
+  {
+    "decreased": "PROBLEM"
+  },
+  {
+    "confused": "PROBLEM"
   },
   {
     "coumadin": "DRUG"
@@ -375,10 +423,10 @@
     "blood": "TEST"
   },
   {
-    "cultures": "TEST"
+    "emergency": "TEST"
   },
   {
-    "emergency department": "TEST"
+    "cultures": "TEST"
   },
   {
     "intake": "TEST"

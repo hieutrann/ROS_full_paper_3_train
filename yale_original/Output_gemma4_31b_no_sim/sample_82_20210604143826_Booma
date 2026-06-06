@@ -66,7 +66,7 @@
     "normal sinus rhythm": "PROBLEM"
   },
   {
-    "frequent APCs": "PROBLEM"
+    "APCs": "PROBLEM"
   },
   {
     "potassium": "TEST"
@@ -84,10 +84,7 @@
     "shortness of breath": "PROBLEM"
   },
   {
-    "severe tricuspid regurgitation": "PROBLEM"
-  },
-  {
-    "mild elevation": "PROBLEM"
+    "tricuspid regurgitation": "PROBLEM"
   },
   {
     "PA pressure": "TEST"
@@ -99,7 +96,7 @@
     "aortic sclerosis": "PROBLEM"
   },
   {
-    "mild aortic stenosis": "PROBLEM"
+    "aortic stenosis": "PROBLEM"
   },
   {
     "bi-atrial enlargement": "PROBLEM"
@@ -246,9 +243,6 @@
     "depressed": "PROBLEM"
   },
   {
-    "rheumatologic conditions": "PROBLEM"
-  },
-  {
     "psoriasis": "PROBLEM"
   },
   {
@@ -294,10 +288,10 @@
     "Cardiac Exam": "TEST"
   },
   {
-    "frequent ectopic beats": "PROBLEM"
+    "ectopic beats": "PROBLEM"
   },
   {
-    "2/6 systolic ejection murmur": "PROBLEM"
+    "systolic ejection murmur": "PROBLEM"
   },
   {
     "soft holosystolic murmur": "PROBLEM"
@@ -322,9 +316,6 @@
   },
   {
     "peripheral edema": "PROBLEM"
-  },
-  {
-    "Pulses": "TEST"
   },
   {
     "left hip fracture": "PROBLEM"
@@ -408,7 +399,7 @@
     "normal sinus rhythm": "PROBLEM"
   },
   {
-    "frequent APCs": "PROBLEM"
+    "APCs": "PROBLEM"
   },
   {
     "hypertension": "PROBLEM"
@@ -477,7 +468,7 @@
     "heart rate": "TEST"
   },
   {
-    "electrolytes": "TEST"
+    "electrolytes": "DRUG"
   },
   {
     "beta-blockers": "DRUG"
@@ -507,7 +498,7 @@
     "cardiac evaluation": "TEST"
   },
   {
-    "mild thrombocytopenia": "PROBLEM"
+    "thrombocytopenia": "PROBLEM"
   },
   {
     "proton pump inhibitors": "DRUG"

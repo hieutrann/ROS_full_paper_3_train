@@ -27,25 +27,10 @@
     "CBC": "TEST"
   },
   {
-    "white count": "TEST"
-  },
-  {
-    "hemoglobin": "TEST"
-  },
-  {
-    "hematocrit": "TEST"
-  },
-  {
-    "platelets": "TEST"
-  },
-  {
     "BMP": "TEST"
   },
   {
     "x-ray": "TEST"
-  },
-  {
-    "infiltrate": "TEST"
   },
   {
     "influenza swab": "TEST"
@@ -61,17 +46,5 @@
   },
   {
     "Zithromax": "DRUG"
-  },
-  {
-    "coughing": "PROBLEM"
-  },
-  {
-    "emesis": "PROBLEM"
-  },
-  {
-    "cyanosis": "PROBLEM"
-  },
-  {
-    "apnea": "PROBLEM"
   }
 ]

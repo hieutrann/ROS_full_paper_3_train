@@ -3,25 +3,34 @@
     "peritoneal carcinomatosis": "PROBLEM"
   },
   {
-    "appendiceal primary": "PROBLEM"
+    "appendiceal": "PROBLEM"
   },
   {
     "Peritoneal carcinomatosis": "PROBLEM"
   },
   {
-    "appendiceal primary": "PROBLEM"
+    "appendiceal": "PROBLEM"
   },
   {
     "Peritoneal carcinomatosis": "PROBLEM"
   },
   {
-    "appendiceal primary": "PROBLEM"
+    "appendiceal": "PROBLEM"
   },
   {
     "Diarrhea": "PROBLEM"
   },
   {
-    "General surgery": "PROBLEM"
+    "General surgery": "TREATMENT"
+  },
+  {
+    "Surgery Oncology": "TREATMENT"
+  },
+  {
+    "Urology": "TEST"
+  },
+  {
+    "PROCEDURES": "TREATMENT"
   },
   {
     "Cystoscopy": "TEST"
@@ -30,10 +39,7 @@
     "bilaterally retrograde pyelograms": "TEST"
   },
   {
-    "insertion": "TREATMENT"
-  },
-  {
-    "bilateral externalized ureteral stents": "TREATMENT"
+    "insertion of bilateral externalized ureteral stents": "TREATMENT"
   },
   {
     "Exploratory laparotomy": "TREATMENT"
@@ -60,16 +66,7 @@
     "peritoneal carcinomatosis": "PROBLEM"
   },
   {
-    "appendiceal primary": "PROBLEM"
-  },
-  {
-    "General Surgery": "PROBLEM"
-  },
-  {
-    "preoperative evaluation": "TEST"
-  },
-  {
-    "baseline labs": "TEST"
+    "appendiceal": "PROBLEM"
   },
   {
     "bowel prep": "TREATMENT"
@@ -84,7 +81,7 @@
     "cystoscopy": "TEST"
   },
   {
-    "bilateral ureteral stent placement": "TREATMENT"
+    "ureteral stent placement": "TREATMENT"
   },
   {
     "exploratory laparotomy": "TREATMENT"
@@ -111,7 +108,7 @@
     "tachycardia": "PROBLEM"
   },
   {
-    "ICU": "TEST"
+    "extubation": "TREATMENT"
   },
   {
     "flatus": "PROBLEM"
@@ -129,10 +126,13 @@
     "PCA pump": "TREATMENT"
   },
   {
-    "pain": "PROBLEM"
+    "p.o.": "DRUG"
   },
   {
-    "out of bed": "TREATMENT"
+    "pain medicines": "DRUG"
+  },
+  {
+    "pain": "PROBLEM"
   },
   {
     "diarrhea": "PROBLEM"
@@ -144,10 +144,10 @@
     "C. diff toxin": "TEST"
   },
   {
-    "diarrhea": "PROBLEM"
+    "Imodium": "DRUG"
   },
   {
-    "Imodium": "DRUG"
+    "diarrhea": "PROBLEM"
   },
   {
     "pneumococcal": "DRUG"
@@ -159,22 +159,13 @@
     "meningococcal": "DRUG"
   },
   {
-    "vaccines": "DRUG"
-  },
-  {
-    "splenectomy": "TREATMENT"
+    "bed": "TREATMENT"
   },
   {
     "afebrile": "PROBLEM"
   },
   {
-    "vital signs": "TEST"
-  },
-  {
     "abdomen": "PROBLEM"
-  },
-  {
-    "bowel sounds": "PROBLEM"
   },
   {
     "midline incision": "PROBLEM"
@@ -183,7 +174,7 @@
     "staples": "TREATMENT"
   },
   {
-    "postop": "PROBLEM"
+    "DISCHARGE MEDICATIONS": "DRUG"
   },
   {
     "Multivitamins": "DRUG"
@@ -192,7 +183,7 @@
     "Lovenox": "DRUG"
   },
   {
-    "Vicodin": "DRUG"
+    "Vicodin 5/500 mg": "DRUG"
   },
   {
     "Phenergan": "DRUG"
@@ -201,7 +192,7 @@
     "nausea": "PROBLEM"
   },
   {
-    "Imodium A-D": "DRUG"
+    "Imodium A-D tablets": "DRUG"
   },
   {
     "diarrhea": "PROBLEM"
@@ -231,7 +222,10 @@
     "warmth": "PROBLEM"
   },
   {
-    "incision": "TREATMENT"
+    "incision site": "PROBLEM"
+  },
+  {
+    "staples": "TREATMENT"
   },
   {
     "carcinomatosis": "PROBLEM"
@@ -258,9 +252,6 @@
     "splenectomy": "TREATMENT"
   },
   {
-    "carcinomatosis": "PROBLEM"
-  },
-  {
-    "oncology": "PROBLEM"
+    "oncology": "TREATMENT"
   }
 ]

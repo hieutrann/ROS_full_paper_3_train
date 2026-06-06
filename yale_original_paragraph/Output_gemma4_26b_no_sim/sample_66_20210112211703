@@ -1,5 +1,62 @@
 [
   {
+    "antibiotic therapy": "TREATMENT"
+  },
+  {
+    "lower extremity cellulitis": "PROBLEM"
+  },
+  {
+    "morbid obesity": "PROBLEM"
+  },
+  {
+    "chronic lower extremity lymphedema": "PROBLEM"
+  },
+  {
+    "lower extremity edema": "PROBLEM"
+  },
+  {
+    "cellulitis": "PROBLEM"
+  },
+  {
+    "Bactrim": "DRUG"
+  },
+  {
+    "ciprofloxacin": "DRUG"
+  },
+  {
+    "stage II ulcer": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "lymphedema wraps": "TREATMENT"
+  },
+  {
+    "spastic colon": "PROBLEM"
+  },
+  {
+    "knee arthritis": "PROBLEM"
+  },
+  {
+    "hysterectomy": "TREATMENT"
+  },
+  {
+    "cholecystectomy": "TREATMENT"
+  },
+  {
+    "leukemia": "PROBLEM"
+  },
+  {
+    "ADHESIVE TAPE ALLERGIES": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
     "diarrhea": "PROBLEM"
   },
   {
@@ -9,16 +66,16 @@
     "tenderness": "PROBLEM"
   },
   {
+    "warmth": "PROBLEM"
+  },
+  {
     "chest pain": "PROBLEM"
   },
   {
     "cough": "PROBLEM"
   },
   {
-    "pulse": "TEST"
-  },
-  {
-    "blood pressure": "TEST"
+    "phlegm production": "PROBLEM"
   },
   {
     "lymphadenopathy": "PROBLEM"
@@ -33,7 +90,19 @@
     "stasis dermatosis": "PROBLEM"
   },
   {
+    "skin breakdown": "PROBLEM"
+  },
+  {
     "wound infection": "PROBLEM"
+  },
+  {
+    "cyanosis": "PROBLEM"
+  },
+  {
+    "clubbing": "PROBLEM"
+  },
+  {
+    "endocarditis": "PROBLEM"
   },
   {
     "White cell count": "TEST"
@@ -48,7 +117,25 @@
     "platelet count": "TEST"
   },
   {
+    "differential": "TEST"
+  },
+  {
+    "neutrophils": "TEST"
+  },
+  {
+    "lymphocytes": "TEST"
+  },
+  {
+    "monocytes": "TEST"
+  },
+  {
+    "eosinophils": "TEST"
+  },
+  {
     "electrolyte panel": "TEST"
+  },
+  {
+    "renal function": "TEST"
   },
   {
     "BUN": "TEST"
@@ -60,10 +147,13 @@
     "Liver function tests": "TEST"
   },
   {
-    "MRSA": "PROBLEM"
+    "nasal screen for MRSA": "TEST"
   },
   {
     "Urine culture": "TEST"
+  },
+  {
+    "Urinalysis": "TEST"
   },
   {
     "pyuria": "PROBLEM"
@@ -73,8 +163,5 @@
   },
   {
     "nitrites": "PROBLEM"
-  },
-  {
-    "lymphedema wraps": "TREATMENT"
   }
 ]

@@ -6,9 +6,6 @@
     "chest pain": "PROBLEM"
   },
   {
-    "chest pain": "PROBLEM"
-  },
-  {
     "treadmill": "TEST"
   },
   {
@@ -36,9 +33,6 @@
     "Aciphex": "DRUG"
   },
   {
-    "Aciphex": "DRUG"
-  },
-  {
     "reflux belching": "PROBLEM"
   },
   {
@@ -51,9 +45,6 @@
     "right flank pain": "PROBLEM"
   },
   {
-    "dull achy pain": "PROBLEM"
-  },
-  {
     "spots on her shoulder": "PROBLEM"
   },
   {
@@ -64,6 +55,9 @@
   },
   {
     "leaking": "PROBLEM"
+  },
+  {
+    "pad": "TREATMENT"
   },
   {
     "colonoscopy": "TEST"
@@ -91,6 +85,9 @@
   },
   {
     "hearing loss": "PROBLEM"
+  },
+  {
+    "swallowing": "PROBLEM"
   },
   {
     "shortness of breath": "PROBLEM"
@@ -144,6 +141,9 @@
     "aspirin": "DRUG"
   },
   {
+    "Weight": "TEST"
+  },
+  {
     "Blood pressure": "TEST"
   },
   {
@@ -159,10 +159,10 @@
     "tenderness at the base of her thumbs": "PROBLEM"
   },
   {
-    "PIP joint": "TEST"
+    "PIP joint": "PROBLEM"
   },
   {
-    "DIP joint": "TEST"
+    "DIP joint": "PROBLEM"
   },
   {
     "tinea versicolor rash": "PROBLEM"
@@ -175,9 +175,6 @@
   },
   {
     "edema": "PROBLEM"
-  },
-  {
-    "gait": "TEST"
   },
   {
     "Chest pain": "PROBLEM"
@@ -198,7 +195,7 @@
     "Suspicious lesions on the left shoulder": "PROBLEM"
   },
   {
-    "punch biopsy": "TREATMENT"
+    "punch biopsy": "TEST"
   },
   {
     "Tinea versicolor": "PROBLEM"
@@ -208,6 +205,9 @@
   },
   {
     "Cystocele": "PROBLEM"
+  },
+  {
+    "repair": "TREATMENT"
   },
   {
     "urinary incontinence": "PROBLEM"
@@ -222,6 +222,9 @@
     "Pain in the thumbs": "PROBLEM"
   },
   {
+    "arthritic": "PROBLEM"
+  },
+  {
     "colon cancer screening": "TEST"
   },
   {
@@ -229,5 +232,32 @@
   },
   {
     "Aciphex": "DRUG"
+  },
+  {
+    "cystocele": "PROBLEM"
+  },
+  {
+    "gastroesophageal reflux disease": "PROBLEM"
+  },
+  {
+    "stomach pain": "PROBLEM"
+  },
+  {
+    "tinea versicolor": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "leukopenia": "PROBLEM"
+  },
+  {
+    "multiple problems": "PROBLEM"
+  },
+  {
+    "reflux": "PROBLEM"
+  },
+  {
+    "aciphex": "DRUG"
   }
 ]

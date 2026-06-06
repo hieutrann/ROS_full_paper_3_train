@@ -1,45 +1,30 @@
 [
   {
-    "1812 g": "TEST"
+    "vaginal delivery": "TREATMENT"
   },
   {
-    "34 weeks of gestation": "TEST"
+    "C-sections": "PROBLEM"
   },
   {
     "vaginal delivery": "TREATMENT"
   },
   {
-    "gravida 3": "TEST"
+    "barren": "PROBLEM"
   },
   {
-    "para 2": "TEST"
+    "preterm birth": "PROBLEM"
   },
   {
-    "C-sections": "TREATMENT"
+    "C-sections": "PROBLEM"
   },
   {
-    "1812 g": "TEST"
-  },
-  {
-    "34 weeks of gestation": "TEST"
-  },
-  {
-    "vaginal delivery": "TREATMENT"
-  },
-  {
-    "gravida 3": "TEST"
-  },
-  {
-    "para 2": "TEST"
-  },
-  {
-    "C-sections": "TREATMENT"
-  },
-  {
-    "born at 5:57": "TEST"
+    "Baby": "PROBLEM"
   },
   {
     "ampicillin": "DRUG"
+  },
+  {
+    "preterm contractions": "PROBLEM"
   },
   {
     "terbutaline": "DRUG"
@@ -51,13 +36,13 @@
     "Apgar scores": "TEST"
   },
   {
-    "Fluid": "PROBLEM"
+    "Fluid was cleared": "TREATMENT"
   },
   {
-    "nuchal cord": "PROBLEM"
+    "Nuchal cord": "PROBLEM"
   },
   {
-    "prenatal": "TREATMENT"
+    "ABC Valley": "PROBLEM"
   },
   {
     "O positive": "TEST"
@@ -72,7 +57,7 @@
     "RPR nonreactive": "TEST"
   },
   {
-    "perineum": "PROBLEM"
+    "suctioned": "TREATMENT"
   },
   {
     "prematurity": "PROBLEM"
@@ -102,9 +87,6 @@
     "gentamicin": "DRUG"
   },
   {
-    "room air": "TREATMENT"
-  },
-  {
     "feeding issues": "PROBLEM"
   },
   {
@@ -120,19 +102,16 @@
     "gentamicin": "DRUG"
   },
   {
-    "blood cultures": "TEST"
-  },
-  {
-    "negative": "PROBLEM"
-  },
-  {
     "feeding issues": "PROBLEM"
   },
   {
-    "OG tube": "TREATMENT"
+    "suck properly": "PROBLEM"
   },
   {
-    "NICU": "TREATMENT"
+    "NICU": "PROBLEM"
+  },
+  {
+    "OG tube": "TREATMENT"
   },
   {
     "p.o.": "TREATMENT"
@@ -141,7 +120,7 @@
     "feeds": "TREATMENT"
   },
   {
-    "tolerating feeds": "PROBLEM"
+    "suck properly": "PROBLEM"
   },
   {
     "EBM 22": "DRUG"
@@ -150,25 +129,10 @@
     "NeoSure": "DRUG"
   },
   {
-    "stable": "PROBLEM"
+    "baby": "PROBLEM"
   },
   {
-    "room air": "TREATMENT"
-  },
-  {
-    "p.o.": "TREATMENT"
-  },
-  {
-    "foods": "TREATMENT"
-  },
-  {
-    "sucking properly": "TREATMENT"
-  },
-  {
-    "ad lib feeds": "TREATMENT"
-  },
-  {
-    "gaining weight": "PROBLEM"
+    "foods": "PROBLEM"
   },
   {
     "Respiratory distress": "PROBLEM"
@@ -186,10 +150,10 @@
     "Dr.": "TREATMENT"
   },
   {
-    "Dr.": "TREATMENT"
+    "Dr": "TREATMENT"
   },
   {
-    "08/14/2006": "TEST"
+    "X": "PROBLEM"
   },
   {
     "CPR teaching": "TREATMENT"
@@ -210,18 +174,15 @@
     "prematurity": "PROBLEM"
   },
   {
+    "gestation": "PROBLEM"
+  },
+  {
     "premie": "PROBLEM"
   },
   {
-    "gestation": "TEST"
+    "perineum": "PROBLEM"
   },
   {
-    "delivery": "TEST"
-  },
-  {
-    "perineum": "TEST"
-  },
-  {
-    "discharge": "TEST"
+    "discharge": "PROBLEM"
   }
 ]

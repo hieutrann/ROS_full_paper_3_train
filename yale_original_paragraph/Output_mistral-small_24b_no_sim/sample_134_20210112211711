@@ -1,18 +1,12 @@
 [
   {
-    "fever": "PROBLEM"
-  },
-  {
-    "weight change": "PROBLEM"
-  },
-  {
     "fatigue": "PROBLEM"
   },
   {
     "aching": "PROBLEM"
   },
   {
-    "glasses": "PROBLEM"
+    "glasses": "TREATMENT"
   },
   {
     "cataracts": "PROBLEM"
@@ -30,7 +24,7 @@
     "visual field defects": "PROBLEM"
   },
   {
-    "hearing": "PROBLEM"
+    "hearing problems": "PROBLEM"
   },
   {
     "balance problems": "PROBLEM"
@@ -48,7 +42,7 @@
     "dental problems": "PROBLEM"
   },
   {
-    "dentures": "PROBLEM"
+    "dentures": "TREATMENT"
   },
   {
     "bleeding gums": "PROBLEM"
@@ -258,10 +252,10 @@
     "thyroid": "PROBLEM"
   },
   {
-    "cholesterol": "PROBLEM"
+    "problems with cholesterol": "PROBLEM"
   },
   {
-    "hormones": "PROBLEM"
+    "problems with hormones": "PROBLEM"
   },
   {
     "anemia": "PROBLEM"
@@ -276,7 +270,7 @@
     "steroids": "DRUG"
   },
   {
-    "chemotherapy": "TREATMENT"
+    "chemotherapy": "DRUG"
   },
   {
     "cancer": "PROBLEM"

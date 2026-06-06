@@ -9,6 +9,9 @@
     "severe ear pain": "PROBLEM"
   },
   {
+    "CT scan": "TEST"
+  },
+  {
     "Unasyn": "DRUG"
   },
   {
@@ -24,15 +27,9 @@
     "Augmentin": "DRUG"
   },
   {
-    "CT scan": "TEST"
+    "IV fluid": "TREATMENT"
   },
   {
-    "incision": "TREATMENT"
-  },
-  {
-    "drainage": "TREATMENT"
-  },
-  {
-    "incision and drainage": "TREATMENT"
+    "narcotics": "TREATMENT"
   }
 ]

@@ -3,10 +3,10 @@
     "non-small cell lung carcinoma": "PROBLEM"
   },
   {
-    "malignant pleural effusion": "PROBLEM"
+    "pleural effusion": "PROBLEM"
   },
   {
-    "chest tube insertion": "TREATMENT"
+    "chest tube": "TREATMENT"
   },
   {
     "chemical pleurodesis": "TREATMENT"
@@ -15,7 +15,7 @@
     "expired": "PROBLEM"
   },
   {
-    "DISCHARGE DIAGNOSES": "PROBLEM"
+    "DISCHARGE DIAGNOSES": "TREATMENT"
   },
   {
     "non-small cell lung carcinoma": "PROBLEM"
@@ -24,43 +24,40 @@
     "malignant pleural effusion": "PROBLEM"
   },
   {
+    "pleural effusion": "PROBLEM"
+  },
+  {
     "chest tube insertion": "TREATMENT"
   },
   {
     "chemical pleurodesis": "TREATMENT"
   },
   {
-    "2": "TEST"
+    "2": "TREATMENT"
   },
   {
     "Respiratory failure": "PROBLEM"
   },
   {
-    "3": "PROBLEM"
+    "3": "TREATMENT"
   },
   {
-    "postobstructive pneumonia": "PROBLEM"
-  },
-  {
-    "4": "TEST"
+    "pneumonia": "PROBLEM"
   },
   {
     "Gastrointestinal bleed": "PROBLEM"
   },
   {
-    "5": "PROBLEM"
+    "5": "TEST"
   },
   {
     "Thrombocytopenia": "PROBLEM"
   },
   {
-    "6": "PROBLEM"
+    "6": "TEST"
   },
   {
     "Acute renal failure": "PROBLEM"
-  },
-  {
-    "7": "PROBLEM"
   },
   {
     "Hyponatremia": "PROBLEM"
@@ -84,7 +81,7 @@
     "bones": "PROBLEM"
   },
   {
-    "9": "PROBLEM"
+    "9": "TEST"
   },
   {
     "Leukemoid reaction": "PROBLEM"
@@ -93,7 +90,7 @@
     "malignancy": "PROBLEM"
   },
   {
-    "10": "PROBLEM"
+    "10": "TEST"
   },
   {
     "liver function tests": "TEST"
@@ -102,10 +99,7 @@
     "African American": "PROBLEM"
   },
   {
-    "X": "PROBLEM"
-  },
-  {
-    "right hip pain": "PROBLEM"
+    "hip pain": "PROBLEM"
   },
   {
     "cough": "PROBLEM"
@@ -123,10 +117,10 @@
     "obstruction": "PROBLEM"
   },
   {
-    "CT scan": "TEST"
+    "nodules": "PROBLEM"
   },
   {
-    "chest": "TEST"
+    "CT scan": "TEST"
   },
   {
     "metastatic disease": "PROBLEM"
@@ -153,9 +147,6 @@
     "malignant cells": "PROBLEM"
   },
   {
-    "right hip pain": "PROBLEM"
-  },
-  {
     "metastatic disease": "PROBLEM"
   },
   {
@@ -163,9 +154,6 @@
   },
   {
     "non-small cell lung CA": "PROBLEM"
-  },
-  {
-    "consultants": "PROBLEM"
   },
   {
     "respiratory failure": "PROBLEM"
@@ -192,6 +180,9 @@
     "DNR": "TREATMENT"
   },
   {
+    "life support": "TREATMENT"
+  },
+  {
     "expired": "PROBLEM"
   },
   {
@@ -201,9 +192,6 @@
     "pleural effusion": "PROBLEM"
   },
   {
-    "dnr": "PROBLEM"
-  },
-  {
-    "death summary": "PROBLEM"
+    "DNR": "TREATMENT"
   }
 ]

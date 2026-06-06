@@ -1,8 +1,5 @@
 [
   {
-    "VITAL SIGNS": "TEST"
-  },
-  {
     "Blood pressure": "TEST"
   },
   {
@@ -15,6 +12,24 @@
     "temperature": "TEST"
   },
   {
+    "apparent distress": "PROBLEM"
+  },
+  {
+    "EOMI": "TEST"
+  },
+  {
+    "PERRLA": "TEST"
+  },
+  {
+    "nonicteric": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "Funduscopic examination": "TEST"
+  },
+  {
     "papilledema": "PROBLEM"
   },
   {
@@ -22,6 +37,9 @@
   },
   {
     "cataracts": "PROBLEM"
+  },
+  {
+    "TMs": "TEST"
   },
   {
     "carotid bruit": "PROBLEM"
@@ -36,7 +54,19 @@
     "stridor": "PROBLEM"
   },
   {
+    "shift": "PROBLEM"
+  },
+  {
     "subcutaneous emphysema": "PROBLEM"
+  },
+  {
+    "nodularity": "PROBLEM"
+  },
+  {
+    "auscultation": "TEST"
+  },
+  {
+    "percussion": "TEST"
   },
   {
     "murmur": "PROBLEM"
@@ -60,6 +90,15 @@
     "gallop": "PROBLEM"
   },
   {
+    "PMI": "TEST"
+  },
+  {
+    "inspection": "TEST"
+  },
+  {
+    "palpation": "TEST"
+  },
+  {
     "axillary or supraclavicular adenopathy": "PROBLEM"
   },
   {
@@ -81,6 +120,9 @@
     "guarding": "PROBLEM"
   },
   {
+    "aortic impulse": "TEST"
+  },
+  {
     "intraabdominal bruit": "PROBLEM"
   },
   {
@@ -99,7 +141,16 @@
     "nodularity": "PROBLEM"
   },
   {
+    "tenderness": "PROBLEM"
+  },
+  {
     "rectal masses": "PROBLEM"
+  },
+  {
+    "distal pulse": "TEST"
+  },
+  {
+    "perfusion": "TEST"
   },
   {
     "edema": "PROBLEM"
@@ -112,6 +163,9 @@
   },
   {
     "deep venous thrombosis": "PROBLEM"
+  },
+  {
+    "range of motion": "TEST"
   },
   {
     "spinous process tenderness": "PROBLEM"
@@ -129,15 +183,21 @@
     "Brudzinski signs": "TEST"
   },
   {
+    "cranial and peripheral nervous systems": "TEST"
+  },
+  {
+    "strength": "TEST"
+  },
+  {
+    "sensation": "TEST"
+  },
+  {
+    "cerebellar function": "TEST"
+  },
+  {
+    "Gait and station": "TEST"
+  },
+  {
     "premalignant or malignant condition": "PROBLEM"
-  },
-  {
-    "digital palpation": "TEST"
-  },
-  {
-    "hemoccult - negative": "TEST"
-  },
-  {
-    "tenderness": "PROBLEM"
   }
 ]

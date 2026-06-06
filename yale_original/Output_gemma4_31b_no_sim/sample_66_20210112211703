@@ -21,7 +21,7 @@
     "lower extremity edema": "PROBLEM"
   },
   {
-    "cellulitis of the lower extremities": "PROBLEM"
+    "cellulitis": "PROBLEM"
   },
   {
     "Bactrim": "DRUG"
@@ -37,6 +37,9 @@
   },
   {
     "stage II ulcer": "PROBLEM"
+  },
+  {
+    "drainage": "PROBLEM"
   },
   {
     "erythema": "PROBLEM"
@@ -57,7 +60,7 @@
     "morbid obesity": "PROBLEM"
   },
   {
-    "chronic lymphedema of the lower extremities": "PROBLEM"
+    "chronic lymphedema": "PROBLEM"
   },
   {
     "spastic colon": "PROBLEM"
@@ -66,13 +69,16 @@
     "knee arthritis": "PROBLEM"
   },
   {
-    "recurrent cellulitis of the lower extremities": "PROBLEM"
+    "recurrent cellulitis": "PROBLEM"
   },
   {
     "hysterectomy": "TREATMENT"
   },
   {
     "cholecystectomy": "TREATMENT"
+  },
+  {
+    "recreational drugs": "DRUG"
   },
   {
     "heart problems": "PROBLEM"
@@ -90,7 +96,7 @@
     "ADHESIVE TAPE ALLERGIES": "PROBLEM"
   },
   {
-    "nonresolving bilateral lower extremity lymphedema": "PROBLEM"
+    "bilateral lower extremity lymphedema": "PROBLEM"
   },
   {
     "nausea": "PROBLEM"
@@ -126,9 +132,6 @@
     "morbidly obese": "PROBLEM"
   },
   {
-    "acute hemodynamic distress": "PROBLEM"
-  },
-  {
     "temperature": "TEST"
   },
   {
@@ -144,16 +147,7 @@
     "weight": "TEST"
   },
   {
-    "Pupils": "TEST"
-  },
-  {
-    "Extraocular movements": "TEST"
-  },
-  {
     "external ear exam": "TEST"
-  },
-  {
-    "Neck": "TEST"
   },
   {
     "lymphadenopathy": "PROBLEM"
@@ -174,9 +168,6 @@
     "thick chest wall": "PROBLEM"
   },
   {
-    "Lungs": "TEST"
-  },
-  {
     "Morbidly obese": "PROBLEM"
   },
   {
@@ -195,7 +186,7 @@
     "lymphedema": "PROBLEM"
   },
   {
-    "pinkish discoloration of the lower part of calf and shin areas": "PROBLEM"
+    "pinkish discoloration": "PROBLEM"
   },
   {
     "stasis dermatosis": "PROBLEM"
@@ -231,7 +222,7 @@
     "clubbing": "PROBLEM"
   },
   {
-    "peripheral stigmata of endocarditis": "PROBLEM"
+    "endocarditis": "PROBLEM"
   },
   {
     "focal deficit": "PROBLEM"
@@ -264,7 +255,7 @@
     "eosinophils": "TEST"
   },
   {
-    "basic electrolyte panel": "TEST"
+    "electrolyte panel": "TEST"
   },
   {
     "renal function": "TEST"
@@ -279,7 +270,7 @@
     "Liver function tests": "TEST"
   },
   {
-    "nasal screen for MRSA": "TEST"
+    "nasal screen": "TEST"
   },
   {
     "MRSA": "PROBLEM"
@@ -321,16 +312,13 @@
     "antibiotic therapy": "TREATMENT"
   },
   {
-    "lymphedema": "PROBLEM"
-  },
-  {
     "lymphedema wraps": "TREATMENT"
   },
   {
     "lymphedema": "PROBLEM"
   },
   {
-    "lymphedema wraps changes": "TREATMENT"
+    "lymphedema wraps": "TREATMENT"
   },
   {
     "cellulitis": "PROBLEM"
@@ -346,6 +334,9 @@
   },
   {
     "lymphedema wraps": "TREATMENT"
+  },
+  {
+    "Lymphedema Management": "TREATMENT"
   },
   {
     "lower extremity cellulitis": "PROBLEM"
@@ -373,5 +364,8 @@
   },
   {
     "antibiotic": "DRUG"
+  },
+  {
+    "therapy": "TREATMENT"
   }
 ]

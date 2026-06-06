@@ -1,15 +1,9 @@
 [
   {
-    "Jaw Pain": "PROBLEM"
-  },
-  {
     "toothache": "PROBLEM"
   },
   {
     "jaw": "PROBLEM"
-  },
-  {
-    "left ear": "PROBLEM"
   },
   {
     "Ellis type II dental fracture": "PROBLEM"
@@ -93,9 +87,6 @@
     "toothache": "PROBLEM"
   },
   {
-    "left ear": "PROBLEM"
-  },
-  {
     "ear pain": "PROBLEM"
   },
   {
@@ -141,7 +132,22 @@
     "lymph node swelling": "PROBLEM"
   },
   {
-    "VITAL SIGNS": "TEST"
+    "Temperature": "TEST"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "pulse": "TEST"
+  },
+  {
+    "respirations": "TEST"
+  },
+  {
+    "oxygen saturation": "TEST"
+  },
+  {
+    "acute distress": "PROBLEM"
   },
   {
     "rhinorrhea": "PROBLEM"
@@ -160,6 +166,9 @@
   },
   {
     "swelling of the canals": "PROBLEM"
+  },
+  {
+    "Tympanic membranes": "TEST"
   },
   {
     "erythema": "PROBLEM"
@@ -286,29 +295,5 @@
   },
   {
     "toothache": "PROBLEM"
-  },
-  {
-    "jaw pain": "PROBLEM"
-  },
-  {
-    "ellis type ii fracture": "PROBLEM"
-  },
-  {
-    "ellis type": "PROBLEM"
-  },
-  {
-    "dental fracture": "PROBLEM"
-  },
-  {
-    "toothache": "PROBLEM"
-  },
-  {
-    "tenderness": "PROBLEM"
-  },
-  {
-    "pressure": "PROBLEM"
-  },
-  {
-    "erythema": "PROBLEM"
   }
 ]

@@ -1,8 +1,5 @@
 [
   {
-    "Laryngitis": "PROBLEM"
-  },
-  {
     "Chronic laryngitis": "PROBLEM"
   },
   {
@@ -27,25 +24,13 @@
     "voicing difficulties": "PROBLEM"
   },
   {
-    "speech therapy sessions": "TREATMENT"
+    "speech therapy": "TREATMENT"
   },
   {
-    "resonant voice activities": "TREATMENT"
-  },
-  {
-    "vocal hygiene": "TREATMENT"
-  },
-  {
-    "therapy": "TREATMENT"
-  },
-  {
-    "relaxation and stretching exercises": "TREATMENT"
+    "stretching exercises": "TREATMENT"
   },
   {
     "Lessac-Madsen Resonant Voice Therapy Protocol": "TREATMENT"
-  },
-  {
-    "short-term goal therapy": "TREATMENT"
   },
   {
     "resonant voice therapy": "TREATMENT"
@@ -66,19 +51,10 @@
     "vocal hoarseness": "PROBLEM"
   },
   {
-    "difficulty": "PROBLEM"
-  },
-  {
-    "normal voice": "PROBLEM"
+    "voice": "PROBLEM"
   },
   {
     "outpatient skilled speech therapy": "TREATMENT"
-  },
-  {
-    "vocal hygiene": "TREATMENT"
-  },
-  {
-    "voice activities": "TREATMENT"
   },
   {
     "hoarseness": "PROBLEM"
@@ -91,9 +67,6 @@
   },
   {
     "voice therapy": "TREATMENT"
-  },
-  {
-    "resonant voice": "TREATMENT"
   },
   {
     "videostroboscopy": "TEST"

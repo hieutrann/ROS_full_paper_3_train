@@ -12,10 +12,10 @@
     "bowel perforations": "PROBLEM"
   },
   {
-    "n.p.o.": "PROBLEM"
+    "n.p.o.": "TEST"
   },
   {
-    "pleurodesis": "TREATMENT"
+    "pleurodesis": "PROBLEM"
   },
   {
     "abdominal pain": "PROBLEM"
@@ -36,13 +36,16 @@
     "Tylenol": "DRUG"
   },
   {
+    "abdominal pain": "PROBLEM"
+  },
+  {
     "thoracic epidural placement": "TREATMENT"
   },
   {
-    "celiac plexuses/neurolytic block": "TREATMENT"
+    "sympathetic block": "TREATMENT"
   },
   {
-    "abdominal pain": "PROBLEM"
+    "celiac plexuses/neurolytic block": "TREATMENT"
   },
   {
     "pain procedures": "TREATMENT"

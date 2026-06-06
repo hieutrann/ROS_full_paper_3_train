@@ -150,7 +150,7 @@
     "respiratory failure": "PROBLEM"
   },
   {
-    "chemotherapy": "TREATMENT"
+    "chemotherapy": "DRUG"
   },
   {
     "ventilator": "TREATMENT"
@@ -163,6 +163,9 @@
   },
   {
     "extubated": "TREATMENT"
+  },
+  {
+    "dnr": "TREATMENT"
   },
   {
     "lung carcinoma": "PROBLEM"

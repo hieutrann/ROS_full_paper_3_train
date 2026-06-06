@@ -6,6 +6,9 @@
     "dental disease": "PROBLEM"
   },
   {
+    "teeth pulled": "TREATMENT"
+  },
+  {
     "tooth pain": "PROBLEM"
   },
   {
@@ -13,6 +16,9 @@
   },
   {
     "dental disease": "PROBLEM"
+  },
+  {
+    "teeth pulled": "TREATMENT"
   },
   {
     "tooth pain": "PROBLEM"
@@ -120,7 +126,10 @@
     "lesions": "PROBLEM"
   },
   {
-    "vision or hearing change": "PROBLEM"
+    "vision change": "PROBLEM"
+  },
+  {
+    "hearing change": "PROBLEM"
   },
   {
     "weakness": "PROBLEM"
@@ -165,6 +174,9 @@
     "oxygen saturation": "TEST"
   },
   {
+    "overweight": "PROBLEM"
+  },
+  {
     "icterus": "PROBLEM"
   },
   {
@@ -183,9 +195,6 @@
     "photophobia": "PROBLEM"
   },
   {
-    "Extraocular motions": "TEST"
-  },
-  {
     "infection": "PROBLEM"
   },
   {
@@ -195,25 +204,16 @@
     "swelling of canals": "PROBLEM"
   },
   {
-    "erythema": "PROBLEM"
-  },
-  {
-    "bulging": "PROBLEM"
-  },
-  {
-    "fluid levels": "PROBLEM"
-  },
-  {
-    "bubbles": "PROBLEM"
-  },
-  {
     "rhinorrhea": "PROBLEM"
   },
   {
     "audible congestion": "PROBLEM"
   },
   {
-    "tenderness over the sinuses": "PROBLEM"
+    "tenderness": "PROBLEM"
+  },
+  {
+    "sinuses": "PROBLEM"
   },
   {
     "meningismus": "PROBLEM"
@@ -237,10 +237,16 @@
     "swelling": "PROBLEM"
   },
   {
+    "purulent or other discharge": "PROBLEM"
+  },
+  {
     "abscess": "PROBLEM"
   },
   {
     "dental fractures": "PROBLEM"
+  },
+  {
+    "infection": "PROBLEM"
   },
   {
     "erythema": "PROBLEM"
@@ -261,9 +267,6 @@
     "Ludwig's syndrome": "PROBLEM"
   },
   {
-    "Heart": "TEST"
-  },
-  {
     "murmur": "PROBLEM"
   },
   {
@@ -271,9 +274,6 @@
   },
   {
     "gallop": "PROBLEM"
-  },
-  {
-    "RESPIRATIONS": "TEST"
   },
   {
     "shortness of breath": "PROBLEM"
@@ -285,16 +285,10 @@
     "lesions": "PROBLEM"
   },
   {
-    "speech": "TEST"
-  },
-  {
-    "ambulation": "TEST"
-  },
-  {
     "cervical lymphadenopathy": "PROBLEM"
   },
   {
-    "pain": "PROBLEM"
+    "pain shot": "TREATMENT"
   },
   {
     "Dilaudid": "DRUG"
@@ -325,6 +319,9 @@
   },
   {
     "extensive dental disease": "PROBLEM"
+  },
+  {
+    "teeth pulled": "TREATMENT"
   },
   {
     "cervical lymphadenopathy": "PROBLEM"

@@ -1,6 +1,6 @@
 [
   {
-    "Itchy Rash": "PROBLEM"
+    "itchy rash": "PROBLEM"
   },
   {
     "itchiness": "PROBLEM"
@@ -27,16 +27,16 @@
     "facial swelling": "PROBLEM"
   },
   {
-    "tongue or lip swelling": "PROBLEM"
+    "tongue swelling": "PROBLEM"
+  },
+  {
+    "lip swelling": "PROBLEM"
   },
   {
     "shortness of breath": "PROBLEM"
   },
   {
     "wheezing": "PROBLEM"
-  },
-  {
-    "trigger": "PROBLEM"
   },
   {
     "medications": "DRUG"
@@ -48,7 +48,7 @@
     "chronic medical problems": "PROBLEM"
   },
   {
-    "local physician": "PROBLEM"
+    "No local physician": "PROBLEM"
   },
   {
     "back surgery": "TREATMENT"
@@ -60,7 +60,10 @@
     "oropharyngeal swelling": "PROBLEM"
   },
   {
-    "lip or tongue swelling": "PROBLEM"
+    "lip swelling": "PROBLEM"
+  },
+  {
+    "tongue swelling": "PROBLEM"
   },
   {
     "wheezing": "PROBLEM"
@@ -96,10 +99,7 @@
     "AMPICILLIN": "DRUG"
   },
   {
-    "afebrile": "TEST"
-  },
-  {
-    "tachycardic": "PROBLEM"
+    "afebrile": "PROBLEM"
   },
   {
     "distress": "PROBLEM"
@@ -111,10 +111,10 @@
     "oral mucosa": "PROBLEM"
   },
   {
-    "Lips": "PROBLEM"
+    "Lips": "TREATMENT"
   },
   {
-    "tongue": "PROBLEM"
+    "tongue": "TREATMENT"
   },
   {
     "pharynx": "PROBLEM"
@@ -123,7 +123,7 @@
     "Supple": "TEST"
   },
   {
-    "trachea": "TEST"
+    "trachea": "PROBLEM"
   },
   {
     "stridor": "PROBLEM"
@@ -144,16 +144,22 @@
     "tachycardia": "PROBLEM"
   },
   {
-    "ABDOMEN": "PROBLEM"
+    "Abdomen": "PROBLEM"
   },
   {
-    "confluence erythematous, blanching rash": "PROBLEM"
+    "erythematous rash": "PROBLEM"
   },
   {
-    "blotchy papular, macular rash": "PROBLEM"
+    "blanching rash": "PROBLEM"
   },
   {
-    "on his buttocks": "PROBLEM"
+    "papular rash": "PROBLEM"
+  },
+  {
+    "macular rash": "PROBLEM"
+  },
+  {
+    "buttocks": "PROBLEM"
   },
   {
     "exam": "TEST"
@@ -171,7 +177,7 @@
     "rash": "PROBLEM"
   },
   {
-    "ACUTE ALLERGIC REACTION": "PROBLEM"
+    "ALLERGIC REACTION": "PROBLEM"
   },
   {
     "URTIcaria": "PROBLEM"
@@ -225,15 +231,9 @@
     "itchy rash": "PROBLEM"
   },
   {
-    "torso": "TEST"
-  },
-  {
-    "swelling": "PROBLEM"
-  },
-  {
-    "itchy": "PROBLEM"
-  },
-  {
     "rash": "PROBLEM"
+  },
+  {
+    "torso": "TEST"
   }
 ]

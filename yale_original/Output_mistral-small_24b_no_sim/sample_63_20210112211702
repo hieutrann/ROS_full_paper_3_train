@@ -9,6 +9,9 @@
     "motor vehicle accident": "PROBLEM"
   },
   {
+    "DISCHARGE DIAGNOSES": "TEST"
+  },
+  {
     "surgery": "TREATMENT"
   },
   {
@@ -33,13 +36,16 @@
     "fracture": "PROBLEM"
   },
   {
+    "lower arm": "PROBLEM"
+  },
+  {
     "Alcohol abuse": "PROBLEM"
   },
   {
     "fracture": "PROBLEM"
   },
   {
-    "Open wound": "PROBLEM"
+    "Open wound of the scalp": "PROBLEM"
   },
   {
     "Cervical disk displacement": "PROBLEM"
@@ -60,7 +66,7 @@
     "Psychosis": "PROBLEM"
   },
   {
-    "Generalized pain": "PROBLEM"
+    "pain": "PROBLEM"
   },
   {
     "Insomnia": "PROBLEM"
@@ -75,7 +81,13 @@
     "Motor vehicle traffic accident": "PROBLEM"
   },
   {
+    "Dr.": "TREATMENT"
+  },
+  {
     "fractures": "PROBLEM"
+  },
+  {
+    "motor vehicle accident": "PROBLEM"
   },
   {
     "left tibial plateau fracture": "PROBLEM"
@@ -99,9 +111,6 @@
     "brace": "TREATMENT"
   },
   {
-    "left leg": "PROBLEM"
-  },
-  {
     "left tibial plateau fracture": "PROBLEM"
   },
   {
@@ -120,7 +129,10 @@
     "alcohol abuse": "PROBLEM"
   },
   {
-    "sacral decubitus ulcer": "PROBLEM"
+    "orthopedic": "PROBLEM"
+  },
+  {
+    "decubitus ulcer": "PROBLEM"
   },
   {
     "wound care": "TREATMENT"
@@ -130,6 +142,9 @@
   },
   {
     "iron treatment": "TREATMENT"
+  },
+  {
+    "therapy": "TREATMENT"
   },
   {
     "confusion": "PROBLEM"
@@ -144,31 +159,40 @@
     "Ativan": "DRUG"
   },
   {
-    "chronic pain": "PROBLEM"
+    "chronic pain medications": "DRUG"
   },
   {
-    "pain medications": "DRUG"
+    "medications": "DRUG"
   },
   {
     "case management": "TREATMENT"
   },
   {
-    "psychologist": "PROBLEM"
+    "psychologist": "TREATMENT"
   },
   {
-    "acute alcohol rehab facility": "TREATMENT"
+    "acute alcohol rehab": "TREATMENT"
   },
   {
-    "orthopedic followup": "TEST"
+    "orthopedic followup": "TREATMENT"
   },
   {
     "right leg brace": "TREATMENT"
   },
   {
+    "therapy": "TREATMENT"
+  },
+  {
+    "therapy": "TREATMENT"
+  },
+  {
+    "ambulatory status": "PROBLEM"
+  },
+  {
     "wheeled walker": "TREATMENT"
   },
   {
-    "left leg": "PROBLEM"
+    "leg": "PROBLEM"
   },
   {
     "pain level": "PROBLEM"
@@ -181,6 +205,9 @@
   },
   {
     "anemia": "PROBLEM"
+  },
+  {
+    "MEDICATIONS": "DRUG"
   },
   {
     "Calcium with vitamin D": "DRUG"
@@ -207,7 +234,19 @@
     "Vicodin": "DRUG"
   },
   {
+    "pain": "PROBLEM"
+  },
+  {
     "Ativan": "DRUG"
+  },
+  {
+    "anxiety": "PROBLEM"
+  },
+  {
+    "orthopedist": "TREATMENT"
+  },
+  {
+    "discharge summary": "TEST"
   },
   {
     "injury": "PROBLEM"
@@ -228,7 +267,7 @@
     "vehicle accident": "PROBLEM"
   },
   {
-    "discharge": "TREATMENT"
+    "discharge": "TEST"
   },
   {
     "aftercare": "TREATMENT"

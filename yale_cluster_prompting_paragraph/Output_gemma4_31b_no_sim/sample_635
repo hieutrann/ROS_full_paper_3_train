@@ -1,12 +1,9 @@
 [
   {
-    "Surgery": "TREATMENT"
+    "Cardiac Catheterization": "TEST"
   },
   {
-    "Cardiac Catheterization": "TREATMENT"
-  },
-  {
-    "Left heart catheterization": "TREATMENT"
+    "Left heart catheterization": "TEST"
   },
   {
     "coronary angiography": "TEST"
@@ -19,9 +16,6 @@
   },
   {
     "angiography": "TEST"
-  },
-  {
-    "Left heart catheterization with coronary angiography, vein graft angiography and left ventricular pressure measurement and angiography": "TREATMENT"
   },
   {
     "Right femoral selective angiogram": "TEST"
@@ -60,25 +54,25 @@
     "percutaneous evaluation": "TEST"
   },
   {
-    "intervention": "TREATMENT"
-  },
-  {
     "lidocaine": "DRUG"
   },
   {
-    "Coronary angiography": "TEST"
+    "6-French sheath": "TREATMENT"
   },
   {
-    "left ventricular measurement": "TEST"
+    "6-French JL4 diagnostic catheter": "TREATMENT"
   },
   {
-    "angiography": "TEST"
+    "left coronary artery": "PROBLEM"
+  },
+  {
+    "6-French JR4 diagnostic catheter": "TREATMENT"
   },
   {
     "saphenous vein graft conduit": "TREATMENT"
   },
   {
-    "left ventricular pressures": "TEST"
+    "6-French angled pigtail catheter": "TREATMENT"
   },
   {
     "left ventriculogram": "TEST"
@@ -87,13 +81,19 @@
     "selective arteriography": "TEST"
   },
   {
+    "right femoral artery": "PROBLEM"
+  },
+  {
     "atherosclerotic plaque": "PROBLEM"
+  },
+  {
+    "arteriotomy": "PROBLEM"
   },
   {
     "Perclose device": "TREATMENT"
   },
   {
-    "Angio-Seal": "TREATMENT"
+    "6-French Angio-Seal": "TREATMENT"
   },
   {
     "aortic pressure": "TEST"
@@ -105,121 +105,109 @@
     "end-diastolic pressure": "TEST"
   },
   {
+    "aortic valve": "PROBLEM"
+  },
+  {
     "Left ventricular ejection fraction": "TEST"
   },
   {
     "Mitral regurgitation": "PROBLEM"
   },
   {
-    "CORONARY ANGIOGRAM": "TEST"
+    "left main coronary artery": "PROBLEM"
   },
   {
-    "atherosclerotic plaque": "PROBLEM"
+    "mild atherosclerotic plaque": "PROBLEM"
   },
   {
     "proximal LAD": "PROBLEM"
   },
   {
-    "occluded": "PROBLEM"
+    "100% occluded": "PROBLEM"
   },
   {
     "left circumflex": "PROBLEM"
   },
   {
-    "diffuse atherosclerotic plaque": "PROBLEM"
+    "mild diffuse atherosclerotic plaque": "PROBLEM"
   },
   {
     "obtuse marginal branch": "PROBLEM"
   },
   {
-    "stenosis": "PROBLEM"
-  },
-  {
-    "saphenous vein graft": "TREATMENT"
-  },
-  {
-    "right coronary artery": "PROBLEM"
-  },
-  {
-    "proximal and mid atherosclerotic plaque": "PROBLEM"
-  },
-  {
-    "distal right coronary artery": "PROBLEM"
-  },
-  {
-    "stenosis": "PROBLEM"
-  },
-  {
-    "posterior left ventricular branch": "PROBLEM"
-  },
-  {
-    "stenosis": "PROBLEM"
-  },
-  {
-    "proximal PDA": "PROBLEM"
-  },
-  {
-    "stenosis": "PROBLEM"
-  },
-  {
-    "saphenous vein graft to the right PDA": "TREATMENT"
-  },
-  {
-    "native right coronary artery": "PROBLEM"
-  },
-  {
-    "saphenous vein graft to the PDA": "TREATMENT"
-  },
-  {
-    "native proximal PDA and PLV disease": "PROBLEM"
-  },
-  {
-    "saphenous vein graft to the left anterior descending": "TREATMENT"
-  },
-  {
-    "saphenous vein graft to the obtuse marginal": "TREATMENT"
-  },
-  {
-    "occluded": "PROBLEM"
-  },
-  {
-    "proximal LAD": "PROBLEM"
-  },
-  {
-    "left circumflex disease": "PROBLEM"
-  },
-  {
-    "OM": "PROBLEM"
-  },
-  {
-    "lesion": "PROBLEM"
-  },
-  {
-    "percutaneous intervention": "TREATMENT"
-  },
-  {
-    "native right coronary artery": "PROBLEM"
-  },
-  {
-    "distal disease": "PROBLEM"
-  },
-  {
-    "PLV and PDA disease": "PROBLEM"
+    "80% stenosis": "PROBLEM"
   },
   {
     "saphenous vein graft to the OM": "TREATMENT"
   },
   {
-    "occluded": "PROBLEM"
+    "right coronary artery": "PROBLEM"
   },
   {
-    "saphenous vein graft to the PDA": "TREATMENT"
+    "mild proximal and mid atherosclerotic plaque": "PROBLEM"
   },
   {
-    "saphenous vein graft to the LAD": "TREATMENT"
+    "distal right coronary artery": "PROBLEM"
   },
   {
-    "left ventricular systolic function": "TEST"
+    "40% stenosis": "PROBLEM"
+  },
+  {
+    "posterior left ventricular branch": "PROBLEM"
+  },
+  {
+    "50 to 60% stenosis": "PROBLEM"
+  },
+  {
+    "proximal PDA": "PROBLEM"
+  },
+  {
+    "40 to 50% stenosis": "PROBLEM"
+  },
+  {
+    "saphenous vein graft to the right PDA": "TREATMENT"
+  },
+  {
+    "native proximal PDA": "PROBLEM"
+  },
+  {
+    "PLV disease": "PROBLEM"
+  },
+  {
+    "saphenous vein graft to the left anterior descending": "TREATMENT"
+  },
+  {
+    "LAD": "PROBLEM"
+  },
+  {
+    "diagonal branch": "PROBLEM"
+  },
+  {
+    "saphenous vein graft to the obtuse marginal": "TREATMENT"
+  },
+  {
+    "100% occluded": "PROBLEM"
+  },
+  {
+    "proximal LAD": "PROBLEM"
+  },
+  {
+    "mild left circumflex disease": "PROBLEM"
+  },
+  {
+    "80% lesion": "PROBLEM"
+  },
+  {
+    "percutaneous intervention": "TREATMENT"
+  },
+  {
+    "moderate distal disease": "PROBLEM"
+  },
+  {
+    "moderate PLV and PDA disease": "PROBLEM"
+  },
+  {
+    "Normal left ventricular systolic function": "PROBLEM"
   },
   {
     "antihyperlipidemic": "DRUG"

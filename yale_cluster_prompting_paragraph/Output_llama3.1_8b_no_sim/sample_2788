@@ -6,49 +6,7 @@
     "total knee replacement": "TREATMENT"
   },
   {
-    "Coumadin": "DRUG"
-  },
-  {
-    "Lovenox": "DRUG"
-  },
-  {
-    "SCD boots": "DRUG"
-  },
-  {
-    "TED stockings": "DRUG"
-  },
-  {
-    "Celebrex": "DRUG"
-  },
-  {
-    "Colace": "DRUG"
-  },
-  {
-    "Synthroid": "DRUG"
-  },
-  {
-    "Protonix": "DRUG"
-  },
-  {
-    "Diprosone cream": "DRUG"
-  },
-  {
-    "oxycodone SR": "DRUG"
-  },
-  {
-    "Percocet": "DRUG"
-  },
-  {
-    "trazodone": "DRUG"
-  },
-  {
-    "Ativan": "DRUG"
-  },
-  {
-    "Toprol-XL": "DRUG"
-  },
-  {
-    "right knee pain": "PROBLEM"
+    "degenerative joint disease": "PROBLEM"
   },
   {
     "anxiety disorder": "PROBLEM"
@@ -78,6 +36,15 @@
     "migraine headaches": "PROBLEM"
   },
   {
+    "colonoscopy": "TEST"
+  },
+  {
+    "EGD": "TEST"
+  },
+  {
+    "barium enema": "TEST"
+  },
+  {
     "venous Doppler study": "TEST"
   },
   {
@@ -97,5 +64,83 @@
   },
   {
     "fasting glucose": "TEST"
+  },
+  {
+    "UA": "TEST"
+  },
+  {
+    "CBC": "TEST"
+  },
+  {
+    "Creatinine": "TEST"
+  },
+  {
+    "BUN": "TEST"
+  },
+  {
+    "anion gap": "TEST"
+  },
+  {
+    "fasting glucose": "TEST"
+  },
+  {
+    "Celebrex": "DRUG"
+  },
+  {
+    "Coumadin": "DRUG"
+  },
+  {
+    "Colace": "DRUG"
+  },
+  {
+    "Synthroid": "DRUG"
+  },
+  {
+    "Lovenox": "DRUG"
+  },
+  {
+    "Percocet": "DRUG"
+  },
+  {
+    "Toprol XL": "DRUG"
+  },
+  {
+    "niacin": "DRUG"
+  },
+  {
+    "trazodone": "DRUG"
+  },
+  {
+    "Ativan": "DRUG"
+  },
+  {
+    "oxycodone SR": "DRUG"
+  },
+  {
+    "Diprosone cream": "DRUG"
+  },
+  {
+    "Protonix": "DRUG"
+  },
+  {
+    "betamethasone cream": "DRUG"
+  },
+  {
+    "CPM machine": "TREATMENT"
+  },
+  {
+    "Ativan": "TREATMENT"
+  },
+  {
+    "oxycodone SR": "TREATMENT"
+  },
+  {
+    "Percocet": "TREATMENT"
+  },
+  {
+    "betamethasone cream": "TREATMENT"
+  },
+  {
+    "Coumadin": "TREATMENT"
   }
 ]

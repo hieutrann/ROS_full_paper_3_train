@@ -9,10 +9,7 @@
     "facet joints": "PROBLEM"
   },
   {
-    "needle approach": "TREATMENT"
-  },
-  {
-    "lidocaine": "DRUG"
+    "1 % lidocaine": "DRUG"
   },
   {
     "Transforaminal Epidural": "TREATMENT"
@@ -42,10 +39,7 @@
     "cardiovascular and CNS side effects": "PROBLEM"
   },
   {
-    "vascular entry": "PROBLEM"
-  },
-  {
-    "medications": "DRUG"
+    "vascular entry of medications": "PROBLEM"
   },
   {
     "sedatives": "DRUG"
@@ -78,16 +72,16 @@
     "betadine": "TREATMENT"
   },
   {
+    "needle placement": "TREATMENT"
+  },
+  {
     "Fluoroscopy": "TEST"
   },
   {
     "facet joints": "PROBLEM"
   },
   {
-    "needle approach": "TREATMENT"
-  },
-  {
-    "lidocaine": "DRUG"
+    "1 % lidocaine": "DRUG"
   },
   {
     "fluoroscopy": "TEST"
@@ -171,13 +165,13 @@
     "injection": "TREATMENT"
   },
   {
-    "transforaminal": "TREATMENT"
+    "transforaminal": "PROBLEM"
   },
   {
     "epidural": "TREATMENT"
   },
   {
-    "lumbar": "TREATMENT"
+    "lumbar": "PROBLEM"
   },
   {
     "fluoroscopy": "TEST"

@@ -1,6 +1,6 @@
 [
   {
-    "General Medicine": "PROBLEM"
+    "General Medicine": "TREATMENT"
   },
   {
     "diabetes mellitus": "PROBLEM"
@@ -18,7 +18,7 @@
     "stroke": "PROBLEM"
   },
   {
-    "neurologist": "PROBLEM"
+    "neurologist": "TREATMENT"
   },
   {
     "medications": "DRUG"
@@ -42,7 +42,7 @@
     "MEDICATIONS": "DRUG"
   },
   {
-    "ALLERGIES": "PROBLEM"
+    "chart": "TEST"
   },
   {
     "Wt": "TEST"
@@ -57,7 +57,7 @@
     "P": "TEST"
   },
   {
-    "70-year-old male": "PROBLEM"
+    "male": "PROBLEM"
   },
   {
     "missing dentition": "PROBLEM"
@@ -72,16 +72,13 @@
     "carotid pulsations": "TEST"
   },
   {
-    "2+ pedal pulse": "TEST"
-  },
-  {
-    "1+ pedal pulse": "TEST"
+    "pulse": "TEST"
   },
   {
     "Lungs": "PROBLEM"
   },
   {
-    "Abdomen": "PROBLEM"
+    "Abdomen": "TEST"
   },
   {
     "prostate check": "TEST"
@@ -90,25 +87,19 @@
     "Gill": "PROBLEM"
   },
   {
-    "Sensation": "PROBLEM"
-  },
-  {
     "monofilament testing": "TEST"
   },
   {
-    "IMPRESSION": "PROBLEM"
+    "sensation": "PROBLEM"
+  },
+  {
+    "IMPRESSION": "TREATMENT"
   },
   {
     "Diabetes mellitus": "PROBLEM"
   },
   {
-    "2": "TEST"
-  },
-  {
     "Neuropathy": "PROBLEM"
-  },
-  {
-    "3": "PROBLEM"
   },
   {
     "cerebrovascular accident": "PROBLEM"
@@ -129,13 +120,16 @@
     "colonoscopy": "TEST"
   },
   {
-    "stools for occult blood": "TEST"
+    "stools": "TEST"
+  },
+  {
+    "blood": "PROBLEM"
   },
   {
     "PSA": "TEST"
   },
   {
-    "yearly eye exams": "TEST"
+    "eye exams": "TEST"
   },
   {
     "foot exams": "TEST"
@@ -144,7 +138,7 @@
     "Accu-Cheks": "TEST"
   },
   {
-    "Accu-Cheks": "DRUG"
+    "p.r.n.": "TREATMENT"
   },
   {
     "diabetes mellitus": "PROBLEM"

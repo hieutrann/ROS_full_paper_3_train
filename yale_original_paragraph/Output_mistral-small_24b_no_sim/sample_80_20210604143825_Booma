@@ -1,113 +1,5 @@
 [
   {
-    "EARS/NOSE": "TEST"
-  },
-  {
-    "auricles": "TEST"
-  },
-  {
-    "lymphadenitis": "PROBLEM"
-  },
-  {
-    "trauma": "PROBLEM"
-  },
-  {
-    "nose": "TEST"
-  },
-  {
-    "otoscopic examination": "TEST"
-  },
-  {
-    "auditory canals": "TEST"
-  },
-  {
-    "tympanic membranes": "TEST"
-  },
-  {
-    "mass lesion": "PROBLEM"
-  },
-  {
-    "inflammation": "PROBLEM"
-  },
-  {
-    "swelling": "PROBLEM"
-  },
-  {
-    "hearing": "TEST"
-  },
-  {
-    "speech": "TEST"
-  },
-  {
-    "mucous membranes": "TEST"
-  },
-  {
-    "septum": "TEST"
-  },
-  {
-    "turbinate": "TEST"
-  },
-  {
-    "rhinorrhea": "PROBLEM"
-  },
-  {
-    "bleeding": "PROBLEM"
-  },
-  {
-    "LIPS/TEETH/GUMS": "TEST"
-  },
-  {
-    "infection": "PROBLEM"
-  },
-  {
-    "mass lesion": "PROBLEM"
-  },
-  {
-    "traumatic lesions": "PROBLEM"
-  },
-  {
-    "teeth": "TEST"
-  },
-  {
-    "gingivae": "TEST"
-  },
-  {
-    "OROPHARYNX": "TEST"
-  },
-  {
-    "oral mucosa": "TEST"
-  },
-  {
-    "salivary glands": "TEST"
-  },
-  {
-    "hard and soft palates": "TEST"
-  },
-  {
-    "tongue": "TEST"
-  },
-  {
-    "tonsils": "TEST"
-  },
-  {
-    "posterior pharynx": "TEST"
-  },
-  {
-    "mass lesion": "PROBLEM"
-  },
-  {
-    "airway": "TEST"
-  },
-  {
-    "general medicine": "TEST"
-  },
-  {
-    "oral mucosa": "TEST"
-  },
-  {
-    "lips": "TEST"
-  },
-  {
     "hearing": "TEST"
   },
   {
@@ -117,30 +9,36 @@
     "tympanic membranes": "TEST"
   },
   {
-    "traumatic lesions": "PROBLEM"
-  },
-  {
-    "mouth": "TEST"
-  },
-  {
-    "throat": "TEST"
-  },
-  {
-    "trauma": "PROBLEM"
-  },
-  {
-    "nose": "TEST"
-  },
-  {
-    "membranes": "TEST"
+    "infection": "PROBLEM"
   },
   {
     "inflammation": "PROBLEM"
   },
   {
+    "swelling": "PROBLEM"
+  },
+  {
     "infection": "PROBLEM"
   },
   {
+    "inflammation": "PROBLEM"
+  },
+  {
     "swelling": "PROBLEM"
+  },
+  {
+    "infection": "PROBLEM"
+  },
+  {
+    "inflammation": "PROBLEM"
+  },
+  {
+    "swelling": "PROBLEM"
+  },
+  {
+    "infection": "PROBLEM"
+  },
+  {
+    "inflammation": "PROBLEM"
   }
 ]

@@ -18,16 +18,13 @@
     "hepatitis C": "PROBLEM"
   },
   {
-    "NYHA Class III": "PROBLEM"
+    "PROBLEMS LIST": "TREATMENT"
   },
   {
-    "PROBLEMS LIST": "TEST"
+    "Nonischemic cardiomyopathy": "PROBLEM"
   },
   {
-    "cardiomyopathy": "PROBLEM"
-  },
-  {
-    "2": "TREATMENT"
+    "2": "TEST"
   },
   {
     "coronary artery disease": "PROBLEM"
@@ -48,13 +45,13 @@
     "nonsustained ventricular tachycardia": "PROBLEM"
   },
   {
-    "5": "TEST"
+    "5": "TREATMENT"
   },
   {
     "Hypertension": "PROBLEM"
   },
   {
-    "6": "PROBLEM"
+    "6": "TEST"
   },
   {
     "Hepatitis C": "PROBLEM"
@@ -63,13 +60,7 @@
     "CHF exacerbation": "PROBLEM"
   },
   {
-    "medications": "DRUG"
-  },
-  {
     "shortness of breath": "PROBLEM"
-  },
-  {
-    "prescriptions": "DRUG"
   },
   {
     "orthopnea": "PROBLEM"
@@ -96,9 +87,6 @@
     "nausea": "PROBLEM"
   },
   {
-    "vomiting": "PROBLEM"
-  },
-  {
     "decreased": "PROBLEM"
   },
   {
@@ -111,7 +99,7 @@
     "syncope": "PROBLEM"
   },
   {
-    "review of systems": "TEST"
+    "unremarkable": "PROBLEM"
   },
   {
     "medical history": "PROBLEM"
@@ -123,16 +111,13 @@
     "family history": "PROBLEM"
   },
   {
-    "cocaine": "DRUG"
-  },
-  {
-    "smoking": "PROBLEM"
+    "cocaine": "PROBLEM"
   },
   {
     "drug allergies": "PROBLEM"
   },
   {
-    "medications": "DRUG"
+    "medications": "PROBLEM"
   },
   {
     "medications": "DRUG"
@@ -141,22 +126,13 @@
     "prescription": "DRUG"
   },
   {
-    "Pulse 91 per minute and regular": "TEST"
+    "Pulse": "TEST"
   },
   {
-    "blood pressure 151/102 in the right arm": "TEST"
+    "blood pressure": "TEST"
   },
   {
-    "blood pressure 152/104 in the left arm": "TEST"
-  },
-  {
-    "weight 172 pounds": "TEST"
-  },
-  {
-    "6 pounds more than last visit": "PROBLEM"
-  },
-  {
-    "11/07": "TEST"
+    "weight": "TEST"
   },
   {
     "Atraumatic": "PROBLEM"
@@ -165,22 +141,13 @@
     "normocephalic": "PROBLEM"
   },
   {
-    "pallor": "PROBLEM"
-  },
-  {
     "icterus": "PROBLEM"
   },
   {
-    "cyanosis": "PROBLEM"
-  },
-  {
-    "NECK": "TEST"
+    "NECK": "PROBLEM"
   },
   {
     "Jugular venous distention": "PROBLEM"
-  },
-  {
-    "clavicle": "TEST"
   },
   {
     "thyromegaly": "PROBLEM"
@@ -204,19 +171,13 @@
     "S2": "TEST"
   },
   {
-    "S3 and S4": "TEST"
+    "S3 and S4": "PROBLEM"
   },
   {
-    "ABDOMEN": "TEST"
+    "ABDOMEN": "PROBLEM"
   },
   {
     "Liver": "PROBLEM"
-  },
-  {
-    "5 cm": "TEST"
-  },
-  {
-    "right subcostal margin": "TEST"
   },
   {
     "clubbing": "PROBLEM"
@@ -234,7 +195,7 @@
     "nonischemic cardiomyopathy": "PROBLEM"
   },
   {
-    "branch vessel coronary artery disease": "PROBLEM"
+    "coronary artery disease": "PROBLEM"
   },
   {
     "NYHA Class III": "PROBLEM"
@@ -246,13 +207,13 @@
     "Lasix": "DRUG"
   },
   {
-    "b.i.d.": "TREATMENT"
+    "b.i.d.": "TEST"
   },
   {
     "hydralazine": "DRUG"
   },
   {
-    "t.i.d.": "TREATMENT"
+    "to 100 mg t.i.d.": "TREATMENT"
   },
   {
     "Toprol": "DRUG"
@@ -267,13 +228,13 @@
     "survival advantage": "PROBLEM"
   },
   {
-    "cocaine": "DRUG"
+    "cocaine": "PROBLEM"
   },
   {
-    "cocaine": "DRUG"
+    "cocaine": "PROBLEM"
   },
   {
-    "primary care provider": "TREATMENT"
+    "primary care provider": "PROBLEM"
   },
   {
     "BMP": "TEST"
@@ -285,22 +246,13 @@
     "weight": "TEST"
   },
   {
-    "medication changes": "TREATMENT"
-  },
-  {
-    "list": "TREATMENT"
+    "medication": "TREATMENT"
   },
   {
     "hepatitis C": "PROBLEM"
   },
   {
-    "gastroenterologist": "TREATMENT"
-  },
-  {
-    "Medicaid": "DRUG"
-  },
-  {
-    "insurance": "PROBLEM"
+    "primary care provider": "PROBLEM"
   },
   {
     "fasting lipid profile": "TEST"
@@ -336,9 +288,12 @@
     "nyha class": "TEST"
   },
   {
-    "tachycardia": "PROBLEM"
+    "nonischemic": "TEST"
   },
   {
-    "orthopnea": "PROBLEM"
+    "tachycardia": "TEST"
+  },
+  {
+    "orthopnea": "TEST"
   }
 ]

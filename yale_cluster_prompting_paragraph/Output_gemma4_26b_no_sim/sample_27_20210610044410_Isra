@@ -9,7 +9,7 @@
     "robotic - Assisted laparoscopic left renal cyst decortication": "TREATMENT"
   },
   {
-    "cystoscopy": "TREATMENT"
+    "cystoscopy": "TEST"
   },
   {
     "Left renal cell carcinoma": "PROBLEM"
@@ -33,7 +33,7 @@
     "Robotic - Assisted laparoscopic left renal cyst decortication": "TREATMENT"
   },
   {
-    "cystoscopy": "TREATMENT"
+    "cystoscopy": "TEST"
   },
   {
     "left renal cell carcinoma": "PROBLEM"
@@ -60,7 +60,7 @@
     "left renal cyst decortication": "TREATMENT"
   },
   {
-    "cystoscopy": "TREATMENT"
+    "cystoscopy": "TEST"
   },
   {
     "renal cysts": "PROBLEM"
@@ -69,19 +69,16 @@
     "renal cysts": "PROBLEM"
   },
   {
-    "pathology": "TEST"
+    "flexible cystoscopy": "TEST"
   },
   {
-    "flexible cystoscopy": "TREATMENT"
+    "JP drain": "TREATMENT"
   },
   {
-    "strictures": "PROBLEM"
+    "Jackson-Pratt drain": "TREATMENT"
   },
   {
-    "lesions": "PROBLEM"
-  },
-  {
-    "infection": "PROBLEM"
+    "Foley catheter": "TREATMENT"
   },
   {
     "pain medications": "DRUG"
@@ -93,39 +90,12 @@
     "fever": "PROBLEM"
   },
   {
-    "pain": "PROBLEM"
+    "intractable pain": "PROBLEM"
   },
   {
     "nausea": "PROBLEM"
   },
   {
     "vomiting": "PROBLEM"
-  },
-  {
-    "decortication": "TREATMENT"
-  },
-  {
-    "cystoscopy": "TREATMENT"
-  },
-  {
-    "pain": "PROBLEM"
-  },
-  {
-    "nausea": "PROBLEM"
-  },
-  {
-    "vomiting": "PROBLEM"
-  },
-  {
-    "renal cyst decortication": "TREATMENT"
-  },
-  {
-    "renal cell carcinoma": "PROBLEM"
-  },
-  {
-    "nephrectomy": "TREATMENT"
-  },
-  {
-    "cysts": "PROBLEM"
   }
 ]

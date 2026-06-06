@@ -15,6 +15,9 @@
     "appetite": "PROBLEM"
   },
   {
+    "spitting up": "PROBLEM"
+  },
+  {
     "Congestion": "PROBLEM"
   },
   {
@@ -36,6 +39,9 @@
     "appetite": "PROBLEM"
   },
   {
+    "spitting up": "PROBLEM"
+  },
+  {
     "breathing": "PROBLEM"
   },
   {
@@ -45,7 +51,7 @@
     "right TM": "PROBLEM"
   },
   {
-    "Left TM": "TEST"
+    "TM": "TEST"
   },
   {
     "congested": "PROBLEM"
@@ -60,10 +66,10 @@
     "ear": "PROBLEM"
   },
   {
-    "worse": "PROBLEM"
+    "clinic": "TREATMENT"
   },
   {
-    "breathing": "PROBLEM"
+    "difficulty breathing": "PROBLEM"
   },
   {
     "congested": "PROBLEM"
@@ -72,13 +78,16 @@
     "appetite": "PROBLEM"
   },
   {
-    "temperature": "PROBLEM"
+    "temperature": "TEST"
   },
   {
-    "trouble sleeping": "PROBLEM"
+    "sleeping": "PROBLEM"
   },
   {
     "congestion": "PROBLEM"
+  },
+  {
+    "drug allergies": "PROBLEM"
   },
   {
     "Amoxil": "DRUG"
@@ -87,7 +96,13 @@
     "Aldex": "DRUG"
   },
   {
-    "normal spontaneous vaginal delivery": "TREATMENT"
+    "Woman's": "TEST"
+  },
+  {
+    "hearing screen": "TEST"
+  },
+  {
+    "IMMUNIZATIONS": "TREATMENT"
   },
   {
     "respiratory rate": "TEST"
@@ -96,10 +111,13 @@
     "congested": "PROBLEM"
   },
   {
-    "retractions": "PROBLEM"
+    "red": "PROBLEM"
   },
   {
-    "right TM": "PROBLEM"
+    "irritated": "PROBLEM"
+  },
+  {
+    "light reflex": "PROBLEM"
   },
   {
     "nasal discharge": "PROBLEM"
@@ -108,22 +126,13 @@
     "throat": "PROBLEM"
   },
   {
-    "extraocular muscles": "TEST"
+    "extraocular muscles": "PROBLEM"
   },
   {
     "tachycardic": "PROBLEM"
   },
   {
     "wheezing": "PROBLEM"
-  },
-  {
-    "Soft": "PROBLEM"
-  },
-  {
-    "nontender": "PROBLEM"
-  },
-  {
-    "nondistended": "PROBLEM"
   },
   {
     "clubbing": "PROBLEM"
@@ -153,22 +162,13 @@
     "otitis media": "PROBLEM"
   },
   {
-    "Oral": "TREATMENT"
-  },
-  {
     "Orapred": "DRUG"
-  },
-  {
-    "IV": "TREATMENT"
   },
   {
     "Rocephin": "DRUG"
   },
   {
-    "nebulizer": "TREATMENT"
-  },
-  {
-    "treatments": "TREATMENT"
+    "nebulizer treatments": "TREATMENT"
   },
   {
     "oxygen": "TREATMENT"
@@ -189,7 +189,7 @@
     "difficulty breathing": "PROBLEM"
   },
   {
-    "congested": "PROBLEM"
+    "congestion": "PROBLEM"
   },
   {
     "cough": "PROBLEM"

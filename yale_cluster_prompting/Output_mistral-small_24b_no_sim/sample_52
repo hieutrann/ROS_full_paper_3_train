@@ -1,5 +1,11 @@
 [
   {
+    "Cardiology": "PROBLEM"
+  },
+  {
+    "white male": "PROBLEM"
+  },
+  {
     "pneumonia": "PROBLEM"
   },
   {
@@ -12,7 +18,7 @@
     "cough": "PROBLEM"
   },
   {
-    "expectoration": "PROBLEM"
+    "greenish expectoration": "PROBLEM"
   },
   {
     "shortness of breath": "PROBLEM"
@@ -36,7 +42,7 @@
     "Fasting blood sugar": "TEST"
   },
   {
-    "VITAL SIGNS": "TEST"
+    "Blood pressure": "TEST"
   },
   {
     "Respirations": "TEST"
@@ -48,10 +54,16 @@
     "Weight": "TEST"
   },
   {
+    "normocephalic": "PROBLEM"
+  },
+  {
     "anemia": "PROBLEM"
   },
   {
     "jaundice": "PROBLEM"
+  },
+  {
+    "NECK": "PROBLEM"
   },
   {
     "JVP": "TEST"
@@ -63,16 +75,16 @@
     "wheezing": "PROBLEM"
   },
   {
-    "crepitations": "PROBLEM"
+    "Fine crepitations": "PROBLEM"
   },
   {
-    "CARDIOVASCULAR": "TEST"
+    "PMI": "TEST"
+  },
+  {
+    "heart sounds": "TEST"
   },
   {
     "systolic murmur": "PROBLEM"
-  },
-  {
-    "ABDOMEN": "TEST"
   },
   {
     "hepatosplenomegaly": "PROBLEM"

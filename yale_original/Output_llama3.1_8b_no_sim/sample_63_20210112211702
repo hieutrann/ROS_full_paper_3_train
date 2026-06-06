@@ -1,27 +1,30 @@
 [
   {
-    "multiple trauma": "PROBLEM"
+    "Multiple Trauma": "PROBLEM"
+  },
+  {
+    "trauma": "PROBLEM"
   },
   {
     "motor vehicle accident": "PROBLEM"
   },
   {
-    "motor vehicle accident": "PROBLEM"
-  },
-  {
-    "DISCHARGE DIAGNOSES": "PROBLEM"
+    "DISCHARGE DIAGNOSES": "TREATMENT"
   },
   {
     "surgery": "TREATMENT"
   },
   {
-    "2": "TEST"
+    "2": "TREATMENT"
   },
   {
     "Decubitus ulcer": "PROBLEM"
   },
   {
-    "3": "TEST"
+    "lower back": "PROBLEM"
+  },
+  {
+    "3": "TREATMENT"
   },
   {
     "Alcohol induced persisting dementia": "PROBLEM"
@@ -33,19 +36,22 @@
     "Anemia": "PROBLEM"
   },
   {
-    "5": "PROBLEM"
+    "5": "TEST"
   },
   {
     "Hypokalemia": "PROBLEM"
   },
   {
-    "6": "PROBLEM"
+    "6": "TEST"
   },
   {
-    "traumatic fracture": "PROBLEM"
+    "fracture": "PROBLEM"
   },
   {
-    "7": "PROBLEM"
+    "lower arm": "PROBLEM"
+  },
+  {
+    "healing": "TREATMENT"
   },
   {
     "Alcohol abuse": "PROBLEM"
@@ -57,10 +63,10 @@
     "fracture": "PROBLEM"
   },
   {
-    "9": "PROBLEM"
+    "9": "TEST"
   },
   {
-    "Open wound of the scalp": "PROBLEM"
+    "Open wound": "PROBLEM"
   },
   {
     "10": "TEST"
@@ -72,10 +78,10 @@
     "myelopathy": "PROBLEM"
   },
   {
-    "11": "PROBLEM"
+    "11": "TREATMENT"
   },
   {
-    "Episodic mood disorder": "PROBLEM"
+    "mood disorder": "PROBLEM"
   },
   {
     "12": "TEST"
@@ -84,22 +90,19 @@
     "Anxiety disorder": "PROBLEM"
   },
   {
-    "13": "PROBLEM"
-  },
-  {
     "Nervousness": "PROBLEM"
   },
   {
-    "14": "PROBLEM"
+    "14": "TEST"
   },
   {
     "Psychosis": "PROBLEM"
   },
   {
-    "15": "PROBLEM"
+    "15": "TEST"
   },
   {
-    "Generalized pain": "PROBLEM"
+    "pain": "PROBLEM"
   },
   {
     "16": "TEST"
@@ -108,22 +111,25 @@
     "Insomnia": "PROBLEM"
   },
   {
-    "17": "PROBLEM"
+    "17": "TEST"
   },
   {
-    "Pain in joint pelvic region/thigh": "PROBLEM"
+    "joint pain": "PROBLEM"
   },
   {
-    "18": "PROBLEM"
+    "pelvic pain": "PROBLEM"
   },
   {
-    "Motor vehicle traffic accident": "PROBLEM"
+    "thigh pain": "PROBLEM"
+  },
+  {
+    "18": "TEST"
+  },
+  {
+    "traffic accident": "PROBLEM"
   },
   {
     "None": "TREATMENT"
-  },
-  {
-    "Dr": "TREATMENT"
   },
   {
     "X": "PROBLEM"
@@ -132,10 +138,7 @@
     "motor vehicle accident": "PROBLEM"
   },
   {
-    "left tibial plateau fracture": "PROBLEM"
-  },
-  {
-    "right forearm fracture": "PROBLEM"
+    "tibial plateau fracture": "PROBLEM"
   },
   {
     "ORIF": "TREATMENT"
@@ -156,31 +159,37 @@
     "brace": "TREATMENT"
   },
   {
-    "confused": "PROBLEM"
+    "left leg": "PROBLEM"
   },
   {
-    "acute psychosis": "PROBLEM"
-  },
-  {
-    "thought problems": "PROBLEM"
+    "rehab": "TREATMENT"
   },
   {
     "alcohol abuse": "PROBLEM"
   },
   {
+    "psychosis": "PROBLEM"
+  },
+  {
+    "thought problems": "PROBLEM"
+  },
+  {
     "orthopedic": "PROBLEM"
   },
   {
-    "sacral decubitus ulcer": "PROBLEM"
+    "decubitus ulcer": "PROBLEM"
   },
   {
-    "wound care team": "TREATMENT"
+    "wound care": "TREATMENT"
   },
   {
     "anemia": "PROBLEM"
   },
   {
-    "iron treatment": "TREATMENT"
+    "iron": "DRUG"
+  },
+  {
+    "treatment": "TREATMENT"
   },
   {
     "therapy": "TREATMENT"
@@ -204,13 +213,16 @@
     "medications": "DRUG"
   },
   {
-    "acute alcohol rehab facility": "PROBLEM"
+    "alcohol rehab facility": "TREATMENT"
   },
   {
-    "alcohol rehab facility": "PROBLEM"
+    "psychologist": "TREATMENT"
   },
   {
-    "orthopedic followup": "TREATMENT"
+    "acute alcohol rehab facility": "TREATMENT"
+  },
+  {
+    "orthopedic": "TREATMENT"
   },
   {
     "leg brace": "TREATMENT"
@@ -220,6 +232,9 @@
   },
   {
     "therapy": "TREATMENT"
+  },
+  {
+    "physician": "TREATMENT"
   },
   {
     "patient": "PROBLEM"
@@ -249,16 +264,19 @@
     "MEDICATIONS": "TREATMENT"
   },
   {
-    "Calcium with vitamin D": "DRUG"
+    "Calcium": "DRUG"
   },
   {
-    "2": "TEST"
+    "vitamin D": "DRUG"
+  },
+  {
+    "2": "TREATMENT"
   },
   {
     "Ferrous sulfate": "DRUG"
   },
   {
-    "3": "PROBLEM"
+    "3": "TREATMENT"
   },
   {
     "Multivitamin": "DRUG"
@@ -267,7 +285,7 @@
     "4": "TEST"
   },
   {
-    "nicotine patch": "DRUG"
+    "nicotine patch": "TREATMENT"
   },
   {
     "5": "TEST"
@@ -276,13 +294,13 @@
     "Seroquel": "DRUG"
   },
   {
-    "6": "PROBLEM"
+    "6": "TEST"
   },
   {
     "Xenaderm": "DRUG"
   },
   {
-    "7": "PROBLEM"
+    "sacral pressure ulcer": "PROBLEM"
   },
   {
     "Vicodin": "DRUG"
@@ -300,19 +318,16 @@
     "anxiety": "PROBLEM"
   },
   {
-    "orthopedist": "PROBLEM"
+    "orthopedist": "TREATMENT"
   },
   {
-    "primary care physician": "PROBLEM"
+    "primary care physician": "TREATMENT"
   },
   {
     "injury": "PROBLEM"
   },
   {
     "trauma": "PROBLEM"
-  },
-  {
-    "multiple trauma": "PROBLEM"
   },
   {
     "motor vehicle accident": "PROBLEM"
@@ -324,7 +339,7 @@
     "vehicle accident": "PROBLEM"
   },
   {
-    "discharge": "TREATMENT"
+    "discharge": "TEST"
   },
   {
     "aftercare": "TREATMENT"

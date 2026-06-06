@@ -1,6 +1,9 @@
 [
   {
-    "chronic kidney disease , stage 4": "PROBLEM"
+    "chronic kidney disease": "PROBLEM"
+  },
+  {
+    "stage 4": "PROBLEM"
   },
   {
     "diabetes mellitus": "PROBLEM"
@@ -15,7 +18,10 @@
     "PTA": "TREATMENT"
   },
   {
-    "swelling of the right hand and left foot": "PROBLEM"
+    "swelling of the right hand": "PROBLEM"
+  },
+  {
+    "left foot": "PROBLEM"
   },
   {
     "swollen": "PROBLEM"
@@ -129,12 +135,6 @@
     "respirations": "TEST"
   },
   {
-    "JVD": "PROBLEM"
-  },
-  {
-    "adenopathy": "PROBLEM"
-  },
-  {
     "pretibial edema": "PROBLEM"
   },
   {
@@ -196,9 +196,6 @@
   },
   {
     "Acute gouty attack": "PROBLEM"
-  },
-  {
-    "Hypercholesterolemia": "PROBLEM"
   },
   {
     "allopurinol": "DRUG"

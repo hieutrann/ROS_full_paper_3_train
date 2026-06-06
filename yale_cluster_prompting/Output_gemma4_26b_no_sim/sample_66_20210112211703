@@ -24,7 +24,7 @@
     "cellulitis": "PROBLEM"
   },
   {
-    "oral Bactrim": "DRUG"
+    "Bactrim": "DRUG"
   },
   {
     "ciprofloxacin": "DRUG"
@@ -69,7 +69,7 @@
     "cholecystectomy": "TREATMENT"
   },
   {
-    "recreational drugs": "DRUG"
+    "smoking": "PROBLEM"
   },
   {
     "heart problems": "PROBLEM"
@@ -87,7 +87,7 @@
     "ADHESIVE TAPE ALLERGIES": "PROBLEM"
   },
   {
-    "nonresolving bilateral lower extremity lymphedema": "PROBLEM"
+    "bilateral lower extremity lymphedema": "PROBLEM"
   },
   {
     "nausea": "PROBLEM"
@@ -123,25 +123,31 @@
     "morbidly obese": "PROBLEM"
   },
   {
-    "temperature": "TEST"
+    "Pupils": "TEST"
   },
   {
-    "pulse": "TEST"
+    "Extraocular movements": "TEST"
   },
   {
-    "respiratory rate": "TEST"
-  },
-  {
-    "blood pressure": "TEST"
-  },
-  {
-    "weight": "TEST"
+    "external ear exam": "TEST"
   },
   {
     "lymphadenopathy": "PROBLEM"
   },
   {
+    "murmur": "PROBLEM"
+  },
+  {
+    "rub": "PROBLEM"
+  },
+  {
+    "gallop": "PROBLEM"
+  },
+  {
     "Heart sounds": "TEST"
+  },
+  {
+    "Lungs": "TEST"
   },
   {
     "Morbidly obese": "PROBLEM"
@@ -159,19 +165,13 @@
     "lymphadenopathy": "PROBLEM"
   },
   {
-    "extensive lymphedema": "PROBLEM"
+    "lymphedema": "PROBLEM"
   },
   {
     "pinkish discoloration": "PROBLEM"
   },
   {
     "stasis dermatosis": "PROBLEM"
-  },
-  {
-    "warmth": "PROBLEM"
-  },
-  {
-    "tenderness": "PROBLEM"
   },
   {
     "skin breakdown": "PROBLEM"
@@ -273,13 +273,13 @@
     "bilateral lower extremity lymphedema": "PROBLEM"
   },
   {
-    "active cellulitis": "PROBLEM"
+    "cellulitis": "PROBLEM"
   },
   {
     "wound infection": "PROBLEM"
   },
   {
-    "active cellulitis": "PROBLEM"
+    "cellulitis": "PROBLEM"
   },
   {
     "antibiotic therapy": "TREATMENT"
@@ -298,9 +298,6 @@
   },
   {
     "stage II ulcer": "PROBLEM"
-  },
-  {
-    "right leg": "PROBLEM"
   },
   {
     "wound care": "TREATMENT"

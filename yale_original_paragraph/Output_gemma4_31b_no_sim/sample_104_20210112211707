@@ -15,33 +15,6 @@
     "pneumonia": "PROBLEM"
   },
   {
-    "rapid sepsis": "PROBLEM"
-  },
-  {
-    "respiratory failure": "PROBLEM"
-  },
-  {
-    "intubation": "TREATMENT"
-  },
-  {
-    "Disseminated intravascular coagulation": "PROBLEM"
-  },
-  {
-    "Streptococcal pneumonia with sepsis": "PROBLEM"
-  },
-  {
-    "respiratory failure": "PROBLEM"
-  },
-  {
-    "intubated": "TREATMENT"
-  },
-  {
-    "pneumonia": "PROBLEM"
-  },
-  {
-    "rapid sepsis": "PROBLEM"
-  },
-  {
     "respiratory failure": "PROBLEM"
   },
   {
@@ -78,9 +51,6 @@
     "coagulopathy": "PROBLEM"
   },
   {
-    "intubated": "TREATMENT"
-  },
-  {
     "conjunctival hemorrhage": "PROBLEM"
   },
   {
@@ -88,9 +58,6 @@
   },
   {
     "ET tube": "TREATMENT"
-  },
-  {
-    "jugular venous pressure distention": "PROBLEM"
   },
   {
     "Coarse breath sounds": "PROBLEM"
@@ -160,9 +127,6 @@
   },
   {
     "infusion": "TREATMENT"
-  },
-  {
-    "supportive infusions": "TREATMENT"
   },
   {
     "laboratory studies": "TEST"

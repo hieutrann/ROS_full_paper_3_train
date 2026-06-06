@@ -9,6 +9,9 @@
     "Innocent heart murmur": "PROBLEM"
   },
   {
+    "DIAGNOSES": "TEST"
+  },
+  {
     "Bronchiolitis": "PROBLEM"
   },
   {
@@ -24,7 +27,7 @@
     "RSV": "TEST"
   },
   {
-    "acute bronchiolitis": "PROBLEM"
+    "bronchiolitis": "PROBLEM"
   },
   {
     "RSV bronchiolitis": "PROBLEM"
@@ -51,10 +54,13 @@
     "heart": "PROBLEM"
   },
   {
+    "complications": "PROBLEM"
+  },
+  {
     "tachypnea": "PROBLEM"
   },
   {
-    "increased retractions": "PROBLEM"
+    "retractions": "PROBLEM"
   },
   {
     "grunting": "PROBLEM"
@@ -63,13 +69,19 @@
     "nasal flaring": "PROBLEM"
   },
   {
-    "albuterol": "DRUG"
+    "albuterol MDI": "DRUG"
   },
   {
-    "respiratory distress": "PROBLEM"
+    "doses": "DRUG"
   },
   {
-    "afebrile": "TEST"
+    "VITAL SIGNS": "TEST"
+  },
+  {
+    "Vital signs": "TEST"
+  },
+  {
+    "sleeping": "PROBLEM"
   },
   {
     "fontanelle": "PROBLEM"
@@ -84,10 +96,7 @@
     "femoral pulses": "TEST"
   },
   {
-    "extremities": "TEST"
-  },
-  {
-    "lungs": "PROBLEM"
+    "coarseness": "PROBLEM"
   },
   {
     "wheezes": "PROBLEM"
@@ -105,7 +114,13 @@
     "Tanner I": "PROBLEM"
   },
   {
-    "weight": "PROBLEM"
+    "DISCHARGE WEIGHT": "TEST"
+  },
+  {
+    "smoke": "PROBLEM"
+  },
+  {
+    "infants": "PROBLEM"
   },
   {
     "Regular diet": "TREATMENT"
@@ -114,7 +129,7 @@
     "breast-feeding": "TREATMENT"
   },
   {
-    "albuterol": "DRUG"
+    "albuterol MDI": "DRUG"
   },
   {
     "cough": "PROBLEM"
@@ -126,10 +141,19 @@
     "dyspnea": "PROBLEM"
   },
   {
+    "bulb suctioning": "TREATMENT"
+  },
+  {
+    "saline": "DRUG"
+  },
+  {
     "difficulty breathing": "PROBLEM"
   },
   {
-    "breathing": "PROBLEM"
+    "stops breathing": "PROBLEM"
+  },
+  {
+    "discharge summary": "TEST"
   },
   {
     "bronchiolitis": "PROBLEM"

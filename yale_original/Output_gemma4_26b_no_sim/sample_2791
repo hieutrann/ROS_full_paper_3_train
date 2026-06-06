@@ -69,13 +69,10 @@
     "adenopathy": "PROBLEM"
   },
   {
-    "HEART": "TEST"
+    "Irregularly regular": "PROBLEM"
   },
   {
     "bowel sounds": "TEST"
-  },
-  {
-    "masses": "PROBLEM"
   },
   {
     "organomegaly": "PROBLEM"
@@ -90,9 +87,6 @@
     "erosive gastritis": "PROBLEM"
   },
   {
-    "Colonoscopy": "TEST"
-  },
-  {
     "diverticulosis": "PROBLEM"
   },
   {
@@ -102,10 +96,13 @@
     "resected": "TREATMENT"
   },
   {
+    "transfused": "TREATMENT"
+  },
+  {
     "hemoglobin": "TEST"
   },
   {
-    "GI complaints": "PROBLEM"
+    "Coumadin": "DRUG"
   },
   {
     "Coumadin": "DRUG"
@@ -160,6 +157,9 @@
   },
   {
     "lisinopril": "DRUG"
+  },
+  {
+    "1800-calorie ADA": "TREATMENT"
   },
   {
     "Coumadin": "DRUG"

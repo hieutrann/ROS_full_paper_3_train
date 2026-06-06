@@ -1,0 +1,47 @@
+[
+  {
+    "Outpatient Rehabilitation Department": "TREATMENT"
+  },
+  {
+    "speech therapy": "TREATMENT"
+  },
+  {
+    "skilled speech therapy": "TREATMENT"
+  },
+  {
+    "swallowing function": "PROBLEM"
+  },
+  {
+    "swallowing": "PROBLEM"
+  },
+  {
+    "aspiration": "PROBLEM"
+  },
+  {
+    "G-tube": "DRUG"
+  },
+  {
+    "Western Aphasia Battery": "TEST"
+  },
+  {
+    "aphasia quotient": "TEST"
+  },
+  {
+    "modified barium swallow study": "TEST"
+  },
+  {
+    "aphasia": "PROBLEM"
+  },
+  {
+    "language evaluation": "TEST"
+  },
+  {
+    "speech generating device": "TREATMENT"
+  },
+  {
+    "speech": "PROBLEM"
+  },
+  {
+    "communication": "PROBLEM"
+  }
+]

@@ -12,9 +12,6 @@
     "fever": "PROBLEM"
   },
   {
-    "spitting up": "PROBLEM"
-  },
-  {
     "Congestion": "PROBLEM"
   },
   {
@@ -33,25 +30,13 @@
     "fever": "PROBLEM"
   },
   {
-    "spitting up": "PROBLEM"
-  },
-  {
     "difficulty breathing": "PROBLEM"
   },
   {
     "cough": "PROBLEM"
   },
   {
-    "dry and hacky": "PROBLEM"
-  },
-  {
-    "physical exam": "TEST"
-  },
-  {
-    "right TM": "PROBLEM"
-  },
-  {
-    "red": "PROBLEM"
+    "TM": "PROBLEM"
   },
   {
     "congested": "PROBLEM"
@@ -75,7 +60,7 @@
     "appetite had decreased": "PROBLEM"
   },
   {
-    "temperature": "TEST"
+    "temperature": "PROBLEM"
   },
   {
     "trouble sleeping": "PROBLEM"
@@ -90,25 +75,13 @@
     "Aldex": "DRUG"
   },
   {
-    "normal spontaneous vaginal delivery": "TREATMENT"
-  },
-  {
     "hearing screen": "TEST"
-  },
-  {
-    "VITAL SIGNS": "TEST"
   },
   {
     "respiratory rate": "TEST"
   },
   {
     "congested": "PROBLEM"
-  },
-  {
-    "retractions": "PROBLEM"
-  },
-  {
-    "right TM": "PROBLEM"
   },
   {
     "red": "PROBLEM"
@@ -123,7 +96,7 @@
     "nasal discharge": "PROBLEM"
   },
   {
-    "CARDIOVASCULAR EXAM": "TEST"
+    "range of motion": "TEST"
   },
   {
     "tachycardic": "PROBLEM"

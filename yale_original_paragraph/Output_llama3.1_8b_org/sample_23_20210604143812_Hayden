@@ -1,1 +1,1 @@
-['[\n  {"aphasia": "PROBLEM"},\n  {"g-tube": "PROBLEM"},\n  {"speech therapy": "TREATMENT"},\n  {"Western Aphasia Battery": "TEST"},\n  {"modified barium swallow study": "TEST"},\n  {"yes-no responses": "TEST"},\n  {"named objects": "TEST"},\n  {"basic wants and needs": "TEST"},\n  {"aphasia quotient": "TEST"}\n]']
+['[\n  {"aphasia": "PROBLEM"},\n  {"g-tube": "TREATMENT"},\n  {"Western Aphasia Battery": "TEST"},\n  {"speech therapy": "TREATMENT"},\n  {"aspiration": "PROBLEM"},\n  {"speech": "PROBLEM"},\n  {"communication": "PROBLEM"}\n]']

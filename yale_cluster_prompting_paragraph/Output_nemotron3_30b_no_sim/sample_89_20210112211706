@@ -1,0 +1,53 @@
+[
+  {
+    "coronary artery disease": "PROBLEM"
+  },
+  {
+    "prior bypass surgery": "PROBLEM"
+  },
+  {
+    "elevated PSA": "PROBLEM"
+  },
+  {
+    "BPH": "PROBLEM"
+  },
+  {
+    "urinary tract infection": "PROBLEM"
+  },
+  {
+    "antibiotic": "TREATMENT"
+  },
+  {
+    "fatigue": "PROBLEM"
+  },
+  {
+    "tiredness": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "diabetes mellitus": "PROBLEM"
+  },
+  {
+    "cholesterol": "PROBLEM"
+  },
+  {
+    "artery": "PROBLEM"
+  },
+  {
+    "infection": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "cad": "PROBLEM"
+  },
+  {
+    "coronary": "PROBLEM"
+  }
+]

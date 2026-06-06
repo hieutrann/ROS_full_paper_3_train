@@ -6,22 +6,22 @@
     "renal cyst": "PROBLEM"
   },
   {
+    "cystoscopy": "TEST"
+  },
+  {
     "laparoscopic left renal cyst decortication": "TREATMENT"
   },
   {
-    "cystoscopy": "TREATMENT"
+    "renal cell carcinoma": "PROBLEM"
   },
   {
-    "Left renal cell carcinoma": "PROBLEM"
+    "renal cyst": "PROBLEM"
   },
   {
-    "Left renal cyst": "PROBLEM"
+    "renal cell carcinoma": "PROBLEM"
   },
   {
-    "Left renal cell carcinoma": "PROBLEM"
-  },
-  {
-    "Left renal cyst": "PROBLEM"
+    "renal cyst": "PROBLEM"
   },
   {
     "SECONDARY DIAGNOSES": "PROBLEM"
@@ -30,19 +30,13 @@
     "Chronic obstructive pulmonary disease": "PROBLEM"
   },
   {
-    "2": "TEST"
-  },
-  {
     "Coronary artery disease": "PROBLEM"
   },
   {
-    "Robotic - Assisted laparoscopic left renal cyst decortication": "TREATMENT"
+    "laparoscopic left renal cyst decortication": "TREATMENT"
   },
   {
     "cystoscopy": "TREATMENT"
-  },
-  {
-    "Mr.": "PROBLEM"
   },
   {
     "renal cell carcinoma": "PROBLEM"
@@ -63,19 +57,13 @@
     "kidney": "TEST"
   },
   {
-    "mass": "PROBLEM"
+    "renal cell carcinoma": "PROBLEM"
   },
   {
     "MRI": "TEST"
   },
   {
-    "management strategies": "TREATMENT"
-  },
-  {
-    "Left partial nephrectomy": "TREATMENT"
-  },
-  {
-    "2": "TEST"
+    "nephrectomy": "TREATMENT"
   },
   {
     "nephrectomy": "TREATMENT"
@@ -93,7 +81,7 @@
     "cystoscopy": "TEST"
   },
   {
-    "enlarged renal cysts": "PROBLEM"
+    "left renal cyst decortication": "TREATMENT"
   },
   {
     "renal cysts": "PROBLEM"
@@ -105,9 +93,6 @@
     "dissection": "TREATMENT"
   },
   {
-    "cyst": "PROBLEM"
-  },
-  {
     "pathology": "TEST"
   },
   {
@@ -117,13 +102,10 @@
     "procedure": "TREATMENT"
   },
   {
-    "renal bed": "PROBLEM"
-  },
-  {
     "hemostasis": "PROBLEM"
   },
   {
-    "complications": "PROBLEM"
+    "procedure": "TREATMENT"
   },
   {
     "JP drain": "TREATMENT"
@@ -135,6 +117,9 @@
     "strictures": "PROBLEM"
   },
   {
+    "abnormalities": "PROBLEM"
+  },
+  {
     "penile urethra": "PROBLEM"
   },
   {
@@ -144,19 +129,19 @@
     "bladder": "PROBLEM"
   },
   {
-    "OR": "TEST"
+    "OR": "TREATMENT"
   },
   {
-    "PACU": "TEST"
+    "PACU": "TREATMENT"
   },
   {
-    "hospital floor": "TEST"
+    "hospital floor": "TREATMENT"
   },
   {
-    "diet": "PROBLEM"
+    "diet": "TREATMENT"
   },
   {
-    "activity": "PROBLEM"
+    "activity": "TREATMENT"
   },
   {
     "flatus": "PROBLEM"
@@ -174,16 +159,13 @@
     "voiding trial": "TEST"
   },
   {
-    "afebrile": "TEST"
+    "afebrile": "PROBLEM"
   },
   {
     "infection": "PROBLEM"
   },
   {
-    "Dr.": "PROBLEM"
-  },
-  {
-    "XYZ": "PROBLEM"
+    "Dr.": "TREATMENT"
   },
   {
     "pain medications": "DRUG"
@@ -195,10 +177,13 @@
     "home": "TREATMENT"
   },
   {
-    "DISCHARGE CONDITION": "PROBLEM"
+    "Good": "PROBLEM"
   },
   {
     "MEDICATIONS": "DRUG"
+  },
+  {
+    "Dr.": "TREATMENT"
   },
   {
     "fever": "PROBLEM"
@@ -219,19 +204,25 @@
     "postoperative check": "TEST"
   },
   {
-    "renal cell carcinoma": "PROBLEM"
-  },
-  {
     "renal cyst decortication": "TREATMENT"
   },
   {
     "cystoscopy": "TEST"
   },
   {
-    "nephrectomy": "TREATMENT"
+    "renal cell carcinoma": "PROBLEM"
   },
   {
     "renal cyst": "PROBLEM"
+  },
+  {
+    "nephrectomy": "TREATMENT"
+  },
+  {
+    "renal": "PROBLEM"
+  },
+  {
+    "carcinoma": "PROBLEM"
   },
   {
     "cysts": "PROBLEM"
@@ -240,30 +231,24 @@
     "cell": "PROBLEM"
   },
   {
-    "carcinoma": "PROBLEM"
+    "decortication": "TREATMENT"
+  },
+  {
+    "laparoscopic": "TREATMENT"
+  },
+  {
+    "robotic assisted": "TREATMENT"
   },
   {
     "discharge": "PROBLEM"
   },
   {
-    "decortication": "TREATMENT"
-  },
-  {
-    "laparoscopic": "TEST"
-  },
-  {
-    "robotic": "TEST"
-  },
-  {
-    "renal": "PROBLEM"
+    "pain": "PROBLEM"
   },
   {
     "nausea": "PROBLEM"
   },
   {
     "vomiting": "PROBLEM"
-  },
-  {
-    "pain": "PROBLEM"
   }
 ]

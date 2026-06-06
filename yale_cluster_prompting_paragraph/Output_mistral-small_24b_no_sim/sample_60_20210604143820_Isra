@@ -9,6 +9,9 @@
     "pertussis": "PROBLEM"
   },
   {
+    "respiratory symptoms": "PROBLEM"
+  },
+  {
     "cough": "PROBLEM"
   },
   {
@@ -24,40 +27,16 @@
     "Rocephin": "DRUG"
   },
   {
-    "sats": "TEST"
-  },
-  {
     "CBC": "TEST"
-  },
-  {
-    "white count": "TEST"
-  },
-  {
-    "differential": "TEST"
-  },
-  {
-    "hemoglobin": "TEST"
-  },
-  {
-    "hematocrit": "TEST"
-  },
-  {
-    "platelets": "TEST"
-  },
-  {
-    "BMP": "TEST"
   },
   {
     "x-ray": "TEST"
   },
   {
-    "infiltrate": "TEST"
+    "rapid influenza swab": "TEST"
   },
   {
-    "influenza swab": "TEST"
-  },
-  {
-    "RSV": "TEST"
+    "rapid RSV": "TEST"
   },
   {
     "pertussis PCR swab": "TEST"
@@ -67,8 +46,5 @@
   },
   {
     "Zithromax": "DRUG"
-  },
-  {
-    "cyanosis": "PROBLEM"
   }
 ]

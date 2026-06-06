@@ -27,7 +27,7 @@
     "Disseminated intravascular coagulation": "PROBLEM"
   },
   {
-    "2": "TEST"
+    "2": "TREATMENT"
   },
   {
     "Streptococcal pneumonia": "PROBLEM"
@@ -48,6 +48,9 @@
     "respiratory failure": "PROBLEM"
   },
   {
+    "intubation": "TREATMENT"
+  },
+  {
     "disseminated intravascular coagulation": "PROBLEM"
   },
   {
@@ -57,10 +60,13 @@
     "prothrombin time": "TEST"
   },
   {
-    "low fibrinogen": "PROBLEM"
+    "fibrinogen": "TEST"
   },
   {
-    "elevated D-dimer": "TEST"
+    "D-dimer": "TEST"
+  },
+  {
+    "mechanical ventilation": "TREATMENT"
   },
   {
     "treatment": "TREATMENT"
@@ -87,28 +93,19 @@
     "illicit drugs": "PROBLEM"
   },
   {
-    "FAMILY HISTORY": "PROBLEM"
+    "FAMILY HISTORY": "TREATMENT"
   },
   {
-    "REVIEW OF SYSTEMS": "TEST"
+    "Not otherwise pertinent": "PROBLEM"
   },
   {
-    "sedated": "PROBLEM"
-  },
-  {
-    "young": "PROBLEM"
-  },
-  {
-    "black": "PROBLEM"
-  },
-  {
-    "female": "PROBLEM"
+    "young black female": "PROBLEM"
   },
   {
     "acute distress": "PROBLEM"
   },
   {
-    "intubated": "PROBLEM"
+    "intubated": "TREATMENT"
   },
   {
     "rate": "TEST"
@@ -129,25 +126,28 @@
     "nasal vestibules": "PROBLEM"
   },
   {
-    "ET tube": "TEST"
+    "ET tube": "TREATMENT"
   },
   {
     "jugular venous pressure distention": "PROBLEM"
   },
   {
-    "breath sounds": "TEST"
+    "breath sounds": "PROBLEM"
   },
   {
-    "HEART": "TEST"
+    "Regular rate and rhythm": "TEST"
   },
   {
-    "ABDOMEN": "PROBLEM"
+    "bowel sounds": "TEST"
   },
   {
     "central line": "PROBLEM"
   },
   {
     "cyanosis": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
   },
   {
     "arterial blood flow": "PROBLEM"
@@ -168,13 +168,13 @@
     "D-dimer": "TEST"
   },
   {
-    "disseminated intravascular coagulation": "PROBLEM"
+    "pneumococcal disease": "PROBLEM"
   },
   {
     "sepsis": "PROBLEM"
   },
   {
-    "pneumococcal disease": "PROBLEM"
+    "disseminated intravascular coagulation": "PROBLEM"
   },
   {
     "factor replacement": "TREATMENT"
@@ -192,19 +192,22 @@
     "fibrinogen": "TEST"
   },
   {
+    "heparin": "DRUG"
+  },
+  {
     "coagulation times": "TEST"
   },
   {
     "heparin": "DRUG"
   },
   {
-    "infusions": "TREATMENT"
+    "consumption of coagulation routines": "PROBLEM"
+  },
+  {
+    "supportive infusions": "TREATMENT"
   },
   {
     "laboratory studies": "TEST"
-  },
-  {
-    "disseminated intravascular coagulation": "PROBLEM"
   },
   {
     "pneumonia": "PROBLEM"
@@ -214,6 +217,9 @@
   },
   {
     "prothrombin time": "TEST"
+  },
+  {
+    "disseminated intravascular coagulation": "PROBLEM"
   },
   {
     "streptococcal pneumonia": "PROBLEM"
@@ -231,6 +237,6 @@
     "sepsis": "PROBLEM"
   },
   {
-    "disseminated": "PROBLEM"
+    "infusion": "TREATMENT"
   }
 ]

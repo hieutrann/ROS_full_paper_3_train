@@ -63,7 +63,7 @@
     "hysterectomy": "TREATMENT"
   },
   {
-    "grade 4 bladder prolapse": "PROBLEM"
+    "bladder prolapse": "PROBLEM"
   },
   {
     "MACRODANTIN": "DRUG"
@@ -75,19 +75,22 @@
     "shortness of breath": "PROBLEM"
   },
   {
-    "palpable fullness or mass": "PROBLEM"
+    "temperature": "TEST"
+  },
+  {
+    "tender in the left lower quadrant": "PROBLEM"
+  },
+  {
+    "mass": "PROBLEM"
   },
   {
     "rebound tenderness": "PROBLEM"
   },
   {
-    "CVA or flank tenderness": "PROBLEM"
+    "flank tenderness": "PROBLEM"
   },
   {
-    "left flank tenderness": "PROBLEM"
-  },
-  {
-    "grade 4 urinary bladder prolapse": "PROBLEM"
+    "urinary bladder prolapse": "PROBLEM"
   },
   {
     "White blood cell count": "TEST"
@@ -126,15 +129,9 @@
     "CT scan of the abdomen and pelvis": "TEST"
   },
   {
+    "nothing by mouth": "TREATMENT"
+  },
+  {
     "colonoscopy": "TEST"
-  },
-  {
-    "abdominal pain": "PROBLEM"
-  },
-  {
-    "sigmoid diverticulitis": "PROBLEM"
-  },
-  {
-    "tenderness": "PROBLEM"
   }
 ]

@@ -42,28 +42,10 @@
     "right hip fracture": "PROBLEM"
   },
   {
-    "fall": "PROBLEM"
-  },
-  {
     "TAH/BSO": "TREATMENT"
   },
   {
     "alcohol abuse": "PROBLEM"
-  },
-  {
-    "VITAL SIGNS": "TEST"
-  },
-  {
-    "Temp 98.3": "TEST"
-  },
-  {
-    "heart rate 82": "TEST"
-  },
-  {
-    "respiratory rate 24": "TEST"
-  },
-  {
-    "blood pressure 141/70": "TEST"
   },
   {
     "obtunded": "PROBLEM"
@@ -72,13 +54,10 @@
     "Bilaterally diminished": "PROBLEM"
   },
   {
-    "LABORATORY STUDIES": "TEST"
-  },
-  {
     "white blood cell count": "TEST"
   },
   {
-    "Elevated AST": "TEST"
+    "AST": "TEST"
   },
   {
     "ALT": "TEST"
@@ -106,9 +85,6 @@
   },
   {
     "CT scan": "TEST"
-  },
-  {
-    "physical examination": "TEST"
   },
   {
     "intra-abdominal pathology": "PROBLEM"

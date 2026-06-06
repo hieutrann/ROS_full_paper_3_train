@@ -36,10 +36,7 @@
     "interbody": "TREATMENT"
   },
   {
-    "posterolateral": "TREATMENT"
-  },
-  {
-    "arthrodesis": "TREATMENT"
+    "posterolateral arthrodesis": "TREATMENT"
   },
   {
     "cages": "TREATMENT"
@@ -54,16 +51,10 @@
     "pedicle fixation": "TREATMENT"
   },
   {
-    "back": "PROBLEM"
+    "back, buttock, and bilateral leg pain": "PROBLEM"
   },
   {
-    "buttock": "PROBLEM"
-  },
-  {
-    "leg": "PROBLEM"
-  },
-  {
-    "bilateral pars defects": "PROBLEM"
+    "pars defects": "PROBLEM"
   },
   {
     "spondylolysis": "PROBLEM"
@@ -78,7 +69,7 @@
     "afebrile": "PROBLEM"
   },
   {
-    "medications": "DRUG"
+    "pain": "PROBLEM"
   },
   {
     "chronic pain syndrome": "PROBLEM"

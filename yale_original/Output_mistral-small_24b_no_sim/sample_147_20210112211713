@@ -3,19 +3,19 @@
     "Air Under Diaphragm": "PROBLEM"
   },
   {
-    "shortness of breath": "PROBLEM"
+    "chest x-ray": "TEST"
   },
   {
-    "chest x-ray": "TEST"
+    "shortness of breath": "PROBLEM"
   },
   {
     "free air under the right diaphragm": "PROBLEM"
   },
   {
-    "intra-abdominal pathology": "PROBLEM"
+    "free air under the diaphragm": "PROBLEM"
   },
   {
-    "free air under the diaphragm": "PROBLEM"
+    "female": "PROBLEM"
   },
   {
     "Ativan": "DRUG"
@@ -24,13 +24,13 @@
     "obtunded": "PROBLEM"
   },
   {
-    "shortness of breath": "PROBLEM"
-  },
-  {
     "chest x-ray": "TEST"
   },
   {
-    "free air under the right diaphragm": "PROBLEM"
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "free air": "PROBLEM"
   },
   {
     "alcohol abuse": "PROBLEM"
@@ -43,9 +43,6 @@
   },
   {
     "right hip fracture": "PROBLEM"
-  },
-  {
-    "fall": "PROBLEM"
   },
   {
     "TAH/BSO": "TREATMENT"
@@ -69,13 +66,7 @@
     "obtunded": "PROBLEM"
   },
   {
-    "NECK": "TEST"
-  },
-  {
     "LUNGS": "PROBLEM"
-  },
-  {
-    "Bilaterally diminished": "PROBLEM"
   },
   {
     "HEART": "PROBLEM"
@@ -111,7 +102,7 @@
     "X-ray": "TEST"
   },
   {
-    "chest": "PROBLEM"
+    "chest": "TEST"
   },
   {
     "CT scan": "TEST"
@@ -126,16 +117,25 @@
     "diaphragm": "PROBLEM"
   },
   {
-    "colon": "PROBLEM"
+    "colonic air": "PROBLEM"
   },
   {
-    "liver": "PROBLEM"
+    "dome of the diaphragm": "PROBLEM"
+  },
+  {
+    "dome of the liver": "PROBLEM"
   },
   {
     "intra-abdominal pathology": "PROBLEM"
   },
   {
     "hyponatremia": "PROBLEM"
+  },
+  {
+    "treatment": "TREATMENT"
+  },
+  {
+    "general medicine": "TEST"
   },
   {
     "free air": "PROBLEM"

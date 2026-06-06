@@ -9,7 +9,7 @@
     "Laparoscopic cholecystectomy": "TREATMENT"
   },
   {
-    "laparoscopy": "TREATMENT"
+    "laparoscopy": "TEST"
   },
   {
     "open common bile duct exploration": "TREATMENT"
@@ -48,13 +48,13 @@
     "Morbid obesity": "PROBLEM"
   },
   {
-    "bmi": "TEST"
+    "bmi of 39.4": "PROBLEM"
   },
   {
     "Laparoscopic cholecystectomy": "TREATMENT"
   },
   {
-    "laparoscopy": "TREATMENT"
+    "laparoscopy": "TEST"
   },
   {
     "open common bile duct exploration": "TREATMENT"
@@ -63,7 +63,7 @@
     "stone extraction": "TREATMENT"
   },
   {
-    "elevated bilirubin": "TEST"
+    "elevated bilirubin": "PROBLEM"
   },
   {
     "common bile duct stone": "PROBLEM"
@@ -72,7 +72,7 @@
     "abdominal pain": "PROBLEM"
   },
   {
-    "elevated bilirubin": "TEST"
+    "elevated bilirubin": "PROBLEM"
   },
   {
     "gallstones": "PROBLEM"
@@ -132,25 +132,22 @@
     "A Jackson-Pratt drain": "TREATMENT"
   },
   {
+    "serosanguineous fluid": "PROBLEM"
+  },
+  {
     "White blood cell count": "TEST"
   },
   {
     "bilirubin": "TEST"
   },
   {
-    "liquid diet": "TREATMENT"
+    "a liquid diet": "TREATMENT"
   },
   {
     "Foley catheter": "TREATMENT"
   },
   {
     "bile leak": "PROBLEM"
-  },
-  {
-    "drains": "TREATMENT"
-  },
-  {
-    "regular diet": "TREATMENT"
   },
   {
     "afebrile": "PROBLEM"
@@ -169,12 +166,6 @@
   },
   {
     "Jackson-Pratt drain": "TREATMENT"
-  },
-  {
-    "cystic duct": "PROBLEM"
-  },
-  {
-    "laboratory studies": "TEST"
   },
   {
     "bilirubin": "TEST"
@@ -201,13 +192,16 @@
     "pain": "PROBLEM"
   },
   {
-    "laparoscopy": "TREATMENT"
+    "laparoscopy": "TEST"
   },
   {
     "common bile duct exploration": "TREATMENT"
   },
   {
     "laparoscopic cholecystectomy": "TREATMENT"
+  },
+  {
+    "bile duct": "PROBLEM"
   },
   {
     "choledocholithiasis": "PROBLEM"
@@ -217,6 +211,9 @@
   },
   {
     "cholecystitis": "PROBLEM"
+  },
+  {
+    "laparoscopic": "TEST"
   },
   {
     "hernia": "PROBLEM"

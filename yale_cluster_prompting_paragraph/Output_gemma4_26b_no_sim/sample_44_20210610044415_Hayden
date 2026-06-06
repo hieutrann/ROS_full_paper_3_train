@@ -1,6 +1,6 @@
 [
   {
-    "total vaginal hysterectomy": "TREATMENT"
+    "Total vaginal hysterectomy": "TREATMENT"
   },
   {
     "Microinvasive carcinoma of the cervix": "PROBLEM"
@@ -18,7 +18,10 @@
     "tubal ligation": "TREATMENT"
   },
   {
-    "abnormal Pap smear": "TEST"
+    "abnormal Pap smear": "PROBLEM"
+  },
+  {
+    "Pap smear": "TEST"
   },
   {
     "Biopsy": "TEST"
@@ -48,7 +51,7 @@
     "hemoglobin": "TEST"
   },
   {
-    "total vaginal hysterectomy": "TREATMENT"
+    "total vaginal hysterexy": "TREATMENT"
   },
   {
     "general anesthesia": "TREATMENT"
@@ -84,6 +87,12 @@
     "hysterectomy": "TREATMENT"
   },
   {
-    "microinvasive carcinoma": "PROBLEM"
+    "microinvasive": "PROBLEM"
+  },
+  {
+    "carcinoma": "PROBLEM"
+  },
+  {
+    "cervix": "PROBLEM"
   }
 ]

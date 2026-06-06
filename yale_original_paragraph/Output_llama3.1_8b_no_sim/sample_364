@@ -1,8 +1,5 @@
 [
   {
-    "midchest pain": "PROBLEM"
-  },
-  {
     "rheumatoid arthritis": "PROBLEM"
   },
   {
@@ -10,6 +7,9 @@
   },
   {
     "osteoporosis": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
   },
   {
     "methotrexate": "DRUG"
@@ -42,39 +42,21 @@
     "Pap smear": "TEST"
   },
   {
-    "breast exam": "TEST"
-  },
-  {
-    "EKG": "TEST"
+    "mammogram": "TEST"
   },
   {
     "DEXA": "TEST"
   },
   {
-    "mammogram": "TEST"
+    "ECG": "TEST"
   },
   {
-    "incision": "TREATMENT"
+    "breast exam": "TEST"
   },
   {
-    "drainage": "TREATMENT"
+    "physical exam": "TEST"
   },
   {
-    "methotrexate": "TREATMENT"
-  },
-  {
-    "Synthroid": "TREATMENT"
-  },
-  {
-    "calcium": "TREATMENT"
-  },
-  {
-    "multivitamin": "TREATMENT"
-  },
-  {
-    "baby aspirin": "TREATMENT"
-  },
-  {
-    "Colace": "TREATMENT"
+    "complete physical": "TEST"
   }
 ]

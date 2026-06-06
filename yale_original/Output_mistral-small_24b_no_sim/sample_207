@@ -9,6 +9,9 @@
     "shortness of breath": "PROBLEM"
   },
   {
+    "gestation": "PROBLEM"
+  },
+  {
     "prematurity": "PROBLEM"
   },
   {
@@ -21,7 +24,7 @@
     "shortness of breath": "PROBLEM"
   },
   {
-    "inhaled steroids": "DRUG"
+    "steroids": "DRUG"
   },
   {
     "bronchodilator": "DRUG"
@@ -48,16 +51,25 @@
     "childhood asthma": "PROBLEM"
   },
   {
+    "hospitalization": "TREATMENT"
+  },
+  {
     "steroids": "DRUG"
   },
   {
-    "pediatrics - neonatal": "PROBLEM"
+    "pediatrics": "TEST"
   },
   {
-    "gestation": "PROBLEM"
+    "neonatal": "PROBLEM"
+  },
+  {
+    "gestation": "TEST"
   },
   {
     "bronchodilator": "DRUG"
+  },
+  {
+    "childhood": "PROBLEM"
   },
   {
     "childhood asthma": "PROBLEM"

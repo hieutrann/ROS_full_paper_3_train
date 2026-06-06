@@ -3,7 +3,7 @@
     "multiple trauma": "PROBLEM"
   },
   {
-    "motor vehicle accident": "PROBLEM"
+    "multiple trauma": "PROBLEM"
   },
   {
     "motor vehicle accident": "PROBLEM"
@@ -15,7 +15,7 @@
     "surgery": "TREATMENT"
   },
   {
-    "2.": "TREATMENT"
+    "2": "PROBLEM"
   },
   {
     "Decubitus ulcer": "PROBLEM"
@@ -24,85 +24,91 @@
     "lower back": "PROBLEM"
   },
   {
-    "3": "TREATMENT"
+    "3": "PROBLEM"
   },
   {
     "Alcohol induced persisting dementia": "PROBLEM"
   },
   {
-    "4": "TREATMENT"
+    "4": "PROBLEM"
   },
   {
     "Anemia": "PROBLEM"
   },
   {
-    "5": "TREATMENT"
+    "5": "PROBLEM"
   },
   {
     "Hypokalemia": "PROBLEM"
   },
   {
-    "6": "TREATMENT"
+    "6": "PROBLEM"
   },
   {
     "traumatic fracture of the lower arm": "PROBLEM"
   },
   {
-    "7": "TREATMENT"
+    "7": "PROBLEM"
   },
   {
     "Alcohol abuse": "PROBLEM"
   },
   {
-    "8": "TREATMENT"
+    "8": "PROBLEM"
   },
   {
     "lower leg fracture": "PROBLEM"
   },
   {
-    "9": "TREATMENT"
+    "9": "PROBLEM"
   },
   {
     "Open wound of the scalp": "PROBLEM"
   },
   {
-    "10": "TREATMENT"
+    "10": "PROBLEM"
   },
   {
     "Cervical disk displacement with myelopathy": "PROBLEM"
   },
   {
+    "11": "PROBLEM"
+  },
+  {
     "Episodic mood disorder": "PROBLEM"
   },
   {
-    "12": "TREATMENT"
+    "12": "PROBLEM"
   },
   {
     "Anxiety disorder": "PROBLEM"
   },
   {
-    "13": "TREATMENT"
+    "13": "PROBLEM"
   },
   {
     "Nervousness": "PROBLEM"
   },
   {
-    "14": "TREATMENT"
+    "14": "PROBLEM"
   },
   {
     "Psychosis": "PROBLEM"
   },
   {
+    "15": "PROBLEM"
+  },
+  {
     "Generalized pain": "PROBLEM"
   },
   {
-    "16": "TREATMENT"
+    "16": "PROBLEM"
   },
   {
     "Insomnia": "PROBLEM"
   },
   {
-    "17": "TEST"
+    "17": "PROBLEM"
   },
   {
     "Pain in joint pelvic region/thigh": "PROBLEM"
@@ -117,13 +123,16 @@
     "None": "TREATMENT"
   },
   {
-    "Dr": "PROBLEM"
+    "Dr": "TREATMENT"
   },
   {
     "X": "PROBLEM"
   },
   {
     "motor vehicle accident": "PROBLEM"
+  },
+  {
+    "multiple fractures": "PROBLEM"
   },
   {
     "left tibial plateau fracture": "PROBLEM"
@@ -144,7 +153,13 @@
     "ORIF": "TREATMENT"
   },
   {
-    "left tibial plateau fracture": "PROBLEM"
+    "tibial plateau fracture": "PROBLEM"
+  },
+  {
+    "a brace": "TREATMENT"
+  },
+  {
+    "left leg": "PROBLEM"
   },
   {
     "confused": "PROBLEM"
@@ -174,10 +189,7 @@
     "iron treatment": "TREATMENT"
   },
   {
-    "9.2": "TEST"
-  },
-  {
-    "11.0": "TEST"
+    "anemia": "PROBLEM"
   },
   {
     "therapy": "TREATMENT"
@@ -204,6 +216,18 @@
     "acute alcohol rehab facility": "TREATMENT"
   },
   {
+    "acute alcohol rehab facility": "TREATMENT"
+  },
+  {
+    "alcohol rehab facility": "TREATMENT"
+  },
+  {
+    "acute alcohol rehab facility": "TREATMENT"
+  },
+  {
+    "alcohol rehab facility": "TREATMENT"
+  },
+  {
     "orthopedic followup": "TREATMENT"
   },
   {
@@ -228,7 +252,7 @@
     "left leg": "PROBLEM"
   },
   {
-    "pain level": "PROBLEM"
+    "pain": "PROBLEM"
   },
   {
     "agitation": "PROBLEM"
@@ -240,37 +264,37 @@
     "anemia": "PROBLEM"
   },
   {
-    "MEDICATIONS": "DRUG"
+    "On discharge included": "TREATMENT"
   },
   {
     "Calcium with vitamin D": "DRUG"
   },
   {
-    "2.": "TREATMENT"
+    "2": "PROBLEM"
   },
   {
-    "Ferrous sulfate": "DRUG"
+    "Ferrous sulfate 325 mg t.i.d.": "DRUG"
   },
   {
-    "3": "TREATMENT"
+    "3": "PROBLEM"
   },
   {
     "Multivitamin": "DRUG"
   },
   {
-    "4": "TREATMENT"
+    "4": "PROBLEM"
   },
   {
-    "nicotine patch": "TREATMENT"
+    "nicotine patch": "DRUG"
   },
   {
-    "5": "TREATMENT"
+    "5": "PROBLEM"
   },
   {
     "Seroquel": "DRUG"
   },
   {
-    "6": "TREATMENT"
+    "6": "PROBLEM"
   },
   {
     "Xenaderm": "DRUG"
@@ -279,7 +303,7 @@
     "sacral pressure ulcer": "PROBLEM"
   },
   {
-    "7": "TREATMENT"
+    "7": "PROBLEM"
   },
   {
     "Vicodin": "DRUG"
@@ -288,7 +312,7 @@
     "pain": "PROBLEM"
   },
   {
-    "8": "TREATMENT"
+    "8": "PROBLEM"
   },
   {
     "Ativan": "DRUG"
@@ -297,13 +321,13 @@
     "anxiety": "PROBLEM"
   },
   {
-    "orthopedist": "PROBLEM"
+    "orthopedist Dr": "TREATMENT"
   },
   {
-    "primary care physician": "TREATMENT"
+    "primary care physician": "PROBLEM"
   },
   {
-    "discharge summary": "TREATMENT"
+    "discharge summary": "PROBLEM"
   },
   {
     "injury": "PROBLEM"
@@ -324,12 +348,12 @@
     "vehicle accident": "PROBLEM"
   },
   {
-    "discharge": "TREATMENT"
+    "discharge": "PROBLEM"
   },
   {
-    "aftercare": "TREATMENT"
+    "aftercare": "PROBLEM"
   },
   {
-    "healing": "TREATMENT"
+    "healing": "PROBLEM"
   }
 ]

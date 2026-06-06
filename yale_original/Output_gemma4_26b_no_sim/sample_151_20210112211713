@@ -42,13 +42,13 @@
     "sleep apnea": "PROBLEM"
   },
   {
-    "weight loss": "PROBLEM"
+    "weight loss": "TREATMENT"
   },
   {
     "Morbid obesity": "PROBLEM"
   },
   {
-    "bmi of 39.4": "TEST"
+    "bmi": "TEST"
   },
   {
     "Laparoscopic cholecystectomy": "TREATMENT"
@@ -63,7 +63,7 @@
     "stone extraction": "TREATMENT"
   },
   {
-    "elevated bilirubin": "PROBLEM"
+    "bilirubin": "TEST"
   },
   {
     "common bile duct stone": "PROBLEM"
@@ -72,7 +72,7 @@
     "abdominal pain": "PROBLEM"
   },
   {
-    "elevated bilirubin": "PROBLEM"
+    "elevated bilirubin": "TEST"
   },
   {
     "gallstones": "PROBLEM"
@@ -147,13 +147,31 @@
     "bile leak": "PROBLEM"
   },
   {
+    "drains": "TREATMENT"
+  },
+  {
+    "regular diet": "TREATMENT"
+  },
+  {
+    "afebrile": "PROBLEM"
+  },
+  {
     "pain": "PROBLEM"
   },
   {
-    "Jackson-Pratt drain": "TREATMENT"
+    "oral pain medications": "DRUG"
   },
   {
     "Jackson-Pratt drain": "TREATMENT"
+  },
+  {
+    "wound": "PROBLEM"
+  },
+  {
+    "Jackson-Pratt drain": "TREATMENT"
+  },
+  {
+    "cystic duct": "PROBLEM"
   },
   {
     "bilirubin": "TEST"
@@ -196,5 +214,11 @@
   },
   {
     "cholecystitis": "PROBLEM"
+  },
+  {
+    "laparoscopic": "TREATMENT"
+  },
+  {
+    "hernia": "PROBLEM"
   }
 ]

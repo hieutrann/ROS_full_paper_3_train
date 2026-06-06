@@ -126,13 +126,13 @@
     "J-tube intermittent feedings": "TREATMENT"
   },
   {
-    "insulin pump": "DRUG"
+    "insulin pump": "TREATMENT"
   },
   {
-    "insulin pump": "DRUG"
+    "insulin pump rate": "TREATMENT"
   },
   {
-    "insulin pump": "DRUG"
+    "insulin pump rate": "TREATMENT"
   },
   {
     "hypoglycemia": "PROBLEM"
@@ -144,7 +144,7 @@
     "tube feedings": "TREATMENT"
   },
   {
-    "insulin pump": "TREATMENT"
+    "insulin pump rate": "TREATMENT"
   },
   {
     "insulin": "DRUG"
@@ -159,22 +159,19 @@
     "Hemoccult stools": "TEST"
   },
   {
-    "colonoscopy": "TEST"
+    "A colonoscopy": "TEST"
   },
   {
-    "mass": "PROBLEM"
+    "a mass at the right hepatic flexure": "PROBLEM"
   },
   {
     "right hemicolectomy": "TREATMENT"
   },
   {
-    "procedure": "TREATMENT"
-  },
-  {
     "tube feeds": "TREATMENT"
   },
   {
-    "procedure": "TREATMENT"
+    "cancer": "PROBLEM"
   },
   {
     "cancer": "PROBLEM"
@@ -186,7 +183,7 @@
     "metastasis": "PROBLEM"
   },
   {
-    "CT of the chest": "TEST"
+    "a CT of the chest": "TEST"
   },
   {
     "lung metastasis": "PROBLEM"
@@ -207,7 +204,7 @@
     "vancomycin": "DRUG"
   },
   {
-    "chest x-rays": "TEST"
+    "serial chest x-rays": "TEST"
   },
   {
     "illness": "PROBLEM"
@@ -219,7 +216,7 @@
     "MRSA bacteria": "PROBLEM"
   },
   {
-    "Levaquin": "DRUG"
+    "Levaquin 750 mg": "DRUG"
   },
   {
     "Bactrim DS": "DRUG"
@@ -258,13 +255,13 @@
     "seizure disorder": "PROBLEM"
   },
   {
-    "isotonic fiber feeding": "DRUG"
+    "isotonic fiber feeding": "TREATMENT"
   },
   {
     "J-tube": "TREATMENT"
   },
   {
-    "Coreg": "DRUG"
+    "Coreg 12.5 mg p.o.": "DRUG"
   },
   {
     "Lipitor": "DRUG"
@@ -276,7 +273,7 @@
     "Phenergan syrup": "DRUG"
   },
   {
-    "Synthroid": "DRUG"
+    "Synthroid 0.175 mg p.o.": "DRUG"
   },
   {
     "Zyrtec": "DRUG"
@@ -291,7 +288,7 @@
     "Ferrous sulfate drops": "DRUG"
   },
   {
-    "Nexium": "DRUG"
+    "Nexium 40 mg p.o.": "DRUG"
   },
   {
     "Neurontin": "DRUG"
@@ -333,10 +330,13 @@
     "positive lymph nodes": "PROBLEM"
   },
   {
-    "insulin pump": "TREATMENT"
+    "insulin pump adjustments": "TREATMENT"
   },
   {
     "J-tube": "TREATMENT"
+  },
+  {
+    "Stable": "PROBLEM"
   },
   {
     "seizure": "PROBLEM"

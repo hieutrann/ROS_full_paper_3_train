@@ -1,6 +1,6 @@
 [
   {
-    "GI Bleed": "PROBLEM"
+    "GI bleed": "PROBLEM"
   },
   {
     "microcytic anemia": "PROBLEM"
@@ -21,13 +21,19 @@
     "asthma": "PROBLEM"
   },
   {
-    "erosive gastritis": "PROBLEM"
-  },
-  {
     "diverticulosis": "PROBLEM"
   },
   {
     "polyp": "PROBLEM"
+  },
+  {
+    "erosive gastritis": "PROBLEM"
+  },
+  {
+    "CBC": "TEST"
+  },
+  {
+    "INR": "TEST"
   },
   {
     "Coumadin": "DRUG"
@@ -60,51 +66,15 @@
     "lisinopril": "DRUG"
   },
   {
-    "upper endoscopy": "TEST"
+    "endoscopy": "TEST"
   },
   {
     "colonoscopy": "TEST"
   },
   {
-    "CBC": "TEST"
-  },
-  {
-    "INR": "TEST"
-  },
-  {
-    "Feosol": "TREATMENT"
-  },
-  {
-    "Protonix": "TREATMENT"
-  },
-  {
-    "KCl": "TREATMENT"
-  },
-  {
-    "Lasix": "TREATMENT"
-  },
-  {
-    "atenolol": "TREATMENT"
-  },
-  {
-    "Synthroid": "TREATMENT"
-  },
-  {
-    "Actos": "TREATMENT"
-  },
-  {
-    "Mevacor": "TREATMENT"
-  },
-  {
-    "lisinopril": "TREATMENT"
+    "upper endoscopy": "TEST"
   },
   {
     "transfusion": "TREATMENT"
-  },
-  {
-    "incision": "TREATMENT"
-  },
-  {
-    "drainage": "TREATMENT"
   }
 ]

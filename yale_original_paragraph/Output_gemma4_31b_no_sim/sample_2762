@@ -138,6 +138,9 @@
     "hyperglycemia": "PROBLEM"
   },
   {
+    "tube feedings": "TREATMENT"
+  },
+  {
     "insulin pump rate": "TREATMENT"
   },
   {
@@ -177,9 +180,6 @@
     "lung metastasis": "PROBLEM"
   },
   {
-    "septic-like picture": "PROBLEM"
-  },
-  {
     "hospital-acquired pneumonia": "PROBLEM"
   },
   {
@@ -207,9 +207,6 @@
     "Bactrim DS": "DRUG"
   },
   {
-    "MRSA": "PROBLEM"
-  },
-  {
     "Bactrim": "DRUG"
   },
   {
@@ -217,6 +214,9 @@
   },
   {
     "Bactrim": "DRUG"
+  },
+  {
+    "MRSA": "PROBLEM"
   },
   {
     "Coreg": "DRUG"
@@ -291,6 +291,9 @@
     "Levaquin": "DRUG"
   },
   {
+    "J-tube": "TREATMENT"
+  },
+  {
     "CBC with diff": "TEST"
   },
   {
@@ -301,44 +304,5 @@
   },
   {
     "positive lymph nodes": "PROBLEM"
-  },
-  {
-    "seizure": "PROBLEM"
-  },
-  {
-    "hypoglycemia": "PROBLEM"
-  },
-  {
-    "anemia": "PROBLEM"
-  },
-  {
-    "dyspnea": "PROBLEM"
-  },
-  {
-    "edema": "PROBLEM"
-  },
-  {
-    "colon cancer": "PROBLEM"
-  },
-  {
-    "right hemicolectomy": "TREATMENT"
-  },
-  {
-    "hospital-acquired pneumonia": "PROBLEM"
-  },
-  {
-    "hospital acquired pneumonia": "PROBLEM"
-  },
-  {
-    "congestive heart failure": "PROBLEM"
-  },
-  {
-    "seizure disorder": "PROBLEM"
-  },
-  {
-    "insulin pump": "TREATMENT"
-  },
-  {
-    "hemicolectomy": "TREATMENT"
   }
 ]

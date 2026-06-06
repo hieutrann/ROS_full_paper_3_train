@@ -1,9 +1,9 @@
 [
   {
-    "Jaw Pain": "PROBLEM"
+    "toothache": "PROBLEM"
   },
   {
-    "toothache": "PROBLEM"
+    "jaw and towards his left ear": "PROBLEM"
   },
   {
     "Ellis type II dental fracture": "PROBLEM"
@@ -93,10 +93,22 @@
     "lesions": "PROBLEM"
   },
   {
+    "speech change": "PROBLEM"
+  },
+  {
+    "marijuana": "DRUG"
+  },
+  {
+    "Temperature": "TEST"
+  },
+  {
     "blood pressure": "TEST"
   },
   {
     "pulse": "TEST"
+  },
+  {
+    "respirations": "TEST"
   },
   {
     "oxygen saturation": "TEST"
@@ -105,7 +117,7 @@
     "infection": "PROBLEM"
   },
   {
-    "erythema": "PROBLEM"
+    "Erythema": "PROBLEM"
   },
   {
     "swelling": "PROBLEM"
@@ -132,6 +144,9 @@
     "lymphadenopathy": "PROBLEM"
   },
   {
+    "meningismus": "PROBLEM"
+  },
+  {
     "cervical lymphadenopathy": "PROBLEM"
   },
   {
@@ -150,16 +165,10 @@
     "gallop": "PROBLEM"
   },
   {
-    "lymphadenitis": "PROBLEM"
-  },
-  {
     "ACUTE LEFT JAW PAIN": "PROBLEM"
   },
   {
     "#18 DENTAL FRACTURE": "PROBLEM"
-  },
-  {
-    "ELLIS TYPE II FRACTURE": "PROBLEM"
   },
   {
     "ELEVATED BLOOD PRESSURE": "PROBLEM"

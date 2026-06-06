@@ -1,5 +1,8 @@
 [
   {
+    "Male Exam": "TEST"
+  },
+  {
     "Blood pressure": "TEST"
   },
   {
@@ -12,13 +15,19 @@
     "temperature": "TEST"
   },
   {
+    "EOMI": "TEST"
+  },
+  {
     "PERRLA": "TEST"
+  },
+  {
+    "Sclerae": "PROBLEM"
   },
   {
     "lesions": "PROBLEM"
   },
   {
-    "papilledema": "PROBLEM"
+    "Funduscopic examination": "TEST"
   },
   {
     "glaucoma": "PROBLEM"
@@ -27,37 +36,22 @@
     "cataracts": "PROBLEM"
   },
   {
-    "Ears": "PROBLEM"
+    "hearing": "TEST"
   },
   {
-    "Mouth": "PROBLEM"
-  },
-  {
-    "Tongue": "PROBLEM"
-  },
-  {
-    "Teeth": "PROBLEM"
-  },
-  {
-    "Throat": "PROBLEM"
+    "Nose and Sinus": "TEST"
   },
   {
     "dental work": "TREATMENT"
   },
   {
-    "NECK": "TEST"
-  },
-  {
-    "carotid bruit": "TEST"
-  },
-  {
-    "JVD": "TEST"
-  },
-  {
-    "cervical adenopathy": "PROBLEM"
+    "adenopathy": "PROBLEM"
   },
   {
     "stridor": "PROBLEM"
+  },
+  {
+    "subcutaneous emphysema": "PROBLEM"
   },
   {
     "Thyroid": "PROBLEM"
@@ -66,7 +60,10 @@
     "Lungs": "PROBLEM"
   },
   {
-    "HEART": "PROBLEM"
+    "S1": "TEST"
+  },
+  {
+    "S2": "TEST"
   },
   {
     "murmur": "PROBLEM"
@@ -90,7 +87,16 @@
     "gallop": "PROBLEM"
   },
   {
-    "axillary or supraclavicular adenopathy": "PROBLEM"
+    "PMI": "PROBLEM"
+  },
+  {
+    "Chest wall": "PROBLEM"
+  },
+  {
+    "adenopathy": "PROBLEM"
+  },
+  {
+    "BREASTS": "TEST"
   },
   {
     "hepatosplenomegaly": "PROBLEM"
@@ -117,10 +123,7 @@
     "intraabdominal bruit": "PROBLEM"
   },
   {
-    "penis": "PROBLEM"
-  },
-  {
-    "testes": "PROBLEM"
+    "EXTERNAL GENITALIA": "TEST"
   },
   {
     "hernia": "PROBLEM"
@@ -129,13 +132,7 @@
     "hydrocele": "PROBLEM"
   },
   {
-    "RECTAL": "TEST"
-  },
-  {
-    "Hemoccult-negative stool": "TEST"
-  },
-  {
-    "prostate": "PROBLEM"
+    "Hemoccult": "TEST"
   },
   {
     "rectal masses": "PROBLEM"
@@ -151,6 +148,9 @@
   },
   {
     "deep venous thrombosis": "PROBLEM"
+  },
+  {
+    "BACK": "TEST"
   },
   {
     "spinous process tenderness": "PROBLEM"
@@ -171,30 +171,42 @@
     "NEUROLOGIC": "PROBLEM"
   },
   {
-    "cranial": "PROBLEM"
+    "lucid": "PROBLEM"
   },
   {
-    "peripheral": "PROBLEM"
+    "rational": "PROBLEM"
   },
   {
-    "nervous": "PROBLEM"
+    "premalignant": "PROBLEM"
   },
   {
-    "strength": "TEST"
+    "malignant": "PROBLEM"
   },
   {
-    "sensation": "TEST"
+    "general medicine": "TEST"
   },
   {
-    "cerebellar": "TEST"
-  },
-  {
-    "SKIN": "PROBLEM"
+    "digital palpation": "TEST"
   },
   {
     "hemoccult": "TEST"
   },
   {
+    "heent": "TEST"
+  },
+  {
+    "palpation": "TEST"
+  },
+  {
+    "breasts": "PROBLEM"
+  },
+  {
+    "male": "PROBLEM"
+  },
+  {
     "tenderness": "PROBLEM"
+  },
+  {
+    "tongue": "PROBLEM"
   }
 ]

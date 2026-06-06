@@ -1,6 +1,6 @@
 [
   {
-    "Leiomyosarcoma": "PROBLEM"
+    "leiomyosarcoma": "PROBLEM"
   },
   {
     "pulmonary embolism": "PROBLEM"
@@ -13,18 +13,6 @@
   },
   {
     "pneumonia": "PROBLEM"
-  },
-  {
-    "CTA": "TEST"
-  },
-  {
-    "head CT": "TEST"
-  },
-  {
-    "sinus CT": "TEST"
-  },
-  {
-    "mini-CT": "TEST"
   },
   {
     "CIVI-CAD": "DRUG"
@@ -42,15 +30,21 @@
     "Lovenox": "DRUG"
   },
   {
-    "incision": "TREATMENT"
+    "CTA": "TEST"
   },
   {
-    "resection": "TREATMENT"
+    "chest PE study": "TEST"
   },
   {
-    "chemotherapy": "TREATMENT"
+    "Head CT": "TEST"
   },
   {
-    "anticoagulation": "TREATMENT"
+    "Sinus CT": "TEST"
+  },
+  {
+    "MRI": "TEST"
+  },
+  {
+    "lab work": "TEST"
   }
 ]

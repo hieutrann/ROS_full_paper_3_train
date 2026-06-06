@@ -9,13 +9,10 @@
     "diabetes": "PROBLEM"
   },
   {
-    "morbid obesity": "PROBLEM"
+    "cirrhosis": "PROBLEM"
   },
   {
     "hepatitis C": "PROBLEM"
-  },
-  {
-    "cirrhosis": "PROBLEM"
   },
   {
     "coronary artery disease": "PROBLEM"
@@ -30,7 +27,7 @@
     "gastroesophageal reflux disease": "PROBLEM"
   },
   {
-    "exploratory laparotomy": "TREATMENT"
+    "exploratory laparotomy": "PROBLEM"
   },
   {
     "hepatic encephalopathy": "PROBLEM"
@@ -42,16 +39,16 @@
     "urinary tract infection": "PROBLEM"
   },
   {
-    "ascites": "PROBLEM"
+    "Ascites": "PROBLEM"
   },
   {
-    "hyperbilirubinemia": "PROBLEM"
+    "Hyperbilirubinemia": "PROBLEM"
   },
   {
-    "alcoholic liver disease": "PROBLEM"
+    "Alcoholic liver disease": "PROBLEM"
   },
   {
-    "thrombocytopenia": "PROBLEM"
+    "Thrombocytopenia": "PROBLEM"
   },
   {
     "Cryoglobulinemia": "PROBLEM"
@@ -61,15 +58,6 @@
   },
   {
     "doripenem": "DRUG"
-  },
-  {
-    "levofloxacin": "DRUG"
-  },
-  {
-    "Flagyl": "DRUG"
-  },
-  {
-    "Zosyn": "DRUG"
   },
   {
     "thiamine": "DRUG"
@@ -123,7 +111,7 @@
     "total bilirubin": "TEST"
   },
   {
-    "total CK": "TEST"
+    "Total CK": "TEST"
   },
   {
     "LDH": "TEST"
@@ -153,7 +141,7 @@
     "CAT scan of the abdomen": "TEST"
   },
   {
-    "paracentesis": "TREATMENT"
+    "physical therapy": "TREATMENT"
   },
   {
     "hepatitis A vaccination": "TREATMENT"
