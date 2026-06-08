@@ -1,0 +1,323 @@
+[
+  {
+    "right foot ulcer": "PROBLEM"
+  },
+  {
+    "osteomyelitis": "PROBLEM"
+  },
+  {
+    "right foot ulcer": "PROBLEM"
+  },
+  {
+    "osteomyelitis": "PROBLEM"
+  },
+  {
+    "diabetes mellitus": "PROBLEM"
+  },
+  {
+    "right foot": "PROBLEM"
+  },
+  {
+    "Cultures": "TEST"
+  },
+  {
+    "methicillin-sensitive Staphylococcus aureus": "PROBLEM"
+  },
+  {
+    "MSSA": "PROBLEM"
+  },
+  {
+    "Levaquin": "DRUG"
+  },
+  {
+    "debridement": "TREATMENT"
+  },
+  {
+    "MRI": "TEST"
+  },
+  {
+    "bone scan": "TEST"
+  },
+  {
+    "osteomyelitis": "PROBLEM"
+  },
+  {
+    "wound care": "TREATMENT"
+  },
+  {
+    "wound VAC placement": "TREATMENT"
+  },
+  {
+    "lacerated wound": "PROBLEM"
+  },
+  {
+    "plantar aspect": "PROBLEM"
+  },
+  {
+    "second metatarsal area": "PROBLEM"
+  },
+  {
+    "fifth metatarsal area": "PROBLEM"
+  },
+  {
+    "head of these bones": "PROBLEM"
+  },
+  {
+    "osteomyelitis": "PROBLEM"
+  },
+  {
+    "serosanguineous drainage": "PROBLEM"
+  },
+  {
+    "PAST MEDICAL HISTORY": "PROBLEM"
+  },
+  {
+    "Diabetes mellitus": "PROBLEM"
+  },
+  {
+    "Osteomyelitis": "PROBLEM"
+  },
+  {
+    "intravenous antibiotic therapy": "TREATMENT"
+  },
+  {
+    "heart attack": "PROBLEM"
+  },
+  {
+    "liver cancer": "PROBLEM"
+  },
+  {
+    "hypothyroidism": "PROBLEM"
+  },
+  {
+    "cerebral palsy": "PROBLEM"
+  },
+  {
+    "Caucasian": "PROBLEM"
+  },
+  {
+    "temperature": "TEST"
+  },
+  {
+    "pulse": "TEST"
+  },
+  {
+    "respiratory rate": "TEST"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "Pupils": "TEST"
+  },
+  {
+    "Extraocular movements": "TEST"
+  },
+  {
+    "normocephalic": "PROBLEM"
+  },
+  {
+    "External ear exam": "TEST"
+  },
+  {
+    "Neck": "PROBLEM"
+  },
+  {
+    "lymphadenopathy": "PROBLEM"
+  },
+  {
+    "heart": "PROBLEM"
+  },
+  {
+    "Lungs": "TEST"
+  },
+  {
+    "organomegaly": "PROBLEM"
+  },
+  {
+    "bowel sounds": "TEST"
+  },
+  {
+    "lymphadenopathy": "PROBLEM"
+  },
+  {
+    "cyanosis": "PROBLEM"
+  },
+  {
+    "clubbing": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "endocarditis": "PROBLEM"
+  },
+  {
+    "lacerated wound": "PROBLEM"
+  },
+  {
+    "Tracking under the skin": "PROBLEM"
+  },
+  {
+    "wound": "PROBLEM"
+  },
+  {
+    "osteomyelitis": "PROBLEM"
+  },
+  {
+    "Central nervous system": "PROBLEM"
+  },
+  {
+    "Cranial nerves": "TEST"
+  },
+  {
+    "laboratory": "TEST"
+  },
+  {
+    "radiological": "TEST"
+  },
+  {
+    "diabetes mellitus": "PROBLEM"
+  },
+  {
+    "debridement": "TREATMENT"
+  },
+  {
+    "Culture": "TEST"
+  },
+  {
+    "Wound cultures": "TEST"
+  },
+  {
+    "methicillin-sensitive Staphylococcus aureus": "PROBLEM"
+  },
+  {
+    "Infectious Disease": "PROBLEM"
+  },
+  {
+    "Right foot infected ulcer": "PROBLEM"
+  },
+  {
+    "osteomyelitis": "PROBLEM"
+  },
+  {
+    "MRI": "TEST"
+  },
+  {
+    "bone scan": "TEST"
+  },
+  {
+    "treatment": "TREATMENT"
+  },
+  {
+    "diagnosis": "TEST"
+  },
+  {
+    "methicillin-sensitive Staphylococcus aureus": "PROBLEM"
+  },
+  {
+    "Levaquin": "DRUG"
+  },
+  {
+    "Zyvox": "DRUG"
+  },
+  {
+    "Zosyn": "DRUG"
+  },
+  {
+    "Ancef": "DRUG"
+  },
+  {
+    "osteomyelitis": "PROBLEM"
+  },
+  {
+    "deep wound infection": "PROBLEM"
+  },
+  {
+    "wound care": "TREATMENT"
+  },
+  {
+    "wound VAC": "TREATMENT"
+  },
+  {
+    "PICC line": "TREATMENT"
+  },
+  {
+    "intravenous antibiotic therapy": "TREATMENT"
+  },
+  {
+    "CBC with differential": "TEST"
+  },
+  {
+    "chemistry 7 panel": "TEST"
+  },
+  {
+    "LFTs": "TEST"
+  },
+  {
+    "ESR": "TEST"
+  },
+  {
+    "C-reactive protein levels": "TEST"
+  },
+  {
+    "chemistry 7 panel": "TEST"
+  },
+  {
+    "CBC": "TEST"
+  },
+  {
+    "antibiotic therapy": "TREATMENT"
+  },
+  {
+    "wound healing": "PROBLEM"
+  },
+  {
+    "Wound care": "TREATMENT"
+  },
+  {
+    "deep wound cultures": "TEST"
+  },
+  {
+    "MRI": "TEST"
+  },
+  {
+    "bone scan": "TEST"
+  },
+  {
+    "mssa": "PROBLEM"
+  },
+  {
+    "methicillin-sensitive staphylococcus aureus": "PROBLEM"
+  },
+  {
+    "foot ulcer": "PROBLEM"
+  },
+  {
+    "staphylococcus aureus": "PROBLEM"
+  },
+  {
+    "bone scan": "TEST"
+  },
+  {
+    "wound care": "TREATMENT"
+  },
+  {
+    "osteomyelitis": "PROBLEM"
+  },
+  {
+    "intravenous antibiotic therapy": "TREATMENT"
+  },
+  {
+    "intravenous antibiotic": "DRUG"
+  },
+  {
+    "antibiotic therapy": "TREATMENT"
+  },
+  {
+    "antibiotic management": "TREATMENT"
+  },
+  {
+    "antibiotic": "DRUG"
+  }
+]

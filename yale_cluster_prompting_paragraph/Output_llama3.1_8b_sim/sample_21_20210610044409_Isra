@@ -1,0 +1,65 @@
+[
+  {
+    "intractable nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "blood-tinged vomit": "PROBLEM"
+  },
+  {
+    "slight low sodium": "PROBLEM"
+  },
+  {
+    "potassium slightly elevated": "PROBLEM"
+  },
+  {
+    "ALT of 93": "PROBLEM"
+  },
+  {
+    "AST of 35": "PROBLEM"
+  },
+  {
+    "total bilirubin is 1.2": "PROBLEM"
+  },
+  {
+    "3+ ketones": "PROBLEM"
+  },
+  {
+    "2+ protein": "PROBLEM"
+  },
+  {
+    "1+ esterase": "PROBLEM"
+  },
+  {
+    "rbc too numerous to count": "PROBLEM"
+  },
+  {
+    "bacteria": "PROBLEM"
+  },
+  {
+    "Phenergan": "DRUG"
+  },
+  {
+    "Zofran": "DRUG"
+  },
+  {
+    "Rocephin": "DRUG"
+  },
+  {
+    "Maalox": "DRUG"
+  },
+  {
+    "ER": "TEST"
+  },
+  {
+    "SURGICAL": "TEST"
+  },
+  {
+    "SURGICAL": "TREATMENT"
+  },
+  {
+    "IV hydration": "TREATMENT"
+  }
+]

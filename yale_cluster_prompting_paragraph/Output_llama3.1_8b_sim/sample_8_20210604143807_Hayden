@@ -1,0 +1,59 @@
+[
+  {
+    "Parkinson disease": "PROBLEM"
+  },
+  {
+    "Xanax": "DRUG"
+  },
+  {
+    "Sinemet": "DRUG"
+  },
+  {
+    "Requip": "DRUG"
+  },
+  {
+    "Neurontin": "DRUG"
+  },
+  {
+    "Ambien": "DRUG"
+  },
+  {
+    "level of consciousness": "PROBLEM"
+  },
+  {
+    "altered mental status": "PROBLEM"
+  },
+  {
+    "dehydration": "PROBLEM"
+  },
+  {
+    "elderly abuse": "PROBLEM"
+  },
+  {
+    "decreased level of consciousness": "PROBLEM"
+  },
+  {
+    "EKG": "TEST"
+  },
+  {
+    "urine": "TEST"
+  },
+  {
+    "UA": "TEST"
+  },
+  {
+    "comprehensive panel": "TEST"
+  },
+  {
+    "CBC": "TEST"
+  },
+  {
+    "physical examination": "TEST"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "restart his Sinemet": "TREATMENT"
+  }
+]

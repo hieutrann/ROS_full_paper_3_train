@@ -1,0 +1,74 @@
+[
+  {
+    "cold": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "runny nose": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "right TM": "PROBLEM"
+  },
+  {
+    "Amoxil": "DRUG"
+  },
+  {
+    "Aldex": "DRUG"
+  },
+  {
+    "Orapred": "DRUG"
+  },
+  {
+    "Rocephin": "DRUG"
+  },
+  {
+    "nebulizer treatments": "TREATMENT"
+  },
+  {
+    "oxygen": "TREATMENT"
+  },
+  {
+    "RSV screen": "TEST"
+  },
+  {
+    "Chest x-ray": "TEST"
+  },
+  {
+    "CBC": "TEST"
+  },
+  {
+    "RSV bronchiolitis": "PROBLEM"
+  },
+  {
+    "otitis media": "PROBLEM"
+  },
+  {
+    "difficulty breathing": "PROBLEM"
+  },
+  {
+    "congestion": "PROBLEM"
+  },
+  {
+    "RSV": "PROBLEM"
+  },
+  {
+    "bronchiolitis": "PROBLEM"
+  },
+  {
+    "runny nose": "PROBLEM"
+  },
+  {
+    "difficulty breathing": "PROBLEM"
+  },
+  {
+    "congestion": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  }
+]

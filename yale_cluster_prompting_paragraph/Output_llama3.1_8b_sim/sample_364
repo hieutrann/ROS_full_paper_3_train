@@ -1,0 +1,59 @@
+[
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "hypothyroidism": "PROBLEM"
+  },
+  {
+    "rheumatoid arthritis": "PROBLEM"
+  },
+  {
+    "osteoporosis": "PROBLEM"
+  },
+  {
+    "GI reflux type symptoms": "PROBLEM"
+  },
+  {
+    "normal EKG": "TEST"
+  },
+  {
+    "Pap smear": "TEST"
+  },
+  {
+    "mammogram": "TEST"
+  },
+  {
+    "methotrexate": "DRUG"
+  },
+  {
+    "Fosamax": "DRUG"
+  },
+  {
+    "folic acid": "DRUG"
+  },
+  {
+    "amitriptyline": "DRUG"
+  },
+  {
+    "Synthroid": "DRUG"
+  },
+  {
+    "calcium": "DRUG"
+  },
+  {
+    "multivitamin": "DRUG"
+  },
+  {
+    "baby aspirin": "DRUG"
+  },
+  {
+    "Colace": "DRUG"
+  },
+  {
+    "DEXA": "TEST"
+  },
+  {
+    "ECG": "TEST"
+  }
+]

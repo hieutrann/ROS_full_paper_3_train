@@ -1,0 +1,137 @@
+[
+  {
+    "depression": "PROBLEM"
+  },
+  {
+    "high risk behavior": "PROBLEM"
+  },
+  {
+    "paranoia": "PROBLEM"
+  },
+  {
+    "RTC": "TREATMENT"
+  },
+  {
+    "Perceptual disturbances": "PROBLEM"
+  },
+  {
+    "disorganized thoughts": "PROBLEM"
+  },
+  {
+    "audiovisual hallucinations": "PROBLEM"
+  },
+  {
+    "flat affect": "PROBLEM"
+  },
+  {
+    "irritable": "PROBLEM"
+  },
+  {
+    "anxious": "PROBLEM"
+  },
+  {
+    "depressed moods": "PROBLEM"
+  },
+  {
+    "tearful": "PROBLEM"
+  },
+  {
+    "homesick": "PROBLEM"
+  },
+  {
+    "limited interaction with peers": "PROBLEM"
+  },
+  {
+    "strange feelings and sensations": "PROBLEM"
+  },
+  {
+    "sleep-deprived EEG": "TEST"
+  },
+  {
+    "EKG": "TEST"
+  },
+  {
+    "basic metabolic panel": "TEST"
+  },
+  {
+    "CBC": "TEST"
+  },
+  {
+    "TSH": "TEST"
+  },
+  {
+    "UA": "TEST"
+  },
+  {
+    "urine drug screen": "TEST"
+  },
+  {
+    "thyroid dysfunction": "PROBLEM"
+  },
+  {
+    "thyroid panel": "TEST"
+  },
+  {
+    "T3": "TEST"
+  },
+  {
+    "T4": "TEST"
+  },
+  {
+    "TSH": "TEST"
+  },
+  {
+    "asthma": "PROBLEM"
+  },
+  {
+    "heart murmur": "PROBLEM"
+  },
+  {
+    "Hematocrit": "TEST"
+  },
+  {
+    "absolute monocytes": "TEST"
+  },
+  {
+    "Major depression": "PROBLEM"
+  },
+  {
+    "recurrent": "PROBLEM"
+  },
+  {
+    "psychotic features": "PROBLEM"
+  },
+  {
+    "Psychosocial stressors": "PROBLEM"
+  },
+  {
+    "GAF": "TEST"
+  },
+  {
+    "perception disturbances": "PROBLEM"
+  },
+  {
+    "internal stimuli": "PROBLEM"
+  },
+  {
+    "Seroquel": "DRUG"
+  },
+  {
+    "Benadryl": "DRUG"
+  },
+  {
+    "Wellbutrin XL": "DRUG"
+  },
+  {
+    "vitamin E": "DRUG"
+  },
+  {
+    "Restoril": "DRUG"
+  },
+  {
+    "galactorrhea": "PROBLEM"
+  },
+  {
+    "Risperdal": "DRUG"
+  }
+]

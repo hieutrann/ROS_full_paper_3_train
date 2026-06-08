@@ -1,0 +1,305 @@
+[
+  {
+    "Mesothelioma": "PROBLEM"
+  },
+  {
+    "pleural effusion": "PROBLEM"
+  },
+  {
+    "atrial fibrillation": "PROBLEM"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "ascites": "PROBLEM"
+  },
+  {
+    "esophageal reflux": "PROBLEM"
+  },
+  {
+    "deep venous thrombosis": "PROBLEM"
+  },
+  {
+    "Mesothelioma": "PROBLEM"
+  },
+  {
+    "Pleural effusion": "PROBLEM"
+  },
+  {
+    "atrial fibrillation": "PROBLEM"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "ascites": "PROBLEM"
+  },
+  {
+    "esophageal reflux": "PROBLEM"
+  },
+  {
+    "deep venous thrombosis": "PROBLEM"
+  },
+  {
+    "decortication of the lung": "TREATMENT"
+  },
+  {
+    "pleural biopsy": "TEST"
+  },
+  {
+    "transpleural fluoroscopy": "TEST"
+  },
+  {
+    "thoracentesis": "TREATMENT"
+  },
+  {
+    "Port-A-Cath placement": "TREATMENT"
+  },
+  {
+    "nonproductive cough": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "pericarditis": "PROBLEM"
+  },
+  {
+    "pericardectomy": "TREATMENT"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "Chest x-ray": "TEST"
+  },
+  {
+    "pleural effusion": "PROBLEM"
+  },
+  {
+    "Pericardectomy": "TREATMENT"
+  },
+  {
+    "Pericarditis": "PROBLEM"
+  },
+  {
+    "Atrial fibrillation": "PROBLEM"
+  },
+  {
+    "RNCA": "PROBLEM"
+  },
+  {
+    "intracranial thrombolytic treatment": "TREATMENT"
+  },
+  {
+    "PTA of MCA": "TREATMENT"
+  },
+  {
+    "Mesenteric venous thrombosis": "PROBLEM"
+  },
+  {
+    "Pericardial window": "TREATMENT"
+  },
+  {
+    "Cholecystectomy": "TREATMENT"
+  },
+  {
+    "Left thoracentesis": "TREATMENT"
+  },
+  {
+    "coronary artery disease": "PROBLEM"
+  },
+  {
+    "CVA": "PROBLEM"
+  },
+  {
+    "diabetes": "PROBLEM"
+  },
+  {
+    "CHF": "PROBLEM"
+  },
+  {
+    "MI": "PROBLEM"
+  },
+  {
+    "cancer": "PROBLEM"
+  },
+  {
+    "Coumadin": "DRUG"
+  },
+  {
+    "INR": "TEST"
+  },
+  {
+    "Amiodarone": "DRUG"
+  },
+  {
+    "numbness": "PROBLEM"
+  },
+  {
+    "tingling": "PROBLEM"
+  },
+  {
+    "nonproductive cough": "PROBLEM"
+  },
+  {
+    "pain with coughing": "PROBLEM"
+  },
+  {
+    "lymphadenopathy": "PROBLEM"
+  },
+  {
+    "Pleural friction rub": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "clubbing": "PROBLEM"
+  },
+  {
+    "cyanosis": "PROBLEM"
+  },
+  {
+    "tenderness": "PROBLEM"
+  },
+  {
+    "ulcers": "PROBLEM"
+  },
+  {
+    "pleural effusion": "PROBLEM"
+  },
+  {
+    "thoracentesis": "TREATMENT"
+  },
+  {
+    "Coumadin": "DRUG"
+  },
+  {
+    "echocardiogram": "TEST"
+  },
+  {
+    "DVT": "PROBLEM"
+  },
+  {
+    "Lovenox": "DRUG"
+  },
+  {
+    "pericarditis": "PROBLEM"
+  },
+  {
+    "pericardial window": "TREATMENT"
+  },
+  {
+    "mesenteric pain": "PROBLEM"
+  },
+  {
+    "thrombosis": "PROBLEM"
+  },
+  {
+    "pericardectomy": "TREATMENT"
+  },
+  {
+    "CT scan": "TEST"
+  },
+  {
+    "plural effusions": "PROBLEM"
+  },
+  {
+    "pericardectomy": "TREATMENT"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "pleural effusion": "PROBLEM"
+  },
+  {
+    "CT of the chest": "TEST"
+  },
+  {
+    "mediastinal lymph node": "PROBLEM"
+  },
+  {
+    "pericardectomy": "TREATMENT"
+  },
+  {
+    "mesothelioma": "PROBLEM"
+  },
+  {
+    "chest tube placement": "TREATMENT"
+  },
+  {
+    "thoracoscopy": "TEST"
+  },
+  {
+    "fluid biopsies": "TEST"
+  },
+  {
+    "epithelioid malignant mesothelioma": "PROBLEM"
+  },
+  {
+    "PET CT": "TEST"
+  },
+  {
+    "pleural pericardial effusions": "PROBLEM"
+  },
+  {
+    "lymphadenopathy": "PROBLEM"
+  },
+  {
+    "acidic fluid": "PROBLEM"
+  },
+  {
+    "pectoral and intramammary lymph nodes": "PROBLEM"
+  },
+  {
+    "echocardiogram": "TEST"
+  },
+  {
+    "chemotherapy": "TREATMENT"
+  },
+  {
+    "cisplatin": "DRUG"
+  },
+  {
+    "Alimta": "DRUG"
+  },
+  {
+    "Port-A-Cath": "TREATMENT"
+  },
+  {
+    "chemotherapy": "TREATMENT"
+  },
+  {
+    "Port-A-Cath": "TREATMENT"
+  },
+  {
+    "heparin": "DRUG"
+  },
+  {
+    "Zofran": "DRUG"
+  },
+  {
+    "Phenergan": "DRUG"
+  },
+  {
+    "Coumadin": "DRUG"
+  },
+  {
+    "Lovenox": "DRUG"
+  },
+  {
+    "Vicodin": "DRUG"
+  },
+  {
+    "INR": "TEST"
+  }
+]

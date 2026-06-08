@@ -1,0 +1,53 @@
+[
+  {
+    "sepsis": "PROBLEM"
+  },
+  {
+    "urinary tract infection": "PROBLEM"
+  },
+  {
+    "urinary tract infection": "PROBLEM"
+  },
+  {
+    "doripenem": "DRUG"
+  },
+  {
+    "doripenem": "DRUG"
+  },
+  {
+    "hypotension": "PROBLEM"
+  },
+  {
+    "ischemic cardiomyopathy": "PROBLEM"
+  },
+  {
+    "diabetes type 2": "PROBLEM"
+  },
+  {
+    "pulmonary embolism": "PROBLEM"
+  },
+  {
+    "coronary artery disease": "PROBLEM"
+  },
+  {
+    "troponin": "TEST"
+  },
+  {
+    "urinary tract infection": "PROBLEM"
+  },
+  {
+    "doripenem": "DRUG"
+  },
+  {
+    "Foley catheter": "TREATMENT"
+  },
+  {
+    "insulin sliding scale": "TREATMENT"
+  },
+  {
+    "Coumadin": "DRUG"
+  },
+  {
+    "medical treatment": "TREATMENT"
+  }
+]

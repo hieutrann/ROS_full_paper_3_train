@@ -1,0 +1,95 @@
+[
+  {
+    "pneumonia": "PROBLEM"
+  },
+  {
+    "positive blood count": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "seizure": "PROBLEM"
+  },
+  {
+    "IV antibiotics": "TREATMENT"
+  },
+  {
+    "p.o. antibiotics": "TREATMENT"
+  },
+  {
+    "temperature of 102": "PROBLEM"
+  },
+  {
+    "strep": "PROBLEM"
+  },
+  {
+    "penicillin": "DRUG"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "seizure": "PROBLEM"
+  },
+  {
+    "Temperature": "PROBLEM"
+  },
+  {
+    "lethargic": "PROBLEM"
+  },
+  {
+    "LP": "TEST"
+  },
+  {
+    "blood cultures": "TEST"
+  },
+  {
+    "CSF": "TEST"
+  },
+  {
+    "anesthesia": "TREATMENT"
+  },
+  {
+    "White count": "TEST"
+  },
+  {
+    "CSF glucose": "TEST"
+  },
+  {
+    "protein": "TEST"
+  },
+  {
+    "Gram-stain": "TEST"
+  },
+  {
+    "febrile seizure": "PROBLEM"
+  },
+  {
+    "temperature": "PROBLEM"
+  },
+  {
+    "white count": "TEST"
+  },
+  {
+    "antibiotics": "DRUG"
+  },
+  {
+    "febrile seizure": "PROBLEM"
+  },
+  {
+    "temperature": "PROBLEM"
+  },
+  {
+    "blood count": "TEST"
+  },
+  {
+    "white count": "TEST"
+  },
+  {
+    "pneumonia": "PROBLEM"
+  },
+  {
+    "seizure": "PROBLEM"
+  }
+]

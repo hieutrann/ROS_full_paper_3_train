@@ -1,0 +1,116 @@
+[
+  {
+    "pneumonia": "PROBLEM"
+  },
+  {
+    "blood count": "TEST"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "a probable seizure": "PROBLEM"
+  },
+  {
+    "pneumonia": "PROBLEM"
+  },
+  {
+    "blood count": "TEST"
+  },
+  {
+    "IV antibiotics": "DRUG"
+  },
+  {
+    "p.o.": "DRUG"
+  },
+  {
+    "antibiotics": "DRUG"
+  },
+  {
+    "temperature": "PROBLEM"
+  },
+  {
+    "strep": "PROBLEM"
+  },
+  {
+    "penicillin": "DRUG"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "a probable seizure": "PROBLEM"
+  },
+  {
+    "Temperature": "TEST"
+  },
+  {
+    "104.5": "TEST"
+  },
+  {
+    "lethargic": "PROBLEM"
+  },
+  {
+    "an LP": "TEST"
+  },
+  {
+    "blood cultures": "TEST"
+  },
+  {
+    "CSF": "TEST"
+  },
+  {
+    "anesthesia": "TREATMENT"
+  },
+  {
+    "Head, eyes, ears, nose and throat": "TEST"
+  },
+  {
+    "Chest": "PROBLEM"
+  },
+  {
+    "White count": "TEST"
+  },
+  {
+    "CSF glucose": "TEST"
+  },
+  {
+    "protein": "TEST"
+  },
+  {
+    "Gram-stain": "TEST"
+  },
+  {
+    "febrile seizure": "PROBLEM"
+  },
+  {
+    "temperature": "PROBLEM"
+  },
+  {
+    "white count": "TEST"
+  },
+  {
+    "general medicine": "TREATMENT"
+  },
+  {
+    "antibiotics": "DRUG"
+  },
+  {
+    "febrile seizure": "PROBLEM"
+  },
+  {
+    "temperature": "TEST"
+  },
+  {
+    "blood count": "TEST"
+  },
+  {
+    "white count": "TEST"
+  },
+  {
+    "pneumonia": "PROBLEM"
+  },
+  {
+    "seizure": "PROBLEM"
+  }
+]

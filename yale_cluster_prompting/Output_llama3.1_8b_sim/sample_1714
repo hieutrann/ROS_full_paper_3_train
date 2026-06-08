@@ -1,0 +1,275 @@
+[
+  {
+    "Pain Management": "TREATMENT"
+  },
+  {
+    "Transforaminal Epidural Steroid Injection": "TREATMENT"
+  },
+  {
+    "Epidural": "TREATMENT"
+  },
+  {
+    "Steroid Injection": "TREATMENT"
+  },
+  {
+    "Lumbar": "PROBLEM"
+  },
+  {
+    "Fluoroscopy": "TEST"
+  },
+  {
+    "boney landmarks": "TEST"
+  },
+  {
+    "facet joints": "PROBLEM"
+  },
+  {
+    "needle": "TREATMENT"
+  },
+  {
+    "lidocaine": "DRUG"
+  },
+  {
+    "Transforaminal Epidural": "TREATMENT"
+  },
+  {
+    "lumbar": "PROBLEM"
+  },
+  {
+    "procedure": "TREATMENT"
+  },
+  {
+    "procedure": "TREATMENT"
+  },
+  {
+    "indications": "TREATMENT"
+  },
+  {
+    "risks": "PROBLEM"
+  },
+  {
+    "infection": "PROBLEM"
+  },
+  {
+    "bleeding": "PROBLEM"
+  },
+  {
+    "allergic reaction": "PROBLEM"
+  },
+  {
+    "dural puncture": "PROBLEM"
+  },
+  {
+    "headache": "PROBLEM"
+  },
+  {
+    "nerve injuries": "PROBLEM"
+  },
+  {
+    "spinal cord injury": "PROBLEM"
+  },
+  {
+    "cardiovascular": "PROBLEM"
+  },
+  {
+    "CNS side effects": "PROBLEM"
+  },
+  {
+    "vascular entry of medications": "PROBLEM"
+  },
+  {
+    "medications": "DRUG"
+  },
+  {
+    "medications": "DRUG"
+  },
+  {
+    "sedatives": "DRUG"
+  },
+  {
+    "narcotics": "DRUG"
+  },
+  {
+    "nonionic contrast agents": "DRUG"
+  },
+  {
+    "anesthetics": "DRUG"
+  },
+  {
+    "corticosteroids": "DRUG"
+  },
+  {
+    "informed consent": "TREATMENT"
+  },
+  {
+    "Oxygen saturation": "TEST"
+  },
+  {
+    "vital signs": "TEST"
+  },
+  {
+    "procedure": "TREATMENT"
+  },
+  {
+    "fluoroscopy machine": "TEST"
+  },
+  {
+    "prone position": "TREATMENT"
+  },
+  {
+    "treatment table": "TREATMENT"
+  },
+  {
+    "pillow": "TREATMENT"
+  },
+  {
+    "lower abdomen": "TREATMENT"
+  },
+  {
+    "lumbar lordosis": "PROBLEM"
+  },
+  {
+    "betadine": "DRUG"
+  },
+  {
+    "needle placement": "TREATMENT"
+  },
+  {
+    "Fluoroscopy": "TEST"
+  },
+  {
+    "boney landmarks": "TEST"
+  },
+  {
+    "facet joints": "PROBLEM"
+  },
+  {
+    "needle": "TREATMENT"
+  },
+  {
+    "lidocaine": "DRUG"
+  },
+  {
+    "spinal needle": "TREATMENT"
+  },
+  {
+    "fluoroscopy": "TEST"
+  },
+  {
+    "superior-anterior neuroforamin": "PROBLEM"
+  },
+  {
+    "mid-pedicular line": "PROBLEM"
+  },
+  {
+    "fluoroscopic views": "TEST"
+  },
+  {
+    "needle placement": "TEST"
+  },
+  {
+    "contrast agent": "DRUG"
+  },
+  {
+    "joint": "PROBLEM"
+  },
+  {
+    "fluoroscopic observation": "TEST"
+  },
+  {
+    "epidurogram": "TEST"
+  },
+  {
+    "radiculogram": "TEST"
+  },
+  {
+    "vascular dye pattern": "TEST"
+  },
+  {
+    "treatment solution": "TREATMENT"
+  },
+  {
+    "preservative free": "DRUG"
+  },
+  {
+    "procedure": "TREATMENT"
+  },
+  {
+    "None": "PROBLEM"
+  },
+  {
+    "complications": "PROBLEM"
+  },
+  {
+    "procedure": "TREATMENT"
+  },
+  {
+    "vital signs": "TEST"
+  },
+  {
+    "oximetry": "TEST"
+  },
+  {
+    "injection site": "PROBLEM"
+  },
+  {
+    "ice": "TREATMENT"
+  },
+  {
+    "aggressive activities": "TREATMENT"
+  },
+  {
+    "medications": "DRUG"
+  },
+  {
+    "relative rest": "TREATMENT"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "chills": "PROBLEM"
+  },
+  {
+    "increased pain": "PROBLEM"
+  },
+  {
+    "weakness": "PROBLEM"
+  },
+  {
+    "sensory or motor changes": "PROBLEM"
+  },
+  {
+    "bowel or bladder function": "PROBLEM"
+  },
+  {
+    "appointment": "TREATMENT"
+  },
+  {
+    "pain management": "TREATMENT"
+  },
+  {
+    "epidural lumbar": "TREATMENT"
+  },
+  {
+    "facet joints": "PROBLEM"
+  },
+  {
+    "transforaminal epidural": "TREATMENT"
+  },
+  {
+    "injection": "TREATMENT"
+  },
+  {
+    "fluoroscopy": "TEST"
+  },
+  {
+    "needle": "TEST"
+  }
+]

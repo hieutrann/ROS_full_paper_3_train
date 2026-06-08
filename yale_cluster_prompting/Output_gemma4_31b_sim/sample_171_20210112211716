@@ -1,0 +1,233 @@
+[
+  {
+    "Hypertension": "PROBLEM"
+  },
+  {
+    "Cardiomyopathy": "PROBLEM"
+  },
+  {
+    "Nonischemic cardiomyopathy": "PROBLEM"
+  },
+  {
+    "branch vessel coronary artery disease": "PROBLEM"
+  },
+  {
+    "congestive heart failure": "PROBLEM"
+  },
+  {
+    "nonsustained ventricular tachycardia": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "hepatitis C": "PROBLEM"
+  },
+  {
+    "Nonischemic cardiomyopathy": "PROBLEM"
+  },
+  {
+    "Branch vessel coronary artery disease": "PROBLEM"
+  },
+  {
+    "Congestive heart failure": "PROBLEM"
+  },
+  {
+    "nonsustained ventricular tachycardia": "PROBLEM"
+  },
+  {
+    "Hypertension": "PROBLEM"
+  },
+  {
+    "Hepatitis C": "PROBLEM"
+  },
+  {
+    "CHF exacerbation": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "orthopnea": "PROBLEM"
+  },
+  {
+    "PND": "PROBLEM"
+  },
+  {
+    "palpitation": "PROBLEM"
+  },
+  {
+    "presyncope": "PROBLEM"
+  },
+  {
+    "syncope": "PROBLEM"
+  },
+  {
+    "right upper quadrant pain": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "appetite has decreased": "PROBLEM"
+  },
+  {
+    "joint pain": "PROBLEM"
+  },
+  {
+    "TIA": "PROBLEM"
+  },
+  {
+    "seizure": "PROBLEM"
+  },
+  {
+    "syncope": "PROBLEM"
+  },
+  {
+    "cocaine": "PROBLEM"
+  },
+  {
+    "Pulse": "TEST"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "pallor": "PROBLEM"
+  },
+  {
+    "icterus": "PROBLEM"
+  },
+  {
+    "cyanosis": "PROBLEM"
+  },
+  {
+    "Jugular venous distention": "PROBLEM"
+  },
+  {
+    "thyromegaly": "PROBLEM"
+  },
+  {
+    "Clear to auscultation": "TEST"
+  },
+  {
+    "rales": "PROBLEM"
+  },
+  {
+    "rhonchi": "PROBLEM"
+  },
+  {
+    "Pulse ox": "TEST"
+  },
+  {
+    "S1": "TEST"
+  },
+  {
+    "S2": "TEST"
+  },
+  {
+    "S3": "PROBLEM"
+  },
+  {
+    "S4": "PROBLEM"
+  },
+  {
+    "Liver is palpable 5 cm below the right subcostal margin": "PROBLEM"
+  },
+  {
+    "clubbing": "PROBLEM"
+  },
+  {
+    "cyanosis": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "nonischemic cardiomyopathy": "PROBLEM"
+  },
+  {
+    "branch vessel coronary artery disease": "PROBLEM"
+  },
+  {
+    "NYHA Class III": "PROBLEM"
+  },
+  {
+    "volume overload": "PROBLEM"
+  },
+  {
+    "Lasix": "DRUG"
+  },
+  {
+    "Lasix": "DRUG"
+  },
+  {
+    "hydralazine": "DRUG"
+  },
+  {
+    "Toprol": "DRUG"
+  },
+  {
+    "lisinopril": "DRUG"
+  },
+  {
+    "Aldactone": "DRUG"
+  },
+  {
+    "cocaine": "DRUG"
+  },
+  {
+    "cocaine": "DRUG"
+  },
+  {
+    "BMP": "TEST"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "weight": "TEST"
+  },
+  {
+    "hepatitis C": "PROBLEM"
+  },
+  {
+    "fasting lipid profile": "TEST"
+  },
+  {
+    "AST": "TEST"
+  },
+  {
+    "ALT": "TEST"
+  },
+  {
+    "congestive heart failure": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "cardiomyopathy": "PROBLEM"
+  },
+  {
+    "coronary artery disease": "PROBLEM"
+  },
+  {
+    "ventricular tachycardia": "PROBLEM"
+  },
+  {
+    "nonischemic cardiomyopathy": "PROBLEM"
+  },
+  {
+    "tachycardia": "PROBLEM"
+  },
+  {
+    "orthopnea": "PROBLEM"
+  }
+]

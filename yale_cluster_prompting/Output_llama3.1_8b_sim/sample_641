@@ -1,0 +1,608 @@
+[
+  {
+    "Hypertension": "PROBLEM"
+  },
+  {
+    "atrial fibrillation": "PROBLEM"
+  },
+  {
+    "large cardioembolic stroke": "PROBLEM"
+  },
+  {
+    "right brain": "PROBLEM"
+  },
+  {
+    "special procedures": "TREATMENT"
+  },
+  {
+    "Dr": "TREATMENT"
+  },
+  {
+    "stroke": "PROBLEM"
+  },
+  {
+    "left body findings": "PROBLEM"
+  },
+  {
+    "emergent treatment": "TREATMENT"
+  },
+  {
+    "CT scan": "TEST"
+  },
+  {
+    "head": "PROBLEM"
+  },
+  {
+    "protocol medication": "DRUG"
+  },
+  {
+    "TPA": "DRUG"
+  },
+  {
+    "atrial fibrillation": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "labetalol": "DRUG"
+  },
+  {
+    "heart rate": "TEST"
+  },
+  {
+    "Cardizem": "DRUG"
+  },
+  {
+    "stroke": "PROBLEM"
+  },
+  {
+    "cardioembolic": "PROBLEM"
+  },
+  {
+    "study drug": "DRUG"
+  },
+  {
+    "TPA": "DRUG"
+  },
+  {
+    "comatose": "PROBLEM"
+  },
+  {
+    "intubation": "TREATMENT"
+  },
+  {
+    "paralyzation": "TREATMENT"
+  },
+  {
+    "diastolic": "PROBLEM"
+  },
+  {
+    "stroke": "PROBLEM"
+  },
+  {
+    "arteriogram": "TEST"
+  },
+  {
+    "clot": "PROBLEM"
+  },
+  {
+    "carotid": "PROBLEM"
+  },
+  {
+    "clot": "PROBLEM"
+  },
+  {
+    "Dr.": "TREATMENT"
+  },
+  {
+    "prognosis": "PROBLEM"
+  },
+  {
+    "STAT echocardiogram": "TEST"
+  },
+  {
+    "large clot": "PROBLEM"
+  },
+  {
+    "patent foramen ovale clot": "PROBLEM"
+  },
+  {
+    "arteriogram": "TEST"
+  },
+  {
+    "lifesaving procedure": "TREATMENT"
+  },
+  {
+    "review of systems": "TEST"
+  },
+  {
+    "bladder distension surgery": "TREATMENT"
+  },
+  {
+    "Coumadin": "DRUG"
+  },
+  {
+    "AFib": "PROBLEM"
+  },
+  {
+    "Tremor": "PROBLEM"
+  },
+  {
+    "Parkinson's": "PROBLEM"
+  },
+  {
+    "GERD": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "arthritis": "PROBLEM"
+  },
+  {
+    "Parkinson's": "PROBLEM"
+  },
+  {
+    "TIA": "PROBLEM"
+  },
+  {
+    "atrial fibrillation": "PROBLEM"
+  },
+  {
+    "Coumadin": "DRUG"
+  },
+  {
+    "Cholecystectomy": "TREATMENT"
+  },
+  {
+    "TAH 33": "TREATMENT"
+  },
+  {
+    "gallstones": "PROBLEM"
+  },
+  {
+    "back surgery": "TREATMENT"
+  },
+  {
+    "thoracotomy": "TREATMENT"
+  },
+  {
+    "MORPHINE": "DRUG"
+  },
+  {
+    "SULFAS": "DRUG"
+  },
+  {
+    "PROZAC": "DRUG"
+  },
+  {
+    "Lanoxin": "DRUG"
+  },
+  {
+    "Inderal LA": "DRUG"
+  },
+  {
+    "MOBIC": "DRUG"
+  },
+  {
+    "Robaxin": "DRUG"
+  },
+  {
+    "aspirin": "DRUG"
+  },
+  {
+    "acyclovir": "DRUG"
+  },
+  {
+    "potassium": "DRUG"
+  },
+  {
+    "oxazepam": "DRUG"
+  },
+  {
+    "ibuprofen": "DRUG"
+  },
+  {
+    "Darvocet-N": "DRUG"
+  },
+  {
+    "drink": "PROBLEM"
+  },
+  {
+    "smoke": "PROBLEM"
+  },
+  {
+    "Fayetteville": "PROBLEM"
+  },
+  {
+    "cancer": "PROBLEM"
+  },
+  {
+    "MI": "PROBLEM"
+  },
+  {
+    "VACCINATION STATUS": "PROBLEM"
+  },
+  {
+    "temperature": "TEST"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "heart rate": "TEST"
+  },
+  {
+    "respirations": "TEST"
+  },
+  {
+    "alert": "PROBLEM"
+  },
+  {
+    "vital signs": "TEST"
+  },
+  {
+    "physical exam": "TEST"
+  },
+  {
+    "white count": "TEST"
+  },
+  {
+    "neutrophils": "TEST"
+  },
+  {
+    "BMP": "TEST"
+  },
+  {
+    "blood sugar": "TEST"
+  },
+  {
+    "157": "TEST"
+  },
+  {
+    "hemoglobin A1c": "TEST"
+  },
+  {
+    "pending": "TEST"
+  },
+  {
+    "TSH": "TEST"
+  },
+  {
+    "cholesterol": "TEST"
+  },
+  {
+    "Digoxin": "DRUG"
+  },
+  {
+    "CPK": "TEST"
+  },
+  {
+    "ABG": "TEST"
+  },
+  {
+    "Magnesium": "DRUG"
+  },
+  {
+    "ESR": "TEST"
+  },
+  {
+    "coags": "TEST"
+  },
+  {
+    "EKG": "TEST"
+  },
+  {
+    "cardiomegaly": "PROBLEM"
+  },
+  {
+    "atherosclerotic aorta": "PROBLEM"
+  },
+  {
+    "Chest x-ray": "TEST"
+  },
+  {
+    "Chest x-ray": "TEST"
+  },
+  {
+    "shoulder films": "TEST"
+  },
+  {
+    "CT scan of the head": "TEST"
+  },
+  {
+    "Chest x-ray": "TEST"
+  },
+  {
+    "ET tube placement": "TEST"
+  },
+  {
+    "cardiomegaly": "PROBLEM"
+  },
+  {
+    "interstitial opacities": "PROBLEM"
+  },
+  {
+    "OGD": "PROBLEM"
+  },
+  {
+    "atherosclerosis": "PROBLEM"
+  },
+  {
+    "aorta": "PROBLEM"
+  },
+  {
+    "CT scan of the head": "TEST"
+  },
+  {
+    "X-rays": "TEST"
+  },
+  {
+    "radiologies": "TEST"
+  },
+  {
+    "PROBLEMS": "PROBLEM"
+  },
+  {
+    "cardioembolic stroke": "PROBLEM"
+  },
+  {
+    "right brain": "PROBLEM"
+  },
+  {
+    "left brain": "PROBLEM"
+  },
+  {
+    "mental status": "PROBLEM"
+  },
+  {
+    "multiple strokes": "PROBLEM"
+  },
+  {
+    "clot burden": "PROBLEM"
+  },
+  {
+    "patent foramen ovale": "PROBLEM"
+  },
+  {
+    "cardiologist": "TREATMENT"
+  },
+  {
+    "echocardiogram": "TEST"
+  },
+  {
+    "echo": "TEST"
+  },
+  {
+    "clot burdened in the heart": "PROBLEM"
+  },
+  {
+    "distal clot": "PROBLEM"
+  },
+  {
+    "PFO": "PROBLEM"
+  },
+  {
+    "anticoagulants": "DRUG"
+  },
+  {
+    "study drug": "DRUG"
+  },
+  {
+    "clot": "PROBLEM"
+  },
+  {
+    "emergency retrieval device": "TREATMENT"
+  },
+  {
+    "activated heroically": "TREATMENT"
+  },
+  {
+    "interventional radiology": "TREATMENT"
+  },
+  {
+    "Tremor for": "TEST"
+  },
+  {
+    "Hypertension": "PROBLEM"
+  },
+  {
+    "atrial fibrillation": "PROBLEM"
+  },
+  {
+    "beta-blocker": "DRUG"
+  },
+  {
+    "Parkinson's": "PROBLEM"
+  },
+  {
+    "atrial fibrillation": "PROBLEM"
+  },
+  {
+    "Cardizem": "DRUG"
+  },
+  {
+    "systolic": "TEST"
+  },
+  {
+    "diastolics": "TEST"
+  },
+  {
+    "atrial fibrillation": "PROBLEM"
+  },
+  {
+    "heart block": "PROBLEM"
+  },
+  {
+    "Digoxin": "DRUG"
+  },
+  {
+    "beta-blocker": "DRUG"
+  },
+  {
+    "beta-blocker": "DRUG"
+  },
+  {
+    "Digoxin": "DRUG"
+  },
+  {
+    "beta-blocker": "DRUG"
+  },
+  {
+    "calcium channel blocker": "DRUG"
+  },
+  {
+    "Brevibloc": "DRUG"
+  },
+  {
+    "Esmolol": "DRUG"
+  },
+  {
+    "beta-blocker": "DRUG"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "cardiology": "TREATMENT"
+  },
+  {
+    "Digoxin": "DRUG"
+  },
+  {
+    "TSH": "TEST"
+  },
+  {
+    "echo": "TEST"
+  },
+  {
+    "ultrasound": "TEST"
+  },
+  {
+    "3": "TREATMENT"
+  },
+  {
+    "Respiratory failure": "PROBLEM"
+  },
+  {
+    "ventilator": "TREATMENT"
+  },
+  {
+    "hyperventilate": "TREATMENT"
+  },
+  {
+    "breathing machine": "TREATMENT"
+  },
+  {
+    "pH": "TEST"
+  },
+  {
+    "CO2": "TEST"
+  },
+  {
+    "brain swelling": "PROBLEM"
+  },
+  {
+    "pCO2": "TEST"
+  },
+  {
+    "pH": "TEST"
+  },
+  {
+    "cardiac arrhythmia": "PROBLEM"
+  },
+  {
+    "alkalosis": "PROBLEM"
+  },
+  {
+    "brain swelling": "PROBLEM"
+  },
+  {
+    "4": "TREATMENT"
+  },
+  {
+    "electrolytes": "PROBLEM"
+  },
+  {
+    "5": "TREATMENT"
+  },
+  {
+    "Deep vein thrombosis": "PROBLEM"
+  },
+  {
+    "prophylaxis": "TREATMENT"
+  },
+  {
+    "TED hose": "TREATMENT"
+  },
+  {
+    "SCDs": "TREATMENT"
+  },
+  {
+    "DIC": "PROBLEM"
+  },
+  {
+    "venom": "DRUG"
+  },
+  {
+    "prophylaxis": "TREATMENT"
+  },
+  {
+    "CBCs": "TEST"
+  },
+  {
+    "6": "TREATMENT"
+  },
+  {
+    "tube feeds": "TREATMENT"
+  },
+  {
+    "Dr": "TREATMENT"
+  },
+  {
+    "neurologic prognosis": "PROBLEM"
+  },
+  {
+    "medication treatment": "TREATMENT"
+  },
+  {
+    "general medicine": "TREATMENT"
+  },
+  {
+    "medical management consult request": "TEST"
+  },
+  {
+    "medical management consult": "TREATMENT"
+  },
+  {
+    "management consult request": "TEST"
+  },
+  {
+    "review of systems": "TEST"
+  },
+  {
+    "chest x ray": "TEST"
+  },
+  {
+    "foramen ovale": "PROBLEM"
+  },
+  {
+    "medical management": "TREATMENT"
+  },
+  {
+    "ct scan": "TEST"
+  },
+  {
+    "atrial": "PROBLEM"
+  },
+  {
+    "fibrillation": "PROBLEM"
+  },
+  {
+    "heart": "PROBLEM"
+  },
+  {
+    "clot": "PROBLEM"
+  }
+]

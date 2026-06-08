@@ -1,0 +1,98 @@
+[
+  {
+    "coronary artery disease": "PROBLEM"
+  },
+  {
+    "bypass surgery": "TREATMENT"
+  },
+  {
+    "angioplasty": "TREATMENT"
+  },
+  {
+    "urinary tract infection": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "diabetes mellitus": "PROBLEM"
+  },
+  {
+    "cholesterol": "PROBLEM"
+  },
+  {
+    "elevated PSA": "PROBLEM"
+  },
+  {
+    "BPH": "PROBLEM"
+  },
+  {
+    "questionable cancer": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "fatigue and tiredness": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "infection": "PROBLEM"
+  },
+  {
+    "Metformin": "DRUG"
+  },
+  {
+    "Prilosec": "DRUG"
+  },
+  {
+    "Folic acid": "DRUG"
+  },
+  {
+    "Flomax": "DRUG"
+  },
+  {
+    "Metoprolol": "DRUG"
+  },
+  {
+    "Crestor": "DRUG"
+  },
+  {
+    "Claritin": "DRUG"
+  },
+  {
+    "Demerol": "DRUG"
+  },
+  {
+    "Sulfa": "DRUG"
+  },
+  {
+    "antibiotic": "DRUG"
+  },
+  {
+    "EKG": "TEST"
+  },
+  {
+    "LABORATORY DATA": "TEST"
+  },
+  {
+    "H&H": "TEST"
+  },
+  {
+    "BUN and creatinine": "TEST"
+  },
+  {
+    "cardiac workup": "TEST"
+  },
+  {
+    "Artery": "TEST"
+  },
+  {
+    "cardiac": "TEST"
+  },
+  {
+    "anxiety": "TEST"
+  }
+]

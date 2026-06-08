@@ -1,0 +1,143 @@
+[
+  {
+    "Transforaminal Epidural": "TREATMENT"
+  },
+  {
+    "lumbar": "PROBLEM"
+  },
+  {
+    "Fluoroscopy": "TEST"
+  },
+  {
+    "facet joints": "PROBLEM"
+  },
+  {
+    "needle approach": "TEST"
+  },
+  {
+    "1 % lidocaine": "DRUG"
+  },
+  {
+    "infection": "PROBLEM"
+  },
+  {
+    "bleeding": "PROBLEM"
+  },
+  {
+    "allergic reaction": "PROBLEM"
+  },
+  {
+    "dural puncture": "PROBLEM"
+  },
+  {
+    "headache": "PROBLEM"
+  },
+  {
+    "nerve injuries": "PROBLEM"
+  },
+  {
+    "spinal cord injury": "PROBLEM"
+  },
+  {
+    "cardiovascular": "PROBLEM"
+  },
+  {
+    "CNS side effects": "PROBLEM"
+  },
+  {
+    "vascular entry": "PROBLEM"
+  },
+  {
+    "sedatives": "DRUG"
+  },
+  {
+    "narcotics": "DRUG"
+  },
+  {
+    "nonionic contrast agents": "DRUG"
+  },
+  {
+    "anesthetics": "DRUG"
+  },
+  {
+    "corticosteroids": "DRUG"
+  },
+  {
+    "Oxygen saturation": "TEST"
+  },
+  {
+    "vital signs": "TEST"
+  },
+  {
+    "fluoroscopy": "TEST"
+  },
+  {
+    "boney landmarks": "PROBLEM"
+  },
+  {
+    "facet joints": "PROBLEM"
+  },
+  {
+    "needle approach": "TEST"
+  },
+  {
+    "1 % lidocaine": "DRUG"
+  },
+  {
+    "spinal needle": "TEST"
+  },
+  {
+    "fluoroscopy": "TEST"
+  },
+  {
+    "non-ionic contrast agent": "DRUG"
+  },
+  {
+    "epidurogram": "TEST"
+  },
+  {
+    "radiculogram": "TEST"
+  },
+  {
+    "vascular dye pattern": "TEST"
+  },
+  {
+    "treatment solution": "TREATMENT"
+  },
+  {
+    "preservative free": "DRUG"
+  },
+  {
+    "sterile techniques": "TREATMENT"
+  },
+  {
+    "vital signs": "TEST"
+  },
+  {
+    "oximetry": "TEST"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "chills": "PROBLEM"
+  },
+  {
+    "increased pain": "PROBLEM"
+  },
+  {
+    "weakness": "PROBLEM"
+  },
+  {
+    "sensory or motor changes": "PROBLEM"
+  },
+  {
+    "bowel or bladder function": "PROBLEM"
+  }
+]

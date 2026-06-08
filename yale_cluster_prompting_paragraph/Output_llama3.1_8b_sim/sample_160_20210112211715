@@ -1,0 +1,125 @@
+[
+  {
+    "Acute cholecystitis": "PROBLEM"
+  },
+  {
+    "Status post laparoscopic cholecystectomy": "PROBLEM"
+  },
+  {
+    "End-stage renal disease": "PROBLEM"
+  },
+  {
+    "Hyperlipidemia": "PROBLEM"
+  },
+  {
+    "Hypertension": "PROBLEM"
+  },
+  {
+    "Congestive heart failure": "PROBLEM"
+  },
+  {
+    "Skin lymphoma": "PROBLEM"
+  },
+  {
+    "Hypothyroidism": "PROBLEM"
+  },
+  {
+    "renal cyst": "PROBLEM"
+  },
+  {
+    "sludge in the gallbladder wall": "PROBLEM"
+  },
+  {
+    "stone in the gallbladder wall": "PROBLEM"
+  },
+  {
+    "thickening of the gallbladder wall": "PROBLEM"
+  },
+  {
+    "positive Murphy sign": "PROBLEM"
+  },
+  {
+    "cholecystitis": "PROBLEM"
+  },
+  {
+    "renal cyst": "PROBLEM"
+  },
+  {
+    "sludge in the gallbladder wall": "PROBLEM"
+  },
+  {
+    "stone in the gallbladder wall": "PROBLEM"
+  },
+  {
+    "thickening of the gallbladder wall": "PROBLEM"
+  },
+  {
+    "positive Murphy sign": "PROBLEM"
+  },
+  {
+    "cholecystitis": "PROBLEM"
+  },
+  {
+    "Laparoscopic cholecystectomy": "TREATMENT"
+  },
+  {
+    "IV fluid": "TREATMENT"
+  },
+  {
+    "low-dose IV antibiotic": "TREATMENT"
+  },
+  {
+    "2-D echocardiogram": "TEST"
+  },
+  {
+    "EKG": "TEST"
+  },
+  {
+    "blood culture": "TEST"
+  },
+  {
+    "urine culture": "TEST"
+  },
+  {
+    "Synthroid": "DRUG"
+  },
+  {
+    "Plavix": "DRUG"
+  },
+  {
+    "folic acid": "DRUG"
+  },
+  {
+    "Diovan": "DRUG"
+  },
+  {
+    "Renagel": "DRUG"
+  },
+  {
+    "Lasix": "DRUG"
+  },
+  {
+    "lovastatin": "DRUG"
+  },
+  {
+    "Coreg": "DRUG"
+  },
+  {
+    "nebulizer therapy": "TREATMENT"
+  },
+  {
+    "Phenergan": "DRUG"
+  },
+  {
+    "Pepcid": "DRUG"
+  },
+  {
+    "Vicodin": "DRUG"
+  },
+  {
+    "Levaquin": "DRUG"
+  },
+  {
+    "Premarin": "DRUG"
+  }
+]

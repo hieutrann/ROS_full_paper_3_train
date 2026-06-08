@@ -1,0 +1,293 @@
+[
+  {
+    "diabetes mellitus": "PROBLEM"
+  },
+  {
+    "type 1": "PROBLEM"
+  },
+  {
+    "diabetes mellitus, type 1": "PROBLEM"
+  },
+  {
+    "diabetic neuropathy": "PROBLEM"
+  },
+  {
+    "NPH": "DRUG"
+  },
+  {
+    "Regular insulin": "DRUG"
+  },
+  {
+    "blood sugars": "PROBLEM"
+  },
+  {
+    "low blood sugar": "PROBLEM"
+  },
+  {
+    "motor vehicle accident": "PROBLEM"
+  },
+  {
+    "blood sugar dropped too low": "PROBLEM"
+  },
+  {
+    "blood sugars": "TEST"
+  },
+  {
+    "hypoglycemia": "PROBLEM"
+  },
+  {
+    "blood sugars": "PROBLEM"
+  },
+  {
+    "blood sugar": "PROBLEM"
+  },
+  {
+    "glucometer": "TEST"
+  },
+  {
+    "kidney damage": "PROBLEM"
+  },
+  {
+    "urine microalbumin": "TEST"
+  },
+  {
+    "hemoglobin A1C": "TEST"
+  },
+  {
+    "Lantus": "DRUG"
+  },
+  {
+    "blood sugars": "TEST"
+  },
+  {
+    "Lantus": "DRUG"
+  },
+  {
+    "hemoglobin A1C": "TEST"
+  },
+  {
+    "CMP": "TEST"
+  },
+  {
+    "alkaline phosphatase level": "TEST"
+  },
+  {
+    "elevated alkaline phosphatase level": "PROBLEM"
+  },
+  {
+    "SGGT": "TEST"
+  },
+  {
+    "hepatic panel": "TEST"
+  },
+  {
+    "gastroparesis": "PROBLEM"
+  },
+  {
+    "impotence": "PROBLEM"
+  },
+  {
+    "Nexium": "DRUG"
+  },
+  {
+    "Viagra": "DRUG"
+  },
+  {
+    "scooter accident": "PROBLEM"
+  },
+  {
+    "fell off his scooter": "PROBLEM"
+  },
+  {
+    "hit his head": "PROBLEM"
+  },
+  {
+    "headache": "PROBLEM"
+  },
+  {
+    "scalp laceration": "PROBLEM"
+  },
+  {
+    "headache": "PROBLEM"
+  },
+  {
+    "dizziness": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "neurological abnormalities": "PROBLEM"
+  },
+  {
+    "Blood sugar": "TEST"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "heart rate": "TEST"
+  },
+  {
+    "respirations": "TEST"
+  },
+  {
+    "Microalbumin": "TEST"
+  },
+  {
+    "skin lacerations": "PROBLEM"
+  },
+  {
+    "granulation tissue": "PROBLEM"
+  },
+  {
+    "PERRLA": "TEST"
+  },
+  {
+    "LAD": "PROBLEM"
+  },
+  {
+    "RRR": "TEST"
+  },
+  {
+    "murmurs": "TEST"
+  },
+  {
+    "rubs": "TEST"
+  },
+  {
+    "gallops": "TEST"
+  },
+  {
+    "HSM": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "lower extremity numbness": "PROBLEM"
+  },
+  {
+    "Microfilament test": "TEST"
+  },
+  {
+    "without sensation": "PROBLEM"
+  },
+  {
+    "calloused and dry": "PROBLEM"
+  },
+  {
+    "contusion": "PROBLEM"
+  },
+  {
+    "Cranial nerves 2-12": "TEST"
+  },
+  {
+    "Cerebellar function": "TEST"
+  },
+  {
+    "RAM": "TEST"
+  },
+  {
+    "Diabetes mellitus, type 1, poorly controlled.": "PROBLEM"
+  },
+  {
+    "diabetic neuropathy": "PROBLEM"
+  },
+  {
+    "microalbuminuria": "PROBLEM"
+  },
+  {
+    "Scalp laceration": "PROBLEM"
+  },
+  {
+    "motor vehicle accident": "PROBLEM"
+  },
+  {
+    "Alk Phos": "TEST"
+  },
+  {
+    "Diabetes mellitus type 1": "PROBLEM"
+  },
+  {
+    "elevated alkaline phosphatase": "PROBLEM"
+  },
+  {
+    "SGGT": "TEST"
+  },
+  {
+    "hepatic function panel": "TEST"
+  },
+  {
+    "microalbumin": "TEST"
+  },
+  {
+    "Ace Inhibitor": "DRUG"
+  },
+  {
+    "Lantus": "DRUG"
+  },
+  {
+    "blood sugars": "TEST"
+  },
+  {
+    "Prilosec": "DRUG"
+  },
+  {
+    "GERD": "PROBLEM"
+  },
+  {
+    "Lacerations": "PROBLEM"
+  },
+  {
+    "heat": "PROBLEM"
+  },
+  {
+    "swelling": "PROBLEM"
+  },
+  {
+    "infection": "PROBLEM"
+  },
+  {
+    "does not have feeling in the majority of his lower body": "PROBLEM"
+  },
+  {
+    "diabetes mellitus": "PROBLEM"
+  },
+  {
+    "nph": "DRUG"
+  },
+  {
+    "regular insulin": "DRUG"
+  },
+  {
+    "diabetic neuropathy": "PROBLEM"
+  },
+  {
+    "dizziness": "PROBLEM"
+  },
+  {
+    "glucometer": "TEST"
+  },
+  {
+    "hypoglycemia": "PROBLEM"
+  },
+  {
+    "microalbumin": "TEST"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "blood sugars": "TEST"
+  },
+  {
+    "diabetes": "PROBLEM"
+  }
+]

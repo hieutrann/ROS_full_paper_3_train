@@ -1,0 +1,173 @@
+[
+  {
+    "depression": "PROBLEM"
+  },
+  {
+    "high risk behavior": "PROBLEM"
+  },
+  {
+    "depressed": "PROBLEM"
+  },
+  {
+    "anxious": "PROBLEM"
+  },
+  {
+    "paranoia": "PROBLEM"
+  },
+  {
+    "relapse": "PROBLEM"
+  },
+  {
+    "RTC level of care": "TREATMENT"
+  },
+  {
+    "group-oriented therapy program": "TREATMENT"
+  },
+  {
+    "psychotropic medications": "DRUG"
+  },
+  {
+    "individual, group, and family therapy": "TREATMENT"
+  },
+  {
+    "Perceptual disturbances": "PROBLEM"
+  },
+  {
+    "disorganized thoughts": "PROBLEM"
+  },
+  {
+    "audiovisual hallucinations": "PROBLEM"
+  },
+  {
+    "flat affect": "PROBLEM"
+  },
+  {
+    "irritable": "PROBLEM"
+  },
+  {
+    "anxious": "PROBLEM"
+  },
+  {
+    "depressed moods": "PROBLEM"
+  },
+  {
+    "strange feelings and sensations": "PROBLEM"
+  },
+  {
+    "RTC program": "TREATMENT"
+  },
+  {
+    "sleep-deprived EEG": "TEST"
+  },
+  {
+    "EKG": "TEST"
+  },
+  {
+    "H&P": "TEST"
+  },
+  {
+    "psychiatric treatment": "TREATMENT"
+  },
+  {
+    "blood work": "TEST"
+  },
+  {
+    "basic metabolic panel": "TEST"
+  },
+  {
+    "CBC": "TEST"
+  },
+  {
+    "TSH": "TEST"
+  },
+  {
+    "UA": "TEST"
+  },
+  {
+    "urine drug screen": "TEST"
+  },
+  {
+    "thyroid dysfunction": "PROBLEM"
+  },
+  {
+    "thyroid panel": "TEST"
+  },
+  {
+    "T3": "TEST"
+  },
+  {
+    "T4": "TEST"
+  },
+  {
+    "TSH": "TEST"
+  },
+  {
+    "asthma": "PROBLEM"
+  },
+  {
+    "heart murmur": "PROBLEM"
+  },
+  {
+    "CBC": "TEST"
+  },
+  {
+    "Hematocrit": "TEST"
+  },
+  {
+    "absolute monocytes": "TEST"
+  },
+  {
+    "Major depression, recurrent, with psychotic features": "PROBLEM"
+  },
+  {
+    "Psychosocial stressors": "PROBLEM"
+  },
+  {
+    "GAF": "TEST"
+  },
+  {
+    "suicidal or homicidal ideas": "PROBLEM"
+  },
+  {
+    "perception disturbances": "PROBLEM"
+  },
+  {
+    "RTC (Residential Treatment Center) program": "TREATMENT"
+  },
+  {
+    "Seroquel": "DRUG"
+  },
+  {
+    "Benadryl": "DRUG"
+  },
+  {
+    "anxiety": "PROBLEM"
+  },
+  {
+    "agitation": "PROBLEM"
+  },
+  {
+    "Wellbutrin XL": "DRUG"
+  },
+  {
+    "vitamin E": "DRUG"
+  },
+  {
+    "Restoril": "DRUG"
+  },
+  {
+    "anxiety": "PROBLEM"
+  },
+  {
+    "galactorrhea": "PROBLEM"
+  },
+  {
+    "galactorrhea (lactation)": "PROBLEM"
+  },
+  {
+    "Risperdal": "DRUG"
+  },
+  {
+    "Risperdal": "DRUG"
+  }
+]

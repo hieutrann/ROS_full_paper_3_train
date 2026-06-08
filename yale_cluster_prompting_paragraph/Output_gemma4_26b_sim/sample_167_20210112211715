@@ -1,0 +1,119 @@
+[
+  {
+    "osteoarthritis": "PROBLEM"
+  },
+  {
+    "urine incontinence": "PROBLEM"
+  },
+  {
+    "stool incontinence": "PROBLEM"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "systolic murmur": "PROBLEM"
+  },
+  {
+    "Bowel sound": "TEST"
+  },
+  {
+    "pedal edema": "PROBLEM"
+  },
+  {
+    "fixed flexion deformity": "PROBLEM"
+  },
+  {
+    "pressure ulcer": "PROBLEM"
+  },
+  {
+    "brain atrophy": "PROBLEM"
+  },
+  {
+    "Sodium": "TEST"
+  },
+  {
+    "potassium": "TEST"
+  },
+  {
+    "chloride": "TEST"
+  },
+  {
+    "bicarbonate": "TEST"
+  },
+  {
+    "BUN": "TEST"
+  },
+  {
+    "creatinine": "TEST"
+  },
+  {
+    "glucose": "TEST"
+  },
+  {
+    "white blood cell count": "TEST"
+  },
+  {
+    "hemoglobin": "TEST"
+  },
+  {
+    "hematocrit": "TEST"
+  },
+  {
+    "platelet count": "TEST"
+  },
+  {
+    "urinalysis": "TEST"
+  },
+  {
+    "E. coli": "PROBLEM"
+  },
+  {
+    "amikacin": "DRUG"
+  },
+  {
+    "nitrofurantoin": "DRUG"
+  },
+  {
+    "imipenem": "DRUG"
+  },
+  {
+    "meropenem": "DRUG"
+  },
+  {
+    "swallowing evaluation": "TEST"
+  },
+  {
+    "Vasotec": "DRUG"
+  },
+  {
+    "Neuro check": "TEST"
+  },
+  {
+    "Lovenox": "DRUG"
+  },
+  {
+    "Ecotrin": "DRUG"
+  },
+  {
+    "Aricept": "DRUG"
+  },
+  {
+    "Diovan": "DRUG"
+  },
+  {
+    "multivitamin": "DRUG"
+  },
+  {
+    "calcium with vitamin D": "DRUG"
+  },
+  {
+    "Tylenol": "DRUG"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "D5 normal saline": "TREATMENT"
+  }
+]

@@ -1,0 +1,149 @@
+[
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "psychological disorders": "PROBLEM"
+  },
+  {
+    "supraventricular tachycardia": "PROBLEM"
+  },
+  {
+    "coronary artery disease": "PROBLEM"
+  },
+  {
+    "seizure disorder": "PROBLEM"
+  },
+  {
+    "migraine headaches": "PROBLEM"
+  },
+  {
+    "CHF": "PROBLEM"
+  },
+  {
+    "mitral valve prolapse": "PROBLEM"
+  },
+  {
+    "colon cancer": "PROBLEM"
+  },
+  {
+    "breast cancer": "PROBLEM"
+  },
+  {
+    "chest tightness": "PROBLEM"
+  },
+  {
+    "headaches": "PROBLEM"
+  },
+  {
+    "EKG": "TEST"
+  },
+  {
+    "drug screen": "TEST"
+  },
+  {
+    "WBC count": "TEST"
+  },
+  {
+    "hemoglobin": "TEST"
+  },
+  {
+    "hematocrit": "TEST"
+  },
+  {
+    "sodium": "TEST"
+  },
+  {
+    "potassium": "TEST"
+  },
+  {
+    "chloride": "TEST"
+  },
+  {
+    "glucose": "TEST"
+  },
+  {
+    "bicarbonate": "TEST"
+  },
+  {
+    "BUN": "TEST"
+  },
+  {
+    "creatinine": "TEST"
+  },
+  {
+    "liver function tests": "TEST"
+  },
+  {
+    "cardiac enzymes": "TEST"
+  },
+  {
+    "troponin-I": "TEST"
+  },
+  {
+    "CPK-MB": "TEST"
+  },
+  {
+    "myoglobulin": "TEST"
+  },
+  {
+    "toxicology screen": "TEST"
+  },
+  {
+    "head CT": "TEST"
+  },
+  {
+    "beta-hCG level": "TEST"
+  },
+  {
+    "Dilantin": "DRUG"
+  },
+  {
+    "Klonopin": "DRUG"
+  },
+  {
+    "Elavil": "DRUG"
+  },
+  {
+    "nitroglycerin": "DRUG"
+  },
+  {
+    "Thorazine": "DRUG"
+  },
+  {
+    "Neurontin": "DRUG"
+  },
+  {
+    "Phenergan": "DRUG"
+  },
+  {
+    "methadone": "DRUG"
+  },
+  {
+    "morphine": "DRUG"
+  },
+  {
+    "marijuana": "DRUG"
+  },
+  {
+    "lumpectomy": "TREATMENT"
+  },
+  {
+    "breast augmentation surgery": "TREATMENT"
+  },
+  {
+    "cholecystectomy": "TREATMENT"
+  },
+  {
+    "cardiac ablation": "TREATMENT"
+  },
+  {
+    "left knee surgery": "TREATMENT"
+  },
+  {
+    "removal of half the pancreas": "TREATMENT"
+  },
+  {
+    "abortion": "TREATMENT"
+  }
+]

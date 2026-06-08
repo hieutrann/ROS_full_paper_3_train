@@ -1,0 +1,95 @@
+[
+  {
+    "COPD": "PROBLEM"
+  },
+  {
+    "bronchospasm": "PROBLEM"
+  },
+  {
+    "increased cough": "PROBLEM"
+  },
+  {
+    "respiratory secretions": "PROBLEM"
+  },
+  {
+    "wheezings": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "acute asthmatic bronchitis": "PROBLEM"
+  },
+  {
+    "asthmatic bronchitis": "PROBLEM"
+  },
+  {
+    "artificial aortic valve implantation": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "elevated cholesterol": "PROBLEM"
+  },
+  {
+    "CHF": "PROBLEM"
+  },
+  {
+    "Sodium": "TEST"
+  },
+  {
+    "potassium": "TEST"
+  },
+  {
+    "BUN": "TEST"
+  },
+  {
+    "creatinine": "TEST"
+  },
+  {
+    "Hemoglobin": "TEST"
+  },
+  {
+    "hematocrit": "TEST"
+  },
+  {
+    "chest x-ray": "TEST"
+  },
+  {
+    "cortisone": "DRUG"
+  },
+  {
+    "Solu-Medrol": "DRUG"
+  },
+  {
+    "Prednisone": "DRUG"
+  },
+  {
+    "Keflex": "DRUG"
+  },
+  {
+    "pneumococcal vaccination": "DRUG"
+  },
+  {
+    "intravenous antibiotics": "TREATMENT"
+  },
+  {
+    "vigorous respiratory therapy": "TREATMENT"
+  },
+  {
+    "intravenous Solu-Medrol": "TREATMENT"
+  },
+  {
+    "chest x-ray": "TEST"
+  },
+  {
+    "Prednisone": "TREATMENT"
+  },
+  {
+    "Keflex": "TREATMENT"
+  },
+  {
+    "pneumococcal vaccination": "TREATMENT"
+  }
+]

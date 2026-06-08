@@ -1,0 +1,92 @@
+[
+  {
+    "itchiness": "PROBLEM"
+  },
+  {
+    "itchy rash": "PROBLEM"
+  },
+  {
+    "facial swelling": "PROBLEM"
+  },
+  {
+    "tongue or lip swelling": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "wheezing": "PROBLEM"
+  },
+  {
+    "back surgery": "TREATMENT"
+  },
+  {
+    "appendectomy": "TREATMENT"
+  },
+  {
+    "oropharyngeal swelling": "PROBLEM"
+  },
+  {
+    "lip or tongue swelling": "PROBLEM"
+  },
+  {
+    "headache": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "TORADOL": "DRUG"
+  },
+  {
+    "MORPHINE": "DRUG"
+  },
+  {
+    "PENICILLIN": "DRUG"
+  },
+  {
+    "AMPICILLIN": "DRUG"
+  },
+  {
+    "tachycardic": "PROBLEM"
+  },
+  {
+    "stridor": "PROBLEM"
+  },
+  {
+    "breath sounds": "TEST"
+  },
+  {
+    "Tachycardia": "PROBLEM"
+  },
+  {
+    "erythematous, blanching rash": "PROBLEM"
+  },
+  {
+    "blotchy papular, macular rash": "PROBLEM"
+  },
+  {
+    "epinephrine": "DRUG"
+  },
+  {
+    "Benadryl": "DRUG"
+  },
+  {
+    "ACUTE ALLERGIC REACTION": "PROBLEM"
+  },
+  {
+    "URTICARIA": "PROBLEM"
+  },
+  {
+    "PRURITUS": "PROBLEM"
+  },
+  {
+    "allergic reaction": "PROBLEM"
+  },
+  {
+    "antihistamine": "DRUG"
+  },
+  {
+    "respiratory complaints": "PROBLEM"
+  }
+]

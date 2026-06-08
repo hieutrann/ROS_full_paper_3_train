@@ -1,0 +1,77 @@
+[
+  {
+    "Bradycardia": "PROBLEM"
+  },
+  {
+    "dizziness": "PROBLEM"
+  },
+  {
+    "diabetes": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "sick sinus syndrome": "PROBLEM"
+  },
+  {
+    "permanent pacemaker": "TREATMENT"
+  },
+  {
+    "temporary internal pacemaker": "TREATMENT"
+  },
+  {
+    "electrocardiograms": "TEST"
+  },
+  {
+    "telemetry": "TEST"
+  },
+  {
+    "Medtronic pacemaker": "TREATMENT"
+  },
+  {
+    "benazepril": "DRUG"
+  },
+  {
+    "Norvasc": "DRUG"
+  },
+  {
+    "Actos": "DRUG"
+  },
+  {
+    "Bisacodyl": "DRUG"
+  },
+  {
+    "Cosopt": "DRUG"
+  },
+  {
+    "Famotidine": "DRUG"
+  },
+  {
+    "Lotemax": "DRUG"
+  },
+  {
+    "Lotensin": "DRUG"
+  },
+  {
+    "Triazolam": "DRUG"
+  },
+  {
+    "Milk of Magnesia": "DRUG"
+  },
+  {
+    "Tylenol No. 3": "DRUG"
+  },
+  {
+    "Promethazine": "DRUG"
+  },
+  {
+    "Tylenol": "DRUG"
+  },
+  {
+    "cefazolin": "DRUG"
+  }
+]

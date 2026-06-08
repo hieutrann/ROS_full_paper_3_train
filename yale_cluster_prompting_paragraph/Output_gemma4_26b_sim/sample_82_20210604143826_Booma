@@ -1,0 +1,218 @@
+[
+  {
+    "multifocal atrial tachycardia": "PROBLEM"
+  },
+  {
+    "wandering atrial pacemaker": "PROBLEM"
+  },
+  {
+    "ECG": "TEST"
+  },
+  {
+    "normal sinus rhythm": "TEST"
+  },
+  {
+    "APCs": "PROBLEM"
+  },
+  {
+    "potassium": "TEST"
+  },
+  {
+    "palpitations": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "aortic sclerosis": "PROBLEM"
+  },
+  {
+    "bi-atrial enlargement": "PROBLEM"
+  },
+  {
+    "Persantine Myoview nuclear rest-stress test scan": "TEST"
+  },
+  {
+    "echocardiogram": "TEST"
+  },
+  {
+    "dizzy spells": "PROBLEM"
+  },
+  {
+    "syncope": "PROBLEM"
+  },
+  {
+    "bradycardia": "PROBLEM"
+  },
+  {
+    "beta-blocker therapy": "TREATMENT"
+  },
+  {
+    "Multivitamin": "DRUG"
+  },
+  {
+    "Aspirin": "DRUG"
+  },
+  {
+    "Lisinopril": "DRUG"
+  },
+  {
+    "Felodipine": "DRUG"
+  },
+  {
+    "Klor-Con": "DRUG"
+  },
+  {
+    "Omeprazole": "DRUG"
+  },
+  {
+    "GERD": "PROBLEM"
+  },
+  {
+    "MiraLax": "DRUG"
+  },
+  {
+    "Lasix": "DRUG"
+  },
+  {
+    "PENICILLIN": "DRUG"
+  },
+  {
+    "TOPROL": "DRUG"
+  },
+  {
+    "MI": "PROBLEM"
+  },
+  {
+    "stroke": "PROBLEM"
+  },
+  {
+    "cancer": "PROBLEM"
+  },
+  {
+    "vomiting of blood": "PROBLEM"
+  },
+  {
+    "coughing up blood": "PROBLEM"
+  },
+  {
+    "bright red blood per rectum": "PROBLEM"
+  },
+  {
+    "bleeding": "PROBLEM"
+  },
+  {
+    "stomach ulcers": "PROBLEM"
+  },
+  {
+    "renal calculi": "PROBLEM"
+  },
+  {
+    "cholelithiasis": "PROBLEM"
+  },
+  {
+    "asthma": "PROBLEM"
+  },
+  {
+    "emphysema": "PROBLEM"
+  },
+  {
+    "pneumonia": "PROBLEM"
+  },
+  {
+    "tuberculosis": "PROBLEM"
+  },
+  {
+    "sleep apnea": "PROBLEM"
+  },
+  {
+    "peripheral edema": "PROBLEM"
+  },
+  {
+    "diabetes": "PROBLEM"
+  },
+  {
+    "depressed": "PROBLEM"
+  },
+  {
+    "psoriasis": "PROBLEM"
+  },
+  {
+    "lupus": "PROBLEM"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "hip fracture": "PROBLEM"
+  },
+  {
+    "systolic ejection murmur": "PROBLEM"
+  },
+  {
+    "holosystolic murmur": "PROBLEM"
+  },
+  {
+    "chest x-ray": "TEST"
+  },
+  {
+    "Sodium": "TEST"
+  },
+  {
+    "chloride": "TEST"
+  },
+  {
+    "bicarbonate": "TEST"
+  },
+  {
+    "BUN": "TEST"
+  },
+  {
+    "creatinine": "TEST"
+  },
+  {
+    "glucose": "TEST"
+  },
+  {
+    "magnesium": "TEST"
+  },
+  {
+    "Troponin": "TEST"
+  },
+  {
+    "INR": "TEST"
+  },
+  {
+    "white blood cell count": "TEST"
+  },
+  {
+    "hematocrit": "TEST"
+  },
+  {
+    "platelet count": "TEST"
+  },
+  {
+    "MAT": "PROBLEM"
+  },
+  {
+    "hypokalemia": "PROBLEM"
+  },
+  {
+    "verapamil": "DRUG"
+  },
+  {
+    "thrombocytopenia": "PROBLEM"
+  },
+  {
+    "proton pump inhibitors": "DRUG"
+  },
+  {
+    "gastroesophageal reflux disease": "PROBLEM"
+  },
+  {
+    "hypokalemia": "PROBLEM"
+  }
+]

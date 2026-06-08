@@ -1,0 +1,353 @@
+[
+  {
+    "Diabetes Mellitus": "PROBLEM"
+  },
+  {
+    "type 1": "PROBLEM"
+  },
+  {
+    "diabetes mellitus, type 1": "PROBLEM"
+  },
+  {
+    "diabetic neuropathy": "PROBLEM"
+  },
+  {
+    "nph regular insulin": "DRUG"
+  },
+  {
+    "Regular insulin": "DRUG"
+  },
+  {
+    "blood sugars": "TEST"
+  },
+  {
+    "low blood sugar": "PROBLEM"
+  },
+  {
+    "blood sugar": "TEST"
+  },
+  {
+    "blood sugars": "TEST"
+  },
+  {
+    "hypoglycemia": "PROBLEM"
+  },
+  {
+    "blood sugars": "PROBLEM"
+  },
+  {
+    "blood sugar": "TEST"
+  },
+  {
+    "Endocrinologist": "PROBLEM"
+  },
+  {
+    "kidney damage": "PROBLEM"
+  },
+  {
+    "urine microalbumin": "TEST"
+  },
+  {
+    "hemoglobin A1C": "TEST"
+  },
+  {
+    "Lantus": "DRUG"
+  },
+  {
+    "blood sugars": "TEST"
+  },
+  {
+    "Lantus": "DRUG"
+  },
+  {
+    "hemoglobin A1C": "TEST"
+  },
+  {
+    "CMP": "TEST"
+  },
+  {
+    "alkaline phosphatase": "TEST"
+  },
+  {
+    "alcohol": "DRUG"
+  },
+  {
+    "drug": "DRUG"
+  },
+  {
+    "smoker": "PROBLEM"
+  },
+  {
+    "drinking": "PROBLEM"
+  },
+  {
+    "SGGT": "TEST"
+  },
+  {
+    "hepatic panel": "TEST"
+  },
+  {
+    "gastroparesis": "PROBLEM"
+  },
+  {
+    "impotence": "PROBLEM"
+  },
+  {
+    "Nexium": "DRUG"
+  },
+  {
+    "Viagra": "DRUG"
+  },
+  {
+    "scooter accident": "PROBLEM"
+  },
+  {
+    "head": "PROBLEM"
+  },
+  {
+    "headache": "PROBLEM"
+  },
+  {
+    "scalp laceration": "PROBLEM"
+  },
+  {
+    "emergency room": "TREATMENT"
+  },
+  {
+    "headache": "PROBLEM"
+  },
+  {
+    "dizziness": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "neurological abnormalities": "PROBLEM"
+  },
+  {
+    "WD": "TEST"
+  },
+  {
+    "WN": "TEST"
+  },
+  {
+    "Blood sugar": "TEST"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "heart rate": "TEST"
+  },
+  {
+    "respirations": "TEST"
+  },
+  {
+    "Microalbumin": "TEST"
+  },
+  {
+    "skin lacerations": "PROBLEM"
+  },
+  {
+    "Wound": "PROBLEM"
+  },
+  {
+    "Normocephalic": "PROBLEM"
+  },
+  {
+    "PERRLA": "TEST"
+  },
+  {
+    "EOMI": "TEST"
+  },
+  {
+    "Nares": "PROBLEM"
+  },
+  {
+    "redness": "PROBLEM"
+  },
+  {
+    "swelling": "PROBLEM"
+  },
+  {
+    "sinuses": "PROBLEM"
+  },
+  {
+    "NECK": "PROBLEM"
+  },
+  {
+    "ROM": "TEST"
+  },
+  {
+    "LAD": "PROBLEM"
+  },
+  {
+    "RRR": "TEST"
+  },
+  {
+    "murmurs": "TEST"
+  },
+  {
+    "rubs": "TEST"
+  },
+  {
+    "gallops": "TEST"
+  },
+  {
+    "CTA": "TEST"
+  },
+  {
+    "ABDOMEN": "PROBLEM"
+  },
+  {
+    "HSM": "PROBLEM"
+  },
+  {
+    "lower extremity numbness": "PROBLEM"
+  },
+  {
+    "Microfilament test": "TEST"
+  },
+  {
+    "sensation": "PROBLEM"
+  },
+  {
+    "calloused": "PROBLEM"
+  },
+  {
+    "dry": "PROBLEM"
+  },
+  {
+    "contusion": "PROBLEM"
+  },
+  {
+    "infection": "PROBLEM"
+  },
+  {
+    "Cranial nerves": "TEST"
+  },
+  {
+    "RAM": "TEST"
+  },
+  {
+    "Diabetes mellitus, type 1": "PROBLEM"
+  },
+  {
+    "diabetic neuropathy": "PROBLEM"
+  },
+  {
+    "microalbuminuria": "TEST"
+  },
+  {
+    "Scalp laceration": "PROBLEM"
+  },
+  {
+    "motor vehicle accident": "PROBLEM"
+  },
+  {
+    "Elevated Alk Phos": "TEST"
+  },
+  {
+    "Diabetes mellitus type 1": "PROBLEM"
+  },
+  {
+    "alkaline phosphatase": "TEST"
+  },
+  {
+    "SGGT": "TEST"
+  },
+  {
+    "hepatic function panel": "TEST"
+  },
+  {
+    "microalbumin": "TEST"
+  },
+  {
+    "Ace Inhibitor": "DRUG"
+  },
+  {
+    "Lantus": "DRUG"
+  },
+  {
+    "blood sugars": "TEST"
+  },
+  {
+    "Prilosec OTC": "DRUG"
+  },
+  {
+    "GERD symptoms": "PROBLEM"
+  },
+  {
+    "scooter accident": "PROBLEM"
+  },
+  {
+    "Lacerations": "PROBLEM"
+  },
+  {
+    "heat": "PROBLEM"
+  },
+  {
+    "swelling": "PROBLEM"
+  },
+  {
+    "infection": "PROBLEM"
+  },
+  {
+    "feeling": "PROBLEM"
+  },
+  {
+    "diabetes mellitus": "PROBLEM"
+  },
+  {
+    "nph": "DRUG"
+  },
+  {
+    "regular insulin": "DRUG"
+  },
+  {
+    "sggt": "TEST"
+  },
+  {
+    "diabetic neuropathy": "PROBLEM"
+  },
+  {
+    "dizziness": "PROBLEM"
+  },
+  {
+    "hypoglycemia": "PROBLEM"
+  },
+  {
+    "microalbumin": "TEST"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "neurological": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "mellitus type": "PROBLEM"
+  },
+  {
+    "blood sugars": "TEST"
+  },
+  {
+    "blood": "TEST"
+  },
+  {
+    "diabetes": "PROBLEM"
+  },
+  {
+    "mellitus": "PROBLEM"
+  },
+  {
+    "sugars": "TEST"
+  }
+]

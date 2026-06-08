@@ -1,0 +1,47 @@
+[
+  {
+    "ectopic pregnancy": "PROBLEM"
+  },
+  {
+    "ruptured ectopic pregnancy": "PROBLEM"
+  },
+  {
+    "hemoperitoneum": "PROBLEM"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "blood loss": "PROBLEM"
+  },
+  {
+    "pelvic pain": "PROBLEM"
+  },
+  {
+    "vaginal bleeding": "PROBLEM"
+  },
+  {
+    "hCG": "TEST"
+  },
+  {
+    "sonogram": "TEST"
+  },
+  {
+    "hCG titer": "TEST"
+  },
+  {
+    "laparotomy": "TREATMENT"
+  },
+  {
+    "salpingectomy": "TREATMENT"
+  },
+  {
+    "red packed cells": "TREATMENT"
+  },
+  {
+    "pain medication": "TREATMENT"
+  },
+  {
+    "iron therapy": "TREATMENT"
+  }
+]

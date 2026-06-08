@@ -1,0 +1,476 @@
+[
+  {
+    "Multiple contusions": "PROBLEM"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "motor vehicle collision": "PROBLEM"
+  },
+  {
+    "Motor vehicle accident": "PROBLEM"
+  },
+  {
+    "Hispanic": "PROBLEM"
+  },
+  {
+    "motor vehicle collision": "PROBLEM"
+  },
+  {
+    "seatbelt": "TREATMENT"
+  },
+  {
+    "hitting her head": "PROBLEM"
+  },
+  {
+    "mild pain": "PROBLEM"
+  },
+  {
+    "passed out": "PROBLEM"
+  },
+  {
+    "pain": "PROBLEM"
+  },
+  {
+    "steering wheel": "PROBLEM"
+  },
+  {
+    "airbag": "PROBLEM"
+  },
+  {
+    "pain": "PROBLEM"
+  },
+  {
+    "pain": "PROBLEM"
+  },
+  {
+    "painful throughout the bones of her pelvis": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "difficulty breathing": "PROBLEM"
+  },
+  {
+    "open lacerations": "PROBLEM"
+  },
+  {
+    "abrasions": "PROBLEM"
+  },
+  {
+    "headache": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "feverish": "PROBLEM"
+  },
+  {
+    "chilled": "PROBLEM"
+  },
+  {
+    "pain": "PROBLEM"
+  },
+  {
+    "last menstrual cycle": "PROBLEM"
+  },
+  {
+    "pregnant": "PROBLEM"
+  },
+  {
+    "oral birth control medications": "DRUG"
+  },
+  {
+    "an intrauterine device": "TREATMENT"
+  },
+  {
+    "Accutane": "DRUG"
+  },
+  {
+    "acne": "PROBLEM"
+  },
+  {
+    "tobacco": "PROBLEM"
+  },
+  {
+    "alcohol": "PROBLEM"
+  },
+  {
+    "illicit drug": "PROBLEM"
+  },
+  {
+    "Accutane": "DRUG"
+  },
+  {
+    "Hispanic": "PROBLEM"
+  },
+  {
+    "backboard": "TREATMENT"
+  },
+  {
+    "cervical spine": "PROBLEM"
+  },
+  {
+    "collar": "TREATMENT"
+  },
+  {
+    "capsular retractions": "PROBLEM"
+  },
+  {
+    "labored respirations": "PROBLEM"
+  },
+  {
+    "accessory muscle usage": "PROBLEM"
+  },
+  {
+    "Temperature": "TEST"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "pulse": "TEST"
+  },
+  {
+    "respiratory rate": "TEST"
+  },
+  {
+    "pulse oximetry": "TEST"
+  },
+  {
+    "normocephalic": "PROBLEM"
+  },
+  {
+    "crepitus": "PROBLEM"
+  },
+  {
+    "lacerations": "PROBLEM"
+  },
+  {
+    "Sclerae": "PROBLEM"
+  },
+  {
+    "Fundoscopic exam": "TEST"
+  },
+  {
+    "External ocular movements": "TEST"
+  },
+  {
+    "nystagmus": "PROBLEM"
+  },
+  {
+    "entrapment": "PROBLEM"
+  },
+  {
+    "mucoid discharge": "PROBLEM"
+  },
+  {
+    "mucous membranes": "PROBLEM"
+  },
+  {
+    "NECK": "PROBLEM"
+  },
+  {
+    "thyromegaly": "PROBLEM"
+  },
+  {
+    "carotid bruits": "PROBLEM"
+  },
+  {
+    "Trachea": "PROBLEM"
+  },
+  {
+    "stridor": "PROBLEM"
+  },
+  {
+    "rate": "PROBLEM"
+  },
+  {
+    "rhythm": "PROBLEM"
+  },
+  {
+    "S1": "TEST"
+  },
+  {
+    "S2": "TEST"
+  },
+  {
+    "murmur": "PROBLEM"
+  },
+  {
+    "rub": "PROBLEM"
+  },
+  {
+    "gallop": "PROBLEM"
+  },
+  {
+    "LUNGS": "PROBLEM"
+  },
+  {
+    "wheezes": "PROBLEM"
+  },
+  {
+    "rales": "PROBLEM"
+  },
+  {
+    "rhonchi": "PROBLEM"
+  },
+  {
+    "mild-to-moderate tenderness": "PROBLEM"
+  },
+  {
+    "Positive bowel sounds": "PROBLEM"
+  },
+  {
+    "CVA tenderness": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "bony abnormalities": "PROBLEM"
+  },
+  {
+    "deformities": "PROBLEM"
+  },
+  {
+    "Capillary refill": "TEST"
+  },
+  {
+    "dorsalis pedis": "TEST"
+  },
+  {
+    "radial pulses": "TEST"
+  },
+  {
+    "Alert": "PROBLEM"
+  },
+  {
+    "oriented": "PROBLEM"
+  },
+  {
+    "Cranial nerves II through XII": "TEST"
+  },
+  {
+    "Romberg": "TEST"
+  },
+  {
+    "pronator drift": "TEST"
+  },
+  {
+    "adenopathy": "PROBLEM"
+  },
+  {
+    "pain free range of motion": "PROBLEM"
+  },
+  {
+    "bony abnormalities": "PROBLEM"
+  },
+  {
+    "mild tenderness": "PROBLEM"
+  },
+  {
+    "Warm": "PROBLEM"
+  },
+  {
+    "dry": "PROBLEM"
+  },
+  {
+    "intact": "PROBLEM"
+  },
+  {
+    "lacerations": "PROBLEM"
+  },
+  {
+    "abrasions": "PROBLEM"
+  },
+  {
+    "a small abrasion": "PROBLEM"
+  },
+  {
+    "lacerations": "PROBLEM"
+  },
+  {
+    "sites of trauma": "PROBLEM"
+  },
+  {
+    "bleeding": "PROBLEM"
+  },
+  {
+    "x-rays": "TEST"
+  },
+  {
+    "x-ray": "TEST"
+  },
+  {
+    "pelvis": "PROBLEM"
+  },
+  {
+    "right hip": "PROBLEM"
+  },
+  {
+    "CT scan": "TEST"
+  },
+  {
+    "cervical spine": "PROBLEM"
+  },
+  {
+    "prevertibral soft tissue swelling": "PROBLEM"
+  },
+  {
+    "upper esophageal sphincter": "PROBLEM"
+  },
+  {
+    "CT scan": "TEST"
+  },
+  {
+    "brain": "PROBLEM"
+  },
+  {
+    "mucus": "PROBLEM"
+  },
+  {
+    "CT scan": "TEST"
+  },
+  {
+    "dependent atelectasis": "PROBLEM"
+  },
+  {
+    "CT scan": "TEST"
+  },
+  {
+    "CT scan": "TEST"
+  },
+  {
+    "a CT scan with contrast": "TEST"
+  },
+  {
+    "laboratory studies": "TEST"
+  },
+  {
+    "CBC": "TEST"
+  },
+  {
+    "urine pregnancy test": "TEST"
+  },
+  {
+    "urinalysis": "TEST"
+  },
+  {
+    "bony deformities": "PROBLEM"
+  },
+  {
+    "abnormalities": "PROBLEM"
+  },
+  {
+    "Tylenol": "DRUG"
+  },
+  {
+    "her pain": "PROBLEM"
+  },
+  {
+    "pain": "PROBLEM"
+  },
+  {
+    "medication": "DRUG"
+  },
+  {
+    "backboard": "TREATMENT"
+  },
+  {
+    "CT scans": "TEST"
+  },
+  {
+    "bleeding": "PROBLEM"
+  },
+  {
+    "contusion": "PROBLEM"
+  },
+  {
+    "abrasion": "PROBLEM"
+  },
+  {
+    "abrasions": "PROBLEM"
+  },
+  {
+    "lacerations": "PROBLEM"
+  },
+  {
+    "Multiple contusions": "PROBLEM"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "motor vehicle collision": "PROBLEM"
+  },
+  {
+    "intraabdominal": "PROBLEM"
+  },
+  {
+    "pelvic": "PROBLEM"
+  },
+  {
+    "CT scans": "TEST"
+  },
+  {
+    "scans of the brain": "TEST"
+  },
+  {
+    "C-spine": "TEST"
+  },
+  {
+    "pain": "PROBLEM"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "Vicodin": "DRUG"
+  },
+  {
+    "Flexeril": "DRUG"
+  },
+  {
+    "muscular pain": "PROBLEM"
+  },
+  {
+    "general medicine": "PROBLEM"
+  },
+  {
+    "accutane": "DRUG"
+  },
+  {
+    "contusions": "PROBLEM"
+  },
+  {
+    "emergency department course": "PROBLEM"
+  },
+  {
+    "motor vehicle accident": "PROBLEM"
+  },
+  {
+    "motor vehicle collision": "PROBLEM"
+  },
+  {
+    "ct scan": "TEST"
+  },
+  {
+    "emergency department": "PROBLEM"
+  },
+  {
+    "accident": "PROBLEM"
+  }
+]

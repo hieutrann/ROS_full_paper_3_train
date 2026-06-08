@@ -1,0 +1,269 @@
+[
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "amylase": "TEST"
+  },
+  {
+    "lipase count": "TEST"
+  },
+  {
+    "acute pancreatitis": "PROBLEM"
+  },
+  {
+    "dementia of Alzheimer type": "PROBLEM"
+  },
+  {
+    "anxiety": "PROBLEM"
+  },
+  {
+    "osteoarthritis": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "alprazolam": "DRUG"
+  },
+  {
+    "Aricept": "DRUG"
+  },
+  {
+    "Namenda": "DRUG"
+  },
+  {
+    "Benicar": "DRUG"
+  },
+  {
+    "Claritin": "DRUG"
+  },
+  {
+    "dementia": "PROBLEM"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "pulse ox": "TEST"
+  },
+  {
+    "pharyngeal inflammation": "PROBLEM"
+  },
+  {
+    "Bowel sounds": "TEST"
+  },
+  {
+    "pedal edema": "PROBLEM"
+  },
+  {
+    "decubitus": "PROBLEM"
+  },
+  {
+    "WBC": "TEST"
+  },
+  {
+    "hemoglobin": "TEST"
+  },
+  {
+    "hematocrit": "TEST"
+  },
+  {
+    "MCV": "TEST"
+  },
+  {
+    "platelet count": "TEST"
+  },
+  {
+    "PT": "TEST"
+  },
+  {
+    "INR": "TEST"
+  },
+  {
+    "PTT": "TEST"
+  },
+  {
+    "Urinalysis": "TEST"
+  },
+  {
+    "nitrite": "TEST"
+  },
+  {
+    "wbc's": "TEST"
+  },
+  {
+    "bacteria": "PROBLEM"
+  },
+  {
+    "Sodium": "TEST"
+  },
+  {
+    "potassium": "TEST"
+  },
+  {
+    "chloride": "TEST"
+  },
+  {
+    "bicarbonate": "TEST"
+  },
+  {
+    "calcium": "TEST"
+  },
+  {
+    "BUN": "TEST"
+  },
+  {
+    "creatinine": "TEST"
+  },
+  {
+    "albumin": "TEST"
+  },
+  {
+    "alkaline phosphatase": "TEST"
+  },
+  {
+    "ALT": "TEST"
+  },
+  {
+    "AST": "TEST"
+  },
+  {
+    "amylase": "TEST"
+  },
+  {
+    "lipase": "TEST"
+  },
+  {
+    "X-ray of abdomen": "TEST"
+  },
+  {
+    "splenic granulomas": "PROBLEM"
+  },
+  {
+    "degenerative spine changes": "PROBLEM"
+  },
+  {
+    "CT of the abdomen": "TEST"
+  },
+  {
+    "cardiomegaly": "PROBLEM"
+  },
+  {
+    "right lung base atelectasis": "PROBLEM"
+  },
+  {
+    "Ultrasound of the abdomen": "TEST"
+  },
+  {
+    "echogenic liver": "PROBLEM"
+  },
+  {
+    "fatty infiltration": "PROBLEM"
+  },
+  {
+    "CBC": "TEST"
+  },
+  {
+    "glucose": "TEST"
+  },
+  {
+    "cultures": "TEST"
+  },
+  {
+    "EKG": "TEST"
+  },
+  {
+    "sinus rhythm": "TEST"
+  },
+  {
+    "ventricular premature complexes": "PROBLEM"
+  },
+  {
+    "Troponin": "TEST"
+  },
+  {
+    "myoglobin": "TEST"
+  },
+  {
+    "Leukocytosis": "PROBLEM"
+  },
+  {
+    "Urinary tract infection": "PROBLEM"
+  },
+  {
+    "Hyponatremia": "PROBLEM"
+  },
+  {
+    "Abnormal electrocardiogram": "PROBLEM"
+  },
+  {
+    "Osteoarthrosis": "PROBLEM"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV antibiotics": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "Zofran": "DRUG"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "blood and urine cultures": "TEST"
+  },
+  {
+    "leukocytosis": "PROBLEM"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "lipase count": "TEST"
+  },
+  {
+    "platelet count": "TEST"
+  },
+  {
+    "acute pancreatitis": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "dementia": "PROBLEM"
+  },
+  {
+    "amylase": "TEST"
+  },
+  {
+    "lipase": "TEST"
+  },
+  {
+    "pancreatitis": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  }
+]

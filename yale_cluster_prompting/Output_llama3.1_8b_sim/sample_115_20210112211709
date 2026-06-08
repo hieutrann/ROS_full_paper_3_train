@@ -1,0 +1,215 @@
+[
+  {
+    "non-small cell lung carcinoma": "PROBLEM"
+  },
+  {
+    "left malignant pleural effusion": "PROBLEM"
+  },
+  {
+    "chest tube insertion": "TREATMENT"
+  },
+  {
+    "chemical pleurodesis": "TREATMENT"
+  },
+  {
+    "expired": "PROBLEM"
+  },
+  {
+    "DISCHARGE DIAGNOSES": "PROBLEM"
+  },
+  {
+    "non-small cell lung carcinoma": "PROBLEM"
+  },
+  {
+    "malignant pleural effusion": "PROBLEM"
+  },
+  {
+    "chest tube insertion": "TREATMENT"
+  },
+  {
+    "chemical pleurodesis": "TREATMENT"
+  },
+  {
+    "2": "PROBLEM"
+  },
+  {
+    "Respiratory failure": "PROBLEM"
+  },
+  {
+    "3": "PROBLEM"
+  },
+  {
+    "postobstructive pneumonia": "PROBLEM"
+  },
+  {
+    "4": "PROBLEM"
+  },
+  {
+    "Gastrointestinal bleed": "PROBLEM"
+  },
+  {
+    "5": "PROBLEM"
+  },
+  {
+    "Thrombocytopenia": "PROBLEM"
+  },
+  {
+    "6": "PROBLEM"
+  },
+  {
+    "Acute renal failure": "PROBLEM"
+  },
+  {
+    "7": "PROBLEM"
+  },
+  {
+    "Hyponatremia": "PROBLEM"
+  },
+  {
+    "8": "PROBLEM"
+  },
+  {
+    "Hypercalcemia": "PROBLEM"
+  },
+  {
+    "paraneoplastic syndrome": "PROBLEM"
+  },
+  {
+    "non-small cell lung CA": "PROBLEM"
+  },
+  {
+    "metastases": "PROBLEM"
+  },
+  {
+    "bones": "PROBLEM"
+  },
+  {
+    "9": "PROBLEM"
+  },
+  {
+    "Leukemoid reaction": "PROBLEM"
+  },
+  {
+    "malignancy": "PROBLEM"
+  },
+  {
+    "10": "PROBLEM"
+  },
+  {
+    "Elevated liver function tests": "PROBLEM"
+  },
+  {
+    "This is a 53-year-old African American male patient": "PROBLEM"
+  },
+  {
+    "right hip pain": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "pleural effusion": "PROBLEM"
+  },
+  {
+    "mediastinal mass": "PROBLEM"
+  },
+  {
+    "hilar adenopathy": "PROBLEM"
+  },
+  {
+    "obstruction of the left lower lobe": "PROBLEM"
+  },
+  {
+    "complete obstruction of the left lower lobe and the lingula": "PROBLEM"
+  },
+  {
+    "the left pulmonary vein": "PROBLEM"
+  },
+  {
+    "multiple nodules": "PROBLEM"
+  },
+  {
+    "CT scan": "TEST"
+  },
+  {
+    "metastatic disease": "PROBLEM"
+  },
+  {
+    "osseous metastatic disease": "PROBLEM"
+  },
+  {
+    "the right scapula": "PROBLEM"
+  },
+  {
+    "a left large pleural effusion": "PROBLEM"
+  },
+  {
+    "severe shortness of breath": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "pleural effusion": "PROBLEM"
+  },
+  {
+    "malignant cells": "PROBLEM"
+  },
+  {
+    "a left-sided chest tube": "TREATMENT"
+  },
+  {
+    "right hip pain": "PROBLEM"
+  },
+  {
+    "metastatic disease": "PROBLEM"
+  },
+  {
+    "bronchoscopy": "TEST"
+  },
+  {
+    "non-small cell lung CA": "PROBLEM"
+  },
+  {
+    "respiratory failure": "PROBLEM"
+  },
+  {
+    "intubation": "TREATMENT"
+  },
+  {
+    "mechanical ventilatory support": "TREATMENT"
+  },
+  {
+    "respiratory failure": "PROBLEM"
+  },
+  {
+    "Dr.": "TREATMENT"
+  },
+  {
+    "chemotherapy": "TREATMENT"
+  },
+  {
+    "deteriorated": "PROBLEM"
+  },
+  {
+    "DNR": "TREATMENT"
+  },
+  {
+    "withdrawal of the life support": "TREATMENT"
+  },
+  {
+    "expired": "PROBLEM"
+  },
+  {
+    "lung carcinoma": "PROBLEM"
+  },
+  {
+    "pleural effusion": "PROBLEM"
+  },
+  {
+    "death summary": "PROBLEM"
+  },
+  {
+    "dnr": "PROBLEM"
+  }
+]

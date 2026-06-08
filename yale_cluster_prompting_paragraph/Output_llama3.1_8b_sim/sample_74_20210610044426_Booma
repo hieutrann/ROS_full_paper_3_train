@@ -1,0 +1,56 @@
+[
+  {
+    "Multiple Sclerosis": "PROBLEM"
+  },
+  {
+    "Dyspepsia": "PROBLEM"
+  },
+  {
+    "Pantoprazole Sodium 40 MG Oral Tablet Delayed Release": "DRUG"
+  },
+  {
+    "Rebif": "DRUG"
+  },
+  {
+    "Flovent HFA 44 MCG/ACT Inhalation Aerosol": "DRUG"
+  },
+  {
+    "Levoxyl 100 MCG Oral Tablet": "DRUG"
+  },
+  {
+    "ProAir HFA 108 (90 Base) MCG/ACT Inhalation Aerosol Solution": "DRUG"
+  },
+  {
+    "Accu-Chek Softclix Lancets": "TEST"
+  },
+  {
+    "MRI": "TEST"
+  },
+  {
+    "CSF": "TEST"
+  },
+  {
+    "CBC": "TEST"
+  },
+  {
+    "LFT": "TEST"
+  },
+  {
+    "Fe": "TEST"
+  },
+  {
+    "TIBC": "TEST"
+  },
+  {
+    "Therapy": "TREATMENT"
+  },
+  {
+    "interferon": "TREATMENT"
+  },
+  {
+    "thyroid replacement": "TREATMENT"
+  },
+  {
+    "oxybutynin": "TREATMENT"
+  }
+]

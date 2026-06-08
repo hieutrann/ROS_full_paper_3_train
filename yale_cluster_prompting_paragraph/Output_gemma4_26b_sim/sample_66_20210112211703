@@ -1,0 +1,173 @@
+[
+  {
+    "antibiotic therapy": "TREATMENT"
+  },
+  {
+    "lower extremity cellulitis": "PROBLEM"
+  },
+  {
+    "morbid obesity": "PROBLEM"
+  },
+  {
+    "chronic lower extremity lymphedema": "PROBLEM"
+  },
+  {
+    "lower extremity edema": "PROBLEM"
+  },
+  {
+    "cellulitis": "PROBLEM"
+  },
+  {
+    "Bactrim": "DRUG"
+  },
+  {
+    "ciprofloxacin": "DRUG"
+  },
+  {
+    "stage II ulcer": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "spastic colon": "PROBLEM"
+  },
+  {
+    "knee arthritis": "PROBLEM"
+  },
+  {
+    "recurrent cellulitis": "PROBLEM"
+  },
+  {
+    "hysterectomy": "TREATMENT"
+  },
+  {
+    "cholecystectomy": "TREATMENT"
+  },
+  {
+    "leukemia": "PROBLEM"
+  },
+  {
+    "ADHESIVE TAPE ALLERGIES": "PROBLEM"
+  },
+  {
+    "bilateral lower extremity lymphedema": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "diarrhea": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "phlegm production": "PROBLEM"
+  },
+  {
+    "lymphadenopathy": "PROBLEM"
+  },
+  {
+    "murmur": "PROBLEM"
+  },
+  {
+    "rub": "PROBLEM"
+  },
+  {
+    "gallop": "PROBLEM"
+  },
+  {
+    "cutaneous candidiasis": "PROBLEM"
+  },
+  {
+    "stasis dermatosis": "PROBLEM"
+  },
+  {
+    "skin breakdown": "PROBLEM"
+  },
+  {
+    "wound infection": "PROBLEM"
+  },
+  {
+    "cyanosis": "PROBLEM"
+  },
+  {
+    "clubbing": "PROBLEM"
+  },
+  {
+    "endocarditis": "PROBLEM"
+  },
+  {
+    "White cell count": "TEST"
+  },
+  {
+    "hemoglobin": "TEST"
+  },
+  {
+    "hematocrit": "TEST"
+  },
+  {
+    "platelet count": "TEST"
+  },
+  {
+    "differential": "TEST"
+  },
+  {
+    "neutrophils": "TEST"
+  },
+  {
+    "lymphocytes": "TEST"
+  },
+  {
+    "monocytes": "TEST"
+  },
+  {
+    "eosinophils": "TEST"
+  },
+  {
+    "electrolyte panel": "TEST"
+  },
+  {
+    "renal function": "TEST"
+  },
+  {
+    "BUN": "TEST"
+  },
+  {
+    "creatinine": "TEST"
+  },
+  {
+    "Liver function tests": "TEST"
+  },
+  {
+    "nasal screen for MRSA": "TEST"
+  },
+  {
+    "Urine culture": "TEST"
+  },
+  {
+    "Urinalysis": "TEST"
+  },
+  {
+    "pyuria": "PROBLEM"
+  },
+  {
+    "leucocyte esterase": "PROBLEM"
+  },
+  {
+    "nitrites": "PROBLEM"
+  },
+  {
+    "lymphedema wraps": "TREATMENT"
+  },
+  {
+    "wound care": "TREATMENT"
+  }
+]

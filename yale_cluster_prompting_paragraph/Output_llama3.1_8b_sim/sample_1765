@@ -1,0 +1,41 @@
+[
+  {
+    "Liver Biopsy": "TREATMENT"
+  },
+  {
+    "Percutaneous liver biopsy": "TREATMENT"
+  },
+  {
+    "Lidocaine": "DRUG"
+  },
+  {
+    "Iodine": "DRUG"
+  },
+  {
+    "Codeine": "DRUG"
+  },
+  {
+    "Bleeding": "PROBLEM"
+  },
+  {
+    "Bile peritonitis": "PROBLEM"
+  },
+  {
+    "Bowel perforation": "PROBLEM"
+  },
+  {
+    "Pneumothorax": "PROBLEM"
+  },
+  {
+    "Death": "PROBLEM"
+  },
+  {
+    "Percussion": "TEST"
+  },
+  {
+    "Klatskin needle": "TEST"
+  },
+  {
+    "Liver": "PROBLEM"
+  }
+]

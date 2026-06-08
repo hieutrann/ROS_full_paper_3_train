@@ -1,0 +1,71 @@
+[
+  {
+    "dullness": "PROBLEM"
+  },
+  {
+    "bleeding": "PROBLEM"
+  },
+  {
+    "bile peritonitis": "PROBLEM"
+  },
+  {
+    "bowel perforation": "PROBLEM"
+  },
+  {
+    "pneumothorax": "PROBLEM"
+  },
+  {
+    "death": "PROBLEM"
+  },
+  {
+    "severe abdominal": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "melena": "PROBLEM"
+  },
+  {
+    "light-headedness": "PROBLEM"
+  },
+  {
+    "percussion": "TEST"
+  },
+  {
+    "Lidocaine": "DRUG"
+  },
+  {
+    "iodine": "DRUG"
+  },
+  {
+    "codeine": "DRUG"
+  },
+  {
+    "povidone iodine": "DRUG"
+  },
+  {
+    "lidocaine": "DRUG"
+  },
+  {
+    "Bard-Parker #11 scalpel": "TREATMENT"
+  },
+  {
+    "16-gauge modified Klatskin needle": "TREATMENT"
+  },
+  {
+    "hepatitis A and B vaccines": "DRUG"
+  },
+  {
+    "liver biopsy": "TREATMENT"
+  },
+  {
+    "biopsy": "TREATMENT"
+  },
+  {
+    "liver": "PROBLEM"
+  }
+]

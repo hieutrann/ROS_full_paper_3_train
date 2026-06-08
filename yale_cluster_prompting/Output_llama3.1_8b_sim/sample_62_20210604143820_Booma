@@ -1,0 +1,476 @@
+[
+  {
+    "Nausea": "PROBLEM"
+  },
+  {
+    "feeling faint": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "weak": "PROBLEM"
+  },
+  {
+    "salt": "DRUG"
+  },
+  {
+    "Nausea": "PROBLEM"
+  },
+  {
+    "feeling faint": "PROBLEM"
+  },
+  {
+    "patient": "PROBLEM"
+  },
+  {
+    "historian": "TEST"
+  },
+  {
+    "appetite": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "weak": "PROBLEM"
+  },
+  {
+    "No other specific complaints": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "chills": "PROBLEM"
+  },
+  {
+    "sweats": "PROBLEM"
+  },
+  {
+    "ear pain": "PROBLEM"
+  },
+  {
+    "URI symptoms": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "dyspnea": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "diarrhea": "PROBLEM"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "melena": "PROBLEM"
+  },
+  {
+    "hematochezia": "PROBLEM"
+  },
+  {
+    "urinary symptoms": "PROBLEM"
+  },
+  {
+    "headache": "PROBLEM"
+  },
+  {
+    "neck pain": "PROBLEM"
+  },
+  {
+    "back pain": "PROBLEM"
+  },
+  {
+    "weakness": "PROBLEM"
+  },
+  {
+    "paresthesias": "PROBLEM"
+  },
+  {
+    "Diovan": "DRUG"
+  },
+  {
+    "estradiol": "DRUG"
+  },
+  {
+    "Norvasc": "DRUG"
+  },
+  {
+    "Wellbutrin SR": "DRUG"
+  },
+  {
+    "home O2": "TREATMENT"
+  },
+  {
+    "MORPHINE": "DRUG"
+  },
+  {
+    "COPD": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "Tobacco use": "PROBLEM"
+  },
+  {
+    "Alcohol use": "PROBLEM"
+  },
+  {
+    "tetanus immunization": "TEST"
+  },
+  {
+    "hysterectomy": "PROBLEM"
+  },
+  {
+    "married": "PROBLEM"
+  },
+  {
+    "Noncontributory": "PROBLEM"
+  },
+  {
+    "Temperature": "TEST"
+  },
+  {
+    "pulse": "TEST"
+  },
+  {
+    "respirations": "TEST"
+  },
+  {
+    "BP": "TEST"
+  },
+  {
+    "well developed": "PROBLEM"
+  },
+  {
+    "well nourished": "PROBLEM"
+  },
+  {
+    "alert": "PROBLEM"
+  },
+  {
+    "cooperative": "PROBLEM"
+  },
+  {
+    "nontoxic": "PROBLEM"
+  },
+  {
+    "hydrated": "PROBLEM"
+  },
+  {
+    "Warm": "PROBLEM"
+  },
+  {
+    "dry": "PROBLEM"
+  },
+  {
+    "good color": "PROBLEM"
+  },
+  {
+    "EOMI": "PROBLEM"
+  },
+  {
+    "PERRL": "TEST"
+  },
+  {
+    "MOUTH": "PROBLEM"
+  },
+  {
+    "Mucous membranes": "PROBLEM"
+  },
+  {
+    "NECK": "PROBLEM"
+  },
+  {
+    "JVD": "PROBLEM"
+  },
+  {
+    "faint expiratory wheeze": "PROBLEM"
+  },
+  {
+    "posterior lung fields": "PROBLEM"
+  },
+  {
+    "tachycardic": "PROBLEM"
+  },
+  {
+    "bowel sounds": "TEST"
+  },
+  {
+    "rebound": "PROBLEM"
+  },
+  {
+    "CVA": "PROBLEM"
+  },
+  {
+    "Moves all four extremities": "TEST"
+  },
+  {
+    "pretibial edema": "PROBLEM"
+  },
+  {
+    "Cranial nerves II to XII": "TEST"
+  },
+  {
+    "motor": "TEST"
+  },
+  {
+    "cerebellar": "TEST"
+  },
+  {
+    "WBC": "TEST"
+  },
+  {
+    "differential": "TEST"
+  },
+  {
+    "neutrophils": "TEST"
+  },
+  {
+    "lymphocytes": "TEST"
+  },
+  {
+    "monocytes": "TEST"
+  },
+  {
+    "eosinophils": "TEST"
+  },
+  {
+    "Hemoglobin": "TEST"
+  },
+  {
+    "hematocrit": "TEST"
+  },
+  {
+    "decreased sodium": "PROBLEM"
+  },
+  {
+    "decreased chloride": "PROBLEM"
+  },
+  {
+    "calcium decreased": "PROBLEM"
+  },
+  {
+    "total protein decreased": "PROBLEM"
+  },
+  {
+    "albumin decreased": "PROBLEM"
+  },
+  {
+    "Amylase": "TEST"
+  },
+  {
+    "lipase": "TEST"
+  },
+  {
+    "urinalysis": "TEST"
+  },
+  {
+    "hemoglobin": "TEST"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "Chest x-ray": "TEST"
+  },
+  {
+    "chronic changes": "PROBLEM"
+  },
+  {
+    "official report": "TEST"
+  },
+  {
+    "COPD": "PROBLEM"
+  },
+  {
+    "sinus tachycardia": "PROBLEM"
+  },
+  {
+    "ectopy": "PROBLEM"
+  },
+  {
+    "orthostatic vital sign changes": "PROBLEM"
+  },
+  {
+    "albuterol": "DRUG"
+  },
+  {
+    "expiratory wheezing": "PROBLEM"
+  },
+  {
+    "normal saline lock": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "normal saline": "TREATMENT"
+  },
+  {
+    "void urine": "TEST"
+  },
+  {
+    "Rectal examination": "TEST"
+  },
+  {
+    "sphincter tone": "TEST"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "heme negative": "TEST"
+  },
+  {
+    "ectopy": "PROBLEM"
+  },
+  {
+    "Blood pressure": "TEST"
+  },
+  {
+    "history": "PROBLEM"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "hyponatremia": "PROBLEM"
+  },
+  {
+    "tiredness": "PROBLEM"
+  },
+  {
+    "feeling well": "PROBLEM"
+  },
+  {
+    "rectal bleeding": "PROBLEM"
+  },
+  {
+    "Dr": "TREATMENT"
+  },
+  {
+    "problems": "PROBLEM"
+  },
+  {
+    "hemodynamically stable": "PROBLEM"
+  },
+  {
+    "ASSESSMENT": "TREATMENT"
+  },
+  {
+    "Acute tiredness": "PROBLEM"
+  },
+  {
+    "2": "TEST"
+  },
+  {
+    "Anemia": "PROBLEM"
+  },
+  {
+    "3": "PROBLEM"
+  },
+  {
+    "Acute hyponatremia": "PROBLEM"
+  },
+  {
+    "salt": "TREATMENT"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "Dr.": "TREATMENT"
+  },
+  {
+    "X": "TEST"
+  },
+  {
+    "condition": "PROBLEM"
+  },
+  {
+    "stable condition": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "chills": "PROBLEM"
+  },
+  {
+    "sweats": "PROBLEM"
+  },
+  {
+    "ear pain": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "dyspnea": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "diarrhea": "PROBLEM"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "melena": "PROBLEM"
+  },
+  {
+    "hematochezia": "PROBLEM"
+  },
+  {
+    "urinary symptoms": "PROBLEM"
+  },
+  {
+    "headache": "PROBLEM"
+  },
+  {
+    "neck pain": "PROBLEM"
+  },
+  {
+    "back pain": "PROBLEM"
+  },
+  {
+    "weakness": "PROBLEM"
+  },
+  {
+    "paresthesias": "PROBLEM"
+  },
+  {
+    "feeling faint": "PROBLEM"
+  },
+  {
+    "saline lock": "TREATMENT"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "hemoglobin": "TEST"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "wellbutrin": "DRUG"
+  }
+]

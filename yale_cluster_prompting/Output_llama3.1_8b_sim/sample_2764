@@ -1,0 +1,221 @@
+[
+  {
+    "Atypical pneumonia": "PROBLEM"
+  },
+  {
+    "hypoxia": "PROBLEM"
+  },
+  {
+    "rheumatoid arthritis": "PROBLEM"
+  },
+  {
+    "mild stress-induced adrenal insufficiency": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "fevers": "PROBLEM"
+  },
+  {
+    "weakness": "PROBLEM"
+  },
+  {
+    "chills": "PROBLEM"
+  },
+  {
+    "ADMISSION DIAGNOSES": "PROBLEM"
+  },
+  {
+    "Pneumonia": "PROBLEM"
+  },
+  {
+    "2": "PROBLEM"
+  },
+  {
+    "Hypoxia": "PROBLEM"
+  },
+  {
+    "3": "PROBLEM"
+  },
+  {
+    "Rheumatoid arthritis": "PROBLEM"
+  },
+  {
+    "DISCHARGE DIAGNOSES": "PROBLEM"
+  },
+  {
+    "Atypical pneumonia": "PROBLEM"
+  },
+  {
+    "2": "PROBLEM"
+  },
+  {
+    "Hypoxia": "PROBLEM"
+  },
+  {
+    "3": "PROBLEM"
+  },
+  {
+    "Rheumatoid arthritis": "PROBLEM"
+  },
+  {
+    "4": "PROBLEM"
+  },
+  {
+    "mild stress-induced adrenal insufficiency": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "fevers": "PROBLEM"
+  },
+  {
+    "weakness": "PROBLEM"
+  },
+  {
+    "chills": "PROBLEM"
+  },
+  {
+    "Urgent Care": "TREATMENT"
+  },
+  {
+    "physician's office": "TREATMENT"
+  },
+  {
+    "mild diffuse patchy infiltrates": "PROBLEM"
+  },
+  {
+    "Avelox": "DRUG"
+  },
+  {
+    "Augmentin": "DRUG"
+  },
+  {
+    "loose stools": "PROBLEM"
+  },
+  {
+    "Rocephin": "DRUG"
+  },
+  {
+    "azithromycin": "DRUG"
+  },
+  {
+    "O2 saturations": "PROBLEM"
+  },
+  {
+    "88%": "PROBLEM"
+  },
+  {
+    "pneumonia": "PROBLEM"
+  },
+  {
+    "rheumatoid arthritis": "PROBLEM"
+  },
+  {
+    "methotrexate": "DRUG"
+  },
+  {
+    "Remicade": "DRUG"
+  },
+  {
+    "Remicade": "DRUG"
+  },
+  {
+    "CT scan": "TEST"
+  },
+  {
+    "Dr.": "TREATMENT"
+  },
+  {
+    "pulmonologist": "PROBLEM"
+  },
+  {
+    "viral etiology": "PROBLEM"
+  },
+  {
+    "C. difficile toxin": "TEST"
+  },
+  {
+    "loose stools": "PROBLEM"
+  },
+  {
+    "Rocephin IV": "DRUG"
+  },
+  {
+    "azithromycin": "DRUG"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "azithromycin": "DRUG"
+  },
+  {
+    "pills": "DRUG"
+  },
+  {
+    "Dr": "TREATMENT"
+  },
+  {
+    "X": "PROBLEM"
+  },
+  {
+    "pneumonia": "PROBLEM"
+  },
+  {
+    "prednisone": "DRUG"
+  },
+  {
+    "adrenal insufficient": "PROBLEM"
+  },
+  {
+    "prednisone": "DRUG"
+  },
+  {
+    "methotrexate": "DRUG"
+  },
+  {
+    "pneumonitis": "PROBLEM"
+  },
+  {
+    "Methotrexate": "DRUG"
+  },
+  {
+    "adrenal insufficiency": "PROBLEM"
+  },
+  {
+    "hypoxia": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "fevers": "PROBLEM"
+  },
+  {
+    "weakness": "PROBLEM"
+  },
+  {
+    "chills": "PROBLEM"
+  },
+  {
+    "atypical pneumonia": "PROBLEM"
+  },
+  {
+    "loose stools": "PROBLEM"
+  },
+  {
+    "rheumatoid arthritis": "PROBLEM"
+  },
+  {
+    "azithromycin": "DRUG"
+  },
+  {
+    "arthritis": "PROBLEM"
+  },
+  {
+    "pneumonia": "PROBLEM"
+  }
+]

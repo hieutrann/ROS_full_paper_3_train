@@ -1,0 +1,47 @@
+[
+  {
+    "preterm contractions": "PROBLEM"
+  },
+  {
+    "sepsis": "PROBLEM"
+  },
+  {
+    "prematurity": "PROBLEM"
+  },
+  {
+    "respiratory distress": "PROBLEM"
+  },
+  {
+    "Apgar scores": "TEST"
+  },
+  {
+    "CBC": "TEST"
+  },
+  {
+    "CRP": "TEST"
+  },
+  {
+    "blood cultures": "TEST"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "Ampicillin": "DRUG"
+  },
+  {
+    "gentamicin": "DRUG"
+  },
+  {
+    "NeoSure": "DRUG"
+  },
+  {
+    "EBM 22": "DRUG"
+  },
+  {
+    "OG tube": "TREATMENT"
+  },
+  {
+    "C-sections": "PROBLEM"
+  }
+]

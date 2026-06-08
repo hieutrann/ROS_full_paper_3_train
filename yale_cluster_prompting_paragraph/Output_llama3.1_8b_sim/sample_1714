@@ -1,0 +1,71 @@
+[
+  {
+    "infection": "PROBLEM"
+  },
+  {
+    "bleeding": "PROBLEM"
+  },
+  {
+    "allergic reaction": "PROBLEM"
+  },
+  {
+    "dural puncture": "PROBLEM"
+  },
+  {
+    "headache": "PROBLEM"
+  },
+  {
+    "nerve injuries": "PROBLEM"
+  },
+  {
+    "spinal cord injury": "PROBLEM"
+  },
+  {
+    "cardiovascular and CNS side effects": "PROBLEM"
+  },
+  {
+    "vascular entry of medications": "PROBLEM"
+  },
+  {
+    "sedatives": "DRUG"
+  },
+  {
+    "narcotics": "DRUG"
+  },
+  {
+    "nonionic contrast agents": "DRUG"
+  },
+  {
+    "anesthetics": "DRUG"
+  },
+  {
+    "corticosteroids": "DRUG"
+  },
+  {
+    "betadine": "DRUG"
+  },
+  {
+    "Oxygen saturation": "TEST"
+  },
+  {
+    "vital signs": "TEST"
+  },
+  {
+    "fluoroscopy": "TEST"
+  },
+  {
+    "X-ray technician": "TEST"
+  },
+  {
+    "spinal needle": "TREATMENT"
+  },
+  {
+    "non-ionic contrast agent": "TREATMENT"
+  },
+  {
+    "treatment solution": "TREATMENT"
+  },
+  {
+    "lidocaine": "TREATMENT"
+  }
+]

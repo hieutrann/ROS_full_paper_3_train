@@ -1,0 +1,74 @@
+[
+  {
+    "Pap": "TEST"
+  },
+  {
+    "breast exam": "TEST"
+  },
+  {
+    "Pap smear": "TEST"
+  },
+  {
+    "midchest pain": "PROBLEM"
+  },
+  {
+    "Reactive airway disease": "PROBLEM"
+  },
+  {
+    "rheumatoid arthritis": "PROBLEM"
+  },
+  {
+    "iron deficiency anemia": "PROBLEM"
+  },
+  {
+    "osteoporosis": "PROBLEM"
+  },
+  {
+    "hypothyroidism": "PROBLEM"
+  },
+  {
+    "EKG": "TEST"
+  },
+  {
+    "Methotrexate": "DRUG"
+  },
+  {
+    "Fosamax": "DRUG"
+  },
+  {
+    "folic acid": "DRUG"
+  },
+  {
+    "amitriptyline": "DRUG"
+  },
+  {
+    "Synthroid": "DRUG"
+  },
+  {
+    "calcium": "DRUG"
+  },
+  {
+    "multivitamin": "DRUG"
+  },
+  {
+    "baby aspirin": "DRUG"
+  },
+  {
+    "Colace": "DRUG"
+  },
+  {
+    "foot surgery": "TREATMENT"
+  },
+  {
+    "surgery on her hands": "TREATMENT"
+  },
+  {
+    "DEXA": "TEST"
+  },
+  {
+    "Pap smear": "TEST"
+  },
+  {
+    "mammogram": "TEST"
+  }
+]

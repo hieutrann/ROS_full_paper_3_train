@@ -1,0 +1,116 @@
+[
+  {
+    "cold": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "runny nose": "PROBLEM"
+  },
+  {
+    "spitting up": "PROBLEM"
+  },
+  {
+    "difficulty breathing": "PROBLEM"
+  },
+  {
+    "cough was described as dry and hacky": "PROBLEM"
+  },
+  {
+    "red Left TM": "PROBLEM"
+  },
+  {
+    "congested": "PROBLEM"
+  },
+  {
+    "Amoxil": "DRUG"
+  },
+  {
+    "Aldex": "DRUG"
+  },
+  {
+    "temperature yesterday of 1026": "PROBLEM"
+  },
+  {
+    "trouble sleeping": "PROBLEM"
+  },
+  {
+    "respiratory rate": "TEST"
+  },
+  {
+    "retractions": "PROBLEM"
+  },
+  {
+    "red and irritated with": "PROBLEM"
+  },
+  {
+    "nasal discharge": "PROBLEM"
+  },
+  {
+    "tachycardic": "PROBLEM"
+  },
+  {
+    "diffuse expiratory wheezing": "PROBLEM"
+  },
+  {
+    "clubbing": "PROBLEM"
+  },
+  {
+    "cyanosis": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "chem panel": "TEST"
+  },
+  {
+    "RSV screen": "TEST"
+  },
+  {
+    "Chest x-ray": "TEST"
+  },
+  {
+    "CBC": "TEST"
+  },
+  {
+    "RSV bronchiolitis": "PROBLEM"
+  },
+  {
+    "otitis media": "PROBLEM"
+  },
+  {
+    "oral Orapred": "DRUG"
+  },
+  {
+    "IV Rocephin": "DRUG"
+  },
+  {
+    "nebulizer treatments": "TREATMENT"
+  },
+  {
+    "oxygen": "TREATMENT"
+  },
+  {
+    "rsv": "PROBLEM"
+  },
+  {
+    "bronchiolitis": "PROBLEM"
+  },
+  {
+    "otitis media": "PROBLEM"
+  },
+  {
+    "runny nose": "PROBLEM"
+  },
+  {
+    "difficulty breathing": "PROBLEM"
+  },
+  {
+    "congestion": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  }
+]

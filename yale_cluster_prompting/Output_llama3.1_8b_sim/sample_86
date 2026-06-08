@@ -1,0 +1,311 @@
+[
+  {
+    "depression": "PROBLEM"
+  },
+  {
+    "high risk behavior": "PROBLEM"
+  },
+  {
+    "Medical Transcription Sample Report": "TEST"
+  },
+  {
+    "DISCHARGE SUMMARY": "TEST"
+  },
+  {
+    "SUMMARY OF TREATMENT PLANNING": "TEST"
+  },
+  {
+    "PROBLEMS/OUTCOMES": "PROBLEM"
+  },
+  {
+    "Depression": "PROBLEM"
+  },
+  {
+    "2": "TEST"
+  },
+  {
+    "High risk behavior": "PROBLEM"
+  },
+  {
+    "depressed": "PROBLEM"
+  },
+  {
+    "anxious": "PROBLEM"
+  },
+  {
+    "paranoia": "PROBLEM"
+  },
+  {
+    "relapse": "PROBLEM"
+  },
+  {
+    "RTC": "PROBLEM"
+  },
+  {
+    "therapy program": "TREATMENT"
+  },
+  {
+    "psychotropic medications": "DRUG"
+  },
+  {
+    "therapy": "TREATMENT"
+  },
+  {
+    "hospital": "TREATMENT"
+  },
+  {
+    "Perceptual disturbances": "PROBLEM"
+  },
+  {
+    "disorganized thoughts": "PROBLEM"
+  },
+  {
+    "audiovisual hallucinations": "PROBLEM"
+  },
+  {
+    "depressed moods": "PROBLEM"
+  },
+  {
+    "anxious": "PROBLEM"
+  },
+  {
+    "irritable": "PROBLEM"
+  },
+  {
+    "homesick": "PROBLEM"
+  },
+  {
+    "limited interaction with peers": "PROBLEM"
+  },
+  {
+    "groups": "PROBLEM"
+  },
+  {
+    "strange feelings and sensations": "PROBLEM"
+  },
+  {
+    "general": "PROBLEM"
+  },
+  {
+    "relapse": "PROBLEM"
+  },
+  {
+    "RTC program": "TREATMENT"
+  },
+  {
+    "sleep-deprived EEG": "TEST"
+  },
+  {
+    "EKG": "TEST"
+  },
+  {
+    "psychiatric treatment": "TREATMENT"
+  },
+  {
+    "H&P": "TEST"
+  },
+  {
+    "clearance": "TEST"
+  },
+  {
+    "basic metabolic panel": "TEST"
+  },
+  {
+    "CBC": "TEST"
+  },
+  {
+    "TSH": "TEST"
+  },
+  {
+    "UA": "TEST"
+  },
+  {
+    "urine drug screen": "TEST"
+  },
+  {
+    "thyroid dysfunction": "PROBLEM"
+  },
+  {
+    "thyroid panel": "TEST"
+  },
+  {
+    "T3": "TEST"
+  },
+  {
+    "T4": "TEST"
+  },
+  {
+    "TSH": "TEST"
+  },
+  {
+    "asthma": "PROBLEM"
+  },
+  {
+    "heart murmur": "PROBLEM"
+  },
+  {
+    "Hematocrit": "TEST"
+  },
+  {
+    "monocytes": "TEST"
+  },
+  {
+    "lab results": "TEST"
+  },
+  {
+    "Major depression": "PROBLEM"
+  },
+  {
+    "psychotic features": "PROBLEM"
+  },
+  {
+    "Deferred": "PROBLEM"
+  },
+  {
+    "acute major medical conditions": "PROBLEM"
+  },
+  {
+    "Psychosocial stressors": "PROBLEM"
+  },
+  {
+    "GAF": "TEST"
+  },
+  {
+    "alert": "PROBLEM"
+  },
+  {
+    "oriented to time": "PROBLEM"
+  },
+  {
+    "oriented to": "PROBLEM"
+  },
+  {
+    "oriented to": "PROBLEM"
+  },
+  {
+    "oriented to": "PROBLEM"
+  },
+  {
+    "suicidal or homicidal ideas": "PROBLEM"
+  },
+  {
+    "homicidal ideas": "PROBLEM"
+  },
+  {
+    "perception disturbances": "PROBLEM"
+  },
+  {
+    "internal stimuli": "PROBLEM"
+  },
+  {
+    "Guarded": "PROBLEM"
+  },
+  {
+    "family": "PROBLEM"
+  },
+  {
+    "hospital": "TREATMENT"
+  },
+  {
+    "07/21/04": "TEST"
+  },
+  {
+    "RTC (Residential Treatment Center)": "TREATMENT"
+  },
+  {
+    "cardiologist": "PROBLEM"
+  },
+  {
+    "OB/GYN doctor": "PROBLEM"
+  },
+  {
+    "family doctor": "PROBLEM"
+  },
+  {
+    "lab results": "TEST"
+  },
+  {
+    "physical (medical conditions)": "PROBLEM"
+  },
+  {
+    "Seroquel": "DRUG"
+  },
+  {
+    "a.m.": "TEST"
+  },
+  {
+    "Seroquel": "DRUG"
+  },
+  {
+    "Benadryl": "DRUG"
+  },
+  {
+    "q.": "TEST"
+  },
+  {
+    "p.r.n.": "TEST"
+  },
+  {
+    "Wellbutrin XL": "DRUG"
+  },
+  {
+    "q.a.m.": "TEST"
+  },
+  {
+    "vitamin E": "DRUG"
+  },
+  {
+    "q.d.": "TEST"
+  },
+  {
+    "Restoril": "DRUG"
+  },
+  {
+    "p.r.n.": "TEST"
+  },
+  {
+    "anxiety": "PROBLEM"
+  },
+  {
+    "galactorrhea": "PROBLEM"
+  },
+  {
+    "galactorrhea": "PROBLEM"
+  },
+  {
+    "Risperdal": "DRUG"
+  },
+  {
+    "Risperdal": "DRUG"
+  },
+  {
+    "patient": "PROBLEM"
+  },
+  {
+    "legal guardian": "PROBLEM"
+  },
+  {
+    "therapist": "TREATMENT"
+  },
+  {
+    "nursing staff": "TREATMENT"
+  },
+  {
+    "depression": "PROBLEM"
+  },
+  {
+    "psychiatric treatment": "TREATMENT"
+  },
+  {
+    "psychotropic medications": "DRUG"
+  },
+  {
+    "RTC": "TREATMENT"
+  },
+  {
+    "EEG": "TEST"
+  },
+  {
+    "axis": "TEST"
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "Preeclampsia": "PROBLEM"
+  },
+  {
+    "Cesarean section": "TREATMENT"
+  },
+  {
+    "uncontrolled blood pressure": "PROBLEM"
+  },
+  {
+    "blood pressure": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "fatigue": "PROBLEM"
+  },
+  {
+    "tiredness": "PROBLEM"
+  },
+  {
+    "congenital anomaly": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "gestational diabetes mellitus": "PROBLEM"
+  },
+  {
+    "coronary artery disease": "PROBLEM"
+  },
+  {
+    "C-section": "TREATMENT"
+  },
+  {
+    "Cardizem": "DRUG"
+  },
+  {
+    "metoprolol": "DRUG"
+  },
+  {
+    "hydralazine": "DRUG"
+  },
+  {
+    "labetalol": "DRUG"
+  },
+  {
+    "hydrochlorothiazide": "DRUG"
+  },
+  {
+    "insulin supplementation": "TREATMENT"
+  },
+  {
+    "pre-eclampsia": "PROBLEM"
+  },
+  {
+    "miscarriage": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "rigors": "PROBLEM"
+  },
+  {
+    "chills": "PROBLEM"
+  },
+  {
+    "cataract": "PROBLEM"
+  },
+  {
+    "blurry vision": "PROBLEM"
+  },
+  {
+    "glaucoma": "PROBLEM"
+  },
+  {
+    "congestive heart": "PROBLEM"
+  },
+  {
+    "arrhythmia": "PROBLEM"
+  },
+  {
+    "pneumonia": "PROBLEM"
+  },
+  {
+    "valley fever": "PROBLEM"
+  },
+  {
+    "epigastric discomfort": "PROBLEM"
+  },
+  {
+    "hematemesis": "PROBLEM"
+  },
+  {
+    "melena": "PROBLEM"
+  },
+  {
+    "frequency": "PROBLEM"
+  },
+  {
+    "urgency": "PROBLEM"
+  },
+  {
+    "arthritis": "PROBLEM"
+  },
+  {
+    "muscle weakness": "PROBLEM"
+  },
+  {
+    "TIA": "PROBLEM"
+  },
+  {
+    "CVA": "PROBLEM"
+  },
+  {
+    "seizure disorder": "PROBLEM"
+  },
+  {
+    "sinus tachycardia": "PROBLEM"
+  },
+  {
+    "ST-T changes": "PROBLEM"
+  },
+  {
+    "echocardiogram": "TEST"
+  },
+  {
+    "gestational diabetes": "PROBLEM"
+  }
+]

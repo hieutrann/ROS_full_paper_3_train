@@ -1,0 +1,68 @@
+[
+  {
+    "decrease in mental alertness": "PROBLEM"
+  },
+  {
+    "mental changes": "PROBLEM"
+  },
+  {
+    "diabetes": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "glucose": "TEST"
+  },
+  {
+    "CPK": "TEST"
+  },
+  {
+    "troponin": "TEST"
+  },
+  {
+    "CMP": "TEST"
+  },
+  {
+    "BMP": "TEST"
+  },
+  {
+    "BUN": "TEST"
+  },
+  {
+    "creatinine": "TEST"
+  },
+  {
+    "potassium": "TEST"
+  },
+  {
+    "Urinalysis": "TEST"
+  },
+  {
+    "specific gravity": "TEST"
+  },
+  {
+    "CT of the brain": "TEST"
+  },
+  {
+    "Chest x-ray": "TEST"
+  },
+  {
+    "labetalol": "DRUG"
+  },
+  {
+    "Norvasc": "DRUG"
+  },
+  {
+    "glucose supplement": "DRUG"
+  },
+  {
+    "aspirin": "DRUG"
+  },
+  {
+    "IV fluid": "TREATMENT"
+  },
+  {
+    "glucometer checks": "TREATMENT"
+  }
+]

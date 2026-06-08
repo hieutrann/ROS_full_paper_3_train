@@ -1,0 +1,149 @@
+[
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "feeling faint": "PROBLEM"
+  },
+  {
+    "weak": "PROBLEM"
+  },
+  {
+    "COPD": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "chills": "PROBLEM"
+  },
+  {
+    "sweats": "PROBLEM"
+  },
+  {
+    "ear pain": "PROBLEM"
+  },
+  {
+    "URI symptoms": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "dyspnea": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "diarrhea": "PROBLEM"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "melena": "PROBLEM"
+  },
+  {
+    "hematochezia": "PROBLEM"
+  },
+  {
+    "urinary symptoms": "PROBLEM"
+  },
+  {
+    "headache": "PROBLEM"
+  },
+  {
+    "neck pain": "PROBLEM"
+  },
+  {
+    "back pain": "PROBLEM"
+  },
+  {
+    "weakness": "PROBLEM"
+  },
+  {
+    "paresthesias": "PROBLEM"
+  },
+  {
+    "tiredness": "PROBLEM"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "hyponatremia": "PROBLEM"
+  },
+  {
+    "rectal bleeding": "PROBLEM"
+  },
+  {
+    "Diovan": "DRUG"
+  },
+  {
+    "estradiol": "DRUG"
+  },
+  {
+    "Norvasc": "DRUG"
+  },
+  {
+    "Wellbutrin SR inhaler": "DRUG"
+  },
+  {
+    "home O2": "DRUG"
+  },
+  {
+    "MORPHINE": "DRUG"
+  },
+  {
+    "tetanus immunization": "DRUG"
+  },
+  {
+    "albuterol unit dose small volume nebulizer treatment": "TREATMENT"
+  },
+  {
+    "normal saline lock": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "rectal examination": "TEST"
+  },
+  {
+    "WBC": "TEST"
+  },
+  {
+    "differential": "TEST"
+  },
+  {
+    "hemoglobin": "TEST"
+  },
+  {
+    "hematocrit": "TEST"
+  },
+  {
+    "comprehensive medical profile": "TEST"
+  },
+  {
+    "amylase": "TEST"
+  },
+  {
+    "lipase": "TEST"
+  },
+  {
+    "clean catch urinalysis": "TEST"
+  },
+  {
+    "O2 sat": "TEST"
+  },
+  {
+    "chest x-ray": "TEST"
+  }
+]

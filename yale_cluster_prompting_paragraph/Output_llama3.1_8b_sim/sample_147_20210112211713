@@ -1,0 +1,32 @@
+[
+  {
+    "free air under the diaphragm": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "obtunded": "PROBLEM"
+  },
+  {
+    "alcohol abuse": "PROBLEM"
+  },
+  {
+    "appendectomy": "TREATMENT"
+  },
+  {
+    "TAH/BSO": "TREATMENT"
+  },
+  {
+    "chest x-ray": "TEST"
+  },
+  {
+    "CT scan": "TEST"
+  },
+  {
+    "Ativan": "DRUG"
+  },
+  {
+    "hyponatremia": "PROBLEM"
+  }
+]

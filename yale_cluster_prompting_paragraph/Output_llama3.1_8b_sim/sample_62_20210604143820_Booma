@@ -1,0 +1,101 @@
+[
+  {
+    "Nausea": "PROBLEM"
+  },
+  {
+    "feeling faint": "PROBLEM"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "hyponatremia": "PROBLEM"
+  },
+  {
+    "COPD": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "Diovan": "DRUG"
+  },
+  {
+    "estradiol": "DRUG"
+  },
+  {
+    "Norvasc": "DRUG"
+  },
+  {
+    "Wellbutrin SR": "DRUG"
+  },
+  {
+    "albuterol": "DRUG"
+  },
+  {
+    "albuterol unit dose small volume nebulizer treatment": "TREATMENT"
+  },
+  {
+    "IV fluids of normal saline": "TREATMENT"
+  },
+  {
+    "normal saline lock": "TREATMENT"
+  },
+  {
+    "physical examination": "TEST"
+  },
+  {
+    "vital signs": "TEST"
+  },
+  {
+    "laboratory studies": "TEST"
+  },
+  {
+    "chest x-ray": "TEST"
+  },
+  {
+    "clean catch urinalysis": "TEST"
+  },
+  {
+    "ED studies": "TEST"
+  },
+  {
+    "rectal examination": "TEST"
+  },
+  {
+    "rectal secretions": "TEST"
+  },
+  {
+    "rectal examination was performed": "TEST"
+  },
+  {
+    "rectal examination was performed with female nurse in attendance": "TEST"
+  },
+  {
+    "rectal examination was performed with female nurse in attendance. Good sphincter tone": "TEST"
+  },
+  {
+    "rectal examination was performed with female nurse in attendance. Good sphincter tone. No masses": "TEST"
+  },
+  {
+    "rectal examination was performed with female nurse in attendance. Good sphincter tone. No masses. The rectal secretions were heme negative": "TEST"
+  },
+  {
+    "rectal examination was performed with female nurse in attendance. Good sphincter tone. No masses. The rectal secretions were heme negative. The patient was reassessed": "TEST"
+  },
+  {
+    "rectal examination was performed with female nurse in attendance. Good sphincter tone. No masses. The rectal secretions were heme negative. The patient was reassessed. She feels slightly better": "TEST"
+  },
+  {
+    "rectal examination was performed with female nurse in attendance. Good sphincter tone. No masses. The rectal secretions were heme negative. The patient was reassessed. She feels slightly better. Monitor now shows normal sinus rhythm, rate 81, no ectopy": "TEST"
+  },
+  {
+    "rectal examination was performed with female nurse in attendance. Good sphincter tone. No masses. The rectal secretions were heme negative. The patient was reassessed. She feels slightly better. Monitor now shows normal sinus rhythm, rate 81, no ectopy. Blood pressure is 136/66": "TEST"
+  },
+  {
+    "rectal examination was performed with female nurse in attendance. Good sphincter tone. No masses. The rectal secretions were heme negative. The patient was reassessed. She feels slightly better. Monitor now shows normal sinus rhythm, rate 81, no ectopy. Blood pressure is 136/66. The patient is stable and will be discharged": "TEST"
+  },
+  {
+    "PHYSICAL": "TREATMENT"
+  }
+]

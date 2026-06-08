@@ -1,0 +1,53 @@
+[
+  {
+    "Kawasaki disease": "PROBLEM"
+  },
+  {
+    "Kawasaki disease": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "conjunctivitis": "PROBLEM"
+  },
+  {
+    "mild arthritis": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "rash": "PROBLEM"
+  },
+  {
+    "elevated neutrophils": "PROBLEM"
+  },
+  {
+    "thrombocytosis": "PROBLEM"
+  },
+  {
+    "elevated CRP": "PROBLEM"
+  },
+  {
+    "ESR": "PROBLEM"
+  },
+  {
+    "aspirin": "DRUG"
+  },
+  {
+    "IVIG": "DRUG"
+  },
+  {
+    "Echocardiogram": "TEST"
+  },
+  {
+    "IVIG": "TREATMENT"
+  },
+  {
+    "aspirin": "TREATMENT"
+  },
+  {
+    "Prevacid": "DRUG"
+  }
+]

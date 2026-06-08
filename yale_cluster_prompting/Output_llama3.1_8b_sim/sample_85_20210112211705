@@ -1,0 +1,290 @@
+[
+  {
+    "Bradycardia": "PROBLEM"
+  },
+  {
+    "dizziness": "PROBLEM"
+  },
+  {
+    "diabetes": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "sick sinus syndrome": "PROBLEM"
+  },
+  {
+    "ADMITTING DIAGNOSES": "PROBLEM"
+  },
+  {
+    "Bradycardia": "PROBLEM"
+  },
+  {
+    "2": "PROBLEM"
+  },
+  {
+    "dizziness": "PROBLEM"
+  },
+  {
+    "3": "PROBLEM"
+  },
+  {
+    "Diabetes": "PROBLEM"
+  },
+  {
+    "4": "PROBLEM"
+  },
+  {
+    "Hypertension": "PROBLEM"
+  },
+  {
+    "5": "PROBLEM"
+  },
+  {
+    "Abdominal pain": "PROBLEM"
+  },
+  {
+    "Sick sinus syndrome": "PROBLEM"
+  },
+  {
+    "pacemaker": "TREATMENT"
+  },
+  {
+    "intensive care unit": "TREATMENT"
+  },
+  {
+    "Dr.": "TREATMENT"
+  },
+  {
+    "X": "PROBLEM"
+  },
+  {
+    "pacemaker": "TREATMENT"
+  },
+  {
+    "Dr": "TREATMENT"
+  },
+  {
+    "pacemaker": "TREATMENT"
+  },
+  {
+    "electrocardiograms": "TEST"
+  },
+  {
+    "telemetry readings": "TEST"
+  },
+  {
+    "sinus rhythm": "PROBLEM"
+  },
+  {
+    "bradycardias": "PROBLEM"
+  },
+  {
+    "sick sinus syndrome": "PROBLEM"
+  },
+  {
+    "pacemaker": "TREATMENT"
+  },
+  {
+    "pacemaker": "TREATMENT"
+  },
+  {
+    "pain in the left side of the chest in": "PROBLEM"
+  },
+  {
+    "femoral artery catheter": "TREATMENT"
+  },
+  {
+    "hematoma": "PROBLEM"
+  },
+  {
+    "blood pressure": "PROBLEM"
+  },
+  {
+    "benazepril": "DRUG"
+  },
+  {
+    "Norvasc": "DRUG"
+  },
+  {
+    "blood pressure": "PROBLEM"
+  },
+  {
+    "Sick sinus syndrome": "PROBLEM"
+  },
+  {
+    "Diabetes mellitus": "PROBLEM"
+  },
+  {
+    "2": "PROBLEM"
+  },
+  {
+    "peptic ulcer disease": "PROBLEM"
+  },
+  {
+    "3": "PROBLEM"
+  },
+  {
+    "Hypertension": "PROBLEM"
+  },
+  {
+    "4": "PROBLEM"
+  },
+  {
+    "insomnia": "PROBLEM"
+  },
+  {
+    "5": "PROBLEM"
+  },
+  {
+    "Osteoarthritis": "PROBLEM"
+  },
+  {
+    "medications": "DRUG"
+  },
+  {
+    "Actos": "DRUG"
+  },
+  {
+    "2": "PROBLEM"
+  },
+  {
+    "Bisacodyl": "DRUG"
+  },
+  {
+    "p.r.n.": "TREATMENT"
+  },
+  {
+    "constipation": "PROBLEM"
+  },
+  {
+    "3": "PROBLEM"
+  },
+  {
+    "Cosopt eye drops": "DRUG"
+  },
+  {
+    "4": "PROBLEM"
+  },
+  {
+    "Famotidine": "DRUG"
+  },
+  {
+    "b.i.d.": "TREATMENT"
+  },
+  {
+    "5": "PROBLEM"
+  },
+  {
+    "Lotemax": "DRUG"
+  },
+  {
+    "6": "PROBLEM"
+  },
+  {
+    "Lotensin": "DRUG"
+  },
+  {
+    "benazepril": "DRUG"
+  },
+  {
+    "7": "PROBLEM"
+  },
+  {
+    "Triazolam": "DRUG"
+  },
+  {
+    "8": "PROBLEM"
+  },
+  {
+    "Milk of Magnesia suspension": "DRUG"
+  },
+  {
+    "constipation": "PROBLEM"
+  },
+  {
+    "9": "PROBLEM"
+  },
+  {
+    "Tylenol": "DRUG"
+  },
+  {
+    "p.r.n.": "TREATMENT"
+  },
+  {
+    "pain": "PROBLEM"
+  },
+  {
+    "10": "PROBLEM"
+  },
+  {
+    "Promethazine": "DRUG"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "11": "PROBLEM"
+  },
+  {
+    "Tylenol": "DRUG"
+  },
+  {
+    "12": "PROBLEM"
+  },
+  {
+    "cefazolin": "DRUG"
+  },
+  {
+    "pacemaker": "TREATMENT"
+  },
+  {
+    "staple removal": "TREATMENT"
+  },
+  {
+    "starch": "PROBLEM"
+  },
+  {
+    "sugar-free diet": "TREATMENT"
+  },
+  {
+    "bradycardia": "PROBLEM"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "diabetes": "PROBLEM"
+  },
+  {
+    "dizziness": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "sick sinus syndrome": "PROBLEM"
+  },
+  {
+    "permanent pacemaker": "TREATMENT"
+  },
+  {
+    "abdominal": "PROBLEM"
+  },
+  {
+    "syndrome": "PROBLEM"
+  },
+  {
+    "sinus": "PROBLEM"
+  },
+  {
+    "pacemaker": "TREATMENT"
+  }
+]

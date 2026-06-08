@@ -1,0 +1,209 @@
+[
+  {
+    "cold": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "runny nose": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "spitting up": "PROBLEM"
+  },
+  {
+    "Congestion": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "cold": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "runny nose": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "spitting up": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "right TM": "PROBLEM"
+  },
+  {
+    "Left TM": "PROBLEM"
+  },
+  {
+    "Amoxil": "DRUG"
+  },
+  {
+    "Aldex": "DRUG"
+  },
+  {
+    "Mom": "PROBLEM"
+  },
+  {
+    "difficulty breathing": "PROBLEM"
+  },
+  {
+    "congested": "PROBLEM"
+  },
+  {
+    "appetite": "PROBLEM"
+  },
+  {
+    "temperature": "PROBLEM"
+  },
+  {
+    "congestion": "PROBLEM"
+  },
+  {
+    "drug allergies": "PROBLEM"
+  },
+  {
+    "Amoxil": "DRUG"
+  },
+  {
+    "Aldex": "DRUG"
+  },
+  {
+    "Negative": "PROBLEM"
+  },
+  {
+    "mom": "PROBLEM"
+  },
+  {
+    "Woman's": "TEST"
+  },
+  {
+    "complications": "PROBLEM"
+  },
+  {
+    "hearing screen": "TEST"
+  },
+  {
+    "IMMUNIZATIONS": "TREATMENT"
+  },
+  {
+    "Negative": "PROBLEM"
+  },
+  {
+    "Noncontributory": "PROBLEM"
+  },
+  {
+    "respiratory rate": "TEST"
+  },
+  {
+    "congested": "PROBLEM"
+  },
+  {
+    "retractions": "PROBLEM"
+  },
+  {
+    "red and irritated": "PROBLEM"
+  },
+  {
+    "light reflex": "TEST"
+  },
+  {
+    "nasal discharge": "PROBLEM"
+  },
+  {
+    "throat": "PROBLEM"
+  },
+  {
+    "extraocular muscles": "TEST"
+  },
+  {
+    "NECK": "PROBLEM"
+  },
+  {
+    "range of motion": "TEST"
+  },
+  {
+    "tachycardic": "PROBLEM"
+  },
+  {
+    "murmur": "PROBLEM"
+  },
+  {
+    "diffuse expiratory wheezing": "PROBLEM"
+  },
+  {
+    "ABDOMEN": "PROBLEM"
+  },
+  {
+    "clubbing": "PROBLEM"
+  },
+  {
+    "cyanosis": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "chem panel": "TEST"
+  },
+  {
+    "RSV screen": "TEST"
+  },
+  {
+    "Chest x-ray": "TEST"
+  },
+  {
+    "CBC": "TEST"
+  },
+  {
+    "RSV bronchiolitis": "PROBLEM"
+  },
+  {
+    "otitis media": "PROBLEM"
+  },
+  {
+    "Orapred": "DRUG"
+  },
+  {
+    "Rocephin": "DRUG"
+  },
+  {
+    "oxygen": "DRUG"
+  },
+  {
+    "rsv": "PROBLEM"
+  },
+  {
+    "bronchiolitis": "PROBLEM"
+  },
+  {
+    "otitis media": "PROBLEM"
+  },
+  {
+    "runny nose": "PROBLEM"
+  },
+  {
+    "difficulty breathing": "PROBLEM"
+  },
+  {
+    "nose": "PROBLEM"
+  },
+  {
+    "congestion": "PROBLEM"
+  },
+  {
+    "infant": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  }
+]

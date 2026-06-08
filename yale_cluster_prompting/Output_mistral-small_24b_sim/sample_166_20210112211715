@@ -1,0 +1,317 @@
+[
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "chest tightness": "PROBLEM"
+  },
+  {
+    "psychological disorders": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "chest tightness": "PROBLEM"
+  },
+  {
+    "psychological disorders": "PROBLEM"
+  },
+  {
+    "supraventricular tachycardia": "PROBLEM"
+  },
+  {
+    "coronary artery disease": "PROBLEM"
+  },
+  {
+    "workup": "TEST"
+  },
+  {
+    "cardiac workup": "TEST"
+  },
+  {
+    "methadone": "DRUG"
+  },
+  {
+    "morphine": "DRUG"
+  },
+  {
+    "drug screen": "TEST"
+  },
+  {
+    "EKG": "TEST"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "nitroglycerin": "DRUG"
+  },
+  {
+    "seizure disorder": "PROBLEM"
+  },
+  {
+    "migraine headaches": "PROBLEM"
+  },
+  {
+    "coronary artery disease": "PROBLEM"
+  },
+  {
+    "CHF": "PROBLEM"
+  },
+  {
+    "coronary stenting": "TREATMENT"
+  },
+  {
+    "mitral valve prolapse": "PROBLEM"
+  },
+  {
+    "supraventricular tachycardia": "PROBLEM"
+  },
+  {
+    "pacemaker placement": "TREATMENT"
+  },
+  {
+    "colon cancer": "PROBLEM"
+  },
+  {
+    "breast cancer": "PROBLEM"
+  },
+  {
+    "lumpectomy": "TREATMENT"
+  },
+  {
+    "breast augmentation surgery": "TREATMENT"
+  },
+  {
+    "cholecystectomy": "TREATMENT"
+  },
+  {
+    "cardiac ablation": "TREATMENT"
+  },
+  {
+    "left knee surgery": "TREATMENT"
+  },
+  {
+    "removal of half the pancreas": "TREATMENT"
+  },
+  {
+    "Dilantin": "DRUG"
+  },
+  {
+    "Klonopin": "DRUG"
+  },
+  {
+    "Elavil": "DRUG"
+  },
+  {
+    "nitroglycerin": "DRUG"
+  },
+  {
+    "Thorazine": "DRUG"
+  },
+  {
+    "Neurontin": "DRUG"
+  },
+  {
+    "Phenergan": "DRUG"
+  },
+  {
+    "menstrual period": "PROBLEM"
+  },
+  {
+    "abortion": "PROBLEM"
+  },
+  {
+    "abortion": "PROBLEM"
+  },
+  {
+    "OB/GYN": "PROBLEM"
+  },
+  {
+    "tobacco abuse": "PROBLEM"
+  },
+  {
+    "illicit drug abuse": "PROBLEM"
+  },
+  {
+    "alert": "PROBLEM"
+  },
+  {
+    "awake": "PROBLEM"
+  },
+  {
+    "oriented": "PROBLEM"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "heart rate": "TEST"
+  },
+  {
+    "respiratory rate": "TEST"
+  },
+  {
+    "head": "PROBLEM"
+  },
+  {
+    "Pupils": "TEST"
+  },
+  {
+    "Extraocular muscles": "TEST"
+  },
+  {
+    "oropharyngeal lesions": "PROBLEM"
+  },
+  {
+    "lymphadenopathy": "PROBLEM"
+  },
+  {
+    "LUNGS": "TEST"
+  },
+  {
+    "CARDIAC": "PROBLEM"
+  },
+  {
+    "ABDOMEN": "PROBLEM"
+  },
+  {
+    "Bowel sounds": "TEST"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "Distal pulses": "TEST"
+  },
+  {
+    "Grossly nonfocal": "PROBLEM"
+  },
+  {
+    "WBC count": "TEST"
+  },
+  {
+    "hemoglobin": "TEST"
+  },
+  {
+    "hematocrit": "TEST"
+  },
+  {
+    "Sodium": "TEST"
+  },
+  {
+    "potassium": "TEST"
+  },
+  {
+    "chloride": "TEST"
+  },
+  {
+    "glucose": "TEST"
+  },
+  {
+    "bicarbonate": "TEST"
+  },
+  {
+    "BUN": "TEST"
+  },
+  {
+    "creatinine": "TEST"
+  },
+  {
+    "liver function tests": "TEST"
+  },
+  {
+    "cardiac enzymes": "TEST"
+  },
+  {
+    "troponin-I": "TEST"
+  },
+  {
+    "CPK-MB": "TEST"
+  },
+  {
+    "myoglobulin": "TEST"
+  },
+  {
+    "EKG": "TEST"
+  },
+  {
+    "toxicology screen": "TEST"
+  },
+  {
+    "morphine": "DRUG"
+  },
+  {
+    "methadone": "DRUG"
+  },
+  {
+    "marijuana": "DRUG"
+  },
+  {
+    "head CT": "TEST"
+  },
+  {
+    "beta-hCG": "TEST"
+  },
+  {
+    "ASSESSMENT AND EVALUATION": "TEST"
+  },
+  {
+    "Chest pains": "PROBLEM"
+  },
+  {
+    "psychosomatic component": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "acute coronary syndrome": "PROBLEM"
+  },
+  {
+    "unstable angina": "PROBLEM"
+  },
+  {
+    "early pregnancy": "PROBLEM"
+  },
+  {
+    "medications": "DRUG"
+  },
+  {
+    "OB/GYN": "PROBLEM"
+  },
+  {
+    "PCP": "PROBLEM"
+  },
+  {
+    "pregnancy": "PROBLEM"
+  },
+  {
+    "prenatal visits": "TREATMENT"
+  },
+  {
+    "Migraine headaches": "PROBLEM"
+  },
+  {
+    "migraine headache": "PROBLEM"
+  },
+  {
+    "acute coronary syndrome": "PROBLEM"
+  },
+  {
+    "coronary artery disease": "PROBLEM"
+  },
+  {
+    "chest tightness": "PROBLEM"
+  },
+  {
+    "psychological disorders": "PROBLEM"
+  },
+  {
+    "supraventricular tachycardia": "PROBLEM"
+  },
+  {
+    "headaches": "PROBLEM"
+  }
+]

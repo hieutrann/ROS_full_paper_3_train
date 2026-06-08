@@ -1,0 +1,311 @@
+[
+  {
+    "Laparoscopic cholecystectomy": "TREATMENT"
+  },
+  {
+    "Acute cholecystitis": "PROBLEM"
+  },
+  {
+    "laparoscopic cholecystectomy": "TREATMENT"
+  },
+  {
+    "end-stage renal disease": "PROBLEM"
+  },
+  {
+    "hemodialysis": "TREATMENT"
+  },
+  {
+    "hyperlipidemia": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "congestive heart failure": "PROBLEM"
+  },
+  {
+    "skin lymphoma": "PROBLEM"
+  },
+  {
+    "hypothyroidism": "PROBLEM"
+  },
+  {
+    "Laparoscopic cholecystectomy": "TREATMENT"
+  },
+  {
+    "DISCHARGE DIAGNOSES": "PROBLEM"
+  },
+  {
+    "Acute cholecystitis": "PROBLEM"
+  },
+  {
+    "2": "PROBLEM"
+  },
+  {
+    "laparoscopic cholecystectomy": "TREATMENT"
+  },
+  {
+    "3": "PROBLEM"
+  },
+  {
+    "End-stage renal disease": "PROBLEM"
+  },
+  {
+    "hemodialysis": "TREATMENT"
+  },
+  {
+    "4": "PROBLEM"
+  },
+  {
+    "Hyperlipidemia": "PROBLEM"
+  },
+  {
+    "5": "PROBLEM"
+  },
+  {
+    "Hypertension": "PROBLEM"
+  },
+  {
+    "6": "PROBLEM"
+  },
+  {
+    "Congestive heart failure": "PROBLEM"
+  },
+  {
+    "7": "PROBLEM"
+  },
+  {
+    "Skin lymphoma": "PROBLEM"
+  },
+  {
+    "8": "PROBLEM"
+  },
+  {
+    "Hypothyroidism": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "end-stage renal disease": "PROBLEM"
+  },
+  {
+    "hyperlipidemia": "PROBLEM"
+  },
+  {
+    "hypothyroidism": "PROBLEM"
+  },
+  {
+    "skin lymphoma": "PROBLEM"
+  },
+  {
+    "left AV fistula": "TREATMENT"
+  },
+  {
+    "epigastric pain": "PROBLEM"
+  },
+  {
+    "right upper quadrant pain": "PROBLEM"
+  },
+  {
+    "mid abdominal pain": "PROBLEM"
+  },
+  {
+    "nauseated feeling": "PROBLEM"
+  },
+  {
+    "temperature": "PROBLEM"
+  },
+  {
+    "pulse": "PROBLEM"
+  },
+  {
+    "blood pressure": "PROBLEM"
+  },
+  {
+    "renal cyst": "PROBLEM"
+  },
+  {
+    "ultrasound": "TEST"
+  },
+  {
+    "EKG": "TEST"
+  },
+  {
+    "sludge": "PROBLEM"
+  },
+  {
+    "a stone": "PROBLEM"
+  },
+  {
+    "Thickening of the gallbladder wall": "PROBLEM"
+  },
+  {
+    "positive Murphy sign": "PROBLEM"
+  },
+  {
+    "cholecystitis": "PROBLEM"
+  },
+  {
+    "glucose": "PROBLEM"
+  },
+  {
+    "nitrite": "PROBLEM"
+  },
+  {
+    "creatinine": "PROBLEM"
+  },
+  {
+    "sodium": "PROBLEM"
+  },
+  {
+    "potassium": "PROBLEM"
+  },
+  {
+    "lipase": "PROBLEM"
+  },
+  {
+    "amylase": "PROBLEM"
+  },
+  {
+    "IV fluid": "TREATMENT"
+  },
+  {
+    "low-dose IV antibiotic": "DRUG"
+  },
+  {
+    "2-D echocardiogram": "TEST"
+  },
+  {
+    "EKG": "TEST"
+  },
+  {
+    "CHF": "PROBLEM"
+  },
+  {
+    "blood culture": "TEST"
+  },
+  {
+    "urine culture": "TEST"
+  },
+  {
+    "surgical consult": "TREATMENT"
+  },
+  {
+    "Dr.": "TREATMENT"
+  },
+  {
+    "cholecystectomy": "TREATMENT"
+  },
+  {
+    "dialysis": "TREATMENT"
+  },
+  {
+    "cardiologist": "PROBLEM"
+  },
+  {
+    "laparoscopic cholecystectomy": "TREATMENT"
+  },
+  {
+    "dialysis": "TREATMENT"
+  },
+  {
+    "nephrologist": "PROBLEM"
+  },
+  {
+    "white count": "TEST"
+  },
+  {
+    "postop day #1": "PROBLEM"
+  },
+  {
+    "chronic bronchitis": "PROBLEM"
+  },
+  {
+    "surgery": "TREATMENT"
+  },
+  {
+    "surgeon": "PROBLEM"
+  },
+  {
+    "Synthroid": "DRUG"
+  },
+  {
+    "Plavix": "DRUG"
+  },
+  {
+    "folic acid": "DRUG"
+  },
+  {
+    "Diovan 80 mg": "DRUG"
+  },
+  {
+    "Renagel": "DRUG"
+  },
+  {
+    "Lasix": "DRUG"
+  },
+  {
+    "lovastatin": "DRUG"
+  },
+  {
+    "Coreg": "DRUG"
+  },
+  {
+    "nebulizer therapy": "TREATMENT"
+  },
+  {
+    "Phenergan": "DRUG"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "Pepcid": "DRUG"
+  },
+  {
+    "Vicodin": "DRUG"
+  },
+  {
+    "q.6 hours p.r.n.": "TREATMENT"
+  },
+  {
+    "Levaquin": "DRUG"
+  },
+  {
+    "5 days": "TREATMENT"
+  },
+  {
+    "Premarin": "DRUG"
+  },
+  {
+    "heart disease": "PROBLEM"
+  },
+  {
+    "stroke": "PROBLEM"
+  },
+  {
+    "home": "PROBLEM"
+  },
+  {
+    "end-stage renal disease": "PROBLEM"
+  },
+  {
+    "lymphoma": "PROBLEM"
+  },
+  {
+    "cholecystitis": "PROBLEM"
+  },
+  {
+    "congestive heart failure": "PROBLEM"
+  },
+  {
+    "skin lymphoma": "PROBLEM"
+  },
+  {
+    "laparoscopic cholecystectomy": "TREATMENT"
+  }
+]

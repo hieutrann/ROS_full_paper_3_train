@@ -1,0 +1,101 @@
+[
+  {
+    "General Medicine": "TREATMENT"
+  },
+  {
+    "Ant Bait Exposure": "PROBLEM"
+  },
+  {
+    "ER Visit": "TEST"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "ant bait": "PROBLEM"
+  },
+  {
+    "Borax": "DRUG"
+  },
+  {
+    "fluid": "PROBLEM"
+  },
+  {
+    "it": "PROBLEM"
+  },
+  {
+    "ingested": "PROBLEM"
+  },
+  {
+    "symptoms": "PROBLEM"
+  },
+  {
+    "Negative": "PROBLEM"
+  },
+  {
+    "coughing": "PROBLEM"
+  },
+  {
+    "gagging": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "spilled": "PROBLEM"
+  },
+  {
+    "None": "DRUG"
+  },
+  {
+    "NONE": "PROBLEM"
+  },
+  {
+    "afebrile": "TEST"
+  },
+  {
+    "vital signs": "TEST"
+  },
+  {
+    "pulse oximetry": "TEST"
+  },
+  {
+    "child": "PROBLEM"
+  },
+  {
+    "HEENT": "TEST"
+  },
+  {
+    "Oral mucosa": "TEST"
+  },
+  {
+    "Poison Control": "TEST"
+  },
+  {
+    "ant bait": "PROBLEM"
+  },
+  {
+    "child": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "stable condition": "PROBLEM"
+  },
+  {
+    "borax": "DRUG"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "ant bait": "DRUG"
+  },
+  {
+    "exposure": "PROBLEM"
+  },
+  {
+    "symptoms": "PROBLEM"
+  }
+]

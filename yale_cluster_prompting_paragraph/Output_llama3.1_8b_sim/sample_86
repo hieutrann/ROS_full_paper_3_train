@@ -1,0 +1,74 @@
+[
+  {
+    "Major depression, recurrent, with psychotic features": "PROBLEM"
+  },
+  {
+    "High risk behavior": "PROBLEM"
+  },
+  {
+    "Depression": "PROBLEM"
+  },
+  {
+    "psychosocial stressors": "PROBLEM"
+  },
+  {
+    "sleep-deprived EEG": "TEST"
+  },
+  {
+    "EKG": "TEST"
+  },
+  {
+    "CBC": "TEST"
+  },
+  {
+    "basic metabolic panel": "TEST"
+  },
+  {
+    "TSH": "TEST"
+  },
+  {
+    "UA": "TEST"
+  },
+  {
+    "urine drug screen": "TEST"
+  },
+  {
+    "thyroid panel": "TEST"
+  },
+  {
+    "T3": "TEST"
+  },
+  {
+    "T4": "TEST"
+  },
+  {
+    "Seroquel": "DRUG"
+  },
+  {
+    "Benadryl": "DRUG"
+  },
+  {
+    "Wellbutrin XL": "DRUG"
+  },
+  {
+    "vitamin E": "DRUG"
+  },
+  {
+    "Restoril": "DRUG"
+  },
+  {
+    "Risperdal": "DRUG"
+  },
+  {
+    "physical (medical": "TREATMENT"
+  },
+  {
+    "group-oriented therapy program": "TREATMENT"
+  },
+  {
+    "individual, group, and family therapy": "TREATMENT"
+  },
+  {
+    "RTC (Residential Treatment Center) program": "TREATMENT"
+  }
+]

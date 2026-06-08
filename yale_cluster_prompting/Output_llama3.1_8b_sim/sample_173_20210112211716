@@ -1,0 +1,218 @@
+[
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "cardiac arrhythmia": "PROBLEM"
+  },
+  {
+    "AV block": "PROBLEM"
+  },
+  {
+    "GI bleed": "PROBLEM"
+  },
+  {
+    "depression": "PROBLEM"
+  },
+  {
+    "pacemaker": "TREATMENT"
+  },
+  {
+    "PROBLEM LIST": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "2": "PROBLEM"
+  },
+  {
+    "cardiac arrhythmia": "PROBLEM"
+  },
+  {
+    "pacemaker": "TREATMENT"
+  },
+  {
+    "AV block": "PROBLEM"
+  },
+  {
+    "3": "PROBLEM"
+  },
+  {
+    "GI bleed": "PROBLEM"
+  },
+  {
+    "4": "PROBLEM"
+  },
+  {
+    "depression": "PROBLEM"
+  },
+  {
+    "renal clinic": "TREATMENT"
+  },
+  {
+    "woman": "PROBLEM"
+  },
+  {
+    "antihypertensive medications": "DRUG"
+  },
+  {
+    "blood pressure": "PROBLEM"
+  },
+  {
+    "weakness": "PROBLEM"
+  },
+  {
+    "dizziness": "PROBLEM"
+  },
+  {
+    "lightheadedness": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "constipation": "PROBLEM"
+  },
+  {
+    "diarrhea": "PROBLEM"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "difficulty breathing": "PROBLEM"
+  },
+  {
+    "orthopnea": "PROBLEM"
+  },
+  {
+    "musculoskeletal": "PROBLEM"
+  },
+  {
+    "pain": "PROBLEM"
+  },
+  {
+    "spine": "PROBLEM"
+  },
+  {
+    "extremity pain": "PROBLEM"
+  },
+  {
+    "medications": "DRUG"
+  },
+  {
+    "Triamterene/hydrochlorothiazide": "DRUG"
+  },
+  {
+    "2": "PROBLEM"
+  },
+  {
+    "Norvasc": "DRUG"
+  },
+  {
+    "3": "PROBLEM"
+  },
+  {
+    "Atenolol": "DRUG"
+  },
+  {
+    "4": "PROBLEM"
+  },
+  {
+    "Atacand": "DRUG"
+  },
+  {
+    "5": "PROBLEM"
+  },
+  {
+    "Cardura": "DRUG"
+  },
+  {
+    "Temperature": "TEST"
+  },
+  {
+    "pulse": "TEST"
+  },
+  {
+    "respirations": "TEST"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "adventitious sounds": "PROBLEM"
+  },
+  {
+    "lungs": "PROBLEM"
+  },
+  {
+    "PA": "TEST"
+  },
+  {
+    "lateral": "TEST"
+  },
+  {
+    "rhythm": "PROBLEM"
+  },
+  {
+    "murmur": "PROBLEM"
+  },
+  {
+    "S3": "PROBLEM"
+  },
+  {
+    "murmur": "PROBLEM"
+  },
+  {
+    "nontender": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "blood pressure": "PROBLEM"
+  },
+  {
+    "internist": "TREATMENT"
+  },
+  {
+    "GFR": "PROBLEM"
+  },
+  {
+    "blood pressure": "PROBLEM"
+  },
+  {
+    "refractory hypertension": "PROBLEM"
+  },
+  {
+    "arrhythmia": "PROBLEM"
+  },
+  {
+    "av block": "PROBLEM"
+  },
+  {
+    "pacemaker": "TREATMENT"
+  },
+  {
+    "atenolol": "DRUG"
+  },
+  {
+    "blood pressure": "PROBLEM"
+  },
+  {
+    "cardiac arrhythmia": "PROBLEM"
+  }
+]

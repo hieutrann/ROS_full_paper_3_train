@@ -1,0 +1,146 @@
+[
+  {
+    "Pancreatic and left adrenal lesions": "PROBLEM"
+  },
+  {
+    "Pancreatic lesion": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "left adrenal gland": "PROBLEM"
+  },
+  {
+    "pneumonitis": "PROBLEM"
+  },
+  {
+    "left adrenal nodule": "PROBLEM"
+  },
+  {
+    "small pancreatic lesion": "PROBLEM"
+  },
+  {
+    "benign adenoma": "PROBLEM"
+  },
+  {
+    "pancreatic lesion": "PROBLEM"
+  },
+  {
+    "cystic nature": "PROBLEM"
+  },
+  {
+    "neoplasm": "PROBLEM"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "bowel habits": "PROBLEM"
+  },
+  {
+    "rectal bleeding": "PROBLEM"
+  },
+  {
+    "melena": "PROBLEM"
+  },
+  {
+    "adenomatous polyps": "PROBLEM"
+  },
+  {
+    "frequent urination": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "type 2 diabetes mellitus": "PROBLEM"
+  },
+  {
+    "asthma": "PROBLEM"
+  },
+  {
+    "high cholesterol": "PROBLEM"
+  },
+  {
+    "prostate cancer": "PROBLEM"
+  },
+  {
+    "brain cancer": "PROBLEM"
+  },
+  {
+    "heart disease": "PROBLEM"
+  },
+  {
+    "diabetes": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "exertional shortness of breath": "PROBLEM"
+  },
+  {
+    "GI problems": "PROBLEM"
+  },
+  {
+    "bleeding disorders": "PROBLEM"
+  },
+  {
+    "bleeding history": "PROBLEM"
+  },
+  {
+    "CAT scan": "TEST"
+  },
+  {
+    "MRI": "TEST"
+  },
+  {
+    "colonoscopy": "TEST"
+  },
+  {
+    "glipizide": "DRUG"
+  },
+  {
+    "metformin": "DRUG"
+  },
+  {
+    "Atacand": "DRUG"
+  },
+  {
+    "metoprolol": "DRUG"
+  },
+  {
+    "Lipitor": "DRUG"
+  },
+  {
+    "pantoprazole": "DRUG"
+  },
+  {
+    "Flomax": "DRUG"
+  },
+  {
+    "Detrol": "DRUG"
+  },
+  {
+    "Zyrtec": "DRUG"
+  },
+  {
+    "Advair Diskus": "DRUG"
+  },
+  {
+    "fluticasone spray": "DRUG"
+  },
+  {
+    "ERCP": "TREATMENT"
+  },
+  {
+    "esophagogastroduodenoscopy": "TREATMENT"
+  }
+]

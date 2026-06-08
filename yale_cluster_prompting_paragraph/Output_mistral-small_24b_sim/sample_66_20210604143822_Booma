@@ -1,0 +1,74 @@
+[
+  {
+    "peritoneal carcinomatosis": "PROBLEM"
+  },
+  {
+    "appendiceal primary": "PROBLEM"
+  },
+  {
+    "Diarrhea": "PROBLEM"
+  },
+  {
+    "tachycardia": "PROBLEM"
+  },
+  {
+    "C. diff toxin": "TEST"
+  },
+  {
+    "Imodium": "DRUG"
+  },
+  {
+    "post-splenectomy vaccines": "TREATMENT"
+  },
+  {
+    "pneumococcal": "DRUG"
+  },
+  {
+    "HiB": "DRUG"
+  },
+  {
+    "meningococcal vaccines": "DRUG"
+  },
+  {
+    "Multivitamins": "DRUG"
+  },
+  {
+    "Lovenox": "DRUG"
+  },
+  {
+    "Vicodin": "DRUG"
+  },
+  {
+    "Phenergan": "DRUG"
+  },
+  {
+    "Imodium A-D tablets": "DRUG"
+  },
+  {
+    "Cystoscopy": "TEST"
+  },
+  {
+    "bilaterally retrograde pyelograms": "TEST"
+  },
+  {
+    "insertion of bilateral externalized ureteral stents": "TREATMENT"
+  },
+  {
+    "Exploratory laparotomy": "TREATMENT"
+  },
+  {
+    "right hemicolectomy": "TREATMENT"
+  },
+  {
+    "cholecystectomy": "TREATMENT"
+  },
+  {
+    "splenectomy": "TREATMENT"
+  },
+  {
+    "omentectomy": "TREATMENT"
+  },
+  {
+    "IPHC with mitomycin-C": "TREATMENT"
+  }
+]

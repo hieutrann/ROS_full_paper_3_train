@@ -1,0 +1,149 @@
+[
+  {
+    "Sepsis": "PROBLEM"
+  },
+  {
+    "CAD": "PROBLEM"
+  },
+  {
+    "dementia": "PROBLEM"
+  },
+  {
+    "CVA": "PROBLEM"
+  },
+  {
+    "nephrolithiasis": "PROBLEM"
+  },
+  {
+    "Ambien": "DRUG"
+  },
+  {
+    "Milk of magnesia": "DRUG"
+  },
+  {
+    "Tylenol": "DRUG"
+  },
+  {
+    "Tramadol": "DRUG"
+  },
+  {
+    "Soma": "DRUG"
+  },
+  {
+    "Coumadin": "DRUG"
+  },
+  {
+    "Zoloft": "DRUG"
+  },
+  {
+    "Allopurinol": "DRUG"
+  },
+  {
+    "Digoxin": "DRUG"
+  },
+  {
+    "Namenda": "DRUG"
+  },
+  {
+    "Zocor": "DRUG"
+  },
+  {
+    "BuSpar": "DRUG"
+  },
+  {
+    "Detrol": "DRUG"
+  },
+  {
+    "Coreg": "DRUG"
+  },
+  {
+    "Colace": "DRUG"
+  },
+  {
+    "Calcium": "DRUG"
+  },
+  {
+    "Zantac": "DRUG"
+  },
+  {
+    "Lasix": "DRUG"
+  },
+  {
+    "Seroquel": "DRUG"
+  },
+  {
+    "Aldactone": "DRUG"
+  },
+  {
+    "Amoxicillin": "DRUG"
+  },
+  {
+    "Levaquin": "DRUG"
+  },
+  {
+    "gentamicin": "DRUG"
+  },
+  {
+    "CT scan": "TEST"
+  },
+  {
+    "atrial fibrillation": "PROBLEM"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "adrenal gland mass": "PROBLEM"
+  },
+  {
+    "urinary tract infection with sepsis": "PROBLEM"
+  },
+  {
+    "obstructive uropathy": "PROBLEM"
+  },
+  {
+    "dilated bladder": "TEST"
+  },
+  {
+    "bilateral hydronephrosis": "TEST"
+  },
+  {
+    "hydroureter": "TEST"
+  },
+  {
+    "left inguinal hernia": "TEST"
+  },
+  {
+    "physical examination": "TEST"
+  },
+  {
+    "laboratory studies": "TEST"
+  },
+  {
+    "EKG": "TEST"
+  },
+  {
+    "urology consult": "TREATMENT"
+  },
+  {
+    "renal consult": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "hypertonic-hypotonic": "TREATMENT"
+  },
+  {
+    "SCD": "TREATMENT"
+  },
+  {
+    "TED hose": "TREATMENT"
+  },
+  {
+    "anticoagulation": "TREATMENT"
+  },
+  {
+    "PPI": "TREATMENT"
+  }
+]

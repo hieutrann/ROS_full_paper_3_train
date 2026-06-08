@@ -1,0 +1,119 @@
+[
+  {
+    "GI bleed": "PROBLEM"
+  },
+  {
+    "Upper gastrointestinal bleed": "PROBLEM"
+  },
+  {
+    "microcytic anemia": "PROBLEM"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "atrial fibrillation": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "osteoarthritis of the knees": "PROBLEM"
+  },
+  {
+    "hypercholesterolemia": "PROBLEM"
+  },
+  {
+    "non-insulin-dependent diabetes mellitus": "PROBLEM"
+  },
+  {
+    "asthma": "PROBLEM"
+  },
+  {
+    "hypothyroidism": "PROBLEM"
+  },
+  {
+    "fatigue": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "GI complaints": "PROBLEM"
+  },
+  {
+    "erosive gastritis": "PROBLEM"
+  },
+  {
+    "diverticulosis": "PROBLEM"
+  },
+  {
+    "polyp": "PROBLEM"
+  },
+  {
+    "CBC": "TEST"
+  },
+  {
+    "upper endoscopy": "TEST"
+  },
+  {
+    "colonoscopy": "TEST"
+  },
+  {
+    "CBC": "TEST"
+  },
+  {
+    "INR": "TEST"
+  },
+  {
+    "Coumadin": "DRUG"
+  },
+  {
+    "Feosol 325 mg": "DRUG"
+  },
+  {
+    "multivitamins": "DRUG"
+  },
+  {
+    "Protonix 40 mg": "DRUG"
+  },
+  {
+    "KCl 20 mEq": "DRUG"
+  },
+  {
+    "Lasix 40 mg": "DRUG"
+  },
+  {
+    "atenolol 50 mg": "DRUG"
+  },
+  {
+    "Synthroid 80 mcg": "DRUG"
+  },
+  {
+    "Actos 30 mg": "DRUG"
+  },
+  {
+    "Mevacor 40 mg": "DRUG"
+  },
+  {
+    "lisinopril 20 mg": "DRUG"
+  },
+  {
+    "transfused": "TREATMENT"
+  },
+  {
+    "Coumadin": "TREATMENT"
+  },
+  {
+    "upper endoscopy": "TREATMENT"
+  },
+  {
+    "colonoscopy": "TREATMENT"
+  },
+  {
+    "polyp": "TREATMENT"
+  }
+]

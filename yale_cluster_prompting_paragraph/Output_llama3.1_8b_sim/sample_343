@@ -1,0 +1,56 @@
+[
+  {
+    "Asthma": "PROBLEM"
+  },
+  {
+    "Allergic rhinitis": "PROBLEM"
+  },
+  {
+    "Premenstrual dysphoric disorder": "PROBLEM"
+  },
+  {
+    "Hematuria": "PROBLEM"
+  },
+  {
+    "Cervical dysplasia": "PROBLEM"
+  },
+  {
+    "Proventil": "DRUG"
+  },
+  {
+    "Allegra": "DRUG"
+  },
+  {
+    "Flonase": "DRUG"
+  },
+  {
+    "Flovent": "DRUG"
+  },
+  {
+    "Advair": "DRUG"
+  },
+  {
+    "Singulair": "DRUG"
+  },
+  {
+    "Fluoxetine": "DRUG"
+  },
+  {
+    "Pap smear": "TEST"
+  },
+  {
+    "UA": "TEST"
+  },
+  {
+    "Complete physical": "TEST"
+  },
+  {
+    "Inhaler": "TEST"
+  },
+  {
+    "physical": "TREATMENT"
+  },
+  {
+    "Pap smear": "TREATMENT"
+  }
+]

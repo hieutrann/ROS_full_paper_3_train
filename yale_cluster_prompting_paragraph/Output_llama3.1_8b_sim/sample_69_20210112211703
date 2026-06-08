@@ -1,0 +1,56 @@
+[
+  {
+    "ruptured appendicitis": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "fluid retention": "PROBLEM"
+  },
+  {
+    "paralytic ileus": "PROBLEM"
+  },
+  {
+    "leukocytosis": "PROBLEM"
+  },
+  {
+    "laparoscopic appendicectomy": "TEST"
+  },
+  {
+    "ultrasound": "TEST"
+  },
+  {
+    "CT angiogram": "TEST"
+  },
+  {
+    "White count": "TEST"
+  },
+  {
+    "hemoglobin": "TEST"
+  },
+  {
+    "hematocrit": "TEST"
+  },
+  {
+    "platelets": "TEST"
+  },
+  {
+    "Glucose": "TEST"
+  },
+  {
+    "total protein": "TEST"
+  },
+  {
+    "albumin": "TEST"
+  },
+  {
+    "PHYSICAL": "TREATMENT"
+  },
+  {
+    "abdominal surgery": "TREATMENT"
+  },
+  {
+    "laparoscopic appendicectomy": "TREATMENT"
+  }
+]

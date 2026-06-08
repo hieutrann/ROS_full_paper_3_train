@@ -1,0 +1,434 @@
+[
+  {
+    "Mesothelioma": "PROBLEM"
+  },
+  {
+    "pleural effusion": "PROBLEM"
+  },
+  {
+    "atrial fibrillation": "PROBLEM"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "ascites": "PROBLEM"
+  },
+  {
+    "esophageal reflux": "PROBLEM"
+  },
+  {
+    "deep venous thrombosis": "PROBLEM"
+  },
+  {
+    "Mesothelioma": "PROBLEM"
+  },
+  {
+    "Pleural effusion": "PROBLEM"
+  },
+  {
+    "atrial fibrillation": "PROBLEM"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "ascites": "PROBLEM"
+  },
+  {
+    "esophageal reflux": "PROBLEM"
+  },
+  {
+    "deep venous thrombosis": "PROBLEM"
+  },
+  {
+    "decortication": "TREATMENT"
+  },
+  {
+    "pleural biopsy": "TEST"
+  },
+  {
+    "transpleural fluoroscopy": "TEST"
+  },
+  {
+    "thoracentesis": "TREATMENT"
+  },
+  {
+    "Port-A-Cath": "TREATMENT"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "pericarditis": "PROBLEM"
+  },
+  {
+    "pericardectomy": "TREATMENT"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "Chest x-ray": "TEST"
+  },
+  {
+    "pleural effusion": "PROBLEM"
+  },
+  {
+    "Pericardectomy": "TREATMENT"
+  },
+  {
+    "Pericarditis": "PROBLEM"
+  },
+  {
+    "Atrial fibrillation": "PROBLEM"
+  },
+  {
+    "RNCA": "PROBLEM"
+  },
+  {
+    "intracranial thrombolytic treatment": "TREATMENT"
+  },
+  {
+    "MCA": "TEST"
+  },
+  {
+    "Mesenteric venous thrombosis": "PROBLEM"
+  },
+  {
+    "Pericardial window": "TREATMENT"
+  },
+  {
+    "Cholecystectomy": "TREATMENT"
+  },
+  {
+    "thoracentesis": "TREATMENT"
+  },
+  {
+    "coronary artery disease": "PROBLEM"
+  },
+  {
+    "CVA": "PROBLEM"
+  },
+  {
+    "diabetes": "PROBLEM"
+  },
+  {
+    "CHF": "PROBLEM"
+  },
+  {
+    "MI": "PROBLEM"
+  },
+  {
+    "cancer": "PROBLEM"
+  },
+  {
+    "tobacco": "DRUG"
+  },
+  {
+    "alcohol": "DRUG"
+  },
+  {
+    "illicit drug": "DRUG"
+  },
+  {
+    "Coumadin": "DRUG"
+  },
+  {
+    "INR": "TEST"
+  },
+  {
+    "Amiodarone": "DRUG"
+  },
+  {
+    "pulmonary": "PROBLEM"
+  },
+  {
+    "numbness": "PROBLEM"
+  },
+  {
+    "tingling": "PROBLEM"
+  },
+  {
+    "Blood pressure": "TEST"
+  },
+  {
+    "heart rate": "TEST"
+  },
+  {
+    "respirations": "TEST"
+  },
+  {
+    "temperature": "TEST"
+  },
+  {
+    "oxygen saturation": "TEST"
+  },
+  {
+    "nonproductive cough": "PROBLEM"
+  },
+  {
+    "pain": "PROBLEM"
+  },
+  {
+    "Pupils": "PROBLEM"
+  },
+  {
+    "Tympanic membranes": "TEST"
+  },
+  {
+    "lymphadenopathy": "PROBLEM"
+  },
+  {
+    "Pleural friction rub": "PROBLEM"
+  },
+  {
+    "Soft": "PROBLEM"
+  },
+  {
+    "nondistended": "PROBLEM"
+  },
+  {
+    "nontender": "PROBLEM"
+  },
+  {
+    "bowel sounds": "TEST"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "clubbing": "PROBLEM"
+  },
+  {
+    "cyanosis": "PROBLEM"
+  },
+  {
+    "tenderness": "PROBLEM"
+  },
+  {
+    "breakdown": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "Labs": "TEST"
+  },
+  {
+    "pleural effusion": "PROBLEM"
+  },
+  {
+    "thoracentesis": "TREATMENT"
+  },
+  {
+    "Coumadin": "DRUG"
+  },
+  {
+    "echocardiogram": "TEST"
+  },
+  {
+    "DVT": "PROBLEM"
+  },
+  {
+    "Lovenox 40 mg": "DRUG"
+  },
+  {
+    "pericarditis": "PROBLEM"
+  },
+  {
+    "pericardial window": "TREATMENT"
+  },
+  {
+    "mesenteric pain": "PROBLEM"
+  },
+  {
+    "thrombosis": "PROBLEM"
+  },
+  {
+    "anticoagulated": "TREATMENT"
+  },
+  {
+    "pericardial fluid": "PROBLEM"
+  },
+  {
+    "pericardectomy": "TREATMENT"
+  },
+  {
+    "CT scan": "TEST"
+  },
+  {
+    "pericardectomy": "TREATMENT"
+  },
+  {
+    "bilateral plural effusions": "PROBLEM"
+  },
+  {
+    "pericardectomy": "TREATMENT"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "bilateral pleural effusion": "PROBLEM"
+  },
+  {
+    "CT of the chest": "TEST"
+  },
+  {
+    "lymph node": "PROBLEM"
+  },
+  {
+    "mesothelioma": "PROBLEM"
+  },
+  {
+    "chest tube placement": "TREATMENT"
+  },
+  {
+    "drainage": "TREATMENT"
+  },
+  {
+    "thoracoscopy": "TEST"
+  },
+  {
+    "fluid biopsies": "TEST"
+  },
+  {
+    "epithelioid malignant mesothelioma": "PROBLEM"
+  },
+  {
+    "PET CT": "TEST"
+  },
+  {
+    "lymphadenopathy": "PROBLEM"
+  },
+  {
+    "acidic fluid": "PROBLEM"
+  },
+  {
+    "pectoral": "PROBLEM"
+  },
+  {
+    "intramammary lymph nodes": "PROBLEM"
+  },
+  {
+    "L4": "PROBLEM"
+  },
+  {
+    "SUV": "TEST"
+  },
+  {
+    "stage III disease": "PROBLEM"
+  },
+  {
+    "echocardiogram": "TEST"
+  },
+  {
+    "chemotherapy": "DRUG"
+  },
+  {
+    "cisplatin": "DRUG"
+  },
+  {
+    "Alimta": "DRUG"
+  },
+  {
+    "Port-A-Cath": "TREATMENT"
+  },
+  {
+    "chemotherapy": "DRUG"
+  },
+  {
+    "IV fluid": "TREATMENT"
+  },
+  {
+    "Port-A-Cath": "TREATMENT"
+  },
+  {
+    "heparin": "DRUG"
+  },
+  {
+    "Zofran": "DRUG"
+  },
+  {
+    "Phenergan": "DRUG"
+  },
+  {
+    "Coumadin": "DRUG"
+  },
+  {
+    "Lovenox": "DRUG"
+  },
+  {
+    "Vicodin": "DRUG"
+  },
+  {
+    "INR": "TEST"
+  },
+  {
+    "mesothelioma": "PROBLEM"
+  },
+  {
+    "pleural effusion": "PROBLEM"
+  },
+  {
+    "atrial fibrillation": "PROBLEM"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "ascites": "PROBLEM"
+  },
+  {
+    "esophageal reflux": "PROBLEM"
+  },
+  {
+    "deep venous thrombosis": "PROBLEM"
+  },
+  {
+    "port-a-cath placement": "TREATMENT"
+  },
+  {
+    "port a cath": "TREATMENT"
+  },
+  {
+    "iv piggyback": "TREATMENT"
+  },
+  {
+    "venous thrombosis": "PROBLEM"
+  },
+  {
+    "atrial": "PROBLEM"
+  },
+  {
+    "thrombosis": "PROBLEM"
+  },
+  {
+    "pericardial": "PROBLEM"
+  },
+  {
+    "lymphadenopathy": "PROBLEM"
+  },
+  {
+    "fluid": "PROBLEM"
+  },
+  {
+    "pericardectomy": "TREATMENT"
+  },
+  {
+    "chest": "PROBLEM"
+  },
+  {
+    "pleural": "PROBLEM"
+  }
+]

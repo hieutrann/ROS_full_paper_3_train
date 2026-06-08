@@ -1,0 +1,68 @@
+[
+  {
+    "prematurity": "PROBLEM"
+  },
+  {
+    "sepsis": "PROBLEM"
+  },
+  {
+    "Respiratory distress": "PROBLEM"
+  },
+  {
+    "ampicillin": "DRUG"
+  },
+  {
+    "terbutaline": "DRUG"
+  },
+  {
+    "magnesium sulfate": "DRUG"
+  },
+  {
+    "CBC": "TEST"
+  },
+  {
+    "CRP": "TEST"
+  },
+  {
+    "blood cultures": "TEST"
+  },
+  {
+    "Apgar scores": "TEST"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "D10": "TREATMENT"
+  },
+  {
+    "Ampicillin": "DRUG"
+  },
+  {
+    "gentamicin": "DRUG"
+  },
+  {
+    "EBM 22": "TREATMENT"
+  },
+  {
+    "NeoSure": "TREATMENT"
+  },
+  {
+    "OG tube": "TREATMENT"
+  },
+  {
+    "p.o. feeds": "TREATMENT"
+  },
+  {
+    "CPR teaching": "TREATMENT"
+  },
+  {
+    "Formula feeding schedule": "TREATMENT"
+  },
+  {
+    "breast": "TREATMENT"
+  },
+  {
+    "NeoSure": "TREATMENT"
+  }
+]

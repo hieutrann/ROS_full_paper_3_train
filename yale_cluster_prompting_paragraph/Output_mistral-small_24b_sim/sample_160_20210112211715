@@ -1,0 +1,170 @@
+[
+  {
+    "Laparoscopic cholecystectomy": "TREATMENT"
+  },
+  {
+    "Acute cholecystitis": "PROBLEM"
+  },
+  {
+    "laparoscopic cholecystectomy": "TREATMENT"
+  },
+  {
+    "end-stage renal disease": "PROBLEM"
+  },
+  {
+    "hemodialysis": "TREATMENT"
+  },
+  {
+    "hyperlipidemia": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "congestive heart failure": "PROBLEM"
+  },
+  {
+    "skin lymphoma": "PROBLEM"
+  },
+  {
+    "hypothyroidism": "PROBLEM"
+  },
+  {
+    "epigastric pain": "PROBLEM"
+  },
+  {
+    "right upper quadrant pain": "PROBLEM"
+  },
+  {
+    "mid abdominal pain": "PROBLEM"
+  },
+  {
+    "nauseated feeling": "PROBLEM"
+  },
+  {
+    "EKG": "TEST"
+  },
+  {
+    "ultrasound of the abdomen": "TEST"
+  },
+  {
+    "renal cyst": "PROBLEM"
+  },
+  {
+    "sludge in the gallbladder wall": "PROBLEM"
+  },
+  {
+    "stone in the gallbladder wall": "PROBLEM"
+  },
+  {
+    "thickening of the gallbladder wall": "PROBLEM"
+  },
+  {
+    "Murphy sign": "TEST"
+  },
+  {
+    "cholecystitis": "PROBLEM"
+  },
+  {
+    "urine": "TEST"
+  },
+  {
+    "glucose": "TEST"
+  },
+  {
+    "nitrite": "TEST"
+  },
+  {
+    "creatinine": "TEST"
+  },
+  {
+    "sodium": "TEST"
+  },
+  {
+    "potassium": "TEST"
+  },
+  {
+    "lipase": "TEST"
+  },
+  {
+    "amylase": "TEST"
+  },
+  {
+    "IV fluid": "TREATMENT"
+  },
+  {
+    "IV antibiotic": "DRUG"
+  },
+  {
+    "2-D echocardiogram": "TEST"
+  },
+  {
+    "EKG": "TEST"
+  },
+  {
+    "CHF": "PROBLEM"
+  },
+  {
+    "blood culture": "TEST"
+  },
+  {
+    "urine culture": "TEST"
+  },
+  {
+    "laparoscopic cholecystectomy": "TREATMENT"
+  },
+  {
+    "dialysis": "TREATMENT"
+  },
+  {
+    "white count": "TEST"
+  },
+  {
+    "chronic bronchitis": "PROBLEM"
+  },
+  {
+    "Synthroid": "DRUG"
+  },
+  {
+    "Plavix": "DRUG"
+  },
+  {
+    "folic acid": "DRUG"
+  },
+  {
+    "Diovan": "DRUG"
+  },
+  {
+    "Renagel": "DRUG"
+  },
+  {
+    "Lasix": "DRUG"
+  },
+  {
+    "lovastatin": "DRUG"
+  },
+  {
+    "Coreg": "DRUG"
+  },
+  {
+    "nebulizer therapy": "TREATMENT"
+  },
+  {
+    "Phenergan": "DRUG"
+  },
+  {
+    "nausea and vomiting": "PROBLEM"
+  },
+  {
+    "Pepcid": "DRUG"
+  },
+  {
+    "Vicodin": "DRUG"
+  },
+  {
+    "Levaquin": "DRUG"
+  },
+  {
+    "Premarin": "DRUG"
+  }
+]

@@ -1,0 +1,158 @@
+[
+  {
+    "contusions": "PROBLEM"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "Motor vehicle accident": "PROBLEM"
+  },
+  {
+    "mild pain on the left aspect of her neck": "PROBLEM"
+  },
+  {
+    "pain low in her abdomen": "PROBLEM"
+  },
+  {
+    "pain in her knees, ankles, or feet": "PROBLEM"
+  },
+  {
+    "pain in her shoulders, elbows, and wrists": "PROBLEM"
+  },
+  {
+    "painful throughout the bones of her pelvis": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "difficulty breathing": "PROBLEM"
+  },
+  {
+    "open lacerations": "PROBLEM"
+  },
+  {
+    "abrasions": "PROBLEM"
+  },
+  {
+    "headache": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "feverish": "PROBLEM"
+  },
+  {
+    "chilled": "PROBLEM"
+  },
+  {
+    "oral birth control medications": "DRUG"
+  },
+  {
+    "intrauterine device": "TREATMENT"
+  },
+  {
+    "Accutane": "DRUG"
+  },
+  {
+    "acne": "PROBLEM"
+  },
+  {
+    "labored respirations": "PROBLEM"
+  },
+  {
+    "accessory muscle usage": "PROBLEM"
+  },
+  {
+    "lacerations on the scalp": "PROBLEM"
+  },
+  {
+    "nystagmus": "PROBLEM"
+  },
+  {
+    "stridor": "PROBLEM"
+  },
+  {
+    "wheezes": "PROBLEM"
+  },
+  {
+    "rales": "PROBLEM"
+  },
+  {
+    "rhonchi": "PROBLEM"
+  },
+  {
+    "tenderness in the bilateral lower pelvic quadrants": "PROBLEM"
+  },
+  {
+    "rigidity": "PROBLEM"
+  },
+  {
+    "guarding": "PROBLEM"
+  },
+  {
+    "CVA tenderness": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "prevertibral soft tissue swelling": "PROBLEM"
+  },
+  {
+    "atelectasis": "PROBLEM"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "thrombocytopenia": "PROBLEM"
+  },
+  {
+    "leukocytosis": "PROBLEM"
+  },
+  {
+    "urine pregnancy test": "TEST"
+  },
+  {
+    "urinalysis": "TEST"
+  },
+  {
+    "Tylenol": "DRUG"
+  },
+  {
+    "contusion and abrasion to her abdomen": "PROBLEM"
+  },
+  {
+    "Vicodin": "DRUG"
+  },
+  {
+    "Flexeril": "DRUG"
+  },
+  {
+    "muscular pain": "PROBLEM"
+  },
+  {
+    "x-rays": "TEST"
+  },
+  {
+    "CT scan of the cervical spine": "TEST"
+  },
+  {
+    "CT scan of the brain": "TEST"
+  },
+  {
+    "CT scan without contrast of the abdomen": "TEST"
+  },
+  {
+    "CT scan with contrast": "TEST"
+  },
+  {
+    "CBC": "TEST"
+  }
+]

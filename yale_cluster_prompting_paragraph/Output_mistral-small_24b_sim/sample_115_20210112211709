@@ -1,0 +1,119 @@
+[
+  {
+    "non-small cell lung carcinoma": "PROBLEM"
+  },
+  {
+    "left malignant pleural effusion": "PROBLEM"
+  },
+  {
+    "chest tube insertion": "TREATMENT"
+  },
+  {
+    "chemical pleurodesis": "TREATMENT"
+  },
+  {
+    "Respiratory failure": "PROBLEM"
+  },
+  {
+    "postobstructive pneumonia": "PROBLEM"
+  },
+  {
+    "Gastrointestinal bleed": "PROBLEM"
+  },
+  {
+    "Thrombocytopenia": "PROBLEM"
+  },
+  {
+    "Acute renal failure": "PROBLEM"
+  },
+  {
+    "Hyponatremia": "PROBLEM"
+  },
+  {
+    "Hypercalcemia": "PROBLEM"
+  },
+  {
+    "paraneoplastic syndrome": "PROBLEM"
+  },
+  {
+    "non-small cell lung CA": "PROBLEM"
+  },
+  {
+    "Leukemoid reaction": "PROBLEM"
+  },
+  {
+    "Elevated liver function tests": "TEST"
+  },
+  {
+    "CT scan": "TEST"
+  },
+  {
+    "left pleural effusion": "PROBLEM"
+  },
+  {
+    "mediastinal mass": "PROBLEM"
+  },
+  {
+    "left hilar adenopathy": "PROBLEM"
+  },
+  {
+    "multiple nodules": "PROBLEM"
+  },
+  {
+    "metastatic disease": "PROBLEM"
+  },
+  {
+    "osseous metastatic disease": "PROBLEM"
+  },
+  {
+    "right hip pain": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "left-sided chest tube": "TREATMENT"
+  },
+  {
+    "pleural effusion": "PROBLEM"
+  },
+  {
+    "malignant cells": "PROBLEM"
+  },
+  {
+    "bronchoscopy": "TEST"
+  },
+  {
+    "non-small cell lung CA": "PROBLEM"
+  },
+  {
+    "respiratory failure": "PROBLEM"
+  },
+  {
+    "intubation": "TREATMENT"
+  },
+  {
+    "mechanical ventilatory support": "TREATMENT"
+  },
+  {
+    "extubated": "TREATMENT"
+  },
+  {
+    "respiratory failure": "PROBLEM"
+  },
+  {
+    "DNR": "TREATMENT"
+  },
+  {
+    "withdrawal of the life support": "TREATMENT"
+  },
+  {
+    "extubated": "TREATMENT"
+  },
+  {
+    "pronounced expired": "PROBLEM"
+  }
+]

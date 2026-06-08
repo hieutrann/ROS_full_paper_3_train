@@ -1,0 +1,149 @@
+[
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "tricuspid regurgitation": "PROBLEM"
+  },
+  {
+    "pulmonary hypertension": "PROBLEM"
+  },
+  {
+    "aortic stenosis": "PROBLEM"
+  },
+  {
+    "mitral regurgitation": "PROBLEM"
+  },
+  {
+    "atrial fibrillation": "PROBLEM"
+  },
+  {
+    "multifocal atrial tachycardia": "PROBLEM"
+  },
+  {
+    "wandering atrial pacemaker": "PROBLEM"
+  },
+  {
+    "palpitations": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "dizzy spells": "PROBLEM"
+  },
+  {
+    "syncope": "PROBLEM"
+  },
+  {
+    "bradycardia": "PROBLEM"
+  },
+  {
+    "atrial tachycardia": "PROBLEM"
+  },
+  {
+    "sinus rhythm": "PROBLEM"
+  },
+  {
+    "apcs": "PROBLEM"
+  },
+  {
+    "cardiac regurgitation": "PROBLEM"
+  },
+  {
+    "aortic": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "pulmonary": "PROBLEM"
+  },
+  {
+    "atrial": "PROBLEM"
+  },
+  {
+    "tachycardia": "PROBLEM"
+  },
+  {
+    "rhythm": "PROBLEM"
+  },
+  {
+    "hip fracture": "PROBLEM"
+  },
+  {
+    "left hip fracture": "PROBLEM"
+  },
+  {
+    "cardizem": "DRUG"
+  },
+  {
+    "verapamil": "DRUG"
+  },
+  {
+    "toprol": "DRUG"
+  },
+  {
+    "lisinopril": "DRUG"
+  },
+  {
+    "felodipine": "DRUG"
+  },
+  {
+    "klor-con": "DRUG"
+  },
+  {
+    "omeprazole": "DRUG"
+  },
+  {
+    "miralax": "DRUG"
+  },
+  {
+    "lasix": "DRUG"
+  },
+  {
+    "aspirin": "DRUG"
+  },
+  {
+    "multivitamin": "DRUG"
+  },
+  {
+    "proton pump inhibitors": "DRUG"
+  },
+  {
+    "chest x-ray": "TEST"
+  },
+  {
+    "radiology report": "TEST"
+  },
+  {
+    "EKG": "TEST"
+  },
+  {
+    "telemetry": "TEST"
+  },
+  {
+    "stress test": "TEST"
+  },
+  {
+    "vascular": "TEST"
+  },
+  {
+    "pacemaker": "TREATMENT"
+  },
+  {
+    "surgery": "TREATMENT"
+  },
+  {
+    "left hip surgery": "TREATMENT"
+  },
+  {
+    "beta-blockers": "TREATMENT"
+  },
+  {
+    "verapamil": "TREATMENT"
+  }
+]

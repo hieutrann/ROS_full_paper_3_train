@@ -1,0 +1,218 @@
+[
+  {
+    "Refractory anemia": "PROBLEM"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "hemoglobin": "TEST"
+  },
+  {
+    "diabetes": "PROBLEM"
+  },
+  {
+    "kidney disease": "PROBLEM"
+  },
+  {
+    "heart disease": "PROBLEM"
+  },
+  {
+    "stroke": "PROBLEM"
+  },
+  {
+    "vision loss": "PROBLEM"
+  },
+  {
+    "neuropathy": "PROBLEM"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "hemoglobin": "TEST"
+  },
+  {
+    "fatigue": "PROBLEM"
+  },
+  {
+    "malaise": "PROBLEM"
+  },
+  {
+    "dyspnea": "PROBLEM"
+  },
+  {
+    "adenopathy": "PROBLEM"
+  },
+  {
+    "fevers": "PROBLEM"
+  },
+  {
+    "night sweats": "PROBLEM"
+  },
+  {
+    "bone pain": "PROBLEM"
+  },
+  {
+    "rash": "PROBLEM"
+  },
+  {
+    "arthralgias": "PROBLEM"
+  },
+  {
+    "myalgias": "PROBLEM"
+  },
+  {
+    "diabetes": "PROBLEM"
+  },
+  {
+    "Coumadin": "DRUG"
+  },
+  {
+    "Lasix": "DRUG"
+  },
+  {
+    "metformin": "DRUG"
+  },
+  {
+    "folic acid": "DRUG"
+  },
+  {
+    "diltiazem": "DRUG"
+  },
+  {
+    "B12": "DRUG"
+  },
+  {
+    "Prevacid": "DRUG"
+  },
+  {
+    "Feosol": "DRUG"
+  },
+  {
+    "tobacco": "DRUG"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "pulse": "TEST"
+  },
+  {
+    "respiratory rate": "TEST"
+  },
+  {
+    "temperature": "TEST"
+  },
+  {
+    "arcus senilis": "PROBLEM"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "B12": "DRUG"
+  },
+  {
+    "iron": "DRUG"
+  },
+  {
+    "folic acid": "DRUG"
+  },
+  {
+    "Procrit": "DRUG"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "myelodysplastic syndrome": "PROBLEM"
+  },
+  {
+    "bone marrow failure": "PROBLEM"
+  },
+  {
+    "creatinine": "TEST"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "creatinine": "TEST"
+  },
+  {
+    "reticulocyte count": "TEST"
+  },
+  {
+    "serum protein": "TEST"
+  },
+  {
+    "electrophoresis": "TEST"
+  },
+  {
+    "LDH": "TEST"
+  },
+  {
+    "B12": "TEST"
+  },
+  {
+    "folate": "TEST"
+  },
+  {
+    "erythropoietin level": "TEST"
+  },
+  {
+    "bone marrow aspiration": "TEST"
+  },
+  {
+    "a bone marrow aspiration and biopsy I have": "TEST"
+  },
+  {
+    "ultrasound": "TEST"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "electrophoresis": "TEST"
+  },
+  {
+    "ldh": "TEST"
+  },
+  {
+    "b12": "TEST"
+  },
+  {
+    "folate": "TEST"
+  },
+  {
+    "erythropoietin level": "TEST"
+  },
+  {
+    "reticulocyte count": "TEST"
+  },
+  {
+    "serum protein": "TEST"
+  },
+  {
+    "blood transfusion": "TREATMENT"
+  },
+  {
+    "bone marrow": "TEST"
+  },
+  {
+    "refractory anemia": "PROBLEM"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "myalgias": "PROBLEM"
+  },
+  {
+    "marrow": "TEST"
+  },
+  {
+    "bone": "TEST"
+  }
+]

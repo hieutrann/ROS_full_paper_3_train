@@ -1,0 +1,116 @@
+[
+  {
+    "intractable nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "blood-tinged vomit": "PROBLEM"
+  },
+  {
+    "intractable nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "blood-tinged vomit": "PROBLEM"
+  },
+  {
+    "low sodium": "PROBLEM"
+  },
+  {
+    "potassium slightly elevated": "PROBLEM"
+  },
+  {
+    "ALT": "TEST"
+  },
+  {
+    "AST": "TEST"
+  },
+  {
+    "total bilirubin": "TEST"
+  },
+  {
+    "3+ ketones": "TEST"
+  },
+  {
+    "2+ protein": "TEST"
+  },
+  {
+    "1+ esterase": "TEST"
+  },
+  {
+    "rbc too numerous to count": "TEST"
+  },
+  {
+    "moderate amount of bacteria": "PROBLEM"
+  },
+  {
+    "H and H": "TEST"
+  },
+  {
+    "Phenergan": "DRUG"
+  },
+  {
+    "Zofran": "DRUG"
+  },
+  {
+    "IV": "TREATMENT"
+  },
+  {
+    "hydration": "TREATMENT"
+  },
+  {
+    "Rocephin": "DRUG"
+  },
+  {
+    "bladder infection": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "Maalox": "DRUG"
+  },
+  {
+    "AST": "TEST"
+  },
+  {
+    "ALT": "TEST"
+  },
+  {
+    "hyperemesis gravidarum": "PROBLEM"
+  },
+  {
+    "IV hydration": "TREATMENT"
+  },
+  {
+    "ALT": "TEST"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "iv hydration": "TREATMENT"
+  },
+  {
+    "elevated alt": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  }
+]

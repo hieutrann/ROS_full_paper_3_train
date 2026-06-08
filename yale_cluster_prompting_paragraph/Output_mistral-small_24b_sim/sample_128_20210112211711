@@ -1,0 +1,98 @@
+[
+  {
+    "Respiratory distress syndrome": "PROBLEM"
+  },
+  {
+    "intrauterine growth restriction": "PROBLEM"
+  },
+  {
+    "thrombocytopenia": "PROBLEM"
+  },
+  {
+    "hypoglycemia": "PROBLEM"
+  },
+  {
+    "retinal immaturity": "PROBLEM"
+  },
+  {
+    "small for gestational age": "PROBLEM"
+  },
+  {
+    "preeclampsia": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "abdominal distention": "PROBLEM"
+  },
+  {
+    "hypoglycemic episodes": "PROBLEM"
+  },
+  {
+    "closed PDA": "PROBLEM"
+  },
+  {
+    "intracranial hemorrhage": "PROBLEM"
+  },
+  {
+    "phototherapy": "TREATMENT"
+  },
+  {
+    "TPN": "TREATMENT"
+  },
+  {
+    "p.o. feeds": "TREATMENT"
+  },
+  {
+    "Mylicon drops": "DRUG"
+  },
+  {
+    "glycerin suppositories": "DRUG"
+  },
+  {
+    "abdominal ultrasound": "TEST"
+  },
+  {
+    "OG tube": "TREATMENT"
+  },
+  {
+    "Reglan": "DRUG"
+  },
+  {
+    "BM fortified with 22-cal NeoSure": "TREATMENT"
+  },
+  {
+    "D10 water": "TREATMENT"
+  },
+  {
+    "D10": "TREATMENT"
+  },
+  {
+    "Diazoxide": "DRUG"
+  },
+  {
+    "cardiac echograms": "TEST"
+  },
+  {
+    "head ultrasound": "TEST"
+  },
+  {
+    "antibiotics": "DRUG"
+  },
+  {
+    "iron": "DRUG"
+  },
+  {
+    "CPR measures": "TREATMENT"
+  },
+  {
+    "Calcium challenge": "TEST"
+  },
+  {
+    "NeoSure": "DRUG"
+  },
+  {
+    "expressed breast milk": "TREATMENT"
+  }
+]

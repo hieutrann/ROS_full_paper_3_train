@@ -1,0 +1,281 @@
+[
+  {
+    "Diabetes Mellitus": "PROBLEM"
+  },
+  {
+    "type 1": "PROBLEM"
+  },
+  {
+    "diabetic neuropathy": "PROBLEM"
+  },
+  {
+    "NPH": "DRUG"
+  },
+  {
+    "Regular insulin": "DRUG"
+  },
+  {
+    "blood sugars": "TEST"
+  },
+  {
+    "glucometer": "TEST"
+  },
+  {
+    "kidney damage": "PROBLEM"
+  },
+  {
+    "urine microalbumin": "TEST"
+  },
+  {
+    "hemoglobin A1C": "TEST"
+  },
+  {
+    "Lantus": "DRUG"
+  },
+  {
+    "CMP": "TEST"
+  },
+  {
+    "alkaline phosphatase": "TEST"
+  },
+  {
+    "SGGT": "TEST"
+  },
+  {
+    "hepatic panel": "TEST"
+  },
+  {
+    "gastroparesis": "PROBLEM"
+  },
+  {
+    "impotence": "PROBLEM"
+  },
+  {
+    "Nexium": "DRUG"
+  },
+  {
+    "Viagra": "DRUG"
+  },
+  {
+    "Health Plan": "TREATMENT"
+  },
+  {
+    "scooter accident": "PROBLEM"
+  },
+  {
+    "scalp laceration": "PROBLEM"
+  },
+  {
+    "headache": "PROBLEM"
+  },
+  {
+    "dizziness": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "neurological abnormalities": "PROBLEM"
+  },
+  {
+    "blood sugar": "TEST"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "heart rate": "TEST"
+  },
+  {
+    "respirations": "TEST"
+  },
+  {
+    "Microalbumin": "TEST"
+  },
+  {
+    "skin lacerations": "PROBLEM"
+  },
+  {
+    "infection": "PROBLEM"
+  },
+  {
+    "granulation tissue": "PROBLEM"
+  },
+  {
+    "Normocephalic": "TEST"
+  },
+  {
+    "PERRLA": "TEST"
+  },
+  {
+    "EOMI": "TEST"
+  },
+  {
+    "TMs": "TEST"
+  },
+  {
+    "nares": "TEST"
+  },
+  {
+    "sinuses": "TEST"
+  },
+  {
+    "ROM": "TEST"
+  },
+  {
+    "LAD": "TEST"
+  },
+  {
+    "RRR": "TEST"
+  },
+  {
+    "murmurs": "TEST"
+  },
+  {
+    "rubs": "TEST"
+  },
+  {
+    "gallops": "TEST"
+  },
+  {
+    "CTA": "TEST"
+  },
+  {
+    "HSM": "TEST"
+  },
+  {
+    "masses": "TEST"
+  },
+  {
+    "lower extremity numbness": "PROBLEM"
+  },
+  {
+    "microfilament test": "TEST"
+  },
+  {
+    "sensation": "TEST"
+  },
+  {
+    "contusion": "PROBLEM"
+  },
+  {
+    "infection": "PROBLEM"
+  },
+  {
+    "cranial nerves": "TEST"
+  },
+  {
+    "RAM": "TEST"
+  },
+  {
+    "Diabetes mellitus": "PROBLEM"
+  },
+  {
+    "type 1": "PROBLEM"
+  },
+  {
+    "diabetic neuropathy": "PROBLEM"
+  },
+  {
+    "microalbuminuria": "PROBLEM"
+  },
+  {
+    "scalp laceration": "PROBLEM"
+  },
+  {
+    "Alk Phos": "TEST"
+  },
+  {
+    "Ace Inhibitor": "DRUG"
+  },
+  {
+    "Lantus": "DRUG"
+  },
+  {
+    "blood sugars": "TEST"
+  },
+  {
+    "Endocrinology": "TREATMENT"
+  },
+  {
+    "Prilosec OTC": "DRUG"
+  },
+  {
+    "GERD symptoms": "PROBLEM"
+  },
+  {
+    "scooter accident": "PROBLEM"
+  },
+  {
+    "lacerations": "PROBLEM"
+  },
+  {
+    "infection": "PROBLEM"
+  },
+  {
+    "heat": "PROBLEM"
+  },
+  {
+    "swelling": "PROBLEM"
+  },
+  {
+    "diabetes mellitus": "PROBLEM"
+  },
+  {
+    "nph": "DRUG"
+  },
+  {
+    "regular insulin": "DRUG"
+  },
+  {
+    "sggt": "TEST"
+  },
+  {
+    "diabetic neuropathy": "PROBLEM"
+  },
+  {
+    "dizziness": "PROBLEM"
+  },
+  {
+    "followup": "TREATMENT"
+  },
+  {
+    "glucometer": "TEST"
+  },
+  {
+    "hypoglycemia": "PROBLEM"
+  },
+  {
+    "microalbumin": "TEST"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "neurological": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "mellitus type": "PROBLEM"
+  },
+  {
+    "blood sugars": "TEST"
+  },
+  {
+    "blood": "TEST"
+  },
+  {
+    "diabetes": "PROBLEM"
+  },
+  {
+    "mellitus": "PROBLEM"
+  },
+  {
+    "sugars": "TEST"
+  }
+]

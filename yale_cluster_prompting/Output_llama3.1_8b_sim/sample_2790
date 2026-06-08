@@ -1,0 +1,356 @@
+[
+  {
+    "back pain": "PROBLEM"
+  },
+  {
+    "chronic back pain": "PROBLEM"
+  },
+  {
+    "acute back pain": "PROBLEM"
+  },
+  {
+    "back pain": "PROBLEM"
+  },
+  {
+    "back pain": "PROBLEM"
+  },
+  {
+    "ABCD Hospital Emergency Room": "TREATMENT"
+  },
+  {
+    "Decadron": "DRUG"
+  },
+  {
+    "physical therapy": "TREATMENT"
+  },
+  {
+    "Joseph Health Services": "TREATMENT"
+  },
+  {
+    "back pain": "PROBLEM"
+  },
+  {
+    "intravertebral lumbar disk disease": "PROBLEM"
+  },
+  {
+    "degenerative changes": "PROBLEM"
+  },
+  {
+    "bulging disk": "PROBLEM"
+  },
+  {
+    "testicular cancer": "PROBLEM"
+  },
+  {
+    "bone scan": "TEST"
+  },
+  {
+    "bone scan": "TEST"
+  },
+  {
+    "oncologist": "TREATMENT"
+  },
+  {
+    "PENICILLIN": "DRUG"
+  },
+  {
+    "AMOXICILLIN": "DRUG"
+  },
+  {
+    "CEPHALOSPORIN": "DRUG"
+  },
+  {
+    "DOXYCYCLINE": "DRUG"
+  },
+  {
+    "IVP DYE": "DRUG"
+  },
+  {
+    "IODINE": "DRUG"
+  },
+  {
+    "SULFA": "DRUG"
+  },
+  {
+    "HIVES": "PROBLEM"
+  },
+  {
+    "HIVES": "PROBLEM"
+  },
+  {
+    "SAP FROM THE MANGO TREE": "PROBLEM"
+  },
+  {
+    "testicular cancer": "PROBLEM"
+  },
+  {
+    "GERD": "PROBLEM"
+  },
+  {
+    "irritable bowel syndrome": "PROBLEM"
+  },
+  {
+    "asthma": "PROBLEM"
+  },
+  {
+    "carpal tunnel syndrome": "PROBLEM"
+  },
+  {
+    "abdominal teratoma": "PROBLEM"
+  },
+  {
+    "incisional hernia": "PROBLEM"
+  },
+  {
+    "Noncontributory": "PROBLEM"
+  },
+  {
+    "finance department": "PROBLEM"
+  },
+  {
+    "nonsmoker": "PROBLEM"
+  },
+  {
+    "alcohol": "PROBLEM"
+  },
+  {
+    "IV drug use": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "palpitations": "PROBLEM"
+  },
+  {
+    "hemoptysis": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "diarrhea": "PROBLEM"
+  },
+  {
+    "constipation": "PROBLEM"
+  },
+  {
+    "hematemesis": "PROBLEM"
+  },
+  {
+    "bowel movement": "PROBLEM"
+  },
+  {
+    "dysuria": "PROBLEM"
+  },
+  {
+    "frequency": "PROBLEM"
+  },
+  {
+    "incomplete bladder emptying": "PROBLEM"
+  },
+  {
+    "voiding difficulties": "PROBLEM"
+  },
+  {
+    "carpal tunnel syndrome": "PROBLEM"
+  },
+  {
+    "numbness and tingling": "PROBLEM"
+  },
+  {
+    "seizure disorders": "PROBLEM"
+  },
+  {
+    "dizziness": "PROBLEM"
+  },
+  {
+    "temperature": "TEST"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "pulse": "TEST"
+  },
+  {
+    "respirations": "TEST"
+  },
+  {
+    "O2 saturation": "TEST"
+  },
+  {
+    "patient": "PROBLEM"
+  },
+  {
+    "acute distress": "PROBLEM"
+  },
+  {
+    "Normocephalic": "TEST"
+  },
+  {
+    "Sclerae": "PROBLEM"
+  },
+  {
+    "EOMI": "PROBLEM"
+  },
+  {
+    "movement": "PROBLEM"
+  },
+  {
+    "Trachea": "TEST"
+  },
+  {
+    "cervical": "PROBLEM"
+  },
+  {
+    "axillary nodes": "PROBLEM"
+  },
+  {
+    "auscultation": "TEST"
+  },
+  {
+    "Regular rate and rhythm": "TEST"
+  },
+  {
+    "S1": "TEST"
+  },
+  {
+    "S2": "TEST"
+  },
+  {
+    "Obese": "PROBLEM"
+  },
+  {
+    "protuberant": "PROBLEM"
+  },
+  {
+    "nontender": "PROBLEM"
+  },
+  {
+    "clubbing": "PROBLEM"
+  },
+  {
+    "cyanosis": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "calf tenderness": "PROBLEM"
+  },
+  {
+    "Bilateral strength": "TEST"
+  },
+  {
+    "upper extremities": "TEST"
+  },
+  {
+    "left lower extremity": "TEST"
+  },
+  {
+    "4-5/5": "TEST"
+  },
+  {
+    "alert and oriented": "TEST"
+  },
+  {
+    "ASSESSMENT": "TREATMENT"
+  },
+  {
+    "back pain": "PROBLEM"
+  },
+  {
+    "TCU": "TEST"
+  },
+  {
+    "Joseph Health Services": "TREATMENT"
+  },
+  {
+    "Physical Therapy": "TREATMENT"
+  },
+  {
+    "Occupational Therapy": "TREATMENT"
+  },
+  {
+    "Decadron": "DRUG"
+  },
+  {
+    "Percocet": "DRUG"
+  },
+  {
+    "p.r.n.": "TEST"
+  },
+  {
+    "pain": "PROBLEM"
+  },
+  {
+    "2": "TEST"
+  },
+  {
+    "testicular cancer": "PROBLEM"
+  },
+  {
+    "bone scan": "TEST"
+  },
+  {
+    "B.": "PROBLEM"
+  },
+  {
+    "3": "PROBLEM"
+  },
+  {
+    "Gastroesophageal reflux disease": "PROBLEM"
+  },
+  {
+    "irritable bowel syndrome": "PROBLEM"
+  },
+  {
+    "gastrointestinal prophylaxis": "TREATMENT"
+  },
+  {
+    "Colace": "DRUG"
+  },
+  {
+    "lactulose": "DRUG"
+  },
+  {
+    "Protonix": "DRUG"
+  },
+  {
+    "4": "TREATMENT"
+  },
+  {
+    "Deep vein thrombosis prophylaxis": "TREATMENT"
+  },
+  {
+    "5": "TREATMENT"
+  },
+  {
+    "Obesity": "PROBLEM"
+  },
+  {
+    "weight loss plan": "TREATMENT"
+  },
+  {
+    "dietary consult": "TREATMENT"
+  },
+  {
+    "discharge summary": "TEST"
+  },
+  {
+    "exacerbation": "PROBLEM"
+  },
+  {
+    "back pain": "PROBLEM"
+  }
+]

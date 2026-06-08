@@ -1,0 +1,38 @@
+[
+  {
+    "extensive dental disease": "PROBLEM"
+  },
+  {
+    "toothache": "PROBLEM"
+  },
+  {
+    "multiple dental caries": "PROBLEM"
+  },
+  {
+    "OxyContin": "DRUG"
+  },
+  {
+    "Vicodin": "DRUG"
+  },
+  {
+    "Percocet": "DRUG"
+  },
+  {
+    "clindamycin": "DRUG"
+  },
+  {
+    "Dilaudid": "DRUG"
+  },
+  {
+    "physical examination": "TREATMENT"
+  },
+  {
+    "emergency department course": "TREATMENT"
+  },
+  {
+    "pain shot": "TREATMENT"
+  },
+  {
+    "prescription": "TREATMENT"
+  }
+]

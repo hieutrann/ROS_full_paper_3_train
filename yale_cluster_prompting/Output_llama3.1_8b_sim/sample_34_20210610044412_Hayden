@@ -1,0 +1,197 @@
+[
+  {
+    "General Medicine": "TREATMENT"
+  },
+  {
+    "Normal Physical Exam Template": "TREATMENT"
+  },
+  {
+    "chronically ill": "PROBLEM"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "temperature": "TEST"
+  },
+  {
+    "respirations": "TEST"
+  },
+  {
+    "pulse": "TEST"
+  },
+  {
+    "chronically ill": "PROBLEM"
+  },
+  {
+    "pupils": "TEST"
+  },
+  {
+    "Funduscopic examination": "TEST"
+  },
+  {
+    "pharynx": "PROBLEM"
+  },
+  {
+    "tympanic membranes": "PROBLEM"
+  },
+  {
+    "Trachea": "TEST"
+  },
+  {
+    "Thyroid": "PROBLEM"
+  },
+  {
+    "supple": "PROBLEM"
+  },
+  {
+    "nodes": "PROBLEM"
+  },
+  {
+    "auscultation": "TEST"
+  },
+  {
+    "respiratory rate": "TEST"
+  },
+  {
+    "consolidation": "PROBLEM"
+  },
+  {
+    "egophony": "PROBLEM"
+  },
+  {
+    "retractions": "PROBLEM"
+  },
+  {
+    "secondary muscle use": "PROBLEM"
+  },
+  {
+    "bilateral breath sounds": "TEST"
+  },
+  {
+    "jugular venous distention": "PROBLEM"
+  },
+  {
+    "carotid bruits": "PROBLEM"
+  },
+  {
+    "heart size": "PROBLEM"
+  },
+  {
+    "murmur": "PROBLEM"
+  },
+  {
+    "gallop": "PROBLEM"
+  },
+  {
+    "S1 and S2 sounds": "TEST"
+  },
+  {
+    "palpation": "TEST"
+  },
+  {
+    "organomegaly": "PROBLEM"
+  },
+  {
+    "rebound tenderness": "PROBLEM"
+  },
+  {
+    "Bowel sounds": "TEST"
+  },
+  {
+    "Obturator and psoas signs": "TEST"
+  },
+  {
+    "bladder tenderness": "PROBLEM"
+  },
+  {
+    "flank pain": "PROBLEM"
+  },
+  {
+    "Extremities": "PROBLEM"
+  },
+  {
+    "motor tone": "PROBLEM"
+  },
+  {
+    "strength": "PROBLEM"
+  },
+  {
+    "reflexes": "TEST"
+  },
+  {
+    "joint strength": "PROBLEM"
+  },
+  {
+    "sensation": "PROBLEM"
+  },
+  {
+    "Glasgow Coma Scale": "TEST"
+  },
+  {
+    "Cranial nerves II through XII": "TEST"
+  },
+  {
+    "motor": "TEST"
+  },
+  {
+    "cerebellar": "TEST"
+  },
+  {
+    "Reflexes": "TEST"
+  },
+  {
+    "abnormal lymph nodes": "PROBLEM"
+  },
+  {
+    "bleeding": "PROBLEM"
+  },
+  {
+    "purpura": "PROBLEM"
+  },
+  {
+    "petechiae": "PROBLEM"
+  },
+  {
+    "hemorrhage": "PROBLEM"
+  },
+  {
+    "overt depression": "PROBLEM"
+  },
+  {
+    "suicidal ideations": "PROBLEM"
+  },
+  {
+    "jugular venous distention": "PROBLEM"
+  },
+  {
+    "flank": "PROBLEM"
+  },
+  {
+    "bladder": "PROBLEM"
+  },
+  {
+    "neck": "PROBLEM"
+  },
+  {
+    "nodes": "PROBLEM"
+  },
+  {
+    "respiratory": "PROBLEM"
+  },
+  {
+    "tenderness": "PROBLEM"
+  },
+  {
+    "motor": "TEST"
+  },
+  {
+    "strength": "TEST"
+  },
+  {
+    "reflexes": "TEST"
+  },
+  {
+    "sounds": "TEST"
+  }
+]

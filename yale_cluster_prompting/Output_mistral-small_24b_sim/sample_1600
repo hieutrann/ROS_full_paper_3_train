@@ -1,0 +1,320 @@
+[
+  {
+    "Preeclampsia": "PROBLEM"
+  },
+  {
+    "Cesarean section": "TREATMENT"
+  },
+  {
+    "blood pressure": "PROBLEM"
+  },
+  {
+    "delivery": "PROBLEM"
+  },
+  {
+    "cesarean section": "TREATMENT"
+  },
+  {
+    "blood pressure": "PROBLEM"
+  },
+  {
+    "uncontrolled blood pressure": "PROBLEM"
+  },
+  {
+    "blood pressure": "PROBLEM"
+  },
+  {
+    "delivery": "PROBLEM"
+  },
+  {
+    "cesarean section": "TREATMENT"
+  },
+  {
+    "blood pressure": "PROBLEM"
+  },
+  {
+    "uncontrolled blood pressure": "PROBLEM"
+  },
+  {
+    "multiple medications": "DRUG"
+  },
+  {
+    "blood pressure": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "fatigue": "PROBLEM"
+  },
+  {
+    "tiredness": "PROBLEM"
+  },
+  {
+    "congenital anomaly": "PROBLEM"
+  },
+  {
+    "surgery": "TREATMENT"
+  },
+  {
+    "intensive care unit": "TREATMENT"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "gestational diabetes mellitus": "PROBLEM"
+  },
+  {
+    "cholesterol": "PROBLEM"
+  },
+  {
+    "coronary artery disease": "PROBLEM"
+  },
+  {
+    "coronary disease": "PROBLEM"
+  },
+  {
+    "C-section": "TREATMENT"
+  },
+  {
+    "Cardizem": "DRUG"
+  },
+  {
+    "metoprolol": "DRUG"
+  },
+  {
+    "hydralazine 50 mg t.i.d.": "DRUG"
+  },
+  {
+    "labetalol 200 mg b.i.d.": "DRUG"
+  },
+  {
+    "hydrochlorothiazide": "DRUG"
+  },
+  {
+    "insulin supplementation": "DRUG"
+  },
+  {
+    "Nonsmoker": "PROBLEM"
+  },
+  {
+    "recreational drug use": "PROBLEM"
+  },
+  {
+    "Hypertension": "PROBLEM"
+  },
+  {
+    "gestational diabetes mellitus": "PROBLEM"
+  },
+  {
+    "pre-eclampsia": "PROBLEM"
+  },
+  {
+    "miscarriage": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "rigors": "PROBLEM"
+  },
+  {
+    "chills": "PROBLEM"
+  },
+  {
+    "cataract": "PROBLEM"
+  },
+  {
+    "blurry vision": "PROBLEM"
+  },
+  {
+    "glaucoma": "PROBLEM"
+  },
+  {
+    "congestive heart": "PROBLEM"
+  },
+  {
+    "arrhythmia": "PROBLEM"
+  },
+  {
+    "pneumonia": "PROBLEM"
+  },
+  {
+    "valley fever": "PROBLEM"
+  },
+  {
+    "epigastric discomfort": "PROBLEM"
+  },
+  {
+    "hematemesis": "PROBLEM"
+  },
+  {
+    "melena": "PROBLEM"
+  },
+  {
+    "frequency": "PROBLEM"
+  },
+  {
+    "urgency": "PROBLEM"
+  },
+  {
+    "arthritis": "PROBLEM"
+  },
+  {
+    "muscle weakness": "PROBLEM"
+  },
+  {
+    "Nonsignificant": "PROBLEM"
+  },
+  {
+    "TIA": "PROBLEM"
+  },
+  {
+    "CVA": "PROBLEM"
+  },
+  {
+    "seizure disorder": "PROBLEM"
+  },
+  {
+    "Pulse": "TEST"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "afebrile": "PROBLEM"
+  },
+  {
+    "respiratory rate": "TEST"
+  },
+  {
+    "Atraumatic": "PROBLEM"
+  },
+  {
+    "normocephalic": "PROBLEM"
+  },
+  {
+    "Neck veins": "PROBLEM"
+  },
+  {
+    "LUNGS": "PROBLEM"
+  },
+  {
+    "S1": "TEST"
+  },
+  {
+    "S2": "TEST"
+  },
+  {
+    "Soft": "PROBLEM"
+  },
+  {
+    "nontender": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "Pulses": "PROBLEM"
+  },
+  {
+    "EKG": "TEST"
+  },
+  {
+    "sinus tachycardia": "PROBLEM"
+  },
+  {
+    "Labs": "TEST"
+  },
+  {
+    "BUN": "TEST"
+  },
+  {
+    "creatinine": "TEST"
+  },
+  {
+    "Preeclampsia": "PROBLEM"
+  },
+  {
+    "Cesarean section": "TREATMENT"
+  },
+  {
+    "uncontrolled blood pressure": "PROBLEM"
+  },
+  {
+    "cardiac disease": "PROBLEM"
+  },
+  {
+    "gestational diabetes mellitus": "PROBLEM"
+  },
+  {
+    "an echocardiogram": "TEST"
+  },
+  {
+    "labetalol": "DRUG"
+  },
+  {
+    "hydralazine": "DRUG"
+  },
+  {
+    "medication": "DRUG"
+  },
+  {
+    "obstetrics / gynecology": "PROBLEM"
+  },
+  {
+    "cardizem": "DRUG"
+  },
+  {
+    "metoprolol": "DRUG"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "gestational diabetes mellitus": "PROBLEM"
+  },
+  {
+    "pre-eclampsia": "PROBLEM"
+  },
+  {
+    "blood pressure": "PROBLEM"
+  },
+  {
+    "uncontrolled blood pressure": "PROBLEM"
+  },
+  {
+    "gestational diabetes": "PROBLEM"
+  },
+  {
+    "preeclampsia": "PROBLEM"
+  },
+  {
+    "cesarean section": "TREATMENT"
+  },
+  {
+    "blood": "TEST"
+  },
+  {
+    "nonsmoker": "PROBLEM"
+  },
+  {
+    "gestational": "PROBLEM"
+  },
+  {
+    "cesarean": "TREATMENT"
+  },
+  {
+    "section": "TREATMENT"
+  },
+  {
+    "delivery": "TREATMENT"
+  },
+  {
+    "pressure": "PROBLEM"
+  }
+]

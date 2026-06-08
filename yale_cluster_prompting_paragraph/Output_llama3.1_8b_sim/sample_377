@@ -1,0 +1,59 @@
+[
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "stomach pains": "PROBLEM"
+  },
+  {
+    "reflux": "PROBLEM"
+  },
+  {
+    "tinea versicolor": "PROBLEM"
+  },
+  {
+    "cystocele": "PROBLEM"
+  },
+  {
+    "leukopenia": "PROBLEM"
+  },
+  {
+    "arthritic": "PROBLEM"
+  },
+  {
+    "colon cancer": "PROBLEM"
+  },
+  {
+    "gastroesophageal reflux disease": "PROBLEM"
+  },
+  {
+    "treadmill": "TEST"
+  },
+  {
+    "echocardiogram": "TEST"
+  },
+  {
+    "Aciphex": "DRUG"
+  },
+  {
+    "aspirin": "DRUG"
+  },
+  {
+    "selenium sulfide lotion": "TREATMENT"
+  },
+  {
+    "punch biopsy": "TREATMENT"
+  },
+  {
+    "repair": "TREATMENT"
+  },
+  {
+    "colonoscopy": "TEST"
+  },
+  {
+    "CBC": "TEST"
+  },
+  {
+    "EGD": "TEST"
+  }
+]

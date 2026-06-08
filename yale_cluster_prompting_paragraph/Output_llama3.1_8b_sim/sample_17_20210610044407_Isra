@@ -1,0 +1,86 @@
+[
+  {
+    "chronic kidney disease": "PROBLEM"
+  },
+  {
+    "diabetes mellitus": "PROBLEM"
+  },
+  {
+    "diabetic nephropathy": "PROBLEM"
+  },
+  {
+    "peripheral vascular disease": "PROBLEM"
+  },
+  {
+    "gout": "PROBLEM"
+  },
+  {
+    "gouty attack": "PROBLEM"
+  },
+  {
+    "urinary tract infection": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "hypercholesterolemia": "PROBLEM"
+  },
+  {
+    "hyperlipidemia": "PROBLEM"
+  },
+  {
+    "PTA": "TREATMENT"
+  },
+  {
+    "allopurinol": "DRUG"
+  },
+  {
+    "colchicine": "DRUG"
+  },
+  {
+    "Micardis": "DRUG"
+  },
+  {
+    "Lasix": "DRUG"
+  },
+  {
+    "Foley": "TREATMENT"
+  },
+  {
+    "steroids": "TREATMENT"
+  },
+  {
+    "edema": "TREATMENT"
+  },
+  {
+    "mcg": "TEST"
+  },
+  {
+    "Abdomen": "TEST"
+  },
+  {
+    "urine culture": "TEST"
+  },
+  {
+    "urinalysis": "TEST"
+  },
+  {
+    "sed rate": "TEST"
+  },
+  {
+    "BNP": "TEST"
+  },
+  {
+    "BUN": "TEST"
+  },
+  {
+    "creatinine": "TEST"
+  },
+  {
+    "calcium": "TEST"
+  },
+  {
+    "uric acid": "TEST"
+  }
+]

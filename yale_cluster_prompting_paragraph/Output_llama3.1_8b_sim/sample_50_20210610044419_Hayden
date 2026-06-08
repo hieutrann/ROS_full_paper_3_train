@@ -1,0 +1,59 @@
+[
+  {
+    "leiomyosarcoma": "PROBLEM"
+  },
+  {
+    "pulmonary embolism": "PROBLEM"
+  },
+  {
+    "subdural hematoma": "PROBLEM"
+  },
+  {
+    "pancytopenia": "PROBLEM"
+  },
+  {
+    "pneumonia": "PROBLEM"
+  },
+  {
+    "CTA": "TEST"
+  },
+  {
+    "chest PE study": "TEST"
+  },
+  {
+    "Head CT": "TEST"
+  },
+  {
+    "Sinus CT": "TEST"
+  },
+  {
+    "MRI": "TEST"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "Lovenox": "DRUG"
+  },
+  {
+    "partial resection": "TREATMENT"
+  },
+  {
+    "surgical resection": "TREATMENT"
+  },
+  {
+    "preoperative chemotherapy": "TREATMENT"
+  },
+  {
+    "anticoagulation": "TREATMENT"
+  }
+]

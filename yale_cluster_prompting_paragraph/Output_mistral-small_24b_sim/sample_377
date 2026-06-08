@@ -1,0 +1,326 @@
+[
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "treadmill": "TEST"
+  },
+  {
+    "echocardiogram": "TEST"
+  },
+  {
+    "cardiovascular disease": "PROBLEM"
+  },
+  {
+    "fast heartbeats": "PROBLEM"
+  },
+  {
+    "irregular heartbeats": "PROBLEM"
+  },
+  {
+    "stomach pains": "PROBLEM"
+  },
+  {
+    "reflux": "PROBLEM"
+  },
+  {
+    "Aciphex": "DRUG"
+  },
+  {
+    "reflux": "PROBLEM"
+  },
+  {
+    "belching": "PROBLEM"
+  },
+  {
+    "burping": "PROBLEM"
+  },
+  {
+    "heartburn": "PROBLEM"
+  },
+  {
+    "right flank pain": "PROBLEM"
+  },
+  {
+    "spots": "PROBLEM"
+  },
+  {
+    "spots": "PROBLEM"
+  },
+  {
+    "urgency of urine": "PROBLEM"
+  },
+  {
+    "colonoscopy": "TEST"
+  },
+  {
+    "labs": "TEST"
+  },
+  {
+    "chronic leukopenia": "PROBLEM"
+  },
+  {
+    "hepatitis titer": "TEST"
+  },
+  {
+    "pain": "PROBLEM"
+  },
+  {
+    "fine motor skills": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "chronic cough": "PROBLEM"
+  },
+  {
+    "bowel movements": "PROBLEM"
+  },
+  {
+    "black or bloody stools": "PROBLEM"
+  },
+  {
+    "diarrhea": "PROBLEM"
+  },
+  {
+    "constipation": "PROBLEM"
+  },
+  {
+    "blood in her urine": "PROBLEM"
+  },
+  {
+    "urinary problems": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "lower extremity numbness": "PROBLEM"
+  },
+  {
+    "tingling": "PROBLEM"
+  },
+  {
+    "type I diabetes": "PROBLEM"
+  },
+  {
+    "heart disease": "PROBLEM"
+  },
+  {
+    "heart attack": "PROBLEM"
+  },
+  {
+    "leukopenia": "PROBLEM"
+  },
+  {
+    "irritable bowel syndrome": "PROBLEM"
+  },
+  {
+    "Aciphex": "DRUG"
+  },
+  {
+    "aspirin": "DRUG"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "pulse": "TEST"
+  },
+  {
+    "pupils": "PROBLEM"
+  },
+  {
+    "conjunctivae": "PROBLEM"
+  },
+  {
+    "TMs": "PROBLEM"
+  },
+  {
+    "oropharynx": "PROBLEM"
+  },
+  {
+    "dentition": "PROBLEM"
+  },
+  {
+    "lymphadenopathy": "PROBLEM"
+  },
+  {
+    "thyromegaly": "PROBLEM"
+  },
+  {
+    "lungs": "PROBLEM"
+  },
+  {
+    "respiratory effort": "PROBLEM"
+  },
+  {
+    "heart": "PROBLEM"
+  },
+  {
+    "rhythm": "PROBLEM"
+  },
+  {
+    "rate": "PROBLEM"
+  },
+  {
+    "murmur": "PROBLEM"
+  },
+  {
+    "radial pulses": "PROBLEM"
+  },
+  {
+    "abdomen": "PROBLEM"
+  },
+  {
+    "organomegaly": "PROBLEM"
+  },
+  {
+    "hands": "PROBLEM"
+  },
+  {
+    "tenderness": "PROBLEM"
+  },
+  {
+    "PIP joint": "PROBLEM"
+  },
+  {
+    "DIP joint": "PROBLEM"
+  },
+  {
+    "armpits": "PROBLEM"
+  },
+  {
+    "tinea versicolor": "PROBLEM"
+  },
+  {
+    "rash": "PROBLEM"
+  },
+  {
+    "lesion": "PROBLEM"
+  },
+  {
+    "cyanosis": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "pulses": "PROBLEM"
+  },
+  {
+    "gait": "PROBLEM"
+  },
+  {
+    "affect": "PROBLEM"
+  },
+  {
+    "speech": "PROBLEM"
+  },
+  {
+    "coordination": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "reflux": "PROBLEM"
+  },
+  {
+    "Aciphex": "DRUG"
+  },
+  {
+    "EGD": "TEST"
+  },
+  {
+    "stomach pain": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "punch biopsy": "TEST"
+  },
+  {
+    "tinea versicolor": "PROBLEM"
+  },
+  {
+    "selenium sulfide lotion": "DRUG"
+  },
+  {
+    "cystocele": "PROBLEM"
+  },
+  {
+    "urinary incontinence": "PROBLEM"
+  },
+  {
+    "CBC": "TEST"
+  },
+  {
+    "pain": "PROBLEM"
+  },
+  {
+    "arthritic": "PROBLEM"
+  },
+  {
+    "colon cancer screening": "TEST"
+  },
+  {
+    "gastroesophageal reflux disease": "PROBLEM"
+  },
+  {
+    "Aciphex": "DRUG"
+  },
+  {
+    "cystocele": "PROBLEM"
+  },
+  {
+    "gastroesophageal reflux disease": "PROBLEM"
+  },
+  {
+    "stomach pain": "PROBLEM"
+  },
+  {
+    "tinea versicolor": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "leukopenia": "PROBLEM"
+  },
+  {
+    "multiple problems": "PROBLEM"
+  },
+  {
+    "pulses are normal bilaterally": "PROBLEM"
+  },
+  {
+    "lower extremities": "PROBLEM"
+  },
+  {
+    "tinea": "PROBLEM"
+  },
+  {
+    "versicolor": "PROBLEM"
+  },
+  {
+    "pulses": "PROBLEM"
+  },
+  {
+    "extremities": "PROBLEM"
+  },
+  {
+    "reflux": "PROBLEM"
+  },
+  {
+    "aciphex": "DRUG"
+  },
+  {
+    "chest": "PROBLEM"
+  }
+]

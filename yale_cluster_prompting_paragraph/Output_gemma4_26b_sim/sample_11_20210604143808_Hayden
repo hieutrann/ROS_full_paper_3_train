@@ -1,0 +1,155 @@
+[
+  {
+    "Anemia": "PROBLEM"
+  },
+  {
+    "Refractory anemia": "PROBLEM"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "hemoglobin": "TEST"
+  },
+  {
+    "blood transfusion": "TREATMENT"
+  },
+  {
+    "diabetes": "PROBLEM"
+  },
+  {
+    "kidney disease": "PROBLEM"
+  },
+  {
+    "heart disease": "PROBLEM"
+  },
+  {
+    "stroke": "PROBLEM"
+  },
+  {
+    "vision loss": "PROBLEM"
+  },
+  {
+    "neuropathy": "PROBLEM"
+  },
+  {
+    "bleeding": "PROBLEM"
+  },
+  {
+    "B12": "DRUG"
+  },
+  {
+    "oral iron": "DRUG"
+  },
+  {
+    "Procrit": "DRUG"
+  },
+  {
+    "fatigue": "PROBLEM"
+  },
+  {
+    "malaise": "PROBLEM"
+  },
+  {
+    "dyspnea": "PROBLEM"
+  },
+  {
+    "adenopathy": "PROBLEM"
+  },
+  {
+    "fevers": "PROBLEM"
+  },
+  {
+    "night sweats": "PROBLEM"
+  },
+  {
+    "bone pain": "PROBLEM"
+  },
+  {
+    "rash": "PROBLEM"
+  },
+  {
+    "arthralgias": "PROBLEM"
+  },
+  {
+    "myalgias": "PROBLEM"
+  },
+  {
+    "Hernia repair": "TREATMENT"
+  },
+  {
+    "Coumadin": "DRUG"
+  },
+  {
+    "Lasix": "DRUG"
+  },
+  {
+    "metformin": "DRUG"
+  },
+  {
+    "folic acid": "DRUG"
+  },
+  {
+    "diltiazem": "DRUG"
+  },
+  {
+    "Prevacid": "DRUG"
+  },
+  {
+    "Feosol": "DRUG"
+  },
+  {
+    "arcus senilis": "PROBLEM"
+  },
+  {
+    "jugular venous pressure distention": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "cyanosis": "PROBLEM"
+  },
+  {
+    "myelodysplastic syndrome": "PROBLEM"
+  },
+  {
+    "bone marrow failure": "PROBLEM"
+  },
+  {
+    "esophagogastroduodenoscopy": "TEST"
+  },
+  {
+    "creatinine": "TEST"
+  },
+  {
+    "reticulocyte count": "TEST"
+  },
+  {
+    "serum protein": "TEST"
+  },
+  {
+    "electrophoresis": "TEST"
+  },
+  {
+    "LDH": "TEST"
+  },
+  {
+    "folate": "DRUG"
+  },
+  {
+    "erythropoietin level": "TEST"
+  },
+  {
+    "bone marrow aspiration": "TEST"
+  },
+  {
+    "a bone marrow aspiration and biopsy I have": "TEST"
+  },
+  {
+    "ultrasound": "TEST"
+  },
+  {
+    "spleen": "PROBLEM"
+  }
+]

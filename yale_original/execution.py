@@ -14,7 +14,7 @@ arguments = [
     {'model': 'gemma4:26b', 'model_folder_org': 'Output_gemma4_26b_org', 'model_folder': 'Output_gemma4_26b_no_sim'},
     {'model': 'gemma4:31b', 'model_folder_org': 'Output_gemma4_31b_org', 'model_folder': 'Output_gemma4_31b_no_sim'},
     {'model': 'mistral-small3.2:24b', 'model_folder_org': 'Output_mistral-small_24b_org', 'model_folder': 'Output_mistral-small_24b_no_sim'},
-    {'model': 'nemotron-3-nano:30b', 'model_folder_org': 'Output_nemotron3_30b_org', 'model_folder': 'Output_nemotron3_30b_no_sim'}
+    # {'model': 'nemotron-3-nano:30b', 'model_folder_org': 'Output_nemotron3_30b_org', 'model_folder': 'Output_nemotron3_30b_no_sim'}
 ]
 
 if script == 'script.py':

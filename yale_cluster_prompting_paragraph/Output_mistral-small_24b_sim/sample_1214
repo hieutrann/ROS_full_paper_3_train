@@ -1,0 +1,86 @@
+[
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "work of breathing": "PROBLEM"
+  },
+  {
+    "Respiratory distress": "PROBLEM"
+  },
+  {
+    "Reactive airways disease": "PROBLEM"
+  },
+  {
+    "Pneumonia": "PROBLEM"
+  },
+  {
+    "asthma": "PROBLEM"
+  },
+  {
+    "URI symptoms": "PROBLEM"
+  },
+  {
+    "nebulized treatments": "TREATMENT"
+  },
+  {
+    "x-ray": "TEST"
+  },
+  {
+    "infiltrate": "PROBLEM"
+  },
+  {
+    "atelectasis": "PROBLEM"
+  },
+  {
+    "CRP": "TEST"
+  },
+  {
+    "CBC": "TEST"
+  },
+  {
+    "white count": "TEST"
+  },
+  {
+    "bands": "TEST"
+  },
+  {
+    "amoxicillin": "DRUG"
+  },
+  {
+    "Zithromax": "DRUG"
+  },
+  {
+    "continuous nebulized albuterol": "TREATMENT"
+  },
+  {
+    "inhaled as well as systemic corticosteroids": "TREATMENT"
+  },
+  {
+    "systemic corticosteroids": "TREATMENT"
+  },
+  {
+    "antibiotics": "DRUG"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "wheezing": "PROBLEM"
+  },
+  {
+    "tachypnea": "PROBLEM"
+  },
+  {
+    "Xopenex MDI": "DRUG"
+  },
+  {
+    "QVAR 40": "DRUG"
+  },
+  {
+    "Amoxicillin": "DRUG"
+  },
+  {
+    "Zithromax": "DRUG"
+  }
+]

@@ -1,0 +1,2195 @@
+[
+  {
+    "Atypical pneumonia": "PROBLEM"
+  },
+  {
+    "Hypoxia": "PROBLEM"
+  },
+  {
+    "Rheumatoid arthritis": "PROBLEM"
+  },
+  {
+    "Suspected mild stress-induced adrenal insufficiency": "PROBLEM"
+  },
+  {
+    "Pneumonia": "PROBLEM"
+  },
+  {
+    "Cough": "PROBLEM"
+  },
+  {
+    "Fever": "PROBLEM"
+  },
+  {
+    "Weakness": "PROBLEM"
+  },
+  {
+    "Chills": "PROBLEM"
+  },
+  {
+    "Loose stools": "PROBLEM"
+  },
+  {
+    "Avelox": "DRUG"
+  },
+  {
+    "Augmentin": "DRUG"
+  },
+  {
+    "Rocephin": "DRUG"
+  },
+  {
+    "Azithromycin": "DRUG"
+  },
+  {
+    "Methotrexate": "DRUG"
+  },
+  {
+    "Remicade": "DRUG"
+  },
+  {
+    "Prednisone": "DRUG"
+  },
+  {
+    "C. difficile toxin": "TEST"
+  },
+  {
+    "CT scan": "TEST"
+  },
+  {
+    "X-ray": "TEST"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  },
+  {
+    "g": "TEST"
+  },
+  {
+    "stools and then three days prior to admission": "TEST"
+  },
+  {
+    "caused loose stools and then": "TREATMENT"
+  }
+]

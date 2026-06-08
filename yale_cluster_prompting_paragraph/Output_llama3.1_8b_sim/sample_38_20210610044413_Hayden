@@ -1,0 +1,56 @@
+[
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "jaundice": "PROBLEM"
+  },
+  {
+    "pancreatic mass": "PROBLEM"
+  },
+  {
+    "liver metastases": "PROBLEM"
+  },
+  {
+    "pseudocyst": "PROBLEM"
+  },
+  {
+    "strictured pancreatic duct": "PROBLEM"
+  },
+  {
+    "strictured bile duct": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "thin-slice CT scan": "TEST"
+  },
+  {
+    "ERCP": "TEST"
+  },
+  {
+    "Zofran": "DRUG"
+  },
+  {
+    "Phenergan": "DRUG"
+  },
+  {
+    "enalapril": "DRUG"
+  },
+  {
+    "Duragesic patch": "DRUG"
+  },
+  {
+    "Benadryl": "DRUG"
+  },
+  {
+    "insulin sliding scale": "TREATMENT"
+  },
+  {
+    "stent placement": "TREATMENT"
+  },
+  {
+    "chemotherapy": "TREATMENT"
+  }
+]

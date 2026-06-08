@@ -1,0 +1,170 @@
+[
+  {
+    "Sepsis": "PROBLEM"
+  },
+  {
+    "urinary tract infection": "PROBLEM"
+  },
+  {
+    "patient": "PROBLEM"
+  },
+  {
+    "Temperature": "TEST"
+  },
+  {
+    "102.1": "PROBLEM"
+  },
+  {
+    "auscultation": "TEST"
+  },
+  {
+    "heart sounds": "TEST"
+  },
+  {
+    "murmurs": "PROBLEM"
+  },
+  {
+    "Benign": "PROBLEM"
+  },
+  {
+    "renal angle": "PROBLEM"
+  },
+  {
+    "Bowel sounds": "TEST"
+  },
+  {
+    "swelling": "PROBLEM"
+  },
+  {
+    "oriented": "TEST"
+  },
+  {
+    "nonfocal": "PROBLEM"
+  },
+  {
+    "White count": "TEST"
+  },
+  {
+    "35,000": "TEST"
+  },
+  {
+    "15.5": "TEST"
+  },
+  {
+    "Hemoglobin": "TEST"
+  },
+  {
+    "hematocrit": "TEST"
+  },
+  {
+    "platelets": "TEST"
+  },
+  {
+    "BUN": "TEST"
+  },
+  {
+    "creatinine": "TEST"
+  },
+  {
+    "Sepsis": "PROBLEM"
+  },
+  {
+    "urinary tract infection": "PROBLEM"
+  },
+  {
+    "Escherichia coli": "PROBLEM"
+  },
+  {
+    "Levaquin": "DRUG"
+  },
+  {
+    "doripenem": "DRUG"
+  },
+  {
+    "2": "TEST"
+  },
+  {
+    "Urinary tract infection": "PROBLEM"
+  },
+  {
+    "doripenem": "DRUG"
+  },
+  {
+    "Foley catheter": "TREATMENT"
+  },
+  {
+    "Hypotension": "PROBLEM"
+  },
+  {
+    "intravenous fluids": "TREATMENT"
+  },
+  {
+    "4": "TREATMENT"
+  },
+  {
+    "Ischemic cardiomyopathy": "PROBLEM"
+  },
+  {
+    "decompensation": "PROBLEM"
+  },
+  {
+    "5": "TREATMENT"
+  },
+  {
+    "Diabetes type 2": "PROBLEM"
+  },
+  {
+    "Uncontrolled": "PROBLEM"
+  },
+  {
+    "insulin": "DRUG"
+  },
+  {
+    "6": "TREATMENT"
+  },
+  {
+    "pulmonary embolism": "PROBLEM"
+  },
+  {
+    "INR": "TEST"
+  },
+  {
+    "Coumadin": "DRUG"
+  },
+  {
+    "coronary artery disease": "PROBLEM"
+  },
+  {
+    "Troponin": "TEST"
+  },
+  {
+    "Cardiologist": "TREATMENT"
+  },
+  {
+    "medical treatment": "TREATMENT"
+  },
+  {
+    "troponin": "PROBLEM"
+  },
+  {
+    "sepsis": "PROBLEM"
+  },
+  {
+    "escherichia coli": "PROBLEM"
+  },
+  {
+    "urinary tract infection": "PROBLEM"
+  },
+  {
+    "doripenem": "DRUG"
+  },
+  {
+    "troponin": "TEST"
+  },
+  {
+    "urinary": "PROBLEM"
+  },
+  {
+    "infection": "PROBLEM"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "hepatitis C": "PROBLEM"
+  },
+  {
+    "hepatitis B": "PROBLEM"
+  },
+  {
+    "HIV": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "degenerative disc disease": "PROBLEM"
+  },
+  {
+    "Nexium": "DRUG"
+  },
+  {
+    "IV contrast": "DRUG"
+  },
+  {
+    "tetanus": "DRUG"
+  },
+  {
+    "blood tests": "TEST"
+  },
+  {
+    "liver function test": "TEST"
+  },
+  {
+    "needlestick": "TREATMENT"
+  },
+  {
+    "edema": "TREATMENT"
+  }
+]

@@ -1,0 +1,239 @@
+[
+  {
+    "General Medicine": "PROBLEM"
+  },
+  {
+    "diabetes mellitus": "PROBLEM"
+  },
+  {
+    "hypercholesterolemia": "PROBLEM"
+  },
+  {
+    "sinusitis": "PROBLEM"
+  },
+  {
+    "diabetes mellitus": "PROBLEM"
+  },
+  {
+    "Accu-Cheks": "TEST"
+  },
+  {
+    "She walks 1-2 miles most days": "TREATMENT"
+  },
+  {
+    "sinus congestion": "PROBLEM"
+  },
+  {
+    "drainage": "PROBLEM"
+  },
+  {
+    "mammogram": "TEST"
+  },
+  {
+    "Dr": "TREATMENT"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "diarrhea": "PROBLEM"
+  },
+  {
+    "constipation": "PROBLEM"
+  },
+  {
+    "blood in her urine": "PROBLEM"
+  },
+  {
+    "blood in her stools": "PROBLEM"
+  },
+  {
+    "nocturia": "PROBLEM"
+  },
+  {
+    "swelling": "PROBLEM"
+  },
+  {
+    "Refer to chart": "TREATMENT"
+  },
+  {
+    "MEDICATIONS": "TREATMENT"
+  },
+  {
+    "ALLERGIES": "PROBLEM"
+  },
+  {
+    "Wt": "TEST"
+  },
+  {
+    "B/P": "TEST"
+  },
+  {
+    "120/56": "TEST"
+  },
+  {
+    "T: 96.5": "TEST"
+  },
+  {
+    "P: 84": "TEST"
+  },
+  {
+    "70-year-old female": "PROBLEM"
+  },
+  {
+    "frontal and maxillary sinus": "PROBLEM"
+  },
+  {
+    "maxillary sinus": "PROBLEM"
+  },
+  {
+    "TM": "PROBLEM"
+  },
+  {
+    "Neck": "PROBLEM"
+  },
+  {
+    "Heart": "PROBLEM"
+  },
+  {
+    "Lungs": "PROBLEM"
+  },
+  {
+    "Abdomen": "PROBLEM"
+  },
+  {
+    "No swelling": "PROBLEM"
+  },
+  {
+    "IMPRESSION": "TEST"
+  },
+  {
+    "Hypercholesterolemia": "PROBLEM"
+  },
+  {
+    "2": "TEST"
+  },
+  {
+    "Diabetes mellitus": "PROBLEM"
+  },
+  {
+    "3": "PROBLEM"
+  },
+  {
+    "Sinusitis": "PROBLEM"
+  },
+  {
+    "PLAN": "TREATMENT"
+  },
+  {
+    "Allegra D": "DRUG"
+  },
+  {
+    "b.i.d.": "TEST"
+  },
+  {
+    "x 3 days": "TREATMENT"
+  },
+  {
+    "2": "TEST"
+  },
+  {
+    "Allegra": "DRUG"
+  },
+  {
+    "3": "PROBLEM"
+  },
+  {
+    "A1c": "TEST"
+  },
+  {
+    "BMP": "TEST"
+  },
+  {
+    "lipid profile": "TEST"
+  },
+  {
+    "TSH": "TEST"
+  },
+  {
+    "4": "TREATMENT"
+  },
+  {
+    "Partners in Prevention": "TREATMENT"
+  },
+  {
+    "5": "TREATMENT"
+  },
+  {
+    "colonoscopy": "TEST"
+  },
+  {
+    "6": "TEST"
+  },
+  {
+    "occult blood": "TEST"
+  },
+  {
+    "colonoscopy": "TEST"
+  },
+  {
+    "cancer": "PROBLEM"
+  },
+  {
+    "Diet": "TREATMENT"
+  },
+  {
+    "exercise": "TREATMENT"
+  },
+  {
+    "weight loss": "TREATMENT"
+  },
+  {
+    "tests": "TEST"
+  },
+  {
+    "8": "PROBLEM"
+  },
+  {
+    "prescriptions": "TREATMENT"
+  },
+  {
+    "diabetes mellitus": "PROBLEM"
+  },
+  {
+    "sinusitis": "PROBLEM"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "constipation": "PROBLEM"
+  },
+  {
+    "diarrhea": "PROBLEM"
+  },
+  {
+    "hypercholesterolemia": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "weight loss": "PROBLEM"
+  },
+  {
+    "colonoscopy": "TEST"
+  },
+  {
+    "accu-cheks": "DRUG"
+  }
+]

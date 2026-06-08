@@ -1,0 +1,293 @@
+[
+  {
+    "Mesothelioma": "PROBLEM"
+  },
+  {
+    "pleural effusion": "PROBLEM"
+  },
+  {
+    "atrial fibrillation": "PROBLEM"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "ascites": "PROBLEM"
+  },
+  {
+    "esophageal reflux": "PROBLEM"
+  },
+  {
+    "deep venous thrombosis": "PROBLEM"
+  },
+  {
+    "decortication": "TREATMENT"
+  },
+  {
+    "pleural biopsy": "TREATMENT"
+  },
+  {
+    "transpleural fluoroscopy": "TREATMENT"
+  },
+  {
+    "thoracentesis": "TREATMENT"
+  },
+  {
+    "Port-A-Cath placement": "TREATMENT"
+  },
+  {
+    "pericarditis": "PROBLEM"
+  },
+  {
+    "pericardectomy": "TREATMENT"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "pericardectomy": "TREATMENT"
+  },
+  {
+    "pericarditis": "PROBLEM"
+  },
+  {
+    "atrial fibrillation": "PROBLEM"
+  },
+  {
+    "RNCA": "TREATMENT"
+  },
+  {
+    "intracranial thrombolytic treatment": "TREATMENT"
+  },
+  {
+    "PTA": "TREATMENT"
+  },
+  {
+    "mesenteric venous thrombosis": "PROBLEM"
+  },
+  {
+    "pericardial window": "TREATMENT"
+  },
+  {
+    "cholecystectomy": "TREATMENT"
+  },
+  {
+    "thoracentesis": "TREATMENT"
+  },
+  {
+    "coronary artery disease": "PROBLEM"
+  },
+  {
+    "CVA": "PROBLEM"
+  },
+  {
+    "diabetes": "PROBLEM"
+  },
+  {
+    "CHF": "PROBLEM"
+  },
+  {
+    "MI": "PROBLEM"
+  },
+  {
+    "cancer": "PROBLEM"
+  },
+  {
+    "Coumadin": "DRUG"
+  },
+  {
+    "INR": "TEST"
+  },
+  {
+    "Amiodarone": "DRUG"
+  },
+  {
+    "numbness": "PROBLEM"
+  },
+  {
+    "tingling": "PROBLEM"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "heart rate": "TEST"
+  },
+  {
+    "respirations": "TEST"
+  },
+  {
+    "temperature": "TEST"
+  },
+  {
+    "oxygen saturation": "TEST"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "pain": "PROBLEM"
+  },
+  {
+    "pupils": "TEST"
+  },
+  {
+    "lymphadenopathy": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "pleural friction rub": "PROBLEM"
+  },
+  {
+    "bowel sounds": "TEST"
+  },
+  {
+    "organomegaly": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "clubbing": "PROBLEM"
+  },
+  {
+    "cyanosis": "PROBLEM"
+  },
+  {
+    "tenderness": "PROBLEM"
+  },
+  {
+    "range of motion": "TEST"
+  },
+  {
+    "pulses": "TEST"
+  },
+  {
+    "breakdown": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "ulcers": "PROBLEM"
+  },
+  {
+    "focal deficits": "PROBLEM"
+  },
+  {
+    "Lovenox": "DRUG"
+  },
+  {
+    "DVT": "PROBLEM"
+  },
+  {
+    "mesenteric pain": "PROBLEM"
+  },
+  {
+    "thrombosis": "PROBLEM"
+  },
+  {
+    "pericardial fluid": "PROBLEM"
+  },
+  {
+    "CT scan": "TEST"
+  },
+  {
+    "pericardectomy": "TREATMENT"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "bilateral pleural effusion": "PROBLEM"
+  },
+  {
+    "mediastinal lymph node": "PROBLEM"
+  },
+  {
+    "pathology": "TEST"
+  },
+  {
+    "mesothelioma": "PROBLEM"
+  },
+  {
+    "chest tube placement": "TREATMENT"
+  },
+  {
+    "thoracoscopy": "TREATMENT"
+  },
+  {
+    "fluid biopsies": "TREATMENT"
+  },
+  {
+    "epithelioid malignant mesothelioma": "PROBLEM"
+  },
+  {
+    "PET CT": "TEST"
+  },
+  {
+    "lymphadenopathy": "PROBLEM"
+  },
+  {
+    "acidic fluid": "PROBLEM"
+  },
+  {
+    "pectoral and intramammary lymph nodes": "PROBLEM"
+  },
+  {
+    "intramammary lymph nodes": "PROBLEM"
+  },
+  {
+    "SUV": "TEST"
+  },
+  {
+    "stage III disease": "PROBLEM"
+  },
+  {
+    "ejection fraction": "TEST"
+  },
+  {
+    "chemotherapy": "TREATMENT"
+  },
+  {
+    "cisplatin": "DRUG"
+  },
+  {
+    "Alimta": "DRUG"
+  },
+  {
+    "IV piggyback": "TREATMENT"
+  },
+  {
+    "Port-A-Cath": "TREATMENT"
+  },
+  {
+    "heparin": "DRUG"
+  },
+  {
+    "Zofran": "DRUG"
+  },
+  {
+    "Phenergan": "DRUG"
+  },
+  {
+    "Coumadin": "DRUG"
+  },
+  {
+    "Lovenox": "DRUG"
+  },
+  {
+    "Vicodin": "DRUG"
+  },
+  {
+    "INR": "TEST"
+  }
+]

@@ -1,0 +1,203 @@
+[
+  {
+    "acute distress": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "hemorrhages": "PROBLEM"
+  },
+  {
+    "discopathy": "PROBLEM"
+  },
+  {
+    "tympanic membranes": "TEST"
+  },
+  {
+    "funduscopic exam": "TEST"
+  },
+  {
+    "pulse oximetry": "TEST"
+  },
+  {
+    "GCS": "TEST"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "pulse": "TEST"
+  },
+  {
+    "respirations": "TEST"
+  },
+  {
+    "temperature": "TEST"
+  },
+  {
+    "pupils": "TEST"
+  },
+  {
+    "irises": "TEST"
+  },
+  {
+    "funduscopic": "TEST"
+  },
+  {
+    "tympanic membranes": "TEST"
+  },
+  {
+    "hearing": "TEST"
+  },
+  {
+    "lips": "TEST"
+  },
+  {
+    "teeth": "TEST"
+  },
+  {
+    "gums": "TEST"
+  },
+  {
+    "palate": "TEST"
+  },
+  {
+    "posterior oropharynx": "TEST"
+  },
+  {
+    "tonsillar enlargement": "TEST"
+  },
+  {
+    "crypt formation": "TEST"
+  },
+  {
+    "abscess": "TEST"
+  },
+  {
+    "neck": "TEST"
+  },
+  {
+    "thyroid": "TEST"
+  },
+  {
+    "JVD": "TEST"
+  },
+  {
+    "cardiac palpation": "TEST"
+  },
+  {
+    "pulses": "TEST"
+  },
+  {
+    "femoral": "TEST"
+  },
+  {
+    "pedal": "TEST"
+  },
+  {
+    "peripheral edema": "TEST"
+  },
+  {
+    "tenderness": "TEST"
+  },
+  {
+    "hepatosplenomegaly": "TEST"
+  },
+  {
+    "hernia": "TEST"
+  },
+  {
+    "bowel sounds": "TEST"
+  },
+  {
+    "abdomen": "TEST"
+  },
+  {
+    "rebound": "TEST"
+  },
+  {
+    "guarding": "TEST"
+  },
+  {
+    "rigidity": "TEST"
+  },
+  {
+    "ecchymosis": "TEST"
+  },
+  {
+    "gait": "TEST"
+  },
+  {
+    "station": "TEST"
+  },
+  {
+    "digits": "TEST"
+  },
+  {
+    "nails": "TEST"
+  },
+  {
+    "extremities": "TEST"
+  },
+  {
+    "tenderness": "TEST"
+  },
+  {
+    "effusion": "TEST"
+  },
+  {
+    "range of motion": "TEST"
+  },
+  {
+    "strength": "TEST"
+  },
+  {
+    "tone": "TEST"
+  },
+  {
+    "back": "TEST"
+  },
+  {
+    "midline": "TEST"
+  },
+  {
+    "cranial nerves": "TEST"
+  },
+  {
+    "DTRs": "TEST"
+  },
+  {
+    "motor strength": "TEST"
+  },
+  {
+    "straight leg raise": "TEST"
+  },
+  {
+    "judgment": "TEST"
+  },
+  {
+    "insight": "TEST"
+  },
+  {
+    "memory": "TEST"
+  },
+  {
+    "mood": "TEST"
+  },
+  {
+    "delusions": "TEST"
+  },
+  {
+    "hallucinations": "TEST"
+  },
+  {
+    "suicidal or homicidal ideation": "TEST"
+  },
+  {
+    "homicidal ideation": "TEST"
+  }
+]

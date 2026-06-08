@@ -1,0 +1,56 @@
+[
+  {
+    "Bronchiolitis": "PROBLEM"
+  },
+  {
+    "respiratory syncytial virus": "PROBLEM"
+  },
+  {
+    "Innocent heart murmur": "PROBLEM"
+  },
+  {
+    "RSV": "TEST"
+  },
+  {
+    "chest x-ray": "TEST"
+  },
+  {
+    "perihilar infiltrate": "PROBLEM"
+  },
+  {
+    "tachypnea": "PROBLEM"
+  },
+  {
+    "retractions": "PROBLEM"
+  },
+  {
+    "grunting": "PROBLEM"
+  },
+  {
+    "nasal flaring": "PROBLEM"
+  },
+  {
+    "albuterol MDI": "DRUG"
+  },
+  {
+    "systolic murmur": "PROBLEM"
+  },
+  {
+    "wheezes": "PROBLEM"
+  },
+  {
+    "dyspnea": "PROBLEM"
+  },
+  {
+    "crackles": "PROBLEM"
+  },
+  {
+    "respiratory distress": "PROBLEM"
+  },
+  {
+    "bulb suctioning": "TREATMENT"
+  },
+  {
+    "saline": "TREATMENT"
+  }
+]

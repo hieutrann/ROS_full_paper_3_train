@@ -1,0 +1,47 @@
+[
+  {
+    "Diabetes Mellitus": "PROBLEM"
+  },
+  {
+    "diabetic neuropathy": "PROBLEM"
+  },
+  {
+    "Scalp laceration": "PROBLEM"
+  },
+  {
+    "Elevated Alk Phos": "PROBLEM"
+  },
+  {
+    "SGGT": "TEST"
+  },
+  {
+    "hepatic panel": "TEST"
+  },
+  {
+    "Ace Inhibitor": "DRUG"
+  },
+  {
+    "Lantus": "DRUG"
+  },
+  {
+    "Prilosec OTC": "DRUG"
+  },
+  {
+    "Nexium": "DRUG"
+  },
+  {
+    "Viagra": "DRUG"
+  },
+  {
+    "NPH": "DRUG"
+  },
+  {
+    "Regular insulin": "DRUG"
+  },
+  {
+    "low dose Ace Inhibitor": "TREATMENT"
+  },
+  {
+    "PHYSICAL": "TREATMENT"
+  }
+]

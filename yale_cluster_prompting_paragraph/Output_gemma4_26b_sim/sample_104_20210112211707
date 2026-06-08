@@ -1,0 +1,119 @@
+[
+  {
+    "Disseminated Intravascular Coagulation": "PROBLEM"
+  },
+  {
+    "Disseminated intravascular coagulation": "PROBLEM"
+  },
+  {
+    "Streptococcal pneumonia": "PROBLEM"
+  },
+  {
+    "sepsis": "PROBLEM"
+  },
+  {
+    "pneumonia": "PROBLEM"
+  },
+  {
+    "sepsis": "PROBLEM"
+  },
+  {
+    "respiratory failure": "PROBLEM"
+  },
+  {
+    "intubation": "TREATMENT"
+  },
+  {
+    "mechanical ventilation": "TREATMENT"
+  },
+  {
+    "disseminated intravascular coagulation": "PROBLEM"
+  },
+  {
+    "prolonged partial thromboplastin time": "TEST"
+  },
+  {
+    "prothrombin time": "TEST"
+  },
+  {
+    "low fibrinogen": "TEST"
+  },
+  {
+    "elevated D-dimer": "TEST"
+  },
+  {
+    "Bleeding": "PROBLEM"
+  },
+  {
+    "factor replacement": "TREATMENT"
+  },
+  {
+    "platelet infusion": "TREATMENT"
+  },
+  {
+    "coagulopathy": "PROBLEM"
+  },
+  {
+    "intubated": "TREATMENT"
+  },
+  {
+    "respiratory failure": "PROBLEM"
+  },
+  {
+    "conjunctival hemorrhage": "PROBLEM"
+  },
+  {
+    "petechiae": "PROBLEM"
+  },
+  {
+    "ET tube": "TREATMENT"
+  },
+  {
+    "cyanosis": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "platelet count": "TEST"
+  },
+  {
+    "INR": "TEST"
+  },
+  {
+    "PTT": "TEST"
+  },
+  {
+    "fibrinogen": "TEST"
+  },
+  {
+    "D-dimer": "TEST"
+  },
+  {
+    "disseminated intravascular coagulation": "PROBLEM"
+  },
+  {
+    "sepsis": "PROBLEM"
+  },
+  {
+    "pneumococcal disease": "PROBLEM"
+  },
+  {
+    "factor replacement": "TREATMENT"
+  },
+  {
+    "Xigris": "DRUG"
+  },
+  {
+    "coagulopathy": "PROBLEM"
+  },
+  {
+    "elevated fibrinogen": "TEST"
+  },
+  {
+    "low-dose continuous infusion heparin": "DRUG"
+  },
+  {
+    "supportive infusions": "TREATMENT"
+  }
+]

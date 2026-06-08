@@ -1,0 +1,179 @@
+[
+  {
+    "fever of unknown origin": "PROBLEM"
+  },
+  {
+    "polymyositis/dermatomyositis": "PROBLEM"
+  },
+  {
+    "urticarial rash": "PROBLEM"
+  },
+  {
+    "high fevers": "PROBLEM"
+  },
+  {
+    "chest x-ray": "TEST"
+  },
+  {
+    "blood cultures": "TEST"
+  },
+  {
+    "transthoracic echocardiogram": "TEST"
+  },
+  {
+    "CT scan of the chest": "TEST"
+  },
+  {
+    "CT abdomen": "TEST"
+  },
+  {
+    "pelvis Results CT": "TEST"
+  },
+  {
+    "serologies for CMV": "TEST"
+  },
+  {
+    "CMV blood PCR": "TEST"
+  },
+  {
+    "serologies for EBV": "TEST"
+  },
+  {
+    "serologies for EBV Legionella": "TEST"
+  },
+  {
+    "Chlamydia": "TEST"
+  },
+  {
+    "Mycoplasma": "TEST"
+  },
+  {
+    "Coccidioides and": "TEST"
+  },
+  {
+    "cryptococcal antigen": "TEST"
+  },
+  {
+    "PPD": "TEST"
+  },
+  {
+    "bronchoscopy": "TEST"
+  },
+  {
+    "BAL": "TEST"
+  },
+  {
+    "transbronchial biopsies": "TEST"
+  },
+  {
+    "methotrexate": "DRUG"
+  },
+  {
+    "prednisone": "DRUG"
+  },
+  {
+    "ganciclovir": "DRUG"
+  },
+  {
+    "ibuprofen": "DRUG"
+  },
+  {
+    "acetaminophen": "DRUG"
+  },
+  {
+    "folic acid": "DRUG"
+  },
+  {
+    "Advair 100/50": "DRUG"
+  },
+  {
+    "Disseminated CMV infection": "PROBLEM"
+  },
+  {
+    "CMV pneumonitis": "PROBLEM"
+  },
+  {
+    "polymyositis": "PROBLEM"
+  },
+  {
+    "CMV infection": "PROBLEM"
+  },
+  {
+    "pneumocystis": "PROBLEM"
+  },
+  {
+    "fungal infection": "PROBLEM"
+  },
+  {
+    "AFB": "PROBLEM"
+  },
+  {
+    "interstitial fibrosis": "PROBLEM"
+  },
+  {
+    "interstitial infiltrates": "PROBLEM"
+  },
+  {
+    "nonspecific interstitial fibrosis": "PROBLEM"
+  },
+  {
+    "CMV pneumonitis": "PROBLEM"
+  },
+  {
+    "infection": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "illness": "PROBLEM"
+  },
+  {
+    "interstitial": "PROBLEM"
+  },
+  {
+    "nondiagnostic": "PROBLEM"
+  },
+  {
+    "CMV": "PROBLEM"
+  },
+  {
+    "methotrexate": "DRUG"
+  },
+  {
+    "prednisone": "DRUG"
+  },
+  {
+    "ganciclovir": "DRUG"
+  },
+  {
+    "ibuprofen": "DRUG"
+  },
+  {
+    "acetaminophen": "DRUG"
+  },
+  {
+    "folic acid": "DRUG"
+  },
+  {
+    "Advair 100/50": "DRUG"
+  },
+  {
+    "ganciclovir": "DRUG"
+  },
+  {
+    "methotrexate": "DRUG"
+  },
+  {
+    "ibuprofen": "DRUG"
+  },
+  {
+    "Tylenol": "DRUG"
+  },
+  {
+    "folic acid": "DRUG"
+  },
+  {
+    "methotrexate": "DRUG"
+  }
+]

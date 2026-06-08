@@ -1,0 +1,254 @@
+[
+  {
+    "Respiratory distress syndrome": "PROBLEM"
+  },
+  {
+    "intrauterine growth restriction": "PROBLEM"
+  },
+  {
+    "thrombocytopenia": "PROBLEM"
+  },
+  {
+    "hypoglycemia": "PROBLEM"
+  },
+  {
+    "retinal immaturity": "PROBLEM"
+  },
+  {
+    "small for gestational age": "PROBLEM"
+  },
+  {
+    "Respiratory distress syndrome": "PROBLEM"
+  },
+  {
+    "intrauterine growth restriction": "PROBLEM"
+  },
+  {
+    "thrombocytopenia": "PROBLEM"
+  },
+  {
+    "hypoglycemia": "PROBLEM"
+  },
+  {
+    "retinal immaturity": "PROBLEM"
+  },
+  {
+    "small for gestational age": "PROBLEM"
+  },
+  {
+    "low amniotic fluid index": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "preeclampsia": "PROBLEM"
+  },
+  {
+    "C-section": "TREATMENT"
+  },
+  {
+    "nonreassuring fetal status": "PROBLEM"
+  },
+  {
+    "Apgar scores": "TEST"
+  },
+  {
+    "TPN": "TREATMENT"
+  },
+  {
+    "p.o.": "TREATMENT"
+  },
+  {
+    "feeds": "TREATMENT"
+  },
+  {
+    "expressed breast milk": "TREATMENT"
+  },
+  {
+    "abdominal distention": "PROBLEM"
+  },
+  {
+    "feeds": "TREATMENT"
+  },
+  {
+    "IV D10 water": "TREATMENT"
+  },
+  {
+    "Mylicon drops": "DRUG"
+  },
+  {
+    "glycerin suppositories": "TREATMENT"
+  },
+  {
+    "Abdominal ultrasound": "TEST"
+  },
+  {
+    "gaseous distention": "PROBLEM"
+  },
+  {
+    "obstruction": "PROBLEM"
+  },
+  {
+    "OG tube": "TREATMENT"
+  },
+  {
+    "feedings": "TREATMENT"
+  },
+  {
+    "Reglan": "DRUG"
+  },
+  {
+    "22-cal NeoSure": "DRUG"
+  },
+  {
+    "apnea spells": "PROBLEM"
+  },
+  {
+    "bradycardia": "PROBLEM"
+  },
+  {
+    "desaturations": "PROBLEM"
+  },
+  {
+    "HYPOGLYCEMIA": "PROBLEM"
+  },
+  {
+    "hypoglycemic episodes": "PROBLEM"
+  },
+  {
+    "Blood glucose level": "TEST"
+  },
+  {
+    "D10": "DRUG"
+  },
+  {
+    "hypoglycemic episodes": "PROBLEM"
+  },
+  {
+    "Diazoxide": "DRUG"
+  },
+  {
+    "fingersticks": "TEST"
+  },
+  {
+    "blood glucose level": "PROBLEM"
+  },
+  {
+    "diazoxide": "DRUG"
+  },
+  {
+    "hypoglycemic issues": "PROBLEM"
+  },
+  {
+    "Diazoxide": "DRUG"
+  },
+  {
+    "hypoglycemic issues": "PROBLEM"
+  },
+  {
+    "Diazoxide": "DRUG"
+  },
+  {
+    "Blood glucose level": "PROBLEM"
+  },
+  {
+    "diazoxide": "DRUG"
+  },
+  {
+    "diazoxide": "DRUG"
+  },
+  {
+    "blood glucose levels": "TEST"
+  },
+  {
+    "PDA": "PROBLEM"
+  },
+  {
+    "cardiac echograms": "TEST"
+  },
+  {
+    "right coronary artery": "PROBLEM"
+  },
+  {
+    "left main": "PROBLEM"
+  },
+  {
+    "left anterior descending coronary artery": "PROBLEM"
+  },
+  {
+    "circumflex coronary artery": "PROBLEM"
+  },
+  {
+    "head ultrasound": "TEST"
+  },
+  {
+    "intracranial abnormalities": "PROBLEM"
+  },
+  {
+    "intracranial hemorrhage": "PROBLEM"
+  },
+  {
+    "ultrasound": "TEST"
+  },
+  {
+    "intracranial hemorrhage": "PROBLEM"
+  },
+  {
+    "antibiotics": "DRUG"
+  },
+  {
+    "antibiotics": "DRUG"
+  },
+  {
+    "phototherapy": "TREATMENT"
+  },
+  {
+    "iron": "DRUG"
+  },
+  {
+    "immature retina": "PROBLEM"
+  },
+  {
+    "followup exam": "TEST"
+  },
+  {
+    "preemie": "PROBLEM"
+  },
+  {
+    "CPR": "TREATMENT"
+  },
+  {
+    "Calcium challenge": "TEST"
+  },
+  {
+    "NeoSure": "DRUG"
+  },
+  {
+    "expressed breast milk": "TREATMENT"
+  },
+  {
+    "preeclampsia": "PROBLEM"
+  },
+  {
+    "immaturity": "PROBLEM"
+  },
+  {
+    "intrauterine": "PROBLEM"
+  },
+  {
+    "coronary artery": "PROBLEM"
+  },
+  {
+    "blood glucose": "TEST"
+  },
+  {
+    "intracranial": "PROBLEM"
+  },
+  {
+    "hypoglycemia": "PROBLEM"
+  },
+  {
+    "hypoglycemic": "PROBLEM"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "104 degrees F": "TEST"
+  },
+  {
+    "degenerative disk disease": "PROBLEM"
+  },
+  {
+    "hip pain": "PROBLEM"
+  },
+  {
+    "sacroiliac type hip pain": "PROBLEM"
+  },
+  {
+    "febrile agglutinins": "TEST"
+  },
+  {
+    "blood glucose": "TEST"
+  },
+  {
+    "MRIs": "TEST"
+  },
+  {
+    "x-rays": "TEST"
+  },
+  {
+    "brucellosis": "PROBLEM"
+  },
+  {
+    "hypertensive": "PROBLEM"
+  },
+  {
+    "Motrin": "DRUG"
+  },
+  {
+    "Darvocet": "DRUG"
+  },
+  {
+    "antibiotics": "DRUG"
+  },
+  {
+    "triple-phase bone scan": "TEST"
+  }
+]

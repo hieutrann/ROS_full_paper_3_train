@@ -1,0 +1,470 @@
+[
+  {
+    "acute pancreatitis": "PROBLEM"
+  },
+  {
+    "amylase": "TEST"
+  },
+  {
+    "lipase": "TEST"
+  },
+  {
+    "pancreatitis": "PROBLEM"
+  },
+  {
+    "Abdominal pain": "PROBLEM"
+  },
+  {
+    "Dr": "TREATMENT"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "acute pancreatitis": "PROBLEM"
+  },
+  {
+    "amylase": "TEST"
+  },
+  {
+    "lipase": "TEST"
+  },
+  {
+    "dementia of Alzheimer type": "PROBLEM"
+  },
+  {
+    "anxiety": "PROBLEM"
+  },
+  {
+    "Osteoarthrosis": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "POLLENS": "PROBLEM"
+  },
+  {
+    "alprazolam": "DRUG"
+  },
+  {
+    "mirtazapine": "DRUG"
+  },
+  {
+    "Aricept": "DRUG"
+  },
+  {
+    "Namenda": "DRUG"
+  },
+  {
+    "Benicar": "DRUG"
+  },
+  {
+    "Claritin": "DRUG"
+  },
+  {
+    "FAMILY HISTORY": "PROBLEM"
+  },
+  {
+    "Not available": "PROBLEM"
+  },
+  {
+    "Not available": "PROBLEM"
+  },
+  {
+    "dementia": "PROBLEM"
+  },
+  {
+    "acute distress": "PROBLEM"
+  },
+  {
+    "Temperature": "TEST"
+  },
+  {
+    "pulse": "TEST"
+  },
+  {
+    "respirations": "TEST"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "pulse ox": "TEST"
+  },
+  {
+    "Atraumatic": "PROBLEM"
+  },
+  {
+    "pupils": "TEST"
+  },
+  {
+    "Sclerae": "TEST"
+  },
+  {
+    "conjunctivae": "TEST"
+  },
+  {
+    "pharyngeal inflammation": "PROBLEM"
+  },
+  {
+    "exudate": "PROBLEM"
+  },
+  {
+    "Oral mucosa": "PROBLEM"
+  },
+  {
+    "jugular venous distention": "PROBLEM"
+  },
+  {
+    "Carotids": "TEST"
+  },
+  {
+    "bruit": "PROBLEM"
+  },
+  {
+    "Thyroid gland": "PROBLEM"
+  },
+  {
+    "lymph nodes": "PROBLEM"
+  },
+  {
+    "S1": "TEST"
+  },
+  {
+    "S2": "TEST"
+  },
+  {
+    "murmur": "PROBLEM"
+  },
+  {
+    "auscultation": "TEST"
+  },
+  {
+    "diffusely tender": "PROBLEM"
+  },
+  {
+    "rebound": "PROBLEM"
+  },
+  {
+    "Bowel sounds": "TEST"
+  },
+  {
+    "epigastric region": "PROBLEM"
+  },
+  {
+    "pedal edema": "PROBLEM"
+  },
+  {
+    "dorsalis pedis pulsations": "TEST"
+  },
+  {
+    "BREASTS": "PROBLEM"
+  },
+  {
+    "decubitus": "PROBLEM"
+  },
+  {
+    "skin changes": "PROBLEM"
+  },
+  {
+    "WBC": "TEST"
+  },
+  {
+    "hemoglobin": "TEST"
+  },
+  {
+    "hematocrit": "TEST"
+  },
+  {
+    "MCV": "TEST"
+  },
+  {
+    "platelet count": "TEST"
+  },
+  {
+    "PT": "TEST"
+  },
+  {
+    "INR": "TEST"
+  },
+  {
+    "PTT": "TEST"
+  },
+  {
+    "Urinalysis": "TEST"
+  },
+  {
+    "nitrite": "TEST"
+  },
+  {
+    "wbc's": "TEST"
+  },
+  {
+    "bacteria": "TEST"
+  },
+  {
+    "Sodium": "TEST"
+  },
+  {
+    "potassium": "TEST"
+  },
+  {
+    "chloride": "TEST"
+  },
+  {
+    "bicarbonate": "TEST"
+  },
+  {
+    "calcium": "TEST"
+  },
+  {
+    "BUN": "TEST"
+  },
+  {
+    "creatinine": "TEST"
+  },
+  {
+    "albumin": "TEST"
+  },
+  {
+    "alkaline phosphatase": "TEST"
+  },
+  {
+    "ALT": "TEST"
+  },
+  {
+    "AST": "TEST"
+  },
+  {
+    "amylase": "TEST"
+  },
+  {
+    "lipase": "TEST"
+  },
+  {
+    "splenic granulomas": "PROBLEM"
+  },
+  {
+    "degenerative spine changes": "PROBLEM"
+  },
+  {
+    "X-ray": "TEST"
+  },
+  {
+    "acute pancreatitis": "PROBLEM"
+  },
+  {
+    "cardiomegaly": "PROBLEM"
+  },
+  {
+    "atelectasis": "PROBLEM"
+  },
+  {
+    "CT": "TEST"
+  },
+  {
+    "echogenic liver": "PROBLEM"
+  },
+  {
+    "fatty infiltration": "PROBLEM"
+  },
+  {
+    "CBC": "TEST"
+  },
+  {
+    "white count": "TEST"
+  },
+  {
+    "hemoglobin": "TEST"
+  },
+  {
+    "hematocrit": "TEST"
+  },
+  {
+    "platelet count": "TEST"
+  },
+  {
+    "segments": "TEST"
+  },
+  {
+    "bands": "TEST"
+  },
+  {
+    "Sodium": "TEST"
+  },
+  {
+    "potassium": "TEST"
+  },
+  {
+    "chloride": "TEST"
+  },
+  {
+    "bicarbonate": "TEST"
+  },
+  {
+    "glucose": "TEST"
+  },
+  {
+    "ALT": "TEST"
+  },
+  {
+    "AST": "TEST"
+  },
+  {
+    "amylase": "TEST"
+  },
+  {
+    "lipase": "TEST"
+  },
+  {
+    "cultures": "TEST"
+  },
+  {
+    "sinus rhythm": "TEST"
+  },
+  {
+    "ventricular premature complexes": "PROBLEM"
+  },
+  {
+    "Troponin": "TEST"
+  },
+  {
+    "myoglobin": "TEST"
+  },
+  {
+    "ASSESSMENT": "TREATMENT"
+  },
+  {
+    "Acute pancreatitis": "PROBLEM"
+  },
+  {
+    "2": "TEST"
+  },
+  {
+    "Leukocytosis": "PROBLEM"
+  },
+  {
+    "3": "PROBLEM"
+  },
+  {
+    "Urinary tract infection": "PROBLEM"
+  },
+  {
+    "4": "TREATMENT"
+  },
+  {
+    "Hyponatremia": "PROBLEM"
+  },
+  {
+    "5": "TREATMENT"
+  },
+  {
+    "Dementia": "PROBLEM"
+  },
+  {
+    "6": "TEST"
+  },
+  {
+    "Anxiety": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "8": "PROBLEM"
+  },
+  {
+    "electrocardiogram": "TEST"
+  },
+  {
+    "9": "PROBLEM"
+  },
+  {
+    "Osteoarthrosis": "PROBLEM"
+  },
+  {
+    "Admit the patient to medical floor": "TREATMENT"
+  },
+  {
+    "NPO": "TREATMENT"
+  },
+  {
+    "IV antibiotics": "DRUG"
+  },
+  {
+    "IV fluids": "DRUG"
+  },
+  {
+    "hold p.o.": "TREATMENT"
+  },
+  {
+    "medications": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "pain control": "TREATMENT"
+  },
+  {
+    "Zofran IV": "DRUG"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  },
+  {
+    "blood and urine cultures I": "TEST"
+  },
+  {
+    "urine cultures": "TEST"
+  },
+  {
+    "leukocytosis": "PROBLEM"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "lipase count": "TEST"
+  },
+  {
+    "platelet count": "TEST"
+  },
+  {
+    "potassium chloride": "DRUG"
+  },
+  {
+    "acute pancreatitis": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "abdominal": "PROBLEM"
+  },
+  {
+    "dementia": "PROBLEM"
+  },
+  {
+    "amylase": "TEST"
+  },
+  {
+    "lipase": "TEST"
+  },
+  {
+    "pancreatitis": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  }
+]

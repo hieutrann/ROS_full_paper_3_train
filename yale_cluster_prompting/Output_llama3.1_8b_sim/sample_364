@@ -1,0 +1,347 @@
+[
+  {
+    "Pap": "TEST"
+  },
+  {
+    "Pap": "TEST"
+  },
+  {
+    "breast exam": "TEST"
+  },
+  {
+    "Pap smear": "TEST"
+  },
+  {
+    "midchest pain": "PROBLEM"
+  },
+  {
+    "pain that seems to go to her back": "PROBLEM"
+  },
+  {
+    "awakened": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "diaphoresis": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "EKG": "TEST"
+  },
+  {
+    "foot surgery": "TREATMENT"
+  },
+  {
+    "Reactive airway disease": "PROBLEM"
+  },
+  {
+    "rheumatoid arthritis": "PROBLEM"
+  },
+  {
+    "iron deficiency anemia": "PROBLEM"
+  },
+  {
+    "osteoporosis": "PROBLEM"
+  },
+  {
+    "hypothyroidism": "PROBLEM"
+  },
+  {
+    "Methotrexate": "DRUG"
+  },
+  {
+    "Fosamax": "DRUG"
+  },
+  {
+    "folic acid": "DRUG"
+  },
+  {
+    "amitriptyline": "DRUG"
+  },
+  {
+    "Synthroid": "DRUG"
+  },
+  {
+    "calcium": "DRUG"
+  },
+  {
+    "multivitamin": "DRUG"
+  },
+  {
+    "baby aspirin": "DRUG"
+  },
+  {
+    "Colace": "DRUG"
+  },
+  {
+    "None": "PROBLEM"
+  },
+  {
+    "tobacco": "PROBLEM"
+  },
+  {
+    "alcohol": "PROBLEM"
+  },
+  {
+    "drug": "PROBLEM"
+  },
+  {
+    "Unremarkable": "PROBLEM"
+  },
+  {
+    "HEENT": "PROBLEM"
+  },
+  {
+    "pulmonary": "PROBLEM"
+  },
+  {
+    "cardiovascular": "PROBLEM"
+  },
+  {
+    "GI": "PROBLEM"
+  },
+  {
+    "GU": "PROBLEM"
+  },
+  {
+    "musculoskeletal": "PROBLEM"
+  },
+  {
+    "neurologic": "PROBLEM"
+  },
+  {
+    "dermatologic": "PROBLEM"
+  },
+  {
+    "constitutional": "PROBLEM"
+  },
+  {
+    "psychiatric": "PROBLEM"
+  },
+  {
+    "HPI": "PROBLEM"
+  },
+  {
+    "Weight": "PROBLEM"
+  },
+  {
+    "Blood pressure": "PROBLEM"
+  },
+  {
+    "Pulse 80": "PROBLEM"
+  },
+  {
+    "Respirations": "PROBLEM"
+  },
+  {
+    "Temperature": "PROBLEM"
+  },
+  {
+    "female": "PROBLEM"
+  },
+  {
+    "HEENT": "PROBLEM"
+  },
+  {
+    "Neck": "PROBLEM"
+  },
+  {
+    "lymphadenopathy": "PROBLEM"
+  },
+  {
+    "thyromegaly": "PROBLEM"
+  },
+  {
+    "Chest": "PROBLEM"
+  },
+  {
+    "Regular rate and rhythm": "PROBLEM"
+  },
+  {
+    "bowel sounds": "PROBLEM"
+  },
+  {
+    "hepatosplenomegaly": "PROBLEM"
+  },
+  {
+    "nipple discharge": "PROBLEM"
+  },
+  {
+    "lumps": "PROBLEM"
+  },
+  {
+    "dimpling of the skin": "PROBLEM"
+  },
+  {
+    "axillary lymph nodes": "PROBLEM"
+  },
+  {
+    "Self-breast exam": "TEST"
+  },
+  {
+    "female genitalia": "PROBLEM"
+  },
+  {
+    "Atrophic vaginal mucosa": "PROBLEM"
+  },
+  {
+    "cervical lesions": "PROBLEM"
+  },
+  {
+    "cervical motion tenderness": "PROBLEM"
+  },
+  {
+    "adnexal tenderness": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "Normal sphincter tone": "PROBLEM"
+  },
+  {
+    "No stool present": "PROBLEM"
+  },
+  {
+    "rectal masses": "PROBLEM"
+  },
+  {
+    "cyanosis": "PROBLEM"
+  },
+  {
+    "clubbing": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "rheumatoid arthritis": "PROBLEM"
+  },
+  {
+    "Neurologic": "PROBLEM"
+  },
+  {
+    "Chest pain": "PROBLEM"
+  },
+  {
+    "The patient will evaluate when it happens next": "PROBLEM"
+  },
+  {
+    "ECG": "TEST"
+  },
+  {
+    "cardiac": "PROBLEM"
+  },
+  {
+    "cardiac workup": "TEST"
+  },
+  {
+    "GI reflux": "PROBLEM"
+  },
+  {
+    "2": "PROBLEM"
+  },
+  {
+    "Hypothyroidism": "PROBLEM"
+  },
+  {
+    "TSH": "TEST"
+  },
+  {
+    "medication": "DRUG"
+  },
+  {
+    "3": "PROBLEM"
+  },
+  {
+    "Rheumatoid arthritis": "PROBLEM"
+  },
+  {
+    "methotrexate": "DRUG"
+  },
+  {
+    "Mortensen": "DRUG"
+  },
+  {
+    "XYZ": "DRUG"
+  },
+  {
+    "4": "PROBLEM"
+  },
+  {
+    "Osteoporosis": "PROBLEM"
+  },
+  {
+    "DEXA": "TEST"
+  },
+  {
+    "5": "PROBLEM"
+  },
+  {
+    "Pap smear": "TEST"
+  },
+  {
+    "mammogram": "TEST"
+  },
+  {
+    "rheumatoid arthritis": "PROBLEM"
+  },
+  {
+    "masses palpated": "PROBLEM"
+  },
+  {
+    "lymphadenopathy": "PROBLEM"
+  },
+  {
+    "tenderness": "PROBLEM"
+  },
+  {
+    "pap smear": "TEST"
+  },
+  {
+    "breast exam": "TEST"
+  },
+  {
+    "chest": "TEST"
+  },
+  {
+    "cervical": "TEST"
+  },
+  {
+    "rectal": "TEST"
+  },
+  {
+    "cardiac": "TEST"
+  },
+  {
+    "physical": "TEST"
+  },
+  {
+    "smear": "TEST"
+  },
+  {
+    "rheumatoid": "PROBLEM"
+  },
+  {
+    "arthritis": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "breast": "PROBLEM"
+  },
+  {
+    "palpated": "PROBLEM"
+  },
+  {
+    "pap": "TEST"
+  }
+]

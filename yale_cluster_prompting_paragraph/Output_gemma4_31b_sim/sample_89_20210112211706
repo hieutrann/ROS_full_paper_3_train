@@ -1,0 +1,335 @@
+[
+  {
+    "Coronary Artery Disease": "PROBLEM"
+  },
+  {
+    "coronary artery disease": "PROBLEM"
+  },
+  {
+    "bypass surgery": "TREATMENT"
+  },
+  {
+    "elevated PSA": "PROBLEM"
+  },
+  {
+    "BPH": "PROBLEM"
+  },
+  {
+    "prostate biopsy": "TEST"
+  },
+  {
+    "urinary tract infection": "PROBLEM"
+  },
+  {
+    "antibiotic": "DRUG"
+  },
+  {
+    "fatigue": "PROBLEM"
+  },
+  {
+    "tiredness": "PROBLEM"
+  },
+  {
+    "Coronary artery disease (CAD)": "PROBLEM"
+  },
+  {
+    "bypass surgery": "TREATMENT"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "elevated PSA": "PROBLEM"
+  },
+  {
+    "BPH": "PROBLEM"
+  },
+  {
+    "prostate biopsy": "TEST"
+  },
+  {
+    "urinary tract infection": "PROBLEM"
+  },
+  {
+    "antibiotic": "DRUG"
+  },
+  {
+    "fatigue": "PROBLEM"
+  },
+  {
+    "tiredness": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "diabetes mellitus": "PROBLEM"
+  },
+  {
+    "Cholesterol elevated": "PROBLEM"
+  },
+  {
+    "coronary artery disease": "PROBLEM"
+  },
+  {
+    "coronary artery disease": "PROBLEM"
+  },
+  {
+    "Coronary artery bypass surgery": "TREATMENT"
+  },
+  {
+    "angioplasty": "TREATMENT"
+  },
+  {
+    "prostate biopsies": "TEST"
+  },
+  {
+    "Metformin": "DRUG"
+  },
+  {
+    "Prilosec": "DRUG"
+  },
+  {
+    "Folic acid": "DRUG"
+  },
+  {
+    "Flomax": "DRUG"
+  },
+  {
+    "Metoprolol": "DRUG"
+  },
+  {
+    "Crestor": "DRUG"
+  },
+  {
+    "Claritin": "DRUG"
+  },
+  {
+    "DEMEROL": "DRUG"
+  },
+  {
+    "SULFA": "DRUG"
+  },
+  {
+    "knee surgeries": "TREATMENT"
+  },
+  {
+    "back surgery": "TREATMENT"
+  },
+  {
+    "coronary artery bypass surgery": "TREATMENT"
+  },
+  {
+    "angioplasty": "TREATMENT"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "hyperlipidemia": "PROBLEM"
+  },
+  {
+    "elevated PSA level": "PROBLEM"
+  },
+  {
+    "BPH": "PROBLEM"
+  },
+  {
+    "cancer": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "fatigue": "PROBLEM"
+  },
+  {
+    "tiredness": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "rigors": "PROBLEM"
+  },
+  {
+    "chills": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "rigors": "PROBLEM"
+  },
+  {
+    "cataract": "PROBLEM"
+  },
+  {
+    "glaucoma": "PROBLEM"
+  },
+  {
+    "Shortness of breath": "PROBLEM"
+  },
+  {
+    "pneumonia": "PROBLEM"
+  },
+  {
+    "valley fever": "PROBLEM"
+  },
+  {
+    "Nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "hematemesis": "PROBLEM"
+  },
+  {
+    "melena": "PROBLEM"
+  },
+  {
+    "Frequency": "PROBLEM"
+  },
+  {
+    "urgency": "PROBLEM"
+  },
+  {
+    "muscle weakness": "PROBLEM"
+  },
+  {
+    "TIA": "PROBLEM"
+  },
+  {
+    "CVA": "PROBLEM"
+  },
+  {
+    "seizure disorder": "PROBLEM"
+  },
+  {
+    "anxiety": "PROBLEM"
+  },
+  {
+    "depression": "PROBLEM"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "carotid bruits": "PROBLEM"
+  },
+  {
+    "EKG": "TEST"
+  },
+  {
+    "Normal sinus rhythm": "PROBLEM"
+  },
+  {
+    "incomplete right bundle-branch block": "PROBLEM"
+  },
+  {
+    "H&H": "TEST"
+  },
+  {
+    "BUN": "TEST"
+  },
+  {
+    "creatinine": "TEST"
+  },
+  {
+    "coronary artery disease": "PROBLEM"
+  },
+  {
+    "bypass surgery": "TREATMENT"
+  },
+  {
+    "angioplasty": "TREATMENT"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "Fever": "PROBLEM"
+  },
+  {
+    "urinary tract infection": "PROBLEM"
+  },
+  {
+    "prostatitis": "PROBLEM"
+  },
+  {
+    "Hypertension": "PROBLEM"
+  },
+  {
+    "hyperlipidemia": "PROBLEM"
+  },
+  {
+    "diabetes mellitus": "PROBLEM"
+  },
+  {
+    "prostate surgery": "TREATMENT"
+  },
+  {
+    "antibiotic": "DRUG"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "cardiac workup": "TEST"
+  },
+  {
+    "ischemia": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "coronary artery disease": "PROBLEM"
+  },
+  {
+    "cad": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "diabetes mellitus": "PROBLEM"
+  },
+  {
+    "cholesterol": "TEST"
+  },
+  {
+    "bypass": "TREATMENT"
+  },
+  {
+    "prior bypass surgery": "TREATMENT"
+  },
+  {
+    "urinary tract infection": "PROBLEM"
+  },
+  {
+    "fatigue and tiredness": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "elevated psa": "PROBLEM"
+  },
+  {
+    "surgery": "TREATMENT"
+  },
+  {
+    "infection": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  }
+]

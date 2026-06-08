@@ -1,0 +1,128 @@
+[
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "heart rate": "TEST"
+  },
+  {
+    "conjunctiva": "PROBLEM"
+  },
+  {
+    "pupil": "TEST"
+  },
+  {
+    "ptosis": "PROBLEM"
+  },
+  {
+    "irides": "PROBLEM"
+  },
+  {
+    "Hearing": "TEST"
+  },
+  {
+    "oropharynx": "PROBLEM"
+  },
+  {
+    "mucosa": "PROBLEM"
+  },
+  {
+    "lesion": "PROBLEM"
+  },
+  {
+    "palate": "PROBLEM"
+  },
+  {
+    "tongue": "PROBLEM"
+  },
+  {
+    "tonsil": "PROBLEM"
+  },
+  {
+    "posterior pharynx": "PROBLEM"
+  },
+  {
+    "thyroid gland": "PROBLEM"
+  },
+  {
+    "respiratory effort": "TEST"
+  },
+  {
+    "Auscultation of the lung": "TEST"
+  },
+  {
+    "Auscultation of the heart": "TEST"
+  },
+  {
+    "murmur": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "nipple discharge": "PROBLEM"
+  },
+  {
+    "mass": "PROBLEM"
+  },
+  {
+    "axilla": "PROBLEM"
+  },
+  {
+    "abdomen": "PROBLEM"
+  },
+  {
+    "rebound": "PROBLEM"
+  },
+  {
+    "guarding": "PROBLEM"
+  },
+  {
+    "liver": "PROBLEM"
+  },
+  {
+    "spleen": "PROBLEM"
+  },
+  {
+    "Bowel sounds": "TEST"
+  },
+  {
+    "external genitalia": "PROBLEM"
+  },
+  {
+    "pelvic exam": "TEST"
+  },
+  {
+    "adnexal masses": "PROBLEM"
+  },
+  {
+    "uterus": "PROBLEM"
+  },
+  {
+    "cervical motion tenderness": "PROBLEM"
+  },
+  {
+    "node": "PROBLEM"
+  },
+  {
+    "groin": "PROBLEM"
+  },
+  {
+    "neck area": "PROBLEM"
+  },
+  {
+    "deformity": "PROBLEM"
+  },
+  {
+    "Range of motion": "TEST"
+  },
+  {
+    "Deep tendon reflexes": "TEST"
+  },
+  {
+    "patellar area": "PROBLEM"
+  },
+  {
+    "Sensation": "TEST"
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "Schatzker III tibial plateau fracture": "PROBLEM"
+  },
+  {
+    "medial meniscus tear": "PROBLEM"
+  },
+  {
+    "hypothyroid": "PROBLEM"
+  },
+  {
+    "diabetes mellitus type 2": "PROBLEM"
+  },
+  {
+    "bronchitis": "PROBLEM"
+  },
+  {
+    "congestive heart failure": "PROBLEM"
+  },
+  {
+    "dyspnea": "PROBLEM"
+  },
+  {
+    "thick secretions": "PROBLEM"
+  },
+  {
+    "fluid overload": "PROBLEM"
+  },
+  {
+    "ORIF": "TREATMENT"
+  },
+  {
+    "Open reduction and internal fixation": "TREATMENT"
+  },
+  {
+    "partial medial meniscectomy": "TREATMENT"
+  },
+  {
+    "nebulizer treatment": "TREATMENT"
+  },
+  {
+    "Lasix": "DRUG"
+  },
+  {
+    "Lovenox": "DRUG"
+  },
+  {
+    "Vicodin": "DRUG"
+  },
+  {
+    "Combivent": "DRUG"
+  },
+  {
+    "Zithromax": "DRUG"
+  },
+  {
+    "guaifenesin": "DRUG"
+  },
+  {
+    "CPM machine": "TEST"
+  },
+  {
+    "machine": "TEST"
+  },
+  {
+    "prn pain Combivent": "TEST"
+  }
+]

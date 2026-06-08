@@ -1,0 +1,149 @@
+[
+  {
+    "intractable nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "blood-tinged vomit": "PROBLEM"
+  },
+  {
+    "Nausea & Vomiting": "PROBLEM"
+  },
+  {
+    "ER Visit": "TEST"
+  },
+  {
+    "General Medicine": "TEST"
+  },
+  {
+    "emergency room": "PROBLEM"
+  },
+  {
+    "admission": "PROBLEM"
+  },
+  {
+    "intractable nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "blood-tinged vomit": "PROBLEM"
+  },
+  {
+    "emergency room": "PROBLEM"
+  },
+  {
+    "admission": "PROBLEM"
+  },
+  {
+    "Nonsignificant": "PROBLEM"
+  },
+  {
+    "None": "PROBLEM"
+  },
+  {
+    "alcohol": "PROBLEM"
+  },
+  {
+    "drugs": "PROBLEM"
+  },
+  {
+    "tobacco": "PROBLEM"
+  },
+  {
+    "pregnancy": "PROBLEM"
+  },
+  {
+    "GyneCOLOGICAL HISTORY": "PROBLEM"
+  },
+  {
+    "sodium": "PROBLEM"
+  },
+  {
+    "potassium": "PROBLEM"
+  },
+  {
+    "ALT": "TEST"
+  },
+  {
+    "AST": "TEST"
+  },
+  {
+    "total bilirubin": "TEST"
+  },
+  {
+    "ketones": "PROBLEM"
+  },
+  {
+    "protein": "PROBLEM"
+  },
+  {
+    "esterase": "PROBLEM"
+  },
+  {
+    "rbc": "PROBLEM"
+  },
+  {
+    "bacteria": "PROBLEM"
+  },
+  {
+    "H": "PROBLEM"
+  },
+  {
+    "Phenergan": "DRUG"
+  },
+  {
+    "Zofran": "DRUG"
+  },
+  {
+    "bladder infection": "PROBLEM"
+  },
+  {
+    "Rocephin": "DRUG"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "Maalox": "DRUG"
+  },
+  {
+    "food": "PROBLEM"
+  },
+  {
+    "AST": "TEST"
+  },
+  {
+    "ALT": "TEST"
+  },
+  {
+    "hyperemesis gravidarum": "PROBLEM"
+  },
+  {
+    "IV hydration": "TREATMENT"
+  },
+  {
+    "ALT": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "elevated alt": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  }
+]

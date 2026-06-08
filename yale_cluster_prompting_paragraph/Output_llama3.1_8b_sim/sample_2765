@@ -1,0 +1,59 @@
+[
+  {
+    "Pyelonephritis": "PROBLEM"
+  },
+  {
+    "mucous plugging": "PROBLEM"
+  },
+  {
+    "Hypertension": "PROBLEM"
+  },
+  {
+    "renal insufficiency": "PROBLEM"
+  },
+  {
+    "Anemia": "PROBLEM"
+  },
+  {
+    "Klebsiella": "PROBLEM"
+  },
+  {
+    "Bactrim": "DRUG"
+  },
+  {
+    "IV antibiotics": "DRUG"
+  },
+  {
+    "p.o. Bactrim": "DRUG"
+  },
+  {
+    "ibuprofen": "DRUG"
+  },
+  {
+    "tid": "TEST"
+  },
+  {
+    "cancer and ileal": "TEST"
+  },
+  {
+    "surgery": "TEST"
+  },
+  {
+    "urine": "TEST"
+  },
+  {
+    "surgery": "TREATMENT"
+  },
+  {
+    "irrigated": "TREATMENT"
+  },
+  {
+    "IV antibiotics": "TREATMENT"
+  },
+  {
+    "p.o. Bactrim": "TREATMENT"
+  },
+  {
+    "ibuprofen": "TREATMENT"
+  }
+]

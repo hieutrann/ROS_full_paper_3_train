@@ -1,0 +1,92 @@
+[
+  {
+    "back pain": "PROBLEM"
+  },
+  {
+    "chronic back pain": "PROBLEM"
+  },
+  {
+    "acute back pain": "PROBLEM"
+  },
+  {
+    "intravertebral lumbar disk disease": "PROBLEM"
+  },
+  {
+    "degenerative changes": "PROBLEM"
+  },
+  {
+    "bulging disk": "PROBLEM"
+  },
+  {
+    "testicular cancer": "PROBLEM"
+  },
+  {
+    "GERD": "PROBLEM"
+  },
+  {
+    "irritable bowel syndrome": "PROBLEM"
+  },
+  {
+    "seasonal asthma": "PROBLEM"
+  },
+  {
+    "postnasal drip": "PROBLEM"
+  },
+  {
+    "bilateral carpal tunnel syndrome": "PROBLEM"
+  },
+  {
+    "abdominal teratoma": "PROBLEM"
+  },
+  {
+    "incisional hernia": "PROBLEM"
+  },
+  {
+    "numbness and tingling": "PROBLEM"
+  },
+  {
+    "seizure disorders": "PROBLEM"
+  },
+  {
+    "dizziness": "PROBLEM"
+  },
+  {
+    "HIVES": "PROBLEM"
+  },
+  {
+    "Decadron": "DRUG"
+  },
+  {
+    "Percocet": "DRUG"
+  },
+  {
+    "Colace": "DRUG"
+  },
+  {
+    "lactulose": "DRUG"
+  },
+  {
+    "Protonix": "DRUG"
+  },
+  {
+    "bone scan": "TEST"
+  },
+  {
+    "physical therapy": "TREATMENT"
+  },
+  {
+    "Occupational Therapy": "TREATMENT"
+  },
+  {
+    "gastrointestinal prophylaxis": "TREATMENT"
+  },
+  {
+    "Deep vein thrombosis prophylaxis": "TREATMENT"
+  },
+  {
+    "weight loss plan": "TREATMENT"
+  },
+  {
+    "dietary consult": "TREATMENT"
+  }
+]

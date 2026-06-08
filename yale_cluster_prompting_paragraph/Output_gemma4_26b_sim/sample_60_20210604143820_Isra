@@ -1,0 +1,98 @@
+[
+  {
+    "Upper respiratory illness": "PROBLEM"
+  },
+  {
+    "apnea": "PROBLEM"
+  },
+  {
+    "pertussis": "PROBLEM"
+  },
+  {
+    "respiratory symptoms": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "post-tussive emesis": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "amoxicillin": "DRUG"
+  },
+  {
+    "coughing": "PROBLEM"
+  },
+  {
+    "coughing spells": "PROBLEM"
+  },
+  {
+    "apnea": "PROBLEM"
+  },
+  {
+    "Rocephin": "DRUG"
+  },
+  {
+    "labs": "TEST"
+  },
+  {
+    "nasal discharge": "PROBLEM"
+  },
+  {
+    "rhonchi": "PROBLEM"
+  },
+  {
+    "retractions": "PROBLEM"
+  },
+  {
+    "cyanosis": "PROBLEM"
+  },
+  {
+    "CBC": "TEST"
+  },
+  {
+    "white count": "PROBLEM"
+  },
+  {
+    "differential": "TEST"
+  },
+  {
+    "hemoglobin": "PROBLEM"
+  },
+  {
+    "hematocrit": "PROBLEM"
+  },
+  {
+    "platelets": "PROBLEM"
+  },
+  {
+    "BMP": "TEST"
+  },
+  {
+    "x-ray": "TEST"
+  },
+  {
+    "infiltrate": "PROBLEM"
+  },
+  {
+    "rapid influenza swab": "TEST"
+  },
+  {
+    "rapid RSV": "TEST"
+  },
+  {
+    "pertussis PCR swab": "TEST"
+  },
+  {
+    "pertussis culture": "TEST"
+  },
+  {
+    "Zithromax": "DRUG"
+  },
+  {
+    "emesis": "PROBLEM"
+  }
+]

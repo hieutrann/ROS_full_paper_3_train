@@ -1,0 +1,80 @@
+[
+  {
+    "Acute respiratory failure": "PROBLEM"
+  },
+  {
+    "Severe bronchitis": "PROBLEM"
+  },
+  {
+    "Acute on chronic renal failure": "PROBLEM"
+  },
+  {
+    "Severe hypertension": "PROBLEM"
+  },
+  {
+    "Diastolic dysfunction": "PROBLEM"
+  },
+  {
+    "Hyperlipidemia": "PROBLEM"
+  },
+  {
+    "Coronary artery disease": "PROBLEM"
+  },
+  {
+    "Carcinoma of the breast": "PROBLEM"
+  },
+  {
+    "Right nephrectomy": "PROBLEM"
+  },
+  {
+    "Allergic rhinitis": "PROBLEM"
+  },
+  {
+    "cold symptoms": "PROBLEM"
+  },
+  {
+    "MRSA colonization": "PROBLEM"
+  },
+  {
+    "Metoprolol": "DRUG"
+  },
+  {
+    "Simvastatin": "DRUG"
+  },
+  {
+    "Prednisone": "DRUG"
+  },
+  {
+    "Flonase": "DRUG"
+  },
+  {
+    "Lasix": "DRUG"
+  },
+  {
+    "beta blockers": "DRUG"
+  },
+  {
+    "IV steroids": "TREATMENT"
+  },
+  {
+    "oral steroids": "TREATMENT"
+  },
+  {
+    "steroid nasal spray": "TREATMENT"
+  },
+  {
+    "treatment": "TREATMENT"
+  },
+  {
+    "cardiac catheterization": "TEST"
+  },
+  {
+    "X-ray": "TEST"
+  },
+  {
+    "pro-BNP": "TEST"
+  },
+  {
+    "oximetry": "TEST"
+  }
+]

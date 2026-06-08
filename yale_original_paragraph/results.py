@@ -73,14 +73,14 @@ for sample in os.listdir(model_folder):
         fn_em+= em_ud
         od_em+= em_od
 
-rm_precision = tp_rm/(tp_rm + rm_mm + od_rm)
+rm_precision = tp_rm/(tp_rm + fp_rm + od_rm)
 rm_recall = tp_rm/(tp_rm + fn_rm)
 
-em_precision = tp_em/(tp_em + em_mm + od_em)
+em_precision = tp_em/(tp_em + fp_em + od_em)
 em_recall = tp_em/(tp_em + fn_em)
 
-f1_em = 2*em_precision*em_recall/(em_precision + em_recall)
-f1_rm = 2*rm_precision*rm_recall/(rm_precision + rm_recall)
+f1_em = round(2*em_precision*em_recall/(em_precision + em_recall),4)
+f1_rm = round(2*rm_precision*rm_recall/(rm_precision + rm_recall),4)
 
 print(f"SUMMARY EXACT MATCH: TP {tp_em}, FP {fp_em}, UD {fn_em}, OD {od_em}")
 print(f"MICRO AVERAGE SCORE EXACT MATCH: Precision: {em_precision}, Recall: {em_recall}, F1 score: {f1_em}")
@@ -90,8 +90,10 @@ print(f"MICRO AVERAGE SCORE RELAX MATCH: Precision: {rm_precision}, Recall: {rm_
 
 with open('results.csv', "a", newline="") as f:
     writer = csv.writer(f)
-    if not os.path.isfile('results.csv'):   
+    
+    if not os.path.isfile('results.csv'):    
         writer.writerow(["model", "f1_em", "f1_rm"])
+
     writer.writerow([model_folder, f1_em, f1_rm])
 
         

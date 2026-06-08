@@ -1,0 +1,74 @@
+[
+  {
+    "pneumonia": "PROBLEM"
+  },
+  {
+    "orthopnea": "PROBLEM"
+  },
+  {
+    "paroxysmal nocturnal dyspnea": "PROBLEM"
+  },
+  {
+    "cough with greenish expectoration": "PROBLEM"
+  },
+  {
+    "atrial fibrillation": "PROBLEM"
+  },
+  {
+    "ischemic heart disease": "PROBLEM"
+  },
+  {
+    "end-stage LV systolic dysfunction": "PROBLEM"
+  },
+  {
+    "status post ICD implantation": "PROBLEM"
+  },
+  {
+    "diabetes mellitus": "PROBLEM"
+  },
+  {
+    "diabetic nephropathy and renal failure": "PROBLEM"
+  },
+  {
+    "severe inspiratory and expiratory wheezing": "PROBLEM"
+  },
+  {
+    "fine crepitations": "PROBLEM"
+  },
+  {
+    "II/VI systolic murmur": "PROBLEM"
+  },
+  {
+    "1+ pedal edema": "PROBLEM"
+  },
+  {
+    "Ambien": "DRUG"
+  },
+  {
+    "Coumadin": "DRUG"
+  },
+  {
+    "Diovan": "DRUG"
+  },
+  {
+    "Lantus insulin": "DRUG"
+  },
+  {
+    "Lasix": "DRUG"
+  },
+  {
+    "Novolin R": "DRUG"
+  },
+  {
+    "Toprol XL": "DRUG"
+  },
+  {
+    "Flovent": "DRUG"
+  },
+  {
+    "ICD implantation": "TREATMENT"
+  },
+  {
+    "therapy": "TREATMENT"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "diabetes mellitus": "PROBLEM"
+  },
+  {
+    "cerebrovascular accident": "PROBLEM"
+  },
+  {
+    "neuropathy": "PROBLEM"
+  },
+  {
+    "EMG studies": "TEST"
+  },
+  {
+    "A1c": "TEST"
+  },
+  {
+    "BMP": "TEST"
+  },
+  {
+    "colonoscopy": "TEST"
+  },
+  {
+    "PSA": "TEST"
+  },
+  {
+    "Accu-Cheks": "TEST"
+  },
+  {
+    "insulin": "DRUG"
+  },
+  {
+    "physical examination": "TREATMENT"
+  },
+  {
+    "refill his medications": "TREATMENT"
+  },
+  {
+    "colonoscopy": "TREATMENT"
+  },
+  {
+    "yearly eye exams": "TREATMENT"
+  },
+  {
+    "foot exams": "TREATMENT"
+  }
+]

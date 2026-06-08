@@ -1,0 +1,218 @@
+[
+  {
+    "Respiratory Distress": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "work of breathing": "PROBLEM"
+  },
+  {
+    "ADMITTING DIAGNOSES": "PROBLEM"
+  },
+  {
+    "Respiratory distress": "PROBLEM"
+  },
+  {
+    "2": "TEST"
+  },
+  {
+    "Reactive airways disease": "PROBLEM"
+  },
+  {
+    "DISCHARGE DIAGNOSES": "PROBLEM"
+  },
+  {
+    "Respiratory distress": "PROBLEM"
+  },
+  {
+    "2": "TEST"
+  },
+  {
+    "Reactive airways disease": "PROBLEM"
+  },
+  {
+    "3": "PROBLEM"
+  },
+  {
+    "Pneumonia": "PROBLEM"
+  },
+  {
+    "URI symptoms": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "increased work of breathing": "PROBLEM"
+  },
+  {
+    "Children's Hospital": "TREATMENT"
+  },
+  {
+    "albuterol": "DRUG"
+  },
+  {
+    "corticosteroids": "DRUG"
+  },
+  {
+    "infiltrate": "PROBLEM"
+  },
+  {
+    "atelectasis": "PROBLEM"
+  },
+  {
+    "x-ray": "TEST"
+  },
+  {
+    "radiology": "TEST"
+  },
+  {
+    "antibiotics": "DRUG"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "CRP": "TEST"
+  },
+  {
+    "CBC": "TEST"
+  },
+  {
+    "pneumonia": "PROBLEM"
+  },
+  {
+    "amoxicillin": "DRUG"
+  },
+  {
+    "Zithromax": "DRUG"
+  },
+  {
+    "room air": "TEST"
+  },
+  {
+    "bilateral wheezing": "PROBLEM"
+  },
+  {
+    "tachypnea": "PROBLEM"
+  },
+  {
+    "DISCHARGE PHYSICAL EXAMINATION": "TEST"
+  },
+  {
+    "Oropharynx": "PROBLEM"
+  },
+  {
+    "lymphadenopathy": "PROBLEM"
+  },
+  {
+    "thyromegaly": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "Bilateral basilar wheezing": "PROBLEM"
+  },
+  {
+    "No distress": "PROBLEM"
+  },
+  {
+    "Regular rate and rhythm": "TEST"
+  },
+  {
+    "murmurs": "PROBLEM"
+  },
+  {
+    "peripherally": "TEST"
+  },
+  {
+    "Bowel sounds": "TEST"
+  },
+  {
+    "abdomen": "PROBLEM"
+  },
+  {
+    "hepatosplenomegaly": "PROBLEM"
+  },
+  {
+    "palpation": "TEST"
+  },
+  {
+    "GENITOURINARY": "PROBLEM"
+  },
+  {
+    "EXTREMITIES": "PROBLEM"
+  },
+  {
+    "DISCHARGE INSTRUCTIONS": "TREATMENT"
+  },
+  {
+    "Activity": "TREATMENT"
+  },
+  {
+    "2": "TEST"
+  },
+  {
+    "Diet": "PROBLEM"
+  },
+  {
+    "3": "PROBLEM"
+  },
+  {
+    "Dr.": "TREATMENT"
+  },
+  {
+    "X": "PROBLEM"
+  },
+  {
+    "DISCHARGE MEDICATIONS": "TREATMENT"
+  },
+  {
+    "Xopenex MDI": "DRUG"
+  },
+  {
+    "2": "TEST"
+  },
+  {
+    "QVAR 40": "DRUG"
+  },
+  {
+    "3": "PROBLEM"
+  },
+  {
+    "Amoxicillin": "DRUG"
+  },
+  {
+    "twice daily for 10 days": "TREATMENT"
+  },
+  {
+    "4": "TREATMENT"
+  },
+  {
+    "Zithromax": "DRUG"
+  },
+  {
+    "75 mg": "DRUG"
+  },
+  {
+    "daily for 4 more days": "TREATMENT"
+  },
+  {
+    "Total time for this discharge": "TEST"
+  },
+  {
+    "pneumonia": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "reactive airways disease": "PROBLEM"
+  },
+  {
+    "asthma": "PROBLEM"
+  }
+]

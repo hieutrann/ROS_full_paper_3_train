@@ -1,0 +1,329 @@
+[
+  {
+    "Back Pain": "PROBLEM"
+  },
+  {
+    "chronic back pain": "PROBLEM"
+  },
+  {
+    "chronic back pain": "PROBLEM"
+  },
+  {
+    "acute back pain": "PROBLEM"
+  },
+  {
+    "back pain": "PROBLEM"
+  },
+  {
+    "back pain": "PROBLEM"
+  },
+  {
+    "IV analgesics": "DRUG"
+  },
+  {
+    "Decadron": "DRUG"
+  },
+  {
+    "physical therapy": "TREATMENT"
+  },
+  {
+    "ADLs": "PROBLEM"
+  },
+  {
+    "back pain": "PROBLEM"
+  },
+  {
+    "intravertebral lumbar disk disease": "PROBLEM"
+  },
+  {
+    "degenerative changes": "PROBLEM"
+  },
+  {
+    "bulging disk": "PROBLEM"
+  },
+  {
+    "testicular cancer": "PROBLEM"
+  },
+  {
+    "bone scan": "TEST"
+  },
+  {
+    "bone scan": "TEST"
+  },
+  {
+    "oncologist": "PROBLEM"
+  },
+  {
+    "PENICILLIN": "DRUG"
+  },
+  {
+    "AMOXICILLIN": "DRUG"
+  },
+  {
+    "CEPHALOSPORIN": "DRUG"
+  },
+  {
+    "DOXYCYCLINE": "DRUG"
+  },
+  {
+    "IVP DYE": "TEST"
+  },
+  {
+    "IODINE": "DRUG"
+  },
+  {
+    "SULFA": "DRUG"
+  },
+  {
+    "HIVES": "PROBLEM"
+  },
+  {
+    "HIVES": "PROBLEM"
+  },
+  {
+    "SAP FROM THE MANGO TREE": "PROBLEM"
+  },
+  {
+    "mango product": "PROBLEM"
+  },
+  {
+    "testicular cancer": "PROBLEM"
+  },
+  {
+    "GERD": "PROBLEM"
+  },
+  {
+    "irritable bowel syndrome": "PROBLEM"
+  },
+  {
+    "asthma": "PROBLEM"
+  },
+  {
+    "postnasal drip": "PROBLEM"
+  },
+  {
+    "carpal tunnel syndrome": "PROBLEM"
+  },
+  {
+    "abdominal teratoma": "PROBLEM"
+  },
+  {
+    "incisional hernia": "PROBLEM"
+  },
+  {
+    "alcohol": "DRUG"
+  },
+  {
+    "IV drug use": "PROBLEM"
+  },
+  {
+    "IV drug use or abuse": "PROBLEM"
+  },
+  {
+    "chills": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "shakes": "PROBLEM"
+  },
+  {
+    "tremors": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "palpitations": "PROBLEM"
+  },
+  {
+    "hemoptysis": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "diarrhea": "PROBLEM"
+  },
+  {
+    "constipation": "PROBLEM"
+  },
+  {
+    "hematemesis": "PROBLEM"
+  },
+  {
+    "bowel movement": "PROBLEM"
+  },
+  {
+    "dysuria": "PROBLEM"
+  },
+  {
+    "frequency": "PROBLEM"
+  },
+  {
+    "incomplete bladder emptying": "PROBLEM"
+  },
+  {
+    "voiding difficulties": "PROBLEM"
+  },
+  {
+    "numbness and tingling": "PROBLEM"
+  },
+  {
+    "carpal tunnel syndrome": "PROBLEM"
+  },
+  {
+    "seizure disorders": "PROBLEM"
+  },
+  {
+    "dizziness": "PROBLEM"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "pulse": "TEST"
+  },
+  {
+    "respirations": "TEST"
+  },
+  {
+    "O2 saturation": "TEST"
+  },
+  {
+    "Normocephalic": "PROBLEM"
+  },
+  {
+    "sclerae": "TEST"
+  },
+  {
+    "EOMI": "TEST"
+  },
+  {
+    "thrush": "PROBLEM"
+  },
+  {
+    "Trachea": "PROBLEM"
+  },
+  {
+    "cervical": "PROBLEM"
+  },
+  {
+    "axillary nodes": "PROBLEM"
+  },
+  {
+    "LUNGS": "TEST"
+  },
+  {
+    "rate and rhythm": "TEST"
+  },
+  {
+    "S1": "TEST"
+  },
+  {
+    "S2": "TEST"
+  },
+  {
+    "Obese": "PROBLEM"
+  },
+  {
+    "clubbing": "PROBLEM"
+  },
+  {
+    "cyanosis": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "calf tenderness": "PROBLEM"
+  },
+  {
+    "Bilateral strength": "TEST"
+  },
+  {
+    "right lower extremity": "PROBLEM"
+  },
+  {
+    "alert": "PROBLEM"
+  },
+  {
+    "oriented": "PROBLEM"
+  },
+  {
+    "Acute on chronic back pain": "PROBLEM"
+  },
+  {
+    "rehabilitation therapy": "TREATMENT"
+  },
+  {
+    "Physical Therapy": "TREATMENT"
+  },
+  {
+    "Occupational Therapy": "TREATMENT"
+  },
+  {
+    "Decadron": "DRUG"
+  },
+  {
+    "Percocet": "DRUG"
+  },
+  {
+    "right orchiectomy": "TREATMENT"
+  },
+  {
+    "testicular cancer": "PROBLEM"
+  },
+  {
+    "bone scan": "TEST"
+  },
+  {
+    "Gastroesophageal reflux disease": "PROBLEM"
+  },
+  {
+    "irritable bowel syndrome": "PROBLEM"
+  },
+  {
+    "gastrointestinal prophylaxis": "TREATMENT"
+  },
+  {
+    "Colace": "DRUG"
+  },
+  {
+    "lactulose": "DRUG"
+  },
+  {
+    "Protonix": "DRUG"
+  },
+  {
+    "Deep vein thrombosis prophylaxis": "TREATMENT"
+  },
+  {
+    "therapies": "TREATMENT"
+  },
+  {
+    "leg exercises": "TREATMENT"
+  },
+  {
+    "Obesity": "PROBLEM"
+  },
+  {
+    "weight loss plan": "TREATMENT"
+  },
+  {
+    "dietary consult": "TREATMENT"
+  },
+  {
+    "decreased ability": "PROBLEM"
+  },
+  {
+    "back pain": "PROBLEM"
+  }
+]

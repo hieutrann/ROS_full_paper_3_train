@@ -1,0 +1,197 @@
+[
+  {
+    "Congestion": "PROBLEM"
+  },
+  {
+    "Cough": "PROBLEM"
+  },
+  {
+    "cold": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "runny nose": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "spitting up": "PROBLEM"
+  },
+  {
+    "Congestion": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "cold": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "runny nose": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "spitting up": "PROBLEM"
+  },
+  {
+    "difficulty breathing": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "physical exam": "TEST"
+  },
+  {
+    "right TM": "TEST"
+  },
+  {
+    "red": "PROBLEM"
+  },
+  {
+    "Left TM": "TEST"
+  },
+  {
+    "congested": "PROBLEM"
+  },
+  {
+    "Amoxil": "DRUG"
+  },
+  {
+    "Aldex": "DRUG"
+  },
+  {
+    "difficulty breathing": "PROBLEM"
+  },
+  {
+    "congested": "PROBLEM"
+  },
+  {
+    "appetite had decreased": "PROBLEM"
+  },
+  {
+    "temperature": "PROBLEM"
+  },
+  {
+    "trouble sleeping": "PROBLEM"
+  },
+  {
+    "congestion": "PROBLEM"
+  },
+  {
+    "Amoxil": "DRUG"
+  },
+  {
+    "Aldex": "DRUG"
+  },
+  {
+    "normal spontaneous vaginal delivery": "TREATMENT"
+  },
+  {
+    "hearing screen": "TEST"
+  },
+  {
+    "respiratory rate": "TEST"
+  },
+  {
+    "congested": "PROBLEM"
+  },
+  {
+    "retractions": "PROBLEM"
+  },
+  {
+    "right TM": "TEST"
+  },
+  {
+    "red": "PROBLEM"
+  },
+  {
+    "irritated": "PROBLEM"
+  },
+  {
+    "light reflex": "TEST"
+  },
+  {
+    "nasal discharge": "PROBLEM"
+  },
+  {
+    "tachycardic": "PROBLEM"
+  },
+  {
+    "murmur": "PROBLEM"
+  },
+  {
+    "diffuse expiratory wheezing": "PROBLEM"
+  },
+  {
+    "clubbing": "PROBLEM"
+  },
+  {
+    "cyanosis": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "chem panel": "TEST"
+  },
+  {
+    "RSV screen": "TEST"
+  },
+  {
+    "Chest x-ray": "TEST"
+  },
+  {
+    "CBC": "TEST"
+  },
+  {
+    "RSV bronchiolitis": "PROBLEM"
+  },
+  {
+    "otitis media": "PROBLEM"
+  },
+  {
+    "Orapred": "DRUG"
+  },
+  {
+    "Rocephin": "DRUG"
+  },
+  {
+    "nebulizer treatments": "TREATMENT"
+  },
+  {
+    "oxygen": "TREATMENT"
+  },
+  {
+    "rsv": "PROBLEM"
+  },
+  {
+    "bronchiolitis": "PROBLEM"
+  },
+  {
+    "otitis media": "PROBLEM"
+  },
+  {
+    "runny nose": "PROBLEM"
+  },
+  {
+    "difficulty breathing": "PROBLEM"
+  },
+  {
+    "congestion": "PROBLEM"
+  },
+  {
+    "congested": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  }
+]

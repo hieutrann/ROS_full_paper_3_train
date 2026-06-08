@@ -1,0 +1,347 @@
+[
+  {
+    "peritoneal carcinomatosis": "PROBLEM"
+  },
+  {
+    "appendiceal primary": "PROBLEM"
+  },
+  {
+    "DATE OF ADMISSION": "TEST"
+  },
+  {
+    "DATE OF DISCHARGE": "PROBLEM"
+  },
+  {
+    "Peritoneal carcinomatosis": "PROBLEM"
+  },
+  {
+    "appendiceal primary": "PROBLEM"
+  },
+  {
+    "Peritoneal carcinomatosis": "PROBLEM"
+  },
+  {
+    "appendiceal primary": "PROBLEM"
+  },
+  {
+    "Diarrhea": "PROBLEM"
+  },
+  {
+    "AB CD": "DRUG"
+  },
+  {
+    "General surgery": "TREATMENT"
+  },
+  {
+    "Surgery Oncology": "TREATMENT"
+  },
+  {
+    "Urology": "PROBLEM"
+  },
+  {
+    "this hospitalization": "TREATMENT"
+  },
+  {
+    "Cystoscopy": "TEST"
+  },
+  {
+    "bilateral externalized ureteral stents": "TREATMENT"
+  },
+  {
+    "pyelograms": "TEST"
+  },
+  {
+    "2": "PROBLEM"
+  },
+  {
+    "Exploratory laparotomy": "TREATMENT"
+  },
+  {
+    "right hemicolectomy": "TREATMENT"
+  },
+  {
+    "cholecystectomy": "TREATMENT"
+  },
+  {
+    "splenectomy": "TREATMENT"
+  },
+  {
+    "omentectomy": "TREATMENT"
+  },
+  {
+    "IPHC": "TREATMENT"
+  },
+  {
+    "mitomycin-C": "DRUG"
+  },
+  {
+    "peritoneal carcinomatosis": "PROBLEM"
+  },
+  {
+    "appendiceal primary": "PROBLEM"
+  },
+  {
+    "peritoneal carcinomatosis": "PROBLEM"
+  },
+  {
+    "baseline labs": "TEST"
+  },
+  {
+    "bowel prep": "TREATMENT"
+  },
+  {
+    "urology consult": "TEST"
+  },
+  {
+    "ureteral stent placement": "TREATMENT"
+  },
+  {
+    "cystoscopy": "TEST"
+  },
+  {
+    "bilateral ureteral stent placement": "TREATMENT"
+  },
+  {
+    "Dr.": "TREATMENT"
+  },
+  {
+    "exploratory laparotomy": "TREATMENT"
+  },
+  {
+    "right hemicolectomy": "TREATMENT"
+  },
+  {
+    "cholecystectomy": "TREATMENT"
+  },
+  {
+    "splenectomy": "TREATMENT"
+  },
+  {
+    "omentectomy": "TREATMENT"
+  },
+  {
+    "IPHC": "TREATMENT"
+  },
+  {
+    "mitomycin-C": "DRUG"
+  },
+  {
+    "complications": "PROBLEM"
+  },
+  {
+    "tachycardia": "PROBLEM"
+  },
+  {
+    "extubation": "TREATMENT"
+  },
+  {
+    "flatus": "PROBLEM"
+  },
+  {
+    "a regular health select diet": "TREATMENT"
+  },
+  {
+    "PCA pump": "TREATMENT"
+  },
+  {
+    "p.o.": "DRUG"
+  },
+  {
+    "pain medicines": "DRUG"
+  },
+  {
+    "pain": "PROBLEM"
+  },
+  {
+    "bed": "PROBLEM"
+  },
+  {
+    "diarrhea": "PROBLEM"
+  },
+  {
+    "right hemicolectomy": "TREATMENT"
+  },
+  {
+    "C. diff toxin": "TEST"
+  },
+  {
+    "Imodium": "DRUG"
+  },
+  {
+    "diarrhea": "PROBLEM"
+  },
+  {
+    "vaccines including pneumococcal": "DRUG"
+  },
+  {
+    "HiB and meningococcal vaccines": "DRUG"
+  },
+  {
+    "meningococcal vaccines": "DRUG"
+  },
+  {
+    "bed": "TREATMENT"
+  },
+  {
+    "afebrile": "PROBLEM"
+  },
+  {
+    "bowel sounds": "PROBLEM"
+  },
+  {
+    "abdomen": "PROBLEM"
+  },
+  {
+    "nondistended": "PROBLEM"
+  },
+  {
+    "nontender": "PROBLEM"
+  },
+  {
+    "midline incision": "PROBLEM"
+  },
+  {
+    "staples": "TREATMENT"
+  },
+  {
+    "postop": "PROBLEM"
+  },
+  {
+    "staples": "TREATMENT"
+  },
+  {
+    "good and stable condition": "PROBLEM"
+  },
+  {
+    "DISCHARGE MEDICATIONS": "TREATMENT"
+  },
+  {
+    "Multivitamins": "DRUG"
+  },
+  {
+    "2": "PROBLEM"
+  },
+  {
+    "Lovenox": "DRUG"
+  },
+  {
+    "40 mg": "DRUG"
+  },
+  {
+    "0.4 mL solution": "DRUG"
+  },
+  {
+    "inject subcutaneously": "TREATMENT"
+  },
+  {
+    "once daily": "TREATMENT"
+  },
+  {
+    "for 14 days": "TREATMENT"
+  },
+  {
+    "3": "PROBLEM"
+  },
+  {
+    "Vicodin": "DRUG"
+  },
+  {
+    "pain": "PROBLEM"
+  },
+  {
+    "4": "PROBLEM"
+  },
+  {
+    "Phenergan": "DRUG"
+  },
+  {
+    "12.5 mg tablets": "DRUG"
+  },
+  {
+    "Phenergan 12.5 mg tablets": "DRUG"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "5": "PROBLEM"
+  },
+  {
+    "Imodium A-D tablets": "DRUG"
+  },
+  {
+    "one tablet": "TREATMENT"
+  },
+  {
+    "by mouth": "TREATMENT"
+  },
+  {
+    "b.i.d.": "TREATMENT"
+  },
+  {
+    "diarrhea": "PROBLEM"
+  },
+  {
+    "any questions or concerns": "PROBLEM"
+  },
+  {
+    "fevers": "PROBLEM"
+  },
+  {
+    "chills": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomitting": "PROBLEM"
+  },
+  {
+    "diarrhea": "PROBLEM"
+  },
+  {
+    "redness": "PROBLEM"
+  },
+  {
+    "drainage": "PROBLEM"
+  },
+  {
+    "warmth": "PROBLEM"
+  },
+  {
+    "Dr": "TREATMENT"
+  },
+  {
+    "staples": "TREATMENT"
+  },
+  {
+    "Dr": "TREATMENT"
+  },
+  {
+    "XYZ": "PROBLEM"
+  },
+  {
+    "carcinomatosis from appendiceal primary": "PROBLEM"
+  },
+  {
+    "tablet by mouth": "TREATMENT"
+  },
+  {
+    "stent placement": "TREATMENT"
+  },
+  {
+    "ureteral stents": "TREATMENT"
+  },
+  {
+    "peritoneal carcinomatosis": "PROBLEM"
+  },
+  {
+    "appendiceal primary": "PROBLEM"
+  },
+  {
+    "hemicolectomy": "TREATMENT"
+  },
+  {
+    "splenectomy": "TREATMENT"
+  }
+]

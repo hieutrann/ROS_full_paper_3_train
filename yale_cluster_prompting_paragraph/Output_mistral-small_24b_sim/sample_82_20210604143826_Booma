@@ -1,0 +1,209 @@
+[
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "tricuspid regurgitation": "PROBLEM"
+  },
+  {
+    "pulmonary hypertension": "PROBLEM"
+  },
+  {
+    "aortic stenosis": "PROBLEM"
+  },
+  {
+    "mitral regurgitation": "PROBLEM"
+  },
+  {
+    "atrial fibrillation": "PROBLEM"
+  },
+  {
+    "atrial tachyarrhythmia": "PROBLEM"
+  },
+  {
+    "multifocal atrial tachycardia": "PROBLEM"
+  },
+  {
+    "wandering atrial pacemaker": "PROBLEM"
+  },
+  {
+    "normal sinus rhythm": "PROBLEM"
+  },
+  {
+    "APCs": "PROBLEM"
+  },
+  {
+    "palpitations": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "dizzy spells": "PROBLEM"
+  },
+  {
+    "syncope": "PROBLEM"
+  },
+  {
+    "bradycardia": "PROBLEM"
+  },
+  {
+    "GERD": "PROBLEM"
+  },
+  {
+    "peripheral edema": "PROBLEM"
+  },
+  {
+    "stroke": "PROBLEM"
+  },
+  {
+    "cancer": "PROBLEM"
+  },
+  {
+    "vomiting of blood": "PROBLEM"
+  },
+  {
+    "coughing up blood": "PROBLEM"
+  },
+  {
+    "bright red blood per rectum": "PROBLEM"
+  },
+  {
+    "bleeding": "PROBLEM"
+  },
+  {
+    "stomach ulcers": "PROBLEM"
+  },
+  {
+    "renal calculi": "PROBLEM"
+  },
+  {
+    "cholelithiasis": "PROBLEM"
+  },
+  {
+    "asthma": "PROBLEM"
+  },
+  {
+    "emphysema": "PROBLEM"
+  },
+  {
+    "pneumonia": "PROBLEM"
+  },
+  {
+    "tuberculosis": "PROBLEM"
+  },
+  {
+    "sleep apnea": "PROBLEM"
+  },
+  {
+    "home oxygen use": "PROBLEM"
+  },
+  {
+    "MI": "PROBLEM"
+  },
+  {
+    "diabetes": "PROBLEM"
+  },
+  {
+    "depressed": "PROBLEM"
+  },
+  {
+    "rheumatologic conditions": "PROBLEM"
+  },
+  {
+    "psoriasis": "PROBLEM"
+  },
+  {
+    "lupus": "PROBLEM"
+  },
+  {
+    "left hip fracture": "PROBLEM"
+  },
+  {
+    "hypokalemia": "PROBLEM"
+  },
+  {
+    "sinus rhythm": "PROBLEM"
+  },
+  {
+    "hip fracture": "PROBLEM"
+  },
+  {
+    "atrial tachycardia": "PROBLEM"
+  },
+  {
+    "rhythm": "PROBLEM"
+  },
+  {
+    "cardiac regurgitation": "PROBLEM"
+  },
+  {
+    "aortic": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "pulmonary": "PROBLEM"
+  },
+  {
+    "Cardizem": "DRUG"
+  },
+  {
+    "Multivitamin": "DRUG"
+  },
+  {
+    "Aspirin": "DRUG"
+  },
+  {
+    "Lisinopril": "DRUG"
+  },
+  {
+    "Felodipine": "DRUG"
+  },
+  {
+    "Klor-Con": "DRUG"
+  },
+  {
+    "Omeprazole": "DRUG"
+  },
+  {
+    "MiraLax": "DRUG"
+  },
+  {
+    "Lasix": "DRUG"
+  },
+  {
+    "Toprol": "DRUG"
+  },
+  {
+    "verapamil": "DRUG"
+  },
+  {
+    "proton pump inhibitors": "DRUG"
+  },
+  {
+    "Persantine Myoview nuclear rest-stress test scan": "TEST"
+  },
+  {
+    "EKGs": "TEST"
+  },
+  {
+    "ECG": "TEST"
+  },
+  {
+    "chest x-ray": "TEST"
+  },
+  {
+    "EKG": "TEST"
+  },
+  {
+    "telemetry": "TEST"
+  },
+  {
+    "left hip surgery": "TREATMENT"
+  }
+]

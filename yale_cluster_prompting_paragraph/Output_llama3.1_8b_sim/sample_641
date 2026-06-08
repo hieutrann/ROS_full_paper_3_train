@@ -1,0 +1,131 @@
+[
+  {
+    "Hypertension": "PROBLEM"
+  },
+  {
+    "atrial fibrillation": "PROBLEM"
+  },
+  {
+    "large cardioembolic stroke": "PROBLEM"
+  },
+  {
+    "Parkinson's": "PROBLEM"
+  },
+  {
+    "TIA": "PROBLEM"
+  },
+  {
+    "chronic atrial fibrillation": "PROBLEM"
+  },
+  {
+    "GERD": "PROBLEM"
+  },
+  {
+    "arthritis": "PROBLEM"
+  },
+  {
+    "Coumadin": "DRUG"
+  },
+  {
+    "Lanoxin": "DRUG"
+  },
+  {
+    "Inderal LA": "DRUG"
+  },
+  {
+    "MOBIC": "DRUG"
+  },
+  {
+    "Robaxin": "DRUG"
+  },
+  {
+    "aspirin": "DRUG"
+  },
+  {
+    "acyclovir": "DRUG"
+  },
+  {
+    "potassium": "DRUG"
+  },
+  {
+    "oxazepam": "DRUG"
+  },
+  {
+    "ibuprofen": "DRUG"
+  },
+  {
+    "Darvocet-N": "DRUG"
+  },
+  {
+    "Cardizem": "DRUG"
+  },
+  {
+    "Digoxin": "DRUG"
+  },
+  {
+    "Brevibloc": "DRUG"
+  },
+  {
+    "Esmolol": "DRUG"
+  },
+  {
+    "STAT echo": "TEST"
+  },
+  {
+    "echocardiogram": "TEST"
+  },
+  {
+    "ultrasound of the leg": "TEST"
+  },
+  {
+    "chest x-ray": "TEST"
+  },
+  {
+    "CT scan of the head": "TEST"
+  },
+  {
+    "shoulder films": "TEST"
+  },
+  {
+    "ABG": "TEST"
+  },
+  {
+    "BMP": "TEST"
+  },
+  {
+    "TSH": "TEST"
+  },
+  {
+    "cholesterol": "TEST"
+  },
+  {
+    "Digoxin level": "TEST"
+  },
+  {
+    "EKG": "TEST"
+  },
+  {
+    "arteriogram": "TEST"
+  },
+  {
+    "a clot has been extracted": "TREATMENT"
+  },
+  {
+    "paralyzation": "TREATMENT"
+  },
+  {
+    "intubation": "TREATMENT"
+  },
+  {
+    "ventilator": "TREATMENT"
+  },
+  {
+    "tube feeds": "TREATMENT"
+  },
+  {
+    "thigh-high TED hose": "TREATMENT"
+  },
+  {
+    "SCDs": "TREATMENT"
+  }
+]

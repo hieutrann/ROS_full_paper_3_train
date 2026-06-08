@@ -1,0 +1,74 @@
+[
+  {
+    "Atypical pneumonia": "PROBLEM"
+  },
+  {
+    "hypoxia": "PROBLEM"
+  },
+  {
+    "rheumatoid arthritis": "PROBLEM"
+  },
+  {
+    "suspected mild stress-induced adrenal insufficiency": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "fevers": "PROBLEM"
+  },
+  {
+    "weakness": "PROBLEM"
+  },
+  {
+    "chills": "PROBLEM"
+  },
+  {
+    "Pneumonia": "PROBLEM"
+  },
+  {
+    "Hypoxia": "PROBLEM"
+  },
+  {
+    "Rheumatoid arthritis": "PROBLEM"
+  },
+  {
+    "Suspected mild stress-induced adrenal insufficiency": "PROBLEM"
+  },
+  {
+    "Initial x-ray": "TEST"
+  },
+  {
+    "CT scan": "TEST"
+  },
+  {
+    "C. difficile toxin": "TEST"
+  },
+  {
+    "Avelox": "DRUG"
+  },
+  {
+    "Augmentin": "DRUG"
+  },
+  {
+    "Rocephin": "DRUG"
+  },
+  {
+    "azithromycin": "DRUG"
+  },
+  {
+    "methotrexate": "DRUG"
+  },
+  {
+    "Remicade": "DRUG"
+  },
+  {
+    "prednisone": "DRUG"
+  },
+  {
+    "Rocephin IV": "TREATMENT"
+  },
+  {
+    "azithromycin": "TREATMENT"
+  }
+]

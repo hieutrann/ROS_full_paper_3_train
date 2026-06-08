@@ -1,0 +1,68 @@
+[
+  {
+    "Refractory anemia": "PROBLEM"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "myelodysplastic syndrome": "PROBLEM"
+  },
+  {
+    "bone marrow failure": "PROBLEM"
+  },
+  {
+    "electrophoresis": "TEST"
+  },
+  {
+    "LDH": "TEST"
+  },
+  {
+    "B12": "TEST"
+  },
+  {
+    "folate": "TEST"
+  },
+  {
+    "erythropoietin level": "TEST"
+  },
+  {
+    "reticulocyte count": "TEST"
+  },
+  {
+    "serum protein": "TEST"
+  },
+  {
+    "bone marrow aspiration and biopsy": "TREATMENT"
+  },
+  {
+    "blood transfusion": "TREATMENT"
+  },
+  {
+    "Procrit": "DRUG"
+  },
+  {
+    "B12": "DRUG"
+  },
+  {
+    "folic acid": "DRUG"
+  },
+  {
+    "Feosol": "DRUG"
+  },
+  {
+    "Lasix": "DRUG"
+  },
+  {
+    "metformin": "DRUG"
+  },
+  {
+    "Coumadin": "DRUG"
+  },
+  {
+    "Prevacid": "DRUG"
+  },
+  {
+    "Diltiazem": "DRUG"
+  }
+]

@@ -1,0 +1,206 @@
+[
+  {
+    "Sepsis": "PROBLEM"
+  },
+  {
+    "CT scan": "TEST"
+  },
+  {
+    "dilated bladder": "PROBLEM"
+  },
+  {
+    "thick wall": "PROBLEM"
+  },
+  {
+    "outlet obstruction": "PROBLEM"
+  },
+  {
+    "bilateral hydronephrosis": "PROBLEM"
+  },
+  {
+    "hydroureter": "PROBLEM"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "IV antibiotics": "TREATMENT"
+  },
+  {
+    "hydration": "TREATMENT"
+  },
+  {
+    "CAD": "PROBLEM"
+  },
+  {
+    "dementia": "PROBLEM"
+  },
+  {
+    "CVA": "PROBLEM"
+  },
+  {
+    "nephrolithiasis": "PROBLEM"
+  },
+  {
+    "Ambien": "DRUG"
+  },
+  {
+    "Milk of magnesia": "DRUG"
+  },
+  {
+    "Tylenol": "DRUG"
+  },
+  {
+    "Tramadol": "DRUG"
+  },
+  {
+    "Soma": "DRUG"
+  },
+  {
+    "Coumadin": "DRUG"
+  },
+  {
+    "Zoloft": "DRUG"
+  },
+  {
+    "Allopurinol": "DRUG"
+  },
+  {
+    "Digoxin": "DRUG"
+  },
+  {
+    "Namenda": "DRUG"
+  },
+  {
+    "Zocor": "DRUG"
+  },
+  {
+    "BuSpar": "DRUG"
+  },
+  {
+    "Detrol": "DRUG"
+  },
+  {
+    "Coreg": "DRUG"
+  },
+  {
+    "Colace": "DRUG"
+  },
+  {
+    "Calcium": "DRUG"
+  },
+  {
+    "Zantac": "DRUG"
+  },
+  {
+    "Lasix": "DRUG"
+  },
+  {
+    "Seroquel": "DRUG"
+  },
+  {
+    "Aldactone": "DRUG"
+  },
+  {
+    "Amoxicillin": "DRUG"
+  },
+  {
+    "bowel sounds": "TEST"
+  },
+  {
+    "CT of the abdomen": "TEST"
+  },
+  {
+    "left inguinal hernia": "PROBLEM"
+  },
+  {
+    "adrenal gland mass": "PROBLEM"
+  },
+  {
+    "White count": "TEST"
+  },
+  {
+    "hemoglobin": "TEST"
+  },
+  {
+    "platelet count": "TEST"
+  },
+  {
+    "UA": "TEST"
+  },
+  {
+    "WBCs": "TEST"
+  },
+  {
+    "RBCs": "TEST"
+  },
+  {
+    "leukocyte esterase": "TEST"
+  },
+  {
+    "Sodium": "TEST"
+  },
+  {
+    "potassium": "TEST"
+  },
+  {
+    "chloride": "TEST"
+  },
+  {
+    "CO2": "TEST"
+  },
+  {
+    "BUN": "TEST"
+  },
+  {
+    "creatinine": "TEST"
+  },
+  {
+    "EKG": "TEST"
+  },
+  {
+    "atrial fibrillation": "PROBLEM"
+  },
+  {
+    "Urinary tract infection": "PROBLEM"
+  },
+  {
+    "Obstructive uropathy": "PROBLEM"
+  },
+  {
+    "Anemia": "PROBLEM"
+  },
+  {
+    "Levaquin": "DRUG"
+  },
+  {
+    "gentamicin": "DRUG"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "SCD": "TREATMENT"
+  },
+  {
+    "TED hose": "TREATMENT"
+  },
+  {
+    "digoxin level": "TEST"
+  },
+  {
+    "PPI": "DRUG"
+  },
+  {
+    "PUD": "PROBLEM"
+  },
+  {
+    "hydronephrosis": "PROBLEM"
+  },
+  {
+    "hydroureter": "PROBLEM"
+  },
+  {
+    "atrial fibrillation": "PROBLEM"
+  }
+]

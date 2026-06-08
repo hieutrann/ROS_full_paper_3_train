@@ -1,0 +1,116 @@
+[
+  {
+    "right foot ulcer": "PROBLEM"
+  },
+  {
+    "osteomyelitis": "PROBLEM"
+  },
+  {
+    "diabetes mellitus": "PROBLEM"
+  },
+  {
+    "methicillin-sensitive Staphylococcus aureus": "PROBLEM"
+  },
+  {
+    "Levaquin": "DRUG"
+  },
+  {
+    "Zyvox": "DRUG"
+  },
+  {
+    "Zosyn": "DRUG"
+  },
+  {
+    "Ancef": "DRUG"
+  },
+  {
+    "debridement": "TREATMENT"
+  },
+  {
+    "MRI": "TEST"
+  },
+  {
+    "bone scan": "TEST"
+  },
+  {
+    "wound VAC placement": "TREATMENT"
+  },
+  {
+    "heart attack": "PROBLEM"
+  },
+  {
+    "liver cancer": "PROBLEM"
+  },
+  {
+    "hypothyroidism": "PROBLEM"
+  },
+  {
+    "cerebral palsy": "PROBLEM"
+  },
+  {
+    "CBC with differential": "TEST"
+  },
+  {
+    "chemistry 7 panel": "TEST"
+  },
+  {
+    "LFTs": "TEST"
+  },
+  {
+    "ESR": "TEST"
+  },
+  {
+    "C-reactive protein levels": "TEST"
+  },
+  {
+    "PICC line": "TREATMENT"
+  },
+  {
+    "wound healing": "TREATMENT"
+  },
+  {
+    "wound care": "TREATMENT"
+  },
+  {
+    "mssa": "PROBLEM"
+  },
+  {
+    "methicillin-sensitive staphylococcus aureus": "PROBLEM"
+  },
+  {
+    "intravenous antibiotic therapy": "TREATMENT"
+  },
+  {
+    "foot ulcer": "PROBLEM"
+  },
+  {
+    "antibiotic management": "TREATMENT"
+  },
+  {
+    "staphylococcus aureus": "PROBLEM"
+  },
+  {
+    "intravenous antibiotic": "TREATMENT"
+  },
+  {
+    "bone scan": "TEST"
+  },
+  {
+    "antibiotic therapy": "TREATMENT"
+  },
+  {
+    "wound care": "TREATMENT"
+  },
+  {
+    "injured": "PROBLEM"
+  },
+  {
+    "wound": "PROBLEM"
+  },
+  {
+    "antibiotic": "DRUG"
+  },
+  {
+    "osteomyelitis": "PROBLEM"
+  }
+]

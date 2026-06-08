@@ -1,0 +1,44 @@
+[
+  {
+    "Abdominal pain": "PROBLEM"
+  },
+  {
+    "sigmoid diverticulitis": "PROBLEM"
+  },
+  {
+    "Abdominal pain": "PROBLEM"
+  },
+  {
+    "CT scan": "TEST"
+  },
+  {
+    "Cipro": "DRUG"
+  },
+  {
+    "Flagyl": "DRUG"
+  },
+  {
+    "metoprolol": "DRUG"
+  },
+  {
+    "Premarin": "DRUG"
+  },
+  {
+    "colonoscopy": "TEST"
+  },
+  {
+    "ER and": "TEST"
+  },
+  {
+    "bowel": "TREATMENT"
+  },
+  {
+    "sigmoid diverticulitis": "PROBLEM"
+  },
+  {
+    "stat CT scan": "TEST"
+  },
+  {
+    "colonoscopy": "TREATMENT"
+  }
+]

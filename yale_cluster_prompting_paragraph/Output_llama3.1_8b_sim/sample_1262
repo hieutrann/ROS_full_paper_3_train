@@ -1,0 +1,89 @@
+[
+  {
+    "mesothelioma": "PROBLEM"
+  },
+  {
+    "pleural effusion": "PROBLEM"
+  },
+  {
+    "atrial fibrillation": "PROBLEM"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "ascites": "PROBLEM"
+  },
+  {
+    "esophageal reflux": "PROBLEM"
+  },
+  {
+    "deep venous thrombosis": "PROBLEM"
+  },
+  {
+    "decortication of the lung": "TREATMENT"
+  },
+  {
+    "pleural biopsy": "TEST"
+  },
+  {
+    "transpleural fluoroscopy": "TEST"
+  },
+  {
+    "thoracentesis": "TEST"
+  },
+  {
+    "Port-A-Cath placement": "TREATMENT"
+  },
+  {
+    "pericardectomy": "TREATMENT"
+  },
+  {
+    "pericardial window": "TREATMENT"
+  },
+  {
+    "cholecystectomy": "TREATMENT"
+  },
+  {
+    "left thoracentesis": "TEST"
+  },
+  {
+    "Coumadin": "DRUG"
+  },
+  {
+    "Amiodarone": "DRUG"
+  },
+  {
+    "cisplatin": "DRUG"
+  },
+  {
+    "Alimta": "DRUG"
+  },
+  {
+    "Zofran": "DRUG"
+  },
+  {
+    "Phenergan": "DRUG"
+  },
+  {
+    "Lovenox": "DRUG"
+  },
+  {
+    "Vicodin": "DRUG"
+  },
+  {
+    "Lovenox 40 mg subcutaneously": "DRUG"
+  },
+  {
+    "cisplatin 75 mg/centimeter squared": "DRUG"
+  },
+  {
+    "Alimta 500 mg/ centimeter squared": "DRUG"
+  },
+  {
+    "IV piggyback": "TREATMENT"
+  },
+  {
+    "chemotherapy": "TREATMENT"
+  }
+]

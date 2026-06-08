@@ -1,0 +1,260 @@
+[
+  {
+    "numbness": "PROBLEM"
+  },
+  {
+    "tingling": "PROBLEM"
+  },
+  {
+    "pain": "PROBLEM"
+  },
+  {
+    "paraesthesias": "PROBLEM"
+  },
+  {
+    "shoulder pains": "PROBLEM"
+  },
+  {
+    "hypothyroidism": "PROBLEM"
+  },
+  {
+    "thrombocythemia": "PROBLEM"
+  },
+  {
+    "insomnia": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "appendectomy": "TREATMENT"
+  },
+  {
+    "bladder obstruction surgery": "TREATMENT"
+  },
+  {
+    "gallbladder surgery": "TREATMENT"
+  },
+  {
+    "C-section": "TREATMENT"
+  },
+  {
+    "varicose vein surgery": "TREATMENT"
+  },
+  {
+    "thyroid gland surgery": "TREATMENT"
+  },
+  {
+    "hernia surgery": "TREATMENT"
+  },
+  {
+    "bilateral mastectomies": "TREATMENT"
+  },
+  {
+    "hysterectomy": "TREATMENT"
+  },
+  {
+    "right shoulder surgery": "TREATMENT"
+  },
+  {
+    "left shoulder surgery": "TREATMENT"
+  },
+  {
+    "laparoscopic bowel adhesion removal": "TREATMENT"
+  },
+  {
+    "Port-A-Cath": "TREATMENT"
+  },
+  {
+    "left total knee arthroplasty": "TREATMENT"
+  },
+  {
+    "left hip pinning": "TREATMENT"
+  },
+  {
+    "colonoscopies": "TEST"
+  },
+  {
+    "right total knee arthroplasty": "TREATMENT"
+  },
+  {
+    "synovitis": "PROBLEM"
+  },
+  {
+    "zoster": "PROBLEM"
+  },
+  {
+    "infection": "PROBLEM"
+  },
+  {
+    "labyrinthitis": "PROBLEM"
+  },
+  {
+    "Sulfa": "DRUG"
+  },
+  {
+    "aspirin": "DRUG"
+  },
+  {
+    "Darvon": "DRUG"
+  },
+  {
+    "codeine": "DRUG"
+  },
+  {
+    "NSAID": "DRUG"
+  },
+  {
+    "amoxicillin": "DRUG"
+  },
+  {
+    "quinine": "DRUG"
+  },
+  {
+    "Hydroxyurea": "DRUG"
+  },
+  {
+    "Metamucil": "DRUG"
+  },
+  {
+    "amitriptyline": "DRUG"
+  },
+  {
+    "Synthroid": "DRUG"
+  },
+  {
+    "Ambien": "DRUG"
+  },
+  {
+    "triamterene/hydrochlorothiazide": "DRUG"
+  },
+  {
+    "Lortab": "DRUG"
+  },
+  {
+    "stroke": "PROBLEM"
+  },
+  {
+    "prostate cancer": "PROBLEM"
+  },
+  {
+    "heart disease": "PROBLEM"
+  },
+  {
+    "diabetes": "PROBLEM"
+  },
+  {
+    "allergies": "PROBLEM"
+  },
+  {
+    "sneezing": "PROBLEM"
+  },
+  {
+    "sore throat": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "palpitations": "PROBLEM"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "blood in the stool": "PROBLEM"
+  },
+  {
+    "dysuria": "PROBLEM"
+  },
+  {
+    "frequency": "PROBLEM"
+  },
+  {
+    "paresthesias": "PROBLEM"
+  },
+  {
+    "shoulder pain": "PROBLEM"
+  },
+  {
+    "spot": "PROBLEM"
+  },
+  {
+    "precancerous condition": "PROBLEM"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "Peripheral neuropathy": "PROBLEM"
+  },
+  {
+    "allergic rhinitis": "PROBLEM"
+  },
+  {
+    "actinic keratosis": "PROBLEM"
+  },
+  {
+    "Neurontin": "DRUG"
+  },
+  {
+    "Anodyne physical therapy": "TREATMENT"
+  },
+  {
+    "CBC": "TEST"
+  },
+  {
+    "sed rate": "TEST"
+  },
+  {
+    "ferritin": "TEST"
+  },
+  {
+    "Hemoccult cards": "TEST"
+  },
+  {
+    "DT immunization": "TREATMENT"
+  },
+  {
+    "flu shot": "TREATMENT"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "bowel sounds": "TEST"
+  },
+  {
+    "hepatosplenomegaly": "PROBLEM"
+  },
+  {
+    "mass": "PROBLEM"
+  },
+  {
+    "ankle edema": "PROBLEM"
+  },
+  {
+    "calf tenderness": "PROBLEM"
+  },
+  {
+    "cyst": "PROBLEM"
+  },
+  {
+    "pedal pulses": "TEST"
+  },
+  {
+    "Deep tendon reflexes": "TEST"
+  },
+  {
+    "focal neurologic deficits": "PROBLEM"
+  },
+  {
+    "brown stool": "PROBLEM"
+  },
+  {
+    "affect": "PROBLEM"
+  }
+]

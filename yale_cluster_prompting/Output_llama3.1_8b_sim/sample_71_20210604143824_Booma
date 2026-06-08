@@ -1,0 +1,272 @@
+[
+  {
+    "decrease in mental alertness": "PROBLEM"
+  },
+  {
+    "Mental changes": "PROBLEM"
+  },
+  {
+    "diabetes": "PROBLEM"
+  },
+  {
+    "meal": "PROBLEM"
+  },
+  {
+    "diabetic medication": "DRUG"
+  },
+  {
+    "decrease in mental alertness": "PROBLEM"
+  },
+  {
+    "GI symptoms": "PROBLEM"
+  },
+  {
+    "sweating": "PROBLEM"
+  },
+  {
+    "agitation": "PROBLEM"
+  },
+  {
+    "rash": "PROBLEM"
+  },
+  {
+    "symptoms": "PROBLEM"
+  },
+  {
+    "glucose": "TEST"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "blood pressure medication": "DRUG"
+  },
+  {
+    "symptoms": "PROBLEM"
+  },
+  {
+    "labetalol": "DRUG"
+  },
+  {
+    "Norvasc": "DRUG"
+  },
+  {
+    "glucose supplement": "DRUG"
+  },
+  {
+    "glucose": "PROBLEM"
+  },
+  {
+    "Diabetes": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "None": "PROBLEM"
+  },
+  {
+    "Unremarkable": "PROBLEM"
+  },
+  {
+    "drug allergies": "PROBLEM"
+  },
+  {
+    "In Spanish label": "DRUG"
+  },
+  {
+    "diabetic medication": "DRUG"
+  },
+  {
+    "blood pressure medication": "DRUG"
+  },
+  {
+    "aspirin": "DRUG"
+  },
+  {
+    "Mazatlan": "PROBLEM"
+  },
+  {
+    "acute distress": "PROBLEM"
+  },
+  {
+    "physical examination": "TEST"
+  },
+  {
+    "interpreter": "TEST"
+  },
+  {
+    "HEENT": "TEST"
+  },
+  {
+    "sinus tenderness": "PROBLEM"
+  },
+  {
+    "head injury": "PROBLEM"
+  },
+  {
+    "Extraocular movements": "TEST"
+  },
+  {
+    "Dry mucosal linings": "PROBLEM"
+  },
+  {
+    "Regular rate and rhythm": "TEST"
+  },
+  {
+    "murmur": "PROBLEM"
+  },
+  {
+    "S1": "TEST"
+  },
+  {
+    "S2": "TEST"
+  },
+  {
+    "LUNGS": "PROBLEM"
+  },
+  {
+    "rales": "PROBLEM"
+  },
+  {
+    "wheeze": "PROBLEM"
+  },
+  {
+    "Good excursion": "TEST"
+  },
+  {
+    "bowel sounds": "TEST"
+  },
+  {
+    "organomegaly": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "clubbing": "PROBLEM"
+  },
+  {
+    "cyanosis": "PROBLEM"
+  },
+  {
+    "rash": "PROBLEM"
+  },
+  {
+    "CPK": "TEST"
+  },
+  {
+    "troponin": "TEST"
+  },
+  {
+    "glucose": "TEST"
+  },
+  {
+    "BUN": "TEST"
+  },
+  {
+    "creatinine": "TEST"
+  },
+  {
+    "potassium": "TEST"
+  },
+  {
+    "Urinalysis": "TEST"
+  },
+  {
+    "specific gravity": "TEST"
+  },
+  {
+    "CT of the brain": "TEST"
+  },
+  {
+    "Chest x-ray": "TEST"
+  },
+  {
+    "cardiomegaly": "PROBLEM"
+  },
+  {
+    "IMPRESSION": "TEST"
+  },
+  {
+    "Hypoglycemia": "PROBLEM"
+  },
+  {
+    "2": "TEST"
+  },
+  {
+    "Hypertension": "PROBLEM"
+  },
+  {
+    "3": "PROBLEM"
+  },
+  {
+    "Renal insufficiency": "PROBLEM"
+  },
+  {
+    "dehydration": "PROBLEM"
+  },
+  {
+    "diabetic nephropathy": "PROBLEM"
+  },
+  {
+    "Admit the patient to the medical ward": "TREATMENT"
+  },
+  {
+    "IV fluid": "TREATMENT"
+  },
+  {
+    "glucometer checks": "TEST"
+  },
+  {
+    "blood pressure medication": "DRUG"
+  },
+  {
+    "diabetic medication": "DRUG"
+  },
+  {
+    "diabetic medication": "DRUG"
+  },
+  {
+    "diabetes": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "hypoglycemia": "PROBLEM"
+  },
+  {
+    "renal insufficiency": "PROBLEM"
+  },
+  {
+    "diabetic nephropathy": "PROBLEM"
+  },
+  {
+    "dehydration": "PROBLEM"
+  },
+  {
+    "iv fluid": "TREATMENT"
+  },
+  {
+    "glucometer checks": "TEST"
+  },
+  {
+    "blood pressure medication": "DRUG"
+  },
+  {
+    "mental alertness": "PROBLEM"
+  },
+  {
+    "blood pressure": "PROBLEM"
+  },
+  {
+    "glucose": "PROBLEM"
+  },
+  {
+    "medication": "DRUG"
+  },
+  {
+    "alertness": "PROBLEM"
+  }
+]

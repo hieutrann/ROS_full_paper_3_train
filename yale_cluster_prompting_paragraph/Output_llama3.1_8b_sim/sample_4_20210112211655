@@ -1,0 +1,89 @@
+[
+  {
+    "fever of unknown origin": "PROBLEM"
+  },
+  {
+    "polymyositis/dermatomyositis": "PROBLEM"
+  },
+  {
+    "urticarial rash": "PROBLEM"
+  },
+  {
+    "persistent high fevers": "PROBLEM"
+  },
+  {
+    "chest x-ray": "TEST"
+  },
+  {
+    "blood cultures": "TEST"
+  },
+  {
+    "transthoracic echocardiogram": "TEST"
+  },
+  {
+    "CT scan of the chest, abdomen, and pelvis": "TEST"
+  },
+  {
+    "serologies for CMV": "TEST"
+  },
+  {
+    "CMV blood PCR": "TEST"
+  },
+  {
+    "PPD": "TEST"
+  },
+  {
+    "bronchoscopy": "TEST"
+  },
+  {
+    "BAL and transbronchial biopsies": "TEST"
+  },
+  {
+    "ganciclovir": "DRUG"
+  },
+  {
+    "methotrexate": "DRUG"
+  },
+  {
+    "prednisone": "DRUG"
+  },
+  {
+    "Advair": "DRUG"
+  },
+  {
+    "Ibuprofen": "DRUG"
+  },
+  {
+    "Tylenol": "DRUG"
+  },
+  {
+    "folic acid": "DRUG"
+  },
+  {
+    "transbronchial biopsies": "TREATMENT"
+  },
+  {
+    "bronchoscopy": "TREATMENT"
+  },
+  {
+    "ganciclovir": "TREATMENT"
+  },
+  {
+    "methotrexate": "TREATMENT"
+  },
+  {
+    "prednisone": "TREATMENT"
+  },
+  {
+    "Advair": "TREATMENT"
+  },
+  {
+    "Ibuprofen": "TREATMENT"
+  },
+  {
+    "Tylenol": "TREATMENT"
+  },
+  {
+    "folic acid": "TREATMENT"
+  }
+]

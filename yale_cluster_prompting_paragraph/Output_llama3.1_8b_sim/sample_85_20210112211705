@@ -1,0 +1,104 @@
+[
+  {
+    "Bradycardia": "PROBLEM"
+  },
+  {
+    "Dizziness": "PROBLEM"
+  },
+  {
+    "Diabetes": "PROBLEM"
+  },
+  {
+    "Hypertension": "PROBLEM"
+  },
+  {
+    "Abdominal pain": "PROBLEM"
+  },
+  {
+    "Sick sinus syndrome": "PROBLEM"
+  },
+  {
+    "Permanent pacemaker": "TREATMENT"
+  },
+  {
+    "Cefazolin": "DRUG"
+  },
+  {
+    "Benazepril": "DRUG"
+  },
+  {
+    "Norvasc": "DRUG"
+  },
+  {
+    "Actos": "DRUG"
+  },
+  {
+    "Bisacodyl": "DRUG"
+  },
+  {
+    "Cosopt": "DRUG"
+  },
+  {
+    "Famotidine": "DRUG"
+  },
+  {
+    "Lotemax": "DRUG"
+  },
+  {
+    "Lotensin": "DRUG"
+  },
+  {
+    "Triazolam": "DRUG"
+  },
+  {
+    "Milk of Magnesia": "DRUG"
+  },
+  {
+    "Tylenol No. 3": "DRUG"
+  },
+  {
+    "Promethazine": "DRUG"
+  },
+  {
+    "Tylenol": "DRUG"
+  },
+  {
+    "Electrocardiograms": "TEST"
+  },
+  {
+    "Telemetry readings": "TEST"
+  },
+  {
+    "Pacemaker placement": "TREATMENT"
+  },
+  {
+    "Temporary internal pacemaker": "TREATMENT"
+  },
+  {
+    "Temporary intracardiac pacemaker": "TREATMENT"
+  },
+  {
+    "Right atrium appendage": "TREATMENT"
+  },
+  {
+    "Right ventricular apex electrode placement": "TREATMENT"
+  },
+  {
+    "Medtronic pacemaker": "TREATMENT"
+  },
+  {
+    "Right femoral artery catheter": "TREATMENT"
+  },
+  {
+    "Hematoma": "PROBLEM"
+  },
+  {
+    "Insomnia": "PROBLEM"
+  },
+  {
+    "Osteoarthritis": "PROBLEM"
+  },
+  {
+    "Peptic ulcer disease": "PROBLEM"
+  }
+]

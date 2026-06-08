@@ -1,0 +1,47 @@
+[
+  {
+    "heroin": "DRUG"
+  },
+  {
+    "cocaine": "DRUG"
+  },
+  {
+    "alcohol": "DRUG"
+  },
+  {
+    "chronic pain": "PROBLEM"
+  },
+  {
+    "analgesics": "DRUG"
+  },
+  {
+    "pain medications": "DRUG"
+  },
+  {
+    "Klonopin": "DRUG"
+  },
+  {
+    "lithium": "DRUG"
+  },
+  {
+    "codeine": "DRUG"
+  },
+  {
+    "clonidine": "DRUG"
+  },
+  {
+    "Phenergan": "DRUG"
+  },
+  {
+    "hypertensive": "PROBLEM"
+  },
+  {
+    "track marks": "PROBLEM"
+  },
+  {
+    "tattoos": "PROBLEM"
+  },
+  {
+    "detox from heroin": "TREATMENT"
+  }
+]

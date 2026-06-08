@@ -1,0 +1,77 @@
+[
+  {
+    "Kawasaki": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "conjunctivitis": "PROBLEM"
+  },
+  {
+    "arthritis": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "rash": "PROBLEM"
+  },
+  {
+    "neutrophils": "TEST"
+  },
+  {
+    "thrombocytosis": "TEST"
+  },
+  {
+    "CRP": "TEST"
+  },
+  {
+    "ESR": "TEST"
+  },
+  {
+    "Kawasaki disease": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "conjunctivitis": "PROBLEM"
+  },
+  {
+    "mucous membranes": "PROBLEM"
+  },
+  {
+    "aspirin": "DRUG"
+  },
+  {
+    "IVIG": "DRUG"
+  },
+  {
+    "Echocardiogram": "TEST"
+  },
+  {
+    "aspirin": "DRUG"
+  },
+  {
+    "Prevacid": "DRUG"
+  },
+  {
+    "vaccine": "DRUG"
+  },
+  {
+    "aspirin": "DRUG"
+  },
+  {
+    "Prevacid": "DRUG"
+  },
+  {
+    "vaccine": "DRUG"
+  },
+  {
+    "rash": "PROBLEM"
+  },
+  {
+    "fevers": "PROBLEM"
+  }
+]

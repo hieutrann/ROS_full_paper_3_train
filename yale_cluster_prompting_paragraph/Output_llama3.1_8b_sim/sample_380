@@ -1,0 +1,77 @@
+[
+  {
+    "Hypertension": "PROBLEM"
+  },
+  {
+    "cerebrovascular accident": "PROBLEM"
+  },
+  {
+    "Compression fracture of L1": "PROBLEM"
+  },
+  {
+    "osteoporosis": "PROBLEM"
+  },
+  {
+    "osteoarthritis of the knee": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "lightheadedness": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "DEXA scan": "TEST"
+  },
+  {
+    "chest x-ray": "TEST"
+  },
+  {
+    "EKG": "TEST"
+  },
+  {
+    "Fosamax": "DRUG"
+  },
+  {
+    "Hydrochlorothiazide": "DRUG"
+  },
+  {
+    "Prozac": "DRUG"
+  },
+  {
+    "Vioxx": "DRUG"
+  },
+  {
+    "aspirin": "DRUG"
+  },
+  {
+    "Monopril": "DRUG"
+  },
+  {
+    "Celexa": "DRUG"
+  },
+  {
+    "Weight Watchers": "TREATMENT"
+  },
+  {
+    "dietician": "TREATMENT"
+  },
+  {
+    "screening colonoscopy": "TREATMENT"
+  },
+  {
+    "PHYSICAL": "TREATMENT"
+  },
+  {
+    "cardiologist": "TREATMENT"
+  },
+  {
+    "beta-blocker": "TREATMENT"
+  },
+  {
+    "Fosamax": "TREATMENT"
+  }
+]

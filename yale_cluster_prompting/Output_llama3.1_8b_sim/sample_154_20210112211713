@@ -1,0 +1,224 @@
+[
+  {
+    "cardiac catheterization": "TREATMENT"
+  },
+  {
+    "Coronary artery disease": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "diabetes": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "obesity": "PROBLEM"
+  },
+  {
+    "a 1.1 cm lesion": "PROBLEM"
+  },
+  {
+    "deconditioning": "PROBLEM"
+  },
+  {
+    "cardiac catheterization": "TREATMENT"
+  },
+  {
+    "TRANSFER DIAGNOSES": "PROBLEM"
+  },
+  {
+    "Coronary artery disease": "PROBLEM"
+  },
+  {
+    "2": "PROBLEM"
+  },
+  {
+    "Chest pain": "PROBLEM"
+  },
+  {
+    "3": "PROBLEM"
+  },
+  {
+    "diabetes": "PROBLEM"
+  },
+  {
+    "4": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "5": "PROBLEM"
+  },
+  {
+    "obesity": "PROBLEM"
+  },
+  {
+    "6": "PROBLEM"
+  },
+  {
+    "a 1.1 cm lesion": "PROBLEM"
+  },
+  {
+    "7": "PROBLEM"
+  },
+  {
+    "Deconditioning": "PROBLEM"
+  },
+  {
+    "Cardiology": "PROBLEM"
+  },
+  {
+    "PROCEDURES": "TREATMENT"
+  },
+  {
+    "Echocardiogram": "TEST"
+  },
+  {
+    "2": "PROBLEM"
+  },
+  {
+    "MRI of the brain": "TEST"
+  },
+  {
+    "3": "PROBLEM"
+  },
+  {
+    "Lower extremity Duplex ultrasound": "TEST"
+  },
+  {
+    "H&P": "TEST"
+  },
+  {
+    "diabetes": "PROBLEM"
+  },
+  {
+    "chest pressure": "PROBLEM"
+  },
+  {
+    "short of breath": "PROBLEM"
+  },
+  {
+    "cardiac workup": "TEST"
+  },
+  {
+    "vital signs": "PROBLEM"
+  },
+  {
+    "myocardial infarction": "PROBLEM"
+  },
+  {
+    "troponin": "TEST"
+  },
+  {
+    "echocardiogram": "TEST"
+  },
+  {
+    "concentric LVH": "PROBLEM"
+  },
+  {
+    "EF": "PROBLEM"
+  },
+  {
+    "Cardiology": "PROBLEM"
+  },
+  {
+    "stress test": "TEST"
+  },
+  {
+    "cardiac cath": "TREATMENT"
+  },
+  {
+    "amaurosis fugax": "PROBLEM"
+  },
+  {
+    "MRI": "TEST"
+  },
+  {
+    "a 1 cm lesion": "PROBLEM"
+  },
+  {
+    "the right parietal lobe": "PROBLEM"
+  },
+  {
+    "Neurology": "PROBLEM"
+  },
+  {
+    "transfer": "PROBLEM"
+  },
+  {
+    "cardiac cath": "TEST"
+  },
+  {
+    "ABCD": "DRUG"
+  },
+  {
+    "Stable": "PROBLEM"
+  },
+  {
+    "DISCHARGE MEDICATIONS": "TREATMENT"
+  },
+  {
+    "Aspirin 325 mg p.o.": "DRUG"
+  },
+  {
+    "daily": "PROBLEM"
+  },
+  {
+    "2": "PROBLEM"
+  },
+  {
+    "Lovenox 40 mg p.o.": "DRUG"
+  },
+  {
+    "daily": "PROBLEM"
+  },
+  {
+    "3": "PROBLEM"
+  },
+  {
+    "Regular Insulin": "DRUG"
+  },
+  {
+    "4": "PROBLEM"
+  },
+  {
+    "Novolin 70/30": "DRUG"
+  },
+  {
+    "5": "PROBLEM"
+  },
+  {
+    "Metformin 500 mg p.o.": "DRUG"
+  },
+  {
+    "daily": "PROBLEM"
+  },
+  {
+    "6": "PROBLEM"
+  },
+  {
+    "Protonix": "DRUG"
+  },
+  {
+    "daily": "PROBLEM"
+  },
+  {
+    "cardiac cath": "TEST"
+  },
+  {
+    "cardiac cath": "TEST"
+  },
+  {
+    "cardiac catheterization": "TEST"
+  },
+  {
+    "echocardiogram": "TEST"
+  },
+  {
+    "parietal lobe": "PROBLEM"
+  }
+]

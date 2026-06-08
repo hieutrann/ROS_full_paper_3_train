@@ -1,0 +1,59 @@
+[
+  {
+    "numbness": "PROBLEM"
+  },
+  {
+    "tingling": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "hypothyroidism": "PROBLEM"
+  },
+  {
+    "essential thrombocythemia": "PROBLEM"
+  },
+  {
+    "allergic rhinitis": "PROBLEM"
+  },
+  {
+    "insomnia": "PROBLEM"
+  },
+  {
+    "peripheral neuropathy": "PROBLEM"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "port a cath": "TEST"
+  },
+  {
+    "total knee arthroplasty": "TEST"
+  },
+  {
+    "CBC": "TEST"
+  },
+  {
+    "sed rate": "TEST"
+  },
+  {
+    "ferritin": "TEST"
+  },
+  {
+    "Hemoccult cards": "TEST"
+  },
+  {
+    "DT immunization": "TEST"
+  },
+  {
+    "Neurontin": "DRUG"
+  },
+  {
+    "Anodyne physical therapy": "TREATMENT"
+  },
+  {
+    "Ambien": "DRUG"
+  }
+]

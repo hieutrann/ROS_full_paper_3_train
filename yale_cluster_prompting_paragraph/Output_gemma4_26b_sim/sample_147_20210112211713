@@ -1,0 +1,62 @@
+[
+  {
+    "free air under the diaphragm": "PROBLEM"
+  },
+  {
+    "chest x-ray": "TEST"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "free air under the right diaphragm": "PROBLEM"
+  },
+  {
+    "Ativan": "DRUG"
+  },
+  {
+    "obtunded": "PROBLEM"
+  },
+  {
+    "alcohol abuse": "PROBLEM"
+  },
+  {
+    "appendectomy": "TREATMENT"
+  },
+  {
+    "right hip fracture": "PROBLEM"
+  },
+  {
+    "TAH/BSO": "TREATMENT"
+  },
+  {
+    "white blood cell count": "TEST"
+  },
+  {
+    "AST": "TEST"
+  },
+  {
+    "ALT": "TEST"
+  },
+  {
+    "Alkaline phosphatase": "TEST"
+  },
+  {
+    "bilirubin": "TEST"
+  },
+  {
+    "Sodium": "TEST"
+  },
+  {
+    "chloride": "TEST"
+  },
+  {
+    "potassium": "TEST"
+  },
+  {
+    "CT scan": "TEST"
+  },
+  {
+    "hyponatremia": "PROBLEM"
+  }
+]

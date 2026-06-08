@@ -1,0 +1,86 @@
+[
+  {
+    "Gastroenteritis": "PROBLEM"
+  },
+  {
+    "autism": "PROBLEM"
+  },
+  {
+    "constipation": "PROBLEM"
+  },
+  {
+    "hyperactivity": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "diarrhea": "PROBLEM"
+  },
+  {
+    "weight loss": "PROBLEM"
+  },
+  {
+    "Adderall": "DRUG"
+  },
+  {
+    "clonidine": "DRUG"
+  },
+  {
+    "MiraLax": "DRUG"
+  },
+  {
+    "chest x-ray": "TEST"
+  },
+  {
+    "abdominal films": "TEST"
+  },
+  {
+    "sedimentation rate": "TEST"
+  },
+  {
+    "magnesium level": "TEST"
+  },
+  {
+    "TSH": "TEST"
+  },
+  {
+    "free T4": "TEST"
+  },
+  {
+    "Hemoglobin": "TEST"
+  },
+  {
+    "hematocrit": "TEST"
+  },
+  {
+    "platelet count": "TEST"
+  },
+  {
+    "white blood count": "TEST"
+  },
+  {
+    "Urinalysis": "TEST"
+  },
+  {
+    "Chest x-ray": "TEST"
+  },
+  {
+    "abdominal films": "TEST"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "clear liquids": "TREATMENT"
+  },
+  {
+    "regular diet": "TREATMENT"
+  },
+  {
+    "Gastroenteritis": "TREATMENT"
+  },
+  {
+    "thyroid peroxidase antibody studies": "TEST"
+  }
+]

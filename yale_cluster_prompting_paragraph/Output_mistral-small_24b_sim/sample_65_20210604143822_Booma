@@ -1,0 +1,77 @@
+[
+  {
+    "afebrile": "PROBLEM"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "heart rate": "TEST"
+  },
+  {
+    "ptosis": "PROBLEM"
+  },
+  {
+    "hearing": "TEST"
+  },
+  {
+    "lesion": "PROBLEM"
+  },
+  {
+    "thyroid gland": "PROBLEM"
+  },
+  {
+    "respiratory effort": "TEST"
+  },
+  {
+    "auscultation": "TEST"
+  },
+  {
+    "S1": "TEST"
+  },
+  {
+    "S2": "TEST"
+  },
+  {
+    "murmur": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "nipple discharge": "PROBLEM"
+  },
+  {
+    "mass": "PROBLEM"
+  },
+  {
+    "abdomen": "PROBLEM"
+  },
+  {
+    "bowel sounds": "TEST"
+  },
+  {
+    "adnexal masses": "PROBLEM"
+  },
+  {
+    "uterus": "PROBLEM"
+  },
+  {
+    "cervical motion tenderness": "PROBLEM"
+  },
+  {
+    "node": "PROBLEM"
+  },
+  {
+    "deformity": "PROBLEM"
+  },
+  {
+    "range of motion": "TEST"
+  },
+  {
+    "Deep tendon reflexes": "TEST"
+  },
+  {
+    "sensation": "TEST"
+  }
+]

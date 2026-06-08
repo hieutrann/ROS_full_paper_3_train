@@ -1,0 +1,98 @@
+[
+  {
+    "Transforaminal Epidural Steroid Injection": "TREATMENT"
+  },
+  {
+    "Fluoroscopy": "TEST"
+  },
+  {
+    "lidocaine": "DRUG"
+  },
+  {
+    "infection": "PROBLEM"
+  },
+  {
+    "bleeding": "PROBLEM"
+  },
+  {
+    "allergic reaction": "PROBLEM"
+  },
+  {
+    "dural puncture": "PROBLEM"
+  },
+  {
+    "headache": "PROBLEM"
+  },
+  {
+    "nerve injuries": "PROBLEM"
+  },
+  {
+    "spinal cord injury": "PROBLEM"
+  },
+  {
+    "cardiovascular and CNS side effects": "PROBLEM"
+  },
+  {
+    "sedatives": "DRUG"
+  },
+  {
+    "narcotics": "DRUG"
+  },
+  {
+    "nonionic contrast agents": "DRUG"
+  },
+  {
+    "anesthetics": "DRUG"
+  },
+  {
+    "corticosteroids": "DRUG"
+  },
+  {
+    "Oxygen saturation": "TEST"
+  },
+  {
+    "vital signs": "TEST"
+  },
+  {
+    "X-ray": "TEST"
+  },
+  {
+    "fluoroscopy machine": "TEST"
+  },
+  {
+    "betadine": "DRUG"
+  },
+  {
+    "non-ionic contrast agent": "DRUG"
+  },
+  {
+    "epidurogram": "TEST"
+  },
+  {
+    "radiculogram": "TEST"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "chills": "PROBLEM"
+  },
+  {
+    "increased pain": "PROBLEM"
+  },
+  {
+    "weakness": "PROBLEM"
+  },
+  {
+    "sensory or motor changes": "PROBLEM"
+  },
+  {
+    "changes in bowel or bladder function": "PROBLEM"
+  }
+]

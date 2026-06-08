@@ -1,0 +1,41 @@
+[
+  {
+    "shoulder bursitis": "PROBLEM"
+  },
+  {
+    "pharyngitis": "PROBLEM"
+  },
+  {
+    "attention deficit disorder": "PROBLEM"
+  },
+  {
+    "Strep throat": "PROBLEM"
+  },
+  {
+    "ADHD": "PROBLEM"
+  },
+  {
+    "anger control": "PROBLEM"
+  },
+  {
+    "Adderall": "DRUG"
+  },
+  {
+    "Zoloft": "DRUG"
+  },
+  {
+    "x-ray": "TEST"
+  },
+  {
+    "physical therapy": "TREATMENT"
+  },
+  {
+    "tonsillectomy": "TREATMENT"
+  },
+  {
+    "joint injections": "TREATMENT"
+  },
+  {
+    "counseling": "TREATMENT"
+  }
+]

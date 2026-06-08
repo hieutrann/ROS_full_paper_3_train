@@ -1,0 +1,191 @@
+[
+  {
+    "Upper respiratory illness": "PROBLEM"
+  },
+  {
+    "apnea": "PROBLEM"
+  },
+  {
+    "pertussis": "PROBLEM"
+  },
+  {
+    "respiratory symptoms": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "post-tussive emesis": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "Upper respiratory illness": "PROBLEM"
+  },
+  {
+    "apnea": "PROBLEM"
+  },
+  {
+    "pertussis": "PROBLEM"
+  },
+  {
+    "Upper respiratory illness": "PROBLEM"
+  },
+  {
+    "apnea": "PROBLEM"
+  },
+  {
+    "pertussis": "PROBLEM"
+  },
+  {
+    "respiratory symptoms": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "post-tussive emesis": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "amoxicillin": "DRUG"
+  },
+  {
+    "coughing": "PROBLEM"
+  },
+  {
+    "sats": "TEST"
+  },
+  {
+    "coughing spells": "PROBLEM"
+  },
+  {
+    "apnea": "PROBLEM"
+  },
+  {
+    "Rocephin": "DRUG"
+  },
+  {
+    "labs": "TEST"
+  },
+  {
+    "baby": "PROBLEM"
+  },
+  {
+    "nasal discharge": "PROBLEM"
+  },
+  {
+    "HEENT": "TEST"
+  },
+  {
+    "rhonchi": "PROBLEM"
+  },
+  {
+    "coughing": "PROBLEM"
+  },
+  {
+    "apnea": "PROBLEM"
+  },
+  {
+    "Benign": "PROBLEM"
+  },
+  {
+    "cyanosis": "PROBLEM"
+  },
+  {
+    "CBC": "TEST"
+  },
+  {
+    "white count": "TEST"
+  },
+  {
+    "differential": "TEST"
+  },
+  {
+    "hemoglobin": "TEST"
+  },
+  {
+    "hematocrit": "TEST"
+  },
+  {
+    "platelets": "TEST"
+  },
+  {
+    "BMP": "TEST"
+  },
+  {
+    "An x-ray": "TEST"
+  },
+  {
+    "infiltrate": "PROBLEM"
+  },
+  {
+    "rapid influenza swab": "TEST"
+  },
+  {
+    "rapid RSV": "TEST"
+  },
+  {
+    "pertussis PCR swab": "TEST"
+  },
+  {
+    "pertussis culture": "TEST"
+  },
+  {
+    "pertussis culture": "TEST"
+  },
+  {
+    "pertussis": "PROBLEM"
+  },
+  {
+    "afebrile": "PROBLEM"
+  },
+  {
+    "coughing": "PROBLEM"
+  },
+  {
+    "emesis": "PROBLEM"
+  },
+  {
+    "apnea": "PROBLEM"
+  },
+  {
+    "Zithromax": "DRUG"
+  },
+  {
+    "Zithromax": "DRUG"
+  },
+  {
+    "coughing": "PROBLEM"
+  },
+  {
+    "cyanosis": "PROBLEM"
+  },
+  {
+    "apnea": "PROBLEM"
+  },
+  {
+    "discharge summary": "PROBLEM"
+  },
+  {
+    "emesis": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "upper respiratory illness": "PROBLEM"
+  },
+  {
+    "respiratory illness": "PROBLEM"
+  },
+  {
+    "apnea": "PROBLEM"
+  },
+  {
+    "pertussis": "PROBLEM"
+  }
+]

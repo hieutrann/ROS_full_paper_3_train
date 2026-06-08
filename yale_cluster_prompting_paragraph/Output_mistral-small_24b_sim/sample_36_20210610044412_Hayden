@@ -1,0 +1,71 @@
+[
+  {
+    "shoulder bursitis": "PROBLEM"
+  },
+  {
+    "pharyngitis": "PROBLEM"
+  },
+  {
+    "attention deficit disorder": "PROBLEM"
+  },
+  {
+    "Strep": "PROBLEM"
+  },
+  {
+    "strep throat": "PROBLEM"
+  },
+  {
+    "ADHD": "PROBLEM"
+  },
+  {
+    "anger control": "PROBLEM"
+  },
+  {
+    "right shoulder": "PROBLEM"
+  },
+  {
+    "numbness": "PROBLEM"
+  },
+  {
+    "fevers": "PROBLEM"
+  },
+  {
+    "rashes": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "diarrhea": "PROBLEM"
+  },
+  {
+    "constipation": "PROBLEM"
+  },
+  {
+    "x-ray": "TEST"
+  },
+  {
+    "fracture": "PROBLEM"
+  },
+  {
+    "Adderall": "DRUG"
+  },
+  {
+    "Zoloft": "DRUG"
+  },
+  {
+    "anti-inflammatories": "DRUG"
+  },
+  {
+    "physical therapy": "TREATMENT"
+  },
+  {
+    "joint injections": "TREATMENT"
+  },
+  {
+    "tonsillectomy": "TREATMENT"
+  }
+]

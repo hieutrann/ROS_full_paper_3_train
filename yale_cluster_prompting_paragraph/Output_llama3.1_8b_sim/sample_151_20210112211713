@@ -1,0 +1,35 @@
+[
+  {
+    "choledocholithiasis": "PROBLEM"
+  },
+  {
+    "cholecystitis": "PROBLEM"
+  },
+  {
+    "laparoscopic cholecystectomy": "TREATMENT"
+  },
+  {
+    "common bile duct exploration": "TREATMENT"
+  },
+  {
+    "cholecystectomy": "TREATMENT"
+  },
+  {
+    "laparoscopy": "TEST"
+  },
+  {
+    "HIDA scan": "TEST"
+  },
+  {
+    "ERCP": "TEST"
+  },
+  {
+    "Roux-en-Y gastric bypass": "TREATMENT"
+  },
+  {
+    "iron 325 mg p.o. t.i.d.": "DRUG"
+  },
+  {
+    "Lortab elixir 15 cc p.o. q.4 h. p.r.n.": "DRUG"
+  }
+]

@@ -1,0 +1,434 @@
+[
+  {
+    "Hypertension": "PROBLEM"
+  },
+  {
+    "CVA": "PROBLEM"
+  },
+  {
+    "Compression fracture of L1": "PROBLEM"
+  },
+  {
+    "osteoarthritis of knee": "PROBLEM"
+  },
+  {
+    "two-month followup": "PROBLEM"
+  },
+  {
+    "55-year-old": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "lightheadedness": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "diarrhea": "PROBLEM"
+  },
+  {
+    "severe osteoarthritis": "PROBLEM"
+  },
+  {
+    "total knee replacement": "TREATMENT"
+  },
+  {
+    "surgery": "PROBLEM"
+  },
+  {
+    "coronary disease": "PROBLEM"
+  },
+  {
+    "stroke": "PROBLEM"
+  },
+  {
+    "cardiac disease": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "lipid panel": "TEST"
+  },
+  {
+    "Cholesterol": "TEST"
+  },
+  {
+    "triglycerides": "TEST"
+  },
+  {
+    "HDL": "TEST"
+  },
+  {
+    "LDL": "TEST"
+  },
+  {
+    "nonsmoker": "PROBLEM"
+  },
+  {
+    "glucose": "PROBLEM"
+  },
+  {
+    "insulin level": "TEST"
+  },
+  {
+    "glucose": "TEST"
+  },
+  {
+    "diabetes": "PROBLEM"
+  },
+  {
+    "knee pain": "PROBLEM"
+  },
+  {
+    "low back pain": "PROBLEM"
+  },
+  {
+    "compression fracture": "PROBLEM"
+  },
+  {
+    "L1": "PROBLEM"
+  },
+  {
+    "X-ray": "TEST"
+  },
+  {
+    "compression fracture": "PROBLEM"
+  },
+  {
+    "DEXA scan": "TEST"
+  },
+  {
+    "compression fracture": "PROBLEM"
+  },
+  {
+    "arthritis": "PROBLEM"
+  },
+  {
+    "lumbar spine": "PROBLEM"
+  },
+  {
+    "compression fractures": "PROBLEM"
+  },
+  {
+    "osteoporosis": "PROBLEM"
+  },
+  {
+    "Hydrochlorothiazide": "DRUG"
+  },
+  {
+    "Prozac": "DRUG"
+  },
+  {
+    "Vioxx": "DRUG"
+  },
+  {
+    "vitamin C": "DRUG"
+  },
+  {
+    "vitamin E": "DRUG"
+  },
+  {
+    "calcium with D": "DRUG"
+  },
+  {
+    "multivitamin": "DRUG"
+  },
+  {
+    "aspirin": "DRUG"
+  },
+  {
+    "Monopril": "DRUG"
+  },
+  {
+    "Celexa": "DRUG"
+  },
+  {
+    "Bactrim": "DRUG"
+  },
+  {
+    "PAST MEDICAL HISTORY": "TREATMENT"
+  },
+  {
+    "Hypertension": "PROBLEM"
+  },
+  {
+    "2": "TEST"
+  },
+  {
+    "Depression": "PROBLEM"
+  },
+  {
+    "3": "PROBLEM"
+  },
+  {
+    "Myofascitis": "PROBLEM"
+  },
+  {
+    "4": "TREATMENT"
+  },
+  {
+    "Severe osteoarthritis of the knee": "PROBLEM"
+  },
+  {
+    "5": "TREATMENT"
+  },
+  {
+    "melanoma": "PROBLEM"
+  },
+  {
+    "6": "TREATMENT"
+  },
+  {
+    "Breast biopsy": "TEST"
+  },
+  {
+    "Holter monitor": "TEST"
+  },
+  {
+    "ectopic beat": "PROBLEM"
+  },
+  {
+    "Echocardiogram": "TEST"
+  },
+  {
+    "8": "PROBLEM"
+  },
+  {
+    "Compression fracture of L1": "PROBLEM"
+  },
+  {
+    "DEXA scan": "TEST"
+  },
+  {
+    "patient": "PROBLEM"
+  },
+  {
+    "HPI": "TEST"
+  },
+  {
+    "well-developed": "TEST"
+  },
+  {
+    "well-nourished": "TEST"
+  },
+  {
+    "pleasant": "TEST"
+  },
+  {
+    "Caucasian": "TEST"
+  },
+  {
+    "female": "TEST"
+  },
+  {
+    "overweight": "PROBLEM"
+  },
+  {
+    "Weight": "TEST"
+  },
+  {
+    "Blood pressure": "TEST"
+  },
+  {
+    "Pulse": "TEST"
+  },
+  {
+    "Respirations": "TEST"
+  },
+  {
+    "Temperature": "TEST"
+  },
+  {
+    "Neck": "PROBLEM"
+  },
+  {
+    "Carotids": "PROBLEM"
+  },
+  {
+    "auscultation": "TEST"
+  },
+  {
+    "regular rate and rhythm": "TEST"
+  },
+  {
+    "murmur": "TEST"
+  },
+  {
+    "S3": "TEST"
+  },
+  {
+    "S4": "TEST"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "Neurologic": "PROBLEM"
+  },
+  {
+    "EKG": "TEST"
+  },
+  {
+    "normal sinus rhythm": "TEST"
+  },
+  {
+    "rate 61": "TEST"
+  },
+  {
+    "borderline first degree AV block": "PROBLEM"
+  },
+  {
+    "poor R-wave progression": "PROBLEM"
+  },
+  {
+    "ASSESSMENT": "TREATMENT"
+  },
+  {
+    "Hypertension": "PROBLEM"
+  },
+  {
+    "2": "TEST"
+  },
+  {
+    "cerebrovascular accident": "PROBLEM"
+  },
+  {
+    "3": "PROBLEM"
+  },
+  {
+    "Compression fracture of L1": "PROBLEM"
+  },
+  {
+    "4": "TREATMENT"
+  },
+  {
+    "Osteoarthritis of the knee": "PROBLEM"
+  },
+  {
+    "5": "TREATMENT"
+  },
+  {
+    "chest x-ray": "TEST"
+  },
+  {
+    "PLAN": "TREATMENT"
+  },
+  {
+    "C-reactive protein": "TEST"
+  },
+  {
+    "2": "TEST"
+  },
+  {
+    "weight loss": "PROBLEM"
+  },
+  {
+    "Weight Watchers": "TREATMENT"
+  },
+  {
+    "dietician": "TREATMENT"
+  },
+  {
+    "knee pain": "PROBLEM"
+  },
+  {
+    "3": "PROBLEM"
+  },
+  {
+    "colonoscopy": "TEST"
+  },
+  {
+    "appointment": "TREATMENT"
+  },
+  {
+    "Dr": "TREATMENT"
+  },
+  {
+    "colonoscopy": "TEST"
+  },
+  {
+    "4": "TREATMENT"
+  },
+  {
+    "Fosamax": "DRUG"
+  },
+  {
+    "water": "TREATMENT"
+  },
+  {
+    "Fosamax": "DRUG"
+  },
+  {
+    "5": "TREATMENT"
+  },
+  {
+    "back": "PROBLEM"
+  },
+  {
+    "EKG": "TEST"
+  },
+  {
+    "cardiologist": "TREATMENT"
+  },
+  {
+    "cardiac testing": "TEST"
+  },
+  {
+    "beta-blocker": "DRUG"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "lightheadedness": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "cerebrovascular accident": "PROBLEM"
+  },
+  {
+    "compression fracture": "PROBLEM"
+  },
+  {
+    "chest x-ray": "TEST"
+  },
+  {
+    "dexa scan": "TEST"
+  },
+  {
+    "dexa": "TEST"
+  },
+  {
+    "osteoporosis": "PROBLEM"
+  },
+  {
+    "osteoarthritis of the knee": "PROBLEM"
+  },
+  {
+    "osteoarthritis": "PROBLEM"
+  },
+  {
+    "cardiac": "PROBLEM"
+  },
+  {
+    "compression": "PROBLEM"
+  }
+]

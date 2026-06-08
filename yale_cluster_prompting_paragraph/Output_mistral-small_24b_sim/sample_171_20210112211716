@@ -1,0 +1,80 @@
+[
+  {
+    "Nonischemic cardiomyopathy": "PROBLEM"
+  },
+  {
+    "branch vessel coronary artery disease": "PROBLEM"
+  },
+  {
+    "congestive heart failure": "PROBLEM"
+  },
+  {
+    "NYHA Class III": "PROBLEM"
+  },
+  {
+    "nonsustained ventricular tachycardia": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "hepatitis C": "PROBLEM"
+  },
+  {
+    "CHF exacerbation": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "orthopnea": "PROBLEM"
+  },
+  {
+    "PND": "PROBLEM"
+  },
+  {
+    "right upper quadrant pain": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "cocaine": "PROBLEM"
+  },
+  {
+    "Lasix": "DRUG"
+  },
+  {
+    "hydralazine": "DRUG"
+  },
+  {
+    "Toprol": "DRUG"
+  },
+  {
+    "lisinopril": "DRUG"
+  },
+  {
+    "Aldactone": "DRUG"
+  },
+  {
+    "BMP": "TEST"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "weight": "TEST"
+  },
+  {
+    "fasting lipid profile": "TEST"
+  },
+  {
+    "AST": "TEST"
+  },
+  {
+    "ALT": "TEST"
+  },
+  {
+    "PHYSICAL": "TREATMENT"
+  }
+]

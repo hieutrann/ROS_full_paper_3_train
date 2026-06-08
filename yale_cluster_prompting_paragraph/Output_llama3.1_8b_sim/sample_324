@@ -1,0 +1,146 @@
+[
+  {
+    "Eyelids": "PROBLEM"
+  },
+  {
+    "Conjunctivae": "PROBLEM"
+  },
+  {
+    "Sclerae": "PROBLEM"
+  },
+  {
+    "Cornea": "PROBLEM"
+  },
+  {
+    "Pupils": "TEST"
+  },
+  {
+    "Iris": "PROBLEM"
+  },
+  {
+    "Anterior chamber": "TEST"
+  },
+  {
+    "Lacrimal ducts": "TEST"
+  },
+  {
+    "Fundi": "TEST"
+  },
+  {
+    "External ear": "PROBLEM"
+  },
+  {
+    "Ear canal": "PROBLEM"
+  },
+  {
+    "Tympanic membranes": "TEST"
+  },
+  {
+    "Middle ear effusions": "PROBLEM"
+  },
+  {
+    "External nose": "PROBLEM"
+  },
+  {
+    "Nares": "PROBLEM"
+  },
+  {
+    "Turbinates": "PROBLEM"
+  },
+  {
+    "Mucus": "PROBLEM"
+  },
+  {
+    "Throat": "PROBLEM"
+  },
+  {
+    "Buccal mucosa": "PROBLEM"
+  },
+  {
+    "Lips": "PROBLEM"
+  },
+  {
+    "Tongue": "PROBLEM"
+  },
+  {
+    "Hard and soft palate": "PROBLEM"
+  },
+  {
+    "Teeth": "PROBLEM"
+  },
+  {
+    "Tonsils": "PROBLEM"
+  },
+  {
+    "Uvula": "PROBLEM"
+  },
+  {
+    "Skin": "PROBLEM"
+  },
+  {
+    "Neck": "PROBLEM"
+  },
+  {
+    "Trachea": "TEST"
+  },
+  {
+    "Chest": "PROBLEM"
+  },
+  {
+    "Heart": "TEST"
+  },
+  {
+    "Abdominal": "PROBLEM"
+  },
+  {
+    "Hepatomegaly": "PROBLEM"
+  },
+  {
+    "Splenomegaly": "PROBLEM"
+  },
+  {
+    "Labia majora": "PROBLEM"
+  },
+  {
+    "Labia minora": "PROBLEM"
+  },
+  {
+    "Clitoris": "PROBLEM"
+  },
+  {
+    "Vaginal mucosa": "PROBLEM"
+  },
+  {
+    "Cervix": "PROBLEM"
+  },
+  {
+    "Ovaries": "PROBLEM"
+  },
+  {
+    "Uterus": "PROBLEM"
+  },
+  {
+    "Musculoskeletal": "PROBLEM"
+  },
+  {
+    "Foot": "PROBLEM"
+  },
+  {
+    "Ankle": "PROBLEM"
+  },
+  {
+    "Knee": "PROBLEM"
+  },
+  {
+    "Wrist": "PROBLEM"
+  },
+  {
+    "Elbow": "PROBLEM"
+  },
+  {
+    "Hip": "PROBLEM"
+  },
+  {
+    "Psychiatric": "PROBLEM"
+  }
+]

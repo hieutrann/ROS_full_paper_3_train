@@ -1,0 +1,158 @@
+[
+  {
+    "Bradycardia": "PROBLEM"
+  },
+  {
+    "dizziness": "PROBLEM"
+  },
+  {
+    "diabetes": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "sick sinus syndrome": "PROBLEM"
+  },
+  {
+    "Permanent pacemaker placement": "TREATMENT"
+  },
+  {
+    "temporary internal pacemaker": "TREATMENT"
+  },
+  {
+    "temporary intracardiac pacemaker": "TREATMENT"
+  },
+  {
+    "electrocardiograms": "TEST"
+  },
+  {
+    "telemetry readings": "TEST"
+  },
+  {
+    "bradycardias": "PROBLEM"
+  },
+  {
+    "sick sinus syndrome": "PROBLEM"
+  },
+  {
+    "Permanent pacemaker": "TREATMENT"
+  },
+  {
+    "pain": "PROBLEM"
+  },
+  {
+    "hematoma": "PROBLEM"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "benazepril": "DRUG"
+  },
+  {
+    "Norvasc": "DRUG"
+  },
+  {
+    "Diabetes mellitus": "PROBLEM"
+  },
+  {
+    "peptic ulcer disease": "PROBLEM"
+  },
+  {
+    "Hypertension": "PROBLEM"
+  },
+  {
+    "Insomnia": "PROBLEM"
+  },
+  {
+    "Osteoarthritis": "PROBLEM"
+  },
+  {
+    "Actos": "DRUG"
+  },
+  {
+    "Bisacodyl": "DRUG"
+  },
+  {
+    "constipation": "PROBLEM"
+  },
+  {
+    "Cosopt": "DRUG"
+  },
+  {
+    "Famotidine": "DRUG"
+  },
+  {
+    "Lotemax": "DRUG"
+  },
+  {
+    "Lotensin": "DRUG"
+  },
+  {
+    "benazepril": "DRUG"
+  },
+  {
+    "Triazolam": "DRUG"
+  },
+  {
+    "Milk of Magnesia": "DRUG"
+  },
+  {
+    "constipation": "PROBLEM"
+  },
+  {
+    "Tylenol No. 3": "DRUG"
+  },
+  {
+    "pain": "PROBLEM"
+  },
+  {
+    "Promethazine": "DRUG"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "Tylenol": "DRUG"
+  },
+  {
+    "cefazolin": "DRUG"
+  },
+  {
+    "pacemaker placement": "TREATMENT"
+  },
+  {
+    "staple removal": "TREATMENT"
+  },
+  {
+    "bradycardia": "PROBLEM"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "diabetes": "PROBLEM"
+  },
+  {
+    "dizziness": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "sick sinus syndrome": "PROBLEM"
+  },
+  {
+    "permanent pacemaker": "TREATMENT"
+  },
+  {
+    "pacemaker": "TREATMENT"
+  }
+]

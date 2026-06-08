@@ -1,0 +1,119 @@
+[
+  {
+    "Sepsis": "PROBLEM"
+  },
+  {
+    "urinary tract infection": "PROBLEM"
+  },
+  {
+    "Temperature": "TEST"
+  },
+  {
+    "heart sounds": "TEST"
+  },
+  {
+    "murmurs": "PROBLEM"
+  },
+  {
+    "Right renal angle is tender": "PROBLEM"
+  },
+  {
+    "Bowel sounds": "TEST"
+  },
+  {
+    "swelling": "PROBLEM"
+  },
+  {
+    "White count": "TEST"
+  },
+  {
+    "Hemoglobin": "TEST"
+  },
+  {
+    "hematocrit": "TEST"
+  },
+  {
+    "platelets": "TEST"
+  },
+  {
+    "BUN": "TEST"
+  },
+  {
+    "creatinine": "TEST"
+  },
+  {
+    "Sepsis": "PROBLEM"
+  },
+  {
+    "urinary tract infection": "PROBLEM"
+  },
+  {
+    "Urine culture": "TEST"
+  },
+  {
+    "Escherichia coli": "PROBLEM"
+  },
+  {
+    "Levaquin": "DRUG"
+  },
+  {
+    "doripenem": "DRUG"
+  },
+  {
+    "Urinary tract infection": "PROBLEM"
+  },
+  {
+    "doripenem": "DRUG"
+  },
+  {
+    "Foley catheter": "TREATMENT"
+  },
+  {
+    "Hypotension": "PROBLEM"
+  },
+  {
+    "intravenous fluids": "TREATMENT"
+  },
+  {
+    "Ischemic cardiomyopathy": "PROBLEM"
+  },
+  {
+    "Diabetes type 2": "PROBLEM"
+  },
+  {
+    "insulin sliding scale": "DRUG"
+  },
+  {
+    "pulmonary embolism": "PROBLEM"
+  },
+  {
+    "INR": "TEST"
+  },
+  {
+    "Coumadin": "DRUG"
+  },
+  {
+    "coronary artery disease": "PROBLEM"
+  },
+  {
+    "Troponin": "TEST"
+  },
+  {
+    "troponin": "TEST"
+  },
+  {
+    "sepsis": "PROBLEM"
+  },
+  {
+    "escherichia coli": "PROBLEM"
+  },
+  {
+    "urinary tract infection": "PROBLEM"
+  },
+  {
+    "doripenem": "DRUG"
+  },
+  {
+    "troponin": "TEST"
+  }
+]

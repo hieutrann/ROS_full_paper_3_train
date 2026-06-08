@@ -1,0 +1,227 @@
+[
+  {
+    "Cardiology": "TREATMENT"
+  },
+  {
+    "66-year-old white male": "PROBLEM"
+  },
+  {
+    "pneumonia": "PROBLEM"
+  },
+  {
+    "orthopnea": "PROBLEM"
+  },
+  {
+    "paroxysmal nocturnal dyspnea": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "expectoration": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "Coumadin": "DRUG"
+  },
+  {
+    "atrial fibrillation": "PROBLEM"
+  },
+  {
+    "ischemic heart disease": "PROBLEM"
+  },
+  {
+    "end-stage LV systolic dysfunction": "PROBLEM"
+  },
+  {
+    "ICD implantation": "TREATMENT"
+  },
+  {
+    "Fasting blood sugar": "TEST"
+  },
+  {
+    "Blood pressure": "TEST"
+  },
+  {
+    "Respirations": "TEST"
+  },
+  {
+    "Heart rate": "TEST"
+  },
+  {
+    "Weight": "TEST"
+  },
+  {
+    "Head": "PROBLEM"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "jaundice": "PROBLEM"
+  },
+  {
+    "NECK": "PROBLEM"
+  },
+  {
+    "JVP": "TEST"
+  },
+  {
+    "Carotid upstroke": "TEST"
+  },
+  {
+    "wheezing": "PROBLEM"
+  },
+  {
+    "Fine crepitations": "PROBLEM"
+  },
+  {
+    "PMI": "PROBLEM"
+  },
+  {
+    "heart sounds": "TEST"
+  },
+  {
+    "II/VI systolic murmur": "PROBLEM"
+  },
+  {
+    "ABDOMEN": "PROBLEM"
+  },
+  {
+    "hepatosplenomegaly": "PROBLEM"
+  },
+  {
+    "pedal edema": "PROBLEM"
+  },
+  {
+    "MEDICATIONS": "TREATMENT"
+  },
+  {
+    "Ambien": "DRUG"
+  },
+  {
+    "2": "TEST"
+  },
+  {
+    "Coumadin": "DRUG"
+  },
+  {
+    "3": "PROBLEM"
+  },
+  {
+    "Diovan": "DRUG"
+  },
+  {
+    "4": "TREATMENT"
+  },
+  {
+    "Lantus insulin": "DRUG"
+  },
+  {
+    "5": "TREATMENT"
+  },
+  {
+    "Lasix": "DRUG"
+  },
+  {
+    "6": "TEST"
+  },
+  {
+    "Novolin R": "DRUG"
+  },
+  {
+    "Toprol XL": "DRUG"
+  },
+  {
+    "8": "PROBLEM"
+  },
+  {
+    "Flovent": "DRUG"
+  },
+  {
+    "DIAGNOSES": "PROBLEM"
+  },
+  {
+    "Atherosclerotic coronary vascular disease": "PROBLEM"
+  },
+  {
+    "myocardial infarction": "PROBLEM"
+  },
+  {
+    "2": "TEST"
+  },
+  {
+    "LV systolic dysfunction": "PROBLEM"
+  },
+  {
+    "3": "PROBLEM"
+  },
+  {
+    "Diabetes mellitus": "PROBLEM"
+  },
+  {
+    "4": "TREATMENT"
+  },
+  {
+    "Diabetic nephropathy": "PROBLEM"
+  },
+  {
+    "renal failure": "PROBLEM"
+  },
+  {
+    "5": "TREATMENT"
+  },
+  {
+    "ICD implantation": "TREATMENT"
+  },
+  {
+    "6": "TEST"
+  },
+  {
+    "atrial fibrillation": "PROBLEM"
+  },
+  {
+    "Coumadin": "DRUG"
+  },
+  {
+    "PLAN": "TREATMENT"
+  },
+  {
+    "therapy": "TREATMENT"
+  },
+  {
+    "2": "TEST"
+  },
+  {
+    "weeks": "TEST"
+  },
+  {
+    "pneumonia": "PROBLEM"
+  },
+  {
+    "atherosclerotic coronary vascular disease": "PROBLEM"
+  },
+  {
+    "atrial fibrillation": "PROBLEM"
+  },
+  {
+    "myocardial infarction": "PROBLEM"
+  },
+  {
+    "orthopnea": "PROBLEM"
+  },
+  {
+    "paroxysmal nocturnal dyspnea": "PROBLEM"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "icd implantation": "TREATMENT"
+  },
+  {
+    "cardiology office visit": "TREATMENT"
+  }
+]

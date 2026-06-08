@@ -1,0 +1,173 @@
+[
+  {
+    "Nausea": "PROBLEM"
+  },
+  {
+    "feeling faint": "PROBLEM"
+  },
+  {
+    "weak": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "chills": "PROBLEM"
+  },
+  {
+    "sweats": "PROBLEM"
+  },
+  {
+    "ear pain": "PROBLEM"
+  },
+  {
+    "URI symptoms": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "dyspnea": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "diarrhea": "PROBLEM"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "melena": "PROBLEM"
+  },
+  {
+    "hematochezia": "PROBLEM"
+  },
+  {
+    "urinary symptoms": "PROBLEM"
+  },
+  {
+    "headache": "PROBLEM"
+  },
+  {
+    "neck pain": "PROBLEM"
+  },
+  {
+    "back pain": "PROBLEM"
+  },
+  {
+    "weakness": "PROBLEM"
+  },
+  {
+    "paresthesias": "PROBLEM"
+  },
+  {
+    "Diovan": "DRUG"
+  },
+  {
+    "estradiol": "DRUG"
+  },
+  {
+    "Norvasc": "DRUG"
+  },
+  {
+    "Wellbutrin SR inhaler": "DRUG"
+  },
+  {
+    "home O2": "TREATMENT"
+  },
+  {
+    "MORPHINE": "DRUG"
+  },
+  {
+    "VOMITING": "PROBLEM"
+  },
+  {
+    "COPD": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "hysterectomy": "TREATMENT"
+  },
+  {
+    "expiratory wheeze": "PROBLEM"
+  },
+  {
+    "tachycardic": "PROBLEM"
+  },
+  {
+    "bowel sounds": "TEST"
+  },
+  {
+    "WBC": "TEST"
+  },
+  {
+    "Hemoglobin": "TEST"
+  },
+  {
+    "hematocrit": "TEST"
+  },
+  {
+    "sodium": "TEST"
+  },
+  {
+    "chloride": "TEST"
+  },
+  {
+    "calcium": "TEST"
+  },
+  {
+    "total protein": "TEST"
+  },
+  {
+    "albumin": "TEST"
+  },
+  {
+    "Amylase": "TEST"
+  },
+  {
+    "lipase": "TEST"
+  },
+  {
+    "Clean catch urinalysis": "TEST"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "Chest x-ray": "TEST"
+  },
+  {
+    "sinus tachycardia": "PROBLEM"
+  },
+  {
+    "albuterol unit dose small volume nebulizer treatment": "TREATMENT"
+  },
+  {
+    "normal saline lock": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "normal saline": "TREATMENT"
+  },
+  {
+    "hyponatremia": "PROBLEM"
+  },
+  {
+    "anemia of unknown etiology": "PROBLEM"
+  },
+  {
+    "Acute hyponatremia": "PROBLEM"
+  },
+  {
+    "Acute tiredness": "PROBLEM"
+  }
+]

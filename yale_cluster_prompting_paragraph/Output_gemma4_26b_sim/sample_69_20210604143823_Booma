@@ -1,0 +1,92 @@
+[
+  {
+    "vital signs": "TEST"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "heart rate": "TEST"
+  },
+  {
+    "conjunctiva": "TEST"
+  },
+  {
+    "pupil": "TEST"
+  },
+  {
+    "ptosis": "PROBLEM"
+  },
+  {
+    "Hearing": "TEST"
+  },
+  {
+    "oropharynx": "TEST"
+  },
+  {
+    "mucosa": "TEST"
+  },
+  {
+    "lesion": "PROBLEM"
+  },
+  {
+    "palate": "TEST"
+  },
+  {
+    "tongue": "TEST"
+  },
+  {
+    "tonsil": "TEST"
+  },
+  {
+    "posterior pharynx": "TEST"
+  },
+  {
+    "thyroid gland": "TEST"
+  },
+  {
+    "Auscultation of the lung": "TEST"
+  },
+  {
+    "Auscultation of the heart": "TEST"
+  },
+  {
+    "murmur": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "rebound": "PROBLEM"
+  },
+  {
+    "guarding": "PROBLEM"
+  },
+  {
+    "enlarged liver": "PROBLEM"
+  },
+  {
+    "enlarged liver or spleen": "PROBLEM"
+  },
+  {
+    "Bowel sounds": "TEST"
+  },
+  {
+    "mass": "PROBLEM"
+  },
+  {
+    "lesion": "PROBLEM"
+  },
+  {
+    "discharge": "PROBLEM"
+  },
+  {
+    "node": "PROBLEM"
+  },
+  {
+    "Deep tendon reflexes": "TEST"
+  },
+  {
+    "Sensation": "TEST"
+  }
+]

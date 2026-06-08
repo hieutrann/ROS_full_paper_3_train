@@ -1,0 +1,269 @@
+[
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "jaundice": "PROBLEM"
+  },
+  {
+    "Pancreatic Mass": "PROBLEM"
+  },
+  {
+    "epigastric pain": "PROBLEM"
+  },
+  {
+    "pancreatic mass": "PROBLEM"
+  },
+  {
+    "liver metastases": "PROBLEM"
+  },
+  {
+    "ring enhancing lesions": "PROBLEM"
+  },
+  {
+    "CT scan": "TEST"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "jaundice": "PROBLEM"
+  },
+  {
+    "weight loss": "PROBLEM"
+  },
+  {
+    "epigastric pain": "PROBLEM"
+  },
+  {
+    "pancreatic mass": "PROBLEM"
+  },
+  {
+    "liver metastases": "PROBLEM"
+  },
+  {
+    "a 4x3x2 cm pancreatic mass": "PROBLEM"
+  },
+  {
+    "ring enhancing lesions": "PROBLEM"
+  },
+  {
+    "a thin - slice CT scan": "TEST"
+  },
+  {
+    "pseudocyst": "PROBLEM"
+  },
+  {
+    "pancreas": "PROBLEM"
+  },
+  {
+    "ERCP": "TEST"
+  },
+  {
+    "a stent": "TREATMENT"
+  },
+  {
+    "strictured pancreatic duct": "PROBLEM"
+  },
+  {
+    "strictured bile duct": "PROBLEM"
+  },
+  {
+    "stent": "TREATMENT"
+  },
+  {
+    "bilirubin": "PROBLEM"
+  },
+  {
+    "liver tests": "TEST"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "Zofran": "DRUG"
+  },
+  {
+    "Phenergan": "DRUG"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "stent placement": "TREATMENT"
+  },
+  {
+    "white count": "TEST"
+  },
+  {
+    "hemoglobin": "TEST"
+  },
+  {
+    "hematocrit": "TEST"
+  },
+  {
+    "MCV": "TEST"
+  },
+  {
+    "platelet count": "TEST"
+  },
+  {
+    "sodium": "PROBLEM"
+  },
+  {
+    "potassium": "PROBLEM"
+  },
+  {
+    "chloride": "PROBLEM"
+  },
+  {
+    "CO2": "PROBLEM"
+  },
+  {
+    "BUN": "TEST"
+  },
+  {
+    "creatinine": "TEST"
+  },
+  {
+    "bilirubin": "TEST"
+  },
+  {
+    "alk phos": "TEST"
+  },
+  {
+    "AST": "TEST"
+  },
+  {
+    "ALT": "TEST"
+  },
+  {
+    "total protein": "TEST"
+  },
+  {
+    "albumin": "TEST"
+  },
+  {
+    "a regular diet": "TREATMENT"
+  },
+  {
+    "oral hypoglycemics": "DRUG"
+  },
+  {
+    "insulin": "DRUG"
+  },
+  {
+    "Pelican Bay": "TREATMENT"
+  },
+  {
+    "X": "PROBLEM"
+  },
+  {
+    "diabetes": "PROBLEM"
+  },
+  {
+    "end of life meetings": "TREATMENT"
+  },
+  {
+    "chemotherapy": "TREATMENT"
+  },
+  {
+    "metastatic pancreatic cancer": "PROBLEM"
+  },
+  {
+    "chemotherapy": "TREATMENT"
+  },
+  {
+    "Dr.": "TREATMENT"
+  },
+  {
+    "DISCHARGE MEDICATIONS": "TREATMENT"
+  },
+  {
+    "Phenergan": "DRUG"
+  },
+  {
+    "p.r.n.": "DRUG"
+  },
+  {
+    "2": "PROBLEM"
+  },
+  {
+    "Duragesic patch 100 mcg q.3.d.": "DRUG"
+  },
+  {
+    "3": "PROBLEM"
+  },
+  {
+    "Benadryl 25-50 mg p.o.": "DRUG"
+  },
+  {
+    "q.i.d.": "DRUG"
+  },
+  {
+    "pruritus": "PROBLEM"
+  },
+  {
+    "4": "PROBLEM"
+  },
+  {
+    "Pelican Bay Infirmary": "PROBLEM"
+  },
+  {
+    "5": "PROBLEM"
+  },
+  {
+    "enalapril": "DRUG"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "stent occlusion": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "bilirubin": "PROBLEM"
+  },
+  {
+    "worsening pain": "PROBLEM"
+  },
+  {
+    "ERCP": "TEST"
+  },
+  {
+    "repeat ERCP": "TREATMENT"
+  },
+  {
+    "a regular diet": "TREATMENT"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "lymph nodes": "PROBLEM"
+  },
+  {
+    "weight loss": "PROBLEM"
+  },
+  {
+    "pancreatic mass": "PROBLEM"
+  },
+  {
+    "chemotherapy": "TREATMENT"
+  },
+  {
+    "phenergan": "DRUG"
+  },
+  {
+    "stent": "TREATMENT"
+  },
+  {
+    "drainage": "TREATMENT"
+  },
+  {
+    "bilirubin": "TEST"
+  }
+]

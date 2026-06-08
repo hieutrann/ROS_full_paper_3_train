@@ -1,0 +1,92 @@
+[
+  {
+    "Leiomyosarcoma": "PROBLEM"
+  },
+  {
+    "pulmonary embolism": "PROBLEM"
+  },
+  {
+    "subdural hematoma": "PROBLEM"
+  },
+  {
+    "pancytopenia": "PROBLEM"
+  },
+  {
+    "pneumonia": "PROBLEM"
+  },
+  {
+    "mass": "PROBLEM"
+  },
+  {
+    "rheumatoid arthritis": "PROBLEM"
+  },
+  {
+    "pulmonary embolus": "PROBLEM"
+  },
+  {
+    "subdural hematoma": "PROBLEM"
+  },
+  {
+    "sinusitis": "PROBLEM"
+  },
+  {
+    "dyspnea": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "headaches": "PROBLEM"
+  },
+  {
+    "pneumonia": "PROBLEM"
+  },
+  {
+    "fevers": "PROBLEM"
+  },
+  {
+    "CIVI-CAD": "DRUG"
+  },
+  {
+    "Cytoxan": "DRUG"
+  },
+  {
+    "Adriamycin": "DRUG"
+  },
+  {
+    "DTIC": "DRUG"
+  },
+  {
+    "CTA": "TEST"
+  },
+  {
+    "chest PE study": "TEST"
+  },
+  {
+    "Head CT": "TEST"
+  },
+  {
+    "Sinus CT": "TEST"
+  },
+  {
+    "mini-CT": "TEST"
+  },
+  {
+    "MRI": "TEST"
+  },
+  {
+    "Lovenox": "DRUG"
+  },
+  {
+    "neutropenic diet": "TREATMENT"
+  },
+  {
+    "red blood cells": "TREATMENT"
+  },
+  {
+    "platelets": "TREATMENT"
+  },
+  {
+    "lab work": "TEST"
+  }
+]

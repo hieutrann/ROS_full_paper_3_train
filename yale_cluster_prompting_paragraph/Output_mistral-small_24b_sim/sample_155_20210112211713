@@ -1,0 +1,245 @@
+[
+  {
+    "Sepsis": "PROBLEM"
+  },
+  {
+    "CT scan": "TEST"
+  },
+  {
+    "dilated bladder": "PROBLEM"
+  },
+  {
+    "outlet obstruction": "PROBLEM"
+  },
+  {
+    "bilateral hydronephrosis": "PROBLEM"
+  },
+  {
+    "hydroureter": "PROBLEM"
+  },
+  {
+    "IV antibiotics": "DRUG"
+  },
+  {
+    "hydration": "TREATMENT"
+  },
+  {
+    "CAD": "PROBLEM"
+  },
+  {
+    "dementia": "PROBLEM"
+  },
+  {
+    "CVA": "PROBLEM"
+  },
+  {
+    "nephrolithiasis": "PROBLEM"
+  },
+  {
+    "Ambien": "DRUG"
+  },
+  {
+    "Milk of magnesia": "DRUG"
+  },
+  {
+    "Tylenol": "DRUG"
+  },
+  {
+    "Tramadol": "DRUG"
+  },
+  {
+    "Soma": "DRUG"
+  },
+  {
+    "Coumadin": "DRUG"
+  },
+  {
+    "Zoloft": "DRUG"
+  },
+  {
+    "Allopurinol": "DRUG"
+  },
+  {
+    "Digoxin": "DRUG"
+  },
+  {
+    "Namenda": "DRUG"
+  },
+  {
+    "Zocor": "DRUG"
+  },
+  {
+    "BuSpar": "DRUG"
+  },
+  {
+    "Detrol": "DRUG"
+  },
+  {
+    "Coreg": "DRUG"
+  },
+  {
+    "Colace": "DRUG"
+  },
+  {
+    "Calcium": "DRUG"
+  },
+  {
+    "Zantac": "DRUG"
+  },
+  {
+    "Lasix": "DRUG"
+  },
+  {
+    "Seroquel": "DRUG"
+  },
+  {
+    "Aldactone": "DRUG"
+  },
+  {
+    "Amoxicillin": "DRUG"
+  },
+  {
+    "CT of the abdomen": "TEST"
+  },
+  {
+    "left inguinal hernia": "PROBLEM"
+  },
+  {
+    "SBO": "PROBLEM"
+  },
+  {
+    "dilated bladder": "PROBLEM"
+  },
+  {
+    "outlet obstruction": "PROBLEM"
+  },
+  {
+    "bilateral hydronephrosis": "PROBLEM"
+  },
+  {
+    "hydroureter": "PROBLEM"
+  },
+  {
+    "right adrenal gland mass": "PROBLEM"
+  },
+  {
+    "White count": "TEST"
+  },
+  {
+    "hemoglobin": "TEST"
+  },
+  {
+    "platelet count": "TEST"
+  },
+  {
+    "UA": "TEST"
+  },
+  {
+    "WBCs": "TEST"
+  },
+  {
+    "RBCs": "TEST"
+  },
+  {
+    "leukocyte esterase": "TEST"
+  },
+  {
+    "Sodium": "TEST"
+  },
+  {
+    "potassium": "TEST"
+  },
+  {
+    "chloride": "TEST"
+  },
+  {
+    "CO2": "TEST"
+  },
+  {
+    "BUN": "TEST"
+  },
+  {
+    "creatinine": "TEST"
+  },
+  {
+    "EKG": "TEST"
+  },
+  {
+    "atrial fibrillation": "PROBLEM"
+  },
+  {
+    "urology consult": "TREATMENT"
+  },
+  {
+    "renal consult": "TREATMENT"
+  },
+  {
+    "Levaquin": "DRUG"
+  },
+  {
+    "gentamicin": "DRUG"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "hypertonic-hypotonic": "TREATMENT"
+  },
+  {
+    "anticoagulation": "TREATMENT"
+  },
+  {
+    "SCD": "TREATMENT"
+  },
+  {
+    "TED hose": "TREATMENT"
+  },
+  {
+    "rate control medications": "DRUG"
+  },
+  {
+    "digoxin level": "TEST"
+  },
+  {
+    "dementia medications": "DRUG"
+  },
+  {
+    "PPI": "DRUG"
+  },
+  {
+    "PUD prophylaxis": "TREATMENT"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "hydronephrosis": "PROBLEM"
+  },
+  {
+    "hydroureter": "PROBLEM"
+  },
+  {
+    "urology": "TREATMENT"
+  },
+  {
+    "urinary tract infection with sepsis": "PROBLEM"
+  },
+  {
+    "ct scan": "TEST"
+  },
+  {
+    "adrenal gland": "PROBLEM"
+  },
+  {
+    "dilated bladder": "PROBLEM"
+  },
+  {
+    "bilateral hydronephrosis": "PROBLEM"
+  },
+  {
+    "atrial fibrillation": "PROBLEM"
+  },
+  {
+    "sepsis": "PROBLEM"
+  }
+]

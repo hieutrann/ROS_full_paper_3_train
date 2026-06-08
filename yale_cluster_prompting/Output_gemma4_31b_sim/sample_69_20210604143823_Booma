@@ -1,0 +1,137 @@
+[
+  {
+    "vital signs": "TEST"
+  },
+  {
+    "afebrile": "PROBLEM"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "heart rate": "TEST"
+  },
+  {
+    "conjunctiva": "PROBLEM"
+  },
+  {
+    "pupil": "TEST"
+  },
+  {
+    "ptosis": "PROBLEM"
+  },
+  {
+    "Hearing": "TEST"
+  },
+  {
+    "lesion": "PROBLEM"
+  },
+  {
+    "tonsil": "PROBLEM"
+  },
+  {
+    "posterior pharynx": "PROBLEM"
+  },
+  {
+    "palpation": "TEST"
+  },
+  {
+    "respiratory effort": "TEST"
+  },
+  {
+    "Auscultation of the lung": "TEST"
+  },
+  {
+    "Auscultation of the heart": "TEST"
+  },
+  {
+    "murmur": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "nontender": "PROBLEM"
+  },
+  {
+    "rebound": "PROBLEM"
+  },
+  {
+    "guarding": "PROBLEM"
+  },
+  {
+    "enlarged liver": "PROBLEM"
+  },
+  {
+    "spleen": "PROBLEM"
+  },
+  {
+    "Bowel sounds": "TEST"
+  },
+  {
+    "scrotal elements": "TEST"
+  },
+  {
+    "discrete mass": "PROBLEM"
+  },
+  {
+    "lesion": "PROBLEM"
+  },
+  {
+    "discharge": "PROBLEM"
+  },
+  {
+    "node": "PROBLEM"
+  },
+  {
+    "deformity": "PROBLEM"
+  },
+  {
+    "deformity": "PROBLEM"
+  },
+  {
+    "Range of motion": "TEST"
+  },
+  {
+    "Deep tendon reflexes": "TEST"
+  },
+  {
+    "Sensation": "TEST"
+  },
+  {
+    "conjunctiva": "PROBLEM"
+  },
+  {
+    "eyes": "PROBLEM"
+  },
+  {
+    "ears": "PROBLEM"
+  },
+  {
+    "nose": "PROBLEM"
+  },
+  {
+    "throat": "PROBLEM"
+  },
+  {
+    "heart": "PROBLEM"
+  },
+  {
+    "respiratory": "PROBLEM"
+  },
+  {
+    "auscultation": "TEST"
+  },
+  {
+    "extremities": "PROBLEM"
+  },
+  {
+    "oropharynx": "PROBLEM"
+  },
+  {
+    "neck": "PROBLEM"
+  },
+  {
+    "tongue": "PROBLEM"
+  }
+]

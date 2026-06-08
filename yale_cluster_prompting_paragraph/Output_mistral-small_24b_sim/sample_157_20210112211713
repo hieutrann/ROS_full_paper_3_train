@@ -1,0 +1,176 @@
+[
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "amylase": "TEST"
+  },
+  {
+    "lipase": "TEST"
+  },
+  {
+    "acute pancreatitis": "PROBLEM"
+  },
+  {
+    "dementia of Alzheimer type": "PROBLEM"
+  },
+  {
+    "anxiety": "PROBLEM"
+  },
+  {
+    "osteoarthritis": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "alprazolam": "DRUG"
+  },
+  {
+    "mirtazapine": "DRUG"
+  },
+  {
+    "Aricept": "DRUG"
+  },
+  {
+    "Namenda": "DRUG"
+  },
+  {
+    "Benicar": "DRUG"
+  },
+  {
+    "Claritin": "DRUG"
+  },
+  {
+    "WBC": "TEST"
+  },
+  {
+    "hemoglobin": "TEST"
+  },
+  {
+    "hematocrit": "TEST"
+  },
+  {
+    "MCV": "TEST"
+  },
+  {
+    "platelet count": "TEST"
+  },
+  {
+    "PT": "TEST"
+  },
+  {
+    "INR": "TEST"
+  },
+  {
+    "PTT": "TEST"
+  },
+  {
+    "urinalysis": "TEST"
+  },
+  {
+    "sodium": "TEST"
+  },
+  {
+    "potassium": "TEST"
+  },
+  {
+    "chloride": "TEST"
+  },
+  {
+    "bicarbonate": "TEST"
+  },
+  {
+    "calcium": "TEST"
+  },
+  {
+    "BUN": "TEST"
+  },
+  {
+    "creatinine": "TEST"
+  },
+  {
+    "albumin": "TEST"
+  },
+  {
+    "alkaline phosphatase": "TEST"
+  },
+  {
+    "ALT": "TEST"
+  },
+  {
+    "AST": "TEST"
+  },
+  {
+    "amylase": "TEST"
+  },
+  {
+    "lipase": "TEST"
+  },
+  {
+    "X-ray": "TEST"
+  },
+  {
+    "CT": "TEST"
+  },
+  {
+    "ultrasound": "TEST"
+  },
+  {
+    "CBC": "TEST"
+  },
+  {
+    "segments": "TEST"
+  },
+  {
+    "bands": "TEST"
+  },
+  {
+    "glucose": "TEST"
+  },
+  {
+    "EKG": "TEST"
+  },
+  {
+    "troponin": "TEST"
+  },
+  {
+    "myoglobin": "TEST"
+  },
+  {
+    "leukocytosis": "PROBLEM"
+  },
+  {
+    "urinary tract infection": "PROBLEM"
+  },
+  {
+    "hyponatremia": "PROBLEM"
+  },
+  {
+    "abnormal electrocardiogram": "PROBLEM"
+  },
+  {
+    "osteoarthrosis": "PROBLEM"
+  },
+  {
+    "IV antibiotics": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "GI consult": "TREATMENT"
+  },
+  {
+    "Zofran": "DRUG"
+  },
+  {
+    "DVT prophylaxis": "TREATMENT"
+  }
+]

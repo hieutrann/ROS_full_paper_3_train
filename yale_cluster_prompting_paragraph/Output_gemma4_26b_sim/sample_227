@@ -1,0 +1,116 @@
+[
+  {
+    "diabetes mellitus, type 1": "PROBLEM"
+  },
+  {
+    "diabetic neuropathy": "PROBLEM"
+  },
+  {
+    "NPH": "DRUG"
+  },
+  {
+    "Regular insulin": "DRUG"
+  },
+  {
+    "low blood sugar": "PROBLEM"
+  },
+  {
+    "hypoglycemia": "PROBLEM"
+  },
+  {
+    "glucometer": "TEST"
+  },
+  {
+    "kidney damage": "PROBLEM"
+  },
+  {
+    "urine microalbumin": "TEST"
+  },
+  {
+    "hemoglobin A1C": "TEST"
+  },
+  {
+    "Lantus": "DRUG"
+  },
+  {
+    "alkaline phosphatase": "TEST"
+  },
+  {
+    "SGGT": "TEST"
+  },
+  {
+    "hepatic panel": "TEST"
+  },
+  {
+    "gastroparesis": "PROBLEM"
+  },
+  {
+    "impotence": "PROBLEM"
+  },
+  {
+    "Nexium": "DRUG"
+  },
+  {
+    "Viagra": "DRUG"
+  },
+  {
+    "headache": "PROBLEM"
+  },
+  {
+    "scalp laceration": "PROBLEM"
+  },
+  {
+    "dizziness": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "skin lacerations": "PROBLEM"
+  },
+  {
+    "infection": "PROBLEM"
+  },
+  {
+    "lower extremity numbness": "PROBLEM"
+  },
+  {
+    "Microfilament test": "TEST"
+  },
+  {
+    "contusion": "PROBLEM"
+  },
+  {
+    "Diabetes mellitus, type 1": "PROBLEM"
+  },
+  {
+    "microalbuminuria": "PROBLEM"
+  },
+  {
+    "Scalp laceration": "PROBLEM"
+  },
+  {
+    "Elevated Alk Phos": "PROBLEM"
+  },
+  {
+    "SGGT": "TEST"
+  },
+  {
+    "hepatic function panel": "TEST"
+  },
+  {
+    "Ace Inhibitor": "DRUG"
+  },
+  {
+    "Lantus": "DRUG"
+  },
+  {
+    "Prilosec": "DRUG"
+  },
+  {
+    "GERD": "PROBLEM"
+  }
+]

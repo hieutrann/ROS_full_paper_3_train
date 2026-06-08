@@ -1,0 +1,65 @@
+[
+  {
+    "Upper respiratory illness": "PROBLEM"
+  },
+  {
+    "apnea": "PROBLEM"
+  },
+  {
+    "possible pertussis": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "post-tussive emesis": "PROBLEM"
+  },
+  {
+    "questionable fever": "PROBLEM"
+  },
+  {
+    "amoxicillin": "DRUG"
+  },
+  {
+    "Rocephin": "DRUG"
+  },
+  {
+    "Zithromax": "DRUG"
+  },
+  {
+    "CBC": "TEST"
+  },
+  {
+    "x-ray": "TEST"
+  },
+  {
+    "rapid influenza swab": "TEST"
+  },
+  {
+    "rapid RSV": "TEST"
+  },
+  {
+    "pertussis PCR swab": "TEST"
+  },
+  {
+    "pertussis culture": "TEST"
+  },
+  {
+    "segs 82": "TEST"
+  },
+  {
+    "during the admission physical ABDOMEN": "TEST"
+  },
+  {
+    "involved cough post-tussive": "TREATMENT"
+  },
+  {
+    "amoxicillin": "TREATMENT"
+  },
+  {
+    "Rocephin": "TREATMENT"
+  },
+  {
+    "Zithromax": "TREATMENT"
+  }
+]

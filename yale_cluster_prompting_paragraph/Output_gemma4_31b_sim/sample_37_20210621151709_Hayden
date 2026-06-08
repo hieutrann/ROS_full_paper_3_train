@@ -1,0 +1,50 @@
+[
+  {
+    "diabetic control": "PROBLEM"
+  },
+  {
+    "insulins": "DRUG"
+  },
+  {
+    "Lantus insulin": "DRUG"
+  },
+  {
+    "sliding scale Humalog insulin": "DRUG"
+  },
+  {
+    "insulin regimen": "DRUG"
+  },
+  {
+    "low blood glucoses": "PROBLEM"
+  },
+  {
+    "glucoses": "TEST"
+  },
+  {
+    "Lantus insulin": "DRUG"
+  },
+  {
+    "glucoses": "TEST"
+  },
+  {
+    "insulin": "DRUG"
+  },
+  {
+    "fatigued": "PROBLEM"
+  },
+  {
+    "Diabetes": "PROBLEM"
+  },
+  {
+    "low blood glucoses": "PROBLEM"
+  },
+  {
+    "Lantus insulin": "DRUG"
+  },
+  {
+    "Humalog sliding scale insulin": "DRUG"
+  },
+  {
+    "blood glucoses": "TEST"
+  }
+]

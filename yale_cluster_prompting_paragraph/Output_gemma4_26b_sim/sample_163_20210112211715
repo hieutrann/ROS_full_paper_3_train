@@ -1,0 +1,200 @@
+[
+  {
+    "scalp skin biopsy": "TREATMENT"
+  },
+  {
+    "Acute right lobar pneumonia": "PROBLEM"
+  },
+  {
+    "Hypoxemia": "PROBLEM"
+  },
+  {
+    "hypotension": "PROBLEM"
+  },
+  {
+    "Electrolyte abnormality": "PROBLEM"
+  },
+  {
+    "hyponatremia": "PROBLEM"
+  },
+  {
+    "hypokalemia": "PROBLEM"
+  },
+  {
+    "liver function tests": "TEST"
+  },
+  {
+    "dementia": "PROBLEM"
+  },
+  {
+    "Alzheimer's type": "PROBLEM"
+  },
+  {
+    "Anemia": "PROBLEM"
+  },
+  {
+    "iron deficiency": "PROBLEM"
+  },
+  {
+    "Darkened mole": "PROBLEM"
+  },
+  {
+    "thoracentesis": "TREATMENT"
+  },
+  {
+    "IV Flagyl": "DRUG"
+  },
+  {
+    "Levaquin": "DRUG"
+  },
+  {
+    "low-grade fever": "PROBLEM"
+  },
+  {
+    "confusion": "PROBLEM"
+  },
+  {
+    "dizziness": "PROBLEM"
+  },
+  {
+    "nonproductive cough": "PROBLEM"
+  },
+  {
+    "chest x-ray": "TEST"
+  },
+  {
+    "right lobar infiltrate": "PROBLEM"
+  },
+  {
+    "antibiotics": "TREATMENT"
+  },
+  {
+    "vancomycin": "DRUG"
+  },
+  {
+    "Blood, sputum, and urine cultures": "TEST"
+  },
+  {
+    "C. diff colitis": "PROBLEM"
+  },
+  {
+    "cholecystitis": "PROBLEM"
+  },
+  {
+    "hypotensive": "PROBLEM"
+  },
+  {
+    "IV fluid management": "TREATMENT"
+  },
+  {
+    "ultrasound": "TEST"
+  },
+  {
+    "CT scan": "TEST"
+  },
+  {
+    "HIDA scan": "TEST"
+  },
+  {
+    "gallbladder dysfunction": "PROBLEM"
+  },
+  {
+    "hypoxemic": "PROBLEM"
+  },
+  {
+    "pulse oximetry": "TEST"
+  },
+  {
+    "incentive spirometry": "TREATMENT"
+  },
+  {
+    "white count": "TEST"
+  },
+  {
+    "Blood cultures": "TEST"
+  },
+  {
+    "Sputum culture": "TEST"
+  },
+  {
+    "Urine culture": "TEST"
+  },
+  {
+    "thoracentesis culture": "TEST"
+  },
+  {
+    "packed red cells": "TREATMENT"
+  },
+  {
+    "hemoglobin": "TEST"
+  },
+  {
+    "GI bleeding": "PROBLEM"
+  },
+  {
+    "hematocrit": "TEST"
+  },
+  {
+    "PT": "TEST"
+  },
+  {
+    "PTT": "TEST"
+  },
+  {
+    "Occult blood studies": "TEST"
+  },
+  {
+    "Hepatitis B antigen": "TEST"
+  },
+  {
+    "Hepatitis A antibody IgM": "TEST"
+  },
+  {
+    "Hepatitis B core IgM": "TEST"
+  },
+  {
+    "hepatitis C core antibody": "TEST"
+  },
+  {
+    "sodium": "TEST"
+  },
+  {
+    "potassium": "TEST"
+  },
+  {
+    "calcium": "TEST"
+  },
+  {
+    "ALT": "TEST"
+  },
+  {
+    "AST": "TEST"
+  },
+  {
+    "direct bilirubin": "TEST"
+  },
+  {
+    "LDH": "TEST"
+  },
+  {
+    "serum iron": "TEST"
+  },
+  {
+    "total iron unbound": "TEST"
+  },
+  {
+    "ferritin level": "TEST"
+  },
+  {
+    "back discomfort": "PROBLEM"
+  },
+  {
+    "lumbosacral back x-ray": "TEST"
+  },
+  {
+    "degenerative disk disease": "PROBLEM"
+  },
+  {
+    "compression fracture": "PROBLEM"
+  }
+]

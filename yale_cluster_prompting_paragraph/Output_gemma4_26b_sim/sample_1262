@@ -1,0 +1,182 @@
+[
+  {
+    "mesothelioma": "PROBLEM"
+  },
+  {
+    "pleural effusion": "PROBLEM"
+  },
+  {
+    "atrial fibrillation": "PROBLEM"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "ascites": "PROBLEM"
+  },
+  {
+    "esophageal reflux": "PROBLEM"
+  },
+  {
+    "deep venous thrombosis": "PROBLEM"
+  },
+  {
+    "decortication of the lung": "TREATMENT"
+  },
+  {
+    "pleural biopsy": "TEST"
+  },
+  {
+    "transpleural fluoroscopy": "TEST"
+  },
+  {
+    "thoracentesis": "TREATMENT"
+  },
+  {
+    "Port-A-Cath placement": "TREATMENT"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "pericarditis": "PROBLEM"
+  },
+  {
+    "pericardectomy": "TREATMENT"
+  },
+  {
+    "Chest x-ray": "TEST"
+  },
+  {
+    "RNCA": "PROBLEM"
+  },
+  {
+    "intracranial thrombolytic treatment": "TREATMENT"
+  },
+  {
+    "MCA": "PROBLEM"
+  },
+  {
+    "Mesenteric venous thrombosis": "PROBLEM"
+  },
+  {
+    "Pericardial window": "TREATMENT"
+  },
+  {
+    "Cholecystectomy": "TREATMENT"
+  },
+  {
+    "coronary artery disease": "PROBLEM"
+  },
+  {
+    "CVA": "PROBLEM"
+  },
+  {
+    "diabetes": "PROBLEM"
+  },
+  {
+    "CHF": "PROBLEM"
+  },
+  {
+    "MI": "PROBLEM"
+  },
+  {
+    "cancer": "PROBLEM"
+  },
+  {
+    "Coumadin": "DRUG"
+  },
+  {
+    "INR": "TEST"
+  },
+  {
+    "Amiodarone": "DRUG"
+  },
+  {
+    "numbness": "PROBLEM"
+  },
+  {
+    "tingling": "PROBLEM"
+  },
+  {
+    "lymphadenopathy": "PROBLEM"
+  },
+  {
+    "Pleural friction rub": "PROBLEM"
+  },
+  {
+    "organomegaly": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "clubbing": "PROBLEM"
+  },
+  {
+    "cyanosis": "PROBLEM"
+  },
+  {
+    "echocardiogram": "TEST"
+  },
+  {
+    "Lovenox": "DRUG"
+  },
+  {
+    "DVT": "PROBLEM"
+  },
+  {
+    "mesenteric pain": "PROBLEM"
+  },
+  {
+    "thrombosis": "PROBLEM"
+  },
+  {
+    "CT scan": "TEST"
+  },
+  {
+    "mediastinal lymph node": "PROBLEM"
+  },
+  {
+    "pathology": "TEST"
+  },
+  {
+    "chest tube placement": "TREATMENT"
+  },
+  {
+    "thoracoscopy": "TEST"
+  },
+  {
+    "fluid biopsies": "TEST"
+  },
+  {
+    "PET CT": "TEST"
+  },
+  {
+    "chemotherapy": "TREATMENT"
+  },
+  {
+    "cisplatin": "DRUG"
+  },
+  {
+    "Alimta": "DRUG"
+  },
+  {
+    "heparin": "DRUG"
+  },
+  {
+    "Zofran": "DRUG"
+  },
+  {
+    "Phenergan": "DRUG"
+  },
+  {
+    "Vicodin": "DRUG"
+  }
+]

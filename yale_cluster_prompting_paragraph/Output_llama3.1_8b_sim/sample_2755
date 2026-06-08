@@ -1,0 +1,56 @@
+[
+  {
+    "itchy rash": "PROBLEM"
+  },
+  {
+    "urticaria": "PROBLEM"
+  },
+  {
+    "pruritus": "PROBLEM"
+  },
+  {
+    "lip swelling": "PROBLEM"
+  },
+  {
+    "allergic reaction": "PROBLEM"
+  },
+  {
+    "epinephrine": "DRUG"
+  },
+  {
+    "Benadryl": "DRUG"
+  },
+  {
+    "antihistamine": "DRUG"
+  },
+  {
+    "physical examination": "TEST"
+  },
+  {
+    "vital signs": "TEST"
+  },
+  {
+    "HEENT": "TEST"
+  },
+  {
+    "NECK": "TEST"
+  },
+  {
+    "LUNGS": "TEST"
+  },
+  {
+    "CARDIAC": "TEST"
+  },
+  {
+    "ABDOMEN": "TEST"
+  },
+  {
+    "SKIN": "TEST"
+  },
+  {
+    "Benadryl": "TREATMENT"
+  },
+  {
+    "epinephrine": "TREATMENT"
+  }
+]

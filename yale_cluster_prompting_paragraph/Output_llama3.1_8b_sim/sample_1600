@@ -1,0 +1,38 @@
+[
+  {
+    "Preeclampsia": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "gestational diabetes mellitus": "PROBLEM"
+  },
+  {
+    "cesarean section": "TREATMENT"
+  },
+  {
+    "Cardizem": "DRUG"
+  },
+  {
+    "metoprolol": "DRUG"
+  },
+  {
+    "hydralazine": "DRUG"
+  },
+  {
+    "labetalol": "DRUG"
+  },
+  {
+    "hydrochlorothiazide": "DRUG"
+  },
+  {
+    "insulin supplementation": "DRUG"
+  },
+  {
+    "echocardiogram": "TEST"
+  },
+  {
+    "lungs": "PROBLEM"
+  }
+]

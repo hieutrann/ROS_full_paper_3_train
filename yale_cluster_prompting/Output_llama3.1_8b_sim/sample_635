@@ -1,0 +1,410 @@
+[
+  {
+    "coronary angiography": "TEST"
+  },
+  {
+    "vein graft angiography": "TEST"
+  },
+  {
+    "left ventricular pressure measurement": "TEST"
+  },
+  {
+    "angiography": "TEST"
+  },
+  {
+    "cardiac catheterization": "TEST"
+  },
+  {
+    "surgery": "TREATMENT"
+  },
+  {
+    "PROCEDURE PERFORMED": "TREATMENT"
+  },
+  {
+    "coronary angiography": "TEST"
+  },
+  {
+    "vein graft angiography": "TEST"
+  },
+  {
+    "left ventricular pressure measurement and angiography": "TEST"
+  },
+  {
+    "left heart catheterization": "TEST"
+  },
+  {
+    "2": "PROBLEM"
+  },
+  {
+    "femoral selective angiogram": "TEST"
+  },
+  {
+    "3": "PROBLEM"
+  },
+  {
+    "Angio-Seal": "TREATMENT"
+  },
+  {
+    "coronary atherosclerotic heart disease": "PROBLEM"
+  },
+  {
+    "coronary disease": "PROBLEM"
+  },
+  {
+    "coronary arteriogram": "TEST"
+  },
+  {
+    "chest discomfort": "PROBLEM"
+  },
+  {
+    "smoking": "PROBLEM"
+  },
+  {
+    "diabetes": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "hyperlipidemia": "PROBLEM"
+  },
+  {
+    "disease": "PROBLEM"
+  },
+  {
+    "intervention": "TREATMENT"
+  },
+  {
+    "cardiac catheterization lab": "TREATMENT"
+  },
+  {
+    "cardiac catheterization": "TREATMENT"
+  },
+  {
+    "lidocaine": "DRUG"
+  },
+  {
+    "6-French sheath": "TREATMENT"
+  },
+  {
+    "guide wire": "TREATMENT"
+  },
+  {
+    "Coronary angiography": "TEST"
+  },
+  {
+    "left ventricular measurement and angiography": "TEST"
+  },
+  {
+    "6-French JL4 diagnostic catheter": "TEST"
+  },
+  {
+    "left coronary artery": "PROBLEM"
+  },
+  {
+    "diagnostic catheter": "TREATMENT"
+  },
+  {
+    "artery": "PROBLEM"
+  },
+  {
+    "saphenous vein graft conduit": "PROBLEM"
+  },
+  {
+    "power injection": "TREATMENT"
+  },
+  {
+    "left ventriculogram": "TEST"
+  },
+  {
+    "left ventricular pressures": "TEST"
+  },
+  {
+    "arteriography": "TEST"
+  },
+  {
+    "arteriography": "TREATMENT"
+  },
+  {
+    "femoral artery": "PROBLEM"
+  },
+  {
+    "atherosclerotic plaque": "PROBLEM"
+  },
+  {
+    "arteriotomy": "TREATMENT"
+  },
+  {
+    "artery": "PROBLEM"
+  },
+  {
+    "femoral artery": "PROBLEM"
+  },
+  {
+    "profunda femoris arteries": "PROBLEM"
+  },
+  {
+    "bifurcation": "PROBLEM"
+  },
+  {
+    "Perclose device": "TREATMENT"
+  },
+  {
+    "Perclose": "TREATMENT"
+  },
+  {
+    "Angio-Seal": "TREATMENT"
+  },
+  {
+    "femoral arteriotomy": "PROBLEM"
+  },
+  {
+    "hemostasis": "PROBLEM"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "aortic pressure": "TEST"
+  },
+  {
+    "left ventricular pressure": "TEST"
+  },
+  {
+    "end-diastolic pressure": "TEST"
+  },
+  {
+    "aortic valve": "PROBLEM"
+  },
+  {
+    "gradient": "PROBLEM"
+  },
+  {
+    "ventricle": "PROBLEM"
+  },
+  {
+    "Left ventricular ejection fraction": "PROBLEM"
+  },
+  {
+    "Mitral regurgitation": "PROBLEM"
+  },
+  {
+    "wall motion": "PROBLEM"
+  },
+  {
+    "atherosclerotic plaque": "PROBLEM"
+  },
+  {
+    "LAD": "PROBLEM"
+  },
+  {
+    "atherosclerotic plaque": "PROBLEM"
+  },
+  {
+    "stenosis": "PROBLEM"
+  },
+  {
+    "artery": "PROBLEM"
+  },
+  {
+    "anastomosis": "PROBLEM"
+  },
+  {
+    "saphenous vein graft": "TREATMENT"
+  },
+  {
+    "OM": "PROBLEM"
+  },
+  {
+    "vessel": "PROBLEM"
+  },
+  {
+    "coronary artery": "PROBLEM"
+  },
+  {
+    "atherosclerotic plaque": "PROBLEM"
+  },
+  {
+    "coronary artery": "PROBLEM"
+  },
+  {
+    "stenosis": "PROBLEM"
+  },
+  {
+    "stenosis": "PROBLEM"
+  },
+  {
+    "PDA": "PROBLEM"
+  },
+  {
+    "PDA": "PROBLEM"
+  },
+  {
+    "coronary artery": "PROBLEM"
+  },
+  {
+    "saphenous vein graft": "TREATMENT"
+  },
+  {
+    "PDA": "PROBLEM"
+  },
+  {
+    "PDA": "PROBLEM"
+  },
+  {
+    "PLV disease": "PROBLEM"
+  },
+  {
+    "coronary artery": "PROBLEM"
+  },
+  {
+    "graft": "TREATMENT"
+  },
+  {
+    "saphenous vein graft": "TREATMENT"
+  },
+  {
+    "left anterior descending": "PROBLEM"
+  },
+  {
+    "anastomosis": "TREATMENT"
+  },
+  {
+    "vessel": "PROBLEM"
+  },
+  {
+    "retrograde filling": "TEST"
+  },
+  {
+    "diagonal branch": "TEST"
+  },
+  {
+    "saphenous vein graft": "TREATMENT"
+  },
+  {
+    "obtuse marginal": "PROBLEM"
+  },
+  {
+    "prior study": "TEST"
+  },
+  {
+    "procedure": "TREATMENT"
+  },
+  {
+    "LAD": "PROBLEM"
+  },
+  {
+    "circumflex disease": "PROBLEM"
+  },
+  {
+    "OM": "PROBLEM"
+  },
+  {
+    "percutaneous intervention": "TREATMENT"
+  },
+  {
+    "distal disease": "PROBLEM"
+  },
+  {
+    "PLV disease": "PROBLEM"
+  },
+  {
+    "PDA disease": "PROBLEM"
+  },
+  {
+    "saphenous vein graft": "TREATMENT"
+  },
+  {
+    "OM": "PROBLEM"
+  },
+  {
+    "PDA": "PROBLEM"
+  },
+  {
+    "LAD": "PROBLEM"
+  },
+  {
+    "left ventricular systolic function": "PROBLEM"
+  },
+  {
+    "therapy": "TREATMENT"
+  },
+  {
+    "antihypertensive": "DRUG"
+  },
+  {
+    "antihyperlipidemic": "DRUG"
+  },
+  {
+    "LDL": "PROBLEM"
+  },
+  {
+    "triglyceride": "PROBLEM"
+  },
+  {
+    "smoking": "PROBLEM"
+  },
+  {
+    "bedrest": "TREATMENT"
+  },
+  {
+    "carotid duplex Doppler ultrasound": "TEST"
+  },
+  {
+    "carotid bruits": "PROBLEM"
+  },
+  {
+    "surgery": "TREATMENT"
+  },
+  {
+    "catheterization": "TREATMENT"
+  },
+  {
+    "vein graft": "TREATMENT"
+  },
+  {
+    "angiography": "TEST"
+  },
+  {
+    "angiogram": "TEST"
+  },
+  {
+    "angio-seal": "DRUG"
+  },
+  {
+    "closure device": "DRUG"
+  },
+  {
+    "coronary atherosclerotic heart disease": "PROBLEM"
+  },
+  {
+    "saphenous vein graft": "PROBLEM"
+  },
+  {
+    "ventricular pressure": "PROBLEM"
+  },
+  {
+    "coronary artery": "PROBLEM"
+  },
+  {
+    "saphenous vein": "PROBLEM"
+  },
+  {
+    "atherosclerotic": "PROBLEM"
+  },
+  {
+    "coronary": "PROBLEM"
+  },
+  {
+    "artery": "PROBLEM"
+  },
+  {
+    "bifurcation": "PROBLEM"
+  },
+  {
+    "pda": "PROBLEM"
+  },
+  {
+    "ventricular": "PROBLEM"
+  }
+]

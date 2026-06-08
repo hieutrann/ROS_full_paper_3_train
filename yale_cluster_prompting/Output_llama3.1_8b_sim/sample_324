@@ -1,0 +1,506 @@
+[
+  {
+    "Eyelids normal color": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "foreign body": "PROBLEM"
+  },
+  {
+    "lacerations": "PROBLEM"
+  },
+  {
+    "jaundice": "PROBLEM"
+  },
+  {
+    "Cornea clear": "TEST"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "Pupils": "TEST"
+  },
+  {
+    "Iris normal color": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "Anterior chamber": "PROBLEM"
+  },
+  {
+    "Lacrimal ducts": "PROBLEM"
+  },
+  {
+    "Fundi": "TEST"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "discharge": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "tympanic membranes": "PROBLEM"
+  },
+  {
+    "light reflex": "TEST"
+  },
+  {
+    "middle ear effusions": "PROBLEM"
+  },
+  {
+    "symmetrical": "PROBLEM"
+  },
+  {
+    "skin lesions": "PROBLEM"
+  },
+  {
+    "Nares": "PROBLEM"
+  },
+  {
+    "Turbinates": "PROBLEM"
+  },
+  {
+    "mucus": "PROBLEM"
+  },
+  {
+    "internal lesions": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "exudates": "PROBLEM"
+  },
+  {
+    "Buccal mucosa": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "lesion": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "palate": "TEST"
+  },
+  {
+    "Teeth": "PROBLEM"
+  },
+  {
+    "adenopathy": "PROBLEM"
+  },
+  {
+    "Tonsils": "PROBLEM"
+  },
+  {
+    "Uvula": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "symmetrical": "PROBLEM"
+  },
+  {
+    "adenopathy": "PROBLEM"
+  },
+  {
+    "thyromegaly": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "range of motion": "TEST"
+  },
+  {
+    "tender": "PROBLEM"
+  },
+  {
+    "Trachea": "PROBLEM"
+  },
+  {
+    "Symmetrical": "PROBLEM"
+  },
+  {
+    "auscultation": "TEST"
+  },
+  {
+    "wheezing": "PROBLEM"
+  },
+  {
+    "rales": "PROBLEM"
+  },
+  {
+    "rhonchi": "PROBLEM"
+  },
+  {
+    "nontender": "PROBLEM"
+  },
+  {
+    "lung excursion": "TEST"
+  },
+  {
+    "accessory muscle use": "PROBLEM"
+  },
+  {
+    "S3": "PROBLEM"
+  },
+  {
+    "S4": "PROBLEM"
+  },
+  {
+    "Heart rate": "TEST"
+  },
+  {
+    "Abdominal": "PROBLEM"
+  },
+  {
+    "bowel sounds": "TEST"
+  },
+  {
+    "hepatomegaly": "PROBLEM"
+  },
+  {
+    "splenomegaly": "PROBLEM"
+  },
+  {
+    "masses": "PROBLEM"
+  },
+  {
+    "bruits": "PROBLEM"
+  },
+  {
+    "Labia majora": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "Labia minora": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "Clitoris": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "mucosa": "TEST"
+  },
+  {
+    "discharge": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "Ovaries": "PROBLEM"
+  },
+  {
+    "pelvic masses": "PROBLEM"
+  },
+  {
+    "Uterus": "PROBLEM"
+  },
+  {
+    "external hemorrhoids": "PROBLEM"
+  },
+  {
+    "strength": "TEST"
+  },
+  {
+    "muscle groups": "TEST"
+  },
+  {
+    "range of motion": "TEST"
+  },
+  {
+    "joint effusions": "PROBLEM"
+  },
+  {
+    "Joints": "PROBLEM"
+  },
+  {
+    "muscle masses": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "range of motion": "TEST"
+  },
+  {
+    "Nontender": "PROBLEM"
+  },
+  {
+    "pain": "PROBLEM"
+  },
+  {
+    "Anterior and posterior drawer test": "TEST"
+  },
+  {
+    "pain": "PROBLEM"
+  },
+  {
+    "Collateral ligaments": "PROBLEM"
+  },
+  {
+    "joint effusion": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "crepitus": "PROBLEM"
+  },
+  {
+    "ecchymosis": "PROBLEM"
+  },
+  {
+    "tenderness": "PROBLEM"
+  },
+  {
+    "range of motion": "TEST"
+  },
+  {
+    "joint effusion": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "nontender": "PROBLEM"
+  },
+  {
+    "drawer tests": "TEST"
+  },
+  {
+    "Lachman's test": "TEST"
+  },
+  {
+    "Collateral ligaments": "PROBLEM"
+  },
+  {
+    "Bursas": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "range of motion": "TEST"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "effusion": "PROBLEM"
+  },
+  {
+    "Tinel": "TEST"
+  },
+  {
+    "Phalen": "TEST"
+  },
+  {
+    "strength": "TEST"
+  },
+  {
+    "range of motion": "TEST"
+  },
+  {
+    "joint effusion": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "strength": "TEST"
+  },
+  {
+    "Nontender": "PROBLEM"
+  },
+  {
+    "Olecranon bursa": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "supination": "TEST"
+  },
+  {
+    "pronation": "TEST"
+  },
+  {
+    "crepitus": "PROBLEM"
+  },
+  {
+    "swinging test": "TEST"
+  },
+  {
+    "Trochanteric bursa": "PROBLEM"
+  },
+  {
+    "range of motion": "TEST"
+  },
+  {
+    "strength": "TEST"
+  },
+  {
+    "pain": "PROBLEM"
+  },
+  {
+    "crepitus": "PROBLEM"
+  },
+  {
+    "gait": "TEST"
+  },
+  {
+    "Alert and oriented": "TEST"
+  },
+  {
+    "delusions": "PROBLEM"
+  },
+  {
+    "hallucinations": "PROBLEM"
+  },
+  {
+    "loose associations": "PROBLEM"
+  },
+  {
+    "flight of ideas": "PROBLEM"
+  },
+  {
+    "tangentiality": "PROBLEM"
+  },
+  {
+    "affect": "PROBLEM"
+  },
+  {
+    "psychomotor slowing": "PROBLEM"
+  },
+  {
+    "agitation": "PROBLEM"
+  },
+  {
+    "Eye contact": "PROBLEM"
+  },
+  {
+    "crepitus": "PROBLEM"
+  },
+  {
+    "ecchymosis": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "erythema": "PROBLEM"
+  },
+  {
+    "joint effusion": "PROBLEM"
+  },
+  {
+    "lesions": "PROBLEM"
+  },
+  {
+    "effusions": "PROBLEM"
+  },
+  {
+    "abdominal": "TEST"
+  },
+  {
+    "anterior chamber": "TEST"
+  },
+  {
+    "cardiovascular": "TEST"
+  },
+  {
+    "chest": "TEST"
+  },
+  {
+    "ear": "TEST"
+  },
+  {
+    "ear canal": "TEST"
+  },
+  {
+    "eye": "TEST"
+  },
+  {
+    "eyelids": "TEST"
+  },
+  {
+    "labia majora": "TEST"
+  },
+  {
+    "labia minora": "TEST"
+  },
+  {
+    "nares": "TEST"
+  },
+  {
+    "neck": "TEST"
+  },
+  {
+    "vaginal mucosa": "TEST"
+  },
+  {
+    "normal range of motion": "TEST"
+  },
+  {
+    "normal strength": "TEST"
+  },
+  {
+    "normal color": "TEST"
+  },
+  {
+    "nontender": "TEST"
+  },
+  {
+    "muscle": "TEST"
+  },
+  {
+    "joints": "TEST"
+  }
+]

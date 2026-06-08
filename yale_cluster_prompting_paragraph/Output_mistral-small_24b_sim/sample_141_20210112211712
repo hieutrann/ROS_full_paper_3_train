@@ -1,0 +1,125 @@
+[
+  {
+    "apparent distress": "PROBLEM"
+  },
+  {
+    "glaucoma": "PROBLEM"
+  },
+  {
+    "cataracts": "PROBLEM"
+  },
+  {
+    "papilledema": "PROBLEM"
+  },
+  {
+    "carotid bruit": "PROBLEM"
+  },
+  {
+    "JVD": "PROBLEM"
+  },
+  {
+    "cervical adenopathy": "PROBLEM"
+  },
+  {
+    "stridor": "PROBLEM"
+  },
+  {
+    "subcutaneous emphysema": "PROBLEM"
+  },
+  {
+    "nodularity": "PROBLEM"
+  },
+  {
+    "hepatosplenomegaly": "PROBLEM"
+  },
+  {
+    "mass": "PROBLEM"
+  },
+  {
+    "tenderness": "PROBLEM"
+  },
+  {
+    "rebound": "PROBLEM"
+  },
+  {
+    "rigidity": "PROBLEM"
+  },
+  {
+    "guarding": "PROBLEM"
+  },
+  {
+    "aortic impulse": "PROBLEM"
+  },
+  {
+    "intraabdominal bruit": "PROBLEM"
+  },
+  {
+    "hernia": "PROBLEM"
+  },
+  {
+    "hydrocele": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "cyanosis": "PROBLEM"
+  },
+  {
+    "clubbing": "PROBLEM"
+  },
+  {
+    "deep venous thrombosis": "PROBLEM"
+  },
+  {
+    "spinous process tenderness": "PROBLEM"
+  },
+  {
+    "CVA tenderness": "PROBLEM"
+  },
+  {
+    "Kernig": "TEST"
+  },
+  {
+    "Brudzinski": "TEST"
+  },
+  {
+    "Hemoccult": "TEST"
+  },
+  {
+    "digital palpation": "TEST"
+  },
+  {
+    "auscultation": "TEST"
+  },
+  {
+    "percussion": "TEST"
+  },
+  {
+    "EOMI": "TEST"
+  },
+  {
+    "PERRLA": "TEST"
+  },
+  {
+    "Funduscopic examination": "TEST"
+  },
+  {
+    "TMs": "TEST"
+  },
+  {
+    "JVD": "TEST"
+  },
+  {
+    "PMI": "TEST"
+  },
+  {
+    "Hemoccult": "DRUG"
+  },
+  {
+    "nodularity": "PROBLEM"
+  },
+  {
+    "tenderness": "PROBLEM"
+  }
+]

@@ -1,0 +1,131 @@
+[
+  {
+    "Sepsis": "PROBLEM"
+  },
+  {
+    "urinary tract infection": "PROBLEM"
+  },
+  {
+    "patient": "PROBLEM"
+  },
+  {
+    "Temperature": "TEST"
+  },
+  {
+    "temperature": "TEST"
+  },
+  {
+    "chest": "PROBLEM"
+  },
+  {
+    "heart sounds": "TEST"
+  },
+  {
+    "Benign": "PROBLEM"
+  },
+  {
+    "Right renal angle": "PROBLEM"
+  },
+  {
+    "Bowel sounds": "TEST"
+  },
+  {
+    "alert": "PROBLEM"
+  },
+  {
+    "oriented": "PROBLEM"
+  },
+  {
+    "White count": "TEST"
+  },
+  {
+    "Hemoglobin": "TEST"
+  },
+  {
+    "hematocrit": "TEST"
+  },
+  {
+    "platelets": "TEST"
+  },
+  {
+    "BUN": "TEST"
+  },
+  {
+    "creatinine": "TEST"
+  },
+  {
+    "ASSESSMENT AND PLAN": "TEST"
+  },
+  {
+    "Sepsis": "PROBLEM"
+  },
+  {
+    "urinary tract infection": "PROBLEM"
+  },
+  {
+    "Escherichia coli": "PROBLEM"
+  },
+  {
+    "Levaquin": "DRUG"
+  },
+  {
+    "doripenem": "DRUG"
+  },
+  {
+    "Urinary tract infection": "PROBLEM"
+  },
+  {
+    "doripenem": "DRUG"
+  },
+  {
+    "Foley catheter": "TREATMENT"
+  },
+  {
+    "Hypotension": "PROBLEM"
+  },
+  {
+    "intravenous fluids": "TREATMENT"
+  },
+  {
+    "Ischemic cardiomyopathy": "PROBLEM"
+  },
+  {
+    "Diabetes type 2": "PROBLEM"
+  },
+  {
+    "insulin sliding scale": "TREATMENT"
+  },
+  {
+    "pulmonary embolism": "PROBLEM"
+  },
+  {
+    "INR": "TEST"
+  },
+  {
+    "Coumadin": "DRUG"
+  },
+  {
+    "coronary artery disease": "PROBLEM"
+  },
+  {
+    "Troponin": "TEST"
+  },
+  {
+    "troponin": "TEST"
+  },
+  {
+    "sepsis": "PROBLEM"
+  },
+  {
+    "urinary tract infection": "PROBLEM"
+  },
+  {
+    "doripenem": "DRUG"
+  },
+  {
+    "troponin": "TEST"
+  },
+  {
+    "urinary infection": "PROBLEM"
+  }
+]

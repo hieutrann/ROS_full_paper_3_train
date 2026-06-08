@@ -1,0 +1,77 @@
+[
+  {
+    "stasis ulcer": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "cellulitis": "PROBLEM"
+  },
+  {
+    "venous ulcers": "PROBLEM"
+  },
+  {
+    "bipedal edema": "PROBLEM"
+  },
+  {
+    "fevers": "PROBLEM"
+  },
+  {
+    "wound cultures": "TEST"
+  },
+  {
+    "MRI": "TEST"
+  },
+  {
+    "Primaxin": "DRUG"
+  },
+  {
+    "daptomycin": "DRUG"
+  },
+  {
+    "clonidine": "DRUG"
+  },
+  {
+    "furosemide": "DRUG"
+  },
+  {
+    "potassium chloride": "DRUG"
+  },
+  {
+    "lisinopril": "DRUG"
+  },
+  {
+    "metoprolol": "DRUG"
+  },
+  {
+    "ranitidine": "DRUG"
+  },
+  {
+    "Colace": "DRUG"
+  },
+  {
+    "amlodipine": "DRUG"
+  },
+  {
+    "zinc sulfate": "DRUG"
+  },
+  {
+    "Lortab": "DRUG"
+  },
+  {
+    "multivitamins with minerals": "DRUG"
+  },
+  {
+    "an": "TEST"
+  },
+  {
+    "bowel": "TEST"
+  },
+  {
+    "edema and": "TREATMENT"
+  },
+  {
+    "vascular surgery": "TREATMENT"
+  }
+]

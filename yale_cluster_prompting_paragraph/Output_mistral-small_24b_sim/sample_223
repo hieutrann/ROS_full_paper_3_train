@@ -1,0 +1,62 @@
+[
+  {
+    "right shoulder pain": "PROBLEM"
+  },
+  {
+    "shoulder pain": "PROBLEM"
+  },
+  {
+    "muscular strain": "PROBLEM"
+  },
+  {
+    "impingement": "PROBLEM"
+  },
+  {
+    "Claritin": "DRUG"
+  },
+  {
+    "allergic rhinitis": "PROBLEM"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "respirations": "TEST"
+  },
+  {
+    "pulse": "TEST"
+  },
+  {
+    "temperature": "TEST"
+  },
+  {
+    "range of motion": "TEST"
+  },
+  {
+    "Neer's": "TEST"
+  },
+  {
+    "Hawkins impingement": "TEST"
+  },
+  {
+    "sulcus": "TEST"
+  },
+  {
+    "apprehension": "TEST"
+  },
+  {
+    "Speed's": "TEST"
+  },
+  {
+    "Yergason's": "TEST"
+  },
+  {
+    "x-rays": "TEST"
+  },
+  {
+    "MRI": "TEST"
+  },
+  {
+    "work": "TREATMENT"
+  }
+]

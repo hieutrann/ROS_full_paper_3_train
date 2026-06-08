@@ -1,0 +1,92 @@
+[
+  {
+    "Suspicious calcifications": "PROBLEM"
+  },
+  {
+    "calcifications": "PROBLEM"
+  },
+  {
+    "false aneurysm": "PROBLEM"
+  },
+  {
+    "hematoma": "PROBLEM"
+  },
+  {
+    "ecchymosis": "PROBLEM"
+  },
+  {
+    "pulsatile mass": "PROBLEM"
+  },
+  {
+    "breast cancer": "PROBLEM"
+  },
+  {
+    "asthma": "PROBLEM"
+  },
+  {
+    "pneumonia": "PROBLEM"
+  },
+  {
+    "colon resection": "TREATMENT"
+  },
+  {
+    "sinus surgeries": "TREATMENT"
+  },
+  {
+    "Plavix": "DRUG"
+  },
+  {
+    "Arava": "DRUG"
+  },
+  {
+    "Nexium": "DRUG"
+  },
+  {
+    "Fosamax": "DRUG"
+  },
+  {
+    "Advair": "DRUG"
+  },
+  {
+    "Singulair": "DRUG"
+  },
+  {
+    "Spiriva": "DRUG"
+  },
+  {
+    "Lexapro": "DRUG"
+  },
+  {
+    "Aspirin": "DRUG"
+  },
+  {
+    "Penicillin": "DRUG"
+  },
+  {
+    "Iodine": "DRUG"
+  },
+  {
+    "Codeine": "DRUG"
+  },
+  {
+    "stereotactic core needle biopsy": "TEST"
+  },
+  {
+    "sonographic evaluation": "TEST"
+  },
+  {
+    "ultrasound guidance": "TEST"
+  },
+  {
+    "radiograph": "TEST"
+  },
+  {
+    "excisional biopsy": "TREATMENT"
+  },
+  {
+    "guidewire localization": "TREATMENT"
+  },
+  {
+    "intraoperative specimen radiography": "TEST"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "Sepsis": "PROBLEM"
+  },
+  {
+    "urinary tract infection": "PROBLEM"
+  },
+  {
+    "Escherichia coli": "PROBLEM"
+  },
+  {
+    "Levaquin": "DRUG"
+  },
+  {
+    "doripenem": "DRUG"
+  },
+  {
+    "Foley catheter": "TREATMENT"
+  },
+  {
+    "intravenous fluids": "TREATMENT"
+  },
+  {
+    "insulin sliding scale": "TREATMENT"
+  },
+  {
+    "Coumadin": "DRUG"
+  },
+  {
+    "coronary artery disease": "PROBLEM"
+  },
+  {
+    "troponin": "TEST"
+  },
+  {
+    "urinary": "PROBLEM"
+  },
+  {
+    "infection": "PROBLEM"
+  }
+]

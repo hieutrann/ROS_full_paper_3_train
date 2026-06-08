@@ -1,0 +1,386 @@
+[
+  {
+    "Nausea": "PROBLEM"
+  },
+  {
+    "feeling faint": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "weak": "PROBLEM"
+  },
+  {
+    "salt": "DRUG"
+  },
+  {
+    "Nausea": "PROBLEM"
+  },
+  {
+    "feeling faint": "PROBLEM"
+  },
+  {
+    "74-year-old": "PROBLEM"
+  },
+  {
+    "appetite": "PROBLEM"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "weak": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "chills": "PROBLEM"
+  },
+  {
+    "sweats": "PROBLEM"
+  },
+  {
+    "ear pain": "PROBLEM"
+  },
+  {
+    "URI symptoms": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "dyspnea": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "diarrhea": "PROBLEM"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "melena": "PROBLEM"
+  },
+  {
+    "hematochezia": "PROBLEM"
+  },
+  {
+    "urinary symptoms": "PROBLEM"
+  },
+  {
+    "headache": "PROBLEM"
+  },
+  {
+    "neck pain": "PROBLEM"
+  },
+  {
+    "back pain": "PROBLEM"
+  },
+  {
+    "weakness": "PROBLEM"
+  },
+  {
+    "paresthesias": "PROBLEM"
+  },
+  {
+    "Diovan": "DRUG"
+  },
+  {
+    "estradiol": "DRUG"
+  },
+  {
+    "Norvasc": "DRUG"
+  },
+  {
+    "Wellbutrin SR": "DRUG"
+  },
+  {
+    "O2": "TREATMENT"
+  },
+  {
+    "MORPHINE": "DRUG"
+  },
+  {
+    "VOMITING": "PROBLEM"
+  },
+  {
+    "COPD": "PROBLEM"
+  },
+  {
+    "hypertension": "PROBLEM"
+  },
+  {
+    "Tobacco use": "PROBLEM"
+  },
+  {
+    "Alcohol use": "PROBLEM"
+  },
+  {
+    "TETANUS IMMUNIZATION": "DRUG"
+  },
+  {
+    "hysterectomy": "TREATMENT"
+  },
+  {
+    "Temperature": "TEST"
+  },
+  {
+    "pulse": "TEST"
+  },
+  {
+    "respirations": "TEST"
+  },
+  {
+    "BP": "TEST"
+  },
+  {
+    "EOMI": "TEST"
+  },
+  {
+    "PERRL.": "TEST"
+  },
+  {
+    "MOUTH": "PROBLEM"
+  },
+  {
+    "mucous membranes": "TEST"
+  },
+  {
+    "NECK": "PROBLEM"
+  },
+  {
+    "JVD": "PROBLEM"
+  },
+  {
+    "expiratory wheeze": "PROBLEM"
+  },
+  {
+    "tachycardic": "PROBLEM"
+  },
+  {
+    "bowel sounds": "TEST"
+  },
+  {
+    "rebound": "TEST"
+  },
+  {
+    "guarding": "TEST"
+  },
+  {
+    "CVA tenderness": "PROBLEM"
+  },
+  {
+    "pretibial edema": "PROBLEM"
+  },
+  {
+    "Cranial nerves": "TEST"
+  },
+  {
+    "WBC": "TEST"
+  },
+  {
+    "differential": "TEST"
+  },
+  {
+    "Hemoglobin": "TEST"
+  },
+  {
+    "hematocrit": "TEST"
+  },
+  {
+    "sodium": "TEST"
+  },
+  {
+    "chloride": "TEST"
+  },
+  {
+    "calcium": "TEST"
+  },
+  {
+    "total protein": "TEST"
+  },
+  {
+    "albumin": "TEST"
+  },
+  {
+    "Amylase": "TEST"
+  },
+  {
+    "lipase": "TEST"
+  },
+  {
+    "urinalysis": "TEST"
+  },
+  {
+    "hemoglobin": "TEST"
+  },
+  {
+    "hemoglobin": "TEST"
+  },
+  {
+    "hemoglobin": "TEST"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "Chest x-ray": "TEST"
+  },
+  {
+    "COPD": "PROBLEM"
+  },
+  {
+    "sinus tachycardia": "PROBLEM"
+  },
+  {
+    "orthostatic vital sign changes": "PROBLEM"
+  },
+  {
+    "albuterol": "DRUG"
+  },
+  {
+    "small volume nebulizer": "TREATMENT"
+  },
+  {
+    "expiratory wheezing": "PROBLEM"
+  },
+  {
+    "normal saline lock": "TREATMENT"
+  },
+  {
+    "IV fluids": "TREATMENT"
+  },
+  {
+    "normal saline": "DRUG"
+  },
+  {
+    "urine": "TEST"
+  },
+  {
+    "sphincter tone": "TEST"
+  },
+  {
+    "rectal secretions": "TEST"
+  },
+  {
+    "better": "PROBLEM"
+  },
+  {
+    "normal sinus rhythm": "PROBLEM"
+  },
+  {
+    "ectopy": "PROBLEM"
+  },
+  {
+    "Blood pressure": "TEST"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "hyponatremia": "PROBLEM"
+  },
+  {
+    "tiredness": "PROBLEM"
+  },
+  {
+    "not feeling well": "PROBLEM"
+  },
+  {
+    "rectal bleeding": "PROBLEM"
+  },
+  {
+    "Acute tiredness": "PROBLEM"
+  },
+  {
+    "Anemia": "PROBLEM"
+  },
+  {
+    "Acute hyponatremia": "PROBLEM"
+  },
+  {
+    "salt": "DRUG"
+  },
+  {
+    "anemia": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "chills": "PROBLEM"
+  },
+  {
+    "sweats": "PROBLEM"
+  },
+  {
+    "ear pain": "PROBLEM"
+  },
+  {
+    "uri symptoms": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "dyspnea": "PROBLEM"
+  },
+  {
+    "chest pain": "PROBLEM"
+  },
+  {
+    "vomiting": "PROBLEM"
+  },
+  {
+    "diarrhea": "PROBLEM"
+  },
+  {
+    "abdominal pain": "PROBLEM"
+  },
+  {
+    "melena": "PROBLEM"
+  },
+  {
+    "hematochezia": "PROBLEM"
+  },
+  {
+    "urinary symptoms": "PROBLEM"
+  },
+  {
+    "headache": "PROBLEM"
+  },
+  {
+    "neck pain": "PROBLEM"
+  },
+  {
+    "back pain": "PROBLEM"
+  },
+  {
+    "weakness": "PROBLEM"
+  },
+  {
+    "paresthesias": "PROBLEM"
+  },
+  {
+    "feeling faint": "PROBLEM"
+  },
+  {
+    "edema": "PROBLEM"
+  },
+  {
+    "hemoglobin": "TEST"
+  },
+  {
+    "nausea": "PROBLEM"
+  },
+  {
+    "wellbutrin": "DRUG"
+  }
+]

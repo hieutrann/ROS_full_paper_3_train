@@ -1,0 +1,50 @@
+[
+  {
+    "Upper respiratory illness": "PROBLEM"
+  },
+  {
+    "apnea": "PROBLEM"
+  },
+  {
+    "pertussis": "PROBLEM"
+  },
+  {
+    "respiratory symptoms": "PROBLEM"
+  },
+  {
+    "cough": "PROBLEM"
+  },
+  {
+    "post-tussive emesis": "PROBLEM"
+  },
+  {
+    "fever": "PROBLEM"
+  },
+  {
+    "amoxicillin": "DRUG"
+  },
+  {
+    "Rocephin": "DRUG"
+  },
+  {
+    "CBC": "TEST"
+  },
+  {
+    "x-ray": "TEST"
+  },
+  {
+    "rapid influenza swab": "TEST"
+  },
+  {
+    "rapid RSV": "TEST"
+  },
+  {
+    "pertussis PCR swab": "TEST"
+  },
+  {
+    "pertussis culture": "TEST"
+  },
+  {
+    "Zithromax": "DRUG"
+  }
+]

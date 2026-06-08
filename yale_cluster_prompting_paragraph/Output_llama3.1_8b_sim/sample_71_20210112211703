@@ -1,0 +1,68 @@
+[
+  {
+    "Graves disease": "PROBLEM"
+  },
+  {
+    "Paroxysmal atrial fibrillation": "PROBLEM"
+  },
+  {
+    "Diverticulosis": "PROBLEM"
+  },
+  {
+    "GERD": "PROBLEM"
+  },
+  {
+    "High blood pressure": "PROBLEM"
+  },
+  {
+    "Prostatic hypertrophy": "PROBLEM"
+  },
+  {
+    "Perioperative elevated blood pressure": "PROBLEM"
+  },
+  {
+    "labetalol": "DRUG"
+  },
+  {
+    "Synthroid": "DRUG"
+  },
+  {
+    "aspirin": "DRUG"
+  },
+  {
+    "atenolol": "DRUG"
+  },
+  {
+    "lisinopril": "DRUG"
+  },
+  {
+    "terazosin": "DRUG"
+  },
+  {
+    "ENT": "TEST"
+  },
+  {
+    "GASTROINTESTINAL": "TEST"
+  },
+  {
+    "GASTROINTESTINAL": "TEST"
+  },
+  {
+    "laser surgery": "TREATMENT"
+  },
+  {
+    "transurethral resection of the prostate": "TREATMENT"
+  },
+  {
+    "bilateral inguinal hernia repair": "TREATMENT"
+  },
+  {
+    "right shoulder surgery with reconstruction": "TREATMENT"
+  },
+  {
+    "rotator cuff repair": "TREATMENT"
+  },
+  {
+    "left knee arthroplasty": "TREATMENT"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "renal cell carcinoma": "PROBLEM"
+  },
+  {
+    "renal cyst": "PROBLEM"
+  },
+  {
+    "Chronic obstructive pulmonary disease": "PROBLEM"
+  },
+  {
+    "Coronary artery disease": "PROBLEM"
+  },
+  {
+    "MRI": "TEST"
+  },
+  {
+    "cystoscopy": "TEST"
+  },
+  {
+    "robotic - Assisted laparoscopic left renal cyst decortication": "TREATMENT"
+  },
+  {
+    "cystoscopy": "TREATMENT"
+  },
+  {
+    "Left partial nephrectomy": "TREATMENT"
+  },
+  {
+    "Left radical nephrectomy": "TREATMENT"
+  },
+  {
+    "Left renal cyst decortication": "TREATMENT"
+  },
+  {
+    "pain medications": "DRUG"
+  },
+  {
+    "laxative": "DRUG"
+  }
+]

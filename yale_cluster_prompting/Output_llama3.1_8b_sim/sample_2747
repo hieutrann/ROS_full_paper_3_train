@@ -1,0 +1,272 @@
+[
+  {
+    "General Medicine": "TREATMENT"
+  },
+  {
+    "Cut on Foot": "PROBLEM"
+  },
+  {
+    "ER Visit": "TEST"
+  },
+  {
+    "laceration": "PROBLEM"
+  },
+  {
+    "Acute foot pain": "PROBLEM"
+  },
+  {
+    "wound care": "TREATMENT"
+  },
+  {
+    "Cut on foot": "PROBLEM"
+  },
+  {
+    "glass": "PROBLEM"
+  },
+  {
+    "bleeding": "PROBLEM"
+  },
+  {
+    "bleeding": "PROBLEM"
+  },
+  {
+    "pain": "PROBLEM"
+  },
+  {
+    "numbness": "PROBLEM"
+  },
+  {
+    "weakness": "PROBLEM"
+  },
+  {
+    "discomfort": "PROBLEM"
+  },
+  {
+    "injuries": "PROBLEM"
+  },
+  {
+    "illness": "PROBLEM"
+  },
+  {
+    "problems": "PROBLEM"
+  },
+  {
+    "Asthma": "PROBLEM"
+  },
+  {
+    "Albuterol": "DRUG"
+  },
+  {
+    "drug allergies": "PROBLEM"
+  },
+  {
+    "smoker": "PROBLEM"
+  },
+  {
+    "Temperature": "TEST"
+  },
+  {
+    "blood pressure": "TEST"
+  },
+  {
+    "pulse": "TEST"
+  },
+  {
+    "respirations": "TEST"
+  },
+  {
+    "Oxygen saturation": "TEST"
+  },
+  {
+    "healthy": "PROBLEM"
+  },
+  {
+    "acute distress": "PROBLEM"
+  },
+  {
+    "Head": "PROBLEM"
+  },
+  {
+    "conjunctiva": "PROBLEM"
+  },
+  {
+    "cornea": "PROBLEM"
+  },
+  {
+    "Supple": "TEST"
+  },
+  {
+    "range of motion": "TEST"
+  },
+  {
+    "Peripheral pulse": "TEST"
+  },
+  {
+    "Capillary refills": "TEST"
+  },
+  {
+    "shortness of breath": "PROBLEM"
+  },
+  {
+    "partial thickness laceration": "PROBLEM"
+  },
+  {
+    "4-mm": "TEST"
+  },
+  {
+    "right foot": "PROBLEM"
+  },
+  {
+    "mid foot": "PROBLEM"
+  },
+  {
+    "foreign body": "PROBLEM"
+  },
+  {
+    "bleeding": "PROBLEM"
+  },
+  {
+    "tendons": "PROBLEM"
+  },
+  {
+    "bone": "PROBLEM"
+  },
+  {
+    "muscle": "PROBLEM"
+  },
+  {
+    "nerves": "PROBLEM"
+  },
+  {
+    "vessels": "PROBLEM"
+  },
+  {
+    "varicose vein": "PROBLEM"
+  },
+  {
+    "bleeding": "PROBLEM"
+  },
+  {
+    "tenderness": "PROBLEM"
+  },
+  {
+    "full range of motion": "TEST"
+  },
+  {
+    "ambulates": "TEST"
+  },
+  {
+    "partial thickness laceration": "PROBLEM"
+  },
+  {
+    "laceration": "PROBLEM"
+  },
+  {
+    "foot": "PROBLEM"
+  },
+  {
+    "injuries": "PROBLEM"
+  },
+  {
+    "Motor": "TEST"
+  },
+  {
+    "5/5": "TEST"
+  },
+  {
+    "right lower extremity": "PROBLEM"
+  },
+  {
+    "dermatomes": "TEST"
+  },
+  {
+    "speech": "TEST"
+  },
+  {
+    "ambulation": "TEST"
+  },
+  {
+    "PSYCHIATRIC": "TREATMENT"
+  },
+  {
+    "mood": "PROBLEM"
+  },
+  {
+    "affect": "PROBLEM"
+  },
+  {
+    "bleeding": "PROBLEM"
+  },
+  {
+    "bruising": "PROBLEM"
+  },
+  {
+    "antibiotic ointment": "DRUG"
+  },
+  {
+    "bandage": "TREATMENT"
+  },
+  {
+    "DIAGNOSES": "PROBLEM"
+  },
+  {
+    "A 4-MM LACERATION": "PROBLEM"
+  },
+  {
+    "2": "TEST"
+  },
+  {
+    "ACUTE RIGHT FOOT PAIN": "PROBLEM"
+  },
+  {
+    "Stable": "PROBLEM"
+  },
+  {
+    "home": "TREATMENT"
+  },
+  {
+    "wound care": "TREATMENT"
+  },
+  {
+    "infection": "PROBLEM"
+  },
+  {
+    "emergency room": "TEST"
+  },
+  {
+    "glass": "PROBLEM"
+  },
+  {
+    "infection": "PROBLEM"
+  },
+  {
+    "foot pain": "PROBLEM"
+  },
+  {
+    "cut on foot": "PROBLEM"
+  },
+  {
+    "piece of glass": "PROBLEM"
+  },
+  {
+    "foreign body": "PROBLEM"
+  },
+  {
+    "active bleeding": "PROBLEM"
+  },
+  {
+    "foot": "PROBLEM"
+  },
+  {
+    "injuries": "PROBLEM"
+  },
+  {
+    "laceration": "PROBLEM"
+  },
+  {
+    "bleeding": "PROBLEM"
+  },
+  {
+    "body": "PROBLEM"
+  }
+]
